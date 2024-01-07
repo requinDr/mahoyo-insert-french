@@ -135,13 +135,15 @@ def trouver_fr_partiel(i: int, lignes_og: list[str], lignes_fr: list[str]):
     isFirstLine = False
 
     for idx, ligne_og in enumerate(lignes_og):
-        if ligne in ligne_og.strip():
+        # La ligne est trouvée dans une autre ligne qui se situe
+        # après la dernière ligne trouvée
+        if ligne in ligne_og.strip() and idx > idx_fichier:
             ligne_fr_entiere = lignes_fr[idx]
             if ligne_og.strip().startswith(ligne):
                 isFirstLine = True
             break
 
-    if ligne_fr_entiere is not None and idx > idx_fichier:
+    if ligne_fr_entiere is not None:
         ligne_fr_entiere = transformer_ruby(ligne_fr_entiere)
 
         # on split la ligne à chaque tags
