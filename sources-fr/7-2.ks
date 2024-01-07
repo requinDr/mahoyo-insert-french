@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Comme le lycée Misaki était privé, les vacances de Noël y commençaient plus tôt qu'ailleurs.
 　La cérémonie de clôture se tenait à la mi-décembre, permettant ainsi à l'école et aux élèves de récupérer momentanément de la fatigue accumulée au cours du second semestre.
 　Bien sûr,

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　À près de quarante mètres au-dessus du sol,
 　une ombre escaladait les rails en direction du centre du parc d'attractions en vérifiant avec une très grande prudence les prises où elle posait les pieds.
 *page1|

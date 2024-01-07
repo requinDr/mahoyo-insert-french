@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Alors qu'il observait cet enchaînement d'évènements, l'admiration de Tobimaru pour Sōjūrō atteignit des sommets.
 *page1|
 　L'attitude d'Aoko était supposée faire sortir de ses gonds son adversaire. Mais Sōjūrō, sans montrer le moindre signe de colère, avait formulé une réponse avec laquelle on ne voyait pas... mais alors, vraiment pas... où il voulait en venir, puis était parti.

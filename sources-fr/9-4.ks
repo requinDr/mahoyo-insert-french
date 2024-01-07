@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　En hiver, le soleil se couche tôt.
 　À seize heures, alors que le jour déclinait,
 　le crépuscule arrivait au manoir avant d'atteindre la ville.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Après avoir fini son travail de la journée, Sōjūrō rentra au manoir.
 「Bon. J'ai cherché partout, et c'est bien le seul escalier qui grimpe à partir du couloir du premier étage.」
 　Juste avant minuit, alors qu'un nouveau jour était sur le point de débuter,

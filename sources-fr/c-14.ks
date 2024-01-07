@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Alice avait vu juste.
 　Le combat avait pris fin avant que Sōjūrō ne les rattrape.
 *page1|

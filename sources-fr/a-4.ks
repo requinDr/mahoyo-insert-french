@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le cercle qu'ils formaient se réduisait lentement,[wait canskip=0 time=400][r]
 　en sillonnant l'épaisse couche de neige.
 *page1|

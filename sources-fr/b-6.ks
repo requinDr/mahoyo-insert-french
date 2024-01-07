@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Je vois. [l]
 Même toi, tu ne pouvais rien contre lui, je n'avais donc pas la moindre chance.
 　...... Mais en bref, il suffit de ne pas l'attaquer avec la Magie, c'est ça ?

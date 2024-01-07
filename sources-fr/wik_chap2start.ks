@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「C'est horrible.」
 　Au deuxième étage du manoir,
 　lorsque nous pénétrâmes dans le grenier situé juste au-dessus du hall, nous nous retrouvâmes dans l'antichambre de l'enfer.

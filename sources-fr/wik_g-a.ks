@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Hein ? Il n'y a pas lieu de se poser la question, pourtant.
 　On lui a attaché de la dynamite sur les mains, les jambes et la tête, non ?」
 「Oui, c'est une conclusion logique et tout à fait naturelle.

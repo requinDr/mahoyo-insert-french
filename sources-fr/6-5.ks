@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La taille du bâtiment était impressionnante.
 　Le manoir à deux étages surclassait l'immeuble où vivait Sōjūrō rien que par son nombre de pièces.
 　Mais il avait la sensation qu'il était un peu trop grand pour deux personnes.

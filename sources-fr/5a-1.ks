@@ -1,4 +1,4 @@
-*page1|
+﻿*page1|
 　Sous un ciel nocturne nuageux, Sōjūrō regagnait son appartement, à pied comme à l'accoutumée.
 *page2|
 　Il monta les escaliers en faisant grincer le métal rouillé à chaque pas.

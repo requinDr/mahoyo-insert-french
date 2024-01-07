@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les matinées en ville avaient l'air sans fin, mais elles passaient en réalité assez rapidement.
 　Il était parfaitement réveillé, au point de douter que c'était le matin.
 *page1|

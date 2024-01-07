@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je suis arrogante, cupide, et ne suis bonne qu'à détruire.[wait canskip=0 time=600][r]
 　Je suis sûrement une louve.
 　Je ne tiens compte d'aucune leçon, ne regarde jamais en arrière,[wait canskip=0 time=600][r]

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le combat entre Kuonji Alice et Aozaki Tōko s'était achevé sur la victoire d'Alice.
 *page1|
 　Le Géant du Pont était un familier spécial, même parmi les “monstres des contes de fées”.

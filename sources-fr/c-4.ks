@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Son cœur battait plus fort que d'habitude.
 　Il refoulait de son mieux une myriade de pensées chaotiques.
 　Ce genre d'idées incohérentes risquaient de lui miner le moral.

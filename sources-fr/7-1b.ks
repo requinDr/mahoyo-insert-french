@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Deux heures plus tôt...
 *page1|
 　Les rêves qu'elle faisait après s'être endormie portaient,[wait canskip=0 time=600][r]

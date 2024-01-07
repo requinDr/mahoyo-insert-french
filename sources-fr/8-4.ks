@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le lendemain, à l'aube.
 　À cinq heures du matin, période à laquelle la plupart des gens dorment encore.
 　Depuis l'année précédente, les supérettes ouvertes 24h/24 apparaissaient peu à peu, mais la bonne vieille ambiance du début des années 80 restait prononcée dans le vieux quartier de Misaki.

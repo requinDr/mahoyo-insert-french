@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je suis devenue l'ombre de cette enfant, il y a huit hivers de cela.
 　Lors d'un matin calme, la première fois qu'elle ressentit le poids de la vie.
 *page1|

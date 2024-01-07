@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je...[r]
 　... songeai que nous devrions attendre le matin dans nos chambres.
 *page1|

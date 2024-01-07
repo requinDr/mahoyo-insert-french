@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Shiwasu, le mois de décembre.
 　On y faisait généralement le bilan de fin d'année.
 　Ce mois passait en un clin d'œil, sans doute à cause de la montagne de choses oubliées par inadvertance au cours de l'année.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Il était sept heures du soir passées.
 　L'établissement du lycée Misaki était plongé dans un sommeil de plomb.
 　Les lueurs de la ville atteignaient le bâtiment, mais un silence profond régnait dans la forêt alentour.

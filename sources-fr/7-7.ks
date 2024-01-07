@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le lendemain,
 　le dernier jour des examens se termina sans incident.
 　Ce que la plupart des étudiants considéraient comme le plus gros problème du mois de décembre se trouvait désormais derrière eux.

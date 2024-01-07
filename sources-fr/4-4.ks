@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le lendemain, le temps était toujours couvert.
 *page1|
 　Les cours de la journée se terminèrent sans incident.

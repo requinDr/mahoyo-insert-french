@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Akikoshiro. C'était le nom de cette gare.
 　La nuit avançait. Il était presque onze heures.
 　Tandis que des groupes entiers prenaient le train pour visiter le temple, les deux jeunes gens avaient emprunté la ligne en sens inverse et étaient arrivés dans cette petite gare.

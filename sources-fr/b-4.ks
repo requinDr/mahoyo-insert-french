@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 “―――Je vois. Tu as tout appréhendé.
 　Tu acceptes tout dans son entièreté,
 　que ce soient tes propres sentiments, mais aussi le futur et ce qui restera inchangé ou pas.

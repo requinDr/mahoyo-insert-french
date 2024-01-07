@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 “...... Pourquoi...... ai-je perdu......?”
 　Même après être tombé au sol, il n'avait pas compris ce qui lui était arrivé.
 　Son cœur avait implosé, sa circulation sanguine s'était inversée, interrompant ses fonctions corporelles ainsi que cérébrales, et enfin, il s'était écroulé.

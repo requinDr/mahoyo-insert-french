@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Alice n'avait pas été lacérée qu'à l'abdomen.
 　Pour être plus précis, son ventre avait été transpercé jusqu'au dos. [l]
 Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvait pas bouger ses jambes d'un pouce.

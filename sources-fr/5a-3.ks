@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　...... Elle pénétra nonchalamment et dans un silence spectral les vestiges d'un rêve qui n'avait pas reçu de visiteurs depuis une éternité.
 　Cette soirée était paisible, et les alentours déserts.
 　Et pourtant, des bruits retentissaient. À leur écoute, elle rapprocha ses mains et sourit avec délectation.

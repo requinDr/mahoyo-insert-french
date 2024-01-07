@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Il s'agissait pour eux d'une mélodie pleine de nostalgie,
 　eux qui étaient autrefois répandus de par le monde.
 　Tous ces êtres dépourvus de parole croyaient sans l'ombre d'un doute que cela continuerait pour l'éternité.

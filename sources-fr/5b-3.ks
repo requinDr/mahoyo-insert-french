@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les balles de prana projetèrent des étincelles bleues.
 　Ils couraient le long du chemin pavé de briques disposées en cercles concentriques,
 　avec une confiance réciproque acquise au champ de bataille encore plus forte que le syndrome de Stockholm.

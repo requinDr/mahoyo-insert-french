@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Je suis rentrée ! Dis, Alice, tu es là aussi ?
 　En revenant de l'église, on m'a offert un cadeau au quartier commerçant ![r]
 　Ça te dirait de manger des senbei d'Iseya avec moi ?!」

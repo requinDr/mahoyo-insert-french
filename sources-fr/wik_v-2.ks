@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Ça ne va pas, je n'ai pas assez d'indices...[r]
 　Si je l'accuse sans preuve, je serai éliminée...」
 *page1|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――En somme,
 　la Magie prend sa source dans les connaissances humaines et le monde,
 　quand la Vraie Magie, elle, se trouve en dehors de ce cercle et en est complètement isolée.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les lampes de la chapelle dégageaient une nostalgique odeur d'huile.
 　Le plafond était haut,
 　et des vitraux décoraient les murs.

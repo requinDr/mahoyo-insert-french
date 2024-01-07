@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Lorsque j'ouvris les yeux, j'étais allongée sur le parquet.
 *page1|
 「Hein... Qu'est-ce que je fais là ?」

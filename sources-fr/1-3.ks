@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. [l]Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression générale : tête en l'air.
 *page1|
 　Du point de vue de Sōjūrō, Aozaki Aoko était une personne débordant d'énergie et qui ne pouvait pas tenir en place.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Cela faisait déjà un an qu'il avait quitté sa région natale et isolée du reste du monde pour rejoindre la civilisation moderne.
 　Pour lui, la plus grande différence entre les hommes et les bêtes se trouvait dans l'existence chez les premiers de préférences de goût.
 *page1|
@@ -561,7 +561,7 @@
 　Elle n'avait peut-être pas remarqué le familier d'ombres, mais manifestement, elle avait senti la présence de Tōko à l'ouvrage tard dans la nuit.
 　Tōko ne voulait pas que Ritsuka lui fasse une leçon sur le bon sens, sachant qu'elle avait fait comme si ce “voleur” n'existait pas sous prétexte que ce n'était qu'un petit criminel.
 *page135|
-「Ce familier disparaîtra au nouvel an, rassure-toi.
+「Ce familier disparaîtra au Nouvel An, rassure-toi.
 　À plus, Ritsuka. On se reverra si le destin le veut. Tu me régaleras de ton fameux café si ça arrive.
 　Ah, et aussi, les articles vendus en pleine nuit ne sont pas à prendre à la légère. J'aime assez leur simplicité.」
 *page136|

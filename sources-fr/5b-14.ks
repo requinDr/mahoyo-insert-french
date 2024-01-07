@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「[ruby char="Sceau" text="Route"], [ruby char="connexion" text="Set"]―――
 　Courant direct motifs multiples, une, deux―――trois couches en réserve.
 　Alimentation en prana, connexion à la source principale.

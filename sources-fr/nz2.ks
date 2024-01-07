@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　'jour. L'être bleu a achevé[r]
 　son observation quotidienne et se tient,[r]
 　fringant, dans le jardin d'enfants.

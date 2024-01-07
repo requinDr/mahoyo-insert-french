@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Mais pour dire la vérité,
 　depuis ce matin, Kuonji Alice était terriblement en colère.
 *page1|

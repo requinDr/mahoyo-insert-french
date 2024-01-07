@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Elle fit son entrée en scène en uniforme, ses longs cheveux ondulant.
 　Le souffle court et les sourcils froncés de mécontentement, elle ressemblait vaguement à un démon sanguinaire.
 *page1|

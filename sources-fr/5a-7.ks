@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――Leur répit était terminé.
 　Aozaki Aoko et Shizuki Sōjūrō.
 　Toutes les conversations banales qu'ils avaient échangées depuis le jour où ils s'étaient rencontrés venaient de prendre fin.

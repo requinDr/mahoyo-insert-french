@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――Deux.
 　C'est ça, ils sont deux, pensai-je.
 *page1|

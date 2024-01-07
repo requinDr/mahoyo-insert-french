@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Shizuki, la porte principale, c'est bien par là ?!」
 「C'est ça ! Juste après ce magasin, c'est la sortie !」
 *page1|

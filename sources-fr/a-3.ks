@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Ce parc était plongé dans des ténèbres blanches, comme s'il avait été effacé de la mémoire des gens.
 　Il était complètement désert.
 　La nuit était bien plus mystérieuse que d'habitude, et par là même, on retenait son souffle face à sa pureté.

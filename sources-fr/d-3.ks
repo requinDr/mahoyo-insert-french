@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Plusieurs questions le taraudaient depuis la fin des derniers incidents.
 　Elles concernaient quelques détails sur cette affaire et la conclusion des hostilités entre les deux sœurs.
 　Sōjūrō aborda donc ce sujet futile.

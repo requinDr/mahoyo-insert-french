@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Tōko, quant à elle, avait parfaitement analysé les évènements.
 　Beo était effondré au sol, de retour à sa forme humaine,
 　tandis que le jeune homme se tenait à ses côtés, les deux bras brisés.

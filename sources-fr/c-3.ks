@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Vas-y, Alice !」
 　Alice obéit sans un mot à l'ordre prononcé sur un ton rageur.
 　Sans la moindre hésitation, elle tourna les talons vers la forêt en laissant Aoko seule face à Tōko.

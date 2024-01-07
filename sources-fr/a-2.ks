@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Avec la tombée de la nuit, deux choses disparurent.
 　D'abord, la neige blanche capricieuse.
 　Ensuite, la lumière du manoir en haut de la colline.

@@ -1,4 +1,4 @@
-*page1|
+﻿*page1|
 「Ça caille ! Il ne fait pas encore plus froid qu'à l'extérieur ?」
 「Si. Allons donc dans le salon.」
 「Je suis d'accord, mais... [l]

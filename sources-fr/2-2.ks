@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Tu as la vie dure, hein Sōjūrō ?」
 「Toi par contre, tu ne m'as pas l'air très occupé, vice-président.」
 *page1|

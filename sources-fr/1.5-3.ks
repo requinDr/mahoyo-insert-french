@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――BONJOUR.
 　HEURE LOCALE : MINUIT CONFIRMÉ.
 *page1|

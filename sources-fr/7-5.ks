@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Après la fin du deuxième jour d'examen, Sōjūrō rentra tout seul au manoir.
 　En montant, la pente s'inclinait de plus en plus et la forêt se densifiait.
 　Le trajet durait plus de vingt minutes, alors pour les habitants du coin, la colline du manoir Kuonji n'était rien d'autre qu'une montagne.

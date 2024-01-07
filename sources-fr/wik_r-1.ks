@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je pensais enfin pouvoir dormir sur mes deux oreilles.
 *page1|
 　Je retournai seule dans ma chambre.

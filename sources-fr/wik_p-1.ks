@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il était dangereux de laisser Aoko seule.
 *page1|
 「Attends, Aozaki. Je viens avec toi.」

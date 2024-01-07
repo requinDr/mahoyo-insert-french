@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La nuit, il lui arrivait d'assister à des scènes étranges en marchant dans le manoir.
 　Comme le brouillard dérivant dans la demeure,
 　ou les portes qui se multipliaient ou disparaissaient.

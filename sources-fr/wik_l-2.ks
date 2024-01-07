@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Avant ça,[r]
 　je songeai que nous devrions écouter le témoignage de cette fille en rose.
 *page1|

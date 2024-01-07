@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「..................」
 　Un léger malaise régnait certes sur les convives, mais les témoignages n'avaient pas permis d'établir de contradictions manifestes, et le silence s'installa dans le salon.
 　Il nous était impossible de déterminer à quelle heure M. Tokitsu était mort.

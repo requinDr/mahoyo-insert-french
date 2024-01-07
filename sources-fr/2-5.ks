@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Lorsque l'école se termina ce jour-là, Sōjūrō se rendit directement à son travail.
 　Les seuls emplois pour lesquels il avait reçu une autorisation de l'école étaient chez le restaurant chinois et le marchand de poissons de la rue marchande du vieux quartier. Il gardait les autres secrets.
 　Et ce n'était pas seulement parce qu'il en avait trop, mais surtout parce que ces endroits semblaient être en infraction avec la loi.

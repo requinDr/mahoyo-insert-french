@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Bien.」
 　Je me réveillai après exactement quinze minutes et inspectai mon profil dans la glace.
 　Je sortis une brosse de mon sac, me coiffai sommairement et quittai la chambre.

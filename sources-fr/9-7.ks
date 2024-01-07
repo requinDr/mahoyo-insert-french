@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Nous revoilà !」
 　Aoko et Alice rentrèrent comme pour remplacer le visiteur imprévu.
 　La première avait l'air pleine de vie même si elle affichait une expression mécontente.
@@ -197,7 +197,7 @@ Mais ça n'a que des limites, c'est ça ?」
 *page50|
 　Aoko le déclara de façon brève et sur un ton neutre.
 　Elle n'était pas devenue Mage pour ensuite être une Magicienne,
-　elle avait choisi de vivre en tant que tel parce qu'elle devait être l'héritière de la famille Aozaki.
+　elle avait choisi de vivre en tant que telle parce qu'elle devait être l'héritière de la famille Aozaki.
 *page51|
 「...... Enfin, peu importe.
 　Pour atteindre le Tourbillon de la Source, il faut faire des recherches sur la Magie pendant des générations. C'est comme créer sa propre rivière, alors forcément, le processus est sans fin.

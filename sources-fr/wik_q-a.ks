@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Aozaki revint la première, après vingt minutes.
 　Elle ôta son imperméable et se sécha avec une serviette de bain.
 *page1|

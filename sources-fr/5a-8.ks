@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Bon.」
 　C'est devenu très dangereux, dit Aoko en son for intérieur.
 　Par rapport à la marionnette que j'ai vaincue il y a deux jours, celle-ci boxe dans une autre catégorie.

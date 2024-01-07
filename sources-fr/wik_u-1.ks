@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il valait mieux continuer à fuir jusqu'au matin.
 *page1|
 「Tiens ?」

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　En quelques secondes, l'effondrement s'était accéléré.
 　Le palais, ayant perdu ses piliers, ployait sous son propre poids en s'affaissant sur son centre.
 *page1|

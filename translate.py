@@ -128,7 +128,7 @@ def trouver_jp_dans_fichier(lignes_og: list[str], ligne: str):
     return None
 
 # Même fonction qu'au dessus, mais pour les lignes partielles
-# Retourne la traduction de la ligne
+# Retourne la traduction du morceau de ligne
 def trouver_fr_partiel(i: int, lignes_og: list[str], lignes_fr: list[str]):
     ligne_fr_entiere = None
     ligne = script_fr_mem[i].strip()

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Ce fut ainsi que le parc d'attractions retrouva sa superbe des jours d'antan.
 　Les innombrables décorations scintillantes illuminant la nuit.
 　Le son d'un disque parvenant des haut-parleurs.

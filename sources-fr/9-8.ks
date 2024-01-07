@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le voile de la nuit était tombé depuis longtemps.
 *page1|
 　Il ne s'était pas passé une heure depuis le départ de Tōko, et pourtant, son visage semblait déjà être un souvenir extrêmement lointain pour Sōjūrō.

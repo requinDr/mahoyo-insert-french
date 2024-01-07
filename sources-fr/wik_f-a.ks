@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Nous voilà dans une situation inimaginable.」
 　J'approuvai sans un mot le murmure d'Aozaki.
 *page1|

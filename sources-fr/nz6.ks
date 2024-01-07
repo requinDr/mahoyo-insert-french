@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Y a pas de sous-titres dans c'film.[r]
 　Pourtant, j'suis sûr que j'ai des répliques.
 *page1|

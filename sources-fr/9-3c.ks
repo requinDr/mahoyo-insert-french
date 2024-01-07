@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Après six stations de métro à partir du vieux quartier de Misaki,
 　puis trois arrêts plus loin via le train express pris en correspondance,
 　Aoko et Alice arrivèrent à la gare d'Arisaka au bout d'une heure environ.
@@ -47,7 +47,7 @@
 *page10|
 「Oh, on dirait que tu apprécies. C'est bien. Très bien.
 　Le lieu que Sōjūrō a suggéré plaît donc à notre exigeante demoiselle.」
-　Amusée par sa réaction, les lèvres d'Aoko dessinèrent un sourire.
+　Les lèvres d'Aoko, amusée par sa réaction, dessinèrent un sourire.
 　Voilà à quel point l'émerveillement d'Alice était attendrissant.
 *page11|
 「...... Pas vraiment. C'est simplement rare de trouver un aquarium sur un toit.」

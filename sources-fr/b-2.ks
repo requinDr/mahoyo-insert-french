@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　En dépit de l'heure tardive, il y avait de la lumière dans l'église,
 　tandis que l'entrée de l'hôpital était à peine éclairée, alors qu'il devait veiller et se préparer à tout accident imprévu.
 　Ils se trouvaient dans le quartier d'Aida, lieu presque dépourvu de divertissements.

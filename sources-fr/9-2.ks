@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Bien après ce coup de téléphone, peu de temps avant midi, ses courses terminées,
 　Sōjūrō rentra au manoir et y trouva Aoko et Alice, silencieuses et la mine sombre.
 *page1|

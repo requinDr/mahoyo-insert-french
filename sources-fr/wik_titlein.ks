@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 *page1|
 　Parc central, midi.
 　Après avoir effectué mon tirage photographique à la supérette, je balançai l'appareil jetable dans une poubelle.

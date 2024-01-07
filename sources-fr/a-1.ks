@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La veille de Noël, la neige commença à tomber doucement.
 *page1|
 　Comme consciente de sa propre valeur, la première neige de cette année se montra en ce jour d'anniversaire que tout le monde fêtait.

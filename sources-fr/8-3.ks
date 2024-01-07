@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「..............., qu'est-ce que...?」
 　Sur le moment, Aoko ne put déterminer de qui il s'agissait.
 *page1|

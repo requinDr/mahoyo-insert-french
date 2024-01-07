@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La ville de Misaki ne possédait qu'une seule ligne de métro.
 　Les deux jeunes filles se tenaient immobiles à l'extrémité du tout nouveau quai inauguré moins de six mois auparavant.
 　Il était dix-huit heures trente.

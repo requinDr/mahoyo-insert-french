@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　...... J'entrepris de me lancer à sa poursuite.
 　Envahie d'une sensation sinistre, je partis à la recherche de la source du regard.
 　Après un rapide tour du manoir, je me retrouvai face à un petit bois.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　À peu près vingt minutes plus tard,
 　Aoko et Alice saluèrent Sōjūrō dans le salon après s'être habillées pour sortir.
 *page1|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Qu............」
 　La voix d'Aoko, toujours à terre, s'étouffa dans sa gorge.
 　À vrai dire, elle n'avait pas compris ce qui venait de se passer sous ses yeux.

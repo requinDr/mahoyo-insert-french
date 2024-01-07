@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　　　　　　Je trouvai ce livre un dimanche,[wait canskip=0 time=400][r]
 　　　　　　pendant une matinée languissante.
 *page1|

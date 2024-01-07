@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Tiens ?」
 　Dans le couloir, je croisai Aozaki.
 　Elle venait apparemment du fond du couloir et se dirigeait vers le hall.

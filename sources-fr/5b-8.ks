@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Du haut de la tour d'horloge, la fille observait la croissance de son familier.
 　Flat Snark.
 　Le Sauveur de ceux qui ont été abandonnés.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Hein ?」
 　Ses paupières s'ouvrirent brusquement.
 　Sōjūrō sortit de son sommeil éternel.

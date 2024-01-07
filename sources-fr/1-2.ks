@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Quand elle arriva devant la porte principale, la pluie battante avait faibli.
 　Au loin dans le ciel, on pouvait voir les rayons du soleil qui se dissimulaient.
 　À ce rythme, la pluie cesserait peut-être en début d'après-midi.

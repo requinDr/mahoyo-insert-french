@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　...... Ainsi, la lune disparut sans attendre l'aube.
 　La structure du pays des merveilles se dissolvait.
 　La mélodie joyeuse qui résonnait dans les allées,

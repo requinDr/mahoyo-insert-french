@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Tu crois ? Je ne pense pas que ça sera aussi facile, Yui.」
 「Ritsuka ? Que veux-tu di―――」
 *page1|

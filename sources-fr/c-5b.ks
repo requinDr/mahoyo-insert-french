@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
 　Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre silencieuse.
 　La position qu'il devait occuper se trouvait exactement à trois pas.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Quoi qu'il en soit, Sōjūrō consentit à sa vie surveillée dans la résidence.
 　Il devrait vivre sous le même toit que celles qui faisaient de la Magie leur profession,
 　tout en ayant expérimenté lui-même le danger que cela représentait.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Pour tout vous dire, je suis une Magicienne.
 　Vous savez ? Cette personne dans les contes de fées qui peut accomplir des miracles d'un claquement de doigts et qui vit cachée dans une forêt reculée et impénétrable.
 　Ce concept ne me correspond pas tout à fait, mais comme c'est assez approchant, je pense conserver cette appellation.

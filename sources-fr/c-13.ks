@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les lames de tonnerre furent repoussées par les balles de prana à la manière d'une bourrasque de vent.
 *page1|
 　L'Atelier qui sert de base à un Mage représente son principal et ultime atout.

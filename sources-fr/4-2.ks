@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Environ deux heures plus tard, à neuf heures du soir.
 　Elles continuèrent la conversation après être passées du salon à la véranda, où se déroula une scène plutôt incongrue pour une résidence occidentale.
 *page1|

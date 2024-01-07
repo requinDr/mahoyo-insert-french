@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Hum. J'étais dans le manoir la majeure partie du temps, mais comme j'étais occupé avec les préparatifs, je n'ai pas vraiment eu le temps de parler avec tout le monde. [wait canskip=0 time=300][chgfg storage=草十郎私服01b(全)|首輪h zoom=80 time=300 textoff=0]Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.
 　En dehors des préparatifs, je suis resté essentiellement dans le salon.
 　J'ai aussi fait des courses et entretenu le jardin, mais c'était dans l'après-midi. [wait canskip=0 time=300][chgfg storage=草十郎私服02a(全)|首輪d zoom=80 time=300]Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokitsu dans un état terrible.」

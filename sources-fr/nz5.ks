@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Fiou. Ébloui par c'ciel bleu,[r]
 　j'ai crié l'titre par allégresse.
 *page1|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――Bon sang, je n'arrive pas à mettre de l'ordre dans mes idées !
 　Il m'était impossible d'identifier le coupable.
 　De toute façon, c'est davantage un duel d'endurance que d'intelligence. Je dois m'enfuir !

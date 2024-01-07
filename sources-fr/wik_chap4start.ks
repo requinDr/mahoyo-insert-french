@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Laissés pour compte, nous restions plantés dans le vestibule, incapables de nous rendre dans le salon.
 *page1|
 　Les lumières y étaient presque toutes éteintes.

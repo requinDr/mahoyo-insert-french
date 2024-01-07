@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――Sōjūrō pensait à une chose à propos de Tōko.
 　Une question en particulier le tracassait depuis ce jour fatidique.
 *page1|

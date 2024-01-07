@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il vaudrait peut-être mieux rentrer chez moi.
 *page1|
 「Et dire que toute la carte de la météo était recouverte du symbole du soleil.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「C'est ça ?」
 　Il avait suivi le plan et s'était dirigé vers l'ouest depuis le centre de la grande place silencieuse.
 　À l'arrivée se dressait un château aux formes excentriques, majestueux et coloré, avec la nuit nuageuse en toile de fond.

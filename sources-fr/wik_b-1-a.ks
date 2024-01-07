@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Aozaki attendait à l'entrée de l'aile est.
 「Désolée, j'ai été trop longue ?」
 「Non, pas vraiment. Et puis, je n'ai rien à faire pour le moment.

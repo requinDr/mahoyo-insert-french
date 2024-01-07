@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Mais les espoirs sont toujours éphémères.
 　Dans leur cas, ils ne durèrent que trois cents mètres.
 　Car la fin du parc d'attractions était, sans la moindre métaphore, “la fin du monde” elle-même.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Attends. Il est interdit d'entrer dans cette chambre.」
 　...... entendirent-ils.
 　Alors qu'il se dirigeait vers la chambre au fond de la chapelle, Sōjūrō fut interpellé par une voix glaciale.

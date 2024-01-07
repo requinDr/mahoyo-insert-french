@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La brise nocturne était glaciale et le ciel magnifique.
 　Le spectacle offert à la fin d'une journée n'est cependant jamais le même.
 　Chaque jour nous offre un paysage unique.

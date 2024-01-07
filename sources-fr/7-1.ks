@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　　　　　　Il y a fort longtemps, j'ai vu un magnifique oiseau.
 *page1|
 　Il volait en cercle, au loin, dans le ciel bleu.

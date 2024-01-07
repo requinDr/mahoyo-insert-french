@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Enfin, voilà ce qu'il en est.
 　Vous avez dû comprendre à présent que je ne me repose pas uniquement sur Beo.」
 　Son expression restait froide. Bien que la victoire lui soit incontestablement acquise, Tōko n'esquissait pas le moindre sourire.

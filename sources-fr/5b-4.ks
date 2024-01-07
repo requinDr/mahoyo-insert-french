@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Cui, cui cui cui, cui !
 　L'oiseau bleu au cri aigu changea d'altitude et entra dans le champ visuel de sa maîtresse.
 　Elle écouta son rapport sans montrer la moindre expression.

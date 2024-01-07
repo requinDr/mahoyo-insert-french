@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je chargeai le sac que j'avais posé dans le salon sur une épaule, puis je me rendis au premier étage.
 　D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile est.
 *page1|

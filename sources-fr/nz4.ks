@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Yo ! Tu travailles toujours comme un chien, l'idiot ?[r]
 　Donne-moi une douzaine de portions pour oiseau.[r]
 　Ton meilleur millet ou ton meilleur blé.

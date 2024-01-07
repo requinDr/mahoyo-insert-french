@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Me voilà soulagé.」
 　murmura Sōjūrō parfaitement immobile, peut-être parce que ses deux bras brisés le faisaient souffrir.
 *page1|

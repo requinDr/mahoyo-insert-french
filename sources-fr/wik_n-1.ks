@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il fallait se ranger à cet avis.
 *page1|
 「Il serait vain de chercher la vérité maintenant. Il est grand temps de prendre une décision.

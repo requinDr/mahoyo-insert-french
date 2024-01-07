@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Chef. Une assiette[r]
 　de thon trois variétés.
 *page1|

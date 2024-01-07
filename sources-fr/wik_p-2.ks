@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il était préférable d'attendre le retour du trio dans le manoir.
 *page1|
 「Bon, eh ben, on y va. Si on ne trouve rien d'ici vingt minutes, on reviendra ici.」

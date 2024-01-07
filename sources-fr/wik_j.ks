@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu pacifiquement au manoir.
 　Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
 　Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Commençons par relater leur quotidien.
 *page1|
 　La configuration des étoiles annonçait qu'il fallait vouer cette journée au travail,

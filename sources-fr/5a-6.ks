@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Aoko courait dans le labyrinthe recouvert de miroirs tout en endurant la douleur dans son dos.
 　Sōjūrō, tiré par la main comme s'il n'était qu'un poids mort, faisait de même.
 *page1|

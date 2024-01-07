@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Il était encore plongé dans un profond sommeil―――[p][r]
 *page1|
 　Il se trouvait dans un songe d'un rouge écarlate,

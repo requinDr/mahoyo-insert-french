@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Tout comme le temps à l'extérieur, le vestibule était d'un gris maussade.
 　Il n'y avait aucune lumière dans l'entrée, vraisemblablement parce que l'architecte n'en avait pas prévu à l'origine.
 　Grâce à l'ouverture au niveau du premier étage,

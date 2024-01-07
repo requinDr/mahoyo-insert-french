@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Aoko et Sōjūrō continuaient de courir en se dirigeant vers la clôture qui séparait le parc d'attractions de l'extérieur.
 　De moins en moins d'obstacles ralentissaient leur progression.
 　Il restait un peu moins de trois cents mètres jusqu'à la clôture du côté est qui conduisait à l'extérieur.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　... Je me réveillai au son du rugissement du vent.
 　La lumière était éteinte.
 　Je ne me rappelai pas de l'avoir éteinte avant de me coucher. [se storage=se01054 volume=100 loop=0][wait canskip=0 time=400][se storage=se01054 volume=100 loop=0][wait canskip=0 time=400]Je me levai, perplexe, et appuyai sur l'interrupteur, mais cela n'eut aucun effet.

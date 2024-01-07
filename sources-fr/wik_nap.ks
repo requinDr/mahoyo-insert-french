@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Ahー, je suis claquée.」
 　Je m'assis lourdement sur le lit.
 　Discuter avec Tsukiji me mettait sur mes gardes, et une autre sorte de tension m'envahissait quand j'étais avec Kuonji.

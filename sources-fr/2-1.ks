@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 “La ville est un enfer.
 　Mais une fois qu'on y est habitué, je pense qu'il est relativement facile d'y vivre.”
 *page1|

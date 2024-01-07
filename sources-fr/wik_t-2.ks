@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je... Je songeai qu'au vu de la situation, c'était inévitable.
 *page1|
 「Po... Pourquoi pas, ça pourrait être plus prudent, juste au cas où.

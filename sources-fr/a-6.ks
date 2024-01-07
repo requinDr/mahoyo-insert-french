@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le téléphone sonna.
 　Sōjūrō entendit pour la deuxième fois la sonnerie retentir lugubrement dans le vestibule en cette heure tardive.
 　Il ne s'était passé que quelques minutes depuis l'appel d'Alice.

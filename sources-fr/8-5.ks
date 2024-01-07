@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les rayons du soleil passant à travers les fenêtres étaient radieux.
 　Il serait bientôt neuf heures du matin, le moment où les émissions télévisées commençaient à battre leur plein dans les salons.
 　Sōjūrō, assis sur le sofa, contemplait l'extérieur.

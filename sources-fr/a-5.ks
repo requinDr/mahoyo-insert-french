@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――Elle entendait la respiration de la bête toute proche.
 　Apparemment, elle avait perdu connaissance pendant quelques secondes.
 　Alice ouvrit les yeux et inspira.

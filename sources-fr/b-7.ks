@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Puis,
 　cette personne inoffensive entra dans la chambre peu de temps après.
 　Lorsqu'Aoko vit le visage blême de Sōjūrō à deux doigts de s'évanouir, elle se demanda qui était vraiment le patient.

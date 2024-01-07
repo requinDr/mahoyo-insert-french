@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　À peine entrée, je dus empêcher mon corps de bondir.
 　Je n'eus même pas le temps de me sentir apaisée par l'atmosphère du salon, plus intimiste que le vestibule.
 　En effet, l'un des visages présents, bien qu'il me soit familier, m'avait prise au dépourvu.

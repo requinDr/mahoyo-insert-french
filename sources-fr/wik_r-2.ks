@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je pensais que ce ne serait peut-être pas le cas.
 *page1|
 「On peut enfin dormir.

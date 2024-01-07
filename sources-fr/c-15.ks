@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Chaque fleur blanche prenait son envol vers le ciel nocturne.
 　Alice contemplait le ciel étoilé des origines au beau milieu de cette tempête de fleurs.
 　Les pétales formaient des nuages naissant et disparaissant en silence, comme dans un rêve.

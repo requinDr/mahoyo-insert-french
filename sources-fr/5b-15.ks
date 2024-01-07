@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Ouaah. C'était vraiment risqué.」
 　Aoko contemplait le ciel étoilé, vautrée sur le sol.
 　Elle ne pouvait même plus bouger un doigt.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
 「Kumari ? Que fais-tu ? On y va.」
 「Pa... Pardon, j'arrive.」

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Après avoir couru dans le couloir à l'aveuglette et s'être suffisamment éloigné de la marionnette, Sōjūrō s'arrêta subitement.
 *page1|
 「Euh, tout compte fait...」

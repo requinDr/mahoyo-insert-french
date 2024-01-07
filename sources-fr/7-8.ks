@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Une silhouette aux cheveux longs entra à pas de loup dans le vestibule, moins de deux minutes après le départ de Sōjūrō du manoir.
 　Il ne s'agissait de personne d'autre qu'Aozaki Aoko qui, depuis tout à l'heure, épiait ce qui se passait depuis l'extérieur.
 *page1|

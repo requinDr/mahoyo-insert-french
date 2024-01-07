@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「――――――」
 　Sōjūrō inspira et expira profondément avant de pénétrer dans la cour.
 　Il avait les yeux braqués vers le garçon blond, mais son attention se portait en réalité en son for intérieur.

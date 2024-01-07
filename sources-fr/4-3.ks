@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Cependant,
 　Aozaki Aoko n'avait pas pour habitude de rester indéfiniment prostrée simplement parce qu'on lui avait porté un coup critique.
 　Elle débarrassa rapidement la table, laissa Alice prendre son bain en premier et quitta le salon.

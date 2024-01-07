@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Dès l'instant où il pénétra dans la grotte, il fut assailli par un étrange sentiment de nostalgie.
 　Une nostalgie bien plus profonde qu'un simple mal du pays,
 　car même lui était capable de sentir qu'elle remontait à des temps lointains.

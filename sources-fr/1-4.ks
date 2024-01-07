@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Comme elle l'avait déclaré, Aoko prit le chemin du retour sans repasser par la salle des professeurs.
 　La proposition de Yamashiro de la ramener en voiture avait de quoi l'intéresser, mais l'idée de lui gâcher son jour de congé était une perspective bien plus alléchante.
 *page1|

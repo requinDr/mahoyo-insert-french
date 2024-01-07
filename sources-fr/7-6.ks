@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Cet uniforme avait été confectionné avec un goût prononcé pour les couleurs éclatantes.
 　Le tablier orange était décoré d'une caricature d'ours blanc pulvérisant un wok d'un puissant coup de griffes.
 　Dans les alentours du vieux quartier de Misaki, ce design n'avait rien à envier aux autres, et il pouvait être confondu avec les signalisations dans les zones montagneuses.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Quoi qu'il en soit, la fille en noir, responsable de la tension, avait quitté la pièce.
 　Dans la chambre restaient Sōjūrō, allongé sur le lit, et Aozaki Aoko, debout en uniforme.
 　Pour Sōjūrō, c'était l'occasion parfaite d'obtenir des réponses aux questions qui s'étaient accumulées.

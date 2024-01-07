@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　　Quoi qu'il arrive, le final serait splendide.
 　　L'ultime représentation allait se dérouler dans le palais des glaces.
 *page1|

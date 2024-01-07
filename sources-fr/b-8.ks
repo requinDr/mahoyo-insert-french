@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　À la nuit tombée, Sōjūrō se trouvait seul dans la chapelle.
 　Le jeune homme était assis à l'extrémité d'un banc.
 　Tel un pénitent, il se sentait submergé par un indéfinissable sentiment d'impuissance.

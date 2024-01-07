@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Après un certain temps,
 　environ une minute plus tard...
 *page1|

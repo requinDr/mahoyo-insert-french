@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Revenons dans le temps, au manoir Kuonji.
 　La vidéo en cours de lecture se termina.
 　Les sons discordants cessèrent automatiquement sans qu'ils n'aient eu à appuyer sur le bouton stop.

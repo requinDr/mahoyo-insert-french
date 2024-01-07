@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Enfin bon, tant qu'on n'a aucun moyen d'être catégorique, nos suppositions restent des suppositions.
 　À part ça, Kumari, tu ne penses pas que la difficulté est de savoir comment ils ont été tués plutôt que quand ?」
 *page1|

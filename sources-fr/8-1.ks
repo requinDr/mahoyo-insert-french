@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Les vacances de Noël du lycée Misaki commençaient aux alentours de la mi-décembre.
 　Le calme de cette école, qui ne possédait pas de club de sport renommé à l'échelle nationale, sans pour autant être un modèle dans la préparation à l'université, avait quelque chose de reposant.
 　L'édifice tout récemment construit, à présent désert, évoquait un cygne se posant sur un lac en hiver.

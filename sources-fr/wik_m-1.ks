@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai à jeter un petit coup d'œil dans le couloir.
 *page1|
 　Là, je vis un triste spectacle.

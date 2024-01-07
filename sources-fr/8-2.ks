@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　L'activité journalière de l'équipe spéciale de nettoyage se termina sans manifestation de joie ni scandale.
 　Il était à présent trois heures de l'après-midi.
 　Quand ils se séparèrent, Kinomi et les autres proposèrent à Sōjūrō d'aller s'amuser, mais il déclina poliment en expliquant qu'il travaillait ce soir-là.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Arrivée dans le vestibule, Alice descendit du dos de Sōjūrō et se dirigea vers l'aile ouest.
 　La partie gauche du manoir, à l'ouest du vestibule, était sous sa juridiction.
 　Cependant, elle s'écroula au sol après seulement quelques pas.

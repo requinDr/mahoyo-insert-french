@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Aoko laissa Sōjūrō dans le salon et retourna dans sa chambre.
 　Lorsqu'elle s'assit sur le lit après avoir fermé la porte, la fatigue s'abattit brutalement sur elle.
 　Sōjūrō ne pouvait pas le savoir, mais Aoko s'était préparée à se battre,

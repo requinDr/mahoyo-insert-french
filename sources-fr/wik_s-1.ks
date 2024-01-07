@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je pensai qu'Aozaki Tōko était la toute première victime.
 *page1|
 「Oui, sinon les actions d'Aozaki ne seraient pas logiques.

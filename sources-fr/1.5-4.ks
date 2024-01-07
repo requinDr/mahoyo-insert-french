@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Nous revenons un peu dans le temps.
 　Pour situer la date, c'était une petite parenthèse au début du mois de décembre.
 *page1|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　À cet instant,
 「?」
 　un étrange vacarme nous parvint de l'extérieur.

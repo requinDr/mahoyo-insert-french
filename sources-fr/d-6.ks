@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Ce n'est qu'après avoir ressassé cette conversation qu'Aoko réaliserait quelque chose :
 　le monologue de Sōjūrō avait tout d'une confession.
 　Pour lui, il s'agissait d'une longue et vieille histoire honteuse.[p][r]

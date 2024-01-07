@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　En quelques mots, [wait canskip=0 time=1300]voilà ce qu'il s'était passé la veille.
 *page1|
 　“Les nuits sans lune, tu ne dois surtout pas te retourner―――”[wait canskip=0 time=1200]

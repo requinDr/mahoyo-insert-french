@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　...... Le temps s'écoula comme du sable.
 *page1|
 「―――Finalement...」

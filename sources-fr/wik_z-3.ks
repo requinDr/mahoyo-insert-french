@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――C'est moi.」
 　Oui.
 　Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.

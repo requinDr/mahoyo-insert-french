@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　―――C'était Shizuki.
 　C'était lui qui remplissait le mieux les conditions.
 　Il connaissait le manoir.

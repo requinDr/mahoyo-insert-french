@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je décidai d'aller voir ma chambre en tout premier lieu.
 *page1|
 「Hōsuke, rends-moi mon sac en fait. Je vais d'abord aller dans ma chambre. Aozaki, où se trouve-t-elle ?」

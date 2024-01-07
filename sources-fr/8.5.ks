@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Même quand on est débordé, tant que l'on mène une vie d'humain normale, une petite plage de temps libre apparaîtra nécessairement à un moment ou à un autre.
 　Par exemple, avant et après les repas.
 　Il n'est pas vraiment possible de passer outre le temps de préparation du repas et le repos forcé qui le suit.
@@ -310,7 +310,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　Son murmure sonnait comme une excuse et accentua davantage son sourire amer.
 　Il tuait le temps de la sorte car il n'avait, dans un certain sens, aucun endroit où rentrer.
 *page75|
-　Dans le clan Tsukiji, une réunion de famille avait lieu chaque nouvel an, sous la direction du patriarche.
+　Dans le clan Tsukiji, une réunion de famille avait lieu chaque Nouvel An, sous la direction du patriarche.
 　En conséquence, la fratrie dispersée s'était réunie depuis quelques jours pour séjourner dans la maison des Tsukiji.
 *page76|
 　Si Tobimaru se trouvait là, il serait source de problèmes.
@@ -448,7 +448,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 　Pourtant, l'époque ne m'a pas choisi. Pire, elle a renié le talent artistique qui sommeillait en moi.」
 *page110|
 「Que de regrets ! Crevez, bande de journalistes pourris jusqu'à la moelle !
-　Où ont-ils vu leur “créature de cauchemar” ?! Existe-t-il d'autre mascotte de rêve comme celle-là ? Non, il n'y en a aucune ! [l]
+　Où ont-ils vu leur “créature de cauchemar” ?! Existe-t-il d'autres mascottes de rêve comme celle-là ? Non, il n'y en a aucune ! [l]
 Et pourtant, ils ne voient aucun problème à une souris marchant sur deux pattes !
 　Et puis, en y pensant sérieusement, une espèce de rongeur qui prend un chien comme animal de compagnie, ça fait peur ! Un animal qui en apprivoise un autre ? Il n'y a plus de morale ! N'aurait-il pas mieux valu qu'un humain soit l'animal de compagnie ?」
 *page111|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Une... marionnette......?」
 　Une marionnette atypique émergeait lentement des ténèbres.
 　Son aspect indescriptible et la beauté de sa construction, visibles même à cette distance, firent oublier un instant l'étrangeté de l'apparition et―――

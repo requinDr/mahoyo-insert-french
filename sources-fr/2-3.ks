@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Shizuki est là ?」
 　À douze heures cinquante, alors que la pause déjeuner était sur le point de se terminer,
 　Aozaki Aoko se montra dans la salle 2-C toujours aussi survoltée,

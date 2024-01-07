@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai qu'il fallait identifier le coupable.
 *page1|
 「Calme-toi. Les conditions sont censées être réunies.」

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「Excusez-moi. C'est Kumari de la classe 2-D.
 　J'ai remis la clef de la remise du gymnase dans la salle des professeurs.」
 　Lorsque Kumari Kojika pénétra dans la deuxième salle du conseil étudiant, elle n'y trouva qu'Aozaki Aoko.

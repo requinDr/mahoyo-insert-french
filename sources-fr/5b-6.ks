@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La Snarkisation du parc d'attractions arrivait à sa dernière étape.
 　Les mascottes n'étaient pas les seules à avoir reçu la vie.
 　Même les bâtiments se transformaient en êtres vivants, comme le restaurant de burgers.

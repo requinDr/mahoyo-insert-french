@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　...... Puis,
 　lorsque Sōjūrō ouvrit les yeux, sur le lit d'une chambre inconnue, il eut le souffle coupé.
 　Cependant, ce n'était pas à cause du cadre de la chambre, où non seulement la moquette mais aussi le papier peint semblaient hors de prix,

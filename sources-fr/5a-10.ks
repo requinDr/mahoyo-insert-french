@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 “Ton rôle sera peut-être assez risqué, finalement.”
 　annonça Aoko à Sōjūrō avant de commencer à courir silencieusement, étouffant ses bruits de pas autant que possible.
 　Seul Sōjūrō resta au bout de la spirale, au centre du premier étage.

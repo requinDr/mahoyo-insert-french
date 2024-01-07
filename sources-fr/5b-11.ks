@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Leur entretien secret prit fin au bout de dix minutes.
 　Après avoir réfléchi sur le vrai corps du Snark et sur la stratégie à mettre en œuvre pour le vaincre, ils se mirent d'accord sur leurs rôles respectifs.
 *page1|

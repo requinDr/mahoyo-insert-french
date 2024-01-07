@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「...... Celle-là ! Quelle mauvaise perdante !」
 　se plaignit Aoko en s'adossant au sofa.
 　Son visage affichait une irritation encore plus grande que d'habitude.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Si on prenait les choses par la fin,
 　même si Sōjūrō était l'homme le plus chanceux du monde, il n'avait aucune chance de s'échapper.
 *page1|

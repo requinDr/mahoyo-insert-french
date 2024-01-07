@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La ligne était toujours établie, mais Aoko ne disait plus rien.
 　Alice raccrocha, enfila rapidement sa cape et s'élança vers l'entrée. Elle bougeait gauchement son corps gravement blessé de par sa seule volonté.
 　Elle s'arrêta net à mi-chemin et fixa Sōjūrō d'un air pensif.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 「―――Ils se sont séparés ?! Ces deux-là ?!」
 　La jeune fille sentit poindre les prémices d'un mauvais présage suite au rapport du rouge-gorge.
 　Apparemment, ils étaient partis dans deux directions opposées.

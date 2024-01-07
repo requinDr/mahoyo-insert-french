@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je songeai que cette idée était mauvaise sur bien des points et que si je fermais à clef, je serais en sûreté.
 *page1|
 「Ça ira. Il ne reste plus beaucoup de temps de toute façon.

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Pendant ce temps, ayant apparemment compris que leurs proies récupéraient rapidement, les objets formèrent un cercle et observèrent Aoko et Sōjūrō à distance.
 　Ils pensaient les amener à la boulangerie pour les brûler à mort,[wait canskip=0 time=400][r]
 　ou les broyer avec la machine à hacher de la boucherie.

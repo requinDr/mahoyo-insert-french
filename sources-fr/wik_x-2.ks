@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　C'était la cause de l'incident.
 　Je me demandai qui avait activé ce Ploy.
 *page1|

@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Six jours plus tard, le temps était en légère amélioration.
 *page1|
 　Sōjūrō fut mis au courant alors qu'il se reposait avec Alice après une journée de grand nettoyage.

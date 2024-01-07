@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je décidai d'aller me promener sans but particulier.
 　Je n'avais vraiment aucune arrière-pensée. On ne pouvait même pas parler d'inspiration soudaine, car ce n'était qu'un simple coup de tête.
 *page1|

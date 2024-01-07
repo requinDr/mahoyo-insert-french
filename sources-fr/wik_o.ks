@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Je pensai qu'il était temps d'éclaircir un certain problème.
 *page1|
 「Bon, eh bien, que chacun aille dans sa chambre―――」

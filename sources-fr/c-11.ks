@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　La cour enneigée et reculée se métamorphosa en un clin d'œil.
 　Les trois filles se trouvaient à présent sur une mer de fleurs blanches en pleine floraison.
 　Seuls les arbres dénudés et l'école délabrée indiquaient qu'il s'agissait bien de leur monde d'origine.

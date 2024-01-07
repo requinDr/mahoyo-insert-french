@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Un matin, dix jours avant la fin du mois de décembre.
 　Tandis que la ville s'égayait de l'arrivée de Noël, Sōjūrō se rendait à son travail comme pour aller à contre-courant de la tendance.
 　Sous un ciel menaçant annonciateur de chutes de neige, l'avenue qu'il arpentait voyait ses boutiques regorger de vie.

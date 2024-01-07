@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le tumulte venant de la ville lui fit dresser l'oreille.
 　Alors qu'il somnolait après son repas, le loup doré bâilla à s'en décrocher la mâchoire et se roula en boule d'un air ennuyé.
 *page1|

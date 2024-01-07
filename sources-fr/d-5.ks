@@ -1,4 +1,4 @@
-*page0|
+﻿*page0|
 　Le chemin avait fini par prendre l'aspect d'un sentier de montagne.
 　Le mont de petite taille offrait une vue plutôt dégagée, et la route était large malgré le terrain boisé.
 　Le chemin naturel bordé d'arbres s'étendait au loin vers le sommet.
