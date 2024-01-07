@@ -85,28 +85,28 @@ def cree_fichier_sortie(chemin: str, lignes: list):
         print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 
 pattern_ruby = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
-def modifier_traduction(ligne: str):
+def modifier_traduction(ligne: str, nbStartSpaces: int = 0):
     # modifie le format du ruby
     match = re.search(pattern_ruby, ligne)
     if match:
         remplacement = f"<{match.group(1)}|{match.group(2)}>"
         ligne = re.sub(pattern_ruby, remplacement, ligne)
 
-    # remplace les espaces japonais en milieu de ligne par des espaces français
-    # ligne = re.sub(r'(?<=\S)\u3000(?=\S)', ' ', ligne)
-
     # supprime les tags
     ligne = re.sub(r'\[.*?\]', '', ligne)
 
-    # supprime les espaces en fin de ligne (juste les espaces, pas les rtours à la ligne)
+    # supprime les espaces en fin de ligne
     ligne = ligne.rstrip() + "\n"
+
+    # indente
+    ligne = indente(nbStartSpaces, ligne)
 
     return ligne
 
-def remplace_dans_script(indice: int, ligne: str):
+def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = 0):
     global script_fr_mem
 
-    ligne = modifier_traduction(ligne)
+    ligne = modifier_traduction(ligne, nbStartSpaces)
     script_fr_mem[indice] = ligne
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
@@ -120,7 +120,7 @@ def trouver_jp_dans_fichier(lignes_og: list, ligne: str):
 
 def recupere_ligne_traduite(lignes_fr: list, indice: int, nbStartSpaces: int = 0):
     if indice < len(lignes_fr):
-        return indente(nbStartSpaces, lignes_fr[indice].strip()) + "\n"
+        return lignes_fr[indice].strip()
     
     return None
 
@@ -150,7 +150,7 @@ def creer_fichier_steam(lignes_script: list, script_sortie: str):
             # on remplace la ligne par la traduction située dans la troisième colonne
             if not create_csv and (idx + 1) in csv_dict and csv_dict[idx + 1][csv_columns[2]].strip() != "":
                 nbStartSpaces = len(ligne) - len(ligne.lstrip())
-                remplace_dans_script(idx, indente(nbStartSpaces, csv_dict[idx + 1][csv_columns[2]] )+ "\n")
+                remplace_dans_script(idx, csv_dict[idx + 1][csv_columns[2]]+ "\n", nbStartSpaces)
                 continue
             
             # S'il n'y a que des espaces dans la ligne, on passe à la suivante
@@ -161,9 +161,9 @@ def creer_fichier_steam(lignes_script: list, script_sortie: str):
             if indice is not None:
                 # compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
                 nbStartSpaces = len(ligne) - len(ligne.lstrip())
-                ligne_traduite = recupere_ligne_traduite(lignes_fr, indice, nbStartSpaces)
+                ligne_traduite = recupere_ligne_traduite(lignes_fr, indice)
                 if ligne_traduite:
-                    remplace_dans_script(idx, ligne_traduite)
+                    remplace_dans_script(idx, ligne_traduite, nbStartSpaces)
             else:
                 nb_non_trouvees += 1
                 csv_missing[idx + 1] = ligne
