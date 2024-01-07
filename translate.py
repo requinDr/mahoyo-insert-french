@@ -8,8 +8,10 @@ import re
 # key: line number => value: file name
 from translate_map import map as map_fichiers
 
-script_fr_mem = list()
+script_fr_mem = list([str])
 csv_missing = dict()
+idx_fichier = 0 # index du fichier de la map en cours de traitement
+
 
 # Le script source ja devrait être modifié pour ne pas avoir de ruby
 # avant de lancer le script afin que la traduction puisse être trouvée
@@ -85,12 +87,16 @@ def cree_fichier_sortie(chemin: str, lignes: list):
         print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 
 pattern_ruby = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
-def modifier_traduction(ligne: str, nbStartSpaces: int = 0):
-    # modifie le format du ruby
+def transformer_ruby(ligne: str):
     match = re.search(pattern_ruby, ligne)
     if match:
         remplacement = f"<{match.group(1)}|{match.group(2)}>"
-        ligne = re.sub(pattern_ruby, remplacement, ligne)
+        return re.sub(pattern_ruby, remplacement, ligne)
+    return ligne
+
+def modifier_traduction(ligne: str, nbStartSpaces: int = 0):
+    # modifie le format du ruby
+    ligne = transformer_ruby(ligne)
 
     # supprime les tags
     ligne = re.sub(r'\[.*?\]', '', ligne)
@@ -111,20 +117,61 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = 0):
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
-def trouver_jp_dans_fichier(lignes_og: list, ligne: str):
+def trouver_jp_dans_fichier(lignes_og: list[str], ligne: str):
+    global idx_fichier
+    
     for idx, ligne_og in enumerate(lignes_og):
         if ligne.strip() == ligne_og.strip():
+            idx_fichier = idx
             return idx
 
     return None
 
-def recupere_ligne_traduite(lignes_fr: list, indice: int, nbStartSpaces: int = 0):
+# Même fonction qu'au dessus, mais pour les lignes partielles
+# Retourne la traduction de la ligne
+def trouver_fr_partiel(i: int, lignes_og: list[str], lignes_fr: list[str]):
+    ligne_fr_entiere = None
+    ligne = script_fr_mem[i].strip()
+    isFirstLine = False
+
+    for idx, ligne_og in enumerate(lignes_og):
+        if ligne in ligne_og.strip():
+            ligne_fr_entiere = lignes_fr[idx]
+            if ligne_og.strip().startswith(ligne):
+                isFirstLine = True
+            break
+
+    if ligne_fr_entiere is not None and idx > idx_fichier:
+        ligne_fr_entiere = transformer_ruby(ligne_fr_entiere)
+
+        # on split la ligne à chaque tags
+        ligne_fr_split = re.split(r'\[.*?\]', ligne_fr_entiere)
+        # strip all
+        ligne_fr_split = [ligne.strip() for ligne in ligne_fr_split]
+        # remove empty lines
+        ligne_fr_split = [ligne for ligne in ligne_fr_split if ligne != ""]
+
+        if len(ligne_fr_split) > 1:
+            if isFirstLine:
+                return ligne_fr_split[0].strip()
+            else:
+                ligne_precedente = script_fr_mem[i - 1].strip()
+
+                # on cherche l'indice de la ligne précédente dans la ligne split
+                indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
+                # si on trouve l'indice, on prend la ligne suivante
+                if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
+                    return ligne_fr_split[indice_ligne_precedente + 1].strip()
+
+    return None
+
+def recupere_ligne_traduite(lignes_fr: list[str], indice: int):
     if indice < len(lignes_fr):
         return lignes_fr[indice].strip()
     
     return None
 
-def creer_fichier_steam(lignes_script: list, script_sortie: str):
+def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
     global csv_missing
 
     total_lignes = len(lignes_script)
@@ -140,6 +187,7 @@ def creer_fichier_steam(lignes_script: list, script_sortie: str):
             # Si l'indice de la ligne est dans la map, on change le fichier actif
             if (idx + 1) in map_fichiers:
                 fichier_en_cours = map_fichiers[idx + 1]
+                idx_fichier = 0
                 chemin_fichier_og = os.path.join(dossier_sources_jp, fichier_en_cours)
                 lignes_og = lire_fichier(chemin_fichier_og)
                 chemin_fichier_fr = os.path.join(dossier_sources_fr, fichier_en_cours)
@@ -165,8 +213,14 @@ def creer_fichier_steam(lignes_script: list, script_sortie: str):
                 if ligne_traduite:
                     remplace_dans_script(idx, ligne_traduite, nbStartSpaces)
             else:
-                nb_non_trouvees += 1
-                csv_missing[idx + 1] = ligne
+                # si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
+                ligne_partielle = trouver_fr_partiel(idx, lignes_og, lignes_fr)
+                if ligne_partielle is not None:
+                    nbStartSpaces = len(ligne) - len(ligne.lstrip())
+                    remplace_dans_script(idx, ligne_partielle, nbStartSpaces)
+                else:
+                    nb_non_trouvees += 1
+                    csv_missing[idx + 1] = ligne
             
         except Exception as e:
             print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
