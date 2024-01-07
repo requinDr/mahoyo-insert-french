@@ -8,14 +8,6 @@ import re
 # key: line number => value: file name
 from translate_map import map as map_fichiers
 
-##########################################################
-# Script de portage de la traduction Kirikiri vers le
-# script Hunex pour Steam
-# Version 1.1
-# Date : 2024-01-07
-# Auteurs : requinDr
-##########################################################
-
 script_fr_mem = list()
 csv_missing = dict()
 
