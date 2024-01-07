@@ -85,23 +85,35 @@ def cree_fichier_sortie(chemin: str, lignes: list):
         print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 
 pattern_ruby = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
-def remplace_dans_script(indice: int, ligne: str):
-    global script_fr_mem
-
+def modifier_traduction(ligne: str):
+    # modifie le format du ruby
     match = re.search(pattern_ruby, ligne)
     if match:
         remplacement = f"<{match.group(1)}|{match.group(2)}>"
         ligne = re.sub(pattern_ruby, remplacement, ligne)
-    script_fr_mem[indice] = ligne
 
-def matche(phrase1: str, phrase2: str):
-    return phrase1.strip() == phrase2.strip()
+    # remplace les espaces japonais en milieu de ligne par des espaces français
+    # ligne = re.sub(r'(?<=\S)\u3000(?=\S)', ' ', ligne)
+
+    # supprime les tags
+    ligne = re.sub(r'\[.*?\]', '', ligne)
+
+    # supprime les espaces en fin de ligne (juste les espaces, pas les rtours à la ligne)
+    ligne = ligne.rstrip() + "\n"
+
+    return ligne
+
+def remplace_dans_script(indice: int, ligne: str):
+    global script_fr_mem
+
+    ligne = modifier_traduction(ligne)
+    script_fr_mem[indice] = ligne
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
 def trouver_jp_dans_fichier(lignes_og: list, ligne: str):
     for idx, ligne_og in enumerate(lignes_og):
-        if matche(ligne, ligne_og):
+        if ligne.strip() == ligne_og.strip():
             return idx
 
     return None
