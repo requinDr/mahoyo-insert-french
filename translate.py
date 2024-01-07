@@ -26,7 +26,7 @@ dossier_sources_fr = "sources-fr"
 # Le numéro de ligne commence à 1. Chaque ligne renseignée avec une traduction
 # sera remplacée dans le script de sortie
 nom_csv = "lignes_modifiees.csv"
-create_csv = True   # /!\ True écrase le fichier existant, False le lit
+create_csv = False   # /!\ True écrase le fichier existant, False le lit
 csv_columns = ["Ligne", "Texte", "Traduction"]
 
 CSV_DELIMITER = ';'
