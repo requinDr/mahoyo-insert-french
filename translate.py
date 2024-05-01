@@ -29,7 +29,7 @@ nom_csv = "lignes_modifiees.csv"
 create_csv = False   # /!\ True écrase le fichier existant, False le lit
 csv_columns = ["Ligne", "Texte", "Traduction"]
 
-CSV_DELIMITER = ';'
+CSV_DELIMITER = ','
 OKGREEN = '\033[92m'
 ENDC = '\033[0m'
 SPACE = "\u3000"
