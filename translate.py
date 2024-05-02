@@ -6,7 +6,8 @@ import re
 
 # map_fichiers is a dict
 # key: line number => value: file name
-from translate_map import map as map_fichiers
+from utils.translate_filesmap import map as map_fichiers
+from utils.translate_swap import swap_char as swap_chars
 
 script_fr_mem = list([str])
 csv_missing = dict()
@@ -28,6 +29,8 @@ dossier_sources_fr = "sources-fr"
 nom_csv = "lignes_modifiees.csv"
 create_csv = False   # /!\ True écrase le fichier existant, False le lit
 csv_columns = ["Ligne", "Texte", "Traduction"]
+
+remplacer_caracteres = True # Remplace les caractères pour la police
 
 CSV_DELIMITER = ','
 OKGREEN = '\033[92m'
@@ -174,6 +177,7 @@ def recupere_ligne_traduite(lignes_fr: list[str], indice: int):
     return None
 
 def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
+    global script_fr_mem
     global csv_missing
 
     total_lignes = len(lignes_script)
@@ -227,7 +231,11 @@ def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
         except Exception as e:
             print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
 
+    if remplacer_caracteres:
+        script_fr_mem = swap_chars(script_fr_mem)
+    
     cree_fichier_sortie(script_sortie, script_fr_mem)
+
     if create_csv:
         creer_csv(nom_csv, csv_missing)
     print(f"Lignes non trouvées : {nb_non_trouvees} ({nb_non_trouvees / total_lignes * 100:.2f}%)")
