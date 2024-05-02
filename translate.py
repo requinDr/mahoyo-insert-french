@@ -1,18 +1,13 @@
 import os
 import time
 import sys
-import csv
 import re
 
 # map_fichiers is a dict
 # key: line number => value: file name
 from utils.translate_filesmap import map as map_fichiers
+from utils.translate_csv import creer_csv, lire_csv, csv_columns
 from utils.translate_swap import swap_char as swap_chars
-
-script_fr_mem = list([str])
-csv_missing = dict()
-idx_fichier = 0 # index du fichier de la map en cours de traitement
-
 
 # Le script source ja devrait être modifié pour ne pas avoir de ruby
 # avant de lancer le script afin que la traduction puisse être trouvée
@@ -28,35 +23,16 @@ dossier_sources_fr = "sources-fr"
 # sera remplacée dans le script de sortie
 nom_csv = "lignes_modifiees.csv"
 create_csv = False   # /!\ True écrase le fichier existant, False le lit
-csv_columns = ["Ligne", "Texte", "Traduction"]
 
 remplacer_caracteres = True # Remplace les caractères pour la police
 
-CSV_DELIMITER = ','
 OKGREEN = '\033[92m'
 ENDC = '\033[0m'
 SPACE = "\u3000"
 
-def creer_csv(chemin: str, lignes: dict):
-    try:
-        with open(chemin, 'w', encoding="utf-8", newline='') as f:
-            writer = csv.writer(f, delimiter=CSV_DELIMITER, quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(csv_columns)
-            for key, value in lignes.items():
-                writer.writerow([key, value.strip(), ""])
-    except Exception as e:
-        print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
-
-# renvoit sous la forme d'un dictionnaire avec comme clé
-# la première colonne et comme valeur la 3e colonne
-def lire_csv(chemin):
-    try:
-        with open(chemin, encoding="utf-8") as f:
-            reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
-            return {int(row[csv_columns[0]]): row for row in reader}
-    except Exception as e:
-        print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
-        return None
+script_fr_mem = list([str])
+csv_missing = dict()
+idx_fichier = 0 # index du fichier de la map en cours de traitement
     
 def progress(count, total, status=''):
     bar_len = 20
