@@ -46,10 +46,9 @@ char_swap_dict = {
   # 'Ç' : None
 }
 
-# Swap characters in script file
+# Swap all characters in script file
 def swap_char(lignes_script: list) :
-  for i, ligne in enumerate(lignes_script):
-      for char in char_swap_dict:
-          if char in ligne:
-              lignes_script[i] = ligne.replace(char, char_swap_dict[char])
+  for char in char_swap_dict:
+    for i, ligne in enumerate(lignes_script):
+      lignes_script[i] = ligne.replace(char, char_swap_dict[char])
   return lignes_script

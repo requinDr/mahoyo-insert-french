@@ -2,29 +2,22 @@ import os
 import time
 import sys
 import re
+import configparser
 
-# map_fichiers is a dict
-# key: line number => value: file name
 from utils.translate_filesmap import map as map_fichiers
 from utils.translate_csv import creer_csv, lire_csv, csv_columns
 from utils.translate_swap import swap_char as swap_chars
 
-# Le script source ja devrait être modifié pour ne pas avoir de ruby
-# avant de lancer le script afin que la traduction puisse être trouvée
-script_source = "script_text_ja.txt"
-script_sortie = "script_text_fr.txt"
+config = configparser.ConfigParser()
+config.read('config.ini')
 
-# Les fichiers sources doivent être nettoyés, en UTF-8 et nommés comme dans la map
-dossier_sources_jp = "sources-jp"
-dossier_sources_fr = "sources-fr"
-
-# Fichier csv avec les lignes non trouvées
-# Le numéro de ligne commence à 1. Chaque ligne renseignée avec une traduction
-# sera remplacée dans le script de sortie
-nom_csv = "lignes_modifiees.csv"
-create_csv = False   # /!\ True écrase le fichier existant, False le lit
-
-remplacer_caracteres = True # Remplace les caractères pour la police
+script_source = config['paths']['script_source']
+script_sortie = config['paths']['script_sortie']
+dossier_sources_jp = config['paths']['dossier_sources_jp']
+dossier_sources_fr = config['paths']['dossier_sources_fr']
+nom_csv = config['csv']['nom_csv']
+create_csv = config.getboolean('csv', 'create_csv')
+remplacer_caracteres = config.getboolean('character_swap', 'remplacer_caracteres')
 
 OKGREEN = '\033[92m'
 ENDC = '\033[0m'
