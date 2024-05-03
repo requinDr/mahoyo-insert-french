@@ -48,7 +48,16 @@ char_swap_dict = {
 
 # Swap all characters in script file
 def swap_char(lignes_script: list) :
-  for char in char_swap_dict:
-    for i, ligne in enumerate(lignes_script):
-      lignes_script[i] = ligne.replace(char, char_swap_dict[char])
+  for i in range(len(lignes_script)) :
+    for (k, v) in char_swap_dict.items() :
+      if k in lignes_script[i] :
+        if v in lignes_script[i] :
+          temp_char = chr(ord('a') + i)
+          lignes_script[i] = lignes_script[i].replace(k, temp_char)\
+                                              .replace(v, k)\
+                                              .replace(temp_char, v)
+        else :
+          lignes_script[i] = lignes_script[i].replace(k, v)
+      elif v in lignes_script[i] :
+        lignes_script[i] = lignes_script[i].replace(v, k)
   return lignes_script
