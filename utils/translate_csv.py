@@ -10,6 +10,8 @@ def create_csv(chemin: str, lignes: dict):
             writer.writerow(csv_columns)
             for key, value in lignes.items():
                 writer.writerow([key, value.strip(), ""])
+        
+        print(f"Traductions manquantes inscrites dans {chemin}")
     except Exception as e:
         print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 

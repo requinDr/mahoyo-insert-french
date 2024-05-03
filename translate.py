@@ -17,17 +17,17 @@ script_sortie = config['paths']['script_sortie']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
 nom_csv = config['csv']['nom_csv']
-create_csv = config.getboolean('csv', 'create_csv')
+creer_csv = config.getboolean('csv', 'create_csv')
 remplacer_caracteres = config.getboolean('character_swap', 'remplacer_caracteres')
 
 script_fr_mem = list([str])
 csv_missing = dict()
-idx_fichier = 0 # index du fichier de la map en cours de traitement
+idx_line = 0 # index de la ligne du fichier de la map en cours de traitement
 
 
-def init_script_fr_mem(lignes: list):
+def init_script_fr_mem():
 	global script_fr_mem
-	script_fr_mem = lignes.copy()
+	script_fr_mem = get_file_lines(script_source)
 
 def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = 0):
 	global script_fr_mem
@@ -38,29 +38,27 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = 0):
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
 def trouver_jp_dans_fichier(lignes_og: list[str], ligne: str):
-	global idx_fichier
-	
 	for idx, ligne_og in enumerate(lignes_og):
 		if ligne.strip() == ligne_og.strip():
-			idx_fichier = idx
 			return idx
 
 	return None
 
 # Même fonction qu'au dessus, mais pour les lignes partielles
 # Retourne la traduction du morceau de ligne
-def trouver_fr_partiel(i: int, lignes_og: list[str], lignes_fr: list[str]):
+def trouver_fr_partiel(i: int, original_lines: list[str], new_lines: list[str]):
 	ligne_fr_entiere = None
 	ligne = script_fr_mem[i].strip()
 	isFirstLine = False
 
-	for idx, ligne_og in enumerate(lignes_og):
+	for idx, ligne_og in enumerate(original_lines):
 		# La ligne est trouvée dans une autre ligne qui se situe
 		# après la dernière ligne trouvée
-		if ligne in ligne_og.strip() and idx > idx_fichier:
-			ligne_fr_entiere = lignes_fr[idx]
-			if ligne_og.strip().startswith(ligne):
-				isFirstLine = True
+		if idx <= idx_line:
+			continue
+		if ligne in ligne_og.strip():
+			ligne_fr_entiere = new_lines[idx]
+			isFirstLine = ligne_og.strip().startswith(ligne)
 			break
 
 	if ligne_fr_entiere is not None:
@@ -69,21 +67,18 @@ def trouver_fr_partiel(i: int, lignes_og: list[str], lignes_fr: list[str]):
 		# on split la ligne à chaque tags
 		ligne_fr_split = re.split(r'\[.*?\]', ligne_fr_entiere)
 		# strip all
-		ligne_fr_split = [ligne.strip() for ligne in ligne_fr_split]
-		# remove empty lines
-		ligne_fr_split = [ligne for ligne in ligne_fr_split if ligne != ""]
+		ligne_fr_split = [line.strip() for line in ligne_fr_split if line.strip()]
 
 		if len(ligne_fr_split) > 1:
 			if isFirstLine:
 				return ligne_fr_split[0].strip()
-			else:
-				ligne_precedente = script_fr_mem[i - 1].strip()
 
-				# on cherche l'indice de la ligne précédente dans la ligne split
-				indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
-				# si on trouve l'indice, on prend la ligne suivante
-				if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
-					return ligne_fr_split[indice_ligne_precedente + 1].strip()
+			ligne_precedente = script_fr_mem[i - 1].strip()
+			# on cherche l'indice de la ligne précédente dans la ligne split
+			indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
+			# si on trouve l'indice, on prend la ligne suivante
+			if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
+				return ligne_fr_split[indice_ligne_precedente + 1].strip()
 
 	return None
 
@@ -93,15 +88,20 @@ def recupere_ligne_traduite(lignes_fr: list[str], indice: int):
 	
 	return None
 
-def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
+# compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
+def nb_espaces_debut_ligne(ligne: str):
+	return len(ligne) - len(ligne.lstrip())
+
+def creer_fichier_steam(script_sortie: str):
 	global script_fr_mem
+	global idx_line
 	global csv_missing
 
-	total_lignes = len(lignes_script)
-	csv_dict = read_csv(nom_csv) if not create_csv else None
+	total_lignes = len(script_fr_mem)
+	csv_dict = read_csv(nom_csv) if not creer_csv else None
 	nb_non_trouvees = 0
 	
-	for idx, ligne in enumerate(lignes_script):
+	for idx, ligne in enumerate(script_fr_mem):
 		# si la progression en pourcentage est un nombre entier
 		if idx % (total_lignes // 100) == 0:
 			progress(idx, total_lignes)
@@ -118,8 +118,8 @@ def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
 			# Si l'indice de la ligne est dans la première colonne du csv,
 			# et que la troisième colonne n'est pas vide,
 			# on remplace la ligne par la traduction située dans la troisième colonne
-			if not create_csv and (idx + 1) in csv_dict and csv_dict[idx + 1][csv_columns[2]].strip() != "":
-				nbStartSpaces = len(ligne) - len(ligne.lstrip())
+			if not creer_csv and (idx + 1) in csv_dict and csv_dict[idx + 1][csv_columns[2]].strip() != "":
+				nbStartSpaces = nb_espaces_debut_ligne(ligne)
 				remplace_dans_script(idx, csv_dict[idx + 1][csv_columns[2]]+ "\n", nbStartSpaces)
 				continue
 			
@@ -129,16 +129,16 @@ def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
 
 			indice = trouver_jp_dans_fichier(lignes_og, ligne)
 			if indice is not None:
-				# compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
-				nbStartSpaces = len(ligne) - len(ligne.lstrip())
+				idx_line = indice
 				ligne_traduite = recupere_ligne_traduite(lignes_fr, indice)
 				if ligne_traduite:
+					nbStartSpaces = nb_espaces_debut_ligne(ligne)
 					remplace_dans_script(idx, ligne_traduite, nbStartSpaces)
 			else:
 				# si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
 				ligne_partielle = trouver_fr_partiel(idx, lignes_og, lignes_fr)
 				if ligne_partielle is not None:
-					nbStartSpaces = len(ligne) - len(ligne.lstrip())
+					nbStartSpaces = nb_espaces_debut_ligne(ligne)
 					remplace_dans_script(idx, ligne_partielle, nbStartSpaces)
 				else:
 					nb_non_trouvees += 1
@@ -152,17 +152,16 @@ def creer_fichier_steam(lignes_script: list[str], script_sortie: str):
 	
 	write_file_lines(script_sortie, script_fr_mem)
 
-	if create_csv:
+	if creer_csv:
 		create_csv(nom_csv, csv_missing)
 		print(f"Lignes non trouvées : {nb_non_trouvees} ({nb_non_trouvees / total_lignes * 100:.2f}%)")
 
 if __name__ == "__main__":
 	debut = time.time()  # début
 
-	lignes_script = get_file_lines(script_source)
-	init_script_fr_mem(lignes_script)
+	init_script_fr_mem()
 
-	creer_fichier_steam(lignes_script, script_sortie)
+	creer_fichier_steam(script_sortie)
 	
 	fin = time.time()  # fin
 	temps_execution = fin - debut

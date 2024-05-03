@@ -12,7 +12,7 @@ def transform_ruby(ligne: str):
 
 # indente comme le script original de Steam
 SPACE = "\u3000"
-def indente(nbStartSpaces: int, ligne: str):
+def indent(nbStartSpaces: int, ligne: str):
 	return SPACE * nbStartSpaces + ligne
 
 
@@ -30,6 +30,6 @@ def format_line_to_steam(ligne: str, nbStartSpaces: int = 0):
 	# supprime les espaces en fin de ligne
 	ligne = ligne.rstrip() + "\n"
 
-	ligne = indente(nbStartSpaces, ligne)
+	ligne = indent(nbStartSpaces, ligne)
 
 	return ligne
