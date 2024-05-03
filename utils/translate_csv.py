@@ -3,7 +3,7 @@ import csv
 csv_columns = ["Ligne", "Texte", "Traduction"]
 CSV_DELIMITER = ','
 
-def creer_csv(chemin: str, lignes: dict):
+def create_csv(chemin: str, lignes: dict):
     try:
         with open(chemin, 'w', encoding="utf-8", newline='') as f:
             writer = csv.writer(f, delimiter=CSV_DELIMITER, quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -16,7 +16,7 @@ def creer_csv(chemin: str, lignes: dict):
 
 # renvoit sous la forme d'un dictionnaire avec comme clé
 # la première colonne et comme valeur la 3e colonne
-def lire_csv(chemin):
+def read_csv(chemin):
     try:
         with open(chemin, encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
