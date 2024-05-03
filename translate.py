@@ -6,7 +6,7 @@ import configparser
 from utils.utils import get_file_lines, write_file_lines, progress
 from utils.steam.filesmap import map as map_fichiers
 from utils.steam.line_format import transform_ruby, format_line_to_steam
-from utils.translate_csv import create_csv, read_csv, csv_columns
+from utils.translate_csv import create_csv, get_csv, csv_columns
 from utils.translate_swap import swap_char as swap_chars
 
 config = configparser.ConfigParser()
@@ -16,12 +16,13 @@ script_source = config['paths']['script_source']
 script_sortie = config['paths']['script_sortie']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
-nom_csv = config['csv']['nom_csv']
+csv_name_or_url = config['csv']['csv_name_or_url']
 creer_csv = config.getboolean('csv', 'create_csv')
 remplacer_caracteres = config.getboolean('character_swap', 'remplacer_caracteres')
 
 script_fr_mem = list([str])
 csv_missing = dict()
+csv_dict = get_csv(csv_name_or_url) if not creer_csv else None
 idx_line = 0 # index de la ligne du fichier de la map en cours de traitement
 
 
@@ -98,7 +99,6 @@ def creer_fichier_steam(script_sortie: str):
 	global csv_missing
 
 	total_lignes = len(script_fr_mem)
-	csv_dict = read_csv(nom_csv) if not creer_csv else None
 	nb_non_trouvees = 0
 	
 	for idx, ligne in enumerate(script_fr_mem):
@@ -153,16 +153,17 @@ def creer_fichier_steam(script_sortie: str):
 	write_file_lines(script_sortie, script_fr_mem)
 
 	if creer_csv:
-		create_csv(nom_csv, csv_missing)
+		create_csv(csv_name_or_url, csv_missing)
 		print(f"Lignes non trouvées : {nb_non_trouvees} ({nb_non_trouvees / total_lignes * 100:.2f}%)")
 
+
 if __name__ == "__main__":
-	debut = time.time()  # début
+	debut = time.time()
 
 	init_script_fr_mem()
 
 	creer_fichier_steam(script_sortie)
 	
-	fin = time.time()  # fin
+	fin = time.time()
 	temps_execution = fin - debut
 	print(f"Terminé en {temps_execution:.2f} secondes !")
