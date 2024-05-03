@@ -3,6 +3,8 @@ import csv
 import io
 import requests
 
+from utils.github_api import get_content_from_github, is_github_url
+
 csv_columns = ["Ligne", "Texte", "Traduction"]
 CSV_DELIMITER = ','
 
@@ -32,15 +34,7 @@ def read_csv_from_name(chemin):
     
 def read_csv_from_github(url):
     try:
-        # Faire la requête GET à l'API GitHub
-        response = requests.get(url)
-        response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
-
-        # Extraire le contenu encodé en base64
-        content_base64 = response.json()["content"]
-
-        # Décoder le contenu en base64
-        content = base64.b64decode(content_base64).decode("utf-8")
+        content = get_content_from_github(url)
 
         # Lire le contenu du fichier CSV
         reader = csv.DictReader(io.StringIO(content), delimiter=',')
@@ -50,7 +44,7 @@ def read_csv_from_github(url):
         return None
 
 def get_csv(pathOrUrl):
-    if pathOrUrl.startswith("http"):
+    if is_github_url(pathOrUrl):
         return read_csv_from_github(pathOrUrl)
     else:
         return read_csv_from_name(pathOrUrl)
