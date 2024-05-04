@@ -5,8 +5,10 @@ PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
 def transform_ruby(ligne: str):
 	match = re.search(PATTERN_RUBY, ligne)
 	if match:
-		remplacement = f"<{match.group(1)}|{match.group(2)}>"
-		return re.sub(PATTERN_RUBY, remplacement, ligne)
+		# remplacement = f"<{match.group(1)}|{match.group(2)}>"
+		# return re.sub(PATTERN_RUBY, remplacement, ligne)
+		for match in re.finditer(PATTERN_RUBY, ligne):
+			ligne = ligne.replace(match.group(0), f"<{match.group(1)}|{match.group(2)}>")
 	return ligne
 
 
