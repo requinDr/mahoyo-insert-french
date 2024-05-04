@@ -20,9 +20,15 @@ def indent(nbStartSpaces: int, ligne: str):
 PATTERN_TAGS = r'\[.*?\]'
 def remove_tags(ligne: str):
 	# keep the character before and after the [r] tag (on dit qu'elle se base[r]sur une légende)
+	# we replace the [r] tag by a space
 	if re.search(r'\w+\[r\]\w+', ligne):
 		ligne = re.sub(r'(\w+)\[r\](\w+)', r'\1 \2', ligne)
 	
+	# if space before and after the [r] tag (on dit qu'elle se base [r] sur une légende)
+	# we remove the tag and a space
+	if re.search(r'\w+ \[r\] \w+', ligne):
+		ligne = re.sub(r'(\w+) \[r\] (\w+)', r'\1 \2', ligne)
+
 	# remove all tags
 	ligne = re.sub(PATTERN_TAGS, '', ligne)
 
@@ -30,6 +36,9 @@ def remove_tags(ligne: str):
 
 
 def format_line_to_steam(ligne: str, nbStartSpaces: int = 0):
+	# repace japanese space by normal space
+	ligne = ligne.replace('\u3000', ' ')
+
 	ligne = transform_ruby(ligne)
 
 	ligne = remove_tags(ligne)

@@ -1666,7 +1666,7 @@ Mais on dirait que vous ne pouvez sortir que celuiūl#, hein, vous deux.」
 　―――Au fait, je viens d'y penser, mais dans ta t_te, comment estūce que tu consid$res Kinomi, Tobimaru ?」
 「Eh bien... Si le ramassage des ordures m=nag$res ne rapporte pas t&t ou tard de l'argent, les b=n=fices engendr=s seront insuffisants, pas vrai ? Ça veut dire que l'[tat va bient&t arr_ter de s'en occuper gratuitement.」
 「Hein ? Qu'estūce que tu racontes ? Les vieilles commodes se vendent bien cher, elles !
-　Donc quelqu'un comme moi, “directement pr_t # l'emploi”, finira bien par _tre # la mode un jour, non ?　Comme les appareils jetables qui se vendent dans les sup=rettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma mani$re de consommer...」
+　Donc quelqu'un comme moi, “directement pr_t # l'emploi”, finira bien par _tre # la mode un jour, non ? Comme les appareils jetables qui se vendent dans les sup=rettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma mani$re de consommer...」
 「Donc, Kinomi travaille.
 Et toi, Tobimaru ?」
 「Mon heure viendra bien un jour, vous m'entendez ?」
@@ -5253,7 +5253,7 @@ Mais la marionnette est plus l=g$re que je ne le croyais.
 Du coup, ni mes os, ni mes organes internes n'ont subi de s=rieux dommages, m_me si je ne peux pas respirer pour l'instant.
 Je suis secou=e, mais int=rieurement, je suis toujours calme. Plus que deux secondes, et j'aurai r=cup=r=. Non, c'est plut&t qu'il me faut encore deux secondes pour _tre capable d'agir # nouveau !
 　Non, ressaisisūtoi, tu es d=j# calme, c'est juste que tu ne peux pas =valuer nos positions respectives. [coute. Je verrai plus tard pour retrouver mon souffle et ma vue. D'abord, je dois me relev―――
-“<Intellectum non necessitas|L'intelligence est inutile.> 　　　　　　<Intellectum non necessitas|L'intelligence est inutile.>　　　　<Intellectum non necessitas|L'intelligence est inutile.>　　　　 　　<Intellectum non necessitas|L'intelligence est inutile.>　　　　 <Intellectum non necessitas|L'intelligence est inutile.>”
+“<Intellectum non necessitas|L'intelligence est inutile.>       <Intellectum non necessitas|L'intelligence est inutile.>    <Intellectum non necessitas|L'intelligence est inutile.>       <Intellectum non necessitas|L'intelligence est inutile.>     <Intellectum non necessitas|L'intelligence est inutile.>”
 　Auūdessus de sa t_te, le bruit oppressant de la m=canique ennemie s'intensifiait.
 “Bougez, mes jambes......! Mais par o+... aller―――”
 　Elle sentait le souffle de la mort.
@@ -19685,7 +19685,7 @@ j'ai amen= la cam=ra dans sa chambre.
 　　　Si l'invit= n'vient pas, il n'y a qu'# faire l'=mission
 　　　dans sa chambre, non ?
 ...... C'est bon, alors d=p_cheūtoi de commencer.
-Finis }a le plus rapidement possible, 　et vaūt'en plus vite que la lumi$re.
+Finis }a le plus rapidement possible,  et vaūt'en plus vite que la lumi$re.
 　　Uhaa, c't'embarrassant !
 　　C'est tordant !
 　　　........................... Pourquoi ?
@@ -19693,7 +19693,7 @@ Finis }a le plus rapidement possible, 　et vaūt'en plus vite que la lumi$re.
 　　「Finis rapidement ce que tu as # faire,
 　　je veux te voir en priv=......」
 La richesse du langage humain est incroyable, hein.
-Honn_tement, c't'# 90% impossible d'savoir ce que moi 　ou mon interlocuteur voulons exprimer.
+Honn_tement, c't'# 90% impossible d'savoir ce que moi ou mon interlocuteur voulons exprimer.
 　Oui.
 　Moi aussi, je partage cet avis.
 　　　Ouaah, ce sentiment de confiance =crasant......!
@@ -19709,13 +19709,13 @@ Honn_tement, c't'# 90% impossible d'savoir ce que moi 　ou mon interlocuteur vo
 　j'n'ai jamais vu ni entendu parler d'}a.
 　　Un familier,
 　　c'est comme un robot utilis= par les Mages.
-Depuis les temps anciens, la principale occupation 　des Mages est de s'enfermer dans leur Atelier 　pour mener # bien leurs =tudes. 　Ils laissent faire ceux en qui ils ont confiance pour 　la r=cup=ration des mati$res premi$res, l'observation 　du monde ext=rieur ou l'extermination de leurs ennemis.
+Depuis les temps anciens, la principale occupation des Mages est de s'enfermer dans leur Atelier pour mener # bien leurs =tudes.  Ils laissent faire ceux en qui ils ont confiance pour la r=cup=ration des mati$res premi$res, l'observation du monde ext=rieur ou l'extermination de leurs ennemis.
 　　Ce ne sont que des pions, donc.
 　　C'est diff=rent des disciples ?
 　　Tout # fait.
-　　Un disciple est le successeur qui h=rite des techniques 　du ma`tre et se doit de les ma`triser, n'estūce pas ?
+　　Un disciple est le successeur qui h=rite des techniques du ma`tre et se doit de les ma`triser, n'estūce pas ?
 　　　Ils ont le devoir de surpasser un jour leurs ma`tres,
-　　　et ces derniers ne prendraient pas de disciples 　s'il en =tait autrement.
+　　　et ces derniers ne prendraient pas de disciples s'il en =tait autrement.
 　　　　Mais les familiers ont toutes leurs capacit=s d$s leur naissance.
 　　　　Un _tre incapable d'=voluer ne peut devenir un successeur.
 J'vois. J'comprends mieux. C'pour }a que malgr= les ann=es qui passent, ma capacit= de m=morisation n'augmente pas. Mais }a veut aussi dire que j'suis parfait depuis ma naissance.
@@ -19723,12 +19723,12 @@ J'vois. J'comprends mieux. C'pour }a que malgr= les ann=es qui passent, ma capac
 La plupart des familiers sont cr==s # partir de petits animaux.
 En effet, une grande partie des types de familiers requi$rent d'_tre aliment=s en prana par leur ma`tre.
 Plus le familier est gros, plus il a besoin de prana.
-C'est pour cette raison que　les petits animaux sont privil=gi=s,　car leur consommation de prana est faible,　et ils sont capables d$s leur cr=ation de se procurer　de la nourriture par leurs propres moyens.
+C'est pour cette raison que les petits animaux sont privil=gi=s, car leur consommation de prana est faible, et ils sont capables d$s leur cr=ation de se procurer de la nourriture par leurs propres moyens.
 　? Pourtant, j'n'ai jamais chass= ou fait un truc du genre.
 　J'n'ai pas besoin de prot=ines et de fibres alimentaires ?
 Vous les Ploy, vous d=pendez d'un autre type de contrat.
-En tout cas, pour les Mages, tu peux consid=rer 　les familiers comme des “serviteurs” ou des “animaux 　de compagnie” qui ob=issent # leurs ordres.
-Ainsi, on prend g=n=ralement un chat, 　un oiseau ou une souris comme familier.
+En tout cas, pour les Mages, tu peux consid=rer les familiers comme des “serviteurs” ou des “animaux de compagnie” qui ob=issent # leurs ordres.
+Ainsi, on prend g=n=ralement un chat,  un oiseau ou une souris comme familier.
 　　Mam'zelle Alice, c'truc dangereux,
 　　il entre dans quelle cat=gorie ?
 　C'est un Automate adapt= au combat. Mais # ce niveau,
@@ -19736,19 +19736,19 @@ Ainsi, on prend g=n=ralement un chat, 　un oiseau ou une souris comme familier.
 　　...... Sa construction ne respecte pas les normes traditionnelles
 　　des familiers. Aussi, les familiers poss=dant une intelligence
 　　compatible avec les humains comme toi sont des exceptions.
-　　　Mais les familiers de ce genre ne sont　qu'un immense g]chis d'=nergie.　Leur co;t en prana est juste trop grand.
-　　　Puisqu'en g=n=ral, il serait plus rapide　d'utiliser des mat=riaux moins chers,
+　　　Mais les familiers de ce genre ne sont qu'un immense g]chis d'=nergie. Leur co;t en prana est juste trop grand.
+　　　Puisqu'en g=n=ral, il serait plus rapide d'utiliser des mat=riaux moins chers,
 　　　ou que le Mage fasse le travail luiūm_me.
 　　C'est c'qu'on appelle,
 　　confondre la fin et les moyens, hein.
-　Hm ? Alors, le familier est plus faible 　que le Mage, hein.
+　Hm ? Alors, le familier est plus faible que le Mage, hein.
 　Ce sont que des sousūfifres ?
 　Ouaah, ils sont vraiment inutiles !
-　　C'est une conclusion bien h]tive　comme on peut l'attendre de toi, Robin.
+　　C'est une conclusion bien h]tive comme on peut l'attendre de toi, Robin.
 　　Ça me consterne. Et dire que tu es mon familier,
 　　j'ai l'impression que }a va me rendre folle.
 　Mam'zelle Alice.
-　Vos paroles sont merveilleuses, 　mais pourquoi votre visage fait peur ?
+　Vos paroles sont merveilleuses,  mais pourquoi votre visage fait peur ?
 　M_me s'il n'a que 10% des capacit=s du Mage,
 　c'est facile de cr=er un familier plus “fort” que lui.
 　　Et si on essayait la prochaine fois, juste pour voir,
@@ -19759,7 +19759,7 @@ Ainsi, on prend g=n=ralement un chat, 　un oiseau ou une souris comme familier.
 　　Trop cool !
 　　J'ai l'intuition que j'aurai un grand r&le # jouer # No:l......!
 　　　Une vraie sarbacane.
-　　　Et si on se d=barrassait de　toi par la m_me occasion ?
+　　　Et si on se d=barrassait de toi par la m_me occasion ?
 　　Vous _tes s=v$re.
 　　Mais au moins, on a fait une explication approximative.
 　Les familiers sont des robots prot=geant le Mage,
@@ -19768,24 +19768,24 @@ Ainsi, on prend g=n=ralement un chat, 　un oiseau ou une souris comme familier.
 　que se passeraitūil si Mam'zelle Aoko cr=ait un familier ?
 　Une autoūdestruction instantan=e # l'activation ?
 　Cette hypoth$se n'a pas lieu d'_tre.
-　Aoko n'a pas les comp=tences　n=cessaires pour cr=er un familier.
+　Aoko n'a pas les comp=tences n=cessaires pour cr=er un familier.
 　En premier lieu, elle ne sait que d=truire !
 　Si elle donnait le seul don qu'elle poss$de # un familier,
 　sa raison d'_tre se briserait en mille morceaux.
 　　Ha ha ha.
-　　D'horribles paroles prononc=es 　avec nonchalance.
+　　D'horribles paroles prononc=es avec nonchalance.
 En ce qui concerne les combats, Aoko n'a pas besoin de laisser faire un familier.
 Et inversement, je ne peux pas me battre―――
 　　Je vois. Mam'zelle Aoko elleūm_me est forte.
 　　Et pour vous, ce sont ceux qui vous entourent
 　　qui sont forts.
 　S'il fallait faire une comparaison avec les =checs......
-　non, avec le shogi, Aoko n'est que le camp du roi 　(avec les capacit=s du fou et de la tour).
+　non, avec le shogi, Aoko n'est que le camp du roi  (avec les capacit=s du fou et de la tour).
 Quant # moi, mon camp est fort, mais le roi luiūm_me n'a que la capacit= de “marcher”.
 　Oui, Mam'zelle Alice est un personnage lent,
 　n'ayant ni force physique ni r=flexe !
 　　À la nage, elle ne peut que patauger comme un chien,
-　　elle ne peut pas faire de la barre fixe, 　et encore moins monter sur une bicyclette.
+　　elle ne peut pas faire de la barre fixe,  et encore moins monter sur une bicyclette.
 Aux heures de sport, sa t]che est facile ë rester assise # la lisi$re du campus.
 　Mais c'est pas grave ! J'prends des photos
 　de voyeur, alors j'le sais !
@@ -19802,7 +19802,7 @@ dans le lieu que Mam'zelle Alice a choisi, mais...
 　　Selon toute vraisemblance, c'est un jardin normal, hein.
 　　O+ est Mam'zelle Alice......
 　　　Tu es en retard, Robin.
-　　　Je me demande si tu es bien conscient 　de ton r&le d'interpr$te.
+　　　Je me demande si tu es bien conscient de ton r&le d'interpr$te.
 　　Hein ?! J'entends une voix, mais y a personne ?!
 　　Ici, il ne devrait y avoir que des =l$ves de maternelle.
 　　O+ est Mam'zelle Alice ?!
@@ -19821,13 +19821,13 @@ dans le lieu que Mam'zelle Alice a choisi, mais...
 　　C'est un d=tail sans importance,
 　　mais que faitesūvous ici ? Et pourquoi ?
 　Il ne faut pas tomber dans la routine,
-　non ? Ce n'est pas parce que 　nous sommes dans le coin bonus 　qu'il faut r=utiliser les m_mes d=cors.
-　Cela va # l'encontre de mon =thique. 　On n'est pas dans un certain dojo.
+　non ? Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut r=utiliser les m_mes d=cors.
+　Cela va # l'encontre de mon =thique.  On n'est pas dans un certain dojo.
 　　C'est pour }a que vous avez chang= de lieu.
 　　Je vois. J'ai # peu pr$s compris.
 　　Cet entrain surprendrait m_me Mam'zelle Aoko.
-Mais perso, je pr=f$re plut&t les barboteuses aux　blouses, hein. Vous savez, genre des robes. Genre　celles d'une d=esse. Enfin, c'est pas que j'aime pas　les blouses, hein ? C'est juste un probl$me d'image,　la pr=sence qu'elles d=gagent sous forme de dessins.
-Par exemple, “La for_t, l'oiseau et la fillette” ?　Vous voyez, dans “L'oiseau et l'=l$ve de maternelle”,　l'image que renvoie l'=l$ve est tellement forte　qu'on peut pas se concentrer sur l'oiseau.
+Mais perso, je pr=f$re plut&t les barboteuses aux blouses, hein. Vous savez, genre des robes. Genre celles d'une d=esse. Enfin, c'est pas que j'aime pas les blouses, hein ? C'est juste un probl$me d'image, la pr=sence qu'elles d=gagent sous forme de dessins.
+Par exemple, “La for_t, l'oiseau et la fillette” ? Vous voyez, dans “L'oiseau et l'=l$ve de maternelle”, l'image que renvoie l'=l$ve est tellement forte qu'on peut pas se concentrer sur l'oiseau.
 　　　Zut. J'=tais en pleine pr=paration de p]tisseries.
 Elle m'ignore royalement. Au fait, d'habitude,
 que faitesūvous apr$s les cours ?
@@ -19851,9 +19851,9 @@ Les Ploy se fabriquent dans une marmite ?
 　　Parce que d$s maintenant, vous allez
 　　donner une explication cool, plus profonde
 　　que l'oc=an et plus vaste que le ciel !
-　　C'est comme je l'ai expliqu=　dans l'histoire principale.
+　　C'est comme je l'ai expliqu= dans l'histoire principale.
 　　Termin=, dispersion.
-　　　Ces paroles r=duisent # n=ant　l'int=r_t m_me de c'coin sur les Ploy.
+　　　Ces paroles r=duisent # n=ant l'int=r_t m_me de c'coin sur les Ploy.
 　　　　Asūtu une objection # faire ?
 　　Non. Mais j'voudrais au moins avoir un r=sum=.
 　　À ce rythme, c't'partie va _tre pire
@@ -19861,7 +19861,7 @@ Les Ploy se fabriquent dans une marmite ?
 ............... Je pr=f=rerais =viter
 cela. Dans ce cas......
 　C'est l'orthographe de Ploy Kickshaw.
-　Rien que }a donne d=j# une assez 　bonne explication. Qu'en pensesūtu ?
+　Rien que }a donne d=j# une assez bonne explication. Qu'en pensesūtu ?
 　　　Ploy ? Kickshaw ?
 Le “ck” de Kickshaw est pratiquement muet.
 En Europe de l'Ouest, }a a le sens de jouet d'enfant,
@@ -19885,7 +19885,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 　　...... Toi,
 　　en fait, tu sais tr$s bien de quoi tu parles ?
 ? D=sol=, j'ai oubli= c'que j'viens de dire.
-Pour moi, les choses du pass= 　sont plus vagues que l'futur.
+Pour moi, les choses du pass= sont plus vagues que l'futur.
 　......
 　Qu'entendsūtu par Meinster ?
 My Godness. La m$re de Mam'zelle Alice.
@@ -19912,11 +19912,11 @@ Guah ?!
 　　au restaurant. Quand tu auras fini, r=chauffe
 　　le chocolat. Et apr$s, tu poliras le miroir.
 　Et ensuite...... voyons.
-　[craseūtoi contre un poteau =lectrique 　et meurs de fa}on th=]trale.
+　[craseūtoi contre un poteau =lectrique et meurs de fa}on th=]trale.
 　　Comme d'habitude, donc, hein !
 　　Mam'zelle Alice, vous _tes cruelle !
 À l'origine, je suis ce genre de personnage.
-Dans l'histoire principale, je me tais　seulement parce que c'est =reintant.
+Dans l'histoire principale, je me tais seulement parce que c'est =reintant.
 　　[reintant ? Quoi donc ?
 　Par exemple,
 br;ler des calories toutes les cinq secondes
@@ -19942,8 +19942,8 @@ l=ch= !
 　　C'est juste un assortiment
 　　de thon akami,
 　　ch;toro et &toro.
-Trois couleurs ensanglant=es.　Comme l'drapeau national d'la France, quoi.
-Pour des raisons financi$res, je ne prendrai que　de l'inarizushi, et des sushis # l'omelette et # la seiche.
+Trois couleurs ensanglant=es. Comme l'drapeau national d'la France, quoi.
+Pour des raisons financi$res, je ne prendrai que de l'inarizushi, et des sushis # l'omelette et # la seiche.
 　　　Chef. Une assiette
 　　　Une autre assiette de ch;toro.
 　　Encore de la chair rouge ? Vous n'voulez pas
@@ -19975,11 +19975,11 @@ Pour des raisons financi$res, je ne prendrai que　de l'inarizushi, et des sushi
 　　Non, rien. La proprio d=tient l'autorit=
 　　absolue, apr$s tout. Qui pourrait
 　　s'opposer # vous dans ce manoir ?
-　...... Mais tout de m_me, c't idiot　est plut&t friqu=, dis donc.
+　...... Mais tout de m_me, c't idiot est plut&t friqu=, dis donc.
 　Il m'a l'air bien lourd, c'portefeuille.
 　　　　Il roule sur les liasses de billets.
 　　　　J'en suis toute chamboul=e.
-　　...... L'akami n'est toujours　pas pass=.
+　　...... L'akami n'est toujours pas pass=.
 　Quelqu'un # la place d'honneur se les accapare tous.
 　Elle a un manteau vert. Et des lunettes. Et les avale
 　par paire avec une gr]ce digne d'un joueur de Mahjong.
@@ -19988,7 +19988,7 @@ Pour des raisons financi$res, je ne prendrai que　de l'inarizushi, et des sushi
 　J'l'appelle ?
 Laissonsūla.
 Tout le monde souhaite parfois s'isoler.
-　Mam'zelle Alice, vous　n'prenez pas d'assiette ?
+　Mam'zelle Alice, vous n'prenez pas d'assiette ?
 　　　...... Bon, tr$s bien.
 　　　Je vais prendre }a.
 　　　F=licitations !
@@ -19999,8 +19999,8 @@ Tout le monde souhaite parfois s'isoler.
 　　　　　On va expliquer !
 　　　Ne cachons rien, nous sommes...
 　　　Soyons francs, nous sommes...!
-Nous sommes les Six Forces fantomatiques　en gr]ce aupr$s de notre ma`tresse !
-　　Des Ploy de haut niveau capables de　se changer en mammif$res ou en oiseaux !
+Nous sommes les Six Forces fantomatiques en gr]ce aupr$s de notre ma`tresse !
+　　Des Ploy de haut niveau capables de se changer en mammif$res ou en oiseaux !
 　　Les Jumeaux bavards, c'est nous.
 　Ooohーーー?!
 　On est dans le noir complet ! On ne va pas pouvoir jouer !
@@ -20009,7 +20009,7 @@ Nous sommes les Six Forces fantomatiques　en gr]ce aupr$s de notre ma`tresse !
 　pas fini que le jaune d'œuf aura d=j# tourn= !
 　　H=, ce serait pas le duo de cochons ?!
 　　Ils peuvent se transformer en humainsーーー?!
-　　...... Ils pourraient prendre cette　forme avec le chiffre 1.
+　　...... Ils pourraient prendre cette forme avec le chiffre 1.
 　　Voici les d=tails.
 　　　　Ils s'appellent les Jumeaux bavards.
 　　　　Le casseūpied, c'est Tweedledum,
@@ -20017,7 +20017,7 @@ Nous sommes les Six Forces fantomatiques　en gr]ce aupr$s de notre ma`tresse !
 　　Ce sont des Ploy qui changent de forme
 　　selon le chiffre obtenu en jetant les d=s.
 　　　La soci=t= humaine a une influence n=faste
-　　　sur eux, ce qui les rend vuln=rables　# la Magie normale.
+　　　sur eux, ce qui les rend vuln=rables # la Magie normale.
 Vous avez d=j# eu le chiffre 1 ?
 　　　Apparemment, c'est impossible avec moi.
 　　　Je n'ai jamais vu que leur forme de porcelets.
@@ -20027,7 +20027,7 @@ Vous avez d=j# eu le chiffre 1 ?
 　　Exactement, il faut parfois _tre fourbe !
 　　Ce monde est plein de ruses,
 　　sans tricher, vous resterez sur le 6 !
-　　Le Banquet de la nuit　est arriv= sur une assiette.
+　　Le Banquet de la nuit est arriv= sur une assiette.
 　C'est notre bon vieux “Diddle Diddle”.
 　Moi aussi, je connais ce conte de Mother Goose.
 　　Ça montre # quel point il est c=l$bre.
@@ -20037,7 +20037,7 @@ Vous avez d=j# eu le chiffre 1 ?
 　　　Le petit chien a ri de voir cette fantaisie
 　　　　Et le plat avec la cuill$re s'est enfui.』
 　　　C'est une comptine typique. Le po$me
-　　　d=peint un chat jouant du violon # minuit,　une vache qui saute parūdessus la lune,
+　　　d=peint un chat jouant du violon # minuit, une vache qui saute parūdessus la lune,
 un chien qui rit, et les personnifications
 d'un plat et d'une cuill$re qui s'enfuient.
 　　　Selon une th=orie, on dit qu'elle se base sur une l=gende grecque ou =gyptienne.
@@ -20068,7 +20068,7 @@ d'un plat et d'une cuill$re qui s'enfuient.
 Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
 Il est tir= de “De l'autre c&t= du miroir”, c'est }a ?
 Oui. À l'origine, ce n'=tait qu'un embryon
-dot= d'un monde parall$le, mais il est　rest= endommag= pendant un certain temps.
+dot= d'un monde parall$le, mais il est rest= endommag= pendant un certain temps.
 　　Ma m$re et T*ko ont collabor=
 　　et l'ont r=par=.
 ? Pourquoi faire }a ?
@@ -20078,11 +20078,11 @@ Une r$gle stipule qu'une sorci$re doit cr=er un Ploy supr_me de son vivant.
 　　ce miroir pour en faire son chefūd'œuvre
 　　ultime. Cela dit, je ne sais trop quoi en penser.
 　Qu'en disūtu ? En affichant la carte de Misaki
-　sur le Miroir de la sieste et en posant le pion dessus,　cet endroit devient la “For_t sans nom”.
+　sur le Miroir de la sieste et en posant le pion dessus, cet endroit devient la “For_t sans nom”.
 　　　C'est ce Ploy que j'ai utilis= pour le premier combat d'Aoko.
 　　　Dans sa zone d'action, il sugg$re aux intrus qu'ils n'ont
 　　　rien # faire l#, agissant comme une r=pulsion, mais......
-　Ça n'a pas d'effet sur les durs　de la comprenette, si je saisis bien.
+　Ça n'a pas d'effet sur les durs de la comprenette, si je saisis bien.
 ...... Exactement. Ce n'=tait pas ma faute,
 mais j'ai manqu= de vigilance.
 La prochaine fois, je ferai plus attention.
@@ -20090,7 +20090,7 @@ La prochaine fois, je ferai plus attention.
 　　　Yahou !
 　　　Un œuf que m_me moi, j'peux manger !
 　　Cet œuf est succulent !
-　　Mais il me reste un peu　sur l'estomac.
+　　Mais il me reste un peu sur l'estomac.
 　J'arrive pas # l'dig=rer.
 　Et j'entends un tic tac
 　qui retentit # l'int=rieur.
@@ -20108,16 +20108,16 @@ Il s'agit de Scratch Dumpty.
 Il est bas= sur Humpty Dumpty apparaissant
 dans une des comptines de Mother Goose.
 　　“Humpty Dumpty assis sur un mur
-　　mal assur= pr=f=ra ignorer le roi　lui disant d'en descendre.
+　　mal assur= pr=f=ra ignorer le roi lui disant d'en descendre.
 　　Ce dernier courrouc= ordonna # ses soldats
-　　de le d=loger, mais ils ne purent　atteindre l'œuf haut perch=.
+　　de le d=loger, mais ils ne purent atteindre l'œuf haut perch=.
 　Le roi fatigu= laissa Humpty Dumpty en paix.
 　C'est alors qu'il tomba de son muret,
 　pour se briser atrocement en morceaux.
 　　Il =tait trop tard pour regretter,
 　　car ni soldats, ni chevaux,
 　　ne purent jamais le recoller―――”
-　　La morale veut que certaines choses　soient irr=parables.
+　　La morale veut que certaines choses soient irr=parables.
 　　Il ne fait que causer des ennuis aux autres.
 À ce propos, Humpty devint un œuf
 # la moiti= du XIXe si$cle.
@@ -20134,7 +20134,7 @@ Yo ! Tu travailles toujours comme un chien, l'idiot ?
 Donneūmoi une douzaine de portions pour oiseau.
 Ton meilleur millet ou ton meilleur bl=.
 　　Bienvenue.
-　　Tu fais les courses la journ=e ? 　Je t'envie, Robin.
+　　Tu fais les courses la journ=e ?  Je t'envie, Robin.
 　　Hein ? Mam'zelle Alice ?
 　　PoūPoūPourquoi c'est vous la vendeuse ?
 　　O+ est pass= l'idiot ?!
@@ -20159,7 +20159,7 @@ Choisis ce que tu veux.
 　　　Il a l'air faible, mais c'est un Ploy utile.
 　　　Rien # voir avec un certain oiseau ici pr=sent.
 [videmment !
-Les oiseaux sont des familiers 　capables et =l=gants.
+Les oiseaux sont des familiers capables et =l=gants.
 　　M_me moi,
 　　je connais la Chanson # 6 pences.
 　　Gr]ce # des amis oiseaux.
@@ -20173,7 +20173,7 @@ avaient contre les oiseaux, ces nordiques ?
 　　“Le roi, son argent comptait,
 　　la reine, de tartines au miel s'empiffrait.”
 　　Apr$s le deuxi$me couplet,
-　　le po$me prend la forme d'une satire 　de la politique de l'=poque.
+　　le po$me prend la forme d'une satire de la politique de l'=poque.
 Non, }a d=crit l'quotidien d'la r=sidence Kuonji. Le roi
 qui fait les comptes, c'est en fait la reine au pull bleu. Et
 celle qui d=pense en secret, c'est pas la reine mais Mam'z...
@@ -20216,7 +20216,7 @@ Tu apparais bien assez comme }a dans l'histoire principale.
 　　En d'autres termes―――le personnage
 principal de Mahoyo, c'est mo...
 　　　Il t'arrivera des bricoles si tu t'excites trop.
-　　Ça ne pourra pas _tre pire 　que maintenant.
+　　Ça ne pourra pas _tre pire que maintenant.
 　　Ensuite...... il n'y a que des restes.
 　　Ils ne m=ritent pas vraiment qu'on en parle.
 　　Dites, dites.
@@ -20249,20 +20249,20 @@ Voyons voir. En combinant les deux,
 les bonus collector de l'=dition limit=e
 resteraient toujours disponibles sur le march=.
 Ha ha ha !
-Alors, ce serait une 　“Premi$re [dition Populaire” !
+Alors, ce serait une  “Premi$re [dition Populaire” !
 　　Non. “Article au rabais”.
 　　　　　　　Gh=.
 　　...... Ahem.
 　　Voisūtu, ce Ploy n'est pas =vident # utiliser.
 　　La prochaine fois, je ferai preuve de retenue.
 Ensuite...... Ah, }'uiūl#.
-On en parlera dans le chap' bonus, 　alors on passe.
+On en parlera dans le chap' bonus,  alors on passe.
 　Le suivant―――c'est quoi c'truc ?
 ...... Ce n'est qu'un produit rat=. C'est mon
 premier Ploy. Il n'a aucune utilit=. Je m'en
 sers de d=coration par sentimentalisme.
 Comme tu le vois, il ne sert # rien au combat.
-Et puis, il est plut&t laid, alors je n'aime pas trop 　le montrer... mais }a reste un souvenir.
+Et puis, il est plut&t laid, alors je n'aime pas trop le montrer... mais }a reste un souvenir.
 　C'est un ouvrage en sucre en forme
 　de broche. Ouah, sucr=...!
 　Ce qu'il est sucr=, votre bonbon fait maison !
@@ -20282,7 +20282,7 @@ Et puis, il est plut&t laid, alors je n'aime pas trop 　le montrer... mais }a r
 　　　Amateur Bird!
 　　　　　Un piolet ?!
 Ne sousūestime pas la montagne.
-Ne saisūtu donc pas qu'un important pourcentage　d'oiseaux migrateurs d=c$dent en tentant de la franchir ?
+Ne saisūtu donc pas qu'un important pourcentage d'oiseaux migrateurs d=c$dent en tentant de la franchir ?
 　Un moment d'inattention et c'est la mort assur=e.
 　Tu peux mourir n'importe quand. Fais preuve de respect
 　envers les sommets o+ vivent les dieux.
@@ -20301,7 +20301,7 @@ En gros, }a change pas vraiment de d'habitude.
 　　de la m$re de la m$re de Mam'zelle Alice...
 　　enfin, depuis l'=poque du fondateur, quoi.
 　Ce sont les Trois Grands Ploy.
-　Les trois articles grandioses, qui auraient =t= cr==s　par la toute premi$re sorci$re.
+　Les trois articles grandioses, qui auraient =t= cr==s par la toute premi$re sorci$re.
 　　Le G=ant du Pont, Thames Troll,
 　　l'Huile de la Lune, Flat Snark,
 　　et le troisi$me est...... Tiens, c'est qui d=j# ?
@@ -20319,7 +20319,7 @@ En gros, }a change pas vraiment de d'habitude.
 　　　En fait, je ne peux pas utiliser correctement Thames.
 　　Je ne peux le manifester que jusqu'au deuxi$me couplet.
 　　Je n'ai jamais vu les troisi$me et quatri$me couplets.
-　Troisi$me et quatri$me ?　Comment }a ?
+　Troisi$me et quatri$me ? Comment }a ?
 　　　Les paroles de la chanson du Pont de Londres.
 『～Les arbres et la terre sont emport=s.
 　～Les briques et le mortier s'effondrent.』
@@ -20340,7 +20340,7 @@ En gros, }a change pas vraiment de d'habitude.
 　Parce que la soci=t= humaine ne m'int=resse pas. Le
 　pont pr=sent dans mon univers ne va que du bois # la roche.
 　Comment !
-　Moi qui vous croyais invuln=rable,　vous cachez donc des points faibles......
+　Moi qui vous croyais invuln=rable, vous cachez donc des points faibles......
 　Ah, non, en y repensant, vous n'_tes pas si invuln=rable
 　que }a ! Vous perdez souvent !
 　Comme moi, quoi !
@@ -20349,10 +20349,10 @@ que Thames Troll =tait le meilleur golem au monde.
 Il est fort # quel point, # son niveau maximum ?
 　S'il existait une sorci$re moderne capable
 　de l'invoquer compl$tement, alors―――
-　Thames deviendrait un pont　impossible # traverser,
-　que m_me Aoko ne pourrait d=truire　avec sa technique ultime.
+　Thames deviendrait un pont impossible # traverser,
+　que m_me Aoko ne pourrait d=truire avec sa technique ultime.
 　　La ville du brouillard de la r=volution industrielle, Londres.
-　　Il se manifesterait en tant que g=ant de la ville,　allant jusqu'# sublimer son propre surnom.
+　　Il se manifesterait en tant que g=ant de la ville, allant jusqu'# sublimer son propre surnom.
 　Ha ha ha, vous y allez fort, encore !
 　Une ville ! Une ville, hein ?
 　C'est facile # dire, pas vrai ?
@@ -20370,7 +20370,7 @@ C't'un conseil larmoyant d'votre cher Ploy !
 　J'n'avais aucune issue depuis le d=but ?!
 　Exactement. Je t'avais pr=venu, non ?
 　Ne sousūestime pas la montagne.
-　J'avais pas l'impression　que c'=tait dans c'sensūl# !
+　J'avais pas l'impression que c'=tait dans c'sensūl# !
 　　Y a pas de sousūtitres dans c'film.
 　　Pourtant, j'suis s;r que j'ai des r=pliques.
 　　　　Je sais.
@@ -20380,7 +20380,7 @@ C't'un conseil larmoyant d'votre cher Ploy !
 　Je suis le seul # jouer comme dans un film muet.
 　　　　C'est l'deuxi$me, pas vrai ?
 　Le deuxi$me, oui.
-　Pour =viter tout malentendu, laissezūmoi pr=ciser que 　le v=ritable corps de Snark est liquide.
+　Pour =viter tout malentendu, laissezūmoi pr=ciser que le v=ritable corps de Snark est liquide.
 　C'est vrai que son surnom, c'est l'Huile de la Lune.
 　Qui l'a baptis= Flat Snark ?
 　C'est la fille que tu connais aussi bien que moi.
@@ -20403,7 +20403,7 @@ Thames =tait en g=n=ral troisi$me ou quatri$me.
 　Pr_teūmoi le sixi$me Ploy.
 　Je veux me faire belle pour l'accueillir !」
 　Conform=ment # sa demande,
-　je lui ai pr_t= le Ploy 　que j'avais nomm= “sixi$me” ce jourūl#.
+　je lui ai pr_t= le Ploy que j'avais nomm= “sixi$me” ce jourūl#.
 　　......
 　J'imagine la suite, mais j'demande
 　au cas o+. C'=tait quel Ploy ?
@@ -20414,8 +20414,8 @@ le Goblin Freon, qui force # insulter et
 　　des noms aux Ploy. Avec les yeux boursoufl=s
 『Celuiūci est Sweets Hearts. Lui Scripps Humpty. Celuiūl# Diddle Diddle. Et lui Flat Snark. Compris ? Appelleūles comme }a dor=navant.』
 ...... On dit que le nom repr=sente le corps, voisūtu ?
-Au lieu de ces noms stupides, je pensais que 　les classer selon mon humeur =tait plus simple, mais...
-『On ne peut pas deviner ton =tat d'esprit. Disūtoi que 　mon destin peut d=pendre de tes myst=rieuses humeurs.』
+Au lieu de ces noms stupides, je pensais que les classer selon mon humeur =tait plus simple, mais...
+『On ne peut pas deviner ton =tat d'esprit. Disūtoi que mon destin peut d=pendre de tes myst=rieuses humeurs.』
 『Et puis, ce genre de noms sera bient&t # la mode. C'est certain. M_me si on en aura s;rement rapidement assez.』
 『Il faut leur donner un nom de toute fa}on, alors autant en profiter. C'est notre originalit= # nous. Il faut _tre # la mode populaire, ce serait du g]chis sinon !』
 Depuis, j'appelle les Ploy par des noms. Ça a =t= dur de tous les retenir, mais je ne me suis plus jamais tromp=e apr$s }a.
@@ -20434,27 +20434,27 @@ Et cette huile pr=cieuse, Mam'zelle Aoko
 l'a br;l=e. On n'peut pas le restaurer ?
 Malheureusement, c'est impossible.
 À notre =poque, on ne peut pas raffiner Snark.
-Et c'est ainsi que cet h=ritage culturel a =t= an=anti 　par une sauvage ne vivant qu'# l'instinct.
+Et c'est ainsi que cet h=ritage culturel a =t= an=anti par une sauvage ne vivant qu'# l'instinct.
 Ha ha, que c'est amusant de violer la culture !
 Mais quand m_me, apr$s le N=gligent,
 c'est Snark qui y passe ! Ha ha, les Great Three ?
 Mon œil ! Ces Great Three sont trop faibles !
-Moi, j'suis un Ploy qui sait y faire ! Je vais recycler 　ces d=chets industriels ! H=, le vendeur ! 　Pr=pare des frites avec l'huile restante !
+Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces d=chets industriels ! H=, le vendeur !  Pr=pare des frites avec l'huile restante !
 En voil# une bonne id=e venant de toi, Robin.
 Je vais peutū_tre commander un poulet r&ti.
 ..................
 Le menu ne comporte qu'des hotūdogs, du popūcorn et des frites.
-J'ai pour habitude de v=rifier le menu au cin=ma. Et puis,　le poulet r&ti a une odeur trop forte pour le cin=ma.　Ça g_ne les autres clients.
+J'ai pour habitude de v=rifier le menu au cin=ma. Et puis, le poulet r&ti a une odeur trop forte pour le cin=ma. Ça g_ne les autres clients.
 　　　Je le sais. Mais rassureūtoi.
 　　　Je n'ai pas vraiment faim.
 　　　Le r&tir dans l'huile me suffira amplement.
 　Ha ha ha. Vous ne l'commandez donc pas pour le manger.
-Ne seraitūce pas la premi$re fois que tu boues 　enti$rement des plumes # la peau ?
+Ne seraitūce pas la premi$re fois que tu boues enti$rement des plumes # la peau ?
 Tu peux rajouter une mort de plus # ta collection, Robin.
-C'est la liste de mes exp=riences que je voulais 　le moins voir s'allonger au monde. Aaaahーー!
+C'est la liste de mes exp=riences que je voulais le moins voir s'allonger au monde. Aaaahーー!
 Mais ce monde regorge de bien d'autres fa}ons de mourir !
 　...... Le film se finit l#, apparemment.
-　Les cin=mas ne font plus de projections doubles 　depuis quelque temps.
+　Les cin=mas ne font plus de projections doubles depuis quelque temps.
 　　J'aurais voulu vous pr=senter le troisi$me pour finir,
 　　mais ce sera pour une prochaine fois.
 　　J'esp$re que vous avez pris plaisir # suivre
