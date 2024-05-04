@@ -19685,7 +19685,7 @@ j'ai amen= la cam=ra dans sa chambre.
 　　　Si l'invit= n'vient pas, il n'y a qu'# faire l'=mission
 　　　dans sa chambre, non ?
 ...... C'est bon, alors d=p_cheūtoi de commencer.
-Finis }a le plus rapidement possible,  et vaūt'en plus vite que la lumi$re.
+Finis }a le plus rapidement possible, et vaūt'en plus vite que la lumi$re.
 　　Uhaa, c't'embarrassant !
 　　C'est tordant !
 　　　........................... Pourquoi ?
@@ -19709,7 +19709,7 @@ Honn_tement, c't'# 90% impossible d'savoir ce que moi ou mon interlocuteur voulo
 　j'n'ai jamais vu ni entendu parler d'}a.
 　　Un familier,
 　　c'est comme un robot utilis= par les Mages.
-Depuis les temps anciens, la principale occupation des Mages est de s'enfermer dans leur Atelier pour mener # bien leurs =tudes.  Ils laissent faire ceux en qui ils ont confiance pour la r=cup=ration des mati$res premi$res, l'observation du monde ext=rieur ou l'extermination de leurs ennemis.
+Depuis les temps anciens, la principale occupation des Mages est de s'enfermer dans leur Atelier pour mener # bien leurs =tudes. Ils laissent faire ceux en qui ils ont confiance pour la r=cup=ration des mati$res premi$res, l'observation du monde ext=rieur ou l'extermination de leurs ennemis.
 　　Ce ne sont que des pions, donc.
 　　C'est diff=rent des disciples ?
 　　Tout # fait.
@@ -19728,7 +19728,7 @@ C'est pour cette raison que les petits animaux sont privil=gi=s, car leur consom
 　J'n'ai pas besoin de prot=ines et de fibres alimentaires ?
 Vous les Ploy, vous d=pendez d'un autre type de contrat.
 En tout cas, pour les Mages, tu peux consid=rer les familiers comme des “serviteurs” ou des “animaux de compagnie” qui ob=issent # leurs ordres.
-Ainsi, on prend g=n=ralement un chat,  un oiseau ou une souris comme familier.
+Ainsi, on prend g=n=ralement un chat, un oiseau ou une souris comme familier.
 　　Mam'zelle Alice, c'truc dangereux,
 　　il entre dans quelle cat=gorie ?
 　C'est un Automate adapt= au combat. Mais # ce niveau,
@@ -19748,7 +19748,7 @@ Ainsi, on prend g=n=ralement un chat,  un oiseau ou une souris comme familier.
 　　Ça me consterne. Et dire que tu es mon familier,
 　　j'ai l'impression que }a va me rendre folle.
 　Mam'zelle Alice.
-　Vos paroles sont merveilleuses,  mais pourquoi votre visage fait peur ?
+　Vos paroles sont merveilleuses, mais pourquoi votre visage fait peur ?
 　M_me s'il n'a que 10% des capacit=s du Mage,
 　c'est facile de cr=er un familier plus “fort” que lui.
 　　Et si on essayait la prochaine fois, juste pour voir,
@@ -19785,7 +19785,7 @@ Quant # moi, mon camp est fort, mais le roi luiūm_me n'a que la capacit= de “
 　Oui, Mam'zelle Alice est un personnage lent,
 　n'ayant ni force physique ni r=flexe !
 　　À la nage, elle ne peut que patauger comme un chien,
-　　elle ne peut pas faire de la barre fixe,  et encore moins monter sur une bicyclette.
+　　elle ne peut pas faire de la barre fixe, et encore moins monter sur une bicyclette.
 Aux heures de sport, sa t]che est facile ë rester assise # la lisi$re du campus.
 　Mais c'est pas grave ! J'prends des photos
 　de voyeur, alors j'le sais !
@@ -19822,7 +19822,7 @@ dans le lieu que Mam'zelle Alice a choisi, mais...
 　　mais que faitesūvous ici ? Et pourquoi ?
 　Il ne faut pas tomber dans la routine,
 　non ? Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut r=utiliser les m_mes d=cors.
-　Cela va # l'encontre de mon =thique.  On n'est pas dans un certain dojo.
+　Cela va # l'encontre de mon =thique. On n'est pas dans un certain dojo.
 　　C'est pour }a que vous avez chang= de lieu.
 　　Je vois. J'ai # peu pr$s compris.
 　　Cet entrain surprendrait m_me Mam'zelle Aoko.
@@ -20256,7 +20256,7 @@ Alors, ce serait une  “Premi$re [dition Populaire” !
 　　Voisūtu, ce Ploy n'est pas =vident # utiliser.
 　　La prochaine fois, je ferai preuve de retenue.
 Ensuite...... Ah, }'uiūl#.
-On en parlera dans le chap' bonus,  alors on passe.
+On en parlera dans le chap' bonus, alors on passe.
 　Le suivant―――c'est quoi c'truc ?
 ...... Ce n'est qu'un produit rat=. C'est mon
 premier Ploy. Il n'a aucune utilit=. Je m'en
