@@ -19,7 +19,14 @@ def indent(nbStartSpaces: int, ligne: str):
 # supprime les tags
 PATTERN_TAGS = r'\[.*?\]'
 def remove_tags(ligne: str):
-  return re.sub(PATTERN_TAGS, '', ligne)
+	# keep the character before and after the [r] tag (on dit qu'elle se base[r]sur une légende)
+	if re.search(r'\w+\[r\]\w+', ligne):
+		ligne = re.sub(r'(\w+)\[r\](\w+)', r'\1 \2', ligne)
+	
+	# remove all tags
+	ligne = re.sub(PATTERN_TAGS, '', ligne)
+
+	return ligne
 
 
 def format_line_to_steam(ligne: str, nbStartSpaces: int = 0):
