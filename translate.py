@@ -3,7 +3,7 @@ import time
 import re
 import configparser
 
-from utils.utils import get_file_lines, write_file_lines, progress
+from utils.utils import get_file_lines, write_file_lines, progress, nb_espaces_debut_ligne, nb_espaces_fin_ligne
 from utils.steam.filesmap import map as map_fichiers
 from utils.steam.line_format import transform_ruby, format_line_to_steam
 from utils.translate_csv import create_csv, get_csv, csv_columns
@@ -34,9 +34,10 @@ def init_script_fr_mem():
 def remplace_dans_script(indice: int, ligne: str):
 	global script_fr_mem
 
-	nbSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
+	nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
+	nbEndSpaces = nb_espaces_fin_ligne(sourceScriptIndent[indice])
 
-	ligne = format_line_to_steam(ligne, nbSpaces)
+	ligne = format_line_to_steam(ligne, nbStartSpaces, nbEndSpaces)
 	script_fr_mem[indice] = ligne
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
@@ -91,10 +92,6 @@ def recupere_ligne_traduite(lignes_fr: list[str], indice: int):
 		return lignes_fr[indice].strip()
 	
 	return None
-
-# compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
-def nb_espaces_debut_ligne(ligne: str):
-	return len(ligne) - len(ligne.lstrip())
 
 def creer_fichier_steam(script_sortie: str):
 	global script_fr_mem
