@@ -13,6 +13,7 @@ config = configparser.ConfigParser()
 config.read('config.ini')
 
 script_source = config['paths']['script_source']
+script_source_indent = config['paths']['script_source_indent']
 script_sortie = config['paths']['script_sortie']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
@@ -24,16 +25,18 @@ script_fr_mem = list([str])
 csv_missing = dict()
 csv_dict = get_csv(csv_name_or_url) if not creer_csv else None
 idx_line = 0 # index de la ligne du fichier de la map en cours de traitement
-
+sourceScriptIndent = get_file_lines(script_source_indent)
 
 def init_script_fr_mem():
 	global script_fr_mem
 	script_fr_mem = get_file_lines(script_source)
 
-def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = 0):
+def remplace_dans_script(indice: int, ligne: str):
 	global script_fr_mem
 
-	ligne = format_line_to_steam(ligne, nbStartSpaces)
+	nbSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
+
+	ligne = format_line_to_steam(ligne, nbSpaces)
 	script_fr_mem[indice] = ligne
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
@@ -119,8 +122,7 @@ def creer_fichier_steam(script_sortie: str):
 			# et que la troisième colonne n'est pas vide,
 			# on remplace la ligne par la traduction située dans la troisième colonne
 			if not creer_csv and (idx + 1) in csv_dict and csv_dict[idx + 1][csv_columns[2]].strip() != "":
-				nbStartSpaces = nb_espaces_debut_ligne(ligne)
-				remplace_dans_script(idx, csv_dict[idx + 1][csv_columns[2]]+ "\n", nbStartSpaces)
+				remplace_dans_script(idx, csv_dict[idx + 1][csv_columns[2]]+ "\n")
 				continue
 			
 			# S'il n'y a que des espaces dans la ligne, on passe à la suivante
@@ -132,14 +134,12 @@ def creer_fichier_steam(script_sortie: str):
 				idx_line = indice
 				ligne_traduite = recupere_ligne_traduite(lignes_fr, indice)
 				if ligne_traduite:
-					nbStartSpaces = nb_espaces_debut_ligne(ligne)
-					remplace_dans_script(idx, ligne_traduite, nbStartSpaces)
+					remplace_dans_script(idx, ligne_traduite)
 			else:
 				# si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
 				ligne_partielle = trouver_fr_partiel(idx, lignes_og, lignes_fr)
 				if ligne_partielle is not None:
-					nbStartSpaces = nb_espaces_debut_ligne(ligne)
-					remplace_dans_script(idx, ligne_partielle, nbStartSpaces)
+					remplace_dans_script(idx, ligne_partielle)
 				else:
 					nb_non_trouvees += 1
 					csv_missing[idx + 1] = ligne
