@@ -161,35 +161,21 @@ def creer_fichier_steam(script_sortie: str):
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 
 def update_switch_files():
-	og_full_script = get_file_lines(script_source)
-	# we need to update the french lines in the switch files
- 
-	keys_list = list(map_fichiers.keys())
-	for i, file_idx in enumerate(keys_list):
-		if i < len(keys_list) - 1:
-			next_key = keys_list[i + 1]
-		switch_file = ks_name_to_switch_name(map_fichiers[file_idx])
-		og_partial_script = og_full_script[file_idx:next_key]
-		print(f"Updating file {file_idx} until {next_key}")
-		
-		try :
-			file_path = os.path.join(dossier_switch, switch_file)
-			lines = get_file_lines(file_path)
-			print(f"Updating {file_path}... {round(len(lines) / 6)} lines.")
-			# Trouver la ligne japonaise correspondante. Elle se situe 2 lignes après le sha
-			for i, line in enumerate(lines):
-				if line.startswith("[sha:"):
-					# on récupère la ligne japonaise
-					og_line = lines[i + 2].split("--")[1].replace('\u3000', ' ').strip()
-					idx = find_og_line_idx(og_partial_script, og_line)
-					if idx is not None:
-						# on remplace la ligne par la ligne française
-						# lines[i + 3] = script_fr_mem[idx]
-						lines[i + 3] = script_fr_mem[file_idx:next_key][idx]
+	for file in os.listdir(dossier_switch):
+		file_path = os.path.join(dossier_switch, file)
+		lines = get_file_lines(file_path)
+		# remove empty lines
+		lines = [line for line in lines if line.strip()]
+		print(f"Updating {file_path}... {round(len(lines) / 5)} lines.")
+		for i, line in enumerate(lines):
+			if line.startswith("[sha:"):
+				# on récupère le offset
+				offset = int(re.match(r".*Offset (\d+)\..*", lines[i + 1]).group(1))
+				if offset is not None:
+					# on remplace la ligne par la ligne française
+					lines[i + 3] = script_fr_mem[offset]
 
-			write_file_lines(file_path, lines)
-		except Exception as e:
-			print(f"Erreur lors de la mise à jour du fichier {switch_file}: {e}. Passage au fichier suivant.")
+		write_file_lines(file_path, lines)
 
 
 if __name__ == "__main__":
