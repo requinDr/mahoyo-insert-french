@@ -217,7 +217,7 @@
 [sha:c035d61fb386795999edcbc144b060addedf4b12]{
 -- Page 12, Offset 3624.
 -- 「だから、なに？」
-「Oui, donc quoi ?」
+「Oui, quoi donc ?」
 
 }
 [sha:f4ee0a446c0d812b3a8d96310f86bf852b1b6776]{
@@ -889,7 +889,7 @@ Aoko s'adressa à eux.
 [sha:6696cc34d28e1d6f7dd6e16506546fa8783cf435]{
 -- Page 45, Offset 3736.
 -- 「―――で。
-「―――Donc.
+「―――Et donc ?
 
 }
 [sha:32ab92ff7e64f8f557e55d7a467d52d09c55063d]{
@@ -1111,7 +1111,7 @@ Aoko s'adressa à eux.
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 55, Offset 3773.
 -- 「？」
-"?"「?」
+「?」
 
 }
 [sha:b65e1af441fdb146c75866bede73817ad61b0706]{
@@ -1225,7 +1225,7 @@ Aoko s'adressa à eux.
 [sha:0a4e166b5e812390d7c7c015bb0b93a472dd8ce5]{
 -- Page 61, Offset 3792. Glued. Mods: @x.
 -- それで、水泳部はどう？　やっていけそう？」
-Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
+ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 
 }
 [sha:85efca90ab2e6ea637c5dc5c3d3de447bf9ca877]{
@@ -1255,7 +1255,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:91b642186ab526113b1087fa779eb4f3bb4fa21f]{
 -- Page 63, Offset 3797. Mods: @n.
 -- 「な、
-「Po... 
+「Po...
 
 }
 [sha:6a28fcb5bda7a363850a0309132d9abc67ef7563]{
@@ -1537,7 +1537,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:f50397f9a517cf047498dae1551100493a590887]{
 -- Page 77, Offset 3844.
 -- 「うん？」
-「Oui ?」
+「Hum ?」
 
 }
 [sha:0509b0be7efe7481bf5a19660adcfe9c6827050c]{

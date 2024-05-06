@@ -1,7 +1,7 @@
 [sha:13f52dfb5cfbe93e9b86ad9ed40ccba216589ad2]{
 -- Page 0, Offset 2672.
 -- そんな一連の出来事を観察しながら、鳶丸はつくづく草十郎に感心していた。
-  Alors qu'il observait cet enchaînement d'évènements, l'admiration de Tobimaru pour Sōjūrō atteignit des sommets.
+   Alors qu'il observait cet enchaînement d'évènements, l'admiration de Tobimaru pour Sōjūrō atteignit des sommets.
 
 }
 [sha:102d8656357af0676cedb8c5795dfeaa2b0a7f47]{
@@ -271,7 +271,7 @@
 [sha:c10d87d8bc38829e2d430a79a1e871c42faf220a]{
 -- Page 11, Offset 2717.
 -- “なんで会長になんか立候補したのよ。アンタは副会長って顔でしょ、どう見ても”
-  à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,
+ à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,
 
 }
 [sha:a456797111e690df97b11d819a74c7c9e5bc1c37]{
@@ -613,7 +613,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
 -- Page 24, Offset 2774.
 -- 「で？」
-「Et alors ?」
+「Et donc ?」
 
 }
 [sha:3483de869f48eddb1c1cb55fe25497bfcf468f93]{
@@ -811,7 +811,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 33, Offset 2807.
 -- しかし。
-  Pourtant,
+  Cependant,
 
 }
 [sha:235ddd2396f2d974d5407bff3097f9f3453ceccb]{
@@ -943,7 +943,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
 -- Page 40, Offset 2829.
 -- ―――と。
-  ―――Et,
+  ―――Puis,
 
 }
 [sha:a5dcb8a82ac9506778f0185e688969db449c89c4]{
@@ -967,7 +967,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:d4747cf67d1b8b6409109f420fe467fac35d52d1]{
 -- Page 41, Offset 2833. Mods: @k, @e.
 -- 「へ？　授業って、なんで？
-「Hein ? Les cours ? Pourquoi ?
+ 「Hein ? Les cours ? Pourquoi ?
 
 }
 [sha:dcab97c02506105db91d7bae96881874611b1f40]{
@@ -1201,7 +1201,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:1a185888a8bdbd168bb52bfceefce38b24f0e766]{
 -- Page 52, Offset 2872.
 -- 「こんな天気が続けばいいんだがねぇ。
-「Ça serait bien que ce temps continue.[r]
+「Ça serait bien que ce temps continue.
 
 }
 [sha:0df46e566c0b1768e1b0bd62bc705def298f0a3d]{

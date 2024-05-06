@@ -43,7 +43,7 @@
 [sha:82569ce7130b2317adc0fe17c311418237f176aa]{
 -- Page 1, Offset 9178.
 -- このように。
-  Ainsi,
+  soit à ceci.
 
 }
 [sha:f46a22645d9a0b6bc2cda113d45a8fcf3dee1b8b]{
@@ -127,7 +127,7 @@
 [sha:03dd69d43ec5bc5924e37064c91be061b64a2b29]{
 -- Page 5, Offset 9192.
 -- 『ま、転校してきたばかりだし、しょうがないよね』
-『Il vient juste d'être transféré. On n'y peut rien.』
+quand le professeur Yamashiro la lui avait montrée en ajoutant :
 
 }
 [sha:76b3ea556d99e5d3dd9bb33fd10e2edf8b5d27a3]{
@@ -151,7 +151,7 @@
 [sha:978f408d4ff7cd375fe1e8377a28a183cd821d33]{
 -- Page 7, Offset 9196. Glued. Mods: @x.
 -- 同年代の男子を自分の部屋に立ち入らせることに抵抗はある。
-  Elle avait des réticences à laisser entrer un garçon de son âge dans sa chambre.
+Elle avait des réticences à laisser entrer un garçon de son âge dans sa chambre.
 
 }
 [sha:bb203426900fa3b989d40f62f76b2ac4e054fcab]{
@@ -163,7 +163,7 @@
 [sha:a469f7a656973974c1af9e173e5eae75e3084044]{
 -- Page 7, Offset 9198.
 -- なので、今日の不機嫌度は五割増し。彼女のこめかみから怒りマークがとれないのも無理からぬ事である。
-  Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50%. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
+  Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50 %. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
 
 }
 [sha:923d6414167af1179ca4161ead5ee6a83232233a]{

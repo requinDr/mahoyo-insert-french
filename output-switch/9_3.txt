@@ -553,7 +553,7 @@ Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
 [sha:58cc6f095c0200d27ae33077bf7e0cfe079ef1cf]{
 -- Page 32, Offset 13309.
 -- ……まあ。
-  ...... Enfin,
+  ...... Enfin.
 
 }
 [sha:742b498d776cca6848879e8f3883798099045b72]{

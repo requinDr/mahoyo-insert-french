@@ -121,7 +121,7 @@
 [sha:9aabe4be311dc9e3090d19f260f5e5ddeef15f98]{
 -- Page 6, Offset 18708.
 -- それに、
-  Celui-ci répondit :
+  En outre,
 
 }
 [sha:065b118eb86811c3de566831d0ff34745bff44aa]{
@@ -469,7 +469,7 @@
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 21, Offset 18766.
 -- ……しかし。
-  ...... Mais alors,
+  ...... Cependant,
 
 }
 [sha:a5777b6c45cdf6a1b7f5949ca1a25069123d5a70]{

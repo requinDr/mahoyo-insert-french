@@ -259,7 +259,7 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 12, Offset 21521.
 -- 「はい？」
-「Hein ?」
+「Hum ?」
 
 }
 [sha:c95a88e043cf2dfed9198576797ecefddde65212]{

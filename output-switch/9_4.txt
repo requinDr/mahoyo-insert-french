@@ -289,7 +289,7 @@
 [sha:9aabe4be311dc9e3090d19f260f5e5ddeef15f98]{
 -- Page 16, Offset 13559.
 -- それに、
-  Quant à elle,
+  En outre,
 
 }
 [sha:c1d33fa9585fd4ebd3829dd4fb09033c3fcb30b3]{
@@ -637,7 +637,7 @@ Moi qui pensais qu'elles ne cohabitaient que pour la forme, on dirait que ça se
 [sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
 -- Page 36, Offset 13617.
 -- そこへ、
-  C'est alors qu'elle prit la parole.
+  À ce moment...
 
 }
 [sha:f21f37fb935b12dd9ae3fcbd86578f392c5b9495]{
@@ -655,7 +655,7 @@ Moi qui pensais qu'elles ne cohabitaient que pour la forme, on dirait que ça se
 [sha:ed6491818fd64861ab01bf22953437f31ffe3018]{
 -- Page 37, Offset 13620.
 -- くすりと。
-  lui fit-elle.
+  Elle émit un petit rire.
 
 }
 [sha:70a6284eb0be6e65adf106b63d7f49931d21f214]{
@@ -847,7 +847,7 @@ De toute évidence, la conversation ne progresserait pas tant qu'il n'aurait pas
 [sha:bd21c4f6c434cfb4f42ecfc030bad0b2c779a58c]{
 -- Page 48, Offset 13652. Glued. Mods: @x.
 -- 青子を訪ねにきたら、いつか見た君が出迎えてくるんだから」
-  Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé une fois auparavant m'accueille.」
+Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé une fois auparavant m'accueille.」
 
 }
 [sha:cbba913887736b5e5e5d960bce21f84664554521]{

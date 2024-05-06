@@ -205,7 +205,7 @@
 [sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
 -- Page 11, Offset 22634. Glued. Mods: @x.
 -- む？」
-Hum ?」
+ Hmm ?」
 
 }
 [sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{

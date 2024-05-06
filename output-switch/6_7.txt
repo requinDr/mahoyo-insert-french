@@ -199,7 +199,7 @@
 [sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
 -- Page 11, Offset 8291.
 -- だが、
-  Mais,
+  Cependant...
 
 }
 [sha:a7a9228c24b4a28fd8cbd2006fc6b4d61a472b1f]{

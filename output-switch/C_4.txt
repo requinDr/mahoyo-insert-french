@@ -355,7 +355,7 @@ De plus, trop de personnes attendaient un taxi. Il préféra se fier à ses jamb
 [sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
 -- Page 13, Offset 18193.
 -- ……けれど。
-  ...... Cependant,
+  ...... Toutefois.
 
 }
 [sha:08bddb8fb125902a7ada5359560e41992aecb4e9]{

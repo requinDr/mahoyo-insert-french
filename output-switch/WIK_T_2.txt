@@ -283,7 +283,7 @@
 [sha:01b441ba99069c91e7b9999de66f9cd92ac87418]{
 -- Page 15, Offset 23448.
 -- 詠梨神父用の客室も清潔。
-  Tout comme celle de père Eiri.
+  Celle de père Eiri aussi.
 
 }
 [sha:d3102ff4e1e2685b8300efca5d3498be91aaebea]{
@@ -361,7 +361,7 @@
 [sha:21ad610e19e4d912c25494c7014437a5fef3deaf]{
 -- Page 19, Offset 23461.
 -- 彼女が何時殺されたのかは定かではない。
-  Je n'aurais pas su déterminer à quelle heure elle avait été tuée.
+  Je n'aurais su déterminer à quelle heure elle avait été tuée.
 
 }
 [sha:c14b7300262e267d27bf5d85715d95b13ff50a8c]{
@@ -415,6 +415,6 @@
 [sha:d3696175f465dba49d9c49c4079c50ebef18edb2]{
 -- Page 21, Offset 23470.
 -- わたしは何を間違えていたのかをぼんやりと考えながら、破滅の足音に耳をかたむけた―――
-  Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
+  Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 
 }

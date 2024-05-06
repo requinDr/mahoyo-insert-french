@@ -523,7 +523,7 @@ Alors―――」
 [sha:4bd57fb7babe64a9d1b897616207067a2f134307]{
 -- Page 24, Offset 19266. Glued. Mods: @x.
 -- その世界が、あまりにも行き止まっている、という事だけ。
-le fait que cette société était à l'arrêt.
+ le fait que cette société était à l'arrêt.
 
 }
 [sha:ce445333a15d20eca0cf26f357623b477436e4d4]{
@@ -547,7 +547,7 @@ le fait que cette société était à l'arrêt.
 [sha:c37182dde3660c6dc8f445e5e8b1b674dcb6e50b]{
 -- Page 25, Offset 19270.
 -- こうやって残ってしまった。
-          mais il y était heureux.
+        mais il y était heureux.
 
 }
 [sha:25fb4ce081b4527fd59f6dbb9d830c12802176cb]{
@@ -661,7 +661,7 @@ le fait que cette société était à l'arrêt.
 [sha:419fa0d4d550612353488ecb2d12bd5c0c31d965]{
 -- Page 30, Offset 19289. Glued. Mods: @x.
 -- 君の最初の優しさが、今でよかった」
-Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
+ Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
 
 }
 [sha:2e74c8387603bf2645e20f5aaf9e7a3c0f559ffd]{

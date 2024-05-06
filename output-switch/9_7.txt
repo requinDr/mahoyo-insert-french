@@ -457,7 +457,7 @@ En gros, c'est comme si on tirait mes balles de prana avec les yeux.」
 [sha:5628e35df9a2311f93b529ef53d41f5dae4add0e]{
 -- Page 24, Offset 14150.
 -- ぽん、と手を叩く草十郎。
-  Sōjūrō eut un soudain éclair de compréhension.
+  Sōjūrō eut un éclair de compréhension.
 
 }
 [sha:9b5bb91281b62934626cfbcad7c500e2dafbe57e]{
@@ -601,7 +601,7 @@ Les types de Magie comme les Runes ou la Kabale représentent chacune une matiè
 [sha:660fc267195402d943130d5895920ea992f56b61]{
 -- Page 31, Offset 14174. Glued. Mods: @x.
 -- あー、草十郎の分かるレベルに落としこむと……ま、太陽みたいなものと考えて。
-Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.
+ Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.
 
 }
 [sha:0537645d0ba1dd58d2aef1c6129b1e91d4db2a58]{
@@ -1321,7 +1321,7 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:6243dca4de14e4954f98b8c0fb09a1ed24a50343]{
 -- Page 74, Offset 14294.
 -- なので―――
-  Et donc―――
+  Donc―――
 
 }
 [sha:951fcd0ef3fb49950e8c18c6b51a9617765e8b61]{
@@ -1459,6 +1459,6 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:c6406b68850d9c38eabb5186e1d4973b114c2333]{
 -- Page 79, Offset 14317.
 -- 「それも、悲しい話だね」と呟いて。
-  “Ça aussi, c'est triste”, murmura-t-il.
+“Ça aussi, c'est triste”, murmura-t-il.
 
 }

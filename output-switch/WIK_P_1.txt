@@ -157,7 +157,7 @@
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 10, Offset 22956.
 -- 「っ……！」
-「...!」
+「......!」
 
 }
 [sha:37b2c38babba641a76bb88db10ec517a6d05f5b5]{

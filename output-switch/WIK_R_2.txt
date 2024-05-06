@@ -49,13 +49,13 @@
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 3, Offset 23155.
 -- 「…………」
-「......」
+「............」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 3, Offset 23156.
 -- 「…………」
-「......」
+「............」
 
 }
 [sha:b27847f6176004c340f93addb1d342f4594efa54]{
@@ -205,7 +205,7 @@
 [sha:b7bdf324a95ba86b1f2c5aad2f3a60f388aa584a]{
 -- Page 10, Offset 23181. Glued. Mods: @x.
 -- 勘で申し訳ないんだが、人物Ａとやらに肩入れしている気がする」
-désolé de dire ça en me fiant à mon instinct, mais j'ai l'impression qu'elle est du côté de l'individu A.」
+ désolé de dire ça en me fiant à mon instinct, mais j'ai l'impression qu'elle est du côté de l'individu A.」
 
 }
 [sha:ea50c3e07220c4eea4948049a10113399f32ae76]{
@@ -313,7 +313,7 @@ désolé de dire ça en me fiant à mon instinct, mais j'ai l'impression qu'elle
 [sha:c3d93c78d964e45e49dbf4a57a7d282b63497e56]{
 -- Page 18, Offset 23199. Glued. Mods: @x.
 -- 今夜にかぎっちゃ信頼している奴ほど危ねえじゃねえか」
-Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
+ Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
 
 }
 [sha:edc508e8397ab1212ae74a4db0f0ba64556d88f1]{
@@ -379,7 +379,7 @@ Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
 [sha:da77409cf855c67caa7d3a48bc4bda10936ab1d9]{
 -- Page 22, Offset 23210. Glued. Mods: @x.
 -- 久万梨はどう思う？」
-tu te rappelles ?」
+ tu te rappelles ?」
 
 }
 [sha:260a288bd6e6017828f3bc51899a74ceb9e2b03b]{

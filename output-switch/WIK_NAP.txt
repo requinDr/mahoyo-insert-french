@@ -103,19 +103,19 @@
 [sha:704c51efbf9c82fbe898fce20c92b19ad892f33c]{
 -- Page 4, Offset 22787. Glued. Mods: @x.
 -- 久遠寺さん、
-Kuonji,
+ Kuonji,
 
 }
 [sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{
 -- Page 4, Offset 22788. Glued. Mods: @x.
 -- 静希、
-Shizuki,
+ Shizuki,
 
 }
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 4, Offset 22789. Glued. Mods: @x.
 -- 槻司、
-Tsukiji,
+ Tsukiji,
 
 }
 [sha:e2b85edb43331711992cedf2f0cb36b70f373a49]{
@@ -127,13 +127,13 @@ l'Idiot,
 [sha:97aeb4c27a111fe040496106f8d7b48fd6260be4]{
 -- Page 4, Offset 22791. Glued. Mods: @x.
 -- 山城先生、
-monsieur Yamashiro
+ monsieur Yamashiro
 
 }
 [sha:6a0441e31a0a44d85e8ae6c4e4f6c69675614c25]{
 -- Page 4, Offset 22792. Glued. Mods: @x.
 -- ベオ。
-et Beo.
+ et Beo.
 
 }
 [sha:d0b2842117934a89eb9795b4796d8421d9e7729a]{
@@ -169,13 +169,13 @@ et Beo.
 [sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
 -- Page 6, Offset 22798.
 -- ……。
-  .......
+  ......
 
 }
 [sha:48c33372b1dd02e7e1dd303814539240845c9045]{
 -- Page 6, Offset 22799.
 -- ………………。
-  ...................
+    ..................
 
 }
 [sha:6b6a239a47d40b4695233c908ecf6382a1d77cd0]{

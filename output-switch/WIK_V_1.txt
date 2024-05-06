@@ -49,7 +49,7 @@
 [sha:e8fbc0c091384a37ddaebddcca2715efffb51714]{
 -- Page 1, Offset 23699.
 -- “人手がなかったから、自分が施錠してまわる事になった”と。
-“Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
+  “Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 
 }
 [sha:224b71ab3df4ba4fe431aeb288365cf25472369f]{
@@ -253,7 +253,7 @@
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 9, Offset 23733.
 -- 「へ？」
-「Hein ?」
+「Hé ?」
 
 }
 [sha:404cf72f9ac2b4070a2e5819efb11fc201a6d05a]{

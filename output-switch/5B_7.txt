@@ -55,7 +55,7 @@
 [sha:587456529022b958727271c1ee1d07d195decd78]{
 -- Page 2, Offset 7161.
 -- 「……その疑問はなかったわ。
-「...... Je ne m'étais pas posé la question. 
+「...... Je ne m'étais pas posé la question.
 
 }
 [sha:3b2b0af234e68498e48d4839cc60f557fae1b5b9]{

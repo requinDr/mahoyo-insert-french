@@ -247,7 +247,7 @@
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 12, Offset 8606. Glued. Mods: @x, @n.
 -- 
-
+　　　
 
 }
 [sha:bbb8290a0be0205bd2742edb1405a3f4a4df44d3]{
@@ -361,7 +361,7 @@ Surtout quand on la compare avec les filles de notre classe. Au niveau des seins
 [sha:a85d385cb8a86c2b768305009f5fd3c6c0d86418]{
 -- Page 18, Offset 8625.
 -- さもありなん。
-  Évidemment.
+  Bien évidemment,
 
 }
 [sha:9c1d1b73fc7a69d4b6e53a9e8b4bd9459d146585]{
@@ -505,7 +505,7 @@ Je l'ai réalisé après beaucoup de réflexion, mais apparemment, je n'ai pas a
 [sha:afc117e040b3c23a279f9c10d272fdb646a5484b]{
 -- Page 28, Offset 8649.
 -- 「木乃美。たとえばの話、まっどべあにハリセンボンみたいな女の子が入ってきたとする。
-「Kinomi. Imaginons qu'une fille hérissée dans le genre poisson-globe arrive à l'Ours Enragé.
+「Kinomi. Imaginons qu'une fille hérissée dans le genre< fugu |poisson-globe>arrive à l'Ours Enragé.
 
 }
 [sha:b699541561fd2ada88948a21c615994a1b02e60e]{
@@ -1153,7 +1153,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 [sha:d7608bd3e529e49b45b1dbc96dac39b0f259b5b3]{
 -- Page 62, Offset 8757. Glued. Mods: @x.
 -- とか！」
-Par exemple !」
+ Par exemple !」
 
 }
 [sha:b3fbd4d545e0f38b032380dd8b8bca652c673fff]{
@@ -1297,7 +1297,7 @@ Par exemple !」
 [sha:0fefa2b05df7fa71dcfebb1e4f334510a8459355]{
 -- Page 70, Offset 8781. Glued. Mods: @x.
 -- ただ……人間の体って、あんな風に動くんだなって」
-Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
+ Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
 
 }
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
@@ -1339,7 +1339,7 @@ Alice l'asociale avait été bouleversée par le saut de Sōjūrō, ce qui étai
 [sha:760abd5cf95e69709da27bf4d4eb7f31fb01131f]{
 -- Page 72, Offset 8788. Glued. Mods: @x.
 -- 別に、彼に何を期待しているワケじゃないわ」
-  Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
+Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 
 }
 [sha:3128ccae022ca168e8b372d43f4f2ee762e0f1b2]{
@@ -1603,7 +1603,7 @@ Alice l'asociale avait été bouleversée par le saut de Sōjūrō, ce qui étai
 [sha:368c285bcf0b5a5f0b6b414ffccba1bce86b604d]{
 -- Page 87, Offset 8832.
 -- “有珠をどう納得させるのか”
-“Comment faire pour convaincre Alice ?”
+  “Comment faire pour convaincre Alice ?”
 
 }
 [sha:69e66a8f12a3d991522e2463e0d4ebf459004864]{
@@ -1789,7 +1789,7 @@ Alice l'asociale avait été bouleversée par le saut de Sōjūrō, ce qui étai
 [sha:a8ce293f301cc2640d3fa1bf959bd0b7a5d297f0]{
 -- Page 95, Offset 8863.
 -- なので、
-  Donc,
+  Et donc,
 
 }
 [sha:a8cb1733421b2181a9d235fa8283f696a7076ec1]{
@@ -2059,19 +2059,19 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
 [sha:b47e10c489656684cb14ddc320ea88da358716d0]{
 -- Page 108, Offset 8908. Mods: @n.
 -- 起床、
-  Le réveil, 
+  Le réveil,
 
 }
 [sha:c6124e2efdd3454cf33810ec37120bddd1c85115]{
 -- Page 108, Offset 8909. Glued. Mods: @n.
 -- アルバイト、
- le travail, 
+ le travail,
 
 }
 [sha:3d98cc13057338cc2cf2dd4590e17769c78f9f94]{
 -- Page 108, Offset 8910. Glued. Mods: @n.
 -- 朝食、
- le petit déjeuner, 
+ le petit déjeuner,
 
 }
 [sha:9bc71a047e1a09dcb27a44985b38e493352490c1]{
@@ -2083,13 +2083,13 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
 [sha:78ae63ba4367778e56ae99c091d0d889c08b2088]{
 -- Page 108, Offset 8912. Mods: @n.
 -- 慣れない授業、
-  Les cours auxquels il ne s'habituait pas, 
+  Les cours auxquels il ne s'habituait pas,
 
 }
 [sha:3e8da265e79e23d3c5be78e108792855a37d17e1]{
 -- Page 108, Offset 8913. Glued. Mods: @n.
 -- 数少ない憩いの休み時間、
- les rares récréations, 
+ les rares récréations,
 
 }
 [sha:c0c3f60979b58553c6902b64c6077da502815e70]{
@@ -2107,19 +2107,19 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
 [sha:c6124e2efdd3454cf33810ec37120bddd1c85115]{
 -- Page 108, Offset 8916. Glued. Mods: @n.
 -- アルバイト、
- le travail, 
+ le travail,
 
 }
 [sha:725515a98a12337e35648579c12e16283277ccf1]{
 -- Page 108, Offset 8917. Glued. Mods: @n.
 -- 仮眠、
- la sieste, 
+ la sieste,
 
 }
 [sha:e70d6e254d09f4b7a03ac3d9ba0d4a7bd90ad903]{
 -- Page 108, Offset 8918. Glued. Mods: @n.
 -- 起床、
- le réveil, 
+  Le réveil,
 
 }
 [sha:6d113967843a184459d0d2c980181785e499fc3b]{

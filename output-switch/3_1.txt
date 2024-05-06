@@ -103,7 +103,7 @@
 [sha:4c3a46698b618c653b1bba7ca8df1758fc559912]{
 -- Page 6, Offset 3023. Mods: @i, @n.
 -- “
-"
+“
 
 }
 [sha:db02ff1cd398ee07411d7087d9fdb8395959c0e1]{
@@ -115,13 +115,13 @@
 [sha:e01e58198d1f4f6767bb8c9afecc18c6ba883a34]{
 -- Page 6, Offset 3025. Mods: @i, @a, @r.
 -- The cow jump'd over the moon,
-  The cow jumped over the moon,
+The cow jump'd over the moon,
 
 }
 [sha:c69896dd0c1e74fbd3aeb3a7b313629ee1b800a2]{
 -- Page 6, Offset 3026. Mods: @i, @a, @r.
 -- The little dog laugh'd……”
-  The little dog laugh'd..."
+  The little dog laugh'd......”
 
 }
 [sha:c581702cc585f384dde108eea3afc5ab7a7a9f9d]{
@@ -607,13 +607,13 @@ Mon cœur devint un moteur complètement différent, et utilisa mon corps comme 
 [sha:139cf38986707d8f5aab96a29fa147540e721f15]{
 -- Page 29, Offset 3107. Glued. Mods: @x.
 -- 殺した。
-Je l'ai tué.
+  Je l'ai tué.
 
 }
 [sha:139cf38986707d8f5aab96a29fa147540e721f15]{
 -- Page 29, Offset 3108. Glued. Mods: @x.
 -- 殺した。
-Je l'ai tué.
+  Je l'ai tué.
 
 }
 [sha:87bf5f3f9031cdf990804e95d4573006f79310ae]{

@@ -175,7 +175,7 @@
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 8, Offset 9493.
 -- しかし。
-  Pourtant,
+  Cependant,
 
 }
 [sha:54d86af1b9eff29f207d64851ccaa22528b3910b]{

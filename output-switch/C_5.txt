@@ -541,7 +541,7 @@ Espèce... d'idiot.」
 [sha:3b493ffb771328d4ddaf1721af616b535b2227c4]{
 -- Page 25, Offset 18295. Glued. Mods: @x.
 -- お兄さんは…………！」
-monsieur............?」
+ monsieur............?」
 
 }
 [sha:0c268655dfdb87b0757f74cd4f5d77f3472adbcd]{
@@ -637,7 +637,7 @@ monsieur............?」
 [sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
 -- Page 30, Offset 18311.
 -- ……けれど。
-  ...... Cependant,
+  ...... Toutefois.
 
 }
 [sha:c865e81c9e74026852bb6706d9ad1320f6f7cf4e]{

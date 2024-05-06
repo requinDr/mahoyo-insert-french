@@ -289,7 +289,7 @@ Un bref silence.
 [sha:a2305c1078d11fe1c26784aef0e2478a1f10012e]{
 -- Page 12, Offset 19409.
 -- そして―――
-  Ensuite―――
+  et―――
 
 }
 [sha:8ed1e01fd5177f7f816808f994867dfd706e81cf]{

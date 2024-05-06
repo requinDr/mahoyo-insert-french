@@ -1027,7 +1027,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:e204892adf7a9c8b6cd563b7233a7cfbb68fa4b4]{
 -- Page 41, Offset 6155. Glued. Mods: @x.
 -- 全界層、ブン回せ―――！」
-Toutes les couches à plein régime―――!」
+  Toutes les couches à plein régime―――!」
 
 }
 [sha:b0f6f045babc6a2c3f1aadc1ad85258c117bff15]{
@@ -1111,7 +1111,7 @@ Toutes les couches à plein régime―――!」
 [sha:803bfbed9c6571846ce136876d49efecd83d5402]{
 -- Page 45, Offset 6169.
 -- 空間の支配率はスナークが八割、青子は二割にすぎない。
-  Le taux de contrôle de l'espace était de 80% pour le Snark et seulement de 20% pour Aoko.
+  Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
 
 }
 [sha:438ca86f75ff31bf9bf245b0f338b4f541c715ee]{
@@ -1219,19 +1219,19 @@ Toutes les couches à plein régime―――!」
 [sha:027962e546b36958f3d0cdd272d5ffefbf06715a]{
 -- Page 50, Offset 6187. Mods: @n.
 -- 何かが、
-  quelque chose, 
+  quelque chose,
 
 }
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
 -- Page 50, Offset 6188. Glued. Mods: @n.
 -- 何かが、
- quelque chose,
+  quelque chose,
 
 }
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
 -- Page 50, Offset 6189. Glued.
 -- 何かが、
- quelque chose.
+  quelque chose,
 
 }
 [sha:0c944fd7976b7c7f0a16e262d263dd04d73a9ea0]{
@@ -1297,7 +1297,7 @@ Toutes les couches à plein régime―――!」
 [sha:a9c2e6986c03cd58d3bd49207dcde6f90508bf8e]{
 -- Page 53, Offset 6200. Mods: @c, @n.
 -- 
-                                                
+　　　
 
 }
 [sha:4283a3c80e8044d8d869b3ad2595a03f2867235e]{
@@ -1633,7 +1633,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:010dbc25836e35d28add8f64ac98bd4195650981]{
 -- Page 67, Offset 6256.
 -- “ぐ、つぅ―――！”
-“Guh... tss―――!”
+  “Guh... tss―――!”
 
 }
 [sha:3bdf2eb567af62ea7efeeb6df86fd5fd43b527bb]{
@@ -1921,7 +1921,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:d60dde0f07fd6f8a8a8399c6bf889880e72bc2e6]{
 -- Page 78, Offset 6304.
 -- 「―――ハ」
-「―――Hé.」
+「―――Ah.」
 
 }
 [sha:4eee3bd267fcc085a627db82f9c79c1ca03849a9]{

@@ -319,13 +319,13 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
 -- Page 20, Offset 22569.
 -- 「っ……！」
-「Qu...!」
+「......!」
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 21, Offset 22570.
 -- ……と。
-  ... C'est alors que,
+  ...... Puis,
 
 }
 [sha:e2cfc53910789dc5090f821b50d34c9d411be29c]{

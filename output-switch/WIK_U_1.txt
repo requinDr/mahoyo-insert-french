@@ -61,7 +61,7 @@
 [sha:ab0aa1b408cccf44171d505e834640028b677f37]{
 -- Page 4, Offset 23631.
 -- ああ―――
-  Aaah―――
+      Aaah―――
 
 }
 [sha:19068d8550fd23aecaea4781f17c6afbad267f45]{
@@ -109,19 +109,19 @@ vo
 [sha:b688d9a4249513ef5fa6e7c9c1d94633644f245b]{
 -- Page 5, Offset 23639. Glued. Mods: @c, @n.
 -- ご
- pour
+pour
 
 }
 [sha:9a15db1fc3bb13549d6cbd12bc229ca7add3780c]{
 -- Page 5, Offset 23640. Glued. Mods: @c, @n.
 -- ろ
- a
+a
 
 }
 [sha:ec7d8d2f5eaa8e73b46feb9d46bae8c3a42b20b4]{
 -- Page 5, Offset 23641. Glued. Mods: @c, @n.
 -- し、
-voir
+ voir
 
 }
 [sha:52b4224e4c77d014cc28d0406a94684a61810fe7]{
@@ -133,7 +133,7 @@ voir
 [sha:bce84afae2a54873aa98b7b66792932dd001b8eb]{
 -- Page 5, Offset 23643. Glued. Mods: @c, @n.
 -- め
- tout
+tout
 
 }
 [sha:251e8d9748c9cac535d78968659226b5ae065288]{
@@ -145,7 +145,7 @@ voir
 [sha:061ee82c3292be6cecc7b87217a93353dbc800e6]{
 -- Page 5, Offset 23645. Glued. Mods: @c, @n.
 -- と
- mon
+de
 
 }
 [sha:ef883d8d494904c63bdb906feb306165919437c1]{

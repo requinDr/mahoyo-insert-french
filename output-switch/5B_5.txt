@@ -55,7 +55,7 @@
 [sha:ac0a120f3d2f9a503aafaf77116e965735e12c36]{
 -- Page 2, Offset 6898.
 -- ……このように。
-  ...... à présent,
+  ...... et c'est ainsi que,
 
 }
 [sha:46d1014ba2c3f9aa07b8f3517648a46e413175e4]{
@@ -199,7 +199,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 9, Offset 6922.
 -- 「へ？」
-「Hein ?」
+「Hé ?」
 
 }
 [sha:7c86c83c93e6945f2daa717a0f728507c434493f]{
@@ -1237,7 +1237,7 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:853dbdcc714914ae3bef21f1fe69982dd65e0696]{
 -- Page 64, Offset 7095. Glued. Mods: @x.
 -- 普通、もっと違うところに労力さかない！？　そんなにピエロが好きなら入り口にでも飾っとけ！」
-Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
+  Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
 
 }
 [sha:2fae939a40fe1cfcbb0399d46c1c27c70ccd95e3]{

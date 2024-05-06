@@ -7,7 +7,7 @@
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 0, Offset 16560.
 -- ……と。
-  ...... entendirent-ils.
+  ...... Puis,
 
 }
 [sha:dfa3f7183a6fdd16fa4366b13ac31879cf1caeb9]{
@@ -175,7 +175,7 @@ puisqu'elle est partie depuis longtemps.」
 [sha:50a0cd3a3d8fe62aa24d94883138fe2314b57557]{
 -- Page 8, Offset 16588.
 -- 「有珠は？」
-「Et Alice ?」
+「Et toi ?」
 
 }
 [sha:c35468a9a10cf91606f73387039c64133d0d57e4]{
@@ -223,7 +223,7 @@ puisqu'elle est partie depuis longtemps.」
 [sha:da94e33e039512eedd4069054392ee94d5077e48]{
 -- Page 9, Offset 16596.
 -- それを、
-  Cependant,
+  Voyant cela,
 
 }
 [sha:8ee9bf1d7343570e7bd0553a3e887e6a68c35951]{
@@ -523,7 +523,7 @@ il ne pourrait réfléchir à la suite des évènements que le moment venu.
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 23, Offset 16646. Glued. Mods: @x, @n.
 -- 
-
+　　　
 
 }
 [sha:9f3d0e0ded34c357659197a35d0bcf03baf5507a]{

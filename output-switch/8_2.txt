@@ -745,7 +745,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:a70407a4d76b307e58fe273198707bf40a1bf90b]{
 -- Page 40, Offset 10811. Glued. Mods: @x.
 -- いいの、青子？」
-  Ça te convient vraiment, Aoko ?」
+ Ça te convient vraiment, Aoko ?」
 
 }
 [sha:e63bf651af2029a85e06ff4b9e313aeb7b795d6b]{

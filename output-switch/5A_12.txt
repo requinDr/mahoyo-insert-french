@@ -313,7 +313,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:dc3503fc3898c54bd391c611d45dd18c3d78b23c]{
 -- Page 13, Offset 4287. Mods: @i, @r.
 -- “Iis salvatio Iis salvatio Iis salvatio Iis salvatio”
-“Iis salvatio Iis salvatio Iis salvatio Iis salvatio.”
+“Iis salvatio Iis salvatio Iis salvatio Iis salvatio”
 
 }
 [sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
@@ -361,7 +361,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
 -- Page 14, Offset 4295. Mods: @n.
 -- 
-                                
+　　　
 
 }
 [sha:97b8d591e05197d35da7ff040d32afbabbf9cecd]{
@@ -601,7 +601,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:948d36f74407e5bd5b00bdb242c8924eb87f815b]{
 -- Page 27, Offset 4335.
 -- 口調も表情も優しいのに、なんでぞわっと寒気がするんだろうな、と草十郎はうなだれてみた。
- Pourquoi est-ce que je ressens des frissons alors qu'elle a l'air gentille et attentionnée, se demanda Sōjūrō anxieux.
+  Pourquoi est-ce que je ressens des frissons alors qu'elle a l'air gentille et attentionnée, se demanda Sōjūrō anxieux.
 
 }
 [sha:cc32ca6da56efbaa52953944b9bc3c9240bdaafc]{
@@ -667,7 +667,7 @@ Sōjūrō n'était pas en colère contre Aoko mais contre lui-même.
 [sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
 -- Page 30, Offset 4346.
 -- 「――――――はあ」
-「――――――Aah.」
+「――――――Aaah.」
 
 }
 [sha:2310c514e7c940e6566bc3600acb0829569d7e36]{
@@ -757,7 +757,7 @@ Sōjūrō n'était pas en colère contre Aoko mais contre lui-même.
 [sha:563aee18fc2aeaca72f5dbb5de2fd73bff4818c1]{
 -- Page 34, Offset 4361.
 -- “……役割は果たさなかったけど、アフターケアは合格だし。約束は、守らなくちゃね”
-“...... Il n'a pas accompli son rôle, mais il a assuré pour le service après-vente. Dans ce cas, je dois tenir ma promesse.”
+“...... Il n'a pas accompli son rôle, mais il a assuré pour le service après-vente. Je peux bien tenir ma promesse.”
 
 }
 [sha:b1539f003beac9d3068470abf8583f76d10fccf3]{
@@ -961,6 +961,6 @@ Comme récompense spéciale, je ne m'en prendrai plus à toi pour cette nuit.」
 [sha:25bb43231bb1ff8d25245a98d99ef7f75947a303]{
 -- Page 45, Offset 4395. Glued.
 -- 目撃者は例外なく逃がさない、夜の化身がやってきた。
- ne laissant s'enfuir aucun témoin, sans exception, était arrivée.
+ne laissant s'enfuir aucun témoin, sans exception, était arrivée.
 
 }

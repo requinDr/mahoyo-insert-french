@@ -85,7 +85,7 @@
 [sha:47bf91e777c7e6e57b37a88bbd3c8ca61a641d31]{
 -- Page 4, Offset 14. Glued.
 -- ぶるるるる、とエンジンを振動させる。
-  *vroum* et le moteur vrombit bruyamment.
+*vroum* et le moteur vrombit bruyamment.
 
 }
 [sha:c86344cc92d5585975dee17e05c1df1ebbc52f09]{
@@ -247,7 +247,7 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:bd101f184d05008a30dd4b97bda0fa7461a9d580]{
 -- Page 12, Offset 41.
 -- ―――ああ、丸い頭蓋骨が見えている―――
-        ―――aah, on peut voir son crâne rond―――
+        --aah, on peut voir son crâne rond--
 
 }
 [sha:d641a44749e2a4c646b076f7af0f822e4084b88c]{

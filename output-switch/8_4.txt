@@ -97,13 +97,13 @@
 [sha:87b67f22012053703b8ee267da475e116bb3d035]{
 -- Page 4, Offset 10957.
 -- 「あ」
-「Hein ?」
+「Ah.」
 
 }
 [sha:9734870b3b82cd3f1c5082c100bd384ccbb89a79]{
 -- Page 4, Offset 10958.
 -- 「あ？」
-「Hein ?」
+「Ah ?」
 
 }
 [sha:6ea6861e381c9d767a3e437c2ad806b6dd90bdbe]{
@@ -919,13 +919,13 @@
 [sha:7f96159c516aa5967233e9b5beda86311a704a37]{
 -- Page 44, Offset 11094. Mods: @n.
 -- 「や、
-「Tai-
+「Tai
 
 }
 [sha:3d35d29a8667f3d09b2ec647840fb86969c73951]{
 -- Page 44, Offset 11095. Glued.
 -- やかましい、そんなんじゃないっ！
-Tais-toi ! Ce n'est pas ça !
+ -Tais-toi ! Ce n'est pas ça !
 
 }
 [sha:334f3f4b5d468f56235b2b558d5e018812a204d9]{

@@ -781,7 +781,7 @@
 [sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{
 -- Page 36, Offset 7528.
 -- この通り。
-  Exactement.
+  Comme ceci.
 
 }
 [sha:7e3a6feca9c6e515834f93f8b3e132c5c60a3f1a]{

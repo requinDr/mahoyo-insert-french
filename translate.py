@@ -39,9 +39,12 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
-def find_og_line_idx(lignes_og: list[str], ligne: str):
-	for idx, ligne_og in enumerate(lignes_og):
-		if ligne.strip() == ligne_og.strip():
+def find_og_line_idx(lignes_og: list[str], ligne: str, start_idx: int = 0):
+	# for idx, ligne_og in enumerate(lignes_og):
+	# 	if ligne.strip() == ligne_og.strip():
+	# 		return idx
+	for idx in range(start_idx, len(lignes_og)):
+		if ligne.strip() == lignes_og[idx].strip():
 			return idx
 
 	return None
@@ -150,20 +153,51 @@ def creer_fichier_steam(script_sortie: str):
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
 
-	if remplacer_caracteres:
-		script_fr_mem = swap_chars(script_fr_mem)
+	# if remplacer_caracteres:
+	# 	script_fr_mem = swap_chars(script_fr_mem)
 	
-	write_file_lines(script_sortie, script_fr_mem)
+	write_file_lines(script_sortie, swap_chars(script_fr_mem.copy()) if remplacer_caracteres else script_fr_mem)
 
 	if creer_csv:
 		create_csv(csv_name_or_url, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
+
+def update_switch_files():
+	global current_line_idx
+	current_line_idx = 0
+
+	og_full_script = get_file_lines(script_source)
+	# we need to update the french lines in the switch files
+	for index, fichier in map_fichiers.items():
+		# Construire le chemin du fichier de destination
+		# chemin_destination = "output-switch/" + fichier[:-2] + "txt"
+		try :
+			file = fichier[:-3].replace("-", "_").replace(".", "DOT").upper() + ".txt"
+			chemin_destination = os.path.join(dossier_switch, file)
+			print(f"Updating {chemin_destination}...")
+			lines = get_file_lines(chemin_destination)
+			print(f"File {chemin_destination} has {len(lines)} lines.")
+			# Trouver la ligne japonaise correspondante. Elle se situe 2 lignes après le sha
+			for i, line in enumerate(lines):
+				if line.startswith("[sha:"):
+					# on récupère la ligne japonaise
+					og_line = lines[i + 2].split("--")[1].replace('\u3000', ' ').strip()
+					idx = find_og_line_idx(og_full_script, og_line)
+					if idx is not None:
+						current_line_idx = idx
+						# on remplace la ligne par la ligne française
+						lines[i + 3] = script_fr_mem[idx]
+
+			write_file_lines(chemin_destination, lines)
+		except Exception as e:
+			print(f"Erreur lors de la mise à jour du fichier {fichier}: {e}. Passage au fichier suivant.")
 
 
 if __name__ == "__main__":
 	debut = time.time()
 
 	creer_fichier_steam(script_sortie)
+	update_switch_files()
 	
 	fin = time.time()
 	temps_execution = fin - debut

@@ -421,13 +421,13 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:fba7a8762ef9eeb89e29c0c7d15d71e06b884176]{
 -- Page 22, Offset 2347. Glued. Mods: @n.
 -- 食欲をそそるどころか、脳を食欲だけにするような―――
-non seulement ça stimule l'appétit, mais en plus, seule la faim occupe nos pensées―――
+ non seulement ça stimule l'appétit, mais en plus, seule la faim occupe nos pensées―――
 
 }
 [sha:81be266f20b764e2f0099955bc6e78943e923f31]{
 -- Page 22, Offset 2348. Glued.
 -- おお―――」
-Oooh―――」
+ Oooh―――」
 
 }
 [sha:286f93e1e8e0a15c3811b6a736e0905b191b6e86]{
@@ -487,7 +487,7 @@ Oooh―――」
 [sha:44e0b1e4788b689400e5918c6985a0c7761d675c]{
 -- Page 25, Offset 2358.
 -- 「クソ、食う前に言えよな！　信じられねえぐらい美味いと思っちまったじゃねえか！」
-「Merde, dis-le avant que je mange ! À cause de ça, j'ai pensé que c'était trop bon !」
+「Merde, t'aurais pu le dire avant que je mange ! Et moi qui me suis dit que c'était trop bon !」
 
 }
 [sha:d2ba759039b1a6930effb10ec97a34f47bc5329f]{
@@ -631,7 +631,7 @@ Oooh―――」
 [sha:5c211be511972681b43baf897db4fd431432580e]{
 -- Page 30, Offset 2382.
 -- 「……君の言葉には誤解が含まれてるけど、それは後にする。それより、一年前の惨劇って？」
-「...... D'après ce que tu dis, je pense que tu te trompes sur un point, mais on verra ça après. À part ça, de quel drame parles-tu ?」
+「...... Je crois qu'il y a comme un léger malentendu, mais on verra ça après. D'abord, raconte-moi de quel drame tu parles.」
 
 }
 [sha:317c234b9695a1e69f608c682b580bad8fc57f04]{
@@ -1117,13 +1117,13 @@ Oooh―――」
 [sha:a8912cdd730c0c865d0ad1afb96b852e40297b14]{
 -- Page 54, Offset 2463. Mods: @k, @e.
 -- 蒼崎はケンカをした相手だろうと別に嫌うワケじゃない。逆に言えば、親切にしたって別に好かれるワケでもない。
-Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
+  Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
 
 }
 [sha:5b2eade5bc47afa2d3a7f1371b342da4d80cd838]{
 -- Page 54, Offset 2464. Glued. Mods: @x.
 -- いい例が俺だ」
-J'en suis un bon exemple.」
+ J'en suis un bon exemple.」
 
 }
 [sha:be0894014b55fafdb69d7c63a140de1630f0c7fa]{
@@ -1219,7 +1219,7 @@ J'en suis un bon exemple.」
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 59, Offset 2480. Glued. Mods: @x, @n.
 -- 
-
+　　　
 
 }
 [sha:7ecffb7a139b480d58b44288618dd96dac3f14f6]{
@@ -1255,7 +1255,7 @@ C'est pourtant l'incident décisif qui m'a incité à ne plus la voir comme une 
 [sha:a88a1a43ef8057060225d3ba5a1d6593ee85c052]{
 -- Page 60, Offset 2486.
 -- いいコトをすれば好かれる、気に入らないコトをすれば嫌われる、ってワケじゃねえんだよ、あのお姫さまは」
-  Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il lui a fait quelque chose qui ne lui plaît pas.」
+  Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il a été vache avec elle.」
 
 }
 [sha:fab93c1f3f95197eb278c4670a4214ffabc0bed5]{

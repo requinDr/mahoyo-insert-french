@@ -343,7 +343,7 @@
 [sha:c8eb16c96dd38f4506d11ad52e57cfca88e5f805]{
 -- Page 18, Offset 2175.
 -- オレさあ、昨日店の残り物もらいすぎたんだよ。春巻だよ春巻。それを見た親父がさあ、貰ったモンは残すなってうるさくてさあ。食いもん、春巻きしかねーんだわ」
-  Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a gonflé à force de me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Et donc, je n'ai que ça à manger.」
+  Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a cassé les oreilles à me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Résultat, je n'ai que ça à manger.」
 
 }
 [sha:efecf6825014a2b51682ffe49c0ad3f54eb56ac5]{
@@ -439,7 +439,7 @@
 [sha:7f0bf44ea9da7fa540a75171751820c7e7ba4aa4]{
 -- Page 23, Offset 2191.
 -- 食べるも地獄、残すも地獄。我ら五時限目の授業はないものと恐れぬ修羅となり、鉄の悪魔どもを平らげん―――
-  Le manger, c'est l'enfer, le gâcher, c'est aussi l'enfer. Devenons des gardiens de temple ne craignant pas d'être absents à la 5e période de cours, et apportons la paix à ces démons de fer―――
+  Le manger, c'est l'enfer, le gâcher, c'est aussi l'enfer. Devenons des< Shura |gardiens de temple>ne craignant pas d'être absents à la 5e période de cours, et apportons la paix à ces démons de fer―――
 
 }
 [sha:deec0ba71402951c18700a49d8254f11e052d1e2]{
@@ -463,7 +463,7 @@
 [sha:099f28d91f904dea55d95387c30a1de98835e82f]{
 -- Page 24, Offset 2195.
 -- 「ほら、静希も食べようぜー。缶切りならまだあるからさー」
-「Allez, Shizuki, mange toi aussi. Il y a encore plein d'ouvre-boîtes.」
+「Allez, Shizuki, n'hésite pas à te servir. Il y a encore plein d'ouvre-boîtes.」
 
 }
 [sha:dbf7b4094dec0da35efa21ba3596cde6a21fa8b1]{
@@ -769,7 +769,7 @@
 [sha:9fc68c8bedff662559221a7341790c2067f7b287]{
 -- Page 37, Offset 2246. Glued.
 -- オイ？
-Allez !
+ Allez !
 
 }
 [sha:54640b9d1dc2b91c6cfeb54cd8b7a4bedb9a3266]{
@@ -829,7 +829,7 @@ Allez !
 [sha:a47e5677b8e5917b2b97a2970e498c99b5692976]{
 -- Page 41, Offset 2256.
 -- 「あー……いや、僕ら、ちょっと体弱いんで……すみっちょで缶詰食べてますね？」
-「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve dans notre coin, d'accord ?」
+「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve, peinards dans notre coin, d'accord ?」
 
 }
 [sha:8ca0a3074f9b7453bea61ffc2e5234539ac8850f]{
@@ -943,7 +943,7 @@ Allez !
 [sha:eb8990503ee80a5e912996850416a2130a24f294]{
 -- Page 48, Offset 2275.
 -- @o「げぇぇぇ!!!?　ちょ、それ事実上の死刑宣告じゃん!?　生徒^会まじ横暴ー！！！！」
-「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ? Le conseil étudiant est vraiment tyrannique !!!」
+「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ?! Le conseil étudiant est vraiment tyrannique !!!」
 
 }
 [sha:2205edd1c5cec33e5c17c7d919876862b367358b]{

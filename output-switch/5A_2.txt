@@ -595,7 +595,7 @@
 [sha:60e86c7607a394be60eab75353cb8f4eab3dbbb4]{
 -- Page 31, Offset 4495.
 -- でもこれで分かったでしょ？　二度目だものね、貴方にとっては」
-  Mais comme ça, tu as compris, n'est-ce pas ? Après tout, c'est la deuxième fois pour toi.」
+  Mais comme ça, tu as compris, n'est-ce pas ? Surtout que c'est la deuxième fois pour toi.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

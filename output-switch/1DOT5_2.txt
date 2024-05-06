@@ -307,7 +307,7 @@
 [sha:e3230ff27ca7ea480ab8833bdc06a5cdb39e5bcd]{
 -- Page 16, Offset 1287.
 -- 「な、なによ。言っとくけど、今日の失敗は半分有珠のせいよ？
-「Qu-Quoi ? Avant que tu dises quoi que ce soit, l'échec d'aujourd'hui est aussi de ta faute. 
+「Qu-Quoi ? Avant que tu dises quoi que ce soit, l'échec d'aujourd'hui est aussi de ta faute.
 
 }
 [sha:955eac7792879d299fd68e256aaa3b5451f5f583]{
@@ -355,7 +355,7 @@
 [sha:d05b67c13284269557c6c89eae00cef71b44ff73]{
 -- Page 18, Offset 1295. Glued. Mods: @x.
 -- アレ、いま洋館モードから三咲モードになってるんでしょ？」
- En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
+  En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
 
 }
 [sha:1c0006a4dd7b98686990ed091e5427a4431520d0]{
@@ -409,13 +409,13 @@
 [sha:68d83f4b4ac1e2e808ce7d13e10e4b7e29e4d4ce]{
 -- Page 20, Offset 1304. Glued. Mods: @x.
 -- じゃあ今夜、仕掛ける？」
- Alors, on leur tend un piège ce soir ?」
+Alors, on leur tend un piège ce soir ?」
 
 }
 [sha:b27327a5a49f95b3b6091b5f160238471fc2d2f1]{
 -- Page 21, Offset 1305.
 -- “今夜、仕掛ける”
-“On leur tend un piège ce soir.”
+  “On leur tend un piège ce soir.”
 
 }
 [sha:f3b1e622792098e87c6165af53afe032cc295c53]{

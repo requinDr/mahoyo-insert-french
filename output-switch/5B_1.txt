@@ -385,7 +385,7 @@
 [sha:bad63c19b1e02da2e09c0eb69996f78a50e70e78]{
 -- Page 15, Offset 5461.
 -- まだ半端にそっち側なの？　それとも情でも移った？」
-  Tu es encore de leur côté, Aoko ? Ou alors, tu t'es prise d'affection pour lui ?」
+  Tu es encore de leur côté, Aoko ? Ou bien, tu t'es prise d'affection pour lui ?」
 
 }
 [sha:ddad686cf46c2bbe8082472609ebac03a0c8b0aa]{
@@ -409,7 +409,7 @@ Et toi alors, tu ne crois pas que c'est un peu vieux jeu,
 [sha:06dbbec3492d0f02d7a6681caeacfeaefbfc8898]{
 -- Page 16, Offset 5465. Mods: @x.
 -- るぅー、なんて、時代遅れなんじゃない？」
-  que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
+que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
 
 }
 [sha:232b9d8ace23e725a26e2b452248e00c90a60ba7]{
@@ -517,7 +517,7 @@ Et toi alors, tu ne crois pas que c'est un peu vieux jeu,
 [sha:bab151b287da63c5a29781b6cebdc7d45a13fb8d]{
 -- Page 20, Offset 5483.
 -- 草十郎は手品に見惚れるよう、指一本動かせず少女の魔術に襲われる。
- Sōjūrō, fasciné par ce tour de passe-passe, ne bougea pas d'un pouce et se fit attaquer par le sort de la jeune fille.
+  Sōjūrō, fasciné par ce tour de passe-passe, ne bougea pas d'un pouce et se fit attaquer par le sort de la jeune fille.
 
 }
 [sha:eda80470c39779df25cafedc725131011e9c4797]{
@@ -1231,7 +1231,7 @@ Son corps, incapable d'agir pendant le combat contre la marionnette, s'emballa p
 [sha:072b95b0b1f1cd1afb855a464394bc0cd28abe21]{
 -- Page 54, Offset 5602. Glued. Mods: @x.
 -- ごっこ遊びをしましょう、青子」
-Jouons ensemble, Aoko.」
+ Jouons ensemble, Aoko.」
 
 }
 [sha:fff5ef429a25e09ed6a7fba1e09607bae83c77e4]{

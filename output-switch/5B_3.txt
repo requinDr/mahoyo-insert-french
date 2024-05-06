@@ -37,7 +37,7 @@
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 1, Offset 6806.
 -- が。
-  Cependant,
+  Mais...
 
 }
 [sha:ed44def25611d663efb2c239642f7be2058ef09e]{
@@ -139,7 +139,7 @@
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 5, Offset 6823.
 -- 「へ？」
-「Hein ?」
+「Hé ?」
 
 }
 [sha:290576dcff62fee3f656468296498803d7a81315]{

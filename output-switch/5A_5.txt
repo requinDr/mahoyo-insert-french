@@ -19,7 +19,7 @@
 [sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
 -- Page 1, Offset 4831.
 -- 伸びる。伸びる。伸びる。
-  *allongement* *allongement* *allongement*
+  En s'allongeant. S'allongeant. S'allongeant.
 
 }
 [sha:b0e0f29e0a1fc790cb6904d1d2292b9555b18e1e]{
@@ -61,7 +61,7 @@
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 3, Offset 4838.
 -- 「っ―――！」
-「―――!」
+「Tch―――!」
 
 }
 [sha:6b862557bb318e7f7c81a878e581cebfdfdc5bbc]{
@@ -217,7 +217,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:07fc67316282357521b666677c832542f6a11e8a]{
 -- Page 10, Offset 4864. Glued. Mods: @x.
 -- ……なんて、あるワケないか。なにか別の意味があると見るべきね―――”
-C'est impossible. Il doit y avoir une autre raison―――”
+  C'est impossible. Il doit y avoir une autre raison―――”
 
 }
 [sha:6532ed52b3fa30fa5349b3de4428b9fbafa5b246]{
@@ -361,7 +361,7 @@ C'est impossible. Il doit y avoir une autre raison―――”
 [sha:fe23a66ab11133d8b0661a297907215162b7a981]{
 -- Page 16, Offset 4888.
 -- “彼女”の左腕が伸びるのは同時だった。
-en même temps que le bras gauche de la “fille” s'allongeait.
+  en même temps que le bras gauche de la “fille” s'allongeait.
 
 }
 [sha:ef97ee44817f8970614708de70546588acc294be]{
@@ -475,7 +475,7 @@ en même temps que le bras gauche de la “fille” s'allongeait.
 [sha:da94e33e039512eedd4069054392ee94d5077e48]{
 -- Page 21, Offset 4907.
 -- それを、
-  Cette malédiction,
+  Voyant cela,
 
 }
 [sha:623a4d1edd58529ef47e07024cfdf4d5b31cab0f]{

@@ -433,7 +433,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:ed17140353327470302a015cf9aca0accc139bc5]{
 -- Page 19, Offset 2573.
 -- 町にやってきて日の浅い草十郎は、同い年の少年少女は『みなこの学校の生徒である』と誤認していたのだが、幸か不幸か結論として間違いではなかった。
-  Sôjûrô, petit nouveau en ville, croyait à tort que tous les adolescents de son âge fréquentaient ce lycée, mais en réalité, il n'était pas si loin que ça de la vérité.
+  Sōjūrō, petit nouveau en ville, croyait à tort que tous les adolescents de son âge fréquentaient ce lycée, et en réalité, il n'était pas si loin que ça de la vérité.
 
 }
 [sha:167615b5e13415e42e6d0f98b025a3578417eb60]{
@@ -709,7 +709,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
 -- Page 32, Offset 2619.
 -- だが、
-  Mais,
+  Cependant...
 
 }
 [sha:268ba37ca4f50c95baf2054a5f4773966d8d41d1]{

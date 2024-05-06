@@ -13,7 +13,7 @@
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 1, Offset 23946.
 -- そうだ。
-  Mais oui !
+  C'était vrai.
 
 }
 [sha:dc437f3cdf17e3038470c4d80d994e5c3c4402f8]{

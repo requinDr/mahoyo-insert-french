@@ -49,7 +49,7 @@
 [sha:282e12ba46a99f9ce18966ae28fbea8b3358b475]{
 -- Page 1, Offset 5619.
 -- 巨大な紙芝居の最後の一枚だと、彼女は思った。
-  la dernière page d'un énorme théâtre d'images, pensa-t-elle.
+  la dernière page d'un énorme kamishibai, pensa-t-elle.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -451,7 +451,7 @@ Dans ce cas, tout n'est qu'une question de rôle. Depuis le début, la clôture 
 [sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
 -- Page 20, Offset 5686.
 -- そして、
-  Et,
+  Et puis,
 
 }
 [sha:d51f3f4438b26231c50214d9a11ae25af2efd589]{
@@ -637,7 +637,7 @@ Garde cet esprit combatif pour quelque chose de plus important. D'ici là, je t'
 [sha:5c83ce6970edc48325cab27906108377e2e8ae81]{
 -- Page 28, Offset 5717. Glued. Mods: @x.
 -- そういう蒼崎なんか、疲れ以上に傷の方が痛んでるだろ」
-Mais toi, non seulement tu es fatiguée, mais en plus tes blessures te font souffrir, n'est-ce pas ?」
+ Mais toi, non seulement tu es fatiguée, mais en plus tes blessures te font souffrir, n'est-ce pas ?」
 
 }
 [sha:df79985ec7e7e30021b92494f4a6be8cc5b91120]{

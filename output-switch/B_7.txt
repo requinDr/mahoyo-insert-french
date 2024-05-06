@@ -1405,7 +1405,7 @@ Aozaki ?」
 [sha:44e983b6d2f3458381521ba7e01ad8114f2a29b8]{
 -- Page 71, Offset 16247.
 -- 「ん？」
-「Hum ?」
+「Hm ?」
 
 }
 [sha:f375acc5b7996860a2d49c31e105660998b7947e]{

@@ -91,7 +91,7 @@
 [sha:ee35ecccbf6babbe8edbb82193b381c549ec0e28]{
 -- Page 7, Offset 20286.
 -- 隙あらば是キリング。
-        Tu peux mourir n'importe quand.
+        Tu peux mourir n'importe quand. Fais preuve de respect
 
 }
 [sha:36cd2b58f4315f0fe96b04ccbf2631e04a874b04]{
@@ -247,13 +247,13 @@
 [sha:f07244793d08cf42f7baf70afd0c6829e0b553bc]{
 -- Page 18, Offset 20312.
 -- 日本語訳されて音楽の教材にもなっているから、
-  Cette comptine a été traduite en japonais et s'apprend même à l'école.
+  Cette comptine a été traduite en japonais et s'apprend
 
 }
 [sha:48cc1aba3e95302cf54f17ecd6e2d0b2d58ce7b7]{
 -- Page 18, Offset 20313.
 -- 知っている人も多いでしょうね。
-  Nombre de personnes doivent la connaître.
+  même à l'école. Nombre de personnes doivent la connaître.
 
 }
 [sha:7359dd551461226b78f3b7dc7a9f309eeab3324a]{
@@ -355,13 +355,13 @@
 [sha:fde5f1cd0ad6da853ab81fdfa35a1bcac4dd2eaf]{
 -- Page 27, Offset 20330.
 -- ウッド、ストーンの他にまだ先があるんスね。
-        Donc il y a autre chose après le bois et la pierre.
+        Donc il y a autre chose après le bois
 
 }
 [sha:6268798c5aefa3c1d21a90db9c2fda02463ed120]{
 -- Page 27, Offset 20331.
 -- でもいいんスか、
-        Mais ça vous dérange pas ?
+        et la pierre. Mais ça vous dérange pas ?
 
 }
 [sha:19f00d1ec694367c6793ae1665c752aeb40baeff]{
@@ -409,13 +409,13 @@
 [sha:3415aa11757ad6272f4ec7c90b77d3e735491dd9]{
 -- Page 31, Offset 20339.
 -- わたし、人間の文明社会に興味がないもの。
-      Parce que la société humaine ne m'intéresse pas.
+      Parce que la société humaine ne m'intéresse pas. Le
 
 }
 [sha:8bd630c8412e869212427a62b3c9d713e7dc3d55]{
 -- Page 31, Offset 20340.
 -- わたしの心象世界にある橋は『木と石まで』、というコトね。
-      Le pont présent dans mon univers ne va que du bois à la roche.
+      pont présent dans mon univers ne va que du bois à la roche.
 
 }
 [sha:9cbd514b035f546355cd65ca53c3236d01c7c822]{
@@ -433,13 +433,13 @@
 [sha:d9caf36adc5c4b4c02998437c0342aceb841d1b3]{
 -- Page 33, Offset 20343. Mods: @n.
 -- あ。いや、振り返ってみればそんなに
-Ah, non, en y repensant, vous n'êtes pas
+Ah, non, en y repensant, vous n'êtes pas si invulnérable
 
 }
 [sha:3099b4cc1d3bed19a12c85f79dec1a3cd2b9d93c]{
 -- Page 33, Offset 20344. Mods: @n.
 -- 無敵じゃなかったッスね！　アリスさん、負け星のが多いッス、
-si invulnérable que ça ! Vous perdez souvent !
+que ça ! Vous perdez souvent !
 
 }
 [sha:dda790a138cc8e4cc5d26aba40f15e93e5903922]{
@@ -541,19 +541,19 @@ Il se manifesterait en tant que géant de la ville, allant jusqu'à sublimer son
 [sha:46606f1cff1ec62a4a2159568576278ab6feb0d6]{
 -- Page 40, Offset 20361.
 -- ありがとう。
-      Merci.
+      Merci. Dans ce cas, si tu le veux bien,
 
 }
 [sha:65b64e668cdfa98b5ec4ceeaf744c53c1a2e069f]{
 -- Page 40, Offset 20362.
 -- それじゃあさっそく、
-      Dans ce cas, si tu le veux bien,
+      aide-moi immédiatement
 
 }
 [sha:dbccf18ae669f9b791a7c257156bfc028bca1842]{
 -- Page 40, Offset 20363.
 -- 性格改善に付き合ってもらおうかしら。
-      aide-moi immédiatement à améliorer mon caractère.
+      à améliorer mon caractère.
 
 }
 [sha:b402a7fa31298b1ba9e1a150c219fb6c22a108e1]{

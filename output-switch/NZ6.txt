@@ -19,13 +19,13 @@
 [sha:e4c23313a3e208a1aac55c872f0e69a20f27d7a9]{
 -- Page 1, Offset 20376.
 -- でも耳障りだったから、わたし権限で編集さんに
-          Mais comme tu étais trop bruyant, j'ai fait usage de mon autorité
+          Mais comme tu étais trop bruyant, j'ai fait usage
 
 }
 [sha:bb844fba862385420054be2920c9e14fffd7f9b7]{
 -- Page 1, Offset 20377.
 -- 貴方の台詞だけカットしてもらったの。
-          pour ne couper que tes répliques.
+          de mon autorité pour ne couper que tes répliques.
 
 }
 [sha:0f593b53116db2cb6d3f11e5356535f77dfdb234]{
@@ -91,13 +91,13 @@
 [sha:d0d60ecf0ad1b6a5964a8bc93b294660002e797e]{
 -- Page 7, Offset 20388.
 -- 強い順とか、思い入れがある順に、
-      En fonction de leur force ou de l'attachement que je leur portais,
+      En fonction de leur force ou de l'attachement que
 
 }
 [sha:fcc48464cbd773d12c6e78d6dbface883d9878c2]{
 -- Page 7, Offset 20389.
 -- 一番、二番、と呼んでいただけだったの。
-      je ne les appelais que par ordre, 1er, 2e, etc.
+      je leur portais, je ne les appelais que par ordre, 1er, 2e, etc.
 
 }
 [sha:f86457c29e065813923702c65d98182a381f9f6f]{
@@ -109,7 +109,7 @@
 [sha:f9246c52c7c757fe2c1f338da13951602f9cbf96]{
 -- Page 8, Offset 20391.
 -- 名前をつけないぐうたら……
-  Vous n'donniez pas de nom par feignantise...
+  Vous n'donniez pas de nom par fainéantise...
 
 }
 [sha:c64d5059daffefea5d0d6d3681f015bc17b3b985]{
@@ -121,7 +121,7 @@
 [sha:0bc934df02d92a7ef9391b8f565a806952e154fa]{
 -- Page 9, Offset 20393.
 -- だって、番号を付けても混乱するだけでしょう？
-    Eh bien, des numéros auraient juste été source de discorde.
+    Eh bien, des numéros auraient juste été source
 
 }
 [sha:982e76e286fa724582f6294ecfc47c48f74c60ce]{
@@ -133,13 +133,13 @@
 [sha:b7a2e21c8948855204d69a83ba314b8bcc8fd03a]{
 -- Page 10, Offset 20395.
 -- だから気持ち次第で、その日ごとに順番は違ったわ。
-    De fait, leur ordre était modifié en fonction de mon humeur.
+    De fait, leur ordre était modifié en fonction
 
 }
 [sha:8e2f8b734acc2c6ca4df784cc310512fe532d8a5]{
 -- Page 10, Offset 20396.
 -- 一番はディドルが鉄板。
-    Diddle était toujours le premier.
+    de mon humeur. Diddle était toujours le premier.
 
 }
 [sha:2b2489f558040ccfe23a588da4b5c6154a7f4b0a]{
@@ -199,31 +199,31 @@
 [sha:caf3654b53ff14f431548fb7bd95e5e004fe9a5d]{
 -- Page 14, Offset 20406.
 -- ……。
-      ......
+  ......
 
 }
 [sha:887444bbd0c7bf7ab42c72904c59a7ff4e322e36]{
 -- Page 14, Offset 20407.
 -- もうだいたい分かったッスけど、いちおう訊いておくッス。
-      J'imagine la suite, mais j'demande au cas où.
+      J'imagine la suite, mais j'demande
 
 }
 [sha:174109175e237fe2307cb16e9843dbf51563d19b]{
 -- Page 14, Offset 20408.
 -- それはなんのプロイだったっスか？
-      C'était quel Ploy ?
+      au cas où. C'était quel Ploy ?
 
 }
 [sha:87627c80f6452888a347a83005cc22dbb96b8302]{
 -- Page 15, Offset 20409.
 -- 後に、彼女がゴブリンフロンと名付けるようになった香水よ。
-Le parfum qu'elle nommerait après ça le Goblin Freon,
+Le parfum qu'elle nommerait après ça
 
 }
 [sha:a252546ef887518695c065d171ecfebd6c343307]{
 -- Page 15, Offset 20410.
 -- その香水をかけると、一日、悪口とスラングしか言えなくなるの。
-qui force à insulter et parler en argot pendant toute une journée.
+le Goblin Freon, qui force à insulter et
 
 }
 [sha:36dcccdd4e5ab9bc15df429df799965d0842eeb8]{
@@ -235,13 +235,13 @@ qui force à insulter et parler en argot pendant toute une journée.
 [sha:6aaf5945af80d4ae1f20a43c8052667bb4f108db]{
 -- Page 17, Offset 20412.
 -- その後、彼女はプロイに名前を付けるよう提案してきたわ。
-      Après ça, elle m'a proposé de donner des noms aux Ploy.
+      Après ça, elle m'a proposé de donner
 
 }
 [sha:db6f917803e82415dc77e0afaa45bc2bd14613b5]{
 -- Page 17, Offset 20413.
 -- なぜか涙で赤くなった目で。
-      Avec les yeux boursouflés pour je ne sais quelle raison.
+      des noms aux Ploy. Avec les yeux boursouflés
 
 }
 [sha:0d0ab9213d5a03d5345df5aaae9b017e8f07a712]{
@@ -277,7 +277,7 @@ qui force à insulter et parler en argot pendant toute une journée.
 [sha:27e52ce2e6634575b9b81187e398332a01306cf6]{
 -- Page 22, Offset 20419.
 -- 『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
-『Il faut leur donner un nom de toute façon, alors autant en profiter. C'est notre originalité à nous. Il faut être à la mode populaire, ce serait du gâchis sinon !』
+  『Il faut leur donner un nom de toute façon, alors autant en profiter. C'est notre originalité à nous. Il faut être à la mode populaire, ce serait du gâchis sinon !』
 
 }
 [sha:7868b3abe1e7230d66a4af9ad6e25817478fad72]{
@@ -337,13 +337,13 @@ qui force à insulter et parler en argot pendant toute une journée.
 [sha:4b2f4281e7108a7b2953c1cf81af965333fe60ef]{
 -- Page 28, Offset 20429.
 -- 本編でだいたいのあらましは語っているわ。
-    Les points essentiels sont mentionnés dans l'histoire principale.
+    Les points essentiels sont mentionnés dans l'histoire
 
 }
 [sha:3f6c8c6cb3cd3ccac9524ad2c36690b577061e4c]{
 -- Page 28, Offset 20430.
 -- 細かなデータは、
-    Les données détaillées sont les suivantes :
+    principale. Les données détaillées sont les suivantes :
 
 }
 [sha:bce9f5c2c18241b736b039f5fafc5f12d136b3e7]{
@@ -355,13 +355,13 @@ qui force à insulter et parler en argot pendant toute une journée.
 [sha:64bc5212e58efe036e4c1a3ca4274d8ea0619208]{
 -- Page 30, Offset 20432.
 -- その貴重な油を、青子さんは燃やしてしまった、と。
-    Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.
+    Et cette huile précieuse, Mam'zelle Aoko
 
 }
 [sha:9706738bfeac5af894399859e87d99b5aa6b29ea]{
 -- Page 30, Offset 20433.
 -- これ、なんとか戻せないんスか？
-    On n'peut pas le restaurer ?
+    l'a brûlée. On n'peut pas le restaurer ?
 
 }
 [sha:5b6ecb7f690106ee9a01f9572d1b4383ba38e068]{
@@ -391,13 +391,13 @@ Ha ha, que c'est amusant de violer la culture !
 [sha:c1a2254fb25ca79e5de47f9730f67ad8a335ca0c]{
 -- Page 33, Offset 20438.
 -- しっかし、デオチに続いてスナークもこのザマとか！
-    Mais quand même, après le Négligent, c'est Snark qui y passe !
+    Mais quand même, après le Négligent,
 
 }
 [sha:8c5de0558fec150db7faaf7f00353b702a89c742]{
 -- Page 33, Offset 20439.
 -- ギャハハ、何がグレートスリーッスか！
-    Ha ha, les Great Three ?
+    c'est Snark qui y passe ! Ha ha, les Great Three ?
 
 }
 [sha:18d1f0b7a167d9999d6e73cdf5b2b6b52dae8a44]{
@@ -409,7 +409,7 @@ Ha ha, que c'est amusant de violer la culture !
 [sha:2ea375920c0e830a7b49bc2142eb8e70ef681bec]{
 -- Page 34, Offset 20441.
 -- しかしジブン、やるプロイッスから。産廃を有効利用するッスよ。おーい、外の店員さーん。この残った油で、とりあえずフライドポテトでも揚げてくれ？
-Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur ! Prépare des frites avec l'huile restante !
+Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur !  Prépare des frites avec l'huile restante !
 
 }
 [sha:96025582be1aa9c64f916a4e69a60cb14761ee38]{
@@ -481,13 +481,13 @@ J'ai pour habitude de vérifier le menu au cinéma. Et puis, le poulet rôti a u
 [sha:c16327d71630ef9addf1b8e31dd241b4c2a71ac6]{
 -- Page 41, Offset 20453.
 -- この世でいちばん増やしたくないレパートリー、
- C'est la liste de mes expériences que je voulais le moins voir s'allonger au monde.
+ C'est la liste de mes expériences que je voulais le moins voir s'allonger au monde. Aaaahーー!
 
 }
 [sha:cb6c5c3b1ed3389b4d691db396f8e9c575b1117b]{
 -- Page 41, Offset 20454.
 -- あざーっスーーーー！　でも世界にはまだまだ未知の死因が隠れているッスよー！
- Aaaahーー! Mais ce monde regorge de bien d'autres façons de mourir !
+ Mais ce monde regorge de bien d'autres façons de mourir !
 
 }
 [sha:4ab02b1670cee21db8425b7621cb50976214f48d]{
@@ -541,13 +541,13 @@ J'ai pour habitude de vérifier le menu au cinéma. Et puis, le poulet rôti a u
 [sha:ea0af2637be49fbb1a34a0a2eed31f387d0c1e2e]{
 -- Page 45, Offset 20463.
 -- 続きはまた、いつかどこかで。
-  La suite arrivera un jour, quelque part,
+  La suite arrivera un jour, quelque part, lorsque
 
 }
 [sha:8790e59544c5f787ec9e73fa1547d079432a9e75]{
 -- Page 45, Offset 20464.
 -- 旅する星がするりと落ちて、貴方の胸に輝く時に。
-  lorsque les étoiles filantes tomberont et scintilleront dans vos cœurs.
+  les étoiles filantes tomberont et scintilleront dans vos cœurs.
 
 }
 [sha:9177f9f0532034f3c1bffd2c780e069a92c0d55e]{
