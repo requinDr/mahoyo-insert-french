@@ -715,7 +715,7 @@ resteraient toujours disponibles sur le marché.
 [sha:c751d3abf011a81651cf02deb63c27bf0ebda1f2]{
 -- Page 50, Offset 20251.
 -- その場合、新しい言葉は「初回限定普及版」ッスね！
-      Alors, ce serait une  “Première Édition Populaire” !
+      Alors, ce serait une “Première Édition Populaire” !
 
 }
 [sha:d175a00469117484a496969828ca64b456c5add0]{

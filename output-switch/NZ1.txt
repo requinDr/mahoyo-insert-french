@@ -691,7 +691,7 @@ D'horribles paroles prononcées avec nonchalance.
 [sha:0ec9dfe5ec7802c48b133d2539038c7c9355906f]{
 -- Page 54, Offset 19782.
 -- 青子は王将（角・飛車の能力アリ）だけの陣営。
-  non, avec le shogi, Aoko n'est que le camp du roi  (avec les capacités du fou et de la tour).
+  non, avec le shogi, Aoko n'est que le camp du roi (avec les capacités du fou et de la tour).
 
 }
 [sha:1e1ef8c6192bfc8c2aa1a882c5842eef12824abf]{
