@@ -1,13 +1,13 @@
 [sha:01576ba817c3340668f93b6bd6a308c4f6c17305]{
 -- Page 0, Offset 19936.
 -- シェフ。
-  Chef. Une assiette
+    Chef.
 
 }
 [sha:d3b1f58b6cedf2e792078639e97df7a738934e56]{
 -- Page 0, Offset 19937.
 -- マグロ三種盛り、一つ。
-    de thon trois variétés.
+    Une assiette de thon trois variétés.
 
 }
 [sha:0c58dd503c904f6d736808add0eeae299a489266]{
@@ -61,7 +61,7 @@
 [sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
 -- Page 5, Offset 19946.
 -- シェフ。
-  Chef. Une assiette
+        Chef.
 
 }
 [sha:c52302d79911037651fcd2082645395e8cee8e5b]{
@@ -73,13 +73,13 @@
 [sha:bdb3afa71168ef9d7a52932892d6867c2b59f6a0]{
 -- Page 6, Offset 19948.
 -- また赤いのッスか。
-      Encore de la chair rouge ? Vous n'voulez pas
+      Encore de la chair rouge ?
 
 }
 [sha:2cf958b3e8a45a3321487d93ea3a9545990b76d4]{
 -- Page 6, Offset 19949.
 -- 光りものとか白身とかいかないんスか？
-      de la chair brillante ou blanche ?
+      Vous n'voulez pas de la chair brillante ou blanche ?
 
 }
 [sha:ca24a9d98bbcb4fa1e20c000f95c1d7245aa5cca]{
@@ -91,7 +91,7 @@
 [sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
 -- Page 7, Offset 19951.
 -- シェフ。
-  Chef. Une assiette
+        Chef.
 
 }
 [sha:2e800a9795215ec28b58da4ecfa60c179e36faa1]{
@@ -121,7 +121,7 @@
 [sha:145df896c1a52f092b479ab2a706348f9fa73957]{
 -- Page 9, Offset 19956.
 -- たいしたことはないわ。
-          Ce n'est pas grand-chose.
+      Ce n'est pas grand-chose.
 
 }
 [sha:4785602cb2a6a50a2a12b7e88880b74075bb871a]{
@@ -181,13 +181,13 @@
 [sha:12298dfe45aa81077d6864aea3c73e53c4327b51]{
 -- Page 13, Offset 19966.
 -- でもそれ、すぐにカラにならないッスか。
-        Mais il risque d'être rapidement à sec. Faut
+        Mais il risque d'être rapidement à sec.
 
 }
 [sha:9c5637c4d960087b199f0c1de2ce719b29f5ac49]{
 -- Page 13, Offset 19967.
 -- 青子さんの財布の中身、お寒いッスよ。
-        dire qu'son portemonnaie n'est pas bien rempli.
+        Faut dire qu'son portemonnaie n'est pas bien rempli.
 
 }
 [sha:3041ce8993f14db900b4d7767639b3d9f8c5bcfd]{
@@ -229,19 +229,19 @@
 [sha:665f248e571fc2f09457dc957f16f88572349d7f]{
 -- Page 17, Offset 19974.
 -- なンでもないッス。
-      Non, rien. La proprio détient l'autorité
+      Non, rien.
 
 }
 [sha:fef474dceb0020d4c1099b3da3086855fb3b305f]{
 -- Page 17, Offset 19975.
 -- アリスさんは家主。すなわち絶対者。
-      absolue, après tout. Qui pourrait
+      La proprio détient l'autorité absolue, après tout.
 
 }
 [sha:6dffe49c7f8aa09798c7baf64a5e37c17dade4c8]{
 -- Page 17, Offset 19976.
 -- あの洋館に住むもので誰が逆らえようか。
-      s'opposer à vous dans ce manoir ?
+      Qui pourrait s'opposer à vous dans ce manoir ?
 
 }
 [sha:1c0bdd72c516fb9e49cbd3ddb17cb80c8d6ae8af]{
@@ -283,13 +283,13 @@
 [sha:379570e2c268767c80e8d27b05c7c4f351fb8d9e]{
 -- Page 21, Offset 19983.
 -- 緑色のコートで。メガネで。
-  Elle a un manteau vert. Et des lunettes. Et les avale
+  Elle a un manteau vert. Et des lunettes.
 
 }
 [sha:4d2ab59bc98350b428d0d1d792ec2756e29ef468]{
 -- Page 21, Offset 19984.
 -- 麻雀牌をつもるような優雅さで二貫ぺろりと。
-  par paire avec une grâce digne d'un joueur de Mahjong.
+  Et les avale par paire avec une grâce digne d'un joueur de Mahjong.
 
 }
 [sha:60a88b819292dd54ea00b0f8c94fab4c23f922b0]{
@@ -421,13 +421,13 @@ Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
 [sha:1f5b1aa4d4e32396c88e829e66b0f069ee4687cc]{
 -- Page 36, Offset 20006.
 -- あやーーー！！
-Ayaaaーーー!! Sans observateur, la face
+Ayaaaーーー!!
 
 }
 [sha:978b8c0384ca1769656904bff96e51fa0b42d14a]{
 -- Page 36, Offset 20007.
 -- 見る者いなけりゃどんな目だろうと同じこと！
-du dé restera un mystère ! Le jeu ne sera
+Sans observateur, la face du dé restera un mystère !
 
 }
 [sha:86023a91415d1bc95a599589fca57e93d03b35ed]{
@@ -481,25 +481,25 @@ Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
 [sha:c18822e71c450dfc5ef20a00c2a187561659baa6]{
 -- Page 40, Offset 20016.
 -- ダイスを振って、
-          Ce sont des Ploy qui changent de forme
+          Ce sont des Ploy,
 
 }
 [sha:6895e6c2c4553ba04a4f480c1c6ebde56f7cc4a7]{
 -- Page 40, Offset 20017.
 -- 出た目で変形するカタチが変わるプロイね。
-          selon le chiffre obtenu en jetant les dés.
+          qui changent de forme selon le chiffre obtenu en jetant les dés.
 
 }
 [sha:230874b26a1a897250e0e022bf245f50ec500fa5]{
 -- Page 41, Offset 20018.
 -- 人間社会に毒されているから、
-      La société humaine a une influence néfaste
+      La société humaine a une influence néfaste sur eux,
 
 }
 [sha:b9f09524b6678a41948d117c1fdb0ea7ab3dc92c]{
 -- Page 41, Offset 20019.
 -- 普通の魔術が効きやすいのが欠点よ。
-      sur eux, ce qui les rend vulnérables à la Magie normale.
+      ce qui les rend vulnérables à la Magie normale.
 
 }
 [sha:389aa2ef8027ff32d6dc82d41c545f8cc2e56cd0]{
@@ -523,13 +523,13 @@ Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
 [sha:8456ad01226bb8299f68c7567f43ef07f9eac7e7]{
 -- Page 44, Offset 20023. Mods: @n.
 -- 無理も何も、ご主人様は清純すぎる！
-      Ce n'est pas impossible, vous être trop
+      Ce n'est pas impossible, vous être trop pure !
 
 }
 [sha:1f139a6a764fdf4aa6d201cf956d743e06640147]{
 -- Page 44, Offset 20024. Mods: @n.
 -- どんなものにも裏はある、
-      pure ! Toute chose a une face obscure.
+      Toute chose a une face obscure.
 
 }
 [sha:631dbb1e0bfd8698be795d917635649e11307ab3]{
@@ -619,19 +619,19 @@ Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
 [sha:f07dd28b054c00e7cc69dacfc266b6611dd47f46]{
 -- Page 50, Offset 20039.
 -- 真夜中、猫がヴァイオリンをひいて、
-      dépeint un chat jouant du violon à minuit, une vache qui saute par-dessus la lune,
+      Le poème dépeint un chat jouant du violon à minuit,
 
 }
 [sha:e5e50d4b4fd4435ac161b04b502410170a79f183]{
 -- Page 50, Offset 20040.
 -- 牛が月を飛び越えて、犬が笑って、
-  un chien qui rit, et les personnifications
+  une vache qui saute par-dessus la lune, un chien qui rit,
 
 }
 [sha:30924781a7f0ae18acec8ea3b00226dbad3fb732]{
 -- Page 50, Offset 20041.
 -- 擬人化された皿とスプーンが逃げていくだけの唄。
-  d'un plat et d'une cuillère qui s'enfuient.
+  et les personnifications d'un plat et d'une cuillère qui s'enfuient.
 
 }
 [sha:49752e7d84a4e4727699435751be945087607a42]{
@@ -643,7 +643,7 @@ Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
 [sha:88d98b9fe67cd689f0df996e75834ac711480984]{
 -- Page 51, Offset 20043.
 -- とも言われているわ。星の運営を表しているのなら、
-        Si ça fait référence aux constellations, alors
+        Si ça fait référence aux constellations, 
 
 }
 [sha:3a4855f241a47ec0c89d7e8be255833bb2f7b8ba]{
@@ -691,13 +691,13 @@ En plongeant dans le sol, il renforce la nuit.
 [sha:c5e4519c21d11af1bd81f71042f18d655aefa6ec]{
 -- Page 54, Offset 20051.
 -- 夜が深まれば、それだけわたしの魔術―――
-Une fois la nuit intensifiée, ma Magie, les
+Une fois la nuit intensifiée, ma Magie,
 
 }
 [sha:400a8bf35cceb0fadbdf48b60ce49ec3f8556944]{
 -- Page 54, Offset 20052.
 -- 童話詠唱が確かな意味を持つようになるわ。
-sorts de contes de fées, prend un sens concret.
+les sorts de contes de fées, prend un sens concret.
 
 }
 [sha:0b0fda3a8886dea2b95fe9400f4ce22339fd9015]{
@@ -775,13 +775,13 @@ sorts de contes de fées, prend un sens concret.
 [sha:62078ea7db85532b2ccba3b1e6f69e8d51062729]{
 -- Page 60, Offset 20065.
 -- たまに暴走して洋館内にゲートを作って、
-  Il échappe parfois à tout contrôle en créant des passages
+  Il échappe parfois à tout contrôle en créant des passages dans le manoir
 
 }
 [sha:11d9f044cba6b339d1091444597cbc5fdc7f4d3f]{
 -- Page 60, Offset 20066.
 -- 通る人を鏡の中に招いてしまうのが難点ね。
-  dans le manoir pour attirer les passants dans le miroir.
+  pour attirer les passants dans le miroir.
 
 }
 [sha:950a2d2eac4bc367e057aed253dc089cdd7206c1]{
@@ -805,7 +805,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:ce6ee75a1266c286959a1a4eab31aff12b111297]{
 -- Page 62, Offset 20070.
 -- 長いこと壊れていたらしいわ。
-  doté d'un monde parallèle, mais il est resté endommagé pendant un certain temps.
+  mais il est resté endommagé pendant un certain temps.
 
 }
 [sha:c9a0b21f548564b3ff077c65a47c06e2be781907]{
@@ -847,25 +847,25 @@ sorts de contes de fées, prend un sens concret.
 [sha:c47fbb82cdb220450eaedb4d94fc2c585f306636]{
 -- Page 66, Offset 20077.
 -- 自分の最高傑作にしたかったのよ、きっと」
-          ce miroir pour en faire son chef-d'œuvre
+          ce miroir pour en faire son chef-d'œuvre ultime.
 
 }
 [sha:f07971453fe5dd238e90df4bcfa683b6b36f1b58]{
 -- Page 66, Offset 20078.
 -- そう橙子さんは言っていたけど、どうだか。
-          ultime. Cela dit, je ne sais trop quoi en penser.
+          Cela dit, je ne sais trop quoi en penser.
 
 }
 [sha:84c2708d74998af4ab1743c5f8a3d66abd962917]{
 -- Page 67, Offset 20079.
 -- どうかしら。こんなふうに午睡の鏡の表面を三咲の地図にして、
-  Qu'en dis-tu ? En affichant la carte de Misaki
+  Qu'en dis-tu ? En affichant la carte de Misaki sur le Miroir de la sieste
 
 }
 [sha:ce1150ee11b707f03ad3afcbacd0ab997041ec4b]{
 -- Page 67, Offset 20080.
 -- その上にコマを置くとそこが「名無しの森」になるの。
-  sur le Miroir de la sieste et en posant le pion dessus, cet endroit devient la “Forêt sans nom”.
+  et en posant le pion dessus, cet endroit devient la “Forêt sans nom”.
 
 }
 [sha:5066c229064357c1ffc7132c018e3eb2725231e3]{
@@ -877,13 +877,13 @@ sorts de contes de fées, prend un sens concret.
 [sha:941d55688f365b2b39099893835b9446096ae61f]{
 -- Page 68, Offset 20082.
 -- このプロイの効果範囲に来ると『この先に用はない』
-          Dans sa zone d'action, il suggère aux intrus qu'ils n'ont
+          Dans sa zone d'action, il suggère aux intrus qu'ils n'ont rien à faire là, 
 
 }
 [sha:b1de2b52e37209ee75454808aa8b8ae092943d33]{
 -- Page 68, Offset 20083.
 -- と暗示がかかって人避けになるのだけど……
-          rien à faire là, agissant comme une répulsion, mais......
+          agissant comme une répulsion, mais......
 
 }
 [sha:3b6e4e52294beed666666a3916481ac53c4351f4]{
@@ -895,13 +895,13 @@ sorts de contes de fées, prend un sens concret.
 [sha:51aba11b107f4789644163dbdb6039e18e356357]{
 -- Page 70, Offset 20085.
 -- ……そうね。
-  ...... Exactement. Ce n'était pas ma faute,
+  ...... Exactement.
 
 }
 [sha:5a9e7ac017f7652401524575b2b9e630880c2413]{
 -- Page 70, Offset 20086.
 -- わたしのミスではないけれど、配慮が足りなかった。
-  mais j'ai manqué de vigilance.
+  Ce n'était pas ma faute, mais j'ai manqué de vigilance.
 
 }
 [sha:e3ee821dd78ebb1e8a0ff9abdb10b6fd1b791a39]{
@@ -985,19 +985,19 @@ sorts de contes de fées, prend un sens concret.
 [sha:ad1793efa4b74171f1d040cb06512ca7baa6f45b]{
 -- Page 78, Offset 20100.
 -- なんで
-        Pourquoi vous me regardez
+        Pourquoi
 
 }
 [sha:070ab2069593c105e833ca89646c6765d25180ac]{
 -- Page 78, Offset 20101.
 -- “かわいそうだけど、あと一秒で爆発するのよ”
-        d'un œil navré comme si j'allais
+        vous me regardez d'un œil navré comme si
 
 }
 [sha:82bf41ff28fdf77f0fa9ffcea04e6abee9697f11]{
 -- Page 78, Offset 20102.
 -- みたいな目で見るッスか？
-        exploser d'une seconde à l'autre ?
+        j'allais exploser d'une seconde à l'autre ?
 
 }
 [sha:290a72942c46aecb3e46ce5bad280bbe0b097eb8]{
@@ -1051,13 +1051,13 @@ sorts de contes de fées, prend un sens concret.
 [sha:5aca3a812e089684e7035373ac74d4250104c70d]{
 -- Page 84, Offset 20111.
 -- 怒った王様は兵士たちに命じたけれど、
-  Ce dernier courroucé ordonna à ses soldats
+  Ce dernier courroucé ordonna à ses soldats de le déloger,
 
 }
 [sha:39e0dce27d364627acd4c7e8a1935126039cc3fc]{
 -- Page 84, Offset 20112.
 -- 兵士たちでも卵を下ろすコトはできなかった。
-  de le déloger, mais ils ne purent atteindre l'œuf haut perché.
+  mais ils ne purent atteindre l'œuf haut perché.
 
 }
 [sha:549dbaf9e470a9b7335d59ae23dc82bcd4b64b8e]{
@@ -1111,13 +1111,13 @@ Il ne fait que causer des ennuis aux autres.
 [sha:13f4740f7bcf3884789cfea20182624058758210]{
 -- Page 88, Offset 20121.
 -- ちなみに、
-  À ce propos, Humpty devint un œuf
+  À ce propos,
 
 }
 [sha:1d700a0f5683230eb9ace99d639af9f1899d194a]{
 -- Page 88, Offset 20122.
 -- ハンプティが卵型になったのは１９世紀半ばから。
-  à la moitié du XIXe siècle.
+  Humpty devint un œuf à la moitié du XIXe siècle.
 
 }
 [sha:5dde8b040b698a0be476b65213efa9df1d9442f9]{
@@ -1129,25 +1129,25 @@ Il ne fait que causer des ennuis aux autres.
 [sha:2adec94770dc87c9f5e50803ab5c401031bfda12]{
 -- Page 89, Offset 20124.
 -- マベリー牧師という人がハンプティの
-    sous le nom de plume “Alquis”, un livre
+    sous le nom de plume “Alquis”,
 
 }
 [sha:7bb0408d33c610a297a7b44b79170bca5b803bf1]{
 -- Page 89, Offset 20125.
 -- パノラマ絵本を書いたのがはしり。
-    d'images rempli d'illustrations de Humpty.
+    un livre d'images rempli d'illustrations de Humpty.
 
 }
 [sha:56ed0402b8cf70e69c9ea25855d244efd001b346]{
 -- Page 90, Offset 20126.
 -- ルイスキャロルのハンプティは、
-  Lewis Carroll s'est certainement
+  Lewis Carroll s'est certainement inspiré
 
 }
 [sha:53c6c74c05ac28bf180cd99e2e773c7785302ab3]{
 -- Page 90, Offset 20127.
 -- それを参考にしたのでしょう。
-  inspiré de cette version de Humpty.
+  de cette version de Humpty.
 
 }
 [sha:8eff2d69265a70653bdf1ef63b53f733f9e8bbb3]{

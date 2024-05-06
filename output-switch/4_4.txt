@@ -1111,7 +1111,7 @@ Aoko s'adressa à eux.
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
 -- Page 55, Offset 3773.
 -- 「？」
-「?」
+"?"「?」
 
 }
 [sha:b65e1af441fdb146c75866bede73817ad61b0706]{
@@ -1225,7 +1225,7 @@ Aoko s'adressa à eux.
 [sha:0a4e166b5e812390d7c7c015bb0b93a472dd8ce5]{
 -- Page 61, Offset 3792. Glued. Mods: @x.
 -- それで、水泳部はどう？　やっていけそう？」
- Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
+Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 
 }
 [sha:85efca90ab2e6ea637c5dc5c3d3de447bf9ca877]{
@@ -1255,7 +1255,7 @@ Aoko s'adressa à eux.
 [sha:91b642186ab526113b1087fa779eb4f3bb4fa21f]{
 -- Page 63, Offset 3797. Mods: @n.
 -- 「な、
-「Po...
+「Po... 
 
 }
 [sha:6a28fcb5bda7a363850a0309132d9abc67ef7563]{

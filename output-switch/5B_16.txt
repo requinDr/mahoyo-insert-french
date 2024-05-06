@@ -169,19 +169,19 @@ Pour l'instant, elle respirait frénétiquement et s'efforçait de récupérer.
 [sha:ea4f457464b0335018876e3b8d07b04509e3cf0d]{
 -- Page 8, Offset 6551. Glued. Mods: @n.
 -- それは、
- incroyable...
+ incroyable... 
 
 }
 [sha:78ed6c89e1ecf58d8968564c0d1570a9757b46c8]{
 -- Page 8, Offset 6552. Glued. Mods: @n.
 -- 蒼崎の方、
-c'est plutôt...
+ c'est plutôt...
 
 }
 [sha:ce1ee29dff641f882ee24b26316135e08c8a5613]{
 -- Page 8, Offset 6553. Glued.
 -- だろ」
-toi.」
+ toi.」
 
 }
 [sha:1f0b0e3eb049b39904dd0b8391670f0a1460bfa3]{

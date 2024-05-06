@@ -163,7 +163,7 @@
 [sha:b81847c28c7506fc99e1c9bbbc8e07b5e4f6ef38]{
 -- Page 7, Offset 172.
 -- 教師というより頼れる先輩といった人物だが、あいにく、彼女はそう慕ってもいなかった。
-    Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
+  Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
 
 }
 [sha:7ca25c346cfa728214146a3f3d2781470fec8e99]{
@@ -643,7 +643,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:353507d6943334f85c45bfad00f232cbe7e8a666]{
 -- Page 34, Offset 252. Glued.
 -- 、むう」
-, hmm.」
+ hmm.」
 
 }
 [sha:e1a031483cc2f63147e5193aca4c0eeee6ecd593]{
@@ -829,7 +829,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:f2b8b7304aae4f4a592587d83ebd4175f655244b]{
 -- Page 41, Offset 283.
 -- が、しかし。今や高速道路やＪＲ……旧国鉄……といった動脈静脈が張り巡らされた我が国ではあるが、そういった山村は無いと言い切れないのも事実である。
-  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou le <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
+  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou la <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
 
 }
 [sha:5c4e6291e725ce7e960b931941dfae6460d342b7]{
@@ -1087,7 +1087,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:e328c25e5026bb582bf75a3de7f2d230111cde82]{
 -- Page 56, Offset 326.
 -- 寝不足でキリキリ痛む頭が、彼女の攻撃性を一割増しにする。
-  Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10 % son agressivité.
+  Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10% son agressivité.
 
 }
 [sha:f11d31dad6f6465a778f20f726745a6f4dd4b7b8]{
@@ -1141,7 +1141,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:b220575fd0591ed4f5a9d94d2013d8ec62b11d79]{
 -- Page 59, Offset 335.
 -- 『何をしなくともいい』という指令は、
-La directive de “ne rien faire”,
+  La directive de “ne rien faire”,
 
 }
 [sha:08143f583a2f442e4797fc0d2a4634157a471737]{
@@ -1447,7 +1447,7 @@ La directive de “ne rien faire”,
 [sha:9628e32fecde5ba11d16e23b4ed10cd704dc3bb9]{
 -- Page 75, Offset 386.
 -- これは九割がた偏見で、青子だって、そんな四六時中イライラできるほど暇ではない。
-  De l'avis de 90 % d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
+  De l'avis de 90% d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
 
 }
 [sha:b0a599ee1dc1e3967849fe674b5c67509960d855]{
@@ -1465,13 +1465,13 @@ La directive de “ne rien faire”,
 [sha:9281d955e92e607b0885c8dc979f26357200464d]{
 -- Page 75, Offset 389.
 -- なので九割がたは偏見の、噂に尾ひれのついた学園七脅威の一つにすぎない。
-  Et donc, 90 % des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
+  Et donc, 90% des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
 
 }
 [sha:4f41e65113f123dac93e04deb1379707decfa5c7]{
 -- Page 76, Offset 390.
 -- ただし、残りの一割は真実だ。
-  Mais les 10 % restants étaient dans le vrai.
+  Mais les 10% restants étaient dans le vrai.
 
 }
 [sha:88b08b835d2915d31dcc3c552481472c78d32283]{
@@ -1483,7 +1483,7 @@ La directive de “ne rien faire”,
 [sha:48e1d3c574768a967407979b76d27c6f379ffbfe]{
 -- Page 76, Offset 392.
 -- 今日はその一割の話。
-  Ce jour-là correspondait à ces 10 %.
+  Ce jour-là correspondait à ces 10%.
 
 }
 [sha:c64764c48721ee3c71395242df863fd6b38168ed]{
@@ -1789,7 +1789,7 @@ La directive de “ne rien faire”,
 [sha:1849f6c099a4d989603c0abde848b6bcc5ee7646]{
 -- Page 92, Offset 443.
 -- 「あー、うん。いけてる、二人とも気は合うようだね！
-「Ah---, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
+「Ah―――, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
 
 }
 [sha:47058a58b08abc7862b7deb7324eb56270cc760a]{
@@ -1885,7 +1885,7 @@ La directive de “ne rien faire”,
 [sha:d7ec93e2ff9c0a24ab7b7feae25c86e29fe6aa7f]{
 -- Page 97, Offset 459. Glued. Mods: @x.
 -- が、少年は声に含まれた嫌味に気が付かなかった。
-Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
+ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 
 }
 [sha:c3142fdd662e34340709c3e5d33016a1239fe75f]{
@@ -2383,7 +2383,7 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:e1812ed9692540029d85a8fb3956d4e014a92f6f]{
 -- Page 122, Offset 542. Glued. Mods: @x.
 -- 怒るのが商売とか、そういう家柄の人なのか？」
-  Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
+Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
 
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{

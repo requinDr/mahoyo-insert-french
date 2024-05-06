@@ -217,7 +217,7 @@
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 9, Offset 14560.
 -- しかし。
-  Cependant,
+  Cependant...
 
 }
 [sha:a75b0c09eb6c6845d77acaa812d05b67c8c0da68]{

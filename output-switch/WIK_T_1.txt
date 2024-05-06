@@ -559,7 +559,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te batt
 [sha:5c83d0b6abf1d3263592bb525ac14c97eecab77a]{
 -- Page 25, Offset 23391.
 -- 全員死んだ。
-  Ils étaient tous morts.
+  Tous morts.
 
 }
 [sha:5a75162e8a0a7fd6c1f050e343bae183ea3e0ffc]{

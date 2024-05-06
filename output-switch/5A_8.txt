@@ -511,7 +511,7 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:ecae32d8fa62115dd37058ae4d1b1f605fc4f432]{
 -- Page 25, Offset 5227.
 -- この距離ならこの攻撃、といったテンプレートを行うだけの殺戮機巧なら対応できると、青子は己の運に賭けたのだ。
-  Aoko avait parié qu'elle pourrait faire face à son adversaire si celui-ci n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
+  Aoko avait parié qu'elle pourrait lui faire face si ce n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
 
 }
 [sha:1fd7ac96849991105794835427fdd360d0c80fd6]{
@@ -787,7 +787,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
 -- Page 38, Offset 5273. Mods: @n.
 -- 
-　　　　　　　
+                                
 
 }
 [sha:f6df3b96a2fc2d8c5150e432da492ff8bd07677e]{
@@ -901,7 +901,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:0c51112ecf01e9c1b2b641761baaf4c1e2c97f95]{
 -- Page 43, Offset 5292.
 -- 人形の動力源である呪いの詩は、近寄る者に病をもたらす防衛機巧にもなっている。
-  Le poème maudit, la source de sa puissance, servait aussi de système de défense qui rendait malade quiconque s'en approchait.
+  Le poème maudit, la source de sa puissance, était aussi un système de défense qui rendait malade quiconque s'en approchait.
 
 }
 [sha:294d2d9ea5187a3410744616e89a3eb8ebf46d14]{

@@ -589,7 +589,7 @@ Et alors qu'il était sur le point de s'arrêter net en pensant que ça ne pouva
 [sha:69dcf55cdf0024a8faf47e27c17cb2888487d226]{
 -- Page 29, Offset 4732.
 -- でも、いったい何のために？
-  Mais, dans quel but ?
+ Mais, dans quel but ?
 
 }
 [sha:62d119e664efb7ab4dcc613be245d39f6934a352]{
@@ -775,13 +775,13 @@ Et alors qu'il était sur le point de s'arrêter net en pensant que ça ne pouva
 [sha:63e269d030ec2c04a0fc937daaf0b92f0b302973]{
 -- Page 38, Offset 4763.
 -- ……余談ではあるが。
-  ...... C'était une autre histoire, mais sans exagérer,
+  ...... C'était une autre histoire,
 
 }
 [sha:f1452069cde5f0068b90bcda170496fb1505928f]{
 -- Page 38, Offset 4764. Glued. Mods: @x.
 -- 大げさな話ではなく、それは彼にとって、生涯ただ一度の過ちだった。
-elle représentait pour lui l'erreur de toute une vie.
+mais sans exagérer, elle représentait pour lui l'erreur de toute une vie.
 
 }
 [sha:857c157f2c66c555c6cc72655e1ec33789e57074]{
@@ -997,7 +997,7 @@ Même s'il était nonchalant, c'était un garçon honnête avec ses sentiments.
 [sha:b723fae162bec6d1374e7220051523d318c20619]{
 -- Page 47, Offset 4800.
 -- 「分かってるって言ってるでしょ」
-「Je t'ai déjà dit que je le savais, non ?」
+「Je t'ai pourtant dit que je le savais, non ?」
 
 }
 [sha:312079a5851d2414bb4ec6872d6ac36ae394e4cf]{
@@ -1117,7 +1117,7 @@ Même s'il était nonchalant, c'était un garçon honnête avec ses sentiments.
 [sha:50e7cb9db74cb6692118b7f93376f189b924dc39]{
 -- Page 52, Offset 4820. Glued. Mods: @x.
 -- ここがステージならハリセンでダメ出しも辞さないところだ。
-S'ils étaient sur scène, elle l'aurait corrigé en le frappant avec un <Harisen|éventail>.
+S'ils étaient sur scène, elle l'aurait corrigé en le frappant avec un éventail.
 
 }
 [sha:a7472879c570e6f218849c1aee92cf32e457d281]{

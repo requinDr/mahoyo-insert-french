@@ -1,13 +1,13 @@
 [sha:1c0c929741aa80bd4e26cd00552f5c66c15c272e]{
 -- Page 0, Offset 19795.
 -- コンチハ。
-      'jour. L'être bleu a achevé
+      'jour.
 
 }
 [sha:158179b0f2a474ffb5ab7e478936c48bee7aa78f]{
 -- Page 0, Offset 19796.
 -- 日課のマンウォッチをこなし、
-      son observation quotidienne et se tient,
+      L'être bleu a achevé son observation quotidienne et se tient,
 
 }
 [sha:4a4702c435d557e990d97d51d8e657228348be53]{
@@ -97,7 +97,7 @@
 [sha:d0750f7720a98d534ebd09592fc2df0015109ee5]{
 -- Page 6, Offset 19811. Mods: @n.
 -- なぜなにー、プロイー。
-    Tout sur les Ploy.
+      Tout sur les... Ploy.
 
 }
 [sha:fa7c458043c4dd12e3db0720d5b253f8548cb34e]{
@@ -133,13 +133,13 @@
 [sha:32b31e7a392e287b43a433f417185eba6cd5d688]{
 -- Page 8, Offset 19817.
 -- なにを着てもヤバイぐらい似合うッス。
-    Peu importe ce que vous portez,
+    Peu importe ce que vous portez, ça vous va à fond.
 
 }
 [sha:e0129c98fae1860bfd018a4499cdffef59a7b542]{
 -- Page 8, Offset 19818.
 -- ほんとバイヤー。
-    ça vous va à fond. Oui, à donf !
+    Oui, à donf !
 
 }
 [sha:f7741f784ac5a0012e3d5920f54fce18d7828b2b]{
@@ -151,25 +151,25 @@
 [sha:9b70bf94212fe16c7d010b30cc3b13890060f723]{
 -- Page 9, Offset 19820.
 -- 素朴な疑問なんスけど、ここで何を？
-    C'est un détail sans importance,
+    C'est un détail sans importance, mais que faites-vous ici ?
 
 }
 [sha:c83174dfd07e0dd723f779c5c8a0106bbd6d1cbf]{
 -- Page 9, Offset 19821.
 -- あと何で？
-    mais que faites-vous ici ? Et pourquoi ?
+    Et pourquoi ?
 
 }
 [sha:0ae1b2d8341443bd72c67ddad12723c18774312d]{
 -- Page 10, Offset 19822.
 -- マンネリズムはよくないでしょう？
-    Il ne faut pas tomber dans la routine,
+    Il ne faut pas tomber dans la routine, non ?
 
 }
 [sha:07a33864990809281f018797821422fc18ac537a]{
 -- Page 10, Offset 19823.
 -- オマケコーナーだからって素材を使い回すのはわたしの美学に
-    non ? Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut réutiliser les mêmes décors.
+    Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut réutiliser les mêmes décors.
 
 }
 [sha:5771fb1d0c6cf25639f18b8b604cef41316d2141]{
@@ -217,13 +217,13 @@ Par exemple, “La forêt, l'oiseau et la fillette” ? Vous voyez, dans “L'oi
 [sha:96ffa854191ad71a6bc09188af4e974fc99f33c4]{
 -- Page 14, Offset 19831.
 -- ナチュラルに無視。
-Elle m'ignore royalement. Au fait, d'habitude,
+Elle m'ignore royalement.
 
 }
 [sha:35cff42e0a817f846b9481f2d3d4d51f998158cc]{
 -- Page 14, Offset 19832.
 -- ところで、アリスさんは普段なにをやってるッスか？
-que faites-vous après les cours ?
+Au fait, d'habitude, que faites-vous après les cours ?
 
 }
 [sha:1e900aaf9d7a63d04dc5a4adf52b814ad2f3b53a]{
@@ -235,13 +235,13 @@ que faites-vous après les cours ?
 [sha:1e8a64780f2b65917795597c2e07785d142c2335]{
 -- Page 15, Offset 19834.
 -- シャバ僧はアルバイト。
-    L'idiot, ses jobs. Et vous, vous êtes
+    L'idiot, ses jobs.
 
 }
 [sha:8f27fe8ff3778bbabb021b45a032bd22611bed2a]{
 -- Page 15, Offset 19835.
 -- アリスさんは帰宅部ッス？
-    dans le club du retour à la maison ?
+    Et vous, vous êtes dans le club du retour à la maison ?
 
 }
 [sha:77e8e90030fc8418fbcdf05dd7e8e95314b804a6]{
@@ -259,13 +259,13 @@ que faites-vous après les cours ?
 [sha:6b17d6da22b7e5833a65622c5889ec2f2b16352e]{
 -- Page 17, Offset 19838.
 -- わー。
-  Ouaah. C'est à l'image des sorcières
+  Ouaah.
 
 }
 [sha:5336187c695544af3b92bda0904e3d2bdd46dbc3]{
 -- Page 17, Offset 19839.
 -- まんま、童話の魔女のイメージっス。
-  des contes de fées.
+  C'est à l'image des sorcières des contes de fées.
 
 }
 [sha:d7545fa9a4f71ce6c5959a894bae8b35e6946d4d]{
@@ -277,13 +277,13 @@ que faites-vous après les cours ?
 [sha:208999b8c30afcac6d4314cc8979dbfa1eb92fbc]{
 -- Page 18, Offset 19841.
 -- っていうか、この匂いはチョコレイト？
-        En fait, cette odeur,
+        En fait, cette odeur, c'est du chocolat ?
 
 }
 [sha:2c7f95aa9767ca5975d85753fa96ba91dd19d5a7]{
 -- Page 18, Offset 19842.
 -- まさか……
-        c'est du chocolat ? Pas possible......
+        Pas possible......
 
 }
 [sha:e392334f0df4ead466698177fdfd8b68654896a8]{
@@ -295,19 +295,19 @@ que faites-vous après les cours ?
 [sha:3891b181daf91123bb7a18ef9ff5568fc8e32380]{
 -- Page 19, Offset 19844.
 -- ……アナタね。プロイのくせに、
-    ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais
+    ...... Toi alors. Tu es un Ploy,
 
 }
 [sha:1775d8d82a4f17bced60ea901059a6d56064eea6]{
 -- Page 19, Offset 19845.
 -- プロイの仕組みを知らないの？
-    pas leur mécanisme ? Je ne voulais pas le reconnaître,
+    et pourtant, tu ne connais pas leur mécanisme ?
 
 }
 [sha:dc7fdf3f1718b2ee7cb6f14301ce906670ff794c]{
 -- Page 19, Offset 19846.
 -- 気付きたくはなかったけれど、やっぱりただの鳥だった？
-    mais en fin de compte, tu n'es vraiment qu'un oiseau ?
+    Je ne voulais pas le reconnaître, mais en fin de compte, tu n'es vraiment qu'un oiseau ?
 
 }
 [sha:86d069668dda10f630560c946b6bb3ba7396151c]{
@@ -331,7 +331,7 @@ que faites-vous après les cours ?
 [sha:ad01705e3597da94c0033ffd2dc7f22e6eb6aafc]{
 -- Page 21, Offset 19850.
 -- なぜなら、これからアリスさんが
-      Parce que dès maintenant, vous allez
+      Parce que dès maintenant,
 
 }
 [sha:63f1c289de448b49f3e4a22219a9371203e94581]{
@@ -343,7 +343,7 @@ que faites-vous après les cours ?
 [sha:b214543519aab19fa43222c8901889c10e20dc7e]{
 -- Page 21, Offset 19852.
 -- かっちょいい説明してくれるからッス！
-      que l'océan et plus vaste que le ciel !
+      plus profonde que l'océan et plus vaste que le ciel !
 
 }
 [sha:ebe7dcaa640329face1702f14e1cf9da6af24cd2]{
@@ -373,31 +373,31 @@ que faites-vous après les cours ?
 [sha:4614766767ef35f49f7c6d05585679b8d3b6004e]{
 -- Page 25, Offset 19857.
 -- ないッス。
-    Non. Mais j'voudrais au moins avoir un résumé.
+    Non.
 
 }
 [sha:1eec8547f1759da8eb773d449543e1121639365c]{
 -- Page 25, Offset 19858.
 -- でも、せめて概要だけでもレクチャーしてほしいッス。
-    À ce rythme, c't'partie va être pire
+    Mais j'voudrais au moins avoir un résumé.
 
 }
 [sha:d4a54b780f9051618b416d4786826b9808192626]{
 -- Page 25, Offset 19859.
 -- これじゃこのコーナー、なんとか道場以下ッスよ？
-    qu'un certain dojo !
+    À ce rythme, c't'partie va être pire qu'un certain dojo !
 
 }
 [sha:a9f23e165a0b651c0a617730c1076c1476107958]{
 -- Page 26, Offset 19860.
 -- ………………それは避けたいわね。
-............... Je préférerais éviter
+............... Je préférerais éviter cela.
 
 }
 [sha:abbd985eab52606d214d0e9dd8869e33b14fed28]{
 -- Page 26, Offset 19861.
 -- それじゃあ……
-cela. Dans ce cas......
+Dans ce cas......
 
 }
 [sha:ad13317c3c1ce28f2b2a0775e193209fd05d7f7b]{
@@ -427,13 +427,13 @@ cela. Dans ce cas......
 [sha:58802e036aa76c7afd93c03e55d02c0f348771ff]{
 -- Page 29, Offset 19866.
 -- 西欧圏の、子供のオモチャ、子供だまし、軽蔑的に珍しいもの、
-      En Europe de l'Ouest, ça a le sens de jouet d'enfant,
+      En Europe de l'Ouest, ça a le sens de jouet d'enfant, de farce enfantine,
 
 }
 [sha:85b79c67a86e1366c5d54b120cedb6ee2b5afe04]{
 -- Page 29, Offset 19867.
 -- といった意味ね。
-      de farce enfantine, ou de quelque chose de rare et méprisé.
+      ou de quelque chose de rare et méprisé.
 
 }
 [sha:27e450d2f3dbaf4f3cf9a521a241c3cc4bb13f35]{
@@ -469,13 +469,13 @@ cela. Dans ce cas......
 [sha:22d54c09be1db009dee5096f58ac126cb0bc6b3f]{
 -- Page 32, Offset 19873.
 -- 戦略、戦術の俗語でもあり、
-      C'est aussi un mot familier pour “stratagème”,
+      C'est aussi un mot familier pour “stratagème”, “tactique”,
 
 }
 [sha:1ec5b702364e711d7ceac7107115186f42f427db]{
 -- Page 32, Offset 19874.
 -- スコットランドだと……な意味もあるけれど、
-      “tactique”, et en Écosse, ça peut aussi dire......
+      et en Écosse, ça peut aussi dire......
 
 }
 [sha:9d0565d8178a64daa1a9d3a25a7bff11a9c2275c]{
@@ -601,37 +601,37 @@ Pour moi, les choses du passé sont plus vagues que l'futur.
 [sha:00f22c1e23cc52a8da9119a8adb735cf78d80d96]{
 -- Page 41, Offset 19895.
 -- 魔女は自分の代で、先代から遺されたプロイを
-    Les sorcières personnalisent les Ploy que la génération
+    Les sorcières personnalisent les Ploy
 
 }
 [sha:f17fbfd2e693221e596b7d176fe4a14da422775b]{
 -- Page 41, Offset 19896.
 -- 自分用にチューンナップするッスよ。
-    précédente leur a laissés. C'est parce qu'elle était
+    que la génération précédente leur a laissés.
 
 }
 [sha:207ca152ff958d8a26f01850bac45ecd2b06ffe4]{
 -- Page 41, Offset 19897.
 -- 母君、キャロルにはまってたからあの始末ッス。
-    accro à Carroll qu'ils ont fini dans cet état.
+    C'est parce qu'elle était accro à Carroll qu'ils ont fini dans cet état.
 
 }
 [sha:5a162483046479f4bc21624846bebfbe98471998]{
 -- Page 42, Offset 19898.
 -- 禁を犯した時も、ノータイムで
-      Elle en est arrivée à un tel point que lorsqu'elle a
+      Elle en est arrivée à un tel point que lorsqu'elle a commis le péché de chair,
 
 }
 [sha:9347626178c0e5ff690e02244f1273b3d3606b96]{
 -- Page 42, Offset 19899.
 -- 「名前はアリスにしましょう」なんて
-      commis le péché de chair, elle a immédiatement dit
+      elle a immédiatement dit en souriant :
 
 }
 [sha:133a22a73c9b61065e54036620c81067a77160b8]{
 -- Page 42, Offset 19900.
 -- 微笑んだぐらいッスから！
-      en souriant : “son nom sera Alice”.
+      “son nom sera Alice”.
 
 }
 [sha:603dcba70d40659b150a7b4be3f7dffc6a61ae04]{
@@ -649,25 +649,25 @@ Pour moi, les choses du passé sont plus vagues que l'futur.
 [sha:b908e189f742bdb6475c141429c75f97fda6beb7]{
 -- Page 44, Offset 19903. Mods: @k, @e.
 -- ハハハなに言ってるッスか、
-  Ha ha ha, qu'est-ce que vous racontez. Vous qui
+  Ha ha ha, qu'est-ce que vous racontez.
 
 }
 [sha:ab17e64335bc247b23a27ca654391e5a774c99f1]{
 -- Page 44, Offset 19904. Mods: @k, @e.
 -- シャバ僧が帰ってくると必ず目を覚ます
-  vous réveillez systématiquement dès que l'idiot
+  Vous qui vous réveillez systématiquement
 
 }
 [sha:f0f21a6379a069fdea4614e8a06a0ecad1ef3863]{
 -- Page 44, Offset 19905. Mods: @k, @e.
 -- アリスさんも
-  rentre à la maison, vous n'avez rien à lui envi...
+  dès que l'idiot rentre à la maison,
 
 }
 [sha:b3923dab4df063dc5a30df2e22cc3584ff43e4ee]{
 -- Page 44, Offset 19906. Glued. Mods: @x, @n.
 -- 負けてはいな
-Guah ?!
+vous n'avez rien à lui envi...
 
 }
 [sha:5428051b1bf86f2a705fb3d72cf13289c810bffc]{
@@ -691,13 +691,13 @@ Guah ?!
 [sha:f4f0b3f5a04fff1ecd23e1a1bd8cdc9e1eca7473]{
 -- Page 46, Offset 19910.
 -- それじゃロビン、お店の予約をしておいて。
- Alors Robin, occupe-toi de la réservation
+ Alors Robin, occupe-toi de la réservation au restaurant.
 
 }
 [sha:9fd6d689bc50126fe105b21b2e6935446cc18ea2]{
 -- Page 46, Offset 19911.
 -- それが済んだらチョコレイトの湯煎。
- au restaurant. Quand tu auras fini, réchauffe
+ Quand tu auras fini, réchauffe le chocolat.
 
 }
 [sha:908475d8d19e3779a9efc19540b45e5146d1599a]{
@@ -751,19 +751,19 @@ Dans l'histoire principale, je me tais seulement parce que c'est éreintant.
 [sha:baa347336d5bc582dcb41393ef6a69b03f2dbdfb]{
 -- Page 51, Offset 19920. Mods: @n.
 -- 貴方のような
-Par exemple,
+Par exemple, brûler des calories
 
 }
 [sha:b203cc8a01c877ffaa64ac1e7db6c0c40939e5e9]{
 -- Page 51, Offset 19921. Glued.
 -- ××を罵るのに
- brûler des calories toutes les cinq secondes
+toutes les cinq secondes pour injurier
 
 }
 [sha:3fb97d2234a87b9d168b4f6d0b62dd6adb6f350a]{
 -- Page 51, Offset 19922.
 -- いちいちカロリーを使うとか。
-pour injurier quelqu'un d'aussi xxx que toi.
+quelqu'un d'aussi xxx que toi.
 
 }
 [sha:6144c2e46c1559886adad8b7860960e766116068]{
@@ -775,13 +775,13 @@ Tu penses vraiment avoir une telle importance ?
 [sha:8347710640237fb90835e7e2506e7bc05e8b04ae]{
 -- Page 52, Offset 19924. Mods: @k, @e.
 -- たまんないッスー！
-  C'est terrible ! Ça veut dire que j'ai moins
+  C'est terrible !
 
 }
 [sha:7bba8215f5eea0e91523cc7aab8059fd1d1b0221]{
 -- Page 52, Offset 19925. Mods: @k, @e.
 -- ジブン、グリコのキャラメル以下だったスね！
-  de valeur qu'un caramel Glico, hein !
+  Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
 
 }
 [sha:35e528b15dd6e31bb6045e8c05fd65c0f89688ff]{
@@ -793,25 +793,25 @@ Tu penses vraiment avoir une telle importance ?
 [sha:04e32a11fa319436607dd1be61131a970e5b30fd]{
 -- Page 52, Offset 19927. Glued. Mods: @x, @k, @e.
 -- それなら。
- dans ce cas,
+dans ce cas,
 
 }
 [sha:32d95359d2363c8dca7b22f4058451f0fdd909b9]{
 -- Page 52, Offset 19928. Glued. Mods: @x, @k, @e.
 -- 舐めて。
- je veux
+je veux
 
 }
 [sha:f1e9ccf4b21be714e29fc26fde1f1f67ea0a8e21]{
 -- Page 52, Offset 19929. Glued. Mods: @x, @k, @e.
 -- ほしい。
- être
+être
 
 }
 [sha:7036ee14945e7c7c57a8c659a2ca8fc5e09a2319]{
 -- Page 52, Offset 19930. Glued. Mods: @x.
 -- ッス。
- léché !
+léché !
 
 }
 [sha:4186afe936faad8cfb9793afb28b65ee67da96dd]{

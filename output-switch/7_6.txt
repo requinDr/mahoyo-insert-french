@@ -481,7 +481,7 @@
 [sha:7cfa219503926abe9fdca8c10a039f417e110082]{
 -- Page 25, Offset 9631. Glued. Mods: @x.
 -- 私ってばなんでそんな事を忘れてたんだろう。有珠が聞いたら喜ぶわ、そりゃ」
- Où avais-je la tête pour oublier ça ? Lorsqu'Alice l'apprendra, elle en sera ravie.」
+Où avais-je la tête pour oublier ça ? Lorsqu'Alice l'apprendra, elle en sera ravie.」
 
 }
 [sha:238661f3b7e58cecc0c0566279f462eb8fd41f8b]{

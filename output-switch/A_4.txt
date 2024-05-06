@@ -55,7 +55,7 @@
 [sha:6b4e4e272c49f9d484c6795fcc92ee37d34edd4a]{
 -- Page 3, Offset 14770.
 -- 青子が行った陶川ではなく、ここ社木が今夜の本命であるらしい。
-  Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōgawa où s'était rendue Aoko, mais ici, à Yashirogi.
+  Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tôgawa où s'était rendue Aoko, mais ici, à Yashirogi.
 
 }
 [sha:f5b231906c44a120bd09f2ce7789e398ed0c9a7f]{

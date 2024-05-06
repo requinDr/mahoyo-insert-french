@@ -283,7 +283,7 @@ Pinktrude en fait partie ?!
 [sha:8398cdb6e872409828c33d0b7e1f09897d0cd3ca]{
 -- Page 13, Offset 13359.
 -- “そんな、嘘よ”……と。
-“Impossible, c'est un mensonge......” dit-elle.
+  “Impossible, c'est un mensonge......” dit-elle.
 
 }
 [sha:a764b95374abd1eef023becf90da6d444ff3247a]{

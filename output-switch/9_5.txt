@@ -877,7 +877,7 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:3e08ac0f3fd886e07db73e712df48bb6e79d8699]{
 -- Page 46, Offset 13827. Glued. Mods: @x.
 -- その稀少品を、敵魔術師は湯水のように、それこそ使い捨てのコマのように扱ってきた。
- le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
+le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
 
 }
 [sha:49bb86faa59e40d1204e843b81e78fbdf0e43d69]{

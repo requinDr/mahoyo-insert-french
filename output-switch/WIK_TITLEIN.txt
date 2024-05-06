@@ -109,7 +109,7 @@
 [sha:83fca3b9b0382646ec4076b367a7ae7035a7ea85]{
 -- Page 7, Offset 23489. Glued. Mods: @x.
 -- 後ろのなんとも場違いに地味な方って、もしかしてお連れの方？」
- le type discret à l'allure louche derrière toi, il est avec toi ?」
+le type discret à l'allure louche derrière toi, il est avec toi ?」
 
 }
 [sha:791590448adeffaf12b8e4d0365222ea6d32a9b1]{
@@ -157,7 +157,7 @@
 [sha:c07311754f1ea2a56d9c61a284641896434569af]{
 -- Page 10, Offset 23497. Glued. Mods: @x.
 -- そういうのは蒼崎くんの方が得意だと思うんだが。ああいや、あくまで個人的な感想だから聞き流して。
- C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
+C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
 
 }
 [sha:0280a2871c52dc828c97416990aee367bc55b9f9]{
@@ -223,7 +223,7 @@
 [sha:1b082c39f1dc2469a8902dd594871a60b4bfe6c9]{
 -- Page 13, Offset 23508.
 -- “蒼崎が何するか不安なのでカントクしに来てください”
-par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivités.
+  par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivités.
 
 }
 [sha:7158a15864f783f0cb6686761d836ea9bb09fddf]{
@@ -499,19 +499,19 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:26beb972a16ee66dcd57191b91bbd5515ebf9fd0]{
 -- Page 28, Offset 23554. Glued. Mods: @n.
 -- ん
-c'est
+ c'est
 
 }
 [sha:061ee82c3292be6cecc7b87217a93353dbc800e6]{
 -- Page 28, Offset 23555. Glued. Mods: @n.
 -- と
-de
+ de
 
 }
 [sha:7d11df6927b7dbb10268d65b84422b5ace0eb939]{
 -- Page 28, Offset 23556. Glued. Mods: @n.
 -- い
-l'
+ l'
 
 }
 [sha:cf26587a8884e9f4f9585587f1082ce042cc3eef]{
@@ -535,7 +535,7 @@ r
 [sha:e05aa638d3536f8e054a23a375e07e5e4b3bbed2]{
 -- Page 28, Offset 23560. Glued. Mods: @n.
 -- つ
-fr
+ fr
 
 }
 [sha:4c270adda33709a5aef97eeb4fa06345daa139a9]{
@@ -547,25 +547,25 @@ a
 [sha:01bdd6c1241bbf488bf72ce4f1c1d1d02403d516]{
 -- Page 28, Offset 23562. Glued. Mods: @n.
 -- き
-mou
+t
 
 }
 [sha:f5d8758c1d1faeca2d5806f76532b7ca770d194c]{
 -- Page 28, Offset 23563. Glued. Mods: @n.
 -- 兄
-r
+er
 
 }
 [sha:dba658d8e1d32815475b42bf58d3123fa3629452]{
 -- Page 28, Offset 23564. Glued. Mods: @n.
 -- 妹
-fr
+ne
 
 }
 [sha:e573716c9f79b08b3275556bd5e9a9b39c8a6c4b]{
 -- Page 28, Offset 23565. Glued.
 -- 愛。
-a
+l.
 
 }
 [sha:de9fd5392d54be6f611a677df5450383af38d49c]{
@@ -583,7 +583,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:ce56175b2ed7594a8660c74cb66998b25eb4595a]{
 -- Page 28, Offset 23568. Glued. Mods: @x.
 -- ガハハハハ』
-  Ha ha ha ha ha !』
+Ha ha ha ha ha !』
 
 }
 [sha:206f59923a5fb7e4c8351170d94229714f0c0d82]{
@@ -721,7 +721,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:048362ae2892bfb585419b2077829143686f609c]{
 -- Page 35, Offset 23591. Glued. Mods: @x.
 -- 基本状態が不機嫌なため、浮ついた話は一切ないのだ。
- mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
+mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
 
 }
 [sha:59ed96bb4032436da9c45ff6f89206dbec90577c]{
@@ -757,7 +757,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:c47d3bfe72b0973f36387669f9acc33ee96aed9e]{
 -- Page 37, Offset 23597. Glued. Mods: @x.
 -- ええ、これからするコトとか、あまり人目につくとまずいので」
-  Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
+Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
 
 }
 [sha:1e0962c43f327fff48d274441e6415acf56e5b3b]{

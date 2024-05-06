@@ -919,13 +919,13 @@
 [sha:7f96159c516aa5967233e9b5beda86311a704a37]{
 -- Page 44, Offset 11094. Mods: @n.
 -- 「や、
-「Tai
+「Tai-
 
 }
 [sha:3d35d29a8667f3d09b2ec647840fb86969c73951]{
 -- Page 44, Offset 11095. Glued.
 -- やかましい、そんなんじゃないっ！
- -Tais-toi ! Ce n'est pas ça !
+Tais-toi ! Ce n'est pas ça !
 
 }
 [sha:334f3f4b5d468f56235b2b558d5e018812a204d9]{

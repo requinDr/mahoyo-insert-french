@@ -25,7 +25,7 @@
 [sha:78d8d944751023a535db1c121d749a7366a8b316]{
 -- Page 1, Offset 21555. Glued. Mods: @x.
 -- だけど……っっ」
- pff, pff.」
+pff, pff.」
 
 }
 [sha:6006ad7a8b21ed4eec148ebe3b159fc02d154d9c]{
@@ -571,7 +571,7 @@
 [sha:8db27cac6c18fb7d20d86db5b0851bba1995e886]{
 -- Page 32, Offset 21646. Mods: @k, @e.
 -- お願い、夢でも覚めないでっ！　盛り上げる為に、みんなあと半分ぐらい殺されて！　そして当然、最後に生き残るのはわた、
-Mon Seigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo...
+  Mon Seigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo...
 
 }
 [sha:53ebd1443bf8f7d30f9f01b392f1cf9c16b2ee4a]{

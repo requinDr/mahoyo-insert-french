@@ -205,7 +205,7 @@
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
 -- Page 10, Offset 17593. Mods: @k, @e.
 -- 「…………
-「............ Je pensais en fumer une dernière, mais malheureusement, je les ai toutes finies pendant que je t'attendais.
+「............
 
 }
 [sha:5b9a9fc571fe12bc91dcda211308b6b2fdb36437]{
@@ -799,7 +799,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:3c3cc908448b738055a2b6949acf3e5dc7a7d05e]{
 -- Page 38, Offset 17692. Glued. Mods: @x.
 -- 元気になったら懲りずにやってくる殺人鬼が相手でも見逃してやれっていうの？」
- Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
+Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
 
 }
 [sha:2c527c6719684b5d73a11ee53ead6c3d53f90e31]{
@@ -1333,13 +1333,13 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:7b037d76012df9ab6a33423c4eff486eef431eea]{
 -- Page 64, Offset 17781. Mods: @n.
 -- 「ちょっ、なんだその不細工で悪趣味な術式は……！
- 「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
+「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
 
 }
 [sha:efbdb2e34146f02c6daa6c6382c77450e7449027]{
 -- Page 64, Offset 17782. Glued.
 -- センスがないにも程がある！　おまえ、本当に私の妹か！？」
-Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma petite sœur ?!」
+ Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma petite sœur ?!」
 
 }
 [sha:bff605715bbf4b71e0e406b3d28dea67d6b2c3a8]{

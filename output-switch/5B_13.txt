@@ -433,7 +433,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:4c144871f9f1f4832138f8ab6817a00fc012c50f]{
 -- Page 24, Offset 5937.
 -- ……もし言葉に色が見えたのなら、きっと彼女の名前通りの色だっただろう。
-  ...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le bleu.
+  ...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le <bleu|Ao>.
 
 }
 [sha:e10a0179325901d6324a9017f2fbe0bfb4ced443]{

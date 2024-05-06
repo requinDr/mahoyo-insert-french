@@ -913,7 +913,7 @@ Je ne serai pas satisfaite tant que je ne lui aurai pas tout piétiné, que ce s
 [sha:130e627592d52c25bf79f9a481bc49226b61fdc1]{
 -- Page 48, Offset 14004. Glued.
 -- おまえはこの町では、仲間外れの異邦人だと。
-Dans cette ville, tu es un étranger qui se tient à l'écart.
+ Dans cette ville, tu es un étranger qui se tient à l'écart.
 
 }
 [sha:03e795a3c3ec4c8141383d84016be67e5cb0e039]{

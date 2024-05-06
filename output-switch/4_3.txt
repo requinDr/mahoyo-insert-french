@@ -181,7 +181,7 @@
 [sha:600535e380b3d4f4985f38c5e7b1c0389470756e]{
 -- Page 9, Offset 3481. Glued. Mods: @x.
 -- 人払いはその場所自体に頼らないといけないか……』
-Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement......』
+  Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement......』
 
 }
 [sha:65598bc76e5a4db36fefa269332d1f3f34a214df]{
@@ -607,7 +607,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:e99d30c1ac303d652db22344195f5b5eab1657b8]{
 -- Page 30, Offset 3552.
 -- 「ええ。騙し討ちは趣味じゃないから。殺すにしても正々堂々、正面から理由を言った後にする。
-「Oui. Les attaques en traître ne sont pas à mon goût. Si je dois le tuer, je le ferai à la loyale, après lui en avoir expliqué la raison.
+「Oui. Les attaques en traître ne sont pas mon passe-temps favori. Même si je dois le tuer, je le ferai loyalement, après lui en avoir expliqué la raison.
 
 }
 [sha:6eac4b225678fd4a2336130d2dc8d9ac5929c6fc]{

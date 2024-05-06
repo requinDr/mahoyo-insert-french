@@ -619,7 +619,7 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:7c2197575537e0842a8771db87216931e3b8d804]{
 -- Page 30, Offset 16443. Mods: @k, @e.
 -- 自分でも、どうしてそう思うのかが分からない。
-  Moi-même, je ne comprends pas pourquoi je ressens cela.
+Moi-même, je ne comprends pas pourquoi je ressens cela.
 
 }
 [sha:a67233d2387b72ba70d6efa15c567d04fe54d79d]{

@@ -7,7 +7,7 @@
 [sha:f8963ecaa24908384635e757628e5de6e8da15b7]{
 -- Page 0, Offset 22387. Glued. Mods: @x.
 -- 誰かさんと誰かさんが手伝ってくれないから。
- Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.
+Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.
 
 }
 [sha:46f6b2c6fc43061ff859b8543b140e787ecaf33b]{

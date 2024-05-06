@@ -691,7 +691,7 @@
 [sha:2316ddb791e480fa0bd1f17c221f2161ff7b28a1]{
 -- Page 32, Offset 953.
 -- 『それで蒼崎。他の教室は何に使うんだ？』
-  『Et donc, Aozaki. Les autres classes servent à quoi ?』
+『Et donc, Aozaki. Les autres classes servent à quoi ?』
 
 }
 [sha:6bd46101184765458a0879c8115032a1962a487a]{
@@ -1225,7 +1225,7 @@
 [sha:376c65c6b3474bbda28022b591c2e99445de363c]{
 -- Page 58, Offset 1042.
 -- たぶん今の有珠を見れば彼女の父親も、その名前がぴったり似合っていたと思えるだろうに。
-  Si son père la voyait maintenant, il penserait sûrement que le nom “<Alice|Perle>” lui allait comme un gant.
+  Si son père la voyait maintenant, il penserait sûrement que le nom <Alice|perle> lui allait comme un gant.
 
 }
 [sha:887d981c09f0bf43cb794ab7067156a3454e305f]{
@@ -1237,7 +1237,7 @@
 [sha:21ffb9a860d539a11708832f95fcd690cd5b0c17]{
 -- Page 59, Offset 1044. Glued. Mods: @x.
 -- 今日、帰ってくる時おかしな物を見て、誰かに話そうと思っていたんだけど……」
-Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pensais en parler à quelqu'un, mais......」
+ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pensais en parler à quelqu'un, mais......」
 
 }
 [sha:4943eb5559c77a1366e9efb85ac5a35cf992144a]{
@@ -1471,7 +1471,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:4573a48aa0b7b95f352ddb0e76ea744b6e71cf30]{
 -- Page 71, Offset 1083.
 -- 帰宅部、学校までバス・徒歩込みで片道二十分のあんたが、なんで五時以降に帰ってくんのか考えるべきだったわ！」
-  J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes pour aller à l'école, en prenant en compte le temps de trajet en bus et à pied.」
+  J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes, entre le bus et la marche à pied, pour aller à l'école.」
 
 }
 [sha:06a3d7d4abf7d64bf3e0d09e99563216e40d37b7]{
@@ -1567,7 +1567,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:324ce116fd31575b000c3377d5acb07992b7d4a1]{
 -- Page 77, Offset 1099.
 -- 「……分かった。分かりました。じゃあ、今回のは前のと帳消しって事でいいわね？」
-「...... Ça va, j'ai compris. On peut dire qu'on est quittes maintenant ?」
+「...... D'accord. J'ai compris. Alors, on peut dire qu'on est quittes maintenant ?」
 
 }
 [sha:824a8189565f3bad812bfee9dd0d41fb5d94abc4]{

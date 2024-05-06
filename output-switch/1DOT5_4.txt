@@ -121,7 +121,7 @@
 [sha:008bc941f7ba9321f56f82159e0159c82a5c5f9c]{
 -- Page 7, Offset 1668. Glued. Mods: @x.
 -- オレみたいな開封・即使用、みたいな男がこれからのトレンドなワケでしょ？　ほら、コンビニで売ってる使い捨てカメラとか大人気だし？　ようやく流行がオレの消費文明に追いついたと、」
-  Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 
 }
 [sha:2fc03f824f431fca9a4c25b21b53afbba4767115]{
@@ -241,7 +241,7 @@ Et toi, Tobimaru ?」
 [sha:12199fd78d5c811c44b570163351de678357752f]{
 -- Page 14, Offset 1688.
 -- 「面白いコトねぇなあ。誰か、校庭にミステリーサークルとか作ってくんねぇかなあ」
-「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas, je sais pas moi, dessiner un cercle de culture quelque part sur le campus ?」
+「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle mystérieux ou un autre truc sur le campus ?」
 
 }
 [sha:962799f1db0060f2cd494b1ecaa35023e826f427]{
@@ -391,7 +391,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:47b629852fbd0afcef507c149961d199cf2983cd]{
 -- Page 23, Offset 1713.
 -- 指定外のアルバイトを疑うのなら、まず“働き先は一生徒につき一件だけ”という規則を改めてください」
-  Si vous le soupçonnez de travailler dans des lieux non recommandés par l'école, alors commencez par modifier le règlement qui stipule qu'un élève ne peut avoir qu'un seul emploi.」
+  Si vous avez des soupçons selon lesquels il travaillerait en violant la réglementation, alors d'abord, modifiez le règlement qui stipule “un seul emploi par élève”.」
 
 }
 [sha:862d9ac6e79efde278449db8da61fde9dae51f26]{
@@ -643,7 +643,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:9eff4fa04cab0fb7189319abf904a8433021a473]{
 -- Page 39, Offset 1755. Glued. Mods: @x.
 -- ああ、けど蒼崎くん、ずいぶん親身になってくれるんだね。なに、もしかしてああいうのがタイプ？　あ、放送室さん、ついでに生徒会長が心からお待ちしていますと付け足して―――」
-  Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
+Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
 
 }
 [sha:dd749fc8f8f6448e32724f811de5a241104599f7]{
@@ -1064,7 +1064,7 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:5567fee505774163f1ec33f1ae693a7ffc236565]{
 -- Page 62, Offset 1825.
 -- 「そうですね。いつもは夜に呼ばれて、神父さまとだけお話をしていますから。唯架さんとは……
-「Effectivement. D'habitude, on m'appelle la nuit, et je ne fais que discuter avec le prêtre. Avec toi......
+「Effectivement. Parce que d'habitude, on m'appelle la nuit, et je ne fais que discuter avec le prêtre. Avec toi......
 
 }
 [sha:2a8ce923cb730cef023e51f92fdd4b999c934d23]{
@@ -1460,7 +1460,7 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:c3f3a104bc16cf1ede3901d0f248bee4c10109a5]{
 -- Page 83, Offset 1891. Glued. Mods: @x.
 -- 抜けている、とも言う。
- On pouvait même dire qu'elle manquait de retenue.
+On pouvait même dire qu'elle manquait de retenue.
 
 }
 [sha:bfc44d8e309f256bbeee9cff802b6c56c8aaf2fa]{
@@ -1646,7 +1646,7 @@ voyons voir, je m'appelle Hanasawa, et toi ?」
 [sha:842bc8ec7058b16417553ce8b94328ee7d5c4065]{
 -- Page 93, Offset 1922. Glued. Mods: @x.
 -- 花澤さん、すごいですね？　さっきからあまりにも的確なあてずっぽうです」
-Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
+ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
 
 }
 [sha:eccf0ba1aa4a66669fab098749b731910aa507bd]{
@@ -1670,7 +1670,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:57979f9ae773822162edf20369383744ad522f55]{
 -- Page 94, Offset 1926. Glued. Mods: @x.
 -- ……んー、まあ、学生さんが生活費も学費も自分だけで賄う、なんてのは健全じゃないんだけど」
-...... Hmm, même si ce n'est pas très sain qu'un étudiant ait à se charger des frais quotidiens et scolaires par lui-même.」
+ ...... Hmm, même si ce n'est pas très sain qu'un étudiant ait à se charger des frais quotidiens et scolaires par lui-même.」
 
 }
 [sha:5766cd92a0c378d20419071b2c2b3c73db5916f9]{

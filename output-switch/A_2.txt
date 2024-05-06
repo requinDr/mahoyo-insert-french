@@ -151,7 +151,7 @@
 [sha:38785db0ccb899dacdb8b6afb1648e2695bf4e53]{
 -- Page 7, Offset 14693.
 -- 青子が陶川の支点に向かう時、草十郎はロビーまで見送った。
-  Lorsqu'Aoko s'était rendue au pivot de Tōgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
+  Lorsqu'Aoko s'était rendue au pivot de Tôgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
 
 }
 [sha:f32bee439cfcf1b7a4dffba4e4e52abf11dfcddd]{

@@ -145,7 +145,7 @@
 [sha:190b0e2e5d39c52419ee38d5ac1cde198ff63af2]{
 -- Page 5, Offset 15584.
 -- “いいから黙っていて”と。
-“Ne dis rien”, insinuait-il.
+  “Ne dis rien”, insinuait-il.
 
 }
 [sha:a3b2c0dee189c793bcf28646c7bd39c8c6b1e07a]{

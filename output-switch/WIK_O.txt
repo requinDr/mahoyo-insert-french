@@ -169,13 +169,13 @@
 [sha:fe4e3b0404667911117c71362473ffb3a5927405]{
 -- Page 5, Offset 22846. Glued. Mods: @x, @n.
 -- とても名前を口に
- une autre à
+une autre à
 
 }
 [sha:d1275cdebf3bc6f650f3ae8d006cfd12914420ca]{
 -- Page 5, Offset 22847. Glued. Mods: @n.
 -- できない人に一枚」
- Celle-Dont-Je-Ne-Peux-Vraiment-Pas- Prononcer-Le-Nom.」
+Celle-Dont-Je-Ne-Peux-Vraiment-Pas-Prononcer-Le-Nom.」
 
 }
 [sha:57478374f36a0f3559bf83a88d60df8fd6e2623f]{
@@ -205,7 +205,7 @@
 [sha:341d7eb9eb2fec9a94d8c885637989e2d0ea2fba]{
 -- Page 7, Offset 22852.
 -- 「橙子ね。橙子を呼びつけたのはアンタだったのね！」
-「C'est Tōko, c'est ça ? C'est toi qui as invité Tōko à la fête, hein ?!」
+「C'est Tōko, c'est ça ? C'est toi qui as invitéé Tōko à la fête, hein ?!」
 
 }
 [sha:07d5dce45dde134cea839d8de2aedd7ca10027bf]{

@@ -211,7 +211,7 @@
 [sha:a4570f8b675ff446f4300930a7fd270788a852e4]{
 -- Page 10, Offset 7839. Glued. Mods: @x.
 -- って、そんなの後でいっか」
- Bah, je pourrai te l'expliquer après.」
+Bah, je pourrai te l'expliquer après.」
 
 }
 [sha:7ce664d7a1d4f6d3473a26fe4d8d742c25859f18]{
@@ -997,7 +997,7 @@ La tienne était seulement destinée à la séquestration et à être jetée apr
 [sha:03d595c7e445cfd6413a066185eff6e1b8f366a8]{
 -- Page 48, Offset 7970. Glued. Mods: @x.
 -- それと、ぶっそうな蒼崎の声、聞こえてたぞ」
- Et aussi, j'ai entendu ta voix menaçante, Aozaki.」
+Et aussi, j'ai entendu ta voix menaçante, Aozaki.」
 
 }
 [sha:a2bb47ec5d687dfc6afba8f8b73d740e72a2f2f5]{
@@ -1087,13 +1087,13 @@ Mais c'est vrai que je voulais que tu le réalises clairement, et pas seulement 
 [sha:ccb6fc1b8b38d4eb931e85a0aee8cdab4f2a5723]{
 -- Page 53, Offset 7985. Glued.
 -- そんなのあったに決まってるでしょ！
- Évidemment que j'en avais l'intention !
+Évidemment que j'en avais l'intention !
 
 }
 [sha:3c66582a05e4bebbacd1a4120effe20a0e4f4eca]{
 -- Page 53, Offset 7986. Glued. Mods: @x.
 -- コイツがなんて言ったか知らないけど、ぜったい意味違うから！
-  Je ne sais pas ce qu'il a dit, mais tu l'as forcément mal interprété !
+Je ne sais pas ce qu'il a dit, mais tu l'as forcément mal interprété !
 
 }
 [sha:a3a5e22f02ad28befd9e2f2496a0b3f86ce6b810]{
