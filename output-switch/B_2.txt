@@ -1,0 +1,318 @@
+[sha:4735ae2478bc7d7cf7a1c6c7435e30b925a6a380]{
+-- Page 0, Offset 15560.
+-- 深夜にも拘わらず、教会には明かりが灯っていた。
+  En dépit de l'heure tardive, il y avait de la lumière dans l'église,
+
+}
+[sha:be4345cfbaec2f9c44139a11b5ece3040610998a]{
+-- Page 0, Offset 15561.
+-- 本来、不慮の事故にそなえて眠らずの番である病院には、<仄暗|ほのぐら>い明かりが正面玄関に灯るのみ。
+  tandis que l'entrée de l'hôpital était à peine éclairée, alors qu'il devait veiller et se préparer à tout accident imprévu.
+
+}
+[sha:0d9bb71e22c96cefb114d16760a23572dcf099ee]{
+-- Page 0, Offset 15562.
+-- 娯楽の少ない田舎の町である。
+  Ils se trouvaient dans le quartier d'Aida, lieu presque dépourvu de divertissements.
+
+}
+[sha:42adac98a66ab1d667636d10dc58a556c2351046]{
+-- Page 0, Offset 15563.
+-- 深夜の急患はそれこそ一日に一人いるかいないかで、
+  Les cas d'urgence en pleine nuit étaient très rares,
+
+}
+[sha:8fd64403a5504b5c8093a173f050c10e6cf4f2e8]{
+-- Page 0, Offset 15564.
+-- 今夜はただ、その一人が病院の手には負えない重傷者であっただけの話だ。
+  et cette fois, la blessée grave ne pouvait être prise en charge par l'hôpital.
+
+}
+[sha:83a3fc9564faa3bcdbeb3af04d200b8fee9f7169]{
+-- Page 1, Offset 15565.
+-- 時刻は午前一時前。
+  Il était presque une heure du matin.
+
+}
+[sha:ab0aaa567d7a79afcda35a03e896c38a9e76f053]{
+-- Page 1, Offset 15566.
+-- 自転車を外に止めて、ふたりは教会に向かう。
+  Ils stoppèrent la bicyclette à l'extérieur et se dirigèrent vers l'église.
+
+}
+[sha:6f35a027faacf2f4f7fedb29d1509a32f7e67ff7]{
+-- Page 1, Offset 15567.
+-- 雪をかぶり、闇夜の中でもはっきりと浮かび上がる三角屋根の建物。
+  Couvert de neige, le bâtiment au toit triangulaire se dessinait clairement dans la nuit noire.
+
+}
+[sha:8280824de04e5191d95cdd8ed5df613a36a22a0c]{
+-- Page 1, Offset 15568.
+-- その入り口に、背の高い影が立っていた。
+  Une grande silhouette se tenait devant l'entrée.
+
+}
+[sha:3ab1d47776cb27570527e251f7dc753d4ab52678]{
+-- Page 2, Offset 15569.
+-- 「久遠寺さん」
+「Mlle Kuonji.」
+
+}
+[sha:18b5aff0af238dfb8e3cded3b1e7bea60c1a7400]{
+-- Page 2, Offset 15570.
+-- 落ち着いた男性の声。
+  dit une voix masculine posée.
+
+}
+[sha:c819e9bd8b15916b894d349ad2aba591b9b42e06]{
+-- Page 2, Offset 15571.
+-- マントのような<外套|がいとう>を羽織った男は、入り口で有珠を待っていた。
+  L'homme portait un manteau ressemblant à une cape et attendait Alice à l'entrée.
+
+}
+[sha:f8847195ef5a1e763e4a66e924032a730f0e6e14]{
+-- Page 3, Offset 15572.
+-- 「<詠梨|えいり>神父。青子は―――」
+「Père Eiri. Aoko―――」
+
+}
+[sha:77a18cb0807929bd87fc4ca0c0d4393ad9a72ad7]{
+-- Page 3, Offset 15573.
+-- 「<唯架|ゆいか>が診ています。私が駆け付けた時には手遅れでした。
+「Yuika l'examine. Lorsque je suis arrivé sur place, il était déjà trop tard.
+
+}
+[sha:ccd56057ac02dd891db48e7b5bc7d83c91b9c188]{
+-- Page 3, Offset 15574.
+-- 蒼崎の家に伝令を願いたいのですが」
+  Je souhaiterais envoyer un messager à la famille Aozaki, mais...」
+
+}
+[sha:c23636eedf195ee4969f5b3fa004ece859316173]{
+-- Page 3, Offset 15575.
+-- 「……青子はそれを望まないわ。それに、あちらも今は城に捕らわれているそうです。今夜の相手は、真っ先に青子の祖父の動きを封じたようですから」
+「...... Aoko ne le voudrait pas. Et de toute façon, il est déjà captif dans son “château”. Notre adversaire s'est d'abord assuré d'emprisonner le grand-père d'Aoko.」
+
+}
+[sha:aae0614fcb53c2036367c62192aa414899379ce2]{
+-- Page 4, Offset 15576.
+-- 断片的な言葉が交わされる。
+  Ils échangeaient des informations fragmentaires.
+
+}
+[sha:e81c21d563bae17c1b30b17ea87ddb71532241dc]{
+-- Page 4, Offset 15577.
+-- 草十郎は階段の手前から動かない。
+  Sōjūrō restait immobile devant les escaliers.
+
+}
+[sha:25033a3c3989594d96a9c0c7cca7760a128f38cf]{
+-- Page 4, Offset 15578.
+-- 「おや……そちらは？」
+「Tiens...... Qui est cette personne ?」
+
+}
+[sha:bb9dca2f87963b32558d2f4947f6ab2fbd8e2d37]{
+-- Page 4, Offset 15579.
+-- 落ち着いていた男の声が、かすかに<険|けん>を含む。
+  Bien que sa voix soit calme, les paroles de l'homme se montraient hostiles.
+
+}
+[sha:48d7c40da0ea2782bc3f58b4dc5072b432b47606]{
+-- Page 4, Offset 15580.
+-- その視線から草十郎を庇うように、有珠は男の前に歩みでた。
+  Alice se plaça devant ce dernier comme pour protéger Sōjūrō de son regard.
+
+}
+[sha:4e90c06944b8955704b1f93fb84263238d8afae3]{
+-- Page 5, Offset 15581.
+-- 「……彼は青子の使い魔。契約はまだ成されていないけれど」
+「...... C'est le familier d'Aoko. Mais ils n'ont pas encore passé de contrat.」
+
+}
+[sha:17fff8175e3d01035ca088b70d95f7e9a97a4286]{
+-- Page 5, Offset 15582.
+-- 「使い魔って、有珠」
+「Un familier ? Alice !」
+
+}
+[sha:aa1358092df43586da2881a0108b785414d94187]{
+-- Page 5, Offset 15583.
+-- 文句を言いかける草十郎に、有珠は火のような視線を向ける。
+  Alice lança un regard de braise à Sōjūrō qui était sur le point de protester.
+
+}
+[sha:190b0e2e5d39c52419ee38d5ac1cde198ff63af2]{
+-- Page 5, Offset 15584.
+-- “いいから黙っていて”と。
+  “Ne dis rien”, insinuait-il.
+
+}
+[sha:a3b2c0dee189c793bcf28646c7bd39c8c6b1e07a]{
+-- Page 6, Offset 15585.
+-- 「そうですか。そのような申告はありませんでしたが、届けが遅れたのは不問としましょう。
+「Vraiment ? Nous n'avons reçu aucune information là-dessus. Cela dit, je fermerai les yeux sur le retard à ce sujet.
+
+}
+[sha:1ff6bf6f6f33adc642a6f35040c417b648cf805f]{
+-- Page 6, Offset 15586.
+-- 外部の魔術師と交戦中でしたからね。貴女たちはその撃退を最優先にした、という事で」
+  Après tout, vous livriez bataille contre un Mage venu de l'extérieur. J'imagine que le repousser passait avant toute autre chose.」
+
+}
+[sha:88286ff49c8f1319a45d31a88bd10cc19039a988]{
+-- Page 6, Offset 15587.
+-- 神父の返答に、有珠は少しだけ頭を下げた。
+  Alice hocha légèrement la tête en réaction à la réponse du prêtre.
+
+}
+[sha:c92e1f6ac94645cf201ed85e7d675c7d185a0196]{
+-- Page 7, Offset 15588.
+-- 「では通ります。……彼の同行を許可しなさい」
+「Très bien, nous entrons. ...... Donnez-nous la permission qu'il m'accompagne.」
+
+}
+[sha:b2c5ece21d478fd8d9b8fe9e55f8af8cad93c6e3]{
+-- Page 7, Offset 15589.
+-- 「ご自由に。私はこれより調停に向かいます。管理者が替わるのなら、両<組織|きょうかい>への資料を用意しなければいけませんので。
+「À votre guise. Je me rends à la commission médiatrice. Si l'administrateur change, je dois préparer les documents pour l'Église et l'Association.
+
+}
+[sha:d9027e92bdfe5b1b0e4ccc139dd10c4ee1d23250]{
+-- Page 7, Offset 15590.
+-- ああ、留守中は<律架|りつか>に任せてありますから、必要なものがあれば彼女に」
+  Ah, Ritsuka gardera l'église pendant mon absence, si vous avez besoin de quoi que ce soit, faites appel à elle.」
+
+}
+[sha:f8d5a9c77b5ab30a744504f2fe4cea98dee6484c]{
+-- Page 8, Offset 15591.
+-- 詠梨神父と呼ばれた人物は、ふたりと入れ替わるように教会の敷地から外に出た。
+  L'individu dénommé père Eiri sortit de l'enceinte de l'église, où pénétrèrent les deux jeunes gens.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 8, Offset 15592.
+-- 「………………」
+「..................」
+
+}
+[sha:18f439c49591c167b4b43160ee37f79fe24e6716]{
+-- Page 8, Offset 15593.
+-- つられて、草十郎はきっかり<二間|にけん>ばかりの距離、おおげさに後退した。
+  Sōjūrō se calqua sur ses mouvements et recula avec exagération en parcourant une distance de deux mètres.
+
+}
+[sha:95f71c64d6e434412f86accc60da41a178b1894f]{
+-- Page 9, Offset 15594.
+-- 通り過ぎていく間、神父の風貌が明確になる。
+  Lorsqu'il passa devant lui, l'allure du prêtre lui apparut distinctement.
+
+}
+[sha:9388f24e8191ae036a2c5ca33c9a6079d3688a37]{
+-- Page 9, Offset 15595.
+-- 一言、美しい男だった。
+  En quelques mots, c'était un bel homme.
+
+}
+[sha:9e1ac147a954cfc2b3d47ab0bd1713332b595773]{
+-- Page 9, Offset 15596.
+-- すっと通った<鼻梁|びりょう>と、<艶|つや>を持った唇。
+  Il avait un nez droit et des lèvres lisses.
+
+}
+[sha:97c7ed08448adf72695c3b6910a3f5970676c8bb]{
+-- Page 9, Offset 15597.
+-- 一点の歪みもない<面|おもて>は中性的ですらある。
+  Ses traits parfaits semblaient même neutres.
+
+}
+[sha:aa1865f54193b18b012caa19ce6b75b5dcee7967]{
+-- Page 9, Offset 15598.
+-- もっとも、それは外見だけの話で、神父の立ち振る舞いには女性らしい柔らかさは微塵もない。
+  Cependant, cela ne concernait que son apparence, car ses manières ne laissaient pas entrevoir la moindre douceur féminine.
+
+}
+[sha:e5ff09212e0af89bce50a3e62c967a4cce5ae2e2]{
+-- Page 9, Offset 15599.
+-- 鍛えられた<鋼|はがね>を思わせる、頼りになるが近寄りがたい、そんな雰囲気を持っていた。
+  Il évoquait de l'acier forgé. Fiable, mais dangereux à approcher. Voilà l'aura qu'il dégageait.
+
+}
+[sha:6274b79837c2b975678556c5ffbdda93e6da02af]{
+-- Page 10, Offset 15600.
+-- 神父は足音もたてず、黒い外套で月光をはじくように闇夜に消えていく。
+  Sans un bruit de pas, le prêtre disparut dans la nuit noire comme s'il repoussait le clair de lune de son manteau noir.
+
+}
+[sha:6654d742ea24d3bb87a058f0a0f7e0c421a330fb]{
+-- Page 10, Offset 15601.
+-- その後ろ姿を呆然と草十郎は見送った。
+  Sōjūrō accompagna d'un regard abasourdi sa silhouette.
+
+}
+[sha:8e06c777fd3c44387c31ddf17eebae78fa6138b4]{
+-- Page 11, Offset 15602.
+-- 「……なんか、仙人みたいな人だな」
+「...... On dirait un ermite.」
+
+}
+[sha:8ce31a656a98bd910b640c9d53015907191d75c5]{
+-- Page 11, Offset 15603.
+-- 呟きには草十郎なりの親しみがあった。
+  Le murmure de Sōjūrō contenait une certaine sympathie.
+
+}
+[sha:a455a04bea7a3159dda2df6032dbee6577d65d30]{
+-- Page 11, Offset 15604.
+-- 他人を寄せ付けない雰囲気の詠梨神父に、どことなく懐かしいものを感じたらしい。
+  Il semblait avoir ressenti quelque chose de nostalgique chez le prêtre, malgré sa prestance qui le rendait difficile à approcher.
+
+}
+[sha:4d1282f5332a6dc49fc67c32875a38edf7cb7897]{
+-- Page 11, Offset 15605.
+-- 一方。そんな草十郎に、有珠は厳しい視線を向ける。
+  Quant à Alice, elle lança un regard sévère à Sōjūrō.
+
+}
+[sha:1bc671c70abd341422144e12e8136fe3d44eceac]{
+-- Page 12, Offset 15606.
+-- 「気を許さないで。彼は教会の人間よ。
+「Ne baisse pas ta garde. C'est un homme de l'Église.
+
+}
+[sha:0fe71c558cbbdf9bcfef1c1a347d093cdca04c66]{
+-- Page 12, Offset 15607.
+-- わたしたちを監視する側だけど、今回は彼の手を借りるしかなかっただけ。
+  Il est du côté de ceux qui nous observent, mais cette fois, nous n'avons simplement pas eu d'autre choix que de lui demander de l'aide.
+
+}
+[sha:8e9f08610c922687034c0410edeffb662c075037]{
+-- Page 12, Offset 15608.
+-- ……許されるなら、真っ先に消えてほしい人間だから」
+  ...... Si je pouvais choisir, ce serait la première personne que j'aimerais voir disparaître.」
+
+}
+[sha:b4902306300506528a1403055dcb79ff0313f88c]{
+-- Page 13, Offset 15609.
+-- <呪詛|じゅそ>とも取れる呟きを残して、有珠は礼拝堂の扉に手をかけた。
+  Alice lâcha un murmure pouvant être interprété comme une malédiction avant de poser la main sur la porte de la chapelle.
+
+}
+[sha:1bec0bc52849777752d5f3a0657a50852069cc2f]{
+-- Page 13, Offset 15610.
+-- 扉は有珠より二倍ほど高く、重そうな両開きだ。
+  C'était une double porte pesante, environ deux fois plus grande qu'Alice.
+
+}
+[sha:052ab62e1508b2177d8ad284038176e77d096aa5]{
+-- Page 13, Offset 15611.
+-- 有珠ひとりでは開けられそうにない。
+  La jeune fille ne pourrait probablement pas l'ouvrir à elle toute seule.
+
+}
+[sha:d34d33539b6cbcf60900c9f2f1c599ce184bd284]{
+-- Page 13, Offset 15612.
+-- 草十郎は階段を三段飛ばしで通過して、有珠と共に扉を押した。
+  Sōjūrō monta les marches de l'escalier trois par trois et la poussa avec elle.
+
+}

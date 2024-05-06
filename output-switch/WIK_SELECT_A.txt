@@ -1,0 +1,24 @@
+[sha:bf41ca93f70e8cb6c756b40b8cdf4d483f7c0a6d]{
+-- Page 43, Offset 23620. Mods: @e.
+-- ～選択肢Ａ～
+-Choix A-
+
+}
+[sha:98ca54cc7da3c91235ece30cd8725891f02f1e1a]{
+-- Page 43, Offset 24015. Choice.
+-- それは何か、不吉な兆しなのでは、と思った。
+Je songeai à une sorte de mauvais présage.
+
+}
+[sha:9697a77103bead64355158d4f4ae6187d4ea6573]{
+-- Page 43, Offset 24016. Choice.
+-- 鍵はいつも開けっ放しなのか、と思った。
+Je songeai que laisser ouvert n'était pas très prudent.
+
+}
+[sha:8c30b926394d2473b1fb8515040f031d2cc9adb3]{
+-- Page 43, Offset 24017. Choice.
+-- これならひとりでも入れるな、と思った。
+Je songeai que j'aurais pu aisément venir seule.
+
+}

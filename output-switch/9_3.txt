@@ -1,0 +1,570 @@
+[sha:52fa4d2eaf14129fa0bc75fd8442b7b77b52d2f7]{
+-- Page 0, Offset 13217.
+-- それから二十分ほど後。
+  À peu près vingt minutes plus tard,
+
+}
+[sha:fb2e0d8dfb8208fcdcfb506184c48b5c9a4ce75c]{
+-- Page 0, Offset 13218.
+-- 青子と有珠は外出の支度を済ませ、居間にいる草十郎に声をかけた。
+  Aoko et Alice saluèrent Sōjūrō dans le salon après s'être habillées pour sortir.
+
+}
+[sha:6d5c950d95d59c060e710cdca2bb4ac964ae7847]{
+-- Page 1, Offset 13219.
+-- 「それじゃ出かけてくるからアンタもバイト―――草十郎？」
+「Allez, on y va. Toi, travaille bi―――Sōjūrō ?」
+
+}
+[sha:1d0772c73e133b6664f3c00415cd205d6f456cf9]{
+-- Page 1, Offset 13220.
+-- 立ち寄ったふたりに気付かず、草十郎はなにやらテレビの前にしゃがみこんでいる。
+  Sōjūrō était accroupi devant la télévision, n'ayant pas remarqué la présence des deux filles.
+
+}
+[sha:fd2e45ca3f4aee762eef9fe3ddbf779d4ee99031]{
+-- Page 1, Offset 13221.
+-- 「もしかして、ビデオいじってるの？」
+「Tu ne serais pas en train de trifouiller le magnétoscope ?」
+
+}
+[sha:d17662ccc01493b71e27290e25e9eda3f8cad300]{
+-- Page 2, Offset 13222.
+-- 「ああ、ちょうど良かった。蒼崎、これ―――」
+「Ah, tu tombes bien. Aozaki, ça―――」
+
+}
+[sha:dd61984aacfd1b94487f38f0773b1f7107cadd9c]{
+-- Page 2, Offset 13223.
+-- 作業を中断し、青子たちに振り向く草十郎。
+  Sōjūrō s'interrompit dans sa tâche et se retourna vers Aoko et Alice.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 3, Offset 13224.
+-- 「――――――」
+「――――――」
+
+}
+[sha:a822cf9d81481caac78c5b7d663b8f74e654c969]{
+-- Page 3, Offset 13225.
+-- 振り向いて、驚きのあまり言葉を失った。
+  Une fois retourné, sa surprise fut telle que les mots lui manquèrent.
+
+}
+[sha:2abc73bccb19aac7074eae4f16031e9771675e6c]{
+-- Page 4, Offset 13226.
+-- 「？　私たち、お言葉に甘えて出かけてくるけど……どうしたのよ、一体。<棚|たな>の後ろに落とし物でもしたの？」
+「? Puisque tu nous l'as si gentiment proposé, on sort...... Qu'y a-t-il ? Tu as fait tomber quelque chose derrière l'étagère ?」
+
+}
+[sha:379aaeb515230fc4ddf2e463e3f0307a4aad869c]{
+-- Page 4, Offset 13227.
+-- 固まっている草十郎を青子は不思議そうに見る。
+  Aoko regardait Sōjūrō, figé sur place, d'un air étonné.
+
+}
+[sha:a489ea6da57800b231fcb9790ffd65c5f49d8e42]{
+-- Page 4, Offset 13228.
+-- その挙動不審さに有珠もうんうん、と無言で同意した。
+  Son comportement suspect entraîna un avis similaire chez Alice qui acquiesçait en silence.
+
+}
+[sha:7ce8184bc282615a47b87e14921fdcac30b340b1]{
+-- Page 4, Offset 13229.
+-- ……実際、頷いてはいなかったが。
+  ...... En réalité, elle n'avait pas acquiescé, mais passons.
+
+}
+[sha:3f2f2d88b8e202fa721f7de1ab6bbc7a3c2b0bff]{
+-- Page 5, Offset 13230.
+-- 「―――いや。
+「―――Non.
+
+}
+[sha:0346550ce540d40ba87e973ef79889bdc42bc69c]{
+-- Page 5, Offset 13231. Mods: @n.
+-- なんか、
+  C'est juste que,
+
+}
+[sha:88c6772954fc49c14fb86d8a159738e41773a32f]{
+-- Page 5, Offset 13232. Glued.
+-- こう」
+ eh bien...」
+
+}
+[sha:c5f7c5b77de4580396c85b9e4a659d27c32c08b7]{
+-- Page 5, Offset 13233.
+-- すごく驚いたんだ、と続くところを、草十郎は喉を絞めて押し伏せた。
+  Sōjūrō s'étrangla au moment où il voulut préciser qu'il avait été énormément surpris.
+
+}
+[sha:0eba3dde6127cd2fa3cb5215f5cec2996dd30619]{
+-- Page 5, Offset 13234.
+-- その驚きが感動に由来するものである事を、彼はまだ知り得なかったからである。
+  Il ne pouvait pas encore savoir que sa stupeur venait d'un choc émotionnel.
+
+}
+[sha:2f43fdee30421748f1ad6c5d3bb43ee2b6579a05]{
+-- Page 6, Offset 13235.
+-- 「それじゃ分からないってば。
+「Je pige rien à ce que tu racontes.
+
+}
+[sha:60bd05438f320b998fd8878187990a9893e72de9]{
+-- Page 6, Offset 13236.
+-- まったく、落ち着いてるクセに妙に挙動不審なんだから。有珠に<煙|けむ>たがられても仕方ないって言うか―――」
+  Non mais je te jure. Tu es imperturbable, et pourtant, ton comportement est drôlement suspect. Pas étonnant qu'Alice garde ses distances―――」
+
+}
+[sha:5b2d0a8c4dd2286b720a4027f9ccc402eb422a90]{
+-- Page 6, Offset 13237.
+-- 有珠は無言で観察している。
+  Cette dernière observait en silence.
+
+}
+[sha:f48a143928d55b39d4dfaa25a551578da0f4406a]{
+-- Page 6, Offset 13238.
+-- あわてるのでもなく、ぼんやりするのでもなく、こんな風に固まる草十郎を見るのは初めてだったからだ。
+  En effet, c'était la première fois qu'elle voyait Sōjūrō figé, et non pas affolé ou distrait.
+
+}
+[sha:fb02266cdf1afdd7134c0a8a9b623ce74a53f028]{
+-- Page 7, Offset 13239.
+-- 「それで、何かあったの？」
+「Alors, qu'est-ce qui s'est passé ?」
+
+}
+[sha:dedebf572b6d795fc322ab3541bfc60a70494b53]{
+-- Page 7, Offset 13240.
+-- 「ああ、いや―――これなんだけど。
+「Ah, euh―――c'est à propos de ça.
+
+}
+[sha:716a616325bccee8b9650f8b32092553a9cf94ef]{
+-- Page 7, Offset 13241.
+-- 蒼崎、ビデオってどう使うんだ？」
+  Aozaki, comment on utilise un magnétoscope ?」
+
+}
+[sha:19ad33626192e518263a31e38674bbfaca720a6d]{
+-- Page 7, Offset 13242.
+-- 動揺が顔に出ないよう気を取り直し、草十郎はビデオデッキを指さした。
+  Après s'être ressaisi pour éviter d'afficher son émoi, Sōjūrō pointa l'appareil du doigt.
+
+}
+[sha:543fa636eaed305e1c1ecf02f219d8a1943e4e88]{
+-- Page 7, Offset 13243.
+-- テレビの下にはＶＨＳ型のビデオデッキが置かれている。
+  Sous la télévision se trouvait un magnétoscope de type VHS.
+
+}
+[sha:ea37f843c9b332b9c37f1033bca575e269769a05]{
+-- Page 8, Offset 13244.
+-- 「なに、タイマー録画でもするの？」
+「Quoi ? Tu veux programmer un enregistrement ?」
+
+}
+[sha:77624d3146377c84fb7d0a79927480850a554baa]{
+-- Page 8, Offset 13245.
+-- 青子はテレビの前でしゃがんでいる草十郎のとなりへ歩いていく。
+  Aoko s'approcha du jeune homme accroupi devant la télé.
+
+}
+[sha:80263cf003df3d57b0468a70779b02f3f10fd91d]{
+-- Page 9, Offset 13246.
+-- 「いや、木乃美からビデオを借りたんだけど、映らない」
+「Non, j'ai emprunté une vidéo à Kinomi, mais ça ne s'affiche pas.」
+
+}
+[sha:96b4272c392223092973a5411e4f092cbefb624a]{
+-- Page 9, Offset 13247.
+-- 「……まず、テレビの電源が入ってない」
+「...... D'abord, la télé n'est même pas allumée.」
+
+}
+[sha:82b0bbb122987dcd55c46aa2cdca25129a9f006a]{
+-- Page 10, Offset 13248.
+-- ぱちり、と音を立ててブラウン管に光がともる。
+  L'écran s'alluma avec un bruit de claquement.
+
+}
+[sha:d6707d0141398bf3f7b31ead1657c95155f7da3f]{
+-- Page 11, Offset 13249.
+-- 「次、チャンネルを外線に合わせて……
+「Ensuite, tu le règles sur la chaîne externe......
+
+}
+[sha:10bb4abfe0ff9bb78c027f0abc6a8118f9065b77]{
+-- Page 11, Offset 13250.
+-- あら、意外にも真っ黒。木乃美くんの事だからテープ頭から録画してると思ったけど」
+  Oh ? Je ne m'attendais pas à un écran noir. Connaissant Kinomi, j'aurais cru qu'il enregistrerait depuis le début de la cassette.」
+
+}
+[sha:d0dae874fff0bb548cdc6cb934f2bc883a769b80]{
+-- Page 11, Offset 13251.
+-- この時代、ビデオテープはそれなりに高価である。
+  À cette époque, les cassettes vidéo coûtaient relativement cher.
+
+}
+[sha:01de40b917c280f976e3c00c09a66a4d12421f52]{
+-- Page 11, Offset 13252.
+-- 120分の記録容量をフルに使うため、せっかちな人間なら一秒も無駄にしたがらないのが常だった。
+  Une personne impatiente utilisait la capacité d'enregistrement de 120 minutes dans sa totalité et n'en gaspillait donc pas une seule seconde.
+
+}
+[sha:2ea47034965b37c2352be92db96970ecdd73990b]{
+-- Page 12, Offset 13253.
+-- 「わりと趣味には気を遣う性格なのね。じゃ、早送りっと」
+「Il est donc du genre à être précautionneux pour ses passe-temps. Dans ce cas, avance rapide...」
+
+}
+[sha:05dd2f12f98700223a35df929741f234b1d5ce72]{
+-- Page 12, Offset 13254.
+-- 小さなリモコンを手にとって、青子はささっと早送りボタンを押す。
+  Aoko prit la petite télécommande et pressa immédiatement le bouton d'avance rapide.
+
+}
+[sha:44e983b6d2f3458381521ba7e01ad8114f2a29b8]{
+-- Page 12, Offset 13255.
+-- 「ん？」
+「Hm ?」
+
+}
+[sha:2ad5c773e9c76d0ccb571f80674048c2bb608c73]{
+-- Page 12, Offset 13256.
+-- ビデオデッキからの反応はない。
+  Le magnétoscope ne produisit aucune réaction.
+
+}
+[sha:6939742ecbed44e9d12fbef45b798cdf11ae3df7]{
+-- Page 12, Offset 13257.
+-- ガチャンガチャン、と内部でモーターの空回る音がする。
+  On entendait le moteur tourner à vide dans l'appareil.
+
+}
+[sha:ebc0670c07cd15002162d42b0332757b754b2b7e]{
+-- Page 13, Offset 13258.
+-- 「……壊してないぞ、たぶん」
+「...... Je ne l'ai pas cassé. Je crois.」
+
+}
+[sha:68fd9c781c39960bd500bb7471f9d748d2067b30]{
+-- Page 13, Offset 13259.
+-- そういう事を言う人間の多くが電気機器を破壊する特殊技能を有しているのだが、それは置いておいて。
+  Les personnes qui s'expriment ainsi ont en général la capacité spéciale de détruire les objets électroniques, mais passons.
+
+}
+[sha:c70e1f5022218b83f30cfe44b3b1c3b6b1dc3115]{
+-- Page 14, Offset 13260.
+-- 「……おまけに、テープが入ってない」
+「...... En plus de ça, la cassette n'est pas à l'intérieur.」
+
+}
+[sha:4f745c8f755cd883605ce5674d643b37ded0cab3]{
+-- Page 14, Offset 13261.
+-- 青子はトドメとばかりに言い捨てた。
+  lâcha Aoko comme pour lui donner le coup de grâce.
+
+}
+[sha:c772f5aaa456e528d5ad4c07c3de44d38e803819]{
+-- Page 14, Offset 13262.
+-- 「テープ？」
+「La cassette ?」
+
+}
+[sha:662aa39c286bdc76261fefad55055813a94c1932]{
+-- Page 14, Offset 13263.
+-- 両面か？　などとベタな思案をする草十郎。
+  Du restaurant ? pensa stupidement Sōjūrō.
+
+}
+[sha:5cbb03640d54f9b0748d857f002b5be13f16684d]{
+-- Page 15, Offset 13264.
+-- 「草十郎。木乃美くんから、何か渡されなかった？」
+「Sōjūrō. Kinomi ne t'a pas remis quelque chose ?」
+
+}
+[sha:97f6cc4cc1570493eab737bc557d484e63c6f19e]{
+-- Page 15, Offset 13265.
+-- 「渡されたけど。ほら、テーブルの上」
+「Euh, si. Regarde, sur la table.」
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 15, Offset 13266.
+-- 「……………………」
+「........................」
+
+}
+[sha:e07a898ac4df73440b8b7e296d789e147b4cf8e0]{
+-- Page 15, Offset 13267.
+-- 慣れたとはいえ、時々こいつわざとやってるんじゃないのか、と疑うほどのボケっぷりだった。
+  Elle avait beau s'y être habituée, il se montrait parfois tellement nigaud qu'elle le soupçonnait de le faire exprès.
+
+}
+[sha:43194d667cc4f11c2812c9b5f008372b8eb9e18c]{
+-- Page 16, Offset 13268.
+-- 「木乃美くんがなんて言ったか、覚えてる？」
+「Sōjūrō. Tu te rappelles de ce qu'a dit Kinomi ?」
+
+}
+[sha:aebcb40a89bfb42f8d92cf3d25148de7c75b4ded]{
+-- Page 16, Offset 13269. Mods: @o.
+-- 「テープ貸してやるから、家に帰ったらビデオを見ろ、と……」
+「“Je te prête cette cassette. En rentrant chez toi, regarde la vidéo......”」
+
+}
+[sha:8eace933c652e7d7377a020139de2086affa7caf]{
+-- Page 17, Offset 13270.
+-- 「一番大事な言葉が抜けてたワケね。
+「Il manquait donc les instructions les plus importantes...
+
+}
+[sha:31938ce6fb0cd4986ecb862bc491421b87c7f44d]{
+-- Page 17, Offset 13271.
+-- ……はあ。失望を通り越して怖くなるわ。あっさり順応しているように見えてこれだものね。どんだけ<綱渡|つなわた>りな毎日送ってんのよ、アンタは」
+  ...... Aaah. Je me sens si découragée que j'en frissonne. À la seconde où on croit que tu commences enfin à t'acclimater à la vie urbaine, voilà ce qui se passe. Tu dois marcher tous les jours sur la corde raide, ma parole !」
+
+}
+[sha:1f5777c38f713877b509365662f9faf51a6c4a6e]{
+-- Page 18, Offset 13272.
+-- ちょっと疲れて、青子は問題のテープを手に取った。
+  Un peu fatiguée, Aoko se saisit de la fameuse cassette.
+
+}
+[sha:88aa7bd26913e7e38e0f38fbb68292a6a003e605]{
+-- Page 18, Offset 13273.
+-- ラベルにはサインペンで『GAKUGAKU動物ランド暗黒大陸編』と書かれている。
+  L'étiquette précisait au stylo-feutre : “Épisode de la terrifiante terre des animaux, l'obscurité du continent”.
+
+}
+[sha:ea127c80aaace8d2507fb196caea47229d1d9367]{
+-- Page 18, Offset 13274.
+-- ……生徒会における木乃美芳助の評価レベルをひとつ下げる青子だった。
+  ...... Aoko rabaissa d'un cran l'estime que le conseil étudiant porterait dorénavant à Kinomi Hōsuke.
+
+}
+[sha:fd15db0365429dfb084f81ae73acfaae36e01671]{
+-- Page 19, Offset 13275.
+-- 「……で、このテープをデッキに入れて、再生すればいいの。ツメは折ってないから、録画ボタンだけは押さないようにね」
+「...... Ensuite, tu mets la cassette dans le magnétoscope, puis tu n'as qu'à appuyer sur lecture. Le loquet n'est pas enclenché, alors fais attention à ne pas appuyer sur le bouton d'enregistrement.」
+
+}
+[sha:3dc06c33c3215f38dd99ad6bff97097ecd88a904]{
+-- Page 19, Offset 13276.
+-- 「ツメとは？」
+「Le loquet ?」
+
+}
+[sha:e8b5a5a772edc2cb5629a811518081233a41fba7]{
+-- Page 20, Offset 13277.
+-- 「ここ。テープの側面にへこみがあるでしょ。これをカバーしているのがツメ。
+「Là, tu vois le creux sur le côté de la cassette ? Ce qui le couvre, c'est le loquet.
+
+}
+[sha:2b9870dadcd36c98ef70a1a7346983f3a2f9bd15]{
+-- Page 20, Offset 13278. Glued. Mods: @x.
+-- これを切り取っておくと、もうそのテープは上書き録画できなくなるのよ。
+Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
+
+}
+[sha:bcc1de8c76d82bcb13ce0d8fafbac8f2b9994cbe]{
+-- Page 20, Offset 13279.
+-- えーと……そうね、喩えるなら授業のノート。
+  Euh...... Voyons, pour faire un parallèle, c'est comme un cahier de cours.
+
+}
+[sha:21ac3cc713ae3cc801a9360e339952c781144551]{
+-- Page 20, Offset 13280.
+-- 大事なものだから、消しゴムで消えないようにフィキサチーフをかけたっていうか。ヒューマンエラーを物理的に防止する、<力技|アナログ>な防御法ってワケ」
+  Vois ça comme si on appliquait un fixatif pour éviter de gommer ce qui est important. En gros, c'est un moyen de protection analogique qui prévient physiquement toute erreur humaine.」
+
+}
+[sha:2246cc94b490c7c004361aaf939c0b174723b0d9]{
+-- Page 21, Offset 13281.
+-- デッキにビデオを入れ、草十郎にリモコンを手渡す。
+  Elle introduisit la cassette dans l'appareil et remit la télécommande à Sōjūrō.
+
+}
+[sha:3afb74f80660b5fd48c28ff46529b2a717f4b6b1]{
+-- Page 21, Offset 13282.
+-- たったこれだけの事でひどく精神力を消耗してしまった。
+  Cette farce avait suffi pour considérablement épuiser son énergie.
+
+}
+[sha:4c2eee9b64393adc26a10cf50f3dbd6899447a50]{
+-- Page 21, Offset 13283.
+-- そんな青子の気苦労も知らず、ピッと再生ボタンを押して喜ぶ草十郎。
+  Sōjūrō pressa joyeusement sur le bouton de lecture sans être conscient de la lassitude d'Aoko.
+
+}
+[sha:ed9abd5401a36bb97ee5c7a71bb7e8fc0a6e5c0b]{
+-- Page 22, Offset 13284.
+-- 「……はあ。前から危なっかしいと思ってたけど、まさかここまでとはね。時代錯誤にも程がある。
+「...... Aaah. Ça faisait un moment que je te trouvais empoté, mais je ne pensais pas que ça atteignait de tels sommets. Tu es vraiment en retard sur ton époque.
+
+}
+[sha:0b5dadbe4cd21f89d688507a9fd3c47a4ab4a17f]{
+-- Page 22, Offset 13285.
+-- アンタ、山で何やってたの？　空手家じゃあるまいし、熊を倒す修業でもしてた、とか言わないでしょうね？」
+  Qu'est-ce que tu faisais dans les montagnes ? Ce n'est pas comme si tu étais un karatéka, alors tu ne vas tout de même pas me dire que tu suivais un apprentissage pour battre des ours ?」
+
+}
+[sha:14b953d8e586c27d2fd0b925c81a086ab4f32165]{
+-- Page 22, Offset 13286.
+-- さすがにこれは嫌味だと分かったのか、草十郎は批難の目を青子に向けた。
+  Même Sōjūrō comprit qu'elle faisait preuve de sarcasme. Il lui adressa un regard de reproche.
+
+}
+[sha:c32c922fbb537db1c1f0ee96ad539b632c2b555b]{
+-- Page 23, Offset 13287.
+-- 「それは、もしかして俺を馬鹿にしてるのか？」
+「Tu me prends pour un imbécile ou quoi ?」
+
+}
+[sha:b2da9d56c49e8f3df58365e1395f7407132c5688]{
+-- Page 23, Offset 13288.
+-- 「心外ね、事実馬鹿にしてるんだけど」
+「Tu m'étonnes, là. Bien sûr que je te prends pour un imbécile.」
+
+}
+[sha:707e264d0af199f75a49cf009a42989510089931]{
+-- Page 23, Offset 13289.
+-- きっぱりと青子は答える。
+  répondit franchement Aoko.
+
+}
+[sha:113bbeed4b0e937e9f66f42bbc96328ad8f00c24]{
+-- Page 23, Offset 13290.
+-- テレビでは問題のワニがむはぁー、とあくびをしているところだった。
+  Le fameux crocodile était justement en train de bâiller à la télévision.
+
+}
+[sha:323afe0364613df4efcf4d938ae995011ff4397c]{
+-- Page 24, Offset 13291.
+-- 「そんな馬鹿な話があるもんか。なんで熊を倒すために修業しなくちゃいけないんだ？」
+「Ne raconte pas de bêtises ! Pourquoi aurais-je besoin de suivre un apprentissage pour battre ces idiots d'ours ?」
+
+}
+[sha:984f814ca555d1b955f793f9ea82e8c9ed6c7cec]{
+-- Page 24, Offset 13292.
+-- ぷいっと顔をテレビに逸らす草十郎。
+  Sōjūrō détourna le regard vers la télévision.
+
+}
+[sha:24600d359e4dc9401dfa04edc8c0b37065a5a815]{
+-- Page 24, Offset 13293.
+-- 彼にしては珍しく怒ったのだが、顔を背けた先で大口を開けるワニの映像と向き合い、びくっと後退したりする。
+  Certes, il s'était mis en colère, ce qui constituait un spectacle rare, mais lorsqu'il se retrouva face à l'image d'un crocodile la gueule grande ouverte sur l'écran, il recula en sursautant.
+
+}
+[sha:bd798077536d64234811e33969f978dd9ae7ff5d]{
+-- Page 25, Offset 13294.
+-- そんな光景を見て、青子は嬉しげに口元を緩めた。
+  À la vue de cette scène, les lèvres d'Aoko, réjouie, se détendirent.
+
+}
+[sha:ea7b495c80d5012140c2adf0d21a19b04bb25df7]{
+-- Page 25, Offset 13295.
+-- この少年はやっぱりこうでなくてはいけない、と安心するように。
+  Je me disais bien qu'il était mieux comme ça, pensa-t-elle, rassurée.
+
+}
+[sha:e618683d8a9591812cff2aa9ae153a7c30446604]{
+-- Page 26, Offset 13296.
+-- 「けど蒼崎。この機械、ずいぶんほこりがつもっているけど、掃除はしていないのか？」
+「Mais dis-moi, Aozaki, cette machine est assez poussiéreuse. Vous ne faites jamais la poussière ?」
+
+}
+[sha:9186b37bb05bde756c36ca302801fe4b75c6070d]{
+-- Page 27, Offset 13297.
+-- 「私はあんまり使わないし、有珠は見ないから今までほっぽってただけよ。
+「Je ne l'utilise pas vraiment, et Alice ne regarde pas la télé, du coup, on ne s'en est pas souvent servies jusqu'à maintenant.
+
+}
+[sha:fb79d6b6b4c62d84311c529388df18efffad9948]{
+-- Page 27, Offset 13298.
+-- ダメもとでトレーニング用に買ってもらったんだけど、飽きちゃった。イメージでどうにかできる問題じゃなかったっていうか」
+  Je l'ai achetée sur un coup de tête pour faire de l'aérobic, mais je m'en suis vite désintéressée. Ce n'était pas un problème que je pouvais résoudre simplement en regardant des images...」
+
+}
+[sha:ef5cef937c11c020eb7f039538cb7e2798a66ed0]{
+-- Page 28, Offset 13299.
+-- 昔の自分の浅はかさを<嗤|わら>うように、青子は両肩をすくめる。
+  Aoko haussa les épaules, comme si elle se moquait de son ancienne naïveté.
+
+}
+[sha:b6d3153314be588c64a9807c64263085d7914feb]{
+-- Page 28, Offset 13300.
+-- またひとつ、ビデオデッキは飽きるもの、という間違った単語を覚える草十郎である。
+  Sōjūrō, lui, se méprit à nouveau sur le réel sens de ses paroles : le magnétoscope était quelque chose dont on se lassait.
+
+}
+[sha:056f18242c793e6c932322c532d654ef4c699914]{
+-- Page 29, Offset 13301.
+-- 「それじゃ、留守番お願いね。
+「Bon, eh bien, garde bien la maison.
+
+}
+[sha:a8b789d944143feb51b7f5f524af35b34f97fc63]{
+-- Page 29, Offset 13302.
+-- バイト、ほんとは無いんでしょう？」
+  En fait, tu ne travailles pas, c'est ça ?」
+
+}
+[sha:bb20cb0d8cb0cba81c168dcc7afdcd1b5fa5a736]{
+-- Page 29, Offset 13303.
+-- 微笑みながら言って、青子は居間から立ち去っていった。
+  dit Aoko en souriant avant de quitter le salon.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 30, Offset 13304.
+-- 「………………」
+「..................」
+
+}
+[sha:926df6dd20a255e1a72fb94b7f4ea7530fc9163f]{
+-- Page 30, Offset 13305.
+-- 青子の笑顔に虚を突かれて、言葉につまる草十郎。
+  Pris au dépourvu par son sourire, Sōjūrō ne sut quoi répondre.
+
+}
+[sha:b6b1ce64cab7b0a49cef4d6f33fa0918db08f679]{
+-- Page 30, Offset 13306.
+-- やっぱり、あんな嘘が通じる相手ではなかったのだ、と頬をかく。
+  Évidemment, elle n'est pas du genre à se faire abuser par un mensonge pareil, pensa-t-il en se grattant la joue.
+
+}
+[sha:f91650c8510e13f44db3d2ee915cceaeecba7958]{
+-- Page 31, Offset 13307.
+-- そんなふたりのやりとりを最後まで傍観してから、有珠もロビーに向かっていった。
+  Simple spectatrice jusqu'au tout dernier instant de cet échange, Alice se dirigea également vers le vestibule.
+
+}
+[sha:46b04e8dcc4239c2781836323a8404c7998794b3]{
+-- Page 32, Offset 13308.
+-- ひとり居間に残され、さて、と草十郎はソファーに座る。
+  “Bien”, soupira Sōjūrō en s'asseyant sur le sofa, après s'être retrouvé seul.
+
+}
+[sha:58cc6f095c0200d27ae33077bf7e0cfe079ef1cf]{
+-- Page 32, Offset 13309.
+-- ……まあ。
+  ...... Enfin,
+
+}
+[sha:742b498d776cca6848879e8f3883798099045b72]{
+-- Page 32, Offset 13310.
+-- とりあえず、やりたいコトはきちんと機能したのだし。
+  pour le moment, mon plan a fonctionné comme prévu.
+
+}
+[sha:35647bef4c5e4fe73b50bce1b09397cf8e4dd0ef]{
+-- Page 32, Offset 13311.
+-- あとは彼女たちが帰ってくるまで、こうしてワニを観察していよう、と思いながら。
+  Maintenant, je n'ai plus qu'à observer ces crocodiles jusqu'à ce qu'elles rentrent, pensa-t-il.
+
+}

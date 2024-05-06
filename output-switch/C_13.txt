@@ -1,0 +1,882 @@
+[sha:21d88afb481e366076cd7edba87ff951458635dd]{
+-- Page 0, Offset 17412.
+-- 飛び交う<電刃|でんじん>を、暴風の如き<魔弾|まだん>が叩き伏せる。
+  Les lames de tonnerre furent repoussées par les balles de prana à la manière d'une bourrasque de vent.
+
+}
+[sha:7881a1c5fbdd7d6576eeebca79dc61151ce750a7]{
+-- Page 1, Offset 17413.
+-- 魔術師にとって、拠点とする<工房|アジト>は始まりにして最後の切札である。
+  L'Atelier qui sert de base à un Mage représente son principal et ultime atout.
+
+}
+[sha:75200fe5dedb61844296302ebef94d9e85e6dd74]{
+-- Page 1, Offset 17414.
+-- <不遜|ふそん>な挑戦者、<不埒|ふらち>な盗人を切りきざむ為、<幾重|いくえ><数多|あまた>の防衛術式が張られている。
+  D'innombrables sorts défensifs gardent les lieux contre d'éventuels voleurs et autres assaillants insolents.
+
+}
+[sha:f60a08f91d6ce29d733fb819489d2f5fb202e416]{
+-- Page 1, Offset 17415.
+-- この旧校舎もその例に漏れず、希代の人形師にしてルーン使いである蒼崎橙子の手が入っていた。
+  L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, l'une des dernières marionnettistes et utilisatrice de Runes, avait largement mis la main à la patte.
+
+}
+[sha:4033b15f92f7bfd70ed45b5decbcb599ec7ff9b8]{
+-- Page 1, Offset 17416.
+-- 彼女の<偏執|へんしつ>的なこだわりを反映させた<工房|ソレ>は、訪れるものを人魔区別なく<鏖殺|おうさつ>する。
+  Cet Atelier reflétait son perfectionnisme maladif et éliminait tout intrus, humains et démons confondus.
+
+}
+[sha:26a193d9957a9726b5805af47dff66c490e04d41]{
+-- Page 2, Offset 17417.
+-- 「っ、足止めぐらいは果たせバカモン―――！」
+「Ces sorts foireux ne sont même pas capables de la ralentir―――!」
+
+}
+[sha:aa96f040abdeb74c95ad1574460d49f33579159f]{
+-- Page 2, Offset 17418.
+-- 廊下を走りながら、橙子は廊下に組み込んだトラップを起動させていく。
+  Tōko activait les pièges placés dans le couloir pendant sa course.
+
+}
+[sha:7f8e527ee705ac32f20b007c4c048aba62cacb73]{
+-- Page 2, Offset 17419.
+-- だが、その一切は通用しない。
+  Cependant, aucun d'entre eux n'avait d'effet.
+
+}
+[sha:c9b1ec3e2bc8ae3b8cfff091b97b2f061eaa24e2]{
+-- Page 3, Offset 17420.
+-- 質、<量|りょう>問わず、十や二十のルーンでは、あの小娘を止める事さえ出来ない。
+  La qualité importait peu, dix ou vingt Runes ne suffisaient pas pour arrêter cette gamine.
+
+}
+[sha:a7738a3ebbce621fa8cbf1fa251a907f6b13ac6f]{
+-- Page 3, Offset 17421.
+-- 卓越した運動神経と攻撃予測、
+  Elle prévoyait les attaques et faisait preuve de réflexes surhumains.
+
+}
+[sha:11b0320e13a6edffb4fa247ff81283d6cf3a3585]{
+-- Page 3, Offset 17422.
+-- 両手にまとった魔弾の威力は、橙子の用意したルーンを壁ごとぶち抜いて余りある―――！
+  Les balles de prana ceignant ses mains détruisaient sans difficulté les Runes qu'avait posées Tōko ainsi que les murs―――!
+
+}
+[sha:66ecd4cf824b9aa0bdd38452d595ac3198fb76d1]{
+-- Page 4, Offset 17423. Mods: @k, @e.
+-- 「それで一人前のつもりか単細胞め―――
+「C'est avec ces sorts simplistes que tu te prends pour un maître, espèce de brute―――
+
+}
+[sha:d65f7569afe50b1ec94257d4cf6d9de58637dbc0]{
+-- Page 4, Offset 17424.
+-- 熟成したところで壊すコトしか出来ないとは、呆れたな！」
+  Tu as beau mûrir, tu ne restes bonne qu'à détruire. C'est aberrant !」
+
+}
+[sha:64c1c75e4c54aca1658e658c25535b8ce0e01967]{
+-- Page 5, Offset 17425.
+-- <罵倒|ばとう>と共に天井が開き、ルーンによる重圧がかけられる。
+  Tandis que les injures pleuvaient, le toit s'ouvrit sous la pression des Runes.
+
+}
+[sha:0221478c6232de4cac1ddc2b50bc878a020c8dea]{
+-- Page 5, Offset 17426.
+-- 廊下は不可視の壁に、
+  Une sorte d'atmosphère gélatineuse se dressa dans le couloir, formant un mur invisible.
+
+}
+[sha:a6cc22cf2bd4baff15f3d2e711d686fc08afcb49]{
+-- Page 5, Offset 17427.
+-- ゼラチンと化した大気を前に、青子は走る足を止め、右足を跳ね上げた。
+  Aoko cessa de courir et mut sa jambe droite.
+
+}
+[sha:965060453280dba2a1ad8cbb4d84df672375c2e4]{
+-- Page 5, Offset 17428.
+-- まさに<天墜|てんつい>。
+  Telle une véritable force de la nature,
+
+}
+[sha:af5b95804a2f72e9e086ef51cb9a77d8324a8884]{
+-- Page 5, Offset 17429. Glued. Mods: @x.
+-- 真一文字に蹴り上げられた足は大気を裂き、そのままルーンごと天井を粉砕する。
+son pied fendit l'air et pulvérisa le plafond en même temps que les Runes.
+
+}
+[sha:57eaaaf194381fb9631f2d89afc51bb2eae690b6]{
+-- Page 6, Offset 17430.
+-- 「アンタの方こそ、いつまでたってもこの凝り性……！
+「Tu peux parler ! Toi, tu es toujours aussi maniaque !
+
+}
+[sha:982e3a1462e195224b49f44756834d04b95c507c]{
+-- Page 6, Offset 17431.
+-- どこもかしこもルーンだらけ、少しは遠慮ってもんがないの！？　宇宙要塞ばりに改造してんじゃないってぇの！
+  Tu as gravé des Runes littéralement partout. Tu ne connais donc pas la retenue ?! On ne t'a pas demandé de transformer cet endroit en forteresse spatiale !
+
+}
+[sha:eedcdc94fa57bee5a50c3edf1a89d7091cca0410]{
+-- Page 6, Offset 17432.
+-- みんなの思い出の校舎なんだから、もっと大切に扱いなさいよね！」
+  Cette école renferme les souvenirs de tout le monde, alors traite-la mieux que ça !」
+
+}
+[sha:470f21ab93440e3da03d5e5613942c12bb09c8af]{
+-- Page 7, Offset 17433.
+-- くたびれた板張りの廊下を、
+  Le couloir était délabré et les murs avaient subi les affres des années qui passent.
+
+}
+[sha:edc6d103e7304108555af136de7d1e260d1cdd3b]{
+-- Page 7, Offset 17434.
+-- 何十年と風雪に耐えてきた壁を、<木|こ>っ<端|ぱ>と散らしながら青子は走る。
+  Ils voyaient à présent Aoko parcourir les lieux en semant des bouts de bois partout autour d'elle.
+
+}
+[sha:5560c3eef0ad937aee06fd2571d173c5d4feaa80]{
+-- Page 7, Offset 17435.
+-- ごく当然の惨劇である。
+  Autant parler de catastrophe ambulante.
+
+}
+[sha:7f542aa4bfd061e719f24b926e149cd582b4683b]{
+-- Page 7, Offset 17436.
+-- 橙子のルーンはあくまで対人に効果を発揮する“呪い”だが、青子の魔弾は何であろうと分け<隔|へだ>てなく<猛威|もうい>を振るう。
+  Les Runes de Tōko n'avaient d'effet que sur les humains sous la forme d'une malédiction, mais les balles de prana d'Aoko sévissaient à tout va.
+
+}
+[sha:1d91e10f33dba5596b24fea7eb2c94a757a15021]{
+-- Page 8, Offset 17437.
+-- 「っ、<優雅|ゆうが>さの欠片もない！
+「Tu n'as même pas un soupçon d'élégance !
+
+}
+[sha:18d5d771cd17495f8d9b6eb0314fb3573647a4bf]{
+-- Page 8, Offset 17438.
+-- あんなのが自分の妹だと思うと―――」
+  Quand je pense que tu es ma petite sœur―――」
+
+}
+[sha:cf77eba0450ad1bd89434942ec8a1065764d3f92]{
+-- Page 8, Offset 17439.
+-- 吐き気はしないまでも全身の血を交換したくなる橙子だが、今はそれどころではない。
+  Même si ça n'allait pas jusqu'à lui donner la nausée, ce simple fait lui donnait envie d'échanger tout son sang ; mais ce n'était pas le moment de réfléchir à de telles broutilles.
+
+}
+[sha:93e027a9f6897f61f8b49e3a0bd839980df8ae82]{
+-- Page 8, Offset 17440.
+-- 追ってくる少女は先ほどまでの蒼崎青子ではなく、“完成した”蒼崎青子なのだ。
+  La jeune fille qui la poursuivait n'était pas la Aozaki Aoko qu'elle connaissait, mais sa version “achevée”.
+
+}
+[sha:983755caed4b79fa76d44daf48020a69f755af78]{
+-- Page 8, Offset 17441.
+-- 髪の毛一本ほどの油断も許されまい。
+  Aucun moment d'inattention ne lui était permis.
+
+}
+[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+-- Page 8, Offset 17442.
+-- だが―――
+  Cependant―――
+
+}
+[sha:c9d1a7dd51ed760ccf555b8edc32cab4b0304c27]{
+-- Page 9, Offset 17443.
+-- 「笑わせる。そんなものが魔法であるものか！」
+「C'est une mauvaise plaisanterie ! Ça ne peut pas être de la Vraie Magie !」
+
+}
+[sha:65b49529bf9083c602110dd558bad5a30666f2e4]{
+-- Page 9, Offset 17444.
+-- 個人限定の時間旅行―――それが蒼崎の魔法の正体などとは、橙子は思っていない。
+  Le voyage temporel individuel―――Tōko doutait qu'il s'agisse de la véritable nature de l'héritage des Aozaki.
+
+}
+[sha:d08bcf98ef3af12269f295505867bdb06fdcd51c]{
+-- Page 9, Offset 17445.
+-- 青子の変化はあくまで魔法の副産物だ。
+  La transformation subie par Aoko n'était qu'un effet secondaire de la Vraie Magie.
+
+}
+[sha:3798fbf38d40dc3f539fef354bc1b6059c1abab0]{
+-- Page 9, Offset 17446.
+-- 魔法の正体、その深淵に<青子|アレ>が届いたかまでは測れないが、決して、そんな単純な奇跡ではない。
+  Elle ignorait si sa petite sœur en avait vraiment atteint les profondeurs, mais ce miracle ne pouvait en aucune façon être aussi simpliste.
+
+}
+[sha:bd3e899270e3bfb4d757345c5809cd82e8c175a6]{
+-- Page 10, Offset 17447.
+-- なぜなら―――時間旅行の概念は、既に第二魔法に含まれている。
+  Et ce pour une simple raison―――le concept du voyage temporel apparaissait déjà dans la Deuxième Vraie Magie.
+
+}
+[sha:f257f07b2dfbbd6013bed9cac5216dd8f9e29079]{
+-- Page 10, Offset 17448.
+-- 記録の<改竄|かいざん>、<事象|じしょう>の書き換え等は、すなわち並行世界の運営にあたる。
+  La falsification des Annales et la réécriture des causes, entre autres, relevaient de la gestion des mondes parallèles.
+
+}
+[sha:00b468c54e176cd994fdf82355dfa01386121274]{
+-- Page 10, Offset 17449.
+-- いまさらそんなものが第五魔法と呼ばれる筈もない。
+  Il était un peu tard pour attribuer cela à la Cinquième Vraie Magie.
+
+}
+[sha:f2835d4e593a1fff05f92d512252666895de5cd4]{
+-- Page 11, Offset 17450.
+-- 「―――となると、次に出てくる疑問はこれか。
+「―――Alors une autre question se pose.
+
+}
+[sha:8bd50c510fc4fe41b05697dd78de36a3827d1ad3]{
+-- Page 11, Offset 17451.
+-- 青子！　貴様、その十年分の時間をどこから持ってきた！」
+  Aoko ! D'où tires-tu ces dix années ?」
+
+}
+[sha:3c926b4fcb6dcc58239b65b547aae9538de2e433]{
+-- Page 11, Offset 17452.
+-- 「あのボンクラからよ、悪い!?
+「De cet idiot ! Ça te pose un problème ?!
+
+}
+[sha:5a2fefd746bf03e5c318120f47e95a29ad5f560d]{
+-- Page 11, Offset 17453. Glued. Mods: @x.
+-- 後で返すんだから、アンタに批難される覚えはありませんけど！」
+Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la leçon !」
+
+}
+[sha:98ae45357507d3783ddd8d83f293b69444ca4fda]{
+-- Page 12, Offset 17454.
+-- そう、それはいい。
+  En effet, cet acte ne posait pas de problème en soi.
+
+}
+[sha:0d564d1c77d786771a7ede0c8e0b8b3ff2abafbb]{
+-- Page 12, Offset 17455.
+-- 一方的ではあるが、この時間軸での時間の総量は変わっていない。
+  C'était à sens unique, mais la quantité de temps de cet axe temporel restait la même.
+
+}
+[sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
+-- Page 12, Offset 17456.
+-- だが―――
+  Seulement―――
+
+}
+[sha:b35b4a8e9bba7165930cc0ffc1249246bca5f601]{
+-- Page 13, Offset 17457.
+-- 「では、あの五分間はどうする!?
+「Alors, que fais-tu de ces cinq minutes ?!
+
+}
+[sha:11a05bd3abcf33b80fc743442efa6973e830f8bb]{
+-- Page 13, Offset 17458.
+-- まさか私を始末した後、彼を元の状態に戻すのか!?」
+  Tu ne vas tout de même pas le ramener à son état d'origine après m'avoir éliminée ?!」
+
+}
+[sha:53c2d0e96052188af5cd94153b2ca8a0e3b2ca39]{
+-- Page 13, Offset 17459.
+-- 青子の足が止まる。
+  Les jambes d'Aoko s'arrêtèrent.
+
+}
+[sha:fe604c0dde4ab8ea7b9629876bb61da3b9896eb8]{
+-- Page 13, Offset 17460.
+-- 蒼崎の魔法の矛盾と、青子の人間性の矛盾。
+  La Magie des Aozaki et l'humanité d'Aoko présentaient chacune des contradictions.
+
+}
+[sha:e44fc9e497f55fa77d63d95af48235d3a46f1712]{
+-- Page 13, Offset 17461.
+-- 二つの隙が、橙子に反撃の<狼煙|のろし>をあげさせる。
+  Ces deux failles donnèrent l'occasion à Tōko de contre-attaquer.
+
+}
+[sha:c0b016157419a8232c0cd3ca1e38598e8827bf6d]{
+-- Page 14, Offset 17462.
+-- 「そうだ。時間操作では死者の蘇生は許されない。
+「Tu as compris. La manipulation du temps ne permet pas la résurrection des morts.
+
+}
+[sha:a4d793757f5cf09a5683be6faf29267f5cde4cc4]{
+-- Page 14, Offset 17463.
+-- おまえがしたコトは一時だけの気休めか―――」
+  Ce que tu as fait n'est donc qu'un arrangement temporaire―――」
+
+}
+[sha:b113bca5a47654ace0cdaeef22d3cb95f493ebb7]{
+-- Page 14, Offset 17464.
+-- 橙子の背中の魔術刻印が、その真価を発揮する。
+  Le Sceau Magique de Tōko fit montre de toute sa puissance.
+
+}
+[sha:6e8a2e9d2222b01ff4fe7e1e0f689dab7d4e78f9]{
+-- Page 14, Offset 17465.
+-- 刻印からの魔力提供を受け、廊下に仕込まれた最大の仕掛けが物質化する。
+  Le plus grand piège du couloir se matérialisa grâce au prana fourni par le Sceau.
+
+}
+[sha:1b7b0bc83c146e7fecedf8df0ed69506caaeac96]{
+-- Page 14, Offset 17466.
+-- 「―――あるいは、より<罪|つみ>深い<暴虐|ぼうぎゃく>というコトだ！」
+「―――Autrement dit, tu te rends coupable d'un acte bien plus cruel encore !」
+
+}
+[sha:e5f01fa07909aab5de490bef4cae75ff3fcfdbdd]{
+-- Page 15, Offset 17467.
+-- 現れる三枚のルーン石。
+  Trois pierres de Runes apparurent.
+
+}
+[sha:3a379676e072609ff9a0c8f6921a6d512eb4bf58]{
+-- Page 15, Offset 17468.
+-- その規模も込められた魔力も、これまでのモノとはケタが違う。
+  Leur taille et le prana qu'elles contenaient dépassaient de loin ses attaques précédentes.
+
+}
+[sha:0ddbb3962887493512f31de07c304308ed5bd2df]{
+-- Page 15, Offset 17469.
+-- これこそ北欧の巨人の<御業|みわざ>、
+  C'était la technique du géant d'Europe septentrionale,
+
+}
+[sha:1f3e027d7325fb14fdad34ab90011c4eb684b858]{
+-- Page 15, Offset 17470.
+-- 蒼崎橙子が魔術協会で復元・分生させた、失われた“原初のルーン”のレプリカである。
+  la réplique de la Rune originelle perdue qu'Aozaki Tōko avait en partie restaurée à l'Association des Mages.
+
+}
+[sha:6704f303536807fb2802e765630c9e3b7b1fd010]{
+-- Page 16, Offset 17471.
+-- 三枚の水晶膜は刻まれたルーンを一千万規模に膨張させる。
+  Les trois membranes cristallines se déployèrent, dix millions de Runes gravées sur chacune d'elles.
+
+}
+[sha:794705ecbb110449012369233b98e85af691f31a]{
+-- Page 16, Offset 17472.
+-- 魔弾による相殺など許さない。
+  Aucune balle de prana ne pourrait les transpercer.
+
+}
+[sha:40e2f92d32407d9137ce87a7db77c179a8f308b4]{
+-- Page 16, Offset 17473.
+-- 青子の出力が橙子を遥かに上回るものだとしても、この巨石はさらに数倍。
+  Même si la puissance dégagée par Aoko surpassait de loin celle de Tōko, ces mégalithes en produisaient le double.
+
+}
+[sha:655e3558c88a775571aa4c93e99d59efca7ee19d]{
+-- Page 16, Offset 17474.
+-- 『魔力を放出する』だけの青子の魔術特性では、この呪いを防ぐ事も躱す事も出来はしない……！
+  La spécialité d'Aoko consistait simplement à “relâcher du prana”, elle ne pourrait ni se protéger ni éviter cette malédiction......!
+
+}
+[sha:8e1097fed406e5fca4a8aeb9a91c43561c8c8f4f]{
+-- Page 17, Offset 17475.
+-- 「―――<主|メ><観|イ><軸|ン>、<固定|セット>」
+「―――<Axe subjectif|Main>, <Fixé|Set>.」
+
+}
+[sha:2de2fa7bfc2926149294d10c0d714213c5d104eb]{
+-- Page 17, Offset 17476.
+-- 短い自己暗示と、意を決する深呼吸。
+  Aoko recourut à l'auto-hypnose et prit une profonde inspiration, décidée.
+
+}
+[sha:f62918b317269ded0c27bf30106af29c76864cad]{
+-- Page 17, Offset 17477.
+-- 青子は防ぎもせず避けもせず、ルーンの嵐へと突進する。
+  Elle s'élança alors vers la tempête de Runes, sans essayer de se protéger ou d'esquiver.
+
+}
+[sha:e6c64b80b6d8afa57f6a129063b6e3ae4059116b]{
+-- Page 18, Offset 17478.
+-- 「貴様―――この時間軸に存在していないな!?」
+「Je vois... Tu n'existes pas dans cet axe temporel, c'est ça ?!」
+
+}
+[sha:9b67bfa28f9fdd46373fec34685f19aaef075fe3]{
+-- Page 18, Offset 17479.
+-- やはり、と得心しながら、橙子は魔術刻印をフル稼働させる。
+  Certaine de son hypothèse, Tōko fit tourner son Sceau Magique à plein régime.
+
+}
+[sha:0f1750e4dad859fada2d07f33748640ece541a73]{
+-- Page 18, Offset 17480.
+-- 青子にルーンが作用しないのは、アレが今も秒単位で時間旅行を繰り返しているからだ。
+  Les Runes n'avaient aucun effet sur Aoko car elle répétait sans cesse des voyages temporels à l'échelle de la seconde.
+
+}
+[sha:d48a788695fd9fae3bea3d3702f6b350cebefcfc]{
+-- Page 18, Offset 17481.
+-- 着弾したルーンをいずこかの時間に跳ばしているのか、
+  Soit elle envoyait l'impact des Runes quelque part dans le temps,
+
+}
+[sha:176130bc6bd5372bbed4d07b7934f6678687f1d0]{
+-- Page 18, Offset 17482.
+-- それとも、何千という“<自分|たて>”を重ね着しているのか。
+  soit elle superposait plusieurs milliers de doubles d'elle-même.
+
+}
+[sha:a8c05d5f2c646784bcf34ad5945a6cd642343329]{
+-- Page 18, Offset 17483.
+-- どちらにせよそんなデタラメ、魔力が続くはずがない……！
+  Dans tous les cas, elle n'aurait jamais assez de prana pour poursuivre cette folie......!
+
+}
+[sha:544e25b83883818d386b0529d6de199d922555cc]{
+-- Page 19, Offset 17484.
+-- 「一枚目！」
+「Et de un !」
+
+}
+[sha:9fb7bf4c6568ab59e140c6fbf6f3110b257ad097]{
+-- Page 19, Offset 17485.
+-- 巨石が文字通り一蹴される。
+  Le mégalithe fut littéralement pulvérisé.
+
+}
+[sha:6ec49ebad970ec7ccff3c0b9196569ead515a3a4]{
+-- Page 19, Offset 17486.
+-- 残りは二枚。距離にして十メートル。
+  Il en restait deux. Plus que dix mètres.
+
+}
+[sha:531ab76565b68dc3912b94e1fa947b46da91e73d]{
+-- Page 19, Offset 17487.
+-- 橙子の魔力残量は十分だ。刻印を使い果たすが、十秒は掃射を続けられる。
+  Tōko avait suffisamment de prana en réserve. Elle épuiserait complètement son Sceau, mais elle pourrait encore mitrailler pendant dix bonnes secondes.
+
+}
+[sha:7ff7acd2a348fb4b6b359ad0bc3d44a46ecaa230]{
+-- Page 20, Offset 17488.
+-- 対する青子は、魔術師としての常識で考えるのならここで打ち止め。
+  En revanche, Aoko n'en avait plus pour longtemps. Du moins, d'un point de vue de Mage.
+
+}
+[sha:7c1ccd0bdb154342f0f6ac3252e13207e298f412]{
+-- Page 20, Offset 17489.
+-- これ以上の反則は行えまい。
+  Une transgression supplémentaire lui était impossible.
+
+}
+[sha:62a55e52b074e9bac2bbc01c7e48707af55dec06]{
+-- Page 20, Offset 17490.
+-- だが―――反則と言うのなら、それは時間旅行の段階で反則である。
+  Cependant―――elle en commettait déjà une avec le voyage temporel.
+
+}
+[sha:eaa5b96e33c31400ab14806b2b3146d771cc9066]{
+-- Page 21, Offset 17491.
+-- 「青子―――！」
+「Aoko―――!」
+
+}
+[sha:690ad7c7ac8c32a8ae2e73dd35c51d3bd82a8612]{
+-- Page 21, Offset 17492.
+-- 同じ展開が繰り返される。
+  La même chose se répétait, encore et encore.
+
+}
+[sha:45407e79521accebd36960bc13ef9c97ca0bc579]{
+-- Page 21, Offset 17493.
+-- 橙子の疑念は、ここに至って憎悪に変貌した。
+  Les doutes de Tōko laissaient à présent place à la haine.
+
+}
+[sha:8161c7956fa9a52bd6d46eecffe036da00ab1ef1]{
+-- Page 21, Offset 17494.
+-- 時間旅行の術式などどうでもいい。
+  Elle n'avait que faire du sort permettant le voyage temporel.
+
+}
+[sha:87f91f082ff88a46ba3bd3316e2766a250173c27]{
+-- Page 21, Offset 17495.
+-- 問題はあの魔力量。
+  Le véritable problème se trouvait dans cette quantité absurde de prana.
+
+}
+[sha:e0c37d847443a4165f0962f14fb258c7da193520]{
+-- Page 21, Offset 17496. Glued. Mods: @x.
+-- 時間旅行に必要なだけのエネルギーを、あの女はどこから捻出しているのか……？
+Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans le temps......?
+
+}
+[sha:997304f111b5ac9d7d3804e8c436893d11cf94a4]{
+-- Page 22, Offset 17497.
+-- 「やはりそうか。おまえは―――！」
+「Je le savais ! Tu―――!」
+
+}
+[sha:13af7132e448ddd8fdb67cfbe81c7f00511264bd]{
+-- Page 22, Offset 17498.
+-- 静希草十郎の死。
+  La mort de Shizuki Sōjūrō.
+
+}
+[sha:491ad90f068c6a28538bd3b2675d5d721739bc80]{
+-- Page 22, Offset 17499.
+-- 彼を、まだ生きていた頃の五分前に戻したというが、では、その五分間はどこに行くのか。
+  Elle disait l'avoir ramené cinq minutes avant qu'il ne meure, mais dans ce cas, où étaient passées les cinq minutes en question ?
+
+}
+[sha:09ba38a40bcfecebdbe6f9f6767c2741abe14a32]{
+-- Page 23, Offset 17500.
+-- 青子の魔法は、世界そのものを書き換える“並行世界の運営”ではない。
+  La Vraie Magie d'Aoko n'était pas la “gestion des mondes parallèles” qui consiste à modifier le monde lui-même.
+
+}
+[sha:4379aac30129d0a9bfe13cbc49b3e470958881d9]{
+-- Page 23, Offset 17501.
+-- 青子は『草十郎の五分間』だけを巻き戻した。
+  Aoko n'avait rembobiné que les “cinq minutes de Sōjūrō”.
+
+}
+[sha:d3e404e8697b2811bf0810e1642feb7a71d93e28]{
+-- Page 23, Offset 17502.
+-- が、それでは魔法が切れた時、彼が死体に戻るのも道理。
+  Si elle disait vrai, alors il redeviendrait un cadavre une fois la Vraie Magie dissipée.
+
+}
+[sha:01f41f3d5d6029d051c33d3f313e7aa465a623d3]{
+-- Page 23, Offset 17503.
+-- 世界を換えずに行う時間旅行では、そもそも過去を変えられない。
+  Il est impossible de changer le passé par l'intermédiaire d'un voyage temporel qui n'apporte aucune modification au monde.
+
+}
+[sha:06d73c2af58caed40389ecb2d5a5ac5b52d4c031]{
+-- Page 24, Offset 17504.
+-- ……故に。
+  ...... De fait,
+
+}
+[sha:bb83bae1aefe4fbd37e82f65c2389fc7aec60644]{
+-- Page 24, Offset 17505.
+-- 彼を救いたいのなら死者を蘇生させるか、
+  si elle voulait le sauver, elle n'avait pas d'autre choix que de le ressusciter,
+
+}
+[sha:bfb15bb8e017b031961cead711a8f26707c28206]{
+-- Page 24, Offset 17506.
+-- それとも―――現実にあった<五分間|エネルギー>を、このままどこにも還さず、遠い場所に<棚|たな>上げしておくしかない―――！
+  ou de laisser en suspens l'énergie produite par ces cinq minutes dans un lointain espace-temps, sans la remettre à sa place―――!
+
+}
+[sha:0a8281426e655300596b67064b96a30a3af0f1ab]{
+-- Page 25, Offset 17507.
+-- 「二枚目！」
+「Et de deux !」
+
+}
+[sha:f2305375fe509d06cbd3e1adfe9d7d99ca2631fd]{
+-- Page 25, Offset 17508.
+-- 青子の進撃は止まらない。
+  L'assaut d'Aoko se poursuivait.
+
+}
+[sha:183612ff01a7a6b0571335c291ecac75acaea047]{
+-- Page 25, Offset 17509.
+-- 橙子は憎しみをもって、最後の<巨石|まもり>の後ろで青子を睨む。
+  Abritée derrière le dernier mégalithe, Tōko fixait Aoko d'un regard haineux.
+
+}
+[sha:3582fcc919ee9049b294d2c31d9d40369fa3b45a]{
+-- Page 26, Offset 17510.
+-- 「答えろ青子！　貴様、彼の時間をどこにやった！
+「Réponds, Aoko ! Où as-tu envoyé son temps !
+
+}
+[sha:eb01a9818f7df3cfba65a673d0a0ffe3f941b24d]{
+-- Page 26, Offset 17511. Glued. Mods: @x.
+-- そこにあった熱量の帳尻を、どうやって合わせている！？」
+Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
+
+}
+[sha:0f6ef53e05c4fcb43f8cfb649b4cf239fccae5ee]{
+-- Page 26, Offset 17512.
+-- 「っ、そんなの知るか！　アイツの時間なら、遥かな未来に<措|お>いてきたわよ！」
+「Je m'en tape ! Son temps, je l'ai balancé loin dans le futur !」
+
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 26, Offset 17513.
+-- 「な―――」
+「Qu―――」
+
+}
+[sha:168db920463a8bc80ac61485f2839cda721c7635]{
+-- Page 27, Offset 17514.
+-- あと五メートル。
+  Plus que cinq mètres.
+
+}
+[sha:6e829de11c4853b86d59f13a87978d806a5b0717]{
+-- Page 27, Offset 17515.
+-- 肉薄するデタラメに、橙子は目を<覆|おお>いたくなった。
+  Tōko aurait voulu se cacher le visage en entendant cette réponse absurde.
+
+}
+[sha:cb5b2e83c14ca37b5071eec3b91e51a9bf5e5724]{
+-- Page 27, Offset 17516.
+-- いま<現在|ここ>で作った負債を、未来に<措|お>いてきただと？
+  Elle avait envoyé les dettes qu'elle venait de créer dans le futur ?
+
+}
+[sha:908169a4f35aeddff17a09d7a4be4b1727ad4f9d]{
+-- Page 27, Offset 17517.
+-- タイムパラドックスの方がまだ人道的だ。
+  Un paradoxe temporel se serait révélé moins cruel.
+
+}
+[sha:dc2a03f6138f188344c2046a29df6142d1112fee]{
+-- Page 27, Offset 17518.
+-- そんな膨大な、無計画な熱量の消費を許してはならない。
+  La consommation irréfléchie d'une telle énergie ne pouvait être permise.
+
+}
+[sha:1f822ccb78b7b8afd7091f5c8e92a4afdca60f75]{
+-- Page 28, Offset 17519.
+-- そも、時間旅行だけでも膨大なエネルギーを要する。
+  Le voyage temporel en soi exigeait une énergie colossale.
+
+}
+[sha:199c174fcb0cfcc6652699ee794a9dd7b6ced522]{
+-- Page 28, Offset 17520.
+-- ここに無いものを持ってくる事にも魔力は必要だが、
+  Du prana se révélait nécessaire pour amener quelque chose d'inexistant dans le présent.
+
+}
+[sha:ae7c30b513da0f4053febc200f22b29d9681e6f7]{
+-- Page 28, Offset 17521.
+-- それと同じに、ここに有るものを“無くす”事にも莫大なエネルギーが<消費|うしな>われる。
+  De même, soustraire quelque chose du présent demandait une énorme quantité d'énergie.
+
+}
+[sha:0d495e62899fca5741a6f7dd6f523a4e5c32880d]{
+-- Page 28, Offset 17522.
+-- その冷却に使われた魔力はどうする？
+  Que faire pour le prana nécessaire au refroidissement ?
+
+}
+[sha:f2a7dceeb9d6f7183d44e1fea947b97eb34dec1c]{
+-- Page 28, Offset 17523.
+-- プラスにしろマイナスにしろ、それは秩序の崩壊だ。
+  Que l'équation donne un résultat négatif ou positif, l'ordre s'effondrerait dans tous les cas.
+
+}
+[sha:77cc6f53e621a7dc6ae689b16bad59d268d4605c]{
+-- Page 28, Offset 17524.
+-- 魔法の作る<歪|ゆが>みは、いずれこの<宙域|ちゅういき>すべてに及ぶだろう。
+  La distorsion provoquée par la Vraie Magie atteindrait un jour ou l'autre ce secteur de l'espace.
+
+}
+[sha:7d0b9f7b10c3564dbb7cd3215321debcf880d829]{
+-- Page 29, Offset 17525.
+-- 「ば―――バカここに極まったな！
+「C'est... C'est le comble de la stupidité !
+
+}
+[sha:a7ac0f629aa9227bb053d8ce7da6ed482f6e47b6]{
+-- Page 29, Offset 17526.
+-- 何千億年後にくる宇宙の死滅、人類の行く末に待つ<どん詰|デッド><まり|エンド>に、さらなる負債を押しつける気か!?
+  Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera d'ici des milliards d'années ?!
+
+}
+[sha:f99b1706756dd13724fac0f750b35b13b58bd9df]{
+-- Page 29, Offset 17527. Glued. Mods: @x.
+-- この星の頭上に隕石を作っているようなものだぞ!?
+  Tu te rends compte que ça revient à placer des météorites au-dessus de notre planète ?!
+
+}
+[sha:eb9c527b5763db3fc3a3644e13cf4ab497973550]{
+-- Page 29, Offset 17528.
+-- というか、おまえの重みでこの星を押し潰す気か!?」
+  Tu as l'intention d'écraser ce monde sous ton poids, c'est ça ?!」
+
+}
+[sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
+-- Page 30, Offset 17529.
+-- 「な―――」
+「Qu―――」
+
+}
+[sha:3bdba8c9172c4b5d478d760a69603df616b9613a]{
+-- Page 30, Offset 17530.
+-- その喩えはあんまりだ、と目をむく青子。
+  Cet exemple va trop loin, pensa Aoko en ouvrant grand les yeux.
+
+}
+[sha:f0bc9823e4ff590b0c5e016d8610abe4a6ccabb9]{
+-- Page 30, Offset 17531.
+-- 突き進む足も、勢いあまって床をブチ抜いていたりする。
+  Emportée dans son élan par la colère, ses jambes transpercèrent le plancher.
+
+}
+[sha:24b5a929969b5ef5f3deb732074d64c64401bec5]{
+-- Page 31, Offset 17532.
+-- 「その時はその時で、今度は負債を過去に送ってやるわよ！　それなら文句ないんでしょう！？
+「Ferme-la un peu, j'y penserai le moment venu ! La prochaine fois, j'enverrai le temps emprunté dans le passé ! De cette façon, tu n'auras plus de quoi te plaindre, hein ?!
+
+}
+[sha:25a2110e9b20920f1bb7f001e81d21fa02c9972c]{
+-- Page 31, Offset 17533. Glued. Mods: @x.
+-- 歪みに潰されるのは過去だけなんだから！」
+La distorsion n'écrasera que le passé, après tout !」
+
+}
+[sha:3aeb1cfdd54aca7c7b4e45e43c6b28a62f8691d4]{
+-- Page 31, Offset 17534.
+-- 「それで解決したつもりか！？
+「Et tu crois vraiment que ça résoudra le problème ?!
+
+}
+[sha:631e04ef5c0f60a04f2a127bf30a00f98675fec6]{
+-- Page 31, Offset 17535.
+-- 現在が確定している以上、過去を消滅させてもいいと！？
+  Alors le passé peut disparaître tant que le présent est déterminé ?!
+
+}
+[sha:7c94a3d4b447d51365d3768bc1060de07824e795]{
+-- Page 31, Offset 17536.
+-- それでいいのは私たちだけだ！　問題の総量、宇宙の負債はどうする！？」
+  Ça n'arrange que nous ! Que fais-tu de la dette de l'univers, le temps total ?!」
+
+}
+[sha:d21bfeb03248da96e882320672405951be97baba]{
+-- Page 32, Offset 17537.
+-- ―――そう。
+  ―――Oui.
+
+}
+[sha:884813b867a0987b673c7762c16579b725526cda]{
+-- Page 32, Offset 17538.
+-- 宇宙が閉じているにせよ、現在も<拡|ひろ>がっているにせよ、
+  Que l'univers soit fermé ou qu'il s'étende encore à l'heure actuelle,
+
+}
+[sha:e61afcb8d1731ab5d07a19eb3f5d13a9952f52c9]{
+-- Page 32, Offset 17539.
+-- 消費熱量の増大は手に負えないものになる。
+  l'augmentation en consommation d'énergie deviendrait impossible à gérer.
+
+}
+[sha:9c0b12ffc0fbd7d32e0cf1cff1d68241cf885f18]{
+-- Page 33, Offset 17540.
+-- 際限のない広がり、
+  Une expansion infinie,
+
+}
+[sha:d48dd7177bdda83c11f61e99da7493bbe2f63368]{
+-- Page 33, Offset 17541.
+-- 際限のない消費、
+  une consommation infinie,
+
+}
+[sha:c59511a402453f702fc2fb8708305b060643b82e]{
+-- Page 33, Offset 17542.
+-- 際限のない成長の末に待つモノは、希望に満ちた未来などではない。
+  une croissance infinie. Mais ce qui attend au bout du chemin n'a rien d'un futur rempli d'espoir.
+
+}
+[sha:0feaac38a9daaaa0836c606b7381897f104ab4e5]{
+-- Page 33, Offset 17543.
+-- <開闢|かいびゃく>の前の無。
+  Le néant précédant la création.
+
+}
+[sha:513168102ac40a4161a616f238db0122ff304e8f]{
+-- Page 33, Offset 17544.
+-- いずれ宇宙は<熱的死|ねつてきし>する。
+  Un jour, l'univers mourrait de chaleur.
+
+}
+[sha:b5ec0477cf0d77fb433f0d91b1655ec506a69881]{
+-- Page 34, Offset 17545.
+-- 「青子の―――蒼崎の魔法は、その結末をより確かなものにするだけだ！　その責任を、おまえは―――！」
+「Ta Vraie Magie―――La Vraie Magie des Aozaki ne fait que rendre cette fin encore plus inéluctable ! Tu prends cette responsabilité à la légère―――!」
+
+}
+[sha:6d6e6bb69b73ac41f099deb2da3865f4c95cde2b]{
+-- Page 34, Offset 17546.
+-- 「言われなくても分かってる！
+「Tu n'as pas à me le dire, je le sais !
+
+}
+[sha:992b3e63e2398221ec7854955a051a69fe74331e]{
+-- Page 34, Offset 17547.
+-- 責任なんて、私が生きてる間になんとかするわよ！」
+  Cette responsabilité, je l'assumerai de mon vivant !」
+
+}
+[sha:ae22556bfb19f7809abb3aa949c5b2fbe560d457]{
+-- Page 35, Offset 17548.
+-- 残り二メートル。
+  Plus que deux mètres.
+
+}
+[sha:b1417bbcbcdfb9eab0f7eaf3033e038ef5ebfd05]{
+-- Page 35, Offset 17549.
+-- ルーンの掃射は、もはや橙子の憎悪を宿した<熱線|ねっせん>となって突き刺さる。
+  Le canonnage runique se transforma en rayon de chaleur hébergeant la haine de Tōko et frappa.
+
+}
+[sha:879d186dd2bbaf640a7f34b5462cb2d4841a1229]{
+-- Page 35, Offset 17550.
+-- その熱さに身を裂かれながらも、より強い感情で青子は地面を蹴り―――
+  Bien que dévorée par la chaleur, Aoko frappa le sol dans un élan d'émotions plus fort encore―――
+
+}
+[sha:3fd801675e2006f8572a407fd8cd99c8f93a34f7]{
+-- Page 36, Offset 17551.
+-- 「責任をとると言ったな……！　では、その具体案は！？」
+「Donc tu en assumeras la responsabilité ? Et plus concrètement ?!」
+
+}
+[sha:a11fa7f4ac23cb0e24c5fd44ccb371e55b4c1aeb]{
+-- Page 36, Offset 17552.
+-- 「そんなの―――これから考えるに決まってるでしょう！」
+「Le concret... J'y réfléchirai plus tard, évidemment !」
+
+}
+[sha:d9c7331f202974eedb4340112b07f64016cd7b04]{
+-- Page 36, Offset 17553. Mods: @k, @e.
+-- 「―――
+「―――
+
+}
+[sha:bb1deececb0bfe3f0ac5d91f0cfa8898f19e8a91]{
+-- Page 36, Offset 17554. Glued. Mods: @x.
+-- おまえは、最悪だ！」
+Tu es la pire femme qui soit !」
+
+}
+[sha:1d2f9bc34c39d13fc77bbee0734dc2182e31483a]{
+-- Page 37, Offset 17555.
+-- ―――砕け散る最後の守り。
+  ―――Le dernier bouclier fut démoli.
+
+}
+[sha:8496a994bca59980be1e414ddaf0dc39d049e386]{
+-- Page 37, Offset 17556.
+-- 二人の魔術師は拳を打てば届く距離で魔術を組み上げる。
+  À deux pas l'une de l'autre, les deux Mages levèrent le bras et invoquèrent un sort.
+
+}
+[sha:d4e7aa842bbb87ea6be2633b42abc24cc6a0f473]{
+-- Page 37, Offset 17557.
+-- 赤色のルーンと、青色のエーテル流。
+  L'une avec les Runes rouges, l'autre avec l'Éther bleu.
+
+}
+[sha:71cfb4a602786e3276d3e5a584d0bafd0ac89c1d]{
+-- Page 37, Offset 17558.
+-- 撃ち出された魔弾は<瀑布|ばくふ>となって、背後に浮かんだ刻印ごと、蒼崎橙子を粉砕した。
+  Une fois tirée, la balle de prana entraîna Aozaki Tōko telle une cascade, écrasant celle-ci avec le Sceau qui flottait derrière elle.
+
+}

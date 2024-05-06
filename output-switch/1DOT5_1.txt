@@ -1,0 +1,720 @@
+[sha:ac46c3e1e05ff71baca81c687968c50ab62be468]{
+-- Page 0, Offset 1116.
+-- 都会の朝は遅いようで早い。
+  Les matinées en ville avaient l'air sans fin, mais elles passaient en réalité assez rapidement.
+
+}
+[sha:83a36eb6629816483ef1d3a6c1423cf2d8e0e34c]{
+-- Page 0, Offset 1117.
+-- もしかしたら朝なんて無いんじゃないかと思うぐらい、どこもかしこも目が覚めている。
+  Il était parfaitement réveillé, au point de douter que c'était le matin.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 1, Offset 1118.
+-- 「…………」
+「............」
+
+}
+[sha:80873cd00c7c885b1bb938105c92c62ebf2a33de]{
+-- Page 1, Offset 1119.
+-- まだ聞き慣れない、岩を<転|ころ>がすような<悲鳴|ひめい>で目を覚ました。
+  Il se réveilla en entendant un son encore inhabituel pour lui et qui rappelait le vacarme d'un éboulement de roche.
+
+}
+[sha:5cd7fd4a884b43a73b5f5a9e11cd57469d59d223]{
+-- Page 1, Offset 1120.
+-- 怪音の正体は自動二輪車のエンジン音で、どうやらおとなりの<吉田|よしだ>さんが出勤したらしい。
+  Ce son étrange provenait du moteur d'une motocyclette. Apparemment, son voisin, M. Yoshida, venait de partir au travail.
+
+}
+[sha:d4ad08df01c5c00664b5a40b88a8c1bd0b38e8d9]{
+-- Page 1, Offset 1121.
+-- 朝が<曖昧|あいまい>なこの街は、夜だって曖昧だ。
+  Dans cette ville aux matins insaisissables, les nuits l'étaient tout autant.
+
+}
+[sha:43c321da56babde4f561a843b11b36656d81ea40]{
+-- Page 1, Offset 1122.
+-- 機械仕掛けというのは眠らない事と同義なのだろう。
+  Mécanique était sûrement synonyme d'insomnie.
+
+}
+[sha:1561806740238f1561700659d5404a2c8d527f71]{
+-- Page 2, Offset 1123.
+-- 「信じられない……まだ陽も昇ってないのに……吉田さんはどこに行くのか……」
+「C'est incroyable...... Le soleil n'est pourtant pas encore levé...... Où va M. Yoshida......」
+
+}
+[sha:ac39b2386f118e3c612b19d813d37f2004c7a5f9]{
+-- Page 2, Offset 1124.
+-- のっそり床から身を起こす。
+  Il se leva lentement du sol.
+
+}
+[sha:5342eb30c7b9970292fa69e81ab55815294b0fd0]{
+-- Page 2, Offset 1125.
+-- これまでの習慣であたりを徘徊しそうになって、その必要はないと気が付き、流し場に向かう。
+  Il se dirigea vers l'évier après s'être rappelé qu'il n'avait plus besoin d'errer aux alentours pour trouver de l'eau comme il en avait l'habitude auparavant.
+
+}
+[sha:b2f3ad74ccd29047cabd2e25c726f422a7f5d3f4]{
+-- Page 3, Offset 1126.
+-- コップに<二口|ふたくち>分の水を<汲|く>んで、ゆっくりと喉に通した。
+  Après s'être versé l'équivalent de deux gorgées d'eau, il but lentement son verre.
+
+}
+[sha:e984c697a7ce5b88957675ebc8ae9915777562b7]{
+-- Page 3, Offset 1127.
+-- ちょっと前までは井戸水を汲んでいた草十郎にとって、この便利さは喜ばしい。
+  Pour Sōjūrō qui, encore récemment, devait se servir dans un puits pour avoir à boire, cet aspect pratique était des plus agréables.
+
+}
+[sha:d56cc022176d811c252b19f10887cf706ba5fee2]{
+-- Page 3, Offset 1128.
+-- 喜ばしい、と思うことが正しい。
+  Voir cela comme une véritable bénédiction n'avait rien d'absurde.
+
+}
+[sha:f99e8f37e22f75b3460a25546e8b360f103c7f65]{
+-- Page 4, Offset 1129.
+-- 文明とは複雑化と最適化を突き詰めるもので、
+  La civilisation était une organisation au sein de laquelle tout était complexifié et optimisé de manière approfondie,
+
+}
+[sha:1ea83da61b02610fb67e753ec7e1fe72d9e16987]{
+-- Page 4, Offset 1130.
+-- 生活に必要なものは手間を減らし、
+  qui permettait de s'épargner beaucoup d'efforts pour toutes les choses nécessaires à la vie,
+
+}
+[sha:555b7af80f9da11e7266f9235d39c31f73bcf5cf]{
+-- Page 4, Offset 1131.
+-- 人生に必要なものはより複雑さを増していく、と教えてくれたのは<恒河|こうが>さんだったか。
+  tout en augmentant constamment leur complexité. C'était M. Kouga qui le lui avait appris.
+
+}
+[sha:554372965450cc9f09637f249e9164ad4f697bbd]{
+-- Page 4, Offset 1132.
+-- <手前|テメエ>はともかく前者の方から慣れるべきだ、とも彼は言った。
+  Avant toute chose, tu dois t'habituer à ce principe, avait-il dit.
+
+}
+[sha:e46b87d5bbb60990904c3bdfd3049774557d216b]{
+-- Page 5, Offset 1133.
+-- 草十郎の父の遠縁である恒河氏は、わりと、ほとんど他人に近い草十郎をここまで世話してくれた恩人である。
+  Les Kouga, famille éloignée de son père, même s'il était pratiquement un étranger pour eux, étaient les bienfaiteurs qui avaient pris soin de lui.
+
+}
+[sha:d2e18599c34142a691d38c4bcecc2e707c91faee]{
+-- Page 5, Offset 1134.
+-- アパートの契約や学校の手続きが問題なく済んだのは恒河氏の<尽力|じんりょく>あってのものだ。
+  Si les procédures d'inscription à l'école et le contrat de son appartement n'avaient pas posé problème, c'était grâce aux efforts de la famille Kouga.
+
+}
+[sha:fe877b96326d4e84b665545bb697d0287092bfcc]{
+-- Page 5, Offset 1135.
+-- 一方、住民票の<写|うつ>しやら移転届けやらは自分の手でやりやがれと叱られた。
+  Cependant, on lui avait également fait la leçon, car c'était lui qui devait faire la photocopie du certificat de résidence ou encore la lettre de déménagement.
+
+}
+[sha:004b6e9e25ebfece120e7748a6d5ea3abd189e1d]{
+-- Page 6, Offset 1136.
+-- 草十郎にとって手続き関連は困難なことこの上なかったが、これから都会で暮らしていくんだから、と前向きにこなしてみれば、こちらも呆気なく片が付いた。
+  Pour Sōjūrō, rien n'était plus problématique que tout ce qui concernait les procédures, mais après avoir réalisé qu'il allait vivre en ville à partir de maintenant, cela aussi avait fini par se régler facilement.
+
+}
+[sha:62aec4576c748c62d8a0145826f3360221849a22]{
+-- Page 6, Offset 1137.
+-- 『お役所仕事は厳しそうに見えてわりといい加減』
+『La bureaucratie semble compliquée, mais finalement, ça ne l'est pas tant que ça.』
+
+}
+[sha:37c0d973a833c4e03740aa3489b99a4005fe4b05]{
+-- Page 6, Offset 1138.
+-- 草十郎が街での生活を始めてから、最初に覚えた教訓である。
+  C'était la première leçon qu'il avait apprise en commençant à vivre en ville.
+
+}
+[sha:0b11aa2be87c3d1d8b5a140a2edce2659a2695a8]{
+-- Page 7, Offset 1139.
+-- 草十郎が田舎からやってきて二週間。
+  Cela faisait deux semaines qu'il était arrivé de la campagne.
+
+}
+[sha:5cf717bae02f20d1e25283081a911e32d0630256]{
+-- Page 7, Offset 1140.
+-- 不安だらけだったひとり暮らしも、やってみればなんとかなるものだ。
+  Même le fait de vivre seul, qui l'inquiétait au plus haut point, serait gérable une fois qu'il se serait lancé.
+
+}
+[sha:741cbb9afb3b8cb0b630c0bbf159c6b23dc75343]{
+-- Page 7, Offset 1141.
+-- 言葉が通じるんだから当たり前と言えば当たり前だし、なにより恒河氏の言うとおり、生活面だけなら都会の<あり方|ルール>はがっしりと筋が通っている。
+  Rien d'étrange à cela puisqu'il pouvait se faire comprendre, et surtout, comme le disaient les Kouga, les règles de la ville étaient très sensées en ce qui concernait les différents aspects de la vie quotidienne.
+
+}
+[sha:3a32db90177dedbf0025d207e6f1b75c98046cc3]{
+-- Page 8, Offset 1142.
+-- 硬い、驚くほど歩きやすい道を歩く。
+  Le chemin qu'il empruntait était dur et il y était étonnamment facile de marcher.
+
+}
+[sha:74f30e902c95bda571a09c2b27d7abc83ec425b4]{
+-- Page 8, Offset 1143.
+-- アルバイトの時間まで、時間つぶしに公園をジョギングする。
+  Pour passer le temps avant son travail, il fit du jogging dans le parc.
+
+}
+[sha:fc96f9f377f218424cc8df1e6b5ec60e4c145b0d]{
+-- Page 8, Offset 1144.
+-- 草十郎にしてみれば、こんな運動すら大事な教訓になる。
+  Du point de vue de Sōjūrō, on pouvait même tirer une leçon importante de ce genre d'exercice.
+
+}
+[sha:f1303d5fe936bde2d3c881e64f65286ec5d8148a]{
+-- Page 9, Offset 1145.
+-- 通り過ぎる人々はひとりひとりが新鮮で、
+  Chaque passant apportait une touche de fraîcheur.
+
+}
+[sha:1d1f9fd61bc4e1bd3fd86b43011bf23f899ad2b1]{
+-- Page 9, Offset 1146.
+-- 挨拶をしてくれるおじいさんも、
+  Du vieil homme le saluant,
+
+}
+[sha:575bfc7e3674271fa79dfaf5aaeed1ec05d5fc07]{
+-- Page 9, Offset 1147.
+-- うつむいて歩く二十歳ぐらいのお兄さんも、
+  au jeune homme, dans la vingtaine, qui marchait courbé,
+
+}
+[sha:88701da3289b2d9f88bc6289a5b6b8de6f953d90]{
+-- Page 9, Offset 1148.
+-- ベンチに座って鳥に囲まれている女の子も、
+  en passant par la fille assise sur le banc, entourée d'oiseaux.
+
+}
+[sha:b45c8a6cfb8163aa232f965962404a25a74058e9]{
+-- Page 9, Offset 1149.
+-- 草十郎にとっては<得難|えがた>い風景だ。
+  Mais pour quelqu'un comme Sōjūrō, c'était une scène difficile à comprendre.
+
+}
+[sha:489eb65d8c54272b0725f4456e4db6727a8e4445]{
+-- Page 9, Offset 1150.
+-- まだ街に慣れていない彼は、とにかくルールの把握に努めなくてはいけなかった。
+  Comme il n'était pas encore habitué à la ville, il devait s'efforcer d'en saisir les règles.
+
+}
+[sha:79e7459cf5f55f28f7197c34a6982dd81b48946b]{
+-- Page 10, Offset 1151.
+-- 複雑だったり単純だったり、
+  C'était soit simple soit compliqué,
+
+}
+[sha:468f0e927bcd18f67ac619f0159f5b82148ecb50]{
+-- Page 10, Offset 1152.
+-- 意味があったりなかったり。
+  et ça suivait une logique ou non.
+
+}
+[sha:940a485c653a7f0fd8a015599fa443941dbc903a]{
+-- Page 10, Offset 1153.
+-- 自然とだけ向き合っていればよかった山の暮らしと比べて、街の暮らしは選択肢が多すぎる。
+  Comparée à la montagne où il suffisait de vivre en harmonie avec la nature, la vie en ville était ponctuée par beaucoup trop de choix.
+
+}
+[sha:9ae5cc7dc3fa643cc55af0cb817af8b6fb2f008d]{
+-- Page 10, Offset 1154.
+-- 正直、今の草十郎には毒々しいとさえ言えた。
+  On pouvait même aller jusqu'à dire que pour le Sōjūrō actuel, c'était nocif.
+
+}
+[sha:45a18f09c862e1c107384681ef2a4ca61b6c54b7]{
+-- Page 11, Offset 1155.
+-- いまのところは不安になるような出来事ばかり。
+  Pour le moment, tout ce qui lui était arrivé n'avait fait qu'aggraver son anxiété.
+
+}
+[sha:96418e74f4c4eeca71bbb7ba5a6190fe84bda408]{
+-- Page 11, Offset 1156.
+-- ただ、その中にも心の底から感心できるルールだってある。
+  Mais il y avait aussi des règles pour lesquelles il éprouvait une profonde admiration.
+
+}
+[sha:31f5454e240bd7a64cc4330fcaa901d33a451549]{
+-- Page 11, Offset 1157.
+-- 色々と合点のいかない<損得勘定|ルール>で回る都会だが。
+  La ville tournait autour de règles variées avec lesquelles il n'était pas toujours d'accord.
+
+}
+[sha:1e7afb18846e99e09fc9f4bf2d2d3679944afeee]{
+-- Page 11, Offset 1158.
+-- とりあえず、お金さえあれば必要な物はあらかた貰えるのは、なるほど、都会の暮らしも悪くないと思う草十郎なのだった。
+  Mais pour le moment, le fait de pouvoir obtenir ce dont on avait besoin tant qu'on avait de l'argent lui faisait penser que vivre en ville n'était pas si mal.
+
+}
+[sha:fe7326dc7bfe98c632c1af7de4cc7f884768f283]{
+-- Page 12, Offset 1159.
+-- 「いや、そうシンプルな話じゃねぇよ。
+「Non, ce n'est pas aussi simple.
+
+}
+[sha:2a5e00ef979d6648b1490866c7d2039ff70e966b]{
+-- Page 12, Offset 1160.
+-- 金なんてものはあくまで記号で、本当に大事なのは別にあんだからさあ。
+  L'argent n'est qu'un symbole. Ce qui est vraiment important se trouve ailleurs.
+
+}
+[sha:019aacd9a2b89dffb95a2190ab49bc3cd2724779]{
+-- Page 12, Offset 1161.
+-- しょせんは流動する肩たたき券と変わんねーっつーか、別に一万円札食っても<旨|うま>くねぇっつーか……あー、ともかく金で真心は買えねえじゃん？」
+  Après tout, ce n'est pas bien différent d'un simple ticket de massage qui passe de main en main ; et puis, ce n'est pas comme si un billet de mille yens était bon à manger...... Aaaah, en tout cas, tu ne peux pas acheter l'honnêteté avec de l'argent, pas vrai ?」
+
+}
+[sha:0b3d7d06f1a4104a989ce98bad668b2f5f463b47]{
+-- Page 13, Offset 1162.
+-- 「えー」
+「Hmm.」
+
+}
+[sha:9f6e73f1ae4f57cf493cd974577f34d0c6f7fde2]{
+-- Page 13, Offset 1163.
+-- 「えーじゃねえよ！　ザケンなよー、オレは悲しいよー。
+「Y a pas de hmm qui tienne ! Te fous pas de moi ! Tu me fais de la peine.
+
+}
+[sha:0a326bcf2f68390ec759656e04660d22008d5602]{
+-- Page 13, Offset 1164.
+-- ついこの間まで四千円っぽっちの日当に鹿みたいに首かしげていた正直者が、くっだらねえ皿洗いをしながら“ま、世の中金だよね”なんて、ぼそっと言わないでくれっつの」
+  Je ne veux pas qu'un honnête gars qui, hier encore, baissait piteusement la tête pour des indemnités journalières d'à peine 4 000 yens me dise, tout en faisant quelque chose d'aussi insignifiant que la plonge, que “dans le monde, le plus important, c'est l'argent”.」
+
+}
+[sha:3c452486cbb19e451aabb6f7e9c841702eb2c547]{
+-- Page 14, Offset 1165.
+-- 「いや、貨幣制度は素晴らしいと思う。正直、物々交換の限界を感じた。
+「Non, je trouve juste le système monétaire formidable. Honnêtement, j'ai senti la limite du troc.
+
+}
+[sha:f7e5a4821a3b316a9d8d8c0cc4b1d1aee13a2f45]{
+-- Page 14, Offset 1166.
+-- それより<木乃美|きのみ>、ふざけてると<皿|それ>、落とすぞ」
+  En passant Kinomi, si tu continues de faire l'idiot, tu vas faire tomber l'assiette.」
+
+}
+[sha:c7d7003826bb70c4571de2f92400eb5c0c231094]{
+-- Page 15, Offset 1167.
+-- 「え？　って、うおぉぉおヤベえヤベえ、つぎ割ったら今度こそオレの頭が割られちまうからな！
+「Hein ? Aaaaaah, j'ai failli gaffer ! Si jamais j'en casse encore une, c'est ma tête qui finira en morceaux.
+
+}
+[sha:6ab56ce1e2488d46e410346e8a1c80068b20593f]{
+-- Page 15, Offset 1168. Glued. Mods: @x.
+-- 忠告サンキュー。それで、相談ごと？　なに、もしかして金？」
+ Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-être ?」
+
+}
+[sha:2735462657b0d4e388b57ac91304cfa057ef8b30]{
+-- Page 15, Offset 1169.
+-- 「そうなんだ。とりあえずお金は大事で、たくさんあるに越したことはないって痛感した。なんで、出来ればもうちょっと働きたい」
+「C'est ça. J'ai vraiment ressenti que l'argent était important et qu'il valait mieux en avoir beaucoup. Et donc, si possible, je voudrais travailler un peu plus.」
+
+}
+[sha:af8b3dfc63cfa31980db895b264aa66e7b0ac182]{
+-- Page 16, Offset 1170.
+-- 「うぇ、マジぃ？　マシーンみたいに皿洗いをこなしながら夢のないコト言わないでほしいなあ。
+「Hé, sérieux ? J'aimerais bien que tu évites de dire des choses aussi pragmatiques tout en lavant des assiettes comme une machine.
+
+}
+[sha:3302de9ac96de0e0cac2437d8eee5e0692fd1a65]{
+-- Page 16, Offset 1171.
+-- 世の中金じゃねえって言ったばかりじゃんか。やっぱラブじゃんか。ところで水冷たくないですかね？　冬場の皿洗いって割合わねえコトこの上ねえよな？」
+  En plus, je viens de te dire que le plus important, c'est pas l'argent. C'est l'amour. Au fait, l'eau n'est pas trop froide ? Il n'y a rien de plus atroce que la plonge en hiver, pas vrai ?」
+
+}
+[sha:200de60fbf7a36c1125e2afdcba375253be4eb96]{
+-- Page 17, Offset 1172.
+-- 「そりゃ冷たいけど、これぐらいは我慢しないと。
+「C'est sûr qu'elle est froide, mais je devrais pouvoir supporter ça.
+
+}
+[sha:dbb966453b887a49522449372a42427933a5e956]{
+-- Page 17, Offset 1173.
+-- 山の水は冷たいっていうより痛かったし」
+  Et puis, en montagne, on ne dit pas que l'eau est froide, mais qu'elle fait mal.」
+
+}
+[sha:93f88e4fb94055a04af40576f4f22b82866163b9]{
+-- Page 18, Offset 1174.
+-- 「氷水とおんなじにすんな野生児め。……しっかしアレだね、あきれた順応力、いや忍耐力？　つーの？
+「Ne la compare pas à ton eau glaciale, espèce d'enfant sauvage......! Sinon, je trouve que tu as une sacrée capacité d'adaptation... à moins que ce ne soit de la détermination ?
+
+}
+[sha:98eab070599f2af41cd8ebccce8c98f0b8146544]{
+-- Page 18, Offset 1175.
+-- レジ打ちすらできなかった新人がよぅ、たった四日でしみったれたメシ屋の<社畜|しゃちく>になっちまうなんて……やっぱ世の中金ってコトかねー。資本主義ってすげー」
+  Un nouveau venu, qui ne pouvait même pas se charger de la caisse, est devenu en seulement quatre jours un radin et un suppôt du secteur de la restauration...... L'argent est peut-être bien le plus important, en fait. Le capitalisme est vachement impressionnant.」
+
+}
+[sha:2c8c86cdd84dc03b6b6607768d4e99a8c1ff1d92]{
+-- Page 18, Offset 1176.
+-- 「うるっせえぞバカバイト、文句あんなら辞めちまえ！
+「Ferme-la, abruti de mi-temps ! Si tu as un problème, tu peux démissionner !
+
+}
+[sha:3f053a311bae2de5d45d986e11cbf3799ba4b0ff]{
+-- Page 18, Offset 1177.
+-- うちにゃあ<穀潰|ごくつぶ>しにくれてやる小遣いはねえ！」
+  On n'a pas d'argent à donner aux bons à rien !」
+
+}
+[sha:8035ec0ee2bd511317bafd01f43a24ec971fc836]{
+-- Page 19, Offset 1178.
+-- 間髪いれず、すっかーん、と飛ばされる罵声と<菜箸|さいばし>。
+  Les quolibets et les baguettes plurent sans interruption.
+
+}
+[sha:6301a5fcf5b2ce4635296253763e05c6e2936f22]{
+-- Page 19, Offset 1179.
+-- 未成年でも働かせてくれるアバウトな中華飯店の店長は、たとえ赤ん坊の頃から顔見知り……お隣さんの息子さん……であろうと鉄拳を振るう、たくましい人物だった。
+  Le chef débraillé du restaurant chinois qui employait des mineurs était un personnage robuste qui montrait le poing...... même face au fils de son voisin qu'il connaissait depuis qu'il était bébé.
+
+}
+[sha:78af569c8910be3c9e5d1b72c49f1192f09a8e27]{
+-- Page 19, Offset 1180.
+-- こういうのをスパルタと言うんだな、と草十郎は感心する。
+  C'est ce qu'on appelle une rigueur spartiate, hein, admira Sōjūrō.
+
+}
+[sha:019237a4da4d12f3e2515fe71ad5894add0c8b48]{
+-- Page 20, Offset 1181.
+-- 「ほら怒られた。任された事はきちんとやらないと」
+「Tu vois, il s'est énervé. Il faut faire correctement les tâches que l'on nous confie.」
+
+}
+[sha:9df0e22c808d182e4c609fe95078a07231a0b114]{
+-- Page 20, Offset 1182.
+-- 「けっ、優等生め。こっちは何かと反抗したい年頃だっつの。
+「Es, espèce de fayot. Moi, je suis dans ma période rebelle.
+
+}
+[sha:a04277497ab10b3f828fb199e065285bc2e06173]{
+-- Page 20, Offset 1183.
+-- まあいいや。話は変わるんだけどよ。
+  Enfin, c'est pas grave. Changeons de sujet.
+
+}
+[sha:a9f16232648583d7c359a916e8abd2ddf87b5526]{
+-- Page 20, Offset 1184.
+-- 静希、夜に出歩くタイプ？　それかチャリンコで出ばる趣味？　いやまぁ、どっちかでいいんだけど」
+  Shizuki, tu es du genre à sortir te promener la nuit ? Ou alors à faire un tour en bicyclette ? Enfin, peu importe de quelle manière.」
+
+}
+[sha:ba8d65a9285595a8b4305358e03a54510d4a536c]{
+-- Page 21, Offset 1185.
+-- 「……？　バイトの帰りはほとんど夜になるけど、そういう話じゃないんだよな。夜の散歩も遠出も趣味じゃないけど、それが？」
+「......? Lorsque je rentre du boulot, la plupart du temps, il fait déjà nuit, mais ça n'a pas l'air d'être ta question. Je n'ai pas pour habitude de faire une promenade nocturne ou d'aller loin, pourquoi ?」
+
+}
+[sha:77ab6dbfc46deb20b81426c051661e11e0522457]{
+-- Page 22, Offset 1186.
+-- 「いや、なにさ。静希、引っ越してきたばかりだっていうからよ。オレらが言うのもなんだけど、<三咲町|うち>、ちょい治安が悪いっての？　ガラが悪いワケじゃねえんだけどな。
+「Pour rien, c'est juste que tu viens à peine de déménager ici. Même si c'est juste mon avis, le vieux quartier de Misaki n'est pas très sûr. Enfin, je ne veux pas dire que les gens y sont spécialement malveillants.
+
+}
+[sha:6c7ebdf0d89e2f194bef7fd6deb24eab47d4cb9d]{
+-- Page 22, Offset 1187.
+-- 年間十人ぐらい通り魔事件っての？　そういうの、起きてっから」
+  Tous les ans, environ 10 personnes sont impliquées dans cette affaire d'agression aléatoire. Y a des choses de ce genre qui se passent dans le coin, c'est pour ça.」
+
+}
+[sha:ba0969fe1b76bbb3f45ae7c19c19d8e67fa15a75]{
+-- Page 22, Offset 1188.
+-- 「……とおりまって、なんだ？」
+「...... C'est quoi, une agression aléatoire ?」
+
+}
+[sha:6eeb74193e8e6e9a8ad4e47e9ef158292aa95ac7]{
+-- Page 23, Offset 1189.
+-- 「そっからかよ！
+「Je dois même t'expliquer ça ?!
+
+}
+[sha:6e56a73417faf18e3b97dacc8739322bbd1a9ca7]{
+-- Page 23, Offset 1190.
+-- ……なんだ、ほら！　カバン強盗……でもないか。
+  ...... Voyons voir. Tu vois les voleurs à l'arraché......? Enfin, pas tout à fait.
+
+}
+[sha:15cbd23a39f6b727f9bf8f9a27c923bcc6db3161]{
+-- Page 23, Offset 1191. Glued. Mods: @x.
+-- <辻斬|つじぎ>りってのが近いのか。住宅街とか、まだ森が残ってる方によく出やがるんだよ、そういうおかしいのが。
+ Ça correspondrait plutôt à quelqu'un qui tue des gens pour essayer son nouveau sabre. Ce genre de trucs bizarres se produisent en général à proximité de la zone forestière ou dans la zone résidentielle.
+
+}
+[sha:3b59b272f047876ccf5207ce4b09cbb635cfbdb6]{
+-- Page 23, Offset 1192.
+-- なんで、あんまり夜遅くは出歩くなよな。三咲丘の公園とか、有名な怪奇スポットだから。
+  Donc ne te promène pas trop tard la nuit. Le parc de Misaki-oka est lui aussi célèbre pour les choses étranges qui y apparaissent.
+
+}
+[sha:77e039b51e0f9de2f8d3a1c982b796514972f7a4]{
+-- Page 23, Offset 1193.
+-- 通り魔の犯人は口裂け女だったって話、知らねえか？」
+  Tu ne connais pas la rumeur selon laquelle le coupable de ces agressions est une femme à la bouche fendue ?」
+
+}
+[sha:7c915c6d7559abb5faa92ee4a0b1c79df2652f8a]{
+-- Page 24, Offset 1194.
+-- 「ごめん、まずその口裂け女ってのが分からない」
+「Désolé, mais je ne vois même pas ce qu'est cette femme à la bouche fendue.」
+
+}
+[sha:82c34f9b4e5a2d7609006a39aac6e61d487aafc3]{
+-- Page 24, Offset 1195.
+-- 「怪談だよ。口が耳まで裂けてるってヤツ。
+「C'est une histoire de fantôme. Dans celle-ci, il a la bouche fendue jusqu'aux oreilles.
+
+}
+[sha:ec24f931f67a461ec584eff5eb2e7132e4a19410]{
+-- Page 24, Offset 1196.
+-- 今じゃさすがに時代遅れだけどよ」
+  Même si de nos jours, cette histoire est assez démodée.」
+
+}
+[sha:19316121184f7de658a9cc64d09679c671b43000]{
+-- Page 25, Offset 1197.
+-- 「えーとなんだっけ、深夜の道にな、コート姿の女が待ち伏せていて『わたしきれい？』とか聞いてくるんだよ。
+「C'était quoi déjà. Sur ton chemin, tard dans la nuit, une femme en manteau te tend une embuscade et te demande : 『Est-ce que je suis belle ?』.
+
+}
+[sha:829824ee1c26243820c8c69844063455081a978f]{
+-- Page 25, Offset 1198.
+-- で、キレイって言ってもイマイチって言っても家まで追っかけられて殺されるの。
+  Et tu as beau lui dire qu'elle est belle ou même normale, tu te fais poursuivre jusque chez toi et tuer.
+
+}
+[sha:cf9fbacd425c120925ec8a1b361e290df562fca6]{
+-- Page 25, Offset 1199. Glued. Mods: @x.
+-- 女の情念はおっかねえっつうか、アメコミの怪人っぽいっつうか」
+ La passion féminine fait peur, c'est comme une héroïne des comics américains.」
+
+}
+[sha:f8c1135fd220a8de10bc36de20f92c47cd62bafb]{
+-- Page 26, Offset 1200.
+-- 「……いや、それ本気で怖くないか？
+「...... C'est vraiment effrayant, non ?
+
+}
+[sha:82616a29e72d2c3e981ab13b7cc800eb11afa9ca]{
+-- Page 26, Offset 1201.
+-- 家まであがってくるのか、その女の人？」
+  Cette femme va même jusqu'à pénétrer dans ta maison ?」
+
+}
+[sha:7b1c9372f893d5a9501c353214ba355bf0e61f2e]{
+-- Page 26, Offset 1202. Mods: @k, @e.
+-- 「窓から入ってくるらしいぜ。
+「Oui, il paraît qu'elle entre par la fenêtre.
+
+}
+[sha:e8e7a677d87f3f1b4fff668230d885224dd8be11]{
+-- Page 26, Offset 1203. Mods: @k, @e.
+-- ガサガサと、こう、ゴキブリみた―――
+  Comme un cafard avec des bruisseme―――
+
+}
+[sha:0b43a984d36c96c8c6f5393069bf23a6520f0f3c]{
+-- Page 26, Offset 1204. Glued. Mods: @x.
+-- ぎゃっ！？」
+ Gya ?!」
+
+}
+[sha:fc1903cf9979fcceeaa05a2c2ec5a8901cebf976]{
+-- Page 26, Offset 1205.
+-- 「っのクソガキが、厨房でその四文字は禁止だってんだろ、殺すぞ！」
+「Espèce de sale morveux, je t'ai déjà dit que ces deux syllabes étaient interdites dans la cuisine ! Je vais te tuer !」
+
+}
+[sha:42049c7b523a74d0077bb4a844c5381625a85278]{
+-- Page 27, Offset 1206.
+-- そうして木乃美の後頭部に炸裂する、店長のフライパン／縦攻撃。
+  Et le chef abattit sa poêle à frire sur le crâne de Kinomi.
+
+}
+[sha:f86f1851a47ffe46cb95c4b347f3f91f3ef413b1]{
+-- Page 27, Offset 1207.
+-- なるほど、町は危険であふれている、と草十郎は再び感心した。
+  Je vois, la ville regorge de dangers, pensa Sōjūrō de nouveau admiratif.
+
+}
+[sha:c77abb8e37d7a5f04311b80ec663f632d8435368]{
+-- Page 28, Offset 1208.
+-- 「殺す殺すってバカじゃねえの!?
+「T'es pas con de répéter que tu vas me tuer ?!
+
+}
+[sha:77602d9cc505602b58fd4f4463170ee4b7ff9369]{
+-- Page 28, Offset 1209. Glued. Mods: @x.
+-- フツーそっちの方が禁止用語じゃねえの!?　ここレストランなんだしさ！　いや、あんまうまくねーけど！」
+ D'ailleurs, pourquoi c'est pas ça qu'on n'a pas le droit de dire ?! On est dans un restaurant, quand même ! Même s'il est pas très bon !」
+
+}
+[sha:9c2a63b8d1f6bbfaa4a01cc6ca60c30973cbfcb1]{
+-- Page 28, Offset 1210.
+-- 「木乃美、頭、大丈夫か？」
+「Kinomi, ta tête va bien ?」
+
+}
+[sha:76dba1da3582783560037803923a25aad3882276]{
+-- Page 29, Offset 1211.
+-- 「え？　あ、ん、心配無用。オレ、なんでか頑丈さには定評があるから。特に頭部について。
+「Hein ? Ah, t'inquiète pas. Bizarrement, je suis réputé pour ma robustesse. Mon crâne tout particulièrement.
+
+}
+[sha:b188fdb68a7be0e85c21034ae58dfc71517d7804]{
+-- Page 29, Offset 1212.
+-- ともかく、そういうワケなんで夜の暗がりは気をつけるぞなもし。静希、見るからにカモそうな顔してるし」
+  En tout cas, fais attention aux coins sombres la nuit. Après tout, tu as une tête de pigeon.」
+
+}
+[sha:450ef19430d547af249bb26a0176d4e7135fa0ec]{
+-- Page 29, Offset 1213.
+-- 「ありがとう。
+「Merci.
+
+}
+[sha:118c83b3bfb79d0e7f7438942cf148d44687bedf]{
+-- Page 29, Offset 1214.
+-- ところで、年間十人というのは多い方なのか？」
+  Au fait, dix agressions par an, c'est beaucoup ou pas ?」
+
+}
+[sha:0559ef907a2fd243b4bc5ea4d77716be73da3c50]{
+-- Page 30, Offset 1215.
+-- 「知んねぇよ。少なくはないだろうけど、多い方でもないんじゃねえか？
+「Je sais pas trop. C'est pas un petit nombre, mais c'est pas énorme non plus, non ?
+
+}
+[sha:59fe6e4a660be006ac6476fd7d70dd44c141322a]{
+-- Page 30, Offset 1216.
+-- ま、<三|う><咲|ち>の通り魔事件が他に比べて厄介なのは、まだ犯人が見つかってないってコトだからネ！」
+  Enfin, ce qui est embêtant avec l'affaire des agressions aléatoires, c'est que, contrairement à d'autres affaires similaires, le coupable n'a pas encore été arrêté !」
+
+}
+[sha:64a47d913581f2d03d700c667ec922d6dc3b94f1]{
+-- Page 31, Offset 1217.
+-- はははは、と陽気に笑う。
+  “Ha ha ha”, ria-t-il joyeusement.
+
+}
+[sha:d54bfb7a358819b134002af90aa4a858b35428f1]{
+-- Page 31, Offset 1218.
+-- そうやって不吉な話を笑い話に切り替える木乃美の高度な意図は、もちろん草十郎には伝わっていない。
+  Évidemment, Sōjūrō ne se rendit pas compte que le véritable objectif de Kinomi en riant ainsi était de faire passer ce récit macabre pour une histoire drôle.
+
+}
+[sha:9846069a72efeea2daed743972354d2874ed50a2]{
+-- Page 31, Offset 1219.
+-- 親切な忠告も<糠|ぬか>に<釘|くぎ>。
+  Sa diligente attention ne fut qu'un coup d'épée dans l'eau.
+
+}
+[sha:cb54e5373b09ffcb9b5d81f92278e40a3e57b492]{
+-- Page 31, Offset 1220.
+-- そっか、ここは笑うところなのか、とまたも真剣に感心する草十郎なのだった。
+  Je vois, c'est là où il faut rire, se dit sérieusement Sōjūrō aux anges.
+
+}
+[sha:f3a2ea1fb2133f3fc922d366fef5eed008661e94]{
+-- Page 32, Offset 1221.
+-- その帰り道。
+  Sur le chemin du retour,
+
+}
+[sha:efa532a7f0c57236b700ba97ccd9c8224ee901e1]{
+-- Page 32, Offset 1222.
+-- 前にも後ろにも人のいない、電灯だけが照らす暗い住宅地で、草十郎は唐突に、
+  dans le sombre quartier résidentiel désert éclairé uniquement par des réverbères, Sōjūrō, brusquement,
+
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 32, Offset 1223.
+-- 「……？」
+「......?」
+
+}
+[sha:8a5c9c9617719fba3d03e37ab13fb24d27aa874b]{
+-- Page 32, Offset 1224.
+-- 何か、ありえない物音に振り返った。
+  se retourna en entendant un bruit incroyable.
+
+}
+[sha:4becb20c6c8af990bcee8773159e0e79e069d517]{
+-- Page 33, Offset 1225.
+-- 「―――あいた！？」
+「―――Aïe ?!」
+
+}
+[sha:772d2ff42972680b16916d042e14fd6ab501d349]{
+-- Page 33, Offset 1226.
+-- 脳天に刺さる衝撃と、ぽとん、と足下に落ちる音。
+  Il reçut un coup sur le crâne et entendit quelque chose tomber à ses pieds.
+
+}
+[sha:39590197d08e913b89b1dcef03f296b6d8a5657b]{
+-- Page 33, Offset 1227.
+-- ついてない、と<眉|まゆ>を<曇|くも>らせる。
+  Je n'ai pas de chance, pensa-t-il en fronçant les sourcils.
+
+}
+[sha:5ad0b01ba4f676db5f632912f8c19899c45bc3e4]{
+-- Page 33, Offset 1228.
+-- 電柱にぶつかって墜ちてきた小鳥に、歩いていた自分がぶつかってしまったらしい。
+  Apparemment, un petit oiseau s'était cogné au poteau électrique et lui était ensuite tombé dessus alors qu'il marchait.
+
+}
+[sha:07946665f208a8c037b48299cca1a2fd5c9857fd]{
+-- Page 34, Offset 1229.
+-- ムクドリは路面で<毛繕|けづくろ>いをした後、あわただしく飛んでいった。
+  L'étourneau, après s'être nettoyé les plumes sur la route, s'envola prestement.
+
+}
+[sha:f9c863f8ce1f84212b05afeda715662be97fe611]{
+-- Page 34, Offset 1230.
+-- 鳥が墜ちてくるコトも、
+  Le fait qu'un oiseau tombe,
+
+}
+[sha:dd62920294126e7411d0ff3c05dc9e10dce597d0]{
+-- Page 34, Offset 1231.
+-- その後、慌てるように飛び去っていくコトも、
+  et s'envole immédiatement après,
+
+}
+[sha:d56936ed0047191ca82552db38cd811a9f394dbc]{
+-- Page 34, Offset 1232.
+-- 彼の今までの生活、今までの常識にはなかった事だ。
+  était quelque chose qu'il n'avait jamais vu au cours de sa vie, quelque chose d'inconnu pour son sens commun jusque-là.
+
+}
+[sha:cb8d92656f411a4321e0cf59a74a1f3ece753b55]{
+-- Page 35, Offset 1233.
+-- 町の人間なら『墜ちてきた鳥に当たる』なんて不運、奇遇に、不吉なものを感じるのだろうが、草十郎はなるほど、とうなずいて帰路についた。
+  S'il avait été élevé en ville, il aurait considéré le fait qu'un oiseau s'écrase sur lui comme de la malchance, une rencontre fortuite, ou un mauvais présage, mais Sōjūrō acquiesça avec compréhension et reprit le chemin du retour.
+
+}
+[sha:7f0ab6803195f0aca5514a842b357ddb461a8dc9]{
+-- Page 35, Offset 1234.
+-- ―――なに。
+  ―――Après tout,
+
+}
+[sha:8c7eff9d2d37b674759e10d64cc5a4987c17c20f]{
+-- Page 35, Offset 1235.
+-- 自分にとっては初めての経験だったが、都会ではよくある事に違いない。
+  c'était quelque chose qui lui arrivait pour la première fois, mais en ville, ça devait sûrement se produire de temps en temps.
+
+}

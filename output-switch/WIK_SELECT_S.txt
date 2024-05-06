@@ -1,0 +1,36 @@
+[sha:af80952202fdf65ddecb46f7d5f209a669034fdd]{
+-- Page 24, Offset 23212. Mods: @e.
+-- ～選択肢Ｓ～
+-Choix S-
+
+}
+[sha:441fbf7989ee82686541a09cc8c2265c8a924a54]{
+-- Page 24, Offset 24067. Choice.
+-- １４時～１６時の間？　と思った。
+Je me dis que ça devait être entre 14 et 16 heures.
+
+}
+[sha:1335566224968e30d8006d6adbf5fb4dd33f273a]{
+-- Page 24, Offset 24068. Choice.
+-- １６時～１８時の間？　と思った。
+Je me dis que ça devait être entre 16 et 18 heures.
+
+}
+[sha:c240d145a0d0841a291bcc17b8f8c429671986a5]{
+-- Page 24, Offset 24069. Choice.
+-- １８時～２０時の間？　と思った。
+Je me dis que ça devait être entre 18 et 20 heures.
+
+}
+[sha:c4612eee82db2259bd2c9258eefa3075b8daf6b8]{
+-- Page 24, Offset 24070. Choice.
+-- ２０時～２２時の間？　と思った。
+Je me dis que ça devait être entre 20 et 22 heures.
+
+}
+[sha:24122abc299170793aed7cd3a32d300e7e7e7c99]{
+-- Page 24, Offset 24071. Choice.
+-- ２２時～０時の間？　と思った。
+Je me dis que ça devait être entre 22 heures et minuit.
+
+}

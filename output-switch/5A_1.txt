@@ -1,0 +1,564 @@
+[sha:3e6054d67f1b6e7eb65d4930e6e4bbaee1ebcc9c]{
+-- Page 1, Offset 3919.
+-- 雲のかかった夜空の下、草十郎はあいかわらずの徒歩でアパートに帰ってきた。
+  Sous un ciel nocturne nuageux, Sōjūrō regagnait son appartement, à pied comme à l'accoutumée.
+
+}
+[sha:170b7da943acc2a7ffb751e9d56e47a350157d6e]{
+-- Page 2, Offset 3920.
+-- カンカンカン、と<錆|さ>びた金属音を踏みながら階段を上っていく。
+  Il monta les escaliers en faisant grincer le métal rouillé à chaque pas.
+
+}
+[sha:59d9ce1875b590f34dbcb0e0ef6515ede797dc84]{
+-- Page 2, Offset 3921.
+-- アパートの塀に置かれた自転車をチラリと見て、
+  Il regarda à la dérobée la bicyclette posée contre la clôture de l'immeuble.
+
+}
+[sha:d873cbd0e6e4daa078f23837aad196b8c9274db8]{
+-- Page 2, Offset 3922.
+-- 自分も自転車があれば楽なのだろうか、でも余分な出費だし、あれば便利だけど無くて死ぬようなものじゃなし、もう少し我慢しよう、などと真剣に悩んでみる。
+  Je me demande si je me fatiguerais moins avec une bicyclette ? C'est pratique, mais c'est une dépense superflue, et même si je n'en ai pas, ce n'est pas la mort. Je peux attendre encore un peu, songea-t-il sérieusement.
+
+}
+[sha:1c890404a4b474e362148841fddac613863e3686]{
+-- Page 3, Offset 3923.
+-- ドアに到着して、リンゴのつまった紙袋を抱えたまま鍵を取り出す。
+  Arrivé à la porte, il sortit sa clef, un sac en papier rempli de pommes sous le bras.
+
+}
+[sha:935c31247889eeaa85443fa3a51e67d3ae224c5b]{
+-- Page 3, Offset 3924.
+-- “あれば便利だけど無くて―――”
+          “C'est pratique, mais même si je n'en ai pas―――”
+
+}
+[sha:3580f5f46f06ce3d2f443bf967915485d21ed1ae]{
+-- Page 3, Offset 3925.
+-- ん？と首をかしげる。
+  “Hm ?” fit-il d'un air perplexe.
+
+}
+[sha:9dcd165bc3ceb52ab3bc77e01976e2dbbeb3c4c4]{
+-- Page 3, Offset 3926.
+-- <益体|やくたい>も無い自分の言葉にひっかかるものを感じた草十郎だったが、もらい物の<果物|リンゴ>をどうさばくかでいっぱいだったコトもあり、あっけなくスルーした。
+  Quelque chose dans cette pensée fugace incommodait Sōjūrō, mais il se focalisait tellement sur ce qu'il allait faire des pommes qu'on lui avait offertes qu'il s'en désintéressa rapidement.
+
+}
+[sha:c7da5218e3e94b8b8f3c417e15ca1572a46b90b4]{
+-- Page 4, Offset 3927.
+-- 紙袋を流し場に置いて、部屋の電気をつける。
+  Il laissa le sac près de l'évier et alluma la lumière de sa chambre.
+
+}
+[sha:6ba2af7ed17e08e401ddb329485f323456740b72]{
+-- Page 4, Offset 3928.
+-- 時刻は午後十時過ぎ。
+  Il était dix heures du soir passées.
+
+}
+[sha:e68e09c32cd23eaaadd8a8630bdad157bf9a0a89]{
+-- Page 4, Offset 3929.
+-- 試験前なのでいつもより一時間早い帰宅。
+  Les examens étant proches, il était rentré une heure plus tôt que d'habitude.
+
+}
+[sha:d7e95505c82dfa25986b014ceb732ec033e74731]{
+-- Page 4, Offset 3930.
+-- とりあえずリンゴをひとつ食べてみるか、と台所を振り返ると、新聞受けに差しこまれた封筒に気が付いた。
+  Pensant d'abord manger une pomme, il se retourna vers le coin cuisine et s'aperçut qu'une enveloppe avait été glissée dans la boîte à journaux.
+
+}
+[sha:6cd60d5fd732003cb19e824c159ed3d8a489a111]{
+-- Page 5, Offset 3931.
+-- 差出人の明記はなく、切手すら貼っていない。
+  L'identité de l'expéditeur n'était pas mentionnée, et il n'y avait même pas de timbre.
+
+}
+[sha:90bead230fc9a6261db696f1ddab71ad39295ae1]{
+-- Page 5, Offset 3932.
+-- 中には一枚の手紙が入っていて、用件と差出人の名前だけが書かれていた。
+  À l'intérieur se trouvait une lettre sur laquelle seuls le nom et la requête de l'expéditeur étaient indiqués.
+
+}
+[sha:8722270d79a5ed196a3a390e8d077a307c26806c]{
+-- Page 6, Offset 3933.
+-- 内容はいたってシンプルで、
+  La teneur du message était très simple.
+
+}
+[sha:a527a8fdbb089c26081c86a8f81b2d584011d288]{
+-- Page 6, Offset 3934.
+-- 『話があるので今夜どこそこのここに来られたし、
+『J'ai quelque chose à te dire, alors ce soir, rends-toi à l'endroit indiqué.
+
+}
+[sha:ef7f322fac5705af64a735498f2fb7b6642081e1]{
+-- Page 6, Offset 3935.
+-- 大事な用なので来るまでずっと待っている、
+  C'est une affaire importante, je t'attendrai donc jusqu'à ce que tu viennes.
+
+}
+[sha:3005e462a566bd65ddf972eada7de0b4f376e5ef]{
+-- Page 6, Offset 3936.
+-- 言うまでもなく他言無用―――』
+  Il va de soi que tu ne dois en parler à personne―――』
+
+}
+[sha:d8951ebadbe4b72335d81a734cf881f0fd3539ca]{
+-- Page 6, Offset 3937.
+-- という<旨|むね>が、簡潔、かつ凛々しい文字で<綴|つづ>られていた。
+  Ces instructions étaient très claires et avaient été rédigées avec une écriture élégante.
+
+}
+[sha:ebdc92e13702003fc44a3c3e8731ff3d6c63e737]{
+-- Page 7, Offset 3938.
+-- 差出人の名前は蒼崎青子とある。
+  Le nom de l'auteur était Aozaki Aoko.
+
+}
+[sha:ce00d4d4838680b3b4116f207bd23fd25b6416ce]{
+-- Page 7, Offset 3939.
+-- 丁寧な事に、待ちあわせ場所の詳細な地図まで同封されていた。
+  Prévoyante, elle avait même joint une carte détaillée du lieu de rendez-vous.
+
+}
+[sha:64533cf1e395a583d3973cc87578c861857a1781]{
+-- Page 7, Offset 3940.
+-- ふむ、と少しだけ首をかしげて、彼はアパートを後にした。
+  Un peu perplexe, il quitta son appartement.
+
+}
+[sha:be534ee9786635986e2e1003cae46faffec6f257]{
+-- Page 8, Offset 3941.
+-- ……その後。
+  ...... À la suite de son départ,
+
+}
+[sha:bca400ae5efc78599be3881eece48e885e7c4b6d]{
+-- Page 8, Offset 3942. Mods: @n.
+-- 主人のいなくなった部屋で残された封筒はひとりでに燃えだし、はじめから何も無かったかのように、跡形もなく消滅した。
+  l'enveloppe, laissée dans la chambre déserte, s'enflamma toute seule et disparut sans laisser de traces, comme si elle n'avait jamais existé.
+
+}
+[sha:1beb3dd4e8564e7d799f11ec97baa4944073741a]{
+-- Page 9, Offset 3943.
+-- 高度成長期もひとまずの落ち着きを見せ、安定期に入った８０年代後半。
+  Dans cette deuxième moitié des années 80, début d'une période où la croissance économique présentait une stabilité temporaire,
+
+}
+[sha:ffc18c5114a1a0732d7e9f62d8d62a7395bea7c1]{
+-- Page 9, Offset 3944.
+-- 街の近代化は着々と進み、新時代を代表するＪＲの駅が落成しようとしていた頃。
+  alors que la ville se modernisait progressivement, et que la gare de la Japan Railways, symbole d'une ère nouvelle, était sur le point d'être achevée,
+
+}
+[sha:a67ae770c2621621cd7346558384508decb6a216]{
+-- Page 9, Offset 3945.
+-- 三咲町の隣町である<社木|やしろぎ>に、またひとつ、町の新しいシンボルが生まれようとしていた。
+  un autre symbole allait voir le jour à Yashirogi, ville voisine du vieux quartier de Misaki.
+
+}
+[sha:56fb06447f3f3d69e2e611ba1df8292e99faf7d7]{
+-- Page 10, Offset 3946.
+-- その名はやしろぎブレッド＆キッツィーランド。
+  Son nom était Yashirogi Bread & Kitsy Land.
+
+}
+[sha:4d686fa73e7d3409466a583ebc2b9e35b2e19499]{
+-- Page 10, Offset 3947.
+-- 三咲市最大の不良債権。
+  La plus grande créance douteuse de l'histoire de Misaki.
+
+}
+[sha:cf6cd293e0ec901967d1250fa124c694add339e5]{
+-- Page 10, Offset 3948.
+-- <後|のち>にバブルのあだ花と言われる、一つの時代の残骸である。
+  Un vestige de l'époque que l'on appellerait plus tard la bulle spéculative.
+
+}
+[sha:cce69c15531c52f8dae432e718ac102bb98c8aa3]{
+-- Page 11, Offset 3949.
+-- “この町には<夢|ゆめ>とか<洒脱|しゃだつ>さが足りない”
+“Cette ville manque de rêve et d'allégresse.”
+
+}
+[sha:4429d87fb756d36380e80e0727553ce03f3e2c8e]{
+-- Page 11, Offset 3950.
+-- 今をさかのぼること十年前。
+  Cela remontait à dix ans.
+
+}
+[sha:402a07429c454f18a1649706d7dc27afe6b47b1e]{
+-- Page 11, Offset 3951.
+-- 社木の名士であり、全国に多くの工場をかまえる<土桔|ときつ>製パン株式会社―――通称トッパンの経営者・<土桔|トキツ><由里彦|ユリヒコ>翁（当時五十六歳）はそんな使命感を合い言葉に、所有地であった社木郊外の土地を開放、三咲市を代表するレジャーランドの建築に着手した。
+  Avec ces mots emplis du sens du devoir, la vedette de Yashirogi et manager de Tokitsu Bread, Inc., alias Topan, qui avait construit de nombreuses usines dans le pays―――Tokitsu Yurihiko (56 ans à l'époque), ouvrit au grand public la banlieue de Yashirogi dont il était propriétaire et commença à bâtir l'architecture de légende qui allait symboliser la ville de Misaki.
+
+}
+[sha:a889031c73b422fd1871ae0729625d189a97b088]{
+-- Page 12, Offset 3952.
+-- こうして運命の１９８１年。
+  Ainsi, en l'année fatidique de 1981,
+
+}
+[sha:c76c3d5d79f6398e0738f313effc0cca8b414d68]{
+-- Page 12, Offset 3953.
+-- 完成までに三年の月日を費やし、夢とユーモアあふれる地域密着型遊園地・やしろぎブレッド＆キッツィーランドはその短い人生をスタートさせた。
+  le parc d'attractions régional empli de rêve et d'humour, Yashirogi Bread & Kitsy Land, débuta sa courte vie après trois années de construction.
+
+}
+[sha:506120e8e2899770d5f39fb748e85f7fc5c3b71b]{
+-- Page 13, Offset 3954.
+-- 敷地面積三十五万㎡。
+  Étendue du terrain : 350 000 m².
+
+}
+[sha:1596d83a786e0572a2ed61ee6772fd6e1b8f8836]{
+-- Page 13, Offset 3955.
+-- <入り口|ゲート>をくぐった人々の目を奪う豪華絢爛なメリーゴーラウンド。
+  Un magnifique et luxueux carrousel qui attirait le regard des gens dès qu'ils passaient l'entrée.
+
+}
+[sha:3cd03bffbb0fc79d2f9bce73c1eac9f952d4ef7c]{
+-- Page 13, Offset 3956.
+-- のたうつ龍のように遊園地をぐるりと囲むコースター。
+  Des montagnes russes qui faisaient le tour du parc d'attractions comme un dragon sinueux.
+
+}
+[sha:1659804165762f2ee2bc64de03605a2bdb3aa2a3]{
+-- Page 13, Offset 3957.
+-- 当時の建築技術の限界に挑んだといわれる、無駄にギミック満載な観覧車。
+  Une grande roue ingénieusement mais abondamment décorée, dont on prétendait qu'elle défiait les limites des techniques architecturales de l'époque.
+
+}
+[sha:27dd4256e0d3d9504b554855361c8bc5531f76ae]{
+-- Page 14, Offset 3958.
+-- “完璧だ。遊園地に必要なものはすべてつぎこんだ”
+“C'est parfait. On y a mis tout ce qui est nécessaire à un bon parc d'attractions.”
+
+}
+[sha:31b8a552054afbfc59d23303444dfe7c65c74292]{
+-- Page 14, Offset 3959.
+-- 自らの仕事っぷりに目を細める由里彦翁。
+  Yurihiko était émerveillé par son propre travail.
+
+}
+[sha:1f5cfe063453ad8481eab97352574313a384e43b]{
+-- Page 14, Offset 3960.
+-- その自信を裏付けるように、開園当時の盛況はこの世の春だったという。
+  Comme pour le conforter dans son opinion, on dit que le succès au moment de l'ouverture fut semblable au printemps de ce monde.
+
+}
+[sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
+-- Page 14, Offset 3961.
+-- だが。
+  Mais...
+
+}
+[sha:54fb86e63632e4101d3b0795ce711206e03792d9]{
+-- Page 15, Offset 3962.
+-- だがしかし。
+  Malheureusement,
+
+}
+[sha:5108a5b4e50837c793e661f917b9b32a5b07cbfa]{
+-- Page 15, Offset 3963.
+-- 夢と洒脱のバランスを、彼らは豪快に間違えていた。
+  ils s'étaient totalement fourvoyés concernant le rêve et la fantaisie.
+
+}
+[sha:83b5f3fecad97522460de70763f9633351817678]{
+-- Page 15, Offset 3964.
+-- あまりにも不細工、かつパチもん臭いオリジナルマスコット・キッツィーちゃん。
+  La mascotte originale Kitsy-chan était plutôt repoussante et sentait la pâtée pour chat.
+
+}
+[sha:dc7ebe82ecf996cb66f8a6d322c524e7bd313ee3]{
+-- Page 15, Offset 3965.
+-- 必要以上に園内をにぎわす焼きたてブレッドの売店。
+  Les échoppes de pain grillé étaient omniprésentes dans le parc.
+
+}
+[sha:e52d452186a277e5f512c9401d70a2769fdf6253]{
+-- Page 15, Offset 3966.
+-- ８０年初頭から流行しだした大迷路を極限まで難解にしたミラーメイズ。
+  La difficulté du grand labyrinthe à la mode au début des années 80, le palais des glaces, avait été poussée à l'extrême limite.
+
+}
+[sha:c05abcdd0b0f53303c24db5e1441ab2a6531b955]{
+-- Page 16, Offset 3967.
+-- “キッツィーランドにドリームはない。
+“Il n'y a pas de rêve à Kitsy Land.
+
+}
+[sha:5e35bd405191d4d18920dd1a3012d0f9a3aba488]{
+-- Page 16, Offset 3968.
+-- ただ悪夢のようなユーモアがあるだけだ”
+  Il n'y a que de l'humour cauchemardesque.”
+
+}
+[sha:79d4206462706ceb9f843000e8c9847a38a7ea6a]{
+-- Page 16, Offset 3969.
+-- 各種専門誌はこぞってキッツィーランドの欠点をあげつらい、客足は減少。
+  Les magazines spécialisés dans leur ensemble eurent du mal à s'accorder sur les points faibles de Kitsy Land. La fréquentation diminua.
+
+}
+[sha:f2ee9f547161088839b226e2103d919a50129cc5]{
+-- Page 16, Offset 3970.
+-- また、不運な事に母親とはぐれた六歳児が園内の施設で遭難し、衰弱死寸前で救出される事件まで起きてしまった。
+  Et de surcroît, un malheur manqua même de se produire, lorsqu'un enfant de 6 ans se retrouva séparé de sa mère et eut un accident dans une des attractions du parc, puis fut secouru en échappant de justesse à une mort par épuisement.
+
+}
+[sha:44ccdfa652360dbe996c4eb2d654be715c355890]{
+-- Page 17, Offset 3971.
+-- 開園から五年後の１９８６年。
+  En 1986, cinq ans après l'ouverture du parc.
+
+}
+[sha:84e1af1f030b23072a7707d48d14e527b6d2f687]{
+-- Page 17, Offset 3972.
+-- 悪化の一途をたどる経営不振、
+  La mauvaise gestion de l'entreprise qui empirait,
+
+}
+[sha:8b9f4d3a9b1264a211fb7bb6053bed41e6ba76eb]{
+-- Page 17, Offset 3973.
+-- キッツィーちゃんのブレイクに余生をかけていた由里彦翁の引退が重なり、キッツィーランドの運営は困難となった。
+  combinée à la retraite de Yurihiko, qui faisait de son mieux pour la maintenir à flot, aggrava la situation et mena la gérance de Kitsy Land à la faillite.
+
+}
+[sha:eea196b2ec47756c83a2f7181d6fb99b5711158d]{
+-- Page 17, Offset 3974.
+-- こうして、地域の人々に惜しまれながらも三咲市唯一の遊園地は、その短い一生を終えたのだった。
+  Ce fut ainsi que l'unique parc d'attractions de Misaki, bien que regretté par les habitants du quartier, termina sa courte vie.
+
+}
+[sha:a402df39d8dd5d6c1d810558964dd54bb1e593c3]{
+-- Page 18, Offset 3975. Mods: @n.
+-- ……また。
+  ...... Par ailleurs,
+
+}
+[sha:c0247431f61cef5f0486e50efd4617ab949c29bd]{
+-- Page 18, Offset 3976. Glued.
+-- 余談ではあるが、キッツィーちゃんをデザインしたパリ在住（自称）のアーティスト、トッキー・ユーリッヒ氏も、閉園を<悼|いた>むようにその筆を折ったという。
+  c'est une autre histoire, mais on raconte que l'artiste (autoproclamé) résidant à Paris et à l'origine du design de Kitsy-chan, M. Tokki Yuurihi, aurait brisé son pinceau en se lamentant sur la fermeture du parc.
+
+}
+[sha:517d54ddfb73bde7ce52fb961ffc26c4d7a6ba09]{
+-- Page 19, Offset 3977.
+-- そして現在。
+  Revenons au présent.
+
+}
+[sha:5f42bdb8b7198ab886f44da0e8a3882b9a6ca677]{
+-- Page 19, Offset 3978.
+-- 深夜零時のキッツィーランドは、かつての栄華など微塵も見られない。
+  À minuit, Kitsy Land ne laissait rien paraître de son ancienne gloire.
+
+}
+[sha:6fa1a2eefe93328b19b649833fd920acb826ad73]{
+-- Page 19, Offset 3979.
+-- オモチャ箱の片隅においやられた人形のように、ひとり寂しく、今も生き続ける町からの明かりに照らされている。
+  Délaissé comme une poupée abandonnée dans le coin d'une boîte à jouets, il était illuminé par les lumières de la ville qui lui avaient survécu.
+
+}
+[sha:5d7f0f2ec27b21bd9e32b2a66ec9c3b311e47455]{
+-- Page 20, Offset 3980.
+-- 「なるほど」
+「Je vois.」
+
+}
+[sha:c2fe9c0c2200bea9916164a69d222ba68705ddea]{
+-- Page 20, Offset 3981.
+-- 草十郎はぱたん、と来る途中で拾った『社木案内のしおり』を閉じた。
+  Sōjūrō ferma le “guide de Yashirogi” qu'il s'était procuré en chemin.
+
+}
+[sha:d9a57451d872c8ea3eabe37c9d96c2aeb4eaab77]{
+-- Page 20, Offset 3982.
+-- いまいち実感の湧かない歴史だが、これも<必衰|ひっすい>というヤツだろう、と納得する。
+  C'est une histoire qui ne me parle pas beaucoup, mais j'imagine que c'est ça que l'on appelle la décadence, accepta-t-il dans son for intérieur.
+
+}
+[sha:557ee5daaf4e10be1e411929b86f844debd9087d]{
+-- Page 21, Offset 3983.
+-- 遊園地の正門は施錠されていなかった。
+  La porte principale du parc d'attractions n'était pas fermée à clef.
+　
+}
+[sha:5a3ce973e2c4802bb324164a222bec9037f868a2]{
+-- Page 21, Offset 3984.
+-- 以前アルバイトにきた時、<鉄柵|いりぐち>は錆びた鎖によって施錠されていたが、今は外され、鉄柵も少しだけ開いている。
+  Lorsqu'il était venu précédemment pour son travail, elle était fermée à l'aide d'une chaîne rouillée, mais depuis, celle-ci avait été retirée et l'entrée était entrouverte.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 22, Offset 3985.
+-- 「――――――」
+「――――――」
+
+}
+[sha:8ddd73683c2652120992b1761401f342b1e67aad]{
+-- Page 22, Offset 3986.
+-- 草十郎は手紙に描かれた地図にしたがって、ひょこっと園内に侵入する。
+  Sōjūrō suivit le chemin indiqué sur la carte et pénétra à l'intérieur du parc.
+
+}
+[sha:eb07c074abf34f9024a540ae6b598c3deace4744]{
+-- Page 23, Offset 3987.
+-- 「……急ぎの用なんだろうけど。こんな夜中に、なんなんだいったい」
+「...... C'est sûrement une affaire urgente. Mais qu'est-ce qu'elle peut bien me vouloir, si tard dans la nuit ?」
+
+}
+[sha:988b3d225ffc20266bd1c096cdae6b7dbaaae3bf]{
+-- Page 23, Offset 3988.
+-- らしくなく<愚|ぐ><痴|ち>を言う。
+  Il grommela, ce qui ne lui ressemblait pas.
+
+}
+[sha:a862b4a3ee7deb841412dc5913d17843f7a90185]{
+-- Page 24, Offset 3989.
+-- 世間知らずな彼にでも、この行為がよくない事だと分かっているからだろう。
+  Sûrement parce que même lui, qui ignorait les choses du monde, savait que ce qu'il faisait n'était pas bien.
+
+}
+[sha:6265c24ad160b4410889e9486976853f744d011f]{
+-- Page 24, Offset 3990.
+-- 廃墟になったとはいえ、立ち入り禁止の遊園地に忍びこんでいる。
+  Même si l'endroit était abandonné, il se glissait dans un parc d'attractions où il était interdit de pénétrer.
+
+}
+[sha:21d04c757e36be86b5d0d31f6de0b723e3ed285c]{
+-- Page 24, Offset 3991.
+-- 不法侵入、窃盗、泥棒。
+  Intrusion, larcin, vol.
+
+}
+[sha:087f3a3689c2f06d3c72734efef59d70c3071b13]{
+-- Page 24, Offset 3992. Glued. Mods: @x.
+-- 決して胸を張れる事ではなく、犯罪と言えば犯罪なのだが―――
+Ce n'était pas quelque chose dont il pouvait être fier, et c'était même clairement un délit―――
+
+}
+[sha:ff3a1d2f02d312185f2545b62932762b110ead4e]{
+-- Page 25, Offset 3993.
+-- 「……すまない、お金は払えないんだ。
+「...... Pardon, je n'ai pas d'argent.
+
+}
+[sha:7a5715d4349dcd478ac33b2721b73530fe5ad260]{
+-- Page 25, Offset 3994.
+-- タダで入って申しわけない」
+  Je suis désolé d'entrer sans payer.」
+
+}
+[sha:0dc60d3fcccb1c876ff68970dee79a92159615f4]{
+-- Page 25, Offset 3995.
+-- 彼にとって後ろめたいのはその一点だけらしい。
+  Visiblement, c'était le seul point qui lui donnait mauvaise conscience.
+
+}
+[sha:5e5a6fab16f13184c809dca54520adf45f6379a9]{
+-- Page 25, Offset 3996.
+-- 目のペンキがいい感じで<融解|とけだ>しているキッツィーちゃん像に、ぱんぱん、と手を合わせる。
+  Il fit un geste d'excuse en direction de la statue de Kitsy-chan dont les yeux étaient peints avec un curieux mélange de couleur.
+
+}
+[sha:84739c0c63edddff2c37d9ad3cd4f57b8759d103]{
+-- Page 25, Offset 3997.
+-- 赤ペンキを<眼窩|がんか>から流すマスコットを通過して、草十郎は夜の遊園地へと歩き出した。
+  Sōjūrō passa la mascotte qui avait de la peinture rouge qui coulait des orbites, et commença à marcher à travers le parc d'attractions obscur.
+
+}
+[sha:e3b3a6d11699f9758e7cadc24edc326fcda4f4ff]{
+-- Page 26, Offset 3998.
+-- 色落ちた建物。
+  Les bâtiments aux couleurs passées.
+
+}
+[sha:d24a0216b86655757961708b980649b68a6de96f]{
+-- Page 26, Offset 3999.
+-- 錆び付いた機械の群。
+  Les tas de machines recouvertes de rouille.
+
+}
+[sha:d7bb911b598676acb9cba8f77f00d83fe6730b97]{
+-- Page 26, Offset 4000.
+-- もう時を刻むことのない、作り物の住人たち。
+  Les habitants factices dont le temps s'était arrêté à jamais.
+
+}
+[sha:aefd4fb8d51d0c230d036a4072a4a3a876df4db2]{
+-- Page 26, Offset 4001.
+-- かつての栄華とのあまりの落差に、幽霊すらいたたまれず住み着かなくなったゴーストタウン。
+  C'était une ville fantôme que même les esprits avaient fuie par honte, à cause du contraste saisissant avec son ancienne gloire.
+
+}
+[sha:638e23799e119ed8926dbbabd744d665cc73e000]{
+-- Page 27, Offset 4002.
+-- ―――まるで<童話|ユメ>の化石だ。
+  ―――Comme un rêve fossilisé.
+
+}
+[sha:42b149ffbcdfc915d16c9c5d5918e572f0cd395b]{
+-- Page 27, Offset 4003.
+-- ここは<現実|人の手>によって造られながら、<現実|ひとびと>に置き去りにされた楽園の跡。
+  C'étaient les vestiges d'un paradis créé puis abandonné par l'homme.
+
+}
+[sha:012ef962fb6707570e10663f112d54333c7869ca]{
+-- Page 27, Offset 4004. Mods: @n.
+-- 経済が安定し、
+  La relique d'une époque d'excitation sauvage,
+
+}
+[sha:8ca2922ee46fe1462e533358b37955e82b6c80c5]{
+-- Page 27, Offset 4005. Glued.
+-- 人々の生活水準は右肩あがりで、誰もが未来に不安を抱かなかった、狂騒の時代の遺物である。
+  où l'économie s'était stabilisée, où le niveau de vie des gens s'améliorait, et où personne n'éprouvait d'anxiété pour l'avenir.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 28, Offset 4006.
+-- 「――――――」
+「――――――」
+
+}
+[sha:849823da4d244e54309b7d56d714f7f34b304c0c]{
+-- Page 28, Offset 4007.
+-- 白い息を吐きながら、草十郎は廃遊園地を歩いていく。
+  Sōjūrō marchait dans le parc d'attractions abandonné en soufflant des nuages de vapeur.
+
+}
+[sha:b68b5eb0df9d959a0aff13d5691bff9dbb9d15eb]{
+-- Page 28, Offset 4008.
+-- 人気はないが、山中の闇に比べればそう怖くもない。
+  L'endroit était désert, mais n'avait rien d'effrayant comparé aux ténèbres de la montagne.
+
+}
+[sha:5da2e345b5089b36b6735391aa7cee9846949fb1]{
+-- Page 29, Offset 4009.
+-- 郊外といっても様々で、キッツィーランドは遊園地にしては珍しく、住宅地の<傍|そば>に造られている。
+  Après tout, ce n'était qu'une banlieue parmi d'autres et, fait rare, le parc d'attractions de Kitsy Land était construit tout près d'un quartier résidentiel.
+
+}
+[sha:599bd41364b95bd03594575b89a4f03c67ed679a]{
+-- Page 29, Offset 4010.
+-- 遊園地は林に囲まれているが、それも所詮は人工のもの。教室の窓を閉ざすカーテンとなんら変わりはない。
+  Le parc était entouré d'une forêt, mais elle aussi n'était qu'un ouvrage artificiel. Elle n'était pas bien différente de rideaux pendant aux fenêtres d'une salle de classe.
+
+}
+[sha:da20f9c6051df8e54dac162050008afaf4ccee9a]{
+-- Page 30, Offset 4011.
+-- キッツィーランドを囲む鉄柵を越え、二十メートルほど造林された木々を抜ければ、簡単に見慣れた町並みに帰ることができる。
+  Si on franchissait la clôture entourant Kitsy Land et traversait la vingtaine de mètres de forêt replantée, on pouvait facilement retourner dans les rues familières de la ville.
+
+}
+[sha:7a33bcbab79f6fd49385693fdcb4ae761fa5bc09]{
+-- Page 30, Offset 4012.
+-- 都会の人間にとって夜の遊園地は恐怖を喚起させるものだが、草十郎にとっては、この遊園地も駅前の喧噪も“怖さ”の深度は同じだった。
+  Pour les citadins, le parc d'attractions plongé dans la nuit était une source d'angoisse, mais pour Sōjūrō, la “peur” qu'il y ressentait et celle face au tumulte devant la gare étaient du même ordre.
+
+}

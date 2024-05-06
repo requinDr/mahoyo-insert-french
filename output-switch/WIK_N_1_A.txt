@@ -1,0 +1,306 @@
+[sha:8e56cc8b698033d33968bfb53dfee8e9421ca952]{
+-- Page 0, Offset 22694.
+-- ……風の音で目が覚めた。
+  ... Je me réveillai au son du rugissement du vent.
+
+}
+[sha:2b08bb8b4c9703b42e87b5960f446a097204c858]{
+-- Page 0, Offset 22695.
+-- 明かりは消えている。
+  La lumière était éteinte.
+
+}
+[sha:ec7fbe75f114bc50c6e2baf790537569598d1663]{
+-- Page 0, Offset 22696. Mods: @n.
+-- 寝る前に消灯した記憶はない。
+  Je ne me rappelai pas de l'avoir éteinte avant de me coucher.
+
+}
+[sha:2a575150e7ba3bf4668179d65336ad8f7476d182]{
+-- Page 0, Offset 22697. Glued.
+-- 何事かと、起きて電灯のスイッチをいれてみたが、反応はない。
+ Je me levai, perplexe, et appuyai sur l'interrupteur, mais cela n'eut aucun effet.
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 1, Offset 22698.
+-- 「……………………」
+「........................」
+
+}
+[sha:0a954e94f6ca2d087cf9ea74313c564dc416f066]{
+-- Page 1, Offset 22699.
+-- 時間を確かめたいけど、この暗さでは確かめられない。
+  J'aurais voulu regarder l'heure, mais dans ces ténèbres, c'était infaisable.
+
+}
+[sha:f51ce64955b1f49189db0f379df9fd5393962686]{
+-- Page 1, Offset 22700.
+-- 何にも気づかなかったフリをして寝直そうと努力したが、高ぶった神経は寝直す事も、じっとしている事も許してはくれなかった。
+  Je fis des efforts pour me rendormir en faisant semblant de ne rien avoir remarqué, mais mes nerfs excités ne me permirent pas de me rendormir ou de rester en place.
+
+}
+[sha:40fd74dad6398260637cf4c25fe0d769a5c2667f]{
+-- Page 2, Offset 22701.
+-- 「……蒼崎の部屋が、一番近いよね……」
+「... La chambre d'Aozaki est la plus proche...」
+
+}
+[sha:1dea5795a147499014df4de161d1ca14b6ddd4fa]{
+-- Page 2, Offset 22702.
+-- わたしは物音をたてないよう、静かにドアまで移動して、鍵を開けて、そっと廊下をのぞき見た。
+  Je me déplaçai lentement pour ne pas faire de bruit, déverrouillai la serrure et jetai un œil dans le couloir.
+
+}
+[sha:bf185bf900a587a1f643266fbeb87adae4c3209a]{
+-- Page 3, Offset 22703.
+-- ―――廊下に人の気配はない。
+  ―――Le couloir était désert.
+
+}
+[sha:dab820dec56c88d7532ed531a83c9e02ae2ab835]{
+-- Page 3, Offset 22704.
+-- ―――ただ、風の音と、雨の音だけが。
+  ―――Seul le rugissement du vent et de la pluie se faisait entendre.
+
+}
+[sha:f30b9558456ec7a26489f589533d94e43ae7986e]{
+-- Page 3, Offset 22705.
+-- ―――わたしは何かに誘われるように、廊下の突き当たりの蒼崎の部屋に向かった。
+  ―――Comme attirée par quelque chose, je me dirigeai vers la chambre d'Aozaki au fond du couloir.
+
+}
+[sha:e94abc4a7120e9f37a0391a527e2b1e41316e0d9]{
+-- Page 4, Offset 22706.
+-- 蒼崎の部屋のドアノブに手を置く。
+  Je posai la main sur la poignée de la porte.
+
+}
+[sha:c22957599ac511f48ec5ea9d23d76abe95f01303]{
+-- Page 4, Offset 22707.
+-- 鍵はかかっていなかった。
+  Elle n'était pas fermée à clef...
+
+}
+[sha:3beb5e7981d95d730ba95d25e5fc9c2ebae52284]{
+-- Page 4, Offset 22708.
+-- 部屋の中には、
+  Dans la chambre...
+
+}
+[sha:8f2d6f971fbc915b9ea368dfe495b29e99e9ca6c]{
+-- Page 4, Offset 22709.
+-- 見知らぬ女性の、死体がひとつ。
+  ... se trouvait le cadavre d'une femme que je ne connaissais pas.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 5, Offset 22710.
+-- 「――――――」
+「――――――」
+
+}
+[sha:2c8d24ede0f61018fb74efb3cbc4ccfe5edee681]{
+-- Page 5, Offset 22711.
+-- 悲鳴を上げたのか、押し殺せたのか、自分でも分からない。
+  J'ignorai si j'avais crié ou si je m'étais retenue.
+
+}
+[sha:8c2f333dbd3abc18180000f5c89df684ea676045]{
+-- Page 5, Offset 22712.
+-- 今夜は雨の音が強すぎる。
+  Ce soir, le son de la pluie était trop fort.
+
+}
+[sha:e8584d6210cb755b36f3d99b6de23725e3c71fb2]{
+-- Page 5, Offset 22713.
+-- きぃ、きぃ。
+  Crii, crii.
+
+}
+[sha:c239c87c81629656c796e2e94147b97f5df0f17a]{
+-- Page 5, Offset 22714.
+-- ああ、この音は雨音じゃなくて、<蝶番|ちょうつがい>の音。
+  Aaah, ce son n'était pas celui de la pluie, mais des jointures de la porte.
+
+}
+[sha:26408124c4d1784a0576fe540c927ad0f4d5ac14]{
+-- Page 5, Offset 22715.
+-- ドアが揺れている音だ、と視線を向ける。
+  C'est le son de la porte qui oscille, pensai-je en y tournant mon regard.
+
+}
+[sha:e93af78df6853c84a6c157b2a0238b7d65664524]{
+-- Page 6, Offset 22716.
+-- その音は、蒼崎の部屋のすぐ隣りの部屋からだった。
+  Ce son venait de la chambre voisine d'Aozaki.
+
+}
+[sha:1b25ca6832475fb82550cf322aa5ef088a8f77a7]{
+-- Page 6, Offset 22717.
+-- そこが蒼崎の書斎であることは、静希から聞いていた。
+  Je savais grâce à Shizuki que c'était le bureau de cette dernière.
+
+}
+[sha:09c246fe10945b8e21a95581d7074f88a487dba7]{
+-- Page 6, Offset 22718.
+-- 扉には、
+  Sur la porte...
+
+}
+[sha:2a5f4fc6389de4219289ffb36aa4d893fafd15e0]{
+-- Page 6, Offset 22719.
+-- 真っ赤な、ペンキみたいな、液体が、べったりと。
+  ... était répandu un liquide cramoisi qui faisait penser à de la peinture.
+
+}
+[sha:d2ef73a0a24a48771dd69a4b8498ca7db36de0ce]{
+-- Page 7, Offset 22720.
+-- 書斎の中には
+  Dans le bureau,
+
+}
+[sha:e8b5d8272e15d200a14e39abfdc7cee2565bbf78]{
+-- Page 7, Offset 22721.
+-- 蒼崎青子の
+  se trouvait,
+
+}
+[sha:9ce1a09fd6cbe687bbb5a1a2102359ef398d890a]{
+-- Page 7, Offset 22722.
+-- 無残な
+  l'atroce......
+
+}
+[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+-- Page 7, Offset 22723.
+-- が。
+  d'Aozaki Aoko.
+
+}
+[sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
+-- Page 8, Offset 22724.
+-- 「―――！」
+「―――!」
+
+}
+[sha:b8d7291e35621f6d461acdfa4cd2aad64bbdae1c]{
+-- Page 8, Offset 22725.
+-- 廊下を走る。もう物音なんて気にしていられない。そもそもこの嵐だ、走る気配なんてどうでもいい。
+  Je courus dans le couloir. Je ne pouvais plus me permettre de faire attention au bruit de mes pas. De toute façon, avec cette tempête, personne ne m'entendrait courir.
+
+}
+[sha:20e777019f89bb258bf6f37b9e2013384c218f54]{
+-- Page 8, Offset 22726.
+-- わたしは客室という客室を開けていく。
+  J'ouvris toutes les chambres d'ami que je trouvai.
+
+}
+[sha:51eda4ae6e9a31462458cb504484b0504e285c8d]{
+-- Page 8, Offset 22727.
+-- 三つ目で、この三年間、意識し続けた男子生徒の死体を発見した。
+  Dans la troisième, je découvris le corps du garçon auquel je n'avais cessé de m'intéresser pendant ces trois dernières années.
+
+}
+[sha:666e6a4d5221fb5710886420a5391b6ab3290e81]{
+-- Page 9, Offset 22728.
+-- 「はっ、はっ、はっ―――！」
+「Ah, ah, ah―――!」
+
+}
+[sha:77487d18d81d4e6df84302caf1a2e7b82beb3b51]{
+-- Page 9, Offset 22729.
+-- 階段を転がるように下りる。
+  Je descendis les escaliers à la volée.
+
+}
+[sha:615379c8550f9e23193f503566b9349401c7bd61]{
+-- Page 9, Offset 22730.
+-- 実際、転んでしまって体中を打ち付けながらロビーに転がりでた。
+  De fait, je tombai et dégringolai dans le vestibule en me cognant de partout.
+
+}
+[sha:b3d00bc3d396227aaff68a38d987c7e8eaf88002]{
+-- Page 10, Offset 22731.
+-- 人の気配はない。
+  L'endroit était vide.
+
+}
+[sha:75a55544f804f3319e2dcbb133f67e80618c99d3]{
+-- Page 10, Offset 22732.
+-- 来訪者があったのか、玄関は開きっぱなしだ。
+  Peut-être y avait-il eu un visiteur, car l'entrée était grande ouverte.
+
+}
+[sha:4370de06b88e6788f4217723ae8d3284b83ec029]{
+-- Page 10, Offset 22733.
+-- 直感的に、教会の人たちも既に　　でいるのだと理解した。
+  Par intuition, je compris que les gens de l'église étaient déjà......
+
+}
+[sha:f3778f8a4204f40d93f9da62ec31cd0581de6368]{
+-- Page 11, Offset 22734.
+-- やけに耳に残る、靴の音。
+  Un bruit de talon désagréable frappa mes tympans.
+
+}
+[sha:91f0c79d7833d754acbc6052293a5a69de8070e1]{
+-- Page 11, Offset 22735.
+-- 嵐の音が、意識から除外される。
+  Le rugissement de la tempête en fut exclu de ma conscience.
+
+}
+[sha:71492f19e96094f628db13a9554a50293f0f296e]{
+-- Page 11, Offset 22736.
+-- わたしの世界から、あらゆる音が途絶えていく。
+  Toutes les formes de sons quittèrent mon monde.
+
+}
+[sha:2491bc6601a3ddf3f96745f41a32f6cff8335579]{
+-- Page 11, Offset 22737.
+-- 目の前には、
+  L'individu apparut devant moi.
+
+}
+[sha:1fc2e10ff7dad0af834840a4cddc5cd828e4593c]{
+-- Page 12, Offset 22738.
+-- 「ああ―――」
+「Aah―――」
+
+}
+[sha:8e259164d276d15a851c743c60502138c0cb8824]{
+-- Page 12, Offset 22739.
+-- 恐怖も怒りも、なんにもない。
+  Je ne ressentai ni peur ni colère.
+
+}
+[sha:1afb23d86c8af7825df0271f37e974a06f74d2d5]{
+-- Page 12, Offset 22740.
+-- わたしは静かな心持ちで、嵐の夜の殺人鬼を見た。
+  J'observai paisiblement le serial killer de cette nuit orageuse.
+
+}
+[sha:a80020eb3528e2bf91a1328bbe2e634dc3f82382]{
+-- Page 13, Offset 22741.
+-- 闇の中で光る二つの目。
+  Ses deux yeux brillaient dans les ténèbres.
+
+}
+[sha:69858671364bf7fcee92031e97c4631712d00e75]{
+-- Page 13, Offset 22742.
+-- そいつの手にある凶器が光を放つ。
+  L'arme qu'il tenait dans la main projetait de la lumière.
+
+}
+[sha:eff3a33c5507fca5b395c803965f5606738680ef]{
+-- Page 13, Offset 22743.
+-- ―――この世のものとは思えない、いびつにゆがんだ鬼の<面|かお>。
+  ―――Je vis alors le visage déformé du démon qui semblait ne pas être de ce monde.
+
+}
+[sha:ba4f93081ed262dcb6c472d0e7e321732897086a]{
+-- Page 13, Offset 22744.
+-- それが、わたしの見た、この夜最後の映像だった―――
+  Ce fut la dernière chose que je vis cette nuit-là―――
+
+}

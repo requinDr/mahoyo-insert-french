@@ -1,0 +1,528 @@
+[sha:5d2bc8c717488dc3beb76a529765b85414c9b4a7]{
+-- Page 0, Offset 7310.
+-- 彼はまだ、深い眠りの中にいる―――
+  Il était encore plongé dans un profond sommeil―――
+
+}
+[sha:e0251ef2a352b5a2fd0fa5d148f1d7f77e57be81]{
+-- Page 1, Offset 7311.
+-- それは一面の、燃えるような<茜|あかね>色だった。
+  Il se trouvait dans un songe d'un rouge écarlate,
+
+}
+[sha:d5011909642cc4a0eb3b0aeb234e8d4262aafdf8]{
+-- Page 1, Offset 7312.
+-- <忍|しの>びない雑念。
+  où il assistait à des scènes confuses et invraisemblables,
+
+}
+[sha:a670ef6691a95a281ad02c17becdbc6b3f4ab024]{
+-- Page 1, Offset 7313.
+-- 絶え間のない<我執|がしゅう>。
+  qui revenaient constamment et obstinément.
+
+}
+[sha:1a1d44e618d4b923dcce4a425ec740ac15ea91bf]{
+-- Page 1, Offset 7314.
+-- 見るも悲哀、語るも<陰鬱|いんうつ>な<悲喜交々|ひきこもごも>。
+  C'était triste à voir, et cela avait un relent de mélancolie,
+
+}
+[sha:9b0d5e7dbde7edd2b41a0ee2c901fa917b67aa18]{
+-- Page 1, Offset 7315.
+-- 人と人の<交|まじ>わりから生じる<有為|うい><悪作|あくさ>。
+  comme un mauvais karma causé par les relations humaines.
+
+}
+[sha:1eb4122551079e8df7462dfb48b30724c934d075]{
+-- Page 1, Offset 7316.
+-- 即ち、救いようのない共存の<声|おと>。
+  Autrement dit, la manifestation d'une coexistence impossible.
+
+}
+[sha:d37e596ade96c7385cff05b844ef89e008061579]{
+-- Page 1, Offset 7317.
+-- これはその一切から、あまりにも遠い世界の<風景|はなし>。
+  Il s'agissait de la réalité d'un monde bien lointain.
+
+}
+[sha:c19391fd4a5592908aa5bb12d82ec0909b3b0724]{
+-- Page 2, Offset 7318.
+-- 天上<楽土|らくど>と手を合わせる者もいれば、
+  Si certains le considéraient comme un paradis céleste et priaient pour l'atteindre,
+
+}
+[sha:1bf70068d4a862be6fea18cab72386eda7accef2]{
+-- Page 2, Offset 7319.
+-- 死後の<幽世|かくりよ>と目を伏せる者もいるだろう。
+  d'autres en détournaient les yeux, le prenant pour le royaume des morts.
+
+}
+[sha:8024c5db3149f581ec7168447c7fc9fae76412ce]{
+-- Page 2, Offset 7320.
+-- あと十年、
+  Dans seulement dix ans,
+
+}
+[sha:43a2c2266984b30ec8ef4a1f3cc2517fdf672521]{
+-- Page 2, Offset 7321.
+-- あるいは何十年後かにはあり方を変えていく、いまだ人の靴を知らぬ<紅葉|こうよう>の海。
+  voire quelques dizaines d'années, cette mer de feuilles d'érable encore immaculée se métamorphoserait.
+
+}
+[sha:0ad9376c7c9535b6b4ac8f846c5d34861a2fe81a]{
+-- Page 2, Offset 7322.
+-- それが、彼にとって当たり前の風景だった。
+  Pour lui, c'était un paysage ordinaire.
+
+}
+[sha:f8e1898ad61b4e87f48787f4391933482335398e]{
+-- Page 3, Offset 7323.
+-- <山中|さんちゅう>において人間の<営|いとな>みは<慎|つつ>ましくささやかだ。
+  Dans les montagnes, les humains menaient une vie modeste.
+
+}
+[sha:fe6e88c4f2a996b812a9099ff48535bf1a57ff94]{
+-- Page 3, Offset 7324.
+-- 彼の住まいである山にも、向かいのお山にも目立つほどの建物はない。
+  Aucune bâtisse ne se distinguait des autres, que ce soit sur la montagne où se trouvait sa maison ou sur celle d'en face.
+
+}
+[sha:ecb8b8d844a661852a21005838edb68404a18382]{
+-- Page 3, Offset 7325.
+-- 衣食住に関する事柄は必要な分だけ、多くを奪うことなく積み重ねられている。
+  En ce qui concernait les vêtements et la nourriture, l'approvisionnement se limitait au strict nécessaire.
+
+}
+[sha:61bcc5f8906602a018698be02053c90c23106918]{
+-- Page 4, Offset 7326.
+-- 見れば蛇のように身をくねらせる野道や、<頂|いただき>に続く石段なども造られているが、それも山中に踏み入らなければ気付かない程度だ。
+  En faisant attention, on pouvait remarquer la présence de chemins serpentant entre les champs et d'escaliers de pierres menant au sommet. Mais il fallait s'aventurer très loin dans la montagne pour s'en rendre compte.
+
+}
+[sha:4d68c29a74ab1b2f8d9a78c9326fe35e83803da6]{
+-- Page 4, Offset 7327.
+-- この山で暮らす者たちの方針だろう。
+  Ce devait être la philosophie de ses résidents.
+
+}
+[sha:a0e837a15ebfffa9544b4c78e205401513c18f08]{
+-- Page 4, Offset 7328.
+-- 人の手によるもので、山の景色を損なう物は一つもない。
+  Rien de ce que les hommes fabriquaient n'altérait le paysage de la montagne.
+
+}
+[sha:db98714afa26462fc29086585c93ced88fbf3d1c]{
+-- Page 5, Offset 7329.
+-- ふと、この<季節|しきさい>が一番好きだった事を思い出す。
+  Soudainement, il se rappela que cette saison était sa préférée.
+
+}
+[sha:7f829a525c6f63ed40c4d6e53f43a2cfbf0787e3]{
+-- Page 5, Offset 7330.
+-- 好きというより己の性に合っていた。
+  Ou plutôt, pour être tout à fait exact, elle correspondait à son tempérament.
+
+}
+[sha:28e5e58c0c9d917fde78daf60e36ca1702ac663d]{
+-- Page 5, Offset 7331.
+-- 冬に備えてやるべき事は山積みだったが、<暇|ひま>を見付けては<頂|いただき>近くにまで足を運んだ。
+  Les préparatifs en vue de l'hiver l'accaparaient en permanence, mais dès qu'il trouvait du temps libre, il laissait ses jambes le porter près du sommet.
+
+}
+[sha:970e2bb1a8c1c875e0ed7468858914f1babbde2b]{
+-- Page 5, Offset 7332.
+-- 深く呼吸をして、ぼんやりと斜陽の<兆|きざ>しを眺めていた時が、たぶん、毎日で二番目ぐらいに幸せだった。
+  Ce moment où il respirait profondément et contemplait distraitement les prémices du coucher de soleil était sans aucun doute la deuxième chose qui le rendait le plus heureux dans sa vie de tous les jours.
+
+}
+[sha:f6b4d4a1ed26dea0cb171a3cd48144cd22e3a8bf]{
+-- Page 6, Offset 7333.
+-- 茜の山をいっそう赤く染める夕日。
+  Le soleil couchant accentuait la couleur garance de la montagne.
+
+}
+[sha:b2dcafac15861ac0b4aa8a0ee0ae9e3394933036]{
+-- Page 6, Offset 7334.
+-- <黄昏|たそがれ>時に吹く風は冷たくも、安らげるものだった。
+  Au crépuscule, le vent qui soufflait était froid mais apaisant.
+
+}
+[sha:c5094aeb4ccb70d125bfe3ca596133835b414dd1]{
+-- Page 6, Offset 7335.
+-- 山を下りてからまだ二ヶ月も<経|た>っていないのに、記憶が<薄|うす>れている事が少し<淋|さみ>しい。
+  Il était un peu triste que sa mémoire s'estompe déjà après deux mois loin de la montagne.
+
+}
+[sha:1a6882ac42716d8e17a43c75adca3504f58c49b5]{
+-- Page 6, Offset 7336.
+-- 日々の記憶は薄れていくから、それに負けないように思い出は重ねていくしかないのだと、誰かが口にしていたっけ。
+  Quelqu'un lui avait dit qu'il n'y avait rien d'autre à faire que de se forger de nouveaux souvenirs pour compenser la perte progressive de la mémoire quotidienne.
+
+}
+[sha:0bb7a34d2254d172c2d784af7508c60802d54c5b]{
+-- Page 7, Offset 7337.
+-- 思い出はかくも<霞|かす>んでいく。
+  Les souvenirs s'effacent tellement vite.
+
+}
+[sha:c7e1f7a6eda84848fa3af85bbab16e93ea3e2bdf]{
+-- Page 7, Offset 7338.
+-- 住む場所が変われば、新しい生活は始まっていく。
+  Après un changement d'environnement, on commence une nouvelle vie.
+
+}
+[sha:593433a21a166a3fffa7fcd74ff1d1dad6453ca1]{
+-- Page 7, Offset 7339.
+-- その中で、長く親しんできた景色を引きずるのは<贅沢|ぜいたく>なのか、未練なのか。
+  Peut-être était-ce trop demander que de vouloir conserver les souvenirs du paysage qui lui fut si longtemps familier et qu'il regrettait.
+
+}
+[sha:ca3f1e95eb2a8d3a039dbd59a370d11288f67b52]{
+-- Page 7, Offset 7340.
+-- <現在|いま>の住み家は高いビルディングに囲まれた都会なのに、この記憶だけは鮮明であってほしいと思うのが後ろめたい。
+  Vouloir garder ce seul souvenir intact alors qu'il vivait à présent dans une ville bordée de grands immeubles lui pesait sur la conscience.
+
+}
+[sha:6a6d8790638944d7dbeaaca20c37a574f39aa205]{
+-- Page 8, Offset 7341.
+-- なにしろせっかくの新生活。
+  Après tout, il avait enfin commencé une nouvelle vie.
+
+}
+[sha:0d349b3ffd64a9e2c7d56de17290a96dfce1dd3e]{
+-- Page 8, Offset 7342.
+-- 新居より故郷を思うのはちょっと、男としてどうか、と彼は生真面目に反省して、
+  Il se fit la réflexion suivante avec gravité : penser davantage à sa ville natale qu'à sa nouvelle maison était étrange pour un homme...
+
+}
+[sha:fff3b5f1dd35da29f07009453795dc0ae07b9f00]{
+-- Page 8, Offset 7343.
+-- 「そうか。これ、夢だ」
+「Je vois. C'est un rêve.」
+
+}
+[sha:39c984ed07fb9d20c4f5950c4fa6fe564842d128]{
+-- Page 8, Offset 7344.
+-- そう、ガラにもなく<耽|ふけ>っていた感傷を止めてみた。
+  Il essaya de s'extraire du sentimentalisme dans lequel il s'était laissé aller et dont il n'avait pas l'habitude,
+
+}
+[sha:4bf7adb58863b93c2c5e4f421d714c7162027c4a]{
+-- Page 8, Offset 7345.
+-- 我が事ながら、何の迷いもなく夢と<判|わか>ってしまうあたり夢がない、と思いながら。
+  en réalisant qu'il n'avait rien d'un doux rêveur puisqu'il jugeait sans hésitation qu'il était dans un songe.
+
+}
+[sha:420036bb074b75b29932b9ce3a95b32100db3ac4]{
+-- Page 9, Offset 7346.
+-- 夢と断じた途端、紅葉に鋭角な影がそびえ立っていく。
+  Dès qu'il conclut qu'il s'agissait d'un rêve, des ombres anguleuses apparurent, dominant les érables.
+
+}
+[sha:fd9d73f9c4018fdeeba101376849546d1f461a49]{
+-- Page 9, Offset 7347.
+-- それはかつて知らず、今は<既|き><知|ち>となったコンクリートの建物たちだ。
+  C'étaient les bâtiments en béton, qu'il ne connaissait pas encore il y a peu, mais très bien à présent.
+
+}
+[sha:bec7f53a25691e005a456a3c3b6c4e41c739c999]{
+-- Page 9, Offset 7348.
+-- 思い出はこうやって、今の暮らしに<融|と>かされていく。
+  Ses souvenirs se mélangeaient ainsi à sa vie actuelle.
+
+}
+[sha:451d182d52b56625f2bd2bf8d361b47938509dd7]{
+-- Page 9, Offset 7349.
+-- もとより人間の記憶、人間の印象は、どうあがこうと劣化していく。
+  De toute façon, la mémoire et les impressions humaines s'étiolent avec le temps, peu importe à quel point on lutte.
+
+}
+[sha:f664ff4a0284f995dc075f17b2d08f4b0b2e930c]{
+-- Page 10, Offset 7350.
+-- それは仕方のない事だ。
+  C'est une chose inexorable.
+
+}
+[sha:c2d01aa72cec45c21ddf88ef62bb70d4da86756d]{
+-- Page 10, Offset 7351.
+-- 何であれ、人間は過去より今に期待するものだし。
+  Après tout, les humains portent leurs attentes, non pas sur le passé, mais sur le présent.
+
+}
+[sha:70d5bcae4110abf3079352318e1f806dc33f7d82]{
+-- Page 10, Offset 7352.
+-- いずれ過去の思い出でさえ、ビルディングに飲みこまれていくだろう。
+  Il arriverait un jour où les souvenirs du passé se feraient engloutir par les immeubles.
+
+}
+[sha:518ebd28b7d5864beea4f99386ac8c455f136993]{
+-- Page 10, Offset 7353.
+-- 無情も薄情もない。
+  Ça n'avait rien de cruel ou d'inhumain.
+
+}
+[sha:b4a166c3f03a79897de8e1dbe59a7048b8debd61]{
+-- Page 10, Offset 7354.
+-- かならず消えると予感しているのなら、今はただ、鮮明に思いだせる記憶を夢見ていればいい。
+  Si leur disparition inéluctable était prévisible, alors pour l'heure, il n'y avait qu'à rêver de souvenirs dont on pouvait facilement se rappeler.
+
+}
+[sha:45f3b1cc070bce387b3a67c0beef55e685422fe2]{
+-- Page 11, Offset 7355.
+-- 山であろうと町であろうと、日々はもとより一瞬だ。
+  Que ce soit en montagne ou en ville, les journées durent toujours un instant.
+
+}
+[sha:8ac361f34fa2a6a3b31c54977b7c1f6e799a08a4]{
+-- Page 11, Offset 7356.
+-- たとえ一日後の今日でも、昨日と同じ風景はどこにもないのだから。
+  Même le lendemain, on ne trouve nulle part le même paysage que la veille.
+
+}
+[sha:0499d46c8a2b263450afa0fdc1679f4fbbb64a52]{
+-- Page 11, Offset 7357.
+-- …………などと。
+  ............
+
+}
+[sha:ed7788bc9375b7af979c95e6928838fabc396756]{
+-- Page 11, Offset 7358.
+-- しんみりする暇を、彼女はまったく与えてくれなかった。
+  Elle ne lui laissa pas le temps de s'attrister davantage.
+
+}
+[sha:a514a79852aa4af98c89af3fbd546dd9eaf22859]{
+-- Page 11, Offset 7359.
+-- <懐|なつ>かしく遠い記憶は、美しいが故に<儚|はかな>いらしい。
+  Les souvenirs lointains et nostalgiques étaient magnifiques, mais s'en retrouvaient par conséquent éphémères.
+
+}
+[sha:0208f808ceccbdd8a7a19d864de649f47063a13d]{
+-- Page 12, Offset 7360.
+-- 「……<見|み><上|あ>げ<入道|にゅうどう>じゃないんだぞ、蒼崎」
+「...... Tu n'as rien d'une icône vénérée par les gens, Aozaki.」
+
+}
+[sha:fb4608525715099ff1370b25e7faa7e108c2652f]{
+-- Page 12, Offset 7361.
+-- 軽い目眩から目を閉じる。
+  Il ferma les yeux à cause d'un léger vertige.
+
+}
+[sha:aa138b7d99c194c5d58f7e9cc8a3914fe90176b8]{
+-- Page 12, Offset 7362.
+-- <視界|いしき>を切ったことで山の風景は見えなくなり、かわりに聞き覚えのある声が響いてきた。
+  En faisant ainsi, il perdit de vue le paysage montagnard, remplacé par l'écho d'une voix reconnaissable entre mille.
+
+}
+[sha:5e417f572af85e661fb0512a6c21c879f55fee59]{
+-- Page 12, Offset 7363.
+-- 彼のいる山の中腹はおろか、山全体を震わすような大声だ。
+  Une voix puissante capable de faire trembler non seulement la partie reculée de la montagne où il se trouvait, mais aussi toutes les montagnes alentour.
+
+}
+[sha:536782d347401e419b0380b13288244ccc838d9d]{
+-- Page 13, Offset 7364.
+-- それも当然で、さっき幻のように現れた蒼崎青子は山の向こうにでーんとそびえていたのだ。
+  Ça n'avait rien d'étonnant, puisqu'Aozaki Aoko, apparue à l'instant telle une illusion, se dressait de l'autre côté de la montagne.
+
+}
+[sha:a70f748b62f506a5ee897d6aa7b63f21d11ea228]{
+-- Page 13, Offset 7365.
+-- 本当に疲れてるんだな、と彼は自分の状態を確認しつつ、彼女の声に気を<配|くば>った。
+  Je suis vraiment fatigué, se dit-il tout en vérifiant son état avant de reporter son attention sur la voix.
+
+}
+[sha:7749ef958afa6ff8e77ad774e2f398d66fa662bc]{
+-- Page 13, Offset 7366.
+-- 目を開けているとまた目眩がしそうなので、目は閉じたままである。
+  Il garda les yeux fermés, par crainte d'avoir de nouveaux vertiges.
+
+}
+[sha:80cdb503fdf6f6e93acba8d0dcf740f46a2198ea]{
+-- Page 14, Offset 7367.
+-- ……おおよその雰囲気しか分からないが、彼女は誰かと口論しているようだった。
+  ...... Il ne pouvait que vaguement comprendre ce qui se passait, mais il avait l'impression qu'elle se disputait avec quelqu'un.
+
+}
+[sha:03d6a5486d9c1c39167e886207356aed483e4dff]{
+-- Page 14, Offset 7368.
+-- 激しくはないが攻撃的な口調。
+  Son ton n'était pas véhément mais restait agressif.
+
+}
+[sha:1acac1a32bf2275ad3b82e828a15182491ec1f08]{
+-- Page 14, Offset 7369.
+-- たぶん向かいの山にでも喧嘩を売っているのだろう。
+  Elle cherchait sûrement des noises à la montagne d'en face.
+
+}
+[sha:1a1aa5f8c141fda8e4c6d30a75ea93c32d3a7fa3]{
+-- Page 14, Offset 7370.
+-- 彼女なら十分にありえる、と彼はひとり頷いた。
+  Elle en est largement capable, opina-t-il du chef.
+
+}
+[sha:91e9adfa0e6dcb9bbc17e23f24a49c8c534d79c2]{
+-- Page 14, Offset 7371.
+-- なにしろ月まで吹っ飛ばした暴れん坊だ。
+  Après tout, cette brute était allée jusqu'à faire exploser la lune.
+
+}
+[sha:79509dd3dfa4498cc6f844916fdeac17e6c0b461]{
+-- Page 15, Offset 7372.
+-- 会話の内容はよく掴めない。
+  Il ne saisissait pas très bien le sujet de la conversation.
+
+}
+[sha:42a77f06c906e9985e6866745e165c2fda94ce01]{
+-- Page 15, Offset 7373.
+-- 彼はなんとなく、漠然と、自分の人権あたりが盛大に無視されている気がした。……いかに夢中の出来事とはいえ、<甚|はなは>だよろしくない。
+  Il eut la vague impression que ses droits étaient très largement bafoués. ...... Même si cela se déroulait en plein rêve, ça ne lui faisait pas particulièrement plaisir.
+
+}
+[sha:bdd5e628660b55906a8dc6aa74276bf4059ecced]{
+-- Page 15, Offset 7374.
+-- 数分の後。
+  Quelques minutes plus tard,
+
+}
+[sha:aeca766e1848c6481c4e2b36e9b00fa917f36a5f]{
+-- Page 15, Offset 7375.
+-- 大迫力の口論は、青子側の勝利で終わったらしい。
+  la violente dispute semblait s'être conclue en faveur d'Aoko.
+
+}
+[sha:5864ffcb4e5d9da258104f6aecdf2b82f5dffc17]{
+-- Page 16, Offset 7376.
+-- そうして、強風のようだった声も聞こえなくなった。
+  Puis, la voix semblable à une bourrasque ne se fit plus entendre.
+
+}
+[sha:ba04cb70f86dce89dbedcb798dda72f956ea4aef]{
+-- Page 16, Offset 7377.
+-- 次はマトモな光景でありますように、と他力本願<気|ぎ><味|み>に目を開ける。
+  Faites que la prochaine fois, je voie un spectacle décent, pria-t-il avant d'ouvrir les yeux.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 17, Offset 7378.
+-- 「――――――」
+「――――――」
+
+}
+[sha:f8066013d22cfc9f1d609cb99d26280411edef49]{
+-- Page 17, Offset 7379.
+-- わずかに息をのむ。
+  Il inspira légèrement.
+
+}
+[sha:e12b26fe90ababb35431278ba4d9a94f30905a5c]{
+-- Page 17, Offset 7380.
+-- 先ほどまでの懐かしい記憶とは何もかも違う、けれど、そう嫌いでもない風景。
+  Ce paysage était complètement différent de son précédent souvenir nostalgique, mais il ne le détestait pas tant que ça.
+
+}
+[sha:e9238331e0f07996578d0b3cf6cccc8b4fc352b9]{
+-- Page 17, Offset 7381.
+-- 確かめるまでもなく、そこはあの遊園地だった。
+  Il s'agissait très clairement de ce fameux parc d'attractions.
+
+}
+[sha:294d019d5b867b2c89c8c83be16da7c738789b13]{
+-- Page 18, Offset 7382.
+-- 彼にとって最も鮮明な<過去|いぜん>の記憶。
+  C'était pour lui le plus net de tous ses souvenirs.
+
+}
+[sha:7fbad643dfe093d364e1c00705f1e08029851246]{
+-- Page 18, Offset 7383.
+-- 蒼崎青子が爆破したミラーハウスが懐かしい。
+  Le palais des glaces qu'Aozaki Aoko avait fait exploser lui manquait.
+
+}
+[sha:e62b8fbb197fdf857c4d17ac27e48159e5394c53]{
+-- Page 18, Offset 7384.
+-- 現実と寸分の狂いもない遊園地だが、今いるのは彼だけだ。
+  Ce parc d'attractions ne différait en rien de celui de la réalité, mais en ce moment, il s'y trouvait seul.
+
+}
+[sha:0c56e57651b75f8ff527acd8a96bfbd3f1bb7be0]{
+-- Page 18, Offset 7385.
+-- 誰に追いかけられる心配もないので、キッツィーちゃんの残骸に腰を下ろして、撃ち抜かれた筈の月を見上げた。
+  Puisqu'il n'avait pas à craindre de se faire poursuivre, il s'assit sur les ruines du Kitsy-chan et leva les yeux vers la lune censée avoir été détruite.
+
+}
+[sha:eb90cacbb43cf12a84e8d8946873847c2919b39d]{
+-- Page 19, Offset 7386.
+-- 白い、<玻璃|はり>を思わせる冬の月。
+  Cette lune d'hiver faisait penser à du quartz blanc.
+
+}
+[sha:ee39ac2fb5f9dac0d4c1c69a287118b2fefcfb64]{
+-- Page 19, Offset 7387.
+-- その月を背に、彼を殺そうとした少女の姿が重なった。
+  La silhouette de la fille qui avait attenté à sa vie se superposa à la lune en arrière-plan.
+
+}
+[sha:7b686071b8140f2230d963aac8577674e4fd4eea]{
+-- Page 19, Offset 7388.
+-- ……魔術師が魔女だと言うのなら、あの瞬間の彼女は確かにそうだったのだろう。
+  ...... Si les Mages pouvaient aussi être appelés des “sorcières”, alors elle devait sûrement en être une à ce moment-là.
+
+}
+[sha:d38832bffc3470c5eeb2255ed3cb8a2ba93a9395]{
+-- Page 19, Offset 7389.
+-- “殺されてもいい”
+“Je veux bien me faire tuer.”
+
+}
+[sha:2522f7adbef68d756a4db87d9f3290fe1ee809ef]{
+-- Page 19, Offset 7390.
+-- そんな、あまりにも馬鹿げた言葉が、ごく自然にこぼれたぐらいには。
+  Au point que ces mots infiniment stupides s'échappèrent de ses lèvres tout à fait naturellement.
+
+}
+[sha:188e0606f775b87875848e89e339324612ff94e0]{
+-- Page 20, Offset 7391.
+-- 「……いや、でも―――」
+「...... Oui, mais―――」
+
+}
+[sha:2d809829b3d0689c56acfdb2b2c4f5be90964fb6]{
+-- Page 20, Offset 7392.
+-- あれは魔女やら魔術やらとは関係ない。
+  Ceci n'avait aucun rapport avec tous ces trucs de sorcières ou de Magie.
+
+}
+[sha:220661edf55fdaca93e07e62a780f6b76e3bd10c]{
+-- Page 20, Offset 7393.
+-- <胸|こころ>の隙をついた響き。
+  À l'écoute de ces mots, son cœur fut ébranlé.
+
+}
+[sha:2eb9937c1667a468c65585f52029a74bb9979538]{
+-- Page 20, Offset 7394.
+-- 彼女があんな言葉さえ口にしなければ、彼もあんな言葉を返さなかった。
+  Si elle n'avait pas tenu de tels propos, lui non plus n'aurait pas répondu de cette façon.
+
+}
+[sha:a4b47db4a7a97eae0fa6ad353b8ba61b74ce1810]{
+-- Page 21, Offset 7395.
+-- ……あのとき、蒼崎青子はどんな言葉を投げたのか。
+  ...... Quels mots Aozaki Aoko lui avait-elle lancés à ce moment-là ?
+
+}
+[sha:79efbe483ecdb8ce1b1608fe321b5285a25a837a]{
+-- Page 21, Offset 7396.
+-- それを思い出そうとしているうちに、深かった彼の眠りは終わりを告げた。
+  Alors qu'il essayait de s'en rappeler, son profond sommeil se termina.
+
+}
+[sha:1a33aa7185c291e14fcdffca5d3d4c7aaaa14f7d]{
+-- Page 21, Offset 7397.
+-- もしかすると、夢見より長かった回想の答えもないままに。
+  Ces réminiscences, qui avaient peut-être duré plus longtemps que son rêve, ne lui avaient apporté aucune réponse.
+
+}

@@ -1,0 +1,432 @@
+[sha:98ca54cc7da3c91235ece30cd8725891f02f1e1a]{
+-- Page -1, Offset 24015. Choice.
+-- それは何か、不吉な兆しなのでは、と思った。
+Je songeai à une sorte de mauvais présage.
+
+}
+[sha:9697a77103bead64355158d4f4ae6187d4ea6573]{
+-- Page -1, Offset 24016. Choice.
+-- 鍵はいつも開けっ放しなのか、と思った。
+Je songeai que laisser ouvert n'était pas très prudent.
+
+}
+[sha:8c30b926394d2473b1fb8515040f031d2cc9adb3]{
+-- Page -1, Offset 24017. Choice.
+-- これならひとりでも入れるな、と思った。
+Je songeai que j'aurais pu aisément venir seule.
+
+}
+[sha:fa68e8a3dfb42f01ae7c425e407832bc6496e47c]{
+-- Page -1, Offset 24018. Choice.
+-- このまま居間に移動した方がいいと思った。
+Je songeai qu'il valait mieux aller dans le salon.
+
+}
+[sha:e3aa950e83267b821874b7a923a85459c1c3b82b]{
+-- Page -1, Offset 24019. Choice.
+-- その前に客室の様子を見た方がいいと思った。
+Je songeai que je devrais voir ma chambre.
+
+}
+[sha:a2b97a575fd3fb43869d7490134885d26a9992d5]{
+-- Page -1, Offset 24020. Choice.
+-- 意味のない行動をしてみるのもいいと思った。
+Je songeai que je pourrais me promener sans but particulier.
+
+}
+[sha:169323298c3f31faa76214fd14f2c4015d7b3fdf]{
+-- Page -1, Offset 24021. Choice.
+-- 何か不穏。洋館に戻るべきだと思った。
+C'était sinistre. Je songeai qu'il valait mieux rentrer.
+
+}
+[sha:23f87125e05d7927a0b0ad77ad4686ea25eb30ef]{
+-- Page -1, Offset 24022. Choice.
+-- 気になる。確かめてみるべきだと思った。
+Ça m'intriguait. Je songeai qu'il valait mieux vérifier.
+
+}
+[sha:78afd8dcbf2b264b87b5b8a1a4f493f0b3ae929b]{
+-- Page -1, Offset 24023. Choice.
+-- このまま雨脚は強くなるな、と思った。
+Je songeai que l'averse risquait d'empirer.
+
+}
+[sha:2487af003523cac79e39b06837cff2104a6dc242]{
+-- Page -1, Offset 24024. Choice.
+-- このまま雨は雹になるな、と思った。
+Je songeai qu'il risquait de grêler.
+
+}
+[sha:fc1b773752bfd36702359f02ca87a090c4efc1d4]{
+-- Page -1, Offset 24025. Choice.
+-- このまま帰ってしまおうか、と思った。
+Je songeai qu'il vaudrait mieux rentrer chez moi.
+
+}
+[sha:357dfb7a05f5de3a1fa578d64bf6e4621a57d758]{
+-- Page -1, Offset 24026. Choice.
+-- 数はあっているな、と思った。
+Je songeai que le compte était bon.
+
+}
+[sha:80af85f912354537054316d4313207157dab723e]{
+-- Page -1, Offset 24027. Choice.
+-- 数を間違えているな、と思った。
+Je songeai que le compte n'était pas bon.
+
+}
+[sha:5efeac572e67a677102837d65046893b6977ae60]{
+-- Page -1, Offset 24028. Choice.
+-- ……そういえば、まだ静希を見ていないな、と思った。
+Je songeai que je n'avais pas encore vu Shizuki.
+
+}
+[sha:46550b2cba572765e1a18449b776d6c74e8c39a8]{
+-- Page -1, Offset 24029. Choice.
+-- これから陰惨な事件が始まるのだ、と思った。
+Je songeai qu'une affaire lugubre venait de commencer.
+
+}
+[sha:acb1d93fb99d3411bad5731a8d57fb16f9198b77]{
+-- Page -1, Offset 24030. Choice.
+-- これからトンデモな事件が始まるのだ、と思った。
+Je songeai qu'une affaire insensée venait de débuter.
+
+}
+[sha:bea15b1a2cd245c54a8c050d04aa03800831d0cd]{
+-- Page -1, Offset 24031. Choice.
+-- 槻司と組めて良かった、と思った。
+Je songeai avoir de la chance de faire équipe avec Tsukiji.
+
+}
+[sha:fb37f6467f377c25cfbc15d2bb30674e3266b99a]{
+-- Page -1, Offset 24032. Choice.
+-- 大雑把に言うとパンだ、と思った。
+Je songeai qu'en gros, c'était du pain.
+
+}
+[sha:2142d1bf2c5b6bc11c6385b37384b346611443ba]{
+-- Page -1, Offset 24033. Choice.
+-- 現実的に小型爆薬だ、と思った。
+Réaliste, je songeai qu'il s'agissait d'une minibombe.
+
+}
+[sha:b8684cdd1d3de582a83bedac5254fd78c17fd133]{
+-- Page -1, Offset 24034. Choice.
+-- 犬か何かに食いちぎられたのでは、と思った。
+Je songeai qu'il avait dû être dévoré par une sorte de chien.
+
+}
+[sha:ec3ade41cb6168e8adcc78414b5a155d0bb61fd7]{
+-- Page -1, Offset 24035. Choice.
+-- 土桔由里彦氏の死がネックだ、と思った。
+Je songeai qu'expliquer la mort de M. Tokitsu Yorihiko serait ardu.
+
+}
+[sha:52f8957fa821978b3e6d64eeedfa3da6f8bcd2eb]{
+-- Page -1, Offset 24036. Choice.
+-- たしかに一晩笑わないのなんて簡単、と思った。
+Je songeai que s'abstenir de rire une nuit serait aisé.
+
+}
+[sha:09b75e904838e41f0c2b97630da514798422132b]{
+-- Page -1, Offset 24037. Choice.
+-- ……そろそろひとり足りない事を指摘すべきだろうか、と思った。
+Je songeai à faire remarquer qu'une personne manquait à l'appel.
+
+}
+[sha:0b7efd01f846b90fd597d277a2b59e3434735652]{
+-- Page -1, Offset 24038. Choice.
+-- 槻司の話はおかしい、と思った。
+Je songeai que le témoignage de Tsukiji était étrange.
+
+}
+[sha:9eb5dae7db7438b7c60f2e77ec63b20640b5c926]{
+-- Page -1, Offset 24039. Choice.
+-- 蒼崎の話はおかしい、と思った。
+Je songeai que le témoignage d'Aozaki était étrange.
+
+}
+[sha:cae9af69124e124dba34926e5142afe59a76ebdd]{
+-- Page -1, Offset 24040. Choice.
+-- ベオの話はむかつく、と思った。
+Je songeai que le témoignage de Beo était irritant.
+
+}
+[sha:d74b8ce8c5f67e1f0470472049ff9d427a9c26f2]{
+-- Page -1, Offset 24041. Choice.
+-- 槻司と蒼崎の話はおかしい、と思った。
+Je songeai que les témoignages de Tsukiji et Aozaki étaient étranges.
+
+}
+[sha:f14ffb25bc004b2aacac002a09864487b5e213dd]{
+-- Page -1, Offset 24042. Choice.
+-- 槻司とベオの話はおかしい、と思った。
+Je songeai que les témoignages de Tsukiji et Beo étaient étranges.
+
+}
+[sha:2144e2435b8dae15c813a7c1adce4169e818416e]{
+-- Page -1, Offset 24043. Choice.
+-- 蒼崎とベオの話はおかしい、と思った。
+Je songeai que les témoignages d'Aozaki et Beo étaient étranges.
+
+}
+[sha:102176bd7bd2b234b799b2ad413b97ca532d4fe0]{
+-- Page -1, Offset 24044. Choice.
+-- 静希の話はおかしい、と思った。
+Je songeai que le témoignage de Shizuki était étrange.
+
+}
+[sha:ab4bf96d08b3b2af03a9db28eac79554a5dc1d3e]{
+-- Page -1, Offset 24045. Choice.
+-- 久遠寺さんの話はおかしい、と思った。
+Je songeai que le témoignage de Kuonji était étrange.
+
+}
+[sha:a4282e32ce6e4c8d5283b30689c931ecd2c3c377]{
+-- Page -1, Offset 24046. Choice.
+-- わたしの話は合っているだろうか、と不安に思った。
+Je me demandai avec inquiétude si mon histoire concordait.
+
+}
+[sha:e6b5e335763158f87d78ebb29857567b422a92d8]{
+-- Page -1, Offset 24047. Choice.
+-- 静希と久遠寺さんの話はおかしい、と思った。
+Je songeai que les témoignages de Shizuki et Kuonji étaient étranges.
+
+}
+[sha:78d28eb297e9d1bc50052c86b57681a9c4121ea1]{
+-- Page -1, Offset 24048. Choice.
+-- 静希とわたしの話はおかしい、と思った。
+Je songeai que le témoignage de Shizuki et le mien étaient étranges.
+
+}
+[sha:b4b62611bf1a3b67512634a61ddd8fe20ae76232]{
+-- Page -1, Offset 24049. Choice.
+-- 久遠寺さんとわたしの話はおかしい、と思った。
+Je songeai que le témoignage de Kuonji et le mien étaient étranges.
+
+}
+[sha:32c2788f5aac0d8594387844de9967c06f27e582]{
+-- Page -1, Offset 24050. Choice.
+-- 詠梨神父の話はおかしい、と思った。
+Je songeai que le témoignage de père Eiri était étrange.
+
+}
+[sha:f793589b2427719bff91689d164222c4b714977c]{
+-- Page -1, Offset 24051. Choice.
+-- シスターの話はおかしい、と思った。
+Je songeai que le témoignage de la sœur était étrange.
+
+}
+[sha:ed77a7f85ee04826de9da6d5db568b0b957e287c]{
+-- Page -1, Offset 24052. Choice.
+-- 律架さんの話はおかしい、と思った。
+Je songeai que le témoignage de Ritsuka était étrange.
+
+}
+[sha:b241fc2f1d3cfaddfb441c69c8ce5dc8987d3be6]{
+-- Page -1, Offset 24053. Choice.
+-- それぞれ客室で朝まで過ごすべきでは、と思った。
+Je songeai que nous devrions attendre jusqu'au matin dans nos chambres.
+
+}
+[sha:3864cc7f633141ee5b9da92e285364146a9cda94]{
+-- Page -1, Offset 24054. Choice.
+-- その前に、リデルのアリバイ検証もするべきだ、と思った。
+Je songeai que nous devrions écouter le témoignage de Riddell.
+
+}
+[sha:1d10b1c8fc18c3f14be62bacbbf29e342565a02d]{
+-- Page -1, Offset 24055. Choice.
+-- ちらっと廊下を盗み見たい、と思った。
+Je décidai de jeter un petit coup d'œil dans le couloir.
+
+}
+[sha:f550c9d957fa863a42df0265fc67c8b2e254cea0]{
+-- Page -1, Offset 24056. Choice.
+-- そっとしておこう、と思った。
+Je décidai de la laisser tranquille.
+
+}
+[sha:ea78aedbdc26a2f50abaa04325de74b752589ba4]{
+-- Page -1, Offset 24057. Choice.
+-- その意見に賛成するべきだ、と思った。
+Je songeai qu'il fallait se ranger à cet avis.
+
+}
+[sha:5bbe0cd940852f09527d53c4b703090c6c4b7a1d]{
+-- Page -1, Offset 24058. Choice.
+-- それは危険だ、と思った。
+Je songeai que cette idée était dangereuse.
+
+}
+[sha:4b6d23cb42d81550b439235317818169f3101fee]{
+-- Page -1, Offset 24059. Choice.
+-- 十三人目の存在がいるからだ、と思った。
+Je songeai qu'il y avait une treizième personne.
+
+}
+[sha:cfa4e5d0e40cee8263f4cce0f7c61a1888fda43a]{
+-- Page -1, Offset 24060. Choice.
+-- 電話線がなくなっていた時の、あの違和感について追求するべきだからだ、と思った。
+Je songeai qu'il fallait parler de cet étrange sentiment ressenti en découvrant que le fil du téléphone avait disparu.
+
+}
+[sha:b962236dca8107a92f4d09331277b8db4eec2538]{
+-- Page -1, Offset 24061. Choice.
+-- ……蒼崎をひとりにするのは危険だ、と思った。
+Je songeai qu'il était dangereux de laisser Aoko seule.
+
+}
+[sha:6199f5ca3638b1bfaca4b36af0a7332e79e5a41e]{
+-- Page -1, Offset 24062. Choice.
+-- ……ここで三人の帰りを待つべきだ、と思った。
+Je songeai qu'il était préférable d'attendre le retour du trio ici.
+
+}
+[sha:6a2671af8f08fc70e04227e769f645370f8caf2f]{
+-- Page -1, Offset 24063. Choice.
+-- すごい死亡フラグだ、と思った。
+Je songeai que c'était un signe de sa mort imminente.
+
+}
+[sha:a2bb6c68606144b48a35f39ecf76ac6175b4f825]{
+-- Page -1, Offset 24064. Choice.
+-- そういえばあの人も……、と思った。
+Je songeai que cette personne aussi avait...
+
+}
+[sha:1778f4413ddb4d7a003ee3c48d0a8365f3959962]{
+-- Page -1, Offset 24065. Choice.
+-- あとは安心して眠れる、と思った。
+Je pensais enfin pouvoir dormir sur mes deux oreilles.
+
+}
+[sha:52ba74d129364c20c44dc0f3948516f5fdac9517]{
+-- Page -1, Offset 24066. Choice.
+-- ……本当にそうだろうか？　と思った。
+Je pensais que ce ne serait peut-être pas le cas.
+
+}
+[sha:441fbf7989ee82686541a09cc8c2265c8a924a54]{
+-- Page -1, Offset 24067. Choice.
+-- １４時～１６時の間？　と思った。
+Je me dis que ça devait être entre 14 et 16 heures.
+
+}
+[sha:1335566224968e30d8006d6adbf5fb4dd33f273a]{
+-- Page -1, Offset 24068. Choice.
+-- １６時～１８時の間？　と思った。
+Je me dis que ça devait être entre 16 et 18 heures.
+
+}
+[sha:c240d145a0d0841a291bcc17b8f8c429671986a5]{
+-- Page -1, Offset 24069. Choice.
+-- １８時～２０時の間？　と思った。
+Je me dis que ça devait être entre 18 et 20 heures.
+
+}
+[sha:c4612eee82db2259bd2c9258eefa3075b8daf6b8]{
+-- Page -1, Offset 24070. Choice.
+-- ２０時～２２時の間？　と思った。
+Je me dis que ça devait être entre 20 et 22 heures.
+
+}
+[sha:24122abc299170793aed7cd3a32d300e7e7e7c99]{
+-- Page -1, Offset 24071. Choice.
+-- ２２時～０時の間？　と思った。
+Je me dis que ça devait être entre 22 heures et minuit.
+
+}
+[sha:fa7e8f4f29aa7d90bea73e4d88cc01f3a62c93de]{
+-- Page -1, Offset 24072. Choice.
+-- か、鍵をかければ安全だし、そんなことされたら逆に眠れない！　と思った。
+Je... Je songeai qu'il suffirait de fermer à clef, et que de toute façon, j'aurais du mal à dormir si j'acceptais.
+
+}
+[sha:419251bd6f01fcf95340885e44e9a61d21eac4e2]{
+-- Page -1, Offset 24073. Choice.
+-- そ、そういうコトなら、仕方がない、と思った。
+Je... Je songeai qu'au regard de la situation, c'était inévitable.
+
+}
+[sha:6473f3dcb72dcdbcdc4d25a894407b06d2c721da]{
+-- Page -1, Offset 24074. Choice.
+-- 朝まで逃げるべきだ、と思った。
+Je songeai qu'il valait mieux fuir jusqu'au matin.
+
+}
+[sha:76b3285739183d6d3e17fb5229c3552b30d68a3a]{
+-- Page -1, Offset 24075. Choice.
+-- 犯人を推理すべきだ、と思った。
+Je songeai qu'il fallait identifier le coupable.
+
+}
+[sha:9a088c09313334d8527e16397053066e48f983ec]{
+-- Page -1, Offset 24093. Choice.
+-- 久遠寺さんは本当に潔癖か？と思った。
+Je me demandai si Kuonji était vraiment innocente.
+
+}
+[sha:291357cc6097b73f334763da96f88be7b613944a]{
+-- Page -1, Offset 24094. Choice.
+-- 土桔氏はどうして誕生会を？と思った。
+Je me demandai pourquoi M. Tokitsu avait organisé une fête d'anniversaire.
+
+}
+[sha:82c4e0c4a602b61c2713598ed6641d342f26407a]{
+-- Page -1, Offset 24095. Choice.
+-- 殺人は二種類に分けられる？と思った。
+Je me dis qu'il y avait deux sortes de coupables.
+
+}
+[sha:5bea489422c47128c2fc57f81962d12ad8d581e9]{
+-- Page -1, Offset 24096. Choice.
+-- 律架さんのピッキング……！と思った。
+Je songeai au crochetage de Ritsuka.
+
+}
+[sha:034faff34af62f51c8e7b108952b577a90afa5c5]{
+-- Page -1, Offset 24097. Choice.
+-- 名は体を表す、と思った。
+Je me dis que son nom trahissait sa véritable nature.
+
+}
+[sha:b646815024f06b59da4f828308575ea4893af101]{
+-- Page -1, Offset 24098. Choice.
+-- 魔力とやらを持っているのは誰だ、と思った。
+Qui possédait ce fameux “prana” ?
+
+}
+[sha:7f05c2dd0c858370ae082ab8bda582783934e20f]{
+-- Page -1, Offset 24099. Choice.
+-- プロイとやらを起動できたのは誰だ、と思った。
+Qui avait pu activer le Ploy ?
+
+}
+[sha:4964f89b2a8d021def805404f715e5de9b99ed25]{
+-- Page -1, Offset 24100. Choice.
+-- 常にみんなに見られていたのは誰だ、と思った。
+Qui était resté à la vue de tout le monde en permanence ?
+
+}
+[sha:32c74e5aaa2bc2c234233a32bb4c2d81db99d6b4]{
+-- Page -1, Offset 24118. Choice.
+-- はじめから間違えていたからだ、と思った。
+Le fait que je faisais erreur depuis le début.
+
+}
+[sha:325937efbb52e37bdb32f50e4ac96313658eedd8]{
+-- Page -1, Offset 24119. Choice.
+-- 最後まで生き残ったからだ、と思った。
+Le fait que j'ai survécu jusqu'à la fin.
+
+}
+[sha:5afa32ffcc6be7c56766ac2eca4a94207b149ee5]{
+-- Page -1, Offset 24120. Choice.
+-- そもそもこの、思った通りになる選択肢こそが証拠だと、わたしはようやく確信した。
+J'avais enfin acquis la certitude que ces choix qui devenaient réalité étaient une preuve irréfutable.
+
+}

@@ -14,7 +14,8 @@ config.read('config.ini')
 
 script_source = config['paths']['script_source']
 script_source_indent = config['paths']['script_source_indent']
-script_sortie = config['paths']['script_sortie']
+script_sortie = config['paths']['script_steam']
+dossier_switch = config['paths']['dossier_switch']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
 csv_name_or_url = config['csv']['csv_name_or_url']

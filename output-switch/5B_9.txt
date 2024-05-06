@@ -1,0 +1,516 @@
+[sha:d189a23c251b017d271650cb509d37a724699956]{
+-- Page 0, Offset 7224.
+-- 遊園地と外を分ける境界線に向かって、青子たちは走り続ける。
+  Aoko et Sōjūrō continuaient de courir en se dirigeant vers la clôture qui séparait le parc d'attractions de l'extérieur.
+
+}
+[sha:2c1f447d73e042aca3a99eada8558c27fb215f9c]{
+-- Page 0, Offset 7225.
+-- 行く手を阻むオブジェの数は減ってきていた。
+  De moins en moins d'obstacles ralentissaient leur progression.
+
+}
+[sha:23ca9c0750a4087b22c9cf1e187d53451e8cd35e]{
+-- Page 0, Offset 7226.
+-- <外|そ><界|と>に通じる東側の鉄柵まで、あと三百メートル弱。
+  Il restait un peu moins de trois cents mètres jusqu'à la clôture du côté est qui conduisait à l'extérieur.
+
+}
+[sha:a106f3c2ba46381fbb1a39e57a042e06891a1cb3]{
+-- Page 1, Offset 7227.
+-- 幸運な事に、鉄柵への道中にはこれといって巨大な建物はない。
+  Par chance, le chemin qui y menait ne comportait pas d'énormes bâtiments.
+
+}
+[sha:13976ec66931bcb300b2794963f5fd3b010536a0]{
+-- Page 1, Offset 7228.
+-- あの観覧車に立ち<塞|ふさ>がられたらそれこそ終わりだが、観覧車が動き出すまであと幾ばくかの<猶予|ゆうよ>があるようだ。
+  Tout serait fini si la grande roue leur bloquait le passage, mais apparemment, ils disposaient encore d'un peu de temps avant qu'elle ne se mette à bouger.
+
+}
+[sha:cdae71f7ad240d5eb074abf44b79be22bd81954d]{
+-- Page 1, Offset 7229.
+-- 現れるのは青子の簡易魔術で吹き飛ばせる程度のオブジェのみ。
+  Les seules choses qui essayaient de les ralentir se faisaient balayer d'un simple sort par Aoko.
+
+}
+[sha:71614bc825f3ebac49614a9b090582ab479ef954]{
+-- Page 2, Offset 7230.
+-- “これなら、なんとか―――”
+“Si ça continue comme ça, peut-être―――”
+
+}
+[sha:e1eba0196b3329f1478e7c2eb66fc0e4e8930d62]{
+-- Page 2, Offset 7231.
+-- 鉄柵まで辿り着ける、と青子は呼吸を整える。
+  qu'on pourra atteindre la clôture, se dit Aoko tout en reprenant son souffle.
+
+}
+[sha:7ed5406134306ec0668d94e832e78f45ffe0f565]{
+-- Page 2, Offset 7232.
+-- 遊園地に満ちている<魔力|マナ>を使用しているので、青子本人の魔力はほぼ満タン。
+  Comme elle utilisait le mana dont le parc d'attractions était empli, sa réserve de prana était pratiquement au maximum.
+
+}
+[sha:ceeeec8b725534505789a6be528daacf3768100d]{
+-- Page 2, Offset 7233.
+-- <身体|からだ>の魔術回路は調子をあげる一方だし、一度ぐらいは全開で魔術行使をしてもいいぐらいだ。
+  L'état du Circuit Magique de son corps ne faisait que s'améliorer, à tel point qu'elle pouvait utiliser ses sorts les plus puissants au moins une fois.
+
+}
+[sha:c5e58753d056c1d91fe3a48a320a44e9f2d8eccc]{
+-- Page 3, Offset 7234.
+-- 「―――？」
+「―――?」
+
+}
+[sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
+-- Page 3, Offset 7235.
+-- と。
+  Puis,
+
+}
+[sha:36fd2df43fb07a4304d7a81670d3529678cbe051]{
+-- Page 3, Offset 7236. Glued. Mods: @x.
+-- そんな青子の視界上空に、なにやら系統の違うモノが浮遊していた。
+Aoko remarqua un objet particulièrement étrange qui venait d'arriver au-dessus d'eux.
+
+}
+[sha:fe3526a80d15cf61128f20a25eda6d00fd3c60f7]{
+-- Page 3, Offset 7237.
+-- それは草十郎のななめ上空に張りつき、三メートルの高さを維持したまま移動している。
+  Il était situé obliquement à la verticale de Sōjūrō et se déplaçait en conservant une hauteur de trois mètres.
+
+}
+[sha:91213610ecf85d12db0253afc94e7db2b3bfc313]{
+-- Page 4, Offset 7238.
+-- 「静希君、ちょっと」
+「Shizuki, attends.」
+
+}
+[sha:b1547ab638ec57120cd9a4f411095978c832e745]{
+-- Page 4, Offset 7239.
+-- 「ああ。さっきから付いてきてる」
+「Je sais. Il me suit depuis un moment.」
+
+}
+[sha:c2ae4f6af3a556fea09683a4ce24133128966fd9]{
+-- Page 4, Offset 7240.
+-- 青子より先に気づいていたのか、草十郎はイヤそうに上空を盗み見ていた。
+  Sōjūrō, qui l'avait remarqué bien avant Aoko, jetait des coups d'œil réprobateurs en l'air.
+
+}
+[sha:0cd471e40ecf073211269fc5e62673085d5c8bf2]{
+-- Page 4, Offset 7241.
+-- なにしろ自分にぴったりとくっついて来ているのだ。気にならない方がおかしい。
+  Après tout, il le suivait à la trace. Il aurait été bizarre que ça ne le dérange pas.
+
+}
+[sha:1b51a9887f57ed62d77d28390c0b009291fc883b]{
+-- Page 5, Offset 7242.
+-- 浮遊物は大きさにして直径一メートルほど。
+  L'objet flottant devait faire environ un mètre de diamètre.
+
+}
+[sha:8ebaaae7c5ce29e8a0cbc78dc85071927e78d29a]{
+-- Page 5, Offset 7243.
+-- 表面のタイルには<十|と><重|え><二|は><十|た><重|え>に廻る光の躍動。
+  Sur la surface carrelée, de multiples lumières tournaient en rond, pleines de vie.
+
+}
+[sha:ceb6273689a510d1f961fa5811da2553c6a1ab07]{
+-- Page 6, Offset 7244.
+-- 「……卵、かな」
+「...... On dirait... un œuf.」
+
+}
+[sha:82a087cca835b8f181f294368fb6e1311802ee69]{
+-- Page 6, Offset 7245.
+-- 草十郎は自信なさげに呟いた。
+  murmura Sōjūrō, peu sûr de lui.
+
+}
+[sha:3a1c4f9032a02b0f52ac00b53abd6a731bac56d0]{
+-- Page 6, Offset 7246.
+-- 「卵……？　卵って言ったら―――割れる卵！」
+「Un œuf......? Si c'est un œuf, c'est―――l'œuf qui se brise !」
+
+}
+[sha:963a0888d4e712cce336cedc74e916246e5182eb]{
+-- Page 7, Offset 7247.
+-- <衛星|たまご>はゴムのように魔弾を弾く。
+  Les balles de prana rebondirent sur l'œuf comme s'il était en caoutchouc.
+
+}
+[sha:5e9d5709e61fa7e9bbde4dab2d03fe4b9670f5a3]{
+-- Page 7, Offset 7248.
+-- その特性―――干渉を当然のように無効化するのは、間違いなく“<童話の怪物|プロイキッシャー>”……！
+  Cette caractéristique―――cette propriété d'annuler tout dommage comme si de rien n'était, c'était de toute évidence un “Ploy Kickshaw”......!
+
+}
+[sha:ec8e8d38036d8096f04785089061eaea51f8378b]{
+-- Page 8, Offset 7249.
+-- 「やっぱり外からのルールじゃ壊れないか……
+「Comme je le craignais, ce truc ne pourra être détruit qu'en suivant les règles qui lui sont propres......
+
+}
+[sha:cd5a428809a622a85842e1d3a14eab9e6f210ef0]{
+-- Page 8, Offset 7250.
+-- 静希君、アレから絶対に目をそらさないで！
+  Shizuki, ne détourne surtout pas les yeux de ça !
+
+}
+[sha:85121710aeaa5496f14d2b98bb3452200852c2d9]{
+-- Page 8, Offset 7251.
+-- いい、何があっても見続けること！　視界の<隅|すみ>に入れとくだけでいいから！」
+  Tu as compris ? Peu importe ce qui arrive, ne le quitte pas des yeux ! Tu peux te contenter de le mettre dans un coin de ton champ de vision !」
+
+}
+[sha:8f06a3ccf5a04d287e0059b04954d113f7547366]{
+-- Page 8, Offset 7252.
+-- 「あ、ああ!?」
+「He-Hein ?!」
+
+}
+[sha:b795d20b471d5a8d3edcfff03acec845349a030a]{
+-- Page 9, Offset 7253.
+-- 草十郎に指示をだしながら、青子は走る速度を速める。
+  Aoko accéléra son pas de course tout en donnant des instructions à Sōjūrō.
+
+}
+[sha:7baed25f6d25ea00eda390b591dc25aa6c0fcd1c]{
+-- Page 9, Offset 7254.
+-- ……アレは文字通り、割れる卵だ。
+  ...... Cet œuf était littéralement un œuf qui se brise.
+
+}
+[sha:6559820672ef51308c79e6be9604334152c84a64]{
+-- Page 9, Offset 7255.
+-- 塀の上に乗った卵人間。
+  Un œuf humain posé sur un mur.
+
+}
+[sha:dadfe8caa3f49e6da9ba9dab3795282b561b0a70]{
+-- Page 9, Offset 7256.
+-- 何をしても、何を言っても決して落ちる事はないが、目を離した途端に落下して破片をまき散らす。
+  Quoi que l'on fasse ou que l'on dise, il ne tombait jamais, mais à l'instant où on ne le regardait plus, il chutait et se brisait en mille morceaux.
+
+}
+[sha:74d6070837562a3128c4baf98398a40c633b19c8]{
+-- Page 10, Offset 7257.
+-- 「曰く、王様の軍隊でも元に戻せない数の破片―――」
+「On dit qu'il y avait un nombre si important de fragments que même l'armée du roi n'avait pu le reconstituer―――」
+
+}
+[sha:ad51438143249ac7bf7965bb29889db6e7b70280]{
+-- Page 10, Offset 7258.
+-- それがマザーグースに唄われるハンプティ・ダンプティの一節だ。
+  C'était une des théories de Humpty Dumpty chantée dans Mother Goose.
+
+}
+[sha:6370d0e582d5e1bc14543fb852ecc609d59794cb]{
+-- Page 10, Offset 7259.
+-- あの卵の標的が草十郎なら、草十郎が卵から視線をきった瞬間、落下して爆発する……！
+  Si la cible de cet œuf était Sōjūrō, alors au moment même où il le lâcherait des yeux, il tomberait et exploserait......!
+
+}
+[sha:248fc79d778596f84a9b052f50b2769ad4f1e4da]{
+-- Page 11, Offset 7260.
+-- 「……まあ、爆発するかどうかは知らないけど」
+「...... Enfin, je ne sais pas s'il explosera.」
+
+}
+[sha:a17c5c7f5d03d4de34918357b438b971d99fbb87]{
+-- Page 11, Offset 7261.
+-- どうあれ、厄介なモノをまき散らすに違いない。
+  En tout cas, il libérerait sans le moindre doute quelque chose de funeste.
+
+}
+[sha:1c3dceafda182a56c7ae590488730c1282788e2e]{
+-- Page 11, Offset 7262.
+-- 卵という形状、錠門の装飾、刻まれた詩文も気になる。
+  La forme d'œuf, la décoration en serrure de porte, et les mots gravés l'inquiétaient aussi.
+
+}
+[sha:d925814e67978082cd810974c46e3808f670f18f]{
+-- Page 11, Offset 7263.
+-- アレが卵ならいつかは<孵|かえ>る。
+  Puisque c'était un œuf, il finirait fatalement par éclore.
+
+}
+[sha:cd28eb441e1141e25a4067569bff2c5044045eac]{
+-- Page 11, Offset 7264.
+-- ずっと見続けていても、時間がくれば“中身が出る”としたら、ますます余力を残している場合ではない。
+  Même s'il continuait de le regarder, son “contenu finirait par sortir” le moment venu, et donc, ils avaient de moins en moins le luxe de gaspiller de l'énergie.
+
+}
+[sha:71de383bd430ec8666aa274a619dd1d1aa9a259b]{
+-- Page 12, Offset 7265.
+-- 「蒼崎、速すぎないか!?
+「Aozaki, tu ne vas pas trop vite ?!
+
+}
+[sha:ce3a2e20dfb9b40200a2ba8e2d2b1c3b82a358d4]{
+-- Page 12, Offset 7266.
+-- あんまり全力で走ると―――」
+  Si tu cours à cette vitesse―――」
+
+}
+[sha:58e384f711ba7e11e4669267665409a9b2ef8f9c]{
+-- Page 12, Offset 7267.
+-- 「後の事は考えないで！
+「Ne réfléchis pas à ce qui arrivera après !
+
+}
+[sha:b9b957da0e287fe7d5bccdd4f7eb11530c7fcc76]{
+-- Page 12, Offset 7268.
+-- いいから静希君は卵だけに集中して―――」
+  Je vais bien, alors concentre-toi uniquement sur l'œuf―――」
+
+}
+[sha:50ea91a2b86a20b959075992d128a3c462c88d7c]{
+-- Page 13, Offset 7269.
+-- 卵の出現にあわせて、ここぞとばかりに立ちふさがるブレッドマン。
+  Profitant de l'apparition de l'œuf, les hommes-pains leur bloquèrent le passage.
+
+}
+[sha:fce937927b4d6751bfb17bd821cfe958ec877313]{
+-- Page 13, Offset 7270.
+-- 「邪魔―――！」
+「Dégagez―――!」
+
+}
+[sha:cc839ed98454d498d939b457764222c3addff19d]{
+-- Page 13, Offset 7271. Mods: @n.
+-- かつてない大軍で押し寄せる焼きたてパンを、
+  Aoko se débarrassa de la plus importante armée de pains grillés qu'ils avaient eu à affronter jusqu'à maintenant,
+
+}
+[sha:9597191f61a49a9379cdf90e35c869a658466583]{
+-- Page 13, Offset 7272. Glued.
+-- 青子はこれまで以上の火力でなぎ払うのだが―――
+  avec une puissance de feu plus grande que jamais, et pourtant―――
+
+}
+[sha:d7c0e951016521e29d9ec9fbc8bf13245f638542]{
+-- Page 14, Offset 7273.
+-- 「っ、<堅|かた>焼きか、この―――！」
+「Vous voulez une deuxième cuisson ?! Espèces de―――!」
+
+}
+[sha:9209f5687a488f5c4a515bcbe3bebfcf07a5883f]{
+-- Page 14, Offset 7274.
+-- <弾く|スナップ>が効かないというのなら、刻印を用いた魔弾を放つ。
+  Puisque le Snap ne fonctionnait plus, elle tira des balles de prana en utilisant son Sceau,
+
+}
+[sha:7ce11872dd09bd5a529654c5cc09d2826fd2b503]{
+-- Page 14, Offset 7275.
+-- <術式|だんがん>を用いた<風圧甲弾|ドロウ>。
+  de l'air pressurisé sous forme de balles utilisant un sort.
+
+}
+[sha:5d7c1b30618fb5e462b14284bdeb1a2099512b06]{
+-- Page 14, Offset 7276.
+-- 先ほどまでのが機関銃の掃射なら、これは大砲の一撃だ。
+  Si auparavant, elle utilisait un balayage à la mitraillette, alors celui-ci était un coup de canon.
+
+}
+[sha:a76f831459fb8d54fecba2efbaaad4cacf484486]{
+-- Page 14, Offset 7277.
+-- <魔力|スナップ>に耐えきった堅焼きパンたちは、<魔術|ドロウ>の<奔流|ほんりゅう>を受けて焼き千切れていった。
+  Les pains complètement grillés qui avaient résisté au Snap furent déchirés par la tempête de vent pressurisé.
+
+}
+[sha:a21692bbcde6784b3f1377177b403307367a4fe7]{
+-- Page 15, Offset 7278.
+-- 「うわ……」
+「Ouaah......」
+
+}
+[sha:0b6045a50c9b177e45f3df33cd2c3b288035a6e3]{
+-- Page 15, Offset 7279.
+-- もちろん、破壊はブレッドマンだけに留まらない。
+  Bien sûr, la vague de destruction ne se limita pas seulement aux hommes-pains.
+
+}
+[sha:12bedceab580b5a66332fd0667c525a56f58098b]{
+-- Page 15, Offset 7280.
+-- レンガの道は舗装をふっ飛ばされ丸裸にされ、
+  Le chemin de briques fut soufflé et mis à nu,
+
+}
+[sha:e225db9dac813be685a62d84121b8921d0967240]{
+-- Page 15, Offset 7281.
+-- 近くにあった売店は鉄骨だけを残した<骸骨|スケルトン>と化していた。
+  et le kiosque tout proche, dont seule subsistait la charpente en fer, fut réduit à l'état de squelette.
+
+}
+[sha:9291c68c60fe1bc134cb7c06da079d8845424ee3]{
+-- Page 16, Offset 7282.
+-- ブレッドマンの壁より青子の破壊活動の方がいずれ行く手を阻むのでは、と草十郎でなくとも不安に思う惨状である。
+  Devant cette scène de désolation, Sōjūrō pensa avec inquiétude que les murs d'hommes-pains risquaient moins de leur bloquer le chemin que les actions destructrices d'Aoko.
+
+}
+[sha:de32e6b59740223ee9b04802d4d46033ab39a809]{
+-- Page 17, Offset 7283.
+-- 「ちょっと。なんで距離とるのよ、そこ。<傍|そば>にいないと危ないじゃない。
+「Attends. Pourquoi tu t'éloignes ? C'est dangereux si tu ne restes pas à côté de moi.
+
+}
+[sha:2558e0143f61df157f4b221b03b924e170a7e1ed]{
+-- Page 17, Offset 7284.
+-- ほら、もっとこっち！
+  Allez, rapproche-toi !
+
+}
+[sha:adb545b6b07ebbfddef387b7d482b01cb131b9b0]{
+-- Page 17, Offset 7285. Glued. Mods: @x.
+-- 言っとくけどアンタがアイツらに囲まれちゃったらアウトよ？　私、人質とか意味ないタイプだし。そもそも区別して撃つとか、そういうのできないし」
+Je te préviens, si jamais ils t'encerclent, tu es mort ! Avec moi, ça ne sert à rien de prendre quelqu'un en otage. Et de toute façon, je ne peux pas tirer avec suffisamment de précision !」
+
+}
+[sha:5675ef91938f697fa7b453803402aec7316c2a48]{
+-- Page 18, Offset 7286.
+-- なるほど、と頷く草十郎。
+  “Je vois”, acquiesça Sōjūrō.
+
+}
+[sha:93c928dd60ba1dad7e4225da6461d1ef66cd0c49]{
+-- Page 18, Offset 7287.
+-- 人質は意味をなさない、という言葉の意味は分からずとも、彼女の言わんとするところは分かる。
+  Même s'il ne comprenait pas ce qu'elle entendait par le fait que prendre un otage ne servait à rien, il voyait en gros ce qu'elle cherchait à exprimer.
+
+}
+[sha:6b23c1cf4653e1150874645f98ab5cbfd6119db5]{
+-- Page 19, Offset 7288.
+-- 「つまり、今はどこであろうと危険なのか」
+「En d'autres termes, où que je sois, je suis en danger.」
+
+}
+[sha:c4ea26a9b63fd70babfeebf32e308ef4a6d90a1d]{
+-- Page 19, Offset 7289.
+-- 「……アンタね」
+「...... Toi......」
+
+}
+[sha:6712456b7ce7f211d9784cf4a80cb4dba5cb4889]{
+-- Page 20, Offset 7290.
+-- 草十郎の相変わらずの天然っぷりにカチンときながらも、青子は少しだけ感心した。
+  Même si l'habituelle nature empotée de Sōjūrō l'énervait, Aoko éprouvait aussi un peu d'admiration.
+
+}
+[sha:d36b697e8538494186cd8c2c3e7ad4c861a2b2b1]{
+-- Page 20, Offset 7291.
+-- 草十郎はいたって真面目だ。
+  Sōjūrō s'appliquait consciencieusement.
+
+}
+[sha:678641d4c54c3245c1e19ae2f9381a77635eed78]{
+-- Page 20, Offset 7292.
+-- 彼の視線は、今の乱戦の中でもしっかり頭上の卵に向けられている。
+  Son regard était resté fermement fixé sur l'œuf en l'air, même dans la mêlée qui venait d'avoir lieu.
+
+}
+[sha:eb40257f99f845ef1352ff3977e601770fcb86dd]{
+-- Page 21, Offset 7293.
+-- 「その分なら安心か。
+「Je vois que je n'ai pas à m'inquiéter pour ça.
+
+}
+[sha:5a137b50642bf3e2655886a85f83852bd41b8032]{
+-- Page 21, Offset 7294.
+-- 物分かりは悪いけど、一度言われた事はきっちり守るあたり、貴方のいいところよね」
+  Tu es un peu long à la détente, mais l'un de tes bons côtés, c'est que tu respectes à la lettre les instructions que l'on te donne.」
+
+}
+[sha:57fad3b20cbe701777f68da72c7edfd38b32dfdd]{
+-- Page 21, Offset 7295.
+-- 「そんなことより蒼崎。俺の気のせいならいいんだけど、さっきのパン、堅くなかったか？」
+「À propos, Aozaki. J'espère que c'est juste mon imagination, mais les pains à l'instant ne seraient pas plus résistants qu'avant ?」
+
+}
+[sha:95e2913f01ea9a6743faf068f94fe015c9c059b0]{
+-- Page 22, Offset 7296.
+-- 「……まあね。アイツら、少しずつ強くなってきてるわ。
+「...... On peut le dire, oui. Ils deviennent plus forts petit à petit.
+
+}
+[sha:575737a96543c21a3a80d817cbac29e1a827f9c9]{
+-- Page 22, Offset 7297.
+-- 大量生産が軌道に乗ったんで、今度はクオリティアップをテーマにしたのかも」
+  Ils avaient été produits en masse au début, alors peut-être que maintenant, ils ont choisi de se concentrer sur la qualité.」
+
+}
+[sha:98809202ca2b1ede9f5111e1f44d66b000a6d81a]{
+-- Page 23, Offset 7298.
+-- 「静希君でもお察しの通り、ここからは手強くなっていく一方よ。あのパンたちでさえ個体差がでてきたみたいだし。
+「Comme tu l'as deviné, à partir de maintenant, ils ne cesseront de devenir plus forts. Et on dirait même qu'il y a une différence de niveau parmi eux.
+
+}
+[sha:ce3f3855f83b5f4bbfb1be0fbc3c656fd124907e]{
+-- Page 23, Offset 7299.
+-- 考えたくないけど、そのうちジャム塗ったりレタス乗っけたり、はては合体したりして」
+  Ça me fait peur rien que d'y penser, mais si ça se trouve, ils pourraient se mettre à se tartiner de confiture, ou se garnir d'une salade, voire fusionner à la fin.」
+
+}
+[sha:3f8fb47400dae8eddf713d9e84baba2d63d8b3aa]{
+-- Page 24, Offset 7300.
+-- 冗談を言いながらも青子の目は真剣だ。
+  Même si elle blaguait, les yeux d'Aoko étaient sérieux.
+
+}
+[sha:149984a78931435177aeec6d3b4c11d577d8045a]{
+-- Page 24, Offset 7301.
+-- 容赦なく悪化していく状況に、草十郎は今更ながら戦慄を覚えてしまう。
+  Face à la situation qui s'aggravait inexorablement, Sōjūrō ressentit, bien qu'un peu tard, des frissons de peur.
+
+}
+[sha:642f254773f17e14fdecca436ce4ecf0d9ad89c4]{
+-- Page 25, Offset 7302.
+-- 「じゃあ、そのうちミラーハウスの人形ぐらいに恐くなるのか、あいつら？」
+「Alors, au bout d'un moment, ils vont devenir aussi terrifiants que la marionnette du palais des glaces ?」
+
+}
+[sha:a27cbf9a411f866970ebcb6eab63a554a9a3e4cd]{
+-- Page 25, Offset 7303.
+-- 「間違いなくね。そこまで<高価|レア>なパンになったら私も自分だけで手一杯になる。ところで静希君、ああいうのとケンカできる？」
+「Probablement. Si ces pains deviennent si exceptionnels, même moi, j'aurai du mal contre eux. Au fait, Shizuki, tu peux te battre contre ça ?」
+
+}
+[sha:01578278cfbd29696571fab5e12125b9ce7f5da4]{
+-- Page 25, Offset 7304.
+-- ぶんぶん、と草十郎は心底イヤそうな顔で首を振る。
+  Sōjūrō secoua vivement la tête en faisant la grimace.
+
+}
+[sha:13c089a98633c447ea16220d631c548a459d9a74]{
+-- Page 25, Offset 7305.
+-- 「でしょ？　なら急ぎましょ。色々余裕ないんだから」
+「N'est-ce pas ? Dans ce cas, dépêchons-nous. Nous n'avons pas vraiment de temps à perdre, après tout.」
+
+}
+[sha:b66ba8ccc628a962e93c0491cd2f82e75c56bc36]{
+-- Page 26, Offset 7306.
+-- 青子は短く深呼吸をして、駆け足を再開する。
+  Aoko prit une courte et profonde respiration et reprit son pas de course.
+
+}
+[sha:a7f8612442e187b7bf8f4ff8e810b780df9c6fd5]{
+-- Page 26, Offset 7307.
+-- 視界<遥|はる>か、霧の向こうの鉄柵まであと三百メートルほど。
+  Il restait environ trois cents mètres jusqu'à la clôture qu'elle pouvait apercevoir au loin, dans le brouillard.
+
+}
+[sha:32d1421d49fda34086bc637e2ef07c43d051ea77]{
+-- Page 26, Offset 7308.
+-- ……このまま何事もなければ無事にたどり着けるかもしれない。
+  ...... S'il ne se passait rien jusque-là, ils pourraient peut-être l'atteindre sains et saufs.
+
+}
+[sha:5d6ba0139275bfdece68c65be7d2217ef34a5797]{
+-- Page 26, Offset 7309.
+-- そんな都合のいい希望を抱きながら、草十郎は青子の後に続いていった。
+  Tout en s'accrochant à cet espoir naïf, Sōjūrō suivit Aoko.
+
+}

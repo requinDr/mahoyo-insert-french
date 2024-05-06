@@ -1,0 +1,666 @@
+[sha:2112ed0f298a28f428a72e82a8d2cf537dcea34e]{
+-- Page 0, Offset 8258.
+-- 「……ったく、往生際が悪い」
+「...... Celle-là ! Quelle mauvaise perdante !」
+
+}
+[sha:5eb1c54793739551cd905a739f992e345f6f85ec]{
+-- Page 0, Offset 8259.
+-- ソファーにもたれながら悪態をつく青子。
+  se plaignit Aoko en s'adossant au sofa.
+
+}
+[sha:a230f3a88e4577714e50f6640523e43d01dc15d0]{
+-- Page 0, Offset 8260.
+-- 不機嫌そうな顔は、普段よりイライラ度を増している。
+  Son visage affichait une irritation encore plus grande que d'habitude.
+
+}
+[sha:2928903563af84697dcb29bafb5630bffdfd835c]{
+-- Page 1, Offset 8261.
+-- 「見逃すのと<洋館|ここ>に住まわせるのは別問題よって、じゃあそれ以外にどんな方法があるってのよ。
+「Selon elle, t'épargner et te laisser vivre ici sont deux problèmes différents... Dans ce cas, quel autre moyen nous reste-t-il ?!
+
+}
+[sha:19c29433db60c0c1a85bd3d06d46eb9e8dc7988b]{
+-- Page 1, Offset 8262.
+-- ……譲る気もなさそうだし。この分じゃ実力行使に出るかもね、あの<娘|こ>」
+  ...... Et elle n'a pas l'air d'avoir l'intention de céder. À ce rythme, elle pourrait bien recourir à la force.」
+
+}
+[sha:a426e6b73a6d4ae4bdac1420d3224b77db5a835f]{
+-- Page 2, Offset 8263.
+-- ぶつぶつと呟く青子に、草十郎は不審げな視線を送る。
+  Sōjūrō lança un regard méfiant à Aoko qui grommelait.
+
+}
+[sha:dbae18e320609d29c9f620a81c6e1d802ea5b13d]{
+-- Page 2, Offset 8264.
+-- 今の決意表明―――小瓶を粉々にする―――はどういう^事なのか、と。
+  Que pouvait donc bien signifier―――la résolution qu'elle venait d'exprimer―――en réduisant la fiole en morceaux ?
+
+}
+[sha:d32d024767b50766a9780da6e324fc1514ea463e]{
+-- Page 3, Offset 8265.
+-- 「草十郎には“記憶を無くしてもらう”ってコトで話はつけたけど、心の底から納得してないってコトでしょ。
+「J'ai conclu l'affaire à condition de te faire perdre la mémoire, mais au fond, elle n'est pas d'accord.
+
+}
+[sha:64599ff87d8c532361d4ac6bcb5dbdb15ea5f4d5]{
+-- Page 3, Offset 8266.
+-- ……有珠にしちゃあ珍しく他人を意識してたけど、やっぱりここに住まわせるとなると難しいみたい。
+  ...... C'est pourtant assez exceptionnel qu'Alice s'intéresse autant à un étranger... Malheureusement, ce sera visiblement une autre paire de manches de te laisser vivre ici.
+
+}
+[sha:b6487a0b255de958a47e23449d00a74f7f3e76bb]{
+-- Page 3, Offset 8267.
+-- 寝てる分には良かったけど、起きてるアンタを見たらこう、<得|え>も言わぬ<嗜虐心|しぎゃくしん>を刺激されたとかさ」
+  Tant que tu dormais, ça allait, mais dès qu'elle t'a vu réveillé, elle a été prise d'une crise de sadisme indescriptible.」
+
+}
+[sha:6185d0afbfea1e39b9db56b9d1a4f2c6f30fee34]{
+-- Page 4, Offset 8268.
+-- 「気をつけてね草十郎。
+「Sois toujours sur tes gardes, Sōjūrō.
+
+}
+[sha:d70702309e5abe057940d0b36b51e624c8697dca]{
+-- Page 4, Offset 8269.
+-- あの娘、アンタを殺しにくるかもしれないから」
+  Elle pourrait décider de te tuer n'importe quand.」
+
+}
+[sha:ec596802ddca2c8d769046c42ec08bdd5a2843ea]{
+-- Page 4, Offset 8270.
+-- などと忠告しつつ、青子自身、これ以上有珠を説得する気はなさそうだった。
+  l'avertissait Aoko. Pourtant, elle n'avait pas l'air de vouloir persuader Alice plus que cela.
+
+}
+[sha:91e9cb1973b7fffabb28d0b7e5d8962bc849e6e9]{
+-- Page 5, Offset 8271.
+-- 「……なんか、状況はあの夜からあまり変わってないようだね、蒼崎」
+「...... On dirait que la situation n'a pas vraiment changé depuis cette nuit-là, Aozaki.」
+
+}
+[sha:37d4e87afaf336c433d0802d2358431b94b9ad46]{
+-- Page 5, Offset 8272.
+-- 思わず呟いた一言に、青子はそう？　と軽く視線を返す。
+  “Vraiment ?” répondit Aoko à ces mots murmurés inconsciemment, en lui renvoyant un regard insouciant.
+
+}
+[sha:b8fe847206b3bd93a2de92a168122c7265fe24db]{
+-- Page 6, Offset 8273.
+-- 「そう？　じゃないぞ。
+「Il n'y a pas de “vraiment” qui tienne !
+
+}
+[sha:565eda9f5753c317f33cbb91072b9bb73229e859]{
+-- Page 6, Offset 8274.
+-- 蒼崎の次はあの娘がやる気満々じゃないか。さっきみたいな目にあったら逃げることもできない。
+  Après toi, maintenant c'est elle qui est prête à passer à l'acte. Si je me retrouve dans la même situation que tout à l'heure, je ne pourrai même pas m'enfuir.
+
+}
+[sha:7606ebd54c520a5ae2b645e6263f755259571425]{
+-- Page 6, Offset 8275.
+-- こういうの、生殺しって言うんじゃないか？」
+  C'est bien ça qu'on appelle “être sur le fil du rasoir”, non ?」
+
+}
+[sha:8f180b8b59ac5065c07743e625cf1f7c59865189]{
+-- Page 7, Offset 8276.
+-- 「そうならないように努力するのね。
+「Fais ce qu'il faut pour que ça n'arrive pas.
+
+}
+[sha:25c79268d0aca412edc6c3d60ba380a6f2c2f27c]{
+-- Page 7, Offset 8277.
+-- ま、有珠の理由は遊園地の時ほど切迫したものじゃないから、そのうち<諦|あきら>めてくれるとは思うんだけど」
+  Mais bon, comme les motivations d'Alice ne sont pas aussi pressantes que lorsqu'on était au parc d'attractions, je pense qu'elle finira par abandonner.」
+
+}
+[sha:e26d8c847b487068832120fcfb4b01e81c31c992]{
+-- Page 7, Offset 8278.
+-- 「蒼崎の時とは違う、有珠の理由……？」
+「Ses motivations sont différentes des tiennes......?」
+
+}
+[sha:008c6d5dd8cfd676739c536fcaa5baa3c5f133bd]{
+-- Page 8, Offset 8279.
+-- 「ええ。遊園地の時は秘密厳守のためだったけど、それは一応解決してる。アンタが底抜けに律儀なヤツだってのは、有珠だってもう分かってるし。
+「Oui. Au parc d'attractions, c'était pour le respect strict du secret, mais ça, c'est provisoirement réglé. Alice a déjà compris que tu es d'une honnêteté sans égale.
+
+}
+[sha:5a7f521c94963379dd4dc0d1d5ffba3c271d515f]{
+-- Page 8, Offset 8280.
+-- なんで、秘密厳守云々であそこまで反対する理由はないの。あの娘は単にね、ここに住んでほしくないだけなのよ。それだけで、有珠はアンタを殺したがってる」
+  Elle n'a pas de raison de s'y opposer à ce point. Elle refuse tout simplement l'idée que tu vives ici. C'est seulement pour ça qu'elle veut te tuer.」
+
+}
+[sha:aeb1346a9a6b63c256b4bd7f9b58318adf7e72df]{
+-- Page 9, Offset 8281.
+-- きっぱりと言う青子の目は真剣そのものだ。
+  Le regard d'Aoko était parfaitement sérieux.
+
+}
+[sha:14442882e8549e21bb4eca4e9624eda411161e3f]{
+-- Page 9, Offset 8282.
+-- そこには嘘も<誇張|こちょう>も影すらない。困った事に。
+  Ses yeux n'exprimaient pas la moindre once de mensonge ou d'exagération. Hélas.
+
+}
+[sha:4056276e832a09f7b076657b72bb517140fd0ed0]{
+-- Page 10, Offset 8283.
+-- 「たしかに、あの娘はそんな素振りだったけど。
+「C'est vrai qu'elle donnait cette impression-là.
+
+}
+[sha:7fbe9aaed9f87e0463038c2f2ee87c1bb8d2433a]{
+-- Page 10, Offset 8284.
+-- ……変だね、それならもっと他の手段をとればいいのに」
+  ...... Mais c'est bizarre. Si elle le veut vraiment, elle pourrait utiliser d'autres moyens.」
+
+}
+[sha:8d0f4f9f8e57418bd1cf5fc8f7860c236878b3df]{
+-- Page 10, Offset 8285.
+-- 有珠に申し訳ないものを感じているのか、柄にもなく深刻に悩む草十郎。
+  Sōjūrō, paraissant compatir pour Alice, était sérieusement troublé.
+
+}
+[sha:bf2330bf8103e4534c304d5ed430c916b84563d9]{
+-- Page 10, Offset 8286.
+-- その言葉の意味を、青子は瞬時に読み取った。
+  Aoko comprit immédiatement ce qu'il entendait par là.
+
+}
+[sha:e2164cd95831611577eca0249a779f8786abde5c]{
+-- Page 11, Offset 8287.
+-- 「例えば、記憶を消す魔術が見つかるまで、さっきの小瓶の中に閉じこめておくとか？」
+「Comme te garder enfermé dans cette fiole jusqu'à ce qu'on trouve le sort d'oubli ?」
+
+}
+[sha:d1ddbd30c4be3ebdee6dfde325017dee7f21b9eb]{
+-- Page 11, Offset 8288.
+-- 青子の声に、先ほどまでの<気怠|けだる>さはない。
+  La voix d'Aoko avait perdu sa légèreté.
+
+}
+[sha:6ccc23210a9fb1ae163517b47fb6bc2dcdcc4cc1]{
+-- Page 11, Offset 8289.
+-- 草十郎は頷きだけで答えた。
+  Sōjūrō répondit en acquiesçant.
+
+}
+[sha:8c12bd7f218cfc8a97051d8c8a8e8bc34f19893f]{
+-- Page 11, Offset 8290.
+-- 事実、彼女たちにとってそれが最も<安易|イージー>な方法である事は間違いない。
+  En effet, c'était indéniablement la manière de faire la plus simple pour elles.
+
+}
+[sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
+-- Page 11, Offset 8291.
+-- だが、
+  Mais,
+
+}
+[sha:a7a9228c24b4a28fd8cbd2006fc6b4d61a472b1f]{
+-- Page 12, Offset 8292.
+-- 「草十郎。私、約束は破らないの。覚えておいて」
+「Sōjūrō. Je ne romps jamais mes promesses. Rappelle-t'en.」
+
+}
+[sha:d3210c41af79aa471ef047462759b1f47e84d9aa]{
+-- Page 12, Offset 8293.
+-- その安易さを、彼女は嫌った。
+  elle détestait prendre la voie de la facilité.
+
+}
+[sha:dfe13305a437903ea9bf47e38ef285daeb3a09ba]{
+-- Page 12, Offset 8294.
+-- 静かな言葉にはかすかな怒りがある。
+  Ces mots calmes contenaient une infime colère.
+
+}
+[sha:7f9e1d581b715dd94d75f7d31bba1407f24d2d7f]{
+-- Page 12, Offset 8295.
+-- その怒りが何に対して向けられているのか、草十郎には痛いほどよく分かった。
+  Sōjūrō comprenait si bien vers quoi celle-ci était dirigée que cela le peinait.
+
+}
+[sha:f85e73a8446a866f55b93c09a810e9dfc24ca795]{
+-- Page 12, Offset 8296.
+-- 胸の痛みは、彼女にそんな台詞を言わせてしまった後悔によるものだ。
+  La douleur qu'il ressentait dans la poitrine était due au regret de l'avoir poussée à dire cette phrase.
+
+}
+[sha:8d814e3789b728495e09a7d47d61f080eb5cad24]{
+-- Page 13, Offset 8297.
+-- 「すまない。考えが足りなかった」
+「Désolé. Je n'avais pas vraiment réfléchi.」
+
+}
+[sha:3917abac2542fb50a0786dfab5959f1e3901757b]{
+-- Page 13, Offset 8298.
+-- 草十郎の突然の謝罪に、青子はいつもの不機嫌そうな表情に戻る。
+  Devant les excuses spontanées de Sōjūrō, Aoko reprit son expression mécontente habituelle.
+
+}
+[sha:f15a1ce390c3dfd4d2c247c3d9cf08b8a2727e47]{
+-- Page 13, Offset 8299.
+-- 青子本人、自分が怒った理由はおろか、怒っていた事すら気付いていない。
+  Elle ne s'était pas rendu compte de sa propre colère, ni même de la raison de son énervement.
+
+}
+[sha:c2d75d3495fb9ddc8508ecb483a3bac0162d4e22]{
+-- Page 13, Offset 8300.
+-- そんな青子からすると、草十郎の謝罪はまさに寝耳に水だ。
+  De son point de vue, les excuses de Sōjūrō étaient vraiment inattendues.
+
+}
+[sha:e18ce8bb664a6c7f9664b097a81dd6fa2a6c33b5]{
+-- Page 14, Offset 8301.
+-- 「……アンタって、ほんと分かんないわね。
+「...... Je ne te comprends vraiment pas.
+
+}
+[sha:5575eedd2ab25c0b4d762486f8b465f49027b9ca]{
+-- Page 14, Offset 8302.
+-- なんでそこで謝るのよ」
+  Pourquoi tu t'excuses ?」
+
+}
+[sha:2c60ffe840d5da5b35961e9e37c03ac447af4bd6]{
+-- Page 14, Offset 8303.
+-- 青子はまじまじと草十郎を見る。
+  Aoko dévisageait le jeune homme.
+
+}
+[sha:5525b9cce6f6076190bd36a5aacd95fca3106791]{
+-- Page 14, Offset 8304. Mods: @n.
+-- 「？　……あれ、そうだな。自分でもよく分からない。
+「? ...... Ah, tu as raison. Je ne sais pas vraiment moi-même.
+
+}
+[sha:990dfbcef5a699234a37c644340b7202ae92b097]{
+-- Page 14, Offset 8305.
+-- たぶん、そういう気分になったからだろう」
+  Sûrement parce que j'en ai ressenti le besoin.」
+
+}
+[sha:24b60fb5678383a5737fa69ccca0987c44f586ad]{
+-- Page 14, Offset 8306.
+-- よく分からない、などと言いつつ、草十郎は真剣に返答する。青子は呆れて言葉もない。
+  Même s'il disait ne pas savoir, Sōjūrō répondit avec sérieux. Aoko en resta perplexe.
+
+}
+[sha:f50d779e25e2424afe77fdee3b4fe485ec7ac0c0]{
+-- Page 15, Offset 8307.
+-- 「ただ、蒼崎の言いたい事は分かった。
+「Cependant, j'ai compris ce que tu voulais dire.
+
+}
+[sha:7f07745b9ec96b37010ad1840a1f774e6eb066f1]{
+-- Page 15, Offset 8308.
+-- 約束を守るっていう事は、結果じゃなく、過程を守るって事なんだな」
+  Tenir une promesse, ça implique d'en respecter les termes, mais également l'esprit.」
+
+}
+[sha:84fafaa43085d88f0cea8593c3b28c54609f50a7]{
+-- Page 15, Offset 8309.
+-- 恥ずかしげもなくまっすぐに、草十郎は青子に笑いかけた。
+  Sans aucune honte, Sōjūrō sourit ouvertement à Aoko.
+
+}
+[sha:a3fefb3914901c3e6668ec8ea54213648ab61b7c]{
+-- Page 15, Offset 8310.
+-- 純粋な嬉しさに満ちた笑顔は、思わず笑みを返したくなるほどだ。
+  Ce visage souriant exprimait une pure joie, à tel point qu'il donnait envie d'y répondre aussi par un sourire.
+
+}
+[sha:8a9a02699ce4bbc1199b3fcb24f632d8e99d5149]{
+-- Page 16, Offset 8311.
+-- 「あ、当たり前じゃない。オチだけ合っていればいいなんて、恥ずかしくてできないでしょ」
+「É-Évidemment. J'aurais trop honte si je me contentais de m'en tenir strictement aux termes.」
+
+}
+[sha:9a66ad2e0e00e9a259e15dfa9367e9deeffea4c2]{
+-- Page 16, Offset 8312.
+-- 照れたように顔を背けて、青子は小さく言い返す。
+  répondit d'une petite voix Aoko en détournant le regard, embarrassée.
+
+}
+[sha:8612d9bf99d913e193d12b93e143984b0b9dc00c]{
+-- Page 16, Offset 8313.
+-- 不覚にも自分の本音を言い当てられ、少しだけくすぐったかったのだ。
+  Même si c'était inconscient, cela la gênait un peu qu'il ait deviné ses véritables sentiments.
+
+}
+[sha:220c529e9098092d6e10a3490a56d354474f1a63]{
+-- Page 17, Offset 8314.
+-- いつもなら不快なだけ。
+  En temps normal, ce serait juste déplaisant.
+
+}
+[sha:2fbbd6f5618040d47433c213814856ff909a7fe0]{
+-- Page 17, Offset 8315.
+-- が、何故か今は嬉しくて、つい顔を背けてしまった。
+  Cependant, cette fois-ci, même si elle en ignorait la raison, elle était contente et avait détourné le visage impulsivement.
+
+}
+[sha:98ba82247cace3164de0ec4b2b03f14bb053695d]{
+-- Page 17, Offset 8316.
+-- そんな自分が余計にみっともなく、青子は誤魔化すように言葉を続ける。
+  Cette réaction l'ayant rendue encore plus honteuse, Aoko poursuivit pour changer de sujet.
+
+}
+[sha:874c30fe97a0c82dd0dcd60c6f71cfdf0802befe]{
+-- Page 18, Offset 8317.
+-- 「貴方を見逃すって言うなら、気持ちの問題じゃなくて、ちゃんと状況もそうなるようにするのは当たり前なの。
+「Si je veux t'épargner, alors je dois faire en sorte que mes sentiments n'interfèrent pas. Et je dois évidemment m'arranger pour que la situation le permette.
+
+}
+[sha:1656b82e64c5137019d15076e17c13a2642fe325]{
+-- Page 18, Offset 8318.
+-- 草十郎をここに住まわせる事があの約束を守る事になるんなら、厄介な有珠だって言い伏せるわよ。
+  Si te laisser vivre ici revient à protéger cette promesse, alors je m'interposerai, même contre cette fichue Alice.
+
+}
+[sha:9549f66954bb678e2ff8e87245700859fb56cae7]{
+-- Page 18, Offset 8319.
+-- ……<脅|おど>かすだけならまだしも、ずっと瓶づけなんてさせられるワケないでしょう」
+  ...... Tant que ça se limite à des menaces, c'est encore acceptable, mais il y a pas moyen que je te laisse tout le temps enfermé dans une fiole.」
+
+}
+[sha:7d763afb573d2e2c1afeca116ac79245e3861034]{
+-- Page 19, Offset 8320.
+-- 「そっか。蒼崎があの娘を説得しない素振りなのは、もうできるだけの説得をした後だからなのか。
+「Je vois. Tu ne cherches pas à persuader cette fille parce que tu as déjà fait tout ton possible.
+
+}
+[sha:b4795868e27e1395a7bedbe8533c5f7cc8c668a6]{
+-- Page 19, Offset 8321.
+-- あ。それで彼女とは冷戦中なんだ」
+  Ah. C'est pour ça que tu es en froid avec elle.」
+
+}
+[sha:79c9c850fe3fda64bdc40e8646851d6ce49719e4]{
+-- Page 19, Offset 8322.
+-- 「……別にアンタのためじゃないわ。私は私のために約束を守ってるだけだし。
+「...... Je ne fais pas ça spécialement pour toi. Je respecte la promesse pour moi-même.
+
+}
+[sha:744d5d1bde17b481bd36bdc308530f3863a54b9f]{
+-- Page 19, Offset 8323.
+-- お察しの通り、私のやるべき事はもう終わってるし？　あとは<草十郎|そっち>が努力する番だから、勝手にすれば？」
+  Mais comme tu l'as supposé, j'ai déjà fait tout ce qui était en mon pouvoir. À présent, c'est à ton tour de jouer. Tu n'as qu'à agir comme bon te semble.」
+
+}
+[sha:8af6603c00ba35c464a936ce681a847f780c1ccb]{
+-- Page 19, Offset 8324.
+-- 言われて、はい？　と首をかしげる草十郎。
+  “Comment ça ?” dit Sōjūrō, perplexe.
+
+}
+[sha:12a5b406b8fb13f5ae5cb5212115e61d46f69578]{
+-- Page 20, Offset 8325.
+-- 「あのね。いい？　同居案をなんとか認めさせる事が出来るのは私だけだから、二日間ぶっ通しで有珠を言い伏せもした。けどそれ以上は無理。
+「Toi alors. Écoute : comme j'étais la seule capable de l'amener à accepter l'idée de la cohabitation, j'ai passé deux jours entiers à essayer de la convaincre. Mais je ne peux rien faire de plus.
+
+}
+[sha:05487f595e8c13f8138330035440705448252682]{
+-- Page 20, Offset 8326.
+-- 私、ここから先はノータッチだから。
+  À partir de maintenant, je ne lèverai plus le petit doigt.
+
+}
+[sha:22e902bd324fd8b7e681961ac335b0c953ee48f8]{
+-- Page 20, Offset 8327.
+-- しばらくは有珠から守ってあげるけど、その間にあの子にアンタを認めさせる事は、アンタにしか出来ないんだからね、草十郎」
+  Je te protégerai un certain temps, et pendant cette période, ce sera à toi et toi seul de faire en sorte qu'elle t'accepte, Sōjūrō.」
+
+}
+[sha:730dc1fe0339913c42c07c40b3ed0345d64c88f7]{
+-- Page 21, Offset 8328.
+-- 「なんと！」
+「Quoi !」
+
+}
+[sha:f2156f09dc48305fdfc4f984339112b75d68fdad]{
+-- Page 21, Offset 8329.
+-- そういう流れになるのか、と面食らう草十郎。
+  Alors voilà où on en arrive ? se dit Sōjūrō, ahuri.
+
+}
+[sha:f71b2004af7b6e0cbc83475ffe4ff0a565da0e17]{
+-- Page 21, Offset 8330.
+-- 久遠寺有珠。
+  Kuonji Alice.
+
+}
+[sha:70825eb23af46a2ed3af2ad25bd8751385b94527]{
+-- Page 21, Offset 8331.
+-- 他人を寄せ付けない黒衣の少女。
+  La fille en habits noirs rejetant les étrangers.
+
+}
+[sha:716fbf33f949914738c9490ad46ce8007d46ebe5]{
+-- Page 21, Offset 8332.
+-- 青子が現代に隠れ住む魔法使いなら、彼女は中世に実在した魔女さながらだ。
+  Si Aoko était une Magicienne qui vivait cachée à l'époque actuelle, alors Alice était une sorcière qui aurait existé au Moyen Âge.
+
+}
+[sha:06c73a4cfec8e5f6a4f2525668cf5cf21806f4dc]{
+-- Page 22, Offset 8333.
+-- 「……蒼崎。君、自分がどれだけ難しい事を言っているか分かってるか？」
+「...... Aozaki. Est-ce que tu réalises à quel point ce que tu me demandes est difficile ?」
+
+}
+[sha:446579ddda172d7d45db72075a206324508d33c9]{
+-- Page 22, Offset 8334.
+-- 「そうね。私もこの件に関してだけは同情するわ」
+「C'est vrai. Sur ce point-là, je compatis.」
+
+}
+[sha:a54b7103b9d9e802df4eb27dd88a4421dce1de1d]{
+-- Page 22, Offset 8335.
+-- 青子はソファーから立ち上がる。
+  Aoko se leva du sofa.
+
+}
+[sha:7c814ac2fe1fe80f26ccee39cb51605795d42d3c]{
+-- Page 22, Offset 8336.
+-- とりあえず話はここまでらしい。
+  Il semblait que pour le moment, la conversation était terminée.
+
+}
+[sha:1afab4198f1e258354bbc601f5df7adf0173b517]{
+-- Page 23, Offset 8337.
+-- 「私たちがどんな人間かはおおよそ<判|わか>ったでしょ。
+「Tu as à peu près compris quel genre d'humaines nous étions, n'est-ce pas ?
+
+}
+[sha:ce67839b3c2dced98bb6fccc3d4edef1a0169f57]{
+-- Page 23, Offset 8338.
+-- 魔術に関してはこれ以上立ち入らない方がアンタのためだから、説明はここまでね。
+  En ce qui concerne la Magie, il est préférable pour toi de ne pas en apprendre davantage, alors arrêtons les explications ici.
+
+}
+[sha:8dd0878f61f2c3e2322d931beda3df5bf230e526]{
+-- Page 23, Offset 8339.
+-- で、肝心の今後の方針だけど、三ヶ月間ここで暮らす。
+  Et donc, ce qui va se passer, c'est que tu vas vivre ici pendant trois mois.
+
+}
+[sha:952010aa7396255b326e2e529081809f3e8aeeaf]{
+-- Page 23, Offset 8340.
+-- 当初の目標……というより最初の試練は、なんとか有珠に同居人として認めてもらう事」
+  Ton premier objectif...... ou plutôt ta première épreuve, sera de te faire accepter par Alice en tant que colocataire.」
+
+}
+[sha:0457c7de3234a0e4b83eab8beea2156524aa90ee]{
+-- Page 24, Offset 8341.
+-- 「試練って言った。いま、そういうたぐいのコトを言った」
+「Quoi, une épreuve ?! T'es sérieuse ?」
+
+}
+[sha:bad486313016798c3c767efc1649152d0fde6edc]{
+-- Page 24, Offset 8342.
+-- 「誤魔化してもいいコトないでしょ、この手のコトは。
+「Ça n'aurait pas été très malin de te le cacher, pas vrai ?
+
+}
+[sha:bb88cfed3c677b7a97fb0b29a0adfd4599f878f3]{
+-- Page 24, Offset 8343.
+-- うまくいかなきゃ<粉々|こなごな>なワケだし？」
+  Après tout, si tu ne réussis pas, tu seras réduit en miettes.」
+
+}
+[sha:7e4b2153953460d6bc00bea748a95f6df11ad5c5]{
+-- Page 24, Offset 8344.
+-- 血も涙もない発言をして、青子はドアへと歩きだす。
+  Après avoir lâché ces paroles sans cœur, Aoko se dirigea vers la porte.
+
+}
+[sha:bec9faef314e90ca884854a5088208fa2292488a]{
+-- Page 25, Offset 8345.
+-- 「あ、そうそう。
+「Ah, j'oubliais...
+
+}
+[sha:b867c20c609598842a48e57cc5633da6a76b440b]{
+-- Page 25, Offset 8346.
+-- 草十郎の部屋だけど、三階に用意しといたから。二階のホールの裏側に階段があるから使って。ここは寮ってワケでもないし、時間は自由に使いなさい。
+  Pour ta chambre, nous avons préparé le deuxième étage. Monte par les escaliers au bout du couloir du premier étage. Nous ne sommes pas dans un dortoir, fais ce que tu veux de ton temps libre.
+
+}
+[sha:2531fcb5d615cbb72f8d3c5eb4da54023288012c]{
+-- Page 25, Offset 8347.
+-- ただし、西館にだけは入らないようにね。東館は私が借りてるから比較的安全だけど、それでも歩き回らない方が無難だわ。
+  Cependant, tâche de ne pas t'aventurer dans l'aile ouest. J'utilise l'aile est, alors elle est à peu près sûre, mais il reste préférable que tu ne te balades pas trop dans les couloirs.
+
+}
+[sha:aee0f73a0a5edc7f9cec9f8cf5cf1b7fe65417be]{
+-- Page 25, Offset 8348. Glued. Mods: @x.
+-- ま、基本安全なのはアンタの部屋と<居間|ここ>だけよ」
+Pour faire simple, les seuls lieux sûrs sont ta chambre et cette pièce.」
+
+}
+[sha:95dab5e486e93a20491e73c0538325d111860335]{
+-- Page 26, Offset 8349.
+-- 「な―――<館|なか>の説明って、まさかそれだけ！？
+「Qu―――ne me dis pas que c'est tout ce que tu vas m'expliquer sur le manoir ?!
+
+}
+[sha:1bd46787c308275a1f93c1f651e0d8b82dc8ec56]{
+-- Page 26, Offset 8350.
+-- 蒼崎はいろいろおかしい、魔術なんかよりもっと大事な説明があると思う！」
+  T'es pas bien, il y a des trucs plus importants à expliquer que la Magie !」
+
+}
+[sha:fe619950360775ea96f9a32e2f7460fe76c59401]{
+-- Page 26, Offset 8351.
+-- じゃあね、とばかりに居間から出ていこうとする青子を、草十郎は決死の面持ちで呼び止める。
+  Sōjūrō implora d'un air désespéré Aoko qui était sur le point de sortir du salon en lui disant au revoir.
+
+}
+[sha:0d7b0831a23d63bd510dace7d569519f5354f0a3]{
+-- Page 26, Offset 8352.
+-- そんな草十郎を、心底かったりー、と<憐|あわ>れむ青子。
+  Aoko compatissait de tout son cœur avec lui.
+
+}
+[sha:c20514e16ff781572f8be7712705d15635530a47]{
+-- Page 27, Offset 8353.
+-- 「せめてほら、案内とか」
+「Au moins, fais-moi visiter le manoir.」
+
+}
+[sha:870c308848b043a90b79a554d5c0457a4cf32d1a]{
+-- Page 27, Offset 8354.
+-- 「面倒なんでパス。お上りさんを案内するなんて二回もやれば十分よ。
+「Ça me gave, alors je passe mon tour. J'ai aucune envie de faire deux fois la visite à un péquenaud comme toi.
+
+}
+[sha:d5be81b6c34b4de450d332b110dc3e8090997577]{
+-- Page 27, Offset 8355.
+-- 起きたばっかりだし、とりあえず今日は部屋で休んだら？
+  Tu viens juste de te lever, alors que dirais-tu d'aller te reposer dans ta chambre pour aujourd'hui ?
+
+}
+[sha:c7b857e0343902d934cac38928739c3179a3c9da]{
+-- Page 27, Offset 8356.
+-- 朝になったら学校まで案内してあげるから」
+  Je te montrerai le chemin jusqu'à l'école demain matin.」
+
+}
+[sha:a3f2c73130432b0f47aac5529593c0136d5346a8]{
+-- Page 28, Offset 8357.
+-- 「もっとも、私もそう暇じゃなし、側についてあげられるのは期末試験が終わるまでってコトで。
+「Cependant, mon temps libre n'est pas infini. Je te protégerai jusqu'à ce que les examens de fin d'année soient terminés.
+
+}
+[sha:bb7be598945b42f5eca2e06ee5ad3a4f43cf0c6d]{
+-- Page 28, Offset 8358.
+-- 一週間以内に有珠と仲良くなるなり、弱みを握るなりしないと、ま、アレよね」
+  Si d'ici là, tu ne t'es pas rapproché d'Alice ou tu ne t'es pas servi d'un de ses points faibles, eh bien, tu sais ce qui arrivera dans une semaine.」
+
+}
+[sha:7182166ef1eaa8fa5f05c6cab9afa22495976c25]{
+-- Page 29, Offset 8359.
+-- じゃあねー、と去っていく最終鬼畜会長。
+  “À plus”, dit la plus horrible des présidentes en s'en allant.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 30, Offset 8360.
+-- 「――――――」
+「――――――」
+
+}
+[sha:8b7d059306dd99542327b2d17e6a1d221d89663e]{
+-- Page 30, Offset 8361.
+-- 挙げた手を、思わずニギニギしてしまう。
+  Il ferma et rouvrit inconsciemment sa main levée.
+
+}
+[sha:96b851134c775639957c9f8a5de10c4a1924426f]{
+-- Page 30, Offset 8362.
+-- ひとり残されて、本気で途方にくれる草十郎。
+  Laissé seul, Sōjūrō se retrouvait vraiment déconcerté.
+
+}
+[sha:9ac08bc14adb65388ba3a72e7823f7874b752dba]{
+-- Page 30, Offset 8363.
+-- そんな彼を励ますように、
+  Comme pour l'encourager,
+
+}
+[sha:82e494a9d164bc9ffd48f78755a6aab28dc706ce]{
+-- Page 30, Offset 8364.
+-- チチチ、と。
+  “Cui cui cui.”
+
+}
+[sha:f05b49b27b7c0454178eaf15b9efcc1861a138a7]{
+-- Page 30, Offset 8365.
+-- 軽快な羽音と共に、いずこともなく現れる青い<駒鳥|コマドリ>。
+  le rouge-gorge bleu apparut de nulle part, accompagné d'un léger bruit de battement d'ailes.
+
+}
+[sha:12b0bd7cbfbbd4deef0eaf366a7b02dc3f4d020b]{
+-- Page 31, Offset 8366.
+-- でっぷりとした小鳥は無邪気そうな瞳を草十郎に向けている。
+  Le vaillant petit oiseau tourna ses yeux innocents vers Sōjūrō.
+
+}
+[sha:b2a2a343a269c2f73675a20be8f8fe643367da81]{
+-- Page 31, Offset 8367.
+-- 俗説で言うところの幸福を運ぶ青い鳥は、まるで彼の先行きを応援するように羽ばたくと、
+  L'oiseau bleu, signe de la prospérité selon les croyances populaires, battit des ailes comme pour l'encourager devant l'épreuve qui l'attendait,
+
+}
+[sha:23a5cd58b701d54b807762f357be1be0af0f9c1a]{
+-- Page 31, Offset 8368.
+-- 情け容赦なく、居間の電気を消したのだった。
+  et sans la moindre pitié, éteignit la lumière du salon.
+
+}

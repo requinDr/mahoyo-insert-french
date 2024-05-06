@@ -1,0 +1,522 @@
+[sha:c95e1475f4a9b8c022e5fbeaba8d02db3cae18b8]{
+-- Page 0, Offset 9464.
+-- 二日目の期末試験が終わって、草十郎はひとり洋館への帰路についた。
+  Après la fin du deuxième jour d'examen, Sōjūrō rentra tout seul au manoir.
+
+}
+[sha:ebdd4bc92e8505f55b5e2c23cfc21d5eb06ddd51]{
+-- Page 0, Offset 9465.
+-- 坂道は上に行くほど傾斜を増していき、森も深さを増していく。
+  En montant, la pente s'inclinait de plus en plus et la forêt se densifiait.
+
+}
+[sha:84f6538755bbb8a3a94f008b9b5eb47733f81499]{
+-- Page 0, Offset 9466.
+-- それが二十分以上も続くのだから、地域住人たちにとって久遠寺邸のある丘は山以外の何物でもない。
+  Le trajet durait plus de vingt minutes, alors pour les habitants du coin, la colline du manoir Kuonji n'était rien d'autre qu'une montagne.
+
+}
+[sha:66e3a9aedf68e51301efd8ebac3c9e9ca95491f4]{
+-- Page 1, Offset 9467.
+-- 一方、草十郎にすれば歩くだけで踏破できる森を山と呼ぶには抵抗がある。
+  De son côté, Sōjūrō était réticent à appeler “montagne” une forêt qu'on pouvait traverser simplement en marchant.
+
+}
+[sha:1a3d3249b8fc8364c9b64b6a7e9913a32013a7c4]{
+-- Page 1, Offset 9468.
+-- 舗装された道があり、
+  Il y avait un chemin pavé,
+
+}
+[sha:c391516770e99e5bb0e4b506121bbb2a57f533bf]{
+-- Page 1, Offset 9469.
+-- 日射しで方角を確かめられる程度の森であり、
+  une forêt où l'on pouvait se repérer grâce aux rayons du soleil,
+
+}
+[sha:2994f8c2ca71b806bb36e77cbc436213bc24749e]{
+-- Page 1, Offset 9470.
+-- 急な斜面も、<茂|しげ>みに<潜|ひそ>む動物の姿もない。
+  et on ne trouvait ni pentes abruptes ni bêtes cachées dans les buissons.
+
+}
+[sha:7d2ad921f50d2efd424484dbb373239da31a79bc]{
+-- Page 1, Offset 9471.
+-- ここでは遭難の恐れはおろか、迷う事を心配する必要もないのだから。
+  Ici, non seulement, il n'y avait aucun risque d'accident, mais en plus, on ne risquait pas de se perdre.
+
+}
+[sha:0167f564b1b0de5c1afa17e949d43335b9a4f46a]{
+-- Page 2, Offset 9472.
+-- 「……情けない。まだ未練ばっかりだ」
+「...... C'est pathétique. Je n'ai encore que des regrets.」
+
+}
+[sha:7807f5d738b362c931b19b528ba1ac70fd847b6b]{
+-- Page 2, Offset 9473.
+-- 知らず知らずのうち回想していた自分を、草十郎は静かに罵倒した。
+  Sōjūrō se morigéna silencieusement d'avoir ressassé inconsciemment le passé.
+
+}
+[sha:e4b50e4f48afd851430cc0b92f5d9c409f1632f7]{
+-- Page 2, Offset 9474.
+-- 町に引っ越してきてからの数週間は、山と町を比較してばかりだった。
+  Durant les quelques semaines écoulées depuis qu'il avait déménagé ici, il n'avait fait que comparer la montagne et la ville.
+
+}
+[sha:bf9b2f111b1a137d3b13f39010868b1a422e48c2]{
+-- Page 3, Offset 9475.
+-- その時はこんな風に自分を叱る事もなかったが、
+  Dans ces moments-là, il n'avait pas pour habitude de se morfondre,
+
+}
+[sha:6cc17848f3b23fb9e34dd47675ffbdf7c6b7a6b2]{
+-- Page 3, Offset 9476.
+-- ここ数日―――蒼崎青子と知り合ってからは、それが後ろ向きだという事にようやく気が付いたのだ。
+  mais ces derniers jours―――depuis qu'il avait rencontré Aozaki Aoko, il s'était enfin rendu compte que ça ne menait à rien.
+
+}
+[sha:3307c180fb4f4ed362e83ba0f1d71337974a8e2c]{
+-- Page 3, Offset 9477.
+-- 理由、理念はどうあれ立ち止まらない少女。
+  Cette fille allait toujours de l'avant, quels que soient les raisons ou les principes qui l'enchaînaient.
+
+}
+[sha:572e020be9032ab656ba82f469ded6db72ebc5f3]{
+-- Page 3, Offset 9478.
+-- その姿を目で追ううちに、自分も自然と早足になっていたらしい。
+  Il avait lui aussi fini par accélérer naturellement le pas, à force de la suivre du regard.
+
+}
+[sha:ffb8a61ab3bfc222eaf8d138fdb7f3265969b82b]{
+-- Page 4, Offset 9479.
+-- その青子が住む洋館は、活き活きとした彼女には不釣り合いな<趣|おもむき>だ。
+  Le manoir dans lequel vivait ladite Aoko avait un charme contrastant avec la nature turbulente de la jeune fille.
+
+}
+[sha:97ea7cfe55b2ea629f9faf3616ae26462d4446df]{
+-- Page 4, Offset 9480.
+-- 三咲町の中でも<一際|ひときわ>異彩な建物。
+  Même dans le vieux quartier de Misaki, le bâtiment se distinguait particulièrement des autres.
+
+}
+[sha:b3e15d9f6ecc623f56b92c45e103f56c9c7f81ee]{
+-- Page 4, Offset 9481.
+-- 幽霊屋敷と呼ばれる洋館。
+  On qualifiait cette demeure de manoir hanté.
+
+}
+[sha:f54fe09e3c5a7fdd832eac8cbce9ecaf70abdbbe]{
+-- Page 4, Offset 9482.
+-- 実際住んでいるのは幽霊ではなく魔法使いなのだけど、どっちもどっちなので、世論というのはわりと正しいのかもしれない。
+  Techniquement, celles qui y vivaient n'étaient pas des fantômes mais des Magiciennes. Cela dit, les deux ne valant pas mieux l'un que l'autre, l'opinion publique était peut-être relativement juste.
+
+}
+[sha:7281e728acd8867915f3461c889f3479a6cd44ae]{
+-- Page 5, Offset 9483.
+-- 「……そう言えば。幽霊と魔法使いっていうのは、どっちが常識はずれなんだろう？」
+「...... Maintenant que j'y pense. Entre un fantôme et un Magicien, qu'est-ce qui est le plus aberrant ?」
+
+}
+[sha:dc4abdf2ff40d14b10d0df81d24b88cee8a0301b]{
+-- Page 5, Offset 9484.
+-- 都会の生活に慣れていない自分を棚に上げて、草十郎ははて、と首をひねる。
+  Sōjūrō se creusa la tête, indécis, en occultant le fait qu'il n'était lui-même pas habitué à la vie urbaine.
+
+}
+[sha:bfa47c6b8bb093f8a27d6972762a191074ac746a]{
+-- Page 5, Offset 9485.
+-- ともあれ、どちらにしてもやるべき事は変わらない。
+  De toute façon, cela ne changeait en rien ce qu'il avait à faire.
+
+}
+[sha:90d98494ee9a05c230325db9c5751f7748658362]{
+-- Page 6, Offset 9486.
+-- 期末試験は明日で終わりだ。
+  Les examens du semestre se termineraient le lendemain.
+
+}
+[sha:29987c585874a67c235f7d3773b00e1118dbbd3f]{
+-- Page 6, Offset 9487.
+-- 青子が責任持って草十郎を保護する、といったリミットまであとわずか。
+  Il restait peu de temps avant la date limite qu'Aoko avait imposée pour sa protection.
+
+}
+[sha:386c513e219145f1f733492f1745a9c18c9153af]{
+-- Page 6, Offset 9488.
+-- 可能であるなら今日のうちに、草十郎は洋館の主に同居人として認められなくてはいけない。
+  Dans l'idéal, Sōjūrō devait se faire accepter comme colocataire par la maîtresse du manoir avant la fin de la journée.
+
+}
+[sha:dbc0b3a5214a44131c40a0f5a2fc415b15f6828f]{
+-- Page 7, Offset 9489.
+-- 館をぐるりと囲む木々の隙間、自然の並木道を通って、草十郎は玄関まで歩いていく。
+  Sōjūrō marcha jusqu'à l'entrée en empruntant le chemin bordé d'arbres dans une trouée naturelle de la forêt qui encerclait la résidence.
+
+}
+[sha:c57a095ae5efd6152a7748871f5a46caefdf5382]{
+-- Page 7, Offset 9490.
+-- 「――――――よし」
+「――――――Bien.」
+
+}
+[sha:d1484531ddae2d4e739573d1e1238ecc3c8d73c3]{
+-- Page 7, Offset 9491.
+-- 玄関の前で一度だけ深呼吸をし、草十郎は館内へと入っていった。
+  Il prit une profonde inspiration avant d'entrer dans le manoir.
+
+}
+[sha:5bd87628a8551c31dc2d749a85b428096eda0cd1]{
+-- Page 7, Offset 9492.
+-- 目指すは有珠がいるであろう居間である。
+  Sa destination était le salon où Alice devait se trouver.
+
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 8, Offset 9493.
+-- しかし。
+  Pourtant,
+
+}
+[sha:54d86af1b9eff29f207d64851ccaa22528b3910b]{
+-- Page 8, Offset 9494.
+-- そんな草十郎を迎えたのは、予想外の光景だった。
+  un spectacle inattendu l'accueillit.
+
+}
+[sha:340dd1d913c20985bce62edd052bb14d8ee7e12b]{
+-- Page 8, Offset 9495.
+-- 少し歩いて、玄関から館のホールであるロビーに辿り着く。
+  Après avoir avancé de quelques pas, il atteignit le hall, vestibule de la demeure.
+
+}
+[sha:37845a400500c23d055361a17a6c2f247f9a0afb]{
+-- Page 9, Offset 9496.
+-- そのロビーにひとつ、大きな違和感がある。
+  Dans cet endroit, quelque chose n'était pas à sa place.
+
+}
+[sha:0671e2538fa1877def919fbd57f91c18535c4f31]{
+-- Page 9, Offset 9497.
+-- 中世の城を思わせる洋館のロビー。
+  Cette pièce évoquait un château médiéval.
+
+}
+[sha:fad8642c472ba5d09ca57e7e6b14d34752cf9810]{
+-- Page 9, Offset 9498.
+-- 人工の明かりは一切なく、冬の肌寒い日射しが、さあ、と天窓から影を落としている。
+  Il n'y avait aucune lumière artificielle, et les rayons sans chaleur du soleil hivernal projetaient des ombres depuis la lucarne.
+
+}
+[sha:a89a0963330d101f0a99f3ad5da7a7528d769e0c]{
+-- Page 10, Offset 9499.
+-- 緑薫る、木製のタイル。
+  Les carreaux de bois dégageaient une odeur de verdure.
+
+}
+[sha:30bea687e8bc7f2ad19a617f3a06940c7faa0945]{
+-- Page 10, Offset 9500.
+-- 四角い大樹によりそう黒衣。
+  Une silhouette vêtue de noir s'était blottie contre le grand pilier.
+
+}
+[sha:939ccf5b04a92dca1a97b06900a6eb143b9ff8ff]{
+-- Page 10, Offset 9501.
+-- 少女は文字通り、洋館に体を預けている。
+  La jeune fille confiait littéralement son corps au manoir.
+
+}
+[sha:5c591404e715cba0365ed3aabc6d895fcdf4dae7]{
+-- Page 10, Offset 9502.
+-- 母親の子守歌か、穏やかな揺りかごか。
+  Telle la berceuse d'une mère, ou un berceau confortable,
+
+}
+[sha:61c06c90d18e82ef9b8c3819959230be5bd2b843]{
+-- Page 10, Offset 9503.
+-- 洋館は少女の眠りを守るように、空気のざわめきさえ飲みこんでいた。
+  le manoir étouffait même le frémissement de l'air, comme pour préserver son sommeil.
+
+}
+[sha:be1ffb40b2639afb7f7e0b865c823f564641bd80]{
+-- Page 11, Offset 9504.
+-- 館の影で眠る少女。
+  La fille dormait à l'ombre du manoir.
+
+}
+[sha:68b8b2636040044b94d6332fc7882c5a481725df]{
+-- Page 11, Offset 9505.
+-- 余人の目から隠された有珠の姿は、このロビーで最も鮮明に、見る者を魅了する。
+  C'était quand Alice se trouvait dans le vestibule, assise à l'abri des regards, qu'elle envoûtait le plus ceux qui la voyaient.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 12, Offset 9506.
+-- 「――――――」
+「――――――」
+
+}
+[sha:e93f9277b3e109239d2caeeb9771d2e3a43c1014]{
+-- Page 12, Offset 9507.
+-- 草十郎は当惑から、つい天井をあおいでしまった。
+  Sōjūrō, embarrassé, leva inconsciemment les yeux au plafond.
+
+}
+[sha:c2bf5436c14b7ea3918c34b0c50a783733e02052]{
+-- Page 12, Offset 9508.
+-- ……だって、不意打ちにも程がある。
+  ...... Tout de même, on devrait interdire des surprises pareilles.
+
+}
+[sha:2eaf97b91473beb70eba5d52c48cccd6b3939f90]{
+-- Page 12, Offset 9509.
+-- 少女は暖炉の傍で、その細い体を預けて眠っている。
+  Elle dormait en reposant son corps svelte à proximité de la cheminée.
+
+}
+[sha:0448474c82366406787778dc9f9bbb54feb29022]{
+-- Page 12, Offset 9510.
+-- いかに美しい絵画のようでも、この状況は心臓に悪い。
+  Même si on aurait pu en faire une magnifique peinture, ce spectacle était mauvais pour le cœur.
+
+}
+[sha:c51a8af94accbe4b77e15edf1c008b8a27f28f31]{
+-- Page 13, Offset 9511.
+-- ……命を感じさせない眠り。
+  ...... Son sommeil laissait croire qu'elle était morte.
+
+}
+[sha:45a169d191a8c20d6e07379d25094529149742b5]{
+-- Page 13, Offset 9512.
+-- あまりにも静かで、取り除くもののないカタチ。
+  Il était bien trop paisible et ne pouvait laisser personne indifférent.
+
+}
+[sha:afac0a1e740416385aef9d810813f369ae1dc10a]{
+-- Page 13, Offset 9513.
+-- この寒空の下、冷たい柱にしなだれているのに、彼女は幸福に包まれていた。
+  Elle se trouvait appuyée contre le pilier glacial par ce temps froid, mais était pourtant enveloppée de bonheur.
+
+}
+[sha:b481329de7b9867b7714bbaacf0ee84383c41129]{
+-- Page 13, Offset 9514.
+-- 死という名の永眠を、見る者に思わせてしまうほどの。
+  Si bien que ceux qui la voyaient pourraient croire qu'elle était tombée dans le sommeil éternel que l'on nomme la mort.
+
+}
+[sha:b1dfda7a906ccda820466fa7eae7b99777a59a1e]{
+-- Page 14, Offset 9515.
+-- 「……寒くないのかな、この子は」
+「...... Elle n'a pas froid ?」
+
+}
+[sha:88a993f84fcfb18428a4dbf90572b6180fe66cf7]{
+-- Page 14, Offset 9516.
+-- ぼんやりと有珠を眺めながら、ぽつりと呟く。
+  murmura-t-il tout en regardant distraitement Alice.
+
+}
+[sha:5771dfa8f4660259627b5a6d24dda202f1738ee6]{
+-- Page 14, Offset 9517.
+-- 毛布でも持ってくる……なんて気の利いた案を、彼は微塵も考えなかった。
+  Il ne lui vint pas un instant la bonne idée de lui apporter une couverture.
+
+}
+[sha:af3bb01e1edc92b520be8c9d37282bbadf58fe4b]{
+-- Page 14, Offset 9518.
+-- 代わりに思いついた事は、なぜか、ふたり分のお茶を淹れる事だった。
+  Mystérieusement, à la place, il pensa à préparer deux tasses de thé.
+
+}
+[sha:e7775d4826b8022045c062a3f55a7f48c2644343]{
+-- Page 15, Offset 9519.
+-- 静かにドアを開けて居間に移動する。
+  Il ouvrit la porte en silence et se rendit au salon.
+
+}
+[sha:7467da3ca91968973c9ee681da9137f8ca454a01]{
+-- Page 15, Offset 9520.
+-- テーブルの上には三粒の錠剤。
+  Sur la table se trouvaient trois pastilles.
+
+}
+[sha:f84794e2734a9a9c303db9795b5a876c88eaeb9b]{
+-- Page 15, Offset 9521.
+-- 毎日帰ってきたら飲むように、と青子から言われている薬である。
+  C'était le médicament qu'Aoko lui disait de prendre dès qu'il rentrait chaque jour.
+
+}
+[sha:cf968114df3dc2caea434caad2d3b7e203427842]{
+-- Page 15, Offset 9522.
+-- わずかに甘い錠剤を飲みこんで台所に足を運び、数ある紅茶の箱からひとつを選んで、ふたり分の紅茶を淹れる。
+  Il avala les pastilles un peu sucrées et se dirigea vers la cuisine. Il choisit l'une des nombreuses boîtes de thé, et prépara deux tasses.
+
+}
+[sha:c0c9616855c1613e4620be78eecbb8e2d4dcd8bf]{
+-- Page 15, Offset 9523.
+-- そうしてロビーに戻ってみても、少女は眠ったままだった。
+  Quand il revint dans le vestibule, elle était toujours endormie.
+
+}
+[sha:95ddbdd24a1255df42c7aa9b5f10226b5c1eb782]{
+-- Page 16, Offset 9524.
+-- 物音に少しだけ気を配って床に腰を下ろす。
+  Il essaya de ne pas faire trop de bruit et s'assit sur le sol.
+
+}
+[sha:8059a546de0e29022532a4831127e7b1aed59c50]{
+-- Page 16, Offset 9525.
+-- ズボン越しに伝わってくる床の<感触|つめたさ>にビックリする。
+  Sa fraîcheur, qu'il sentait au travers du tissu de son pantalon, le surprit.
+
+}
+[sha:bf48d8197a8dff95512a52e17667d39061e7bae5]{
+-- Page 16, Offset 9526.
+-- 暖炉の<傍|そば>なら温かいのでは、と考えもしたが、青子曰く、あの暖炉は無用の長物とかなんとか。
+  Il avait pensé qu'il serait plus au chaud près de la cheminée, mais celle-ci était inutilisable d'après Aoko.
+
+}
+[sha:02996f06cb0b54dce7e8ffb17189c8081c09c141]{
+-- Page 16, Offset 9527.
+-- 青子も有珠も手入れの仕方を知らないらしい。
+  Selon toute vraisemblance, ni Alice ni elle ne savaient comment la ramoner.
+
+}
+[sha:8acb073d6a7911d5239194a04e71a0ffba04efd4]{
+-- Page 16, Offset 9528.
+-- 草十郎は盆に載せたティーカップを有珠と自分の前に置くと、おもむろに鞄から古典の教科書を取り出した。
+  Après avoir posé devant Alice et lui-même le plateau contenant les tasses de thé, Sōjūrō sortit lentement son manuel de littérature classique de son cartable.
+
+}
+[sha:f05d2a48aef35708047a3ca4045657b372d64a65]{
+-- Page 17, Offset 9529.
+-- 「……蒼崎、怒ってたからな」
+「...... Après tout, Aozaki était en colère.」
+
+}
+[sha:494e1be8f9077dcbc41cd0f71b85fb162dd3b66b]{
+-- Page 17, Offset 9530.
+-- 今朝の青子の顔を思い出して、つい独白する。
+  murmura-t-il en se rappelant l'expression d'Aoko ce matin même.
+
+}
+[sha:44e589ae0e56a5bef5e8fc62ad9773e102ec4f6e]{
+-- Page 17, Offset 9531.
+-- 彼女が怒っていた理由も、あの一瞬の顔もまったく意味不明のままだ。
+  Il ne comprenait toujours pas pour quelle raison elle s'était fâchée, ainsi que le visage qu'elle avait brièvement montré.
+
+}
+[sha:3096433b34ed820690a74eebd130241dd5a3f11a]{
+-- Page 18, Offset 9532.
+-- それはそれとして、明日にそなえて復習をしなくてはいけない事だけはハッキリしていた。
+  Ce dont il était certain, en revanche, c'était qu'il devait réviser afin de se préparer pour le lendemain.
+
+}
+[sha:ce21bd8b5c1a55e909d4e0f30533ef59ca43b647]{
+-- Page 18, Offset 9533.
+-- 青子のおかげで今日のテストは幾分ましになったけれど、明日の科目はさらに難敵だ。
+  Grâce à Aoko, les examens du jour s'étaient un peu mieux déroulés, mais les matières du lendemain constitueraient une épreuve redoutable.
+
+}
+[sha:1ebf76f9b02ae2242f85c123ac4ff334a1b713d8]{
+-- Page 18, Offset 9534.
+-- 今朝から怒っている彼女が今夜も手伝ってくれるとは思えない。
+  À son avis, il était impensable que la fille en colère le matin même l'aide aussi ce soir.
+
+}
+[sha:f522c942f0de66ca5702055526c91b51b3dcf136]{
+-- Page 19, Offset 9535.
+-- 「そのくせ点数悪いと怒るし。別に、蒼崎が怒る筋合いじゃないと思う」
+「Pourtant, elle s'énerve devant mes mauvaises notes. Mais je ne vois pas ce qui lui donne le droit de le faire.」
+
+}
+[sha:a49e19464c668d4f5a1d24b0aac3bc2a895a4412]{
+-- Page 19, Offset 9536.
+-- 文句を言いつつ教科書を開く。
+  Sur ces protestations, il ouvrit son manuel.
+
+}
+[sha:99e98f9bf25e50ca00b1f3d53cc24b09c6b46ead]{
+-- Page 19, Offset 9537.
+-- 有珠の目が覚めるまで、そうやって待つつもりらしい。
+  De toute évidence, il avait l'intention d'attendre ainsi jusqu'à ce qu'Alice ouvre les yeux.
+
+}
+[sha:182d95d3c9c563bb347015155a01d0325bec5fb5]{
+-- Page 20, Offset 9538.
+-- ホールにはページをめくる音だけが響いていく。
+  Dans le hall, seul le son de pages que l'on feuilletait était perceptible.
+
+}
+[sha:e339b8009972eb9a2ffc4c53faa635efef819c60]{
+-- Page 20, Offset 9539.
+-- 時計の針も、森のざわめきも届かない<午睡|ごすい>。
+  Ni l'aiguille de l'horloge ni le bruissement de la forêt ne parvenaient à déranger sa sieste.
+
+}
+[sha:7ffb3ca557fb55b8e3b561181b50ac59cd4d8971]{
+-- Page 20, Offset 9540.
+-- ……数時間が経って、草十郎は静かに立ち上がった。
+  ...... Après quelques heures, Sōjūrō se leva doucement.
+
+}
+[sha:f6afb209457a898abd9add580f0c9f50a78c6990]{
+-- Page 20, Offset 9541.
+-- ロビーに差しこむ日射しは、白から赤に変わりつつある。
+  Les rayons du soleil qui pénétraient dans le vestibule étaient passés du blanc à l'écarlate.
+
+}
+[sha:3044bb5623961f3a849ef3a7194f60933f44077d]{
+-- Page 21, Offset 9542.
+-- 「そろそろバイトの時間か」
+「C'est l'heure de partir au travail.」
+
+}
+[sha:1ce214fda39fc52bc999db222bc1b81bae947f03]{
+-- Page 21, Offset 9543.
+-- 固まった背筋を伸ばして、草十郎はちらりと有珠を見た。
+  Il étira son dos courbaturé puis lança un regard à Alice.
+
+}
+[sha:75d2e227cebee8af1d38854697b9af91845dea41]{
+-- Page 21, Offset 9544.
+-- 眠りは変わらず穏やかだ。
+  Son sommeil n'avait pas changé, il était toujours aussi paisible.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 21, Offset 9545.
+-- 「………………」
+「..................」
+
+}
+[sha:0172c293a8d753147f6b8c19e628cfea90c40d28]{
+-- Page 21, Offset 9546.
+-- む、と草十郎は真剣に眉をよせる。
+  Sōjūrō, muet, fronça ses sourcils d'un air sérieux.
+
+}
+[sha:945fe4057eda3af1016bf10e37b2a767ff9ab9c6]{
+-- Page 21, Offset 9547.
+-- このまま寝かせておいていいのか、有珠の日常を知らない彼には悩みどころだ。
+  Il se demanda si la laisser dormir ainsi était la bonne chose à faire. Ne connaissant pas les habitudes d'Alice, cela le tracassait.
+
+}
+[sha:9f8cac42437261418939ec056fa8e9dab84555f4]{
+-- Page 22, Offset 9548.
+-- 「……いや。蒼崎も帰ってくるだろうし、いらぬ世話かな」
+「...... Non. Aozaki devrait bientôt rentrer. Et puis, ce ne sont peut-être pas mes affaires.」
+
+}
+[sha:f7ab65c56f9c45daa27bd1c1c6a2cc439bf27a59]{
+-- Page 22, Offset 9549.
+-- いかなる思考が生み出した結論か、草十郎はひとり頷いて洋館を後にした。
+  Après mûre réflexion, Sōjūrō fit son choix et quitta la résidence.
+
+}
+[sha:2f21abf98dde99be1f70b84332e88b401e457a52]{
+-- Page 22, Offset 9550.
+-- 今日のバイト先は三咲町商店街にある、中華飯店まっどべあである。
+  Aujourd'hui, il devait travailler au centre commercial du vieux quartier, au restaurant chinois de l'Ours Enragé.
+
+}

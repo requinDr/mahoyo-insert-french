@@ -1,0 +1,666 @@
+[sha:0f8f2cc26a3ed8741e297a9ba497c0641a9fe7de]{
+-- Page 0, Offset 15288.
+-- 有珠が裂かれたのは腹部だけではなかった。
+  Alice n'avait pas été lacérée qu'à l'abdomen.
+
+}
+[sha:b72706a6567a21e43ba3068854c9d8c7017cce22]{
+-- Page 0, Offset 15289.
+-- 正確には腹を貫通して背中まで。
+  Pour être plus précis, son ventre avait été transpercé jusqu'au dos.
+
+}
+[sha:e45aa7bb79155a111160d0334a22f9b9928126df]{
+-- Page 0, Offset 15290. Glued. Mods: @x.
+-- 腰のやや上にある<脊椎|せきつい>まで砕かれた有珠の両足は、ぴくりとも動かなかった。
+Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvait pas bouger ses jambes d'un pouce.
+
+}
+[sha:1004467310287df22bb1707ed827b3304a24be17]{
+-- Page 0, Offset 15291.
+-- いずれ魔術刻印によって復元するにしろ、最短であと一時間。
+  Même si le Sceau Magique la restaurerait tôt ou tard, cela prendrait encore au moins une heure.
+
+}
+[sha:96f6738ac0153390bab3975f1732ed702f5ad98f]{
+-- Page 0, Offset 15292.
+-- かろうじて動くのは心臓と、細い両手だけ。
+  Seuls son cœur et ses deux bras fins bougeaient péniblement.
+
+}
+[sha:6ca711c0435132ad5ad4598afc06fcb571dd51a5]{
+-- Page 1, Offset 15293.
+-- その希望も、地を這って電話ボックスに入った時点で、もう満足に動かなかった。
+  Ces deux lueurs d'espoir ne fonctionnaient déjà plus convenablement lorsqu'elle était entrée dans la cabine téléphonique en rampant.
+
+}
+[sha:ac681b3566d3cdcef96103ac5ea2cb96a7fd6211]{
+-- Page 1, Offset 15294.
+-- 腹部の傷を癒すために起動した刻印は、凶悪な炉熱を放って、有珠の小さな体を押し潰そうとする。
+  Le Sceau, qui s'était activé pour soigner la blessure de son abdomen, libérait une chaleur atroce et semblait vouloir écraser son petit corps.
+
+}
+[sha:7624b9aa2833ea0b77eaf882c57c5c2660a6b43c]{
+-- Page 1, Offset 15295.
+-- ―――自分の体が自分の物でなく、何か得体の知れない、別の生き物に変わっていく感覚。
+  ―――Elle avait la sensation que son propre corps n'était plus le sien, qu'il se transformait en celui d'un être vivant inconnu.
+
+}
+[sha:e417a979879c8e7307f8b4798368b84c6d18c7b3]{
+-- Page 2, Offset 15296.
+-- 裂かれた腹部に渦巻く猛毒は、痛いというより辛い。
+  Le poison violent qui circulait dans son abdomen déchiré lui était plus pénible que douloureux.
+
+}
+[sha:58927b7659d20496b4efc07c6f03e448de431cb7]{
+-- Page 2, Offset 15297.
+-- 痛みには慣れているが、この不快感だけは慣れようがない。
+  Elle était habituée à la douleur, mais elle ne pouvait pas se familiariser avec cet inconfort.
+
+}
+[sha:cfceef2e0618304093ca2aebaa7285269abf2810]{
+-- Page 2, Offset 15298.
+-- 慣れた時には、彼女はもう彼女ではなくなっているのだから。
+  Si elle s'y faisait un jour, ce serait lorsqu'elle ne serait plus elle-même.
+
+}
+[sha:ba23661bab8e09779893619c0193196a82d2ced8]{
+-- Page 3, Offset 15299.
+-- 「……、―――」
+「......, ―――」
+
+}
+[sha:cdc4f11f9aed7957037398f610372e92e0c37ced]{
+-- Page 3, Offset 15300.
+-- 腹部の痛みと、魔術刻印による不快感。
+  La douleur de son abdomen et l'inconfort dû au Sceau Magique l'assaillaient.
+
+}
+[sha:fe1339a65c39a8da2ac84584b5153fe0f1608624]{
+-- Page 3, Offset 15301.
+-- いつ消えてもおかしくない意識の中、有珠は受話器を手に取った。
+  Alice prit le combiné même si elle risquait de perdre conscience à tout instant.
+
+}
+[sha:65b68f674668b0e5ba6d36fcb11c268fd609f5ee]{
+-- Page 4, Offset 15302.
+-- 青子が帰還している可能性は低い。
+  Il y avait peu de chance qu'Aoko soit rentrée.
+
+}
+[sha:c48049f2c28be42d93e3fe1d10ad141ede27cafe]{
+-- Page 4, Offset 15303.
+-- それを知りながら洋館に電話をしたのは、電話ボックスに集まりだした野犬達の目つきに<圧|お>されての事かもしれない。
+  Peut-être avait-elle appelé au manoir malgré cela, car le regard des chiens sauvages ameutés autour de la cabine téléphonique lui mettait une énorme pression.
+
+}
+[sha:c573eb7f50790c25b5fb4d54e1be186456d2e5c4]{
+-- Page 4, Offset 15304.
+-- けれど、電話に出たのは草十郎だった。
+  Cependant, ce fut Sōjūrō qui répondit.
+
+}
+[sha:5afe82dd2adb63019d689ae97e870feaffb24f50]{
+-- Page 4, Offset 15305.
+-- 関係のない彼なら無言で切るべきだったのに、有珠は名前を呼んでしまった。
+  Puisqu'il n'était pas concerné par cette histoire, Alice aurait dû raccrocher sans dire un mot. Pourtant, elle avait laissé échapper son nom.
+
+}
+[sha:f77e4983c221f535379d82b2bd7e07ce892107af]{
+-- Page 5, Offset 15306.
+-- ……長い沈黙と葛藤の末、受話器ごしに凡庸な草十郎の顔が思い出されて、有珠はなんとか電話を切った。
+  ...... Après un long silence et un conflit mental, Alice avait fini par raccrocher lorsque le visage banal de Sōjūrō à l'autre bout du fil lui vint à l'esprit.
+
+}
+[sha:5e503257f4865b2b25b604386624351c7ecbe526]{
+-- Page 5, Offset 15307.
+-- どうあっても彼を関わらせるのはいけない、そう本能が律したのだ。
+  Quoi qu'il arrive, il ne fallait pas l'impliquer. Son instinct le lui dictait.
+
+}
+[sha:562fd90cd7968b011f42f8c3b11917edb2251aae]{
+-- Page 6, Offset 15308.
+-- ……それは、一般人だからとか、そんな事とは関係なく。
+  ...... Qu'il soit un humain ordinaire n'y était pour rien.
+
+}
+[sha:83840fde23f68732b752fb7d07788fcda1ec3b37]{
+-- Page 6, Offset 15309.
+-- あの日ささやかな秘密を共有した時から、少女にとって、静希草十郎はそういう風に映っていた。
+  Shizuki Sōjūrō lui apparaissait ainsi depuis qu'il avait partagé ce petit secret avec elle ce jour-là.
+
+}
+[sha:64e478300c495a08291428f59e626872f893c15e]{
+-- Page 7, Offset 15310.
+-- 「…………、―――――――――」
+「............, ―――――――――」
+
+}
+[sha:95e01b37126d71ac39a9aeaf6367fb380040e0bb]{
+-- Page 7, Offset 15311.
+-- 喉からこぼれる息が、細い。
+  Le souffle qui s'échappait de ses lèvres était ténu.
+
+}
+[sha:bb7c44ef8857f38461b03e46eed193c7ca5e8bab]{
+-- Page 7, Offset 15312.
+-- 頭上の月が薄らいでいく。
+  Au-dessus de sa tête, la lune s'estompait.
+
+}
+[sha:8d1f1e0d836be1a98ba232854f4bebc2866c35d5]{
+-- Page 7, Offset 15313.
+-- 降り始めた雪が遠くなっていく。
+  La neige qui avait commencé à tomber se faisait lointaine.
+
+}
+[sha:32a768a351583065f412fee02b4daf63b32df08e]{
+-- Page 7, Offset 15314.
+-- 周囲からは野犬たちの騒ぎ声。どん、と電話ボックスに体当たりをする音も聞こえだした。
+  Autour d'elle, elle entendait le vacarme que faisaient les chiens sauvages ainsi que le tambourinement sur la cabine téléphonique.
+
+}
+[sha:ce0132c25cf88330e7ae8df65f1d621e23a98bb8]{
+-- Page 7, Offset 15315.
+-- ……少女は最後に大きく息をついて、目蓋を閉じる。
+  ...... Elle lâcha un dernier et long soupir puis ferma ses paupières.
+
+}
+[sha:8de3f46070bb5130a14d0b2efa57a1f939806b95]{
+-- Page 8, Offset 15316.
+-- 硝子の<棺|ひつぎ>の中で意識を手放す。
+  Elle laissa échapper sa conscience au fond du cercueil de verre,
+
+}
+[sha:a50a11ac76b913b79da359a6b3458b4bca3603ed]{
+-- Page 8, Offset 15317.
+-- 少年に助けを乞わなかった事を最後まで正しく、そして不思議に思いながら。
+  en songeant étrangement et jusqu'au dernier moment qu'elle avait fait le bon choix en ne demandant pas l'aide du jeune homme.
+
+}
+[sha:8c3ac584f9ba7adab8445ff120fdb00af50c115f]{
+-- Page 9, Offset 15318. Mods: @n.
+-- ―――合間。
+          ―――Pause.
+
+}
+[sha:0761edd002e422cd8b15d13e4205c5a0c2a12088]{
+-- Page 9, Offset 15319. Glued.
+-- おかしな風景を見た。
+ Elle vit un étrange paysage.
+
+}
+[sha:fdb5f0c41f212f225431682ac2102be6c2bbf38b]{
+-- Page 10, Offset 15320.
+-- 一面に花が咲き乱れた野原。
+  Un champ recouvert de fleurs.
+
+}
+[sha:314b15feeb7eafeb759bcb6266a5f4d2cba0e9b7]{
+-- Page 10, Offset 15321.
+-- 雲ひとつない空は青すぎて、
+  Le ciel, complètement dégagé, était d'un bleu aveuglant,
+
+}
+[sha:e2fa45e1bfe17daa35543bd8a3e72657bdf737e5]{
+-- Page 10, Offset 15322.
+-- 野原いっぱいの花は白すぎて、
+  et les fleurs du champ d'une couleur blanche éclatante.
+
+}
+[sha:cc82b5c39799e20aa7c8f63df524186db4faeacd]{
+-- Page 10, Offset 15323.
+-- こんなにも美しいのに、目を<背|そむ>けたくて仕方がない。
+  Cette vision était magnifique, et pourtant, elle ne pouvait s'empêcher de détourner le regard.
+
+}
+[sha:98c6dbee6a5bc248b433f3651ac3df72802eabaa]{
+-- Page 11, Offset 15324.
+-- ……それはたぶん、冬の出来事だった。
+  ...... Cela se déroulait probablement en hiver.
+
+}
+[sha:ffb83471f8082980db71ca406847dbbff314553e]{
+-- Page 11, Offset 15325.
+-- 冷たい風は人里離れた<桃源|とうげん>の匂いがして、太陽すら人の<手|て><垢|あか>に汚れていない。
+  Le vent froid évoquait un paradis perdu et le soleil n'était pas encore couvert par la pollution des humains.
+
+}
+[sha:6aaace32ca67a976d2791cb664d2e409e7413425]{
+-- Page 11, Offset 15326.
+-- 楽土と錯覚する<彼岸|ひがん>の原。
+  Ce champ de l'au-delà donnait l'illusion de se trouver au ciel.
+
+}
+[sha:402337e5663e13296136b4a7ef7980b2b49a4468]{
+-- Page 11, Offset 15327.
+-- そう言えば、<弔|とむら>いは悲しいものなのに、いつも<華|はな>やかな事を思い出す。
+  En y pensant, bien qu'affligeantes, les funérailles lui rappelaient toujours quelque chose de magnifique.
+
+}
+[sha:bf2f0b63964a3d43e9dc075dc7b3d2851cfa7d90]{
+-- Page 12, Offset 15328.
+-- ……<嗚|あ><呼|あ>。
+  ...... Aah !
+
+}
+[sha:eb71f67e42ab4ca9a8cf67db658cee1e65d4f7ca]{
+-- Page 12, Offset 15329.
+-- なのに不釣り合いな呻き声と、<生命|いのち>の音がする。
+  Malgré cette beauté, elle entendait des geignements importuns et les sons du vivant.
+
+}
+[sha:025ef1a9d6f7bcec2189cb8a729f2b625afbb845]{
+-- Page 12, Offset 15330.
+-- 断片的にこぼれる<吐|い><息|き>は<絞|しぼ>るように。
+  Elle laissa échapper un soupir par fragments, comme s'il était extrait de force.
+
+}
+[sha:7b50dc60bab692b3dc764fcf55a53cac9be60da0]{
+-- Page 12, Offset 15331.
+-- 痛みを訴えるはずの<感情|しんぞう>は、<虚|うつ>ろになって機能不全。
+  Son cœur, qui aurait dû se plaindre de la douleur, était vide et défectueux.
+
+}
+[sha:27945346aa213b8e575ffcd315a341dea5ae7c39]{
+-- Page 12, Offset 15332.
+-- 切断するかのような締め付けは胴と頭の中間に。
+  Elle ressentait une pression entre la tête et le reste du corps, comme si elle se faisait décapiter.
+
+}
+[sha:9ab1e5af04a1af6be897a91861706a4c3df15f28]{
+-- Page 12, Offset 15333.
+-- 女は泣きながら、鳴き声ひとつあげぬ幼子の―――
+  Tout en pleurant, la femme―――le nourrisson complètement inerte.
+
+}
+[sha:bbea22ed1d07b1cdcef5ef4d570c72b5d8ce9826]{
+-- Page 13, Offset 15334.
+-- 空は高く、森は深く、人は途絶え。
+  Le ciel était vaste, la forêt dense, les lieux déserts.
+
+}
+[sha:58522913abe813432045eff487d265d860e8435c]{
+-- Page 13, Offset 15335.
+-- 駆けつける足音も、助けを求める<意|こ><思|え>もない。
+  Personne n'approchait ou n'appelait à l'aide.
+
+}
+[sha:29031d6e981d37a80e16083524bc946e5c054f81]{
+-- Page 13, Offset 15336.
+-- そんな静けさの中で、無心で空を見上げていたのは、一体、誰だったのだろう―――
+  Qui pouvait bien être la personne absorbée dans l'observation du ciel dans cette quiétude―――
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 14, Offset 15337.
+-- 「………………」
+「..................」
+
+}
+[sha:2ff83b09f9afba8523421b934cbc1e86a36413f9]{
+-- Page 14, Offset 15338.
+-- 気が付くと、有珠は見慣れた坂を上っていた。
+  Lorsqu'elle reprit conscience, Alice montait une pente familière.
+
+}
+[sha:f4476234902b3e07e01c860d229255d924eb7c72]{
+-- Page 14, Offset 15339.
+-- 夜気は冷たく、手足は凍てついたように動かない。
+  L'air était glacial et ses membres frigorifiés ne bougeaient pas.
+
+}
+[sha:213641a9a263a874074f3d750c2b058731d2333f]{
+-- Page 14, Offset 15340.
+-- 当然と言えば当然だが、金狼によって裂かれた腹部は剥きだしで、体はしきりに震えていた。
+  Rien d'étonnant puisque son ventre, lacéré par le loup doré, était dénudé et son corps tremblait vivement.
+
+}
+[sha:8e3b809de7eef67c348b41e1afb488a69a21fbea]{
+-- Page 15, Offset 15341.
+-- 「……静希……君？」
+「...... Shizu...... ki ?」
+
+}
+[sha:e8c71301d87ae1cf580669a1190107f143b65564]{
+-- Page 15, Offset 15342.
+-- 自分がその人物におぶられて白犬塚の坂を登っている事を、有珠はうつろな意識で認めた。
+  Alice constata, malgré sa tête brumeuse, qu'elle montait la pente de Shiroinuzuka sur le dos de cet individu.
+
+}
+[sha:fc77d4ae76b594829e94473131545374fd9de76d]{
+-- Page 16, Offset 15343.
+-- 草十郎は有珠を背中におぶったまま、無言で坂を上っていた。
+  Sōjūrō montait la colline sans un mot, Alice sur son dos.
+
+}
+[sha:f72e201d69e19492296d070bee54fe155e9f683f]{
+-- Page 16, Offset 15344.
+-- 落ち着いた瞳は、寒さのせいか辛そうな色をしている。
+  Ses yeux calmes étaient empreints d'une lueur de souffrance, peut-être à cause du froid.
+
+}
+[sha:e67dc7b04ce1549b67895d537843150ef6e7432b]{
+-- Page 16, Offset 15345.
+-- 見れば、この寒さの中で歩き回る服装ではなかった。
+  À bien y regarder, ses vêtements n'étaient pas faits pour se balader par ce temps.
+
+}
+[sha:666f7b92fd5e9ba123d370fbe58a8f2f3d034bdf]{
+-- Page 16, Offset 15346.
+-- 草十郎は上着も着ておらず、首もとや手の平が哀れなほど冷えきっている。
+  Il ne portait pas de manteau, et son cou et la paume de ses mains étaient si transis par le froid que cela inspirait pitié.
+
+}
+[sha:09942b76eb45d5e0a468028f3f7bead0e35dc094]{
+-- Page 17, Offset 15347.
+-- 「……どうして、ここにいるの……？」
+「...... Pourquoi... es-tu là......?」
+
+}
+[sha:45d7d7607602b3ca48d4421585aa86ec0dc4d5e7]{
+-- Page 17, Offset 15348.
+-- おぶられたまま有珠は問うた。
+  demanda Alice sur son dos.
+
+}
+[sha:9d20928054c4c186e789705852a305dae1356236]{
+-- Page 17, Offset 15349.
+-- 体を起こしたくても力が入らない。
+  Même si elle voulait se relever, elle n'en avait pas la force.
+
+}
+[sha:43b76ef211e8488b0d4ffcb3e7bd5fa7bf68f122]{
+-- Page 17, Offset 15350.
+-- 自分の重さがすべて他人に預けられている事が、今はひどく気にかかる。
+  Le fait que quelqu'un d'autre portait entièrement son poids la gênait énormément.
+
+}
+[sha:b41a764d30ffb42578a11481254fc265e8fd36f2]{
+-- Page 18, Offset 15351.
+-- 「橙子さんから電話があった。有珠が危ないって。
+「Tōko a appelé. Elle m'a dit que tu étais en danger.
+
+}
+[sha:d4811abf7eeb74f9208c11e5ba32db029be83747]{
+-- Page 18, Offset 15352.
+-- ……蒼崎はともかく、有珠は意地を張りすぎだ。あの状況で助けを呼ばないのはどうかしてる。そりゃあ、自分が行っても何もできなかっただろうけど」
+  ...... Aozaki, je n'en parle même pas, mais toi aussi, tu es trop têtue. Tu as été folle de ne pas demander de l'aide dans cette situation. Mais bon, même si j'étais venu, je n'aurais sans doute rien pu faire.」
+
+}
+[sha:15879e08d17490ebf1d1c10529190cdf13b59dcb]{
+-- Page 19, Offset 15353.
+-- 草十郎は前だけを見つめて、叱るように返答した。
+  Sōjūrō répondit sur un ton de réprimande, les yeux fixant l'espace devant lui.
+
+}
+[sha:b3ec16b9594619da71453b61332d4d53745574e0]{
+-- Page 19, Offset 15354.
+-- その叱責は背中の少女に向けたものではなく、力になれなかった自分に対してのものだ。
+  Ce ton ne s'adressait pas à la jeune fille, mais à lui-même, car il avait été incapable de lui venir en aide.
+
+}
+[sha:e01f6e9113af8e169ba48719b79e4d19b7fef8c8]{
+-- Page 20, Offset 15355.
+-- 「…………静希君は、関係ないもの」
+「............ Tu n'as rien à voir avec ça.」
+
+}
+[sha:d4cb0501832b8dab5a70f7706ba14dbd5540e832]{
+-- Page 20, Offset 15356.
+-- 「だろうね。けど、これで関係はできた。館についたら話してもらうぞ」
+「Sûrement. Mais maintenant, ça me concerne aussi. Lorsqu'on arrivera au manoir, tu me raconteras.」
+
+}
+[sha:c1438460a475c9dd8ec29da883bda020fd1cab1a]{
+-- Page 21, Offset 15357.
+-- 草十郎はとにかく坂を登っていく。
+  Quoi qu'il en soit, Sōjūrō montait la pente.
+
+}
+[sha:451ba57599e70480772d91572038402b812c8689]{
+-- Page 21, Offset 15358.
+-- ……考えてみれば、洋館までの坂は段々ときつくなっていく。
+  ...... En y réfléchissant, cette pente s'inclinait au fur et à mesure.
+
+}
+[sha:6b50d6cc5863a9253ba9b9962dae3c8185cb8995]{
+-- Page 21, Offset 15359.
+-- その坂を、自分を背負ったまま登っていく草十郎に、有珠は意外なものを見た気がした。
+  Alice eut le sentiment d'avoir vu quelque chose d'inattendu en ce Sōjūrō qui grimpait la colline en la portant.
+
+}
+[sha:5139908510a401a7273cc425ffb0d973e59b4ac8]{
+-- Page 22, Offset 15360.
+-- 「降りるわ、もう大丈夫だから」
+「Je descends. Ça va mieux maintenant.」
+
+}
+[sha:3ffce98d70d43c4ed86c72ea42d165dc73a35f78]{
+-- Page 22, Offset 15361.
+-- 「お腹をむきだしでかい。このほうが少しは暖かいよ。
+「Avec ton ventre découvert ? Tu auras plus chaud comme ça.
+
+}
+[sha:001d7fbc8b58e113740fac27668009df53187fe5]{
+-- Page 22, Offset 15362.
+-- それに、有珠は薪より軽い。山じゃこの程度は朝飯前だから気にしないでくれ。息があがっているのは公園まで急いだからだし。
+  Et puis, tu es plus légère qu'une bûche. En montagne, ce serait du gâteau, alors ne t'en fais pas. Si je suis essoufflé, c'est parce que je me suis dépêché d'arriver jusqu'au parc.
+
+}
+[sha:23a480627bbb090142d3db33fc3f3a788dfdd264]{
+-- Page 22, Offset 15363. Glued. Mods: @x.
+-- ……まあ、その意味はなかったんだが」
+...... Mais bon, c'était inutile.」
+
+}
+[sha:0305c0fc6fa06226e61a8f241223c4baf4405cfe]{
+-- Page 22, Offset 15364.
+-- 「……なぜ？」
+「...... Pourquoi ?」
+
+}
+[sha:ee7960ef0c52be025d447634405afb3e02d3e5e7]{
+-- Page 23, Offset 15365.
+-- 「俺が着いたら、犬はさっさと散っていった。はじめから、橙子さんはそういうつもりだったんだ。
+「Quand je suis arrivé, les chiens ont pris la poudre d'escampette. C'était l'intention de Tōko depuis le début.
+
+}
+[sha:8109628a92221040390a483049374693d892f224]{
+-- Page 23, Offset 15366.
+-- 有珠をどうにかするつもりもなければ、時間制限もなかった。喜ぶべき事なんだろうけど」
+  Si elle n'avait pas eu l'intention de t'aider d'une quelconque manière, elle n'aurait pas donné de limite de temps. Peut-être qu'on peut s'estimer chanceux, mais bon.」
+
+}
+[sha:ac589b960167b7504422f9b14010e7acf41a334b]{
+-- Page 24, Offset 15367.
+-- 憮然と言う草十郎。
+  dit Sōjūrō découragé.
+
+}
+[sha:5310f50254fcffb41b6b6a8bc299c59b5bc5ba56]{
+-- Page 24, Offset 15368.
+-- けれど、それは彼だけの勘違いだ。
+  Seulement, ce n'était qu'une méprise de sa part.
+
+}
+[sha:f662c8396f0d9638ca6375adf6289300b79f584d]{
+-- Page 24, Offset 15369.
+-- 橙子に殺意はなかったが、結果として有珠が死んでしまう事には何の罪悪感もなかっただろう。
+  Tōko n'avait pas l'intention de tuer Alice, mais si celle-ci mourait quand même, elle n'en aurait sûrement ressenti aucune culpabilité.
+
+}
+[sha:b3a6016fb1cf93c54ad218f98073d7d2b0deb4c8]{
+-- Page 25, Offset 15370.
+-- ……有珠は思う。
+  ...... Alice était sûre d'une chose.
+
+}
+[sha:d8838b95b4d214e06291bbcca30d7d969973d677]{
+-- Page 25, Offset 15371.
+-- この少年がどれほどの速さで公園に着いたかは知らないけれど、彼が来なければ間違いなく電話ボックスは破られて、自分は生きてはいなかったと。
+  Elle ne savait pas combien de temps le jeune homme avait mis pour arriver jusqu'au parc, mais s'il n'était pas venu, la cabine téléphonique aurait sans aucun doute été brisée et elle ne serait déjà plus de ce monde.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 26, Offset 15372.
+-- 「………………」
+「..................」
+
+}
+[sha:ad5c464eff360a40fbee3042f1c1d3a18835069c]{
+-- Page 26, Offset 15373.
+-- 有珠は様々な所感、感情をのど元で押し止める。
+  Alice empêcha toutes sortes d'impressions et de sentiments de sortir de sa bouche.
+
+}
+[sha:a3a0e72627b8e48e4e0304755fcd8328b7c793a9]{
+-- Page 26, Offset 15374.
+-- 言っても仕方のない事だし、草十郎の甘い勘違いを正すのも気が引けたからだ。
+  Rien ne servait de les dire, et elle se sentait réticente à corriger l'erreur naïve de Sōjūrō.
+
+}
+[sha:785d8ddfa783d9cb66068403039f6371d366a197]{
+-- Page 26, Offset 15375.
+-- ……ただ。言いかけた<感謝|ことば>を飲み込むのは、傷を堪える事より辛かっただけ。
+  ...... Seulement, retenir ces mots fut plus pénible que d'endurer sa blessure.
+
+}
+[sha:cffba5eff90a3fc3a89a3558085cb4afd9675987]{
+-- Page 27, Offset 15376.
+-- 「……もしかして、公園からずっと？」
+「...... depuis qu'on a quitté le parc ?」
+
+}
+[sha:14fe0d9666fdaa65ce7a9c7844e2ec1ada523fe3]{
+-- Page 27, Offset 15377.
+-- 「仕方ないだろ。電車、終わってたんだから。タクシーを使えば良かったんだけど、あいにく持ち合わせがなくて。
+「J'y pouvais rien, non ? Il n'y avait plus de trains. J'aurais pu appeler un taxi, mais malheureusement, je n'avais pas d'argent sur moi.
+
+}
+[sha:ba97418d1fb4a09544f659e63eb3271b2685d845]{
+-- Page 27, Offset 15378.
+-- ……ほんと。今日ほどお金の不便さを思い知った日はない」
+  ...... Franchement, je n'ai jamais autant pris conscience des inconvénients de l'argent qu'aujourd'hui.」
+
+}
+[sha:f8a45e15704d987e29c2dde2066dd7dd58cdb34c]{
+-- Page 28, Offset 15379.
+-- 少年はようやくため息らしきものをついた。
+  Le garçon poussa enfin quelque chose ressemblant à un soupir.
+
+}
+[sha:c1df6e449841c5bb8416441d485b6ad6d3459dee]{
+-- Page 28, Offset 15380.
+-- 休み休みとは言え、彼は実に十キロ近い距離をこうして踏破してきた。
+  Même s'il avait fait quelques haltes, il avait déjà parcouru près de dix kilomètres depuis le parc.
+
+}
+[sha:462ab6051845b7f8fb7156a5329a95afe69f1a7e]{
+-- Page 28, Offset 15381.
+-- 疲れきっているだろうに、草十郎はその困難さより、自分の頼りなさに呆れたらしい。
+  Sōjūrō devait être épuisé, et pourtant, il était plus attristé par son manque de confiance en lui que par cette épreuve.
+
+}
+[sha:2938bdb8dccd43600b3546e39a6502d58e9b66c0]{
+-- Page 29, Offset 15382.
+-- 「……でも。それを言うなら、お金の大切さ、じゃない？」
+「... Tu ne devrais pas plutôt dire... que tu as pris conscience... de l'importance de l'argent ?」
+
+}
+[sha:890a7e8c3d627199eb7a546b3778e3f5a697a910]{
+-- Page 29, Offset 15383.
+-- 「使えるものがあるのにお金がないだけで使えないんだから、それって不便って言わないか？」
+「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas simplement parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 29, Offset 15384.
+-- 「――――――」
+「――――――」
+
+}
+[sha:ec7d9b208d783199e615b2079f2f289656bd0228]{
+-- Page 29, Offset 15385.
+-- 純粋な疑問に、有珠は一時、傷の痛みを忘れてしまった。
+  Cette question innocente fit brièvement oublier à Alice la douleur de sa blessure.
+
+}
+[sha:6b4f5e9d06c23d99017ddb5fb7cda3c706a0f80b]{
+-- Page 29, Offset 15386.
+-- 自分も、それなりに文明社会とは縁がないつもりだったけれど。
+  Même si elle était convaincue de ne pas avoir une très bonne affinité avec la société civilisée,
+
+}
+[sha:40d2d73c23b4c9b63a39c9742a8751053461c109]{
+-- Page 29, Offset 15387.
+-- この少年の素朴さに比べれば、ちゃんと文明人らしいのだ。
+  comparée à ce jeune homme et à sa simplicité, elle ressemblait bien à une personne civilisée.
+
+}
+[sha:7c28dd10eb450e3f5d20e1cb65ac105801cd1ea2]{
+-- Page 30, Offset 15388.
+-- 「なにか、貴方らしいわ」
+「Ça te ressemble bien.」
+
+}
+[sha:52a06766b1e6f9ca3aa73986e3bbfb9baf031185]{
+-- Page 30, Offset 15389.
+-- 気付かれない様に小さく笑う。
+  Elle pouffa en silence de façon à ce qu'il ne le remarque pas.
+
+}
+[sha:4555ff52aca7e71a1ed3472a288f56c6c5f6fa88]{
+-- Page 30, Offset 15390.
+-- 有珠が顔をあずけると、こつん、と柔らかいものが頬に当たった。
+  Quand Alice releva le visage, quelque chose de doux toucha sa joue.
+
+}
+[sha:cbf55f44a3183705475639816797a058d1e9d10f]{
+-- Page 30, Offset 15391.
+-- 少年の首に巻かれた、青子からの首輪だった。
+  C'était le collier d'Aoko qu'il portait au cou.
+
+}
+[sha:cfdc35c95e60a72ed4b5e3211ed72bf8d1456f02]{
+-- Page 31, Offset 15392.
+-- 「館についたら着替えるんだ。お腹の血も拭って、落ち着いたら居間で話そう。
+「Quand on sera arrivés au manoir, change-toi. Essuie aussi le sang sur ton ventre, et quand tu te sentiras mieux, parlons dans le salon.
+
+}
+[sha:5d28d8ffb91bfa288acbfaa9bdf353e53eda13a7]{
+-- Page 31, Offset 15393.
+-- 橙子さんに言わせれば、俺もこれで敵らしいから」
+  Après tout, selon Tōko, je suis aussi son ennemi.」
+
+}
+[sha:4c06b0822b05d000b79fe5edd445900d76484604]{
+-- Page 32, Offset 15394.
+-- その言葉を有珠が聞いた時、彼はもう坂を登りきっていた。
+  Lorsqu'Alice entendit ces mots, ils avaient déjà fini de monter la pente.
+
+}
+[sha:8afb67582e33ad44e10ff65657436afbcb8d65fd]{
+-- Page 32, Offset 15395.
+-- 森の入り口にあたる正門。その奥には、月明かりの下に佇む彼女の洋館がある。
+  La porte principale à l'entrée de la forêt. Au fond de cette dernière se trouvait la demeure se dressant immobile sous le clair de lune.
+
+}
+[sha:ba9638180276b8da6b950c8a26c13d164eb819ac]{
+-- Page 32, Offset 15396.
+-- それを見上げて、少女は少しだけ残念に思った。
+  La jeune fille leva les yeux et se sentit un peu déçue.
+
+}
+[sha:dc9f9398d60a01ec24789633b48eeaaece050263]{
+-- Page 32, Offset 15397.
+-- ……もちろん。
+  ...... Bien sûr,
+
+}
+[sha:bfbfd90b8371a29d9ffab36dd5087024729dca98]{
+-- Page 32, Offset 15398.
+-- 何を残念に思ったのかは、気が付く事はなかったけれど。
+  elle ne réalisa pas pourquoi elle l'était.
+
+}

@@ -1,0 +1,390 @@
+[sha:b07b33c31e2bb546cec9ed072986b806a5f2ad11]{
+-- Page 0, Offset 23147.
+-- わたしは、本当にそうだろうか、と思った。
+  Je pensais que ce ne serait peut-être pas le cas.
+
+}
+[sha:1c76a11d0eccc2fee6655f2389c70e24712a560c]{
+-- Page 1, Offset 23148.
+-- 「これでやっと眠れるわ。
+「On peut enfin dormir.
+
+}
+[sha:b10049d927e3bb568d49b53a58f23edb20dfca37]{
+-- Page 1, Offset 23149.
+-- それじゃあみんな、おやすみなさい」
+  Je vous souhaite une bonne nuit !」
+
+}
+[sha:1dabd240479c4e943f53159fd9092d050cd22887]{
+-- Page 1, Offset 23150.
+-- 律架さんは西館の二階に消えていった。
+  Ristuka disparut au premier étage de l'aile ouest.
+
+}
+[sha:095adf2b8f66d9e41c09000c8ee2cdb820129da7]{
+-- Page 2, Offset 23151.
+-- 「……わたしも休ませてもらうわ。
+「... Je vais aussi me coucher.
+
+}
+[sha:3931aabfddb7a4f39043e3b51feddaa86f80076b]{
+-- Page 2, Offset 23152.
+-- 静希君は詠梨神父にあてがっていた部屋を使って。夜があけるまで、静希君の部屋は使えないから」
+  Shizuki, utilise la chambre de père Eiri. La tienne sera inutilisable jusqu'au lever du soleil.」
+
+}
+[sha:3476f4cd59757608f622ec24d2ade356015f38e8]{
+-- Page 2, Offset 23153.
+-- 「あ、そうだった。ありがとう有珠」
+「Ah, c'est vrai. Merci, Alice.」
+
+}
+[sha:63f28ee014ba561d607c1ba15eb1eb8d9fffea69]{
+-- Page 2, Offset 23154.
+-- 久遠寺さんと静希もそれぞれの部屋に戻っていった。
+  Kuonji et Shizuki retournèrent chacun dans leur chambre.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 3, Offset 23155.
+-- 「…………」
+「......」
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 3, Offset 23156.
+-- 「…………」
+「......」
+
+}
+[sha:b27847f6176004c340f93addb1d342f4594efa54]{
+-- Page 3, Offset 23157.
+-- あとはわたしたちだけだ。
+  Il ne restait plus que nous deux.
+
+}
+[sha:0e5ad1a26297185972bacc87c036e8abb4d9ebab]{
+-- Page 3, Offset 23158.
+-- わたしは意を決して槻司の顔を見上げて、
+  Je me décidai et regardai le visage de Tsukiji.
+
+}
+[sha:5af9758742282521662e4ca60fa155bf293ed365]{
+-- Page 4, Offset 23159.
+-- 「久万梨。話、ちょっとだけいいか？」
+「Kumari. Je peux te parler un instant ?」
+
+}
+[sha:0f66b57f8dd91d41adc3c5b379a06a1519aafa43]{
+-- Page 4, Offset 23160.
+-- 「槻司、少しだけ話さない？」
+「Tsukiji, tu ne voudrais pas discuter un peu ?」
+
+}
+[sha:a3dc40561422cf6c858edca0fa8bb53bade3bdce]{
+-- Page 4, Offset 23161.
+-- お互い同じ気持ちであったコトに、ちょっとだけ笑いあったりするのだった。
+  Nous ne pûmes retenir un léger rire en constatant que nous éprouvions la même chose.
+
+}
+[sha:09c39afe9590d95f05a634ef15671690dc2fadec]{
+-- Page 5, Offset 23162.
+-- しかし、改めて考えると、とんでもないコトになった。
+  Mais en y repensant, les choses avaient pris une drôle de tournure.
+
+}
+[sha:1ec48fd87f7488d02b8ac44736ff33607520f7ea]{
+-- Page 6, Offset 23163.
+-- 時刻は草木も眠る丑三つ時。
+  Il était à peu près deux heures du matin, une heure où même la flore dormait.
+
+}
+[sha:411839e6fd91435485a560510153b75d6c4e3773]{
+-- Page 6, Offset 23164.
+-- 締め切った雨戸の外は、この世の終わりのような嵐。
+  Une tempête infernale se déchaînait de l'autre côté des volets fermés.
+
+}
+[sha:3692c00a4003fe815d0e7f474354d0cef785d9f3]{
+-- Page 6, Offset 23165.
+-- 笑ったら死ぬ、なんておかしな世界で、わたしは、三年間それとなく意識していた男子と個室にいるのである。
+  Dans un monde étrange où un simple rire signifiait la mort, je me retrouvais seule dans une chambre avec le garçon que j'aimais en secret depuis trois ans.
+
+}
+[sha:bba81e4e7b4eeff215dbea95e03c3a6d9e86d446]{
+-- Page 7, Offset 23166.
+-- 「お茶を淹れられるな、ここ。久万梨は紅茶でいいか？」
+「On peut se préparer du thé ici. Ça te dit, du thé noir ?」
+
+}
+[sha:6de72eee0d409a793bf2d2abecec885b34e97e42]{
+-- Page 7, Offset 23167.
+-- 「コーヒー。すごく苦いの。砂糖いれないで」
+「Plutôt du café. Très amer. Ne mets pas de sucre.」
+
+}
+[sha:cbb52a54fcd1628c2974cf68f60ec604a8452921]{
+-- Page 7, Offset 23168.
+-- 「そりゃ剛気だ。甘みは必要ねえってか」
+「C'est courageux. T'as pas besoin de douceur, c'est ça ?」
+
+}
+[sha:a396842e1390ac3548296cfc2de02a11a4261fbe]{
+-- Page 7, Offset 23169.
+-- 槻司の悪態は、嫌味のようでいて、そうでない。
+  Les moqueries de Tsukiji semblaient être des sarcasmes, mais ce n'était pas le cas.
+
+}
+[sha:a42f4f124bd00099d257d073bb40211397211ee6]{
+-- Page 8, Offset 23170.
+-- 「話って、人物Ａのコト？」
+「Tu veux parler de l'individu A ?」
+
+}
+[sha:e00c2ebadf98c43c47489c675a3c8d0db93653bf]{
+-- Page 8, Offset 23171.
+-- 「おう。まだ解決とは言えないからな。久万梨だって蒼崎が１００パーセント<星|ほし>だと思ってねえだろ？」
+「Ouais. Après tout, on ne peut pas dire que l'affaire est vraiment résolue. Même toi, tu n'es pas sûre à 100% qu'Aozaki est le coupable, pas vrai ?」
+
+}
+[sha:58a57b25e65b8da8ca594d2587741036d60511d2]{
+-- Page 8, Offset 23172.
+-- コーヒーカップを受け取って、口をつけながら頷く。
+  Je pris la tasse de café et acquiesçai tout en buvant une gorgée.
+
+}
+[sha:21f9a28afa4f8234cb117d6cac333ac52967dbae]{
+-- Page 8, Offset 23173.
+-- ま、そりゃそうよね。
+  Bah, je ne pouvais pas m'attendre à plus.
+
+}
+[sha:64598f127c64175d7050a882d4e768d45e55f1c2]{
+-- Page 8, Offset 23174.
+-- こういう話よね、わたしたち。
+  C'était le genre de relation qui nous liait.
+
+}
+[sha:9ea22b9ee03f306508a705d262c247aa1d7fbfe2]{
+-- Page 9, Offset 23175.
+-- 「蒼崎が該当するのは確かだけど。それを言うなら律架さんも静希もだしね。
+「Aozaki remplit certes toutes les conditions, mais c'est aussi le cas pour Ritsuka et Shizuki.
+
+}
+[sha:bb5b40398832f6de28a9adba862adc0a9c8074f2]{
+-- Page 9, Offset 23176.
+-- 信頼できるのは久遠寺さんと、事件が起きてからずっと一緒にいたわたしたちぐらいじゃない？」
+  Les personnes en qui on peut avoir confiance se limitent à Kuonji et à nous deux, vu qu'on est restés tout le temps ensemble depuis que l'incident a commencé, non ?」
+
+}
+[sha:0b9f64dca1b43d9db2df4b0af19af4e5e1b65a8e]{
+-- Page 9, Offset 23177.
+-- 「ん？　久遠寺は信用できねえだろ。
+「Hum ? On ne peut pas avoir confiance en Kuonji non plus.
+
+}
+[sha:0d4e64d96723875c03bd5da4118f430fe09fee49]{
+-- Page 9, Offset 23178.
+-- アイツ、基本的にプロイとやらの味方じゃねえか」
+  À la base, elle est l'alliée de ces Ploy machin, pas vrai ?」
+
+}
+[sha:a6b7b0f3e69e728136d13e73c22b2d0a6c52988a]{
+-- Page 10, Offset 23179.
+-- 「そうなの？　たしかにずっと中立っぽい態度だったけど、根拠は？」
+「Vraiment ? C'est vrai que son attitude est restée neutre tout au long de la soirée, mais tu te bases sur quoi exactement ?」
+
+}
+[sha:ca2fb1ed8df70815844f16d91f3e3973d2391128]{
+-- Page 10, Offset 23180. Mods: @k, @e.
+-- 「犯人捜しをする気がないっていうのと……そうだな、
+「Le fait qu'elle n'a pas envie de rechercher le criminel et... Eh bien,
+
+}
+[sha:b7bdf324a95ba86b1f2c5aad2f3a60f388aa584a]{
+-- Page 10, Offset 23181. Glued. Mods: @x.
+-- 勘で申し訳ないんだが、人物Ａとやらに肩入れしている気がする」
+désolé de dire ça en me fiant à mon instinct, mais j'ai l'impression qu'elle est du côté de l'individu A.」
+
+}
+[sha:ea50c3e07220c4eea4948049a10113399f32ae76]{
+-- Page 11, Offset 23182.
+-- 「そりゃそうでしょ、プロイって久遠寺さんの持ち物なんだし、もう人物Ａはプロイが化けてるんだし。だから中立だったんじゃない？」
+「C'est évident. Les Ploy appartiennent à Kuonji et celui-là prend l'apparence de l'individu A. C'est pour ça qu'elle n'est pas intervenue dans cette histoire, non ?」
+
+}
+[sha:d6f5320d639ac44ae5ca2abe46a4e149c36a3d99]{
+-- Page 12, Offset 23183.
+-- 「いや、そっちじゃない。いま動いているプロイにじゃなくて、使ったヤツに対してだよ。
+「Non, ce n'est pas ce que je veux dire. Elle ne soutient pas le Ploy qui agit maintenant en lui-même, mais celui qui l'a utilisé.
+
+}
+[sha:618390b6d948bad6aa5971bafe3f46e956ac9b5c]{
+-- Page 12, Offset 23184.
+-- だってアイツ、怒ってなかっただろ。自分の持ち物が勝手に使われたっていうのに」
+  T'as bien vu qu'elle n'était pas en colère, non ? Pourtant, quelqu'un a utilisé ce qui lui appartient sans sa permission.」
+
+}
+[sha:87b67f22012053703b8ee267da475e116bb3d035]{
+-- Page 12, Offset 23185.
+-- 「あ」
+「Ah.」
+
+}
+[sha:7324354be0e31126c9ac6c493bc651c9690de307]{
+-- Page 13, Offset 23186.
+-- なるほど、と納得した。
+  “Je vois”, consentis-je.
+
+}
+[sha:e689cba277ad0bcbc75362b1221dff554de10869]{
+-- Page 13, Offset 23187.
+-- じゃあ、久遠寺さんは犯人を知っていたのだろうか？
+  Cela voulait-il dire que Kuonji savait qui était le coupable ?
+
+}
+[sha:3997eb4ebff9e330119fb3ce18b509291da348a4]{
+-- Page 14, Offset 23188.
+-- 「知らないとは思うぜ。だが、あえて口にしていない事はあるだろうな。
+「Je ne pense pas qu'elle le sache. Mais il y a sans doute quelque chose qu'elle nous cache volontairement.
+
+}
+[sha:1d7a993cabb0ddd5e80a0498e05afd3b9008e542]{
+-- Page 14, Offset 23189.
+-- たとえばスイーツハーツとやらの詳しい特徴だ。リデルの口ぶりからすると、使う人間にはある種の特徴がありそうだった」
+  Par exemple, les caractéristiques détaillées de ce Sweets Hearts. La façon dont Riddell a présenté la chose laissait entendre que l'humain qui l'utilise possède une certaine particularité.」
+
+}
+[sha:26acc182522b4e58b11940441aab162c87bfcae6]{
+-- Page 15, Offset 23190.
+-- 「スイーツハーツは誰にでも使えるもんじゃねえと思う。
+「À mon avis, Sweets Hearts ne peut pas être utilisé par n'importe qui.
+
+}
+[sha:799d999e0b6656c7d1a9b87c8f7772896dfafcd5]{
+-- Page 15, Offset 23191.
+-- ほら、妖刀とか名刀とかで、持ち物が持ち主を選ぶって言うじゃねえか。あんな感じでな」
+  C'est comme pour les sabres démoniaques et autres épées célèbres, ces objets qui sont censés choisir leur maître. Ce Ploy doit être de ce genre-là.」
+
+}
+[sha:a9f1d694296265840f63f3beba63229ca7078afb]{
+-- Page 16, Offset 23192.
+-- ……持ち物が使用者を選ぶ……？
+  ... L'objet aurait choisi l'utilisateur...?
+
+}
+[sha:db37f79c2cb1089ceca276fd7451f644fb37e152]{
+-- Page 16, Offset 23193.
+-- では、その条件とやらが久遠寺さん的には応援―――いや、共感できるものだったとか？
+  Alors, cette condition était peut-être quelque chose que Kuonji approuvait―――ou plutôt, quelque chose avec quoi elle pouvait compatir ?
+
+}
+[sha:1ee6ffad69438a947e9e04b601b660fdaef51dc7]{
+-- Page 17, Offset 23194.
+-- 「しっかし。今さらだけどな、久万梨、俺とコンビで良かったのか？」
+「Par contre Kumari, j'aurais dû te le demander plus tôt, mais ça ne te dérange pas de faire équipe avec moi ?」
+
+}
+[sha:61098bbab55d117b2f3e266d2ad550ea1915b528]{
+-- Page 17, Offset 23195.
+-- 突然の、とんでもない質問。
+  Tobimaru posa une question soudaine et inattendue.
+
+}
+[sha:4c7275fb06a4622d09656a2624472e866996e599]{
+-- Page 17, Offset 23196.
+-- わたしは努めてクールに返答した。
+  Je fis des efforts pour répondre calmement.
+
+}
+[sha:1e0c87e0891ed268bc44f8a220d95f34ea7dc7f6]{
+-- Page 18, Offset 23197.
+-- 「それはいい。わたし、槻司のこと信頼してるし」
+「C'est pas un problème. Je te fais confiance.」
+
+}
+[sha:d6ca651e84eb328f933644dab7781c8c586b98a1]{
+-- Page 18, Offset 23198. Mods: @k, @e.
+-- 「いやあ、この場合まずいだろ、それ。
+「Mais dans notre cas, c'est précisément un problème.
+
+}
+[sha:c3d93c78d964e45e49dbf4a57a7d282b63497e56]{
+-- Page 18, Offset 23199. Glued. Mods: @x.
+-- 今夜にかぎっちゃ信頼している奴ほど危ねえじゃねえか」
+Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
+
+}
+[sha:edc508e8397ab1212ae74a4db0f0ba64556d88f1]{
+-- Page 18, Offset 23200.
+-- 「……そうね。疑ってかかるぐらいがちょうどいい」
+「... C'est vrai. Il vaut mieux garder un œil sur eux aussi.」
+
+}
+[sha:a0a8bc9980590d4ddb8984d539c04f0f4c02665e]{
+-- Page 19, Offset 23201.
+-- 「そういうコト。この事件で一番信用しちゃあならねえのは自分だ。だから常に、客観的に監視している相棒がいないと無実が証明できない。
+「T'as tout compris. Dans cette affaire, celui en qui tu dois avoir le moins confiance, c'est toi-même. Si tu n'as pas un partenaire qui t'observe constamment avec objectivité, tu ne peux pas prouver ton innocence.
+
+}
+[sha:2d053ee5d05c9a7839f44c9d02402c5d45a3c228]{
+-- Page 19, Offset 23202.
+-- リデルのヤツが二人一組で行動しようって言いだしたのは、そのあたりも含めてだろうよ。二心同体、スイーツハーツとは良く言ったもんだ」
+  C'est sûrement l'une des raisons pour lesquelles Riddell a dit que l'on devait agir par groupe de deux. Deux esprits dans un corps, Sweets Hearts, c'est plutôt bien tourné.」
+
+}
+[sha:e3289c4ffe39a9d445b1ff6a213bebeb2da062dd]{
+-- Page 20, Offset 23203.
+-- リデルの話はともかくとして。
+  En laissant de côté Riddell...
+
+}
+[sha:6e38f08e3c424d3b6990336c007daa27ed3ace49]{
+-- Page 20, Offset 23204.
+-- 「じゃあ槻司は、誰が一番怪しいと思ってる？」
+「Alors selon toi, qui paraît le plus suspect ?」
+
+}
+[sha:beeb661adb232f7bdc90c65844802bde6c9074c7]{
+-- Page 21, Offset 23205.
+-- 「全員平等だぜ。怪しいってんなら、俺はまだ土桔の爺さんの死体が本物かどうかさえ保留してるしな。
+「Tout le monde l'est. Et puisqu'on parle de choses suspectes, j'ai encore des doutes sur la véritable identité du cadavre du vieux Tokitsu.
+
+}
+[sha:7920fea1507262da581a30dce1703cbb95165084]{
+-- Page 21, Offset 23206.
+-- 蒼崎が自分の部屋を隠していた事も、ありゃ真犯人にうまく<嵌|は>められたんじゃないかって思ってる。一番の強敵を、真っ先に封じにきた結果かもしれん」
+  Je pense aussi qu'Aozaki s'est fait piéger par le vrai coupable lorsqu'elle a voulu cacher ce qu'il s'est passé dans sa chambre. Le plan du coupable consistait peut-être à neutraliser dès le début son plus redoutable adversaire.」
+
+}
+[sha:2eb57935cf3fab23bfca6b38101cd17ff10d2132]{
+-- Page 22, Offset 23207.
+-- 「蒼崎が嵌められた？」
+「Aozaki s'est fait piéger ?」
+
+}
+[sha:da8034e8aa6a108f94b7f4ea2aa1885af692a9eb]{
+-- Page 22, Offset 23208.
+-- 「ああ。事実上、あの行動力の固まりみたいな女が、自分の部屋を隠す事で手一杯だっただろ。
+「Ouais. Après tout, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
+
+}
+[sha:141b5a3bdac26981da93e54cf8b7d09c5d0f9672]{
+-- Page 22, Offset 23209. Mods: @k, @e.
+-- それに妙なコト言ってたじゃねえか。蒼崎の姉貴がいつああなったか、
+  Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état,
+
+}
+[sha:da77409cf855c67caa7d3a48bc4bda10936ab1d9]{
+-- Page 22, Offset 23210. Glued. Mods: @x.
+-- 久万梨はどう思う？」
+tu te rappelles ?」
+
+}
+[sha:260a288bd6e6017828f3bc51899a74ceb9e2b03b]{
+-- Page 23, Offset 23211.
+-- ……わたしは、
+  ... Je...
+
+}

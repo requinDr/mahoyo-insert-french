@@ -1,0 +1,276 @@
+[sha:78ce0e24e32981d6eb4aab4d0bd60ca56496e9b9]{
+-- Page 1, Offset 21832.
+-- 「さむっ。ここ、外より寒くない？」
+「Ça caille ! Il ne fait pas encore plus froid qu'à l'extérieur ?」
+
+}
+[sha:d1a22155769014642a16297aa54f4578860a3630]{
+-- Page 1, Offset 21833.
+-- 「ですね。居間に移動しましょう」
+「Si. Allons donc dans le salon.」
+
+}
+[sha:4a0c26d8de44088e7f536537dece10cbf9370a92]{
+-- Page 1, Offset 21834.
+-- 「賛成だけど…
+「Je suis d'accord, mais...
+
+}
+[sha:add1a6ba48b9eb952f5ef90fbd756fff288720e2]{
+-- Page 1, Offset 21835. Glued. Mods: @x.
+-- …ま、草十郎さんには草十郎さんの仕事があるんでしょうしね。待っててあげようと思ったけど、余計な気遣いかも」
+Bah, j'imagine que Sōjūrō a son propre labeur à finir. Je pensais l'attendre, mais c'est peut-être une attention inutile.」
+
+}
+[sha:7b462a00f44334fcf93111fe19b266e0216872bd]{
+-- Page 2, Offset 21836.
+-- 「？　静希、外にいたんですか？」
+「? Shizuki est dehors ?」
+
+}
+[sha:4ff7987762a7b5c3ca6bf9900df16faf49ca764d]{
+-- Page 2, Offset 21837.
+-- 「ええ。山道の方で草を刈っていたわ。すごい勢いで、ヘリポートでも造るかっていうぐらい」
+「Oui. Il arrachait des mauvaises herbes du côté du sentier. Il faisait ça avec tellement d'entrain qu'on aurait cru qu'il construisait un héliport.」
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 3, Offset 21838.
+-- 「…………」
+「............」
+
+}
+[sha:ce55022ec15772b82be089c663565eac7429c6d0]{
+-- Page 3, Offset 21839.
+-- 相変わらず、謎の行動力である。
+  Comme d'habitude, il faisait preuve d'un dynamisme mystérieux.
+
+}
+[sha:e44128dd13a1fe282a26fc710600902cf8d16230]{
+-- Page 3, Offset 21840.
+-- 静希の奇行を追及しても疲れるだけだ。
+  Tenter de comprendre son étrange comportement ne ferait que nous fatiguer.
+
+}
+[sha:8799ddea776b21efa9a3a85e48c9321cb481d4e2]{
+-- Page 3, Offset 21841.
+-- わたしたちは暖を求めて居間に移動した。
+  En quête de chaleur, nous nous rendîmes dans le salon.
+
+}
+[sha:15f36582b31e0c5c1e4a78953db1d55039a397ab]{
+-- Page 4, Offset 21842.
+-- 降り出した雨は、一向に止む気配を見せない。
+  Une fois lancée, la pluie ne montra aucun signe d'interruption.
+
+}
+[sha:c59c088e45953c07725564cfb543c00946abee21]{
+-- Page 4, Offset 21843.
+-- むしろ勢いは増すばかりで、日没前だというのに外は夜並みの暗さになっていた。
+  Bien au contraire, son intensité augmenta et il faisait déjà nuit noire alors que le soleil n'était pas encore couché.
+
+}
+[sha:04c94ee0f65b1cfc6cf625d9cde81c22af93915d]{
+-- Page 5, Offset 21844.
+-- パーティーはまだ始まらない。
+  La fête n'avait pas encore commencé.
+
+}
+[sha:5dafe20ebc94c460f2439b01def72ccc322530d5]{
+-- Page 5, Offset 21845.
+-- 居間とサンルームを見渡すと、
+  En jetant un coup d'œil au salon et à la véranda,
+
+}
+[sha:461c42c928ec9a8d056259df331eb0e5b03a7894]{
+-- Page 5, Offset 21846.
+-- これだけの人数が談話にふけっていた。
+  on réalisait qu'un nombre non négligeable de personnes étaient absorbées dans leurs conversations.
+
+}
+[sha:444632ef3b491ddc96fc98673b3f27d0c997d8c5]{
+-- Page 5, Offset 21847.
+-- 居間では芳助が持ちこんできたカードゲームが思いの外盛り上がっている。
+  Dans le salon, le jeu de cartes d'Hōsuke agitait la foule bien plus que prévu.
+
+}
+[sha:c14c406eed732ec4acf5c8eaf0975557b9120078]{
+-- Page 5, Offset 21848.
+-- おもに、いがみ合う方向で。
+  Il prenait même la tournure d'une querelle.
+
+}
+[sha:e75bcc5e707db62733401f22e87db42b9510ad88]{
+-- Page 6, Offset 21849.
+-- なんでも『<傀儡|かいらい>さんが<徹|トゥー>る』という、ドイツ製の、ファンタジー版ゼネコンシミュレーションゲームなのだそうだ。
+  Apparemment, c'était un jeu de simulation d'entrepreneur version fantaisie, créé en Allemagne, du nom de “M. Fantôche passe”.
+
+}
+[sha:4761d3e1d0da140af858ed66bfc4b3dd63e81359]{
+-- Page 6, Offset 21850.
+-- 基本、いかに相手の足を引っ張るかというゲームなので、みな愛想笑いをしながら内心ではまったく笑えず、騙し討ちの機会を狙っている。
+  Le but était de mettre des bâtons dans les roues de ses adversaires. Aussi, ils affichaient tous un sourire flatteur, alors qu'en leur for intérieur, ils ne souriaient nullement et guettaient la moindre occasion d'attaquer par surprise.
+
+}
+[sha:60dd91bea0082663f3d72798fc4620e07a0c1ba2]{
+-- Page 6, Offset 21851.
+-- 一方、サンルームの大人組はワインなどを片手に、そんな学生たちの様子を眺めている。
+  De son côté, le groupe des adultes observait les lycéens depuis la véranda, un verre de vin à la main.
+
+}
+[sha:17149ef6825b5366dd9057958184577891145d6a]{
+-- Page 7, Offset 21852.
+-- 「驚きましたね。誕生会が始まるまで、館内は自由に歩いていい決まりだとは。有珠さん、どんな心境の変化ですか？」
+「C'est surprenant. Je ne pensais pas que nous serions autorisés à nous promener librement dans le bâtiment jusqu'au début de la fête. Que nous vaut ce changement d'attitude, Alice ?」
+
+}
+[sha:89134dc1bc2dd57ccde9e2d4fbbe4ff415188410]{
+-- Page 7, Offset 21853.
+-- 「……別に。入られたら困るところは、そもそも壁に変えたから。今日だけの変更だけど、それなら遭難者もでないでしょう」
+「...... Il n'y a rien de tel. D'ailleurs, les portes des pièces où il est dangereux d'entrer ont été changées en mur. J'ai dû prendre cette mesure spécialement pour aujourd'hui, mais de cette façon, nous n'aurons pas à déplorer de victimes.」
+
+}
+[sha:b7f186d1c4228a84fc00fdb4b59c1efaab5bca4c]{
+-- Page 8, Offset 21854.
+-- 「？　壁に変えたってなにをー？
+「? Changées en mur ? Comment ça ?
+
+}
+[sha:42845d1353b53b756201fbc385bc6977f467f999]{
+-- Page 8, Offset 21855. Glued. Mods: @x.
+-- それに遭難者とか、有珠ちゃんったら大げさなんだから～。そりゃでけえ屋敷だけど、迷子になんかなりませんよ？」
+Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un grand manoir, mais personne n'est assez bête pour s'y perdre, tu sais ?」
+
+}
+[sha:cd6634febffa9d82d0df1ba8c41c6031171f08fc]{
+-- Page 9, Offset 21856.
+-- 「私たちの客室も用意してくれたのね。夜になったら帰る予定だけど、心遣いは助かっちゃうな～♪
+「Tu as même eu la gentillesse de nous préparer des chambres d'ami. On avait prévu de rentrer quand il ferait nuit, mais ta sollicitude nous va droit au cœur~♪
+
+}
+[sha:faa57ddc1835244a4c298440092b0aff6bd3b19c]{
+-- Page 9, Offset 21857.
+-- 唯ちゃん、せっかくだし服、着替えてこない？
+  Yui, puisqu'on y est, tu ne veux pas te changer ?
+
+}
+[sha:e5fa2a9671368209b25c7729aadc12e0b2557aee]{
+-- Page 9, Offset 21858.
+-- お姉さんのチャイナドレスとか貸してあげるから。さすがにパーティー会場にシスターはどうかと思うし」
+  Je veux bien te prêter ma robe chinoise. En plus, une tenue ecclésiastique fait un peu bizarre dans un lieu de fête.」
+
+}
+[sha:80160f696f6c8e0b75d31486873a22c783be9a9b]{
+-- Page 10, Offset 21859.
+-- 「結構です。魔女の家で礼装を脱ぐなど自殺行為。私は貴女のように、遊びに来ている訳ではありませんので」
+「Non, merci ! Retirer sa tenue de cérémonie dans l'antre d'une sorcière est un acte suicidaire ! Je ne suis pas venue m'amuser comme toi !」
+
+}
+[sha:73cb3208475dab1a5c1d663eb39ff4d69fe7a33e]{
+-- Page 11, Offset 21860.
+-- 「いや、遊びに来てるんですけどねぇ。私ですら手ぶらで来ているのに、シスター唯架ときたら……。
+「Mais si, nous sommes là pour passer du bon temps. Même moi, je suis venu les mains vides, mais sœur Yuika, elle......
+
+}
+[sha:7d07d63269bb78d44b1dd849e26dd9ea312ca734]{
+-- Page 11, Offset 21861.
+-- どうしてこう、いつでも臨戦状態、よらば切る出刃包丁みたいな性格になったんだか」
+  Pourquoi avez-vous acquis ce caractère aiguisé comme un couteau, toujours sur le qui-vive ?」
+
+}
+[sha:66ef42d236b71dc27398314b4323819cb9d4d1ce]{
+-- Page 11, Offset 21862.
+-- 「貴方たち二人が不真面目な分、私が引き締めなくてはいけないだけですっ」
+「Je suis contrainte de l'être pour pallier votre manque de sérieux !」
+
+}
+[sha:e45f433754e4404f8c6c66425fd971a9bfcb0186]{
+-- Page 12, Offset 21863.
+-- 時刻は六時になった。
+  L'aiguille de l'horloge pointa vers les six heures.
+
+}
+[sha:1d506cc29ba73898d03f78f7dbea42f2b0a0f320]{
+-- Page 12, Offset 21864.
+-- 外はもう完全に夜。
+  La nuit était tombée à l'extérieur.
+
+}
+[sha:3564369c040c7f63255d7758c91d98c02f4afe30]{
+-- Page 12, Offset 21865.
+-- 山城先生や教会組がいるから、帰りの夜道は安全だろうけど、それでもこの雨脚には不安をあおられる。
+  Avec monsieur Yamashiro et le groupe de l'église, le chemin du retour devrait être sûr, même en pleine nuit, mais en dépit de cela, la pluie battante intensifiait mon anxiété.
+
+}
+[sha:6b85eeda6e22576409c705713fc68bc2d0c08bfb]{
+-- Page 13, Offset 21866.
+-- 「……そろそろ支度をするべきではないかしら。
+「...... Il serait temps d'entamer les derniers préparatifs.
+
+}
+[sha:01e01036fbbdad55e9190788acd5ef33ecbef56d]{
+-- Page 13, Offset 21867.
+-- トッキィーはどこに？」
+  Où est Tokki ?」
+
+}
+[sha:46a2cfc4fc7534d331bb3fde4cb29ca06eb635d2]{
+-- Page 13, Offset 21868.
+-- 何度目かのカードゲームを終えて、ふと、久遠寺さんが妙なコトを口にした。
+  À la fin d'une énième partie, Kuonji tint des propos étranges.
+
+}
+[sha:1675249bf276f1ee97c322aa79e081040112c22d]{
+-- Page 14, Offset 21869.
+-- 「トッキィー？　トッキィーって、誰？」
+「Tokki ? C'est qui Tokki ?」
+
+}
+[sha:cec6648fa9294d7e033259b5c139568c26853213]{
+-- Page 14, Offset 21870.
+-- 「誰って、土桔の爺さんだろ。あれ……？
+「Ben, c'est le vieux Tokitsu. Tiens......?
+
+}
+[sha:dc59455c14d102864c233add9e469fc40d6691a6]{
+-- Page 14, Offset 21871.
+-- もしかして金鹿、爺さんに挨拶してねえの？」
+  Kojika, t'as pas salué le vieux ?」
+
+}
+[sha:e1c16e93166cffcc7fec7e931be1278294e7c32f]{
+-- Page 14, Offset 21872.
+-- 「知らない。まだこの家に人がいるの？　……いまさらだけど、全部で何人の予定なの、このパーティー」
+「Je ne savais pas qu'il était là. Il y a encore d'autres gens dans cette maison......? Je demande ça un peu tard, mais combien de personnes sont prévues à cette fête ?」
+
+}
+[sha:f3e987fb2af482300a6e3d81b2f37f37b8d99eae]{
+-- Page 15, Offset 21873.
+-- 「わたし、青子、静希君、槻司君、木乃美君、久万梨さん、トッキィー、その他、で合計十三人。
+「Si on compte Aoko, Shizuki, Tsukiji, Kinomi, Tokki, toi, moi et les autres, cela fait au total treize personnes.
+
+}
+[sha:8eb27214565ff3329d4f23fffd8f361203c8d072]{
+-- Page 15, Offset 21874.
+-- さっきから一堂には揃わないみたいだけど」
+  Néanmoins, nous n'avons pas encore été une seule fois tous ensemble dans la même pièce.」
+
+}
+[sha:cdc7372ea0d3d01e4b3fbdeb048ff56031da9721]{
+-- Page 15, Offset 21875.
+-- 「十三人か」
+「Treize, hein?」
+
+}
+[sha:960eb7b01a7ef2d881920a0308156788c7f0e203]{
+-- Page 15, Offset 21876.
+-- ひと、ふた、みー、と数えてみる。
+  Un, deux, trois, me mis-je à compter.
+
+}
+[sha:491d59b55613b884767834f6d339e6ddbcf1e1bb]{
+-- Page 15, Offset 21877.
+-- 今までの情報から数えてみると……
+  D'après les informations réunies jusqu'à présent......
+
+}

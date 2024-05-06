@@ -1,0 +1,954 @@
+[sha:32b09480ee39ac54c1c2b263419d9fb9eb99d880]{
+-- Page 0, Offset 2118.
+-- “都会は魔界だ。
+“La ville est un enfer.
+
+}
+[sha:f197fc47a2705123f11f1e4dfa861288ec5551cc]{
+-- Page 0, Offset 2119.
+-- けど、慣れればわりと住みやすいとは思う”
+  Mais une fois qu'on y est habitué, je pense qu'il est relativement facile d'y vivre.”
+
+}
+[sha:44018eb169cbb5e128f4ecf7a0f3440b7cb6232e]{
+-- Page 1, Offset 2120.
+-- はあ、と力のないため息がこぼれる。
+  Il soupira faiblement.
+
+}
+[sha:5b81f616cf1e978eb60459d6fb26c6796c116ee4]{
+-- Page 1, Offset 2121.
+-- 静希草十郎は冬の校庭を見下ろしながら、柄にもなく物思いに<耽|ふけ>っていた。
+  Même s'il promenait son regard sur le campus, Shizuki Sōjūrō était en fait, chose inhabituelle, plongé dans ses réflexions.
+
+}
+[sha:94abbee45f140adae9689672e46f6607600d671e]{
+-- Page 2, Offset 2122.
+-- 黒板の隅には１２月の日付。
+  La date dans le coin du tableau indiquait le mois de décembre.
+
+}
+[sha:dcb0fa9b9826bb6d2f5b0981cdb5fc353305a973]{
+-- Page 2, Offset 2123.
+-- 早いもので、草十郎が転入してからすでに十日。
+  Le temps était vite passé ; dix jours s'étaient déjà écoulés depuis son transfert.
+
+}
+[sha:58190bbcb76ad8826ba56087b2421d9b14a7637f]{
+-- Page 2, Offset 2124.
+-- 暦が１２月に移り、辛うじて残っていた秋の面影は見る影もない。
+  Le calendrier avait basculé sur le mois de décembre et les dernières traces de l'automne s'en étaient complètement allées.
+
+}
+[sha:50a0b745dae69874b65c1468a0f2f10babbf3610]{
+-- Page 2, Offset 2125.
+-- 校庭の木々はそのほとんどが裸になり、舞い散った落ち葉が地面を覆い隠している。
+  La plupart des arbres du campus étaient nus et un manteau de feuilles mortes éparpillées recouvrait le sol.
+
+}
+[sha:0b78b7d5f8105e9bb187988fc1b161179a78ae9a]{
+-- Page 3, Offset 2126.
+-- 古典の時間。
+  C'était l'heure de la littérature classique.
+
+}
+[sha:0651508daca6a19ae4e20f62466cbf7c50a9d325]{
+-- Page 3, Offset 2127.
+-- 教壇からは老教師による見解が淡々と流れてくる。
+  Depuis son estrade, le vieux professeur partageait ses opinions de manière désintéressée.
+
+}
+[sha:bff58743152e8a280a5f2af2b172faff1c3456d2]{
+-- Page 3, Offset 2128.
+-- ようやく馴れてきた教室と、まだまだ追いつけない授業の四時限目。
+  La classe à laquelle il s'était enfin accoutumé, et le cours de la 4e période qu'il n'avait pas encore rattrapé.
+
+}
+[sha:5b38ad3518c99ac27d2d33f2d6fac2a689e13923]{
+-- Page 3, Offset 2129.
+-- 基礎が出来てない草十郎にとって、日々の授業は真剣勝負だ。
+  Pour Sōjūrō qui ne possédait pas les notions de base, les cours quotidiens étaient de sérieux défis.
+
+}
+[sha:3c0c6403b0d0cdd870cf0c8904e1fbd5da57f57a]{
+-- Page 3, Offset 2130.
+-- 今は内容を正しく飲みこめなくともきっかり暗記し、後々に生かせるよう心がけている。
+  Pour le moment, même s'il ne digérait pas parfaitement le contenu du cours, il s'efforçait de le mémoriser précisément afin de pouvoir en tirer parti à l'avenir.
+
+}
+[sha:393b2a2f29ca805ce58f46a6e3971f103f54ad27]{
+-- Page 4, Offset 2131.
+-- なので雑念などもってのほか。
+  De ce fait, les pensées vagabondes étaient inadmissibles.
+
+}
+[sha:c85f73e5c1d8f3768f3bbb8eb8a1575612107308]{
+-- Page 4, Offset 2132.
+-- よそ見をしている暇はない、と厳しく自分に言いつけているのだが、
+  Il se répétait qu'il n'avait pas le temps de regarder ailleurs, mais malheureusement,
+
+}
+[sha:cbec7d5e8e12e7fb7ec83f1bca42c236e11743d1]{
+-- Page 4, Offset 2133.
+-- 「………………はあ」
+「.................. Aaah.」
+
+}
+[sha:f08fda44da5340bab632304a8351f77ca6ff9c37]{
+-- Page 4, Offset 2134.
+-- 困ったコトに、今日はどうしても授業に集中できなかった。
+  aujourd'hui, il n'arrivait pas du tout à se concentrer sur le cours.
+
+}
+[sha:2be3535b72437d9c92e18440a6e6ddd9b605be6d]{
+-- Page 5, Offset 2135.
+-- 集中力の不足はどこからきたものか。
+  D'où venait ce manque de concentration ?
+
+}
+[sha:1141bc1d6b8eb0252f6be10bf935f4ef9dcfa292]{
+-- Page 5, Offset 2136.
+-- 都市の冬は山に比べれば格段に住みやすいし、毎日のアルバイトだってそう<過酷|ハード>ではない。
+  Comparé à celui de la montagne, l'hiver de la ville était bien plus facile à supporter, et ses petits boulots quotidiens n'étaient pas si éreintants que ça non plus.
+
+}
+[sha:c31375d44da3350d9f5d22a57fc751a92ebc8790]{
+-- Page 5, Offset 2137.
+-- 肉体的な疲れは、まあ、人並みだろうから理由にはあげられない。
+  Sa fatigue corporelle était normale, ça ne pouvait donc pas en être la raison.
+
+}
+[sha:5ae49cb8377e90e5ae2912c7ab4dd3dc6c7a9c0d]{
+-- Page 6, Offset 2138.
+-- では授業そのものが退屈だから、と言われるとそれも違う。
+  Ce n'était pas non plus que le cours en lui-même était ennuyeux.
+
+}
+[sha:7e35b93ddd816c2b4522558cf43955a95f75eccf]{
+-- Page 6, Offset 2139.
+-- 草十郎はクラスメイトたちが言うほど授業をつまらないものだと感じていない。
+  Sōjūrō ne pensait pas que ce cours était aussi rébarbatif que le prétendaient ses camarades de classe.
+
+}
+[sha:7b5b8684c48e7ba6bd8fbfa30f97dd8d9baf062b]{
+-- Page 6, Offset 2140.
+-- 良いか悪いかで言えば、間違いなく良い部類に入る時間だ。
+  S'il fallait le classer quelque part, cet instant entrait sans aucun doute dans la catégorie des bons moments.
+
+}
+[sha:a9f6a0409ccf4952d7a34fe36cf5f720668f6a34]{
+-- Page 7, Offset 2141.
+-- なので精神的な面でも理由は見あたらない。
+  Ainsi, il ne trouvait pas non plus de raison d'ordre mental.
+
+}
+[sha:4ebc01036416dcc8070ed37b5f5659b6d5140037]{
+-- Page 7, Offset 2142.
+-- ここまで集中力が散漫になるのはどうかと思う、と草十郎は我が身の情けなさに落ちこんでいる。
+  C'est bizarre que je manque autant de concentration, songea Sōjūrō en déprimant du fait de sa faiblesse.
+
+}
+[sha:f31555f34bee9281917b7af505d8e43f83706fce]{
+-- Page 8, Offset 2143.
+-- 『……いけない。こんなんじゃ気が散る一方だ』
+『...... Ça ne va pas. À ce rythme, je vais être de moins en moins attentif.』
+
+}
+[sha:cdce904b8a3b37735b3f8267df5686566e0ca852]{
+-- Page 8, Offset 2144.
+-- 自分を叱って黒板に目を向ける。
+  Il se ressaisit et reporta son regard vers le tableau.
+
+}
+[sha:453e1cf98648a27470523414498ff9acd753c2c2]{
+-- Page 8, Offset 2145.
+-- カツカツと規則正しく、なのになぜか眠気を誘う<白墨|チョーク>の滑る音も、この純朴な転入生を<堕落|だらく>させるには至らない。
+  Même le crissement régulier de la craie, qui invitait à la somnolence, ne suffisait pas à faire tomber dans la délinquance ce simple élève transféré.
+
+}
+[sha:63967804eda80d1756fbf5b951ad1e445b8b728d]{
+-- Page 9, Offset 2146.
+-- けれどやっぱり、彼は授業に集中できなかった。
+  Mais malheureusement, il ne put se concentrer sur le cours.
+
+}
+[sha:c88c83876291876a43a536137d12ae619013f02e]{
+-- Page 9, Offset 2147.
+-- 『…………むう』
+『............ Hmm.』
+
+}
+[sha:3c452d0cd03850bead904a41cce43dba1ae3aadc]{
+-- Page 9, Offset 2148.
+-- 重いため息をついて草十郎なりに考える。
+  Sōjūrō souffla un grand coup et se mit à réfléchir.
+
+}
+[sha:4ebcefadc6c33e60ce4779624075dd3222702f1a]{
+-- Page 9, Offset 2149.
+-- あまり考えたくはないが、原因は、まあ。
+  Il ne voulait pas trop y penser, mais la raison ne pouvait être que, eh bien,
+
+}
+[sha:d393f7748f9c53d431f1b18701dee6f102e84a8e]{
+-- Page 9, Offset 2150.
+-- 思い返すたびにどうかと思う、昨夜の出来事以外ありえなかった。
+  l'incident de la nuit dernière qui lui paraissait bizarre à chaque fois qu'il y repensait.
+
+}
+[sha:0af490c561f0f0c2c00353db4882570c9ae84a55]{
+-- Page 10, Offset 2151.
+-- 授業の終わりを告げるチャイムと、礼をして廊下に向かう老教師。
+  Lorsqu'arriva la sonnerie annonçant la fin du cours, le vieux professeur fit faire le salut et se dirigea vers le couloir.
+
+}
+[sha:0991cdf6530dc44eca47d66a944af461664ac47d]{
+-- Page 10, Offset 2152.
+-- 彼の退室を見届けて、三十人もの生徒は一斉に席を立った。
+  Les trente élèves se levèrent immédiatement en le regardant partir.
+
+}
+[sha:15d1723198cd6d2de634e7e8f7199c659b2abeaa]{
+-- Page 10, Offset 2153.
+-- 11時半ごろから緩慢に進んでいた時計の針は、いまやピッタリと頂点を指し示している。
+  L'aiguille de l'horloge, qui avançait avec lenteur depuis onze heures trente, était maintenant pointée droit vers le haut.
+
+}
+[sha:213dd0bc8cd9db07a4a512c49bd92e99a97738cf]{
+-- Page 11, Offset 2154.
+-- ざあ、と<伝播|でんぱ>していく憩いの空気。
+  Instantanément, l'ambiance se détendit.
+
+}
+[sha:c67bc9d356f1a52e76f873b21a207e14ab89c349]{
+-- Page 11, Offset 2155.
+-- 堅苦しい授業からのひとときの解放、
+  C'était un petit moment de relaxation après un cours pénible,
+
+}
+[sha:f9c1a39571b9b2524db3d92aa25018f97e24a0b8]{
+-- Page 11, Offset 2156.
+-- 学園生活の華ともいえる<昼食|ランチタイム>の始まりだ。
+  le début de l'heure du repas, que l'on pouvait considérer comme le pinacle de la vie à l'école.
+
+}
+[sha:0b0af2fd7671ccaa06fd5fa263dddf8845f215a8]{
+-- Page 12, Offset 2157.
+-- 三咲高校の学食の味つけはよろしくない。
+  La nourriture vendue à la cafétéria du lycée Misaki n'avait pas bonne réputation.
+
+}
+[sha:dc434806ff0d9bd371dcee96cb6e3dc1ad944faa]{
+-- Page 12, Offset 2158.
+-- 私立校にあるまじき怠慢、という抗議もどこ吹く風で、
+  Un mouvement de protestation commençait à se soulever contre ce qui était considéré comme une tare indigne d'un lycée privé,
+
+}
+[sha:92ca5d8af68c9a2e847646439e57f24b5b74457a]{
+-- Page 12, Offset 2159.
+-- 今日も今日とて独特の味を提供している。
+  et aujourd'hui encore, cette nourriture spéciale était servie aux élèves.
+
+}
+[sha:2a626df5f8b723e457d1a4b104d327d8f4c2c1b7]{
+-- Page 12, Offset 2160.
+-- 値段もそれなり、味もいまいち、となれば、必然、学校ではお弁当派が大勢力となる。
+  Son prix étant assez élevé et son goût douteux, inévitablement, les adeptes des paniers-repas à l'école étaient devenus majoritaires.
+
+}
+[sha:6d319db0e8817a9a92b4a4cc813649a087d3dd6a]{
+-- Page 13, Offset 2161.
+-- 草十郎が転入した二年Ｃ組も例外ではない。
+  La classe C de deuxième année dans laquelle Sōjūrō avait été transféré n'y faisait pas exception.
+
+}
+[sha:499adbf772d866a6e1fa81a0feb494ecdeef194b]{
+-- Page 13, Offset 2162.
+-- 男子は腕力にまかせて十個ほどの机をあわせ、長テーブルのような食卓を築く。
+  À la force des bras, les garçons rassemblèrent environ dix bureaux et aménagèrent ainsi une longue table à manger.
+
+}
+[sha:49b8692b06809e2cee9fabaeb1ec5f91436a6168]{
+-- Page 13, Offset 2163.
+-- 一方、女子は洗練された手順で二、三個の机をこぢんまりとしたテーブルにかえ、いくつかのグループにわかれて談笑を始めていた。
+  De leur côté, les filles, par une astucieuse manœuvre, formèrent de petites tables composées de deux ou trois bureaux chacune, puis, réparties en plusieurs groupes, commencèrent à converser joyeusement.
+
+}
+[sha:e7d25fa8d15758185181dd16f1a6047b8014574b]{
+-- Page 14, Offset 2164.
+-- 貴重な昼休みを一分一秒も無駄にしない。
+  Ils ne gaspillaient pas une seule seconde de leur précieuse pause déjeuner.
+
+}
+[sha:9bca0216b33a88f26963eef1e2478be167e70f86]{
+-- Page 14, Offset 2165.
+-- かたちは違えど、両陣営の信念は同じだった。
+  Les manières de faire étaient peut-être différentes, mais les deux camps poursuivaient le même objectif.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 15, Offset 2166.
+-- 「――――――」
+「――――――」
+
+}
+[sha:46e36f6d0d034878192e302d55c5ca8bf9c3c385]{
+-- Page 15, Offset 2167.
+-- その手際の良さに草十郎は呆気に取られている。
+  Sōjūrō était à chaque fois pris de stupeur devant cette performance millimétrée.
+
+}
+[sha:9ae88281253c79c1045a65ba78d1a238e4fe2035]{
+-- Page 15, Offset 2168.
+-- 転入してから十日経った今でもこのスピーディーさについていけず、いまだ自分の席に居座っていた。
+  Depuis son transfert dix jours plus tôt, il n'arrivait toujours pas à suivre leur rythme, et même maintenant, il restait à sa place, interdit.
+
+}
+[sha:2e7c50a7b0075b1d39067206c4520398fe0e62c4]{
+-- Page 16, Offset 2169.
+-- 「おーい、こっちこいよ静希！」
+「Hé, viens là, Shizuki !」
+
+}
+[sha:454a79523f9203bc1f53484361f55dc139cb27f2]{
+-- Page 16, Offset 2170.
+-- 呼びかけてくる声は、教室の窓側を占拠した一大食卓からだった。
+  La voix qui l'appelait venait de la grande table qui occupait le côté fenêtre.
+
+}
+[sha:42c13bc513354e754a6d6df6f2f0e4784a1edf5c]{
+-- Page 17, Offset 2171.
+-- だらしなく椅子をななめに立て、いつスッ<転|ころ>んでもおかしくない状態で手招きしているのは<木|き><乃|の><美|み><芳助|ほうすけ>。
+  Avec la chaise inclinée nonchalamment de biais, de telle façon qu'il risquait de tomber à tout moment, l'élève qui lui faisait signe de la main était Kinomi Hōsuke.
+
+}
+[sha:39be497f44ed9848ad08fdd82b7cd1167d869538]{
+-- Page 17, Offset 2172.
+-- 口が悪くて根性も無い、とクラス中から<酷評|こくひょう>される人物だが、さっぱりした性格のおかげか敵は少ない。
+  Toute la classe lui reprochait sa langue de vipère et son mauvais caractère, mais comme il avait une personnalité simple et désinvolte, il comptait peu d'ennemis.
+
+}
+[sha:4cab81ba8a395856756ec1ba8f375265831ddc20]{
+-- Page 17, Offset 2173.
+-- たまに、さっぱりしすぎるのもどうか、とみなの頭を悩ませてもいる。
+  D'ailleurs, ça rendait les gens inquiets quand il se laissait un peu trop aller.
+
+}
+[sha:f42608acc8a2e4c4f67816835032391f3d493a1e]{
+-- Page 18, Offset 2174.
+-- 「メシにしようぜメシぃ。
+「Allez, on mange, on mange.
+
+}
+[sha:c8eb16c96dd38f4506d11ad52e57cfca88e5f805]{
+-- Page 18, Offset 2175.
+-- オレさあ、昨日店の残り物もらいすぎたんだよ。春巻だよ春巻。それを見た親父がさあ、貰ったモンは残すなってうるさくてさあ。食いもん、春巻きしかねーんだわ」
+  Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a gonflé à force de me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Et donc, je n'ai que ça à manger.」
+
+}
+[sha:efecf6825014a2b51682ffe49c0ad3f54eb56ac5]{
+-- Page 19, Offset 2176.
+-- なので救いの手を差し向けてくれ、とまっとうな弁当を呼びこもうと企む木乃美だった。
+  Il pensait donc demander à une âme charitable de partager avec lui un panier-repas digne de ce nom.
+
+}
+[sha:7bb18ba4449d676bd76bcb391f0219da1a1d043f]{
+-- Page 19, Offset 2177.
+-- 木乃美と草十郎は同じ店で働いており、転入前から顔見知りだった数少ないアルバイト仲間だ。
+  Sōjūrō et lui travaillaient dans le même restaurant, et il le connaissait d'avant son transfert. C'était l'un de ses rares compagnons de travail.
+
+}
+[sha:3e70f412184cbfe9c18dda982e98678dc50f14fb]{
+-- Page 19, Offset 2178.
+-- また、草十郎に『腐れ縁』という言葉をはじめて実感させた男でもある。
+  Il était aussi le premier homme à lui avoir fait comprendre l'expression “relation inséparable”.
+
+}
+[sha:7ab29f4d902853bca60bf2046d11f7dc379c11df]{
+-- Page 20, Offset 2179.
+-- 「お、いいな、静希も来いよー！　今日は待ちに待った缶詰祭りをすっからさー！」
+「C'est vrai, viens Shizuki ! Aujourd'hui, c'est le festival des conserves que vous attendiez tant !」
+
+}
+[sha:57d4b68de45b68f89a124939f138175daa51a05c]{
+-- Page 20, Offset 2180.
+-- 「……ついに決行するのかよ……誰か冷静になった方がいいんじゃないのか、実際……」
+「...... Tu t'es enfin décidé à mettre ton plan à exécution......? Dis, tu pourrais pas te calmer un peu......」
+
+}
+[sha:0893537972ab9e0bddcf8f0983c84cc574133e10]{
+-- Page 20, Offset 2181.
+-- 「バカ、すげえ楽しいってきっと！　そりゃパチもんくさいけどカニ缶とか食い放題なんだぜ!?　サバ缶じゃなくて！」
+「Idiot, ce sera sûrement trop amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」
+
+}
+[sha:ee76fdbbab97241bd1e12d2dc5f82ef817674082]{
+-- Page 21, Offset 2182.
+-- 「まじ！？　やったー、オレも参加するー！
+「Vraiment ?! Super ! Moi aussi, je participe !
+
+}
+[sha:ab3d75c31cd1db6a647cb26e9dd6b0b987942506]{
+-- Page 21, Offset 2183.
+-- コンビーフはひとり一個？　それとも早い者勝ち？」
+  Tout le monde prend un bœuf salé ? Ou alors, le plus rapide l'emporte ?」
+
+}
+[sha:bcabebeadeaeb2f4f609de97a70a38520afd1c45]{
+-- Page 21, Offset 2184.
+-- 「おまえな、ひとりで何個も食えるもんじゃねえぞアレ。うまいのは最初の一個だけだって」
+「Imbécile, c'est pas quelque chose qu'on peut reprendre plusieurs fois. La seule partie qui est bonne, c'est la première bouchée.」
+
+}
+[sha:2c4df3f543199f2d12f7baad08a53aba16a7883f]{
+-- Page 21, Offset 2185.
+-- 「静希たちがくるならノルマはひとり七個に下がるのか……助かるなあ……」
+「Si Shizuki et les autres participent, ça en fera pile-poil sept par personne...... Ce qui m'arrangerait......」
+
+}
+[sha:a22d24d145f9dd7176b12bbc5074b46949d426b3]{
+-- Page 21, Offset 2186.
+-- 「ところで木乃美の弁当の中身、なんか缶詰より硬そうじゃね？」
+「Au fait, ce que t'as dans ton panier-repas, Kinomi, ce serait pas encore plus dur qu'une boîte de conserve ?」
+
+}
+[sha:06592414e71e555f64925c839d9ce2df71b0742d]{
+-- Page 22, Offset 2187.
+-- いつもは互いの弁当の不出来さをネタにして騒ぐ彼らは、今日に限って団結していた。
+  Alors que d'ordinaire, ils se plaignaient avec véhémence de la piètre qualité de leurs paniers-repas, cette fois-ci, ils faisaient preuve d'une rare solidarité.
+
+}
+[sha:88d067b280c2b510817e261ccd8017b7b28056ee]{
+-- Page 22, Offset 2188.
+-- テーブルにはピラミッド型につまれた無数の缶詰。
+  Sur la table étaient posées en pyramide d'innombrables boîtes de conserve.
+
+}
+[sha:4f0353dbea06054e8c847faa782573ca069aae78]{
+-- Page 22, Offset 2189.
+-- 賞味期限を油性のサインペンで塗りつぶされたソレは、ある男子生徒の家の倉庫から発掘されたものらしい。
+  Ces conserves, dont la date de péremption avait été peinte au marqueur, avaient apparemment été exhumées du cellier de la maison d'un certain étudiant.
+
+}
+[sha:a453075724dba9b7fd8aa208aa4d4ff335562f64]{
+-- Page 23, Offset 2190.
+-- 「よし野郎ども、各自マイ缶切りの用意はいいな？
+「Bien, bande de vauriens, vous avez tous préparé vos ouvre-boîtes ?
+
+}
+[sha:7f0bf44ea9da7fa540a75171751820c7e7ba4aa4]{
+-- Page 23, Offset 2191.
+-- 食べるも地獄、残すも地獄。我ら五時限目の授業はないものと恐れぬ修羅となり、鉄の悪魔どもを平らげん―――
+  Le manger, c'est l'enfer, le gâcher, c'est aussi l'enfer. Devenons des gardiens de temple ne craignant pas d'être absents à la 5e période de cours, et apportons la paix à ces démons de fer―――
+
+}
+[sha:deec0ba71402951c18700a49d8254f11e052d1e2]{
+-- Page 23, Offset 2192.
+-- えー、食材は下町のなんでも商会、マーケット中山からの提供です！」
+  Oooh, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」
+
+}
+[sha:d3fd74b488ef6b785483d3b1c042953405f6dbb7]{
+-- Page 23, Offset 2193.
+-- 「ヒュー！　バカも休み休みyeah！」
+「Fyuu ! Au tour des idiots de faire une pause, yeah !」
+
+}
+[sha:12030cd0de6dfb25ac156e0fe94aebce40b6ad36]{
+-- Page 23, Offset 2194.
+-- 一団となって、缶切りを持った手を天高く掲げる男子生徒の群れ。
+  Les étudiants masculins se regroupèrent et hissèrent haut vers le ciel leurs mains tenant les ouvre-boîtes.
+
+}
+[sha:099f28d91f904dea55d95387c30a1de98835e82f]{
+-- Page 24, Offset 2195.
+-- 「ほら、静希も食べようぜー。缶切りならまだあるからさー」
+「Allez, Shizuki, mange toi aussi. Il y a encore plein d'ouvre-boîtes.」
+
+}
+[sha:dbf7b4094dec0da35efa21ba3596cde6a21fa8b1]{
+-- Page 24, Offset 2196.
+-- 「いや、君らの弁当の毒見はゴメンだって昨日言ったはずだ。
+「Non, je me rappelle vous avoir dit hier que je ne voulais pas de vos paniers-repas empoisonnés.
+
+}
+[sha:c0cf40ea945e23625122d60a929a278bcf407cf3]{
+-- Page 24, Offset 2197.
+-- それに、その缶詰半分以上、賞味期限切れてるだろう」
+  Et puis, la date de péremption de plus de la moitié de ces boîtes de conserve est passée.」
+
+}
+[sha:7e5c425c22aff977a029fa1df5fe47bd408364d2]{
+-- Page 24, Offset 2198.
+-- 「なんだよー、つれねえなあー！」
+「Ben quoi alors ! T'es trop sérieux !」
+
+}
+[sha:1e8c1051c57bd6dcd157d8a834b5f974763c16dc]{
+-- Page 24, Offset 2199.
+-- どっと沸くならず者たち。
+  s'exclamèrent-ils à l'unisson.
+
+}
+[sha:0e80ce14ac5adc1c56cfe19f73f29a1d2e7e4305]{
+-- Page 24, Offset 2200.
+-- <犠牲者|なかま>を一人でも増やそうと思っているに違いない。
+  Ils cherchaient sans doute à faire un camarade-victime de plus.
+
+}
+[sha:e8627058cb09915a5d6ab6f2fa549cc0d753cd07]{
+-- Page 25, Offset 2201.
+-- 彼らの賑やかさにほだされ、仕方ない、と席を立つ草十郎。
+  Impressionné par leur ferveur, Sōjūrō se leva de sa chaise malgré lui.
+
+}
+[sha:da94e33e039512eedd4069054392ee94d5077e48]{
+-- Page 25, Offset 2202.
+-- それを、
+  Voyant cela,
+
+}
+[sha:c93de7f5ee89de0fdcd6797e48fe75001b78082d]{
+-- Page 25, Offset 2203.
+-- 「じゃ、わたしたちが釣り上げよっかなー！
+「Dans ce cas, on le prend avec nous !
+
+}
+[sha:a1a842d06f45fcc5c4b4137a6782766564ab1974]{
+-- Page 25, Offset 2204.
+-- 静希くん、あんなの放っておいて一緒にどう？」
+  Shizuki, pourquoi tu laisserais pas ces types dans leur coin pour venir te joindre à nous ?」
+
+}
+[sha:3283e209749a170b77854141961039f42c1bf4c6]{
+-- Page 25, Offset 2205.
+-- もう一方の勢力がつかまえた。
+  il se fit héler par l'autre force en présence.
+
+}
+[sha:b7dbb5bb913ec5700bdf0e508f524f1319f4d6c2]{
+-- Page 26, Offset 2206.
+-- 呼び掛けたのはショートの髪がよく似合う女生徒だった。
+  La fille qui l'avait appelé était une élève à qui les cheveux courts allaient bien.
+
+}
+[sha:222f12f4027bb8a714b2459f8f96b575df927661]{
+-- Page 26, Offset 2207.
+-- 数日前、草十郎を陸上部に勧誘してくれた事もある。
+  Elle l'avait aussi invité à rejoindre le club d'athlétisme quelques jours auparavant.
+
+}
+[sha:ee5cb9a4aeada51ca152824469ce2cfcbd014679]{
+-- Page 27, Offset 2208.
+-- 「……いや。そっちも遠慮したいな、できれば」
+「...... Non, je préférerais aussi refuser, si possible.」
+
+}
+[sha:5f467118d803a7bf7d08f06345a8ee9c0e28a37b]{
+-- Page 27, Offset 2209.
+-- 困り顔で返答する。
+  répondit-il d'un air gêné.
+
+}
+[sha:cb010ce9e45445c78dcf38bb457fcf5a4aef1aa4]{
+-- Page 27, Offset 2210.
+-- 彼女達のテーブルには草十郎があまり知らない果実<だ|・><け|・>が山のようにつまれていた。
+  Leur table n'était couverte que de fruits divers et variés qu'il ne connaissait pas.
+
+}
+[sha:d107a743e12bb74ee991b65c98e6cccf310db9e3]{
+-- Page 28, Offset 2211.
+-- 「えー、なんでー？　パパイヤとか嫌い？
+「Hein ? Pourquoi ? Tu n'aimes pas la papaye et les fruits de ce genre ?
+
+}
+[sha:91188334096ef0b478b031181863ab83c3fcfa73]{
+-- Page 28, Offset 2212.
+-- マンゴーもあるし、ヤシの実だってあるし、内緒だけど夕張メロンもあるんだから！」
+  On a de la mangue et des noix de coco, et c'est un secret, mais on a aussi du Yubari melon !」
+
+}
+[sha:3c90c7152aa82f5150e30c946b16c099dc2b8fd9]{
+-- Page 28, Offset 2213.
+-- 拳を立てて力説する果実グループ。
+  insistait le groupe des fruits en levant le poing.
+
+}
+[sha:6ddb9f42b31176f3e5ed34eb587614ef7d6fc677]{
+-- Page 29, Offset 2214.
+-- 「待て、なんだヤシの実って？　アレ食えるもんなの？」
+「Attends, c'est quoi les noix de coco ? Ça se mange ?」
+
+}
+[sha:25f256ec9f09a6f193cc3bde45357de60fffb62f]{
+-- Page 29, Offset 2215.
+-- 「あ、マンゴー余ったら回してほしいなー」
+「Ah, si vous avez trop de mangues, ça vous dirait d'en partager ?」
+
+}
+[sha:02c28525978d480282508d35afcd761d346dcebf]{
+-- Page 29, Offset 2216.
+-- 「ばか、肉食え肉。そんなんだから貧弱な体してんだぞ、おまえら！」
+「Crétin, mange de la viande, de la viande. C'est parce que vous mangez des trucs comme ça que vous avez le corps faible, vous autres !」
+
+}
+[sha:644b369255056f4ae34d4f42df559091c5ecbf79]{
+-- Page 29, Offset 2217.
+-- 飛びかう声に、やっぱり草十郎はついていけない。
+  Comme il le craignait, Sōjūrō ne pouvait pas s'y retrouver au milieu des voix qui fusaient de toutes parts.
+
+}
+[sha:99a225867ed616813c2304067a8220e3d7d91ba6]{
+-- Page 30, Offset 2218.
+-- 「……分かるのは、どっちも破滅的だってコトだけだ」
+「...... La seule chose que je comprends, c'est que vous courez tous à votre perte.」
+
+}
+[sha:d12605e2c6ddfe18bcdbab885fe4ee93df288b11]{
+-- Page 30, Offset 2219.
+-- 言いつつ、草十郎はどちらも断りきれない。
+  Mais malgré ce qu'il disait, Sōjūrō ne pouvait refuser l'offre d'aucun des deux partis.
+
+}
+[sha:75b797f236493a7e1875ae3ae2882d7f4d4b97dc]{
+-- Page 30, Offset 2220.
+-- 他人の好意を素直に受け取りすぎる彼は、時に優柔不断になる。
+  Comme il acceptait trop facilement la bienveillance des autres, il en devenait parfois indécis.
+
+}
+[sha:e0567ccfe133de38c6b2ca4f846c4b37d9d1b653]{
+-- Page 30, Offset 2221.
+-- 人間、好意になれていないと、何を捨てるべきか咄嗟に判断できないのである。
+  Si l'on n'est pas habitué à la bienveillance humaine, on ne peut pas déterminer immédiatement ce qu'il convient de refuser.
+
+}
+[sha:6f625f159887d43d133e0d14a7bf04f0ec1c7596]{
+-- Page 30, Offset 2222.
+-- そんな迷える子羊の肩を叩く影がひとつ。
+  Une personne tapota l'épaule de cet agneau égaré.
+
+}
+[sha:f8e561f6dad26ea43d8bfd1cceda94ebbc54e028]{
+-- Page 31, Offset 2223.
+-- 「ほっとけほっとけ。いちいちここのバカどもに付き合ってちゃ人生台無しだ。適当に流しとけばいいんだよ。
+「Laisse-les, laisse-les. Si tu devais à chaque fois accompagner ces idiots, tu ne ferais que gâcher ta vie. Tu n'as qu'à laisser couler.
+
+}
+[sha:c6389fb2e7749a3e0058b91291adc69725a6a48c]{
+-- Page 31, Offset 2224.
+-- オラ、おまえらもな、善良な羊を悪の園に引きずりこんでんじゃねえよ」
+  Hé, vous autres, n'essayez pas d'attirer un mouton innocent vers le jardin des péchés.」
+
+}
+[sha:fea96d783e9c1d84d91f66e50030c1dbaec27eab]{
+-- Page 31, Offset 2225.
+-- 場違いにドスのきいた声が、草十郎の背後から教室に響きわたる。
+  La voix menaçante incongrue retentit depuis le dos de Sōjūrō dans toute la classe.
+
+}
+[sha:6bff6a9264e59a78c8add49cdc7f96b2ded83bb4]{
+-- Page 32, Offset 2226.
+-- 「副会長」
+「Vice-président.」
+
+}
+[sha:6d4624b911c74e0f3ad449e7fc1ad83be58a662b]{
+-- Page 32, Offset 2227.
+-- 草十郎が振り向くと、そこには彼より頭ひとつぶん背の高い男子生徒が立っていた。
+  Lorsqu'il se retourna, il trouva en face de lui un élève masculin qui le dépassait d'une tête.
+
+}
+[sha:779e10bd997e8732b3fca6eab5248b20b03e348d]{
+-- Page 33, Offset 2228.
+-- 乱雑に、けれど見栄えよく撫で上げられた長髪。
+  Ses longs cheveux étaient coiffés en pagaille mais avaient de l'allure.
+
+}
+[sha:3b1cefecbae9caa36465abea4d76876407a9049c]{
+-- Page 33, Offset 2229.
+-- 整った美形でありながら刺々しい目つきでクラスを<睥睨|へいげい>する暴力性。
+  D'une nature rebelle mais dégageant un certain charme, il fixait la classe avec ses yeux perçants.
+
+}
+[sha:41751361717507f6775739eabb8729ab0fedcd00]{
+-- Page 33, Offset 2230.
+-- いつも眠そうな草十郎とは対照的な、一目で人を魅了する非の打ちどころのない美男子。
+  À l'inverse de l'apathique Sōjūrō, c'était un beau jeune homme impeccable qui pouvait envoûter n'importe qui d'un regard.
+
+}
+[sha:3cd7848c40b75ca9ac82200865544044d592d70c]{
+-- Page 33, Offset 2231.
+-- 誰もが<畏|おそ>れ、<敬|うやま>うであろう彼への反応は、しかし。
+  Pourtant, la réaction des élèves qui auraient dû le craindre et le respecter fut :
+
+}
+[sha:3adceb32b19b0248613c56258a3e3578a4923c2d]{
+-- Page 34, Offset 2232.
+-- 「なんだよ、副会長さまのお出ましかよー！」
+「Ça alors, si c'est pas le vice-président !」
+
+}
+[sha:bf3f6151701c9fc7d0af61963a262b5169c40ea4]{
+-- Page 34, Offset 2233.
+-- 「テメエらのバカ顔にはこりごりだって、学食に陣取ってたんじゃなかったのかよー！」
+「Ta gueule nous dérange ! T'étais pas censé zoner du côté de la cafétéria ?」
+
+}
+[sha:9354e619a1747892e7991b5d42eee455bcbc8d91]{
+-- Page 34, Offset 2234.
+-- 「へへへ、ここは見てのとおりボンクラどもが集う貧民街でございますよ、王子はほら、Ａ組のきれいどころとカフェでお茶でもしてればいいじゃない！」
+「Hé hé hé, comme tu peux le voir, ici, c'est le taudis où se réunissent les simples d'esprit, alors Prince, tu n'as qu'à retourner dans ta belle classe A pour prendre le café ou le thé !」
+
+}
+[sha:e0960e0d20e64f706a062fc9da393344d3a80043]{
+-- Page 35, Offset 2235.
+-- 「また静希呼びに来たのかよ。青子女史といい鳶丸殿下といい、静希、なんかヤバいコトしちゃったのか……？」
+「Tu es encore venu chercher Shizuki ?! Mlle Aoko puis Son Altesse Tobimaru... Shizuki, tu as fait quelque chose de grave......?」
+
+}
+[sha:da1ae610c457677e99f1711ef1cd115204bbd179]{
+-- Page 35, Offset 2236.
+-- 「えー。静希くんは校則違反しないじゃん。
+「Hein ? Shizuki ne viole pas le règlement intérieur.
+
+}
+[sha:5543606849fa5686e6a9929a2e62f1488a231624]{
+-- Page 35, Offset 2237.
+-- ちょっと、それ以外のルール破るだけで！」
+  C'est juste qu'il enfreint les règles à l'extérieur !」
+
+}
+[sha:52a446ec9171e227b63659114f2d21a83c863f33]{
+-- Page 35, Offset 2238.
+-- 「ってコトはやっぱり―――<槻司|つきじ>くん、蒼崎に振られてからそっちに走ったって本当だったのね!?」
+「Est-ce que ça veut dire que―――Tsukiji, alors c'est vrai que tu as de nouveaux penchants depuis le râteau que tu t'es mangé avec Aozaki ?!」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 36, Offset 2239.
+-- 「………………」
+「..................」
+
+}
+[sha:9dca84d600f2623185f61574a36379e1493f8640]{
+-- Page 36, Offset 2240.
+-- この通り、親愛と友情に満ちた暴言だった。
+  C'étaient des injures remplies d'affection et d'amitié.
+
+}
+[sha:2c06b7ce648363cb3c295677f47b1fcdebc4095a]{
+-- Page 36, Offset 2241.
+-- 言われたい放題の男子に、草十郎はつい同情してしまう。
+  Face aux garçons qui disaient tout ce qui leur passait par la tête, Sōjūrō compatit inconsciemment.
+
+}
+[sha:0ca1960e91caf665fec7ac8e9d30399119cb0761]{
+-- Page 36, Offset 2242.
+-- もっとも、肝心の男子はまったくのノーリアクション。
+  Cela dit, le principal concerné ne montrait aucune réaction.
+
+}
+[sha:51b8842a7547e2ef65e6c463c9dedbacd77b83a1]{
+-- Page 36, Offset 2243.
+-- 騒ぎ立てる彼らをつまらなげに<一瞥|いちべつ>すると、吐き捨てるように声をあげる。
+  Il lança un regard ennuyé à ceux qui faisaient des histoires, et éleva la voix comme pour les disperser.
+
+}
+[sha:14ffde4e7f2ffd3b472619e70b386af3996b189a]{
+-- Page 37, Offset 2244.
+-- 「相変わらず無駄に元気があって結構じゃねえかテメエら。
+「Comme d'habitude, on dirait bien que vous débordez d'énergie, vous autres !
+
+}
+[sha:dcd22bcda2c4b3bcd95330e97027430ad6819363]{
+-- Page 37, Offset 2245. Mods: @n.
+-- そんなに活力たぎってんなら冬期特別清掃班にだって参加出来るよなあ、
+  Puisque vous avez de la force à revendre, vous pourriez apporter votre aide à l'équipe spéciale de nettoyage d'hiver, hein ?
+
+}
+[sha:9fc68c8bedff662559221a7341790c2067f7b287]{
+-- Page 37, Offset 2246. Glued.
+-- オイ？
+Allez !
+
+}
+[sha:54640b9d1dc2b91c6cfeb54cd8b7a4bedb9a3266]{
+-- Page 37, Offset 2247.
+-- いまんところ自主的に申し出てるのは全校で一人しかいねえんだ。２－Ｃ全員が参加すりゃあ、俺も蒼崎も肩の荷がおりるってもんなんだがよ……！」
+  Pour le moment, il n'y a qu'une seule personne qui s'est portée volontaire dans tout l'établissement. Si toute la classe 2-C participait, ça ferait une préoccupation en moins pour Aozaki et moi......!」
+
+}
+[sha:74d4fb4b9048198820089b03927fe97da6e22375]{
+-- Page 38, Offset 2248.
+-- その端整な顔立ちとはかけ離れた、ドスのきいた<胴間|どうま>声が教室に響く。
+  Cette voix grossière et menaçante, qui contrastait totalement avec l'élégance de ses traits, résonna dans la classe.
+
+}
+[sha:f911e78255cf810baf2b001e632e495a7a2b13a1]{
+-- Page 38, Offset 2249.
+-- 彼の一喝で水を打ったように黙りこむ、ならず者部隊＆スイーツ愛好者たち。
+  Son rugissement fit taire les soldats en treillis et amateurs de sucreries comme s'ils avaient reçu une douche froide.
+
+}
+[sha:396d0343e98fcb2a79d4a1865739f0beeabbb719]{
+-- Page 38, Offset 2250.
+-- この男子生徒を畏怖しての事もあるが、何より『冬期特別清掃班』が恐ろしいからである。
+  La crainte qu'il leur inspirait y était pour quelque chose, et l'expression “équipe spéciale de nettoyage d'hiver” les terrifiait d'autant plus.
+
+}
+[sha:721a46d4851085680973c6466e84c9c1cdec60bf]{
+-- Page 39, Offset 2251.
+-- 冬期特別清掃班。
+  L'équipe spéciale de nettoyage d'hiver :
+
+}
+[sha:99609bd84f28d19132e7f4c18a2c87f587cd6936]{
+-- Page 39, Offset 2252.
+-- それは先々代の生徒会からお手上げ状態で放置していた旧校舎、および山みたいな裏庭の森を冬休みを挙げて清掃しよう、という趣旨の、学園行事の名を借りた拷問だ。
+  un supplice déguisé sous le nom d'une activité scolaire. Le but était de mener à bien le nettoyage du vieux bâtiment et de la forêt de l'arrière-cour aux allures de montagne, laissés à l'abandon par les anciens présidents du conseil étudiant, le tout aux dépens des vacances de Noël.
+
+}
+[sha:da9109af52cb3a6fd2f1993661cb0b959a350041]{
+-- Page 40, Offset 2253.
+-- おそらく、冬休みのうち三日は完全に潰される。
+  Trois jours de vacances seraient à coup sûr intégralement perdus.
+
+}
+[sha:48fe7a6ea85fd9f03f6796075a53e97d98e3f077]{
+-- Page 40, Offset 2254.
+-- もちろん成績に残るような見返りはない。
+  Et bien sûr, il n'y aurait aucune rétribution sur les résultats scolaires.
+
+}
+[sha:55b440fad9ffd0819f45840bd5a821f9d6e4b198]{
+-- Page 40, Offset 2255.
+-- ことはあくまで生徒会が立案しただけのボランティア。参加希望者が一人でもいたコトは奇跡に近い。
+  La chose n'était qu'un volontariat organisé par le conseil étudiant. La simple présence d'un volontaire était déjà presque un miracle en soi.
+
+}
+[sha:a47e5677b8e5917b2b97a2970e498c99b5692976]{
+-- Page 41, Offset 2256.
+-- 「あー……いや、僕ら、ちょっと体弱いんで……すみっちょで缶詰食べてますね？」
+「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve dans notre coin, d'accord ?」
+
+}
+[sha:8ca0a3074f9b7453bea61ffc2e5234539ac8850f]{
+-- Page 41, Offset 2257.
+-- 「わたしたちも貧血気味で……こうやって果物たべてないと死んじゃうっていうか……冬休みはもう予定いっぱいっていうか……」
+「Nous aussi, on a tendance à être anémiques... Si on ne mangeait pas des fruits comme ça, on mourrait... Nos plans pour les vacances de Noël sont déjà surchargés......」
+
+}
+[sha:359f025445128c906ba8c7022dbc6ae145d0a4a6]{
+-- Page 41, Offset 2258.
+-- 一名を除いて、そそくさと隅に移動する２年Ｃ組の皆さん。
+  À l'exception d'une personne, tous les élèves de la classe C de deuxième année battirent en retraite dans un coin.
+
+}
+[sha:57e3fc41bd973dc41491fe59b755b8e8cd20743d]{
+-- Page 42, Offset 2259.
+-- 「よし、昼食はやっぱり静かにやらねえとな。
+「Bien, les repas sont meilleurs dans le calme.
+
+}
+[sha:7ca0e161e25169b7f3e445c7db1fe0cd7b59e0eb]{
+-- Page 42, Offset 2260.
+-- 一年坊主の教室より二年の教室の方がやかましいなんて苦情、いいかげんにしやがれよアホウども？」
+  On vient tout le temps se plaindre que les classes de deuxième année sont plus bruyantes que celles des gamins de première année ! Ça commence à bien faire, bande d'idiots !」
+
+}
+[sha:a1b092c1bf1f717ba74bce736b910a4bf61be290]{
+-- Page 43, Offset 2261.
+-- うへーい、と弱々しく退散する有象無象たち。
+  La masse se dispersa lentement en conspuant.
+
+}
+[sha:820b8fa935102644312e4c412eee1bc9c13bf258]{
+-- Page 43, Offset 2262.
+-- その中に溶け込むように流れていく草十郎だったが、
+  Sōjūrō tentait de se fondre dans celle-ci, cependant,
+
+}
+[sha:91a7ea21cf6db13f4e2ae63668eb24e30902e21d]{
+-- Page 43, Offset 2263.
+-- 「おう、おまえはこっちだ草十郎。ちょい顔貸せ」
+「Oh non, toi, tu viens avec moi, Sōjūrō. Je dois te dire un mot.」
+
+}
+[sha:5c309fdc22737d23629843f02b6e55a21ad99178]{
+-- Page 43, Offset 2264.
+-- 強引に肩を引かれ、仲間入りを阻まれた。
+  on lui tira de force l'épaule, et il fut séparé de ses camarades.
+
+}
+[sha:82e97313bb58e675c88ed11d59a6800a90be9558]{
+-- Page 44, Offset 2265.
+-- 「……っだよ、生徒会横暴ー。人んちのテーブルマナーまで指図してほしくねーよなー！」
+「...... Qu'est-ce que tu veux, Tyran du Conseil Étudiant ! On n'a pas spécialement envie que tu nous donnes des leçons sur nos manières à table.」
+
+}
+[sha:167165fe66992516451f9893721b99210ea45324]{
+-- Page 44, Offset 2266.
+-- 立ち去る背中を好機と見たのか、仲間うちでのみ聞こえるよう悪態をつく木乃美。
+  Voyant sûrement le dos qui s'éloignait comme une opportunité, Kinomi marmonna une jérémiade de sorte que seuls ses camarades puissent l'entendre.
+
+}
+[sha:5a225b1a1b401e3a53f9964ee2b2e02e01afcc73]{
+-- Page 45, Offset 2267.
+-- 「ああ？　上等じゃねえか木乃美、いいぜ、おまえが記念すべき二人目だ。冬休み、首を洗って待ってやがれ」
+「Aah ? Comme tu l'auras voulu, Kinomi, tu seras le deuxième à être volontaire. Tiens-toi prêt pour les vacances de Noël !」
+
+}
+[sha:e231611e2472f64b534b5ea522247d6f35ed7eb8]{
+-- Page 45, Offset 2268.
+-- きっかり聞こえていたのか、副会長は親指をたてて、ぐるん、と<一回転|ノックアウト>の意を示す。
+  Ayant parfaitement entendu, le vice-président leva le pouce et fit le signe du knock-out.
+
+}
+[sha:40414110cb332736821befba8e160b4ff607e42a]{
+-- Page 46, Offset 2269.
+-- 「はあ、なに言ってんですかアイツ？
+「Ha ha, qu'est-ce qu'il raconte, celui-là ?
+
+}
+[sha:3f0b0269a0589d4500f954426ececf732c8df171]{
+-- Page 46, Offset 2270.
+-- アレ自主的なイベントじゃん、いくら副会長ったって強制はできないですよねぇ!?」
+  Cette activité est basée sur le volontariat. Donc même si t'es le vice-président, tu peux pas me forcer à y participer, pas vrai ?!」
+
+}
+[sha:c56b8367fa54e0d32e5b719a0f85b82ab40baeae]{
+-- Page 46, Offset 2271.
+-- ひひひ、と笑う２年Ｃ組の誇る問題児。
+  “Hi hi hi”, rigola avec vantardise l'enfant à problèmes de la classe 2-C.
+
+}
+[sha:ad221722b694b378a49c1ba2f1efbb9bab2515d4]{
+-- Page 47, Offset 2272.
+-- 「そりゃ昨日までの話だ。
+「Ça, c'était seulement jusqu'à hier.
+
+}
+[sha:1e857dc5b3d29ebbd78ae18d9177ec5b98048593]{
+-- Page 47, Offset 2273.
+-- 会長の提案が学校側に受理されてな、本日付けで生徒会役員は強制力のある推薦権をもらえたんだよ。
+  La proposition de la présidente a reçu l'accord de l'école, vois-tu, les membres du conseil étudiant ont reçu le pouvoir de recommander quelqu'un de force à partir d'aujourd'hui.
+
+}
+[sha:4f1646f2f69fda5cd816f100f1a63fa264e3a5d6]{
+-- Page 47, Offset 2274.
+-- とくに会長と副会長の推薦は絶対だ。拒否した場合、学校側はともかく、蒼崎がなにするか俺には止められねえからそのつもりでな？」
+  Tout spécialement la présidente et le vice-président dont les pouvoirs sont absolus. Si tu refuses, sans même parler de la réaction de l'école, je ne sais pas ce que fera Aozaki, alors fais bien gaffe.」
+
+}
+[sha:eb8990503ee80a5e912996850416a2130a24f294]{
+-- Page 48, Offset 2275.
+-- @o「げぇぇぇ!!!?　ちょ、それ事実上の死刑宣告じゃん!?　生徒^会まじ横暴ー！！！！」
+「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ? Le conseil étudiant est vraiment tyrannique !!!」
+
+}
+[sha:2205edd1c5cec33e5c17c7d919876862b367358b]{
+-- Page 48, Offset 2276.
+-- 悪態から悲鳴に変わる木乃美の断末魔を後に、副会長と草十郎は２年Ｃ組を後にした。
+  Laissant derrière eux un Kinomi livide dont les jérémiades s'étaient transformées en cris, Sōjūrō et le vice-président quittèrent la salle de la classe 2-C.
+
+}

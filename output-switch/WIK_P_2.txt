@@ -1,0 +1,108 @@
+[sha:7cd32fc3fb41b98dfbd526f2eb6233d7341f1f1a]{
+-- Page 0, Offset 23019.
+-- ここは館内で、三人の帰りを待つべきだと思った。
+  Je songeai qu'il était préférable d'attendre le retour du trio dans le manoir.
+
+}
+[sha:673ceaa73d8940e88607e72f1514c55dc0c4df3a]{
+-- Page 1, Offset 23020.
+-- 「それじゃ行ってくる。二十分捜して何も見つからなかったら戻りましょう」
+「Bon, eh ben, on y va. Si on ne trouve rien d'ici vingt minutes, on reviendra ici.」
+
+}
+[sha:5efbb9c4eef7fc2251740484cb0afa12afb7dcb9]{
+-- Page 1, Offset 23021.
+-- 「賢明です。行きますよ、草十郎君」
+「C'est un plan judicieux. Allons-y, Sōjūrō.」
+
+}
+[sha:8c125a957d97b896856f7f82b6a3b8b4dd0252a9]{
+-- Page 1, Offset 23022.
+-- 普段は詠梨神父の近くに寄らない静希だけど、今夜はさすがに特別みたいだ。
+  D'habitude, Shizuki ne s'approchait pas de père Eiri, mais cette nuit, il faisait une exception.
+
+}
+[sha:2577d1cbb4d9d80d73471954a352a5242f5399bf]{
+-- Page 1, Offset 23023.
+-- ぴったりと横に張り付いて、背中を守るように走っていった。
+  Il ne le lâcha pas et courut de façon à protéger ses arrières.
+
+}
+[sha:8ad28f3a93630172b6297ba7f8b92dcb47231782]{
+-- Page 2, Offset 23024.
+-- ……待つだけの時間が過ぎていく。
+  ... Le temps s'écoulait dans une attente insupportable.
+
+}
+[sha:23219f9b25429b6f366acb3185fc21377db01034]{
+-- Page 2, Offset 23025.
+-- 屋敷の電気はまだ回復しない。
+  Le courant du manoir n'avait pas encore été rétabli.
+
+}
+[sha:89ce508085ad3595569ad1726eff3d5c8552f6d1]{
+-- Page 2, Offset 23026.
+-- 「もう今夜中の復旧はないみたい。
+「Visiblement, le courant ne reviendra pas avant le matin.
+
+}
+[sha:14cf751d485dc2109f0769153347d985a176880f]{
+-- Page 2, Offset 23027.
+-- 客室の配線は別系統だから、まだ電源が生きていればいいけど」
+  Les chambres d'ami sont reliées à un circuit électrique auxiliaire, alors j'espère que l'électricité y marche encore.」
+
+}
+[sha:8aba9a8fd1f4233aa17c712c9ace152abad37f81]{
+-- Page 2, Offset 23028.
+-- 久遠寺邸の客室は後から造られたものらしい。
+  Apparemment, les chambres d'ami du manoir Kuonji avaient été construites dans un second temps.
+
+}
+[sha:413450341c1a3b53b223bc3a3b844b5cd6f3c058]{
+-- Page 2, Offset 23029.
+-- 古くからある箇所……居間や廊下、西館は完全に闇に没したようだ。
+  Les parties qui existaient depuis plus longtemps... en l'occurrence, le salon, le couloir et l'aile ouest, avaient apparemment complètement sombré dans les ténèbres.
+
+}
+[sha:efe5759807371df94e258ae944d545560b9b1010]{
+-- Page 3, Offset 23030.
+-- 「待て。ベオはどこにいった？」
+「Attendez. Où est passé Beo ?」
+
+}
+[sha:ab57ef01e93ecf5950dffe4ca64c0cdafb53d64d]{
+-- Page 3, Offset 23031.
+-- 「！　そういえば何処にもいないけど……」
+「! Maintenant que tu le dis, je ne le vois nulle part...」
+
+}
+[sha:df7295f994e29c2e634b39ca755fc903df48a7b6]{
+-- Page 3, Offset 23032.
+-- 「わたしが捜してくる。みんなはここにいて。いい、決して唯架ちゃんから離れちゃダメよ」
+「Je vais le chercher ! Vous, vous restez là. Compris ? Ne vous éloignez surtout pas de Yuika !」
+
+}
+[sha:48765159bb841d31e5f9c78ac1ec547ef037a137]{
+-- Page 3, Offset 23033.
+-- 「姉さん」
+「Ritsuka.」
+
+}
+[sha:24d09b5d5f3c4e0d843b2f3e746e9d9e2f91950d]{
+-- Page 3, Offset 23034.
+-- 「大丈夫よ、信頼して。これでも闇夜には慣れてるわ」
+「Ça va aller, fais-moi confiance. On ne le dirait pas comme ça, mais je suis habituée à l'obscurité.」
+
+}
+[sha:d923dd5c01f6e9132b91ddea0ce099ed7d39cf03]{
+-- Page 4, Offset 23035.
+-- 律架さんは屋敷の二階へと消えていった。
+  Ritsuka disparut au premier étage.
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 4, Offset 23036.
+-- わたしは、
+  Je...
+
+}

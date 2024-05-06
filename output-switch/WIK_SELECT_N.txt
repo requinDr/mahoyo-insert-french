@@ -1,0 +1,18 @@
+[sha:20e158fc1fd18c4541b8a485c261c750680bab8c]{
+-- Page 29, Offset 22693. Mods: @e.
+-- ～選択肢Ｎ～
+-Choix N-
+
+}
+[sha:ea78aedbdc26a2f50abaa04325de74b752589ba4]{
+-- Page 29, Offset 24057. Choice.
+-- その意見に賛成するべきだ、と思った。
+Je songeai qu'il fallait se ranger à cet avis.
+
+}
+[sha:5bbe0cd940852f09527d53c4b703090c6c4b7a1d]{
+-- Page 29, Offset 24058. Choice.
+-- それは危険だ、と思った。
+Je songeai que cette idée était dangereuse.
+
+}

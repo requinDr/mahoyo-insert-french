@@ -1,0 +1,18 @@
+[sha:a03b6d0d13ca0d3fa60629463bc1320572d4007f]{
+-- Page 19, Offset 22473. Mods: @e.
+-- ～選択肢Ｌ～
+-Choix L-
+
+}
+[sha:b241fc2f1d3cfaddfb441c69c8ce5dc8987d3be6]{
+-- Page 19, Offset 24053. Choice.
+-- それぞれ客室で朝まで過ごすべきでは、と思った。
+Je songeai que nous devrions attendre jusqu'au matin dans nos chambres.
+
+}
+[sha:3864cc7f633141ee5b9da92e285364146a9cda94]{
+-- Page 19, Offset 24054. Choice.
+-- その前に、リデルのアリバイ検証もするべきだ、と思った。
+Je songeai que nous devrions écouter le témoignage de Riddell.
+
+}

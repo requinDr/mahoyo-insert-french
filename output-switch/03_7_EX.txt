@@ -1,0 +1,655 @@
+[sha:04a2db5b9ffc222874d296d60a2112217002a1de]{
+-- Page 0, Offset 654.
+-- 夜中、洋館を歩いていると不思議なコトに遭遇する。
+-- TRANSLATION HERE
+}
+[sha:6ffcb8e957479bb4812bee9153b83c982002b578]{
+-- Page 0, Offset 655.
+-- 館内にただよう霧や、
+-- TRANSLATION HERE
+}
+[sha:59a77aacd728e783c38fdaa545428dc44df0dfa5]{
+-- Page 0, Offset 656.
+-- 増えたり減ったりするドア。
+-- TRANSLATION HERE
+}
+[sha:37fa43745d21de320aa7058b64d15d5370172650]{
+-- Page 0, Offset 657.
+-- 絨毯の手入れをする子豚っぽい影を見たかと思えば、このように、
+-- TRANSLATION HERE
+}
+[sha:1adb000a746d692542745956c79fe1bb50ffbc97]{
+-- Page 0, Offset 658.
+-- サンルームに向かってはかき消える、鳥たちの羽音を聞いたりもする。
+-- TRANSLATION HERE
+}
+[sha:75a86306fc33fa7f034f2d21fede6c30d870b819]{
+-- Page 1, Offset 659.
+-- 「なにごと……！？」
+-- TRANSLATION HERE
+}
+[sha:4eba01b77be40e14807787f79f1db7caab8752c2]{
+-- Page 1, Offset 660.
+-- たいていの事は見ざる聞かざるな草十郎も、今の羽音は聞き過ごせなかった。
+-- TRANSLATION HERE
+}
+[sha:37034507bee4ae8114ced98c671b183a54736767]{
+-- Page 2, Offset 661.
+-- 一羽や二羽の話ではないのだ。
+-- TRANSLATION HERE
+}
+[sha:73d632c34c8507f3a6e02cedea2eeadeaa4c4cc4]{
+-- Page 2, Offset 662.
+-- 十羽単位の鳥がサンルームに突撃したとすれば、窓ガラスとて無事では済むまい。
+-- TRANSLATION HERE
+}
+[sha:72955ea59e8f8350fd4d6b1eff03d6a95449db5a]{
+-- Page 2, Offset 663.
+-- いてもたってもいられず、草十郎はちり取りと<箒|ほうき>を手にして走りだした。
+-- TRANSLATION HERE
+}
+[sha:cd32f6a9f294bc2dfb16eeb7d99318b254a18716]{
+-- Page 2, Offset 664.
+-- 生来の小姑根性か、せいいっぱいの自己防衛か。
+-- TRANSLATION HERE
+}
+[sha:463903c0c647ed621e4bb834350dd3c07c13cf04]{
+-- Page 2, Offset 665.
+-- 今日の授業でたまたま、
+-- TRANSLATION HERE
+}
+[sha:eadeda9c1c406b7a2c4317416f7641a35109f420]{
+-- Page 3, Offset 666.
+-- 「皆さんも部屋の整頓は心がけてくださいね。人間の自制心って環境に流されるらしいですから。
+-- TRANSLATION HERE
+}
+[sha:16ddf2cb502193bf8d0d93e3026cccc0d8e9e681]{
+-- Page 3, Offset 667. Glued. Mods: @x.
+-- ほら、それまで犯罪の少ない街だったのに、一つボロボロの家が出来ただけで近隣住人がみーんな自堕落になるというアレ。
+-- TRANSLATION HERE
+}
+[sha:4198eac129d1fda8635f2a0d25690b04b48d5c9e]{
+-- Page 3, Offset 668.
+-- 環境への無関心さがすさんだ精神を作り上げるとか眉唾ですけど、正直なところ、ブームだからって盗んだバイクで走り回ったり、学校の廊下の窓ガラスとか割ってまわっちゃダメですよ。先生の仕事が増えますから」
+-- TRANSLATION HERE
+}
+[sha:74448c94d1b9d835fda2408f90ec29c282b4b454]{
+-- Page 4, Offset 669.
+-- 時に、校内暴力がある種の若者にとってステータスになっていた時代の話である。
+-- TRANSLATION HERE
+}
+[sha:b0b0912490dae18075d3aaaa6733ac3a45e1bfd9]{
+-- Page 5, Offset 670.
+-- 「窓が割れると、心が荒れる」
+-- TRANSLATION HERE
+}
+[sha:ce31e9f2bf766c76d68c28a1864afb8b57e37857]{
+-- Page 5, Offset 671.
+-- 草十郎はなるほど、と今日聞いた話を<反芻|はんすう>する。
+-- TRANSLATION HERE
+}
+[sha:bf8e5f970d8cc3db55a4e4c6b77a5e0ceaff3698]{
+-- Page 5, Offset 672.
+-- 割れ窓理論を聞いていた彼にとって、洋館内のモラル低下は放っておけない。
+-- TRANSLATION HERE
+}
+[sha:b6252caf797f89bdbaec30bbd322ae0bffc6e2f4]{
+-- Page 6, Offset 673.
+-- ……同居人は<既|すで>にして十分なほど凶暴だが、これ以上<横暴|おうぼう>さが増しては、なにより本人の為にならない。また学校でよからぬ噂が流れてしまう。
+-- TRANSLATION HERE
+}
+[sha:80b6651e9d93686118846a02cbf6766f2f85d390]{
+-- Page 6, Offset 674.
+-- 我らが生徒会長の名誉を守る為。
+-- TRANSLATION HERE
+}
+[sha:0bbcc3a1cb1e44f7ec2099f8800a0273f4c3e7ee]{
+-- Page 6, Offset 675.
+-- ひいては実害から自分の身を守る為、草十郎はサンルームの掃除に向かったのだが―――
+-- TRANSLATION HERE
+}
+[sha:a0310cda6ff2f026c5f7d12889af0349a2302edb]{
+-- Page 7, Offset 676.
+-- 「む？」
+-- TRANSLATION HERE
+}
+[sha:f2dc2037118b8820678069c5d1772c4051ddd752]{
+-- Page 7, Offset 677.
+-- この通り、サンルームには鳥の姿はおろか、鳴き声さえ有りはしなかった。
+-- TRANSLATION HERE
+}
+[sha:112faa340b619917fe8e498bc52e9513b38ca15a]{
+-- Page 8, Offset 678.
+-- 「あら」
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 8, Offset 679.
+-- 「――――――」
+-- TRANSLATION HERE
+}
+[sha:f13448ef586a6fc5557101d44d934d122f6ea09e]{
+-- Page 8, Offset 680.
+-- 中庭を<臨|のぞ>むテーブルには、午後のお茶を<愉|たの>しむ蒼崎青子と久遠寺有珠の姿のみ。
+-- TRANSLATION HERE
+}
+[sha:d69dab3040934a38348eb549b01c086b1a0310bc]{
+-- Page 8, Offset 681.
+-- 草十郎ソナー探知で十八羽は居たであろう鳥の気配はどこにもない。
+-- TRANSLATION HERE
+}
+[sha:cf22494723b11f633cc23a11ab043568348e760a]{
+-- Page 9, Offset 682.
+-- 「いまここに鳥がこなかった！？」
+-- TRANSLATION HERE
+}
+[sha:33ccfc0b6f4d25abbd01fcee6afdbd941d158dab]{
+-- Page 9, Offset 683.
+-- 「有珠、見た？」
+-- TRANSLATION HERE
+}
+[sha:0ea73532ce249a401c55280358a94ce9607cac68]{
+-- Page 9, Offset 684.
+-- 「さあ。もう見えないのなら、いないという事でしょう」
+-- TRANSLATION HERE
+}
+[sha:4936fd65a2737e6b89b8f3df90676ccb87f59e52]{
+-- Page 9, Offset 685.
+-- 「だって。いないよ、鳥」
+-- TRANSLATION HERE
+}
+[sha:a82292f12b04d099dac4f312ccaecf353d7f8c4e]{
+-- Page 9, Offset 686.
+-- 草十郎ですら感じ取れる、<清々|すがすが>しいまでの嘘である。
+-- TRANSLATION HERE
+}
+[sha:85fd02f24d8711112ea2cf3b433153238ff67a7b]{
+-- Page 10, Offset 687.
+-- 「そんなバカな」
+-- TRANSLATION HERE
+}
+[sha:fcbb660d199255785d853b2eee003a80441ff442]{
+-- Page 10, Offset 688.
+-- さっきの羽音は聞き間違いではない。
+-- TRANSLATION HERE
+}
+[sha:3de16a6192b4eafaf517ce94f64b89c9a8acdf36]{
+-- Page 10, Offset 689.
+-- こと野生動物の生態については<一家言|いっかげん>あるのか、草十郎は急ぎ足で窓まで移動し、ますます眉を<曇|くも>らせた。
+-- TRANSLATION HERE
+}
+[sha:7475f4dd1dffb634c24bea797c4c65fd42fee7fa]{
+-- Page 10, Offset 690.
+-- 窓ガラスには鳥の跡はおろか、羽の一枚すら落ちていない。
+-- TRANSLATION HERE
+}
+[sha:a1a58bd41ce912dd4cf613deacf2fea4384061d8]{
+-- Page 11, Offset 691.
+-- 「あ。夕食、<鶏|とり>鍋？」
+-- TRANSLATION HERE
+}
+[sha:445d79a11b0dee496e83e49497a81fb121b03535]{
+-- Page 11, Offset 692.
+-- 鳥を探す草十郎を見て、なぜその発想にいきつくのか。
+-- TRANSLATION HERE
+}
+[sha:46dfd32cf2de9622742b8b9cfa9ba1c67f700526]{
+-- Page 12, Offset 693.
+-- 「あいにく、今日のバイトは魚屋さんだ。<鰯|いわし>でよければ土産にするけど」
+-- TRANSLATION HERE
+}
+[sha:24f1fcc7336206118f40a14a37315c27af1e08b4]{
+-- Page 12, Offset 694.
+-- 「鰯……鰯か……私、あのパイ嫌いなのよね……。
+-- TRANSLATION HERE
+}
+[sha:6a9b8b51b94d5397b31f49671f1148db0186d8a1]{
+-- Page 12, Offset 695.
+-- いえ、むしろ鰯のパイとか食べたコトないのよね……」
+-- TRANSLATION HERE
+}
+[sha:0c2c09d4f9b883c0e076ff48d29ede9b431d2127]{
+-- Page 13, Offset 696.
+-- 青子の<独|ひと>り芸は、この時代ではあまりに高度すぎたようだ。
+-- TRANSLATION HERE
+}
+[sha:cdc99bae44bee43d5b41a9d4d94d1c244cc8db2d]{
+-- Page 13, Offset 697.
+-- 草十郎は窓ガラスから離れ、とぼとぼサンルームを後にし、
+-- TRANSLATION HERE
+}
+[sha:abb59152e40806cb3cea8d8b4b9ec544157ffc9a]{
+-- Page 13, Offset 698.
+-- 今まで幾度とあった、有珠からのよく分からない視線を感じた。
+-- TRANSLATION HERE
+}
+[sha:26fe7071fe52b4fdd8fd17f8b078460b4188d1f0]{
+-- Page 14, Offset 699.
+-- 「なんだい、<有|アリ>―――」
+-- TRANSLATION HERE
+}
+[sha:7f4ddf4412f046fb8acf5c4a8a3d36419ffacc2c]{
+-- Page 14, Offset 700.
+-- 何か聞きたい事でもあるのだろうか、と声をかけ、
+-- TRANSLATION HERE
+}
+[sha:b7c90c3ed85460c79462acb5e4131acc16da155d]{
+-- Page 15, Offset 701.
+-- 「あいたっ」
+-- TRANSLATION HERE
+}
+[sha:eda7c7553e9e163ca5f2e1c999dccc358e705d68]{
+-- Page 15, Offset 702.
+-- そんな草十郎の頭部に、青い流星が直撃した。
+-- TRANSLATION HERE
+}
+[sha:08b392f53855cfa68050cb053db6e229e269d5a1]{
+-- Page 16, Offset 703.
+-- 流星の正体は言うまでもない。
+-- TRANSLATION HERE
+}
+[sha:ec71160e84f562efbcb956e06669dbdd10ee6f56]{
+-- Page 16, Offset 704.
+-- 洋館に出没する謎の駒鳥である。
+-- TRANSLATION HERE
+}
+[sha:d4b24e8b3a807a5aff59ea94ad1c3c0c8dc12c54]{
+-- Page 17, Offset 705.
+-- チチチチチチ、と甲高く駒鳥は<訴|うった>える。
+-- TRANSLATION HERE
+}
+[sha:6cad664020060861ca99e2defccb64c695b0d86f]{
+-- Page 17, Offset 706.
+-- ……実のところ。
+-- TRANSLATION HERE
+}
+[sha:5c16b01fa01088079aa03a50ff57faf9df77b1e8]{
+-- Page 17, Offset 707.
+-- 草十郎に激突するコレこそが洋館の七不思議、その最たるものだった。
+-- TRANSLATION HERE
+}
+[sha:4f7f653a8ee85a218a25b91220a38e91801dd789]{
+-- Page 18, Offset 708.
+-- アルバイトに向かう途中、多くの人々とすれ違う。
+-- TRANSLATION HERE
+}
+[sha:9a22a65042bf0e007cb3e833637c7596491cc54e]{
+-- Page 18, Offset 709.
+-- まだ都会慣れしていない草十郎にとって、駅前通りの人の流れは圧巻だ。
+-- TRANSLATION HERE
+}
+[sha:25357f52d69a76db28ca6c4a1b176e89ddaf5243]{
+-- Page 18, Offset 710.
+-- 誰一人として、同じ服装や歩き方の人間がいない。
+-- TRANSLATION HERE
+}
+[sha:5db613daebcd26b90f4686a331edbf24063e0034]{
+-- Page 18, Offset 711.
+-- ここまで人が多ければ似たような外見の人間がいそうなものだが、ただの一人も<被|かぶ>っていない。
+-- TRANSLATION HERE
+}
+[sha:407e20691acc753b6cd00b5250d643f1e3b49327]{
+-- Page 18, Offset 712.
+-- 多種多様な街の<賑|にぎ>わいに、子供のように感心してしまう。
+-- TRANSLATION HERE
+}
+[sha:007d47b7192144144b3b1044e3824f1316737b0d]{
+-- Page 19, Offset 713.
+-- 「―――いや」
+-- TRANSLATION HERE
+}
+[sha:c80552f615b73b5e6958565a70ff62b513c76793]{
+-- Page 19, Offset 714.
+-- 草十郎は目を閉じて反省した。
+-- TRANSLATION HERE
+}
+[sha:44859ec28b5edcb6b21cca466891e01deaaf7eeb]{
+-- Page 19, Offset 715.
+-- こんな事で感心しているようじゃまだまだ田舎者だ、とため息をつく。
+-- TRANSLATION HERE
+}
+[sha:8bc07e38bbc3c8331e58d25fd90332342d4d50b7]{
+-- Page 20, Offset 716.
+-- 「ちょっと。青信号で突っ立ってられるの、邪魔なんだけど。なにガラにもなく<黄昏|たそが>れてるんだか」
+-- TRANSLATION HERE
+}
+[sha:252471248e29af6d62879c37fcb31fdc0b0361ee]{
+-- Page 20, Offset 717.
+-- と。ややセンチになっていた背中に、聞き覚えのある、刺々しい声がかけられた。
+-- TRANSLATION HERE
+}
+[sha:16ac6aa8ec63d35f53dc9b0ddfe3f7aec5a216ef]{
+-- Page 21, Offset 718.
+-- 「なんだ、まっどべあに行く途中だったんだ。
+-- TRANSLATION HERE
+}
+[sha:b4af35ed557eed988000ee4436d5470ac416dfc9]{
+-- Page 21, Offset 719.
+-- ……ふーん。わたしはコンビニのバイト。こっちは五時からだけど、静希は？」
+-- TRANSLATION HERE
+}
+[sha:28cf54dd260b92e5c8fb44b90bf3ebab03222318]{
+-- Page 21, Offset 720.
+-- 「同じく五時から。<久|く><万|ま><梨|り>はどこか寄るところでも？」
+-- TRANSLATION HERE
+}
+[sha:74cdb834212c007420c267a780980cce5de1e69d]{
+-- Page 22, Offset 721.
+-- 「本屋に寄った帰り。読みたかった本がなくなってたから、仕方なく出歩いてたところよ」
+-- TRANSLATION HERE
+}
+[sha:1628b525e9880b866bab47fba70931c35cfe0a80]{
+-- Page 22, Offset 722.
+-- 「なるほど。時間を持て余しているところも同じだね」
+-- TRANSLATION HERE
+}
+[sha:48b96017abb903991a34b916206cb8e226c50b60]{
+-- Page 23, Offset 723.
+-- 声をかけてきたのはバイト先の知り合いでもあり、同期生でもある<久万梨|くまり><金鹿|こじか>だった。
+-- TRANSLATION HERE
+}
+[sha:5640bb5c6fa7e365c5081702f2a888b2519fcd5a]{
+-- Page 23, Offset 724.
+-- 声をかけてきた、というよりは因縁をつけてきた、という表現の方が正しいのだが。
+-- TRANSLATION HERE
+}
+[sha:6e6d8de2648b91cc734cc28f3b129277b985a626]{
+-- Page 24, Offset 725.
+-- 久万梨は草十郎にとってはじめての先輩でもある。
+-- TRANSLATION HERE
+}
+[sha:9dbf2f1dc8f6b10b32a36e2454cf047efaca4199]{
+-- Page 24, Offset 726.
+-- 最初のアルバイト先で知り合い、
+-- TRANSLATION HERE
+}
+[sha:8f6cdd2c88549e8b26ffc674ae5961a574b53a52]{
+-- Page 24, Offset 727.
+-- レジ打ちを間違え続けた事からコンビニは向いてないから辞めろと本気で軽蔑され、なぜか最後に、
+-- TRANSLATION HERE
+}
+[sha:48fae699e9951e44f95a9707d2eb577c080ebcfd]{
+-- Page 24, Offset 728.
+-- “こっちの方が貴方に向いてる”と<中華飯店|まっどべあ>を紹介してくれた人物だ。
+-- TRANSLATION HERE
+}
+[sha:93c5ffcc97c26895cb1c792311c57015fdac20d9]{
+-- Page 25, Offset 729.
+-- 「なにその無理矢理な顔。なんか元気ない。いつも以上にイラっとくるわ。
+-- TRANSLATION HERE
+}
+[sha:7bb6120d108986d4c860e5059dcd4cb150ace90c]{
+-- Page 25, Offset 730.
+-- 静希のいいところなんて、いつもピシッとしている背筋ぐらいなのに、みっともなく丸まってるし。
+-- TRANSLATION HERE
+}
+[sha:da53842284c592ffbe7fa25b13a4267a1d4dca1e]{
+-- Page 25, Offset 731.
+-- もしかして悩みとかあるの？　……まっどべあに質の悪い先輩でもいるとか。それなら話ぐらいは聞いてあげるから、言ってみたら？」
+-- TRANSLATION HERE
+}
+[sha:b413866d7b9dd3ca4c79cbc7793b2672134f5fe6]{
+-- Page 26, Offset 732.
+-- 態度こそ厳しいものの、久万梨の目は真剣である。
+-- TRANSLATION HERE
+}
+[sha:abe606f5880947f8d0657cf3064acb71ba701b20]{
+-- Page 26, Offset 733.
+-- 都会育ちの久万梨にとって、静希草十郎という人間はそのすべてが癪に障るらしい。
+-- TRANSLATION HERE
+}
+[sha:9e622bee0b1046f9ce415d8f0025a00fdd05ec07]{
+-- Page 26, Offset 734.
+-- が、それはそれとして、彼女は草十郎を対等の知人として捉えている。
+-- TRANSLATION HERE
+}
+[sha:304e47576cf9f26353bb3b61c0d9bcf2648f07b2]{
+-- Page 26, Offset 735.
+-- バイト先を紹介してくれたのも、そういう彼女の生真面目さ故だった。
+-- TRANSLATION HERE
+}
+[sha:ac199c6c03896e25be7a753bd6160e911e8de275]{
+-- Page 27, Offset 736.
+-- 「いや、別に悩みとかそういうんじゃなくて。不思議なコトがあったというか、珍しいものを見たというか……」
+-- TRANSLATION HERE
+}
+[sha:77e90390cd0b87fd7f34db5d393e8c55b8d028d4]{
+-- Page 28, Offset 737.
+-- どう説明するべきか考えながら、草十郎は用件だけを口にした。
+-- TRANSLATION HERE
+}
+[sha:e8d98e59761893e7b25a4aa3dc7d5a858f39adb6]{
+-- Page 28, Offset 738.
+-- まっどべあには何の問題もない。
+-- TRANSLATION HERE
+}
+[sha:5b34fb11d272ed3306de861ce761e255fdf7c49f]{
+-- Page 28, Offset 739.
+-- 商店街の<魚達|ウオタツ>と同じぐらい好い職場だ。
+-- TRANSLATION HERE
+}
+[sha:4369a1373be6d8d5273cb15d81b39c3d15849517]{
+-- Page 28, Offset 740.
+-- そういった仕事の話とはまったく関係なく、
+-- TRANSLATION HERE
+}
+[sha:8357e5eb1ef2a1135b86a004fdc660aab8ef47ff]{
+-- Page 28, Offset 741.
+-- 最近、青い鳥によくつっつかれるのだと。
+-- TRANSLATION HERE
+}
+[sha:2a79f6060eb27ba8edd5464ee5ab413f16a397d5]{
+-- Page 29, Offset 742.
+-- 「鳥につっつかれる？　なにそれ、小さい悩み。
+-- TRANSLATION HERE
+}
+[sha:660e0ec2d4ec2797d205244ab1ee75b04f1035f1]{
+-- Page 29, Offset 743.
+-- ……でもまあ、青い鳥っていうのは確かに珍しいわね」
+-- TRANSLATION HERE
+}
+[sha:f93bb560b9fee0ed7f2bc6d2efaac9b810e4d51e]{
+-- Page 29, Offset 744.
+-- 「いや、珍しいのは外見の話じゃなくて……」
+-- TRANSLATION HERE
+}
+[sha:e88c73e8a9b55a34c6ef6de3bd8627f35a2962d1]{
+-- Page 29, Offset 745.
+-- うまく説明できず言いよどむ。
+-- TRANSLATION HERE
+}
+[sha:dd412938fd7a5ad23cea0b49750c027a49b92e5e]{
+-- Page 29, Offset 746.
+-- あの青い鳥の、でっぷりとした外見や鳴き声を、人語でどう表現したものだろうか？
+-- TRANSLATION HERE
+}
+[sha:dbb7f5054a250aa76ba94c4dcf4ea090014f2c99]{
+-- Page 30, Offset 747.
+-- 「……ふーん。綺麗な青色といったらマウンテンブルーバードだけど、日本にはいないわよね。
+-- TRANSLATION HERE
+}
+[sha:602b9ca8a97bbc7082beca0872fccaa72917e8b1]{
+-- Page 30, Offset 748.
+-- 青いツバメだったらいるかもしれないけど」
+-- TRANSLATION HERE
+}
+[sha:53fc921ac99dad6b451de6745b1c93fa752d76af]{
+-- Page 30, Offset 749.
+-- 「いや、ツバメじゃなくて、丸っこいんだ。図鑑で調べたんだけど、どうもコマドリっぽい。けど」
+-- TRANSLATION HERE
+}
+[sha:2a52a8322416eb132f56b3d660337beaa81163bd]{
+-- Page 31, Offset 750.
+-- 「うん、青色のコマドリは存在しない。
+-- TRANSLATION HERE
+}
+[sha:839a9431128254024db49bbfbc855d3d142a93bc]{
+-- Page 31, Offset 751.
+-- ……静希は縁日の青ひよこって知ってる？　知らないわよね。いい、そう面白い話じゃないから忘れて。
+-- TRANSLATION HERE
+}
+[sha:c02b3ddcc6f3c9dedc45213ff417411f32329b45]{
+-- Page 31, Offset 752.
+-- それより、そのコマドリって一羽だけなの？」
+-- TRANSLATION HERE
+}
+[sha:bcb3df8cae7c83f22d4420b750ee2e7c1d2ac65f]{
+-- Page 32, Offset 753.
+-- 「ああ、一羽だけだ。つがいは見あたらない」
+-- TRANSLATION HERE
+}
+[sha:a6f28d61ff61317dff1f125096dddab1bd62cf00]{
+-- Page 32, Offset 754.
+-- 「ふーん。突然変異だとしたらちょっと可哀想ね。
+-- TRANSLATION HERE
+}
+[sha:8ca895e56782d0ef14281ae9d7d69b08450bb2ea]{
+-- Page 32, Offset 755.
+-- ……生まれた時から最後の一羽だなんて、孤独にもほどがあるわ。
+-- TRANSLATION HERE
+}
+[sha:43cefaf0073eb02cab230fcc7de00f6882e2bfea]{
+-- Page 32, Offset 756.
+-- どんな鳥かは知らないけど、次に見かけたら優しくしてあげたら？　自販機で十円を拾う、ぐらいの幸運は運んでくれるかもよ」
+-- TRANSLATION HERE
+}
+[sha:c6fa3cd17fa96e53a4290495dd9f912f5d8c68e7]{
+-- Page 33, Offset 757.
+-- 久万梨の言い分は優しさあふれるものだが、あの駒鳥につっつかれる草十郎としては、何とも頷きがたいものだった。
+-- TRANSLATION HERE
+}
+[sha:1a665243a193964c77a409fca797a88bc94254f2]{
+-- Page 33, Offset 758.
+-- そもそも孤独なんて、あの駒鳥にもっとも似合わない表現ではないだろうか？
+-- TRANSLATION HERE
+}
+[sha:c8c9e2618b9aaf236ce01232fd88e40ad2273404]{
+-- Page 34, Offset 759.
+-- 「いいじゃない、小鳥一羽ぐらい。
+-- TRANSLATION HERE
+}
+[sha:a53e301b5b4b783277b36055fc2e24ff1f575d65]{
+-- Page 34, Offset 760.
+-- そりゃ都会で鳥につつかれるのは珍しいけど、いい方の珍事よ、それ。これがゴミ袋をあさるカラスの大軍だったら困りものでしょうけど」
+-- TRANSLATION HERE
+}
+[sha:3bd35a080f1b1d471f0a508fa9bde523fbfdb4bd]{
+-- Page 34, Offset 761.
+-- 「あ。そういえば、他にも気になる事が」
+-- TRANSLATION HERE
+}
+[sha:bd5ed5c2ddc5b6e51ab7aceed367f5bb277ebcea]{
+-- Page 35, Offset 762.
+-- 久万梨の言葉から、草十郎は久遠寺邸・とり集団失踪事件を思い出した。
+-- TRANSLATION HERE
+}
+[sha:db37802fc9bab19c661c9787335dbcf36eb73cbb]{
+-- Page 35, Offset 763.
+-- あの鳥たちも不思議と言えば不思議すぎる。
+-- TRANSLATION HERE
+}
+[sha:cf177819b343ad0827af024168730f79092a90bf]{
+-- Page 36, Offset 764.
+-- 「実は今、あそこに見える丘に住んでるんだけど。
+-- TRANSLATION HERE
+}
+[sha:d3e9027598fff54ef508090f8ec685d4b9a98cb5]{
+-- Page 36, Offset 765.
+-- でるんだ、大量のムクドリが頻繁に。そのクセ、街に出ると見かけない」
+-- TRANSLATION HERE
+}
+[sha:bcef6a53a04bcb8f67d65c9f4a539595f4138bea]{
+-- Page 37, Offset 766.
+-- 「当たり前でしょ。町じゃ鳥なんて見かけないし、あそこは山だから動物は多いんじゃない？
+-- TRANSLATION HERE
+}
+[sha:bdc4dd2a38c0dffabaefda230e09da762ae74c18]{
+-- Page 37, Offset 767.
+-- それより貴方、あの山に引っ越したの？　前のアパートは引き払ったって聞いてたけど。……学校まで通うの、大変じゃない。なんだってあんな<辺鄙|へんぴ>なところに」
+-- TRANSLATION HERE
+}
+[sha:989a1bd8152281eced70283542eb2b1e965119b4]{
+-- Page 38, Offset 768.
+-- 「ちょっとした成り行きだよ。それに通うのは大変じゃない。大変なのは中の話なんだ」
+-- TRANSLATION HERE
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 38, Offset 769.
+-- 「？」
+-- TRANSLATION HERE
+}
+[sha:c86b7d1110fccae5ed792e77aa6d201e8fc63fb8]{
+-- Page 38, Offset 770.
+-- 街に出るまで徒歩三十分。
+-- TRANSLATION HERE
+}
+[sha:4e78a24312962f843d695158e1b5f9225d67c833]{
+-- Page 38, Offset 771.
+-- 近場のコンビニエンスストアまで四十分はかかる立地条件だが、草十郎にとって交通の不便さはそう問題ではない。
+-- TRANSLATION HERE
+}
+[sha:19c013ba7d8c43306e1307926b0c0da0157f3032]{
+-- Page 38, Offset 772.
+-- 問題は住んでいる建物の人外魔境っぷりである。
+-- TRANSLATION HERE
+}
+[sha:e85cb496fc150320e66643182185075dc080260a]{
+-- Page 39, Offset 773.
+-- 「すまない、それは久万梨に話すことじゃなかった。
+-- TRANSLATION HERE
+}
+[sha:219604261b7f31781b75ba791c1ac1d04c835299]{
+-- Page 39, Offset 774.
+-- それより今の話だ。町には鳥が少ないと言ったけど、どうして？」
+-- TRANSLATION HERE
+}
+[sha:0da213425cfd6d715191168198553ca2ba50b86b]{
+-- Page 40, Offset 775.
+-- 「……たんに、環境に適応できなかったのよ。
+-- TRANSLATION HERE
+}
+[sha:047ed09ab468af140c80f7abd92470a02cde97e4]{
+-- Page 40, Offset 776.
+-- なに、鳥の話には随分と食いつくわね。静希、動物好き？」
+-- TRANSLATION HERE
+}
+[sha:402ee869087b25f69917ff577490e45c48e8e413]{
+-- Page 40, Offset 777.
+-- 「どちらかというと好きな方だけど」
+-- TRANSLATION HERE
+}
+[sha:45687dd74ad8ef27c6f3e948b64bc70b3ec1b736]{
+-- Page 40, Offset 778.
+-- 「そ。わたしは嫌い。そんなわたしに鳥の話とかしてほしい？」
+-- TRANSLATION HERE
+}
+[sha:a42549d16142ffff1e0e148687d5cc0af34e0af9]{
+-- Page 41, Offset 779.
+-- 久万梨の言葉は矛盾に満ちている。
+-- TRANSLATION HERE
+}
+[sha:db23de600f13fa62f73531911822189f952cb139]{
+-- Page 41, Offset 780.
+-- 動物嫌いという彼女が、なぜ先ほど“鳥には優しく”と口にしたのか。
+-- TRANSLATION HERE
+}
+[sha:bcbb4b23a8d97f14f91e843135c8486097b887e7]{
+-- Page 42, Offset 781.
+-- 「そうだな。嫌いなだけで苦手でないのなら、知ってる範囲で聞かせてほしい」
+-- TRANSLATION HERE
+}
+[sha:6b7875b35018af8a7d411bb692ae751a59879079]{
+-- Page 42, Offset 782.
+-- 「痛いトコつくじゃない。
+-- TRANSLATION HERE
+}
+[sha:c14ed475b863a5c11c4049c19955efda72a7d255]{
+-- Page 42, Offset 783.
+-- いいわ、バイトまでの時間つぶしにしてあげる。
+-- TRANSLATION HERE
+}
+[sha:5352c24ab0435572356eadea7040b3a7fc43f390]{
+-- Page 42, Offset 784.
+-- さっきの続き。環境に適応できるかできないかってところからね」
+-- TRANSLATION HERE
+}

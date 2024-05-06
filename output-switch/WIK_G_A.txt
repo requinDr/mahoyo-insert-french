@@ -1,0 +1,1014 @@
+[sha:74171ea323b3d7ee4f59c41b5467fe09fc0ca267]{
+-- Page 0, Offset 22155.
+-- 「え？　なにって一目瞭然でしょ、あんなの。
+「Hein ? Il n'y a pas lieu de se poser la question, pourtant.
+
+}
+[sha:4f9284e662893bdb6b8851bd79127d21711e1b4c]{
+-- Page 0, Offset 22156.
+-- 手と足と顔にダイナマイトつけたんじゃないの？」
+  On lui a attaché de la dynamite sur les mains, les jambes et la tête, non ?」
+
+}
+[sha:3374592f2d88655ffbf28b6547f1956546273424]{
+-- Page 0, Offset 22157.
+-- 「ええ、当然の論理的帰結ね。
+「Oui, c'est une conclusion logique et tout à fait naturelle.
+
+}
+[sha:82ce3ac185ebfc8847cd134f07127bc8c6fa3e01]{
+-- Page 0, Offset 22158.
+-- だって手と足と顔がないんだもの」
+  Après tout, le cadavre n'avait ni mains, ni jambes, ni tête.」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 0, Offset 22159.
+-- 「………………」
+「..................」
+
+}
+[sha:c040ce2d594a69d67df7d3ef448e8c798c61b4b4]{
+-- Page 0, Offset 22160.
+-- 徹底した現実主義な為か、蒼崎はときどき、素っ頓狂な結論に辿り着く。
+  À cause de sa nature strictement réaliste, Aozaki sautait parfois à des conclusions hors normes.
+
+}
+[sha:5f1d9c5defab94220b4326222c3d41734eb27fc8]{
+-- Page 1, Offset 22161.
+-- 「その可能性もなくはないが、今回は別だ。
+「Ça aurait pu être possible, mais là, c'est différent.
+
+}
+[sha:48cecbc8202167e7c129fd86471624adce49d6a4]{
+-- Page 1, Offset 22162.
+-- 土桔の爺さんがどういう経緯であの部屋に居たかは不明だが、あの部屋で何が起きたかは分かる。<粉塵|ふんじん>爆発だ」
+  J'ignore encore ce qui a poussé le vieux Tokitsu à aller dans cette chambre, mais je sais ce qu'il s'y est produit. Une explosion de poussière.」
+
+}
+[sha:2f8cc0317db82763e363c46b067b3b4ac4cd64a5]{
+-- Page 2, Offset 22163.
+-- 「はあ？　粉塵爆発って、大気中に可燃性の石炭が舞っていて、花火とかで引火したら爆発するっていう、アレ？」
+「Quoi ? Par explosion de poussière, tu veux parler du phénomène dû à l'ignition, généralement provoquée par une étincelle, de poussières de charbon flottant dans l'air ? C'est ça ?」
+
+}
+[sha:230f5b7ca858ab34498010c8d000334a63824237]{
+-- Page 3, Offset 22164.
+-- 「大雑把に言うとそうですね。石炭にかぎらず、そこが密室で、一定量の可燃性の粉塵であれば爆発は起きるんですよ。家庭用品でいうと小麦粉ですね。
+「En résumé, c'est bien ça. Mais le phénomène ne se limite pas au charbon. Si l'endroit est un lieu confiné et s'il y a une certaine quantité de particules combustibles dans l'air, alors une explosion peut s'y produire. Pour vous donner un exemple parmi les articles ménagers, vous avez la farine de blé.
+
+}
+[sha:58ee9cf8b1a6a7887fe024d82be1e106f6deab6a]{
+-- Page 3, Offset 22165.
+-- 他には鍋の錆とアルミホイルでテルミットも作れますが、まあ、状況からして粉塵の方でしょう」
+  C'est également faisable avec de la rouille de casserole, du papier d'aluminium ou de la thermite, mais au vu de la situation, il doit s'agir de la poussière.」
+
+}
+[sha:6eab18d4593494182ab51ab20777459a617b3e09]{
+-- Page 4, Offset 22166.
+-- 「でも、ならどうして胴体だけ残ってたの？
+「Mais alors, pourquoi il ne restait que le torse ?
+
+}
+[sha:85c6b6c9e8ebaa35aa1cdd7fa085c85d9373f002]{
+-- Page 4, Offset 22167.
+-- そもそも粉塵爆発ってそんなに強いの？」
+  D'ailleurs, une explosion de poussière, c'est si puissant que ça ?」
+
+}
+[sha:93fdbdc3dd483d5d1d6b9f705dad543117d98bad]{
+-- Page 4, Offset 22168.
+-- 「そこはこれから探るところだが、爺さんのコート、あれ防弾ジャケットなのかもな。
+「On va enquêter sur la question, mais connaissant le vieux, il portait peut-être un gilet pare-balles.
+
+}
+[sha:7b3d45773bbb3e447f430e6a370f45caf151297a]{
+-- Page 4, Offset 22169.
+-- それと、死因は粉塵爆発とはかぎらない。殺した後に爆発を起こした、って線もある。爆発自体は小さいもので、手足と顔は、あらかじめ灼いてあったのかもだ」
+  Et puis, la cause de la mort n'est pas forcément l'explosion de poussière. Cette dernière a pu aussi être provoquée après le meurtre. L'explosion en elle-même était peut-être petite, et on aurait juste brûlé les membres et la tête à l'avance.」
+
+}
+[sha:e0f1f41a9b6bcff7a9657746f6eecd314f686b69]{
+-- Page 5, Offset 22170.
+-- 「そうですね。それなら爆発の音が居間まで聞こえなかった説明にもなる。
+「En effet, cela expliquerait aussi pourquoi le son de l'explosion n'est pas parvenu jusqu'au salon.
+
+}
+[sha:11ad74d068c30c6f44f89543ba8dcf34fafd30f5]{
+-- Page 5, Offset 22171.
+-- あの粉塵爆発の跡は、何らかのカモフラージュという説も捨て切れません」
+  Nous ne pouvons pas négliger la possibilité que les traces d'explosion soient une sorte de camouflage.」
+
+}
+[sha:e1e9057dc6824421ccfbd8bbb654276311071a4a]{
+-- Page 5, Offset 22172.
+-- 「カモフラージュって……何を隠すっていうんですか？」
+「Un camouflage, vous dites, mais... pour cacher quoi ?」
+
+}
+[sha:809f2cfc4bc56f1d990a7e2214a260cfcd10346d]{
+-- Page 6, Offset 22173.
+-- 「ですから、“不自然さ”をです。
+「Eh bien, ce qui n'est pas naturel.
+
+}
+[sha:b4c9d5d3a38c1f24fc8c30113b12579c179e1096]{
+-- Page 6, Offset 22174.
+-- たとえば、あの遺体が土桔氏ではなく、まったく関係のない人間の死体だったらどうです？
+  Par exemple, ce cadavre pourrait ne pas appartenir à M. Tokitsu, mais à un parfait inconnu.
+
+}
+[sha:e697f75682ebdfe719d62a3a9c3a068726e56a3a]{
+-- Page 6, Offset 22175.
+-- その場合、顔があってはあの死体が土桔氏でない事は明白です。犯人はなんとしても顔を隠したい。しかし、だからといって顔を焼いては、その行為そのものが証拠になります」
+  Dans ce cas, le visage prouverait que le corps n'est pas celui du vieil homme. Le coupable aurait voulu à tout prix cacher les traits du cadavre. Toutefois, brûler le visage jusqu'à le rendre méconnaissable donnerait un indice sur la falsification d'identité.」
+
+}
+[sha:d093cb29e0d1d3f44e47023118ad9482f64158e6]{
+-- Page 7, Offset 22176.
+-- 「なので、焼かれていても不自然ではない状態を演出する為に、あえて不自然な粉塵爆発を使って、大本の不自然さを隠した、とか。
+「Par conséquent, afin de mettre en scène un corps dont les brûlures ne paraîtraient pas étranges, le coupable aurait caché l'indice le plus important en provoquant à dessein une explosion de poussière étrange. Par exemple.
+
+}
+[sha:e8c61a6851dc796845a27298617a3ab6faa0d23d]{
+-- Page 7, Offset 22177.
+-- 大きな嘘の前には、小さな嘘が消えてしまうというヤツですよ」
+  Les petits mensonges s'effacent face à un grand mensonge.」
+
+}
+[sha:529b3f11845ce34791e7a3ad77a23843361b6c9d]{
+-- Page 7, Offset 22178.
+-- 「うう……それも言いたかった、言いたかったのにー」
+「Snif... Ça aussi, je voulais le dire, c'est pas juste...」
+
+}
+[sha:24e00de1701011622fb69741f11846c18bb9d662]{
+-- Page 8, Offset 22179.
+-- 神父と槻司の考察に、思わず感心してしまうわたしたちだった。
+  Nous étions impressionnés malgré nous par les conjectures de père Eiri et de Tsukiji.
+
+}
+[sha:1f4ed9b4f2ca2a379fe67f5e5620b30a0b3ff1e0]{
+-- Page 8, Offset 22180.
+-- あの部屋で粉塵爆発が起きた可能性までは追及できたとしても、その先、なぜ爆発なんてものを起こしたのか、までわたしは行き着いていなかったのだ。
+  Même si j'avais conclu à la possibilité qu'une explosion de poussière se soit produite dans la chambre, je n'étais pas arrivée à la question essentielle consistant à me demander dans quel but on l'aurait provoquée.
+
+}
+[sha:f4b3e53d4d8f53d40b16d331a0359ff49fa756ca]{
+-- Page 9, Offset 22181.
+-- 「なるほど、粉塵爆発にそんな意味が」
+「Je vois. C'est donc ce que cache cette explosion de poussière.」
+
+}
+[sha:bf448b3d0e9370a8a65b26c484b2dfa72dfd91b4]{
+-- Page 9, Offset 22182.
+-- うむ、ともっともらしく頷く芳助。
+  “Hum”, acquiesça Hōsuke, face à cette hypothèse vraisemblable.
+
+}
+[sha:2180caedf4e4985b36c22aefc0e5836ec85a3e42]{
+-- Page 9, Offset 22183.
+-- 「で、ごめん。それってどういうコトなの？」
+「Et, pardon, mais qu'est-ce que ça change ?」
+
+}
+[sha:95cddc4e133a56f6b20e90936aa6091f29cab2bf]{
+-- Page 9, Offset 22184.
+-- 「とりあえず、凶器の所在を明らかにできるってコトだ。
+「Pour commencer, on peut déterminer l'emplacement de l'arme du crime.
+
+}
+[sha:6d497b1eff235eb3ec51e118d2971a5a8ccd7b52]{
+-- Page 9, Offset 22185.
+-- 草十郎、台所に小麦粉はあるか？」
+  Sōjūrō, il y a de la farine de blé dans la cuisine ?」
+
+}
+[sha:7185cd1cd8fda1401161111b28da32eb7c2eea07]{
+-- Page 9, Offset 22186.
+-- 「いま調べてる。……ないな。
+「Je suis en train de chercher... Non.
+
+}
+[sha:d07356c008efd3b0ced3f31968acd5614bf31974]{
+-- Page 9, Offset 22187.
+-- 買い置きがあったのに、袋ごとなくなってる」
+  On en avait en stock, mais le sac a disparu.」
+
+}
+[sha:cc90aa788cbb99fcc29dc9261f6123d6bcbf9e05]{
+-- Page 10, Offset 22188.
+-- 「つまり―――どういうコトだってばよ？」
+「Et donc―――ça veut dire quoi ?」
+
+}
+[sha:a7ec20b561186c10d4f333e6e5a7d140d20dc5a3]{
+-- Page 10, Offset 22189.
+-- 「誰かが台所から小麦粉を持ち出したってコトでしょ。
+「Que quelqu'un a emporté la farine de blé entreposée dans la cuisine.
+
+}
+[sha:b0d3bbd9b1a62d192b30836f0ad4fd828ed989ad]{
+-- Page 10, Offset 22190.
+-- それが示すところは―――」
+  Et cela prouve que―――」
+
+}
+[sha:797dcd559d19cb0a347dba59ffd647b5f8c8abeb]{
+-- Page 10, Offset 22191.
+-- 犯人は、この家の台所に精通している者……と考えていいのだろうか？
+  Pouvait-on en déduire que le coupable était une personne qui connaissait la cuisine de cette maison ?
+
+}
+[sha:8fbd6492d4f1d933ab753e5888d601273cda9aba]{
+-- Page 10, Offset 22192.
+-- それとも、そう思わせる為のミスリードか？
+  Ou bien s'agissait-il d'une fausse piste pour nous induire en erreur ?
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 11, Offset 22193.
+-- ……と。
+  ... Soudainement,
+
+}
+[sha:844d772dc4bdb4ad0a997ef449515260d4be415b]{
+-- Page 11, Offset 22194.
+-- 今まで何処に行っていたのか、青い駒鳥がパタパタと居間に舞い戻ってきた。
+  le rouge-gorge bleu, qui avait disparu quelque temps auparavant, revint d'un battement d'ailes dans le salon.
+
+}
+[sha:464f6e5de0d27c88854d463ebd0f699944f11be2]{
+-- Page 11, Offset 22195.
+-- 駒鳥は久遠寺さんの肩に留まり、チチチ、と甲高い声をあげる。
+  Il se posa sur l'épaule de Kuonji et émit un gazouillis perçant.
+
+}
+[sha:8efadd5e9719a3f127e73434936e9a1541d68a52]{
+-- Page 12, Offset 22196.
+-- 「まあ」
+「Ah.」
+
+}
+[sha:4dd8c3cb4c71c103d67a5cffe81875223b238650]{
+-- Page 12, Offset 22197.
+-- 久遠寺さんはソファーから立ち上がると、ぐるりと一同を見渡した。
+  Kuonji se leva du sofa et promena son regard sur les personnes présentes.
+
+}
+[sha:4d04137f5cb27bc1ffeb7d95012bb65706837159]{
+-- Page 13, Offset 22198.
+-- 「真剣に討論をしているところ申し訳ないのだけど、皆さんにたいへんなお知らせがあります。
+「Je suis désolée de vous interrompre alors que vous débattez sérieusement, mais j'ai une terrible nouvelle à vous annoncer.
+
+}
+[sha:961c806a75431bc80d3826b7bf44bd86f0434cd7]{
+-- Page 13, Offset 22199.
+-- その前に。静希君、少しいい……？」
+  Mais avant cela, Shizuki, puis-je te dire un mot...?」
+
+}
+[sha:d84255bc3e918de600da4e6bf7bf1fc7f4bfea4a]{
+-- Page 14, Offset 22200.
+-- 久遠寺さんは静希を手招きして小声で話しかける。
+  Kuonji fit un signe de la main à Shizuki et lui parla à voix basse.
+
+}
+[sha:32158300013968d97e61cba964b18e0907d9b2dc]{
+-- Page 14, Offset 22201.
+-- 「ちょっと。そこ、近いんじゃないの？
+「Hé, vous deux ! Vous n'êtes pas un peu trop proches ?
+
+}
+[sha:4de238a4b4e17364b52cb523938b346f4a82491c]{
+-- Page 14, Offset 22202.
+-- 隠し事とか、感じ悪いんだけど」
+  C'est dégueulasse de faire des messes basses.」
+
+}
+[sha:902e2fa811d4d368f15a69b95809689d79b8312f]{
+-- Page 15, Offset 22203.
+-- 「ごめんなさいリデル。でも、その前に静希君から貴女に、とっておきの小話があるそうよ。
+「Désolée, Riddell. Mais avant de vous expliquer, Shizuki aurait une anecdote toute spéciale à te raconter.
+
+}
+[sha:095bda71024ca25108e0c5668edb41c1a3fc58b1]{
+-- Page 15, Offset 22204.
+-- きっと素敵な話だろうから、聞いてみてあげて」
+  C'est probablement une histoire merveilleuse, alors écoute-la attentivement.」
+
+}
+[sha:2703273f289216764b3890f58d837080a45ef550]{
+-- Page 16, Offset 22205.
+-- 「ああ。こんなコトでいいなら、是非聞いてほしい。
+「Oui. Si une chose aussi simple peut te faire plaisir, je serais heureux que tu l'écoutes.
+
+}
+[sha:5f433c6965f0dc3986de66cff468f218ddc82548]{
+-- Page 16, Offset 22206.
+-- リデルの心を打つコト請け合いだって、有珠が。君には何度か助けられたし、喜んでもらえるなら俺も嬉しい」
+  D'après Alice, ça te touchera en plein cœur, c'est sûr et certain. Tu m'as sauvé à plusieurs reprises, alors si ça peut te rendre heureuse, je le serai aussi.」
+
+}
+[sha:ef7ad0a974bd7adb5fb210f6392e2664d1766284]{
+-- Page 17, Offset 22207.
+-- 「っ……い、いいじゃない、聞いてあげるから言いなさいよ」
+「... Tr... Très bien ! Je t'écoute, alors parle !」
+
+}
+[sha:e0d35636be60c115882fcd02c347dead0a3fbdbc]{
+-- Page 17, Offset 22208. Mods: @k, @e.
+-- 「ジュッティム。ジュテェーム、モナムゥー」
+「I love you. I love you, my love.」
+
+}
+[sha:c55b82f406a46e151e1d07a56e70f51bb9868551]{
+-- Page 17, Offset 22209.
+-- 「は……？」
+「Hein...?」
+
+}
+[sha:14158fbc09995d4004677297c7236988f62cf37c]{
+-- Page 18, Offset 22210.
+-- 「って、なにそれ、おっかしいの、似合わない！
+「D'où tu sors ça ? C'est trop drôle ! Ça ne te ressemble pas du tout !
+
+}
+[sha:860e5c13fd09e4c7307c88cd87888d3a43a0fe29]{
+-- Page 18, Offset 22211. Mods: @k, @e.
+-- ソウジューロー、アリスに遊ばれてるってば、いまの台詞、どんな意味だかわかっ―――
+  Sōjūrō, Alice se moque de toi ! Connais-tu seulement le sens de cette phra―――
+
+}
+[sha:b9b1a45d8485a4439ffa7fe343c0bc44f2948255]{
+-- Page 18, Offset 22212. Glued. Mods: @x.
+-- ぐはっ！？」
+Kof ?!」
+
+}
+[sha:4d96755c242f89e4ce3bb6625feed4cbc13de1d3]{
+-- Page 19, Offset 22213.
+-- 「ちょっ、いきなり<吐血|とけつ>して倒れこんだーーーーー！？」
+「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
+
+}
+[sha:6bcb51fd0eec5ac60870770ff0e313d3155424c2]{
+-- Page 19, Offset 22214.
+-- 倒れたピンク女に駆け寄る。
+  J'accourus vers la fille en rose gisant au sol.
+
+}
+[sha:4d2d4a0f5b8c9bb6e8495da906063e383134adbd]{
+-- Page 19, Offset 22215.
+-- 脈拍、なし。呼吸、なし。
+  Pas de pouls. Pas de respiration.
+
+}
+[sha:861fa9b2fa14011f853d8f1e258ed76fb0fa1874]{
+-- Page 19, Offset 22216.
+-- 瞳孔、生体反射、なし。
+  Aucun réflexe photomoteur.
+
+}
+[sha:847e372d57a112f7fcaafa1086373aab5a77d2d1]{
+-- Page 19, Offset 22217.
+-- 「完全に死んでいるわ」
+「Elle est morte sur le coup.」
+
+}
+[sha:204676f8916d9babaa498975c5c9169edfce51aa]{
+-- Page 20, Offset 22218.
+-- 居間はちょっとした混乱状態になった。
+  Le salon sombra dans une légère panique.
+
+}
+[sha:f789a20387abac1a71916e9c99ff36909a07f330]{
+-- Page 20, Offset 22219.
+-- 驚く者、
+  Certains étaient surpris,
+
+}
+[sha:5ab71a2fb35a9a40d820dfa3a6a0e87325b801f2]{
+-- Page 20, Offset 22220.
+-- 周囲に注意を払う者、
+  d'autres se tenaient sur leurs gardes,
+
+}
+[sha:9bf9a25b5f7c99b87a6bed15ad19eb0abb445541]{
+-- Page 20, Offset 22221.
+-- まったく事態を理解できていない者。
+  et enfin, les derniers ne comprenaient rien du tout à la situation.
+
+}
+[sha:896f4bd146c06b87c0d0bbe3b6ae21ff13ea2a62]{
+-- Page 21, Offset 22222.
+-- 「やっぱり。困ったコトになったわね」
+「C'est bien ce que je pensais. Cela risque d'être fâcheux.」
+
+}
+[sha:0b2f9c3f04a4991507f6eb485eb217cd1a8fdefd]{
+-- Page 21, Offset 22223.
+-- 「どういうこと有珠、リデルのヤツ、なんで死んだの？」
+「Qu'est-ce que ça veut dire, Alice ? Pourquoi Riddell est morte ?」
+
+}
+[sha:ea0b26d4e54f83af15ef3a8c2ccdd7bc66234ffd]{
+-- Page 21, Offset 22224.
+-- 「説明するのは簡単よ。
+「C'est simple à expliquer.
+
+}
+[sha:21c6ff5131928c6881e49ec6b26ac84eef143e89]{
+-- Page 21, Offset 22225.
+-- トッキィーの殺害現場で気になる事があったから、さっきロビンに保管庫の様子を見に行かせたの。
+  Quelque chose m'a intriguée sur la scène de meurtre de Tokkii, alors tout à l'heure, j'ai demandé à Robin de vérifier le contenu du coffre.
+
+}
+[sha:9d60bf97b5c2ba1a1f0639cb4bca3d170f049140]{
+-- Page 21, Offset 22226.
+-- そうしたら一体分、プロイキッシャーが空席だって」
+  Et il s'avère qu'un Ploy Kickshaw est manquant à l'appel.」
+
+}
+[sha:7160b275e04d89b88dd186201d800e16b80d353f]{
+-- Page 22, Offset 22227.
+-- 「プロイが……？　じゃあ爺さんとリデルを殺ったのはそのプロイだって言うの？」
+「Un Ploy...? Tu insinues que c'est un Ploy qui a tué le grand-père et Riddell ?」
+
+}
+[sha:7a67b84148e5ff8b3219436e356bdbc6d65e21dd]{
+-- Page 22, Offset 22228.
+-- 「正確にはプロイのルールにひっかかった、というべきね。
+「Il serait plus juste de dire qu'ils ont enfreint ses règles.
+
+}
+[sha:deb5fa9a89d9c6a8a5eb2eed07a23d6182499a7e]{
+-- Page 22, Offset 22229.
+-- 隠していても仕方のない事だから、はっきりと言うわ。
+  Ça ne sert à rien de le cacher, alors je vais le dire clairement.
+
+}
+[sha:ea79dc8d4bf01c0855636c4bb3309e7be9b9ea59]{
+-- Page 22, Offset 22230.
+-- これから朝まで、笑うのは絶対に禁止よ」
+  Dorénavant, et ce jusqu'à demain matin, il est formellement interdit de rire.」
+
+}
+[sha:3316b3d8b4f4db81694e6bab79e004eb834fb71c]{
+-- Page 23, Offset 22231.
+-- 「なんで？」
+「Pourquoi ?」
+
+}
+[sha:d85103756bb67628ad0961c72817c003d8519296]{
+-- Page 23, Offset 22232.
+-- 「だって。この洋館、笑ったら死ぬ世界になったから」
+「Parce que ce manoir est à présent un monde où rire est synonyme de mort.」
+
+}
+[sha:148f63bccd7432ca46a9efd360a548504f57fc41]{
+-- Page 24, Offset 22233.
+-- 「そんなあ、笑ったら死ぬとかマジ怖いじゃん！
+「Sérieux, c'est flippant de dire ce genre de truc !
+
+}
+[sha:1da0276e23a711fbe1f0c6ebd94f4bbe89181dcf]{
+-- Page 24, Offset 22234.
+-- 有珠ちゃんったら冗談うまいんだから、ははははは！」
+  Alice, tu es drôlement douée pour les blagues, hahahahaha !」
+
+}
+[sha:db99a90bdeb6abf038a2f0531f91025824716b09]{
+-- Page 24, Offset 22235.
+-- 「ほ、芳助ぇぇーーーーえ！？」
+「Ho... HōsukeeeーーーーHein ?!」
+
+}
+[sha:d22d13badd4399e8ca6f463574c53785461e8b58]{
+-- Page 25, Offset 22236.
+-- 「……<本気|マジ>のようね」
+「...... On dirait que c'est sérieux.」
+
+}
+[sha:59f38e5ae3b9a5421cc580065ae76492ceaf605e]{
+-- Page 25, Offset 22237.
+-- 「木乃美君のおかげでよりルールが見えてきたわ。
+「Grâce à Kinomi, je comprends mieux les règles.
+
+}
+[sha:77ad40668a8ce81b00fada9903cc3b6789894ac8]{
+-- Page 25, Offset 22238.
+-- 自分から笑う分にはノーカウントで、愛想笑いも除外。
+  Lorsqu'on rit de soi-même, ça ne compte pas. Ainsi que pour les sourires de courtoisie.
+
+}
+[sha:8e13cd66a83857cd686fedf2a0f8269945eb8850]{
+-- Page 25, Offset 22239.
+-- でも人の言動や仕掛けで、心の底から笑ってしまったらアウトと判断されるのね」
+  Mais si on rit du fond du cœur à cause des actes ou de la farce de quelqu'un d'autre, le Ploy considère qu'on a enfreint les règles.」
+
+}
+[sha:c5024f5bedd7b6f48123c675df8d44cde4217a4e]{
+-- Page 25, Offset 22240.
+-- 「え……え？」
+「Hein... Quoi ?」
+
+}
+[sha:5777e9b9067dbbdf992b55669f418e17704b940e]{
+-- Page 26, Offset 22241.
+-- ちょっと、本気で、意味が分からない。
+  Attendez, je comprends vraiment plus rien.
+
+}
+[sha:4596576f060dfdad6588e105a8f8949d24009d8e]{
+-- Page 26, Offset 22242.
+-- 笑わされたら死ぬって、はい？
+  Si on nous fait rire, on meurt ? Pardon ?
+
+}
+[sha:19ca800072466f8edb27eb5bee98582a1c08d444]{
+-- Page 26, Offset 22243.
+-- 久遠寺さん、ちょっと普通じゃないと思ったけど、本気で電波な人だった？　いや、でも実際、爆笑して死亡したのが目の前に二人もいて、じゃあなに、これって本当の話なの？
+  Je me doutais que Kuonji n'était pas tout à fait normale, mais en fait, elle est vraiment folle ? Sauf que deux personnes viennent tout juste de mourir sous mes yeux après s'être esclaffées. Alors quoi ? C'est pas une blague ?
+
+}
+[sha:6e7e19f9a66452cac9a6b49de0949008637c6f2c]{
+-- Page 27, Offset 22244.
+-- 「プロイキッシャーが稼働している、というのですか。
+「Ça veut dire que le Ploy Kickshaw est actif ?
+
+}
+[sha:c109b7d4bb98ea74be15893d10298352bd383ca4]{
+-- Page 27, Offset 22245.
+-- しかし、そんな魔力の流れがあるのならシスター唯架に気付かれない筈がありません」
+  Néanmoins, sœur Yuika aurait forcément remarqué un tel flot de prana.」
+
+}
+[sha:51fb0a3fd68227ebee3b6cb5048481e5162c13b1]{
+-- Page 27, Offset 22246. Mods: @k, @e.
+-- 「これは完全潜行型のプロイ。
+「C'est un modèle de Ploy à navigation clandestine.
+
+}
+[sha:cac02e86b0b15a4d4d815c98dea4ad04ed2cdd09]{
+-- Page 27, Offset 22247. Glued. Mods: @x.
+-- それに、唯架さん」
+D'ailleurs, Yuika...」
+
+}
+[sha:948300215ac6b5f7c9aa7b89841dc0ddfb8062a5]{
+-- Page 28, Offset 22248.
+-- 「はい。久遠寺邸の中で魔力の<多|た><寡|か>を測るのは馬鹿げています。エイリ神父、私たちは一つの巨大な神秘の中にいるのです。魔力の流れなんて、この山に入った時点で測りようがありません」
+「Oui. Il serait vain de tenter de mesurer la quantité de prana dans la résidence Kuonji. Père Eiri, nous nous trouvons dans un immense Mystère. À partir du moment où nous avons mis le pied sur cette montagne, il est devenu impossible de mesurer le flot de prana.」
+
+}
+[sha:53545761f8d412f7be9e88c6702c0047c02899ee]{
+-- Page 28, Offset 22249.
+-- 「そうでしたね。……お恥ずかしい、私も混乱しているようです」
+「Vous avez raison... C'est embarrassant, il semblerait que je sois également confus.」
+
+}
+[sha:01519fac1f14536663acbb7e9920f4e5376fab42]{
+-- Page 29, Offset 22250.
+-- いや、この状況で冷静である方がおかしい。
+  Au contraire, il était bien plus étrange de rester calme dans cette situation.
+
+}
+[sha:a88a6ecd960b2568f3481845d4dce7cedbf5dc33]{
+-- Page 29, Offset 22251.
+-- 詠梨神父には冷たいイメージしかなかったけど、あの人、わりと真人間なのかもしれない。
+  Père Eiri ne me laissait qu'une image froide, mais il n'était peut-être en réalité qu'une personne affreusement sérieuse.
+
+}
+[sha:501607c34453fff366c3ae7456db452cd62ae4b1]{
+-- Page 29, Offset 22252.
+-- でもプロイってなに？
+  Mais un Ploy, c'était quoi ?
+
+}
+[sha:a353c5f3daa42f88b8f1ab36ea0355b803c5259c]{
+-- Page 29, Offset 22253.
+-- 事は完全に、わたしを置いてけぼりにして進んでいる。
+  Au fur et à mesure que les explications avançaient, je me sentais de plus en plus perdue.
+
+}
+[sha:0cf68f9fad8065b2bc507f3e996b01ffbdfa80f5]{
+-- Page 30, Offset 22254.
+-- 「……ひとついいか？　笑わされたら死ぬ、ってのはいいよ。アンタの事だ、それぐらいあるかもしれねえ。
+「... Je peux demander quelque chose ? Je veux bien admettre cette histoire de mort au moindre rire. C'est de toi qu'on parle, ça m'étonnerait pas que ce soit possible.
+
+}
+[sha:e0b4cc27a937c5c66ebd883cca9949f6247c5f90]{
+-- Page 30, Offset 22255.
+-- だが死に方が一致しないのはどういう事だ？
+  Mais pourquoi la façon de mourir n'est jamais la même ?
+
+}
+[sha:cb3aa763e99f1d603feefe074f5617dd709241d5]{
+-- Page 30, Offset 22256.
+-- 爺さんもリデルも木乃美もそれぞれ違う死に方だ。ルールと言ったが、そこはランダムなのか？」
+  Le vieux, Riddell et Kinomi sont tous morts de façons différentes. Tu as parlé de règles. Cette partie-là est laissée au hasard ou quoi ?」
+
+}
+[sha:e6ac91a1c40c71dd013845d7057405c061cf9d7d]{
+-- Page 31, Offset 22257.
+-- 「死に方は、その人の人間性によるわ」
+「La façon de mourir dépend de la nature de la victime.」
+
+}
+[sha:cebada1ab9e58d5eb8aface76a2b0adb669a720e]{
+-- Page 32, Offset 22258.
+-- 「人間性……トラウマとか本質とか、そういうのを表すの？」
+「La nature de la victime... Tu entends par là les traumatismes ou encore l'essence même de cette personne ?」
+
+}
+[sha:ce4f324e3523fcdba6c85fef771dbed1ad4d38e6]{
+-- Page 32, Offset 22259.
+-- 「ええ。隠された<性癖|せいへき>も<暴露|ばくろ>されかねないわ」
+「Oui. Les penchants secrets de la victime pourraient être dévoilés.」
+
+}
+[sha:22cfc4c3307cbfce8c0751b3718b232f39ace522]{
+-- Page 32, Offset 22260.
+-- 「ああ、そういう事だったのね……ようやく合点がいった。いくらなんでもおかしいと思ったのよ。あの死に様はそういう<絡繰|カラクリ>だったのか……」
+「Aaah, c'était donc ça... Tout s'explique. Je trouvais ça un peu trop bizarre. L'aspect du cadavre devient clair avec ce mécanisme.........」
+
+}
+[sha:f3ef61764898f8df620e5cc53e25117b8c1ae55d]{
+-- Page 33, Offset 22261.
+-- 「……木乃美くん、札束まき散らして死ぬとか、どれだけゴージャスな人生を期待していたのかしら……」
+「... Kinomi est mort en dispersant des liasses de billets. Il devait espérer une vie drôlement opulente...」
+
+}
+[sha:af9fdd15ebe11b675a4be1ba781aacf64006d935]{
+-- Page 33, Offset 22262.
+-- 「その札束もこれじゃあ救えねえがな」
+「Mais vu ces billets, c'est vraiment un cas désespéré.」
+
+}
+[sha:67313aed8fbc0327da2b38cf6f9f7cf150c32380]{
+-- Page 34, Offset 22263.
+-- 「リデルは普通なんだな。
+「En comparaison, la mort de Riddell était plutôt normale.
+
+}
+[sha:fe4bb4871d88b5b88ca96de94efde012660a1447]{
+-- Page 34, Offset 22264.
+-- 彼女の事だから、俺はてっきり飛行機とかクルーザーに変形するかと思ったのに」
+  La connaissant, j'aurais cru qu'elle se transformerait en avion ou en yacht.」
+
+}
+[sha:3bc8771332f3e0bb8b4579f38be5904b7659ca91]{
+-- Page 34, Offset 22265.
+-- 『そッスね、さすがリデルさん、見かけ倒し度がハンパないッス！　吐血して突然死とか、本気で地味すぎるっていうかぁ、木乃美のダンナ以下とか、これだから<三下|さんした>はデオチすぎて救えねぇーッス！』
+『Tu l'as dit ! J'reconnais bien là Mam'zelle Riddell, on ne peut vraiment pas se fier à son apparence ! Sa mort subite en vomissant du sang était d'un ringard. Même le petit Kinomi a fait mieux. C'est pour ça que les menus fretins sont irrécupérables !』
+
+}
+[sha:03e994c8e7718cca2c994a743fe0b5a53cd4ebb4]{
+-- Page 35, Offset 22266. Mods: @n.
+-- 「
+「
+
+}
+[sha:10c03e4b240c8c2795c3cf1abc806c7339227c68]{
+-- Page 35, Offset 22267. Glued. Mods: @n.
+-- だ、
+Qu...
+
+}
+[sha:4e3772a88f4de74118e7c626825493c26beaf05f]{
+-- Page 35, Offset 22268. Glued. Mods: @k, @e.
+-- 誰がっ、
+ Qui
+
+}
+[sha:36466d5bae98d32e3b46a9c46b0726ba4e96e442]{
+-- Page 35, Offset 22269. Glued. Mods: @x, @k, @e.
+-- 三下、
+traites-tu de
+
+}
+[sha:8fd512b660821a067b7b4d7d88e4bfbc402086b7]{
+-- Page 35, Offset 22270. Glued. Mods: @x.
+-- だっつーのっっっっ！」
+menu fretiiin !」
+
+}
+[sha:47563ceaf4a5b9165bca7528c5c0612d721df464]{
+-- Page 35, Offset 22271.
+-- 「い、生き返ったぁ！？」
+「Elle... Elle est revenue à la vie ?!」
+
+}
+[sha:03e994c8e7718cca2c994a743fe0b5a53cd4ebb4]{
+-- Page 36, Offset 22272. Mods: @n.
+-- 「
+「
+
+}
+[sha:214cc0591ad61bbe8c243f17af63e34929d0edf1]{
+-- Page 36, Offset 22273. Glued. Mods: @k, @e.
+-- 舐めんじゃ、
+Ne me sous-estimez...
+
+}
+[sha:8ec85717d57716e4ef177c2d23103b59f2aca461]{
+-- Page 36, Offset 22274. Glued. Mods: @x, @n.
+-- ないわよ！
+pas !
+
+}
+[sha:d170721314ce607ac98a6891c63af40d5ce0cfb5]{
+-- Page 36, Offset 22275. Glued.
+-- ぐっ、
+ Ggh...
+
+}
+[sha:8f138d90febb05aa256074d51e0c57059b83c4c7]{
+-- Page 36, Offset 22276. Glued. Mods: @x, @k, @e.
+-- 心臓止まったぐらいで、
+Ce n'est pas un petit arrêt cardiaque,
+
+}
+[sha:725e1163e1381740b4a52c865fe899c1a3b84725]{
+-- Page 36, Offset 22277. Glued. Mods: @x.
+-- うぐぅ、
+gh,
+
+}
+[sha:4e16c16572037141d2ebceae8efab1225db3bc7a]{
+-- Page 36, Offset 22278. Glued. Mods: @x, @n.
+-- 死んで、
+uuh,
+
+}
+[sha:d25c865f79ab0bd602f9a96cea16cccf219f731b]{
+-- Page 36, Offset 22279. Glued. Mods: @k, @e.
+-- 死んで
+ qui...
+
+}
+[sha:1ffec2404bfb5f9d5cc49ff278ca467f0af33319]{
+-- Page 36, Offset 22280. Glued. Mods: @x, @n.
+-- たまるもん、
+qui va
+
+}
+[sha:34304c8e521c8e014115bda35e58f6d0a990321b]{
+-- Page 36, Offset 22281. Glued.
+-- かっ！」
+ me tuer !」
+
+}
+[sha:230f1ffa996aa1825b00d4fd0ef708bf87ebc4ef]{
+-- Page 36, Offset 22282. Mods: @k, @e.
+-- 「うわあ……心停止を気合いで耐えた人類、初めて見ました……
+「Ouah... C'est la première fois que je vois un humain surmonter un arrêt cardiaque par la seule force de sa volonté...
+
+}
+[sha:4f4d2caa87775e81d70f6cf7fcd4bd3fbcdc0636]{
+-- Page 36, Offset 22283. Glued. Mods: @x.
+-- あの程度の笑いじゃ、リデルさんは殺せそうにありませんねー」
+On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légèreー」
+
+}
+[sha:80cc5d5311c1219196cd782053a7b89265d5bc94]{
+-- Page 37, Offset 22284.
+-- 「すごいな。今度、その<秘訣|ひけつ>を教えてほしい」
+「Incroyable ! Tu pourras m'apprendre ton secret ?」
+
+}
+[sha:4181687dab090b93d7778ce84cc79b20821f2e3f]{
+-- Page 37, Offset 22285.
+-- 「ええ、完成されたゾンビのよう。わたしは信じていたわ、リデル」
+「Oui, on aurait dit un vrai mort-vivant. Moi, en tout cas, j'y ai cru, Riddell.」
+
+}
+[sha:ef0d5e297e6110780b9c3e1ac203d994eec667ca]{
+-- Page 37, Offset 22286.
+-- 「ア、アンタたち、褒める前に謝るのが、先じゃない！？
+「Vo... Vous deux ! Vous ne devriez pas vous excuser au lieu de me féliciter ?!
+
+}
+[sha:916169b9648ab639eee8892ca5d77af7ce5c2391]{
+-- Page 37, Offset 22287.
+-- だいたい、試すならそこの<人狼|ウェアウルフ>の方が適任でしょ！？
+  D'ailleurs, ce loup-garou aurait été mieux pour un test, vous ne croyez pas ?!
+
+}
+[sha:d10cf8f1fb07f04c2880c8a32ff555a0d3acf5a6]{
+-- Page 37, Offset 22288.
+-- 殺してもほっとけば生き返るんだから！　なんでアタシを狙い撃ちなのよ！」
+  Il revient à la vie à chaque fois qu'on le tue ! Pourquoi m'avoir choisie, moi ?」
+
+}
+[sha:0d5040780ec862bbf443ca56e0996748fc7c5482]{
+-- Page 38, Offset 22289.
+-- 「え？　……だってわたしたち、ライバルなんでしょう？
+「Oh...? Eh bien, nous sommes rivales, n'est-ce pas ?
+
+}
+[sha:5ae446a9ae7d77b1680286354ba56e36ddd350b0]{
+-- Page 38, Offset 22290.
+-- なら、殺し合いをするのは当然だと思うけど」
+  Dans ce cas, c'est normal de s'entretuer.」
+
+}
+[sha:2a9da114f1f6b618e331fc2d936aec7c2c9213de]{
+-- Page 38, Offset 22291.
+-- 「え……あ、うん、そうよ、ライバルってそういうものよ。
+「Hein ? Ah, oui, c'est vrai. Les rivales agissent effectivement de cette façon.
+
+}
+[sha:14ff4490444888d397df8500a260ce898535d3ef]{
+-- Page 38, Offset 22292.
+-- や、やるじゃない。隙あらば仕掛けてくるなんて、見直したわ」
+  Tu... Tu vois quand tu veux ! J'ai déjà une meilleure opinion de toi si tu élabores une attaque dès que l'occasion se présente.」
+
+}
+[sha:4ab2c18b8c7886293dc4acc10fbf371316d3b8a4]{
+-- Page 39, Offset 22293.
+-- 「やっぱりあの女、殺しても死なない系だったか。……たまんねえな」
+「Comme je le pensais, cette fille est du genre immortel... Incroyable.」
+
+}
+[sha:c54c60f67ef186e1d77a27bb5f3cf7da76dcc88e]{
+-- Page 39, Offset 22294.
+-- そんなピンク女のホラーショウを、槻司は呆れつつもすんなり受け入れていた。
+  Bien que stupéfait, Tsukiji accepta sans broncher le spectacle horrifique offert par cette fille en rose.
+
+}
+[sha:54d2d786f1bceca0db7c79a141431464bae26784]{
+-- Page 40, Offset 22295.
+-- 「……ちょっと槻司。アンタ、今のおかしいと思わないの？　人が死んだのよ？
+「... Hé, Tsukiji. Tu ne trouves pas ça étrange ? Des personnes sont mortes, tu sais ?
+
+}
+[sha:896a5fb3af53c359f5d9e47054f3cbcca31e94ba]{
+-- Page 40, Offset 22296. Glued. Mods: @x.
+-- 芳助とか紙吹雪になって死体もないのよ？　笑ったら死ぬとか、なんだっていうのよコレ？　もしかしてわたし、とっくに夢見ちゃってる？」
+Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
+
+}
+[sha:cfe3137bd1f9450d440dbe41fa949e9f5293962d]{
+-- Page 41, Offset 22297.
+-- 「落ち着け、信じたくねえが現実だよ。
+「Calme-toi, je ne veux pas y croire moi-même, mais c'est la réalité.
+
+}
+[sha:7e30c9a6d4ffdc5425d8dea08595b5cb8a9cf398]{
+-- Page 41, Offset 22298.
+-- 久遠寺の言う通り、この洋館はそういうルールの世界になって、リデルはそれに引っかかったが、自力でルールに抵抗したってワケだ。
+  Comme l'a dit Kuonji, cette résidence est devenue un monde avec ses propres règles, et Riddell les a enfreintes, mais s'y est opposée par la force brute.
+
+}
+[sha:66d3c15203ed6ccd35be6f98118dae4817dffcd2]{
+-- Page 41, Offset 22299.
+-- 頭の痛いことだが、久遠寺とリデルはその手のオカルトがアリな奴らなんだよ」
+  Ça me fiche des maux de crâne, mais les incidents occultes ne sont pas de l'ordre de l'impossible avec des filles comme Kuonji et Riddell.」
+
+}
+[sha:f5c48c48726885f1b182cc49303651f98560419d]{
+-- Page 42, Offset 22300.
+-- 「俺も具体的には知らねえけどな。というか、踏みこんだら巻きこまれる。ギリギリ外から眺めた結果、あの二人が本物だと判断した。今はそれで納得しとけ」
+「Sauf que je connais pas les détails. Quand on pénètre dans leur monde, on se retrouve mêlé à leurs histoires. Après les avoir observés à la frontière de leur monde, j'en ai conclu que ces deux-là sont authentiques. Pour le moment, habitue-toi à cette idée.」
+
+}
+[sha:2f960736a28021ed7f30713d4dd7a7942ad18ba1]{
+-- Page 43, Offset 22301.
+-- 「納得できないっ、だって芳助死んじゃったのよ！？」
+「Je ne peux pas ! Hōsuke est mort, tu te rends compte ?!」
+
+}
+[sha:0691a59bf88e5a5145da4ad0dc26786a8c4d9ce5]{
+-- Page 43, Offset 22302.
+-- 「久万梨さん。木乃美君の死を悲しむのはまだ早いわ。
+「Kumari. Il est encore trop tôt pour pleurer la mort de Kinomi.
+
+}
+[sha:56631ea4409dfc4dd752c378e7e30f4e706a385c]{
+-- Page 43, Offset 22303.
+-- 彼やトッキィーはアウト扱いで退場しただけ。現実ではまだ“行方不明”状態よ。
+  Tokkii et lui sont considérés comme des joueurs éliminés et ont simplement été retirés de la partie. Dans la réalité, il sont seulement “portés disparus”.
+
+}
+[sha:c284cff2edefcf918a17a03b168bd5507cf0bbc2]{
+-- Page 43, Offset 22304.
+-- 誰かがこのゲームをクリアすればゲーム内容はすべて<無効|むこう>扱いになって、彼らも元通りになるわ」
+  Si quelqu'un termine la partie, tout ce qui s'est passé pendant la partie sera annulé et ils reviendront parmi nous.」
+
+}
+[sha:c7d136ec32a4fcd8cf9a42736247b0a3e317d830]{
+-- Page 44, Offset 22305.
+-- 「……死んでない？　ゲームをクリアすれば、元通りになる、ですって……？」
+「... Ils ne sont pas morts ? Si on termine le jeu, ils reviendront parmi nous...?」
+
+}
+[sha:281a2637bc5c907adb7c49dfc8f119213e854a72]{
+-- Page 44, Offset 22306.
+-- 言っている意味は分かるけど、あいにく、わたしは蒼崎同様、現実主義だ。
+  Je comprenais le sens de ses propos, mais malheureusement, j'étais du même genre qu'Aozaki : une personne réaliste.
+
+}
+[sha:0beae442c56d664682f4e7974f640e65bc293da5]{
+-- Page 44, Offset 22307.
+-- そんなＳＦ小説みたいな台詞、簡単には鵜呑みにできない。
+  Je ne pouvais pas avaler aussi facilement des phrases tout droit sorties d'un roman de SF.
+
+}
+[sha:803dc366a37f5a0a9ffbfa415294638369eff085]{
+-- Page 45, Offset 22308.
+-- 「クマ、落ち着いて。気持ちも信条も分かるけど、今は話を聞きましょう。
+「Kuma, calme-toi. Je comprends tes principes et ce que tu ressens, mais pour le moment, écoutons ce qu'elle a à dire.
+
+}
+[sha:74592ef42d0c0a94d5ab823ac2a3757a97227f55]{
+-- Page 45, Offset 22309.
+-- ……有珠、もっと詳しく話して。
+  ... Alice, sois plus précise.
+
+}
+[sha:320d79b01af7be5c34e80d4de858c1ec2f7aac4a]{
+-- Page 45, Offset 22310.
+-- プロイの仕業なのは分かったけど、具体的にどういうルールになったの？　クリアってなに？」
+  J'ai compris que c'était l'œuvre d'un Ploy, mais concrètement, quelles sont les règles ? Qu'entends-tu par “terminer la partie” ?」
+
+}
+[sha:b3cdfa6737ab79f471f7a0fdd7bc61a8ec4d2f87]{
+-- Page 46, Offset 22311.
+-- 「このプロイは確率変動型のプロイなの。
+「Ce Ploy choisit ses règles selon la fluctuation de probabilité.
+
+}
+[sha:d9f329ef6092792e24432008c08a316a881bba8a]{
+-- Page 46, Offset 22312.
+-- 使用者が定めた条件が満たされたら発動して、あとはまる一日稼働し続ける。これが『ゲーム』。
+  Si l'utilisateur remplit les conditions fixées, alors il s'active et fonctionne pendant environ une journée. C'est cette période que désigne le “jeu”.
+
+}
+[sha:d46427a171f2831a26bdccdf244f599853f9217f]{
+-- Page 46, Offset 22313.
+-- ゲーム中は現実世界に新しい『ルール』が一つ追加される。今回は『笑わされたら死ぬ』でしょうね」
+  Pendant le jeu, une nouvelle règle est ajoutée au monde réel. Dans notre cas, c'est probablement “quiconque rit d'une blague meurt”.」
+
+}
+[sha:5a77403648d464a5cdf855478a13eaa0c78b243f]{
+-- Page 47, Offset 22314.
+-- 「また、ゲーム中は区域からの脱出は困難になる。この区域から脱出する方法は二つだけ。
+「De plus, il est extrêmement difficile de quitter le terrain de jeu pendant la partie. Il n'y a que deux moyens d'en sortir.
+
+}
+[sha:4a628afb73230716b74f6137dd9261bd27fc0944]{
+-- Page 47, Offset 22315.
+-- 一つは誰がプロイの使用者なのか暴くこと。
+  Le premier est de révéler au grand jour l'identité de l'utilisateur du Ploy.
+
+}
+[sha:2d73762acdc0a263817d5dfbe29ab00848cb07e3]{
+-- Page 47, Offset 22316.
+-- ……でも軽率に犯人を指名するのは避けるべきね。
+  ...... Mais mieux vaut éviter de désigner imprudemment le coupable.
+
+}
+[sha:f8963b8a63c7074a593cdbd3ecd4d1675d8b5081]{
+-- Page 47, Offset 22317.
+-- もし間違えていたり、証拠が欠けていた場合、犯人を指名した人物も“<消滅|アウト>”になるから」
+  En effet, si une personne accuse quelqu'un mais se trompe ou manque de preuves, elle sera “éliminée”.」
+
+}
+[sha:bf9dac2a7c8b7fadd76a4aefc12ce65f7ecc88e6]{
+-- Page 48, Offset 22318.
+-- 「もう一つはゲームが終わるまで、プロイ以外の参加者が一人でもいいから生き延びること。
+「L'autre moyen consiste à attendre la fin de la partie avec au moins un survivant en dehors du Ploy.
+
+}
+[sha:212c640ddae4a94b79511a9ef682d27f4d53c56c]{
+-- Page 48, Offset 22319.
+-- このどちらでも『クリア』になるわ。クリアさえしてしまえば、何人犠牲者がでようと帳消し。みんな生き返って、ゲーム中の記憶は失う」
+  Les deux permettent de mettre un terme au jeu. Une fois terminé, peu importe le nombre de victimes, les comptes seront remis à zéro. Tout le monde reviendra à la vie et perdra sa mémoire de la partie.」
+
+}
+[sha:f4a64fdcab5a31bd35299d2ebed0fe4bfc3c73d6]{
+-- Page 49, Offset 22320.
+-- 「……どうなる事かと思いましたが、それなら問題はありませんね。このまま夜が明けるのを待てばいいのですから」
+「......... J'étais inquiète, mais si ces explications sont justes, il n'y aura pas de problème. Il nous suffit d'attendre que le jour se lève.」
+
+}
+[sha:636d4523f51db83876a7cafe5381c7b733de5b95]{
+-- Page 49, Offset 22321.
+-- シスターは安心したようだけど、わたしはそこまで楽観できない。
+  La sœur semblait rassurée, mais je ne partageais pas son optimisme.
+
+}
+[sha:a9efa43852d495132514b20ccadcdd4b38b893c8]{
+-- Page 49, Offset 22322.
+-- 状況がわたしの理解の範疇を超えている、というのもあるけど、どうしても不安がぬぐえない。
+  La situation dépassait mon entendement, mais ce n'était pas tout ; je ne pouvais pas me débarrasser de mon inquiétude.
+
+}
+[sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
+-- Page 49, Offset 22323.
+-- わたしは―――
+  Je―――
+
+}

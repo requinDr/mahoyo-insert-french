@@ -1,0 +1,360 @@
+[sha:0f2812b49049e4086b314d1ea27c3bbc22da5df2]{
+-- Page 0, Offset 23041.
+-- 二十分が経過して、まず蒼崎が戻ってきた。
+  Aozaki revint la première, après vingt minutes.
+
+}
+[sha:84c86ca104cecee45658eed63a867d51d48ba894]{
+-- Page 0, Offset 23042.
+-- 蒼崎は雨ガッパを脱いで、バスタオルで体を拭いている。
+  Elle ôta son imperméable et se sécha avec une serviette de bain.
+
+}
+[sha:4f476ba7095d827f0138130eaf17a3f6e27981e1]{
+-- Page 1, Offset 23043.
+-- 「いや、ひどい嵐だわ、こりゃ。
+「Cette tempête est monstrueuse, sérieusement.
+
+}
+[sha:1ddc9950ececf1119b7704e49fefc29ca3e825f9]{
+-- Page 1, Offset 23044.
+-- もう風っていうより壁？　周りの木が飛んでいってないのが不思議なくらい。……まあ、プロイの仕業なんだから、それぐらいアリなんだろうけど」
+  Le vent ressemble plus à un mur qu'à autre chose. C'est même étrange que les arbres ne s'envolent pas... Enfin, vu que c'est l'œuvre d'un Ploy, j'imagine que ce genre de chose est possible.」
+
+}
+[sha:129e37f0b9273a225c3fd88d66ee6a0c8f94e4c9]{
+-- Page 2, Offset 23045.
+-- 蒼崎は洋館を出て、左手方向からぐるりと洋館を回ってきたらしい。
+  Selon ses dires, Aozaki avait fait le tour du manoir par la gauche après en être sortie.
+
+}
+[sha:f00765749d6aa311fb2e3b4f42863c763ae73daf]{
+-- Page 2, Offset 23046.
+-- サンルームの前には何もなかったそうだ。
+  D'après elle, il n'y avait rien devant la véranda.
+
+}
+[sha:d1c38c5d20546d5614da70c85e420c57c26a50b0]{
+-- Page 3, Offset 23047.
+-- 「それより詠梨と草十郎は？」
+「Au fait, Eiri et Sōjūrō ne sont pas encore revenus ?」
+
+}
+[sha:a37fd1eeefa04ce56b16660bad13fca54162f499]{
+-- Page 3, Offset 23048.
+-- 「……途中ですれ違わなかったのですか？」
+「... Tu ne les as pas croisés en chemin ?」
+
+}
+[sha:18dec1055f7901d03989a5c68809033436e9d58a]{
+-- Page 3, Offset 23049. Mods: @k, @e.
+-- 「ぜんぜん。外に出る時、森の方が気になる、とか言ってたけど……
+「Pas du tout. Ils avaient l'air préoccupés par la forêt lorsqu'on est sortis, mais...
+
+}
+[sha:336021d47d1551b57e8a250127a889e48c5ed921]{
+-- Page 3, Offset 23050. Glued. Mods: @x.
+-- まさかあの二人、この嵐の中で森に入ったんじゃ……」
+ils sont quand même pas entrés dans les bois par ce temps...?」
+
+}
+[sha:43ac75957db3d93c85919ef20bfec6fa90346511]{
+-- Page 3, Offset 23051.
+-- 不安げに顔を合わせる蒼崎とシスター唯架。
+  Aozaki et sœur Yuika se regardèrent d'un air inquiet.
+
+}
+[sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
+-- Page 3, Offset 23052.
+-- そこへ、
+  C'est alors que...
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 4, Offset 23053.
+-- 「…………」
+「...」
+
+}
+[sha:19d0933b029451ad3b750ad5620f4ca70ddbd3c5]{
+-- Page 4, Offset 23054.
+-- 沈んだ顔で、ずぶ濡れの静希が戻ってきた。
+  Shizuki revint, l'air sombre et complètement trempé.
+
+}
+[sha:2d49aeb6d55f79a3ca6badf3387cb36836d5e853]{
+-- Page 4, Offset 23055.
+-- 詠梨神父の姿はない。
+  Père Eiri n'était pas avec lui.
+
+}
+[sha:89059b770ad1564c73431cd2d6d7449a56b74c36]{
+-- Page 5, Offset 23056.
+-- 「……すまない。
+「... Désolé.
+
+}
+[sha:18ae1bad09cf800940906de7956f9b0de68cebb3]{
+-- Page 5, Offset 23057.
+-- 目を離した<隙|すき>に、詠梨神父がすごく面白いコトに」
+  Père Eiri s'est retrouvé dans un drôle d'état avant que j'aie eu le temps de dire ouf.」
+
+}
+[sha:4f9b5a5ecf409463e66adb0c4e5a6f3fe891ffd1]{
+-- Page 5, Offset 23058.
+-- 悲愴な顔つきなのに、台詞だけはあいかわらず空気を読まない静希だった。
+  Malgré son air triste, ses paroles se révélaient aussi peu délicates que d'habitude.
+
+}
+[sha:81ae73a3c792d956e886ebeea23d3642131faa4b]{
+-- Page 6, Offset 23059.
+-- 「静希さん。まさか、エイリ神父が……？」
+「Shizuki. Tu veux dire que père Eiri est...?」
+
+}
+[sha:493e5d070f411e31a27d726a5c1b01cd5424dbfd]{
+-- Page 6, Offset 23060.
+-- 「……そのまさかみたいね。あの詠梨までやられるなんて……何者なのよ、一体……」
+「... On dirait bien. Et dire que même un type comme Eiri s'est fait avoir... Qui peut bien en être capable...」
+
+}
+[sha:1bca1e067ed9ce806ec3cd60f2b28509c1e80c92]{
+-- Page 6, Offset 23061.
+-- ロビーは沈黙に包まれた。
+  Le silence s'installa dans le vestibule.
+
+}
+[sha:759ff21d0f4fb7e477a3fbfcba662a4d75bca257]{
+-- Page 6, Offset 23062.
+-- 一緒にいながら神父を見失い、みすみす“犯人”の餌食にさせてしまった後悔で、静希は唇を噛みしめている。
+  Shizuki se mordait les lèvres de regret pour avoir perdu le prêtre de vue et avoir laissé le “coupable” en faire sa nouvelle victime.
+
+}
+[sha:16026aa43083a011dc981162143548e3e9311ea7]{
+-- Page 7, Offset 23063.
+-- 「？　草十郎、その手に持ってるの、なんだ？」
+「? Sōjūrō, que tiens-tu dans la main ?」
+
+}
+[sha:082218ca156154e0339591ca2653c555eb5e8734]{
+-- Page 7, Offset 23064.
+-- よく見れば、静希は手に二十センチほどの、もふもふしたものを持っていた。
+  À y regarder de plus près, Shizuki tenait une chose moelleuse d'une taille d'environ vingt centimètres.
+
+}
+[sha:6846de8e53b8c0048ebec9235a0b401907c582ca]{
+-- Page 8, Offset 23065.
+-- 「いや、館の東側……サンルームの前に落ちてたんだけど」
+「Eh bien, ça gisait du côté est du manoir... devant la véranda.」
+
+}
+[sha:595f41e908206107f940195c96db202d751e6c58]{
+-- Page 8, Offset 23066.
+-- そう言って静希が差し出したものは、金色の犬のぬいぐるみだった。額にはおかしな紋様が刻まれている。
+  Sur ces mots, Shizuki nous montra une peluche de chien dorée. Un étrange motif était brodé sur son front.
+
+}
+[sha:3e9ba99ab6da8fb903060fe8c9c15d48eb45ac39]{
+-- Page 9, Offset 23067.
+-- 「五人目の犠牲者ね」
+「La cinquième victime.」
+
+}
+[sha:253f3e18c471b2bc27cb7dc64bdb08972597776a]{
+-- Page 9, Offset 23068.
+-- 「って、それベオ！？
+「Hein ? C'est Beo ?!
+
+}
+[sha:e62d38c298ae08fd55b902d1e40f115a34b20c0d]{
+-- Page 9, Offset 23069.
+-- じゃあ、あいつがサンルームの前にいた人影！？」
+  Alors la silhouette devant la véranda, c'était lui ?!」
+
+}
+[sha:86e6c22329cfbd8b33e5c17a39b5f01282728797]{
+-- Page 9, Offset 23070.
+-- 「お……言われてみれば、たしかにベオだったな。
+「Oh... Maintenant que tu le dis, c'était effectivement Beo.
+
+}
+[sha:588248ed94000ab3d8621de73ab95cddacab5d76]{
+-- Page 9, Offset 23071.
+-- あれ？　もしかしてアイツ、俺たちに助けを求めていたのか？」
+  Tiens ? Ça voudrait dire qu'il nous demandait de l'aide ?」
+
+}
+[sha:d05b61dfeb2c30453a2b05ba27e825249704b7e2]{
+-- Page 10, Offset 23072.
+-- ……そうなると、どうなる？
+  ... Quelle conclusion pouvait-on tirer de ce fait ?
+
+}
+[sha:49129dd75547198895013ee245668c5b065fe880]{
+-- Page 10, Offset 23073.
+-- ベオはサンルームの外で犯人を見て、
+  Beo avait vu le coupable à l'extérieur de la véranda,
+
+}
+[sha:5411795dc768e3e181e7d789e6b567ab7800cb20]{
+-- Page 10, Offset 23074.
+-- 何らかの手段で笑わされて、咄嗟に部屋の中にいるわたしたちに助けを求めた……？
+  ce dernier l'avait fait rire par un quelconque moyen, et le garçon avait immédiatement sollicité l'aide des personnes présentes dans la pièce ?
+
+}
+[sha:1a6a3e4223543c138808d7fa71bb7953a30cb5e3]{
+-- Page 11, Offset 23075.
+-- そんなベオから離れよう、と言いだしたのは律架さんだ。
+  Celle qui nous avait conseillé de nous éloigner de la fenêtre était Ritsuka.
+
+}
+[sha:f720419ff4e60435f2c95fb17bfe3b1545edfe25]{
+-- Page 11, Offset 23076.
+-- 彼女は闇夜に慣れている、と言っていた。
+  Elle avait également dit être habituée à l'obscurité.
+
+}
+[sha:000fad13f5346c0698ab9b2e544da56a2cda738d]{
+-- Page 11, Offset 23077.
+-- ならあの時、律架さんには人影が笑いを堪えようとしているベオだと分かっていたのではないか……？
+  Dans ce cas, Ritsuka n'avait-elle pas compris que la silhouette n'était autre que Beo qui endurait un rire...?
+
+}
+[sha:ef309ea6f5eb4278a607b52ea9cd9290ea5d1554]{
+-- Page 12, Offset 23078.
+-- 「……ベオは何か見付けたのかもね。ひそかに一番頼りにしてたのに、痛手だわ。
+「... Beo a dû trouver quelque chose. Et moi qui comptais secrètement sur lui. C'est un coup dur.
+
+}
+[sha:10b85db855168867cbefde911dedab060113ddd3]{
+-- Page 12, Offset 23079.
+-- それで草十郎、詠梨はどのあたりでやられたの？」
+  Au fait, Sōjūrō, à quel endroit Eiri s'est fait avoir ?」
+
+}
+[sha:6d3b50031809e519d4cc158b6f24d0a4b64fc7f6]{
+-- Page 12, Offset 23080.
+-- 「西側の森だ。
+「Dans la forêt côté ouest.
+
+}
+[sha:a825016185fee6a0c4b2c91031a5bcc374871327]{
+-- Page 12, Offset 23081. Glued. Mods: @x.
+-- 何か動くものがあるって森に入っていって、すぐに笑い声が聞こえてきた。
+Il a dit avoir vu quelque chose bouger avant d'entrer dans les bois. J'ai tout de suite entendu son rire.
+
+}
+[sha:a58e0909b5c3d40661737fb854bc2a77112210a1]{
+-- Page 12, Offset 23082.
+-- その後、落雷のような悲鳴と、滝のような血が降ってきて……見上げてみたら……」
+  Après ça, j'ai entendu un hurlement qui m'a fait penser à un coup de tonnerre, du sang est tombé en cascade... et quand j'ai regardé en l'air...」
+
+}
+[sha:a4fc14fbe40293c994d7f61a612aa2ab1e49feab]{
+-- Page 13, Offset 23083.
+-- ごくり、と全員が息を呑む。
+  Tout le monde retint son souffle.
+
+}
+[sha:f990ac64aba4f9a221659feaf5205294edba936c]{
+-- Page 13, Offset 23084.
+-- あの神父さんの死に様は、よほど悲惨なものだろうと覚悟して。
+  Tout un chacun s'attendait à la description affreuse du corps du prêtre.
+
+}
+[sha:5686ce9e746dec0991f4471524cb08d9dda66a2c]{
+-- Page 14, Offset 23085.
+-- 「見上げたら？」
+「Tu as regardé en l'air, et ?」
+
+}
+[sha:7e2512639e0ce1ec07a0544bdf2550c08d568785]{
+-- Page 14, Offset 23086.
+-- 「うん。木と木の間に、蜘蛛の巣みたいにロープが張り巡らされていて。
+「Eh bien, des cordes étaient tirées entre les arbres telle une toile d'araignée.
+
+}
+[sha:e3d09beb62a1c457e30d02aef911541d0da2f8d0]{
+-- Page 14, Offset 23087.
+-- その中心で、クネクネしたポーズで死んでた。
+  Son cadavre se trouvait au centre de la toile dans une posture tortueuse.
+
+}
+[sha:dedd7b6bd9439776549efb8e0d17278d7e9f0b1a]{
+-- Page 14, Offset 23088.
+-- なんか裸になって、
+  Il était nu
+
+}
+[sha:fc163a1e447bb880dc1810b74b518dee94c3fa17]{
+-- Page 14, Offset 23089. Glued. Mods: @x.
+-- 薔薇くわえて」
+et mordait dans une rose.」
+
+}
+[sha:29a14724f684bdf7b6f024bf0fcc0ff92a9ebdf9]{
+-- Page 14, Offset 23090.
+-- 「あははははははははははは！」
+「Ahahahahahahahahahahaha !」
+
+}
+[sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
+-- Page 15, Offset 23091.
+-- 「へ？」
+「Hein ?」
+
+}
+[sha:bb1a6cfecf9297b7aaab4fbaf88fce91302ca449]{
+-- Page 15, Offset 23092.
+-- 背後から響いた爆笑に、つい振り返る。
+  Malgré moi, je me retournai au son de l'éclat de rire qui avait retenti dans mon dos.
+
+}
+[sha:be370f298b77d470942d9986d4445ba2231c6f94]{
+-- Page 15, Offset 23093.
+-- 「―――あ」
+「―――Ah.」
+
+}
+[sha:a9d9253f2d329a39e547a27a02edc6375554a2e3]{
+-- Page 15, Offset 23094.
+-- あっという間の出来事だった。
+  Le phénomène se produisit en un clin d'œil.
+
+}
+[sha:8d1eb383a376dde18bd63119c555a11ba6f173be]{
+-- Page 15, Offset 23095.
+-- 静希からの報告を聞いた唯架さんは、一瞬で彫像になっていた。
+  Après avoir entendu le rapport de Shizuki, Yuika s'était transformée en statue.
+
+}
+[sha:7d371f7f65d97d4a9736c51b7b38e0fcd73420ac]{
+-- Page 16, Offset 23096.
+-- 「唯架さん、石化して死んだーーー！？」
+「Yuika est morte pétrifiéeーーー?!」
+
+}
+[sha:3d0f8dffecf1eb8c15f07c5ee0f44ffdd73c0f5c]{
+-- Page 16, Offset 23097.
+-- 「悲劇ね。なまじ耳で世界を捉える人だから、静希君の言葉をリアルにイメージできてしまったのよ」
+「C'est tragique. Comme elle perçoit la moitié du monde grâce à son ouïe, elle a pu se faire une image très précise des propos de Shizuki.」
+
+}
+[sha:0df08b40665370489c54719cb2f4100879c0482e]{
+-- Page 16, Offset 23098.
+-- 「……俺は普段、この人と神父がどんだけ険悪なのか気になって仕方がないが、ともかくこれで七人だ。一気に減ったな」
+「... Je suis curieux de savoir quelle sorte de relation orageuse elle entretenait habituellement avec le prêtre, mais en tout cas, ça nous fait sept victimes. Notre nombre a chuté d'un seul coup.」
+
+}
+[sha:b906da1fa8a13c9acc9bd6961e5dd9150b7dfece]{
+-- Page 17, Offset 23099.
+-- そう。不幸な事故だったけど、犯人にとっては一番厄介な人が、これで消えてしまった。
+  Oui. Il ne s'agissait que d'un accident malheureux, mais pour le coupable, la personne la plus problématique venait tout juste de disparaître.
+
+}
+[sha:3c86573860644ddab89f69d827f64d99be3f7b1a]{
+-- Page 17, Offset 23100.
+-- 時刻はじき午前一時になろうとしていた。
+  Il était presque une heure du matin.
+
+}

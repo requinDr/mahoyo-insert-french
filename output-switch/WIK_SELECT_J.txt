@@ -1,0 +1,42 @@
+[sha:16f78a70ebd0bfb4643da2a2c77dcc3d1433e846]{
+-- Page 4, Offset 22401. Mods: @e.
+-- ～選択肢Ｊ～
+-Choix J-
+
+}
+[sha:102176bd7bd2b234b799b2ad413b97ca532d4fe0]{
+-- Page 4, Offset 24044. Choice.
+-- 静希の話はおかしい、と思った。
+Je songeai que le témoignage de Shizuki était étrange.
+
+}
+[sha:ab4bf96d08b3b2af03a9db28eac79554a5dc1d3e]{
+-- Page 4, Offset 24045. Choice.
+-- 久遠寺さんの話はおかしい、と思った。
+Je songeai que le témoignage de Kuonji était étrange.
+
+}
+[sha:a4282e32ce6e4c8d5283b30689c931ecd2c3c377]{
+-- Page 4, Offset 24046. Choice.
+-- わたしの話は合っているだろうか、と不安に思った。
+Je me demandai avec inquiétude si mon histoire concordait.
+
+}
+[sha:e6b5e335763158f87d78ebb29857567b422a92d8]{
+-- Page 4, Offset 24047. Choice.
+-- 静希と久遠寺さんの話はおかしい、と思った。
+Je songeai que les témoignages de Shizuki et Kuonji étaient étranges.
+
+}
+[sha:78d28eb297e9d1bc50052c86b57681a9c4121ea1]{
+-- Page 4, Offset 24048. Choice.
+-- 静希とわたしの話はおかしい、と思った。
+Je songeai que le témoignage de Shizuki et le mien étaient étranges.
+
+}
+[sha:b4b62611bf1a3b67512634a61ddd8fe20ae76232]{
+-- Page 4, Offset 24049. Choice.
+-- 久遠寺さんとわたしの話はおかしい、と思った。
+Je songeai que le témoignage de Kuonji et le mien étaient étranges.
+
+}

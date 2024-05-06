@@ -1,0 +1,192 @@
+[sha:80d101c65cb30253d8611039187d877d38a9723c]{
+-- Page 0, Offset 22770.
+-- 「はー、疲れたぁ」
+「Ahー, je suis claquée.」
+
+}
+[sha:5442159e84d6209a42f682f3258a922ab294de6e]{
+-- Page 0, Offset 22771.
+-- ぼすん、とベッドに腰を下ろす。
+  Je m'assis lourdement sur le lit.
+
+}
+[sha:42927046aa76df3c764559f3c840d889e2b2048f]{
+-- Page 0, Offset 22772.
+-- 槻司と話すのも気を遣うが、久遠寺さんとはまた違った意味で緊張する。
+  Discuter avec Tsukiji me mettait sur mes gardes, et une autre sorte de tension m'envahissait quand j'étais avec Kuonji.
+
+}
+[sha:c7918aae906b390ab06678eed35f34424546cb14]{
+-- Page 1, Offset 22773.
+-- あの<娘|こ>に見つめられると妙な罪悪感に襲われるのだ。
+  Sous son regard, un sentiment étrange de culpabilité m'assaillait.
+
+}
+[sha:56f15129bee04b29e48b57b5ad231a1f96188211]{
+-- Page 1, Offset 22774.
+-- 痛くもない腹を探られているというか、自分がしでかしてきた多くの失敗を責め立てられているような。
+  C'était comme si elle me soupçonnait sans raison ou comme si elle me blâmait pour mes nombreuses erreurs passées.
+
+}
+[sha:30c9ecce83de406d60d271e66a03b5da1d2c9ab4]{
+-- Page 1, Offset 22775.
+-- 彼女本人にその気はまったくないらしいから、これはわたしの心の問題だろう。
+  Comme l'intéressée ne semblait pas du tout avoir cette intention, le problème devait venir de mon côté.
+
+}
+[sha:0111f1618f97129f421e3f0135fea100b864a285]{
+-- Page 1, Offset 22776.
+-- 誰だって叩けばホコリは出る、というヤツである。
+  Comme on dit : tout le monde a un cadavre dans son placard.
+
+}
+[sha:fcf3b754e5bd48f0936bf5eef02a2124a0b35c58]{
+-- Page 2, Offset 22777.
+-- 「蒼崎も静希も、よくあの娘と暮らせるもんだわ」
+「C'est à se demander comment Aozaki et Shizuki arrivent à vivre avec elle.」
+
+}
+[sha:4c7988cdfadd9a18c564be6be3762eb78de2891a]{
+-- Page 2, Offset 22778.
+-- そこは素直に尊敬する。
+  Ils méritaient sincèrement mon respect pour cela.
+
+}
+[sha:0f348ced158486b10318e87aa76d122ab2826992]{
+-- Page 2, Offset 22779.
+-- 蒼崎は鉄の精神力、かつ、後ろめたいものがないからだろう。
+  Aozaki y parvenait probablement grâce à sa volonté de fer et parce qu'elle avait bonne conscience.
+
+}
+[sha:3b30e5fa610f00e76b938a0e65f9a2298e25615f]{
+-- Page 2, Offset 22780.
+-- 静希の場合は逆で、久遠寺さんの視線の怖さにまったく気付いていないと見た。
+  Quant à Shizuki, c'était certainement le contraire. J'étais sûre qu'il ne réalisait tout simplement pas à quel point le regard de Kuonji était effrayant.
+
+}
+[sha:fafbbfc03cbe2b1ee536286184c708cecdf1662c]{
+-- Page 3, Offset 22781.
+-- 「それはともかく」
+「N'y pensons plus.」
+
+}
+[sha:33de344f897a1c1ca9dfa2709d39b4737bdf4997]{
+-- Page 3, Offset 22782.
+-- ばふん、とベッドに仰向けに寝ころぶ。
+  Je m'étendis de tout mon long sur le lit.
+
+}
+[sha:fa6c24d27bb8c8ea7ef026bb4b896522ea83283d]{
+-- Page 3, Offset 22783.
+-- 窓ごしの空は曇天。
+  Le ciel que je voyais à travers la fenêtre était couvert.
+
+}
+[sha:f2d6be07ff01097579d0a81f11d1971a4a292ac7]{
+-- Page 3, Offset 22784.
+-- 天気予報によると、この三連休はぜんぶ晴れらしいけど、山の天気はそのかぎりではないらしい。
+  Selon les prévisions météo, il devait faire beau pendant ces trois jours de congé, mais manifestement, les montagnes n'entraient pas dans la zone de prévision.
+
+}
+[sha:b4e0c3acbc8f5cabad849638fa5aaa78ef68b79c]{
+-- Page 4, Offset 22785.
+-- 久遠寺邸に集まった人間で、きちんと挨拶をしたのは今のところ六人。
+  Jusque-là, j'avais salué six personnes parmi les individus présents dans le manoir Kuonji :
+
+}
+[sha:47b4a231027740576b98c46d370dd8290499c6ae]{
+-- Page 4, Offset 22786.
+-- 蒼崎、
+  Aozaki,
+
+}
+[sha:704c51efbf9c82fbe898fce20c92b19ad892f33c]{
+-- Page 4, Offset 22787. Glued. Mods: @x.
+-- 久遠寺さん、
+Kuonji,
+
+}
+[sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{
+-- Page 4, Offset 22788. Glued. Mods: @x.
+-- 静希、
+Shizuki,
+
+}
+[sha:35069b32c4286665bb76512744d41b902514e011]{
+-- Page 4, Offset 22789. Glued. Mods: @x.
+-- 槻司、
+Tsukiji,
+
+}
+[sha:e2b85edb43331711992cedf2f0cb36b70f373a49]{
+-- Page 4, Offset 22790. Glued. Mods: @x.
+-- <芳|バ><助|カ>、
+l'Idiot,
+
+}
+[sha:97aeb4c27a111fe040496106f8d7b48fd6260be4]{
+-- Page 4, Offset 22791. Glued. Mods: @x.
+-- 山城先生、
+monsieur Yamashiro
+
+}
+[sha:6a0441e31a0a44d85e8ae6c4e4f6c69675614c25]{
+-- Page 4, Offset 22792. Glued. Mods: @x.
+-- ベオ。
+et Beo.
+
+}
+[sha:d0b2842117934a89eb9795b4796d8421d9e7729a]{
+-- Page 4, Offset 22793.
+-- 他にもゲストがいるような事を久遠寺さんは言っていた。
+  Kuonji avait sous-entendu qu'il y aurait d'autres invités.
+
+}
+[sha:08c0c65973b8a6783e3855cb5b145b9038660a74]{
+-- Page 4, Offset 22794.
+-- この洋館では玄関で靴は脱がないので、靴の数で人数を特定する事はできない。
+  Ce manoir n'appliquait pas la coutume japonaise consistant à retirer ses chaussures à l'entrée. Par conséquent, il était impossible de déterminer le nombre de personnes présentes en comptant les paires de souliers.
+
+}
+[sha:156e2b969a2b04a78aeb7734f8ca75f3723276d1]{
+-- Page 4, Offset 22795.
+-- 館内に何人の人間がいるのか、いまいち定まらないのはそのせいだ。
+  Et pour cette raison, je ne savais pas encore combien de gens se trouvaient dans le bâtiment.
+
+}
+[sha:83938b8582fdc1d95a0d4b5bfd172fadc3ffd1b8]{
+-- Page 5, Offset 22796.
+-- 目蓋を閉じて、少しだけ眠る事にした。
+  Je fermai les paupières et m'efforçai de dormir un peu.
+
+}
+[sha:3bde551090be52381e09b52438d889bcbe967576]{
+-- Page 5, Offset 22797.
+-- 小刻みなアルバイト生活の<賜|たまもの>か、わたしは十五分単位での仮眠を得意としている。
+  Grâce à mon train-train quotidien parsemé de petits boulots, je m'étais spécialisée dans les petites siestes de quinze minutes.
+
+}
+[sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
+-- Page 6, Offset 22798.
+-- ……。
+  .......
+
+}
+[sha:48c33372b1dd02e7e1dd303814539240845c9045]{
+-- Page 6, Offset 22799.
+-- ………………。
+  ...................
+
+}
+[sha:6b6a239a47d40b4695233c908ecf6382a1d77cd0]{
+-- Page 6, Offset 22800.
+-- ………………………………。
+  .....................................
+
+}
+[sha:52f1487ff6b54bad082f92aa2fbcc6e1574bc130]{
+-- Page 6, Offset 22801.
+-- 薄いまどろみの中、どこかで、悲鳴のような笑い声が聞こえた気がした。
+  Durant mon sommeil léger, j'eus l'impression d'entendre au loin un rire aux allures de cri.
+
+}

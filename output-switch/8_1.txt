@@ -1,0 +1,1518 @@
+[sha:5d134d8f23940e44bf2aa3051d2570079a420baf]{
+-- Page 0, Offset 10434.
+-- 三咲高校の冬休みは十二月の中旬から始まる。
+  Les vacances de Noël du lycée Misaki commençaient aux alentours de la mi-décembre.
+
+}
+[sha:a9a3c92dac9b76a6a0aa420756878109ec7bbf2c]{
+-- Page 0, Offset 10435.
+-- 全国に名を馳せる運動部もなく、熱心な進学校でもない学校の静けさは清潔感すらある。
+  Le calme de cette école, qui ne possédait pas de club de sport renommé à l'échelle nationale, sans pour autant être un modèle dans la préparation à l'université, avait quelque chose de reposant.
+
+}
+[sha:c43a18d568a931554feb08edaa83fa858d9e3dcb]{
+-- Page 0, Offset 10436.
+-- <人気|ひとけ>の<絶|た>えた新築の建物は、冬の湖に舞い下りた白鳥を思わせる。
+  L'édifice tout récemment construit, à présent désert, évoquait un cygne se posant sur un lac en hiver.
+
+}
+[sha:d2ed37c6af38fc86243213bf5db60400fdcb9b75]{
+-- Page 0, Offset 10437.
+-- 近代化の進んだ校舎は、その血液である生徒を<欠|か>いても在り方を損なわず、粛々と<佇|たたず>んでいる。
+  Cet établissement moderne était comme pétrifié dans sa fonction, même si les élèves, qui constituaient sa chair et son sang, manquaient à l'appel.
+
+}
+[sha:fe42bcc56c872afeecb32ff17cbb4cd0b91222fe]{
+-- Page 1, Offset 10438.
+-- だが、生徒の多くはその前身を知らない。
+  Cependant, la plupart d'entre eux ne connaissaient pas son prédécesseur,
+
+}
+[sha:79fe492cd1163d54ecba3c9cf1dea15e5a87d923]{
+-- Page 1, Offset 10439.
+-- 今の姿とは比べようのない、木造の小さな<学舎|まなびや>。
+  une petite école en bois à l'apparence très différente de l'édifice actuel.
+
+}
+[sha:2a5011473612ff23149b4edd1da4821ca25375b7]{
+-- Page 1, Offset 10440.
+-- その旧校舎は取り壊される事もなく、今でも<鎮|しず>かに眠っている。
+  Ce vieux bâtiment n'avait pas été rasé, et maintenant encore,
+
+}
+[sha:95881e39e8fe1722bb262510bb8da2fb4222841d]{
+-- Page 1, Offset 10441.
+-- 裏山に<延々|えんえん>と続く森のただ中に、ひっそりとその身を隠すように。
+  il reposait paisiblement au cœur de la forêt sans fin à l'arrière de la colline, comme pour se terrer à l'abri des regards.
+
+}
+[sha:a1a6809289a0d0738233677fe98e09b21de04313]{
+-- Page 2, Offset 10442.
+-- 枯葉を<掃|は>く竹ぼうきの音が響く。
+  Le son de balais en bambou balayant les feuilles mortes se faisait entendre.
+
+}
+[sha:4071cfaeb1cb65de0b65b5045db2a79bfa348c54]{
+-- Page 2, Offset 10443.
+-- 裏山に枯れ落ちた葉は、砂浜に打ち寄せる波のようだ。掃いても掃いてもきりがない。
+  Les feuilles tombées à l'arrière de la colline étaient comme des vagues se brisant sur une plage de sable. On avait beau balayer, cela semblait sans fin.
+
+}
+[sha:f4b29a42c6ba7572ef6ebfbadc0649759b1b4517]{
+-- Page 2, Offset 10444.
+-- なにしろ二年間以上放置された魔境である。
+  Après tout, c'était un repaire de démons, laissé à l'abandon depuis plus de deux ans.
+
+}
+[sha:6bb94e040fca940264d15cbf98c4953d40e7a483]{
+-- Page 2, Offset 10445.
+-- 仮に校内あげての清掃を始めたところで、一日二日でどうにかなるものではない。
+  Même si l'on se décidait à effectuer sérieusement le nettoyage de toute l'école, ce n'était pas réalisable en seulement un ou deux jours.
+
+}
+[sha:82fc95f3c0bf069dc5bb0d3246fd3a5eb62c6339]{
+-- Page 2, Offset 10446.
+-- <況|いわ>んや、
+  Sans oublier de mentionner,
+
+}
+[sha:92e8cc70eab4f644b95a6f15e76f2bac2933034d]{
+-- Page 3, Offset 10447.
+-- 「あー、ほんとだりぃー、存在価値がみいだせねぇー。
+「Ah, je suis crevé ! Et je trouve aucun sens à ma vie.
+
+}
+[sha:24146fafa9118b5c35977cce0e5347789ab0a16e]{
+-- Page 3, Offset 10448.
+-- バッカじゃねえの、冬休みは短いってのに、なんでこんな事やらせんだよ生徒会は」
+  C'est fou ça. Les vacances de Noël sont déjà super courtes, alors pourquoi le conseil étudiant nous oblige à faire ça ?」
+
+}
+[sha:056f4bb7d94b0ef533a58e606d8b7b2f95ee3ae0]{
+-- Page 3, Offset 10449.
+-- その参加者がこのような<不心得|ふこころえ><者|もの>では、裏山の美化など望むべくもないのだった。
+  qu'avec un tel ingrat comme participant, on ne pouvait guère espérer l'embellissement de l'arrière-colline.
+
+}
+[sha:af2f28df9ae38dce5d397ac577817d20a172384c]{
+-- Page 4, Offset 10450.
+-- 「っていうかジャージでやらせんなよ、ジャンパーぐらい着させろよなー。
+「Au moins, ne nous forcez pas à le faire en survêtement, laissez-nous mettre une veste !
+
+}
+[sha:1ad4ae0a7707896edc41c6d7468f983915ff766f]{
+-- Page 4, Offset 10451. Glued. Mods: @x.
+-- なにこれ、もしかして体育の補習？　寒中マラソン？　オレ体育だけはサボったコトねぇんスけどねー！」
+C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'hiver ? Pourtant, l'EPS, c'est le seul cours que j'ai jamais séché !」
+
+}
+[sha:15fe075ff95bbcf408ae95758a748ebefbe1ba25]{
+-- Page 4, Offset 10452.
+-- なげやりに竹ぼうきをブンブンと振り回し、<罵詈|ばり><雑言|ぞうごん>をまき散らす<木乃美|きのみ><芳助|ほうすけ>。
+  Kinomi Hōsuke maniait son balai de bambou nonchalamment et se répandait en vitupérations.
+
+}
+[sha:f89abe8004c56ea722dc5470db012aac20333108]{
+-- Page 4, Offset 10453.
+-- それを横目にしながら、草十郎は無言でざっざっと竹ぼうきを動かしていた。
+  Sōjūrō lui lançait des regards en coin tout en faisant des mouvements réguliers avec le sien.
+
+}
+[sha:7e01eb7b34fa3efcda5ba31d96ea8a46a13caa56]{
+-- Page 5, Offset 10454.
+-- 「おい、なに真面目にやってんだよ。こんなの適当でいいんだって。だいたい四十人しかいねえのに、こんな山みたいな庭の掃除なんか終わるかってんだ」
+「Hé ! Pourquoi tu bosses aussi sérieusement ? Tu peux le faire à l'arrache. Et puis, ce jardin est aussi grand qu'une montagne, on pourra jamais en finir le balayage à quarante seulement.」
+
+}
+[sha:59067eca740a3acc218c7bdfafc9908b7646957a]{
+-- Page 5, Offset 10455.
+-- 「終わらない事なんてない。少しうるさいぞ、木乃美は」
+「Tout a une fin. Tu fais un peu trop de bruit, Kinomi.」
+
+}
+[sha:dd3ed691cc52c3790a6b4e6343712c4747a0443b]{
+-- Page 5, Offset 10456.
+-- 振り向きもせず<窘|たしな>める草十郎に、木乃美はますます詰まらなそうに竹ぼうきを振り回した。
+  Tandis que Sōjūrō lui faisait des reproches sans même se retourner, Kinomi maniait son balai avec de moins en moins de vigueur.
+
+}
+[sha:f3a7da3f2bbbbcd18c594260396abd186418c604]{
+-- Page 6, Offset 10457.
+-- 朝の裏山は寒い。
+  Au matin, l'arrière de la colline était glacial.
+
+}
+[sha:02d98205bb86aae0c7dd088408d2c1a4e95f3462]{
+-- Page 6, Offset 10458.
+-- 曇った空には太陽の影もなく、灰色の光が裏庭を照らしていた。真冬の見本みたいな寒さは、軍手ごしにも手をかじかませる。
+  Dans le ciel couvert, le soleil était invisible, et une lumière couleur cendre éclairait l'arrière-cour. Le froid, telle une manifestation du plein hiver, engourdissait même les mains gantées.
+
+}
+[sha:47c8e01fe183d46ec8d7ee985b5db6016196daeb]{
+-- Page 6, Offset 10459.
+-- こんな日は部屋でぬくんでいるべきなのに、何の因果か、彼らは裏山の掃除なんてやっていた。
+  C'était le genre de journée que n'importe qui voudrait passer emmitouflé dans ses couvertures, mais au lieu de cela, par on ne savait quel coup du sort, ils nettoyaient l'arrière-colline.
+
+}
+[sha:721a46d4851085680973c6466e84c9c1cdec60bf]{
+-- Page 7, Offset 10460.
+-- 冬期特別清掃班。
+  L'équipe spéciale de nettoyage d'hiver.
+
+}
+[sha:78235f905498d423eb59e7a87556854491128a95]{
+-- Page 7, Offset 10461.
+-- それは、いいかげん荒れ放題の裏山をどうにかしようと集結した有志たちによる、決死隊の呼称である。
+  C'était l'appellation du groupe suicidaire, des volontaires réunis là pour faire enfin quelque chose de l'arrière-colline laissée à l'abandon.
+
+}
+[sha:797ba5457bc0bafcaf5fd0bc62572c0b6d45bb3b]{
+-- Page 7, Offset 10462.
+-- 一般生徒は彼らを美化という名の神に信心を捧げた、鋼のお掃除部隊と思うだろう。
+  Les élèves ordinaires pensaient sûrement qu'il s'agissait d'un groupe de nettoyage aux nerfs d'acier, vouant fidélité au dieu nommé “embellissement”.
+
+}
+[sha:02ef6952f3c9d5f8f925a75e1b0e1d2e78eda57c]{
+-- Page 8, Offset 10463.
+-- しかし、その実態は期末試験の補習の一貫として用意された、ただの罰ゲーム部隊だった。
+  Mais dans les faits, ce n'était qu'un groupe réuni pour le gage préparé comme équivalent des cours de rattrapage pour les examens de fin de semestre.
+
+}
+[sha:22f1aeede6699d2c5d44b35d80bf14ec3a620a8d]{
+-- Page 8, Offset 10464.
+-- 今年度の生徒会が力技で実行した、一年計画の犠牲者である。
+  Il s'agissait des victimes du plan annuel appliqué de force par le conseil étudiant de cette année.
+
+}
+[sha:2cccb4dbdf0953719a272d0ed7cf725f30a235c2]{
+-- Page 9, Offset 10465.
+-- そろそろ雪が降ってもおかしくないこの季節に、誰が好き好んで枯葉拾いなぞやるものか。
+  En cette saison, durant laquelle la neige pouvait tomber à tout instant, qui voudrait ramasser des feuilles de son plein gré ?
+
+}
+[sha:2891fd10d41322e45bb473a476d8c0ce04210950]{
+-- Page 9, Offset 10466.
+-- 結局集まった四十人のうち一人を除いて、有志でもなんでもなかったりする。
+  En réalité, à l'exception d'une des quarante personnes présentes, ils étaient tout sauf des volontaires.
+
+}
+[sha:52233b8d8979e9a9f7007f3c9841c8ec9ed61509]{
+-- Page 10, Offset 10467.
+-- 「げ。おい見ろよ<静希|しずき>。<赤羽|あかばね>たち、向こうで焼き芋とかレトロなマネしてやがる！
+「Ghé. Regarde, Shizuki ! Akabane et les autres, ils préparent des trucs rétro. Des patates douces grillées !
+
+}
+[sha:60ded15d5b188fd9ee1c401aeb1c1330f4dd67ab]{
+-- Page 10, Offset 10468.
+-- んが、二番煎じはいかにもあたま悪いしな。そうだ、オレたちはイカでも焼かねぇ？」
+  Mais faire dans le ringard, c'est un peu con. Oh, j'ai une idée, ça te dit de griller des seiches, plutôt ?」
+
+}
+[sha:f8051b3ecf3e0d70fb781530b2f1354459b46a17]{
+-- Page 11, Offset 10469.
+-- もとより掃除をする気のない木乃美はしきりに草十郎を懐柔しようとしていた。
+  Kimoni, qui n'avait pas l'intention de balayer depuis le début, essayait continuellement de rallier Sōjūrō à sa cause.
+
+}
+[sha:93bc741533a93643a36cb7cee0cb9a06f3e326d9]{
+-- Page 11, Offset 10470.
+-- 清掃班はグループに分けられており、草十郎と木乃美は体育館裏の担当だ。
+  L'équipe de nettoyage était divisée en plusieurs groupes, et eux deux devaient se charger de l'arrière du gymnase.
+
+}
+[sha:9918140ad6c9527f4723c7f4a451d4684c9aff1e]{
+-- Page 11, Offset 10471.
+-- リーダーは草十郎で、一般兵士は木乃美である。
+  Sōjūrō était le leader, et Kinomi le simple troufion.
+
+}
+[sha:601ac9839a8500f5aea65d057eb0f6e566d61180]{
+-- Page 12, Offset 10472.
+-- 「ああ。こことあっちの垣根をきれいにしたら、焼き芋だろうと焼きイカだろうとネコ鍋だろうと好きにしよう。その頃にはちょうどお昼だ」
+「OK. Quand on aura nettoyé cette haie et celle-là, tu pourras te préparer ce que tu veux, des patates douces grillées, des seiches grillées, ou même un bouillon de chat si ça te chante. À ce moment-là, il devrait être justement midi.」
+
+}
+[sha:7804dd1660a367ba58a80443fc4162dd099f8ad2]{
+-- Page 13, Offset 10473.
+-- 草十郎は慣れた手つきで、かき集めた枯葉をビニールのゴミ袋に詰めていく。
+  Sōjūrō, d'une main adroite, remplissait le sac poubelle en vinyle avec les feuilles mortes qu'il avait mises en tas.
+
+}
+[sha:a0d9689109cc0d9b68c11bc1077f3528a4436692]{
+-- Page 13, Offset 10474.
+-- うっすらと霧が立ち籠める朝七時から集まって、すでに二時間。
+  Deux heures s'étaient déjà écoulées depuis qu'ils s'étaient réunis à sept heures du matin dans le brouillard stagnant.
+
+}
+[sha:88eb4e8a4dfbb48ea56f483816c140637cf8bccc]{
+-- Page 13, Offset 10475.
+-- 誰もが<音|ね>を上げてだらけ始めている中、草十郎は開始時と同じペースで黙々と働いていた。
+  Alors que tout le monde commençait à perdre sa motivation, Sōjūrō travaillait en silence et au même rythme qu'au départ.
+
+}
+[sha:70d9ece1b0dad68eae4fea6d80fb9a0fef16cb45]{
+-- Page 13, Offset 10476.
+-- 掃除用に着替えたジャージはえらく寒いのに、泣き言一つないのは運動量の多さ故だろう。
+  S'il ne se plaignait pas alors que les survêtements qu'ils avaient enfilés pour le nettoyage ne tenaient pas chaud du tout, c'était sûrement grâce à son dynamisme.
+
+}
+[sha:4b276fe41801bbdf74ab72f8ffcb8694eac66ba2]{
+-- Page 14, Offset 10477.
+-- 「なー、やめようぜ。みろ、そこの池……スケートリンク……？　いや、やっぱ池……？
+「Dis, arrêtons-nous là. Regarde, cet étang...... ou plutôt, cette patinoire......? Non, en fait, c'est bien un étang......?
+
+}
+[sha:56005b6babd20baeff25578aaa2dab288db88a7d]{
+-- Page 14, Offset 10478. Glued. Mods: @x.
+-- とにかく、そこの池らしきモノだってカチカチに凍ってるぐらいなんだぜ？
+Bref, ce truc qui ressemble à un étang est complètement gelé !
+
+}
+[sha:47ea18439362011dd5ed1f6f598b1191c7bb89c3]{
+-- Page 14, Offset 10479.
+-- こんな雪原じゃ人体はフツー動かねえよ、機械伯爵でもなきゃだよ、そろそろ人間狩りがはじまるよー」
+  Normalement, on peut pas se déplacer comme on veut dans un champ de neige, et à moins que tu sois le “Comte Mécanique”, ça veut dire que la chasse aux humains va bientôt commencer.」
+
+}
+[sha:b5e6d8bd971bafd071955a391c0e54843050d852]{
+-- Page 15, Offset 10480.
+-- 「なんで、いいかげん休憩しねえ？
+「Donc, pourquoi ne pas faire une pause ?
+
+}
+[sha:89edae4ba29db41d136aecf4668517153ddc149a]{
+-- Page 15, Offset 10481.
+-- せっかく枯葉集めたんだから、燃やして暖まんないとさー。どうせ監視役は殿下しかいないんだしさー。な、焼きイカやろうぜ、焼きイカー」
+  Maintenant qu'on a ramassé ces feuilles, brûlons-les et réchauffons-nous. De toute façon, il n'y a que Son Altesse comme surveillant. Allez, faisons-nous des seiches grillées, des seiches grillées.」
+
+}
+[sha:28b79fc8565b4a99384538c79b68633d38192981]{
+-- Page 16, Offset 10482.
+-- イカに思い入れがあるのか、木乃美はしつこく主張する。
+  Les seiches devaient lui tenir à cœur, car Kinomi insistait lourdement.
+
+}
+[sha:1ef19e6a247ddb081247210bdce18e8922b1676b]{
+-- Page 16, Offset 10483.
+-- 相棒の泣き言を黙って受けとめていた草十郎だが、それもそろそろ限界らしかった。
+  Sōjūrō essayait de subir en silence les jérémiades de son partenaire, mais il semblait être à sa limite.
+
+}
+[sha:552dfc6f3fb9f974d6ee05a41e7d95e7ba2933c0]{
+-- Page 16, Offset 10484.
+-- 「木乃美、頼むから……」
+「Kinomi, je te le demande......」
+
+}
+[sha:28f3560ca94498342a97652d4c8aeeaaff7be073]{
+-- Page 17, Offset 10485.
+-- その時、草十郎は相棒の背後に死神の姿を認めた。
+  À ce moment-là, Sōjūrō aperçut la Faucheuse derrière son partenaire.
+
+}
+[sha:a66b9c5bf5b8e5de53d5e8477bbcd41284704194]{
+-- Page 17, Offset 10486.
+-- 手に持っている物が竹ぼうきではなくクマデなのがまたらしい。
+  Ce qu'il tenait dans la main n'était pas un balai en bambou, mais un râteau.
+
+}
+[sha:64d6c1e1a0e0c2b617d445773fc87a76d84d133e]{
+-- Page 18, Offset 10487.
+-- 「いいぜ。おまえがイカなんてモンを用意してるほどの大人物だってんなら、<謹|つつし>んでイカ焼きぐらい許可してやるよ。なんなら醤油はこっちで用意してやろう」
+「Très bien. Si t'es assez grand pour avoir pensé à amener des seiches, alors je me montrerai magnanime et je te permettrai d'en griller au moins une. Si tu veux, je pourrai même te préparer la sauce soja.」
+
+}
+[sha:c28c85b332237cc77f43eae7af5a2e798779d79f]{
+-- Page 18, Offset 10488.
+-- 背中からの声に、木乃美はびくり、と背筋を伸ばし、
+  Kinomi se raidit, surpris par la voix derrière lui.
+
+}
+[sha:420f7d4998eacefa747ab8f6a3af10beb90a97a8]{
+-- Page 18, Offset 10489.
+-- 「ひゃあ！　その物言い、槻司<某|なにがし>―――！」
+「Hyaa ! Cette manière de parler, ne serait-ce pas un certain Tsukiji───!」
+
+}
+[sha:556ba4af06342ba4ceb7e8993110792b1507efd2]{
+-- Page 18, Offset 10490.
+-- 時代劇めいた台詞を吐いて、振り向きざまに竹ぼうきを振るう。
+  Il brailla des phrases ressemblant aux répliques d'un drama historique, puis se retourna soudainement et agita son balai.
+
+}
+[sha:e656b0447c1df11e47beb969ea076926e8070241]{
+-- Page 18, Offset 10491.
+-- それを鳶丸はクマデでがっしりと受けとめた。
+  Tobimaru le bloqua fermement avec son râteau.
+
+}
+[sha:f5b84d130e14d13dfd3a8251987b2b4f4ebde808]{
+-- Page 19, Offset 10492.
+-- 「ああ？　テメエ、やる気十分じゃねえか。あふれる労働意欲を抑えきれないってワケか？　なんなら<特別|シベリア>コースにでも行っちまうか？」
+「Aah ? Ben ça alors, tu es bien motivé. Alors comme ça, tu ne peux réprimer ton ardent désir de travailler ? Je peux t'envoyer sur le parcours sibérien, si tu veux.」
+
+}
+[sha:0ce5994bd320279756f1fae98d495dbc67f477ca]{
+-- Page 19, Offset 10493.
+-- 「はん。女ども集めて焼却炉に陣どってる野郎の言葉なんざ聞かねえよ。真冬に南国気分とかマジ寒いわ」
+「Nan. J'ai pas envie d'écouter les bobards d'un type qui s'est planqué près de l'incinérateur avec les filles. Te voir sous les tropiques en plein hiver, ça me refroidit grave.」
+
+}
+[sha:d347e182676422ce6b66ce2f0b9f08faaea85cef]{
+-- Page 20, Offset 10494.
+-- 竹ぼうきとクマデを交差させて、ふたりは不敵な笑みを浮かべている。
+  Croisant le balai et le râteau, les deux hommes s'échangeaient un sourire fier et hardi.
+
+}
+[sha:60bc8a256d0c974433f5124b4bef68fb76f19b9a]{
+-- Page 20, Offset 10495.
+-- これでも学園内限定で仲のいいコンビだった。
+  Même s'il n'y paraissait pas, ce duo s'entendait bien dans l'enceinte de l'école.
+
+}
+[sha:de0616fc0b2e7ac8c693619f6d5f52aec1601dbd]{
+-- Page 21, Offset 10496.
+-- 「鳶丸。いちおう、彼は戦力なんだから邪魔しないでくれ」
+「Tobimaru. Techniquement, il aide, alors ne l'embête pas s'il te plaît.」
+
+}
+[sha:ee57757eb124723b97ea5e6357986fa1249eb0c1]{
+-- Page 21, Offset 10497.
+-- チ、と心底忌々しそうに舌打ちし、矛を納める両者。
+  Les deux garçons claquèrent de la langue, fortement contrariés, et rangèrent leurs armes.
+
+}
+[sha:a35eaf14f2ebc9b3c9344ad48ca2d4dd0eba3e9f]{
+-- Page 21, Offset 10498.
+-- なんというか、ゴミ袋片手に、俗世のコトなど関心ありません、と掃除をする草十郎の<言|げん>には逆らえない。
+  D'une certaine façon, ils ne pouvaient pas s'opposer aux dires de Sōjūrō qui nettoyait, un sac poubelle à la main, et qui affichait son indifférence pour ces trivialités.
+
+}
+[sha:3e8527221ccffd9c1de244a6675a6d93c9960be3]{
+-- Page 22, Offset 10499.
+-- 「それで、何しに来たんだ鳶丸。
+「Donc, qu'est-ce que tu es venu faire, Tobimaru ?
+
+}
+[sha:3485723991b4b6e9f976c90ea970ecfe21ba2752]{
+-- Page 22, Offset 10500.
+-- 君はあったかい焼却炉の前で、永遠に火の管理をすると豪語していたんじゃなかったっけ？」
+  Tu ne prétendais pas pouvoir te charger d'entretenir le feu aussi longtemps que nécessaire, bien au chaud devant l'incinérateur ?」
+
+}
+[sha:4a2316114d2e346d5fe6b0fb2d7fbfc163e436e1]{
+-- Page 22, Offset 10501.
+-- もとい。
+  Mais en réalité,
+
+}
+[sha:1a0e3ef022a89a004a04ed4a0ab37200a2e05d8e]{
+-- Page 22, Offset 10502.
+-- この男も、多少は俗世に関心があったらしい。
+  ce jeune homme aussi semblait avoir un peu d'intérêt pour ces trivialités.
+
+}
+[sha:8e9760da63d1e7323932bfa62588cf58e0ab5505]{
+-- Page 23, Offset 10503.
+-- 「なんてこった……善良な生徒ですら、俺をそんな目で見るのか……」
+「Oh mon Dieu...... Même les élèves honnêtes pensent ça de moi......」
+
+}
+[sha:f84d1b8d230ef4cc01d76a49f25bcc0215ce2d0c]{
+-- Page 23, Offset 10504.
+-- 悲しそうに鳶丸は言う。
+  dit tristement Tobimaru.
+
+}
+[sha:e92d84fd92887e75df564f60bb20e2c91e94b6f8]{
+-- Page 23, Offset 10505.
+-- が、集められた落ち葉を燃やして<暖|だん>を取りながら、女子の清掃班を手伝いと称してはべらせている以上、かける情けは落ち葉一枚分もないのである。
+  Comme il brûlait les feuilles entassées et en profitait pour se réchauffer, tout en appelant cela une aide à l'équipe de nettoyage des filles, Sōjūrō n'avait même pas une once de miséricorde à lui accorder.
+
+}
+[sha:90b54e7f5589b9aa9b37e3c8d7c140c2ed93547d]{
+-- Page 24, Offset 10506.
+-- 「いいから用件を言えよ。殿下と違ってオレらはヒマじゃねえんだ」
+「On s'en fout, alors dis c'que tu veux. Contrairement à toi, Ton Altesse, on est occupés.」
+
+}
+[sha:8704a0e05c1bb27cf4517384becbec5d8330f4dc]{
+-- Page 24, Offset 10507.
+-- 「ああそうかよ。草十郎、そろそろ小休止だ。
+「Ah, vraiment ? Sōjūrō, c'est l'heure de la pause.
+
+}
+[sha:7858863c15dc4fea3c158d2f17d8ee7c74085a86]{
+-- Page 24, Offset 10508.
+-- 向こうで<暖|あたた>まろうや」
+  Allons nous réchauffer là-bas.」
+
+}
+[sha:3f9932eb0f2a598185c8a3851c82c3325e81148f]{
+-- Page 24, Offset 10509.
+-- 「お、なんだブレイクかよ！　話せるじゃん、殿下！」
+「Oh ! Quoi, alors c'est à propos de la pause ! Tu sais ce qu'il faut dire pour faire plaisir aux gens, Ton Altesse !」
+
+}
+[sha:2cf71cb04687299b560527a323eb87e342a77943]{
+-- Page 25, Offset 10510.
+-- 「あ？　テメエは除外に決まってんだろ。特権は功労者にのみ与えられるモンだ。
+「Hein ? Il va sans dire que tu en es exclu. Les privilèges sont réservés aux travailleurs ayant rendu un service exemplaire.
+
+}
+[sha:535019b478b0810e4a6f82b2b95c29d33219e291]{
+-- Page 25, Offset 10511.
+-- 焼却炉の前に来たけりゃ、それ相応の貢ぎ物を持ってきやがれ。具体的に言うと、リヤカー一台分のゴミ袋な」
+  Si tu veux venir devant l'incinérateur, ramène un tribut convenable. Pour être plus précis, un chariotーーavec les sacs poubelles dedans.」
+
+}
+[sha:c23fdf0e167b370cc6115bf008a92a478440f5c2]{
+-- Page 25, Offset 10512.
+-- 「ひっでぇ、生徒会横暴ー！」
+「C'est cruel ! La tyrannie du Conseil !」
+
+}
+[sha:fd9a1ce16b9b81af800bd428f874be72c3e49999]{
+-- Page 26, Offset 10513.
+-- 木乃美の抗議は当然のように届かない。
+  La protestation de Kinomi ne l'affecta évidemment pas.
+
+}
+[sha:21acc0cc9e885c4f559a1ad139dda76ab79f0ca6]{
+-- Page 26, Offset 10514.
+-- 清掃班の指揮役として<抜擢|ばってき>された鳶丸には、こんなんでも絶対的な権力があった。
+  Même si Tobimaru ne faisait rien, il détenait l'autorité absolue en tant que commandant de l'équipe de nettoyage.
+
+}
+[sha:a05c9fe40369dd73e8bfdca5d9ff1a719f2de283]{
+-- Page 26, Offset 10515.
+-- 彼がちょっと記録に手を加えれば、木乃美は明日も明後日も清掃班に参加する事になる。
+  S'il ajoutait quelque chose dans le dossier de Kinomi, celui-ci devrait prendre part à l'équipe de nettoyage le lendemain ainsi que le surlendemain.
+
+}
+[sha:ab919c43fd3ce3b2bb49acf65c657b07f71eef8d]{
+-- Page 27, Offset 10516.
+-- 「さ、行くぞ。誰の趣味かしらねえが、なぜかしるこの缶が山ほどあってな。中華まんの一つでもあった方が気が利くってもんなんだがねぇ。アレか、遭難用のチョコレートみたいなもんか？
+「Allez, on y va ! Je ne sais pas qui aime ça, mais pour une drôle de raison, il y a un tas de boîtes de haricots rouges en bouillie. Le responsable aurait pu être plus prévenant et amener au moins un manju chinois, mais bon. C'est pour remplacer les barres de chocolat à utiliser en cas d'accident ou quoi ?
+
+}
+[sha:dc6e22df18a777d80e175f6e8431d25acd0b9655]{
+-- Page 27, Offset 10517.
+-- ……ったく、アイツの考えはいまだに分かんねぇなあ」
+  ...... Bon sang, je ne comprendrai jamais sa façon de penser.」
+
+}
+[sha:8293f2822c39455c6e461310ba7c1630fd963511]{
+-- Page 27, Offset 10518.
+-- それはそれで気が利いているのでは、と感心する草十郎。
+  Je le trouve déjà assez prévenant comme ça, se dit Sōjūrō admiratif.
+
+}
+[sha:20b9e459253f6cded457143c3176ebacd50de014]{
+-- Page 28, Offset 10519.
+-- 「ん？　なんだよ、行かねえのか草十郎？」
+「Hmm ? Quoi, t'y vas pas, Sōjūrō ?」
+
+}
+[sha:62577cb490b8bea347e5a301e26abd5e818eb851]{
+-- Page 28, Offset 10520.
+-- 「ああ、自分はここに残るよ。<暖|だん>なら木乃美の言うように葉を燃やせばいい。そこに池もある。火の始末なら安心だ」
+「Non, je reste ici. Si c'est pour se réchauffer, il suffit de brûler des feuilles comme l'a dit Kinomi. Et il y aussi un étang. On n'aura aucun problème à éteindre les flammes.」
+
+}
+[sha:7ea342a6cbb658df32cb5851603c83201e718b54]{
+-- Page 28, Offset 10521.
+-- 木乃美に気をつかっての返答である。
+  Il avait répondu ainsi par considération envers Kinomi.
+
+}
+[sha:5cd427621078a43f295fa9939efda564733e4b0b]{
+-- Page 28, Offset 10522.
+-- 鳶丸は眉をひそめ、木乃美はプルプル震えている。
+  Tobimaru fronça les sourcils tandis que Kinomi tremblait légèrement.
+
+}
+[sha:ab68672cb1106c050bf094c3c96e84de496768fb]{
+-- Page 29, Offset 10523.
+-- 「おお……ぉおおお……！
+「Ooh...... ooOOOH......!
+
+}
+[sha:3a6dd6751d7c9a9a23017827a03045c25110e5d6]{
+-- Page 29, Offset 10524.
+-- オ、オレはいま友情ってもんを実感している！　すげえな、真心ってほんとにあったんだ！
+  En-En ce moment, je ressens le sentiment appelé amitié ! C'est formidable, la sincérité existe vraiment !
+
+}
+[sha:f3a6fe96b662c6a2d78304c11b138cea22d03da1]{
+-- Page 29, Offset 10525. Glued. Mods: @x.
+-- クソ、待ってろ静希！　いま赤羽たちからイモ奪ってくる！」
+Merde, attends un peu, Shizuki ! Je vais tout d'suite aller chiper des patates au groupe d'Akabane !」
+
+}
+[sha:8f9c893f5402f8262122c869eca501e21c2d9427]{
+-- Page 29, Offset 10526.
+-- 根は照れ屋なのか、木乃美はとなりの班の集まりへ走っていった。
+  Peut-être timide au fond de lui, Kinomi courut vers le lieu de rassemblement du groupe voisin.
+
+}
+[sha:843fc1ccb9e09e97fd53c074ff9bcebfd03a8ab9]{
+-- Page 30, Offset 10527.
+-- 「……ま、予想はしてたけどな。ほらよ」
+「...... Enfin bon, je me disais bien que ça allait finir comme ça. Tiens.」
+
+}
+[sha:373114c649d1a662605951f238fa6a87ce9c2468]{
+-- Page 30, Offset 10528.
+-- やれやれと頭をかきながら、鳶丸はジャージのポケットからホット缶を取りだした。
+  Tout en se grattant la tête de désappointement, Tobimaru sortit une canette de boisson chaude de la poche de son survêtement.
+
+}
+[sha:c45aec73f4806124195641766ff5fbf011ffe035]{
+-- Page 30, Offset 10529.
+-- 左右のポケットと、ズボンの後ろ、合わせて三本。
+  Il en sortit au total trois après avoir fouillé ses poches de gauche, de droite et de derrière.
+
+}
+[sha:6903dfb416e69b282f41681a330b701f13679ade]{
+-- Page 31, Offset 10530.
+-- 「さっさと焚火の用意をしようぜ。
+「Préparons vite un feu.
+
+}
+[sha:310c90c5b6c9df5d48632a35cb9c1d08686eecdc]{
+-- Page 31, Offset 10531.
+-- 俺もこっちで休む事にするわ」
+  Moi aussi, je vais me détendre ici.」
+
+}
+[sha:6df18da6fff6faa774e870948ca58a00a8e84c33]{
+-- Page 31, Offset 10532.
+-- 「付き合いがいいのはお互いさまだな」
+「Vous êtes tout autant l'un que l'autre de bonne compagnie, hein.」
+
+}
+[sha:0e366214040bc615c3d68703ffff2fb38951582c]{
+-- Page 31, Offset 10533.
+-- 草十郎は手早く焚火の用意を済ませる。
+  Sōjūrō termina rapidement de préparer le feu.
+
+}
+[sha:ad7057741e8ee0f54b419a7ca5b1afa9ca410f29]{
+-- Page 31, Offset 10534.
+-- 落ち葉を集め、きちんと<燻|くすぶ>るよう、あっさりと燃やしてみせた。
+  Il rassembla les feuilles mortes et y mit feu rapidement, de façon à ce qu'elles fument bien.
+
+}
+[sha:c355097f768f620059c55d02e6572b6deaa93ec9]{
+-- Page 32, Offset 10535.
+-- 「…………慣れてるな」
+「............ T'as de l'expérience, hein.」
+
+}
+[sha:fc0f2f96dec63391b45fa7eac6482a1846b7901c]{
+-- Page 32, Offset 10536.
+-- 「マッチがあるから、楽なんだ」
+「Il y a des allumettes, alors c'est facile.」
+
+}
+[sha:95b2efc0d99a88e042bcaaff3f6310f15b178c1d]{
+-- Page 32, Offset 10537.
+-- 草十郎は火をつけた落ち葉の前にしゃがみこんで、かじかんだ両手をかざした。
+  Sōjūrō s'accroupit devant les feuilles mortes enflammées et approcha ses mains engourdies.
+
+}
+[sha:fd4eda8843340d582f23e78ada084d5e671da51c]{
+-- Page 32, Offset 10538.
+-- 寒そうな素振りは見られなかったが、草十郎は草十郎なりに寒かったらしい。
+  Il n'en montrait rien, mais il semblait avoir froid.
+
+}
+[sha:5d765b00ec9f67c9871db1afcf790b45f81795f4]{
+-- Page 33, Offset 10539.
+-- ぱちぱちと煙る落ち葉の山を、懐かしむように草十郎は眺めている。
+  Sōjūrō fixait avec nostalgie la montagne fumante de feuilles mortes.
+
+}
+[sha:d77f9e1d894597230300c2407df4e62430910fdd]{
+-- Page 33, Offset 10540.
+-- ……その姿に、鳶丸は一抹の不安を感じた。
+  ...... Tobimaru ressentit une touche d'inquiétude à la vue de cette silhouette.
+
+}
+[sha:61f0b95a0d17d5b067be80b6a290dcf8e4e1b44a]{
+-- Page 33, Offset 10541.
+-- 望郷や追想。住む場所を奪われ追われた、異邦人のような暗い<翳|かげ>りを、その姿に見たからだ。
+  Il y avait vu l'ombre ténébreuse d'un étranger chassé de son foyer. La nostalgie et le regret de son pays natal.
+
+}
+[sha:24cac77bd10df57879e7228a9b57917d4aaf12f4]{
+-- Page 34, Offset 10542.
+-- 「元気ねえな、草十郎」
+「Ça n'a pas l'air d'aller, Sōjūrō.」
+
+}
+[sha:1e80243fb811261c9a0c946f5b9df4db9fae0ca3]{
+-- Page 34, Offset 10543.
+-- 「……まあね。少し、疲れてる」
+「...... On peut dire ça. Je suis un peu fatigué.」
+
+}
+[sha:f9cc8a90f74dafc7cc8199cdfae34ee7dc31f010]{
+-- Page 34, Offset 10544.
+-- 「悩みごとなら相談にのるぜ。気が向いたら話してくれ」
+「Si tu as des soucis, je peux être de bon conseil. Alors, si jamais l'envie t'en prend, parle-m'en.」
+
+}
+[sha:165e0426b1e9fbec278a441e183759250bee3718]{
+-- Page 34, Offset 10545.
+-- お汁粉缶を開けて、人差し指に残ったリングプルを持て余しながら鳶丸は続ける。
+  Tobimaru ouvrit la canette de shiruko et continua tout en tenant l'anneau d'ouverture resté sur son index, ne sachant quoi en faire.
+
+}
+[sha:59fba161d5f19521ca4f442fdcb30c6868575896]{
+-- Page 34, Offset 10546.
+-- 草十郎は焚火に意識を向けたままだ。
+  L'attention de Sōjūrō était toujours tournée vers le feu.
+
+}
+[sha:dfee851afec3963c9d62477c2311918491e7c41c]{
+-- Page 35, Offset 10547.
+-- 「そういえばな。おまえが学校休んでる時、蒼崎に殴られたぜ。なんでも俺は大ぼら吹きだそうだ」
+「Maintenant que j'y pense, lorsque tu étais absent de l'école, Aozaki m'a frappé. Il semblerait que je sois du genre à dire de gros mensonges.」
+
+}
+[sha:399a83288401d90eaa7ea4965b290647d07fa318]{
+-- Page 35, Offset 10548.
+-- 「すごいな、大抜擢じゃないか」
+「C'est super, c'est une grosse promotion.」
+
+}
+[sha:6e63de3cf33f090a1ddb83d1e7e696a4f2f09413]{
+-- Page 35, Offset 10549.
+-- 草十郎の返答は、時々このように脈絡がない。
+  Les réponses de Sōjūrō étaient parfois incohérentes comme celle-ci.
+
+}
+[sha:8024c53165fc833233975fa414abd3f0bbdb310b]{
+-- Page 35, Offset 10550.
+-- おそらく文化圏の違いだろう、と鳶丸は気にしない事にした。
+  C'est sûrement à cause de la différence d'éducation, se dit Tobimaru en décidant de ne pas creuser la question.
+
+}
+[sha:6f4aaa948a6dba5960ada6891f90aa9a1d65bc04]{
+-- Page 36, Offset 10551.
+-- 「なあ、蒼崎とはどうなってんだ？　テスト前は駅まで一緒に帰ってただろ。うまくいってんのか、あれから？」
+「Dis, comment ça va avec Aozaki ? Avant les examens, vous alliez ensemble jusqu'à la gare. Ça se passe bien depuis ?」
+
+}
+[sha:3f7c2b0fe9185a4273b1f5e7d6539e1fa56162f4]{
+-- Page 36, Offset 10552.
+-- そんなハズはあるまい、と誰よりも分かっているクセに問いただす。そんな鳶丸に、
+  le questionna-t-il alors qu'il savait mieux que quiconque que ça ne pouvait pas être le cas.
+
+}
+[sha:a3f1ade2d75e815ee91e5e50c92523c91ffd8b30]{
+-- Page 36, Offset 10553.
+-- 「ああ、今は一緒に住んでるよ」
+「Oui, en ce moment, on vit ensemble.」
+
+}
+[sha:6d1659765c54e1f434f1fe32149669cb043d9f04]{
+-- Page 36, Offset 10554.
+-- 草十郎はあっさりと真実を告げるのだった。
+  Sōjūrō rapporta simplement la vérité à Tobimaru.
+
+}
+[sha:226606a37010b8c22a46b1cf282a71f5955eeead]{
+-- Page 37, Offset 10555.
+-- 「ほー。そうか、一緒ときたか」
+「Oh. Je vois, vous vivez ensemble.」
+
+}
+[sha:032a8823dfad66ed367fce7489cfcb670e6f1e26]{
+-- Page 37, Offset 10556.
+-- あまりに自然な返答にハハハ、と鳶丸は相づちを打ち、
+  Devant sa réponse bien trop spontanée, Tobimaru rigola en montrant qu'il comprenait la situation, avant de...
+
+}
+[sha:5a4bdbe73eb5a5d505822122d1ec6fd4afdb2847]{
+-- Page 38, Offset 10557.
+-- 「あん、一緒に住んでるだぁーー！？」
+「Hein ? Vous vivez ensembleーー?!」
+
+}
+[sha:0e4e5c5d9f00faf2cc718324ead7f107a85606cf]{
+-- Page 39, Offset 10558.
+-- 「どうした鳶丸。火でも飛んだか？」
+「Qu'est-ce qu'il y a Tobimaru ? Une étincelle a volé vers toi ?」
+
+}
+[sha:3e5eacc3b81e6f3056db03902b1777c74c433c56]{
+-- Page 39, Offset 10559.
+-- 「飛んでねえし、それより怖ぇ。おい、今の聞き捨てならねえ<戯言|たわごと>はホントの話か？」
+「Non ! Et ce que tu viens de dire fait bien plus peur ! Je ne peux pas te laisser dire des blagues comme celle-là, est-ce que c'est vrai ?」
+
+}
+[sha:fa4f8dea2d5b61fd736dc2dd3f8b230b9cd0c2d1]{
+-- Page 39, Offset 10560.
+-- 戯言とは何事だ、と草十郎は無言で抗議。
+  Pourquoi une blague, protesta silencieusement Sōjūrō.
+
+}
+[sha:a82442141009ecbaeefc4e275b3efab34901ff74]{
+-- Page 40, Offset 10561.
+-- 「っ―――その余裕、マジか……女に興味なさそうな顔してて、やる事やってんじゃねえかテメエ」
+「―――Ce calme... T'es sérieux ? ...... On dirait que tu ne t'intéresses pas aux femmes, mais en fait, tu fais bien les choses, toi.」
+
+}
+[sha:ea99a2122afcb17c5d0cca5426bccc194bdc0c8e]{
+-- Page 40, Offset 10562.
+-- 物理的に先を越された訳でもないのに、なぜか精神的に先を越された気がする鳶丸だった。
+  Tobimaru avait l'impression pour une raison indéfinie qu'il l'avait dépassé sur le plan mental, même s'il n'était pas encore passé à l'acte.
+
+}
+[sha:b41d57b78d1efeeb77c84fe51c44bfded8da18ad]{
+-- Page 40, Offset 10563.
+-- そんな彼に、草十郎は珍しく怒りの視線を向ける。
+  Sōjūrō tourna un rare regard de colère vers lui.
+
+}
+[sha:498d71f8261d795ce63fcf435943c8b2903b2fac]{
+-- Page 41, Offset 10564.
+-- 「こっちこそ聞き捨てならない。
+「C'est plutôt moi qui ne peux pas te laisser dire ça.
+
+}
+[sha:715808b5efa03fc89feeebd66f260d75a798330e]{
+-- Page 41, Offset 10565.
+-- なんだ、その女に興味はないってのは」
+  Comment ça, les femmes ne m'intéressent pas ?」
+
+}
+[sha:6679b8d3e9674a15cfa82fabd3094538011af92d]{
+-- Page 41, Offset 10566.
+-- 本気で怒っているらしく言葉も冷たい。
+  Il semblait sérieusement en colère et son ton était glacial.
+
+}
+[sha:07e82eb16aea8c58aa2d7e7a9dfa10a31ce26105]{
+-- Page 41, Offset 10567.
+-- 草十郎のかつてない不機嫌さに、鳶丸も平静さを取り戻す。
+  Face au mécontentement sans précédent de Sōjūrō, Tobimaru reprit son calme.
+
+}
+[sha:dd0db74b6faa857841627db5ff42f4eef03904b4]{
+-- Page 42, Offset 10568. Mods: @k, @e.
+-- 「いや、悪い。そんな雰囲気あったんだよ、おまえさんは。それは謝る。
+「Non, désolé. C'est juste l'impression que tu donnais. Excuse-moi.
+
+}
+[sha:4df24112acbb8e24b2071a579d2448e949c423e9]{
+-- Page 42, Offset 10569. Glued. Mods: @x.
+-- けどよ、蒼崎と一緒に住んでるってどういうことだ？　いくらなんでも<一足|いっそく>飛びすぎだろ」
+Mais qu'est-ce que tu entends par vivre avec Aozaki ? Quoi que t'en dises, c'est un peu trop rapide !」
+
+}
+[sha:ef50cbcf50616ebdd2e7ccbadd4c9cf768e05048]{
+-- Page 43, Offset 10570.
+-- 「別に、君が期待しているような事はない。彼女が住んでいるところの部屋を借りる事になっただけだ。
+「Ce n'est pas du tout ce que tu t'imagines. C'est juste que j'ai été amené à louer une chambre dans le manoir où elle réside.
+
+}
+[sha:841e13b53a6b18244f37c096bffe1f165c4e3c23]{
+-- Page 43, Offset 10571.
+-- 屋根の裏にある部屋なんだけど、板張で山小屋を思い出すんで気に入ってる」
+  C'est une chambre sous les combles, mais elle me fait penser à une cabane de montagne faite de planches, et ça me plaît.」
+
+}
+[sha:7a1398a215cd72fa6a85d59ac1fecd633cfe04da]{
+-- Page 43, Offset 10572.
+-- それは屋根裏部屋というのだが、あえて鳶丸はスルーした。
+  On appelait ça un grenier, mais Tobimaru préféra ne pas le relever.
+
+}
+[sha:6c72e022dfcc05580c6cf2823a9667b95fa14e62]{
+-- Page 44, Offset 10573.
+-- 「屋敷って、あの久遠寺の屋敷か……？
+「Un manoir, tu veux dire le manoir Kuonji......?
+
+}
+[sha:e721cbfb1ea71e491e3eed5e83e66f645cf67f7d]{
+-- Page 44, Offset 10574.
+-- それこそまさかだぜ。草十郎。おまえ、いったいどんな手品を使いやがった？」
+  C'est encore plus impossible. Sōjūrō. Sérieusement, par quel tour de passe-passe t'as réussi ce prodige ?」
+
+}
+[sha:dd8ac40a2ab8b2e884920f4319083c57fae7c9e2]{
+-- Page 44, Offset 10575.
+-- 「？　鳶丸こそ、あの家を知ってるのか？」
+「? Et toi alors, tu connais cette maison ?」
+
+}
+[sha:4b44cc3ff3aaa7a16ecce45f2bcbe78893ab9864]{
+-- Page 44, Offset 10576.
+-- 「そりゃあな。これでも槻司家期待の跡取り候補だぜ、俺は。久遠寺グループのご令嬢が住んでる屋敷ぐらいは知ってるさ。礼園女学院の二年生だろ、たしか」
+「Eh bien oui. J'en ai peut-être pas l'air, mais je suis le candidat attendu à la succession de la famille Tsukiji. Je sais au moins dans quelle demeure habite la demoiselle du Groupe Kuonji. Si je me souviens bien, elle est en deuxième année à l'académie pour filles Reien.」
+
+}
+[sha:e335d0bbfdb9a828b396ac9fbea042e895a92452]{
+-- Page 45, Offset 10577.
+-- 「久遠寺……なに？」
+「Kuonji...... Quoi ?」
+
+}
+[sha:5d2d45ea03ad6ea976b3e75272d908b7bd3dc574]{
+-- Page 45, Offset 10578.
+-- ますます首をかしげる草十郎に、鳶丸はやれやれと説明を続けた。もちろん、草十郎が分かるレベルに落としこんで。
+  Bien que déconcerté, Tobimaru continua d'expliquer les choses à Sōjūrō qui paraissait de plus en plus perplexe. Bien sûr, en les simplifiant de façon à ce qu'il puisse les comprendre.
+
+}
+[sha:a55fa9ab898d919bc0d4e35561f11a91a2385208]{
+-- Page 46, Offset 10579.
+-- 「久遠寺グループ……つーか財団だな。
+「Le Groupe...... ou plutôt, la fondation Kuonji.
+
+}
+[sha:28595c9bd5380f63dc4992c395a8a9705d0dd687]{
+-- Page 46, Offset 10580.
+-- 平たく言えば一族全部がお金持ちで、仲良く会社を経営してる連中だと思えばいい。複合企業とまではいかないが、輸出業じゃあかなりのもんだ」
+  Pour simplifier, tu n'as qu'à les voir comme un groupe composé d'une famille riche et dont chaque membre dirige une compagnie en bonne entente avec les autres. Ça ne va pas jusqu'au conglomérat, mais ils sont vraiment bons dans le business de l'export.」
+
+}
+[sha:ee9136eb7e458fd93ea481b67d844738656e493b]{
+-- Page 47, Offset 10581.
+-- 「ホームグラウンドは国外で、先代の会長の英国びいきがたたって一時期は沈みかけてたんだが、五年くらい前かね。本拠地をこっちに移してからはご存じの通りだ。
+「Ils viennent de l'étranger. L'amour pour la Grande-Bretagne de leur précédent P.-D.G. leur a porté malheur, et à une époque, ils ont bien failli couler. Mais il y a cinq ans, il a fait déménager leur siège social pour remettre le groupe à flot.
+
+}
+[sha:757e2054a979e35227c80a9bc08ba6593860b05f]{
+-- Page 47, Offset 10582.
+-- 会長が息子に移ってからはきちんと持ち直して、今や町の名士だろ。ここでも久遠寺の名前はそこかしこで目に入る。この学校の建て直し予算の半分は連中からだしな」
+  Depuis, son fils a repris la présidence, le groupe s'est bien redressé, et maintenant, ce sont des célébrités de la ville. Même ici, on peut voir un peu partout le nom de Kuonji. D'ailleurs, ce sont eux qui fournissent la moitié du budget pour la restauration de notre école.」
+
+}
+[sha:c815735cf0ad2cd4bcd64784e0b595427b2663a1]{
+-- Page 48, Offset 10583.
+-- 極めて簡単に言ったのだが、それでも草十郎には早すぎたようだ。
+  Il l'avait expliqué de façon très simple, mais il semblait que cela restait trop rapide pour Sōjūrō.
+
+}
+[sha:8386f3168dfa081d7fead48390fdbecac6887c7c]{
+-- Page 48, Offset 10584.
+-- 仕方なく鳶丸は話をきる。
+  N'ayant pas le choix, Tobimaru abrégea la conversation.
+
+}
+[sha:b910b8a1974df1cdd8f9e8d2365a5da4b0c977df]{
+-- Page 49, Offset 10585.
+-- 「あれだ、想像もできない金持ちってコト。
+「En gros, ils sont plus riches que dans tes rêves les plus fous.
+
+}
+[sha:f6a61755631338c3aa664f331a29f085af31acdd]{
+-- Page 49, Offset 10586.
+-- 草の字が働いてる喫茶店だって、久遠寺が向こうから持ってきたブランドだぜ？　今じゃ全国チェーンになっちまったがな」
+  Le salon de thé dans lequel tu travailles par exemple, c'est une enseigne de là-bas que les Kuonji ont récemment implantée chez nous. Même si maintenant, c'est une chaîne présente dans tout le pays.」
+
+}
+[sha:1596bb269da9ada09c8c17c53e8b36f34afeb81c]{
+-- Page 49, Offset 10587.
+-- 「つまりすごく偉いんだね。……おかしいな、ならなんであんなに倹約してるんだろう……」
+「En bref, ils sont vraiment impressionnants. ...... C'est bizarre, si c'est le cas, pourquoi est-elle aussi pingre......」
+
+}
+[sha:6f45fdf5ea8cc0b329a138ae7b995fbbac467a91]{
+-- Page 49, Offset 10588.
+-- ぶつぶつと呟く草十郎。
+  murmura à voix basse Sōjūrō.
+
+}
+[sha:7bdf23ee3fb9218437bece6e93bc183deb980af4]{
+-- Page 49, Offset 10589.
+-- そんな草十郎に、鳶丸は羨ましいような、心底から同情しているような、複雑な顔を向ける。
+  Tobimaru tourna vers lui un visage partagé entre une légère jalousie et une sincère compassion.
+
+}
+[sha:cb3e62b778043c651647f5b624430863daa604fa]{
+-- Page 50, Offset 10590.
+-- 「しっかし、うまい事やったな草十郎。
+「Mais tu as vraiment été habile, Sōjūrō.
+
+}
+[sha:e530b86929b65f47636e86a0759d04f70209611f]{
+-- Page 50, Offset 10591.
+-- それで、本当のところはどうなんだ？　男と女が同じ屋根の下にいれば、やる事はひとつだろう？」
+  Et donc, comment ça se passe vraiment ? Quand un homme et une femme vivent sous le même toit, ça ne peut se finir que d'une seule manière, non ?」
+
+}
+[sha:33368e71785ed88ce465dfffa00526dfaa420832]{
+-- Page 50, Offset 10592.
+-- 「あんがい古いな、鳶丸も」
+「Je ne pensais pas que tu étais aussi vieux jeu, Tobimaru.」
+
+}
+[sha:081c947092a632629629f40ac8bd53807df2e275]{
+-- Page 50, Offset 10593.
+-- 「ぬかせ。そのあたりを誤魔化してたら男なんざやってらんねえ」
+「À d'autres ! Je ne serais pas un homme si on réussissait à me mener en bateau sur ça.」
+
+}
+[sha:a1072dd82f1db3bcae407b1bf5e6357840a18b36]{
+-- Page 50, Offset 10594.
+-- 「そりゃごもっとも。実を言うと、正直な話―――」
+「Là-dessus, tu as bien raison. Mais pour te dire toute la vérité―――」
+
+}
+[sha:8502a17ed0a498623935dbe6869955c1eb61a155]{
+-- Page 51, Offset 10595.
+-- 今のところまったく色気のない雑居ではあるが、同じ家で生活している以上、不意打ち気味のニアミスはある。
+  Jusqu'à présent, sa vie en communauté ne comportait aucune romance, mais maintenant qu'ils vivaient dans la même maison, des quiproquos résultant de malheureuses coïncidences allaient forcément se produire.
+
+}
+[sha:e45f0cc24a1782831ec6da97990f4e042428f654]{
+-- Page 51, Offset 10596.
+-- あるのではあるが、しかし―――
+  Il y en avait même déjà eu, et pourtant―――
+
+}
+[sha:8fde7e41fc7cf0555e46971693df99de1f1b4fef]{
+-- Page 52, Offset 10597.
+-- 「驚くぐらい、そういうコトにはなってない。
+「Rien de ce genre ne s'est produit. C'est même assez surprenant.
+
+}
+[sha:b4c787751987e936206fc604359546e09ddaf017]{
+-- Page 52, Offset 10598.
+-- あの屋敷、すごく広いし」
+  Mais bon, ce manoir est incroyablement grand.」
+
+}
+[sha:2b60199012ed95025018d6cd76b689bf961deab4]{
+-- Page 52, Offset 10599.
+-- 青子たちも草十郎も私用で忙しいため、そんな浮き足だった状況にはなっていなかった。
+  Comme Aoko, Alice et Sōjūrō étaient tous occupés avec leurs affaires privées, il n'était pas dans une situation ambiguë de ce genre.
+
+}
+[sha:c2477820ca2dc0a03fcaea309612bd3040407985]{
+-- Page 53, Offset 10600.
+-- 「そもそもだな。もし鳶丸だったら、下宿先が同じって理由だけで、蒼崎に言い寄る気になるかい？」
+「Et puis d'abord, si c'était toi, est-ce que tu aurais envie de flirter avec Aozaki, pour la simple raison que vous logez sous le même toit ?」
+
+}
+[sha:bfab8746629e1426d7e1f8b8509042ca6390b794]{
+-- Page 53, Offset 10601.
+-- 「……いや。ならねえな、そりゃあ」
+「...... Non. Ça ne serait pas le cas, c'est sûr.」
+
+}
+[sha:b87e8dbfd99744d54b54e8396ab9b131d7f72f44]{
+-- Page 53, Offset 10602.
+-- 数々の彼女の戦歴を思い出しているのか、感慨深くうなずく鳶丸。
+  Se souvenant peut-être des nombreux antécédents de la jeune fille, Tobimaru acquiesça avec émotion.
+
+}
+[sha:f77827de75f1351216d822d47d17e816ae4de1b7]{
+-- Page 54, Offset 10603.
+-- 「いや、健全だな」
+「C'est donc une relation saine.」
+
+}
+[sha:3a9c10fe26a4b6497c38722ce9379f0d2607e73a]{
+-- Page 54, Offset 10604.
+-- 「ああ、健全だろ」
+「Oui, c'est sûr.」
+
+}
+[sha:97531696ef52436dd6c1045171a9c8fbaa2e92b4]{
+-- Page 54, Offset 10605.
+-- 虚脱感のある鳶丸の呟きに、のんびりと焚火にあたりながら短く同意する草十郎。
+  Au murmure de Tobimaru abattu, Sōjūrō approuva en quelques mots tout en se réchauffant, insouciant, auprès du feu.
+
+}
+[sha:6d42f64570fc1d7b420dd4f1d8935f2422c39931]{
+-- Page 54, Offset 10606.
+-- もっとも。
+  Naturellement,
+
+}
+[sha:10eb5cf70b283ffb97a6f4b3af489d1d232e1e8e]{
+-- Page 54, Offset 10607.
+-- 健全であるかは別にして、あの洋館に寝泊りし、青子と有珠相手に平静を保てているのは、間違いなく草十郎の<人柄|さいのう>だろう。
+  indépendamment du fait que leur relation était saine ou non, qu'il puisse passer la nuit dans cette résidence et garder son calme face à Aoko et Alice démontrait sans aucun doute la force de caractère de Sōjūrō.
+
+}
+[sha:ad04cda13e28a0622486f82f869c7230d80a9022]{
+-- Page 55, Offset 10608.
+-- 「でも、それとは別の話で蒼崎には頭があがらないんだ。
+「Et puis, c'est une autre histoire, mais je ne peux pas tenir tête à Aozaki.
+
+}
+[sha:9c58949cf065b06b482f53b6543397a6c67ab708]{
+-- Page 55, Offset 10609.
+-- 彼女には、もう返せない借りがあってさ」
+  J'ai envers elle une dette que je ne peux plus rembourser.」
+
+}
+[sha:b46e9c0b58620b0816bc9c629004a07e334e3165]{
+-- Page 55, Offset 10610.
+-- ぼんやりとしていた彼の瞳が、少しだけ真剣になって焚火を見詰める。
+  Ses yeux distraits étaient devenus un peu plus sérieux et fixaient le feu.
+
+}
+[sha:0fa2571a581846ac2ed53731d4d302482364c386]{
+-- Page 55, Offset 10611.
+-- それが額面通りの意味でない事は、鳶丸にも感じ取れた。
+  Même Tobimaru sentit qu'il y avait un sens bien plus profond derrière ces mots.
+
+}
+[sha:f3bffa1c3a57503bf84dfea9b4029ee2abcfd1f0]{
+-- Page 56, Offset 10612.
+-- 「もう返せない借りだあ？」
+「Une dette que tu ne peux plus rembourser ?」
+
+}
+[sha:b7d2ba9e0f38c37f6be6262d28838c7c9d7226c7]{
+-- Page 56, Offset 10613.
+-- 繰り返す鳶丸に、草十郎は無言でうなずく。
+  Sōjūrō acquiesça sans un mot.
+
+}
+[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+-- Page 56, Offset 10614.
+-- ―――と。
+  ―――Puis,
+
+}
+[sha:de25cdf6821ff01a61054c933f32f47a9efc3039]{
+-- Page 56, Offset 10615.
+-- 深刻な沈黙を破るように、森の奥から妙な叫び声が届いてきた。
+  comme pour briser le silence pesant, un hurlement étrange leur parvint depuis le fond de la forêt.
+
+}
+[sha:0feca1d86517c06fcbf31fd1bca41f9569e541b4]{
+-- Page 57, Offset 10616.
+-- 「……なんか聞こえたな？」
+「...... Tu as entendu ?」
+
+}
+[sha:0aef2b1c5de8fc6b7e403d8a2c5ecf4b2b140190]{
+-- Page 57, Offset 10617.
+-- 「ああ、木乃美だ」
+「Oui, c'est Kinomi.」
+
+}
+[sha:22695d4f3e9fdd8bc635c06ce738e1675e2ee65a]{
+-- Page 57, Offset 10618.
+-- 答えるより早く草十郎は立ち上がる。
+  Sōjūrō se leva plus vite qu'il ne répondit.
+
+}
+[sha:c89877b1608d0c360f5c25023818d2dc2376fd91]{
+-- Page 57, Offset 10619. Mods: @n.
+-- そのまま凍った池まで走り、竹ぼうきで氷を叩き割り、
+  Il courut directement vers l'étang gelé, brisa la couche de glace avec son balai,
+
+}
+[sha:bea3287bc50f4af9e3aff134b7d178692f0145df]{
+-- Page 57, Offset 10620. Glued.
+-- バケツに水を汲んで焚火にぶちまける。十秒足らずの早技だった。
+ prit de l'eau avec le seau et la jeta sur le feu. Il avait fait tout cela en moins de dix secondes.
+
+}
+[sha:747af4fceb1703d004eb6f52f77b1d74f0f904e4]{
+-- Page 58, Offset 10621.
+-- 草十郎は絶叫が聞こえた森の奥へと走り出す。
+  Sōjūrō courut vers le cœur de la forêt d'où le cri était venu.
+
+}
+[sha:3273c35e8ad5d24c79e35371c009d7b80e92264d]{
+-- Page 58, Offset 10622.
+-- 何事かとあわてながら鳶丸も後を追う。
+  Surpris par les évènements, Tobimaru le suivit.
+
+}
+[sha:9e60ff770c3c2e82e6663f6113a51be1bec86510]{
+-- Page 59, Offset 10623.
+-- 「鳶丸、この先に何かあるのか？」
+「Tobimaru, il y a quelque chose par là ?」
+
+}
+[sha:59404bf4bb413e3fa1fa94323b888d4a7384364c]{
+-- Page 59, Offset 10624.
+-- 「たしか旧校舎が残ってるはずだ」
+「Si je me souviens bien, il reste la vieille école.」
+
+}
+[sha:7385600a8aa62f4c3582183d751efd1c8bdd578a]{
+-- Page 59, Offset 10625.
+-- 「他には？　野犬の住みかとか、そういうイヤな話は？」
+「Et à part ça ? Il n'y a rien de dangereux comme une tanière remplie de chiens sauvages ?」
+
+}
+[sha:f7e5d92efa1b5927561eba2331db0f7abeca3650]{
+-- Page 59, Offset 10626.
+-- 「はあ？　いや、いるとしても鹿か兎じゃねえか？」
+「Hein ? Non, et puis, même s'il y en avait, ça serait plutôt des tanières de cerfs ou de lapins, non ?」
+
+}
+[sha:034d4ac9130c88ec1c94badb2aef75cee8819619]{
+-- Page 59, Offset 10627.
+-- 「なら怖がるコトもないか。急ごう、鳶丸」
+「Dans ce cas, il n'y a pas à avoir peur. Dépêchons-nous, Tobimaru.」
+
+}
+[sha:a7cbd2615f1b0a81c0af6e781905e080666da06b]{
+-- Page 60, Offset 10628.
+-- 山育ちで慣れているのか、草十郎は腐葉土の上でも軽々と走っていく。
+  Habitué à la vie en montagne, Sōjūrō courait facilement sur les terreaux de feuilles.
+
+}
+[sha:efd1f1b37930119d1711e154d8e76d72ab549b9c]{
+-- Page 60, Offset 10629.
+-- 鳶丸も足には自信がある方だが、森の中では草十郎には付いていけない。
+  Tobimaru avait assez confiance en ses jambes, mais dans la forêt, il ne pouvait pas le suivre.
+
+}
+[sha:552dd8589184a788fb096359bf9f6429b8eb3e81]{
+-- Page 61, Offset 10630.
+-- そうして、いつしか草十郎はひとりきりで走っていた。
+  Puis, avant qu'il ne le réalise, Sōjūrō courait tout seul.
+
+}
+[sha:c72cf977049f294baaaf9d7e4e5e23d23b34ccf8]{
+-- Page 61, Offset 10631.
+-- 木々の葉で閉ざされた獣道を、時には両手で力強く払い除けながら、時には柳のように擦り抜けながら。
+  De temps à autre, il devait écarter les branches des arbres pour se frayer un passage sur ce sentier d'animaux, ou bien il passait à travers les feuilles avec souplesse.
+
+}
+[sha:e29cad1bd125a784d79c4d2b468581d086586423]{
+-- Page 61, Offset 10632.
+-- この程度の緑の深さなら慣れたものらしい。
+  Apparemment, il était habitué à ce niveau de densité dans la flore.
+
+}
+[sha:db6fda04740d4cc0d647a6c6b57651fed11176ab]{
+-- Page 62, Offset 10633.
+-- 数分後、草十郎はその広場に辿り着いた。
+  Quelques minutes plus tard, Sōjūrō déboucha dans une vaste clairière.
+
+}
+[sha:61fd3e0a85f062d65fdf68cf5b7073ba28b6dbcc]{
+-- Page 62, Offset 10634.
+-- 木々の壁はここで終わっている。
+  Le mur d'arbres se terminait ici,
+
+}
+[sha:731c4d763dab13807a9bc7f14dd28b7b57a935b3]{
+-- Page 62, Offset 10635.
+-- 山の中腹に<拓|ひら>かれた人工の広場。
+  sur une grande place artificielle ouverte à mi-hauteur de la colline.
+
+}
+[sha:10eb67f046e1cfffb0ce7dc4fbb505cef8cf6463]{
+-- Page 62, Offset 10636.
+-- 遠くに見える木造の建物が旧校舎だろう。
+  Le bâtiment de bois qu'il voyait au loin devait être la vieille école.
+
+}
+[sha:462cd592e1fdf7b3b74bb10446a41dd83f4da20a]{
+-- Page 62, Offset 10637.
+-- 小学校ほどの、小さいが趣のある建物が、人知れず冬の荒れ野に埋没していた。
+  Cet édifice, aussi petit qu'une école primaire mais charmant au demeurant, se terrait à l'abri des regards indiscrets dans la lande hivernale.
+
+}
+[sha:d28bbe4b1aa5f8e55e30dfaf690e1d6699cdf4e5]{
+-- Page 63, Offset 10638.
+-- 「木乃美」
+「Kinomi.」
+
+}
+[sha:d25cc49f44aab8bff6dc23793cc92ac67469a649]{
+-- Page 63, Offset 10639.
+-- その旧校舎のグラウンドに、木乃美はひとりで立ちつくしていた。
+  Kinomi se tenait debout, seul sur le terrain de la vieille école.
+
+}
+[sha:dbcb39d49cf8da39bf90e4be7ca5a92b0ee5cb11]{
+-- Page 63, Offset 10640.
+-- 「お？　なんで静希まで追いかけてきたん？」
+「Oh ? Pourquoi tu l'as suivi toi aussi ?」
+
+}
+[sha:ebd577d5dcde386ea63f2790d3afdd17e4b43384]{
+-- Page 63, Offset 10641.
+-- 不思議そうに首をかしげる木乃美に、草十郎はむっと顔をしかめる。
+  Face à Kinomi penchant la tête d'un air étonné, Sōjūrō fronça les sourcils, mécontent.
+
+}
+[sha:cb55c118bb9cbc2e53cab1c6170de55633efc988]{
+-- Page 63, Offset 10642.
+-- 「そっちこそどうしたんだ。へんな声あげて」
+「Et toi alors, qu'est-ce qui se passe ? Pourquoi t'as crié bizarrement ?」
+
+}
+[sha:45714df1b38d2492894f9a15a5f4c3e8678fe023]{
+-- Page 64, Offset 10643.
+-- 「声ぇ？　いや、そりゃガキ相手に怒鳴ったけどよ。
+「J'ai crié ? Ah oui, c'est vrai que je hurlais, mais sur un gamin.
+
+}
+[sha:94ef02fa84e132206fe9ce2dc578ebcde458ca59]{
+-- Page 64, Offset 10644.
+-- ほら、あのガキだよ。イモ持ってるだろ……ってああ、中に逃げこみやがった！」
+  Regarde, c'est ce gosse. Il tient une patate douce...... Hé, aaah merde, il s'est enfui à l'intérieur !」
+
+}
+[sha:48edba7c7f8c3d2e84a6e0712fc54996045dc65b]{
+-- Page 64, Offset 10645.
+-- 旧校舎を指差しながら<憤慨|ふんがい>する木乃美。
+  Kinomi se mit en colère tout en pointant du doigt la vieille école.
+
+}
+[sha:836024d854fb468924b2cada2719901d08433e0c]{
+-- Page 64, Offset 10646.
+-- 確かに、百メートルほど離れた旧校舎の入り口に、人影らしきものが立っている。
+  En effet, à environ cent mètres de son entrée, se tenait ce qui ressemblait à une silhouette humaine.
+
+}
+[sha:39d6b4e4c43dc2141e6f0eeb9823dd4df867e483]{
+-- Page 65, Offset 10647.
+-- 「ったく、こんな上まで来やがって。いつから子供の遊び場になってんだ、ここ」
+「Franchement, qu'est-ce qu'il fiche si haut... Depuis quand c'est devenu la cour de récréation des mômes, ici ?」
+
+}
+[sha:15f217b5e0f0ca0fbdc5690f8a543cc7fe92bc41]{
+-- Page 65, Offset 10648.
+-- まあどうでもいいけど、と木乃美は肩をすくめる。
+  “Enfin, ça n'a pas d'importance”, rajouta Kinomi en haussant les épaules.
+
+}
+[sha:669d99818ff4c3c0edb09d64190eae61c0a824ac]{
+-- Page 65, Offset 10649.
+-- ここの森は深くはあるが、遭難するほどの場所でもない。
+  La forêt aux alentours était profonde, mais pas assez pour provoquer un accident.
+
+}
+[sha:8e955974a94054c5e7feeefa4159bf6f2a7c2592]{
+-- Page 65, Offset 10650.
+-- 草十郎は森の中をつっきってきたが、外にはコンクリートで舗装された道があるのだ。
+  Sōjūrō avait coupé à travers les arbres, mais à l'extérieur, il y avait un sentier bétonné.
+
+}
+[sha:0bdaa26dee9e8a1bea0e4def875609ab78b24824]{
+-- Page 65, Offset 10651.
+-- 木乃美はそちらを使って登ってきたようだ。
+  Kinomi avait apparemment emprunté ce chemin pour monter là-haut.
+
+}
+[sha:4240eb6166b918e3f73660e9d848bc961651f8c2]{
+-- Page 66, Offset 10652.
+-- 「んー……子供………？」
+「Hm...... Un enfant.........?」
+
+}
+[sha:b300a9a87fcabd66e4bad70ca4c03ee90b983006]{
+-- Page 66, Offset 10653.
+-- 目を細めて草十郎は呟く。
+  murmura Sōjūrō en plissant les yeux.
+
+}
+[sha:4c76ea43201569a6b29dce7d0f212cf956667aca]{
+-- Page 66, Offset 10654.
+-- 「ああ。金髪なんでさっきはちょっと驚いたけどな。外国人の子供って、なんか怖いだろ？」
+「Oui. Mais comme il est blond, j'ai été un peu surpris tout à l'heure. Les enfants étrangers sont un peu flippants, tu ne trouves pas ?」
+
+}
+[sha:9679ed83026a85def72ae11b29cca442b33ed874]{
+-- Page 67, Offset 10655.
+-- 地方都市において、まだ外国人の姿は珍しい。
+  Dans les villes provinciales, les étrangers étaient encore rares.
+
+}
+[sha:69930f539bd01a264ed38c9019da66ed8292da08]{
+-- Page 67, Offset 10656.
+-- テレビならいざしらず、生で外国の子供を見た事がない草十郎にはよけい不思議な感覚だった。
+  Peut-être qu'il en avait vu à la télé, mais pour Sōjūrō qui n'avait jamais vu de ses propres yeux un enfant d'un autre pays, cette sensation était d'autant plus singulière.
+
+}
+[sha:fa3bfa9b45469375465e5616af9bfbde0a3a2f9a]{
+-- Page 68, Offset 10657.
+-- 「それで、木乃美はなんでここまで？」
+「Et donc, pourquoi tu es venu ici ?」
+
+}
+[sha:f32acd7c8c0f4d68010c8d60f4b25c18a9294676]{
+-- Page 68, Offset 10658.
+-- 「いや、赤羽たちがよ、ガキに食料奪われたって言うからここまで追いかけてきたんだ。
+「Ben tu vois, les gars du groupe d'Akabane ont dit qu'ils s'étaient fait faucher leurs provisions par ce gamin, alors je l'ai poursuivi jusqu'ici.
+
+}
+[sha:765dafab54c72cdf5e7a78c0385af1d9c2e77332]{
+-- Page 68, Offset 10659. Glued. Mods: @x.
+-- そういう事だから、ふたりがかりであのお子さまとっちめようぜ」
+Voilà le topo, alors occupons-nous de cet enfant maintenant qu'on est deux...」
+
+}
+[sha:9a59a2b7c6872f1331e3e65cba3683a563fef144]{
+-- Page 68, Offset 10660.
+-- 「怖いことを考えるな、木乃美は」
+「Tu penses à des choses effrayantes, Kinomi.」
+
+}
+[sha:93c16960ed25207fad006d62c05b91ddcbb9b358]{
+-- Page 68, Offset 10661.
+-- 賛同しかねる、と草十郎。
+  “Je ne peux pas te laisser faire”, dit Sōjūrō.
+
+}
+[sha:b0a0253aca19c705b774a8015a1ce2430f41634a]{
+-- Page 68, Offset 10662.
+-- <多勢|たぜい>に<無勢|ぶぜい>は義に反する、といわんばかりである。
+  Comme pour signifier qu'attaquer en bande était contraire à ses principes.
+
+}
+[sha:2f11b831597e2402a65a9ace49a3841b7e0223b2]{
+-- Page 69, Offset 10663.
+-- 「いいから帰ろう。あの子、こっちを睨んでるじゃないか。
+「Ce n'est pas grave, rentrons. Cet enfant regarde dans notre direction, après tout.
+
+}
+[sha:16eabaee780634e897418cf8eeed18cb560e199a]{
+-- Page 69, Offset 10664.
+-- それに、鳶丸にこんなところ見られたら冬休み中ずっと山の掃除で終わる事になるぞ？」
+  Et puis, si Tobimaru te surprend à faire ça, tu finiras par faire le nettoyage de la montagne pendant toutes les vacances de Noël, tu sais ?」
+
+}
+[sha:0ee5ac22023aee14aebd34f7dbe0c406cbb99a4e]{
+-- Page 70, Offset 10665.
+-- ぽん、と木乃美の肩に手を置いて、草十郎はもと来た道を戻りはじめた。
+  Sōjūrō plaça la main sur l'épaule de Kinomi et entreprit de reprendre le chemin par lequel il était venu.
+
+}
+[sha:59098d69d10faf36026fa2198f2474ecfc6ebb48]{
+-- Page 70, Offset 10666.
+-- 木乃美は口惜しげに旧校舎に視線を投げて、草十郎に付いていく。
+  Kinomi lança un regard frustré en direction de la vieille école et suivit Sōjūrō.
+
+}
+[sha:d5cb42b262856a39b3ee2d96cbbf1f1d0bb604fc]{
+-- Page 70, Offset 10667.
+-- そんなふたりを出迎えるように、息を切らした鳶丸が登ってきた。
+  Tobimaru, à bout de souffle, montait à leur rencontre.
+
+}
+[sha:a2113c22402a837f04b2333f36304144ebb48d5f]{
+-- Page 71, Offset 10668.
+-- 「は、速いな、草十郎」
+「T'es... T'es rapide, Sōjūrō.」
+
+}
+[sha:bf65d3c26f1479be2bcb7fe3256c5ad04dc4eaac]{
+-- Page 71, Offset 10669.
+-- 鳶丸の息は乱れている。
+  La respiration de Tobimaru était saccadée.
+
+}
+[sha:e772e09b1b730db5a778ccaceebcbb2746d35d7b]{
+-- Page 71, Offset 10670.
+-- 草十郎に遅れること三分弱だが、十分に健脚だ。
+  Il avait un peu moins de trois minutes de retard sur Sōjūrō, et pourtant, il était un assez bon marcheur.
+
+}
+[sha:8479c098373b7e4790d59c99140f9b9476120f98]{
+-- Page 72, Offset 10671.
+-- 「それでどうした。木乃美、無事か？」
+「Alors, qu'est-ce qui se passe ? Kinomi va bien ?」
+
+}
+[sha:642b5bdead9d83741eebbb612cb5019910ec4e91]{
+-- Page 72, Offset 10672.
+-- 「？　無事も何も、殿下こそどったん？」
+「? C'est pas la question, toi plutôt, ça va ?」
+
+}
+[sha:fc6c177a30c34df6d80112d0c50b217c1c59b57c]{
+-- Page 72, Offset 10673.
+-- 鳶丸に心配されるコトなど初めてなのか、目をしばたたく木乃美。
+  Kinomi cligna des yeux, peut-être parce que c'était la première fois que Tobimaru s'inquiétait pour lui.
+
+}
+[sha:0bfb7c2b5a48e90cbfab8f874c6f357a14e4270c]{
+-- Page 73, Offset 10674.
+-- 「なんだそりゃ。テメェ、あれだけの大声をあげておいてしらばっくれる気か？　上で何かあったんだろうが」
+「Ça veut dire quoi, ça ? Toi... tu comptes jouer l'innocent après avoir poussé un cri pareil ? Il a bien dû se passer quelque chose là-haut !」
+
+}
+[sha:3934d0b2cdcad37da12e85a4a6eb800c5047bfc8]{
+-- Page 73, Offset 10675.
+-- 「すまない、こっちの早とちりだった。
+「Désolé, c'est moi qui ai tiré des conclusions hâtives.
+
+}
+[sha:5d4b9c9740e426aab1c3e7555fa78b2b49e578c9]{
+-- Page 73, Offset 10676.
+-- 鳶丸は知らないだろうけど、木乃美は時々、バイト先でも奇声をあげる癖があるんだ」
+  Tu ne dois pas le savoir, mais de temps en temps, Kinomi a la manie de pousser d'étranges cris, même au travail.」
+
+}
+[sha:226bc375a4279ddccdf69159e18b3b3385b53888]{
+-- Page 73, Offset 10677.
+-- 堂々と言う草十郎の横で、木乃美は不満げに顔をしかめる。彼的に、そんな噂は初耳だった。
+  À côté de Sōjūrō imperturbable, Kinomi fronçait les sourcils, l'air mécontent. C'était la première fois qu'il entendait cette histoire.
+
+}
+[sha:6786e1d099732904ae3d2e9f25e240f7ffddcec4]{
+-- Page 74, Offset 10678.
+-- 「……怪しいな。また良からぬ事でも企んでるんじゃねえか、そこの？」
+「...... C'est louche. Tu ne me jouerais pas encore un sale tour par hasard, toi là ?」
+
+}
+[sha:68b176417ed941035cd73e03aca69b50b69e2ae9]{
+-- Page 74, Offset 10679.
+-- 「無いよ。戻って掃除の続きをするぞ、鳶丸」
+「Mais non. Je retourne continuer le balayage, Tobimaru.」
+
+}
+[sha:e2d19efd52d2d58c5d7ba234678b49a63af2ffef]{
+-- Page 74, Offset 10680.
+-- ぽんぽんと鳶丸の肩を叩いて草十郎は歩きだす。
+  Sōjūrō tapota l'épaule de Tobimaru et se mit en route.
+
+}
+[sha:f37e2017f52306df60b2b2e8c9b459ef03a5227f]{
+-- Page 74, Offset 10681.
+-- そんな草十郎に、鳶丸は不審げな眼差しを向けた。
+  Tobimaru lui adressa un regard sceptique.
+
+}
+[sha:d2a6efb101929f3197c48f9232ff4730e4e66ca5]{
+-- Page 74, Offset 10682.
+-- なんとなく、草十郎が木乃美の悪事を<庇|かば>っているように思えたからだ。
+  Il avait le vague sentiment qu'il essayait de couvrir un mauvais coup de Kinomi.
+
+}
+[sha:db7846a6946927811dd781277c6bffdf728f63f5]{
+-- Page 75, Offset 10683.
+-- 「まさか、旧校舎に火なんてつけてないだろうな？」
+「Ne me dis pas que tu as mis le feu à la vieille école, hein ?」
+
+}
+[sha:a031ab6b1139784f70076f9be9622394f3a7dea6]{
+-- Page 75, Offset 10684.
+-- 「誰もしないよ、そんな事は」
+「Personne ne ferait ça.」
+
+}
+[sha:1bc7a66812ef887d87f4f67d59636013194e4245]{
+-- Page 75, Offset 10685.
+-- さっさと掃除に戻りたいらしく、草十郎は背後の鳶丸を振り向きもせず歩いていく。
+  Apparemment pressé de retourner au nettoyage, Sōjūrō se mit à marcher sans se retourner vers Tobimaru.
+
+}
+[sha:c613a9d0ed253ae1584624a1cfec98fedd6e4f17]{
+-- Page 75, Offset 10686.
+-- 鳶丸と木乃美は首をかしげながらも、めずらしく強引な草十郎に従った。
+  Perplexes, Tobimaru et Kinomi suivirent Sōjūrō, anormalement autoritaire.
+
+}

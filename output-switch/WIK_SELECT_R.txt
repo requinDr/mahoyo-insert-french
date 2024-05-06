@@ -1,0 +1,18 @@
+[sha:fd430c4ad8ef494b33f1bed82eb4804582b3060e]{
+-- Page 35, Offset 21774. Mods: @e.
+-- ～選択肢Ｒ～
+-Choix R-
+
+}
+[sha:1778f4413ddb4d7a003ee3c48d0a8365f3959962]{
+-- Page 35, Offset 24065. Choice.
+-- あとは安心して眠れる、と思った。
+Je pensais enfin pouvoir dormir sur mes deux oreilles.
+
+}
+[sha:52ba74d129364c20c44dc0f3948516f5fdac9517]{
+-- Page 35, Offset 24066. Choice.
+-- ……本当にそうだろうか？　と思った。
+Je pensais que ce ne serait peut-être pas le cas.
+
+}

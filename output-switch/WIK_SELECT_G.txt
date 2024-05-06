@@ -1,0 +1,24 @@
+[sha:b742340630d830248850ed9e70a93963e4beec54]{
+-- Page 31, Offset 22081. Mods: @e.
+-- ～選択肢Ｇ～
+-Choix G-
+
+}
+[sha:fb37f6467f377c25cfbc15d2bb30674e3266b99a]{
+-- Page 31, Offset 24032. Choice.
+-- 大雑把に言うとパンだ、と思った。
+Je songeai qu'en gros, c'était du pain.
+
+}
+[sha:2142d1bf2c5b6bc11c6385b37384b346611443ba]{
+-- Page 31, Offset 24033. Choice.
+-- 現実的に小型爆薬だ、と思った。
+Réaliste, je songeai qu'il s'agissait d'une minibombe.
+
+}
+[sha:b8684cdd1d3de582a83bedac5254fd78c17fd133]{
+-- Page 31, Offset 24034. Choice.
+-- 犬か何かに食いちぎられたのでは、と思った。
+Je songeai qu'il avait dû être dévoré par une sorte de chien.
+
+}

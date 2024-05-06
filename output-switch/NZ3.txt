@@ -1,0 +1,1176 @@
+[sha:01576ba817c3340668f93b6bd6a308c4f6c17305]{
+-- Page 0, Offset 19936.
+-- シェフ。
+    Chef.
+
+}
+[sha:d3b1f58b6cedf2e792078639e97df7a738934e56]{
+-- Page 0, Offset 19937.
+-- マグロ三種盛り、一つ。
+    Une assiette de thon trois variétés.
+
+}
+[sha:0c58dd503c904f6d736808add0eeae299a489266]{
+-- Page 1, Offset 19938.
+-- アリスさん、なんスかそれ？
+      Mam'zelle Alice, c'est quoi ça ?
+
+}
+[sha:368170eb6e52e4e1617dfbaaf963cc04fc642fc6]{
+-- Page 1, Offset 19939.
+-- なんか、見たこともない金色のお皿ッスね。
+      Je n'avais jamais vu cette drôle d'assiette dorée.
+
+}
+[sha:cfd4d7d4034e172d8e67b7328160286fd57183d9]{
+-- Page 2, Offset 19940.
+-- たいしたことはないわ。
+          Ce n'est pas grand-chose.
+
+}
+[sha:eed7d90f73158dbd890fba2fba4267982293339a]{
+-- Page 3, Offset 19941.
+-- 普通のと、
+        C'est juste un assortiment
+
+}
+[sha:ee27acf1bdc16bbbf98a51054481721bf75150d2]{
+-- Page 3, Offset 19942.
+-- 中トロと、
+        de thon akami,
+
+}
+[sha:d5236d057d3601333bb4a38e58d6a2cd74e326e8]{
+-- Page 3, Offset 19943.
+-- 大トロのセットなだけよ。
+        chûtoro et ôtoro.
+
+}
+[sha:b3de3c68b96803d3a379d13f0b92fb08f814df65]{
+-- Page 4, Offset 19944.
+-- 鮮血のトリコロール。フランスの国旗みたいッスね。
+  Trois couleurs ensanglantées. Comme l'drapeau national d'la France, quoi.
+
+}
+[sha:cd826b31d7f7ecd437a0855539ca803b0ab5ceb5]{
+-- Page 4, Offset 19945.
+-- ジブン、経済的な理由で玉子とイカとイナリしか頼めないッス。
+  Pour des raisons financières, je ne prendrai que de l'inarizushi, et des sushis à l'omelette et à la seiche.
+
+}
+[sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
+-- Page 5, Offset 19946.
+-- シェフ。
+        Chef.
+
+}
+[sha:c52302d79911037651fcd2082645395e8cee8e5b]{
+-- Page 5, Offset 19947.
+-- 中トロをもう一度。
+  Une autre assiette de chûtoro.
+
+}
+[sha:bdb3afa71168ef9d7a52932892d6867c2b59f6a0]{
+-- Page 6, Offset 19948.
+-- また赤いのッスか。
+      Encore de la chair rouge ?
+
+}
+[sha:2cf958b3e8a45a3321487d93ea3a9545990b76d4]{
+-- Page 6, Offset 19949.
+-- 光りものとか白身とかいかないんスか？
+      Vous n'voulez pas de la chair brillante ou blanche ?
+
+}
+[sha:ca24a9d98bbcb4fa1e20c000f95c1d7245aa5cca]{
+-- Page 6, Offset 19950.
+-- イワシとかカンパチとかいけるッスよ。
+      La sardine et la sériole par exemple, c'est bon.
+
+}
+[sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
+-- Page 7, Offset 19951.
+-- シェフ。
+        Chef.
+
+}
+[sha:2e800a9795215ec28b58da4ecfa60c179e36faa1]{
+-- Page 7, Offset 19952.
+-- 大トロをもう一度。
+        Une assiette d'ôtoro.
+
+}
+[sha:140477531d92361a177f7f2de5b1175b092d70f9]{
+-- Page 8, Offset 19953.
+-- その皿ひとつで、
+      Chaque assiette vaut le prix
+
+}
+[sha:9a5fb0d8721896fca23701daa5a270f3256300d9]{
+-- Page 8, Offset 19954.
+-- いつもの夕食一回分の値段なんスね。
+      d'un dîner normal.
+
+}
+[sha:46c87ce1d959ac41c51b7d0a2797e9c379494732]{
+-- Page 8, Offset 19955.
+-- サーモンで妥協とかしないんスか？
+      Vous n'pouvez pas vous limiter au saumon ?
+
+}
+[sha:145df896c1a52f092b479ab2a706348f9fa73957]{
+-- Page 9, Offset 19956.
+-- たいしたことはないわ。
+      Ce n'est pas grand-chose.
+
+}
+[sha:4785602cb2a6a50a2a12b7e88880b74075bb871a]{
+-- Page 9, Offset 19957.
+-- シェフ。大トロをリピート。
+      Chef. Une autre assiette d'ôtoro.
+
+}
+[sha:0d0d4d0c6de906c5c0dc78ea10abfb44b95d7b9e]{
+-- Page 10, Offset 19958.
+-- はじめからマグロしか眼中にないとか、
+      Depuis le début, vous n'avez d'yeux que pour le thon.
+
+}
+[sha:2b3681f7d981ec68b839d3828791f7f648c79b4e]{
+-- Page 10, Offset 19959.
+-- さすがアリスさんッスーーー！
+      Ça ne m'étonne pas de vousーーー!
+
+}
+[sha:fc65cba65b81ac05ebc78c333e8b4de752b4574a]{
+-- Page 10, Offset 19960.
+-- 久遠寺財閥の娘は伊達じゃないッスね！
+      La fille du conglomérat Kuonji ne se prive de rien !
+
+}
+[sha:11b7b9423a15cb23625b82a2ce658f24cda98c9d]{
+-- Page 11, Offset 19961. Mods: @k, @e.
+-- お金はこういう時に使うのよ、ロビン。
+    L'argent sert à ça, Robin.
+
+}
+[sha:5315a9b7ce5f688b4d2219264b6872fadee19507]{
+-- Page 11, Offset 19962. Mods: @k, @e.
+-- チャンスで出し渋るのはよくないわ。
+    Il faut savoir saisir sa chance.
+
+}
+[sha:a0e6578e318652c48538857bf7c4df1a86ac2865]{
+-- Page 11, Offset 19963.
+-- 今日は、青子のお財布を借りているのだけど。
+    Et puis, j'ai emprunté le portemonnaie d'Aoko.
+
+}
+[sha:f6c07f8b5331ee3eca5a51c84fc2f42e8978a4aa]{
+-- Page 12, Offset 19964.
+-- そッスか。
+    Ah bon ?
+
+}
+[sha:f7f8f23d561427d16c8097b5c4a896b4f38a0d04]{
+-- Page 12, Offset 19965.
+-- 青子さんの。
+    Celui d'Mam'zelle Aoko ?
+
+}
+[sha:12298dfe45aa81077d6864aea3c73e53c4327b51]{
+-- Page 13, Offset 19966.
+-- でもそれ、すぐにカラにならないッスか。
+        Mais il risque d'être rapidement à sec.
+
+}
+[sha:9c5637c4d960087b199f0c1de2ce719b29f5ac49]{
+-- Page 13, Offset 19967.
+-- 青子さんの財布の中身、お寒いッスよ。
+        Faut dire qu'son portemonnaie n'est pas bien rempli.
+
+}
+[sha:3041ce8993f14db900b4d7767639b3d9f8c5bcfd]{
+-- Page 13, Offset 19968.
+-- あの人、すぐに物を買うから。
+        Elle fait les boutiques dès qu'elle a de l'argent.
+
+}
+[sha:17373541f54b9dae0961016fbec5fcb6f5147229]{
+-- Page 14, Offset 19969. Mods: @k, @e.
+-- だいじょうぶ。
+      Aucun problème.
+
+}
+[sha:62e56e8b60eb7a0d22db492c2a0aa57a892cee4a]{
+-- Page 14, Offset 19970. Mods: @k, @e.
+-- 備えあれば、よロビン。
+      Il suffit d'être paré, Robin.
+
+}
+[sha:c523cdecaeb0ceec0f9942acfa198c86123798a3]{
+-- Page 14, Offset 19971.
+-- ここにもう一つ、温かなお財布があるわ。
+      J'ai également ici un portefeuille bien garni.
+
+}
+[sha:e2bbcbed2d06e018a018745dcad1f83b7db6c160]{
+-- Page 15, Offset 19972.
+-- ぶほっ
+                  Bhu...!
+
+}
+[sha:4a52e2cab5fc1b261df8cd506bc13e8bc023aaa3]{
+-- Page 16, Offset 19973.
+-- なに？
+                  Quoi ?
+
+}
+[sha:665f248e571fc2f09457dc957f16f88572349d7f]{
+-- Page 17, Offset 19974.
+-- なンでもないッス。
+      Non, rien.
+
+}
+[sha:fef474dceb0020d4c1099b3da3086855fb3b305f]{
+-- Page 17, Offset 19975.
+-- アリスさんは家主。すなわち絶対者。
+      La proprio détient l'autorité absolue, après tout.
+
+}
+[sha:6dffe49c7f8aa09798c7baf64a5e37c17dade4c8]{
+-- Page 17, Offset 19976.
+-- あの洋館に住むもので誰が逆らえようか。
+      Qui pourrait s'opposer à vous dans ce manoir ?
+
+}
+[sha:1c0bdd72c516fb9e49cbd3ddb17cb80c8d6ae8af]{
+-- Page 18, Offset 19977.
+-- ……にしても、あのシャバ僧、小金持ちッスね。
+   ...... Mais tout de même, c't idiot est plutôt friqué, dis donc.
+
+}
+[sha:b00c63947d96f66c9564ae78a258d2df2af9248d]{
+-- Page 18, Offset 19978.
+-- ずっしり来るッスよ、この財布。
+   Il m'a l'air bien lourd, c'portefeuille.
+
+}
+[sha:c060364b54482a26ce2c026a2a5423969e0c7207]{
+-- Page 19, Offset 19979.
+-- うなる札束ね。
+        Il roule sur les liasses de billets.
+
+}
+[sha:c6d156dd8ce5e1ba50bccbdea854897644d0673b]{
+-- Page 19, Offset 19980.
+-- ドキドキするわ。
+        J'en suis toute chamboulée.
+
+}
+[sha:7738523a15c0befa097cf8a0ef1acbf5c1ada4be]{
+-- Page 20, Offset 19981.
+-- ……赤身がこないわね。
+        ...... L'akami n'est toujours pas passé.
+
+}
+[sha:919d71d211a5d8c48cff33c88a968986d77f48f4]{
+-- Page 21, Offset 19982.
+-- 上座の席で独占しているヤツがいるみたいッス。
+  Quelqu'un à la place d'honneur se les accapare tous.
+
+}
+[sha:379570e2c268767c80e8d27b05c7c4f351fb8d9e]{
+-- Page 21, Offset 19983.
+-- 緑色のコートで。メガネで。
+  Elle a un manteau vert. Et des lunettes.
+
+}
+[sha:4d2ab59bc98350b428d0d1d792ec2756e29ef468]{
+-- Page 21, Offset 19984.
+-- 麻雀牌をつもるような優雅さで二貫ぺろりと。
+  Et les avale par paire avec une grâce digne d'un joueur de Mahjong.
+
+}
+[sha:60a88b819292dd54ea00b0f8c94fab4c23f922b0]{
+-- Page 22, Offset 19985.
+-- あえて誰かは言わないんスけど、
+  Personne n'ose le dire,
+
+}
+[sha:90db9930695cd7d0be4b66071287665cc602b014]{
+-- Page 22, Offset 19986.
+-- あれヤケ食いッスね。
+  mais elle mange par désespoir.
+
+}
+[sha:e914a7d964bc530547c8d38b303c9d41315de7ac]{
+-- Page 22, Offset 19987.
+-- 声、かけるッスか？
+  J'l'appelle ?
+
+}
+[sha:5422dedecb309177232fb920b093b79af0b3a80a]{
+-- Page 23, Offset 19988.
+-- 放っておきましょう。
+        Laissons-la.
+
+}
+[sha:bda3c6a59be644f00eff3338a74ac6b7b77e2336]{
+-- Page 23, Offset 19989.
+-- 誰にだって、知り合いに見られたくない時はあるわ。
+        Tout le monde souhaite parfois s'isoler.
+
+}
+[sha:4c371812818033bcc4e76c2663ff2bb8efa66658]{
+-- Page 24, Offset 19990.
+-- アリスさん、お皿取らないッスか？
+      Mam'zelle Alice, vous n'prenez pas d'assiette ?
+
+}
+[sha:c81f1f188e9a37f330b9fd061ea93ac9bf062ce7]{
+-- Page 25, Offset 19991.
+-- ……仕方ないわね。
+        ...... Bon, très bien.
+
+}
+[sha:0fb2939bdb3f6d7c8eba3428911827fffdeb7875]{
+-- Page 25, Offset 19992.
+-- じゃあ、これ。
+        Je vais prendre ça.
+
+}
+[sha:07e1e1de98792d39f9183aba2b44f03b20d0eee0]{
+-- Page 26, Offset 19993.
+-- おめでとーございまーす！
+            Félicitations !
+
+}
+[sha:38ed8b24031605a90cf54da31c995e49956c6a0e]{
+-- Page 27, Offset 19994.
+-- ありがとうございまーす！
+                Merci beaucoup !
+
+}
+[sha:900475cbae4434d81944f9979b275bb80fed30f5]{
+-- Page 28, Offset 19995.
+-- 誰ッスか？
+    Vous êtes qui ?
+
+}
+[sha:d1f67f132c676cc880a0a4388fc86c5bb4d0c6ee]{
+-- Page 28, Offset 19996.
+-- テコイレ？
+    Des renforts ?
+
+}
+[sha:76a3f0a010dcafa193076dd697b3326a4439edb4]{
+-- Page 29, Offset 19997.
+-- 説明しよう！
+              Expliquons !
+
+}
+[sha:1c45dc0d5e381c2e0701050f16d88e01e404c60e]{
+-- Page 30, Offset 19998.
+-- 説明するよ！
+                On va expliquer !
+
+}
+[sha:07c4c2b7cea0c6feb535eaa509ff590353ba4c94]{
+-- Page 31, Offset 19999.
+-- 何を隠そう僕らこそ！
+      Ne cachons rien, nous sommes...
+
+}
+[sha:3006b9bcf296db77c515445377d69afb2681aeab]{
+-- Page 32, Offset 20000.
+-- 誰が語ろう僕らこそ！
+  Soyons francs, nous sommes...!
+
+}
+[sha:0baf34cdb77237cdf21c0d96bf2d2b1b2e93393e]{
+-- Page 33, Offset 20001.
+-- ご主人様の<寵愛|ちょうあい><篤|あつ>い、変幻自在のシックスフォース！
+Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
+
+}
+[sha:13dc9c3675379ef1cd735f31af67081e253c0bc7]{
+-- Page 34, Offset 20002.
+-- ほ乳類から鳥類まで完全網羅の高級プロイ！
+    Des Ploy de haut niveau capables de se changer en mammifères ou en oiseaux !
+
+}
+[sha:a30a033992d5050f442b3d135289217adc97052e]{
+-- Page 34, Offset 20003.
+-- おしゃべり双子とは僕らのコト
+    Les Jumeaux bavards, c'est nous.
+
+}
+[sha:d99bf8746635e24133fba60b8331978a70933667]{
+-- Page 35, Offset 20004.
+-- おおーーー！？
+    Ooohーーー?!
+
+}
+[sha:6a0f988ba06bebe2c49c27d6fba647eea2525831]{
+-- Page 35, Offset 20005.
+-- まったく真っ暗どっちらけ、これじゃあゲームもできやしない！
+    On est dans le noir complet ! On ne va pas pouvoir jouer !
+
+}
+[sha:1f5b1aa4d4e32396c88e829e66b0f069ee4687cc]{
+-- Page 36, Offset 20006.
+-- あやーーー！！
+Ayaaaーーー!!
+
+}
+[sha:978b8c0384ca1769656904bff96e51fa0b42d14a]{
+-- Page 36, Offset 20007.
+-- 見る者いなけりゃどんな目だろうと同じこと！
+Sans observateur, la face du dé restera un mystère !
+
+}
+[sha:86023a91415d1bc95a599589fca57e93d03b35ed]{
+-- Page 36, Offset 20008.
+-- 賭けの続きは薄墨の、<鶏|とり>の卵が回った後で！
+Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !
+
+}
+[sha:7b8d300d4d769e6ef9d9ea89c8b8988e3d314983]{
+-- Page 37, Offset 20009.
+-- あ、いまの、もしかしてブタコンビ!?
+        Hé, ce serait pas le duo de cochons ?!
+
+}
+[sha:14b64de0138db01d71e94ab0400af705111cbf44]{
+-- Page 37, Offset 20010.
+-- アイツら、人間にもなれるッスかーーー！？
+        Ils peuvent se transformer en humainsーーー?!
+
+}
+[sha:00b0d3c41b7c5f244a48d95a7f259029ae5935e0]{
+-- Page 38, Offset 20011.
+-- ……一の目をだすと人間になるそうよ。
+    ...... Ils pourraient prendre cette forme avec le chiffre 1.
+
+}
+[sha:ce6eac61ac2c30bb000da751bbeb7b04ac0abdec]{
+-- Page 38, Offset 20012.
+-- 詳しくは、こう。
+    Voici les détails.
+
+}
+[sha:12c381c3a754662072c04e5128bd20f0487dde80]{
+-- Page 39, Offset 20013.
+-- 名前はおしゃべり双子。
+            Ils s'appellent les Jumeaux bavards.
+
+}
+[sha:7ce007604c273584912ca2bdacf8af8505e2008b]{
+-- Page 39, Offset 20014.
+-- うるさい方がトゥィードルダム、
+            Le casse-pied, c'est Tweedledum,
+
+}
+[sha:f87b7dabc6288997b69114500368475358b50c7d]{
+-- Page 39, Offset 20015.
+-- さわがしい方がトゥィードルディー。
+            et le braillard, c'est Tweedledee.
+
+}
+[sha:c18822e71c450dfc5ef20a00c2a187561659baa6]{
+-- Page 40, Offset 20016.
+-- ダイスを振って、
+          Ce sont des Ploy,
+
+}
+[sha:6895e6c2c4553ba04a4f480c1c6ebde56f7cc4a7]{
+-- Page 40, Offset 20017.
+-- 出た目で変形するカタチが変わるプロイね。
+          qui changent de forme selon le chiffre obtenu en jetant les dés.
+
+}
+[sha:230874b26a1a897250e0e022bf245f50ec500fa5]{
+-- Page 41, Offset 20018.
+-- 人間社会に毒されているから、
+      La société humaine a une influence néfaste sur eux,
+
+}
+[sha:b9f09524b6678a41948d117c1fdb0ea7ab3dc92c]{
+-- Page 41, Offset 20019.
+-- 普通の魔術が効きやすいのが欠点よ。
+      ce qui les rend vulnérables à la Magie normale.
+
+}
+[sha:389aa2ef8027ff32d6dc82d41c545f8cc2e56cd0]{
+-- Page 42, Offset 20020.
+-- 一の目とか、だしたコトあるッスか？
+      Vous avez déjà eu le chiffre 1 ?
+
+}
+[sha:f255b72c21e52c3aa9dc9d529cc35e30955e8609]{
+-- Page 43, Offset 20021.
+-- わたしじゃ無理みたい。
+      Apparemment, c'est impossible avec moi.
+
+}
+[sha:6467d8f27f049e1e858bc0d715f23ba9cb066d17]{
+-- Page 43, Offset 20022.
+-- 子ブタの姿以外、見たこともないもの。
+      Je n'ai jamais vu que leur forme de porcelets.
+
+}
+[sha:8456ad01226bb8299f68c7567f43ef07f9eac7e7]{
+-- Page 44, Offset 20023. Mods: @n.
+-- 無理も何も、ご主人様は清純すぎる！
+      Ce n'est pas impossible, vous être trop pure !
+
+}
+[sha:1f139a6a764fdf4aa6d201cf956d743e06640147]{
+-- Page 44, Offset 20024. Mods: @n.
+-- どんなものにも裏はある、
+      Toute chose a une face obscure.
+
+}
+[sha:631dbb1e0bfd8698be795d917635649e11307ab3]{
+-- Page 44, Offset 20025. Mods: @n.
+-- 僕らは振るにゃあコツがいる！
+      Il y a une astuce pour nous lancer !
+
+}
+[sha:decc4ac00e1e537c23084d963c674bae7b4a9d57]{
+-- Page 45, Offset 20026. Mods: @n.
+-- そうそう、時にはダーティーに！
+      Exactement, il faut parfois être fourbe !
+
+}
+[sha:94cfd0c1f92b476bdc7fa9b26c0b5c648459248b]{
+-- Page 45, Offset 20027. Mods: @n.
+-- とかく、この世はイカサマだらけ、
+      Ce monde est plein de ruses,
+
+}
+[sha:c165d2050f13b766c1dde91d4dc86d7a0b413509]{
+-- Page 45, Offset 20028. Mods: @n.
+-- ズルをしないと六の目以外は出ないが定め！
+      sans tricher, vous resterez sur le 6 !
+
+}
+[sha:d3aeb55fc03deb799b29a3d63ba5fbaf63f0ad37]{
+-- Page 46, Offset 20029.
+-- 夜の饗宴が、お皿に乗ってやってきたわね。
+      Le Banquet de la nuit est arrivé sur une assiette.
+
+}
+[sha:ab2845fe9a77d7dce7749e9f7f9b83db8ae4ae0e]{
+-- Page 47, Offset 20030.
+-- おなじみの『ディドルディドル』ッスね。
+      C'est notre bon vieux “Diddle Diddle”.
+
+}
+[sha:d9d005c57c604764cb9e22dd749aca27a972f772]{
+-- Page 47, Offset 20031.
+-- ジブンも知ってるッスよ。このマザーグース。
+      Moi aussi, je connais ce conte de Mother Goose.
+
+}
+[sha:d461bcc4cb8ec2240813a0addc256398f6631761]{
+-- Page 48, Offset 20032.
+-- それだけ有名というコトよ。
+      Ça montre à quel point il est célèbre.
+
+}
+[sha:82a3520810cb74530d258e50584b06f01b54ec98]{
+-- Page 49, Offset 20033.
+-- 『ヘイ、ディドル、ディドル。
+          『Diguedon, don don
+
+}
+[sha:706232d610fd7f9be6f07561c239ad8ccaa719f7]{
+-- Page 49, Offset 20034.
+-- 猫とヴァイオリン。
+              Le chat et le violon
+
+}
+[sha:43fb81206a853892ff1d5f9cd674847720a3c9eb]{
+-- Page 49, Offset 20035.
+-- 牛が月を飛び越えた。
+            La vache par-dessus la lune à saute-mouton
+
+}
+[sha:01cabab8e135c8426d069596290a5de1e8e46368]{
+-- Page 49, Offset 20036.
+-- そのおもしろい光景を見て犬が笑った。
+      Le petit chien a ri de voir cette fantaisie
+
+}
+[sha:cffe151d9e8d569f593e7d5dd48697f35c5b52c5]{
+-- Page 49, Offset 20037.
+-- そしてお皿はスプーンと逃げた。』
+        Et le plat avec la cuillère s'est enfui.』
+
+}
+[sha:b5db29daa6117de464141de1a04ef08685b66a72]{
+-- Page 50, Offset 20038.
+-- 典型的な<韻踏み唄|マザーグース>ね。
+      C'est une comptine typique.
+
+}
+[sha:f07dd28b054c00e7cc69dacfc266b6611dd47f46]{
+-- Page 50, Offset 20039.
+-- 真夜中、猫がヴァイオリンをひいて、
+      Le poème dépeint un chat jouant du violon à minuit,
+
+}
+[sha:e5e50d4b4fd4435ac161b04b502410170a79f183]{
+-- Page 50, Offset 20040.
+-- 牛が月を飛び越えて、犬が笑って、
+  une vache qui saute par-dessus la lune, un chien qui rit,
+
+}
+[sha:30924781a7f0ae18acec8ea3b00226dbad3fb732]{
+-- Page 50, Offset 20041.
+-- 擬人化された皿とスプーンが逃げていくだけの唄。
+  et les personnifications d'un plat et d'une cuillère qui s'enfuient.
+
+}
+[sha:49752e7d84a4e4727699435751be945087607a42]{
+-- Page 51, Offset 20042.
+-- 一説ではギリシャ・エジプトの神話を元にした……
+        Selon une théorie, on dit qu'elle se base sur une légende grecque ou égyptienne.
+
+}
+[sha:88d98b9fe67cd689f0df996e75834ac711480984]{
+-- Page 51, Offset 20043.
+-- とも言われているわ。星の運営を表しているのなら、
+        Si ça fait référence aux constellations, 
+
+}
+[sha:3a4855f241a47ec0c89d7e8be255833bb2f7b8ba]{
+-- Page 51, Offset 20044.
+-- 牛は<牡牛座|タウルス>のもじりでしょう。
+        alors la vache doit être une parodie du taureau.
+
+}
+[sha:7b362482e6fc8f1659b5da58b8db4fd3ac2a5b4d]{
+-- Page 52, Offset 20045.
+-- これは使い切りのプロイッスね。
+      C'est un Ploy jetable, pas vrai ?
+
+}
+[sha:e51a20e46452b115702419ce9ec4a3f08bfa0d60]{
+-- Page 52, Offset 20046.
+-- 一回使ったら壊れるッス。
+      Il se casse après chaque utilisation.
+
+}
+[sha:00242133e6eb3ffc90f882cdbb0c2d4b05a2e468]{
+-- Page 52, Offset 20047.
+-- アリスさん、そのたびに作ってるッスか？
+      Mam'zelle Alice, vous le fabriquez à la chaîne ?
+
+}
+[sha:7dc6fcc8765b269ba15660ef18510543c8e2fe7c]{
+-- Page 53, Offset 20048.
+-- 当然でしょう。
+  Évidemment.
+
+}
+[sha:58673265e2be02bc8dc8608ae8cbe236b00b574b]{
+-- Page 53, Offset 20049.
+-- ディドルディドルはわたしの魔術の基本だもの。
+  Diddle Diddle est à la base de ma Magie.
+
+}
+[sha:0b087ec891f91c8f928570ddc8518e7f275a42fb]{
+-- Page 54, Offset 20050.
+-- これを地面に沈めると、夜を助長させるの。
+En plongeant dans le sol, il renforce la nuit.
+
+}
+[sha:c5e4519c21d11af1bd81f71042f18d655aefa6ec]{
+-- Page 54, Offset 20051.
+-- 夜が深まれば、それだけわたしの魔術―――
+Une fois la nuit intensifiée, ma Magie,
+
+}
+[sha:400a8bf35cceb0fadbdf48b60ce49ec3f8556944]{
+-- Page 54, Offset 20052.
+-- 童話詠唱が確かな意味を持つようになるわ。
+les sorts de contes de fées, prend un sens concret.
+
+}
+[sha:0b0fda3a8886dea2b95fe9400f4ce22339fd9015]{
+-- Page 55, Offset 20053.
+-- 詳しくはこう。
+        Voilà les détails.
+
+}
+[sha:93b2cf0a81d0094f6d7924ac25fb88dbc4f15942]{
+-- Page 56, Offset 20054.
+-- わりと使いどころ限定なプロイッスね。
+    Les endroits où il est utilisable sont plutôt limités.
+
+}
+[sha:23bc171a15dea8b7613e44500ad3466cba713c1e]{
+-- Page 56, Offset 20055.
+-- アリスさん、都市部じゃ能力半減っつーか、
+    En ville, vos pouvoirs sont réduits de moitié,
+
+}
+[sha:aa977e19ee30ede14afd0165380653cd48fd0155]{
+-- Page 56, Offset 20056.
+-- 森ガールだったッスか。
+    parce que vous êtes une fille de la forêt.
+
+}
+[sha:6d4d35d223ab79239f3225f2636f6745fa1fe113]{
+-- Page 57, Offset 20057.
+-- これは「名無しの森」ね。
+          Voilà la “Forêt sans nom”.
+
+}
+[sha:d013ec8506fbdd7c941170e18b3b96c3e0391cc7]{
+-- Page 57, Offset 20058.
+-- これ単体だと意味がないから、
+          Comme ce Ploy ne sert à rien tout seul,
+
+}
+[sha:859351902814f90c4efb4dbba8db16393fd05f5d]{
+-- Page 57, Offset 20059.
+-- <地図|どだい>になるものが必要なのだけど……
+          il a besoin d'une carte pour fonctionner.
+
+}
+[sha:2ce8408cde8e179287e8f1593d9772b9d43f210a]{
+-- Page 58, Offset 20060.
+-- この「午睡の鏡」とセットで使うものよ。
+  Il s'utilise en combinaison avec le “Miroir de la sieste”.
+
+}
+[sha:8a898b2484d71aa1cd1a354ca229ab344a0bf60a]{
+-- Page 58, Offset 20061.
+-- この鏡は三大プロイにはなれなかったけど、
+  Ce dernier ne fait pas partie des Trois Grands Ploy,
+
+}
+[sha:cfa7f7fc6077c88a1dc8b0338bf6148a899f762a]{
+-- Page 58, Offset 20062.
+-- 機能的には三大に負けていないわ。
+  mais il n'a rien à leur envier, niveau capacités.
+
+}
+[sha:79d81ba1b1bb2a143f0d283c4aaa79061888cfe8]{
+-- Page 59, Offset 20063.
+-- 詳しくは、
+          Pour être plus précise,
+
+}
+[sha:caf93ac8bb570d81c6fe91a6dff18d3adabd6c8b]{
+-- Page 60, Offset 20064.
+-- 基本的には三咲市全体の索敵と洋館内の警備。
+  il sert à repérer les ennemis en ville et à garder le manoir.
+
+}
+[sha:62078ea7db85532b2ccba3b1e6f69e8d51062729]{
+-- Page 60, Offset 20065.
+-- たまに暴走して洋館内にゲートを作って、
+  Il échappe parfois à tout contrôle en créant des passages dans le manoir
+
+}
+[sha:11d9f044cba6b339d1091444597cbc5fdc7f4d3f]{
+-- Page 60, Offset 20066.
+-- 通る人を鏡の中に招いてしまうのが難点ね。
+  pour attirer les passants dans le miroir.
+
+}
+[sha:950a2d2eac4bc367e057aed253dc089cdd7206c1]{
+-- Page 61, Offset 20067.
+-- ははは。それであのシャバ僧が何度死にかけたか。
+  Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
+
+}
+[sha:9a187bb1edb4a1ea18b4af32cf1efbfad3877ae9]{
+-- Page 61, Offset 20068.
+-- 原点は鏡の国のアリスっスね。
+  Il est tiré de “De l'autre côté du miroir”, c'est ça ?
+
+}
+[sha:8743f90ac28976bb65b62bac354e703e70326c62]{
+-- Page 62, Offset 20069.
+-- そうね。元々は内側に異世界を持つだけの<魔術卵|エンブリオ>で、
+  Oui. À l'origine, ce n'était qu'un embryon doté d'un monde parallèle,
+
+}
+[sha:ce6ee75a1266c286959a1a4eab31aff12b111297]{
+-- Page 62, Offset 20070.
+-- 長いこと壊れていたらしいわ。
+  mais il est resté endommagé pendant un certain temps.
+
+}
+[sha:c9a0b21f548564b3ff077c65a47c06e2be781907]{
+-- Page 63, Offset 20071.
+-- それを母と橙子さんが協力して作り直した、
+  Ma mère et Tōko ont collaboré
+
+}
+[sha:c2ef20cb0a8ae93e916bc523da6d5186e3068a13]{
+-- Page 63, Offset 20072.
+-- という話よ。
+  et l'ont réparé.
+
+}
+[sha:80e1200b024605fa3403881e78da167c6b8671ed]{
+-- Page 64, Offset 20073.
+-- ？　なんでそんなコトするッスか？
+    ? Pourquoi faire ça ?
+
+}
+[sha:f2820088ef453abd80fc43f11ab125dc38d145ad]{
+-- Page 64, Offset 20074.
+-- マイ女神だけで十分じゃないッスか。
+    My Godness suffisait, non ?
+
+}
+[sha:eda6463eda4f2f8ff9ec890719d46ca37ea23023]{
+-- Page 65, Offset 20075.
+-- 魔女はその生で一つ、至高のプロイを遺さないとい^けない決まりがあるから。
+      Une règle stipule qu'une sorcière doit créer un Ploy suprême de son vivant.
+
+}
+[sha:502aa1d67c4d2a9de5beccf799cdcffd19a25994]{
+-- Page 66, Offset 20076.
+-- 「彼女はこの鏡を作り直して、
+          Selon Tōko, elle voulait sûrement reconstruire
+
+}
+[sha:c47fbb82cdb220450eaedb4d94fc2c585f306636]{
+-- Page 66, Offset 20077.
+-- 自分の最高傑作にしたかったのよ、きっと」
+          ce miroir pour en faire son chef-d'œuvre ultime.
+
+}
+[sha:f07971453fe5dd238e90df4bcfa683b6b36f1b58]{
+-- Page 66, Offset 20078.
+-- そう橙子さんは言っていたけど、どうだか。
+          Cela dit, je ne sais trop quoi en penser.
+
+}
+[sha:84c2708d74998af4ab1743c5f8a3d66abd962917]{
+-- Page 67, Offset 20079.
+-- どうかしら。こんなふうに午睡の鏡の表面を三咲の地図にして、
+  Qu'en dis-tu ? En affichant la carte de Misaki sur le Miroir de la sieste
+
+}
+[sha:ce1150ee11b707f03ad3afcbacd0ab997041ec4b]{
+-- Page 67, Offset 20080.
+-- その上にコマを置くとそこが「名無しの森」になるの。
+  et en posant le pion dessus, cet endroit devient la “Forêt sans nom”.
+
+}
+[sha:5066c229064357c1ffc7132c018e3eb2725231e3]{
+-- Page 68, Offset 20081.
+-- 青子のデビュー戦で使っていたのはこのプロイね。
+          C'est ce Ploy que j'ai utilisé pour le premier combat d'Aoko.
+
+}
+[sha:941d55688f365b2b39099893835b9446096ae61f]{
+-- Page 68, Offset 20082.
+-- このプロイの効果範囲に来ると『この先に用はない』
+          Dans sa zone d'action, il suggère aux intrus qu'ils n'ont rien à faire là, 
+
+}
+[sha:b1de2b52e37209ee75454808aa8b8ae092943d33]{
+-- Page 68, Offset 20083.
+-- と暗示がかかって人避けになるのだけど……
+          agissant comme une répulsion, mais......
+
+}
+[sha:3b6e4e52294beed666666a3916481ac53c4351f4]{
+-- Page 69, Offset 20084.
+-- 空気読まないヤツには通用しないってコトッスね。
+    Ça n'a pas d'effet sur les durs de la comprenette, si je saisis bien.
+
+}
+[sha:51aba11b107f4789644163dbdb6039e18e356357]{
+-- Page 70, Offset 20085.
+-- ……そうね。
+  ...... Exactement.
+
+}
+[sha:5a9e7ac017f7652401524575b2b9e630880c2413]{
+-- Page 70, Offset 20086.
+-- わたしのミスではないけれど、配慮が足りなかった。
+  Ce n'était pas ma faute, mais j'ai manqué de vigilance.
+
+}
+[sha:e3ee821dd78ebb1e8a0ff9abdb10b6fd1b791a39]{
+-- Page 70, Offset 20087.
+-- 次からは、本当に気をつけるわ。
+  La prochaine fois, je ferai plus attention.
+
+}
+[sha:1f7f54b75804394544af8b48be0586eb5ab37049]{
+-- Page 71, Offset 20088.
+-- 気を取り直して、次のプロイは―――
+      Reprenons. Le Ploy suivant est―――
+
+}
+[sha:82524bb31aa68fb488ef8b2018d95bfc4f032a92]{
+-- Page 72, Offset 20089.
+-- ヤフー！
+          Yahou !
+
+}
+[sha:3d8b3b81e9c69a71412ae42ba7596738a6e68719]{
+-- Page 72, Offset 20090.
+-- ジブンでも食べられる玉子ッスー！
+          Un œuf que même moi, j'peux manger !
+
+}
+[sha:6ef51f3f295794cdf353852648c751a43aa7031d]{
+-- Page 73, Offset 20091.
+-- うめぇ。玉子うめぇ。
+        Cet œuf est succulent !
+
+}
+[sha:cef2b00091f0f3e58a2d3637635797bb2cf0f527]{
+-- Page 73, Offset 20092.
+-- でも、なんかハラにたまるッスこの玉子。
+        Mais il me reste un peu sur l'estomac.
+
+}
+[sha:199c25929e6ba692bd71c88c2663277dd6f00e59]{
+-- Page 74, Offset 20093.
+-- 消化できないっつーか、
+      J'arrive pas à l'digérer.
+
+}
+[sha:e99d3edff0e19da3e9b50fbbe89ee35ff55f9c9c]{
+-- Page 74, Offset 20094.
+-- なんか、体の中心からチクタクチクタク音が
+      Et j'entends un tic tac
+
+}
+[sha:1e209a9b960080a1110ca133291467640bfa3af6]{
+-- Page 74, Offset 20095.
+-- するってゆーかぁ。
+      qui retentit à l'intérieur.
+
+}
+[sha:b1e6b3cc4e4487ca9b713c24ff9d5224abe439f2]{
+-- Page 75, Offset 20096.
+-- スリー。
+                Three.
+
+}
+[sha:3118db28cb298ecb17f66e19e3ce24cf2a77df1b]{
+-- Page 76, Offset 20097.
+-- アリスさん？
+      Mam'zelle Alice ?
+
+}
+[sha:d06b1f65890f9fb5650066a6e7216b77f56d442a]{
+-- Page 76, Offset 20098.
+-- なんで離れるッスか？
+      Pourquoi vous vous éloignez ?
+
+}
+[sha:b902b8a02941f1b0e9d28ff9b218be0c640ecb47]{
+-- Page 77, Offset 20099.
+-- トゥー。
+                  Two.
+
+}
+[sha:ad1793efa4b74171f1d040cb06512ca7baa6f45b]{
+-- Page 78, Offset 20100.
+-- なんで
+        Pourquoi
+
+}
+[sha:070ab2069593c105e833ca89646c6765d25180ac]{
+-- Page 78, Offset 20101.
+-- “かわいそうだけど、あと一秒で爆発するのよ”
+        vous me regardez d'un œil navré comme si
+
+}
+[sha:82bf41ff28fdf77f0fa9ffcea04e6abee9697f11]{
+-- Page 78, Offset 20102.
+-- みたいな目で見るッスか？
+        j'allais exploser d'une seconde à l'autre ?
+
+}
+[sha:290a72942c46aecb3e46ce5bad280bbe0b097eb8]{
+-- Page 79, Offset 20103.
+-- ワン。
+                  One.
+
+}
+[sha:45daba1de70ef4180c4c608d9bce1c07dec5d90f]{
+-- Page 80, Offset 20104.
+-- タスケテ。
+                    À l'aide.
+
+}
+[sha:0c09b0552a5b90253154f1d0c65c2a55bb07db01]{
+-- Page 81, Offset 20105.
+-- ゼロ。
+                Zero.
+
+}
+[sha:20a2003aea46a8a3504a8e731ac4c2148161bca6]{
+-- Page 82, Offset 20106.
+-- これはスクラッチ・ダンプティね。
+        Il s'agit de Scratch Dumpty.
+
+}
+[sha:4b4795d9359082c3fc0284dfadfb279004f42913]{
+-- Page 82, Offset 20107.
+-- マザーグースの唄にあるハンプティ・ダンプティを
+        Il est basé sur Humpty Dumpty apparaissant
+
+}
+[sha:25d3a86f79ad9650a142667ad337650233788af0]{
+-- Page 82, Offset 20108.
+-- モデルにしたものよ。
+        dans une des comptines de Mother Goose.
+
+}
+[sha:d58ec05c3a3373352da99f419aacfa2244ffb1b2]{
+-- Page 83, Offset 20109.
+-- “塀に上った卵はあぶなかしくて、
+      “Humpty Dumpty assis sur un mur
+
+}
+[sha:c3f88d94b5e959270df1e058fff1f30191961d4a]{
+-- Page 83, Offset 20110.
+-- 通りがかった王様が降りろと言っても無視するばかり。
+      mal assuré préféra ignorer le roi lui disant d'en descendre.
+
+}
+[sha:5aca3a812e089684e7035373ac74d4250104c70d]{
+-- Page 84, Offset 20111.
+-- 怒った王様は兵士たちに命じたけれど、
+  Ce dernier courroucé ordonna à ses soldats de le déloger,
+
+}
+[sha:39e0dce27d364627acd4c7e8a1935126039cc3fc]{
+-- Page 84, Offset 20112.
+-- 兵士たちでも卵を下ろすコトはできなかった。
+  mais ils ne purent atteindre l'œuf haut perché.
+
+}
+[sha:549dbaf9e470a9b7335d59ae23dc82bcd4b64b8e]{
+-- Page 85, Offset 20113.
+-- もう好きにしろ、と疲れた王様は目を離す。
+    Le roi fatigué laissa Humpty Dumpty en paix.
+
+}
+[sha:81d3bb690521e71f8b58a1e9c96a254e3cef29ba]{
+-- Page 85, Offset 20114.
+-- そのとたんに卵は落ちて、
+    C'est alors qu'il tomba de son muret,
+
+}
+[sha:d54196f0fdc5c4dd86eaec2be1db07f347e5f165]{
+-- Page 85, Offset 20115.
+-- 見るも無惨、聞くも痛快に、粉々に砕け散った。
+    pour se briser atrocement en morceaux.
+
+}
+[sha:2d5dbc6cd8561ae829e10a4f324b46d742a8ff13]{
+-- Page 86, Offset 20116.
+-- 油断も後悔も後のお祭り。
+      Il était trop tard pour regretter,
+
+}
+[sha:0fe8471a30fbdd6f4ed6c60d3814dca3709e2ec8]{
+-- Page 86, Offset 20117.
+-- 星のような欠片たちは、
+      car ni soldats, ni chevaux,
+
+}
+[sha:650649742e408aa80b9b699064edd76676dd96bc]{
+-- Page 86, Offset 20118.
+-- 王の軍勢をもっても拾いきれない―――”
+      ne purent jamais le recoller―――”
+
+}
+[sha:f73d883c509284de796afdd901960419c518125c]{
+-- Page 87, Offset 20119.
+-- 壊れた物は直らない、という寓話ね。
+La morale veut que certaines choses soient irréparables.
+
+}
+[sha:93418c3eb9ce7ec0a4a852ffb117ebec9ef308e6]{
+-- Page 87, Offset 20120.
+-- はた迷惑なお話だけど。
+Il ne fait que causer des ennuis aux autres.
+
+}
+[sha:13f4740f7bcf3884789cfea20182624058758210]{
+-- Page 88, Offset 20121.
+-- ちなみに、
+  À ce propos,
+
+}
+[sha:1d700a0f5683230eb9ace99d639af9f1899d194a]{
+-- Page 88, Offset 20122.
+-- ハンプティが卵型になったのは１９世紀半ばから。
+  Humpty devint un œuf à la moitié du XIXe siècle.
+
+}
+[sha:5dde8b040b698a0be476b65213efa9df1d9442f9]{
+-- Page 89, Offset 20123.
+-- １８４３年にアリキスというペンネームで、
+    En 1843, le pasteur Maberly dessina,
+
+}
+[sha:2adec94770dc87c9f5e50803ab5c401031bfda12]{
+-- Page 89, Offset 20124.
+-- マベリー牧師という人がハンプティの
+    sous le nom de plume “Alquis”,
+
+}
+[sha:7bb0408d33c610a297a7b44b79170bca5b803bf1]{
+-- Page 89, Offset 20125.
+-- パノラマ絵本を書いたのがはしり。
+    un livre d'images rempli d'illustrations de Humpty.
+
+}
+[sha:56ed0402b8cf70e69c9ea25855d244efd001b346]{
+-- Page 90, Offset 20126.
+-- ルイスキャロルのハンプティは、
+  Lewis Carroll s'est certainement inspiré
+
+}
+[sha:53c6c74c05ac28bf180cd99e2e773c7785302ab3]{
+-- Page 90, Offset 20127.
+-- それを参考にしたのでしょう。
+  de cette version de Humpty.
+
+}
+[sha:8eff2d69265a70653bdf1ef63b53f733f9e8bbb3]{
+-- Page 91, Offset 20128. Mods: @k, @e.
+-- 今夜は品切れのようね。
+    Les stocks sont épuisés pour ce soir.
+
+}
+[sha:c83c8504e7b003cd4c4886f743ddb9609785db5e]{
+-- Page 91, Offset 20129.
+-- シェフ、オカンジョーをお願い。
+    Chef, l'addition s'il vous plaît.
+
+}
+[sha:c0cc9f137fdf93ea9cc73747b44f1657be51282f]{
+-- Page 92, Offset 20130.
+-- 次は―――
+  La prochaine fois―――
+
+}
+[sha:2cf83ac18200f961537e5da844d2101343b66556]{
+-- Page 92, Offset 20131.
+-- 店中の大トロを、残らずいただくわ。
+  tous les ôtoro seront pour moi.
+
+}

@@ -1,0 +1,20 @@
+[sha:0b43eaaa8af03ba643298768154e01d58e5f9ad7]{
+-- Page 140, Offset 1218.
+-- ……ですが、気をつけてお嬢さん。
+-- TRANSLATION HERE
+}
+[sha:7c9e903580f0627673b3144cdb8de32d708d0357]{
+-- Page 140, Offset 1219.
+-- 陽のあたる話ばかりではありません。
+-- TRANSLATION HERE
+}
+[sha:e20a1ed2d742fa927abb149e76352cd83c0bcdeb]{
+-- Page 140, Offset 1220.
+-- この先は真相に近い夜の領域。
+-- TRANSLATION HERE
+}
+[sha:2efb42f25f312990f410b0331e805ec0cdf8e922]{
+-- Page 140, Offset 1221.
+-- では―――魔女の一日を語りましょう。
+-- TRANSLATION HERE
+}

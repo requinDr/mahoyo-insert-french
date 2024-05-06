@@ -1,0 +1,276 @@
+[sha:d5d25025da063742b2319cb7608f8051ae0f6f26]{
+-- Page 0, Offset 14668.
+-- 夜の訪れと共に、二つのものが消え去った。
+  Avec la tombée de la nuit, deux choses disparurent.
+
+}
+[sha:ad8f9cad6f832fe896c917915e885f5d51d482fb]{
+-- Page 0, Offset 14669.
+-- 一つは気まぐれな<白雪|しらゆき>。
+  D'abord, la neige blanche capricieuse.
+
+}
+[sha:1b8aec3b649b34e2a74180b61e560bc18a0d3d15]{
+-- Page 0, Offset 14670.
+-- 一つは、丘の上の洋館の明かりである。
+  Ensuite, la lumière du manoir en haut de la colline.
+
+}
+[sha:6c05df6c97799ae5836cac5183d3125975d4e9ad]{
+-- Page 1, Offset 14671.
+-- 洋館に青子と有珠の姿はない。
+  Aoko et Alice ne se trouvaient plus au manoir.
+
+}
+[sha:2098e048cb102489fc90309dd433a4254cf2b43e]{
+-- Page 1, Offset 14672.
+-- 残っているのは草十郎だけだ。
+  Il ne restait plus que Sōjūrō.
+
+}
+[sha:16fee7d966a58ed065bc6009a4d53a930aac2d84]{
+-- Page 1, Offset 14673.
+-- クリスマスイヴの夜。
+  En ce réveillon de Noël,
+
+}
+[sha:6aff7fc5aede4534c0be62311114baa15885aa6d]{
+-- Page 1, Offset 14674.
+-- いまだ橙子の隠れ家を見つけてはいないものの、彼女たちには今日と明日が決着の日だと判っていた。
+  elles n'avaient pas encore trouvé le repaire de Tōko, mais elles savaient que les journées du 24 et du 25 seraient décisives.
+
+}
+[sha:ceeaa29e715ec377d98ab8e5e95a3a287e5f041d]{
+-- Page 2, Offset 14675.
+-- 祭りとは日常の中の非日常だ。
+  Une fête est un évènement extraordinaire dans un quotidien ordinaire.
+
+}
+[sha:e760be405ffe52495a2bae4292b9fd7a1e053fe0]{
+-- Page 2, Offset 14676.
+-- 終わり、蘇り、やり直しを象徴する特異点である。
+  Il s'agit d'un moment particulier qui symbolise la fin, la renaissance et le recommencement.
+
+}
+[sha:799f6c3abd2fe53828d55acf8aefae965b223ac7]{
+-- Page 2, Offset 14677.
+-- <聖誕祭|クリスマス>など百年程度の歴史しかなく、形骸的な記念日にすぎないとしても、営みの<環|わ>に組みこまれているのなら偽物も本物もない。
+  Même si Noël n'avait que cent ans d'existence et n'était qu'un jour d'anniversaire vide de sens, tant qu'il faisait partie du cercle de la vie, son authenticité n'avait aucune importance.
+
+}
+[sha:e512f04dc1966585135b8a5e4b8a3ad98e88ed90]{
+-- Page 2, Offset 14678.
+-- 祭りにおいて、土地の<魔|マ><力|ナ>の増大は<著|いちじる>しい。
+  Lors des fêtes, l'accroissement du mana d'une terre se révélait considérable.
+
+}
+[sha:ef6d17af709b7a97958b55aef1b70bfebdb4d5b0]{
+-- Page 2, Offset 14679.
+-- 造るにしろ壊すにしろ、蓄えられてきた歪みは術者の魔術行使を助けるだろう。
+  Que ce soit pour créer ou détruire, l'anomalie récoltée seconderait les Mages dans leurs sorts.
+
+}
+[sha:ae331fbe678f5d3795cb7eb4b0d70210d2c1d617]{
+-- Page 3, Offset 14680.
+-- 蒼崎橙子はこの土地に造られた支点……土地、人々からの魔力を集め、正しく循環させている……を壊そうとしている。
+  Aozaki Tōko essayait de détruire les Pivots de cette terre...... qui rassemblaient le prana provenant des gens et de la terre et le faisaient circuler correctement.
+
+}
+[sha:93bfc6bfe9d7c30576fad0e403205323f36c5c52]{
+-- Page 3, Offset 14681.
+-- 草十郎もそれぐらいは青子たちの会話から聞き取っていた。
+  Sōjūrō avait compris ceci grâce à des bribes de conversation entre Aoko et Alice.
+
+}
+[sha:323be5c6da72ad3a454b9d835e6336ec86731087]{
+-- Page 3, Offset 14682.
+-- 五ヶ所にある支点のうち三つは既に破壊され、橙子の手に渡っている。
+  Tōko avait déjà détruit et pris possession de trois des cinq Pivots.
+
+}
+[sha:78c3b664d707330c704dd19e832b384349c8c8b2]{
+-- Page 4, Offset 14683.
+-- 残るは二ヶ所。
+  Il n'en restait plus que deux.
+
+}
+[sha:8f742608c7a2b972c2b609c8349a89ec4176e94c]{
+-- Page 4, Offset 14684.
+-- これ以上の破壊は青子たちの敗北を意味する。
+  De nouvelles pertes signeraient la défaite d'Aoko et Alice.
+
+}
+[sha:7b39a0a84e69edca51b828d1f3fbacd682d409a3]{
+-- Page 4, Offset 14685.
+-- 青子と有珠は残った支点を守るため、別行動を取らざるをえない。
+  Pour protéger les Pivots restants, elles n'avaient pas d'autre choix que d'agir séparément.
+
+}
+[sha:4164b01bdb397ed261d35cf79fa9ee58ddc57c18]{
+-- Page 4, Offset 14686.
+-- 力量的に劣る青子は、有珠の<使い魔|プロイ>を一体借り受け、最高の<魔力提供|バックアップ>を誇る陶川の支点に。
+  De force inférieure, Aoko avait emprunté l'un des Ploy d'Alice et s'était rendue au Pivot de Tôgawa qui se targuait de fournir le meilleur apport en prana.
+
+}
+[sha:7262aaefaee8f410ca333d7f27f273eca98f1af0]{
+-- Page 4, Offset 14687.
+-- 有珠は万全の装備で<社木|やしろぎ>の支点へ。
+  Parfaitement équipée, Alice était partie pour le Pivot de Yashirogi.
+
+}
+[sha:94bdebabb7c87f698b3b6886f46cf153f0abb001]{
+-- Page 5, Offset 14688.
+-- 文明社会のくびきから逃れ、
+  Tard dans la nuit, libérée du joug de la société civilisée,
+
+}
+[sha:d5030ac0a3f52db090802ef3b5add4571a1cb2f9]{
+-- Page 5, Offset 14689.
+-- 魔術が最大限の威力を発揮する深夜。
+  la Magie pouvait déployer son pouvoir au maximum.
+
+}
+[sha:568889d02cb9f8107fe645fe817b0a24646b77ab]{
+-- Page 5, Offset 14690.
+-- 幼い魔女と魔法使い見習いは、互いの健闘を祈って洋館を後にした。
+  La jeune sorcière et l'apprentie Magicienne quittèrent le manoir en se souhaitant bonne chance.
+
+}
+[sha:23cacd7df72934e7089d8c1c71cbeb1d87b2d54b]{
+-- Page 6, Offset 14691.
+-- 時刻はじき午後十時になろうとしている。
+  Il serait bientôt dix heures du soir.
+
+}
+[sha:4cd85603ec90495523fcb58b040887df4774d0d6]{
+-- Page 6, Offset 14692.
+-- 彼女たちが出立してから、早い事に二時間は経っていた。
+  Depuis le départ des deux filles, deux heures s'étaient déjà écoulées.
+
+}
+[sha:38785db0ccb899dacdb8b6afb1648e2695bf4e53]{
+-- Page 7, Offset 14693.
+-- 青子が陶川の支点に向かう時、草十郎はロビーまで見送った。
+  Lorsqu'Aoko s'était rendue au pivot de Tôgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
+
+}
+[sha:f32bee439cfcf1b7a4dffba4e4e52abf11dfcddd]{
+-- Page 7, Offset 14694.
+-- 草十郎に話はなかったし、青子にだって話はなかった。
+  Il n'avait rien à dire, et elle non plus.
+
+}
+[sha:ac912e9f70331d19e5e85cfc0698c411400c6fb6]{
+-- Page 7, Offset 14695.
+-- <悲壮|ひそう>な空気もなく、青子は<颯爽|さっそう>と出ていった。
+  Aoko était partie d'un pas vif, sans afficher un quelconque air héroïque.
+
+}
+[sha:cc419039cb664023cd57ff5128e37a9eb39fddf1]{
+-- Page 7, Offset 14696.
+-- 宣言した通り、青子は草十郎を関わらせる気はないのか、それとも戦力と見ていないのか。
+  Comme elle l'avait affirmé, elle ne semblait pas vouloir l'impliquer là-dedans, à moins qu'elle n'ait considéré qu'il ne pourrait apporter aucune aide.
+
+}
+[sha:02b631ba22af4310d0023b888d5eff9e586e536e]{
+-- Page 7, Offset 14697.
+-- どうしてか、それが少しだけ胸に残った。
+  Ce fait lui était quelque peu resté sur le cœur.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 8, Offset 14698.
+-- 「――――――」
+「――――――」
+
+}
+[sha:ec93ffe4a72962bb91f086bb093ca2c6b12a837b]{
+-- Page 8, Offset 14699.
+-- 大きく息を吐く。
+  Il poussa un gros soupir.
+
+}
+[sha:627ee1ed9e49a190590b8e1ba0f8866ec3a6d5e1]{
+-- Page 8, Offset 14700.
+-- <落胆|らくたん>でも<焦燥|しょうそう>でもない。
+  Il ne venait ni de sa déception, ni de son impatience.
+
+}
+[sha:a017b474e40a0ca54ae65d30c122d4ae3538fe9d]{
+-- Page 8, Offset 14701.
+-- 機械的な、これといった<感|い><情|み>のない息継ぎだ。
+  Ce n'était qu'un soupir machinal sans aucun sens particulier.
+
+}
+[sha:4fe7fac0d1944e66bd2e645bb74ac3387dc378d2]{
+-- Page 9, Offset 14702.
+-- 張りつくような冷たさの床に座りこんで、草十郎はぼんやりと天窓を見上げる。
+  Assis sur le sol glacial, Sōjūrō regardait la lucarne d'un œil distrait.
+
+}
+[sha:a7aef754aaaf80a477d8798be9acb07e30bf56d3]{
+-- Page 10, Offset 14703.
+-- 切り取られた空からは、雲間から覗く月の光。
+  Le clair de lune passait entre les nuages du morceau de ciel.
+
+}
+[sha:712446e815d368c56869ea87cfdb08134eb8123c]{
+-- Page 10, Offset 14704.
+-- 町に降り積もった雪は月光を照り返して、夜を真白に照らしているのだろう。
+  La neige tombée sur la ville devait refléter les rayons et illuminer la nuit d'un blanc immaculé.
+
+}
+[sha:48cc9fa0fc4c4bfcf9a422358c41198b04bf1fd1]{
+-- Page 10, Offset 14705.
+-- その町中に、彼が立つ事はない。
+  Son esprit n'appartenait pas à cette ville.
+
+}
+[sha:012e11052bce099dd6e2340a2be95e3f8b8be707]{
+-- Page 10, Offset 14706.
+-- 当然のように、初めから関わる事はない。
+  Cette histoire ne le concernait en rien depuis le début, c'était une évidence.
+
+}
+[sha:626dab4ca6c46eddd4df2e9db61625f4ba458b33]{
+-- Page 11, Offset 14707.
+-- 彼女たちの世界と彼の世界は違っている。
+  Leur monde et le sien étaient différents.
+
+}
+[sha:eeb2571179572c159a8bf0373d47e054af7e92df]{
+-- Page 11, Offset 14708.
+-- ついていく事はできないし、彼にその意志も意義も思いつかないのなら、あとは<傍観|ぼうかん>するだけだ。
+  Il ne pouvait pas les suivre, et s'il n'en avait pas la volonté ou n'y trouvait aucun sens, alors il ne pouvait qu'être simple spectateur.
+
+}
+[sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
+-- Page 11, Offset 14709.
+-- ただ、
+  Ainsi...
+
+}
+[sha:2dde037a69e396e515531850ff4777c136dc4fe5]{
+-- Page 11, Offset 14710.
+-- 「―――そうか。
+「―――Je vois.
+
+}
+[sha:af5dea50d757d8be72e5c646773c7aa486483fa8]{
+-- Page 11, Offset 14711. Glued. Mods: @x.
+-- この手が必要な時は、もうないのか」
+Cette main ne sera plus utile.」
+
+}
+[sha:76e8f82dd3a6a7a49908612615e569ffc168521d]{
+-- Page 11, Offset 14712.
+-- 独白して月を見上げる。
+  dit-il en regardant la lune.
+
+}
+[sha:7cfd45211902c1a44e39660c49baf88d489f4d77]{
+-- Page 11, Offset 14713.
+-- だから、それが少しだけ、悲しかった。
+  Voilà pourquoi c'était un peu triste.
+
+}

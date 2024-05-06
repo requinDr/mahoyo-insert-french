@@ -1,0 +1,1128 @@
+[sha:a225d6fefda0f30c3d280595e2b6d65a01b04340]{
+-- Page 0, Offset 5611.
+-- けれど、希望はいつだって束の間のもの。
+  Mais les espoirs sont toujours éphémères.
+
+}
+[sha:29bbd1ddb58d7ac0343788c91c2d8f0dfe5ada78]{
+-- Page 0, Offset 5612.
+-- 彼らの希望は三百メートル分しか続かなかった。
+  Dans leur cas, ils ne durèrent que trois cents mètres.
+
+}
+[sha:16782aef66f6563e2722de59a3698b3efb97f196]{
+-- Page 0, Offset 5613.
+-- 遊園地の果ては、何の比喩もなく“世界の果て”そのものだったのだから。
+  Car la fin du parc d'attractions était, sans la moindre métaphore, “la fin du monde” elle-même.
+
+}
+[sha:97c5c5ef63fa2bf760d6b8835a8490bdf30e92a6]{
+-- Page 1, Offset 5614.
+-- 波立つ、何十という地平線。
+  Un horizon agité par d'innombrables vagues.
+
+}
+[sha:1c2ae50c8544cbdc76948013791337f622a7fe8f]{
+-- Page 1, Offset 5615.
+-- それは<群雲|むらくも>のような、<緞帳|どんちょう>のような、
+  On aurait dit un amas de nuages, d'épais rideaux de scène,
+
+}
+[sha:73829d4db8aab115566de34ac04cfc335cf01246]{
+-- Page 1, Offset 5616.
+-- あるいは呻きをもらす<唇|ひだ>のような、
+  ou encore des lèvres laissant échapper un gémissement.
+
+}
+[sha:64d65d5636aca9d02e9ceae5aa718373cc199d93]{
+-- Page 1, Offset 5617.
+-- あまりにも奇怪で、あまりにも童話めいた、この世界の行き止まり。
+  C'était un spectacle infiniment étrange qui semblait sortir tout droit d'un conte pour enfants. La conclusion de ce monde.
+
+}
+[sha:a5c4c44221cb4597db09342ce3b9feb7860b26f6]{
+-- Page 1, Offset 5618.
+-- ―――さながら。
+  ―――C'est comme...
+
+}
+[sha:282e12ba46a99f9ce18966ae28fbea8b3358b475]{
+-- Page 1, Offset 5619.
+-- 巨大な紙芝居の最後の一枚だと、彼女は思った。
+  la dernière page d'un énorme théâtre d'images, pensa-t-elle.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 2, Offset 5620.
+-- 「――――――」
+「――――――」
+
+}
+[sha:075815837b413468f7de4ad3281dae52b1e8ada5]{
+-- Page 2, Offset 5621.
+-- その光景を前にした時、青子は不覚にも、一切の思考を放棄した。
+  Lorsqu'Aoko fit face à ce spectacle, son esprit se figea inconsciemment.
+
+}
+[sha:ec1ce496295f2549adad8d5043c4069581888c87]{
+-- Page 2, Offset 5622.
+-- ……ああ、たいへんな事になったな、と。
+  ...... Aah, on est vraiment dans la mouise, pensa-t-elle.
+
+}
+[sha:f8156f5f57d2837bc30d1e77c782cb72ab5727ea]{
+-- Page 2, Offset 5623.
+-- 波立つ境界線を見て、ようやく、この<絶望島|スナーク>に膝を屈した。
+  En voyant la frontière ondulante, elle fléchit enfin les genoux face à cette <île|Snark> du désespoir.
+
+}
+[sha:47dd18340765737d916576afa87597cb0e6137f1]{
+-- Page 3, Offset 5624.
+-- 遊園地に終わりはあった。
+  Il y avait une fin au parc d'attractions.
+
+}
+[sha:2f0786e26bce09c5b276dc3a7bd64e37538152dc]{
+-- Page 3, Offset 5625.
+-- 青子たちの知っている通り、遊園地と住宅街を<隔|へだ>てる鉄柵はこうして今も。
+  Comme ils le savaient, la clôture séparait toujours le parc d'attractions de la zone résidentielle.
+
+}
+[sha:4f1689790e4c938faf1ab3a25be303518a9cbee5]{
+-- Page 4, Offset 5626.
+-- 鉄柵は二倍ぐらい高くなっていたり、なんだか装飾が頑丈になっていたりするけど、それも想定の範囲内。
+  Sa taille avait doublé et sa structure avait été renforcée, mais cela restait dans les scénarios acceptables pour Aoko.
+
+}
+[sha:a6098ea1141975c2b46014635180c0494025875b]{
+-- Page 4, Offset 5627.
+-- たとえ鉄柵がスナーク化していようと、壁の一枚や二枚なら撃ち抜く<気概|つもり>で彼女はここまでやって来たのだから。
+  Après tout, elle était venue dans l'intention de pulvériser même un ou deux murs supplémentaires si la clôture avait subi la snarkisation.
+
+}
+[sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
+-- Page 4, Offset 5628.
+-- ……けれど。
+  ...... Toutefois.
+
+}
+[sha:ca1cbb728500c76c0926eadb3b001f431ff15eff]{
+-- Page 4, Offset 5629.
+-- 目前に広がるモノは、もはや境界ですらなかった。
+  Ce qui s'étendait devant elle n'était même plus une simple frontière.
+
+}
+[sha:dbfd1bdeeea750eab9ff6406110555baa3fcd476]{
+-- Page 5, Offset 5630.
+-- この異界と外界を分かつ海。
+  C'était un océan qui séparait cet outre-monde du monde extérieur.
+
+}
+[sha:16db7a84eb9cec6d742e6c0ba18e0a00491b4d77]{
+-- Page 5, Offset 5631.
+-- 鉄柵は寄せ返す<波濤|はとう>の如く。
+  La clôture semblait être une véritable mer agitée d'innombrables remous.
+
+}
+[sha:b3ff3a82fb2194ef25e49dcb22b00b3dd627507c]{
+-- Page 5, Offset 5632.
+-- 一枚、二枚はたやすく破れる。
+  Aoko pouvait briser facilement une armature en fer ou deux.
+
+}
+[sha:988f40593d2803a257e0a3478f3dc27c94b450d7]{
+-- Page 5, Offset 5633.
+-- 十枚、二十枚までは何とか進める。
+  Elle parviendrait à progresser d'une quelconque façon même si elle devait briser dix ou vingt d'entre elles.
+
+}
+[sha:595ea830273c0c26e4055fee5b8a7a64b8163a3a]{
+-- Page 5, Offset 5634.
+-- 残った自身の魔力と、遊園地に満ちた魔力と、魔術回路と刻印を焼き切れるまで総動員すれば、ただ一度きり、<十戒|じっかい>の真似事ぐらいはやってみせると強がれる。
+  Avec le reste de son prana et le mana du parc d'attractions, si elle utilisait son Circuit Magique et son Sceau à plein régime jusqu'à ce qu'ils soient tous deux calcinés, elle pouvait faire illusion et se prendre pour Dieu au moins une fois.
+
+}
+[sha:8198de709e53804eeae80129f7b5582e3626f7eb]{
+-- Page 6, Offset 5635.
+-- 「―――でも、それで終わり」
+「―――Mais après, ce sera la fin.」
+
+}
+[sha:bdd401e86f300d3024fb10db118622aa72c14d56]{
+-- Page 6, Offset 5636.
+-- この海を割った後、青子には立ち上がる体力さえ残らない。
+  Après avoir fendu cette mer, Aoko n'aurait même plus la force de se relever.
+
+}
+[sha:ea4c4ca3c3a444d329f74d50cd3510b9b5b54898]{
+-- Page 6, Offset 5637.
+-- ……その後の運命は明白だ。
+  ...... Le destin qui s'ensuivrait était évident.
+
+}
+[sha:6088b6b93e7b74f9579c3aff7a5dd9d17ff3b04e]{
+-- Page 6, Offset 5638.
+-- さんざん遊園地を壊してまわった青子を、住人たちは決して許しはしないだろう。<蜜|みつ>にたかる<蟻|あり>の如く、動けなくなった少女を八つ裂きにする。
+  Les résidents du parc d'attractions ne pardonneraient sûrement jamais Aoko de l'avoir autant endommagé. Comme des fourmis grouillant autour du miel, ils découperaient en morceaux une Aoko incapable de bouger.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 7, Offset 5639.
+-- 「――――――」
+「――――――」
+
+}
+[sha:2d7f52510020e3183e1f7dbe8a65095d5e322c8e]{
+-- Page 7, Offset 5640.
+-- <落胆|らくたん>と疲れから、微かな後悔がこぼれる。
+  Sous le coup du découragement et de la fatigue, elle laissa échapper un faible soupir de remords.
+
+}
+[sha:92537ed5e2fc6d75b82e18add5439f1fa71e07bf]{
+-- Page 7, Offset 5641.
+-- 遊園地から外に出る。
+  Sortir du parc d'attractions.
+
+}
+[sha:20990baab15092c8485dfbbc032c2bba13813c65]{
+-- Page 7, Offset 5642.
+-- その選択自体が間違いだったと認めて、青子は来た道を振り返った。
+  Après avoir compris que cette décision en elle-même était une erreur, Aoko se retourna vers le chemin par lequel elle était arrivée.
+
+}
+[sha:95af914a44844c2633fe756e863f247480a5d937]{
+-- Page 8, Offset 5643.
+-- <金色|こんじき>の満月の下、鉄骨はうねり、針金細工のように集まっている。
+  Sous la pleine lune dorée, les armatures en fer serpentaient, et se rassemblaient comme un ouvrage en fil de fer.
+
+}
+[sha:7684808a6f724498755adfc0a33983d2bf6760cc]{
+-- Page 8, Offset 5644.
+-- 遊園地そのものが巨大な“怪物”になるのも時間の問題だ。
+  Ce n'était plus qu'une question de temps avant que le parc d'attractions lui-même ne devienne un gigantesque “monstre”.
+
+}
+[sha:f982a1c2a7f541cf072e4320bdf350da7de46830]{
+-- Page 8, Offset 5645.
+-- 有珠のいる広場には大量の使い魔が集っており近寄れもしない。
+  Un grand nombre de familiers s'étaient réunis sur la grande place où se trouvait Alice et on ne pouvait même plus s'en approcher.
+
+}
+[sha:d65e41305cd27ade8a1d43a2acb44a9d3f486262]{
+-- Page 8, Offset 5646.
+-- 傍らに立つ少年の頭上には、かわらず表面をシャッフルし続ける<囁く卵|スクラッチ・ダンプティ>。
+  Au-dessus du garçon à côté d'elle, l'œuf chuchoteur Scratch Dumpty poursuivait sa transformation.
+
+}
+[sha:7362ac2699e173ec7653837288959e8df2b147db]{
+-- Page 9, Offset 5647.
+-- 「―――蒼崎！」
+「―――Aozaki !」
+
+}
+[sha:71ed7b68a82d17d84376d374a09f49613eae5642]{
+-- Page 9, Offset 5648.
+-- 「静希君……？」
+「Shizuki......?」
+
+}
+[sha:eda1cfa67ffedc3c94725dd3c035409f0761df62]{
+-- Page 9, Offset 5649.
+-- 少年の声に、止まっていた思考が動き出す。
+  Ses pensées pétrifiées reprirent leur cours grâce à la voix du garçon.
+
+}
+[sha:32af7e360eacec82b00d2c8a3ae78bd1efd66eb8]{
+-- Page 9, Offset 5650.
+-- ……けれど、それも一瞬。
+  ...... Mais cela aussi ne dura qu'un instant.
+
+}
+[sha:e97486b01dd0a87b8f76132e2d23a6ad3f354fea]{
+-- Page 9, Offset 5651.
+-- 魔術師である青子は現状を把握してしまう。
+  En tant que Mage, Aoko comprenait la situation.
+
+}
+[sha:396ba92030b57f4fb49d1e9c70e7074803f90203]{
+-- Page 9, Offset 5652.
+-- その絶望が、彼女から抗う<選択|いし>を根こそぎ奪っていた。
+  Son désespoir lui avait dérobé toute sa force de volonté.
+
+}
+[sha:dd3b58ad3b6a1b4321850843885272bd60a332f6]{
+-- Page 10, Offset 5653.
+-- 「<正門|ゲート>に行こう。ここはどうしようもないけど、入り口ならもうちょっとマシだろう。
+「Allons à la porte principale. Ici, on ne peut rien faire, mais à l'entrée, peut-être qu'on pourra tenter quelque chose.
+
+}
+[sha:b58b97a82b041bdb6d12358eb92238c4016b60cb]{
+-- Page 10, Offset 5654.
+-- フラットスナークだっけ？　コイツにもルールがあるって言ったじゃないか。
+  Il s'appelle Flat Snark, c'est ça ? Tu as bien dit que lui aussi obéissait à des règles.
+
+}
+[sha:1e1e656f771dbe58c6bc1dd94a602830362d52ff]{
+-- Page 10, Offset 5655. Glued. Mods: @x.
+-- なら、これは役割の問題だ。はじめから鉄柵は通れない壁だけど、正門なら出入り口として機能しているかも知れない」
+Dans ce cas, tout n'est qu'une question de rôle. Depuis le début, la clôture était un mur infranchissable, mais peut-être que l'entrée peut servir de sortie.」
+
+}
+[sha:4925a3dc5750f7909946c17c49b415668d9c3b33]{
+-- Page 11, Offset 5656.
+-- 草十郎はパニックに<陥|おちい>っていない。
+  Sōjūrō n'était pas paniqué.
+
+}
+[sha:a5259736a35c75774b07fb42e29bb84a192ea189]{
+-- Page 11, Offset 5657.
+-- この状況でスナークの特性を読み取れるのは凄いな、と青子は素直に感心した。
+  C'est impressionnant qu'il arrive à comprendre les caractéristiques du Snark dans cette situation, admira honnêtement Aoko,
+
+}
+[sha:303f2a6dd81c07b7ad667b6845994a1baf899c89]{
+-- Page 11, Offset 5658.
+-- 冷めきった、覚悟を決めた心持ちで。
+  dont l'esprit devenait froid et résolu.
+
+}
+[sha:17d3bd51b0005fc4325145cde19eb96e6579c720]{
+-- Page 12, Offset 5659.
+-- 「……そうね。たしかに門はあると思う。
+「...... Tu as raison. Je pense qu'il y a en effet une porte.
+
+}
+[sha:8b8fccd784c36895118bc3cb54b2c18357406915]{
+-- Page 12, Offset 5660.
+-- けど、たどり着くのは難しいわ。一番弱かった焼きたてパンですら、今はもうアレだもの。
+  Mais elle risque d'être compliquée à atteindre. À présent, même les pains grillés, qui sont pourtant les plus faibles du parc, sont devenus redoutables.
+
+}
+[sha:df2bc1de2e304283b147e8910758712b618de02b]{
+-- Page 12, Offset 5661.
+-- 広場や入り口にはもっと上等なのがたむろしてるだろうし、門だって、あの観覧車以上の怪物かもしれない。たしか大きなキッツィーちゃんだったでしょ、正門って」
+  Les plus élaborés d'entre eux doivent s'être réunis sur la grande place ou à l'entrée, et à la porte, il y aura peut-être un monstre encore plus fort que cette grande roue. Si je me rappelle bien, la porte principale était un grand Kitsy-chan.」
+
+}
+[sha:0ec027f43028bb2a205957aa6f7f6b7162306d84]{
+-- Page 13, Offset 5662.
+-- 「……蒼崎は正門には行かないのか？」
+「...... Tu n'as pas l'intention d'aller à la porte principale ?」
+
+}
+[sha:2e39cfb76ffb6fb107507aded4843fb40dae085c]{
+-- Page 13, Offset 5663.
+-- 「まあね。それよりこっちの方が現実的だし」
+「Non. Et puis, c'est plus réaliste de tenter ma chance ici que là-bas.」
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 13, Offset 5664.
+-- 「？」
+「?」
+
+}
+[sha:850e596ef222d6bce534abb912666b047ac764ed]{
+-- Page 14, Offset 5665.
+-- 青子は波立つ鉄柵を<一瞥|いちべつ>する。
+  Aoko jeta un coup d'œil à la clôture ondulante.
+
+}
+[sha:b7433eba8ca0a2c9f4239161494ef5c2155ae974]{
+-- Page 14, Offset 5666.
+-- 既に『生きて脱出する』という目標は達成できない。
+  Son objectif de “s'enfuir en vie” était désormais irréalisable.
+
+}
+[sha:0335ba73eb49e159c8d97dcc8d96db0f77bbfcfb]{
+-- Page 14, Offset 5667.
+-- である以上、残ったもう一つの約束を優先しようと、彼女は心を切り替えていた。
+  Et donc, elle se concentra sur la promesse qu'elle avait faite et put reprendre son calme.
+
+}
+[sha:e3dd7e9c9ef83d6d6fb5aaa50d405ab54b73b6ff]{
+-- Page 15, Offset 5668.
+-- 「今からこの鉄柵を壊すから、貴方はそこから外に出て。
+「Maintenant, je vais détruire cette clôture. Tu rejoindras l'extérieur en passant par ici.
+
+}
+[sha:3267f67834fc5d6e0e82a875e35af560e91ba845]{
+-- Page 15, Offset 5669.
+-- それで、私の役割はおしまいよ」
+  Ainsi, mon rôle sera terminé.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 15, Offset 5670.
+-- 「――――――」
+「――――――」
+
+}
+[sha:f0b49d635f111e4a9d025711b41909986f81ed33]{
+-- Page 15, Offset 5671.
+-- 言葉は少なかったが、淡々とした声がすべてを物語っている。
+  C'était bref, mais sa voix indifférente avait tout dit.
+
+}
+[sha:95b3f0ade7bbbb612d76df247db4634a6164bf4a]{
+-- Page 15, Offset 5672.
+-- 彼女は彼に、ひとりで逃げろと言ったのだ。
+  Elle lui signifiait de s'échapper tout seul.
+
+}
+[sha:01a57eb7cd6f424a7fe49d04618c360001706c3b]{
+-- Page 16, Offset 5673.
+-- 「……信じられない。
+「...... Je ne te crois pas.
+
+}
+[sha:b1d930648e0ba546caa9534719faa543d1d57630]{
+-- Page 16, Offset 5674.
+-- こんなの、蒼崎だけじゃ壊せないだろう」
+  Tu ne pourras pas détruire cette clôture à toi toute seule.」
+
+}
+[sha:35253e1f14b1604d7dc08418ad158f39687c2bc2]{
+-- Page 16, Offset 5675.
+-- 「私だけならね。でも、今はこの遊園地が味方してる。燃料がこれだけあるんだから、私は銃身になるだけでいいんだし。一発でかいのお見舞いしてやるわ。
+「Seulement si ça ne dépendait que de moi. Mais en ce moment, le parc d'attractions est mon allié. J'ai autant de carburant que nécessaire, donc je n'ai qu'à devenir le canon. Je vais régler ce problème en un seul tir.
+
+}
+[sha:1933c55b7bab61541e61f8f1e9bdaf994098e4e5]{
+-- Page 16, Offset 5676.
+-- ……ま、それでも一回が限度だから、穴をあけたら、アンタには全力で走り抜けてもらうしかないけど」
+  ...... Mais même avec toute cette puissance, je ne pourrai tirer qu'une fois. Donc dès que le passage sera ouvert, il faudra que tu coures vers l'extérieur aussi vite que possible.」
+
+}
+[sha:5688a88c9b6308903051dc92bc5c516370e16848]{
+-- Page 17, Offset 5677.
+-- この鉄柵の海に道を作る。
+  Elle allait lui frayer un chemin dans cette mer de clôtures,
+
+}
+[sha:8a992ad3cac62600eb71e149dc1e4f7c9f64875d]{
+-- Page 17, Offset 5678.
+-- それは彼女の持てる力を総動員しての、一度きりの大詠唱、大射程の極限魔弾。
+  avec une surpuissante balle de prana à longue portée, en ayant recours à une grande Aria unique et en consommant tout le prana dont elle disposait.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 18, Offset 5679.
+-- 「――――――」
+「――――――」
+
+}
+[sha:e2cc5d4ad21873436dfc3b02365ae3699534b059]{
+-- Page 18, Offset 5680.
+-- 門外漢である草十郎には、それがどれほどの負担をかけるものか想像もできない。ただ漠然と、遊園地に取り残される青子の姿が思い浮かぶ。
+  En tant que profane, Sōjūrō ne pouvait même pas imaginer à quel point les efforts auxquels elle allait consentir étaient grands. Il eut juste une vague vision de la silhouette d'Aoko restant seule dans le parc.
+
+}
+[sha:dee477e659c31bb017272d0dd1323d94468e5399]{
+-- Page 19, Offset 5681.
+-- ……残された彼女はどうなるのか。
+  ...... Qu'adviendrait-il d'elle si elle restait en arrière ?
+
+}
+[sha:ec1a48a6c18788337dace47bd12e128074c42bdc]{
+-- Page 19, Offset 5682.
+-- あの黒衣の少女は彼女を助けるのか。
+  Est-ce que cette fille en noir l'épargnerait ?
+
+}
+[sha:38b70ad00445d1aef83650bfe456aa12b8ac911b]{
+-- Page 19, Offset 5683.
+-- 無慈悲な話だが、それはない。
+  C'était cruel, mais ça ne serait pas le cas.
+
+}
+[sha:f9ab4b05231a4a81b7bca7b62d07dda4859e37b3]{
+-- Page 19, Offset 5684.
+-- 青子が草十郎を助けるために最善を尽くした以上、あの少女も手を<緩|ゆる>めはしないだろう。
+  Puisqu'Aoko avait fait de son mieux pour sauver Sōjūrō, cette fille ne lui ferait pas de cadeaux non plus.
+
+}
+[sha:24b2ea87a648cbd3dad2b7801dccc132d18fcdbc]{
+-- Page 20, Offset 5685.
+-- 有珠が青子を見逃すとしたら、それは青子が自分の<命|いのち>惜しさに草十郎を殺した時だけだ。
+  Alice ne laisserait fuir Aoko que dans l'éventualité où cette dernière, craignant pour sa propre vie, tuerait d'elle-même Sōjūrō.
+
+}
+[sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
+-- Page 20, Offset 5686.
+-- そして、
+  Et,
+
+}
+[sha:d51f3f4438b26231c50214d9a11ae25af2efd589]{
+-- Page 20, Offset 5687.
+-- 「二十メートルぐらい離れてて。
+「Éloigne-toi d'environ vingt mètres.
+
+}
+[sha:4f9e20d2e39ce95eb51e5527f47aa2c702af7882]{
+-- Page 20, Offset 5688. Glued. Mods: @x.
+-- <詠唱|じゅんび>に手間どるけど、その卵の表面がゆで上がるまでには終わらせるから」
+Les préparations vont me prendre un peu de temps, mais j'en finirai avant que cet œuf n'éclose.」
+
+}
+[sha:6ef41b9f551453811e574dd6de3195e7bad3a5c0]{
+-- Page 20, Offset 5689.
+-- 言うまでもなく、彼女はその道を選ばない。
+  il allait sans dire qu'elle ne choisirait pas cette voie-là.
+
+}
+[sha:18a15b307a20b6546e29d78630138e8bd8af00da]{
+-- Page 21, Offset 5690.
+-- 「待ってくれ。
+「Attends un peu.
+
+}
+[sha:339dbbaad1a9396da5a2612c9689b2e9b152b911]{
+-- Page 21, Offset 5691.
+-- 俺を逃がすっていうけど、それに意味はあるのか、蒼崎」
+  Tu dis que tu vas me laisser m'échapper, mais est-ce que c'est vraiment sensé, Aozaki ?」
+
+}
+[sha:cbd721774a2e9a43946dd0c0666d083aac678776]{
+-- Page 21, Offset 5692.
+-- 「……ないけど。外に出られたところで有珠から逃げきれるとは思えないし。
+「...... Non. Je ne pense pas que tu pourras échapper à Alice une fois dehors.
+
+}
+[sha:5437fbda7bd4080d74d912ff0525c56809b05035]{
+-- Page 21, Offset 5693. Glued. Mods: @x.
+-- けど、これぐらいは最後の意地よ。守るって言ったんだから、できるところまでやらないと」
+Mais c'est ma dernière volonté. J'ai dit que je te protégerai, alors je dois le faire, quoi qu'il m'en coûte.」
+
+}
+[sha:eaef564c4c2178e3f5d5639088dee1c4ff24b270]{
+-- Page 22, Offset 5694.
+-- その芯の強さを、彼は驚きながら再認識した。
+  Impressionné par sa trempe, il la vit sous un nouveau jour.
+
+}
+[sha:031f5b5b7930b93e191fb70c02de2467f45173ea]{
+-- Page 22, Offset 5695.
+-- ……つまりはそういうこと。
+  ...... En d'autres termes :
+
+}
+[sha:964e83ef6280aa5a09ca68627d0e80f6ff9f5387]{
+-- Page 22, Offset 5696.
+-- 彼女は草十郎のためではなく、自分の誇りのために戦っている。
+  elle ne se battait pas pour Sōjūrō, mais pour sa propre fierté.
+
+}
+[sha:94935a5455c3088656d2cd139e3865a1601df81a]{
+-- Page 23, Offset 5697.
+-- 「……うん、そうだったな。
+「...... Oui, c'est vrai.
+
+}
+[sha:85ca42914d690c88b5d5eaeaeb7b319fbfcf70ed]{
+-- Page 23, Offset 5698.
+-- けど、それなら俺だけ逃がすのはらしくないぞ」
+  Mais dans ce cas, ce n'est pas ton genre de me laisser fuir et de rester en arrière.」
+
+}
+[sha:6ae29fa87b957a860104489d70806896872a8717]{
+-- Page 23, Offset 5699.
+-- 「な、なによ。いいから離れてて」
+「Qu-Quoi ? Ça suffit maintenant, éloigne-toi.」
+
+}
+[sha:3f997cfda97ad58a217a213bfb8b686fb08fb737]{
+-- Page 23, Offset 5700.
+-- なんとなく、ちょっとだけ後退する青子。
+  Aoko recula légèrement sans s'en rendre compte.
+
+}
+[sha:bf7d8d2cfc79c61e0ac5f49d579d33a590a2d314]{
+-- Page 23, Offset 5701.
+-- つい一時間ほど前、この顔に一本とられた事を思い出したのだ。
+  Elle se rappela subitement qu'environ une heure plus tôt, cette expression l'avait déjà prise au dépourvu.
+
+}
+[sha:51b46345dc155875ea265a66431babb0160ffa1f]{
+-- Page 24, Offset 5702.
+-- 「蒼崎。まだ意地を張れるんなら、他の事をやろう。
+「Aozaki. Si tu peux encore montrer ton obstination, faisons plutôt autre chose.
+
+}
+[sha:3f15edc125b8971ef98853a63cda7e7a9a1cec33]{
+-- Page 24, Offset 5703.
+-- このお化けみたいな鉄柵を壊せるなら、他に壊すべきものがあるはずだ」
+  Si tu es capable de briser cette monstrueuse clôture, alors il y a sûrement autre chose que tu pourrais détruire.」
+
+}
+[sha:ad442e99ddde64cc4c713c8d2838d96da83d006f]{
+-- Page 25, Offset 5704.
+-- 「ないわよ。悪いけど、私は目に見えるものしか壊せないの。最後までカタチのない希望にすがるとか、考えるのも寒気がする。
+「Il n'y a rien d'autre ! Désolée, mais je ne peux détruire que ce que je vois. Rien que l'idée de m'accrocher jusqu'à la fin à un espoir impossible me révulse.
+
+}
+[sha:b100d7fb199265949d8f64409e7aa6c05df250d1]{
+-- Page 25, Offset 5705. Glued. Mods: @x.
+-- いい？　今はフラットスナークなんかより、この壁を壊してアンタを<足抜|あしぬ>けさせるのが私の現実。私に負える最大限の責任って―――」
+Compris ? Maintenant, mon devoir n'est pas d'affronter le Flat Snark mais de briser ce mur et de te faire sortir. C'est la mission la plus importante que je dois remplir―――」
+
+}
+[sha:2a216f8d28403f6fa931619e4dd0b1ba5e17a22e]{
+-- Page 25, Offset 5706.
+-- 「逃げるのか」
+「Tu te débines ?」
+
+}
+[sha:db5de0000c9d89dd819ecce4dff8f9b2cc2dac61]{
+-- Page 25, Offset 5707.
+-- 背中を向けようとした青子の手が掴まれる。
+  Il attrapa la main d'Aoko qui tentait de lui tourner le dos.
+
+}
+[sha:fce3a16f93e985a49cbf9bc1dd0368af6c65664a]{
+-- Page 26, Offset 5708.
+-- その一言が少女の心を<沸騰|ふっとう>させた。
+  À ces mots, le sang de la jeune fille ne fit qu'un tour.
+
+}
+[sha:79cee103f6c23cba4c603479597486ad67136d91]{
+-- Page 26, Offset 5709.
+-- 本当に、心臓に火を放たれたようだ。
+  C'était vraiment comme si son cœur s'était enflammé.
+
+}
+[sha:d742df546afada3120a21d7bf9640431c2155cfa]{
+-- Page 26, Offset 5710.
+-- 本心を突かれた驚きと、自分自身への不甲斐なさが、凍っていた手足を蘇らせる。
+  Devant la surprise de voir sa véritable pensée percée à jour et le sentiment de lâcheté qu'elle ressentait, ses membres frigorifiés se revigorèrent.
+
+}
+[sha:879e3a5727818f89483316bd83b845c38e5c603a]{
+-- Page 27, Offset 5711.
+-- 「誰が―――！　逃げるのはそっちで、逃がしてあげるのはこっちだって言うのよ！　甘く見ないで、いざとなったら遊園地ごと爆破してみせるわ！」
+「Qui se débine―――! Je te rappelle que c'est toi qui t'enfuis et que c'est moi qui te laisse t'échapper ! Ne me sous-estime pas ! S'il le faut, je ferai exploser tout ce parc d'attractions !」
+
+}
+[sha:b89dadfdcdaa164e7fbfb684d3a9b72d6c51114a]{
+-- Page 27, Offset 5712.
+-- 「そうか。なら、ここで俺を逃がすのは無駄だな。
+「Je vois. Dans ce cas, tu n'as pas besoin de me laisser m'échapper.
+
+}
+[sha:7bf2693f26961b31800c91e1d42b9a6418b1faf4]{
+-- Page 27, Offset 5713. Glued. Mods: @x.
+-- その気迫は本命のためにとっておこう。それまでは俺も手伝うから」
+Garde cet esprit combatif pour quelque chose de plus important. D'ici là, je t'aiderai au mieux.」
+
+}
+[sha:de891afc6686fdb004b9e3b438a469b05127de55]{
+-- Page 28, Offset 5714.
+-- 「はあ!?　手伝う!?　それこそ無駄な気遣いよ！
+「Hein ?! M'aider ?! C'est plutôt ta considération qui est inutile !
+
+}
+[sha:db8493f5c0efe8876d3eff48d61bcdc1307fa5e4]{
+-- Page 28, Offset 5715.
+-- あったまきた、いいから逃げろバカ！　だいたい、走りづめで息もたえだえなヤツなんか使えないわよ！」
+  Tu m'énerves ! C'est bon maintenant, va-t'en espèce d'idiot ! Et de toute façon, un type qui a le souffle court à force d'avoir couru est inutile !」
+
+}
+[sha:3118d4b3e828acb99903b4026589722318b9515b]{
+-- Page 28, Offset 5716.
+-- 「そりゃいいかげんヘトヘトだけど。
+「Évidemment, je commence à être épuisé.
+
+}
+[sha:5c83ce6970edc48325cab27906108377e2e8ae81]{
+-- Page 28, Offset 5717. Glued. Mods: @x.
+-- そういう蒼崎なんか、疲れ以上に傷の方が痛んでるだろ」
+Mais toi, non seulement tu es fatiguée, mais en plus tes blessures te font souffrir, n'est-ce pas ?」
+
+}
+[sha:df79985ec7e7e30021b92494f4a6be8cc5b91120]{
+-- Page 29, Offset 5718.
+-- 青子本人ですら忘れかけていた背中の痛み。
+  Aoko se remémora la douleur de son dos, frappé par l'Automate.
+
+}
+[sha:3a7107ef5e78a1f4ebbbf2b72dc8f7a1f487f835]{
+-- Page 29, Offset 5719.
+-- 自動人形に強打された彼女の背中は、今では無視できないほどの痛みを<訴|うった>えていた。
+  Il lui faisait maintenant tellement mal qu'elle ne pouvait plus ignorer sa souffrance.
+
+}
+[sha:a9c7cff57ce6e3ef3f8e6c37aebe6477f5d2a66c]{
+-- Page 29, Offset 5720.
+-- 青子は単に、鉄の自制心で背中の傷を後回しにしていただけなのだ。
+  Aoko remettait simplement à plus tard le moment où elle s'occuperait de sa blessure, avec son sang-froid d'acier.
+
+}
+[sha:6e5a3c782849b8781a2899e7f4753955781e229f]{
+-- Page 30, Offset 5721.
+-- 「ほら。魔術とか抜きにすれば、まだ俺の方がマシじゃないか。入り口までおぶっていくコトぐらいなら、なんとか」
+「Tu vois ? Si on met la Magie de côté, je suis en bien meilleure forme que toi. Si tu veux, je te porte sur mon dos jusqu'à l'entrée.」
+
+}
+[sha:69680ee829245ec3d870b9633ac4d116662aa366]{
+-- Page 31, Offset 5722.
+-- 「できないコトは口にしないで。
+「Ne propose pas des choses que tu ne peux pas faire.
+
+}
+[sha:032cda1882b93c1e68375dce462cd440973c3c4d]{
+-- Page 31, Offset 5723.
+-- ……もう、いいから行って。慣れているもの、私は。でも貴方は違う。こういうの初めてでしょ？
+  ...... Ça suffit, maintenant, vas-y. J'ai l'habitude de tout ça. Mais c'est différent pour toi. C'est la première fois que tu es confronté à ce genre de chose, non ?
+
+}
+[sha:3d603141fce99915ea4d611980f770d425e606ba]{
+-- Page 31, Offset 5724.
+-- だから、いいの」
+  Donc ça va.」
+
+}
+[sha:cbc4b153002d92a6d1cce153fdc91fe3b7d55ac0]{
+-- Page 32, Offset 5725.
+-- こうして協力されるのも、
+  dit-elle en lui signifiant que,
+
+}
+[sha:f5145e87ef195e8fc846c5ce31c492cadaa6ee48]{
+-- Page 32, Offset 5726.
+-- 結局はそのあと少年を殺さなければいけない事も、
+  même si elle le laissait fuir ainsi,
+
+}
+[sha:f2f4bd45c7c2be323806ce7bd0fe397fe2638dc6]{
+-- Page 32, Offset 5727.
+-- 全部ひっくるめて彼女は言った。
+  si elle s'en sortait, elle devrait de toute façon le tuer à un moment ou à un autre.
+
+}
+[sha:3a373788ffbfbc6dee7468a386b99b4e3e146bb7]{
+-- Page 32, Offset 5728.
+-- もういいの、と。
+  En sous-entendant que cette issue ne la dérangerait pas.
+
+}
+[sha:773b430c9d94eb3b2a632fbf611e87ae42284b70]{
+-- Page 33, Offset 5729.
+-- けれど、草十郎は手を離さなかった。
+  Cependant, Sōjūrō ne lâcha pas sa main.
+
+}
+[sha:b129d2f14fbc30fd33c7ec8b5e2c3b50dff95080]{
+-- Page 33, Offset 5730.
+-- 掴んだ手の力は一段と増している。
+  Au contraire, il raffermit son étreinte.
+
+}
+[sha:c261df4364686fa987cb12f156204c554e403537]{
+-- Page 33, Offset 5731.
+-- <表情|かお>はいつものままだけど、もしかして怒っているのかな、と青子は眉を<曇|くも>らせた。
+  Il a beau faire la même tête que d'habitude, je me demande s'il n'est pas en colère, pensa Aoko en fronçant les sourcils.
+
+}
+[sha:2bc59081a60e50b6272af3515ae8e3385b35bec2]{
+-- Page 34, Offset 5732.
+-- 「たしかに、こういうのは初めてだ。
+「C'est vrai que vivre ce genre d'évènements, c'est une première pour moi.
+
+}
+[sha:2a9cff38755e56cda484f3ba9caa3e7fe49aa0ec]{
+-- Page 34, Offset 5733.
+-- けど、山じゃ危険な目ぐらいあってる。<鹿|シカ>に襲われた事だってあるんだぞ、俺は」
+  Mais en montagne, c'est très fréquent d'être confronté au danger. Il m'est même arrivé de me faire poursuivre par un cerf.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 34, Offset 5734.
+-- 「――――――」
+「――――――」
+
+}
+[sha:cb043ca17ace7493e10dc19edd2aef79a74aa37d]{
+-- Page 35, Offset 5735.
+-- 少女は都会の人間で、シカ、なんて単語を出されてもいまいち実感は湧かなかったけれど、少年には確かな覚悟があると感じ取れた。
+  Elle avait passé toute sa vie en ville, et même s'il parlait de “cerf”, elle ne se rendait pas bien compte, mais elle sentait une puissante détermination chez ce garçon.
+
+}
+[sha:fd8b5cba1902fd0ddd26dd2344a09ed11082d3f9]{
+-- Page 36, Offset 5736.
+-- ……たしかに。
+  ...... En effet.
+
+}
+[sha:c634a03bd4f8cd567b78d36b6a5bcf5a93f7983a]{
+-- Page 36, Offset 5737.
+-- 振り返れば、彼は努めて冷静だった。
+  En y repensant, il avait agi avec sang-froid.
+
+}
+[sha:6bfd74c206322578b0009867a2e083a5425c79b2]{
+-- Page 36, Offset 5738.
+-- 普通ならパニック状態で会話する事さえ困難だろう。
+  Normalement, il aurait dû être paniqué, et le simple fait de suivre une conversation aurait dû être difficile.
+
+}
+[sha:c4cbbff1228cca983254fb423b8046c448048fe0]{
+-- Page 36, Offset 5739.
+-- それをここまで、なんとか冷静でいようと努力できるのは、文明から離れた山奥で暮らしていたからなのか。
+  Peut-être qu'il arrivait à rester calme parce qu'il avait vécu au fond des montagnes, éloigné de la civilisation.
+
+}
+[sha:1d3b96b15b5bd9d524c315e84b3c8c2628ade1ed]{
+-- Page 37, Offset 5740.
+-- 「だから信じてくれ。少しでいいから」
+「Alors, aie confiance en moi. Même un tout petit peu.」
+　
+}
+[sha:bc954d0098d69efcb0561ee27d192d47ed998eea]{
+-- Page 37, Offset 5741.
+-- 飾り気のない本心。
+  C'était ce qu'il ressentait, sans prétention aucune.
+
+}
+[sha:c7bf5e93ab115f46fb5a964d942dcc85c272f2b2]{
+-- Page 37, Offset 5742.
+-- 簡潔な気持ちを口にして、草十郎は手を離した。
+  Sōjūrō relâcha sa main après avoir révélé très simplement ses sentiments.
+
+}
+[sha:8b72c9ed0c19d45f094b21253e26c8038d92d42f]{
+-- Page 37, Offset 5743.
+-- ……少年の言葉に嘘はない。
+  ...... Les mots du garçon ne contenaient aucun mensonge.
+
+}
+[sha:c65e62a3c380940bd40dc395ebc42f1eb72c0c80]{
+-- Page 37, Offset 5744.
+-- それが余計、少女には信じられなかった。
+  C'était ça qu'elle avait le plus de mal à croire.
+
+}
+[sha:6dac077ba8a35b42855cf926f2df8d1a2ece44c6]{
+-- Page 38, Offset 5745.
+-- だって、草十郎にはそこまでの事をする理由がない。
+  Après tout, aucune raison ne poussait Sōjūrō à en faire autant.
+
+}
+[sha:60e953953ad950b59dc08dbb2fc71c1bea227cce]{
+-- Page 38, Offset 5746.
+-- 今の青子にはあらゆる未来がない。
+  Le futur d'Aoko n'existait plus.
+
+}
+[sha:009ce5e94a17041a91f9b181c33c101cbbe5b809]{
+-- Page 38, Offset 5747.
+-- それを白状して逃げろと言っているのに、どうしてこの少年は、こんな自分に協力すると言うのだろう―――
+  Elle l'avait avoué et lui avait ordonné de s'enfuir, et pourtant, pourquoi ce garçon lui disait-il de coopérer―――
+
+}
+[sha:8786c95bff05aa1c3fb935baaa539904ec683d9e]{
+-- Page 39, Offset 5748.
+-- 「分からない。どうしてそこまでするの。
+「Je ne comprends pas. Pourquoi pousser le bouchon aussi loin ?
+
+}
+[sha:9d88f4ae0d4671679ce5825117a65dcf15444a98]{
+-- Page 39, Offset 5749.
+-- 私に付き合えば貴方は死ぬのよ。
+  Si tu restes avec moi, tu vas mourir.
+
+}
+[sha:f10912ce42bc1d39182bf1b4153a6e9f628f6e59]{
+-- Page 39, Offset 5750. Glued. Mods: @x.
+-- これが最後だから、ちゃんと考えてよね。……貴方はここで逃げるべきよ」
+Je te le répète une dernière fois, alors réfléchis bien...... Tu devrais t'enfuir maintenant.」
+
+}
+[sha:6e3c28015cead019c473d332da1b022465cd366e]{
+-- Page 40, Offset 5751.
+-- 「それは分かるよ。でも行かない」
+「Je le sais. Mais je ne m'en irai pas.」
+
+}
+[sha:a5ed711d39641e8c3c36931b1619d45e8c3e43b7]{
+-- Page 40, Offset 5752.
+-- 即答しながら、青子はその理由をこそ求めている、と草十郎は気が付いた。
+  répondit immédiatement Sōjūrō, en réalisant qu'Aoko en cherchait justement la raison.
+
+}
+[sha:7f831c6c688b3466121ac3a7c83893d401e1f4f5]{
+-- Page 40, Offset 5753.
+-- 普段の彼からすればまさに<喝采|かっさい>ものの察しの良さで、
+  Pour le Sōjūrō habituel, c'était vraiment une déduction brillante,
+
+}
+[sha:6533bc1f26d20b52f07f414e670a74083947818b]{
+-- Page 40, Offset 5754.
+-- 「そうすると、蒼崎が死んでしまいそうだ」
+「Si je fais ça, j'ai le pressentiment que tu vas mourir.」
+
+}
+[sha:94c726af118680c00d4f4f6663b9b53d73a045f5]{
+-- Page 40, Offset 5755.
+-- でた言葉は、いつも通りの理由の無さ。
+  et la raison qu'il invoqua était comme d'habitude à côté de la plaque.
+
+}
+[sha:9209c7175d1dc47dc91625599de80a546a6801f5]{
+-- Page 41, Offset 5756.
+-- 「だから、どうしてそこまでするのよアンタはっ！」
+「C'est pour ça que je demande pourquoi tu en fais autant !」
+
+}
+[sha:c3158b87759242ca5936200ce5c22992c8d9ea3a]{
+-- Page 41, Offset 5757.
+-- 苛立ちから怒鳴り付ける。
+  cria-t-elle d'irritation.
+
+}
+[sha:bc343a808f158628a1f0a6f3236da01072b5b5b2]{
+-- Page 41, Offset 5758.
+-- 少年は少しだけ考えこんでから、
+  Le garçon réfléchit un instant.
+
+}
+[sha:b6d4417e874c42ee5438106451602e8a559d43b2]{
+-- Page 41, Offset 5759.
+-- 「―――そりゃあ、君が好きだからだろ」
+「―――Eh bien, c'est parce que je t'aime, évidemment.」
+
+}
+[sha:8e581dd3c51833a6393ccb9fd823b50d9d2cc01d]{
+-- Page 41, Offset 5760.
+-- あっさりと。
+  Tout simplement.
+
+}
+[sha:920307e750328c5d183ceb002f94d7da6dc9251b]{
+-- Page 41, Offset 5761.
+-- なんでそんなこと訊くんだ？　なんて顔で返答した。
+  Il répondit en ayant l'air de se demander pourquoi elle posait cette question.
+
+}
+[sha:663baa8dc2bfa24567daeb6ffb583c30064292b5]{
+-- Page 42, Offset 5762.
+-- ……一秒か、たぶん二秒ほど。
+  ...... Pendant une seconde, et même plutôt deux,
+
+}
+[sha:4d2917e1240dd3bc252a695f8fd4a09aecfea832]{
+-- Page 42, Offset 5763.
+-- あまりの不意打ちに、青子の時間は止まってしまった。
+  prise de surprise par cette révélation, Aoko eut l'impression que le temps s'était arrêté.
+
+}
+[sha:17ed758ec1073c07ec84b57a3636186aa1ac735e]{
+-- Page 42, Offset 5764.
+-- 切り札を隠していたのは有珠だけではなかったようだ。
+  Apparemment, il n'y avait pas qu'Alice qui gardait des atouts en réserve.
+
+}
+[sha:a3a1da88e3c6a588602b69a8d861983a37630511]{
+-- Page 42, Offset 5765.
+-- 今の一言は、フラットスナークなんかより底が深い。
+  La phrase d'à l'instant était encore plus dure à encaisser que Flat Snark.
+
+}
+[sha:9d004e05e03c938a3f60e23cc0a315166c5256e2]{
+-- Page 43, Offset 5766.
+-- 青子にとってはただただ呆れるばかりの返答。
+  C'était une réponse qui sidérait Aoko au plus haut point.
+
+}
+[sha:b513eb4b079a7a80adfbca35e4627ddfd143bd6c]{
+-- Page 43, Offset 5767.
+-- けれど単純で頑強な、地上でいちばん強い理由。
+  Mais c'était une raison simple, tenace et la plus forte sur terre.
+
+}
+[sha:28c6952876427540c2c86b79c7aaa864b1637087]{
+-- Page 44, Offset 5768.
+-- 「―――はあ」
+「―――Aah.」
+
+}
+[sha:6e2772fcea90114c501c5a7338cb55808492b886]{
+-- Page 44, Offset 5769.
+-- 自分を殺そうとしている相手に無条件で協力出来るなんて、静希草十郎はやっぱり分からない。
+  Elle ne comprenait vraiment pas comment réfléchissait Shizuki Sōjūrō pour coopérer sans réserve avec la personne qui avait essayé de le tuer.
+
+}
+[sha:4b9411ba529dc92c9095fce42395aeb3a696caf1]{
+-- Page 44, Offset 5770.
+-- ただ少しだけ、青子はこの少年の<為人|ひととなり>が掴めた気がした。
+  Pourtant, Aoko avait le sentiment de commencer à saisir la personnalité de ce garçon.
+
+}
+[sha:b082fbf0bdb3fdf1603fe70a41c80e93bfaeaedd]{
+-- Page 44, Offset 5771. Mods: @n.
+-- 鳶丸たちの評価は、たぶん、間違ってはいないのだ。
+  L'impression de Tobimaru et des autres n'était sans doute pas fausse.
+
+}
+[sha:9af6c17c95afb3e4c1e61f49c6dd1bc15620ec59]{
+-- Page 44, Offset 5772. Glued.
+-- 口惜しいことに。
+ C'en était vexant.
+
+}
+[sha:926d6d28cf08e6c4817922ae9176c1a1c8691fa4]{
+-- Page 45, Offset 5773.
+-- 「莫迦ね。私は貴方のこと、嫌いなのに」
+「Tu es bête. Alors que je te déteste.」
+　
+}
+[sha:12deddb49692603fd0007de199eb140bafac6c24]{
+-- Page 45, Offset 5774.
+-- なんだか負け惜しみのような呟きに、少年は知ってるよ、と苦笑した。
+  Devant ce murmure de mauvaise perdante, le garçon fit un sourire forcé en disant qu'il le savait.
+
+}
+[sha:944ae7d350259dc03a9509e0954eebd1d1f9b886]{
+-- Page 46, Offset 5775.
+-- 意地の張り合いはここで終わり。
+  L'affrontement entre leurs volontés se termina ainsi.
+
+}
+[sha:a039a818c963edf34e10d952e115d66417599350]{
+-- Page 46, Offset 5776.
+-- 火を放たれた心臓が、青子の体に熱い血液を走らせる。
+  Le cœur d'Aoko, qui venait de s'enflammer, fit circuler un sang brûlant dans ses veines.
+
+}
+[sha:4c721885d59b6b78f03a518cf82dc1e41ad947d4]{
+-- Page 46, Offset 5777.
+-- だってあんな顔をされたら、ふたりそろって生還する方法しか考えられない。
+  Parce que maintenant qu'il faisait une tête pareille, elle ne pouvait penser à rien d'autre qu'à un moyen de s'en sortir vivants, tous les deux ensemble.
+
+}
+[sha:54fca9d2a626e206ed8a693ee8dee0017e27928a]{
+-- Page 47, Offset 5778.
+-- 「……ま、私だって逃げっぱなしは性に合わないし。
+「...... De toute façon, ce n'est pas mon style de fuir le danger.
+
+}
+[sha:8f711aa2f67271d3552cbf42102e82b3a63d1104]{
+-- Page 47, Offset 5779.
+-- いいわよ、最後まで粘ってみる。それに静希君が付き合ってくれるなら、何かの役には立つでしょう」
+  Très bien, moi aussi, je persévérerai jusqu'à la fin. Et puis, si tu es avec moi, tu pourras peut-être servir à quelque chose.」
+
+}
+[sha:66cda2ef73395ffe88edd5ba134ec406cb99e0f3]{
+-- Page 48, Offset 5780.
+-- 軽口を叩きながらも、青子の眼にはまだ迷いがあった。
+  Même si elle était sarcastique, il y avait encore du doute dans les yeux d'Aoko.
+
+}
+[sha:de5c7372443a08284b59d04061c3cd4b5a0dff0a]{
+-- Page 48, Offset 5781.
+-- 当然だ。戦うも何も、青子にはスナークの正体、その糸口すら掴めていない。
+  C'était normal. Esprit combatif ou non, Aoko n'avait pas le moindre indice sur la véritable nature du Snark.
+
+}
+[sha:11bd74439ed4dacad45b526481b6f4adf03174a5]{
+-- Page 48, Offset 5782.
+-- 自分がもう少し器用で、もう少しだけ修練を積んでいたのなら、あるいはスナークを探る手段もあっただろうに。
+  Si elle avait été un peu plus douée et avait acquis un peu plus d'expérience, peut-être aurait-elle trouvé un moyen pour le trouver.
+
+}
+[sha:6609020eb4220b4c8471592ae10df39f838d3ce8]{
+-- Page 49, Offset 5783.
+-- 「……我ながら情けない。せめて、正体を暴く手がかりでもあればいいんだけど」
+「...... Je suis ridicule. Si au moins on avait un indice pour découvrir sa véritable nature.」
+
+}
+[sha:fb68266acabb0efef750e970aac6fff703609b49]{
+-- Page 49, Offset 5784.
+-- 知らず、不安をこぼす。
+  Elle laissa échapper son inquiétude sans y faire attention.
+
+}
+[sha:26d1a024528ba97349d5d2ef506aced536d5471e]{
+-- Page 49, Offset 5785.
+-- こんな弱音、口にしても仕方がない。
+  Ça ne servait à rien de gémir.
+
+}
+[sha:2a1958bff88ca14dfbe9707e695bb6b9bc1ca88e]{
+-- Page 49, Offset 5786.
+-- その問題は自分が解決するしかない、と青子は自らを<鼓|こ><舞|ぶ>しようとして、
+  Aoko essaya de s'encourager en se disant qu'elle n'avait pas d'autre choix que de trouver la solution à ce problème par elle-même, puis,
+
+}
+[sha:5f4d22eb15393e1b16bf23a10c3c621bc3bfda92]{
+-- Page 50, Offset 5787.
+-- 「ん？　なんだ、正体さえ分かればいいのか？」
+「Hm ? Quoi ? Il suffirait de connaître sa véritable nature ?」
+
+}
+[sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
+-- Page 50, Offset 5788.
+-- 「へ？」
+「Hé ?」
+
+}
+[sha:a8939103c27da5a85340f78b05622c9e9db5ab3e]{
+-- Page 50, Offset 5789.
+-- なにそれどういうイミ？　なんて顔をする青子と、
+  dit-elle d'un air incompréhensif.
+
+}
+[sha:bbdc6e89c9494b806382d5790ea73806c988150a]{
+-- Page 50, Offset 5790.
+-- 「いや、だからおかしなモノはどれかってコトだろ？」
+「Ben, ça veut dire qu'il faut juste l'identifier parmi tous ces trucs bizarres, non ?」
+
+}
+[sha:96fbbeebd5347aa0ba3a3e35d5cb29fedef8bdb7]{
+-- Page 50, Offset 5791.
+-- 言ってくれれば良かったのに、なんて顔をする草十郎。
+  répondit Sōjūrō avec une expression montrant qu'elle aurait dû le lui demander avant.
+
+}
+[sha:2773e1e0058fa9bcb13a84d8a0bc012c12086acf]{
+-- Page 51, Offset 5792.
+-- 「ちょっ―――分かるの、アンタ!?」
+「Att―――tu le sais ?!」
+
+}
+[sha:cac7df8595a112d49790de393c32edcf56b7de78]{
+-- Page 51, Offset 5793.
+-- 「たぶん。いや、けっこう前から気になっていたんだけど」
+「Je crois. En fait, ça m'intriguait depuis un moment.」
+
+}
+[sha:ea7e771a97b4bcd80a5570b522ebf7b5d794efea]{
+-- Page 51, Offset 5794.
+-- 草十郎は誰かに聞かれないよう、こっそりと青子に耳打ちをする。
+  Comme s'il voulait que personne ne l'entende, Sōjūrō chuchota à l'oreille d'Aoko.
+
+}
+[sha:3ffb5803354bb678b6e06770f0a954088cf38ac1]{
+-- Page 52, Offset 5795.
+-- 「――――――あ」
+「――――――Ah.」
+
+}
+[sha:75b1c193a839853f177c1b961a4572838df14f63]{
+-- Page 52, Offset 5796.
+-- 意外と言えば意外、
+  Devant “l'anomalie”,
+
+}
+[sha:2b047b766a8adcfa8dbe398e442345678097a164]{
+-- Page 52, Offset 5797.
+-- 当然と言えば当然の“間違い”を教えられて、青子はその“答え”が正しい事を直感した。
+  pour le moins surprenante mais surtout évidente quand on y pensait, Aoko sut d'instinct que cette “hypothèse” était la bonne.
+
+}
+[sha:55a4707586796d1e602043822dc15207bff5c3c0]{
+-- Page 52, Offset 5798.
+-- 敵の正体。フラットスナークの本体とは、つまり―――
+  La véritable nature de l'ennemi. Flat Snark était tout simplement―――
+
+}

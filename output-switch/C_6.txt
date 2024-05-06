@@ -1,0 +1,816 @@
+[sha:8c5173a8e1fe8a5151d377f4e4ecd12da44c4794]{
+-- Page 0, Offset 18386.
+-- “……なんで……ボクが……？”
+“...... Pourquoi...... ai-je perdu......?”
+
+}
+[sha:10984ff01aae9e211a115254aa0ca35e4c209ada]{
+-- Page 0, Offset 18387.
+-- 地面に倒れ臥した後でも、<人|カ><狼|レ>は自分に起きた出来事を把握できなかった。
+  Même après être tombé au sol, il n'avait pas compris ce qui lui était arrivé.
+
+}
+[sha:05de8bd25ca4dc088f9c5c6973de8b3ca47b4c05]{
+-- Page 0, Offset 18388.
+-- 心臓が破裂し、血液の逆流によって脳をふくむ身体機能が停止し、地面に倒れこんだ。
+  Son cœur avait implosé, sa circulation sanguine s'était inversée, interrompant ses fonctions corporelles ainsi que cérébrales, et enfin, il s'était écroulé.
+
+}
+[sha:5297f12fc3f4e0bcbb01a83cb9f252d68a1d5dd6]{
+-- Page 0, Offset 18389.
+-- そこまでは確認できる。
+  Jusque-là, il pouvait comprendre.
+
+}
+[sha:c114718d1937238d0380674500863646abdf9295]{
+-- Page 0, Offset 18390.
+-- 通常の動物なら、それが死である事も承知している。
+  Il savait aussi que pour un animal normal, cela impliquait la mort.
+
+}
+[sha:572d1a70304cd0e988a474f6e7a640475d3a2b73]{
+-- Page 1, Offset 18391.
+-- だが<人|カ><狼|レ>にとってはどうでもいい問題だ。
+  Mais pour lui, cela n'avait aucune importance.
+
+}
+[sha:0d80b5814423a7d597432317dda13dd6f7f1eaed]{
+-- Page 1, Offset 18392.
+-- なにしろ心臓は復元を終え、身体機能はほぼ回復している。
+  Après tout, son cœur avait déjà régénéré et ses fonctions corporelles s'étaient rétablies.
+
+}
+[sha:c5ab25c44df5ed7b5b8e75730901f0fff1793b9c]{
+-- Page 1, Offset 18393.
+-- 彼の神秘性を上回る魔術を受けた訳でもなし、こんな傷、小石につまずいたのと変わらない。
+  Ce n'était pas comme s'il avait été frappé par une Magie surpassant sa nature mystique, et s'il avait trébuché sur un galet, ses blessures auraient été tout aussi légères.
+
+}
+[sha:34881164767b1a81da793f365c271c123fe0f31c]{
+-- Page 1, Offset 18394.
+-- ……だから、<矛盾|もんだい>は。
+  ...... Mais voilà justement où résidait le problème.
+
+}
+[sha:9723d635f77893d0165e91af651ff2838bcd4c89]{
+-- Page 1, Offset 18395.
+-- 小石につまずいた程度で、心臓が止まる生き物はいないということ。
+  Aucun être vivant ne subissait un arrêt cardiaque simplement en trébuchant sur un galet.
+
+}
+[sha:5b6852c99b7e23602c7149c4333bfab800b71360]{
+-- Page 2, Offset 18396.
+-- “……思い、出さないと……”
+“...... Je dois... me souvenir......”
+
+}
+[sha:d93b2116e97e39742e73522b01ce442b3984e5b3]{
+-- Page 2, Offset 18397.
+-- <人|カ><狼|レ>は必死に記憶を呼び覚ます。
+  Il fouilla désespérément dans sa mémoire.
+
+}
+[sha:883ce186e2983c8cc5f013d5b390f571a01109fd]{
+-- Page 2, Offset 18398.
+-- 爪を振り上げたところまでは、なんとか思い出せる。
+  Il se rappelait plus ou moins de la scène jusqu'au moment où il avait abattu ses griffes.
+
+}
+[sha:85645ac761d71eb3213256a4e504c83eba797693]{
+-- Page 2, Offset 18399.
+-- 論点はその後だ。
+  Le point crucial se situait après cet instant.
+
+}
+[sha:1f4eefe142abfbb4f650962dad9977a1d2dda9d3]{
+-- Page 2, Offset 18400.
+-- 形状次第では速射砲の直撃すら耐える自分が、なぜ、人間程度の腕力に倒されたのか。
+  Comment un piètre humain avait-il pu avoir raison de lui, alors qu'il pouvait résister à un tir de canon en fonction de sa forme ?
+
+}
+[sha:ba5742b3fac90f8ed3e24d031216b556324b5c01]{
+-- Page 3, Offset 18401.
+-- いや。
+  Non,
+
+}
+[sha:3c4f9c6e8b7f6eeda60f8516652438c8b1f193c0]{
+-- Page 3, Offset 18402. Glued. Mods: @x.
+-- なぜ、と言うのなら、そもそも相手が何をしたのかが分からない。
+avant de se demander comment, il lui fallait comprendre ce que l'adversaire avait fait.
+
+}
+[sha:c665781177ee45baa57c98db813a3534853f9280]{
+-- Page 3, Offset 18403.
+-- たしか、<懐|ふところ>に入られた瞬間、小さな衝撃を一点に<搾|しぼ>りこむような接触があった。
+  D'après ses vagues souvenirs, lorsque le jeune homme s'était faufilé entre ses griffes, il avait senti un léger impact se focalisant sur un point en particulier.
+
+}
+[sha:587312eb3258c97f1f657c9733ff0664d7b8a5a4]{
+-- Page 3, Offset 18404.
+-- あの正確な一撃によって、心臓だけがダメージを受けたのかもしれない。
+  Son cœur était le seul de ses organes à avoir été endommagé, probablement à cause de cette attaque précise.
+
+}
+[sha:9654aea8f7a33cfcd1374314764e7f9224f732e7]{
+-- Page 4, Offset 18405.
+-- “ハ―――”
+“Ha―――”
+
+}
+[sha:c4b143df3cea1737a8553b698e3b4b0733e93b65]{
+-- Page 4, Offset 18406.
+-- そんな馬鹿な話はない。
+  Rien ne pouvait être plus absurde.
+
+}
+[sha:09ad2d090166d4e3b9c8ce57ad776bbec54251e6]{
+-- Page 4, Offset 18407.
+-- 仮にそうだとしても、それだけで止まる心臓なぞ<人|カ><狼|レ>は待ち合わせていない。
+  En admettant que ce soit vraiment ce qui s'était passé, le cœur d'un loup-garou n'était pas faible au point de s'arrêter pour si peu.
+
+}
+[sha:f116a52a033ef8b4c8190eb35b2dde90d2327d8f]{
+-- Page 5, Offset 18408.
+-- 結局、どれだけ自問しても明確な答えはでなかった。
+  Il avait beau retourner la question, il ne trouvait aucune réponse satisfaisante.
+
+}
+[sha:2b45bf00cfbd1871d866e694828fed03eab25910]{
+-- Page 5, Offset 18409.
+-- そもそも“窮地に陥る”経験がなく、人間の<研磨|けんま>を知らない<人|カ><狼|レ>に、その答えは遠すぎた。
+  Sans compter qu'il n'avait jamais eu l'occasion de se retrouver face à un vrai dilemme et qu'il ne connaissait rien aux techniques que maîtrisaient les humains. La réponse n'était pas à sa portée.
+
+}
+[sha:08fbbe05f65762566ac5273900233f85977cf011]{
+-- Page 6, Offset 18410.
+-- なので、<人|カ><狼|レ>にとって確かな事は、己が倒れ臥している事実だけ。
+  Ainsi, une seule chose lui était parfaitement claire : le fait qu'il soit étendu au sol.
+
+}
+[sha:96e7494d526cf03fd87547d77ebfbee8afe260ed]{
+-- Page 6, Offset 18411.
+-- 手探りで経緯を思い返す。
+  Il se remémora les détails progressivement.
+
+}
+[sha:3dcfbed3b56668119b5305075fb40e7a3030224b]{
+-- Page 6, Offset 18412.
+-- ―――胸に<炸裂|さくれつ>した衝撃と、一瞬の空白。
+  ―――Sa poitrine avait d'abord reçu un choc critique, suite à quoi il avait perdu conscience pendant un bref instant.
+
+}
+[sha:4040bbf8323264ced16618740ac1cc16d197d204]{
+-- Page 6, Offset 18413.
+-- その後、相手におおい<被|かぶ>さるように倒れこむ<最中|さなか>、もう一度背中に衝撃が走ったのだ。
+  Ensuite, son dos avait été parcouru par une nouvelle onde de choc quand son adversaire était passé derrière lui durant sa chute.
+
+}
+[sha:7605583f732e949bcaf7ab4faa5c232d4b2686cc]{
+-- Page 6, Offset 18414.
+-- 心臓を破ったのは、その一撃によるものらしい。
+  De toute évidence, ce dernier coup avait détruit son cœur.
+
+}
+[sha:16457391df7f0fed34a5264c2d5b2a0a46973269]{
+-- Page 7, Offset 18415.
+-- “……ふざけてる。そんな事で、ボクが―――”
+“...... C'est une blague. Moi ? Perdre comme ça ?”
+
+}
+[sha:ce9c94577d6c580f2dcb79c3c6f8f9a6a26ede9d]{
+-- Page 7, Offset 18416.
+-- 倒される筈はない。
+  Il ne pouvait pas perdre.
+
+}
+[sha:12206bbbeeea8bdfc63b5a4fd06fc3f90a3dbf7c]{
+-- Page 7, Offset 18417.
+-- 物理的に間違っている。
+  C'était physiquement impossible.
+
+}
+[sha:6fd8d906b9f71c647eb4978d09cf90d1345fbafc]{
+-- Page 7, Offset 18418.
+-- 反則じみた結末に、少年は歯ぎしりをして全身に力をこめた。
+  Le garçon-loup grinça des dents et rassembla ses forces, excédé par ce qui lui semblait être le résultat d'une honteuse tricherie.
+
+}
+[sha:affa3b61810524f9b22958347bd0f959e8c16ba4]{
+-- Page 8, Offset 18419.
+-- “―――そうだ。こんなのはウソだ。同族でだってボクを負かせる奴はいなかった。
+“―――C'est ça. C'est un mensonge. Même dans ma tribu, personne ne pouvait me battre.
+
+}
+[sha:2f37c0d0c38f6d1135abc28be7390f6f6ff4e752]{
+-- Page 8, Offset 18420. Glued. Mods: @x.
+-- こんな痛みも、こんな事態も、全部ウソだ。
+Cette douleur, cette situation, tout n'est que mensonge.
+
+}
+[sha:6a73db4892adaff56822312d9d14d4bc9dc2e241]{
+-- Page 8, Offset 18421. Glued. Mods: @x.
+-- 不合理に狂っている。
+Ça n'a aucun sens.
+
+}
+[sha:b2f4813d21a18d09f8218806ec104afb94d3fc28]{
+-- Page 8, Offset 18422. Glued. Mods: @x.
+-- だって、この<器|ボク>が、他の生き物に負けるハズが……！”
+Évidemment ! Puisqu'aucun être vivant ne peut me vaincre......!”
+
+}
+[sha:950078d6fd26744004a8d8a40178cf315d54b7b5]{
+-- Page 8, Offset 18423.
+-- 考察の時間は終わりだ。
+  Il avait assez réfléchi.
+
+}
+[sha:977561ab573d00d2ebd9d51e4ccc158aa47ef625]{
+-- Page 8, Offset 18424.
+-- とうに傷は癒えている。
+  Ses blessures étaient déjà guéries.
+
+}
+[sha:b39f8ec59091806dd2c8655bd3fa644a31e52b54]{
+-- Page 8, Offset 18425.
+-- 再戦のため、<人|カ><狼|レ>は倒れたまま、傍らに立つ敵を睨みつけ、
+  Toujours étendu au sol, il fixa son adversaire à quelques pas de lui afin de se préparer à la reprise du combat.
+
+}
+[sha:e800e40b839a73abb9083a43797a369f6e8e380a]{
+-- Page 9, Offset 18426.
+-- “負ける――ハズ、が―――”
+“Je ne peux pas――perdre―――”
+
+}
+[sha:73a60ad43eaab847d3bbedcf7cbbb8cff4f807dc]{
+-- Page 9, Offset 18427.
+-- 瞬間。
+  C'est alors...
+
+}
+[sha:ad44687ab55c3a9b470e3d834a7f342789fab67d]{
+-- Page 9, Offset 18428.
+-- よく分からない新種の痛みが、人狼の背中を走り抜けた。
+  qu'une douleur inconnue parcourut le dos du monstre.
+
+}
+[sha:fb0345da65cab42127fb2870d9cc572d5efc8df1]{
+-- Page 10, Offset 18429.
+-- 頭上には無機質な<視|め>。<眼|め>。<目|め>。
+  Au-dessus de sa tête se trouvaient des yeux. Des yeux inhumains.
+
+}
+[sha:15777d3e3d535fdd92f2a1ec6b7f854eed442953]{
+-- Page 10, Offset 18430.
+-- あまりにも<活|いろ>がない。
+  Toute vie les avait désertés.
+
+}
+[sha:ba17becc66aad93543ca6d15aff00ae45e9cbab5]{
+-- Page 10, Offset 18431.
+-- まだ虚空にある月の方が<活|い>きている。
+  Même la lune trônant seule dans le ciel semblait plus vivante.
+
+}
+[sha:caf0a8de800f3de80accccd5e7b6d9d61f5be646]{
+-- Page 10, Offset 18432.
+-- ソレの両腕は折れている。
+  Cet être avait les deux bras brisés.
+
+}
+[sha:587212482c7dd8f8824198b418842a2251b5f8ff]{
+-- Page 10, Offset 18433.
+-- 人智に収まらぬ強打によって跡形もない。
+  Ils avaient été réduits en bouillie par l'attaque violente et inhumaine.
+
+}
+[sha:0a810a0e457d3869373875c32bd09c1fdcbd957d]{
+-- Page 10, Offset 18434.
+-- 痛覚があるのなら<叫|こえ>が漏れる。
+  S'il ressentait la douleur, il aurait laissé échapper un gémissement.
+
+}
+[sha:24415e01d54b445f1d2dbf77a3a6675fb26312d0]{
+-- Page 10, Offset 18435.
+-- なのに無音という事は。
+  Pourtant, il restait muet.
+
+}
+[sha:c89b50a4c6121d339c7efa3cdd461273f719742e]{
+-- Page 10, Offset 18436. Mods: @c, @r, @c, @r.
+-- 故に／
+  Si cela se trouvait／
+
+}
+[sha:ef2376f9bfa57d352cb7c39128abe2c1f3811b1a]{
+-- Page 10, Offset 18437. Mods: @c, @r, @c, @r.
+-- あるいは元より
+il n'avait peut-être
+
+}
+[sha:feab96676b223b2568ea599f52b49a1499d6a8e9]{
+-- Page 10, Offset 18438. Mods: @c, @r, @c, @r.
+-- ／生きていない。／
+／jamais été／
+
+}
+[sha:2c84cbe9ba11373eac54088da4f4a317f633fc1d]{
+-- Page 10, Offset 18439. Mods: @c, @r, @c, @r.
+-- のか。
+vivant.
+
+}
+[sha:9386b89ae55e5cf4c516b1349be2ecfe35c1a629]{
+-- Page 11, Offset 18440.
+-- ソレは死人のような<貌|め>で<人|カ><狼|レ>を凝視している。
+  Cet être le fixait avec les yeux d'un mort.
+
+}
+[sha:d83633f0959fe44182584b4adf4b807f1792dd53]{
+-- Page 11, Offset 18441. Mods: @c, @r.
+-- 
+                              
+
+}
+[sha:8144d17bf24077e1d622ea4fee20ade5792d7a91]{
+-- Page 11, Offset 18442. Mods: @c, @r.
+-- 近いモノなら知っている。
+Il connaissait bien un autre être vivant similaire.
+
+}
+[sha:3a4806cb7f59c41f275a4a577ff39ed9423249f3]{
+-- Page 11, Offset 18443.
+-- 憎悪もなし歓喜もなし。
+  Il ne ressentait ni haine ni joie,
+
+}
+[sha:a26f948b650324e6e110f4f1a79b06a27feb05a1]{
+-- Page 11, Offset 18444.
+-- いかなる意思の発露もなし。
+  et ne manifestait aucune forme de désir :
+
+}
+[sha:d83633f0959fe44182584b4adf4b807f1792dd53]{
+-- Page 11, Offset 18445. Mods: @c, @r.
+-- 
+                              
+
+}
+[sha:fb05dbf74e40df0689ab9d28a2ce3c9197c49911]{
+-- Page 11, Offset 18446. Mods: @c, @r.
+-- <脳|ちせい>のない昆虫だ。
+L'insecte privé d'intelligence.
+
+}
+[sha:b575f4d873775f657d0d54a5680d7ed34f493595]{
+-- Page 12, Offset 18447.
+-- ぞわりと体毛がささくれ立つ。
+  Ses poils se hérissèrent.
+
+}
+[sha:aa9542f26f729f3e269098c3fa50d1472b0e812a]{
+-- Page 12, Offset 18448.
+-- 己が背に走る感情の名を、人狼は知らない。
+  Le loup-garou ignorait le nom de la sensation qui parcourait son échine.
+
+}
+[sha:6bfc7c95af21720c5a0ccdb493d8511c711d7ec5]{
+-- Page 12, Offset 18449.
+-- その不可解さに<怖|おじ>けてしまったことを、そもそも恐怖を知らなかった<人|カ><狼|レ>には、微塵たりとも自覚できない。
+  Comme il ne connaissait pas la peur, il n'avait aucun moyen de réaliser que ce qui lui était inconnu l'effrayait.
+
+}
+[sha:e12a3dc25157dca5d5733e0c8096b58e127bb62b]{
+-- Page 13, Offset 18450.
+-- ……金狼は今まで、多くの神秘と戦い、これを打ち破ってきた。
+  ...... Jusqu'à présent, le loup doré avait combattu de nombreux Mystères et les avait vaincus les uns après les autres.
+
+}
+[sha:a618c8c6a400ac5ca71588e9288f798f489a376d]{
+-- Page 13, Offset 18451.
+-- カレは自分以上の巨体を誇る獣を知っている。
+  Il connaissait des bêtes avec des corps plus gros que le sien.
+
+}
+[sha:d14c7e83784a478a937724285e90992d2872b9bc]{
+-- Page 13, Offset 18452.
+-- 自分と同じ、伝承から生まれた獣も知っている。
+  Il connaissait aussi des monstres nés de la tradition populaire tout comme lui.
+
+}
+[sha:a688d3b241116f984277bd35c8418068616af7cf]{
+-- Page 13, Offset 18453.
+-- だが、コレは知らない。
+  Mais il ne connaissait rien de tel.
+
+}
+[sha:732bb88ee34bf8c73fda6943d225ddb41c903018]{
+-- Page 13, Offset 18454.
+-- 人間ほどの大きさをした昆虫など、彼は出会ってもいないし、想像した事さえなかった。
+  Il n'avait jamais rencontré d'insecte à taille humaine et il n'en avait même jamais soupçonné l'existence.
+
+}
+[sha:d69ec4e81176ca21c1b33e27fa2d94f7c720016d]{
+-- Page 14, Offset 18455.
+-- “―――、―――”
+“―――, ―――”
+
+}
+[sha:5cd5258ba9ee5153481074e98e0a795f3cfe2066]{
+-- Page 14, Offset 18456.
+-- 背筋が二つに割れそうな<悪寒|おかん>。
+  Les frissons semblaient vouloir déchirer les muscles de son dos.
+
+}
+[sha:f08887017d1058ee64090e24870b247d09c494e3]{
+-- Page 14, Offset 18457.
+-- 今ここで少しでも動けば、何の理由も初動もなく、首めがけてあの足が落ちてくる。
+  S'il remuait ne serait-ce qu'une griffe, un pied s'écraserait sur sa nuque, sans raison ni préavis.
+
+}
+[sha:2b9bccb30386aa96f148a82e6111dd9899061a10]{
+-- Page 14, Offset 18458.
+-- そんな絶望的な予感とは裏腹に、この相手は決して動かない事も、少年は感じ取っていた。
+  Par contraste avec cette affreuse prémonition, le garçon sentait que son adversaire ne bougerait pas.
+
+}
+[sha:175b0d5bfea9c374b23c6a61fabf84a9ee3d0149]{
+-- Page 15, Offset 18459.
+-- この人間は、これ以上の暴力は振るわない。
+  Cet humain ne recourrait plus jamais à la violence.
+
+}
+[sha:b7c86fea770c01ea685359e41bc67e94e3c9c8bc]{
+-- Page 15, Offset 18460.
+-- 生き物らしい……いや、動物らしい本能がない石くれのクセに、<人|・><間|・><ら|・><し|・><い|・><分|・><別|・><で|・><動|・><い|・><て|・><い|・><る|・>。
+  Ce n'était qu'un galet privé de tout instinct propre aux êtres vivants...... ou plutôt aux bêtes, et pourtant, le bon sens humain dictait ses actes.
+
+}
+[sha:bb408b48eba1340fb4fb646703f9583e2cd0818e]{
+-- Page 16, Offset 18461.
+-- その矛盾が、<人|カ><狼|レ>の<価値観|こころ>に粘りつく。
+  Cette contradiction s'éternisait dans son cœur.
+
+}
+[sha:2b57a3e6338880f4ad36ff0ef34d45afcf409aaa]{
+-- Page 16, Offset 18462.
+-- 未知の<感情|きょうふ>からくる<幻肢痛|げんしつう>。
+  Ce sentiment inconnu, la peur, lui infligeait une douleur fantôme.
+
+}
+[sha:a7419766e4464f5300484e1f6d3f8a6ad2a4d38d]{
+-- Page 16, Offset 18463.
+-- ぷつぷつと音をたてて、小さな<画鋲|がびょう>が心臓に迫るようだ。
+  C'était comme si une punaise minuscule le harcelait en grattant les murailles de son esprit.
+
+}
+[sha:3d7fca042369209e09e58a4ee60f78d539a44531]{
+-- Page 16, Offset 18464.
+-- それは<人|カ><狼|レ>がはじめて出会った疑問であり、現実だった。
+  Ce furent le premier doute et la première réalité auxquels il dut faire face.
+
+}
+[sha:bf890fc25586cce1ff0407a5fe43e1539878a50b]{
+-- Page 16, Offset 18465.
+-- この世にはどうしようもない矛盾があり、そして―――
+  Le monde regorge de contradictions inconcevables―――
+
+}
+[sha:ad1f398f7d9487f7b432a8348cf4d7c08787d02a]{
+-- Page 16, Offset 18466.
+-- 答えなど知りたくもない“不合理”があるのだと。
+  et “d'absurdités” que l'on préférerait ignorer.
+
+}
+[sha:602a935b097430fa78ec224ccf3d2aa6a5349cb9]{
+-- Page 17, Offset 18467.
+-- “っ―――い、た―――ぃ”
+“―――J'ai... mal―――”
+
+}
+[sha:d5a3bddc5044b0bda8bf0e1ac168c47d1b56890c]{
+-- Page 17, Offset 18468.
+-- それまで遮断していた痛覚が、全身にあふれ出す。
+  La sensation de douleur qu'il avait réprimée jusque-là assaillit tout son corps.
+
+}
+[sha:df65aa9f3cdb3837c9a671dcd2f210f75e17baf9]{
+-- Page 17, Offset 18469.
+-- こんな事も初めてだった。
+  C'était également une première pour lui.
+
+}
+[sha:2a4d33018f90f6cebae8f3dec96bb2513abd85ea]{
+-- Page 17, Offset 18470.
+-- 今まで<人|カ><狼|レ>の体は痛覚すら制御してきた。
+  Auparavant, son corps contrôlait même la douleur.
+
+}
+[sha:ec640fe5ceef2f4708a9c7bce011d30a5c6382fb]{
+-- Page 17, Offset 18471.
+-- そもそも悪寒など感じた事もなかった。
+  En outre, il n'avait jamais ressenti de frisson de toute sa vie.
+
+}
+[sha:ee0e2d529ee405861878290b056d9d472e23ff8e]{
+-- Page 17, Offset 18472.
+-- 精霊がいたのなら嘆いただろう。
+  Si un Esprit avait vu ce spectacle, il se serait sûrement lamenté.
+
+}
+[sha:60f541aed648692bd51af00c6cfa5e4a4a07d284]{
+-- Page 17, Offset 18473.
+-- ……ああ。生まれながら完成していたモノが、人の世の不条理に混乱している。
+  ...... Aaah. Un être achevé dès la naissance se perdait dans l'absurdité du monde des hommes.
+
+}
+[sha:1579934a8845c5fd1aeb4f737086f38c55322988]{
+-- Page 18, Offset 18474.
+-- “いた―――いたい、いたい、いたい―――！”
+“J'ai―――J'ai mal, j'ai mal, j'ai mal―――!”
+
+}
+[sha:b915e729494239b7a275ba8fbdea4eb31ae6c5e5]{
+-- Page 18, Offset 18475.
+-- 心臓は完治している。
+  Son cœur avait complètement récupéré.
+
+}
+[sha:f5e4d4387b66d9b7853630fc87bacaed9f3b0188]{
+-- Page 18, Offset 18476. Glued. Mods: @x.
+-- 恐れからくる幻肢痛にあえぎながら、<人|カ><狼|レ>は震える体を抱きしめる。
+Le loup-garou haletait à cause de la douleur fantôme provoquée par la terreur et replia sur lui-même son corps agité de tremblements.
+
+}
+[sha:f79abf66bac722e8c220fcdbb27d545b0dda2b64]{
+-- Page 18, Offset 18477.
+-- 頭上にはレンズのような人間の目。
+  Au-dessus de lui, les yeux de l'humain le fixaient comme des lunettes de visée.
+
+}
+[sha:3de053db54b931f6d9fdc231b391401c524ec926]{
+-- Page 18, Offset 18478.
+-- それで、少年は自分が生きている理由をようやく悟った。
+  Le garçon comprit alors enfin la raison pour laquelle il avait vu le jour.
+
+}
+[sha:13da214bc9a0b76105e0de797b6299b6cf60de46]{
+-- Page 19, Offset 18479.
+-- たとえ両腕がなくても、残った足だけでこの相手は自分を殺せただろう。
+  Même sans ses bras, cet adversaire aurait sûrement pu le tuer en utilisant ses jambes.
+
+}
+[sha:9c73cce6ebc29e17f40184668d0d668e4ca67d6f]{
+-- Page 19, Offset 18480.
+-- けれどそれはありえない。
+  Mais c'était impossible.
+
+}
+[sha:6537ecd05cfdaab9c0fe17b1e5145ef039ae873c]{
+-- Page 19, Offset 18481.
+-- なぜなら、この相手は<た|・><だ|・><や|・><り|・><返|・><し|・><た|・><だ|・><け|・>なのだから。
+  Tout simplement parce qu'il n'avait fait que lui rendre la pareille.
+
+}
+[sha:d644b32c445340d43f8fad08baf7eeaedef57c13]{
+-- Page 19, Offset 18482.
+-- 彼を殺そうとした狼に対しての反撃、ではない。
+  Il n'avait pas riposté parce que le loup avait tenté de le tuer.
+
+}
+[sha:4634671b3b8412f214002ff2d249d727e189939f]{
+-- Page 19, Offset 18483.
+-- これは彼女たちを傷つけた行為に対する、当然の報復だった。
+  Il s'agissait là de représailles pour les blessures qu'il avait infligées aux deux filles.
+
+}
+[sha:af2d3df268c2445b046d17bd1ce4d9e9714b5b43]{
+-- Page 20, Offset 18484.
+-- “―――、……、―――”
+“―――, ......, ―――”
+
+}
+[sha:fdda1dafd3c3426734f25d7f8bbd79382b3abdcd]{
+-- Page 20, Offset 18485.
+-- おかしさから<喉|のど>がひきつる。
+  Sa gorge se noua à cause de l'absurdité de ce fait.
+
+}
+[sha:0d82c5aa95615f363dbd73de45d06b164ab841de]{
+-- Page 20, Offset 18486.
+-- 呼吸はさっきから乱れっぱなし。
+  Cela faisait un moment qu'il ne cessait de haleter.
+
+}
+[sha:2e9e5589c20363e558d754d52cee8c4f7fdd6160]{
+-- Page 20, Offset 18487.
+-- この人間には自己がない。
+  Cet humain n'avait pas d'égo.
+
+}
+[sha:3a5ed534c7ee0062c7f81426f56190050f96e28a]{
+-- Page 20, Offset 18488. Glued. Mods: @x.
+-- 立ち塞がった金狼を、己に向けられた脅威だと計りもしない。
+Il n'avait même pas considéré que la menace du loup-garou se tenant sur son chemin était dirigée vers lui.
+
+}
+[sha:e43c600a9cfeff7448e7cd179cac29e3bc320b61]{
+-- Page 20, Offset 18489.
+-- 憎悪も恐怖も、おそらくは殺意すらなかったのはそういう事だ。
+  Il ne ressentait ni haine ni peur, et même probablement aucune envie de tuer.
+
+}
+[sha:e66f45b192d3e0258c7be3bceb265fd8aa592ba1]{
+-- Page 21, Offset 18490.
+-- ―――そう。人狼が生かされているのは、この人間の意志によるものではない。
+  ―――En bref, si le loup-garou avait encore la vie sauve, ce n'était pas selon le bon vouloir de cet homme.
+
+}
+[sha:cb07365f322ef9d20c1e8d604cbd038330109ed6]{
+-- Page 21, Offset 18491.
+-- 戦いも機械的なら、その判断も機械的。
+  Si ce dernier combattait de façon mécanique, son jugement l'était tout autant.
+
+}
+[sha:1a7516c3dce43f02cc40421fc5aa736f2be9896e]{
+-- Page 21, Offset 18492.
+-- この生き物はただ、<等|・><価|・><な|・><交|・><換|・><を|・><行|・><っ|・><た|・>だけなのだ。
+  Cet être vivant avait simplement procédé à un échange équivalent.
+
+}
+[sha:f7c12170f1bbccf22b418fc4fd510b4a959e7c81]{
+-- Page 21, Offset 18493.
+-- 人狼が彼女たちを一人でも手に掛けていれば、この差し引きは違っただろう。
+  Si le loup-garou avait tué ne serait-ce que l'une des filles, la donne aurait sûrement été différente.
+
+}
+[sha:8b57e28140a685be266a468c98f63e23706210d8]{
+-- Page 22, Offset 18494.
+-- “……殺していたら、殺されていた……？”
+“...... Si je les avais tuées, je serais mort......?”
+
+}
+[sha:bd886024ef13065930f144dc614bf9053355f556]{
+-- Page 22, Offset 18495.
+-- その問いかけに、ぞくりとした。
+  Cette question lui donnait la chair de poule.
+
+}
+[sha:628c61baec832e19476e479cd5a57411120f3782]{
+-- Page 22, Offset 18496.
+-- 今まで考える事すらなかった恐れ。
+  Cette terreur lui était complètement étrangère.
+
+}
+[sha:c8edc5c115635a9acea4307a3e763059bde380b3]{
+-- Page 22, Offset 18497.
+-- 自分はその<規律|ルール>の外にいるのだと、当然のように思っていたのに―――！
+  Il avait toujours été convaincu que ce genre de règles ne s'appliquaient pas à lui―――!
+
+}
+[sha:a396f6d7fed69790381e5c7bef17c079b8faefd7]{
+-- Page 23, Offset 18498.
+-- 体中に痛みが走る。
+  La douleur parcourait son corps.
+
+}
+[sha:22c7272eaa5c44981eacc5850c79fd0b4d298058]{
+-- Page 23, Offset 18499.
+-- いかな神秘であろうと、傷つき、朽ちる事に例外はない。
+  Tout Mystère qu'il était, il ne faisait pas exception à la règle, il pouvait être blessé, et un jour viendrait où il pourrirait.
+
+}
+[sha:e0fbfe1f6fd96d2ee6b177fdf4febf6714a2dc16]{
+-- Page 23, Offset 18500.
+-- そんな当たり前の摂理を、少年はようやく思い知った。
+  Le garçon prit enfin conscience des lois de la nature.
+
+}
+[sha:7d1d5f42e514aa17a6271ec2ffd80ee376510b76]{
+-- Page 23, Offset 18501.
+-- いや、思い知らされてしまった。
+  Ou plutôt, on lui en fit prendre conscience.
+
+}
+[sha:faaa643be3b4fa5f52d69b7169fc641278dff71d]{
+-- Page 24, Offset 18502.
+-- “……殺されてた……間違いなく……”
+“...... J'aurais été tué...... C'est sûr......”
+
+}
+[sha:c27e2e0e2c6f7d97d9ab058d4aee0b87997c7e26]{
+-- Page 24, Offset 18503.
+-- 無機質な目は、感慨もなく見下ろしている。
+  Les yeux inhumains le regardaient de haut sans refléter la moindre émotion.
+
+}
+[sha:907b287069d8796a48f676ceaa4d7d879b024c9f]{
+-- Page 24, Offset 18504.
+-- 報復は万物に共通する摂理だ。
+  Le châtiment était une loi commune à toute création.
+
+}
+[sha:7f5bc9da9c4fef81a406e4b2cd45dbe38ff08e3e]{
+-- Page 24, Offset 18505.
+-- それはもう痛いほどよく分かった。
+  Il l'avait douloureusement compris.
+
+}
+[sha:d14d35984d9cd19f1ac84a8b9fd7144dd4b59583]{
+-- Page 24, Offset 18506. Mods: @n.
+-- ―――なのに。
+  ―――Et pourtant.
+
+}
+[sha:ae78762c814846b7fc1b8d98c80f514c53718669]{
+-- Page 24, Offset 18507. Glued. Mods: @n.
+-- なのに。
+ Et pourtant.
+
+}
+[sha:ae78762c814846b7fc1b8d98c80f514c53718669]{
+-- Page 24, Offset 18508. Glued.
+-- なのに。
+ Et pourtant.
+
+}
+[sha:71efb08dd2be005de55abe047514edb66ab13ea2]{
+-- Page 24, Offset 18509.
+-- それを体現した生き物が、なにより、その決まりから外れているおぞましさ……！
+  L'incarnation de cette loi obéissait moins que quiconque à ces règles. Que pouvait-il y avoir de plus terrifiant......!
+
+}
+[sha:5b9991a170e589d7141234b40c1c769c98697757]{
+-- Page 25, Offset 18510.
+-- 敗北の痛み、心臓の痛み、なにより、不可解を知った痛み。
+  La douleur de la défaite, la douleur de son cœur, et surtout, la douleur d'apprendre l'inconnu.
+
+}
+[sha:5e6225b7ce95bbb88fc8fa5a89c1a8a8a1ddbb29]{
+-- Page 25, Offset 18511.
+-- 痛み、痛み、痛み。
+  Douleur, douleur, tout n'était plus que douleur.
+
+}
+[sha:878393381e55a9d50186163b309d62a4048eeb5f]{
+-- Page 25, Offset 18512.
+-- あり得ない出来事によって、完璧だった世界が崩れていく。
+  Suite à cet évènement improbable, son monde parfait s'effritait.
+
+}
+[sha:2c7e23f5dd83a2e44e7dd9ec2c7caa8d6d89cf40]{
+-- Page 25, Offset 18513.
+-- それは全身を食い尽くす<茨|いばら>となって、少年の心柱を切断していった。
+  Son effondrement agissait comme des épines tranchantes qui lacéraient son âme.
+
+}
+[sha:d567d79ca2c6bb3c9e9536a0893714f35d680b8e]{
+-- Page 26, Offset 18514.
+-- 目眩を起こすほどの疑問。
+              Ces doutes étaient si intenses qu'il fut pris de vertiges.
+
+}
+[sha:9622f18b5190e7c1e91d595469ac25d3cc008c9d]{
+-- Page 26, Offset 18515.
+-- ああ―――
+      Aaah―――
+
+}
+[sha:3157bf930e9498f85fc952a8389c14a268c35f03]{
+-- Page 26, Offset 18516. Glued. Mods: @x.
+-- 人間は、<あ|・><ま|・><り|・><に|・><も|・><不|・><可|・><解|・><す|・><ぎ|・><る|・>。
+les humains sont vraiment incompréhensibles.
+
+}
+[sha:70160601f9258f53e13890a82c3692519fce3a06]{
+-- Page 27, Offset 18517.
+-- “……殺されてた。殺されてた、殺されてた……”
+“...... J'aurais été tué... J'aurais été tué... J'aurais été tué......”
+
+}
+[sha:eebfe889a5cb09ad36ff5a0f73e5b2a08a82980a]{
+-- Page 27, Offset 18518.
+-- 他人の死に向けられたものではなく、己が生に対する<畏|おそ>れ。
+  Sa peur ne venait pas de l'idée qu'il se faisait de la mort d'autrui, mais plutôt de celle qu'il se faisait de la vie.
+
+}
+[sha:b22899aee927d9850af1bf97aac7f2bead224e11]{
+-- Page 27, Offset 18519.
+-- それに耐えられなくなって、<人|カ><狼|レ>は獣から人間に戻ってしまった。
+  Incapable d'en supporter davantage, la bête reprit forme humaine...
+
+}
+[sha:3c979b240de053493c3d0572250b5b39f53ed612]{
+-- Page 27, Offset 18520.
+-- ……静かに。
+  ...... doucement,
+
+}
+[sha:4a9668342a52ac2eac5cefa74addf81d9a41b01c]{
+-- Page 27, Offset 18521.
+-- 母親の膝で<怯|おび>える子供のように、体を震わせながら。
+  le corps tremblant comme un enfant effrayé sur les genoux de sa mère.
+
+}

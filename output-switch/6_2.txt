@@ -1,0 +1,792 @@
+[sha:73b235dab6f8df5e4432e6e1857cb2b86dbf55e9]{
+-- Page 0, Offset 7398.
+-- ……そうして。
+  ...... Puis,
+
+}
+[sha:fbac50ceaf2f3741900398bebef74ee98f00972f]{
+-- Page 0, Offset 7399.
+-- 見知らぬ部屋のベッドで目を覚ました瞬間、草十郎は大きく息を呑んだ。
+  lorsque Sōjūrō ouvrit les yeux, sur le lit d'une chambre inconnue, il eut le souffle coupé.
+
+}
+[sha:bd2ffba551a36f8d88786c4b71a3b3fe16163b05]{
+-- Page 0, Offset 7400.
+-- アパートの安布団とは段違いのベッドの感触や、
+  Cependant, ce n'était pas à cause du cadre de la chambre, où non seulement la moquette mais aussi le papier peint semblaient hors de prix,
+
+}
+[sha:ee0c3feae0c4c1047ce5dd24bc11a7d1d67a9f5c]{
+-- Page 0, Offset 7401.
+-- 絨毯はおろか壁紙まで高価そうな部屋の雰囲気に……ではなく。
+  et où la douceur du lit était sans commune mesure avec celle du futon bon marché de son appartement.
+
+}
+[sha:14bbb8d33a88428f902443ffa84bfb9af473f42b]{
+-- Page 1, Offset 7402.
+-- 「―――、―――」
+「―――, ―――」
+
+}
+[sha:04483ecb86689922cff29664b49012ada55ef2b5]{
+-- Page 1, Offset 7403.
+-- 眼を白黒させたまま、こぼれかけた息を呑みこむ。
+  Le regard toujours hagard, il retenait son souffle qui avait failli lui échapper.
+
+}
+[sha:eb7f7535c65084a3807917f056d6f493feb03418]{
+-- Page 1, Offset 7404.
+-- 驚きの<原因|モト>はそれだ。
+  L'origine de sa surprise était la suivante :
+
+}
+[sha:3eadd83062ce5537b5e0a746d2d5e89fae7b03a0]{
+-- Page 1, Offset 7405.
+-- 草十郎がぱちりと目を覚ました<傍|かたわ>らに、あの、黒衣の少女が座っていた。
+  la fille toute vêtue de noir assise à proximité de Sōjūrō qui venait soudainement de se réveiller.
+
+}
+[sha:4b66dbf67d4efc295b2077c98daa807c5f0bd624]{
+-- Page 2, Offset 7406.
+-- 物音ひとつない静寂だった。
+  Le silence était total.
+
+}
+[sha:eb9a577804a5ad6e3337c61a8ff245210c038be3]{
+-- Page 2, Offset 7407.
+-- 草十郎はベッドに横になったまま少女を見つめる。
+  Sōjūrō, allongé sur le lit, regardait attentivement la jeune fille.
+
+}
+[sha:566a5bb8c95265d3760eb0018e38139320955589]{
+-- Page 2, Offset 7408.
+-- なんとなく<上半身|からだ>を起こしたい衝動にかられもしたが、真っ正面からまじまじと見るのは無遠慮かもしれない、と思いとどまった。
+  Il était pris d'une envie de se redresser mais s'en garda, pensant que ça aurait peut-être été grossier de la regarder fixement, les yeux dans les yeux.
+
+}
+[sha:c8b067c4514846dff78b233587871d870867394e]{
+-- Page 3, Offset 7409.
+-- 少女は椅子に座っているようだ。
+  La jeune fille était apparemment assise sur une chaise,
+
+}
+[sha:142c3060309c336abfac212c8d3c6f4617aab825]{
+-- Page 3, Offset 7410.
+-- 黒い、飾り気のない服装。
+  dans une tenue noire sans fioritures.
+
+}
+[sha:8e5545247c817f2805a4422032f850ed5c8d20fa]{
+-- Page 3, Offset 7411.
+-- そのくせ質素な印象はなく、単色なのに言いようのない気品を感じる。
+  Pourtant, bien qu'étant de couleur unie, sa robe ne dégageait aucune modestie, mais plutôt une élégance indescriptible.
+
+}
+[sha:8d8e5a41852326a26ad8e96d77a38e6ca888c274]{
+-- Page 3, Offset 7412.
+-- 高級な繊維で作られた、この少女の為の装飾―――
+  Un atour de haute couture confectionné spécialement pour cette fille―――
+
+}
+[sha:34ccd91e42c7c684c246fc9c7bd4cf9a14d72ab2]{
+-- Page 3, Offset 7413.
+-- そんな詩的な感想を、草十郎をして抱かせるほどの。
+  C'était amplement suffisant pour que Sōjūrō trouve cette scène poétique.
+
+}
+[sha:09cdf3ad3a299a031167bab9c2344284fb42c6bd]{
+-- Page 4, Offset 7414.
+-- 少女は座ったままぴくりとも動かない。
+  Assise, elle ne bougeait pas d'un pouce.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 4, Offset 7415.
+-- 「――――――」
+「――――――」
+
+}
+[sha:b7093716e6acaae17eb20d8d02c7a45fda966808]{
+-- Page 4, Offset 7416.
+-- 草十郎の呼吸は知らず止まっていた。
+  La respiration de Sōjūrō s'était arrêtée à son insu.
+
+}
+[sha:feef822f1e99746751b6aea118a5c6510892d40d]{
+-- Page 4, Offset 7417.
+-- 呼吸を忘れて少女に見入ったのは、純粋な驚きからだ。
+  Il avait oublié de respirer et fixait la jeune fille sous l'effet de la surprise.
+
+}
+[sha:c6a5ff51b54cf5a6de56f0ad87106bcec82f96fa]{
+-- Page 4, Offset 7418.
+-- ただ美しい。
+  Elle était tout simplement magnifique.
+
+}
+[sha:955bc51524effe881300cd0f2190fc5d17d669e6]{
+-- Page 4, Offset 7419.
+-- その、あまりにも単純で、あんまりにも理由のない表現を同じ<人間|いきもの>に用いたのは、初めてのことだった。
+  Pour la première fois de sa vie, il utilisait cette expression extrêmement simple et irréfléchie pour qualifier un être de la même espèce que lui.
+
+}
+[sha:e1d7da4a55399dd0f7cdc99d7221d449dbf3f390]{
+-- Page 5, Offset 7420.
+-- 純潔のまま成長した<水仙|すいせん>の花。
+  C'était une fleur de narcisse épanouie dans la pureté,
+
+}
+[sha:595c784d3c901cce5bfb5b3c5f05ec9c427fbe8c]{
+-- Page 5, Offset 7421.
+-- あるいは、夢に描かれた理想の少女像。
+  ou alors, l'image de la femme idéale qu'il avait esquissée en rêve.
+
+}
+[sha:af4c9783d1dff6b50805fadfa79cb357ac241c71]{
+-- Page 6, Offset 7422.
+-- 少女のソレは、鑑賞され、愛でられる為の美しさだ。
+  Sa beauté était faite pour être appréciée et admirée.
+
+}
+[sha:6d3ab80d2d2bcaf96242ce520d701106b55e88c6]{
+-- Page 6, Offset 7423.
+-- 蒼崎青子の華やかな、生命に満ちた輝きとは違う。
+  C'était différent du rayonnement éclatant et plein de vie d'Aozaki Aoko.
+
+}
+[sha:fe339f766e6939ed8e8142d28b0f8c73b9e3cfeb]{
+-- Page 6, Offset 7424.
+-- なぜなら、生命あるかぎり人は老いて尽きる。
+  Car à partir du moment où il y a de la vie, les gens finissent par vieillir.
+
+}
+[sha:8c3dd20bee0d80ff58c588699e6b6999af8386ac]{
+-- Page 6, Offset 7425.
+-- そのような結末―――幸福な完結は、この少女には許される筈がない。
+  Une telle fin―――un dénouement si heureux ne semblait pas être permis pour cette fille.
+
+}
+[sha:39888d6d4cb7b4bf7f1cb6d34d94ae1c9dd4e038]{
+-- Page 7, Offset 7426.
+-- それはこの<奇跡|カタチ>のまま生まれ、このカタチのまま滅び去るひとつの<寓話|ぐうわ>。
+  C'était une fable qui avait vu le jour sous cette forme et qui disparaîtrait telle quelle,
+
+}
+[sha:ce84e01ca04ba0b267c1644fe7e4c20a2810fef2]{
+-- Page 7, Offset 7427.
+-- 生まれながらに人間としての生を奪われた、この世ならざる命のあり方。
+  une forme de vie étrangère venue au monde dépouillée de son existence en tant qu'humaine.
+
+}
+[sha:8579fadabcd88edc9a872d733352946640542337]{
+-- Page 7, Offset 7428.
+-- ……<過|か><度|ど>に美しいものほど、結末は<無惨|むざん>なものになる。
+  ...... Lorsqu'une chose est incroyablement belle, sa fin n'en devient que plus tragique.
+
+}
+[sha:a726c38819d37bd2f66f4b78244b1e5df47d87c6]{
+-- Page 7, Offset 7429.
+-- 山奥育ちの草十郎にとって、それは教えられるまでもなく経験している事だった。
+  Sōjūrō, élevé au fin fond de la montagne, n'avait pas besoin qu'on le lui enseigne, car il le savait d'expérience.
+
+}
+[sha:833162da0a6af39ebebdd645a72b27ba9ee514be]{
+-- Page 8, Offset 7430.
+-- 『……眠ってるみたいだ』
+『...... On dirait qu'elle dort.』
+
+}
+[sha:83fc620a1d21569b3a5103af65c94e6cc689a0f2]{
+-- Page 8, Offset 7431.
+-- 草十郎は誘われるように、首を横に向ける。
+  Sōjūrō, comme attiré, tourna sa tête sur le côté.
+
+}
+[sha:cc29d11836cdc78596c90bdebe1eaf25a7c1d9ec]{
+-- Page 8, Offset 7432.
+-- 横顔を盗み見るのは無遠慮だと知りつつ、本能には逆らえなかった。
+  Il savait bien que c'était impoli de dévisager quelqu'un, mais il n'avait pu résister à son instinct.
+
+}
+[sha:b292712178b273529cc51f3b9974e3af563ac90b]{
+-- Page 8, Offset 7433.
+-- そうして―――
+  Ce fut alors que―――
+
+}
+[sha:65d4cd85cbb1aa54aa69f95a8c0787272860c607]{
+-- Page 9, Offset 7434.
+-- 「……え？」
+「...... Hein ?」
+
+}
+[sha:fdd6d83c8b4077ef04b2f5e9fbec8edf910d70bd]{
+-- Page 9, Offset 7435.
+-- 今度こそ本当に、一瞬、心臓が止まった。
+  Cette fois, son cœur cessa vraiment de battre pendant un instant.
+
+}
+[sha:6e1c801512e6e1e1b8d0ff80bca6ed46cfd855b0]{
+-- Page 9, Offset 7436.
+-- 少女は眠ってなどいなかった。
+  La fille ne dormait pas le moins du monde.
+
+}
+[sha:519a614112eda5d88f96aeb5299f109fbce859c3]{
+-- Page 9, Offset 7437.
+-- 無表情に、横たわる怪我人を見つめていただけだったのだ。
+  Inexpressive, elle ne faisait que regarder le blessé allongé.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 10, Offset 7438.
+-- 「…………」
+「............」
+
+}
+[sha:2b52777c5bfe63704e1ec3f8fff50fd789f1daa5]{
+-- Page 10, Offset 7439.
+-- 草十郎はベッドに横になったまま、動かした首を戻す事もできず、かといって気のきいた台詞も浮かばず、少女と無言で見つめあう。
+  Sōjūrō, étendu sur le lit, regardait la fille dans les yeux, silencieusement, sans oser tourner la tête, et sans que le moindre mot ne lui vienne à l'esprit.
+
+}
+[sha:e714a2b7dc0bf953b9e0a82ee075b0e5367d195c]{
+-- Page 11, Offset 7440.
+-- ……<華奢|きゃしゃ>な輪郭からか、自分よりいくぶん幼く見える。
+  ...... De par ses traits fins, elle semblait être un peu plus jeune que lui.
+
+}
+[sha:01f154ac42bdc1ada0d012bae417da9eedacd835]{
+-- Page 11, Offset 7441.
+-- 反面、落ち着いた表情が年上のようにも感じさせた。
+  D'un autre côté, son expression paisible la faisait paraître plus âgée.
+
+}
+[sha:462605d78128f7e4fb5fcb19322a0f8aff31d1e3]{
+-- Page 11, Offset 7442.
+-- 肩口までの髪はにごりのない黒。
+  Sa chevelure tombant jusqu'au cou était d'un noir profond.
+
+}
+[sha:a73a2423774b4fa63c3e92dea71bb04e0145fb0e]{
+-- Page 11, Offset 7443.
+-- そんな髪に合わせたように、大きめの瞳も混ざり気のない黒一色。
+  Ses grands yeux étaient aussi d'un noir uniforme, comme pour s'assortir à ses cheveux.
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 12, Offset 7444.
+-- 「……………………」
+「........................」
+
+}
+[sha:efa5b3cb1713aaf66aebf34a73cb4f9d3f46bef2]{
+-- Page 12, Offset 7445.
+-- 少女は感情のない瞳を草十郎に向けている。
+  Elle dirigeait ses pupilles inexpressives vers Sōjūrō.
+
+}
+[sha:0044fe79e74a92dfcba29e9eba94609005171922]{
+-- Page 12, Offset 7446.
+-- 草十郎と見つめ合うカタチになっても目は逸らさない。
+  Même si leurs regards se croisaient, elle ne détournait pas les yeux.
+
+}
+[sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{
+-- Page 13, Offset 7447.
+-- 「…………………………」
+「..............................」
+
+}
+[sha:fada7c868547b5dcac11a0bdc5a9bec0996950a1]{
+-- Page 13, Offset 7448.
+-- 草十郎は声をかけようにもかけられない。
+  Sōjūrō ne trouvait pas la force de lui parler.
+
+}
+[sha:e3ed1f65a8f8c2243bf5301be2f7fc3bf9ce8f78]{
+-- Page 13, Offset 7449.
+-- 蛇に睨まれた蛙、という程でもないけれど、いま少女に話しかけるのは<躊躇|ためら>われた。
+  Même si sa situation était plus enviable que celle d'une proie fixée par un serpent, il hésitait néanmoins à lui adresser la parole.
+
+}
+[sha:9aabe4be311dc9e3090d19f260f5e5ddeef15f98]{
+-- Page 13, Offset 7450.
+-- それに、
+  En outre,
+
+}
+[sha:e42ddfbd4bfaa7062b688b1d0043e13537b210f9]{
+-- Page 14, Offset 7451.
+-- いかに<暢気|のんき>な草十郎でも、この少女が青子と同じ種類の<爆|にん><弾|げん>である事は身に染みて知っていた。
+  il avait beau manquer de jugeote, il savait pertinemment qu'elle était le même genre de personne qu'Aoko.
+
+}
+[sha:1545557d016d0b73413dbafa233281cb51a12a8f]{
+-- Page 14, Offset 7452.
+-- 一方、少女は少女で<堅|かた>く口を閉ざしている。
+  Quant à elle, elle gardait la bouche parfaitement close, conformément à son caractère.
+
+}
+[sha:9fafbb0dccb354213f626d8ae464e45b8707e407]{
+-- Page 14, Offset 7453.
+-- 一心に、雑念なく、横になった異邦人を看病する……ような雰囲気。
+  Elle donnait l'impression de... veiller intensément sur l'étranger allongé, sans arrière-pensée.
+
+}
+[sha:c0e59f4d2fc6576f2d7b5e4ae4e3ceeb80b58a8b]{
+-- Page 15, Offset 7454.
+-- 少女が何を考えているかは不明だが、草十郎にとっては辛い沈黙が続いていく。
+  Ce silence qui s'éternisait était pesant pour lui, et il n'avait aucune idée de ce à quoi elle songeait.
+
+}
+[sha:60fe25a4b90d8bf2eba67b8210b19cca44dd2962]{
+-- Page 15, Offset 7455.
+-- 草十郎に分かるのは、少女はこの沈黙をまったく気にしていない、という事だけ。
+  La seule chose qu'il comprenait, c'était que ce mutisme ne dérangeait en aucune façon la jeune fille.
+
+}
+[sha:73d7be41a0664f4e5c1ae0f90d5ce71e8c0e71d0]{
+-- Page 15, Offset 7456.
+-- これでは何らかの罰ゲーム、<罰則|ペナルティ>と言えなくもない。
+  Vu sous cet angle, cela pouvait ressembler à un jeu de gage.
+
+}
+[sha:15c4c8053132acf3403b047e57f4969ec9e7e8d2]{
+-- Page 16, Offset 7457.
+-- 『……。これが蒼崎の仕込みなら手がこみすぎる……』
+『...... C'est bien trop recherché pour être une idée d'Aozaki......』
+
+}
+[sha:985e98860dc1ad71b7b46c92d8ca8a4a282a04e8]{
+-- Page 16, Offset 7458.
+-- などと思いつつも、草十郎は少女から目を離せなかった。
+  pensa Sōjūrō, sans quitter la fille des yeux.
+
+}
+[sha:5f148a9ce836a2903ab5952c367eb3bb661f1f4c]{
+-- Page 16, Offset 7459.
+-- 自分が首を戻したり目を閉じた瞬間、少女が隠し持ったナイフで自分の胸を刺すのでは……
+  Mais il ne la fixait pas parce qu'il avait imaginé......
+
+}
+[sha:3b4c23a9480c59e502100773c7f8b51973925f7b]{
+-- Page 16, Offset 7460.
+-- なんて想像をかきたてられたからではない。
+  que celle-ci le poignarderait à la poitrine avec un couteau qu'elle cachait dans son dos, au moment où il tournerait la tête ou fermerait les yeux.
+
+}
+[sha:77276bb6358022e53da0f33d286adb8220ae68c3]{
+-- Page 17, Offset 7461.
+-- たしかに重苦しい沈黙で、遊園地での事を思い返すと不安になるけれど―――
+  Il était vrai que ce mutisme était pesant et que l'inquiétude le gagnait alors qu'il repensait à ce qui était arrivé dans le parc d'attractions, mais―――
+
+}
+[sha:9a78da4bfa97d33de9ed16759bfd42278b1a6295]{
+-- Page 17, Offset 7462.
+-- それ以上に少女は魅力的だと、彼は思ったのだ。
+  surtout, il avait pensé qu'elle était attirante.
+
+}
+[sha:9bc60f50784ecc3c947af8e8743ea2c332172dd0]{
+-- Page 18, Offset 7463.
+-- 細い体と白い肌。
+  Un corps svelte et une peau blanche.
+
+}
+[sha:e59e9c2dcaad03851282c11d9beefd3ad1d7d123]{
+-- Page 18, Offset 7464.
+-- 人を寄せ付けない瞳の冷たさと、いまだ残った少女の面影の温かさ。
+  Ses pupilles glaciales ne laissaient approcher personne, et les vestiges de la douceur d'une jeune fille étaient encore perceptibles.
+
+}
+[sha:795b1ce4fd2434164409f7dbb917ab51da6640c0]{
+-- Page 18, Offset 7465.
+-- その二つが混ざりあった姿は、魔的なものと言ってもいい。
+  Ces deux éléments associés lui donnaient un air démoniaque.
+
+}
+[sha:507305713be31cba7c1c0f0c2ac589573dd1349f]{
+-- Page 19, Offset 7466.
+-- 『…………？』
+『............?』
+
+}
+[sha:2bf31a31033ae3903daec35b1993f5d18acf9111]{
+-- Page 19, Offset 7467.
+-- そこまで少女と向き合って、草十郎は彼女とは以前会っているような気がした。
+  Après l'avoir longuement regardée, Sōjūrō eut l'impression de l'avoir déjà rencontrée auparavant,
+
+}
+[sha:a24b4ba4c7ec2d6acf28a4821ef92b89c38d4309]{
+-- Page 19, Offset 7468.
+-- 遊園地の一件よりもう少し前。
+  peu de temps avant l'histoire du parc d'attractions.
+
+}
+[sha:dfce7b1999f9de09709270f66035dd1cc36a7c26]{
+-- Page 19, Offset 7469.
+-- どこでだったかは思い出せないけれど、たしかに以前見かけた気がする。
+  Il ne se souvenait plus où, mais il avait clairement l'impression de l'avoir déjà croisée.
+
+}
+[sha:96725674b7ab53c728c566d018ef6c48e86a54bb]{
+-- Page 20, Offset 7470.
+-- 「その、いまさらだけど」
+「Euh, c'est un peu tard, mais...」
+
+}
+[sha:df14e7f257fb843e0108e5b2b5a987814be187b9]{
+-- Page 20, Offset 7471.
+-- 凍りついた部屋に、白々しく響く自分の声。
+  Sa voix résonna distinctement dans la chambre glaciale.
+
+}
+[sha:ab2a805f8f92aef798e16ce2c242356205f0976c]{
+-- Page 20, Offset 7472.
+-- その場違いさに申し訳ない気持ちになりながら、草十郎は少女に語りかけた。
+  Sōjūrō s'adressa à la fille, malgré la gêne provoquée par sa précédente intervention un peu déplacée.
+
+}
+[sha:ae8866bee97cd77926f85ce8692ab4062bba1c71]{
+-- Page 20, Offset 7473.
+-- いつまでも見つめ合っている訳にもいかない。
+  Ils ne pouvaient pas continuer à se regarder éternellement.
+
+}
+[sha:8cde3fce2d9d691ecb974324c0f5e4a79ae29925]{
+-- Page 20, Offset 7474.
+-- ……見つめ合っていると思っていたのは自分だけで、少女は睨み合っていたつもりかも知れないし。
+  ...... Et puis, il était peut-être le seul à penser qu'ils se regardaient, alors qu'elle avait plutôt l'intention de le dévisager.
+
+}
+[sha:3fd0cf9e0013c197555b70dc1f66b2fbdcfe0b62]{
+-- Page 21, Offset 7475.
+-- 「ここはどこで、君は誰だか分かるかな」
+「Je peux savoir où je suis et qui tu es ?」
+
+}
+[sha:569ceb581be6cd5079ea9f54efbb504404a1ba2d]{
+-- Page 21, Offset 7476.
+-- 少女は黒い瞳をかすかに細める。
+  Les pupilles noires de la jeune fille se contractèrent légèrement.
+
+}
+[sha:bc6d3297f84c1093bfe25c701e348d388a2410fa]{
+-- Page 21, Offset 7477.
+-- 気分を害した……風ではなさそうだ。
+  Il ne semblait pas...... l'avoir contrariée.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 22, Offset 7478.
+-- 「………………」
+「..................」
+
+}
+[sha:5db36eca64c8806830abc96ab0d5ac799cd7ecca]{
+-- Page 22, Offset 7479.
+-- 質問の返事はない。
+  Elle ne répondit pas à la question.
+
+}
+[sha:f673576b4591fa2409ed6a06d6939288e30d8261]{
+-- Page 22, Offset 7480.
+-- やっぱり黙ってよう、と草十郎が思った矢先、少女は静かに片腕を上げた。
+  Au moment où il pensa qu'il était préférable de se taire, la fille leva silencieusement un bras.
+
+}
+[sha:b5f823acab2f1b78fbf803dfc60331db7a5fa416]{
+-- Page 23, Offset 7481.
+-- 「これ、あなたのでしょう」
+「C'est à toi, n'est-ce pas ?」
+
+}
+[sha:98d2965a446f6c87491f46fbbeb91ee17837fe84]{
+-- Page 23, Offset 7482.
+-- 冷たいが、唄のような声。
+  Sa voix était froide mais mélodieuse comme une douce mélopée.
+
+}
+[sha:d7aa458eaf4817a6429d19ea94cd459232490b8b]{
+-- Page 23, Offset 7483.
+-- 少女の指には白い布が<絡|から>まっている。
+  Un tissu blanc était enroulé autour des doigts de la jeune fille.
+
+}
+[sha:bf59967784eeaadbc5f10d00c4cb373b54b781e1]{
+-- Page 23, Offset 7484.
+-- それが何であるかなど、草十郎には語るまでもない。
+  Sōjūrō n'avait pas besoin de demander de quoi il s'agissait.
+
+}
+[sha:4025e12696bc4fa4a0f45d8ea9b939f6990fbea3]{
+-- Page 23, Offset 7485.
+-- 自分の持ち物を忘れるほど寝ぼけてはいなかったらしい。
+  Apparemment, sa somnolence n'était pas suffisante pour lui faire oublier ses propres affaires.
+
+}
+[sha:777085c8c47416eeeec7c4ee755a7bfa9d2fc058]{
+-- Page 24, Offset 7486.
+-- 無言の草十郎に、少女はふわりと布を落とした。
+  Face au silence de Sōjūrō, la fille fit tomber silencieusement le tissu.
+
+}
+[sha:968bf9f5d9113a81ff92abaf3a791077734bd580]{
+-- Page 24, Offset 7487.
+-- 草十郎は布を拾い上げ、くるくると自分の首に巻く。
+  Il le ramassa et l'enroula autour de son cou.
+
+}
+[sha:0c51b5a3e4c7da9082681af65880f2d95db1d21f]{
+-- Page 25, Offset 7488.
+-- 「……青子は、それを知っているの？」
+「...... Est-ce qu'Aoko est au courant de ça ?」
+
+}
+[sha:d74ae3d35e697e16982701993ece81f60dba644a]{
+-- Page 25, Offset 7489.
+-- ぶしつけな問いから、草十郎は目を逸らす。
+  Sōjūrō détourna les yeux suite à sa question cavalière.
+
+}
+[sha:9fef19af158b49d4ab1068490dda23e961763e65]{
+-- Page 25, Offset 7490.
+-- 彼の頭に浮かんだのはまったく関係のない事だ。
+  Ce qui lui était venu à l'esprit n'avait aucun rapport avec ce qu'elle demandait.
+
+}
+[sha:c8ce1166d3c8c22afda7c5cb4522467c9a97479e]{
+-- Page 25, Offset 7491.
+-- 少女は蒼崎青子を『青子』と呼んだ。
+  Elle avait appelé Aozaki Aoko par son prénom.
+
+}
+[sha:836c249a9bc5496a9830ed5d7b7e48729efbfc4c]{
+-- Page 25, Offset 7492.
+-- では、青子が喧嘩を売っていたのは向かいの山ではなく彼女だったのだろう、と。
+  Dans ce cas, cette dernière n'avait pas cherché des noises à la montagne d'en face, mais à cette fille.
+
+}
+[sha:a83196808aea71585039442f8622553fe44635df]{
+-- Page 26, Offset 7493.
+-- 「さあ、どうだろう」
+「Je ne sais pas. Qui sait.」
+
+}
+[sha:a8a354d34685feb06d0bb105dbdd8aebff5016a0]{
+-- Page 26, Offset 7494.
+-- できるだけ真摯に、予断を<交|まじ>えず草十郎は返答する。
+  Sōjūrō répondit aussi sincèrement que possible, sans faire part de ses suppositions.
+
+}
+[sha:8de350bacca0da763ba13503b3ea627162d5d769]{
+-- Page 27, Offset 7495.
+-- 知るべき事と、知らなくてもいい事。
+  Il ignorait ce qu'il devait savoir, ce qu'il n'avait pas besoin de savoir,
+
+}
+[sha:352a93bff7f150e187e8344d45591181a8d14dbc]{
+-- Page 27, Offset 7496.
+-- 伝えるべき事と、伝わってはいけない事。
+  et ce qu'il devait communiquer ou non.
+
+}
+[sha:4b3de6e9d42a7dd29a59b423ab5a892afdb21cc3]{
+-- Page 27, Offset 7497.
+-- 少女の言う「それ」がどちらなのか、草十郎には考えられない。ただ、
+  Sōjūrō ne pouvait pas savoir à laquelle de ces possibilités correspondait ce “ça” dont parlait la fille. Seulement,
+
+}
+[sha:a4285da9196b421333e30a92ffad0f5796269cec]{
+-- Page 27, Offset 7498.
+-- 「でも、その方がいいとは思うよ」
+「Mais je pense que c'est mieux ainsi.」
+
+}
+[sha:071a69439d7f33dcc2e256ea4fab9cd8c382a1ee]{
+-- Page 27, Offset 7499.
+-- ごく自然に、少女の問いに微笑んだ。
+  très naturellement, il sourit à la question de la fille.
+
+}
+[sha:ab38a3417d0edadea52b9667a37125f8162b7c8f]{
+-- Page 28, Offset 7500.
+-- そんな草十郎の対応に感じ入るものがあったのか、部屋を支配していた重圧は目に見えて薄れていった。
+  Il semblait que quelque chose dans la réaction de Sōjūrō l'avait affectée, car la tension qui régnait dans la pièce s'estompait à vue d'œil.
+
+}
+[sha:7c2b3410810539f33637f294a42a0d31ce6a117c]{
+-- Page 28, Offset 7501.
+-- もしかすると、緊張の度合いは草十郎より少女の方が上だったのかも知れない。
+  Peut-être que la fille était plus nerveuse que Sōjūrō.
+
+}
+[sha:e89ea5ac2163f8901a0dbece913b2963969d8672]{
+-- Page 28, Offset 7502.
+-- ……この場を支配していた少女の心の在り方が、部屋に投影されていたのなら。
+  ...... Si c'étaient bien les sentiments de la fille qui se reflétaient dans la pièce.
+
+}
+[sha:805a32a0763840b2f0071e5b47a014e23be0853d]{
+-- Page 29, Offset 7503.
+-- 緊張は消えた。
+  La tension avait disparu.
+
+}
+[sha:5206f8c0b7fc4cfe9b42b5ad123387c328e4ae00]{
+-- Page 29, Offset 7504.
+-- 草十郎は体を起こそうとベッドに腕をたてる。
+  Sōjūrō posa son bras sur le lit pour se relever.
+
+}
+[sha:575b0817c82c1477529888a23d9290f589dc2d17]{
+-- Page 29, Offset 7505.
+-- こうして話し合える以上、寝たままなのは不便だと思ったらしい。
+  Apparemment, il avait trouvé incommode de rester couché à présent qu'ils avaient commencé à discuter.
+
+}
+[sha:0a24f7051984fce17ffc23204e07b950557300ff]{
+-- Page 29, Offset 7506.
+-- が。起きようとした途端、体の異様なだるさに驚いてしまって、簡単には起き上がれなかった。
+  Mais quand il essaya, étonné par la langueur étrange de son corps, il ne put se redresser facilement.
+
+}
+[sha:de57ccdd953f432b1a4b6c3bceee5221d1570a22]{
+-- Page 29, Offset 7507.
+-- もぞもぞと動いて、ようやく上半身を起こすのが精一杯だ。
+  Il lui fallut toute son énergie pour enfin relever son dos en se tortillant.
+
+}
+[sha:c14228b3550dc5312c97d5554889e9d9730b5ba9]{
+-- Page 30, Offset 7508.
+-- 「……あれ？　洋服のままだ」
+「...... Tiens ? Je suis toujours habillé.」
+
+}
+[sha:d602255712741d24a1cca15f66b45ce3de4bc50b]{
+-- Page 30, Offset 7509.
+-- かかっていた毛布を<剥|は>ぐなり、不思議そうに首をかしげる。
+  Il pencha la tête, étonné, après avoir repoussé la couverture étendue sur lui.
+
+}
+[sha:7432de983e0f819bd6f1742d1b3989890afd96ef]{
+-- Page 31, Offset 7510.
+-- 「申し訳ない。こんないい布団なのに、これじゃ不釣り合いだ。……というより、勿体ない」
+「Je suis désolé. C'est un très beau lit, mais malheureusement, ce que je porte ne va pas très bien avec...... C'est vraiment dommage.」
+
+}
+[sha:50d4144c92b392eab377563a4f99c67356c444a5]{
+-- Page 31, Offset 7511.
+-- どうせならベッドに似合う寝間着で寝たかった、などとぼやく草十郎を、少女は意外そうに見つめている。
+  La fille le regardait, surprise de l'entendre se plaindre qu'il aurait voulu dormir avec un pyjama assorti au lit.
+
+}
+[sha:b24e6aa28a3e13e63ecf4eafefe5bf763ecb421c]{
+-- Page 31, Offset 7512.
+-- 何か、少女にとって予想外の事をしてしまったらしい。
+  Visiblement, il avait fait quelque chose d'inattendu pour elle.
+
+}
+[sha:307cb616f6317f9b794724fe619c17ddeb36c7ba]{
+-- Page 32, Offset 7513.
+-- 『なんでだ。何もしてないぞ、俺』
+『Pourquoi ? Je n'ai rien fait.』
+
+}
+[sha:414a63e38e9814d135855295aff6cc48cfcdb04a]{
+-- Page 32, Offset 7514.
+-- <謂|い>われのない好奇心を向けられ、なんとなく拗ねながら草十郎は少女に体を向けた。
+  Sōjūrō bouda un peu face à la curiosité inattendue de la fille, puis se tourna vers elle.
+
+}
+[sha:a8f44aa374e99ad07e04ac18e1620d89e4fcb702]{
+-- Page 32, Offset 7515.
+-- まだベッドの上に横たわってはいるものの、幾分ましな姿勢になっている。
+  Même s'il était toujours allongé sur le lit, c'était déjà une meilleure posture.
+
+}
+[sha:0cc3058bffeb5af465fa6fe58ce6b11436a18624]{
+-- Page 33, Offset 7516.
+-- 「それで、さっきの続きだけど」
+「Et donc, à propos de ce que je disais...」
+
+}
+[sha:a1bb5612db7a1eefa71972125406e7620e10587f]{
+-- Page 33, Offset 7517.
+-- そう、ここが何処で少女が何者なのか、まずそれを教えてもらわないと始まらない。
+  Oui, il fallait d'abord qu'elle se présente et lui explique où il se trouvait, sinon la situation n'avancerait pas.
+
+}
+[sha:6454809d08aa0807ced98318242888fd20cec503]{
+-- Page 33, Offset 7518.
+-- 実際のところ、遊園地の事を思い出せば思い出すほど、そら恐ろしい想像しかできないのだが。
+  En réalité, plus il se rappelait des évènements du parc d'attractions, plus il ne pouvait qu'imaginer des choses terrifiantes.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 34, Offset 7519.
+-- 「――――――」
+「――――――」
+
+}
+[sha:b31c10812abf3478c2b660ff9aaa5cb3df22b018]{
+-- Page 34, Offset 7520.
+-- そんな草十郎の決意が伝わったのか、少女も冷徹に、背中に回していた手を動かそうとした時。
+  Lorsque la détermination de Sōjūrō sembla l'avoir affectée, elle tenta calmement de bouger la main qu'elle gardait dans son dos,
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 35, Offset 7521.
+-- 「…………」
+「............」
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 35, Offset 7522.
+-- 「…………」
+「............」
+
+}
+[sha:c664c9660edbe5fcc909d50d6504980fa22e74ca]{
+-- Page 35, Offset 7523.
+-- またも無言で見つめ合ってしまう。
+  et ce fut alors qu'ils se regardèrent de nouveau en silence.
+
+}
+[sha:659e001aadd6a7ceda00d2dcd0e3c6a7258cfff1]{
+-- Page 35, Offset 7524.
+-- バタバタバタ。
+  *tap* *tap* *tap*
+
+}
+[sha:21701ee2cc46d39bbb2c8b9445c89d6310439bf4]{
+-- Page 35, Offset 7525.
+-- 外から響いてくる足音は、何者かが走って来るものだ。
+  Les bruits de pas qui retentissaient à l'extérieur venaient de quelqu'un qui arrivait en courant.
+
+}
+[sha:452ae8afc222f956e5e45819f8ecfd15afdbaabb]{
+-- Page 35, Offset 7526.
+-- それが誰のものか、少女はともかく草十郎にさえもありありと予測でき―――
+  Même Sōjūrō pouvait prédire clairement de qui il pouvait s'agir―――
+
+}
+[sha:a8942a2d22e8cb4e294cb42f831771f501b023e6]{
+-- Page 36, Offset 7527.
+-- 「有珠っ、約束！」
+「Alice, ta promesse !」
+
+}
+[sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{
+-- Page 36, Offset 7528.
+-- この通り。
+  Exactement.
+
+}
+[sha:7e3a6feca9c6e515834f93f8b3e132c5c60a3f1a]{
+-- Page 36, Offset 7529.
+-- 乱暴な<一喝|いっかつ>と共に入ってきたのは予想通り、蒼崎青子その人だった。
+  Celle qui venait d'entrer en fulminant était, comme prévu, Aozaki Aoko en personne.
+
+}

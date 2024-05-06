@@ -1,0 +1,42 @@
+[sha:70a856158c8336ed8466fc2fc02fb8593a1e855a]{
+-- Page 41, Offset 21671. Mods: @e.
+-- ～選択肢Ｉ～
+-Choix I-
+
+}
+[sha:0b7efd01f846b90fd597d277a2b59e3434735652]{
+-- Page 41, Offset 24038. Choice.
+-- 槻司の話はおかしい、と思った。
+Je songeai que le témoignage de Tsukiji était étrange.
+
+}
+[sha:9eb5dae7db7438b7c60f2e77ec63b20640b5c926]{
+-- Page 41, Offset 24039. Choice.
+-- 蒼崎の話はおかしい、と思った。
+Je songeai que le témoignage d'Aozaki était étrange.
+
+}
+[sha:cae9af69124e124dba34926e5142afe59a76ebdd]{
+-- Page 41, Offset 24040. Choice.
+-- ベオの話はむかつく、と思った。
+Je songeai que le témoignage de Beo était irritant.
+
+}
+[sha:d74b8ce8c5f67e1f0470472049ff9d427a9c26f2]{
+-- Page 41, Offset 24041. Choice.
+-- 槻司と蒼崎の話はおかしい、と思った。
+Je songeai que les témoignages de Tsukiji et Aozaki étaient étranges.
+
+}
+[sha:f14ffb25bc004b2aacac002a09864487b5e213dd]{
+-- Page 41, Offset 24042. Choice.
+-- 槻司とベオの話はおかしい、と思った。
+Je songeai que les témoignages de Tsukiji et Beo étaient étranges.
+
+}
+[sha:2144e2435b8dae15c813a7c1adce4169e818416e]{
+-- Page 41, Offset 24043. Choice.
+-- 蒼崎とベオの話はおかしい、と思った。
+Je songeai que les témoignages d'Aozaki et Beo étaient étranges.
+
+}

@@ -1,0 +1,906 @@
+[sha:d1f0f86d37a8df59ef50b08029a7d65b1e6f8f7f]{
+-- Page 0, Offset 14373.
+-- とりあえずは、そんな日常の話から。
+  Commençons par relater leur quotidien.
+
+}
+[sha:dcd4ee4dc1f23681124baafdc6f64c8f9a6a1bde]{
+-- Page 1, Offset 14374.
+-- 星の運びは、今日一日を労働に<捧|ささ>げるべしと告げていた。
+  La configuration des étoiles annonçait qu'il fallait vouer cette journée au travail,
+
+}
+[sha:1bfd10773ab806f637279ad0d45e6e27cfdb1b32]{
+-- Page 1, Offset 14375.
+-- 具体的に言うと庭の清掃。
+  et plus précisément au nettoyage du jardin.
+
+}
+[sha:73b6d081129eb3a581018894e9d55c5ad1ea3386]{
+-- Page 1, Offset 14376.
+-- 草十郎にとって、これ以上アレを放置しておくのは精神衛生上よろしくない。
+  Le laisser à l'abandon plus longtemps serait néfaste pour la santé mentale de Sōjūrō.
+
+}
+[sha:293117543e92b294892fa9f7f71f702cc0f1b6c2]{
+-- Page 1, Offset 14377.
+-- 幸い、アルバイトの<当番|シフト>は丸一日オフ。
+  Heureusement, il était de repos toute la journée.
+
+}
+[sha:6a65158228e99ddafcf963e296a55bfbb381073a]{
+-- Page 1, Offset 14378.
+-- 彼にとって今日はまたとない好機だった。
+  Ce jour représentait pour lui une opportunité unique.
+
+}
+[sha:23b3984891a715634b080f76c29d9c171f49c031]{
+-- Page 2, Offset 14379.
+-- ―――しかし。洋館の<園|にわ>は本気で広い。
+  ―――Cependant, le jardin du manoir était incroyablement vaste.
+
+}
+[sha:2ecf188126fb10ac5cc4d659597bb7cc57a930ec]{
+-- Page 2, Offset 14380.
+-- 荒れ放題なのは中庭だけでなく、館の正面玄関まわりですら手入れが行き届いていなかった。
+  Le délabrement ne se cantonnait pas qu'à la cour. La zone entretenue n'atteignait même pas les abords de la porte d'entrée.
+
+}
+[sha:a1dfbaab2bd3c8396133c4ff4e56f4f6af2c4ddf]{
+-- Page 2, Offset 14381.
+-- 本気で掃除をするのなら、一週間単位で計画を組まなくてはいけない広さである。
+  Considérant l'étendue à nettoyer, Sōjūrō devrait établir un plan sur une semaine s'il voulait réaliser un travail sérieux.
+
+}
+[sha:decf705c3f23052e2f36dae7f915a1bc9252844d]{
+-- Page 3, Offset 14382.
+-- 「よし。まずは地ならしだな」
+「Bien. Pour commencer, le nivellement.」
+
+}
+[sha:4c878904595e07323c3c313c32159fcbfd16ad36]{
+-- Page 3, Offset 14383.
+-- 理想は一日で成し遂げられるものではない。
+  L'idéal, ce n'est pas forcément de l'achever en un jour.
+
+}
+[sha:b00b5f8aef4b4ab7eca1b9dca1c41d7833dcce58]{
+-- Page 3, Offset 14384.
+-- 今日は雑草の除去だけに専念しよう、と草十郎は決意を新たに荒れ野に踏み出した。
+  Aujourd'hui, je vais me contenter d'arracher les herbes folles, pensa Sōjūrō avant de pénétrer dans ces terres sauvages avec une détermination renouvelée.
+
+}
+[sha:7ddbec1860c7aaf1cae91a20436e18773370dd3d]{
+-- Page 4, Offset 14385.
+-- 朝も早くから館の周りの雑草を引き抜いていく。
+  Il déracinait les mauvaises herbes aux alentours du manoir depuis tôt ce matin.
+
+}
+[sha:b3a3d5c0010b544af9d95fde82eb8578dc5d4dcf]{
+-- Page 4, Offset 14386.
+-- 計算によれば、午後までには玄関付近、中庭、裏庭をぐるりと一回りし、一休みできる予定になっていた。
+  Selon ses calculs, son programme devait lui permettre de prendre une courte pause d'ici l'après-midi après avoir désherbé les environs de l'entrée, de la cour et de l'arrière-cour.
+
+}
+[sha:1d16f99f3a87a40876ad9eeb7f0e722761c47f55]{
+-- Page 5, Offset 14387.
+-- 「どうしたの、彼」
+「Que lui arrive-t-il ?」
+
+}
+[sha:2106a30a63e13e73afb5f20e24de35910cc74475]{
+-- Page 5, Offset 14388.
+-- 「さあ。草摘みが趣味ってワケじゃなさそうだけど」
+「Je ne sais pas. Mais je ne crois pas que le désherbage fasse partie de ses passe-temps.」
+
+}
+[sha:c205f603a58eb289abc92f5e3c36ba5f3488001b]{
+-- Page 5, Offset 14389.
+-- 正午前のサンルーム。
+  Dans la véranda, peu avant midi,
+
+}
+[sha:b6bfe0d77c95d259747a59fd1c947c90763b253b]{
+-- Page 5, Offset 14390.
+-- 有珠が本を片手にやってきた時、先客である青子は優雅に紅茶を飲みつつ、ファッション誌を読んでいた。
+  lorsqu'Alice arriva un livre en main, Aoko y lisait déjà un magazine de mode tout en dégustant élégamment un thé.
+
+}
+[sha:c8ee2c5495c9c3acfebb6e9ed41e88d02b528f51]{
+-- Page 5, Offset 14391.
+-- 窓ガラスの向こうには、しゃがみこんだまま後退していく人影がひとつ。
+  De l'autre côté de la fenêtre, une silhouette accroupie reculait petit à petit.
+
+}
+[sha:8106acd8082b069e3c5b5f2941b855bd448fc60c]{
+-- Page 6, Offset 14392.
+-- 「朝からやってるみたいよ。
+「On dirait qu'il est là depuis ce matin.
+
+}
+[sha:e0e133ef72d48ada947090d061a66e73c2b1ac74]{
+-- Page 6, Offset 14393.
+-- 起きてカーテンを開けたら、もうあの格好でスパスパやってたから。ついでに焼却炉の掃除も言いつけといたけど、いいでしょ？」
+  Quand j'ai ouvert les rideaux après m'être levée, il était déjà en train de trimer dans cette posture. Tant qu'à faire, je l'ai aussi chargé de nettoyer l'incinérateur. Ça ne te dérange pas, j'espère ?」
+
+}
+[sha:4fe338724fbdced004e60968e0d7f186edfc1a74]{
+-- Page 6, Offset 14394.
+-- 「いいけど。……頑張るのね、彼。外はあんなにも寒いのに」
+「Non, mais...... il fait vraiment de son mieux. Il doit pourtant être frigorifié avec ce froid.」
+
+}
+[sha:562c722dde35cc43794b3c353e0c8988ac061ab8]{
+-- Page 7, Offset 14395.
+-- 有珠は静かに腰を下ろした。
+  Alice s'assit silencieusement.
+
+}
+[sha:682d297c8badfbee7e937a1c8f0a5789353ce008]{
+-- Page 7, Offset 14396.
+-- テーブルには彼女の分のティーカップも用意されていた。
+  Une tasse avait également été préparée pour elle sur la table.
+
+}
+[sha:df03c70a1ef1103d1acb91df3e53b7342073b3c8]{
+-- Page 7, Offset 14397.
+-- 有珠はポットからカップに紅茶を注いで、持ちこんだ本を開く。
+  Alice prit la théière et versa le thé dans sa tasse, puis ouvrit le livre qu'elle avait apporté.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 8, Offset 14398.
+-- 「………………」
+「..................」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 8, Offset 14399.
+-- 「………………」
+「..................」
+
+}
+[sha:58ff8efba7eb7cac6b2604cf84c9a869e3b055e9]{
+-- Page 8, Offset 14400.
+-- 二人は無言で時間を過ごす。
+  Elles passèrent le temps sans mot dire.
+
+}
+[sha:fb25249da72f00b82ff6f7000639e5d351a2fad5]{
+-- Page 8, Offset 14401.
+-- 青子も有珠も気まぐれに、部屋で休むのだったらサンルームでお茶にしよう、とやって来ただけだった。
+  Aoko et Alice n'étaient venues dans la véranda que sur un coup de tête, en pensant que si elles devaient se reposer dans leur chambre, autant prendre un thé ici.
+
+}
+[sha:0d7b3ef1d4917de4c58343cfcab702398b5e5667]{
+-- Page 8, Offset 14402.
+-- 談話のネタもなく、夜にそなえての役割分担も既に済んでいる。
+  Elles n'avaient aucun sujet de conversation, et elles avaient déjà décidé de la répartition de leurs rôles pour la nuit.
+
+}
+[sha:f12084ecefca3fe67c02de675cbf848863f99eca]{
+-- Page 9, Offset 14403.
+-- 青子は雑誌をパラ読みしながら、基本的には窓の外の風景を眺め、
+  Pour résumer, Aoko lisait d'un œil son magazine tout en observant le spectacle derrière la fenêtre,
+
+}
+[sha:5a0972d807f21740a33d3af86a6dfd6ef42786d0]{
+-- Page 9, Offset 14404.
+-- 有珠はルーン魔術に関する書物に没頭しながら、時折、思い出したように顔をあげる。
+  tandis qu'Alice était plongée dans un livre traitant des sorts de Runes et levait la tête de temps à autre, comme si quelque chose lui revenait à l'esprit.
+
+}
+[sha:8666671079f3c1f6f006ba871e01af6de918f9a4]{
+-- Page 10, Offset 14405.
+-- ティーカップに口をつけ、二人は申し合わせたように窓の外に視線を送った。
+  Elles portèrent leur tasse à leurs lèvres et, comme d'un commun accord, jetèrent toutes les deux un regard à l'extérieur.
+
+}
+[sha:9b007f113b46d9538f99f8473369e721e47fd812]{
+-- Page 10, Offset 14406.
+-- 手伝う気など爪の先ほどもないのか、少女たちは他人事のように庭職人（駆け出し）の動きを観察する。
+  Elles ne semblaient pas du tout avoir l'intention d'aller aider, car les deux filles observaient les mouvements du jardinier (débutant) comme si ce n'était pas leur problème.
+
+}
+[sha:7df50f1c76f89580b840201cc0dc44834be1a710]{
+-- Page 10, Offset 14407.
+-- 草十郎の動きは緩慢ではあるけれど、なぜか作業は<迅速|じんそく>にこなされていった。
+  Les gestes de Sōjūrō étaient lents, mais, étrangement, le travail avançait rapidement.
+
+}
+[sha:635e3fa7d509605450eb1abf8cdd93aadb50b679]{
+-- Page 11, Offset 14408.
+-- ……ふと青子が視線を逸らすと、対面の相方と目が合った。
+  ...... Soudain, Aoko détourna le regard et croisa celui de sa partenaire en face d'elle.
+
+}
+[sha:8292f6558481747b4b27da778393de389f7717f2]{
+-- Page 11, Offset 14409.
+-- 有珠は取り<繕|つくろ>うように書物に視線を戻し、
+  Alice replongea le nez dans son livre pour faire comme si de rien n'était,
+
+}
+[sha:cec8aa63c3e7d763b253ac1f8272f4f30a14ed2e]{
+-- Page 11, Offset 14410.
+-- しばらくした後、もう一度顔をあげて、
+  et après un certain temps, leva de nouveau le visage.
+
+}
+[sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
+-- Page 11, Offset 14411. Mods: @k, @e.
+-- 「―――、
+「―――,
+
+}
+[sha:c33c6368ac589b58993bf08503efd0b57520cd9b]{
+-- Page 11, Offset 14412. Glued. Mods: @x.
+-- ぽこ」
+ahem.」
+
+}
+[sha:068f0b2e2cd1a50e52dde4f3ee04ce6098b68243]{
+-- Page 11, Offset 14413.
+-- コホンと咳払いをして、読書に集中しようと目を伏せる。
+  Elle s'éclaircit la gorge, puis baissa les yeux en essayant de se concentrer sur sa lecture.
+
+}
+[sha:d7b8573e3cbf7ede6019087c882f605a7e39ac01]{
+-- Page 12, Offset 14414.
+-- ……有珠が驚くのも無理はない。
+  ...... Rien d'étonnant à ce qu'Alice ait été surprise.
+
+}
+[sha:c29df8ccfecb7c90839b47a9ca48adb15a5cc934]{
+-- Page 12, Offset 14415.
+-- 草十郎は三十分も経たないうちに中庭を横断して、あれほど見苦しかった雑草を綺麗に片付けてしまったのだ。
+  En moins de trente minutes, Sōjūrō avait traversé la cour et s'était proprement débarrassé de ces affreuses herbes folles.
+
+}
+[sha:d052b55b5403a17adb39cac317c559eb7188ad96]{
+-- Page 12, Offset 14416.
+-- 謎の庭師は休憩も入れず、白い息を吐きながら、中庭から退場していった。
+  Le jardinier mystérieux quitta la cour sans avoir fait la moindre pause tout en expirant un nuage de vapeur.
+
+}
+[sha:3a37424ea8765b668d4d1dc2d284d6e00516ddd9]{
+-- Page 12, Offset 14417.
+-- 立つ鳥跡を<濁|にご>さず、どころの話ではない。
+  Son travail était tout simplement sans reproche.
+
+}
+[sha:6c160e83e863452cee5e93433163661b6fb286e6]{
+-- Page 13, Offset 14418.
+-- 「……プロかしらね、あいつ」
+「...... C'est un pro celui-là ou quoi ?」
+
+}
+[sha:306408f01082314089077142df7e720bdf3003a0]{
+-- Page 13, Offset 14419.
+-- 青子はその一部始終を見届けて、ぽつりと呟く。
+  murmura Aoko qui avait observé la scène de ses propres yeux du début à la fin.
+
+}
+[sha:661b0a19d26133970af1b05f383c1c0fbfc4bcff]{
+-- Page 13, Offset 14420.
+-- あまりにも迷いのない、鉄人の作業だった。
+  C'était le travail d'un homme de fer, sans erreur ni relâche.
+
+}
+[sha:63ec3e40dc43193ec6fcdf161fc2ac1b7f4f5844]{
+-- Page 13, Offset 14421.
+-- 良くできた映画を見た気分にすらなって、青子は感心……を通り越して、草十郎の無駄な芸達者ぶりに呆れている。
+  Aoko, que ce spectacle avait satisfaite autant qu'un bon film, dépassa le stade de l'admiration... et finit estomaquée par les techniques artistiques inutiles de Sōjūrō.
+
+}
+[sha:6a710738b4d714b1e4a1d1ad07d223902ebce2c0]{
+-- Page 13, Offset 14422.
+-- 一方、有珠は顔をあげて時計を確認していた。
+  Quant à Alice, cette dernière avait relevé la tête pour vérifier l'heure sur l'horloge.
+
+}
+[sha:c2811439beeb80696b55fb79c24ed233aa987cf7]{
+-- Page 14, Offset 14423.
+-- 「……焼却炉、今から手入れをしたら夕方ね」
+「...... Même s'il commence maintenant, il n'aura pas fini l'entretien de l'incinérateur avant ce soir.」
+
+}
+[sha:ee4fb4db126ea7524b70cc94731f2251a6a670d8]{
+-- Page 14, Offset 14424.
+-- 「そっちはもう終わってるわ。朝、上から見てたもの。
+「Il s'en est déjà occupé. Ce matin, je l'ai vu faire d'en haut.
+
+}
+[sha:65afdba30f4e5ab783bf52ad06cf2a2368f1d4fd]{
+-- Page 14, Offset 14425.
+-- 壊されちゃいけないからあれこれ指示だしてね。
+  Je lui ai donné tout un tas de directives pour éviter qu'il l'abîme.
+
+}
+[sha:f471ea642ba26da15bfa592d2716d00bb50b3f29]{
+-- Page 14, Offset 14426.
+-- いやあ、窓開けてさんざん怒鳴ったから部屋が冷えるコト冷えるコト」
+  D'ailleurs, comme j'ai pas arrêté de crier la fenêtre ouverte, ma chambre a refroidi encore et encore.」
+
+}
+[sha:5c6c46d9af566be5d121fa833635525b29459017]{
+-- Page 15, Offset 14427.
+-- 青子が居間にやって来た理由は、自分の部屋が冷えきってしまったから、と推測される。
+  On pouvait supposer qu'Aoko était venue dans le salon à cause de la baisse de la température dans sa chambre.
+
+}
+[sha:16e01105d10a783f15172aa73de9f88b1958e27a]{
+-- Page 15, Offset 14428.
+-- ……部屋から指図をするのと外で掃除をするのとでは、どちらが<極寒|ハード>か言うまでもない。
+  ...... Inutile de préciser quelle tâche était la plus ardue entre donner des instructions depuis sa chambre et travailler à l'extérieur.
+
+}
+[sha:e68ecd0f6c6815ce2b07f796aa711596870f8631]{
+-- Page 16, Offset 14429.
+-- 「静希君、何か言ってこなかった？」
+「Shizuki n'a rien dit ?」
+
+}
+[sha:34af13586248c795f6d2eac92f4d7fa9ccb3a6ab]{
+-- Page 16, Offset 14430.
+-- 「言ってたけど、よく聞こえなかったわ」
+「Si, mais je n'ai pas bien entendu.」
+
+}
+[sha:575d8ee58766113ca526d2a3da318de55fda675f]{
+-- Page 16, Offset 14431.
+-- つまり、草十郎の文句は一切<効|き>かなかったという事か。
+  En d'autres termes, les plaintes de Sōjūrō étaient tombées dans l'oreille d'un sourd.
+
+}
+[sha:de263028f29e80bdc8f306910cded97a35db5abe]{
+-- Page 17, Offset 14432.
+-- 共通の話題もなくなって、二人は読書を再開する。
+  N'ayant plus rien à se dire, elles reprirent leur lecture.
+
+}
+[sha:99b9917d4523f4867d5d2069c14af74be8945f57]{
+-- Page 17, Offset 14433.
+-- そんな、少しだけ張りつめた沈黙を破るように、掃除を終えた草十郎がやってきた。
+  Après avoir fini le désherbage, Sōjūrō se montra, comme pour briser délicatement ce silence tendu.
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 18, Offset 14434.
+-- 「……………………」
+「........................」
+
+}
+[sha:2e2f173bbf67bc55ac0345a8627761311fda2d8f]{
+-- Page 18, Offset 14435.
+-- 気に食わない事があったのか、草十郎は険しい目で青子たちを一瞥する。
+  De toute évidence mécontent pour une certaine raison, Sōjūrō leur adressa un regard sévère.
+
+}
+[sha:d3303d7d57c41ae5fa6ee5824f191c74364b170a]{
+-- Page 19, Offset 14436.
+-- 「あったかそうだね、蒼崎」
+「Tu as l'air d'être bien au chaud, Aozaki.」
+
+}
+[sha:2bbdacfc68c1ef19c9f02358abdaf6fdfa65fdfc]{
+-- Page 19, Offset 14437.
+-- 「外よりは幾分ね。廊下の気温は外とあまり変わらないけど。
+「C'est déjà un peu mieux que dehors. Mais la température dans le couloir n'est pas bien plus élevée qu'à l'extérieur.
+
+}
+[sha:9b13a8dec019c93ca48632280b775358510ba27a]{
+-- Page 19, Offset 14438.
+-- それで、どうして庭の掃除なんてはじめたのよ、草十郎」
+  Sinon, pourquoi as-tu commencé à désherber le jardin, Sōjūrō ?」
+
+}
+[sha:4205a752db1821a4794bdabdf2aca982291cefdd]{
+-- Page 19, Offset 14439.
+-- 草十郎の嫌味なんてこれっぽっちも効いていない。
+  Le sarcasme de Sōjūrō n'eut pas le moindre effet.
+
+}
+[sha:84bd15adef16acba5729bbb9369bbe65a2cd94aa]{
+-- Page 19, Offset 14440.
+-- <青子|てき>の丈夫さに、草十郎は今更ながらガッカリと肩を落とした。
+  Il baissa ses épaules de déception face à la résistance de l'ennemi.
+
+}
+[sha:5f6bbc763eeb9b40576d02bc54d85cb903836a85]{
+-- Page 20, Offset 14441.
+-- 「今日は本当に寒い。明日あたり雪でも降ってくるだろうから、外の掃除は早くに済ませたかったのに。
+「Aujourd'hui, il fait vraiment froid. Demain, il va sûrement neiger, alors je voulais terminer le désherbage au plus vite.
+
+}
+[sha:120a0cba74c6a1403f9156d026e17c7c9ba59400]{
+-- Page 20, Offset 14442.
+-- ……焼却炉は予定外だったぞ」
+  ...... L'incinérateur ne faisait pas spécialement partie de mes plans, tu sais ?」
+
+}
+[sha:1e5ff30386ed3d54220b980225a7344f39499576]{
+-- Page 20, Offset 14443.
+-- 恨みがましく言うが、草十郎にとって焼却炉の掃除などお菓子のおまけみたいな物だった。
+  Sōjūrō parlait sur un ton plein de rancune, mais pour lui, l'entretien de l'incinérateur n'était que la cerise sur le gâteau.
+
+}
+[sha:86364dbda2b6cdc035745a318fe319f327fef183]{
+-- Page 20, Offset 14444.
+-- 彼が不満に思っているのは、誰も手伝いにこなかった、お寒い事実だけである。
+  Il était mécontent pour la simple et triste raison que personne ne lui avait apporté d'aide.
+
+}
+[sha:8ff9704c362c208e122f7027f0aab44cc3c0b200]{
+-- Page 21, Offset 14445.
+-- 「いいじゃない、焼却炉はみんな使うんだから。
+「C'est pas grave, non ? Puisque tout le monde l'utilise.
+
+}
+[sha:b68cbf584c39eea46d141f9011a5c16a7dc77f90]{
+-- Page 21, Offset 14446.
+-- じゃ、その殊勝な心がけついでに、二階の廊下に掃除機かけといてね。
+  Ah, et mets donc ces intentions louables à contribution en passant l'aspirateur dans le couloir du premier étage.
+
+}
+[sha:bb7b1603dbc4f0274c8377145f186d1c77aa5377]{
+-- Page 21, Offset 14447.
+-- それと裏庭のブナの添え木、壊れかけてたでしょ。工具箱はアンタの<屋根裏|へや>に置きっぱなしだから、それを使うこと」
+  Et aussi, l'éclisse en hêtre de l'arrière-cour est presque cassée, tu as vu ? Tu peux te servir de la boîte à outils, elle est restée dans ta chambre.」
+
+}
+[sha:a1199b3c39d307ddefc93fd34e4bfb944c5753b9]{
+-- Page 22, Offset 14448.
+-- 「で、ぜんぶ終わったら私の部屋に来てくれる？
+「Et quand tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?
+
+}
+[sha:681f32843106569579f29461872dab5c83939056]{
+-- Page 22, Offset 14449.
+-- いらない物まとめておくから、焼却炉で焼いておいて」
+  Je vais regrouper les choses dont je n'ai plus besoin, tu les brûleras dans l'incinérateur.」
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 22, Offset 14450.
+-- 「……………………」
+「........................」
+
+}
+[sha:bd0cdf02bea04a5c6167e5e8c4553ad9957224db]{
+-- Page 22, Offset 14451.
+-- そのために焼却炉の手入れをさせたらしい。
+  Manifestement, elle lui avait fait nettoyer l'incinérateur dans ce seul but.
+
+}
+[sha:ab3bc8be2950a22a3373f0613b26452156696e2b]{
+-- Page 22, Offset 14452.
+-- 憎らしいぐらいの段取りの良さである。
+  Sa manière de procéder était tellement imparable que c'en était presque détestable.
+
+}
+[sha:c322af533414ba39888417f821cdf19e17ccc214]{
+-- Page 23, Offset 14453.
+-- 「それで蒼崎、君は何をするんだ？」
+「Et donc, Aozaki, toi, tu vas faire quoi ?」
+
+}
+[sha:3ae0eff812a30c7089ef7f331100cdcc1bc2fb3f]{
+-- Page 23, Offset 14454.
+-- 「そうね、やる事もないしギターにでも触ってようかしら」
+「Eh bien... Je n'ai rien à faire, alors je vais peut-être gratter de la guitare.」
+
+}
+[sha:ad2f14db6c0fc61cfc4f4962a1e08b690ea4453e]{
+-- Page 23, Offset 14455.
+-- うーん、と有意義な午後の過ごし方を模索する青子。
+  Aoko réfléchissait à la meilleure façon de passer agréablement son après-midi.
+
+}
+[sha:d13c3a849c3c7183bebc9700640b89172f7c9488]{
+-- Page 23, Offset 14456.
+-- 嫌味に対して嫌味で返しているワケではない。
+  Elle ne cherchait pas particulièrement à répondre à un sarcasme par un autre sarcasme.
+
+}
+[sha:efd16806a68d47b1bbe852dedecca2491b1c9736]{
+-- Page 23, Offset 14457.
+-- きっと、彼女の予定には『掃除』という単語が存在しないのだ。
+  Dans son programme, le mot “ménage” n'existait sûrement pas.
+
+}
+[sha:fc5a74fae30ba505ae1b859a26c26fef11e4ca90]{
+-- Page 24, Offset 14458.
+-- この洋館はなぜ荒れ果てているのか。
+  Pourquoi donc ce manoir tombait en ruine ?
+
+}
+[sha:c62cc9e3e547fcb09152e60d5a39a72179e402a9]{
+-- Page 24, Offset 14459.
+-- その理由を、はっきりと草十郎は思い知った。
+  Sōjūrō prit clairement conscience de la réponse à cette question.
+
+}
+[sha:7c5addbb9163245de6eb943342b051e59d4a05d2]{
+-- Page 25, Offset 14460.
+-- ……それにしても二階の廊下は長い。
+  ...... Même s'il fallait reconnaître que le couloir du premier étage était vraiment long.
+
+}
+[sha:5c5f8bc0b7917b61bd74e65fab8c6dabf549c830]{
+-- Page 25, Offset 14461.
+-- おまけに青子の言う通り、廊下の気温は外とそう変わりはない極寒だ。
+  D'autant plus que, comme l'avait dit Aoko, la température qui y régnait ne différait pas tant du froid intense qu'il y avait à l'extérieur.
+
+}
+[sha:f3ef7bbdf562fd2ed53dd975102de870d79b5d57]{
+-- Page 26, Offset 14462.
+-- 「……そうか、あくまで掃除をする気はないんだな蒼崎。
+「...... Je vois, tu n'as absolument pas l'intention de faire le ménage, hein, Aozaki ?
+
+}
+[sha:b746d1c646cd562ca347550fa87d31c8e837d85b]{
+-- Page 26, Offset 14463.
+-- まあ、掃除はしたいからするけど、こう、なんだろう。
+  Bah, je veux bien le faire parce que j'en ai envie, mais... comment dire...
+
+}
+[sha:12576e76077314d4143ed8d3cfc2187be5b46b4c]{
+-- Page 26, Offset 14464.
+-- 一緒に住んでる人間をそこまでこき使って良心は痛まないか？　それとも、わりと気付いてはいたけど、良心そのものがないのか？」
+  Ça ne te donne pas mauvaise conscience d'exploiter ton colocataire à ce point ? Ou alors, même si je l'avais déjà un peu remarqué, tu n'as juste pas de scrupules ?」
+
+}
+[sha:8634ce26eb783adfb2824604673ca03fcd7f82b9]{
+-- Page 27, Offset 14465.
+-- 相変わらず、一言多い男である。
+  Cet homme avait vraiment l'habitude d'en dire trop.
+
+}
+[sha:79fde2a63e8f32de31e5b590b3f7a8d4d5a403bb]{
+-- Page 27, Offset 14466.
+-- 草十郎の的確すぎる指摘に、青子はファッション誌を置いて向き直る。
+  La remarque judicieuse de Sōjūrō poussa Aoko à poser le magazine de mode et à se tourner vers lui.
+
+}
+[sha:221384c6026719e63184fcc45e92a7d6f4b5d1e2]{
+-- Page 27, Offset 14467.
+-- 透き通る青い目が、苛立ちをこめて草十郎を直視する。
+  Ses yeux bleus et clairs le dévisagèrent avec irritation.
+
+}
+[sha:32876ebaced67bfbd765456a92126de309ea14ad]{
+-- Page 27, Offset 14468.
+-- その目力に、正義は１００パーセント自分側にありながら、つい気合い負けをする草十郎だった。
+  En dépit du fait que la justice était à 100% de son côté, il se laissa involontairement impressionner par ce regard intense.
+
+}
+[sha:a2e66e97d37e8a771112d39f6781f5b14f2c8e3b]{
+-- Page 28, Offset 14469. Mods: @n.
+-- 「草十郎。
+「Sōjūrō.
+
+}
+[sha:bbe978d656457a5474fdd18f44dedb2bcdff5211]{
+-- Page 28, Offset 14470. Glued.
+-- 何度も言うようだけど」
+ J'ai l'impression de te l'avoir déjà dit, mais...」
+
+}
+[sha:10befe5f5eea7f56ff5e6d3be9020fed06961e67]{
+-- Page 28, Offset 14471.
+-- 「はい」
+「Oui ?」
+
+}
+[sha:b01cf8ea58eb5a3cea2b7e79ad92f4ca63c2687e]{
+-- Page 28, Offset 14472.
+-- 落ち着いた青子の声に、反射的に背中を伸ばす草十郎。
+  Par réflexe, Sōjūrō se mit droit comme un piquet au son de la voix calme d'Aoko.
+
+}
+[sha:a9269894a2bd25bfdab04405c393b4165be42ab8]{
+-- Page 29, Offset 14473.
+-- 「勘違いはしないで。私たちはアンタを同居させてあげてるんじゃない。
+「Ne te fais pas d'illusion. Nous ne te laissons pas vivre avec nous.
+
+}
+[sha:751793e749d81a956320bb0b0f10b53c4bb58914]{
+-- Page 29, Offset 14474.
+-- これ以上ないって譲歩の末、仕方なく飼ってあげてるだけなんだからね」
+  Nous te domestiquons malgré nous parce que nous n'avons pas trouvé de meilleur compromis.」
+
+}
+[sha:96d6f6796aadb54ef514156695adc3e69c9cee74]{
+-- Page 29, Offset 14475.
+-- きっぱりと青子は言う。
+  dit Aoko d'un ton tranchant.
+
+}
+[sha:33769b6e1119c74edd54055affcc035ca582dbb9]{
+-- Page 29, Offset 14476.
+-- 草十郎はなるほど、と頷いた。
+  “Je vois”, acquiesça Sōjūrō.
+
+}
+[sha:541021259a5f8c0bd887560f4e22ebf4939b7e0f]{
+-- Page 30, Offset 14477.
+-- 「そうか、飼ってもらってるのか」
+「Alors, vous me domestiquez.」
+
+}
+[sha:54df8947dfbb9c70d364b9ca304951ff3c8dd550]{
+-- Page 30, Offset 14478.
+-- 「そ。番犬にもならないだろうけど」
+「Oui. Mais bon, tu ne pourrais même pas servir de chien de garde.」
+
+}
+[sha:99769f82bce6c660d1390e3dcc6cebc506563229]{
+-- Page 30, Offset 14479.
+-- 草十郎の呟きに、青子はつまらなそうに言い返す。
+  répondit Aoko d'un air ennuyé au murmure de Sōjūrō.
+
+}
+[sha:bd18284bc31d348c32ea2b2832daf4fe25b1dc2a]{
+-- Page 30, Offset 14480.
+-- それはそれで事実なのだが、草十郎にも一つや二つ反論もあるというもの。
+  Elle avait peut-être raison, mais Sōjūrō avait une ou deux objections à émettre.
+
+}
+[sha:96effaf6a20f690fe6f4ece31d504e51f51ea6df]{
+-- Page 31, Offset 14481.
+-- 「しかし一方、番犬は間違っても自分の食い<扶持|ぶち>を入れたり、あまつさえ家賃を払ったりしないのも事実であった」
+「Cela dit, normalement, même s'il se faisait mener en bateau, un chien de garde n'aurait jamais à payer son repas, et encore moins son loyer.」
+
+}
+[sha:10672a2d250a110372c088ae48e1750de234ff67]{
+-- Page 31, Offset 14482.
+-- 「何か言った？」
+「Tu as dit quelque chose ?」
+
+}
+[sha:ef16b9a9084d9335e7f7a9691828949a41a60154]{
+-- Page 31, Offset 14483.
+-- 「いや。負け犬の遠吠えを、少しばかり」
+「Non. Je me lamentais juste sur ma défaite comme un chien.」
+
+}
+[sha:46edc77156a2c3c868c50968fc358bcbbccd8c64]{
+-- Page 31, Offset 14484.
+-- 参りました、とばかりに手をあげる草十郎。
+  Sōjūrō leva les mains en signe de capitulation.
+
+}
+[sha:115a6df9c719ef0fffc0d6d49469d590a8fc43de]{
+-- Page 31, Offset 14485.
+-- 自虐的なセリフは、彼が言うと間の抜けた冗談にしか聞こえない。
+  Venant de lui, ces propos autodérisoires sonnaient comme une blague idiote.
+
+}
+[sha:2c5f0f9adaf78b9654e3c8bd08680203501c8243]{
+-- Page 32, Offset 14486.
+-- 「……草十郎。アンタ、ほんとに分かってる？」
+「...... Sōjūrō. Tu comprends vraiment ?」
+
+}
+[sha:cb99ba42a9e6f7f82e5943b449f7921ab5a2389b]{
+-- Page 32, Offset 14487.
+-- 「そうだな。君たちがどうあっても掃除をする気がないぐらいは、なんとか」
+「Voyons voir. Je crois avoir compris que quoi qu'il arrive, vous n'avez pas l'intention de faire le ménage.」
+
+}
+[sha:29ee3fd88e83edb6a52de4964a7dfe365e66852d]{
+-- Page 32, Offset 14488.
+-- それだけ理解していれば上等である。
+  S'il pouvait comprendre tout cela, ce n'était déjà pas si mal.
+
+}
+[sha:f33dfd9642d6fba709d2c801afc945deb52b2e32]{
+-- Page 32, Offset 14489.
+-- そんな草十郎の態度に、青子はにっこりと笑みをうかべた。
+  L'attitude de Sōjūrō provoqua un sourire de la part d'Aoko.
+
+}
+[sha:07ef1abe0c073bde0a6a53dd292f5032296d186c]{
+-- Page 32, Offset 14490.
+-- どうも、今の返答がたいへんお気に召した模様。
+  Apparemment, sa réponse lui convenait parfaitement.
+
+}
+[sha:69e2982096b73d92121832ee1e237fc375ddf58c]{
+-- Page 33, Offset 14491.
+-- 「ふーん。余裕あるんだ、静希くんってば」
+「Hum. Tu es toujours aussi zen, hein, mon cher Shizuki.」
+
+}
+[sha:c0a409de01cb1ab70fd3c06ea18f243a0c9c9629]{
+-- Page 33, Offset 14492.
+-- 楽しげな青子の笑みと同時に、草十郎の顔が<曇|くも>る。
+  Alors qu'Aoko affichait un sourire jovial, le visage de Sōjūrō s'assombrissait.
+
+}
+[sha:3638e423411712aa5dfcb1e7f1afea8362350d94]{
+-- Page 33, Offset 14493.
+-- 「……蒼崎。なんだか、息ができないんだけど」
+「...... Aozaki, j'ai comme du mal à respirer.」
+
+}
+[sha:9f80fff62b31b990eb828bdd6ebf130d8e169446]{
+-- Page 33, Offset 14494.
+-- 「このまま放っておくとそんなコトも言ってられなくなるんだけど、試してみる？」
+「Si je continue à serrer, tu ne pourras bientôt même plus me parler. Tu veux essayer ?」
+
+}
+[sha:564464487ffdba1860f06b9fbd43f2cb4dac2797]{
+-- Page 33, Offset 14495.
+-- 草十郎は顔をますます曇らせながら、いや、と首を横に振って答えた。
+  Sōjūrō secoua la tête de gauche à droite en répondant “non” alors que son expression se rembrunissait de plus en plus.
+
+}
+[sha:bec0f2a1a9433559d4224e48ec6065feca11b235]{
+-- Page 34, Offset 14496.
+-- 「賢明ね。私も窒息死体なんて見たくないもの」
+「Sage décision. Moi non plus, je n'ai pas envie de voir le corps d'un homme mort par asphyxie.」
+
+}
+[sha:36b86f7fb5dfd70c77cd67b120f8bd95de4105c8]{
+-- Page 34, Offset 14497.
+-- 耳障りな音が途絶える。
+  Le son discordant s'interrompit.
+
+}
+[sha:6f673042cc2da8769e45b374f794477035616cd3]{
+-- Page 34, Offset 14498.
+-- 草十郎はそろりと首に手を当てる。
+  Sōjūrō porta lentement la main au cou.
+
+}
+[sha:8c700da038f0935f00fc9f2d26aa298737392e14]{
+-- Page 34, Offset 14499.
+-- さっきまで独りでに絞まってきた首輪は、今ではもとのサイズに戻っていた。
+  Le collier, qui se resserrait tout seul quelques instants auparavant, avait maintenant repris sa taille normale.
+
+}
+[sha:43e3fbf8a130b3d0226bdfdd7f493f8d8f7c90b3]{
+-- Page 35, Offset 14500.
+-- 「……気管が<塞|ふさ>がれた時の苦しさを知らないんだろ、蒼崎は。本当に抵抗できなくなるんだぞ、あれは」
+「...... Tu ne sais pas à quel point c'est douloureux d'avoir la trachée bloquée, hein, Aozaki ? On ne peut vraiment plus résister quand ça arrive.」
+
+}
+[sha:7edc45ebf7948a3bc5964d33a7efb04da152ea6a]{
+-- Page 35, Offset 14501.
+-- 「だから、そのための首輪だって言ったでしょ。
+「Je t'ai bien dit que ce collier servait à ça, non ?
+
+}
+[sha:533596c7e412c44c776c7bbce1a1215509bfa0ad]{
+-- Page 35, Offset 14502.
+-- 今まで実践したコトなかったし、アンタはあいかわらず危機感ないし。ここらで一度<躾|しつ>けておいたの。
+  Je ne l'avais encore jamais utilisé jusqu'à maintenant, et comme d'habitude, tu n'as aucun sens du danger, il fallait bien que je te dresse une fois.
+
+}
+[sha:dfece6a44cfc3e848c990674d35eb94cc080f25e]{
+-- Page 35, Offset 14503.
+-- ―――それより掃除。急がないと日が暮れるんじゃないの？」
+  ―――À part ça, va donc faire le ménage. Si tu ne te dépêches pas, tu y seras encore que le soleil sera déjà couché, tu sais ?」
+
+}
+[sha:7b7b7f6c18298630af1cc87e2a72c1653c2fe2a7]{
+-- Page 36, Offset 14504.
+-- 「……はあ。わかったよ。
+「...... D'accord. J'ai compris.
+
+}
+[sha:430cefc66abb99dacf48287a038a7b4385833472]{
+-- Page 36, Offset 14505.
+-- 結局、今日はこうなる星の運びだったんだ」
+  Au bout du compte, le destin a voulu que cette journée se passe ainsi.」
+
+}
+[sha:ec337ffce4cdf5a4f6a140af01acac785561dac9]{
+-- Page 36, Offset 14506.
+-- 負け犬よろしく肩を落として、草十郎はサンルームから立ち去っていった。
+  Sōjūrō baissa les épaules comme un perdant et quitta la véranda.
+
+}
+[sha:980541c3189ab0122f398c3cdbb37b5ea0712932]{
+-- Page 36, Offset 14507.
+-- それを見送った後、何事もなかったように青子は雑誌に視線を戻す。
+  Aoko le regarda partir puis reporta de nouveau les yeux sur le magazine comme s'il ne s'était rien passé.
+
+}
+[sha:8b8149abf6d5a650adef6340b3edb33e076152b7]{
+-- Page 37, Offset 14508.
+-- 以上のやりとりを、有珠は我関せずと聞き流していた。
+  Alice avait ignoré l'échange comme si elle n'avait rien à voir là-dedans.
+
+}
+[sha:75ebb36433c3f72673e4e0d51068148398908ed7]{
+-- Page 37, Offset 14509.
+-- 何度目かの沈黙。
+  Un nouveau silence s'installa.
+
+}
+[sha:9386c79200f461540ccd8f7e3d4a4d8aa62a1d50]{
+-- Page 37, Offset 14510.
+-- 刻々と時計の針が回る中、不意に、ページをめくる有珠の手が止まった。
+  Alors que les aiguilles de l'horloge pivotaient régulièrement toutes les minutes, la main d'Alice s'arrêta subitement alors qu'elle tournait une page.
+
+}
+[sha:bb18d20e5e0a4147183bb080730ee14cb56de849]{
+-- Page 38, Offset 14511.
+-- 「ねえ。どうして彼を酷使するの？」
+「Dis-moi, pourquoi le harasses-tu à ce point ?」
+
+}
+[sha:97aee7178fb6e5fadf47dabc30ede7803c0ae141]{
+-- Page 38, Offset 14512.
+-- 独り言のような問い。
+  La question serait presque passée pour un monologue.
+
+}
+[sha:8c6b9bdfe518230e770c02c1d870e53c3b86e790]{
+-- Page 38, Offset 14513.
+-- 青子は雑誌をめくる手を止めず、
+  Aoko n'interrompit pas la main qui tournait la page du magazine.
+
+}
+[sha:d42c7ba40e94afb8bafe75dfbb0cf669ee0a8fea]{
+-- Page 39, Offset 14514.
+-- 「別に。最後には記憶を消させてもらうんだから、楽しかったら困るじゃない」
+「Pour rien. À la fin, on va lui effacer la mémoire, alors ce serait bête qu'il soit heureux.」
+
+}
+[sha:c240bc46cfcd7a0d5e24c9bfabf111da2d0bd4ed]{
+-- Page 39, Offset 14515.
+-- 極めて分かりにくい、彼女らしい誠実さを口にした。
+  Aoko exprima un avis sincère, difficile à comprendre mais qui lui correspondait bien.
+
+}
+[sha:5e2619eca846ae751ca4a5f5348d52bd054a0ebc]{
+-- Page 40, Offset 14516.
+-- 「…………そう。言われてみれば、そうだったわね」
+「............ Je vois. Maintenant que tu le dis, c'est vrai.」
+
+}
+[sha:05a773943aa8c1762d165e494f1ad170fea1ab22]{
+-- Page 40, Offset 14517.
+-- ……そんなコトを、忘れていた自分に驚いてしまう。
+  ...... Elle s'étonna elle-même d'avoir oublié ce fait.
+
+}
+[sha:91e5d4e28b39930d26af6f33f153010c3654b755]{
+-- Page 40, Offset 14518.
+-- 有珠は静かに顔を上げ、硝子ごしの風景を眺めた。
+  Alice leva doucement la tête et regarda le paysage par la fenêtre.
+
+}
+[sha:112b76ac997f155c6f99196eb383d6b63aa4ac57]{
+-- Page 41, Offset 14519.
+-- 窓から見える彼女の中庭は、十年前の故郷を思わせる。
+  La cour qu'elle voyait à travers la vitre lui rappelait son foyer, dix ans auparavant.
+
+}
+[sha:f90d2efd160dfc76db4eaae3fa09e63e370f547d]{
+-- Page 41, Offset 14520.
+-- あの頃に比べれば何もかも<見窄|みすぼ>らしい、荒れ野とさえ言える庭。
+  Comparé à cette époque, tout du jardin semblait pitoyable, et pouvait même être qualifié de sauvage.
+
+}
+[sha:8a172b62a8ca15e3850c38d99cf532c5c93900e6]{
+-- Page 41, Offset 14521.
+-- なのに、どうして面影が重なるのか。
+  Mais alors, pourquoi ces images se superposaient-elles ?
+
+}
+[sha:21badd9fd6b49387e2cf96300487a7c70338f888]{
+-- Page 41, Offset 14522.
+-- ただ大切に、真心だけで手入れをされた彼女の庭。
+  Son jardin avait simplement été entretenu avec amour et sincérité.
+
+}
+[sha:ae87a2c4a3ce3d37c9ee66dccc43c29cbcf280dd]{
+-- Page 41, Offset 14523.
+-- それが今日半日の、草十郎の成果だった。
+  C'était le résultat des efforts accomplis par Sōjūrō dans la demi-journée.
+
+}

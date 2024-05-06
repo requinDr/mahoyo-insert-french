@@ -1,0 +1,1390 @@
+[sha:240984db82111279e6296adf93ccf3fdbd04af36]{
+-- Page 0, Offset 65.
+-- 外の天気同様、ロビーも灰色に曇っていた。
+-- TRANSLATION HERE
+}
+[sha:c8a2defb55804595c40fa57a398c3639788c01f5]{
+-- Page 0, Offset 66.
+-- 設計者の趣向によるものか、このエントランスは電灯を可能なかぎり排除していた。
+-- TRANSLATION HERE
+}
+[sha:d954f5b477378d636e01f74e8645ba27ce69005c]{
+-- Page 0, Offset 67.
+-- 天井は二階まで吹き抜け。
+-- TRANSLATION HERE
+}
+[sha:2e56984516c31c7fd6cecf592b403ccfd6c0a21f]{
+-- Page 0, Offset 68.
+-- 明かりになるのは、その高い天井にある窓から差しこむ日光と月光だけだ。
+-- TRANSLATION HERE
+}
+[sha:8bc3ebb3691c8b0d4a20259e9c6288d07393b6c0]{
+-- Page 1, Offset 69.
+-- 雨の日は夜明け前のように<仄|ほの>暗く、
+-- TRANSLATION HERE
+}
+[sha:fc814e5fe08e315e4f9110ca1dd498e2ddd0bb20]{
+-- Page 1, Offset 70.
+-- 月のない夜は冷たい暗黒星のように、あらゆるものが途絶えている。
+-- TRANSLATION HERE
+}
+[sha:b9af24501056be468756c9144320946d35d5695f]{
+-- Page 2, Offset 71.
+-- <憩|いこ>いの場となる居間はこのロビーのすぐ真東だが、その前に自分の部屋で着替えなくては落ち着かない、と青子は階段に足をかけた。
+-- TRANSLATION HERE
+}
+[sha:0a77346ddbafe522acf349a2fd2d570529c1c289]{
+-- Page 2, Offset 72.
+-- 壁に<沿|そ>った階段はいったん二階のホールで終わっている。
+-- TRANSLATION HERE
+}
+[sha:bf9a741cd4966a6fb41c36e2b92ea318d6748edf]{
+-- Page 2, Offset 73.
+-- 三階の屋根裏部屋まではホールの裏側にまわらなければならない。
+-- TRANSLATION HERE
+}
+[sha:9c7de266d32013fdaab70cd7e83969059f1b1f7f]{
+-- Page 2, Offset 74.
+-- といっても、青子はこの二年間、屋根裏部屋を利用した事はないが。
+-- TRANSLATION HERE
+}
+[sha:d47d0c67cabd078c93d5355c36ac3c5225c8d7e4]{
+-- Page 3, Offset 75.
+-- 久遠寺邸は大まかに、東館と西館とに分かれている。
+-- TRANSLATION HERE
+}
+[sha:b75588cb7c7673958bed5748d37fa76ea39a08f0]{
+-- Page 3, Offset 76.
+-- 青子に間借りが許されているのは館の東部分だけだが、それも二部屋で事足りる。
+-- TRANSLATION HERE
+}
+[sha:b249b286e987e3892c486e910f01781c0437bdee]{
+-- Page 3, Offset 77.
+-- 開けたとたん絵本の世界に閉じこめられるドアやら、過去五年間物置になっている屋根裏部屋など使うまでもない。
+-- TRANSLATION HERE
+}
+[sha:257474fcf496c737429dcdf9d3acc1d485be796e]{
+-- Page 4, Offset 78.
+-- 東館の長廊下の奥が青子の部屋だ。
+-- TRANSLATION HERE
+}
+[sha:bcfd98a22a5ac69757da895b46d156e1b0fdbc38]{
+-- Page 4, Offset 79.
+-- 青子は下宿の際、そう広くない部屋を選んだ。遠慮しての事ではなく、単に掃除の手間を省いただけである。
+-- TRANSLATION HERE
+}
+[sha:88cf012411de1bf9a9a99db3d41396d3722ef3c9]{
+-- Page 4, Offset 80.
+-- 部屋には大きめのベッドと愛用のマホガニー製の机、洋服ダンスと上着が整列する収納ダンス、それに九段の本棚を二つほど。
+-- TRANSLATION HERE
+}
+[sha:a8894f4116281b663d4a6d762ebb47e30d8cfe11]{
+-- Page 5, Offset 81.
+-- 実家から運びこんだ荷物はそれだけ。
+-- TRANSLATION HERE
+}
+[sha:f3b8eb760061fd3935d7053b41fa44ffc454fc97]{
+-- Page 5, Offset 82.
+-- 蒼崎青子が十六年<培|つちか>ってきた彼女の証明は、いざとなればその程度に短縮できてしまったらしい。
+-- TRANSLATION HERE
+}
+[sha:47ff978c66d09dd1b5befefc4c6b90c84f2fefee]{
+-- Page 5, Offset 83.
+-- あとは隣の部屋に、これからの自分用の部屋を借りておしまい。
+-- TRANSLATION HERE
+}
+[sha:68ad5505b52411926d913825f7ece120be600c60]{
+-- Page 6, Offset 84.
+-- 「―――そうだ。有珠にもらった見張り塔、壊れてないかチェックしないと」
+-- TRANSLATION HERE
+}
+[sha:95a511356bd62d8e89731d60c54c94bb836a3c29]{
+-- Page 6, Offset 85.
+-- 今朝方までの徹夜の成果を確かめる。
+-- TRANSLATION HERE
+}
+[sha:2c2d6563120e797282910d35ef4436d2fd4c13e7]{
+-- Page 7, Offset 86.
+-- 壁一枚を隔てた書斎は、先ほどの蒼崎青子の生活とはまったく別の、まだ一年足らずの彼女の人生を示すものだ。
+-- TRANSLATION HERE
+}
+[sha:ff58a8ada408ecd99588d60bb2060e513a0bb71d]{
+-- Page 7, Offset 87.
+-- それまでの彼女の為でなく、
+-- TRANSLATION HERE
+}
+[sha:37decb491e5089318104379b5c6d6e47834c50bc]{
+-- Page 7, Offset 88.
+-- これからの彼女の証明になる、余人には立ち入れない独りの世界、の筈なのだが―――
+-- TRANSLATION HERE
+}
+[sha:073e53d43989ee80935a7341eda294f5d4ac0c1b]{
+-- Page 8, Offset 89.
+-- 「うわ……壊れてるどころか、跡形もなく消え去ってる……やっぱ自己流アレンジはまだ早かったか……いいわよ。笑いなさいよ、コマドリ」
+-- TRANSLATION HERE
+}
+[sha:4afebc37a3e4f4fae248939c0cf12da91740d354]{
+-- Page 8, Offset 90.
+-- 平気の平左でくつろいでいた<余人|コマドリ>が飛び去っていく。
+-- TRANSLATION HERE
+}
+[sha:ff51d2e1a05d2aeb05d1e0cd86586739d4a17c3b]{
+-- Page 8, Offset 91.
+-- 才能は人並み、努力は惜しまず、失敗は恐れずに。
+-- TRANSLATION HERE
+}
+[sha:49b9db95fc4d2b5175455c3b5625e8caf0259ff6]{
+-- Page 8, Offset 92.
+-- それは時に楽天的にさえ見える、青子の自由奔放さだった。
+-- TRANSLATION HERE
+}
+[sha:219e483b585cac7ff55c3c46b9a5eb70260e0d2a]{
+-- Page 9, Offset 93.
+-- 制服から普段着に着替えて一階に戻る。
+-- TRANSLATION HERE
+}
+[sha:fd723cb9597e63ea2bf68af2e15141ffb2017ae1]{
+-- Page 9, Offset 94.
+-- 階段をおりて東側の扉を開けると、地下室のように暗い廊下が続いていた。
+-- TRANSLATION HERE
+}
+[sha:a6ef047e241d6eb2573e47fdf7c9c3bc21a158f8]{
+-- Page 9, Offset 95.
+-- この廊下は外に面した窓がないだけに、電灯がなければ真っ暗だ。スイッチをいれて明かりをつけ、青子はすぐ近くの扉を開けた。
+-- TRANSLATION HERE
+}
+[sha:159d6d8255565eb24e6a2acf518238077c30c862]{
+-- Page 10, Offset 96.
+-- 「電気のない生活か……想像したくないな」
+-- TRANSLATION HERE
+}
+[sha:50f7059b2924369276e8007595488cd2a92514ae]{
+-- Page 10, Offset 97.
+-- 居間は彼女の趣向で現代ライクな造りに変更されている。
+-- TRANSLATION HERE
+}
+[sha:4868b2bee748a27581a6b19b409b467a84e33119]{
+-- Page 10, Offset 98.
+-- <豪奢|ごうしゃ>な紋様の入った壁、
+-- TRANSLATION HERE
+}
+[sha:2ad3856a146caf940d2ef38bcb73ae5f3eaae768]{
+-- Page 10, Offset 99.
+-- <威厳|いげん>に満ちた大きなソファー、
+-- TRANSLATION HERE
+}
+[sha:49cc7bafb760ab6ba0e8326d8de07e3a2982202b]{
+-- Page 10, Offset 100.
+-- ペルシャ製の高級絨毯。
+-- TRANSLATION HERE
+}
+[sha:e435a258743390cbde1ed543e6db98d1fdeba64e]{
+-- Page 10, Offset 101.
+-- 城の一室めいた空間に、空気を読まず不釣り合いな30インチのテレビジョンが<鎮座|ちんざ>している。
+-- TRANSLATION HERE
+}
+[sha:b16dab81a7fce0ed51d7b130be4acb75f5bd872f]{
+-- Page 11, Offset 102.
+-- テレビはハダカの王様のように、精一杯の虚勢を張ってソファーたちを従えていた。
+-- TRANSLATION HERE
+}
+[sha:5c3a964b0ff2079bffaefa02f47a58a6e9378a92]{
+-- Page 11, Offset 103.
+-- 洋館の持ち主は嫌がったが、このとってつけた感こそ庶民である青子には必要不可欠な<憩|いこ>いである。
+-- TRANSLATION HERE
+}
+[sha:6ffd5afddcccf4b8f0a9daa7872aeeb3a3c8245f]{
+-- Page 11, Offset 104.
+-- 下宿を始めてすぐの頃、これで同居人と一戦争あったが、今ではお互い納得の文明機器になっている。
+-- TRANSLATION HERE
+}
+[sha:c69e06d4f8fd21e38483cf003b9be0a097f3ee10]{
+-- Page 12, Offset 105.
+-- 「……なんだ、人のことは言えないか。
+-- TRANSLATION HERE
+}
+[sha:93bb100b6a6e6d736c01549e4951e38370a98e86]{
+-- Page 12, Offset 106.
+-- うちもあんがい、時代錯誤な家だった」
+-- TRANSLATION HERE
+}
+[sha:f1e2c32e986c308c570596dc522ac719109af89f]{
+-- Page 12, Offset 107.
+-- なんとなく愉快な気持ちになって、青子はお茶にする事にした。
+-- TRANSLATION HERE
+}
+[sha:30ee7eb2802420f161e3c8e6c116300e3936737a]{
+-- Page 12, Offset 108.
+-- 居間と壁一つでつながっている台所でお湯を沸かし、ティーポットと鍋を用意して、万全の準備で紅茶を淹れる。
+-- TRANSLATION HERE
+}
+[sha:172693ceb01024cb2c60c5b015d439a5b8e805a3]{
+-- Page 13, Offset 109.
+-- 「はーあ、っと」
+-- TRANSLATION HERE
+}
+[sha:b96bc92ae76928d144adf9a170488e6a8b98bb82]{
+-- Page 13, Offset 110.
+-- ぼすん、とソファーに深々と沈みこむ。
+-- TRANSLATION HERE
+}
+[sha:4a0bcf57c473ebc806d8207523708a5055f92fb6]{
+-- Page 13, Offset 111.
+-- 紅茶を一口、それから二口。
+-- TRANSLATION HERE
+}
+[sha:cbd2f8bb2d7ef49cf451223ca11419052566e3da]{
+-- Page 13, Offset 112.
+-- 時計の針に耳を<傾|かたむ>けながら、ああ、今日は午後からどうしよう、とぼんやり思って三口目。
+-- TRANSLATION HERE
+}
+[sha:92fb7c92daf91b0868b795d3820fba31819a2c12]{
+-- Page 13, Offset 113.
+-- 柔らかなソファーの感触に、どこまでも沈みこんでいきたい衝動にかられた頃。
+-- TRANSLATION HERE
+}
+[sha:279ba7d1370f8a4ae48f1be64cf713f79d5481d0]{
+-- Page 14, Offset 114.
+-- 『――――――』
+-- TRANSLATION HERE
+}
+[sha:51ef699cbe5eb1463ff90bf823bf6095d768bd02]{
+-- Page 14, Offset 115.
+-- 青子は目をパチパチとまたたいて、クッションから体を起こした。
+-- TRANSLATION HERE
+}
+[sha:f4150fe15c6e0eccfe52662bb21e463cf2efd8b8]{
+-- Page 14, Offset 116.
+-- 夢でも妄想でもない。
+-- TRANSLATION HERE
+}
+[sha:dcff1ffcdc2e8e431cb2667c7ddbd34e993ba593]{
+-- Page 14, Offset 117.
+-- いつのまにか、目の前にひとりの少女が座っている。
+-- TRANSLATION HERE
+}
+[sha:6a3bf9f6426f2439031e186ffe5a2bbad793aa09]{
+-- Page 15, Offset 118.
+-- さして驚かず、青子はティーカップに指をあてた。
+-- TRANSLATION HERE
+}
+[sha:75b4cc54219aff8752c9de6c7e3b62a4f3c81d4a]{
+-- Page 15, Offset 119.
+-- 淹れたばかりの紅茶は完全に冷めきっている。
+-- TRANSLATION HERE
+}
+[sha:a2e86965f7ef6cf158f5c397c4308add7a170ff4]{
+-- Page 15, Offset 120.
+-- 「寝てた？」
+-- TRANSLATION HERE
+}
+[sha:b96934a2c7f91213cc5921490537b8d9b38456c5]{
+-- Page 15, Offset 121.
+-- テーブル向こうの少女に問いかける、青子の声。
+-- TRANSLATION HERE
+}
+[sha:b0f67afb8506c9b34e393bab797e95973d7b3e65]{
+-- Page 15, Offset 122.
+-- 「ええ」
+-- TRANSLATION HERE
+}
+[sha:b1eb1c81d24447197cb81321a2280e0d88100891]{
+-- Page 15, Offset 123.
+-- 少女は視線をあげず、関心なさげに答えた。
+-- TRANSLATION HERE
+}
+[sha:4668dd6853e9bc9455675d17a09e09c4f569273d]{
+-- Page 16, Offset 124.
+-- ―――声をあげなければ、あるいは、美しい人形と見間違えるだろう。
+-- TRANSLATION HERE
+}
+[sha:32193e98f58d04fb50ddb54409fcfa777a4ee976]{
+-- Page 16, Offset 125.
+-- その少女はソファーに座り、古い本を読んでいる。
+-- TRANSLATION HERE
+}
+[sha:9e85ab9954f588ce930bf31b59805a6fc23cf342]{
+-- Page 16, Offset 126.
+-- 細い手足と陽の光を知らぬ白い肌。
+-- TRANSLATION HERE
+}
+[sha:fa683863a1e2c0003108a8cc5b7ff0d227e5882a]{
+-- Page 16, Offset 127.
+-- 愁いがちな趣きは、人間らしい意思を感じさせない。
+-- TRANSLATION HERE
+}
+[sha:58f9f61bb115acbc1fcd08820cde10571d66ae3d]{
+-- Page 17, Offset 128.
+-- 青子より濃い、混じりけのない黒髪。
+-- TRANSLATION HERE
+}
+[sha:74c2902e967bf90735b0a1f0a2d50a0446d3dda4]{
+-- Page 17, Offset 129.
+-- 冷たい色をした瞳は、しずしずとページへ視線を落としている。
+-- TRANSLATION HERE
+}
+[sha:7f16b1557eb3081e4c6576d0b145ae07356ae2a5]{
+-- Page 17, Offset 130.
+-- 修道女を思わせる黒衣は彼女の通う女学院の制服だ。
+-- TRANSLATION HERE
+}
+[sha:05a0c3e8b72045f353be5891ad35f799604e6c82]{
+-- Page 17, Offset 131.
+-- その<翳|くら>さは少女によく似合っていたが、青子に言わせれば似合いすぎて良くないらしい。
+-- TRANSLATION HERE
+}
+[sha:b68329118baeb144d163120cd86ee42f84b12379]{
+-- Page 18, Offset 132.
+-- ……さながら一枚の風景画。
+-- TRANSLATION HERE
+}
+[sha:062d8625324c393f7f7ca28f8e3f3ec3096b572f]{
+-- Page 18, Offset 133.
+-- 初めからそういう形で生まれてきたとさえ思える現実感の無さ。
+-- TRANSLATION HERE
+}
+[sha:e5994ff34dc7ec3c38effe7f895791a6f5e1fcc2]{
+-- Page 18, Offset 134.
+-- <俯|うつむ>く彼女の首の白さは、同性の青子でさえ見とれるほど美しい。
+-- TRANSLATION HERE
+}
+[sha:fe312dcc6db26fb59c8a684619ea4b319952149c]{
+-- Page 18, Offset 135.
+-- この少女こそ、幽霊屋敷に住む二人のうちの一人。
+-- TRANSLATION HERE
+}
+[sha:bd4efae059982add5bf37a235f48e884b24da0bd]{
+-- Page 18, Offset 136.
+-- <久遠寺|くおんじ><有珠|アリス>という名前の、青子と同い年の同居人。
+-- TRANSLATION HERE
+}
+[sha:b791b275db8a10086272ba82e58d0adf4cb48e6a]{
+-- Page 19, Offset 137.
+-- 「私、どれくらい寝てた？」
+-- TRANSLATION HERE
+}
+[sha:514b8aa8d32929e2e3da42a498b89b269f200278]{
+-- Page 19, Offset 138.
+-- 「一時間と少し。……ここで眠ると風邪、ひくわよ」
+-- TRANSLATION HERE
+}
+[sha:7fcc994d925e2af92588f44665a0fe6bf6d6116b]{
+-- Page 20, Offset 139.
+-- 有珠は関心なく答えるが、いつもの事なので青子は気にしない。
+-- TRANSLATION HERE
+}
+[sha:529b5d22e4418437751f6933eb555fc49cae129f]{
+-- Page 20, Offset 140.
+-- 柱時計を見てみると、針は午後七時を回っていた。
+-- TRANSLATION HERE
+}
+[sha:53dc15ce296d6b313019d643b0f6acc96608af10]{
+-- Page 20, Offset 141.
+-- 二時間ほど眠っていた事になる。
+-- TRANSLATION HERE
+}
+[sha:4d4201bf3c931a26d6160384469feda746461282]{
+-- Page 20, Offset 142.
+-- 思い返せば散々な一日だった。徹夜明けで疲れた体が寝入ってしまったのも、無理のない話だろう。
+-- TRANSLATION HERE
+}
+[sha:558a8cf9b725bb58356f37ca803268c93d1d2dd1]{
+-- Page 21, Offset 143.
+-- 「起こしてくれても良かったのに。
+-- TRANSLATION HERE
+}
+[sha:4655141200d3c71610c36a92e1125bf670c5f41f]{
+-- Page 21, Offset 144.
+-- せっかくの紅茶が冷めちゃったじゃない」
+-- TRANSLATION HERE
+}
+[sha:dfc25be2b89b51462b940c0ad13510da752a6a73]{
+-- Page 21, Offset 145.
+-- 「わたしが来た時は、もう冷めてたわ」
+-- TRANSLATION HERE
+}
+[sha:779d5ce390a0e7359157e1738bec58a376b7facd]{
+-- Page 21, Offset 146.
+-- 「でしょうね。言ってみただけよ」
+-- TRANSLATION HERE
+}
+[sha:75290a7e0d5b90ecaca49ba4cd2792cad7adec79]{
+-- Page 22, Offset 147.
+-- 青子は冷めきった紅茶を一気に飲み下す。
+-- TRANSLATION HERE
+}
+[sha:dd5ea87b041ef44b35339a317017690582527903]{
+-- Page 22, Offset 148.
+-- 暖房の乏しい久遠寺邸では、その冷たさだけでも寝惚けた頭を目覚めさせるには十分だった。
+-- TRANSLATION HERE
+}
+[sha:c4aebd7b5fc1a68518f1907c4eddd77cfdafd305]{
+-- Page 23, Offset 149.
+-- 「こうなるとフォートナム＆メイソンも何もないわね。
+-- TRANSLATION HERE
+}
+[sha:e8b6906960c732c46389e0d301134394c28064ad]{
+-- Page 23, Offset 150.
+-- おかえり、有珠。たまの贅沢もアンタ抜きじゃ<締|し>まらないってコトかしら。
+-- TRANSLATION HERE
+}
+[sha:00acc9b50933310b05a7c98be21de549f3d11eff]{
+-- Page 23, Offset 151.
+-- 今日は厄日か<天誅殺|てんちゅうさつ>か―――ちょっと早いけどお参りってのも十分アリかもね」
+-- TRANSLATION HERE
+}
+[sha:04b2e93e6da20b7f79709421bcf3e9ac7fa47a1c]{
+-- Page 23, Offset 152.
+-- 毒食わば皿まで的な玉砕精神で、と肩をすくめる青子。
+-- TRANSLATION HERE
+}
+[sha:1c0be4c9499f9cc792d3c6564110889246e3055a]{
+-- Page 24, Offset 153.
+-- 「それで、何があったの？」
+-- TRANSLATION HERE
+}
+[sha:2ec94cde55e225e87007b1e19e40f2e830cd63fe]{
+-- Page 24, Offset 154.
+-- 同居生活も二年近く続けば、お互いの様子に気が付くらしい。
+-- TRANSLATION HERE
+}
+[sha:e4560a390971ac8f55365566c47690aa14118240]{
+-- Page 24, Offset 155.
+-- 青子は青子なりの、
+-- TRANSLATION HERE
+}
+[sha:e79ed8e941e0b50a5966d2e9bf2c1cc4af6bff01]{
+-- Page 24, Offset 156.
+-- 有珠は有珠なりの問いかけをする。
+-- TRANSLATION HERE
+}
+[sha:f955ac0cc2a8eedace82db7308a229155b489811]{
+-- Page 24, Offset 157.
+-- 顔もあげず問いかけてくる同居人に、青子はきっぱりと現状を報告した。
+-- TRANSLATION HERE
+}
+[sha:97119884afeb7095b6caab38ecf406b1c49475b1]{
+-- Page 25, Offset 158.
+-- 「まず謝らなくちゃいけない。
+-- TRANSLATION HERE
+}
+[sha:5dd116ff2a1fa5a0ef096e415b942ada23332983]{
+-- Page 25, Offset 159.
+-- 昨日徹夜で完成させた例のアレ、意味がなくなっちゃったのよ。ちょっと目を離した隙に沸騰しすぎて壊れちゃったみたい。
+-- TRANSLATION HERE
+}
+[sha:2e4f5f5761e2bb6c50c054493e1e496ff7f3146b]{
+-- Page 25, Offset 160. Glued. Mods: @x.
+-- そうならないよう、循環のコードを二、三本外したり<縫合|ほうごう>したりしたんだけど」
+-- TRANSLATION HERE
+}
+[sha:e82659731a3618e9840393f9c880ff6cc4f85d29]{
+-- Page 25, Offset 161.
+-- いやー、まいったね、と他人ごとのように青子は言った。
+-- TRANSLATION HERE
+}
+[sha:85003b3cface0b26bb5432b8ffe6a9a3bbcaa4d6]{
+-- Page 26, Offset 162.
+-- 「……どういう事？」
+-- TRANSLATION HERE
+}
+[sha:c38289a8616ea7f7be73daa010ee135d4ca6c57e]{
+-- Page 26, Offset 163.
+-- 「<今|け><朝|さ>急用が入って、学校に呼び出しうけたの。
+-- TRANSLATION HERE
+}
+[sha:6a23f47a6a1956f7268eb88a87d78d8295f8ac02]{
+-- Page 26, Offset 164.
+-- そこで転入生の世話を押しつけられて、一日が無残にも消費されちゃって、帰ってきたら跡形もなく消えてました。
+-- TRANSLATION HERE
+}
+[sha:ff80b1c6b9d19f1ac87430ac684e2c076c1dc783]{
+-- Page 26, Offset 165.
+-- 怒る、有珠？」
+-- TRANSLATION HERE
+}
+[sha:4ec0c4f1ab6d86467bcf1fa18fc93978dbd72cb3]{
+-- Page 27, Offset 166.
+-- 「……別に。青子の器物破損にいちいち怒っていたら、一生分の口論をする事になるでしょう？
+-- TRANSLATION HERE
+}
+[sha:8a28270b53c4e997d3ef32aacac1dfa7710ab629]{
+-- Page 27, Offset 167.
+-- 代用品はあるから、また一から始めればいいわ。
+-- TRANSLATION HERE
+}
+[sha:60ac0bc5d1d54d26054926324189c8b1a90adf44]{
+-- Page 27, Offset 168.
+-- それより―――怒ってるのは貴方の方じゃないの？」
+-- TRANSLATION HERE
+}
+[sha:c20d12bcfff3813a1e0c047d42012c654de061fe]{
+-- Page 28, Offset 169.
+-- 「……む」
+-- TRANSLATION HERE
+}
+[sha:4aa42b5146a2d53c8c0abd9e4d5a94a17c88b7f2]{
+-- Page 28, Offset 170.
+-- 今日はいつになく<鋭|するど>い。
+-- TRANSLATION HERE
+}
+[sha:5b3b91a95ad219822e123dcf679e8e1746579e0f]{
+-- Page 28, Offset 171.
+-- こういう時、涼しい顔をしてホントは怒っているのが青子なのだ。
+-- TRANSLATION HERE
+}
+[sha:72547ee9b4d60017e75ed9e374d72c8c5e1e5dd7]{
+-- Page 28, Offset 172.
+-- それはともかく。
+-- TRANSLATION HERE
+}
+[sha:27427753aa50e2b55685d8afb2e0026084ada040]{
+-- Page 29, Offset 173.
+-- 「ええ。この転入生っていうのがひどくズレててね。
+-- TRANSLATION HERE
+}
+[sha:d6f7c9f5c50011463756497c73d04723213bc6af]{
+-- Page 29, Offset 174.
+-- すごい山奥で暮らしてたらしくて、こっちの常識が通じないんだから。<山門異界|さんもんいかい>って言葉があるけど、あれってホントの事なのね、有珠」
+-- TRANSLATION HERE
+}
+[sha:314eda3c7af765a94aa06608ef37e468a78b4657]{
+-- Page 30, Offset 175.
+-- 名前を呼ばれて有珠は顔を上げた。
+-- TRANSLATION HERE
+}
+[sha:28a8e8b1497a6233028828622d530aefa658ce09]{
+-- Page 30, Offset 176.
+-- もともと有珠からの同情なんて期待していない青子は、さらに口調を速めて愚痴をこぼす。
+-- TRANSLATION HERE
+}
+[sha:2ff9e72c3d688632895af5c928959c78789d0b25]{
+-- Page 31, Offset 177.
+-- 「初対面から癪に障るヤツだったけど、教室を案内した時なんか失神しそうになったわ。
+-- TRANSLATION HERE
+}
+[sha:12d40ed9ccb64e5b182e5d3a4245ca99bcd8469c]{
+-- Page 31, Offset 178.
+-- そいつ、教室で教師と一対一で授業を受けるもんだと思ってたらしいの。……ええ、それはそれでまだ流せる。許容範囲よ、あの程度の冗談は」
+-- TRANSLATION HERE
+}
+[sha:9edb7d3b440dd07f715b7402903714a377ff7429]{
+-- Page 32, Offset 179.
+-- 「で、私が簡潔かつ丁寧に教室のなんたるかを教えた後で、そいつなんて言ったと思う？
+-- TRANSLATION HERE
+}
+[sha:2316ddb791e480fa0bd1f17c221f2161ff7b28a1]{
+-- Page 32, Offset 180.
+-- 『それで蒼崎。他の教室は何に使うんだ？』
+-- TRANSLATION HERE
+}
+[sha:6bd46101184765458a0879c8115032a1962a487a]{
+-- Page 32, Offset 181.
+-- ですって！
+-- TRANSLATION HERE
+}
+[sha:e36fc9694313aa8a38323f0d21f6ce57c8336ebd]{
+-- Page 32, Offset 182.
+-- 教室に他も何もないでしょう？」
+-- TRANSLATION HERE
+}
+[sha:8f75200a2ebd69d1c6f37f94bb842a6411870abe]{
+-- Page 33, Offset 183.
+-- 「なんていうか、そいつは少しでも説明を怠るとそのままで納得しちゃうのよ。
+-- TRANSLATION HERE
+}
+[sha:d103f0ee880b80aa20764821d4544b8bb0d5596d]{
+-- Page 33, Offset 184.
+-- 何も疑問に思わないというか、想像力が欠如してるっていうか、想像する事に慣れてないっていうか。
+-- TRANSLATION HERE
+}
+[sha:98418e8f8febb0545678b2fc284b9e2eb84d3bf9]{
+-- Page 33, Offset 185.
+-- まあ……一度言った事はちゃんと分かってるっぽいから、馬鹿ってワケじゃないんだけど……」
+-- TRANSLATION HERE
+}
+[sha:5f3aa1c0c580ec3918f463aa060b4ba65594cdc0]{
+-- Page 34, Offset 186.
+-- 「貴方が人を批評するのは珍しいわね。
+-- TRANSLATION HERE
+}
+[sha:818ee486fea5da6c9b557008321da7cfba297a64]{
+-- Page 34, Offset 187.
+-- ……そういうダメな人、気にする<質|たち>だったの？」
+-- TRANSLATION HERE
+}
+[sha:68d6771d98e3a9a168bdbdffbfcaacea89128245]{
+-- Page 34, Offset 188.
+-- 「<微塵|みじん>たりとも気にしないわよ。けど、明日からどんな間違いをしでかすのかちょっと心配なだけ」
+-- TRANSLATION HERE
+}
+[sha:2861048161a02fe352dd2bae1f0af69f13665ce6]{
+-- Page 35, Offset 189.
+-- そう。心配なのは、その間違いの後始末が高い確率で自分に回ってくるからに違いない。
+-- TRANSLATION HERE
+}
+[sha:5ca2ed0d173676d92c314b7d41c431eb84775e48]{
+-- Page 35, Offset 190.
+-- たぶん、そうだと思う。
+-- TRANSLATION HERE
+}
+[sha:3f566e06aac54105008a9a23b516404608d0afd9]{
+-- Page 35, Offset 191.
+-- そうでもなければ、今日一日を潰してくれた転入生を気に病む理由が見当たらない。
+-- TRANSLATION HERE
+}
+[sha:9676da0cfa99ea7dcee15da885577fb535efc2c3]{
+-- Page 36, Offset 192.
+-- 「とにかく変なヤツなの。案外有珠と気が合うかも」
+-- TRANSLATION HERE
+}
+[sha:722b2dce581602220424e3efe0ddc8623e831355]{
+-- Page 36, Offset 193.
+-- 「……山門異界はいい言葉ね」
+-- TRANSLATION HERE
+}
+[sha:dc1996a2a9940052b9ae4cc8d6521bcee38060db]{
+-- Page 36, Offset 194.
+-- けれど、その人物とは気が合う前に会う事もないでしょう、と視線だけで少女は語る。
+-- TRANSLATION HERE
+}
+[sha:d156b07f7c7b9e61f54a5d44f63f883ce8391130]{
+-- Page 36, Offset 195.
+-- それに青子はでしょうね、とだけ答えた。
+-- TRANSLATION HERE
+}
+[sha:b76bc05842a88df5b68315872e27f8bbd0b8a2ed]{
+-- Page 37, Offset 196.
+-- 「ところで有珠、さっきからなに読んでるの？」
+-- TRANSLATION HERE
+}
+[sha:a54787a9bb0dd1f41b2ec0f814e79aa92f1ee2fc]{
+-- Page 37, Offset 197.
+-- 「霊的進化論の二次創作。スピリチュアル・ダイアリのまがい物」
+-- TRANSLATION HERE
+}
+[sha:8f30bea4a986ea00a1cfd7cb0b9f97d052bedbd5]{
+-- Page 37, Offset 198.
+-- 「ああ、スウェーデンボリ。そんなの、いまさら読んでも仕方ないんじゃない？」
+-- TRANSLATION HERE
+}
+[sha:b3ae886827702fa4394b078aa0ccf9b1018a75c5]{
+-- Page 38, Offset 199.
+-- 「真書なら退屈だけど、これは偽書だから。
+-- TRANSLATION HERE
+}
+[sha:75c6e8da118a4fb6d26b07dd293afc1d6c10c3c9]{
+-- Page 38, Offset 200.
+-- 彼の欠点と長所を劇的に誉めあげている。よくできた冒険小説のようよ。立ちはだかる秘密組織の名前がカントとか、気が利いているわ。
+-- TRANSLATION HERE
+}
+[sha:cece4cb1fdb2e9350fee30c70629308033bc0dfe]{
+-- Page 38, Offset 201.
+-- ……筆跡は、あなたのお祖父さんのものだけど」
+-- TRANSLATION HERE
+}
+[sha:71cbfa8fddcc03ff1788a31a981eecab7998835e]{
+-- Page 39, Offset 202.
+-- 「……へえ、あの人そういう趣味まであったんだ。
+-- TRANSLATION HERE
+}
+[sha:0b0e5a9471b5457ac7449807a2e2ca59ade80918]{
+-- Page 39, Offset 203.
+-- わりとユーモアがあったのね。惜しい人をなくしたわ」
+-- TRANSLATION HERE
+}
+[sha:aec45d4dc18d5214f9fe4541f81b3873ab760c44]{
+-- Page 39, Offset 204.
+-- もうこの世にいない祖父を懐かしむように青子。
+-- TRANSLATION HERE
+}
+[sha:1e046baba86c1bfe89bd433e4e109cf4ab3b40be]{
+-- Page 40, Offset 205.
+-- 「あなたのお祖父さん、夏に便りをくれたけど」
+-- TRANSLATION HERE
+}
+[sha:f66753c3bdd8fa849d106fc5979fb781e46bf457]{
+-- Page 40, Offset 206.
+-- 「よしてよ、死んだものと考えたいのに」
+-- TRANSLATION HERE
+}
+[sha:aeccc3684334d3dae4d92b7ea793bd9fa6fb1641]{
+-- Page 41, Offset 207.
+-- ふう、とため息をついて、青子はソファーに思いっきり寄り掛かった。
+-- TRANSLATION HERE
+}
+[sha:43d06b5102c43100aaa060d1110bc96cba7c335f]{
+-- Page 41, Offset 208.
+-- クッションにガタがきているのか、背もたれと一緒に青子は床に寝そべる形になる。
+-- TRANSLATION HERE
+}
+[sha:e853fb530f68c8177603fe9fdc8fe1c785ce6282]{
+-- Page 42, Offset 209.
+-- 「……話は戻るけど」
+-- TRANSLATION HERE
+}
+[sha:defdc6f369e13d956b8d2de1fb3c333240dae10f]{
+-- Page 42, Offset 210.
+-- 寝そべっている青子に、有珠はちらりと視線を投げた。
+-- TRANSLATION HERE
+}
+[sha:0fcbec0e94e9dba33f1f8c315c0149d2f549c065]{
+-- Page 42, Offset 211.
+-- ソファーに埋もれた青子の体は、横臥したまま死体のように動かない。
+-- TRANSLATION HERE
+}
+[sha:dc97eadd9f8cdf7d40f69fecf7181db7250f4699]{
+-- Page 43, Offset 212.
+-- ソファーに寝そべった青子の心境は、少し乾いていた。
+-- TRANSLATION HERE
+}
+[sha:6462dc62336367e90cf75f7ae52b3f5ce0d736c9]{
+-- Page 43, Offset 213.
+-- 有珠は無言で<青子|じぶん>を責めている。
+-- TRANSLATION HERE
+}
+[sha:434241462d2f4bc819d48cc7790519efe3ac1e90]{
+-- Page 43, Offset 214.
+-- それを思うと今日一日の新鮮な出来事も、次第に<瑞々|みずみず>しさを失っていく。
+-- TRANSLATION HERE
+}
+[sha:ec3b66b5b7a189e42316df797346300bad97d68f]{
+-- Page 44, Offset 215.
+-- ……有珠の無言の責めを無視すれば、話はここで終わってくれる。
+-- TRANSLATION HERE
+}
+[sha:ec36b688de1680688da40174d92f29a563960c73]{
+-- Page 44, Offset 216.
+-- ふたりはこのまま席を立ち、今日のミスをうやむやにしたまま明日を迎えられるだろう。
+-- TRANSLATION HERE
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 44, Offset 217. Mods: @n.
+-- しかし。
+-- TRANSLATION HERE
+}
+[sha:321d5b294be96ff7aed72c5e0b8dd532a6abf70b]{
+-- Page 44, Offset 218. Glued.
+-- 蒼崎青子は、そういう真似ができない人間だ。
+-- TRANSLATION HERE
+}
+[sha:5935590af523b25e2ed4751701116299ee8a4081]{
+-- Page 45, Offset 219.
+-- 「いいわよ、なに？」
+-- TRANSLATION HERE
+}
+[sha:0ea920909c4ea4cd8d5201bac809d94241106509]{
+-- Page 45, Offset 220.
+-- 青子は倒れこんだまま有珠に問う。
+-- TRANSLATION HERE
+}
+[sha:05d09856847f0e30d233118a875cdbbd076f744e]{
+-- Page 45, Offset 221.
+-- 「今日できなかったのは、少し痛いわね」
+-- TRANSLATION HERE
+}
+[sha:4f7608c96aec33c4db9980f38acb4552f5a87384]{
+-- Page 45, Offset 222.
+-- 「だから反省してるって。
+-- TRANSLATION HERE
+}
+[sha:c4cc96e9cae2546d79af617bc451b06bb0e1fcc5]{
+-- Page 45, Offset 223.
+-- 学校優先は一人前になってから、でしょ」
+-- TRANSLATION HERE
+}
+[sha:dc708fd58dd5125d071dbab27d38b2c9b2605d93]{
+-- Page 45, Offset 224.
+-- 「なら、いいけど」
+-- TRANSLATION HERE
+}
+[sha:f756b0844c43c9930da6b8e32896a4eab6571463]{
+-- Page 45, Offset 225.
+-- 無機質な有珠の声に、青子はぎり、と歯を噛んだ。
+-- TRANSLATION HERE
+}
+[sha:2acdf872248db98c0071fe85196126a28b73a65f]{
+-- Page 46, Offset 226.
+-- 彼女の言いたい事は分かっている。
+-- TRANSLATION HERE
+}
+[sha:18593ad44f61e906f2f60f4ab23e76af5cc07f87]{
+-- Page 46, Offset 227.
+-- なにより青子自身がよく分かっている。
+-- TRANSLATION HERE
+}
+[sha:cf5f166bef760720faa2323ec1fd1ebe90f25810]{
+-- Page 46, Offset 228.
+-- 学園生活の<外面|そとづら>と、今の生き方との折り合い。
+-- TRANSLATION HERE
+}
+[sha:bb2a88976938b273650fb3078f642226c252c2ff]{
+-- Page 46, Offset 229.
+-- 現代に隠れ住むというけれど、その隠れ方が半端だと有珠は言っている。
+-- TRANSLATION HERE
+}
+[sha:fac6bbeb6bbd74499f85cd6601eee1e7d89ea776]{
+-- Page 46, Offset 230.
+-- つまり、彼女の沈黙が語るところは―――
+-- TRANSLATION HERE
+}
+[sha:3f6e9c25597acc94948c252996dc0235061fd0fc]{
+-- Page 47, Offset 231.
+-- 『……覚悟を決めろって言いたいのよね、あんたは』
+-- TRANSLATION HERE
+}
+[sha:fe32a3ec34b1891a606e20a572e0f754554b4b4a]{
+-- Page 47, Offset 232.
+-- 今日の失敗はそれほど大きいものじゃない。
+-- TRANSLATION HERE
+}
+[sha:c2fb0ece363d978c017c3baa18ff1c6ed2f3a5e6]{
+-- Page 47, Offset 233.
+-- この洋館と学園生活を秤にかけて、たまたま学園に重きをおいてミスをしただけの、小さな事件だ。
+-- TRANSLATION HERE
+}
+[sha:3c29df568e99890c59f64e702ae33b7d61644040]{
+-- Page 47, Offset 234.
+-- ただ、今の青子の半端さを象徴する、分かりやすい心の甘さであっただけ。
+-- TRANSLATION HERE
+}
+[sha:7097f2c3b8b8455039e517bd9ca0843f11cc8283]{
+-- Page 48, Offset 235.
+-- 『……有珠は関係ない。
+-- TRANSLATION HERE
+}
+[sha:8a50cbfda13d362d9316909a228af5e2c4868fe4]{
+-- Page 48, Offset 236.
+-- これは、私が私で決めなくちゃいけない事……』
+-- TRANSLATION HERE
+}
+[sha:434dd464abb7dea434b55ad7286b67907f6a696d]{
+-- Page 49, Offset 237.
+-- 基礎はたった一年と半年。
+-- TRANSLATION HERE
+}
+[sha:c3670f8ec347e49ec709824d8f945e67556e0f77]{
+-- Page 49, Offset 238.
+-- けれど予感は物心がついた時からあった。
+-- TRANSLATION HERE
+}
+[sha:494a7728fe55b145edc20617cb339b06742599c7]{
+-- Page 49, Offset 239.
+-- “選んだのなら、いつか必ずその日は来る”、と。
+-- TRANSLATION HERE
+}
+[sha:f1c81cd04fce9b7d410986ea40b091cd64299fd2]{
+-- Page 49, Offset 240.
+-- なら自分の良心も道徳も、いいかげん根負けしている頃だ。
+-- TRANSLATION HERE
+}
+[sha:87aabb749db0330bb1d21ed8a844a6d24a34279e]{
+-- Page 49, Offset 241.
+-- よし、と青子は勢いよく体を起こす。
+-- TRANSLATION HERE
+}
+[sha:64b64d41689f895a199878d6ac3549c714dffe63]{
+-- Page 49, Offset 242.
+-- 起きた先には、無言で視線を向ける有珠のか細い美貌だけがあった。
+-- TRANSLATION HERE
+}
+[sha:ff935399d32636c0105f7e77c314f55cf2b1b104]{
+-- Page 50, Offset 243.
+-- 「オッケー、有珠。来週中に決着をつけよう。
+-- TRANSLATION HERE
+}
+[sha:f4629b57cfa6a8963053ae59cb168f62b901e767]{
+-- Page 50, Offset 244.
+-- それでいいんでしょ？」
+-- TRANSLATION HERE
+}
+[sha:ae19d03f25860e2d4f893518fa15abd33afe31ad]{
+-- Page 50, Offset 245.
+-- 「ええ。青子がいいなら」
+-- TRANSLATION HERE
+}
+[sha:94909e718aa161fb03835fceac34a1e1d8ca158f]{
+-- Page 50, Offset 246.
+-- それと似たような言葉をつい数時間前に聞いた気がして、ブンブンと頭を振る。
+-- TRANSLATION HERE
+}
+[sha:5258c5213f276f8bf14cb863c703a7b9365e7d6b]{
+-- Page 50, Offset 247.
+-- なんだって帰ってきてまで、あんな田舎者を思い出さなくちゃいけないのか。
+-- TRANSLATION HERE
+}
+[sha:d52b244abd53e77df31548a966da144897726bcc]{
+-- Page 51, Offset 248.
+-- 「じゃあ下準備はよろしくね。私まだ出来ないし」
+-- TRANSLATION HERE
+}
+[sha:9a99c721cad7a68f42be6433c3d7859cda516d12]{
+-- Page 51, Offset 249.
+-- 「場所は例の公園でいい？」
+-- TRANSLATION HERE
+}
+[sha:97185f9bf057df149a4a12e8dee601fabaa3bc76]{
+-- Page 52, Offset 250.
+-- 「妥当な線ね。あ、でももう一件の方は？
+-- TRANSLATION HERE
+}
+[sha:af9ae490aec235b4aee39de168709c5bcc94b18b]{
+-- Page 52, Offset 251.
+-- そっちの方が急務じゃない？」
+-- TRANSLATION HERE
+}
+[sha:a54f550d2f38806e6a43845a022c68e93ac411ef]{
+-- Page 52, Offset 252.
+-- 「時と場合。森に変化があれば教えるわ」
+-- TRANSLATION HERE
+}
+[sha:9c298a509623e18680883460d94bad1aa172da8b]{
+-- Page 53, Offset 253.
+-- そんな短いやりとりが終わると、有珠は膝に置いた本へと顔を落とした。
+-- TRANSLATION HERE
+}
+[sha:2cc74db0707ac19909c9b32771cb713f0de674b9]{
+-- Page 53, Offset 254.
+-- 両者にとって最も重要な話は終わった。
+-- TRANSLATION HERE
+}
+[sha:8daf91f3d370a86225906e960d7c547f0a9aa55f]{
+-- Page 53, Offset 255.
+-- あとは普段通りの、それとなく気が合う同居人に戻るだけである。
+-- TRANSLATION HERE
+}
+[sha:52227b8670ac3c5fc09e3eff31e1a0ab063198d2]{
+-- Page 54, Offset 256.
+-- さて、とばかりに青子はテレビのリモコンを取って電源を入れた。有珠が読書しているので、自分はブラウン管に映る<出来事|バラエティー>に途中参加しようとし、
+-- TRANSLATION HERE
+}
+[sha:87b67f22012053703b8ee267da475e116bb3d035]{
+-- Page 55, Offset 257.
+-- 「あ」
+-- TRANSLATION HERE
+}
+[sha:bdf061133a2d4091673eb86176988773015fc8d4]{
+-- Page 55, Offset 258.
+-- 突然、有珠がそんな声を上げて、消した。
+-- TRANSLATION HERE
+}
+[sha:9323a4c05e34946c86fe4d1861b25554566d42bb]{
+-- Page 55, Offset 259.
+-- 見れば片手で口を押さえている。
+-- TRANSLATION HERE
+}
+[sha:d016c110cf94abad941eba0d8f2eec0169a85f4b]{
+-- Page 55, Offset 260.
+-- 何かを話そうとして、それが意味の無い話だと気付くと彼女はすぐに口を閉ざしてしまう。
+-- TRANSLATION HERE
+}
+[sha:e92dc34696234b800ec75325a2048c076c8c4137]{
+-- Page 56, Offset 261.
+-- 時々その自制が間に合わなくて、今のような仕草をする事が<希|まれ>にある。
+-- TRANSLATION HERE
+}
+[sha:69b104b7c25d27512b02f31e076066ad60871d3d]{
+-- Page 56, Offset 262.
+-- たしか、前は『な』だったな、と思い返しながら、青子は可憐な同居人に視線を向けた。
+-- TRANSLATION HERE
+}
+[sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
+-- Page 57, Offset 263.
+-- 「ん、なに？」
+-- TRANSLATION HERE
+}
+[sha:17a1f65d820d58f155a78b5d2ef93a1996b88041]{
+-- Page 57, Offset 264.
+-- テレビの音量を下げる青子。意志の強い目が、猫のようにいたずらっぽい光を放っていた。
+-- TRANSLATION HERE
+}
+[sha:1a9feb198adfce5a2840c1801f6bbf4fa2b22c7c]{
+-- Page 57, Offset 265.
+-- 「……どうという事はないんだけど」
+-- TRANSLATION HERE
+}
+[sha:3c14320aaf4c7fcc704858acbf2cd3cc4d8fb76b]{
+-- Page 57, Offset 266.
+-- 「ないんだけど？」
+-- TRANSLATION HERE
+}
+[sha:303760fdd56cb5ba08d3bf1dbbe7c2a92bc1bc37]{
+-- Page 58, Offset 267.
+-- 有珠は言おうか言うまいか迷っていて、恥ずかしそうにそっぽを向いている。
+-- TRANSLATION HERE
+}
+[sha:d220e0e3c906413726b9f3e9f89f924ca1c1a320]{
+-- Page 58, Offset 268.
+-- こういった時の彼女の表情は温かみがあって、なんだか歯痒いぐらい好感が持てた。
+-- TRANSLATION HERE
+}
+[sha:376c65c6b3474bbda28022b591c2e99445de363c]{
+-- Page 58, Offset 269.
+-- たぶん今の有珠を見れば彼女の父親も、その名前がぴったり似合っていたと思えるだろうに。
+-- TRANSLATION HERE
+}
+[sha:887d981c09f0bf43cb794ab7067156a3454e305f]{
+-- Page 59, Offset 270. Mods: @k, @e.
+-- 「……
+-- TRANSLATION HERE
+}
+[sha:21ffb9a860d539a11708832f95fcd690cd5b0c17]{
+-- Page 59, Offset 271. Glued. Mods: @x.
+-- 今日、帰ってくる時おかしな物を見て、誰かに話そうと思っていたんだけど……」
+-- TRANSLATION HERE
+}
+[sha:4943eb5559c77a1366e9efb85ac5a35cf992144a]{
+-- Page 59, Offset 272.
+-- 青子はうん、と頷いて先を促す。
+-- TRANSLATION HERE
+}
+[sha:e44b0a74151b23ed3015464b63570f67d82144e2]{
+-- Page 60, Offset 273.
+-- 「つまらない、本当に意味のないコトよ。
+-- TRANSLATION HERE
+}
+[sha:505ec3f49767c5174b4721190fd5f52d0de593d7]{
+-- Page 60, Offset 274.
+-- けど、どう考えてもそんな事をする理由が分からない。
+-- TRANSLATION HERE
+}
+[sha:0f33c73dfe4905c1fa2963c1bc355bcd2a9861be]{
+-- Page 60, Offset 275.
+-- ……青子、人間ぐらいの大きな猫が、ひょこひょこ出前をする理由って、分かる？」
+-- TRANSLATION HERE
+}
+[sha:e5015f8d0a343779f83d12df58cdd85d5506d282]{
+-- Page 61, Offset 276.
+-- 一瞬、青子はまた、有珠の冗談になっていない冗談のたぐいだと思った。
+-- TRANSLATION HERE
+}
+[sha:951c5ebe61086510866d9ddbed6781043fc63338]{
+-- Page 61, Offset 277.
+-- いや、普通は思う。
+-- TRANSLATION HERE
+}
+[sha:d75d838d72c827587f7f23eae621dd5aa6c02c72]{
+-- Page 61, Offset 278.
+-- けれど有珠は真剣に悩んでいる。
+-- TRANSLATION HERE
+}
+[sha:e2688455f72505ad34d17a546b52b9f8f0b86cc8]{
+-- Page 61, Offset 279.
+-- 有珠のユーモアセンスに零点をつけたのは青子だが、これは零点にしてはわりとロマンがあるので、やっぱり有珠は見たままの事を話しているらしい。
+-- TRANSLATION HERE
+}
+[sha:337176b50aa548fe78e19e4a149cf034fe103166]{
+-- Page 62, Offset 280.
+-- 「んー……その話にはふたつぐらい信じがたい部分があるけど、ひとつずつ論破していい……？」
+-- TRANSLATION HERE
+}
+[sha:45351877ce583ecf731139db6dcb6da04dfb04a3]{
+-- Page 62, Offset 281.
+-- 「いいの。わたしもカラクリぐらいは思いつくから。
+-- TRANSLATION HERE
+}
+[sha:0c3b350037f5561ce8457d9ce34be7db0592ce95]{
+-- Page 62, Offset 282.
+-- ただ、理由が分からないから聞いてるの。
+-- TRANSLATION HERE
+}
+[sha:b05e4adf1fda83915ee47d69bc3f41c38f6733ac]{
+-- Page 62, Offset 283.
+-- わざわざ精巧な猫のぬいぐるみを着て、出前の<店屋物|てんやもの>を届けに行く事って、そんなに簡単かしらね」
+-- TRANSLATION HERE
+}
+[sha:e36ade9530c5c7fb7e71fd05ef0faaa1dfacd380]{
+-- Page 63, Offset 284.
+-- 「難易度以前に、それをやる人間の常識性を疑うけどね、私は」
+-- TRANSLATION HERE
+}
+[sha:294e4e802f58a3a0f24a1cf95183d12fa49ff2b0]{
+-- Page 63, Offset 285.
+-- 青子の言葉に、有珠も少し頷く。
+-- TRANSLATION HERE
+}
+[sha:a852281392d9d8003fdc64095f73692634470227]{
+-- Page 64, Offset 286.
+-- 「まあ、世の中色々あるから。私達みたいのもいれば、外界から遮断された山奥で暮らしていた奴まで十人十色よ。
+-- TRANSLATION HERE
+}
+[sha:1cdac1e9aa4636c96303d15727784bfd04fc5c07]{
+-- Page 64, Offset 287.
+-- 私だったら、見かけたら声かけて理由を<訊|たず>ねただろうけど」
+-- TRANSLATION HERE
+}
+[sha:9b4deba7a47b7016ab01b02919b38cf8caf48683]{
+-- Page 64, Offset 288.
+-- その言葉に、有珠は少しだけ顔を背けた。
+-- TRANSLATION HERE
+}
+[sha:91786fcb6af605c118ff6c80ac6ab9b700a673a1]{
+-- Page 65, Offset 289.
+-- 「……ふーん……暮れゆく住宅街にさまよう<出前猫|でまえねこ>かあ……背景が夕焼けだったらファンタジーだったでしょうに。
+-- TRANSLATION HERE
+}
+[sha:dd1547c0f6f7a55193f844077661e629bfc0875f]{
+-- Page 65, Offset 290.
+-- ……で、今日の夕飯どうする？
+-- TRANSLATION HERE
+}
+[sha:2fb02697498a1c4a4f0bfa95bb5127532f4403d2]{
+-- Page 65, Offset 291.
+-- せっかく話が出たし、私らも<店屋物|てんやもの>にしようか？」
+-- TRANSLATION HERE
+}
+[sha:ac35c32110c356e3cdcb61bdb90dbbe0714875ca]{
+-- Page 66, Offset 292.
+-- 出前好きな青子は嬉々として言う。
+-- TRANSLATION HERE
+}
+[sha:6b094f93e9a76e112fc2056b1df03cf3fb33401f]{
+-- Page 66, Offset 293.
+-- この館において夕食は当番制でもなんでもなく、気が向いたほうが二人分用意する、という実にアバウトな方式が採用されていた。
+-- TRANSLATION HERE
+}
+[sha:e19187e0374ac4dc6ab4f8c764983ad71ac56268]{
+-- Page 66, Offset 294.
+-- 下手をすると一週間夕飯なしが続くという展開もあるが、ふたりにとってはこれが一番居心地が良いのだ。
+-- TRANSLATION HERE
+}
+[sha:01bd998c1685bc8f71d2506f0ad517515b65ce30]{
+-- Page 67, Offset 295.
+-- 調理の手間を惜しんでか、それとも単純に出前が好きなのか。
+-- TRANSLATION HERE
+}
+[sha:872da37003c3588c9812e716fa24c8938ff05d88]{
+-- Page 67, Offset 296.
+-- 今夜のような展開は珍しくもなく、結果、三咲町の食事処からこの館は要注意扱いされていた。
+-- TRANSLATION HERE
+}
+[sha:19e41e0be6e5811a1f3c696ec667a657c2961fa6]{
+-- Page 67, Offset 297.
+-- 決まって夜遅く……人気も絶えた夜八時過ぎ……に、こんな坂の上まで来いというのだから、彼らの憂鬱も当然である。
+-- TRANSLATION HERE
+}
+[sha:ecef83c995adb0f021a46b31946584efa1fcf96b]{
+-- Page 68, Offset 298.
+-- 「時間は八時前、ぎりぎりセーフね。私<昏月|こんげつ>がいいな。あそこの月見そば、最近ご無沙汰だったし」
+-- TRANSLATION HERE
+}
+[sha:e08c686ddcc7ee1c455c981fe188678267a1d3b9]{
+-- Page 68, Offset 299.
+-- ポーカーのカードのように並べられた店々のお品書きを取り出し、まだ見ぬ夕食にご満悦の生徒会長。
+-- TRANSLATION HERE
+}
+[sha:67676ab8b8b94a07b053fa5f873535ec133c264a]{
+-- Page 68, Offset 300. Glued. Mods: @x.
+-- そんな、幸せそうな青子を一目も見ずに、有珠はさらりと返答する。
+-- TRANSLATION HERE
+}
+[sha:5315aecc03303b66ad9a3b13791a951848aa9ca8]{
+-- Page 68, Offset 301.
+-- 「悪いけど、わたし夕飯済んでるの」
+-- TRANSLATION HERE
+}
+[sha:b88ccd409a7177b2b4ca0f923ad87bbdecc15b49]{
+-- Page 69, Offset 302.
+-- その言葉で青子の体は凍りついた。
+-- TRANSLATION HERE
+}
+[sha:8b3a1f7ddddfd9dbedb9acdd76b6f87eebcac739]{
+-- Page 69, Offset 303.
+-- 出前物は最低二品、つまり共同者がいなければ運ばれないのだ。
+-- TRANSLATION HERE
+}
+[sha:4603273d585348021e6ed21e925c38a78ec281f8]{
+-- Page 69, Offset 304.
+-- たった一品の蕎麦で人を呼びつけるようなお姫さまに、世間は果てしなく冷たい。
+-- TRANSLATION HERE
+}
+[sha:2e2766716c668a164ee5f82513d1f509a316dade]{
+-- Page 70, Offset 305.
+-- 余談だが、実は坂の上対策として
+-- TRANSLATION HERE
+}
+[sha:80b036bfe6b46235e8a446f9382ffe18875f9c89]{
+-- Page 70, Offset 306.
+-- 『来年から三品以上の注文のみ出前アリとする』
+-- TRANSLATION HERE
+}
+[sha:cd12a0c675eadd52f60a4f698015662f897b97cf]{
+-- Page 70, Offset 307.
+-- なんて魔のルールが可決されつつある事を、青子たちはまだ知らない。
+-- TRANSLATION HERE
+}
+[sha:b905efb46d4318b0fbd2176b4c9d45d8b00f2f8e]{
+-- Page 71, Offset 308.
+-- 「こ、この裏切り者…！
+-- TRANSLATION HERE
+}
+[sha:edc778311d9bf93f21f329df5de75d4c1b4b7f0d]{
+-- Page 71, Offset 309.
+-- ふん、だから帰ってくるのが遅かったのね!?
+-- TRANSLATION HERE
+}
+[sha:4573a48aa0b7b95f352ddb0e76ea744b6e71cf30]{
+-- Page 71, Offset 310.
+-- 帰宅部、学校までバス・徒歩込みで片道二十分のあんたが、なんで五時以降に帰ってくんのか考えるべきだったわ！」
+-- TRANSLATION HERE
+}
+[sha:06a3d7d4abf7d64bf3e0d09e99563216e40d37b7]{
+-- Page 71, Offset 311.
+-- しかし悲しいかな、その時の青子は自分が眠った事にも気付かないほど寝惚けていたのだった。
+-- TRANSLATION HERE
+}
+[sha:9fb3569cc0f8665b044b4827e21793c99778b653]{
+-- Page 72, Offset 312.
+-- 「あーあ、ひどい女。そういう時は残されたひとりのためにお土産買ってくるのが暗黙の了解だったのに。
+-- TRANSLATION HERE
+}
+[sha:d1d29958e809f52e069df2c1312b3e8741040da7]{
+-- Page 72, Offset 313.
+-- 私だって、この前の外食の時は有珠の分も買ってきたじゃない」
+-- TRANSLATION HERE
+}
+[sha:4466491088dc55c96f048ca1b25f150fd3cf278b]{
+-- Page 73, Offset 314.
+-- どこまで本気なのか不明なのだけれど、青子はそれなりに怒っている。
+-- TRANSLATION HERE
+}
+[sha:aa6c7dfb0bd1578f71619a7f0719bbb3cf21f740]{
+-- Page 73, Offset 315.
+-- なにしろ朝は空腹で目が覚め、電話で呼び出されて以来、紅茶しか口にしていない。これでお<腹|なか>が鳴らないのは奇跡に近かった。
+-- TRANSLATION HERE
+}
+[sha:976b631e8999e140fb8f9e8269cd3f4a6d07fe64]{
+-- Page 73, Offset 316.
+-- まあ、それはそれで自分が悪いとして、ついでに別件として、さっきいじめられた反撃とばかりに青子は一気にまくし立てて、
+-- TRANSLATION HERE
+}
+[sha:614af135160027d1f0bcfa48992cd6473c231fe6]{
+-- Page 74, Offset 317.
+-- 「……この前ってアレの事？
+-- TRANSLATION HERE
+}
+[sha:8c13c7a8f4e4ea2ea5538206c866eff75373e7b7]{
+-- Page 74, Offset 318.
+-- あなたが都心に出向いた時、夕食にお寿司を食べてきたのに、お土産はなぜかコンビニエンスストアのビニール袋だったって話？」
+-- TRANSLATION HERE
+}
+[sha:93cf292cfcad0db58215252985b3d6466099a68e]{
+-- Page 74, Offset 319.
+-- <薮蛇|やぶへび>だった。
+-- TRANSLATION HERE
+}
+[sha:8f90fa2d928b1db5849905dc043be929c3948067]{
+-- Page 75, Offset 320.
+-- 「な、なによ、買ってこないよりはマシでしょう」
+-- TRANSLATION HERE
+}
+[sha:d488b91467025e382a0914c3f922fa4159a202bf]{
+-- Page 75, Offset 321.
+-- 「真実は時に<隠蔽|いんぺい>すべきね」
+-- TRANSLATION HERE
+}
+[sha:d14330afbb86d03eaac22cd748784dfcc72d5303]{
+-- Page 76, Offset 322.
+-- 有珠の視線は冷たい。
+-- TRANSLATION HERE
+}
+[sha:1638f15616d0c1219b0c993ddea5285bc1a0e3f7]{
+-- Page 76, Offset 323.
+-- たしかに、あの時もくもくとコンビニ弁当を食べる有珠の横で回るお寿司の話をしたのは失敗だった。
+-- TRANSLATION HERE
+}
+[sha:f3804d3d436f403e5aa5628f79d4dc7baa7a8c38]{
+-- Page 76, Offset 324.
+-- だが新しい物好きの青子にとって、近頃オープンしだした『回転寿司屋』という驚異について考察する欲求は抑えられなかったのだ。
+-- TRANSLATION HERE
+}
+[sha:8c37f18cf5f4fb3878db10c846a1a05cfe377dee]{
+-- Page 76, Offset 325.
+-- 正直なのも場合によっては罪になる。
+-- TRANSLATION HERE
+}
+[sha:324ce116fd31575b000c3377d5acb07992b7d4a1]{
+-- Page 77, Offset 326.
+-- 「……分かった。分かりました。じゃあ、今回のは前のと帳消しって事でいいわね？」
+-- TRANSLATION HERE
+}
+[sha:824a8189565f3bad812bfee9dd0d41fb5d94abc4]{
+-- Page 77, Offset 327.
+-- これといった否定の意を示さず、本に視線を戻す有珠。
+-- TRANSLATION HERE
+}
+[sha:d57825d7c1da840696bc82ebc46656bbe63c0966]{
+-- Page 77, Offset 328.
+-- 肯定の意も示さなかったのが少し怖い。
+-- TRANSLATION HERE
+}
+[sha:1bbfa935a780f8386a6b13534655c0cbfa9891a1]{
+-- Page 78, Offset 329.
+-- 「仕方ない、今日は<厄日|やくび>だし。
+-- TRANSLATION HERE
+}
+[sha:19a6c68436ad98428a1db64f7145b0389c059985]{
+-- Page 78, Offset 330.
+-- 大人しく台所に立って料理の腕を<磨|みが>くとしましょう」
+-- TRANSLATION HERE
+}
+[sha:de06b68860f2698136e0b33f989b3ac5f2ad1740]{
+-- Page 78, Offset 331.
+-- 誰に言うのでもなく立ち上がる青子。
+-- TRANSLATION HERE
+}
+[sha:cd833e8e56242aa3efc82c327167e5b53c64df15]{
+-- Page 79, Offset 332.
+-- 「あ、聞き忘れてた。有珠、どこで夕食すませたの？」
+-- TRANSLATION HERE
+}
+[sha:1ac4ae72254bffafaf7a501d2f5681a50de0f8df]{
+-- Page 79, Offset 333.
+-- ぴたり、と本の<頁|ページ>をめくる手がとまる。
+-- TRANSLATION HERE
+}
+[sha:129cb74543b7d2714a4034b231b90847ddb39d3a]{
+-- Page 80, Offset 334.
+-- ここまで青子の相手をしながら読書していたけど、それももう限界、と本は閉じられた。
+-- TRANSLATION HERE
+}
+[sha:1ec1de7be50a3eda99a2181bc31992aab30c991a]{
+-- Page 80, Offset 335.
+-- 有珠は本を片手に立ち上がると、スタスタと居間を横断。
+-- TRANSLATION HERE
+}
+[sha:1ab644100902b770812f9caf5078782f6fa75c08]{
+-- Page 80, Offset 336.
+-- 扉に着いたところで青子へと振り向いた。
+-- TRANSLATION HERE
+}
+[sha:32e875db76446b09ade15506dadeffeca83a049b]{
+-- Page 81, Offset 337.
+-- 「聞きたい？」
+-- TRANSLATION HERE
+}
+[sha:9b27a75d0b18fe876cd9fc51092852c2990586b8]{
+-- Page 81, Offset 338.
+-- 「まあ、なんとなく……」
+-- TRANSLATION HERE
+}
+[sha:e14765ce65efa71159c03f27725031e66a99b5b1]{
+-- Page 81, Offset 339.
+-- 迫力に押されて、遠慮がちに頷く青子。
+-- TRANSLATION HERE
+}
+[sha:20cab567aad2e82b8c25992a8d1442b37e04fc5b]{
+-- Page 81, Offset 340.
+-- 有珠は何でもない事のように、
+-- TRANSLATION HERE
+}
+[sha:33d87542155a88f5631572b6f67f8e6b4f91643c]{
+-- Page 81, Offset 341.
+-- 「その猫が、あまったメニューをくれたのよ」
+-- TRANSLATION HERE
+}
+[sha:0888b4109cec0d2cd0c9d884fd5b647e4f9fadb2]{
+-- Page 81, Offset 342.
+-- 簡潔に答えて、居間から立ち去っていった。
+-- TRANSLATION HERE
+}

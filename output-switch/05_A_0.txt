@@ -1,0 +1,290 @@
+[sha:dcd4ee4dc1f23681124baafdc6f64c8f9a6a1bde]{
+-- Page 1, Offset 1066.
+-- 星の運びは、今日一日を労働に<捧|ささ>げるべしと告げていた。
+-- TRANSLATION HERE
+}
+[sha:1bfd10773ab806f637279ad0d45e6e27cfdb1b32]{
+-- Page 1, Offset 1067.
+-- 具体的に言うと庭の清掃。
+-- TRANSLATION HERE
+}
+[sha:73b6d081129eb3a581018894e9d55c5ad1ea3386]{
+-- Page 1, Offset 1068.
+-- 草十郎にとって、これ以上アレを放置しておくのは精神衛生上よろしくない。
+-- TRANSLATION HERE
+}
+[sha:293117543e92b294892fa9f7f71f702cc0f1b6c2]{
+-- Page 1, Offset 1069.
+-- 幸い、アルバイトの<当番|シフト>は丸一日オフ。
+-- TRANSLATION HERE
+}
+[sha:6a65158228e99ddafcf963e296a55bfbb381073a]{
+-- Page 1, Offset 1070.
+-- 彼にとって今日はまたとない好機だった。
+-- TRANSLATION HERE
+}
+[sha:23b3984891a715634b080f76c29d9c171f49c031]{
+-- Page 2, Offset 1071.
+-- ―――しかし。洋館の<園|にわ>は本気で広い。
+-- TRANSLATION HERE
+}
+[sha:2ecf188126fb10ac5cc4d659597bb7cc57a930ec]{
+-- Page 2, Offset 1072.
+-- 荒れ放題なのは中庭だけでなく、館の正面玄関まわりですら手入れが行き届いていなかった。
+-- TRANSLATION HERE
+}
+[sha:a1dfbaab2bd3c8396133c4ff4e56f4f6af2c4ddf]{
+-- Page 2, Offset 1073.
+-- 本気で掃除をするのなら、一週間単位で計画を組まなくてはいけない広さである。
+-- TRANSLATION HERE
+}
+[sha:decf705c3f23052e2f36dae7f915a1bc9252844d]{
+-- Page 3, Offset 1074.
+-- 「よし。まずは地ならしだな」
+-- TRANSLATION HERE
+}
+[sha:4c878904595e07323c3c313c32159fcbfd16ad36]{
+-- Page 3, Offset 1075.
+-- 理想は一日で成し遂げられるものではない。
+-- TRANSLATION HERE
+}
+[sha:b00b5f8aef4b4ab7eca1b9dca1c41d7833dcce58]{
+-- Page 3, Offset 1076.
+-- 今日は雑草の除去だけに専念しよう、と草十郎は決意を新たに荒れ野に踏み出した。
+-- TRANSLATION HERE
+}
+[sha:7ddbec1860c7aaf1cae91a20436e18773370dd3d]{
+-- Page 4, Offset 1077.
+-- 朝も早くから館の周りの雑草を引き抜いていく。
+-- TRANSLATION HERE
+}
+[sha:b3a3d5c0010b544af9d95fde82eb8578dc5d4dcf]{
+-- Page 4, Offset 1078.
+-- 計算によれば、午後までには玄関付近、中庭、裏庭をぐるりと一回りし、一休みできる予定になっていた。
+-- TRANSLATION HERE
+}
+[sha:1d16f99f3a87a40876ad9eeb7f0e722761c47f55]{
+-- Page 5, Offset 1079.
+-- 「どうしたの、彼」
+-- TRANSLATION HERE
+}
+[sha:2106a30a63e13e73afb5f20e24de35910cc74475]{
+-- Page 5, Offset 1080.
+-- 「さあ。草摘みが趣味ってワケじゃなさそうだけど」
+-- TRANSLATION HERE
+}
+[sha:c205f603a58eb289abc92f5e3c36ba5f3488001b]{
+-- Page 5, Offset 1081.
+-- 正午前のサンルーム。
+-- TRANSLATION HERE
+}
+[sha:b6bfe0d77c95d259747a59fd1c947c90763b253b]{
+-- Page 5, Offset 1082.
+-- 有珠が本を片手にやってきた時、先客である青子は優雅に紅茶を飲みつつ、ファッション誌を読んでいた。
+-- TRANSLATION HERE
+}
+[sha:c8ee2c5495c9c3acfebb6e9ed41e88d02b528f51]{
+-- Page 5, Offset 1083.
+-- 窓ガラスの向こうには、しゃがみこんだまま後退していく人影がひとつ。
+-- TRANSLATION HERE
+}
+[sha:8106acd8082b069e3c5b5f2941b855bd448fc60c]{
+-- Page 6, Offset 1084.
+-- 「朝からやってるみたいよ。
+-- TRANSLATION HERE
+}
+[sha:e0e133ef72d48ada947090d061a66e73c2b1ac74]{
+-- Page 6, Offset 1085.
+-- 起きてカーテンを開けたら、もうあの格好でスパスパやってたから。ついでに焼却炉の掃除も言いつけといたけど、いいでしょ？」
+-- TRANSLATION HERE
+}
+[sha:4fe338724fbdced004e60968e0d7f186edfc1a74]{
+-- Page 6, Offset 1086.
+-- 「いいけど。……頑張るのね、彼。外はあんなにも寒いのに」
+-- TRANSLATION HERE
+}
+[sha:562c722dde35cc43794b3c353e0c8988ac061ab8]{
+-- Page 7, Offset 1087.
+-- 有珠は静かに腰を下ろした。
+-- TRANSLATION HERE
+}
+[sha:682d297c8badfbee7e937a1c8f0a5789353ce008]{
+-- Page 7, Offset 1088.
+-- テーブルには彼女の分のティーカップも用意されていた。
+-- TRANSLATION HERE
+}
+[sha:df03c70a1ef1103d1acb91df3e53b7342073b3c8]{
+-- Page 7, Offset 1089.
+-- 有珠はポットからカップに紅茶を注いで、持ちこんだ本を開く。
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 8, Offset 1090.
+-- 「………………」
+-- TRANSLATION HERE
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 8, Offset 1091.
+-- 「………………」
+-- TRANSLATION HERE
+}
+[sha:58ff8efba7eb7cac6b2604cf84c9a869e3b055e9]{
+-- Page 8, Offset 1092.
+-- 二人は無言で時間を過ごす。
+-- TRANSLATION HERE
+}
+[sha:fb25249da72f00b82ff6f7000639e5d351a2fad5]{
+-- Page 8, Offset 1093.
+-- 青子も有珠も気まぐれに、部屋で休むのだったらサンルームでお茶にしよう、とやって来ただけだった。
+-- TRANSLATION HERE
+}
+[sha:0d7b3ef1d4917de4c58343cfcab702398b5e5667]{
+-- Page 8, Offset 1094.
+-- 談話のネタもなく、夜にそなえての役割分担も既に済んでいる。
+-- TRANSLATION HERE
+}
+[sha:f12084ecefca3fe67c02de675cbf848863f99eca]{
+-- Page 9, Offset 1095.
+-- 青子は雑誌をパラ読みしながら、基本的には窓の外の風景を眺め、
+-- TRANSLATION HERE
+}
+[sha:5a0972d807f21740a33d3af86a6dfd6ef42786d0]{
+-- Page 9, Offset 1096.
+-- 有珠はルーン魔術に関する書物に没頭しながら、時折、思い出したように顔をあげる。
+-- TRANSLATION HERE
+}
+[sha:8666671079f3c1f6f006ba871e01af6de918f9a4]{
+-- Page 10, Offset 1097.
+-- ティーカップに口をつけ、二人は申し合わせたように窓の外に視線を送った。
+-- TRANSLATION HERE
+}
+[sha:9b007f113b46d9538f99f8473369e721e47fd812]{
+-- Page 10, Offset 1098.
+-- 手伝う気など爪の先ほどもないのか、少女たちは他人事のように庭職人（駆け出し）の動きを観察する。
+-- TRANSLATION HERE
+}
+[sha:7df50f1c76f89580b840201cc0dc44834be1a710]{
+-- Page 10, Offset 1099.
+-- 草十郎の動きは緩慢ではあるけれど、なぜか作業は<迅速|じんそく>にこなされていった。
+-- TRANSLATION HERE
+}
+[sha:635e3fa7d509605450eb1abf8cdd93aadb50b679]{
+-- Page 11, Offset 1100.
+-- ……ふと青子が視線を逸らすと、対面の相方と目が合った。
+-- TRANSLATION HERE
+}
+[sha:8292f6558481747b4b27da778393de389f7717f2]{
+-- Page 11, Offset 1101.
+-- 有珠は取り<繕|つくろ>うように書物に視線を戻し、
+-- TRANSLATION HERE
+}
+[sha:cec8aa63c3e7d763b253ac1f8272f4f30a14ed2e]{
+-- Page 11, Offset 1102.
+-- しばらくした後、もう一度顔をあげて、
+-- TRANSLATION HERE
+}
+[sha:2e95d9c5d54409753e34109ef5d60277fb88c6cb]{
+-- Page 11, Offset 1103. Mods: @k, @e.
+-- 「―――、
+-- TRANSLATION HERE
+}
+[sha:c33c6368ac589b58993bf08503efd0b57520cd9b]{
+-- Page 11, Offset 1104. Glued. Mods: @x.
+-- ぽこ」
+-- TRANSLATION HERE
+}
+[sha:068f0b2e2cd1a50e52dde4f3ee04ce6098b68243]{
+-- Page 11, Offset 1105.
+-- コホンと咳払いをして、読書に集中しようと目を伏せる。
+-- TRANSLATION HERE
+}
+[sha:d7b8573e3cbf7ede6019087c882f605a7e39ac01]{
+-- Page 12, Offset 1106.
+-- ……有珠が驚くのも無理はない。
+-- TRANSLATION HERE
+}
+[sha:c29df8ccfecb7c90839b47a9ca48adb15a5cc934]{
+-- Page 12, Offset 1107.
+-- 草十郎は三十分も経たないうちに中庭を横断して、あれほど見苦しかった雑草を綺麗に片付けてしまったのだ。
+-- TRANSLATION HERE
+}
+[sha:d052b55b5403a17adb39cac317c559eb7188ad96]{
+-- Page 12, Offset 1108.
+-- 謎の庭師は休憩も入れず、白い息を吐きながら、中庭から退場していった。
+-- TRANSLATION HERE
+}
+[sha:3a37424ea8765b668d4d1dc2d284d6e00516ddd9]{
+-- Page 12, Offset 1109.
+-- 立つ鳥跡を<濁|にご>さず、どころの話ではない。
+-- TRANSLATION HERE
+}
+[sha:6c160e83e863452cee5e93433163661b6fb286e6]{
+-- Page 13, Offset 1110.
+-- 「……プロかしらね、あいつ」
+-- TRANSLATION HERE
+}
+[sha:306408f01082314089077142df7e720bdf3003a0]{
+-- Page 13, Offset 1111.
+-- 青子はその一部始終を見届けて、ぽつりと呟く。
+-- TRANSLATION HERE
+}
+[sha:661b0a19d26133970af1b05f383c1c0fbfc4bcff]{
+-- Page 13, Offset 1112.
+-- あまりにも迷いのない、鉄人の作業だった。
+-- TRANSLATION HERE
+}
+[sha:63ec3e40dc43193ec6fcdf161fc2ac1b7f4f5844]{
+-- Page 13, Offset 1113.
+-- 良くできた映画を見た気分にすらなって、青子は感心……を通り越して、草十郎の無駄な芸達者ぶりに呆れている。
+-- TRANSLATION HERE
+}
+[sha:6a710738b4d714b1e4a1d1ad07d223902ebce2c0]{
+-- Page 13, Offset 1114.
+-- 一方、有珠は顔をあげて時計を確認していた。
+-- TRANSLATION HERE
+}
+[sha:c2811439beeb80696b55fb79c24ed233aa987cf7]{
+-- Page 14, Offset 1115.
+-- 「……焼却炉、今から手入れをしたら夕方ね」
+-- TRANSLATION HERE
+}
+[sha:ee4fb4db126ea7524b70cc94731f2251a6a670d8]{
+-- Page 14, Offset 1116.
+-- 「そっちはもう終わってるわ。朝、上から見てたもの。
+-- TRANSLATION HERE
+}
+[sha:65afdba30f4e5ab783bf52ad06cf2a2368f1d4fd]{
+-- Page 14, Offset 1117.
+-- 壊されちゃいけないからあれこれ指示だしてね。
+-- TRANSLATION HERE
+}
+[sha:f471ea642ba26da15bfa592d2716d00bb50b3f29]{
+-- Page 14, Offset 1118.
+-- いやあ、窓開けてさんざん怒鳴ったから部屋が冷えるコト冷えるコト」
+-- TRANSLATION HERE
+}
+[sha:5c6c46d9af566be5d121fa833635525b29459017]{
+-- Page 15, Offset 1119.
+-- 青子が居間にやって来た理由は、自分の部屋が冷えきってしまったから、と推測される。
+-- TRANSLATION HERE
+}
+[sha:16e01105d10a783f15172aa73de9f88b1958e27a]{
+-- Page 15, Offset 1120.
+-- ……部屋から指図をするのと外で掃除をするのとでは、どちらが<極寒|ハード>か言うまでもない。
+-- TRANSLATION HERE
+}
+[sha:e68ecd0f6c6815ce2b07f796aa711596870f8631]{
+-- Page 16, Offset 1121.
+-- 「静希君、何か言ってこなかった？」
+-- TRANSLATION HERE
+}
+[sha:34af13586248c795f6d2eac92f4d7fa9ccb3a6ab]{
+-- Page 16, Offset 1122.
+-- 「言ってたけど、よく聞こえなかったわ」
+-- TRANSLATION HERE
+}
+[sha:575d8ee58766113ca526d2a3da318de55fda675f]{
+-- Page 16, Offset 1123.
+-- つまり、草十郎の文句は一切<効|き>かなかったという事か。
+-- TRANSLATION HERE
+}

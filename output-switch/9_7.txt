@@ -1,0 +1,1464 @@
+[sha:29bea15f015062f2b90caaed32e4fb0b00212b18]{
+-- Page 0, Offset 14074.
+-- 「ただいまー！」
+「Nous revoilà !」
+
+}
+[sha:f46661d9d24a2f2f94eddf371960b50c000eb3d0]{
+-- Page 0, Offset 14075.
+-- 不意の来客と入れ替わるように、青子たちは帰ってきた。
+  Aoko et Alice rentrèrent comme pour remplacer le visiteur imprévu.
+
+}
+[sha:a320e2583738198e8793d291dbba07e19990ddcd]{
+-- Page 0, Offset 14076.
+-- 青子の表情は不機嫌ながらも活き活きとしている。
+  La première avait l'air pleine de vie même si elle affichait une expression mécontente.
+
+}
+[sha:fe4650dd5c80bef040081c1d1ea531e5cc326f66]{
+-- Page 0, Offset 14077.
+-- とりあえず問題は山積みだけど目的が決まってスッキリした、と言いたげなハイテンションさだ。
+  Son humeur survoltée semblait indiquer qu'en dépit de leurs nombreux problèmes, elle était soulagée d'avoir enfin un objectif clair.
+
+}
+[sha:5b3e9bc9331105962ada9d3e03aabd94bf926197]{
+-- Page 1, Offset 14078.
+-- 一方、傍らの有珠はいつも通り。
+  À ses côtés, Alice restait fidèle à elle-même.
+
+}
+[sha:2736982ca7500c5ba7ea252ebed5298adba7888a]{
+-- Page 1, Offset 14079.
+-- 相棒の暴走っぷりをフォローできるよう裏方に徹している……と見えなくもない。
+  Elle pouvait aussi donner l'impression de s'atteler à protéger les arrières de son imprudente partenaire.
+
+}
+[sha:46d5b2ab8f8143969d745710b8229a23bf233cb9]{
+-- Page 1, Offset 14080.
+-- ふたりの颯爽とした登場はテレビの映像のように思えて、草十郎はお帰りと言うのも忘れてしまった。
+  Leur fringante apparition évoqua à Sōjūrō une scène de série télévisée, et il en oublia même de leur souhaiter bonsoir.
+
+}
+[sha:009a211870ee605a6d149fd5344929a918972c76]{
+-- Page 2, Offset 14081.
+-- 「草十郎、留守中なにかあった？」
+「Sōjūrō, est-ce que quelque chose s'est passé pendant notre absence ?」
+
+}
+[sha:8cb246af68943095ee23508276bd1badc3edeb93]{
+-- Page 2, Offset 14082.
+-- 青子は上着を脱ぎながら、社交辞令じみた質問をした。
+  lui demanda Aoko, presque par politesse, en retirant son manteau.
+
+}
+[sha:acc73d052904ee74b58b2e8de332cceb0a3056f8]{
+-- Page 2, Offset 14083.
+-- それには答えず、草十郎はソファーから立ち上がる。
+  Le jeune homme se leva du sofa sans réellement répondre.
+
+}
+[sha:08de65d594613343152ebfa27e975b0119d6f8e7]{
+-- Page 3, Offset 14084.
+-- 「そりゃあ半日分の出来事はあったけど。
+「Eh bien, j'ai vécu une demi-journée éprouvante.
+
+}
+[sha:c8494bc8c0c64fd61a2773e0615359a07955395b]{
+-- Page 3, Offset 14085.
+-- それより寒かっただろう。お茶を淹れようか？」
+  Sinon, vous avez eu froid ? Je vous prépare du thé ?」
+
+}
+[sha:0074fcd8961b7ac7580add2525f605e71f2cf25b]{
+-- Page 3, Offset 14086.
+-- 「あ、お願い。
+「Oui, s'il te plaît.
+
+}
+[sha:5e8d0de9f7d68de63037801e44ce9a1f9f4e02de]{
+-- Page 3, Offset 14087.
+-- こっちも一から作戦練り上げようってトコだから」
+  On est justement sur le point de reprendre notre plan de zéro.」
+
+}
+[sha:c273ab8b807fd19700c61881c800c81651ea0645]{
+-- Page 4, Offset 14088.
+-- 上機嫌な青子の台詞を聞き流して、草十郎は台所に向かい、二人分の紅茶を淹れはじめる。
+  Sans prêter attention aux paroles joviales d'Aoko, il se rendit dans la cuisine et commença à préparer deux tasses de thé.
+
+}
+[sha:07d5f39d6c33426bae8d5b0009db2890ea439a66]{
+-- Page 4, Offset 14089.
+-- 「……なんだろう。どこか、変だ」
+「...... Qu'est-ce qui se passe ? J'ai une impression... bizarre.」
+
+}
+[sha:32ded7e633bd3365e55a24434a7b2d686b04ff2c]{
+-- Page 4, Offset 14090.
+-- いつもの手順で紅茶を淹れているのに、作っている実感が湧かない。
+  Il préparait le thé de la même façon que d'habitude, mais ses sens ne lui disaient pas qu'il était en train d'accomplir ces gestes.
+
+}
+[sha:ae887ae2f731d3484565b913515e429f12f8dd6d]{
+-- Page 4, Offset 14091.
+-- <夢現|ゆめうつつ>な気分で、草十郎は青子たちがくつろいでいる居間に戻り、テーブルにティーカップを置く。
+  Dans un demi-rêve, Sōjūrō retourna dans le salon où Aoko et Alice s'étaient mises à l'aise, et posa les tasses de thé sur la table.
+
+}
+[sha:852a241270baa05bc4da003c68c78a8863e8f238]{
+-- Page 5, Offset 14092.
+-- 「これからどうするつもりなの、青子」
+「Que comptes-tu faire maintenant, Aoko ?」
+
+}
+[sha:c5eeb7064fd2ca1fa86b82089449818980e739de]{
+-- Page 5, Offset 14093.
+-- 「とりあえず足で探すしかないわね。あいつ相手に守りに入るのは良くない。こっちが城壁を作ってる間に、一個師団の人形をこさえかねないわ」
+「Pour le moment, je n'ai pas d'autre choix que de chercher où elle se cache. Ce n'est pas une bonne idée de se mettre sur la défensive quand on l'a pour adversaire. Elle pourrait fabriquer une armée de marionnettes pendant qu'on établit nos défenses.」
+
+}
+[sha:8425f6afa64b45ac45aa927cdcc654c3c5393da2]{
+-- Page 6, Offset 14094.
+-- ふたりは草十郎を無視して話をしている。
+  Les deux filles discutaient en ignorant Sōjūrō.
+
+}
+[sha:a4749e411e2d0929a2f55645476ba4cd38e94702]{
+-- Page 6, Offset 14095.
+-- それをつっ立ったまま聞きながら、ぽつりと草十郎は話しかけた。
+  Tandis qu'il les écoutait droit comme un piquet, il murmura :
+
+}
+[sha:1e5d02d7047e06ef36704d8346515e46b6d69735]{
+-- Page 7, Offset 14096.
+-- 「探すって、橙子さんを？」
+「Chercher où elle se cache ? Tu parles de Tōko ?」
+
+}
+[sha:2e690c88157a928bdfb998277a46342f7013e2c1]{
+-- Page 7, Offset 14097.
+-- 「それ以外誰を探すって―――
+「À part elle, qui voudrais-tu que je cher―――
+
+}
+[sha:b321d4fcbfd70332cdcd81c4ce6e9481bf0f6a94]{
+-- Page 7, Offset 14098.
+-- ちょっと。アンタ、今なんて言ったの？」
+  Attends. Qu'est-ce que tu viens de dire ?」
+
+}
+[sha:acd017950728cbb48081517140659133ef2a6afe]{
+-- Page 7, Offset 14099.
+-- 「橙子さんなんだろ、蒼崎たちの敵は。さっきまでここにいたよ」
+「C'est Tōko votre ennemie, non ? Elle était ici il y a un instant.」
+
+}
+[sha:452d1898cefb96ba3c3669b1caa7c3dde95fbc78]{
+-- Page 8, Offset 14100.
+-- 呆然とする青子に、平然と答える草十郎。
+  Sōjūrō lui répondit imperturbablement tandis qu'Aoko restait abasourdie.
+
+}
+[sha:832273525de1a69b5a970ea9ba2bb39d755c40d0]{
+-- Page 8, Offset 14101.
+-- そんな間の抜けたふたりを余所に、有珠はソファーから立ち上がった。
+  À côté de ces deux idiots, Alice se leva du sofa,
+
+}
+[sha:ee769b563c0767d602315904cd42f2be58d67934]{
+-- Page 8, Offset 14102.
+-- 可憐な顔立ちを、厳しい叱責の<貌|かたち>に変えて。
+  alors que ses traits charmants se muaient en un terrible air de reproche.
+
+}
+[sha:26a7fe6c9c59f6a2a65b664074d070dec13ddb50]{
+-- Page 9, Offset 14103.
+-- 「静希君。その人、何かしていった？」
+「Shizuki. Cette personne a-t-elle fait quelque chose avant de partir ?」
+
+}
+[sha:bececaf13bbad12f63cfaa6ad0de4023eca047bc]{
+-- Page 9, Offset 14104. Mods: @k, @e.
+-- 「お茶を飲んで、眼鏡を外して帰っていっただけだけど。
+「Elle n'a fait que boire du thé et retirer ses lunettes, puis elle est partie.
+
+}
+[sha:cfefe302deaeefdb4c815ab4f0f147a4f5121741]{
+-- Page 9, Offset 14105. Glued. Mods: @x.
+-- あれ……よく、思い出せないな……」
+ Hein ? ...... Je ne m'en rappelle pas... très bien......」
+
+}
+[sha:21e0e5a4c11cefdb3c59f3cf8aefce01ff144344]{
+-- Page 9, Offset 14106.
+-- さっきまで確かだった記憶が、消しゴムにかけられるように消えていく。
+  Sa mémoire, jusque-là claire et nette, s'effaçait comme si on la gommait.
+
+}
+[sha:e23cd70dc749d0bb34d9132d3574ce450e5e2165]{
+-- Page 9, Offset 14107.
+-- 草十郎は、つい先ほど感じた、眠気のような目眩に襲われて、
+  Sōjūrō fut de nouveau assailli par le vertige qu'il avait ressenti un instant auparavant et qui lui rappelait un engourdissement.
+
+}
+[sha:96218cc3dc13ba4bd2b8bcdceff10cf128c1e2a3]{
+-- Page 10, Offset 14108.
+-- ぱん、と乾いた音が居間に響く。
+  C'est alors qu'un bruit sec retentit dans le salon.
+
+}
+[sha:fadbc812eb69115dd755d9e80747644858d3dd2e]{
+-- Page 10, Offset 14109.
+-- 草十郎の目眩を止めたのは、彼が思ってもいなかった有珠の平手打ちだった。
+  Ce qui mit fin à ses vertiges fut, à son grand étonnement, une gifle venant d'Alice.
+
+}
+[sha:3c68fb8151ef9ea4b5815ae8413aaa5169f30dad]{
+-- Page 11, Offset 14110.
+-- 「―――二度は言わないわ。
+「───Je ne le dirai pas deux fois.
+
+}
+[sha:9590ca27c40f169252d701b5635263a4317da5b1]{
+-- Page 11, Offset 14111.
+-- 他人を、わたしの家に立ち入らせないで」
+  Ne fais pas entrer d'étranger dans ma maison.」
+
+}
+[sha:c729d2afc9fee704e18028c6e8151160f1d60c61]{
+-- Page 11, Offset 14112.
+-- 有珠の目には、<潜|ひそ>めた、けれど激情が灯っている。
+  Bien que dissimulées, d'intenses émotions brillaient dans les yeux d'Alice.
+
+}
+[sha:4f0129cb3b1ca6c27ab4c5b1772541eefaa005b4]{
+-- Page 11, Offset 14113.
+-- それが怒りだけのものではないと気付いて、草十郎はようやく、自分の軽率さを悔いた。
+  Après avoir réalisé qu'il ne s'agissait pas uniquement de colère, Sōjūrō s'en voulut de son manque de bon sens.
+
+}
+[sha:88b60ba3c23095729b49f70f71ca583f00c2164c]{
+-- Page 12, Offset 14114.
+-- 「……すまない。有珠にとってここが大事な場所なのは、分かってたのに」
+「...... Pardon. Je savais pourtant que cet endroit t'est cher.」
+
+}
+[sha:77ecf0d6d0664dee5809196c1857db83c458840d]{
+-- Page 12, Offset 14115.
+-- 重い沈黙。
+  Un silence pesant s'installa.
+
+}
+[sha:60dab3b5bb00af768a2794cc1d850a2daa417599]{
+-- Page 12, Offset 14116.
+-- 有珠も草十郎も、自分への後悔に縛られて動けない。
+  Alice et Sōjūrō, prisonniers de leurs regrets, ne bougeaient plus.
+
+}
+[sha:bd1c2124cd0336bcce121c523afb82c52a6dd8db]{
+-- Page 12, Offset 14117.
+-- 放っておけば一晩中そうやっていそうなふたりを、青子は呆れて眺めている。
+  Aoko fixait d'un air las ses deux colocataires qui pourraient bien rester plantés là toute la nuit si elle ne faisait rien.
+
+}
+[sha:2a30ccd2ba55a60d5ba2121795d6f7c35b7bde89]{
+-- Page 13, Offset 14118.
+-- 「あのね。姉貴を通した草十郎も悪いけど、言ってなかった有珠も悪いでしょ。
+「Tu sais, Sōjūrō a peut-être eu tort de laisser entrer ma sœur, mais tu es aussi en faute de ne pas l'avoir prévenu.
+
+}
+[sha:6a169fef4a3dccc57920ae1fbcc32642e234a281]{
+-- Page 13, Offset 14119.
+-- 子供じゃないんだからいつまでも反省してないで、もっと前向きに話をしない？」
+  Vous n'êtes plus des gamins, alors au lieu de regretter éternellement vos actes, pourquoi ne pas avoir une conversation plus constructive ?」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 13, Offset 14120.
+-- 「………………」
+「..................」
+
+}
+[sha:f2f314feac0f1312abfb1ce10a13feda0d05917d]{
+-- Page 14, Offset 14121.
+-- 青子に促され、有珠はうつむきがちにソファーに座った。
+  Suivant le conseil d'Aoko, Alice s'assit sur le sofa, la tête baissée.
+
+}
+[sha:526e195993286c7a962d2b977124bc1633d56a03]{
+-- Page 14, Offset 14122.
+-- 草十郎は立ったままで、有珠に叩かれた右頬に手を当てた。
+  Resté debout, Sōjūrō posa la main sur sa joue droite qu'Alice avait frappée.
+
+}
+[sha:57a93934b7b053761117f91e062151cec8beddfd]{
+-- Page 14, Offset 14123.
+-- 痛む事は痛むけど、体の痛みには慣れている。
+  C'était douloureux, mais il était habitué à la douleur physique.
+
+}
+[sha:66d2db882d8607fdd2b45e7d62152c6244d5f915]{
+-- Page 14, Offset 14124.
+-- それよりいま重要なのは、有珠の平手で記憶が鮮明になったという事だ。
+  Et surtout, la mémoire lui était revenue très clairement grâce à cette gifle.
+
+}
+[sha:8afe20857e90156af54ebaee1689fc0274244be6]{
+-- Page 15, Offset 14125.
+-- 「思い出した。青子じゃ私には勝てないって、伝えておいてほしいって」
+「Ça y est, je m'en rappelle. Elle voulait que je te dise que tu ne pouvais pas gagner contre elle.」
+
+}
+[sha:02b9a45779fc4e910d7d5bdc512b1ebba3d7174d]{
+-- Page 15, Offset 14126.
+-- 「ふーん、大した自信ね。他には？」
+「Hmm, elle est bien sûre d'elle. Et à part ça ?」
+
+}
+[sha:75135127cf95d2c11611493d9db4514ae2bf28b1]{
+-- Page 16, Offset 14127.
+-- 「他は……基本的に世間話だったというか……ああ、そあとかもあとか、よく分からないコトを口にしてたな」
+「À part ça...... On a eu une conversation plutôt normale...... Ah, elle a aussi parlé du Soi et du Moi, et de je ne sais plus quoi, j'ai pas trop bien compris.」
+
+}
+[sha:f124cfecfabc905261159540827ceec88b6d2b08]{
+-- Page 16, Offset 14128.
+-- それはともかく、世間話の大半が青子の失敗談だった事は墓まで持っていこう、と誓う草十郎だった。
+  J'emporterai tout de même dans la tombe le fait que la majeure partie de la conversation concernait les échecs d'Aoko, se jura Sōjūrō.
+
+}
+[sha:2a4dbe6c5a009f2cd3929d211322fd817122c688]{
+-- Page 17, Offset 14129.
+-- 「大我と小我？　あの人、インドにでも行ってたのかしら。
+「Du Soi et du Moi ? Peut-être qu'elle est allée en Inde.
+
+}
+[sha:1df25546498ff715f4fd58ff235f95f6a4416971]{
+-- Page 17, Offset 14130.
+-- ところで草十郎。アンタ、姉貴に何かされたわね」
+  Au fait Sōjūrō. Elle t'a fait quelque chose, n'est-ce pas ?」
+
+}
+[sha:2616d8a76d649caa5cb8d8ceb03e9d53fea79cf4]{
+-- Page 17, Offset 14131.
+-- じろり、と鋭い視線を青子は向ける。
+  Aoko le dévisagea d'un regard perçant.
+
+}
+[sha:b6401dd9ab531714c7a12ada0472630ef826c0fc]{
+-- Page 17, Offset 14132.
+-- 後ろめたい事は何もないのに、草十郎はそれについ顔を背けてしまった。
+  Sōjūrō n'avait rien sur la conscience, et pourtant, il détourna inconsciemment les yeux.
+
+}
+[sha:aaa27a839d1fc8724fd5bf19a5109030a2f151e7]{
+-- Page 18, Offset 14133.
+-- 「何かって、何さ」
+「Quelque chose, comme quoi ?」
+
+}
+[sha:97f791e4e5795a80dd0603dac23f6547c630745f]{
+-- Page 18, Offset 14134. Mods: @k, @e.
+-- 「思い出せない、とか言ってたでしょ。さっきまでの態度もふわふわしてたし。
+「Tu as bien dit que tu ne te rappelais pas bien, non ? En plus, tu avais l'air d'être dans la lune.
+
+}
+[sha:83e4833a62361a5858a8db5dd08acbf0f15dae11]{
+-- Page 18, Offset 14135. Glued. Mods: @x.
+-- ……そうか、眼鏡を外したまでは覚えてたって事は、魔眼にでも魅入られたか」
+...... Ah je vois. Si tu te rappelais de ce qui s'est passé jusqu'à ce qu'elle retire ses lunettes, c'est qu'elle a dû te fixer avec ses Yeux Mystiques.」
+
+}
+[sha:5d1492321715815abba40af5d51c1ad7fdb2deac]{
+-- Page 19, Offset 14136.
+-- そうやって勝手に結論に辿り着くと、青子はもう興味なし、とばかりに黙りこむ。
+  Après avoir fait part de la conclusion à laquelle elle avait abouti au terme de son raisonnement, Aoko sombra dans le silence comme si cela ne l'intéressait plus.
+
+}
+[sha:ee7b6def29f45ab62f79e541b48c99191181b47d]{
+-- Page 19, Offset 14137.
+-- しっくりいかないのは草十郎である。
+  Seul Sōjūrō se sentait perdu.
+
+}
+[sha:27f4312182af58644f46869bf80bb0b631670989]{
+-- Page 20, Offset 14138.
+-- 「蒼崎、まがんって何だ？」
+「Aozaki, c'est quoi des Yeux Mystiques ?」
+
+}
+[sha:69c50f7c2a71201f881af350411e787a993a1cfb]{
+-- Page 20, Offset 14139.
+-- 「……魔力を帯びた目の事よ。簡単な物は一時的な混乱を、上級な物は睨んだだけで相手を殺す、とかね。
+「...... Des yeux chargés de prana. Les plus simples provoquent un état de confusion, d'autres plus avancés peuvent tuer l'adversaire d'un seul regard, et il y en a beaucoup d'autres.
+
+}
+[sha:8ee4cb31b5b5dacfa2261744b35c557addfb926d]{
+-- Page 20, Offset 14140.
+-- ……ま、バロールみたいな魔眼の持ち主なんて伝説だけだろうし、そもそもそんな魔眼持ちが生まれてくるなら私たちの悩みもあっさり終わるってものだけど」
+  ...... Enfin bon, quelqu'un qui possède un Œil Mystique comme celui de Balor, ça ne doit arriver que dans les légendes ; et puis, si un type pareil venait à naître, nous n'aurions très rapidement plus à nous en faire pour quoi que ce soit.」
+
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 21, Offset 14141.
+-- 「……？」
+「......?」
+
+}
+[sha:99c1ff092e524d8235967f0702c092320521b196]{
+-- Page 21, Offset 14142.
+-- 青子の説明は事情を知らない<草十郎|いちげんさん>にはさっぱりである。
+  Comme Sōjūrō ne possédait aucune notion sur le sujet, il ne comprenait rien du tout aux explications d'Aoko.
+
+}
+[sha:69e07b2750903b43249e8787a78d0dbd55db9b88]{
+-- Page 22, Offset 14143.
+-- 「……んー、そうね。
+「...... Hmm, eh bien...
+
+}
+[sha:16c54c2d3ff3e30e1a069cc15e7d6e9720a7f34d]{
+-- Page 22, Offset 14144. Glued. Mods: @x.
+-- 分かりやすく言うと、私の魔弾みたいなのを目から照射するようなもんよ」
+En gros, c'est comme si on tirait mes balles de prana avec les yeux.」
+
+}
+[sha:6cc1e5916a0bf2f34ecae60fb20c6d6479736870]{
+-- Page 22, Offset 14145.
+-- 「目から……蒼崎……が？」
+「Tes balles... tirées... avec les yeux ?」
+
+}
+[sha:c750183456d11a35eeea40dae307f0d1f59a932e]{
+-- Page 22, Offset 14146.
+-- 退屈そうな青子とは反対に、草十郎の混乱はより深くなっていく。
+  Contrairement à Aoko qui parlait d'un ton égal, la confusion de Sōjūrō ne faisait que s'accentuer.
+
+}
+[sha:42406ba7e9c467150c216b57ffdc2fa79c7cabe9]{
+-- Page 23, Offset 14147.
+-- 「だから！　貴方、一度目を閉じた後の橙子の目を見たんでしょ？　その一瞬で姉貴の魔眼に捕まったってコト！
+「Tu écoutes quand je te parle ? Tu as vu les yeux de Tōko après qu'elle les a fermés, non ? À cet instant-là, ses Yeux Mystiques te tenaient !
+
+}
+[sha:9655a2ef1f8720bc1a38852e5045362b2c62f810]{
+-- Page 23, Offset 14148.
+-- 目を猫目石に入れ替える魔術師もいるけど、姉貴はそんな事する必要はないから。
+  Certains Mages remplacent leurs yeux par des joyaux en chrysobéryl, mais ma sœur n'a pas besoin de recourir à ça.
+
+}
+[sha:6df32041d7b37ae5fbae1350d57aeb54a6d089d8]{
+-- Page 23, Offset 14149.
+-- あの人、生まれながらの魔眼持ちだしね。さしたる準備も詠唱もなしで、<閉塞|シャッター>するだけで切り替え自由なの」
+  Après tout, elle est née avec ses Yeux Mystiques. Elle peut les activer, sans préparation particulière ou incantation, juste en les fermant au préalable.」
+
+}
+[sha:5628e35df9a2311f93b529ef53d41f5dae4add0e]{
+-- Page 24, Offset 14150.
+-- ぽん、と手を叩く草十郎。
+  Sōjūrō eut un soudain éclair de compréhension.
+
+}
+[sha:9b5bb91281b62934626cfbcad7c500e2dafbe57e]{
+-- Page 24, Offset 14151.
+-- たしかに、橙子はそんな仕草をしていた気がする。
+  En effet, il lui semblait bien que Tōko avait fait un geste de ce genre.
+
+}
+[sha:72d713719fc57641b6fc587359cf6fa828e63ca9]{
+-- Page 24, Offset 14152.
+-- あの直後から心が惑わされたのは、魔眼とやらの力が大きいらしい。
+  De toute évidence, ces Yeux Mystiques étaient très certainement impliqués dans l'égarement qu'il avait ressenti par la suite.
+
+}
+[sha:308f79e550c31f7f8347babde1e78c7ae54cb55a]{
+-- Page 25, Offset 14153.
+-- 「……その話は分かったけど。
+「...... Ça, j'ai compris.
+
+}
+[sha:6ff81b1610b6e02d030677ab5462b453e886cd28]{
+-- Page 25, Offset 14154.
+-- 橙子さんは蒼崎のお姉さんなんだろう？　なんで<姉妹|しまい>で殺し合いをしてるんだ」
+  Mais Tōko est ta grande sœur, non ? Pourquoi vous vous entretuez ?」
+
+}
+[sha:aab116587853b1cbabce7c7c171a4fecdc7af8ba]{
+-- Page 25, Offset 14155.
+-- 聞くべきではない事と分かっていても、あえて草十郎は問いただした。
+  osa demander Sōjūrō, même s'il savait qu'il n'était pas censé le faire.
+
+}
+[sha:a762aa0be4716028cac3b940c399aaf856159275]{
+-- Page 26, Offset 14156.
+-- 条約違反である質問。
+  Cette question transgressait leur pacte.
+
+}
+[sha:11157bee5fb5f8e80b351175a45763f6fe96a36b]{
+-- Page 26, Offset 14157.
+-- 彼には関係のない、関わらせてはいけない争い。
+  C'était un conflit qui ne le concernait pas et dans lequel il ne devait pas être impliqué.
+
+}
+[sha:5bc995427eba8cd0924591ddf06c6fc83720eeb8]{
+-- Page 26, Offset 14158.
+-- 青子はしばし瞳を閉じて状況を整理し―――
+  Aoko ferma un instant ses yeux et mit de l'ordre dans ses pensées―――
+
+}
+[sha:22c9845db3eefd8f6ad227ac6ef382660cee4d8f]{
+-- Page 26, Offset 14159.
+-- ここでつっぱねるより、概要だけ話して黙らせる方がお互いの為と判断した。
+  Elle jugea qu'il serait plus bénéfique autant pour l'un que pour l'autre de le satisfaire par un simple résumé plutôt que de se taire.
+
+}
+[sha:0dbf1eec7dddf11c46bcdc2723133cc1ed151f31]{
+-- Page 27, Offset 14160.
+-- 「いいわ、話してあげる。姉貴に関わった以上、事情を説明しておかないと危ないし。
+「Très bien, je vais t'en parler. En plus, maintenant que tu es entré en contact avec elle, tu pourrais être en danger si je ne t'explique pas la situation.
+
+}
+[sha:0f6b68f940a822696ab72ff9b2daabf672c8b3b9]{
+-- Page 27, Offset 14161.
+-- けど、なんであれ聞き返すのはナシね。この件に関しては、私は私の事情を話すだけだから」
+  Mais ne me demande pas de précisions sur quoi que ce soit. En ce qui concerne le problème actuel, je ne t'expliquerai que ma situation.」
+
+}
+[sha:441619367cb5b48a8096cb223cbf603aed664ce0]{
+-- Page 28, Offset 14162.
+-- 物わかり良さげに頷く草十郎に、どうだか、と青子は疑いの視線を向けた。
+  Aoko lança un regard méfiant à Sōjūrō qui acquiesçait d'un air compréhensif.
+
+}
+[sha:f7e82ad6aeb58e761bce1f3c1f0e33a74236e8d8]{
+-- Page 28, Offset 14163.
+-- 草十郎の性格は、それなりに把握できている。
+  Elle connaissait assez bien son caractère.
+
+}
+[sha:c027505da1bbdd55b58af6f8a963e1d218b12f4c]{
+-- Page 28, Offset 14164.
+-- またヘンに親身になったりするのは目に見えているが、話すと言ったからには話そう、と青子は姿勢を切り替えた。
+  Elle devinait qu'il allait encore se montrer étrangement sensible, mais maintenant qu'elle s'y était engagée, elle devait lui en parler. Aoko arrangea donc sa posture.
+
+}
+[sha:0466b0ae6f88bf3fe64bce7987bfe692b3e38e98]{
+-- Page 29, Offset 14165.
+-- 「……姉貴の話をするってコトは、私と蒼崎の家の話と、なにより魔術と魔法の話をしないといけない。
+「...... Parler de ma sœur implique que je vais devoir révéler certaines choses sur moi et la famille Aozaki, et encore plus important, sur la Magie et la Vraie Magie.
+
+}
+[sha:434bb18559bd1edd9a2034f93115b56e9cffa3e0]{
+-- Page 29, Offset 14166.
+-- 少し遠回りになるし他言無用な内容だけど、いずれアンタの記憶は消えるから問題ないってコトで」
+  Ça va être un peu long, et ce qui sera dit doit rester entre nous, mais comme ta mémoire sera effacée tôt ou tard, ce n'est pas un problème.」
+
+}
+[sha:dfb3a76b90f81b500e4cd33cdbe9e3d1a3ef9866]{
+-- Page 29, Offset 14167.
+-- 誰に対しての断りか、そういう前提付きだから話してあげるのよ、と青子は念を押す。
+  On pouvait se demander à qui elle s'adressait, mais Aoko insista sur le fait que c'était cette condition qui lui permettait de lui en parler.
+
+}
+[sha:679dff2d829d95f57c9ab0a996126032b4c35376]{
+-- Page 30, Offset 14168.
+-- 「魔術っていうのはね、草十郎。いわば共通のルールなのよ。
+「Tu vois, ce qu'on appelle la Magie, Sōjūrō, c'est une sorte de règle commune.
+
+}
+[sha:a8233c76201fb4126824e5ec502e3b44678d3ea6]{
+-- Page 30, Offset 14169. Glued. Mods: @x.
+-- ルーンやカバラといった魔術系統はそれぞれの科目……世界共通の<教科書|マニュアル>だと思えばいい。
+Les types de Magie comme les Runes ou la Kabale représentent chacune une matière...... Tu n'as qu'à te les représenter comme des manuels communs au monde entier.
+
+}
+[sha:989c89803de0a2d44ab873ab2c0a671b8772fbbf]{
+-- Page 30, Offset 14170.
+-- 教科書さえきちんと持っているのなら、あとは血脈次第で誰でも魔術師にはなれるわ。
+  N'importe quelle personne peut devenir Mage tant qu'elle possède ce manuel et qu'elle appartient à une lignée adéquate.
+
+}
+[sha:72c8825f02b991e7e7d026b6d2eefc49b85d99f5]{
+-- Page 30, Offset 14171.
+-- けど魔法を使うのは別。
+  Mais pour utiliser la Vraie Magie, c'est différent.
+
+}
+[sha:a4bf20014d8c9ce73bf972ad821ca656dc9b892f]{
+-- Page 30, Offset 14172.
+-- 魔法は魔術みたいに『根源の渦』から派生した写本じゃなくて、根源の渦に直接つながる物だから」
+  La Vraie Magie n'est pas un manuscrit dérivé du “Tourbillon de la Source” comme la Magie, mais quelque chose qui nous relie directement à lui.」
+
+}
+[sha:f76964aac0f2d2d0c542fa8a31e23309398a310e]{
+-- Page 31, Offset 14173. Mods: @k, @e.
+-- 「この根源の渦っていうのは……
+「Ce Tourbillon de la Source, c'est......
+
+}
+[sha:660fc267195402d943130d5895920ea992f56b61]{
+-- Page 31, Offset 14174. Glued. Mods: @x.
+-- あー、草十郎の分かるレベルに落としこむと……ま、太陽みたいなものと考えて。
+Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.
+
+}
+[sha:0537645d0ba1dd58d2aef1c6129b1e91d4db2a58]{
+-- Page 31, Offset 14175.
+-- 遠くにあって、なにより初めにあるもので、それなくしては私たちは生活できない、といった」
+  Il est très éloigné, mais il est surtout à l'origine de toute la création, et sans lui, on ne pourrait pas vivre.」
+
+}
+[sha:a56d9abe862e1e568193715c0660fd6255333402]{
+-- Page 32, Offset 14176.
+-- 「魔術っていうのは、この太陽からの恩恵を利用しただけのものよ。
+「La Magie consiste tout simplement à utiliser les bienfaits venant de ce soleil.
+
+}
+[sha:d614b8f36cd9a881d0e1cec188cfbecea3265468]{
+-- Page 32, Offset 14177.
+-- 自然現象の模倣、ないし代償が魔術の本質だから。神秘を学び、実践し、再現するけど、神秘そのものを作る事はできない。
+  L'imitation de phénomènes naturels et l'échange équivalent représentent l'essence de la Magie. On peut étudier les Mystères, les mettre en pratique et les reproduire, mais on ne peut pas en créer.
+
+}
+[sha:eea8be1bf163b63849b1e696c2a1ec0addd22f2a]{
+-- Page 32, Offset 14178.
+-- いえ、研究の末にたどり着くんでしょうけど、そこには大きな壁がある。人知では超えられない、リミッターみたいな壁がね」
+  Non, on finirait par y arriver à la fin de nos recherches, mais nous ferions alors face à un mur. Un mur qui agit comme un limiteur, infranchissable pour l'intelligence humaine.」
+
+}
+[sha:7a5377e474aa4b4ba0d8357617e5bb11feea29ea]{
+-- Page 33, Offset 14179.
+-- 「で、魔法っていうのは太陽そのものを扱うコト。
+「Et donc, la Vraie Magie, elle, consiste à manipuler ce soleil.
+
+}
+[sha:784029ef282870d1c42b11ae929d29734e592853]{
+-- Page 33, Offset 14180.
+-- 誰にも到達できない場所に行って、
+  On se rend dans un lieu que personne ne peut atteindre,
+
+}
+[sha:0a91f99eb5755925fb38c226ef43e4ba8ae6a992]{
+-- Page 33, Offset 14181.
+-- 何者にも<再現|マネ>できない奇跡を起こす。
+  et on réalise un miracle que personne ne peut imiter.
+
+}
+[sha:8ee81a6685e12c85a7f46df042bfe82c6fa7051f]{
+-- Page 33, Offset 14182.
+-- お金をかけようが時間をかけようが、今の人類には到達できない技術―――それが魔法」
+  Une technique que l'humanité actuelle ne peut utiliser, même si elle dépense pour cela énormément de temps et d'argent―――voilà ce qu'est la Vraie Magie.」
+
+}
+[sha:e23d93b9a44a52eda861843ce2ae1bb1f13744dd]{
+-- Page 34, Offset 14183.
+-- 「次元の壁を越えるっていうか。最後まで走ってみたら、まったく違うルールで出来た世界があって、そのルールを学んじゃった……ってとこかしら」
+「C'est comme franchir le mur des dimensions. Tu as couru jusqu'à la ligne d'arrivée pour te rendre compte que tu viens d'arriver dans un monde régi par des règles complètement différentes, et que tu as appris ces règles...... ou quelque chose comme ça.」
+
+}
+[sha:c87838244652ecd0a91528ba43675750608a03fc]{
+-- Page 35, Offset 14184.
+-- 「前に、魔術に限界はないって言ったでしょ。あれは人知の及ぶ範囲なら限界はない、って意味ね。
+「Avant, je t'ai dit qu'il n'y avait pas de limites à la Magie, tu te rappelles ? C'était dans le sens qu'il n'y en a pas dans l'étendue des connaissances humaines.
+
+}
+[sha:0f9e5a125f167a27dbc6ccf78f4aa56d34721c85]{
+-- Page 35, Offset 14185.
+-- 対して、魔法は限界だらけ―――っていうか、ひとつの事しかできないけど、それも当然なの。だってこの宇宙の<概念|しくみ>から仲間はずれの、ひとつっきりの光点なんだから」
+  Au contraire, la Vraie Magie n'a que des limites―――en fait, elle ne permet de faire qu'une seule chose, mais c'est normal. Après tout, ce n'est qu'un seul point lumineux exclu du fonctionnement de cet univers.」
+
+}
+[sha:54e4b2eff97acb3b6c2254ccbecd5ebd62b40e0f]{
+-- Page 36, Offset 14186.
+-- 「……魔術より魔法の方が凄い……というのは、流れ的に分かるんだけど。
+「...... D'après ce que tu me dis, je devine que la Vraie Magie est plus incroyable encore que la simple Magie.
+
+}
+[sha:3c3f74e645a8456ebcd0fa3399617a3786149eb2]{
+-- Page 36, Offset 14187. Glued. Mods: @x.
+-- 限界だらけ、なんだよな？」
+Mais ça n'a que des limites, c'est ça ?」
+
+}
+[sha:be72ff693b7683602e7d79ac7cecfcb13394ec37]{
+-- Page 36, Offset 14188.
+-- 「限界っていうか特例、特権、越権の類ね。
+「Des limites ou plutôt, c'est une sorte d'exception, de privilège voire d'abus.
+
+}
+[sha:48040e9394933ce808d7680583b8520f439c89d3]{
+-- Page 36, Offset 14189.
+-- 汎用性はないけど、誰にも出来ない事を可能とする時点で、魔術世界にとっては万能とされる」
+  Elle n'est pas à multi-usage, mais du moment qu'elle rend possible ce qui est impossible pour tous, le monde des Mages la considère comme toute-puissante.」
+
+}
+[sha:3a557f413beb1aa1e5c613c51761fcd4cde1c02f]{
+-- Page 37, Offset 14190.
+-- 「そもそも魔法は『根源の渦』にたどり着いた魔術師へのご褒美みたいなもので、たとえその術者に魔法を使うだけの肉体性能がなくても、根源への<路|パス>ができただけで魔術的にはやりたい放題ってわけ。
+「En premier lieu, la Vraie Magie est comme une récompense pour les Mages ayant atteint le “Tourbillon de la Source”. Et même si ces Mages n'ont pas les capacités requises pour l'utiliser, le simple fait de posséder un chemin vers la Source leur permet de faire ce qu'ils veulent sur le plan de la Magie.
+
+}
+[sha:050d7c620b80efb17b9d92b3026c6f774e1ea589]{
+-- Page 37, Offset 14191.
+-- 要は、地球で一番のお金持ちになるってコト」
+  D'une certaine façon, ils deviennent les personnes les plus riches sur terre.」
+
+}
+[sha:ca377170dc6a0b2b208dd506e0a9451d911abc47]{
+-- Page 38, Offset 14192.
+-- 力強い発言に、おお、と感動する草十郎。
+  “Ooh”, fit Sōjūrō, impressionné par le poids de ces mots,
+
+}
+[sha:199fcce303ce968eedeb0fdedfc6da4945b3f725]{
+-- Page 38, Offset 14193.
+-- 一方、青子の暴論を色々改めたくて仕方のない有珠。
+  tandis qu'Alice ressentait une irrésistible envie de corriger les propos d'Aoko.
+
+}
+[sha:68a1522186c58f298eb79cd4600a65ad7605c7fc]{
+-- Page 39, Offset 14194.
+-- 「一番の大金持ちか……じゃあ、どんなにお金持ちでも、一番目でない以上は魔法は貰えないんだな？」
+「Les plus riches...... Alors, peu importe à quel point on est riche, on ne peut obtenir la Vraie Magie que si on arrive le tout premier, c'est ça ?」
+
+}
+[sha:6933a88039cc460768b153d374dc58b003966718]{
+-- Page 40, Offset 14195.
+-- 「―――まあ、そういう事。
+「―――Eh bien, oui.
+
+}
+[sha:c62ff0b7f042fe8b42224d113d1befad35af9754]{
+-- Page 40, Offset 14196.
+-- ……時々とんでもない角度で核心をつくわね、コイツ……アンタの言う通り、同じ<理論|ルート>、同じ方法で根源に辿り着いても、一番目じゃないと魔法にはたどり着けない。
+  ...... De temps en temps, il aborde le nœud du problème par un angle incroyable, celui-là...... Tu as raison, si on atteint la Source avec la même route, de la même manière qu'un autre, si on n'est pas le premier, on ne peut pas obtenir la Vraie Magie.
+
+}
+[sha:54b7f679f2a23a982a2ad4dff08019b759a6b7e2]{
+-- Page 40, Offset 14197.
+-- どんなに優れていても二番目以降には意味がないのよ」
+  On a beau être un Mage éminent, arriver en second ou après n'a aucun intérêt.」
+
+}
+[sha:79bd914f34b3c1b084b4a6734610443287d9a910]{
+-- Page 41, Offset 14198.
+-- 「魔法使いが五人……いえ、四人か。
+「Il existe cinq... non, quatre Magiciens.
+
+}
+[sha:6673d6a21f1ed0f63c65762963f1aad4b95cbb72]{
+-- Page 41, Offset 14199.
+-- 現存する魔法使いが四人しかいないのは、一度使われた<未|ル><知|ート>は<確定|とざ>されてしまうから。
+  Ils ne sont que quatre parce que les routes utilisées finissent par se refermer.
+
+}
+[sha:d817d2dac9b8853634b76270743ce4cf346a3a3e]{
+-- Page 41, Offset 14200.
+-- 大昔はそうでもなかったって話だけどね。
+  Même si on prétend que durant l'Âge des Dieux, c'était différent.
+
+}
+[sha:fc134cc4437ad13d3404eef419a460bf1d6c23fb]{
+-- Page 41, Offset 14201.
+-- 根源への路……真理への到達に壁を作ったのは、皮肉なことに人間自身だった」
+  Ironiquement, ceux qui ont créé le mur se dressant sur la route de la Source...... en vérité, ce sont les humains eux-mêmes.」
+
+}
+[sha:7bf004c6cb5488bd3bd44f470529381a7f4c39d2]{
+-- Page 42, Offset 14202.
+-- 「未知を解明すればするほどルートが閉じていくなんて、昔の魔術師たちは思いもしなかったんでしょう。
+「Les anciens Mages n'ont sans doute jamais imaginé que plus ils découvraient l'inconnu, plus les routes se fermaient.
+
+}
+[sha:43d1dc7961fa56f20fba8eab4a9ee82e61b85539]{
+-- Page 42, Offset 14203.
+-- でも結果はこの通り、気が付いた時には後の祭りっていうか。多くの研鑽の末、この世から魔法は消えていっちゃったワケ」
+  Mais voilà, quand on s'en est rendu compte, c'était trop tard. À la fin de nombreuses recherches, la Vraie Magie a disparu de ce monde.」
+
+}
+[sha:75b3a33a40868f881884ea27f510ce769ac9bcd1]{
+-- Page 43, Offset 14204.
+-- 「……ふーん。それは、山と町の関係に似てる……と思っていいのかな」
+「...... Hmm. Ça serait comparable à la relation entre la montagne et la ville... c'est ça ?」
+
+}
+[sha:85a8ac695db86dce95f83d6348ec0d6fda06d8bf]{
+-- Page 44, Offset 14205.
+-- 「ミクロな視点で言うなら、似たようなものよ。
+「Du point de vue d'un microcosme, c'est du pareil au même.
+
+}
+[sha:667dc0c281437db6d044eebd0e166aa3f3a4d8cf]{
+-- Page 44, Offset 14206.
+-- で―――つい最近まで、現代の魔術師たちは残された最後の席を求めていたけど、それもちょっと前にどこぞの田舎者が横取りしちゃって、イス取りゲームはあえなく終了。
+  Et donc―――jusqu'à il y a peu, les Mages de notre époque convoitaient la dernière place restante. Mais, récemment, un campagnard venu d'on ne sait où l'a usurpée, et c'est ainsi que le jeu des chaises musicales s'est terminé.
+
+}
+[sha:8fc15cd6c71b0400b4466ff62c4f5b29547b22f2]{
+-- Page 44, Offset 14207.
+-- あとは魔法抜きで根源にたどり着くため、地味で無意味な魔術の研究を続ける事になった」
+  À présent, pour arriver à la Source sans la Vraie Magie, on continue nos recherches modestes et sans intérêt sur la Magie.」
+
+}
+[sha:8d35212584bf599dc633d37b495bf3ee564d42e0]{
+-- Page 45, Offset 14208.
+-- 「……ま、もともと魔法なんてのを優先してたのは一部の魔術師だけで、他のまっとうな連中はとっくに見切りをつけてたんだけどね。
+「...... Enfin, au fond, seule une petite partie des Mages plaçaient la Vraie Magie en haut de leurs priorités. Les autres types plus pertinents avaient renoncé depuis longtemps.
+
+}
+[sha:fed4850019121d945fb276a6098eea61a2e3bcb2]{
+-- Page 45, Offset 14209.
+-- だって、魔術師にとって最終目的は根源の渦への到達であって魔法じゃないし。
+  Après tout, le but final des Mages, c'est d'atteindre le Tourbillon de la Source, et non pas d'obtenir la Vraie Magie.
+
+}
+[sha:0023f7f8b469bbd2802b05ab316f3db3d5fadf36]{
+-- Page 45, Offset 14210.
+-- そのあたりいつのまにかごっちゃになっちゃったんでしょ。卵が先か鶏が先かって話」
+  Sur ce point-là, ils ont dû s'emmêler les pinceaux sans s'en rendre compte. Comme savoir si c'est l'œuf qui est venu avant la poule ou l'inverse ?」
+
+}
+[sha:0117d32e54d52bae277f1b3c6b6cbb583be5ba32]{
+-- Page 46, Offset 14211.
+-- 「……よし。まったく分からないってコトは分かったんで、そろそろ本題に入ってくれ。
+「...... Bien. J'ai compris que je ne comprenais rien à rien, alors va directement au fond du problème.
+
+}
+[sha:9550ef15f36e68df59d5bff761b05f24c518dfd3]{
+-- Page 46, Offset 14212.
+-- あ。けど、一番目の人間しか魔法使いになれないのに、魔法使いは何人もいるのか？」
+  Ah, attends. Seul le premier arrivé peut devenir Magicien, et pourtant, il en existe plusieurs ?」
+
+}
+[sha:e9a8ac0ab1797c66450955fc008d758ba2bc51d3]{
+-- Page 47, Offset 14213.
+-- 「五人いたわ。最終的に、人間に残される最後の課題は五つだろうって一番初めの―――」
+「Il y en avait cinq. En tout et pour tout, les tâches que doivent encore accomplir les humains sont au nombre de cinq. C'est la première―――」
+
+}
+[sha:20abd43fbfdce349ae3bc7f4d99709d5eb5318f0]{
+-- Page 47, Offset 14214.
+-- 「青子」
+「Aoko.」
+
+}
+[sha:cefee685f90cf41f9d74e7cfb41483aeae17aef9]{
+-- Page 47, Offset 14215.
+-- 「―――じゃ、本題ね。
+「―――Alors, juste le fond du problème, hein.
+
+}
+[sha:d6c57f9efb17ec31b564c0cd800c9f65a2cd2864]{
+-- Page 47, Offset 14216.
+-- 魔法と魔術の関係が分かったところで、ようやくうちの話になるんだけど」
+  Maintenant que tu connais la relation entre la Vraie Magie et la Magie, je peux enfin aborder mon histoire.」
+
+}
+[sha:d04ca243b660314871f84fa94dda763b220edfd3]{
+-- Page 48, Offset 14217.
+-- 「蒼崎の家が代々魔術師だったのは前に言ったでしょ？
+「Je t'ai déjà dit que les membres de la famille Aozaki sont Mages de génération en génération, pas vrai ?
+
+}
+[sha:868f83e94b17dc75733f0be1133bd5c254d0279e]{
+-- Page 48, Offset 14218.
+-- 歴史的には浅いけど、運と才能には恵まれていたのね。
+  Historiquement parlant, on est peu connus, mais on a de la chance et du talent.
+
+}
+[sha:199a586124177cf53c66fba968464a1653ef1355]{
+-- Page 48, Offset 14219.
+-- 蒼崎は、なんだかんだって魔法にまで辿り着いたんだから」
+  Bien sûr, puisque les Aozaki ont malgré tout atteint la Vraie Magie.」
+
+}
+[sha:cc3eb07cba2ef4673aa19717c6e5280f10992b16]{
+-- Page 49, Offset 14220.
+-- 「―――ちょっと待った。じゃあ、蒼崎が、その、」
+「―――Attends un peu. Alors tu es, euh...」
+
+}
+[sha:e985cd04a62e39232acde27e0a739eac8bf0472a]{
+-- Page 49, Offset 14221.
+-- 「私はあくまで魔術師見習い。
+「Je suis seulement une Mage en apprentissage.
+
+}
+[sha:562b12648d4b0ce3426f8088c2f6377c2be5cc44]{
+-- Page 49, Offset 14222.
+-- 使えないし、使う気もないわよ、魔法なんて。私はただ、蒼崎の家を継いだだけだもの」
+  Je ne peux pas utiliser la Vraie Magie, et je n'en ai pas non plus l'intention. Je suis juste le successeur de la famille Aozaki.」
+
+}
+[sha:781ff09ec48c4ab5044981fd3f67989b2ff8ba5e]{
+-- Page 50, Offset 14223.
+-- 青子は簡潔に、感情のない声で言い切った。
+  Aoko le déclara de façon brève et sur un ton neutre.
+
+}
+[sha:f3a87348f2cd8356ebe173322818816d3b0996d3]{
+-- Page 50, Offset 14224.
+-- 魔法使いになるために魔術師になったのではなく、
+  Elle n'était pas devenue Mage pour ensuite être une Magicienne,
+
+}
+[sha:57449d77fd4f90477c81cb00f6b1736752550089]{
+-- Page 50, Offset 14225.
+-- 蒼崎の家を継ぐコトになったから、魔術師として生きていく道を選んだのだと。
+  elle avait choisi de vivre en tant que telle parce qu'elle devait être l'héritière de la famille Aozaki.
+
+}
+[sha:a0db2516de60ab72e4d99c68460670b633dde6a2]{
+-- Page 51, Offset 14226.
+-- 「……ま、とにかく。
+「...... Enfin, peu importe.
+
+}
+[sha:c4a36e0b32f07ef2d5199d6780cc0416cd4244ca]{
+-- Page 51, Offset 14227.
+-- 根源の渦に辿り着くには、何代も何代も魔術を研究しなくちゃいけない。自分独自の川を造るようなものなんだから、もちろんその過程は果てがない。
+  Pour atteindre le Tourbillon de la Source, il faut faire des recherches sur la Magie pendant des générations. C'est comme créer sa propre rivière, alors forcément, le processus est sans fin.
+
+}
+[sha:abf388741661820d7da135dde5806655f1392240]{
+-- Page 51, Offset 14228.
+-- よほどの天賦か天啓でもないかぎり魔法を創るなんてできないしね」
+  Et à moins d'avoir un talent inouï ou une révélation divine, on ne peut pas reproduire la Vraie Magie.」
+
+}
+[sha:e66d7f4400849b5563ced8b0007d6b55d4a64c59]{
+-- Page 52, Offset 14229.
+-- 「そしてもし根源に辿り着いても、相応しい後継者がいなければ一代かぎりの奇跡で終わってしまう。
+「Et si jamais on atteint la Source, sans un successeur approprié, le miracle se terminera au bout d'une génération seulement.
+
+}
+[sha:e7befd554bba79d60f03e04154245ea7a8e85d70]{
+-- Page 52, Offset 14230.
+-- だから魔術師は血脈を重ねて、代々の魔力を次代に積み重ねていく。自分より勝れた後継者を生むために」
+  C'est pour ça que les lignées de Mages se marient entre elles et accumulent le prana des générations précédentes pour le transmettre à la suivante. Tout ça afin de donner naissance à des successeurs qui les surpassent.」
+
+}
+[sha:99f99ca892731babc36908a2809db0fffa96b525]{
+-- Page 53, Offset 14231.
+-- 要するにサラブレッドを作っているのよ、と青子は一度話を切った。
+  “En d'autres termes, ils créent des purs-sangs”, rajouta Aoko avant de prendre une petite pause.
+
+}
+[sha:815e73c6139e73f428af9e70a70431e53ebc7e11]{
+-- Page 53, Offset 14232.
+-- もともと草十郎に理解させる気はこれっぽっちもないので、サラブレッド？　と首をひねる草十郎を華麗にスルーする。
+  Comme elle n'avait absolument pas l'intention de lui expliquer ce que c'était, elle ignora superbement Sōjūrō lorsqu'il lui demanda, perplexe, ce que voulait dire pur-sang.
+
+}
+[sha:cee4747b74165fc11f64e0eb36d9bb57cd514bf4]{
+-- Page 54, Offset 14233.
+-- 「そうやって代を重ねて、魔術師は作り上げた独自の神秘、守り続けた魔術を次の世代に伝えていくの。
+「Au fil des générations, les Mages transmettent le Mystère qu'ils ont inventé, la Magie qu'ils ont protégée à leur successeur.
+
+}
+[sha:c888021dbae02ad2331673ee13a39d9c9f926b4c]{
+-- Page 54, Offset 14234.
+-- きっと最後の最後に、全ての疑問を打ち消すに足る答えがある筈だって」
+  En se disant qu'au bout du chemin les attend une réponse méritant qu'ils ignorent tous les doutes qui les habitent.」
+
+}
+[sha:68a74b32467b107b5839d80bb8bea3c65fbe08ce]{
+-- Page 55, Offset 14235.
+-- 「でも魔術師―――いえ、魔法使いだって、みんな悟ってるのよ。
+「Mais les Mages―――non, les Magiciens aussi, tous le comprennent.
+
+}
+[sha:180a54f7db2effb5cf2c0ae005747c5dbe391b43]{
+-- Page 55, Offset 14236.
+-- 自分の代でも、その次の代でも、きっと最後の最後の最後まで、誰もゴールには辿り着けないって結末を。
+  Ils savent tous qu'au bout du compte, personne n'arrivera à atteindre ce but, que ce soit leur génération ou la suivante, ou encore celle d'après.
+
+}
+[sha:e5afb61cdde7c1208dddd4c54c13fa17348d2022]{
+-- Page 55, Offset 14237.
+-- それを解っていながら魔術を研究していくのが神秘学に取り憑かれた者の宿命だって、祖父はよく口にしてた。
+  Mon grand-père disait souvent que c'était le destin de toute personne possédée par l'étude des Mystères que de faire des recherches sur la Magie tout en sachant pertinemment que cette issue est inéluctable.
+
+}
+[sha:2b240690c73e848c572bb7a1530f7f31d33f16a6]{
+-- Page 55, Offset 14238.
+-- けど、私の姉はそうじゃなかったみたい」
+  Mais apparemment, ma grande sœur ne partageait pas cet avis.」
+
+}
+[sha:8fe231fd5b9e52a171498aeac778634984c67f55]{
+-- Page 56, Offset 14239.
+-- その気持ちも分かるけどね、と青子はひとり呟く。
+  “Je la comprends, mais bon”, murmura Aoko.
+
+}
+[sha:effcab836f8570549734722a23ceefc26382ac2a]{
+-- Page 56, Offset 14240.
+-- 有珠はそれには無反応だ。
+  Alice n'affichait aucune réaction.
+
+}
+[sha:7cdf6746e3bf9b973ee9a558a1fe0f3b1e3f24e5]{
+-- Page 56, Offset 14241.
+-- 魔法を伝える蒼崎の家。
+  La famille Aozaki au sein de laquelle se transmettait la Vraie Magie.
+
+}
+[sha:a5f0b6490a064821e97ad056751ff5e21c844142]{
+-- Page 56, Offset 14242.
+-- その後継者となった青子。
+  Aoko devenue l'héritière.
+
+}
+[sha:228568779f45454cc5a1cfb0f1235e3be3b92994]{
+-- Page 56, Offset 14243.
+-- そして―――青子の姉である蒼崎橙子。
+  Et―――Aozaki Tōko, la grande sœur d'Aoko.
+
+}
+[sha:aece2601283ad2930e44a3dafd20eb886ffd78f4]{
+-- Page 57, Offset 14244.
+-- 「……ほんとは、蒼崎の後継者は姉貴だった。
+「...... En réalité, c'est ma sœur qui aurait dû être l'héritière de la famille Aozaki.
+
+}
+[sha:acd2592e628350e1591b996dd2d202bb3d19b742]{
+-- Page 57, Offset 14245.
+-- 私もうちの家業がなんであるかは教えられてきたけど、実践する事はなかったのよ。
+  On m'avait aussi appris ce qu'était l'occupation familiale, mais je n'avais jamais eu à m'y intéresser.
+
+}
+[sha:67d063ed045794918491f4eb9ea696ef7bae3cac]{
+-- Page 57, Offset 14246.
+-- 魔術師の家系はよっぽど裕福でもないかぎり、基本的に一子相伝だからね。うち、ホント財力的には一般家庭レベルだし」
+  À moins qu'une famille de Mages ne soit extrêmement riche, le savoir n'est transmis en général qu'à un seul enfant. Et ma famille n'a que le revenu d'un foyer normal.」
+
+}
+[sha:a1872bd8d7c5be44391d66840523241d2fbe60ee]{
+-- Page 58, Offset 14247.
+-- 「で、後継者にはより魔術に適した者が選ばれるワケだけど……姉貴はたしかに天才だった。
+「Donc, on choisit celui qui est le plus adapté pour la Magie comme successeur...... Et ma sœur était vraiment un génie.
+
+}
+[sha:845faf08888d8533489bf12521ba50f1a6ea37d3]{
+-- Page 58, Offset 14248.
+-- けどそれは、蒼崎の後継者にはいらない才能だった」
+  Mais son talent était inutile pour être l'héritière de la famille Aozaki.」
+
+}
+[sha:7fa33ce0867bad89f9f0f18481645d845e343428]{
+-- Page 59, Offset 14249.
+-- 「そのかわり、私は心底蒼崎の後継者として相応しかったみたい。
+「Et apparemment, contrairement à elle, j'étais parfaitement adéquate à la succession des Aozaki.
+
+}
+[sha:efacaeff8eba9b4b6811c7e1bf89f90b01a12f99]{
+-- Page 59, Offset 14250.
+-- ……まあ、それはそれでどうも思わないけど、祖父がはっきりと私に鞍替えしたのが十五歳の冬の頃でさ。
+  ...... Bah, je n'ai pas d'avis tranché là-dessus, mais durant l'hiver de mes quinze ans, mon grand-père a clairement pris parti en ma faveur.
+
+}
+[sha:aa49928bba982d032c2d1d2e36996a3f7552944c]{
+-- Page 59, Offset 14251.
+-- 姉貴はいきなり、四つ年下で、今まで魔術に関わってなかった妹に魔法の相続権利を奪われたってワケよ」
+  Ma sœur s'est donc vue être spoliée de ses droits d'héritage de la Vraie Magie par sa petite sœur, de quatre ans sa cadette et qui n'avait jusque-là aucun lien avec la Magie.」
+
+}
+[sha:aa20dcfe11dca8e69f854ff1df546a494b7909fc]{
+-- Page 60, Offset 14252.
+-- 「…………そうか、それで」
+「............ Je vois. C'est donc pour ça qu'elle...」
+
+}
+[sha:77a680f936172e27b1e19d64bb409f0a155d4cdc]{
+-- Page 60, Offset 14253.
+-- ……私にはその<義|・><務|・>がある、と。
+  “...... J'ai l'obligation de dépouiller Aoko de tous ses privilèges.”
+
+}
+[sha:73536ed231b269173e7b88f1897534a827ede4be]{
+-- Page 60, Offset 14254.
+-- 蒼崎橙子は、憎しみに満ちた声で言い切ったのだ。
+  avait déclaré Aozaki Tōko d'une voix emplie de haine.
+
+}
+[sha:7bb507bbc0f9c3af795de389478228ca7f1683e9]{
+-- Page 61, Offset 14255.
+-- 「<姉貴|あのひと>がどんな思いをしたか、私は本人じゃないから知らないけど。
+「Je ne suis pas à sa place, je ne sais donc pas ce qu'elle a ressenti.
+
+}
+[sha:0a47f0f50126aba247202b858bb203a5c9604f71]{
+-- Page 61, Offset 14256.
+-- 祖父と言い争って、今まで愛用してた眼鏡を叩き壊して家を出ていったのが三年と半年前。
+  Il y a trois ans et demi, elle s'est disputée avec grand-père et a pulvérisé ses lunettes préférées avant de quitter la maison.
+
+}
+[sha:666c12c7324a0d26cc6f1c888b55d70843eb38aa]{
+-- Page 61, Offset 14257.
+-- それからまったく消息なしで、私は姉の代わりになったの。これが、私と姉貴の争う原因でしょうね」
+  Ensuite, on n'a plus eu de ses nouvelles et je lui ai succédé. C'est probablement la cause de notre litige.」
+
+}
+[sha:0571cf4fa8aba807a112b9c8253e271d53cafb9e]{
+-- Page 62, Offset 14258.
+-- かなり重い話だと草十郎は思うのだけど、青子の声はさっぱりしている。
+  Sōjūrō trouvait cette histoire plutôt sérieuse, mais le ton d'Aoko était insouciant.
+
+}
+[sha:2bd41987a741289614f6ceebcae198c62bca641c]{
+-- Page 62, Offset 14259.
+-- それが幼い頃から植え付けられた魔術師の思考だとしたら、同情すべきはどちらにあるのだろうか。
+  S'il s'agissait du processus de pensée caractéristique des Mages qu'on lui avait inculqué depuis l'enfance, alors pour qui devait-on compatir ?
+
+}
+[sha:210bcb9ab9c817568c16fbabfd43ab7d9f69e04c]{
+-- Page 63, Offset 14260.
+-- 「……眼鏡を壊した、か」
+「...... Elle a pulvérisé ses lunettes, hein.」
+
+}
+[sha:e06d75d9b9344ccd5990de7b31362f3eb77f532d]{
+-- Page 63, Offset 14261.
+-- 「そう。あの人、昔はすっごく目が良かった。生まれながら魔眼を持ってたって化物だからね。
+「Oui. Autrefois, elle avait une acuité visuelle excellente. Après tout, c'était un monstre possédant des Yeux Mystiques naturels.
+
+}
+[sha:a7ae3225666c67858a252eba4d3ccf0e2a6188ff]{
+-- Page 63, Offset 14262.
+-- けど祖父の期待に応えようとして、無理して頑張ったあげく視力が下がっちゃったみたい」
+  Mais en voulant répondre aux attentes de grand-père, elle a fait trop d'efforts, ce qui a, semble-t-il, provoqué la baisse de sa vue.」
+
+}
+[sha:c8603b38deaf1245b658a9db8c1a201d3149a8d3]{
+-- Page 64, Offset 14263.
+-- なんだかねー、と呆れる青子。
+  “C'est un peu bête”, rajouta Aoko.
+
+}
+[sha:b6740cf32b16ecfee97afe85b8e573899ad0eff6]{
+-- Page 64, Offset 14264.
+-- 青子の冷徹さを知っている草十郎だが、さすがに今のは見ていて気持ちのいいものではない。
+  Sōjūrō savait qu'Aoko pouvait être imperturbable, mais cette fois-ci, son comportement impassible n'était vraiment pas plaisant à voir.
+
+}
+[sha:b18b90e5defab036b707ff45e0d98cc8a38c2117]{
+-- Page 65, Offset 14265.
+-- 「けど、あれに何の意味があったんだろう。
+「Mais pourquoi a-t-elle agi ainsi ?
+
+}
+[sha:549bdaa862639d3e888492ad536e4db92ac6c7b7]{
+-- Page 65, Offset 14266.
+-- 眼鏡を<祖父|じじい>に叩きつけるぐらいなら、フィンの一撃でも叩きこめば良かったのに。
+  Si c'était pour jeter ses lunettes à la gueule du vieux, autant lui balancer une attaque de Finn.
+
+}
+[sha:f80a28a0af91f7567b2809d47b21574e2caf0ba2]{
+-- Page 65, Offset 14267.
+-- あの人、あの頃が才能のピークだったんだし、<耄碌|もうろく>した<祖|じ><父|じい>なんてそれこそ一撃だったと思うんだけど……」
+  À l'époque, elle était au sommet de son art, et je crois qu'une seule attaque aurait suffi pour que le vieux gâteux clamse......」
+
+}
+[sha:47cd455fd745b13e3e09eb1965e4852a63da7bd0]{
+-- Page 66, Offset 14268.
+-- はて、と今更ながら考えこむ青子に、草十郎はうつむいて批難する。
+  “Hum”, fit Aoko en se penchant un peu tardivement sur le problème. C'est alors que Sōjūrō la corrigea, la tête baissée.
+
+}
+[sha:1538adeb988bcbf407b05dd7f9dfa3bf49db7dae]{
+-- Page 67, Offset 14269.
+-- 「恨み辛みの話じゃない。
+「Ce n'est pas une question de rancune.
+
+}
+[sha:9d0c5280e2c86176ecc295843274ecb3ff032b81]{
+-- Page 67, Offset 14270.
+-- ……その眼鏡は、大事な物だったんだ。だってそれは、誰にだって分かる努力の証なんだから。
+  ...... Ces lunettes lui étaient précieuses. Elles témoignaient aux yeux de tous des efforts auxquels elle avait consenti.
+
+}
+[sha:fce842547ef9f4601bc224408891327032529b77]{
+-- Page 67, Offset 14271.
+-- それを叩きつけたんだ。痛かったんだろうな、橙子さんは。思い出を、自分で壊さなくちゃいけないぐらいに」
+  Mais elle les a pulvérisées. Tōko devait vraiment souffrir. Souffrir au point qu'elle a dû détruire ce souvenir de ses propres mains.」
+
+}
+[sha:eb3030e90d685c7fff69af6edd15d7d8dc7134f4]{
+-- Page 68, Offset 14272.
+-- そう語る草十郎自身、痛みをかみ殺している事に青子も有珠も気付かない。
+  Aoko et Alice ne remarquèrent pas que Sōjūrō étouffait sa propre douleur en prononçant ces mots.
+
+}
+[sha:6ff87ce76d2b555bfe049b11f04856d2e606b64f]{
+-- Page 68, Offset 14273.
+-- というより、二人には草十郎の心情が理解できない。
+  Ou plutôt, elles ne pouvaient comprendre les sentiments du jeune homme.
+
+}
+[sha:42247b8dc14547b8475c786d9302cc140f5a11cd]{
+-- Page 68, Offset 14274.
+-- 魔術師として育てられ、戦うべき敵として認識しあう彼女たちには、そういった感傷は必要ないからだ。
+  En effet, ces filles, élevées en tant que Mages et se reconnaissant mutuellement comme ennemies à abattre, n'avaient pas besoin de se laisser aller au sentimentalisme.
+
+}
+[sha:d41468c642fa912568a0641da3d37773739036fe]{
+-- Page 69, Offset 14275.
+-- 「……けど、どうして今ごろになって戻ってきたのかしら。青子の言う通り、橙子さんならもっと早く三咲市を奪えたのに」
+「...... Mais pourquoi ne revient-elle que maintenant ? Comme Aoko l'a dit, elle aurait été largement capable de s'emparer de la ville de Misaki plus tôt.」
+
+}
+[sha:36efdbb8db4866c8720cb1656ddcb1101cec1e0a]{
+-- Page 69, Offset 14276.
+-- 「そうね。そんなに土地が欲しかったのなら、三年前に私を殺せば後継者に戻れたのに。
+「C'est vrai. Si ces terres lui faisaient tant envie, il lui aurait suffi de me tuer il y a trois ans pour récupérer sa place d'héritière.
+
+}
+[sha:35040fd8eed7e0cac14059a07ba0a7d9b026261c]{
+-- Page 69, Offset 14277.
+-- ……世間の荒波にもまれて気が変わったとか……？」
+  ...... Peut-être que les rudes épreuves de la vie l'ont fait changer d'avis......?」
+
+}
+[sha:cc5ba5a665ffd3acf6aa7c1ddc3603b1123e0f73]{
+-- Page 69, Offset 14278.
+-- 「違う。蒼崎は本当に分からないのか」
+「Mais non ! Tu ne comprends vraiment pas ?」
+
+}
+[sha:f720981a9354e214ffca716c8be098a9a540a34e]{
+-- Page 70, Offset 14279.
+-- 微かな<憤|いきどお>りが草十郎を揺り動かす。
+  Sōjūrō fut agité d'une vague indignation.
+
+}
+[sha:b5e0f904fc268419e82729e7c04a2c0c6a6f23aa]{
+-- Page 70, Offset 14280.
+-- その声は、二人の知っている少年とは少しだけ違っていた。
+  Sa voix avait un ton légèrement différent de celui qu'elles lui connaissaient.
+
+}
+[sha:99583a9c3eecc3bdd114b129da87ebc2ce3153d6]{
+-- Page 71, Offset 14281.
+-- 「な、なによ。アンタなら分かるっていうの？」
+「Qu-Quoi ? Tu veux dire que toi, tu comprends ?」
+
+}
+[sha:f8818df683e7b428e1258fc14979f01ce0430af7]{
+-- Page 71, Offset 14282.
+-- 「誰だって分かる。
+「N'importe qui peut comprendre.
+
+}
+[sha:95c4a6cecb3970297f852a9df79f3a94a2498a03]{
+-- Page 71, Offset 14283.
+-- 橙子さんは、蒼崎が一人前になるまで待っていたんだ。自分が失った物と同じぐらい、大切な物を無くさせるために。そうしないとどうにもならない。そこまでしなくちゃいけないほど、あの人の怒りは深かったんだ」
+  Tōko attendait que tu deviennes une Mage accomplie. Pour te faire perdre autant de choses précieuses qu'elle. Sans quoi, elle ne serait pas satisfaite. Sa colère était suffisamment grande pour qu'elle choisisse cette solution.」
+
+}
+[sha:1c4cd988567b2fd62db821012a725f75e78d0845]{
+-- Page 72, Offset 14284.
+-- なんでそれが分からない、と草十郎は二人を見据える。
+  “Pourquoi ne le comprenez-vous pas ?” dit Sōjūrō, les yeux braqués sur elles.
+
+}
+[sha:b6ef58facf0196aa2c9be64914bf610f16068f54]{
+-- Page 72, Offset 14285.
+-- だが、分かっていないのは彼の方だ。
+  Mais c'était lui qui ne comprenait pas.
+
+}
+[sha:788258fe1720bd8687cf30f3371ec289ab322a0b]{
+-- Page 72, Offset 14286.
+-- そういった人間らしい関係を、彼女たちは、何より蒼崎橙子は、一番初めに断っているのだから。
+  Les deux jeunes filles, et Aozaki Tōko encore plus, avaient renoncé dès le début à ce genre de relation humaine.
+
+}
+[sha:7bef7d51ee8ea0fe6023761135ba7c61e278b76c]{
+-- Page 73, Offset 14287.
+-- 橙子を動かしているのは憎しみではない。
+  Ce qui motivait Tōko n'était pas la haine.
+
+}
+[sha:6c0639e2d4d58af74af30d8a7c24b64526fd89f9]{
+-- Page 73, Offset 14288.
+-- たしかにそれもあるにはあるが、彼女を突き動かす最大の理由は魔法に至ること一点。
+  Il y avait aussi de cela, mais sa plus grande motivation se résumait à atteindre la Vraie Magie.
+
+}
+[sha:d5157ec2c6e4d34d1c8a5a93fbed7c29ac0608d5]{
+-- Page 73, Offset 14289.
+-- 彼女は貪欲で優秀な魔術師であり、憎しみなど後付の<外皮|りゆう>でしかない。
+  C'était une Mage avide et brillante pour qui la haine n'était qu'une raison secondaire.
+
+}
+[sha:4b444810d290132525e28e45de95d226d735959c]{
+-- Page 73, Offset 14290.
+-- それを間違えては、なにより、魔術に己を捧げた姉を侮辱する事になる。
+  Se tromper sur ce point serait la plus grande insulte qu'elle pouvait faire à sa sœur qui avait voué sa vie à la Magie.
+
+}
+[sha:a08a6d25657fb7f16b5202909b99b6245237d265]{
+-- Page 74, Offset 14291.
+-- そう口にしようとして、青子は止めた。
+  Ces mots allaient quitter ses lèvres quand Aoko s'interrompit.
+
+}
+[sha:080a28e0ff8840ac62740a7a0aae0807a4135e66]{
+-- Page 74, Offset 14292.
+-- 魔術師でもない草十郎に言っても意味がないし、彼にその事実を突きつけるのは面白くない。
+  Dire cela à une personne normale comme Sōjūrō serait inutile, et lui mettre ces faits sous le nez n'avait rien de plaisant.
+
+}
+[sha:913b31b165f4c37852351941a582c9fd68c6b10c]{
+-- Page 74, Offset 14293.
+-- 言語化できないが、それはしたくないと思ってしまった。
+  Elle ne pouvait exprimer sa pensée, mais surtout, elle avait fini par ne pas vouloir la lui révéler.
+
+}
+[sha:6243dca4de14e4954f98b8c0fb09a1ed24a50343]{
+-- Page 74, Offset 14294.
+-- なので―――
+  Et donc―――
+
+}
+[sha:951fcd0ef3fb49950e8c18c6b51a9617765e8b61]{
+-- Page 75, Offset 14295.
+-- 「ふーん。やけに姉貴の肩を持つじゃない、草十郎。
+「Hum. Tu défends drôlement ma sœur, Sōjūrō.
+
+}
+[sha:38925021b7d41d696fd97aa5229bd16daf76968f]{
+-- Page 75, Offset 14296.
+-- もしかして、一目惚れでもした？」
+  Tu n'aurais pas eu le coup de foudre, par hasard ?」
+
+}
+[sha:63f00133e3168ccb1663df5b7687374d40646d7c]{
+-- Page 75, Offset 14297.
+-- 自分でも卑怯と思う方法で、青子は逃げた。
+  Aoko éluda la question d'une façon qu'elle jugeait elle-même déloyale,
+
+}
+[sha:9bddb7c300f748377427da18e8d59242ac0190fe]{
+-- Page 75, Offset 14298.
+-- にやっと笑う青子。
+  puis elle sourit.
+
+}
+[sha:635097ee989dbc199ae36d6912100eb836d19bf8]{
+-- Page 76, Offset 14299.
+-- 「肩ぐらい持つ。あの人は、可哀相な人だからな」
+「Je peux bien faire ça. Elle est à plaindre.」
+
+}
+[sha:8806ca0310d9099b83c47d93ca1bfe37b29d07bd]{
+-- Page 76, Offset 14300.
+-- しかし、草十郎はまったく動じていなかった。
+  Cependant, Sōjūrō resta inébranlable.
+
+}
+[sha:1374f9d32d97a719a34e3bec54bbe0e39a816dbe]{
+-- Page 76, Offset 14301.
+-- そこまで言われては青子もカチンとくる。
+  Après avoir entendu sa dernière affirmation, Aoko finit par s'emporter.
+
+}
+[sha:49b97de5309867e559d3c817490e399dcec2cff6]{
+-- Page 76, Offset 14302.
+-- 「なぜ？」
+「Pourquoi ?」
+
+}
+[sha:5d284cf6aa2c0d803ea17d2b64a8c06e4a79f2bf]{
+-- Page 76, Offset 14303.
+-- 作り笑いを消して、真剣な眼差しで青子は問いかけた。
+  Le sourire forcé disparut des lèvres d'Aoko qui lui posa cette question avec un regard sérieux.
+
+}
+[sha:47a88cf4bbed81dbb4c4e3bf4dc26286e853e570]{
+-- Page 77, Offset 14304.
+-- 草十郎に<躊躇|ためら>いはない。
+  Sōjūrō ne montra pas la moindre hésitation.
+
+}
+[sha:9055484bf4dc71e2194c085c77f0b61beab4d1b1]{
+-- Page 77, Offset 14305.
+-- 彼は当然のように、
+  Il révéla alors la cible de sa colère :
+
+}
+[sha:28a25be226c5a3fe969496d1f4a815c7acd789f7]{
+-- Page 77, Offset 14306.
+-- 「だって実の妹と争わなくちゃいけないんだろ。
+「Elle va devoir affronter sa propre sœur, non ?
+
+}
+[sha:788a2913fad87a7583553696a98061db31b798cf]{
+-- Page 77, Offset 14307.
+-- それは可哀相な事じゃないのか？」
+  Ce n'est pas quelque chose de malheureux ?」
+
+}
+[sha:b8e45d0290a3d52b2f87c858d26dd0b38bb4f1e8]{
+-- Page 77, Offset 14308.
+-- 何に対して怒っているのかを明言した。
+  fit-il comme si c'était l'évidence même.
+
+}
+[sha:bbcabcebeb233ea7667101727af092a57a359bb0]{
+-- Page 78, Offset 14309.
+-- 「…………たしかに、ね」
+「............ En effet...」
+
+}
+[sha:1fc2b8b25565cf1c896d8f4cc37fe7495a652642]{
+-- Page 78, Offset 14310.
+-- 知らず、青子は目を細めた。
+  Aoko plissa les yeux inconsciemment,
+
+}
+[sha:aea8bfc2ad6d1f026e794f11956caccea8565706]{
+-- Page 78, Offset 14311.
+-- 胸を衝かれた事実を隠すように。
+  comme pour cacher le fait qu'il l'avait touchée en plein cœur.
+
+}
+[sha:7a24014d9a3fdb93f71fa9606b1381df8031608e]{
+-- Page 78, Offset 14312.
+-- コイツは毒だな、と思いながら。
+  Ce type ne me fait que du mal, pensa-t-elle.
+
+}
+[sha:dfd53690633fd5367f6f5bf14b26d79b9a7000e4]{
+-- Page 78, Offset 14313.
+-- 薬にもなりはしない。この男の言葉は、知らず知らずのうちに自分の弱い部分を浮き彫りにする、と。
+  Il ne m'apportera jamais aucun bien. Ses paroles font ressortir inconsciemment mes propres faiblesses, songea-t-elle.
+
+}
+[sha:38e18b3a15031b7dce9a45e995d8e4adf6122fcd]{
+-- Page 79, Offset 14314.
+-- 「だけど私も姉貴も、それをなんとも思ってないのよ。
+「Mais ma sœur et moi, nous nous contrefichons de tout ça.
+
+}
+[sha:f2507b7c6d291099a50d9045d243b979cdaf4ba8]{
+-- Page 79, Offset 14315.
+-- だって、それ以外に解決策はないんだから」
+  Après tout, il n'y a pas d'autre solution.」
+
+}
+[sha:3e269640cbf1e865577495f6662db1806ed90629]{
+-- Page 79, Offset 14316.
+-- 青子の答えに、草十郎はそうか、と表情を曇らせる。
+  “Je vois”, dit Sōjūrō, une expression sombre sur le visage.
+
+}
+[sha:c6406b68850d9c38eabb5186e1d4973b114c2333]{
+-- Page 79, Offset 14317.
+-- 「それも、悲しい話だね」と呟いて。
+  “Ça aussi, c'est triste”, murmura-t-il.
+
+}

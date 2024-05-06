@@ -1,0 +1,288 @@
+[sha:e626f7f01370cb549e2c3c344b7bb1e2da812831]{
+-- Page 0, Offset 8369.
+-- 草十郎を居間に残したまま、青子は自室に戻ってきた。
+  Aoko laissa Sōjūrō dans le salon et retourna dans sa chambre.
+
+}
+[sha:304d4ca294dc247a1c0dfc8e27c1a4da186100f5]{
+-- Page 0, Offset 8370.
+-- ドアを閉めベッドに腰を下ろすと、どっと疲れが押し寄せてくる。
+  Lorsqu'elle s'assit sur le lit après avoir fermé la porte, la fatigue s'abattit brutalement sur elle.
+
+}
+[sha:ae44fd11556cfef6c016cbc3219f35dcd3cb5623]{
+-- Page 0, Offset 8371.
+-- 草十郎には知るよしもないが、青子は青子で臨戦態勢だったのだ。
+  Sōjūrō ne pouvait pas le savoir, mais Aoko s'était préparée à se battre,
+
+}
+[sha:44005320a5f0d4dbe79b71cdd68139a027926171]{
+-- Page 0, Offset 8372.
+-- いつ有珠が直情にかられてプロイを持ちだしても、即座に反応できるように。
+  afin de pouvoir réagir sur-le-champ si jamais Alice s'emportait et lâchait un Ploy.
+
+}
+[sha:f11e0128cd3ad6435f30319692dbe2227c71d78f]{
+-- Page 1, Offset 8373.
+-- はあ、とため息をつく。
+  “Aah”, soupira-t-elle.
+
+}
+[sha:217fce6a3033295317252836882809315d0140a4]{
+-- Page 1, Offset 8374.
+-- それは有珠との暗闘による気疲れ―――ではなく。
+  Sa querelle secrète avec Alice―――n'était pas responsable de son surmenage.
+
+}
+[sha:d9a12eb5e338ce9d1ee0ede9dea9db40d438f13b]{
+-- Page 2, Offset 8375.
+-- 「……ちょっと突っぱねすぎたか？」
+「...... Peut-être ai-je été un peu trop dure ?」
+
+}
+[sha:e66877b11a78b9cdf727d4425ce33ea3e7ee10a7]{
+-- Page 2, Offset 8376.
+-- むう、と眉を<顰|ひそ>める。
+  Elle fronça les sourcils.
+
+}
+[sha:ca1431b262fde9c46a91a6bc5dda584eff5ca91e]{
+-- Page 2, Offset 8377.
+-- 彼女の頭を重くしているのは、まったく別の問題だった。
+  Un tout autre problème pesait sur sa conscience.
+
+}
+[sha:d602dbf52cd06de38d535f59237ca09b1e86b746]{
+-- Page 3, Offset 8378.
+-- 「……でも甘くするのはアイツのためにならないし。
+「...... Seulement, ce n'est pas trop dans son intérêt de le ménager.
+
+}
+[sha:8fbc360dd2d06c4016bf0e5304298e72deb54a0f]{
+-- Page 3, Offset 8379.
+-- 基本、大人しくしてもらった方がいいワケだし……」
+  Et de toute façon, il vaut mieux pour lui qu'il reste sage......」
+
+}
+[sha:cf60378e0b1cd1b49798305e25e62c10bb5460f0]{
+-- Page 3, Offset 8380.
+-- 安心されて我が家のように歩き回られるのも困る。
+  Il serait problématique qu'il se mette à arpenter la maison comme s'il était chez lui, l'esprit tranquille.
+
+}
+[sha:ef41224e8ce5a8a015aaa56004c00c4e3c23aeaf]{
+-- Page 3, Offset 8381.
+-- 彼にはおっかなびっくり、極力、自分の部屋に閉じこもってもらった方が安全なのだ。
+  Il était plus sûr qu'il reste, par tous les moyens, craintivement enfermé dans sa propre chambre.
+
+}
+[sha:9bc7884c2dff66dbf15b4566d27888d5fa887760]{
+-- Page 4, Offset 8382.
+-- 「ま、蒼崎は味方だ、なんて勘違いされても困るしね。
+「Et puis, ça m'ennuierait qu'il me prenne pour son alliée.
+
+}
+[sha:719abd6feeca1797655b4d50afe8fc47bdf729d7]{
+-- Page 4, Offset 8383.
+-- 有珠同様、人でなし扱いされた方が楽だわ」
+  Il est plus facile de me faire passer pour une créature sans cœur comme Alice.」
+
+}
+[sha:ed4ededcc78a3d9642edd43e60a02f187d30f783]{
+-- Page 4, Offset 8384.
+-- よし、と自分の選択に納得する青子。
+  “Bien”, fit Aoko, confortée dans sa décision.
+
+}
+[sha:e4c6a7e98293cc31393df4dbec29143114dcab1b]{
+-- Page 4, Offset 8385.
+-- 彼女の方針はおおむね正しい。
+  Son raisonnement était globalement juste.
+
+}
+[sha:87af2fa6b1a8addc57ce33ccb683ccc84b82bdbb]{
+-- Page 4, Offset 8386.
+-- 問題があるとすれば、
+  Si une chose devait poser problème,
+
+}
+[sha:ecbe123b5630777912d9234a6ee1ab7d421220cd]{
+-- Page 5, Offset 8387.
+-- 「すまない蒼崎。ひとつ聞きたい事があるんだが……」
+「Désolé, Aozaki. Il y a quelque chose que je voudrais te demander......」
+
+}
+[sha:ba2be5476996508b27c5c3df13792e3fb46c38f0]{
+-- Page 5, Offset 8388.
+-- 居間で別れてから十分弱。
+  ce serait l'imprudence de Shizuki Sōjūrō.
+
+}
+[sha:08aa61b0d3a43c5ed66f54080f623d05bbaad212]{
+-- Page 5, Offset 8389.
+-- 最速とも言える開き直りで青子の部屋を訪れた、静希草十郎の危機感の無さだった。
+  En effet, il rendit visite à Aoko dans sa chambre un peu moins de dix minutes après leur séparation dans le salon, en passant à une offensive que l'on pouvait qualifier des plus rapides.
+
+}
+[sha:02555e81a25140811f565ab18633e4f8277de658]{
+-- Page 6, Offset 8390.
+-- 「実は、外に出たいんだ」
+「En fait, je veux aller à l'extérieur.」
+
+}
+[sha:647e89b8d390426547cc915f0c5aa545d407bc42]{
+-- Page 6, Offset 8391.
+-- それがこの男の言い分だった。
+  Voilà ce que ce type avait à dire.
+
+}
+[sha:6bd5d938541916835894e931bfc574859351a202]{
+-- Page 6, Offset 8392.
+-- 青子には嫌味を返す気力もない。
+  Aoko n'avait plus la force de lui répondre avec sarcasme.
+
+}
+[sha:de5635b107d6b3a6abfeb3508896881c6fcca9c3]{
+-- Page 7, Offset 8393.
+-- 「洋館の中は歩き回らないし、用を済ませたらきちんと戻ってくる。ただ、門限とかあったら聞いておこうと思って」
+「Je ne me baladerai pas à l'intérieur de la résidence, et je te promets de rentrer dès que j'aurai fini ce que j'ai à faire. Seulement, je voulais savoir s'il y avait un couvre-feu.」
+
+}
+[sha:d05c52e5492d00010a34c765396757d497095ee1]{
+-- Page 7, Offset 8394.
+-- 「でも、アルバイトには行くのよね」
+「Mais tu vas quand même aller travailler, hein.」
+
+}
+[sha:59776740d96d681a1f32f793807a64771d9b209e]{
+-- Page 7, Offset 8395.
+-- なんで分かる!?　と驚く草十郎。
+  “Comment as-tu compris ?!” demanda Sōjūrō, surpris.
+
+}
+[sha:5d9c2a7ffc4980867f43bd470f3f11b9ef3290f9]{
+-- Page 7, Offset 8396.
+-- 正直、驚きたいのは青子の方である。
+  Celle qui voulait vraiment montrer sa surprise, c'était Aoko.
+
+}
+[sha:e9c91cc21bf651e574020e7428764f6401afe0a7]{
+-- Page 8, Offset 8397.
+-- 「……まあいいわ。
+「...... Bah, c'est bon.
+
+}
+[sha:9c6052f47301156226e119a8623699bc0a2831ca]{
+-- Page 8, Offset 8398.
+-- 基本、午後十時まで。その時間には必ず屋敷にいること。
+  Normalement, ça va jusqu'à dix heures du soir. Tu dois absolument être au manoir à cette heure-là.
+
+}
+[sha:14749c8007dab1ded150717ede78365109209900]{
+-- Page 8, Offset 8399.
+-- その後は夜勤にでかけるなり、庭でバーベキューするなり、なんでも好きにしていい。
+  Après ça, tu peux faire ce que tu veux. Te rendre à ton service de nuit ou faire un barbecue dans le jardin.
+
+}
+[sha:533b105621560d6a03592d4c74d3491b55fb3715]{
+-- Page 8, Offset 8400.
+-- それと、玄関に鍵はかかってないから」
+  Et aussi, l'entrée n'est pas fermée.」
+
+}
+[sha:5b4fa2a3dbc84fe1e39fc2e533a20f003c8608c2]{
+-- Page 8, Offset 8401.
+-- 「……気のせいじゃなければだけど。
+「...... Je me fais peut-être des idées, mais...
+
+}
+[sha:fed949ff0c6c7e810a47a03ac1669106fb9d308c]{
+-- Page 8, Offset 8402.
+-- 蒼崎、すごく怒ってないか？」
+  Aozaki, tu ne serais pas vachement en colère ?」
+
+}
+[sha:a09da90a25394463f050f6e00034792a755bfa69]{
+-- Page 9, Offset 8403.
+-- 「アンタ相手に気を遣った自分に<呆|あき>れ果ててるだけよ。
+「Je suis juste sidérée de m'être tracassée pour toi.
+
+}
+[sha:e25ead6dad2368fd5c0b9b10c963981048845221]{
+-- Page 9, Offset 8404.
+-- 外に出るのはいいけど、その前にこの<錠剤|じょうざい>飲んで」
+  Tu peux sortir, mais avant ça, prends ce comprimé.」
+
+}
+[sha:8a3a8a415d20948c81872eba0c377dff5864c5c6]{
+-- Page 9, Offset 8405.
+-- 「？？」
+「??」
+
+}
+[sha:08c9bcd8eb3991de06d931416cfded242a1dd557]{
+-- Page 9, Offset 8406.
+-- 青子から差し出された紫色の錠剤を、半信半疑で草十郎は口に入れた。
+  Sōjūrō, sceptique, mit dans sa bouche la pilule violette qu'Aoko lui avait tendue.
+
+}
+[sha:1bcfcf3810ecef3d85c81d8f71255a0e842a3551]{
+-- Page 9, Offset 8407.
+-- 体に<良|い>い薬か何かだろう、と思いこんでいる風だ。
+  Il avait l'air de croire qu'il s'agissait d'un médicament bon pour le corps ou quelque chose comme ça.
+
+}
+[sha:3d179bf92d983ae1836b1f3f985d5fcf3c24d60d]{
+-- Page 10, Offset 8408.
+-- 「それじゃ行ってくる。色々ありがとう、蒼崎」
+「Allez, j'y vais. Merci pour tout, Aozaki.」
+
+}
+[sha:6f7b16966f449abe3e4bc78834fc0134ca1ded0f]{
+-- Page 10, Offset 8409.
+-- 「あっそ。今度は窓から出ていかないでよね」
+「Ouais ouais. Cette fois, ne sors pas par la fenêtre.」
+
+}
+[sha:d72aac905084fba8a171e9cc0c70fe19a5461e75]{
+-- Page 11, Offset 8410.
+-- 何が嬉しいのか、あはは、などと平和ぼけに笑って草十郎はホールへ向かっていった。
+  Sōjūrō rit comme un pauvre idiot et se dirigea vers le couloir, à se demander ce qui pouvait bien le rendre heureux.
+
+}
+[sha:6ebeb79de7040e94afc6cdedaf94af0f05a0199b]{
+-- Page 11, Offset 8411.
+-- その背中を、青子は<半|なか>ば冷たく、半ば不思議そうに観察する。
+  Aoko l'observa partir, mi-glaciale mi-étonnée.
+
+}
+[sha:9227041cc8a936d7240c51e8e03a83c3a8f1b910]{
+-- Page 12, Offset 8412.
+-- 「ま、予定が半日早まっただけか。
+「Je le lui ai donné juste une demi-journée plus tôt que prévu.
+
+}
+[sha:98d92a060228e2bdd3b8883f77f970e368061cd8]{
+-- Page 12, Offset 8413. Glued. Mods: @x.
+-- あの薬を飲ませるの、明日の朝にしてあげようと思ったのに」
+Je pensais lui faire avaler ce médicament demain matin.」
+
+}
+[sha:1b156670ac9b22524e94a9ab8aef46c912021160]{
+-- Page 12, Offset 8414.
+-- やれやれと髪をかいて自室に戻る。
+  Fatiguée, elle retourna dans sa chambre, ses cheveux ondoyant.
+
+}
+[sha:1d70e1fa554bf59d8e3b083f25d9595d899a015f]{
+-- Page 12, Offset 8415.
+-- 彼の行動原理なんて考えるまでもない。
+  Inutile qu'elle réfléchisse aux principes régissant sa conduite.
+
+}
+[sha:81d5f41eeddb758e60273c5427a05a9c231c9d9f]{
+-- Page 12, Offset 8416.
+-- おおかた、二日間寝こんでいた自分の体より、アルバイトを休んでいた事の方が気になっていたのだろう。
+  Il était probablement plus préoccupé par son absence au travail que par l'état de son propre corps alité pendant deux jours.
+
+}

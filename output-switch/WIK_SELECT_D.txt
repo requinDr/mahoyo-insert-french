@@ -1,0 +1,24 @@
+[sha:fc508417e5deb56f0cbd4abac5230a752c5a80a9]{
+-- Page 15, Offset 23917. Mods: @e.
+-- ～選択肢Ｄ～
+-Choix D-
+
+}
+[sha:78afd8dcbf2b264b87b5b8a1a4f493f0b3ae929b]{
+-- Page 15, Offset 24023. Choice.
+-- このまま雨脚は強くなるな、と思った。
+Je songeai que l'averse risquait d'empirer.
+
+}
+[sha:2487af003523cac79e39b06837cff2104a6dc242]{
+-- Page 15, Offset 24024. Choice.
+-- このまま雨は雹になるな、と思った。
+Je songeai qu'il risquait de grêler.
+
+}
+[sha:fc1b773752bfd36702359f02ca87a090c4efc1d4]{
+-- Page 15, Offset 24025. Choice.
+-- このまま帰ってしまおうか、と思った。
+Je songeai qu'il vaudrait mieux rentrer chez moi.
+
+}

@@ -1,0 +1,846 @@
+[sha:1c0c929741aa80bd4e26cd00552f5c66c15c272e]{
+-- Page 0, Offset 19795.
+-- コンチハ。
+      'jour.
+
+}
+[sha:158179b0f2a474ffb5ab7e478936c48bee7aa78f]{
+-- Page 0, Offset 19796.
+-- 日課のマンウォッチをこなし、
+      L'être bleu a achevé son observation quotidienne et se tient,
+
+}
+[sha:4a4702c435d557e990d97d51d8e657228348be53]{
+-- Page 0, Offset 19797.
+-- さっそうと園に降り立つ青い影。
+      fringant, dans le jardin d'enfants.
+
+}
+[sha:207235f56df9ef16bc49b72b03203dde6aa43986]{
+-- Page 1, Offset 19798.
+-- さしずめ、鳥は舞い降りた、というところッスか。
+    Donc, on peut dire que l'oiseau est arrivé.
+
+}
+[sha:fbc28cbca3a50acbe0674a127deceeed296091ac]{
+-- Page 1, Offset 19799.
+-- 今回はここ、アリスさんが指定した
+    Cette fois aussi, on va commencer la leçon ici,
+
+}
+[sha:0c7a35e546d3d05a3b337b856491df34a05e9882]{
+-- Page 1, Offset 19800.
+-- 特設会場でレクチャーを始めるんスけど……
+    dans le lieu que Mam'zelle Alice a choisi, mais...
+
+}
+[sha:859623ea88de1fe706e48105aa3d951b682c6e32]{
+-- Page 2, Offset 19801.
+-- ここ、どう見てもフツーの園ッスよね。
+    Selon toute vraisemblance, c'est un jardin normal, hein.
+
+}
+[sha:e4dc8365c0e3731bb69e35fcd60f502db3a8f561]{
+-- Page 2, Offset 19802.
+-- アリスさんはどこに……
+    Où est Mam'zelle Alice......
+
+}
+[sha:dc54ad9f37a683b79eca541a0b8aeab6298edd61]{
+-- Page 3, Offset 19803.
+-- 遅かったわねロビン。
+      Tu es en retard, Robin.
+
+}
+[sha:6d4f2f01131658ef30be0f33f6a9e0b671ffced0]{
+-- Page 3, Offset 19804.
+-- 出演者としての自覚はあるのかしら。
+      Je me demande si tu es bien conscient de ton rôle d'interprète.
+
+}
+[sha:11cd5516fec52b0fb8343ee67afc4e9d369a90aa]{
+-- Page 4, Offset 19805.
+-- ハッ！？　声はすれども姿はなしッス！？
+  Hein ?! J'entends une voix, mais y a personne ?!
+
+}
+[sha:23ec2783ba2e8e54039b09928da645848cd04e2d]{
+-- Page 4, Offset 19806.
+-- ここには園児しかいないというのに、
+  Ici, il ne devrait y avoir que des élèves de maternelle.
+
+}
+[sha:2e0a9d8cf8446aec9e6e4024e27e3ca250742a67]{
+-- Page 4, Offset 19807.
+-- アリスさんは何処に！？
+  Où est Mam'zelle Alice ?!
+
+}
+[sha:9a858970576fdf903e2ec25d6c8e2d20c1e94cf1]{
+-- Page 5, Offset 19808.
+-- ここよ。
+            Ici.
+
+}
+[sha:2863d1082203d9ec253ab291ce685e2a0d0dd19c]{
+-- Page 5, Offset 19809. Mods: @e.
+-- なぜなにー、プロイー。
+    Tout sur les Ploy.
+
+}
+[sha:99cbfcb27b31774560d76fecc6229051f63691d1]{
+-- Page 5, Offset 19810.
+-- ―――。
+                    ―――
+
+}
+[sha:d0750f7720a98d534ebd09592fc2df0015109ee5]{
+-- Page 6, Offset 19811. Mods: @n.
+-- なぜなにー、プロイー。
+      Tout sur les... Ploy.
+
+}
+[sha:fa7c458043c4dd12e3db0720d5b253f8548cb34e]{
+-- Page 6, Offset 19812.
+-- …………なぜ黙っているのかしら、ロビン？
+      ............ Pourquoi restes-tu silencieux, Robin ?
+
+}
+[sha:4f3577b02bea2c88de936e71b46dc7ba3746d2db]{
+-- Page 7, Offset 19813.
+-- いや、別になんでもないッス。
+    Oh, c'est vraiment trois fois rien.
+
+}
+[sha:1090ad1b14aadcab120c60956b33ad782afbac65]{
+-- Page 7, Offset 19814.
+-- ジブン的には、何の違和感もなかったところが
+    C'est juste que je m'effraie moi-même
+
+}
+[sha:1427ac2bf483fc41f92c140ed53da01edcef3786]{
+-- Page 7, Offset 19815.
+-- よけい怖かっただけッス。
+    de ne pas trouver ça zarbi.
+
+}
+[sha:f3e39b12a52a05e80dc57b45dcbf8aebe375d271]{
+-- Page 8, Offset 19816.
+-- さすがマイ天使であるところのアリスさん。
+    C'est bien, Mam'zelle Alice, My Angel.
+
+}
+[sha:32b31e7a392e287b43a433f417185eba6cd5d688]{
+-- Page 8, Offset 19817.
+-- なにを着てもヤバイぐらい似合うッス。
+    Peu importe ce que vous portez, ça vous va à fond.
+
+}
+[sha:e0129c98fae1860bfd018a4499cdffef59a7b542]{
+-- Page 8, Offset 19818.
+-- ほんとバイヤー。
+    Oui, à donf !
+
+}
+[sha:f7741f784ac5a0012e3d5920f54fce18d7828b2b]{
+-- Page 9, Offset 19819.
+-- ところで。
+    Au fait.
+
+}
+[sha:9b70bf94212fe16c7d010b30cc3b13890060f723]{
+-- Page 9, Offset 19820.
+-- 素朴な疑問なんスけど、ここで何を？
+    C'est un détail sans importance, mais que faites-vous ici ?
+
+}
+[sha:c83174dfd07e0dd723f779c5c8a0106bbd6d1cbf]{
+-- Page 9, Offset 19821.
+-- あと何で？
+    Et pourquoi ?
+
+}
+[sha:0ae1b2d8341443bd72c67ddad12723c18774312d]{
+-- Page 10, Offset 19822.
+-- マンネリズムはよくないでしょう？
+    Il ne faut pas tomber dans la routine, non ?
+
+}
+[sha:07a33864990809281f018797821422fc18ac537a]{
+-- Page 10, Offset 19823.
+-- オマケコーナーだからって素材を使い回すのはわたしの美学に
+    Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut réutiliser les mêmes décors.
+
+}
+[sha:5771fb1d0c6cf25639f18b8b604cef41316d2141]{
+-- Page 10, Offset 19824.
+-- 反するわ。なんとか道場じゃあるまいし。
+    Cela va à l'encontre de mon éthique. On n'est pas dans un certain dojo.
+
+}
+[sha:f76c2961dcae99c38c3672c94856bc310fcdcc9e]{
+-- Page 11, Offset 19825.
+-- だから場所を変えたッスか。
+    C'est pour ça que vous avez changé de lieu.
+
+}
+[sha:908a4ed6a7cd5b93dc088e378a9dc9eb74696d2f]{
+-- Page 11, Offset 19826.
+-- なるほど。それはおおむね理解したッス。
+    Je vois. J'ai à peu près compris.
+
+}
+[sha:49506c8ec631d2208205cfe061334c77f7188a17]{
+-- Page 11, Offset 19827.
+-- 青子さんもビックリの浪費家ぶりっス。
+    Cet entrain surprendrait même Mam'zelle Aoko.
+
+}
+[sha:f1402af757a2f7ffe431489a0174f921007cd7c5]{
+-- Page 12, Offset 19828.
+-- でもジブン、スモックよりワンピの方が好みなんスよね。ドレスみたいなの。女神っぽいの。いや、スモックがダメという話ではなくてッスね、あくまでイメージの問題？　絵画にした時の説得力？
+    Mais perso, je préfère plutôt les barboteuses aux blouses, hein. Vous savez, genre des robes. Genre celles d'une déesse. Enfin, c'est pas que j'aime pas les blouses, hein ? C'est juste un problème d'image, la présence qu'elles dégagent sous forme de dessins.
+
+}
+[sha:34be6d4453c91fd29a6d82cc2d075ed75ac13e4b]{
+-- Page 12, Offset 19829.
+-- 『森と鳥と少女』みたいな？ほら、『鳥と園児』じゃ園児のインパクトが強すぎて鳥にフォーカスがあたらないっつーか、
+Par exemple, “La forêt, l'oiseau et la fillette” ? Vous voyez, dans “L'oiseau et l'élève de maternelle”, l'image que renvoie l'élève est tellement forte qu'on peut pas se concentrer sur l'oiseau.
+
+}
+[sha:2c8f5fd0e8b511d7851d7f393d17196ba7e03521]{
+-- Page 13, Offset 19830.
+-- いけない。菓子作りの途中だったわ。
+      Zut. J'étais en pleine préparation de pâtisseries.
+
+}
+[sha:96ffa854191ad71a6bc09188af4e974fc99f33c4]{
+-- Page 14, Offset 19831.
+-- ナチュラルに無視。
+Elle m'ignore royalement.
+
+}
+[sha:35cff42e0a817f846b9481f2d3d4d51f998158cc]{
+-- Page 14, Offset 19832.
+-- ところで、アリスさんは普段なにをやってるッスか？
+Au fait, d'habitude, que faites-vous après les cours ?
+
+}
+[sha:1e900aaf9d7a63d04dc5a4adf52b814ad2f3b53a]{
+-- Page 15, Offset 19833.
+-- 青子さんは生徒会。
+    Mam'zelle Aoko a le conseil étudiant.
+
+}
+[sha:1e8a64780f2b65917795597c2e07785d142c2335]{
+-- Page 15, Offset 19834.
+-- シャバ僧はアルバイト。
+    L'idiot, ses jobs.
+
+}
+[sha:8f27fe8ff3778bbabb021b45a032bd22611bed2a]{
+-- Page 15, Offset 19835.
+-- アリスさんは帰宅部ッス？
+    Et vous, vous êtes dans le club du retour à la maison ?
+
+}
+[sha:77e8e90030fc8418fbcdf05dd7e8e95314b804a6]{
+-- Page 16, Offset 19836.
+-- 見ての通りよ。
+ Tu peux le constater par toi-même.
+
+}
+[sha:df91ff2202db40ca2b264a3d041a5cc09a0dbcb9]{
+-- Page 16, Offset 19837.
+-- 時間があればプロイを作っているわ。
+ Dès que j'en ai le temps, je fais des Ploy.
+
+}
+[sha:6b17d6da22b7e5833a65622c5889ec2f2b16352e]{
+-- Page 17, Offset 19838.
+-- わー。
+  Ouaah.
+
+}
+[sha:5336187c695544af3b92bda0904e3d2bdd46dbc3]{
+-- Page 17, Offset 19839.
+-- まんま、童話の魔女のイメージっス。
+  C'est à l'image des sorcières des contes de fées.
+
+}
+[sha:d7545fa9a4f71ce6c5959a894bae8b35e6946d4d]{
+-- Page 17, Offset 19840.
+-- プロイって鍋で作ってたッスか。
+  Les Ploy se fabriquent dans une marmite ?
+
+}
+[sha:208999b8c30afcac6d4314cc8979dbfa1eb92fbc]{
+-- Page 18, Offset 19841.
+-- っていうか、この匂いはチョコレイト？
+        En fait, cette odeur, c'est du chocolat ?
+
+}
+[sha:2c7f95aa9767ca5975d85753fa96ba91dd19d5a7]{
+-- Page 18, Offset 19842.
+-- まさか……
+        Pas possible......
+
+}
+[sha:e392334f0df4ead466698177fdfd8b68654896a8]{
+-- Page 18, Offset 19843.
+-- プロイってお菓子だったんスかーーーー！？
+        Les Ploy étaient des pâtisseriesーーーー?!
+
+}
+[sha:3891b181daf91123bb7a18ef9ff5568fc8e32380]{
+-- Page 19, Offset 19844.
+-- ……アナタね。プロイのくせに、
+    ...... Toi alors. Tu es un Ploy,
+
+}
+[sha:1775d8d82a4f17bced60ea901059a6d56064eea6]{
+-- Page 19, Offset 19845.
+-- プロイの仕組みを知らないの？
+    et pourtant, tu ne connais pas leur mécanisme ?
+
+}
+[sha:dc7fdf3f1718b2ee7cb6f14301ce906670ff794c]{
+-- Page 19, Offset 19846.
+-- 気付きたくはなかったけれど、やっぱりただの鳥だった？
+    Je ne voulais pas le reconnaître, mais en fin de compte, tu n'es vraiment qu'un oiseau ?
+
+}
+[sha:86d069668dda10f630560c946b6bb3ba7396151c]{
+-- Page 20, Offset 19847.
+-- そのあたり、ジブンでもよく分からないッス。
+  Pour ça, même moi, je n'sais pas trop.
+
+}
+[sha:87b2a0b4c528054f2ecf3d51a7dc2f765e1b0fae]{
+-- Page 20, Offset 19848.
+-- でもプロイの仕組みは分かるッスよ。
+  Mais pour le mécanisme des Ploy, je l'sais.
+
+}
+[sha:ca9811cf2411cf9fca8362a7f96e1006fc1ff2b0]{
+-- Page 20, Offset 19849.
+-- なぜなら―――
+  Parce que―――
+
+}
+[sha:ad01705e3597da94c0033ffd2dc7f22e6eb6aafc]{
+-- Page 21, Offset 19850.
+-- なぜなら、これからアリスさんが
+      Parce que dès maintenant,
+
+}
+[sha:63f1c289de448b49f3e4a22219a9371203e94581]{
+-- Page 21, Offset 19851.
+-- 海より深く<宙|そら>より広く、
+      vous allez donner une explication cool,
+
+}
+[sha:b214543519aab19fa43222c8901889c10e20dc7e]{
+-- Page 21, Offset 19852.
+-- かっちょいい説明してくれるからッス！
+      plus profonde que l'océan et plus vaste que le ciel !
+
+}
+[sha:ebe7dcaa640329face1702f14e1cf9da6af24cd2]{
+-- Page 22, Offset 19853.
+-- 本編で説明している通りよ。
+    C'est comme je l'ai expliqué dans l'histoire principale.
+
+}
+[sha:cc5c2f866f0ad01a4b842be74f21b170747cd5b5]{
+-- Page 22, Offset 19854.
+-- 以上、解散。
+    Terminé, dispersion.
+
+}
+[sha:63f75d7b6f52233e95ca14dca162f2c567a31b8d]{
+-- Page 23, Offset 19855.
+-- このコーナーの根底を崩す一言ッスね。
+  Ces paroles réduisent à néant l'intérêt même de c'coin sur les Ploy.
+
+}
+[sha:85fcdf8aca547b5222e9fdc76e737cea1329c4f8]{
+-- Page 24, Offset 19856.
+-- 何か意見があって？
+          As-tu une objection à faire ?
+
+}
+[sha:4614766767ef35f49f7c6d05585679b8d3b6004e]{
+-- Page 25, Offset 19857.
+-- ないッス。
+    Non.
+
+}
+[sha:1eec8547f1759da8eb773d449543e1121639365c]{
+-- Page 25, Offset 19858.
+-- でも、せめて概要だけでもレクチャーしてほしいッス。
+    Mais j'voudrais au moins avoir un résumé.
+
+}
+[sha:d4a54b780f9051618b416d4786826b9808192626]{
+-- Page 25, Offset 19859.
+-- これじゃこのコーナー、なんとか道場以下ッスよ？
+    À ce rythme, c't'partie va être pire qu'un certain dojo !
+
+}
+[sha:a9f23e165a0b651c0a617730c1076c1476107958]{
+-- Page 26, Offset 19860.
+-- ………………それは避けたいわね。
+............... Je préférerais éviter cela.
+
+}
+[sha:abbd985eab52606d214d0e9dd8869e33b14fed28]{
+-- Page 26, Offset 19861.
+-- それじゃあ……
+Dans ce cas......
+
+}
+[sha:ad13317c3c1ce28f2b2a0775e193209fd05d7f7b]{
+-- Page 27, Offset 19862.
+-- これがプロイキッシャーの綴り。
+      C'est l'orthographe de Ploy Kickshaw.
+
+}
+[sha:7fd1b6661cbd4344573de95d527debe4b3397851]{
+-- Page 27, Offset 19863.
+-- これだけで説明になると思うのだけど、どう？
+      Rien que ça donne déjà une assez bonne explication. Qu'en penses-tu ?
+
+}
+[sha:e1944f1b0d32aae6f956098d2b4aaf7e70175193]{
+-- Page 28, Offset 19864.
+-- ぷろい？　きっくしゃー？
+          Ploy ? Kickshaw ?
+
+}
+[sha:21a38be15659397e2869e9d467dffb976a3de117]{
+-- Page 29, Offset 19865.
+-- キックシャーのクはほとんどサイレントよ。
+      Le “ck” de Kickshaw est pratiquement muet.
+
+}
+[sha:58802e036aa76c7afd93c03e55d02c0f348771ff]{
+-- Page 29, Offset 19866.
+-- 西欧圏の、子供のオモチャ、子供だまし、軽蔑的に珍しいもの、
+      En Europe de l'Ouest, ça a le sens de jouet d'enfant, de farce enfantine,
+
+}
+[sha:85b79c67a86e1366c5d54b120cedb6ee2b5afe04]{
+-- Page 29, Offset 19867.
+-- といった意味ね。
+      ou de quelque chose de rare et méprisé.
+
+}
+[sha:27e450d2f3dbaf4f3cf9a521a241c3cc4bb13f35]{
+-- Page 30, Offset 19868.
+-- あ。知ってるッス、
+  Ah. Je sais.
+
+}
+[sha:1d408bf2e3f3e23aa7e3c9fc1abceb1a9d08807c]{
+-- Page 30, Offset 19869.
+-- それ変人の意味でも用い―――
+  C'est aussi dans le sens d'excentri―――
+
+}
+[sha:4814ecad6ae59da2eb66f48389de52b6e5b5319b]{
+-- Page 31, Offset 19870.
+-- プロイも同様に西欧圏のオモチャで、
+      De même, Ploy est un jouet dans la culture européenne,
+
+}
+[sha:6991cdd6e501ee68a735aa34179bb74a5239dbbd]{
+-- Page 31, Offset 19871.
+-- こっちは戦争ごっこに使われるもの。
+      et ici, c'est ce qu'on utilise pour jouer à la guerre.
+
+}
+[sha:88fba2cd6c7acd4152e0e54e14c456094416a81b]{
+-- Page 31, Offset 19872.
+-- 子供の教育用玩具の総称ね。
+      C'est un terme général désignant un jouet éducatif.
+
+}
+[sha:22d54c09be1db009dee5096f58ac126cb0bc6b3f]{
+-- Page 32, Offset 19873.
+-- 戦略、戦術の俗語でもあり、
+      C'est aussi un mot familier pour “stratagème”, “tactique”,
+
+}
+[sha:1ec5b702364e711d7ceac7107115186f42f427db]{
+-- Page 32, Offset 19874.
+-- スコットランドだと……な意味もあるけれど、
+      et en Écosse, ça peut aussi dire......
+
+}
+[sha:9d0565d8178a64daa1a9d3a25a7bff11a9c2275c]{
+-- Page 32, Offset 19875.
+-- それは忘れて。
+      non, en fait, oublie ça.
+
+}
+[sha:965b33bda79f8bee2e9fcd7ec886c9125e246833]{
+-- Page 33, Offset 19876.
+-- ふむ。この二つの単語をむりやり繋げたのが
+        Hmm. En combinant ces deux mots,
+
+}
+[sha:70e11bf7e8604c4e4b875f8e60b1d98d1f032910]{
+-- Page 33, Offset 19877.
+-- プロイキッシャーなんスね。
+        ça donne le terme “Ploy Kickshaw”.
+
+}
+[sha:ff48c83eb76054389cebda224d3421ad87be5a02]{
+-- Page 33, Offset 19878.
+-- もしかしてアリスさんオリジナル？
+        C'est vous qui l'avez inventé ?
+
+}
+[sha:f5f23ceed7e734d1b21c32ad34904706d9eebcff]{
+-- Page 34, Offset 19879.
+-- ……わたしの母に伝わっていた独自の魔術系統よ。
+...... C'est la Magie propre à la lignée de ma mère.
+
+}
+[sha:675ab0a9e93584ab83474a5e290da9f4468e6ca5]{
+-- Page 34, Offset 19880.
+-- 魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
+Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en obtenir des privilèges et de l'argent.
+
+}
+[sha:768e3d5a4ed9bcbca70bd7a4c8e00b5efe1fa801]{
+-- Page 35, Offset 19881.
+-- まあ、公開したところでアリスさんにしか
+   Enfin, même si vous les présentiez publiquement,
+
+}
+[sha:09bffed9ad90ccc66a86175d0d57fd68a2921501]{
+-- Page 35, Offset 19882.
+-- 扱えないんですけどね！
+   il n'y a que vous qui puissiez les utiliser !
+
+}
+[sha:cbdec3751f748bd19f063da35095fe7368e014b1]{
+-- Page 35, Offset 19883.
+-- マインスターの血に縛られてるッス！
+   Ils sont liés au sang de Meinster !
+
+}
+[sha:16ce5622edc85c916d01c7af53689f02cb9c1863]{
+-- Page 36, Offset 19884.
+-- ……アナタ、
+    ...... Toi,
+
+}
+[sha:472f0f8e80868c11a91adf2137b4d5940a61725f]{
+-- Page 36, Offset 19885.
+-- 本当はちゃんと分かっているんじゃないの？
+    en fait, tu sais très bien de quoi tu parles ?
+
+}
+[sha:51b5f54aafcaf8c40bbc1d118e764658e5a360db]{
+-- Page 37, Offset 19886.
+-- ？　すまないッス、今なに言ったのか忘れたッス。
+? Désolé, j'ai oublié c'que j'viens de dire.
+
+}
+[sha:522275dd7aa6f36b8f5ec1a49a98da92855e4beb]{
+-- Page 37, Offset 19887.
+-- ジブン、昔のコトは未来よりあやふやッスから。
+Pour moi, les choses du passé sont plus vagues que l'futur.
+
+}
+[sha:ca72f2c4bb70b49f9a57b46163b72b209643724c]{
+-- Page 38, Offset 19888.
+-- ……。
+  ......
+
+}
+[sha:764175f8340b72a4fa4d80233537090eaba8d54b]{
+-- Page 38, Offset 19889.
+-- マインスターというのは、なに？
+  Qu'entends-tu par Meinster ?
+
+}
+[sha:13bd22f017eb571009f7e0dffd6fd3e470babeb4]{
+-- Page 39, Offset 19890.
+-- マイ女神ッス。アリスさんの母君ッスね。
+        My Godness. La mère de Mam'zelle Alice.
+
+}
+[sha:a20e8fe57be9c62e272d79dae5a3844957a8dc33]{
+-- Page 39, Offset 19891.
+-- あと、純血の魔女とか、いかにもなセカンドネームがあったッス。
+        Elle avait des surnoms du genre “la Sorcière au sang pur”.
+
+}
+[sha:612712e0926c1ec7c7b087621fd6cd0a34e4a96d]{
+-- Page 40, Offset 19892.
+-- でも母君、ミーハーだったんスよね。
+    Mais votre mère était une fashion victim.
+
+}
+[sha:d5ec5c216b73fbe1d88b356ab2f699988b140467]{
+-- Page 40, Offset 19893.
+-- 流行り物に弱いというか。
+    Elle avait un faible pour les choses en vogue.
+
+}
+[sha:94f6aa897014a28028e62ae8683536659de8ebd7]{
+-- Page 40, Offset 19894.
+-- ルイスキャロルの大ファンでもあったッス。
+    C'était aussi une grande fan de Lewis Carroll.
+
+}
+[sha:00f22c1e23cc52a8da9119a8adb735cf78d80d96]{
+-- Page 41, Offset 19895.
+-- 魔女は自分の代で、先代から遺されたプロイを
+    Les sorcières personnalisent les Ploy
+
+}
+[sha:f17fbfd2e693221e596b7d176fe4a14da422775b]{
+-- Page 41, Offset 19896.
+-- 自分用にチューンナップするッスよ。
+    que la génération précédente leur a laissés.
+
+}
+[sha:207ca152ff958d8a26f01850bac45ecd2b06ffe4]{
+-- Page 41, Offset 19897.
+-- 母君、キャロルにはまってたからあの始末ッス。
+    C'est parce qu'elle était accro à Carroll qu'ils ont fini dans cet état.
+
+}
+[sha:5a162483046479f4bc21624846bebfbe98471998]{
+-- Page 42, Offset 19898.
+-- 禁を犯した時も、ノータイムで
+      Elle en est arrivée à un tel point que lorsqu'elle a commis le péché de chair,
+
+}
+[sha:9347626178c0e5ff690e02244f1273b3d3606b96]{
+-- Page 42, Offset 19899.
+-- 「名前はアリスにしましょう」なんて
+      elle a immédiatement dit en souriant :
+
+}
+[sha:133a22a73c9b61065e54036620c81067a77160b8]{
+-- Page 42, Offset 19900.
+-- 微笑んだぐらいッスから！
+      “son nom sera Alice”.
+
+}
+[sha:603dcba70d40659b150a7b4be3f7dffc6a61ae04]{
+-- Page 43, Offset 19901.
+-- ……あきれた。
+    ...... Je suis sidérée.
+
+}
+[sha:e9a62f7e1b074754ee6dc0ecb08944642721f3ba]{
+-- Page 43, Offset 19902.
+-- 少女趣味のかたまりだったのね、あの人。
+    C'était un amoncellement de niaiseries.
+
+}
+[sha:b908e189f742bdb6475c141429c75f97fda6beb7]{
+-- Page 44, Offset 19903. Mods: @k, @e.
+-- ハハハなに言ってるッスか、
+  Ha ha ha, qu'est-ce que vous racontez.
+
+}
+[sha:ab17e64335bc247b23a27ca654391e5a774c99f1]{
+-- Page 44, Offset 19904. Mods: @k, @e.
+-- シャバ僧が帰ってくると必ず目を覚ます
+  Vous qui vous réveillez systématiquement
+
+}
+[sha:f0f21a6379a069fdea4614e8a06a0ecad1ef3863]{
+-- Page 44, Offset 19905. Mods: @k, @e.
+-- アリスさんも
+  dès que l'idiot rentre à la maison,
+
+}
+[sha:b3923dab4df063dc5a30df2e22cc3584ff43e4ee]{
+-- Page 44, Offset 19906. Glued. Mods: @x, @n.
+-- 負けてはいな
+vous n'avez rien à lui envi...
+
+}
+[sha:5428051b1bf86f2a705fb3d72cf13289c810bffc]{
+-- Page 44, Offset 19907. Glued.
+-- ぐぼぁ!?
+Guah ?!
+
+}
+[sha:fc6d1e2f1bbabc6ee92389e49f68b28ee1fed121]{
+-- Page 45, Offset 19908.
+-- 次回のレクチャーは
+        À la prochaine leçon, faisons un cours
+
+}
+[sha:e39dc9ed37c48a0d6e7c47f240310abb41b0eb44]{
+-- Page 45, Offset 19909.
+-- 『プロイキッシャー：個別』にしましょう。
+        “Ploy Kickshaw, cas particuliers”.
+
+}
+[sha:f4f0b3f5a04fff1ecd23e1a1bd8cdc9e1eca7473]{
+-- Page 46, Offset 19910.
+-- それじゃロビン、お店の予約をしておいて。
+ Alors Robin, occupe-toi de la réservation au restaurant.
+
+}
+[sha:9fd6d689bc50126fe105b21b2e6935446cc18ea2]{
+-- Page 46, Offset 19911.
+-- それが済んだらチョコレイトの湯煎。
+ Quand tu auras fini, réchauffe le chocolat.
+
+}
+[sha:908475d8d19e3779a9efc19540b45e5146d1599a]{
+-- Page 46, Offset 19912.
+-- それが済んだら鏡の<磨|みが>き。
+ Et après, tu poliras le miroir.
+
+}
+[sha:9a9ae35d97d092bc13d0b4ded12c6feeb9155cd1]{
+-- Page 47, Offset 19913.
+-- それが済んだら……そうね。
+  Et ensuite...... voyons.
+
+}
+[sha:212668b0312c754b0904ee68f6d90021a74b0395]{
+-- Page 47, Offset 19914.
+-- 電柱にでもぶつかって、盛大に死んでちょうだい。
+  Écrase-toi contre un poteau électrique et meurs de façon théâtrale.
+
+}
+[sha:32ef314645441db5978dba83c37fc91ed87b2d04]{
+-- Page 48, Offset 19915.
+-- いつも通りってコトッスね！
+      Comme d'habitude, donc, hein !
+
+}
+[sha:53fb8e4b5e7cb54fb681c0aa09483103eab85c1a]{
+-- Page 48, Offset 19916.
+-- アリスさん、なんか当たりきついッス！
+      Mam'zelle Alice, vous êtes cruelle !
+
+}
+[sha:aeb55580ebcd44ba0a96814c46026965a5f08e93]{
+-- Page 49, Offset 19917.
+-- わたし、本来はこういうキャラよ。
+À l'origine, je suis ce genre de personnage.
+
+}
+[sha:966fd9b048a3d333bc5fed68db6e6e8716e256cd]{
+-- Page 49, Offset 19918.
+-- 本編では面倒だから黙っているだけ。
+Dans l'histoire principale, je me tais seulement parce que c'est éreintant.
+
+}
+[sha:19f5db1114fe836cfebb7269d4676c4e26bc1dff]{
+-- Page 50, Offset 19919.
+-- 面倒って、なにがッスか。
+    Éreintant ? Quoi donc ?
+
+}
+[sha:baa347336d5bc582dcb41393ef6a69b03f2dbdfb]{
+-- Page 51, Offset 19920. Mods: @n.
+-- 貴方のような
+Par exemple, brûler des calories
+
+}
+[sha:b203cc8a01c877ffaa64ac1e7db6c0c40939e5e9]{
+-- Page 51, Offset 19921. Glued.
+-- ××を罵るのに
+toutes les cinq secondes pour injurier
+
+}
+[sha:3fb97d2234a87b9d168b4f6d0b62dd6adb6f350a]{
+-- Page 51, Offset 19922.
+-- いちいちカロリーを使うとか。
+quelqu'un d'aussi xxx que toi.
+
+}
+[sha:6144c2e46c1559886adad8b7860960e766116068]{
+-- Page 51, Offset 19923.
+-- それだけの価値があると思って？
+Tu penses vraiment avoir une telle importance ?
+
+}
+[sha:8347710640237fb90835e7e2506e7bc05e8b04ae]{
+-- Page 52, Offset 19924. Mods: @k, @e.
+-- たまんないッスー！
+  C'est terrible !
+
+}
+[sha:7bba8215f5eea0e91523cc7aab8059fd1d1b0221]{
+-- Page 52, Offset 19925. Mods: @k, @e.
+-- ジブン、グリコのキャラメル以下だったスね！
+  Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
+
+}
+[sha:35e528b15dd6e31bb6045e8c05fd65c0f89688ff]{
+-- Page 52, Offset 19926. Mods: @k, @e.
+-- でも。
+  Mais,
+
+}
+[sha:04e32a11fa319436607dd1be61131a970e5b30fd]{
+-- Page 52, Offset 19927. Glued. Mods: @x, @k, @e.
+-- それなら。
+dans ce cas,
+
+}
+[sha:32d95359d2363c8dca7b22f4058451f0fdd909b9]{
+-- Page 52, Offset 19928. Glued. Mods: @x, @k, @e.
+-- 舐めて。
+je veux
+
+}
+[sha:f1e9ccf4b21be714e29fc26fde1f1f67ea0a8e21]{
+-- Page 52, Offset 19929. Glued. Mods: @x, @k, @e.
+-- ほしい。
+être
+
+}
+[sha:7036ee14945e7c7c57a8c659a2ca8fc5e09a2319]{
+-- Page 52, Offset 19930. Glued. Mods: @x.
+-- ッス。
+léché !
+
+}
+[sha:4186afe936faad8cfb9793afb28b65ee67da96dd]{
+-- Page 53, Offset 19931.
+-- そうね。
+  Bonne idée,
+
+}
+[sha:1bc3c75309d995f2232ec750ac1fd97363228022]{
+-- Page 53, Offset 19932.
+-- それでも死なないか、一度試してみましょうか。
+  si on essayait pour voir si ça ne te tue pas ?
+
+}
+[sha:0118ab7cfb151a845258affcff1bbb8bc1cd541a]{
+-- Page 54, Offset 19933. Mods: @k, @e.
+-- ノータイムでマルカジリ。
+      J'me suis fait manger tout rond en un instant.
+
+}
+[sha:be3fb551138efb3072691e5a34cfa5f6003e3ae7]{
+-- Page 54, Offset 19934. Mods: @k, @e.
+-- やっぱりプロイってお菓子なんス？
+      Comme je l'pensais, les Ploy sont des pâtisseries ?
+
+}
+[sha:901926b0e6d828c2a8a2bedc526ab1f4df852bd3]{
+-- Page 54, Offset 19935.
+-- んー、あめえ。
+      Hmm, c'est bon...
+
+}

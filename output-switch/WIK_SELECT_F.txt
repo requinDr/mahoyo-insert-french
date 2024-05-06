@@ -1,0 +1,24 @@
+[sha:60cf9ab3fe44e2994f2e2a8803c56c0a8cb6a6a7]{
+-- Page 21, Offset 21550. Mods: @e.
+-- ～選択肢Ｆ～
+-Choix F-
+
+}
+[sha:46550b2cba572765e1a18449b776d6c74e8c39a8]{
+-- Page 21, Offset 24029. Choice.
+-- これから陰惨な事件が始まるのだ、と思った。
+Je songeai qu'une affaire lugubre venait de commencer.
+
+}
+[sha:acb1d93fb99d3411bad5731a8d57fb16f9198b77]{
+-- Page 21, Offset 24030. Choice.
+-- これからトンデモな事件が始まるのだ、と思った。
+Je songeai qu'une affaire insensée venait de débuter.
+
+}
+[sha:bea15b1a2cd245c54a8c050d04aa03800831d0cd]{
+-- Page 21, Offset 24031. Choice.
+-- 槻司と組めて良かった、と思った。
+Je songeai avoir de la chance de faire équipe avec Tsukiji.
+
+}

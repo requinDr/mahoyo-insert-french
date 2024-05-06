@@ -1,0 +1,930 @@
+[sha:39e8c5d00243d46fcfd34dc8c366c403d39f03b3]{
+-- Page 0, Offset 552.
+-- 何を基準にして普通というのか疑問だけれど、性格はいたって<普通|ノーマル>。素朴でいい人。イメージカラーはあえて白。性別は男子。容姿はぼんやりしている。
+  On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression générale : tête en l'air.
+
+}
+[sha:d15213a3f61fe15a64f8182cf32e50cd249ad433]{
+-- Page 1, Offset 553.
+-- そんな草十郎から見ると、蒼崎青子という人物はシャキシャキとよく動いて元気が良かった。
+  Du point de vue de Sōjūrō, Aozaki Aoko était une personne débordant d'énergie et qui ne pouvait pas tenir en place.
+
+}
+[sha:1c22159085641d2e2e1f5aecfd356611feacfb3b]{
+-- Page 1, Offset 554.
+-- 何げない動作にも無駄がなく、ピッと動いて、ピタリときれいに止まる。
+  Même lorsqu'elle bougeait inconsciemment, elle ne faisait aucun mouvement superflu. Elle se mouvait et s'immobilisait parfaitement.
+
+}
+[sha:ea9aeb0fa0ffbc238ca041d847e9d0f0c9423f93]{
+-- Page 2, Offset 555.
+-- 物を指す時に上げる指とか、
+  Le doigt qu'elle levait pour pointer quelque chose,
+
+}
+[sha:00be86af2056340b34c92a21bcd1a6a5594c8473]{
+-- Page 2, Offset 556.
+-- 廊下や教室を横断する時の動作とか、
+  les mouvements qu'elle faisait en traversant les couloirs ou les salles de classe,
+
+}
+[sha:7d37e74014fe7a2ba709f9937d53c573389cd82f]{
+-- Page 2, Offset 557.
+-- 時折、先行しすぎないように後ろを振り向いて同行人を確認するところとか、
+  et quand elle se retournait de temps en temps pour vérifier qu'elle ne distançait pas trop son compagnon,
+
+}
+[sha:71331a6cb62491b5883283e6fc7cf8ab55fedd1e]{
+-- Page 2, Offset 558.
+-- その一挙一動が実に印象的で、目を引かずにはいられない。
+  toutes ses actions lui faisaient un tel effet qu'elles ne pouvaient qu'attirer son regard.
+
+}
+[sha:de1a18d4dd33c22c89c7519b76fd6027d6024d39]{
+-- Page 3, Offset 559.
+-- 青子はまず二年Ｃ組の教室を案内した。
+  Aoko lui fit d'abord visiter la classe C des deuxième année.
+
+}
+[sha:62e81bca7084c13dd8a2f9c6198a5c6330cb3b14]{
+-- Page 3, Offset 560.
+-- 先ほどの会議室よりは人の匂いは感じられたが、やはり草十郎には何をする場所なのか見当がつかなかった。
+  Il pouvait y sentir davantage de chaleur humaine que dans la salle de conférence, mais il ne voyait pas ce qu'on y faisait malgré tout.
+
+}
+[sha:65b0553e19e7d424a92e36c22d279a5b5e7d2ad4]{
+-- Page 3, Offset 561.
+-- 青子から短い説明を受けた後、何種類かある特別教室、体育館、食堂、更衣室、保健室と回っていく。
+  Après avoir écouté une courte explication d'Aoko, ils visitèrent successivement quelques salles spéciales aux rôles variés : le gymnase, la cafétéria, les vestiaires et l'infirmerie.
+
+}
+[sha:f130d1636c0a3f213435dbabe7413f35dbcda75c]{
+-- Page 3, Offset 562.
+-- 草十郎が行く先々で説明を求めたせいか、二階の視聴覚室を出た頃にはずいぶんと時間が経っていた。
+  Comme Sōjūrō demandait des explications à chaque nouvelle salle, lorsqu'ils quittèrent la salle audiovisuelle du premier étage, il s'était écoulé un temps conséquent.
+
+}
+[sha:569728116fa9dd0142478e8e7b8ac603d3e789b0]{
+-- Page 4, Offset 563.
+-- 「……まずいな」
+「...... C'est embêtant.」
+
+}
+[sha:c26b4e200562e3878c5cf911045b814be69c92a8]{
+-- Page 4, Offset 564.
+-- 深刻な顔で、草十郎は足を止めた。
+  Sōjūrō s'arrêta avec une expression grave.
+
+}
+[sha:9fed3b15c74bad8009499cae869d1a07f5d98295]{
+-- Page 4, Offset 565.
+-- 「あと二十分経つと<一時|いちじ>だ」
+「Dans vingt minutes, il sera une heure.」
+
+}
+[sha:04d6ed4a6cf0209b930afcef9b8974cc3e2bd993]{
+-- Page 5, Offset 566.
+-- 「へ？　嘘でしょ、うちの校舎そんな広くないわよ？」
+「Hein ? C'est pas possible, notre établissement n'est pas si grand !」
+
+}
+[sha:796f6fe2b683d294dcb5e7a49aa300c0a5f1cb64]{
+-- Page 5, Offset 567.
+-- たしか案内を始めたのが午前十時前だから、一時という事はかれこれ三時間は経つ事になる。
+  D'après ses souvenirs, ils avaient commencé la visite peu de temps avant dix heures du matin, donc s'il était déjà presque une heure, cela signifiait que trois heures s'étaient écoulées.
+
+}
+[sha:2ab91dc522cb8c7a95d5fa990a1d24e448dd28db]{
+-- Page 5, Offset 568.
+-- たかだか校内案内でそんな筈はないのだが……
+  Faire visiter l'établissement ne devrait normalement pas prendre autant de temps, mais......
+
+}
+[sha:0cf64c965cb995d08de226fd45d73e458cfae987]{
+-- Page 6, Offset 569.
+-- 「……そうだったわね。行く先々で根ほり葉ほり訊かれちゃ、そりゃあ何時間でも経つわ。日が暮れていないのが不思議なくらいね」
+「...... Forcément, si tu demandes avec insistance une explication à chaque salle, c'est normal que le temps passe si vite. C'est même étonnant que le soleil ne se soit pas encore couché.」
+
+}
+[sha:56729edf3d450fe17d97eecfd962edf9282e5a7c]{
+-- Page 6, Offset 570.
+-- 青子はじろりと草十郎を見すえる。
+  Aoko lança un regard appuyé en direction de Sōjūrō.
+
+}
+[sha:0e98ac3ce28d1353eb22875d1b21e7e685e20cea]{
+-- Page 6, Offset 571.
+-- こんな嫌味が通じる相手じゃない、と分かった上での小言である。
+  Elle fit cette remontrance tout en sachant pertinemment que les sarcasmes ne fonctionnaient pas avec lui.
+
+}
+[sha:a2bee559f56003540cd153a0654e3f87ed9785ab]{
+-- Page 7, Offset 572.
+-- 『………え？』
+『......... Hein ?』
+
+}
+[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+-- Page 7, Offset 573.
+-- が。
+  Pourtant,
+
+}
+[sha:13619e9000f6c249d12edac0ed587f0e83160843]{
+-- Page 7, Offset 574. Glued. Mods: @x.
+-- どんな心境の変化か、草十郎は申し訳なさそうに目を伏せていた。
+Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattendu.
+
+}
+[sha:63fdecd8de16537f0a23d69e69337da65e713f00]{
+-- Page 8, Offset 575.
+-- 『なんだ、コイツ―――ちゃんとしてる、じゃん』
+『Ben ça alors―――il est normal en fait.』
+
+}
+[sha:53f2187f04fa0f3530ddbdd4058efaebc8f4b177]{
+-- Page 8, Offset 576.
+-- 困っている草十郎は別人のようだ。
+  Le Sōjūrō gêné semblait être une personne différente.
+
+}
+[sha:db17b538dba375278fd5430cc87ce0580243b079]{
+-- Page 8, Offset 577.
+-- これまでの、青子が何を言っても反応せずの無表情と違って、言い難い親近感が湧く。
+  Contrairement à l'absence d'expression qu'il arborait jusqu'à maintenant, peu importait ce qu'elle disait, il irradiait d'une sympathie difficile à exprimer.
+
+}
+[sha:c1d6de801eb43f55bd3ae4fab230c7f0461f18e0]{
+-- Page 8, Offset 578.
+-- そして、なぜだかやっぱり、青子は理由もなくイライラしてしまうのだった。
+  Et malgré tout, Aoko se sentait irritée sans aucune raison.
+
+}
+[sha:2b883e5ec1c60325719baf7957cc8c3228fcb754]{
+-- Page 9, Offset 579. Mods: @n.
+-- 「で、なにがまずいの？
+「Donc ? C'est quoi le problème ?
+
+}
+[sha:18b0f49ef6c5b6522b095fc273bb8bc5f00ca208]{
+-- Page 9, Offset 580. Glued.
+-- 覚える事が多すぎてパンクした、なんて言わないでね」
+  Tu ne vas pas me dire qu'il y a trop de choses à retenir et que ton cerveau a surchauffé...」
+
+}
+[sha:59e93a43aadaed00d27be9b80c04aa7aad85fc4c]{
+-- Page 9, Offset 581.
+-- 「いや、それもあるけど。学校の事は別にして、一時になるとまずいんだ」
+「Non, même s'il y a effectivement un peu de ça. Mais indépendamment de la visite de l'école, ça ne m'arrange pas qu'il soit presque une heure.」
+
+}
+[sha:dcc4b819e7373b588d8ad422c98c716d504ee450]{
+-- Page 9, Offset 582.
+-- つい、と心配そうに視線を逸らす草十郎。
+  Sōjūrō parla en détournant inconsciemment son regard d'un air inquiet.
+
+}
+[sha:8ce9b796d303a5e2fffeabd511f4bff5c9940cc3]{
+-- Page 9, Offset 583.
+-- 外の様子が気になるのだろうが、あいにく、この廊下に窓はない。
+  Les conditions à l'extérieur semblaient le préoccuper, mais malheureusement, dans ce couloir, il n'y avait pas de fenêtres.
+
+}
+[sha:f8ac47cf1a8618368b67a8cb52f956351489505a]{
+-- Page 10, Offset 584.
+-- 「……へえ。時間を気にするってコトは、用事があるのね。
+「...... Hmm. Le fait que tu te soucies de l'heure signifie que tu as quelque chose de prévu.
+
+}
+[sha:7a234d659a1d8892247a58ff36c4ec49cfb98865]{
+-- Page 10, Offset 585.
+-- ふーん、そう。人の予定を引っ掻き回しておいて、自分だけ好きなようにやろうっていうんだ。
+  Hmm, je vois. En plus de ruiner l'emploi du temps des autres, tu comptais faire comme bon te semble.
+
+}
+[sha:cd723965ce28eb9919d24ea2e6a74e58dc74bcd0]{
+-- Page 10, Offset 586.
+-- なんだ。顔に似合わずいい人ね、君」
+  Ben ça alors, tu n'en as pas l'air, mais tu es quelqu'un de bien.」
+
+}
+[sha:032bf137b5e829babbd75b9833b68b7634d04804]{
+-- Page 11, Offset 587.
+-- 「？　いや、誉めても何もでないぞ」
+「? Non, même si tu me complimentes, je ne te donnerai rien.」
+
+}
+[sha:4a9a294e24345ddc9e4198cc76f94b37ca193457]{
+-- Page 11, Offset 588.
+-- 「誰も誉めちゃいないわよ！」
+「Personne ne te complimente !」
+
+}
+[sha:4a639926d951026f6888e9a2078cd8b3692c188f]{
+-- Page 11, Offset 589.
+-- つい怒鳴ってしまった青子だった。
+  aboya inconsciemment Aoko.
+
+}
+[sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
+-- Page 12, Offset 590.
+-- 「で？」
+「Et donc ?」
+
+}
+[sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
+-- Page 12, Offset 591.
+-- 「で？」
+「Donc ?」
+
+}
+[sha:29fe77d2ca53ae3e2d48d041d8daab9d838a660f]{
+-- Page 12, Offset 592.
+-- 「それで。いったい、何の用なの」
+「Donc, c'est quoi que tu as de prévu exactement ?」
+
+}
+[sha:81795ea8ec4c5d4738cdd94f63a7a542ea53f331]{
+-- Page 12, Offset 593.
+-- 青子の言わんとする事が分かって、草十郎はああ、と落ち着いた顔で頷き、
+  Comprenant ce qu'Aoko essayait de dire, Sōjūrō acquiesça avec un visage calme,
+
+}
+[sha:892811ef7b12ce22b6cf0c3e07ffbf6d99933835]{
+-- Page 12, Offset 594.
+-- 「そこは秘密にしておきたい」
+「Je voudrais garder ça pour moi.」
+
+}
+[sha:167ab16d77b7479fb62c671e5034b81784bf7cd1]{
+-- Page 12, Offset 595.
+-- 深刻に、ふざけた返答を口にした。
+  et lui répondit de façon incongrue avec un air sérieux.
+
+}
+[sha:cad7686ef58477d69cafb675b77f7931b02e7109]{
+-- Page 13, Offset 596.
+-- 『……馴れ始めたつもりだったけど、コイツのこういったテンポには失神しそうになるわ……』
+『...... Je pensais que je commençais à m'habituer à son drôle de comportement, mais de temps en temps, j'ai l'impression que je vais m'évanouir......』
+
+}
+[sha:f821ba29bbce60af4d65f55bce4272d8f35a6350]{
+-- Page 13, Offset 597.
+-- もちろん怒りで。
+  Sous le coup de la colère, bien sûr.
+
+}
+[sha:09301194c6fd4b990a48c18c308da2e867da19d0]{
+-- Page 13, Offset 598. Glued. Mods: @x.
+-- そんな気持ちをぐっと飲みこんで、青子は極上の笑顔を作る。
+Ravalant sa rage, Aoko fit son plus beau sourire.
+
+}
+[sha:fab5501e51e2435db218b6c2187834c640bca154]{
+-- Page 14, Offset 599.
+-- 「静希くん？」
+「M. Shizuki ?」
+
+}
+[sha:f652fd3e7fd5ee6c13918677916d0d6c352d3bdf]{
+-- Page 14, Offset 600.
+-- ずいっと一歩前に出る青子。
+  Aoko avança vivement d'un pas.
+
+}
+[sha:700b31aeef0f4126718f7da69c1d71cc84ffc14c]{
+-- Page 14, Offset 601.
+-- 「秘密だってば」
+「C'est un secret, je te dis.」
+
+}
+[sha:62c48adb39c468ebbfd512b2f4dea1a6fee08c57]{
+-- Page 14, Offset 602.
+-- なんだか殺気めいたものを感じて、ずいっと一歩後ずさる草十郎。
+  Sōjūrō, ressentant une sorte d'aura meurtrière, recula vivement d'un pas.
+
+}
+[sha:80517d57bae27ab4184b96a38912d6ef7a291420]{
+-- Page 14, Offset 603.
+-- ずいっ、ずいっ。
+  Encore et encore.
+
+}
+[sha:cfe306b91d8ec76f8e077f6a3044992c3b6c761f]{
+-- Page 14, Offset 604.
+-- 磁石のように、どんなにさがっても青子は近寄ってくる。
+  Comme un aimant, il avait beau reculer, Aoko s'approchait inlassablement.
+
+}
+[sha:d667160a4ecb4b2b981e0d73822de371aca449b7]{
+-- Page 14, Offset 605.
+-- 笑顔のまま、こめかみをちょっと震わせて。
+  Tout en souriant, la tempe tremblotante.
+
+}
+[sha:9fce7009ecfb261c7b9c5972dac665baeb994c5f]{
+-- Page 15, Offset 606.
+-- 「これ、最後の質問にしとくわね。
+「Je te le demande une dernière fois, d'accord ?
+
+}
+[sha:23663adae425ac9a6accaf73f5c347a4cb5efff2]{
+-- Page 15, Offset 607.
+-- ―――貴方、私をからかって楽しい？」
+  ―――Est-ce que ça t'amuse de me faire marcher ?」
+
+}
+[sha:00aa71643b3b3e85155d32c5aca410ad9fc09716]{
+-- Page 15, Offset 608.
+-- 神に誓ってそんな気はないのだが、身の潔白を証明したところで青子の無理やりな笑顔は消えないだろう。
+  Il voulait jurer devant Dieu que telle n'était pas son intention, mais même s'il clamait son innocence, le sourire forcé d'Aoko ne disparaîtrait sûrement pas.
+
+}
+[sha:795e89e519e242d885645a2585666a4ce808831e]{
+-- Page 15, Offset 609.
+-- 「……分かった、説明する」
+「...... J'ai compris, je vais t'expliquer.」
+
+}
+[sha:5b60d27f8da841bca41fd17566a352e2d250405c]{
+-- Page 15, Offset 610.
+-- 降参して手を上げる。
+  Il leva les mains en signe de capitulation.
+
+}
+[sha:b4c18ba34216400eb05cc4a7b117d9d3aa05dbc8]{
+-- Page 15, Offset 611.
+-- 青子も前進を止め、不似合いな笑みを消した。
+  Aoko arrêta aussi de se rapprocher, et effaça ce sourire qui ne lui allait pas.
+
+}
+[sha:d17c15c59eecff0f93a22e0e8d83e105506ba4f5]{
+-- Page 16, Offset 612. Mods: @n.
+-- 「実は一時からアルバイトがあるんだ。
+「En fait, à une heure, je dois me rendre à un petit boulot.
+
+}
+[sha:2fb50f84b710be3426fec8ee153f0962f8ba0ad3]{
+-- Page 16, Offset 613. Glued.
+-- でも、ここはそういうの禁止なんだろ？」
+  Mais ici, c'est interdit, non ?」
+
+}
+[sha:b63dafbf3203180b2f4651509c267d912606f8e1]{
+-- Page 16, Offset 614.
+-- 「そうだけど……あ、禁止されてるから秘密にしようと思ったの？　バカね、それなら許可さえ下りていれば問題ないわよ？」
+「C'est vrai, mais...... Ah, tu pensais devoir garder ça sous silence parce que c'est défendu ? Tu es bête, ce n'est pas un problème si on t'en accorde l'autorisation.」
+
+}
+[sha:d43b7644972583195ddd9d77ecab3a948389fc6d]{
+-- Page 17, Offset 615.
+-- 「知ってる。試験の時に許可はもらってる」
+「Je sais. On me l'a donnée lors de l'examen.」
+
+}
+[sha:f55d7cac57c479f5434b5fd4e46addc172d06f9d]{
+-- Page 17, Offset 616.
+-- 「へえ」
+「Hmm.」
+
+}
+[sha:fe4503fd79489a5caef88b694c1d9e39de3099f4]{
+-- Page 17, Offset 617.
+-- 顔に似合わず手回しいいじゃない、と青子は顔を輝かせた。
+  Contrairement aux apparences, il s'est bien préparé, pensa Aoko avec un visage étincelant.
+
+}
+[sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
+-- Page 17, Offset 618.
+-- が。
+  Mais...
+
+}
+[sha:ae12b7cb15ba54ec9ee1089fe47b943d4a42498b]{
+-- Page 18, Offset 619.
+-- 「しかし、許可はひとつしかもらえなかった」
+「Mais je n'ai pu en recevoir qu'une seule.」
+
+}
+[sha:d607096cd777f7af78e400ce07f45541d3dc07a1]{
+-- Page 18, Offset 620.
+-- 「？　ひとつって、貴方、掛け持ちでバイトしてるの？」
+「? Une seule ? Tu veux dire que tu as deux emplois en même temps ?」
+
+}
+[sha:3fe0d15155d9605f86ae99a0fc42a800024f0891]{
+-- Page 18, Offset 621.
+-- 「……これでも二件減らしたんだ。
+「...... Et encore, j'en ai arrêté deux autres.
+
+}
+[sha:296a6e3dcb92852a0b8377860ab2c41a2384592f]{
+-- Page 18, Offset 622.
+-- 生活費だけで大変なのに、学費まで稼がなくちゃいけない。なのに、働き先はひとつだけと言うのはあんまりだと思わないか？」
+  Rien qu'avec les dépenses de tous les jours, c'est difficile, mais je dois aussi économiser pour les frais scolaires. Tu ne penses pas que c'est exagéré que l'on ne puisse avoir qu'un seul travail ?」
+
+}
+[sha:0a9c6fa071b7a6b2f3121e1cd7a5b260741c8926]{
+-- Page 18, Offset 623.
+-- 「……いや。あんまりなのは貴方の方だと思うけど」
+「...... Non, je pense que c'est toi qui exagères.」
+
+}
+[sha:4aedf89c0fe7ce8e61db2cb579c496f526f4ba0c]{
+-- Page 19, Offset 624.
+-- 青子は呆れながらも、草十郎を少しだけ見直した。
+  Même si elle était déconcertée, Aoko révisa un peu son opinion sur Sōjūrō.
+
+}
+[sha:d17b6a587b6bcbda2277a132bd08dae89f71e5f2]{
+-- Page 19, Offset 625.
+-- 学費はおろか生活費まで自分でどうにかしているのは立派だと思う。
+  Elle trouvait que se débrouiller par soi-même pour payer non seulement les frais scolaires, mais aussi les dépenses quotidiennes, était quelque chose d'admirable.
+
+}
+[sha:6d3f716f35a9bc23ef9b31667661a9efc1da387f]{
+-- Page 19, Offset 626.
+-- そういう遊びのない事情に、蒼崎青子はわりと弱かった。さっきまでの怒りも薄れてしまう程度には。
+  Aozaki Aoko était relativement démunie face à ce genre de situation sérieuse. Assez pour calmer sa colère.
+
+}
+[sha:48773bb4d86061761ce2f52ab001ad280e027fa4]{
+-- Page 19, Offset 627.
+-- ……調子を崩したのは、この世間知らずの少年から『アルバイト』なんて単語が出るとは思いもしなかっただけだ。
+  ...... La raison pour laquelle elle s'était arrêtée dans son élan, c'était parce qu'elle n'aurait jamais imaginé que l'expression “petit boulot” sortirait de la bouche de ce garçon ignorant tout de la société moderne.
+
+}
+[sha:e81c25e5b67c93edc4badc437e5fd7eba4306561]{
+-- Page 20, Offset 628.
+-- 「……そういうことなら仕方ないわね。
+「...... Dans ce cas, on n'y peut rien.
+
+}
+[sha:60aa1f805143ffd46dd90f5b3c0236ea527291a0]{
+-- Page 20, Offset 629.
+-- いいわ、行きなさいよ。事情は分かったから」
+  C'est bon, tu peux y aller. J'ai compris ta situation.」
+
+}
+[sha:6cc725e3b8570c13b9c35cb51636a5553eca5197]{
+-- Page 20, Offset 630.
+-- 「蒼崎はいいのか？」
+「Tu es d'accord avec ça ?」
+
+}
+[sha:7e1a95ebbbd7ae9ef342dabc677b3ab1c2f08459]{
+-- Page 20, Offset 631.
+-- 何がいいのだか青子にはさっぱりだが、草十郎が気を遣っている事だけは分かる。
+  Aoko ne saisissait pas sa question, mais elle comprenait que Sōjūrō la prenait en considération.
+
+}
+[sha:bbb9d528923307607cf2dddb422732f9427d3f78]{
+-- Page 20, Offset 632.
+-- ……それも、青子にはなんとなく意外だった。
+  ...... Aoko trouva la chose plutôt surprenante.
+
+}
+[sha:09ec2541f31892fde167f8ad504cfb8f07522b94]{
+-- Page 20, Offset 633.
+-- もう少しこう、人の心にも鈍感な少年だと思ったのだ。
+  Elle pensait que c'était un garçon un peu lent à la détente avec les sentiments des gens.
+
+}
+[sha:22beeb3c1f675796cc5e7c65c2bb6c57577eb74b]{
+-- Page 21, Offset 634.
+-- 「別に。私もこのまま帰るから」
+「Ce n'est rien. Moi aussi, je vais rentrer.」
+
+}
+[sha:bf496eb2d5692a623c1a36c88ca134c8430c2247]{
+-- Page 21, Offset 635.
+-- ちなみに、職員室に寄っていく選択は<潔|いさぎよ>いぐらい無い。
+  Au passage, elle n'avait nullement l'intention de repasser par la salle des professeurs.
+
+}
+[sha:f8af194368780d7300e11de8b229506494a4a9c7]{
+-- Page 21, Offset 636.
+-- 山城曰く、転入手続きやらは終わっているというし、後は<社交辞令|おやくそく>の挨拶だけだろう。
+  D'après Yamashiro, les formalités administratives de transfert étaient terminées, et il ne devait plus rester que les salutations de politesse.
+
+}
+[sha:c72c5e4025d11407b9d62c1a941fe7c85a1ea676]{
+-- Page 22, Offset 637.
+-- “先生、案内終わりました”
+“Monsieur, la visite est terminée.”
+
+}
+[sha:7e29493a4e43a153b8a0481880bb5adbe792652d]{
+-- Page 22, Offset 638.
+-- “それはお疲れさま。静希くんもお疲れさま。それで、校舎をまわった感想はどうかな？”
+“Bon travail. Bon travail à toi aussi, Shizuki. Alors, quelle est ton impression après avoir fait le tour de l'établissement ?”
+
+}
+[sha:e050669f71a92394a8093a025d328e6813df5a4c]{
+-- Page 22, Offset 639.
+-- “ありがとうございます。なんというか、とても学校ですね！”
+“Merci beaucoup. Je dirais que ça fait très école !”
+
+}
+[sha:4204ca88f2e598949b120898f5bbe15926bb893d]{
+-- Page 22, Offset 640.
+-- “ははは、そうかそうか。うん、明日から頑張りなさい！”
+“Ha ha ha, je vois, je vois. À partir de demain, fais de ton mieux !”
+
+}
+[sha:41196c6e7faaf9468fad11a1ca286e16c571723f]{
+-- Page 22, Offset 641.
+-- そんなどうでもいい締めのイベントなぞ、彼女には何ら関係のない話である。
+  Ce genre de conclusion inutile ne l'intéressait absolument pas.
+
+}
+[sha:d117544dbfbc091113be6ecae317cbb1cdccc37e]{
+-- Page 23, Offset 642.
+-- 「山城先生の事は気にしないでいいわ。
+「Ne t'en fais pas pour M. Yamashiro.
+
+}
+[sha:0a19488c3ff34bfbef021e14dd3f91687a419042]{
+-- Page 23, Offset 643.
+-- 教え子に厄介な事を押しつけてふんぞり返っているぐらい職員室が好きなんだから、何時間でも待ってるでしょ。
+  Il aime la salle des professeurs au point d'y retourner en se pavanant après avoir confié les tâches les plus barbantes à ses élèves, il pourrait y attendre pendant des heures.
+
+}
+[sha:73776278cb221da3916b791bfb78c3290e62cf14]{
+-- Page 23, Offset 644.
+-- いえ、待ってるべきじゃない？」
+  Non, il FAUT qu'il attende pendant des heures.」
+
+}
+[sha:06c4be9e473c1841c91c03b59922923511b990a8]{
+-- Page 24, Offset 645.
+-- 「そうか。蒼崎がいいんなら、いいんだな」
+「Je vois. Si tu dis que c'est bon, c'est que ça l'est, hein ?」
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 24, Offset 646.
+-- 「？」
+「?」
+
+}
+[sha:9753154ec90d70c0490b7c9c1105fefc413e684d]{
+-- Page 24, Offset 647.
+-- だから、何がいいんだろうか？
+  Mais qu'est-ce qui était bon au juste ?
+
+}
+[sha:3cbc11c0a3d111970f87b49d4dc2c4fcedd3f4d3]{
+-- Page 24, Offset 648.
+-- 草十郎の言わんとするところが、青子にはやっぱりさっぱり。
+  Aoko ne comprenait vraiment pas ce que voulait dire Sōjūrō.
+
+}
+[sha:fe85de55d348e3cee5f423d55bfbe76b5faa6c8f]{
+-- Page 25, Offset 649.
+-- 「それじゃ行くよ。今日はありがとう」
+「Bon, eh bien, j'y vais. Merci pour aujourd'hui.」
+
+}
+[sha:7192b917b48cedfceaf80dc201a5ee682da28b30]{
+-- Page 25, Offset 650.
+-- 「今日だけよ、今日だけ」
+「C'était juste pour aujourd'hui, seulement pour aujourd'hui.」
+
+}
+[sha:5ec4c0063ef3550f6e6ee9c75432c4e4c36eebef]{
+-- Page 25, Offset 651.
+-- ほら、さっさと行った、とばかりに青子は片手をひらひらと払う。
+  “Allez, fiche-moi le camp”, lui dit Aoko en le chassant de la main.
+
+}
+[sha:b63e24c68b2af16f182d82e5c6667c47e98c4e1a]{
+-- Page 25, Offset 652.
+-- その仕草が気に入ったのか、草十郎は嬉しげに笑った。
+  Sōjūrō, qui semblait apprécier cette gestuelle, sourit joyeusement.
+
+}
+[sha:f6428aca096784558bb840ac9afc26b9538b2b90]{
+-- Page 26, Offset 653.
+-- 常時ぼんやりしているせいか、彼のそういった顔はきわだって柔らかく見える。
+  Peut-être parce qu'il avait l'air d'être constamment dans la lune, ce visage semblait remarquablement tendre.
+
+}
+[sha:2e3128bb0926af9133c759e549ba1eaf75919ceb]{
+-- Page 26, Offset 654.
+-- つい笑みを返してしまうぐらいの<和|なご>み度だ。
+  Il dégageait une telle douceur qu'elle aurait pu lui rendre par réflexe son sourire.
+
+}
+[sha:767794cc1bbac1134116c4813546e50f04176388]{
+-- Page 26, Offset 655. Mods: @n.
+-- けれどやっぱり、
+  Mais évidemment,
+
+}
+[sha:5677879bc5ca8e5feca1fe6248d3ad765464d314]{
+-- Page 26, Offset 656. Glued.
+-- そういったものに反応しないのが蒼崎青子だった。
+  Aozaki Aoko n'était pas réceptive à ce genre d'attitude.
+
+}
+[sha:6fe4ffe14a186f8013e4d6eb78862a6e3e77a486]{
+-- Page 27, Offset 657.
+-- 「それじゃ、また」
+「Bon, eh bien, à la prochaine.」
+
+}
+[sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
+-- Page 27, Offset 658.
+-- 「は？」
+「Hein ?」
+
+}
+[sha:343a3c8a1fb1307fbbc01f5fb2494ad946c261c5]{
+-- Page 27, Offset 659.
+-- 旧知の友人みたいな言葉を残して、草十郎は廊下の先……
+  La saluant comme l'aurait fait un vieil ami, Sōjūrō se dirigea......
+
+}
+[sha:693a0883a835587119fbd0a5b4d859bc96245ab5]{
+-- Page 27, Offset 660.
+-- ではなく、隣の教室に入っていった。
+  non pas vers le bout du couloir, mais vers la salle de cours voisine.
+
+}
+[sha:a096fc7c4713e80a7ddb4e68460275e3e17cc400]{
+-- Page 28, Offset 661.
+-- 「ちょ―――」
+「Att―――」
+
+}
+[sha:3e2b046244f21cd8ad81a39eaeada5fb47f3ab28]{
+-- Page 28, Offset 662.
+-- その背中が、まっすぐに窓に向かっていく。
+  Son dos allait droit vers la fenêtre.
+
+}
+[sha:5f9fe560d9a33751db72949c7bd95e9fe3a17ca7]{
+-- Page 28, Offset 663.
+-- 彼はおもむろに教室の窓を開けた。
+  Il ouvrit lentement la fenêtre de la classe.
+
+}
+[sha:c90e936b1501f7ce43c53332f582f0a452945c66]{
+-- Page 28, Offset 664.
+-- 十一月の肌寒い風と、おぼろだった雨の音が鮮明になる。
+  Le vent frisquet de novembre et le clapotis indistinct de la pluie devinrent plus nets.
+
+}
+[sha:2e4c85153346a806008178f0e09b0d6b212ca16e]{
+-- Page 28, Offset 665.
+-- それが何を意味するのかを、蒼崎青子は瞬時に悟った。悟れてしまった。
+  Aoko réalisa en un instant ce que cela signifiait. Elle n'eut d'autre choix que de le réaliser.
+
+}
+[sha:8d141ba90bd0dfeb14ee7b37c775c990520fd4cf]{
+-- Page 29, Offset 666.
+-- 「いや、待て待て待てーーーーっっっ！」
+「Non, attends, attends attends attends......!」
+
+}
+[sha:dac4068d378f7a16eb89b28fc2ac40b3bc29d297]{
+-- Page 29, Offset 667.
+-- 今まさに、窓枠に片足を乗っける草十郎を、青子は必死の形相で止めた。
+  Aoko arrêta d'un air désespéré Sōjūrō qui, à présent, avait déjà le pied sur le bord de la fenêtre.
+
+}
+[sha:31b140904049c251c313ec72f3fd5a75b1cb0cba]{
+-- Page 30, Offset 668.
+-- 「なにするつもりよ、あんたはっ！」
+「Qu'est-ce que tu comptes faire ?!」
+
+}
+[sha:9efeac9892e040f2b88516dfce10d24b32bc5f93]{
+-- Page 30, Offset 669.
+-- 「なにって、アルバイトに行くんだけど」
+「Ben, aller au travail.」
+
+}
+[sha:24e4c09d2733297d01fdc59fb5c528c96d886aa8]{
+-- Page 30, Offset 670.
+-- 「その窓は人が出入りするところじゃないの！
+「Cette fenêtre n'est pas faite pour que les gens entrent et sortent !
+
+}
+[sha:4470e6c819e6de0b42c209f93339c4d99dda13c0]{
+-- Page 30, Offset 671.
+-- だいたい、ここ何階だと思ってるの!?」
+  Et puis, tu sais à quel étage on est ?!」
+
+}
+[sha:ad1760de8cf3a686744d952529ec17f713099ae4]{
+-- Page 30, Offset 672.
+-- 言われて、あ、と声をあげる草十郎。
+  À cette exclamation, Sōjūrō répondit avec un simple “Ah”.
+
+}
+[sha:b83d597ea94b15340fdbbab6cd3eff0e90b6f851]{
+-- Page 31, Offset 673.
+-- 「……死ぬところだった。二階から下りたら危なすぎる」
+「...... Encore un peu et j'étais mort. C'est effectivement trop dangereux de sauter du premier étage.」
+
+}
+[sha:802388e2efd0d91f4de5a07b5aed561ae3a55744]{
+-- Page 31, Offset 674.
+-- 「危ないのはあんたの頭……」
+「Ce qui est dangereux, c'est ton cerveau......」
+
+}
+[sha:84e65e4ed42d3d360df5cdfc2112354790e51bc9]{
+-- Page 31, Offset 675.
+-- 脱力しつつも<暴言|ぼうげん>をこぼすが、幸い、草十郎には聞こえていなかった。
+  Aoko, pourtant épuisée, lâcha une remarque acerbe que Sōjūrō n'entendit heureusement pas.
+
+}
+[sha:e27fdc616096fb4b9bcbeace846c3bcf332009fa]{
+-- Page 32, Offset 676.
+-- 「あのね、こっちじゃ窓から人は出入りしないの。
+「Tu sais, ici, les gens n'entrent et ne sortent pas par les fenêtres.
+
+}
+[sha:9c567ce21081da3849fabb7455298328d430a74d]{
+-- Page 32, Offset 677.
+-- さっき言っとくべきだったわ」
+  J'aurais dû te prévenir.」
+
+}
+[sha:d6d434eab37deb2e0f4a74702f94bc979da928ca]{
+-- Page 32, Offset 678.
+-- 「知ってるよ、時間がないんであわててたんだ。
+「Je le sais, mais comme je suis un peu pressé, je me suis précipité.
+
+}
+[sha:874a7dc43f73f34c535d1542f8638dfd21cbeb54]{
+-- Page 32, Offset 679.
+-- ありがとう、これからは気をつける」
+  Merci, à partir de maintenant, je ferai attention.」
+
+}
+[sha:94af970c62d8e4613b780e5aef581fa4fccd11de]{
+-- Page 33, Offset 680.
+-- よいしょ、と窓枠から片足を下ろして窓を閉める草十郎。
+  “Hop là”, fit Sōjūrō en retirant son pied du rebord avant de fermer la fenêtre.
+
+}
+[sha:84645eb775c16519be1227024706c6c304b71cb0]{
+-- Page 33, Offset 681.
+-- 見るからに下ろしたての制服は、今ので雨に濡れてしまっていた。
+  Son uniforme avait été trempé de haut en bas par la pluie.
+
+}
+[sha:8e4939efa4d0b0d6f5eac95be0756486bdb6f95b]{
+-- Page 34, Offset 682.
+-- 「……いいけど、私は別に。
+「...... Je préfère ça.
+
+}
+[sha:88bc7c77a86e29e92fb6a36922c3310fcd8b3721]{
+-- Page 34, Offset 683.
+-- あなたが何処から外に出ようが関係ないもの。ただ、できれば私の前ではやらないでほしいだけよ。
+  Mais je me moque de savoir par où tu sors. Je préférerais juste que tu ne le fasses pas devant moi.
+
+}
+[sha:ee1f41080a6643041fe941025557d171004f921a]{
+-- Page 34, Offset 684.
+-- それより……貴方、本当に明日から学校に来るの？」
+  À part ça...... Tu vas vraiment venir à l'école à partir de demain ?」
+
+}
+[sha:53217c3f16ee63988a4abca9f4a761d5210a60cf]{
+-- Page 34, Offset 685.
+-- 「来るよ。不安だけど、案内してもらったし」
+「Oui. Je suis anxieux, mais tu m'as fait visiter l'école, après tout.」
+
+}
+[sha:6aa7d13c293541e9f8d6d9a748a741faae3c9343]{
+-- Page 35, Offset 686.
+-- それじゃあ、と返して、少年は廊下を走っていった。
+  Le garçon lui dit à demain et s'en alla dans le couloir.
+
+}
+[sha:829425353a52292666296abdf229e6a9dfb5f86a]{
+-- Page 35, Offset 687.
+-- 今度こそ普通に、階段を下りて昇降口から出ていくのだろう。
+  Cette fois, il descendrait probablement les escaliers et sortirait par l'entrée normalement.
+
+}
+[sha:4b42fe72457dbe5360863d08141948a60d9f8081]{
+-- Page 36, Offset 688.
+-- 「……はあ。大丈夫なのか、あんなんで」
+「...... Aaaah. Est-ce que ça va vraiment aller ?」
+
+}
+[sha:d761eb55ed90b13c77b0316574b0d756188e6fdb]{
+-- Page 36, Offset 689.
+-- 呆れながらも、走り去った彼の背中を回想する。
+  Toujours abasourdie, elle se remémora le dos du garçon qui venait de s'en aller en courant.
+
+}
+[sha:8a37ddee5430b8b8211d9d1bb8f731886b368336]{
+-- Page 36, Offset 690.
+-- もうあんな田舎者とは関わりたくないのに、妙なところで気に掛かる。
+  Elle ne voulait plus avoir de contact avec ce campagnard, et pourtant, il la préoccupait bizarrement.
+
+}
+[sha:e8242ae44a9f8dc053b89a34365b6c5fc76b7098]{
+-- Page 36, Offset 691.
+-- 心配からか、それとも癪に障るからなのか、いまいち納得のいく答えは出ない。
+  Était-ce de l'inquiétude, ou alors parce qu'il l'irritait, pour le moment, elle n'avait pas de réponse satisfaisante.
+
+}
+[sha:99293061605fda6050b711efe585697ee338099a]{
+-- Page 37, Offset 692.
+-- そもそもどうして自分はさしたる理由もなく、あのどうでもいい転入生に怒りを覚えたのか。
+  D'abord, pourquoi était-elle en colère contre cet étudiant transféré sans aucune raison particulière ?
+
+}
+[sha:a6f8f1b34d733de7d92c1ffc852a5cade87f4b75]{
+-- Page 37, Offset 693.
+-- 妙な一日、妙な転入生、妙な感情。
+  Un jour bizarre, un étudiant transféré singulier, un sentiment étrange.
+
+}
+[sha:223a3b1b699843f1c4fe4679b5591c5d5b88869f]{
+-- Page 37, Offset 694.
+-- こうして振り返ってみると、実は怒るべきじゃなく楽しむべきコトだったんじゃないか、と首をかしげる自分もいる。
+  En y repensant, une partie d'elle, perplexe, se disait qu'au lieu de s'énerver, il fallait plutôt s'en amuser.
+
+}
+[sha:d89a945c3bb287f43a33d7c8d618b6f6b7f8812e]{
+-- Page 38, Offset 695.
+-- 「―――ま、いっか。
+「―――Bah, c'est pas grave.
+
+}
+[sha:3a08766d0e395ec4d03e3212f97ec8a9c3003ed5]{
+-- Page 38, Offset 696.
+-- どうせこれっきりなんだし」
+  De toute façon, c'était notre première et dernière rencontre.」
+
+}
+[sha:abbe1934b7a794ad347c325b53e3745ee4061663]{
+-- Page 39, Offset 697.
+-- 静かに響く雨の音。
+  Le son de la pluie retentissait paisiblement.
+
+}
+[sha:c6d03b7099ea07f582093fd9ad8d1175a2e994a7]{
+-- Page 39, Offset 698.
+-- 灰色の空は時間の<有様|ありよう>を麻痺させる。
+  Le ciel gris figeait le cours du temps.
+
+}
+[sha:6d2fc529af54a0c0e0c0c6d88e1b3b9e43ba90f4]{
+-- Page 39, Offset 699.
+-- 今はまだ午前中なのか、夕方なのかも判らない。
+  Elle ne pouvait déterminer si c'était le matin ou le soir.
+
+}
+[sha:faaa5cfe53eb7b9ae5e24e35975623a9de381c42]{
+-- Page 39, Offset 700.
+-- 校舎にはたぶん自分と、山城ぐらいしかいないだろう。
+  Dans l'établissement, il n'y avait sûrement plus que Yamashiro et elle.
+
+}
+[sha:921fe052f94f0110f6403e3c3bce7eef69907af3]{
+-- Page 39, Offset 701.
+-- 電灯の消えた教室は薄暗く、ひとりになるとやけに不気味だった。
+  La salle aux lumières éteintes était légèrement obscure et d'autant plus sinistre qu'elle s'y trouvait seule.
+
+}
+[sha:cc3e10b8cc076d0da4419134442eb743a9f65e0b]{
+-- Page 40, Offset 702.
+-- つと―――青子は左手の<袖|そで>を上げた。
+  Calmement―――Aoko releva la manche de sa main gauche.
+
+}
+[sha:40a9e471b2983001230f115c7aab6d4b903c7e48]{
+-- Page 40, Offset 703.
+-- 飾り気のない小さな腕時計は、たしかに午後一時になろうとしている。
+  Sa montre-bracelet classique indiquait effectivement qu'il serait bientôt une heure.
+
+}
+[sha:9eb14caf8b9c302e687493bc582b43db940f0961]{
+-- Page 40, Offset 704.
+-- 「……時間、あってる」
+「...... Il avait raison.」
+
+}
+[sha:44dc96a3c6130d6f0844422a5d92317b8427f1ec]{
+-- Page 40, Offset 705.
+-- 言って、青子は窓ごしに地上を見下ろした。
+  Tout en parlant, elle jeta un œil au paysage de l'autre côté de la fenêtre.
+
+}
+[sha:cb8888435f816f29bac5e5c45de909987695a9f1]{
+-- Page 40, Offset 706.
+-- 小雨の中、制服姿の男子が傘もささずに走っていく。見慣れている筈の光景が、彼女にはひどく印象深かった。
+  Sous la pluie fine, un jeune homme en uniforme courait sans parapluie. Ce spectacle qui aurait dû lui être familier lui fit une très forte impression.
+
+}

@@ -1,0 +1,990 @@
+[sha:4e170b276050c6cf7e8b9ff15686913baab0fceb]{
+-- Page 0, Offset 3006. Mods: @n.
+-- つまり、
+  En quelques mots,
+
+}
+[sha:597193e851bc8c558a8228e5b24516be65540134]{
+-- Page 0, Offset 3007. Glued.
+-- 昨日こんな事があった。
+ voilà ce qu'il s'était passé la veille.
+
+}
+[sha:44c2b3b9f723c132ac13c29976498eb8c004e70d]{
+-- Page 1, Offset 3008. Mods: @n.
+-- “月の無い夜は、決して振り向いてはいけないよ―――”
+  “Les nuits sans lune, tu ne dois surtout pas te retourner―――”
+
+}
+[sha:46d450fad88139e3d4920d927d2e47e5bfa97100]{
+-- Page 2, Offset 3009.
+-- それは教訓だったのか、警告だったのか。
+  Était-ce une leçon, ou bien un avertissement ?
+
+}
+[sha:21d4c3a79dde7b5ba27103a0ea3b383ff1e41501]{
+-- Page 2, Offset 3010.
+-- ずいぶんと昔……私がまだ今の<自分|ありかた>を夢にも思っていなかった頃。
+  C'était il y a bien longtemps...... à une époque où je n'aurais jamais imaginé mon existence actuelle.
+
+}
+[sha:2553458c406ea7c3fe7a80f24049a0c3b7f5cc06]{
+-- Page 2, Offset 3011.
+-- 突然、何の前触れもなく、泣きだしたくなるぐらいの不安でいっぱいになって、祖父の工房に逃げこんだ夜の話だ。
+  C'était la nuit où je fus prise, soudainement et sans préavis, d'une anxiété telle que j'en sanglotais presque, et me réfugiai dans l'atelier de mon grand-père.
+
+}
+[sha:130ed5cbdc96c9b693145ad3782b3936c2ce25af]{
+-- Page 2, Offset 3012.
+-- 祖父は別人のように優しく微笑み、私の頭に静かに手を乗せて、
+  Ce dernier m'avait souri, comme s'il n'était pas la même personne que d'habitude, et avait mis sa main calmement sur ma tête,
+
+}
+[sha:30bbde6c55ce0afbe7692cace0b2b272ef8fc5b0]{
+-- Page 3, Offset 3013. Mods: @n.
+-- “―――<赤色|あかいろ>の死が、おまえの背中を見ているからね”
+  “―――parce que la mort écarlate surveille tes arrières.”
+
+}
+[sha:f5204efd5a36680aa17daec2d34d0a9e66f099a3]{
+-- Page 4, Offset 3014.
+-- そんな、気休めどころかより絶望的な言葉を残して、私を家につき返した。
+  Après m'avoir dit ces mots, non pas de réconfort mais de désespoir, il m'avait renvoyée à la maison.
+
+}
+[sha:f10a98e39c0773f3bf18d7874ff669f1377326be]{
+-- Page 4, Offset 3015.
+-- 私はあの夜、たしかに背後に<潜|ひそ>む影を認めた。
+  Cette nuit-là, j'avais en effet aperçu une ombre qui se cachait dans mon dos.
+
+}
+[sha:d82b5fc590e39f4d53608adc8afc7fb03e13c38f]{
+-- Page 4, Offset 3016.
+-- ずっと遠くから私を見ている何者か。
+  Quelqu'un qui me regardait de très loin.
+
+}
+[sha:4e84bcb1d8c255493056a07cc52fbaf0a27ba544]{
+-- Page 4, Offset 3017.
+-- それは少しずつ、年々距離を<縮|ちぢ>めていき―――
+  Petit à petit, chaque année, elle se rapprochait―――
+
+}
+[sha:4fb9297a9e1ef1471341d46859ace4d88b8a3d94]{
+-- Page 4, Offset 3018.
+-- 小さな点ほどだった気配は、その息づかいさえ感じるほどすぐ後ろまで迫っていた。
+  La présence, au début aussi petite qu'un point sur l'horizon, me harcelait à présent juste derrière moi, au point que je pouvais sentir son souffle.
+
+}
+[sha:8d981c028f045a2cfc4db5e45d3e1b9e37fd0fb9]{
+-- Page 5, Offset 3019.
+-- もちろん錯覚。
+  Bien sûr, c'était une illusion.
+
+}
+[sha:ba10169d1f1245b79e948b4014bbf678738f63e6]{
+-- Page 5, Offset 3020.
+-- 振り向いた先には誰もいない。
+  Lorsque je me retournais, il n'y avait personne.
+
+}
+[sha:9754af3bb1e142df3482b3bbdf0bd04604461d23]{
+-- Page 5, Offset 3021.
+-- ただ―――きっかけになったあの夜。
+  C'était juste―――que ce que j'avais ressenti lors de cette nuit fatidique à l'origine de tout ceci,
+
+}
+[sha:f0445c941f69a150a7e453467b3fb187dae2fd5c]{
+-- Page 5, Offset 3022.
+-- あの時の言いようのない不安は、間違いなく、約束された<恐怖|し>に起因するものだった。
+  cette anxiété indescriptible serait, sans erreur possible, la future cause de ma mort promise.
+
+}
+[sha:4c3a46698b618c653b1bba7ca8df1758fc559912]{
+-- Page 6, Offset 3023. Mods: @i, @n.
+-- “
+"
+
+}
+[sha:db02ff1cd398ee07411d7087d9fdb8395959c0e1]{
+-- Page 6, Offset 3024. Glued. Mods: @i, @a, @r.
+-- ……Hey diddle diddle,The cat and the fiddle,
+...Hey diddle diddle, the cat and the fiddle,
+
+}
+[sha:e01e58198d1f4f6767bb8c9afecc18c6ba883a34]{
+-- Page 6, Offset 3025. Mods: @i, @a, @r.
+-- The cow jump'd over the moon,
+  The cow jumped over the moon,
+
+}
+[sha:c69896dd0c1e74fbd3aeb3a7b313629ee1b800a2]{
+-- Page 6, Offset 3026. Mods: @i, @a, @r.
+-- The little dog laugh'd……”
+  The little dog laugh'd..."
+
+}
+[sha:c581702cc585f384dde108eea3afc5ab7a7a9f9d]{
+-- Page 7, Offset 3027.
+-- ……あれはいつの話だっただろう。
+  ...... À quand ça remontait, déjà ?
+
+}
+[sha:867b3569a57cd956a122f03e401989ce1aac6251]{
+-- Page 7, Offset 3028.
+-- 遠い子供の頃の記憶の片隅。
+  Dans un recoin de mes lointains souvenirs d'enfance.
+
+}
+[sha:dfd18cef5d020f22072b47a0a972ba662b5d1ca0]{
+-- Page 7, Offset 3029.
+-- 絵日記じみたかすかな思い出。
+  Des souvenirs vagues comme dans un journal illustré.
+
+}
+[sha:f5a5bcbe87cbf48d2b17c6b8d6a79ea1b7644c46]{
+-- Page 7, Offset 3030.
+-- ……暗い夜には決まって祖父の言葉が耳に響く。
+  ...... Lors des nuits noires, j'entendais toujours les mots de mon grand-père résonner dans ma tête.
+
+}
+[sha:ca428d6c86f23b0012fec0e344d24c45c2b404a6]{
+-- Page 7, Offset 3031.
+-- どんなに風が強く吹いても、<傍|かたわ>らの少女の<鐘|うた>が聞き惚れるほどのものでも、不吉な言葉をかき消す事はできない。
+  Peu importait à quel point le vent soufflait fort, et même si ces mots funestes ressemblaient au chant d'une jeune fille toute proche auquel je me serais habituée, je ne pouvais pas les étouffer.
+
+}
+[sha:1cd00a71951bd0450d7913372e7d44115f258a22]{
+-- Page 8, Offset 3032.
+-- 「……ご到着ね」
+「...... Nous sommes arrivées.」
+
+}
+[sha:514322c0c8d764247c5423c2e6841b85aee87773]{
+-- Page 8, Offset 3033.
+-- 傍らの<少女|ありす>が言った。
+  dit Alice à côté de moi.
+
+}
+[sha:90944bb4ffebfe6d553248f8a9b27511050c9c6f]{
+-- Page 8, Offset 3034.
+-- 抑揚のない声は、完全に傍観者でいる事を示している。
+  Sa voix monotone montrait bien qu'elle ne serait que spectatrice.
+
+}
+[sha:d20e5dd28b0ffa51eefb9da12c2093ced5ef9e17]{
+-- Page 9, Offset 3035.
+-- 夜の公園には私と彼女だけ。
+  Nous étions toutes seules dans le parc nocturne.
+
+}
+[sha:c6f550c85984d0b2ed8974d26673ec5d30b6e75c]{
+-- Page 9, Offset 3036.
+-- 今日は私にとって“今の自分”の誕生日。
+  Aujourd'hui était l'anniversaire de la “moi actuelle”.
+
+}
+[sha:103250c9f24c8ecc3f1ff95e36e4abbd61913979]{
+-- Page 9, Offset 3037.
+-- 記念すべき<初陣|ういじん>にしては、少々不吉な夜と言わざるをえない。
+  Je devais dire que pour un baptême du feu digne d'être célébré, c'était une nuit un peu sinistre.
+
+}
+[sha:a083a6587527c9e8e6638ddd5c6e4b30722a042f]{
+-- Page 10, Offset 3038.
+-- ぶあつい雲は黒い傘のように星明かりを<遮|さえぎ>っている。
+  D'épais nuages sombres masquaient la lueur des étoiles comme un parapluie noir.
+
+}
+[sha:41e717718091e3dbab8ca8170f4038f986b1422a]{
+-- Page 10, Offset 3039.
+-- 強い風は夜空を引き裂き、重い雲を運んでいく。
+  Un vent fort déchirait le ciel nocturne et déplaçait ces nuages massifs.
+
+}
+[sha:a779f669975e644ecf2555571d1a07da822bbd32]{
+-- Page 10, Offset 3040.
+-- 公園の真ん中に立つ柱時計の針は、二本とも頭上の月を指すように頂点を向いている。
+  Les aiguilles de l'horloge qui trônait au milieu du parc pointaient toutes les deux vers le haut, comme pour montrer du doigt la lune haut dans le ciel.
+
+}
+[sha:0d5b644f9dff1a06666c4ae4c91730d50e8d0947]{
+-- Page 10, Offset 3041.
+-- あいにくと、今日は月のない夜だったけれど。
+  Malheureusement, aujourd'hui, c'était une nuit sans lune.
+
+}
+[sha:9ec7891aeb7c7b9ddf2a7dd2ff9c824c76e7f6dd]{
+-- Page 11, Offset 3042.
+-- 冬の大気は、深夜になって狂暴さを増している。
+  En pleine nuit, l'air hivernal se déchaînait encore plus.
+
+}
+[sha:71e0f50f6938bc37027e8f5dff8ef7e7703b9f50]{
+-- Page 11, Offset 3043.
+-- 息を吸うだけで体の中が凍る気がする。
+  Rien qu'en respirant, j'avais l'impression que mon corps se gelait de l'intérieur.
+
+}
+[sha:cdc735622283080d80dc5c3056d08cc412426ac3]{
+-- Page 12, Offset 3044.
+-- 骨に染みこむような冷気は、そのまま背骨を通じて脳に直接入りこんでくる。
+  L'air froid semblait s'infiltrer dans mes os, passant tel quel par ma colonne vertébrale et parvenant directement à mon cerveau.
+
+}
+[sha:cc9667fc0f9c93ca715b0f713abd16dd9b115b22]{
+-- Page 12, Offset 3045.
+-- 思考が寒さで麻痺しないよう、
+  Pour éviter que le froid ne paralyse mes pensées,
+
+}
+[sha:d0c46ba85eb6b4117b8b14afb2705b9c69f69db4]{
+-- Page 12, Offset 3046.
+-- 指先が寒気で化石にならないよう、
+  et que le bout de mes doigts ne se pétrifie à cause de l'air glacial,
+
+}
+[sha:81f86596e4e9f7e167117c7d24649048ae0f5a06]{
+-- Page 12, Offset 3047.
+-- 私は、自分の<鼓動|リズム>と感情を炎にくべた。
+  je jetai mes sentiments et mes battements de cœur dans les flammes.
+
+}
+[sha:aca7a4817f3f80bfd5a7ab18804ef9b49bd25fbb]{
+-- Page 13, Offset 3048.
+-- 「触覚を<譲|ゆず>るわ。……幸運ね。
+「Je te transmets le sens du toucher...... Tu as de la chance.
+
+}
+[sha:ac98e31afc95c8c182e68b5da6edf3be550c8660]{
+-- Page 13, Offset 3049.
+-- あの位置なら刻んでおいた<鬼火|ウィスプ>が灯る」
+  Vu son emplacement, la mèche que j'ai gravée brûlera.」
+
+}
+[sha:79e805d9e02b55ae51d04512c724cc42bb2672e0]{
+-- Page 13, Offset 3050.
+-- 有珠の言葉に頷きだけで応える。
+  Je répondis aux paroles d'Alice par un simple hochement de tête.
+
+}
+[sha:f7905510c0401a3a0635ebb225b6acb332fa1233]{
+-- Page 13, Offset 3051.
+-- その時、一瞬だけ地面が見えた。
+  À cet instant, je vis furtivement le sol.
+
+}
+[sha:fe5278f9440b184dfdf303b611d680af1e5a01fe]{
+-- Page 14, Offset 3052.
+-- ……私の両足はかすかに震えている。
+  ...... Mes jambes tremblaient légèrement.
+
+}
+[sha:79c47e310a637b1eab309fb29ed03dec3df5b0ef]{
+-- Page 14, Offset 3053.
+-- 寒いから震えているんだ、と判断したけれど自信はなかった。
+  Elles tremblent à cause du froid, jugeai-je, mais je n'en étais pas sûre.
+
+}
+[sha:ebea9046851df8aef192323d35705efc64821e37]{
+-- Page 14, Offset 3054.
+-- 本当は寒さではなく恐怖で<痺|しび>れてしまっているのかも知れない。……ホッと息を吐く。感情が働いているのなら、私はじゅうぶんに人間らしい。
+  En réalité, peut-être qu'elles étaient engourdies, non pas par le froid, mais par la peur...... Je soupirai. Si mes émotions me tourmentaient, ça voulait dire que j'étais encore bien humaine.
+
+}
+[sha:55ebd5c21b1a0486ef3f7792f9904a88c8256534]{
+-- Page 15, Offset 3055.
+-- そんな感傷にひたる間もなく、結界の感触が有珠から私に移ってきた。
+  Avant que je n'aie le temps de me plonger dans ces sentiments, les sensations de la Barrière d'Alice me furent transmises.
+
+}
+[sha:35f1a92808a8273c8fe8f1a18858b54f0509c578]{
+-- Page 15, Offset 3056.
+-- この公園一帯に敷かれた透明の<境|かべ>。
+  Une frontière invisible étalée sur toute la zone du parc.
+
+}
+[sha:8b591a9368c667c18057b8914005e222f41fb85b]{
+-- Page 15, Offset 3057.
+-- 地中深くまで根を張った認知外の絨毯。
+  Un tapis de reconnaissance externe qui s'enfonçait profondément dans le sous-sol.
+
+}
+[sha:e8bba51bf63f74063c3a9a322c04ddb1f55c55ec]{
+-- Page 16, Offset 3058.
+-- ―――夜に<浸|ひび>く、久遠寺有珠の<童話詠唱|マザーグース>。
+  ―――<L'Aria de contes de fées|Mother Goose> de Kuonji Alice retentissait dans la nuit.
+　　　
+}
+[sha:6d2266ad013d895bedf004ccbf15b199c904823d]{
+-- Page 16, Offset 3059.
+-- それらの感覚と、私の体がひとつになる。
+  Mon corps ne fit qu'un avec ces sensations.
+
+}
+[sha:78efc4956929a086dba1656c55850c219a4b33cc]{
+-- Page 16, Offset 3060.
+-- ざわり、と右腕に鳥肌がたつ。
+  La chair de poule monta dans mon bras droit.
+
+}
+[sha:611de79d77335c6e9f4c16e02166d8eb925b8800]{
+-- Page 16, Offset 3061.
+-- 誰かが私の腕に侵入したのだ。
+  Quelqu'un avait pénétré mon bras.
+
+}
+[sha:6650b3b9a795b40f43a78cd2c3d861871d9bf8b7]{
+-- Page 17, Offset 3062.
+-- 鳥肌は<蟻|あり>のように右腕を<這|は>い上がってくる。
+  La chair de poule rampa sur mon bras droit comme une fourmi.
+
+}
+[sha:82c8939fd12e45e6f7dfd2d0a3fa0b42133e37e1]{
+-- Page 17, Offset 3063.
+-- ゆっくりと、確実に、この心臓めがけて。
+  Doucement, avec certitude, ciblant mon cœur.
+
+}
+[sha:c4c62675d9e236a101aacfbd8206bf4db7dd0f65]{
+-- Page 17, Offset 3064.
+-- 払い<除|の>けたくなる衝動をおさえて、より決定的な位置、より確実な到来を待つ。
+  Je me retins de la chasser sur-le-champ et attendis une position plus avantageuse, une occasion plus favorable.
+
+}
+[sha:9f3ae4bd3b2652717a50b0e3c50181a74704ae45]{
+-- Page 18, Offset 3065.
+-- 月の無い夜。
+  Une nuit sans lune.
+
+}
+[sha:8e77c6ffb42b2fe8f1385ddfa3bb3a09fb55f736]{
+-- Page 18, Offset 3066.
+-- 公園の小さな街灯だけでは、闇の<全容|すべて>は見渡せない。
+  Avec les petits réverbères du parc comme seul éclairage, je ne pouvais pas surveiller toutes les ténèbres.
+
+}
+[sha:fab19772e069541791072606af5bcffddb08505b]{
+-- Page 19, Offset 3067.
+-- 蟻の進行は止まった。
+  La progression des fourmis s'arrêta.
+
+}
+[sha:91221f2dcfce3582c173ed1cad98e6da2d9fdfc3]{
+-- Page 19, Offset 3068.
+-- 私の右腕から離れて離れて<心臓|まなか>のとなり。
+  Loin, très loin de mon bras droit, tout près de mon cœur.
+
+}
+[sha:ea327dc01ee80f8b9a4135d999d9ff68c97315ce]{
+-- Page 19, Offset 3069.
+-- 視覚を動員することなく、闇に<潜|ひそ>む侵入者の姿が見える。
+  Sans avoir à utiliser ma vue, je pouvais distinguer l'intrus se dissimulant dans les ténèbres.
+
+}
+[sha:b83f74a9a2e142dc93cb9854da80b1e98ee90946]{
+-- Page 19, Offset 3070.
+-- ここから<右舷|うげん>後方三十歩ほどの茂みの<陰|かげ>、四つんばいに手足をついたソレは<手招|てまね>きするように右手をあげ―――
+  L'ombre se trouvant à trente pieds derrière moi sur la droite, avec les quatre pattes au sol, leva la main droite comme pour faire un signe―――
+
+}
+[sha:ac86f11a6170a618f56a2bad7570e7845d3c2b53]{
+-- Page 19, Offset 3071.
+-- 「―――そこ！」
+「―――Ici !」
+
+}
+[sha:14754d6914dfd0f39876e96af6753fe513ad13cf]{
+-- Page 19, Offset 3072.
+-- 私の知覚と、敵の行動はほぼ同時だった。
+  L'attaque de l'ennemi et ma réaction furent quasi synchrones.
+
+}
+[sha:e857cdc181837278fcb2a401f49754ad9c5c54de]{
+-- Page 20, Offset 3073.
+-- 体が振り向く。
+  Mon corps se retourna.
+
+}
+[sha:95ca8f57463ede89e17830b2238924054040a0bf]{
+-- Page 20, Offset 3074.
+-- 敵の腕は槍のように伸びた。
+  Le bras de l'ennemi s'allongea comme une lance.
+
+}
+[sha:b3f1ce7ff1fec3cbd5179e0e2a91256363c8accd]{
+-- Page 20, Offset 3075.
+-- 高速で後頭部に放たれた凶器が、私の髪をさらっていく。
+  L'arme meurtrière qui se dirigeait à grande vitesse vers l'arrière de mon crâne effleura mes cheveux.
+
+}
+[sha:e13677937616fb25dee8c66b5b3b73b8fe9c8f4d]{
+-- Page 20, Offset 3076.
+-- 有珠から結界を<譲渡|じょうと>され、ここ一帯そのものとなった全能の知覚が、最小の回避を可能とする。
+  La Barrière dont Alice m'avait transféré le contrôle et la perception omnipotente de toute la zone me donnaient la possibilité de faire un mouvement d'esquive minimum.
+
+}
+[sha:cb9cbb9ce52ec93869c2eae9ce535066b0317bab]{
+-- Page 21, Offset 3077.
+-- 礼儀知らずの蛮行に舞い上がる髪。
+  Mes cheveux volèrent sous l'effet de cet acte barbare.
+
+}
+[sha:341c003e0f6066cf9294e3bb994206b4f1736c7a]{
+-- Page 21, Offset 3078.
+-- 頬をかする、小さいが鋭い痛み。
+  Une douleur ténue mais aiguë me traversa la joue.
+
+}
+[sha:8f61d30a3315536772fddf03b4a0d84d0667059f]{
+-- Page 21, Offset 3079.
+-- ―――死が、魂に触れた気がした。
+  ―――J'eus l'impression que la mort touchait mon âme.
+
+}
+[sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
+-- Page 22, Offset 3080.
+-- 「っ―――！」
+「Tch―――!」
+
+}
+[sha:4102e15760c1bccd182f0a58f44f822d5fb3e9b9]{
+-- Page 22, Offset 3081.
+-- 体内の血流を、異なる<循環|かいろ>に切り替える。
+  Je fis commuter ma circulation sanguine sur un circuit différent.
+
+}
+[sha:2c60eef167a84b07d5a7ffc67a438516e67b285f]{
+-- Page 22, Offset 3082.
+-- 秒速一メートルで体内を巡る血液が、架空の元素に変質する。
+  À la vitesse d'un mètre par seconde, le sang circulant dans mon corps s'altéra en un élément chimique imaginaire.
+
+}
+[sha:61d511f000d22a99612f5796a5845355d225834d]{
+-- Page 22, Offset 3083. Glued. Mods: @x.
+-- 心臓はまったく別の<生|エ><成|ン><機|ジ><関|ン>に成りはてて、私の体を一つの回路として利用する。
+Mon cœur devint un moteur complètement différent, et utilisa mon corps comme un circuit.
+
+}
+[sha:654cf23156fab31807fa1daa37b8952e18bdcc33]{
+-- Page 23, Offset 3084.
+-- 熱量として計測されない不可知の運動。
+  Un mouvement mystérieux qui transportait une quantité de chaleur incalculable.
+
+}
+[sha:e1be1497e7a768f53b763acf3d23a9e26a09e0fd]{
+-- Page 23, Offset 3085.
+-- 私を今の私にならしめた、いまだ人の手の及ばぬ神秘。
+  Un Mystère, encore inatteignable par les humains normaux, qui m'avait façonnée telle que j'étais à présent.
+
+}
+[sha:de4ddaea14a70c816779fafd8e50082ad9fb6051]{
+-- Page 23, Offset 3086.
+-- あらゆる奇跡、<寓話|ぐうわ>の動力となる生命の火。
+  Le feu de la vie qui devenait la force motrice de toutes les fables et tous les miracles.
+
+}
+[sha:4ecb6147d14650e2174f26abfadc94a7a8b8ebc0]{
+-- Page 23, Offset 3087.
+-- これを、私たちは魔力と呼ぶ。
+  C'est ce que nous appelons prana.
+
+}
+[sha:06c96dff430e8de59f8843360560f29f4d2b758a]{
+-- Page 24, Offset 3088.
+-- 「―――<接続|セット>」
+「―――<Connexion.|Set.>」
+
+}
+[sha:83059af5c34331e5e8402f57484638cb7d4d912b]{
+-- Page 24, Offset 3089.
+-- 振り向いて敵を視界に収め、片手を振りかぶる。
+  Je me retournai, mis l'adversaire dans ma ligne de mire et levai ma main.
+
+}
+[sha:f3b93660b002740774ab199dc3848987f970afdf]{
+-- Page 24, Offset 3090.
+-- 腕は意志の代行だ。
+  Mon bras était l'agent de ma volonté.
+
+}
+[sha:a3fae342ad51379198c1938a3025d635d5c37b3d]{
+-- Page 24, Offset 3091.
+-- 私はまだ未熟だから、<発|こ><音|え>と<手足|どうさ>を使わないと魔術は働いてくれない。
+  Je manquais encore d'expérience, je devais donc utiliser ma voix et mes membres pour que le sort agisse.
+
+}
+[sha:22940557b964d36ad188d9b1beaad4c26b4804d6]{
+-- Page 25, Offset 3092.
+-- 魔術式は予め公園に刻まれている。
+  Le sort avait été inscrit à l'avance dans le parc.
+
+}
+[sha:0150a4a1ac5a30cf42d7a6bacf718a28e4e60f1b]{
+-- Page 25, Offset 3093.
+-- 私がするコトは、その式に火をくべるだけ。
+  Tout ce que j'avais à faire, c'était de l'activer.
+
+}
+[sha:0457140a6fbdceb7e9b002b871af8af7daac1897]{
+-- Page 25, Offset 3094.
+-- 体内で生成した魔力を、各自それぞれの方式で流しこめばいい。
+  J'avais juste à alimenter chacun des systèmes avec le prana que mon corps avait généré.
+
+}
+[sha:0c052aebdc16c4708f4e7d406deef45e8af6f3e8]{
+-- Page 26, Offset 3095.
+-- たいていの魔術師は転移方式だ。有線にしろ無線にしろ、式に魔力を<注|そそ>げばいい。
+  Généralement, les Mages utilisaient la méthode du transfert. Qu'il y ait un lien physique ou non, il suffisait d'injecter le prana dans le dispositif.
+
+}
+[sha:83c08e8cd886e7754867475e207fe90ed2adc5b3]{
+-- Page 26, Offset 3096. Mods: @n.
+-- “出す”“撃つ”“流す”と色々あるけど、私の場合はなんていうか、こう―――
+  “Sortir”, “Attaquer”, “Verser”, il y avait toutes sortes de transfert, mais dans mon cas, comment dire―――
+
+}
+[sha:d0a9fe9014e1b8ded726921ae41c12f8336c7aa1]{
+-- Page 26, Offset 3097. Glued.
+-- 自分の手足で<弾|はじ>く感じ……！
+ c'était comme si je le repoussais avec mes propres membres......!
+
+}
+[sha:813dca283caeef9e0af3108f707315d52c5f54c7]{
+-- Page 27, Offset 3098.
+-- 「―――燃えろ！」
+「―――Brûle !」
+
+}
+[sha:46de7d512ae543a106eaf28affc03cffff91d89e]{
+-- Page 27, Offset 3099.
+-- 高速に高速で対抗する。
+  Je répondis à la vitesse par la vitesse.
+
+}
+[sha:df2c5183272e2e9e8f122e6a399f4cfe87ae20e8]{
+-- Page 27, Offset 3100.
+-- 数メートル伸ばした腕はそのまま、敵は炎に包まれた。
+  Le bras allongé de plusieurs mètres resta tel quel, tandis que les flammes enveloppèrent l'ennemi.
+
+}
+[sha:6838c1d4df1ae3bd4f80e46634b06d72b95b3741]{
+-- Page 27, Offset 3101.
+-- 夜の公園というコトもあってキャンプファイヤーを連想させる。ただ、炎の中で影絵のように<蠢|うごめ>くのは人間らしき姿だったけど。
+  Comme nous étions dans un parc en pleine nuit, ce spectacle rappelait un feu de camp. Seulement, l'ombre chinoise qui se tortillait dans le feu avait une forme humaine.
+
+}
+[sha:7a7718331cde39890942a094f4ebdece5ea582bf]{
+-- Page 28, Offset 3102.
+-- 不自然に発した炎は、やっぱり不自然に消えた。
+  Le feu, qui avait démarré artificiellement, finit par s'éteindre tout aussi artificiellement.
+
+}
+[sha:7f8c9a2184ba4ce89376757f7879f14f1aa5243c]{
+-- Page 28, Offset 3103.
+-- 物を焼く音も、焦げた臭いもあまりない。
+  Il n'y eut pas vraiment de bruit de crépitement, ni d'odeur de brûlé.
+
+}
+[sha:f54f8b52005af766920520a0abc3f3de4b2b7230]{
+-- Page 29, Offset 3104.
+-- 「―――結界、返すわ。死体を確認するから」
+「―――Je te rends la Barrière. Je vais inspecter son corps.」
+
+}
+[sha:c45c3b4f02df85791e0431d3b0625cdfcd63c517]{
+-- Page 29, Offset 3105.
+-- 傍らの彼女に言って、もう動かない人影に足を向けた。
+  J'annonçai cela à la jeune fille à mes côtés et dirigeai mes pas vers la silhouette à présent immobile.
+
+}
+[sha:2c73b2abe3355d3914979ef8bf5abdf0b581bd6a]{
+-- Page 29, Offset 3106.
+-- 殺した。
+  Je l'ai tué.
+
+}
+[sha:139cf38986707d8f5aab96a29fa147540e721f15]{
+-- Page 29, Offset 3107. Glued. Mods: @x.
+-- 殺した。
+Je l'ai tué.
+
+}
+[sha:139cf38986707d8f5aab96a29fa147540e721f15]{
+-- Page 29, Offset 3108. Glued. Mods: @x.
+-- 殺した。
+Je l'ai tué.
+
+}
+[sha:87bf5f3f9031cdf990804e95d4573006f79310ae]{
+-- Page 29, Offset 3109.
+-- 相手が何者であれ、人の命に、手をかけた。
+  Peu importait qui était l'adversaire, j'avais attenté à la vie de quelqu'un.
+
+}
+[sha:d61d0466b217eb4a7afaa44a9bf71b1a463cbc49]{
+-- Page 29, Offset 3110.
+-- その、現実味もなければ手応えもなかった事実を、<渇|かわ>ききった喉で嚥下する。
+  Tout en déglutissant malgré ma gorge sèche, je digérai ce fait irréel et répulsant.
+
+}
+[sha:b7ff90e3df7b1e8d0c18744087dfb6d1f8738578]{
+-- Page 29, Offset 3111. Glued. Mods: @x.
+-- 硬くて苦くてこれっぽっちも飲み込めないけど、嚥下しようと努めていた。
+C'était dur et douloureux et je ne parvenais absolument pas à avaler, mais je m'efforçai de le faire.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 30, Offset 3112.
+-- 「――――――」
+「――――――」
+
+}
+[sha:afab82130387dbb9d66ac27653d8411126e2510b]{
+-- Page 30, Offset 3113.
+-- 私はいたって冷静だ。心拍数はレートを幾分オーバーしていて、呼吸も<千|ち><々|ぢ>に乱れているけど、頭はすっごく冷静の筈。
+  J'étais plutôt calme. Mon pouls était un peu trop fort, et ma respiration faisait autant de bruit que deux mille personnes, mais je pensais avoir les idées très claires.
+
+}
+[sha:57d7ac2d728b98d38b4a48ea41e8db93681c6e46]{
+-- Page 30, Offset 3114.
+-- 気が付けば消し炭はもう目の前。
+  Avant que je ne m'en rende compte, le morceau de charbon était sous mes yeux.
+
+}
+[sha:6d93616e32069e54e4d0ff32a0a0726e7f3bfd26]{
+-- Page 30, Offset 3115.
+-- 反撃を想定しつつ、ゆっくり死骸を確認する。
+  Craignant une contre-attaque, je vérifiai le corps avec précaution.
+
+}
+[sha:69a650eecd9c71a98606236317280302eded274c]{
+-- Page 30, Offset 3116.
+-- ……よし、問題なし。公園の地面に倒れ臥したそれは、燃えつきて灰になっていた。
+  ...... Bien, aucun problème. Ce qui était ratatiné et recroquevillé sur le sol du parc avait fini de brûler et n'était plus que cendres.
+
+}
+[sha:be213fea4eb36e6599b773015f0d826e9854c598]{
+-- Page 31, Offset 3117.
+-- 「………？」
+「.........?」
+
+}
+[sha:22ba2d53d2bbec7ba1fc527f05aaba721bba7e5e]{
+-- Page 31, Offset 3118.
+-- けれど何かおかしい。
+  Mais quelque chose clochait.
+
+}
+[sha:4c2d2ad72bc475279a4ccb5c16bd4ba681cdddbd]{
+-- Page 31, Offset 3119.
+-- 一見した感想、残骸のあり方に生命の匂いがしない。
+  Mon impression au premier coup d'œil fut que l'aspect des restes ne ressemblait à rien de vivant.
+
+}
+[sha:90596eac4143bc6050b713a69d31474adb3430b7]{
+-- Page 31, Offset 3120.
+-- まさか、と人影の顔を見る。
+  Pas possible, pensai-je en regardant le visage de la silhouette.
+
+}
+[sha:9e79ebd8f26c597a71c74fa3c76bbbd65bc77b39]{
+-- Page 31, Offset 3121.
+-- そこには目も鼻もなく、マネキンのような白い面だけがあった。
+  Elle n'avait ni yeux ni nez, juste une face blanche comme celle d'un mannequin.
+
+}
+[sha:6a0965099351a2c1652d8c41acf4895a6793717f]{
+-- Page 32, Offset 3122.
+-- 「ちくしょー、またやられた！」
+「Merde ! On s'est encore fait avoir !」
+
+}
+[sha:797d2a22b7c1aee85eb7f9bda14d6b16eec4e050]{
+-- Page 32, Offset 3123.
+-- 叫んでマネキンを蹴っとばす。
+  Je criai et donnai un coup de pied au mannequin.
+
+}
+[sha:f35442019703bd433b4161f95238442451ae79ce]{
+-- Page 32, Offset 3124.
+-- 灰は風に舞い、死体も風化していく。
+  Les cendres s'éparpillèrent avec le vent, et le cadavre se désagrégea.
+
+}
+[sha:e9527a44c925652972aa41a8fb4c85f997df77c1]{
+-- Page 32, Offset 3125. Glued. Mods: @x.
+-- いや、死体というのは正しくないか。これはただの人形で、結局、おびき寄せたつもりが、またハズレを引かされた。
+Non, on ne pouvait pas vraiment parler de cadavre. Ce n'était qu'une marionnette. J'avais l'intention d'attirer l'ennemi dans un piège, mais finalement, ce fut encore une fois un échec.
+
+}
+[sha:a29825dbd386c8eece40df9b5649e7805a7623f0]{
+-- Page 32, Offset 3126.
+-- ……本当の意味での初陣は、また先送りになったということだ。
+  ...... Ce qui voulait dire que mon véritable baptême du feu était encore remis à une autre fois.
+
+}
+[sha:b691980c967a2ee5e17cc4fc7e813e9b87c12478]{
+-- Page 33, Offset 3127. Mods: @n.
+-- 「はあ……
+「Aaah......
+
+}
+[sha:e702314e547fe11afcad03470a67ad4118e00f64]{
+-- Page 33, Offset 3128. Glued. Mods: @n.
+-- いつになったら一人前にって……
+ Quand est-ce que je deviendrai enfin une vraie Mage......
+
+}
+[sha:b294012fac0cf124ecdab2a16ce2ce32e402c9d1]{
+-- Page 33, Offset 3129. Glued.
+-- あれ？」
+ Hein ?」
+
+}
+[sha:47de2efe118ec1d65736f18d88095bc2ad374e49]{
+-- Page 33, Offset 3130.
+-- その時、ふと視界を見慣れた物がかすめた。
+  À ce moment, quelque chose de familier entra par hasard dans mon champ de vision.
+
+}
+[sha:b178d80c1dfae255d3cc61b44f6e9b01a4c50198]{
+-- Page 33, Offset 3131.
+-- むこうの滑り台の影のカタチがおかしい。なんというか、余分なモノでぷくっと太っている気がする。
+  La forme de l'ombre du toboggan d'en face était étrange. Comme si quelque chose d'autre la rendait plus grande.
+
+}
+[sha:c05cbb3eed6f0d33e794f1f2242e82a69c20e352]{
+-- Page 34, Offset 3132.
+-- 戦闘の余熱でのぼせていたのか。
+  Je devais être perturbée par les restes de chaleur de la bataille.
+
+}
+[sha:194db5a12eb6831a306be0a947982d816ae03204]{
+-- Page 34, Offset 3133.
+-- 私は、その“余分な影”が何であるか、思い出すのに一秒もかかってしまった。
+  Il me fallut une seconde pour comprendre ce qu'était cette “ombre en trop”.
+
+}
+[sha:92148357a5f8ca4da540fa27e0e90dfdf567464d]{
+-- Page 35, Offset 3134.
+-- 「―――誰ッ！？」
+「―――Qui va là ?!」
+
+}
+[sha:22c3e24ad0da7fe0b1f27dd8ad1440b5f8461df5]{
+-- Page 35, Offset 3135.
+-- 自分で言うのもなんだけど、失敗だった。
+  Je me risquai à parler, mais ce fut une erreur.
+
+}
+[sha:ba4ee67feefe141f8b2ed52c19243ba06e8a2eb9]{
+-- Page 35, Offset 3136. Mods: @n.
+-- その見慣れた高校の制服を着た誰かは私の声でビクっと後じさって、そのまま、
+  En entendant ma voix, cette ombre familière portant un uniforme de lycéen se retourna, et aussitôt,
+
+}
+[sha:c18dea02eb25ef1fe5ac15d2143267569b0e8672]{
+-- Page 35, Offset 3137. Glued. Mods: @n.
+-- ものすごい勢いで走り出した。
+ se mit à courir à une vitesse effrénée.
+
+}
+[sha:906e5f4ca4cf17aa91f99453929574c8d48ba17d]{
+-- Page 35, Offset 3138.
+-- まるで必死に逃げるみたい―――
+  Comme s'il fuyait désespérément―――
+
+}
+[sha:45a4e585ff7575a668d5eca63ef5d0fddfc7bcdb]{
+-- Page 35, Offset 3139.
+-- ―――って、実際逃げてるんだアレ！
+  ―――Hein ?! Mais il s'enfuit vraiment !
+
+}
+[sha:302281fadead99f6faf5a0b4d6f4078df0e2ad4d]{
+-- Page 36, Offset 3140.
+-- 「追いかけて！　見られた！」
+「Poursuis-le ! Il nous a vues !」
+
+}
+[sha:b210f3e40a5ca45c8f253490d58b98c5d9240d9c]{
+-- Page 36, Offset 3141.
+-- 急いで相棒に言うけれど、彼女は第三者の存在に気付いてもいなかった。
+  Je m'adressai précipitamment à ma partenaire, mais elle non plus ne s'était pas aperçue de la présence d'une tierce personne.
+
+}
+[sha:7d4180a5a065a813948881f61f8c56fa50682036]{
+-- Page 36, Offset 3142.
+-- かといって自分も動けない。情けない事に、今の戦闘でまだ足がすくんでやがる……！
+  J'avais beau dire ça, moi non plus, je ne bougeais pas. C'était pitoyable, mais mes jambes étaient encore engourdies par la bataille......!
+
+}
+[sha:340f3e19ed68a149fae60036f6e2be944d46f043]{
+-- Page 37, Offset 3143.
+-- 「だめ、逃げられる！
+「Ça craint, il va s'enfuir !
+
+}
+[sha:b5bd5d679ab7f107b57d13e7632200dec67ddcdf]{
+-- Page 37, Offset 3144.
+-- 捕まえて始末しないと……！」
+  Il faut l'attraper et lui régler son compte, sinon......!」
+
+}
+[sha:a888536bb94602b0af4292e81f44fe7b54deaaf0]{
+-- Page 37, Offset 3145.
+-- 上品に振る舞う余裕なんてない。
+  Je n'avais pas le temps de me comporter avec élégance.
+
+}
+[sha:5831a53f914dca2dabbd13611b825c0382ee1e4b]{
+-- Page 37, Offset 3146.
+-- この現場を誰かに見られる事は、私たちにとって生死に関わる問題なんだから―――！
+  Le fait d'avoir été vues dans cette situation était une question de vie ou de mort pour nous―――!
+
+}
+[sha:7148719bd55624f591220e392282ed0c9832b54a]{
+-- Page 38, Offset 3147. Mods: @k, @e.
+-- 「待て、この……！」
+「Attends, espèce de......!」
+
+}
+[sha:79402067dcd56ae54dfbf007c309f350b4d3d8a9]{
+-- Page 38, Offset 3148.
+-- 足の<痺|しび>れを振り払って公園の外に出る。
+  Ranimant mes jambes engourdies, je quittai le parc.
+
+}
+[sha:c5f4532f7b86fdd8fc8b0029251d7b72e3ea4aa1]{
+-- Page 38, Offset 3149.
+-- ……なんて見事な逃げ足だろう。
+  ...... Il s'enfuyait à une vitesse vraiment incroyable.
+
+}
+[sha:e57fe9157c1510862e7aa4d7c6f9687d4bbf0eff]{
+-- Page 38, Offset 3150.
+-- 一部始終を目撃していた何者かは、跡形もなく住宅地の闇に消えていた。
+  Ce témoin, qui avait vu toute la scène, disparut dans les ténèbres du quartier résidentiel sans laisser la moindre trace.
+
+}
+[sha:9a15a4bcc91ae3b8cf2c403a07faa65b22679f3f]{
+-- Page 39, Offset 3151.
+-- 「ああもう、結界にあいつの感触なんてなかったのに……！」
+「C'est pas vrai ! Je ne l'ai pourtant pas senti entrer dans la Barrière......!」
+
+}
+[sha:7982b5d39f9bfb3157f594eb6d1d397afa894724]{
+-- Page 39, Offset 3152.
+-- などと、文句を言ってみても学生服の人影が戻ってくる筈もない。
+  J'avais beau me plaindre, la silhouette en uniforme d'étudiant ne risquait pas de revenir.
+
+}
+[sha:a08ec1176d799350100588ca60776fac5ed37471]{
+-- Page 39, Offset 3153.
+-- 自分の情けなさを恨めしく思いながら、私は追跡を諦めた。
+  Tout en étant dépitée par mon impuissance, j'abandonnai la poursuite.
+
+}
+[sha:4dc23bc71b871b8359f6c11ab307e5f792b103a7]{
+-- Page 40, Offset 3154.
+-- 一時的にしろ、公園は有珠の“森”になっている。
+  Même si c'était temporaire, le parc était devenu la “forêt” d'Alice.
+
+}
+[sha:013a8376574e8bfdd7c181b85d53ea3809b4db9b]{
+-- Page 40, Offset 3155.
+-- ここでは一メートル以内にいようと人物像の特定、声の確認はあやふやになる。なにしろ童話の中の出来事だ。
+  Si on pénétrait d'un seul mètre à l'intérieur, le visage et la voix des gens devenaient imprécis et inidentifiables. Après tout, c'était l'intérieur d'un conte de fées.
+
+}
+[sha:f838a2c0865852508be6fe80b0557a5781cf07b4]{
+-- Page 40, Offset 3156.
+-- 一連の出来事は見られたが、私や彼女の顔や素性は知られていない―――なら、他に打つ手はある。
+  Il avait vu tout ce qui s'était passé, mais il ne connaissait ni mon visage ni celui d'Alice ni le lieu où nous habitions―――dans ce cas, nous pouvions encore agir.
+
+}
+[sha:e86b1e4d1d718d3d50289e5efb531ec50addd21c]{
+-- Page 41, Offset 3157.
+-- 「あの背中、男だった」
+「Ce dos, c'était celui d'un homme.」
+
+}
+[sha:72be9b6058daee0b8e65ab8ff16d7a5383172bf2]{
+-- Page 41, Offset 3158.
+-- 公園に戻る。
+  Je retournai au parc.
+
+}
+[sha:e55e352b07c74c872c7ccfe8bbcdee107d0911be]{
+-- Page 41, Offset 3159.
+-- 見慣れていて当然で、アレは間違いなくうちの高校の制服だ。
+  Il était normal que j'y sois habituée puisque c'était sans erreur possible l'uniforme de mon lycée.
+
+}
+[sha:34bab9e0f075fb21e2c74f6d05f124c33c5bb087]{
+-- Page 41, Offset 3160.
+-- 手がかりとしてはそれで十分。うちの生徒なら洗いだす手段はいくらでもある。
+  Ça suffisait comme indice. J'avais autant de moyens qu'il en fallait pour enquêter parmi les élèves.
+
+}
+[sha:2d7bd98002155cf95d13472b41ff0fa1439f0f05]{
+-- Page 42, Offset 3161.
+-- 「……にしても。どうしてこう問題ばっかり増えていくんだろう」
+「...... Mais quand même. Pourquoi les problèmes n'arrivent jamais seuls ?」
+
+}
+[sha:b3bc785409a1fdd3fb2099a8cb20705a9d12aa4c]{
+-- Page 42, Offset 3162.
+-- などと愚痴りつつも、解決の優先順位ははっきりしていた。
+  Je rouspétais, mais j'étais pleinement consciente de l'ordre des priorités à régler.
+
+}
+[sha:70ddd734502148076afb0dfc530f983863158b2b]{
+-- Page 42, Offset 3163.
+-- 変な噂をばらまかれるより早く、さっきの目撃者の口を封じなくてはいけない。
+  Je devais faire taire ce témoin oculaire avant qu'il ne répande des rumeurs étranges.
+
+}
+[sha:3340a3e126c3571197f4444fc709cedbc6253b1c]{
+-- Page 42, Offset 3164.
+-- それも最優先で、迅速に、容赦なく。
+  C'était devenu la priorité numéro 1, à exécuter impitoyablement et au plus vite.
+
+}
+[sha:67945470fbc94e164930bddc567e477a69af7554]{
+-- Page 43, Offset 3165.
+-- 顔を上げると、離れていた有珠の姿が見えた。
+  En levant la tête, je vis Alice au loin.
+
+}
+[sha:058180cbcea6b600b6b2cf204952d27f7c521e89]{
+-- Page 43, Offset 3166.
+-- 魔術師としてのあり方を目撃され、ピンチなのは彼女も同じなのに、
+  Alors qu'elle était tout aussi en danger pour avoir été aperçue durant ses activités de Mage,
+
+}
+[sha:9c9a0c4599ede69c190bdf3911e94b57ffca436f]{
+-- Page 44, Offset 3167.
+-- 「……これは、困った事になったわね」
+「...... Nous avons un problème.」
+
+}
+[sha:f73c46adf6e361ad68d9f7a55ea65b461220ffdd]{
+-- Page 44, Offset 3168.
+-- 人影の走り去った闇を見つめる姿は、冷静というより彫像か何かのように無反応。
+  la fille qui observait les ténèbres par où l'ombre s'était enfuie ne montrait aucune réaction ; comme une statue plutôt qu'une personne qui gardait son calme.
+
+}
+[sha:0971c0ba80be3a120686528520e4e406e254557f]{
+-- Page 44, Offset 3169.
+-- ……本当、うんざりする。
+  ...... Ça en devenait vraiment exaspérant.
+
+}
+[sha:8be5e8805f5b3f8db16c268c6784d7cca7b1e694]{
+-- Page 44, Offset 3170.
+-- 抑揚のないその声は、月の無い晩に、憎らしいほど似合っていた。
+  Cette voix monotone s'accordait si bien avec cette nuit sans lune qu'elle en était haïssable.
+
+}

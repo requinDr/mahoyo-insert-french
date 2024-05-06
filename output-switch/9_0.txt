@@ -1,0 +1,516 @@
+[sha:9bfd2ae2a767a69c33e2e480b49da98d0c3353e5]{
+-- Page 0, Offset 13011.
+-- 師匠も走る十二月。
+  Shiwasu, le mois de décembre.
+
+}
+[sha:9ccd558eb44875baf731a0aa073240c3115a3314]{
+-- Page 0, Offset 13012.
+-- 一年の総決算。
+  On y faisait généralement le bilan de fin d'année.
+
+}
+[sha:7595bce652b87e7b6a69cd89cfdb20a824e6f448]{
+-- Page 0, Offset 13013.
+-- やり残しを溜めに溜めた<不始末|ふしまつ>故か、<師走|しわす>の月日は<瞬|またた>く間に過ぎ去っていく。
+  Ce mois passait en un clin d'œil, sans doute à cause de la montagne de choses oubliées par inadvertance au cours de l'année.
+
+}
+[sha:9a45d232d4453968b102082c341ca6ccc607a09b]{
+-- Page 1, Offset 13014.
+-- 時に十二月某日。
+  En un certain jour de décembre,
+
+}
+[sha:c6e07f84a05a534d932c1e133b56a6c6c9ccadc9]{
+-- Page 1, Offset 13015.
+-- 何をやっているんだか互いに不明であるが、青子も有珠も草十郎も、忙しげな毎日を過ごしていた。
+  alors qu'Aoko, Alice et Sōjūrō étaient particulièrement occupés et passaient leurs journées chacun de leur côté,
+
+}
+[sha:498f0f66da4b029cec2808714006b0657a6627d4]{
+-- Page 2, Offset 13016.
+-- 「なに、コレ」
+「C'est quoi ce truc ?」
+
+}
+[sha:cb28a5fbcf296496a4ea9efa5d2a9a8a54863dcb]{
+-- Page 2, Offset 13017.
+-- 殺意を押し殺した、険悪<極|きわ>まりない声が響く。
+  on entendit une voix extrêmement menaçante, chargée d'intentions meurtrières à peine voilées.
+
+}
+[sha:83cf13519fcb4a654502693c3d6c9a14ac9d305c]{
+-- Page 3, Offset 13018.
+-- サンルームは中庭を一望できるため、天気の良い日など食堂として使われる。
+  La véranda servait de salle à manger les jours de beau temps, car elle donnait sur la cour.
+
+}
+[sha:6bd5558d8e28f40e9074dc942f01e6467a0933f3]{
+-- Page 3, Offset 13019.
+-- 歴史のある洋館に相応しい、家具も内装も一級品で纏められた空間である。
+  C'était un espace meublé et décoré par des objets de premier choix, en parfaite adéquation avec ce manoir chargé d'une longue histoire.
+
+}
+[sha:a03d96efc27dd12b8571e68224f6cb8b00780f0d]{
+-- Page 4, Offset 13020.
+-- 中国風の様式美を混ぜ合わせたチッペンデール式と、スマートながら英国の歴史を受け継ぐジョージアン式との融合は、庶民である青子ですら“ここでの非貴族的行為は自粛しよう”と誓わせる程だ。
+  L'association de la beauté du style Chippendale d'inspiration chinoise avec le chic du style géorgien hérité de l'histoire anglaise faisait un tel effet à Aoko, la fille du peuple, qu'elle avait juré de s'abstenir de tout acte déplacé dans cette pièce.
+
+}
+[sha:793aa6e41e1e609176c4cb35ce84b3c49644ba25]{
+-- Page 4, Offset 13021.
+-- 正直なところ<無|む><駄|だ><遣|づか>い以外の何物でもないと呆れもしているが、自分の財布が痛んだ訳でもないのでいいぞもっとやれ、という心境でもある。
+  Honnêtement, elle considérait un tel luxe comme une dépense parfaitement superflue, mais elle se disait également que ça ne la gênerait pas si cette excentricité allait encore plus loin, du moment que cela ne soulageait pas son portefeuille.
+
+}
+[sha:1a0fccb4d42c9d67afa4cbc60d8b6ca122067a18]{
+-- Page 5, Offset 13022.
+-- そんな高級感あふれるサンルームのテーブルに、目を疑う異物が三つ、鎮座していた。
+  Étonnamment, trois corps insolites trônaient sur la table de la véranda imprégnée de cette ambiance aristocratique.
+
+}
+[sha:5f558152f406c8be446fb5f89424099b05c1505d]{
+-- Page 5, Offset 13023.
+-- この部屋で見ると、得体の知れない宇宙食に見えなくもない。
+  Dans cette pièce, ils pouvaient facilement passer pour un mets mystérieux venu de l'espace.
+
+}
+[sha:6fe2e00b72266143b6f35c00d39f7bf2d65f1470]{
+-- Page 6, Offset 13024.
+-- 「草十郎。これ、なんか新しい冗談？」
+「Sōjūrō. C'est une nouvelle plaisanterie ?」
+
+}
+[sha:34ac0cc65761f8ecb95b5c52473d38c96884d7e7]{
+-- Page 6, Offset 13025.
+-- ふるふると<片手|かたて><拳|こぶし>を震わせながら、青子は今日の食事当番に問いかける。
+  demanda Aoko à la personne responsable du repas du jour, les poings tremblants.
+
+}
+[sha:ed45ffc1c9f7d3aeb7727ad28f23e459226b9e0c]{
+-- Page 6, Offset 13026.
+-- 時刻は午後九時。
+  Il était neuf heures du soir.
+
+}
+[sha:61c21fb01f1ab387229d91ca69156b0d02937c41]{
+-- Page 6, Offset 13027.
+-- 夕食を用意したシェフはうん、と素直に頷いた。
+  Le chef qui avait préparé le dîner acquiesça honnêtement.
+
+}
+[sha:15499d6f61436000e996b36493ea2b849a4256af]{
+-- Page 7, Offset 13028.
+-- 「コレはうちの会社の新製品。
+「C'est le nouveau produit de mon restaurant.
+
+}
+[sha:30446c649a50d4fbefce1529d1e3cdbea92f4c84]{
+-- Page 7, Offset 13029.
+-- パチモンくさいが中身はほんとにパチモンだ、と木乃美が言ってた。でも俺は本物よりいいと思う。
+  Kinomi a dit que ça sentait la pâtée pour chat, et que d'ailleurs, c'en était sûrement. Pourtant, je trouve qu'il est meilleur que la vraie.
+
+}
+[sha:833af79b9dd0d0606124f327e4309034d0b9b831]{
+-- Page 7, Offset 13030.
+-- そんなコトより評価すべきは、社内販売なんで一個四十円をきる低価格だ。
+  Mais ce qui le rend incroyable, c'est son prix imbattable de 40 yens le bol, car il est réservé aux employés.
+
+}
+[sha:3a7c67c8195641232b633c70cc2433424b14c168]{
+-- Page 7, Offset 13031. Glued. Mods: @x.
+-- すごいぞ、卵をつけても六十円とか」
+C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
+
+}
+[sha:842587a00d20419268fe1cd5f89ea0ace933318e]{
+-- Page 7, Offset 13032.
+-- 驚きだ、と感心する手抜きシェフ。
+  “C'est sidérant”, proclama d'un air élogieux le chef lésineur.
+
+}
+[sha:058d131cd6d2316cc263fa50fda795196662e48b]{
+-- Page 7, Offset 13033.
+-- そりゃ誰だって驚くわ、とひとり吐き捨てる青子だった。
+  N'importe qui en serait sidéré en effet, vociféra Aoko dans sa barbe.
+
+}
+[sha:7c8bc2a738db8d6d519b84022d366061e6583acb]{
+-- Page 8, Offset 13034.
+-- 「そう、良かったわね。
+「Ah oui ? Contente pour toi.
+
+}
+[sha:a919bf66a758736f337aacc87d496149304eeaa2]{
+-- Page 8, Offset 13035.
+-- ところで今日の夕飯はどこにあるの？」
+  Au fait, où est le souper ?」
+
+}
+[sha:de67ef845c378695ee18a83c7ed9321698f65875]{
+-- Page 8, Offset 13036.
+-- シェフは二秒ほど考えこんで、ぽん、と両手を合わせた。
+  Le chef réfléchit deux secondes avant d'avoir une fulgurance.
+
+}
+[sha:9a4596f5f219522e5e26ae59707a587af1c14eb1]{
+-- Page 8, Offset 13037.
+-- 「蒼崎、そんなに食べると太るよ」
+「Aozaki, si tu manges autant, tu vas grossir.」
+
+}
+[sha:4d468e7a3ba7006b3b28a89e0d6a0a4babb1ab04]{
+-- Page 9, Offset 13038.
+-- 「つまり、
+「Autrement dit,
+
+}
+[sha:cdcc6fab41b9d378e35e5ea64ea1450e3ee0ed45]{
+-- Page 9, Offset 13039.
+-- これが夕飯だって言い張る気なのねアンタはーっ！」
+  tu persistes à dire que c'est notre souper !」
+
+}
+[sha:91babc2300df72ee4943433101aaa4a8ed7abb0d]{
+-- Page 9, Offset 13040.
+-- 「言い張るも何も、これ以外用意していない」
+「Ce n'est pas que je persiste. Je n'ai surtout rien préparé d'autre.」
+
+}
+[sha:28d754be4c4083d3c549dab53ea87a97aa482058]{
+-- Page 10, Offset 13041.
+-- ふたりはそこで睨み合う。
+  Ils se regardèrent en chiens de faïence.
+
+}
+[sha:f89fe775405cc53d77e8134945e26f69ab65cdbd]{
+-- Page 10, Offset 13042.
+-- 青子はこんなもの食べるものかと徹底抗戦の意を示し、
+  “Je ne mangerai pas ça”, disait Aoko affichant son intention de résister jusqu'au bout.
+
+}
+[sha:76acd6b4a61d013b9a0cda56a9b7f523d64be0a4]{
+-- Page 10, Offset 13043.
+-- 草十郎は食べてもらえる事を大前提と信じており、
+  Quant à Sōjūrō, il croyait que son devoir était de manger ce qu'il avait préparé,
+
+}
+[sha:222518415489decd43ad33ddc995f64bf4a6a1ba]{
+-- Page 10, Offset 13044.
+-- あまつさえ、好き嫌いはいけないぞ、なんて教育理念まで持ち始めていた。
+  et par-dessus le marché, il commença à lui faire la leçon en affirmant que ce n'était pas bien de faire la fine bouche.
+
+}
+[sha:31f64e6ef8dec4a7951627956c9bac18b8def804]{
+-- Page 10, Offset 13045.
+-- 相変わらず両者の思考は噛み合わない。
+  Comme d'habitude, ils n'étaient pas sur la même longueur d'onde.
+
+}
+[sha:d9840e3a5892b5717b5b8181dea6a0bb0ad7aeb1]{
+-- Page 11, Offset 13046.
+-- 「イヤ。私は食べないからね、こんなの」
+「Je veux pas. Je mangerai pas ce truc.」
+
+}
+[sha:350812d2cb4cd25d44275d1bfc5ea67bcaed5a46]{
+-- Page 11, Offset 13047.
+-- 「お姫さまみたいなこと言うんじゃない。大体、今日の夕食代はこれで三名さま二百円未満なんだぞ」
+「Ne parle pas comme une princesse ! En plus, pour trois personnes, le dîner n'aura même pas coûté 200 yens aujourd'hui.」
+
+}
+[sha:e7276a41c59284b628e34d89546a984a2bde2b36]{
+-- Page 11, Offset 13048.
+-- けいざい的だ、と胸を張る草十郎。
+  “C'est un repas économique”, ajouta avec fierté Sōjūrō.
+
+}
+[sha:2daa87127bc81040281cfecc071549bfb70dc501]{
+-- Page 12, Offset 13049.
+-- 有珠はふたりの言い合いと、目前に置かれた未知の食器……実物を見るのは初めてらしい……を交互に眺めていた。もはや完全に傍観者である。
+  Alice observait leur dispute et le plat inconnu posé sous ses yeux...... Apparemment, c'était la première fois qu'elle en voyait. Pour l'instant, elle préférait rester simple spectatrice.
+
+}
+[sha:9a9bd38e2dcb875b0be82b1496df80ac5386f4ac]{
+-- Page 13, Offset 13050.
+-- 「し、信じられない……ひとり六十円の食事って、アンタ一体いつの生まれよ!?
+「Je... J'y crois pas...... 60 yens le repas... Tu viens de quelle époque, bon sang ?
+
+}
+[sha:b8c4e1a505d000c6daf236d438212973ac1e1ef7]{
+-- Page 13, Offset 13051. Glued. Mods: @x.
+-- このご時世、新しくできた牛丼屋ですら贅沢に原価あげてるわよ、ばか！」
+De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
+
+}
+[sha:828eb1b471efb7b484986978dac6f3a3c98de824]{
+-- Page 13, Offset 13052.
+-- 「…………蒼崎。一ヶ月の食費が三万円だけで、あんな好き勝手な食生活をしていたら、俺が君たちに殺される前に全員が飢え死ぬと思うんだ」
+「............ Aozaki. Vu les trente mille yens dédiés aux frais de bouche chaque mois, si on continue à manger autant, on mourra tous de faim avant que vous ne m'ayez tué.」
+
+}
+[sha:e971d3dc6d85a1049ca9887cec1bc416527b3ec8]{
+-- Page 14, Offset 13053.
+-- 「たしかに昨日の有珠の肉料理は素晴らしかった。
+「Le plat de viande qu'Alice nous a préparé hier soir était vraiment délicieux.
+
+}
+[sha:e5c3b70e591386b502d052e4b55232c69a58cb2e]{
+-- Page 14, Offset 13054.
+-- グラム七百円から肉は種類が変わるんだって感動した。
+  Je n'aurais jamais cru qu'une viande à 700 yens le gramme puisse être d'une telle qualité.
+
+}
+[sha:1df381e43430f85347ef777bbd4d0157ecdee83f]{
+-- Page 14, Offset 13055.
+-- 生協の果汁百パーセントジュースだって、ちょっと本気で馬鹿にできるもんじゃないと反省したよ。
+  Et il ne faut pas oublier non plus les jus de fruits 100% pur jus des associations coopératives. J'ai bien retenu la leçon.
+
+}
+[sha:fc4004cac6135dc529c0446b7941fa8ceb809e64]{
+-- Page 14, Offset 13056.
+-- けど、あれが三日続いたらこの家はどうなってしまうんだい？」
+  Mais si on mangeait de cette façon trois jours d'affilée, qu'adviendrait-il de cette maison ?」
+
+}
+[sha:3eafc9932cac143eb775575ffa74b051e024c593]{
+-- Page 15, Offset 13057.
+-- 珍しく常識的な事を口にする草十郎。
+  Pour une fois, Sōjūrō avait dit quelque chose de sensé.
+
+}
+[sha:d13f8eb5951552ab3580c9c40b480d422afb866d]{
+-- Page 15, Offset 13058.
+-- ひっそりと抗議の眼差しを向ける有珠だが、幸い、青子も草十郎も気付かなかった。
+  Alice leur lança silencieusement un regard de protestation, mais heureusement, ni Aoko ni Sōjūrō ne le remarquèrent.
+
+}
+[sha:248e2edd3bffa85ca7741c6d52590f2e00bbad73]{
+-- Page 16, Offset 13059.
+-- 「その時はその時よ。
+「On verra ça le moment venu.
+
+}
+[sha:1173a2c74c34c89f8b6f9e527a6e68c4df7e23ad]{
+-- Page 16, Offset 13060.
+-- それにね、昨日みたいなのは滅多にないの。有珠はアンタの料理に触発されて柄にもなく頑張ったみたいだけど！」
+  Et puis, les soirs comme hier sont vraiment exceptionnels. C'est juste que ta cuisine a inspiré Alice et qu'elle a fait de son mieux, pour une fois.」
+
+}
+[sha:7d64be2574adcc05bdd04d4b6e1f4177a0910bd2]{
+-- Page 16, Offset 13061.
+-- 青子の言葉に、有珠は静かに瞳を閉じる。
+  En entendant ces propos, Alice ferma calmement les yeux.
+
+}
+[sha:5b5be64f92d17789ce893523a1f903bac31d7b7e]{
+-- Page 16, Offset 13062.
+-- ……もしかすると、ああして怒りを抑えているのかもしれない。
+  ...... Peut-être était-ce sa façon à elle de réprimer la colère.
+
+}
+[sha:bae378296f7c7a72d262bc878b594383a67d07a1]{
+-- Page 17, Offset 13063.
+-- 「……信じられない。じゃあ、今までどんな生活してたんだ、蒼崎たちは」
+「...... Je suis stupéfait. Jusqu'à maintenant, quel genre de vie vous meniez, toutes les deux ?」
+
+}
+[sha:46189d91ba0d05e3f0dd445cffbea769984a94a0]{
+-- Page 17, Offset 13064.
+-- 「その時は、それぞれでなんとかやってたわ。飢え死に一歩手前ぐらい、いい精神修行じゃない」
+「Dans le pire des cas, on se débrouillait chacune de notre côté. Peu de temps avant de mourir de faim. C'est un bon entraînement !」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 17, Offset 13065.
+-- 「――――――」
+「――――――」
+
+}
+[sha:f0609e8f4198669ab555b5d808e0795839b9a360]{
+-- Page 17, Offset 13066.
+-- あまりの潔さに絶句する。
+  Son excès de franchise lui fit perdre ses mots.
+
+}
+[sha:3e013358e6ef8e276ed451f301f51b9c60bf8cda]{
+-- Page 18, Offset 13067.
+-- ……また、これは後の話ではあるが、月の終わりになると頻繁に某会長が昼食をおごらせにやってくる、と某副会長は告発するのだった。
+  ...... Aussi, cette histoire lui parviendrait plus tard, mais un certain vice-président se plaindrait qu'à la fin de chaque mois, il était fréquemment amené à payer les repas d'une certaine présidente.
+
+}
+[sha:8a87bc314297223a034007a3d530f8acd14b8e0b]{
+-- Page 18, Offset 13068.
+-- それはともかくとして。
+  Mettons ça de côté pour le moment.
+
+}
+[sha:0976b16119c0cdc19c8410e68487e8bdc0032289]{
+-- Page 19, Offset 13069.
+-- 「そんな昔のコトより今のコト！
+「Au lieu de nous focaliser sur le passé, concentrons-nous sur le présent !
+
+}
+[sha:1de0b7f66ee17e9bcc5d1269a2e33cf0d5d651f8]{
+-- Page 19, Offset 13070.
+-- 前に見せたあの腕はどこにいったのよ草十郎!?　あれを見こんで今日の夕飯を任せたっていうのに！」
+  Où est passé le talent dont tu nous as fait la démonstration l'autre jour, Sōjūrō ?! Si je t'ai chargé du souper, c'était dans l'espoir de revoir ça !」
+
+}
+[sha:c32a1162ff0db29b8c3a00eae95f7db80216cd52]{
+-- Page 19, Offset 13071.
+-- ……なんだかんだと、青子はそれが一番悔しいらしい。
+  ...... En fin de compte, c'était ce qui la dépitait le plus.
+
+}
+[sha:6c6c042ca13ec5d14fdd5223f1e27d6b0041d6dc]{
+-- Page 19, Offset 13072.
+-- あの時の焼きうどんはいたく好評で、起きたばかりの青子の不機嫌っぷりは一口で解消してしまったほどだ。
+  Son yaki udon avait eu un si grand succès que la mauvaise humeur d'Aoko, à peine réveillée, s'était liquéfiée au bout d'une seule bouchée.
+
+}
+[sha:b4941ab3aa9d78d6cfc5c9faad2e80457a67466a]{
+-- Page 20, Offset 13073.
+-- しかし草十郎は、あれが数少ないレパートリーの一つだという事を語っていない。
+  Mais Sōjūrō ne lui avait pas expliqué qu'il ne s'agissait que d'une des très rares recettes qu'il connaissait.
+
+}
+[sha:179930d3d038fcb6fad30d2881bf0199e3294d6a]{
+-- Page 20, Offset 13074.
+-- 男料理とは、基本的に<独身|ひとり>に<唯一|ひとつ>の<異能力|レシピ>なのだ。
+  La cuisine masculine se limitait généralement à une seule recette.
+
+}
+[sha:bbc378076f3711bd385e8431bc7ea2ac5d7cf7e0]{
+-- Page 20, Offset 13075.
+-- あと十五年ぐらいしたら流行りそうな特殊能力みたいなもんである。
+  C'était comme une capacité spéciale qui pourrait devenir populaire une quinzaine d'années plus tard.
+
+}
+[sha:65e62ad49bf2afd5da43d61eab524a865da8c19a]{
+-- Page 21, Offset 13076.
+-- 以上の誤解から、有珠と青子は草十郎の料理技術を過大評価していたりする。
+  Depuis, Alice et Aoko avaient tendance à surestimer les compétences culinaires de Sōjūrō à cause de ce malentendu.
+
+}
+[sha:321823a8b215df49ced411c2c3cd8a9a1a571291]{
+-- Page 21, Offset 13077.
+-- そこに原因があったのか、と納得する草十郎。
+  En voilà donc la raison, comprit Sōjūrō.
+
+}
+[sha:a5c2dfaada85c100fe59ae98c517a96567dc9938]{
+-- Page 22, Offset 13078.
+-- 「……分かった、自腹を切るから出前をとろう。作るにしても材料がないからな。
+「...... Très bien, commandons quelque chose. Je le paierai de ma poche. Même si je voulais cuisiner autre chose, il n'y a plus d'ingrédients.
+
+}
+[sha:cf38248fcf00de2c9b333759aacb9483bec7ae2a]{
+-- Page 22, Offset 13079.
+-- そのかわり、それは回収する」
+  En contrepartie, je récupère ça.」
+
+}
+[sha:b1a0ec401962840f10c16eb9c58ffc05a7169b53]{
+-- Page 22, Offset 13080.
+-- うむ、と自らの勝利を喜ぶ青子。
+  “Bien”, se réjouit Aoko, victorieuse.
+
+}
+[sha:416e13418680652069cbe73cbacfd1bbcfbdc855]{
+-- Page 23, Offset 13081.
+-- が。出前の献立を取りに行く草十郎の顔を見て、青子は自分の勘違いに気付いてしまった。
+  Cela dit, en voyant l'expression de Sōjūrō qui partait chercher la carte des livraisons, Aoko réalisa sa propre erreur.
+
+}
+[sha:1fd2fd090d0ba189e112fe73d08c6ea7e0b3474e]{
+-- Page 23, Offset 13082.
+-- 青子がカチンときたのは、夕食に手を抜くとは何事か、という点が大きい。
+  Elle s'était emportée principalement parce qu'elle pensait qu'il avait bâclé sa cuisine.
+
+}
+[sha:6d47b6887f6a848eee2d8de15445e0d4ec5be189]{
+-- Page 23, Offset 13083.
+-- けれど草十郎にとって、この夕食は手抜きでもなんでもなく、本気で食べてみたかったのだろう。
+  Mais Sōjūrō n'avait rien fait de tel et voulait sans doute goûter ce plat, tout simplement.
+
+}
+[sha:05340f70ebb18e5e32c85116f52b627fa81a9c0e]{
+-- Page 24, Offset 13084.
+-- 山育ちはこういう物でも喜ぶのか、と青子はつくづく感心する。
+  Les campagnards se réjouissent même pour des choses aussi simples ? se demanda Aoko, étonnée.
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 24, Offset 13085.
+-- ……と。
+  ...... Et...
+
+}
+[sha:32db65cf78e7bd19f031436804568f66a469f3b4]{
+-- Page 25, Offset 13086.
+-- 「……？　有珠、何してるの？」
+「......? Alice ? Qu'est-ce que tu fais ?」
+
+}
+[sha:d507f97099a379a808a80e8daf1c895fd35f3cba]{
+-- Page 25, Offset 13087.
+-- 青子はようやく、有珠がテーブルに近寄り、しっかりとどんぶりを持っている事に気がついた。
+  Aoko remarqua enfin qu'Alice s'était rapprochée de la table et tenait fermement un bol.
+
+}
+[sha:d9def61f2a78e6d37dacb7799ce193e6b5a25e22]{
+-- Page 26, Offset 13088.
+-- 「もうそれはいいんだってば。
+「Ne te préoccupe plus de ça.
+
+}
+[sha:0fd4f7e04aae6e396930f164dca6299cd9109de5]{
+-- Page 26, Offset 13089.
+-- 草十郎に返して、きちんとした出前にしましょ」
+  Rends-le à Sōjūrō et commandons de vrais plats.」
+
+}
+[sha:6c8d4c1cf4ff6b37474ba4eb98297e8399f60ae0]{
+-- Page 27, Offset 13090.
+-- 青子に言われても、有珠はどんぶりから手を離さない。
+  En dépit des explications d'Aoko, Alice ne lâcha pas le bol.
+
+}
+[sha:296951c88d789b50c576c8a7f66f5878708f435c]{
+-- Page 27, Offset 13091.
+-- むしろ抱くように持ちあげ、
+  Au contraire, elle l'attira vers elle comme pour le serrer dans ses bras.
+
+}
+[sha:66fac32deb34a31b64f4cd04ded3eb1ac96d179c]{
+-- Page 27, Offset 13092.
+-- 「これ、わたしのだから」
+「Ça, c'est à moi.」
+
+}
+[sha:14e2837d47b6dac9603dbbaf4a67d978811c3828]{
+-- Page 27, Offset 13093.
+-- 静かな有珠の声が、閑散としたサンルームに響きわたる。
+  La voix calme d'Alice retentit dans la véranda silencieuse.
+
+}
+[sha:202f650b36fc3b9244a5d8fe75505a0699deadd0]{
+-- Page 28, Offset 13094.
+-- どうやら多数決によって、今夜の献立は決定したらしい。
+  Le menu du soir semblait avoir été décidé à la majorité.
+
+}
+[sha:9d1f3c449b41e3fe6e092b10653ac1b52c651baa]{
+-- Page 28, Offset 13095.
+-- まさかそんな、と青子は力なく肩を落とす。
+  Non ?! Pourquoi ?! se dit Aoko en baissant les épaules, sans force.
+
+}
+[sha:c7bcaaed71091fa3bf0e6cc699cc339c0c10bb57]{
+-- Page 28, Offset 13096.
+-- そういえば、有珠の『自分の物』に対する執着心は異常なものがあったなぁ、と思い返しながら。
+  Maintenant que j'y pense, l'attachement d'Alice envers ce qui lui appartient a quelque chose d'anormal, songea-t-elle.
+
+}

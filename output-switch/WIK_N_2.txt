@@ -1,0 +1,12 @@
+[sha:7bc73c1ecc3846a6980a85d430596caa1b29b41f]{
+-- Page 0, Offset 22767.
+-- わたしは、部屋に閉じこもるのは危険だ、と思った。
+  Je songeai que l'idée de s'enfermer dans nos chambres était dangereuse.
+
+}
+[sha:a3d3a7cec50e28620e2578397cebb6790a1a05ef]{
+-- Page 0, Offset 22768.
+-- その根拠として―――
+  Ma raison étant que―――
+
+}

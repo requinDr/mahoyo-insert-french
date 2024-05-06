@@ -1,0 +1,864 @@
+[sha:aa9900a387ca74dbae30c1bf4ef69bf9f43d9aee]{
+-- Page 0, Offset 14524.
+-- イヴの日に、雪はしんしんと降りはじめた。
+  La veille de Noël, la neige commença à tomber doucement.
+
+}
+[sha:9475f1c87e248ad2b0431aa7548cad684caa7cb1]{
+-- Page 1, Offset 14525.
+-- 自らの価値を知っていたのか、今年の初雪は誰もが喜ぶ記念日に顔を見せた。
+  Comme consciente de sa propre valeur, la première neige de cette année se montra en ce jour d'anniversaire que tout le monde fêtait.
+
+}
+[sha:e1e2151ff37726e4855c6f5da71d0f7d40cfd396]{
+-- Page 1, Offset 14526.
+-- 大通りでの<賑|にぎ>わいは白く寒く、それでいて明るいものになっているだろう。
+  L'avenue était probablement recouverte d'un manteau blanc et frisquet, mais il devait également y régner une effervescence joyeuse.
+
+}
+[sha:7f17c56c74958a46b13cbc3d5423f4551ecc6d2c]{
+-- Page 2, Offset 14527.
+-- トナカイを<象|かたど>るイルミネーション。
+  Des illuminations en forme de cerf décoraient les rues,
+
+}
+[sha:e6b69e72bd1cc5d4ed64d94ca16b63b04346a287]{
+-- Page 2, Offset 14528.
+-- 子供たちの足を弾ませるジングルベル。
+  et les enfants dansaient sur le refrain de “Vive le vent d'hiver”.
+
+}
+[sha:945bcd2b91179c88437fd5533c852fd8544649b8]{
+-- Page 2, Offset 14529.
+-- レンガの道を行く人々は、一様に満ち足りた微笑みをうかべている。
+  Un sourire satisfait flottait sur les lèvres des gens marchant sur le chemin pavé.
+
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 3, Offset 14530.
+-- しかし。
+  Cependant,
+
+}
+[sha:846185e80ed429f9257f34b9915e862ceb24153d]{
+-- Page 3, Offset 14531.
+-- そんな街の<彩|いろど>りも、丘の上の洋館には届かない。
+  ces aspects de la ville ne parvenaient pas jusqu'au manoir en haut de la colline.
+
+}
+[sha:2f5f6187a2f30ce61eddfb7ddfb1f3c39b3973ee]{
+-- Page 3, Offset 14532.
+-- 人里から離れた館は静かに。
+  La demeure isolée restait silencieuse.
+
+}
+[sha:9f250b717b6c5337469b5cba3f497c8b26e891d3]{
+-- Page 3, Offset 14533.
+-- 森は白い粉雪に覆われ、いっそう影を濃くしていた。
+  La forêt, recouverte d'une poudreuse blanche, rendait les ombres plus denses.
+
+}
+[sha:a0f2fc6e90d70a94c712627375a738c155f58961]{
+-- Page 3, Offset 14534.
+-- いずれ来るであろう<黄昏時|たそがれどき>。
+  Le crépuscule se rapprochait inexorablement,
+
+}
+[sha:b0468f964934a23ee82b641c81449329f0cf7558]{
+-- Page 3, Offset 14535.
+-- 人々が<家路|いえじ>に就き、街頭から<人気|ひとけ>の絶える静夜を、じっと待ち続けるように。
+  comme s'il attendait patiemment que les gens rentrent chez eux et que le flot d'humains se tarisse dans les rues avant l'arrivée de la nuit silencieuse.
+
+}
+[sha:d1c276a05c04b6dbbd3425ddf647cb1742644cfc]{
+-- Page 4, Offset 14536.
+-- その日の洋館は、朝から空気が違っていた。
+  Ce jour-là, l'atmosphère du manoir avait quelque chose de différent depuis le matin.
+
+}
+[sha:c116d2f9bec9ee70874b3a0c02ead129a4581e2f]{
+-- Page 4, Offset 14537.
+-- 嵐の前の静けさである。
+  C'était le calme avant la tempête.
+
+}
+[sha:aceffc8bea88ead51cf0d5123132f643694bf9b6]{
+-- Page 4, Offset 14538.
+-- 敵の正体―――蒼崎橙子の存在が明らかになってから二日。
+  Deux jours s'étaient écoulés depuis que l'identité de l'ennemi―――la présence d'Aozaki Tōko était devenue claire.
+
+}
+[sha:4993e7fb6c27dce1e60337b95759bd2c669cace0]{
+-- Page 4, Offset 14539.
+-- 青子も有珠も自室に閉じこもる事が多くなり、食事<時|どき>の談話も目に見えて少なくなった。
+  Aoko et Alice passaient de plus en plus de temps enfermées dans leur chambre, et le nombre de conversations lors des repas diminuait à vue d'œil.
+
+}
+[sha:79a8dad92b8148372c00241c409800f0dcd06650]{
+-- Page 4, Offset 14540.
+-- 役割分担を終えた少女たちは、それぞれの仕事を<全|まっと>うするため、自分の事だけで手一杯なのだ。
+  La répartition des tâches terminée, les filles étaient accaparées par leur propre problème, celui d'accomplir leur mission.
+
+}
+[sha:1febb5ee6575cc97604402d229474a2bfa8412c9]{
+-- Page 5, Offset 14541.
+-- そんな二人が、今日は朝から居間でくつろいでいる。
+  Pourtant, aujourd'hui, elles se détendaient dans le salon depuis le matin.
+
+}
+[sha:0f0ce6be74580a854b9d00faf795e961bcc2bb20]{
+-- Page 5, Offset 14542.
+-- 張りつめた様子もない。
+  Elles n'avaient pas l'air tendues.
+
+}
+[sha:d31528d5f4337c10e7fd39e519fa153de2e00366]{
+-- Page 5, Offset 14543.
+-- だから逆に今夜がそうなのだと、草十郎は悟ってしまった。
+  C'est ainsi que Sōjūrō comprit que l'action aurait lieu le soir.
+
+}
+[sha:8b7fe0ccc2e5493e27656c5906bc6cf56cc58bd2]{
+-- Page 6, Offset 14544.
+-- 「雪が明日なら良かったのに」
+「Ça aurait été mieux qu'il neige plutôt demain.」
+
+}
+[sha:c5e1ccbfed15d4896f8754ef512f773351b1a62c]{
+-- Page 6, Offset 14545.
+-- 草十郎はソファーに座った二人に話しかける。
+  Sōjūrō s'adressa aux filles assises sur les sofas.
+
+}
+[sha:7843c06d1841bf359cae765e36877d0f337df1ba]{
+-- Page 6, Offset 14546.
+-- 返事は期待していない。
+  Il n'attendait pas de réponse.
+
+}
+[sha:43c86c70243fe9e70e881e6e1696df063801c91b]{
+-- Page 6, Offset 14547.
+-- 大体、雪が明日になったところで彼女たちに変化があるわけでもない。
+  De toute façon, même si la neige n'était tombée que le lendemain, il n'y aurait pas forcément eu de réaction chez elles.
+
+}
+[sha:d51b6e2bc7bf862beef9a09981875ba0d49f9abc]{
+-- Page 6, Offset 14548.
+-- クリスマスが、ホワイトクリスマスになるだけの話である。
+  Noël serait simplement devenu un Noël blanc.
+
+}
+[sha:306551a163f391dbb27a3f7679126fd992284511]{
+-- Page 7, Offset 14549.
+-- 青子から言葉はなかった。
+  Aoko restait muette.
+
+}
+[sha:7332b152d371e831eaedc0fe98509fec9314c75e]{
+-- Page 7, Offset 14550.
+-- 無視しているのではなく、単純に、そこまでの余裕がないだけだ。
+  Elle ne cherchait pas à l'ignorer, mais elle n'était pas assez calme pour lui répondre.
+
+}
+[sha:9a0e63385b1b665c2bca9f0ec7e6599d9f3c07bf]{
+-- Page 7, Offset 14551.
+-- 分かり切った事とはいえ少し淋しいな、と草十郎はサンルームに視線を投げる。
+  Je le sais bien, mais ça reste un peu triste, songea Sōjūrō avant de lancer un regard vers la véranda.
+
+}
+[sha:5e97b13d44255d1e5f29504f25e00c9032bf3798]{
+-- Page 8, Offset 14552.
+-- 何日か前に手入れをした中庭は、白一色に染まっている。
+  La cour qu'il avait entretenue quelques jours auparavant était recouverte d'un voile blanc.
+
+}
+[sha:b80d679f36807b59b8a4c00c6c0fb779fae359a1]{
+-- Page 8, Offset 14553.
+-- 粉雪は降ったり止んだりと気まぐれだが、この分ではかなりの厚さで地面に残るに違いない。
+  La neige était capricieuse et tombait par intermittence, mais à ce rythme, il n'y avait aucun doute qu'elle tiendrait grâce à la couche déjà accumulée.
+
+}
+[sha:56b8431033af492587b8f07625cfc89efcdf21b8]{
+-- Page 8, Offset 14554.
+-- 夜には一面の銀世界になるだろう。
+  Cette nuit, ils seraient plongés dans un monde argenté.
+
+}
+[sha:1767276ead166f4051178fc710cd21764ddbbcaa]{
+-- Page 8, Offset 14555.
+-- 伝わる寒気から身を暖めるように、青子たちは紅茶を口に運んでいる。
+  Aoko et Alice portaient leurs tasses de thé à leurs lèvres comme pour réchauffer leurs corps engourdis par le froid ambiant.
+
+}
+[sha:65bc16d134314258556eef22f869af03d2119a9d]{
+-- Page 8, Offset 14556.
+-- 思えばそれだけが、今の彼女たちの行動だった。
+  D'ailleurs, c'était le seul geste qu'elles accomplissaient à l'heure actuelle.
+
+}
+[sha:2a5b07e738be22ab34f00094077c14db0bf00409]{
+-- Page 9, Offset 14557.
+-- 「そういえば、橙子さんの髪の色は蒼崎より濃かったね。
+「Ça me rappelle que les cheveux de Tōko étaient plus foncés que ceux d'Aozaki.
+
+}
+[sha:c6b0fa80c1cce0e15da943f0220a031627fdbc9b]{
+-- Page 9, Offset 14558.
+-- あんな綺麗な赤毛は初めて見た。短くしてるのはもったいなかったな」
+  C'était la première fois que je voyais un roux aussi joli. Dommage qu'elle les ait coupés court.」
+
+}
+[sha:85298afcf3a01299eeff7ff7a3e752b97b22670f]{
+-- Page 9, Offset 14559.
+-- これも返事は期待せず、ぼんやりと呟く草十郎。
+  murmura distraitement Sōjūrō, une nouvelle fois, sans attendre de réponse.
+
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 9, Offset 14560.
+-- しかし。
+  Cependant...
+
+}
+[sha:a75b0c09eb6c6845d77acaa812d05b67c8c0da68]{
+-- Page 10, Offset 14561.
+-- 「……短かったって、姉貴の髪が……？」
+「...... Court ? Les cheveux de ma sœur......?」
+
+}
+[sha:3626aaae6f16797d29b6d8b9365259aa0d81a303]{
+-- Page 10, Offset 14562.
+-- 心ここにあらずだった青子の表情が、普段の鋭さを取り戻した。
+  L'expression distraite d'Aoko retrouva son tranchant habituel.
+
+}
+[sha:d111d9a33410a7dd5b7653588f307674b9065b75]{
+-- Page 11, Offset 14563.
+-- 「それどういうこと？　短くしてるって、髪の毛の事よね？」
+「Qu'est-ce que tu veux dire par là ? C'est bien des cheveux de ma sœur que tu parles, hein ?」
+
+}
+[sha:f81457214c11c45187975a3c37565202b0a7f363]{
+-- Page 11, Offset 14564.
+-- 「ああ。有珠より短かったけど、それがどうしたんだ？」
+「Oui. Ils étaient plus courts que ceux d'Alice, mais qu'est-ce que ça peut faire ?」
+
+}
+[sha:91c20a383a02004953fc119907892dfb1d6aad0f]{
+-- Page 11, Offset 14565.
+-- 「別に。あの人、前は私より長かったってだけ。
+「Rien. C'est juste qu'avant, elle les avait plus longs que moi.
+
+}
+[sha:0bf0457e7bc9be24b9fbf3d629d0fa41c2f7e0e7]{
+-- Page 11, Offset 14566.
+-- ―――そう。あの髪を切ったのね、姉貴は」
+  ―――Je vois. Alors, elle a coupé ses cheveux...」
+
+}
+[sha:74f1c73ccc3cf9b53ff3aef5cf3bc6deb10d60d9]{
+-- Page 11, Offset 14567.
+-- 深刻な独白。
+  murmura-t-elle d'un ton sérieux.
+
+}
+[sha:cfeb15016971fc011e73de85bf37e40ad2c7447e]{
+-- Page 11, Offset 14568.
+-- 有珠も関心があるのか、黒い瞳を草十郎に向けていた。
+  Également intéressée, Alice avait ses pupilles noires fixées sur Sōjūrō.
+
+}
+[sha:9c777f1cb1db28347b66a469bf438dc7c9f428d7]{
+-- Page 12, Offset 14569.
+-- 「……普通じゃないな。髪を切ったぐらいでどうしたんだ、一体。橙子さんの髪が短いと蒼崎が困るのか？」
+「...... Vous êtes bizarres. Qu'est-ce que ça fait qu'elle ait changé de coiffure, franchement ? Ça te gêne que Tōko ait les cheveux courts ?」
+
+}
+[sha:3fc1a4d070f66032232b47566d8de7654fe5affb]{
+-- Page 12, Offset 14570.
+-- 「…………まあ、その通りだけど。
+「............ Eh bien oui, c'est exactement ça.
+
+}
+[sha:16fc81ea4ac42843bdd13db82336f58f72b576b9]{
+-- Page 12, Offset 14571.
+-- いいわ、どうせ夜まで暇だし、説明ぐらいはしてあげる。
+  Bah, puisque je n'ai rien à faire jusqu'à ce soir, je vais au moins te donner une explication.
+
+}
+[sha:aa429e607c9ac0a197a6c3648a3d0d020ae3abc9]{
+-- Page 12, Offset 14572.
+-- アンタがそんなコト言わなければ、未知数のまま橙子と戦うはめになっただろうし」
+  Et si tu n'en avais pas parlé, on aurait fini par combattre Tōko sans être au courant.」
+
+}
+[sha:bf395979125ff167f9128e5df54613aefc88c6d3]{
+-- Page 13, Offset 14573.
+-- ま、ご褒美ね、と青子は有珠を一瞥した。
+  “C'est une récompense”, dit Aoko en regardant Alice.
+
+}
+[sha:042c2ed43c1988b19415657c89bdfe8b71f734e1]{
+-- Page 13, Offset 14574.
+-- おそらく有珠に同意を求めているのだろう。
+  Elle demandait probablement l'approbation de cette dernière.
+
+}
+[sha:aa59b6495ef86ba5d5d8a14f01c55d168453da08]{
+-- Page 13, Offset 14575.
+-- 有珠はやっぱり無表情で、青子の視線に肯定も否定もしない。
+  Finalement, elle resta inexpressive et n'exprima ni son consentement ni son désaccord.
+
+}
+[sha:719db5a487aff35af757415295333694421e52ff]{
+-- Page 14, Offset 14576.
+-- 「簡単に言うと、魔術師にとっては髪の毛も武器ってコトよ。
+「En gros, les cheveux des Mages peuvent aussi servir d'arme.
+
+}
+[sha:c72c895968ad2206be3d24d3a69129fcfa3b2227]{
+-- Page 14, Offset 14577.
+-- 昔っから人間の髪や目は魔術の材料になりやすいの。女の場合は<殊更|ことさら>にね。
+  Il a toujours été facile de transformer les cheveux ou les yeux humains en matériau brut utile à la Magie. Et tout particulièrement dans le cas des femmes.
+
+}
+[sha:13ed67928d14830cbc0537cb246b8feaabee176a]{
+-- Page 14, Offset 14578.
+-- 瞳の色は<多彩|おおい>ほどいいし、髪も長いほど質がいい。
+  Plus la couleur des yeux est pure, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
+
+}
+[sha:70e338e20353d1e947c8d514606380061f40f647]{
+-- Page 14, Offset 14579.
+-- 髪の毛は自身と同一視しやすいし、長い年月をかけて育てられる、原始的で強力な“原料”と思ってくれていいわ。
+  Il est facile d'utiliser ses cheveux comme une extension de soi-même, et on les entretient sur de longues années. Vois ça comme une primitive et puissante “matière première”.
+
+}
+[sha:7f4911a3b0deb8ab604e39a09f9ce7e70d16085c]{
+-- Page 14, Offset 14580.
+-- 私が髪を伸ばしてるのはまあ、そういうこと。手入れが大変なんだけど、そこは女だから半分趣味みたいなもんよね」
+  La raison pour laquelle je me laisse pousser les cheveux, eh bien, c'est pour ça. C'est fastidieux de les entretenir, mais comme je suis une femme, c'est presque un passe-temps.」
+
+}
+[sha:37f729565bf76f64919284595450ba82992db148]{
+-- Page 15, Offset 14581.
+-- ……はて。そうなると有珠はどうなのだろうか、と草十郎は有珠の横顔を盗み見る。
+  ...... Ah bon ? Si c'est le cas, qu'en est-il d'Alice ? se demanda Sōjūrō en lui jetant un regard furtif.
+
+}
+[sha:af82729f32b67a9e68f8c07116730ded22303556]{
+-- Page 15, Offset 14582.
+-- 青子の言う通り、手入れが面倒なので切ってしまったのか。
+  Peut-être les coupait-elle parce que leur entretien était difficile, comme le disait si bien Aoko.
+
+}
+[sha:023bba4f685edafe935e8eba3c21be37d198114b]{
+-- Page 15, Offset 14583.
+-- バカらしい考えだが、有珠ならありうるな、と草十郎は内心うなずいた。
+  C'est une idée stupide, mais Alice en est capable, supposa Sōjūrō.
+
+}
+[sha:5525157ac738fd7b0bae7bd1bdec4209453c793c]{
+-- Page 16, Offset 14584.
+-- 「ん？　じゃあ蒼崎としてはいい事じゃないか。
+「Hum ? Alors pour toi, c'est une bonne chose, non ?
+
+}
+[sha:3942dd065d53c2a0c956bdc32970a746f9114e18]{
+-- Page 16, Offset 14585.
+-- 橙子さんの髪、短いんだから」
+  Puisque les siens sont courts.」
+
+}
+[sha:ce4b26b36344ba8a81e9b6fda7f153f6f65a388f]{
+-- Page 17, Offset 14586.
+-- 「それが<三咲町|ここ>に来る前に使い切ったものならいいんだけど。
+「Ce serait bien qu'elle les ait utilisés avant de venir ici.
+
+}
+[sha:b9a7243785bae84966e5b01aac563ab3caab5535]{
+-- Page 17, Offset 14587.
+-- 伸ばした髪には色々と使い道があるのよ。
+  Les cheveux longs peuvent servir pour de nombreux usages.
+
+}
+[sha:4aea71035ea2c46da432c9ecae72da6d20555747]{
+-- Page 17, Offset 14588.
+-- 私は瞬間的な術の強化にしか使えないけど、姉貴だったら恒久的な術の補佐に使うはず。
+  Moi, je ne peux les utiliser que pour un sort de Renforcement instantané, mais ma sœur, elle, doit sûrement en faire usage pour une aide aux sorts permanente.
+
+}
+[sha:8e5da832a47a7d6489dcadbe2e69ddd8f366e71d]{
+-- Page 17, Offset 14589.
+-- 年月と想念を蓄えた髪は魔術師の分身とも言える。
+  Des cheveux chargés du poids des années et des pensées peuvent être considérés comme de véritables clones du Mage.
+
+}
+[sha:6189d20fbe683247791dbae0c3de2901fbbc66e1]{
+-- Page 17, Offset 14590.
+-- そういった物をね、死んじゃった犬だの猫だのを反魂させる時に与えると、術者に<服従|ふくじゅう>する使い魔が出来上がるの」
+  Vois-tu, lorsqu'on donne ce genre de chose lors de la résurrection d'un chien ou d'un chat mort, on obtient un familier soumis au Mage.」
+
+}
+[sha:f0853686933b3234e329902f7ec37fdc7e111519]{
+-- Page 18, Offset 14591.
+-- 「生前魔力のなかった使い魔……例えば猫とか、犬ね。これらは術者の髪を取りこんで独自の魔術回路を得る。
+「Un familier qui ne possédait pas de prana dans sa vie précédente...... par exemple, un chat ou un chien, comme je l'ai déjà dit. En absorbant les cheveux du Mage, il acquiert son propre Circuit Magique.
+
+}
+[sha:017e9b5a5e9148268420089fbb2bdda7fd1f31bd]{
+-- Page 18, Offset 14592.
+-- 新生する事でまったく違う生き物―――<猫|・><の|・><魔|・><術|・><師|・>になるってコト。たとえば人語を解したり、人間に化けてみたりって。
+  En renaissant, il devient un être complètement différent―――autrement dit, le chat de la sorcière. Par exemple, il peut comprendre le langage des hommes ou se transformer en humain.
+
+}
+[sha:4afc4f029374b12a697cb09bd9bb1e1b5250626a]{
+-- Page 18, Offset 14593.
+-- 行動原理も変わってしまって、たいていは術者に似通った性格になるわ。そうよね、有珠？」
+  Son principe comportemental change aussi, et en général, il adopte le tempérament de leur maître. C'est bien ça, Alice ?」
+
+}
+[sha:075a48636ad6ec6c6da3fbd124d3174856704d35]{
+-- Page 19, Offset 14594.
+-- 青子の最後の言葉は、どこか意地の悪い笑みが含まれていた。
+  Sur cette dernière phrase, un sourire mesquin se dessina sur les lèvres d'Aoko.
+
+}
+[sha:f4956119e2e459b71288b894e7403aded333ee66]{
+-- Page 19, Offset 14595.
+-- 有珠はそれを無言で受け流す。
+  Alice l'ignora sans mot dire.
+
+}
+[sha:0f069d10e62b1b457c3b3717a067e356e525ef55]{
+-- Page 20, Offset 14596.
+-- 「じゃあ、橙子さんには有珠のみたいな使い魔がいると……？」
+「Alors, Tōko aurait des familiers comme ceux d'Alice......?」
+
+}
+[sha:1cfafb72fe7f34de03e514354ae913fe68968e1c]{
+-- Page 20, Offset 14597.
+-- 「そう見るのが妥当でしょうね。
+「Il serait plus prudent d'envisager cette possibilité, oui.
+
+}
+[sha:59b14824a807ccde7be84cb2596afa2bb90ab4fe]{
+-- Page 20, Offset 14598.
+-- 姉貴は二十年以上伸ばし続けた髪と引き替えに、強力な使い魔を用意したってことよ」
+  Ma sœur a dû se munir de puissants familiers en échange de ses cheveux vieux de plus de vingt ans.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 20, Offset 14599.
+-- 「――――――」
+「――――――」
+
+}
+[sha:62641fa7b20cf2a9ad25fc0ec1e407a984da5d58]{
+-- Page 21, Offset 14600.
+-- 遊園地での戦い。
+  Le combat au parc d'attractions.
+
+}
+[sha:2214dba7fe867ecc01906d32121ad38a804a2afe]{
+-- Page 21, Offset 14601.
+-- 久遠寺有珠が解放したフラットスナークを思い出して、草十郎は息を呑む。
+  Sōjūrō eut le souffle coupé en se remémorant le Flat Snark que Kuonji Alice avait relâché.
+
+}
+[sha:318a8a0ceed8c30521dd143ab9b9fba8da0fc21c]{
+-- Page 21, Offset 14602.
+-- あの月の油は特注も特注で、あれだけの使い魔は世界に二つとないという話だが―――
+  D'après ce qu'on lui avait dit, l'Huile de la Lune était un familier exceptionnel et sans pareil en ce monde, mais―――
+
+}
+[sha:9c4da6382ccc04b830864cb8b62ee70fa7e6dea5]{
+-- Page 22, Offset 14603.
+-- 「ほら、そこ心配しない、三咲町をぶっ壊す規模の使い魔なんてありっこないから。
+「Hé toi là, pas d'inquiétudes. On ne risque pas de faire face à un familier de taille à pulvériser le vieux quartier de Misaki.
+
+}
+[sha:074a23b5704ae164d11822c774d147cb82fa98ab]{
+-- Page 22, Offset 14604.
+-- たしかに長く歴史のある髪を使用するほど、強力な使い魔が出来上がる」
+  Il est vrai que plus les cheveux sont vieux, plus le familier créé sera puissant.」
+
+}
+[sha:4d753cd9b9dc6fbc8bdce88e59081c4954e24163]{
+-- Page 23, Offset 14605.
+-- 「けど、髪を使った魔術師はそれまで溜めこんできた三柱のうちの一つを、初めからやり直さないといけない。
+「Mais un Mage ayant utilisé ses cheveux doit reprendre depuis le début le stockage de l'un des trois apports dont il disposait jusque-là.
+
+}
+[sha:4379e938ffae28f09bc72f57e00eb68aaa366bb9]{
+-- Page 23, Offset 14606.
+-- 切った髪はまた伸ばさないといけないでしょ？　使い魔を造るのは簡単だけど、そう多く従えないのはそういう事なの」
+  Il faut bien faire repousser ses cheveux, non ? Créer un familier n'a rien de difficile, mais on ne peut pas en contrôler beaucoup.」
+
+}
+[sha:911f07877f0c55396b458e2332ed68a63a729f47]{
+-- Page 24, Offset 14607.
+-- 話しているうちに何かふっきれたのか、青子は上機嫌になりつつある。
+  De toute évidence détendue par la discussion, l'humeur d'Aoko commençait à s'améliorer.
+
+}
+[sha:c879801a268ecf1775e38a5e049d9b8a2d0d11ac]{
+-- Page 24, Offset 14608.
+-- 『……犬とか猫、か……』
+『...... Chien, ou chat......』
+
+}
+[sha:8f83456568f1cc9cdcfd08407427f56ef75d8e4e]{
+-- Page 24, Offset 14609.
+-- 一方、青子の話を聞いて首を傾げる草十郎。
+  Sōjūrō, quant à lui, écoutait les propos d'Aoko avec perplexité.
+
+}
+[sha:edb2737b50f7b25b868817ff770fd34dd448a4dc]{
+-- Page 24, Offset 14610.
+-- 彼の想像力では、どう考えても、犬と猫から強そうなイメージは生まれないようだ。
+  Avec son imagination, il avait beau y penser, un chien ou un chat ne dégageait pas une image de puissance.
+
+}
+[sha:323f8af9f55c8a310a2285babbb9183535c38b2c]{
+-- Page 25, Offset 14611.
+-- 「……変ね。
+「...... Étrange.
+
+}
+[sha:d92f5d6b842071a2d47950c736d808363bed2cb4]{
+-- Page 25, Offset 14612.
+-- 橙子さんは人形師よ。使い魔を造って自分のレベルを下げるのは、どうなのかしら」
+  Tōko est une marionnettiste. Pourquoi s'embêterait-elle à créer un familier qui affecterait ses capacités ?」
+
+}
+[sha:2aed446947d4c6111d62e57d7defb73ce727bc60]{
+-- Page 25, Offset 14613.
+-- 「協力者がいないだけでしょ。蒼崎のお家騒動に<他人|ひと>の手を借りたくないから、自分だけで全部やるつもりなのよ」
+「C'est juste qu'elle n'a pas de collaborateur. Comme elle ne veut l'aide de personne dans le conflit familial des Aozaki, elle compte tout faire elle-même.」
+
+}
+[sha:713d3a5165625f62773f6ebe2c431d8e466a1cf3]{
+-- Page 26, Offset 14614.
+-- 「あ……もしかして、遊園地の人形って姉貴の髪で造られたんじゃないだろうな……」
+「Ah...... Si ça se trouve, elle a créé la marionnette du parc d'attractions avec ses cheveux......」
+
+}
+[sha:e16f88622e2482c9c063209594ac642d4f7e5973]{
+-- Page 26, Offset 14615.
+-- 「……たしかに、話に聞いたかぎりだと特注品ね。
+「...... Il est vrai que d'après ce que tu m'en as dit, elle était construite spécifiquement pour toi.
+
+}
+[sha:0e2d0dff231b499982ad078082cd6aa0c9cc8969]{
+-- Page 26, Offset 14616.
+-- 呪いによる永久機関、両手のギミック、フィンの一撃、執念深さ。橙子さんでもゼロから造るのは難しいでしょうけど……」
+  Un mouvement perpétuel alimenté par une malédiction, les gadgets de ses mains, l'attaque de Finn, et sa ténacité. Même pour Tōko, il a dû être difficile de la mettre au point en partant de zéro, mais......」
+
+}
+[sha:09d42587b1f336a52e035d3e049cb0f74b08631f]{
+-- Page 27, Offset 14617.
+-- 「けど、なによ有珠？」
+「Mais quoi, Alice ?」
+
+}
+[sha:7425339a2d8f71befd47c13bfc66b18e8e71ef9c]{
+-- Page 28, Offset 14618.
+-- 「……あの人は、人形に自己を投影するような人じゃないわ。
+「...... Cette femme n'est pas du genre à se projeter dans un Automate.
+
+}
+[sha:6461494d7cf26691effe971b59c3e93704b816fc]{
+-- Page 28, Offset 14619.
+-- 完璧な偽物なら許すけど、偽物にすぎない偽物は容赦なく壊してきた。
+  Elle pourrait approuver une imitation parfaite, mais elle détruirait sans pitié une imitation qui n'est rien d'autre qu'une pâle copie.
+
+}
+[sha:994db2720bbe11f0278644db00fe55f02bf3e4b2]{
+-- Page 28, Offset 14620. Glued. Mods: @x.
+-- 青子から見て、その特注人形は橙子さんと同じ力量を持っていた？」
+D'après toi, cette marionnette possédait-elle les mêmes capacités qu'elle ?」
+
+}
+[sha:8f40766982a3287681c290f2a3d952ded75f9ef2]{
+-- Page 28, Offset 14621.
+-- 「……まさか。遠く及ばないわよ、あんなの」
+「...... Oh non. Cette chose ne rivalisait pas avec elle, et de loin...」
+
+}
+[sha:c81b0a3f23a33e83e7111d76f2e4597fd14acf70]{
+-- Page 29, Offset 14622.
+-- 「なら橙子さんの髪と、あの人形は別件よ。
+「Dans ce cas, cette marionnette n'a pas de lien avec ses cheveux.
+
+}
+[sha:2c666edc359f420918d5c6271d42fa24bbf9eebe]{
+-- Page 29, Offset 14623.
+-- あの人が自分の魔力を分け与えたほどの使い魔が、あと一体はいると見るべきね」
+  Il faut donc considérer l'existence d'un autre familier si formidable qu'il méritait qu'elle partage son prana avec lui.」
+
+}
+[sha:d9856cd95772fe44edb34571a1d511dbb73ce4d5]{
+-- Page 30, Offset 14624.
+-- 「……専門家としての意見？
+「...... C'est ton avis de spécialiste ?
+
+}
+[sha:0d1a8dcd5fda88114c9611c65c93afacae30335f]{
+-- Page 30, Offset 14625.
+-- つまり、その使い魔は<姉|・><貴|・><よ|・><り|・><強|・><い|・>？」
+  En d'autres termes, ce familier est plus fort que ma sœur ?」
+
+}
+[sha:86619095b443a6c535e95244c83d555076affbbc]{
+-- Page 30, Offset 14626.
+-- 「そうでないと意味がないわ。
+「Autrement, ça n'aurait pas de sens.
+
+}
+[sha:d9b1daa9f96d8175ed40c6cb6dcf14ce0e0723fd]{
+-- Page 30, Offset 14627.
+-- ……人手が足りないというのもあるでしょうけど。だってわたしたちは二人、彼女は一人だもの」
+  ...... Il y a aussi le fait qu'elle manque de soutiens. Après tout, nous sommes deux et elle est seule.」
+
+}
+[sha:18cb17b3624552af0d581aa450a7b6aaa26a8552]{
+-- Page 31, Offset 14628.
+-- 「―――同時制圧も想定済みってワケ。
+「―――Tu as donc déjà étudié la possibilité qu'elle nous attaque sur les deux fronts en même temps.
+
+}
+[sha:012af4b1c45a24896ec5edfad4ab8c39be005e9b]{
+-- Page 31, Offset 14629.
+-- なるほどね。その場合、どっちが強い方を引き当てても恨みっこなしよ有珠。
+  Je vois. Dans ce cas, peu importe qui de nous deux se prend le plus fort, il n'y aura pas de rancune à avoir, Alice.
+
+}
+[sha:d860c0ba5b502fe4e22bc8c104fea0206d5e33d5]{
+-- Page 31, Offset 14630.
+-- ま、こと使い魔でアンタが後れを取るとは思えないけど」
+  Mais bon, je ne pense pas que l'on puisse te battre sur les familiers.」
+
+}
+[sha:92033535705986a19292a04eeb332b48f8af8f4f]{
+-- Page 32, Offset 14631.
+-- 使い魔同士の戦いなら久遠寺有珠に敗北はない。
+  Dans un combat entre familiers, Kuonji Alice ne perdrait pas.
+
+}
+[sha:739d425a9194a4afbed9559cb26bc434f04a859a]{
+-- Page 32, Offset 14632.
+-- そう楽観する青子に、有珠はため息まじりに忠告する。
+  Alice avertit d'un soupir Aoko qui entretenait cet espoir bien optimiste.
+
+}
+[sha:87012bb3fb9921dbe417253414cfa43a5a98fe15]{
+-- Page 33, Offset 14633.
+-- 「青子。たとえ二十年間の蓄えを付与したとしても、その器が小動物では限度があるわ。
+「Aoko. Avec un petit animal comme réceptacle, elle aura beau y investir vingt ans de ses réserves, il aura ses limites.
+
+}
+[sha:4a67cc392dbedf9a422e68765d0dc96113d610e8]{
+-- Page 33, Offset 14634.
+-- あの橙子さんが切札になる使い魔を用意したのなら、それは」
+  Alors, si la Tōko que nous connaissons a préparé un familier comme arme secrète, il doit...」
+
+}
+[sha:f38539914f79a4bd0069da026f134b0803244cec]{
+-- Page 33, Offset 14635.
+-- 「……よしてよ。
+「...... Arrête.
+
+}
+[sha:5ac21c3acfafc463b2899829e1dd43f88a94eacb]{
+-- Page 33, Offset 14636.
+-- いくらなんでも、姉貴はそこまで悪趣味じゃないわ」
+  On peut dire ce qu'on veut, ma sœur n'a pas si mauvais goût.」
+
+}
+[sha:f5526d10e7c6c226c32be702a3ba54ef33cc0180]{
+-- Page 34, Offset 14637.
+-- 意味ありげに見つめ合うふたり。
+  Leurs regards en disaient long.
+
+}
+[sha:1a52cbc486d7cbd5dab6e1b040c3547cf08a78e4]{
+-- Page 34, Offset 14638.
+-- 居間に会話が戻ってきた事は嬉しいが、不穏すぎるのも困りものだ。
+  Sōjūrō se réjouissait du retour de la conversation dans le salon, mais il n'appréciait guère l'aura menaçante qui s'en dégageait.
+
+}
+[sha:af26e437eae77be9e90ca3cf1bc3210742b6d7b5]{
+-- Page 35, Offset 14639.
+-- 「……そうね。けれど、人間を追いつめるのに最も効果的な相手は、やっぱり人間なのよ。
+「...... C'est vrai. Cela dit, l'adversaire le plus efficace pour acculer l'homme restera toujours l'homme.
+
+}
+[sha:26c2c9e7678b221b6e1c336b9aa7b47caa7af2c9]{
+-- Page 35, Offset 14640.
+-- 橙子さんが死者を亡者にしていなくても、それと同格の相手がいる、ぐらいは覚悟しておいて」
+  Même si Tōko n'a pas créé de zombies, prépare-toi tout de même à rencontrer un adversaire du même rang.」
+
+}
+[sha:e2ca2d920accc68c7b00eb708e5ba6daf7784b6f]{
+-- Page 35, Offset 14641.
+-- 「……はいはい、分かったわよ。たしかに天才ってヤツは空気読めないから。どんな生き物の死体を用意してきても驚かないわ」
+「...... Ça va, ça va, j'ai compris. C'est vrai que les génies ne sont pas très délicats. Je ne m'étonnerai pas, peu importe le genre de cadavre qu'elle aura en réserve.」
+
+}
+[sha:fedd252cafdb21cbf1cd11f9d1a9bf02b77a15df]{
+-- Page 36, Offset 14642.
+-- 有珠の冷たい言葉に、青子は不本意そうに頷いた。
+  Aoko acquiesça à contrecœur à la suite des paroles glaciales d'Alice.
+
+}
+[sha:0f74d63957db12cf460091cd8b60ccfbc2cf505f]{
+-- Page 36, Offset 14643.
+-- 言うまでもなく、草十郎にはちんぷんかんぷんである。
+  Inutile de préciser que pour Sōjūrō, c'était du charabia.
+
+}
+[sha:d04068471541515060baf13a0dffa5893de951f2]{
+-- Page 37, Offset 14644.
+-- 「……その、よく分からないけど。
+「...... Euh, je n'y comprends rien.
+
+}
+[sha:2d3e54ee1769c4d7e8bf42b1a7a029a787521283]{
+-- Page 37, Offset 14645.
+-- なんで蒼崎たちは死んでるって事に固執するんだ？　生きてる物じゃ駄目なのか？」
+  Pourquoi vous persistez sur le fait que le réceptacle doit être mort ? On ne peut pas choisir un être vivant ?」
+
+}
+[sha:c698cc88cfcc21e4087a4ff52a0e4a9349b61404]{
+-- Page 38, Offset 14646.
+-- 「それは使い魔じゃなくて協力者でしょ。使い魔は基本、術者なくしては生きられないものにしないと。
+「Ça, ce n'est pas un familier mais un partenaire. Fondamentalement, il faut choisir un familier qui ne peut survivre sans le Mage.
+
+}
+[sha:77e81cb279f8a61c404ee07026463461bac5a875]{
+-- Page 38, Offset 14647.
+-- それでいて優れた<人格|いし>を持ち、術者の死角や盲点を補える知性もある―――それが一流の使い魔の条件よ。
+  Et en dépit de ça, il doit être doté d'une volonté exceptionnelle et d'une intelligence le rendant capable de compenser les points faibles du Mage―――ce sont les conditions nécessaires à la création d'un familier de premier ordre.
+
+}
+[sha:94c09a817840f7511a80934059a2cfdbe36b0f05]{
+-- Page 38, Offset 14648.
+-- 正直な話、それだけ都合のいいヤツは死から作り直すしかないってワケ」
+  À vrai dire, un familier aussi pratique ne peut être obtenu qu'en modifiant un cadavre.」
+
+}
+[sha:688615d1976fbb22436a893216865a9d27fc6aa7]{
+-- Page 39, Offset 14649.
+-- 絶対服従でありながら、術者の死角……勘違いやドジをフォローする役回り。
+  D'une obéissance absolue, il a pour rôle de rattraper les défauts...... les erreurs ou les bourdes du Mage.
+
+}
+[sha:e500deef4990d38709ce6fbebc96842039213aa8]{
+-- Page 39, Offset 14650.
+-- つまるところ、使い魔というのは今の自分とあんまり変わらない連中なのか、と草十郎は納得した。
+  Autrement dit, les familiers ne sont pas si différents de moi actuellement, pensa Sōjūrō, convaincu.
+
+}
+[sha:156f09f1780aa0672690860551c5f95d5c250f3e]{
+-- Page 40, Offset 14651.
+-- 「……さて。
+「...... Alors...
+
+}
+[sha:7e6479b26c6ae64b916c02a366a2e6e85a611f56]{
+-- Page 40, Offset 14652.
+-- 姉貴は昔からルーン使いだったから戦術は予測できる。
+  Ma sœur a toujours été une utilisatrice de Runes. On peut donc anticiper sa stratégie.
+
+}
+[sha:e593f5dff5cad570f73aedc82e8b153384ba0096]{
+-- Page 40, Offset 14653.
+-- 問題の切札もどうやら使い魔らしい。
+  Sa fameuse carte secrète semble être un familier.
+
+}
+[sha:5e05750bce74b5f83fb1038a38c0869e2d4a35cb]{
+-- Page 40, Offset 14654.
+-- 自動人形もさすがにこの前で使いきっただろうし……」
+  Quant à ses Automates, il ne doit sûrement plus lui en rester après notre dernier combat......」
+
+}
+[sha:ba7a6000591a0f8cab0fac75f0e40e2e1952bfb8]{
+-- Page 40, Offset 14655.
+-- 確認するように言いながら、青子は有珠と視線を合わせた。
+  dit Aoko en échangeant un regard avec Alice comme pour confirmer avec elle ces informations.
+
+}
+[sha:8a08f07618b107783f9ca4056e7b9f5638f6ed98]{
+-- Page 40, Offset 14656.
+-- 有珠は頷きだけで同意する。
+  Alice approuva d'un simple hochement de tête.
+
+}
+[sha:38b2d31a1ddfe2f8f46d75a9caaa4e26ae1fe71d]{
+-- Page 41, Offset 14657.
+-- 「じゃあ予定通り、今日で終わりにしよう。
+「Alors finissons-en aujourd'hui, comme prévu.
+
+}
+[sha:ebeaf370d70408b7b01e1beb4ef40147cd2ea08f]{
+-- Page 41, Offset 14658.
+-- この一ヶ月、好き放題やられた借り―――ぎったんぎったんにして、あのバカ姉貴に返してやる……！」
+  Pendant ce dernier mois, mon idiote de sœur s'est bien défoulée. Je vais le lui rendre au centuple......!」
+
+}
+[sha:73e5f4c7ca0b0a77d28a0b817bf729951626b941]{
+-- Page 41, Offset 14659.
+-- ぐっと握りこぶしを作る青子。
+  Aoko leva son poing bien fermé.
+
+}
+[sha:6ae9069094c9b9026fd91af0c1228501ebe39433]{
+-- Page 41, Offset 14660.
+-- こうして見るとごく一般的な姉妹ゲンカにしか見えないのは、おそらく、本当に姉妹ゲンカにすぎないからだろう。
+  Ça ne ressemblait à première vue qu'à une très ordinaire dispute entre sœurs, probablement parce que c'était justement le cas.
+
+}
+[sha:b470a22ee4687fdd6f21d3c2f570d774cac8181d]{
+-- Page 42, Offset 14661.
+-- そんな青子の様子に、草十郎はそっと安堵の息をついた。
+  Sōjūrō poussa un soupir de soulagement en voyant l'attitude d'Aoko.
+
+}
+[sha:8452930728162570c3155756a951c95d97b53837]{
+-- Page 42, Offset 14662.
+-- 先日やってきた橙子と、その後の青子たちの緊張感は、本気で殺し合うような空気だった。
+  Tōko, venue quelques jours auparavant, puis Aoko et Alice par la suite, avaient dégagé une tension palpable qui laissait entrevoir un véritable combat à mort.
+
+}
+[sha:4852e811d93ec77e678d06f4ea1078706fdf9b80]{
+-- Page 42, Offset 14663.
+-- が、今の青子には、そんな凄惨さはまったくない。
+  Cependant, ce sentiment macabre n'était plus perceptible chez Aoko.
+
+}
+[sha:a5e46c9c43f5ce5638e3f546b0fe404c0cbf7b80]{
+-- Page 43, Offset 14664.
+-- 結局、刀はもとの鞘に戻るのだろうな、とぼんやりと考えて、草十郎は安心したのだ。
+  À la fin, elles vont sûrement se réconcilier, pensa bêtement Sōjūrō, rassuré.
+
+}
+[sha:2143ad19b3558942da8a9e3d874f2c32df13d964]{
+-- Page 43, Offset 14665.
+-- 青子と橙子。たとえ両者が赤の他人であったとしても、彼は彼女たちの争う姿は見たくはなかった。
+  Aoko et Tōko. Même si elles avaient été de parfaites étrangères, il aurait préféré ne pas les voir s'affronter.
+
+}
+[sha:261385082da9c22ae908eb792a257d82d9c0b451]{
+-- Page 43, Offset 14666.
+-- ……時間は緩やかに過ぎていく。
+  ...... L'heure tournait lentement,
+
+}
+[sha:547fab0684e00cd64d20e97b978ad80cfc6bf682]{
+-- Page 43, Offset 14667.
+-- 青子の言う決着の夜―――彼の浅はかな間違いを正す、無慈悲な夜の静寂へと。
+  mais tout aussi certainement, vers le silence impitoyable de la nuit qui allait rectifier son stupide malentendu―――la nuit du dénouement dont parlait Aoko.
+
+}

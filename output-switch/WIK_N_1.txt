@@ -1,0 +1,132 @@
+[sha:25c9a5ecba83cec6125be5d4ac4ce3e4d6c24acc]{
+-- Page 0, Offset 22745.
+-- わたしは、その意見に賛成すべきだ、と思った。
+  Je songeai qu'il fallait se ranger à cet avis.
+
+}
+[sha:770bbf35769de8be12885d085ab697a68a705b09]{
+-- Page 1, Offset 22746.
+-- 「ここで腹の探り合いをしていても空しいだけね。いいかげん決を採りましょう。
+「Il serait vain de chercher la vérité maintenant. Il est grand temps de prendre une décision.
+
+}
+[sha:37d0bb8355b2826287c61c82566d081ced74cbdc]{
+-- Page 1, Offset 22747.
+-- 自分の部屋に閉じこもって朝を待つ、に賛成な人」
+  Que les personnes d'accord pour s'enfermer dans leur chambre jusqu'au matin lèvent la main.」
+
+}
+[sha:45918122c876336647a7bf9ce1ca3ddfe2893ed0]{
+-- Page 2, Offset 22748.
+-- 賛成、と手を挙げる。
+  “D'accord”, dis-je en levant la main.
+
+}
+[sha:ce3d23765b6849b947a7a0c48b7b9f16968802f2]{
+-- Page 2, Offset 22749. Mods: @n.
+-- 手を挙げたのはわたし、蒼崎、唯架さん、静希……と、
+  Quatre autres personnes levèrent la main : Aozaki, Yuika, Shizuki... et
+
+}
+[sha:6788871888e624003ab40a0482f41b8928565a17]{
+-- Page 2, Offset 22750. Glued.
+-- それにつられてベオの五人。
+ Beo imitant ce dernier.
+
+}
+[sha:d37442802f6829dae9320d4a4240a4278978d7d0]{
+-- Page 2, Offset 22751.
+-- 反対は律架さん、詠梨神父、槻司、久遠寺さんの四人。
+  Ceux qui étaient contre s'élevaient au nombre de quatre : Ritsuka, père Eiri, Tsukiji et Kuonji.
+
+}
+[sha:c2ee453b0d114a974c1d5c49863f8e085bf9cde2]{
+-- Page 2, Offset 22752.
+-- ベオの差でわたしたちの勝ちである。
+  Avec Beo, c'était nous qui l'emportions.
+
+}
+[sha:516a632d267c633161d21b45f87e146204e29d21]{
+-- Page 3, Offset 22753.
+-- 「決まりね。それじゃ各自、部屋にこもって、しっかり鍵かけて、朝まで外にでないこと。
+「C'est décidé. Que chacun aille dans sa chambre, ferme bien à clef et n'en sorte pas jusqu'au matin.
+
+}
+[sha:f045e6066054735e8c65e80b4d31310f8c730e9b]{
+-- Page 3, Offset 22754.
+-- 必要な物があったら台所から持っていって。
+  Si vous avez besoin de quelque chose, prenez-le dans la cuisine.
+
+}
+[sha:a46d3bc770abd90301c06559f9670962372a9d3c]{
+-- Page 3, Offset 22755.
+-- あと、トイレは精神的に耐えきって」
+  Et s'il vous vient l'envie d'aller aux toilettes, eh bien, retenez-vous.」
+
+}
+[sha:d0ebdea51b63e790e28788bbe66cef3b2c067f68]{
+-- Page 4, Offset 22756.
+-- みんな長時間の推理に疲れていたのだろう。
+  Tout le monde devait être fatigué par la longue enquête.
+
+}
+[sha:58310cb621604c501aed0da5d71cba66ff254f87]{
+-- Page 4, Offset 22757.
+-- とくに何を言うでもなく、あてがわれた部屋に向かっていった。
+  Chacun se rendit dans la chambre qui lui avait été allouée sans rien dire.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 5, Offset 22758.
+-- 「………………」
+「..................」
+
+}
+[sha:68a7390c85e18b2d77962ee11bd40c6ac9a4dd27]{
+-- Page 5, Offset 22759.
+-- 鍵をかけてベッドに横になる。
+  Je fermai à clef et m'allongeai sur le lit.
+
+}
+[sha:91862f813bc4ecf18ab3ad6df00613047e93c3c8]{
+-- Page 5, Offset 22760.
+-- 万が一の事態に対応できるよう、寝間着には着替えていない。
+  Pour réagir au plus vite en cas d'incident, je n'enfilai pas mon pyjama.
+
+}
+[sha:95f8b05a5f7f84eb9d91f49c83b235d280861c27]{
+-- Page 6, Offset 22761.
+-- もうじき日付が変わる。
+  Bientôt, la date changerait.
+
+}
+[sha:acee1431d1e92864a3194438360099b5873d6a0e]{
+-- Page 6, Offset 22762.
+-- 零時を過ぎれば連休の一日目が終わる。
+  Une fois minuit passé, le premier jour des congés serait fini.
+
+}
+[sha:e3dba90e6efa97db003ab63504b65895321c68a6]{
+-- Page 6, Offset 22763.
+-- せっかくの三連休がこんなカタチで始まるなんて、夢にも思わなかった。
+  Je n'aurais jamais imaginé que ces trois jours de congé tant attendus commenceraient de cette façon.
+
+}
+[sha:5f3d9ae994babb7a15dc84e67a920c865a736c0d]{
+-- Page 7, Offset 22764.
+-- 「……まず……すごく眠い、わたし……」
+「... Zut... J'ai... trop sommeil...」
+
+}
+[sha:21395223decdf2dccbc2842b8297a1234fa5e785]{
+-- Page 7, Offset 22765.
+-- 横になったとたん、目蓋が重くなっていく。
+  Mes paupières s'alourdirent à l'instant où je m'allongeai.
+
+}
+[sha:f71d5ce4de380cd4d7ddab10a4d0d9c722d21b96]{
+-- Page 7, Offset 22766.
+-- もっと考えるべき事があるのに、わたしは急速に、浅い眠りに落ちていった。
+  Malgré toutes les choses auxquelles je devais réfléchir, je tombai brusquement dans un sommeil léger.
+
+}

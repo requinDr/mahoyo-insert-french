@@ -1,0 +1,282 @@
+[sha:a8e40cf2bea1fcfda862fcce8003b6906b35f5cb]{
+-- Page 0, Offset 23824.
+-- ―――二つ。
+  ―――Deux.
+
+}
+[sha:4229e15ffcf0f2a4291f651355d2f40715eefb43]{
+-- Page 0, Offset 23825.
+-- そうだ、二つなんだ、とわたしは思った。
+  C'est ça, ils sont deux, pensai-je.
+
+}
+[sha:b51b85e2a44792e0ff454d080c6571f7ec726cfb]{
+-- Page 1, Offset 23826.
+-- 一つだと、ひとりだと考えるから無理が生じる。
+  Nos hypothèses ne tenaient pas debout parce qu'on croyait qu'il n'y avait qu'un seul coupable.
+
+}
+[sha:0ebf713fd495d0391d7f38ebd6356e8886126054]{
+-- Page 1, Offset 23827.
+-- でも二つならどうだろう？
+  Mais s'il y en avait deux ?
+
+}
+[sha:d55358ed958263893b6d4cdd65e74583815084b2]{
+-- Page 2, Offset 23828.
+-- まず殺人の種類。
+  Il fallait d'abord réfléchir aux différents genres de meurtres.
+
+}
+[sha:eb82faa62aac48e9ebc19adaed56af3ef682c507]{
+-- Page 2, Offset 23829.
+-- 明確に、“犯人”によって笑わされた場合と、
+  On pouvait les diviser en deux catégories :
+
+}
+[sha:c3804b34d9be02d4bad39cf4d92b3e0f5996caa8]{
+-- Page 2, Offset 23830.
+-- 死体を見て笑ってしまった場合とに分かれる。
+  ceux où le “coupable” avait clairement fait rire la victime, et ceux où celle-ci avait ri en voyant les corps.
+
+}
+[sha:f82310d309bf33bd8976774cdd9569170a7c5fe1]{
+-- Page 2, Offset 23831.
+-- 芳助、リデル、唯架さんが“自爆”組だ。
+  Hōsuke, Riddell et Yuika faisaient partie du second groupe, celui de “l'auto-élimination”.
+
+}
+[sha:c8d6cc4968840cb7e0f3b72db5fc01ac14fc1ed2]{
+-- Page 2, Offset 23832.
+-- けどもうひとり、自爆組に含まれそうなヤツがいる。
+  Mais il existait une autre personne qui pouvait être incluse dans cette dernière catégorie.
+
+}
+[sha:6631bca8193c52cbf3642d5c2fbc389dd1b64d8b]{
+-- Page 2, Offset 23833.
+-- ―――ベオだ。
+  ―――Beo.
+
+}
+[sha:2a5e896c72c6f35f268ffd2492113a66a2052d54]{
+-- Page 3, Offset 23834.
+-- ベオはサンルームの外で笑ってしまい、死亡した。
+  Beo était mort après avoir ri devant la véranda.
+
+}
+[sha:f708c9616db70f2be27e92b8eb6baeb04752b666]{
+-- Page 3, Offset 23835.
+-- けどサンルームにはアイツが笑う要因なんて一つもない。
+  Pourtant, la pièce ne contenait aucun élément susceptible de le faire rire.
+
+}
+[sha:21c20fa4337ab5d4099f2305fe82f9d2a6886fcb]{
+-- Page 3, Offset 23836.
+-- 周囲の森に何か仕掛けられていた、とも考えづらい。
+  Et il était difficile de croire qu'un piège avait été installé à la lisière de la forêt.
+
+}
+[sha:bb9c467f215bdb3df507e3b613f27771246b80f5]{
+-- Page 3, Offset 23837.
+-- あの嵐の中、外にトラップをしかけるのは不確実だからだ。
+  En effet, un tel piège se serait montré peu efficace, étant donné la tempête qui se déchaînait dehors.
+
+}
+[sha:28a62ad17058f76011304c49952f81370ec9c6dd]{
+-- Page 3, Offset 23838.
+-- となると、やはり罠は室内に仕掛けられていた。
+  On pouvait donc en conclure que le piège était à l'intérieur.
+
+}
+[sha:8aaf862778d858024ef17450657201d4cc8af9b9]{
+-- Page 3, Offset 23839.
+-- サンルームにはない。
+  Il n'était pas dans la véranda.
+
+}
+[sha:0bf532f4ce7e321ada230be7b5d93eacad53133e]{
+-- Page 3, Offset 23840.
+-- じゃあサンルームの<上|・>、二階の部屋はどうだろう？
+  Mais s'il se trouvait au-dessus de la véranda, dans la chambre au premier étage ?
+
+}
+[sha:e4acb380ee6129be0ca33a300b84eb6808d359fd]{
+-- Page 4, Offset 23841.
+-- サンルームの上は蒼崎の部屋。
+  Au-dessus de la véranda se trouvait justement la chambre d'Aozaki.
+
+}
+[sha:737914a2c909a6f47ddf279c4120a1c36b8a7efa]{
+-- Page 4, Offset 23842.
+-- ベオは何者かに「外から蒼崎の部屋を調べてほしい」と頼まれたのではないか？
+  Et si quelqu'un avait demandé à Beo de vérifier cette pièce depuis l'extérieur ?
+
+}
+[sha:296c07fed94925825286fdb5c7a1309ff508e244]{
+-- Page 4, Offset 23843.
+-- そうして、ベオは外からあの部屋を見てしまった。
+  Ainsi, Beo avait fini par voir à l'intérieur de cette chambre depuis la fenêtre.
+
+}
+[sha:1a0c217035c8e637f94664d6ee7a9e6d5f80574a]{
+-- Page 4, Offset 23844.
+-- 蒼崎橙子がヘベレケになっている姿を。
+  Et donc, la silhouette d'Aozaki Tōko ivre morte.
+
+}
+[sha:7d9a1adf0f35d06831d5ce63daba06c5af7ee2ff]{
+-- Page 5, Offset 23845.
+-- ベオは蒼崎姉を知っている素振りだった。
+  Beo avait l'air de connaître Aozaki Tōko.
+
+}
+[sha:b0f7af05918fbee374e0776c95ba255f2560aa41]{
+-- Page 5, Offset 23846. Glued. Mods: @x.
+-- 見知った人間のあんな姿を見たら、つい笑ってしまう公算が高い。
+Si l'on voyait une connaissance dans cet état, il y avait une forte probabilité de rire involontairement.
+
+}
+[sha:ce49b270dbe3f52e530ca03128b5a7a98141c8e1]{
+-- Page 5, Offset 23847.
+-- トラップとしては優秀だ。
+  C'était un piège de génie.
+
+}
+[sha:dc91d41941ed3bd82a5512cc217e1ab4212145c3]{
+-- Page 5, Offset 23848.
+-- なにしろベオが笑わなくても、「調べて欲しい」と言った人物に疑いはかからない。
+  Après tout, même si Beo ne riait pas, la personne lui ayant demandé de vérifier ne paraîtrait pas suspecte.
+
+}
+[sha:bcc99ac2befaf3e027fcd66e3fd8d5717d5a3f2e]{
+-- Page 5, Offset 23849.
+-- 蒼崎に不審の目が向けられるターンが早まるだけなのだから。
+  Le moment où Aozaki serait vue d'un œil suspicieux serait simplement arrivé plus tôt.
+
+}
+[sha:543e973a9fae64f320545b01f9cd504d7d3ed17d]{
+-- Page 6, Offset 23850.
+-- 「……殺害方法は二種類あったんだ。
+「......... Il y avait deux méthodes de meurtre.
+
+}
+[sha:d3ad209ce7701a2b72de9108f2b46249fed7668a]{
+-- Page 6, Offset 23851.
+-- 犯人による直接的な方法と、その後の、犠牲者を利用した二次災害。
+  La manière directe, exécutée par le coupable, et les accidents dus à l'état des victimes.
+
+}
+[sha:f76df164106c142098c0f24091bb5636f53d8025]{
+-- Page 6, Offset 23852.
+-- それと同じように―――」
+  Et de même―――」
+
+}
+[sha:7cf73bed8f89ec28233a0079347fb180ed1bf2d4]{
+-- Page 7, Offset 23853.
+-- このゲームには、<共|・><犯|・><者|・><が|・><い|・><る|・>。
+  Dans ce jeu, il y avait un complice.
+
+}
+[sha:d14ad38325a1d7e76544b5a624f468c4ec7cf061]{
+-- Page 7, Offset 23854.
+-- リデルの台詞。
+  Les propos de Riddell.
+
+}
+[sha:9caec44cc7f9cf434e30bfe4a299833e125de0cb]{
+-- Page 7, Offset 23855.
+-- 槻司の疑問。
+  Les doutes de Tsukiji.
+
+}
+[sha:42fd55d9dd0788218351c1ce2dabe33d501f99f4]{
+-- Page 7, Offset 23856.
+-- 二人一組、二心同体。
+  Deux par groupe, deux cœurs, un corps.
+
+}
+[sha:dc867dc5eea2e94c85be3ccb15e4ff76207fba44]{
+-- Page 7, Offset 23857.
+-- 願掛けのプロイキッシャー、スイーツハーツ。
+  Sweets Hearts, le Ploy Kickshaw de la prière shinto.
+
+}
+[sha:a4ab9e62249996051f19a4b844eee16d3b3c48c0]{
+-- Page 7, Offset 23858.
+-- ああ、なんて露骨な名前だろう。
+  Aah, quel nom bien trouvé.
+
+}
+[sha:5cda727c50baf1630c14964f439d083dd0c63112]{
+-- Page 7, Offset 23859.
+-- スイーツが<本体|プリン>なら、ハーツは何を示している？
+  Si Sweets désignait le flan, alors qu'est-ce que Hearts représentait ?
+
+}
+[sha:eb6b6f9ae4b9f3f835fdca9a20f3b2b95669a186]{
+-- Page 8, Offset 23860.
+-- 「人間だ。敵は複数形だった―――！」
+「L'humain qui le mange. Il y avait plusieurs coupables―――!」
+
+}
+[sha:89b92e37c7670e84e8a470d83fa33137dff7c01e]{
+-- Page 8, Offset 23861.
+-- だとしたら、スイーツハーツは二人いる。
+  Dans ce cas, il y avait deux Sweets Hearts.
+
+}
+[sha:137c44149610ed4e24465c06bd9bfe85d90a25f9]{
+-- Page 8, Offset 23862.
+-- このゲームにおいて、実行犯と人物Ａは別人なんだ……！
+  L'exécuteur et l'individu A étaient deux personnes différentes...!
+
+}
+[sha:35e5db359a6687bd003d155569d02ddfdc26fba1]{
+-- Page 9, Offset 23863.
+-- プロイを使用した人物Ａ。
+  L'individu A qui avait utilisé le Ploy.
+
+}
+[sha:2cd6ae74ca5d8a83e957d5f8528883bbd81d1f00]{
+-- Page 9, Offset 23864.
+-- そして、それに協力している実行犯。
+  Et l'auteur des crimes qui coopérait avec lui.
+
+}
+[sha:645ef35a12c1cb9fbdb728bd669824e1ffaf1ed1]{
+-- Page 9, Offset 23865.
+-- 静希はその協力者、実行犯にすぎない。
+  Shizuki n'était que le complice, l'auteur des crimes.
+
+}
+[sha:a95118a2e2c721e7c7a4d0554d58f4ace8c0f4ed]{
+-- Page 9, Offset 23866.
+-- 当たっていたけど正解じゃない。
+  J'avais vu juste, mais ce n'était pas la bonne réponse.
+
+}
+[sha:330703e5c8d5cae40887f48686aef1efd2f9fd85]{
+-- Page 9, Offset 23867.
+-- わたしが消えなかったのはそういう理屈に違いない。
+  C'était sans aucun doute pour cette raison que j'étais toujours vivante.
+
+}
+[sha:23924defd2d60d688ac64c4982213fe32470ec8a]{
+-- Page 10, Offset 23868.
+-- 「待て―――待って、待って待って待って……！
+「Attends―――Attends, attends, attends, attends...!
+
+}
+[sha:3859720eb14c4f55fad75637b04fc554910b4713]{
+-- Page 10, Offset 23869.
+-- それならもう答えは明白、後は、ほら、あの問題を検証すればいいだけだ……！」
+  La solution est claire, maintenant, il ne me reste plus qu'à répondre à cette question...!」
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 10, Offset 23870.
+-- わたしは、
+  Je...
+
+}

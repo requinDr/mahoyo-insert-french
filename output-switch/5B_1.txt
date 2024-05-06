@@ -1,0 +1,1284 @@
+[sha:1900c63f645f7fa72b8e2d106ba64c5fcef8e5d9]{
+-- Page 0, Offset 5397.
+-- それは、彼らにとって<郷愁|きょうしゅう>に似た旋律だった。
+  Il s'agissait pour eux d'une mélodie pleine de nostalgie,
+
+}
+[sha:59f87192b2841b26f21d3aa4fc572e0577d161f2]{
+-- Page 0, Offset 5398.
+-- かつてこの世界にありふれていたもの。
+  eux qui étaient autrefois répandus de par le monde.
+
+}
+[sha:f0877f2ebdee02912d599826eb885326113f1966]{
+-- Page 0, Offset 5399.
+-- 物言わぬ彼らのすべてが、永遠に続くと信じて疑わなかったもの。
+  Tous ces êtres dépourvus de parole croyaient sans l'ombre d'un doute que cela continuerait pour l'éternité.
+
+}
+[sha:15e816c78ea17729d1632f4ac4fd8e2dcfa0d16a]{
+-- Page 0, Offset 5400.
+-- 始まりに一度、終わりに一度。
+  Une fois au commencement, une fois à la fin.
+
+}
+[sha:a51eaa8583a3fcd559636bea8a6323291a1f6656]{
+-- Page 0, Offset 5401.
+-- 夢の開園と、現実への帰還を告げる、陽気で、どこか寂しくなる不思議な<音楽|サイレン>。
+  C'était un gong mystérieux qui rendait joyeux et vaguement mélancolique, et annonçait le début d'un rêve et sa projection dans la réalité.
+
+}
+[sha:929f6f827dbf1806cce953d29e26bac1e836a7ae]{
+-- Page 1, Offset 5402.
+-- 夜が<響|ひび>く。
+  La nuit résonnait.
+
+}
+[sha:950ea518112a4273b3c73ff1ce9dbd18ae26ccf1]{
+-- Page 1, Offset 5403.
+-- 唄を<紡|つむ>ぐ。
+  Elle jouait une mélodie.
+
+}
+[sha:bedffa0c32163b2ddd4755562d41097d785b2cd8]{
+-- Page 1, Offset 5404.
+-- 今は失われた彼らの楽園を掘り返す。
+  Elle exhumait leur paradis maintenant perdu.
+
+}
+[sha:5a4355a7e5ee7b034910e6f9f292deac1a25c9dd]{
+-- Page 1, Offset 5405.
+-- うち捨てられた多くの<夢路|ゆめじ>が、
+  Les innombrables rêves abandonnés,
+
+}
+[sha:aa7b6d9fa4a01ebf8cd6d1d64fe8289d5d14fca1]{
+-- Page 1, Offset 5406.
+-- 見放されたかつての偶像が、
+  les anciennes idoles délaissées,
+
+}
+[sha:58ebb0de2db565a0b38d58023c2373c1dc50934a]{
+-- Page 1, Offset 5407.
+-- 青猫の鳴き声に呼応する。
+  agissaient de concert avec le cri du chat bleu.
+
+}
+[sha:478d789ea27a19ec75956c7d2360df9ce40c17e4]{
+-- Page 2, Offset 5408.
+-- ―――その鐘の名は“<夜の饗宴|ディドルディドル>”
+  ―――Cette cloche se nommait Diddle Diddle, le Banquet de la nuit.
+
+}
+[sha:e4942ba5f57b61c05f84702a2c9c379417b1c5d7]{
+-- Page 2, Offset 5409. Mods: @n.
+-- あらゆる寓話、
+  Elle permettait toutes les fables,
+
+}
+[sha:1b589b46d24b782c665ef7dca3d0beca020cb64d]{
+-- Page 2, Offset 5410. Glued. Mods: @n.
+-- あらゆる不思議を許容する、
+  toutes les étrangetés,
+
+}
+[sha:40649cb32fbdbfb4771310bd6e1a122b4e289a22]{
+-- Page 2, Offset 5411. Glued.
+-- 魔法以上に魔法に近い、久遠寺有珠の魔術である。
+  c'était la Magie de Kuonji Alice, plus proche de la Vraie Magie que la Vraie Magie elle-même.
+
+}
+[sha:7e9c9deaeb60fd2780e56da78760c4b65645cc38]{
+-- Page 3, Offset 5412.
+-- 「……随分と身勝手ね。
+「...... Tu es bien égoïste.
+
+}
+[sha:f07a93d79697e2a0c6ad7908a65e05110d6c79c5]{
+-- Page 3, Offset 5413.
+-- それは貴女ひとりで決めていい事だったかしら、青子？」
+  S'agit-il vraiment d'une chose que tu peux décider seule, Aoko ?」
+
+}
+[sha:01394e3e53aab6adef9aa63dcb84b60d1abffc75]{
+-- Page 3, Offset 5414.
+-- 少女は黒い<凶鳥|まがどり>のように時計台の上に降り立った。
+  Elle se tenait debout sur la tour d'horloge, tel un oiseau de malheur.
+
+}
+[sha:742dbce72987c7ce9520ebc405dffb06e89ed9e9]{
+-- Page 3, Offset 5415.
+-- 細い指は静かに、羽をつくろうように、<衣服|スカート>の乱れを直す。
+  Ses doigts fins, silencieusement, corrigeaient les plis de sa jupe, comme si elle lissait ses plumes.
+
+}
+[sha:2a1686ed2b84342c2d7b779b49b0d2b3a79e14d1]{
+-- Page 4, Offset 5416.
+-- 「―――有珠」
+「―――Alice.」
+
+}
+[sha:ff9b779af1b825fd846ba9beebb00240ee2e9507]{
+-- Page 4, Offset 5417.
+-- 見上げる青子の声には<微|かす>かな緊張。
+  Une certaine nervosité pointait dans la voix d'Aoko qui la regardait.
+
+}
+[sha:780b71278435d2771adfe7aba9edb2f950030554]{
+-- Page 4, Offset 5418.
+-- ……先ほどまでの穏やかな空気は、有珠の視線だけで霧散していた。
+  ...... L'atmosphère calme qui régnait jusque-là s'était évanouie rien qu'avec le regard d'Alice.
+
+}
+[sha:c56d0de6103f0c75ced26b2da45d7c6d0c9751d5]{
+-- Page 5, Offset 5419.
+-- “あの娘、たしか……”
+“Cette fille, si je me souviens bien......”
+
+}
+[sha:13cc5a75af25dc92405d6e788121c5b6f2df3057]{
+-- Page 5, Offset 5420.
+-- 草十郎は曖昧な記憶を辿る。
+  Sōjūrō fouilla dans sa mémoire nébuleuse.
+
+}
+[sha:6fb0b22d862e7d10befd866825ff18476ddd607b]{
+-- Page 5, Offset 5421.
+-- 遠くて顔ははっきりしないが、何度か町で見かけたかもしれない。
+  Elle était loin et il ne voyait pas bien son visage, mais il l'avait peut-être aperçue plusieurs fois en ville.
+
+}
+[sha:41d227949d4c59d6f33a1176d7290bf702205787]{
+-- Page 5, Offset 5422.
+-- それが何処だったかを思い出そうとするのだが、妙な緊張感が邪魔をして、どうにもはっきりしなかった。
+  Il essaya de se souvenir où il l'avait vue, mais la tension étrange le gênait, et il ne put éclaircir ce point.
+
+}
+[sha:3b221b2e1807d619471494da35a012b74c9156ea]{
+-- Page 6, Offset 5423.
+-- 「―――驚いた。ずいぶんと仲間思いになったのね有珠。
+「―――En voilà une surprise. C'est seulement maintenant que tu commences à te soucier de tes camarades, Alice ?
+
+}
+[sha:601402b561d867e2dc3009cb031980d7784958dd]{
+-- Page 6, Offset 5424.
+-- 今夜は私に任せるんじゃなかったっけ？」
+  Ce soir, tu n'avais pas dit que tu me laissais faire ?」
+
+}
+[sha:bedaf6508bc684282432ac13cf7525f465e2fe26]{
+-- Page 6, Offset 5425.
+-- 青子はわずかに身構え、半歩だけ前に出た。
+  Aoko s'avança légèrement, d'environ un pas et demi.
+
+}
+[sha:03bcd795cdbe7308cf171226898d661ca4c2eb68]{
+-- Page 6, Offset 5426.
+-- 無意識に。
+  Inconsciemment.
+
+}
+[sha:e9d62520628ad094fef33b50b583d511f086eef5]{
+-- Page 6, Offset 5427.
+-- 第三者的に見れば、<傍|かたわ>らの人影をかばうように。
+  D'un point de vue extérieur, on aurait dit que c'était pour protéger la silhouette à proximité.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 7, Offset 5428.
+-- 「――――――」
+「――――――」
+
+}
+[sha:a570b51646ee6b1878f2263a0f724037378f421d]{
+-- Page 7, Offset 5429.
+-- 有珠の沈黙はますます重くなっていく。
+  Le silence d'Alice devenait de plus en plus pesant.
+
+}
+[sha:330ab2c736b0a426cd5b899f0168ee3f9e2e97a8]{
+-- Page 7, Offset 5430.
+-- 地上を<睥睨|へいげい>する瞳は感情に<乏|とぼ>しい。
+  Les pupilles qui les regardaient de haut ne montraient aucune émotion.
+
+}
+[sha:f4544e3f3f905651ea06d4374ada1b2cf657274b]{
+-- Page 7, Offset 5431.
+-- でありながら、言いようのない不安と重圧でこの広場を支配しつつある。
+  Et en même temps, la pression et la tension indescriptibles qu'elle dégageait lui permettaient de contrôler la grande place.
+
+}
+[sha:e8cf1ab4587b7e808ce30e7e686e56c6cfcb9ac2]{
+-- Page 8, Offset 5432.
+-- “……鐘……？”
+“...... Une cloche......?”
+
+}
+[sha:b4d3a0fab7d1c05a51dd9cec1ed07e7179f3b7dd]{
+-- Page 8, Offset 5433.
+-- 耳を澄ますと、どこからか鐘の音が響いていた。
+  En tendant l'oreille, le son d'une cloche résonnait de quelque part.
+
+}
+[sha:c173a4d6df59324455063c59f6e416524e90a426]{
+-- Page 8, Offset 5434.
+-- 寄せ返すさざ波のような<鐘|おと>は、信じがたい事に地面の下から聴こえてくる。
+  C'était difficile à croire, mais le son qui ressurgissait s'élevait depuis le sol comme s'il ondulait.
+
+}
+[sha:1fee6c69fe5aee6e6b78c92511f936c68f37e6c7]{
+-- Page 9, Offset 5435.
+-- 「なあ蒼崎、あの<娘|こ>」
+「Dis Aozaki, cette fille...」
+
+}
+[sha:5c43929cd9803046a7e377107f086516cb54e8a8]{
+-- Page 9, Offset 5436.
+-- 「黙ってて」
+「Tais-toi.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 9, Offset 5437.
+-- 「――――――」
+「――――――」
+
+}
+[sha:951ab07cc6b3fc72bc915748d892b3d612761d0e]{
+-- Page 9, Offset 5438.
+-- むう、と邪魔にならないよう引っこむ草十郎。
+  Sōjūrō recula pour ne pas la gêner.
+
+}
+[sha:c170ec2fc42baf95e3cbdd9df307308e9743cd03]{
+-- Page 9, Offset 5439.
+-- 知り合い？　という質問に、
+  À la question “Tu la connais ?”,
+
+}
+[sha:bc6417d34b7b7f4a7d3d55be4c487023a908fb1e]{
+-- Page 9, Offset 5440.
+-- 死にたい？　と返された感じ。
+  il avait l'impression qu'elle avait répondu “Tu veux mourir ?”.
+
+}
+[sha:1fc0a9aa2e245e3a9d9b87e5a79a68b9655b5c13]{
+-- Page 10, Offset 5441.
+-- 「……そうね。仲間思い、に当てはまるかは微妙だけど、良くない予感がしたから様子を見に来ただけ。
+「...... Tu as raison. Je ne saurais dire si c'est de la sollicitude. Je suis simplement venue voir comment cela se passait, suite à une mauvaise prémonition.
+
+}
+[sha:e2fd09e11f2687576d22de799b4c00d2a7f365e7]{
+-- Page 10, Offset 5442.
+-- 別に、貴女の仕事を疑ったワケじゃないわ。」
+  Je ne doute pas que tu t'acquittes consciencieusement de ta tâche.」
+
+}
+[sha:08915590725be701559c977dbbbe6d4597f635c0]{
+-- Page 11, Offset 5443.
+-- 「それはどうも。どうせならもう少し早く、その良くない予感とやらに気づいてほしかったけど。
+「Merci. Même si j'aurais préféré que tu prennes conscience un peu plus tôt de cette mauvaise prémonition.
+
+}
+[sha:004c8223fc3f0eaa158a90e5daeab21d140bdc69]{
+-- Page 11, Offset 5444.
+-- ―――でもま、ごらんの通り自己解決したわ。
+  ―――Mais comme tu peux le voir, j'ai réussi à m'en sortir toute seule.
+
+}
+[sha:3a0536bb3891878de13ab65aa4a2dde9b55133b2]{
+-- Page 11, Offset 5445.
+-- 夜も遅いし、さっさと帰っていいわよ有珠。私の仕事っぷりを疑うワケじゃないんでしょう？」
+  Il se fait tard, tu peux rentrer, Alice. Tu as bien dit que tu ne doutais pas que je m'acquitte consciencieusement de ma tâche, n'est-ce pas ?」
+
+}
+[sha:4264cc6881498010486947f0eb8fb4dec1703f61]{
+-- Page 12, Offset 5446.
+-- 両者の視線が交差する。
+  Leurs deux regards se croisèrent.
+
+}
+[sha:3eaae7da743f7915c83a248ac8fd18267b56840d]{
+-- Page 12, Offset 5447.
+-- 有珠はやや不快げに、冷たさをこめて。
+  Alice, légèrement froissée, exprimait ainsi une certaine froideur.
+
+}
+[sha:bcc239feb9ef44b68b48b522c208c9e375615482]{
+-- Page 12, Offset 5448.
+-- 青子は堂々と、文句があるなら言いやがれと挑発するように。
+  Aoko, quant à elle, la provoquait ouvertement, comme pour lui faire savoir que si quelque chose lui posait problème, elle n'avait qu'à le dire.
+
+}
+[sha:d54f16c270b4b83a0e93260c3df1cb7e6282c125]{
+-- Page 13, Offset 5449.
+-- 「……いえ、気が変わったわ。
+「...... Non, j'ai changé d'avis.
+
+}
+[sha:d57a58e64b13d5493959136a6ff77b4a6a859fbe]{
+-- Page 13, Offset 5450.
+-- せっかくだし<二|・><人|・><で|・><帰|・><り|・><ま|・><し|・><ょ|・><う|・>。その方が貴女らしいわ。帰りしな、人形の話でも聞かせてちょうだい」
+  Puisque je suis là, rentrons ensemble, Aoko. Ce serait davantage dans ton style. Par la même occasion, tu me parleras de la marionnette.」
+
+}
+[sha:f13f3d2757276441b703c3bd266cd9a9c84b746c]{
+-- Page 13, Offset 5451.
+-- 「は。らしいってなによ、らしいって。
+「Aah. Tu entends quoi par “mon style” ? Hein ?
+
+}
+[sha:24ad2cdf2bbcd9ae48728bd1610ff7bdcdac9e25]{
+-- Page 13, Offset 5452.
+-- いいから帰れ帰れ、ぐうたら有珠。部屋に閉じこもって役に立たない<椋鳥|むくどり>でも作ってろっての」
+  C'est bon, va-t'en, Alice la paresseuse. Enferme-toi dans ta chambre et va fabriquer tes étourneaux sans intérêt.」
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 14, Offset 5453.
+-- 「…………」
+「............」
+
+}
+[sha:cb4a59f67c915de95260e07478ed98ed0f4262ba]{
+-- Page 14, Offset 5454.
+-- 可憐な唇が<落胆|らくたん>の息をこぼす。
+  Un soupir de déception s'échappa de ses lèvres charmantes.
+
+}
+[sha:469505b704b8c497649dc51080a91c434fba5f1f]{
+-- Page 14, Offset 5455.
+-- 黒衣の少女は怒るというより呆れたように、
+  La jeune fille aux habits noirs semblait plus surprise qu'énervée,
+
+}
+[sha:12f8c48b70e846079bd2259563eff1d13ac8bf2b]{
+-- Page 14, Offset 5456.
+-- 「……青子。口にしたくないけど、本気？」
+「...... Aoko. Je ne voulais pas te le demander, mais... tu es sérieuse ?」
+
+}
+[sha:7b07a42c2038e24a026a6684b9fed0c3ab2aa0b5]{
+-- Page 14, Offset 5457.
+-- 静かに。
+  et calmement,
+
+}
+[sha:d5628a24b550e8a0e320dfad44d5b7965a07b96c]{
+-- Page 14, Offset 5458.
+-- 二年近くともに暮らした同居人を問いただした。
+  elle questionna celle qui était sa colocataire depuis près de deux ans.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 15, Offset 5459.
+-- 「――――――」
+「――――――」
+
+}
+[sha:a00792be319a4c18d6dcaf860961bfa161c40642]{
+-- Page 15, Offset 5460.
+-- 「……呆れた。二人で秘密を守ると言ったのに？
+「...... Je n'arrive pas à y croire. Tu n'avais pas dit qu'on protégerait notre secret ensemble ?
+
+}
+[sha:bad63c19b1e02da2e09c0eb69996f78a50e70e78]{
+-- Page 15, Offset 5461.
+-- まだ半端にそっち側なの？　それとも情でも移った？」
+  Tu es encore de leur côté, Aoko ? Ou alors, tu t'es prise d'affection pour lui ?」
+
+}
+[sha:ddad686cf46c2bbe8082472609ebac03a0c8b0aa]{
+-- Page 16, Offset 5462.
+-- 「別に。情っていうより私の気分よ。
+「Pas particulièrement. Ce n'est pas une question d'affection mais plutôt d'humeur.
+
+}
+[sha:b08920c401d8d33dafee7070b00e90d22ccb3275]{
+-- Page 16, Offset 5463.
+-- だいたい、方針なんてその場その場で変わるもんでしょ。気分なら尚更よ。
+  Et puis, les objectifs sont du genre à évoluer selon la situation. Et c'est encore plus vrai pour l'humeur.
+
+}
+[sha:93f376fe1819e161a4c62c1eba63f47eee4e62ec]{
+-- Page 16, Offset 5464. Glued. Mods: @x.
+-- そっちこそ、一度した約束は絶対守
+Et toi alors, tu ne crois pas que c'est un peu vieux jeu,
+
+}
+[sha:06dbbec3492d0f02d7a6681caeacfeaefbfc8898]{
+-- Page 16, Offset 5465. Mods: @x.
+-- るぅー、なんて、時代遅れなんじゃない？」
+  que de vouloir absolument respecter une promesse une fois qu'elle est faite ?」
+
+}
+[sha:232b9d8ace23e725a26e2b452248e00c90a60ba7]{
+-- Page 17, Offset 5466.
+-- 睨みあうふたり。
+  Elles se fixaient l'une l'autre.
+
+}
+[sha:021ea3f3734248ad5b681846d79a88037ae4af2b]{
+-- Page 17, Offset 5467.
+-- 歩み寄る気なんて微塵もなし。
+  Elles n'avaient pas l'intention de faire le moindre compromis.
+
+}
+[sha:ad877c8804339c668e1e2a295e174054a87fab88]{
+-- Page 17, Offset 5468.
+-- 悲しい事だが、彼女たちの在り方はあくまで協力関係であって、相互理解の域には達していない。
+  C'était triste à dire, mais leur relation n'était rien de plus qu'une collaboration, et cela n'incluait pas la compréhension réciproque.
+
+}
+[sha:2e5469e07ab85ae5aec8de2df74bef78c733f431]{
+-- Page 17, Offset 5469.
+-- なので、友情のカタチは微妙かつ特殊だった。互いの意見が衝突したら、どちらかが砕けるまで先には進まない。
+  Ainsi, la nature de leur amitié était subtile et spéciale. Si leurs deux opinions étaient en désaccord, tant que l'une d'elles ne céderait pas, elles resteraient campées sur leurs positions.
+
+}
+[sha:82291f8cebc383d831213fb387dae1e4d8e17378]{
+-- Page 17, Offset 5470.
+-- <青子|それ>は<青子|それ>、<有珠|これ>は<有珠|これ>、と綺麗さっぱり切り捨てられるのが、今のところ、彼女たちが良しとする友情である。
+  Elles avaient convenu d'un lien d'amitié qu'elles rompraient sur-le-champ si jamais leurs points de vue s'opposaient.
+
+}
+[sha:5bbce4e95659de0d1a34f032547fc96f3bf7b5d6]{
+-- Page 18, Offset 5471.
+-- 「……そうね。今の暴言は貴女らしいとは思うけど」
+「...... En effet. Je pense que cette attitude te sied bien.」
+
+}
+[sha:6e761e6732dfaa3f8abcfd84f9e9fc69e12d3342]{
+-- Page 18, Offset 5472.
+-- 少女はもう一度、今度はさっきより大きなため息をついて、
+  Elle poussa de nouveau un soupir plus fort que le précédent, et ensuite,
+
+}
+[sha:179c7aff778be96f4c7c83d5fd98bf308a94c50d]{
+-- Page 18, Offset 5473.
+-- 「言い争いは後にしましょう。
+「Nous nous disputerons plus tard.
+
+}
+[sha:454163152a556cc58049a88faf0151ed257f5e6e]{
+-- Page 18, Offset 5474.
+-- そこの彼を<い|・><な|・><か|・><っ|・><た|・><事|・>にするのは、私だけで十分だし」
+  En attendant, je peux très bien me débarrasser moi-même de la personne ici présente.」
+
+}
+[sha:b3ba63daf37e796ff9f593170ba51fbab239317b]{
+-- Page 18, Offset 5475.
+-- つい、と。
+  tranquillement,
+
+}
+[sha:8511d0358213fc43825057140b5786fdce0df4c8]{
+-- Page 18, Offset 5476.
+-- チェスの駒をさすような仕草で、細い指を動かした。
+  elle bougea son doigt fin comme pour désigner une pièce d'échecs.
+
+}
+[sha:15a1d0dbfcc24bf89888189acdc2d441fdd16567]{
+-- Page 19, Offset 5477.
+-- “うん？”
+“Hein ?”
+
+}
+[sha:b714084b9f888bde0199b51cfe00cfe2ab408f44]{
+-- Page 19, Offset 5478.
+-- それは、蒼崎青子に命を狙われ、まがりなりにも自動人形を目撃した草十郎をして、目を見張る“不思議”だった。
+  Alors qu'il avait été témoin d'un Automate et qu'Aozaki Aoko avait attenté sa vie, Sōjūrō écarquilla les yeux devant ce “phénomène”.
+
+}
+[sha:15b321a6a984f09aee97cfa623b3edf5e46d7225]{
+-- Page 19, Offset 5479.
+-- ……青子の暴挙、動く人形。
+  ...... La témérité d'Aoko. Une marionnette qui bouge toute seule.
+
+}
+[sha:0c92781acf1a5de578073b833c01cf81b131019a]{
+-- Page 19, Offset 5480.
+-- それらは常識外とは言え、<現|そ><実|こ>にあるものから派生した出来事だ。彼にとっては驚きこそすれ、不思議に思う事はない。
+  Même s'ils n'étaient pas franchement habituels, ces évènements tiraient leur origine de ce qui existait dans la réalité. À ses yeux, ça paraissait surprenant mais ça n'avait rien d'étrange.
+
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 20, Offset 5481.
+-- しかし。
+  Cependant,
+
+}
+[sha:ba79e71657515efe6ec6f4e64c4d991b3e142c5a]{
+-- Page 20, Offset 5482.
+-- 何もない空間、何の関連もない動作から突如あらわれたソレは、彼にとっては不思議以外の何物でもなかった。
+  pour lui, cette chose sortie soudainement de nulle part et dont l'apparition n'était en rien le résultat attendu du geste d'Alice, constituait véritablement un phénomène étrange.
+
+}
+[sha:bab151b287da63c5a29781b6cebdc7d45a13fb8d]{
+-- Page 20, Offset 5483.
+-- 草十郎は手品に見惚れるよう、指一本動かせず少女の魔術に襲われる。
+ Sōjūrō, fasciné par ce tour de passe-passe, ne bougea pas d'un pouce et se fit attaquer par le sort de la jeune fille.
+
+}
+[sha:eda80470c39779df25cafedc725131011e9c4797]{
+-- Page 20, Offset 5484.
+-- それを横から<弾|はじ>こう……として、<勢|いきお>い、<跡形|あとかた>もなく粉砕する青い光。
+  Une lumière bleue venue de côté, qui devait juste le repousser, le pulvérisa sans en laisser la moindre trace.
+
+}
+[sha:53680dbe382667269c06030d338b367dd79c9944]{
+-- Page 21, Offset 5485.
+-- 「あ、やば」
+「Ah, zut.」
+
+}
+[sha:c39fca8da11f4f28f617ffd4070219d1fd184ce5]{
+-- Page 21, Offset 5486.
+-- 青子は脊髄反射で手をだしてしまい、しまった、と反省する。
+  Aoko, qui avait levé la main par réflexe, se dit qu'elle avait fini par le faire.
+
+}
+[sha:23b22be55d6d76986af8cd97a12a97d964c0988d]{
+-- Page 22, Offset 5487.
+-- 「…………どういう事？　<言葉|やくそく>を曲げただけじゃなく、ルールまで破るつもり？」
+「............ Qu'est-ce que ça signifie ? Tu comptes non seulement revenir sur ta promesse, mais aussi enfreindre les règles ?」
+
+}
+[sha:36f1d848142a282c9161b64264ec2bb36a96fb3a]{
+-- Page 23, Offset 5488.
+-- ……ただでさえ冷えきっていた真冬の空気が、もう氷結レベルまで落ちこんでいく。
+  ...... L'atmosphère, qui était déjà froide, devint à cet instant véritablement glaciale.
+
+}
+[sha:0412132011108ad4cdb9cfb60c5533c99a056b0c]{
+-- Page 23, Offset 5489.
+-- 有珠はクールそうに見えて、その実、青子以上に激情家なところがあった。
+  Alice paraissait imperturbable, mais en réalité, sa personnalité était bien plus explosive que celle d'Aoko.
+
+}
+[sha:6e5936622b9751ddd45627e0916b2932c38a11f0]{
+-- Page 24, Offset 5490.
+-- その最たるものが、使い魔への扱いである。
+  Sa façon de réagir à la manière dont étaient traités ses familiers en constituait une parfaite illustration.
+
+}
+[sha:ae9971b5fc825ca10167a41c98f550bb02e1825d]{
+-- Page 24, Offset 5491.
+-- 悪意のないミスで壊してしまった場合は一週間程度の無言の抗議で済むが、
+  Dans le cas où Aoko en cassait un par erreur, sans malveillance, elle s'en tirait avec une semaine de protestation silencieuse,
+
+}
+[sha:33e403b2dafa957a9f3cbc9df7610c289f864f6a]{
+-- Page 24, Offset 5492.
+-- 悪意をもって破壊したのなら、もうどんな言い訳があろうと報復するのが彼女の性格だった。
+  mais si on le détruisait avec de mauvaises intentions, c'était dans sa nature de se venger, quelle que soit l'excuse avancée.
+
+}
+[sha:3f7312c90a86c0231f3552744309184b303f04b0]{
+-- Page 25, Offset 5493.
+-- “あっちゃあ……いつかやるとは思ったけど、ついに<逆鱗|げきりん>に触れちゃったか……”
+“Ah mince...... Je savais bien que je finirais par provoquer sa colère impétueuse un jour, et finalement, c'est arrivé......”
+
+}
+[sha:8bd330201281ecf8c847eb2a0a25e768c12794fa]{
+-- Page 25, Offset 5494.
+-- あーあ、と。自分の馬鹿さ加減に呆れながらも、青子は<清々|すがすが>しさを感じていた。
+  Même si Aoko était stupéfaite par sa propre bêtise, elle se sentait dans le même temps libérée.
+
+}
+[sha:c73d8a327803ae793c1ab83d4b74cfd638c42a77]{
+-- Page 25, Offset 5495.
+-- 言い訳をする気はないし、後悔もしていない。
+  Elle n'avait pas l'intention de s'excuser, et elle ne le regrettait pas non plus.
+
+}
+[sha:04e230795af35539cf45f425d1f63ed1d13f9507]{
+-- Page 25, Offset 5496.
+-- ルールを破ったというのなら、それは有珠も同じである。
+  Si Alice disait qu'Aoko avait enfreint les règles, alors il en était de même pour elle.
+
+}
+[sha:20abd43fbfdce349ae3bc7f4d99709d5eb5318f0]{
+-- Page 26, Offset 5497.
+-- 「青子」
+「Aoko.」
+
+}
+[sha:b11c586e4dc711375251adf64899e13805e1914e]{
+-- Page 26, Offset 5498.
+-- 「ま、なんていうか―――」
+「Bah ! Comment dire―――」
+
+}
+[sha:ede03b599d2ff2147c734437ff4a7397a2b2370a]{
+-- Page 26, Offset 5499.
+-- 逆にさっぱりしたぐらいだ。
+  Au contraire, elle se sentait soulagée.
+
+}
+[sha:020c640fc9763b4ab7272c0807b7910b0d86db09]{
+-- Page 26, Offset 5500.
+-- だって、こうなった以上はもう色々仕方がない。
+  Maintenant que les choses en étaient arrivées là, elle n'y pouvait plus grand-chose.
+
+}
+[sha:715e71f9576932b4f92890e9de0fedcfaaaaba25]{
+-- Page 26, Offset 5501.
+-- 青子には自分のルールを破る気なんて毛頭なく、
+  Aoko n'avait pas la moindre intention de contrevenir à ses principes.
+
+}
+[sha:31aca6613ad100bd03069200dcba07ec55f357b3]{
+-- Page 27, Offset 5502.
+-- 反省する事があるといったら、それは力加減を間違えた事だけで、
+  S'il y avait quelque chose pour laquelle elle voulait s'excuser, c'était seulement de s'être trompée dans l'ajustement de sa force.
+
+}
+[sha:a453e1c51971bb759035e5e16d0105359967f8be]{
+-- Page 27, Offset 5503.
+-- 「<私|わたし>的に、今夜コイツに死なれるのは困るのよ。
+「Personnellement, ça m'embêterait qu'il meure ce soir.
+
+}
+[sha:832bf621fc78f99ae49b155b45fb2f74de7eb4ca]{
+-- Page 27, Offset 5504.
+-- なんで、日を改めて殺しに来てくれない有珠？　いいでしょ、たった一日ぐらい」
+  Pourquoi tu ne reviendrais pas le tuer un autre jour, Alice ? Ce n'est pas si grave, hein ? Ce n'est que pour une journée.」
+
+}
+[sha:28afe8d356311fa3cd3542edb814657239c9674c]{
+-- Page 27, Offset 5505.
+-- とっさに容疑者Ｓをかばったのは、彼女にとって当然の正義だった。
+  Pour elle, le fait de protéger le suspect S n'était que justice.
+
+}
+[sha:da310ebd294b231dc96e3c9305a31c46a2763bc5]{
+-- Page 28, Offset 5506.
+-- 「それは私情？」
+「C'est ton sentiment personnel ?」
+
+}
+[sha:fbd5901564963d7985befc761997606441f93df1]{
+-- Page 28, Offset 5507.
+-- 「悪い？　一宿一飯の恩義ってわりと大事にしてるの、私」
+「C'est mal ? J'attache plutôt une grande importance aux faveurs que je dois.」
+
+}
+[sha:23c1983395c72fe1c5965e7cd3569922be45da5f]{
+-- Page 28, Offset 5508.
+-- 「わたしとの協定より？」
+「Plus qu'à notre accord ?」
+
+}
+[sha:669ebcdd6feceeab94ea2c37b85645ac9d4a6749]{
+-- Page 28, Offset 5509.
+-- 「ええ。時と場合によっては」
+「Selon le moment et les circonstances, oui.」
+
+}
+[sha:c829bd93485398fe5c62363c01c9fac15680521b]{
+-- Page 29, Offset 5510.
+-- この場にいる<草十郎|さんにんめ>の人権もなんのその。
+  À se demander où étaient passés les droits de la tierce personne ici présente.
+　　
+}
+[sha:2de17193f8c7878bfa804d675f45bf23da1686b9]{
+-- Page 29, Offset 5511.
+-- 少女たちは互いに油をかけあっていく。
+  Les deux filles rajoutaient d'elles-mêmes de l'huile sur le feu.
+
+}
+[sha:8af982548dbd5a142c8941d037c12acc66136c86]{
+-- Page 29, Offset 5512.
+-- 感情の切り替え―――いや、感情に火をつけるのは、黒衣の少女の方が先だった。
+  Celle qui avait changé d'humeur―――non, celle qui s'était enflammée en premier était la fille aux vêtements noirs.
+
+}
+[sha:29e463755631a72a63c07499cf8d1967e74f2878]{
+-- Page 30, Offset 5513.
+-- 「―――そう。よく分かったわ青子。
+「―――Je vois. J'ai bien compris, Aoko.
+
+}
+[sha:38ff3df13502620e284654d2538d6db87bca9857]{
+-- Page 30, Offset 5514.
+-- わたしは彼をここで殺す。
+  Je vais le tuer ici même.
+
+}
+[sha:c8956e16f0ea9bea16ff40264727e9a847384df7]{
+-- Page 30, Offset 5515.
+-- 貴女は彼をここだけ生かす。
+  Tu vas lui laisser la vie sauve tant qu'il sera dans ce parc.
+
+}
+[sha:0a2b1994896372623b8f6cf074ceba405884e3e2]{
+-- Page 30, Offset 5516.
+-- ……つまり。<わ|・><た|・><し|・><と|・><戦|・><う|・>、という事でいい？」
+  ...... En d'autres termes, je peux considérer ça comme un combat entre toi et moi ?」
+
+}
+[sha:ebea880e5f6f58c6056025ad44d171dc7b277602]{
+-- Page 31, Offset 5517.
+-- “……ふん。そんなの、いいワケないじゃない”
+“...... Hm. Comme si j'avais vraiment envie d'en arriver là.”
+
+}
+[sha:1b349520597a758c443e35192bd9fd01ad8b1ce4]{
+-- Page 31, Offset 5518.
+-- なんて弱音をぐっと堪える。
+  Elle retint fermement sa plainte.
+
+}
+[sha:44a5d348739ce7644ccd6cbab506bacc41d27c05]{
+-- Page 31, Offset 5519.
+-- 青子は有珠の魔術を知っている。
+  Aoko connaissait la Magie d'Alice.
+
+}
+[sha:dde11bf8f12aacb78aaa71f9891cb85ffc4a7357]{
+-- Page 31, Offset 5520.
+-- あの小さな体にどれほどの神秘を秘めているか、痛いほど経験している。
+  Son expérience des Mystères cachés dans ce petit corps était telle qu'elle en avait presque la nausée.
+
+}
+[sha:61eb2edcec81e46a0e0abf21582d3d766f02728b]{
+-- Page 32, Offset 5521.
+-- 勝ち目はほとんど、ぜったい<皆無|かいむ>。
+  Ses chances de gagner étaient pratiquement, ou plutôt, absolument nulles.
+
+}
+[sha:50d687c32bc4c688c5bfcabc8335e2b026af126c]{
+-- Page 32, Offset 5522.
+-- そして一度でも口火をきれば、久遠寺有珠は容赦なしだ。
+  Et une fois lancée, Kuonji Alice se montrait sans pitié.
+
+}
+[sha:d18eba17b445a480dd70326864956f91a78539d3]{
+-- Page 32, Offset 5523.
+-- 同居人であろうと友人だろうと、
+  Peu importait que l'on soit sa colocataire, son amie,
+
+}
+[sha:b6bc210de6be89057d7fca34009702ac8e8fc2be]{
+-- Page 32, Offset 5524.
+-- 彼女の最愛の肉親であろうと、
+  ou un parent bien-aimé,
+
+}
+[sha:85ebd3b1f94d03441562d1bb436885315f21731a]{
+-- Page 32, Offset 5525.
+-- 魔女として戦う以上、あの少女は<冷徹|れいてつ><無|む><比|ひ>な怪物となる。
+  dès l'instant où elle se battait en tant que sorcière, cette fille se transformait en un monstre implacable au sang froid.
+
+}
+[sha:20ae83fbd949ecd6712fb1ae5b355ace23c7c54b]{
+-- Page 33, Offset 5526.
+-- 青子はもう半歩、自らを<鼓|こ><舞|ぶ>するよう前進した。
+  Aoko, comme pour se donner du courage, avança à nouveau d'un demi-pas.
+
+}
+[sha:794546e96d25b4913fb247608f19506f53e050e0]{
+-- Page 33, Offset 5527.
+-- 今さら後には退けない。<事|コ><態|ト>はもう、どうでもいい<目撃者|だいさんしゃ>を<巡|めぐ>っての言い争いではない。
+  Maintenant, elle ne pouvait plus faire marche arrière. Il ne s'agissait plus d'une dispute à propos d'un témoin oculaire sans importance.
+
+}
+[sha:e2557b9d9529a1f40ed0fddc9c0cd6ae0c04c394]{
+-- Page 33, Offset 5528.
+-- 彼女たちの友情らしきものは、実力差はどうあれ、精神的に対等である事が成立の条件になっている。
+  Leur semblant d'amitié était basée sur une égalité spirituelle, malgré la différence de niveau entre elles.
+
+}
+[sha:a752248876b8056a7beff6ccf5b54b4b5c677b46]{
+-- Page 33, Offset 5529.
+-- だからこそ―――『自分』を通すのであれば、妥協も誤魔化しも、する訳にはいかなかった。
+  C'était bien pour cela―――que si “elle” voulait s'imposer, elle ne pourrait pas faire de compromis ou la tromper.
+
+}
+[sha:e8b2ab26c4a460aab5d16bb6b159870d8d1ca2dd]{
+-- Page 34, Offset 5530.
+-- 「もちろん。アンタを殺す事になっても、そこのバカは生かしきるわ。それに―――」
+「Bien sûr. Même si je dois te tuer, je laisserai cet idiot en vie. Et puis―――」
+
+}
+[sha:873916f25e6dde039b5206c8c152e9c3553b84dc]{
+-- Page 35, Offset 5531.
+-- うなりをあげて式を走らせる魔術回路。
+  Son Circuit Magique émit un ronronnement et se mit en marche.
+
+}
+[sha:4e6952d18dbf6ed10d225463fe3254f4c0f80f42]{
+-- Page 35, Offset 5532. Glued. Mods: @x.
+-- 先の人形戦では眠っていた身体が、その真価を発揮させろと燃え上がり―――
+Son corps, incapable d'agir pendant le combat contre la marionnette, s'emballa pour prouver sa valeur―――
+
+}
+[sha:358449b1da6da7e10ccf1c22aae061a45cec0d23]{
+-- Page 35, Offset 5533.
+-- 「それに。どのみち最後には殺し合う仲でしょ、私たち……！」
+「Et puis, de toute façon, nous finirons par nous entretuer un jour, pas vrai......!」
+
+}
+[sha:62e93f4c2a9da622fc6ffb7fb79538dc7c7ea2d4]{
+-- Page 35, Offset 5534.
+-- 闘志を<以|もっ>て、強敵への恐怖を克服する―――！
+  et grâce à son esprit combatif, elle surmonta la terreur que lui inspirait sa redoutable ennemie―――!
+
+}
+[sha:1b18f39b40fa5a1b7b41d861db4d800fab3ee63c]{
+-- Page 36, Offset 5535.
+-- 青子の魔弾は自身の体……魔術回路を銃身にして魔力を放つ、ごく単純な魔術式だ。
+  Les balles de prana d'Aoko utilisaient son corps...... son Circuit Magique comme un canon, et faisaient feu avec son prana, un sort très simple en soi.
+
+}
+[sha:48738d5a863fa6e3a71b94fb3139bc224fc4b9cd]{
+-- Page 36, Offset 5536.
+-- 風を起こす、水を分ける、<劣化|じかん>をかける、といった自然干渉ではない。
+  Ce n'était pas une manipulation de la nature comme faire souffler le vent, fendre les eaux ou provoquer la décomposition naturelle.
+
+}
+[sha:b3adcb36cb5dfbe6f8f581853134206bf3884ddb]{
+-- Page 36, Offset 5537.
+-- 魔力という架空の運動を実在へと加工し、熱量として撃ちだしている。
+  Elle transférait dans la réalité le courant imaginaire, le prana, puis le tirait sous forme de chaleur.
+
+}
+[sha:97e66465f84fe738b528e3c3ce5be616be76bd89]{
+-- Page 36, Offset 5538.
+-- なので、その破壊力は青子が扱える魔力量がイコールとなる。
+  En conséquence, le pouvoir destructeur de son attaque était proportionnel à la quantité de prana qu'Aoko pouvait contrôler.
+
+}
+[sha:971c3283047bab12431b4ca65e8c0572d803c76b]{
+-- Page 37, Offset 5539.
+-- 草十郎相手に使用した魔弾は<一工程|シングルアクション>、詠唱を必要としない最低限の魔術だった。
+  Les balles de prana qu'elle avait utilisées contre Sōjūrō étaient à action unique, des sorts simplistes qui fonctionnaient sans Aria.
+
+}
+[sha:858b14a023f4ff08d0e9f44db24cc5f38d2cdf4e]{
+-- Page 37, Offset 5540.
+-- 現状、青子が主武器とする魔弾には三つの工程がある。
+  À son niveau actuel, ces balles constituaient l'arme principale d'Aoko et pouvaient comporter jusqu'à trois actions.
+
+}
+[sha:6da0c8070a77a592f817539075cd90556c36f78f]{
+-- Page 37, Offset 5541.
+-- これはその二つめ。
+  Celle-là en comportait deux.
+
+}
+[sha:17a27c83769142f7175f083e50aa6697f9486b4a]{
+-- Page 37, Offset 5542.
+-- 魔術刻印を<起動|リード>させ、簡略化詠唱を用いた二工程の魔弾である。
+  C'était le mode à double action, qui activait le Sceau Magique et utilisait une Aria simplifiée.
+
+}
+[sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
+-- Page 38, Offset 5543.
+-- しかし。
+  Cependant,
+
+}
+[sha:0b7bc8e30fc375d1a2f28f4757ae9ebb74d0f503]{
+-- Page 38, Offset 5544.
+-- それなりに気合いを込めた青子の魔弾を、少女は<瞬|またた>き一つせず霧散させた。
+  la jeune fille dispersa, sans même cligner des yeux, la balle qu'Aoko avait tirée avec toute sa hargne.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 39, Offset 5545.
+-- 「――――――」
+「――――――」
+
+}
+[sha:fb121af2834778aa73f106c0197bb881b9d071af]{
+-- Page 39, Offset 5546.
+-- ち、と舌打ちする青子。
+  Irritée, Aoko fit claquer sa langue.
+
+}
+[sha:f5e72d6aad099bc3cc19663478c167b77dc438a1]{
+-- Page 39, Offset 5547.
+-- 不意打ちの速攻―――詠唱を簡略した魔術行使では、久遠寺有珠の守りは破れない。
+  Malgré la vitesse d'exécution de son attaque-surprise―――un sort à l'Aria raccourcie, elle ne pouvait pas détruire la protection de Kuonji Alice.
+
+}
+[sha:a258173c9d0964e7aee8d55a859894f2cb2e9821]{
+-- Page 40, Offset 5548.
+-- 「相変わらずお<堅|かた>いこと。その<殻|カラ>、一段と独りよがりになってるんじゃない？」
+「Tu es toujours aussi têtue. Mais tu ne trouves pas que tu es encore plus égoïste que d'habitude, Alice ?」
+
+}
+[sha:ae2b46e6ad9a571e00b32d7407e2c75414938fa9]{
+-- Page 40, Offset 5549.
+-- 青子は内心の焦りをおくびにも出さず挑発する。
+  Aoko provoqua Alice sans exprimer sa propre impatience.
+
+}
+[sha:f04652f36eab61240afbe9e0cf8d3b43a5dcfb5a]{
+-- Page 40, Offset 5550.
+-- そのやせ我慢が気に入ったのか。
+  Alice semblait avoir apprécié son audace.
+
+}
+[sha:2c8f67a742fb5439aac899c3f57f2d359b24b3a9]{
+-- Page 40, Offset 5551.
+-- 「売り言葉に買い言葉、というヤツね。
+「C'est l'hôpital qui se moque de la charité.
+
+}
+[sha:85803c108e1ed82889490b3e762d280f694fac73]{
+-- Page 40, Offset 5552.
+-- こういう、勢いだけのきっかけは初めてだけど……」
+  Même si c'est la première fois que je vois quelqu'un faire ça dans la foulée......」
+
+}
+[sha:84915ca81140abc34cc6c1da07394d14686944ce]{
+-- Page 41, Offset 5553.
+-- 「驚いたわ。こんな下らない理由でも、その気になるものなのね、人間って」
+「C'est surprenant. Donc, les humains peuvent aussi être motivés par ce genre de raison stupide.」
+
+}
+[sha:ed6491818fd64861ab01bf22953437f31ffe3018]{
+-- Page 41, Offset 5554.
+-- くすりと。
+  Elle émit un petit rire.
+
+}
+[sha:0bc2f15f83dfbe86b7b142969add0b07a96fd82a]{
+-- Page 41, Offset 5555.
+-- 心の底から感心するように微笑んで、少女は左手の指を地上に向けた。
+  Elle sourit comme pour exprimer sa plus profonde admiration, puis elle dirigea les doigts de sa main gauche vers le sol.
+
+}
+[sha:c8ff9c9418e1c322b831df24a9d291de383b90ba]{
+-- Page 42, Offset 5556.
+-- <刺|zap>す。<刺|zap>す。<刺|zap>す。<刺|zap>す。
+  Swip, swip, swip, swip.
+
+}
+[sha:bcbf936e8a6fba6f593bf5b6193e5e839a81e67e]{
+-- Page 42, Offset 5557.
+-- 広場の地面、レンガを破って突き出る無数の槍。
+  D'innombrables lances sortirent du sol de la grande place et détruisirent les briques.
+
+}
+[sha:64081a985574f62f4145b8e78cf47f34b477b5c0]{
+-- Page 42, Offset 5558.
+-- 「静希君、後ろに跳んで！」
+「Shizuki, saute en arrière !」
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 42, Offset 5559.
+-- 「？」
+「?」
+
+}
+[sha:66de29773d8dfca6416cb9f30e2aa2c339d2922e]{
+-- Page 42, Offset 5560.
+-- 青子は呼びかけながら、彼が反応するより早く手を取って後ろに跳んだ。
+  Tout en l'appelant, Aoko lui prit rapidement la main et sauta en arrière sans attendre sa réaction.
+
+}
+[sha:2c05a04cf6dc8da48e831d717ca21b81b534efe1]{
+-- Page 43, Offset 5561.
+-- 地面から湧き立つ器物は意志を持つように、跳び退く青子たちを追いかける。
+  Comme s'ils étaient dotés d'une volonté propre, les couverts qui venaient de surgir soudainement du sol poursuivirent Aoko et Sōjūrō qui bondissaient en arrière.
+
+}
+[sha:cdc820b4c6256ff14b3f2b73fcfc401d92a1dc48]{
+-- Page 43, Offset 5562.
+-- 槍の守りは放射状に広がり、青子と草十郎を時計台から離していく。
+  Les lances défensives se déployèrent de façon concentrique et éloignèrent Aoko et Sōjūrō de la tour d'horloge.
+
+}
+[sha:2845da7f1e481b7edc21d6ea325abc0f43e1a5a0]{
+-- Page 44, Offset 5563.
+-- 「―――え、これで終わり？」
+「―――Hein, c'est tout ?」
+
+}
+[sha:acc1aaa06a2ee9994905f9ae01186c3acde00fe9]{
+-- Page 44, Offset 5564.
+-- 後ろに下がること十メートル弱。
+  Ils avaient reculé d'un peu moins de dix mètres.
+
+}
+[sha:ded906190d1a05d8c5e6d15f0ec5710d134b3b74]{
+-- Page 44, Offset 5565.
+-- 地面を砕いて現れる凶器たちの成長は、青子の予想より小規模に留まった。
+  La progression des armes apparues en brisant le sol s'était arrêtée plus tôt que ce qu'avait prévu Aoko.
+
+}
+[sha:06e04fb40b04192780aed6b41379adc87b51a188]{
+-- Page 44, Offset 5566.
+-- 少女の立つ時計台を守るソレは、<磔|はりつけ>にされた魔女を責める<薪|たきぎ>のようで―――
+  La tour d'horloge sur laquelle se tenait la jeune fille était maintenant entourée par ce qui avait l'air d'un bûcher condamnant la sorcière à la crucifixion, et―――
+
+}
+[sha:ac897fcef8fe54a665622faa6f346d515665071e]{
+-- Page 45, Offset 5567.
+-- “……普通、逆じゃない？　ここは私たちを逃がさないよう、槍で周りを囲むものでしょう……？”
+“...... Ce n'est pas censé être l'inverse, plutôt ? Normalement, elle aurait dû nous encercler avec les lances pour nous empêcher de nous enfuir, non......?”
+
+}
+[sha:70062437bb8233c6dc317702b5ac0606b4ee0cf1]{
+-- Page 45, Offset 5568.
+-- 青子と草十郎の後ろには安全な道がある。
+  Derrière Aoko et Sōjūrō se trouvait un chemin sûr.
+
+}
+[sha:93acdcdc9ee790e67b765e05b034ac90899305fc]{
+-- Page 45, Offset 5569.
+-- その気になれば二人は遊園地の入り口まで走って、そのまま町へ逃げられる。
+  Si l'envie leur en prenait, ils pouvaient courir jusqu'à l'entrée du parc d'attractions et s'enfuir ainsi vers la ville.
+
+}
+[sha:5fcb9c56c3fdb0533ceaa32f8495d5cb6747228b]{
+-- Page 46, Offset 5570. Mods: @n.
+-- 「いいの有珠？
+「Tu es sûre de toi, Alice ?
+
+}
+[sha:c882a6d57763fbbf2185ee8336e9cf1581dbca98]{
+-- Page 46, Offset 5571. Glued.
+-- 悪いけど、逃げられるなら逃げるわよ、私」
+  Désolée, mais si je peux m'enfuir, je le ferai.」
+
+}
+[sha:9af9d2942962691f81f9120dc85c2f571f2a2ecb]{
+-- Page 46, Offset 5572.
+-- 町にまで出れば青子の勝ちだ。
+  S'ils arrivaient jusqu'à la ville, Aoko remporterait la victoire.
+
+}
+[sha:4cc64454b2579e644b4d827b40c2ab4b62d576b2]{
+-- Page 46, Offset 5573.
+-- 今夜だけ草十郎を見逃したい青子にとって、彼を街に逃がしてしまえば目的は大部分達成―――
+  Pour elle qui voulait épargner Sōjūrō rien que pour cette nuit, si elle réussissait à le faire s'enfuir hors du parc, son but serait en grande partie atteint―――
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 46, Offset 5574.
+-- 「？」
+「?」
+
+}
+[sha:4e404fca22126ce645262eac2cdcd2e63b5dad4a]{
+-- Page 47, Offset 5575.
+-- ―――なのだが。
+  ―――Toutefois.
+
+}
+[sha:c786877002d5ef287806469218a78c09d39a9d66]{
+-- Page 47, Offset 5576.
+-- 有珠は眼下の標的に目もくれず、愛しい、大切なものを扱うように<小瓶|こびん>を取り出した。
+  Alice, sans accorder le moindre regard à la cible sous ses yeux, sortit une fiole en la traitant avec amour.
+
+}
+[sha:ab2f060af7025416b85c7526dceb2e5a5d867adf]{
+-- Page 48, Offset 5577.
+-- 「緑の……フラスコ？
+「Une flasque...... verte ?
+
+}
+[sha:b03fc04c072a687fafb18951cc8abe5036c3c1de]{
+-- Page 48, Offset 5578.
+-- あれってたしか―――やばっ、とにかく<撃て|ファイヤ>―――！」
+  Si je me souviens bien, c'est―――C'est pas bon signe ! Dans ce cas, feu―――!」
+
+}
+[sha:29e629715a7d24a4630e360e7d2bb1b8bb461e24]{
+-- Page 49, Offset 5579.
+-- 防がれる魔弾。
+  Alice s'était protégée des balles de prana.
+
+}
+[sha:eb2fdeaf8c4f39f260eb73aaaab5f76ab2d3b6d6]{
+-- Page 49, Offset 5580.
+-- 青子の顔には、もう一片の余裕もない。
+  Le visage d'Aoko n'avait plus rien de calme.
+
+}
+[sha:62f6c6952942f5b0d71a32381231d44985f39864]{
+-- Page 50, Offset 5581.
+-- ……そう。
+  ...... Oui.
+
+}
+[sha:dc1a34a8dddb969815b7605d13b83a4c910b18b9]{
+-- Page 50, Offset 5582.
+-- 増長していたと言えば、青子はたしかに増長していた。
+  Si l'une des deux s'était montrée arrogante, c'était bien Aoko.
+
+}
+[sha:04b83ac7aac9b59a860c495f5df443fdca61cbf3]{
+-- Page 50, Offset 5583.
+-- この二年、学び続けた魔術に手応えもあった。
+  Pendant ces deux dernières années où elle avait appris la Magie, elle avait également rencontré plusieurs obstacles.
+
+}
+[sha:dbf7dfe56998e9543754102f7d003fd185b2b34d]{
+-- Page 50, Offset 5584.
+-- 同居人の性格、魔術もそれなりに把握していた。
+  Elle connaissait assez bien le caractère et la Magie de sa colocataire.
+
+}
+[sha:64ab331c6a562ed997567e8fb9199f612aacce1a]{
+-- Page 50, Offset 5585.
+-- だから―――最善の立ち回りをすれば、久遠寺有珠に一杯くわせられると思い上がったのだ。
+  C'était pour ça―――qu'elle avait été prétentieuse en pensant qu'elle aurait pu avoir Kuonji Alice si elle se battait de son mieux.
+
+}
+[sha:fb6235d021cb9e0bdf56724dbd34ce92de383fc6]{
+-- Page 51, Offset 5586.
+-- 「あ―――」
+「Ah―――」
+　
+}
+[sha:3742147b67bede119e076f94815903a968d1294c]{
+-- Page 51, Offset 5587.
+-- ……魔法の<瓶|びん>の<蓋|ふた>が開く。
+  ...... Elle ouvrit le bouchon de la fiole magique.
+
+}
+[sha:11c30301ac7e63619851a916411c16a045129280]{
+-- Page 51, Offset 5588.
+-- 頬を優しい風が<撫|な>でる。
+  Une douce brise caressa sa joue.
+
+}
+[sha:e7832eceed47e5192c67986142966e792c924f8f]{
+-- Page 51, Offset 5589.
+-- 夜の饗宴が、新たな主役の登場に尻尾を巻いて逃げ出していく。
+  Le Banquet de la nuit, devant l'apparition du nouveau personnage principal, s'enfuit la queue entre les jambes.
+
+}
+[sha:7bd0ca7fcb2daf5b8e63cb07b8c63aff877f8d0f]{
+-- Page 51, Offset 5590.
+-- ―――どこからか。
+  ―――D'on ne savait où,
+
+}
+[sha:3145dfc8e97584617d747c2a046b79262d915809]{
+-- Page 51, Offset 5591.
+-- 懐かしい、パレードの足音がやってくる。
+  les bruits de pas d'une parade nostalgique s'approchaient.
+
+}
+[sha:471a8cd611b483c42826442ecefc26d026524f87]{
+-- Page 52, Offset 5592.
+-- 「う、そ―――」
+「C'est... pas possible―――」
+
+}
+[sha:3011c7e04b5bf87aac970c4cd887dacce4d97e08]{
+-- Page 52, Offset 5593.
+-- それは。
+  Ce phénomène...
+
+}
+[sha:4669ca2a8758d8101f1277b3113378ab634f3c20]{
+-- Page 52, Offset 5594.
+-- 魔術師見習いである蒼崎青子ですら、体験した事のない奇跡だった。
+  était un miracle dont l'apprentie Mage Aozaki Aoko n'avait jamais fait l'expérience.
+
+}
+[sha:c5174ad497745c21ac50741ff3e04fe02b0ea371]{
+-- Page 53, Offset 5595.
+-- 死んでいたモノが蘇る。
+  Les choses mortes revinrent à la vie.
+
+}
+[sha:e061c8f776f131d9687a09d48798d02d994460a8]{
+-- Page 53, Offset 5596.
+-- 生きていないモノが目を覚ます。
+  Les choses inanimées se réveillèrent.
+
+}
+[sha:de2593ed710d433e09c7fb58bbcc5e580d6dd81b]{
+-- Page 53, Offset 5597.
+-- 霧に包まれた深い森。
+  Une forêt dense enveloppée par le brouillard.
+
+}
+[sha:6a1114d44c937e87481fe58ec347227c9500f0b2]{
+-- Page 53, Offset 5598.
+-- 沼地にひそむ火を噴くトカゲ。
+  Un lézard cracheur de feu se dissimulant dans les marécages.
+
+}
+[sha:949b40b672241db06c19d7e46f66ed18033a1f77]{
+-- Page 53, Offset 5599.
+-- 午前零時をむかえてはしゃぎだすパペットたち。
+  Des pantins folâtrant aux douze coups de minuit.
+
+}
+[sha:cfdd76029c1083dccd76c10692406227c8cde095]{
+-- Page 53, Offset 5600.
+-- 久遠寺有珠の細い指は、年老いた猫の背中を撫でるように優しく、遊園地全体を変貌させ―――
+  Les doigts fins de Kuonji Alice, comme pour caresser le dos d'un vieux chat, métamorphosèrent délicatement le parc d'attractions tout entier―――
+
+}
+[sha:c77aace62db360303d8c4a022de496d40237059c]{
+-- Page 54, Offset 5601. Mods: @k, @e.
+-- 「いいわ―――
+    「Très bien―――
+
+}
+[sha:072b95b0b1f1cd1afb855a464394bc0cd28abe21]{
+-- Page 54, Offset 5602. Glued. Mods: @x.
+-- ごっこ遊びをしましょう、青子」
+Jouons ensemble, Aoko.」
+
+}
+[sha:fff5ef429a25e09ed6a7fba1e09607bae83c77e4]{
+-- Page 55, Offset 5603.
+-- ……ありし日の夢の廃棄場は、一夜かぎりの王国に生まれ変わる。
+  ...... La décharge des rêves d'antan renaquit en un royaume d'une nuit.
+
+}
+[sha:b618529aac053dbc17451c595d1bb23bc139b8ad]{
+-- Page 55, Offset 5604.
+-- それは現実を侵食する不死身の魔物。
+  C'était un démon immortel qui engloutissait la réalité.
+
+}
+[sha:b9061cb784fcf62aa817e5bcd6d01c3f57ffeac2]{
+-- Page 55, Offset 5605.
+-- <一度|ひとたび>解き放たれれば、決して獲物を逃がさない暗黒童話。
+  Un conte de fées sinistre qui, libéré ne serait-ce qu'un seul instant, ne laisserait jamais s'échapper sa proie.
+
+}
+[sha:109d5470db2150f724271fd8719d200d874a5d9b]{
+-- Page 56, Offset 5606.
+-- 「逃げられるものなら逃げてみせて。
+「Si tu peux t'enfuir, montre-le-moi.
+
+}
+[sha:6d15060b812e3198abc1174442b90fa3e9f7a2a2]{
+-- Page 56, Offset 5607.
+-- どこまで行けるか分からないけど―――この夜を越える事ができたのなら、貴女の勝ちにしてあげる」
+  Je ne sais pas jusqu'où tu pourras aller, mais―――si tu arrives à passer cette nuit, je t'accorderai la victoire.」
+
+}
+[sha:d8e6d2222cc17ddaafa37335bf421607d8ac71c2]{
+-- Page 56, Offset 5608.
+-- ……絶望的な戦いの開幕宣言。
+  ...... Cette déclaration annonçait le début d'une bataille désespérée.
+
+}
+[sha:3d90bea58978831177d1ac32f7df305992ba3202]{
+-- Page 56, Offset 5609.
+-- 親愛と悲しみ、それと無邪気な愉悦をこめて、
+  En y mêlant l'attachement, la tristesse et la joie naïve qu'elle ressentait,
+
+}
+[sha:cc18bc4c1de3c2512537ae207be42fd4f403430f]{
+-- Page 56, Offset 5610.
+-- 黒衣の魔女は友人へと<歌|わら>いかけた。
+  la sorcière en habits noirs adressa un sourire à son amie.
+
+}

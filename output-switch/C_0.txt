@@ -1,0 +1,678 @@
+[sha:5e4c523b8c5744ca7ee8531f169f5b6d492fe033]{
+-- Page 0, Offset 16674.
+-- <下界|まち>の<喧噪|におい>に、ピンと耳を立てる。
+  Le tumulte venant de la ville lui fit dresser l'oreille.
+
+}
+[sha:f5390425f01e11bded6a5a7ada3d5c858a394007]{
+-- Page 0, Offset 16675.
+-- 食事を済ませ<午睡|ごすい>に身を任せていた金色の狼は、クワア、と大きなあくびをして、退屈そうに身を丸めた。
+  Alors qu'il somnolait après son repas, le loup doré bâilla à s'en décrocher la mâchoire et se roula en boule d'un air ennuyé.
+
+}
+[sha:28c3973ddc3e3f82a6c64c204f8aad4701595c2c]{
+-- Page 1, Offset 16676.
+-- その役割を終え、久しく使われていなかった教室。
+  Il se trouvait dans une salle de classe abandonnée depuis longtemps, le rôle de celle-ci étant achevé.
+
+}
+[sha:7b88f4f30d24dd5de24a0e3ccce5d88b909cb0e9]{
+-- Page 1, Offset 16677.
+-- 積み重ねた<瓦礫|つくえ>の上で身を休めるのが、ここ一ヶ月の彼の日常だ。
+  Au cours du mois dernier, il avait passé ses journées à dormir sur cette montagne de bureaux.
+
+}
+[sha:3fbf977dcc1f62ca3b54b8002778b29b73fb5f05]{
+-- Page 1, Offset 16678.
+-- 彼の名はルゥ・ベオウルフ。
+  Son nom était Lugh Beowulf.
+
+}
+[sha:ca8972216dcc61391b24208cb0d376b11d6b742a]{
+-- Page 1, Offset 16679.
+-- 故郷では太陽の名で呼ばれ、故郷を後にしてからは勇者の名を<戴|いただ>いた、純血の人狼である。
+  C'était un loup-garou de sang pur que l'on avait baptisé du nom du soleil dans son pays natal et auquel on avait accolé celui d'un héros local après son départ.
+
+}
+[sha:288cd758f66d14a114ca41d7c75932596e9cbf68]{
+-- Page 2, Offset 16680.
+-- 言うまでもなく、彼の故郷はこの国ではない。
+  Évidemment, le Japon n'était pas son pays d'origine.
+
+}
+[sha:c205e1fe5a022151b75ca27f28f4f8c213ec3b08]{
+-- Page 2, Offset 16681.
+-- ヨーロッパ深部、山と森に守られた荒野が彼の<世界|ふるさと>だ。
+  Son véritable foyer se situait au fin fond de l'Europe, dans une lande sauvage restée inaltérée grâce aux montagnes et aux forêts environnantes.
+
+}
+[sha:5c7e6e071108a7292df256ea12552c9381d131b6]{
+-- Page 2, Offset 16682.
+-- いまだ人智の及ばぬ秘境。
+  Il s'agissait d'une région encore inexplorée par l'homme.
+
+}
+[sha:41951de711b70a7fa3d2299be55a29b8f0ba6fbe]{
+-- Page 2, Offset 16683.
+-- 誰一人として訪れる事のない停止した世界で、ゆるやかに絶えるだけの日々を送っていた人狼たち。
+  Dans ce monde figé où nul ne s'aventurait, les loups-garous vivaient des jours paisibles et monotones.
+
+}
+[sha:673b4137a9b2d272007495214abe833b826f6498]{
+-- Page 3, Offset 16684.
+-- その中に、<彼|ベオ>は忽然と現れた。
+  Beo y était apparu soudainement.
+
+}
+[sha:db6124502683bc3740e83e28093a8fdc98aee598]{
+-- Page 3, Offset 16685.
+-- <人狼|かれ>らの祖と同じ金の毛並みを持った子供は、村はずれの洞穴で発見された。
+  L'enfant qui possédait la même fourrure dorée que ses ancêtres fut découvert dans une grotte à l'écart du village.
+
+}
+[sha:9768cf006ec2e6c8a26fea94c58e7180c7cc5574]{
+-- Page 3, Offset 16686.
+-- 安らかな寝息をたてて、まるで、そこに<存|い>るのが当然といった様子で。
+  Il y dormait paisiblement, comme s'il était parfaitement naturel pour lui de se trouver là.
+
+}
+[sha:6b957646996d638fcbff16b04399301ee856b7ed]{
+-- Page 4, Offset 16687.
+-- 村は新しい仲間の誕生と、その貴重性に沸き立った。
+  Suite à la naissance de leur nouveau compagnon à la nature inestimable, la fébrilité s'empara du village.
+
+}
+[sha:0356fdf5a3e58defa827346c19e5f962cb03c20f]{
+-- Page 4, Offset 16688.
+-- 文明が消費を良しとしてからはや二千年。
+  Voilà deux mille ans déjà que la civilisation actuelle était devenue une société de consommation.
+
+}
+[sha:e8423ffcd81cc4f0210d4eb743ba7db6fe9226dd]{
+-- Page 4, Offset 16689.
+-- 森が<暴|あば>かれ、谷が埋められ、海の<混濁|よごれ>が進むにつれ、<人狼|かれ>らの生殖機能は落ちていた。
+  Les forêts étaient rasées, les vallées ensevelies, les océans de plus en plus pollués et les fonctions reproductrices des loups-garous se détérioraient en conséquence.
+
+}
+[sha:79df50e95d98d727592382503d5fe20731caaa24]{
+-- Page 4, Offset 16690.
+-- 一族の者が子を<孕|はら>むだけでも十年に一度の祝い事だ。
+  On ne célébrait une nouvelle naissance dans le clan qu'une fois tous les dix ans.
+
+}
+[sha:660bcfefb298a0b079a5b2d7be4bbf765d84a5e3]{
+-- Page 5, Offset 16691.
+-- それが灰や白を飛び越え、<人狼|かれ>らが森の神とされていた頃の金の獣性を持っていたのだから、村に降りた希望がどれほどのものだったか、想像に難くない。
+  Avec sa fourrure de couleur dorée, teinte qui surpassait le blanc ou le gris et qu'ils avaient à l'époque où on les traitait comme les dieux de la forêt, il n'était pas difficile d'imaginer l'ampleur des espoirs nourris par le village.
+
+}
+[sha:299470261aa5ac7b81daa53a0c9776a40088cfca]{
+-- Page 6, Offset 16692.
+-- 衰退していく一族。
+  Un clan en déclin.
+
+}
+[sha:97ab5e25b75ab3755aa593285d7a639689b1affd]{
+-- Page 6, Offset 16693.
+-- 転換を受け入れざるをえない時代。
+  Une époque où le changement ne pouvait qu'être accepté.
+
+}
+[sha:4e6b7a96314beb4ca8cc8cc60e9482ac6eabe91e]{
+-- Page 6, Offset 16694.
+-- それら根本的な問題を一時でも忘れてしまうほど、その赤子は輝かしかったのだ。
+  Ce bébé resplendissait tant qu'ils en oublièrent momentanément ces problèmes fondamentaux.
+
+}
+[sha:c07aaf10ab3b8186bcea163f1eba32ddd40691b8]{
+-- Page 7, Offset 16695.
+-- ……だが。
+  ...... Toutefois,
+
+}
+[sha:932cc33069939088a95072a83ce97c911ca9b162]{
+-- Page 7, Offset 16696.
+-- 時が経つに連れ、喜びは失望へと変わっていった。
+  le temps passant, la jubilation se transforma en désespoir.
+
+}
+[sha:026d1386c3d790ad9ac218adf4c84801de3802a4]{
+-- Page 7, Offset 16697.
+-- 金狼は何も救わない。
+  Le loup doré ne leur était d'aucun secours.
+
+}
+[sha:ec33607ca17b6cfada85352c577f393494f44bd5]{
+-- Page 7, Offset 16698.
+-- ルゥ―――太陽と愛された子供は、不思議な事に発見された時から今の<カ|・><タ|・><チ|・>をしていた。
+  Lugh―――L'enfant adulé comme le soleil, étrangement, avait déjà son apparence actuelle lorsqu'on l'avait découvert.
+
+}
+[sha:1c287c6f8817f1d80f7534ceb39182616c80e06e]{
+-- Page 8, Offset 16699.
+-- そればかりか、何十年経とうと一向に成長しない。
+  De plus, même après des décennies, il n'évoluait en rien.
+
+}
+[sha:4a1da481397d270cac2264e35d08faf6deecc799]{
+-- Page 8, Offset 16700.
+-- 彼は不老であり、不滅であり、それ故に不遇だった。
+  Il restait éternellement jeune, immortel, et par conséquent malheureux.
+
+}
+[sha:900b7a07a1231831e562396a4581f7a25bf6ed6d]{
+-- Page 8, Offset 16701.
+-- 村中を探しても、彼を生んだ母親はいなかった。
+  Il eut beau chercher dans tout le village, il ne trouva pas la mère l'ayant mis au monde.
+
+}
+[sha:ebade34cdafa06fe654fd6cdfc2e3c90b4a37e63]{
+-- Page 8, Offset 16702.
+-- 村中を探しても、彼を理解できる人狼はいなかった。
+  Il eut beau chercher dans tout le village, aucun loup-garou ne pouvait le comprendre.
+
+}
+[sha:703fe677fdbc177d4305aacfc336c37f02f890a1]{
+-- Page 9, Offset 16703.
+-- そして彼本人も、その事実を百年かけて実感した。
+  Il lui fallut finalement cent ans pour réaliser la vérité.
+
+}
+[sha:3c09d48a1c58d5aa5249091fddce5080b6dd1140]{
+-- Page 9, Offset 16704.
+-- 自分は何もかもが他の連中と違う。
+  Il était totalement différent des autres.
+
+}
+[sha:1acfae7cd521517d6ff2bafa7cf6d3625fd6c479]{
+-- Page 9, Offset 16705.
+-- 雄も雌もない。
+  Ni mâle, ni femelle.
+
+}
+[sha:850a13f1c1ac22e076d556cfbd9fc5610dbf5ba8]{
+-- Page 9, Offset 16706.
+-- <強|つよ>きも<弱|よわ>きもない。
+  Ni autoritaire, ni soumis.
+
+}
+[sha:84ff5fbad2d6a82a40db47bc2f1c76c170acfb32]{
+-- Page 9, Offset 16707.
+-- 生も死も、<悦|えつ>も恐れもまだ知らない。
+  Il ne connaissait encore ni la vie ni la mort, ni la joie ni la peur.
+
+}
+[sha:45692b04c4d33e4eb2baecc2a55a40e09fee1cf4]{
+-- Page 10, Offset 16708.
+-- 『アレは自然発生した精霊だ。人狼の姿をしているが、我々とはまったく違う生きものだろう―――』
+『C'est un Esprit Élémentaire apparu spontanément. Il a l'apparence d'un loup-garou, mais sa nature est sans aucun doute complètement différente de la nôtre―――』
+
+}
+[sha:53eaf7bb44bcc84f9db1802a1c16c1e2e6b09e82]{
+-- Page 11, Offset 16709.
+-- 陰口を言われるまでもなく、彼もそれを実感していた。
+  Inutile pour lui d'écouter ces plaintes, car il l'avait également compris.
+
+}
+[sha:1f7318edbaff92dd911b32aaeec35788d19d0470]{
+-- Page 11, Offset 16710.
+-- 完成しているからこその<閉塞感|へいそくかん>。
+  C'était justement parce qu'il était “achevé” qu'il se sentait séquestré.
+
+}
+[sha:2a78df36f88c5c59af7457629622de34265dc4e6]{
+-- Page 11, Offset 16711.
+-- 金の獣にとって、肌に感じる世界はあまりにも狭すぎる。
+  Pour la bête dorée, le monde qui l'entourait était bien trop étroit.
+
+}
+[sha:41285c33c1c82f2edb089316ef8a7bb4ea022377]{
+-- Page 11, Offset 16712.
+-- だからこそ―――
+  Voilà pourquoi―――
+
+}
+[sha:ea4fb2d72bf1c99c7d82c773a02bed3c62aeebe2]{
+-- Page 12, Offset 16713.
+-- そう、だからこそ。
+  Oui, voilà pourquoi...
+
+}
+[sha:9f652ef9d07ca1abc51c1bc4dee66f78141563dc]{
+-- Page 12, Offset 16714.
+-- 生命とは何かを知りたい。
+  il désirait savoir ce qu'était la vie,
+
+}
+[sha:a3f590748f31d65d49fa5fe70ed77f1d048d14ca]{
+-- Page 12, Offset 16715.
+-- 欠落とは何かを知りたい。
+  ce qu'était une lacune.
+
+}
+[sha:570c46a9f35624f68c4390798a41ea1a83b09019]{
+-- Page 12, Offset 16716.
+-- 万能であるのなら、万能であるが故の未知を知りたい。
+  Puisqu'il était omnipotent, il aurait voulu partir à la découverte d'un monde inconnu digne de sa toute-puissance.
+
+}
+[sha:9539fb80e4eeef652a9df4922f3f97ef115e9e01]{
+-- Page 12, Offset 16717. Mods: @n.
+-- だってこのままでは、
+  Après tout, à ce rythme,
+
+}
+[sha:00b2b8d628e2e39c083b12c07b8041d1d4753043]{
+-- Page 12, Offset 16718. Glued.
+-- 生きている意味がまるで無い―――
+  il n'y aurait aucun sens à ce qu'il vive―――
+
+}
+[sha:66f2c25b7fc1c692fdaefa04622c7aa3df3037cb]{
+-- Page 13, Offset 16719.
+-- 金の狼は自分自身を持て余す。
+  Le loup doré ne savait que faire de son existence.
+
+}
+[sha:ce86ffd534a51f140fecaf87db31dcaf268a2d41]{
+-- Page 13, Offset 16720.
+-- そうして<人狼|かれ>らも、この太陽を持て余した。
+  De même, les loups-garous ne savaient que faire de ce soleil.
+
+}
+[sha:d350e24636743fea2276508570f801dc3440505d]{
+-- Page 13, Offset 16721.
+-- 敬いはするが、同時に関わりたくもない。
+  Même s'ils le révéraient, ils ne souhaitaient pas avoir de contact avec lui.
+
+}
+[sha:991c12625d0d1e0334366fe9bef9a08f6160678d]{
+-- Page 14, Offset 16722.
+-- ルゥは自分が発見された洞穴に居を構え、神子として、一生を<独|ひと>りのまま過ごすと宿命付けられた。
+  Lugh établit demeure dans la grotte où on l'avait découvert, et on le destina à y passer toute sa vie, seul, en tant qu'oracle,
+
+}
+[sha:de34de3a4d5549c299f6785a39c2d2c3ed486860]{
+-- Page 14, Offset 16723.
+-- 『太陽のルゥ？　<ルー・ガルー|loup-garou>じゃなくて？
+『Lugh, comme le lumineux ? Pas pour le “loup” de loup-garou plutôt ?
+
+}
+[sha:8801c499ee27b7920bc523122a782b894445b486]{
+-- Page 14, Offset 16724.
+-- ハ、そりゃ面白い！　偶然にしちゃあ出来すぎだ！』
+  Hum, intéressant ! Ce nom lui va trop bien pour être une simple coïncidence !』
+
+}
+[sha:abd1281797565fd914f43afb3f2b14f2c3e08027]{
+-- Page 14, Offset 16725.
+-- その村に、風変わりな魔術師が訪れるまでは。
+  jusqu'à ce qu'une Mage étrange vienne visiter ce village.
+
+}
+[sha:5259fc6c7189a8d6cd35ef2eb47abedf925c34ec]{
+-- Page 15, Offset 16726.
+-- 「“……またガタガタとうるさい……トーコさんはアレだよね、派手好きなクセにマメだよね……”」
+「“...... Voilà que ce boucan recommence...... Ça, c'est du Tōko tout craché. Elle aime voir les choses en grand, et pourtant, elle prend soin du moindre détail......”」
+
+}
+[sha:da5f9d94074b24b8e072267a5e048e5e9a124ff0]{
+-- Page 15, Offset 16727.
+-- 瓦礫の上で身を丸めながら、ベオは廊下の様子を盗み聴く。
+  Roulé en boule sur les bureaux, Beo écoutait d'une oreille ce qui se passait dans le couloir.
+
+}
+[sha:cb6e642c7b6f22668eebe66f07fb83ccef0627cc]{
+-- Page 15, Offset 16728.
+-- 小うるさい主人は三咲市全体の霊脈の掌握とやらに忙しい……と思いきや、飽きもせず趣味の仕掛けをこしらえているようだ。
+  Il aurait cru que sa méticuleuse maîtresse s'affairerait à s'emparer de la veine spirituelle de la ville de Misaki, mais elle semblait en fait fabriquer inlassablement ses dispositifs favoris.
+
+}
+[sha:e58f0e293ce26830941be0264d1a21788cbf81fb]{
+-- Page 16, Offset 16729.
+-- この廃屋を仮の工房に使い始めて一ヶ月。
+  Cela faisait un mois qu'elle avait fait de cette bâtisse abandonnée son Atelier temporaire.
+
+}
+[sha:596b56873812234558627fb385f49ee7ef547742]{
+-- Page 16, Offset 16730.
+-- 一日に一つ、新しい侵入者用のトラップを作るのが彼女のひそかな趣味らしい。
+  Apparemment, son passe-temps préféré était de construire un nouveau piège par jour.
+
+}
+[sha:debd8f7665d7fe51d7ab68156175a010e3c7fa27]{
+-- Page 17, Offset 16731.
+-- 「“……安全を用意しておくなんて、他の生き物はタイヘンだ”」
+「“...... Elle renforce la sécurité... Dur dur pour les autres êtres vivants.”」
+
+}
+[sha:c9e077d8b450b105d04ac1838e6e16688d932f95]{
+-- Page 17, Offset 16732.
+-- 生まれながらこのカタチ―――赤子という未成熟な立場も、老衰という劣化も知らない<彼|ベオ>は、通常の生き物とは在り方も思想も違う。
+  Beo, qui était né sous cette forme et qui ne connaissait ni l'immaturité du nouveau-né, ni la décadence due à la vieillesse, avait une façon d'être et de penser différente des êtres vivants normaux.
+
+}
+[sha:848bcddf6c61608f4177fc825d31ccec241c2211]{
+-- Page 18, Offset 16733.
+-- 彼はその発生からして“完全”だった。
+  Il était “achevé” depuis sa naissance.
+
+}
+[sha:b4ce03cf7c2b2640f5027c86f444e5d889294cfa]{
+-- Page 18, Offset 16734.
+-- 何も引くものがなく、何も付け足すところがない。
+  Il n'avait aucun défaut et rien ne lui faisait défaut.
+
+}
+[sha:0019f7fb1946c6277eb49b15a56612faca898d89]{
+-- Page 18, Offset 16735.
+-- 故に、あらゆる弱さを実感できない。
+  Par conséquent, il ne pouvait ressentir aucune faiblesse.
+
+}
+[sha:fe5806532bd0ce9de193a031ee65f776a3de7583]{
+-- Page 18, Offset 16736.
+-- 無邪気かつ天衣無縫の気分屋で、人間としての善悪も、狼としての良し悪しも計らない。
+  Il était d'humeur naïve, naturelle et franche et ne savait pas faire la différence entre le bien et le mal, aussi bien en tant qu'être humain qu'en tant que loup.
+
+}
+[sha:6446e98e5fd29db70f43287bae40caeab199b7f7]{
+-- Page 18, Offset 16737.
+-- この美しい獣は、周囲と没交渉でありながら、自分以外の生き物を見下している。
+  Cette bête magnifique posait un regard hautain sur les autres êtres vivants et restait à l'écart de son entourage.
+
+}
+[sha:211458a6c756a4762db6afde245c7cf8c637e78e]{
+-- Page 19, Offset 16738.
+-- その例外が彼の主人、蒼崎橙子である。
+  La seule exception était sa maîtresse, Aozaki Tōko.
+
+}
+[sha:4c089eb3b823553421294817467c291ddf4b42dc]{
+-- Page 19, Offset 16739.
+-- キラキラするモノ、美味しいモノを教えてくれたし、なにより匂いがすっきりしている。
+  Elle lui avait montré les choses belles et brillantes, et surtout, elle dégageait une bonne odeur.
+
+}
+[sha:46c855d77861376c812eea2652cb97b318b2ae48]{
+-- Page 20, Offset 16740.
+-- 彼にとっての良し悪しの基準は、単純に「格好いい」か「格好悪い」か。
+  Pour lui, la notion de bien et de mal se basait simplement sur “l'attirance” et “le dégoût”.
+
+}
+[sha:30f6cbbef47ba109493e5ab705aa2ea94ae6e8e8]{
+-- Page 20, Offset 16741.
+-- 趣味嗜好、外見性別は問わない。
+  Les passe-temps, l'apparence ou le sexe de la personne avaient peu d'importance.
+
+}
+[sha:947f39cb6b8ad6ebbff1b227d3b2bf2403084a58]{
+-- Page 20, Offset 16742.
+-- 何であろうと、その生き方に筋が通っているのなら「格好のいい」匂いがする。
+  Quelle que soit sa façon de vivre, si celle-ci était logique, alors elle avait une odeur “attirante”.
+
+}
+[sha:4253054c7ca43a7f60cee76d4e1fa58e1ee6f42c]{
+-- Page 20, Offset 16743.
+-- 蒼崎橙子は、色々とねじまがっているが、彼にしてみるといい匂いの人間なのだった。
+  Aozaki Tōko était tordue de bien des façons, mais pour lui, c'était une humaine qui dégageait une bonne odeur.
+
+}
+[sha:6a94e03d2f49e0409180e119de627400e5dd3d0f]{
+-- Page 21, Offset 16744.
+-- 「ベオ、昼食は済ませたか？」
+「Beo, tu as fini de déjeuner ?」
+
+}
+[sha:2020a7a81790a28c371355f85d070024150fbf02]{
+-- Page 21, Offset 16745.
+-- 廊下の仕掛けが済んだのか、教室に<件|くだん>の主人が入ってくる。
+  Après avoir apparemment fini d'installer son dispositif dans le couloir, la maîtresse en question entra dans la salle de classe.
+
+}
+[sha:18e2299470c9bc7c4a7697aa07bdde9ec0bfe182]{
+-- Page 21, Offset 16746.
+-- 「夜が本番だ。それまで、あまりハメを外すなよ」
+「Tout se jouera cette nuit. Jusque-là, ne prends pas trop la grosse tête.」
+
+}
+[sha:046c9553a51779cc14ed824d4a4b33209ea78baf]{
+-- Page 21, Offset 16747.
+-- この通り少々口やかましいところがあるが、彼はこの主人を基本的に気に入っている。
+  Elle trouvait régulièrement à redire sur beaucoup de choses, mais en général, il appréciait cette femme.
+
+}
+[sha:79e698b649168df678355a8ec9e6d5241a13257c]{
+-- Page 22, Offset 16748.
+-- 実際のところ、<彼|ベオ>を縛っている彼女の契約はさして強力なものでもない。
+  En réalité, le contrat qui les liait n'était pas si solide que ça.
+
+}
+[sha:5469794a27073af4c1b0755fb909cb059e622e9d]{
+-- Page 22, Offset 16749.
+-- <彼|・>が本気になれば<噛|か>み<千|ち><切|ぎ>れる程度のものだ。
+  S'il l'avait voulu, il aurait pu s'en défaire d'un coup de croc.
+
+}
+[sha:40047f676869b6596bb1712d32a149402044fab8]{
+-- Page 22, Offset 16750.
+-- 彼を縛り付けられる人間などいる筈がない。
+  Aucun humain n'était capable de le tenir en laisse.
+
+}
+[sha:3eb2beb496afcc56568147c529dd01fc37cfc0a9]{
+-- Page 23, Offset 16751.
+-- が、そうは言っても、橙子を殺して自由になる気もない。
+  Cependant, il n'avait aucunement l'intention de tuer Tōko pour obtenir sa liberté.
+
+}
+[sha:bec3feb6f8865b1de29184d7d38bfaf869813e25]{
+-- Page 23, Offset 16752.
+-- その理由が見あたらない。
+  Il ne voyait pas de raison valable pour s'y résoudre.
+
+}
+[sha:12adb0d1c0a6c837149b0c529fbcf6ef592ad00a]{
+-- Page 23, Offset 16753.
+-- 彼が人間社会で気ままにやっていくのには、便利な人間が必要なのだ。
+  Afin de vivre comme il l'entendait dans la société humaine, il avait besoin d'une personne dont il puisse tirer parti.
+
+}
+[sha:2524f3b4a3077cb1e776dd4b68d5a8064435e81f]{
+-- Page 23, Offset 16754.
+-- よほど彼の気分を害さないかぎり、この主人をどうこうするつもりはない。
+  À moins qu'elle ne froisse grandement son humeur, il ne comptait pas faire quoi que ce soit à sa maîtresse.
+
+}
+[sha:e652b38bc00882e2bd383c47657a1e5b04cc3a37]{
+-- Page 23, Offset 16755.
+-- もっとも―――
+  Cela dit―――
+
+}
+[sha:87c1f1964fcc85615f865aa22f5d667531379a4e]{
+-- Page 24, Offset 16756.
+-- 「“やっと本番か。<待|・><た|・><せ|・><す|・><ぎ|・>だよ、トーコさん”」
+「“L'heure est enfin venue. Tu m'as fait attendre bien trop longtemps, Tōko.”」
+
+}
+[sha:02a5d026808d1b0876787c3db16415e140c087ff]{
+-- Page 24, Offset 16757.
+-- 彼を連れ出した時の約束と、現実が少しズレはじめている。
+  La promesse qu'elle lui avait faite en l'emmenant et la réalité commençaient à prendre des voies légèrement différentes.
+
+}
+[sha:78efe0120ec50096b153818c4cdca802186fba4c]{
+-- Page 24, Offset 16758.
+-- “来い。最高の神秘と戦わせてやる”
+“Viens ! Je vais te faire affronter les meilleurs Mystères.”
+
+}
+[sha:f41e76ff4ef69ec46c8347b4d5d74da04e505149]{
+-- Page 24, Offset 16759.
+-- その口車に乗って今まで従ってきたが、そろそろ我慢の限界だ。待ちに待った昨夜の戦いは特に酷い。“最新の魔法使い”なんて、名前負けもいいところだった。
+  Il s'était laissé enjôler et l'avait suivie jusque-là, mais sa patience atteindrait bientôt ses limites. Et le combat tant attendu de la nuit dernière avait été particulièrement décevant. La nouvelle “Magicienne” ne méritait vraiment pas son titre.
+
+}
+[sha:a15b27d8346b3d8a228980565f9cd8c308734e6d]{
+-- Page 25, Offset 16760.
+-- 「そう言うな。私も昨日は拍子抜けだったんだから」
+「Ne dis pas ça. Moi aussi, j'ai été déçue hier soir, tu sais ?」
+
+}
+[sha:6fe3aeb0b423a9b196e6bcfeb1e6bf0920a6aa8d]{
+-- Page 25, Offset 16761.
+-- 「“……いいけどね。実はあの娘、使わないんじゃなくて、使えないだけじゃないの？”」
+「“...... D'accord. Mais ce n'est pas qu'elle refuse de l'utiliser, on dirait plutôt qu'elle en est incapable.”」
+
+}
+[sha:76ae507da21dec06df994fd8546a471996879d30]{
+-- Page 25, Offset 16762.
+-- む、と主人の顔が険しくなる。
+  “Hum”, fit sa maîtresse d'un air sévère.
+
+}
+[sha:ef548825efc84c89e205f5938d29eb5531a3e12c]{
+-- Page 25, Offset 16763.
+-- 彼の疑問に賛同しての事ではない。
+  Ce n'était pas qu'elle adhérait à son incertitude.
+
+}
+[sha:631965d0a8b1bb61d89e91e9e90779d6474b7b98]{
+-- Page 25, Offset 16764.
+-- ソレが<あ|・><る|・>か<な|・><い|・>かの問答など、彼女はとっくに通り越している。
+  Elle avait depuis longtemps dépassé le stade du doute sur la question.
+
+}
+[sha:f46535c637e047eebdbb6e053a210261ee631778]{
+-- Page 26, Offset 16765.
+-- 「……いや。使うぐらいなら死んだ方がまし……なのかもな」
+「...... Ou alors, il est peut-être préférable de mourir...... que de l'utiliser.」
+
+}
+[sha:f51e481fb2429b54db214de1ef9db274f6b5e9bd]{
+-- Page 26, Offset 16766.
+-- 「“？？　そんなバカな事があるの？　使わないと死んじゃう状態だったんだよ？”」
+「“?? C'est vraiment possible, une idée aussi stupide ? Dans sa situation, si elle ne l'utilisait pas, normalement, elle y serait restée !”」
+
+}
+[sha:2327c06f3046932ab204d30d23dd04f7b4baa334]{
+-- Page 26, Offset 16767.
+-- 「だから、そんなバカな考えが成立するぐらい―――」
+「Eh bien, si cette idée stupide a pu germer dans son esprit, c'est que―――」
+
+}
+[sha:a2ba1c4c9eb417dca9c993721f559cdb3a87b841]{
+-- Page 26, Offset 16768.
+-- おぞましいモノなんだろう、と。
+  cette Vraie Magie devait être absolument répugnante.
+
+}
+[sha:442aab6b3165da07201d7351604a873ce2a5d911]{
+-- Page 26, Offset 16769.
+-- そう口にしかけて、彼女は感傷的な自分を<嘲|わ><笑|ら>うように首を振った。
+  Avant de prononcer ces mots, elle secoua la tête comme pour se moquer de son sentimentalisme.
+
+}
+[sha:d43894979f690818f0f214ebbaf0a1cc3ca54b0d]{
+-- Page 27, Offset 16770.
+-- 「どれほどのものか想像がつかないのは確かだ。
+「Il est vrai que je ne peux imaginer la gravité de la chose.
+
+}
+[sha:f07be31f91f60ed97e64fcb14164408600930d51]{
+-- Page 27, Offset 16771.
+-- だがまあ、根本は変わらないさ。魔法がどのような奇跡神秘の類であれ、魔術師である以上、青子に勝ち目はない」
+  Enfin, le fond du problème ne change pas. La catégorie du Mystère à laquelle appartient cette Vraie Magie importe peu. Tant qu'Aoko reste une simple Mage, elle n'a aucune chance de l'emporter.」
+
+}
+[sha:7804224081faf3bab9608b204859c6daf69a99bd]{
+-- Page 27, Offset 16772.
+-- そう残して、彼の主人は教室を後にした。
+  dit sa maîtresse avant de quitter la salle de classe.
+
+}
+[sha:b986197751038ce9f864bdc4c389e93e1ba40304]{
+-- Page 27, Offset 16773.
+-- おまえの相手、おまえの出番は“その一点だけ”と念を押して。
+  De façon à lui rappeler quels étaient son adversaire et son rôle.
+
+}
+[sha:300f8086fb5272d641188b62ecd02744e4098283]{
+-- Page 28, Offset 16774.
+-- 「“―――魔法、ねぇ―――”」
+「“―――La Vraie Magie, hein―――”」
+
+}
+[sha:4c522a3fa40e1da09a148421156a16641961af5b]{
+-- Page 28, Offset 16775.
+-- 退屈に沈んでいた彼の目が、ぐにゃりと<歪|ゆが>む。
+  Ses yeux, qui avaient jusque-là sombré dans l'ennui, se plissèrent lentement.
+
+}
+[sha:cd1aa74bade9641dc87af399e1373fed0559b5ae]{
+-- Page 28, Offset 16776.
+-- 昨夜の少女の<腿|あじ>を思い出して、長い舌が、べろりとノコギリのような口を舐める。
+  Le goût de la jeune fille de la veille lui revint en mémoire et il lécha de sa longue langue ses babines recouvrant une rangée de crocs aux allures de scie.
+
+}
+[sha:3bd512422a8b6d0911a4617c45604dff05a2a5aa]{
+-- Page 29, Offset 16777.
+-- もちろん、言われるまでもなく<蹂躙|じゅうりん>しよう。
+  Personne n'avait besoin de lui dire de la mettre en pièces.
+
+}
+[sha:50f124694c2cfe449a9479bff650bda060c4f583]{
+-- Page 29, Offset 16778.
+-- 彼は最古の人狼、黄金の森の神。
+  Il était le plus ancien des loups-garous, le dieu doré de la forêt.
+
+}
+[sha:3d14d40724f27566b4dd3d5d9242f2fbe4c83375]{
+-- Page 29, Offset 16779.
+-- 物心ついた時―――いや、この地上に発生した時から、自身が“最も強い生き物の一つ”だと認識している。
+  Depuis qu'il avait atteint l'âge de raison―――ou plutôt, depuis son apparition dans ce monde, il avait conscience d'être “l'une des formes de vie les plus fortes sur Terre”.
+
+}
+[sha:622e180250113d5e8e42326749c26594e696fdb8]{
+-- Page 30, Offset 16780.
+-- 彼からすれば人間の手による神秘など<塵芥|ちりあくた>も同然。
+  Pour lui, les Mystères créés par la main de l'homme n'étaient rien de plus que des déchets.
+
+}
+[sha:b98804a7f721c91d2c32246cc390888d7039774e]{
+-- Page 30, Offset 16781.
+-- 魔術など無駄であり、その上にある神秘―――人造の奇跡など無用だ。存在すら気にくわない。
+  La Magie était inutile, et la Vraie Magie, qui se tenait au-dessus de ces miracles artificiels, l'était tout autant. Il ne supportait même pas l'idée qu'elles existent.
+
+}
+[sha:e1d5be2b696d52e4599f63ff7a176fcccf60686b]{
+-- Page 31, Offset 16782.
+-- 「“……もちろん。そういう契約だし、ちゃんと<平|たい>らげはするけれど”」
+「“...... Bien sûr, je vais la dévorer, et puis, c'est aussi ce que stipule notre contrat.”」
+
+}
+[sha:dd25ae59bd38bc39b975843be5ea3cbd93493d6f]{
+-- Page 31, Offset 16783.
+-- 契約はそこまで。
+  Celui-ci n'allait pas plus loin.
+
+}
+[sha:75c8ec5d6594b7f8f6583a008ea14adc50e33ef1]{
+-- Page 31, Offset 16784.
+-- 魔法とやらを食い破った後、どうするかは彼の自由だ。
+  Après avoir détruit cette soi-disant Vraie Magie, il serait libre d'agir à sa guise.
+
+}
+[sha:e5ffa28f28740601bc71a42d94d70de385672103]{
+-- Page 31, Offset 16785.
+-- ……いびつな瞳に、狼の<彩|いろ>が宿る。
+  ...... L'instinct lupin s'alluma dans ses yeux plissés.
+
+}
+[sha:61df2a1a7905d5d8ec6e49f79587f11bb4b4fe97]{
+-- Page 31, Offset 16786.
+-- それは<淫蕩|いんとう>に<耽|ふけ>る、<嗜虐|しぎゃく>に満ちた、<卑|いや>しい獣の笑みだった。
+  C'était le sourire d'une bête affamée qui donnait libre cours à son vice et débordait de sadisme.
+
+}

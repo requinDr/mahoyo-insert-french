@@ -1,0 +1,558 @@
+[sha:04ac8817e1668927dbddd3f6bae634ef73fdb73b]{
+-- Page 0, Offset 22600.
+-- しばらくの間。
+  Après un certain temps,
+
+}
+[sha:6a5202c4f23302b4accfb65c6cf12513f2f54a91]{
+-- Page 0, Offset 22601.
+-- 一分ほど経った後、
+  environ une minute plus tard...
+
+}
+[sha:7f42a08b0b80f25196a6286c9b3161a92a224f8a]{
+-- Page 1, Offset 22602.
+-- 「まあ、ヘリの事はきっぱり忘れるとして。
+「Bon, oublions l'hélico.
+
+}
+[sha:84460d336d4766a5c0bebd6676bb4372c5f36c82]{
+-- Page 1, Offset 22603.
+-- もっと前向きな話をしましょう」
+  Parlons de choses plus positives.」
+
+}
+[sha:49159fc912511ce2368f26c69a69f00762be5547]{
+-- Page 1, Offset 22604.
+-- 彼女は何事もなかったように現れた。
+  Elle réapparut comme si de rien n'était.
+
+}
+[sha:e08f56668928611ded2342a070156eec8beab015]{
+-- Page 1, Offset 22605.
+-- 敵ながら、そのプライドの高さは認めざるを得ない。
+  Même si je la considérais comme une ennemie, je ne pouvais que reconnaître sa grande fierté.
+
+}
+[sha:22e431940b7dbb12a6552a32f42b4ceb94af050b]{
+-- Page 2, Offset 22606.
+-- 「リデル、オマ……」
+「Riddell, tu...」
+
+}
+[sha:b1984600e1d7caaa1a53955c595d995d602c1c82]{
+-- Page 2, Offset 22607.
+-- 「トビマル。前向きな話をしましょう」
+「Tobimaru, parlons de choses positives, j'ai dit.」
+
+}
+[sha:1987b04eecf334d419ed257c43044e90c8ca15f1]{
+-- Page 2, Offset 22608.
+-- 「……分かった。とりあえず、オマエさんが潔白だってのだけは分かった。というか、これでスイーツハーツがオマエだったら、酷すぎて目も当てられねえ」
+「... D'accord. J'ai bien compris que tu étais innocente. D'ailleurs, si tu étais Sweets Hearts malgré tout ça, tu ferais tellement pitié que je ne pourrais plus te regarder en face.」
+
+}
+[sha:8153e1aa4fc6b8b2a40cbbff746019536821cf15]{
+-- Page 3, Offset 22609.
+-- 「そんなの当たり前でしょ。さっきからアタシは関係ないって言ってるじゃない。
+「Évidemment que je suis innocente ! Je n'arrête pas de vous dire que je n'ai rien à voir avec cette histoire !
+
+}
+[sha:b5b2fdafc0d33244e08fb95abbedee16efbffe6e]{
+-- Page 3, Offset 22610.
+-- だいたいね、このアタシ、希代の天才マイスター、新世代魔女であるリデル様が、こーんなバカっぽくて古くさいプロイに引っかかるワケないじゃない」
+  Et puis d'abord, comment veux-tu que la grande Riddell, Mage de la nouvelle génération, maître au rare génie, se fasse avoir par ce Ploy ringard et idiot !」
+
+}
+[sha:7334c7b85cd04408aa5a23fe828169692e70d689]{
+-- Page 4, Offset 22611.
+-- 「いや、ひっかかっただろ、あのヘリ」
+「Ton hélico s'est bien fait avoir, lui.」
+
+}
+[sha:47314df88b0988263a6e9de96e2595ce34f41082]{
+-- Page 4, Offset 22612.
+-- 「ヘリはヘリ、アタシはアタシよ！
+「L'hélico et moi, ça n'a rien à voir !
+
+}
+[sha:5ad22d8c349ae5a9a822a9c3374be6bb3e13a59d]{
+-- Page 4, Offset 22613.
+-- さっきだって笑ったけど耐えきったでしょ。
+  Et tout à l'heure, j'ai rigolé mais j'ai enduré le coup, non ?
+
+}
+[sha:1c31959d8bdca12cc4a9e524c4d6c83ceb9b4c69]{
+-- Page 4, Offset 22614.
+-- いっとくけど、アタシは絶対笑わないからね。ここでゆっくり、アンタらが古くさいプロイなんかにやられて消えていくのを眺めてやるから！」
+  Je vous préviens, je ne rigolerai jamais ! Je vais simplement profiter du spectacle pendant que ce stupide Ploy vous élimine les uns après les autres !」
+
+}
+[sha:fbdbcf65a0aadee1d1f7efc4fa7b6dd80a7e0730]{
+-- Page 5, Offset 22615.
+-- 憎まれ口を叩いてはいるが、ピンク女も観念したのだろう。
+  Malgré toutes les insultes qu'elle proférait à notre encontre, la fille en rose s'était résignée.
+
+}
+[sha:3a487cc2837a54cfa0eeebfeb876b0428fa9ccf5]{
+-- Page 5, Offset 22616.
+-- ふん、と鼻を鳴らしてソファーに腰を下ろす。
+  Elle ricana et s'assit sur le sofa.
+
+}
+[sha:4a1358ff3970759078b3e87d69d84c34e64d7865]{
+-- Page 5, Offset 22617.
+-- わたしたち同様、この夜に付き合う腹を決めたようだ。
+  Elle semblait s'être résolue à passer la nuit avec nous.
+
+}
+[sha:a5dc0e5649fdc71c68561f47253cf03236d41af9]{
+-- Page 6, Offset 22618.
+-- 「ごめんなさい。少し席を外すわ。すぐに戻ってくるから、話を続けていて」
+「Veuillez m'excuser. Je dois m'absenter un instant. Je reviens tout de suite, alors poursuivez la conversation.」
+
+}
+[sha:22963779386209509cfbec43f5d8a9acdec2c241]{
+-- Page 6, Offset 22619.
+-- 久遠寺さんは……あ、トイレか。
+  Kuonji... s'était probablement rendue aux toilettes.
+
+}
+[sha:50cdbcf0c372265e3608cb9920f2c80749c8429e]{
+-- Page 7, Offset 22620.
+-- 「しかし、<図|はか>らずも脱出は不可能である事が証明されてしまいましたね。
+「Quoi qu'il en soit, il a été inopinément prouvé que s'échapper d'ici était impossible.
+
+}
+[sha:cd51e9cf8446645745d1a917afba604578a8225e]{
+-- Page 7, Offset 22621.
+-- 誰がスイーツハーツなのか特定するか、朝まで全滅しないように注意を払うか。私は後者を選びたいところですが」
+  Soit nous enquêtons sur l'identité de Sweets Hearts, soit nous restons sur nos gardes pour éviter l'extermination au petit matin. Personnellement, je voudrais choisir la seconde option.」
+
+}
+[sha:5ed479d3bc26c431ac9788e76a239c1328fa53ba]{
+-- Page 8, Offset 22622.
+-- 「賛成。薮をつついて蛇を出したら、それこそ全滅の可能性もでてくるし。
+「Je suis d'accord. Et puis, on risque bien de se faire massacrer si on réveille le lion qui dort.
+
+}
+[sha:5b571db6e664a9c9118bc4b5502ad407344b7c13]{
+-- Page 8, Offset 22623.
+-- 久万梨は？」
+  Et toi, Kumari ?」
+
+}
+[sha:ad5ccffe6318ad6cae2e4157b1b55ef510ed59c7]{
+-- Page 9, Offset 22624.
+-- 「わたしはどっちでもいいけど……槻司はどうなの？」
+「Moi, peu importe, mais... Tsukiji, t'en penses quoi ?」
+
+}
+[sha:6e54ec79617b39a968f67753fd2d612ac832964f]{
+-- Page 9, Offset 22625.
+-- 「俺か？　俺は犯人特定に一票だな。
+「Moi ? Je suis pour démasquer le coupable.
+
+}
+[sha:70d7c89d3969a0a6c968f81b81ca07185b95cd40]{
+-- Page 9, Offset 22626.
+-- こんな状況を作り出した間抜けには、きっちり文句いわねえとな」
+  J'ai envie de me plaindre comme il se doit à l'idiot qui a provoqué cette situation.」
+
+}
+[sha:160a0588fe4c2c6d0f5b2a91cda5d1e0bad9599c]{
+-- Page 10, Offset 22627.
+-- 「私はどちらでも。リデルさんではありませんが、どちらに転んでも安全ですので」
+「Me concernant, cela ne m'importe pas. Je ne dirai pas les choses à la façon de Riddell, mais je suis en sécurité, quoi qu'il arrive.」
+
+}
+[sha:4f795e57ba9b80441da4d6d7961d19033d06edac]{
+-- Page 10, Offset 22628.
+-- 「わたしは槻司くんに賛成っ。
+「Moi, je suis d'accord avec Tsukiji !
+
+}
+[sha:d00990edac54a6070a72b3657583008a2e2a5282]{
+-- Page 10, Offset 22629.
+-- 推理、推理しましょう、みんな！」
+  Enquêtons, enquêtons ! Tous ensemble !」
+
+}
+[sha:d49cb9f5c340578ea9fa593a0df423e4f79594dd]{
+-- Page 11, Offset 22630.
+-- 「俺は……そうですね。外の天気も荒れる一方だし、みんな部屋に立てこもった方がいいとは思う。鍵をかけて寝てしまえば他人に笑わせられようがないし」
+「Moi... Eh bien, la tempête ne fait qu'empirer, alors je pense qu'il serait préférable que tout le monde retourne dans sa chambre. Si on s'enferme à clef et on dort, personne ne pourra nous faire rire.」
+
+}
+[sha:c994bfed4f1f51044208b3101f3b2d4caf2eeb1b]{
+-- Page 11, Offset 22631.
+-- 「えー、つまんないでーす！
+「Hééé, c'est d'un ennui !
+
+}
+[sha:bceb9214e7e2e5549326a6594d050eaffa9261e0]{
+-- Page 11, Offset 22632.
+-- 草十郎さん、ここはもうちょっと様子見ようよー。アオコの死に方とか、すごく興味ない？」
+  Sōjūrō, observons un peu la situation ! Tu n'es pas intrigué par la façon dont mourrait Aoko ?」
+
+}
+[sha:0fae0c2b9892206c901bb85a156400e821df0c83]{
+-- Page 11, Offset 22633. Mods: @k, @e.
+-- 「ベオ、そういうのは冗談でも―――
+「Beo, même si c'est une blague, il ne fa―――
+
+}
+[sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
+-- Page 11, Offset 22634. Glued. Mods: @x.
+-- む？」
+Hum ?」
+
+}
+[sha:0338a6a3e74eefb5d78b685ab9ca30b7d59dbb94]{
+-- Page 12, Offset 22635.
+-- 「！」
+「!」
+
+}
+[sha:4f313b7e6b826d306b7bf5def26d35c53491236e]{
+-- Page 12, Offset 22636.
+-- 突然、部屋が真っ暗になった。
+  Soudainement, la pièce fut plongée dans le noir total.
+
+}
+[sha:5f0912f3592a5cd38ea9063a5d218bfc316e266c]{
+-- Page 13, Offset 22637.
+-- 「落ち着いて。電気が切れたようです。皆さん、<無闇|むやみ>に動いてはいけませんよ。<闇|やみ>だけに」
+「Restez calmes. On dirait que les plombs ont sauté. Les amis, il ne faut pas bouger à l'aveuglette. Même si on est aveugles.」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 13, Offset 22638.
+-- 「………………」
+「..................」
+
+}
+[sha:e6ae9b7c5d8dc16e11826fa8bac70134c2c7fd8c]{
+-- Page 13, Offset 22639.
+-- 危ない危ない。あまりの寒さに、一周まわって吹きだしかけてしまった。
+  C'était tout juste. J'avais failli éclater de rire à cause du blanc qui avait suivi la boutade du prêtre.
+
+}
+[sha:513d12e50cc16aa02ec129e34aba13d7822ec90c]{
+-- Page 14, Offset 22640.
+-- 「なに考えてんのよ詠梨！　全滅するかと思ったじゃない！」
+「Mais à quoi tu joues, Eiri ? J'ai bien cru qu'on allait tous y passer !」
+
+}
+[sha:6e0eb3ae9566fd46a16c93bf04e6cb9c82f4b75f]{
+-- Page 14, Offset 22641.
+-- いやそれはない、
+  Non, ça n'aurait pas été le cas,
+
+}
+[sha:989462439bef3bcbc0a99a4884d56a277b69406c]{
+-- Page 14, Offset 22642.
+-- とツッコミを入れたいわたしだった。
+  eus-je envie de répliquer.
+
+}
+[sha:1b78aede1c668523de7615152519e37ca0d4bce1]{
+-- Page 15, Offset 22643.
+-- 「いやあ、今なら切れる、と心が騒いでしまいまして」
+「Eh bien, je me suis dit que c'était le moment idéal et ça m'a excité.」
+
+}
+[sha:cb948dc1d90274ae596d40b210d09add755c5a26]{
+-- Page 15, Offset 22644.
+-- 「うん、タイミングはバッチリだった。つまんないダジャレも、切り出し方次第で人を殺せるんだな」
+「Hum, le timing était parfait. Même un jeu de mots aussi affligeant peut tuer des gens selon la manière de le dire.」
+
+}
+[sha:c3ec28d8c0349f2587861c56ddb83052d84ab0f3]{
+-- Page 15, Offset 22645.
+-- 「顔が見えないのがまた効くよな」
+「Et le fait qu'on ne puisse pas voir les visages est efficace.」
+
+}
+[sha:3c82d70f766676c2d6262ac3c98dd66886c8dcc7]{
+-- Page 15, Offset 22646.
+-- 「まったくよ。このアタシですらちょっとブルっときたわ。もしかしてアイツが犯人なんじゃないの？」
+「Franchement ! Même moi, j'ai été un peu perturbée. Ça ne serait pas lui le coupable ?」
+
+}
+[sha:44465ab2f3c9458ba91f61ae52b51a0af5e56764]{
+-- Page 16, Offset 22647.
+-- 暗闇の中で会話は続く。
+  La conversation se poursuivait malgré l'obscurité.
+
+}
+[sha:86d3f84f5de53be1bd55069ce4db2389dd8fe3b7]{
+-- Page 16, Offset 22648.
+-- ……修学旅行の怪談話というか、暗闇の中でのやりとりは妙に興奮するというか。
+  ... C'était comme les histoires de fantôme lors des voyages scolaires, ou, comment dire, un de ces échanges dans les ténèbres qui vous fascinent sans que vous sachiez pourquoi.
+
+}
+[sha:e5b57b6d0bb5808bf633cd5ce361c72fef7a5c9c]{
+-- Page 16, Offset 22649.
+-- なんとなく、誰もが“今ならひとりぐらい笑わせてもいいんじゃないかな？”なんて浮ついた空気になってきた。
+  D'une certaine manière, tout le monde pensait témérairement que maintenant, ce ne serait pas tellement grave si quelqu'un se mettait à rire.
+
+}
+[sha:25bfc93e45fd4cbc0b70c06de6ee51084043fcf6]{
+-- Page 17, Offset 22650.
+-- 「あ、蝋燭みつけた。誰かライター持ってない？
+「Ah, j'ai trouvé une bougie. Personne n'a de briquet ?
+
+}
+[sha:9d46aa1f1bc728e3b95a27a7e8197f881d7ad9c5]{
+-- Page 17, Offset 22651.
+-- もしくはマッチ」
+  Ou alors des allumettes ?」
+
+}
+[sha:684adad1f8648948c3e9331afe2d9e5217e923e6]{
+-- Page 17, Offset 22652.
+-- 「ちょっと待ッチ」
+「Attends un feu follet.」
+
+}
+[sha:9b83b961563deed1aad98aaeb068a01186f67c69]{
+-- Page 17, Offset 22653.
+-- 「え、今のも神父さん？」
+「Hein ? C'était le prêtre à l'instant ?」
+
+}
+[sha:cea3b241c3d4a525bd31b221939de8568b79351c]{
+-- Page 17, Offset 22654.
+-- 「酷い。酷すぎる」
+「Horrible, cette blague était horrible.」
+
+}
+[sha:a2189030df9af013d63d37b4d041c8798a816d68]{
+-- Page 17, Offset 22655.
+-- 「脳が退化しているとしか思えません」
+「Son cerveau a dû dégénérer.」
+
+}
+[sha:9fb6a71222e61778839639fca99db77c622de454]{
+-- Page 17, Offset 22656.
+-- 「いや、この原始の状態じゃあ<知性|エスプリ>利かせてもインパクトねぇぞ。シンプルイズベストだ」
+「Non. Dans ce noir complet, même s'il faisait de l'esprit, ça n'aurait aucun impact. Simple is best.」
+
+}
+[sha:769133f1c746a195dc52339597907fe70f30217a]{
+-- Page 17, Offset 22657.
+-- 「あ。みんな静かに、電気つきそうだぞ」
+「Ah. Que tout le monde se calme, la lumière revient.」
+
+}
+[sha:b8bbcda0f56176a15d30313e634b38f91febb01b]{
+-- Page 18, Offset 22658.
+-- 久遠寺邸には自家発電装置でもあるのだろうか。
+  Le manoir Kuonji devait probablement disposer d'un groupe électrogène.
+
+}
+[sha:d093e569cbfd7c5c01fb52aafc2feaacea46bb16]{
+-- Page 18, Offset 22659.
+-- 誰が復旧させたかはともかく、居間はあっさりと人工の明かりを取り戻した。
+  Nous ignorions qui avait rétabli le courant, mais une chose était sûre, le salon venait de retrouver sa lumière artificielle.
+
+}
+[sha:5945da804e0c7501d1a998091c1d9b90b9cd6b35]{
+-- Page 19, Offset 22660.
+-- 「あら、古くさい屋敷のクセに設備はしっかりしてるのね。このまま暗闇で朝まで過ごすのかと心配しちゃったわ」
+「Eh bien, malgré l'âge de cette demeure, l'équipement est de qualité. J'ai eu peur qu'on doive passer le reste de la nuit dans ces ténèbres.」
+
+}
+[sha:eedc8ccb4f59e311c7d83f5f9a92751ccdee4a71]{
+-- Page 19, Offset 22661.
+-- いつの間にか隣にいたピンク女が顔をあげる。
+  La fille en rose, qui s'était placée à mes côtés sans que je m'en rende compte, leva le visage.
+
+}
+[sha:392aa293db01e18fc539ea697d01ccab409c0d8a]{
+-- Page 19, Offset 22662.
+-- わたしもつられて顔を上げて、
+  Je l'imitai inconsciemment, et...
+
+}
+[sha:325eec855355d8b165cc583cff77fd799721e204]{
+-- Page 20, Offset 22663. Mods: @n.
+-- 「ぎゃははははははははは
+「Hahahahahaha-
+
+}
+[sha:571094d840432f8b49b3529b5efef63010b7cd58]{
+-- Page 20, Offset 22664. Glued. Mods: @k, @e.
+-- ぎごばぁ！？」
+Argl ?!」
+
+}
+[sha:8cd6141a005dbbd68c49705871c9194fc3b8a18c]{
+-- Page 20, Offset 22665.
+-- ピンク女は胸にドンドンドンと衝撃を受けて、くるくると踊りながら激倒した。
+  La fille en rose subit des impacts successifs à la poitrine et s'effondra violemment en faisant des moulinets.
+
+}
+[sha:580cf3c9715c0a7e45c91156f14a52642357b118]{
+-- Page 21, Offset 22666.
+-- 「リデル！？　ちょっと、何があったの！？」
+「Riddell ?! Hé ! Que s'est-il passé ?!」
+
+}
+[sha:921e98ac04110ffb9b689a64bdfb985f8bbc8d2e]{
+-- Page 21, Offset 22667.
+-- 蒼崎がリデルに駆け寄る。
+  Aozaki accourut auprès de Riddell.
+
+}
+[sha:8b0d6cb3e4777ee0c5858fcb1f1cf16533a68280]{
+-- Page 21, Offset 22668.
+-- わたしは間一髪の差で助かった。
+  J'avais été sauvée de justesse.
+
+}
+[sha:39ed60a9673b830896d797a4fd8288ec06a6028e]{
+-- Page 21, Offset 22669.
+-- ピンク女……リデルが先に笑っていなかったら、間違いなくわたしが笑っていただろう。
+  Si cette fille en rose... Si Riddell n'avait pas ri en premier, je l'aurais sans aucun doute fait.
+
+}
+[sha:1b9c035e225a744ece1baddc0a128791f3f80038]{
+-- Page 22, Offset 22670.
+-- 「リデル、しっかりしなさいリデル！
+「Riddell ! Reprends-toi, Riddell !
+
+}
+[sha:3c7dae13c67d1f5e914da5a65e9f0beedeec5e98]{
+-- Page 22, Offset 22671.
+-- 死ぬ前に教えて、何を見たの！？　犯人？　犯人ね！？」
+  Parle avant de mourir ! Qu'as-tu vu ? Le coupable ? C'est le coupable, hein ?!」
+
+}
+[sha:6757eda54dcb1e9e7d925c845d144c25e7536f24]{
+-- Page 22, Offset 22672. Mods: @k, @e.
+-- 「ふ、ふふ……そんな、つまんないヤツ、より……もっとおぞましくて、ぷにぷにした、悪魔、が―――
+「Fff, fff... Oublie ce type sans intérêt... Il y a quelque chose de pire, un démon, moelleux, il―――
+
+}
+[sha:a0e8a2bf8c80662fe922375a73154237cdb9a212]{
+-- Page 22, Offset 22673. Glued. Mods: @x, @n.
+-- ばたり」
+*mort*」
+
+}
+[sha:4d7c2cfa6789b9efdc72280bcecf5f85f0c7892a]{
+-- Page 22, Offset 22674.
+-- 「リデルーーーーーーー！」
+「Riddellーーーーーーー!」
+
+}
+[sha:ed90a0f1155ac9ce54e3e0586b013232c1b7467d]{
+-- Page 23, Offset 22675.
+-- リデルを抱きかかえながら号泣する蒼崎。
+  Aozaki se lamenta, la dépouille de Riddell dans les bras.
+
+}
+[sha:593e256b54d8c5faa491e5a101b34f0f52ca0b24]{
+-- Page 23, Offset 22676.
+-- 似たもの同士、感じ入るものがあったらしい。
+  Comme elles étaient similaires sur de nombreux points, sa mort semblait l'émouvoir.
+
+}
+[sha:2a74dea9697ffb095edf4f5f7986b9ea0a2c4852]{
+-- Page 23, Offset 22677.
+-- そんな中、何事もなかったかのように戻ってくる久遠寺さん。
+  Pendant ce temps, Kuonji revint comme si de rien n'était.
+
+}
+[sha:ca18b07b09589bdf7bd41d6d0a2a1517960fcbb1]{
+-- Page 24, Offset 22678.
+-- 「何かあったのかしら」
+「Que s'est-il passé ?」
+
+}
+[sha:ddff1687fee955f848a1e77020a0654677bd22f0]{
+-- Page 24, Offset 22679.
+-- 「分からん。わけもなく爆笑して自滅した。
+「J'en sais rien. Elle a explosé de rire sans raison et s'est auto-éliminée.
+
+}
+[sha:890509b18371f9d9e616236cd5b60cef39c0afcf]{
+-- Page 24, Offset 22680.
+-- 今度はさすがに復活は無理っぽい」
+  La résurrection me semble improbable sur ce coup-ci.」
+
+}
+[sha:3233285777140f73597da59b1696c90cff94958f]{
+-- Page 25, Offset 22681.
+-- とにかくこのままでは可哀想だ、と槻司はリデルにテーブルクロスをかけて部屋の隅に寝かせる。
+  Comme elle faisait pitié, Tsukiji recouvrit Riddell d'une nappe et l'allongea dans un recoin de la pièce.
+
+}
+[sha:60886c69472c6e4053167ea1a109c00725effe52]{
+-- Page 25, Offset 22682.
+-- わたしはそそそっ、と久遠寺さんに近づいて、耳打ちなど一つ。
+  Je me rapprochai lentement de Kuonji et lui chuchotai à l'oreille.
+
+}
+[sha:b379742b686b67847d8d4f102f5ec755ab3da179]{
+-- Page 26, Offset 22683.
+-- 「久遠寺さん、今の、なに？」
+「Kuonji, à l'instant, c'était quoi ça ?」
+
+}
+[sha:07574a9a77f93d303c53a9c10f66eca9342f2790]{
+-- Page 26, Offset 22684.
+-- 「着替える服を間違えたの。みんなには黙っていてね、久万梨さん」
+「Je me suis trompée de tenue. Ne dis rien aux autres, d'accord, Kumari ?」
+
+}
+[sha:3ce23a0866283f8d87c718c5723ca637400307cc]{
+-- Page 26, Offset 22685.
+-- 「……いいけど。犯人じゃないのよね、貴女？」
+「... D'accord, mais tu n'es pas le coupable, j'espère ?」
+
+}
+[sha:fb1f1234873958ed03c01e9867b7ef73017c8415]{
+-- Page 27, Offset 22686.
+-- 「ええ。今のはただの趣味だから安心して。
+「Non. À l'instant, ce n'était qu'une farce, rassure-toi.
+
+}
+[sha:954ed419c1b60b9c76dd4281248eb412682c125b]{
+-- Page 27, Offset 22687.
+-- 昔から、あの娘を見ていると何故かいじめたくなってしまって」
+  Depuis toujours, j'ai la mystérieuse envie de taquiner cette fille à chaque fois que je la vois.」
+
+}
+[sha:0f7bd8e381b1b4a13ef21b6e3a27c5690087f760]{
+-- Page 27, Offset 22688.
+-- 困ったものだわ、と嘆息する久遠寺さん。
+  “C'est légèrement embarrassant”, soupira Kuonji.
+
+}
+[sha:5902372f2ffebc84cf521ebfb42614caa0f9d7ea]{
+-- Page 27, Offset 22689.
+-- わたしは改めて、リデルにちょっとだけ同情したのだった。
+  Une nouvelle fois, je ressentis un peu de sympathie envers Riddell.
+
+}
+[sha:4471729bcccb38db259d8f627d3470f01bb2b84b]{
+-- Page 28, Offset 22690.
+-- 犠牲者は四人になった。
+  Il y avait à présent quatre victimes.
+
+}
+[sha:2853bffa9b12d6a4020be34b0e1470f986ebd673]{
+-- Page 28, Offset 22691.
+-- ここにきて全体の雰囲気は“部屋に閉じこもって朝を待つ”方向に傾きつつある。
+  Dans ces conditions, l'ambiance générale commençait à s'orienter vers l'idée de s'enfermer dans nos chambres et d'attendre le matin.
+
+}
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 28, Offset 22692.
+-- わたしは、
+  Je...
+
+}

@@ -1,0 +1,18 @@
+[sha:0f9e741ad4dc9390c39f63653232cdeb22ff98c3]{
+-- Page 28, Offset 23400. Mods: @e.
+-- ～選択肢Ｕ～
+-Choix U-
+
+}
+[sha:6473f3dcb72dcdbcdc4d25a894407b06d2c721da]{
+-- Page 28, Offset 24074. Choice.
+-- 朝まで逃げるべきだ、と思った。
+Je songeai qu'il valait mieux fuir jusqu'au matin.
+
+}
+[sha:76b3285739183d6d3e17fb5229c3552b30d68a3a]{
+-- Page 28, Offset 24075. Choice.
+-- 犯人を推理すべきだ、と思った。
+Je songeai qu'il fallait identifier le coupable.
+
+}

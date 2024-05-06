@@ -1,0 +1,24 @@
+[sha:9d111609a84d46b4125639e9d0cc05b352680de2]{
+-- Page 16, Offset 21878. Mods: @e.
+-- ～選択肢Ｅ～
+-Choix E-
+
+}
+[sha:357dfb7a05f5de3a1fa578d64bf6e4621a57d758]{
+-- Page 16, Offset 24026. Choice.
+-- 数はあっているな、と思った。
+Je songeai que le compte était bon.
+
+}
+[sha:80af85f912354537054316d4313207157dab723e]{
+-- Page 16, Offset 24027. Choice.
+-- 数を間違えているな、と思った。
+Je songeai que le compte n'était pas bon.
+
+}
+[sha:5efeac572e67a677102837d65046893b6977ae60]{
+-- Page 16, Offset 24028. Choice.
+-- ……そういえば、まだ静希を見ていないな、と思った。
+Je songeai que je n'avais pas encore vu Shizuki.
+
+}

@@ -1,0 +1,252 @@
+[sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
+-- Page 0, Offset 22474.
+-- わたしは、
+  Je...
+
+}
+[sha:85047f60091d1d8706495c70a16b8489a3cd994a]{
+-- Page 0, Offset 22475.
+-- それぞれ客室で朝まで過ごすべきでは、と思った。
+  ... songeai que nous devrions attendre le matin dans nos chambres.
+
+}
+[sha:3334d60d95c0463f5444e0ec7de1afee793f9840]{
+-- Page 1, Offset 22476.
+-- 「話はここまでです。
+「La discussion s'arrête ici.
+
+}
+[sha:66aa719aeda81191a225cf047582f4a77023cc05]{
+-- Page 1, Offset 22477.
+-- 疑心暗鬼をこれ以上深める必要はないでしょう。犯人は分からずとも、解決する手段は明白なのですから」
+  Il est inutile d'attiser davantage notre méfiance. Même si nous ignorons qui est le coupable, la manière de résoudre cette affaire est limpide.」
+
+}
+[sha:0af8b89031f39e8d5757caa95071f9fe26710de8]{
+-- Page 1, Offset 22478.
+-- ぴしゃり、と唯架さんが場を制する。
+  Yuika exerça son emprise sur les lieux.
+
+}
+[sha:50d681ec543cafc340cab6d6f9cff77bafe30ee6]{
+-- Page 1, Offset 22479.
+-- その迫力に誰も異論は……いや、律架さんだけはいじいじと拗ねているが、それ以外は誰も口を挟まない。
+  Devant tant de vigueur, personne n'osa émettre d'objection... hormis Ritsuka qui boudait dans son coin.
+
+}
+[sha:17fb1fbfa136f56d6592cdf860801a9024b83a91]{
+-- Page 2, Offset 22480.
+-- 「皆さんはそれぞれ客室で夜を過ごしてください。
+「Veuillez passer la nuit dans vos chambres respectives.
+
+}
+[sha:33dca161274220144a0f17eed7fd60df5a9ff234]{
+-- Page 2, Offset 22481.
+-- きちんと鍵をかけて、朝まで誰も入れないように。
+  Fermez bien à clef et ne laissez entrer personne jusqu'au matin.
+
+}
+[sha:2dba0bfdee759dbda9fc4934e698fa506b93aba5]{
+-- Page 2, Offset 22482.
+-- 私とエイリ神父、律架の三人はここで寝ずの番をしますので、何か異常があるようでしたら駆けつけます」
+  Père Eiri, Ritsuka et moi veillerons ici et accourrons si jamais il semble se passer quelque chose d'anormal.」
+
+}
+[sha:6acaefccebb839d6df9640321427e7aeec1e8d37]{
+-- Page 3, Offset 22483.
+-- 「……まあ妥当なところね。
+「... Ma foi, c'est le plus judicieux.
+
+}
+[sha:4bce5523dc3e13a3f3f9ddc4a51a66aa81c2501a]{
+-- Page 3, Offset 22484.
+-- 教会組も犯人候補だけど、唯架さんだけはプロイである可能性はないんだし」
+  Les membres du groupe de l'église sont aussi des coupables potentiels, mais Yuika est bien la seule qui ne peut pas être le Ploy.」
+
+}
+[sha:ccd823d7e24973a4cba642eef41bab3152ca6fb6]{
+-- Page 3, Offset 22485.
+-- 「それはなぜ？」
+「Pourquoi ça ?」
+
+}
+[sha:ba686498d3c091d512f4f873e4cdf030620ab5c0]{
+-- Page 4, Offset 22486.
+-- 「魔女嫌いの唯架さんは、プロイキッシャーの口車には乗らないでしょ。
+「Yuika, qui déteste les Mages, ne se laisserait jamais enjôler par un Ploy Kickshaw.
+
+}
+[sha:650687fafe145b2b053815a027c972ee09f9e60a]{
+-- Page 4, Offset 22487.
+-- さ、そうと分かったら解散解散。各自、必要な物を手にしたら客室に戻って、朝まで籠城すること。
+  Allez, maintenant que c'est décidé, on se disperse. Récupérez ce dont vous avez besoin, retournez dans votre chambre et restez-y enfermés jusqu'au matin.
+
+}
+[sha:26ee548119db6b51447c3703ce764c3c9e504bb6]{
+-- Page 4, Offset 22488.
+-- あと、トイレは物理的に我慢して」
+  Et si l'envie d'aller aux toilettes vous prend, eh bien, retenez-vous.」
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 5, Offset 22489.
+-- 「…………」
+「............」
+
+}
+[sha:48e27e9b55e1b17c798e70c0d6637beece725976]{
+-- Page 5, Offset 22490.
+-- わたしが切り出すまでもなく、<籠城|ろうじょう>案が可決された。
+  L'idée du confinement fut adoptée sans que j'aie à en faire la proposition.
+
+}
+[sha:68b1355704ea95ba744b81617f486901671066d1]{
+-- Page 5, Offset 22491.
+-- そりゃあ、これが一番安全かつ簡単な方針だろうけど。
+  Il s'agissait certes du moyen le plus sûr et simple, mais cela restait surprenant.
+
+}
+[sha:eb13760ae2a44e1a114aa2c4fdbb86480d3d3446]{
+-- Page 6, Offset 22492.
+-- 「……俺の部屋は使えないな。
+「... Je ne peux pas utiliser ma chambre.
+
+}
+[sha:f9c40f82e18b523bb1c56993aa019a5cb0d429c8]{
+-- Page 6, Offset 22493.
+-- 鳶丸、そっちの客室に行っていいか？」
+  Tobimaru, je peux venir avec toi dans la tienne ?」
+
+}
+[sha:782edafecdc910ecb66d06ac74882bf5acbae3ad]{
+-- Page 6, Offset 22494.
+-- 「ああ、木乃美がいなくなったからな、ちょうどいい」
+「Ouais, Kinomi a disparu, alors c'est parfait.」
+
+}
+[sha:cbc94e5261d37ea4e57a17cf936dc6183c6a754f]{
+-- Page 6, Offset 22495.
+-- 槻司は静希からクッキーやら水の入ったピッチャーやらを受け取って、やれやれとロビーに向かう。
+  Tsukiji se dirigea d'un air las vers le vestibule après avoir récupéré des cookies et une cruche remplie d'eau des bras de Shizuki.
+
+}
+[sha:a31520c196dad92d48ca6988452e14688d3748ed]{
+-- Page 7, Offset 22496.
+-- 「ちょっと待って、槻司はそれでいいの！？」
+「Attends un peu ! Tsukiji, tu es vraiment d'accord avec ça ?!」
+
+}
+[sha:1fc27588dbdcab2529b5d53bc1ab7ea32aba00d9]{
+-- Page 7, Offset 22497.
+-- 「よくはねえが多数決なら仕方がねえ。問題を解決せずに封殺しちまうのは、民主主義の欠点だな。
+「Non, mais c'est la règle de la majorité, j'ai pas le choix. Le plus gros défaut de la démocratie, c'est qu'elle met de côté les problèmes, sans les résoudre.
+
+}
+[sha:3a9a63eba50d5c19340e594fac52e398236a4b2b]{
+-- Page 7, Offset 22498.
+-- しかしまあ、これも鉄板の選択だ。何かあったら大声で助けを呼んでくれや。俺も二階だから、すぐに駆けつけられる」
+  Enfin bref, cette décision est irrévocable. S'il t'arrive quelque chose, appelle à l'aide. Comme je suis aussi au premier étage, je pourrai te rejoindre rapidement.」
+
+}
+[sha:4ee8ae682d45db8156972a0355cb08938fdee59b]{
+-- Page 8, Offset 22499.
+-- 「あーあ、こんな事ならライブキャンセルするんじゃなかったわ。
+「Aaah, si j'avais su, je n'aurais pas annulé mon concert.
+
+}
+[sha:008ddddf2e4887278ae259bb98e190b1e067516d]{
+-- Page 8, Offset 22500. Glued. Mods: @x.
+-- アリス、早く部屋に案内しなさいよ。もちろんゲストルームじゃなくて、アンタの部屋よ。
+Alice, dépêche-toi de me mener à ma chambre. Naturellement, je ne parle pas d'une chambre d'invité, mais de la tienne.
+
+}
+[sha:bb680e9b7b9c5e8505600fbac4f1512ae752dfef]{
+-- Page 8, Offset 22501.
+-- ここじゃロイヤルクラスなんて望むべくもないでしょ？　だから特別に、家主の部屋で妥協してあげるわ」
+  Je ne peux pas m'attendre à une suite royale ici, n'est-ce pas ? Donc je vais faire un compromis exceptionnel avec la chambre du propriétaire.」
+
+}
+[sha:0878cec85113e17578c847afad893e636fd754f5]{
+-- Page 9, Offset 22502.
+-- 「私は自分の部屋にいるから。朝まで誰も近づいちゃダメよ」
+「Je serai dans ma chambre. Que personne ne s'en approche jusqu'au matin !」
+
+}
+[sha:0bcbbaac363f9e44f7408b43f4172b19e534e014]{
+-- Page 9, Offset 22503.
+-- 「ボクはここで寝てるよー。何かあったら起こしてね」
+「Moi, je vais dormir ici. Réveillez-moi s'il se passe un truc.」
+
+}
+[sha:f183af14ede718cf2376a1c349f7514569445224]{
+-- Page 10, Offset 22504.
+-- ……みんな、思い思いの場所に移動していく。
+  ... Chacun alla dans la pièce qu'il souhaitait.
+
+}
+[sha:496487f41ddd23d80b13fb9c94fd963d80ab3c35]{
+-- Page 10, Offset 22505.
+-- わたしは釈然としないまま、自分用にあてがわれた客室に移動した。
+  Insatisfaite, je me rendis dans la chambre qui m'avait été allouée.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 11, Offset 22506.
+-- 「………………」
+「..................」
+
+}
+[sha:68a7390c85e18b2d77962ee11bd40c6ac9a4dd27]{
+-- Page 11, Offset 22507.
+-- 鍵をかけてベッドに横になる。
+  Je fermai à clef et m'allongeai sur le lit.
+
+}
+[sha:91862f813bc4ecf18ab3ad6df00613047e93c3c8]{
+-- Page 11, Offset 22508.
+-- 万が一の事態に対応できるよう、寝間着には着替えていない。
+  Pour réagir au plus vite en cas d'incident, je n'enfilai pas mon pyjama.
+
+}
+[sha:5a5a161277d83f9e8a05cd303f2559c0b7084a12]{
+-- Page 12, Offset 22509.
+-- 「笑ったら死ぬ、とかワケが分からないけど……」
+「Je ne comprends vraiment rien à cette histoire de rire synonyme de mort, mais...」
+
+}
+[sha:bbdd8c8b97d17e2a916a05b346a7559e3ff70732]{
+-- Page 12, Offset 22510.
+-- ここにいるわたしたち全員を殺そうとする何者かがいるのは確かだ。
+  Il était clair que quelqu'un essayait de tous nous tuer.
+
+}
+[sha:9b95ae0ab7fc68fb513c48cf60f2c19c9442c3ce]{
+-- Page 12, Offset 22511.
+-- わたしは横になって考える。
+  Allongée, je réfléchis.
+
+}
+[sha:6c0351e7fe01db0c604109d0eae363f61df69d69]{
+-- Page 12, Offset 22512.
+-- 槻司や詠梨神父は論理的すぎて、ある疑問を見逃していると思う。
+  Tsukiji et père Eiri étaient un peu trop logiques, si bien qu'ils semblaient oublier une certaine question.
+
+}
+[sha:f4b24c17fcb8e85ffc42fbd99ebedbbafcb72b0f]{
+-- Page 13, Offset 22513.
+-- わたしが思うのは犯人の顔や正体じゃない。
+  Ce qui m'intriguait n'était pas l'identité du coupable.
+
+}
+[sha:7e6510043dd40af66116abc2f89215b143bc6176]{
+-- Page 13, Offset 22514.
+-- そいつは、どうしてこんな事をする気になったのか。
+  Mais pourquoi il en était arrivé à de telles extrémités.
+
+}
+[sha:7beafef48a0125501129b3f563a15b12d9af783b]{
+-- Page 13, Offset 22515.
+-- わたしたち全員を殺して何の得があるんだろう、とうろんな頭で考え続けて―――
+  Je n'eus de cesse de réfléchir à l'intérêt que l'individu A avait de tous nous tuer et―――
+
+}

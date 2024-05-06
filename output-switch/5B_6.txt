@@ -1,0 +1,318 @@
+[sha:a277170422b4d6af7c26ecb853c2363510b65e10]{
+-- Page 0, Offset 7099.
+-- 遊園地のスナーク化は最終段階を迎えていた。
+  La Snarkisation du parc d'attractions arrivait à sa dernière étape.
+
+}
+[sha:afdd56a6ee4258fec55401c4dbd562f2ab85be10]{
+-- Page 0, Offset 7100.
+-- 命を与えられたのはマスコットたちだけではない。
+  Les mascottes n'étaient pas les seules à avoir reçu la vie.
+
+}
+[sha:2f01e4a4d423eb5a5d466948da74d1c8b967f1cd]{
+-- Page 0, Offset 7101.
+-- バーガーショップのように、建物すら生き物に変貌しようとしている。
+  Même les bâtiments se transformaient en êtres vivants, comme le restaurant de burgers.
+
+}
+[sha:9e80c90e49b97c06a7e756622dcb6509000f98ef]{
+-- Page 0, Offset 7102.
+-- 遊園地を巡るコースターは<中華龍|チャイニーズドラゴン>よろしく、うねうねとのたうつ始末。
+  Les montagnes russes faisaient le tour du parc en se tortillant comme un véritable dragon.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 1, Offset 7103.
+-- 「――――――」
+「――――――」
+
+}
+[sha:2c1f9dcb1bfe794a5d66ebd1b1abb83b07e7e7e1]{
+-- Page 1, Offset 7104.
+-- 呆然と、全長八十メートル近くまで膨張した観覧車を見上げる青子と草十郎。
+  Éberlués, Aoko et Sōjūrō regardaient la grande roue qui s'était agrandie jusqu'à atteindre une taille de près de quatre-vingts mètres.
+
+}
+[sha:1a510af47c101a565fa87679b6045da40b672eac]{
+-- Page 1, Offset 7105.
+-- そんなふたりにチケットを配るように、大量のブレッドマンが襲いかかる。
+  Comme s'ils voulaient leur vendre des tickets, de nombreux hommes-pains fondirent sur eux.
+
+}
+[sha:80320167d64b8d82ef6dfac240861f80929595ff]{
+-- Page 2, Offset 7106.
+-- 「このっ、列整理は間に合ってるっての！」
+「Espèces de... On a déjà fait la queue !」
+
+}
+[sha:c52e5b9c9267f6a77a21bfaa660d63c6a53c9561]{
+-- Page 2, Offset 7107.
+-- わらわらと大挙するオブジェ。
+  Les “objets” arrivaient en nombre de tous les côtés.
+
+}
+[sha:0b1b3b24f279a97d7bc920d6b92e4194e9060454]{
+-- Page 2, Offset 7108.
+-- 包囲網は破っても破っても形成される。
+  À chaque fois qu'Aoko rompait l'encerclement, celui-ci se reformait systématiquement.
+
+}
+[sha:85206199bcda794a794e14a6d6ea2519068ab356]{
+-- Page 2, Offset 7109.
+-- 絶え間ない物量作戦。
+  Une stratégie infaillible reposant sur le nombre.
+
+}
+[sha:22e55e9fa57256e8234bf723eea0a98f391f52b0]{
+-- Page 2, Offset 7110. Glued. Mods: @x.
+-- さもありなん、資源の<枯渇|こかつ>で悩むおとぎ<噺|ばなし>は<滅多|めった>にない……！
+Il fallait dire qu'on avait rarement à se préoccuper de l'épuisement des ressources dans les contes de fées......!
+
+}
+[sha:0b97ec9503f21beed6955b995cf6bb8a70565c6e]{
+-- Page 3, Offset 7111.
+-- 「っ、なんかどうしようもないぞ！
+「On dirait qu'on ne peut rien faire, Aozaki !
+
+}
+[sha:b5cd368f342a950428092045dd0e6d04e9472351]{
+-- Page 3, Offset 7112.
+-- コイツら、増える一方だ！」
+  Ils sont de plus en plus nombreux !」
+
+}
+[sha:dcc510c1adefcd988dc2f852cfe8395dd052f31f]{
+-- Page 3, Offset 7113.
+-- 「スナーク本体を探して！
+「Cherche le vrai corps du Snark !
+
+}
+[sha:73b9353404e2e2a28d3c873ac5b34d668ae2a510]{
+-- Page 3, Offset 7114.
+-- 童話の怪物には本体にあたる器物があるの！　それさえ壊せば遊園地から出られるはず！」
+  Les monstres de contes de fées ont un réceptacle qui leur sert de corps ! On devrait pouvoir sortir du parc si on parvient à le battre !」
+
+}
+[sha:c3b6c9f2ae436d1630c8592f922a091c98e9281c]{
+-- Page 3, Offset 7115.
+-- 「本体ってどんな!?」
+「Quel genre de vrai corps ?!」
+
+}
+[sha:fc127720368ae45b8d779748cd8f0c3d68595fff]{
+-- Page 4, Offset 7116.
+-- 「さっき言ったでしょ、童話の怪物は現実に無いものだって！　今までいなかったおかしなヤツとか、現実じゃありえないモノ！　それが本体！」
+「Je te l'ai pourtant dit tout à l'heure. Les monstres de contes de fées n'existent pas dans la réalité ! Donc cherche quelque chose de bizarre qui n'était pas là auparavant, un phénomène qui devrait être impossible ! C'est ça le vrai corps !」
+
+}
+[sha:a90362d0eedee370a8c819ab3d35d25aff85b0be]{
+-- Page 4, Offset 7117.
+-- 「おかしなヤツって、たとえば!?」
+「Quelque chose de bizarre ? Quoi par exemple ?!」
+
+}
+[sha:f1419d48fe405f30c8780cb936f7c277d912e600]{
+-- Page 5, Offset 7118.
+-- 「だから！
+「Comme je viens de te le dire !
+
+}
+[sha:99a042fe6b1b86e31b6d804ea101742989fa3aae]{
+-- Page 5, Offset 7119.
+-- 命のある人形とか、空飛ぶゴーカートとか―――」
+  Par exemple, une poupée vivante ou un kart volant dans le ciel―――」
+
+}
+[sha:9853c460b91c3413acd7fc6e556b4ad78d2dd912]{
+-- Page 6, Offset 7120.
+-- 魔弾を放つ青子の手が止まる。
+  La main d'Aoko tirant les balles de prana s'arrêta.
+　
+}
+[sha:1deae78e1fe5bd0d0ef34e53d037a805b357d012]{
+-- Page 6, Offset 7121.
+-- 口にして、自分たちがどれほど<窮|きわ>まっているかを思い知ったのだ。
+  Au milieu de sa phrase, elle réalisa la situation désespérée dans laquelle ils se trouvaient.
+
+}
+[sha:174a9cf7288fb6e5bb664393252c73d493ad0008]{
+-- Page 6, Offset 7122.
+-- 遊園地は“童話の怪物”と思われるモノであふれている。
+  Le parc d'attractions surabondait de choses pouvant faire penser à un “monstre de contes de fées”.
+
+}
+[sha:49b988e3d6635e54624afd360ec4c0ffe3d7400f]{
+-- Page 6, Offset 7123.
+-- 変形し、自ら動き出したオブジェたちはみな“現実にないモノ”なのだ。
+  Les objets se transformant et se mettant à bouger d'eux-mêmes étaient tous des “choses n'existant pas en réalité”.
+
+}
+[sha:5d5d54f4fab5df08bedf6efac6af817f854a1c54]{
+-- Page 7, Offset 7124.
+-- 「……そっか。おかしくないヤツなんて、一つもないんだ」
+「...... Je vois. Il n'y a rien qui ne soit pas bizarre ici.」
+
+}
+[sha:2fb8f80633735c0efa02c758b37411479fe63353]{
+-- Page 7, Offset 7125.
+-- “この中に紛れこんでる……？”
+“Il s'est glissé parmi eux......?”
+
+}
+[sha:d2d2088cfd8327ecff86db1cca8c3cf76e52138b]{
+-- Page 7, Offset 7126.
+-- 青子は呟きながら、それはないな、と唇を噛んだ。
+  murmura-t-elle en se mordant la lèvre, sceptique.
+
+}
+[sha:06723b51133290d213c5a798f7fd1b5bc67d2427]{
+-- Page 8, Offset 7127.
+-- フラットスナークは結界を張るタイプの<怪物|プロイ>だ。
+  Le Flat Snark était un type de Ploy érigeant une Barrière.
+
+}
+[sha:9433679f2dbd7e1fb2f5d1f62bc8646b21c225d6]{
+-- Page 8, Offset 7128.
+-- これだけ大量の使い魔を統率している以上、本体の防御力は低いか、もしくは<皆無|かいむ>と見るべきだろう。
+  À partir du moment où il contrôlait un si grand nombre de familiers, on pouvait logiquement penser que soit le pouvoir défensif du vrai corps était faible, soit il n'en avait pas du tout.
+
+}
+[sha:f580dc92c7ab2fef6b9739d86d79a6d84a2b1013]{
+-- Page 8, Offset 7129.
+-- ……加えて、“触れられぬもの”“正体不明”という物語を原型としているのなら、見抜かれたが最後、呆気なく崩壊するのが筋というもの。
+  ...... De plus, s'il avait pour base des contes du genre “nature inconnue” ou “celui qui ne pouvait être touché”, alors si jamais le secret de sa nature venait à être percé, ce serait logique qu'il se désintègre instantanément.
+
+}
+[sha:d5d9a0f6579be0bb67f736e24ddcfbcbad15c273]{
+-- Page 9, Offset 7130.
+-- “……逆に言えば、見つければ私たちの勝ち。
+“...... Autrement dit, si on le découvre, on remportera la victoire.
+
+}
+[sha:121d4bf24bc5c816b6ffd7f86ac62226cfc075c5]{
+-- Page 9, Offset 7131.
+-- そんな<脆|もろ>いヤツが雑魚に紛れこむ？　木の葉を隠すなら森の中って言うけど―――”
+  Un type aussi faible se dissimulerait parmi le menu fretin ? C'est vrai que si on veut cacher un arbre, alors mieux vaut le faire dans une forêt―――”
+
+}
+[sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{
+-- Page 10, Offset 7132.
+-- この通り。
+  Comme ceci.
+
+}
+[sha:953be807ef1aaa95cf12b9e60147710c48775668]{
+-- Page 10, Offset 7133.
+-- 流れ弾であっさり吹き飛ぶ可能性がある以上、青子たちの前には現れない。
+  À partir du moment où il y avait la possibilité qu'il se fasse toucher par une balle perdue, il ne prendrait pas le risque de se montrer à découvert.
+
+}
+[sha:cd50c3a7db9026740c6faf01cede4eed319dad46]{
+-- Page 10, Offset 7134.
+-- スナーク本体はもっと安全な場所で、この遊園地を育てている。
+  Le vrai corps du Snark faisait grandir ce parc d'attractions depuis un lieu plus sûr.
+
+}
+[sha:8e8fe3b36971f2b79784da3029d1cd159528bc06]{
+-- Page 11, Offset 7135.
+-- “……でもどこかに見えているはず。
+“...... Mais on devrait pouvoir le voir quelque part.
+
+}
+[sha:748faa64a5b778cc5b1a877ea91cf559be024997]{
+-- Page 11, Offset 7136.
+-- スナークは本の主題だもの。<常|つね>に<視界|ページ>のどこかにいないと、主人公の資格がない―――！”
+  Après tout, le Snark est le sujet d'un livre. S'il n'est pas déjà présent dans l'une des pages, alors il n'est pas qualifié pour être le personnage principal―――!”
+
+}
+[sha:1124a8e12988ea03d78daf18389bd8b3edd09e2e]{
+-- Page 11, Offset 7137.
+-- それはどこか。
+  Dans ce cas, où se trouvait-il ?
+
+}
+[sha:bb4a3646f0e557e0955f5693fc2217e4bf0df07c]{
+-- Page 11, Offset 7138.
+-- 安易に考えるなら、あの観覧車がもっとも安全、かつ遊園地を象徴する“主題”だが―――
+  Si on considérait les choses simplement, la grande roue était le lieu le plus sûr et un “sujet” symbole du parc―――
+
+}
+[sha:c994d323b7fdb1ce698c80593633840621ceba2f]{
+-- Page 12, Offset 7139.
+-- 「あの子を捕まえるのは！？」
+「Aozaki, et si on attrapait cette fille ?!」
+
+}
+[sha:2fece4d711be757d8c1c51e2f6e7d2a8989ab599]{
+-- Page 12, Offset 7140.
+-- 突然の提案に目を見張る。
+  Elle écarquilla les yeux en entendant cette suggestion soudaine.
+
+}
+[sha:8221eec6c1f61fbd4c37121d2f06af8def8ed6bc]{
+-- Page 12, Offset 7141.
+-- 青子が打開策を思案していたように、草十郎もまた、彼なりに頭を巡らせていたらしい。
+  Pendant qu'Aoko réfléchissait à une solution pour se sortir de cette impasse, Sōjūrō semblait lui aussi faire travailler ses méninges.
+
+}
+[sha:f722dd0b882487181281aa845625af885aee25ba]{
+-- Page 13, Offset 7142.
+-- 草十郎の提案はシンプルだ。
+  La suggestion de Sōjūrō était toute simple.
+
+}
+[sha:35e86d6ada4c86f6a2d9cb7b6021e26ac3c6b15f]{
+-- Page 13, Offset 7143.
+-- スナークの本体が見つけられないのなら、その持ち主である有珠を倒せばいいのではないか。
+  Si on ne pouvait pas trouver le vrai corps du Snark, alors il suffisait de vaincre sa propriétaire, Alice.
+
+}
+[sha:f6a6cb09d024a97a6d079eff00cd3502cbb84a9d]{
+-- Page 13, Offset 7144.
+-- 有珠は時計台から動いていない。
+  Alice n'avait pas bougé de la tour d'horloge.
+
+}
+[sha:445d5a1949d27990ce4db99c0b862db93391fa5c]{
+-- Page 13, Offset 7145.
+-- ここからでも、月光に照らされる姿は目に入る。
+  Même de là, la silhouette éclairée par le clair de lune était visible.
+
+}
+[sha:56e88f4af62d86452bbebfd8c51a0a8318aea239]{
+-- Page 14, Offset 7146.
+-- 「それは一番ダメ！
+「C'est la pire chose à faire !
+
+}
+[sha:3c980e866692087823d763f82461092b9442b928]{
+-- Page 14, Offset 7147. Glued. Mods: @x.
+-- 有珠を殺してもフラットスナークは止まらないし、このトンデモが外にあふれだす事になる！
+Même si on tuait Alice, Flat Snark ne s'arrêterait pas, et cette monstruosité commencerait à se déverser à l'extérieur !
+
+}
+[sha:35cfd6e3f9491e097ed632098f2fe405a2d2ad2f]{
+-- Page 14, Offset 7148.
+-- だいたい、私じゃあの子を殺せないから！　よくて半殺しがいいところ！」
+  Et puis, je ne peux pas la tuer ! Au mieux, je pourrais la tuer à moitié !」
+
+}
+[sha:dc39429a725f11d4024c4de0f3e5cdc02493ac60]{
+-- Page 15, Offset 7149.
+-- 主人の悪口にいきりたったブレッドマンが、こんがり無惨に焼け焦げになる。
+  Les hommes-pains, en colère qu'on dise du mal de leur maîtresse, furent cruellement grillés.
+
+}
+[sha:17e573a7d164f87685b037d0db79514a02e2d46c]{
+-- Page 15, Offset 7150.
+-- ……じり、と背中をあわせて呼吸を整えるふたり。
+  ...... Se collant le dos l'un à l'autre, le duo reprit son souffle.
+
+}
+[sha:775369885a073d8a76bbdc8cc6675479d4e3f63b]{
+-- Page 15, Offset 7151.
+-- 目の醒めるような打開策は出ず、いよいよもって八方ふさがりになった状況に消沈する。
+  Leur cauchemar semblait ne jamais vouloir finir, et ils sentirent leur courage les abandonner en voyant qu'ils étaient encerclés de tous côtés.
+
+}

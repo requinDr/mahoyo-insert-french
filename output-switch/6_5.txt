@@ -1,0 +1,1146 @@
+[sha:a521a38a0fef3c26a33c320b891f8f5b725e3ec0]{
+-- Page 0, Offset 7804.
+-- 館の広さはかなりのものだった。
+  La taille du bâtiment était impressionnante.
+
+}
+[sha:e64f3cb9b0150a4105cec171629aa07c46a2ac93]{
+-- Page 0, Offset 7805.
+-- 三階建ての洋館は、部屋の数でも草十郎の住むアパートを上回っている。
+  Le manoir à deux étages surclassait l'immeuble où vivait Sōjūrō rien que par son nombre de pièces.
+
+}
+[sha:7d3565dd9eb494b209d7a0d1d2479706d2bf2f9c]{
+-- Page 0, Offset 7806.
+-- ただ、その広さは持てあまし気味だ。
+  Mais il avait la sensation qu'il était un peu trop grand pour deux personnes.
+
+}
+[sha:bf91f142dfa37da03cad3b3b7d3cb589670ff074]{
+-- Page 0, Offset 7807.
+-- 部屋数と住人の比率は合っていない。絨毯張りの廊下は、その豪華さとは裏腹に寒々しかった。
+  La grande quantité de chambres ne correspondait pas au nombre de ses résidents. Le couloir recouvert de moquette, de par sa morosité, jurait avec la splendeur de la demeure.
+
+}
+[sha:4fa00641608a9175f0722d8efa96c30bb403542e]{
+-- Page 1, Offset 7808.
+-- 草十郎が眠っていた客室は二階の東側にあった。
+  La chambre dans laquelle avait dormi Sōjūrō se situait au premier étage de l'aile est.
+
+}
+[sha:259108f5519da8be9b219318e6e21377e6269d79]{
+-- Page 1, Offset 7809.
+-- 一階に下りる階段はこの廊下の先、館の中央にあるらしい。
+  Apparemment, l'escalier menant au rez-de-chaussée était au bout du couloir, au centre du manoir.
+
+}
+[sha:de7afd0a485dbf11baa4c5b60969fd0c61469a7a]{
+-- Page 1, Offset 7810.
+-- 窓から差しこむ冬の日射しが、廃墟じみた廊下をいっそう寂しく見せている。
+  Les rayons du soleil hivernal pénétrant par les fenêtres donnaient au couloir, aux allures de bâtiment abandonné, un aspect d'autant plus désolé.
+
+}
+[sha:148069b4143bf0dc6bd73bb1aebc3834daa063f3]{
+-- Page 2, Offset 7811.
+-- 館の中央部は吹き抜けになっていて、そのまま一階の様子が見下ろせた。
+  La partie centrale du manoir se présentait en atrium : de là, on avait vue sur le rez-de-chaussée.
+
+}
+[sha:9c6e1229b1ba4d0da7a864ec51b09438db5589a7]{
+-- Page 2, Offset 7812.
+-- 階段は壁に<沿|そ>って造られている。
+  Il y avait des escaliers qui longeaient le mur.
+
+}
+[sha:746cbb6319407553b9d8267378648fdb0ee9412d]{
+-- Page 2, Offset 7813.
+-- 一階と二階を繋ぐ階段の他に、二階のホール裏には三階への階段もある。おそらく屋根裏に倉庫でもあるのだろう。
+  Outre celui qui reliait le rez-de-chaussée au premier étage, il y en avait un second de l'autre côté du couloir qui menait au deuxième. Il devait sûrement y avoir un grenier sous le toit.
+
+}
+[sha:289db922f7290859dc51a59ff3a4c81b2479b3e1]{
+-- Page 3, Offset 7814. Mods: @n.
+-- きょろきょろと見渡している草十郎をよそに、青子は慣れた足取りで階段を下りていく。
+  Aoko laissa derrière elle Sōjūrō qui promenait partout son regard curieux et descendit les escaliers d'une démarche assurée.
+
+}
+[sha:8aee484629dc6de73f6d5a72bd7e55231ee1fdf9]{
+-- Page 4, Offset 7815.
+-- ロビーは一転して白色と木の空間だった。
+  Dans le vestibule se mêlaient le bois et la couleur blanche des murs.
+
+}
+[sha:f067ecd946f58bc76bb0a3f8dc0c074b378186c3]{
+-- Page 4, Offset 7816.
+-- 天井からの日射しが木の床を明るく照らす。
+  Les rayons du soleil qui descendaient du plafond éclairaient le plancher en bois.
+
+}
+[sha:7f670d45513e66308a791a85c10118394f24e106]{
+-- Page 4, Offset 7817.
+-- 壁は一面の白色。一点の汚れもなく、高い壁をより堅固に見せている。
+  Tous les murs étaient de couleur blanche. L'absence de la moindre tache leur donnait un aspect encore plus inaltérable.
+
+}
+[sha:997d92521af851c2effbff2156702107031d170f]{
+-- Page 5, Offset 7818. Mods: @n.
+-- 二階に続く階段と、
+  L'escalier conduisait au premier étage,
+
+}
+[sha:0075b2d3681e0b45f9f170cd10e99021b70ef601]{
+-- Page 5, Offset 7819. Glued.
+-- 長らく使われていない暖炉。
+  et la cheminée n'avait pas servi depuis des lustres.
+
+}
+[sha:9c34be77405e2019ce830ccda7d7bda1355b4741]{
+-- Page 5, Offset 7820. Mods: @n.
+-- ぞんざいに放置された電話機と、
+  Le téléphone était laissé à l'abandon,
+
+}
+[sha:2e344993e81b2e4d421581db691358ca3e70e4f3]{
+-- Page 5, Offset 7821. Glued.
+-- 独りぼっちで時を刻む大時計。
+  tandis que la grande horloge solitaire marquait les secondes.
+
+}
+[sha:7ca3f8ee1454ac3da30c7e4aba3f87aff5cd5a76]{
+-- Page 5, Offset 7822.
+-- ここは洋館というより古城の様だ。
+  Cet endroit ressemblait plus à un manoir qu'à une maison occidentale classique.
+
+}
+[sha:d5fa9374a8f389a6f95ffd9a17cdc44561790003]{
+-- Page 5, Offset 7823.
+-- あまりの異世界っぷりに呆然としている草十郎に、青子は冷たい視線を向ける。
+  Aoko jeta un regard glacial vers Sōjūrō interloqué par le monde inconnu qui se trouvait sous ses yeux.
+
+}
+[sha:46a958c3ed5e0b0f8db84b93c6f5efff7df06b26]{
+-- Page 6, Offset 7824.
+-- 「居間はこっちよ。ぼさっとしない」
+「Le salon est par là. Ne reste pas planté là !」
+
+}
+[sha:5e13895c073e3a583a6d6c86c20db8647a5376da]{
+-- Page 6, Offset 7825.
+-- 彼女は階段横の扉に手を掛けた。
+  Elle poussa la porte à côté des escaliers.
+
+}
+[sha:7d994aa77550f6ba1b1384968c0dfb86b52aa37c]{
+-- Page 7, Offset 7826.
+-- ロビーには四つの扉があって、玄関から見て東側の扉が居間に続いているらしい。
+  Le vestibule disposait de quatre portes. Celle du côté est, à droite depuis l'entrée, menait de toute évidence au salon.
+
+}
+[sha:ea5ece12e891903cd22b67682e9580c4c4717555]{
+-- Page 7, Offset 7827.
+-- 反対側にある西の扉は館の左翼に。
+  La porte présente sur le côté opposé, à gauche, donnait sur l'aile ouest de la résidence.
+
+}
+[sha:d51baf268f74907d34e1a9632cd69f2d000813d2]{
+-- Page 7, Offset 7828.
+-- 南側の扉は玄関。
+  La porte sud correspondait à l'entrée.
+
+}
+[sha:e30797967af5ce5303167d9b063409714b115eb7]{
+-- Page 7, Offset 7829.
+-- 北側、暖炉の横にはさらにもう一つ。
+  Une autre se trouvait côté nord, près de la cheminée.
+
+}
+[sha:866deffc8cb0b23d0fa17df92e101aa95d5b92a2]{
+-- Page 7, Offset 7830.
+-- 階段の下に隠れている扉は浴場に続いているのだが、今の草十郎には知るよしもない。
+  Cette porte cachée sous les escaliers menait à la salle de bains, mais Sōjūrō n'avait aucun moyen de le savoir pour le moment.
+
+}
+[sha:089d9670823e9856d0c6bf17da8cbcf9e08d80c7]{
+-- Page 8, Offset 7831.
+-- 一階の廊下には窓がないため、全体的に薄暗い。
+  Comme le couloir du rez-de-chaussée était dépourvu de fenêtres, dans l'ensemble, il y faisait sombre.
+
+}
+[sha:14164f428e3de93526c3b8f4186f94dab5c79188]{
+-- Page 8, Offset 7832.
+-- さながら、二階は放置された診療所で、ロビーは日本とは思えない西洋の城。
+  Ainsi, le couloir du premier, évoquant une clinique abandonnée, et le vestibule, rappelant un château occidental, ne faisaient pas franchement penser au Japon.
+
+}
+[sha:9f76702975c671d0580383deaf5ed8809941decc]{
+-- Page 8, Offset 7833.
+-- そして一階廊下はホテルを思わせる窓なき迷路。
+  Et enfin, le couloir du rez-de-chaussée formait un dédale sans fenêtres semblable à un hôtel.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 9, Offset 7834.
+-- 「…………」
+「............」
+
+}
+[sha:6e207c07ab20a4e2708ea33d9a632711bfeafaae]{
+-- Page 9, Offset 7835.
+-- 都会に来て日が浅い草十郎にも、この洋館がただならぬものである事は感じ取れる。
+  Même Sōjūrō, arrivé depuis peu dans la ville, devinait que cette demeure n'était pas commune.
+
+}
+[sha:bc939a66335e4e3371d1733e90b5ac4f516929db]{
+-- Page 9, Offset 7836.
+-- 手放しで喜べないのは、そのお化け屋敷としばらく付き合う事になりそうだからだ。
+  Il lui était cependant impossible de montrer ouvertement sa joie, car il semblait condamné à devoir fréquenter ce manoir hanté pendant un moment.
+
+}
+[sha:844929ddf815222d815cd8ea96c2484aaa3cacaa]{
+-- Page 10, Offset 7837.
+-- 「そこが居間で、奥が厨房ね。簡単な料理ぐらいはできるようになってるから。
+「Ici, c'est le salon, et là-bas la cuisine. On peut y préparer facilement de bons petits plats.
+
+}
+[sha:707e8ee073710fbf799f988388e8aca8c0ccee8d]{
+-- Page 10, Offset 7838. Mods: @k, @e.
+-- 居間のとなりにはサンルームがあるんだけど、ここが食卓の代わり……
+  À côté du salon, il y a la véranda, mais elle sert aussi de salle à manger à l'occasion......
+
+}
+[sha:a4570f8b675ff446f4300930a7fd270788a852e4]{
+-- Page 10, Offset 7839. Glued. Mods: @x.
+-- って、そんなの後でいっか」
+Bah, je pourrai te l'expliquer après.」
+
+}
+[sha:7ce664d7a1d4f6d3473a26fe4d8d742c25859f18]{
+-- Page 10, Offset 7840.
+-- 言って、青子は暗い廊下の扉に手を掛ける。
+  dit Aoko en dirigeant sa main vers la poignée d'une des portes du couloir sombre.
+
+}
+[sha:e4b4a3c06676e1e89f6974c95e23d3444048f365]{
+-- Page 11, Offset 7841.
+-- ドアノブを回す<間際|まぎわ>。
+  Sur le point d'ouvrir la porte,
+
+}
+[sha:ce585addd4791e129440b3e8b93de50a4ca3e972]{
+-- Page 11, Offset 7842.
+-- 青子は意味ありげな<視線|コンタクト>を草十郎に送ったが、すぐに消した。
+  Aoko lança à Sōjūrō un regard éloquent, qu'elle dissimula rapidement.
+
+}
+[sha:22f5874bab90711fa102443c2ae8db49add83690]{
+-- Page 11, Offset 7843.
+-- ドアノブは待ったなしで回される。
+  Elle tourna la poignée de la porte sans attendre.
+
+}
+[sha:2b00a8588709e0df11a4a6f8867281f22ba4a2e6]{
+-- Page 12, Offset 7844.
+-- 「お待たせ。承諾したわよ、あいつ」
+「Nous voilà. Il a accepté.」
+
+}
+[sha:f865b200133aa35b2cd3643777d61f5eafd3a2e9]{
+-- Page 12, Offset 7845.
+-- 青子は居間に入りながら、中にいる有珠に語りかける。
+  En entrant dans le salon, Aoko s'adressa à Alice qui se trouvait à l'intérieur.
+
+}
+[sha:03068f64c22a9aadb3649257d96f22b22c5243aa]{
+-- Page 12, Offset 7846.
+-- 草十郎も少しだけ迷ってから、居間へと足を踏み入れた。
+  Après avoir un peu hésité, Sōjūrō pénétra aussi dans la pièce.
+
+}
+[sha:2b5a3709bfff3c3b4bc8bfc3055066c1cc889111]{
+-- Page 13, Offset 7847.
+-- 廊下とは違い、居間は思いのほか現代的だった。
+  Contrairement au couloir, le salon était plutôt moderne.
+
+}
+[sha:f6c6a1824f20cd702ae512082572ce44fe83716c]{
+-- Page 13, Offset 7848.
+-- 絨毯の敷き詰められた床も、革のソファーも、30インチの大きなテレビも、草十郎がこれまで知り得た一般家庭の趣きに満ちている。
+  Le sol recouvert de moquette, le sofa en cuir et la télévision de 30 pouces reflétaient ce charme typique des maisons ordinaires que Sōjūrō avait connu jusque-là.
+
+}
+[sha:0afc46485b3df9e80ed560d96799c2529514cae3]{
+-- Page 13, Offset 7849.
+-- その家庭的な居間のソファーに、家庭的な団らんとはかけ離れた少女が座っていた。
+  Sur ce sofa familial était assise une jeune fille qui dégageait une aura bien éloignée de celle d'un foyer accueillant.
+
+}
+[sha:2874858aeca80ce6bf62900f15a0b2933387c6f2]{
+-- Page 14, Offset 7850.
+-- 青子は黒い少女の向かいのソファーに座る。
+  Aoko s'assit dans le sofa en face de la jeune fille en noir.
+
+}
+[sha:b35e515a3de829191287c836f5785fda78f9aa64]{
+-- Page 14, Offset 7851.
+-- 草十郎に残された席は二つ。
+  Il restait deux places possibles pour Sōjūrō.
+
+}
+[sha:941ec4a16ac9620683bbb276aeba9e41cea2832b]{
+-- Page 14, Offset 7852.
+-- 蒼崎青子のとなりか、
+  À côté d'Aozaki Aoko,
+
+}
+[sha:e58b17ada6ba728633d446b3641865e3a46aa535]{
+-- Page 14, Offset 7853.
+-- 久遠寺有珠のとなりか。
+  ou à côté de Kuonji Alice.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 15, Offset 7854.
+-- 「…………」
+「............」
+
+}
+[sha:0bceef86e3ea05eb436ab9dcc180fa7da549f2e7]{
+-- Page 15, Offset 7855.
+-- 草十郎は二秒ほど悩んだ末、どっちも不吉な気がしたので壁ぎわで立つ道を選んだ。
+  Après avoir réfléchi environ deux secondes, les deux solutions lui paraissant sinistres, Sōjūrō préféra rester debout le long du mur.
+
+}
+[sha:eda49843dcc7c0a0a2d3278c76db7e6e36381596]{
+-- Page 15, Offset 7856.
+-- テーブルを挟んで青子と有珠は向き合っている。
+  Aoko et Alice se faisaient face de part et d'autre de la table basse.
+
+}
+[sha:7acbc43c9f90d6faa6de2018ad6bbd3d6b3260bb]{
+-- Page 15, Offset 7857.
+-- 何も載せられていない真っ平らなテーブルが、どことなく寒い。
+  Sa surface était nue et avait quelque chose de glacial.
+
+}
+[sha:f40aaac48ef91475f49959cb7105c8dc07d9f11f]{
+-- Page 16, Offset 7858.
+-- 「当事者も認めた事だし、これで何の問題もないわね、有珠」
+「Maintenant que la personne concernée a accepté, tout est réglé. Hein, Alice ?」
+
+}
+[sha:a33e9b87e3f768c16cffd19dbb0c80309cd92bff]{
+-- Page 16, Offset 7859.
+-- 青子の念押しに、有珠はこくんとうなずいた。
+  Alice acquiesça à l'allusion d'Aoko.
+
+}
+[sha:3335ee6e8779c64586be42b4f7446bdc41962251]{
+-- Page 17, Offset 7860.
+-- ……こうして壁ぎわから見ていると、目に見えない文句のぶつけ合いが手に取るようだ。
+  ...... En observant ainsi depuis le mur, il avait presque l'impression de pouvoir toucher les reproches invisibles qu'elles se renvoyaient l'une l'autre.
+
+}
+[sha:2925d9ca0e516517e9a47aa8c959682be018b835]{
+-- Page 17, Offset 7861.
+-- 彼女たちの間で、自分の扱いについて一波乱あったんだな、と今更ながら草十郎は感じ取った。
+  Elles ont dû se prendre le bec sur ce qu'elles allaient faire de moi, réalisa Sōjūrō un peu tard.
+
+}
+[sha:da1567d20ec97f21e970cc895604315a538fc364]{
+-- Page 18, Offset 7862.
+-- 「……そうね。原因も究明しないといけないし」
+「...... Oui. Il nous faut également déterminer précisément ce qu'il s'est passé.」
+
+}
+[sha:014b7aa579a64f090b6087019db50cd0ee852cd4]{
+-- Page 18, Offset 7863.
+-- <昏|くら>い色をした目が草十郎を流し見る。
+  Ses yeux de couleur sombre dévisagèrent Sōjūrō.
+
+}
+[sha:91ce27a8dbcd60b970c3afffd716078a94fd0ce0]{
+-- Page 18, Offset 7864.
+-- 視線と同じ<抑揚|よくよう>のない声。
+  Sa voix était aussi inexpressive que son regard,
+
+}
+[sha:d8905546d3875c5312b71dd95977a214952e53fc]{
+-- Page 18, Offset 7865.
+-- そのくせ、草十郎の同居を認めていない意志がありありと伝わってくる。
+  et pourtant, ils signifiaient clairement son désaccord concernant la cohabitation avec Sōjūrō.
+
+}
+[sha:492666b10e4d77f38b43dbc35e2cbde4d38998f8]{
+-- Page 19, Offset 7866.
+-- 「けれど、貴方はそれでいいの？
+「Mais tu es vraiment d'accord ?
+
+}
+[sha:0001db7b7707697522affd43de45652e496fab24]{
+-- Page 19, Offset 7867.
+-- 遊園地での事を忘れてはいないでしょう？」
+  Tu n'as pas oublié ce qui s'est passé au parc d'attractions, n'est-ce pas ?」
+
+}
+[sha:f9efbaee953b28a45dc0cae21c900ee1bf86f2e0]{
+-- Page 19, Offset 7868.
+-- 有珠の声には批難と、試しの色が混ざっている。
+  La voix d'Alice exprimait la réprobation et la mise à l'épreuve.
+
+}
+[sha:6745bf3533debcc074e08967b5f60cf8296be302]{
+-- Page 19, Offset 7869.
+-- 自分も青子も一般人からすれば危険物だ。そんな得体の知れない人間の<傍|そば>にいられるのか、と。
+  Aoko et elle étaient, du point de vue d'une personne normale, des êtres dangereux. Elle lui demandait donc s'il pouvait rester auprès de ce genre d'humains mystérieux.
+
+}
+[sha:42f68faf42e25d22dc933e21df523e23038e6b90]{
+-- Page 20, Offset 7870.
+-- 「そりゃあ夢だと思いこみたいけど、ちゃんと覚えてるし。できるだけ無事に済ませるには、これが一番<無難|ぶなん>そうだ」
+「J'aurais préféré que ça soit un rêve, mais je m'en souviens parfaitement. Et si je veux que cette histoire se termine de la façon la plus sûre pour moi, c'est ce qui semble le plus acceptable.」
+
+}
+[sha:3dc40410e431784185f7010bbd9ffa990b39e9dd]{
+-- Page 20, Offset 7871.
+-- なにより命の保証はされてるみたいだし、と。
+  “Et par ailleurs, on dirait que ma survie est assurée”, rajouta-t-il.
+
+}
+[sha:59d3f416cfcc7dbc1cc05440334fedb441fbd2d0]{
+-- Page 20, Offset 7872.
+-- 返答する草十郎に、有珠はそう、と無関心げに答えた。
+  “Je vois”, répliqua Alice d'un air indifférent à la réponse de Sōjūrō.
+
+}
+[sha:59739a6d47a953bcd527a5e1c528845724fd5c57]{
+-- Page 20, Offset 7873.
+-- そうして無言のまま、コトリ、とテーブルに小物を置く。
+  Puis, sans dire un mot, elle posa sur la table un petit objet.
+
+}
+[sha:67dec09e7629940cf7a68505a47428544b1ee783]{
+-- Page 21, Offset 7874.
+-- 白い指が置いた物は、<硝子|ガラス>の<小瓶|こびん>だった。
+  Ses doigts blancs avaient déposé une fiole en verre.
+
+}
+[sha:fb206951a0228194184a946cf4abb5696b44d85a]{
+-- Page 21, Offset 7875.
+-- ガラスは透明というより薄い青色をしていて、その色あいだけでも高級品だと見て取れる。
+  La couleur du verre, plutôt bleu pâle que transparent, montrait que c'était un objet de grande qualité.
+
+}
+[sha:7fbfc76fdc39a523446e9e499992ebef783bca74]{
+-- Page 21, Offset 7876.
+-- 有珠はその瓶の<蓋|ふた>を、鶴か何かを思わせる仕草で抜いた。
+  Alice retira le bouchon de la fiole avec la grâce d'un cygne.
+
+}
+[sha:881e16dc36b1ff57bda5b096be96b6db8e3fe806]{
+-- Page 22, Offset 7877.
+-- 『………………？』
+『..................?』
+
+}
+[sha:ac8f388b44402af4ee4e89619c6fc7cd486dc18c]{
+-- Page 22, Offset 7878.
+-- 草十郎にとっては初めて見る小瓶だったが、妙にひっかかる物がある。
+  Sōjūrō voyait cette fiole pour la première fois, mais quelque chose l'intriguait inexplicablement.
+
+}
+[sha:f83ae2a90a75ef578ee85d65b032ee0680d3b86f]{
+-- Page 22, Offset 7879.
+-- しかし悲しいかな、何がネックなのか思い当たらない。
+  Malheureusement, il ne parvenait pas à déterminer quoi.
+
+}
+[sha:8774d7bb218a43b59b8770b3a5b89cdb78745a9a]{
+-- Page 23, Offset 7880.
+-- 青子が<傍観|ぼうかん>を決めこんでいるのも気にかかる。
+  L'attitude indifférente d'Aoko l'inquiétait aussi.
+
+}
+[sha:aa69a32f7d925eb1c12fbb32ecbaa0a44cc1fe1e]{
+-- Page 23, Offset 7881.
+-- そんな、イヤな予感に気を張る草十郎に、有珠はもう一度視線を投げた。
+  Alice jeta de nouveau un regard à Sōjūrō, sur ses gardes suite à ce mauvais pressentiment.
+
+}
+[sha:7b6ae4be96e2a67a9fc4f002c874ed19bdb62317]{
+-- Page 24, Offset 7882.
+-- ……少女の瞳は、やはり魔的な感じがする。
+  ...... Ses yeux rendaient son expression maléfique.
+
+}
+[sha:e18d90e2edd0d5df89a9183cc2f0ece49146f544]{
+-- Page 24, Offset 7883.
+-- そんなコトを思っていた草十郎に、有珠は表情のない顔で呼び掛けた。
+  Alice, avec un visage inexpressif, appela Sōjūrō plongé dans ses réflexions.
+
+}
+[sha:0accc36356c699310aa6e8af1807d7f3e6af42de]{
+-- Page 24, Offset 7884.
+-- 「静希君」、と。
+「Shizuki.」
+
+}
+[sha:9537e4bc51ae763b9452773c2ca550ab0f863902]{
+-- Page 25, Offset 7885.
+-- {{{は―――い？}}}
+  {{{Ou―――i ?}}}
+
+}
+[sha:9c8de55817f096a05859d21a8a2dea7a7343cff4]{
+-- Page 25, Offset 7886.
+-- <囁|ささや>くような有珠の呼びかけに応えた瞬間。
+  Au moment même où il répondit au murmure d'Alice,
+
+}
+[sha:993894ab652fb604f91f8b5859e7873c145d6bc7]{
+-- Page 25, Offset 7887.
+-- <彼|・>の周囲の風景は、かくのように一変していた。
+  le paysage qui l'entourait changea du tout au tout.
+
+}
+[sha:8c3d12b5a283e6ca3941ee0183a1f87af63ccd8a]{
+-- Page 25, Offset 7888.
+-- 空気は色と形を持ったように<濁|にご>っている。
+  L'air était embrumé, comme s'il avait une forme et une couleur.
+
+}
+[sha:6496585fe4cad86851beae39d25c8e1dce923198]{
+-- Page 25, Offset 7889.
+-- 重く肌に<纏|まと>わりつく密度の濃さ、不自由さは、さながら空気が文字になったようだ。
+  Cet air dense, inconfortable, adhérait à la peau comme si l'atmosphère s'était alourdie.
+
+}
+[sha:fb6dbe41898e910387c7f71e2437c79503849bd5]{
+-- Page 26, Offset 7890.
+-- {{{、―――、、―――！}}}
+  {{{, ―――, , ―――!}}}
+
+}
+[sha:c7aed4a2c836f865bd9e4b0b3e8f56cf2cf7ceec]{
+-- Page 26, Offset 7891.
+-- 息を吸う口から、<文字|いぶつ>が肺に入る錯覚に襲われる。
+  Il fut assailli par l'illusion que des substances étrangères entraient dans ses poumons à chaque inspiration.
+
+}
+[sha:d3c8a53b37613f8bb4bd6e2990843725dbbf01a6]{
+-- Page 26, Offset 7892.
+-- 咄嗟に口を<塞|ふさ>ぐ右手も、胸を押さえる左手も、きちんと見えるのによく見えない。
+  Il voyait très bien, et pourtant, il ne distinguait pas clairement sa main droite et sa main gauche qu'il avait immédiatement bougées, respectivement vers sa bouche et sa poitrine.
+
+}
+[sha:ad34f2e613c01ef12f9b1905a6850dc839b7ffe5]{
+-- Page 26, Offset 7893.
+-- 山で出会った深い霧だって、ここまで意識を<拐|かどわ>かす事はなかったはずだ。
+  Même le brouillard dense qu'il rencontrait en montagne n'était pas censé troubler à ce point la conscience.
+
+}
+[sha:c99bcd780c7b84ef43f4795b93ba946a2e1e3f6d]{
+-- Page 27, Offset 7894.
+-- ―――喩えるなら、そう。
+  ―――S'il fallait donner un exemple :
+
+}
+[sha:7d8d1f2a2df72a2a24ecc937b09c78e69228c221]{
+-- Page 27, Offset 7895.
+-- まったく見当違いの比喩ではあるが、まるで生身のまま、<新|・><聞|・><紙|・><の|・><中|・><で|・>立っているような。
+  il était comme enfermé en chair et en os entre les pages d'un journal, bien que cette métaphore soit maladroite.
+
+}
+[sha:21fea1ba646de862e8f3f81c9dcb1429d4838883]{
+-- Page 28, Offset 7896.
+-- 味わった事のない方位感覚に、まず聴覚から慣れていく。
+  Son ouïe s'habitua la première à ces sensations inconnues.
+
+}
+[sha:75b198794d515bae30c87e0428e905a1c1e2a998]{
+-- Page 28, Offset 7897.
+-- 呼吸は普段通りだが、ざらついた圧迫感がある。
+  Sa respiration était normale, mais il se sentait vivement oppressé.
+
+}
+[sha:6ffb91705c730eb2aa92ae1101bab6f07ad15830]{
+-- Page 28, Offset 7898.
+-- 別に閉じこめられている訳ではないのに、この周りはひどく<狭|せま>い。
+  Il n'était pas emprisonné, et pourtant, les alentours lui semblaient terriblement exigus.
+
+}
+[sha:90d6e5103cbba8377ab5fadc504de645dad9b854]{
+-- Page 28, Offset 7899.
+-- 突然の異変に驚くより先に、その狭さから逃れるために手を伸ばしたほどだ。
+  Au point qu'il écarta les bras pour tenter d'échapper à cette étroitesse, avant même d'être surpris par le phénomène inhabituel.
+
+}
+[sha:7f6bf36bfeb8c8a69d2f735d26e12965cbdeca46]{
+-- Page 29, Offset 7900.
+-- けれど伸ばした手は<空|くう>を切るだけ。
+  Mais ses mains ne faisaient que brasser de l'air.
+
+}
+[sha:9bba2563b07773a58f8c21961c78e0da6161f259]{
+-- Page 29, Offset 7901.
+-- 周囲に壁はなく、これだけ見晴らしのいい場所で「狭い」と感じること自体、常軌を逸している。
+  Il n'y avait aucun mur aux alentours, et le fait même de se sentir “à l'étroit” dans un endroit si lumineux était déroutant.
+
+}
+[sha:7bed47090136021325690ec8a331a93a1e9d89f2]{
+-- Page 29, Offset 7902.
+-- 深い霧の日は神隠しに遭う―――
+  Ce sont les jours d'épais brouillard que les gens disparaissent mystérieusement―――
+
+}
+[sha:277bddfd352f6b81d120100e715c0a6d6998035e]{
+-- Page 29, Offset 7903.
+-- 山でのそんな<口伝|くでん>を信じていた<彼|・>ではなかったが、これは本当に神隠しの領域では、と思いかけて、
+  Il ne croyait pas à ces traditions orales de montagnards, mais il pensa que cela entrait vraiment dans cette catégorie.
+
+}
+[sha:e0b070490111012aa8db445c8305527a867a2ad9]{
+-- Page 30, Offset 7904. Mods: @k, @e.
+-- そこでようやく、
+  Et c'est alors qu'enfin,
+
+}
+[sha:6adb12d7c9ef09cd1e9e58d4c1e7f4237423d485]{
+-- Page 30, Offset 7905. Mods: @k, @e.
+-- 彼はもっと別の、
+  il se rendit compte d'autres choses,
+
+}
+[sha:1a6c3d101ca04e8b2799549485a1e3af30acab2c]{
+-- Page 30, Offset 7906.
+-- 驚かなくてはいけないコトに気が付いた。
+  pour lesquelles il avait vraiment des raisons d'être surpris.
+
+}
+[sha:6dafe9f7fa3c010cd2beb52315dceb17b85ae3d9]{
+-- Page 31, Offset 7907.
+-- そもそもの話、居間が別世界に一変した訳ではない。
+  Tout d'abord, le salon ne s'était pas vraiment changé en un autre monde,
+
+}
+[sha:123d76fbd449e5a524316d97666b7aeed3e2a114]{
+-- Page 31, Offset 7908.
+-- なぜなら霧ごしに見える景色は、間違いなく<彼|・>が先ほどまで居た居間の物だったし、
+  parce que le paysage qu'il pouvait apercevoir de l'autre côté du brouillard était manifestement la pièce où il s'était trouvé un instant auparavant,
+
+}
+[sha:b65fbd24490e2b3fda9c546ae36c3097854b1199]{
+-- Page 31, Offset 7909.
+-- その場にいた二人の少女―――蒼崎青子と久遠寺有珠の姿もきちんと見えている。
+  et il voyait très bien les filles qui y étaient présentes――Aozaki Aoko et Kuonji Alice.
+
+}
+[sha:21f4f000a310d09dcd4574653d6e190eb49f622c]{
+-- Page 31, Offset 7910.
+-- ただ、その見え方に問題があっただけだ。
+  Il y avait seulement un problème avec ce qu'il voyait.
+
+}
+[sha:fe57c4f674878fda16949a0d45f3411b712499e3]{
+-- Page 32, Offset 7911.
+-- 地面は黒い、真っ平らな地平だった。
+  Le sol noir s'étendait jusqu'à l'horizon.
+
+}
+[sha:38ee14052369a6cb343d2b6e98bbc8780fdfc450]{
+-- Page 32, Offset 7912.
+-- そこから見上げるようにして二人の姿が見える。
+  En levant les yeux, il pouvait distinguer leurs deux silhouettes.
+
+}
+[sha:bc6e6a29c1d1690732bf44a53416b0f3f8a6a8a2]{
+-- Page 32, Offset 7913.
+-- 現実味のない、入道雲の様に大きな少女が、冷たい瞳を向けている。
+  Les deux filles, irréelles et immenses comme de gigantesques nuages, tournaient vers lui des yeux froids.
+
+}
+[sha:0a2235df72ea7f6ea51e477a9d031ecdb09dcc16]{
+-- Page 33, Offset 7914.
+-- 部屋の構造、そこにあった家具の位置関係を思い出し、<彼|・>は信じがたい素直さで、この事態を把握した。
+  Il se rappela de la structure de la pièce, la position des meubles présents, et accepta finalement les faits avec une étonnante crédulité.
+
+}
+[sha:e146b7f745157b5d12af876df5de8d92dd005019]{
+-- Page 33, Offset 7915.
+-- あの遊園地でのパレードを経験しておいて、なお信じられない、と頭を抱えそうだが。
+  Il était sur le point de ne plus savoir quoi faire devant cette situation plus incroyable encore que la parade du parc d'attractions.
+
+}
+[sha:49e4787bba51d25be984a8e35a8be5996e0faa2c]{
+-- Page 33, Offset 7916.
+-- <此|・><処|・>は間違いなく、久遠寺有珠が取り出した小瓶の中であるらしい。
+  Il se trouvait de toute évidence à l'intérieur de la fiole que Kuonji Alice avait sortie.
+
+}
+[sha:4e714129a35b1f0f6f81080f1e6c1de465f92982]{
+-- Page 34, Offset 7917.
+-- 「<図|はか>らずも」
+「Tu aurais pu prévenir avant de faire ça.」
+
+}
+[sha:139ee0ae0cac1652e9df95ed4687d3b01ef6e1b4]{
+-- Page 34, Offset 7918.
+-- 青子は有珠の性根の悪さに呆れながら、テーブルに置かれた小瓶をチラ見する。
+  Blasée par le mauvais caractère d'Alice, Aoko jeta un coup d'œil au petit récipient posé sur la table.
+
+}
+[sha:25b62076acdfe1632c50e2e85790fcdeb42ba0c4]{
+-- Page 34, Offset 7919.
+-- 「二日前の夜と同じ状況になったわね。
+「Il est dans la même situation qu'il y a deux nuits.
+
+}
+[sha:fe7f1f3f0810e8a296c5b20977005fd8746a56fc]{
+-- Page 34, Offset 7920.
+-- 今回、<草十郎|ソイツ>は起きてるけど」
+  Sauf que cette fois, il est réveillé.」
+
+}
+[sha:4406d4e6fedfc1774da28253edf1ee8828805ab6]{
+-- Page 35, Offset 7921.
+-- 淡々と青子は語った。
+  déclara Aoko indifférente.
+
+}
+[sha:e339af49d27076ece639e78166b96921652758fb]{
+-- Page 35, Offset 7922.
+-- 有珠はというと、小瓶には視線も落とさず、目前の青子を見つめている。
+  Alice, quant à elle, regardait Aoko sans la moindre attention pour la petite fiole.
+
+}
+[sha:9d004a58a1a0a80cd4172f3225bc08fa3ccc5198]{
+-- Page 36, Offset 7923.
+-- 「……意外ね。青子は怒ると思ってたのに」
+「...... C'est étonnant. Je pensais que tu t'énerverais.」
+
+}
+[sha:016b9ae842b0a314a979f6187123d5cd685b75e2]{
+-- Page 36, Offset 7924.
+-- 「いや、私も似たようなコト考えてたから。
+「Non, moi aussi, j'avais quelque chose de similaire en tête.
+
+}
+[sha:5f6cfba2148b76f4cdf87ae517e792c06c0c2835]{
+-- Page 36, Offset 7925.
+-- 少しは魔術ってもんを思い知らせておかないと困るでしょ。
+  Ça risque de provoquer des complications si on ne lui fait pas réaliser ce qu'est la Magie, après tout.
+
+}
+[sha:e44d2d65e8979e796177d8526833442a5547161b]{
+-- Page 36, Offset 7926. Glued. Mods: @x.
+-- 有珠がやってくれるなら止めはしないし<怒|おこ>りもしないわ。
+Si tu veux t'en charger, je ne t'en empêcherai pas et je ne m'énerverai pas.
+
+}
+[sha:011c66e40c13de541d3d3eca2c84919feabe8168]{
+-- Page 36, Offset 7927.
+-- ……ま、こっちが予定していたものより何倍もメチャクチャだけど」
+  ...... Enfin, tu vas beaucoup plus loin que ce que j'avais prévu.」
+
+}
+[sha:bd6c2bece6e783cf80e87b9134846094e6a2d94b]{
+-- Page 37, Offset 7928.
+-- 言いつつ、青子は小瓶から視線を外さない。
+  dit Aoko sans lâcher la fiole des yeux.
+
+}
+[sha:fc75e68701351df36fc81a8fc11c15e79a1de6d4]{
+-- Page 37, Offset 7929.
+-- 有珠の魔術に無関心を装っているものの、興味を隠しきれていない。
+  Même si elle prétendait être indifférente à la Magie d'Alice, elle ne parvenait pas à cacher sa curiosité.
+
+}
+[sha:0410411755b5be059839916d4df4e572af4f04b3]{
+-- Page 38, Offset 7930.
+-- 小瓶の中の人影はようやく事態が飲みこめたのか、バタバタと手を伸ばしたり、全力で走ってみたり、色々と試行錯誤しているように見えた。
+  La silhouette à l'intérieur du flacon semblait enfin avoir compris sa situation et faisait toutes sortes de tests infructueux, par exemple écarter les bras ou courir de toutes ses forces.
+
+}
+[sha:16aabe09421114901777ccdf17dc1331997bb3b9]{
+-- Page 38, Offset 7931.
+-- 小瓶の表面が<濁|にご>っているため、<外|そ><界|と>からでは<瓶|なか>の様子はぼんやりとしか分からない。
+  Comme la surface de la fiole était trouble, on ne pouvait voir qu'imparfaitement ce qui se passait à l'intérieur.
+
+}
+[sha:baea239e40a967d4571f0839692e5896920ab38a]{
+-- Page 39, Offset 7932.
+-- 「……ところで、これって私にくれたヤツとは別物みたいだけど」
+「...... Au fait, on dirait qu'elle est différente de celle que tu m'as donnée.」
+
+}
+[sha:4a33bd447805c0263e99c0b8f429dedf55a38d39]{
+-- Page 39, Offset 7933.
+-- 「アレより作りは細かいわ。
+「Parce que sa construction est plus soignée.
+
+}
+[sha:7078f20833648bc79ff06907a3b6040b9984ce25]{
+-- Page 39, Offset 7934. Glued. Mods: @x.
+-- 青子にあげたのは使い捨ての、隔離するだけの物よ。コレはお互いの声も聞こえるから」
+La tienne était seulement destinée à la séquestration et à être jetée après utilisation. Avec celle-ci, on peut communiquer avec l'intérieur.」
+
+}
+[sha:b3f17fb4afa6df1000920f165829bc2f2a125f20]{
+-- Page 40, Offset 7935.
+-- 「へえ。けど、そのわりには何の反応もないわね」
+「Hein ? Pourtant, il ne réagit pas beaucoup.」
+
+}
+[sha:fa0d0a30c1512a2a700dc3321dc5edffadf16b77]{
+-- Page 40, Offset 7936.
+-- 「青子には聞こえないだけよ」
+「C'est juste que tu ne peux pas l'entendre.」
+
+}
+[sha:2a5785bedbb61a9eeb2dfd99add16a9f80f6b806]{
+-- Page 40, Offset 7937.
+-- 平然と言って、有珠は小瓶へ視線を落とした。
+  dit stoïquement Alice, avant de porter son regard sur la fiole.
+
+}
+[sha:099ea746c79e31f7c268d0e159f83c801fd12f20]{
+-- Page 40, Offset 7938.
+-- 同時に人影の動きが止まる。
+  Au même moment, les mouvements de la silhouette cessèrent.
+
+}
+[sha:e3013ace54e67ae480ae24d83f3a1bdf798a3c6a]{
+-- Page 40, Offset 7939.
+-- どうやら有珠だけが、小瓶の中の別世界と関わりが持てるようだ。
+  De toute évidence, seule Alice pouvait entrer en contact avec l'autre monde à l'intérieur du flacon.
+
+}
+[sha:808122708f7211b37215ee28e1fa4dc691933546]{
+-- Page 41, Offset 7940.
+-- 『……なんだ、術者にしか特典はないんだ』
+『...... Donc, seul l'utilisateur a droit à tous les avantages.』
+
+}
+[sha:77635160b6c9c6b05bf21097d2120d6678d90625]{
+-- Page 41, Offset 7941.
+-- つまらなそうに<嘆息|たんそく>する青子。
+  soupira Aoko d'un air ennuyé.
+
+}
+[sha:2c247cd875690c10c08f6b8d69bab0f59bf41d93]{
+-- Page 41, Offset 7942.
+-- そんな青子をよそに、有珠は誰に話しかけるのでもなく口を開けた。
+  À côté d'elle, Alice ouvrit la bouche sans mot dire.
+
+}
+[sha:ff4e7ef2f346969e0e570cd43ff4aa4ac9791ad2]{
+-- Page 42, Offset 7943.
+-- 「どう？　これでも一番、無難だと思う……？」
+「Alors ? Tu penses toujours que c'est le plus acceptable......?」
+
+}
+[sha:88ea897b8b115035ed2d38189470dd191109e5ea]{
+-- Page 42, Offset 7944.
+-- 語りかける相手は、言うまでもなく小瓶の中の人影だ。
+  La personne à qui elle s'adressait était évidemment la silhouette qui se trouvait dans la fiole.
+
+}
+[sha:2e4b953123771a540b760d3e223ee9194b69678e]{
+-- Page 42, Offset 7945.
+-- 先ほどの会話。
+  C'était le sujet de la conversation précédente.
+
+}
+[sha:6d9047280500c915ff1310b514d2009c5167b241]{
+-- Page 42, Offset 7946.
+-- この洋館に住む事が無難だと言った彼の言葉を、少女はこんなカタチで確認しているのだ。
+  Elle vérifiait de cette façon les propos du garçon selon lesquels vivre dans ce manoir était acceptable.
+
+}
+[sha:89fc7c70b8f6b9d3ea32ae81ea3d90822a3a466a]{
+-- Page 43, Offset 7947.
+-- 『……いきなり小瓶に閉じこめて聞き返すあたり容赦ないというか……この子の洋館への執着も問題よね……』
+『...... Elle est sans pitié pour l'enfermer sans crier gare dans une fiole et pour insister ainsi...... Son attachement à ce manoir pose vraiment problème......』
+
+}
+[sha:3071c15a6ca901b33c36fd99e84b05eb9ece0e24]{
+-- Page 43, Offset 7948.
+-- が、目撃者をミラーハウスに誘いこんで、正々堂々と殺し合いをしよう、と提案した自分が批難できる事でもない。
+  Mais étant la personne qui avait suggéré d'attirer le témoin dans le palais des glaces et de le tuer de façon honnête et loyale, elle ne pouvait pas lui reprocher sa conduite.
+
+}
+[sha:1c21cfd6b8d1f1e31cd4960ca667f3ef893c2fb4]{
+-- Page 43, Offset 7949.
+-- 青子は有珠が感情的になって手をあげないよう注意しつつ、あくまで傍観者として事の顛末を見定めている。
+  Même si Aoko veillait à ce qu'Alice ne fasse rien d'inconsidéré sous le coup de l'émotion, elle se contentait d'observer les faits en tant que simple spectatrice.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 44, Offset 7950.
+-- 「――――――」
+「――――――」
+
+}
+[sha:41baaf5f50c2e593359380accbe3c6e154051736]{
+-- Page 44, Offset 7951.
+-- 少し間をおいて、有珠の表情が変化した。
+  Quelques instants plus tard, l'expression d'Alice changea.
+
+}
+[sha:06316c260233b2f5d89f95623024350d5b3102ad]{
+-- Page 44, Offset 7952.
+-- 少女の問いかけに、人影は何らかの返答をしたらしい。
+  La silhouette semblait avoir donné une réponse à la question de la jeune fille.
+
+}
+[sha:3ae2155b1f487ea37e98e3b67659f0f5f262a75b]{
+-- Page 44, Offset 7953.
+-- 小瓶の中の様子を探れない青子には彼がなんと返答したかは分からない。
+  Aoko ne pouvait pas observer l'intérieur de la fiole et, par conséquent, ne savait pas ce que Sōjūrō avait répondu.
+
+}
+[sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
+-- Page 44, Offset 7954.
+-- ただ、
+  Seulement,
+
+}
+[sha:820f4d57c7cd555287008d7ee373e9561894d064]{
+-- Page 44, Offset 7955.
+-- 相方がああいう顔をしている時は、完膚無きまで、相手の言い分が正しかった時なのだった。
+  sa partenaire affichait cette expression qu'elle avait lorsque le point de vue de son interlocuteur était parfaitement juste.
+
+}
+[sha:e458efe096aa5dcabb4027d48cc07f4fc115cd3f]{
+-- Page 45, Offset 7956.
+-- 「……わたしが言える事でもないけど」
+「...... Je ne suis pas vraiment la mieux placée pour dire ça, mais...」
+
+}
+[sha:aab61d73181e1c71e14ee03f97b171ded1ab8185]{
+-- Page 45, Offset 7957.
+-- 少女は一瞬、青子を<一瞥|いちべつ>する。
+  Elle regarda un instant Aoko.
+
+}
+[sha:592efb2840540c2d2226ca65ccba65dd5cf8a547]{
+-- Page 45, Offset 7958.
+-- 有珠はかすかにかぶりをふって小瓶に手を伸ばし、
+  Alice secoua légèrement la tête puis tendit la main vers la fiole,
+
+}
+[sha:2d291ee7674bcba77205ad59d65646cd8ae80dc5]{
+-- Page 45, Offset 7959.
+-- 「……本当。物好きね、静希君は」
+「...... tu es vraiment un phénomène, Shizuki.」
+
+}
+[sha:bb331875718a9817c4f1f1d05cd41f8c19eb434d]{
+-- Page 45, Offset 7960.
+-- <憂鬱|ゆううつ>げなため息のように、彼の名前を口にした。
+  et elle prononça son nom dans un soupir déprimé.
+
+}
+[sha:63b07378c145de075dee4e4ed74b66b98e8d4b18]{
+-- Page 46, Offset 7961.
+-- <蓋|フタ>が抜かれた瞬間、居間の空気がわずかに揺れた。
+  Au moment où elle retira le bouchon, l'atmosphère du salon se distordit légèrement.
+
+}
+[sha:e95a1a363697f25d0fa512bc6256a00d3baa3222]{
+-- Page 46, Offset 7962.
+-- かと思うと、先ほどまで壁際に影だけ映していた少年が、<憮然|ぶぜん>とした顔で壁に寄りかかっていた。
+  C'est alors que le garçon, dont la forme se reflétait le long du mur quelques instants plus tôt, s'appuya contre celui-ci d'un air mécontent.
+
+}
+[sha:fd988ba250a7e48c342bfc5b13de18146b5bd936]{
+-- Page 46, Offset 7963.
+-- ちょうど自分の背後にいる草十郎へ、青子は片肘をついたまま振り向く。
+  Aoko se retourna avec un geste du coude vers Sōjūrō qui se trouvait juste derrière elle.
+
+}
+[sha:3eedb42b9aae232b80292afd00427e67ebb3634a]{
+-- Page 47, Offset 7964.
+-- 「どう、気分は？」
+「Alors ? Comment te sens-tu ?」
+
+}
+[sha:cc18207c201db5bb973f1dce63ddd706d395d891]{
+-- Page 47, Offset 7965.
+-- 「見ての通り、めちゃくちゃだ」
+「Comme tu peux le voir, complètement retourné.」
+
+}
+[sha:334d9d9247b539337152229e2cfe6b9977bc8b83]{
+-- Page 47, Offset 7966.
+-- 草十郎は柄にもなく敵意をむき出しにしていた。
+  Sōjūrō montrait de façon inhabituelle son mécontentement.
+
+}
+[sha:7eca4481d0544eb5b2ef058bb6bee712d21cbf56]{
+-- Page 47, Offset 7967.
+-- <怯|おび>えや驚きではなく怒っているあたり、相変わらず謎なヤツ、と青子は思う。
+  Il est toujours aussi énigmatique : se mettre en colère au lieu d'être surpris ou effrayé, pensa Aoko.
+
+}
+[sha:7d213fea0f893a1e264cdf8265c7e7fcdfe172c8]{
+-- Page 48, Offset 7968.
+-- 「……夢で似たようなものを見てなかったら、今ごろ心臓が止まってたところだ。そこはついてたと思う。
+「...... Si je n'avais pas vu en rêve quelque chose de similaire, à l'heure actuelle, mon cœur aurait déjà cessé de battre. Sur ce point-là, j'ai eu de la chance.
+
+}
+[sha:a4953ea27720a3e7b9e8442ef0db8b7b1e5e15cc]{
+-- Page 48, Offset 7969. Mods: @k, @e.
+-- 信じられないのは、なんでいちいち実践するかって事だ。魔術は恐いものなんだって言えば済むだろうに。
+  Ce que je n'arrive pas à croire, c'est que vous mettiez la Magie en pratique à la moindre occasion. Il aurait suffi de me dire que c'est quelque chose d'effrayant.
+
+}
+[sha:03d595c7e445cfd6413a066185eff6e1b8f366a8]{
+-- Page 48, Offset 7970. Glued. Mods: @x.
+-- それと、ぶっそうな蒼崎の声、聞こえてたぞ」
+Et aussi, j'ai entendu ta voix menaçante, Aozaki.」
+
+}
+[sha:a2bb47ec5d687dfc6afba8f8b73d740e72a2f2f5]{
+-- Page 49, Offset 7971.
+-- 「ぶっそうで悪うございました。
+「Désolée qu'elle soit menaçante.
+
+}
+[sha:d5aaf8782b9156128af99758bb9764ebf244dc14]{
+-- Page 49, Offset 7972. Glued. Mods: @x.
+-- けど、言葉じゃなくてきちんと実感してもらいたかったのは本当よ。
+Mais c'est vrai que je voulais que tu le réalises clairement, et pas seulement avec des mots.
+
+}
+[sha:674bdb0b543afdcc2b49ab722d30f75d9992659e]{
+-- Page 49, Offset 7973.
+-- どう？　魔術ってもんを甘く見てたでしょ、草十郎？」
+  Alors ? Tu sous-estimais la Magie, n'est-ce pas ? Sōjūrō.」
+
+}
+[sha:88e9f4c4fd28bdf45d64a1174909a279dff1b7c3]{
+-- Page 50, Offset 7974.
+-- 不本意ながらも、むう、と納得する草十郎。
+  Bien qu'à contrecœur, Sōjūrō reconnut que c'était vrai.
+
+}
+[sha:369f64f70f8d3c65165fca4a98c96100e85199b6]{
+-- Page 50, Offset 7975.
+-- 彼の場合、『甘く見ていた』と言うより『分かっていなかった』と言う方が正しいのだが。
+  Mais dans son cas, il était plus juste de dire qu'il “ne comprenait pas” plutôt qu'il la “sous-estimait”.
+
+}
+[sha:29f49da36540ace833d5fd0d1d03b8d93ab549a1]{
+-- Page 51, Offset 7976.
+-- 「けど、実感うんぬん言われても困る。
+「Après tout, c'est loin d'être évident.
+
+}
+[sha:30998df33c09ae6e70842bab74e6c059c6b83f35]{
+-- Page 51, Offset 7977.
+-- これまでの蒼崎の無茶っぷりと、今の訳の分からなさはとても比べられない」
+  Les trucs complètement fous que tu as faits jusqu'à maintenant et le phénomène incompréhensible qui vient d'avoir lieu sont sans commune mesure.」
+
+}
+[sha:fde93c13369492cf6b6c285ad3027f6c8ad06bac]{
+-- Page 51, Offset 7978. Mods: @n.
+-- 「ちょ、
+「Att-,
+
+}
+[sha:eced049e7127f203bcc61f48a2d3794b6e7579fb]{
+-- Page 51, Offset 7979. Glued.
+-- そりゃそうよ、有珠と比べないでよね。
+ c'est évident, ne me compare pas à Alice.
+
+}
+[sha:b2b433d5f3933db936c73c60e7ac39bdb1b306b7]{
+-- Page 51, Offset 7980.
+-- 有珠の魔術は私たちの中でもデタラメで、もう言葉にできないぐらい最悪なんだって言ったでしょ」
+  Je t'ai bien dit que la Magie d'Alice est la plus aberrante d'entre toutes, elle est si terrible qu'il n'y a pas de mots pour la décrire.」
+
+}
+[sha:09f84f734391533b0a2f9f0b4adf79f31b9d0279]{
+-- Page 52, Offset 7981.
+-- 「……失礼ね。人命を<脅|おびや>かす、という点なら青子の方がよっぽど酷いと思うけど。
+「...... C'est offensant. Je pense que la tienne est une bien plus grande menace pour la vie d'autrui.
+
+}
+[sha:4f206f7865c6f2f38e61e4957fc237a319b7c75c]{
+-- Page 52, Offset 7982.
+-- それより貴女、本当に彼を殺す気はあったの？
+  À part ça, tu avais vraiment l'intention de le tuer ?
+
+}
+[sha:9f953d494003ff8e0d78f50feb572a80326edfe4]{
+-- Page 52, Offset 7983.
+-- 一体どんな追いつめ方をすれば、蒼崎ならたぶん安全、なんて言葉が返ってくるのかしらね」
+  Je me demande vraiment de quelle façon tu le poursuivais pour qu'il affirme être en sécurité avec toi.」
+
+}
+[sha:875e3a16dedfa2490ce8065b6eef1f1d6e6ba982]{
+-- Page 53, Offset 7984. Mods: @n.
+-- 「そ―――
+「É―――
+
+}
+[sha:ccb6fc1b8b38d4eb931e85a0aee8cdab4f2a5723]{
+-- Page 53, Offset 7985. Glued.
+-- そんなのあったに決まってるでしょ！
+Évidemment que j'en avais l'intention !
+
+}
+[sha:3c66582a05e4bebbacd1a4120effe20a0e4f4eca]{
+-- Page 53, Offset 7986. Glued. Mods: @x.
+-- コイツがなんて言ったか知らないけど、ぜったい意味違うから！
+Je ne sais pas ce qu'il a dit, mais tu l'as forcément mal interprété !
+
+}
+[sha:a3a5e22f02ad28befd9e2f2496a0b3f86ce6b810]{
+-- Page 53, Offset 7987.
+-- <草十郎|コイツ>はね、そもそも何が危ないのか<火傷|ヤケド>するまで気付かない……
+  Ce type ne réalise pas ce qui est dangereux avant de s'être brûlé les doigts......
+
+}
+[sha:e21f5d569b895d1ae89c02a2816432376bf65ba0]{
+-- Page 53, Offset 7988. Glued. Mods: @x.
+-- っていうか、火傷しても“よし、死ななきゃ安い”なんて本気で思っちゃう天然ボケなのっ！
+Ou plutôt, c'est un simple d'esprit qui, même en se brûlant, penserait sérieusement que ce n'est pas cher payé tant qu'il n'en meurt pas.
+
+}
+[sha:218930b195fefc8e8dbcb113f74bf7de2d4be7a1]{
+-- Page 53, Offset 7989.
+-- ね、そうでしょ草十郎！？」
+  Pas vrai, Sōjūrō ?!」
+
+}
+[sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
+-- Page 54, Offset 7990.
+-- 「え？」
+「Hein ?」
+
+}
+[sha:8b1530a9c4dc7bc2c25ccf4e4fbeb00a9647f902]{
+-- Page 54, Offset 7991.
+-- とつぜん怒鳴られ、よく分からないクセに「うん、まあ」とうなずく天然なんとか。
+  Un certain idiot, soudainement houspillé, acquiesça avec un “oui, eh bien...” alors qu'il était un peu perdu.
+
+}
+[sha:6fcdbc161fa519e7ac3f7ca14c979668e6a2a7bf]{
+-- Page 54, Offset 7992.
+-- 居間は騒がしいコトこの上ない。
+  Le salon était on ne peut plus bruyant.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 54, Offset 7993.
+-- 「………………」
+「..................」
+
+}
+[sha:9f83001b6ffd833cf2f2f61ee3c09c5bdb1c439e]{
+-- Page 54, Offset 7994.
+-- そんなふたりを、有珠は<呆|あき>れたように見つめていた。
+  Alice regardait fixement ces deux-là d'un air las.
+
+}

@@ -1,0 +1,594 @@
+[sha:5b05221fc2f5b3d5b155ceace4dc959b5a443cb4]{
+-- Page 0, Offset 15189.
+-- 電話が鳴った。
+  Le téléphone sonna.
+
+}
+[sha:786292defe3585dc4f8c984fdf2cace76e2dd5e1]{
+-- Page 0, Offset 15190.
+-- 草十郎にとって二回目にあたる電話の音は、深夜のロビーに寒々しく響き渡った。
+  Sōjūrō entendit pour la deuxième fois la sonnerie retentir lugubrement dans le vestibule en cette heure tardive.
+
+}
+[sha:25703dcd361be2e32b0f71d273de28546c6c83d7]{
+-- Page 0, Offset 15191.
+-- 有珠の電話から、まだ数分と経っていない。
+  Il ne s'était passé que quelques minutes depuis l'appel d'Alice.
+
+}
+[sha:17f5db68b36e8dba125d82225ed3496332160020]{
+-- Page 0, Offset 15192.
+-- 彼女の用件はなんだったのか。
+  Que voulait-elle ?
+
+}
+[sha:a961535971728c00543e5f52a0417bc27c809fcb]{
+-- Page 0, Offset 15193.
+-- ひとり考えこむ草十郎の目を覚ますように、コール音は鳴り響く。
+  La sonnerie avait retenti comme pour réveiller Sōjūrō, plongé dans ses réflexions.
+
+}
+[sha:9258f43c8d2fdc0ae9873910259a7e8d3990e2e1]{
+-- Page 1, Offset 15194.
+-- 「はい、久遠寺ですが」
+「Oui, vous êtes bien au manoir Kuonji.」
+
+}
+[sha:37921a7af1764313cb8b7cdb2b354fdf7a8840ac]{
+-- Page 1, Offset 15195.
+-- 「あら、その声は草十郎くん？」
+「Tiens, cette voix, Sōjūrō ?」
+
+}
+[sha:c07c6295bc344166fb823c53b37dc1a1be915c27]{
+-- Page 1, Offset 15196.
+-- また有珠からの電話では、という草十郎の予想を裏切る明るい声。
+  Une voix joyeuse trahit les attentes de Sōjūrō qui avait cru à un nouvel appel d'Alice.
+
+}
+[sha:95fd326860ce085c4f10602da8ad225823358b4e]{
+-- Page 1, Offset 15197.
+-- 声の主は蒼崎橙子で、予想外の相手に草十郎はかすかに当惑……はしなかった。
+  La voix appartenait à Aozaki Tōko. Sōjūrō ne s'attendait pas à l'avoir au bout du fil, ce qui le rendit légèrement perplexe...... ou pas.
+
+}
+[sha:ef0b0cfe7b65f0c09b2a16ed09ac803de97cfed7]{
+-- Page 2, Offset 15198.
+-- 「そうですけど。橙子さん、暇なんですか？」
+「Oui, c'est bien moi. Mais dites-moi, Tōko, vous avez du temps libre ?」
+
+}
+[sha:cfe0a6396f0ef772fb5df07bc1d35643b1529f8a]{
+-- Page 2, Offset 15199.
+-- たしかもうじき午前零時になるな、と草十郎は時計を確認する。
+  Si je ne me trompe pas, il est presque minuit, songea Sōjūrō en vérifiant l'horloge.
+
+}
+[sha:54ab66c36494f995d5d61c234ec6d82c8bd70625]{
+-- Page 2, Offset 15200.
+-- ここ一番でも緊張感のない男である。
+  Même dans cette situation, ce jeune homme ne ressentait pas de nervosité.
+
+}
+[sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
+-- Page 3, Offset 15201.
+-- 「っ―――」
+「Pff―――」
+
+}
+[sha:9f2ca930e0db79680b02fac40af20194c7321111]{
+-- Page 3, Offset 15202.
+-- 受話器の向こうでは、笑いをこらえる息遣い。
+  À l'autre bout du fil, son interlocutrice se retenait de rire.
+
+}
+[sha:dabee88167576b8ba05f8e4221495588f757d333]{
+-- Page 3, Offset 15203.
+-- しばらくの呼吸困難の後、橙子はようやく落ち着いて会話を再開した。
+  Après quelques secondes de respiration laborieuse, Tōko se calma enfin et reprit la conversation.
+
+}
+[sha:93267ba9b44b8775a30495a31a390ce943d0ec8d]{
+-- Page 4, Offset 15204.
+-- 「ごめんなさい、ちょっとツボはいっちゃったみたい。
+「Désolée, tu as touché mon sens de l'humour.
+
+}
+[sha:14011c22ac050484770f624b0c630c55cf62addf]{
+-- Page 4, Offset 15205.
+-- で、質問の返しね。これがあんまり暇じゃないな。私も今日で終わらせる予定だから忙しいんだ」
+  Donc, pour répondre à ta question, je dois t'avouer que je n'ai pas vraiment de temps libre. Je prévois même d'en finir aujourd'hui, alors je suis occupée.」
+
+}
+[sha:f05eab899d87f681210d780f4906c828d4af2c4c]{
+-- Page 4, Offset 15206.
+-- 「偶然ですね。蒼崎もそんな事を言ってました」
+「Drôle de coïncidence. Aozaki a dit la même chose.」
+
+}
+[sha:d777bbf73e0cec3f83e9a3f70867d2deccee9fd3]{
+-- Page 5, Offset 15207.
+-- 「やっぱり？　そうね、こういう時は本当に姉妹だなって思うわ。昔からエンジンかけるタイミングだけは一緒だったから、あの子とは。
+「Ah oui ? C'est dans ces moments-là que je réalise qu'on est bel et bien sœurs. Depuis toujours, on a le même timing pour entrer en action.
+
+}
+[sha:62858ceb1c72c3d31238aad0df4097f0403b1a16]{
+-- Page 5, Offset 15208.
+-- ……ところで、蒼崎はやめてって言ったでしょ。私も蒼崎だから、<擽|くすぐ>ったいのよね、そう言われるの」
+  ...... Au fait, je t'ai bien dit d'arrêter avec le “Aozaki”, non ? Moi aussi, je suis une Aozaki, alors ça m'asticote quand tu dis ça.」
+
+}
+[sha:2090e12629e549927a3457ea51870f77d28dd17b]{
+-- Page 6, Offset 15209.
+-- 言われて、ああ、と草十郎は納得した。
+  “Aah”, fit Sōjūrō qui comprit quelque chose grâce à cette remarque.
+
+}
+[sha:eabbf801aa0f86f76eac94938e7250bb0a567f02]{
+-- Page 6, Offset 15210.
+-- あの時の言葉はそういう意味だったのか、と。
+  Voilà ce qu'elle insinuait l'autre fois, pensa-t-il.
+
+}
+[sha:a1ccee9f9276b3c5b6e112f1bf65d0a93ac8c8f3]{
+-- Page 7, Offset 15211.
+-- 「まあそんな訳だから、長話をする気はないんだ。
+「Enfin bref, je n'ai pas l'intention de palabrer.
+
+}
+[sha:e147baa14da8281ae420a7a295b5c12b032ed108]{
+-- Page 7, Offset 15212.
+-- 単刀直入に聞くけど、そっちに青子はいる？」
+  Je vais aller droit au but, Aoko est là ?」
+
+}
+[sha:da30b5add6fd0670f6475be0d8cbe60c430b8637]{
+-- Page 7, Offset 15213.
+-- それは本当に、妹の行方を心配するような質問だった。
+  Elle semblait véritablement s'inquiéter de l'endroit où se trouvait sa petite sœur.
+
+}
+[sha:2a17f1ada06c5ac41de03aada5d3d25c341fa885]{
+-- Page 7, Offset 15214.
+-- しかし、どんなに緊張感のない草十郎でも、橙子が青子たちの敵であるコトは実感している。
+  Mais Sōjūrō avait beau être d'un naturel flegmatique, il savait bien que Tōko était l'ennemie d'Aoko et Alice.
+
+}
+[sha:19dbf8b019cf741236546f05147ba86ab39b7815]{
+-- Page 7, Offset 15215.
+-- 青子と有珠を思うのなら、この質問には答えられない。
+  Si Aoko et Alice lui étaient précieuses, il ne pouvait pas répondre à cette question.
+
+}
+[sha:62032e153898ac70d28e3630795853206f99ed0c]{
+-- Page 8, Offset 15216.
+-- 「……さあ。なんて答えてほしいんですか、橙子さんとしては」
+「...... Ma foi. Que voulez-vous que je réponde, Tōko ?」
+
+}
+[sha:94fb02bccb4526420c3bdbf15f23b72bd08600f8]{
+-- Page 8, Offset 15217.
+-- 今までの気軽な口調とは一変した質問。
+  Cette question changeait complètement du ton léger qu'il employait habituellement.
+
+}
+[sha:6c28548ebf7f98c52778425d0bef70ccb2aaf2c9]{
+-- Page 8, Offset 15218.
+-- 草十郎の言葉に、受話器の向こうにいる橙子は、まいったなあ、と呟いた。
+  “C'est embêtant”, murmura Tōko à l'autre bout du fil en réaction à la réponse de Sōjūrō.
+
+}
+[sha:d7f9372455dc343d94c8f0b4b4540f052705a6e5]{
+-- Page 8, Offset 15219.
+-- 彼女が思っていた以上に、この少年は察しがいい。今は、その賢さがマイナスに働くというのにだ。
+  Ce garçon était encore plus perspicace qu'elle ne l'avait cru. Même si pour l'heure, cette intelligence lui faisait du tort.
+
+}
+[sha:8ff0d532bd770fde1b431492b4d90dc20705d50c]{
+-- Page 9, Offset 15220.
+-- 「そうね、君には何も答えてほしくないっていうのが正解かな。
+「Eh bien, peut-être que je ne veux pas que tu me répondes.
+
+}
+[sha:b9eedf8c330ded367946ea088cb3df6a44b168db]{
+-- Page 9, Offset 15221.
+-- 第一印象で君を無視するのはよくない気がしてたけど、やっぱり私は、草十郎くんを手にかけたくはないみたい。
+  À notre première rencontre, j'ai eu le sentiment qu'il ne fallait pas t'ignorer, mais je ne veux vraiment pas te faire de mal.
+
+}
+[sha:1772af6403a0fb99699e154db40506511fea9e07]{
+-- Page 9, Offset 15222.
+-- 君は、このまま無関係でいてちょうだいね」
+  Reste comme tu es et ne te mêle pas de ça, tu veux bien ?」
+
+}
+[sha:8394ddbb8565dd9bddae3cdbddab02c19a358a0d]{
+-- Page 10, Offset 15223.
+-- 嘘のない、親しみのこもった忠告。
+  C'était un conseil parfaitement honnête, rempli de sympathie.
+
+}
+[sha:a4eb02f44b73b13468d8618235e2bb3c8d62a833]{
+-- Page 10, Offset 15224.
+-- 草十郎はそうですか、とだけ答えた。
+  “Je vois”, ne fit que répondre Sōjūrō.
+
+}
+[sha:80692113be6edd7cf3929cb3165754cb031c0514]{
+-- Page 10, Offset 15225.
+-- やっぱり彼女も無関係である事を望んでいる。
+  Comme il l'avait pensé, elle aussi souhaitait qu'il reste en dehors de cette histoire.
+
+}
+[sha:dc7cad38f56d8a473bdd66d67867bb57e5411f40]{
+-- Page 10, Offset 15226.
+-- それが彼女たちなりの誠意である事は、草十郎にも理解できる。
+  Sōjūrō comprenait que c'était leur façon de montrer leur bonne foi.
+
+}
+[sha:27cde16912d7e4b9ec6cf245f1d9ce937a4ec27a]{
+-- Page 10, Offset 15227.
+-- だが。その誠意は、誰が望んだものなのか。
+  Mais qui avait désiré cette bonne foi ?
+
+}
+[sha:012cd312bb75e653652cbff3cbbf63568b5c9139]{
+-- Page 11, Offset 15228.
+-- 「じゃ、さよならね。私は君が思ってるほど暇じゃないから。
+「Allez, adieu. Je n'ai vraiment pas autant de temps libre que tu le penses.
+
+}
+[sha:8e1742948182e16e1d4b0afeae1b949f53bc3b0d]{
+-- Page 11, Offset 15229.
+-- ……でも、最後にひとつだけ。君を試すようで悪いんだけど、伝えておかないと一生恨まれそうだし。
+  ...... Mais je vais rajouter une dernière chose. Désolée de donner l'impression de te mettre à l'épreuve, mais si je ne te le dis pas, je sens que tu m'en voudras toute ta vie.
+
+}
+[sha:d8a791ce507c008450cd3a901a97a56068cb48e2]{
+-- Page 11, Offset 15230.
+-- なんで、そうならないように責任の半分を君に押しつけちゃおっかな」
+  Donc, pour éviter ça, je crois que je vais t'en confier la moitié de la responsabilité.」
+
+}
+[sha:a0e01765e3d53c3847eaa21311d6f273ee6748cb]{
+-- Page 12, Offset 15231.
+-- くす、と橙子は笑う。
+  Tōko pouffa.
+
+}
+[sha:92f9f4ceb2f7501fa40e0c76896783c68e8d67f6]{
+-- Page 12, Offset 15232.
+-- それは、はじめから<そ|・><れ|・>を伝える事だけが目的だと示す笑みだった。
+  Son rire indiquait que son seul but avait été de lui transmettre ce message depuis le début de la conversation.
+
+}
+[sha:3ceb4f98483684697cb44f4e32b3b79a350021f6]{
+-- Page 13, Offset 15233.
+-- 「さっき久遠寺さんに会ってきたの。
+「Je viens de voir Mlle Kuonji.
+
+}
+[sha:ab3e7a19d71a83d8366254c467c8f3baf80db006]{
+-- Page 13, Offset 15234.
+-- 彼女から電話があったでしょう？」
+  Tu as reçu un appel de sa part, non ?」
+
+}
+[sha:bbac84c8ea662c9a858483f5f3cecf576f828137]{
+-- Page 13, Offset 15235.
+-- 橙子の口調は変わらない。
+  Le ton de Tōko n'avait pas changé.
+
+}
+[sha:b634af5641fb95cb22c440fbafc6604a5da6e0a7]{
+-- Page 13, Offset 15236.
+-- 今の台詞にはどこにも嫌な気配はない。
+  Rien de désagréable ne ressortait de sa phrase.
+
+}
+[sha:4c216b27db455b9afa9f091f7d231073d138f9af]{
+-- Page 13, Offset 15237.
+-- なのに有珠の名前を聞いた瞬間、草十郎の背筋に冷たい物が走り抜けた。
+  Pourtant, dès que Sōjūrō entendit le nom d'Alice, quelque chose de glacial lui parcourut le dos.
+
+}
+[sha:2e983cc09cc160c92b21d55b07dc9ff4b4e6d205]{
+-- Page 14, Offset 15238.
+-- 「彼女、今ひどい状態なんだ。満足に歩けないどころか、体中の刻印が活性化して破裂寸前。草十郎くんが骨折の痛みを知ってるなら、うまい喩えようがあるんだけどね。
+「En ce moment, elle est dans un sale état. Non seulement, elle ne peut pas marcher convenablement, mais en plus, son Sceau s'est activé, et il est sur le point de rompre. Si tu connais la douleur d'une fracture, alors c'est une bonne métaphore.
+
+}
+[sha:ff51adbe67f37097b223dccd5d4ccc4b295a5244]{
+-- Page 14, Offset 15239.
+-- ま、ともかくだ。いつ気を失ってもおかしくない状態なんだけど―――災難なことに、怖い野犬に囲まれてるみたいなの。
+  Enfin bref. Dans son état, elle pourrait perdre connaissance à tout instant, et―――malheureusement, elle semble encerclée par d'effrayants chiens sauvages.
+
+}
+[sha:83ca2be1cff917dca15469c6b81d23cc07b258a3]{
+-- Page 14, Offset 15240.
+-- 個人的な意見だけど、んー、十分もあれば骨しか残らない結末になるでしょうね」
+  C'est un avis personnel, mais je dirais que, hum... dans dix minutes, il ne restera plus que ses os.」
+
+}
+[sha:f9014b144d5d755c3b2bcec4363928c15e761e08]{
+-- Page 15, Offset 15241.
+-- これっぽっちも信憑性のない、冗談のような話。
+  Son histoire était tout à fait douteuse, comme une blague,
+
+}
+[sha:7b194ad13d1c4d10eb4696f62f12af044c750048]{
+-- Page 15, Offset 15242.
+-- それもとびきり出来の悪い。
+  qui serait de très mauvais goût, qui plus est.
+
+}
+[sha:1eaed78fc26645e16b67036e1b1192e0f8aa8711]{
+-- Page 15, Offset 15243.
+-- だが、草十郎はすべて現実だと受け入れた。
+  Mais Sōjūrō l'interpréta comme la parfaite vérité.
+
+}
+[sha:6a8bcc2ad5db2f348d445c8559f57ffffe6b0962]{
+-- Page 15, Offset 15244.
+-- 橙子の言葉に嘘はない。
+  Tōko ne mentait pas.
+
+}
+[sha:19e2728fd00ed838d855c809621d8dccb4e50334]{
+-- Page 15, Offset 15245.
+-- 都会の犬が人を襲うなんて話は聞かないけれど、先ほどの有珠の電話にあった違和感―――騒がしかった雑音の正体に、草十郎はようやく思い至った。
+  Les chiens de ville n'agressaient pas les humains, mais Sōjūrō réalisa enfin l'origine de l'agitation, l'origine du vacarme qu'il avait entendu lors de l'appel d'Alice.
+
+}
+[sha:1fb65e6aeb9f52e2099a1429940e35bc4ff462ba]{
+-- Page 15, Offset 15246.
+-- あれは間違いなく、群れをなして獲物を囲む、犬たちの唸り声だったのだ。
+  Il s'agissait sans l'ombre d'un doute des grognements d'une meute de chiens encerclant leur proie.
+
+}
+[sha:1a596f2ad56eeaff3072375489e82022dc78c57c]{
+-- Page 16, Offset 15247.
+-- 「っ………！」
+「.........!」
+
+}
+[sha:af53b6dedc8af7241866e7fcdc32ba4d62ce2325]{
+-- Page 16, Offset 15248.
+-- なぜあの時に気付かなかったのか。
+  Pourquoi ne l'avait-il pas remarqué lors de l'appel ?
+
+}
+[sha:75973a98c66a5aba6690364fb55ddd034e1e152b]{
+-- Page 16, Offset 15249.
+-- 受話器を強く握り締めて、草十郎は自分を呪う。
+  Sōjūrō se maudit lui-même tout en serrant avec force le combiné.
+
+}
+[sha:b87870fc518d55d9fd91ed4dd6be91bc68b35a22]{
+-- Page 16, Offset 15250.
+-- つい数分前の有珠の言葉は、彼女にとって精一杯の、助けを呼ぶ声だった。
+  Les paroles qu'avait prononcées Alice quelques minutes auparavant représentaient le meilleur appel au secours dont elle était capable.
+
+}
+[sha:078a6474bd90d9e8b295a3b38cbf7a2c39e1a14e]{
+-- Page 17, Offset 15251.
+-- 青子以上に草十郎を関わらせまいとする有珠は、絶望的な状況でも、彼に助けを求める事はしなかった。
+  Alice, qui voulait encore moins impliquer Sōjūrō dans cette histoire qu'Aoko elle-même, ne lui avait pas demandé d'aide même dans sa situation désespérée.
+
+}
+[sha:82e1e67f7ec47d7382d81c9cb2a001025ff18358]{
+-- Page 17, Offset 15252.
+-- ……けれど、それでも、最後の最後で助けを求めた。
+  ...... Et pourtant, à la toute dernière seconde, elle avait appelé au secours,
+
+}
+[sha:635453cf8433562fcafb7003bcac4cc8c7f011da]{
+-- Page 17, Offset 15253.
+-- か細い声で、彼女が彼の名前を呼んだあの時に。
+  lorsque d'une voix faible, elle avait prononcé son nom, à ce moment-là.
+
+}
+[sha:e40dac0bf4033de0b46d3cd695bb2e6513102bc8]{
+-- Page 18, Offset 15254.
+-- 「場所は」
+「Où ?」
+
+}
+[sha:f4e18bfe46fbaffa274dfcd1254a5ae720c9da72]{
+-- Page 18, Offset 15255.
+-- 簡潔に問いただす。
+  lui demanda-t-il succinctement.
+
+}
+[sha:d158294430ebbadf3abf0dee7c899a410c246a01]{
+-- Page 18, Offset 15256.
+-- 橙子が敵である事を思い知った草十郎だが、彼女なら場所を教えてくれるという確信がある。
+  Sōjūrō savait pertinemment que Tōko était une ennemie à présent, mais il avait la certitude qu'elle le renseignerait.
+
+}
+[sha:18158a038f33ffa66367b57af9ebcfba40b3301c]{
+-- Page 18, Offset 15257.
+-- そのために、橙子はここに電話をしたのだから。
+  Après tout, Tōko l'avait appelé dans ce seul but.
+
+}
+[sha:140f39f0d2c6706d5c1fe89abfc9659495719b76]{
+-- Page 19, Offset 15258.
+-- 「教えてあげてもいいけど、そうした瞬間に君は私の敵になるのよ。その覚悟はある？」
+「Je veux bien te le dire, mais au moment où je le ferai, tu deviendras mon ennemi. Tu es préparé à ça ?」
+
+}
+[sha:54c3308138d2a52559802d3a7239d784baf9e569]{
+-- Page 19, Offset 15259.
+-- そういう事か、と草十郎は納得した。
+  C'était donc ça, comprit Sōjūrō.
+
+}
+[sha:551894720359a9d178f74d22bb734552dfdc107a]{
+-- Page 19, Offset 15260.
+-- たしかに、これは試されている。
+  En effet, elle le testait.
+
+}
+[sha:a963145e3a235b27d74908c61ad6097e2ed2bd87]{
+-- Page 19, Offset 15261.
+-- ここで有珠を無視すれば、自分は彼女たちと無関係だと証明できる。
+  S'il ignorait Alice, il pourrait prouver qu'il était un étranger pour elles.
+
+}
+[sha:d8598eca298286970b77a957ab3140967a3705b9]{
+-- Page 19, Offset 15262.
+-- けれど助けに行くのなら―――
+  Mais s'il allait l'aider―――
+
+}
+[sha:39acbbea0dfd13007d622a3efd5d4217af6c4a68]{
+-- Page 20, Offset 15263.
+-- 「それで、場所は？」
+「Alors, où est-elle ?」
+
+}
+[sha:168a19c82b57ba55da4068bfe9b0a050f378a5b7]{
+-- Page 20, Offset 15264.
+-- 橙子の問いには答えず、草十郎はそれだけを聞き返した。
+  Sōjūrō répéta seulement sa question, sans répondre à celle de Tōko.
+
+}
+[sha:1518e82db75dc40e768ed537b6495ab9c0954113]{
+-- Page 20, Offset 15265.
+-- 覚悟なんて一生できないし、後悔だって尽きる事はない。
+  Jamais il n'y serait prêt et ses regrets seraient sans fin.
+
+}
+[sha:7591c6e7be5d8f6950f2c7ab831cf3ce6371215a]{
+-- Page 20, Offset 15266.
+-- だいたいはじめから、彼には明確な判断基準が失われている。
+  Sans compter qu'il avait perdu ses critères de jugement depuis bien longtemps.
+
+}
+[sha:be4d46c82dab8be89f1d0622b873f1fdf75d2d67]{
+-- Page 20, Offset 15267.
+-- だから、何であれ一番初めに感じた事を大事にしようと思ったのだ。
+  Voilà pourquoi il avait décidé de se fier à ses premières impressions, quelles qu'elles soient.
+
+}
+[sha:b5e0a8b32d97bc876db3750db3b9b32c53e2bcf4]{
+-- Page 20, Offset 15268.
+-- それが山から下りてきてからの、彼の数少ない<矜持|きょうじ>だった。
+  C'était l'une des rares choses dont il tirait fierté depuis qu'il avait quitté la montagne.
+
+}
+[sha:c56eb2fec54fb961c86df16369bdb06b940c83f9]{
+-- Page 21, Offset 15269.
+-- 「……そ。ちょっと残念だな、私はホントに君が気に入ってたのに。ま、こうなる事は分かってたけどね。
+「...... Je vois. C'est un peu dommage. Je t'appréciais vraiment, tu sais ? Cela dit, je savais qu'on en arriverait là.
+
+}
+[sha:1273e4fc95eda5e978a38a7ab7e3d00808a55a8d]{
+-- Page 21, Offset 15270.
+-- 場所は社木の森林公園。受話器の下に地図があるでしょ？この前、帰りがけに栞をはさんでおいたからそれを参考にすること。
+  Elle se trouve au parc forestier de Yashirogi. Il devrait y avoir une carte sous le téléphone. La dernière fois, j'y ai inséré un marque-page quand je suis partie. Sers-toi de cette page.
+
+}
+[sha:9143912ee3bb988dabfc7b69f47bb1e30049e3c4]{
+-- Page 21, Offset 15271.
+-- 繰り返すようだけど、十分持てば幸運。その後は一分ごとに奇跡の価値があがるような状況よ、今の彼女は」
+  Je me répète, mais elle aura de la chance si elle tient dix minutes. Après ça, chaque minute gagnée équivaudra à un miracle, vu l'état dans lequel elle est.」
+
+}
+[sha:89ceee9dc29af147cf0781a882e19d9f49f1d2a7]{
+-- Page 22, Offset 15272.
+-- 橙子の説明を聞きながら、ぎり、と草十郎は苛立ちで顔を歪めた。
+  Le visage de Sōjūrō se tordit d'irritation en écoutant les explications de Tōko.
+
+}
+[sha:316e2a0adb4165c963faa8389809577c50f8e702]{
+-- Page 22, Offset 15273.
+-- ここ三咲町から社木は一駅離れている。
+  Yashirogi se trouvait à un arrêt de train du vieux quartier de Misaki.
+
+}
+[sha:9401453e3f27e41317fd1431b17905639e18da63]{
+-- Page 22, Offset 15274.
+-- 今から洋館を出て駅に着くまで何分かかるだろう？
+  En partant immédiatement du manoir, combien de minutes lui faudrait-il pour arriver à la gare ?
+
+}
+[sha:94285e1e07059b8b3cac0921d6134cc6b8b481e5]{
+-- Page 22, Offset 15275.
+-- いつもは二十分弱。
+  D'ordinaire, il mettait un peu moins de 20 minutes.
+
+}
+[sha:66dcb13e05fb9e932c9581d4d16671f0d6439910]{
+-- Page 22, Offset 15276.
+-- そこから電車に乗って社木に着いた頃には、もう三十分は経っている―――
+  Le temps de prendre le train et d'arriver à Yashirogi, il se serait déjà écoulé trente minutes―――
+
+}
+[sha:60a496ff5c2fad345e417e39321770cae1e0e345]{
+-- Page 23, Offset 15277.
+-- 「地図の上じゃ近いのに、区画整理された交通手段は不便よね。けど、急げば最終の電車には間に合うわ。ここで諦めた方が賢明だけど、君はもう私の敵だから。
+「C'est peut-être proche sur la carte, mais les moyens de transport d'une ville moderne rendent parfois les choses peu pratiques. Cependant, en te dépêchant, tu arriveras à temps pour le dernier train. Il serait plus sage d'abandonner maintenant, mais tu es déjà mon ennemi.
+
+}
+[sha:441543a692334cac8635b538f548812fd8b22ac8]{
+-- Page 23, Offset 15278.
+-- ―――どっちにしたって、後悔のないようにね」
+  ―――Quoi que tu fasses, fais en sorte de ne pas le regretter.」
+
+}
+[sha:f505209eee51aa6410537d5ad016facdc4851e73]{
+-- Page 24, Offset 15279.
+-- 電話はそこで切れた。
+  L'appel s'interrompit sur cette phrase.
+
+}
+[sha:b30a4de3af47dd012450a4b8f95be41434ed9e5e]{
+-- Page 24, Offset 15280.
+-- 橙子が切ったのではなく、草十郎が切ったのだ。
+  Ce n'était pas Tōko qui avait raccroché, mais Sōjūrō.
+
+}
+[sha:f191fa6363282c5069f1e1597a5a13ba2b44b8a5]{
+-- Page 24, Offset 15281.
+-- 地図を頭にいれて走りだす。
+  Il mémorisa la carte et se mit à courir.
+
+}
+[sha:b9bb864212acb34e3a47969876b1c2c3733cb3c7]{
+-- Page 24, Offset 15282.
+-- 上着を取りにいく時間も惜しい。草十郎は着の身着のままで、まだ雪の残る冬の夜へと駆け出していく。
+  Il n'avait même pas pris le temps d'aller récupérer son manteau. Sōjūrō s'élança sans se couvrir dans la nuit hivernale alors que la neige persistait encore.
+
+}
+[sha:7a05a436570f514bc7a5811e70d8dd8ddb681719]{
+-- Page 25, Offset 15283.
+-- ホールには放り出されたままの地図だけが残っていた。
+  Dans le hall, il ne restait plus que la carte abandonnée.
+
+}
+[sha:e81db9b37f08d9585e11930576b5543cd66d01c0]{
+-- Page 25, Offset 15284.
+-- 開かれたページには三咲市の地図がある。
+  La carte était ouverte sur le plan de la ville de Misaki.
+
+}
+[sha:3b4aad4877f3fd5aa949d48b29303318e8cae133]{
+-- Page 25, Offset 15285.
+-- この洋館から森林公園まで、距離にして約１５キロ。
+  L'itinéraire entre le manoir et le parc forestier était long d'une quinzaine de kilomètres.
+
+}
+[sha:496b2b2a620f696ae59e78d4775425289cc3731e]{
+-- Page 25, Offset 15286.
+-- 直線で結べばその三分の一もないというのに、都会の道は本当に不便だ。
+  Or, à vol d'oiseau, la distance était trois fois plus courte. Le réseau routier de la ville n'était vraiment pas pertinent.
+
+}
+[sha:1edd294964cc3bf1e40ac7310ae0c657696e7660]{
+-- Page 25, Offset 15287.
+-- <都市|ここ>では十センチもない紙上の距離が何倍にもなってしまう事を、草十郎ははじめて呪いたくなった。
+  Pour la première fois, Sōjūrō voulut maudire le fait qu'en ville, une distance d'à peine dix centimètres sur un bout de papier pouvait prendre des proportions énormes.
+
+}

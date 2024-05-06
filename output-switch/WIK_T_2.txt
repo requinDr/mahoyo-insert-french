@@ -1,0 +1,420 @@
+[sha:a1026e7b01b67030c6b03c496ac19189ea7a7a0f]{
+-- Page 0, Offset 23401.
+-- そ、そういうコトなら、仕方がない、と思った。
+  Je... Je songeai qu'au vu de la situation, c'était inévitable.
+
+}
+[sha:69e5e6cee7c2dab4eb2478670e5f47d24e7f3467]{
+-- Page 1, Offset 23402.
+-- 「そ、そうよね、万が一の時、便利だし。
+「Po... Pourquoi pas, ça pourrait être plus prudent, juste au cas où.
+
+}
+[sha:d3bb435cae44fd01001cb3ce87ee4d563582f624]{
+-- Page 1, Offset 23403.
+-- わたしはほら、兄貴が売るほどいるから、男子と一緒の部屋とか、たぶんなれてる、し」
+  Et puis, j'ai assez de frères pour en vendre quelques-uns, alors j'imagine que je suis habituée à dormir dans la même chambre qu'un garçon.」
+
+}
+[sha:1f3b2873b1e4cd38afd2f26753d8c9454c13fa77]{
+-- Page 1, Offset 23404.
+-- 「そりゃ頼もしい。んじゃ、ソファーを借りるぜ。
+「C'est encourageant. Je t'emprunte le canapé.
+
+}
+[sha:30ca603c156fdf391532fd27f72ab24763c799a6]{
+-- Page 1, Offset 23405.
+-- いいかげん、俺も気を張り続けて疲れた。久万梨がいるなら、ちっとは安心して眠れる」
+  Ça commençait à me fatiguer de rester sur mes gardes. Je pourrai dormir sur mes deux oreilles avec toi.」
+
+}
+[sha:4da530848d745b69009e0692a438e455498fb2e1]{
+-- Page 2, Offset 23406.
+-- じゃあな、と片手をあげて、槻司はあっさりと眠ってしまった。
+  “Bonne nuit”, dit Tsukiji en levant la main avant de s'endormir sur-le-champ.
+
+}
+[sha:81ad2875930a3fcafb90ea9d3a000e82eca551fd]{
+-- Page 2, Offset 23407.
+-- 毛布にくるまって、ソファーにごろん、である。
+  Il s'était affalé sur le canapé, enroulé dans une couverture.
+
+}
+[sha:1abd1bb87f2291d3c1b1676f80fe46e473a12741]{
+-- Page 3, Offset 23408.
+-- 「なにそれ」
+「J'y crois pas.」
+
+}
+[sha:b8ba5a6340a986101cbe836d1725711f3212b078]{
+-- Page 3, Offset 23409.
+-- あまりの簡素さに、わたしもすっかり落ち着いてしまった。
+  Sa simplicité m'avait totalement calmée.
+
+}
+[sha:59bf165ce5dc559c449cd7c0623bd05f77de0108]{
+-- Page 3, Offset 23410.
+-- ……まあ、この状況でドキドキするのもどうかと思うし。わたしだって疲れているし。
+  ... Mais de toute façon, il était stupide d'être excitée dans une situation pareille, et puis, j'étais moi aussi fatiguée.
+
+}
+[sha:7f80584855de35b6e1b2f51f60ad64b661709be2]{
+-- Page 4, Offset 23411.
+-- 寝間着はないし、そもそも着替える気もないし。
+  Je n'avais pas de pyjama et je n'avais de toute façon pas l'intention de me changer.
+
+}
+[sha:b35b073b92369cf42e4ae123e8402540edeb4e2c]{
+-- Page 4, Offset 23412.
+-- わたしは洋服のまま、せめてポケットにしまっていたパスケースやら財布やらをテーブルにおいて身軽になって、ベッドに潜りこむ。
+  Toute habillée, je me défis de mon passe et de mon portefeuille que je sortis de mes poches et me faufilai dans le lit.
+
+}
+[sha:f2c21bd3c3e9270cc4615eaaf93a4040dca000d6]{
+-- Page 5, Offset 23413.
+-- 槻司じゃないけど、目をつむったとたん、意識は闇に落ちていった。
+  Je n'étais pas comme Tsukiji, mais à peine eus-je fermé les yeux que ma conscience sombra dans les ténèbres.
+
+}
+[sha:60b85657bbcb0d4cea2e2f9a7ad693e11c35ffd3]{
+-- Page 5, Offset 23414.
+-- ……深い深い眠り。
+  ... Un profond, profond sommeil.
+
+}
+[sha:60b3f95d7b19cb5d6d9256e17d39fdbcc2d3b6da]{
+-- Page 5, Offset 23415.
+-- どこか、すぐ近くで、誰かの笑い声を聞いた気がした。
+  J'eus l'impression d'entendre quelque part, très près de moi, le rire de quelqu'un.
+
+}
+[sha:5588156db35e9a55e7cffc29ca0850b667385860]{
+-- Page 6, Offset 23416.
+-- 小鳥の鳴き声で目を覚ました。
+  Je me réveillai au son du gazouillis des oisillons.
+
+}
+[sha:cb9297633bad332c3ba4010f5e2f1759e823f0fb]{
+-- Page 6, Offset 23417.
+-- 「朝……朝に、なってる……」
+「Le matin... C'est le matin...」
+
+}
+[sha:20a5d865d36980977b7d925781d6cbe79d06a71d]{
+-- Page 6, Offset 23418.
+-- 時刻は五時半。
+  Il était cinq heures et demie.
+
+}
+[sha:4506914009443e73314c76a7a4861b44e575132b]{
+-- Page 6, Offset 23419.
+-- 外はうっすらと日が差し始めている。
+  Le jour se levait lentement à l'extérieur.
+
+}
+[sha:eb252a9060e00bf136b4deebf9c162f765941122]{
+-- Page 7, Offset 23420.
+-- 目覚めがいいのがわたしの数少ない取り柄なのに、疲れがたまっていたんだろう。
+  La facilité avec laquelle je pouvais me réveiller comptait parmi mes rares qualités, mais la fatigue avait dû s'accumuler.
+
+}
+[sha:1866832db82abc5c494916c18d84840fa5f6f847]{
+-- Page 7, Offset 23421.
+-- ぼんやりとした頭で部屋を見渡して、
+  L'esprit brumeux, je promenai mon regard à travers la chambre.
+
+}
+[sha:9e1966766570777c8e4c31ef4c1e23ff29025c41]{
+-- Page 7, Offset 23422.
+-- 「そうだ、槻司―――！」
+「Ah, oui, Tsukiji―――!」
+
+}
+[sha:0763cef93d53535c8ecfd994c1f6488b4aa25550]{
+-- Page 7, Offset 23423.
+-- わたしは槻司と一緒の部屋にいるコトを思い出して、
+  Je me rappelai être dans la même chambre que Tsukiji.
+
+}
+[sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
+-- Page 8, Offset 23424.
+-- 「え？」
+「Hein ?」
+
+}
+[sha:7b66a047512362527ddb94bd07d920275eb658d9]{
+-- Page 8, Offset 23425.
+-- そこにいる筈の人物が、いないコトにやっと気づいた。
+  Et je me rendis enfin compte que la personne censée être présente ne l'était pas.
+
+}
+[sha:d1931b5c32b5a9f87f3d6e6de33b850b4e25fbaa]{
+-- Page 9, Offset 23426.
+-- ソファーには誰もいない。
+  Personne ne se trouvait sur le canapé.
+
+}
+[sha:9b248bd3284a5e4ad2c80786d0d254f8c693ccd6]{
+-- Page 9, Offset 23427.
+-- あるのは槻司が着ていた洋服だけだ。
+  Il n'y avait que les vêtements de Tsukiji.
+
+}
+[sha:bd467121e87a25628daebe8120523ced9125c8cd]{
+-- Page 9, Offset 23428.
+-- 洋服だけが、まるで標本のようにソファーに置かれている。
+  Ses habits étaient posés sur le meuble, tel un exemplaire dans une vitrine.
+
+}
+[sha:092b1e17e8175b5cf231c5cae551ddac71bce33f]{
+-- Page 9, Offset 23429.
+-- 小さくなって消えてしまったとか、氷のように溶けてしまったとか、とにかく、そんな感じ。
+  Cela donnait l'impression qu'il avait rapetissé ou qu'il avait fondu comme de la glace.
+
+}
+[sha:077566e2064bc92b3f67bbc7a005461059c2c80f]{
+-- Page 9, Offset 23430.
+-- 跡形もなく消える、というのが、アイツの望む“死に方”みたい。
+  Manifestement, la mort qu'il désirait consistait à disparaître sans laisser de traces.
+
+}
+[sha:3d2d9df5cb1026b357ab8c7fedb45fb5d36c3a1b]{
+-- Page 10, Offset 23431.
+-- 「……………槻司？」
+「...... Tsukiji ?」
+
+}
+[sha:c89501498a99e8e69914940ab28258f3b6157421]{
+-- Page 10, Offset 23432.
+-- 洋服に触れてみる。
+  Je touchai ses vêtements.
+
+}
+[sha:465698a7cc2a987d8b10e3ad634f3762dd311339]{
+-- Page 10, Offset 23433.
+-- 毛布とソファーに触れてみる。
+  Je tâtai la couverture et le canapé.
+
+}
+[sha:74ee9297ddc760261a96e547329222844752ee2c]{
+-- Page 10, Offset 23434.
+-- 熱はとっくに冷め切っている。
+  Ils avaient depuis longtemps perdu leur chaleur.
+
+}
+[sha:813944668aef26c5e85a42f8aa9d18f26f133322]{
+-- Page 10, Offset 23435.
+-- 手があったと思われる位置には、わたしのパスケースが落ちている。
+  Mon passe était tombé là où devait s'être trouvée sa main.
+
+}
+[sha:b451178e63c3656b3c5b9949a966ab616548c10f]{
+-- Page 11, Offset 23436.
+-- わたしは漠然と、理解した。
+  Je compris vaguement.
+
+}
+[sha:9fa81a23fc94bd65f27dc524fc3fd7aa78934452]{
+-- Page 11, Offset 23437.
+-- 槻司は眠ってなんかいなかった。
+  Tsukiji ne s'était pas endormi.
+
+}
+[sha:6882abe0625b026b05e122e2249d5bda72d2acb3]{
+-- Page 11, Offset 23438.
+-- 眠ったフリをして、わたしを安心させて、寝ずの番をしていてくれたのだ。
+  Il avait fait semblant de dormir pour me rassurer et était resté éveillé.
+
+}
+[sha:4a63a50a0b13fcb46bd8b4042518e4840cd666f2]{
+-- Page 12, Offset 23439.
+-- これは密室殺人だ。
+  C'était un meurtre en chambre close.
+
+}
+[sha:523cf50f8a78092094272f5ea1d76a96364455a7]{
+-- Page 12, Offset 23440.
+-- でも凶器はハッキリしているし、わたしもようやく、誰が犯人なのか理解できた。
+  Mais l'arme du crime était évidente et j'avais enfin compris qui était le coupable.
+
+}
+[sha:88c2d992c023068b4098d3a56a59b51e3db9117c]{
+-- Page 13, Offset 23441.
+-- わたしはパスケースを拾い上げて、空虚な気持ちで部屋を後にする。
+  Je ramassai le passe et sortis de la chambre, le cœur vide.
+
+}
+[sha:2ba60aa42c858b5b9f53b20507c57257db05469f]{
+-- Page 13, Offset 23442.
+-- ……ごめんね、槻司。
+  ... Pardon, Tsukiji.
+
+}
+[sha:62a12643a6334269e29e767f99a50d715b514776]{
+-- Page 13, Offset 23443.
+-- あんなもの見ちゃったら、そりゃあ、蒼崎好きのアンタは大笑いしちゃうよね。
+  C'était sûr qu'en voyant un truc pareil, un fan d'Aozaki comme toi partirait sur un fou rire.
+
+}
+[sha:4af8a4557223932f2b68bba348bedce75f7f22a6]{
+-- Page 14, Offset 23444.
+-- 静かだ。
+  C'était calme.
+
+}
+[sha:159c53661334c77ac10d70f0678f6aa3ac6884a3]{
+-- Page 14, Offset 23445.
+-- とても清潔な空気感。
+  L'air semblait particulièrement pur.
+
+}
+[sha:35e22b8c7a67be9d6056aa2015a22cd114fb2627]{
+-- Page 14, Offset 23446.
+-- わたしの気持ちも、もう、笑ってしまうぐらい真っ白だ。
+  J'étais vide à un tel point que j'avais envie d'en rire.
+
+}
+[sha:fb071d19e6c7c8c8a3c2fa3f86c8b71051dda888]{
+-- Page 15, Offset 23447.
+-- 槻司の客室も清潔。
+  La chambre de Tsukiji était également propre.
+
+}
+[sha:01b441ba99069c91e7b9999de66f9cd92ac87418]{
+-- Page 15, Offset 23448.
+-- 詠梨神父用の客室も清潔。
+  Tout comme celle de père Eiri.
+
+}
+[sha:d3102ff4e1e2685b8300efca5d3498be91aaebea]{
+-- Page 15, Offset 23449.
+-- 律架さんの客室も清潔。
+  De même pour celle de Ritsuka.
+
+}
+[sha:e61f8136837813a12b6a9410d3c92eb3ef35109b]{
+-- Page 16, Offset 23450.
+-- 「誰か、生きている人、いますかー？」
+「Hé oh ! Est-ce que quelqu'un est en vie ?」
+
+}
+[sha:9de9e7f55130250dfb2eac74610a2eb0813dee15]{
+-- Page 16, Offset 23451.
+-- 西館に呼びかけても返事はない。
+  J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
+
+}
+[sha:bb0b574303b54491bb8bf029e60e3f3d738257d8]{
+-- Page 16, Offset 23452.
+-- ああ、やっぱり、予感の通り。
+  Aaah, c'était bien ce que j'avais pressenti.
+
+}
+[sha:ddfc23fd2171f8fc929f31cd8286a0916e24fe5a]{
+-- Page 16, Offset 23453.
+-- いま、この屋敷は三咲町で一番、静かで綺麗で、終わっている。
+  Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du vieux quartier de Misaki.
+
+}
+[sha:f39a256904af568d1ea36821cd6bc7db2cbe6f17]{
+-- Page 17, Offset 23454.
+-- 蒼崎を閉じこめた地下室に向かう。
+  Je me dirigeai vers la cave où était enfermée Aozaki.
+
+}
+[sha:31a1609bd87f3add161a4c3ce370ea94cdceb4f5]{
+-- Page 17, Offset 23455.
+-- 狭い階段を下りて、扉につきあたる。
+  Je descendis l'escalier étroit et me retrouvai face à la porte.
+
+}
+[sha:0815c7b353b579a38810b7842bf878afd7256a53]{
+-- Page 17, Offset 23456.
+-- 南京錠は外側から外されていた。
+  Le cadenas avait été déverrouillé de l'extérieur.
+
+}
+[sha:01b096d2df72a45034f39a8b4a735ca36851df44]{
+-- Page 18, Offset 23457.
+-- 狭い地下室には、うつぶせで倒れた死体が一つ。
+  Dans la cave exiguë gisait un cadavre couché sur le ventre.
+
+}
+[sha:a897b9d6708eb58965fdbf2909c7d667a7ffaf07]{
+-- Page 18, Offset 23458.
+-- 彩度の高い、どこか日本人離れした長髪は、間違いなく蒼崎のものだ。
+  Ses longs cheveux foncés, qui laissaient une impression différente de ceux des Japonais, appartenaient sans aucun doute à Aozaki.
+
+}
+[sha:ce7cf45947ea5457c1d784676bb6a28e9acdab67]{
+-- Page 18, Offset 23459.
+-- 完全に呼吸は止まっている。
+  Elle ne respirait plus du tout.
+
+}
+[sha:282e4def11c1fd0ad95c9127b1ac3e1581fdddfd]{
+-- Page 19, Offset 23460.
+-- 蒼崎は犯人ではなかった。
+  Aozaki n'était pas le coupable.
+
+}
+[sha:21ad610e19e4d912c25494c7014437a5fef3deaf]{
+-- Page 19, Offset 23461.
+-- 彼女が何時殺されたのかは定かではない。
+  Je n'aurais pas su déterminer à quelle heure elle avait été tuée.
+
+}
+[sha:c14b7300262e267d27bf5d85715d95b13ff50a8c]{
+-- Page 19, Offset 23462.
+-- けれど、鍵をあけ、蒼崎を笑わせた犯人は、なに食わぬ顔で地上に戻り、そして―――
+  Mais le coupable qui avait ouvert la serrure et fait rire Aozaki était revenu à la surface d'un air innocent―――
+
+}
+[sha:b1a6cee61cbf02237a0f06e4ad59c5030e20b673]{
+-- Page 19, Offset 23463.
+-- わたしの逃げ場を塞いで、目の前に現れようとしていた。
+  puis m'avait barré le chemin et était sur le point d'apparaître devant moi.
+
+}
+[sha:7dc6cb18a1eeccefa759523882596f5edda58a8d]{
+-- Page 20, Offset 23464.
+-- ソレはわたしが地下室に入るまで、どこかに隠れていたのだろう。
+  Il devait s'être caché quelque part en attendant que j'entre dans la cave.
+
+}
+[sha:e8f3f5e7235e0302661bcb09538f2a8f2bce6b5a]{
+-- Page 20, Offset 23465.
+-- 地下室の階段は一本道だ。
+  L'escalier était le seul accès.
+
+}
+[sha:65f4524ae06798437d28ac0647c36bb121d5c675]{
+-- Page 20, Offset 23466.
+-- わたしが下りた後、後ろから下りればわたしを袋小路に追い詰められる。
+  Après que je fus descendue, il suffisait qu'il me suive pour m'acculer dans une impasse.
+
+}
+[sha:a859057f725a56d386017c1341ae562dfb244fda]{
+-- Page 21, Offset 23467.
+-- 「……まあ、もうどうでもいっか」
+「... Bah, ça n'a plus d'importance.」
+
+}
+[sha:c01861fdb838ab69b51d81136e3827d194ebf1e4]{
+-- Page 21, Offset 23468.
+-- この状況は、もう手詰まりだ。
+  Je n'avais plus aucun moyen de me sortir d'affaire.
+
+}
+[sha:8d2e127825908b1912cbcd4c55522a16b5749dd0]{
+-- Page 21, Offset 23469.
+-- ゲームは真犯人の勝ち。
+  Le vrai coupable avait gagné la partie.
+
+}
+[sha:d3696175f465dba49d9c49c4079c50ebef18edb2]{
+-- Page 21, Offset 23470.
+-- わたしは何を間違えていたのかをぼんやりと考えながら、破滅の足音に耳をかたむけた―――
+  Tout en me demandant distraitement où je m'étais trompée, je tendai l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
+
+}

@@ -1,0 +1,1152 @@
+[sha:b623983ba1612f0c57c03582b56e30ed98091460]{
+-- Page 0, Offset 3171.
+-- 唐突に言うと、私は魔法使いである。
+  Pour tout vous dire, je suis une Magicienne.
+
+}
+[sha:aa7bd5a3ab30fa2edc2f92ee1e77a12f13d6a1c3]{
+-- Page 0, Offset 3172.
+-- なんていうか、指先ひとつで奇跡を起こして、<辺鄙|へんぴ>な森に隠れ住んでいる童話のあれだ。
+  Vous savez ? Cette personne dans les contes de fées qui peut accomplir des miracles d'un claquement de doigts et qui vit cachée dans une forêt reculée et impénétrable.
+
+}
+[sha:55d40c9967265acd5c6c92bcd72cc9abe1cdf0f7]{
+-- Page 0, Offset 3173.
+-- イメージはちょっと違うけど、わりと的を射ているので採用したいと思う。
+  Ce concept ne me correspond pas tout à fait, mais comme c'est assez approchant, je pense conserver cette appellation.
+
+}
+[sha:12e858112933c43063942bd8cf4d733743a5296d]{
+-- Page 1, Offset 3174.
+-- ただ断っておくと、ホウキに乗って空は飛ばない。
+  Par contre, désolée, mais je ne vole pas dans le ciel sur un balai.
+
+}
+[sha:ba0f82a1f7d587a412e0870f228900450823c1f8]{
+-- Page 1, Offset 3175.
+-- 動物に変身したり小鳥と話したりもできない。
+  Je ne peux pas non plus me transformer en animal, ou parler aux petits oiseaux.
+
+}
+[sha:ab1b07eee2212ef14fce3240aa30216e61726349]{
+-- Page 1, Offset 3176.
+-- 夢があるようでないのが今風の魔術師なのである。
+  Les Mages modernes n'ont pas pour habitude de faire rêver les gens.
+
+}
+[sha:1f1f3e68ce30efc948e057532c151ab87b4e6c80]{
+-- Page 2, Offset 3177.
+-- 非常識だけど現実的。
+  Ce sont des êtres hors normes et pourtant réalistes.
+
+}
+[sha:8e338e8faa804f33406007ddc9c9cac7c36bf944]{
+-- Page 2, Offset 3178.
+-- 万能なようでわりと<窮屈|きゅうくつ>。
+  Même s'ils ont l'air d'être tout-puissants, ils sont en fait assez étroits d'esprit.
+
+}
+[sha:492e3ae660745a94828a69418a432dd2d97cb407]{
+-- Page 2, Offset 3179.
+-- 胸を張るには色々半端なものだけど、私の本当の職業は学生じゃなくて、そんな<浪漫|ロマン>あふれるものだった。
+  Et même si je suis encore un peu inexpérimentée pour m'en vanter, ma véritable nature ne correspond pas à celle d'une étudiante mais à cette fable des plus romanesques.
+
+}
+[sha:505ee7fd7e403e1b2e1cab1210cca6e336c6540b]{
+-- Page 3, Offset 3180.
+-- けど、その事はもちろん秘密。
+  Mais bien sûr, c'est un secret.
+
+}
+[sha:f5748501025e2c0433b48959153bd612dcdd7674]{
+-- Page 3, Offset 3181.
+-- “魔術師はこれ、その<御業|みわざ>をすべて<隠匿|いんとく>すべし”
+“Un Mage se doit de dissimuler ses agissements au monde.”
+
+}
+[sha:d57a6f499c3906a62497c2a4e15aa0dad05dd6d0]{
+-- Page 3, Offset 3182.
+-- 協会の十箇条のトップに出ている事だし、私だってこんなワケわかんない<話|こと>を口外する気はさらさらない。
+  C'est le tout premier point des dix clauses de l'Association. Et moi non plus, je n'ai pas la moindre envie de révéler cette histoire sans queue ni tête.
+
+}
+[sha:16f36a59095515dc5623d8081db0c160851943ed]{
+-- Page 4, Offset 3183.
+-- これでも外じゃ優等生で通っているし、だいたい、知らしめたところで私が嬉しい事なんてまったくない。
+  On ne le dirait pas comme ça, mais aux yeux du monde, je suis une élève modèle. Et puis, je ne serais en aucun cas heureuse que cela se sache.
+
+}
+[sha:0d861196300dbc6376936d9437d70dbd366b6c19]{
+-- Page 4, Offset 3184.
+-- どっちかというと頭の痛いことばかりだ。
+  Ça ne ferait que me causer des ennuis.
+
+}
+[sha:813fc6b4fcf8f33ddfac166b024b27ea461aed01]{
+-- Page 4, Offset 3185.
+-- なので、そんなつまんない事は極力、自重するにかぎる。
+  Je dois donc me tempérer de mon mieux pour éviter de faire quelque chose d'aussi stupide.
+
+}
+[sha:d716b2e358b5007903352bbfc675e16c67acb040]{
+-- Page 5, Offset 3186.
+-- もっとも、それはまだ私が立派な魔法使いになれていないからだ。
+  Cependant, c'est parce que je ne suis pas encore une excellente Magicienne.
+
+}
+[sha:09c90ef8ef0fec1d4f67094741464f8cc04946f7]{
+-- Page 5, Offset 3187.
+-- 生涯の秘密というのは、私自身が立派になって一人前になった時、たったひとりにだけ打ち明けられれば、それで幸せだと思う。
+  Je pense que lorsque j'aurai terminé mon apprentissage, révéler le secret de toute ma vie à une seule personne suffirait à me rendre heureuse.
+
+}
+[sha:d9ee5fe3c2fe5a93e497609e95a65a674d3650d5]{
+-- Page 6, Offset 3188.
+-- うん。いちばん大きな秘密の告白が『実は魔法使いでした』なんていうのは、たいへん洒落ている。
+  Oui. Ça aurait vraiment du style d'avouer que mon plus grand secret était : “En fait, je suis une Magicienne.”
+
+}
+[sha:721801e049309681f9d71a22cd5cc636d76a0f0f]{
+-- Page 6, Offset 3189.
+-- そのシーンを想像すると妙におかしくて、協会の規則なんかより晩年のために秘密を守りたくなるぐらい。
+  Ce n'est pas pour suivre les règles de l'Association, mais parce que cette scène est tellement étrange lorsque je l'imagine que l'envie me vient de garder le secret jusqu'aux derniers jours de ma vie.
+
+}
+[sha:778f9957af00f9a92b70594815589f45073b19b9]{
+-- Page 7, Offset 3190.
+-- 以上の事を祖父に話すと、彼は私の頭を撫でてくれた。
+  Lorsque j'ai dit cela à mon grand-père, il m'a caressé la tête.
+
+}
+[sha:85dfdeb1ac9e92c523881ce2c5fdaf605565a84b]{
+-- Page 7, Offset 3191.
+-- 誉めてくれたのか<窘|たしな>めていたのかは分からないけど、あの人にしては優しい感触だったと思う。
+  Je ne sais pas si c'était pour me féliciter ou pour me gronder, mais pour quelqu'un comme lui, je pense que c'était un acte de tendresse.
+
+}
+[sha:3f02cfe43523ad47673e8c7892c98d199c005be3]{
+-- Page 8, Offset 3192.
+-- 私が魔術―――祖父の後を継ぐ事になったのは、中学を卒業したその日だった。
+  Il fut décidé que je deviendrais une Mage―――que je suivrais les traces de mon grand-père, ce jour-là, quand j'ai été diplômée du collège.
+
+}
+[sha:d49a7715eab05f0caf5bf5a91ae472ab7165e620]{
+-- Page 8, Offset 3193.
+-- 家に帰るなり祖父は
+  En rentrant à la maison,
+
+}
+[sha:c004108c4a2f5091ca3c246886d9757239bce3c6]{
+-- Page 8, Offset 3194.
+-- 『姉は旅に出た。今日からおまえが蒼崎の後継ぎだ』
+『Ta sœur aînée est partie en voyage. À partir de maintenant, tu es l'héritière des Aozaki.』
+
+}
+[sha:b247ee34ab722f6db25ec383e6c278bb6ece359c]{
+-- Page 8, Offset 3195.
+-- なんて事を淡々と語ったのだ。
+  mon grand-père m'avait annoncé la nouvelle sur un ton indifférent.
+
+}
+[sha:fd2efb99adf39bf499c46caa9b7602c3d0c232a9]{
+-- Page 9, Offset 3196.
+-- 蒼崎の家が魔術なんて古くさいものを伝えていた事は知っていたけど、正直、自分にそのおはちが回ってくるとは思ってもいなかった。
+  Je savais que l'on racontait cette histoire loufoque comme quoi les Aozaki étaient une famille de Mages, mais honnêtement, je ne pensais pas que ça me retomberait dessus.
+
+}
+[sha:89528d6a4a0bc9211f271f8f5e2e928f540593eb]{
+-- Page 10, Offset 3197.
+-- 魔術の継承は<一子相伝|いっしそうでん>とかなんとか。
+  Selon lui, l'héritage de la Magie se transmettait à un seul enfant.
+
+}
+[sha:0c63b6345c34470442796b7db5cc7d7ee8f974ef]{
+-- Page 10, Offset 3198.
+-- 色々と決まり事の多そうな魔法使いの座とやらは姉貴の役割で、私はそういうトンデモとは無関係。いたってノーマルな生活設計、将来希望だったのだ。
+  La position de Magicienne et toutes sortes de règles associées incombaient à ma grande sœur, et cet univers invraisemblable ne me concernait pas. Les plans que j'avais prévus pour mon avenir étaient de mener une vie absolument normale.
+
+}
+[sha:330bff1f61a10434a8d0f5f19c5096f6305186cc]{
+-- Page 11, Offset 3199.
+-- なので、姉貴には悪いけど自由気ままに人生を送らせてもらいましょう―――
+  Donc, j'étais désolée pour ma sœur, mais je comptais vivre ma vie à ma guise―――
+
+}
+[sha:2c0b67a94565dbcf397861be0f6fd06e2e24b292]{
+-- Page 11, Offset 3200.
+-- なんて気楽にやってきたところで、とんでもないカウンターが待っていたワケである。
+  Et ce fut ce jour-là que le destin me joua un mauvais tour alors que je vivais avec insouciance.
+
+}
+[sha:93bd67df03cd64bbfd011e5705e5c5f9064c40fc]{
+-- Page 12, Offset 3201.
+-- 以来、私は今まで横目で見ていただけの世界に身を置くことになった。
+  Depuis, je faisais partie de ce monde que je me contentais d'observer auparavant.
+
+}
+[sha:3aac43ee1a5c5c3147464f080421150422b4891f]{
+-- Page 12, Offset 3202.
+-- まさかまさかの高校デビュー。
+  Enfin... pour le début d'une nouvelle vie, c'était pas si mal.
+
+}
+[sha:fe137559b553c6a1f281017584e4d4546c2248a4]{
+-- Page 12, Offset 3203.
+-- まあ、新生活のスタートとしては悪くない。
+  Une entrée au lycée dans des circonstances inimaginables.
+
+}
+[sha:cb6b0fdc5c8f5c47c0c2e06a240f47aed24bb084]{
+-- Page 13, Offset 3204.
+-- ……それから色々あって現在。
+  ...... De ce jour jusqu'à aujourd'hui, il s'est passé pas mal de choses.
+
+}
+[sha:758853fedfbdc645de15fb1b8c653aaab4075793]{
+-- Page 13, Offset 3205.
+-- この役柄には戸惑ったけど、それも気が付けばもう二年目に届こうとしている。
+  Je n'étais pas très à l'aise dans ce rôle, mais avant que je ne m'en rende compte, j'étais entrée en deuxième année.
+
+}
+[sha:364af68556b231b52a0329a358ce16ccebd94585]{
+-- Page 14, Offset 3206.
+-- その間にトラブルらしき物は一切なかったし……私たちの名誉のため、半年に<亘|わた>る同居人との殺し合いはカウントしない……
+  Au cours de la première année, je n'ai eu aucun véritable problème...... Et pour préserver notre honneur, je ne raconterai pas mon combat à mort avec ma colocataire six mois durant......
+
+}
+[sha:e371e3838fed02bfbcbffb84c0d351da1148f940]{
+-- Page 14, Offset 3207. Glued. Mods: @x.
+-- 魔法使いとしての才能もそれなりに優れているみたいで、まだ壁にはぶつかってはいない。
+Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une certaine mesure, et je n'ai pas encore rencontré d'obstacle insurmontable.
+
+}
+[sha:8ab27d23003914a670fbcaa696ea25aaa5372b9a]{
+-- Page 15, Offset 3208.
+-- 人間なんだから頭の痛い悩みは二つや三つあるけれど、今のところ将来に不安を感じる事はまったくなかった。
+  Étant humaine, il y avait bien deux ou trois choses qui me causaient quelques désagréments, mais pour le moment, je ne ressentais aucune anxiété pour l'avenir.
+
+}
+[sha:75b9ef258c51b711c0bf781095bb1cd0805dd23d]{
+-- Page 15, Offset 3209.
+-- 私の生活は、このまま<順風満帆|じゅんぷうまんぱん>に行くと思っていたのだ。
+  Je pensais que ma vie se passerait ainsi en douceur.
+
+}
+[sha:5935146784594b5154fb9547d289c1ba7b809736]{
+-- Page 15, Offset 3210.
+-- 昨夜の、例の一件さえ起こらなければ。
+  Si l'évènement de la nuit précédente n'avait pas eu lieu.
+
+}
+[sha:a3c04b6b8b9500509f1effefdb678d3ba3eec91f]{
+-- Page 16, Offset 3211.
+-- 「どう？」
+「Alors ?」
+
+}
+[sha:be0dc1dd7c1da6e97ac486fe9731f91e0376d76e]{
+-- Page 16, Offset 3212.
+-- 久遠寺邸に帰宅するなり、蒼崎青子は久遠寺有珠にそう<訊|たず>ねられた。
+  De retour au manoir Kuonji, Kuonji Alice questionna Aozaki Aoko.
+
+}
+[sha:66c4e2d20d62a1386698e7ce0a94451f769a3904]{
+-- Page 16, Offset 3213.
+-- 切迫感も危機感もない声だが、<玻|は><璃|り>のような<黒瞳|こくどう>が事の重要性を告げている。
+  Sa voix n'exprimait ni urgence ni danger, mais ses pupilles sombres comme du quartz noir soulignaient l'importance du problème.
+
+}
+[sha:f98343a183a23f33ae38d1a2138f352aca91282d]{
+-- Page 17, Offset 3214.
+-- 色気のないコートを脱いでハンガーにかけ、青子はソファーに腰を下ろした。
+  Aoko retira négligemment son manteau, l'accrocha au portemanteau et s'assit sur le sofa.
+
+}
+[sha:0ddd7152e46b69fb3278ce458d2240fc7e31bf61]{
+-- Page 17, Offset 3215.
+-- 正面にはテーブルを挟んで有珠が座っている。
+  Alice était assise en face, de l'autre côté de la table.
+
+}
+[sha:5f244a18d1c4b99e7fa3c3223699ad511b7ec762]{
+-- Page 18, Offset 3216.
+-- 「そっちは？」
+「Quoi de ton côté ?」
+
+}
+[sha:ad8996a750da3f20e9e4804b522509480c635f4c]{
+-- Page 18, Offset 3217.
+-- 「良くないわね。<偵察|ていさつ>に行けるのは七個ぐらい。ここのところ使ってばかりで、作り置きをする余裕もなかったし」
+「Rien de réjouissant. Je n'ai pu en envoyer que sept en reconnaissance. Ces derniers temps, on n'arrête pas de les utiliser, et je n'ai pas eu le temps d'en refaire.」
+
+}
+[sha:b3118c1e8d3a0485de1ee074bce1c516b0e5243e]{
+-- Page 18, Offset 3218.
+-- 青子から視線を逸らすと、有珠はテーブルの上に置かれた箱に視線を戻す。
+  Détournant son regard d'Aoko, Alice fixa à nouveau la boîte posée sur la table.
+
+}
+[sha:aa2ecdb9cb031137d59fa49df3edd93e4fd83e20]{
+-- Page 19, Offset 3219.
+-- 「あの夜、街を監視していたヤツはいないの？
+「Aucun d'eux n'observait la ville cette nuit-là ?
+
+}
+[sha:2e816f1974d846c5236830616cf2351bae2e7123]{
+-- Page 19, Offset 3220.
+-- 街の偵察は完璧なんでしょ、そいつら」
+  Leur connaissance des lieux est pourtant parfaite, non ?」
+
+}
+[sha:b23756961f59d5adf8095b54f2633368eccee720]{
+-- Page 19, Offset 3221.
+-- 「それは昼間の話よ。夜間飛行は危険が多いわ」
+「Ça, c'est valable uniquement la journée. Durant les vols de nuit, il y a beaucoup de danger.」
+
+}
+[sha:a62d5359f891b2ca959e3cb67e1bcdcd63b247e9]{
+-- Page 19, Offset 3222.
+-- 肝心なところで役に立たないのね、とため息をつく青子。
+  “Ils ne servent à rien quand on a besoin d'eux”, soupira Aoko.
+
+}
+[sha:7e85704d15535d66608b2b64aa989287ddc51bdf]{
+-- Page 20, Offset 3223.
+-- 「……そういう貴女は？　朝はずいぶんと強気だったけど？」
+「...... Et toi ? Ce matin, tu semblais confiante.」
+
+}
+[sha:19d3e4fa1061ca18cc92a306aa83086fdeb92eae]{
+-- Page 20, Offset 3224. Mods: @n.
+-- 「ん？
+「Hum ?
+
+}
+[sha:decd5b498db76cda9cb8dbd7e461363f4594a250]{
+-- Page 20, Offset 3225. Glued.
+-- あ、こっちは予定通りよ。
+ Ah, de mon côté, tout se passe comme prévu.
+
+}
+[sha:cd67e1a08ab08965e5053bfdcb1e36a2ab2ed31b]{
+-- Page 20, Offset 3226.
+-- 明日までにはしぼりこめると思う。今朝、鳶丸にうちの生徒の自宅と行動時間を調べさせたから。
+  Demain, on aura considérablement réduit le nombre de suspects. Ce midi, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
+
+}
+[sha:8e02835663325a59da1692b45d5a17322e47b494]{
+-- Page 20, Offset 3227.
+-- あの時間に公園をうろつく奴は滅多にいないし、簡単に割り出せる」
+  Il n'y a pas tant de gens que ça qui rôdent à cette heure-ci dans le parc, et on peut facilement en déduire qui pouvait y être.」
+
+}
+[sha:60e1d7471848a88edc587c5a0ea2a569db3e6a7f]{
+-- Page 21, Offset 3228.
+-- 「そう簡単にいくの？」
+「Ce sera vraiment aussi simple ?」
+
+}
+[sha:b259c1be2bc4500082d0b1b1c5bfa47f56b58873]{
+-- Page 21, Offset 3229.
+-- 「いくわよ。<伊|ダ><達|テ>に生徒会に勤めてないわ。その程度のデータは揃えてある。
+「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes ces informations.
+
+}
+[sha:da72066f18384ea00ed13fe2bc57269265a1d817]{
+-- Page 21, Offset 3230. Glued. Mods: @x.
+-- 月一のバイト先はおろか親しい友人宅との移動時間、その優先順位まで調べ上げてるんだから。
+J'ai vérifié non seulement là où ils travaillent au cours du mois, mais aussi le temps qu'ils mettent pour se rendre chez leurs amis proches, et même leurs principaux centres d'intérêt.
+
+}
+[sha:1dcdffbb240e6116cd2dfd19133a9dd5c2d19775]{
+-- Page 21, Offset 3231.
+-- <他|ひ><人|と>には見せたくなかったリストだけど、そんな余裕ないでしょ？　だから、そういうのが向いてる副会長にやらせたの」
+  J'aurais préféré ne pas montrer cette liste à qui que ce soit, mais on ne pouvait pas se permettre un tel luxe. C'est pour ça que j'ai confié ce travail à mon vice-président, il est fait pour ça.」
+
+}
+[sha:ea20167fcfa7b6678afd43a329b3f78b090d7652]{
+-- Page 22, Offset 3232.
+-- 余談ではあるが、その機密ファイルが作成されたのは青子が生徒会長になってからである。
+  C'était une autre histoire, mais ce document secret avait été créé lorsqu'Aoko était devenue la présidente du conseil étudiant.
+
+}
+[sha:c1b729664a3aa9b14bf3e68e7278f2e7233b975e]{
+-- Page 22, Offset 3233.
+-- その存在だけが噂され、彼女が全校生徒に恐れられる一因になっている、いわく付きの一品だ。
+  Son existence faisait l'objet de rumeurs, et c'était l'une des raisons pour lesquelles elle était crainte par tous les élèves du lycée. En d'autres termes, un cadeau bonus offert avec elle.
+
+}
+[sha:842a4a501ae2759ca1650dc6e1d78912679a621e]{
+-- Page 23, Offset 3234.
+-- 「……そう。徹底しているわね、あい変わらず」
+「...... Je vois. Tu es minutieuse, comme d'habitude.」
+
+}
+[sha:67821290a6a7d352ebe6ab27ecabb75c3b07920a]{
+-- Page 23, Offset 3235.
+-- やや呆れ気味に漏らす有珠。
+  laissa échapper Alice, quelque peu surprise.
+
+}
+[sha:a580c47923c8757305f1505408ecb8216df05d05]{
+-- Page 23, Offset 3236.
+-- 同居をはじめて二年近く。
+  Le début de leur colocation remontait à près de deux ans.
+
+}
+[sha:d8f0bde49de65decedf6f844eb97a673cecee404]{
+-- Page 23, Offset 3237.
+-- 一度やると決めればとことんまで突っ走るのが蒼崎青子だと、有珠も十分身にしみている。
+  Il était à présent acquis pour Alice que, quand Aozaki Aoko avait décidé de quelque chose, elle s'en acquittait rapidement et jusqu'au bout.
+
+}
+[sha:b0da58d5f1099016de1ae03ef6445301bf1064e0]{
+-- Page 24, Offset 3238.
+-- 「ま、私もアレがこんな風に役立つとは思ってもみなかったけど。ほんと、備えあれば憂いなしとはこの事ね」
+「Mais bon, moi aussi, je n'aurais jamais pensé qu'il me servirait pour une situation pareille. Ça montre que si l'on est bien préparé, il n'y a pas de soucis à se faire.」
+
+}
+[sha:bae0c11fc11fe582909fa8cd41641dcd5184917a]{
+-- Page 24, Offset 3239.
+-- とはいえ昨夜の出来事は異例中の異例だ。
+  Cela dit, ce qui s'était passé la nuit précédente était une exception parmi les exceptions.
+
+}
+[sha:56169939d38a7e11250bf936e13b86639146e939]{
+-- Page 24, Offset 3240.
+-- この状況は、本来起こりえるものではない。
+  Cette situation n'était, à l'origine, pas supposée pouvoir se produire.
+
+}
+[sha:79d4ac7a06bd97048fd3dcad2564462211fefe5e]{
+-- Page 25, Offset 3241.
+-- 「それより原因は分かったの？　結界の<結|むす>びに不手際があったなんてのは聞かないわよ」
+「À part ça, tu as compris ce qui s'est passé ? Je ne veux pas t'entendre dire qu'il y avait un défaut dans les liens de la Barrière.」
+
+}
+[sha:bb3220ab9e0e7815b4f44ff8fcbb771b743969f4]{
+-- Page 25, Offset 3242.
+-- 凛とした視線を一際強くする青子。
+  Le regard d'Aoko devint encore plus froid.
+
+}
+[sha:b670877268b20b58724ab4c302a4895e8edb57ec]{
+-- Page 25, Offset 3243.
+-- 結界の仕上げは有珠の役割だ。
+  La finition de la Barrière était le travail d'Alice.
+
+}
+[sha:9a356c5ad366eed6383d1585488ae1a2e7996d10]{
+-- Page 25, Offset 3244.
+-- 昨夜のトラブルの原因が結界にあるのなら、責任の所在は明らかにしなくてはならない。
+  Si le problème de la nuit dernière venait de la Barrière, il était primordial de déterminer à qui en revenait la responsabilité.
+
+}
+[sha:8cf7e7c7bad5191c680917eb867b034d8f2e72a6]{
+-- Page 26, Offset 3245.
+-- 同居人であり相棒である青子と有珠だが、それはあくまで利害が一致しているからである。
+  Aoko et Alice étaient colocataires et partenaires, mais uniquement parce qu'elles avaient des intérêts communs.
+
+}
+[sha:a63f5668d53472d580df70cb44c406fbab57ac15]{
+-- Page 26, Offset 3246.
+-- ふたりの関係は、それが家柄によるものだとしても、味方というより敵に近い。
+  Même si leurs familles étaient à l'origine de leur rencontre, leur relation tenait davantage de l'animosité que de l'amitié.
+
+}
+[sha:ebe71aeae5ac21b8ba8d4820837ee3ff2dfee110]{
+-- Page 26, Offset 3247.
+-- 最終的な話、蒼崎青子と久遠寺有珠は<相容|あいい>れない。
+  Pour résumer, Aozaki Aoko et Kuonji Alice étaient incompatibles.
+
+}
+[sha:f00e9e5ad0e36cffac0deb36c3fc6f160b9345b4]{
+-- Page 27, Offset 3248.
+-- 失点があれば叩く。
+  Si l'une montrait la moindre faiblesse, l'autre frappait.
+
+}
+[sha:830e8fc3f30e69fa2fe83b75d9ae4d0be3478df5]{
+-- Page 27, Offset 3249.
+-- 隙があれば攻撃する。
+  Si l'une voyait une faille, elle attaquait l'autre.
+
+}
+[sha:fad464eafbd698a6503169ef1cd7254a1faa6acf]{
+-- Page 27, Offset 3250.
+-- ―――機会さえ。
+  ―――À la moindre opportunité.
+
+}
+[sha:d6a74bece02a777efa510eb56069176358435c34]{
+-- Page 27, Offset 3251.
+-- 互いが信条的に納得のいく機会が訪れるのなら、当然のように殺し合う関係だ。
+  Si jamais elles se retrouvaient dans une situation où toutes les conditions étaient remplies, alors elles essaieraient tout naturellement de s'entretuer.
+
+}
+[sha:aac1fa85d437b4e09df8c8870ec88ecd7e228882]{
+-- Page 28, Offset 3252.
+-- そんな青子の視線を、有珠は正面から受けとめる。
+  Alice soutint le regard d'Aoko.
+
+}
+[sha:a3526124adfc80d52ab89c3bb44220ca67c57ca8]{
+-- Page 28, Offset 3253.
+-- 大の男でもたじろぐ視線を前にして、有珠の<表情|かお>は微塵も変わらない。
+  Devant ce regard qui intimiderait même un homme adulte, l'expression d'Alice ne changea pas d'un iota.
+
+}
+[sha:471fd39c11f14a1c9d442071f5b65caa14e1e5bc]{
+-- Page 29, Offset 3254.
+-- 「……仮の話だけど。あの結界に落ち度があったのなら、今まで何度もこういう状況になっていたでしょうね」
+「...... C'est une possibilité, mais si la faute incombait à la Barrière, alors nous aurions déjà rencontré cette situation plusieurs fois.」
+
+}
+[sha:820e92153de95bef3c0749ac02e87f7b8b354b63]{
+-- Page 29, Offset 3255.
+-- でしょうね、と青子は頷いた。立場上問いつめただけで、青子は有珠を信頼している。
+  “Sûrement”, acquiesça Aoko. Elle lui avait posé cette question à cause de leurs rôles respectifs, mais Aoko avait confiance en Alice.
+
+}
+[sha:03aaea6892a0cff6f20724b3a4e7ec756744840f]{
+-- Page 30, Offset 3256.
+-- 「結界の在り方は完璧だったのね？」
+「La structure de la Barrière était parfaite, n'est-ce pas ?」
+
+}
+[sha:34d1f2c9d58a4a84948c3502318c3f6943d16833]{
+-- Page 30, Offset 3257.
+-- 「絶対とまでは、断言はできないけど」
+「Néanmoins, je ne peux pas l'affirmer de façon absolue.」
+
+}
+[sha:f6f4fd74fab099def27487df1d9f223a6d2bd79e]{
+-- Page 30, Offset 3258.
+-- やはり抑揚のない声で答える有珠。
+  répondit Alice, d'une voix malgré tout sans intonation.
+
+}
+[sha:a2482e11f70342f32006eda71f0d4a7bd25637c0]{
+-- Page 31, Offset 3259.
+-- 結界とは、一つの閉じられた世界を意味する。
+  Une Barrière représente un monde fermé.
+
+}
+[sha:6b13f7d35a40862c1bd66de8b774f82759669059]{
+-- Page 31, Offset 3260.
+-- 閉じたい場所を、どのような手段であれ外界から<遮断|しゃだん>した状況を結界と呼ぶ。
+  On appelle Barrière un périmètre dans lequel la zone que l'on veut enfermer est isolée du monde extérieur, peu importe la méthode employée.
+
+}
+[sha:8613df7065bb99157f6d2a650c5b2f964eb5112a]{
+-- Page 31, Offset 3261.
+-- 結界には様々な種類があり、
+  Il y en a plusieurs genres,
+
+}
+[sha:5f842dae053a09b54ad67404467aacbe44656c92]{
+-- Page 31, Offset 3262.
+-- 実際にその区間を壁で隔離する物理的なものもあれば、
+  et en pratique, si certaines isolent physiquement la zone par un mur,
+
+}
+[sha:5f6dce91d0c8850c48764824f9f75f1443cacf40]{
+-- Page 31, Offset 3263.
+-- 区間内の様子を鏡や霧、森の囲み等で隠してしまう視覚的なものもある。
+  il y en a aussi d'ordre visuel qui camouflent ce qui se passe à l'intérieur avec des miroirs, du brouillard ou encore une forêt comme délimitation.
+
+}
+[sha:13cb5287fcb7ca7ca0b758deb35510e378ee997a]{
+-- Page 32, Offset 3264.
+-- ただし、それらの結界は『内部』を閉じるために『外部』に異常性を報せてしまっている。
+  Mais ces Barrières, pour isoler “l'intérieur”, informent “l'extérieur” par des anomalies.
+
+}
+[sha:d286f2003c5271e8e9b247a7a5cebf757298b7c8]{
+-- Page 32, Offset 3265.
+-- 立ち入り禁止にはできても、その区間が立ち入り禁止となっている事実を隠蔽できない。
+  Elles peuvent interdire l'accès à l'intérieur, mais elles ne peuvent pas cacher le fait qu'on ne peut y pénétrer.
+
+}
+[sha:7572a8937ef4daf265ad98b7a31eb8d6a2dda9bd]{
+-- Page 32, Offset 3266.
+-- いずれ、中の様子が見えずとも“立ち入り禁止”区域そのものに興味を持つ者がでてくるだろう。
+  Tôt ou tard, même sans voir la situation à l'intérieur, il risque d'y avoir des gens intrigués par le fait qu'on ne peut pas se rendre dans ce lieu.
+
+}
+[sha:bc99e2f77ef691cb67099ffb00a2ed5fc72ccc04]{
+-- Page 33, Offset 3267.
+-- それでは本末転倒だ。
+  Procéder ainsi, c'est mettre la charrue avant les bœufs.
+
+}
+[sha:c4613f23477236279ea2128cf1991f1caa0fdedf]{
+-- Page 33, Offset 3268.
+-- 真に優れた結界とは、外界に何ら異変を感じさせず、同時に、外から干渉されない<隔|へだ>たりでなくてはならない。
+  En réalité, une excellente Barrière doit faire en sorte qu'aucun phénomène inhabituel ne soit perçu au-dehors, et en même temps, être un lieu où l'extérieur ne peut interférer.
+
+}
+[sha:f6a5b0aaf01e4aa2d10ff1b53bae6e527ead901a]{
+-- Page 33, Offset 3269.
+-- 昨夜、久遠寺有珠が公園に敷いた結界はその<類|たぐい>の、“理想的な”結界だった。
+  La Barrière qu'avait déployée la nuit dernière Kuonji Alice dans le parc était ce genre de “Barrière idéale”.
+
+}
+[sha:445e2162b0d77c92cd3072cbc8f03b47cf39fb75]{
+-- Page 34, Offset 3270.
+-- 「……その場所に用があっても、今は無いように思わせれば誰もそこには立ち入らない。
+「...... Même si quelqu'un doit faire quelque chose à cet endroit, si on lui fait penser qu'il n'a rien à y faire pour l'instant, il n'y entrera pas.
+
+}
+[sha:8ebeba1cdb3e99691e05f7c3e9e46fc3f8aa0ddf]{
+-- Page 34, Offset 3271.
+-- 隠したい場所の周りに、一時的な意識の<改竄|かいざん>を<促|うなが>す結界を張る……手間はかかるんだけど、一時間程度の<人避|ひとよ>けには信頼性は高い結界よね。
+  Aux alentours de l'endroit que l'on veut cacher, on place temporairement une Barrière qui altère la conscience des gens...... Ça représente beaucoup de travail, mais c'est une Barrière extrêmement fiable qui éloigne quiconque s'approche pendant une heure environ.
+
+}
+[sha:54cba84885690c9a758c223704c15bc40cb41d1c]{
+-- Page 34, Offset 3272.
+-- 有珠の鏡を使った一級品だし、途中で破れる事もない。事実、入ってきたのはあの人形だけだとはっきり感じられた。
+  C'est un outil de première classe qui exploite les capacités de ton miroir, et elle ne se détruit pas en plein milieu. Et j'ai clairement ressenti que seule cette marionnette était entrée.
+
+}
+[sha:8e9f2c5e0c197b91afc2b7063e929ec7d1437508]{
+-- Page 34, Offset 3273.
+-- これで完璧じゃなかったら何が完璧なのよ？」
+  Si c'est pas la perfection, alors qu'est-ce qui l'est, Alice ?」
+
+}
+[sha:64188f4f80b20c75bdb82319594a65025e49292f]{
+-- Page 35, Offset 3274.
+-- 「……わたしも分からない。森作りに落ち度はなかったわ。
+「...... Moi aussi, je ne comprends pas. Je n'ai pas fait d'erreur en créant la forêt.
+
+}
+[sha:5308bb9cd75c08da0194fda91766e7199131a068]{
+-- Page 35, Offset 3275.
+-- 森は数日かけて栽培したものだし、今まで通り信頼できる結界よ。けど例外があったのなら、どこかで見落としがあったのね」
+  Je l'avais fait grandir pendant plusieurs jours, on pouvait se fier à cette Barrière comme on l'a toujours fait. Mais s'il y a eu un problème, c'est sans doute parce que j'ai sauté une étape quelque part.」
+
+}
+[sha:af79438783b848102337d94e777cc203014b7371]{
+-- Page 35, Offset 3276.
+-- そう言う有珠の瞳は、その見落とし自体なかった事を示している。
+  Les pupilles d'Alice montraient que cet oubli n'avait pas eu lieu.
+
+}
+[sha:bc49e1bc0abee8f918a73353de4e7d6c37b37b04]{
+-- Page 36, Offset 3277.
+-- 「……まいった。こうなると、一番いいのは<目撃者|あいつ>が人形使いだってパターンね。それならかろうじて納得できる。相手が魔術師なら、結界の侵入ぐらいできるでしょうし。
+「...... C'est ennuyeux. Dans ce cas, le meilleur cas de figure serait que le témoin soit aussi le marionnettiste. Si c'est bien le cas, je peux comprendre, même difficilement, qu'il ait pu réussir une telle chose. Après tout, s'il s'agissait bien d'un Mage, il était sûrement capable de pénétrer la Barrière.
+
+}
+[sha:7bf0af2ad2d705b6e18021cf8f1bfc27c631f6af]{
+-- Page 36, Offset 3278.
+-- 問題は……侵入した時の違和感を、どうやって消したかって事だけど」
+  Le problème...... est de savoir comment il a fait pour que je ne subisse pas le malaise que l'on ressent habituellement lors d'une intrusion.」
+
+}
+[sha:416b5a879270cb76b614b63e49c79399fb056caf]{
+-- Page 37, Offset 3279.
+-- そんな使い手が自分たちを狙っている、というのもぞっとしない話だ。
+  C'était effroyable qu'un tel adversaire les ait prises pour cible.
+
+}
+[sha:0638ec8b7af97a167cb912469fe9b3a1b7d19ca1]{
+-- Page 37, Offset 3280.
+-- 有珠の結界を魔術で騙し通せるという事は、相手は久遠寺有珠を上回る魔術の腕を持つという事。
+  S'il était capable de tromper grâce à sa Magie la Barrière de Kuonji Alice, cela signifiait qu'il possédait des talents de Mage qui lui étaient supérieurs.
+
+}
+[sha:54aef8c6b39f791f55d0e30a90843cd0a19fe1ef]{
+-- Page 37, Offset 3281.
+-- ―――とてもではないが、今の蒼崎青子にどうにかできる相手ではない。
+  ―――Sans exagérer, on pouvait dire qu'Aozaki Aoko ne pourrait rien faire contre lui.
+
+}
+[sha:5e319d2524332b9a450f6baa3d10329b36549c8b]{
+-- Page 38, Offset 3282.
+-- 「……その線はないわ。
+「...... Cette hypothèse est incorrecte.
+
+}
+[sha:c8a761a8481036310b0dc9ee50746de093ce86e2]{
+-- Page 38, Offset 3283.
+-- 彼は部外者よ。<椋鳥|むくどり>はともかく、ロビンが後を<辿|たど>れなかったもの。魔力の気配はまったくなし。誰かの魔術で操られている犠牲者、というのもないわね」
+  Ce n'est pas quelqu'un de notre monde. Les étourneaux et même Robin n'ont pas pu le poursuivre. Il n'émettait pas une once de prana. Et ce n'était pas une victime manipulée par la Magie de quelqu'un.」
+
+}
+[sha:a6c64287970c89c06d00c4387bdd36cd86710c02]{
+-- Page 39, Offset 3284.
+-- はかない希望は打ち砕かれた。
+  L'espoir momentané s'était envolé.
+
+}
+[sha:623122695026468990327b914900b1227f5559a7]{
+-- Page 39, Offset 3285.
+-- なら、これで青子の質問は終わりだ。
+  Dans ce cas, les questions d'Aoko étaient terminées.
+
+}
+[sha:bf5dfe5dec7acb12c7a66db5024f1fdff7e3e980]{
+-- Page 39, Offset 3286.
+-- ここはもう、たんに運が無かったと諦めて昨夜の事を認めるしかない。
+  Il ne lui restait plus qu'à laisser tomber en pensant qu'elle n'avait tout simplement pas eu de chance et accepter les évènements de la veille.
+
+}
+[sha:3809b2f7c5368f1c2592e77383249076946049af]{
+-- Page 40, Offset 3287.
+-- 『……魔術師の秘密を見られて、おまけに目撃者を逃がした、か……。普通の高校生の悩みじゃないなぁ……』
+『...... On a découvert mon secret, et en plus, le témoin s'est échappé.... Ce ne sont pas les ennuis d'une lycéenne ordinaire, ça......』
+
+}
+[sha:ecd94e51e388a38124bf1bce1db55d57b9a9b78e]{
+-- Page 40, Offset 3288.
+-- ばふ、とソファーに大きく背中を預ける。
+  pensa-t-elle déconfite tout en restant adossée contre le sofa.
+
+}
+[sha:2b12a1b1822180b07f59b60cbb48268e0d3abdaa]{
+-- Page 40, Offset 3289.
+-- 悲しいかな、見上げた空はブラウンの天井だ。
+  Tristement, le ciel qu'elle regardait était le plafond marron.
+
+}
+[sha:e790c30b7d93c809f18a3c807b5cde67f3742c15]{
+-- Page 40, Offset 3290.
+-- 風情も何もあったものじゃない、とますます青子はブルーになる。
+  Ça n'a rien de drôle, pensa Aoko qui avait de plus en plus le cafard.
+
+}
+[sha:ff7dee2d019ef823adfb67640d663e84ea1293ee]{
+-- Page 41, Offset 3291.
+-- 「青子。覚悟を決めておいて」
+「Aoko. Prends ta décision.」
+
+}
+[sha:5a3b9d6cd66a788065a3e22d2b3f68aed045f82f]{
+-- Page 41, Offset 3292.
+-- 超然とした同居人の声。
+  La voix de sa colocataire était impassible.
+
+}
+[sha:855f4249a30e4ccd3d0dc1e9a1a23f48d293feda]{
+-- Page 41, Offset 3293.
+-- 天井を見上げる青子の瞳に変化はない。ただ、ぼんやりと木造の景色を眺めている。
+  Il n'y eut aucune réaction de la part d'Aoko dont le regard était rivé au plafond. Elle ne faisait que regarder distraitement les motifs du bois.
+
+}
+[sha:eb9d90ebbb1dbad4a058b4d0a6555af80f6f9656]{
+-- Page 42, Offset 3294.
+-- 「……それとも。貴女にできないのなら、わたしが行ってあげてもいいけど」
+「...... Sinon, si tu ne t'en sens pas capable, je peux le faire à ta place.」
+
+}
+[sha:c3db4511f10f9a7e7d60e29cc76e054e6d37c605]{
+-- Page 42, Offset 3295.
+-- 冷酷な彼女の言葉は、真実、冷酷な意味を持っていた。
+  Son ton glacial soulignait toute la gravité de sa remarque.
+
+}
+[sha:e7a71fbb625341e93933a523523f7b4075ce2b30]{
+-- Page 42, Offset 3296.
+-- それをゆっくり、自分に許される精一杯の誠実さで青子は飲みこんだ。
+  Aoko accusa lentement le coup, avec toute l'honnêteté qu'elle pouvait se permettre.
+
+}
+[sha:2db30c88aa1cef57ca72464d08b100f8b69068cf]{
+-- Page 42, Offset 3297.
+-- 決して消化できない、熱した<鉛|なまり>を口にするように。
+  C'était comme si elle avalait du plomb chauffé à blanc et impossible à digérer.
+
+}
+[sha:d5f117b5a3be49e865a241cca90ffece88257bbd]{
+-- Page 43, Offset 3298.
+-- 『……そうだ。覚悟なんて、もう決めたでしょう』
+『...... C'est vrai. Je m'y suis déjà résolue, n'est-ce pas ?』
+
+}
+[sha:d1983914033926c015be27bcdaea1b68c812c509]{
+-- Page 43, Offset 3299.
+-- 自分に言い聞かせるが、それも誤魔化しだ。
+  Elle avait beau se dire ça, c'était de l'hypocrisie.
+
+}
+[sha:eac81b714bb556d99642f082754c9777e64f9b2a]{
+-- Page 43, Offset 3300.
+-- 明らかに前回と今回は違う。
+  Les deux cas étaient manifestement différents.
+
+}
+[sha:73bd95c360babd52b6edf6d7411cffe123b688bd]{
+-- Page 43, Offset 3301.
+-- やる事は同じだとしても、その対象の立場が違う。
+  Même si la chose à faire était la même, la situation de la cible ne l'était pas.
+
+}
+[sha:7632998e6dbecc93f56b53bc378644a8222e62ac]{
+-- Page 44, Offset 3302.
+-- 前回の覚悟は、いわば魔術師としての覚悟だった。
+  La résolution de la dernière fois était, en d'autres termes, sa résolution en tant que Mage.
+
+}
+[sha:22a06f81213fec9f641964a30361bd95b8364578]{
+-- Page 44, Offset 3303.
+-- 敵が来るから倒す。
+  Quand l'ennemi approchait, on l'abattait.
+
+}
+[sha:027d1440027046f3625c732e5e6bebaff72fb63e]{
+-- Page 44, Offset 3304.
+-- 戦いを挑まれたのならこれに応える。
+  Si on venait la défier, elle y répondait.
+
+}
+[sha:5d5a19e39252d9c54675ae2145a204c694e17e14]{
+-- Page 44, Offset 3305.
+-- こちらもむこうも同じ魔術師で、形式上<非|ひ>はあちら側にある。たとえその決着が殺人以外の何物でもないとしても、お互い合意の行動だ。
+  Son adversaire et elle étaient tous les deux des Mages, et la faute incombait à l'autre. Même si au bout du compte, ce n'était qu'un meurtre, ça restait un acte d'un commun accord.
+
+}
+[sha:be6d4a16f970bce0775c7392351ab655abbd887a]{
+-- Page 44, Offset 3306.
+-- 殺し、殺される<天秤|てんびん>の上での行為。
+  Un acte à mettre sur le compte de la balance : tuer ou être tué.
+
+}
+[sha:a4a4de0cef706046f2d4c1d9afda691bb087ac5f]{
+-- Page 44, Offset 3307.
+-- 彼らも彼女も、善悪の<秤|はかり>をそもそも用意していない。
+  De toute façon, son ennemi et elle n'étaient pas concernés par le concept du bien et du mal.
+
+}
+[sha:f6cb4d51cfc1d3d42e2ef920a7166051e42ab58d]{
+-- Page 45, Offset 3308.
+-- けれど今回は違う。
+  Mais cette fois, c'était différent.
+
+}
+[sha:0959aff96000faab81332d618bb2b54f874927e8]{
+-- Page 45, Offset 3309.
+-- 相手は敵でもないし、魔術師でもない。こっちはそのつもりでも、相手にその気はないだろう。
+  L'adversaire n'était ni un ennemi, ni même un Mage. Même si elle était prête à tuer, son adversaire, non.
+
+}
+[sha:00880274398e528f2977fa3d89e0b7ce90f75f3f]{
+-- Page 45, Offset 3310.
+-- ……だから、これはきっと善悪の話になる。
+  ...... Donc c'était sûrement un problème de conscience qui relevait du bien et du mal.
+
+}
+[sha:41a4c6dfa30ce20f0f433f27fa6b2fc529fa9608]{
+-- Page 45, Offset 3311.
+-- 無関係な殺戮を、果たして自分は負えるのか。
+  Pouvait-elle vraiment assumer le massacre d'un innocent ?
+
+}
+[sha:22dffbe3c918641aa6bc1f91713330af3bd86e87]{
+-- Page 45, Offset 3312.
+-- 魔術師なら当然の、よくある<手|こ><間|と>だと飲みこむのか。
+  Ou accepter que ce genre d'évènement arrivait souvent et naturellement pour un Mage ?
+
+}
+[sha:9bc367025fd685a94d4a4036201a869e1b827194]{
+-- Page 46, Offset 3313.
+-- まさか、と鼻で笑う。
+  Impossible, rit-elle en silence.
+
+}
+[sha:176a63cadfce856ddd30148b2340968a6eade5df]{
+-- Page 46, Offset 3314.
+-- 『魔術師だから』なんて理由で現実社会との折り合いを無くす超越性なぞ、はなから青子は持っていない。
+  Depuis sa venue au monde, Aoko ne possédait pas une nature transcendante lui permettant d'ignorer ses liens avec la société réelle sous prétexte qu'elle était une Mage.
+
+}
+[sha:291bd3cc5897a0e5a534a746bcab7cde41f3c67a]{
+-- Page 46, Offset 3315.
+-- 心に確信のないまま、
+  Aoko détestait agir,
+
+}
+[sha:f2660ae60c5b1ee6376a7dbe10b7dbd1d137e160]{
+-- Page 46, Offset 3316.
+-- 分からないまま行動する事を、青子は嫌っている。
+  sans comprendre ou sans certitude dans son cœur.
+
+}
+[sha:b27367131a48d6d84efd5a37e33818a8a12295cf]{
+-- Page 46, Offset 3317.
+-- 彼女が走る時は、いつも自分に決断を下した後だ。
+  Elle n'agissait que lorsqu'elle avait pris elle-même sa décision.
+
+}
+[sha:d04e4b23419f74e25f22c39575c094ed99a97b7e]{
+-- Page 47, Offset 3318.
+-- 「うん。ま、やるしかないだろうね」
+「OK. De toute façon, je n'ai pas le choix.」
+
+}
+[sha:f0f94dabcf340f0f27d406999fd16ebbb7244876]{
+-- Page 47, Offset 3319.
+-- さばさばした一言とともに、青子はソファーから背を離した。いいかげん天井は見飽きたらしい。
+  Tout en faisant cette déclaration franche, Aoko ôta son dos du sofa. Apparemment, elle en avait assez de regarder le plafond.
+
+}
+[sha:f06669625dd416c5e10f559810027a3e91054ec8]{
+-- Page 47, Offset 3320.
+-- 青子はいつも通りの青子で、有珠もあえて言及はしない。
+  Aoko agissait conformément à son habitude, et Alice ne la contredit pas.
+
+}
+[sha:1ad466f0d48c2bf7ad895163d6907410c225f8aa]{
+-- Page 48, Offset 3321.
+-- 「じゃあ、これ」
+「Dans ce cas, tiens.」
+
+}
+[sha:57be42d7616ff8fa2b6376fc29f2fae0dddbf711]{
+-- Page 48, Offset 3322.
+-- ご褒美、とばかりに有珠は<小瓶|こびん>を取り出した。
+  Comme une récompense, Alice sortit une petite bouteille.
+
+}
+[sha:d6885ad07ff9d0bf9389be7c9cfe67286fb84de7]{
+-- Page 49, Offset 3323.
+-- 手のひらに収まるほどの大きさ。
+  Elle pouvait tenir dans la paume de la main.
+
+}
+[sha:089be78ba296b2b05209e4045358c9cf6d56b77f]{
+-- Page 49, Offset 3324.
+-- 少女の細い指先とは不釣り合いな、寸胴の、見栄えしない瓶である。
+  C'était un flacon cylindrique plutôt grossier et qui jurait avec ses doigts fins.
+
+}
+[sha:cbdb5a0fc803a5fa9788fad6599b28a3418bf64b]{
+-- Page 49, Offset 3325.
+-- 瓶は曇っていて、中身はカラ。
+  Le flacon était sombre et vide de tout contenu.
+
+}
+[sha:572443e8864a86ace9dd2640dd1a4e6dce073b4a]{
+-- Page 49, Offset 3326.
+-- 表面にはラベルのシールを強引に剥がした跡が見られた。
+  Elle vit sur l'extérieur une trace montrant que l'on avait retiré de force l'étiquette.
+
+}
+[sha:ac5eaa85b2cbe88e7cf5b4572558e49024662da3]{
+-- Page 50, Offset 3327.
+-- 「なによ、それ」
+「C'est quoi ce truc ?」
+
+}
+[sha:bc4edfea27d6ff52140cdb40b1605ce7524eb780]{
+-- Page 50, Offset 3328.
+-- 不吉なものを感じて、<胡散|うさん>臭そうに小瓶を睨む。
+  Pressentant quelque chose de lugubre, Aoko fixa la petite bouteille d'un air suspicieux.
+
+}
+[sha:1cf90ff6e651e60e493d218a5b9ebcfef2acb7d7]{
+-- Page 51, Offset 3329.
+-- 「収納の小瓶。ちょうどひとつ余ってたから、あげるわ」
+「Une fiole de rangement. J'en avais justement une en trop, alors je te la donne.」
+
+}
+[sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
+-- Page 51, Offset 3330.
+-- 「はい？」
+「Hum ?」
+
+}
+[sha:9871103eb58fcfd31651158096f99d45df01d62f]{
+-- Page 51, Offset 3331.
+-- 「名前は忘れたけど、中国の小説に出てきたのと同じよ」
+「J'ai oublié son nom, mais c'est la même que celle qui apparaît dans <un roman chinois|La Pérégrination vers l'Ouest>.」
+
+}
+[sha:f929304012ade4dd8e28834a404c0daae8a8eaad]{
+-- Page 51, Offset 3332.
+-- 素っ気ない言葉に、青子は驚異の理解力を示した。
+  En entendant cette réponse incomplète, Aoko fit preuve d'une relative perspicacité.
+
+}
+[sha:e927c632f9ea5f9a8982f769d12f6701986881ff]{
+-- Page 52, Offset 3333. Mods: @k, @e.
+-- 「それって<蓮華洞|れんげどう>の<番人|きょうだい>の話？　じゃ、あの赤い<瓢箪|ひょうたん>と同じなわけ？
+「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? Alors, c'est la même chose que cette gourde rouge ?
+
+}
+[sha:7651df9770111233ad06007362289f05d05e7b93]{
+-- Page 52, Offset 3334.
+-- 言いたくないけど、そこらへんの風邪薬のラベルを無理やり剥がして、小瓶に見せかけてるそれが？」
+  Ça me donne la chair de poule rien que d'en parler, mais tu parles bien de ce truc qui ressemble à une fiole de médicament contre le rhume et dont on a enlevé l'étiquette ?」
+
+}
+[sha:4ae1ac29a8099d8a60c4e1ca7c62aab394938d39]{
+-- Page 52, Offset 3335.
+-- 言われて、たしかにセンスも何もない、と小瓶をまじまじと見る有珠。
+  En réfléchissant à la question d'Aoko, Alice regarda avec sérieux la fiole quelconque.
+
+}
+[sha:a6ac0875a16388a0a36771f0cd6aad563e999b8d]{
+-- Page 52, Offset 3336.
+-- が、別に自分が使うわけでもないと悟ったのか、あっさりと小瓶をテーブルに置いた。
+  Mais, prenant conscience que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
+
+}
+[sha:277d3c4a59bf3db1d11f6d1956964e12aff6cc8b]{
+-- Page 53, Offset 3337.
+-- 「赤い瓢箪じゃなくて、<羊脂玉|ようしぎょく>の<浄瓶|じょうびん>の方」
+「Pas la gourde rouge, mais la flasque de suif en jade.」
+
+}
+[sha:fa8628201a72a4e4efc01acf71b803e20a976df2]{
+-- Page 53, Offset 3338.
+-- 「そういう問題じゃない。私は魔術師としての雰囲気を論じてるんだっ」
+「C'est pas le problème. Je te donne juste mon ressenti en tant que Mage.」
+
+}
+[sha:0e2af592fe32191ec679fb235cccc493208364ca]{
+-- Page 53, Offset 3339.
+-- 「些細な事を気にするのね。<正露丸|せいろがん>の瓶じゃないだけいいと思うけど」
+「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de médicament contre les maux de ventre.」
+
+}
+[sha:317c234b9695a1e69f608c682b580bad8fc57f04]{
+-- Page 53, Offset 3340.
+-- 「―――む」
+「―――Hmm.」
+
+}
+[sha:0b2cc530da57a52ff9cffb16ff8a9a28760309aa]{
+-- Page 53, Offset 3341.
+-- あまりにも説得力のある返答だった。
+  C'était une réponse plutôt sinistre.
+
+}
+[sha:fb2d81b6ad06da82521e6d3a83d19f047a24df94]{
+-- Page 54, Offset 3342.
+-- 「ふたを開けて、相手の名前を<訊|たず>ねればいいから。
+「Tu n'as qu'à ouvrir le couvercle et énoncer le nom de la personne.
+
+}
+[sha:294d5dba809a0cf638f7d91c8d3aac834853f0a4]{
+-- Page 54, Offset 3343.
+-- ただし相手に抵抗する意志が残っている場合、小瓶は割れるから気をつけて」
+  Mais si la cible possède encore la moindre volonté de résister, la fiole se brisera, alors utilise-la judicieusement.」
+
+}
+[sha:c0faeb74897cb61adee5d7bf7780b4844e5b2f2a]{
+-- Page 54, Offset 3344.
+-- 淡々と語る有珠と、眉をひそめる青子。
+  Aoko fronça les sourcils suite à l'explication détachée d'Alice.
+
+}
+[sha:387435f1844bc7737d124052e830860bd3b53e1c]{
+-- Page 54, Offset 3345.
+-- 「ちょっと待った。抵抗する意志があるとダメって、眠っている時にやれってコト？」
+「Attends un peu. Si ça ne fonctionne pas sur une cible qui résiste, ça veut dire qu'il faut le faire quand elle dort ?」
+
+}
+[sha:a10e939830b6c639ecb799b670f7feef5f579d58]{
+-- Page 55, Offset 3346.
+-- 「……それは試したコトがなかったわ。
+「...... Je n'ai jamais essayé ça.
+
+}
+[sha:5eb9ad1bf906063e511268d50adb19179bae1382]{
+-- Page 55, Offset 3347.
+-- 眠っているのに返事をする人っているの？」
+  Il existe des gens qui répondent en dormant ?」
+
+}
+[sha:d5bfb163a3c100156c20f568d5516ef47ed10fd1]{
+-- Page 55, Offset 3348.
+-- 「……たまにいるけど。
+「...... Il y en a, ici et là.
+
+}
+[sha:7f7f4396ecb3a7bcc80dbaf6bc010393b1910a77]{
+-- Page 55, Offset 3349.
+-- まあ、確かに珍しいわね、そういう人」
+  Mais effectivement, ça ne court pas les rues.」
+
+}
+[sha:0eab7e55b9bd897c136a13db1662fa6499ad4736]{
+-- Page 55, Offset 3350.
+-- となると、あとは相手が思いっきり衰弱していて、前後不覚になっている、といった状況ぐらいか。
+  Dans ce cas, il faudrait faire en sorte que l'adversaire soit très affaibli et proche de l'inconscience.
+
+}
+[sha:9de5a617d00f156cc4521ccd76e2550830e839f7]{
+-- Page 56, Offset 3351.
+-- 「あ、そうそう。薬や魔術がかかっていると、その<余分|おも>さでも割れるから気をつけて」
+「Ah, une dernière chose. Si tu utilises des médicaments ou de la Magie, elle se brisera à cause de la surcharge, alors fais attention.」
+
+}
+[sha:0b10e674a4739a1fe104a75c7776c3503e97f34e]{
+-- Page 56, Offset 3352.
+-- 「つっかえない！
+「C'est inutilisable !
+
+}
+[sha:622f09667a6abeaf9dd73f9c7f8102d0e8361faa]{
+-- Page 56, Offset 3353.
+-- それってほとんど役たたずって事じゃない！」
+  Ça veut dire que ce truc ne sert pratiquement à rien !」
+
+}
+[sha:f3c60f19c1b069ae0640098281658eb0d9e95b30]{
+-- Page 56, Offset 3354.
+-- 「それは青子しだいね」
+「Ça, ça dépend de toi.」
+
+}
+[sha:b469f11750b29d06d0b1799851c30286b46e35f3]{
+-- Page 56, Offset 3355.
+-- 言って、有珠は視線を外す。
+  dit Alice en détournant le regard.
+
+}
+[sha:914235164c4387300224d7e9affcecfc11989800]{
+-- Page 56, Offset 3356.
+-- もうこの話題はどうでもいい、と言うように。
+  Comme pour signifier qu'elle ne se souciait plus de ce sujet.
+
+}
+[sha:8ebe0ee2bba3600ee1ae1996c649bee0665a23a6]{
+-- Page 57, Offset 3357.
+-- 「……はあ。有珠がこういう小道具好きなのは知ってたけどね……これも趣味なワケ？」
+「...... Aaah. Je savais que tu aimais ce genre de petit gadget... C'est un passe-temps ou quoi ?」
+
+}
+[sha:80d2772fd0a2913b3f4d4cb7574d94b2fb87f4ea]{
+-- Page 57, Offset 3358.
+-- あんまりこういう趣味は持ってほしくないな、と思いつつ青子は問う。
+  demanda Aoko, tout en pensant qu'elle ne voulait surtout pas avoir ce genre de loisir.
+
+}
+[sha:e7448f3742c7937b561c3fb5a0c636e0c6bccfe7]{
+-- Page 57, Offset 3359.
+-- 「たぶん。
+「Sûrement.
+
+}
+[sha:3068582df2719463f0b0c6872a610dd304e160fd]{
+-- Page 57, Offset 3360.
+-- それで、どうするの？　持っていくのか、いかないのか」
+  Alors ? Qu'est-ce que tu fais ? Est-ce que tu la prends ?」
+
+}
+[sha:0388373da30e2ad8fb6aa9d7360f8e546a2d5ee9]{
+-- Page 58, Offset 3361.
+-- その質問には答えず、しばし迷ってから青子は小瓶を手に取ると、ポケットにしまいこんだ。
+  Sans répondre à cette question, après avoir hésité un instant, Aoko saisit la petite bouteille et la glissa dans sa poche.
+
+}
+[sha:8c8d38bff1d79fbff9a5571db12cd19792a73b0b]{
+-- Page 58, Offset 3362.
+-- まあ、何かの役には立つかもしれない。
+  Bah, elle serait peut-être d'une quelconque utilité.
+
+}

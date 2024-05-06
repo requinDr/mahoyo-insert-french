@@ -1,0 +1,24 @@
+[sha:807e0af9e3b94f2c6beaa6eb72035e93ebd78a7d]{
+-- Page 11, Offset 23871. Mods: @e.
+-- ～選択肢Ｘ～
+-Choix X-
+
+}
+[sha:b646815024f06b59da4f828308575ea4893af101]{
+-- Page 11, Offset 24098. Choice.
+-- 魔力とやらを持っているのは誰だ、と思った。
+Qui possédait ce fameux “prana” ?
+
+}
+[sha:7f05c2dd0c858370ae082ab8bda582783934e20f]{
+-- Page 11, Offset 24099. Choice.
+-- プロイとやらを起動できたのは誰だ、と思った。
+Qui avait pu activer le Ploy ?
+
+}
+[sha:4964f89b2a8d021def805404f715e5de9b99ed25]{
+-- Page 11, Offset 24100. Choice.
+-- 常にみんなに見られていたのは誰だ、と思った。
+Qui était resté à la vue de tout le monde en permanence ?
+
+}

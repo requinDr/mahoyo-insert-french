@@ -1,0 +1,672 @@
+[sha:b23ba11d68537aed268e572d58e5995ed35e70ad]{
+-- Page 0, Offset 17896.
+-- 「と、まあこういう訳だ。
+「Enfin, voilà ce qu'il en est.
+
+}
+[sha:58cb183c97b7b3a3d7401cf036ac66b1e17b137e]{
+-- Page 0, Offset 17897.
+-- ベオだけに頼ってはいない事がよく分かったろう」
+  Vous avez dû comprendre à présent que je ne me repose pas uniquement sur Beo.」
+
+}
+[sha:e76660576927cb74f40a13766db2eb74a81d07ea]{
+-- Page 0, Offset 17898.
+-- 表情は冷淡なまま。勝利は<揺|ゆ>るぎないものとなったのに、橙子には喜びの笑みもない。
+  Son expression restait froide. Bien que la victoire lui soit incontestablement acquise, Tōko n'esquissait pas le moindre sourire.
+
+}
+[sha:7ba6a4a56a83625e287471d6623d97b9614158eb]{
+-- Page 1, Offset 17899.
+-- 「姿を隠したのは鏡の応用か。
+「L'invisibilité était donc due au déploiement du miroir.
+
+}
+[sha:e3a93079dca87acd6df3ad6fd600f0d185a162e6]{
+-- Page 1, Offset 17900.
+-- ……探知や隔離だけでなく、援護まで行えるとはね。
+  ...... Il peut donc non seulement détecter et séquestrer, mais également assister son utilisateur.
+
+}
+[sha:9a11625538ffeeb6a393657b604e9c47a9f69fcc]{
+-- Page 1, Offset 17901.
+-- 三大のプロイには含まれないものの、汎用性の面で言えばアレも破格のプロイだな」
+  Il ne fait peut-être pas partie des Trois Grands Ploy, mais sur le plan de la polyvalence, il reste exceptionnel.」
+
+}
+[sha:bcff959cf05e1ecb5694cb745e073f00720e5507]{
+-- Page 1, Offset 17902.
+-- 「……持ち上げるじゃない。なに、騙された負けおしみ？」
+「...... Je te trouve bien élogieuse. Tu te cherches des excuses pour t'être fait berner ?」
+
+}
+[sha:5e8aab15b94415d64ac36f0e39f838d10165634f]{
+-- Page 2, Offset 17903.
+-- 「いや、ただの自画自賛だよ。
+「Au contraire, je me complimente moi-même.
+
+}
+[sha:228dcafeb6b653b313b2967d2d5eb42f0474dffb]{
+-- Page 2, Offset 17904.
+-- なにしろ今の<鏡|バージョン>は私とマインスターの合作だ。趣味に興じすぎてあれこれと機能を足してしまったと、今更ながら悔いているところさ」
+  Après tout, cette version du miroir est née d'une de mes collaborations avec Meinster. Je me suis amusée à lui rajouter toutes sortes de fonctionnalités, et maintenant, je le regrette.」
+
+}
+[sha:149191bd453303c3d45f0aeabc9a33e69f39f8f4]{
+-- Page 3, Offset 17905.
+-- 「その後、青子に見せかけて私に向かってきたのは例の駒鳥。それに気を取られている間の大規模な魔術の発動。
+「D'abord, ce cher Robin s'est fait passer pour toi avant de se précipiter sur moi, puis tu as entamé l'incantation d'un sort de haut niveau pendant qu'il faisait diversion.
+
+}
+[sha:710524956bf4041f590d9b4bd152f9e467a1a530]{
+-- Page 3, Offset 17906.
+-- 私の魔眼は有珠が防ぎ、青子は攻撃だけに専念する……組み立ては悪くはない。よくやったと言っておくよ」
+  Alice vous protégeait de mon Œil Mystique tandis que toi, tu te focalisais sur l'attaque...... Ce n'était pas un mauvais plan. Vous méritez mes félicitations.」
+
+}
+[sha:d059ddf6eab9c7703f5ef7b58866c4fa387c5297]{
+-- Page 4, Offset 17907.
+-- 一連の攻防を顧みて、所感を述べる橙子。
+  Tōko revenait sur le déroulement de l'affrontement et faisait part de ses impressions.
+
+}
+[sha:3a528cfede5cb3fca358ac3a53a638c91330ea7b]{
+-- Page 4, Offset 17908.
+-- 青子は橙子の背後に咲いた魔術刻印に気を取られている。
+  Aoko était distraite par le Sceau Magique qui s'était déployé dans le dos de sa sœur.
+
+}
+[sha:3e0c0ee0a60daedf30180117114c5db39f623d5b]{
+-- Page 4, Offset 17909.
+-- 有珠だけが、橙子の言動を正確に把握していた。
+  Seule Alice saisissait le sens précis des paroles de cette dernière.
+
+}
+[sha:c93325fb29d8c944a51d1d84ae57b5991fd57a59]{
+-- Page 5, Offset 17910.
+-- 「しかし、それもここまでだ。
+「Mais ça se termine ici.
+
+}
+[sha:6ebec18ca2eb942174318c49106f876c594b444f]{
+-- Page 5, Offset 17911.
+-- 惜しいな青子。わずか二年であれだけの魔術を使えるのなら、あと数年もすれば一流の<射手|しゃしゅ>になっていただろうに」
+  C'est dommage, Aoko. Tu es parvenue à maîtriser un sort pareil en seulement deux ans. Encore quelques années et tu aurais pu devenir tireur d'élite.」
+
+}
+[sha:7cb4f99ffe4e150f154ecc44492f6ea16926f90a]{
+-- Page 5, Offset 17912.
+-- 橙子は再度指を鳴らす。
+  Tōko claqua une deuxième fois des doigts.
+
+}
+[sha:4516c4cfaaf0138a19d580e24de15a46c82eb6a1]{
+-- Page 5, Offset 17913.
+-- 中空に浮かぶ刻印に、さらなる光が灯っていく―――
+  La lueur dégagée par le Sceau flottant en plein air s'intensifia―――
+
+}
+[sha:64cb9deacd8082acd922e7c174fb7e00c8f0f2bd]{
+-- Page 6, Offset 17914.
+-- “……有珠。アレは何？”
+“...... Alice. Qu'est-ce que c'est que ça ?”
+
+}
+[sha:c99d2e7bedc0eef1ea6dc894b909fbd6b3e010f0]{
+-- Page 6, Offset 17915.
+-- 傍らの有珠の手に触れて、青子は呼びかけた。
+  demanda Aoko par un simple contact avec la main de sa partenaire.
+
+}
+[sha:a1cfb2a361a13e6d968be6f1f7f7b57e8fdbed53]{
+-- Page 6, Offset 17916.
+-- 青子は振り返る事さえできない。
+  Elle ne pouvait même pas se retourner.
+
+}
+[sha:a7b0615cb6dc7dee5fe1537d085fd51e0fd103cd]{
+-- Page 6, Offset 17917.
+-- 橙子から目を離した瞬間、この戦いが終わる事を肌で感じているからだ。
+  Tout son corps lui disait qu'à l'instant où elle détacherait son regard de Tōko, ce combat serait terminé.
+
+}
+[sha:a6907d13f91edb6c1a26aa190bb54bc3a77628fa]{
+-- Page 7, Offset 17918.
+-- 「見ての通り、魔術刻印よ。……信じられないけど」
+「Comme tu peux le voir, c'est un Sceau Magique. ...... Bien que j'aie du mal à en croire mes yeux moi-même.」
+
+}
+[sha:56e40ad476547c54842757d7dac7751b3eac302c]{
+-- Page 7, Offset 17919.
+-- 有珠の声には、驚きと、不快感がこめられていた。
+  La voix d'Alice transpirait la surprise et le dégoût.
+
+}
+[sha:1eef15fcc6907c4aeb33b40eb0747d5d02bb9fca]{
+-- Page 7, Offset 17920.
+-- その気持ちは青子にも理解できる。
+  Aoko comprenait ce qu'elle ressentait.
+
+}
+[sha:cba8462b2c954b463f7d46f0e40c59996ca41369]{
+-- Page 7, Offset 17921.
+-- そもそも、魔術刻印とは各々の家系が独特の形で伝える物だ。文字である事から魔道書と同一に思われるが、その実態は大きく異なる。
+  En premier lieu, un Sceau Magique se transmettait d'une façon propre à chaque famille. De par sa nature calligraphique, on aurait pu vouloir le classer dans la même catégorie que les grimoires, mais en réalité, les différences entre eux étaient grandes.
+
+}
+[sha:8b0f794488c4d199ef526147351ca033460afc6a]{
+-- Page 8, Offset 17922.
+-- 魔術には形がない。
+  La Magie n'a pas de forme.
+
+}
+[sha:0523ddd2c2738a6ee69a3663be7f532b02ad37c7]{
+-- Page 8, Offset 17923.
+-- 実像がなく、再現性さえ不確かだ。
+  Elle n'a pas d'image réelle, et même la reproduire peut s'avérer aléatoire.
+
+}
+[sha:10a6164c71056ce716a94e51e2bc9dbf90cf1ccb]{
+-- Page 8, Offset 17924.
+-- ソレを明確な形にしようと、莫大な時間、心血を削る技術をかけたもの―――
+  Afin de lui donner une forme précise, une technique demandant énormément de temps et d'efforts se révèle nécessaire―――
+
+}
+[sha:b96db3a751282d7d9f69bf260f77e4b5fa2d813f]{
+-- Page 8, Offset 17925. Glued. Mods: @x.
+-- 一族の悲願と希望の結晶が、各門派の後継者の証、魔術刻印なのである。
+Cette technique n'est autre que le Sceau Magique, cristallisation des souhaits et des espoirs d'un clan, et symbole que porte l'héritier de chaque famille.
+
+}
+[sha:a8a0be8f6014d7f571610d9f35ab93094f04e2b5]{
+-- Page 9, Offset 17926.
+-- そして、刻印は単体では効果を発揮しない。
+  En outre, le Sceau n'a aucun effet à lui tout seul.
+
+}
+[sha:696bcee657c147eabaaf240b76f0e073624a91b7]{
+-- Page 9, Offset 17927.
+-- 一族の先端にいるモノ。
+  Il doit être gravé sur un membre du clan.
+
+}
+[sha:84d38c1e9f91a83fe4d75a0fc5cec6d8dd39d6f6]{
+-- Page 9, Offset 17928.
+-- 刻印を身に宿し、いずれ自身も刻印の一部になる事を覚悟した魔術師がいなければ、そもそも意味を見失う。
+  Et il perd tout son sens s'il n'est pas porté par un Mage résolu à en devenir partie intégrante un jour.
+
+}
+[sha:dcd3f600929cce37cbf0131b0d61ea7288b44cfa]{
+-- Page 10, Offset 17929.
+-- 魔道書との最大の違いはそこだ。
+  La plus grande différence avec les grimoires se trouvait là.
+
+}
+[sha:3a01ae3d139d91f4f634756a8d86a7c5f3a82993]{
+-- Page 10, Offset 17930.
+-- 刻印は写本した所で意味はないし、分け与える事もできない。
+  Il ne servait à rien de transposer le Sceau sur papier et il était impossible de le distribuer.
+
+}
+[sha:5ed06307f5bf57f58c31b0a248d302bccd4e9bfe]{
+-- Page 10, Offset 17931.
+-- 故に。
+  Par conséquent,
+
+}
+[sha:7411a06a0b6fc3d3ebda3f9002c1836c6f861c7a]{
+-- Page 10, Offset 17932.
+-- 橙子の背後に出現している刻印が他人の写しだとしても、本来の持ち主にしか<恩恵|おんけい>はないのだが―――
+  même si le Sceau dans le dos de Tōko était une copie de celui d'un inconnu, seul le possesseur d'origine pouvait bénéficier de son pouvoir. Pourtant―――
+
+}
+[sha:fa412a0f00792aa1d8d1a9fde182f1ebcc5d1d80]{
+-- Page 11, Offset 17933.
+-- “でも、たしかに私の魔弾はあの刻印からの魔術で<弾|はじ>かれた。……あれは、もしかすると”
+“Pourtant, ma balle de prana a bien été repoussée par un sort provenant de ce Sceau. ...... Ce ne serait tout de même pas...”
+
+}
+[sha:3fb30a2626b1725ffed8689c68fa7578d40094e3]{
+-- Page 11, Offset 17934.
+-- 見えない物を必死に見るように、青子は目を細めて橙子を見つめる。
+  Aoko plissa les yeux et fixa Tōko comme pour voir désespérément quelque chose d'invisible.
+
+}
+[sha:646b74c8009723154cf1d85924be5bccc3453af4]{
+-- Page 11, Offset 17935.
+-- 刻印をコピーしても意味はない。
+  Copier un Sceau n'avait aucune utilité.
+
+}
+[sha:a2781c3b6233a95874142861e666f80ba7e211ef]{
+-- Page 11, Offset 17936.
+-- 刻印は受け継いだ後継者でなければ発動できない。
+  Il ne pouvait être activé que par le successeur qui en avait hérité.
+
+}
+[sha:066f4844639ffc53621ab809b63deec719e31267]{
+-- Page 11, Offset 17937.
+-- ―――なら、それは―――
+  ―――Dans ce cas, c'était―――
+
+}
+[sha:f2cef3cd94c42d86fb9615a2bd01e8a88b9e7e4e]{
+-- Page 12, Offset 17938.
+-- 「……そう。
+「...... Oui.
+
+}
+[sha:4572096595d0c267da7d00a208767eead88cdc36]{
+-- Page 12, Offset 17939.
+-- 肌に刻まず中空に浮かべてるのは、そういう事……」
+  C'est pour ça qu'il flotte dans les airs sans avoir été gravé sur ta peau......」
+
+}
+[sha:85b7d49dd78d932725fe1ae5ad0c96172a884d90]{
+-- Page 12, Offset 17940.
+-- 不快だ、と吐き捨てる青子。
+  “C'est répugnant”, cracha Aoko.
+
+}
+[sha:5eb61811a72817a0c0806013081680429bd55d0b]{
+-- Page 12, Offset 17941.
+-- 橙子は理解の早い敵に、満足してうなずいた。
+  Tōko acquiesça, satisfaite par la vitesse de déduction de son adversaire.
+
+}
+[sha:a7a02275a4dbf0a02446ef7bba374b0f2fbf59b1]{
+-- Page 13, Offset 17942.
+-- 「ああ、この体には合わないのでな、私の背後の空間に固定している。
+「Oui. Il n'est pas compatible avec mon corps, voyez-vous, alors je l'ai fixé dans l'espace sur mon dos.
+
+}
+[sha:cb99bed33783300760ab82c81e9c81f93fe82d99]{
+-- Page 13, Offset 17943. Glued. Mods: @x.
+-- 本当はね、おまえたちのように肉に刻んだほうがいいんだ。魔術の起動が一動作で済むんだから。
+En réalité, il vaudrait mieux le graver sur la chair comme vous. L'activation d'un sort ne demande alors qu'une action.
+
+}
+[sha:dbc677d92e97251ac3e0c25bdd8090ce9d6b9934]{
+-- Page 13, Offset 17944.
+-- だが実際に使用するのなら、こうするしかない」
+  Mais pour l'utiliser en situation réelle, je n'ai pas eu d'autre choix que d'employer cette solution.」
+
+}
+[sha:6e7705a659ea13420f9c3d4b54a64083512b2296]{
+-- Page 14, Offset 17945.
+-- 「起動までの手順は一つ増えるが、なに、マイナスばかりでもない。所詮は他人事なんでね、<痛|・><み|・><は|・><ま|・><っ|・><た|・><く|・><感|・><じ|・><な|・><い|・>」
+「La procédure d'activation requiert une étape de plus, mais ça n'a pas que des mauvais côtés. Comme il ne m'appartient pas vraiment, je ne ressens aucune douleur.」
+
+}
+[sha:88bf9029bdfd03e9ffbb7827cd6cd1b3244f6dca]{
+-- Page 15, Offset 17946.
+-- それは肉体的なものであり、精神的なものだろう。
+  Elle parlait certainement de douleur physique et mentale.
+
+}
+[sha:2ff66afb6fbdb96d7c21c694ed778516d524b415]{
+-- Page 15, Offset 17947.
+-- 青子とて姉の非人間性を知ってはいたが、ここまでのものとは予想していなかった。
+  Aoko connaissait parfaitement le côté inhumain de sa grande sœur, mais elle ne s'attendait pas à ce que cela atteigne de tels sommets.
+
+}
+[sha:1fae80dc6ea39b61a793a284a341168b6869cfa3]{
+-- Page 16, Offset 17948.
+-- 「……ふん、合うワケないじゃない。他人の魔術刻印を<剥|は>がしてるんだから、血筋の照合からして馴染むはずがないわ。
+「...... Pff, évidemment qu'il n'est pas compatible ! Tu as arraché le Sceau Magique d'autres personnes. Il essaie de te comparer à leurs lignées, alors rien d'étonnant à ce qu'il ne puisse pas s'adapter à toi.
+
+}
+[sha:d1aad5e7e2c5ce59d5227512ce0751d977f3092a]{
+-- Page 16, Offset 17949.
+-- ―――で。
+  ―――Ainsi,
+
+}
+[sha:57c9c5e94961f9a598f9d8993af011037d408ed0]{
+-- Page 16, Offset 17950. Glued. Mods: @x.
+-- 奪われた連中は死ぬ事もできず、今もどこかに<幽閉|いかされ>ているワケだ。刻印の持ち主が死んだら起動すらできないものね、それ」
+les types à qui tu l'as dérobé ne peuvent même pas mourir et sont séquestrés quelque part en ce moment. Après tout, cette chose ne pourrait pas s'activer si les propriétaires des Sceaux originaux venaient à mourir, je me trompe ?」
+
+}
+[sha:5d7eabb8a75ccb947c9c50f3b561cca1810194f9]{
+-- Page 17, Offset 17951.
+-- 「―――橙子さん、貴女―――」
+「―――Tōko, tu es―――」
+
+}
+[sha:ffe1fd33cdc98d0446c81d9aa43f6933ef31e404]{
+-- Page 17, Offset 17952.
+-- 「非難される覚えはないんだが。
+「Je ne me rappelle pas qu'ils m'en aient fait le moindre reproche.
+
+}
+[sha:362c827543173953fe119fe82553545ff8f61266]{
+-- Page 17, Offset 17953. Glued. Mods: @x.
+-- 私はかかる火の粉を払っただけだよ。向こうから戦いを挑んできたんだから、戦利品ぐらいは用意してもらわないと。
+Je n'ai fait qu'étouffer dans l'œuf toute rébellion. Ce sont eux qui m'ont défiée. Il fallait bien leur demander réparation.
+
+}
+[sha:8fbedd2d4dce299055b80f7e5fb50b6ffe16f43a]{
+-- Page 17, Offset 17954.
+-- まあ、中にはつまらない単語を口にした馬鹿者もいるが、それはそれだ。
+  Enfin, il y a bien quelques idiots parmi eux qui ont dit des bêtises sans intérêt, mais ça, c'est une autre histoire.
+
+}
+[sha:ef6bcfab724b76b0bcf5564885439b1edabcc0e3]{
+-- Page 17, Offset 17955.
+-- むしろ優しいと思うけどね。私を殺しに来た連中を、わざわざ生かしてあげてるんだから」
+  Je suis plutôt gentille. Puisque je laisse la vie sauve aux types qui ont tenté de me tuer.」
+
+}
+[sha:917a9af2e0864dd1dc1a791a5f220fe9347ef7ea]{
+-- Page 18, Offset 17956.
+-- 「は。その魔術師たちがちゃんと<人|・><間|・><の|・><カ|・><タ|・><チ|・>をしてる事を祈るわ、肉親として」
+「C'est ça. En tant que sœur cadette, je prie pour que ces Mages aient toujours forme humaine.」
+
+}
+[sha:3b73ae2695bac7ceca53537a72b9aa5e90acc75e]{
+-- Page 19, Offset 17957.
+-- 「おまえね、私をなんだと思ってるんだ。
+「Toi alors, pour qui me prends-tu exactement ?
+
+}
+[sha:e5daaa5665d649d677361684c12c176cfae1eaba]{
+-- Page 19, Offset 17958.
+-- 脳だけ保存とか、面倒だから百人ひとまとめにした肉塊とか、そんな手抜きなんぞするものか！
+  Je ne suis pas du genre à bâcler mon travail ! Je ne vais pas conserver uniquement leur cerveau ou faire un tas de viande à partir de cent personnes simplement pour éviter quelques désagréments !
+
+}
+[sha:4da640be6c9d70364e833abfa903a08b9fbf1072]{
+-- Page 19, Offset 17959.
+-- きちんとカフェを用意して、食事も娯楽も睡眠も自由に提供してるんだぞ？　中には“一生ここで暮らしたい！”なんて騒ぎ立てる莫迦もいるぐらいだ！」
+  Je leur offre le café et ils ont même repas, distraction et sommeil à volonté ! Certains abrutis font même des histoires pour vivre là-bas toute leur vie !」
+
+}
+[sha:567d789179036e8d438fdad51c5c9ce39176180b]{
+-- Page 20, Offset 17960.
+-- ……どこまで信じていいものか微妙な返答だったが、橙子の刻印がコピーではなく本物である事は真実だ。
+  ...... Sa réplique paraissait si insensée que sa véracité pouvait être remise en cause ; néanmoins, le Sceau de Tōko n'avait rien d'une copie et était bel et bien authentique.
+
+}
+[sha:3faeb0b041d11e6614e8abc18d230da337c97256]{
+-- Page 20, Offset 17961.
+-- 有珠はますます眉をひそめる。
+  Alice ne cessait de froncer les sourcils,
+
+}
+[sha:6e23aaa6404cecdbbf704262a874c7e660180468]{
+-- Page 20, Offset 17962.
+-- なぜなら、その行為自体にあまり意味がない。
+  car cet acte n'avait aucun sens en soi.
+
+}
+[sha:5d3c91e8b4c21fccc66da7de7bf3ad8cde170398]{
+-- Page 20, Offset 17963.
+-- 他者の刻印を奪い、自分用に加工するのはたいへんな手間だったろう。
+  Dérober le Sceau d'autrui et le façonner pour pouvoir l'utiliser avait dû demander un travail énorme.
+
+}
+[sha:b002852829827a8fc4da75871c8a6b7d07ccc7cd]{
+-- Page 21, Offset 17964.
+-- そんな事をしている時間があるなら、刻印を材料にして模造品を造った方がはるかに効率がいい。
+  Si elle avait le temps pour ce genre de chose, alors il aurait été plus efficace de se servir du Sceau comme matériel pour créer une imitation.
+
+}
+[sha:89eb12785e33e4ae1078ad6e33bffde788f1a11d]{
+-- Page 21, Offset 17965.
+-- 他の魔術師ならいざ知らず、卓越した人形師である橙子なら、刻印を利用してより強力な人形を造れただろう。
+  Les autres Mages en seraient peut-être incapables, mais un maître dans la fabrication de marionnettes comme Tōko aurait pu créer un Automate plus puissant grâce aux Sceaux.
+
+}
+[sha:d06b1501b1a4cb302929548c879b6ba00947c88a]{
+-- Page 21, Offset 17966.
+-- 刻印の持ち主である魔術師以上の、自分の命令通りに動く人形を。
+  D'autant plus qu'il aurait obéi au moindre de ses ordres, contrairement aux Mages propriétaires du Sceau.
+
+}
+[sha:ea56ea2e74a16e46e1d542cd968acaeca0ad2241]{
+-- Page 22, Offset 17967.
+-- 「……なんで、そんな事を」
+「...... Pourquoi faire ça ?」
+
+}
+[sha:61e53cfc8b3f5112f74472e84f2e3f96f41c470e]{
+-- Page 22, Offset 17968.
+-- 「そういう人なのよ、姉貴は。これで行く、と決めたらそれしか目に入らない人なの。過程より結果の人なの。
+「Elle est comme ça. Une fois qu'elle a décidé de quelque chose, plus rien d'autre ne compte. Le résultat prend le pas sur le processus chez elle.
+
+}
+[sha:95fdd6a0a2f81922ad8813c5f83248afcb6d2c17]{
+-- Page 22, Offset 17969.
+-- ……ある日の話よ。テレビでピザのＣＭをやっててさ、私たちは唐突にあのデブ<食|しょく>を食べたくなった。
+  ...... Je vais te confier une anecdote. Un jour, une pub sur des pizzas est passée à la télé, et du coup, nous avons eu envie de manger de cette malbouffe.
+
+}
+[sha:e119006b0d6a7329ee7002e2657c97c0a9bc554d]{
+-- Page 22, Offset 17970. Glued. Mods: @x.
+-- でも悲しいかな、一般家庭であるうちにあったのはサラミだけ」
+Malheureusement, il n'y avait que du salami chez nous.」
+
+}
+[sha:72fbed4308fa6f30ef2ecbfa9f05f6cd1c91b5c9]{
+-- Page 23, Offset 17971.
+-- 「うちの実家、山奥にあるの知ってるでしょ？
+「Tu sais que notre maison se trouve dans les montagnes, pas vrai ?
+
+}
+[sha:de1a12f8d320e44fcafe49cb39a48a0499e6382f]{
+-- Page 23, Offset 17972.
+-- 町まで行くのに一時間はかかる。中学一年だった私は我慢できなくて町まで行ったけど、ピザ屋なんか一軒もなくてとぼとぼ帰ったの」
+  Il faut une heure pour se rendre en ville. Je n'étais qu'en cinquième à l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」
+
+}
+[sha:692ecef4dee3fe737ece259266509f13d86fcd34]{
+-- Page 23, Offset 17973.
+-- 田舎町の悲劇だった。
+  C'était la tragédie de la ville d'Aida.
+
+}
+[sha:c23784d5da1ae2bf846b67c65a53ca39025a2a62]{
+-- Page 23, Offset 17974.
+-- 回転寿司がようやくできた三咲町において、ピザ屋の台頭はあと二年待たねばならない。
+  Le vieux quartier de Misaki venait à peine de voir arriver des restaurants de sushi sur tapis roulant, et il faudrait attendre encore deux ans avant la montée en puissance des pizzerias.
+
+}
+[sha:bf44e7b9720356927e52c34f7735e6e7bb0be3f2]{
+-- Page 24, Offset 17975.
+-- 「なのに。
+「Pourtant,
+
+}
+[sha:993869dedb46353e8f159f3b2ef8de7213bb3a0d]{
+-- Page 24, Offset 17976. Glued. Mods: @x.
+-- 骨折り損で家に帰ったら、姉貴のヤツ、おかえりー、とか手を振ってピザ食べてやがったのよ……！
+quand je suis rentrée après m'être fatiguée en pure perte, Tōko m'a fait coucou en mangeant de la pizza......!
+
+}
+[sha:ab4444f1efd88d0934f4b078d5d30d9ecbc044e2]{
+-- Page 24, Offset 17977.
+-- お<煎餅|せんべい>を下地にしてみたわー、とか言って。
+  “Je me suis basée sur des biscuits de riz pour la préparer”, qu'elle m'avait dit.
+
+}
+[sha:ac17cc3998cc73eff86091bfed046ac9304f03d4]{
+-- Page 24, Offset 17978.
+-- 外みたら鶏三羽と牛一頭まるまる消えてて、ああ、この女には等価交換とか手間とかお金の問題とか、そういうの一切頭にないんだって思い知らされたわ！」
+  Lorsque j'ai regardé dehors, j'ai remarqué qu'une vache et trois poules avaient disparu et j'ai compris que l'échange équitable, le labeur et les problèmes d'argent n'avaient aucune place dans le cerveau de cette fille !」
+
+}
+[sha:07fde3208b6d4f51e7cb3d560a8bf8627b086347]{
+-- Page 24, Offset 17979.
+-- それはそれで凄い事だと思う有珠であった。
+  Alice songea que c'était une chose incroyable en soi.
+
+}
+[sha:e89a89a5925fe2b4ccdb2ab0d5839c843143a7b0]{
+-- Page 25, Offset 17980.
+-- 「そんな無茶な奴だから、ガンド撃ちで目に見える傷跡を出そうなんて、平気で考えるのよね。
+「C'est parce qu'elle est timbrée que des idées aussi folles que créer un tir de Gandr visible à l'œil nu peuvent lui venir à l'esprit.
+
+}
+[sha:0624e4ec3ad7575b42d36e40129c4b2e172f9cf2]{
+-- Page 25, Offset 17981.
+-- あんなの、ゲマトリア一節分の詠唱で同じ効果を出せるのに、あくまで呪術にこだわるから空も飛べない人形になるのよ、バカ姉貴っ！」
+  On peut facilement obtenir le même résultat avec une Aria d'un verset de gematria, mais comme tu es obsédée par les incantations, tu n'as obtenu qu'un Automate qui n'est même pas capable de voler, triple idiote !」
+
+}
+[sha:fd65785c6dc45282d1c0e936638967ecb9688c49]{
+-- Page 26, Offset 17982.
+-- 自分そっくりに造られた人形を思いだし、ここぞとばかりに怒鳴る青子。
+  Aoko finit par rugir de colère en se souvenant de l'Automate qui lui ressemblait comme deux gouttes d'eau.
+
+}
+[sha:f009ced8dbff587a8fd18999b13dca20ab0665f0]{
+-- Page 26, Offset 17983.
+-- 今にして思えば、あれは彼女への痛烈な嫌味だったからだ。
+  Maintenant qu'elle y repensait, elle réalisait que cette chose était une forme d'humour pernicieux à son encontre.
+
+}
+[sha:276c58aefa04bc10a494afbecc38896f7ed89646]{
+-- Page 26, Offset 17984.
+-- 青子の<罵倒|ばとう>に、橙子の細い眉が微かに動く。
+  Tōko fronça légèrement les sourcils suite aux injures de sa sœur cadette.
+
+}
+[sha:d7381b7fbdf2d0f2064f9d6e93a2f7169aced63d]{
+-- Page 26, Offset 17985.
+-- 今まで表情のなかった橙子だが、自慢の人形をけなされて気分をいたく害したらしい。
+  Elle était restée de marbre jusque-là, mais entendre des critiques sur les Automates dont elle était si fière semblait l'avoir froissée.
+
+}
+[sha:05bcd9f8cfb9aeafa9d970230abc1e35c0fe8669]{
+-- Page 27, Offset 17986.
+-- 「……その人形に追い詰められたのはおまえだったね。
+「...... Si je me souviens bien, celle qui s'est retrouvée au pied du mur à cause de cet Automate, c'est toi.
+
+}
+[sha:9468dcf87f433dd32f54ca15102570b1e06f0218]{
+-- Page 27, Offset 17987.
+-- それと、数<値変換|ゲマトリア>式はカバラの秘術だ。私はルーン専門だから、おまえのように広く浅く知識を広める気はないよ。
+  Et en passant, la gematria est une arcane de la Kabale. Je suis une spécialiste des Runes et je n'ai pas l'intention de transmettre à tout un chacun mes connaissances comme toi.
+
+}
+[sha:d2c120f4bb1694884b477b8f43c8e84e5704cfd2]{
+-- Page 27, Offset 17988.
+-- ―――まあ、もっとも。
+  ―――Ceci dit,
+
+}
+[sha:9e5fb459dd6279da5e2de83bb4894637077515c6]{
+-- Page 27, Offset 17989. Glued. Mods: @x.
+-- この刻印の所有者の一人から、ケルトの結界を教わりはしたがね」
+j'ai effectivement appris des choses sur les Barrières celtiques grâce à l'un des propriétaires de ce Sceau.」
+
+}
+[sha:8b81720349d0955ba341366284e8eb0ef52bd62f]{
+-- Page 28, Offset 17990.
+-- 橙子は左後方の刻印に視線を向ける。
+  Tōko tourna son regard vers les caractères se trouvant à sa gauche dans son dos.
+
+}
+[sha:be4e61dd1149ee714ecd3ca9cfc8c4e5484b4c18]{
+-- Page 28, Offset 17991.
+-- こうしている今も光り輝いている刻印。
+  Le Sceau scintillait toujours autant tandis qu'elle parlait,
+
+}
+[sha:c8f823867915e293b8cb90d1c4553ae3258eb317]{
+-- Page 28, Offset 17992.
+-- それは、たえず何らかの魔術を行使している証だ。
+  preuve qu'elle utilisait sans cesse un certain sort.
+
+}
+[sha:f73f28f31a2d4278406b778876eec5e538c66cb1]{
+-- Page 29, Offset 17993.
+-- 「これは『城』で祖父を封じこめるのに使っていてね。
+「Je l'ai utilisé pour piéger grand-père dans le “château”.
+
+}
+[sha:65be1e815739fcd274f1f5f8d25158297e500855]{
+-- Page 29, Offset 17994.
+-- 半人半妖のドルイド僧を閉じこめた塔……とまではいかないが―――そうだな、私では郵便ポストぐらいの大きさが限界か。
+  Ce n'est pas aussi puissant qu'une pagode capable d'enfermer un druide mi-homme mi-démon, mais―――je dirais que je peux faire aller ses dimensions jusqu'à celles d'une boîte aux lettres.
+
+}
+[sha:28a78a73f1da13df17c5ddc822801c2e0a43c8dd]{
+-- Page 29, Offset 17995.
+-- ほら、むかし<青子|おまえ>が壊した赤いポスト。ちょうどあれぐらいの可愛い鳥小屋だよ。
+  Tu te souviens de la boîte rouge que tu as cassée il y a longtemps ? C'est une sorte de mignonne petite volière à peu près de la même taille.
+
+}
+[sha:3b1f04ff5620c98ab061593a2888de87450809d0]{
+-- Page 29, Offset 17996. Glued. Mods: @x.
+-- 人間ひとり分を仕舞うには窮屈だろうが、祖父は肉体というより霊体に近い。見様によっては、そっちの方が相応しいかもしれないね」
+C'est un peu étroit pour y enfermer un humain, mais grand-père est plus proche du corps astral que du corps physique. D'un certain point de vue, ce choix de technique est peut-être même plus judicieux.」
+
+}
+[sha:33ba6797d33b9ef02996612e01de3254b1cebe8b]{
+-- Page 30, Offset 17997.
+-- <陰鬱|いんうつ>な笑いをかみ殺しながら、橙子は淡々と説明する。
+  Tōko s'expliquait avec indifférence tout en retenant un sourire mélancolique.
+
+}
+[sha:0214a320ddaf1d7b0753c7cfc861de4c90ed718a]{
+-- Page 30, Offset 17998.
+-- 常に冷静な彼女だが、祖父に対しては感情を<抑|おさ>えきれないらしい。
+  Elle parvenait à conserver son sang-froid dans presque toutes les circonstances, mais dès que le sujet concernait son grand-père, elle avait de toute évidence du mal à étouffer ses émotions.
+
+}
+[sha:df45b3a53f1601d8568f603e76fb63894267a9ae]{
+-- Page 30, Offset 17999.
+-- それが<鬱積|うっせき>した憎悪である事は、彼女の笑みを見れば明らかだった。
+  En voyant son sourire, il était clair qu'il s'agissait d'une haine qui couvait depuis longtemps.
+
+}
+[sha:68377457585040e961824d472e502cd5529023f5]{
+-- Page 31, Offset 18000.
+-- 「そういった訳でね、先の青子の魔術を防いだので、この刻印もしばらくは使用不能なんだ。
+「Enfin bref. Comme il m'a protégée de ton sort tout à l'heure, je ne pourrai plus utiliser ce Sceau avant un moment.
+
+}
+[sha:74abf96732be359b89cbb49f470b808aac9464f7]{
+-- Page 31, Offset 18001.
+-- 今のが本当の魔法だったなら、わずか三行の刻印では打ち消せなかっただろうに。青子。おまえは<僅差|きんさ>で負けたんだ。恥じる事はないよ。
+  Si tu avais utilisé la Vraie Magie, je n'aurais pas pu parer ton attaque avec un Sceau d'à peine trois lignes. Aoko, tu as perdu de peu. Tu n'as pas à avoir honte.
+
+}
+[sha:867536afad1142cde9c24ffc29b66fcd9099acaa]{
+-- Page 31, Offset 18002.
+-- じゃあそろそろ終わりにしよう。
+  Bon, il est temps d'en finir.
+
+}
+[sha:c7da4732740e6e1645d84dcb48ea8824fee6c0a9]{
+-- Page 31, Offset 18003.
+-- 抵抗をするのは自由だが、ベオ相手にそれは辛いぞ」
+  Vous êtes libres de résister, mais contre Beo, ça risque d'être douloureux.」
+
+}
+[sha:16dcb03f9f6277decb27b9b033b734dbe86a48f3]{
+-- Page 32, Offset 18004.
+-- ぱちん、と橙子の左手が鳴る。
+  Tōko fit claquer les doigts de sa main gauche.
+
+}
+[sha:a9d7f358b1650258c2b1b1400088d446cea29174]{
+-- Page 32, Offset 18005.
+-- 旧校舎に<潜|ひそ>む黄金の人狼。
+  Le signal, qui servait à appeler le loup-garou dissimulé dans le vieil établissement,
+
+}
+[sha:d02a3bf030cf4342dac376566e6a34f40f22a125]{
+-- Page 32, Offset 18006.
+-- 彼を呼び出す合図は、森に<木霊|こだま>するように長く響いた。
+  résonna longuement dans la forêt comme l'aurait fait un écho.
+
+}
+[sha:63e159400d76259ada1edd29818a2f7120693c0e]{
+-- Page 32, Offset 18007.
+-- その残響が消えるより早く、青子は背後にいる有珠へ叫ぶ。
+  Aoko se retourna et cria en direction d'Alice avant que le signal ne se dissipe.
+
+}

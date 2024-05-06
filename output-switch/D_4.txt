@@ -1,0 +1,252 @@
+[sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
+-- Page 0, Offset 19032.
+-- ―――と。
+  ―――Sōjūrō pensait à une chose à propos de Tōko.
+
+}
+[sha:f58bc166593f901b1075bfa8265028fb4368fa47]{
+-- Page 0, Offset 19033.
+-- 橙子と言えば、草十郎にはちょっとした疑問があった。
+  Une question en particulier le tracassait depuis ce jour fatidique.
+
+}
+[sha:887743a25ced099a25389f880fb96843f992f8b6]{
+-- Page 1, Offset 19034.
+-- 「そういえば。カエルにするって、いったい……」
+「Dis-moi, Aozaki, que voulais-tu dire quand tu parlais de la changer en grenouille...」
+
+}
+[sha:1f945730a2c58b88b7c224cee909460540ffafb6]{
+-- Page 1, Offset 19035.
+-- あれ以来まったく口にしなかった話題を、草十郎は口にしてみた。
+  Il finit par l'interroger sur le sujet qu'il avait hésité à aborder depuis lors.
+
+}
+[sha:db8abe482674759c0246a898a82729c0dca4efc2]{
+-- Page 1, Offset 19036.
+-- それを訊くのは<禁忌|タブー>のように思えていたし、なにより、その<突飛|とっぴ>さ故、真実を聞くのが<躊躇|ためら>われたというか。
+  Il avait le sentiment que poser la question était tabou, mais c'était surtout l'incongruité de la chose qui l'avait perturbé.
+
+}
+[sha:358d3d1ccedcee10a58bcf15171014e4fc9a76b0]{
+-- Page 2, Offset 19037.
+-- 「いったいも何も、言葉通りの意味だけど。
+「Il n'y a pas de sens caché.
+
+}
+[sha:ed41e8297972aac602ebf024d395c52243a39bc5]{
+-- Page 2, Offset 19038.
+-- もともとルーン使いには変身術があるぶん、橙子にはかかりやすかったみたいよ？」
+  Comme les utilisateurs de Runes pratiquent déjà des sorts de métamorphose, apparemment, le maléfice a été plutôt facile à lancer sur Tōko.」
+
+}
+[sha:2bfa614d2af31d2090dfb137cbd4b67bc3f76a0d]{
+-- Page 2, Offset 19039.
+-- 「いや、そんな当然のように言われても……」
+「Tu as beau me le dire comme si ça coulait de source, je comprends rien à ce charabia...」
+
+}
+[sha:28247965fa3d0fcab5ad79a6c703f3dccd02b82a]{
+-- Page 2, Offset 19040.
+-- 本気でどう切り返していいか、ちくりと胃が痛む草十郎だった。
+  Sōjūrō ressentit une pointe de douleur à l'estomac que provoquait sa difficulté à exprimer clairement ses interrogations.
+
+}
+[sha:82fa543040b75d2ea20c33b517a8974307073d3b]{
+-- Page 3, Offset 19041.
+-- 「…………まあ。それで、どうやって？」
+「............ Et donc ? Comment t'y es-tu prise ?」
+
+}
+[sha:2fd684b98cad4d8aaa8d8a0cc6c6d1b2fa4df5f4]{
+-- Page 3, Offset 19042.
+-- 聞きたくはないけれど、話の流れから問いたださずにはいられない。
+  Il n'avait aucune envie de le savoir, mais il n'avait pas d'autre choix que de suivre le fil de la conversation.
+
+}
+[sha:588ef72f9d6c2d9df99d82ee78a7e8159ee4680c]{
+-- Page 3, Offset 19043.
+-- 草十郎の嫌そうな顔には気が付かず、青子は前を見たまま、教師よろしく説明をする。
+  Aoko ne remarqua pas l'air récalcitrant de Sōjūrō et partit sur une explication professorale.
+
+}
+[sha:8b8a97f97c9c3d850a52744600f746f94fb337c9]{
+-- Page 4, Offset 19044.
+-- 「二種類あって、精神を入れ替えるのか、肉体を再編成するかね。
+「On peut grossièrement classer les sorts de ce genre en deux catégories. Soit on permute deux esprits, soit on restructure le corps.
+
+}
+[sha:13f66ddd303b9cac0550e4fdc1436072e4e4ea92]{
+-- Page 4, Offset 19045.
+-- 精神だけを入れ替えるのは簡単な分、すぐ元に戻れるわ。
+  Il est plus simple de procéder à la permutation de deux esprits, mais il est aussi plus facile de retrouver son corps.
+
+}
+[sha:33f6379b8e1b9710c09dda24bf87db8659bdd4b2]{
+-- Page 4, Offset 19046.
+-- 夢を見ているようなものだし、ちょっとしたショックで元の体に意識が戻ってくれるから」
+  C'est comme si on était dans un rêve, il suffit d'un petit choc pour que la conscience revienne dans son réceptacle d'origine.」
+
+}
+[sha:86f09ccf5f4249273a7f86c24ce887ed2d921219]{
+-- Page 5, Offset 19047.
+-- 「厄介なのは肉体そのものを変えてしまう方で、この場合、術が切れるまで元に戻るのは難しいでしょうね。
+「Ce qui est plus casse-pied, c'est la catégorie qui consiste à modifier le corps lui-même. Dans ce cas-là, il est sans doute plus difficile de retrouver son aspect normal tant que le sort ne s'est pas dissipé.
+
+}
+[sha:c80efe90ed31ad49f442660e5bcf89458e555ef0]{
+-- Page 5, Offset 19048.
+-- 私がやったのは、その再編成の方みたい。
+  Et apparemment, j'ai eu recours à cette méthode.
+
+}
+[sha:a6f0e36b27ff95ddbaae3c144d4d3cc964a9e12a]{
+-- Page 5, Offset 19049.
+-- たぶん塩基配列を組み換えるんだろうけど、もうちんぷんかんぷん。ま、魔術が科学的な説明するのもナンセンスだし？」
+  Ça consiste sans doute à restructurer la séquence ADN, mais c'est du charabia pour moi aussi. De toute façon, donner une explication scientifique à la Magie serait absurde.」
+
+}
+[sha:c6b5e1689bb568d9da1da7b20cf7c6f98649c6bc]{
+-- Page 6, Offset 19050.
+-- しれっと、まさに他人事のように青子は言った。
+  Tout au long de son explication, Aoko avait gardé un ton nonchalant, comme si le sujet ne la concernait pas.
+
+}
+[sha:845629f6741e34fde52159488a40d8a9c1be7a82]{
+-- Page 6, Offset 19051.
+-- あの時の青子が扱った魔術は前借りしたようなもので、今の青子にはまったく使えないものらしい。
+  La Magie dont elle avait fait usage consistait en une sorte de prêt, et elle semblait à présent incapable de s'en servir.
+
+}
+[sha:b0595880d14ea84d81b4ac01fdd204f044a139e0]{
+-- Page 6, Offset 19052.
+-- 不幸中の幸いではあるが、同時に、十年後にくる逃れられない脅威でもある。
+  D'une certaine façon, elle avait de la chance, mais elle ne pourrait pas échapper à la menace qui l'attendrait dans dix ans.
+
+}
+[sha:69a9c1b7b24cbf84cfd2caf419cf50d23103466d]{
+-- Page 6, Offset 19053.
+-- とばっちりを受ける候補その一としては、たいへん頭の痛い問題だった。
+  Ce problème inquiétait grandement Sōjūrō, car il serait le premier à en subir les conséquences.
+
+}
+[sha:e6fbef7e1d4ba5ce4d9120937e27f758e9e8c774]{
+-- Page 7, Offset 19054.
+-- 「あと数年後には蒼崎はそんな事もできるのか。
+「Et dire que tu seras capable de faire ce genre de chose d'ici quelques années...
+
+}
+[sha:b5e9531abe6d7947bc4d3bfc53e2fb0bcc0b7711]{
+-- Page 7, Offset 19055.
+-- …………<末|すえ>恐ろしいな」
+  ............ J'en ai la chair de poule.」
+
+}
+[sha:e88ae6d663407929e1b6031ad123df518603f85b]{
+-- Page 7, Offset 19056.
+-- 心底からの気持ちを呟く草十郎。
+  avoua Sōjūrō dans un murmure.
+
+}
+[sha:630dadf1d1a5d8c170c51625583ee139e571c98c]{
+-- Page 7, Offset 19057.
+-- それに青子はきょとんと目を見開く。
+  Aoko écarquilla les yeux,
+
+}
+[sha:3472923afcaa30ccb56e32d67a7ec0868426a58a]{
+-- Page 7, Offset 19058.
+-- 何をいまさら、と言いたげな顔だった。
+  comme pour lui signifier qu'il réagissait un peu tard.
+
+}
+[sha:4d82f5ba1da9587c355e82012e5c019fcab5d598]{
+-- Page 8, Offset 19059.
+-- 「えっとね。有珠ならそれぐらい、今でもできるわよ」
+「Tu sais, Alice pourrait faire la même chose littéralement les doigts dans le nez.」
+
+}
+[sha:28b7e7df96e650a3296df79b69c0ab8fe25a87f8]{
+-- Page 8, Offset 19060.
+-- 「――――――なん、だと？」
+「――――――Quoi ?」
+
+}
+[sha:dc81dd7f0abb549a2f37ad17567e41f3b44644b7]{
+-- Page 9, Offset 19061.
+-- 「……やっぱりね、そんな事だと思ってたわ。
+「...... Je me disais bien que quelque chose clochait.
+
+}
+[sha:780b7c5899c2d07cabf35a5b1be174bb0e55c390]{
+-- Page 9, Offset 19062.
+-- 前にも言ったでしょ、アンタはあの娘を甘く見てるって。
+  Je te l'ai pourtant déjà dit. Tu ne réalises pas ce dont elle est capable.
+
+}
+[sha:72a858fb760a3c10904d3e86640fb1af175c0093]{
+-- Page 9, Offset 19063.
+-- 有珠の部屋のもろもろの人形は、あの娘に逆らった執事たちのなれの果てなんだから」
+  Tu vois toutes les poupées dans sa chambre ? Eh bien, sache que c'est ce qu'il reste des intendants qui lui ont désobéi.」
+
+}
+[sha:fad5d031b723a6268bec694c410af9e314b666cc]{
+-- Page 10, Offset 19064.
+-- 「……まさか。有珠はそんなコトしないぞ」
+「...... C'est impossible. Alice ne ferait jamais une chose pareille.」
+
+}
+[sha:7c69c4eacc7724d35e68ffeba8b1f09343c3aa97]{
+-- Page 10, Offset 19065.
+-- 「いやいや、これがこれが。私もねー、付き合い初めて半年はそう思ってたんだけどねー」
+「Détrompe-toi. Je le pensais aussi les six premiers mois de notre cohabitation.」
+
+}
+[sha:e96d6e86ab893b7b5cf7d3ce5f5a3fd3f8c25f36]{
+-- Page 10, Offset 19066.
+-- 軽快に笑いとばす青子だが、その陽気さが逆に怖い。
+  Aoko éluda la chose d'un rire léger, mais sa gaieté ne faisait que rendre la conversation plus effrayante.
+
+}
+[sha:fefad5749de5fbdaaea361c35b9291d9234f9c81]{
+-- Page 11, Offset 19067.
+-- 「……蒼崎。その冗談、笑えないぞ」
+「...... Aozaki. Cette blague n'est pas drôle.」
+
+}
+[sha:d37066d0e9f0b1b55d0f0b1e5165090b5dbb9790]{
+-- Page 11, Offset 19068.
+-- 「あら、私は笑わせる気なんて、これっぽっちもないんだけど？」
+「C'est marrant, je n'avais pas du tout l'intention de te faire rire.」
+
+}
+[sha:076e9bd289c6f6b62ba0686ebd47892c7a1b8510]{
+-- Page 12, Offset 19069.
+-- 青子は明らかに草十郎をからかっている。
+  Aoko se moquait clairement de Sōjūrō.
+
+}
+[sha:0b75572ce7961e34cb19a653353497b30bffe23f]{
+-- Page 12, Offset 19070.
+-- どこまで信じていいのか判別がつかず、ますます顔をしかめる草十郎。
+  Incapable de déterminer jusqu'à quel point il pouvait la croire, l'expression de ce dernier s'assombrit davantage.
+
+}
+[sha:31de37b0dfe2c9de84d0739f8ec1a29693d939b4]{
+-- Page 12, Offset 19071. Glued. Mods: @x.
+-- そんな消沈ぶりが楽しくて、青子はにまにまと微笑んでいる。
+Amusée par son embarras, Aoko affichait un large sourire.
+
+}
+[sha:3807b25ebebceec84af8ccf4f06332b9bcf90921]{
+-- Page 13, Offset 19072.
+-- “……ま、あそこでアンタの言葉にうなずいちゃうあの娘が、そこまで魔女になれる筈もないんだけど―――”
+“...... Bah, une fille qui répond de cette façon à ce que tu as dit en partant ne peut décemment pas être une sorcière aussi diabolique―――”
+
+}
+[sha:2e97e4c88bda5a00a26840cfd6d882ccfbbbf832]{
+-- Page 13, Offset 19073.
+-- 温かな感想を胸に留めた少女は、彼の横顔を見ながら歩いていく。
+  La jeune fille marchait en scrutant le profil du jeune homme avec ces pensées attendrissantes en tête.
+
+}

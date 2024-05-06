@@ -1,0 +1,36 @@
+[sha:e3f28b5ae2124bbd30d9dac6f67de975092df467]{
+-- Page 15, Offset 23756. Mods: @e.
+-- ～選択肢Ｗ～
+-Choix W-
+
+}
+[sha:9a088c09313334d8527e16397053066e48f983ec]{
+-- Page 15, Offset 24093. Choice.
+-- 久遠寺さんは本当に潔癖か？と思った。
+Je me demandai si Kuonji était vraiment innocente.
+
+}
+[sha:291357cc6097b73f334763da96f88be7b613944a]{
+-- Page 15, Offset 24094. Choice.
+-- 土桔氏はどうして誕生会を？と思った。
+Je me demandai pourquoi M. Tokitsu avait organisé une fête d'anniversaire.
+
+}
+[sha:82c4e0c4a602b61c2713598ed6641d342f26407a]{
+-- Page 15, Offset 24095. Choice.
+-- 殺人は二種類に分けられる？と思った。
+Je me dis qu'il y avait deux sortes de coupables.
+
+}
+[sha:5bea489422c47128c2fc57f81962d12ad8d581e9]{
+-- Page 15, Offset 24096. Choice.
+-- 律架さんのピッキング……！と思った。
+Je songeai au crochetage de Ritsuka.
+
+}
+[sha:034faff34af62f51c8e7b108952b577a90afa5c5]{
+-- Page 15, Offset 24097. Choice.
+-- 名は体を表す、と思った。
+Je me dis que son nom trahissait sa véritable nature.
+
+}

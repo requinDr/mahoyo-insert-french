@@ -1,0 +1,607 @@
+[sha:a67363c1cf24c2f22c3716fc37ed12a4ca4a1923]{
+-- Page 0, Offset 1236.
+-- 「たっだいまー！　ねぇ、有珠帰ってるー？
+「Je suis rentrée ! Dis, Alice, tu es là aussi ?
+
+}
+[sha:dc944f54e74f067da3dbe0ddb15c2363efd76c68]{
+-- Page 0, Offset 1237.
+-- 教会から帰る時、商店街でお土産もらっちゃったー！
+  En revenant de l'église, on m'a offert un cadeau au quartier commerçant !
+
+}
+[sha:58a268de8416244eb878bdc17afff90b4a29fab0]{
+-- Page 0, Offset 1238.
+-- <伊|い><勢|せ><屋|や>の<煎餅|せんべい>、一緒に食べないー！？」
+  Ça te dirait de manger des senbei d'Iseya avec moi ?!」
+
+}
+[sha:a90457be7222b96c4360f3cdbe311ea4cc11900b]{
+-- Page 1, Offset 1239.
+-- 夕日色に染まったロビーに<弾|はず>んだ声が響く。
+  Une voix joyeuse retentit dans le vestibule teinté de la couleur du soleil couchant.
+
+}
+[sha:66802ae22d915f859e32b0a57fc43b874420c95c]{
+-- Page 1, Offset 1240.
+-- 制服姿の青子が元気よく帰ってきたのは午後五時過ぎ。
+  Aoko, en uniforme, était rentrée avec entrain peu après cinq heures de l'après-midi.
+
+}
+[sha:976083f47971c1242a2d0a2451b23ca486aca39b]{
+-- Page 1, Offset 1241.
+-- 生徒会の雑務と、月に一度の教会との<折衝|せっしょう>を終えてからの帰宅だった。
+  Elle était de retour chez elle après avoir achevé son travail du conseil étudiant et les négociations mensuelles avec l'Église.
+
+}
+[sha:e6241c8f2aa273dc10a67868babe56787a12fb2d]{
+-- Page 2, Offset 1242.
+-- 「……おかえりなさい。
+「...... Bonsoir.
+
+}
+[sha:f334e0988f62083905e7064c11946d763f83672e]{
+-- Page 2, Offset 1243.
+-- その様子なら何事もなく終わったみたいね、青子」
+  D'après ton humeur, on dirait que tout s'est passé sans problème, n'est-ce pas Aoko ?」
+
+}
+[sha:7575a8c1ed42d2576c2b58364545f22d40266d85]{
+-- Page 2, Offset 1244.
+-- 出迎えの声は二階から。
+  La voix qui l'accueillait venait du premier.
+
+}
+[sha:a94e3b777d48b6abfc10adf05361df433c1f92c6]{
+-- Page 2, Offset 1245.
+-- 活力に満ちた青子とは対照的な、静けさの化身じみた少女が下りてくる。
+  À l'inverse d'Aoko qui débordait d'énergie, la jeune fille qui descendait était l'incarnation du calme.
+
+}
+[sha:eaa63ee5b70e3a5272f9cf1de1da858cdd218b59]{
+-- Page 3, Offset 1246.
+-- 「難癖はつけられたけど、<滞|とどこお>りなく。
+「Leurs remontrances m'ont fatiguée, mais ça s'est passé sans encombre.
+
+}
+[sha:4e5acba00c2e106cccd83eecf65695a5055d14d8]{
+-- Page 3, Offset 1247.
+-- うちの問題はうちの問題だから、今回も手はださないって方向でまとまったわ。……それでいいのよね、有珠？」
+  Ce sont nos problèmes, alors cette fois aussi, il a été convenu qu'ils ne fassent rien...... Ça te convient comme ça je suppose, Alice ?」
+
+}
+[sha:917c9dba057630c9c5a6e948191ec3ca1d881177]{
+-- Page 3, Offset 1248.
+-- 「……ええ。ネコの手なら借りたいけど、あの人たちの手は信用ならないし。いつも通り、後処理だけお願いしましょう」
+「...... Oui. Je pourrais demander de l'aide à n'importe qui à part eux. On ne peut pas leur faire confiance. Laissons-les juste gérer la suite des évènements, comme d'habitude.」
+
+}
+[sha:b30c874dec65308338459e46441ba203a41cb389]{
+-- Page 4, Offset 1249.
+-- 「賛成。後ろからバッサリやられかねないしね。だいたい、私もアンタも背中を気にして没頭できる柄じゃないし」
+「Je suis d'accord. Et puis, on pourrait se faire avoir d'un coup dans le dos. Après tout, toi comme moi, on n'est pas vraiment du genre à pouvoir surveiller nos arrières pendant qu'on est occupées.」
+
+}
+[sha:4da0f5f21e5f899108141355587a1bc93bdd13c3]{
+-- Page 4, Offset 1250.
+-- 「……わたしはできるけど。
+「...... Moi, je le peux.
+
+}
+[sha:8a27a04f90ebf5de8cf0f621be9f59b8ccaea56c]{
+-- Page 4, Offset 1251.
+-- 青子は単に、まだそれほどの余裕がないだけでしょう」
+  Mais dans ton cas, c'est simplement que tu n'es pas encore assez sûre de toi.」
+
+}
+[sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
+-- Page 4, Offset 1252.
+-- 「む」
+「Hm.」
+
+}
+[sha:e8bca9edde6d470caab5ca5e784aafb0a5f76c3b]{
+-- Page 5, Offset 1253.
+-- かつん、かつん。
+  *tap* *tap*
+
+}
+[sha:f78e495f81dea9d7dcf9e8596bc54117eba2226a]{
+-- Page 5, Offset 1254.
+-- 階段を下りる足音も<淑|しと>やかに、久遠寺有珠はロビーに到達する。
+  Avec de gracieux bruits de pas, Kuonji Alice descendit les escaliers et atteignit le vestibule.
+
+}
+[sha:175fa50be0ae2ed5b2997d4404068504cc4dcee3]{
+-- Page 5, Offset 1255.
+-- ……その途中、天井の窓ガラスに目をやった事を青子は見逃さない。
+  ...... Aoko ne manqua pas de remarquer qu'au passage, elle avait regardé la fenêtre du plafond.
+
+}
+[sha:87b4fa3ed19f188d7b04836cecd3f4c1e9fa5aa9]{
+-- Page 6, Offset 1256.
+-- 「ガラス、<曇|くも>ってるわね」
+「La vitre est sombre, hein.」
+
+}
+[sha:c2afb40234aaa0dac1abf29ecf534bd66b960d9f]{
+-- Page 6, Offset 1257.
+-- 「その事で話があるわ。今日の課題が終わったら、だけど。
+「J'ai quelque chose à te dire à ce propos. Enfin, si on finit les tâches d'aujourd'hui.
+
+}
+[sha:370217c60ce20898626bbdb069e81dd3e5f728b9]{
+-- Page 6, Offset 1258.
+-- ……青子、体の調子は？　疲れているなら休みを入れてもいいけど」
+  ...... Aoko, comment va ton corps ? Si tu es fatiguée, tu peux prendre du repos.」
+
+}
+[sha:550122d38aac7f7cb667382e7df82ef6dfd08260]{
+-- Page 6, Offset 1259.
+-- 「え？　なによ、気味悪いなあ。気遣いされるコトなんてないってば。いつも通りの一日だったし、そんな疲れた顔してる、私？」
+「Hein ? De quoi ? Tu me donnes la chair de poule. Ne t'en fais pas. C'était un jour comme un autre, et puis, tu trouves vraiment que j'ai l'air fatiguée ?」
+
+}
+[sha:cb1e9c38e721e522f511fcf5c1085a932afe7110]{
+-- Page 7, Offset 1260.
+-- そう。あえて言うなら、本日の学園生活、順風にして波高し。
+  Oui. Pour être honnête, il y avait eu de grandes turbulences malgré un vent propice durant sa journée à l'école.
+
+}
+[sha:36915f91b782c86b36198bfc863ecd8ec8262e9b]{
+-- Page 7, Offset 1261.
+-- ざっと<俯瞰|ふかん>すればいつも通りの平和なスクールライフで、
+  À bien y réfléchir, au cours de ses activités scolaires, que l'on pouvait estimer habituellement paisibles d'un certain point de vue,
+
+}
+[sha:c50640003c40ab0a1e4f3e490433175c32336b1a]{
+-- Page 7, Offset 1262.
+-- よくよく思い返すと微妙に頭の痛い出来事があったりして、
+  il s'était produit un incident qui lui était légèrement monté à la tête.
+
+}
+[sha:4a4c7ece062b229f09df4c88a8c735158ca8bb82]{
+-- Page 7, Offset 1263.
+-- つきつめると精神的にちょい疲れているけど、それを意識するとよけい疲れるので避けたい青子なのだった。
+  Et en y pensant sérieusement, elle était effectivement un peu surmenée, mais comme ça la fatiguerait encore plus si elle le ressassait, Aoko voulait l'éviter.
+
+}
+[sha:c839a435046c13d6a22a0f8bdc1688faaa84eaa7]{
+-- Page 8, Offset 1264.
+-- 「……ストップ。なんで帰って来てまで、あんなののコトで疲れなくちゃいけないんだ、私。
+「...... Ça suffit. Pourquoi je devrais me fatiguer pour un truc comme ça, alors que je viens à peine de rentrer.
+
+}
+[sha:ab38f11eb7ccb418497ec7634956d2f12de94305]{
+-- Page 8, Offset 1265.
+-- えっと、今日の課題って初歩の<暗示|ウィッシュ>でしょ？
+  Voyons, la leçon du jour, c'était les rudiments de la Suggestion, c'est ça ?
+
+}
+[sha:8adf2c4980b0ea10c8b22ebf81fe023bef9ae53c]{
+-- Page 8, Offset 1266.
+-- 問題ないわ、すぐ始めましょ。今日はなんか、勢いでうまくいきそうな気もするし」
+  Pas de problème, commençons tout de suite. Et puis, j'ai l'impression qu'aujourd'hui, ça va bien se passer si j'y mets de l'entrain.」
+
+}
+[sha:ffff3efa461e3abfc1c3e61679c5099d99d9e2e8]{
+-- Page 8, Offset 1267.
+-- おもに怒りとか、ストレス発散の方向で。
+  Même si c'était surtout pour calmer sa colère ainsi que son stress.
+
+}
+[sha:a8d1d8c0d31ecfa072d6690bb6825d9efebafb20]{
+-- Page 9, Offset 1268.
+-- 青子はよし、と気合いをいれて二階に向かう。
+  “Bien”, dit Aoko en rassemblant ses forces et en se dirigeant vers le premier étage.
+
+}
+[sha:6c4adf6be431519acbbe871f0a67ba73664719c1]{
+-- Page 9, Offset 1269.
+-- 「どうしたのよ。有珠の部屋でやるんじゃないの？」
+「Qu'y a-t-il ? On ne le fait pas dans ta chambre ?」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 9, Offset 1270.
+-- 「――――――」
+「――――――」
+
+}
+[sha:62f5ca977e57b3f6f32b75ea0acf31b92cb32d72]{
+-- Page 9, Offset 1271.
+-- 礼服の少女はそうだけど、とやや不満そうにうなずいて、
+  “Si, mais...” hésita la jeune fille en habits de cérémonie un peu mécontente.
+
+}
+[sha:a8af1f858a98acfaa63b660a6dbdbff5b4328a0e]{
+-- Page 9, Offset 1272.
+-- 「それで、伊勢屋の煎餅って、今日の？」
+「Pour savoir, les senbei de Iseya, ce sont ceux du jour ?」
+
+}
+[sha:a05eda40f262e4099e144e51d2098563e49695a1]{
+-- Page 9, Offset 1273.
+-- 青子の手にある、今日できあがったばかりの和菓子を見つめるのだった。
+  Elle fixait les confiseries japonaises qui sortaient tout juste du four et qu'Aoko tenait dans sa main.
+
+}
+[sha:4025a0fa9a6a1040665c67a468c7d90317d1a07f]{
+-- Page 10, Offset 1274.
+-- 結局、日課である有珠の授業は、軽くお茶をした後に行われた。
+  Finalement, le cours routinier d'Alice eut lieu après une légère collation.
+
+}
+[sha:20b0bef425d04db872db31c3fdf76a72f8664ab0]{
+-- Page 10, Offset 1275.
+-- まだまだ見習いである青子にとって、久遠寺有珠は同居人であると同時に得難い教師である。
+  Pour Aoko qui n'était encore qu'en apprentissage, Kuonji Alice était à la fois sa colocataire et une précieuse enseignante.
+
+}
+[sha:f0abad2260018991bf18d4c5457cb7d227009957]{
+-- Page 10, Offset 1276.
+-- 彼女が青子の健康をいたわって休みを入れると判断したのなら、大人しく従うしかない。
+  Si cette dernière avait jugé bon de faire une pause pour ménager la santé d'Aoko, alors elle n'avait pas d'autre choix que d'obéir sagement.
+
+}
+[sha:453d9f621c143736d5118729f84adf361d0df214]{
+-- Page 11, Offset 1277.
+-- 授業は二時間で終了し、ふたりはそれぞれ用意しておいた夕食を済ませ、一日の締めである夕食後のひとときを過ごそう、と<河岸|かし>を変えた。
+  Le cours s'acheva au bout de deux heures, elles terminèrent leur dîner qu'elles avaient chacune préparé de leur côté, puis se rendirent dans une autre pièce pour passer un certain temps après le repas et faire le bilan de leur journée.
+
+}
+[sha:5158b167db2cfaef6744508c29b9bfbeafb8b578]{
+-- Page 12, Offset 1278.
+-- サンルームは居間のとなり、美しい庭園が見渡せる屋敷の東側にあった。
+  La véranda était à côté du salon, dans la partie est de la résidence, et on voyait de là le magnifique jardin.
+
+}
+[sha:b67217aa71b6663b1c0876d29f4cef3a104a358b]{
+-- Page 12, Offset 1279.
+-- 豪華な居間に負けず劣らず、細かな気遣いと格調高い調度品で飾られた久遠寺邸自慢のサンルームは、しかし。
+  Cette véranda était la fierté de la résidence Kuonji et rivalisait avec l'extravagance du salon de par son aspect accueillant et son mobilier de haut standing ; cependant...
+
+}
+[sha:47f0f8ea3982352c4940e56f3d7d7a75c29e99c5]{
+-- Page 13, Offset 1280.
+-- 「来年の夏はジャングルね、この分だと」
+「À ce rythme, l'été prochain, ce sera une jungle.」
+
+}
+[sha:73e00355cc5ffd780cb01022a2d948a503d8e76e]{
+-- Page 13, Offset 1281.
+-- 庭掃除という<意識|コマンド>が欠如した住人のせいで、色々と台無しだった。
+  le cadre était gâché par la vue sur le jardin qui était laissé à l'abandon par les résidentes.
+
+}
+[sha:0b2cb05e9ef0b9ddb0d356bb26a82a15473347f6]{
+-- Page 14, Offset 1282.
+-- 「ねえ有珠、庭掃除専用のプロイとかいないの？」
+「Dis Alice, tu n'aurais pas un Ploy spécialisé dans le nettoyage de jardin ?」
+
+}
+[sha:27ec4476c62535b3bd31678e1a892093b90d7c10]{
+-- Page 14, Offset 1283.
+-- 一足先にサンルームに入り、ティーポットから紅茶を淹れる青子。
+  Aoko pénétra la première dans la véranda et saisit la théière pour se verser du thé.
+
+}
+[sha:ba718065ee78388ccbdb4fda08e4110ab0b0b6c7]{
+-- Page 15, Offset 1284.
+-- 「探せばいるかもしれないけど、少し手間ね」
+「À la rigueur, il y en aurait peut-être un, mais ça demanderait un peu de travail.」
+
+}
+[sha:2f8c93f516ccbde4c102e448476b578c7f49d6c1]{
+-- Page 15, Offset 1285.
+-- 同居人の<戯|ざ>れ言を流しながら、有珠も自分用の椅子に座ろうとし、
+  Tout en laissant passer la plaisanterie de sa colocataire, Alice alla s'asseoir sur sa propre chaise, puis,
+
+}
+[sha:ab2b440f78e1783a5837a2f9f82ad8b6a2039852]{
+-- Page 15, Offset 1286.
+-- テーブルの上に置かれたチョコレイトの箱を見て、<可憐|かれん>な眉を曇らせた。
+  fronça ses charmants sourcils en voyant la boîte de chocolats posée sur la table.
+
+}
+[sha:e3230ff27ca7ea480ab8833bdc06a5cdb39e5bcd]{
+-- Page 16, Offset 1287.
+-- 「な、なによ。言っとくけど、今日の失敗は半分有珠のせいよ？
+「Qu-Quoi ? Avant que tu dises quoi que ce soit, l'échec d'aujourd'hui est aussi de ta faute. 
+
+}
+[sha:955eac7792879d299fd68e256aaa3b5451f5f583]{
+-- Page 16, Offset 1288. Glued. Mods: @x.
+-- お煎餅で気が<緩|ゆる>んだのが敗因っていうか、そりゃ、<暗|ウィ><示|ッシュ>のつもりがガンドになっちゃったのは、我ながら攻撃的すぎると思うけど……」
+ Si ça ne s'est pas passé comme prévu, c'est parce que les senbei m'ont distraite, si j'ose dire. Bon d'accord, même moi, je trouve que c'est un peu fort qu'une Suggestion se soit carrément transformée en un Gandr, mais......」
+
+}
+[sha:13be326e6cb48603cebc18191818ae125a29f52e]{
+-- Page 16, Offset 1289.
+-- 「六個、減ってるわ」
+「Il en manque. Six.」
+
+}
+[sha:96574a3dd729a2f2fa62fc290b70b6bcd19a5a23]{
+-- Page 16, Offset 1290.
+-- 「え？　なんだ、そっちのコトか」
+「Quoi ? Ah, tu parles de ça.」
+
+}
+[sha:b5acae27d9fd9b4cd4f641f3c8a711acab88d75b]{
+-- Page 17, Offset 1291.
+-- 青子はどれどれ、とチョコレイトの箱をのぞき見る。
+  “Laisse-moi voir”, dit Aoko tout en regardant la boîte de chocolats.
+
+}
+[sha:1987e87dd1c4c2a76f90315e5c11b89e8b3cd06e]{
+-- Page 17, Offset 1292.
+-- 世界中さがしても、この街の、この洋館にしかない高級洋菓子。
+  Même en cherchant dans le monde entier, on ne pouvait trouver ces confiseries d'occident que dans cette ville, dans cette résidence.
+
+}
+[sha:f1a3a9869f55dd869008817bb7fe826037abea42]{
+-- Page 17, Offset 1293.
+-- 銘柄は<６|シックス>ペンスの唄、と言うらしい。
+  D'après ses souvenirs, la marque était “Sing a Song of Sixpence”.
+
+}
+[sha:29867d3782d3c27b80969432293e4dfa1627555f]{
+-- Page 18, Offset 1294.
+-- 「で、鏡の話をするんだっけ？
+「Alors ? On allait parler du miroir, je crois ?
+
+}
+[sha:d05b67c13284269557c6c89eae00cef71b44ff73]{
+-- Page 18, Offset 1295. Glued. Mods: @x.
+-- アレ、いま洋館モードから三咲モードになってるんでしょ？」
+ En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
+
+}
+[sha:1c0006a4dd7b98686990ed091e5427a4431520d0]{
+-- Page 18, Offset 1296.
+-- 「ええ。ここの管理はおざなりになるけど、三咲市だけに切り替えたわ。……それが昨日から曇りだしている。
+「Oui. La surveillance de la résidence devenait imprécise, alors je l'ai commuté sur la ville de Misaki uniquement...... Depuis hier, il est brumeux.
+
+}
+[sha:51bc99204eb8865f021fe3137c147f0e7db57462]{
+-- Page 18, Offset 1297.
+-- 少しずつだけど、確実に包囲されてるわね」
+  C'est imperceptible, mais il est clair qu'on nous encercle.」
+
+}
+[sha:f2e4d0efc1e897d9a18dc2ce590f948bfa48b086]{
+-- Page 19, Offset 1298.
+-- 「包囲って、数が増えたってコト？」
+「On nous encercle ? Ça voudrait dire que leur nombre a augmenté ?」
+
+}
+[sha:e0b3fb6c6b3a06ce1eab7133a00e5ae90c193fbe]{
+-- Page 19, Offset 1299.
+-- 「捕捉していた一名はもちろん、他にもう二名ほど不審者を目撃済み。都市部に一、郊外の森に二ね」
+「En effet ; outre celui qui a été capturé, le miroir a localisé deux autres présences suspectes. Une personne dans la zone urbaine, et deux autres dans la forêt de la banlieue.」
+
+}
+[sha:cdea0e1d7d89b164963329d9b75cdc57e3366759]{
+-- Page 20, Offset 1300.
+-- 「はあ。アンタの目撃談はアテになるからなあ。
+「Aah. Tes observations sont d'une précision incroyable.
+
+}
+[sha:81d0bfe2209b7804f2d4f4231196e41d80a1f5bf]{
+-- Page 20, Offset 1301.
+-- で、うるさいのはどっち？」
+  Et donc ? Qui constitue la plus grande menace ?」
+
+}
+[sha:8347611978f55fab287c3cef18fbc5ba15bfff10]{
+-- Page 20, Offset 1302.
+-- 「……森の方。捕捉中だけど、こっちの目に気づいているみたい。なかなか誘いに乗ってこないわ」
+「...... Le groupe de la forêt. Leur capture est en cours, mais ils semblent savoir qu'on les observe. Ils ne se laissent pas facilement approcher.」
+
+}
+[sha:9b69ab9f416cf054b3242b7b869779ab57112490]{
+-- Page 20, Offset 1303.
+-- 「そっか。
+「Ah oui ?
+
+}
+[sha:68d83f4b4ac1e2e808ce7d13e10e4b7e29e4d4ce]{
+-- Page 20, Offset 1304. Glued. Mods: @x.
+-- じゃあ今夜、仕掛ける？」
+ Alors, on leur tend un piège ce soir ?」
+
+}
+[sha:b27327a5a49f95b3b6091b5f160238471fc2d2f1]{
+-- Page 21, Offset 1305.
+-- “今夜、仕掛ける”
+“On leur tend un piège ce soir.”
+
+}
+[sha:f3b1e622792098e87c6165af53afe032cc295c53]{
+-- Page 21, Offset 1306.
+-- それは彼女の人生を大きく、それこそまったく別のものに変化させる一大行事だ。
+  C'était un grand évènement qui allait radicalement transformer sa vie.
+
+}
+[sha:1ddb510ac335664342b7fc3295e9d6137959a7a5]{
+-- Page 21, Offset 1307.
+-- 大げさではなく、穴のあいたパラシュートで自由落下するぐらいの覚悟と冒険、適応資格アリナシを決めるダイス勝負。
+  Sans exagérer, c'était comme lancer un dé pour décider si oui ou non elle avait une détermination assez grande pour faire une chute libre avec un parachute troué et les qualités nécessaires pour faire face au danger.
+
+}
+[sha:93a9431428a19ae54555931787b2c9cae0c8f119]{
+-- Page 22, Offset 1308.
+-- その恐れと迷いを、青子は紅茶と共にあっさり飲み下した。
+  Aoko fit disparaître sa peur et ses doutes en buvant son thé.
+
+}
+[sha:4137ee07a7a2ac54c270c0ca9e47c28314ce0100]{
+-- Page 22, Offset 1309.
+-- 高校の創立記念日の夜、「もう決めた」と宣言して以来、彼女は心身共にキレイさっぱり切り替わっている。
+  Depuis qu'elle avait annoncé s'être décidée la nuit de l'anniversaire de l'établissement du lycée, elle avait totalement et définitivement changé, corps et âme.
+
+}
+[sha:526a9b2bcd02fd36af380ab12da593733df56dcb]{
+-- Page 22, Offset 1310.
+-- そんな同居人の強さを、有珠は伏し目がちに受け入れた。
+  Alice accepta la force de sa colocataire, les yeux baissés.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 23, Offset 1311.
+-- 「………………」
+「..................」
+
+}
+[sha:b37cfe47344da44249b8143f17760adc84491c77]{
+-- Page 23, Offset 1312.
+-- 同居人の心のあり方は、同じ目的を持つ者として心強い。
+  Comme sa colocataire partageait les mêmes objectifs qu'elle, cet état d'esprit était rassurant à voir.
+
+}
+[sha:343c7e2d7e384baa9b7ee3b5a0cf633aece48c8e]{
+-- Page 23, Offset 1313.
+-- いや、心強い、というより喜ばしい。
+  Non, ce n'était pas que ça la rassurait, ça la rendait heureuse.
+
+}
+[sha:ae9ee0c4d0aebc95b304e7355af336428f0e5403]{
+-- Page 23, Offset 1314.
+-- なにしろ一年かけて、ようやく彼女が自分と同じステージに立ったのだから。
+  Après tout, elle se tenait enfin sur la même scène qu'elle après un an d'efforts.
+
+}
+[sha:71b42364dd25e1eeb29954cf5f93882d57ca84d2]{
+-- Page 24, Offset 1315.
+-- 奇しくも同じ<結末|うんめい>を持った隣人。
+  Des êtres semblables aux destins étrangement similaires.
+
+}
+[sha:61d1e9aebe8d08dc92ebbc9e11db2d958b00493f]{
+-- Page 24, Offset 1316.
+-- けれど相容れない相手。
+  Mais aux personnalités incompatibles.
+
+}
+[sha:5e63fdf989df463ae5149c7db057a985d1cd7357]{
+-- Page 24, Offset 1317.
+-- 所詮分かり合えない他人。
+  Après tout, elles étaient l'une pour l'autre des étrangères dans l'incapacité de se comprendre.
+
+}
+[sha:f223f6697b22fcd206fdf22c8667b2055912a509]{
+-- Page 24, Offset 1318.
+-- いずれ、互いが受け継いだ全ての遺産をもって殺し合う関係だとしても、まず対等にならなければ意味がない。
+  Même si leur relation pouvait les amener un jour à s'entretuer au nom de l'héritage qu'elles avaient reçu, elles devaient d'abord être sur un pied d'égalité pour que cela ait un sens.
+
+}
+[sha:402afcfc76cf9321c3120adb6dc2a203039a44a8]{
+-- Page 24, Offset 1319.
+-- だから今は、彼女の成長を喜ぶのが正しいのだ。
+  Voilà pourquoi il était normal pour elle de se réjouir de ses progrès.
+
+}
+[sha:97e276171eba0deb0caba22909d03d7e7ccb3718]{
+-- Page 25, Offset 1320.
+-- 「……折角だけど、今夜はわたしひとりで十分よ。
+「...... C'est gentil de le proposer, mais pour ce soir, je suffirai amplement.
+
+}
+[sha:ed0e43800eec804bf9ff4c622cc72382587c6499]{
+-- Page 25, Offset 1321.
+-- そんな余裕があるのなら、貴女はもう少し暗示の練習をするべきね。公園は貴女の担当だから、その時は働いてもらうけど」
+  Si tu as du temps à perdre, tu devrais plutôt le consacrer à t'exercer un peu plus à la Suggestion. Par contre, comme tu es en charge du parc, je te demanderai de t'en occuper le moment venu.」
+
+}
+[sha:0971c750bf75969e8f55916d743c811cbea9e86d]{
+-- Page 26, Offset 1322.
+-- 有珠は青子を見ずに淡々と説明する。
+  Alice expliqua la chose avec indifférence, sans regarder Aoko.
+
+}
+[sha:3fc8a914d8c5c93bab88dc6fed68e932ddd5bf66]{
+-- Page 26, Offset 1323.
+-- 今夜の敵の規模。
+  Les forces de l'ennemi de cette nuit.
+
+}
+[sha:21e033ca4de5a573eb967610685dfe525c5fdf8b]{
+-- Page 26, Offset 1324.
+-- 今後の予定。
+  Les plans pour la suite.
+
+}
+[sha:c9b9d079d4e3aeddc7f9de8cd27e0aa30c5ff042]{
+-- Page 26, Offset 1325.
+-- おそらく二日後あたりになるであろう、蒼崎青子の<新|・><し|・><い|・>誕生日について。
+  À propos du nouvel anniversaire d'Aozaki Aoko qui aurait probablement lieu deux jours plus tard.
+
+}
+[sha:c4b75e4ce28056b4a5ddb4a661dd9205157dcc2c]{
+-- Page 27, Offset 1326.
+-- 「はいはい、わかりました」
+「Oui, oui, j'ai compris.」
+
+}
+[sha:fd95dfd36dc36476d893e2c8a2250abef5e031b9]{
+-- Page 27, Offset 1327.
+-- 紅茶を飲み干し、席を立つ青子。
+  Aoko but son thé et se leva de son siège.
+
+}
+[sha:3a1fd5cea51ec17d04a662d3fc8043df79f5808f]{
+-- Page 28, Offset 1328.
+-- 「お言葉通り、暗示の練習でもやってるわ。
+「Comme tu l'as dit, je vais m'exercer à la Suggestion.
+
+}
+[sha:86200b3037a2f9a29ac604d205793532fb55b3c6]{
+-- Page 28, Offset 1329.
+-- えーと、一節目はたしか、“軽く、弱く。巧く、速く。チクタクチクタク　急げや急げ”よね？」
+  Voyons voir, si je me rappelle bien, le premier verset, c'est “Légèrement. Faiblement. Habilement. Rapidement. Tic tac tic tac, dépêche-toi dépêche-toi”, c'est ça ?」
+
+}
+[sha:699cc94a2c594d81b97d4a59613fa44c30fe1970]{
+-- Page 28, Offset 1330.
+-- 「……はあ。そこは“空<気のおも|かるく　よわく>り、<胸のふるえ|うまく　はやく>。ひ<かりは|いそげやい><遅|そげ>れる、か<げは先立|チクタクチクタク>つ”よ。
+"Ugh, no. You're missing the quiet part. Remember, 'the weight of the air, the tremble of one's breast. Light lags behind while shadows pull ahead.'
+「...... Non. Le premier verset, c'est “Poids de l'air, tremblement de la poitrine. La lumière en second, l'ombre en premier.”
+
+}
+[sha:1dd7c64a97e1a24ae59dde07b242de69f37117d6]{
+-- Page 28, Offset 1331.
+-- 気をつけなさい。それだと逆に落ち着かなくなるわ」
+  Fais attention. De la façon dont tu l'as prononcé, ça n'aidera en rien la cible à se calmer.」
+
+}
+[sha:15f4fa8087cbddc381374165e2c6ea1217ac4d01]{
+-- Page 29, Offset 1332.
+-- 「そうだったそうだった。んじゃ、ひとつ失礼」
+「C'est vrai, c'était ça. Bien, excuse-moi.」
+
+}
+[sha:492ddd7cb450c92566513b799db5a9867758361e]{
+-- Page 29, Offset 1333.
+-- チョコをひとつ<摘|つ>んで、ぽいっと口に<放|ほう>る。
+  Elle se saisit d'un chocolat et n'en fit qu'une bouchée.
+
+}
+[sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
+-- Page 30, Offset 1334.
+-- 「……………………」
+「........................」
+
+}
+[sha:6f232cf23ec7498966b4d6028f79c44c7528c44b]{
+-- Page 30, Offset 1335.
+-- 手を振ってサンルームを去る青子を、有珠は無言で見送る。
+  Alice accompagna du regard et sans dire un mot Aoko qui quittait la véranda en agitant la main.
+
+}
+[sha:d7d9316814af33ee9d1c42693e3754b87a8b17c8]{
+-- Page 30, Offset 1336.
+-- 少女はしばし固まったあと、同居人のつまみ食いを<咎|とが>めるように、カチリと乱暴にチョコレイトの箱を閉じた。
+  Après être restée figée pendant un petit instant, elle ferma la boîte de chocolats avec violence, comme pour lui reprocher d'avoir laissé sa colocataire voler de la nourriture.
+
+}

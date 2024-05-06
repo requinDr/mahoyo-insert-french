@@ -1,0 +1,24 @@
+[sha:4431bdaa61b889f33bd1e6dbe1c7cbbf9e927478]{
+-- Page 50, Offset 22324. Mods: @e.
+-- ～選択肢Ｈ～
+-Choix H-
+
+}
+[sha:ec3ade41cb6168e8adcc78414b5a155d0bb61fd7]{
+-- Page 50, Offset 24035. Choice.
+-- 土桔由里彦氏の死がネックだ、と思った。
+Je songeai qu'expliquer la mort de M. Tokitsu Yorihiko serait ardu.
+
+}
+[sha:52f8957fa821978b3e6d64eeedfa3da6f8bcd2eb]{
+-- Page 50, Offset 24036. Choice.
+-- たしかに一晩笑わないのなんて簡単、と思った。
+Je songeai que s'abstenir de rire une nuit serait aisé.
+
+}
+[sha:09b75e904838e41f0c2b97630da514798422132b]{
+-- Page 50, Offset 24037. Choice.
+-- ……そろそろひとり足りない事を指摘すべきだろうか、と思った。
+Je songeai à faire remarquer qu'une personne manquait à l'appel.
+
+}

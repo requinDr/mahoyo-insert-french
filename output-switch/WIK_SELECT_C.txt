@@ -1,0 +1,18 @@
+[sha:2d7ff4727fc74ac751599ecf441ee695527dacbb]{
+-- Page 5, Offset 21446. Mods: @e.
+-- ～選択肢Ｃ～
+-Choix C-
+
+}
+[sha:169323298c3f31faa76214fd14f2c4015d7b3fdf]{
+-- Page 5, Offset 24021. Choice.
+-- 何か不穏。洋館に戻るべきだと思った。
+C'était sinistre. Je songeai qu'il valait mieux rentrer.
+
+}
+[sha:23f87125e05d7927a0b0ad77ad4686ea25eb30ef]{
+-- Page 5, Offset 24022. Choice.
+-- 気になる。確かめてみるべきだと思った。
+Ça m'intriguait. Je songeai qu'il valait mieux vérifier.
+
+}

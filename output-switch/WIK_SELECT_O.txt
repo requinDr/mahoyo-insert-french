@@ -1,0 +1,18 @@
+[sha:32e6370567eeb220929b249120aff65acbe63075]{
+-- Page 1, Offset 22769. Mods: @e.
+-- ～選択肢Ｏ～
+-Choix O-
+
+}
+[sha:4b6d23cb42d81550b439235317818169f3101fee]{
+-- Page 1, Offset 24059. Choice.
+-- 十三人目の存在がいるからだ、と思った。
+Je songeai qu'il y avait une treizième personne.
+
+}
+[sha:cfa4e5d0e40cee8263f4cce0f7c61a1888fda43a]{
+-- Page 1, Offset 24060. Choice.
+-- 電話線がなくなっていた時の、あの違和感について追求するべきだからだ、と思った。
+Je songeai qu'il fallait parler de cet étrange sentiment ressenti en découvrant que le fil du téléphone avait disparu.
+
+}

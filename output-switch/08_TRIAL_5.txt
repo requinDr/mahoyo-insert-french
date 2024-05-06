@@ -1,0 +1,30 @@
+[sha:bd80a59d2893ecd03207309584af249e7e33bfbd]{
+-- Page -1, Offset 1222.
+-- 日々の<断片|はなし>はここまでに。
+-- TRANSLATION HERE
+}
+[sha:affd0246eb8bdde661392f8abf15f19be390c198]{
+-- Page -1, Offset 1223.
+-- カメラを正しい始まり、
+-- TRANSLATION HERE
+}
+[sha:9b47fc04f774347c2de5ec7896ebdc293c40a34f]{
+-- Page -1, Offset 1224.
+-- 本来のオープニングに戻しましょう。
+-- TRANSLATION HERE
+}
+[sha:ae8f9f98e22cb1119ed80acd41566e043fc27a58]{
+-- Page 225, Offset 1225.
+-- どなた様もご静粛に。
+-- TRANSLATION HERE
+}
+[sha:96d39c2aaca137d2a28bac2976a4bc49362c41fa]{
+-- Page 225, Offset 1226.
+-- たいへん長らくお待たせしました。
+-- TRANSLATION HERE
+}
+[sha:b0047de51b388cb6c0e8934fc4e92dffc492ef63]{
+-- Page 225, Offset 1227.
+-- ―――魔法使いの夜、開幕です。
+-- TRANSLATION HERE
+}

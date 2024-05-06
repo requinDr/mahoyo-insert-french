@@ -1,0 +1,30 @@
+[sha:89af73512dbf58d74263253f09f08aa54b198366]{
+-- Page -1, Offset 23949. Mods: @e.
+-- その、もっとも分かりやすい根拠は？
+  Qu'est-ce qui le prouvait de façon irréfutable ?
+
+}
+[sha:aabe1a327d26e0dbbbdca18c3ba5f6a23d25d3fb]{
+-- Page -1, Offset 23950. Mods: @e.
+-- ～選択肢Ｚ～
+-Choix Z-
+
+}
+[sha:32c74e5aaa2bc2c234233a32bb4c2d81db99d6b4]{
+-- Page -1, Offset 24118. Choice.
+-- はじめから間違えていたからだ、と思った。
+Le fait que je faisais erreur depuis le début.
+
+}
+[sha:325937efbb52e37bdb32f50e4ac96313658eedd8]{
+-- Page -1, Offset 24119. Choice.
+-- 最後まで生き残ったからだ、と思った。
+Le fait que j'ai survécu jusqu'à la fin.
+
+}
+[sha:5afa32ffcc6be7c56766ac2eca4a94207b149ee5]{
+-- Page -1, Offset 24120. Choice.
+-- そもそもこの、思った通りになる選択肢こそが証拠だと、わたしはようやく確信した。
+J'avais enfin acquis la certitude que ces choix qui devenaient réalité étaient une preuve irréfutable.
+
+}

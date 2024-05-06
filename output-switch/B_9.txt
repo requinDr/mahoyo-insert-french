@@ -1,0 +1,690 @@
+[sha:f49e556f9976bd0330c64b3683985f33bea53f66]{
+-- Page 0, Offset 16559.
+-- 「お待ちなさい。病室は立ち入り禁止です」
+「Attends. Il est interdit d'entrer dans cette chambre.」
+
+}
+[sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
+-- Page 0, Offset 16560.
+-- ……と。
+  ...... entendirent-ils.
+
+}
+[sha:dfa3f7183a6fdd16fa4366b13ac31879cf1caeb9]{
+-- Page 0, Offset 16561.
+-- 礼拝堂の奥、病室に向かう草十郎に、冷たい声が浴びせられた。
+  Alors qu'il se dirigeait vers la chambre au fond de la chapelle, Sōjūrō fut interpellé par une voix glaciale.
+
+}
+[sha:1e3cb9f79ba22e224306568ad2bef912884b1031]{
+-- Page 0, Offset 16562.
+-- 祭壇の横に控えていたのか、盲目のシスターは草十郎を律するように、ドアの前に移動した。
+  La sœur aveugle, qui devait avoir attendu près de l'autel, se déplaça devant la porte pour lui barrer le chemin.
+
+}
+[sha:c04b93df9ef393bbaa1e3b0c460b5a7d507e2ca7]{
+-- Page 1, Offset 16563.
+-- 「唯架さん。いま、病室には入れないんですか？」
+「Yuika. On ne peut pas entrer dans la chambre ?」
+
+}
+[sha:9f7fe09dd9f7702768e3b56e302be416191328ad]{
+-- Page 1, Offset 16564.
+-- 「はい。しばらく<人除|ひとよ>けをしてほしいと、久遠寺様から言付かっています」
+「En effet. Mlle Kuonji m'a chargée d'empêcher quiconque d'entrer.」
+
+}
+[sha:5f0497bcacfdcdc4d8b0aa9e345e90d5e1975b1d]{
+-- Page 1, Offset 16565.
+-- 「有珠が……？」
+「Alice a dit ça......?」
+
+}
+[sha:d4b84b8368eb90fdd9f7abb2be2f09d41737bf5c]{
+-- Page 2, Offset 16566.
+-- 人除けとはどういう事か。
+  Que voulait-elle dire par là ?
+
+}
+[sha:7d37f82761680cc36cd9df1b954632bd4fc69fe7]{
+-- Page 2, Offset 16567.
+-- 傷の手当て、容態の悪化といった理由で面会謝絶になるのなら分かるが、シスターの言葉から、そういった事情は感じとれない。
+  Il comprenait que les visites puissent être interdites pendant qu'on soignait Aoko ou si son état empirait, mais les paroles de la sœur ne laissaient pas supposer de telles circonstances.
+
+}
+[sha:08c057654160fa749e22fb6a2bf946fbf663d2ab]{
+-- Page 2, Offset 16568.
+-- そもそも、治療はもう終わっていると青子自身が―――
+  De plus, Aoko avait dit elle-même que le traitement était déjà terminé―――
+
+}
+[sha:9c88c12a15aaed3ca2895de3c3b25bfa321525c9]{
+-- Page 3, Offset 16569.
+-- 「人がいいのですね、シスター唯架は。そんな方便をしなくてもいいんですよ。
+「Vous avez le cœur tendre, sœur Yuika. Vous n'avez pas à faire usage de tels subterfuges.
+
+}
+[sha:f50f9d3874d06e6891e2aa03f5fe80c255293d51]{
+-- Page 3, Offset 16570.
+-- はっきり言ってあげればいい。今から病室に行っても無駄です、と。
+  Dites-lui simplement la vérité. Que même s'il se rend dans la chambre d'Aoko, c'est inutile,
+
+}
+[sha:114c87b5c6676815bfd168d6a57295d88f05dd14]{
+-- Page 3, Offset 16571. Glued. Mods: @x.
+-- 青子はとっくに出発しているんですから」
+puisqu'elle est partie depuis longtemps.」
+
+}
+[sha:aedc24f07db5b24e6a2df473a6871ff15283803e]{
+-- Page 3, Offset 16572.
+-- 「エイリ神父」
+「Père Eiri.」
+
+}
+[sha:2dcc98c6b57381481bf001ccab5e21f8cafbb78d]{
+-- Page 4, Offset 16573.
+-- 長椅子に座ったまま、神父はにこやかに説明した。
+  Assis sur le banc, le prêtre fit cette révélation en souriant.
+
+}
+[sha:0588885aa378d37766191024583c4b1d98f7c753]{
+-- Page 4, Offset 16574.
+-- 先ほどまでの一連のやりとり。
+  Pourquoi lui avait-il fait la conversation à l'instant,
+
+}
+[sha:1362156d9e64ee79560128885e56643d35ed857a]{
+-- Page 4, Offset 16575.
+-- 彼はなぜ、頼まれもせず他人の悩みを解いていたのか。
+  et pourquoi avait-il résolu les problèmes d'autrui sans qu'on le lui demande ?
+
+}
+[sha:5f78c77c921036adc2b12ef5cf300165126d8d82]{
+-- Page 4, Offset 16576.
+-- ……その真意は、もう語るまでもない。
+  ...... Ses véritables intentions étaient à présent assez claires.
+
+}
+[sha:d5470c5303a0a040d0457ca961da0470b80ce8a0]{
+-- Page 5, Offset 16577.
+-- 「初めから、そのつもりだったんですね」
+「C'était donc votre but depuis le début.」
+
+}
+[sha:b8411685463ea95369bd8e60ff487a6e4ef62e49]{
+-- Page 5, Offset 16578.
+-- 怒気を含んだ声を、神父は眉ひとつ動かさず受けとめる。
+  Le prêtre soutint sans ciller sa voix pleine de colère.
+
+}
+[sha:8345485050defdd342bdaeb3f6efc8000ccc192b]{
+-- Page 5, Offset 16579.
+-- 「申し訳ありません。青子に貴方の保護を頼まれたもので。
+「Je suis désolé. Aoko m'a demandé de te protéger.
+
+}
+[sha:30f8962e45270ad77e60e4fc20118ba8f96f547e]{
+-- Page 5, Offset 16580.
+-- 彼女の準備が整うまでの時間稼ぎでしたが、私が貴方と話をしたかったのは事実ですよ」
+  Je gagnais du temps jusqu'à ce qu'elle soit prête. Cela dit, je voulais vraiment te parler.」
+
+}
+[sha:359f8e42913584a87fafea68e1beb44504d3805e]{
+-- Page 5, Offset 16581.
+-- そこは誤解なきよう、と神父は誠意のかけらもない弁明をした。
+  “Sur ce point, ne te méprends pas”, se défendit le prêtre de façon bien peu convaincante.
+
+}
+[sha:e97cdd55ca9d1e42af5418d90abc219f6b34856d]{
+-- Page 6, Offset 16582.
+-- 強く、激情から歯を噛み締める。
+  Sous le coup de la colère, il serra les mâchoires avec force.
+
+}
+[sha:195ce76458b1b16494b4408db9729245640e788f]{
+-- Page 6, Offset 16583.
+-- ……なぜ青子たちの自殺行為を止めなかったのか、なんて罵倒はない。
+  ...... Il ne les accabla pas en cherchant à savoir pourquoi ils n'avaient pas empêché Aoko et Alice de commettre cet acte suicidaire.
+
+}
+[sha:39f056436ff7f86a49b0f807159d9988aa518f6b]{
+-- Page 7, Offset 16584.
+-- 神父もシスターも魔術師と同類だ。
+  Le prêtre et la sœur étaient comparables aux Mages.
+
+}
+[sha:210004e7f31142b10a0a5957186b71ff4ae9961b]{
+-- Page 7, Offset 16585.
+-- 彼らにとって見れば青子の選択は当然であり、そもそも、この神父は青子を知っている。
+  Pour eux, la décision d'Aoko était naturelle. De plus, ce prêtre connaissait bien cette dernière.
+
+}
+[sha:4d2d9b8544107943b512fc9501ee82d3ddb33c6d]{
+-- Page 7, Offset 16586.
+-- たとえ彼に青子を止める力があったとしても、彼はすっぱり見送っただろう。
+  Même s'il avait le pouvoir de l'arrêter, il l'aurait laissée partir sans lever le petit doigt.
+
+}
+[sha:3380047e48ccf7f34ca3681f5dbe79d8c563c1f8]{
+-- Page 7, Offset 16587.
+-- このまま教会でくすぶっている青子なんて、彼の知る蒼崎青子ではないのだから。
+  En effet, l'Aozaki Aoko qu'il connaissait ne serait pas restée dans un lit à l'église.
+
+}
+[sha:50a0cd3a3d8fe62aa24d94883138fe2314b57557]{
+-- Page 8, Offset 16588.
+-- 「有珠は？」
+「Et Alice ?」
+
+}
+[sha:c35468a9a10cf91606f73387039c64133d0d57e4]{
+-- Page 8, Offset 16589.
+-- 「青子と行きましたよ。あれから三十分は過ぎていますね」
+「Elle a accompagné Aoko. Ça doit faire trente minutes à présent.」
+
+}
+[sha:1118fd35be97554f42c3dc950502fa48304f61d1]{
+-- Page 8, Offset 16590.
+-- 神父はご丁寧にも、時間まで口にした。
+  Le prêtre lui précisa même aimablement le temps que cela faisait.
+
+}
+[sha:012f3c1c117e68e562dfd17830f7be6e2637cb11]{
+-- Page 8, Offset 16591.
+-- 三十分。ちょうど神父が現れた時間と一致する。
+  Trente minutes. Cela coïncidait avec le moment où ce dernier était apparu.
+
+}
+[sha:db0d4de8fe7367abf313d3dab6543f9a75a90417]{
+-- Page 8, Offset 16592.
+-- この教会から学校までは二十分かからない。
+  Il ne fallait pas vingt minutes pour aller de l'église à l'école.
+
+}
+[sha:e5c30d7134984c2c1de7cadbe600092ea7af80d1]{
+-- Page 8, Offset 16593.
+-- そこから三咲高校の旧校舎までなら、走れば十分たらずで到着してしまう―――
+  Arrivé là-bas, il suffisait de courir dix minutes pour atteindre le vieil établissement du lycée Misaki―――
+
+}
+[sha:0f2c70a3c04ff2d7be23f862c3707474a8e66d69]{
+-- Page 9, Offset 16594.
+-- 「っ…………！」
+「Tch............!」
+
+}
+[sha:9ff6e01cc33dacdc22f280ce6c7ccf33e5597d76]{
+-- Page 9, Offset 16595.
+-- 草十郎は礼拝堂の玄関へと踵を返す。
+  Sōjūrō tourna les talons vers l'entrée de la chapelle.
+
+}
+[sha:da94e33e039512eedd4069054392ee94d5077e48]{
+-- Page 9, Offset 16596.
+-- それを、
+  Cependant,
+
+}
+[sha:8ee9bf1d7343570e7bd0553a3e887e6a68c35951]{
+-- Page 9, Offset 16597.
+-- 「待ちなさい。何処へ行くつもりですか」
+「Attends ! Où comptes-tu aller ?」
+
+}
+[sha:448f93804df00c04076428430c3895f446788160]{
+-- Page 9, Offset 16598.
+-- 盲目のシスターが、声だけで押し止めた。
+  la sœur le retint de par sa seule voix.
+
+}
+[sha:2c66d04b3912127e2334e559765c90a7b18090f4]{
+-- Page 10, Offset 16599.
+-- ―――見えない重圧が草十郎の足を止めている。
+  ―――Un poids invisible paralysa Sōjūrō.
+
+}
+[sha:feb0c80cd11dc3c27711d4e2723fb52e916b98bb]{
+-- Page 10, Offset 16600.
+-- シスターの声は呪縛となって、向こう見ずな少年を<諫|いさ>めていた。
+  La voix de la sœur ensorcela le jeune homme et lui fit des remontrances.
+
+}
+[sha:db596059ba9c17147cfd3cf6c9de3bf44791341b]{
+-- Page 11, Offset 16601.
+-- 「貴方は魔術師同士の争いを知りません。
+「Tu ne sais rien des combats de Mages.
+
+}
+[sha:7c2c31c4f6de5cd11e0caee6310c06150a21a12c]{
+-- Page 11, Offset 16602.
+-- 何の助力にもならないばかりか、彼女たちの<足枷|あしかせ>になるだけです。
+  Non seulement tu ne leur seras d'aucune aide, mais pour aggraver les choses, tu ne feras que les gêner.
+
+}
+[sha:391e41ef5ac258ee755d1972314dee21d56578c6]{
+-- Page 11, Offset 16603.
+-- 彼女たちが命を落とすのは彼女たちの業によるもの。望むままに傷つけ合えばいいでしょう。
+  Leur destin veut qu'elles perdent la vie. Laisse-les donc s'entretuer autant qu'elles le désirent.
+
+}
+[sha:e4b2d66428cd67fab694ba7f6087b71a9967a879]{
+-- Page 11, Offset 16604. Glued. Mods: @x.
+-- 貴方のような何の<咎|とが>もない若者が、凶事に立ち会う事はありません」
+Un jeune innocent comme toi ne devrait pas avoir à être témoin d'un tel malheur.」
+
+}
+[sha:92dd5062e3ea32b8603b153cc3fb5fe068b8ae43]{
+-- Page 12, Offset 16605.
+-- シスターの声には静かな怒りがある。
+  La voix de la sœur était empreinte d'une colère sourde.
+
+}
+[sha:fd4ff6a130a39fbecc556811ffba9e86e311e92b]{
+-- Page 12, Offset 16606.
+-- 青子たちへの嫌悪ではなく、それを承知の上で命を粗末にする草十郎を<諫|いさ>めている。
+  Celle-ci ne venait pas de l'aversion qu'elle entretenait envers Aoko et Alice, mais de la bêtise de Sōjūrō qui pensait à gâcher sa vie en dépit de tout.
+
+}
+[sha:33f06b3ae5296d644d4a82c1d16e67bf485adf50]{
+-- Page 13, Offset 16607.
+-- 「なにかしら希望があるのなら私も止めはしません。
+「S'il y avait un quelconque espoir, moi non plus, je ne t'arrêterai pas.
+
+}
+[sha:e2cde140fbe4e630e37117758fa3d02ae86a1ba8]{
+-- Page 13, Offset 16608.
+-- ですがこの件は別です。貴方が行っても、彼女たちが助かる事はありません」
+  Mais ce n'est pas le cas. Même si tu y vas, rien ni personne ne pourra les sauver.」
+
+}
+[sha:a104d48c942d0306a14bc9c83c403333649e4cea]{
+-- Page 14, Offset 16609.
+-- ……たしかに、草十郎が追いついたところで、何がどうなる訳でもない。
+  ...... En effet, même si Sōjūrō les poursuivait, cela ne changerait rien.
+
+}
+[sha:f1f055fc5117effd484740f885c14073773099fa]{
+-- Page 14, Offset 16610.
+-- 遊園地の時だって、結局は役に立たなかったのだ。
+  Lors de l'incident au parc d'attractions, tout bien pesé, il avait été inutile.
+
+}
+[sha:4e5195614b8272d1616aef4fb038197b8c090100]{
+-- Page 14, Offset 16611.
+-- 相手はあの夜以上の怪物だと言うなら、何が出来るかすら思いつかない。
+  Si l'adversaire était un monstre pire que celui de cette nuit-là, il ne voyait vraiment pas ce qu'il pourrait faire.
+
+}
+[sha:c55869fdaa4f64c8603d6f524ce0c6e38b080a9f]{
+-- Page 15, Offset 16612.
+-- 「言っておきますが、蒼崎青子は祖父に護身術を教えこまれています。魔術以外でも貴方より腕は立つ。
+「Pour ta gouverne, sache qu'Aozaki Aoko a appris l'art de se défendre auprès de son grand-père. Même en dehors de la Magie, elle reste plus forte que toi.
+
+}
+[sha:6532dffa5b2d6df7b48c93d298248e17b46b2666]{
+-- Page 15, Offset 16613.
+-- その彼女も、あの使い魔が相手では勝負にならない」
+  Et pourtant, même elle ne peut rien faire face à ce familier.」
+
+}
+[sha:86bce82c72166f246af536e44c1f922fddce8de3]{
+-- Page 15, Offset 16614.
+-- 唯一の利点である男の腕力も無駄らしい。
+  Apparemment, son seul avantage, la force masculine, n'était d'aucune utilité.
+
+}
+[sha:0141f7895fbd9f71c3537dcdb8d839e7e621c462]{
+-- Page 15, Offset 16615. Glued. Mods: @x.
+-- このまま行ったところで足手まといになるのは目に見えている。
+Même s'il s'y rendait, il était évident qu'il ne ferait que leur mettre des bâtons dans les roues.
+
+}
+[sha:a86c21ecefa2fb0185ec1f309aeebcc99f8b83e2]{
+-- Page 15, Offset 16616.
+-- シスターの言はすべて正しい。
+  Tout ce que disait la sœur était juste.
+
+}
+[sha:9c6931108f2f29e26b8663cc1d7f3904e7f09500]{
+-- Page 15, Offset 16617.
+-- それでも―――
+  Mais même ainsi―――
+
+}
+[sha:ae29a9fbabb4b2aa5577de0408d35c409bb72181]{
+-- Page 16, Offset 16618.
+-- 「でも、行かないと。青子には、返さなくちゃいけない借りがあります」
+「Pourtant, je dois y aller. J'ai une dette envers Aoko.」
+
+}
+[sha:b35494f1e965e9a669becd4507d0a6f0a8c5ed7a]{
+-- Page 16, Offset 16619.
+-- あまりに落ち着いた、厳格な響き。
+  Il parla d'un ton sévère et parfaitement posé.
+
+}
+[sha:4abb0e61d3e2b272ac9e180046ff4e85a1b390b0]{
+-- Page 16, Offset 16620.
+-- それについ<絆|ほだ>されかけ、シスターは眉をひそめた。
+  La sœur se laissa attendrir et fronça les sourcils.
+
+}
+[sha:b5edb2df83d48920d265728ac49f97c5f525c677]{
+-- Page 16, Offset 16621.
+-- ……気は乗らないがこれも少年のためだ。
+  ...... Ça ne lui plaisait guère, mais c'était pour le bien du garçon.
+
+}
+[sha:ccc2da41efd4ebdad807fc394240f6d64c2e94e9]{
+-- Page 16, Offset 16622.
+-- 言葉で分からないのなら無理矢理にでも眠らせるしかないと、呪縛の指を草十郎に向け―――
+  Si les mots ne suffisaient pas, elle n'avait pas d'autre choix que de l'endormir par la force. Elle dirigea alors son doigt ensorcelé vers Sōjūrō―――
+
+}
+[sha:c9125063659dcd1ca5582b354c73844bd005f864]{
+-- Page 17, Offset 16623.
+-- 「それを言うなら返したい借りがある、ですよ草十郎君。
+「Dans ce cas, on parle plutôt de rendre la pareille, Sōjūrō.
+
+}
+[sha:481680f34c43867483fb77b3a624d094b3e9efcd]{
+-- Page 17, Offset 16624.
+-- それとシスター唯架、教会内での魔術は控えてくださいね。
+  Aussi, sœur Yuika, dispensez-vous de tout usage de la Magie au sein de l'église.
+
+}
+[sha:62c6843721fb30d7692db92e47ddb403e1836cb7]{
+-- Page 17, Offset 16625.
+-- 使うのなら秘蹟にとどめてもらわないと、私の査定に響きます。
+  Et si vous l'utilisez, limitez-vous aux sacrements, sinon je crains que cela n'influe sur votre évaluation.
+
+}
+[sha:5a4f2bbdc977f5a59f165f075a34652689e5f36a]{
+-- Page 17, Offset 16626. Glued. Mods: @x.
+-- ……まったく。大人しそうに見えて律架クンより短気なんですから、貴女は」
+...... Non mais vraiment... Vous avez l'air d'une personne calme, mais en réalité, vous êtes d'un tempérament plus impulsif que Ritsuka.」
+
+}
+[sha:0439e3ff9ec6d14681e3311cf6faf52d4779c568]{
+-- Page 18, Offset 16627.
+-- 「エイリ神父、しかし」
+「Mais enfin, père Eiri !」
+
+}
+[sha:1670a2e82b0446ffb1a0b9bd8d59f03245a1e6a3]{
+-- Page 18, Offset 16628.
+-- 「行かせてあげればいいじゃないですか。それとも貴女は、やはり青子たちに退場してほしいと？」
+「Laissez-le donc partir. À moins que vous ne désiriez l'expulsion d'Aoko et Alice ?」
+
+}
+[sha:ae8fb4245af6ade765cb532d21bde13e2aaf987e]{
+-- Page 19, Offset 16629.
+-- 「……その問題と、彼の献身は別の話です。
+「...... Ce problème et le dévouement de ce garçon n'ont rien à voir.
+
+}
+[sha:16d1a8e9a3d76ba254113449203aae6f113fcc54]{
+-- Page 19, Offset 16630.
+-- <改|あらた>めなさい静希さん。貴方が行っても、何も出来はしないのですから」
+  Reconsidère ta décision, Shizuki. Même si tu y vas, tu ne pourras rien faire.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 19, Offset 16631.
+-- 「――――――」
+「――――――」
+
+}
+[sha:1de7464e266f4f2e8647bcbe1ef19a50afbc38e8]{
+-- Page 20, Offset 16632.
+-- ……それは、何より彼自身が痛感している真実だった。
+    ...... Sōjūrō savait cela mieux que quiconque.
+
+}
+[sha:3df599c8b1716ba9a54e3987f63ac5db67622cb5]{
+-- Page 20, Offset 16633.
+-- それでも答えは決まっている。
+  Cependant, sa décision était prise.
+
+}
+[sha:ab8a9b8ee61b25e0f21aaec0c0ba5ea782dd728b]{
+-- Page 20, Offset 16634.
+-- 初めからそうだった。どうせ自分すら確かではないのなら、せめて、迷わないように。
+  C'était ainsi depuis le début. Voilà bien longtemps, il avait décidé que si son existence devait être indéfinie,
+
+}
+[sha:917d38b71e8c015ba557684c12c1fd118708a2b8]{
+-- Page 20, Offset 16635.
+-- 自然にうかんだ気持ちだけは貫こうと思ったのは、もうずっと以前からの事だ。
+  il préserverait au moins les sentiments qu'il éprouvait instinctivement afin de ne pas perdre l'esprit.
+
+}
+[sha:2eb739815ab0c6aeb3f60e3b272e23e411bda0b8]{
+-- Page 21, Offset 16636.
+-- 「分かっています。
+「Je le sais.
+
+}
+[sha:eb9702a898bb1ffaa6fa10c4b12ea1894fcd4164]{
+-- Page 21, Offset 16637. Glued. Mods: @x.
+-- ……でも、行かないと。
+...... Mais je dois y aller.
+
+}
+[sha:1a0380ca70312898b0b73a142056193081a1ea57]{
+-- Page 21, Offset 16638.
+-- ここにいたら、本当に何もできない」
+  Si je reste là, je ne pourrai vraiment rien faire.」
+
+}
+[sha:b24845cd046bc5982d6128199b20cf4599559dc1]{
+-- Page 22, Offset 16639.
+-- 胸にあるのは未熟な<衝動|こころ>だけ。
+  Une impulsion puérile avait envahi son cœur.
+
+}
+[sha:f2471cec3fbbcd56790d59fa8bfc37094d3961ea]{
+-- Page 22, Offset 16640.
+-- 神父の話を聞いた時、彼はただ、彼女に会いたいと思った。
+  Après avoir entendu l'histoire du prêtre, il désirait seulement la voir.
+
+}
+[sha:5987b326da04bf42fc811d9bb966135aec73c515]{
+-- Page 22, Offset 16641.
+-- 心配や助けなんて浮かばず、それだけしか思えなかった。
+  Il n'avait eu que cette idée en tête ; s'inquiéter ou l'aider ne lui avait même pas effleuré l'esprit.
+
+}
+[sha:9e90f0f9af22e617cdd61cff69a69e6a167eabbe]{
+-- Page 22, Offset 16642.
+-- だから―――
+  Voilà pourquoi―――
+
+}
+[sha:55c4605a30c1eb727f44d747274f74944a666420]{
+-- Page 22, Offset 16643. Glued. Mods: @x.
+-- その後の事は、その時にしか考えられない。
+il ne pourrait réfléchir à la suite des évènements que le moment venu.
+
+}
+[sha:f0f80dd3421dadeac90e675e9c1867181749b8bc]{
+-- Page 23, Offset 16644.
+-- 「ほら。献身なんて考え自体が間違ってるんです。
+「Voyons. Cette idée même de dévouement est erronée.
+
+}
+[sha:bfc583ee727b9a8831d948465d1eda30d840c26e]{
+-- Page 23, Offset 16645.
+-- 足を引っ張るといいますが、どのみち青子たちに勝ち目はないんでしょう？
+  Vous dites qu'il ne sera qu'une gêne, mais de toute façon, Aoko et Alice n'ont aucune chance de l'emporter, n'est-ce pas ?
+
+}
+[sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
+-- Page 23, Offset 16646. Glued. Mods: @x, @n.
+-- 
+
+
+}
+[sha:9f3d0e0ded34c357659197a35d0bcf03baf5507a]{
+-- Page 23, Offset 16647. Glued.
+-- なら、彼がマイナスになってもいいじゃないですか。どうせ破産するなら、豪快に破産すれば」
+Dans ce cas, il peut très bien se mettre dans leurs pattes. Si elles doivent courir à leur perte, autant le faire avec éclat.」
+
+}
+[sha:666fdf115322c60f1d4bcb86325691cc8bc5e3f0]{
+-- Page 23, Offset 16648.
+-- 「神父」
+「Mon père !」
+
+}
+[sha:47598c16b680bb7c75ccb5637a935fb77ed788e2]{
+-- Page 24, Offset 16649.
+-- 「ほら草十郎くん、行って行って。
+「Allez, Sōjūrō, vas-y, vas-y.
+
+}
+[sha:e150c77901c2467da93e7a1a4aafd5240e85fbe2]{
+-- Page 24, Offset 16650.
+-- シスター、今の貴方の返事で心が折れましたから。
+  Ta réponse a fait flancher Yuika.
+
+}
+[sha:2124eb9b3b0258b8c169858b149cf95729292506]{
+-- Page 24, Offset 16651.
+-- 足、動くでしょう？」
+  Tu dois pouvoir bouger, non ?」
+
+}
+[sha:f7099cbe9fe2cde99bd6df7c26a6ad364726cb67]{
+-- Page 25, Offset 16652.
+-- 神父に指摘され、草十郎は体を確かめる。
+  Suite à la remarque du prêtre, Sōjūrō examina son corps.
+
+}
+[sha:b76eb9c18d4b72ec4b687bf8d02cde0270a07288]{
+-- Page 25, Offset 16653.
+-- 肩にのしかかっていた重圧は薄れ、彼自身が抱いていたかすかな恐れ―――
+  La pression qui pesait sur ses épaules s'était estompée, et la légère crainte qu'il éprouvait―――
+
+}
+[sha:8ecc549468edfcc013486867fdd727ebdb497758]{
+-- Page 25, Offset 16654. Glued. Mods: @x.
+-- 自分は役に立たないどころか、青子たちを危険に<晒|さら>すだけかもしれない―――も、完全に吹き飛んでいた。
+que non seulement il serait inutile, mais qu'en plus, il ne ferait peut-être qu'exposer Aoko et Alice au danger―――s'était complètement dissipée.
+
+}
+[sha:8f87d870bbee63dc5ec6708c167d8cad0be4d83e]{
+-- Page 26, Offset 16655.
+-- 「―――行きます。<縁|えん>が残っていれば、また」
+「―――J'y vais. Nous nous reverrons si le destin le veut bien.」
+
+}
+[sha:a5c987487a26badddc147c7339b53b85ac53bc37]{
+-- Page 26, Offset 16656.
+-- 「はい。何であれ、後悔のない一日を」
+「Oui. Quoi qu'il arrive, fais en sorte de ne pas avoir de regret sur cette journée.」
+
+}
+[sha:84faa575060b6d66d3e43b4e897b16874d3108c8]{
+-- Page 26, Offset 16657.
+-- 走りだす草十郎を、神父は満足げに見送った。
+  Le prêtre accompagna d'un regard satisfait le départ en trombe de Sōjūrō.
+
+}
+[sha:96316701c794a70f6dc6117de51f851316b1cbc5]{
+-- Page 26, Offset 16658.
+-- どのみち青子を説得する事も無理なら、彼を納得させる事も無理だと分かっていたように。
+  C'était comme s'il savait qu'il serait impossible de le persuader, puisqu'il était incapable de faire la même chose avec Aoko.
+
+}
+[sha:3ce249aea4c9acc98fd313a9ad713147d01b9577]{
+-- Page 27, Offset 16659.
+-- 走り去っていく、がむしゃらな少年の後ろ姿。
+  Le garçon téméraire s'en alla en courant.
+
+}
+[sha:5c7702293daeba9a52cb44ba10371358cc39754a]{
+-- Page 27, Offset 16660.
+-- 盲目のシスターは、その音を聞き届ける事しかできない。
+  La sœur aveugle ne pouvait qu'écouter les bruits de ses pas.
+
+}
+[sha:b4e18f573f6c017ef20d7de417b7549beb4dbbf8]{
+-- Page 27, Offset 16661.
+-- ……彼女は神父とも草十郎とも違う。
+  ...... Elle était différente du prêtre et de Sōjūrō.
+
+}
+[sha:4e944e02e0607c8a8d22fa939bc0a37d0da54ae4]{
+-- Page 27, Offset 16662.
+-- 悪徳にも独善にも慈悲は見せないが、無垢な<中庸|ちゅうよう>さには<慈|じ><愛|あい>を抱くのだ。
+  Elle ne montrait aucune pitié, ni envers le vice, ni envers l'égoïsme. Néanmoins, elle ressentait de l'affection pour la vertu pure.
+
+}
+[sha:d5287a74ec2fc7fb4685758a06315476db00fa3d]{
+-- Page 27, Offset 16663.
+-- あの平凡な少年が天寿を全うするのは素晴らしいが、むざむざ異端たちの地獄に堕ちるのは心苦しい。
+  Il serait magnifique que ce jeune homme banal meure de sa belle mort, mais cela lui faisait mal de le voir tomber si facilement dans l'enfer des hérétiques.
+
+}
+[sha:f809a67a2569a8c9e6c158d18c5b6d822efa7fdd]{
+-- Page 28, Offset 16664.
+-- 「……最悪ですね、エイリ神父。
+「...... Vous êtes horrible, père Eiri.
+
+}
+[sha:3d2a11b4acbd0c62e22833358ba793312ddf33e0]{
+-- Page 28, Offset 16665.
+-- 分別の付かない子供を導くのが、責任のある大人だと思いましたが」
+  Je croyais qu'un adulte responsable se devait de guider les brebis égarées.」
+
+}
+[sha:58ca825ac5c7f2f83bd2138f70be081bbb8ef6ee]{
+-- Page 28, Offset 16666.
+-- 刺々しい抗議の声。
+  protesta-t-elle sur un ton tranchant.
+
+}
+[sha:995accf15d5416a0bec9e274d8195b687ed566b3]{
+-- Page 28, Offset 16667.
+-- 彼女は彼女なりに、あの少年の身を案じていたのだ。
+  À sa façon, elle s'inquiétait pour ce garçon.
+
+}
+[sha:f655e3ba12683bb78e655835393a65c6fb6fa8c1]{
+-- Page 28, Offset 16668.
+-- そんなシスターの気遣いに、神父はやれやれと肩をすくめて、
+  Le prêtre haussa les épaules en réaction à la sollicitude de la sœur.
+
+}
+[sha:4e3b7d9d5c3a88010bb68586d0148f9068f6a963]{
+-- Page 29, Offset 16669.
+-- 「だから、色々と間違えていますよシスター唯架。
+「Vous faites fausse route sur diverses choses, sœur Yuika.
+
+}
+[sha:44424d4717127a767e1c55d6b7086881b3ca6193]{
+-- Page 29, Offset 16670.
+-- 責任のある大人、なんて言葉自体がおかしい。
+  L'expression “adulte responsable” en elle-même est étrange.
+
+}
+[sha:45aef9021425502a47968bd5712cd752f3e426fa]{
+-- Page 29, Offset 16671.
+-- <何|・><が|・><起|・><き|・><て|・><も|・><責|・><任|・><を|・><と|・><る|・>。それが、正しい大人というものです」
+  Assumer ses responsabilités quoi qu'il arrive. Voilà ce qu'est un véritable adulte.」
+
+}
+[sha:76bbe5136d1cd3f32b5a44e76b45ea504dc321c5]{
+-- Page 29, Offset 16672.
+-- 誰が死んでも構わない、と。
+  En d'autres termes, peu importait qui mourrait.
+
+}
+[sha:10dbd20bfe3d6916f1a3388f673dc16bf995ad7d]{
+-- Page 29, Offset 16673.
+-- 神父らしい温かな笑顔のまま、彼女の間違いを訂正した。
+  Il rectifia l'erreur de la sœur en conservant son sourire chaleureux de prêtre.
+
+}

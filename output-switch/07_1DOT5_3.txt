@@ -1,0 +1,1555 @@
+[sha:222b1b98e77e45d4482bca7fc963fdbbc5f25e7e]{
+-- Page 0, Offset 343.
+-- ―――オハヨウ　ゴザイマス。
+-- TRANSLATION HERE
+}
+[sha:d7c7c786c20fdbbb0b5015af73aaa0ed1bdffa5a]{
+-- Page 0, Offset 344.
+-- 午前零時ヲ　確認　シマシタ。
+-- TRANSLATION HERE
+}
+[sha:a93ef51a274f1f703be7950e4162012cd19ac8ba]{
+-- Page 1, Offset 345.
+-- 前回更新ヨリ　二十四時間　経過。
+-- TRANSLATION HERE
+}
+[sha:96a7cb0e234dcb235e2f4e13499ff87aa5074de7]{
+-- Page 1, Offset 346.
+-- <安全管理|バックアップ>、開始。<行|レ><動|コ><記|ー><録|ド>、送信。
+-- TRANSLATION HERE
+}
+[sha:592189ce4f0f44b6ddea72bbdece8ecd533d4f6b]{
+-- Page 1, Offset 347.
+-- 周囲ノ地形ヲ　<再確認|スキャン>　シマス。
+-- TRANSLATION HERE
+}
+[sha:af199308e337cfaf7fbe19b5366f9b51a6859f87]{
+-- Page 2, Offset 348. Mods: @k, @e.
+-- 大気成分―――
+-- TRANSLATION HERE
+}
+[sha:b1c7be0ced042b74cb2a932d86c349413bcae98d]{
+-- Page 2, Offset 349. Mods: @k, @e.
+-- 窒素、異常ナシ。
+-- TRANSLATION HERE
+}
+[sha:a6e47a2e43af46b91f680ae566bf5cdae1f796f7]{
+-- Page 2, Offset 350. Mods: @k, @e.
+-- 酸素、異常ナシ。
+-- TRANSLATION HERE
+}
+[sha:f5904d13f93688dced07aab91af7cb6d1a0051b2]{
+-- Page 2, Offset 351. Mods: @k, @e.
+-- アルゴン、異常ナシ。
+-- TRANSLATION HERE
+}
+[sha:15bd8fbb2788dfff4618b6844d550016b2647401]{
+-- Page 2, Offset 352.
+-- 二酸化炭素、異常ナシ。
+-- TRANSLATION HERE
+}
+[sha:d75ccd6e40464d994c12aeb71ba6988ef737f71e]{
+-- Page 2, Offset 353.
+-- 第五仮説要素―――異常／異常／異常／アリ。
+-- TRANSLATION HERE
+}
+[sha:77ac2d71a31652b98d725c736500ab6031bdeb03]{
+-- Page 3, Offset 354.
+-- 周囲ノ時空連続体ニ　齟齬ヲ　確認。
+-- TRANSLATION HERE
+}
+[sha:cc5fbeed8d75df765dc9247342cf9d6812ff8c1f]{
+-- Page 3, Offset 355.
+-- 第一種　危険物トノ　遭遇ト　断定。
+-- TRANSLATION HERE
+}
+[sha:c7b12a538c5f25244a0dda000a31bcc93a331ce8]{
+-- Page 4, Offset 356.
+-- 知覚領域ヲ　主観→客観ニ　変更。
+-- TRANSLATION HERE
+}
+[sha:a90ce3e2b7ed077170d9b9722eea6167def8e940]{
+-- Page 4, Offset 357. Mods: @n.
+-- 自律回路ヲ　予備電源　ニ　、
+-- TRANSLATION HERE
+}
+[sha:1be41c03eec076f6c464a9690af91068ec22042a]{
+-- Page 4, Offset 358. Glued.
+-- 計測回路ヲ　主電源　ニ　変更。
+-- TRANSLATION HERE
+}
+[sha:2b9baa58d8307859e791c87179db2ed8217183ec]{
+-- Page 4, Offset 359. Mods: @n.
+-- <視覚|カメラ>ヲ　赤外線計測　カラ
+-- TRANSLATION HERE
+}
+[sha:dae48885630ac83544f75f5b45c2f6ff65cb1161]{
+-- Page 4, Offset 360. Glued.
+-- 虚数線計測　ニ　変更。
+-- TRANSLATION HERE
+}
+[sha:9555361160a863b253d6f793e49bc22ab77ff37d]{
+-- Page 5, Offset 361.
+-- ―――デハ。
+-- TRANSLATION HERE
+}
+[sha:6b689bb82cc78dd4b572bf5ca29dde49e6ea29ef]{
+-- Page 5, Offset 362.
+-- コレヨリ　戦闘行為ノ　記述ヲ　開始シマス。
+-- TRANSLATION HERE
+}
+[sha:e122cea98df3fc5f542b48f064cb44eda5519730]{
+-- Page 5, Offset 363. Mods: @n.
+-- 主ヨ。
+-- TRANSLATION HERE
+}
+[sha:779f98553a23f8806afa2fd6844de659e6a28b53]{
+-- Page 5, Offset 364. Glued.
+-- ドウカ我ガ身ヲ　護リタマエ。
+-- TRANSLATION HERE
+}
+[sha:f89959cc99b73102161a0ed6aa3c586f77dac039]{
+-- Page 6, Offset 365.
+-- 三咲市には森が多い。
+-- TRANSLATION HERE
+}
+[sha:b8fdd366c278b17df7609fb8c653b484f27b85a0]{
+-- Page 6, Offset 366.
+-- 都市開発は進んでいるが、郊外にはいまだ深い自然が息づいている。
+-- TRANSLATION HERE
+}
+[sha:a248b50d0d5e7f509819384b06f6d58ca6ad2cee]{
+-- Page 7, Offset 367.
+-- <物知|ものし>りな樹木が伐採され、
+-- TRANSLATION HERE
+}
+[sha:7a35b5de4a58e8a34975666480e4574613995351]{
+-- Page 7, Offset 368.
+-- 温かな腐葉土が<拓|ひら>かれ、
+-- TRANSLATION HERE
+}
+[sha:ce51226d1f9c612f1b0ba4aeb2d4c421a15e1133]{
+-- Page 7, Offset 369.
+-- 不思議そうに首をかしげる小鳥たちが消え去っても、真に力のある<緑|みどり>は生き続ける。
+-- TRANSLATION HERE
+}
+[sha:03b29744efe30817168c5256715a0d40093d45c6]{
+-- Page 7, Offset 370.
+-- 文明の光が、彼らの<培|つちか>ってきた年月を<侵|おか>すほどの強さになるその時まで、神秘の領域として有り続ける。
+-- TRANSLATION HERE
+}
+[sha:90fec702da113a8d63cb25bfab88776b5428274e]{
+-- Page 8, Offset 371.
+-- ……この森もその一つ。
+-- TRANSLATION HERE
+}
+[sha:f0981db75a7ef9fd96080460b8919c9452fcce21]{
+-- Page 8, Offset 372.
+-- 手つかずのまま郊外に放置された三咲町と三咲丘の<境界|ボーダー>。
+-- TRANSLATION HERE
+}
+[sha:389a0bc64a7e2c727903b918bb948d83f16edf59]{
+-- Page 8, Offset 373.
+-- 今では住みかを追われた獣たちが細々と暮らす、地方都市ならどこにでもある、いたって<平均|ノーマル>な、帰らずの森である。
+-- TRANSLATION HERE
+}
+[sha:0b4e6f6a29f3644b08d88623278c3bc200ce9270]{
+-- Page 9, Offset 374. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:5ee22f4abf57fc12831816b004405d97ab1ed325]{
+-- Page 9, Offset 375. Mods: @c, @i, @a, @r.
+-- Hey diddle diddle,
+-- TRANSLATION HERE
+}
+[sha:ff456eeab16da98a9528ecee59c8b6ad61980890]{
+-- Page 9, Offset 376. Mods: @c, @i, @a, @r.
+-- The cat and the fiddle,
+-- TRANSLATION HERE
+}
+[sha:d4cfe1b70f5dbf20364662a9e47c2cca05f486f4]{
+-- Page 10, Offset 377.
+-- 森には、既に冬が到来していた。
+-- TRANSLATION HERE
+}
+[sha:c2ed77c02faf55381c57a2ee6b9898ed4b9d4a66]{
+-- Page 10, Offset 378.
+-- <薄刃|カミソリ>のように肌を<削|そ>ぐ冷気。
+-- TRANSLATION HERE
+}
+[sha:d50f7bb16d8fede6cde904e7ff12c957a02de396]{
+-- Page 10, Offset 379.
+-- 膝元までにじりよる氷の気配。
+-- TRANSLATION HERE
+}
+[sha:6a88c467560cc85ceafca9ebf45360a66660e2f3]{
+-- Page 10, Offset 380.
+-- 露出した<頬|ほほ>はこわばり、吐息は白い雲になって消えていく。
+-- TRANSLATION HERE
+}
+[sha:d35e519ff3ceae06740bdab3df87902f968424a3]{
+-- Page 10, Offset 381.
+-- 気温にして摂氏一度。
+-- TRANSLATION HERE
+}
+[sha:1f24ca7397fa2913dd8a7442962dbce8999ae57b]{
+-- Page 10, Offset 382.
+-- 寒波は森全体に、大地や木々、獣たちに染み渡る。
+-- TRANSLATION HERE
+}
+[sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
+-- Page 11, Offset 383. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:6cf4bdbd74e6be4921e62adef77c1af36d70dbab]{
+-- Page 11, Offset 384. Mods: @c, @i, @a, @r.
+-- The cow jump'd over the moon,
+-- TRANSLATION HERE
+}
+[sha:eb016c7f20361aa9dc3c6da176abe5ed6d23e817]{
+-- Page 11, Offset 385. Mods: @c, @i, @a, @r.
+-- The little dog laugh'd
+-- TRANSLATION HERE
+}
+[sha:567dff1594f4e8c31429f71c3fd6276ae65b0ffb]{
+-- Page 12, Offset 386.
+-- 昼の森は人々を立ち入らせず、
+-- TRANSLATION HERE
+}
+[sha:102d74c0710a3be798e51c8d5e8d2f22f5432e1b]{
+-- Page 12, Offset 387.
+-- 冬の森は獣たちすら眠らせる。
+-- TRANSLATION HERE
+}
+[sha:4a020ce5f7e07903d5d1571ebe39923837df9d39]{
+-- Page 12, Offset 388.
+-- 漂う<夜気|やき>は亡霊の息そのものだ。
+-- TRANSLATION HERE
+}
+[sha:6dee85c4d7b96e3b3bed9e42d08fe3ea74b6934f]{
+-- Page 12, Offset 389.
+-- <月|つき><明|あ>かりを<呑|の>み、<一寸先|いっすんさき>の<崖|がけ>を隠し、迷いこんだ哀れな生贄を破滅させる。
+-- TRANSLATION HERE
+}
+[sha:c99b57edc0098e5d475637c35f12bca54b019e58]{
+-- Page 13, Offset 390.
+-- 聞こえるのは<微|かす>かな風の音と、川のせせらぎ。
+-- TRANSLATION HERE
+}
+[sha:c68f0821a746572625e30877f8664711d05f312d]{
+-- Page 13, Offset 391.
+-- ここは<生命|いのち>を感じさせない<無窮|むきゅう>の闇。
+-- TRANSLATION HERE
+}
+[sha:c23ad755a5a237b0a4541ffa3963ac04919a65c9]{
+-- Page 13, Offset 392.
+-- 獣はおろか、人の息など有るはずがない。
+-- TRANSLATION HERE
+}
+[sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
+-- Page 13, Offset 393.
+-- だが、
+-- TRANSLATION HERE
+}
+[sha:2bb0f5e15e57ccbcb4ba37eb1f5aa77ab02c3850]{
+-- Page 14, Offset 394.
+-- その中を行く、不釣り合いな黒衣があった。
+-- TRANSLATION HERE
+}
+[sha:c787ad730fbd8272b91311c7d5a0b0a82d110779]{
+-- Page 14, Offset 395.
+-- 霧の海に迷いこんだ小舟のような、あまりにも小さく弱々しいシルエット。
+-- TRANSLATION HERE
+}
+[sha:a72d9d43855a1241801b0cb5bb029d9aa75553a6]{
+-- Page 14, Offset 396.
+-- たよりなげな足音が響く。
+-- TRANSLATION HERE
+}
+[sha:b40d416401bf12b9b0b767300fe9426e49b68ee6]{
+-- Page 14, Offset 397.
+-- 木々のヴェールを抜けるのは、紛れもなく、年若い人間の少女である。
+-- TRANSLATION HERE
+}
+[sha:83ffa60eba733baf76856018be427d6da7d52c40]{
+-- Page 15, Offset 398. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:8f3765c2f44fb0bcc99a1a5c28b7f392fba34636]{
+-- Page 15, Offset 399. Mods: @c, @i, @a, @r.
+-- To see such craft,
+-- TRANSLATION HERE
+}
+[sha:91c20dd3fe354c0a5c1c01fd435f1bbe712a0e52]{
+-- Page 15, Offset 400. Mods: @c, @i, @a, @r.
+-- And the dish ran away with the spoon.
+-- TRANSLATION HERE
+}
+[sha:89d002745b8506879b424fc5fe7b9581e711ae7b]{
+-- Page 16, Offset 401. Mods: @k, @e.
+-- 『来たぞ来たぞ』
+-- TRANSLATION HERE
+}
+[sha:1c0ad125acc10207027825a95fb49e94843c3b53]{
+-- Page 16, Offset 402.
+-- 『居るぞ居るぞ！』
+-- TRANSLATION HERE
+}
+[sha:a062849de6f242da9f19c3990887e6326f7b6a7b]{
+-- Page 16, Offset 403. Mods: @k, @e.
+-- 『誰が誰が？』
+-- TRANSLATION HERE
+}
+[sha:2d221fbc72ae30d2bbcac683c6d00d15b14683c9]{
+-- Page 16, Offset 404.
+-- 『誰と誰が！』
+-- TRANSLATION HERE
+}
+[sha:1168a3044e88b51e916993a8be503821bf1224f1]{
+-- Page 16, Offset 405. Mods: @k, @e.
+-- 『お腹は減ったの？』
+-- TRANSLATION HERE
+}
+[sha:e4e2d221261fd81836de9ac56af43815542cdb33]{
+-- Page 16, Offset 406.
+-- 『お腹は鳴ったさ！』
+-- TRANSLATION HERE
+}
+[sha:89cfd6d6ff2e1278f65bc69eb4398928e2b7a54e]{
+-- Page 17, Offset 407. Mods: @k, @e.
+-- 『どっちが食べる？』
+-- TRANSLATION HERE
+}
+[sha:8e50e1d0b0a8fa41d9e801eb12fadd487903608e]{
+-- Page 17, Offset 408.
+-- 『どっちも食べる！』
+-- TRANSLATION HERE
+}
+[sha:e4f2250aa60cb1620a020917697f541f80936802]{
+-- Page 17, Offset 409. Mods: @k, @e.
+-- 『キミは左手、』
+-- TRANSLATION HERE
+}
+[sha:258917d7fee25e3a34bb2498792b54f40690e92f]{
+-- Page 17, Offset 410.
+-- 『オマエは右手！』
+-- TRANSLATION HERE
+}
+[sha:11a9d9e028ff405a0eac0627dd79261b212a99cc]{
+-- Page 17, Offset 411. Mods: @k, @e.
+-- 『歓迎しないと、』
+-- TRANSLATION HERE
+}
+[sha:30c1f6db6643ad2332a6af009746ad73d26e763f]{
+-- Page 17, Offset 412.
+-- 『感激しないと！』
+-- TRANSLATION HERE
+}
+[sha:6e76cd6e2a0404d209872737c95e8f09cf53baf3]{
+-- Page 18, Offset 413.
+-- 『『なにしろようやく楽しいお客！』』
+-- TRANSLATION HERE
+}
+[sha:840d13cc70d7cce4f388cdb6e8b3bb2ad6193222]{
+-- Page 19, Offset 414. Mods: @k, @e.
+-- 『ついでにお<腹|なか>と<頸骨|けいこつ>も、』
+-- TRANSLATION HERE
+}
+[sha:27ef3da6bb0084c811407684534ecc43ca3720ee]{
+-- Page 19, Offset 415.
+-- 『せっかくだからよく噛まないと！』
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 20, Offset 416.
+-- 「――――――」
+-- TRANSLATION HERE
+}
+[sha:5b9d993d10ae35e6e9fb3e2ad9f5770dc37c25e3]{
+-- Page 20, Offset 417.
+-- 木々の影が不気味に笑う。
+-- TRANSLATION HERE
+}
+[sha:246e2ba2f1816e54a589977760ebff0b7237d165]{
+-- Page 20, Offset 418.
+-- 幻聴か。錯覚か。あるいは<本|・><物|・>か。
+-- TRANSLATION HERE
+}
+[sha:020eb8e7de3ede4c4f1831d9cf385f089abcc8f5]{
+-- Page 20, Offset 419.
+-- 少女の歩みに合わせて、寄り添う影がパタパタはしゃぐ。
+-- TRANSLATION HERE
+}
+[sha:1ed52c92e488061eb66ee77892fde5191e7ae46f]{
+-- Page 21, Offset 420. Mods: @k, @e.
+-- 『さあさあ、さあさあ』
+-- TRANSLATION HERE
+}
+[sha:b48163988476fab19dcaf5765f07011582dbdb79]{
+-- Page 21, Offset 421. Glued. Mods: @x.
+-- 『もっと奥へ、もっと奥へ！』
+-- TRANSLATION HERE
+}
+[sha:6f9d179a57efe0dd2ed39e82daa35e802e108f4d]{
+-- Page 21, Offset 422.
+-- 『ところでダイスは細工済み？』
+-- TRANSLATION HERE
+}
+[sha:ec02602385f7153a996bbf27674d261e7d5a53e7]{
+-- Page 21, Offset 423.
+-- 『お<胃|なか>の重いローデッド』
+-- TRANSLATION HERE
+}
+[sha:1abd80080f9dde042a5a4c1fe971d769e2bbc6a5]{
+-- Page 21, Offset 424.
+-- 『はじっこ<囓|かじ>ったエッジワーク！』
+-- TRANSLATION HERE
+}
+[sha:7704414907e4514e37939c2f4f01b04e20be210b]{
+-- Page 21, Offset 425.
+-- 『どうでもいいけど、<肝心|かんじん><要|かなめ>の六の目だけはださないように！』
+-- TRANSLATION HERE
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 22, Offset 426.
+-- 「――――――」
+-- TRANSLATION HERE
+}
+[sha:38f734aef82fa38d60cbcae6e66dd8fce91d4007]{
+-- Page 22, Offset 427.
+-- 少女の眉が、かすかに歪む。
+-- TRANSLATION HERE
+}
+[sha:6edd639ea60ee3c45ee897c0cbbd6ff88b6c18d6]{
+-- Page 22, Offset 428.
+-- 聞こえる筈のない声、
+-- TRANSLATION HERE
+}
+[sha:f0fdc16f17e85d7161c6f09c0baa845d8342c9d9]{
+-- Page 22, Offset 429.
+-- いる筈のない獣の気配に怯えるように？
+-- TRANSLATION HERE
+}
+[sha:56a6104660c8f71f4951176634c896c2f5c53114]{
+-- Page 22, Offset 430.
+-- まさか。
+-- TRANSLATION HERE
+}
+[sha:78426be134daf6bd44b3fd83b4c6bb9df5f0a258]{
+-- Page 22, Offset 431.
+-- きつく結ばれた唇には、微塵の恐れもありはしない。
+-- TRANSLATION HERE
+}
+[sha:08de5d35654b7337d44b4ef0c1d296ad9638f4ed]{
+-- Page 23, Offset 432.
+-- 少女の歩みは自らの意志によるもの。
+-- TRANSLATION HERE
+}
+[sha:5beffd7faa88cf0e6f463e5889ff5bf038ef3a05]{
+-- Page 23, Offset 433.
+-- 恐怖があるのなら、そもそも足は進ませない。
+-- TRANSLATION HERE
+}
+[sha:ffded9a1f760c54df981c8af22ee6980370662c4]{
+-- Page 23, Offset 434.
+-- 木々の奥。
+-- TRANSLATION HERE
+}
+[sha:334bfb61dd42270b698cb7b4e3f261abab15a3c5]{
+-- Page 23, Offset 435.
+-- 夜気に隠れながら見つめてくる二体の人影に、少女はきちんと気づいている。
+-- TRANSLATION HERE
+}
+[sha:1316d0211ead000f9b732874aba5d6939a685042]{
+-- Page 24, Offset 436.
+-- 『見たぞ見たぞ』
+-- TRANSLATION HERE
+}
+[sha:3301779ca6e5466497de7bfe07c9d338d0d14976]{
+-- Page 24, Offset 437.
+-- 『来るぞ来るぞ！』
+-- TRANSLATION HERE
+}
+[sha:23ee56e07386f79d055a001db904cbc0a34e00c4]{
+-- Page 24, Offset 438.
+-- 『もう諦めろ』
+-- TRANSLATION HERE
+}
+[sha:27df0122829f543d0ff4a748af790a709e0ec968]{
+-- Page 24, Offset 439.
+-- 『もう帰れない！』
+-- TRANSLATION HERE
+}
+[sha:f0aa81b88bed9b49f9be5c00230aee7687f3ef8f]{
+-- Page 25, Offset 440. Mods: @k, @e.
+-- 『あんなに教えてあげたのに』
+-- TRANSLATION HERE
+}
+[sha:88cbe9be8f4385b1d77e125b69be9f2e442e1f05]{
+-- Page 25, Offset 441.
+-- 『<余|よ><所|そ>に消えないオマエが悪い！』
+-- TRANSLATION HERE
+}
+[sha:62c92fbebd765e897827089c4376425012fe8515]{
+-- Page 26, Offset 442.
+-- 少女の歩みが止まる。
+-- TRANSLATION HERE
+}
+[sha:e1ae28e93c3913e494ab9c72c509a746745533cd]{
+-- Page 26, Offset 443.
+-- <蠢|うごめ>いていた二人分の声も止まる。
+-- TRANSLATION HERE
+}
+[sha:7c72b7fc7855450c392c03aee6520fd61b247bf8]{
+-- Page 26, Offset 444.
+-- 小川のせせらぎが、たき火の<爆|は>ぜ音のように聞こえる。
+-- TRANSLATION HERE
+}
+[sha:b5507ab57ae626b5b9133afdba75365ac7ad4ebe]{
+-- Page 26, Offset 445.
+-- そうして。
+-- TRANSLATION HERE
+}
+[sha:babf74334a0ebdf24926076bf74daa7b96e94840]{
+-- Page 26, Offset 446.
+-- <踝|くるぶし>ほどの小さな川の向こうに、街はおろか、この森にすら<在|あ>ってはならないモノが現れた。
+-- TRANSLATION HERE
+}
+[sha:5382d96f4d11a71f4a6fc83158f8ebd77b8ffca7]{
+-- Page 27, Offset 447.
+-- 「今晩は。話の分かる<主人|ひと>はいる？」
+-- TRANSLATION HERE
+}
+[sha:7af7199b36b88ccdcdfffefc765cdf4c1e2fe40f]{
+-- Page 27, Offset 448.
+-- 少女は平然と語りかける。
+-- TRANSLATION HERE
+}
+[sha:b19d6c9cece634fd5cb31db9fdcc9cdf116b36db]{
+-- Page 27, Offset 449.
+-- 二人の口裂け男は<蝸牛|かぎゅう>のように、じりじりとにじり寄る。
+-- TRANSLATION HERE
+}
+[sha:442845ffffd6c59e974acd344bfea558d84ef92c]{
+-- Page 28, Offset 450.
+-- 「……そう。ただの<墓守|はかもり>、監視だけが仕事なのね。
+-- TRANSLATION HERE
+}
+[sha:c2457dbaa71f56cfc1b42efd661495758d9cc556]{
+-- Page 28, Offset 451.
+-- 失敗したわ。これなら青子に任せれば良かった。
+-- TRANSLATION HERE
+}
+[sha:9aede2c163e3569a0c9dc8c72320086ee9638c02]{
+-- Page 28, Offset 452.
+-- ああ、けど―――」
+-- TRANSLATION HERE
+}
+[sha:39ebf40bc391bf7210f6043484aa4fa1b1243e7d]{
+-- Page 28, Offset 453.
+-- 一方の口裂け男は立ったまま。
+-- TRANSLATION HERE
+}
+[sha:69545efd6663d73e8ebc28279357af198c50e519]{
+-- Page 28, Offset 454.
+-- もう一方の口裂け男は、我慢できないとばかりに、ぐらりと体を<傾|かたむ>かせる。
+-- TRANSLATION HERE
+}
+[sha:8a553863ce6d62bf306b700db6ce7154e88b5836]{
+-- Page 29, Offset 455.
+-- 「青子にはまだ荷が重いわね。
+-- TRANSLATION HERE
+}
+[sha:11200965d29c5d16e29eae657b750939b1d0cac3]{
+-- Page 29, Offset 456.
+-- そんな姿だけど、貴方たちは一人前の魔術師のようだし」
+-- TRANSLATION HERE
+}
+[sha:431aaa755d6e8894cd92d6593906a4c3718a48a3]{
+-- Page 29, Offset 457.
+-- 黒衣が動く。
+-- TRANSLATION HERE
+}
+[sha:fd239c15dbc0221e33ddae530d5db93e178dedea]{
+-- Page 29, Offset 458.
+-- 少女の右手には、夜なお深い<硝子|ガラス>の猫。
+-- TRANSLATION HERE
+}
+[sha:44125d39ce1b0c23cfe78ad76228bea036083f24]{
+-- Page 30, Offset 459.
+-- “…………？”
+-- TRANSLATION HERE
+}
+[sha:3a6f11e9720244a607a63fb49f3c46e74e83b2d6]{
+-- Page 30, Offset 460.
+-- こぼれたものは、小さな警戒と、脈絡のない<畏|おそ>れだった。
+-- TRANSLATION HERE
+}
+[sha:fff510f58c15864519588461926b2768348fff3b]{
+-- Page 30, Offset 461.
+-- 二体の口裂け男はこの時、ようやく自らの<感情|いし>を表し、
+-- TRANSLATION HERE
+}
+[sha:cec816087311997bd91d6da3c10d0f3ef7895367]{
+-- Page 31, Offset 462.
+-- 「さようなら、お客様。
+-- TRANSLATION HERE
+}
+[sha:5329ce5b49d0f408e11c1ad422d379ba01d76b51]{
+-- Page 31, Offset 463.
+-- きっと一瞬だろうから、お<別|わか>れだけ言っておくわ」
+-- TRANSLATION HERE
+}
+[sha:673a72124d08c7881086fd9e40650fe48fd162b8]{
+-- Page 32, Offset 464.
+-- その言葉に、彼等は明確に戦慄した。
+-- TRANSLATION HERE
+}
+[sha:21044ad4ef650848864d56995a8e822fa222ba69]{
+-- Page 33, Offset 465.
+-- そもそも彼らには耳と口と脳がない。だから言葉なんて必要ない。
+-- TRANSLATION HERE
+}
+[sha:bb3961ddb6668672c1aa0bd6f08bf63b6596f806]{
+-- Page 33, Offset 466.
+-- 彼らにとって有るものは“この瞬間”だけ。
+-- TRANSLATION HERE
+}
+[sha:f594084936699ce20ec68a4842b32661213bab9d]{
+-- Page 33, Offset 467.
+-- 恐怖も、期待も、心のない彼等にとって起こりえない“<未|き><来|ぼう>”でしかない。
+-- TRANSLATION HERE
+}
+[sha:59188e7aa8c7c9b633aa93441effd11dad9ad489]{
+-- Page 34, Offset 468.
+-- なのに、彼らは予感したのだ。
+-- TRANSLATION HERE
+}
+[sha:a57143f74868521cf14024254bdd1e3d163fb786]{
+-- Page 34, Offset 469.
+-- たった今、そしてこれから、身の毛のよだつ奇跡が、自分たちをメチャクチャにする―――
+-- TRANSLATION HERE
+}
+[sha:c64a25eb01f2c9b54b953624b6ec7c96db116477]{
+-- Page 35, Offset 470.
+-- 「さあ―――ごっこ遊びをしましょう、お人形さん」
+-- TRANSLATION HERE
+}
+[sha:ab6a90c619893f1d788a451ed4ba20c4dac12079]{
+-- Page 35, Offset 471.
+-- 白い森に、鐘のような<夜|うた>が響く。
+-- TRANSLATION HERE
+}
+[sha:5107cc981b120ddbd40aa533c86cd9bbe5063c41]{
+-- Page 35, Offset 472.
+-- 森を凍らせていた寒波が、少女の声に吹き消されていく。
+-- TRANSLATION HERE
+}
+[sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
+-- Page 35, Offset 473.
+-- そして、
+-- TRANSLATION HERE
+}
+[sha:19fa956bfcb3c3d726d854c51f26e60a4b224e6c]{
+-- Page 36, Offset 474.
+-- 『いやいやずいぶん待たされた！』
+-- TRANSLATION HERE
+}
+[sha:4bfaff44c6bdb62cde01d988e0eb796629262fef]{
+-- Page 36, Offset 475.
+-- 『さあ―――赤ずきんの登場だ！』
+-- TRANSLATION HERE
+}
+[sha:324ee983be0ea676b9313042963ea753f635f1bf]{
+-- Page 37, Offset 476.
+-- <夜の饗宴|ディドルディドル>の幕が<開|あ>く。
+-- TRANSLATION HERE
+}
+[sha:4ecdc03b9aeeaef73a2207bcf39f915054f79e22]{
+-- Page 37, Offset 477.
+-- 一方の口裂け男は混乱して少女へと襲いかかる。
+-- TRANSLATION HERE
+}
+[sha:ef56b2be2cd68e0dc6c52ef26a26225d148bc776]{
+-- Page 37, Offset 478.
+-- 一方の口裂け男は恐怖から<森|うしろ>へと走り出す。
+-- TRANSLATION HERE
+}
+[sha:f74f9ad414f0115b45257d48de69a94c9a45ac08]{
+-- Page 38, Offset 479.
+-- 水しぶきをあげ、少女に躍りかかる<奇形|きけい>の人影。
+-- TRANSLATION HERE
+}
+[sha:eddf53f724d150d9fc2cf0a585eb7769c4f054c1]{
+-- Page 38, Offset 480.
+-- 少女は知っている。
+-- TRANSLATION HERE
+}
+[sha:da9b0143c11f0ea0bb0e4841ec86c9e0d14d371d]{
+-- Page 38, Offset 481.
+-- この口裂け男の両手はハサミで、心は子鬼。
+-- TRANSLATION HERE
+}
+[sha:10445af9d62143fe826058ece521c333da6b0256]{
+-- Page 38, Offset 482.
+-- 捕まえた子供を容赦なく、胴体からまっぷたつに切る悪魔だと。
+-- TRANSLATION HERE
+}
+[sha:29095eadf4a78c9ba8fddaaf967fba4c8e39a4ec]{
+-- Page 39, Offset 483.
+-- 「トゥィードル」
+-- TRANSLATION HERE
+}
+[sha:4fe3a756bf3f86dbc3321346ad1902da2aea5f2b]{
+-- Page 39, Offset 484. Mods: @k, @e.
+-- 『お任せお任せ！』
+-- TRANSLATION HERE
+}
+[sha:585df901291e00b26160754b7b17976f30cbba73]{
+-- Page 39, Offset 485.
+-- 『ようやく出番だ、あらよっと！』
+-- TRANSLATION HERE
+}
+[sha:066d1836b7cb66d5dd50771f278a1970fa96900a]{
+-- Page 40, Offset 486.
+-- 飛びだした子豚は<手鞠|てまり>のように。
+-- TRANSLATION HERE
+}
+[sha:c21d059c73ac0e2aaa07ce9d250893df96dae603]{
+-- Page 40, Offset 487.
+-- 一メートルほどのぬいぐるみは、木々の合間を躍りながらすり抜けていく。
+-- TRANSLATION HERE
+}
+[sha:921f8b241463d995fc2cbcb71c204c6c7d009716]{
+-- Page 41, Offset 488.
+-- そんな怪異を前にしても、口裂け男に迷いはない。
+-- TRANSLATION HERE
+}
+[sha:0dfe376bad18fafc809edc6ef57ea93ee7502ff2]{
+-- Page 41, Offset 489.
+-- 男の両腕が上がる。長いコートの袖から現れたものは、人間の腕ではない。
+-- TRANSLATION HERE
+}
+[sha:ee3f62ed5fb83549e08c27f82518ef1de306df12]{
+-- Page 41, Offset 490.
+-- 刃渡り五十センチを超える、凶悪な<出|デ><刃|バ><包丁|ソード>。
+-- TRANSLATION HERE
+}
+[sha:8cba78b1dcf3b4bdba9c674747c1343fa5627573]{
+-- Page 41, Offset 491.
+-- 今まで多くのエモノを切り裂いてきた両腕が、跳び<交|か>う子豚たちを正面から両断する。
+-- TRANSLATION HERE
+}
+[sha:a9668b0d7f2cfe19f84709ef24c745763b9a7c98]{
+-- Page 42, Offset 492.
+-- “―――！？”
+-- TRANSLATION HERE
+}
+[sha:221acf2e12b808116621235e86f02745fb946d50]{
+-- Page 42, Offset 493.
+-- 口裂け男の手足が凍る。
+-- TRANSLATION HERE
+}
+[sha:f4eaf492d84aac2cb154bc264ed77b1ef43bd8d8]{
+-- Page 42, Offset 494.
+-- 切られた子豚の体が割れる。
+-- TRANSLATION HERE
+}
+[sha:d8d718eb5296a3b8cabc95dfa0ba95e22b617a49]{
+-- Page 42, Offset 495.
+-- がちん、と。
+-- TRANSLATION HERE
+}
+[sha:48e2c3c4c7286aa78154d73eb5795e04526864e0]{
+-- Page 42, Offset 496.
+-- 頭から尾っぽまで断たれた子豚は、そのまま巨大なワニの口になって、口裂け男の腕に噛みついた。
+-- TRANSLATION HERE
+}
+[sha:ba87043d68aa6a7c384ac2f6b7ac49e1641b7534]{
+-- Page 43, Offset 497.
+-- 文字通り、肩口まで丸飲みである。
+-- TRANSLATION HERE
+}
+[sha:6fe8d4b1c34e057393105f3e9a713dd589b69bda]{
+-- Page 43, Offset 498.
+-- それだけで男から全身の自由が消失した。
+-- TRANSLATION HERE
+}
+[sha:4aea02078e92b57377f7fa50a2c2444504d2e555]{
+-- Page 43, Offset 499.
+-- “―――、―――！”
+-- TRANSLATION HERE
+}
+[sha:f78d576bddb7a31074cd1a6367a358dfe704d210]{
+-- Page 43, Offset 500.
+-- 走る<怖気|おぞけ>。
+-- TRANSLATION HERE
+}
+[sha:9cf87bb99346ae19b3547cd8ede0380a4bf9b1d7]{
+-- Page 43, Offset 501.
+-- コレは子豚の使い魔ではない。
+-- TRANSLATION HERE
+}
+[sha:2fc60dff4a245f41a0e6baed0a2f88a91fdb029d]{
+-- Page 43, Offset 502.
+-- 子豚のカタチをした、<文房具|ホッチキス>の化け物である事を、口裂け男は瞬時に理解した。
+-- TRANSLATION HERE
+}
+[sha:8eeb961388ccbc995e0aaef71b362b271f2b0b2a]{
+-- Page 44, Offset 503.
+-- 『捕まえたのはダムでした！』
+-- TRANSLATION HERE
+}
+[sha:09a090d3dbcccea8d638c0fc126a5bbaa91bab9a]{
+-- Page 44, Offset 504.
+-- 『捕まえたのはディーだってば！』
+-- TRANSLATION HERE
+}
+[sha:b2eba6bc823ad2acf6238185e11327852bf5d6fc]{
+-- Page 44, Offset 505.
+-- 『ああでも残念、ご主人様は無口で無情で無関心！』
+-- TRANSLATION HERE
+}
+[sha:60298772e5f34be01bd835208a772ebb9468de2f]{
+-- Page 44, Offset 506.
+-- 『けっきょく、どっちの手柄も同じこと！』
+-- TRANSLATION HERE
+}
+[sha:f09ec30e3daa0c149da4dbced3aa65c0c6cabe4b]{
+-- Page 45, Offset 507. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 45, Offset 508. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+-- TRANSLATION HERE
+}
+[sha:3d303990c32184947fb36c317a28c3e8defbafbc]{
+-- Page 45, Offset 509. Mods: @c, @i, @a, @r.
+-- Broken down,broken down.
+-- TRANSLATION HERE
+}
+[sha:2139a487ec4e3b7fad7f8fe1fa37b442735f9530]{
+-- Page 46, Offset 510.
+-- “―――、ギ”
+-- TRANSLATION HERE
+}
+[sha:e8e01ae05f5e38875c530e30594e2d4a7426c97a]{
+-- Page 46, Offset 511.
+-- ありえない、と再三、口裂け男の気配が呟く。
+-- TRANSLATION HERE
+}
+[sha:5c1e96acdec027be8415f1ecc5573e7796152f44]{
+-- Page 46, Offset 512. Mods: @n.
+-- これはなんだ。
+-- TRANSLATION HERE
+}
+[sha:31aae2b3e3200feb44e77b28cf9f7b8c58968480]{
+-- Page 46, Offset 513. Glued. Mods: @n.
+-- これはなんだ。
+-- TRANSLATION HERE
+}
+[sha:488dec4c3069590fb8a673b074e62799263d589f]{
+-- Page 46, Offset 514. Glued.
+-- これはなんだ？
+-- TRANSLATION HERE
+}
+[sha:bebc0640ea1726812de01fee153ceaf2e69904d7]{
+-- Page 47, Offset 515.
+-- 喋る子豚。それはいい。
+-- TRANSLATION HERE
+}
+[sha:69ba291e617619ecc1c7017624691b21df63f8a3]{
+-- Page 47, Offset 516.
+-- 肩口まで食いつかれた腕。それもいい。
+-- TRANSLATION HERE
+}
+[sha:511a537ce6e1a92f419106ced9ae34510cf74275]{
+-- Page 47, Offset 517. Mods: @n.
+-- 一瞬で森を<覆|おお>った、あまりにも濃密な魔力の波。
+-- TRANSLATION HERE
+}
+[sha:ade3142a3f7fef98a57b35be453fc0831d9964c1]{
+-- Page 47, Offset 518. Glued.
+-- <忌々|いまいま>しいが、素晴らしい。
+-- TRANSLATION HERE
+}
+[sha:95b0a346deb67451584005a45dcc6639a9407611]{
+-- Page 48, Offset 519.
+-- しかし、それらは別段、驚くに値しない。
+-- TRANSLATION HERE
+}
+[sha:b9d07f19a75afe1f1dfd3d2e42e0351f7d54960b]{
+-- Page 48, Offset 520.
+-- 稀少な使い魔、猟奇的な攻撃、他を圧する天賦の魔力。
+-- TRANSLATION HERE
+}
+[sha:924d097c4699def2d3957daa080f46fbdd8c4ee5]{
+-- Page 48, Offset 521.
+-- そういったモノは彼らにも覚えがあるのだ。
+-- TRANSLATION HERE
+}
+[sha:28182bfc8602050774885e99063bd4d290680653]{
+-- Page 48, Offset 522.
+-- 何しろ彼らの雇い主が、その<類|たぐい>の異人である。
+-- TRANSLATION HERE
+}
+[sha:9c7ec3ad113323a20483993b405bf6c20b9172d0]{
+-- Page 48, Offset 523.
+-- しかし―――
+-- TRANSLATION HERE
+}
+[sha:1be8c3b0a6043956d7fa73ba932e61ef986f8625]{
+-- Page 49, Offset 524.
+-- 『どうするどうする、いつまで放置？』
+-- TRANSLATION HERE
+}
+[sha:aebe809c8e47faf473cb3f10826c8df9c6516094]{
+-- Page 49, Offset 525.
+-- 『手足一本、まばたきだって贅沢だ！』
+-- TRANSLATION HERE
+}
+[sha:1c50c5b9de5553cba0130495e934a6d94b55702e]{
+-- Page 49, Offset 526.
+-- 『お支払いは面倒でも、できればポンドでお願いします！』
+-- TRANSLATION HERE
+}
+[sha:7e2716abcdf55187f756ad1dd00e4cf34f6bfbae]{
+-- Page 50, Offset 527.
+-- コレは、なんだ。
+-- TRANSLATION HERE
+}
+[sha:df546cf8b9ba2283017e1cb5ccaf3180f19c2e68]{
+-- Page 50, Offset 528.
+-- 器物でもない。
+-- TRANSLATION HERE
+}
+[sha:eb4c7c2a869379350654b5edec423180d30a10a6]{
+-- Page 50, Offset 529.
+-- 生物でもない。
+-- TRANSLATION HERE
+}
+[sha:375e383e2a1fc6874c3a2ab4e02516f3897eec08]{
+-- Page 50, Offset 530.
+-- 魔術回路によって動くクリーチャーですらない。
+-- TRANSLATION HERE
+}
+[sha:c6d9f7ce5104e8775189c3ec9d7ce9b2f9af69f8]{
+-- Page 50, Offset 531.
+-- 噛まれた箇所は両腕だけだというのに、全身が動かない。
+-- TRANSLATION HERE
+}
+[sha:4e62f33f5621f71dade8c82a3a3d4f326a09d103]{
+-- Page 50, Offset 532.
+-- 金縛りや衰弱とはまるで違う。
+-- TRANSLATION HERE
+}
+[sha:1f24332f821867e9637b9c593db818c704adbb30]{
+-- Page 50, Offset 533.
+-- まるで自分が<本|・><に|・><書|・><か|・><れ|・><た|・><文|・><字|・>になってしまったような、もうどこにも行けない感覚。
+-- TRANSLATION HERE
+}
+[sha:a069de0ff0f06a0377edd370e1b20b7fd0f839f2]{
+-- Page 51, Offset 534.
+-- この口裂け男とて、その<奇形|きけい>が<示|しめ>す通り、幾たびの怪異を越えてきた。
+-- TRANSLATION HERE
+}
+[sha:d3d21138afcb50dd615ebf8f0b5fa6a6d780d207]{
+-- Page 51, Offset 535.
+-- <幻惑|げんわく>、<魅了|みりょう>、<強制|きょうせい>。
+-- TRANSLATION HERE
+}
+[sha:8147f4ee4b8c92f5f5806d160d6a5c04dbf9189a]{
+-- Page 51, Offset 536.
+-- <氷結|ひょうけつ>、<屍蝋|しろう>、はては<魔眼|まがん>の最奥である石化まで。
+-- TRANSLATION HERE
+}
+[sha:36dc48b24d1636b2d4099a4253691a76fe9a4b20]{
+-- Page 51, Offset 537.
+-- 薬物から魔術、多くの<戒|いまし>めを経験した彼は叫ぶ。
+-- TRANSLATION HERE
+}
+[sha:a16aada67fe03cabf857c204e3c36eab2661d918]{
+-- Page 51, Offset 538.
+-- これは違う。違うものだ、と。
+-- TRANSLATION HERE
+}
+[sha:ea71f5262ed661e06b3b78af2a637e26fb63547d]{
+-- Page 52, Offset 539. Mods: @n.
+-- いま彼を縛る戒めは、
+-- TRANSLATION HERE
+}
+[sha:30a238f33d6099ee9eb08d8b3838cf1bc33c1021]{
+-- Page 52, Offset 540. Glued.
+-- 血液、筋肉、酸素、熱量とは別の法則。
+-- TRANSLATION HERE
+}
+[sha:348e9d408ebe26cfe941a7e31527ec0ad10649de]{
+-- Page 52, Offset 541.
+-- どのルールにも当てはまらない未知の束縛。
+-- TRANSLATION HERE
+}
+[sha:5a0c7267e0c42a620e86f118bf8619e2b7edc182]{
+-- Page 52, Offset 542.
+-- ……ああ、口にするのもおぞましいが。
+-- TRANSLATION HERE
+}
+[sha:49117d5f63460c3bbe7ad4df9050f76c1bd5fbf3]{
+-- Page 52, Offset 543.
+-- まるで、この世のすべてと<乖離|かいり>している。
+-- TRANSLATION HERE
+}
+[sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
+-- Page 53, Offset 544. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 53, Offset 545. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+-- TRANSLATION HERE
+}
+[sha:82546b6d87919a0ce8fddfb13da21840c452b6dc]{
+-- Page 53, Offset 546. Mods: @c, @i, @a, @r.
+-- Broken down,broken down.
+-- TRANSLATION HERE
+}
+[sha:589c6cfea4965e413e11e56a77c994e68df34e63]{
+-- Page 53, Offset 547. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+-- TRANSLATION HERE
+}
+[sha:439a77b32d73fcc338a6c2c163187d3c2b393669]{
+-- Page 53, Offset 548. Mods: @c, @i, @a, @r.
+-- My fair lady.
+-- TRANSLATION HERE
+}
+[sha:8fb6d2752458ed0e06224114ccbb2be0f76d32cb]{
+-- Page 54, Offset 549.
+-- “ギ―――”
+-- TRANSLATION HERE
+}
+[sha:31c287aafecd6fdd28901a2c4085322c29c22567]{
+-- Page 54, Offset 550.
+-- 左右の肩口に食いこむ牙。
+-- TRANSLATION HERE
+}
+[sha:085483484a5f067475870da41c7fc3a675fb7255]{
+-- Page 54, Offset 551.
+-- 彼はこのカタチとして生まれてから、はじめて怒りの<感情|いし>を覚えた。
+-- TRANSLATION HERE
+}
+[sha:9374762266d04b9a38e4e6930217dcdb376ebdb1]{
+-- Page 55, Offset 552.
+-- ……基準は絶対でなければならない。
+-- TRANSLATION HERE
+}
+[sha:510f791720086ba0027d11cfaf18c9d093789536]{
+-- Page 55, Offset 553.
+-- いかな神秘、いかな怪奇にも法則はある。
+-- TRANSLATION HERE
+}
+[sha:197425e57871cdc6ccb029d969e90bcc99cb1554]{
+-- Page 55, Offset 554.
+-- コレらはそんな、彼らの<矜持|きょうじ>を無視するものだ。
+-- TRANSLATION HERE
+}
+[sha:174218f64f1115b60341becd6de369d706048a4b]{
+-- Page 56, Offset 555.
+-- 『さあ、三日で衰弱！』
+-- TRANSLATION HERE
+}
+[sha:1216cf2048fed5dcff94b6d8fad7e596bb4d0bad]{
+-- Page 56, Offset 556.
+-- 『六日で溺死！』
+-- TRANSLATION HERE
+}
+[sha:501086c35e52e81b6616d2a9d211618d83fbf63b]{
+-- Page 56, Offset 557.
+-- 『半年たてば<惨|みじ>めな<骸骨|がいこつ>！』
+-- TRANSLATION HERE
+}
+[sha:b42687971c01acdfea639d8d36ddb8148c26c3e1]{
+-- Page 56, Offset 558.
+-- 『『でもでもご無礼、面倒だからいま殺そうか！』』
+-- TRANSLATION HERE
+}
+[sha:b0e0a7da598b4615817d8c8e5d1def9f787e0d8c]{
+-- Page 57, Offset 559.
+-- “シィィィィィィイイイイイ！！！！！！”
+-- TRANSLATION HERE
+}
+[sha:c8ebe9f063c6281c8b0667c7f6806bfad87c0bcc]{
+-- Page 57, Offset 560.
+-- 吠えた。
+-- TRANSLATION HERE
+}
+[sha:be1a831629660150eac284383987ff6fae0c8331]{
+-- Page 57, Offset 561.
+-- 口のないものが、<憤怒|ふんぬ>の叫びを響かせる。
+-- TRANSLATION HERE
+}
+[sha:9adbe32c9aeacaa900d710bb820c279d293aad58]{
+-- Page 58, Offset 562.
+-- 『うげ？』
+-- TRANSLATION HERE
+}
+[sha:3d8a4a3642f784e516d9b19469291a8c092ba1a5]{
+-- Page 58, Offset 563.
+-- 『うげげ！？』
+-- TRANSLATION HERE
+}
+[sha:a19974fa45a5cab27619ec42e55bf1176db37265]{
+-- Page 58, Offset 564.
+-- 『なんて便利、自分の腕を<外|はず>せる<機構|きこう>！』
+-- TRANSLATION HERE
+}
+[sha:bc73cab2f4bd42fe3064378d4f633c8ee2cfeceb]{
+-- Page 58, Offset 565.
+-- 『おお、オマエこそ三国一のモノノフよー！』
+-- TRANSLATION HERE
+}
+[sha:e0646eb8fa1674702d5d454c09d83c16928069e4]{
+-- Page 59, Offset 566.
+-- お喋りな子豚たちは小川に落ちた。
+-- TRANSLATION HERE
+}
+[sha:577ad50a1a9dc0ab586fcae7cbfbf155d05eff6d]{
+-- Page 59, Offset 567.
+-- 憤怒の<声|おと>は、自ら両肩を破壊した炸裂音だ。
+-- TRANSLATION HERE
+}
+[sha:7622411d3bc63c6acadfceb369aff0bd01f92b90]{
+-- Page 59, Offset 568.
+-- 両腕を失ってなお、口裂け男は少女へと走る。
+-- TRANSLATION HERE
+}
+[sha:dd848c3f0172178c65e3e868859fb25fe6f4d539]{
+-- Page 59, Offset 569.
+-- 「……役立たず。後でおしおきが必要ね」
+-- TRANSLATION HERE
+}
+[sha:d8d659146048aefc673a555314fc2b4d8eafd205]{
+-- Page 60, Offset 570.
+-- もはや切りきざむ腕はないが、彼には最大の悪意が残っている。
+-- TRANSLATION HERE
+}
+[sha:38201f3f1469ca269dbbc9182011d9360dda4d16]{
+-- Page 60, Offset 571.
+-- <睨|にら>んだ者の心臓を<射|い><止|と>める魔眼。
+-- TRANSLATION HERE
+}
+[sha:7f2180b2749d66c62d5ba47e2cbb943d2e9b4ada]{
+-- Page 60, Offset 572.
+-- 心筋を<梗塞|こうそく>させる事のみに特化した魔術回路。
+-- TRANSLATION HERE
+}
+[sha:3cc6d03caf72c55235f1a1cae267ad82ab1d7c32]{
+-- Page 60, Offset 573.
+-- <単純|シンプル>ではあるが、だからこそ、この至近距離で放てば回避は不可能な死の<散弾|ショットガン>。
+-- TRANSLATION HERE
+}
+[sha:cbb3f577fbc7e6ec8c25ecff04b5fa078ea1caf4]{
+-- Page 61, Offset 574.
+-- “―――？”
+-- TRANSLATION HERE
+}
+[sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
+-- Page 61, Offset 575.
+-- だが。
+-- TRANSLATION HERE
+}
+[sha:a7fbf4498049e6b1ae6bf5e8b55f160cd8102aa9]{
+-- Page 61, Offset 576.
+-- 不幸な事に、彼には目しかなく。
+-- TRANSLATION HERE
+}
+[sha:83ffa60eba733baf76856018be427d6da7d52c40]{
+-- Page 62, Offset 577. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:f7602718c4748da3a5e9f9b45062f24c52bd69e5]{
+-- Page 62, Offset 578. Mods: @c, @i, @a, @r.
+-- Build it up with wood and clay,
+-- TRANSLATION HERE
+}
+[sha:5b3cccccb5c944dc694aaf9dbb9980b3ecf9ec94]{
+-- Page 62, Offset 579. Mods: @c, @i, @a, @r.
+-- Wood and clay,Wood and clay,
+-- TRANSLATION HERE
+}
+[sha:a176c208031849901abe90887b8cdf2d98590dc5]{
+-- Page 62, Offset 580. Mods: @c, @i, @a, @r.
+-- Build it up with wood and clay,
+-- TRANSLATION HERE
+}
+[sha:ae5aa2026687be41dd30c86423059020c0dbbc19]{
+-- Page 62, Offset 581. Mods: @c, @i, @a, @r.
+-- My fair lady.
+-- TRANSLATION HERE
+}
+[sha:b767c35b26ff54514f5f83b77a6baa9f61cd7869]{
+-- Page 63, Offset 582.
+-- 少女の唄が違うものになっていた事に、最後まで気づかなかった。
+-- TRANSLATION HERE
+}
+[sha:aec11e4441ee307502c95968e7237480861b1adf]{
+-- Page 64, Offset 583.
+-- ソレにとって大地を震わす一撃は、虫を払った程度のものでしかない。
+-- TRANSLATION HERE
+}
+[sha:aee383783a4a18168251a5fcabf8395b8352f823]{
+-- Page 65, Offset 584.
+-- 隆々とわきたつ緑の血管。
+-- TRANSLATION HERE
+}
+[sha:ad2a86b191c25cbda7c638ed90c52febf557e601]{
+-- Page 65, Offset 585.
+-- <乾|かわ>き、何百年という時を<食|は>み、電動の<回転刃|チェインソー>すら<弾|はじ>く<樫|かし>の皮。
+-- TRANSLATION HERE
+}
+[sha:5242f88137ee783f56b72d60b985c3ec69cfc763]{
+-- Page 65, Offset 586.
+-- 額には色とりどりの絵の具で落書きされた「emeth」の文字。……ところどころ間違った、お約束にすぎない綴りではあるが。
+-- TRANSLATION HERE
+}
+[sha:8fef5edb744b318ff34a4fa41b73683782c13b4d]{
+-- Page 66, Offset 587.
+-- その姿こそテムズトロル。
+-- TRANSLATION HERE
+}
+[sha:f505468fc68129bad2f2f9a1bed04e17ffb08f63]{
+-- Page 66, Offset 588.
+-- あるいはフォーリンダウン。
+-- TRANSLATION HERE
+}
+[sha:a63b30116c382bb0b11738ad0ead451a2372fc94]{
+-- Page 66, Offset 589.
+-- またの名をグレートブリッジ。
+-- TRANSLATION HERE
+}
+[sha:63ec3b1bdc0acfd8ba6f23b3cfd193dcf22c32f4]{
+-- Page 66, Offset 590.
+-- <数多|あまた><異形|いぎょう>に賞賛される、四つの奇蹟の最初のいっぽ。
+-- TRANSLATION HERE
+}
+[sha:f91e1ce1faa271a47816f300a01d70c40b39f903]{
+-- Page 67, Offset 591.
+-- 「テムズ、もう一体をお願い」
+-- TRANSLATION HERE
+}
+[sha:ce5c5ee001fd0fa2c0374db79abb42ecde96058d]{
+-- Page 67, Offset 592.
+-- 少女の言葉に巨人が応える。
+-- TRANSLATION HERE
+}
+[sha:d86cacd303eafa2686df68b1a8bbe3703c446778]{
+-- Page 67, Offset 593.
+-- 地に根を張った緑の巨人は一歩も動かず、その左腕を天に<掲|かか>げ―――
+-- TRANSLATION HERE
+}
+[sha:d69ec4e81176ca21c1b33e27fa2d94f7c720016d]{
+-- Page 68, Offset 594.
+-- “―――、―――”
+-- TRANSLATION HERE
+}
+[sha:b1b7d15b981728de8827fa07bb932cc8f894ebf3]{
+-- Page 68, Offset 595.
+-- 一方。
+-- TRANSLATION HERE
+}
+[sha:6a970104b81674146eca38ffd9917ba51d54e3ba]{
+-- Page 68, Offset 596.
+-- 交戦と同時に逃げ出した口裂け男は、夜の森をひた走っていた。
+-- TRANSLATION HERE
+}
+[sha:a90f23a3d2309cd481e463420176535454f9d15f]{
+-- Page 68, Offset 597.
+-- 相手を記録し、記述する事。
+-- TRANSLATION HERE
+}
+[sha:27758b9be92314ef0d3da7e25d7ac0936fb2376f]{
+-- Page 68, Offset 598.
+-- それが、彼が己に課した<使命|オーダー>である。
+-- TRANSLATION HERE
+}
+[sha:554bc33cb9f5102547599926a4537c4b1f908c86]{
+-- Page 69, Offset 599.
+-- 住み慣れた森を全力で逃げていく。
+-- TRANSLATION HERE
+}
+[sha:9e89721c40440fae7d0e5808229f6a41b3c30f37]{
+-- Page 69, Offset 600.
+-- 有事の際は一体が敵に挑み、もう一体は撤退し、雇い主に報告するのが彼らの戦術だった。
+-- TRANSLATION HERE
+}
+[sha:abb04f4ac1e990e279ed0aa9a9c22e31a1bdfa21]{
+-- Page 69, Offset 601.
+-- 森を駆ける事。
+-- TRANSLATION HERE
+}
+[sha:e8165bcfceaa3cb4f88139417060f08fbe7c5174]{
+-- Page 69, Offset 602.
+-- 逃げる事だけに機能を特化させた口裂け男は、恐怖に縛られながらも、自身の勝ちを確信した。
+-- TRANSLATION HERE
+}
+[sha:284e9a3ebb10f97318b419f6342e69c5437a1c10]{
+-- Page 70, Offset 603.
+-- 森で彼に追いつけるモノはいない。
+-- TRANSLATION HERE
+}
+[sha:5631fc64508e7e1528bdb793b6721055cbcaa806]{
+-- Page 70, Offset 604.
+-- 野生の狼ですら、離されないよう追尾するのがやっとだろう。
+-- TRANSLATION HERE
+}
+[sha:96bdfabf9964a5283f0b8749f4cb954f4025ee97]{
+-- Page 70, Offset 605.
+-- カッカッ、と地面を蹴る鳥形の脚。
+-- TRANSLATION HERE
+}
+[sha:595a7564ed732d1e630b4e96cf874eb5316e915c]{
+-- Page 70, Offset 606.
+-- 制作者の<偏|かたよ>った趣味なのか、走行のみに特化した場合、彼の脚はこのように変形する。
+-- TRANSLATION HERE
+}
+[sha:759aa8ce3fea0d1460219715f5917ccf50ffa371]{
+-- Page 71, Offset 607.
+-- 最高時速70キロ。
+-- TRANSLATION HERE
+}
+[sha:c88bf921bb09751d8b3e71f269ec2f58281fe273]{
+-- Page 71, Offset 608.
+-- 二足歩行生物の限界を超えながら森を行く口裂け男。
+-- TRANSLATION HERE
+}
+[sha:3921f199c44f080b8d763d8afbaab8498b66746e]{
+-- Page 71, Offset 609.
+-- 彼は数キロもの距離をとり、背後の安全を確認した。
+-- TRANSLATION HERE
+}
+[sha:3ead979ab9d53abef8b156eda241ca2ca8861f0e]{
+-- Page 71, Offset 610.
+-- ……追ってくるモノはいない。
+-- TRANSLATION HERE
+}
+[sha:74117cafe409ba4f19f071bc269647a780939eff]{
+-- Page 71, Offset 611.
+-- 三日月型の口―――いや、目がほう、と安堵に<緩|ゆる>む。
+-- TRANSLATION HERE
+}
+[sha:b5507ab57ae626b5b9133afdba75365ac7ad4ebe]{
+-- Page 72, Offset 612.
+-- そうして。
+-- TRANSLATION HERE
+}
+[sha:cbb3f577fbc7e6ec8c25ecff04b5fa078ea1caf4]{
+-- Page 72, Offset 613.
+-- “―――？”
+-- TRANSLATION HERE
+}
+[sha:185e06d93e0093820687ac1fb37c0e59ad77a243]{
+-- Page 72, Offset 614.
+-- 前方に体を向き直した時、彼は自らの死を見上げた。
+-- TRANSLATION HERE
+}
+[sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
+-- Page 73, Offset 615. Mods: @c, @i, @a, @r.
+-- 
+-- TRANSLATION HERE
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 73, Offset 616. Mods: @c, @i, @a, @r.
+-- London Bridge is broken down,
+-- TRANSLATION HERE
+}
+[sha:555ba650c49a461bd77681dd7ee094667681d684]{
+-- Page 73, Offset 617. Mods: @c, @i, @a, @r.
+-- Broken down,broken down―――
+-- TRANSLATION HERE
+}
+[sha:53cf08bfe1d94f94384df5ea0944149f2065aa81]{
+-- Page 74, Offset 618.
+-- 彼方から聞こえる<暗黒童話|マザーグース>。
+-- TRANSLATION HERE
+}
+[sha:843b41a0b0afe92b68464d7f67b4f77db65992b1]{
+-- Page 74, Offset 619.
+-- 地面から伸びた無数の<蔓|つる>。
+-- TRANSLATION HERE
+}
+[sha:f79653878e4b08c329b23c3ad843f60f0d86185d]{
+-- Page 74, Offset 620.
+-- <橋|アーチ>を思わせる怪異は、さながら、巨大な腕に似て―――
+-- TRANSLATION HERE
+}
+[sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
+-- Page 75, Offset 621. Mods: @c, @n.
+-- 
+-- TRANSLATION HERE
+}
+[sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
+-- Page 75, Offset 622. Glued. Mods: @c, @i, @r.
+-- London Bridge is broken down,
+-- TRANSLATION HERE
+}
+[sha:439a77b32d73fcc338a6c2c163187d3c2b393669]{
+-- Page 75, Offset 623. Mods: @c, @i, @r.
+-- My fair lady.
+-- TRANSLATION HERE
+}
+[sha:5c1f1a442a29e27146434ad91ac7ce64334b085f]{
+-- Page 76, Offset 624.
+-- 最終報告。
+-- TRANSLATION HERE
+}
+[sha:f9d2ce23ae15808bf05536ffdafcb5ac3375035c]{
+-- Page 76, Offset 625.
+-- 生還ハ　困難。
+-- TRANSLATION HERE
+}
+[sha:2e7721fadb1814749ac5d584e81adffd194400a9]{
+-- Page 76, Offset 626.
+-- 解析ハ　困難。
+-- TRANSLATION HERE
+}
+[sha:bf61d6fd3188e9676b9d5057fced94d9ca78899f]{
+-- Page 76, Offset 627.
+-- 転送ハ　困難。
+-- TRANSLATION HERE
+}
+[sha:17758d767cacb02e8f95dcc13e3a437737539db0]{
+-- Page 76, Offset 628.
+-- 状況ヲ　終了シマス。
+-- TRANSLATION HERE
+}
+[sha:b66a8bf4c10098529122d98e7767e6788e708487]{
+-- Page 76, Offset 629.
+-- Ａａａａａ。主ヨ。ドウカ、コノ身ヲ、護リ―――
+-- TRANSLATION HERE
+}
+[sha:589c7c9f9983afde12521a3c636005cdc6bf570a]{
+-- Page 77, Offset 630.
+-- 「……済んだようね。お疲れさま、戻ってテムズ。
+-- TRANSLATION HERE
+}
+[sha:8aad84e4129c66087dc243e495720b8d19e67242]{
+-- Page 77, Offset 631.
+-- 次はもっと、高価な場所ならいいのだけど」
+-- TRANSLATION HERE
+}
+[sha:c1fc71ef78743e10e56329b58c6baa8863c95aa5]{
+-- Page 78, Offset 632.
+-- 少女は踵を返す。
+-- TRANSLATION HERE
+}
+[sha:18f466faf5dd02b3e5f70897b9ea4e4866a2a1da]{
+-- Page 78, Offset 633.
+-- この森に工房を構えた外敵は消し去った。
+-- TRANSLATION HERE
+}
+[sha:03d4203b202bc0919fb45bcf1b4f979f21c4f784]{
+-- Page 78, Offset 634.
+-- 彼らが善悪どちらのもので、どれだけの被害者を築き上げてきたか、少女には関心のない事だ。
+-- TRANSLATION HERE
+}
+[sha:62c43ee79d264fe9fea2c3f0d390c38f15eef01e]{
+-- Page 78, Offset 635.
+-- 人間社会のしがらみに関心は持たない。
+-- TRANSLATION HERE
+}
+[sha:e8808c5ef8d09b9d3accc9a8a9680be0f640c70a]{
+-- Page 78, Offset 636.
+-- それが純血の魔女、マインスターのあり方だ。
+-- TRANSLATION HERE
+}
+[sha:316b1c2dee0ded10a3c4add789f5e04119b85a5a]{
+-- Page 79, Offset 637.
+-- 『ちょ、ボクたちは！？　ねえボクたちは！？』
+-- TRANSLATION HERE
+}
+[sha:753bfec15313e55485ce10ae17f14aafd1321a46]{
+-- Page 79, Offset 638.
+-- 『腕、この腕ぬけないんだけど！』
+-- TRANSLATION HERE
+}
+[sha:7d688b9b440b3b37d3d1d70d81e253680316c07b]{
+-- Page 79, Offset 639.
+-- 『噛んだままだとボクらも動けないっていうかさあ』
+-- TRANSLATION HERE
+}
+[sha:7be23bcacd84582dd129e2b473f2cf035ba59692]{
+-- Page 79, Offset 640.
+-- 『ひどい、飛べないブタに用はないと！？』
+-- TRANSLATION HERE
+}
+[sha:eaf68c0bf5a1a73380a3b875a0b4f548121c24e7]{
+-- Page 79, Offset 641.
+-- 『次、次はお役に立ちますきっと！　生まれてこの方、失敗続きのボクらだけど！』
+-- TRANSLATION HERE
+}
+[sha:1ef6c0e0d89ef3e1bc4326830e98ea4dab9442a0]{
+-- Page 79, Offset 642.
+-- 『うん、壊れるまでに一度ぐらいは褒められたいね！』
+-- TRANSLATION HERE
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 80, Offset 643.
+-- 「…………」
+-- TRANSLATION HERE
+}
+[sha:b06efbd5ae1f4373ff4de5bc41cb9819d648027b]{
+-- Page 80, Offset 644.
+-- 少女はため息をついて小川に足を運ぶと、黒い手袋をとって、細い指を氷水に浸した。
+-- TRANSLATION HERE
+}
+[sha:3d4f23c80e22dd4e4aef5ec91d7b06ad113b64ff]{
+-- Page 81, Offset 645.
+-- 「六の目はだすなって言うけど。
+-- TRANSLATION HERE
+}
+[sha:29bf1206f80feb1568168f42eb43c8dc86ea777b]{
+-- Page 81, Offset 646. Glued. Mods: @x.
+-- 六の目しかでないようになってるわよね、貴方たち」
+-- TRANSLATION HERE
+}
+[sha:983f33c4a3f155d2ec547973c0b58280be9ab54c]{
+-- Page 81, Offset 647.
+-- 憂鬱な呟きに、<応|こた>えの声はない。
+-- TRANSLATION HERE
+}
+[sha:181e0151ae35fa83a673bfaca359af2badd70ab8]{
+-- Page 81, Offset 648.
+-- あれほど騒がしかった子豚は影も形もなく、少女の手のひらには黒い<賽子|ダイス>が二つだけ。
+-- TRANSLATION HERE
+}
+[sha:2aba9d651685360f07dec1a1a96c5195d23b5a4a]{
+-- Page 81, Offset 649.
+-- 少女は散らばった残骸に声をかけようとして、あ、と口元に手を当てた。
+-- TRANSLATION HERE
+}
+[sha:28bcdebb937ea20598a4768ddb78187418401742]{
+-- Page 82, Offset 650.
+-- 「……お別れは済ませていたわね。
+-- TRANSLATION HERE
+}
+[sha:7aee3a55324c388651650c8f83472192f34c3359]{
+-- Page 82, Offset 651.
+-- <銘|めい>ぐらいは、聞いておくべきだったかしら」
+-- TRANSLATION HERE
+}
+[sha:49c78368bf61117ea8662fb0b83a73dfb5605ca5]{
+-- Page 82, Offset 652.
+-- 白魚のような指が、名残惜しそうに唇をなぞる。
+-- TRANSLATION HERE
+}
+[sha:e3ff5497ee238a45b1ad8d1b31f6e4ae4fb4ce7c]{
+-- Page 82, Offset 653.
+-- 少女は二度目のため息をついた後、訪れた時と同じように、ゆっくりと暗い森を後にした。
+-- TRANSLATION HERE
+}

@@ -1,0 +1,348 @@
+[sha:68147f87163e18d21bd33f17325f1515322fb994]{
+-- Page 0, Offset 18974.
+-- あれからずっと<抱|かか>えていた疑問。
+  Plusieurs questions le taraudaient depuis la fin des derniers incidents.
+
+}
+[sha:f30795b6b979ccc9c8fae425d508f069c35fd2df]{
+-- Page 0, Offset 18975.
+-- 今回の事件の<顛末|てんまつ>と、姉妹間の決着。
+  Elles concernaient quelques détails sur cette affaire et la conclusion des hostilités entre les deux sœurs.
+
+}
+[sha:950cab214e33dee12145f368832ff453b23de763]{
+-- Page 0, Offset 18976.
+-- そういった余分な話を、草十郎は口にする。
+  Sōjūrō aborda donc ce sujet futile.
+
+}
+[sha:9c3196273a77b4ed107d4297b9729e365e3b5a7e]{
+-- Page 1, Offset 18977.
+-- 「それで、橙子さんは何がしたかったんだ？」
+「En fait, que voulait Tōko ?」
+
+}
+[sha:f976797b2f6287e85d9ae5fe059cf85822b326ee]{
+-- Page 1, Offset 18978.
+-- 「あれ、言わなかった？　<蒼崎|わたし>への復讐と、根源に接触する事だって。
+「Hein, je ne te l'avais pas dit ? Se venger de moi et entrer en contact avec la Source.
+
+}
+[sha:98792a4316a5875efc18c3e50641d8363baef2e9]{
+-- Page 1, Offset 18979. Glued. Mods: @x.
+-- 根源の渦については前に少しだけ話したでしょ」
+Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
+
+}
+[sha:c62ac4f127fb72a70e557969976afde4fa817a75]{
+-- Page 1, Offset 18980.
+-- 「……たしか、魔術の源だっけ」
+「...... Si je me souviens bien, c'est l'origine de la Magie, c'est ça ?」
+
+}
+[sha:cc66be28bce05780882e337b7fdc4c8b596e8a26]{
+-- Page 2, Offset 18981.
+-- 「そう。そして最終目的でもあるわ。
+「Oui. Et c'est également notre objectif final.
+
+}
+[sha:e572b68b16605d7dc6da95c340d630914a1d3685]{
+-- Page 2, Offset 18982.
+-- 根源の渦っていうのは、全ての<叡知|えいち>が記録された位置、全ての事柄が決定された場所。
+  On dit que le Tourbillon de la Source renferme toute la sagesse et que toutes les choses y ont été décidées.
+
+}
+[sha:1518bd2ff002950d508a7de76e1b4782f42a62f4]{
+-- Page 2, Offset 18983.
+-- そこを見て、触れて、理解できれば不可能なんて言葉すら作り替えられる。伝承によって呼び名は様々だけど、ようするに神さまのいる位置なんでしょうね」
+  Si on pouvait le voir, le toucher et le comprendre, le mot impossible n'aurait plus aucun sens. Son nom change selon les traditions, mais pour simplifier, c'est probablement là où se trouve Dieu.」
+
+}
+[sha:038eed4c2a690adcf9a240051619ecf8348f8115]{
+-- Page 3, Offset 18984.
+-- 「神さまっていうのは、<八百万|やおよろず>的なものじゃなく？」
+「Par Dieu, tu entends le panthéon de toutes les divinités ?」
+
+}
+[sha:250283901523ea5346754329d543ec62fec48520]{
+-- Page 3, Offset 18985.
+-- 「……たまにそういうコト言いだすから厄介よねアンタは。
+「...... C'est parce qu'il t'arrive de sortir des trucs de ce genre qu'on ne sait pas comment réagir avec toi.
+
+}
+[sha:91a2e365f967193382bbfe136038d477019fd5f4]{
+-- Page 3, Offset 18986.
+-- そりゃ万象に宿る神さまもいるでしょうけど、これはその前、そういうのを決めた大前提みたいなものよ」
+  Il y a sûrement un dieu à l'origine de toutes les créations, mais le Tourbillon de la Source se réfère à l'étape précédente, là où toutes ces choses ont été décidées.」
+
+}
+[sha:db986b52130b1adb1bd3b8d2aef212f4edf90592]{
+-- Page 4, Offset 18987.
+-- 「そんなものの入り口がどうして三咲にあったのかは知らないけど、祖父はそれを発見して、新しい魔法を作り出した。
+「Je ne sais pas pourquoi cette entrée se trouvait à Misaki, mais mon grand-père l'a découverte et a créé une nouvelle Vraie Magie.
+
+}
+[sha:d918eb504a2b4288f9db3a5ede67abe86171a0c6]{
+-- Page 4, Offset 18988.
+-- でも、その後に根源への<路|みち>を閉ざしちゃったのよ。
+  Seulement, il a refermé le chemin vers elle par la suite.
+
+}
+[sha:08f7fafa3e4ed883c65527010b564ab5b9d4db9e]{
+-- Page 4, Offset 18989. Glued. Mods: @x.
+-- 魔法さえ成立したのなら、神さまへの<路|みち>は消えるべきだって」
+Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vraie Magie avait été créée.」
+
+}
+[sha:9ba111cf3afa6ead1b46200faf02eb056d86056a]{
+-- Page 5, Offset 18990.
+-- 「……たぶん、私たちが生きているかぎり開放する気はなくて、橙子はそれが腹立たしかったんだと思う。
+「...... Il n'avait probablement pas l'intention de la rouvrir de notre vivant. Je crois que c'est ce qui a provoqué la colère de Tōko.
+
+}
+[sha:85a1645459c03a75551e430a2abc19d3540a0745]{
+-- Page 5, Offset 18991.
+-- たとえ力不足で取り込まれても、道があるのなら試すべきだ。自己の消滅を恐れるぐらいなら、そもそも魔術なんて学ばなかった―――ってね」
+  Pour elle, puisqu'il y avait un chemin, il fallait essayer de l'emprunter, quitte à être aspiré par manque de force. Et elle n'aurait jamais appris la Magie en premier lieu si elle craignait de perdre son égo.」
+
+}
+[sha:25b433bd53ec5603fe7c4ae0ed371c75208fb29e]{
+-- Page 6, Offset 18992.
+-- 「でも祖父は<礎|いしずえ>になろうとする意志さえ認めなかった。
+「Mais mon grand-père a rejeté son souhait de devenir la première pierre de l'édifice.
+
+}
+[sha:6159eaadba0eee992b7880979fc87010d94de13f]{
+-- Page 6, Offset 18993.
+-- もっと強力な後継ぎが生まれるまで、根源の解析は許可しない。後継ぎに魔法は<譲|ゆず>るけれど、根源への路だけは閉ざしていたのよ。
+  Il ne permettra pas l'analyse de la Source tant qu'un successeur plus puissant que lui n'aura pas vu le jour. Il veut bien céder la Vraie Magie à son héritier, mais il maintient scellée la voie qui mène à la Source.
+
+}
+[sha:020c787ce5f7d79bfab86bd3068104cc59685abd]{
+-- Page 6, Offset 18994.
+-- ……橙子の気持ちも分かるけど、私は祖父に賛成だわ。
+  ...... Je comprends Tōko, mais je suis d'accord avec grand-père.
+
+}
+[sha:07206e1c018a8fc76e6f57ec64cb4b915a6b8d2d]{
+-- Page 6, Offset 18995.
+-- 根源なんてものに興味はないし、第一、今まで一人も生還者がいないんだもの。それが本当に神々の座なのか保証もないし」
+  La Source ne m'intéresse pas, et en plus, personne n'en est jamais revenu vivant jusqu'ici. Et pour ne rien arranger, on n'a aucune preuve que les dieux y siègent vraiment.」
+
+}
+[sha:c2aebfc0f809717b9e9e034e97cd52f6b6ea175c]{
+-- Page 7, Offset 18996.
+-- 話しているうちに機嫌を損ねたのか、後半はなかば文句になっていた。
+  Son humeur s'était dégradée alors qu'elle parlait et elle avait fini par se plaindre.
+
+}
+[sha:03118876304c23693ad03f8e8bba65ae2da2d0aa]{
+-- Page 7, Offset 18997.
+-- なんだかんだ言って、青子本人も祖父には賛同しきれない部分があるらしい。
+  Contrairement à ce qu'elle prétendait, Aoko semblait être en désaccord sur certains points avec son grand-père.
+
+}
+[sha:e6e9ba60545407270daed43a1f213ceaab748886]{
+-- Page 7, Offset 18998.
+-- それを気にしながら、草十郎は今の話のおかしな部分について訊き返す。
+  Sōjūrō signala alors un point étrange de son histoire tout en essayant de ne pas froisser davantage son humeur.
+
+}
+[sha:677dee64efeda2c33f519fe2fe17bc233f053a7e]{
+-- Page 8, Offset 18999.
+-- 「蒼崎。一人も生還者がいないって、どういう事だ？」
+「Aozaki. Que veux-tu dire par le fait que personne n'est jamais revenu vivant ?」
+
+}
+[sha:f653af5d901101853fc25b8540c921720a8af50b]{
+-- Page 8, Offset 19000.
+-- 「根源に触れて、帰ってきた者は一人もいないの。世界規模でね。
+「Eh bien, personne n'est revenu après avoir atteint la Source. Et ce dans le monde entier.
+
+}
+[sha:392c0fb04104e8057d030acdab0a306247fb48ce]{
+-- Page 8, Offset 19001.
+-- 触れれば即消滅。人間程度の魂だと触れた瞬間に<元|・><に|・><戻|・><る|・>とか、根源に取りこまれるとか」
+  Si on l'atteint, on disparaît instantanément. L'âme humaine reviendrait au néant ou serait absorbée par la Source au moment où elle entre en contact avec elle, selon certaines théories.」
+
+}
+[sha:4215cb1beee23ea12ef7f2d43832696413ba0095]{
+-- Page 9, Offset 19002.
+-- 「なんで、どんなに歴史に名を残した魔術師でも、あれにだけは触れていないわ。せいぜい間近にして、大急ぎで自分の魔術を安定させた程度だもの」
+「Du coup, même les Mages qui ont laissé leur nom dans l'histoire n'ont pas osé y toucher. Au mieux, ils s'en sont approchés et en ont profité pour perfectionner leur Magie.」
+
+}
+[sha:78c69def726bc837fffea577dfaf16b569cb2015]{
+-- Page 9, Offset 19003.
+-- そこがおかしい、と草十郎は眉をひそめる。
+  Justement, c'est étrange, songea Sōjūrō en fronçant les sourcils.
+
+}
+[sha:e55cbc0659a35f70dba4a8564a5e7b32382fbfd2]{
+-- Page 10, Offset 19004.
+-- 「それじゃあ、どうしてそこがそういう場所だって分かるんだ」
+「Mais alors, comment connaissez-vous la nature même de cet endroit ?」
+
+}
+[sha:061c99b669303c2d6d414a5ba116208164d1f594]{
+-- Page 10, Offset 19005.
+-- 「そりゃあ、中に入って伝えた人がいたからでしょう」
+「Ben, parce que des gens y sont entrés et nous ont transmis l'information, pardi.」
+
+}
+[sha:c143e10ca639a3426623698bb5ac971832433f21]{
+-- Page 10, Offset 19006.
+-- 「でも生還者はいないって」
+「Tu viens de dire que personne n'en était revenu vivant.」
+
+}
+[sha:56def54e2decfe50f7cc3a3cb14b6ad1269af369]{
+-- Page 10, Offset 19007.
+-- 「だから。そういう人たちは、中で神さまにでもなっちゃったんじゃない？」
+「C'est simple. Ces personnes-là ont dû devenir des dieux une fois à l'intérieur.」
+
+}
+[sha:3bef392d27e17153245aa5294037dae771e34483]{
+-- Page 10, Offset 19008.
+-- 実にきっぱりと彼女は言った。
+  dit-elle sans le moindre signe d'hésitation,
+
+}
+[sha:c531c911b5f82da591f1bd29d38290fc2fc398c5]{
+-- Page 10, Offset 19009.
+-- 何でもない話のように、昨日の話をするように。
+  comme si elle parlait d'une histoire quelconque ou de la météo de la veille.
+
+}
+[sha:019d2e57204a17fcc857127f6d0d85a80edcf6d3]{
+-- Page 11, Offset 19010.
+-- 「そうなればこっちに帰ってくる必要はないでしょうし、もしかすると、単に帰って来られないだけかもね。
+「Ainsi, ils n'auraient pas besoin de revenir sur Terre, ou alors, ils sont tout simplement dans l'incapacité de le faire.
+
+}
+[sha:dd54cdde127a1c9198f23d569f4394c54e349f96]{
+-- Page 11, Offset 19011.
+-- ……ま、神さまって位置づけが私たちが思っているようなものとは思えないから、あまり幸福そうには思えないけど」
+  ...... Mais bon, à mon avis, le statut de Dieu ne correspond pas à ce qu'on s'imagine. Ils ne baignent certainement pas dans le bonheur.」
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 11, Offset 19012.
+-- 「………………」
+「..................」
+
+}
+[sha:94d677a142a3a89b67b50528112526f89ed8d2ac]{
+-- Page 12, Offset 19013.
+-- 成功者も失敗者も、それに触れては、こちらの世界に帰っては来られない。
+  Qu'ils aient réussi ou échoué, ceux qui cherchaient à atteindre la Source se retrouvaient incapables de revenir dans notre monde.
+
+}
+[sha:6040ffa65238ad0c39cee10bf5bce914e42676c9]{
+-- Page 12, Offset 19014.
+-- 根源の渦とやらを人々に伝えたのは、
+  Pourtant, quelqu'un avait communiqué l'existence du Tourbillon de la Source.
+
+}
+[sha:8d5f1afe60ec42cadcf9478d5d8a8998b24989a2]{
+-- Page 12, Offset 19015.
+-- 一番初めに神さまになった誰かが、淋しさから仲間を欲しがった結果なのかもしれない。
+  Peut-être que la première personne à avoir atteint le rang de divinité s'était sentie seule et désirait des compagnons.
+
+}
+[sha:213559ec5e2a11af067561f90d6f66c4c35d684c]{
+-- Page 12, Offset 19016.
+-- ……あるいは、あちらの仕事はあまりにも膨大で、他にも仲間を欲しがったのか。
+  ...... Ou bien, peut-être qu'il avait tellement de travail qu'il avait besoin de collègues.
+
+}
+[sha:a4f9c7f1730117938f12bcd3da67b5f686861dfb]{
+-- Page 12, Offset 19017.
+-- 草十郎には、いくら考えても掴めない事ではあるが。
+  Bien sûr, Sōjūrō aurait beau y réfléchir, il ne trouverait pas la réponse par lui-même.
+
+}
+[sha:f134f48ed898ece50f19d0f9382f1cd8a2e69578]{
+-- Page 13, Offset 19018.
+-- 「……橙子さんは、そうなりたかったのかな」
+「...... Tu crois que Tōko voulait devenir l'un d'entre eux ?」
+
+}
+[sha:bd828c7d7b0f22c99058c7c05136762120f00f7f]{
+-- Page 13, Offset 19019.
+-- 「まさか。あの人は単に知りたかっただけよ。
+「Mais non. Elle voulait juste assouvir sa curiosité.
+
+}
+[sha:62db76e5702c9b04fb27f814e1aa243805530185]{
+-- Page 13, Offset 19020.
+-- その後に残された人たちの事なんて興味はないの。昔から、目標に没頭しても成果を愛する人じゃなかったから」
+  Elle se contrefout de ce qui est arrivé à ces gens. Tout ce qui l'intéresse, c'est d'accomplir son objectif, même si elle se moque du résultat qu'elle obtient.」
+
+}
+[sha:6d2628b1ec85332b67993eea09c53ba6b3d046cd]{
+-- Page 14, Offset 19021.
+-- 「正直なところ、そのあたり姉貴は突き抜けてるわ。
+「Honnêtement, à ce niveau, elle a un grain.
+
+}
+[sha:7574527291543dac973ebdb9892edef914a5ca51]{
+-- Page 14, Offset 19022. Glued. Mods: @x.
+-- ホントの天才ってのはああいう非人間のコト言うのよ。苦労して作り上げたモノの、その後をまったく考えないんだから」
+Les génies comme elle ont quelque chose d'inhumain. Ils se démènent pour créer des choses et ils s'en désintéressent aussitôt terminé.」
+
+}
+[sha:5d6afdc7096bfcb24b25cdae0aaadc0e15b46247]{
+-- Page 14, Offset 19023.
+-- 呆れているようにも認めているようにも取れる口ぶり。
+  Son timbre de voix aurait pu passer pour de la stupéfaction ou de la gratitude.
+
+}
+[sha:cc9ade5689107eec098483a17cbff87afb44d4c1]{
+-- Page 15, Offset 19024.
+-- 「でも、そのくせ面倒見はいいって言うか。
+「Et pourtant, elle sait prendre soin des autres.
+
+}
+[sha:a6d62ab3cff3286ec62c75d9bf7636313a1ed4a1]{
+-- Page 15, Offset 19025.
+-- 未来の事は考えないのに、今あるものには何にでも興味を持つんだから」
+  Elle ne pense pas au futur, mais tout son intérêt se porte sur les choses présentes.」
+
+}
+[sha:e9862e6787c7794992e72e34d07e6a88d9043071]{
+-- Page 15, Offset 19026.
+-- これだから天才肌の女は、と悪態をつく青子。
+  “C'est pour ça que j'ai horreur des femmes surdouées”, lança Aoko.
+
+}
+[sha:4f9a2c76034c8325fa843ce7e1036946a1a20f10]{
+-- Page 15, Offset 19027.
+-- <敵意|てきい>の<欠片|かけら>もない声は、聞くものとしては微笑ましい。
+  Son ton dépourvu d'hostilité était attendrissant à entendre.
+
+}
+[sha:eb40f55c0e460586924070ea6b538e83f719f974]{
+-- Page 16, Offset 19028.
+-- 「そうだね。それに、橙子さんはこっちの方が好きみたいだったから」
+「C'est vrai. J'avais aussi remarqué que Tōko était de ce genre-là.」
+
+}
+[sha:ee4e8565ef605af61d0205727c1d6d6a1a0fdd75]{
+-- Page 16, Offset 19029.
+-- そんな事を口にしたら、草十郎は先ほどの言葉の意味も分かってしまった。
+  En prononçant ces paroles, Sōjūrō comprit ce que sous-entendaient les déclarations d'Aoko.
+
+}
+[sha:7f2714f619d18ade8de2917953688f053bf449ad]{
+-- Page 16, Offset 19030.
+-- “根源になんて興味はない”
+“La Source ne m'intéresse pas.”
+
+}
+[sha:e2830ebf5d19b58cbc43ddaaf77a9a88a6486031]{
+-- Page 16, Offset 19031.
+-- つまり青子も、橙子と同じ気持ちなのだろう、と。
+  En d'autres termes, Aoko partageait les mêmes sentiments que Tōko.
+
+}

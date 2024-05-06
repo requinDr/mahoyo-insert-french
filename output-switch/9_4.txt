@@ -1,0 +1,1020 @@
+[sha:3283ee39016190d7e2e4a327d29d78eaf79446ec]{
+-- Page 0, Offset 13511.
+-- 冬の日没は早い。
+  En hiver, le soleil se couche tôt.
+
+}
+[sha:c157bbe611143216a23584f00478d88e20e6b059]{
+-- Page 0, Offset 13512.
+-- 午後の斜陽が完全に失われた午後四時。
+  À seize heures, alors que le jour déclinait,
+
+}
+[sha:cdde8f85ef57cf3e0948f81c9b3f918d00ccd8a3]{
+-- Page 0, Offset 13513.
+-- 洋館は町中よりいくぶん早く夕暮れを迎えようとしている。
+  le crépuscule arrivait au manoir avant d'atteindre la ville.
+
+}
+[sha:6ad7bea3aa39c4fe734fd4543c2c7cfeabf7c9a7]{
+-- Page 1, Offset 13514.
+-- 「―――なるほど。君の生態はよく解った」
+「―――Je vois. J'ai bien compris ton mode de vie.」
+
+}
+[sha:209fe7638d02cb9a1b5ca5948ea375c6f5fba240]{
+-- Page 1, Offset 13515.
+-- 冷えこんできた中、お茶だけを<暖|だん>にして草十郎はひとりうなずいた。
+  affirma Sōjūrō qui se tenait seul dans le salon glacial, un thé pour unique source de chaleur.
+
+}
+[sha:820f4859c8b7dfcd0fd2c6865329da986046eba1]{
+-- Page 1, Offset 13516.
+-- いいかげんワニは飽きたのか、ソファーに身を預けて、ぼんやりと窓の外を眺めている。
+  Probablement lassé des crocodiles, il se laissa aller sur le sofa et observa distraitement le paysage de l'autre côté de la fenêtre.
+
+}
+[sha:49670d5eb9df18553b2cd07392fb6fb5eb05bc1b]{
+-- Page 2, Offset 13517.
+-- 一度やってみたかったのか、ソファーに寝そべったまま草十郎は動かない。
+  Il resta parfaitement immobile sur le sofa. Il avait toujours voulu essayer cela au moins une fois.
+
+}
+[sha:924d8c69ba49ab9e5efaf3d0423d06643e64350e]{
+-- Page 2, Offset 13518.
+-- 三時間近くワニを観察していた影響か、あんなふうに日がな一日横になって暮らすのはどんな気持ちなのか、と真剣に悩んでいるようにも見える。
+  Ces trois heures à observer les crocodiles l'avaient peut-être influencé : on aurait pu croire qu'il se demandait sincèrement l'effet que cela faisait de passer toute la journée allongé.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 3, Offset 13519.
+-- 「…………」
+「............」
+
+}
+[sha:497126cf2c64b00d9cd5de5a9ea08e5716a1765e]{
+-- Page 3, Offset 13520.
+-- いい機会だし、いっそ青子たちが帰ってくるまでソファーで眠ってみようか、などと草十郎が考えた矢先、洋館には不釣り合いな怪音が響いてきた。
+  Juste au moment où Sōjūrō considérait l'idée de profiter de l'occasion pour dormir sur le sofa jusqu'au retour d'Aoko et Alice, un son mystérieux et incongru pour ce manoir retentit.
+
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 4, Offset 13521.
+-- 「……？」
+「......?」
+
+}
+[sha:9741d5a5fc79aa5eb68ae30c1b2861764105f802]{
+-- Page 4, Offset 13522.
+-- <四足|ワニ>から<二足|ヒト>に進化するように、のっそりと起き上がる。
+  Il se releva lentement, comme un crocodile qui évoluerait pour devenir un homme.
+
+}
+[sha:6c345fb725e4238b4c6906c612a23477a61bfe88]{
+-- Page 4, Offset 13523.
+-- ごんごん、という音は辛抱強く定期的に続いていた。
+  Le bruit mat se répétait périodiquement et avec insistance.
+
+}
+[sha:a71b06bb31809e47a6c0c58cf35b763dda22b235]{
+-- Page 4, Offset 13524.
+-- アパート暮らしの時に何度か経験した、玄関からの呼び音である。
+  Comme il avait pu l'expérimenter quand il vivait en appartement, quelqu'un frappait à la porte d'entrée.
+
+}
+[sha:41acdf65bef46ecaa6c0cc3cdbe2b5223bca29cc]{
+-- Page 5, Offset 13525.
+-- 「……むう。新聞の勧誘か？」
+「...... Hmm. Un vendeur de journaux ?」
+
+}
+[sha:aa93e0e8c047bdc3ba1c5ff88ab58f4c820c8413]{
+-- Page 5, Offset 13526.
+-- こんな丘の上までたいしたもんだ、と感心しながら草十郎はロビーに向かった。
+  Il est courageux pour monter la colline, s'étonna Sōjūrō tout en se rendant au vestibule.
+
+}
+[sha:726e46b8b5bd885cf3619f92b2827ca049b242bd]{
+-- Page 6, Offset 13527.
+-- 音は妙に響き渡る。
+  Le son avait une résonance étrange.
+
+}
+[sha:db920b20556a337e975d87701fe3d6410b166814]{
+-- Page 6, Offset 13528.
+-- あの玄関には呼び鈴らしきものはないし、来訪者はいかなる道具で扉を叩いているのか。
+  L'entrée ne comportait aucune sorte de sonnette, alors quel genre d'objet le visiteur utilisait pour frapper à la porte ?
+
+}
+[sha:0760d52f96b9d3a742502f78783e7edc4f4803fb]{
+-- Page 6, Offset 13529.
+-- 手だとしたら、なんていうか、<畏|い><怖|ふ>すべき鉄拳勧誘である。
+  S'il se servait de sa main, ce devait être un démarcheur au poing d'acier redoutable.
+
+}
+[sha:105664f0747e0b5e2dd259e39911c5103efc9277]{
+-- Page 7, Offset 13530.
+-- 館の入り口にあたる玄関は、草十郎から見れば要塞の如き堅固さ、豪華さだ。
+  Pour Sōjūrō, le vestibule à l'entrée du manoir avait la splendeur et le caractère d'une forteresse.
+
+}
+[sha:47b8e956d919f91ea4bae170449ee3bf884cd7ca]{
+-- Page 7, Offset 13531.
+-- 両開きの扉は頑丈で、<破城鎚|はじょうづち>でも持ってこないかぎり破られる事はないだろう。
+  La porte à double battant était robuste. On ne pourrait pas la défoncer, à moins d'avoir recours à un bélier.
+
+}
+[sha:f377029a7554f37a3880688e3d8d8dcbee0e818b]{
+-- Page 7, Offset 13532.
+-- そんな扉が、何度目かのノックで悲鳴を上げるように軋んでいる。
+  Et pourtant, elle craquait sous le énième coup comme si elle gémissait.
+
+}
+[sha:d621343dc30ce399fe1f6b3558f69fb98e69cfe9]{
+-- Page 8, Offset 13533.
+-- どうも相手は、このまま出てこないのなら城門突破も<辞|じ>さないかまえらしい。
+  L'adversaire semblait prêt à forcer l'entrée du château si personne ne daignait en sortir.
+
+}
+[sha:09207b7abedd55eef30b95c0c304b3c92b95ffe6]{
+-- Page 8, Offset 13534.
+-- 新聞の勧誘バイトも経験済みの草十郎である。なので、
+  Sōjūrō avait de l'expérience dans la vente de journaux.
+
+}
+[sha:c3adc918af1ec33de6dded920f3d4a75f8bf7016]{
+-- Page 8, Offset 13535.
+-- 「はーい、いま開けまーす」
+「Ouiii. J'arrive.」
+
+}
+[sha:10d66f567957b711f85b0c1edca809fbcb776c5e]{
+-- Page 8, Offset 13536.
+-- 彼らは彼らなりに必死な事を知っているので、別段そこには驚かなかった。
+  Il savait donc que les démarcheurs travaillaient d'arrache-pied, et par conséquent, il n'était pas particulièrement surpris par ce comportement.
+
+}
+[sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
+-- Page 9, Offset 13537.
+-- 「…………」
+「............」
+
+}
+[sha:152d6bac827948ec994ba0543a9b2a14b71cdc8c]{
+-- Page 9, Offset 13538.
+-- それは本日二度目の、正体不明の驚きだった。
+  Pour la deuxième fois de la journée, il ressentit un émerveillement qu'il n'aurait su expliquer.
+
+}
+[sha:c6edfd8b0ae9fd3ab3befc2a3191729367d7dfc0]{
+-- Page 9, Offset 13539.
+-- 草十郎は言葉なく立ち尽くす。
+  Sōjūrō resta cloué sur place, muet.
+
+}
+[sha:b48d13147488959195961d156673f212e329a9ae]{
+-- Page 10, Offset 13540.
+-- 新聞の勧誘にしては珍しく、若い女性だったから……ではない。
+  Il ne réagissait pas ainsi parce qu'il se trouvait devant une jeune femme, chose rare dans la vente de journaux,
+
+}
+[sha:1dccd23e197e3e629bd1356eb0b1755c331e3482]{
+-- Page 10, Offset 13541.
+-- 日没前の中庭を背景にした女性の姿は、自分なんかよりよほど、この洋館に相応しく思えたからだ。
+  mais parce qu'il jugeait qu'avec la cour baignée dans le soleil couchant en arrière-plan, elle cadrait bien mieux à l'ambiance de ce manoir que lui-même.
+
+}
+[sha:01d4c555a62a1bc9334e58ea620151a7433f2812]{
+-- Page 11, Offset 13542.
+-- 細いが、しかし、凛とした女性だった。
+  C'était une femme menue, mais à l'air décidé.
+
+}
+[sha:f0ece6a5ea0a823c72c59e4151562e6070d5b623]{
+-- Page 11, Offset 13543.
+-- 背の程は草十郎よりやや低い。女性としては長身の部類だろう。
+  Elle était un peu plus petite que Sōjūrō. Pour une femme, on l'aurait plutôt qualifiée de grande.
+
+}
+[sha:ba819e80d31e8f65d274cb3f4745d9544f25517a]{
+-- Page 11, Offset 13544.
+-- 緑色の服は地味な色彩のクセに派手で、この国の文化とは系統が違っていた。
+  Ses vêtements d'une teinte verte étaient voyants, en dépit de leur couleur sobre, et appartenaient au style d'une autre culture.
+
+}
+[sha:88e631445765c64e55c2cf9527211f40c44f1381]{
+-- Page 12, Offset 13545.
+-- <清楚|せいそ>なのに堂々としている。
+  Simple, elle n'en était pas moins majestueuse.
+
+}
+[sha:009a5df9243e729e0e835c3fc0d2cfd0b7c69cea]{
+-- Page 12, Offset 13546.
+-- 華やかなようで、その実、強い芯が通っている感じ。
+  Elle semblait éclatante, et même avoir du caractère.
+
+}
+[sha:8898d1916ea7d903b25ca63ec3a8f4bd15170f7b]{
+-- Page 12, Offset 13547.
+-- そんな、本来ならあまり混ざらない要素を持つ女性を、草十郎はよく知っている。
+  Sōjūrō connaissait déjà bien une femme similaire, une personne dotée de caractéristiques qui n'allaient pas bien ensemble en général.
+
+}
+[sha:f80b6d2e05b73110d025624622a6086901ac25af]{
+-- Page 13, Offset 13548.
+-- ただ、草十郎の知っている彼女と違い、この女性は威圧より優しさの方が際だっていた。
+  Cela dit, contrairement à la connaissance de Sōjūrō, cette femme se remarquait plus par son amabilité que par son côté intimidant.
+
+}
+[sha:51fb8ea7f29bc20ab1a05137b2ddd21cbb4dd6e9]{
+-- Page 13, Offset 13549.
+-- 中性的に見えるのは短髪だからだろう。
+  Elle dégageait un air de neutralité probablement à cause de ses cheveux courts.
+
+}
+[sha:b547d58c9304aa393b99da0663e9fbc0c1115ad1]{
+-- Page 13, Offset 13550.
+-- 見るも鮮やかなブラウンの髪はうなじまでしかない。
+  À ce qu'il voyait, sa chevelure d'un brun éclatant ne dépassait pas sa nuque.
+
+}
+[sha:6dec4bc2e6a83ee7fba2064f2dff8cb6249623cf]{
+-- Page 13, Offset 13551.
+-- 呆然と、もったいないな、と思う草十郎だった。
+  Quel dommage, songea le jeune homme, interdit.
+
+}
+[sha:fda1ff263c9ccefe321daebf7172ae1a9c506d26]{
+-- Page 14, Offset 13552.
+-- そんな草十郎を見て、女性は小さく微笑んだ。
+  Face à sa réaction, la femme sourit légèrement.
+
+}
+[sha:06ac6e844f6ce36f795e5b6893109049a3da3b99]{
+-- Page 14, Offset 13553.
+-- ずいぶん年上のように見えるのに、そんな仕草が悪戯っぽくて可愛いことこの上ない。
+  Même si elle semblait plus âgée, ce sourire lui donnait un air espiègle et un charme renversant.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 15, Offset 13554.
+-- 「――――――」
+「――――――」
+
+}
+[sha:3f7f298b70e6e61d1bbb22bb22bf2e6685cf543c]{
+-- Page 15, Offset 13555.
+-- 自分は惚れっぽい<性質|たち>ではないと信じていた草十郎だが、なんだかそれも怪しいな、とうなだれる。
+  Je ne pensais pas être du genre à m'éprendre facilement de quelqu'un, mais je commence à en douter, se dit Sōjūrō la tête baissée.
+
+}
+[sha:f2f9a7cae06b562997757efb464334b1ce9216ab]{
+-- Page 15, Offset 13556.
+-- ともあれ、こうして黙りこんでいては失礼だ。
+  Quoi qu'il en soit, il serait impoli de rester muet.
+
+}
+[sha:44f9ccc77c9e9c72b0067b64c3b7625401f0835b]{
+-- Page 16, Offset 13557.
+-- 「ええと、どちら様でしょうか」
+「Euh, qui êtes-vous ?」
+
+}
+[sha:ca687be781d42119fa5be228489c391e770f81ac]{
+-- Page 16, Offset 13558.
+-- 微妙にドギマギしている心臓を落ち着けて問いかける。
+  demanda-t-il tout en reprenant le contrôle de son cœur drôlement emballé.
+
+}
+[sha:9aabe4be311dc9e3090d19f260f5e5ddeef15f98]{
+-- Page 16, Offset 13559.
+-- それに、
+  Quant à elle,
+
+}
+[sha:c1d33fa9585fd4ebd3829dd4fb09033c3fcb30b3]{
+-- Page 17, Offset 13560.
+-- 「こんばんは。青子います？」
+「Bonsoir, Aoko est là ?」
+
+}
+[sha:6a9a5a1c3ab30eae7041dd6e8e36c754a57f9cda]{
+-- Page 17, Offset 13561.
+-- 女性は青子という言葉に親しみをこめて、笑顔で返してきたのだった。
+  la femme répondit le sourire aux lèvres, en prononçant le nom d'Aoko avec affection.
+
+}
+[sha:eb7937928ceae88e9e8e7b406cbb8c3903673322]{
+-- Page 18, Offset 13562.
+-- 「蒼崎はいないんです」
+「Non, Aozaki n'est pas là.」
+
+}
+[sha:594792c2e6575ec702fa7aab68c58a0c788d4c54]{
+-- Page 18, Offset 13563.
+-- 青子の留守を告げる草十郎に、女性はあら、という意外そうな顔をした。
+  “Tiens donc ?” fit la femme d'un air surpris en apprenant l'absence d'Aoko.
+
+}
+[sha:38e7eafac323a798909779a38852418a611dbcf5]{
+-- Page 19, Offset 13564.
+-- 「それじゃあ久遠寺さんも留守なんだ」
+「Alors Kuonji est également absente...」
+
+}
+[sha:24c62f3dfc64cf53b18626dff033cc8347489a37]{
+-- Page 19, Offset 13565.
+-- 草十郎はしばし戸惑う。
+  Sōjūrō fut déconcerté pendant quelques instants.
+
+}
+[sha:7d10a138bb878841b678c4073ac20c2ed98f4f9d]{
+-- Page 19, Offset 13566.
+-- 有珠を『久遠寺』と呼ぶ人間は今までいなかった。それも親しげに、十年来の友人のようにだ。
+  Il n'avait encore jamais vu personne appeler Alice par son nom de famille. Et encore moins avec familiarité, comme si elles étaient amies depuis dix ans.
+
+}
+[sha:79696df3c50980e919511e5f85739402b11b6724]{
+-- Page 20, Offset 13567.
+-- 「そっかあ。夜ならともかく、日中から二人で出かけるとは感心感心。
+「Je vois. Alors elles ne sortent pas ensemble que la nuit, mais aussi en journée. C'est vraiment admirable.
+
+}
+[sha:d6b074f1a663f1725a18aba40f377eb433bb7a09]{
+-- Page 20, Offset 13568. Glued. Mods: @x.
+-- カタチだけの雑居だろうと思ったけど、ちゃんと上手くいってるのね」
+Moi qui pensais qu'elles ne cohabitaient que pour la forme, on dirait que ça se passe plutôt bien.」
+
+}
+[sha:7cede4bb29145a432e6712589e6992c7f46b72d1]{
+-- Page 21, Offset 13569.
+-- にこりと微笑まれて、つい頷く草十郎。
+  Sōjūrō acquiesça inconsciemment devant son sourire.
+
+}
+[sha:20a3fd141011ab0ab54cbe32d96f6802650c46a3]{
+-- Page 21, Offset 13570.
+-- 青子たちと面識がありそうなのも驚きだが、この女性はそもそも印象がおかしい。
+  Il était surpris qu'elle connaisse Aoko et Alice, mais surtout, elle lui donnait une impression bizarre.
+
+}
+[sha:b703afd5eaa404a1631a24f9560a3e871a22e779]{
+-- Page 21, Offset 13571.
+-- 歳の頃は二十代前半だろうけれど、そう<草十郎|じぶん>と歳が離れている気がしない。
+  Elle devait être dans le début de la vingtaine, mais elle ne lui semblait pas beaucoup plus vieille que lui.
+
+}
+[sha:74a698a1185ded024b904dc28b443d86c81a50a4]{
+-- Page 21, Offset 13572.
+-- 屈託のない口調と明るい表情が、本来の美貌を<曖昧|あいまい>にしているような。
+  Son ton insouciant et son expression joyeuse rendaient la beauté naturelle de ses traits ambiguë.
+
+}
+[sha:125af895d422c3e059e09eb05e49c7dd79b0d9e7]{
+-- Page 22, Offset 13573.
+-- 「それじゃあ、帰ってくるにしても夜？」
+「Alors, elles ne seront pas là avant la nuit tombée ?」
+
+}
+[sha:f33bc24815913f0cddcb9836ec23c1bb10e78e11]{
+-- Page 22, Offset 13574.
+-- 「はい。終電前には帰ってくると思いますけど」
+「Non. Cela dit, je pense qu'elles seront rentrées avant le dernier train.」
+
+}
+[sha:77b575756cc6e8ab784b8c6aa1936e6df2d44fec]{
+-- Page 22, Offset 13575.
+-- 「そう。ところで君、誰？」
+「Je vois. Au fait, qui es-tu ?」
+
+}
+[sha:95d498c044fd69ed5d501bb38b7bba2085d725ad]{
+-- Page 22, Offset 13576.
+-- それはこっちの台詞なんだけど、と心の中でちょっとだけ困る草十郎だった。
+  C'était ce que j'allais demander, pensa Sōjūrō quelque peu gêné.
+
+}
+[sha:19452bde9add0fccfbaeed48972b2c0a5e0b68d0]{
+-- Page 22, Offset 13577.
+-- 誰？　という問いへの返答は、草十郎には難しすぎる。
+  Ce n'était pas une question à laquelle il pouvait répondre pour l'instant.
+
+}
+[sha:8bc05dbd683dbf8e3cfdcc0d6a0ee28d0227f2db]{
+-- Page 23, Offset 13578.
+-- 「すみません。誰か、と言われてもよく分からなくて。
+「Excusez-moi. Même si vous me le demandez, je ne sais pas trop qui je suis.
+
+}
+[sha:bb6f57b160e7156243927d5bcc17a101986e2d36]{
+-- Page 23, Offset 13579.
+-- とりあえず、今は留守番してますけど、実は蒼崎の友人なんです」
+  Pour le moment, je garde la maison, mais en fait, je suis un ami d'Aozaki.」
+
+}
+[sha:3240995ed30478a1e1bef2f755f5d40b0c2abd5d]{
+-- Page 23, Offset 13580.
+-- まったく頼り気のない返答。
+  Sa réponse ne dégageait aucune assurance.
+
+}
+[sha:fb31f3062b12ca37c376cd0a2572fa7546a20401]{
+-- Page 23, Offset 13581.
+-- 馬鹿にしているとしか思えない少年に、女性はぱあ、と顔を明るくした。
+  La femme montra soudain un visage radieux au garçon qui semblait la prendre pour une imbécile.
+
+}
+[sha:25851c289ed2d4ebeadaf4839670fcb03637effe]{
+-- Page 24, Offset 13582.
+-- 「へえ、面白いこと言うのね君。名前はなんて言うの？」
+「Eh bien, tu dis des choses amusantes. Quel est ton nom ?」
+
+}
+[sha:2dd2c540c00adc8f24c02fd9c75065f9e5f7bc9e]{
+-- Page 24, Offset 13583.
+-- 「あの……静希草十郎、と言うのですが」
+「Euh...... C'est Shizuki Sōjūrō.」
+
+}
+[sha:98f92be2b0d8720cf54d4629c01fb56aa20ecc88]{
+-- Page 24, Offset 13584.
+-- さらに自信なげな答えに、女性は笑いだしてしまった。
+  Cette réponse encore moins assurée provoqua le rire de la femme.
+
+}
+[sha:ce194350834a754feb9fd15eb443112fe84ef982]{
+-- Page 24, Offset 13585.
+-- 草十郎にはどのあたりが可笑しかったのか分からなかったが、そう気分の悪い笑い声ではない。そこには卑下するものはなく、包むような温かさがあったからだ。
+  Sōjūrō ne savait pas ce qu'il y avait de drôle, mais son rire n'était pas déplaisant. En effet, ce dernier n'avait pas pour but de le mépriser, et il dégageait comme un voile de tendresse.
+
+}
+[sha:b5507ab57ae626b5b9133afdba75365ac7ad4ebe]{
+-- Page 25, Offset 13586.
+-- そうして。
+  Puis,
+
+}
+[sha:a03bc588c1cc11ef72a09b2fa803c78f954e3ec7]{
+-- Page 25, Offset 13587.
+-- 女性はひとしきり笑った後、やけに親しげな眼差しで草十郎を見つめ直した。
+  après avoir ri un certain temps, la femme regarda Sōjūrō d'un œil terriblement amical.
+
+}
+[sha:fa982171d6287be79bf1ad62ba310cdf7797826d]{
+-- Page 26, Offset 13588.
+-- 「いや、気に入ったわ。えーと、草十郎くんだっけ？
+「Aah, je t'aime bien. Euh, Sōjūrō, c'est ça ?
+
+}
+[sha:15cbc6c11756763c9af81df365583bc96cb2e066]{
+-- Page 26, Offset 13589.
+-- 君には合わない名前だけど、それも暗示的で素敵だし。じゃ、そういうワケでお茶でも淹れてくれない？」
+  C'est un nom qui ne te va pas, mais il est suggestif et ravissant. Puisqu'on y est, tu veux bien me faire un thé ?」
+
+}
+[sha:c555eea5d5aae554c0e9d1393bbf1da681f829ec]{
+-- Page 26, Offset 13590.
+-- 「？　あ、いや」
+「? Ah, euh...」
+
+}
+[sha:e9d690bbb6fc8c540cf3ba72c31f0aaba410b93e]{
+-- Page 26, Offset 13591.
+-- 女性は草十郎を置き去りに、堂々と玄関を抜けていく。
+  La femme laissa Sōjūrō sur place et passa l'entrée d'un pas impérial.
+
+}
+[sha:f1f381f92d37372093604e2c7e05fc3472753eb5]{
+-- Page 27, Offset 13592.
+-- 「うわ、呆れた。ほんと以前のまんまじゃない。
+「Ouah, j'y crois pas ! Rien n'a changé, ma parole !
+
+}
+[sha:ea43fede809a3b8c5e1bbdec40914bfbe95c2464]{
+-- Page 27, Offset 13593.
+-- せっかくこっちに持ってきたんだから、悪いところは<修復|リフォーム>したものと思ったけど。なにも柱の歪みまで再現しなくてもいいのにねー」
+  Je pensais qu'ils auraient profité de son déplacement jusqu'ici pour le restaurer. Ils n'avaient tout de même pas besoin de reproduire aussi les déformations des piliers !」
+
+}
+[sha:a8c523674e39bc28d780235634e481044a73d45e]{
+-- Page 28, Offset 13594.
+-- 女性は楽しげにロビーを観察する。
+  La femme observait gaiement le vestibule.
+
+}
+[sha:55806699036bac13db21ab85389c33f48272a927]{
+-- Page 28, Offset 13595.
+-- 草十郎は玄関に置き去り状態。
+  Sōjūrō était laissé pour compte.
+
+}
+[sha:3b00a5c28e78d38341aa81bfa71bc14b2ab9d910]{
+-- Page 28, Offset 13596.
+-- <靴|ヒール>の音はロビーを横切って、居間に続く扉に向かっていく。
+  Le bruit des talons traversa le vestibule et se dirigea vers la porte menant au salon.
+
+}
+[sha:b35ccb9dc41b86fad9a06ec2b8b3990de296ce2f]{
+-- Page 29, Offset 13597.
+-- 「どうしたの？　こっちでしょ、居間は」
+「Qu'y a-t-il ? Le salon est par là, non ?」
+
+}
+[sha:4d9db840a9ac3f0dfe5841f88583f0cbb9c737dc]{
+-- Page 29, Offset 13598.
+-- 勝手知ったる<他人|ひと>の家状態で、女性は迷いなく居間に続く廊下に消えていった。
+  La femme fit comme si elle était chez elle et disparut sans hésitation aucune dans le couloir menant au salon.
+
+}
+[sha:21e5613dad525c30794fcb143104a1239a94037b]{
+-- Page 30, Offset 13599.
+-- 「蒼崎か有珠、どっちかの先輩……かな？」
+「C'est peut-être une amie d'Aozaki ou Alice......?」
+
+}
+[sha:48e10ceb2381cad89f446e33c2f1d15b48d1e922]{
+-- Page 30, Offset 13600.
+-- ぽつりと呟いて、草十郎も居間に向かった。
+  murmura Sōjūrō avant de la suivre.
+
+}
+[sha:ff8b0b30a8193680c214cdf430f09ec8b52f4ed6]{
+-- Page 31, Offset 13601.
+-- 草十郎が居間に入ると、女性は感心しきった顔で、居間中を<漫|すず>ろ歩いていた。
+  Lorsqu'il pénétra dans le salon, la femme faisait le tour de la pièce d'un air admiratif,
+
+}
+[sha:bcaef800d7cab83c29976170eea9d789a45f0c56]{
+-- Page 31, Offset 13602.
+-- 公園の並木道を散策するような、
+  comme si elle se promenait sur un chemin bordé d'arbres dans un parc,
+
+}
+[sha:5afbca750c3f6d9d9563c0f0b466a5ce10e91eda]{
+-- Page 31, Offset 13603.
+-- 懐かしい空気を吸って踊りだしそうな、
+  ou comme si une odeur nostalgique lui donnait envie de danser.
+
+}
+[sha:a6f2c95eb4fff17f80dc8fc03136f2093def9ef0]{
+-- Page 31, Offset 13604.
+-- 女性というより少女らしい軽やかさで。
+  Sa frivolité évoquait plus une jeune fille qu'une femme adulte.
+
+}
+[sha:be6deacb792414dbba4ccdfd7434246233af2209]{
+-- Page 32, Offset 13605.
+-- 「ん？　よく見れば、このテレビって―――」
+「Hmm ? En regardant de plus près, cette télé, c'est―――」
+
+}
+[sha:eec68540aef4932c68f49dea1cb9ba3324672c11]{
+-- Page 32, Offset 13606.
+-- ３０インチのテレビが珍しいのか、女性は食い入るように居間に不釣り合いなテレビを見つめた。
+  La femme scruta le poste de télévision 30 pouces qui jurait avec le reste du salon comme pour la dévorer des yeux. Peut-être voyait-elle rarement ce genre d'appareil.
+
+}
+[sha:c80d2899e2821e2453ab3894cd896c3156dacf00]{
+-- Page 33, Offset 13607.
+-- ……間の悪いことに、ブラウン管には流しっぱなしのがくがく動物ランドの映像。
+  ...... Chose embarrassante, la vidéo d'Animal Land passait toujours à l'écran.
+
+}
+[sha:dcdcdf588c5911b06d5ba1e92686f458dbaea64b]{
+-- Page 33, Offset 13608.
+-- ちゃんと停止ボタンを押しておけば良かった、と草十郎は悔やみつつ反省した。
+  J'aurais mieux fait d'appuyer sur le bouton stop, songea Sōjūrō avec regret.
+
+}
+[sha:5947c2131efbbeeb2886ef7c932a7fe202fd8e50]{
+-- Page 34, Offset 13609.
+-- 「あの、もし」
+「Euh, madame...」
+
+}
+[sha:1952e626565e3d293d7e38f3efb18c0e4646a95f]{
+-- Page 34, Offset 13610.
+-- 気を取り直して話しかける。
+  Il se ressaisit puis lui adressa la parole.
+
+}
+[sha:0d563cac8648000734f6c093df68770072a45a28]{
+-- Page 34, Offset 13611.
+-- とりあえず色々問題はある気はするけど、まず<女性|あいて>の名前ぐらいは聞かなければ、と意を決したのだ。
+  J'ai l'impression qu'il y a quelques problèmes, mais je devrais d'abord lui demander son nom, se décida-t-il.
+
+}
+[sha:1f758afc8619ff69e39cfc29822fc789be250133]{
+-- Page 34, Offset 13612.
+-- そんな草十郎に、女性は一転して冷たい視線を向けた。
+  C'est alors que la femme fit volte-face et lui lança un regard glacial.
+
+}
+[sha:d99f87f3134ee7ed499df3f5a7e5eef2f8b8a697]{
+-- Page 34, Offset 13613.
+-- 細く長い眉と、相手を圧倒する瞳が、眼鏡ごしに草十郎を睨む。
+  Les yeux intimidants surmontés de sourcils longs et fins fixaient Sōjūrō au travers de ses lunettes.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 35, Offset 13614.
+-- 「――――――」
+「――――――」
+
+}
+[sha:2df65ffd4a3a4f8208b5f01f52d396a20051a00c]{
+-- Page 35, Offset 13615.
+-- そんなつもりはなかったけど、自分に重大な落ち度があったらしい―――と思うしかない批難の眼差しだった。
+  Il n'en avait pas eu l'intention, mais il devait avoir commis une faute grave, car ceci ne lui évoquait rien d'autre qu'un regard de reproche.
+
+}
+[sha:d7b190d416b354031d26835d49d2d5730169fd02]{
+-- Page 36, Offset 13616.
+-- 草十郎は申し訳なさそうに言葉を失う。
+  Sōjūrō en perdit sa langue, désolé.
+
+}
+[sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
+-- Page 36, Offset 13617.
+-- そこへ、
+  C'est alors qu'elle prit la parole.
+
+}
+[sha:f21f37fb935b12dd9ae3fcbd86578f392c5b9495]{
+-- Page 37, Offset 13618.
+-- 「やだなあ草十郎くん。もし、なんてかしこまって。
+「Voyons, Sōjūrō. Tu es trop respectueux.
+
+}
+[sha:285772b1df443405c6da42114ebd87410388a79d]{
+-- Page 37, Offset 13619.
+-- 私、そんなおばさんに見える？」
+  Est-ce que j'ai l'air d'une vieille femme ?」
+
+}
+[sha:ed6491818fd64861ab01bf22953437f31ffe3018]{
+-- Page 37, Offset 13620.
+-- くすりと。
+  lui fit-elle.
+
+}
+[sha:70a6284eb0be6e65adf106b63d7f49931d21f214]{
+-- Page 37, Offset 13621.
+-- 鋭い眼差しを崩して、からかうように女性は笑った。
+  Son regard perçant s'évanouit et elle rit comme pour le taquiner.
+
+}
+[sha:9ba04070754d1d171880cbc0a71343cafca17a54]{
+-- Page 38, Offset 13622.
+-- もちろんそんな事は全然なくて、比喩するならお姉さんという単語がぴったりくる。
+  Bien sûr, il ne la voyait en aucun cas ainsi. L'image qui conviendrait le mieux pour la définir serait celle d'une “grande sœur”.
+
+}
+[sha:c2876354aa27507d9d3d93a504328242014582fe]{
+-- Page 38, Offset 13623.
+-- そんな気持ちを全身で表現する草十郎に、女性は満足気に微笑んだ。
+  La femme sourit avec satisfaction à Sōjūrō qui exprimait cette pensée de tout son corps.
+
+}
+[sha:778231e2ea369bdb2ae86f3598d23bec57340032]{
+-- Page 39, Offset 13624.
+-- 「よろしい。なら、そんな他人行儀な話し方はやめましょ。つまらないし、<柄|がら>じゃないわ」
+「Bien. Dans ce cas, ne fais pas tant de façons avec moi. Ce n'est ni amusant ni mon genre.」
+
+}
+[sha:d25dd08fd621f5075fbe4253a4bc08019ef2d193]{
+-- Page 39, Offset 13625.
+-- 言って、彼女はソファーに腰を下ろした。
+  dit-elle avant de s'asseoir sur le sofa sans aucun bruit,
+
+}
+[sha:871eb13c81d197b214cc0b40954acf891dc15155]{
+-- Page 39, Offset 13626.
+-- あくまで自然に、優雅に、物音ひとつ立てずに。
+  toujours aussi naturelle et élégante.
+
+}
+[sha:f4e567dcc6fd6a2875df97ec94e3aa1d18f356ba]{
+-- Page 39, Offset 13627.
+-- その、あまりにも洗練された動作と姿勢が、
+  Ses mouvements et sa posture hautement raffinés lui disaient :
+
+}
+[sha:7116153be9142d43d146525eff45a2c4d4ad8a73]{
+-- Page 39, Offset 13628.
+-- 『さあ、早くお茶淹れてきて』と語っている。
+『Allez, dépêche-toi de préparer le thé.』
+
+}
+[sha:3c12b2d67a100e6c9851678df7972711bda10891]{
+-- Page 40, Offset 13629.
+-- 疑問は究明されないまま、仕方なく草十郎は台所に向かった。
+  Ses questions laissées en suspens, Sōjūrō se rendit à contrecœur dans la cuisine.
+
+}
+[sha:4084d41d4fed69ebc86682ae4553ab9b23fc8c7f]{
+-- Page 40, Offset 13630. Glued. Mods: @x.
+-- とにかくお茶を淹れないと話は進まないらしい。
+De toute évidence, la conversation ne progresserait pas tant qu'il n'aurait pas fait de thé.
+
+}
+[sha:034af4d80f01c84cc665e84b95677434076c8217]{
+-- Page 41, Offset 13631.
+-- 葉は以前、無断使用の<咎|とが>で弁償させられたフォションを選んだ。
+  Il choisit les feuilles de thé de marque Fauchon, celles-là mêmes qu'il avait dû rembourser auparavant pour s'en être servi sans permission.
+
+}
+[sha:a7108fb2e25c7c2804a7b4036bc45a199d3fd5be]{
+-- Page 41, Offset 13632.
+-- カップは青子を訪ねてきた人なので、青子の持ち物であるセーブルのカップで紅茶を淹れる事にする。
+  Comme elle venait rendre visite à Aoko, il décida de verser le thé dans la tasse en porcelaine de Sèvres qui appartenait à cette dernière.
+
+}
+[sha:ffa132e2a2c65d21ce1121a4621af0faa42b0366]{
+-- Page 41, Offset 13633.
+-- 深海を思わせるカップにお茶をそそいで、草十郎は居間へとまい戻った。
+  Sōjūrō versa la boisson chaude dans le récipient évoquant les abysses puis revint dans le salon.
+
+}
+[sha:1f2c8b4d84b928f9b7e5546cecde2324c60a43ff]{
+-- Page 42, Offset 13634.
+-- <恭|うやうや>しくティーカップをテーブルにおいて、草十郎は女性を見る。
+  Il plaça révérencieusement la tasse sur la table avant d'observer la femme.
+
+}
+[sha:caacbe92b6d2349f240521bd2d3877c60758a3bf]{
+-- Page 43, Offset 13635.
+-- 「あの。訊ねるのが遅れましたけど、蒼崎の知り合い……かな？」
+「Euh... Je pose la question un peu tard, mais vous êtes une connaissance d'Aozaki... c'est ça ?」
+
+}
+[sha:0296d9ba5516285eb1fe9ee6b5910814cc30a57e]{
+-- Page 43, Offset 13636.
+-- 言われた事はすぐに直す草十郎だが、この女性にはつい丁寧語になってしまった。
+  Sōjūrō avait tendance à appliquer immédiatement ce qu'on lui disait, cependant, il se montrait poli sans le vouloir face à cette femme.
+
+}
+[sha:7abbb5b90a70416c66f5c1d96a4967b5a03a8bc0]{
+-- Page 43, Offset 13637.
+-- ので、強引に語尾を砕けたものにする。
+  Il avait donc dû finir sur une tournure de phrase plus familière.
+
+}
+[sha:caae004297675f88bb3683094f4208493f65dc13]{
+-- Page 43, Offset 13638.
+-- それが不満だったのか、女性はまたも眼差しを険しくした。
+  Peut-être mécontente, elle lui lança de nouveau un regard sévère.
+
+}
+[sha:a48a0bbfd71154b95f3591ed764348b8528d8386]{
+-- Page 44, Offset 13639.
+-- 「それ。その蒼崎って言うの、やめてくれない？　なんだかくすぐったくて。青子でいいでしょ、呼び方は」
+「Dis, tu ne pourrais pas arrêter avec ce “Aozaki” ? Ça me dérange un peu. Tu peux bien l'appeler par son prénom, non ?」
+
+}
+[sha:a28f75c87a94f5ca0c9362bf823ce10bcdc06e7c]{
+-- Page 45, Offset 13640.
+-- 女性はすました顔でカップを手にして、一口だけ口をつけた。
+  La femme saisit la tasse d'un air affecté et but une toute petite gorgée.
+
+}
+[sha:653808abd9a912de4a047612bfb76c3e19d1d873]{
+-- Page 45, Offset 13641.
+-- 青子たちには下手、苦い、と不評なソレを、女性は笑顔ひとつで受け流す。
+  Elle esquissa un sourire et évita tout commentaire sur le thé décrié comme mauvais et amer par Aoko et Alice.
+
+}
+[sha:af1fee5c24dc70540891c434400f076e2bdbe9e0]{
+-- Page 45, Offset 13642.
+-- <結果|あじ>はどうあれ頑張ったで賞、という温情が存在する事を、のちに知る草十郎なのだった。
+  Plus tard, Sōjūrō apprendrait qu'il existait sur terre des esprits indulgents qui récompensaient les efforts, quel que soit le résultat.
+
+}
+[sha:8b92c20aa58abbc9739ea5bd160d65124d136c11]{
+-- Page 46, Offset 13643.
+-- 「ほら、立ってないで座って。
+「Allez, ne reste pas debout, assieds-toi.
+
+}
+[sha:9f518392b0d08b21112e7e712fd80a4624370573]{
+-- Page 46, Offset 13644.
+-- 見下ろされるのは好きじゃないんだ、私」
+  Je n'aime pas que l'on me regarde de haut.」
+
+}
+[sha:e6af4a67b0544f0655f3680ffd715046b664828c]{
+-- Page 46, Offset 13645.
+-- 「……？」
+「......?」
+
+}
+[sha:385a415874a2d3217f98222a11a216f32e41303e]{
+-- Page 46, Offset 13646.
+-- よく知る同居人に似た話し方に、ますます首をかしげる草十郎。
+  Sa façon de parler similaire à celle de ses colocataires rendait Sōjūrō de plus en plus incrédule.
+
+}
+[sha:9c71277ae07dfe81e230b4776278779e8a188f66]{
+-- Page 46, Offset 13647. Glued. Mods: @x.
+-- そう言えば―――唐突ではあるが、この光景にも見覚えのあるような―――
+À regarder de plus près―――c'était soudain, mais il avait une impression de déjà-vu―――
+
+}
+[sha:657443f99652b19198a2ff31fd6fb5ee689cd087]{
+-- Page 47, Offset 13648.
+-- 「…………あれ？」
+「............ Tiens ?」
+
+}
+[sha:99759647c991ad0fb03c5d93f7fce1de8e7378f4]{
+-- Page 47, Offset 13649.
+-- ソファーに座っている女性の姿から、忘れかけていた記憶が蘇る。
+  Tandis qu'il fixait la personne assise sur le sofa, des souvenirs presque oubliés refirent surface.
+
+}
+[sha:3a905d8c01a56578e211991ae04279de008f015a]{
+-- Page 47, Offset 13650.
+-- そんな彼を、女性は楽しげに見上げている。
+  La femme observait avec gaieté les réactions de Sōjūrō.
+
+}
+[sha:1e495b4e11ce87fca0e24c5af0d473eed7cb8493]{
+-- Page 48, Offset 13651.
+-- 「思い出した？　私もちょっと驚いたわ。
+「Ça y est, tu t'en souviens ? Moi aussi, j'ai été quelque peu surprise.
+
+}
+[sha:bd21c4f6c434cfb4f42ecfc030bad0b2c779a58c]{
+-- Page 48, Offset 13652. Glued. Mods: @x.
+-- 青子を訪ねにきたら、いつか見た君が出迎えてくるんだから」
+  Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé une fois auparavant m'accueille.」
+
+}
+[sha:cbba913887736b5e5e5d960bce21f84664554521]{
+-- Page 48, Offset 13653.
+-- 「――――――、あ」
+「――――――Ah.」
+
+}
+[sha:43394e55c152b661fd36041b697f42668b1a12e3]{
+-- Page 49, Offset 13654.
+-- くすくすと笑う女性を見て、草十郎は完全に思い出した。
+  Sa mémoire lui revint complètement quand il vit la femme glousser.
+
+}
+[sha:fd489f291e1ae5f3d701f4dfc495685dcc054e5c]{
+-- Page 49, Offset 13655.
+-- あの時は一瞬しか見ていなかったが、間違いない。
+  La dernière fois, elle portait des lunettes de soleil, mais il n'y avait aucun doute.
+
+}
+[sha:7fe435f49835fe8d35707496f81f8a5c1ae9303f]{
+-- Page 49, Offset 13656.
+-- この女性こそ、いつかのパチンコ屋でフィーバーを出していた長い煙草の<達人|ひと>……！
+  Il s'agissait bien de la femme à la longue cigarette qui raflait le jackpot au pachinko......!
+
+}
+[sha:5740bb495391e2babeaaac6b506f446d82f19828]{
+-- Page 50, Offset 13657.
+-- 「あの時は私もショックだったなぁ。
+「Ce jour-là, j'ai été profondément déconcertée.
+
+}
+[sha:ec6e1bee282e2d0585ca0e53e65affc3c21bee5c]{
+-- Page 50, Offset 13658.
+-- 草十郎くん、目が合うなりいきなり逃げ出したでしょ？
+  Dès que nos yeux se sont croisés, tu as pris tes jambes à ton cou, tu te rappelles ?
+
+}
+[sha:6c50d6fe3f44f5db6ac471a3f1dd55088ce3d87d]{
+-- Page 50, Offset 13659.
+-- そんなに私ってこわもてなのかしらって、あの日の晩は真剣に悩んだんだから」
+  Juste après, je me suis sérieusement demandé si j'étais vraiment si effrayante que ça.」
+
+}
+[sha:5ecbcc4d1d25fa32e7629af475eccea58d729036]{
+-- Page 51, Offset 13660.
+-- そんな思い出話を、女性は楽しそうに語る。
+  La femme racontait joyeusement ce souvenir.
+
+}
+[sha:d05b0c2f49aeb08693a6e6f96945ff99a2794aa9]{
+-- Page 51, Offset 13661.
+-- そう。あの時は青子の秘密を知った翌日で、草十郎は公園にいた<青子|ひとかげ>を、この女性と勘違いして逃げだしたのだ。
+  Oui. Le lendemain de la découverte du secret d'Aoko, il avait pris cette femme pour la fille du parc et s'était enfui.
+
+}
+[sha:e86e1b2b7d6e95577d8055a84f5a29121a6fd2ad]{
+-- Page 51, Offset 13662.
+-- 結局は人違いだったけど、あの時、なぜあんな事を思ったかと言うと―――
+  Finalement, il y avait eu erreur sur la personne, mais s'il les avait confondues cette fois-là, c'était parce que―――
+
+}
+[sha:5400efdd193440800cea1670b97d8f331ce027dc]{
+-- Page 52, Offset 13663.
+-- 『……そうか。雰囲気が似てるんだ』
+『...... Mais oui ! Elles dégagent la même aura.』
+
+}
+[sha:21541b27ff2f6af26f7c834fe053061e7e5e2488]{
+-- Page 52, Offset 13664.
+-- そこまで思って、草十郎はやっと来客の正体に気が付いた。ちょっと考えればすぐに分かった事じゃないか、と自分を叱りながら。
+  Là-dessus, Sōjūrō réalisa enfin qui était la visiteuse. Si j'y avais un peu réfléchi, je m'en serais tout de suite rendu compte, se morigéna-t-il.
+
+}
+[sha:d363734e07e2f48e29b716c1b582e3e06bc5a66f]{
+-- Page 53, Offset 13665.
+-- 「それじゃあ、あなたは」
+「Alors, vous êtes...」
+
+}
+[sha:5d41bf278f0580959827628ffc93cf7fea2e5421]{
+-- Page 53, Offset 13666.
+-- 言い掛ける草十郎の口を塞ぐように、女性は片手を上げた。
+  La femme leva une main comme pour sceller les lèvres en mouvement du jeune homme,
+
+}
+[sha:9b79709e09f3a9b1684f47e4abd379b399c97444]{
+-- Page 53, Offset 13667.
+-- 人差し指で草十郎の顔をばん、と射つように。
+  ou pour lui tirer dans le front avec l'index.
+
+}
+[sha:9c99346b6bfdb1a24d458bf2d8abf4b4af32973e]{
+-- Page 54, Offset 13668.
+-- 「ごめんなさい。君の仕草がちょっと可愛くて、からかいがすぎちゃった。
+「Excuse-moi. Tes expressions sont si mignonnes que j'ai fini par te taquiner un peu trop.
+
+}
+[sha:759cffda49d58e47b7ea9156b7fbe2788eca30d0]{
+-- Page 54, Offset 13669.
+-- 自己紹介が遅れたけど、私は蒼崎<橙子|とうこ>。
+  Ma présentation est un peu tardive, mais je m'appelle Aozaki Tōko.
+
+}
+[sha:ec68c0f8c6696724983fa305325a0f56061068c9]{
+-- Page 54, Offset 13670.
+-- 率直に言うと、青子の実の姉ってワケね」
+  Pour tout te dire, je suis la grande sœur d'Aoko.」
+
+}
+[sha:bc8065401e035731ba3da661e741a942ebc18ab3]{
+-- Page 55, Offset 13671.
+-- なるほど、見惚れるはずだと納得する。
+  Je vois, pas étonnant qu'elle me fascine, réalisa-t-il.
+
+}
+[sha:d2b6f9550f4688de8fdfd7c59ab79001edd73638]{
+-- Page 55, Offset 13672.
+-- 見るものを勇気づける笑顔を持った女性は、確かに青子の未来の姿を映していたのだから。
+  En effet, cette femme au sourire encourageant projetait bien l'image future d'Aoko.
+
+}
+[sha:a5837334ddf43f99603a5e4df5300747186a8d63]{
+-- Page 56, Offset 13673.
+-- ……もっとも。
+  ...... Cependant,
+
+}
+[sha:6981b90484cec6c4e86ac6279b06954cf8cd9d87]{
+-- Page 56, Offset 13674.
+-- 常に前向きな青子と違って、この人物はななめ前あたりを面白がって眺めているタイプのようだけど。
+  contrairement à Aoko, constamment positive, cette personne semblait du genre à observer la personne en face d'elle d'un œil amusé.
+
+}
+[sha:ee7a8dd30c0b41c2d78e7ec39352ab6dfb651772]{
+-- Page 57, Offset 13675.
+-- 「あの子が困ってるって聞いてね。
+「J'ai entendu dire qu'elle avait des problèmes.
+
+}
+[sha:8562c2b19720faf215758361caa0df8714f86aef]{
+-- Page 57, Offset 13676.
+-- いいかげん忠告してあげる気で、はるばるやってきたわけなのでした」
+  Et j'ai fini par venir de loin pour lui donner quelques conseils.」
+
+}
+[sha:3d2fae6dd004afc86ec1a6b63f32a90d1b5b209b]{
+-- Page 57, Offset 13677.
+-- ふふ、と妖しい笑みを浮かべて、青子のお姉さんは紅茶を一口。
+  Un sourire suspect aux lèvres, la grande sœur d'Aoko avala une gorgée de thé.
+
+}
+[sha:a025944bf9c3d1952020b5684a64a90e573ac5e1]{
+-- Page 57, Offset 13678.
+-- その仕草に釣られて、草十郎もソファーに腰を下ろした。急な来客に驚いてばかりだったが、そういうコトなら安心できる。
+  Séduit par son comportement, Sōjūrō s'assit sur le sofa. La visiteuse arrivée à l'improviste ne cessait de le surprendre, mais vu les circonstances, il pouvait être rassuré.
+
+}
+[sha:52f2a7ef2362b74ed5378ddbed764d1054e20207]{
+-- Page 58, Offset 13679.
+-- そうして、時刻は午後五時前。
+  Il était à présent cinq heures du soir.
+
+}
+[sha:7b17b715420a35f969b8bcb20aa98c04190e8aa0]{
+-- Page 58, Offset 13680.
+-- 遠出した青子たちも、そろそろ帰途につく頃だった。
+  Aoko et Alice, parties à l'aventure, devaient bientôt rentrer à la maison.
+
+}

@@ -1,0 +1,102 @@
+[sha:6cc29d5ce2b09a2f1df23241371ba286d32b9ed8]{
+-- Page 0, Offset 21429.
+-- 意味のない行動をすると決めた。
+  Je décidai d'aller me promener sans but particulier.
+
+}
+[sha:4ea252c73802dbf85462295bea82c737a50acef0]{
+-- Page 0, Offset 21430.
+-- いや、ほんとに意図はない。思いつき以下の、１００パー気まぐれ、気の迷い。
+  Je n'avais vraiment aucune arrière-pensée. On ne pouvait même pas parler d'inspiration soudaine, car ce n'était qu'un simple coup de tête.
+
+}
+[sha:1e2c2b7cc3c353beee512ccd364fc2406dadfe27]{
+-- Page 1, Offset 21431.
+-- 「ちょっと落とし物したかも。外を捜してくるから、先に居間に行っていて」
+「Je crois que j'ai perdu quelque chose. Partez devant, je vais chercher dehors.」
+
+}
+[sha:ee0b04087a788ccb59c4e605f0aa54abbcb5a546]{
+-- Page 1, Offset 21432.
+-- 「外に戻るの？　それなら私も行くわ」
+「Tu ressors ? Dans ce cas, je t'accompagne.」
+
+}
+[sha:07160be8d06968b7cceacdcfe542d79ebf2a33d5]{
+-- Page 2, Offset 21433. Mods: @k, @e.
+-- 「えー。なにいってんだよ会長、落とし物したのは金鹿のドジだろ、会長関係ねぇーじゃん。
+「Hein ? Qu'est-ce que tu racontes, présidente ? C'est sa faute si elle a perdu un truc. Tu n'y es pour rien.
+
+}
+[sha:627c2ed8e98a47d55c25e2c5192eaf055c133517]{
+-- Page 2, Offset 21434.
+-- それより居間に来てくれよー。会長がいないと有珠ちゃんになに話していいか分かんないよー」
+  Viens plutôt dans le salon~ Sans toi, je ne sais pas de quoi parler avec Alice~」
+
+}
+[sha:b908da835d2206c85e8ff45b7c7c4c0f522b3458]{
+-- Page 3, Offset 21435.
+-- 「え……でも、クマひとりには、」
+「Hein ? Mais je ne peux pas laisser Kuma seule...」
+
+}
+[sha:eb0b7e0cd66121c7b28d2c3407a0d959212c4d0d]{
+-- Page 3, Offset 21436.
+-- 「蒼崎くん、とりあえず居間まで案内してくれません？　このロビー、ちょっと冷えますので」
+「Aozaki, pourrais-tu d'abord nous guider jusqu'au salon ? Il fait plutôt froid dans ce vestibule.」
+
+}
+[sha:da5328ee708bbe92e2ba2622f055ed17028deaca]{
+-- Page 3, Offset 21437.
+-- 「いや、でもゲストをひとりっきりにするワケには」
+「Oui, mais je ne peux pas abandonner une invitée...」
+
+}
+[sha:a312de7bdb92518b798f960db3b16b43d5079176]{
+-- Page 3, Offset 21438.
+-- 「いいって、気にしないで。すぐに戻るから。
+「C'est bon, ne t'en fais pas. Je reviens tout de suite.
+
+}
+[sha:4b09e942608ab4050404b93467ecc19fb9a65103]{
+-- Page 3, Offset 21439.
+-- 芳助、荷物返して。やっぱり自分で持つ」
+  Hōsuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
+
+}
+[sha:59e4b9f4ee315da5758842e612836e8b5ffb5d8d]{
+-- Page 4, Offset 21440.
+-- 蒼崎を振り切るかたちで外に向かう。
+  Je me dirigeai vers la sortie après avoir refusé l'offre d'Aozaki.
+
+}
+[sha:55c2cea70c18b08f26b8572d31fc85c0570508e5]{
+-- Page 4, Offset 21441.
+-- 外に出て洋館の周りの森を、目的もなく観察する。
+  Une fois à l'extérieur, je jetai un coup d'œil à la forêt autour du manoir.
+
+}
+[sha:bb0329b7226322d616ab7187dbb5fb73ac264c4c]{
+-- Page 4, Offset 21442.
+-- 人気はなく、天気はますます曇っていく。
+  Sous un ciel de plus en plus menaçant, les environs étaient déserts.
+
+}
+[sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
+-- Page 4, Offset 21443.
+-- 「？」
+「?」
+
+}
+[sha:64e96bbace487ef24c7f65f4609e710d19bb5b42]{
+-- Page 4, Offset 21444.
+-- しかし、ふと、視線を感じた。
+  Pourtant, je sentais qu'on m'observait.
+
+}
+[sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
+-- Page 4, Offset 21445.
+-- わたしは―――
+  Je―――
+
+}

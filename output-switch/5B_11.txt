@@ -1,0 +1,132 @@
+[sha:384c13da59f83eaa8f6f6c30c10328808490631a]{
+-- Page 0, Offset 5799.
+-- 密談は十分で終わった。
+  Leur entretien secret prit fin au bout de dix minutes.
+
+}
+[sha:22adf444a290dad11e40b2eb42e2f64d48e947f3]{
+-- Page 0, Offset 5800.
+-- スナーク本体の考察と、その撃破方法を導きだして、ふたりは互いの役割に頷きあう。
+  Après avoir réfléchi sur le vrai corps du Snark et sur la stratégie à mettre en œuvre pour le vaincre, ils se mirent d'accord sur leurs rôles respectifs.
+
+}
+[sha:b7740a715e7876b7c0b659e59db200f498492a4a]{
+-- Page 1, Offset 5801.
+-- 「それじゃ、ここからは別行動ね。
+「Bon, maintenant, on se sépare.
+
+}
+[sha:c3b4fc20785137b7179bbe085c8604d094784915]{
+-- Page 1, Offset 5802.
+-- でもミラーハウスの時みたいなのは勘弁してよ。この作戦の<肝|きも>は貴方なんだから。開始一分でドジったら、ホントに打つ手なしだからね」
+  Mais évite de faire la même chose que dans le palais des glaces. Après tout, la clef de voûte de ce plan, c'est toi. Si tu te plantes dès la première minute, il n'y aura vraiment plus aucun moyen de s'en sortir.」
+
+}
+[sha:f063bb5ef43815741441c9168aaca937673772fb]{
+-- Page 2, Offset 5803.
+-- ミラーハウスでの囮役失敗の件をチクチクとつつく青子だが、その声は明るい。
+  Aoko le critiquait à propos de son échec en tant qu'appât dans le palais des glaces, mais sa voix était guillerette.
+
+}
+[sha:2032108a8b13fb3c77f00214c69234c5f38278b3]{
+-- Page 2, Offset 5804.
+-- 草十郎の発見からこっち、彼女本来の力強さが戻っている。
+  Depuis la révélation de Sōjūrō, toutes ses forces lui étaient revenues.
+
+}
+[sha:ad09f4f645e76515bfaea0012b08aa017f025973]{
+-- Page 3, Offset 5805.
+-- 一方、草十郎も彼なりに真剣だ。
+  Quant à lui, il se montrait aussi sérieux que possible.
+
+}
+[sha:3fea067bc4aa0202e6fe60502815173913347854]{
+-- Page 3, Offset 5806.
+-- 青子の注意を真面目に受けとめている。
+  Il accepta avec humilité l'avertissement d'Aoko.
+
+}
+[sha:3d8425d23106d31681704bfbb1ab7eacae3c75c3]{
+-- Page 4, Offset 5807.
+-- 「……ならいいけど。いい、さっきと立場は反対よ。
+「...... Dans ce cas, ça va. Tu as compris ? Nos positions sont inversées par rapport à tout à l'heure.
+
+}
+[sha:fe6e0b556d74134828dfd12c89b2a863407c8196]{
+-- Page 4, Offset 5808.
+-- 失敗したら死ぬのは私じゃなくてそっち。もうフォローに回れないから、できるだけ慎重にね」
+  Si tu échoues, ce n'est pas moi qui mourrai, mais toi. Je ne serai plus là pour te protéger, alors sois aussi prudent que possible.」
+
+}
+[sha:dd72ba8aaabefec2606f853e9c2e391479e66d59]{
+-- Page 5, Offset 5809.
+-- 「分かってる。いまさらながら、やっぱりさっき逃がしてもらえば良かったと思うぐらい、慎重だ」
+「Je sais. C'est un peu tard, mais à présent, je suis suffisamment prudent pour me dire que j'aurais mieux fait de m'enfuir tout à l'heure.」
+
+}
+[sha:6b37c7d88d3b1848908202ed49a8385ee76f9f1d]{
+-- Page 5, Offset 5810.
+-- 任せてくれ、と頷く草十郎。恨み言のような台詞だが、彼なりに決意を表しているらしい。
+  “Laisse-moi faire”, acquiesça Sōjūrō. Sa phrase pouvait faire croire qu'il protestait, mais elle montrait en fait sa détermination.
+
+}
+[sha:13b834b44af6acd03a4d2b2e64e48da8d5572839]{
+-- Page 5, Offset 5811.
+-- ちぐはぐで分かりづらい草十郎の仕草に、青子はまったく、と降参するようなため息ひとつ。
+  “Franchement...” dit Aoko en soupirant, comme si elle abdiquait devant le comportement abscons de Sōjūrō.
+
+}
+[sha:5f381cad6c1a2e9a8a84d4856e84709900b3d621]{
+-- Page 6, Offset 5812.
+-- 「ほんと、大バカなんだか大物なんだか。
+「Franchement, c'est à se demander si tu es un type incroyable ou juste un gros débile.
+
+}
+[sha:c1d16d6a828591f2fcaee485e6db20c014fc61dd]{
+-- Page 6, Offset 5813.
+-- ―――でも任せた。期待してるわ、静希君」
+  ―――Mais je te laisse faire. Je place mes espoirs en toi, Shizuki.」
+
+}
+[sha:6e7453935bdabb3a6f05cc14a3dc81f769fd9162]{
+-- Page 6, Offset 5814.
+-- 信じている、と返してやりたかったが、さすがにそれは気恥ずかしかったらしい。
+  Elle voulait lui répondre qu'elle lui faisait confiance, mais c'était manifestement un peu trop embarrassant pour elle.
+
+}
+[sha:fb19f72936db1fc0626516c84ca0c95f53a3f7ca]{
+-- Page 7, Offset 5815.
+-- 青子は草十郎に背を向けて走り出す。
+  Aoko tourna le dos à Sōjūrō et se mit à courir,
+
+}
+[sha:0cae079121864ef5ff398fd27cb7f94261547d66]{
+-- Page 7, Offset 5816.
+-- まあ、こういう風にペースを崩されるのも、たまにはいいかもしれない、なんて思いながら。
+  pensant que ce n'était peut-être pas si mal de se retrouver ainsi déboussolée de temps en temps.
+
+}
+[sha:0e9f170736b26e5df32de75489aa2c87a7bcb5f2]{
+-- Page 8, Offset 5817.
+-- ―――休憩は終わりを告げた。
+  ―――L'interlude touchait à sa fin.
+
+}
+[sha:9365ec818218f9c6fa402311508e7aefec685c4f]{
+-- Page 8, Offset 5818.
+-- 未熟な役者に新たな脚本が手渡される。
+  Un nouveau scénario avait été confié aux jeunes acteurs.
+
+}
+[sha:e148c2546920462a96b7c6af93bd81853b6802f6]{
+-- Page 8, Offset 5819.
+-- さて、結果はどうあれ。
+  Eh bien, quelle qu'en serait l'issue,
+
+}
+[sha:6db8e9de186468c48aaf39ec18c467072b86d7e3]{
+-- Page 8, Offset 5820.
+-- 長かった魔法使いの夜は、最後の幕に入ったらしい。
+  la longue nuit des magiciens semblait être entrée dans son dernier acte.
+
+}

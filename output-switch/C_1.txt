@@ -1,0 +1,1386 @@
+[sha:a868a3677808352dfd456203565abeb2a5c1af7f]{
+-- Page 0, Offset 16787.
+-- 午後七時過ぎ。
+  Il était sept heures du soir passées.
+
+}
+[sha:c81d99be036bdb05976a124f0ab09a04ba01de3f]{
+-- Page 0, Offset 16788.
+-- 三咲高校の校舎は、完全に<睡没|すいぼつ>していた。
+  L'établissement du lycée Misaki était plongé dans un sommeil de plomb.
+
+}
+[sha:4e13d71e703f2b336858b20f258cf570a9f573d9]{
+-- Page 0, Offset 16789.
+-- 街から夜の明かりは届いているものの、校舎周辺の山林は静まりかえっている。
+  Les lueurs de la ville atteignaient le bâtiment, mais un silence profond régnait dans la forêt alentour.
+
+}
+[sha:c2457aa76ef69084d7e1dcb35269aaea93902f26]{
+-- Page 1, Offset 16790.
+-- それも無理からぬ事だ。
+  Cela n'avait néanmoins rien d'étonnant.
+
+}
+[sha:faf1ea61fdbcd8c1a5a6f483901ba839cb6c9110]{
+-- Page 1, Offset 16791.
+-- 冬休み中、校舎は数えるほどしか使われておらず、校庭は昨夜からの雪に包まれている。
+  Pendant les vacances de Noël, on pouvait compter sur les doigts d'une main le nombre de fois où l'école était utilisée. De plus, la cour était recouverte d'une couche formée par la neige qui tombait depuis la veille.
+
+}
+[sha:edf1ace58793ceac4dca47cc17e1c4e2bd210366]{
+-- Page 1, Offset 16792.
+-- ……使う者のいない建造物は、その時点で<慰霊碑|モニュメント>と変わらなくなる。
+  ...... Dès lors, le bâtiment désert ne différait en rien d'un monument aux morts.
+
+}
+[sha:eb4191770452fd591d6b7d60de354371fdb0e43c]{
+-- Page 1, Offset 16793.
+-- いま死者に近いこの建物は、新学期まで息を吹き返す事はない。
+  La bâtisse à présent semblable à un défunt ne reprendrait pas vie avant la rentrée des classes.
+
+}
+[sha:c5a82aab00c6ee402f04ec37db4a2699a4e1f9fb]{
+-- Page 2, Offset 16794.
+-- その背後に広がる森は、更に闇を増している。
+  Les ténèbres de la forêt qui s'étendait derrière le bâtiment étaient encore plus denses.
+
+}
+[sha:131515d950b0f26f04c125ff4c51ab61a3575d76]{
+-- Page 2, Offset 16795.
+-- 二週間たらずの休みで校舎が死に絶えるのなら、数年にわたり忘れ去られてきた森は如何なるものか。
+  Si l'école s'éteignait en seulement deux semaines de vacances, alors qu'en était-il pour le bois oublié depuis des années ?
+
+}
+[sha:81d3a646f9b3c9997647533df521177a941e136d]{
+-- Page 3, Offset 16796.
+-- 木々の壁の向こうは、街の喧噪はおろか、月明かりでさえ入れずにいる。
+  Ni le tumulte de la ville ni le clair de lune ne parvenaient à filtrer au travers du mur d'arbres.
+
+}
+[sha:40ca50410cefb42afcf5f2a2e1a83dac65bbd65b]{
+-- Page 3, Offset 16797.
+-- 人々の住まう町から、三キロも離れていない魔境。
+  C'était un autre monde situé à trois kilomètres à peine d'une ville habitée.
+
+}
+[sha:d89f14a1af1fd4a4e17236501d4d2c0e7c055ae3]{
+-- Page 3, Offset 16798.
+-- そんな、しんしんと凍てつく夜気の中、新雪を踏みしだく足音が二つ。
+  Deux paires de jambes foulaient la neige fraîche en cette nuit glaciale.
+
+}
+[sha:3cdacbba15f2d031b52010e21c88868a26614262]{
+-- Page 4, Offset 16799.
+-- 「このあたりに仕掛けはなさそうね。
+「Il ne semble pas y avoir de pièges dans les parages.
+
+}
+[sha:fe219edea13b336258bbce29992d68c26bfa3515]{
+-- Page 4, Offset 16800.
+-- ……それで、どうするの？　このまま旧校舎に忍びこむ？」
+  ...... Alors, que proposes-tu ? Pourquoi ne pas nous introduire en douce dans l'ancien établissement ?」
+
+}
+[sha:824642c22e5d8e59901f2ad0b9308c7977488fb1]{
+-- Page 5, Offset 16801.
+-- 「まさか。私らがやってきたコトなんて、とっくにバレてるわ。
+「Non. Ça fait un bail qu'elle sait qu'on arrive.
+
+}
+[sha:3f34dd929625aef7c00aa703a019f417f5ef190c]{
+-- Page 5, Offset 16802. Glued. Mods: @x.
+-- 隠れても意味はないし、なにより、敵の<工房|アジト>に入ってどうするのよ。盗みが目的じゃないでしょ、今回は」
+Avancer à couvert n'aurait aucun sens, et surtout, à quoi bon s'infiltrer dans la base de l'ennemi ? Cette fois, notre objectif n'est pas le vol, tu as oublié ?」
+
+}
+[sha:b276abc52d9c167c6bbb9afaf58dfb33aa0e0b4f]{
+-- Page 6, Offset 16803.
+-- 「……後ろから斬りつけるのは、強盗と言うのじゃなくて？」
+「...... Attaquer par-derrière, ce n'est pas la méthode des bandits ?」
+
+}
+[sha:1335fa87e7dcf46afdb1f3a4dc4f2699f16638b2]{
+-- Page 7, Offset 16804.
+-- 「……それができれば苦労はないんだけどね。まあ、忍者の真似事は私……というか、有珠の芸風じゃないでしょ。
+「...... Si on pouvait faire ça, ça simplifierait les choses. Il faut aussi dire que jouer les ninjas, ce n'est pas mon...... ou plutôt, ce n'est pas trop ton style Alice, n'est-ce pas ?
+
+}
+[sha:f7e74257c957aba815e82307845114445ee3a18e]{
+-- Page 7, Offset 16805.
+-- そもそも―――」
+  Et puis―――」
+
+}
+[sha:cd10ebd06bd360eb6454aed107085fd0d6cc9650]{
+-- Page 8, Offset 16806.
+-- 「―――そもそも。
+「―――Et puis,
+
+}
+[sha:2f4bc6f30bfdc9712f337087df36175ef2aac2ca]{
+-- Page 8, Offset 16807.
+-- やる気満々なのは、こっちもあっちも同じってコト」
+  nous sommes tout autant prêts à en découdre les uns que les autres.」
+
+}
+[sha:c1fc5ac2c337dab7788256e73d5fa76eeacf0d45]{
+-- Page 8, Offset 16808.
+-- 雪を踏むふたりの足音が、言い合わせたように停止する。
+  Le crissement de leurs pas sur la neige s'arrêta en même temps, comme si les deux filles s'étaient entendues à l'avance.
+
+}
+[sha:526808385c7073c1a70e4171394d2914a4afcaee]{
+-- Page 9, Offset 16809.
+-- 三咲高校の裏山に残る旧校舎。
+  Devant l'ancien établissement qui languissait à l'arrière de la colline du lycée Misaki,
+
+}
+[sha:2c3aca598a6fa6bbadace655050a3eff5b4cd084]{
+-- Page 9, Offset 16810.
+-- かつての<校庭|グラウンド>は一面の雪原となっていた。
+  la vieille cour s'était transformée en champ de neige.
+
+}
+[sha:87e5b17307b5f9b5922218f79f757996a2f8decc]{
+-- Page 9, Offset 16811.
+-- 森に取り残された建物は、もの言わぬ死者のようだ。
+  Le bâtiment abandonné dans la forêt évoquait un mort silencieux.
+
+}
+[sha:ccf4010cbd22a80e1e297f0ec079f32c397d259b]{
+-- Page 9, Offset 16812.
+-- そんな時代の残骸を<祀|まつ>るように、木々は壁となって周囲を<覆|おお>っている。
+  Les arbres formaient un mur et entouraient les lieux comme pour vénérer ces ruines d'une autre époque.
+
+}
+[sha:d7838c03af03f2dd8bdaf6eb9dd78f6d148a92c8]{
+-- Page 10, Offset 16813.
+-- 「せっかちなお嬢さん<方|がた>だ。タイムリミットまで、あと四時間はあるというのに」
+「Vous êtes des jeunes filles bien pressées. Il vous reste pourtant encore quatre bonnes heures avant la limite.」
+
+}
+[sha:a99c499d61701358ba5770b1c44061c5d945b395]{
+-- Page 10, Offset 16814.
+-- その白い祭壇の中心に、橙色の魔術師が一人。
+  Au centre de cet autel immaculé se trouvait la Mage orange, seule.
+
+}
+[sha:45ec18b01763eacd6301be41f34848077f63a02c]{
+-- Page 10, Offset 16815.
+-- 森を抜けてきた少女―――蒼崎青子はわずかに腰を落として、遠方の標的を睨む。
+  La fille sortie de la forêt, Aozaki Aoko, se mit légèrement sur ses gardes et fixa sa cible au loin.
+
+}
+[sha:e6a7138f3dbba929c132ac807d502d22e6d52765]{
+-- Page 10, Offset 16816.
+-- 青子の<傍|かたわ>らに立つ久遠寺有珠は指一本動かさない。
+  Kuonji Alice, qui se tenait tout près, ne bougeait pas d'un pouce.
+
+}
+[sha:996ce7108846e92227c980fabc1ad578a9dd13f5]{
+-- Page 11, Offset 16817.
+-- 枝葉を落とした木々の影は<茨|いばら>を思わせる。
+  Les ombres des arbres nus évoquaient des épines.
+
+}
+[sha:595e22e69279af75305f323594c82edcfd2d375f]{
+-- Page 11, Offset 16818.
+-- 眠り続ける姫の童話を連想した青子だが、あの魔術師はお姫さまほど<幸福|しあわせ>な性格はしていなかったらしい。
+  Le paysage rappelait à Aoko le conte de la Belle au bois dormant, mais leur ennemie ne semblait pas être aussi écervelée que la princesse dudit conte.
+
+}
+[sha:0bff2baf050ac86dd2a4744567cc7e194c7b34b4]{
+-- Page 11, Offset 16819.
+-- 王子を待つのも、眠っているのも性に合わない、と。
+  Attendre le prince charmant ou piquer un petit somme ne lui convenait manifestement guère,
+
+}
+[sha:508b03976086aca5d65a1c8eb3ad90e15a4665be]{
+-- Page 11, Offset 16820.
+-- 旧校舎という城に棲んでいた姫は、現れた挑戦者を堂々と出迎えたのだから。
+  puisque la princesse du château aux allures d'ancienne école accueillait ouvertement ses adversaires.
+
+}
+[sha:411cf50744f25770f080d5207078b19446aa1caf]{
+-- Page 12, Offset 16821.
+-- 「その体で無理をして。
+「Tu ne devrais pas te surmener dans ton état.
+
+}
+[sha:9809fbfaaa7f40f7d5488f19efe2618ca082166b]{
+-- Page 12, Offset 16822.
+-- 貴女のそういうところ、姉としてどうかと思うわ青子」
+  Si tu veux l'avis de ta grande sœur, cette facette de ta personnalité est aberrante, Aoko.」
+
+}
+[sha:60b4f4de44877977fa5c5978f194c21c7b81c942]{
+-- Page 12, Offset 16823.
+-- 橙子は微笑みを浮かべている。
+  Tōko affichait un grand sourire.
+
+}
+[sha:4fbdd8653fcf445bd4cf6c4f0c63b93a86b5d4ad]{
+-- Page 12, Offset 16824.
+-- 文句のひとつでも返したい青子だが、ここは我慢と口を<噤|つぐ>んだ。
+  Aoko aurait voulu lui lancer une réplique bien sentie, mais elle se maîtrisa et garda le silence.
+
+}
+[sha:2aa09a3d5ab995afafc29c28a57a236a5068ce78]{
+-- Page 12, Offset 16825.
+-- 有珠は一律で無言。両者の因縁に関心はないと、その態度で示している。
+  Alice restait parfaitement muette. Elle montrait par là n'avoir aucune espèce d'intérêt pour leur relation conflictuelle.
+
+}
+[sha:bf99ad47167776ba2c56abc1baef400d93c4efaf]{
+-- Page 13, Offset 16826.
+-- 両陣営の距離は三十メートルほど。
+  Les deux camps ennemis étaient éloignés d'une trentaine de mètres.
+
+}
+[sha:1eb0ea7f77f219e42974a4e45373a56c0bd5aba3]{
+-- Page 13, Offset 16827.
+-- 互いの声が届くのは森の静けさと、魔術によって強化された五感の<賜|たまもの>だ。
+  Les Mages parvenaient à s'entendre grâce à la quiétude de la forêt et à leurs cinq sens renforcés par leurs dons magiques.
+
+}
+[sha:6e71a33e965ddcd7d7353fc40e469bfc2dc705fb]{
+-- Page 13, Offset 16828.
+-- 蒼崎橙子の<傍|かたわ>らに金狼の姿はない。
+  Le loup doré ne se trouvait pas aux côtés d'Aozaki Tōko.
+
+}
+[sha:2ecf61e3fc2d95cd36bc3b1d28e301eefb483254]{
+-- Page 13, Offset 16829.
+-- 彼女は体ひとつで青子たちと対峙している。
+  Elle se tenait seule face aux deux Mages.
+
+}
+[sha:c15535125b2a0422df007996c551936d9517e4a4]{
+-- Page 14, Offset 16830.
+-- 有珠は黒い<外套|コート>に帽子をかぶった、典型的な魔術戦の出で立ち。
+  Alice portait une tenue typique des batailles de Mages : un bonnet et un manteau noir.
+
+}
+[sha:f2d2ad642ca75e7957e5a02d55a1ec4639fee970]{
+-- Page 14, Offset 16831.
+-- その有珠より半歩前に出ている青子の服装は、場にそぐわない事この上ない、三咲高校の学生服だ。
+  Aoko, qui se tenait légèrement devant son amie, était vêtue de l'uniforme du lycée Misaki, ce qui était pour le moins inapproprié à la situation.
+
+}
+[sha:df7fb0b4faa13a7d58eb06aa3864b486456fc0c6]{
+-- Page 15, Offset 16832.
+-- 有珠に着替えを持ってくるよう頼んだところ、何を勘違いしたのか、私服ではなく制服を持ってきた為である。
+  Elle avait demandé à Alice de lui rapporter des vêtements de rechange, mais celle-ci avait apparemment mal interprété sa requête et lui avait ramené son uniforme au lieu de ses habits normaux.
+
+}
+[sha:f592ef43e2b8f0c4bc42586919e181a3a3ed4cdd]{
+-- Page 15, Offset 16833.
+-- そんな些細な事情なのだが、橙子は特別な意味があると見たらしい。
+  Ce détail était donc purement anecdotique, mais Tōko semblait y voir une signification particulière.
+
+}
+[sha:16614bcdb76118a86a7d19dbe46cb8b8e6102da1]{
+-- Page 16, Offset 16834.
+-- 「ところで、始める前にひとついいかな。
+「Au fait, je peux te demander d'éclaircir un détail avant de commencer ?
+
+}
+[sha:0c034efdcc4df6fc333b1387ce460d05c09bcc55]{
+-- Page 16, Offset 16835.
+-- 気になって仕方がないし、この先、機会もないだろうから訊くんだけど……貴女の戦闘服ってそれなの、青子？」
+  Ça m'intrigue énormément, et vu que je n'en aurai sûrement plus l'occasion, je préfère te poser la question tout de suite... C'est ça ta tenue de combat, Aoko ?」
+
+}
+[sha:e663ae5c627b9e64461623389fb75531b691d7c8]{
+-- Page 17, Offset 16836.
+-- 離れた距離も関係なく、橙子の声はよく響いた。
+  Sa voix retentit bien malgré la distance qui les séparait.
+
+}
+[sha:13ab7771b24a635c2830f1b7a5d71c07c488208e]{
+-- Page 17, Offset 16837.
+-- 心底から不快そうな、侮辱というより軽蔑すらこもった<韻|いん>も、のこさず聞き取れる。
+  Elle parla sur un ton que l'on aurait pu qualifier de profondément antipathique, insultant, voire méprisant.
+
+}
+[sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
+-- Page 17, Offset 16838.
+-- 「………………」
+「..................」
+
+}
+[sha:d1d7ed1300b7f4bdb482073b7c150d0c28a0df84]{
+-- Page 17, Offset 16839.
+-- 無駄話はせず、ほぼ奇襲のカタチで橙子を仕留めるつもりだった青子だが、さすがに今のは無視できない。
+  Aoko avait l'intention d'éliminer Tōko avec une attaque-surprise, sans parlottes inutiles, mais il lui était tout simplement impossible d'ignorer cette réplique.
+
+}
+[sha:0535a20900b10efeeb77671ea732fdb75a04ebab]{
+-- Page 18, Offset 16840.
+-- 「そんなワケないでしょ。今までこういう機会が多かっただけよ。数えるなら今日を含めて四回しかないわ。
+「Bien sûr que non ! C'est simplement que j'ai été amenée plusieurs fois à la porter dans ce genre d'occasions. Et en comptant aujourd'hui, ça ne fait que quatre fois.
+
+}
+[sha:bb728fc13be2e1fff46e4cb3f106b2e531a66ebf]{
+-- Page 18, Offset 16841.
+-- ……ま、私はまだ<現|・><役|・>だからそれも悪くはないかもしれないけど？　いつか流行るでしょ、こういうのも」
+  ...... Et puis, je suis encore lycéenne, alors ce n'est peut-être pas plus mal, non ? Un jour, ça pourrait même devenir à la mode.」
+
+}
+[sha:7e1a42e5fa22316e86e3cf8f82a99f970b70fb9e]{
+-- Page 18, Offset 16842.
+-- 現役、という単語を強調する青子。
+  Aoko avait insisté sur le mot “lycéenne”.
+
+}
+[sha:a2748528f7049d1a6fc10320daa6f545c37d2b83]{
+-- Page 18, Offset 16843.
+-- 一瞬、橙子の瞳が青子もかくやといった鋭さを帯びた。
+  Durant un court instant, le regard de Tōko fut aussi tranchant que celui de sa cadette.
+
+}
+[sha:be5f7478f28821cd3b6cb9a3a1a09e45fcd90491]{
+-- Page 19, Offset 16844.
+-- 「……呆れたな。あいかわらずのローセンスだ」
+「...... Tu me déçois. Ton sens de la mode est toujours aussi lamentable.」
+
+}
+[sha:003dfdd3a0792ba18debdf26b679a33f767bacbe]{
+-- Page 19, Offset 16845.
+-- 「それはどうも、人形を実の妹に見立てる異常者にそう言われるなら、一周まわって安心よ」
+「Merci pour le compliment. Quand ça vient d'une vicieuse qui fabrique un Automate ressemblant comme deux gouttes d'eau à sa propre sœur, c'est plus rassurant qu'autre chose.」
+
+}
+[sha:f780a06e92b1ec19efcdf66ab9d14fc17d32868d]{
+-- Page 19, Offset 16846.
+-- それきり、ふたりは無言で見つめ合った。
+  Sur ces mots, les deux jeunes femmes finirent par se dévisager en silence.
+
+}
+[sha:0401de0d1c5c92d8136f3c0010ad0968578f7655]{
+-- Page 19, Offset 16847.
+-- 凍える大気に、<姉妹|しまい>間<独特|どくとく>の殺意が火花を散らす。
+  Les pulsions sanguinaires caractéristiques des relations tendues entre sœurs ne faisaient qu'embraser l'atmosphère pourtant glaciale.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 20, Offset 16848.
+-- 「――――――」
+「――――――」
+
+}
+[sha:22bbfd6f186419f687755418e22a9a82eaffad9e]{
+-- Page 20, Offset 16849.
+-- ふたりが<牽制|けんせい>し合う中、有珠は<橙|て><子|き>の周囲を解析する。
+  Tandis que les deux sœurs s'affrontaient du regard, Alice scrutait les alentours.
+
+}
+[sha:0012d5cd8c71747d651e5c7bd867b5deea00633e]{
+-- Page 21, Offset 16850.
+-- ……橙子の周りに何者かが<潜|ひそ>んでいる気配はない。
+  ...... Personne ne semblait se dissimuler à proximité de Tōko.
+
+}
+[sha:dfc0c9fd9ef7d8d988ca2b17d173b40a624e0f79]{
+-- Page 21, Offset 16851.
+-- 人狼はいまだ旧校舎に残っていると見るべきか。
+  Peut-être fallait-il en conclure que le loup-garou se cachait toujours dans l'ancien établissement.
+
+}
+[sha:bca47da1243b2ceeb7e4573b8090c31221ee4dfb]{
+-- Page 21, Offset 16852.
+-- 傷ついた青子と有珠、二人でようやく一人分の戦力と見ているのか―――
+  Soit Tōko considérait qu'elle pouvait affronter Aoko et Alice, toutes deux blessées, à elle seule―――
+
+}
+[sha:590ad31a60ce93e40964bc3a3fab58d3dfc095a8]{
+-- Page 21, Offset 16853. Glued. Mods: @x.
+-- それとも本当に、この時間での反撃を予測しておらず、人狼の準備が整っていないのか。
+soit elle n'avait tout simplement pas prévu une contre-attaque aussi rapide et le monstre n'était pas prêt.
+
+}
+[sha:48b95491320ec3ce315f55044cbc21abe6240a29]{
+-- Page 22, Offset 16854.
+-- 静かな心持ちで、有珠は前者だと判断した。
+  Alice estima calmement que la première possibilité devait être la bonne.
+
+}
+[sha:8423d10344cff081070ba8ad1be35e64c03f4d21]{
+-- Page 22, Offset 16855.
+-- 敵は<単身|ひとり>で戦うつもりだ。
+  Leur adversaire avait l'intention de combattre seule.
+
+}
+[sha:18f6f0aa8d731b580545022fbd324383cb28a667]{
+-- Page 22, Offset 16856.
+-- <橙|て><子|き>の武装は、魔眼と修得しているルーン。
+  Tōko avait pour armes ses Yeux Mystiques et les Runes qu'elle avait apprises.
+
+}
+[sha:af627ff00b936fff6587a835b24c89f875f0b70d]{
+-- Page 22, Offset 16857.
+-- それだけで現状の青子と有珠を処理して余りあるのだから。
+  Cela suffisait amplement pour régler le problème que représentaient Aoko et Alice dans leur état actuel.
+
+}
+[sha:45aab948fd2b728c389b2bcfc09eee786797d0b3]{
+-- Page 23, Offset 16858.
+-- “―――有珠。初撃で決めるから”
+“―――Alice, j'en finirai avec la première attaque.”
+
+}
+[sha:260855b012cadc78d65ca1e9880bcbdab7d134da]{
+-- Page 23, Offset 16859.
+-- 青子は背後の有珠へ、指先の動きだけでそう伝えた。
+  D'un signe de doigts, Aoko transmit ce message à sa partenaire présente dans son dos.
+
+}
+[sha:8c819a1e9b2ea3d790e779d0182f5cfbcd9dc512]{
+-- Page 23, Offset 16860.
+-- 有珠に異論はない。
+  Cette dernière n'avait pas d'objection.
+
+}
+[sha:12fd413b590b9dd677894d02ea2aea20dfc1fbc5]{
+-- Page 23, Offset 16861.
+-- ……当初の予定では人狼は有珠が引き付け、
+  ...... Selon leur plan initial, Alice devait attirer le loup-garou,
+
+}
+[sha:72746d626365c63e12572435345c8a22a5f1cb84]{
+-- Page 23, Offset 16862.
+-- 青子は『鏡』のバックアップを受けつつ、橙子を奇襲する算段だった。
+  pendant qu'Aoko attaquait Tōko par surprise avec le soutien du “miroir”.
+
+}
+[sha:b4bc606e97b36aa81255c0faa4cf54ce6d91a755]{
+-- Page 24, Offset 16863.
+-- 他にも幾つか奥の手はあったが、青子たちが魔術師である以上、何であれ人狼には通じない。
+  Les deux jeunes filles cachaient encore quelques autres atouts dans leur manche, mais elles n'étaient que des Mages, et par conséquent, rien de ce qu'elles entreprendraient ne serait efficace face au loup-garou.
+
+}
+[sha:9d62f62b11e02fdec4261ba033f7515b9f752799]{
+-- Page 24, Offset 16864.
+-- なので人狼は無視し、橙子のみを標的にする。
+  Elles avaient donc décidé de l'ignorer pour se concentrer uniquement sur Tōko.
+
+}
+[sha:dac9e74f061db87ca25b673f43f75ec9f3894b52]{
+-- Page 24, Offset 16865.
+-- 都合のいい作戦ではあるが、ふたりにはそれしか選択の余地はなかったのだ。
+  C'était une stratégie relativement simple à mettre en œuvre, mais elles n'avaient pas vraiment le choix.
+
+}
+[sha:1e874279533070b2d44e5cbaa53813c7d68a2338]{
+-- Page 25, Offset 16866.
+-- ……が、事態は想定していたものと違っていた。
+  ...... Pourtant, la situation ne correspondait pas à leur prévision.
+
+}
+[sha:7fb8c6a793aaeef20d7fe92184be9a2d57ca12bf]{
+-- Page 25, Offset 16867.
+-- 橙子は自軍の有利性から、人狼の出陣を<渋|しぶ>っている。
+  Avec l'avantage qu'elle possédait, Tōko rechignait à faire usage du loup-garou.
+
+}
+[sha:261dc045799678a8bcd363139585904690594585]{
+-- Page 25, Offset 16868.
+-- ならば、と青子は即断した。
+  Aoko s'était donc décidée instantanément.
+
+}
+[sha:c2d181f9e33c9f708ddff8decf2600ce61053a89]{
+-- Page 25, Offset 16869.
+-- <和気藹々|わきあいあい>とした姉妹の談話の隙をついて、人狼が出てくる前に決着をつけるのみ、と。
+  Alice et elle n'avaient qu'à profiter de cette conversation “amicale” pour en finir avant que la bête ne fasse son apparition.
+
+}
+[sha:d919dda0ab97cb905eb0f9bc575d647f36333b47]{
+-- Page 26, Offset 16870.
+-- 「じゃあ今度はこっちの番ね。
+「Alors cette fois, c'est notre tour.
+
+}
+[sha:025072fdb7ae62178144b08c0dd5c3d813a79d91]{
+-- Page 26, Offset 16871.
+-- どう、結界の張り直しは進んでる？」
+  Où en es-tu ? Le redéploiement de la Barrière avance ?」
+
+}
+[sha:94146ef66ba8c74d6a8e7bda7bb7f2b3c8f21266]{
+-- Page 27, Offset 16872.
+-- 「まさか、昨日の今日よ。まだ手を付けてもいない。<急|せ>いては事をし損じる。
+「Ne dis pas de sottises. Ça ne date même pas d'une journée, tu sais ? D'ailleurs, je n'ai même pas encore commencé. On risque de faire des erreurs si on se presse trop.
+
+}
+[sha:f7eb249a57afc858536a734abf08880120db5316]{
+-- Page 27, Offset 16873. Glued. Mods: @x.
+-- だいたい、私の目的は霊脈の奥にあるもので結界そのものじゃない。張り直しは予定にないさ。
+Et puis, mon objectif se trouve au fin fond de la veine spirituelle et non pas dans la Barrière. Son redéploiement ne fait pas partie de mes priorités.
+
+}
+[sha:b853f92426fb30bd75ff02e1b7f2dd7a2cf9182e]{
+-- Page 27, Offset 16874.
+-- まあ―――土地を<暴|あば>くなんて面倒な真似をするより、<貴女|おまえ>を暴いた方が早いのかもしれないが」
+  Enfin―――au lieu de m'emmerder à déceler les secrets que recèle cette terre, il serait peut-être plus rapide d'extirper ceux qui se cachent en toi.」
+
+}
+[sha:6ae4fd60ed2177b5d6563b07262b9608e42819c0]{
+-- Page 28, Offset 16875.
+-- 「ふん、やっぱりそれが目的だったのね。
+「Pff, je me doutais bien que c'était ça ton véritable objectif.
+
+}
+[sha:6a96639d7f145a3b1d46bfb4965f37f6f95cc9ba]{
+-- Page 28, Offset 16876.
+-- ……なら尚のこと、アンタを魔法使いにするワケにはいかないわ」
+  ...... Mais du coup, c'est juste une raison de plus pour t'empêcher de devenir une Magicienne.」
+
+}
+[sha:5dd9c87382fed6ace1fabf1f0d3e9a50a724efe2]{
+-- Page 28, Offset 16877.
+-- 青い瞳に明確な戦意が<宿|やど>る。
+  Les yeux bleus de la jeune fille s'imprégnèrent d'une volonté presque palpable.
+
+}
+[sha:c729b382f817bcf0f5ccd9ac84c10f41ba8fcc5c]{
+-- Page 28, Offset 16878.
+-- 今まさに仕掛けてきそうな妹の様子を見ても、橙子に動きはない。その唇が皮肉げに動くだけだ。
+  Tōko ne bougeait pas malgré le fait que sa petite sœur semblait sur le point de tenter quelque chose. Seules ses lèvres remuèrent avec sarcasme.
+
+}
+[sha:4a748fcd46b00e5befcff3217c94bbc2919c9405]{
+-- Page 29, Offset 16879.
+-- 「魔法使い、か。たしかにまだ執着はあるね。
+「Une Magicienne, hein ? C'est vrai que ça m'intéresse toujours.
+
+}
+[sha:0d49573d57f4466fcf75a5f73ec3eeefe0af60ee]{
+-- Page 29, Offset 16880.
+-- 私には移植されなかった魔術刻印と、蒼崎の伝える魔法の正体。
+  Le Sceau Magique qui ne m'a pas été greffé et la nature de la Vraie Magie transmise dans la famille Aozaki...
+
+}
+[sha:e0fc8afe4c7d9945a53f6fa0de87a8fd6f7d5b2e]{
+-- Page 29, Offset 16881. Glued. Mods: @x.
+-- だがもういいよ。欲しくはあるが、<到|・><達|・><す|・><れ|・><ば|・>どちらも自分で用意できる。
+Tout ceci ne m'importe plus. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.
+
+}
+[sha:e5c720c2237b5a80a68eb8e8a39c7572c62c7b86]{
+-- Page 29, Offset 16882.
+-- それとも……今ここで、私の為に魔法の正体を見せてくれるのかい、青子？」
+  À moins que... tu ne veuilles bien dévoiler pour moi, ici et maintenant, la nature de cette Vraie Magie, Aoko.」
+
+}
+[sha:a03769afc1c5f9e5b32a50263b165481de71cc76]{
+-- Page 30, Offset 16883. Mods: @k, @e.
+-- 橙子の瞳は、言葉とは裏腹に青子を<嘲|あざけ>っていた。
+  Malgré la nature sérieuse de sa demande, Tōko lançait un regard moqueur à Aoko.
+
+}
+[sha:5ec6544f6c5f5213cd70aef202a807f6a69b6ba0]{
+-- Page 30, Offset 16884.
+-- ……青子が<橙|て><子|き>を排除したいのなら、正体の分からない『魔法』を使うのが最良であり、確実だ。
+  ...... Si cette dernière voulait éliminer son ennemi, utiliser cette “Vraie Magie” inconnue serait idéal et infaillible.
+
+}
+[sha:a5a8624ced225d4dd55de920fa71e7a27cbf3d95]{
+-- Page 30, Offset 16885.
+-- だが青子にはそれが出来ない。
+  Mais elle en était incapable.
+
+}
+[sha:ee3909afbfeaafffe882df595353ec9625024fc5]{
+-- Page 30, Offset 16886.
+-- 出来るのなら昨夜の窮地で使用している。
+  Dans le cas contraire, elle s'en serait servie pour se tirer d'affaire la nuit précédente.
+
+}
+[sha:0eb315b83e921d303d863fa67518413f77972149]{
+-- Page 31, Offset 16887.
+-- 蒼崎青子は魔法を使用できない。
+  Aozaki Aoko ne pouvait pas utiliser la Vraie Magie.
+
+}
+[sha:938a746d006c2741ddffc11f20f0892a74b5739b]{
+-- Page 31, Offset 16888.
+-- 橙子はそれを何らかの条件付けと考えた。
+  Tōko en avait d'abord conclu que son usage requérait certaines conditions,
+
+}
+[sha:6f068188e2614cbaed2b4f574e42260bab5874e4]{
+-- Page 31, Offset 16889.
+-- 祖父の<術式防護|プロテクト>が、安易な奇跡の発現を禁じているのだと。
+  que la protection de son grand-père empêchait la manifestation aisée d'un miracle.
+
+}
+[sha:68d452e5cb1a66aac2ea507b6c91b40f8f1e9039]{
+-- Page 31, Offset 16890.
+-- だが―――あの<祖父|おとこ>は、人の世を<顧|かえり>みる人格者ではない。
+  Cependant―――cet homme n'était pas assez vertueux pour se soucier du monde des humains.
+
+}
+[sha:73589c2a3cdbb67758c94826bcea6540ee4392e7]{
+-- Page 31, Offset 16891.
+-- 大げさな話でなく、魔法の発現でこの街が消え去っても何の感慨も浮かべまい。
+  Il ne serait pas exagéré d'affirmer que même si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.
+
+}
+[sha:5892713f328ac47ce601a2fdb39fdfcc74a8bf95]{
+-- Page 32, Offset 16892.
+-- 初めから、<魔|・><法|・><に|・><条|・><件|・><付|・><け|・><な|・><ど|・><な|・><い|・>。
+  Son utilisation n'avait jamais demandé aucune condition.
+
+}
+[sha:a56b2d90ce0239d06c712c64acd3a2367a631da5]{
+-- Page 32, Offset 16893.
+-- 青子を縛っているものはトラウマにすぎない。
+  Ce qui bloquait Aoko n'était rien d'autre qu'un traumatisme.
+
+}
+[sha:fe78ccc1257cef0977ebef0d9077c56766a4c8eb]{
+-- Page 32, Offset 16894.
+-- 地上でただ五つの特権を、精神的な<枷|かせ>で縛っている。
+  Elle muselait l'un des cinq privilèges existants sur Terre avec des entraves mentales.
+
+}
+[sha:99244c6365b3a773b52358b3e6bec5e7b56d81df]{
+-- Page 32, Offset 16895.
+-- 故に、橙子の瞳は未熟な妹を<嘲|あざけ>るのだ。
+  Voilà pourquoi le regard que portait Tōko sur sa petite sœur immature était narquois.
+
+}
+[sha:3750f36bb2bf97926735ed1add0d187797b571e6]{
+-- Page 32, Offset 16896.
+-- その弱さ。人の身に背負いきれない『魔法』なぞ、一振りの剣にも劣ると。
+  Comme pour lui signifier qu'elle était faible et qu'un “pouvoir” trop lourd à endosser ne valait pas mieux qu'une simple épée.
+
+}
+[sha:385f94eb421206161f98f25fe5f29060ad222c20]{
+-- Page 33, Offset 16897.
+-- それを何よりも自覚しているからこそ、青子にはその嘲笑は許せない。
+  Aoko ne pouvait tolérer les ricanements de sa sœur aînée car elle en avait conscience plus que quiconque.
+
+}
+[sha:f4956a2327ca9c4837e75c148a6ba504051b58ab]{
+-- Page 33, Offset 16898.
+-- 魔法を使ってみせろ？
+  Faire une démonstration de Vraie Magie ?
+
+}
+[sha:ea60efa4817a32dae89c336b4b436253ab118765]{
+-- Page 33, Offset 16899.
+-- なんて安い挑発。
+  Quelle piètre provocation !
+
+}
+[sha:c881259050d94942f376ad7bc17816766b2147dd]{
+-- Page 33, Offset 16900.
+-- そんなもの、言われるまでもなく―――
+  Elle n'avait aucunement besoin qu'on l'y presse―――
+
+}
+[sha:2f72bc3ddba322edb2b0a52b0899e0fa71bf759e]{
+-- Page 33, Offset 16901.
+-- 「ええ、お望みとあらばね――――――！」
+「Très bien, puisque tu insistes――――――!」
+
+}
+[sha:fc7f1fc8fb30ca4bd42483d377d70cba4581d664]{
+-- Page 34, Offset 16902.
+-- 切りつけんばかりの殺気と共に、青子はスタートをきった。
+  Aoko libéra sa soif de sang et s'élança.
+
+}
+[sha:6e25f2d8db06f8254e5ad4a2004944b6efc0d89a]{
+-- Page 34, Offset 16903.
+-- ―――<未到|みとう>の雪原に、無色の靴が駆け抜ける。
+  ―――Ses chaussures foulèrent rapidement le champ de neige immaculée.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 34, Offset 16904.
+-- 「――――――」
+「――――――」
+
+}
+[sha:89f944d899c07dc550cb638625dc65e74585763b]{
+-- Page 34, Offset 16905.
+-- まるで<水面|みなも>の飛び石だ。
+  On aurait dit qu'elle marchait sur des pierres de gué à la surface de l'eau.
+
+}
+[sha:ff5fc69fe803e73606f67b0f3e89c880d95a454c]{
+-- Page 34, Offset 16906.
+-- 高速で橙子に向かう青子の体は、完全に“消失”していた。
+  Le corps d'Aoko qui se dirigeait à grande vitesse vers Tōko avait complètement “disparu”.
+
+}
+[sha:fb1b7f1e7f43e53c517031296d4b1930c17e3853]{
+-- Page 35, Offset 16907.
+-- 足跡だけが<弾痕|だんこん>のように迫ってくる。
+  Seules ses empreintes de pas se rapprochaient, tels des impacts de balles.
+
+}
+[sha:17b6dd8880c3baa9e841a68e194a2ccd265db6d1]{
+-- Page 35, Offset 16908.
+-- それを橙子は不動のまま待ち受けた。
+  Tōko attendit son arrivée sans esquisser le moindre mouvement.
+
+}
+[sha:ba03af25c9c5b1bd52f835bfa912986ca59f5c17]{
+-- Page 36, Offset 16909.
+-- 姿隠しは簡単な魔術だ。
+  Le sort d'invisibilité était simple.
+
+}
+[sha:b84ec43f1392469ad673b84d0f92c9821a894c1a]{
+-- Page 36, Offset 16910.
+-- おそらくは有珠が用意した小道具の力だろう。
+  Il était probablement généré par une création d'Alice.
+
+}
+[sha:ff978c786fd834bf56373eb57d6a32833684cc58]{
+-- Page 36, Offset 16911.
+-- 単純だが、効果的な魔眼対策である。
+  Bien que simpliste, c'était une contre-mesure efficace face aux Yeux Mystiques.
+
+}
+[sha:99eb57597fe9507362a29bf6298d41c17b4bc69d]{
+-- Page 36, Offset 16912.
+-- <捕縛|ロック>の呪いに特化した橙子の魔眼は、不正を<見|み><抜|ぬ>き<明|あき>らかにする“<真理|ロゴス>”の特性を持っていない。
+  Ceux de Tōko étaient spécialisés dans une malédiction incapacitante et ne possédaient pas la propriété de “logos”, aussi appelée Vérité, qui décelait toute anomalie.
+
+}
+[sha:a06b14544da76d3be3206749ebe189030760010c]{
+-- Page 36, Offset 16913.
+-- 仕組みを知られた魔術は、このようにたやすく打破される。
+  Ainsi, on pouvait facilement triompher d'une Magie dont le mécanisme était connu.
+
+}
+[sha:ce0083fe7d45f0850b1fa0ca4091629128c5fabd]{
+-- Page 37, Offset 16914.
+-- “足癖が悪いのも変わらず、か”
+“Sa façon de courir reste toujours aussi maladroite, cela dit.”
+
+}
+[sha:680299d4a5d2e483717296345e74645a494fef44]{
+-- Page 37, Offset 16915.
+-- 既に四秒。十メートルもの距離を<詰|つ>め、さらに加速する姿なき襲撃者。
+  Quatre secondes s'étaient déjà écoulées. L'assaillante invisible avait réduit la distance à dix mètres seulement et accélérait encore.
+
+}
+[sha:fda11cd73cf72474f612b19bbc344e9b5c0af83a]{
+-- Page 37, Offset 16916.
+-- 魔術戦では敵わぬと見て、殴り合いならぬ蹴り合いを挑むつもりらしい。
+  Elle semblait vouloir engager un combat au corps à corps, jugeant probablement qu'elle ne pouvait pas rivaliser en termes de joute magique.
+
+}
+[sha:eadd86727742fcc0588183afbcd5576e21055b41]{
+-- Page 37, Offset 16917.
+-- もう一人の少女、久遠寺有珠は一歩も動かず。
+  L'autre jeune fille, Kuonji Alice, n'avait pas bougé d'un pouce.
+
+}
+[sha:e4b602333dd98a0c279afc8b30110bd6b4fb18ac]{
+-- Page 38, Offset 16918.
+-- “<被弾|ひだん>覚悟の特攻―――有珠から護符でも貰っているのでしょうけど、反省なさい青子。
+“Une attaque kamikaze―――Alice t'a sûrement donné une amulette, mais rappelle-toi d'une chose, Aoko.
+
+}
+[sha:b48409606d6df711804b53665c857b5f2c5ad506]{
+-- Page 38, Offset 16919. Glued. Mods: @x.
+-- 切札というものは、あくまで自己の力によるものを言うのよ”
+Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités personnelles.”
+
+}
+[sha:f842a46f2f2ce54d4cb30fb121f1622ce8279f97]{
+-- Page 38, Offset 16920.
+-- くっ、と口端をつり上げて橙子は左腕を構えた。
+  Tōko leva le bras gauche en même temps que le coin des lèvres.
+
+}
+[sha:d73f2fabbac1c186276367f38b19090f2da96246]{
+-- Page 38, Offset 16921.
+-- なぎ払うように、胸の前で水平に。
+  Elle le remonta à l'horizontale, devant sa poitrine, comme pour repousser son adversaire.
+
+}
+[sha:8e4edd808e001ac8c8535e279e3a829c64fa65ad]{
+-- Page 39, Offset 16922.
+-- 残り十メートル。
+  Plus que dix mètres.
+
+}
+[sha:7ca49acf130b349d6a8f43bcb52c3b257bcd36a2]{
+-- Page 39, Offset 16923.
+-- 本来なら不可視の青子の<位置|すがた>は、不運にも足跡が十分に示していた。
+  La position d'Aoko n'aurait pas dû lui être visible, mais elle était malheureusement aisément repérable grâce à ses empreintes.
+
+}
+[sha:7e2db2e040d69d24391b0914ce50c066d6ff4bc0]{
+-- Page 40, Offset 16924.
+-- 「<[swel]|ソウ>―――」
+「<[swel]|Sol>―――」
+
+}
+[sha:bdadc52398e3bfb801a2a29a806f42a40cc5ca5b]{
+-- Page 40, Offset 16925.
+-- ルーンの呪詛を<刻|きざ>む橙子。
+  Tōko dessina un sort runique.
+
+}
+[sha:1415cab4e2dab86faba81ac203474e44b991b129]{
+-- Page 40, Offset 16926.
+-- それより早く、青子の足跡はぴたりと止まった。
+  Mais les empreintes d'Aoko s'arrêtèrent subitement avant qu'elle ne l'achève.
+
+}
+[sha:20e2471fc8292e778fd5bc1f2d10c7898c731e43]{
+-- Page 40, Offset 16927.
+-- 格闘戦を行うにはまだ遠すぎる。
+  Elle était encore trop loin pour pouvoir engager un combat au corps à corps.
+
+}
+[sha:f0179e65fae8b3f08faf3ad7a91c0c0c183d3f74]{
+-- Page 40, Offset 16928.
+-- あの位置で止まるのはあまりに不可解。
+  Tōko ne s'expliquait donc pas qu'elle se soit arrêtée avant d'être au contact.
+
+}
+[sha:243b98e8361889dab58ce46c6bb1f413116ba1ed]{
+-- Page 40, Offset 16929.
+-- いや。それ以前に、あのスピードで急停止などできるものだろうか……？
+  Tout d'abord, était-il même possible de s'arrêter brusquement à une vitesse pareille......?
+
+}
+[sha:cf9f4a6015ddf9685daed6677d51e43cd631856d]{
+-- Page 41, Offset 16930.
+-- “跳んだか―――！”
+“Elle a sauté―――!”
+
+}
+[sha:7a69efed85d61f07c222b6f6cfef10f15471398c]{
+-- Page 41, Offset 16931.
+-- 一瞬の判断。
+  Sa réaction fut instantanée.
+
+}
+[sha:c1f2ab141ea1050cae3771818535c3d5983a7d3c]{
+-- Page 41, Offset 16932.
+-- 水平に構えられた橙子の腕が、月を<仰|あお>ぐよう上空に向けられる。
+  Elle tendit son bras vers le ciel comme pour pointer la lune du doigt.
+
+}
+[sha:6f6148b32695ae7e42984a11dcf58bebe26c10e0]{
+-- Page 41, Offset 16933.
+-- 「<[swel]|ソウェル>―――！」
+「<[swel]|Sol>―――!」
+
+}
+[sha:8d267b89a35182ad4fc9946f73f055534532dbb8]{
+-- Page 42, Offset 16934.
+-- 大気を<滑|はし>る、<劫火|ごうか>の導線。
+  Une gerbe de flammes destructrices se propagea dans l'air.
+
+}
+[sha:a3f1d95b90af9dbd9e8493ccb56534d91732d254]{
+-- Page 42, Offset 16935.
+-- <刻印|ルーン>は空中の見えざる人体に<刻|きざ>まれ、わずか一秒で炎を巻き起こした。
+  La Rune se grava sur la silhouette invisible entre ciel et terre qui s'embrasa en moins d'une seconde.
+
+}
+[sha:a1d8b3c917fd86c7991a6356d8056a27cbe76311]{
+-- Page 42, Offset 16936.
+-- 内部からの魔術抵抗は意味をなさない。
+  Les sorts de défense interne s'étaient révélés inutiles,
+
+}
+[sha:5cd984bd2f7987cb1fda6a4b8787c72b1fd36d65]{
+-- Page 42, Offset 16937.
+-- ルーンは対象を燃やしたのではなく、対象を炎で包み込んだのだから。
+  car la Rune n'avait pas brûlé la cible mais l'avait enveloppée de flammes.
+
+}
+[sha:9bc19e6fc0d5c2588ec64a986266daf6b7ce53e1]{
+-- Page 43, Offset 16938.
+-- 悲鳴をあげて雪原に落ちる襲撃者。
+  L'assaillante émit un hurlement et retomba sur le champ de neige.
+
+}
+[sha:8775c40b4540ea8461b498ff611cf9764fc4edc3]{
+-- Page 43, Offset 16939.
+-- <苦悶|くもん>に荒れ狂う体、助けを<乞|こ>うように<掲|かか>げられる手は、夢に出てきそうなほど見苦しい。
+  Ce corps agité d'atroces soubresauts et cette main levée dans une supplication désespérée étaient si répugnants que cette image aurait pu venir hanter les rêves de n'importe qui.
+
+}
+[sha:5e1ae78d550d2bf14ee21214c3c068e7d0cac7cf]{
+-- Page 43, Offset 16940.
+-- 炎は消えず、積もった雪を溶かしながら、襲撃者は息絶えるまであぶられ続ける。
+  Les flammes ne s'éteignaient pas et firent fondre la couche de neige jusqu'à ce que la silhouette brûlée à mort...
+
+}
+[sha:c957477ced551a5d05034fb55badf73369838fde]{
+-- Page 43, Offset 16941.
+-- チチチ、チチチと。
+  “Cui cui cui, cui cui cui.”
+
+}
+[sha:b3e50af936610a67b100f562d9f210c853ba6cf4]{
+-- Page 43, Offset 16942.
+-- 青子らしからぬ、あまりにも大げさな<三流芝居|だんまつま>をあげながら。
+  ... pousse un dernier cri suraigu qui ne rappelait pas franchement le timbre de voix d'Aoko.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 44, Offset 16943.
+-- 「――――――」
+「――――――」
+
+}
+[sha:1ad6f8aa4d88879e9ecc42589b55afefa8821a3d]{
+-- Page 44, Offset 16944.
+-- 橙子の視線は、既に有珠に向けられている。
+  Le regard de Tōko s'était déjà tourné vers Alice.
+
+}
+[sha:019a56613d0473bb35f420b49ae1ef0cd0f337d6]{
+-- Page 44, Offset 16945.
+-- 燃えカスなどはじめから見てはいない。
+  Elle n'avait pas posé les yeux une seule fois sur le corps enflammé.
+
+}
+[sha:a6be1530ff9df52337dd509e7262c829c93a468c]{
+-- Page 44, Offset 16946.
+-- 橙子は<ソ|・><レ|・>が無抵抗に落下した時から、青子ではないと判断していた。
+  Dès le moment où cette chose s'était effondrée sans résistance, elle avait deviné qu'il ne s'agissait pas d'Aoko.
+
+}
+[sha:eb3c3bc23be95538fd61872d11869e15b348690c]{
+-- Page 45, Offset 16947.
+-- “チッ、マインスターの使い魔は何匹いる…………！”
+“Tch, combien de familiers Meinster cache-t-elle dans sa manche............?!”
+
+}
+[sha:6fa1b68f307687c079fa0b9b2c4529fac4f8b102]{
+-- Page 45, Offset 16948.
+-- <苛|いら>だたしげに舌打ちしつつ、橙子は有珠を凝視する。
+  Tōko fit claquer sa langue d'irritation tout en fixant Alice.
+
+}
+[sha:b90d292ce6fa4025ff31afd97818d0749d891eb8]{
+-- Page 45, Offset 16949.
+-- たしかに青子の姿は透明化していた。
+  Aoko était effectivement devenue invisible.
+
+}
+[sha:58dbbb5f6c7264f6a2efaf996ae8eb0c146a6dd1]{
+-- Page 45, Offset 16950.
+-- ただし、本人は一歩たりとも動いてはいない。
+  Cependant, elle n'avait pas bougé d'un centimètre.
+
+}
+[sha:59bac6e27709e6e7848e9169a385b7682ba70b74]{
+-- Page 45, Offset 16951.
+-- 青子が立っていた地面には、青い円陣が回りだしている。
+  Un cercle bleu commençait à tourner à l'endroit où elle avait disparu.
+
+}
+[sha:21616afe76aa42c90f53d2f31e8a6fd7ee3f9653]{
+-- Page 46, Offset 16952.
+-- それは魔術刻印を動員した、<四小節の大魔術|フォース・トゥ・フォース>。
+  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
+
+}
+[sha:8e6087de78676d109136714a9f2f9e841d1bf697]{
+-- Page 46, Offset 16953.
+-- <一工程|シングルアクション>のルーンしか―――
+  Pour Tōko qui ne disposait que de Runes à action unique―――
+
+}
+[sha:22f9ded9fdfb119fa3dfc445d6db81350dce60ac]{
+-- Page 46, Offset 16954.
+-- いや、そもそも二小節以上の魔術を修得できない橙子にとっては、太刀打ちできない魔力の奔流―――！
+  et qui ne pouvait même pas acquérir de Magie qui dépassait deux versets, rivaliser avec ce torrent de prana était chose impossible―――!
+
+}
+[sha:4b3b00d2d32a9c086a805dba3103da4d37fbc489]{
+-- Page 47, Offset 16955.
+-- 「―――<[eywz]|エイワズ>！」
+「―――<[eywz]|Ehwaz> !」
+
+}
+[sha:c5d5b1ff8cb6742e99a5b096686864c6016d6030]{
+-- Page 47, Offset 16956.
+-- 円陣の上に、ルーンの軌跡が刻まれる。
+  Elle traça la Rune sur le cercle.
+
+}
+[sha:393f7cbc02133a14e6b31a7ced0ca075ff3ec8c7]{
+-- Page 47, Offset 16957.
+-- <退去|エイワズ>のルーンで青子にかかった姿隠しを解呪し、橙子は<角|ひ><膜|とみ>を切り替える。
+  Ehwaz dissipa le sort d'invisibilité qui avait dissimulé Aoko, puis Tōko ferma les yeux.
+
+}
+[sha:6d00b8f393e4e8030017504641208934883cea3d]{
+-- Page 47, Offset 16958.
+-- 新たに開かれる<瞳|もの>は、見たものを眼球内の無限地獄に捕らえる、合わせ鏡の積重魔眼―――！
+  Lorsqu'elle les rouvrirait, ses pupilles plongeraient sa cible dans l'enfer infini de son globe oculaire grâce au pouvoir de l'Œil Mystique agencé en miroirs opposés―――!
+
+}
+[sha:6c88c87159e51dbeecd326c26a6bbd17a9635930]{
+-- Page 48, Offset 16959.
+-- 「っ……！？」
+「S......?!」
+
+}
+[sha:596a9966851d4ead4b05e9150f185ed504015fef]{
+-- Page 48, Offset 16960.
+-- だが、魔術師の視線は文字通り<両|・><断|・>された。
+  Seulement, la Mage vit littéralement double.
+
+}
+[sha:3cc8b37bf0953c9645de92562f92be42ee7260b2]{
+-- Page 48, Offset 16961.
+-- 青子の前の空間が歪んでいる。
+  L'espace devant Aoko était distordu.
+
+}
+[sha:0cb127d1a33d33f368b487c266af9a2207cf6ebb]{
+-- Page 48, Offset 16962.
+-- 夜気は霧のように重なり、青子の姿を<被|だぶ>らせている。
+  L'air nocturne se densifiait comme du brouillard et couvrait la silhouette de la jeune fille.
+
+}
+[sha:962b73d854b8a68ba5d3ced342391dd8014e27e5]{
+-- Page 48, Offset 16963.
+-- 橙子の魔眼が合わせ鏡なら、あれは三角点に置かれたマジックミラーだ。
+  L'Œil Mystique de Tōko avait peut-être la particularité de miroirs opposés, mais cette brume agissait comme un miroir magique mis en place à un embranchement.
+
+}
+[sha:54672e4af49998a79b31c361a10b508b5c90ea77]{
+-- Page 48, Offset 16964.
+-- 橙子の位置からでは視界が二つに別けられ、正面の<像|あおこ>を視認できない……！
+  Là où elle se situait, son champ de vision était divisé en deux et il lui était impossible de confirmer visuellement la position de sa sœur cadette......!
+
+}
+[sha:fe3b5bdb05e59e64fdd423f35d083fab0a6b022e]{
+-- Page 49, Offset 16965.
+-- 「午睡の鏡の効果よ、橙子さん。
+「C'est l'effet du Miroir de la sieste, Tōko.
+
+}
+[sha:d41ed03e1597aa7618623f91da369161eb7514de]{
+-- Page 49, Offset 16966. Glued. Mods: @x.
+-- 青子は鏡のＹ字路の奥にいる。一本道から見ている貴女に、中心は見渡せない」
+Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoire rectiligne, le centre ne t'est pas visible.」
+
+}
+[sha:99b90bc4120fe60c2ec33be3ba4a07d1a087fd89]{
+-- Page 49, Offset 16967.
+-- 「……！」
+「......!」
+
+}
+[sha:e1b8d2e0b5130db09288e5f1b1d4e521e2997a32]{
+-- Page 50, Offset 16968.
+-- いつかの逆転とばかりに有珠は言い捨てた。
+  Alice avait lancé cette réplique d'un ton confiant suite à ce retournement de situation.
+
+}
+[sha:50db7a0ca9ce04322dbadefd0658be293affdf85]{
+-- Page 50, Offset 16969.
+-- 有珠自身、橙子に飲まされた薬草によって魔術は使えない。
+  À cause de la plante médicinale que Tōko lui avait administrée, la sorcière était dans l'incapacité de lancer le moindre sort.
+
+}
+[sha:ad183ece8fb3a669628276eedd64717f1c6c3d3f]{
+-- Page 50, Offset 16970.
+-- だが、既に起動しているプロイたち……洋館の『鏡』と、無駄に動き回る青い鳥は、彼女の魔力がなくとも最低限の機能は果たせるのだ。
+  Néanmoins, les Ploy déjà activés, comme le “miroir” du manoir et l'oiseau bleu qui voltigeait sans cesse, pouvaient activer leurs fonctions basiques sans l'aide de son prana.
+
+}
+[sha:d00ca8dea521f9d26e5b1947012ed585791c36e2]{
+-- Page 51, Offset 16971.
+-- そして、暴風の<魔弾|まだん>が<装填|そうてん>される。
+  Enfin, la balle dévastatrice fut chargée.
+
+}
+[sha:ccfc3486d0f892bfda4889a6c4745e4a6bd1879a]{
+-- Page 51, Offset 16972.
+-- 「<接続|セット>―――<刻印|ルート>、<交流数紋|ディレクト・カーラント>」
+「<Connexion|Set>―――<Sceau|Root>, <Échange de motif|Direct Current>.」
+
+}
+[sha:e73e5e5a372a4a95ad6edc55c62061c5afb0ed31]{
+-- Page 51, Offset 16973.
+-- 右腕を<掲|かか>げ、<光|ひ><芒|か>る刻印をあらわにし、青子は三十メートル先の標的を見据える。
+  Aoko hissa son bras droit, exposa le Sceau étincelant, et fixa sa cible trente mètres plus loin.
+
+}
+[sha:504c52371a3d114b76e9166f2b32583ac63a9b29]{
+-- Page 51, Offset 16974.
+-- <砲|う><身|で>は十分な魔力に満ちている。
+  Son bras était suffisamment chargé en prana.
+
+}
+[sha:c8006b65d5fd6619ef61c3997c4863fe9f1ace01]{
+-- Page 52, Offset 16975.
+-- 有珠の姿隠しを受けた瞬間から、青子は魔術の詠唱を始めていた。
+  Aoko avait amorcé son incantation dès que le sort d'invisibilité d'Alice s'était activé.
+
+}
+[sha:fa5e7fa76b66a3d3eef435b6d7073e55b0367188]{
+-- Page 52, Offset 16976.
+-- 橙子が気付くまでの数秒間。
+  Pendant les quelques secondes qu'il avait fallu à Tōko pour découvrir la supercherie,
+
+}
+[sha:c0a282b67d1b9a086f79851c1051f4d094e8e7bc]{
+-- Page 52, Offset 16977.
+-- 最速の手順で形成し、起動させた魔術回路の回転数は自己ベストを超えている。
+  le nombre de rotations de son Circuit Magique, activé par une technique extrêmement rapide, avait dépassé son record personnel.
+
+}
+[sha:7c1c86cf32cb388dc6f76feb420455a857df959f]{
+-- Page 53, Offset 16978.
+-- <一工程|スナップ>でも<二|ド><工|ロ><程|ウ>でもない、三工程以上の<魔力圧縮|マジック・ブロウ>。
+  Il ne s'agissait ni d'un Snap, sort à action unique, ni d'un Draw, à double action, mais d'un Magic Blow, un sort à triple action consistant à compresser du prana.
+
+}
+[sha:ebd174c0c01e67c3553d4d602554a7b2fad04f68]{
+-- Page 53, Offset 16979.
+-- 生成され、目前に集められて渦巻く青いエーテルは、単純に撃ち出すだけで１０トン相当の質量。
+  Ainsi généré et collecté, l'éther bleu qui tourbillonnait devant ses yeux provoquerait un impact proche de dix tonnes avec un simple tir.
+
+}
+[sha:c220e7873d302a36e08e12bcc259ec8d4aaba2c1]{
+-- Page 53, Offset 16980.
+-- これを魔術刻印によって加工し、相乗に相乗を重ねて掃射すれば、背後の旧校舎さえ粉砕できる―――！
+  Si elle faisait feu avec toute cette énergie après l'avoir traitée et emmagasinée grâce au Sceau Magique, elle pourrait même pulvériser l'ancienne école derrière Tōko―――!
+
+}
+[sha:d1aab8e7e6a81cdbf129319647f7ec733d0d074e]{
+-- Page 54, Offset 16981.
+-- 「橙子――――――！」
+「Tōko――――――!」
+
+}
+[sha:54176e2a629ea2236c8e243ce009f34959e9a207]{
+-- Page 54, Offset 16982.
+-- 覚悟、とばかりに青子は姉を見据えた。
+  Aoko fixait sa sœur aînée d'un regard d'acier.
+
+}
+[sha:b274619b00632ff73a315be4eccbc3afc2acc8de]{
+-- Page 54, Offset 16983.
+-- 橙子には対抗する時間も、回避するだけの<移動力|あし>もない。
+  Tōko n'avait ni le temps de contrer le sort, ni la vitesse pour l'esquiver.
+
+}
+[sha:2e27f3cafa8503aab8a5b42336fcc5170845a266]{
+-- Page 54, Offset 16984.
+-- それを誰より理解しているのか、彼女は驚愕のまま動かなかった。
+  Elle semblait le savoir mieux que quiconque, raison pour laquelle elle resta pétrifiée sur place.
+
+}
+[sha:a357b5eea393f15c4068430902a13a19d422e474]{
+-- Page 54, Offset 16985.
+-- <怯|おび>えはなく、敗北を悟った自責の瞳。
+  Elle n'affichait aucune peur, mais pressentant la défaite imminente, ses yeux reflétaient un semblant de regret.
+
+}
+[sha:8bd375b75c0e15060fd25f969dea9bc23ed73ca5]{
+-- Page 54, Offset 16986.
+-- それに青子は躊躇する事なく、右手の引き金に力をいれた。
+  Aoko n'hésita pourtant pas et pressa la détente dans sa main droite.
+
+}
+[sha:f3780929300cfea219d93c2acc18f7d76d6a1294]{
+-- Page 55, Offset 16987.
+-- 「<魔弾|ツアー><形式|プラン>、<収束|スター><投射|マイン>―――回路、放て………！！！！」
+「<Forme Balle de prana|Tour Plan>, <Tir Convergeant|Starmine>―――Circuit, feu.........!!!!」
+
+}
+[sha:2723832dbf03a1b3581ac13fe159a5d9a457a525]{
+-- Page 55, Offset 16988.
+-- 叫び声にも似た最後の一節。
+  Ses derniers mots étaient proches du hurlement.
+
+}
+[sha:25fdc9222e0bb72b5a9bf338edb42e2df7bafd72]{
+-- Page 55, Offset 16989.
+-- 撃ち出された架<空要|エーテル>素は仮初めの熱量となって、降り積もった雪を波と散らす。
+  L'Éther projeté se transforma momentanément en source de chaleur et dispersa la couche de neige telles des vagues.
+
+}
+[sha:a2a71e0a110d50625e9d6c639d7adc823045f5aa]{
+-- Page 56, Offset 16990.
+-- ―――橙子を飲みこむ、圧倒的なまでの土砂。
+  ―――Tōko fut engloutie sous un tas de terre écrasant.
+
+}
+[sha:d59c55e59ad9ddfce551ec9fc0e43a585005c4c6]{
+-- Page 561, Offset 16991.
+-- できうるかぎりの魔力を用いた青子の魔弾は、逃れようのない死の一撃となった。
+  La balle de prana d'Aoko, qui avait employé un maximum de prana, se transforma en attaque mortelle impossible à éviter.
+
+}
+[sha:f87c7b947afafaeda328989ce9b5b25e3189510e]{
+-- Page 561, Offset 16992.
+-- その衝突を目の当たりにして、青子は自分の勝利を受け入れた。
+  Lorsqu'elle vit l'impact, Aoko eut confirmation de sa victoire.
+
+}
+[sha:151af4234e18b78df654a6d8a3c9afa7110cd33f]{
+-- Page 561, Offset 16993.
+-- ……どこか、苦い感情と共に。
+  ...... Tout en ressentant une légère amertume.
+
+}
+[sha:d7c4d715e76b173c9657c2d35d0cb1d2dfd4088c]{
+-- Page 561, Offset 16994.
+-- ―――そして。
+  ―――Et,
+
+}
+[sha:9743c5391f1c970e3bbc4336491e12f4ca297e7e]{
+-- Page 561, Offset 16995.
+-- 自らを飲みこんだ魔力の<奔|な><流|み>を後にして、橙子は青子の甘さに舌打ちした。
+  lorsqu'elle sortit du torrent de prana qui l'avait engloutie, Tōko claqua de la langue devant la faiblesse d'Aoko.
+
+}
+[sha:78d6419b09d28230a8a9a1a3a02f71e9e87e809b]{
+-- Page 561, Offset 16996.
+-- 青子とは真逆の、失望に満ちた苦さと共に。
+  Avec une amertume pleine de déception, tout à l'inverse de sa cadette.
+
+}
+[sha:a5e5619dd13284571e3ae8e7b5ed6185164bd622]{
+-- Page 57, Offset 16997.
+-- 「学ぶにしては遅すぎたが、まあ聞いておけ青子。
+「C'est un peu tard pour te l'apprendre, mais bon. Écoute, Aoko.
+
+}
+[sha:f19078793204c707fb301b2817ecaff0be487766]{
+-- Page 57, Offset 16998.
+-- 切札というものは、先に出した方の負けなんだよ」
+  C'est toujours le premier à dégainer son atout qui perd.」
+
+}
+[sha:f357ab38b21af6b483a2206a1ec847d62f43d294]{
+-- Page 57, Offset 16999.
+-- 超然とした声には、何のダメージも見られない。
+  Son ton détaché ne laissait deviner aucun dommage.
+
+}
+[sha:0e887085bdc3185c4b968e7463a456ab9ce789ce]{
+-- Page 57, Offset 17000.
+-- 雪原に立つ魔術師の<外套|コート>には<煤|すす>一つない。
+  Le manteau du Mage qui se tenait sur le champ de neige n'avait pas une seule déchirure.
+
+}
+[sha:a5ce7f28070c889142c049ef41235dd3b2d9b778]{
+-- Page 57, Offset 17001.
+-- ―――<渾身|こんしん>の魔弾は、橙子の体に触れる寸前で、同位の魔力によって周囲へと<弾|はじ>き飛ばされたのだ。
+  ―――La balle de prana contenant toutes les forces de la jeune fille avait été dispersée aux alentours par une quantité de prana égale, juste avant qu'elle n'atteigne le corps de Tōko.
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 58, Offset 17002.
+-- 「――――――」
+「――――――」
+
+}
+[sha:d3c2bb344eae1b8c07ce943f39f9528c363e1bb7]{
+-- Page 58, Offset 17003.
+-- その光景を、青子はただ見つめていた。
+  Aoko avait les yeux rivés sur le spectacle qui s'était déroulé devant elle.
+
+}
+[sha:5d9d9c3e29797eaa930baf4e90e73c5c265b8efe]{
+-- Page 58, Offset 17004.
+-- 自身の魔術の消滅を、ではない。
+  Mais ce qui l'avait médusée n'était pas l'annulation de son sort.
+
+}
+[sha:327779d9c218398d9429c9709005a264541014d6]{
+-- Page 58, Offset 17005.
+-- 悪夢でも見るように、姉の背後に浮遊するモノを凝視する。
+  Elle fixait la chose qui flottait derrière sa grande sœur comme si elle avait vu un cauchemar.
+
+}
+[sha:06bcb1e2217b7a186890fa78b30da72382c20267]{
+-- Page 58, Offset 17006.
+-- 橙子の背後に現れた、<夥|おびただ>しいまでの魔術刻印を。
+  Car en effet, d'innombrables Sceaux Magiques étaient apparus dans le dos de Tōko.
+
+}
+[sha:e8b182072a1d8dec53d324ffd7be0424d2bf1d24]{
+-- Page 59, Offset 17007.
+-- ……それは一瞬の出来事だった。
+  ...... Le phénomène avait été instantané.
+
+}
+[sha:428bdfe4324845299ed08b2c894b6b5aa1f74173]{
+-- Page 59, Offset 17008.
+-- 大波となって押し寄せる魔弾を前に、橙子は軽やかに右指を鳴らした。
+  Face à la balle de prana qui avait déferlé sur elle à la façon d'un tsunami, Tōko avait claqué légèrement des doigts de sa main droite.
+
+}
+[sha:910361fc55e9223392da99988221803bea67f213]{
+-- Page 60, Offset 17009.
+-- 途端、背後からざあ、と音をたてて幾多もの文字が羅列されていったのだ。
+  C'est alors qu'une multitude de caractères étaient sortis de son dos dans un bruit de frottement.
+
+}
+[sha:1f6d8ea4e97d738da1c682d49cb26065c62fb777]{
+-- Page 60, Offset 17010.
+-- <言葉|テキスト>は<美術|アート>となり、金色の花に成った。
+  Les textes avaient pris une forme artistique, celle de fleurs dorées.
+
+}
+[sha:c5e1ba7a30908f0b22e691cd583cf975ac381ed5]{
+-- Page 60, Offset 17011.
+-- おそらくは数百の。
+  Il y en avait probablement des centaines.
+
+}
+[sha:5a29332dd246de5b86b91a9e0d4eca246b88244e]{
+-- Page 60, Offset 17012.
+-- 西欧だけに留まらない、多種多様な魔術の<群像|カタチ>。
+  Il s'agissait de fragments de Magies diverses et variées, et leur provenance ne se limitait pas seulement à l'Europe de l'Ouest.
+
+}
+[sha:10b305d3b0cc6d819053140f76b560f5fb0d7cf7]{
+-- Page 61, Offset 17013.
+-- 本来、魔術師の肌に刻む筈の、
+  À l'origine, cette chose devait être gravée sur la peau d'un Mage.
+
+}
+[sha:88cd98178da65043834a9c4721319cdb0d3afee2]{
+-- Page 61, Offset 17014.
+-- 本来、蒼崎橙子には無い筈の、
+  À l'origine, Aozaki Tōko n'était pas censée en posséder.
+
+}
+[sha:9f3ffca6399b212da95313487518189b09cc4106]{
+-- Page 61, Offset 17015.
+-- 本来、その門派の後継者しか知らない筈の、
+  À l'origine, seul le successeur d'une famille devait en hériter.
+
+}
+[sha:98d1d6e918956d7aa368b4bc1ad70053e47600a9]{
+-- Page 61, Offset 17016.
+-- 月光より鮮やかに咲く魔術刻印。
+  Ce Sceau Magique, source de multiples convoitises, s'épanouissait avec plus d'éclat que le clair de lune.
+
+}
+[sha:9f4e85a84ea4c7706e3f2afe60c28c47ae9abf1c]{
+-- Page 61, Offset 17017.
+-- それは橙子を守る<守護の獣|トーテムポール>となって、彼女の背後の空間に刻まれていた。
+  Il agissait comme un animal-totem protecteur, gravé dans l'air derrière Tōko.
+
+}

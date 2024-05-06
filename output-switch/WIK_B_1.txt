@@ -1,0 +1,30 @@
+[sha:cafb99d63dea1ff6d4ccfaf91d472f0aba9c8e91]{
+-- Page 76, Offset 21402.
+-- 何はともあれ、屋敷の主人や、先に来ているゲストたちに挨拶をしなくては。
+  La moindre des politesses voulait que nous fassions nos salutations à la maîtresse de maison et aux autres invités arrivés avant nous.
+
+}
+[sha:3052294ffd3207f5c1644346eb9d0e2e22b27463]{
+-- Page 76, Offset 21403.
+-- ここは寄り道せず居間に向かおう。
+  Je décidai de me rendre dans le salon sans faire de détour.
+
+}
+[sha:5e2874da24371713821080c531764910560d2c95]{
+-- Page 76, Offset 21404.
+-- 「こっちこっち。もうだいたい集まってるから」
+「Suivez-moi. La plupart des invités sont déjà là.」
+
+}
+[sha:6f3aaa2e4deb39cbba32a73a51c9ec4aa6869138]{
+-- Page 76, Offset 21405.
+-- 一階、東館の廊下はやや薄暗い。
+  Le couloir du rez-de-chaussée dans l'aile est était plutôt sombre.
+
+}
+[sha:85288e7cefbe650166b6d7d9a165975c10afd159]{
+-- Page 76, Offset 21406.
+-- 手前にあるドアから談笑が漏れてきている。
+  Le bruit de conversations enjouées filtrait depuis la porte devant nous.
+
+}

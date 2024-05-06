@@ -1,0 +1,666 @@
+[sha:74aefb679f1b7dbb7b95400d89eb5a32b34b5135]{
+-- Page 0, Offset 22818.
+-- 今こそ、あの問題を追及しようと思った。
+  Je pensai qu'il était temps d'éclaircir un certain problème.
+
+}
+[sha:c742e00ba85c25010e373f55766304cc0c62f169]{
+-- Page 1, Offset 22819.
+-- 「それじゃあ各自、自分の部屋に―――」
+「Bon, eh bien, que chacun aille dans sa chambre―――」
+
+}
+[sha:30668f1238f23e397a3367812bf225e193b43b0b]{
+-- Page 1, Offset 22820.
+-- 「ちょっと待って。その前に確かめたい事がある。
+「Attendez. Avant ça, je voudrais m'assurer de quelque chose.
+
+}
+[sha:6024ec33802e334576d7afec57ca7889bb867df7]{
+-- Page 1, Offset 22821.
+-- みんな、今日のゲストは何人か、分かってる？」
+  Vous savez combien il y avait d'invités aujourd'hui ?」
+
+}
+[sha:b9a780d97f97be1d9594ddb3e6db93956dcfb84b]{
+-- Page 1, Offset 22822.
+-- 「何人かって、久遠寺いれて十三人だろ。
+「Comment ça ? Avec Kuonji, on est treize, non ?
+
+}
+[sha:96c5c1b3c8afd5c389f4c373a5a037a25c063573]{
+-- Page 1, Offset 22823.
+-- それがどうかしたか？」
+  Ça pose un problème ?」
+
+}
+[sha:d6ef4e0123c8c7068d090563686dbdb2801b0eb4]{
+-- Page 1, Offset 22824.
+-- 「それはリデルを入れての話？」
+「C'est en comptant Riddell ?」
+
+}
+[sha:9122327cbec98a474e7ab52187d84f3baa62156a]{
+-- Page 1, Offset 22825.
+-- 「―――なに？」
+「―――Quoi ?」
+
+}
+[sha:ff6fe3ee1316f72dbbd1bfde10c9d2738e4f71e9]{
+-- Page 2, Offset 22826.
+-- 槻司の目が見開かれる。
+  Tsukiji écarquilla les yeux.
+
+}
+[sha:420e0384b1397592e0217d7d9b13142583e32c3e]{
+-- Page 2, Offset 22827.
+-- リデルと顔見知りである槻司からすれば、リデルは参加していても違和感のないメンバーだ。
+  Comme il connaissait Riddell, il n'y avait rien d'étrange pour lui à ce que cette dernière participe à la fête.
+
+}
+[sha:6bdd2fde0703ccb87d30df1fdea5d2ba7d950897]{
+-- Page 2, Offset 22828.
+-- けれど彼女とは疎遠なわたしからすれば、リデルの登場は不自然であり、予定外だった。
+  Mais pour moi qui ne la fréquentais pas autant, l'entrée en scène de la star s'était révélée peu naturelle et inattendue.
+
+}
+[sha:3e5c601e55eb9162614601cceebf36c3e293f597]{
+-- Page 2, Offset 22829.
+-- 彼女はあくまで乱入者であり、正式な招待客ではないからだ。
+  En effet, elle n'était qu'un intrus et pas une invitée officielle.
+
+}
+[sha:f372cf6b51ef48ceb46685b6cfb002f0120fe4e4]{
+-- Page 3, Offset 22830.
+-- 「そうか。リデルは招かれていない。ゲストとは数えないから、最終的な人数は十二人になる」
+「Je vois. Riddell n'a pas été invitée. On ne peut pas la compter parmi les convives, donc en réalité, ça ne fait que douze personnes.」
+
+}
+[sha:0eeaec89bf81662d59f6954d1e66f8f082edcd2e]{
+-- Page 3, Offset 22831.
+-- 「どういう事か説明してくれる、久遠寺さん？」
+「Peux-tu nous expliquer ce que cela veut dire, Kuonji ?」
+
+}
+[sha:dc028252cf493d0fb28143e7419d05eec1da2b90]{
+-- Page 4, Offset 22832.
+-- 「……そうね。わたしもうっかりしていたわ。招待状はわたしと青子、静希君で分けて出したの。
+「... Hmm. Je n'y avais pas fait attention. Aoko, Shizuki et moi avons envoyé nos invitations séparément.
+
+}
+[sha:35cecdf3a1039f98080997de1fff438a7cfcb792]{
+-- Page 4, Offset 22833.
+-- 最終的に九枚消費したとしか、わたしは聞いていなかったから。わたしとトッキィーはホストで、青子と静希君は知っていたから、合わせて十三人だって。
+  J'ai cru comprendre que nous avions finalement envoyé neuf lettres au total. Tokkii et moi étions les hôtes, et Aoko et Shizuki étaient déjà au courant, alors cela faisait un total de treize personnes.
+
+}
+[sha:7158b51c390b0680b4560a89f67917f73f2a3065]{
+-- Page 4, Offset 22834. Mods: @n.
+-- ちなみに、わたしは
+  Soit dit en passant, j'ai envoyé mes invitations à
+
+}
+[sha:4a7c906c92ccb8c1e27d60a02bff71268692f68a]{
+-- Page 4, Offset 22835. Glued. Mods: @n.
+-- 律架さんと
+ Ritsuka et
+
+}
+[sha:b137ee6846639c09476c1dd1203772e71de286fe]{
+-- Page 4, Offset 22836. Glued. Mods: @n.
+-- ベオに招待状を送ったわ」
+ Beo.」
+
+}
+[sha:253a2372f1bb761d54ab2e5c5faa75984d5c2adf]{
+-- Page 5, Offset 22837. Mods: @n.
+-- 「私は
+「Moi à
+
+}
+[sha:1e8ee8e832596d5eb8852e0f81028d2540437115]{
+-- Page 5, Offset 22838. Glued. Mods: @n.
+-- 詠梨と
+ Eiri,
+
+}
+[sha:26fa279d15ecda3fa280edf50a4c530789912706]{
+-- Page 5, Offset 22839. Glued. Mods: @n.
+-- 唯架さん、
+ Yuika,
+
+}
+[sha:d66f4c8485c72255e5994eebce466998e9883485]{
+-- Page 5, Offset 22840. Glued. Mods: @n.
+-- 木乃美と
+ Kinomi et
+
+}
+[sha:f646b7368530cd1cb9132b93b40e968641be219d]{
+-- Page 5, Offset 22841. Glued.
+-- 鳶丸」
+ Tobimaru.」
+
+}
+[sha:85c4e6f00c3b7c75f174d7a2728369e05f3127cb]{
+-- Page 5, Offset 22842. Mods: @n.
+-- 「自分は
+「Et moi à
+
+}
+[sha:91772608d42272bbdd3bca76e9ff9b3ccf7d7369]{
+-- Page 5, Offset 22843. Glued. Mods: @n.
+-- 久万梨と、
+ Kumari,
+
+}
+[sha:84b75af0944c33d068a87ebf03e2e82e0536bbfe]{
+-- Page 5, Offset 22844. Glued. Mods: @n.
+-- 最後に余ったのを
+ celle qui restait à
+
+}
+[sha:ee4decf9a4a71ccd91252839caac25b5b55f8010]{
+-- Page 5, Offset 22845. Glued. Mods: @k, @e.
+-- 先生と、
+ monsieur Yamashiro et
+
+}
+[sha:fe4e3b0404667911117c71362473ffb3a5927405]{
+-- Page 5, Offset 22846. Glued. Mods: @x, @n.
+-- とても名前を口に
+une autre à
+
+}
+[sha:d1275cdebf3bc6f650f3ae8d006cfd12914420ca]{
+-- Page 5, Offset 22847. Glued. Mods: @n.
+-- できない人に一枚」
+Celle-Dont-Je-Ne-Peux-Vraiment-Pas-Prononcer-Le-Nom.」
+
+}
+[sha:57478374f36a0f3559bf83a88d60df8fd6e2623f]{
+-- Page 6, Offset 22848.
+-- 「なるほど、数は合っているわね。
+「Je vois, le compte est bon.
+
+}
+[sha:7971d68ab6673d99f0db049e35042aff8c635c36]{
+-- Page 6, Offset 22849.
+-- ところで草十郎、<叱|しか>られる前に白状した方がいいわよ？
+  Au fait Sōjūrō, tu ferais mieux d'avouer avant de te faire gronder, non ?
+
+}
+[sha:61a8f0fca3cb71a993b75837f0429e6a33a1030f]{
+-- Page 6, Offset 22850.
+-- もうなんとなく分かったけど、一体誰に、招待状を、送りやがったの？」
+  J'ai déjà vaguement compris, mais à qui, as-tu bien pu, envoyer une invitation ?」
+
+}
+[sha:27fc372376f75889025d0d2b23b7fdb4b0294173]{
+-- Page 7, Offset 22851.
+-- 「……いや、だって。仲間はずれは良くないじゃないか」
+「... C'est que, ce n'est pas correct de la tenir à l'écart.」
+
+}
+[sha:341d7eb9eb2fec9a94d8c885637989e2d0ea2fba]{
+-- Page 7, Offset 22852.
+-- 「橙子ね。橙子を呼びつけたのはアンタだったのね！」
+「C'est Tōko, c'est ça ? C'est toi qui as invitéé Tōko à la fête, hein ?!」
+
+}
+[sha:07d5dce45dde134cea839d8de2aedd7ca10027bf]{
+-- Page 7, Offset 22853.
+-- 蒼崎は静希の襟元を掴んで、頭をガクガクと揺らす。
+  Aozaki attrapa le col de Shizuki et le secoua dans tous les sens.
+
+}
+[sha:a519e730f6513306e900b9ec82408edf98afd459]{
+-- Page 7, Offset 22854.
+-- 「二人……リデルが、二人……」
+「Deux Riddell... Il y a deux Riddell...」
+
+}
+[sha:0c60cd693a4ef7c13dc94c95faf55f556c60367b]{
+-- Page 8, Offset 22855.
+-- 「橙子さんに招待状を送った……しかし、彼女は今、三咲町には立ち入れない筈ですが」
+「Tu as envoyé une invitation à Tōko... Pourtant, elle n'est pas censée pouvoir entrer dans la ville de Misaki.」
+
+}
+[sha:c02e5898108df0cdc9a05225e9b9d0e58740f332]{
+-- Page 8, Offset 22856.
+-- 「ん？　呪いならトーコさん、とっくにクリアしたって言ってたよ？　ハッソウのテンカンだ、とか言って。なんでも、肉体にかかった呪いがとけないなら、その肉体を使わなければいい、とかなんとか」
+「Hm ? Pour ce qui est de la malédiction, Tōko m'a dit qu'elle a réglé le problème depuis un moment déjà. Elle a parlé de changement de concept. Il paraît que si on ne peut pas retirer une malédiction jetée sur le corps physique, il suffit de ne pas utiliser ce dernier, ou quelque chose dans ces eaux-là.」
+
+}
+[sha:d2ec7ff46d3ecfe3c64fe0ee83b60c87859ca1de]{
+-- Page 9, Offset 22857.
+-- 「どんな理屈よそれ。
+「C'est quoi ce raisonnement ?
+
+}
+[sha:8ef1f1909821911df3d2f57251f432db8920fb69]{
+-- Page 9, Offset 22858.
+-- ……相変わらずネジとんでるわね、姉貴」
+  ... Comme d'habitude, il lui manque une case, à ma frangine.」
+
+}
+[sha:6e77f56b3a8bc9fba963518a1eb083ac44c30e3d]{
+-- Page 9, Offset 22859.
+-- 「……ともかく、橙子さんに招待状が送られてしまった以上、彼女がここに来ている可能性があるのね」
+「... Quoi qu'il en soit, étant donné que Tōko a reçu une invitation, il est fort possible qu'elle soit venue.」
+
+}
+[sha:f4afd5c97d87b7aa997389ffc4c5e82b86d87a5d]{
+-- Page 10, Offset 22860.
+-- 「そう。そこで思い出してほしいのが、電話線がなくなってた時の玄関。
+「Oui. Et je voudrais que vous vous rappeliez du moment où on a découvert que la ligne du téléphone avait été coupée.
+
+}
+[sha:3aa5061f7c06c2b6274d2f6af9891f8cb6e98083]{
+-- Page 10, Offset 22861.
+-- あの時、玄関の床には水滴がついていた。
+  À ce moment-là, le parquet du vestibule était couvert de flaques d'eau.
+
+}
+[sha:b59d3362519314cba6460c760fba9aa088413921]{
+-- Page 10, Offset 22862.
+-- わたしたちは雨が降り出してから一度も外に出ていない。
+  Nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.
+
+}
+[sha:e06992f4753217a8739c3edbae13702981605edb]{
+-- Page 10, Offset 22863.
+-- だから事件の直前にやってきたリデルの足跡かと思ってたけど、彼女、まったく雨に濡れていなかった。
+  Du coup, j'ai cru que ces traces étaient l'œuvre de Riddell arrivée juste avant l'incident, mais elle n'était pas du tout mouillée par la pluie.
+
+}
+[sha:b4da90f893daf34b13d2e88b9433effbd74941c5]{
+-- Page 10, Offset 22864.
+-- つまり、」
+  En d'autres termes,」
+
+}
+[sha:7dd2922fec30a4e37820e379d848783b044b03a8]{
+-- Page 11, Offset 22865.
+-- 「あの雨の跡はリデルさん以外の、何者かが洋館に入ってきたという証拠……という事ね？
+「ces flaques d'eau sont la preuve que quelqu'un d'autre que Riddell est entré dans le manoir... C'est ça ?
+
+}
+[sha:37c96822d5f29856402525a71022ff70d62ddf95]{
+-- Page 11, Offset 22866.
+-- あの時、玄関には土桔さんと山城先生以外のみんながいたから―――」
+  À ce moment-là, tout le monde était dans le salon à part monsieur Tokitsu et monsieur Yamashiro, donc―――」
+
+}
+[sha:da29f923c2e928c0cebb608481596c930582aeb5]{
+-- Page 11, Offset 22867.
+-- 「姿のない参加者。
+「Un participant que personne n'a vu.
+
+}
+[sha:7782f26869244421ebbf346b4c3c1bdda91c1e54]{
+-- Page 11, Offset 22868.
+-- 十三人目のゲストがいる、という事ですね」
+  Cela implique qu'un treizième invité est présent.」
+
+}
+[sha:bb8c36f53f62b7725435cb836ce3ef0ac772c9b8]{
+-- Page 12, Offset 22869.
+-- 状況はここにきて一変した。
+  Après cette déclaration, la situation changea du tout au tout.
+
+}
+[sha:a3071df7596e4428c0fe591a9c4e631ded1ea846]{
+-- Page 12, Offset 22870.
+-- 蒼崎にお姉さんがいる、というのは初耳だけど、ここは追及している場合じゃない。
+  J'ignorais qu'Aozaki avait une grande sœur, mais ce n'était pas le moment de me renseigner à ce propos.
+
+}
+[sha:b2310411c1331485218470a545afdd39a6b2d373]{
+-- Page 12, Offset 22871.
+-- みんなの緊迫した空気からすると、そのお姉さんとやらはここにいる全員に敵意を持っているらしい。
+  Au vu de l'atmosphère tendue que tout le monde dégageait, cette grande sœur était hostile envers toutes les personnes ici présentes.
+
+}
+[sha:2aed02e48eb7094febc834e674efe0bc5539f553]{
+-- Page 13, Offset 22872.
+-- 「蒼崎橙子ですか。彼女なら、たしかにプロイに精通し、久遠寺の屋敷の見取りも把握しています。
+「Aozaki Tōko. Certes, elle est renseignée sur les Ploy et connaît le manoir Kuonji.
+
+}
+[sha:63ce0b0dff4877963adfbcc2d58364c58d408f6f]{
+-- Page 13, Offset 22873.
+-- なにより私たち―――とくに青子さんに強力な殺意がある。今まで見えてこなかった動機の面でも、最有力候補ですね」
+  Et avant tout, elle a une forte envie de nous tuer―――tout particulièrement Aoko. Même en ce qui concerne le mobile qui nous échappait jusqu'à présent, elle est le candidat parfait.」
+
+}
+[sha:20f8985c67662ce0f171393eb3459554fc329221]{
+-- Page 14, Offset 22874.
+-- 「ですね。橙子さんが犯人だとしたら、部屋に閉じこもるのは得策ではありません。何をやっても力ずくで侵入してくるでしょう」
+「En effet. Si Tōko est le coupable, s'enfermer dans nos chambres n'est pas une bonne idée. Peu importent les mesures que nous prendrions, elle entrerait de force.」
+
+}
+[sha:0fd9da573c880641b64bdc5fe48953ac649228a8]{
+-- Page 15, Offset 22875.
+-- 「うん、トコちゃんならやるわ。だってホラー大好きだもの！　……うーん。ここにきて展開がホラーになるのは残念だけど、まずは安全を確保しないとね」
+「Oui, elle en serait bien capable. Elle adore les films d'horreur...! Hum. C'est bien dommage qu'on ait affaire à un scénario horrifique maintenant, mais d'abord, nous devons veiller à notre sécurité.」
+
+}
+[sha:e2b646a5f35b8cbaaa6a4933ad63da94a89f4f83]{
+-- Page 15, Offset 22876.
+-- 「皆さん、手分けして洋館内を調査しましょう。橙子さんがいるのかいないのか、そこをハッキリさせなくては」
+「Séparons-nous et fouillons le manoir. Nous devons nous assurer que Tōko est effectivement là.」
+
+}
+[sha:6b6407ad29456b9f77ace397930ae0e0e191cf52]{
+-- Page 16, Offset 22877.
+-- 「え？　あ、うん、そうよね。
+「Hein ? Ah, oui, c'est vrai.
+
+}
+[sha:def8d0e43a9cce41b9b760e5fc1fa3a6fc1232f5]{
+-- Page 16, Offset 22878.
+-- ……じゃ、じゃあ私は、自分の部屋周辺を調べるわ」
+  ... Al... Alors, je vais chercher du côté de ma chambre.」
+
+}
+[sha:ae8735d11c32e1b5a91a2522d6c32c9275d7a125]{
+-- Page 16, Offset 22879.
+-- 「わたしは西館と、念のため地下室に。
+「Moi, j'irai dans l'aile ouest et au cas où, au sous-sol.
+
+}
+[sha:9ac38c5faeeb270433f2fecbf5cfe227a17e4071]{
+-- Page 16, Offset 22880.
+-- 久万梨さんたちは危険だから、ここで待っていて」
+  Quant à Kumari, Tobimaru, Ritsuka et Shizuki, ça pourrait être dangereux, alors restez ici.」
+
+}
+[sha:ade2e9e3a9875b27f91f2ec834652ec82d18c70e]{
+-- Page 17, Offset 22881.
+-- そんな訳で、ドタバタと慌ただしく居間を後にしていく人々。
+  Ainsi, les hôtes quittèrent le salon précipitamment et bruyamment.
+
+}
+[sha:0dfd38771be7ce16cbca9045aef4193680aed940]{
+-- Page 17, Offset 22882.
+-- わたしと槻司、静希、律架さんを残して、みんな館内の探索に出払ってしまった。
+  Nous laissant dans le salon, Tsukiji, Shizuki, Ritsuka et moi, tout le monde partit fouiller le manoir.
+
+}
+[sha:d286c4de623f9713f40f5827a00b8a339422e59a]{
+-- Page 17, Offset 22883.
+-- ……時間だけが過ぎていく。
+  ... Seul le temps s'écoulait.
+
+}
+[sha:7f252cc38bfc9446b6c96744b023198dc54b5fa6]{
+-- Page 17, Offset 22884.
+-- 緊張と疲れからか、目蓋がやや重い。
+  La nervosité et la fatigue avaient rendu mes paupières lourdes.
+
+}
+[sha:e08a25442a489e8118a497fcee7d82a492ec66d2]{
+-- Page 17, Offset 22885.
+-- 時計の針が零時を示す。
+  Les aiguilles de l'horloge pointaient maintenant vers minuit.
+
+}
+[sha:6b46ebdf6d1759c26308fe70c8eb5bad03b4b2be]{
+-- Page 18, Offset 22886.
+-- 「紅茶でも淹れてくるか。草十郎、お茶はどこで？」
+「Je vais faire du thé. Sōjūrō, où je peux en trouver ?」
+
+}
+[sha:45ab7b921d252d4d96ec0d682bdc50dabcdf1abc]{
+-- Page 18, Offset 22887.
+-- 「それならサンルームのテーブルに、まだ温かいポットがあるよ」
+「Tu devrais trouver une théière encore chaude sur la table de la véranda.」
+
+}
+[sha:ac5fbae7fe951c40f1d55c1c6b15cc3bff63d548]{
+-- Page 18, Offset 22888.
+-- 「よし。取ってくる」
+「OK. Je vais la chercher.」
+
+}
+[sha:77f6649563b5724b3b20343a2f7f6e64c0af662f]{
+-- Page 18, Offset 22889.
+-- 気分転換のつもりなんだろう。
+  C'était sûrement dans l'intention de se changer les idées.
+
+}
+[sha:5c6c23c2d67dce83ed84e8d012648ff5f7bfedb2]{
+-- Page 18, Offset 22890.
+-- 槻司は自発的にサンルームに向かった。
+  Tsukiji se dirigea spontanément vers la véranda.
+
+}
+[sha:5b9f8a7c5e7f30a451109a70a087c198be5a7521]{
+-- Page 19, Offset 22891.
+-- 「お？」
+「Oh ?」
+
+}
+[sha:9dfc1fbb7d9385cdd03abf217ae7a27d24adf3d8]{
+-- Page 19, Offset 22892.
+-- また電気が落ちた。
+  Les plombs avaient encore sauté.
+
+}
+[sha:6601443b27ac86f2b65bb6e3b087bbd505a2e0e2]{
+-- Page 19, Offset 22893.
+-- 「まいったな、これじゃ何も見え―――」
+「Merde alors, je n'y vois ri―――」
+
+}
+[sha:a4b33e318a3992d59ece1af272f5cabe14617701]{
+-- Page 19, Offset 22894.
+-- まばゆい閃光。
+  Un flash éblouit la véranda.
+
+}
+[sha:885cf7a31d101110d790410a49e5c87fd7d9c04f]{
+-- Page 19, Offset 22895.
+-- サンルームの窓ガラス越しに、
+  À travers la fenêtre,
+
+}
+[sha:aede3a78918f84740345d2598eb7293d88a73cbc]{
+-- Page 19, Offset 22896.
+-- 外の落雷の様子、が―――
+  grâce au coup de foudre―――
+
+}
+[sha:d3ce4f6ab566691cf7f24253733b9a3155b3bf2f]{
+-- Page 20, Offset 22897.
+-- 「きゃーーーーー！」
+「Aaaahーーーーー!」
+
+}
+[sha:a55fe194b41810bc740cc50d2c1014aae90f3e78]{
+-- Page 20, Offset 22898.
+-- 「槻司くん、下がって！　早く！」
+「Tsukiji, recule ! Vite !」
+
+}
+[sha:9b7ce85904ff373f17c7bd77a47caf67614909c5]{
+-- Page 20, Offset 22899.
+-- 「な、なんだ今の、誰かいたぞ！？」
+「C... C'était quoi à l'instant ? Y avait quelqu'un !」
+
+}
+[sha:1967abe12f3845d87b57a4a0ff1ddf5372f2ec83]{
+-- Page 20, Offset 22900.
+-- 「三人とも、こっち！　ホールに移動しましょう！」
+「Vous trois, venez par là ! Allons dans le hall !」
+
+}
+[sha:e361d1ff589fb334845e7059f92146e31fe931ff]{
+-- Page 21, Offset 22901.
+-- 律架さんに手を引かれて、暗闇の居間を後にする。
+  Ritsuka me tira la main et je quittai le salon plongé dans l'obscurité.
+
+}
+[sha:12dc0ebc65b63e26f0950299c9f6894e6001071d]{
+-- Page 21, Offset 22902.
+-- 落雷による目の錯覚―――にしては、人影は明白すぎた。
+  Pour une illusion d'optique causée par la foudre―――l'ombre humaine était bien trop nette.
+
+}
+[sha:4bc6f5d38f86f5e9263957a21669b06187ebbc75]{
+-- Page 21, Offset 22903.
+-- この強風の中、屋敷の外に誰かがいる。
+  Quelqu'un se trouvait à l'extérieur par un temps pareil.
+
+}
+[sha:cbf1fc6cf2ade64bea9c240df80f139863d88c54]{
+-- Page 21, Offset 22904.
+-- それはどう考えても、正体不明の“十三人目”の実在を示していた。
+  J'avais beau y réfléchir, cela ne pouvait être personne d'autre que le treizième invité à l'identité inconnue.
+
+}
+[sha:b23d2f7f1f6015ea71a7d259601b8665ebe7d3e0]{
+-- Page 22, Offset 22905.
+-- 逃げるようにホールに駆け込んだ。
+  Nous nous réfugiâmes dans le hall.
+
+}
+[sha:1a1235184e37cd2b77649d8e3b93b9c5c2d07dcb]{
+-- Page 22, Offset 22906.
+-- 壁の電灯は別電源らしく、完全に闇に没していない。
+  Les lampes murales semblaient être alimentées par une autre source d'électricité. Nous n'étions pas complètement plongés dans le noir.
+
+}
+[sha:c5fdef82c795ddf20574e2b26e49d2126c7b50e8]{
+-- Page 23, Offset 22907.
+-- 「クマ？　どうしたのよ、血相変えちゃって」
+「Kuma ? Qu'est-ce qui se passe ? Tu es blême !」
+
+}
+[sha:3ca6ef276d75dfeab10ea4c2d0c2929ea8040ced]{
+-- Page 23, Offset 22908.
+-- 「そ、外、外に誰かいた！」
+「De... Dehors, dehors, il y avait quelqu'un !」
+
+}
+[sha:f4422919d8269625695c057af993e35ade4c5405]{
+-- Page 23, Offset 22909.
+-- 「ちょっと見てくる。草十郎、鳶丸、<金鹿|こじか>をお願い」
+「Je vais voir. Sōjūrō, Tobimaru, je vous confie Kojika.」
+
+}
+[sha:b275cd469e0dc31697d9e0d4eba401531ad26104]{
+-- Page 24, Offset 22910.
+-- 蒼崎は居間に通じる<廊下|やみ>へと小走りで消えていった。
+  Aozaki disparut en trottinant vers les ténèbres conduisant au salon.
+
+}
+[sha:33c4b9aeb30f8a15c9f6827d204bf2a31c6d69fd]{
+-- Page 24, Offset 22911.
+-- 騒ぎを聞きつけたのか、二階からは詠梨神父、シスター唯架、一階の西館からは久遠寺さんがやってきた。
+  Alarmés par l'agitation, père Eiri et sœur Yuika descendaient du premier étage tandis que Kuonji arrivait depuis le rez-de-chaussée de l'aile ouest.
+
+}
+[sha:aadd5cb0069851e9863a9e96042dd2203c3f76fd]{
+-- Page 25, Offset 22912.
+-- 「屋敷の電源がまた落ちたようですが、何かあったのですか？」
+「Les plombs de la résidence semblent encore avoir sauté, il s'est passé quelque chose ?」
+
+}
+[sha:bed7b90434963f767a2a812b5efa5dfaba6ad1d4]{
+-- Page 25, Offset 22913.
+-- 「それが、サンルームの外に人影っぽいものが見えて、つい逃げてきちゃった。いまはアコちゃんが様子を見に行ってるわ」
+「Eh bien, à l'extérieur de la véranda, on a vu quelque chose ressemblant à une silhouette, et sur le coup, on s'est enfuis. La petite Ako vient juste d'aller voir.」
+
+}
+[sha:1cf2f4aae63df7a41c3e4cf82763be8350090ab7]{
+-- Page 26, Offset 22914.
+-- 状況を説明していると、すぐに蒼崎が戻ってきた。
+  Aozaki revint aussitôt que Ritsuka eut expliqué la situation.
+
+}
+[sha:0035b11db826d5ff087c9efe64a907744afbb041]{
+-- Page 26, Offset 22915.
+-- 「とりあえず異状なし。サンルームの窓も割れてないし、誰かが中に入ってきた様子はないわ」
+「Il n'y avait rien d'anormal. Les fenêtres de la véranda ne sont pas brisées et rien n'indique que quelqu'un est entré.」
+
+}
+[sha:cfc3653474ba446b538cba90c6600e54b3d93fad]{
+-- Page 27, Offset 22916.
+-- 「こちらも異状はありませんでした。館内に橙子さんはいないようです。そうなると……」
+「De notre côté non plus, il n'y avait rien à signaler. Tōko ne semble pas se trouver dans le bâtiment. Dans ce cas...」
+
+}
+[sha:2379126615a0fd5c87c248bc3fcc9aa6422468f3]{
+-- Page 27, Offset 22917.
+-- 「先ほどの、外に人影を見た、という件ですね。館内に異常がないのなら、あとは屋敷の周りだけです」
+「On ne peut penser qu'à la silhouette que vous avez repérée à l'extérieur. S'il n'y a rien d'anormal à l'intérieur, alors il ne reste plus qu'à vérifier les alentours de la demeure.」
+
+}
+[sha:13468ff655ead0d5350f0f44c24173e07478c285]{
+-- Page 28, Offset 22918.
+-- 「分かりました、外を調べに行きましょう。
+「Très bien, partons voir ce qu'il en est à l'extérieur.
+
+}
+[sha:3c9d1aee796318a749eff95741de25535a6c09b7]{
+-- Page 28, Offset 22919.
+-- まずはサンルームのあたりですね。危険ですから、調べに行くのは私とシスター唯架……それと青子、頼めますか？」
+  Commençons par les alentours de la véranda. Comme c'est dangereux, ceux qui participeront aux recherches seront sœur Yuika, moi et... Aoko, je peux te demander de venir aussi ?」
+
+}
+[sha:74990d4997e566bf1dd1185d0235dd562b93bffe]{
+-- Page 29, Offset 22920.
+-- 「……エイリ神父。この風では、私はあまりお役に立てないかと。耳が利きません」
+「... Père Eiri. Avec ce vent, je ne pense pas être d'une très grande aide. Mes oreilles ne seront pas efficaces.」
+
+}
+[sha:28670484812e227ebe5fd816898bd9d10c660029]{
+-- Page 30, Offset 22921.
+-- 「そうでしたね。
+「En effet.
+
+}
+[sha:8650da5982d9d3c84892e478cc372887d1383466]{
+-- Page 30, Offset 22922.
+-- しかし、私はともかく青子をひとりにするのは……」
+  Je pourrai m'en sortir, mais je n'aime pas l'idée de laisser Aoko seule...」
+
+}
+[sha:a2c3aa287d6b0d0137a90f9741186d4824482fcd]{
+-- Page 30, Offset 22923.
+-- 「気にしないで、私はひとりで身を守れるから。
+「Ne t'en fais pas, je peux me débrouiller toute seule.
+
+}
+[sha:5aba292894124306c44f67ba7c00864c018b2230]{
+-- Page 30, Offset 22924.
+-- 詠梨の方こそ大丈夫？　今日、武装してないんでしょ？」
+  Et toi alors, ça va aller ? Tu n'es pas armé, pas vrai ?」
+
+}
+[sha:7f1be1582ea5b4ef3f77925801fb86308c4b29a6]{
+-- Page 31, Offset 22925.
+-- 「それでしたら……草十郎君、お願いできますか？
+「Dans ce cas... Sōjūrō, veux-tu m'accompagner ?
+
+}
+[sha:a7d4b357f214f37809847de2d30dd359279a652d]{
+-- Page 31, Offset 22926.
+-- 彼なら互いの呼吸を心得ていますので」
+  Tu sais travailler en équipe.」
+
+}
+[sha:ebd16cdb804920c80d91c476cdca296c1b0f8500]{
+-- Page 31, Offset 22927.
+-- 詠梨神父の申し出に、静希は深刻な顔で頷いた。
+  Shizuki accepta d'un air grave la proposition de père Eiri.
+
+}
+[sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
+-- Page 31, Offset 22928.
+-- わたしは―――
+  Je―――
+
+}

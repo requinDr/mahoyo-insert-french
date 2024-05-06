@@ -1,0 +1,834 @@
+[sha:609fa3aa9a77384a1e6791575cc8f71fc30610c5]{
+-- Page 0, Offset 20132.
+-- おーす、今日もワンワン働いているッスかシャバ僧。
+        Yo ! Tu travailles toujours comme un chien, l'idiot ?
+
+}
+[sha:7c93ac6e16838926bcb4e0ff005d894907e2c151]{
+-- Page 0, Offset 20133.
+-- これで鳥の餌を一ダースくれ。
+        Donne-moi une douzaine de portions pour oiseau.
+
+}
+[sha:49a426d90f9c837c7a620ef999eeb31dff4bd698]{
+-- Page 0, Offset 20134.
+-- ヒエかムギの一番いいところを頼む。
+        Ton meilleur millet ou ton meilleur blé.
+
+}
+[sha:5832b22e3284a3da20c1957bc6af194f17f9e9f1]{
+-- Page 1, Offset 20135.
+-- いらっしゃいませ。
+    Bienvenue.
+
+}
+[sha:70ed4d37d4b762d710c69c1038484a03f419b523]{
+-- Page 1, Offset 20136.
+-- 昼間から買い物なんて、いい身分ねロビン。
+    Tu fais les courses la journée ? Je t'envie, Robin.
+
+}
+[sha:49aff8449cbbcbc0bc641204223c54be1de04157]{
+-- Page 2, Offset 20137.
+-- げぇ、アリスさん！？
+    Hein ? Mam'zelle Alice ?
+
+}
+[sha:9f901c5b1b00cbd59f4f7e71157e08ad9dc1d596]{
+-- Page 2, Offset 20138.
+-- ななな、なんで店員とかしてるッスー！？
+    Po-Po-Pourquoi c'est vous la vendeuse ?
+
+}
+[sha:ee35692655fbf613f260db213aaf82557f5f0d7f]{
+-- Page 2, Offset 20139.
+-- シャバ僧はどこいったッスか！？
+    Où est passé l'idiot ?!
+
+}
+[sha:31e2e31dc207faca60dc6c16adadfd3f24bd00f9]{
+-- Page 3, Offset 20140.
+-- トリ頭のクセに細かいコトを気にするのね。
+    Tu es bien curieux pour une cervelle d'oiseau.
+
+}
+[sha:5f31e8959c9e550e9034506fa71da592af9ea6f3]{
+-- Page 3, Offset 20141.
+-- 今日はわたしが店番をしているの。
+    Aujourd'hui, c'est moi qui garde la boutique.
+
+}
+[sha:a26ac58566664b422ef0d5c48cf674332ec0c8e4]{
+-- Page 3, Offset 20142.
+-- 何か、意見があって？
+    Aurais-tu quelque chose à y redire ?
+
+}
+[sha:31854702c991bbf6616e14444ddac128d89c4c41]{
+-- Page 4, Offset 20143.
+-- いや、ないッスけど。
+  Non, pas du tout.
+
+}
+[sha:417873448ed1cc03809cc3f8dbf0a1ac9ce28323]{
+-- Page 4, Offset 20144.
+-- あ。ピンときたッスよ。さてはアリスさん、
+  Ah. J'ai capté ! Mam'zelle Alice,
+
+}
+[sha:6348b3992c87a94d86d7302da748dba96157fb8b]{
+-- Page 4, Offset 20145.
+-- シャバ僧と一緒にアルバイトとかスイーツなコ、
+  vous vouliez travailler avec l'idiot, que c'est mi...
+
+}
+[sha:2863d1082203d9ec253ab291ce685e2a0d0dd19c]{
+-- Page 5, Offset 20146. Mods: @e.
+-- なぜなにー、プロイー。
+    Tout sur les Ploy.
+
+}
+[sha:4cb164e20420a3002b93972d4f29c4a78f223861]{
+-- Page 5, Offset 20147.
+-- 今回は比較的安全なプロイキッシャーの紹介よ。
+  Aujourd'hui, nous verrons des Ploy Kickshaw plutôt inoffensifs.
+
+}
+[sha:5915b1b3bbc08bf936813b5fbd8d66eef37fae94]{
+-- Page 5, Offset 20148.
+-- さあロビン。
+  Allez, Robin.
+
+}
+[sha:10e485746aec69ef09baf38afbb87e8cfb567d5b]{
+-- Page 5, Offset 20149.
+-- 好きなものを選びなさい。
+  Choisis ce que tu veux.
+
+}
+[sha:d15a73e90d1c85eb55ff6372185e3ec616509769]{
+-- Page 6, Offset 20150.
+-- ケーキショップかと思ったら、
+  Je me croyais chez un pâtissier,
+
+}
+[sha:e28bee95abb21d6ca9c06a786bece8d2f7df59f1]{
+-- Page 6, Offset 20151.
+-- プロイキッシャーを売ってる闇市場だった。
+  et me voilà chez un trafiquant de Ploy Kickshaw.
+
+}
+[sha:7326256bb5cbf3d469bcc1f2ca7e0c8bd25d915d]{
+-- Page 6, Offset 20152.
+-- 三咲町はホント地獄ッスね。
+  Le vieux quartier de Misaki, c'est vraiment l'enfer.
+
+}
+[sha:b33bf21c7e6a8ba77d6a753b8cf19c2c5c46e567]{
+-- Page 7, Offset 20153.
+-- じゃあ右端から順にいくッスか。
+    OK, partons de la droite.
+
+}
+[sha:150df9f3f8e9cd75f270debf6620e329a680de07]{
+-- Page 7, Offset 20154.
+-- この宝石箱っぽいヤツは何スか？
+    C'est quoi cette sorte de boîte à bijoux ?
+
+}
+[sha:2cc745e6b555f1448f8563f335cdb3e22c8a3300]{
+-- Page 8, Offset 20155.
+-- それは６ペンスの歌。
+      C'est la Chanson à 6 pences.
+
+}
+[sha:ba7f5d9c054c90d46808a87c77811b4f65514760]{
+-- Page 8, Offset 20156.
+-- ジャック・イン・ザ・ボックス、
+      Jack in The Box,
+
+}
+[sha:3e7fef2b7e3b88092f5a1e9dde1ea02f20027e4b]{
+-- Page 8, Offset 20157.
+-- シックス・スィング・チョコレイトよ。
+      ou encore Six Sing Chocolate.
+
+}
+[sha:b7c856ffe27800308ae5702c8d7c811fd5106d8c]{
+-- Page 9, Offset 20158.
+-- 地味に見えるけど、役に立つプロイね。
+    Il a l'air faible, mais c'est un Ploy utile.
+
+}
+[sha:9cb744e0d93218c0a781affb0e1dc1707cb7074f]{
+-- Page 9, Offset 20159.
+-- どこかの誰かさんとは大違い。
+    Rien à voir avec un certain oiseau ici présent.
+
+}
+[sha:98d72ad523105bc0c3aebeaad102db12bae74858]{
+-- Page 10, Offset 20160.
+-- あったりまえッス！
+      Évidemment !
+
+}
+[sha:0149dc84f812d4c2d6ffdf377c3868ff62b69ff1]{
+-- Page 10, Offset 20161.
+-- 鳥はすべて有能かつエレガントな使い魔ッスから。
+      Les oiseaux sont des familiers capables et élégants.
+
+}
+[sha:a30c08395682a2fb01e96dcd5d3d3b310c35087f]{
+-- Page 11, Offset 20162.
+-- かくいうジブンも
+      Même moi,
+
+}
+[sha:3f65bcb62535ee7052d4c96411253ed7de51a153]{
+-- Page 11, Offset 20163.
+-- ６ペンスの歌なら知ってるッスよ。
+      je connais la Chanson à 6 pences.
+
+}
+[sha:5dc28755499159a4f88ff1406dd1f0eea7070e63]{
+-- Page 11, Offset 20164.
+-- 鳥つながりで。
+      Grâce à des amis oiseaux.
+
+}
+[sha:c1bf6bbb37abcbca75eadb5063450a021e8ad8ab]{
+-- Page 12, Offset 20165.
+-- 『６ペンスの歌を歌うッス～♪
+    『Chante une chanson à 6 pences～♪
+
+}
+[sha:f319307376afa5b1f0638a179a6d2bac3c20e2e4]{
+-- Page 12, Offset 20166.
+-- ポケットにはいっぱいのライ麦ッス～♪
+    Une poche de seigle bourrée～♪
+
+}
+[sha:91e651af33975cc6d932a77485a6543caa09e901]{
+-- Page 12, Offset 20167.
+-- 24羽の黒ムクドリ～パイの中に焼きこまれた～♪』
+    24 oiseaux noirs, dans la tourte grillés～♪』
+
+}
+[sha:93b26c90cf8ef3f5a273a4110978f2341bfe8260]{
+-- Page 13, Offset 20168.
+-- ……むう。
+    ... Hmm.
+
+}
+[sha:4666757e509b7c0c550f84b54f8533f186e74f22]{
+-- Page 13, Offset 20169.
+-- なぜ意味もなく鳥を虐殺するのか分かんないッス。
+    J'comprends pas pourquoi on massacre les oiseaux sans raison.
+
+}
+[sha:8cfe42a5d2ce32b87499269bc66c14bbf2a7f89e]{
+-- Page 13, Offset 20170.
+-- 西欧圏の人間どもは鳥をなんだと思っていたのか。
+    Qu'est-ce qu'ils avaient contre les oiseaux, ces nordiques ?
+
+}
+[sha:0535f3abe028fc21256b285fe4aa8e4b6796633f]{
+-- Page 14, Offset 20171.
+-- その後は『お金の勘定をする王さま』
+  Dans la suite, on a aussi :
+
+}
+[sha:abd21be223d1e2bc1c26e2ae6d9ee467a93dffda]{
+-- Page 14, Offset 20172.
+-- 『こっそりハチミツかけたパンを食べる王妃』
+  “Le roi, son argent comptait,
+
+}
+[sha:844e689443bf4f437717b46ae7277f2cb374a9a6]{
+-- Page 14, Offset 20173.
+-- といった歌詞が続くわね。
+  la reine, de tartines au miel s'empiffrait.”
+
+}
+[sha:718d91d0bb3718bd7a9b79fcfd0a8ef33f07c156]{
+-- Page 15, Offset 20174.
+-- 二番目以降は
+      Après le deuxième couplet,
+
+}
+[sha:61a536171f9c148e84f56adeb1cde9d16310ff26]{
+-- Page 15, Offset 20175.
+-- 当時の政治を風刺した唄なんじゃないかしら。
+      le poème prend la forme d'une satire de la politique de l'époque.
+
+}
+[sha:7a60944068a92df0150a82536ecb414317d07b58]{
+-- Page 16, Offset 20176.
+-- いや、端的に久遠寺邸の日々を表しているッス。
+   Non, ça décrit l'quotidien d'la résidence Kuonji.
+
+}
+[sha:ad8af337d22d7481393c2084ef18f38f0fc6f024]{
+-- Page 16, Offset 20177.
+-- 金勘定するのが王じゃなくて女王な青セーターで、
+   Le roi qui fait les comptes, c'est en fait la reine au pull bleu.
+
+}
+[sha:03dcf7a8de3008fc9322c7ee4e8d826528b4e8cf]{
+-- Page 16, Offset 20178.
+-- こっそり贅沢をするのが王妃じゃなくてアリ
+   Et celle qui dépense en secret, c'est pas la reine mais Mam'z...
+
+}
+[sha:bbc1692a17afc8f6d60c1896d2e5c5111707f489]{
+-- Page 17, Offset 20179. Mods: @n.
+-- さよならー、ロビンー。
+            Adieu, Robin.
+
+}
+[sha:974dfcc7d247779b2adb4fdb6bc09ed06518e1f5]{
+-- Page 17, Offset 20180.
+-- 次はなに？
+            Tu prends quoi ensuite ?
+
+}
+[sha:80101911b3481cab542d10215174436b270b4834]{
+-- Page 18, Offset 20181. Mods: @k, @e.
+-- 生きてる？　とか　愛してる？
+  Vous n'êtes pas soulagée que je sois vivant ?
+
+}
+[sha:aab21b8d4dabd4223c7dae4b773904f451d7b9d7]{
+-- Page 18, Offset 20182. Mods: @k, @e.
+-- とか、そういうセリフはないッスか。
+  Pas de mots d'amour ?
+
+}
+[sha:a5b23e2a6e8dbe5cf1027f6413d386bac13903f1]{
+-- Page 18, Offset 20183.
+-- ないッスね。
+  Non, j'imagine.
+
+}
+[sha:4d7dd13b5bfebccdcd62eb84f0471d611cdb8988]{
+-- Page 19, Offset 20184. Mods: @n.
+-- でもジブン的には<無問題|ノープロ>。
+        Mais y a pas de problème.
+
+}
+[sha:d5cfa345bb56cbc63f4b7d62957720cbb8c9a5e4]{
+-- Page 19, Offset 20185. Mods: @n.
+-- アリスさんの虐待もラブのカタ……
+        Vos sévices sont une forme d'am...
+
+}
+[sha:5dc8d1857cd6e1eb6c9508006bb4bcecf89258bb]{
+-- Page 20, Offset 20186.
+-- ん、ぶはははははは！
+            Ha ha ha ha !
+
+}
+[sha:9a4fcab900cb3b23343d52fa8fbdb823f5795269]{
+-- Page 21, Offset 20187.
+-- なんスかコレ、超ウケルー！
+      C'est quoi c'truc ? Trop marrant !
+
+}
+[sha:c5b0982b10ea964bf669e1f52b4c79b26179b9f5]{
+-- Page 21, Offset 20188.
+-- このでっぷりしたヤツ、超ブサイクなんですけどー！
+      Ce gros machin est vraiment moche !
+
+}
+[sha:5caeec78ba96a401ef91183d2b555a747fc3dc55]{
+-- Page 21, Offset 20189.
+-- 生きてるのが恥ずかしくなるレベルッスー！
+      Il devrait avoir honte d'exister !
+
+}
+[sha:f8d335759cd83031adcdea5bd190f19ee665c89b]{
+-- Page 22, Offset 20190.
+-- アナタよ。
+              C'est toi.
+
+}
+[sha:72b6c1d9c7acf74d39ec631b035a24a31ea90ea1]{
+-- Page 23, Offset 20191.
+-- アナタヨ？
+                    Sétoi ?
+
+}
+[sha:26e09b6ae30a933f64c4b94224c24f304f235773]{
+-- Page 24, Offset 20192.
+-- だから、それがアナタの本体。
+          C'est ton véritable corps.
+
+}
+[sha:320a5bc452605f61ac1d4351fd39e60baef3e27f]{
+-- Page 24, Offset 20193.
+-- ロスト・ロビン・ロンド、とタグには書かれているけど、
+          L'étiquette dit “Lost Robin Round”,
+
+}
+[sha:16e7585286c4dd7dbb09e3958d872c77860d2998]{
+-- Page 24, Offset 20194.
+-- アナタには勿体ない名称ね。
+          mais ce nom est bien trop glorieux pour toi.
+
+}
+[sha:2d69eb0673cad96ed8be12a78b005141efb86605]{
+-- Page 25, Offset 20195.
+-- まさにミケランジェロクラスの造形ッス。
+        C'est une œuvre digne du talent de Michel-Ange.
+
+}
+[sha:48ca3909fe15c37ef2bb76770d1c997c8022b2f7]{
+-- Page 25, Offset 20196.
+-- ジブン、店に入った時から、コイツが一番高価で大人気だって
+        Dès que je suis entré, j'ai su que c'était le plus cher
+
+}
+[sha:daf66e4beed38fa024f6c86eb3dff140c5728344]{
+-- Page 25, Offset 20197.
+-- 気付いてたッスよ。ほんとほんと。
+        et le plus populaire. Juré.
+
+}
+[sha:77424efd457729966db883507eea2e000a0edf23]{
+-- Page 26, Offset 20198.
+-- 詳細データは必要ないわね。
+Inutile d'entrer dans les détails, n'est-ce pas ?
+
+}
+[sha:9061dab44b5a2e8ae1a95074a1903578ba1ff310]{
+-- Page 26, Offset 20199.
+-- アナタ、本編で十分すぎるほど出しゃばってるから。
+Tu apparais bien assez comme ça dans l'histoire principale.
+
+}
+[sha:dae7c2ceda91e4abdfbf5a60e147e0b9066b6b31]{
+-- Page 27, Offset 20200.
+-- 元は葬式の歌よ。
+    Il se base sur un chant funèbre.
+
+}
+[sha:421f88a3ce129aa1f74360d7f646c7dfe8fc1666]{
+-- Page 27, Offset 20201.
+-- 殺された<駒鳥|ロビン>を巡ってのお話。
+    L'histoire tourne autour du meurtre du rouge-gorge.
+
+}
+[sha:774be8469c96fcc1b176e96ec1b52c85b6d9a5d0]{
+-- Page 28, Offset 20202.
+-- 「誰が？」という問いかけに、
+    À la question “Qui l'a fait ?”,
+
+}
+[sha:fbdf4eadded0179a6c448c8abe4b4ac854f6c642]{
+-- Page 28, Offset 20203.
+-- 「わたしが」と参列者たちが答えていくの。
+    l'assistance répond “Moi”.
+
+}
+[sha:d8eac0437126a94188d2e58999f469392257f8f2]{
+-- Page 28, Offset 20204.
+-- 犯人捜しの歌でもあるわ。
+    Elle dépeint aussi la recherche du coupable.
+
+}
+[sha:e5c8f84d8a292f6cf9f8f37a03715d549eabdbad]{
+-- Page 29, Offset 20205.
+-- 大ヒットしたマザーグースで、その後、
+      Avec l'immense succès de Mother Goose,
+
+}
+[sha:3b90061b3430829453a59381b5ea76860db3ad68]{
+-- Page 29, Offset 20206.
+-- 前日譚である「コックロビンとジェニーレンの幸せな求婚」が
+      le prologue “L'heureuse cour de Cock Robin et Jenny Wren”
+
+}
+[sha:33ab30129e7171a265cafa156c332b7a49451989]{
+-- Page 29, Offset 20207.
+-- 出版され、これまたヒット。
+      fut publié et connut aussi un franc succès.
+
+}
+[sha:9fd65033b10f862be3ddde3295b795587f33180c]{
+-- Page 30, Offset 20208.
+-- その後、コックロビンの死の後を歌った
+    Ensuite vint le procès et la punition du moineau
+
+}
+[sha:a1628cc2024f95e1552925034f78a336df9879e3]{
+-- Page 30, Offset 20209.
+-- スズメの裁判と処罰も出版。
+    qui chanta après la mort de Cock Robin.
+
+}
+[sha:6871982eb9541126ba7099e519bc2d19dfd2323b]{
+-- Page 30, Offset 20210.
+-- 羨ましいわ。印税だけで大もうけね、ロビン。
+    Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
+
+}
+[sha:a3475a9ad6fabff8a3b16497569968e44c2df5f9]{
+-- Page 31, Offset 20211.
+-- 鳥には一円も入ってこないッスけどね。
+      Pourtant, le piaf n'a pas reçu un seul yen.
+
+}
+[sha:28fa4f664428a6474f39c694df969b9ae494ca65]{
+-- Page 32, Offset 20212.
+-- それよりアリスさん、知ってるッスか。
+      À part ça, vous saviez que le rouge-gorge
+
+}
+[sha:8633655703683a476a998ee8af6483e5950511ce]{
+-- Page 32, Offset 20213.
+-- 駒鳥はイギリスの国鳥ッスよ。
+      est l'oiseau national du Royaume-Uni ?
+
+}
+[sha:2514584de9d560068183cd9b54b0e21e19fd8d94]{
+-- Page 32, Offset 20214.
+-- クリスマスの象徴でもあるッス。
+      Il symbolise aussi le jour de Noël.
+
+}
+[sha:39e947a8d84bed6920bd001b5b7397ad4551b478]{
+-- Page 33, Offset 20215. Mods: @k, @e.
+-- つまり―――まほよの主役はジブ
+      En d'autres termes―――le personnage principal de Mahoyo, c'est mo...
+
+}
+[sha:fa646a9fdb275dc47a8c8e6583915adccb6c0281]{
+-- Page 33, Offset 20216. Glued. Mods: @x, @e.
+-- きゃ。
+Kya !
+
+}
+[sha:49eae5f30ad0d231ec11a9e4b2a4c3ab85c6e128]{
+-- Page 33, Offset 20217.
+-- あんまり調子に乗ってると、たいへんよ
+          Il t'arrivera des bricoles si tu t'excites trop.
+
+}
+[sha:ab199cd61c5582e4103f63fee9ad2695e95f3cb4]{
+-- Page 34, Offset 20218.
+-- 既にこれ以上ないほど大変ッス
+      Ça ne pourra pas être pire que maintenant.
+
+}
+[sha:daea2d9a5cd6e4f338f804689ddd0f11dcdbd340]{
+-- Page 35, Offset 20219.
+-- あとは……ほとんど残り物ね。
+          Ensuite...... il n'y a que des restes.
+
+}
+[sha:2654adb519a076e746735e4c79502319b4bd6fac]{
+-- Page 35, Offset 20220.
+-- とりたてて紹介するほどの物ではないわ。
+          Ils ne méritent pas vraiment qu'on en parle.
+
+}
+[sha:d5810eb465d3aef5f017d5acd78c712b917140bf]{
+-- Page 36, Offset 20221.
+-- アリスさんアリスさん。
+        Dites, dites.
+
+}
+[sha:10146a9e3aff0c2fdcac75bfe96e7436f45afca3]{
+-- Page 36, Offset 20222.
+-- この三つ目のプロイ、なんスか？
+        C'est quoi ce Ploy-œil ?
+
+}
+[sha:3a0a1a62082e3f9a5758eb36fb0853a7d647b9f0]{
+-- Page 36, Offset 20223.
+-- 目……っぽいカタチをしたキャンディ？
+        Un bonbon en forme... d'œil ?
+
+}
+[sha:28fe2e743076c7c2324bfa5bc11b732212f1386c]{
+-- Page 37, Offset 20224.
+-- 目玉よ。
+            C'est un globe oculaire.
+
+}
+[sha:8b98725ae26d694fd3766fc1a06bffb403693a0d]{
+-- Page 38, Offset 20225.
+-- 目玉っぽいキャンディ？
+  Un bonbon globe oculaire ?
+
+}
+[sha:65f354717f0fcdfeef829d46f97c2022a18864c8]{
+-- Page 39, Offset 20226.
+-- 本物の目玉よ。
+        C'est un vrai globe oculaire.
+
+}
+[sha:e9b1799317ec5044f4edf9050f72b00498223658]{
+-- Page 39, Offset 20227.
+-- 見る？
+        Tu veux voir ?
+
+}
+[sha:ed1701999415e6666394e8d9c2293dbd1bdd763a]{
+-- Page 40, Offset 20228.
+-- ピギャーーーー！？
+    Pigyaaーーーー?!
+
+}
+[sha:04394f3cc432c4ace69ac6fc242f6a90a573b0c2]{
+-- Page 40, Offset 20229.
+-- アリスさんの左目、義眼だったッスか！？
+    Votre œil gauche est artificiel ?!
+
+}
+[sha:b1d645379ba4584b92ff01cf158072005a76905a]{
+-- Page 41, Offset 20230.
+-- ……そういう訳ではないのだけど。
+      ...... Ce n'est pas tout à fait ça.
+
+}
+[sha:beeaa1e6f53a348ae6e9ed6de5b7da0d17e63df8]{
+-- Page 41, Offset 20231.
+-- わたしの左目もプロイ扱いなだけよ。
+      C'est juste que c'est aussi un Ploy.
+
+}
+[sha:212d93434a5339bdee8104580f8597a9f4d03b71]{
+-- Page 42, Offset 20232.
+-- ？　アクロスティック化って、なんスか？
+      ? C'est quoi la polysémie ?
+
+}
+[sha:01a6823f0bad5d4ae8b2216f510e9dbecb4d8ebf]{
+-- Page 43, Offset 20233.
+-- 一つの言葉にたくさんの意味を持たせる事よ。
+  Cela signifie qu'un seul mot comporte plusieurs sens.
+
+}
+[sha:32cba6aec342d4968c7a8095c25ce83bc17e182a]{
+-- Page 43, Offset 20234.
+-- ルイス・キャロルが提示した「鞄語」と同じね。
+  C'est comme les “mots-valises” que Lewis Carroll a inventés.
+
+}
+[sha:bf2cb3e45dd8e04357fd95db15fee1afdd208876]{
+-- Page 44, Offset 20235.
+-- 鏡の国でアリスはハンプティにこう質問したの。
+  Au pays du miroir, Alice demanda à Humpty
+
+}
+[sha:01102775af16f5714c9d1d8fe8cfad9a9af4a7fc]{
+-- Page 44, Offset 20236.
+-- 「しなぬるストーブってどういう意味？」
+  ce que signifie le mot slictueux.
+
+}
+[sha:b206c2673c0eac1fe58b4eb539376972767fe7a0]{
+-- Page 45, Offset 20237.
+-- ハンプティは答えたわ。
+  Humpty lui répondit ceci :
+
+}
+[sha:38c4721dcc7aa268c22127a9f3e1c961ac8f5526]{
+-- Page 45, Offset 20238.
+-- 「うむ。それはな、しなやかでぬるやかという意味だ」
+  「Eh bien, “slictueux” signifie : “souple, actif, onctueux”.」
+
+}
+[sha:02a569206d3dd486b2db27d38b849e7747b511dc]{
+-- Page 46, Offset 20239.
+-- ……分かって？
+  ...... Compris ?
+
+}
+[sha:7961ccf209bcd9a68746933c8ed0b670e4394824]{
+-- Page 46, Offset 20240.
+-- ようは、異なる二つの意味を新しい「言葉」として
+  C'est une règle qui permet de créer un nouveau mot à partir de plusieurs sens différents.
+
+}
+[sha:424ba55a3ae632c046baf764a65ba400da12f1b1]{
+-- Page 46, Offset 20241.
+-- 生み出すルール変更。それが魔眼のアクロ化よ。
+  C'est de là que vient la polysémie de l'Œil Mystique.
+
+}
+[sha:2b54c5d9c02b6572b10e07dfe2745a710c15ce79]{
+-- Page 47, Offset 20242.
+-- 別にハンプティがモデルという訳ではないのだけど、
+    Humpty n'en est pas vraiment le modèle,
+
+}
+[sha:4abd25a2ae98b1a61883dabe7864a34ebd5ed7d1]{
+-- Page 47, Offset 20243.
+-- 彼女はハンプティにちなんだ名前をつけたのね。
+    mais “elle” a choisi ce nom en son honneur.
+
+}
+[sha:ee658122cc34e564f4a86e6c69ecf7637416d865]{
+-- Page 48, Offset 20244.
+-- ふーん。ただの思いつきなんスけど、
+      Hmm. J'viens d'y penser,
+
+}
+[sha:5806450ff2c52d75dcbdac666f4e916683c7c42d]{
+-- Page 48, Offset 20245.
+-- 「初回限定版」と「通常版」をくっつけると
+      mais associer “première édition limitée” et “édition normale”,
+
+}
+[sha:61f9787273634ab1a570381615b7264bf9c35c0f]{
+-- Page 48, Offset 20246.
+-- どうなるッスか？
+      ça donne quoi ?
+
+}
+[sha:8ff073c0ef706afed9465e65db509280f2a96f7d]{
+-- Page 49, Offset 20247.
+-- そうね。その二つを合わせた場合、
+Voyons voir. En combinant les deux,
+
+}
+[sha:159a2ffa43f3b0f87ad1a8cd59a081900ef7fa5e]{
+-- Page 49, Offset 20248.
+-- 初回特典付きのアイテムが永遠に
+les bonus collector de l'édition limitée
+
+}
+[sha:f557285bd426710e3e0f8714444dda9d0ae3661f]{
+-- Page 49, Offset 20249.
+-- 市場に残り続けるでしょう。
+resteraient toujours disponibles sur le marché.
+
+}
+[sha:0fb45bf2b432163d025b45b8874e7776c0747c07]{
+-- Page 50, Offset 20250.
+-- ぶはは！
+      Ha ha ha !
+
+}
+[sha:c751d3abf011a81651cf02deb63c27bf0ebda1f2]{
+-- Page 50, Offset 20251.
+-- その場合、新しい言葉は「初回限定普及版」ッスね！
+      Alors, ce serait une “Première Édition Populaire” !
+
+}
+[sha:d175a00469117484a496969828ca64b456c5add0]{
+-- Page 51, Offset 20252.
+-- 違うわ。「ワゴン行き」よ。
+      Non. “Article au rabais”.
+
+}
+[sha:894ee05f1841e4430814ba5a624a964d4b62ae49]{
+-- Page 52, Offset 20253.
+-- げ。
+                  Ghé.
+
+}
+[sha:3cfd08890b425a42e8be510525b4117daa218a26]{
+-- Page 53, Offset 20254.
+-- ……コホン。
+      ...... Ahem.
+
+}
+[sha:24fb2c41f221819678f06517415fb7fd7dbd3593]{
+-- Page 53, Offset 20255.
+-- このように、使い処が難しいプロイなの。
+      Vois-tu, ce Ploy n'est pas évident à utiliser.
+
+}
+[sha:32eb2855946f9daa9be521be647fb51d26fee234]{
+-- Page 53, Offset 20256.
+-- 今後は気をつけるわ。
+      La prochaine fois, je ferai preuve de retenue.
+
+}
+[sha:fa73697672351fe6daaa87d5eb59018c0114964d]{
+-- Page 54, Offset 20257.
+-- 次は……ああ、これっスか。
+  Ensuite...... Ah, ç'ui-là.
+
+}
+[sha:bdee787ede73606c5f69b03eb5feb10839265a72]{
+-- Page 54, Offset 20258.
+-- コイツについては番外編で語るんで、パスっスね。
+  On en parlera dans le chap' bonus, alors on passe.
+
+}
+[sha:4234dcbb26ebcc28bec6e4a69c82dbeec64b8a42]{
+-- Page 55, Offset 20259.
+-- 次は―――なんスか、これ？
+      Le suivant―――c'est quoi c'truc ?
+
+}
+[sha:db2c1fe73b646c501cdd16610c276e95f5aea914]{
+-- Page 56, Offset 20260.
+-- ……ただの失敗品よ。
+    ...... Ce n'est qu'un produit raté.
+
+}
+[sha:b324b6655dacd0b4db0991ed253e80830939d4ce]{
+-- Page 56, Offset 20261.
+-- わたしの最初のプロイ。
+    C'est mon premier Ploy.
+
+}
+[sha:80bbcca3c171e15fe0f54d0be8a9071b0287a8a1]{
+-- Page 56, Offset 20262.
+-- 使い道はないのだけど、記念として飾っているの。
+    Il n'a aucune utilité. Je m'en sers de décoration par sentimentalisme.
+
+}
+[sha:1161a7835d5e6fddbe477d16efa08aa2e1cbe4c7]{
+-- Page 57, Offset 20263.
+-- この通り、魔術戦には使えないわ。
+  Comme tu le vois, il ne sert à rien au combat.
+
+}
+[sha:4ea7aa1c12d5fe821d450d077f4e452b0ec9272e]{
+-- Page 57, Offset 20264.
+-- カタチもよくないから見せる物でもないのだけど……こういうのは、思い出だから。
+  Et puis, il est plutôt laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
+
+}
+[sha:9fbca0e4a6fe2ed44c950f1a104a9f8d715bf833]{
+-- Page 58, Offset 20265.
+-- ブローチのカタチをした砂糖細工なんスねー。
+      C'est un ouvrage en sucre en forme de broche.
+
+}
+[sha:839f77038a82979553f9ed7507d8ce0341ac0301]{
+-- Page 58, Offset 20266.
+-- うは、あめぇー！
+      Ouah, sucré...!
+
+}
+[sha:8832826f59dcc9cf3feae478ccf97f12854f7bd7]{
+-- Page 58, Offset 20267.
+-- アリスさんの手作りキャンディ、あめぇー！
+      Ce qu'il est sucré, votre bonbon fait maison !
+
+}
+[sha:dfc30c08038b4d77b9840e0d7ca4e55c9a51fd84]{
+-- Page 59, Offset 20268.
+-- そろそろ終業時間ね。
+    C'est l'heure de fermer.
+
+}
+[sha:15a96871f159367df23918f1838240747fc1708a]{
+-- Page 59, Offset 20269.
+-- わたしは先に帰っているから、
+    Moi, je rentre,
+
+}
+[sha:a80734981f9d6f6f68e2349fed6ae0ac31a1d9a2]{
+-- Page 59, Offset 20270.
+-- 後片づけをやっておいて。
+    toi, fais le ménage.
+
+}

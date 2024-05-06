@@ -1,0 +1,666 @@
+[sha:689c911a22de217e8595ef20dc43802f7c292943]{
+-- Page 0, Offset 17785.
+-- 咲き乱れていた白い花々は、ひとつ、またひとつと夜空へ舞い上がっていく。
+  Chaque fleur blanche prenait son envol vers le ciel nocturne.
+
+}
+[sha:d0037155077e42abc53e1139d1234d7adf9aaf08]{
+-- Page 0, Offset 17786.
+-- <吹|ふ><雪|ぶ>く<花霞|はながすみ>の中、有珠は原初の星空を見つめていた。
+  Alice contemplait le ciel étoilé des origines au beau milieu de cette tempête de fleurs.
+
+}
+[sha:a1e205013ba79634f7eb07d8e4a8c6616b8d79fd]{
+-- Page 0, Offset 17787.
+-- 花びらは<群雲|むらくも>になって、静かに、眠るように欠けていく。
+  Les pétales formaient des nuages naissant et disparaissant en silence, comme dans un rêve.
+
+}
+[sha:0ab04918419a5c6f40c4521236c3ec6c958abb6f]{
+-- Page 0, Offset 17788.
+-- いずれは一輪の<華影|かえい>もなく、広場はもとの雪原に<還|かえ>るのだろう。
+  Tôt ou tard, le champ de neige dépourvu de fleurs reprendrait ses droits sur la cour.
+
+}
+[sha:fb37296a89032a7990d26c4f7663d8bb89362cd6]{
+-- Page 1, Offset 17789.
+-- 魔法は終わり。
+  Une fois que la Vraie Magie prendrait fin,
+
+}
+[sha:129e8f1586c3f2245690edb3002d72c050e66ce0]{
+-- Page 1, Offset 17790.
+-- 過去の光景は、あと数分足らずで退場する。
+  ce paysage du passé se dissiperait en quelques minutes,
+
+}
+[sha:2e13957403e3a7b0b37fe87d293b3fc53bf66635]{
+-- Page 1, Offset 17791.
+-- 少年と少女の、行き違った時間のように。
+  à la manière de l'échange temporel entre la jeune fille et le jeune homme.
+
+}
+[sha:d255ad9682bd4afd027de01fe570f26965df76e0]{
+-- Page 2, Offset 17792.
+-- 旧校舎から音が<絶|た>えて<久|ひさ>しい。
+  Les bruits en provenance du bâtiment avaient cessé depuis longtemps.
+
+}
+[sha:481117365b49387e3ac110203df803b39fa1f20a]{
+-- Page 2, Offset 17793.
+-- 有珠は無言で待ち続ける。
+  Alice attendait en silence.
+
+}
+[sha:7fe0e0fdc223fb6257a5fb89afabbe0516d2549e]{
+-- Page 2, Offset 17794.
+-- しばらくの<後|あと>、旧校舎から現れた草十郎の姿を見て、有珠は白い息をこぼした。
+  Lorsqu'elle aperçut la silhouette de Sōjūrō à l'entrée de la vieille école, elle expira un souffle de vapeur blanche.
+
+}
+[sha:0669d6dc775eb53f355a835dcb0a8fdb798cd409]{
+-- Page 2, Offset 17795.
+-- かすかな安堵をふくんだ、終わりを認める嘆息を。
+  Annonçant que tout était enfin terminé, ce soupir contenait également un imperceptible soulagement.
+
+}
+[sha:cfc4787c864d5b4670f258c41980868bef89eca1]{
+-- Page 3, Offset 17796.
+-- 草十郎は青子を抱えてやってきた。
+  Sōjūrō se rapprocha. Il portait Aoko.
+
+}
+[sha:b415697b006205202fb88e30e0e0c9a7edeaf8fb]{
+-- Page 3, Offset 17797.
+-- 背中におぶるのではなく、前に寝かせるように両手で。
+  Elle ne se trouvait pas sur son dos, mais blottie dans ses bras.
+
+}
+[sha:b02ab0a3024b7f70558bf11b911623f1c47a6ae9]{
+-- Page 4, Offset 17798.
+-- 青子は眠っているのか、安らかな顔で目蓋を閉じていた。
+  De toute évidence, elle dormait, car elle avait les paupières fermées et affichait une expression paisible.
+
+}
+[sha:8024551705339cc976875dc4d67c9b215eb818e7]{
+-- Page 4, Offset 17799.
+-- ぐったりとした、けれどしなやかな体と長い髪が、童話の眠り姫を連想させる。
+  Son corps accablé par la fatigue et sa longue chevelure rappelaient la Belle au bois dormant des contes de fées.
+
+}
+[sha:3d48286add66021e2618c32fc739669e6f1e7180]{
+-- Page 5, Offset 17800.
+-- 「待っていてくれたんだ、有珠」
+「Tu nous as attendus, Alice ?」
+
+}
+[sha:5b894e862029f00bf6b0f9722f2b66000fb78cd6]{
+-- Page 5, Offset 17801.
+-- 苦もなく青子を抱える草十郎に、有珠は頷きだけで返答した。
+  Cette dernière répondit d'un simple hochement de tête à Sōjūrō qui portait Aoko sans peine.
+
+}
+[sha:2004ec867840e47391aea01cf405ef86f4746e33]{
+-- Page 6, Offset 17802.
+-- 「橙子さんはどうなったの？」
+「Qu'est-il arrivé à Tōko ?」
+
+}
+[sha:b01620bea244d49a7b695126dff9f3037a9e0d95]{
+-- Page 6, Offset 17803.
+-- 「……いや。よく分からないけど、橙子さんは帰ったよ。
+「...... Eh bien, je n'ai pas trop compris, mais elle est partie.
+
+}
+[sha:9f613be3f51751c4aadb59275bf9a022fabbb63a]{
+-- Page 6, Offset 17804.
+-- 蒼崎が言うにはそう簡単に解呪できない呪いをかけたから、むこう十年は三咲市には入ってこれないって。
+  D'après ce que j'ai entendu, Aozaki lui a lancé une malédiction qu'elle ne pourra pas dissiper facilement. Du coup, elle ne pourra plus revenir dans la ville de Misaki pendant dix ans.
+
+}
+[sha:bef101032589ca40373e04ea5f1ff8536e3cfd38]{
+-- Page 6, Offset 17805.
+-- その後、橙子さんが尻尾をまくのを仁王立ちで見届けて、見えなくなったらそのまま倒れたんだ」
+  Ensuite, Aozaki s'est dressée de toute sa hauteur, pendant que Tōko s'en allait la queue entre les jambes, et quand celle-ci n'a plus été visible, elle s'est effondrée sur place.」
+
+}
+[sha:82426179df49bbf57ec3d1ae856310e3a9a47cf1]{
+-- Page 7, Offset 17806.
+-- その光景は簡単に想像できるのか、有珠はそう、と素っ気なく応えた。
+  “Je vois”, dit simplement Alice, s'imaginant aisément la scène.
+
+}
+[sha:dc035bae8d96c2bfdb6274a921bbd9abcf86b17b]{
+-- Page 7, Offset 17807.
+-- 橙子の心配はするクセに青子の心配はこれっぽっちもしていないらしい。
+  Elle se préoccupait de Tōko, mais elle ne semblait pas du tout se soucier de l'état d'Aoko.
+
+}
+[sha:dc7b94212fc728d23c6e7832e5636bbcd5961a42]{
+-- Page 7, Offset 17808.
+-- 青子と有珠の関係そのものを、ちょっと心配してしまう草十郎だった。
+  La relation qu'entretenaient les deux colocataires avait de quoi inquiéter Sōjūrō.
+
+}
+[sha:4b7b523f6a88f7d969be290c10202ea14857dd06]{
+-- Page 8, Offset 17809.
+-- 「それはともかくとして。
+「Sinon,
+
+}
+[sha:7de9cadca258650c27f58588d6daaa753c11d904]{
+-- Page 8, Offset 17810.
+-- 青子はどうなっているんだろう？」
+  qu'est-ce qui arrive à Aozaki ?」
+
+}
+[sha:2b5487c429b020b702d6bed0777188c95f862fcd]{
+-- Page 8, Offset 17811.
+-- わりとどうでもいいような口ぶりで、草十郎は寝息をたてている少女の顔を覗きこむ。
+  demanda Sōjūrō sur un ton plutôt indifférent, tout en tournant la tête vers la jeune fille qui respirait paisiblement dans son sommeil.
+
+}
+[sha:dfb400c1b5aadb0ff5712232a1af543a7dcaf60e]{
+-- Page 9, Offset 17812.
+-- 「……<無順|むじゅん>と<正順|せいじゅん>を合わせているのね。
+「...... Elle remet les choses en place.
+
+}
+[sha:35f11b966981a9bfde976a495a8fb2cb7b475787]{
+-- Page 9, Offset 17813.
+-- 彼女の時間は今の時間とは異なってしまったから、歯車を合わせるまで目は覚めないわ」
+  Son temps a divergé par rapport au moment présent. Elle ne se réveillera pas tant qu'elle n'aura pas mis de l'ordre dans ses rouages.」
+
+}
+[sha:af57a90764b9598abc31f939695c90844f04388b]{
+-- Page 9, Offset 17814.
+-- 有珠の言葉に、なるほど、などと<胡乱|うろん>な相づちをうって、草十郎は旧校舎を振り返った。
+  Sōjūrō répliqua par un acquiescement perplexe et se retourna vers le vieux bâtiment.
+
+}
+[sha:f6ee64eb8fad3e475afbb26b64cdca3a907e6947]{
+-- Page 10, Offset 17815.
+-- 「なんか拍子抜けしたよ。
+「Je me sens un peu perdu.
+
+}
+[sha:d1c976b5bf6a83fa441c4dfe3eed7721990737aa]{
+-- Page 10, Offset 17816.
+-- 結局、橙子さんと蒼崎、どっちが勝ったのかよく掴めない」
+  En fait, je ne sais pas trop qui a gagné. Tōko ou Aozaki ?」
+
+}
+[sha:147088bb05cbdfdfc46be72650c7899590366499]{
+-- Page 11, Offset 17817.
+-- 「……そうね。魔術師の争いには明確な点数はつけられないから。どちらが強いかで勝負はつかないわ。
+「...... C'est compréhensible. Dans un combat entre Mages, on ne peut pas vraiment donner de score. La victoire ne se détermine pas selon qui est le plus fort.
+
+}
+[sha:e4a64dbb2ea446e8d5bcc2b3dadf73d7d128cc41]{
+-- Page 11, Offset 17818.
+-- 橙子さんの大目的が蒼崎の魔法の解明なら、魔法を使わされた時点で青子の負けよ。
+  Si l'objectif principal de Tōko consistait à en savoir plus sur la Vraie Magie des Aozaki, alors Aoko a perdu au moment où elle l'a utilisée.
+
+}
+[sha:e824ce51adb68df877f0ffaff3c476ac5beb4828]{
+-- Page 11, Offset 17819. Glued. Mods: @x.
+-- ……その後のいざこざは、<凱旋|がいせん>する勝者を夜道で襲ったようなものだし」
+...... Le combat qui s'en est suivi équivalait à attaquer le vainqueur au détour d'une ruelle alors qu'il rentrait triomphalement chez lui.」
+
+}
+[sha:4733aaab4619019984023f70b2cab2d875b22580]{
+-- Page 12, Offset 17820.
+-- 言って、有珠は森の方角に視線を投げた。
+  Alice jeta un regard en direction de la forêt.
+
+}
+[sha:e170164075509f27b6768d15e18898dc7f2c1231]{
+-- Page 12, Offset 17821.
+-- それが『帰りましょう』という意思表示である事は、草十郎にも読み取れた。
+  Sōjūrō devina qu'elle manifestait ainsi son intention de rentrer.
+
+}
+[sha:dda0452bf6164f59e8c90e2d9315ef7acb78058b]{
+-- Page 13, Offset 17822.
+-- 「そうだね。蒼崎も有珠も、このままじゃ風邪をひく。
+「Oui, il vaut mieux rentrer. À ce rythme, Aozaki et toi allez attraper froid.
+
+}
+[sha:ed145764c24a7386a66f96fa468feb6426709627]{
+-- Page 13, Offset 17823.
+-- ああ、それと。蒼崎が橙子さんに呪いをかける時、何かしてたんだけど」
+  Ah, à propos, lorsqu'elle a lancé la malédiction sur Tōko, elle a fait quelque chose...」
+
+}
+[sha:63dd7afe95a00cc493a99bc6992f5f3d969a576e]{
+-- Page 13, Offset 17824.
+-- わかる？　と訊きたがる草十郎に、有珠はやや作り物っぽい、いつもの無感情な視線を向けた。
+  Tu sais ce que c'est ? semblait vouloir demander Sōjūrō. Alice tourna vers lui le regard indifférent dont elle avait le secret, quelque peu forcé toutefois.
+
+}
+[sha:2b4de04533c3ffe1dd2f46eebb0887d90f159f0a]{
+-- Page 14, Offset 17825.
+-- 「……見たの、静希君？」
+「...... Tu l'as vue faire, Shizuki ?」
+
+}
+[sha:59c804222844742cae5bc61ccaef5795c55026a0]{
+-- Page 14, Offset 17826.
+-- 「いや、蒼崎が出てけって」
+「Non, Aozaki m'a dit de partir.」
+
+}
+[sha:83e83f299f2afb2cdc2015d9db9ffafd32aec4d6]{
+-- Page 14, Offset 17827.
+-- 「……そう。それで、青子はどんな呪いをかけたの？」
+「...... Je vois. Et quel genre de malédiction Aoko a lancée ?」
+
+}
+[sha:8dae6cd75bb7af2320606c785afda3f353c7dcb0]{
+-- Page 14, Offset 17828.
+-- 「えーと、カエルがどうとか」
+「Euh, elle a parlé de grenouille.」
+
+}
+[sha:671198dd12bc7f3dc426ae4116f813ff32b35bbf]{
+-- Page 15, Offset 17829.
+-- 草十郎の言葉に、有珠はますます顔を<曇|くも>らせる。
+  L'expression d'Alice s'assombrit davantage en entendant la réponse de Sōjūrō.
+
+}
+[sha:d2393cd3d26a9d6b40a3960b552a8c1f05aeb619]{
+-- Page 15, Offset 17830.
+-- ……体を変異させる呪いなんて、青子はまだ修得していないはずなのに。
+  ...... Aoko n'aurait pas dû déjà connaître de sort de métamorphose.
+
+}
+[sha:f15096f332fdf9170cfdd5ca312fa11b8c50ec6e]{
+-- Page 16, Offset 17831.
+-- 「そ―――」
+「Mais―――」
+
+}
+[sha:5ecb4ea2977736f1417e93b8deababd9f5787cb4]{
+-- Page 16, Offset 17832.
+-- 思い立って、その言葉を飲む。
+  Une idée lui vint à l'esprit et elle ravala ses mots.
+
+}
+[sha:5b5327ba860b1ec177d567a35c7b3cafb1fce08d]{
+-- Page 16, Offset 17833.
+-- そう、たしかにさっきまでの彼女なら、それぐらいは知っていたかもしれない。
+  Certes, il y a quelques instants, Aoko connaissait peut-être ce genre de sorts.
+
+}
+[sha:d79def8222b391e179cc59b65b74f8831b43223e]{
+-- Page 16, Offset 17834.
+-- そうなると青子の言う通り、むこう十年は呪いの解呪はできないだろう。
+  Aussi, comme l'avait dit cette dernière, Tōko ne devrait pas pouvoir lever la malédiction avant dix ans.
+
+}
+[sha:69b9272eaae91a1c37c3d8518c4513b5891a8f05]{
+-- Page 17, Offset 17835.
+-- なにしろ呪いをかけた本人が、その呪いをまだ修得していないのだ。
+  Après tout, la personne qui avait lancé cette malédiction ne l'avait pas encore apprise.
+
+}
+[sha:4dc3d366cc39affa38b0b89a0bacea97925e45a9]{
+-- Page 17, Offset 17836.
+-- <回|まわ>そうにも、呪い返す相手がいない。
+  Tōko aurait beau tenter de la renvoyer à celui qui l'avait lancée, personne n'était là pour en être victime.
+
+}
+[sha:bf3f710dacd5e2ad6d91f314696a04a9fb871882]{
+-- Page 17, Offset 17837.
+-- いかに橙子が優れた呪いの破壊を開発しても、因にあたる<青子|あいて>がいないのでは成立しない。
+  Même si elle développait une excellente technique anti-malédiction, le responsable n'existant pas encore, cela n'aurait aucun effet.
+
+}
+[sha:c4d62431c65d5fbfe39710bcab63b3b8d7716042]{
+-- Page 18, Offset 17838.
+-- 「青子が橙子さんにつけたのは<切傷|きりきず>ぐらいだから、静希君が心配するような事はないわ。
+「Aoko a procédé à une simple incision sur Tōko. Elle n'a rien fait qui mérite que tu t'inquiètes.
+
+}
+[sha:b3bf4d11882bc041784ca7de160eca05a2805f7a]{
+-- Page 18, Offset 17839.
+-- ……青子にしては、ずいぶんと<生温|なまぬる>い処置だけど」
+  ...... Toutefois, c'est une mesure bien indulgente de sa part.」
+
+}
+[sha:781bb34d73fb996ca635952cc6aa81ebcd701d99]{
+-- Page 19, Offset 17840.
+-- わりと非道な事を言って、有珠は歩きだした。
+  Alice prononça quelques paroles inhumaines avant de se mettre en marche sans un bruit.
+
+}
+[sha:9f8d2628083b1a37d84bc71e50b65203f08eef11]{
+-- Page 19, Offset 17841.
+-- 草十郎も青子を抱いたまま付いていく。
+  Sōjūrō la suivit, Aoko toujours dans ses bras.
+
+}
+[sha:ed1bc892e8368eaaca34752891a8866dafa9a65e]{
+-- Page 19, Offset 17842.
+-- ふたりは広場から出て森の中に入る。
+  Ils quittèrent la cour et entrèrent dans la forêt.
+
+}
+[sha:ccd9b57c1782071720158d7463e2a6eb35c4ce25]{
+-- Page 19, Offset 17843.
+-- その時、不意に草十郎は足を止めた。
+  Le jeune homme s'arrêta alors subitement.
+
+}
+[sha:898b25e968566a872ab88a6a17d07bd1143add6a]{
+-- Page 20, Offset 17844.
+-- 「…………静希君？」
+「............ Shizuki ?」
+
+}
+[sha:400553e7f9892d7ea3c7ccd0ff65cf87aaa7d691]{
+-- Page 20, Offset 17845.
+-- 草十郎は不思議そうに、旧校舎の広場を振り返る。
+  Sōjūrō tourna la tête vers la cour de la vieille école, l'air étonné.
+
+}
+[sha:929f5d44831982b4aabce5eb2ec4a38b2c20f946]{
+-- Page 21, Offset 17846.
+-- 眼差しは、望郷の<類|たぐい>だろうか。
+  Son regard semblait empreint d'une certaine nostalgie.
+
+}
+[sha:0473b53b07acb0d480af16ba9e1553e92effe703]{
+-- Page 21, Offset 17847.
+-- 一夜だけの、二度と見る事のない風景を<懐|なつ>かしみながらも、二度と出会えない事を<悟|さと>っている顔。
+  Il devinait qu'il ne verrait plus jamais ce panorama d'une nuit mélancolique, et cela se lisait sur son visage.
+
+}
+[sha:0dc9981f5aec0c73b134e1042e359e21665b0f95]{
+-- Page 21, Offset 17848.
+-- 戻らない船を見送る子供のようだ。
+  Il avait l'air d'un enfant faisant ses adieux à un navire qui ne reviendrait pas.
+
+}
+[sha:2068859c02473382f8cae1b417e2c777ce2a94f1]{
+-- Page 21, Offset 17849.
+-- ……その横顔に、わずかな同情を抱いている事に気付いて、有珠は自らを<戒|いまし>めた。
+  ...... Alice se tança elle-même lorsqu'elle réalisa qu'elle éprouvait de la compassion pour lui.
+
+}
+[sha:0399efeb51abc18ce35d73b2f1aea474929d4d15]{
+-- Page 22, Offset 17850.
+-- 「あの<荒地|あれち>がどうかした……？」
+「Un souci avec cette friche...?」
+
+}
+[sha:f3c329c2fabcb84182a339ea7f9ada84fb13258a]{
+-- Page 22, Offset 17851.
+-- 雪原に戻りかける花園を、少女は荒地と言った。
+  La jeune fille appela le jardin de fleurs qui redevenait un champ de neige une friche.
+
+}
+[sha:468207ae016a5ddf9fa3c9b03569a8a3fc627886]{
+-- Page 22, Offset 17852.
+-- 有珠の問いかけに、草十郎はいや、と首を振る。
+  “Non”, répondit Sōjūrō en secouant la tête.
+
+}
+[sha:49279dbacb5c9015e3752241455e1e096da4aed4]{
+-- Page 23, Offset 17853.
+-- 「なんとなく知っている場所に似てる気がして。
+「J'ai la vague impression qu'elle ressemble à un endroit que je connais.
+
+}
+[sha:0cdb8923605ee9e594dd902d37f69b7c3b7ff950]{
+-- Page 23, Offset 17854.
+-- おかしいな、やってきた時はそんな気はしなかったのに」
+  C'est bizarre. Lorsque je suis arrivé, je n'avais pas cette impression.」
+
+}
+[sha:8adf6db0bcab8a42d766c7907c2534ec157d9d40]{
+-- Page 24, Offset 17855.
+-- 彼は、いつまでも名残惜しそうに雪原を見つめていた。
+  Il contemplait le champ de neige avec regret.
+
+}
+[sha:58ec6dd463edf980b8ed5e7b5eb0617e087d12a4]{
+-- Page 24, Offset 17856.
+-- 放っておけば朝が来るまで、いや、朝が来ても見つめたままだろう。
+  Si personne ne l'arrêtait, il le regarderait probablement jusqu'au lever du soleil et même bien après.
+
+}
+[sha:2d0b61d80e4bcae95fe60987956c27503306297f]{
+-- Page 24, Offset 17857.
+-- ……けれど、それは意味のない行為だ。
+  ...... Mais cet acte serait vide de sens.
+
+}
+[sha:b30a5b4ff9ad697f44d389d1404a076d25de2018]{
+-- Page 24, Offset 17858.
+-- 彼が恋焦がれている風景は、有珠だけが覚えているものなのだから。
+  Car seule Alice se souviendrait du paysage auquel il aspirait.
+
+}
+[sha:c12c643561f14b9cf9eff098bfa960633b82fe04]{
+-- Page 25, Offset 17859.
+-- 「……ここは、その場所にそんなに似てる？」
+「...... La ressemblance est vraiment si frappante ?」
+
+}
+[sha:ca9a80685ee0cbc012bb00ca3f687283f9442b94]{
+-- Page 25, Offset 17860.
+-- 「ぜんぜん似てない。<面影|おもかげ>すら<皆無|かいむ>だ」
+「Pas du tout. Il n'y a pas l'ombre d'une similitude.」
+
+}
+[sha:fa4c348051f5d360eb6450d4f89b418809f058c5]{
+-- Page 25, Offset 17861.
+-- 「なら、それは気の迷いよ」
+「Alors, c'est un tour de ton imagination.」
+
+}
+[sha:e5a1f91a02695a60cb0b11d1d2a7244f745cc762]{
+-- Page 25, Offset 17862.
+-- 強く断定する有珠の言葉に、草十郎は静かに頷いた。
+  Voyant qu'Alice était catégorique, Sōjūrō acquiesça mollement.
+
+}
+[sha:645533ae8258d4b80cb6a8f7d3d2ab9cbdaecade]{
+-- Page 25, Offset 17863.
+-- ありえないものに焦がれるのは、もう止めようと微笑むように。
+  Il souriait d'un air résigné, comme décidé à ne plus nourrir d'espoirs irréalisables.
+
+}
+[sha:00ee6b451066e964dd61dbdf9d76fba7c9374aa8]{
+-- Page 26, Offset 17864.
+-- 「そうだね。たぶん、幻を見ていたんだ。
+「C'est sûrement ça. J'ai dû avoir une hallucination.
+
+}
+[sha:f734e04f484f62bc8ff5c1a8925cfebacc21916f]{
+-- Page 26, Offset 17865.
+-- ……あれは一度、幸福だった時の夢だった」
+  ...... C'était le rêve d'une époque où je me sentais heureux.」
+
+}
+[sha:2e602fc93765b1bf38276ab92b00170e3441ce44]{
+-- Page 26, Offset 17866.
+-- 尽きぬ名残を断ち切って、草十郎は雪原から目を背ける。
+  Sōjūrō mit un terme aux adieux qui se prolongeaient en détournant les yeux du champ de neige,
+
+}
+[sha:526cd5f00e0e23f1b1f793b89f22e7e65d491192]{
+-- Page 26, Offset 17867.
+-- どこにも共通点のない、彼が一度だけ幸福だった野原から。
+  de cette friche qui n'avait rien à voir avec la lande incarnant des temps heureux pour lui.
+
+}
+[sha:b7e1ca63c521a2df9e06153c7c53e3adbc7fb8de]{
+-- Page 27, Offset 17868.
+-- 「さ、早く帰ろう。蒼崎は重いし、体も疲れてる。
+「Allez, dépêchons-nous de rentrer. Aozaki est lourde et je suis fatigué.
+
+}
+[sha:3baa2e77d14b379505a9ba7df7f3f1ac070d1ca1]{
+-- Page 27, Offset 17869.
+-- 洋館についたらあったかいお茶を淹れよう、有珠」
+  Une fois au manoir, préparons-nous un bon thé chaud, Alice.」
+
+}
+[sha:7a9e337a3a561c315904204a361b3ea8f39d5f47]{
+-- Page 28, Offset 17870.
+-- 鮮やかな笑顔をうかべて、草十郎は少女の名を呼びかけた。
+  Sōjūrō prononça le nom de la jeune fille avec un large sourire aux lèvres.
+
+}
+[sha:6458149e3d2dfde5219fd74257f9644cfc37f2d3]{
+-- Page 28, Offset 17871.
+-- それに一瞬だけ有珠は息を止めてしまう。
+  Alice en perdit un instant son souffle.
+
+}
+[sha:7d9eaddae012b200d4be0c7490814a8cfb19b396]{
+-- Page 28, Offset 17872.
+-- こんな風に、あんまりにも自然に名を呼ばれたのはいつ以来だろう。
+  Cela faisait bien longtemps qu'on ne l'avait plus appelée par son nom de façon si naturelle.
+
+}
+[sha:fb29a6fc044f41607c857d41cc59e0b1faf77127]{
+-- Page 28, Offset 17873.
+-- なんとか頷き返す有珠と、歩きだす草十郎。
+  Elle acquiesça comme elle put tandis que le jeune homme partait devant.
+
+}
+[sha:90bc58364e4c81cc00015763ee27fa8410d6c82d]{
+-- Page 28, Offset 17874.
+-- その背中に、有珠はちょっとした疑問を投げかけてみた。
+  Dans son dos, la jeune fille lui posa une question anodine.
+
+}
+[sha:029442e1f043e098947ef8f8eb44756e0e6afd0c]{
+-- Page 29, Offset 17875.
+-- 「……重いって、わたしより？」
+「...... Lourde, tu veux dire davantage que moi ?」
+
+}
+[sha:9d46d6d17e670fc2c59d55e95f9276e7fdb851a5]{
+-- Page 29, Offset 17876.
+-- ……青子と有珠では身長差がある。
+  ...... Aoko et Alice ne faisaient pas la même taille.
+
+}
+[sha:e901a3a43995e0ce9e02448c55e471355a007dcf]{
+-- Page 29, Offset 17877.
+-- 有珠の方が軽いのは当たり前のコトだろうけど、その答えを、少女は彼の口から聞いてみたかったのかも知れない。
+  La seconde était évidemment plus légère, mais elle voulait peut-être l'entendre de sa bouche.
+
+}
+[sha:6ff5d00b5125ad213e4a362445ea309f4f271858]{
+-- Page 29, Offset 17878.
+-- そんな有珠の期待にそうように、草十郎はきっぱりと口にした。
+  Sōjūrō répondit conformément aux attentes de la sorcière.
+
+}
+[sha:72bd456924df7b1e00420f94cbead878fb2609bf]{
+-- Page 30, Offset 17879.
+-- 「ああ。数値的に言うのなら、有珠より十キロ増しぐらい」
+「Oui. Si je devais donner un chiffre, je dirais qu'elle est plus lourde d'environ dix kilos.」
+
+}
+[sha:04663c9dd09e955e306fb373a42581e2ec97d2eb]{
+-- Page 30, Offset 17880.
+-- 「そう。青子が聞いてたら大変ね」
+「Je vois. Si Aoko l'apprenait, je n'aimerais pas être à ta place.」
+
+}
+[sha:1da31bce69c46f28c0ae3be987d5019b81afb90d]{
+-- Page 30, Offset 17881.
+-- それは、後で青子に告げ口をしよう、という悪戯心を思わせる口調だった。
+  Son ton malicieux laissait deviner qu'elle le révélerait plus tard à Aoko.
+
+}
+[sha:fd0b3515ad8e56d1f6b0a8a687d213167162c97e]{
+-- Page 31, Offset 17882.
+-- 「……意地が悪いな、有珠も。
+「...... C'est méchant, Alice.
+
+}
+[sha:383265e4cc65ee216ef84132a5f4c3aafc561533]{
+-- Page 31, Offset 17883. Glued. Mods: @x.
+-- それに、さっきのは本人の名誉のために四捨五入してたんだぞ、いちおう」
+Et puis, j'ai arrondi le compte pour protéger son honneur, au cas où.」
+
+}
+[sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
+-- Page 31, Offset 17884.
+-- 「――――――」
+「――――――」
+
+}
+[sha:1c82ba2d7bac957aa34a42473bac2fb9724beee1]{
+-- Page 31, Offset 17885.
+-- 弁解どころか、青子が本気で怒りかねない事実だった。
+  Au lieu de s'excuser, il révéla une vérité qui pourrait dangereusement énerver Aoko.
+
+}
+[sha:917077af73b6140795c295f041573b4253379ba2]{
+-- Page 32, Offset 17886.
+-- 「…………ダメかな？」
+「............ Je n'aurais pas dû ?」
+
+}
+[sha:524a56ed7f681a3d38f530e0f0bddd9f75b38064]{
+-- Page 32, Offset 17887.
+-- 困った顔で有珠の様子をうかがう草十郎。
+  demanda Sōjūrō d'un air gêné avec un coup d'œil vers Alice.
+
+}
+[sha:6b83f177e71d689b05bd54c0dd355409c1e31a54]{
+-- Page 32, Offset 17888.
+-- その仕草は妙に温かで、有珠はつい、<緩|ゆる>んだ頬をかすかな笑顔に変えてしまった。
+  Son expression avait quelque chose d'étrangement chaleureux, si bien qu'Alice plissa involontairement ses joues, provoquant ainsi l'apparition d'un léger sourire.
+
+}
+[sha:264d4363b0e8795739ddb463ed60ae8bec0fd5a2]{
+-- Page 33, Offset 17889.
+-- 人前で笑う事に慣れていないためか、有珠は顔を背けて森へと歩きだした。
+  Peu habituée à sourire devant autrui, Alice détourna le visage et se dirigea vers la forêt.
+
+}
+[sha:aa6472dd6c5739ef9b304b1dbde6b9d63e9a0c8d]{
+-- Page 33, Offset 17890.
+-- そんな有珠の後ろ姿を見ながら、草十郎は相変わらず見当違いの感想を口にする。
+  Sōjūrō regarda sa silhouette s'éloigner et murmura, comme à l'accoutumée, une impression mal choisie.
+
+}
+[sha:f9c62735a57c0cfcb8ac3204ca1be47a48065a3a]{
+-- Page 34, Offset 17891.
+-- 「―――なんだ。
+「―――Ben ça alors.
+
+}
+[sha:0c0278e686ac7e8c74975c6d84cf0bbf2e075d1d]{
+-- Page 34, Offset 17892. Glued. Mods: @x.
+-- 友達の悪口で怒るなんて、やっぱり仲はいいんじゃないか、蒼崎」
+Elle s'énerve parce qu'on dit du mal de son amie. En fait, vous avez plutôt une bonne relation, Aozaki.」
+
+}
+[sha:795cafcf74ff2b33df7d35dd7add863ae0e5c169]{
+-- Page 34, Offset 17893.
+-- 青子を抱いたまま呟いて、草十郎はしずしずと有珠の後を追っていった。
+  Sōjūrō emboîta ensuite lentement le pas à Alice, Aoko dans ses bras.
+
+}
+[sha:76f2e68fcbd3ea8edcef6dd39ec8575474a4004e]{
+-- Page 35, Offset 17894.
+-- 森の中、眠り姫に口づけする勇気もなく、助けただけでお城に帰還しようとする若い騎士。
+  Dans la forêt, le jeune chevalier rentrait au château après avoir secouru la Belle au bois dormant sans avoir eu pour autant le courage de l'embrasser.
+
+}
+[sha:4b488f8c936f946b283c07d28108e03defe87909]{
+-- Page 35, Offset 17895.
+-- 十分な活躍はした筈なのに格好がつかない彼は、そんな物語の主人公を思わせた。
+  Le jeune homme évoquait ce genre de héros de contes qui, malgré le rôle qu'il jouait, ne dégageait aucune classe.
+
+}
