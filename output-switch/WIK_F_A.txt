@@ -157,7 +157,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:1b9327c9d3ce5c975789895c9366f8b728d63455]{
 -- Page 8, Offset 22014. Glued. Mods: @x.
 -- ふん、アンタの弱点なんて分かってんだから。また返り討ちにされて、ネズミ<大|だい>の大きさにしてほしいワケ？」
-Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
+ Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 
 }
 [sha:4b33724aee3aacf76117e4bf627fbc147834cbf2]{

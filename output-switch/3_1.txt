@@ -103,7 +103,7 @@
 [sha:4c3a46698b618c653b1bba7ca8df1758fc559912]{
 -- Page 6, Offset 3023. Mods: @i, @n.
 -- “
-"
+“
 
 }
 [sha:db02ff1cd398ee07411d7087d9fdb8395959c0e1]{
@@ -121,7 +121,7 @@
 [sha:c69896dd0c1e74fbd3aeb3a7b313629ee1b800a2]{
 -- Page 6, Offset 3026. Mods: @i, @a, @r.
 -- The little dog laugh'd……”
-  The little dog laugh'd..."
+  The little dog laugh'd......”
 
 }
 [sha:c581702cc585f384dde108eea3afc5ab7a7a9f9d]{
@@ -493,7 +493,7 @@ Mon cœur devint un moteur complètement différent, et utilisa mon corps comme 
 [sha:06c96dff430e8de59f8843360560f29f4d2b758a]{
 -- Page 24, Offset 3088.
 -- 「―――<接続|セット>」
-「―――<Connexion.|Set.>」
+「―――Connexion.」
 
 }
 [sha:83059af5c34331e5e8402f57484638cb7d4d912b]{

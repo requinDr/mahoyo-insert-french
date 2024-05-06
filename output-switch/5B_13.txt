@@ -415,13 +415,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:f244b7497274e4fc6f8e873a32ec0ea85aa92888]{
 -- Page 23, Offset 5934.
 -- 『―――空<気のおも|かるく、よわく>り、<胸のふる|うまく、はやく>え。
-            『―――<Poids de l'air, tremblement de la poitrine.|Légèrement, faiblement, habilement, rapidement.>
+            『―――<Poids de l'air|Légèrement, faiblement>, <tremblement de la poitrine|Habilement, rapidement>.
 
 }
 [sha:4e7bf42e80ef6e626044a52b74a52e2110feb053]{
 -- Page 23, Offset 5935.
 -- ひ<かりは先|チクタクチクタク>立つ、<かげは遅|いそげやいそげ>れる。』
-                    <La lumière en premier, l'ombre en second|Tic tac tic tac, dépêche-toi, dépêche-toi.>』
+                    <La lumière en premier|Tic tac tic tac>, <l'ombre en second|Dépêche-toi dépêche-toi>.』
 
 }
 [sha:db840e9399b1a9e1b1e94b40f28611e674062c68]{
@@ -433,7 +433,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:4c144871f9f1f4832138f8ab6817a00fc012c50f]{
 -- Page 24, Offset 5937.
 -- ……もし言葉に色が見えたのなら、きっと彼女の名前通りの色だっただろう。
-  ...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le <bleu|Ao>.
+  ...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le bleu.
 
 }
 [sha:e10a0179325901d6324a9017f2fbe0bfb4ced443]{
@@ -445,19 +445,19 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:12fa9a324ce78b078483465f3f4d53f744abcddb]{
 -- Page 25, Offset 5939.
 -- 『<鳥は空に|と　　ぶ>、<魚は海に|お　よ　ぐ>、<貴方は彼方に|か け ぬ け る>。
-        『<L'oiseau dans le ciel, le poisson dans l'eau, toi là-bas.|Vole, nage, cours.>
+        『<L'oiseau dans le ciel|Vole>, <le poisson dans l'eau|Nage>, <toi là-bas|Cours>.
 
 }
 [sha:4c498957ab8c627de578d5d6903b9536954d7e90]{
 -- Page 25, Offset 5940.
 -- 疑<問も不安も鞄|チクタクチクタク>の底に、旅路<の一歩は|きてきをならせ>曙に。
-        <Les doutes et les inquiétudes au fond du sac,|Tic tac tic tac.> <l'aube est une étape du|Donne un coup de sifflet.> voyage.
+        <Les doutes et les inquiétudes au fond du sac|Tic tac tic tac>, l'aube est une <étape du voyage|Donne un coup de sifflet>.
 
 }
 [sha:f1f08539678d3684522fac4860f3cc95c166e016]{
 -- Page 25, Offset 5941.
 -- 輝<く星はするりと降|ほしはいつでもきたのそら>ちて、今は<貴方の心の内|どこまでも、いつまでも>に。』
-        <Les étoiles scintillantes tombent vite,|Les étoiles viennent toujours du ciel du nord,> <et sont maintenant dans ton|N'importe où, pour toujours.> cœur.』
+        <Les étoiles scintillantes tombent vite|Les étoiles viennent toujours du ciel du nord> et sont <maintenant dans|N'importe où, pour toujours> ton cœur.』
 
 }
 [sha:e0f831f3a2bcd656ac28593015272d239ad85733]{

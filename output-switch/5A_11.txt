@@ -223,13 +223,13 @@
 [sha:80deebb3bee3ccd7e513fe28a56eac2e1246d690]{
 -- Page 11, Offset 4165. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                "<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris toute seule sous terre.>
+                    "<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
 -- Page 11, Offset 4166. Mods: @i, @r.
 -- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
-          <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et celui de ma naissance. Allez, je viens te rencontrer.>”
+        <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et celui de ma naissance. Je viens à ta rencontre.>”
 
 }
 [sha:9e7a992454e9bf6a7204aae493aa22d7fee01385]{

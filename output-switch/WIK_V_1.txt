@@ -49,7 +49,7 @@
 [sha:e8fbc0c091384a37ddaebddcca2715efffb51714]{
 -- Page 1, Offset 23699.
 -- “人手がなかったから、自分が施錠してまわる事になった”と。
-“Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
+  “Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 
 }
 [sha:224b71ab3df4ba4fe431aeb288365cf25472369f]{

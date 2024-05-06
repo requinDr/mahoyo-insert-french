@@ -31,7 +31,7 @@ Malgré ça, il se fendit d'une pirouette de son cru et à laquelle il avait mû
 [sha:f35597f715908ef83ef0f26d50422c683b742752]{
 -- Page 1, Offset 5313.
 -- “だから、用件は今日中に済ませてしまわないか？”
-“Donc, on pourrait régler le problème aujourd'hui ?”
+  “Donc, on pourrait régler le problème aujourd'hui ?”
 
 }
 [sha:1e42f8219771fad275c6f57992a28b260530ce86]{
@@ -451,7 +451,7 @@ Et puis, qu'est-ce que tu peux faire ?」
 [sha:4f22f7bfbca32e08cd002310c75a1d993c67edc6]{
 -- Page 20, Offset 5383.
 -- 「……。じゃあ、私の指示に百パーセント従うってこと？」
-「...... Alors, ça veut dire que tu obéiras à 100% à mes directives ?」
+「...... Alors, ça veut dire que tu obéiras à 100 % à mes directives ?」
 
 }
 [sha:170def5864dc40a7ce398f04f03395a73f4d3ab2]{

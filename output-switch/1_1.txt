@@ -181,7 +181,7 @@
 [sha:21d745af0dd956208355a5db03ebed2020d8cf4b]{
 -- Page 9, Offset 110.
 -- “こんな日にかぎって……”
-“Ah, c'est pas vrai. Pourquoi justement aujourd'hui......”
+“Il fallait que ça tombe aujourd'hui......”
 
 }
 [sha:1217140f0cdc9e1497ce73c7f632e7b412f27e92]{

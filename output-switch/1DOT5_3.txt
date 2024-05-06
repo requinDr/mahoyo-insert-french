@@ -127,7 +127,7 @@
 [sha:779f98553a23f8806afa2fd6844de659e6a28b53]{
 -- Page 5, Offset 1358. Glued.
 -- ドウカ我ガ身ヲ　護リタマエ。
-  JE VOUS PRIE DE NOUS PROTÉGER.
+ JE VOUS PRIE DE NOUS PROTÉGER.
 
 }
 [sha:f89959cc99b73102161a0ed6aa3c586f77dac039]{
@@ -187,7 +187,7 @@
 [sha:0b4e6f6a29f3644b08d88623278c3bc200ce9270]{
 -- Page 9, Offset 1368. Mods: @c, @i, @a, @r.
 -- 
-                      
+　　　
 
 }
 [sha:5ee22f4abf57fc12831816b004405d97ab1ed325]{
@@ -199,7 +199,7 @@ Hey diddle diddle,
 [sha:ff456eeab16da98a9528ecee59c8b6ad61980890]{
 -- Page 9, Offset 1370. Mods: @c, @i, @a, @r.
 -- The cat and the fiddle,
-                      The cat and the fiddle...
+                      The cat and the fiddle,
 
 }
 [sha:d4cfe1b70f5dbf20364662a9e47c2cca05f486f4]{
@@ -241,7 +241,7 @@ Hey diddle diddle,
 [sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
 -- Page 11, Offset 1377. Mods: @c, @i, @a, @r.
 -- 
-                                
+　　　　　　
 
 }
 [sha:6cf4bdbd74e6be4921e62adef77c1af36d70dbab]{
@@ -253,7 +253,7 @@ The cow jump'd over the moon,
 [sha:eb016c7f20361aa9dc3c6da176abe5ed6d23e817]{
 -- Page 11, Offset 1379. Mods: @c, @i, @a, @r.
 -- The little dog laugh'd
-                                The little dog laugh'd...
+                                The little dog laugh'd
 
 }
 [sha:567dff1594f4e8c31429f71c3fd6276ae65b0ffb]{
@@ -331,7 +331,7 @@ The cow jump'd over the moon,
 [sha:83ffa60eba733baf76856018be427d6da7d52c40]{
 -- Page 15, Offset 1392. Mods: @c, @i, @a, @r.
 -- 
-                          
+　　　　
 
 }
 [sha:8f3765c2f44fb0bcc99a1a5c28b7f392fba34636]{
@@ -469,7 +469,7 @@ To see such craft,
 [sha:b48163988476fab19dcaf5765f07011582dbdb79]{
 -- Page 21, Offset 1415. Glued. Mods: @x.
 -- 『もっと奥へ、もっと奥へ！』
-『Plus loin, plus loin !』
+ 『Plus loin, plus loin !』
 
 }
 [sha:6f9d179a57efe0dd2ed39e82daa35e802e108f4d]{
@@ -643,7 +643,7 @@ To see such craft,
 [sha:442845ffffd6c59e974acd344bfea558d84ef92c]{
 -- Page 28, Offset 1444.
 -- 「……そう。ただの<墓守|はかもり>、監視だけが仕事なのね。
-"「...... Je vois. Vous êtes de simples gardiens de tombes. Votre travail se limite à l'observation.
+「...... Je vois. Vous êtes de simples gardiens de tombes. Votre travail se limite à l'observation.
 
 }
 [sha:c2457dbaa71f56cfc1b42efd661495758d9cc556]{
@@ -841,7 +841,7 @@ To see such craft,
 [sha:29095eadf4a78c9ba8fddaaf967fba4c8e39a4ec]{
 -- Page 39, Offset 1477.
 -- 「トゥィードル」
-「Tweedle.」
+「Diddle.」
 
 }
 [sha:4fe3a756bf3f86dbc3321346ad1902da2aea5f2b]{
@@ -985,7 +985,7 @@ To see such craft,
 [sha:f09ec30e3daa0c149da4dbced3aa65c0c6cabe4b]{
 -- Page 45, Offset 1501. Mods: @c, @i, @a, @r.
 -- 
-                              
+　　　　　
 
 }
 [sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
@@ -1021,13 +1021,13 @@ London Bridge is broken down,
 [sha:31aae2b3e3200feb44e77b28cf9f7b8c58968480]{
 -- Page 46, Offset 1507. Glued. Mods: @n.
 -- これはなんだ。
-  Qu'est-ce que c'est que ça ?
+ Qu'est-ce que c'est que ça ?
 
 }
 [sha:488dec4c3069590fb8a673b074e62799263d589f]{
 -- Page 46, Offset 1508. Glued.
 -- これはなんだ？
-  Qu'est-ce que c'est que ça ?
+ Qu'est-ce que c'est que ça ?
 
 }
 [sha:bebc0640ea1726812de01fee153ceaf2e69904d7]{
@@ -1053,7 +1053,7 @@ London Bridge is broken down,
 [sha:ade3142a3f7fef98a57b35be453fc0831d9964c1]{
 -- Page 47, Offset 1512. Glued.
 -- <忌々|いまいま>しいが、素晴らしい。
-  C'était révulsant mais magnifique.
+C'était révulsant mais magnifique.
 
 }
 [sha:95b0a346deb67451584005a45dcc6639a9407611]{
@@ -1209,7 +1209,7 @@ London Bridge is broken down,
 [sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
 -- Page 53, Offset 1538. Mods: @c, @i, @a, @r.
 -- 
-                                
+　　　　　　
 
 }
 [sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
@@ -1221,7 +1221,7 @@ London Bridge is broken down,
 [sha:82546b6d87919a0ce8fddfb13da21840c452b6dc]{
 -- Page 53, Offset 1540. Mods: @c, @i, @a, @r.
 -- Broken down,broken down.
-                                Broken down, broken down.
+                                Broken down, broken down...
 
 }
 [sha:589c6cfea4965e413e11e56a77c994e68df34e63]{
@@ -1407,7 +1407,7 @@ London Bridge is broken down,
 [sha:83ffa60eba733baf76856018be427d6da7d52c40]{
 -- Page 62, Offset 1571. Mods: @c, @i, @a, @r.
 -- 
-                          
+　　　　
 
 }
 [sha:f7602718c4748da3a5e9f9b45062f24c52bd69e5]{
@@ -1419,7 +1419,7 @@ Build it up with wood and clay,
 [sha:5b3cccccb5c944dc694aaf9dbb9980b3ecf9ec94]{
 -- Page 62, Offset 1573. Mods: @c, @i, @a, @r.
 -- Wood and clay,Wood and clay,
-                          Wood and clay, Wood and clay,
+                          Wood and clay,Wood and clay,
 
 }
 [sha:a176c208031849901abe90887b8cdf2d98590dc5]{
@@ -1635,7 +1635,7 @@ Build it up with wood and clay,
 [sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
 -- Page 73, Offset 1609. Mods: @c, @i, @a, @r.
 -- 
-                                
+　　　　　　
 
 }
 [sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
@@ -1647,13 +1647,13 @@ London Bridge is broken down,
 [sha:555ba650c49a461bd77681dd7ee094667681d684]{
 -- Page 73, Offset 1611. Mods: @c, @i, @a, @r.
 -- Broken down,broken down―――
-                                Broken down,broken down...
+                                Broken down,broken down―――
 
 }
 [sha:53cf08bfe1d94f94384df5ea0944149f2065aa81]{
 -- Page 74, Offset 1612.
 -- 彼方から聞こえる<暗黒童話|マザーグース>。
-  Au loin, il entendait l'obscur conte de fées de Mother Goose.
+  Au loin, il entendait l'obscur <conte de fées|Mother Goose>.
 
 }
 [sha:843b41a0b0afe92b68464d7f67b4f77db65992b1]{
@@ -1671,7 +1671,7 @@ London Bridge is broken down,
 [sha:164db8ced89e4ee4bc749811eb77833f347ca647]{
 -- Page 75, Offset 1615. Mods: @c, @n.
 -- 
-                                
+　　　　　　
 
 }
 [sha:92bd199260ad5ea5ab128745644a4c315d1b4f8c]{
@@ -1791,7 +1791,7 @@ London Bridge is broken down,
 [sha:eaf68c0bf5a1a73380a3b875a0b4f548121c24e7]{
 -- Page 79, Offset 1635.
 -- 『次、次はお役に立ちますきっと！　生まれてこの方、失敗続きのボクらだけど！』
-『La prochaine fois ! La prochaine fois, on sera sûrement utiles ! Même si, depuis qu'on est nés, on ne cesse d'échouer !』
+『La prochaine fois, pour sûr, on se montrera utiles ! Même si l'échec est notre apanage depuis la naissance !』
 
 }
 [sha:1ef6c0e0d89ef3e1bc4326830e98ea4dab9442a0]{
@@ -1815,13 +1815,13 @@ London Bridge is broken down,
 [sha:3d4f23c80e22dd4e4aef5ec91d7b06ad113b64ff]{
 -- Page 81, Offset 1639.
 -- 「六の目はだすなって言うけど。
-「Je vous avais dit de ne pas sortir le chiffre six. [l]
+「Je vous avais dit de ne pas sortir le chiffre six.
 
 }
 [sha:29bf1206f80feb1568168f42eb43c8dc86ea777b]{
 -- Page 81, Offset 1640. Glued. Mods: @x.
 -- 六の目しかでないようになってるわよね、貴方たち」
- Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
+Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
 
 }
 [sha:983f33c4a3f155d2ec547973c0b58280be9ab54c]{

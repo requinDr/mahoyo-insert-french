@@ -307,7 +307,7 @@
 [sha:fd2587635e4d5fa8e18c5278eb68dcbe1a57782d]{
 -- Page 12, Offset 18059. Glued. Mods: @x.
 -- 今はそういうカタチをしただけの、違う星の生き物としか思えない―――
-évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
+ évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
 
 }
 [sha:56b461af826ea692cca846f58771ea8e4bdaa4e9]{
@@ -493,7 +493,7 @@
 [sha:0e0f260bc0aa14ea3c375542a298f6ab30e67df6]{
 -- Page 22, Offset 18090. Glued. Mods: @x.
 -- 人間がボクの相手をするなら、そんなこと気にしちゃいけないのに。
-Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
+  Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
 
 }
 [sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
@@ -583,7 +583,7 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:5f72e579a5389532b579cd35353933a7d7e7f768]{
 -- Page 27, Offset 18105.
 -- ……あんまり苦しめたくないんだけど。ガンジョウなのも考え物だよ、お姉さん」
-  ...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
+...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
 
 }
 [sha:8560bbffafd0d9e58eaadaf4f8df0fd9700290b0]{

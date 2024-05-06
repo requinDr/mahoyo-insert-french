@@ -571,7 +571,7 @@ ahem.」
 [sha:32876ebaced67bfbd765456a92126de309ea14ad]{
 -- Page 27, Offset 14468.
 -- その目力に、正義は１００パーセント自分側にありながら、つい気合い負けをする草十郎だった。
-  En dépit du fait que la justice était à 100% de son côté, il se laissa involontairement impressionner par ce regard intense.
+  En dépit du fait que la justice était à 100 % de son côté, il se laissa involontairement impressionner par ce regard intense.
 
 }
 [sha:a2e66e97d37e8a771112d39f6781f5b14f2c8e3b]{

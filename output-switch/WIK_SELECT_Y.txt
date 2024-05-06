@@ -1,6 +1,6 @@
 [sha:b963133ecc1c19d6827b35c1fa3dfbec6eb8749b]{
 -- Page 2, Offset 23948. Mods: @e.
 -- ～選択肢Ｙ～
--Choix Y-
+～Choix Y～
 
 }

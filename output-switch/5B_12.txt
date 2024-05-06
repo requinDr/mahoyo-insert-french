@@ -49,13 +49,13 @@
 [sha:cd7797a65cfa2d30fb72e86567cc51b3d19548fe]{
 -- Page 2, Offset 5829. Mods: @k, @e.
 -- ……そんな簡単な事ならいいけど。
-  ...... Ce serait bien si c'était aussi simple. 
+  ...... Ce serait bien si c'était aussi simple.
 
 }
 [sha:4941b337fa08c368220d944d1ef3f6b920d3178a]{
 -- Page 2, Offset 5830. Glued. Mods: @x.
 -- ダンプティは彼に張り付いているの？」
-Dumpty est toujours avec lui ?」
+ Dumpty est toujours avec lui ?」
 
 }
 [sha:9a83e8ab6db0eac464d627d6a44dbfeda5bd9e80]{

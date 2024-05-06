@@ -727,7 +727,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:2adec9a078afdbb9ddd62e35780270fa3c52772a]{
 -- Page 38, Offset 7010.
 -- “<童話の怪物|プロイキッシャー>”とやらは、青子やミラーハウスの自動人形ですら<裸足|はだし>で逃げだすモノだという。
-Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
+  Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
 
 }
 [sha:3922baddf49c872297fdaf8fc5860cc1b11852b9]{
@@ -1237,7 +1237,7 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:853dbdcc714914ae3bef21f1fe69982dd65e0696]{
 -- Page 64, Offset 7095. Glued. Mods: @x.
 -- 普通、もっと違うところに労力さかない！？　そんなにピエロが好きなら入り口にでも飾っとけ！」
-Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
+  Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
 
 }
 [sha:2fae939a40fe1cfcbb0399d46c1c27c70ccd95e3]{

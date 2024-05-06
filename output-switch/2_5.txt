@@ -157,7 +157,7 @@
 [sha:e354027777769f5bf179f9d0ac9abaa5bd13f4a9]{
 -- Page 8, Offset 2902.
 -- 草ちゃん、いまのところ的中率百パーセントでしょ。様子見てきてくれないかなぁ」
-  Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100%, pas vrai ? Tu veux bien aller voir ?」
+  Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 
 }
 [sha:53f4f4bb0d1a3bc0fa0c1dfcf770de9bbf35c7b7]{

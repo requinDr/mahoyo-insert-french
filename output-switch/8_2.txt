@@ -415,7 +415,7 @@
 [sha:4b193da5364a09b2b140f0432929b1538fa5930f]{
 -- Page 21, Offset 10756. Glued. Mods: @x.
 -- けど、それほどの魔術師なら逆に<魔力|けはい>は隠しきれない。
-  Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présence éternellement.
+Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présence éternellement.
 
 }
 [sha:1152664a8834433a9eb591fc19b18e487d7009a5]{
@@ -745,7 +745,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:a70407a4d76b307e58fe273198707bf40a1bf90b]{
 -- Page 40, Offset 10811. Glued. Mods: @x.
 -- いいの、青子？」
-  Ça te convient vraiment, Aoko ?」
+ Ça te convient vraiment, Aoko ?」
 
 }
 [sha:e63bf651af2029a85e06ff4b9e313aeb7b795d6b]{
@@ -949,7 +949,7 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:ea7f0157ed25d1ed08f7735dde39eab058c5537a]{
 -- Page 51, Offset 10845.
 -- ほら、有珠が教えてくれた、空<気のおも|かるく、よわく>り、胸<のふる|うまく、はやく>え。ひ<かりは先|チクタクチクタク>立つ、か<げは遅れ|いそげやいそげ>る。ってヤツ」
-  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids de l'air, tremblement de la poitrine.|Légèrement, faiblement, habilement, rapidement.> <La lumière en premier, l'ombre en second.|Tic tac tic tac, dépêche-toi, dépêche-toi.>」
+  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids|Légèrement,> <de l'air|faiblement>, <tremblement de la poitrine|Habilement, rapidement>. <La lumière en premier|Tic tac tic tac>,< l'ombre|Dépêche-toi> <en second|dépêche-toi>.」
 
 }
 [sha:8ac38b26ec66e27cb4913ae50467c25a4cfc3d8b]{

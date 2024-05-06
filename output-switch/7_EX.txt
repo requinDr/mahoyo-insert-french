@@ -223,7 +223,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:a1a58bd41ce912dd4cf613deacf2fea4384061d8]{
 -- Page 11, Offset 10060.
 -- 「あ。夕食、<鶏|とり>鍋？」
-「Ah. Pour le dîner, si on faisait du <torinabe|ragoût d'oiseaux> ?」
+「Ah. Pour le dîner, si on faisait du< torinabe |ragoût d'oiseaux>?」
 
 }
 [sha:445d79a11b0dee496e83e49497a81fb121b03535]{
@@ -1435,7 +1435,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:27b9428867d0bd9071a7c0902d80ee758533f0e6]{
 -- Page 75, Offset 10262.
 -- “奪うために減らしたのに、なぜ最後の一羽を守ろうとしたのか”と。
-“Ils les ont décimés par avidité, alors pourquoi ont-ils protégé le dernier d'entre eux ?”
+  “Ils les ont décimés par avidité, alors pourquoi ont-ils protégé le dernier d'entre eux ?”
 
 }
 [sha:3014f249d1c842210ca63f16777b4dfce2eae581]{
@@ -1771,7 +1771,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:2f0b5ba4cd41b9ea22f367e4d8711fa46b2b39e3]{
 -- Page 94, Offset 10318.
 -- 『台所にバケツはダメなんだな……』
- 『On dirait bien qu'il ne faut pas laisser le seau dans la cuisine, hein......』
+『On dirait bien qu'il ne faut pas laisser le seau dans la cuisine, hein......』
 
 }
 [sha:6e0e646b7cf051b484190e911868fa3c97cf4c2c]{
@@ -1873,7 +1873,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:90b4425bf3210d558f404cfd14c3f3416494b4ca]{
 -- Page 98, Offset 10335. Glued. Mods: @x.
 -- 立ち上がろうとした草十郎の後頭部に、青い衝撃が突き刺さった。
-un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
+ un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
 
 }
 [sha:cd3d1d1903f9ce2f272ea97f35995bc6f48c64a3]{
@@ -1939,7 +1939,7 @@ un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se 
 [sha:70ae989cd23d957181c365edf25f0d57fccc6ddc]{
 -- Page 102, Offset 10346.
 -- 『なめてるっすね？　ジブン駒鳥だってなめてるッスね？　ところで鳥鍋ってどういうコトっすか、それ美味しいんっスか、今度みまってほしいッス！』
-『Tu m'sous-estimes, hein ? Tu m'sous-estimes parce que j'suis un rouge-gorge, c'est ça ? Au fait, c'quoi le <torinabe|ragoût d'oiseaux> ? C'est bon ? La prochaine fois, je voudrais goûter !』
+『Tu m'sous-estimes, hein ? Tu m'sous-estimes parce que j'suis un rouge-gorge, c'est ça ? Au fait, c'quoi le< torinabe |ragoût d'oiseaux>? C'est bon ? La prochaine fois, je voudrais goûter !』
 
 }
 [sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{

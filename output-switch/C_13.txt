@@ -247,7 +247,7 @@ son pied fendit l'air et pulvérisa le plafond en même temps que les Runes.
 [sha:5a2fefd746bf03e5c318120f47e95a29ad5f560d]{
 -- Page 11, Offset 17453. Glued. Mods: @x.
 -- 後で返すんだから、アンタに批難される覚えはありませんけど！」
-Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la leçon !」
+  Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la leçon !」
 
 }
 [sha:98ae45357507d3783ddd8d83f293b69444ca4fda]{
@@ -265,7 +265,7 @@ Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la
 [sha:27221af05b9ff42bf73459f22ea9f2dce6054e6f]{
 -- Page 12, Offset 17456.
 -- だが―――
-  Seulement―――
+  Cependant―――
 
 }
 [sha:b35b4a8e9bba7165930cc0ffc1249246bca5f601]{
@@ -379,7 +379,7 @@ Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la
 [sha:8e1097fed406e5fca4a8aeb9a91c43561c8c8f4f]{
 -- Page 17, Offset 17475.
 -- 「―――<主|メ><観|イ><軸|ン>、<固定|セット>」
-「―――<Axe subjectif|Main>, <Fixé|Set>.」
+「―――, <Fixé|Set>.」
 
 }
 [sha:2de2fa7bfc2926149294d10c0d714213c5d104eb]{
@@ -595,7 +595,7 @@ Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans 
 [sha:eb01a9818f7df3cfba65a673d0a0ffe3f941b24d]{
 -- Page 26, Offset 17511. Glued. Mods: @x.
 -- そこにあった熱量の帳尻を、どうやって合わせている！？」
-Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
+  Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
 
 }
 [sha:0f6ef53e05c4fcb43f8cfb649b4cf239fccae5ee]{
@@ -727,7 +727,7 @@ Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
 [sha:25a2110e9b20920f1bb7f001e81d21fa02c9972c]{
 -- Page 31, Offset 17533. Glued. Mods: @x.
 -- 歪みに潰されるのは過去だけなんだから！」
-La distorsion n'écrasera que le passé, après tout !」
+  La distorsion n'écrasera que le passé, après tout !」
 
 }
 [sha:3aeb1cfdd54aca7c7b4e45e43c6b28a62f8691d4]{
@@ -853,7 +853,7 @@ La distorsion n'écrasera que le passé, après tout !」
 [sha:bb1deececb0bfe3f0ac5d91f0cfa8898f19e8a91]{
 -- Page 36, Offset 17554. Glued. Mods: @x.
 -- おまえは、最悪だ！」
-Tu es la pire femme qui soit !」
+ Tu es la pire femme qui soit !」
 
 }
 [sha:1d2f9bc34c39d13fc77bbee0734dc2182e31483a]{

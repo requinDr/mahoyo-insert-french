@@ -55,7 +55,7 @@
 [sha:6b4e4e272c49f9d484c6795fcc92ee37d34edd4a]{
 -- Page 3, Offset 14770.
 -- 青子が行った陶川ではなく、ここ社木が今夜の本命であるらしい。
-  Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tôgawa où s'était rendue Aoko, mais ici, à Yashirogi.
+  Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōgawa où s'était rendue Aoko, mais ici, à Yashirogi.
 
 }
 [sha:f5b231906c44a120bd09f2ce7789e398ed0c9a7f]{
@@ -1039,7 +1039,7 @@ En effet, vaincre l'ennemi avant d'attirer son attention constituait le B.A.BA d
 [sha:62186aee706b4e115f319ae065869cc0aa132e51]{
 -- Page 46, Offset 14934.
 -- 『誰<が駒鳥を殺した|Who killed COCK ROBIN.>か？』を、音程はずれで唄っている。
-  chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
+chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
 
 }
 [sha:ea615d85ea7e1210979e1122fff26c46c6a020fe]{

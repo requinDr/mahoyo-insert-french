@@ -164,9 +164,7 @@ def update_switch_files():
 	for file in os.listdir(dossier_switch):
 		file_path = os.path.join(dossier_switch, file)
 		lines = get_file_lines(file_path)
-		# remove empty lines
-		lines = [line for line in lines if line.strip()]
-		print(f"Updating {file_path}... {round(len(lines) / 5)} lines.")
+		print(f"Updating {file_path}... {round(len(lines) / 6)} lines.")
 		for i, line in enumerate(lines):
 			if line.startswith("[sha:"):
 				# on récupère le offset

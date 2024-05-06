@@ -25,7 +25,7 @@
 [sha:cdccc28b6a14087cd78c9230bf2ef549c7995b11]{
 -- Page 1, Offset 4017.
 -- 自分でもやりすぎだって呆れたもんだけど、貴方が<遊園地|ここ>に来るのが遅かったから。ちょっと興に乗っちゃって”
-  Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps pour venir, je me suis un peu amusée.”
+  Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps à arriver, j'en ai profité pour m'amuser un peu.”
 
 }
 [sha:7a92ea88d2756015e743f7020c6b077ed15fbe76]{

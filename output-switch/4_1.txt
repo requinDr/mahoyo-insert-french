@@ -187,13 +187,13 @@
 [sha:3aac43ee1a5c5c3147464f080421150422b4891f]{
 -- Page 12, Offset 3202.
 -- まさかまさかの高校デビュー。
-  Enfin... pour le début d'une nouvelle vie, c'était pas si mal.
+  Une entrée au lycée dans des circonstances inimaginables.
 
 }
 [sha:fe137559b553c6a1f281017584e4d4546c2248a4]{
 -- Page 12, Offset 3203.
 -- まあ、新生活のスタートとしては悪くない。
-  Une entrée au lycée dans des circonstances inimaginables.
+  Enfin... pour le début d'une nouvelle vie, c'était pas si mal.
 
 }
 [sha:cb6b0fdc5c8f5c47c0c2e06a240f47aed24bb084]{

@@ -607,7 +607,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
 [sha:9af595ba097decfce4efc9e3c8947b224db79dd8]{
 -- Page 30, Offset 7680.
 -- 青子は１００パーセント本気である。
-  Aoko était sérieuse à 100%.
+  Aoko était sérieuse à 100 %.
 
 }
 [sha:f8a7a7d7675c0a5f3c8f25ab5d840ce7190bf0fe]{

@@ -847,7 +847,7 @@ De toute évidence, la conversation ne progresserait pas tant qu'il n'aurait pas
 [sha:bd21c4f6c434cfb4f42ecfc030bad0b2c779a58c]{
 -- Page 48, Offset 13652. Glued. Mods: @x.
 -- 青子を訪ねにきたら、いつか見た君が出迎えてくるんだから」
-  Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé une fois auparavant m'accueille.」
+Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé une fois auparavant m'accueille.」
 
 }
 [sha:cbba913887736b5e5e5d960bce21f84664554521]{

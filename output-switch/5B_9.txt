@@ -367,7 +367,7 @@ Aoko remarqua un objet particulièrement étrange qui venait d'arriver au-dessus
 [sha:adb545b6b07ebbfddef387b7d482b01cb131b9b0]{
 -- Page 17, Offset 7285. Glued. Mods: @x.
 -- 言っとくけどアンタがアイツらに囲まれちゃったらアウトよ？　私、人質とか意味ないタイプだし。そもそも区別して撃つとか、そういうのできないし」
-Je te préviens, si jamais ils t'encerclent, tu es mort ! Avec moi, ça ne sert à rien de prendre quelqu'un en otage. Et de toute façon, je ne peux pas tirer avec suffisamment de précision !」
+  Je te préviens, si jamais ils t'encerclent, tu es mort ! Avec moi, ça ne sert à rien de prendre quelqu'un en otage. Et de toute façon, je ne peux pas tirer avec suffisamment de précision !」
 
 }
 [sha:5675ef91938f697fa7b453803402aec7316c2a48]{

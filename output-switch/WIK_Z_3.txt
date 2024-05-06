@@ -139,7 +139,7 @@
 [sha:00e24d431a726365b869567a3b3004a8c671ea87]{
 -- Page 6, Offset 23974.
 -- 『今朝、招待状が届いた』と。
-“J'ai reçu une invitation ce matin.”
+  “J'ai reçu une invitation ce matin.”
 
 }
 [sha:19f59120538bddc98be9d51179e66612a2cfa62d]{

@@ -313,7 +313,7 @@
 [sha:6ab56ce1e2488d46e410346e8a1c80068b20593f]{
 -- Page 15, Offset 1168. Glued. Mods: @x.
 -- 忠告サンキュー。それで、相談ごと？　なに、もしかして金？」
- Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-être ?」
+  Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-être ?」
 
 }
 [sha:2735462657b0d4e388b57ac91304cfa057ef8b30]{
@@ -451,7 +451,7 @@
 [sha:15cbd23a39f6b727f9bf8f9a27c923bcc6db3161]{
 -- Page 23, Offset 1191. Glued. Mods: @x.
 -- <辻斬|つじぎ>りってのが近いのか。住宅街とか、まだ森が残ってる方によく出やがるんだよ、そういうおかしいのが。
- Ça correspondrait plutôt à quelqu'un qui tue des gens pour essayer son nouveau sabre. Ce genre de trucs bizarres se produisent en général à proximité de la zone forestière ou dans la zone résidentielle.
+Ça correspondrait plutôt à quelqu'un qui tue des gens pour essayer son nouveau sabre. Ce genre de trucs bizarres se produisent en général à proximité de la zone forestière ou dans la zone résidentielle.
 
 }
 [sha:3b59b272f047876ccf5207ce4b09cbb635cfbdb6]{
@@ -499,7 +499,7 @@
 [sha:cf9fbacd425c120925ec8a1b361e290df562fca6]{
 -- Page 25, Offset 1199. Glued. Mods: @x.
 -- 女の情念はおっかねえっつうか、アメコミの怪人っぽいっつうか」
- La passion féminine fait peur, c'est comme une héroïne des comics américains.」
+La passion féminine fait peur, c'est comme une héroïne des comics américains.」
 
 }
 [sha:f8c1135fd220a8de10bc36de20f92c47cd62bafb]{
@@ -529,7 +529,7 @@
 [sha:0b43a984d36c96c8c6f5393069bf23a6520f0f3c]{
 -- Page 26, Offset 1204. Glued. Mods: @x.
 -- ぎゃっ！？」
- Gya ?!」
+Gya ?!」
 
 }
 [sha:fc1903cf9979fcceeaa05a2c2ec5a8901cebf976]{
@@ -559,7 +559,7 @@
 [sha:77602d9cc505602b58fd4f4463170ee4b7ff9369]{
 -- Page 28, Offset 1209. Glued. Mods: @x.
 -- フツーそっちの方が禁止用語じゃねえの!?　ここレストランなんだしさ！　いや、あんまうまくねーけど！」
- D'ailleurs, pourquoi c'est pas ça qu'on n'a pas le droit de dire ?! On est dans un restaurant, quand même ! Même s'il est pas très bon !」
+  D'ailleurs, pourquoi c'est pas ça qu'on n'a pas le droit de dire ?! On est dans un restaurant, quand même ! Même s'il est pas très bon !」
 
 }
 [sha:9c2a63b8d1f6bbfaa4a01cc6ca60c30973cbfcb1]{
@@ -577,7 +577,7 @@
 [sha:b188fdb68a7be0e85c21034ae58dfc71517d7804]{
 -- Page 29, Offset 1212.
 -- ともかく、そういうワケなんで夜の暗がりは気をつけるぞなもし。静希、見るからにカモそうな顔してるし」
-  En tout cas, fais attention aux coins sombres la nuit. Après tout, tu as une tête de pigeon.」
+  En tout cas, fais attention aux coins sombres la nuit. Faut dire que tu as une tête de pigeon.」
 
 }
 [sha:450ef19430d547af249bb26a0176d4e7135fa0ec]{

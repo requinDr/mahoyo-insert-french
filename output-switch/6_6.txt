@@ -223,7 +223,7 @@ Et toi aussi !」
 [sha:1a351520428ad5a310b2e46b85a69438bc64f18a]{
 -- Page 12, Offset 8032.
 -- 青子の言っている事は八割納得できる草十郎だったが、最後のリビングスタチュー、という単語はあまりにも意味不明だった。
-  Sōjūrō était d'accord avec 80% de ce que disait Aoko, mais la dernière expression, “statue vivante”, avait un sens bien trop obscur.
+  Sōjūrō était d'accord avec 80 % de ce que disait Aoko, mais la dernière expression, “statue vivante”, avait un sens bien trop obscur.
 
 }
 [sha:bb0c5d7b7bca6ed60d3a868602ae7d201c19931e]{

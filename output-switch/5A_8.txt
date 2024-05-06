@@ -145,7 +145,7 @@
 [sha:06c96dff430e8de59f8843360560f29f4d2b758a]{
 -- Page 8, Offset 5166.
 -- 「―――<接続|セット>」
-「―――<Connexion.|Set.>」
+「―――<Connexion|Set>.」
 
 }
 [sha:35807914ebaa3ed134b0b88b9a7871e43fa07967]{
@@ -511,7 +511,7 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:ecae32d8fa62115dd37058ae4d1b1f605fc4f432]{
 -- Page 25, Offset 5227.
 -- この距離ならこの攻撃、といったテンプレートを行うだけの殺戮機巧なら対応できると、青子は己の運に賭けたのだ。
-  Aoko avait parié qu'elle pourrait lui faire face si ce n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
+  Aoko avait parié qu'elle pourrait faire face à son adversaire si celui-ci n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
 
 }
 [sha:1fd7ac96849991105794835427fdd360d0c80fd6]{
@@ -679,7 +679,7 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:04adab0bc957f3e47ae95678c80ec571aa1bab16]{
 -- Page 33, Offset 5255. Mods: @i, @r.
 -- “<知性は不必要でした|インテルレクトゥス・ノン・ネケススァリウス・エストゥ>。<敬虔さは重荷でした|ピウス・クウィエスカトゥ>。<ああ、私たち|オ・ノストゥラ><の本質は奪い合いで|エススェンティア・アブラタ・フイトゥ>、<理性は全て後付けでした|ラティオ・フィクサァ・タントゥム・エストゥ>。<苦しみのも|ドロリス・イニティウム><とは、脳髄でした|ケレブルム・フイトゥ>”
-"Intellectus non necessarius est. Pius quiescat.^ O nostra essentia ablata fuit,^ratio fixa tantum est.^ Doloris initium cerebrum fuit."
+“<Intellectum non necessitas|L'intelligence est inutile.>       <Et pius non necessitas|Être pieux est inutile.>    <Ô nostrum esentia auferati eramus|Aah, notre nature était de lutter,>       <ratio figur tantum est|et notre raison venait en dernier.>     <Doloris initium encephalon|Mon cerveau est l'origine de ma souffrance.>”
 
 }
 [sha:dd1b5dd68a4ee36498adf9b32f7da083bc7bbbee]{
@@ -703,7 +703,7 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:e3006e76ec42960cc6a8f49ee1068319793b9e90]{
 -- Page 34, Offset 5259. Mods: @i, @r, @k, @e.
 -- “<我々に救罪を|イィス・サルヴェティオ>。<我々に救罪を|イィス・サルヴェティオ>。<我々に救罪を|イィス・サルヴェティオ>。”
-"<Donnez-nous le pardon.|Iis salvatio.> <Donnez-nous le pardon.|Iis salvatio.> <Donnez-nous le pardon.|Iis salvatio.>"
+“<Iis salvitio|Donnez-nous le pardon.> <Iis salvitio|Donnez-nous le pardon.> <Iis salvitio|Donnez-nous le pardon.>”
 
 }
 [sha:ea2cb7d55b46be198ffccd994422a692aa5e45c5]{
@@ -787,13 +787,13 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
 -- Page 38, Offset 5273. Mods: @n.
 -- 
-                                
+　　　　　　　
 
 }
 [sha:f6df3b96a2fc2d8c5150e432da492ff8bd07677e]{
 -- Page 38, Offset 5274. Glued. Mods: @i, @r.
 -- “「ワレ<ラ、死セリ|Iis salvatio>―――」”
-“<Nous sommes morts|Iis salvatio>―――”
+“「<Iis salvatio|Nous sommes morts―――>」”
 
 }
 [sha:70f6c21dce8840c00cbcdf512404cd73f276bcdf]{
@@ -865,7 +865,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
 -- Page 42, Offset 5286. Mods: @i, @r.
 -- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
-          <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort, et celui de ma naissance. Allez, je viens te rencontrer.>"
+          <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort, et celui de ma naissance. Je viens à ta rencontre.>"
 
 }
 [sha:e610b89f6641394d68f58d2610bd141abd54988f]{
@@ -901,7 +901,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:0c51112ecf01e9c1b2b641761baaf4c1e2c97f95]{
 -- Page 43, Offset 5292.
 -- 人形の動力源である呪いの詩は、近寄る者に病をもたらす防衛機巧にもなっている。
-  Le poème maudit, la source de sa puissance, était aussi un système de défense qui rendait malade quiconque s'en approchait.
+  Le poème maudit, la source de sa puissance, servait aussi de système de défense qui rendait malade quiconque s'en approchait.
 
 }
 [sha:294d2d9ea5187a3410744616e89a3eb8ebf46d14]{
