@@ -5,7 +5,7 @@ import requests
 
 from utils.github_api import get_content_from_github, is_github_url
 
-csv_columns = ["Ligne", "Texte", "Traduction"]
+csv_columns = ["Ligne", "Texte", "Traduction", "Espaces placés au début"]
 CSV_DELIMITER = ','
 
 def create_csv(chemin: str, lignes: dict):

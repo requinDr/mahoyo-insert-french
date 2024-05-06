@@ -31,13 +31,14 @@ def init_script_fr_mem():
 	global script_fr_mem
 	script_fr_mem = get_file_lines(script_source)
 
-def remplace_dans_script(indice: int, ligne: str):
+def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 	global script_fr_mem
 
-	nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
-	nbEndSpaces = nb_espaces_fin_ligne(sourceScriptIndent[indice])
+	if nbStartSpaces == -1:
+		nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
+	# nbEndSpaces = nb_espaces_fin_ligne(sourceScriptIndent[indice])
 
-	ligne = format_line_to_steam(ligne, nbStartSpaces, nbEndSpaces)
+	ligne = format_line_to_steam(ligne, nbStartSpaces)
 	script_fr_mem[indice] = ligne
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
@@ -118,9 +119,14 @@ def creer_fichier_steam(script_sortie: str):
 			# Si l'indice de la ligne est dans la première colonne du csv,
 			# et que la troisième colonne n'est pas vide,
 			# on remplace la ligne par la traduction située dans la troisième colonne
-			if not creer_csv and (idx + 1) in csv_dict and csv_dict[idx + 1][csv_columns[2]].strip() != "":
-				remplace_dans_script(idx, csv_dict[idx + 1][csv_columns[2]]+ "\n")
-				continue
+			if not creer_csv and (idx + 1) in csv_dict:
+				csv_row = csv_dict[idx + 1]
+				translation = csv_row[csv_columns[2]]
+				nbStartSpaces = int(csv_row[csv_columns[3]]) if csv_row[csv_columns[3]] != "" else -1
+
+				if translation.strip() != "":
+					remplace_dans_script(idx, translation, nbStartSpaces)
+					continue
 			
 			# S'il n'y a que des espaces dans la ligne, on passe à la suivante
 			if ligne.strip() == "":
@@ -140,6 +146,12 @@ def creer_fichier_steam(script_sortie: str):
 				else:
 					nb_non_trouvees += 1
 					csv_missing[idx + 1] = ligne
+			
+			if not creer_csv and (idx + 1) in csv_dict:
+				csv_row = csv_dict[idx + 1]
+				nbStartSpaces = csv_row[csv_columns[3]]
+				if nbStartSpaces != "":
+					remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 			
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")

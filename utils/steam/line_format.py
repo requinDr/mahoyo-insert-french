@@ -15,8 +15,8 @@ SPACE = " "
 def indent(nbStartSpaces: int, ligne: str):
 	return SPACE * nbStartSpaces + ligne
 
-def end_indent(nbEndSpaces: int, ligne: str):
-	return ligne + SPACE * nbEndSpaces
+# def end_indent(nbEndSpaces: int, ligne: str):
+# 	return ligne + SPACE * nbEndSpaces
 
 # supprime les tags
 PATTERN_TAGS = r'\[.*?\]'
@@ -42,7 +42,7 @@ def remove_tags(ligne: str):
 	return ligne
 
 
-def format_line_to_steam(ligne: str, nbStartSpaces: int = 0, nbEndSpaces: int = 0):
+def format_line_to_steam(ligne: str, nbStartSpaces: int = 0):
 	ligne = transform_ruby(ligne)
 
 	ligne = remove_tags(ligne)
@@ -50,7 +50,6 @@ def format_line_to_steam(ligne: str, nbStartSpaces: int = 0, nbEndSpaces: int = 
 	ligne = ligne.strip()
 
 	ligne = indent(nbStartSpaces, ligne)
-	ligne = end_indent(nbEndSpaces, ligne)
 
 	ligne = ligne + "\n"
 
