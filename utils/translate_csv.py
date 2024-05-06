@@ -1,7 +1,5 @@
-import base64
 import csv
 import io
-import requests
 
 from utils.github_api import get_content_from_github, is_github_url
 

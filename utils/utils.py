@@ -32,7 +32,3 @@ def write_file_lines(path: str, lignes: list):
 # compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
 def nb_espaces_debut_ligne(ligne: str):
 	return len(ligne) - len(ligne.lstrip())
-
-# compte le nombre d'espaces à la fin de la ligne
-def nb_espaces_fin_ligne(ligne: str):
-	return len(ligne) - len(ligne.rstrip()) - 1
