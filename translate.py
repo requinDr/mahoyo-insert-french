@@ -121,8 +121,8 @@ def creer_fichier_steam(script_sortie: str):
 			# on remplace la ligne par la traduction située dans la troisième colonne
 			if not creer_csv and (idx + 1) in csv_dict:
 				csv_row = csv_dict[idx + 1]
-				translation = csv_row[csv_columns[2]]
-				nbStartSpaces = int(csv_row[csv_columns[3]]) if csv_row[csv_columns[3]] != "" else -1
+				translation = csv_row[csv_columns[1]]
+				nbStartSpaces = int(csv_row[csv_columns[2]]) if csv_row[csv_columns[2]] != "" else -1
 
 				if translation.strip() != "":
 					remplace_dans_script(idx, translation, nbStartSpaces)
@@ -149,7 +149,7 @@ def creer_fichier_steam(script_sortie: str):
 			
 			if not creer_csv and (idx + 1) in csv_dict:
 				csv_row = csv_dict[idx + 1]
-				nbStartSpaces = csv_row[csv_columns[3]]
+				nbStartSpaces = csv_row[csv_columns[2]]
 				if nbStartSpaces != "":
 					remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 			

@@ -5,7 +5,7 @@ import requests
 
 from utils.github_api import get_content_from_github, is_github_url
 
-csv_columns = ["Ligne", "Texte", "Traduction", "Espaces placés au début"]
+csv_columns = ["Ligne", "Traduction", "Espaces placés au début", "Révision 2022 (pour référence)"]
 CSV_DELIMITER = ','
 
 def create_csv(chemin: str, lignes: dict):
@@ -14,7 +14,7 @@ def create_csv(chemin: str, lignes: dict):
             writer = csv.writer(f, delimiter=CSV_DELIMITER, quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(csv_columns)
             for key, value in lignes.items():
-                writer.writerow([key, value.strip(), ""])
+                writer.writerow([key, "", "", value.strip()])
         
         print(f"Traductions manquantes inscrites dans {chemin}")
     except Exception as e:
