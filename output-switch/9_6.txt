@@ -157,7 +157,7 @@ Je te jure, cette petite n'a jamais été sujette à l'hésitation.」
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 8, Offset 13878. Mods: @k, @e.
 -- 「はい？」
-「Hum ?」
+「Quoi ?」
 
 }
 [sha:4b2e2b88ce4709bd789ab26aac544807f2363f24]{

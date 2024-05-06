@@ -121,7 +121,7 @@
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
 -- Page 3, Offset 21467.
 -- 「え……？」
-「Hein......?」
+「Hein...?」
 
 }
 [sha:a1134b4e21573c2a96b253683d6def71925474cd]{

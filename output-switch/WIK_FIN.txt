@@ -55,7 +55,7 @@
 [sha:a750020776aba4d0dc2f5be580e8719b7403d670]{
 -- Page 2, Offset 22091.
 -- それと、
-  Puis,
+  Et,
 
 }
 [sha:1b773530322804d2f0243ced35cf35500806f5aa]{

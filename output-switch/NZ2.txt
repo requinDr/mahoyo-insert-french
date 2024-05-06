@@ -145,7 +145,7 @@
 [sha:f7741f784ac5a0012e3d5920f54fce18d7828b2b]{
 -- Page 9, Offset 19819.
 -- ところで。
-  Au fait...
+    Au fait.
 
 }
 [sha:9b70bf94212fe16c7d010b30cc3b13890060f723]{
@@ -817,7 +817,7 @@ Tu penses vraiment avoir une telle importance ?
 [sha:4186afe936faad8cfb9793afb28b65ee67da96dd]{
 -- Page 53, Offset 19931.
 -- そうね。
-  Oui.
+  Bonne idée,
 
 }
 [sha:1bc3c75309d995f2232ec750ac1fd97363228022]{

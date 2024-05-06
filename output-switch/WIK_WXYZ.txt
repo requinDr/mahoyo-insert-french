@@ -31,7 +31,7 @@
 [sha:fcf024930d040b9edf17b8ee50e5d999324983e8]{
 -- Page 1, Offset 23923.
 -- 嵐も止んだし、このまま町まで下りてしまえば何もかも元通りなんだ……！
-  La tempête s'était arrêtée, alors si je descendais jusqu'en ville, tout reviendrait à la normale...!
+  La tempête s'était arrêtée, alors si je descendais jusqu'à la ville, tout reviendrait à la normale...!
 
 }
 [sha:a09d66584daa40e12465c74b20ca87c4bbb65609]{
@@ -49,7 +49,7 @@
 [sha:ab0aa1b408cccf44171d505e834640028b677f37]{
 -- Page 3, Offset 23926.
 -- ああ―――
-      Aaah―――
+  Aaah―――
 
 }
 [sha:19068d8550fd23aecaea4781f17c6afbad267f45]{
@@ -133,7 +133,7 @@ tout
 [sha:061ee82c3292be6cecc7b87217a93353dbc800e6]{
 -- Page 4, Offset 23940. Glued. Mods: @c, @n.
 -- と
-de
+mon
 
 }
 [sha:ef883d8d494904c63bdb906feb306165919437c1]{
@@ -145,7 +145,7 @@ de.」
 [sha:ab94d608344064393eba2a92200de19bd5e2c33e]{
 -- Page 4, Offset 23942.
 -- 一度も聞いたコトのない、世にも恐ろしい、
-  j'entendis une voix terrifiante,
+  j'entendis une voix effrayante,
 
 }
 [sha:1bc34bd8749ab4ea025f03164d071d223e877d21]{

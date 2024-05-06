@@ -373,7 +373,7 @@ Aoko remarqua un objet particulièrement étrange qui venait d'arriver au-dessus
 [sha:5675ef91938f697fa7b453803402aec7316c2a48]{
 -- Page 18, Offset 7286.
 -- なるほど、と頷く草十郎。
-  “Je vois”, fit Sōjūrō en acquiesçant.
+  “Je vois”, acquiesça Sōjūrō.
 
 }
 [sha:93c928dd60ba1dad7e4225da6461d1ef66cd0c49]{

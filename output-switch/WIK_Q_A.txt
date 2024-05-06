@@ -67,13 +67,13 @@ ils sont quand même pas entrés dans les bois par ce temps...?」
 [sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
 -- Page 3, Offset 23052.
 -- そこへ、
-  À ce moment...
+  C'est alors que...
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 4, Offset 23053.
 -- 「…………」
-「............」
+「...」
 
 }
 [sha:19d0933b029451ad3b750ad5620f4ca70ddbd3c5]{
@@ -301,7 +301,7 @@ et mordait dans une rose.」
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 15, Offset 23091.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:bb1a6cfecf9297b7aaab4fbaf88fce91302ca449]{

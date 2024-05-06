@@ -61,7 +61,7 @@
 [sha:3ed8d8c3a689a42b8ae7eaf8070bd92328b83274]{
 -- Page 3, Offset 22812.
 -- 部屋には誰もいない。
-  Elle était déserte.
+  La chambre était déserte.
 
 }
 [sha:2c25e68bc0e6dbee98804142b3a4dbb495374776]{

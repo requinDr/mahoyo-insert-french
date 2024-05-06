@@ -331,7 +331,7 @@
 [sha:c2fbb60ea6319a8d7235e05517d0d0a6972b5f41]{
 -- Page 18, Offset 22383.
 -- あれ？」
- Hein ?」
+  Tiens ?」
 
 }
 [sha:8c2ae3cf41bdb7078536e4cdbfca9b78bf440c35]{

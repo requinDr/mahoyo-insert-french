@@ -175,7 +175,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
 -- Page 10, Offset 23901.
 -- そして、
-  Et puis,
+  Et pour finir,
 
 }
 [sha:315c1f04994e2fdc3981283635b4a353084bb029]{

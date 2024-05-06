@@ -7,7 +7,7 @@
 [sha:25bed1965ae327c25eb9b7fffc9ad4d6762affa1]{
 -- Page 0, Offset 23265.
 -- 廊下に出ると、蒼崎と出くわした。
-  Dans le couloir, je croisai justement Aozaki.
+  Dans le couloir, je croisai Aozaki.
 
 }
 [sha:f021a9853c2c3fdd57fabb557efa4c3aca7e44ce]{
@@ -25,7 +25,7 @@
 [sha:3f910dbfade1539a463ecac631193dc75473a7f3]{
 -- Page 1, Offset 23268.
 -- 「え、そ、そうだけど、別に部屋には寄ってないわよ？
-「Hein ? C'est... C'est bien ma chambre, mais je n'y étais pas.
+「Hein ? C'est... C'est bien ma chambre, mais je n'y suis pas allée.
 
 }
 [sha:df16e52d717f6557b806ecbeb4c7fd88460fb659]{

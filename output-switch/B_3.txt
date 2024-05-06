@@ -85,7 +85,7 @@
 [sha:87b67f22012053703b8ee267da475e116bb3d035]{
 -- Page 3, Offset 15627.
 -- 「あ」
-「Ah.」
+「Ah !」
 
 }
 [sha:fae286d01b7c55814aade76f126325fa6bbf4e34]{
@@ -397,7 +397,7 @@ Vraiment ?」
 [sha:10befe5f5eea7f56ff5e6d3be9020fed06961e67]{
 -- Page 17, Offset 15679.
 -- 「はい」
-「Oui ?」
+「Oui.」
 
 }
 [sha:a6ae90ff2c304c97fffa193d5ea0c1dcf1b56c50]{

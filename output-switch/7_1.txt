@@ -247,7 +247,7 @@
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page 12, Offset 8606. Glued. Mods: @x, @n.
 -- 
-　　　
+　
 
 }
 [sha:bbb8290a0be0205bd2742edb1405a3f4a4df44d3]{
@@ -361,7 +361,7 @@ Surtout quand on la compare avec les filles de notre classe. Au niveau des seins
 [sha:a85d385cb8a86c2b768305009f5fd3c6c0d86418]{
 -- Page 18, Offset 8625.
 -- さもありなん。
-  Bien évidemment,
+  Évidemment.
 
 }
 [sha:9c1d1b73fc7a69d4b6e53a9e8b4bd9459d146585]{
@@ -1789,7 +1789,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 [sha:a8ce293f301cc2640d3fa1bf959bd0b7a5d297f0]{
 -- Page 95, Offset 8863.
 -- なので、
-  Et donc,
+  Donc,
 
 }
 [sha:a8cb1733421b2181a9d235fa8283f696a7076ec1]{

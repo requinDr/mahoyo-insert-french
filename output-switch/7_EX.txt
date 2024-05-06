@@ -1945,7 +1945,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{
 -- Page 102, Offset 10347.
 -- この通り。
-  Comme ceci.
+  comme on pouvait le constater,
 
 }
 [sha:5da32c48f033da57e6c396786270bb07eb0d9bc3]{

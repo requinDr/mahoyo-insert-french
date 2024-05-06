@@ -235,7 +235,7 @@
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 14, Offset 21590.
 -- そうだ。
-  C'était vrai.
+  Exactement.
 
 }
 [sha:88901e3ab714e8970cdd97f859b08d95f59b6c1d]{

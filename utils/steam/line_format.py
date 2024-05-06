@@ -22,8 +22,8 @@ def indent(nbStartSpaces: int, ligne: str):
 PATTERN_TAGS = r'\[.*?\]'
 def remove_tags(ligne: str):
 	# ", [r]　" -> ", "
-	if re.search(r'[,\.\?A-z] ' + PATTERN_TAGS + '　', ligne):
-		ligne = re.sub(r'([,\.\?A-z]) ' + PATTERN_TAGS + '　', r'\1 ', ligne)
+	if re.search(r'[,\.\?\!A-z] ' + PATTERN_TAGS + '　', ligne):
+		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_TAGS + '　', r'\1 ', ligne)
 
 	# repace japanese space by normal space
 	ligne = ligne.replace('\u3000', ' ')

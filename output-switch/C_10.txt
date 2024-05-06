@@ -361,7 +361,7 @@
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
 -- Page 16, Offset 17078. Mods: @n.
 -- 
-　　　
+　　　　　　　　
 
 }
 [sha:a50025e1678fac91afc5eb3a4b753b57d42fddc7]{
@@ -415,7 +415,7 @@ Afin de ne rien souhaiter.
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
 -- Page 17, Offset 17087. Mods: @n.
 -- 
-　　　
+　　　　　　　　
 
 }
 [sha:b08e12dc83b6f0db1f7a0b625b6f0b5f29300e09]{
@@ -511,7 +511,7 @@ Tu ne dois ni réfléchir à la valeur de la vie,
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
 -- Page 20, Offset 17103. Mods: @n.
 -- 
-　　　
+　　　　　　　　
 
 }
 [sha:de45be8a2ac8c419d91656f7f18425e3d8a9822c]{

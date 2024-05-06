@@ -271,7 +271,7 @@ Pinktrude en fait partie ?!
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 12, Offset 13357.
 -- ……と。
-  ...... Puis,
+  ...... Puis...
 
 }
 [sha:bf86b5469409ded979583449d3355ac266b71d53]{
@@ -949,7 +949,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 41, Offset 13470.
 -- が。
-  Mais...
+  Cependant,
 
 }
 [sha:b65a605081f1e9861bd92bbd072e8f03a06e83af]{

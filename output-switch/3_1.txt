@@ -115,7 +115,7 @@
 [sha:e01e58198d1f4f6767bb8c9afecc18c6ba883a34]{
 -- Page 6, Offset 3025. Mods: @i, @a, @r.
 -- The cow jump'd over the moon,
-The cow jump'd over the moon,
+  The cow jumped over the moon,
 
 }
 [sha:c69896dd0c1e74fbd3aeb3a7b313629ee1b800a2]{

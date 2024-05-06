@@ -295,7 +295,7 @@ toi.」
 [sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
 -- Page 13, Offset 6572.
 -- 「――――――はあ」
-「――――――Aaah.」
+「――――――Aah.」
 
 }
 [sha:0311b43ae8169e7be4cdc37c4ce0f01721104399]{
@@ -379,7 +379,7 @@ Pour le moment, je te laisse la vie sauve.」
 [sha:b1b7d15b981728de8827fa07bb932cc8f894ebf3]{
 -- Page 17, Offset 6586.
 -- 一方。
-  Pendant ce temps,
+  Quant à lui,
 
 }
 [sha:c0fe938485879ac6ddd92fef3d30350e73c42a49]{

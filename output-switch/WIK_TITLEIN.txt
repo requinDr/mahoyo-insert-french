@@ -343,7 +343,7 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:ff8ec0e65088789ac0e8694bffeb3402be7d75b0]{
 -- Page 18, Offset 23528.
 -- なぜなら、
-  Parce que,
+  Et ce pour une bonne raison.
 
 }
 [sha:99981a6f8746dde4793e02ca469349077657d095]{
@@ -805,7 +805,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:9648072feb72c727d9626d0c50059931da637b6f]{
 -- Page 39, Offset 23605.
 -- 「……そうね。
-「...... C'est vrai.
+「...... Oui.
 
 }
 [sha:63bed80698d69dc8f7e62bfb1b01d40fe0083617]{

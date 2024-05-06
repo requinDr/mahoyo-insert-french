@@ -427,7 +427,7 @@
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 17, Offset 17245.
 -- だが。
-  Mais,
+  Mais ça ne suffisait pas.
 
 }
 [sha:d1ac34df08f681ffc6c13d673479cb35bceac75d]{
@@ -529,7 +529,7 @@ La nature d'un Mage et la qualité de son Circuit Magique ne changeaient pas.
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 21, Offset 17262.
 -- 「っ―――！」
-「Tch―――!」
+「―――!」
 
 }
 [sha:846fefa71c4d2162e80367961bbc37d6feb344a4]{

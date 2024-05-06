@@ -253,7 +253,7 @@
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 9, Offset 23733.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:404cf72f9ac2b4070a2e5819efb11fc201a6d05a]{

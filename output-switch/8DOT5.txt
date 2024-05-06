@@ -823,7 +823,7 @@ Pour le dîner, c'est moi qui me mettrai aux fourneaux, alors―――
 [sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
 -- Page 43, Offset 11966.
 -- 「む」
-「Hm.」
+「Hmm.」
 
 }
 [sha:5034ecff701065458d0de2a0cbff56bfca3685d1]{
@@ -1183,7 +1183,7 @@ Pour le dîner, c'est moi qui me mettrai aux fourneaux, alors―――
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 63, Offset 12026.
 -- しかし。
-  Cependant,
+  Cependant.
 
 }
 [sha:a77805f3a6e62bcee940d4e5bcc4389e518517af]{
@@ -2359,7 +2359,7 @@ Heureusement, ce dernier se calma enfin.
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 125, Offset 12222.
 -- そう。
-  Oui.
+  Eh oui.
 
 }
 [sha:ff9c33ee3a6f589de12b06582c8d8a19454beeee]{
@@ -2743,7 +2743,7 @@ Tobi. Toi aussi, tu aimes ça, non ?」
 [sha:cf3d4725190d8ee9851312d10cdec38c3e74a989]{
 -- Page 150, Offset 12286.
 -- 「どういう意味よそれ」
-「Qu'est-ce que ça veut dire, ça ?」
+「Qu'est-ce que tu insinues par là ?」
 
 }
 [sha:e57781c8f5fe07ca9c16601be83b76cd47d4fbc3]{
@@ -3187,7 +3187,7 @@ pendant que moi, je te prête assistance tout en me préoccupant de lui en tant 
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 174, Offset 12360.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:7efb058471b4ea986f28dad339f7710b358a70d8]{
@@ -6313,7 +6313,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
 -- Page 342, Offset 12881.
 -- 「む」
-「Hm.」
+「Hmm.」
 
 }
 [sha:4ebf76845d7cf567f095b0cbd767c1ccbb79e4df]{
@@ -6613,7 +6613,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 354, Offset 12931.
 -- が。
-  Mais...
+  Pourtant...
 
 }
 [sha:e78bbeb6ca4c21bc1c6bb789e0ff58c0239e404f]{
@@ -6775,7 +6775,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:b1b7d15b981728de8827fa07bb932cc8f894ebf3]{
 -- Page 365, Offset 12958.
 -- 一方。
-  Pendant ce temps,
+  En revanche,
 
 }
 [sha:d65312c4f586ceb58598da17555caa0dde65a314]{
@@ -6817,7 +6817,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 367, Offset 12965.
 -- 「はい？」
-「Hum ?」
+「Hein ?」
 
 }
 [sha:2c2d7370cdc425805b2ecc874c16bce59236df3d]{

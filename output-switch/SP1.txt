@@ -1417,7 +1417,7 @@
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 76, Offset 20703.
 -- ……しかし。
-  ...... Cependant,
+  ...... Pourtant,
 
 }
 [sha:279a9dac50ce1ad6fa3cece9d615d2f5dbabdf4f]{
@@ -1507,7 +1507,7 @@
 [sha:c827280d0f27a81fae2f1b100b6cff2e36312f41]{
 -- Page 79, Offset 20718.
 -- 一方、
-  De son côté,
+  Quant à Tōko...
 
 }
 [sha:2802d893458911a0606f75137784dd42b528e553]{
@@ -1543,7 +1543,7 @@
 [sha:82569ce7130b2317adc0fe17c311418237f176aa]{
 -- Page 81, Offset 20726.
 -- このように。
-  soit à ceci.
+  Son état d'esprit était palpable.
 
 }
 [sha:c0068c7e306554782f2956e48aab60b9bd9fbc09]{
@@ -2023,7 +2023,7 @@
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 107, Offset 20806.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:44d45a2104551f6853b03947e30a025288e209b1]{
@@ -3721,7 +3721,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 197, Offset 21091.
 -- と。
-  Puis,
+  Puis un intrus se montra.
 
 }
 [sha:6360cb85cfac8a2dfd961f2d783d862495e11ebf]{
@@ -4063,7 +4063,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:18f8d60af4c157e8e82736a4fb9ca482e42dcd57]{
 -- Page 213, Offset 21148.
 -- 「ただいまー」
-「Je suis rentré.」
+「Je suis rentré !」
 
 }
 [sha:847ad89592e52e336e5eb2707601e85e3af958ae]{
@@ -4333,7 +4333,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 226, Offset 21193.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:a1ea538d5ce7aa5757eef0fad3be267cc4e97b32]{

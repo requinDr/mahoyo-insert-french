@@ -157,7 +157,7 @@ C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'h
 [sha:721a46d4851085680973c6466e84c9c1cdec60bf]{
 -- Page 7, Offset 10460.
 -- 冬期特別清掃班。
-  L'équipe spéciale de nettoyage d'hiver :
+  L'équipe spéciale de nettoyage d'hiver.
 
 }
 [sha:78235f905498d423eb59e7a87556854491128a95]{

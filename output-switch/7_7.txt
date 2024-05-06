@@ -19,7 +19,7 @@
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 0, Offset 9703.
 -- だが。
-  Mais,
+  Seulement,
 
 }
 [sha:9c27b1ec8e43df992f51e26be35873e7a2bab88c]{
@@ -67,7 +67,7 @@
 [sha:bc2cdd35267c41b7c2e3ebfdce56139b2fe00b18]{
 -- Page 3, Offset 9711.
 -- ―――しかし。
-  ―――Cependant...
+  ―――Cependant,
 
 }
 [sha:5a08e54d8f11074d60b2bbbd75721257086376ee]{
@@ -319,7 +319,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:8e581dd3c51833a6393ccb9fd823b50d9d2cc01d]{
 -- Page 14, Offset 9753.
 -- あっさりと。
-  Tout simplement.
+  tout cela très simplement.
 
 }
 [sha:e8f0d2e92506b2039c2eb92d5c24090e6d811b35]{
@@ -475,7 +475,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 21, Offset 9779.
 -- 返事はない。
-  Pas de réponse.
+  Alice ne répondit rien.
 
 }
 [sha:e9045d15407a084b8867aa9f27e97eab1012368d]{
@@ -709,7 +709,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
 -- Page 32, Offset 9818.
 -- 「っ―――」
-「H―――」
+「―――」
 
 }
 [sha:3f030fab428780009a896e74c042596e78198d2d]{
@@ -757,7 +757,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:ed12286091fe28c42e239ee9217bf37c9fdb0f8f]{
 -- Page 35, Offset 9826.
 -- 「っ―――」
-「H―――」
+「―――」
 
 }
 [sha:d6a992fcc04a37f9fe0c13036364622022fb5938]{
@@ -841,7 +841,7 @@ posa celle qu'il avait utilisée sur le plateau et se leva,
 [sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
 -- Page 39, Offset 9840.
 -- 「ん、なに？」
-「Hmm, qu'est-ce qu'il y a ?」
+「Hm, quoi ?」
 
 }
 [sha:ac2c1791c26497dcb6399b93c9ed9c269eab0b38]{

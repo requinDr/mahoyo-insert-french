@@ -175,7 +175,7 @@
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
 -- Page 10, Offset 21806.
 -- 「あれ？」
-「Tiens ?」
+「Hein ?」
 
 }
 [sha:e45ac8ad824ac851a6fdca1366e4f2a9d8777f07]{
@@ -205,7 +205,7 @@
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 12, Offset 21811.
 -- ……と。
-  ...... Puis,
+  ...... À cet instant précis,
 
 }
 [sha:88fe9c7b299d433dc3896081f8b0c8f272b433ee]{
@@ -229,7 +229,7 @@
 [sha:f29ea995608b222ce276db72508368b1174fb559]{
 -- Page 13, Offset 21815. Glued. Mods: @x.
 -- 返事はない。
-  Pas de réponse.
+Pas de réponse.
 
 }
 [sha:93ec68c287dadd08379cfba3c005ac2031122119]{

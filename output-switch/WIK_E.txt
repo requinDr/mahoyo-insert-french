@@ -559,7 +559,7 @@ Aoko, où est Tokkii ?」
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 32, Offset 21972.
 -- 返事はない。
-  Pas de réponse.
+  Personne ne répondit.
 
 }
 [sha:b45f82cf1dc89ecf44e723f463a4586ebcaf26d2]{
@@ -589,7 +589,7 @@ Aoko, où est Tokkii ?」
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 34, Offset 21977.
 -- ……と。
-  ...... Puis,
+  ... À ce moment-là,
 
 }
 [sha:4f7377b3667d59e9d3b70ab50060e1c52b6d4f67]{

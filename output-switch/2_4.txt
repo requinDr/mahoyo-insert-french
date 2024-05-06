@@ -613,7 +613,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
 -- Page 24, Offset 2774.
 -- 「で？」
-「Et donc ?」
+「Et alors ?」
 
 }
 [sha:3483de869f48eddb1c1cb55fe25497bfcf468f93]{
@@ -811,7 +811,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 33, Offset 2807.
 -- しかし。
-  Cependant,
+  Pourtant,
 
 }
 [sha:235ddd2396f2d974d5407bff3097f9f3453ceccb]{
@@ -943,7 +943,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
 -- Page 40, Offset 2829.
 -- ―――と。
-  ―――Puis,
+  ―――Et,
 
 }
 [sha:a5dcb8a82ac9506778f0185e688969db449c89c4]{

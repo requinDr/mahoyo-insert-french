@@ -97,13 +97,13 @@
 [sha:87b67f22012053703b8ee267da475e116bb3d035]{
 -- Page 4, Offset 10957.
 -- 「あ」
-「Ah.」
+「Hein ?」
 
 }
 [sha:9734870b3b82cd3f1c5082c100bd384ccbb89a79]{
 -- Page 4, Offset 10958.
 -- 「あ？」
-「Ah ?」
+「Hein ?」
 
 }
 [sha:6ea6861e381c9d767a3e437c2ad806b6dd90bdbe]{

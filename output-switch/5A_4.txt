@@ -181,7 +181,7 @@
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 10, Offset 4664.
 -- 「っ―――！」
-「Tch―――!」
+「―――!」
 
 }
 [sha:4124cfc161bef8389d51a0fe6ba07454e296b373]{
@@ -967,7 +967,7 @@ Même s'il était nonchalant, c'était un garçon honnête avec ses sentiments.
 [sha:296153b5ac049cb48510eacb5052856468765762]{
 -- Page 46, Offset 4795. Glued. Mods: @x, @n.
 -- ……
-  ......
+......
 
 }
 [sha:ff7593685f1173ce7293467f016c615d9fb34c47]{

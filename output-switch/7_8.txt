@@ -493,7 +493,7 @@
 [sha:b5507ab57ae626b5b9133afdba75365ac7ad4ebe]{
 -- Page 24, Offset 10011.
 -- そうして。
-  Puis,
+  Ensuite,
 
 }
 [sha:f35bbaf88b49cd431ddbade36f38797bbed62788]{

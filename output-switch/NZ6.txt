@@ -199,7 +199,7 @@
 [sha:caf3654b53ff14f431548fb7bd95e5e004fe9a5d]{
 -- Page 14, Offset 20406.
 -- ……。
-  ......
+      ......
 
 }
 [sha:887444bbd0c7bf7ab42c72904c59a7ff4e322e36]{
@@ -409,7 +409,7 @@ Ha ha, que c'est amusant de violer la culture !
 [sha:2ea375920c0e830a7b49bc2142eb8e70ef681bec]{
 -- Page 34, Offset 20441.
 -- しかしジブン、やるプロイッスから。産廃を有効利用するッスよ。おーい、外の店員さーん。この残った油で、とりあえずフライドポテトでも揚げてくれ？
-Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur !  Prépare des frites avec l'huile restante !
+Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur ! Prépare des frites avec l'huile restante !
 
 }
 [sha:96025582be1aa9c64f916a4e69a60cb14761ee38]{

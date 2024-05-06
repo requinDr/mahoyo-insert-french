@@ -637,7 +637,7 @@ Espèce... d'idiot.」
 [sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
 -- Page 30, Offset 18311.
 -- ……けれど。
-  ...... Toutefois.
+  ...... Cependant,
 
 }
 [sha:c865e81c9e74026852bb6706d9ad1320f6f7cf4e]{

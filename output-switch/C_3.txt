@@ -499,7 +499,7 @@
 [sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
 -- Page 22, Offset 18091.
 -- ああ、でも―――」
-  Aah, mais―――」
+  Ah, mais―――」
 
 }
 [sha:26abf5eb70b2432beb2f87875425b07610fedff1]{

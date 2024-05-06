@@ -439,7 +439,7 @@
 [sha:82e494a9d164bc9ffd48f78755a6aab28dc706ce]{
 -- Page 21, Offset 8490.
 -- チチチ、と。
-  “Cui cui cui.”
+  Cui cui cui.
 
 }
 [sha:4b12b6eb6f5bcc80ae35880093b30e76e923c3d3]{
@@ -751,7 +751,7 @@
 [sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
 -- Page 38, Offset 8542.
 -- ただ、
-  Seulement,
+  Seulement...
 
 }
 [sha:964d844c11fba823f250be7e74fc574c183510c9]{

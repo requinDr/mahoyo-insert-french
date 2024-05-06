@@ -217,7 +217,7 @@
 [sha:c035d61fb386795999edcbc144b060addedf4b12]{
 -- Page 12, Offset 3624.
 -- 「だから、なに？」
-「Oui, quoi donc ?」
+「Oui, donc quoi ?」
 
 }
 [sha:f4ee0a446c0d812b3a8d96310f86bf852b1b6776]{
@@ -889,7 +889,7 @@ Aoko s'adressa à eux.
 [sha:6696cc34d28e1d6f7dd6e16506546fa8783cf435]{
 -- Page 45, Offset 3736.
 -- 「―――で。
-「―――Et donc ?
+「―――Donc.
 
 }
 [sha:32ab92ff7e64f8f557e55d7a467d52d09c55063d]{
@@ -1537,7 +1537,7 @@ Aoko s'adressa à eux.
 [sha:f50397f9a517cf047498dae1551100493a590887]{
 -- Page 77, Offset 3844.
 -- 「うん？」
-「Hum ?」
+「Oui ?」
 
 }
 [sha:0509b0be7efe7481bf5a19660adcfe9c6827050c]{

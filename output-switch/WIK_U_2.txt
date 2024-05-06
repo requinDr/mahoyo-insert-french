@@ -73,7 +73,7 @@ mais “qui avait eu la possibilité de tuer qui”.
 [sha:8034d2a0952b546aafd8e5218f8c0c31740ece58]{
 -- Page 3, Offset 23661. Glued. Mods: @n.
 -- 芳助、
- l'Idiot,
+ Hōsuke,
 
 }
 [sha:0581b2c3100e785a41ed520faa4a1795d49ba310]{
@@ -151,7 +151,7 @@ mais “qui avait eu la possibilité de tuer qui”.
 [sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{
 -- Page 5, Offset 23674. Glued. Mods: @n.
 -- 静希、
- Shizuki,
+ Shizuki
 
 }
 [sha:034da1e6374d18bb97d97cf16c69dd8b117508d1]{

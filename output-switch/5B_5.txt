@@ -55,7 +55,7 @@
 [sha:ac0a120f3d2f9a503aafaf77116e965735e12c36]{
 -- Page 2, Offset 6898.
 -- ……このように。
-  ...... et c'est ainsi que,
+  ...... à présent,
 
 }
 [sha:46d1014ba2c3f9aa07b8f3517648a46e413175e4]{
@@ -199,7 +199,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
 -- Page 9, Offset 6922.
 -- 「へ？」
-「Hé ?」
+「Hein ?」
 
 }
 [sha:7c86c83c93e6945f2daa717a0f728507c434493f]{

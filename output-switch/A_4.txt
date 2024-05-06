@@ -691,7 +691,7 @@ Vois-tu, même au repos, ces Runes n'ont pas un état stable. À la minute où n
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 30, Offset 14876.
 -- だが。
-  Mais,
+  Toutefois,
 
 }
 [sha:5c46308c9e39f619861e81eef8c4e5d6e85d2480]{
@@ -1117,13 +1117,13 @@ En effet, vaincre l'ennemi avant d'attirer son attention constituait le B.A.BA d
 [sha:f23fc6be1c6f1bd9b559420b247d9bd99974bc16]{
 -- Page 50, Offset 14947. Mods: @i, @r.
 -- Wood and clay,Wood and clay,
-                          Wood and clay,Wood and clay,
+              Wood and clay, Wood and clay,
 
 }
 [sha:ce204b1483b6e5273599cf05c6fa82cf2f986fe6]{
 -- Page 50, Offset 14948. Mods: @i, @r.
 -- Build it up with wood and clay,
-Build it up with wood and clay,
+              Build it up with wood and clay,
 
 }
 [sha:b69d5ba72dee0b3fa69673395b46c3080ea33da4]{
@@ -1453,7 +1453,7 @@ Build it up with wood and clay,
 [sha:a85d385cb8a86c2b768305009f5fd3c6c0d86418]{
 -- Page 65, Offset 15006.
 -- さもありなん。
-  Bien évidemment,
+  Et c'était probablement vrai.
 
 }
 [sha:0119b6954b4de9ffe6852ac3b1b5eb7fe5be469c]{
@@ -1537,7 +1537,7 @@ Build it up with wood and clay,
 [sha:ff8ec0e65088789ac0e8694bffeb3402be7d75b0]{
 -- Page 68, Offset 15020.
 -- なぜなら、
-  Parce que,
+  En effet,
 
 }
 [sha:d1ac88ad9be5dd77dc0c4980bd417ba258f25d14]{

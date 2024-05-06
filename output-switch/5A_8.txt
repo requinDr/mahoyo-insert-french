@@ -787,7 +787,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
 -- Page 38, Offset 5273. Mods: @n.
 -- 
-　　　
+　　　　　　　
 
 }
 [sha:f6df3b96a2fc2d8c5150e432da492ff8bd07677e]{

@@ -583,7 +583,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:6d42f64570fc1d7b420dd4f1d8935f2422c39931]{
 -- Page 30, Offset 11459.
 -- もっとも。
-  Naturellement,
+  Évidemment,
 
 }
 [sha:790baa4c4988c4b3b906c7f1b5aef874e18deddd]{
@@ -1861,7 +1861,7 @@ La deuxième ?」
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 99, Offset 11676.
 -- が。
-  Mais...
+  Malheureusement,
 
 }
 [sha:03305dd3327e128df3cbb11967187d21a2942815]{
@@ -2497,7 +2497,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:0e4c95a90927b847b7c72948200f79ca9c8773f5]{
 -- Page 134, Offset 11782.
 -- 「はい？」
-「Hum ?」
+「Ah bon ?」
 
 }
 [sha:e93b128a600436166ac45f8a086ec1dc87a8832d]{

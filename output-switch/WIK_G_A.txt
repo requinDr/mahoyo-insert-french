@@ -229,7 +229,7 @@
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 11, Offset 22193.
 -- ……と。
-  ...... Puis,
+  ... Soudainement,
 
 }
 [sha:844d772dc4bdb4ad0a997ef449515260d4be415b]{

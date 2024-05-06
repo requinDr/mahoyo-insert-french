@@ -457,7 +457,7 @@ En gros, c'est comme si on tirait mes balles de prana avec les yeux.」
 [sha:5628e35df9a2311f93b529ef53d41f5dae4add0e]{
 -- Page 24, Offset 14150.
 -- ぽん、と手を叩く草十郎。
-  Sōjūrō eut un éclair de compréhension.
+  Sōjūrō eut un soudain éclair de compréhension.
 
 }
 [sha:9b5bb91281b62934626cfbcad7c500e2dafbe57e]{
@@ -1321,7 +1321,7 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:6243dca4de14e4954f98b8c0fb09a1ed24a50343]{
 -- Page 74, Offset 14294.
 -- なので―――
-  Donc―――
+  Et donc―――
 
 }
 [sha:951fcd0ef3fb49950e8c18c6b51a9617765e8b61]{

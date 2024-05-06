@@ -361,7 +361,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
 -- Page 14, Offset 4295. Mods: @n.
 -- 
-　　　
+　　　　　　　　
 
 }
 [sha:97b8d591e05197d35da7ff040d32afbabbf9cecd]{
@@ -667,7 +667,7 @@ Sōjūrō n'était pas en colère contre Aoko mais contre lui-même.
 [sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
 -- Page 30, Offset 4346.
 -- 「――――――はあ」
-「――――――Aaah.」
+「――――――Aah.」
 
 }
 [sha:2310c514e7c940e6566bc3600acb0829569d7e36]{

@@ -61,7 +61,7 @@
 [sha:ab0aa1b408cccf44171d505e834640028b677f37]{
 -- Page 4, Offset 23631.
 -- ああ―――
-      Aaah―――
+  Aaah―――
 
 }
 [sha:19068d8550fd23aecaea4781f17c6afbad267f45]{
@@ -145,7 +145,7 @@ tout
 [sha:061ee82c3292be6cecc7b87217a93353dbc800e6]{
 -- Page 5, Offset 23645. Glued. Mods: @c, @n.
 -- と
-de
+mon
 
 }
 [sha:ef883d8d494904c63bdb906feb306165919437c1]{

@@ -37,7 +37,7 @@
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 1, Offset 6702.
 -- ―――だが。
-  ―――Cependant...
+  ―――Toutefois,
 
 }
 [sha:1d08e86e051d11eba24369de190129267431f29f]{

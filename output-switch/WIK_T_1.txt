@@ -163,7 +163,7 @@
 [sha:33855a1228412a58716b959cc1886484d46ee5af]{
 -- Page 8, Offset 23325. Mods: @k, @e.
 -- 「ん？
-「Hum ?
+「Hm ?
 
 }
 [sha:dd2cb15a31cf2e74dbf3fb2ab7bfa1bcf548b630]{
@@ -229,7 +229,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te batt
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
 -- Page 12, Offset 23336.
 -- 「…………」
-「............」
+「......」
 
 }
 [sha:5588156db35e9a55e7cffc29ca0850b667385860]{
@@ -337,7 +337,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te batt
 [sha:7ad2b9b3aca243c19f575bede7be5e00a2f96161]{
 -- Page 17, Offset 23354.
 -- 「―――あれ？」
-「―――Hein ?」
+「―――Tiens ?」
 
 }
 [sha:a3cefa0e6063007b94bcb8bbd4917b69af35fde3]{
@@ -433,7 +433,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te batt
 [sha:9de9e7f55130250dfb2eac74610a2eb0813dee15]{
 -- Page 20, Offset 23370.
 -- 西館に呼びかけても返事はない。
-  J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
+  Personne ne répondit à mon appel dans l'aile ouest.
 
 }
 [sha:ddb066735e3199ad9787b2dbc946b6a4e5fd3510]{

@@ -1,7 +1,7 @@
 [sha:01576ba817c3340668f93b6bd6a308c4f6c17305]{
 -- Page 0, Offset 19936.
 -- シェフ。
-    Chef. Une assiette
+  Chef. Une assiette
 
 }
 [sha:d3b1f58b6cedf2e792078639e97df7a738934e56]{
@@ -61,7 +61,7 @@
 [sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
 -- Page 5, Offset 19946.
 -- シェフ。
-    Chef. Une assiette
+  Chef. Une assiette
 
 }
 [sha:c52302d79911037651fcd2082645395e8cee8e5b]{
@@ -91,7 +91,7 @@
 [sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
 -- Page 7, Offset 19951.
 -- シェフ。
-    Chef. Une assiette
+  Chef. Une assiette
 
 }
 [sha:2e800a9795215ec28b58da4ecfa60c179e36faa1]{

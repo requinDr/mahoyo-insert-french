@@ -97,13 +97,13 @@
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
 -- Page 5, Offset 21423.
 -- 「あれ？」
-「Tiens ?」
+「Hein ?」
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 5, Offset 21424.
 -- ……と。
-  ...... Puis,
+  ...... Cependant,
 
 }
 [sha:040fa0f2cf9a0a619e36e91ce583218463d0f203]{

@@ -709,7 +709,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
 [sha:a1a811cdfa760453d692d20ec18b3e63cdd68679]{
 -- Page 32, Offset 2619.
 -- だが、
-  Cependant...
+  Mais,
 
 }
 [sha:268ba37ca4f50c95baf2054a5f4773966d8d41d1]{

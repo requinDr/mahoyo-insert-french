@@ -19,7 +19,7 @@
 [sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
 -- Page 1, Offset 4831.
 -- 伸びる。伸びる。伸びる。
-  En s'allongeant. S'allongeant. S'allongeant.
+  *allongement* *allongement* *allongement*
 
 }
 [sha:b0e0f29e0a1fc790cb6904d1d2292b9555b18e1e]{
@@ -61,7 +61,7 @@
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
 -- Page 3, Offset 4838.
 -- 「っ―――！」
-「Tch―――!」
+「―――!」
 
 }
 [sha:6b862557bb318e7f7c81a878e581cebfdfdc5bbc]{
@@ -475,7 +475,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:da94e33e039512eedd4069054392ee94d5077e48]{
 -- Page 21, Offset 4907.
 -- それを、
-  Voyant cela,
+  Cette malédiction,
 
 }
 [sha:623a4d1edd58529ef47e07024cfdf4d5b31cab0f]{
