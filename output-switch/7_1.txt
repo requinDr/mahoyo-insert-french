@@ -2119,7 +2119,7 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
 [sha:e70d6e254d09f4b7a03ac3d9ba0d4a7bd90ad903]{
 -- Page 108, Offset 8918. Glued. Mods: @n.
 -- 起床、
- Le réveil,
+ le réveil,
 
 }
 [sha:6d113967843a184459d0d2c980181785e499fc3b]{

@@ -1,10 +1,9 @@
 import os
 import time
-import re
 import configparser
 
 from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, get_partial_translation, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
-from utils.line_format import transform_ruby, format_line_to_steam
+from utils.line_format import format_line_to_steam
 from utils.translate_csv import create_csv, get_csv, csv_columns
 from utils.steam.filesmap import map as map_fichiers
 from utils.steam.translate_swap import swap_char as swap_chars
@@ -38,6 +37,8 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 	script_fr_mem[indice] = format_line_to_steam(ligne, nbStartSpaces)
 
 
+# Traite une ligne du script
+# Retourne l'indice de la dernière ligne trouvée
 def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
 	global csv_missing
 
@@ -50,8 +51,8 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 	# Si l'indice de la ligne est dans la première colonne du csv
 	# et qu'une traduction est renseignée, on remplace la ligne par la traduction
 	if isInCsv and translation.strip() != "":
-			remplace_dans_script(idx, translation, nbStartSpaces)
-			return last_found_idx
+		remplace_dans_script(idx, translation, nbStartSpaces)
+		return last_found_idx
 	
 	# S'il n'y a que des espaces dans la ligne, on passe à la suivante
 	if current_line.strip() == "":
@@ -65,14 +66,15 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 			remplace_dans_script(idx, ligne_traduite)
 	else:
 		# si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
-		ligne_partielle = get_partial_translation(idx, og_lines, tr_lines, script_fr_mem, last_found_idx)
+		ligne_partielle, indice = get_partial_translation(idx, og_lines, tr_lines, script_fr_mem, last_found_idx)
 		if ligne_partielle is not None:
+			last_found_idx = indice
 			remplace_dans_script(idx, ligne_partielle)
-		else:
+		elif not creer_csv:
 			csv_missing[idx + 1] = current_line
 	
 	if isInCsv and nbStartSpaces != "":
-			remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
+		remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 
 	return last_found_idx
 

@@ -57,14 +57,15 @@ def recupere_ligne_traduite(indice: int, lignes_fr: list[str]):
 	return None
 
 # Retourne la traduction du morceau de ligne
-def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], script_fr_mem: list[str], current_line_idx: int):
+# et son indice de ligne
+def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], script_fr_mem: list[str], last_found_idx: int):
 	ligne_fr_entiere = None
 	ligne = script_fr_mem[i].strip()
 	isFirstLine = False
 
-	for idx, ligne_og in enumerate(og_lines[current_line_idx + 1:]):
+	for idx, ligne_og in enumerate(og_lines[last_found_idx + 1:]):
 		if ligne in ligne_og.strip():
-			ligne_fr_entiere = tr_lines[current_line_idx + 1 + idx]
+			ligne_fr_entiere = tr_lines[last_found_idx + 1 + idx]
 			isFirstLine = ligne_og.strip().startswith(ligne)
 			break
 
@@ -78,13 +79,13 @@ def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], sc
 
 		if len(ligne_fr_split) > 1:
 			if isFirstLine:
-				return ligne_fr_split[0]
+				return ligne_fr_split[0], last_found_idx + idx
 
 			ligne_precedente = script_fr_mem[i - 1].strip()
 			# on cherche l'indice de la ligne précédente dans la ligne split
 			indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
 			# si on trouve l'indice, on prend la ligne suivante
 			if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
-				return ligne_fr_split[indice_ligne_precedente + 1].strip()
+				return ligne_fr_split[indice_ligne_precedente + 1].strip(), last_found_idx + idx
 
-	return None
+	return None, None
