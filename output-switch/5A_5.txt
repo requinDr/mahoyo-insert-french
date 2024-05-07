@@ -481,19 +481,19 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:623a4d1edd58529ef47e07024cfdf4d5b31cab0f]{
 -- Page 22, Offset 4908. Mods: @o, @i, @r.
 -- “<Mea anima immortalis. Autem mea futura necata sunt|私の命は不滅ですが、私の未来は殺されました。>.
-              "<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.
+          "<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.
 
 }
 [sha:1740c2d6ee4c6586b4a222285024d4d37711a69d]{
 -- Page 22, Offset 4909. Mods: @o, @i, @r.
 -- <Manes sum. Animam definire ambiguum est|私は亡霊です。生命の定義はあやふやです。>.
-                    <Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.
+                  <Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.
 
 }
 [sha:f8b2188192e6bcdb987c36ab62e11ea2f23efab2]{
 -- Page 22, Offset 4910. Mods: @o, @i, @r.
 -- <Te odi, et te amo. Conveniamus in somnio ipso.|憎らしい、愛おしい貴方。どうか、夢で会いましょう。>”
-                <Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>"
+              <Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>"
 
 }
 [sha:992da275281b830fe07dde54a29f86a039324559]{

@@ -61,3 +61,12 @@ def swap_char(lignes_script: list) :
       elif v in lignes_script[i] :
         lignes_script[i] = lignes_script[i].replace(v, k)
   return lignes_script
+
+def line_char_length(ligne: str):
+  length = 0
+  for char in ligne:
+    for page in pages:
+      if char in page:
+        length += page[char]
+        break
+  return length

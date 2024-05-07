@@ -28,6 +28,8 @@ csv_missing = dict()
 csv_dict = get_csv(csv_name_or_url) if not creer_csv else None
 
 
+# nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
+# nbStartSpaces = -2 pour centrer le texte
 def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 	global script_fr_mem
 
@@ -46,7 +48,14 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 	if isInCsv:
 		csv_row = csv_dict[idx + 1]
 		translation = csv_row[csv_columns[1]]
-		nbStartSpaces = int(csv_row[csv_columns[2]]) if csv_row[csv_columns[2]] != "" else -1
+		nbStartSpaces = csv_row[csv_columns[2]]
+		match nbStartSpaces:
+			case "": # aucune indentation précisée
+				nbStartSpaces = -1
+			case "center": # centrage du texte
+				nbStartSpaces = -2
+			case _: # indentation précisée
+				nbStartSpaces = int(nbStartSpaces)
 
 	# Si l'indice de la ligne est dans la première colonne du csv
 	# et qu'une traduction est renseignée, on remplace la ligne par la traduction
