@@ -3,7 +3,7 @@ import time
 import re
 import configparser
 
-from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
+from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, get_partial_translation, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
 from utils.line_format import transform_ruby, format_line_to_steam
 from utils.translate_csv import create_csv, get_csv, csv_columns
 from utils.steam.filesmap import map as map_fichiers
@@ -15,13 +15,13 @@ config.read('config.ini')
 
 script_source = config['paths']['script_source']
 script_source_indent = config['paths']['script_source_indent']
-script_sortie = config['paths']['script_steam']
-dossier_switch = config['paths']['dossier_switch']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
 csv_name_or_url = config['csv']['csv_name_or_url']
 creer_csv = config.getboolean('csv', 'create_csv')
-remplacer_caracteres = config.getboolean('character_swap', 'remplacer_caracteres')
+script_sortie = config['steam']['script_steam']
+remplacer_caracteres = config.getboolean('steam', 'swap_characters')
+dossier_switch = config['switch']['dossier_switch']
 
 script_fr_mem: list[str] = get_file_lines(script_source)
 sourceScriptIndent: list[str] = get_file_lines(script_source_indent)
@@ -37,40 +37,6 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 		nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
 
 	script_fr_mem[indice] = format_line_to_steam(ligne, nbStartSpaces)
-
-
-# Retourne la traduction du morceau de ligne
-def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str]):
-	ligne_fr_entiere = None
-	ligne = script_fr_mem[i].strip()
-	isFirstLine = False
-
-	for idx, ligne_og in enumerate(og_lines[current_line_idx + 1:]):
-		if ligne in ligne_og.strip():
-			ligne_fr_entiere = tr_lines[current_line_idx + 1 + idx]
-			isFirstLine = ligne_og.strip().startswith(ligne)
-			break
-
-	if ligne_fr_entiere is not None:
-		ligne_fr_entiere = transform_ruby(ligne_fr_entiere)
-
-		# on split la ligne à chaque tags
-		ligne_fr_split = re.split(r'\[.*?\]', ligne_fr_entiere)
-		# strip all
-		ligne_fr_split = [line.strip() for line in ligne_fr_split if line.strip()]
-
-		if len(ligne_fr_split) > 1:
-			if isFirstLine:
-				return ligne_fr_split[0]
-
-			ligne_precedente = script_fr_mem[i - 1].strip()
-			# on cherche l'indice de la ligne précédente dans la ligne split
-			indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
-			# si on trouve l'indice, on prend la ligne suivante
-			if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
-				return ligne_fr_split[indice_ligne_precedente + 1].strip()
-
-	return None
 
 
 def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str]):
@@ -100,7 +66,7 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 			remplace_dans_script(idx, ligne_traduite)
 	else:
 		# si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
-		ligne_partielle = get_partial_translation(idx, og_lines, tr_lines)
+		ligne_partielle = get_partial_translation(idx, og_lines, tr_lines, script_fr_mem, current_line_idx)
 		if ligne_partielle is not None:
 			remplace_dans_script(idx, ligne_partielle)
 		else:
