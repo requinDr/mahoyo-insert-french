@@ -1,5 +1,8 @@
 import re
 
+SPACE = ' '
+JAPANESE_SPACE = '\u3000'
+
 # modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
 PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
 def transform_ruby(ligne: str):
@@ -10,23 +13,18 @@ def transform_ruby(ligne: str):
 	return ligne
 
 
-# indente comme le script original de Steam
-SPACE = " "
 def indent(nbStartSpaces: int, ligne: str):
 	return SPACE * nbStartSpaces + ligne
 
-# def end_indent(nbEndSpaces: int, ligne: str):
-# 	return ligne + SPACE * nbEndSpaces
 
-# supprime les tags
 PATTERN_TAGS = r'\[.*?\]'
 def remove_tags(ligne: str):
 	# ", [r]　" -> ", "
-	if re.search(r'[,\.\?\!A-z] ' + PATTERN_TAGS + '　', ligne):
-		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_TAGS + '　', r'\1 ', ligne)
+	if re.search(r'[,\.\?\!A-z] ' + PATTERN_TAGS + JAPANESE_SPACE, ligne):
+		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_TAGS + JAPANESE_SPACE, r'\1 ', ligne)
 
-	# repace japanese space by normal space
-	ligne = ligne.replace('\u3000', ' ')
+	# replace Japanese space by normal space
+	ligne = ligne.replace(JAPANESE_SPACE, SPACE)
 
 	# "on dit qu'elle se base[r]sur une légende" -> "on dit qu'elle se base sur une légende"
 	if re.search(r'\w+\[r\]\w+', ligne):

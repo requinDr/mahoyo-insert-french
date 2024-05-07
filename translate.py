@@ -3,12 +3,12 @@ import time
 import re
 import configparser
 
-from utils.switch.utils import ks_name_to_switch_name
-from utils.utils import get_file_lines, write_file_lines, progress, nb_espaces_debut_ligne
-from utils.steam.filesmap import map as map_fichiers
-from utils.steam.line_format import transform_ruby, format_line_to_steam
+from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
+from utils.line_format import transform_ruby, format_line_to_steam
 from utils.translate_csv import create_csv, get_csv, csv_columns
-from utils.translate_swap import swap_char as swap_chars
+from utils.steam.filesmap import map as map_fichiers
+from utils.steam.translate_swap import swap_char as swap_chars
+from utils.switch.utils import extract_switch_line_offset
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -24,7 +24,7 @@ creer_csv = config.getboolean('csv', 'create_csv')
 remplacer_caracteres = config.getboolean('character_swap', 'remplacer_caracteres')
 
 script_fr_mem: list[str] = get_file_lines(script_source)
-sourceScriptIndent = get_file_lines(script_source_indent)
+sourceScriptIndent: list[str] = get_file_lines(script_source_indent)
 csv_missing = dict()
 csv_dict = get_csv(csv_name_or_url) if not creer_csv else None
 current_line_idx = 0 # index de la ligne du fichier de la map en cours de traitement
@@ -38,22 +38,7 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 
 	script_fr_mem[indice] = format_line_to_steam(ligne, nbStartSpaces)
 
-# Cherche la ligne japonaise qu'il faut traduire dans un fichier
-# Retourne l'indice de la ligne dans le fichier
-def find_og_line_idx(lignes_og: list[str], ligne: str):
-	for idx, ligne_og in enumerate(lignes_og):
-		if ligne.strip() == ligne_og.strip():
-			return idx
 
-	return None
-
-def recupere_ligne_traduite(indice: int, lignes_fr: list[str]):
-	if indice < len(lignes_fr):
-		return lignes_fr[indice]
-	
-	return None
-
-# Même fonction qu'au dessus, mais pour les lignes partielles
 # Retourne la traduction du morceau de ligne
 def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str]):
 	ligne_fr_entiere = None
@@ -128,14 +113,11 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 			remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 
 
-def creer_fichier_steam(script_sortie: str):
-	global script_fr_mem
+def create_steam_file():
 	total_lignes = len(script_fr_mem)
 	
 	for idx, ligne in enumerate(script_fr_mem):
-		# si la progression en pourcentage est un nombre entier
-		if idx % (total_lignes // 100) == 0:
-			progress(idx, total_lignes)
+		progress(idx, total_lignes - 1, "Steam\t", BLUE)
 		
 		try:
 			# Si l'indice de la ligne est dans la map, on change le fichier actif
@@ -150,36 +132,42 @@ def creer_fichier_steam(script_sortie: str):
 			
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
-
-	# if remplacer_caracteres:
-	# 	script_fr_mem = swap_chars(script_fr_mem)
 	
-	write_file_lines(script_sortie, swap_chars(script_fr_mem.copy()) if remplacer_caracteres else script_fr_mem)
+	print("\r")
+	lines_to_write = swap_chars(script_fr_mem.copy()) if remplacer_caracteres else script_fr_mem
+	write_file_lines(script_sortie, lines_to_write)
 
 	if creer_csv:
 		create_csv(csv_name_or_url, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 
+
 def update_switch_files():
-	for file in os.listdir(dossier_switch):
+	files = os.listdir(dossier_switch)
+	total_files = len(files)
+
+	for idx, file in enumerate(files):
+		progress(idx, total_files - 1, "Switch\t", RED)
+
 		file_path = os.path.join(dossier_switch, file)
 		lines = get_file_lines(file_path)
-		print(f"Updating {file_path}... {round(len(lines) / 6)} lines.")
-		for i, line in enumerate(lines):
-			if line.startswith("[sha:"):
-				# on récupère le offset
-				offset = int(re.match(r".*Offset (\d+)\..*", lines[i + 1]).group(1))
+
+		for i in range(len(lines)):
+			if lines[i].startswith("[sha:"):
+				offset = extract_switch_line_offset(lines[i + 1])
 				if offset is not None:
 					# on remplace la ligne par la ligne française
 					lines[i + 3] = script_fr_mem[offset]
 
 		write_file_lines(file_path, lines)
 
+	print("\n")
+
 
 if __name__ == "__main__":
 	debut = time.time()
 
-	creer_fichier_steam(script_sortie)
+	create_steam_file()
 	update_switch_files()
 	
 	fin = time.time()

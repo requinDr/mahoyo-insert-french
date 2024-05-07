@@ -2,7 +2,7 @@ import base64
 import requests
 
 
-def get_content_from_github(url):
+def get_content_from_github(url: str):
 	try:
 		# Faire la requête GET à l'API GitHub
 		response = requests.get(url)
@@ -18,7 +18,7 @@ def get_content_from_github(url):
 		print(f"Erreur lors de la lecture de l'URL {url} via l'API GitHub : {e}")
 		return None
 
-def is_github_url(url):
+def is_github_url(url: str):
 	if url.startswith("https://api.github.com/"):
 		return True
 	else:

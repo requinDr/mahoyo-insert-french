@@ -1,2 +1,7 @@
-def ks_name_to_switch_name(ks_name: str) -> str:
-	return ks_name[:-3].replace("-", "_").replace(".", "DOT").upper() + ".txt"
+import re
+
+def extract_switch_line_offset(line: [str]):
+	offset = int(re.match(r".*Offset (\d+)\..*", line).group(1))
+	if offset is not None:
+		return offset
+	return None
