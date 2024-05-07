@@ -1,6 +1,6 @@
 # map of number => string
 # L'indice est le numéro de ligne compté à partir de 1
-map = {
+map: dict[int, str] = {
     1: "1-0.ks",
     81: "1-1.ks",
     146: "1-2.ks",

@@ -18,9 +18,10 @@ pages = [
     '÷':45, '¡':21, '¿':41, '「':73, '」':73, '『':73, '』':73, 'ー': 73
   }
 ]
+chars_width: dict[str, int] = {char: width for page in pages for char, width in page.items()}
 
 # Swap extended latin characters with special 1-byte characters
-char_swap_dict = {
+char_swap_dict: dict[str, str] = {
     'à' : '#',
     'è' : '$',
     'ù' : '+',
@@ -62,11 +63,10 @@ def swap_char(lignes_script: list) :
         lignes_script[i] = lignes_script[i].replace(v, k)
   return lignes_script
 
+
 def line_char_length(ligne: str):
   length = 0
   for char in ligne:
-    for page in pages:
-      if char in page:
-        length += page[char]
-        break
+    length += chars_width[char]
+
   return length
