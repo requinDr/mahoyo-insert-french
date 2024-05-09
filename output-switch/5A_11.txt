@@ -223,7 +223,7 @@
 [sha:80deebb3bee3ccd7e513fe28a56eac2e1246d690]{
 -- Page 11, Offset 4165. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                    "<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>
+                    “<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
@@ -463,13 +463,13 @@
 [sha:93b6761a592d6da16cf587e3c95693c68f213d93]{
 -- Page 23, Offset 4205. Mods: @i, @o, @r.
 -- @o“―――<Initio erraveramus. Dum vivimus dolores sunt|すべてが間違いだったのです。生まれなければ良かったのです。>.
-"...<Initio erraveramus. Dum vivimus dolores sunt.|Tout n'était que méprise. Si seulement je n'étais jamais venue au monde.>
+“...<Initio erraveramus. Dum vivimus dolores sunt.|Tout n'était que méprise. Si seulement je n'étais jamais venue au monde.>
 
 }
 [sha:e96a814bdd8d85bf2c4ab726f6b645a0069ef706]{
 -- Page 23, Offset 4206. Mods: @i, @o, @r.
 -- <Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|誰か私を償って。償って。償って。償って。償って。償って。償って。償って。償って―――！>”
-<Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|Que quelqu'un me conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure――― !>"
+<Nemo adiuvat. Nemo adiuvat. Nemo adiuvat.|Que quelqu'un me conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure, conjure――― !>”
 
 }
 [sha:c299ccff56b67e1edb74ae2737ea6d5617f055df]{

@@ -25,7 +25,7 @@
 [sha:aee87555f9cea921f7655016568d71c3eb085150]{
 -- Page 1, Offset 5046. Mods: @i, @r.
 -- @o“<Nemo meum funus meminit, qui doluit exstinctus est|私のお葬式はもう誰も覚えていません。悲しむ人も消え去りました。>.
-    "<Nemo meum funus meminit, qui doluit exstinctus est|Plus personne ne se rappelle de mon enterrement. Les proches endeuillés ont aussi disparu.>.
+    “<Nemo meum funus meminit, qui doluit exstinctus est|Plus personne ne se rappelle de mon enterrement. Les proches endeuillés ont aussi disparu.>.
 
 }
 [sha:bd4f419b700e605ada87e523ab7eccfb1cd84df3]{
@@ -37,7 +37,7 @@
 [sha:9a59cc1db67f6d5ed079824cec8ed12798758a48]{
 -- Page 1, Offset 5048. Mods: @i, @r.
 -- <Nemo adiuvat.|誰か、私を救ってください。>”
-                                          <Nemo adiuvat|Par pitié, que quelqu'un me sauve.>."
+                                          <Nemo adiuvat|Par pitié, que quelqu'un me sauve.>.”
 
 }
 [sha:f73b51ac487ae600ec0680ed8e63ee8a9c604971]{
