@@ -4,7 +4,11 @@ from utils.steam.translate_swap import line_char_length
 
 SPACE = ' '
 JAPANESE_SPACE = '\u3000'
-TEXTBOX_WIDTH = 2500
+# real textbox width is 2820, but it makes the right margin too thin compared to the left one
+# approximate left margin is around 144 while right is around 35
+TEXTBOX_LEFT_MARGIN = 144
+TEXTBOX_RIGHT_MARGIN = 35
+SCREEN_WIDTH = 2944 # 1920(screen) / 32,6(cell) * 50 (ig cell width)
 
 # modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
 PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
@@ -17,9 +21,9 @@ def transform_ruby(ligne: str):
 
 
 def remove_new_ruby(ligne: str):
-	# <text|ruby> -> text
-	match = re.search(r'<([^|]+)\|[^>]+>', ligne)
-	if match:
+	search = re.search(r'<([^|]+)\|[^>]+>', ligne)
+	if search:
+		# <text|ruby> -> text
 		for match in re.finditer(r'<([^|]+)\|[^>]+>', ligne):
 			ligne = ligne.replace(match.group(0), match.group(1))
 	return ligne
@@ -29,7 +33,8 @@ def indent(nbStartSpaces: int, ligne: str):
 	if nbStartSpaces == -2:
 		spaceLength = line_char_length(SPACE)
 		lineLength = line_char_length(remove_new_ruby(ligne))
-		nbStartSpaces = (TEXTBOX_WIDTH - lineLength) // (2 * spaceLength)
+		# nbStartSpaces = (TEXTBOX_WIDTH - lineLength) // (2 * spaceLength)
+		nbStartSpaces = (SCREEN_WIDTH - max(TEXTBOX_LEFT_MARGIN, TEXTBOX_RIGHT_MARGIN) * 2 - lineLength) // (2 * spaceLength)
 
 	return SPACE * nbStartSpaces + ligne
 
