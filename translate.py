@@ -6,7 +6,7 @@ from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, get_partial
 from utils.line_format import format_line_to_steam
 from utils.translate_csv import create_csv, get_csv, csv_columns
 from utils.steam.filesmap import map as map_fichiers
-from utils.steam.translate_swap import swap_char as swap_chars
+from utils.steam.translate_swap import swap_char_in_script
 from utils.switch.utils import extract_switch_line_offset
 
 config = configparser.ConfigParser()
@@ -16,16 +16,17 @@ script_source = config['paths']['script_source']
 script_source_indent = config['paths']['script_source_indent']
 dossier_sources_jp = config['paths']['dossier_sources_jp']
 dossier_sources_fr = config['paths']['dossier_sources_fr']
-csv_name_or_url = config['csv']['csv_name_or_url']
+csv_input = config['csv']['csv_input']
+csv_output = config['csv']['csv_output']
 creer_csv = config.getboolean('csv', 'create_csv')
-script_sortie = config['steam']['script_steam']
+script_steam = config['steam']['script_steam']
 remplacer_caracteres = config.getboolean('steam', 'swap_characters')
 dossier_switch = config['switch']['dossier_switch']
 
 script_fr_mem: list[str] = get_file_lines(script_source)
 sourceScriptIndent: list[str] = get_file_lines(script_source_indent)
 csv_missing = dict()
-csv_dict = get_csv(csv_name_or_url) if not creer_csv else None
+csv_dict = get_csv(csv_input) if not creer_csv else None
 
 
 # nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
@@ -88,12 +89,12 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 	return last_found_idx
 
 
-def create_steam_file():
+def generate_updated_translation():
 	total_lignes = len(script_fr_mem)
 	last_found_idx: int = 0
 	
 	for idx, ligne in enumerate(script_fr_mem):
-		progress(idx, total_lignes - 1, "Steam\t", BLUE)
+		progress(idx, total_lignes - 1, "Récupèration des traductions\t")
 		
 		try:
 			# Si l'indice de la ligne est dans la map, on change le fichier actif
@@ -109,21 +110,29 @@ def create_steam_file():
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
 	
-	print("\r")
-	lines_to_write = swap_chars(script_fr_mem.copy()) if remplacer_caracteres else script_fr_mem
-	write_file_lines(script_sortie, lines_to_write)
+	# print("\r")
 
 	if creer_csv:
-		create_csv(csv_name_or_url, csv_missing)
+		create_csv(csv_output, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
+		print(f"Fichier CSV créé")
+	
+	return script_fr_mem
 
 
-def update_switch_files():
+def create_steam_file(new_lines: list[str]):
+	progress(0, 100, "Steam\t")
+	lines_to_write = swap_char_in_script(new_lines.copy()) if remplacer_caracteres else new_lines
+	write_file_lines(script_steam, lines_to_write)
+	progress(100, 100, "Steam\t")
+	print(f"Fichier Steam créé : {script_steam}", end="\n")
+
+def update_switch_files(new_lines: list[str]):
 	files = os.listdir(dossier_switch)
 	total_files = len(files)
 
 	for idx, file in enumerate(files):
-		progress(idx, total_files - 1, "Switch\t", RED)
+		progress(idx, total_files - 1, "Switch\t")
 
 		file_path = os.path.join(dossier_switch, file)
 		lines = get_file_lines(file_path)
@@ -132,20 +141,21 @@ def update_switch_files():
 			if lines[i].startswith("[sha:"):
 				offset = extract_switch_line_offset(lines[i + 1])
 				if offset is not None:
-					# on remplace la ligne par la ligne française
-					lines[i + 3] = script_fr_mem[offset]
+					# on remplace la ligne par la traduction
+					lines[i + 3] = new_lines[offset]
 
 		write_file_lines(file_path, lines)
 
-	print("\n")
+	print(f"Fichiers Switch pour deepLuna mis à jour dans {dossier_switch}", end="\n")
 
 
 if __name__ == "__main__":
 	debut = time.time()
 
-	create_steam_file()
-	update_switch_files()
+	new_lines = generate_updated_translation()
+	create_steam_file(new_lines)
+	update_switch_files(new_lines)
 	
 	fin = time.time()
 	temps_execution = fin - debut
-	print(f"Terminé en {temps_execution:.2f} secondes !")
+	print(f"\nTerminé en {temps_execution:.2f} secondes !")

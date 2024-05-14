@@ -46,22 +46,26 @@ char_swap_dict: dict[str, str] = {
   # 'Ç' : None
 }
 
-# Swap all characters in script file
-def swap_char(lignes_script: list) :
-  for i in range(len(lignes_script)) :
-    for (k, v) in char_swap_dict.items() :
-      if k in lignes_script[i] :
-        if v in lignes_script[i] :
-          temp_char = chr(ord('a') + i)
-          lignes_script[i] = lignes_script[i].replace(k, temp_char)\
-                                              .replace(v, k)\
-                                              .replace(temp_char, v)
-        else :
-          lignes_script[i] = lignes_script[i].replace(k, v)
-      elif v in lignes_script[i] :
-        lignes_script[i] = lignes_script[i].replace(v, k)
-  return lignes_script
+# Swap all characters in line
+def swap_char_in_line(ligne: str):
+  for (k, v) in char_swap_dict.items():
+    if k in ligne:
+      if v in ligne:
+        temp_char = chr(ord('a') + ord(k))
+        ligne = ligne.replace(k, temp_char)\
+                     .replace(v, k)\
+                     .replace(temp_char, v)
+      else:
+        ligne = ligne.replace(k, v)
+    elif v in ligne:
+      ligne = ligne.replace(v, k)
+  return ligne
 
+# Swap all characters in script file
+def swap_char_in_script(lignes_script: list[str]):
+  for i in range(len(lignes_script)):
+    lignes_script[i] = swap_char_in_line(lignes_script[i])
+  return lignes_script
 
 def line_char_length(ligne: str):
   length = 0

@@ -7,6 +7,7 @@ GREEN = '\033[92m'
 RED = '\033[91m'
 BLUE = '\033[94m'
 ENDC = '\033[0m'
+CLEAN_END = '\033[K'
 
 def progress(count: float, total: float, label: str, color: str = GREEN):
 	if count % (total // 100) == 0 or count == total:
@@ -16,9 +17,8 @@ def progress(count: float, total: float, label: str, color: str = GREEN):
 		percents = int(100 * count / total)
 		bar = '=' * filled_len + '-' * (bar_len - filled_len)
 
-		sys.stdout.write(f"{color}{label} [{bar}] {percents}%{ENDC}\r")
+		sys.stdout.write(f"{color}{label} [{bar}] {percents}%{ENDC}{CLEAN_END}\r")
 		sys.stdout.flush()
-
 
 def get_file_lines(path):
 	try:
