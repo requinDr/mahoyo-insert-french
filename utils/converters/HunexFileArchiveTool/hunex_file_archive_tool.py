@@ -17,20 +17,20 @@ def print_usage():
 	print("  --extract\tExtract all archive contents in the directory.")
 	print("  --build\tBuild a new archive from given directory.")
 
-def build(input_dir: str, hfa_file: str, showPrints = False):
+def build(input_dir: str, hfa_file: str, output_dir: str = None):
 	files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if os.path.isfile(os.path.join(input_dir, f))]
 	if not files:
 		print(f"Directory ({input_dir}) is empty.")
 		return
 
-	with open(hfa_file, 'wb') as writer:
+	output_path = f"{output_dir}/{hfa_file}" if output_dir else hfa_file
+	with open(output_path, 'wb') as writer:
 		hdr = Header(len(files))
 		hdr.write(writer)
 		entries: List[FileEntry] = [None] * hdr.file_count
 		writer.seek(hdr.data_start_offset)
 		for i, file_path in enumerate(files):
-			if showPrints:
-				print(f"Writing: {file_path}")
+			# print(f"Writing: {file_path}")
 			data = open(file_path, 'rb').read()
 			file_entry = FileEntry()
 			file_entry.filename = os.path.basename(file_path)[5:]  # trim index
@@ -43,11 +43,10 @@ def build(input_dir: str, hfa_file: str, showPrints = False):
 		for entry in entries:
 			entry.write(writer)
 
-def extract(file_path: str, showPrints = False):
+def extract(file_path: str):
 	try:
 		if os.path.isfile(file_path) and file_path.endswith('.hfa'):
-			if showPrints:
-				print(f"Unpack: {os.path.basename(file_path)}")
+			# print(f"Unpack: {os.path.basename(file_path)}")
 
 			with open(file_path, 'rb') as reader:
 				hdr = Header(reader)
@@ -58,8 +57,7 @@ def extract(file_path: str, showPrints = False):
 					reader.seek(hdr.data_start_offset + entry.offset)
 					data = reader.read(entry.size)
 					path = os.path.join(out_dir, f"{index:04d}_{entry.filename}")
-					if showPrints:
-						print(f"Extracting: {path}")
+					# print(f"Extracting: {path}")
 					os.makedirs(os.path.dirname(path), exist_ok=True)
 					with open(path, 'wb') as out_file:
 						out_file.write(data)
