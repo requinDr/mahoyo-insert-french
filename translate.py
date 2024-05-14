@@ -2,12 +2,13 @@ import os
 import time
 import configparser
 
-from utils.utils import BLUE, RED, find_og_line_idx, get_file_lines, get_partial_translation, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
+from utils.utils import CLEAN_END, find_og_line_idx, get_file_lines, get_partial_translation, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
 from utils.line_format import format_line_to_steam
-from utils.translate_csv import create_csv, get_csv, csv_columns
+import utils.translate_csv as csv
 from utils.steam.filesmap import map as map_fichiers
 from utils.steam.translate_swap import swap_char_in_script
 from utils.switch.utils import extract_switch_line_offset
+import utils.converters.HunexFileArchiveTool.hunex_file_archive_tool as hfa
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -20,13 +21,15 @@ csv_input = config['csv']['csv_input']
 csv_output = config['csv']['csv_output']
 creer_csv = config.getboolean('csv', 'create_csv')
 script_steam = config['steam']['script_steam']
+input_steam_patch = config['steam']['input_steam_patch']
+output_steam_patch_name = config['steam']['output_steam_patch_name']
 remplacer_caracteres = config.getboolean('steam', 'swap_characters')
 dossier_switch = config['switch']['dossier_switch']
 
 script_fr_mem: list[str] = get_file_lines(script_source)
 sourceScriptIndent: list[str] = get_file_lines(script_source_indent)
 csv_missing = dict()
-csv_dict = get_csv(csv_input) if not creer_csv else None
+csv_dict = csv.get_csv(csv_input) if not creer_csv else None
 
 
 # nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
@@ -48,8 +51,8 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 	isInCsv = not creer_csv and (idx + 1) in csv_dict
 	if isInCsv:
 		csv_row = csv_dict[idx + 1]
-		translation = csv_row[csv_columns[1]]
-		nbStartSpaces = csv_row[csv_columns[2]]
+		translation = csv_row[csv.columns[1]]
+		nbStartSpaces = csv_row[csv.columns[2]]
 		match nbStartSpaces:
 			case "": # aucune indentation précisée
 				nbStartSpaces = -1
@@ -113,7 +116,7 @@ def generate_updated_translation():
 	# print("\r")
 
 	if creer_csv:
-		create_csv(csv_output, csv_missing)
+		csv.create(csv_output, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 		print(f"Fichier CSV créé")
 	
@@ -124,8 +127,14 @@ def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
 	lines_to_write = swap_char_in_script(new_lines.copy()) if remplacer_caracteres else new_lines
 	write_file_lines(script_steam, lines_to_write)
+	progress(20, 100, "Steam\t")
+	hfa.extract(input_steam_patch)
+	progress(40, 100, "Steam\t")
+	write_file_lines(output_steam_patch_name + "/0000_script_text_en.ctd", lines_to_write)
+	progress(60, 100, "Steam\t")
+	hfa.build(output_steam_patch_name, output_steam_patch_name + ".hfa")
 	progress(100, 100, "Steam\t")
-	print(f"Fichier Steam créé : {script_steam}", end="\n")
+	print(f"Patch Steam créé : {output_steam_patch_name}.hfa{CLEAN_END}", end="\n")
 
 def update_switch_files(new_lines: list[str]):
 	files = os.listdir(dossier_switch)

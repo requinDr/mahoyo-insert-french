@@ -3,14 +3,14 @@ import io
 
 from utils.github_api import get_content_from_github, is_github_url
 
-csv_columns = ["Ligne", "Traduction", "Espaces placés au début", "Révision 2022 (pour référence)"]
+columns = ["Ligne", "Traduction", "Espaces placés au début", "Révision 2022 (pour référence)"]
 CSV_DELIMITER = ','
 
-def create_csv(chemin: str, lignes: dict):
+def create(chemin: str, lignes: dict):
     try:
         with open(chemin, 'w', encoding="utf-8", newline='') as f:
             writer = csv.writer(f, delimiter=CSV_DELIMITER, quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(csv_columns)
+            writer.writerow(columns)
             for key, value in lignes.items():
                 writer.writerow([key, "", "", value.strip()])
         
@@ -25,7 +25,7 @@ def read_csv_from_name(chemin):
     try:
         with open(chemin, encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
-            return {int(row[csv_columns[0]]): row for row in reader}
+            return {int(row[columns[0]]): row for row in reader}
     except Exception as e:
         print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
         return None
