@@ -1,8 +1,8 @@
 import os
 import shutil
 import time
-import configparser
 
+import utils.config_importer as conf
 from utils.utils import CLEAN_END, find_og_line_idx, get_file_lines, get_partial_translation, recupere_ligne_traduite, write_file_lines, progress, nb_espaces_debut_ligne
 from utils.line_format import format_line_to_steam
 import utils.translate_csv as csv
@@ -11,27 +11,11 @@ from utils.steam.translate_swap import swap_char_in_script
 from utils.switch.utils import extract_switch_line_offset
 import utils.converters.HunexFileArchiveTool.hunex_file_archive_tool as hfa
 
-config = configparser.ConfigParser()
-config.read('config.ini')
 
-script_source = config['paths']['script_source']
-script_source_indent = config['paths']['script_source_indent']
-dossier_sources_jp = config['paths']['dossier_sources_jp']
-dossier_sources_fr = config['paths']['dossier_sources_fr']
-generated_translation = config['paths']['generated_translation']
-csv_input = config['csv']['csv_input']
-csv_output = config['csv']['csv_output']
-creer_csv = config.getboolean('csv', 'create_csv')
-output_steam_patch_folder = config['steam']['output_steam_patch_folder']
-input_steam_patch_folder = config['steam']['input_steam_patch_folder']
-steam_hfa_name = config['steam']['steam_hfa_name']
-remplacer_caracteres = config.getboolean('steam', 'swap_characters')
-output_switch_folder = config['switch']['output_switch_folder']
-
-script_fr_mem: list[str] = get_file_lines(script_source)
-sourceScriptIndent: list[str] = get_file_lines(script_source_indent)
+script_fr_mem: list[str] = get_file_lines(conf.script_source)
+sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
 csv_missing = dict()
-csv_dict = csv.get_csv(csv_input) if not creer_csv else None
+csv_dict = csv.get_csv(conf.csv_input) if not conf.creer_csv else None
 
 
 # nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
@@ -50,7 +34,7 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
 	global csv_missing
 
-	isInCsv = not creer_csv and (idx + 1) in csv_dict
+	isInCsv = not conf.creer_csv and (idx + 1) in csv_dict
 	if isInCsv:
 		csv_row = csv_dict[idx + 1]
 		translation = csv_row[csv.columns[1]]
@@ -85,7 +69,7 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 		if ligne_partielle is not None:
 			last_found_idx = indice
 			remplace_dans_script(idx, ligne_partielle)
-		elif not creer_csv:
+		elif not conf.creer_csv:
 			csv_missing[idx + 1] = current_line
 	
 	if isInCsv and nbStartSpaces != "":
@@ -105,9 +89,9 @@ def generate_updated_translation():
 			# Si l'indice de la ligne est dans la map, on change le fichier actif
 			if (idx + 1) in map_fichiers:
 				current_file = map_fichiers[idx + 1]
-				og_file_path = os.path.join(dossier_sources_jp, current_file)
+				og_file_path = os.path.join(conf.dossier_sources_jp, current_file)
 				og_lines = get_file_lines(og_file_path)
-				tr_file_path = os.path.join(dossier_sources_fr, current_file)
+				tr_file_path = os.path.join(conf.dossier_sources_fr, current_file)
 				tr_lines = get_file_lines(tr_file_path)
 
 			last_found_idx = line_process(idx, ligne, og_lines, tr_lines, last_found_idx)
@@ -117,10 +101,10 @@ def generate_updated_translation():
 	
 	# print("\r")
 
-	write_file_lines(generated_translation, script_fr_mem)
+	write_file_lines(conf.generated_translation, script_fr_mem)
 
-	if creer_csv:
-		csv.create(csv_output, csv_missing)
+	if conf.creer_csv:
+		csv.create(conf.csv_output, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 		print(f"Fichier CSV créé")
 	
@@ -129,39 +113,39 @@ def generate_updated_translation():
 
 def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
-	lines_to_write = swap_char_in_script(new_lines.copy()) if remplacer_caracteres else new_lines
+	lines_to_write = swap_char_in_script(new_lines.copy()) if conf.remplacer_caracteres else new_lines
 	progress(20, 100, "Steam\t")
 
-	success = hfa.extract(f"{input_steam_patch_folder}/{steam_hfa_name}.hfa")
+	success = hfa.extract(f"{conf.input_steam_patch_folder}/{conf.steam_hfa_name}.hfa")
 	if not success:
 		print(f"Erreur lors de l'extraction du patch Steam{CLEAN_END}", end="\n")
 		return
 	progress(40, 100, "Steam\t")
 
-	write_file_lines(f"{steam_hfa_name}/0000_script_text_en.ctd", lines_to_write)
+	write_file_lines(f"{conf.steam_hfa_name}/0000_script_text_en.ctd", lines_to_write)
 	progress(60, 100, "Steam\t")
 
-	success = hfa.build(steam_hfa_name, f"{steam_hfa_name}.hfa", output_steam_patch_folder)
+	success = hfa.build(conf.steam_hfa_name, f"{conf.steam_hfa_name}.hfa", conf.output_steam_patch_folder)
 	progress(80, 100, "Steam\t")
 
-	if os.path.exists(steam_hfa_name):
-		shutil.rmtree(steam_hfa_name, ignore_errors=True)
+	if os.path.exists(conf.steam_hfa_name):
+		shutil.rmtree(conf.steam_hfa_name, ignore_errors=True)
 	
 	if not success:
 		print(f"Erreur lors de la création du patch Steam{CLEAN_END}", end="\n")
 		return
 	progress(100, 100, "Steam\t")
 
-	print(f"Patch Steam créé : {steam_hfa_name}.hfa{CLEAN_END}", end="\n")
+	print(f"Patch Steam créé : {conf.steam_hfa_name}.hfa{CLEAN_END}", end="\n")
 
 def update_switch_files(new_lines: list[str]):
-	files = os.listdir(output_switch_folder)
+	files = os.listdir(conf.output_switch_folder)
 	total_files = len(files)
 
 	for idx, file in enumerate(files):
 		progress(idx, total_files - 1, "Switch\t")
 
-		file_path = os.path.join(output_switch_folder, file)
+		file_path = os.path.join(conf.output_switch_folder, file)
 		lines = get_file_lines(file_path)
 
 		for i in range(len(lines)):
@@ -173,7 +157,7 @@ def update_switch_files(new_lines: list[str]):
 
 		write_file_lines(file_path, lines)
 
-	print(f"Fichiers Switch pour deepLuna mis à jour dans {output_switch_folder}", end="\n")
+	print(f"Fichiers Switch pour deepLuna mis à jour dans {conf.output_switch_folder}", end="\n")
 
 
 if __name__ == "__main__":
