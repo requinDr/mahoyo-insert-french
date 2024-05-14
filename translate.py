@@ -1,4 +1,5 @@
 import os
+import shutil
 import time
 import configparser
 
@@ -133,6 +134,10 @@ def create_steam_file(new_lines: list[str]):
 	write_file_lines(output_steam_patch_name + "/0000_script_text_en.ctd", lines_to_write)
 	progress(60, 100, "Steam\t")
 	hfa.build(output_steam_patch_name, output_steam_patch_name + ".hfa")
+	progress(80, 100, "Steam\t")
+	# if folder with output_steam_patch_name name exists, remove it
+	if os.path.exists(output_steam_patch_name):
+		shutil.rmtree(output_steam_patch_name, ignore_errors=True)
 	progress(100, 100, "Steam\t")
 	print(f"Patch Steam créé : {output_steam_patch_name}.hfa{CLEAN_END}", end="\n")
 
