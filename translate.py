@@ -131,15 +131,27 @@ def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
 	lines_to_write = swap_char_in_script(new_lines.copy()) if remplacer_caracteres else new_lines
 	progress(20, 100, "Steam\t")
-	hfa.extract(f"{input_steam_patch_folder}/{steam_hfa_name}.hfa")
+
+	success = hfa.extract(f"{input_steam_patch_folder}/{steam_hfa_name}.hfa")
+	if not success:
+		print(f"Erreur lors de l'extraction du patch Steam{CLEAN_END}", end="\n")
+		return
 	progress(40, 100, "Steam\t")
+
 	write_file_lines(f"{steam_hfa_name}/0000_script_text_en.ctd", lines_to_write)
 	progress(60, 100, "Steam\t")
-	hfa.build(steam_hfa_name, f"{steam_hfa_name}.hfa", output_steam_patch_folder)
+
+	success = hfa.build(steam_hfa_name, f"{steam_hfa_name}.hfa", output_steam_patch_folder)
 	progress(80, 100, "Steam\t")
+
 	if os.path.exists(steam_hfa_name):
 		shutil.rmtree(steam_hfa_name, ignore_errors=True)
+	
+	if not success:
+		print(f"Erreur lors de la création du patch Steam{CLEAN_END}", end="\n")
+		return
 	progress(100, 100, "Steam\t")
+
 	print(f"Patch Steam créé : {steam_hfa_name}.hfa{CLEAN_END}", end="\n")
 
 def update_switch_files(new_lines: list[str]):

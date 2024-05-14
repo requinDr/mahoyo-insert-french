@@ -18,32 +18,43 @@ def print_usage():
 	print("  --build\tBuild a new archive from given directory.")
 
 def build(input_dir: str, hfa_file: str, output_dir: str = None):
-	files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if os.path.isfile(os.path.join(input_dir, f))]
-	if not files:
-		print(f"Directory ({input_dir}) is empty.")
-		return
+	success = False
 
-	output_path = f"{output_dir}/{hfa_file}" if output_dir else hfa_file
-	with open(output_path, 'wb') as writer:
-		hdr = Header(len(files))
-		hdr.write(writer)
-		entries: List[FileEntry] = [None] * hdr.file_count
-		writer.seek(hdr.data_start_offset)
-		for i, file_path in enumerate(files):
-			# print(f"Writing: {file_path}")
-			data = open(file_path, 'rb').read()
-			file_entry = FileEntry()
-			file_entry.filename = os.path.basename(file_path)[5:]  # trim index
-			file_entry.size = len(data)
-			file_entry.offset = writer.tell() - hdr.data_start_offset
-			entries[i] = file_entry
-			writer.write(align_data(data))
+	try:
+		files = [os.path.join(input_dir, f) for f in os.listdir(input_dir) if os.path.isfile(os.path.join(input_dir, f))]
+		if not files:
+			print(f"Directory ({input_dir}) is empty.")
+			return
 
-		writer.seek(hdr.HEADER_SIZE)
-		for entry in entries:
-			entry.write(writer)
+		output_path = f"{output_dir}/{hfa_file}" if output_dir else hfa_file
+		with open(output_path, 'wb') as writer:
+			hdr = Header(len(files))
+			hdr.write(writer)
+			entries: List[FileEntry] = [None] * hdr.file_count
+			writer.seek(hdr.data_start_offset)
+			for i, file_path in enumerate(files):
+				# print(f"Writing: {file_path}")
+				data = open(file_path, 'rb').read()
+				file_entry = FileEntry()
+				file_entry.filename = os.path.basename(file_path)[5:]  # trim index
+				file_entry.size = len(data)
+				file_entry.offset = writer.tell() - hdr.data_start_offset
+				entries[i] = file_entry
+				writer.write(align_data(data))
+
+			writer.seek(hdr.HEADER_SIZE)
+			for entry in entries:
+				entry.write(writer)
+		
+		success = True
+	except Exception as e:
+		print(f"Error: {e}")
+	finally:
+		return success
 
 def extract(file_path: str):
+	success = False
+
 	try:
 		if os.path.isfile(file_path) and file_path.endswith('.hfa'):
 			# print(f"Unpack: {os.path.basename(file_path)}")
@@ -62,10 +73,14 @@ def extract(file_path: str):
 					with open(path, 'wb') as out_file:
 						out_file.write(data)
 					index += 1
+
+			success = True
 		else:
 			print(f"Error: {file_path} is not a valid HFA file.")
 	except Exception as e:
 		print(f"Error: {e}")
+	finally:
+		return success
 
 def align_data(data: bytes, align: int = 0x8) -> bytes:
 	padding = align - (len(data) % align)
