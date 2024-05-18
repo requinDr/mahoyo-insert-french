@@ -1,127 +1,127 @@
 [sha:476763f4de3d85ecc832c11e633697622d036a78]{
 -- Page 0, Offset 80. Mods: @n.
 -- <傲慢|ごうまん>で<貪欲|どんよく>で、壊すことしか能のない、
-　Je suis arrogante, cupide, et ne suis bonne qu'à détruire.
+  Je suis arrogante, cupide, et ne suis bonne qu'à détruire.
 
 }
 [sha:b7ecf963af1ac6f8d95166dbcb02a9de456cdedb]{
 -- Page 0, Offset 81. Glued.
 -- 私はきっと狼だ。
-　Je suis sûrement une louve.
+  Je suis sûrement une louve.
 
 }
 [sha:62269c1989def31afe48125c962f840e82ea7e53]{
 -- Page 0, Offset 82. Mods: @n.
 -- かえりみなくてふり向かなくて、
-　Je ne tiens compte d'aucune leçon, ne regarde jamais en arrière,
+  Je ne tiens compte d'aucune leçon, ne regarde jamais en arrière,
 
 }
 [sha:76a239d7e40e44767cc4d8562c062863b46334a5]{
 -- Page 0, Offset 83. Glued.
 -- 気づかないままむねをはり、<独|ひと>りになるならご愁傷さま。
-　je fais la fière sans m'en rendre compte, et si je me retrouve seule, tant pis !
+  je fais la fière sans m'en rendre compte, et si je me retrouve seule, tant pis !
 
 }
 [sha:6249a2dde4234c2377b1cc87f24b5136127d772e]{
 -- Page 0, Offset 84. Mods: @n.
 -- いずれあっさり、
-　C'est sûrement mon destin de me faire tuer un jour,
+  C'est sûrement mon destin de me faire tuer un jour,
 
 }
 [sha:e2ed70a57e9703681a35417937d0516b8a78669a]{
 -- Page 0, Offset 85. Glued.
 -- 赤ずきんに<退治|ころ>されるのが定めでしょう―――
-　par le petit chaperon rouge―――
+  par le petit chaperon rouge―――
 
 }
 [sha:8e850334c820c6cb805ab9b0c36619694adfb624]{
 -- Page 1, Offset 86.
 -- それは、静かな朝だった。
-　C'était un matin calme.
+  C'était un matin calme.
 
 }
 [sha:c9762c2163f47e0e2f702314ec9930a482d78733]{
 -- Page 2, Offset 87.
 -- ベッドから<覗|のぞ>く空模様が絵の具を塗りたくったような灰色でも、
-　Même si, en jetant un coup d'œil depuis le lit, la couleur du ciel était de cette teinte grise dont on aurait barbouillé une peinture,
+  Même si, en jetant un coup d'œil depuis le lit, la couleur du ciel était de cette teinte grise dont on aurait barbouillé une peinture,
 
 }
 [sha:e2c716157eecb7e897f04697ecedfaf6261245da]{
 -- Page 2, Offset 88.
 -- 温度計は六度前後と十一月にしては容赦のない<数値|きろく>をたたきだしていても、
-　ou si le thermomètre affichait à peine six degrés, un record sans précédent pour un mois de novembre,
+  ou si le thermomètre affichait à peine six degrés, un record sans précédent pour un mois de novembre,
 
 }
 [sha:31cad20020393bf439dbca517dbdc8098d3c4681]{
 -- Page 2, Offset 89.
 -- 朝食<時|どき>はとっくに過ぎていて、情けないコトに空腹なんかで目を覚ましたとしても。
-　ou bien encore, si l'heure du petit déjeuner était depuis longtemps passée et elle se réveillait honteusement à cause de la faim,
+  ou bien encore, si l'heure du petit déjeuner était depuis longtemps passée et elle se réveillait honteusement à cause de la faim,
 
 }
 [sha:f4be350647fe090df3bf3975506c32622f6a52a6]{
 -- Page 2, Offset 90.
 -- こうして<緩慢|かんまん>に眠っていられるだけで、彼女にとって、今日の朝は幸福なものだった。
-　le simple fait de pouvoir dormir à sa guise rendait ce matin vraiment magnifique pour elle.
+  le simple fait de pouvoir dormir à sa guise rendait ce matin vraiment magnifique pour elle.
 
 }
 [sha:5441284f7722910d8ecc8cda606ea7a981d72246]{
 -- Page 3, Offset 91.
 -- 時計はとうに朝の八時を回っている。
-　L'aiguille de l'horloge avait dépassé depuis longtemps les huit heures du matin.
+  L'aiguille de l'horloge avait dépassé depuis longtemps les huit heures du matin.
 
 }
 [sha:4a23477ba141444a85b521797507f33a1a01f35b]{
 -- Page 3, Offset 92.
 -- 平日なら絶望的な時間、どうあがいても遅刻確定な状態だが、今日は創立記念日につき休校だ。
-　Si cette journée avait été un jour de cours ordinaire, l'heure aurait été au désespoir, et elle se serait retrouvée en retard quoi qu'elle fasse. Mais aujourd'hui, exceptionnellement, son école était fermée pour l'anniversaire de l'établissement.
+  Si cette journée avait été un jour de cours ordinaire, l'heure aurait été au désespoir, et elle se serait retrouvée en retard quoi qu'elle fasse. Mais aujourd'hui, exceptionnellement, son école était fermée pour l'anniversaire de l'établissement.
 
 }
 [sha:251249731e252b8515c53709f6c5a323e8de9f2b]{
 -- Page 3, Offset 93.
 -- おかげで久しぶりに、のんびりと朝を過ごす事ができる。
-　Grâce à cela, pour la première fois depuis longtemps, elle pouvait profiter de sa matinée à loisir.
+  Grâce à cela, pour la première fois depuis longtemps, elle pouvait profiter de sa matinée à loisir.
 
 }
 [sha:47dd7876e65abb3332717c7c224ae0b210122b02]{
 -- Page 4, Offset 94.
 -- くり返すが、窓の外は<陰鬱|いんうつ>とした鋼色で、朝というより夕方を思わせる。
-　Je me répète, mais à l'extérieur, le ciel était d'un triste bleu acier, et faisait penser davantage au soir qu'au matin.
+  Je me répète, mais à l'extérieur, le ciel était d'un triste bleu acier, et faisait penser davantage au soir qu'au matin.
 
 }
 [sha:68f45692ca3d362ee1ceb77132aba57f48bc33a8]{
 -- Page 4, Offset 95.
 -- お世辞にも気持ちいい朝とは言えない。
-　Même si l'on voulait décrire cette matinée sous un jour favorable, on ne pouvait pas franchement dire qu'elle était agréable.
+  Même si l'on voulait décrire cette matinée sous un jour favorable, on ne pouvait pas franchement dire qu'elle était agréable.
 
 }
 [sha:78a41f40a83b9b2f16729d5da9b6ce088f9e41a1]{
 -- Page 4, Offset 96.
 -- が、つい三時間前まで夜通し起きていた彼女にとって、外の天気なんてどうでもいい事だった。
-　Mais pour elle qui était restée debout toute la nuit et qui s'était couchée trois heures auparavant, le temps qu'il faisait à l'extérieur n'avait aucune espèce d'importance.
+  Mais pour elle qui était restée debout toute la nuit et qui s'était couchée trois heures auparavant, le temps qu'il faisait à l'extérieur n'avait aucune espèce d'importance.
 
 }
 [sha:bd9ffe74af62144f2a834cdce09c0972a6f1961f]{
 -- Page 5, Offset 97.
 -- いまは何より眠気がすべて。
-　Pour l'heure, son sommeil était tout ce qui importait.
+  Pour l'heure, son sommeil était tout ce qui importait.
 
 }
 [sha:1085a4523d342e297b4c36bfc49b54f2436689b1]{
 -- Page 5, Offset 98.
 -- ベッドで<微睡|まどろ>めるなら気持ちのいい朝なわけで、外の事情なんて当局は一切関知いたしません―――と、窓の向こうをシャットアウト。
-　Pour faire juste un petit somme dans son lit, c'était un bon matin, et le temps à l'extérieur n'était en aucun cas ses affaires―――Elle cessa rapidement de penser à ce qu'il y avait de l'autre côté de la fenêtre.
+  Pour faire juste un petit somme dans son lit, c'était un bon matin, et le temps à l'extérieur n'était en aucun cas ses affaires―――Elle cessa rapidement de penser à ce qu'il y avait de l'autre côté de la fenêtre.
 
 }
 [sha:60ec521f87fed9f9eeac7b257d1f5f5ddcbac7de]{
 -- Page 6, Offset 99.
 -- カーテンを閉める。
-　Elle tira les rideaux.
+  Elle tira les rideaux.
 
 }
 [sha:7484e282b84b2d5ee1f2c54d1abad4840bff3732]{
 -- Page 6, Offset 100.
 -- 再び<瞼|まぶた>を閉じて、すみやかに眠りに戻ろうと努力する。
-　Elle ferma de nouveau les paupières et, sans attendre, tâcha de se rendormir.
+  Elle ferma de nouveau les paupières et, sans attendre, tâcha de se rendormir.
 
 }
 [sha:bec891313ccf14b2db1653b09f60b45118753b6f]{
@@ -133,25 +133,25 @@
 [sha:d798808226f46ccfb662a0d801ff3533222a552b]{
 -- Page 6, Offset 102.
 -- 眠気はじゅうぶん残っていて、すぐに幸せはやってきた。
-　Elle avait encore énormément envie de dormir, et son bonheur arriva immédiatement.
+  Elle avait encore énormément envie de dormir, et son bonheur arriva immédiatement.
 
 }
 [sha:7c96f0576d8d4da662738b6d3d5a9c0fdc42b985]{
 -- Page 6, Offset 103.
 -- 意識は沈むように落ちていく。
-　Elle sombra dans le sommeil comme si elle se noyait.
+  Elle sombra dans le sommeil comme si elle se noyait.
 
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 7, Offset 104.
 -- しかし。
-　Cependant,
+  Cependant,
 
 }
 [sha:7013a8785d2628bfd7da3f430fc7e3a180f4db01]{
 -- Page 7, Offset 105.
 -- 彼女のささやかな願いは、容赦なく却下された。
-　son modeste souhait fut froidement rejeté.
+  son modeste souhait fut froidement rejeté.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -163,19 +163,19 @@
 [sha:6dc302203ca7264e4411dd7b95e459dc148bca29]{
 -- Page 8, Offset 107.
 -- 小さいクセにカン高く耳に残る。
-　Elle entendit un son faible mais strident.
+  Elle entendit un son faible mais strident.
 
 }
 [sha:8c278994eab7298469461b2fb9572c42b47779c2]{
 -- Page 8, Offset 108.
 -- 間違いなく電話の音だ。
-　C'était sans aucun doute possible la sonnerie du téléphone.
+  C'était sans aucun doute possible la sonnerie du téléphone.
 
 }
 [sha:4026412b33910ec5f78372ddb9a69c514856a404]{
 -- Page 8, Offset 109.
 -- 習慣のなせる業だろう。閉じたばかりの瞼は、彼女の意思とは正反対にぱちりと開く。
-　Ça devait être l'habitude : les paupières qu'elle venait de fermer se rouvrirent soudainement contre son gré.
+  Ça devait être l'habitude : les paupières qu'elle venait de fermer se rouvrirent soudainement contre son gré.
 
 }
 [sha:21d745af0dd956208355a5db03ebed2020d8cf4b]{
@@ -187,31 +187,31 @@
 [sha:1217140f0cdc9e1497ce73c7f632e7b412f27e92]{
 -- Page 9, Offset 111.
 -- 受話器は一階のロビーに設置されている。
-　Le téléphone était installé dans le vestibule au rez-de-chaussée.
+  Le téléphone était installé dans le vestibule au rez-de-chaussée.
 
 }
 [sha:f66a5f7fb81b666a7cdc1422e2a4894d3f9caa6b]{
 -- Page 9, Offset 112.
 -- この部屋からでは廊下十メートル分と、階段一つ分離れた先だ。
-　Depuis cette chambre, il fallait emprunter dix mètres de couloir et un escalier pour l'atteindre.
+  Depuis cette chambre, il fallait emprunter dix mètres de couloir et un escalier pour l'atteindre.
 
 }
 [sha:47ac6a3368ba10c92481246943b00fc0bc6a3d65]{
 -- Page 9, Offset 113.
 -- 寝不足の彼女にとって、その距離は遥かと<彼方|かなた>の中間ぐらい遠かった。
-　Pour elle qui manquait de sommeil, c'était une distance oscillant entre le très loin et le fin fond de l'univers.
+  Pour elle qui manquait de sommeil, c'était une distance oscillant entre le très loin et le fin fond de l'univers.
 
 }
 [sha:7e321a7c6f0c451250239501fafa6b85ea720cbb]{
 -- Page 10, Offset 114.
 -- ……電話の音は<辛抱|しんぼう>強く鳴り響いている。
-　...... Le bruit du téléphone résonnait avec insistance.
+  ...... Le bruit du téléphone résonnait avec insistance.
 
 }
 [sha:309ee9b1806d4c2e6b5b9b8d70787e372db62765]{
 -- Page 10, Offset 115.
 -- 無視してしまえばいずれ止むにしても、それができるほど、彼女は自分に優しくはなかった。
-　Si elle l'ignorait, il cesserait à un moment de sonner, mais elle n'était pas assez gentille envers elle-même pour se le permettre.
+  Si elle l'ignorait, il cesserait à un moment de sonner, mais elle n'était pas assez gentille envers elle-même pour se le permettre.
 
 }
 [sha:a572970024948350328b6705005ea1d1528bfa8f]{
@@ -223,25 +223,25 @@
 [sha:3138f1120cd5aaf91530532e9f6d2f7b2abb95ea]{
 -- Page 11, Offset 117.
 -- 未練がましく同居人の活躍に期待してみたものの、すぐに<諦|あきら>めた。
-　Son dépit augmentant, elle espérait une réaction de sa colocataire, mais elle abandonna rapidement cette idée.
+  Son dépit augmentant, elle espérait une réaction de sa colocataire, mais elle abandonna rapidement cette idée.
 
 }
 [sha:825722b124b368ad406cfc54259d25662d174137]{
 -- Page 11, Offset 118.
 -- 考えてみれば休日なのは自分の<学校|ところ>だけで、同居人は丘の上の学院のお嬢様だ。とっくに学校に行っている。
-　En y repensant, seule son école était fermée, et sa colocataire était une de ces jeunes demoiselles de l'académie du haut de la colline. Elle était partie à l'école depuis longtemps.
+  En y repensant, seule son école était fermée, et sa colocataire était une de ces jeunes demoiselles de l'académie du haut de la colline. Elle était partie à l'école depuis longtemps.
 
 }
 [sha:36c3713a065b3c7cdb7890beb17aae19450b7425]{
 -- Page 12, Offset 119.
 -- 電話の根気強さは並ではない。
-　La persévérance du téléphone n'était pas ordinaire.
+  La persévérance du téléphone n'était pas ordinaire.
 
 }
 [sha:1d9fea4d3fc2707c91f9c9e00ee0ebca18af3a5c]{
 -- Page 12, Offset 120.
 -- そのあまりのしつこさに、気持ち、ボリュームがランクアップして聞こえる。
-　Devant cette insistance, le volume semblait s'intensifier, du moins dans sa tête.
+  Devant cette insistance, le volume semblait s'intensifier, du moins dans sa tête.
 
 }
 [sha:a4e93f06f296ca3e89a1a0baa35e7b6afefa6e24]{
@@ -253,7 +253,7 @@
 [sha:61f909fb611d1852ebe8d759051e89531d87b339]{
 -- Page 13, Offset 122.
 -- 仕方なくベッドから出て、軽く上着を羽織って、彼女は部屋を後にする。
-　Elle sortit de son lit malgré elle, enfila une veste légère et quitta sa chambre.
+  Elle sortit de son lit malgré elle, enfila une veste légère et quitta sa chambre.
 
 }
 [sha:b66747bf1423aa45a9d6540099ed713dac4940bf]{
@@ -265,55 +265,55 @@
 [sha:16d4be1df29a2f10bff35074b6632e09f4d8814b]{
 -- Page 14, Offset 124.
 -- 手を合わせて、かじかむ指を温める。
-　Elle joignit ses mains et réchauffa ses doigts engourdis par le froid.
+  Elle joignit ses mains et réchauffa ses doigts engourdis par le froid.
 
 }
 [sha:2a28de0e7935b517f8b32e5e84b0a33becacf7a0]{
 -- Page 14, Offset 125.
 -- この屋敷は暖房設備が<乏|とぼ>しい。
-　Le chauffage de ce manoir était déficient.
+  Le chauffage de ce manoir était déficient.
 
 }
 [sha:841eeeefdece3e5280ce0cf1133b9d3baf902da0]{
 -- Page 14, Offset 126.
 -- なので、冬の気温は恐るべき難敵だ。
-　En conséquence de quoi, la température en hiver constituait un redoutable ennemi.
+  En conséquence de quoi, la température en hiver constituait un redoutable ennemi.
 
 }
 [sha:17961c19e60bd0f6e06a458b9a2d3cebda44becf]{
 -- Page 14, Offset 127.
 -- <曇|くも>りに曇った朝なら尚更で、温度計を見なくても真冬なみの寒さと分かる。
-　D'autant plus lors des matins nuageux, où l'on sentait le froid pénétrant de l'hiver sans avoir à regarder le thermomètre.
+  D'autant plus lors des matins nuageux, où l'on sentait le froid pénétrant de l'hiver sans avoir à regarder le thermomètre.
 
 }
 [sha:94b76576d4da21ddc279766393e7c24609de8f96]{
 -- Page 14, Offset 128.
 -- この屋敷はちょっとした山中にあり、周りはそれなりに深い森なので、街より冬の到来が早いのだ。
-　Ce manoir était un peu en montagne et entouré d'une forêt assez dense. L'hiver y arrivait donc plus vite qu'en ville.
+  Ce manoir était un peu en montagne et entouré d'une forêt assez dense. L'hiver y arrivait donc plus vite qu'en ville.
 
 }
 [sha:9a8ac5bb19127c97f4fd4ed7195eafde11c6ced6]{
 -- Page 15, Offset 129.
 -- 長い廊下に、無機質なコール音が反響していく。
-　Dans le long couloir, le son mécanique du téléphone se réverbérait tel un écho.
+  Dans le long couloir, le son mécanique du téléphone se réverbérait tel un écho.
 
 }
 [sha:2b81c0bd18f66f8cd94b8d7e4c8ca640c68aa2ce]{
 -- Page 15, Offset 130.
 -- 館内の調度品はそれなりに手入れされているものの、生活臭は感じられない。
-　Les équipements du manoir étaient assez bien entretenus, et pourtant, il avait l'air désert.
+  Les équipements du manoir étaient assez bien entretenus, et pourtant, il avait l'air désert.
 
 }
 [sha:3bce785070a398a6e4ac06304537ad6e4838f327]{
 -- Page 15, Offset 131.
 -- 豪華さより<淋|さび>しさが強く出ている。
-　La solitude qu'il inspirait transparaissait davantage que sa splendeur.
+  La solitude qu'il inspirait transparaissait davantage que sa splendeur.
 
 }
 [sha:a8436dc7ffe0649c447f72b7bbafee6edfbfb009]{
 -- Page 15, Offset 132.
 -- 薄暗い朝の様子もあいまって幽霊屋敷に見えなくもない。
-　Conjuguée à l'obscurité du matin, il n'était pas inconcevable que la demeure fasse penser à un manoir hanté.
+  Conjuguée à l'obscurité du matin, il n'était pas inconcevable que la demeure fasse penser à un manoir hanté.
 
 }
 [sha:03775bb114dedcc97f3496e318a4f8ecd7fca229]{
@@ -325,66 +325,66 @@
 [sha:7e384640be3a8ee63d00aedbe2fe0329f6c85bd3]{
 -- Page 16, Offset 134.
 -- だいたいふたりで住むには広すぎるのよ、この家は」
-　De toute façon, cet endroit est trop grand pour y vivre à deux.」
+  De toute façon, cet endroit est trop grand pour y vivre à deux.」
 
 }
 [sha:769e86724685085d83a1f33391fcd12280059933]{
 -- Page 16, Offset 135.
 -- コール数はもう三十を超えていた。
-　Le nombre de sonneries avait dépassé la trentaine.
+  Le nombre de sonneries avait dépassé la trentaine.
 
 }
 [sha:7495b1316451d01fb65c8f4df3c49cf663610b6e]{
 -- Page 16, Offset 136.
 -- 相手はよっぽど暇なのか、それとも、この家の事情が分かっているのか。
-　La personne au bout du fil devait soit avoir beaucoup de temps libre, soit connaître la situation de cet endroit.
+  La personne au bout du fil devait soit avoir beaucoup de temps libre, soit connaître la situation de cet endroit.
 
 }
 [sha:9f4c47546d6e46999ed6df9831c71f2db40a3efd]{
 -- Page 16, Offset 137.
 -- 彼女は後者だと直感した。
-　Elle avait l'intuition que la seconde supposition était la bonne.
+  Elle avait l'intuition que la seconde supposition était la bonne.
 
 }
 [sha:497ded06f1e9774e21c8c00eb1d4cb408197fd9a]{
 -- Page 17, Offset 138.
 -- 見上げた窓は憂鬱な色。
-　La fenêtre au-dessus de sa tête avait une couleur mélancolique.
+  La fenêtre au-dessus de sa tête avait une couleur mélancolique.
 
 }
 [sha:7690e0a2ee3e2019826ca420a3e401b193b6336a]{
 -- Page 17, Offset 139.
 -- 自重しない電話の音を捕まえるように歩を速める。
-　Comme pour attraper le son du téléphone irrespectueux, elle accéléra le pas.
+  Comme pour attraper le son du téléphone irrespectueux, elle accéléra le pas.
 
 }
 [sha:ceb3075c456e7e57f339a8ca298168b4edc34bf5]{
 -- Page 17, Offset 140.
 -- たぶん、捕まえた瞬間に、幸せな朝は<泡|あわ>と消えると予感しながら。
-　Tout en ayant la prémonition qu'au moment où elle décrocherait le combiné, sa merveilleuse grasse matinée partirait certainement en fumée.
+  Tout en ayant la prémonition qu'au moment où elle décrocherait le combiné, sa merveilleuse grasse matinée partirait certainement en fumée.
 
 }
 [sha:b621e3d04043e63ae4149b8e1d9261f860ee2f97]{
 -- Page 18, Offset 141.
 -- ともあれ、これが一連の事件の最初の話。
-　Dans tous les cas, ceci est le premier cas d'une série d'incidents.
+  Dans tous les cas, ceci est le premier cas d'une série d'incidents.
 
 }
 [sha:d4193bd9fd0f357437009e7bff4f281fd6f8a95f]{
 -- Page 18, Offset 142.
 -- 浪漫が足りないのは、どうか大目に見てほしい。
-　Veuillez faire preuve de clémence pour son manque de romance.
+  Veuillez faire preuve de clémence pour son manque de romance.
 
 }
 [sha:d0c424415dc1a8fd0c696de759e5824a39523782]{
 -- Page 18, Offset 143.
 -- 統計というか、通説というか。
-　Selon les statistiques ou l'opinion générale,
+  Selon les statistiques ou l'opinion générale,
 
 }
 [sha:5678e9bf159142497c82b1c61b4bccad4e7e408d]{
 -- Page 18, Offset 144.
 -- 物事のはじまりは、大抵こんな風に平凡で、穏やかに回りだすものなのだから―――
-　le début de toute chose se met généralement en branle ainsi, calmement et de manière banale.
+  le début de toute chose se met généralement en branle ainsi, calmement et de manière banale.
 
 }

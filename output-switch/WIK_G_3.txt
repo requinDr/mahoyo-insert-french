@@ -1,12 +1,12 @@
 [sha:9e1d65c51581f82c41b736de27d8c2918bfffb40]{
 -- Page 0, Offset 22153.
 -- わたしは、ほんっとーに突拍子もないが、犬か何かに食いちぎられたのでは、と思った。
-　Bien que l'idée soit complètement saugrenue, je pensai qu'il avait dû être dévoré par une sorte de chien.
+  Bien que l'idée soit complètement saugrenue, je pensai qu'il avait dû être dévoré par une sorte de chien.
 
 }
 [sha:5bb3d2bcc192d9c277c61ef6ce052a19009a15e1]{
 -- Page 0, Offset 22154.
 -- ……なんで？
-　...... Pourquoi ?
+  ...... Pourquoi ?
 
 }

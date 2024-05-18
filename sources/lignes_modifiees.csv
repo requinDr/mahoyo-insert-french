@@ -86,14 +86,14 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 4851,la “fille” rétractait son bras allongé grâce à un mécanisme inconnu.,,どのような機巧か、“彼女”は伸びきった腕を収納していく。
 4902,"“<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.",,“Vivo in somno. Solitarie putresco in inferis.
 4903,"<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>”",,"@oHic dies meus obitus dies, et meus nativus dies. Te obeam.”"
-4909,"“<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.","center",“Mea anima immortalis. Autem mea futura necata sunt.
-4910,<Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.,"center",Manes sum. Animam definire ambiguum est.
-4911,"<Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>”","center","Te odi, et te amo. Conveniamus in somnio ipso.”"
-4924,"“<Proximi mihi neglegentes fuerunt. Omnes nos peccantes fuimus|Le voisinage était indifférent avec moi. Nous sommes tous pécheurs,>,","center",“Proximi mihi neglegentes fuerunt. Omnes nos peccantes
-4925,"<et omnes nos eidem fuimus, omnes nos peccatores sumus|nous étions coupables et semblables.>.","center","fuimus, et omnes nos eidem fuimus, omnes nos peccatores"
-4926,"<Venite domum meam. Luto simile somnium|Bienvenue chez moi. Que ta mort soit horrible,>,","center","sumus. Venite domum meam. Luto simile somnium,"
-4927,"<et pulveri simile cotidianum. Cor privo.|deviens poussière et murmure. Perce le cœur qui a quitté cette poitrine,>”","center",et pulveri simile cotidianum. Cor privo.”
-4928,“<JE T'APPORTE LA MORT.|Te iudico.>”,"center",“「オマエニ、死ヲ」”
+4909,"“<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.",center,“Mea anima immortalis. Autem mea futura necata sunt.
+4910,<Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.,center,Manes sum. Animam definire ambiguum est.
+4911,"<Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>”",center,"Te odi, et te amo. Conveniamus in somnio ipso.”"
+4924,"“<Proximi mihi neglegentes fuerunt. Omnes nos peccantes fuimus|Le voisinage était indifférent avec moi. Nous sommes tous pécheurs,>,",center,“Proximi mihi neglegentes fuerunt. Omnes nos peccantes
+4925,"<et omnes nos eidem fuimus, omnes nos peccatores sumus|nous étions coupables et semblables.>.",center,"fuimus, et omnes nos eidem fuimus, omnes nos peccatores"
+4926,"<Venite domum meam. Luto simile somnium|Bienvenue chez moi. Que ta mort soit horrible,>,",center,"sumus. Venite domum meam. Luto simile somnium,"
+4927,"<et pulveri simile cotidianum. Cor privo.|deviens poussière et murmure. Perce le cœur qui a quitté cette poitrine,>”",center,et pulveri simile cotidianum. Cor privo.”
+4928,“<JE T'APPORTE LA MORT.|Te iudico.>”,center,“「オマエニ、死ヲ」”
 4954,"「Euh, pourquoi tu m'emmènes avec toi ?」",,「なんで俺を連れていってるんだ？」
 4981,"Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touché, et aurait au contraire brûlé le Circuit adverse.",,彼女の同居人レベルなら、あんなジャミングはそれこそ腕が触れた時点で弾き、接触しようとした相手の回路を逆に焼き切ってしまうだろう。
 5047,"“<Nemo meum funus meminit, qui doluit exstinctus est|Plus personne ne se rappelle de mon enterrement. Les proches endeuillés ont aussi disparu.>.",,"@o“Nemo meum funus meminit, qui doluit exstinctus est."
@@ -206,6 +206,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 11486,,,”です！」
 11502,"「Ouais, la cérémonie d'entrée ! J'ai vu une fille sexy, alors j'ai levé la main par réflexe !",,「おう、入学式な！　すげー身体してる女子がいたからさあ、つい声をかけたんだよな！」
 11504,Mais je n'aurais jamais cru que ma main irait aussi loin.,,いや、でもまさか、手が出るとは思わなかった。
+11545,,1,
 11607,"Le Early au réveil, le Breakfast au petit déjeuner, le Elevenses le matin, le Midi Tea Break l'après-midi, l'Afternoon de l'après-midi dans la haute société, le High Tea des soirées mondaines, et l'After Tea après le dîner.",,寝起きのアーリー、朝食のブレックファースト、午前のイレブンジズ、午後のミィディティーブレイク、午後の社交界アフタヌーン、夜会のハイティー、ディナー後のアフターディナー。
 11644,"「Ha ha ha. À cause de ça, l'année dernière, on a fini par faire le tour des magasins d'antiquités.」",,「あはは。気が付いたら骨董品回りしてたものね、去年の私たち」
 11743,On dit bien que les aristos du Moyen Âge avaient des Alchimistes attitrés qui cherchaient sans relâche un moyen de fabriquer de l'or.」,,ほら、中世の貴族はお抱えの錬金術師で、日夜金を作り出す研究をしてたっていうじゃない!?」
@@ -259,6 +260,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 15508,「............,,「…………
 15509,"Si tu ne peux pas, alors tant pis.」",,出来ないなら、いいわ」
 15647,「............,,「…………
+15585,,2,
 15648,Vraiment ?」,,本当？」
 15660,"Avez-vous besoin d'autres détails, Ritsuka ?」",,その他に説明は要りますか」
 16152,"Il m'a mordue à la gorge, mâchée sur tout le corps, et en plus, il paraît que mon fémur droit avait disparu.",,喉に食い付かれる、体中好き放題噛まれまくる、あげくに右の腿なんてなくなってたそうよ。
@@ -276,6 +278,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 16522,"―――Cependant, elle a rejeté ma proposition sans hésitation.",,―――しかしまぁ、躊躇なくフられました。
 16741,"Pour lui, la notion de bien et de mal se basait simplement sur “l'attirance” et “le dégoût”.",,彼にとっての良し悪しの基準は、単純に「格好いい」か「格好悪い」か。
 16965,"Là où elle se situait, son champ de vision était divisé en deux et il lui était impossible de confirmer visuellement la position de sa sœur cadette......!",,橙子の位置からでは視界が二つに別けられ、正面の像を視認できない……！
+17114,,1,
 17230,"De son côté, Aoko ne se souciait guère des préparatifs de Tōko et ne daigna même pas lever le bras pour ajuster sa cible.",,対して、青子は意にも介さず、照準を合わせる為に腕をあげる事もなく、
 17334,"Tu sais Alice, je croyais être incapable de trouver ce genre de chose.",,けれどね、有珠。そんな物は、見つからないって思っていたんだ。
 17413,Les lames de tonnerre furent repoussées par les balles de prana à la manière d'une bourrasque de vent.,,飛び交う電刃を、暴風の如き魔弾が叩き伏せる。
@@ -379,6 +382,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 22414,「..................」,,「………………」
 22421,"Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.",,ただし、七時からは全員が集まっていたので、実際には四時から七時までの時間だろう。
 22452,"Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」",,んー、まあ、それはそれとして、プロイを知っている、って条件ならもう一人、とびきり不自然な娘もいるんだけど。それは誰かが指摘するでしょう」
+22698,,1,
 22839,,1,
 22840,,1,
 22841,,1,

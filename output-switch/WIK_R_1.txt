@@ -1,43 +1,43 @@
 [sha:96c25f1185a69b0bb46cb6e16f2178aed9241dab]{
 -- Page 0, Offset 23101. Mods: @c.
 -- 私は、これで安心して眠れる、と思った。
-　Je pensais enfin pouvoir dormir sur mes deux oreilles.
+  Je pensais enfin pouvoir dormir sur mes deux oreilles.
 
 }
 [sha:53afeb3acc86ad19b662b34a03a048b401a88c99]{
 -- Page 1, Offset 23102.
 -- ひとりきりで部屋に戻る。
-　Je retournai seule dans ma chambre.
+  Je retournai seule dans ma chambre.
 
 }
 [sha:88aae445b1f3f8020ddf409b5bff6a9ff11967c1]{
 -- Page 1, Offset 23103.
 -- 犯人候補の蒼崎が幽閉されても油断は禁物。
-　Même si Aozaki, principale suspecte pour le rôle de coupable, était enfermée, il valait mieux rester prudente.
+  Même si Aozaki, principale suspecte pour le rôle de coupable, était enfermée, il valait mieux rester prudente.
 
 }
 [sha:3526609f9876dec02cfcc7194f87c3ab308da4a6]{
 -- Page 1, Offset 23104. Mods: @n.
 -- きっちりドアに鍵をかけて、
-　Je fermai bien la porte à clef
+  Je fermai bien la porte à clef
 
 }
 [sha:c6981c5e45b662bd51ab7319b8f44cfba9c6450e]{
 -- Page 1, Offset 23105. Glued.
 -- ベッドに横になる。
-et m'allongeai sur le lit.
+ et m'allongeai sur le lit.
 
 }
 [sha:60e9cde06acfc268257e2c70640dc3ce5249befb]{
 -- Page 1, Offset 23106.
 -- 後は朝を待つだけだ。
-　Il ne me restait plus qu'à attendre le matin.
+  Il ne me restait plus qu'à attendre le matin.
 
 }
 [sha:72d17be347f3c402b787701fe2af81b8d46c1570]{
 -- Page 1, Offset 23107.
 -- 色々あったけど、これでようやく安心して眠れる。
-　Toutes sortes de péripéties s'étaient produites, mais je pouvais à présent dormir en toute tranquillité.
+  Toutes sortes de péripéties s'étaient produites, mais je pouvais à présent dormir en toute tranquillité.
 
 }
 [sha:28010b246db8e6c09a3843e9de23430f30dd57e1]{
@@ -49,13 +49,13 @@ et m'allongeai sur le lit.
 [sha:ee8306832bdaae88d34b802f9e5f8f5c69d0aea3]{
 -- Page 2, Offset 23109.
 -- 神様、お願いします。
-　Mon Dieu, je vous en prie.
+  Mon Dieu, je vous en prie.
 
 }
 [sha:84cbfbd6122420e03834ae23483de279af557446]{
 -- Page 2, Offset 23110.
 -- 目を覚ましたら、ちゃんと何もかも元通りになっていますように―――
-　Faites que tout soit revenu à la normale quand je me réveillerai―――
+  Faites que tout soit revenu à la normale quand je me réveillerai―――
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -67,7 +67,7 @@ et m'allongeai sur le lit.
 [sha:5588156db35e9a55e7cffc29ca0850b667385860]{
 -- Page 3, Offset 23112.
 -- 小鳥の鳴き声で目を覚ました。
-　Je me réveillai au son du gazouillis des oisillons.
+  Je me réveillai au son du gazouillis des oisillons.
 
 }
 [sha:cb9297633bad332c3ba4010f5e2f1759e823f0fb]{
@@ -79,73 +79,73 @@ et m'allongeai sur le lit.
 [sha:20a5d865d36980977b7d925781d6cbe79d06a71d]{
 -- Page 3, Offset 23114.
 -- 時刻は五時半。
-　Il était cinq heures et demie.
+  Il était cinq heures et demie.
 
 }
 [sha:4506914009443e73314c76a7a4861b44e575132b]{
 -- Page 3, Offset 23115.
 -- 外はうっすらと日が差し始めている。
-　Le jour se levait lentement à l'extérieur.
+  Le jour se levait lentement à l'extérieur.
 
 }
 [sha:eb252a9060e00bf136b4deebf9c162f765941122]{
 -- Page 4, Offset 23116.
 -- 目覚めがいいのがわたしの数少ない取り柄なのに、疲れがたまっていたんだろう。
-　La facilité avec laquelle je pouvais me réveiller comptait parmi mes rares qualités, mais la fatigue avait dû s'accumuler.
+  La facilité avec laquelle je pouvais me réveiller comptait parmi mes rares qualités, mais la fatigue avait dû s'accumuler.
 
 }
 [sha:95e0f98ae83bb4ef783248b0fdfd86ae0d5c2fcd]{
 -- Page 4, Offset 23117.
 -- ぼんやりとした頭のまま、姿見で洋服のシワを確認する。
-　L'esprit brumeux, je lissai les plis de mes vêtements en me regardant dans le miroir sur pied.
+  L'esprit brumeux, je lissai les plis de mes vêtements en me regardant dans le miroir sur pied.
 
 }
 [sha:3242e03a8d25a5d7f2486ac7220905041eaee916]{
 -- Page 4, Offset 23118.
 -- 外は昨夜の嵐が嘘のように静かだ。
-　On n'entendait pas un bruit à l'extérieur, comme si la tempête de la veille n'avait été qu'un rêve.
+  On n'entendait pas un bruit à l'extérieur, comme si la tempête de la veille n'avait été qu'un rêve.
 
 }
 [sha:deaa25fe5f18aa6ec8bf0324a8dd620d1079113a]{
 -- Page 4, Offset 23119.
 -- 物音も、人の気配も、話し声もしない朝。
-　C'était un matin sans bruit, exempt de présence humaine ou d'écho de conversation.
+  C'était un matin sans bruit, exempt de présence humaine ou d'écho de conversation.
 
 }
 [sha:21e8ae9b085cdbe455d3edc65b18a140fa8c1568]{
 -- Page 4, Offset 23120.
 -- わたしは漠然と、ある予感を抱いたまま廊下に出た。
-　Je sortis dans le couloir, mue par un vague pressentiment.
+  Je sortis dans le couloir, mue par un vague pressentiment.
 
 }
 [sha:4af8a4557223932f2b68bba348bedce75f7f22a6]{
 -- Page 5, Offset 23121.
 -- 静かだ。
-　C'était calme.
+  C'était calme.
 
 }
 [sha:159c53661334c77ac10d70f0678f6aa3ac6884a3]{
 -- Page 5, Offset 23122.
 -- とても清潔な空気感。
-　L'air semblait particulièrement pur.
+  L'air semblait particulièrement pur.
 
 }
 [sha:fb071d19e6c7c8c8a3c2fa3f86c8b71051dda888]{
 -- Page 6, Offset 23123.
 -- 槻司の客室も清潔。
-　La chambre de Tsukiji était également propre.
+  La chambre de Tsukiji était également propre.
 
 }
 [sha:01b441ba99069c91e7b9999de66f9cd92ac87418]{
 -- Page 6, Offset 23124.
 -- 詠梨神父用の客室も清潔。
-　Celle de père Eiri aussi.
+  Celle de père Eiri aussi.
 
 }
 [sha:d3102ff4e1e2685b8300efca5d3498be91aaebea]{
 -- Page 6, Offset 23125.
 -- 律架さんの客室も清潔。
-　De même pour celle de Ritsuka.
+  De même pour celle de Ritsuka.
 
 }
 [sha:e61f8136837813a12b6a9410d3c92eb3ef35109b]{
@@ -157,97 +157,97 @@ et m'allongeai sur le lit.
 [sha:9de9e7f55130250dfb2eac74610a2eb0813dee15]{
 -- Page 7, Offset 23127.
 -- 西館に呼びかけても返事はない。
-　J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
+  J'élevai la voix en direction de l'aile ouest, mais je n'obtins aucune réponse.
 
 }
 [sha:bb0b574303b54491bb8bf029e60e3f3d738257d8]{
 -- Page 7, Offset 23128.
 -- ああ、やっぱり、予感の通り。
-　Aaah, c'était bien ce que j'avais pressenti.
+  Aaah, c'était bien ce que j'avais pressenti.
 
 }
 [sha:ddfc23fd2171f8fc929f31cd8286a0916e24fe5a]{
 -- Page 7, Offset 23129.
 -- いま、この屋敷は三咲町で一番、静かで綺麗で、終わっている。
-　Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du vieux quartier de Misaki.
+  Le manoir était actuellement le lieu le plus calme, le plus propre et le plus mort du vieux quartier de Misaki.
 
 }
 [sha:f39a256904af568d1ea36821cd6bc7db2cbe6f17]{
 -- Page 8, Offset 23130.
 -- 蒼崎を閉じこめた地下室に向かう。
-　Je me dirigeai vers la cave où était enfermée Aozaki.
+  Je me dirigeai vers la cave où était enfermée Aozaki.
 
 }
 [sha:31a1609bd87f3add161a4c3ce370ea94cdceb4f5]{
 -- Page 8, Offset 23131.
 -- 狭い階段を下りて、扉につきあたる。
-　Je descendis l'escalier étroit et me retrouvai face à la porte.
+  Je descendis l'escalier étroit et me retrouvai face à la porte.
 
 }
 [sha:0815c7b353b579a38810b7842bf878afd7256a53]{
 -- Page 8, Offset 23132.
 -- 南京錠は外側から外されていた。
-　Le cadenas avait été déverrouillé de l'extérieur.
+  Le cadenas avait été déverrouillé de l'extérieur.
 
 }
 [sha:01b096d2df72a45034f39a8b4a735ca36851df44]{
 -- Page 9, Offset 23133.
 -- 狭い地下室には、うつぶせで倒れた死体が一つ。
-　Dans la cave exiguë gisait un cadavre couché sur le ventre.
+  Dans la cave exiguë gisait un cadavre couché sur le ventre.
 
 }
 [sha:a897b9d6708eb58965fdbf2909c7d667a7ffaf07]{
 -- Page 9, Offset 23134.
 -- 彩度の高い、どこか日本人離れした長髪は、間違いなく蒼崎のものだ。
-　Ses longs cheveux foncés, qui laissaient une impression différente de ceux des Japonais, appartenaient sans aucun doute à Aozaki.
+  Ses longs cheveux foncés, qui laissaient une impression différente de ceux des Japonais, appartenaient sans aucun doute à Aozaki.
 
 }
 [sha:ce7cf45947ea5457c1d784676bb6a28e9acdab67]{
 -- Page 9, Offset 23135.
 -- 完全に呼吸は止まっている。
-　Elle ne respirait plus du tout.
+  Elle ne respirait plus du tout.
 
 }
 [sha:282e4def11c1fd0ad95c9127b1ac3e1581fdddfd]{
 -- Page 10, Offset 23136.
 -- 蒼崎は犯人ではなかった。
-　Aozaki n'était pas le coupable.
+  Aozaki n'était pas le coupable.
 
 }
 [sha:21ad610e19e4d912c25494c7014437a5fef3deaf]{
 -- Page 10, Offset 23137.
 -- 彼女が何時殺されたのかは定かではない。
-　Je n'aurais su déterminer à quelle heure elle avait été tuée.
+  Je n'aurais su déterminer à quelle heure elle avait été tuée.
 
 }
 [sha:c14b7300262e267d27bf5d85715d95b13ff50a8c]{
 -- Page 10, Offset 23138.
 -- けれど、鍵をあけ、蒼崎を笑わせた犯人は、なに食わぬ顔で地上に戻り、そして―――
-　Mais le coupable qui avait ouvert la serrure et fait rire Aozaki était revenu à la surface d'un air innocent―――
+  Mais le coupable qui avait ouvert la serrure et fait rire Aozaki était revenu à la surface d'un air innocent―――
 
 }
 [sha:b1a6cee61cbf02237a0f06e4ad59c5030e20b673]{
 -- Page 10, Offset 23139.
 -- わたしの逃げ場を塞いで、目の前に現れようとしていた。
-　puis m'avait barré le chemin et était sur le point d'apparaître devant moi.
+  puis m'avait barré le chemin et était sur le point d'apparaître devant moi.
 
 }
 [sha:7dc6cb18a1eeccefa759523882596f5edda58a8d]{
 -- Page 11, Offset 23140.
 -- ソレはわたしが地下室に入るまで、どこかに隠れていたのだろう。
-　Il devait s'être caché quelque part en attendant que j'entre dans la cave.
+  Il devait s'être caché quelque part en attendant que j'entre dans la cave.
 
 }
 [sha:e8f3f5e7235e0302661bcb09538f2a8f2bce6b5a]{
 -- Page 11, Offset 23141.
 -- 地下室の階段は一本道だ。
-　L'escalier était le seul accès.
+  L'escalier était le seul accès.
 
 }
 [sha:65f4524ae06798437d28ac0647c36bb121d5c675]{
 -- Page 11, Offset 23142.
 -- わたしが下りた後、後ろから下りればわたしを袋小路に追い詰められる。
-　Après que je fus descendue, il suffisait qu'il me suive pour m'acculer dans une impasse.
+  Après que je fus descendue, il suffisait qu'il me suive pour m'acculer dans une impasse.
 
 }
 [sha:a859057f725a56d386017c1341ae562dfb244fda]{
@@ -259,18 +259,18 @@ et m'allongeai sur le lit.
 [sha:c01861fdb838ab69b51d81136e3827d194ebf1e4]{
 -- Page 12, Offset 23144.
 -- この状況は、もう手詰まりだ。
-　Je n'avais plus aucun moyen de me sortir d'affaire.
+  Je n'avais plus aucun moyen de me sortir d'affaire.
 
 }
 [sha:8d2e127825908b1912cbcd4c55522a16b5749dd0]{
 -- Page 12, Offset 23145.
 -- ゲームは真犯人の勝ち。
-　Le vrai coupable avait gagné la partie.
+  Le vrai coupable avait gagné la partie.
 
 }
 [sha:d3696175f465dba49d9c49c4079c50ebef18edb2]{
 -- Page 12, Offset 23146.
 -- わたしは何を間違えていたのかをぼんやりと考えながら、破滅の足音に耳をかたむけた―――
-　Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
+  Tout en me demandant distraitement où je m'étais trompée, je tendis l'oreille vers les bruits de pas porteurs de mauvaise fortune―――
 
 }

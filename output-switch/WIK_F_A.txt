@@ -7,7 +7,7 @@
 [sha:6f1ac7833df2a410b8e2fd39dc8413b39109dfd6]{
 -- Page 0, Offset 21989.
 -- 蒼崎の呟きに、わたしも無言で同意する。
-　J'approuvai sans un mot le murmure d'Aozaki.
+  J'approuvai sans un mot le murmure d'Aozaki.
 
 }
 [sha:7396c6b2533a623d5807d439c4f2407c46f1f298]{
@@ -19,7 +19,7 @@
 [sha:9487e6f07d0cc01c1b6f816371b0c1e1a716fa58]{
 -- Page 1, Offset 21991.
 -- こりゃあ土砂崩れの一つも起きてもおかしくねえ。そうなりゃ陸の孤島だな、ここは」
-　Ça m'étonnerait pas qu'un éboulement de terrain se produise à ce rythme. Si jamais ça arrive, on sera vraiment isolés.」
+  Ça m'étonnerait pas qu'un éboulement de terrain se produise à ce rythme. Si jamais ça arrive, on sera vraiment isolés.」
 
 }
 [sha:87601e2aa8354359c051d7013ccfa27f7d448aa4]{
@@ -37,19 +37,19 @@
 [sha:88339543e011fb8c92c0010c454436c918f62ab4]{
 -- Page 2, Offset 21994.
 -- ま、ひとり死んでるんだから、もうひとり増えてもいいんじゃない？」
-　On a déjà un cadavre sur les bras, alors un de plus ne fera pas une grande différence.」
+  On a déjà un cadavre sur les bras, alors un de plus ne fera pas une grande différence.」
 
 }
 [sha:b386c28d8e823d31d30e281e74970ee5c42cfbfa]{
 -- Page 3, Offset 21995.
 -- わたしたちは、蒼崎、槻司、芳助の四人で固まっている。
-　Aozaki, Tsukiji, Hōsuke et moi formions un groupe de quatre.
+  Aozaki, Tsukiji, Hōsuke et moi formions un groupe de quatre.
 
 }
 [sha:175c3c3ac30f8ea43672e4be15dc9e456584a536]{
 -- Page 3, Offset 21996.
 -- 仮に、この集まりを学校組と呼ぼう。
-　Nous appellerons provisoirement cette bande le groupe de l'école.
+  Nous appellerons provisoirement cette bande le groupe de l'école.
 
 }
 [sha:1e317bf057e2644f9b977f0b521e9c332e3992bd]{
@@ -67,7 +67,7 @@
 [sha:b36de984d646e2e91bf7e47365bd5dcff9f35bd0]{
 -- Page 4, Offset 21999.
 -- ですが場所が場所ですからねぇ。おいそれと警察を呼ぶ訳にはいきません」
-　Mais compte tenu de l'endroit où nous nous trouvons, nous ne pouvons nous permettre d'appeler bêtement la police.」
+  Mais compte tenu de l'endroit où nous nous trouvons, nous ne pouvons nous permettre d'appeler bêtement la police.」
 
 }
 [sha:95aef986f0417d622e6350c185d5336a626edd2d]{
@@ -85,13 +85,13 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:5c5a76976ff0735e9dbe3f1b05ef13e9170e5e5c]{
 -- Page 5, Offset 22002.
 -- 教会組は三人で固まっている。
-　Le groupe de l'église était formé de trois personnes.
+  Le groupe de l'église était formé de trois personnes.
 
 }
 [sha:a34a5cc6666ea4cf0668459cdf4449b833948b75]{
 -- Page 5, Offset 22003.
 -- 鉄の結束力に見えて、若干、コンセンサスがとれていない模様。
-　Il avait l'air solidement uni, mais le consensus semblait quelque peu fragile.
+  Il avait l'air solidement uni, mais le consensus semblait quelque peu fragile.
 
 }
 [sha:b0f6975d1d5d9f429b1c5b6b5bfcaedcac886229]{
@@ -103,7 +103,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:8992ba219d7d6676dadc4ac6b5e21fe491a544e8]{
 -- Page 6, Offset 22005.
 -- せっかくスターが訪問してあげたのに、ろくな歓迎もなしいきなり殺人事件とか、アナタたち、礼儀ってもんがなってないんじゃない？」
-　La star vous rend visite, et non seulement l'accueil est déplorable, mais je me retrouve en plus embarquée dans une affaire de meurtre ? Je crois que ce qu'on appelle la courtoisie vous fait défaut.」
+  La star vous rend visite, et non seulement l'accueil est déplorable, mais je me retrouve en plus embarquée dans une affaire de meurtre ? Je crois que ce qu'on appelle la courtoisie vous fait défaut.」
 
 }
 [sha:f3b5975bed55d038ab961e97509cb60cc83c6c83]{
@@ -115,7 +115,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:9fdff607d5d0f31b05245540f84c9cc6bb14754a]{
 -- Page 6, Offset 22007.
 -- 人がひとり死んでいるのにお茶とお菓子を要求するのは、礼儀以前の問題ではないだろうか」
-　Une personne vient de mourir, alors demander du thé et des pâtisseries, c'est bien plus impoli, tu ne crois pas ?」
+  Une personne vient de mourir, alors demander du thé et des pâtisseries, c'est bien plus impoli, tu ne crois pas ?」
 
 }
 [sha:177163f9cd106537a58d76848529cbd152389b50]{
@@ -127,7 +127,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:b166050a3cec0bc4c018d72eb63560dc15f4f347]{
 -- Page 7, Offset 22009.
 -- 静希の首輪を掴んで、ガクガクと揺さぶるピンク女。
-　La fille en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
+  La fille en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
 
 }
 [sha:9789aeca1d756e117dd4aa40615117d63d2a06f0]{
@@ -139,7 +139,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:36bfb79b3fd4291284d383cd508e4f46f4128519]{
 -- Page 7, Offset 22011.
 -- 頸動脈に食い込んでいるのか、静希の目はうつろである。
-　Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki étaient révulsés.
+  Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki étaient révulsés.
 
 }
 [sha:f2518ecd40168ebfb275414bed34ff148aa85503]{
@@ -157,7 +157,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:1b9327c9d3ce5c975789895c9366f8b728d63455]{
 -- Page 8, Offset 22014. Glued. Mods: @x.
 -- ふん、アンタの弱点なんて分かってんだから。また返り討ちにされて、ネズミ<大|だい>の大きさにしてほしいワケ？」
-　Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
+ Pff, je connais déjà ton point faible. Tu veux encore te faire prendre à ton propre jeu et te retrouver avec la taille d'une souris ?」
 
 }
 [sha:4b33724aee3aacf76117e4bf627fbc147834cbf2]{
@@ -169,7 +169,7 @@ La scène de crime dont j'ai tant rêvé est enfin arrivéeーーー!」
 [sha:ab8e6b72cfd829e1f222c496c9471d7639c18cb7]{
 -- Page 9, Offset 22016.
 -- しょせんは産業革命の陰でポッと発生した<煤|すす>の魔女の末裔ってコト？　ほーんと、格落ち品らしい、スカスカの脳味噌だよねー」
-　Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide, à l'image de la marchandise de piètre qualité que tu es.」
+  Tu es bien la descendante des sorcières de suie apparues au cours de la révolution industrielle. Tu as la cervelle vide, à l'image de la marchandise de piètre qualité que tu es.」
 
 }
 [sha:1135b042a11346ffbd2e03629acb36734b9872b7]{
@@ -187,13 +187,13 @@ On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 [sha:41da8905f990234115db3e6427192ce8d98997e4]{
 -- Page 11, Offset 22019.
 -- 一方、ソファーに座った久遠寺さんを中心に、とにかく仲の悪いグループを洋館組と呼ぶ。
-　L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
+  L'équipe qui s'entendait mal, Kuonji assise sur le sofa en son centre, porterait le nom de groupe du manoir.
 
 }
 [sha:f8bc8bfd30c4bfcfc5b437e97b3795141f3b692a]{
 -- Page 11, Offset 22020.
 -- ピンク女、ベオ、静希は何やら揉めているけど、
-　La fille en rose, Beo et Shizuki se disputaient.
+  La fille en rose, Beo et Shizuki se disputaient.
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -205,13 +205,13 @@ On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 [sha:a03187a3326aa512240d1419112b0a20c8abc3e8]{
 -- Page 11, Offset 22022.
 -- 屋敷の主人である久遠寺さんは、さっきから思案顔で一言も発していなかった。
-　Cependant, Kuonji, la maîtresse du manoir, n'avait pas émis un son depuis un moment et arborait un air pensif.
+  Cependant, Kuonji, la maîtresse du manoir, n'avait pas émis un son depuis un moment et arborait un air pensif.
 
 }
 [sha:58c5c3c1ddec14fa12820dec463528581be54aca]{
 -- Page 11, Offset 22023.
 -- また、あの青い駒鳥の姿も消えていた。
-　Par ailleurs, l'oiseau bleu avait disparu.
+  Par ailleurs, l'oiseau bleu avait disparu.
 
 }
 [sha:5b67dae47048bf0759c7ee87500e4df694220c48]{
@@ -223,7 +223,7 @@ On a déjà un mort, alors six de plus ne devrait pas poser problème, hein ?」
 [sha:38417367b1f708377fe960d008608e07fc21adde]{
 -- Page 12, Offset 22025. Mods: @k, @e.
 -- この素敵な展開…
-　En ces superbes circonstances......
+  En ces superbes circonstances......
 
 }
 [sha:b8252195de105ebef0b0be5f90ed078e9e42e85b]{
@@ -241,19 +241,19 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:b67d18d751ff1ef08e5b9389e6252d4f864b65c7]{
 -- Page 12, Offset 22028.
 -- 状況は火を見るより明らかです。土桔由里彦氏が死亡していた事と、屋敷の電話線が消失していた事。
-　La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a été arraché.
+  La situation est claire comme de l'eau de roche. M. Tokitsu Yurihiko est décédé et le fil du téléphone a été arraché.
 
 }
 [sha:8872ff5ba67a99080558c66836b0046267ee8f90]{
 -- Page 12, Offset 22029.
 -- この二つの事件は偶然ではありません。
-　L'enchaînement de ces deux évènements ne peut pas être une coïncidence.
+  L'enchaînement de ces deux évènements ne peut pas être une coïncidence.
 
 }
 [sha:5f3c8daedbbe769aee05af880c7714051ecb19db]{
 -- Page 12, Offset 22030.
 -- これは連続した、ある人物によって引き起こされた事件と見るほうが論理的です。即ち―――」
-　Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une seule et même personne. En d'autres termes―――」
+  Il serait plus logique de penser que ces deux cas sont intrinsèquement liés et qu'ils sont dus aux actes d'une seule et même personne. En d'autres termes―――」
 
 }
 [sha:a3b6d3bcdcc6305e96e9ad2ca6842bc2ff9ff631]{
@@ -271,13 +271,13 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:7dc6b23b54274060927eca88cf600bec4fb96eca]{
 -- Page 13, Offset 22033. Mods: @k, @e.
 -- これはもう立派な殺人事件です！　そして犯人はこの中にいる！
-　Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous !
+  Ceci est bel et bien une affaire de meurtre ! Et le coupable est parmi nous !
 
 }
 [sha:66c8f6630116cfe14bf6350e9958cef916ba2f7a]{
 -- Page 13, Offset 22034. Glued. Mods: @x.
 -- といいなー！」
-　Du moins, ça serait bien !」
+Du moins, ça serait bien !」
 
 }
 [sha:00386fe09ba6b4f0e9a69229429770ea4ef0a1b6]{
@@ -295,25 +295,25 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:5792d7b7b9cc202e61f6e3b7c7edae994d5374c1]{
 -- Page 14, Offset 22037.
 -- 油断していると後ろからバッサリなんだから！
-　La moindre négligence te vaudra un coup de poignard dans le dos !
+  La moindre négligence te vaudra un coup de poignard dans le dos !
 
 }
 [sha:c147ddab4959d833ddc9a6aef003b0d05d1f4e84]{
 -- Page 14, Offset 22038.
 -- さあ、誰から<持論|じろん>を<披露|ひろう>しましょうか！」
-　Allez ! Qui veut nous faire part de ses hypothèses ?」
+  Allez ! Qui veut nous faire part de ses hypothèses ?」
 
 }
 [sha:88cf8ad962b9aff570cbad33883f770edbbf7b32]{
 -- Page 15, Offset 22039.
 -- あれほど活き活きとした律架さんを見たのは初めてだ。
-　Je n'avais jamais vu Ritsuka aussi excitée.
+  Je n'avais jamais vu Ritsuka aussi excitée.
 
 }
 [sha:df0f17990a7599d61230422a584a8120cd441ebe]{
 -- Page 15, Offset 22040.
 -- 恐怖の反動で精神が高揚しているのかもしれない。
-　Peut-être avait-elle perdu la boule à cause de la peur.
+  Peut-être avait-elle perdu la boule à cause de la peur.
 
 }
 [sha:789534e4eb0bb812242d6ca5f0b161f67f14ef40]{
@@ -337,25 +337,25 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:28a3942e5de53f15c6088a0046d01a336abc24ba]{
 -- Page 17, Offset 22044.
 -- しかし、まったくの狂言でない事も理解してください。
-　Mais comprenez que ce n'est en aucun cas de la comédie.
+  Mais comprenez que ce n'est en aucun cas de la comédie.
 
 }
 [sha:94647f6e688449738a707f7b97854d845c6c1f3d]{
 -- Page 17, Offset 22045.
 -- 土桔氏を殺害した犯人がこの中にいる、というのは先走りすぎですが、状況の整理は必要でしょう」
-　Il est encore trop tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
+  Il est encore trop tôt pour se prononcer et affirmer que le meurtrier de M. Tokitsu se trouve parmi nous, mais il s'avère tout de même indispensable de remettre de l'ordre dans nos idées.」
 
 }
 [sha:0ca847223c5a6a50e82cf1ba4294146a2f5f7b58]{
 -- Page 18, Offset 22046.
 -- 反論する理由はない。
-　Je n'avais aucune raison d'objecter.
+  Je n'avais aucune raison d'objecter.
 
 }
 [sha:8ce3a49646b1c4d368a87a2a918ced2a74eb272f]{
 -- Page 18, Offset 22047.
 -- 詠梨神父の仕切りで状況整理が始まった。
-　Le résumé de la situation commença sous la tutelle de père Eiri.
+  Le résumé de la situation commença sous la tutelle de père Eiri.
 
 }
 [sha:8ab1625119f9e1b6a535af94392fa83952cc757c]{
@@ -367,25 +367,25 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:f91710e8a2df213c4487a097a3d0cffeaad70025]{
 -- Page 19, Offset 22049.
 -- あの部屋は鍵がなくて、誰でも入れる状況だった。
-　Cette pièce n'a pas de serrure et n'importe qui pouvait y entrer.
+  Cette pièce n'a pas de serrure et n'importe qui pouvait y entrer.
 
 }
 [sha:94184eb7b8a6736a05e2811103a9178943d59016]{
 -- Page 19, Offset 22050.
 -- この中で土桔の爺さんが屋根裏に向かうところを見た人、あるいは相談された人はいる？」
-　Quelqu'un parmi nous a-t-il vu le vieux Tokitsu se diriger vers le grenier ou en a-t-il discuté avec lui ?」
+  Quelqu'un parmi nous a-t-il vu le vieux Tokitsu se diriger vers le grenier ou en a-t-il discuté avec lui ?」
 
 }
 [sha:a92ff965be3663ea0881ed4c8df11aa2dc68aa9e]{
 -- Page 20, Offset 22051.
 -- <挙手|きょしゅ>はない。
-　Personne ne leva la main.
+  Personne ne leva la main.
 
 }
 [sha:853a8ca6ce8ca8cdaf3291505c109ac4333d8b2a]{
 -- Page 20, Offset 22052.
 -- 土桔氏はひとりで、誰にも内緒で屋根裏部屋に入ったか、あるいは犯人に連れこまれたのだ。
-　Soit M. Tokitsu s'était rendu seul au grenier, en toute discrétion, soit le coupable l'y avait conduit.
+  Soit M. Tokitsu s'était rendu seul au grenier, en toute discrétion, soit le coupable l'y avait conduit.
 
 }
 [sha:68c378e3540544682aeb0148f2ebf8d01be5a89b]{
@@ -397,7 +397,7 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:a987996c0afd672bc7ad9dbe7b9aa3023ab3df8d]{
 -- Page 21, Offset 22054.
 -- 私たち三人は夕方から入館しましたが、その時点で土桔氏の姿を見てはいません」
-　À notre arrivée à la soirée, nous ne l'avons pas vu.」
+  À notre arrivée à la soirée, nous ne l'avons pas vu.」
 
 }
 [sha:d9428904266fdabf7e6a456ed20ad21feae19897]{
@@ -409,31 +409,31 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:2aaf8d5e6b8233d165a1a84697e807139d7ff535]{
 -- Page 21, Offset 22056.
 -- 有珠ちゃんの隣を奪い合ったから、これは間違いない。
-　Je me souviens de m'être battu avec lui pour être à côté d'Alice à midi, alors je suis sûr de moi.
+  Je me souviens de m'être battu avec lui pour être à côté d'Alice à midi, alors je suis sûr de moi.
 
 }
 [sha:4d2c442cb30e1987c14fc01df0d9187b7f058b03]{
 -- Page 21, Offset 22057.
 -- でも……そうだ、あの爺さん、時計を見て“時間だ”とか呟いて、居間から出ていったんだっけ」
-　Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
+  Mais attendez...... Je me souviens ! Le vieux a murmuré un truc du genre “c'est l'heure” après avoir regardé l'horloge, puis il a quitté le salon.」
 
 }
 [sha:1c271addb891950aafe31dec3e3c05682cbab6e7]{
 -- Page 22, Offset 22058.
 -- 芳助はああ見えて、記憶力はいい。
-　Malgré les apparences, Hōsuke avait une excellente mémoire.
+  Malgré les apparences, Hōsuke avait une excellente mémoire.
 
 }
 [sha:199bb74b5e234b4489303a46ebffade4fa355d47]{
 -- Page 22, Offset 22059.
 -- 勉強以外の、おもにどうでもいい方面で。
-　Même si elle n'était effective qu'en dehors des études, dans des domaines relativement inutiles.
+  Même si elle n'était effective qu'en dehors des études, dans des domaines relativement inutiles.
 
 }
 [sha:6c1234d2535ee0ce6af0ae3c28b45871dbb30a2c]{
 -- Page 22, Offset 22060.
 -- 結局、芳助の目撃談が土桔氏を見た最後の証言になった。
-　Finalement, il fut admis que Hōsuke était la dernière personne à avoir vu M. Tokitsu.
+  Finalement, il fut admis que Hōsuke était la dernière personne à avoir vu M. Tokitsu.
 
 }
 [sha:cc87adaa7027424a7dc41c59acc41b34d2d0cdf1]{
@@ -445,25 +445,25 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:9ad0c44bd383f4141e595075231e1579c92555d4]{
 -- Page 24, Offset 22062.
 -- そう。不在から発見までの時間帯が長すぎるのだ。
-　En effet, la période entre sa disparition et la découverte de son corps était trop longue.
+  En effet, la période entre sa disparition et la découverte de son corps était trop longue.
 
 }
 [sha:3783c222def81cd1326de3e3cd8fd9963bc5dc42]{
 -- Page 24, Offset 22063.
 -- 午後に来たわたしや蒼崎、山城先生でさえ、何度かトイレやら休憩やらで席を立っている。
-　Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou nous reposer.
+  Même Aozaki, le professeur Yamashiro ou moi, qui étions arrivés dans l'après-midi, avions quitté notre siège à plusieurs reprises pour aller aux toilettes ou nous reposer.
 
 }
 [sha:b20c45b2e30919da4d6dc4e947baf5edc551cb9d]{
 -- Page 24, Offset 22064.
 -- 五分から十分程度なら、ひとりでいる時間が誰にでもあったという事だ。
-　En d'autres termes, tout le monde s'était retrouvé seul à un moment donné, pendant cinq ou dix minutes.
+  En d'autres termes, tout le monde s'était retrouvé seul à un moment donné, pendant cinq ou dix minutes.
 
 }
 [sha:17a40317918c3fbaf007b84ca1167b8a6f14b425]{
 -- Page 24, Offset 22065.
 -- ずっと誰かといた―――ずっとこの場所にいたのは、久遠寺さんだけである。
-　La seule personne qui avait toujours été accompagnée et était restée dans cette pièce était Kuonji.
+  La seule personne qui avait toujours été accompagnée et était restée dans cette pièce était Kuonji.
 
 }
 [sha:68ef5a6c22bd9c35c5154e19a9338ecbed5b195e]{
@@ -481,7 +481,7 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:8b1072746e8a57212a2dee5061b689cc9bbf3103]{
 -- Page 26, Offset 22068.
 -- ここはアリバイより動機、あるいは凶器について話しあいますか」
-　Au lieu de l'alibi, parlons donc plutôt du mobile ou de l'arme du crime.」
+  Au lieu de l'alibi, parlons donc plutôt du mobile ou de l'arme du crime.」
 
 }
 [sha:4768e61311f55498b9480411872f3cdcef191744]{
@@ -493,13 +493,13 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:bf26036b83b9574cee86dfc6558a15498edd9e55]{
 -- Page 27, Offset 22070.
 -- むしろ外部による犯行とした方が通りがいい。土桔の爺さんはあれで大企業のトップですからね。親族による利権がらみで殺された、ってのが普通の考えでしょう。
-　Au contraire, il serait plus raisonnable de penser à un meurtrier venu de l'extérieur. Après tout, le vieux Tokitsu restait à la tête d'une grosse entreprise, malgré les apparences. On pourrait facilement supposer qu'il a été tué pour quelques privilèges par quelqu'un de sa famille.
+  Au contraire, il serait plus raisonnable de penser à un meurtrier venu de l'extérieur. Après tout, le vieux Tokitsu restait à la tête d'une grosse entreprise, malgré les apparences. On pourrait facilement supposer qu'il a été tué pour quelques privilèges par quelqu'un de sa famille.
 
 }
 [sha:eec9db42eae8a533a56cb2fc71aaad1eefe89308]{
 -- Page 27, Offset 22071.
 -- なんで、動機をあれこれ想像するのも無駄骨かと」
-　Il serait peine perdue de commencer à imaginer les mobiles possibles.」
+  Il serait peine perdue de commencer à imaginer les mobiles possibles.」
 
 }
 [sha:2c462dc2ad934fbf0d616632f4308c453c0787bc]{
@@ -523,7 +523,7 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:763dfbd1e6de71d5a03842b0273516de6b934e52]{
 -- Page 28, Offset 22075.
 -- 幸い、凶器はハッキリしていますから。詠梨神父は気付いていますか？」
-　Par chance, l'arme du crime est évidente. Vous l'avez remarquée, père Eiri ?」
+  Par chance, l'arme du crime est évidente. Vous l'avez remarquée, père Eiri ?」
 
 }
 [sha:3e43ffe92cad8cf26a14b6f6c309ae8a8c8bc558]{
@@ -535,24 +535,24 @@ en ces circonstances anormales, ce n'est pas le moment de se bagarrer !
 [sha:1b1862fa9d08665a39ac452e8576f5e61c8a91fc]{
 -- Page 29, Offset 22077.
 -- 皆さんは分かりますか？」
-　Est-ce que tout le monde a compris ?」
+  Est-ce que tout le monde a compris ?」
 
 }
 [sha:d59e137f5ee55da11d626d1ad5593c7c971ff64b]{
 -- Page 30, Offset 22078.
 -- 詠梨神父はこの場にいる全員の顔を観察しながら、意地の悪い質問をした。
-　Père Eiri observa le visage de toutes les personnes présentes dans la pièce en posant une question mesquine.
+  Père Eiri observa le visage de toutes les personnes présentes dans la pièce en posant une question mesquine.
 
 }
 [sha:8143d3997a0fd4d6c6888aec1171d0ab974b07c6]{
 -- Page 30, Offset 22079.
 -- 土桔由里彦を殺害せしめた手段はなにか？
-　Quelle méthode avait été utilisée pour assassiner Tokitsu Yurihiko ?
+  Quelle méthode avait été utilisée pour assassiner Tokitsu Yurihiko ?
 
 }
 [sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
 -- Page 30, Offset 22080.
 -- わたしは―――
-　Je―――
+  Je―――
 
 }

@@ -1,31 +1,31 @@
 [sha:3b06f90664a10c9fdb452fad928f4e9f92248d62]{
 -- Page 0, Offset 15613.
 -- 礼拝堂の明かりは、懐かしい油の匂いがした。
-　Les lampes de la chapelle dégageaient une nostalgique odeur d'huile.
+  Les lampes de la chapelle dégageaient une nostalgique odeur d'huile.
 
 }
 [sha:5355e0ffff4236fa2816447387a6df5c1c555755]{
 -- Page 0, Offset 15614.
 -- 高い天井。
-　Le plafond était haut,
+  Le plafond était haut,
 
 }
 [sha:8f84ae329d749b10e58796070cfcb145f4931b36]{
 -- Page 0, Offset 15615.
 -- 壁一面の装飾硝子。
-　et des vitraux décoraient les murs.
+  et des vitraux décoraient les murs.
 
 }
 [sha:ae49812ccc6ebf657eca71390e2b317f810d8699]{
 -- Page 0, Offset 15616.
 -- あまりにも<白々|しらじら>しく神々しい、聖霊の実在を証明する為の舞台装置。
-　Ces dispositifs théâtraux effrontés et divins servaient à prouver l'existence du Saint-Esprit.
+  Ces dispositifs théâtraux effrontés et divins servaient à prouver l'existence du Saint-Esprit.
 
 }
 [sha:955830af122821cebca2329ccc804faacbde8845]{
 -- Page 0, Offset 15617.
 -- 久遠寺邸のホールと同じく、礼拝堂にも暖房器具のたぐいは一切ない。<軋|きし>むような寒さが、礼拝堂をより厳格な空間へと変えている。
-　Comme le vestibule du manoir Kuonji, l'intérieur de la chapelle était dépourvu de chauffage. Le froid cinglant donnait à la nef un aspect encore plus austère.
+  Comme le vestibule du manoir Kuonji, l'intérieur de la chapelle était dépourvu de chauffage. Le froid cinglant donnait à la nef un aspect encore plus austère.
 
 }
 [sha:f0e703f8ffe75da769a1abeed0e47050d9d2625e]{
@@ -37,13 +37,13 @@
 [sha:c361ef0929beee4a83e3ab91a84aca3b4af12bc6]{
 -- Page 1, Offset 15619.
 -- そんな礼拝堂で、やや場違いな声が響いた。
-　Dans la chapelle retentit une voix un peu déplacée en ces lieux.
+  Dans la chapelle retentit une voix un peu déplacée en ces lieux.
 
 }
 [sha:0cf37bbd30495fd3b5005944d9a63e7abba82def]{
 -- Page 1, Offset 15620.
 -- 柔らかな女性の声だ。
-　La voix douce d'une femme.
+  La voix douce d'une femme.
 
 }
 [sha:a2d5f09026a89f170b11556f46ec67721a7e55bc]{
@@ -55,13 +55,13 @@
 [sha:27efd53ee3d9f4692ecaf6f85f617d46263d1dee]{
 -- Page 2, Offset 15622.
 -- 有珠は奥の祭壇に向かって、長椅子の葬列を横断する。
-　Alice se dirigea vers l'autel du fond et traversa le cortège funèbre que représentaient les bancs.
+  Alice se dirigea vers l'autel du fond et traversa le cortège funèbre que représentaient les bancs.
 
 }
 [sha:92fbc708ab0cc12ecf145a48194ead319b70fe01]{
 -- Page 2, Offset 15623.
 -- 草十郎も扉を閉めて、その背中を追いかけた。
-　Sōjūrō ferma la porte et la suivit.
+  Sōjūrō ferma la porte et la suivit.
 
 }
 [sha:d09b4c84919ff03afaed9e2b5b4fa86bf86636a9]{
@@ -91,13 +91,13 @@
 [sha:fae286d01b7c55814aade76f126325fa6bbf4e34]{
 -- Page 4, Offset 15628.
 -- 有珠の紹介を受けて顔をだす草十郎と、女性の驚きが重なる。
-　Comme Alice le présentait, Sōjūrō releva la tête en même temps que la surprise s'empara de la femme.
+  Comme Alice le présentait, Sōjūrō releva la tête en même temps que la surprise s'empara de la femme.
 
 }
 [sha:fff89f4c0bb7694186f2d65fcd3220967030b688]{
 -- Page 4, Offset 15629.
 -- ふたりはまじまじと、ここに居るはずのない顔を眺めるのだった。
-　Chacun d'eux dévisageait une personne qui n'aurait pas dû être là.
+  Chacun d'eux dévisageait une personne qui n'aurait pas dû être là.
 
 }
 [sha:1763d3c2e14c30aad7bcb9d5d332bd346770f37b]{
@@ -115,19 +115,19 @@
 [sha:2506c6571f3eb1686d408acdbfa5125b40ad773c]{
 -- Page 5, Offset 15632.
 -- 草十郎さん、引っ越したって話だけど……もしかしてアッちゃんのところに下宿してるの？」
-　Sōjūrō, tu m'as dit avoir déménagé, mais...... tu loges chez Al ?」
+  Sōjūrō, tu m'as dit avoir déménagé, mais...... tu loges chez Al ?」
 
 }
 [sha:d6c43a5ae074c32d37d74a7caac9794ef9963f1f]{
 -- Page 5, Offset 15633.
 -- はい、とうなずく草十郎。
-　“Oui”, acquiesça Sōjūrō.
+  “Oui”, acquiesça Sōjūrō.
 
 }
 [sha:f0ebc885f9d68ed41773ca97803b4e0bb0eb5f13]{
 -- Page 5, Offset 15634.
 -- 予想外の展開に、有珠の機嫌は目に見えて悪くなる。
-　L'humeur d'Alice s'assombrit à vue d'œil face à ce développement inattendu.
+  L'humeur d'Alice s'assombrit à vue d'œil face à ce développement inattendu.
 
 }
 [sha:61cde5a5355655a9122fde71b218cad45107c013]{
@@ -145,19 +145,19 @@
 [sha:b6a44dc73be24a39d2082bfd6fd742c02639eea8]{
 -- Page 6, Offset 15637.
 -- お魚屋さんでしょっちゅう割引してもらったり、
-　Je lui demande souvent de me faire des réductions chez le marchand de poissons,
+  Je lui demande souvent de me faire des réductions chez le marchand de poissons,
 
 }
 [sha:f9e164037ca0d70f0ccf8ec3bc33a109bfc1372c]{
 -- Page 6, Offset 15638.
 -- 荷物持ちを頼んでみたり、
-　ou de m'aider à porter mes affaires,
+  ou de m'aider à porter mes affaires,
 
 }
 [sha:f6caded7a39e2f694a612b41bb3cde02a21d6e54]{
 -- Page 6, Offset 15639.
 -- たまにお茶飲んだりする……主婦の友、みたいな？」
-　et parfois, on boit le thé ensemble...... On est comme des amies femmes au foyer ?」
+  et parfois, on boit le thé ensemble...... On est comme des amies femmes au foyer ?」
 
 }
 [sha:37dfb0aabbd4450a19fb099ea870eb1718b4178a]{
@@ -169,7 +169,7 @@
 [sha:6ff8dfa4654a598b896f3f6de39d9c6e7cb6d4ff]{
 -- Page 6, Offset 15641.
 -- 無論、草十郎も主婦ではないのだが、今は自分のコトより彼女の既婚問題の方が重要らしかった。
-　Bien sûr, Sōjūrō n'était pas une femme au foyer non plus, mais pour le moment, la question du mariage de la femme semblait passer avant lui.
+  Bien sûr, Sōjūrō n'était pas une femme au foyer non plus, mais pour le moment, la question du mariage de la femme semblait passer avant lui.
 
 }
 [sha:4125322a1d943be206e52b11e28a8d9efd7827c9]{
@@ -193,7 +193,7 @@
 [sha:420cf079f7bf3b144a93e1cea1da432975b90e9a]{
 -- Page 8, Offset 15645.
 -- じゃ、その信頼に応えてホントのコト言うと、彼とは町内会の顔見知りよ。スパイ行為とかそういうんじゃないし、そもそもそんな器用な人じゃないでしょ、草十郎さんは」
-　Alors, pour respecter cette confiance, je vais te dire la vérité. On se voit à l'association du quartier. Mais ne va pas croire que c'est un espion. En plus, Sōjūrō n'est pas assez futé pour ça, pas vrai ?」
+  Alors, pour respecter cette confiance, je vais te dire la vérité. On se voit à l'association du quartier. Mais ne va pas croire que c'est un espion. En plus, Sōjūrō n'est pas assez futé pour ça, pas vrai ?」
 
 }
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
@@ -211,13 +211,13 @@ Vraiment ?」
 [sha:7dd5c3f28748acf396bc9ae23766fe2451c547b9]{
 -- Page 8, Offset 15648.
 -- ジトっとした目で草十郎を見据える有珠。
-　Alice fixa longuement Sōjūrō.
+  Alice fixa longuement Sōjūrō.
 
 }
 [sha:0973f6c705f8a80cc377caf03da23508ae7cec29]{
 -- Page 8, Offset 15649. Glued. Mods: @x.
 -- 批難の目というより、隠し事をされて怒っているような目だ。
-Ce n'était pas véritablement un regard de reproche, elle semblait plutôt être en colère qu'on lui ait fait des cachotteries.
+ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt être en colère qu'on lui ait fait des cachotteries.
 
 }
 [sha:6b26b106afdd4795dc86e6b29fd043cab8e7e24c]{
@@ -229,7 +229,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:575daf42567a94370f28e7eae0d6604db9c76564]{
 -- Page 9, Offset 15651.
 -- 前に親切にしてもらったんで、お礼に鰯を一匹サービスしたら、それ以来ごひいきに」
-　Il y a quelque temps, elle m'a rendu un service, alors je lui ai fait cadeau d'une sardine en remerciement. Et depuis, elle revient tout le temps.」
+  Il y a quelque temps, elle m'a rendu un service, alors je lui ai fait cadeau d'une sardine en remerciement. Et depuis, elle revient tout le temps.」
 
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
@@ -247,7 +247,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:eb67c6e6f9b1ca7aee7c5c089dcadf51637edf40]{
 -- Page 9, Offset 15654.
 -- アッちゃんも怒るぐらいなら買い物に来ればいいのに。ひそかな商店街のアイドルです、彼」
-　Si ça t'énerve, tu devrais venir faire des courses. C'est la star secrète du quartier marchand.」
+  Si ça t'énerve, tu devrais venir faire des courses. C'est la star secrète du quartier marchand.」
 
 }
 [sha:68c2cea6880d4410406782ce63ea3d44681fce7c]{
@@ -259,13 +259,13 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:9b1b98e819e46263e9100239232557ec3447dad4]{
 -- Page 10, Offset 15656.
 -- ある意味人気者なのだが、それは置いておいて。
-　Dans un certain sens, ce genre de personne est populaire, mais laissons ça de côté.
+  Dans un certain sens, ce genre de personne est populaire, mais laissons ça de côté.
 
 }
 [sha:91fb0a2892d3de46c943dbb2373c2be8042c1bca]{
 -- Page 10, Offset 15657.
 -- 気を取り直し、有珠は奥のドアに視線を向けた。
-　Alice se ressaisit et orienta son regard vers la porte du fond.
+  Alice se ressaisit et orienta son regard vers la porte du fond.
 
 }
 [sha:dcd32c312d7282f5e6be635379e801828fd53a3c]{
@@ -277,7 +277,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:164cc0b7bd11e5f22fb7afd6d216581b3e28f92b]{
 -- Page 11, Offset 15659.
 -- その他に説明は要りますか」
-　Avez-vous besoin d'autres détails, Ritsuka ?」
+  Avez-vous besoin d'autres détails, Ritsuka ?」
 
 }
 [sha:1039d9de333c7738cf50a160618abee71e5dfccc]{
@@ -289,13 +289,13 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:e5b771b9ad108f7c9a39a85002f2c0979b6bb54c]{
 -- Page 11, Offset 15661.
 -- ええ、了解したわ。他ならぬアッちゃんの頼みだし、特殊な例だけど、彼はこちらで保護しましょう！」
-　Bien, c'est entendu. Puisque cette demande ne vient de nulle autre que toi, exceptionnellement, nous le garderons sous notre protection !」
+  Bien, c'est entendu. Puisque cette demande ne vient de nulle autre que toi, exceptionnellement, nous le garderons sous notre protection !」
 
 }
 [sha:ed4760893bc236b64474fcdfdb3d138176add5e6]{
 -- Page 11, Offset 15662.
 -- 律架の答えにうなずいて、有珠は奥のドアへと歩きだした。
-　Alice acquiesça et se mit en marche vers la porte du fond.
+  Alice acquiesça et se mit en marche vers la porte du fond.
 
 }
 [sha:21a7040aa34224c5e463d74f98bc2661e0518eb7]{
@@ -313,7 +313,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:3cdca79f00e3167d580e08b83bc81718bae9ae1a]{
 -- Page 12, Offset 15665.
 -- 有珠の後を追う草十郎を、割り入って止める律架。
-　Ritsuka stoppa Sōjūrō qui allait suivre Alice en se plaçant devant lui.
+  Ritsuka stoppa Sōjūrō qui allait suivre Alice en se plaçant devant lui.
 
 }
 [sha:ee9d225be0fd491d51f9f78d2d96c2bcb56e875d]{
@@ -325,13 +325,13 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:f5511f121c2272df0b869df96d57014a501d52a8]{
 -- Page 13, Offset 15667.
 -- ぴしゃりと律架は言い放つ。
-　déclara vivement Ritsuka.
+  déclara vivement Ritsuka.
 
 }
 [sha:0c2725633673bccb2f43a11cd1bd894e8ca3d0e4]{
 -- Page 13, Offset 15668.
 -- 立ち止まっている草十郎をよそに、有珠はドアを開け、礼拝堂の奥に行ってしまった。
-　Sans attendre Sōjūrō, Alice ouvrit la porte et se dirigea vers le fond de la chapelle.
+  Sans attendre Sōjūrō, Alice ouvrit la porte et se dirigea vers le fond de la chapelle.
 
 }
 [sha:6b00f5b1dd1239233eb46a387423e992f0582f26]{
@@ -349,31 +349,31 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:0de83604e61f8aaa7f90f6fca2256247c911226c]{
 -- Page 14, Offset 15671.
 -- それとも……イヤな思いをしてもいいくらい、青子が心配なのかしら？」
-　Ou alors...... ton inquiétude pour elle est-elle assez forte pour que tu vives une expérience déplaisante ?」
+  Ou alors...... ton inquiétude pour elle est-elle assez forte pour que tu vives une expérience déplaisante ?」
 
 }
 [sha:404a18671d9ada984b1bdcaf767f81c91609e4cc]{
 -- Page 15, Offset 15672.
 -- 律架の問いかけに、草十郎はすぐには答えられなかった。
-　Sōjūrō ne put répondre tout de suite à la question de Ritsuka.
+  Sōjūrō ne put répondre tout de suite à la question de Ritsuka.
 
 }
 [sha:e23c51f64d15e75e33a5ed68124030e8410cb080]{
 -- Page 15, Offset 15673.
 -- ……青子が良くない状況である事は分かっている。
-　...... Il savait qu'Aoko était dans un état préoccupant.
+  ...... Il savait qu'Aoko était dans un état préoccupant.
 
 }
 [sha:216603fb38ae8c26c4046f6d50614b8c7445dfed]{
 -- Page 15, Offset 15674.
 -- 有珠の様子から察して、有珠以上の傷を負っているのかもしれない。
-　À en juger par le comportement d'Alice, elle avait peut-être des blessures encore plus graves que cette dernière.
+  À en juger par le comportement d'Alice, elle avait peut-être des blessures encore plus graves que cette dernière.
 
 }
 [sha:3e397e60e92471306c960c7eb10647ab6b6097dd]{
 -- Page 16, Offset 15675.
 -- そこまで承知していて、草十郎には青子のまいっている顔を想像できなかった。
-　Malgré tout, Sōjūrō n'arrivait pas à s'imaginer le visage vaincu d'Aoko.
+  Malgré tout, Sōjūrō n'arrivait pas à s'imaginer le visage vaincu d'Aoko.
 
 }
 [sha:79c707535639224a21d5362f31381e2fa1970fcf]{
@@ -385,7 +385,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:8b3cd441a9f6d5047a85b8e8062d36ca25c94ad4]{
 -- Page 16, Offset 15677.
 -- だから、本当の意味での心配を、彼はしていなかったのだ。
-　Voilà pourquoi il n'était pas inquiet dans le vrai sens du terme.
+  Voilà pourquoi il n'était pas inquiet dans le vrai sens du terme.
 
 }
 [sha:e736790120e29948ad71d9d93ed605548750a284]{
@@ -403,19 +403,19 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:a6ae90ff2c304c97fffa193d5ea0c1dcf1b56c50]{
 -- Page 17, Offset 15680.
 -- 律架の言葉に、草十郎は反射的に答えた。
-　Sōjūrō répondit par réflexe aux paroles de Ritsuka.
+  Sōjūrō répondit par réflexe aux paroles de Ritsuka.
 
 }
 [sha:06b10140d145cfa0bc640968c70ca9c1345c2405]{
 -- Page 17, Offset 15681. Mods: @n.
 -- 少年の未熟な勘違いにため息をつきながら、
-　Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience
+  Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience
 
 }
 [sha:d32be700bf041e7f23341ef51e5fe7619ae8a7a4]{
 -- Page 17, Offset 15682. Glued.
 -- 仕方なく律架は道を譲る。
-et lui céda le passage à contrecœur.
+ et lui céda le passage à contrecœur.
 
 }
 [sha:7be9e4278b77eea3e05bfcc61685aa671c052a44]{
@@ -427,25 +427,25 @@ et lui céda le passage à contrecœur.
 [sha:03427330599f7cf354a76915caf9485b78a39efa]{
 -- Page 18, Offset 15684.
 -- 有珠さんが使ったドアから入って、四番目の部屋よ。
-　C'est la quatrième chambre en prenant la porte qu'Alice a empruntée.
+  C'est la quatrième chambre en prenant la porte qu'Alice a empruntée.
 
 }
 [sha:a89f5a273f5c6680569b753b4d8790fbd5520edf]{
 -- Page 18, Offset 15685.
 -- いま一番とりこんでる頃だから、ユイちゃんの邪魔だけはしないように」
-　On doit en être au moment où Yui a besoin de toute sa concentration, alors fais attention à ne pas te mettre dans ses pattes.」
+  On doit en être au moment où Yui a besoin de toute sa concentration, alors fais attention à ne pas te mettre dans ses pattes.」
 
 }
 [sha:4fc59c9568108e9da5f4e176f7babf68a7b65e21]{
 -- Page 19, Offset 15686.
 -- 律架に礼を言って、草十郎は有珠の後を追った。
-　Sōjūrō la remercia et suivit Alice.
+  Sōjūrō la remercia et suivit Alice.
 
 }
 [sha:94ae8c84ad0baecd8ac5337d838f1cfe410c65da]{
 -- Page 19, Offset 15687.
 -- 礼拝堂には自称・近所のお姉さんである<周|す><瀬|せ>律架だけが残される。
-　Dans la chapelle, il ne restait plus que Suse Ritsuka, autoproclamée grande sœur du voisinage.
+  Dans la chapelle, il ne restait plus que Suse Ritsuka, autoproclamée grande sœur du voisinage.
 
 }
 [sha:7c7f60c7b9a9b56e9422a5e90a0e52dff3c357d6]{
@@ -457,438 +457,438 @@ et lui céda le passage à contrecœur.
 [sha:72b63cbab8bdcfffc92b91eac7ddb19620cf9b21]{
 -- Page 20, Offset 15689.
 -- 少々スパルタと自覚しておりますが、これも親切な姉心と思って、草十郎さんには後悔していただきましょう！」
-　Je reconnais être quelque peu spartiate, mais cela fait aussi partie de la bienveillance propre à une grande sœur. Faisons en sorte que Sōjūrō regrette sa décision !」
+  Je reconnais être quelque peu spartiate, mais cela fait aussi partie de la bienveillance propre à une grande sœur. Faisons en sorte que Sōjūrō regrette sa décision !」
 
 }
 [sha:80bfdd71b1245508e4db5ae9e965f40dec4f299f]{
 -- Page 20, Offset 15690.
 -- 力強く断言するも、もちろん、礼拝堂には律架しかいない。
-　déclarait-elle avec force, mais évidemment, personne d'autre ne se trouvait dans la chapelle.
+  déclarait-elle avec force, mais évidemment, personne d'autre ne se trouvait dans la chapelle.
 
 }
 [sha:9e09171453aaf7b4911c578a0d5311fe54b369b4]{
 -- Page 20, Offset 15691.
 -- やれやれと肩をすくめながら、律架は不信心に十字を切る。
-　Ritsuka haussa les épaules et fit le signe de la croix pour expier son acte impie.
+  Ritsuka haussa les épaules et fit le signe de la croix pour expier son acte impie.
 
 }
 [sha:a3cdbb14b55ceb7c63cd129d17f3134153b65399]{
 -- Page 21, Offset 15692.
 -- ……遠くなっていく足音。
-　...... Les bruits de pas se faisaient lointains.
+  ...... Les bruits de pas se faisaient lointains.
 
 }
 [sha:a7900592f851a6ebb63623a94f67e9abe157585e]{
 -- Page 21, Offset 15693.
 -- その<躊躇|ためらい>のなさが、律架には痛ましい。
-　Ritsuka trouva ce manque d'hésitation pitoyable,
+  Ritsuka trouva ce manque d'hésitation pitoyable,
 
 }
 [sha:1c6a0e9e822f8416ebfefa6ed440aeb10dc23bb2]{
 -- Page 21, Offset 15694.
 -- なぜなら、少年が振り向かないのは迷いがないからではなく。
-　car si le garçon ne se retournait pas, ce n'était pas parce que la peur ne l'habitait pas,
+  car si le garçon ne se retournait pas, ce n'était pas parce que la peur ne l'habitait pas,
 
 }
 [sha:8b63e3af846d9dd554c2c24d211416747219beb4]{
 -- Page 21, Offset 15695.
 -- 彼本人が意識していない根本的な恐れから、ただ目を逸らしているだけなのだから。
-　mais simplement parce qu'il détournait les yeux de la crainte fondamentale dont il n'avait pas conscience.
+  mais simplement parce qu'il détournait les yeux de la crainte fondamentale dont il n'avait pas conscience.
 
 }
 [sha:091ae98e3966835cd862ba62873067852913b5b9]{
 -- Page 22, Offset 15696.
 -- 老人は語った。
-　　　　　　　　　　　　　　　　　　　Voilà ce que le vieillard lui avait confié :
+                                      Voilà ce que le vieillard lui avait confié :
 
 }
 [sha:f2eea442b31410c6e5f2121e6a84fcabf6cba627]{
 -- Page 23, Offset 15697.
 -- 生き物の死と、人間の死は違うもんだ。
-　La mort d'un animal et la mort d'un homme sont deux choses bien distinctes.
+  La mort d'un animal et la mort d'un homme sont deux choses bien distinctes.
 
 }
 [sha:16cf271146479c430d3ec0490e067fc297801e18]{
 -- Page 23, Offset 15698.
 -- 同じように思えるかもしれないが、もう根本からぜんぜん違う。
-　Ça peut paraître semblable, mais c'est fondamentalement différent.
+  Ça peut paraître semblable, mais c'est fondamentalement différent.
 
 }
 [sha:0c98896b08d56ede46b03d36ecf1bdb17b8aa8bb]{
 -- Page 23, Offset 15699.
 -- オレたちの<頭|ココ>は、はじめからそういう<区|・><別|・>をするように出来ている。
-　Notre esprit est conçu pour faire instinctivement la distinction.
+  Notre esprit est conçu pour faire instinctivement la distinction.
 
 }
 [sha:3aa7f6057ef15c1b9519aa3e3944c6508073d48e]{
 -- Page 24, Offset 15700.
 -- 鹿だの豚だのの<死骸|しがい>と、<同|・><じ|・><生|・><き|・><物|・>の死骸は違う。
-　Le cadavre d'un cerf ou d'un porc n'a rien à voir avec celui d'un membre de ton espèce.
+  Le cadavre d'un cerf ou d'un porc n'a rien à voir avec celui d'un membre de ton espèce.
 
 }
 [sha:8d50fee057506048572b0765f6781425565a7381]{
 -- Page 24, Offset 15701. Mods: @n.
 -- 鉈だの斧だのを振るうのが暴力なら、
-　Si on parle de violence lorsqu'on agite la serpe ou la hache,
+  Si on parle de violence lorsqu'on agite la serpe ou la hache,
 
 }
 [sha:0d77c428e4292ee0bd2e98b9154b1546da5d67ea]{
 -- Page 24, Offset 15702. Glued.
 -- 人間の死骸ってのも否応なしの暴力だ。
-　alors voir le cadavre d'un humain représente une violence qui t'est imposée.
+  alors voir le cadavre d'un humain représente une violence qui t'est imposée.
 
 }
 [sha:f93e924c85ad90b145a625eb126440a753893476]{
 -- Page 24, Offset 15703.
 -- なんで、そういうモンに出遭う前に、言葉でだけでも知っておけばいい。
-　Alors, avant d'en faire l'expérience, apprends-le au moins par les mots.
+  Alors, avant d'en faire l'expérience, apprends-le au moins par les mots.
 
 }
 [sha:e6b49719224702c29a5eac45b6b96d36400574cd]{
 -- Page 25, Offset 15704.
 -- いいかい草<十|ぼうず>郎。
-　Écoute bien, gamin.
+  Écoute bien, gamin.
 
 }
 [sha:f5b33689652589807cc5e02c919a25cad4a14cf1]{
 -- Page 25, Offset 15705.
 -- 人が死ぬ時はな、目を背けたくなるぐらい、赤い血が流れていくもんなんだ――――――
-　Lorsqu'un homme meurt, les flots de sang rouge sont si importants que l'on souhaite détourner le regard――――――
+  Lorsqu'un homme meurt, les flots de sang rouge sont si importants que l'on souhaite détourner le regard――――――
 
 }
 [sha:68bc9de1cfeeb2579582777f94ad1e6e46916fd3]{
 -- Page 26, Offset 15706.
 -- ……慣れない、石造りの通路を歩いたせいか。
-　...... Suite à sa marche dans le couloir en pierre qui ne lui était pas familier,
+  ...... Suite à sa marche dans le couloir en pierre qui ne lui était pas familier,
 
 }
 [sha:7234efbd4b7ce516f347fb1e6bd9e4fa600b4377]{
 -- Page 26, Offset 15707.
 -- 彼は幼い頃に聞いた、他愛のない話を思い出した。
-　il se souvint d'une histoire futile qu'on lui avait racontée durant son enfance.
+  il se souvint d'une histoire futile qu'on lui avait racontée durant son enfance.
 
 }
 [sha:bdd0fa8703c939443890473dc489bd51e876dd25]{
 -- Page 27, Offset 15708.
 -- ドアを開けた瞬間、異様な、違う空気が流れている事を思い知った。
-　Lorsqu'il ouvrit la porte, il se rendit compte qu'une atmosphère anormale, différente, régnait en ces lieux.
+  Lorsqu'il ouvrit la porte, il se rendit compte qu'une atmosphère anormale, différente, régnait en ces lieux.
 
 }
 [sha:7ca94832daf5d8ad9cfbc3bf84ac71f70e6122d7]{
 -- Page 27, Offset 15709.
 -- 部屋は小さな個室で、簡素なベッドと、小さな桐のタンスがあるだけだ。
-　C'était une petite chambre individuelle, avec pour seul mobilier un lit simple et une petite commode en paulownia.
+  C'était une petite chambre individuelle, avec pour seul mobilier un lit simple et une petite commode en paulownia.
 
 }
 [sha:955499bec431762e7cd9103923bac107d60eab26]{
 -- Page 27, Offset 15710.
 -- ベッドには　　が横臥している。
-　était allongée sur le lit.
+  était allongée sur le lit.
 
 }
 [sha:1d86df92a66a772f95ac568ecb4b6a9d99fc3757]{
 -- Page 27, Offset 15711.
 -- を看病しているのは、さっき礼拝堂にいた律架という女性だった。
-　　　était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
+      était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
 
 }
 [sha:36ac20d476713ff537b615ea0894ad40d7a65fcf]{
 -- Page 28, Offset 15712.
 -- ……いや、それは律架によく似た女性にすぎない。
-　...... Non, elle ressemblait seulement beaucoup à Ritsuka.
+  ...... Non, elle ressemblait seulement beaucoup à Ritsuka.
 
 }
 [sha:764aa23d3c86585814337572cfa25ef46dc0c6ba]{
 -- Page 28, Offset 15713.
 -- 閉じられた目蓋と、血に濡れている修道服。
-　Elle avait les paupières fermées et les habits trempés de sang.
+  Elle avait les paupières fermées et les habits trempés de sang.
 
 }
 [sha:ad023ddba2123073d7c53f4b8c5edf8c558fb736]{
 -- Page 28, Offset 15714.
 -- 一度なり面識はある。
-　Il l'avait rencontrée une fois auparavant.
+  Il l'avait rencontrée une fois auparavant.
 
 }
 [sha:bae55e1786f438c79d0a6319b1f5d9f9e5f20fff]{
 -- Page 28, Offset 15715.
 -- 彼女はこの教会のシスター、<周|す><瀬|せ><唯架|ゆいか>だ。
-　C'était une sœur de cette église, Suse Yuika.
+  C'était une sœur de cette église, Suse Yuika.
 
 }
 [sha:d379ec422378e137eb98128ad0daadc414c830c6]{
 -- Page 29, Offset 15716.
 -- 唯架は横臥している　　に触れている。
-　Yuika touchait      allongée.
+  Yuika touchait      allongée.
 
 }
 [sha:d5815c0925e76d2a8a7e767bbfa2e25ae2bd3562]{
 -- Page 29, Offset 15717.
 -- その手にはハサミと糸。
-　Elle tenait des ciseaux et des fils.
+  Elle tenait des ciseaux et des fils.
 
 }
 [sha:a3b5335f712cb39adb0ac1c17de0efa52151e37b]{
 -- Page 29, Offset 15718.
 -- シスターはオルガンを<弾|ひ>く静かさで、たおやかに、しかし<迅速|じんそく>に指を動かす。
-　La sœur bougeait ses doigts avec le calme d'un organiste, avec souplesse mais aussi avec vivacité.
+  La sœur bougeait ses doigts avec le calme d'un organiste, avec souplesse mais aussi avec vivacité.
 
 }
 [sha:352702dc97e63c81dd6afb634713e0b11b3d6fc4]{
 -- Page 29, Offset 15719.
 -- <淀|よど>みのない手順は、そういう楽譜があるかのようだ。
-　Ses mouvements naturels semblaient presque suivre une partition.
+  Ses mouvements naturels semblaient presque suivre une partition.
 
 }
 [sha:4d56619a9aef066cab38d96174f388ffb4ee989a]{
 -- Page 29, Offset 15720.
 -- 包帯は次から次へと消費される。
-　Les bandages étaient souillés les uns après les autres.
+  Les bandages étaient souillés les uns après les autres.
 
 }
 [sha:3bd7f0c1f0819a305a8e9b45056a5a65ec125f8b]{
 -- Page 29, Offset 15721.
 -- さきほどまで使われていた包帯がはがされ、新しい包帯が、<潰|つぶ>れた人体部分を隠していく。
-　Elle retirait ceux qu'elle avait utilisés un instant auparavant pour en appliquer de nouveaux qui cachaient les parties écrasées du corps.
+  Elle retirait ceux qu'elle avait utilisés un instant auparavant pour en appliquer de nouveaux qui cachaient les parties écrasées du corps.
 
 }
 [sha:c53c0ec6f3e7b93a7d9150a06334e79a3e4b2e0d]{
 -- Page 30, Offset 15722.
 -- 血を拭うガーゼも、いいかげん使いすぎだ。
-　Elle utilisait également quantité de gazes pour éponger le sang.
+  Elle utilisait également quantité de gazes pour éponger le sang.
 
 }
 [sha:7e5e0a90c7c8bb90e0d72d5d58f1190110034e35]{
 -- Page 30, Offset 15723.
 -- 投げ捨てた布の色は白ではなく赤。
-　Les bandages utilisés n'étaient pas blancs mais rouges.
+  Les bandages utilisés n'étaient pas blancs mais rouges.
 
 }
 [sha:02fb2fdacd7cc004c21b01bf8a431dcec090e9a0]{
 -- Page 30, Offset 15724.
 -- 床に積もった布切れは、汚れた薔薇を思わせる。
-　Les morceaux de tissus entassés sur le sol évoquaient des roses flétries.
+  Les morceaux de tissus entassés sur le sol évoquaient des roses flétries.
 
 }
 [sha:5e08df6c6d1d1e34f0631ac33eff3d759d2fe196]{
 -- Page 30, Offset 15725.
 -- 腐った薔薇園でオルガンを演奏するシスター。
-　La sœur jouait de son orgue sur un jardin de roses putréfiées.
+  La sœur jouait de son orgue sur un jardin de roses putréfiées.
 
 }
 [sha:1e04529b92db6ba27ac8d5b0bfdf02f9685fccad]{
 -- Page 30, Offset 15726.
 -- ますます、現実味というものがない。
-　Ce spectacle s'éloignait de plus en plus du sens des réalités.
+  Ce spectacle s'éloignait de plus en plus du sens des réalités.
 
 }
 [sha:6fa7809b6840ef9929e8c34e6c700013b6298b17]{
 -- Page 31, Offset 15727.
 -- 空気が違う理由は明らかだ。
-　L'atmosphère était différente pour une raison évidente.
+  L'atmosphère était différente pour une raison évidente.
 
 }
 [sha:8fea33471889bf89ee9fffed59d674fe49e1006d]{
 -- Page 31, Offset 15728.
 -- この部屋の空気には匂いがついている。
-　L'air de cette chambre avait une odeur.
+  L'air de cette chambre avait une odeur.
 
 }
 [sha:ea5c97f9aa805c4441d4b38054c44df0d698b825]{
 -- Page 31, Offset 15729.
 -- 初めて体験してもそれだと判ってしまう、胸の焼け付く、重い匂い。
-　Une odeur pesante, suffocante, dont l'origine s'identifiait clairement même si on la sentait pour la première fois.
+  Une odeur pesante, suffocante, dont l'origine s'identifiait clairement même si on la sentait pour la première fois.
 
 }
 [sha:1b05b6ff3e42f2ea5068591801d7e89002969bd6]{
 -- Page 31, Offset 15730.
 -- 彼の視線は、どうにもベッドに定まらない。
-　Son regard évitait sans cesse de se fixer sur le lit.
+  Son regard évitait sans cesse de se fixer sur le lit.
 
 }
 [sha:ea44554692ee3509a5cdb25232b9a04829761c57]{
 -- Page 31, Offset 15731.
 -- 気持ちとは裏腹に、関係のない箇所ばかり見ようとする。
-　Il s'opposait à ses sentiments et ne cherchait qu'à voir ailleurs.
+  Il s'opposait à ses sentiments et ne cherchait qu'à voir ailleurs.
 
 }
 [sha:765d1fd8e26bc06d1340fd6e3a55086668b92b0e]{
 -- Page 32, Offset 15732.
 -- 見れば、有珠はベッドの横に立っていた。
-　Il constata qu'Alice se tenait près du lit.
+  Il constata qu'Alice se tenait près du lit.
 
 }
 [sha:1ee655435efb82af77c395ec3055903af498a4a2]{
 -- Page 32, Offset 15733.
 -- いつもの無表情な立ち姿が、今は<卒塔婆|そとば>のように見える。
-　Son visage habituellement inexpressif semblait maintenant venir d'outre-tombe.
+  Son visage habituellement inexpressif semblait maintenant venir d'outre-tombe.
 
 }
 [sha:dca8d998477e0c5466fdb80be5aac1ad5037bf68]{
 -- Page 32, Offset 15734.
 -- 彼女は<微|かす>かに震えていた。
-　Elle tremblait légèrement.
+  Elle tremblait légèrement.
 
 }
 [sha:3eefe67891d8154a60e80c349998eea02647f897]{
 -- Page 32, Offset 15735.
 -- <怯|おび>えか不安、それとも憎しみによる憤怒かは、どうにも。
-　Cependant, il n'aurait su déterminer si c'était par peur, par inquiétude ou alors à cause d'une rage provoquée par la haine.
+  Cependant, il n'aurait su déterminer si c'était par peur, par inquiétude ou alors à cause d'une rage provoquée par la haine.
 
 }
 [sha:345675b57fd775f12bc693af8fef40afbafeb62f]{
 -- Page 32, Offset 15736.
 -- その視線の先に、死に<瀕|ひん>する生き物が一つ。
-　Au bout de son regard se trouvait un être vivant à l'agonie.
+  Au bout de son regard se trouvait un être vivant à l'agonie.
 
 }
 [sha:871febb58e6b25339fd317c55717d70b16efb511]{
 -- Page 33, Offset 15737.
 -- ベッドに横たわるソレが何であるか、一見では頭に入らない。
-　Au premier coup d'œil, il fut incapable d'identifier cette chose allongée sur le lit.
+  Au premier coup d'œil, il fut incapable d'identifier cette chose allongée sur le lit.
 
 }
 [sha:4b7bf4498742130cd8a2e468b6bd942d1357fdc9]{
 -- Page 33, Offset 15738.
 -- ところどころ包帯に巻かれた人形。
-　Une poupée enveloppée de bandages ?
+  Une poupée enveloppée de bandages ?
 
 }
 [sha:4dce63230f130c437983b3a275e407ecb0839501]{
 -- Page 34, Offset 15739.
 -- 美しかった髪は乱れて、呼吸は短く小さいクセに、胸はせわしなく上下している。
-　Ses cheveux, autrefois magnifiques, étaient en désordre, et alors que sa respiration était faiblarde, sa poitrine n'avait de cesse de bouger de haut en bas.
+  Ses cheveux, autrefois magnifiques, étaient en désordre, et alors que sa respiration était faiblarde, sa poitrine n'avait de cesse de bouger de haut en bas.
 
 }
 [sha:8c92e112fee53ca37788c28b124b8fd4abaecba1]{
 -- Page 34, Offset 15740.
 -- どことなく滑稽で、デパートの屋上で見た、ロデオマシーンを彷彿とさせる。
-　Ce spectacle vaguement comique lui rappelait fortement les machines de rodéo qu'il avait vues sur le toit du centre commercial.
+  Ce spectacle vaguement comique lui rappelait fortement les machines de rodéo qu'il avait vues sur le toit du centre commercial.
 
 }
 [sha:95c3a270853ef8321522a765c321df5bda3439fd]{
 -- Page 34, Offset 15741.
 -- ―――ああ。
-　―――Aaah.
+  ―――Aaah.
 
 }
 [sha:c1e6232ac1cedf2c007fcaa866434c8956a87ea7]{
 -- Page 34, Offset 15742.
 -- では、麻酔とか鎮痛剤とか、そういうものは効いていないのか。
-　L'anesthésie et les analgésiques n'avaient donc aucun effet.
+  L'anesthésie et les analgésiques n'avaient donc aucun effet.
 
 }
 [sha:b5b4707351c7c74d22a2e31c59befe269e3e7609]{
 -- Page 35, Offset 15743.
 -- 真新しい包帯は秒刻みで朱色に<滲|にじ>んでいく。
-　À chaque seconde, les tout nouveaux bandages s'imbibaient de vermillon.
+  À chaque seconde, les tout nouveaux bandages s'imbibaient de vermillon.
 
 }
 [sha:62131691b721a0912f8d5bc6798ed7c5f787c166]{
 -- Page 35, Offset 15744.
 -- シーツに食いこむ五指の爪。
-　Cinq ongles s'enfonçaient dans les draps.
+  Cinq ongles s'enfonçaient dans les draps.
 
 }
 [sha:3cec44c0d3985a9a2f602c815ac0df2dbc1b79ff]{
 -- Page 35, Offset 15745.
 -- 苦しみに歪む顔。
-　Son visage se tordait de douleur.
+  Son visage se tordait de douleur.
 
 }
 [sha:9bf02f972447675a25f250fbf437b468e32871c5]{
 -- Page 35, Offset 15746.
 -- 麻酔は効かず、生きているのなら、意識だってあるだろう。
-　Si elle était en vie, l'anesthésie n'ayant pas d'effet, elle devait être consciente.
+  Si elle était en vie, l'anesthésie n'ayant pas d'effet, elle devait être consciente.
 
 }
 [sha:c406b7825d0f3faf9195702ec557e0b3c89e2bcc]{
 -- Page 35, Offset 15747.
 -- 誰も不安に思わないのか、と不安になる。
-　Il était inquiet et se demandait si personne d'autre ne partageait son inquiétude.
+  Il était inquiet et se demandait si personne d'autre ne partageait son inquiétude.
 
 }
 [sha:ded4642a010d4540560bcb9ebfa20497c78040cb]{
 -- Page 35, Offset 15748.
 -- あれでは体の傷より、痛みで心が先に死ぬ。
-　À ce rythme, ce n'était pas son corps qui mourrait à cause des blessures, mais son esprit à cause de la douleur.
+  À ce rythme, ce n'était pas son corps qui mourrait à cause des blessures, mais son esprit à cause de la douleur.
 
 }
 [sha:b7698abdc8dd45974fb3352d6fb8fa73a2322211]{
 -- Page 36, Offset 15749.
 -- 端的に言って。
-　En toute franchise,
+  En toute franchise,
 
 }
 [sha:c17984678a08802e9a4a6b55fd33263571a6d593]{
 -- Page 36, Offset 15750.
 -- それは少年にとって、二度と見たくない光景だった。
-　le garçon ne voulait plus jamais revoir un tel spectacle.
+  le garçon ne voulait plus jamais revoir un tel spectacle.
 
 }
 [sha:dffc29e50a1c7c133bac8543bdc9194012c75345]{
 -- Page 37, Offset 15751.
 -- 本来清潔であるべき白いベッドが、またたくまに赤く染まっていく。
-　Le lit blanc qui aurait dû rester propre se teintait de rouge en un clignement d'œil.
+  Le lit blanc qui aurait dû rester propre se teintait de rouge en un clignement d'œil.
 
 }
 [sha:077b40a945bfeedf6cd4981c749d553ea58a80b8]{
 -- Page 37, Offset 15752.
 -- その中心で流血する人形が彼女なのだと認めて、
-　Lorsqu'il admit qui était la poupée sanguinolente allongée dessus,
+  Lorsqu'il admit qui était la poupée sanguinolente allongée dessus,
 
 }
 [sha:6fd23ce85706f42d054ecba48c33fa9705995416]{
 -- Page 37, Offset 15753.
 -- 体中の血管が膨張する。
-　les vaisseaux sanguins de son corps se dilatèrent.
+  les vaisseaux sanguins de son corps se dilatèrent.
 
 }
 [sha:aa716b9f962b3d190bf9d2147f9d6af2d09cfbc6]{
 -- Page 37, Offset 15754.
 -- ベッドの<軋|きし>む音も、ハサミの刃がこすれる音も、彼女の苦悶も<彼岸|ひがん>の話。
-　Les grincements du lit, le frottement des lames des ciseaux et les cris d'agonie faisaient partie d'une scène de l'au-delà.
+  Les grincements du lit, le frottement des lames des ciseaux et les cris d'agonie faisaient partie d'une scène de l'au-delà.
 
 }
 [sha:7f50f13eadbede1496024ebf0d36908c4cf58e67]{
 -- Page 38, Offset 15755.
 -- 自分の鼓動だけが<耳朶|じだ>に響く。
-　Seul le son de son propre pouls résonnait dans ses oreilles.
+  Seul le son de son propre pouls résonnait dans ses oreilles.
 
 }
 [sha:51646cfe0fb953ad0b88c0fd1ef283f0ec294214]{
 -- Page 38, Offset 15756.
 -- むせ返る血の匂いに、吐き気がする。
-　L'odeur de sang suffocante lui donnait la nausée.
+  L'odeur de sang suffocante lui donnait la nausée.
 
 }
 [sha:bd1872609af94351041e412c7577e01ef52f8e69]{
 -- Page 38, Offset 15757.
 -- 膝から力が失われる感覚。
-　Il sentit ses jambes flageoler.
+  Il sentit ses jambes flageoler.
 
 }
 [sha:14c2eecd96da1e0a774db320fed2ceb7d437f38f]{
 -- Page 38, Offset 15758.
 -- でも、それは仕方のない事だ。
-　Mais c'était inévitable.
+  Mais c'était inévitable.
 
 }
 [sha:1fcc8baace1e36860d8d1f6d4f03631fc22e231f]{
 -- Page 39, Offset 15759.
 -- 精神の安全装置が、断りもなく意識を遮断する。
-　Le dispositif de sécurité de son esprit interrompit sa conscience sans permission.
+  Le dispositif de sécurité de son esprit interrompit sa conscience sans permission.
 
 }
 [sha:810a7a51dc95c81dfc84c44afa1d2ee07f9de17c]{
 -- Page 39, Offset 15760.
 -- 自明の理にも程がある。
-　Toute vérité ne gagnait pas à être apprise.
+  Toute vérité ne gagnait pas à être apprise.
 
 }
 [sha:5609b6bf435cc22f768adad367e261952d2bbe01]{
 -- Page 39, Offset 15761.
 -- ―――だってこんなモノ、何を引き替えにしても、彼は二度と見たくはなかったのだ。
-　―――En effet, peu en importait le prix, il ne souhaitait plus jamais revoir ça.
+  ―――En effet, peu en importait le prix, il ne souhaitait plus jamais revoir ça.
 
 }

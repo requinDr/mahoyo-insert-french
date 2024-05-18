@@ -1,6 +1,6 @@
 [sha:1a40b4117c09bcd92039151c89119e0fbee4d46f]{
 -- Page 0, Offset 23038.
 -- 不謹慎だけど、ホラー映画ならまっさきに死ぬパターンだ、と思った。
-　Bien que ce soit cynique de ma part, je songeai qu'elle était du genre à mourir en premier dans les films d'horreur.
+  Bien que ce soit cynique de ma part, je songeai qu'elle était du genre à mourir en premier dans les films d'horreur.
 
 }

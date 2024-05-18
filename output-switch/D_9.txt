@@ -1,55 +1,55 @@
 [sha:fe46710d7ec9c2d635381a2dc7c9c83c6dd4a23a]{
 -- Page 0, Offset 19630. Mods: @n.
 -- 私がその本を見つけたのは、
-　　　　　　Je trouvai ce livre un dimanche,
+            Je trouvai ce livre un dimanche,
 
 }
 [sha:2fad12b2480c9b3a1d25ad8f1f71c9a2c48f4d0c]{
 -- Page 0, Offset 19631. Glued.
 -- 日曜のけだるい午前中の事だった。
-　　　　　　pendant une matinée languissante.
+            pendant une matinée languissante.
 
 }
 [sha:1c43834557d309a4b5696d5aa06494650ce1d152]{
 -- Page 1, Offset 19632.
 -- 部外者……というか約一名の冒険野郎……立ち入り禁止の、久遠寺邸の図書室。
-　J'étais alors dans la bibliothèque du manoir Kuonji, interdite d'accès aux étrangers...... ou plutôt à l'aventurier stupide du coin.
+  J'étais alors dans la bibliothèque du manoir Kuonji, interdite d'accès aux étrangers...... ou plutôt à l'aventurier stupide du coin.
 
 }
 [sha:0891dcb119813ed13ac678e67a6e95909b1eabaa]{
 -- Page 1, Offset 19633.
 -- 本棚の上に隠すように置かれたそれは、なんとなく秘密めいて私の興味をひいたのだ。
-　Comme il était posé en haut d'une étagère à l'abri des regards, il dégageait une aura mystérieuse qui attisa mon intérêt.
+  Comme il était posé en haut d'une étagère à l'abri des regards, il dégageait une aura mystérieuse qui attisa mon intérêt.
 
 }
 [sha:be74b5fb77052cc5d46e1f66776f2cbb58a97965]{
 -- Page 2, Offset 19634.
 -- 盾にでもなりそうなほど大きな本を、苦労しながら本棚の上から引っ張り出す。
-　Je tirai avec peine l'énorme livre, qui aurait pu passer pour un bouclier, du haut de son perchoir.
+  Je tirai avec peine l'énorme livre, qui aurait pu passer pour un bouclier, du haut de son perchoir.
 
 }
 [sha:fbf357b24da5a63e070ec9a673f2d20907a77815]{
 -- Page 2, Offset 19635.
 -- パラパラとめくっていくうちに、これがルーン魔術の<魔導|グリ><書|モア>、それも<原書|オリジナル>に関するものである事に気が付いた。
-　Tandis que je le feuilletais, je réalisai rapidement qu'il s'agissait d'un grimoire sur la Magie des Runes, et un original qui plus est.
+  Tandis que je le feuilletais, je réalisai rapidement qu'il s'agissait d'un grimoire sur la Magie des Runes, et un original qui plus est.
 
 }
 [sha:7b5503e114baaff9296be4e51b77156dab22b61a]{
 -- Page 3, Offset 19636.
 -- まさかね、と思っているうちに、ここのところ探す<素|そ><振|ぶ>りさえ<止|や>めてしまった、目的の物が発見された。
-　Je doutai tout d'abord de ma découverte pour finalement constater que j'avais entre les mains l'objet que nous avions cessé de chercher :
+  Je doutai tout d'abord de ma découverte pour finalement constater que j'avais entre les mains l'objet que nous avions cessé de chercher :
 
 }
 [sha:d362913a11db4e20ee21b366d023fa36d62cbf7e]{
 -- Page 3, Offset 19637.
 -- 北欧の大神が戦乙女に使ったとされる、存在だけは有名な忘却のルーン文字だ。
-　le livre contenant la Rune d'oubli célèbre pour avoir été utilisée par un dieu d'Europe du Nord sur une Valkyrie.
+  le livre contenant la Rune d'oubli célèbre pour avoir été utilisée par un dieu d'Europe du Nord sur une Valkyrie.
 
 }
 [sha:c90114cce6e0f6db9fc4299a4f40a7bbdebd1eea]{
 -- Page 4, Offset 19638.
 -- その使用法が如実に書かれたページとにらめっこすること数分。
-　Je fixai pendant quelques minutes la page décrivant fidèlement son mode d'emploi...
+  Je fixai pendant quelques minutes la page décrivant fidèlement son mode d'emploi...
 
 }
 [sha:55ff952fd0a28a1449bfedf0c1959cf387c39f62]{
@@ -61,91 +61,91 @@ et je décidai finalement de refermer le grimoire.
 [sha:3b71abf50197b3488703492f84bdfe45fed9b5e8]{
 -- Page 4, Offset 19640.
 -- そうして元の位置より、もうちょっと見付けにくい場所に戻そうとした時、あれっと思い出す。
-　Puis, alors que je tentais de le placer à un endroit moins visible, la mémoire me revint.
+  Puis, alors que je tentais de le placer à un endroit moins visible, la mémoire me revint.
 
 }
 [sha:97519a7ce390a08768ac445df915ae1ebd024db3]{
 -- Page 4, Offset 19641.
 -- ……この本を、どこかで見た事があるのだ。
-　...... J'avais déjà vu cet ouvrage quelque part.
+  ...... J'avais déjà vu cet ouvrage quelque part.
 
 }
 [sha:cdb816e13eb778f3bc155c4bc4379b30aedfc2b3]{
 -- Page 5, Offset 19642.
 -- あれはいつだったろう。
-　Mais où ?
+  Mais où ?
 
 }
 [sha:73f55c6d35008d326787140054da8016300d8afc]{
 -- Page 5, Offset 19643.
 -- たしか……そう、彼が初めて遊びに行こうと誘った時。
-　Si la mémoire ne me faisait pas défaut...... c'était le jour où il nous avait incitées à sortir pour la première fois.
+  Si la mémoire ne me faisait pas défaut...... c'était le jour où il nous avait incitées à sortir pour la première fois.
 
 }
 [sha:e65e054e0bfd776e265b96e495931bad8c4eea40]{
 -- Page 5, Offset 19644.
 -- 自分の目前に座っていた少女が手にしていたのが、この本だったと思うけど……。
-　Il me semblait que la fille assise en face de moi tenait ce livre......
+  Il me semblait que la fille assise en face de moi tenait ce livre......
 
 }
 [sha:3ea1a144e08824b864adb9e711ae4ce94a2efd78]{
 -- Page 6, Offset 19645.
 -- いや、きっとそうだ。
-　Oui, il n'y avait aucun doute.
+  Oui, il n'y avait aucun doute.
 
 }
 [sha:b689e7290f7bab9eed5006ba08ab7462cf05efc7]{
 -- Page 6, Offset 19646.
 -- 小さな笑いをこらえきれず、私は本を寸分違わない元の場所に戻すことにした。
-　J'esquissai un petit sourire malgré moi et reposai le livre à l'endroit exact où je l'avais trouvé.
+  J'esquissai un petit sourire malgré moi et reposai le livre à l'endroit exact où je l'avais trouvé.
 
 }
 [sha:62a94d41649211d525556ae4e60b87ac56170376]{
 -- Page 6, Offset 19647.
 -- ここの蔵書量なら本棚の中に混ぜたほうが見付ける可能性は低いのだけど、ここは彼女の微笑ましい努力をくんで見なかった事にしよう。
-　En considérant la formidable collection de cette bibliothèque, les chances de le retrouver auraient été plus minces en le mêlant aux livres des étagères, mais je préférai respecter ses efforts charmants et feindre l'ignorance.
+  En considérant la formidable collection de cette bibliothèque, les chances de le retrouver auraient été plus minces en le mêlant aux livres des étagères, mais je préférai respecter ses efforts charmants et feindre l'ignorance.
 
 }
 [sha:16802937366dc2db60d0b40075eb774118cf1100]{
 -- Page 6, Offset 19648.
 -- ……文字通り、自分の事を棚に上げてる、とは思うけど。
-　...... Et puis, je n'étais pas vraiment en position de faire quelque observation que ce soit.
+  ...... Et puis, je n'étais pas vraiment en position de faire quelque observation que ce soit.
 
 }
 [sha:2b2a81cc741ba4ba64e09d886cadfffcef945070]{
 -- Page 7, Offset 19649.
 -- その時、本館の方から聞きなれた叫び声が聞こえてきた。
-　J'entendis alors un cri familier en provenance du bâtiment principal.
+  J'entendis alors un cri familier en provenance du bâtiment principal.
 
 }
 [sha:08b74e288afa435795e6b1111595fb6967fcb4eb]{
 -- Page 7, Offset 19650.
 -- 最近、彼は家政婦業に目覚めたのか、洋館のいたるところを掃除しようと頑張っている。
-　Ces derniers temps, il s'était découvert un côté femme de ménage et s'ingéniait à décrasser tous les recoins du manoir.
+  Ces derniers temps, il s'était découvert un côté femme de ménage et s'ingéniait à décrasser tous les recoins du manoir.
 
 }
 [sha:044513ea3218fcd1df770ec89c142403a441778c]{
 -- Page 8, Offset 19651.
 -- ……それはいいんだけど、この洋館には私や有珠にだって手を出せない開かずの間が幾つもある。
-　...... L'intention était bonne en soi, mais la demeure comportait certaines pièces interdites que même Alice et moi évitions d'approcher.
+  ...... L'intention était bonne en soi, mais la demeure comportait certaines pièces interdites que même Alice et moi évitions d'approcher.
 
 }
 [sha:11a1891d3420eab8ea422464c753a6c59b940462]{
 -- Page 8, Offset 19652.
 -- それを構わず開けてしまうものだから、火の粉はこっちにまで飛んでくる。
-　Il les ouvrait sans prendre garde, et de ce fait, nous en subissions les conséquences bien malgré nous.
+  Il les ouvrait sans prendre garde, et de ce fait, nous en subissions les conséquences bien malgré nous.
 
 }
 [sha:6c8118b6d6bbfdde6461474fd02ced2fd4ee64df]{
 -- Page 9, Offset 19653.
 -- この前は、有珠のお母さんが保存していた亡霊船を開放して大騒ぎになったんだっけ。
-　La dernière fois, il avait causé du grabuge en libérant un vaisseau fantôme que la mère d'Alice avait conservé.
+  La dernière fois, il avait causé du grabuge en libérant un vaisseau fantôme que la mère d'Alice avait conservé.
 
 }
 [sha:319d4666a3c6694643780b26366b7e079404caa3]{
 -- Page 9, Offset 19654.
 -- カティサークとかいう<飛ばし屋|スピードスター>を捕まえるのは、本当に苦労した。
-　Nous avions passé un sale quart d'heure pour capturer le clipper répondant au nom de Cutty Sark.
+  Nous avions passé un sale quart d'heure pour capturer le clipper répondant au nom de Cutty Sark.
 
 }
 [sha:a57130c4803bdbedd82f6c40de4f2edc584f7968]{
@@ -157,31 +157,31 @@ Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
 [sha:989e2c9f8bb311c36848ef1ffbaa9c94d6a01ccf]{
 -- Page 10, Offset 19656.
 -- その前は地下室の悪霊さんご一行の封印を解いて、
-　Avant cet épisode, il avait également arraché le sceau d'un groupe d'adorables esprits frappeurs résidant au sous-sol,
+  Avant cet épisode, il avait également arraché le sceau d'un groupe d'adorables esprits frappeurs résidant au sous-sol,
 
 }
 [sha:97efdd1ab3fbf7d63b1a8a1321034abab6c6dad6]{
 -- Page 10, Offset 19657.
 -- さらにいけすかない教会ご一行が洋館に乗りこんでくるだけでなく、一週間も滞在しやがったし。
-　ce qui nous avait valu la visite d'un groupe d'ecclésiastiques plus répugnants encore ; et par-dessus le marché, ces derniers s'étaient installés une semaine au manoir.
+  ce qui nous avait valu la visite d'un groupe d'ecclésiastiques plus répugnants encore ; et par-dessus le marché, ces derniers s'étaient installés une semaine au manoir.
 
 }
 [sha:63103f4968aba1e51c5444f29187ec2b9bda3ab1]{
 -- Page 10, Offset 19658.
 -- もう少しさかのぼれば、有珠の部屋に勝手に入って、そのとばっちりで私も鏡の国に落っこちて、あやうく有珠と全面戦争をする羽目になりかけた。
-　Et encore avant cela, il avait pénétré sans permission dans la chambre d'Alice, suite à quoi j'étais tombée dans le pays du miroir et une guerre ouverte avait bien failli éclater avec sa propriétaire.
+  Et encore avant cela, il avait pénétré sans permission dans la chambre d'Alice, suite à quoi j'étais tombée dans le pays du miroir et une guerre ouverte avait bien failli éclater avec sa propriétaire.
 
 }
 [sha:ae7cbd88abd8af579af626cbaaf6b630d2da7c69]{
 -- Page 11, Offset 19659.
 -- ……考えてみると。
-　...... À bien y réfléchir,
+  ...... À bien y réfléchir,
 
 }
 [sha:16b4f172d484097cae9133e980fbf8f54c585660]{
 -- Page 11, Offset 19660.
 -- あいつ、学習能力がないみたい。
-　il ne semblait pas être doté de capacité d'apprentissage.
+  il ne semblait pas être doté de capacité d'apprentissage.
 
 }
 [sha:b863dcb07909f29e046cbb06f8a7d15efdf5ace8]{
@@ -193,30 +193,30 @@ Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
 [sha:0fa32bdf2bbd84b4de63d4367c75e5fbca767ec8]{
 -- Page 12, Offset 19662.
 -- さっきまでの幸福な気分が台無しになって、私は図書室から飛び出した。
-　Mon humeur joyeuse complètement gâchée, je sortis en trombe de la bibliothèque,
+  Mon humeur joyeuse complètement gâchée, je sortis en trombe de la bibliothèque,
 
 }
 [sha:6de104812979009a0ab437d945bb89ba22a27cef]{
 -- Page 12, Offset 19663.
 -- たぶん、この後は廊下で立ち尽くしている元凶に飛び蹴りでも食らわせる、なんて未来視をうかべながら。
-　tout en imaginant la suite où le coupable, immobile dans le couloir, se prendrait mon coup de pied sauté.
+  tout en imaginant la suite où le coupable, immobile dans le couloir, se prendrait mon coup de pied sauté.
 
 }
 [sha:af9cb378e4ca94be31b8510e6165dcdb2a65d850]{
 -- Page 13, Offset 19664.
 -- でもまあ、それはそれで楽しい日常には変わりはない。
-　Malgré tout, ce quotidien n'en restait pas moins plaisant.
+  Malgré tout, ce quotidien n'en restait pas moins plaisant.
 
 }
 [sha:4e1ce464c0a5ff5ee2f28717259523d919b7e705]{
 -- Page 13, Offset 19665.
 -- 棚の上に隠された私たちふたりの秘密。
-　Notre secret caché sur le haut d'une étagère,
+  Notre secret caché sur le haut d'une étagère,
 
 }
 [sha:b74a9c5d22b1cfa74c38bd458c9018263926d10f]{
 -- Page 13, Offset 19666.
 -- あの本はたぶん、もう開かれる事はないだろう―――
-　ce livre ne serait probablement plus jamais ouvert―――
+  ce livre ne serait probablement plus jamais ouvert―――
 
 }

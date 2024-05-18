@@ -1,31 +1,31 @@
 [sha:03b3114eb779bfa9fc542773ebaed2ca686f2325]{
 -- Page 1, Offset 23471.
 -- 午前十二時、中央公園。
-　Parc central, midi.
+  Parc central, midi.
 
 }
 [sha:fc01fadd54e5a86c70b6900caab3e1b48f07b56f]{
 -- Page 1, Offset 23472.
 -- わたしはコンビニで焼き増しを済ませ、手荷物になる使い捨てカメラをゴミ箱に投げ捨てた。
-　Après avoir effectué mon tirage photographique à la supérette, je balançai l'appareil jetable dans une poubelle.
+  Après avoir effectué mon tirage photographique à la supérette, je balançai l'appareil jetable dans une poubelle.
 
 }
 [sha:47908bf300533af48023cdf01a204b0a853f09ab]{
 -- Page 2, Offset 23473.
 -- 空はご覧の通り、天高く<馬肥|うまこ>ゆる秋。
-　Comme vous pouvez le constater, le ciel automnal était d'un bleu limpide.
+  Comme vous pouvez le constater, le ciel automnal était d'un bleu limpide.
 
 }
 [sha:4ce2db30d8a8b079be59675bd3457537282d0c63]{
 -- Page 2, Offset 23474.
 -- あの物騒な夏が過ぎ去った<晴天|サニーデイ>。
-　C'était une belle journée ensoleillée après l'été inquiétant que nous avions vécu.
+  C'était une belle journée ensoleillée après l'été inquiétant que nous avions vécu.
 
 }
 [sha:3fe42bc92313ae2312261db958f3bb9da1610d95]{
 -- Page 2, Offset 23475.
 -- わたしこと<久|く><万|ま><梨|り><金鹿|こじか>は、せっかくの連休をおかしなイベントで消費しようとしていた。
-　Moi, Kumari Kojika, j'étais sur le point de gaspiller mes précieux jours de congé dans un évènement bizarre.
+  Moi, Kumari Kojika, j'étais sur le point de gaspiller mes précieux jours de congé dans un évènement bizarre.
 
 }
 [sha:f9fd3d8bfa8d4f2f26d80f8ed314c3ccdb76ff70]{
@@ -37,43 +37,43 @@
 [sha:61d14150d3390a03d5cd7d43e678fb67c95d7b46]{
 -- Page 3, Offset 23477.
 -- あれ、クマったら大荷物。なんでそんな大きなボストンバッグなんて持ってきたの？」
-　Tu es bien chargée, Kuma. Que comptes-tu faire avec ce grand sac de voyage ?」
+  Tu es bien chargée, Kuma. Que comptes-tu faire avec ce grand sac de voyage ?」
 
 }
 [sha:c7750a71a1ef2ff03c5848ffc3cb2ad408e02d83]{
 -- Page 4, Offset 23478.
 -- あれからちょっと時間が過ぎて、午後一時。
-　Quelques dizaines de minutes plus tard, à une heure de l'après-midi,
+  Quelques dizaines de minutes plus tard, à une heure de l'après-midi,
 
 }
 [sha:823736f977d38852b422bd7aef2cb26ce67cbe0e]{
 -- Page 4, Offset 23479.
 -- 待ち合わせ場所に<蒼崎|あおざき><青子|あおこ>がやってきた。
-　Aozaki Aoko arriva au point de rendez-vous.
+  Aozaki Aoko arriva au point de rendez-vous.
 
 }
 [sha:e409dfce0b80692b973e7323efee2b2a5e29a772]{
 -- Page 4, Offset 23480.
 -- 彼女はわたし、久万梨金鹿の同期生であり友人であり、生徒会の戦友でもある。
-　En même année que moi, elle était mon amie ainsi qu'une camarade au conseil étudiant.
+  En même année que moi, elle était mon amie ainsi qu'une camarade au conseil étudiant.
 
 }
 [sha:dcc8ba48be8033ac8b24d2f82f9c9f7c876ce535]{
 -- Page 5, Offset 23481.
 -- 蒼崎との付き合いは高校に入ってからだけど、不思議とそんな気はしない。十年来の付き合いのようだ。
-　Je ne fréquentais Aozaki que depuis le lycée, mais ce n'était bizarrement pas l'impression que j'en avais. J'avais le sentiment de la connaître depuis dix ans.
+  Je ne fréquentais Aozaki que depuis le lycée, mais ce n'était bizarrement pas l'impression que j'en avais. J'avais le sentiment de la connaître depuis dix ans.
 
 }
 [sha:6e6ff4548b61cc863997dbe6637aae8e2cc5d6c8]{
 -- Page 5, Offset 23482.
 -- 見ての通り、<明朗快活|めいろうかいかつ><即日払|そくじつばら>い。
-　Ainsi, ce jour-là, elle était extrêmement joviale.
+  Ainsi, ce jour-là, elle était extrêmement joviale.
 
 }
 [sha:a6cb8eb987e6e8226e607ceea72319aafd54919a]{
 -- Page 5, Offset 23483.
 -- 飲みもので喩えるなら清涼飲料、でも炭酸系。押してもダメなら押し倒せ系の女、とわたしは思っている。
-　Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'était une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins était-ce ainsi que je la voyais.
+  Si je devais donner une image d'elle, elle serait une boisson rafraîchissante mais gazeuse. C'était une femme prête à employer n'importe quel moyen pour atteindre ses objectifs, du moins était-ce ainsi que je la voyais.
 
 }
 [sha:9cd9be8779a827d4e11e6269aea40cfe3ffc531f]{
@@ -91,7 +91,7 @@
 [sha:229929b10dab61e0d7ba67d1f06eb990997c9f3c]{
 -- Page 6, Offset 23486.
 -- ……まったく、間違いだらけね。誕生日を祝うから連休はじめに来てほしい、各自料理持参、としか書かれていなかったわ」
-　...... Décidément, vous avez tout fait de travers. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
+  ...... Décidément, vous avez tout fait de travers. Ça disait juste que j'étais invitée à un anniversaire au début des congés et que tout le monde devait apporter à manger.」
 
 }
 [sha:1927dee68788d5545c4d44e3fd9a1c51c346079b]{
@@ -103,13 +103,13 @@
 [sha:f04a30648f737d15832b7c401251c7a7c2bd42ca]{
 -- Page 7, Offset 23488. Mods: @k, @e.
 -- まあ、それはそれとして。久万梨さん、
-　Enfin, passons. Kumari,
+  Enfin, passons. Kumari,
 
 }
 [sha:83fca3b9b0382646ec4076b367a7ae7035a7ea85]{
 -- Page 7, Offset 23489. Glued. Mods: @x.
 -- 後ろのなんとも場違いに地味な方って、もしかしてお連れの方？」
-le type discret à l'allure louche derrière toi, il est avec toi ?」
+ le type discret à l'allure louche derrière toi, il est avec toi ?」
 
 }
 [sha:791590448adeffaf12b8e4d0365222ea6d32a9b1]{
@@ -127,25 +127,25 @@ le type discret à l'allure louche derrière toi, il est avec toi ?」
 [sha:9fee71fdf0843a844979271f840ef2913e851350]{
 -- Page 8, Offset 23492.
 -- それで、今日はなんでしょう？
-　Et donc, que voulez-vous aujourd'hui ?
+  Et donc, que voulez-vous aujourd'hui ?
 
 }
 [sha:70da4f450b4f355629858b9741fbf6394f2b755e]{
 -- Page 8, Offset 23493.
 -- 教え子を尾行するとか、あと数年したら立派な犯罪になりますから自重してほしいんですけど」
-　Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
+  Commencez à faire la filature à vos élèves et vous finirez par commettre un crime dans quelques années. Vous devriez vous contrôler un peu plus.」
 
 }
 [sha:8bebd550ef08687860d8c905431de60ad3a5a1c0]{
 -- Page 9, Offset 23494.
 -- 蒼崎は学校の外でも容赦がない。
-　Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
+  Même à l'extérieur de l'école, Aozaki ne faisait preuve d'aucune pitié.
 
 }
 [sha:cd002712a9c227ba68b21b8e7628c1164f924789]{
 -- Page 9, Offset 23495.
 -- 特に山城先生への当たりは遠慮がなさすぎて、もう兄妹なんじゃないかって思うぐらい。
-　Tout particulièrement envers monsieur Yamashiro. Elle le ménageait si peu qu'on aurait pu croire qu'ils étaient frère et sœur.
+  Tout particulièrement envers monsieur Yamashiro. Elle le ménageait si peu qu'on aurait pu croire qu'ils étaient frère et sœur.
 
 }
 [sha:06a2f3e5afe0de781d5ae67fce211869c0f45711]{
@@ -157,19 +157,19 @@ le type discret à l'allure louche derrière toi, il est avec toi ?」
 [sha:c07311754f1ea2a56d9c61a284641896434569af]{
 -- Page 10, Offset 23497. Glued. Mods: @x.
 -- そういうのは蒼崎くんの方が得意だと思うんだが。ああいや、あくまで個人的な感想だから聞き流して。
-C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
+ C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement personnel, alors ne fais pas attention à ma remarque.
 
 }
 [sha:0280a2871c52dc828c97416990aee367bc55b9f9]{
 -- Page 10, Offset 23498.
 -- ほら、怖い顔しないでこれを見て見て。
-　Allons, ne fais pas cette tête. Regarde plutôt ça.
+  Allons, ne fais pas cette tête. Regarde plutôt ça.
 
 }
 [sha:71a90ac5e678f99e5a80a3988afb25058422ab69]{
 -- Page 10, Offset 23499.
 -- 今朝、僕のところにも招待状が送られていてね。見れば生徒会の役員が参加とある。生徒会顧問として、君たちの監督をしないといけないだろう？」
-　Ce matin, j'ai reçu une invitation moi aussi. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
+  Ce matin, j'ai reçu une invitation moi aussi. D'après elle, les membres du conseil étudiant y participent. En tant que conseiller, il est de mon devoir de vous surveiller, tu ne crois pas ?」
 
 }
 [sha:956125f972827f97998d60d9a0375c8f18210c86]{
@@ -181,19 +181,19 @@ C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement perso
 [sha:5957baf8a97e35f9cf26fe0ab6c439a13232c87d]{
 -- Page 11, Offset 23501.
 -- 山城先生の差しだした招待状は、わたしに送られたものと同じものだ。
-　La lettre de monsieur Yamashiro était identique à celle qui m'était parvenue.
+  La lettre de monsieur Yamashiro était identique à celle qui m'était parvenue.
 
 }
 [sha:db45ae17da125a19e0b72b0c5f8c2736bfc6d4d5]{
 -- Page 11, Offset 23502.
 -- 聞いていなかったのか、蒼崎は心底から驚いている。
-　Aozaki semblait sincèrement surprise. Manifestement, elle n'était pas au courant.
+  Aozaki semblait sincèrement surprise. Manifestement, elle n'était pas au courant.
 
 }
 [sha:0f4d73c560c8a7c6520f1b01b9c5f6f6121efee1]{
 -- Page 11, Offset 23503.
 -- そこに演技の香りはしない。
-　Elle n'avait pas l'air de jouer la comédie.
+  Elle n'avait pas l'air de jouer la comédie.
 
 }
 [sha:dc91c68554884b9a2bd0d0bc3b699a06e161cd57]{
@@ -211,13 +211,13 @@ C'est plutôt toi qui as un talent pour ça. Enfin, c'est un avis purement perso
 [sha:657ad87de7304628e275c5e69219cbb3c254de00]{
 -- Page 13, Offset 23506.
 -- 僕はね、蒼崎くん。<静希|しずき>くんはいつかたぶん、おそらく機会さえあれば<や|・><る|・>生徒だと思っていたんだ。
-　Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement... enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
+  Vois-tu, Aozaki, j'ai toujours su que Shizuki était un élève qui saurait sûrement... enfin, peut-être... montrer ce qu'il vaut, s'il en avait l'occasion.
 
 }
 [sha:30cae69e3c5536a62da2c99afa2a48e773178432]{
 -- Page 13, Offset 23507.
 -- それが、こんな楽しそうなイベントに
-　Et voilà que ce même élève m'envoie une lettre où il me demande de venir vous surveiller,
+  Et voilà que ce même élève m'envoie une lettre où il me demande de venir vous surveiller,
 
 }
 [sha:1b082c39f1dc2469a8902dd594871a60b4bfe6c9]{
@@ -229,25 +229,25 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:7158a15864f783f0cb6686761d836ea9bb09fddf]{
 -- Page 13, Offset 23509.
 -- なんて書かれた招待状を送ってくるなんて、成長の度合い<著|いちじる>しい。驚くべき危機管理能力だ」
-　C'est remarquable comme il a mûri. Il fait preuve d'une capacité étonnante à gérer les crises.」
+  C'est remarquable comme il a mûri. Il fait preuve d'une capacité étonnante à gérer les crises.」
 
 }
 [sha:0e74ba2b6ca85eb414a4c30103497479f78eb8ce]{
 -- Page 14, Offset 23510.
 -- 観念したのか、蒼崎は力なくため息をついた。
-　Résignée, Aozaki soupira sans force.
+  Résignée, Aozaki soupira sans force.
 
 }
 [sha:3ecc3875f0053f474b07a9e5cbc5a58e129a39ae]{
 -- Page 14, Offset 23511.
 -- 招待されている以上、山城先生を追い返す訳にもいかないのだろう。
-　Comme il avait été invité, il lui était impossible de le congédier sans raison valable.
+  Comme il avait été invité, il lui était impossible de le congédier sans raison valable.
 
 }
 [sha:3b7eb1bf767c1f1a5c298ff564797b9bedee95b1]{
 -- Page 14, Offset 23512.
 -- どんなに邪険にしていても、道理が通っているのなら無視はできない彼女である。
-　Elle avait beau être froide, elle ne pouvait ignorer le fait que tout était en règle.
+  Elle avait beau être froide, elle ne pouvait ignorer le fait que tout était en règle.
 
 }
 [sha:dd98f3a2c11202cd172566c825fbd35f65586bed]{
@@ -259,7 +259,7 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:f0249d003897c6126f16ae9bd1361d64b29df436]{
 -- Page 15, Offset 23514.
 -- ふたりとも、久遠寺邸は初めて？」
-　C'est votre première fois au manoir Kuonji ?」
+  C'est votre première fois au manoir Kuonji ?」
 
 }
 [sha:d6916bd8fee0f8995be6745451d403a8fa0c5ada]{
@@ -277,49 +277,49 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:213a041f8a4237f7361ae20528235cdbfc47abda]{
 -- Page 15, Offset 23517.
 -- そもそもこの山、このあたりの子供にしたらちょっとした聖地なんだし」
-　Après tout, cette montagne est comme une terre sainte pour les enfants du coin.」
+  Après tout, cette montagne est comme une terre sainte pour les enfants du coin.」
 
 }
 [sha:c68adc66eadfdd05d9379b1db494baaacdd14954]{
 -- Page 16, Offset 23518.
 -- 聖地というのは言い過ぎだが、他に適切な表現がない。
-　Le terme de terre sainte était un peu exagéré, mais il n'y avait aucune autre expression adéquate.
+  Le terme de terre sainte était un peu exagéré, mais il n'y avait aucune autre expression adéquate.
 
 }
 [sha:44cd9a87c6841e37c26c0e7e46efa1ca0e72f1aa]{
 -- Page 16, Offset 23519.
 -- 昔からこの丘には怪談がついてまわる。
-　Des histoires de fantôme avaient toujours circulé à propos de cette colline.
+  Des histoires de fantôme avaient toujours circulé à propos de cette colline.
 
 }
 [sha:6ddf113a802722bfd20c88527a24a02a60443665]{
 -- Page 16, Offset 23520.
 -- 神隠しの化け犬坂。
-　Elle avait été surnommée la monstrueuse Inuzaka aux disparitions étranges.
+  Elle avait été surnommée la monstrueuse Inuzaka aux disparitions étranges.
 
 }
 [sha:16dc7bcc000dfd97f8b3b7ea457bbc8ce266d0e7]{
 -- Page 16, Offset 23521.
 -- 霧の深い日に踏み入ったら別人になって帰ってくるとか、逆に不思議な力を授かるとか。
-　Certaines rumeurs racontaient qu'en y pénétrant les jours d'intense brouillard, on en revenait sous une autre apparence ou avec d'étranges pouvoirs.
+  Certaines rumeurs racontaient qu'en y pénétrant les jours d'intense brouillard, on en revenait sous une autre apparence ou avec d'étranges pouvoirs.
 
 }
 [sha:9a366d8aad79c11e6a378c6967943efd1fc6f87c]{
 -- Page 17, Offset 23522.
 -- そんなうわさ話のせいか、たまに勇気ある小学生たちが肝試しとして山に挑んでいるのだ。
-　À cause de ces ragots, des écoliers courageux défiaient parfois la montagne en procédant à un test de courage.
+  À cause de ces ragots, des écoliers courageux défiaient parfois la montagne en procédant à un test de courage.
 
 }
 [sha:edfc4d0179c4aa6357b337275a692c294de16905]{
 -- Page 17, Offset 23523.
 -- 森に入り、お化け屋敷のポストに触れてきた小学生は、以後、卒業まで一目置かれるコトになる。
-　Les enfants qui entraient dans la forêt et touchaient la boîte aux lettres de la maison hantée obtenaient une place privilégiée auprès des autres jusqu'à leur admission au collège.
+  Les enfants qui entraient dans la forêt et touchaient la boîte aux lettres de la maison hantée obtenaient une place privilégiée auprès des autres jusqu'à leur admission au collège.
 
 }
 [sha:2354abc5ec3c820a8408f90f4fc25e6bba23fb69]{
 -- Page 17, Offset 23524.
 -- これを聖地と言わずなんと言おう。
-　Quelle expression plus appropriée pouvait-il y avoir que celle de terre sainte ?
+  Quelle expression plus appropriée pouvait-il y avoir que celle de terre sainte ?
 
 }
 [sha:b7cd8e3a7c1b0d671bc06da91866bfedcb49184e]{
@@ -331,19 +331,19 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:cd9de0235af8b226c2f8301e7609ff088899dbbf]{
 -- Page 18, Offset 23526.
 -- 物珍しいのか、山城先生は楽しそうに眼下の街並みを眺めている。
-　Curieux, le professeur Yamashiro contemplait d'un air joyeux la ville qui s'étendait sous ses yeux.
+  Curieux, le professeur Yamashiro contemplait d'un air joyeux la ville qui s'étendait sous ses yeux.
 
 }
 [sha:ccd92d442cc35c114793d6b7668af52f55aa66eb]{
 -- Page 18, Offset 23527.
 -- わたしも同じ気持ちになりたいところではあるが、立場上、そこまでお気楽な気持ちにはなれない。
-　J'aurais bien voulu être aussi insouciante, mais de par ma position, je n'en avais pas le luxe.
+  J'aurais bien voulu être aussi insouciante, mais de par ma position, je n'en avais pas le luxe.
 
 }
 [sha:ff8ec0e65088789ac0e8694bffeb3402be7d75b0]{
 -- Page 18, Offset 23528.
 -- なぜなら、
-　Et ce pour une bonne raison.
+  Et ce pour une bonne raison.
 
 }
 [sha:99981a6f8746dde4793e02ca469349077657d095]{
@@ -355,7 +355,7 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:64cac6f4bfdd802c87d39f50eba4ce41246be075]{
 -- Page 19, Offset 23530.
 -- ま、君はきっちり自己管理できる子だから心配するまでもないんだけどね」
-　Comme tu es quelqu'un de responsable, je n'ai aucune raison de m'inquiéter, mais bon.」
+  Comme tu es quelqu'un de responsable, je n'ai aucune raison de m'inquiéter, mais bon.」
 
 }
 [sha:e709d165017f9d8a7688815b4a82ea65b7b58a15]{
@@ -367,7 +367,7 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:7dbb274be31b83229a6559da1709b8f91c0dfbcb]{
 -- Page 19, Offset 23532.
 -- 山城先生のお手は煩わせません」
-　Inutile de vous en faire.」
+  Inutile de vous en faire.」
 
 }
 [sha:5a055e7df20ca208f7e795793a0acdf30b99e9a2]{
@@ -397,43 +397,43 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:249f1d4d220e9f872444b9446d451846470858f0]{
 -- Page 22, Offset 23537.
 -- 口を滑らせた蒼崎に、わたしは無言で“このままスルーしろ”と合図を送る。
-　La langue d'Aozaki avait fourché. Sans un mot, je lui fis signe de laisser couler.
+  La langue d'Aozaki avait fourché. Sans un mot, je lui fis signe de laisser couler.
 
 }
 [sha:0c4ed090a79ad79b63edccd5554971469f849137]{
 -- Page 22, Offset 23538.
 -- さて、ここでわたしの経歴と、今日これからの事情を説明しよう。
-　Faisons à présent le point sur mes antécédents et la raison qui nous amène ici aujourd'hui.
+  Faisons à présent le point sur mes antécédents et la raison qui nous amène ici aujourd'hui.
 
 }
 [sha:4c4d1e2f671771eabe63b121772bf27783804103]{
 -- Page 23, Offset 23539.
 -- わたし、久万梨金鹿は高校三年生。
-　Mon nom est Kumari Kojika, élève de terminale.
+  Mon nom est Kumari Kojika, élève de terminale.
 
 }
 [sha:8990208586d6639a10eb572a30dd2cdb139a96ee]{
 -- Page 23, Offset 23540.
 -- 来年の二月までは夢も希望もない受験生である。
-　Une étudiante désespérée en pleine préparation pour les examens de février.
+  Une étudiante désespérée en pleine préparation pour les examens de février.
 
 }
 [sha:af4cb55de1869fa208cecec7f3d683cefaa5d570]{
 -- Page 23, Offset 23541.
 -- ……と言いつつ、それは都心の大学を志望した子たちの話であって、わたしには関係ない。
-　...... Du moins, le serais-je si je visais une université dans une grande ville, mais ça ne m'intéressait pas.
+  ...... Du moins, le serais-je si je visais une université dans une grande ville, mais ça ne m'intéressait pas.
 
 }
 [sha:4e4fae1851fef4978ac3504291f3216373c130d6]{
 -- Page 23, Offset 23542.
 -- わたしは地元の大学に推薦をとっており、今の学力なら労せずして進学できるからだ。
-　En effet, j'avais déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, j'aurais pu y entrer aisément avec mon niveau actuel.
+  En effet, j'avais déjà une recommandation pour Mizora, l'université locale, et même sans celle-ci, j'aurais pu y entrer aisément avec mon niveau actuel.
 
 }
 [sha:9867c58362e17ef06c6794c23baec013adcb6ec9]{
 -- Page 24, Offset 23543.
 -- もともとわたしの両親はガッチガチの就職派で、地元の大学への進学すら否定的だった。
-　À l'origine, mes parents voulaient que je travaille après le lycée et étaient contre l'idée que j'étudie dans une université, même locale.
+  À l'origine, mes parents voulaient que je travaille après le lycée et étaient contre l'idée que j'étudie dans une université, même locale.
 
 }
 [sha:61edee20eda1dea120006715bd4e07693af17766]{
@@ -445,13 +445,13 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:7a79f5c23cd34ee1ba7f42a75af638601925db5c]{
 -- Page 24, Offset 23545.
 -- 頭が固くて、体が大きくて、山奥の熊みたいな<父親|オヤジ>の弁である。
-　C'était le discours que tenait mon père, énorme et borné comme un ours des montagnes.
+  C'était le discours que tenait mon père, énorme et borné comme un ours des montagnes.
 
 }
 [sha:5051ece39c65b27b36c85c65f3f866cbaf4d01b4]{
 -- Page 24, Offset 23546.
 -- そんな時代錯誤で野蛮な父を、兄たちがこぞって説得してくれた。
-　Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
+  Mes frères s'allièrent pour persuader mon géniteur barbare et vieux jeu.
 
 }
 [sha:bd321bc3c5604aff09c121a876b4fec98a3ffbd8]{
@@ -481,13 +481,13 @@ par inquiétude pour ce que tu pourrais faire au cours de ce genre de festivité
 [sha:b1d09269a23cad5bbd5cc347dc533444529b062d]{
 -- Page 27, Offset 23551.
 -- 正直、うんざりする兄貴どもである。
-　Honnêtement, ils étaient pénibles.
+  Honnêtement, ils étaient pénibles.
 
 }
 [sha:8288dca4fdf7731193cbf0680c7d47ec8f7e8d9a]{
 -- Page 27, Offset 23552.
 -- あと、彼らが口にした体操競技はぜんぶ男性限定だから。
-　En plus, toutes les épreuves de gymnastique qu'ils avaient mentionnées étaient réservées aux hommes.
+  En plus, toutes les épreuves de gymnastique qu'ils avaient mentionnées étaient réservées aux hommes.
 
 }
 [sha:c3335993e4b537cbf5468fc026d165d4be18b391]{
@@ -583,37 +583,37 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:ce56175b2ed7594a8660c74cb66998b25eb4595a]{
 -- Page 28, Offset 23568. Glued. Mods: @x.
 -- ガハハハハ』
-　Ha ha ha ha ha !』
+  Ha ha ha ha ha !』
 
 }
 [sha:206f59923a5fb7e4c8351170d94229714f0c0d82]{
 -- Page 28, Offset 23569.
 -- 兄四匹と父親一匹、がっしりとスクラムを組んでの結論だった。
-　Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
+  Voilà la conclusion qui sortit de la mêlée formée par mon père et mes quatre frères.
 
 }
 [sha:f847a72edeea96c9ba61ac0bac7f22fe2ea2457e]{
 -- Page 29, Offset 23570.
 -- あれがわたしの家族だと思うと死にたくなるが、そんなのは小学校から慣れっこなのでぐっと耐えた。
-　J'étais morte de honte en pensant qu'il s'agissait de ma propre famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
+  J'étais morte de honte en pensant qu'il s'agissait de ma propre famille, mais j'avais encaissé la chose de mon mieux comme j'y étais habituée depuis la primaire.
 
 }
 [sha:9fe22f646a05b0e072f7f00317e40f6c1a5afb2f]{
 -- Page 29, Offset 23571.
 -- わたしは父の言いつけに従い、進学先を渠裸体育大に決めた。推薦はあっさり取れた。
-　J'obéis aux instructions de mon père et choisis l'université d'éducation physique de Mizora. J'obtins aisément une recommandation.
+  J'obéis aux instructions de mon père et choisis l'université d'éducation physique de Mizora. J'obtins aisément une recommandation.
 
 }
 [sha:cb58f24b43f7729b1be60773200c592120eceae8]{
 -- Page 29, Offset 23572.
 -- それで父は安心したが、わたしの逆襲はここからである。
-　Cela rassura mon père, mais mon véritable plan ne faisait que commencer.
+  Cela rassura mon père, mais mon véritable plan ne faisait que commencer.
 
 }
 [sha:40115db51a1d84b27de5703c780a85e278d4c574]{
 -- Page 30, Offset 23573.
 -- わたしは“あくまで滑り止めだから”と都心の大学を第二候補として書き留めた。
-　J'avais inscrit une université de Tokyo en tant que deuxième choix et “solution de rechange”.
+  J'avais inscrit une université de Tokyo en tant que deuxième choix et “solution de rechange”.
 
 }
 [sha:c7ee83857a9040e782a605533728828bb71cb681]{
@@ -625,61 +625,61 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:4e8a310da4027e74bcd12ef46075b7d7355279aa]{
 -- Page 31, Offset 23575.
 -- わたしの言葉に、父は完全に騙された。
-　Ces quelques mots achevèrent de duper mon père.
+  Ces quelques mots achevèrent de duper mon père.
 
 }
 [sha:9fb5c4ee6ec3f1e3c6c734bf7e6c8a6554658610]{
 -- Page 31, Offset 23576.
 -- もちろん本命はその第二候補。
-　Bien sûr, mon véritable objectif était ce deuxième vœu.
+  Bien sûr, mon véritable objectif était ce deuxième vœu.
 
 }
 [sha:bd142cdabab95595876b95378c62b88444b67326]{
 -- Page 31, Offset 23577.
 -- そのために父に内緒でアルバイトをし続けた。
-　Pour atteindre ce but, j'avais continué de trimer dur dans le plus grand secret.
+  Pour atteindre ce but, j'avais continué de trimer dur dans le plus grand secret.
 
 }
 [sha:660e9ae66e200b7d67af3b42d6f129be9b28ca2f]{
 -- Page 31, Offset 23578.
 -- 入試代金と、合格した後の生活費を三年計画で貯めたのだ。授業料は大学側に借り受けることが前提だが、この計画なら有無を言わさず進学する事ができる。
-　J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
+  J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
 
 }
 [sha:5e70296d94e481d229717b9e1c123cf2fc2511e4]{
 -- Page 32, Offset 23579.
 -- 父は頑固で力ずくな性格だが、人の努力を無視できるほど悪人でもない。
-　Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
+  Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
 
 }
 [sha:7b5bc7b3cdadf34648d029bca73d682ff43bdc05]{
 -- Page 32, Offset 23580.
 -- わたしが結果をだして、その後の資金すら貯めていたと知れば、しぶしぶ都心への上京を認めるだろう。
-　Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.
+  Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.
 
 }
 [sha:00791aa5d8b6de1c96d5e7479e292607d5947dab]{
 -- Page 32, Offset 23581.
 -- ま、認めなくても上京するけど。
-　Enfin, même s'il s'y opposait, je partirais.
+  Enfin, même s'il s'y opposait, je partirais.
 
 }
 [sha:0bb682c0f4914d4bccfdc6720580326e2fdcf9f6]{
 -- Page 33, Offset 23582.
 -- ここまで計画は順調だ。
-　Jusque-là, mon plan se déroulait sans accroc.
+  Jusque-là, mon plan se déroulait sans accroc.
 
 }
 [sha:70fd205bd7a07ff1e443abf88ab182f6d3b886ea]{
 -- Page 33, Offset 23583.
 -- わたしを止められるものは、入学試験当日に風邪を引いてしまうか、あるいは―――
-　Pour m'arrêter, il faudrait soit que j'attrape un rhume le jour des examens, soit―――
+  Pour m'arrêter, il faudrait soit que j'attrape un rhume le jour des examens, soit―――
 
 }
 [sha:3fe545db17ee1479ddd1e6d09153d601299e6d24]{
 -- Page 33, Offset 23584.
 -- そう、あるいは―――その、
-　Soit―――eh bien...
+  Soit―――eh bien...
 
 }
 [sha:4148ec07d4bc29a947e962c4adbef843ce999eb6]{
@@ -691,37 +691,37 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:4896bf60e2c316789fbb7412aa3fe19ad54d5eca]{
 -- Page 34, Offset 23586.
 -- 絶句する蒼崎。
-　Aozaki en perdit ses mots.
+  Aozaki en perdit ses mots.
 
 }
 [sha:6744fd2d11256d5edfe9d6d410544e6b13f83487]{
 -- Page 34, Offset 23587.
 -- このよく晴れた日、久遠寺邸でのパーティーというレアイベントに浮かれていたのだろう。
-　Yamashiro s'était sans doute laissé emporter par la joie que lui procurait ce beau temps et la perspective de l'évènement rarissime qu'était la fête au manoir Kuonji.
+  Yamashiro s'était sans doute laissé emporter par la joie que lui procurait ce beau temps et la perspective de l'évènement rarissime qu'était la fête au manoir Kuonji.
 
 }
 [sha:7db1ba001e47e9c3dfd8c5ca77598fb5dddf1fbf]{
 -- Page 34, Offset 23588.
 -- 山城先生は三咲高校最大の禁句を口にした。
-　Par malheur, il aborda le sujet le plus tabou du lycée Misaki.
+  Par malheur, il aborda le sujet le plus tabou du lycée Misaki.
 
 }
 [sha:22aa0cc44b1852d244b01e7da4224fc294376df1]{
 -- Page 35, Offset 23589.
 -- 不思議なこと―――もとい、不思議でもなんでもないけど、蒼崎に彼氏はいない。
-　Étrangement―――non, en réalité, il n'y avait rien d'étrange là-dedans, mais Aozaki n'avait pas de petit ami.
+  Étrangement―――non, en réalité, il n'y avait rien d'étrange là-dedans, mais Aozaki n'avait pas de petit ami.
 
 }
 [sha:6c084504f5a484c3c72f7bf4d122314c06d824ca]{
 -- Page 35, Offset 23590.
 -- 黙っていれば誰もが認める美少女な蒼崎だけど、
-　Lorsqu'elle se taisait, tout le monde reconnaissait qu'Aozaki était une beauté,
+  Lorsqu'elle se taisait, tout le monde reconnaissait qu'Aozaki était une beauté,
 
 }
 [sha:048362ae2892bfb585419b2077829143686f609c]{
 -- Page 35, Offset 23591. Glued. Mods: @x.
 -- 基本状態が不機嫌なため、浮ついた話は一切ないのだ。
-mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
+ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
 
 }
 [sha:59ed96bb4032436da9c45ff6f89206dbec90577c]{
@@ -745,31 +745,31 @@ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune 
 [sha:8139fc91b81c5e7dcc1ed2fd27a7f300cab4e2fc]{
 -- Page 37, Offset 23595.
 -- でしたら今から付き合いましょうか、私たち？
-　Et si nous sortions ensemble, dès maintenant ?
+  Et si nous sortions ensemble, dès maintenant ?
 
 }
 [sha:709a476493dee395906826235dbefefa2936883d]{
 -- Page 37, Offset 23596. Mods: @k, @e.
 -- とりあえず、恋人同士らしくそこの暗がりに連れこんでいいですか？
-　Tout d'abord, puis-je vous emmener dans ce coin sombre, là, comme deux amoureux ?
+  Tout d'abord, puis-je vous emmener dans ce coin sombre, là, comme deux amoureux ?
 
 }
 [sha:c47d3bfe72b0973f36387669f9acc33ee96aed9e]{
 -- Page 37, Offset 23597. Glued. Mods: @x.
 -- ええ、これからするコトとか、あまり人目につくとまずいので」
-　Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
+  Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
 
 }
 [sha:1e0962c43f327fff48d274441e6415acf56e5b3b]{
 -- Page 37, Offset 23598.
 -- にっこりと笑う蒼崎。
-　dit Aozaki en souriant gracieusement.
+  dit Aozaki en souriant gracieusement.
 
 }
 [sha:b14c1436047ee494a8df0f97ef35b8dd7c68498f]{
 -- Page 37, Offset 23599.
 -- 間違いなく人殺しの目つきだった。
-　Elle avait les yeux revolver.
+  Elle avait les yeux revolver.
 
 }
 [sha:2fbedcd72641759b4fdf0b33a34519392df7f7a8]{
@@ -781,19 +781,19 @@ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune 
 [sha:acefb4d46bde61d68e49ef2e1daa09922615919f]{
 -- Page 38, Offset 23601.
 -- そ、そもそも受験生に恋はご法度だったしね！
-　Et... Et puis, l'amour est prohibé pour les élèves en préparation aux examens !
+  Et... Et puis, l'amour est prohibé pour les élèves en préparation aux examens !
 
 }
 [sha:7ed6f0580c7e46e00fe457ea2763ad89962332ed]{
 -- Page 38, Offset 23602.
 -- いや、健全でおおいに結構！」
-　Si tu mènes une vie respectable, fort bien !」
+  Si tu mènes une vie respectable, fort bien !」
 
 }
 [sha:d682bdbf787210f95005631d651fc63db3620d1b]{
 -- Page 38, Offset 23603.
 -- はははは、と軽やかに笑う山城先生。
-　Ha ha ha ha, Yamashiro laissa échapper un rire léger.
+  Ha ha ha ha, Yamashiro laissa échapper un rire léger.
 
 }
 [sha:3549e3548173bc5311a3c44ba5af4a842a91691b]{
@@ -811,37 +811,37 @@ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune 
 [sha:63bed80698d69dc8f7e62bfb1b01d40fe0083617]{
 -- Page 39, Offset 23606.
 -- パーティーといっても、あくまで誕生会って話だし」
-　Même si c'est une fête, ça ne reste qu'un anniversaire.」
+  Même si c'est une fête, ça ne reste qu'un anniversaire.」
 
 }
 [sha:4d480b84158e5d283b726b9ea288479f1b9bcf83]{
 -- Page 40, Offset 23607.
 -- 返答して、自分のハンパさに滅入ってしまう。
-　La naïveté dont je faisais preuve me déprimait.
+  La naïveté dont je faisais preuve me déprimait.
 
 }
 [sha:81437e539a17464d511c07a9965142b81d397a11]{
 -- Page 40, Offset 23608.
 -- わたしは蒼崎ほど男前でもないし、格好よくもない。
-　Je n'étais ni aussi cool ni aussi bien faite qu'Aozaki.
+  Je n'étais ni aussi cool ni aussi bien faite qu'Aozaki.
 
 }
 [sha:2057f408ad8312d4f0952408b3ef8cb192a0d00c]{
 -- Page 40, Offset 23609.
 -- だって今さら、わたしは自分の計画に迷ってしまっている。臆病になっている、と言っていい。
-　Après tous ces préparatifs, j'hésitais à appliquer mon plan. On pouvait presque parler de frousse.
+  Après tous ces préparatifs, j'hésitais à appliquer mon plan. On pouvait presque parler de frousse.
 
 }
 [sha:4c34015996f5144283ddcdf808fb13b1bf22b924]{
 -- Page 40, Offset 23610.
 -- ほんと、自分でも情けないと思うんだけど。
-　J'étais la première à trouver cela pitoyable :
+  J'étais la première à trouver cela pitoyable :
 
 }
 [sha:eb943dbb881ac92e9db91fdc45a598132f3ceca0]{
 -- Page 40, Offset 23611.
 -- わたしにはどうも、進学問題と同じ比重を持った男子生徒が、いるようなのだった。
-　apparemment, il y avait dans ma vie un élève masculin qui revêtait la même importance que mon problème scolaire.
+  apparemment, il y avait dans ma vie un élève masculin qui revêtait la même importance que mon problème scolaire.
 
 }
 [sha:145af1104c17dde95a107cbc65e75b7bca8842f5]{
@@ -865,30 +865,30 @@ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune 
 [sha:63c918b3dfa40c4b49a2a6129b39b82f7e2627d9]{
 -- Page 41, Offset 23615.
 -- なんて台詞、有珠からでると思わなかったわ」
-　Je n'aurais jamais cru qu'une telle phrase sortirait de la bouche d'Alice.」
+  Je n'aurais jamais cru qu'une telle phrase sortirait de la bouche d'Alice.」
 
 }
 [sha:bbe52018699a9079117be831651916a290dcaf09]{
 -- Page 42, Offset 23616.
 -- 白犬塚の山中にある門は、来訪者を拒むようにそびえ立っている。
-　Un portail se dressait au cœur de la colline Shiroinuzaka comme pour refouler tout visiteur.
+  Un portail se dressait au cœur de la colline Shiroinuzaka comme pour refouler tout visiteur.
 
 }
 [sha:1f31034699a7ae7ad1fb024599540b1dcd321132]{
 -- Page 42, Offset 23617.
 -- 蒼崎は解錠の素振りもなく鉄扉を開ける。
-　Aozaki ouvrit la porte en fer sans avoir à la déverrouiller.
+  Aozaki ouvrit la porte en fer sans avoir à la déverrouiller.
 
 }
 [sha:d7e9eed29b7d34e741701a05fc4933b9e62113e3]{
 -- Page 42, Offset 23618.
 -- 門は境界になっているのか、内と外では山林の様子が違って見えた。
-　La porte était une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
+  La porte était une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
 
 }
 [sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
 -- Page 42, Offset 23619.
 -- わたしは―――
-　Je―――
+  Je―――
 
 }

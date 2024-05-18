@@ -1,13 +1,13 @@
 [sha:616c6f6b3ef76f90f313a9daf94a4e444d09e1bd]{
 -- Page 0, Offset 22516.
 -- その前に、
-　Avant ça,
+  Avant ça,
 
 }
 [sha:92dbec0a8eeabbd352bf9ef2e8f811a36aa7d2b7]{
 -- Page 0, Offset 22517.
 -- あのピンク女のアリバイも検証するべきだと思った。
-　je songeai que nous devrions écouter le témoignage de cette fille en rose.
+  je songeai que nous devrions écouter le témoignage de cette fille en rose.
 
 }
 [sha:b16c835ddd5a0292660cec946b60f9ba2b3c8a55]{
@@ -19,13 +19,13 @@
 [sha:9b7737b1755bf81b2fad5fc45c8a7b77ecf2a45a]{
 -- Page 1, Offset 22519.
 -- アタシは関係ないじゃない。だってアタシが来た時、もう爺さんもセンセイとやらもいなくなってたんでしょ？　常識的に考えて、完全にシロよ。
-　Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
+  Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
 
 }
 [sha:2e2cdbfaf85c68fce659162510d2e259685f3d90]{
 -- Page 1, Offset 22520.
 -- だいたい、アタシにはスイーツハーツなんて使う理由がないし。なに不自由のないアイドルだし、願い事なんてたいていはお金で解決できるし。どうせ嵐を呼ぶなら、自分の手で起こして、まわりを犠牲にしてもスッパリ成就させまくるし」
-　D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le faut.」
+  D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le faut.」
 
 }
 [sha:e162e4ce9f3ff23e81b533052ce6e5ae3c8f31e6]{
@@ -37,13 +37,13 @@
 [sha:80be4d4993bf5e90832bab8111f6a0537ace795e]{
 -- Page 2, Offset 22522.
 -- プロイとやらを知っていて、蒼崎と久遠寺に恨みがあって、おまけに慢性的なヒスときた。
-　Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
+  Tu connais les Ploy machin, tu nourris de la rancœur envers Aozaki et Kuonji, et en plus de ça, tu es une hystérique chronique.
 
 }
 [sha:eea3a5318b9349d89c4893231b3df9dc85083fdf]{
 -- Page 2, Offset 22523.
 -- そもそも、なんで呼ばれもしていないのにやって来た。わざわざヘリ飛ばしてまでよ？」
-　Pour commencer, pourquoi tu t'es pointée alors qu'on t'a pas invitée ? En poussant le bouchon jusqu'à venir en hélico ?」
+  Pour commencer, pourquoi tu t'es pointée alors qu'on t'a pas invitée ? En poussant le bouchon jusqu'à venir en hélico ?」
 
 }
 [sha:b0e41d4f938c5dc5e0710f180ab6e8bc8b183ea9]{
@@ -55,13 +55,13 @@
 [sha:e72a660b986f8be945125cc5e9d1aea8fb5179d6]{
 -- Page 3, Offset 22525.
 -- ありゃどういうコトだ。
-　Comment t'expliques ça ?
+  Comment t'expliques ça ?
 
 }
 [sha:5f05396b1bc4e6fa691c2ddd03e1d3cc27bf4c47]{
 -- Page 3, Offset 22526.
 -- それまで屋敷に隠れていて、ヘリを呼びつけたタイミングで登場すれば、さも“たったいま着きましたー！”って状況になるよなあ？」
-　Si tu t'es planquée tout ce temps dans le manoir et tu t'es montrée après l'avoir fait venir, ça donnait l'impression que tu venais d'arriver, non ?」
+  Si tu t'es planquée tout ce temps dans le manoir et tu t'es montrée après l'avoir fait venir, ça donnait l'impression que tu venais d'arriver, non ?」
 
 }
 [sha:92089c789684c89112ba2722f5fb840fb9046f7a]{
@@ -73,7 +73,7 @@
 [sha:cb1cae31e24d34cf0f50f855edc0aacc71ba71b9]{
 -- Page 4, Offset 22528.
 -- アタシ、ちゃんとヘリで来たってば！　雨に濡れないのはゴブリンで弾いたからだし！　なんでアタシが、アンタらを皆殺しにしようなんて思うのよ！？」
-　Je te dis que je suis venue en hélico ! Et je n'étais pas trempée par la pluie simplement parce que je la repoussais avec un Goblin ! Et puis, pourquoi aurais-je l'intention de tous vous massacrer ?!」
+  Je te dis que je suis venue en hélico ! Et je n'étais pas trempée par la pluie simplement parce que je la repoussais avec un Goblin ! Et puis, pourquoi aurais-je l'intention de tous vous massacrer ?!」
 
 }
 [sha:563b26eb0e3095e38d7bcfa59cb5b86ad10067a2]{
@@ -97,7 +97,7 @@
 [sha:b104c42bf606b8e0618be5c0cc25880f39cfd757]{
 -- Page 6, Offset 22532.
 -- ああもう、マジ頭きた。アタシ帰る。帰って第二次ブリティッシュ作戦の準備する。もちろん、標的はここだからね」
-　Raaah, j'en ai plein le crâne ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
+  Raaah, j'en ai plein le crâne ! Je rentre ! Je rentre et je vais préparer la deuxième invasion britannique ! Et évidemment, cet endroit sera sa première cible !」
 
 }
 [sha:574637db415839c296b7927ae699b42ec24f68ea]{
@@ -115,7 +115,7 @@
 [sha:2731f70c1b1484eaa0e57883bd84e3a2731cf7b6]{
 -- Page 7, Offset 22535.
 -- 電話線もなくなってるから、外部と連絡もとれないし」
-　Et comme la ligne du téléphone est coupée, on ne peut pas contacter l'extérieur.」
+  Et comme la ligne du téléphone est coupée, on ne peut pas contacter l'extérieur.」
 
 }
 [sha:7db2c175baa8f6b9ff6963501002a0dc3ee22375]{
@@ -127,19 +127,19 @@
 [sha:8aeede9a989882f7a6e9291bc935adcb4e29ac51]{
 -- Page 8, Offset 22537.
 -- いいわよ、ヘリでしょ、お望み通り呼んでやるわよ。
-　Vous voulez voir l'hélico, c'est ça ? Très bien, je vais l'appeler.
+  Vous voulez voir l'hélico, c'est ça ? Très bien, je vais l'appeler.
 
 }
 [sha:d7e01a9f7efd77fece9514f50b5cd78a17392631]{
 -- Page 8, Offset 22538.
 -- アタシのゴブリンネストを舐めるんじゃないっての！」
-　Ne sous-estimez pas mon Goblin Nest !」
+  Ne sous-estimez pas mon Goblin Nest !」
 
 }
 [sha:0d07d902b981ab09b4bce4693f3f9396cce0f827]{
 -- Page 9, Offset 22539.
 -- ピンク女は威勢良く<啖呵|たんか>をきって、廊下に出て行った。
-　La fille en rose s'écria avec force et se rendit dans le couloir.
+  La fille en rose s'écria avec force et se rendit dans le couloir.
 
 }
 [sha:1a010dab040331dcfc5c81bc79d16663d49ffc9d]{
@@ -157,7 +157,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:68fe2d52e45ae4bce49025672e18bafb4f1f6825]{
 -- Page 10, Offset 22542. Glued. Mods: @x.
 -- ほら、座標は分かるでしょ。さっさと飛ばして。十分以内よ、十分以内』
-　Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
+  Bref, tu as toujours les coordonnées ? Magne-toi de le faire décoller ! Je le veux ici dans dix minutes, capiche ?』
 
 }
 [sha:1f6dfd67c02281b75494c8b4c4c5b63f889c4448]{
@@ -169,13 +169,13 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:82045e2f2aacac3df41d9cb789a9ec3d3946068b]{
 -- Page 11, Offset 22544.
 -- それでも、このアタシが、今すぐ、ミサイルみたいにカッ飛ばせって言ってんの……！
-　Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
+  Je t'ordonne malgré tout de le faire voler jusqu'ici comme un missile...!
 
 }
 [sha:ef8649536f8dda204476790b4a3e0d742ac38b0a]{
 -- Page 11, Offset 22545.
 -- 飛ばしたくても機体がない？　このハイトンチキ、アンタそれでも商人？　頭使いなさいよね。近くに軍用基地あるでしょ。そこに試作の最新鋭機があるって話よ。強襲用の。それ、一機チャーターして』
-　Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
+  Même si tu voulais en faire décoller un autre, il n'y en a aucun disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』
 
 }
 [sha:317f7ebff35e185bddd92fbfae47c29243d35a4d]{
@@ -187,7 +187,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:225383965c5b4928060e3c119b5d4edf9a82119b]{
 -- Page 12, Offset 22547.
 -- はぁ？　会社の立て直しで<実弾|キャッシュ>がない？　機体プラス、スタッフごと買い取らなきゃならん？　上等じゃない、その程度アタシがいくらでも稼いであげるってーの！　アラブの坊ちゃん宅だろうがチャイナの金満家の所だろうが、プライベートライブ<二三|にさん><発|ぱつ>ぶちかましてあげるわよ！　それでおつりがくるでしょ？』
-　Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
+  Quoi ? Comme la compagnie est en plein rétablissement, tu n'as pas de cash ? Tu dois acheter l'appareil avec l'équipage ? Parfait ! Je peux gagner largement assez pour rembourser ça ! Je te ferai un ou deux lives privés dans le palais d'un émirat ou chez un millionnaire chinois ! Et ça te fera de la monnaie, non ?』
 
 }
 [sha:ddcceabfa77f5d38d75eb2a04699a05055caae96]{
@@ -199,25 +199,25 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:1f9eafe8a135ea53c778e7d2560f5c910ca66064]{
 -- Page 13, Offset 22549.
 -- わかったら十分以内！　最新鋭機の、スーパーカッコイイの！　クソアパッチなんか寄越したら親子の縁切るから、覚悟しておくコトね！』
-　Si tu as compris, fais-le dans les dix minutes ! Je veux le nouveau prototype super cool ! Si tu m'envoies un Apache de merde, je romps toute relation avec toi, alors tu ferais mieux de te grouiller !』
+  Si tu as compris, fais-le dans les dix minutes ! Je veux le nouveau prototype super cool ! Si tu m'envoies un Apache de merde, je romps toute relation avec toi, alors tu ferais mieux de te grouiller !』
 
 }
 [sha:2f9852413c7aea53c2e5e821f1539abf9655ec69]{
 -- Page 14, Offset 22550.
 -- ……なんか、ものすごい罵詈雑言が響いてきている。
-　... De terribles paroles étaient vociférées.
+  ... De terribles paroles étaient vociférées.
 
 }
 [sha:f9c72b040714d0ee0ef92722fb78fb9f155cf32b]{
 -- Page 14, Offset 22551.
 -- ピンク女は英語でひとりごとを呟いているっぽいんだけど、あまりにも早口＆<俗語|スラング>の連続で、もう何を言っているんだか聞き取れない。
-　La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait avec des mots d'argot et tellement rapidement que je ne saisissais pas ce qu'elle disait.
+  La fille en rose semblait murmurer quelque chose en anglais, mais elle parlait avec des mots d'argot et tellement rapidement que je ne saisissais pas ce qu'elle disait.
 
 }
 [sha:eb0bb90175ebf5f5d9629d1a0e210c346f83d2ce]{
 -- Page 14, Offset 22552.
 -- ……そもそもわたし、ヒアリング得意じゃないし。
-　... Pour en rajouter, je n'étais pas très douée à l'oral.
+  ... Pour en rajouter, je n'étais pas très douée à l'oral.
 
 }
 [sha:539f7fe5de0f430048de22980d469ff489e631a3]{
@@ -235,7 +235,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:6428f10506e171027df2c25c3261addabaaedf82]{
 -- Page 15, Offset 22555.
 -- スイーツハーツのルールはこの山限定だから、外に出てしまえば何もかもチャラ。アタシは一足先に家に帰って、豪華なディナーとしゃれこませてもらうから」
-　Les règles de Sweets Hearts ne s'appliquent qu'à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première et profiter d'un succulent dîner.」
+  Les règles de Sweets Hearts ne s'appliquent qu'à cette montagne, alors une fois que je l'aurai quittée, je serai libre. Je vais rentrer la première et profiter d'un succulent dîner.」
 
 }
 [sha:c33ba5502d10ffe0e43292548118355f2098c9cd]{
@@ -247,7 +247,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:e93e6c344b9a49edd0599e6eb15112fa1ec0ac88]{
 -- Page 16, Offset 22557.
 -- アタシだって鬼じゃないし、どうしてもって言うなら乗っけていってあげてもいいわよ？　こんな犯人当てゲームにこりごりな人は、いますぐアタシ側に来るコトね」
-　Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez de ce jeu d'enquête feraient mieux de me rejoindre sans attendre.」
+  Je ne suis pas un monstre. Si vous insistez, je peux vous faire monter à bord avec moi. Alors, ceux qui en ont assez de ce jeu d'enquête feraient mieux de me rejoindre sans attendre.」
 
 }
 [sha:026a4c3a7895438977e791abe3574b68bafd8d55]{
@@ -277,7 +277,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:5b7f0342c9ec1b45242b69feebfbd2f2e11379b4]{
 -- Page 18, Offset 22562.
 -- 鳶丸たちはこう言っているけど」
-　Tobimaru et les autres ont donné leur avis, mais qu'en penses-tu, toi ?」
+  Tobimaru et les autres ont donné leur avis, mais qu'en penses-tu, toi ?」
 
 }
 [sha:4a3a3f271ba7545d3131244477d362b144aed160]{
@@ -289,7 +289,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:f23d231fd0ec6132c73715e9e68fa20efd1669e9]{
 -- Page 18, Offset 22564.
 -- 本当は助けが来るならすぐに乗りたいところだが、あのピンク女の手を借りるのは<御免蒙|ごめんこうむ>る。
-　En réalité, si les secours arrivaient, j'aurais vraiment voulu y aller, mais je refusais d'accepter l'aide de cette fille en rose.
+  En réalité, si les secours arrivaient, j'aurais vraiment voulu y aller, mais je refusais d'accepter l'aide de cette fille en rose.
 
 }
 [sha:ddbaf5b211d8bf7cbd8b2832cb6d4097670f37c4]{
@@ -301,7 +301,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:978017b777a637d4be9cc863415258b835b6e52c]{
 -- Page 19, Offset 22566.
 -- いいわよ、好きにすれば？　明日の朝刊の見出しが“山の上の洋館、宿泊客全員行方不明か？”なんてモンにならないよう、せいぜい気をつけなさい」
-　Très bien, faites comme bon vous semble. Mais prenez garde à ce que les titres à la une de demain ne ressemblent pas à : “Tous les invités de la résidence en haut de la montagne portés disparus ?”.」
+  Très bien, faites comme bon vous semble. Mais prenez garde à ce que les titres à la une de demain ne ressemblent pas à : “Tous les invités de la résidence en haut de la montagne portés disparus ?”.」
 
 }
 [sha:b96cd9f2ed0b31a8299261440f0a567257543ad2]{
@@ -313,7 +313,7 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:f9304f3a0ffecf772e7912fbeebd18b1d6b1eae6]{
 -- Page 20, Offset 22568.
 -- そもそもこの天候で助けなんて来るハズないし。外の天気、嵐というより地獄でしょ。夢見がちなのはそっちの頭の方だと思う」
-　D'ailleurs, il est inutile de s'attendre à des secours avec ce temps. En ce moment à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
+  D'ailleurs, il est inutile de s'attendre à des secours avec ce temps. En ce moment à l'extérieur, ce n'est pas une tempête mais un enfer. C'est plutôt ton cerveau qui est en plein rêve.」
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -325,13 +325,13 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 21, Offset 22570.
 -- ……と。
-　... C'est alors que,
+  ... C'est alors que,
 
 }
 [sha:e2cfc53910789dc5090f821b50d34c9d411be29c]{
 -- Page 21, Offset 22571.
 -- 十分を待たずして外からは強風とは別の、異質な風切り音が聞こえてきた。
-　sans attendre les dix minutes, on entendit à l'extérieur un rugissement à la nature différente de celle des rafales de vent.
+  sans attendre les dix minutes, on entendit à l'extérieur un rugissement à la nature différente de celle des rafales de vent.
 
 }
 [sha:dd016ec8ad237a70ca88f43dae967b1d199020d5]{
@@ -343,25 +343,25 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:1d202bfda3abf860dc8059e225a3373b3cd0d817]{
 -- Page 22, Offset 22573.
 -- さっすがパパ、なんだかんだ言ってコネクションも行動力もあるんだからー♪」
-　Je reconnais bien là mon papa. Il a beau tergiverser, il a des relations et le pouvoir d'agir ! ♪」
+  Je reconnais bien là mon papa. Il a beau tergiverser, il a des relations et le pouvoir d'agir ! ♪」
 
 }
 [sha:41399dc96fa1d73b29569a010a6e3b5faef47e2d]{
 -- Page 23, Offset 22574.
 -- 吹きすさぶ嵐の中、一つ目の魔鳥が接近してくる。
-　En pleine tempête, l'œil d'un oiseau diabolique se rapprocha.
+  En pleine tempête, l'œil d'un oiseau diabolique se rapprocha.
 
 }
 [sha:579595cbb30226d349ccf1bdfab2a053f97ccf31]{
 -- Page 23, Offset 22575.
 -- 目と思われたのは、何キロメートル先さえ照らす強力なサーチライトだ。
-　Ce que j'avais pris pour un œil était en fait un puissant projecteur pouvant éclairer les alentours à des kilomètres à la ronde.
+  Ce que j'avais pris pour un œil était en fait un puissant projecteur pouvant éclairer les alentours à des kilomètres à la ronde.
 
 }
 [sha:ef37c3c53ffadc6f0f5fcb32c109bce5e787445e]{
 -- Page 23, Offset 22576.
 -- 鋼鉄のヘリコプターは、風速八十キロもの風をものともせず、
-　L'hélicoptère d'acier n'avait que faire du vent soufflant à 80 km/h et...
+  L'hélicoptère d'acier n'avait que faire du vent soufflant à 80 km/h et...
 
 }
 [sha:a1197e195fbd34322207252059dd2e04a54fc325]{
@@ -397,13 +397,13 @@ Pardon ?! Tu me demandes si je n'ai pas encore abandonné ? Idiiiiiiiiot ! Tu n'
 [sha:52d642e8099a600219637bcad6abad86b30380a9]{
 -- Page 26, Offset 22582.
 -- それに、今のはただのテストよ。
-　Et puis, à l'instant, c'était juste un test.
+  Et puis, à l'instant, c'était juste un test.
 
 }
 [sha:fd0046267e8b52149a1b1f9a5377c07de72c469a]{
 -- Page 26, Offset 22583. Mods: @k, @e.
 -- 本命は後からやって―――
-　Le vrai hélico va arriver apr―――
+  Le vrai hélico va arriver apr―――
 
 }
 [sha:101b4c7844b0defe67581baf0a7fae38635d6224]{
@@ -415,7 +415,7 @@ Attendez un peu, temps mort.」
 [sha:5118d8d19f66600f137101be5eddae2478bc0673]{
 -- Page 27, Offset 22585.
 -- ポケットにポケベルでも入っているのか、ピンク女はまた廊下に出て行ってしまった。
-　La fille en rose se rendit à nouveau dans le couloir suite à la sonnerie appartenant manifestement à un bipeur rangé dans sa poche.
+  La fille en rose se rendit à nouveau dans le couloir suite à la sonnerie appartenant manifestement à un bipeur rangé dans sa poche.
 
 }
 [sha:97dd8381b19845f4e84774431cf0061e8aabce58]{
@@ -427,7 +427,7 @@ Attendez un peu, temps mort.」
 [sha:f2c61d95dd577815e1c984d30bc52ae3273e319c]{
 -- Page 27, Offset 22587.
 -- なんか、廊下から悲鳴が聞こえてくる。
-　Une sorte de cri nous parvenait depuis le couloir.
+  Une sorte de cri nous parvenait depuis le couloir.
 
 }
 [sha:58786368c8aa617e5bed11ef4cdaa93ff43efac8]{
@@ -439,7 +439,7 @@ Attendez un peu, temps mort.」
 [sha:8f6536ad0a3d66b33206c7d689da4d64ba687ae1]{
 -- Page 28, Offset 22589. Glued. Mods: @x.
 -- ちょっと待って、えーと……う、うん、なんとかなるかも』
-　Attends un peu, euh... Hum, oui, ça pourrait le faire.』
+Attends un peu, euh... Hum, oui, ça pourrait le faire.』
 
 }
 [sha:abd8a9366c3cc4d13b30eeb3bf719f3bc6cb91ef]{
@@ -457,12 +457,12 @@ Attendez un peu, temps mort.」
 [sha:9f7178f838f65539349e91a63271b83259052422]{
 -- Page 30, Offset 22592.
 -- ちょっと気になる。
-　Ça me préoccupait un peu.
+  Ça me préoccupait un peu.
 
 }
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 30, Offset 22593.
 -- わたしは、
-　Je...
+  Je...
 
 }

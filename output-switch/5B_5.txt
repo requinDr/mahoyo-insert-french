@@ -13,31 +13,31 @@
 [sha:fc96a6b202c8311279d21d6e1e2183cf448d3ffe]{
 -- Page 1, Offset 6891.
 -- 全力とは言わずとも、休まずに走り続けてはや十分。
-　Cela ferait bientôt dix minutes qu'ils couraient de toutes leurs forces et sans s'arrêter.
+  Cela ferait bientôt dix minutes qu'ils couraient de toutes leurs forces et sans s'arrêter.
 
 }
 [sha:c56e5f72f964510cd3b6a0c8d0ae1fcaeaa4339d]{
 -- Page 1, Offset 6892.
 -- 息を乱しながらふたりは曲がり角に飛びこんだ。
-　Essoufflés, ils se précipitèrent dans le virage.
+  Essoufflés, ils se précipitèrent dans le virage.
 
 }
 [sha:6ae4335469c3d2ff98f488e07902d027228e1d85]{
 -- Page 1, Offset 6893.
 -- 遊園地と言っても所詮はキッツィーランド。
-　Même s'il s'agissait d'un parc d'attractions, ce n'était quand même que le Kitsy Land.
+  Même s'il s'agissait d'un parc d'attractions, ce n'était quand même que le Kitsy Land.
 
 }
 [sha:c795f889f166d9a53f5f1ad33d6ddb8d9f38b72b]{
 -- Page 1, Offset 6894.
 -- 高校生が全力で走れば二十分ほどで一周できる。
-　Si un lycéen courait à toute vitesse, il pourrait en faire le tour en à peu près vingt minutes.
+  Si un lycéen courait à toute vitesse, il pourrait en faire le tour en à peu près vingt minutes.
 
 }
 [sha:74b491db88eb0f493535ad1dcecf84edeaf9a6b8]{
 -- Page 1, Offset 6895.
 -- そんな地域密着型のアミューズメントパークは、しかし。
-　C'était un parc de divertissement typique, conçu pour amuser les gens. Cependant,
+  C'était un parc de divertissement typique, conçu pour amuser les gens. Cependant,
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -55,13 +55,13 @@
 [sha:ac0a120f3d2f9a503aafaf77116e965735e12c36]{
 -- Page 2, Offset 6898.
 -- ……このように。
-　...... à présent,
+  ...... à présent,
 
 }
 [sha:46d1014ba2c3f9aa07b8f3517648a46e413175e4]{
 -- Page 2, Offset 6899.
 -- 住人ばかりか、遊園地そのものを変化させていた。
-　non seulement ses habitants, mais le parc lui-même, avaient été transformés.
+  non seulement ses habitants, mais le parc lui-même, avaient été transformés.
 
 }
 [sha:c5b620409b60d3ab81f84455138afe9428b8eec0]{
@@ -85,7 +85,7 @@
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 4, Offset 6903.
 -- そう。
-　Oui.
+  Oui.
 
 }
 [sha:d95fccf55886ba71c9a1c887856a307178be1562]{
@@ -97,13 +97,13 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:daa31fc5687cccae4b90a017860698696ccf9f88]{
 -- Page 4, Offset 6905.
 -- あらゆるものが、ねじ曲がっている。
-　Ici, tout était altéré.
+  Ici, tout était altéré.
 
 }
 [sha:6627b28de70108e6a5374c1f43b5cccbfc62c686]{
 -- Page 4, Offset 6906.
 -- 遊園地はそれ自体が生き物のように、いまもって、その規模を成長させていた。
-　Le parc d'attractions lui-même était en cet instant précis en pleine croissance, comme un être vivant.
+  Le parc d'attractions lui-même était en cet instant précis en pleine croissance, comme un être vivant.
 
 }
 [sha:96bdb5998d82727eb4d4eb10b3cba2336598cf8c]{
@@ -115,37 +115,37 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:59cd6ba42b48be107c4976ae634c4c7b04db4fa1]{
 -- Page 5, Offset 6908.
 -- 気が付けば包囲網は一段と強固になっている。
-　Avant qu'ils n'aient pu s'en rendre compte, le filet d'encerclement s'était resserré.
+  Avant qu'ils n'aient pu s'en rendre compte, le filet d'encerclement s'était resserré.
 
 }
 [sha:3d90af4f73e7af8dad06dbefc699ebc5b726c682]{
 -- Page 6, Offset 6909.
 -- 草十郎に背中をあずけながら、青子は懸命に泣き言を抑えこむ。
-　Confiant à Sōjūrō la tâche de surveiller ses arrières, Aoko retenait à grand-peine ses jurons.
+  Confiant à Sōjūrō la tâche de surveiller ses arrières, Aoko retenait à grand-peine ses jurons.
 
 }
 [sha:a5ad6fdb8db8a0e8aac97bb7f4828772b0389216]{
 -- Page 6, Offset 6910.
 -- 草十郎は驚き、怖がるだけでいい。
-　Que Sōjūrō soit surpris et effrayé suffisait déja amplement.
+  Que Sōjūrō soit surpris et effrayé suffisait déja amplement.
 
 }
 [sha:b05dbf3958ed4ee3011318e94d1340d66e21df28]{
 -- Page 6, Offset 6911.
 -- けれど青子はそうはいかない。
-　Aoko, quant à elle, ne pouvait pas se le permettre.
+  Aoko, quant à elle, ne pouvait pas se le permettre.
 
 }
 [sha:76be611dcd01cbeba47dc812f13d1e9263771478]{
 -- Page 6, Offset 6912.
 -- この状況を招き、彼の手を取った責任がある。
-　Elle était responsable de la situation actuelle et de lui avoir pris la main.
+  Elle était responsable de la situation actuelle et de lui avoir pris la main.
 
 }
 [sha:a134d666563dca1c3232bf1a54ddb90e6dadd7c5]{
 -- Page 6, Offset 6913.
 -- おいそれとパニックに<陥|おちい>るワケにはいかないのだ。
-　Elle ne devait pas céder si vite à la panique.
+  Elle ne devait pas céder si vite à la panique.
 
 }
 [sha:5d085d35f83d8f463b1ef358ddec28c0fa5439db]{
@@ -157,37 +157,37 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:65bd681c4a67cf565b2651bc4b1f8a95b59f48c4]{
 -- Page 7, Offset 6915.
 -- 遊園地の果てはある。遠いけど、鉄柵はちゃんと見える。
-　Ce parc d'attractions a bien une fin. C'est loin, mais je vois clairement la clôture.
+  Ce parc d'attractions a bien une fin. C'est loin, mais je vois clairement la clôture.
 
 }
 [sha:0e752b9dfc0b3b008e28bdbc88d84570d0d5839d]{
 -- Page 7, Offset 6916.
 -- フラットスナークだって制限無しってワケじゃない。外に逃げるって選択は正しいはず……。
-　Ce n'est pas comme si Flat Snark n'avait aucune restriction. Le choix de s'enfuir à l'extérieur devrait être le plus judicieux......
+  Ce n'est pas comme si Flat Snark n'avait aucune restriction. Le choix de s'enfuir à l'extérieur devrait être le plus judicieux......
 
 }
 [sha:d99607bb50fcd6ec686e19db6f8954e0297f1458]{
 -- Page 7, Offset 6917.
 -- 現状、外までは目算で一キロぐらいだけど―――”
-　Même si je dirais qu'il nous reste encore un kilomètre environ jusqu'à l'extérieur―――”
+  Même si je dirais qu'il nous reste encore un kilomètre environ jusqu'à l'extérieur―――”
 
 }
 [sha:32d72731ecb21d4def2773d169c3e5e304b7357c]{
 -- Page 8, Offset 6918.
 -- ここまで夢中で走りすぎた。
-　Depuis tout à l'heure, ils n'avaient pas arrêté de courir à s'en exploser les poumons.
+  Depuis tout à l'heure, ils n'avaient pas arrêté de courir à s'en exploser les poumons.
 
 }
 [sha:d394e11faba907fa913322c02abe8ef2021334a5]{
 -- Page 8, Offset 6919.
 -- 青子も草十郎も息が上がっている。
-　Aoko et Sōjūrō étaient tous deux complètement essoufflés.
+  Aoko et Sōjūrō étaient tous deux complètement essoufflés.
 
 }
 [sha:9a3b21bfae69e457265cef3b43e412c55d185e81]{
 -- Page 8, Offset 6920.
 -- あと一キロ走るのなら、いったん休憩をいれないと途中で足が止まってしまう。
-　S'il leur restait encore un kilomètre à parcourir, il leur faudrait se reposer en cours de route, sinon leurs jambes les lâcheraient en chemin.
+  S'il leur restait encore un kilomètre à parcourir, il leur faudrait se reposer en cours de route, sinon leurs jambes les lâcheraient en chemin.
 
 }
 [sha:e82fc8de60e7ab3b56d12398a5949fd6d5a29745]{
@@ -205,7 +205,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:7c86c83c93e6945f2daa717a0f728507c434493f]{
 -- Page 9, Offset 6923.
 -- 背中ごしに<囁|ささや>きかけられ、青子は現実に引き戻された。
-　Aoko fut ramenée à la réalité par le chuchotement dans son dos.
+  Aoko fut ramenée à la réalité par le chuchotement dans son dos.
 
 }
 [sha:0a0243e248c4c99d681daed884dc465c1412993d]{
@@ -229,13 +229,13 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:5606ba7b40e9192ca6c210596daa22f7c1329de3]{
 -- Page 11, Offset 6927.
 -- 言って、くすりと笑ってしまった。
-　Tout en parlant, elle rit légèrement.
+  Tout en parlant, elle rit légèrement.
 　
 }
 [sha:54cd3e4db5aa1f4662e0cefb8e0f2b635895ae9f]{
 -- Page 11, Offset 6928.
 -- 背中の戦友はパニック状態どころか、きちんと現状と、その打開策を考えていた。
-　Loin de paniquer, son compagnon d'armes se tenant derrière elle réfléchissait posément à une solution pour se sortir de cette situation.
+  Loin de paniquer, son compagnon d'armes se tenant derrière elle réfléchissait posément à une solution pour se sortir de cette situation.
 
 }
 [sha:0c427d393f0e1344e91ba267c646556a1f61328f]{
@@ -253,19 +253,19 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:709a6a8eb67eb3bdd9277fb5491c82c6a9bc45e3]{
 -- Page 12, Offset 6931.
 -- 焼きたてパンたちの包囲網。
-　L'encerclement des pains frais.
+  L'encerclement des pains frais.
 
 }
 [sha:f3225b8ba7546aa673dd9fcc29853c3d55d65c0d]{
 -- Page 12, Offset 6932.
 -- 常人ならいざ知らず、青子ならこの囲みを破って建物に逃げこむのは<容易|ようい>だ。
-　Ce n'était peut-être pas à la portée d'une personne normale, mais Aoko pouvait facilement le franchir et se réfugier dans les bâtiments.
+  Ce n'était peut-être pas à la portée d'une personne normale, mais Aoko pouvait facilement le franchir et se réfugier dans les bâtiments.
 
 }
 [sha:e22827496dc1444206d1cedb72447e92a506a144]{
 -- Page 12, Offset 6933.
 -- 問題は―――
-　Le problème―――
+  Le problème―――
 
 }
 [sha:345d10a0ea1525bc3ec900625e1881d346377abd]{
@@ -277,19 +277,19 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:0f3fc995dee90cdeb01ae655018fd4283ff2d528]{
 -- Page 14, Offset 6935.
 -- 変貌する遊園地の特性を考慮する。
-　Elle considéra les particularités du parc d'attractions en pleine transformation.
+  Elle considéra les particularités du parc d'attractions en pleine transformation.
 
 }
 [sha:196e196db18b73d62d3c1c665d98c944849beda7]{
 -- Page 14, Offset 6936.
 -- 何が危険で、何が安全なのか。
-　Qu'est-ce qui était dangereux et qu'est-ce qui était sûr ?
+  Qu'est-ce qui était dangereux et qu'est-ce qui était sûr ?
 
 }
 [sha:62060b8c85337a768728be0b74ae042afa5f93ad]{
 -- Page 14, Offset 6937.
 -- 大事なのは建物の強度や複雑さではなく―――
-　L'important ne résidait pas dans la résistance ou la complexité du bâtiment, mais―――
+  L'important ne résidait pas dans la résistance ou la complexité du bâtiment, mais―――
 
 }
 [sha:0ff4366727ba82ac203430dcb3e4d8972d572943]{
@@ -307,7 +307,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:f025537887868432c99e99c4f1ac4999835da1a4]{
 -- Page 15, Offset 6940.
 -- 怪物たちを蹴散らしてカウンターに飛びこむ青子と、その後に続く草十郎。
-　Après avoir dispersé les monstres, Aoko se précipita vers le comptoir, Sōjūrō à sa suite.
+  Après avoir dispersé les monstres, Aoko se précipita vers le comptoir, Sōjūrō à sa suite.
 
 }
 [sha:de43c7cff4036b5a76273649af4a2bb81ec3b583]{
@@ -319,7 +319,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:16679498f0931a0514a62ce7f0bd9899c15e9650]{
 -- Page 16, Offset 6942.
 -- 青子は西部劇の銃撃戦のように、カウンターを盾にして怪物たちと対峙する。
-　Comme lors des échanges de coups de feu dans les films de western, Aoko se servit du comptoir comme bouclier et fit face aux monstres.
+  Comme lors des échanges de coups de feu dans les films de western, Aoko se servit du comptoir comme bouclier et fit face aux monstres.
 
 }
 [sha:0e8b2f297a301d1054de17ad40084c8762a69d60]{
@@ -331,7 +331,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:ca160b68eaf314d2e2bc28e02d95052091a9b6c3]{
 -- Page 17, Offset 6944.
 -- 敵の様子を確認し、青子もカウンター内部に腰を下ろした。
-　Elle s'assura que l'ennemi resterait à distance, puis s'assit derrière le comptoir.
+  Elle s'assura que l'ennemi resterait à distance, puis s'assit derrière le comptoir.
 
 }
 [sha:acb256b43228dc0acc5dcad74d576ff40e8ea98c]{
@@ -355,13 +355,13 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:97661eb99e2aaefb0123461b14e7f87f1f7dcfbf]{
 -- Page 18, Offset 6948.
 -- 不思議がる草十郎にまあまあと笑いかけて、青子は大きく胸を上下させた。
-　Voyant Sōjūrō dans l'expectative, Aoko tâcha de le calmer en souriant et inspira longuement.
+  Voyant Sōjūrō dans l'expectative, Aoko tâcha de le calmer en souriant et inspira longuement.
 
 }
 [sha:e0eac6473c84800ba1677981cff27103836005f8]{
 -- Page 18, Offset 6949.
 -- 安堵と、おそらくは疲労からきた大きな息継ぎ。
-　C'était une grande inspiration, que la décontraction et probablement la fatigue avaient provoquée.
+  C'était une grande inspiration, que la décontraction et probablement la fatigue avaient provoquée.
 
 }
 [sha:9ea0e753a9f3982a8cbe89e1de2bf39a1892a022]{
@@ -373,7 +373,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:87b4251d78cb58511d73f138dcc9bd1bf3b27e06]{
 -- Page 19, Offset 6951.
 -- レジスターも調理道具も最近のものだし、擬人化されたマスコットもないし。スナーク化するには、ちょい文明圏すぎるってコト」
-　La caisse et les outils de cuisine sont modernes, et il n'y a pas de mascotte personnifiée. Autrement dit, c'est un peu trop civilisé pour la Snarkisation.」
+  La caisse et les outils de cuisine sont modernes, et il n'y a pas de mascotte personnifiée. Autrement dit, c'est un peu trop civilisé pour la Snarkisation.」
 
 }
 [sha:b303f2de1fa104b9486e29424053a0027497cf58]{
@@ -391,19 +391,19 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:6f87440d04ab050b9a88d7def5de9ddbe63b39af]{
 -- Page 21, Offset 6954.
 -- 安全と分かって落ち着いたのか、草十郎は興味津々とばかりに耳を傾ける。
-　Sōjūrō, semblant avoir compris qu'ils étaient en sécurité, tendit l'oreille, intrigué.
+  Sōjūrō, semblant avoir compris qu'ils étaient en sécurité, tendit l'oreille, intrigué.
 
 }
 [sha:52d0d9069bade4663d5e020555cff67fa4a2f45b]{
 -- Page 21, Offset 6955.
 -- なるほど、なんてしかつめらしく頷いているが、きっと分かってないだろうなー、と青子はつい笑ってしまった。
-　Il acquiesçait formellement en disant qu'il comprenait, mais Aoko sourit en songeant qu'en fait, ce n'était sûrement pas le cas.
+  Il acquiesçait formellement en disant qu'il comprenait, mais Aoko sourit en songeant qu'en fait, ce n'était sûrement pas le cas.
 
 }
 [sha:a7059f5804c74e535ad5ddeefa5c66928d7c3e68]{
 -- Page 21, Offset 6956.
 -- 普段ならイラっとくるところだが、今は彼の妙な真面目さがありがたく、あたたかい。
-　Habituellement, ça l'aurait énervée, mais pour le moment, son étrange diligence lui réchauffait le cœur.
+  Habituellement, ça l'aurait énervée, mais pour le moment, son étrange diligence lui réchauffait le cœur.
 
 }
 [sha:0276afab6bab0debf0f836cec0e4a9f3c81bf504]{
@@ -415,13 +415,13 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:08bb561d173015662e8b21db6087e60a2d3fef42]{
 -- Page 22, Offset 6958.
 -- そんな青子の笑みを余裕と勘違いして、草十郎も顔をほころばす。
-　Prenant à tort son sourire pour de la sérénité, ce fut au tour de Sōjūrō de sourire largement.
+  Prenant à tort son sourire pour de la sérénité, ce fut au tour de Sōjūrō de sourire largement.
 
 }
 [sha:0e3000a859b0f1d7d256bd9f4b5ecb17e3d2e4a7]{
 -- Page 22, Offset 6959.
 -- 誤解の連鎖だが、今はそれを<糾|ただ>すこともない。
-　C'était un enchaînement de malentendus, mais elle ne le rectifia pas.
+  C'était un enchaînement de malentendus, mais elle ne le rectifia pas.
 
 }
 [sha:c23f6b0734e6a47c9230e2cc0d5e078b6c9524a8]{
@@ -433,7 +433,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:604be9115d0b3020a46c31b831160af80af4ced5]{
 -- Page 23, Offset 6961.
 -- 私の魔弾の威力が上がっているの」
-　La puissance de mes balles de prana a augmenté.」
+  La puissance de mes balles de prana a augmenté.」
 
 }
 [sha:268a939c099e59f883c136e91fdbb5a805153e9b]{
@@ -463,7 +463,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:fb4d55e549264f3d156dd15c6bf7103833ed7d76]{
 -- Page 24, Offset 6966.
 -- 不覚にも、ちょっと見直す青子だった。
-　Aoko dut réviser légèrement son jugement.
+  Aoko dut réviser légèrement son jugement.
 
 }
 [sha:151654f9d207e34b0702ecd076e66767c119b660]{
@@ -475,37 +475,37 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:33e2fb00200de0f9ad722dbdc09bb2522fcf4632]{
 -- Page 25, Offset 6968.
 -- 私の魔弾の威力が上がっているのは、単純に魔力の濃度の問題。さっきから霧がかかってるでしょ？　あれ、全部魔力なのよ。<魔|タ><弾|マ>を撃つための燃料と思って」
-　Si la puissance de mes balles augmente, c'est simplement à cause de la concentration en prana. Depuis tout à l'heure, il y a du brouillard, pas vrai ? Eh bien, il est entièrement constitué de prana. Vois ça comme un combustible qui permet de tirer les balles.」
+  Si la puissance de mes balles augmente, c'est simplement à cause de la concentration en prana. Depuis tout à l'heure, il y a du brouillard, pas vrai ? Eh bien, il est entièrement constitué de prana. Vois ça comme un combustible qui permet de tirer les balles.」
 
 }
 [sha:8511cd96744058527f854d4518b38a717a511685]{
 -- Page 26, Offset 6969. Mods: @n.
 -- 魔力とは大きく二種類あり、
-　Il y a deux principaux types de prana,
+  Il y a deux principaux types de prana,
 
 }
 [sha:4e7cab6ded86e56587b15952a49bafb8be791ba0]{
 -- Page 26, Offset 6970. Mods: @n.
 -- 魔術師が肉体から生成する<小源|オド>と、
-　l'od que le Mage produit à l'intérieur de son corps,
+  l'od que le Mage produit à l'intérieur de son corps,
 
 }
 [sha:a03de41a4077691c5c09be4ce36f8de8025b5927]{
 -- Page 26, Offset 6971. Glued.
 -- 大気に満ちている<大源|マナ>とがある。
-　et le mana contenu dans l'atmosphère.
+  et le mana contenu dans l'atmosphère.
 
 }
 [sha:c08926ecd436d28b84411ec05c2173401f2871af]{
 -- Page 26, Offset 6972.
 -- この遊園地はいま、マナに満ちあふれた御伽の国だ。
-　Actuellement, le parc d'attractions était un pays féerique débordant de mana.
+  Actuellement, le parc d'attractions était un pays féerique débordant de mana.
 
 }
 [sha:1e554e383fa23093f146416baaa52a0012ca274f]{
 -- Page 26, Offset 6973.
 -- 一般人にとっては何の効果もないが、魔術師にとっては術式を使いたい放題の楽園と化している。
-　Pour les personnes normales, ça n'avait aucun effet, mais pour les Mages, l'endroit était devenu un paradis où l'on pouvait utiliser les sorts à volonté.
+  Pour les personnes normales, ça n'avait aucun effet, mais pour les Mages, l'endroit était devenu un paradis où l'on pouvait utiliser les sorts à volonté.
 
 }
 [sha:d222417349a988530215e5fcc5ba5f4bea7180ab]{
@@ -517,7 +517,7 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:7d90e83e1693478c614bd98fd9caef69055f1c25]{
 -- Page 27, Offset 6975.
 -- 注意すべきは怪我と体力だけ？」
-　Nous devons juste faire attention à nos forces restantes et à d'éventuelles blessures ?」
+  Nous devons juste faire attention à nos forces restantes et à d'éventuelles blessures ?」
 
 }
 [sha:7d39ebd0385e3b584fc473d74496020e790f6310]{
@@ -529,19 +529,19 @@ Leur hésitation ne pouvait pas avoir été provoquée par une simple erreur sur
 [sha:4b5566d68b6fed4342c8b9bc14e67427ac2d61b0]{
 -- Page 28, Offset 6977.
 -- 良かった、と息をつく草十郎。
-　“Ouf”, soupira Sōjūrō.
+  “Ouf”, soupira Sōjūrō.
 
 }
 [sha:8db8d1ef51944aec000cfee0f870a72bfa5f09b3]{
 -- Page 28, Offset 6978.
 -- 草十郎から見れば、青子は怪物たちをなぎ払う遊園地最強の暴れん坊だ。
-　De son point de vue, Aoko était la brute la plus forte du parc d'attractions, capable d'éliminer tous ces monstres.
+  De son point de vue, Aoko était la brute la plus forte du parc d'attractions, capable d'éliminer tous ces monstres.
 
 }
 [sha:d88fc13e41c4189d3d311179051762f68758f0eb]{
 -- Page 28, Offset 6979.
 -- 不安なのは魔力が尽きる事だったが、それがないのであればまさに百人力である。
-　Il redoutait que son prana s'épuise, mais tant que ça ne serait pas le cas, elle était aussi forte que cent personnes réunies.
+  Il redoutait que son prana s'épuise, mais tant que ça ne serait pas le cas, elle était aussi forte que cent personnes réunies.
 
 }
 [sha:337a3c435ad91717341aca8ad928ade4dd365a9c]{
@@ -559,7 +559,7 @@ Ce menu fretin n'est composé que de bric-à-brac sur pattes.
 [sha:3451264e0afe112eee6530c730df8132f5076c68]{
 -- Page 29, Offset 6982.
 -- スナーク本体は当然として、有珠が<他|・><の|・><童|・><話|・><の|・><怪|・><物|・>を出してきたら私じゃどうにもならない」
-　Par contre, contre le Snark ou les autres monstres de contes de fées d'Alice, je ne peux rien faire.」
+  Par contre, contre le Snark ou les autres monstres de contes de fées d'Alice, je ne peux rien faire.」
 
 }
 [sha:72516dbacb2a7ad10c2ed7253d00c95ad0c9bd42]{
@@ -589,7 +589,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:b3f100bd5feab5316da8467fb8ed4f779e6f4334]{
 -- Page 30, Offset 6987.
 -- 自分の事は棚にあげて？　と言いたげな顔である。
-　Il répondit, le visage circonspect : “Vous vous croyez supérieurs, peut-être ?”
+  Il répondit, le visage circonspect : “Vous vous croyez supérieurs, peut-être ?”
 
 }
 [sha:dbf3859d85fe77b5e32f44daf9e8c7c9729b92f7]{
@@ -601,7 +601,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:82b39f52d5708392688528f639445ded8e402519]{
 -- Page 31, Offset 6989.
 -- できない事もあるし、当たり前の事だけど、近代兵器には敵わない。二十世紀―――ま、色んな戦争の後押しで、兵器の進化は私たちを越えちゃったから」
-　Il y a des choses qui restent hors de notre portée, ce qui est normal, et surtout, on n'est pas de taille face aux armes modernes. Au cours du XXe siècle―――eh bien, les différentes guerres aidant, les progrès en matière d'armement ont été tels qu'on s'est retrouvés dépassés.」
+  Il y a des choses qui restent hors de notre portée, ce qui est normal, et surtout, on n'est pas de taille face aux armes modernes. Au cours du XXe siècle―――eh bien, les différentes guerres aidant, les progrès en matière d'armement ont été tels qu'on s'est retrouvés dépassés.」
 
 }
 [sha:28c3748330e61af86eb96256de237bdd2efbf381]{
@@ -613,19 +613,19 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:eac5dcd7d46ad5ccf56aa1a712e9fea55579836d]{
 -- Page 32, Offset 6991.
 -- たとえば、あのブレッドマンいるでしょ？
-　Par exemple, tu vois ces hommes-pains ?
+  Par exemple, tu vois ces hommes-pains ?
 
 }
 [sha:e20b62775ee95a6ea1cba81e2a32f1868f6bd982]{
 -- Page 32, Offset 6992.
 -- あいつには自動拳銃とかきかないわよ。たぶん、意味が分かっていないから」
-　Les pistolets automatiques et les autres trucs du même genre ne fonctionnent pas sur eux. Sûrement parce qu'ils ne comprennent pas leur nature.」
+  Les pistolets automatiques et les autres trucs du même genre ne fonctionnent pas sur eux. Sûrement parce qu'ils ne comprennent pas leur nature.」
 
 }
 [sha:47f5afeb967ad3367a672b6a71f3f4713dc7362f]{
 -- Page 32, Offset 6993.
 -- ひょい、とカウンターから外を指す青子。
-　dit Aoko tout en montrant au même moment l'extérieur avec son doigt.
+  dit Aoko tout en montrant au même moment l'extérieur avec son doigt.
 
 }
 [sha:b2e21fe802c9bfee5de79accbc6f8159c4c6d578]{
@@ -637,7 +637,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:69362d0295a790f676f6524cdc6c9138626dfc3d]{
 -- Page 33, Offset 6995.
 -- 前提からしてあり得ない事だから、通常の物理法則と折り合いが悪い。空想と現実は両立しないっていう、ごく当たり前の理由でね」
-　Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
+  Ce sont des choses déjà improbables en soi, c'est pourquoi elles interagissent mal avec les lois de la physique. Pour une raison très simple : l'imaginaire et la réalité ne peuvent coexister.」
 
 }
 [sha:3c5b1143292da39b4ca886b39cdb862610358841]{
@@ -649,7 +649,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:a5ffaf3bfb02964252782ddaaaf538d3d726b408]{
 -- Page 33, Offset 6997.
 -- 青子の説明の大部分をスルーして、気になるコトだけ拾う草十郎だった。
-　Sōjūrō ignora la majeure partie de l'explication d'Aoko et ne réagit que sur ce qui l'intéressait.
+  Sōjūrō ignora la majeure partie de l'explication d'Aoko et ne réagit que sur ce qui l'intéressait.
 
 }
 [sha:dde195434ecc5a67ff9493f5a4ef4f3033d883ab]{
@@ -661,7 +661,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:4c7399bd965cb7c88a62175f61b7727a3fd3be05]{
 -- Page 34, Offset 6999.
 -- あいつらと近代兵器の相性は最悪。ロケット弾でも効果はないわ。意思の疎通、秩序の共有ができてないから」
-　L'interaction entre les Ploy et les armes modernes est la pire qui soit. Même un lance-roquettes n'aurait aucun effet sur eux. Parce qu'ils ne sont pas sur le même plan d'existence et n'obéissent pas aux mêmes règles.」
+  L'interaction entre les Ploy et les armes modernes est la pire qui soit. Même un lance-roquettes n'aurait aucun effet sur eux. Parce qu'ils ne sont pas sur le même plan d'existence et n'obéissent pas aux mêmes règles.」
 
 }
 [sha:f7c6ba3ea7ed330b50de8ca4a32e49a60def7972]{
@@ -673,7 +673,7 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:a30d9b213dd0ea536d458c823f6d9e0b3a835278]{
 -- Page 35, Offset 7001.
 -- 彼らに<通|つう>じるのは同じ神秘を帯びた“魔力”だけっていうデタラメぶりよ。もう完全に<概念|がいねん>空間っていうか、概念宇宙っていうか―――」
-　La seule chose qui fonctionne sur eux, car imbibée du même Mystère, c'est l'absurdité que l'on appelle “prana”. Comment dire, quelque part, il est à lui tout seul un espace de concepts, voire un univers de concepts―――」
+  La seule chose qui fonctionne sur eux, car imbibée du même Mystère, c'est l'absurdité que l'on appelle “prana”. Comment dire, quelque part, il est à lui tout seul un espace de concepts, voire un univers de concepts―――」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -691,19 +691,19 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:ec49dae9ef951d582cd9eb5af443f8e4988b9673]{
 -- Page 36, Offset 7004.
 -- 要するに、アイツらは伝承防御っていう特別なルールを持っていて、単純に強い力、強い魔術じゃ効果は薄いの。元になった童話にちなんだ欠点をつかないと倒せない。
-　En d'autres termes, ils possèdent une propriété spéciale, la protection du folklore. Pour simplifier, si on n'utilise pas un puissant pouvoir ou une puissante Magie, les effets sont limités. Si on ne trouve pas la faiblesse associée au conte de fées originel, on ne peut pas les battre.
+  En d'autres termes, ils possèdent une propriété spéciale, la protection du folklore. Pour simplifier, si on n'utilise pas un puissant pouvoir ou une puissante Magie, les effets sont limités. Si on ne trouve pas la faiblesse associée au conte de fées originel, on ne peut pas les battre.
 
 }
 [sha:391cd40dac24d174a012e6f0911329fb07e41ba3]{
 -- Page 36, Offset 7005.
 -- ギリシャ神話のアキレスあたり分かりやすい喩えなんだけど……知ってる？」
-　C'est une métaphore basique, présente dans le mythe grec d'Achille...... Tu connais cette histoire ?」
+  C'est une métaphore basique, présente dans le mythe grec d'Achille...... Tu connais cette histoire ?」
 
 }
 [sha:4c3dc847b87106c14648258102c5b8141f1b3eb6]{
 -- Page 36, Offset 7006.
 -- 草十郎はぶんぶんと首を振る。
-　Sōjūrō secoua la tête de gauche à droite.
+  Sōjūrō secoua la tête de gauche à droite.
 
 }
 [sha:3b918a05b8614a6b18df8ce1b040a80bb2d0e124]{
@@ -715,31 +715,31 @@ Ils sont capables de reproduire des histoires fantastiques surréalistes, des ab
 [sha:1eaaab738674960faccca36d043a25ec6546243c]{
 -- Page 37, Offset 7008.
 -- 定番だけどいい<教訓|はなし>よ、アレ」
-　C'est un classique, mais c'est un bon précepte.」
+  C'est un classique, mais c'est un bon précepte.」
 
 }
 [sha:5275d10cd761a47a516b367a0663088d7429e126]{
 -- Page 37, Offset 7009.
 -- ……かなりおいてけぼり感ただよう草十郎だが、彼は彼なりに現状把握に努めてみた。
-　...... Sōjūrō avait le sentiment d'avoir décroché au milieu des explications, mais il s'efforçait de comprendre comme il le pouvait la situation actuelle.
+  ...... Sōjūrō avait le sentiment d'avoir décroché au milieu des explications, mais il s'efforçait de comprendre comme il le pouvait la situation actuelle.
 
 }
 [sha:2adec9a078afdbb9ddd62e35780270fa3c52772a]{
 -- Page 38, Offset 7010.
 -- “<童話の怪物|プロイキッシャー>”とやらは、青子やミラーハウスの自動人形ですら<裸足|はだし>で逃げだすモノだという。
-Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
+  Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du palais des glaces auraient immédiatement fui ventre à terre.
 
 }
 [sha:3922baddf49c872297fdaf8fc5860cc1b11852b9]{
 -- Page 38, Offset 7011.
 -- たしかに目の前の光景は誰かの悪夢の中に迷いこんだとしか思えない。
-　Il était vrai que le spectacle qu'il avait sous les yeux donnait l'impression de s'être perdu dans le cauchemar de quelqu'un.
+  Il était vrai que le spectacle qu'il avait sous les yeux donnait l'impression de s'être perdu dans le cauchemar de quelqu'un.
 
 }
 [sha:740bc4378e85a36c5fdf58f79439e9e7fb534adb]{
 -- Page 38, Offset 7012.
 -- だがしかし、と草十郎は思うのだ。
-　Mais tout de même, pensa Sōjūrō.
+  Mais tout de même, pensa Sōjūrō.
 
 }
 [sha:697085f9d067dfe10b3c8cce795e05ab466abbdd]{
@@ -757,7 +757,7 @@ Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du p
 [sha:2e3c7deff798512fe767bb3a6ed9ea4ab17cdf79]{
 -- Page 39, Offset 7015.
 -- ほら、と無言の抗議をする草十郎。
-　Tu vois, protesta silencieusement Sōjūrō.
+  Tu vois, protesta silencieusement Sōjūrō.
 
 }
 [sha:72c0873846df123a5d9a1d90d3e3b7f8a70c877d]{
@@ -769,13 +769,13 @@ Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du p
 [sha:9977cba059e8546821a9be12c53973aeca380486]{
 -- Page 40, Offset 7017.
 -- 有珠にとって、あのブレッドマンもロブスターもソーセージ屋のミンチマシーンも、全部が全部、私が撃ってる魔弾より価値がない。
-　Ces hommes-pains, le homard, les hachoirs du magasin de saucisses, tout ça revient moins cher à créer pour Alice que les balles de prana que je tire.
+  Ces hommes-pains, le homard, les hachoirs du magasin de saucisses, tout ça revient moins cher à créer pour Alice que les balles de prana que je tire.
 
 }
 [sha:95c14ec58d3580b508246f62f589d5c5f9b1db72]{
 -- Page 40, Offset 7018.
 -- いい？　あの動くマスコットたちはね、<た|・><だ|・><の|・><オ|・><マ|・><ケ|・>なの。有珠が解放した“童話の怪物”の、一呼吸みたいなものなのよ」
-　Tu comprends ? Ces marionnettes vivantes ne sont que des bonus pour elle. On peut voir ça comme le premier souffle du “monstre des contes de fées” qu'elle a libéré.」
+  Tu comprends ? Ces marionnettes vivantes ne sont que des bonus pour elle. On peut voir ça comme le premier souffle du “monstre des contes de fées” qu'elle a libéré.」
 
 }
 [sha:06b4c0bb959a1f05ffe7d5b8b37263229a1ee775]{
@@ -793,7 +793,7 @@ Ce “Ploy Kickshaw” était un cauchemar devant lequel Aoko et l'Automate du p
 [sha:ac3a91f9b765387015d6dc0e6c1f92938dc60f5b]{
 -- Page 41, Offset 7021.
 -- でもそれが現状。たった一体の“童話の怪物”だけで私たちは手一杯。
-　Mais c'est la situation actuelle. Rien qu'avec un “monstre de contes de fées”, on est submergés.
+  Mais c'est la situation actuelle. Rien qu'avec un “monstre de contes de fées”, on est submergés.
 
 }
 [sha:82c938358bcd71ffe7524fed5f9b3d2c0f6301e6]{
@@ -817,7 +817,7 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
 [sha:7aae3f4ac8c0a976ccb8597ec50f9887cf4b3d77]{
 -- Page 42, Offset 7025.
 -- たとえば川がないと目を覚まさない怪物もいる。この遊園地、噴水はあるけど川はないでしょ？　元になった童話しばりなの、あの子の使い魔は」
-　Par exemple, il y a un monstre qui ne se réveillera pas s'il n'y a pas de rivière à proximité. Dans ce parc d'attractions, il n'y a que des fontaines, pas vrai ? Ses familiers sont des contes de fées prisonniers de leurs mythes.」
+  Par exemple, il y a un monstre qui ne se réveillera pas s'il n'y a pas de rivière à proximité. Dans ce parc d'attractions, il n'y a que des fontaines, pas vrai ? Ses familiers sont des contes de fées prisonniers de leurs mythes.」
 
 }
 [sha:8d76a462a5899817634ec26838c87fde89731d40]{
@@ -835,7 +835,7 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
 [sha:9169dbac8da12d4d21dc8811320567f4d43cfd87]{
 -- Page 43, Offset 7028.
 -- 草十郎の合いの手をサラッと無視する青子だった。
-　Aoko ignora complètement l'intervention de Sōjūrō.
+  Aoko ignora complètement l'intervention de Sōjūrō.
 
 }
 [sha:65df1aba479b09d7f1837b556cd67dd391173e45]{
@@ -847,7 +847,7 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
 [sha:02c5865c44ba68ae50aaf2d70819600d96f26e6d]{
 -- Page 44, Offset 7030. Mods: @k, @e.
 -- 有珠の魔術の基本はマザーグース……
-　La base de la Magie d'Alice est <Mother Goose|Ma mère l'Oye>......
+  La base de la Magie d'Alice est <Mother Goose|Ma mère l'Oye>......
 
 }
 [sha:ea09f9fc664d99b260e06f6174739090b21cfe7c]{
@@ -859,7 +859,7 @@ J'imagine que tu ne connais pas. Ce sont des comptines anglaises qui ont pour su
 [sha:a9e02ef6a10333c5923504c430ee5943f8371c11]{
 -- Page 44, Offset 7032.
 -- ただ、そっち系のプロイキッシャーは怖くないの。
-　Mais les Ploy Kickshaw directement basés sur ces contes-là ne sont pas dangereux.
+  Mais les Ploy Kickshaw directement basés sur ces contes-là ne sont pas dangereux.
 
 }
 [sha:6cd396cef0c7e954738adaeb335bd9604803e485]{
@@ -883,7 +883,7 @@ Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.
 [sha:1b3ee58ef72098087280517e06345d7ff0bd1bdc]{
 -- Page 45, Offset 7036.
 -- ……<有珠|あの子>のお母さんが好きでね、<こ|・><っ|・><ち|・><系|・>のはドイツもコイツも尋常じゃない。<魔術師|わたしたち>から見ても勘弁してって言いたくなるわ」
-　...... La mère d'Alice les aimait, vois-tu, et aucun Ploy de cette catégorie n'est ordinaire. Même les Mages n'ont pas trop envie de se frotter à eux.」
+  ...... La mère d'Alice les aimait, vois-tu, et aucun Ploy de cette catégorie n'est ordinaire. Même les Mages n'ont pas trop envie de se frotter à eux.」
 
 }
 [sha:f302291e663d8811783d1f20196b7976e16e5ce6]{
@@ -895,7 +895,7 @@ Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.
 [sha:e6aa028e0a3e2099da8506f91d4d53279556d4d7]{
 -- Page 46, Offset 7038.
 -- たぶんフラットスナークってヤツだと思う。……私も聞き流していたから、詳しくは分からないけど」
-　Je pense que c'est celui qu'on appelle Flat Snark. ...... Mais je ne faisais pas trop attention à ce qu'elle disait, alors je ne me rappelle pas de tous les détails.」
+  Je pense que c'est celui qu'on appelle Flat Snark. ...... Mais je ne faisais pas trop attention à ce qu'elle disait, alors je ne me rappelle pas de tous les détails.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -907,13 +907,13 @@ Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.
 [sha:904d5cc1929854e1f60a50e8d0699ec58f300092]{
 -- Page 47, Offset 7040.
 -- のど元まで出た不満を飲みこむ。
-　Il ravala le mécontentement qui lui restait en travers de la gorge.
+  Il ravala le mécontentement qui lui restait en travers de la gorge.
 
 }
 [sha:56f51df7ec77dcc97bfa04b132010d6360ab3613]{
 -- Page 47, Offset 7041.
 -- こっち系とかそっち系とか曖昧な言い方はやめてほしい草十郎だったが、今の台詞には、他に追及すべき事があったからだ。
-　Parce que même si Sōjūrō aurait préféré qu'elle arrête de parler de toutes ces lignées de façon alambiquée, il y avait un détail dans ce qu'elle venait de dire qu'il voulait tirer au clair.
+  Parce que même si Sōjūrō aurait préféré qu'elle arrête de parler de toutes ces lignées de façon alambiquée, il y avait un détail dans ce qu'elle venait de dire qu'il voulait tirer au clair.
 
 }
 [sha:04109d8cd2072abf6507548f1384664b40e65132]{
@@ -931,25 +931,25 @@ Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.
 [sha:7f1984aeccf0d1ce0d0f8bd0d2f1952517977a84]{
 -- Page 48, Offset 7044.
 -- 私が素人だと思って大げさに自分の魔術を語ってくれてるなあ、舐められてるなあ、とか。あはは」
-　Je pensais que parce que j'étais une novice, elle exagérait en parlant de sa Magie, ou qu'elle se moquait de moi. Ha ha ha.」
+  Je pensais que parce que j'étais une novice, elle exagérait en parlant de sa Magie, ou qu'elle se moquait de moi. Ha ha ha.」
 
 }
 [sha:faddfc5b8c97de5bf530bdfb5df06699bd6f9ff5]{
 -- Page 49, Offset 7045.
 -- 無論、舐めていたのは青子の方だった。
-　Évidemment, celle qui avait sous-estimé l'autre était Aoko.
+  Évidemment, celle qui avait sous-estimé l'autre était Aoko.
 
 }
 [sha:dfb800bde89cdd4447df20af955a392815c19953]{
 -- Page 49, Offset 7046.
 -- 有珠を守る怪物が「本物」だと青子が経験するのは、二人が出会ってからしばらくしての事だ。
-　Aoko s'était rendu compte que les monstres protégeant Alice étaient bien “réels” quelque temps après leur rencontre.
+  Aoko s'était rendu compte que les monstres protégeant Alice étaient bien “réels” quelque temps après leur rencontre.
 
 }
 [sha:f80ce39a5bc96d895a723b6a0bc9e0d1d210bcc3]{
 -- Page 49, Offset 7047.
 -- マインスターの魔女が魔術世界においてどれほど異端なのか、青子は身をもって経験する事になる。
-　Son corps avait expérimenté le fait que la sorcière Meinster était une hérétique absolue dans le monde de la Magie.
+  Son corps avait expérimenté le fait que la sorcière Meinster était une hérétique absolue dans le monde de la Magie.
 
 }
 [sha:20d3f3064877689bf9c35bbf777239216edf049b]{
@@ -973,13 +973,13 @@ Alice a hérité d'un tas de Ploy, mais même parmi eux, c'est l'un des tout mei
 [sha:075d62e764697f79d1142ee0cdc4ac6f9dd4e697]{
 -- Page 50, Offset 7051.
 -- <棄|す>てられたモノ、忘れられたモノを童話的に蘇らせるヤツで、今まで誰も破ったコトがないとか。
-　Elle a dit que c'était celui qui ressuscite sous une forme féerique les choses abandonnées, oubliées, et que jusqu'à maintenant, il n'aurait jamais été vaincu.
+  Elle a dit que c'était celui qui ressuscite sous une forme féerique les choses abandonnées, oubliées, et que jusqu'à maintenant, il n'aurait jamais été vaincu.
 
 }
 [sha:613e2ffed5b2f18b6a8854dfeae9904cd5695898]{
 -- Page 50, Offset 7052.
 -- それで、ついたあだ名が“<触|ふ>れられぬもの”」
-　Et le surnom qui lui a été attribué est “Celui qui ne peut être touché”.」
+  Et le surnom qui lui a été attribué est “Celui qui ne peut être touché”.」
 
 }
 [sha:07ec3ffa09555db850c059cf578e5d4f4e598803]{
@@ -997,13 +997,13 @@ Alice a hérité d'un tas de Ploy, mais même parmi eux, c'est l'un des tout mei
 [sha:c05f922e493e77900c2bca4ed1bac6cfe3b8266b]{
 -- Page 51, Offset 7055.
 -- フラットスナークはその中でも、正体不明さはトップランクのデタラメぶりよ。
-　Même au milieu des autres, l'anonymat de Flat Snark est une aberration de tout premier ordre.
+  Même au milieu des autres, l'anonymat de Flat Snark est une aberration de tout premier ordre.
 
 }
 [sha:7a3a58e1638e2c11e4d8ae1d54672f3fdb8f56e6]{
 -- Page 51, Offset 7056.
 -- ―――貴方、ルイス・キャロルの『スナーク狩り』って本、知ってる？」
-　―――Est-ce que tu connais le livre “La chasse au Snark” de Lewis Carroll ?」
+  ―――Est-ce que tu connais le livre “La chasse au Snark” de Lewis Carroll ?」
 
 }
 [sha:45cc1993411f396956f7f0cef1e1a0b724eff751]{
@@ -1027,7 +1027,7 @@ Alice a hérité d'un tas de Ploy, mais même parmi eux, c'est l'un des tout mei
 [sha:b01947b7a0b4ad07577a74abc28e6ad47a7e94c5]{
 -- Page 53, Offset 7060.
 -- 『スナーク狩り』はね、スナークって呼ばれる正体不明の怪物を捕まえようと奔走する冒険家たちの話なの」
-　“La chasse au Snark”, c'est l'histoire d'aventuriers s'efforçant de capturer un monstre à la nature inconnue appelé Snark.」
+  “La chasse au Snark”, c'est l'histoire d'aventuriers s'efforçant de capturer un monstre à la nature inconnue appelé Snark.」
 
 }
 [sha:b9328ebcabbdd72b67eade35e3e60e7ed420c7d3]{
@@ -1039,61 +1039,61 @@ Alice a hérité d'un tas de Ploy, mais même parmi eux, c'est l'un des tout mei
 [sha:455cad497eead306ec08e6c211ad7da630b2ae9e]{
 -- Page 54, Offset 7062.
 -- “よく分からないもの”探しに奔走する人間の風刺なんだけど―――この遊園地において、誰が<主人公|ベイカー>で、何が<怪物|スナーク>かは言うまでもないでしょ？」
-C'est une satire sur les humains qui partent à la recherche de “quelque chose dont on ne sait pas grand-chose”―――mais dans notre cas, je n'ai pas besoin de dire qui est le boulanger et qui est le Snark, pas vrai ?」
+  C'est une satire sur les humains qui partent à la recherche de “quelque chose dont on ne sait pas grand-chose”―――mais dans notre cas, je n'ai pas besoin de dire qui est le boulanger et qui est le Snark, pas vrai ?」
 
 }
 [sha:8fa3bd804b7e9117276685be69f0aa8283dfa7df]{
 -- Page 55, Offset 7063.
 -- 青子は語らないが、フラットスナークには他にも俗称がある。
-　Aoko ne le précisa pas, mais on connaissait aussi Flat Snark sous un autre nom.
+  Aoko ne le précisa pas, mais on connaissait aussi Flat Snark sous un autre nom.
 
 }
 [sha:b8c425a917b60a997607780b56b6844cd5cb00e3]{
 -- Page 55, Offset 7064.
 -- 不可解の島、五次元平面。
-　L'île mystérieuse, le plan de la cinquième dimension.
+  L'île mystérieuse, le plan de la cinquième dimension.
 
 }
 [sha:2d30fb0bc297070e0cb39096d78e567345408ce2]{
 -- Page 55, Offset 7065.
 -- こちらは有珠が口にしたものではなく、かつてマインスターに破れた魔術師たちのうわごとだ。
-　Ce n'était pas quelque chose qu'Alice avait dit, mais une divagation des Mages qui avaient été vaincus par Meinster.
+  Ce n'était pas quelque chose qu'Alice avait dit, mais une divagation des Mages qui avaient été vaincus par Meinster.
 
 }
 [sha:91ba1b33218abb3f9c46bf90874e7a4c3d7f4ce2]{
 -- Page 56, Offset 7066.
 -- 数学において、スナークとはグラフ理論で用いられる、矛盾した、決してあり得ないある平面グラフを指す。
-　En mathématiques, dans la théorie des graphes, le snark désigne une famille de graphes non planaires, dont il n'existe pas de représentation planaire sans croisement d'arêtes.
+  En mathématiques, dans la théorie des graphes, le snark désigne une famille de graphes non planaires, dont il n'existe pas de représentation planaire sans croisement d'arêtes.
 
 }
 [sha:f93d93d0e14ccde0ee46012e8d6c50cd49b9195d]{
 -- Page 56, Offset 7067.
 -- この世に『無い』と立証されながらも名を与えられた平面。逆説のみで構成された不遇の存在。
-　Un objet mathématique auquel on a attribué un nom alors qu'il “n'existe pas” dans le plan. Une création de l'esprit aboutissant à un paradoxe.
+  Un objet mathématique auquel on a attribué un nom alors qu'il “n'existe pas” dans le plan. Une création de l'esprit aboutissant à un paradoxe.
 
 }
 [sha:4ac5ef2337fe042692e8fa5e83c9b807995c7c97]{
 -- Page 56, Offset 7068.
 -- その名を冠した“童話の怪物”は、誰にも正体を明かす事がないという。
-　On prétendait que personne ne savait quelle était réellement la nature du “monstre de contes de fées” qui portait ce nom.
+  On prétendait que personne ne savait quelle était réellement la nature du “monstre de contes de fées” qui portait ce nom.
 
 }
 [sha:814f48bf303778fc93642936f421351d405abb6f]{
 -- Page 57, Offset 7069.
 -- ……そして、青子は語らない。
-　...... Et Aoko passa sous silence,
+  ...... Et Aoko passa sous silence,
 
 }
 [sha:e7facfcd87b02c6fd567e860b06a56c74f79df93]{
 -- Page 57, Offset 7070.
 -- フラットスナークは成長する“童話の怪物”だ。
-　le fait que Flat Snark était un “monstre de contes de fées” qui se développait,
+  le fait que Flat Snark était un “monstre de contes de fées” qui se développait,
 
 }
 [sha:8b69de2a189d70f22f1cf0e3e510bed2bb7ec631]{
 -- Page 57, Offset 7071.
 -- どこかに隠れている本体は、こうしている今も遊園地を完全な御伽の国に変えようと、<魔|い><力|き>を吐き続けている事を。
-　et que le véritable corps qui se cachait quelque part, même maintenant, continuait de transformer le parc d'attractions en un pays des merveilles parfait, et de cracher du prana.
+  et que le véritable corps qui se cachait quelque part, même maintenant, continuait de transformer le parc d'attractions en un pays des merveilles parfait, et de cracher du prana.
 
 }
 [sha:686a3deefc022446925b045f47a82adead8c906c]{
@@ -1117,19 +1117,19 @@ C'est une satire sur les humains qui partent à la recherche de “quelque chose
 [sha:7f79fc3f4929db15e55615e143b43cbd8f269d28]{
 -- Page 58, Offset 7075.
 -- この遊園地との相性は抜群でしょうね。なにしろ、元々が童話を元にした遊び場だから」
-　Son affinité avec ce parc d'attractions doit être excellente. Après tout, à l'origine, c'était un lieu d'amusement basé sur les contes de fées.」
+  Son affinité avec ce parc d'attractions doit être excellente. Après tout, à l'origine, c'était un lieu d'amusement basé sur les contes de fées.」
 
 }
 [sha:f082e356b981f030f952b332e0e099b49d9d48f2]{
 -- Page 59, Offset 7076.
 -- ……仮にオフィス街であったのなら、フラットスナークもここまでの脅威は持たなかっただろう。
-　...... Si tout ceci s'était passé dans le quartier des affaires, Flat Snark n'aurait pas constitué une si grande menace.
+  ...... Si tout ceci s'était passé dans le quartier des affaires, Flat Snark n'aurait pas constitué une si grande menace.
 
 }
 [sha:fc8cf378b9ff0c9e704d06742798ca7984577e80]{
 -- Page 59, Offset 7077.
 -- せいぜいビルの窓硝子に恐竜の影絵を映す程度の力だ。
-　Il aurait eu tout au plus le pouvoir de refléter sur les fenêtres des gratte-ciel l'ombre d'un dinosaure.
+  Il aurait eu tout au plus le pouvoir de refléter sur les fenêtres des gratte-ciel l'ombre d'un dinosaure.
 
 }
 [sha:d78ffb432884e068e36e1d2b86c1fbc8c1e0b4d0]{
@@ -1141,13 +1141,13 @@ C'est une satire sur les humains qui partent à la recherche de “quelque chose
 [sha:c1fac88e7fd2363457828fffcfab50db63108505]{
 -- Page 60, Offset 7079. Glued.
 -- ん？」
-Hmm ?」
+ Hmm ?」
 
 }
 [sha:0629bba61fed05cace325bab553abdf4102598a2]{
 -- Page 60, Offset 7080.
 -- 草十郎が“その異変”に気が付いたのは、背中にぴちょん、と<粘|ねば>つく液体が落ちたからだ。
-　Sōjūrō remarqua le “phénomène anormal” parce qu'un fluide visqueux lui coulait dans le dos.
+  Sōjūrō remarqua le “phénomène anormal” parce qu'un fluide visqueux lui coulait dans le dos.
 
 }
 [sha:24bf8a8cfd525a58e90f465903f0674e608b5219]{
@@ -1159,7 +1159,7 @@ Hmm ?」
 [sha:088ae8c1b34deb47b7d13a9d94b6d0540e7463d2]{
 -- Page 61, Offset 7082.
 -- 天井を見上げる。
-　Il leva les yeux.
+  Il leva les yeux.
 
 }
 [sha:9edfa9c79cf64b570bc5361b0f116e83a26396a8]{
@@ -1183,7 +1183,7 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:59b439dc22af20f119aec4b3923e4ec68524d4d4]{
 -- Page 61, Offset 7086.
 -- 彼は<率先|そっせん>してカウンターから飛び出した。
-　il sortit brusquement de derrière le comptoir de sa propre initiative.
+  il sortit brusquement de derrière le comptoir de sa propre initiative.
 
 }
 [sha:e23235ce8f1fe0451c4628628c6589863d96ec1c]{
@@ -1195,13 +1195,13 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:6530eba7b61cc3202a26bc232a84213d6bf7fc94]{
 -- Page 62, Offset 7088.
 -- 自殺行為に等しい愚行を止めようと、つられて青子は腰を浮かす。
-　Entraînée par sa tentative de stopper son acte suicidaire, Aoko se releva.
+  Entraînée par sa tentative de stopper son acte suicidaire, Aoko se releva.
 
 }
 [sha:4840d872338bfc19ea9567ad3709f04c65362a87]{
 -- Page 62, Offset 7089.
 -- 瞬間、頭上に何が生まれているのかに気が付いた。
-　À ce moment, elle se rendit compte que quelque chose était en train d'apparaître au-dessus de sa tête.
+  À ce moment, elle se rendit compte que quelque chose était en train d'apparaître au-dessus de sa tête.
 
 }
 [sha:00d7a04023821c713bfdbb9780d58a1eb493a2f0]{
@@ -1219,13 +1219,13 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:61ccafa6b1829f159354147d9d0b86e0b579530b]{
 -- Page 63, Offset 7092.
 -- ばくん、と閉じられる巨大な口。
-　La bouche énorme se referma.
+  La bouche énorme se referma.
 
 }
 [sha:c294f5dd1884f1da860445819b2e9fcf8edff433]{
 -- Page 63, Offset 7093.
 -- 呼びこみマスコットのいないバーガーショップは、その店ごと怪物に変貌していた。
-　Le restaurant de burgers sans mascotte représentative avait été transformé en monstre.
+  Le restaurant de burgers sans mascotte représentative avait été transformé en monstre.
 
 }
 [sha:9260deebf31b12a14679ad5afec3a16d4723a9cf]{
@@ -1237,24 +1237,24 @@ Avant même de réfléchir à ce qui se passait, Sōjūrō bondit et―――
 [sha:853dbdcc714914ae3bef21f1fe69982dd65e0696]{
 -- Page 64, Offset 7095. Glued. Mods: @x.
 -- 普通、もっと違うところに労力さかない！？　そんなにピエロが好きなら入り口にでも飾っとけ！」
-　Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
+  Normalement, on ne fignole pas autant ce genre d'endroit, si ?! S'ils aimaient tant que ça les Pierrots, ils n'avaient qu'à en décorer l'entrée !」
 
 }
 [sha:2fae939a40fe1cfcbb0399d46c1c27c70ccd95e3]{
 -- Page 64, Offset 7096.
 -- 罵倒しながら走る青子。
-　fulminait Aoko tout en courant.
+  fulminait Aoko tout en courant.
 
 }
 [sha:fd8c7c7670c509f8706d7fccc8d6cd3068eeccc9]{
 -- Page 64, Offset 7097.
 -- ……もう安全な場所はどこにもない。
-　...... Il ne restait plus aucun endroit sûr.
+  ...... Il ne restait plus aucun endroit sûr.
 
 }
 [sha:db02728287d8dbaeea7d42a9f37a0b8da54f5497]{
 -- Page 64, Offset 7098.
 -- かろうじて残っていた文明圏すら、刻一刻と童話に侵食されていた。
-　La sphère de la civilisation qui subsistait à peine se faisait engloutir progressivement par les contes de fées.
+  La sphère de la civilisation qui subsistait à peine se faisait engloutir progressivement par les contes de fées.
 
 }

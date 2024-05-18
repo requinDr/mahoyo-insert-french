@@ -7,31 +7,31 @@
 [sha:ab9f823f994f74fbfc8d5c3beac156c58a3971c6]{
 -- Page 0, Offset 23758.
 -- これで指摘したら、わたしがアウトだ……」
-　Si je l'accuse sans preuve, je serai éliminée...」
+  Si je l'accuse sans preuve, je serai éliminée...」
 
 }
 [sha:1ad4848ecd57b65a109929f683d8c8b4d1245be4]{
 -- Page 1, Offset 23759.
 -- 犯人を特定できない。
-　Je ne pouvais pas dévoiler l'identité du coupable.
+  Je ne pouvais pas dévoiler l'identité du coupable.
 
 }
 [sha:5692e091588032b2d17684f2f8b8619faea2b7e2]{
 -- Page 1, Offset 23760.
 -- もう洋館にはわたしと真犯人しかいない。
-　Le manoir n'abritait plus que lui et moi.
+  Le manoir n'abritait plus que lui et moi.
 
 }
 [sha:04122f7d887f8810bd49278d748b061561b89c7a]{
 -- Page 1, Offset 23761.
 -- 当てずっぽうで指名して、わたしが消えてしまったらすべてが終わってしまうのだ。
-　Si je le désignais au hasard et je disparaissais, tout serait terminé.
+  Si je le désignais au hasard et je disparaissais, tout serait terminé.
 
 }
 [sha:d8756b7c9f22a65c1a65183e0e3fbd4e063ab4ea]{
 -- Page 1, Offset 23762.
 -- そんなコトになるのなら、このまま逃げ切ってゲームクリアを目指した方がよっぽど現実、的だ―――？
-　Plutôt que d'en arriver là, ne serait-il pas plus sage de fuir en attendant la fin de la partie―――?
+  Plutôt que d'en arriver là, ne serait-il pas plus sage de fuir en attendant la fin de la partie―――?
 
 }
 [sha:09eded2a4debd4ff309d7b2a3088efabcf3b1068]{
@@ -43,13 +43,13 @@
 [sha:84df13a5d4fb97cd01de21894e8703d4bbcf79c3]{
 -- Page 2, Offset 23764.
 -- わたしの背後に忍び寄っていた影。
-　Quelqu'un s'était faufilé dans mon dos.
+  Quelqu'un s'était faufilé dans mon dos.
 
 }
 [sha:ce30706ebe398c4da926435e61dc901b15c7ac50]{
 -- Page 2, Offset 23765.
 -- そいつは朝の挨拶をするように「やあ」と手を挙げて、
-　Il dit “Yo” en levant la main comme pour faire une salutation matinale.
+  Il dit “Yo” en levant la main comme pour faire une salutation matinale.
 
 }
 [sha:6c0a9f0221c2559abe6047c8bed1cd015d25a424]{
@@ -61,49 +61,49 @@
 [sha:1373e80eff1d4ac20d213efffbb7383aded37066]{
 -- Page 3, Offset 23767. Glued. Mods: @n.
 -- レ
-som
+ som
 
 }
 [sha:16faef19bd38f7b68a22db007b749292970cddf1]{
 -- Page 3, Offset 23768. Glued. Mods: @n.
 -- ワ
-mes
+ mes
 
 }
 [sha:1373e80eff1d4ac20d213efffbb7383aded37066]{
 -- Page 3, Offset 23769. Glued. Mods: @n.
 -- レ
-un
+ un
 
 }
 [sha:5ac47ee7eb113318741887da627935e3ba1fc091]{
 -- Page 3, Offset 23770. Glued. Mods: @n.
 -- ハ
-ex
+ ex
 
 }
 [sha:d47fb4dcc2d888814b5948bfa5d77a5c2e590f78]{
 -- Page 3, Offset 23771. Glued. Mods: @n.
 -- 宇
-tra
+ tra
 
 }
 [sha:f37dc34a29dbd557850662b7624c01ba3e8ccf45]{
 -- Page 3, Offset 23772. Glued. Mods: @n.
 -- 宙
-ter
+ ter
 
 }
 [sha:83b3c280b10a057f11bc431a61d1051ed9d6fa04]{
 -- Page 3, Offset 23773. Glued. Mods: @n.
 -- 人
-res
+ res
 
 }
 [sha:925d2355a53cf654d12b886b9b84189e8cafc425]{
 -- Page 3, Offset 23774. Glued.
 -- ダ」
-tre.」
+ tre.」
 
 }
 [sha:7922233f85a105683b8625799e47bc9bc4c95a0f]{
@@ -115,7 +115,7 @@ tre.」
 [sha:07362929b4d07d38d417cac1f6932bb6c210e819]{
 -- Page 3, Offset 23776.
 -- あまりにも原始的、かつ直接的な手段で、わたしの感性を揺らしやがった。
-　C'était tellement grossier et direct qu'il en avait ébranlé ma sensibilité.
+  C'était tellement grossier et direct qu'il en avait ébranlé ma sensibilité.
 
 }
 [sha:db474ece257aa4c7c7a6983b9368db060c26da4c]{
@@ -133,19 +133,19 @@ tre.」
 [sha:bf09a5dea244afda8e93dcc7b142e418d4ceb0ef]{
 -- Page 4, Offset 23779. Glued. Mods: @n.
 -- ワレワレハ
-Nous
+ Nous
 
 }
 [sha:7a6752e6b99cb885097e60b2370afc6908dea92b]{
 -- Page 4, Offset 23780. Glued. Mods: @n.
 -- ヤッタゼ
-l'avons fait !
+ l'avons fait !
 
 }
 [sha:9cef349ee599c5a8270600179244b209fab7245f]{
 -- Page 4, Offset 23781. Glued.
 -- ヤッタゼ」
-Nous l'avons fait !」
+ Nous l'avons fait !」
 
 }
 [sha:373e69bdebc08749367fd2e34b8e80efe1a8e619]{
@@ -157,19 +157,19 @@ Nous l'avons fait !」
 [sha:ccf813348baf9ca7f83308e920b486e526301fe8]{
 -- Page 5, Offset 23783.
 -- 手足のしびれを気合いで押さえ込んで、間抜けメガネにツッコミを入れる。
-　J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
+  J'endurai l'engourdissement de mes membres et donnai un coup à ses stupides lunettes.
 
 }
 [sha:26962bb02ee8274f8f67f1104de76c03dbdc4f09]{
 -- Page 5, Offset 23784.
 -- 確かにアレは凄い。
-　Que cette farce ait fonctionné était vraiment incroyable.
+  Que cette farce ait fonctionné était vraiment incroyable.
 
 }
 [sha:be9fc7ef4ad0d0847f73c615dd6cf8c38e1bcfda]{
 -- Page 5, Offset 23785.
 -- ここに至ってＷＨＷへの疑問より、あのしゃべり方をやめさせる方を優先させるぐらいなんだから。
-　Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et “Comment ?”.
+  Si bien que je préférai l'empêcher de parler ainsi que de réfléchir au “Qui ?”, “Quand ?” et “Comment ?”.
 
 }
 [sha:dfd942049567186b02b0debc4b281f63795ffbf1]{
@@ -181,19 +181,19 @@ Nous l'avons fait !」
 [sha:bf09a5dea244afda8e93dcc7b142e418d4ceb0ef]{
 -- Page 6, Offset 23787. Glued. Mods: @n.
 -- ワレワレハ
-Nous sommes
+ Nous sommes
 
 }
 [sha:ecd4c7b084bd008c313191bdadca4026e9348cf0]{
 -- Page 6, Offset 23788. Glued. Mods: @n.
 -- 火星人
-un
+ un
 
 }
 [sha:925d2355a53cf654d12b886b9b84189e8cafc425]{
 -- Page 6, Offset 23789. Glued.
 -- ダ」
-martien.」
+ martien.」
 
 }
 [sha:744aef8630f3f08d90c50de9c106a065b62cbcfe]{
@@ -211,7 +211,7 @@ martien.」
 [sha:630ee0f0f1edf24ed60f036fc0b6020dcc6db8f1]{
 -- Page 6, Offset 23792.
 -- わたし、笑っちゃったからもうすぐ死ぬのよ。せめて最期に、どうしてこうなったのかをブチまけて」
-　J'ai rigolé, alors je vais bientôt mourir. Dis-moi au moins, avant que je meure, pourquoi tu as fait tout ça.」
+  J'ai rigolé, alors je vais bientôt mourir. Dis-moi au moins, avant que je meure, pourquoi tu as fait tout ça.」
 
 }
 [sha:ed570247a01de08bdb42466f643a6f4b72cad128]{
@@ -223,7 +223,7 @@ martien.」
 [sha:4cff3606822da015d156dc0f43004bd58d3e24ca]{
 -- Page 7, Offset 23794.
 -- 俺が話せるのは俺の事情だけだからだ」
-　Parce que je ne peux parler que de ce qui me concerne.」
+  Parce que je ne peux parler que de ce qui me concerne.」
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -235,19 +235,19 @@ martien.」
 [sha:c457e2ffd61bbde1d65147b88bad74a250a38459]{
 -- Page 7, Offset 23796.
 -- それはどういう意味だったのか。
-　Qu'est-ce qu'il voulait dire par là ?
+  Qu'est-ce qu'il voulait dire par là ?
 
 }
 [sha:ff4611c676ea1c1c497e1cd71c8497cf02ba46f1]{
 -- Page 7, Offset 23797.
 -- 静希が話せるのは静希の理由だけ。
-　Shizuki ne pouvait parler que de ses propres raisons.
+  Shizuki ne pouvait parler que de ses propres raisons.
 
 }
 [sha:22f72426a7e2450f194be02d25423286a84a4773]{
 -- Page 7, Offset 23798.
 -- それは、つまり―――静希の他に―――
-　En d'autres termes―――à part Shizuki―――
+  En d'autres termes―――à part Shizuki―――
 
 }
 [sha:b683ec54b34201d418b3046912bf3db7b7f1a511]{
@@ -259,13 +259,13 @@ martien.」
 [sha:d3337d229c70b31ef026676b3423f5207be8e148]{
 -- Page 8, Offset 23800.
 -- 一年間、ひたすら“冗談のセンスがない”と言われ続けた男の気持ちが。
-　Les sentiments d'un homme à qui on n'a eu de cesse de dire pendant un an qu'il n'avait “aucun sens de l'humour”.
+  Les sentiments d'un homme à qui on n'a eu de cesse de dire pendant un an qu'il n'avait “aucun sens de l'humour”.
 
 }
 [sha:2837bc9acf489a48ae8c09a8528fde9ea8733e6c]{
 -- Page 8, Offset 23801.
 -- パーティーを盛り上げようと勇気を振り絞るたびに、お呼びじゃない、と突っ返される男の気持ちが」
-　Sais-tu ce que ça fait de passer pour un nigaud à chaque fois que l'on rassemble son courage pour mettre de l'ambiance dans une fête ?」
+  Sais-tu ce que ça fait de passer pour un nigaud à chaque fois que l'on rassemble son courage pour mettre de l'ambiance dans une fête ?」
 
 }
 [sha:e990a8ee682314f444b20794dc08a9fef84a9671]{
@@ -277,13 +277,13 @@ martien.」
 [sha:ff8aa4631fd2ea5b5948f7ba4fa27a7affba9cdc]{
 -- Page 9, Offset 23803.
 -- もう真剣に考えたくもないが、コイツの動機は“冗談センスの証明”だった。
-　Je n'avais même pas envie d'y penser, mais son mobile consistait à prouver qu'il avait un sens de l'humour.
+  Je n'avais même pas envie d'y penser, mais son mobile consistait à prouver qu'il avait un sens de l'humour.
 
 }
 [sha:d9428b44fa1c91af77f278a97fbca80e048a5bea]{
 -- Page 9, Offset 23804.
 -- あの鼻メガネの段階で証明は失敗しているが、とにかく、この男はそんな理由で真犯人に手を貸していたのだっ！
-　Il avait échoué au moment même où il avait décidé d'utiliser ces lunettes-nez, mais malgré tout, cet homme avait donné un coup de main au vrai coupable pour cette raison !
+  Il avait échoué au moment même où il avait décidé d'utiliser ces lunettes-nez, mais malgré tout, cet homme avait donné un coup de main au vrai coupable pour cette raison !
 
 }
 [sha:85152a18049e7048fbd6700a09d839ae73b19642]{
@@ -295,7 +295,7 @@ martien.」
 [sha:483fe0be1c375aea09fea83792bf5027e382d5a8]{
 -- Page 10, Offset 23806.
 -- そんな一発芸で笑う文明人が、他にいるハズがない」
-　Une autre personne civilisée ne rigolerait pas face à une blague pareille.」
+  Une autre personne civilisée ne rigolerait pas face à une blague pareille.」
 
 }
 [sha:5494868530ce803bc1f1cb4eaa14826e854da67b]{
@@ -325,7 +325,7 @@ martien.」
 [sha:630f6139149d31e014d00d27c7953be85f6cfb25]{
 -- Page 11, Offset 23811.
 -- 槻司たちを笑わせたのは、蒼崎の写真でしょ？」
-　Ce qui a fait rire Tsukiji et les autres, c'est la photo d'Aozaki, pas vrai ?」
+  Ce qui a fait rire Tsukiji et les autres, c'est la photo d'Aozaki, pas vrai ?」
 
 }
 [sha:b39cab8cfc2836d569f2187b49f3a5ec59543fa7]{
@@ -337,19 +337,19 @@ martien.」
 [sha:e51f69bb830c93c94a15840a273b7d91c87f8f0d]{
 -- Page 11, Offset 23813.
 -- 同時に、それは俺への報酬でもある」
-　Et c'est aussi ma rémunération.」
+  Et c'est aussi ma rémunération.」
 
 }
 [sha:8d168abcf7711e9c3ac06d8d1a0982507cce0dd6]{
 -- Page 12, Offset 23814.
 -- あの写真。蒼崎の痴態を撮ったアレなら、蒼崎を知っている男連中は笑ってしまう。
-　Tous les garçons qui connaissaient Aozaki riraient en voyant cette photo exhibant sa mésaventure.
+  Tous les garçons qui connaissaient Aozaki riraient en voyant cette photo exhibant sa mésaventure.
 
 }
 [sha:bede6d82df0f4faee2efd7f1d6b397a036ce8a3c]{
 -- Page 12, Offset 23815.
 -- とくに山城先生と槻司、詠梨神父にとってはガード不能の攻撃だったに違いない。
-　Spécialement pour le professeur Yamashiro, Tsukiji et père Eiri, ça devait sans aucun doute être une attaque imparable.
+  Spécialement pour le professeur Yamashiro, Tsukiji et père Eiri, ça devait sans aucun doute être une attaque imparable.
 
 }
 [sha:7f5f132d589357dc95e3e3d91c04a0529e85a2d8]{
@@ -361,42 +361,42 @@ martien.」
 [sha:45d584c55d2392f48c5ed588f116a5f28ad3b981]{
 -- Page 12, Offset 23817.
 -- 口にしようとした喉が、ざらりと崩れ去る。
-　Ma gorge s'effritait tandis que j'essayais de prononcer son nom.
+  Ma gorge s'effritait tandis que j'essayais de prononcer son nom.
 
 }
 [sha:41729a6da4fa79305b7238e474897433d213cab9]{
 -- Page 13, Offset 23818.
 -- すべてはスイーツハーツの思惑通り。
-　Tout se passait comme l'espérait Sweets Hearts.
+  Tout se passait comme l'espérait Sweets Hearts.
 
 }
 [sha:d0a119088d69673ed499d6a3c2991f66ca5b0495]{
 -- Page 13, Offset 23819.
 -- 犯人である静希は最後まで残り、犯人当ては失敗し、わたしはここで真っ白になる。
-　Shizuki, le coupable, survivait jusqu'à la fin, la recherche du coupable échouait et je disparaissais.
+  Shizuki, le coupable, survivait jusqu'à la fin, la recherche du coupable échouait et je disparaissais.
 
 }
 [sha:6e6470501f4f5beb676d3fd20e791104ea0d0a56]{
 -- Page 14, Offset 23820.
 -- ―――あともう一歩。
-　―――Encore un pas.
+  ―――Encore un pas.
 
 }
 [sha:73095c421e3a8e179fb0707dd4f7407046eb9d54]{
 -- Page 14, Offset 23821.
 -- あともう少しで元凶にたどり着いたのに。
-　Un tout petit peu et j'aurais démasqué le responsable.
+  Un tout petit peu et j'aurais démasqué le responsable.
 
 }
 [sha:1cfba78ffda9532421d31083772961587d29f51e]{
 -- Page 14, Offset 23822.
 -- 夕方からこっち、もっとまじめに、
-　Si seulement j'avais été plus sérieuse toute la soirée,
+  Si seulement j'avais été plus sérieuse toute la soirée,
 
 }
 [sha:e2270bfc3b40fb5e8877c3d306687224f43f1dad]{
 -- Page 14, Offset 23823.
 -- 正しい推理を重ねていれば―――
-　et si seulement j'avais fait les bonnes déductions―――
+  et si seulement j'avais fait les bonnes déductions―――
 
 }

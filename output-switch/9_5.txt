@@ -1,25 +1,25 @@
 [sha:21da2646754c30690d2e8841cf12c15de1216b92]{
 -- Page 0, Offset 13681.
 -- 三咲市唯一の地下鉄線。
-　La ville de Misaki ne possédait qu'une seule ligne de métro.
+  La ville de Misaki ne possédait qu'une seule ligne de métro.
 
 }
 [sha:302dec4256adc8ecceb2bfec1e41883c3241156a]{
 -- Page 0, Offset 13682.
 -- 開通からまだ半年ほどしか経っていない真新しいホームの先端に、彼女たちは<佇|たたず>んでいた。
-　Les deux jeunes filles se tenaient immobiles à l'extrémité du tout nouveau quai inauguré moins de six mois auparavant.
+  Les deux jeunes filles se tenaient immobiles à l'extrémité du tout nouveau quai inauguré moins de six mois auparavant.
 
 }
 [sha:063ca7986f4f8de565a065e8f67d33c541219ed0]{
 -- Page 0, Offset 13683.
 -- 時刻は午後六時半。
-　Il était dix-huit heures trente.
+  Il était dix-huit heures trente.
 
 }
 [sha:8d1b6fe9f126c38864ac445dd3bd1f3a6df045a8]{
 -- Page 0, Offset 13684.
 -- 有坂から戻ってきた青子たちは地上には上がらず、既に二十分近い時間をここで浪費していた。
-　Revenues d'Arisaka, Aoko et Alice n'étaient pas remontées à la surface et avaient déjà gaspillé près de vingt minutes de leur temps ici.
+  Revenues d'Arisaka, Aoko et Alice n'étaient pas remontées à la surface et avaient déjà gaspillé près de vingt minutes de leur temps ici.
 
 }
 [sha:20abd43fbfdce349ae3bc7f4d99709d5eb5318f0]{
@@ -31,7 +31,7 @@
 [sha:922365590cc513a4c76d26ceb1164f0f2e0aa57c]{
 -- Page 1, Offset 13686.
 -- 呆れ声で有珠は語りかける。
-　protesta Alice d'une voix lasse.
+  protesta Alice d'une voix lasse.
 
 }
 [sha:4ce59a68e33804fadc9b13ad6795a0aa28cc6bc3]{
@@ -43,25 +43,25 @@
 [sha:5213a120bd396ae043126d9b80a9140f7c7324c9]{
 -- Page 2, Offset 13688.
 -- 寒さに震えながら、両手を合わせて有珠にお願いする。
-　Aoko joignit les mains vers Alice en signe de supplication tout en tremblant de froid.
+  Aoko joignit les mains vers Alice en signe de supplication tout en tremblant de froid.
 
 }
 [sha:eec6c835e319a68421f1c09628eef6da4408ef86]{
 -- Page 2, Offset 13689.
 -- 彼女がここまで甘える事は珍しい。
-　C'était rare qu'elle fasse autant de caprices.
+  C'était rare qu'elle fasse autant de caprices.
 
 }
 [sha:ad8d512c447facd810647829c3946d5d02d3554e]{
 -- Page 2, Offset 13690.
 -- 鳶丸あたりが見たら可愛いというより不気味だと用心するに違いない。
-　Si jamais Tobimaru la voyait, il se méfierait sans aucun doute et dirait que sa conduite est plus inquiétante que mignonne.
+  Si jamais Tobimaru la voyait, il se méfierait sans aucun doute et dirait que sa conduite est plus inquiétante que mignonne.
 
 }
 [sha:316bd0f2e5a7c7bf9e557a15e852307827d79f89]{
 -- Page 3, Offset 13691.
 -- 青子はホームの先端―――深い闇になっている、レールの先を見つめている。
-　Aoko observait l'extrémité du quai, les rails plongés dans les ténèbres.
+  Aoko observait l'extrémité du quai, les rails plongés dans les ténèbres.
 
 }
 [sha:440b4e6edc3e173518d690757bec42d604e10143]{
@@ -73,121 +73,121 @@
 [sha:6e9092067d684e887bafe45c14550009ee97cb91]{
 -- Page 3, Offset 13693.
 -- 呟いて、仕方なく有珠はベンチに座った。
-　murmura Alice avant de s'asseoir à contrecœur sur un banc.
+  murmura Alice avant de s'asseoir à contrecœur sur un banc.
 
 }
 [sha:5dd9d37e3556aa87112dedfc0008eb5e10bd01c3]{
 -- Page 4, Offset 13694.
 -- いつもならひとりで先に帰るところだが、今日は気分がいいので付き合う事にしたらしい。
-　En temps normal, elle serait déjà rentrée, mais aujourd'hui, elle se sentait bien et avait décidé de rester avec elle.
+  En temps normal, elle serait déjà rentrée, mais aujourd'hui, elle se sentait bien et avait décidé de rester avec elle.
 
 }
 [sha:d980c0c87390851597085478842a595e5a224ad0]{
 -- Page 4, Offset 13695.
 -- できるのなら今日はこのまま、すぐに溶けてしまう雪のような手触りであっても、幸せな気分のまま帰りたい。
-　“Si possible, j'aimerais rentrer de bonne humeur, même si celle-ci pourrait fondre et disparaître en un instant comme neige au soleil.”
+  “Si possible, j'aimerais rentrer de bonne humeur, même si celle-ci pourrait fondre et disparaître en un instant comme neige au soleil.”
 
 }
 [sha:96ef97f725aa0f72ff87f1843d7a9eb257cad976]{
 -- Page 4, Offset 13696.
 -- ……穏やかに閉じられた有珠の<目蓋|まぶた>は、そんな気持ちを代弁しているようだった。
-　...... Les paupières paisiblement fermées d'Alice semblaient exprimer cette pensée.
+  ...... Les paupières paisiblement fermées d'Alice semblaient exprimer cette pensée.
 
 }
 [sha:082a063533a0f003da418c78b52925997b3228d8]{
 -- Page 5, Offset 13697.
 -- かくして、人影のない地下鉄のホームで、ふたりは乗る予定のない電車を待つ事となった。
-　C'est ainsi qu'elles se retrouvèrent à attendre un train qu'elles ne prendraient pas sur un quai de métro désert.
+  C'est ainsi qu'elles se retrouvèrent à attendre un train qu'elles ne prendraient pas sur un quai de métro désert.
 
 }
 [sha:0f7bef58722ce65ed039c09d7155da2acd423a4a]{
 -- Page 6, Offset 13698.
 -- 開通したばかりの地下鉄。
-　Un métro tout juste inauguré.
+  Un métro tout juste inauguré.
 
 }
 [sha:f96a8a1e426847bd8e9471b0234ef4822871cb7b]{
 -- Page 6, Offset 13699.
 -- 高めの料金設定や、そもそも地下鉄に馴染みのない三咲市の人々の気質もあって、利用客はまだまだ少ない。
-　À cause du prix élevé et du tempérament des habitants de la ville, encore néophytes de ce moyen de transport, peu de clients l'utilisaient.
+  À cause du prix élevé et du tempérament des habitants de la ville, encore néophytes de ce moyen de transport, peu de clients l'utilisaient.
 
 }
 [sha:4ff42485b82aaeedde85472192d63707953dc325]{
 -- Page 6, Offset 13700.
 -- 活気がないのは問題だが、そのおかげでホームはいまだ新品同様だ。
-　Ce manque d'activité se révélait problématique, mais grâce à cela, le quai était encore comme neuf.
+  Ce manque d'activité se révélait problématique, mais grâce à cela, le quai était encore comme neuf.
 
 }
 [sha:e6912ae3c38a0c04424af27c9449603987101b7f]{
 -- Page 7, Offset 13701.
 -- 思えば、人のいない地下鉄はこの上なく原始的だ。
-　En y pensant, un métro vide avait quelque chose d'extrêmement primitif.
+  En y pensant, un métro vide avait quelque chose d'extrêmement primitif.
 
 }
 [sha:ee436dca46fd0f713dd378a18896333880bb6496]{
 -- Page 7, Offset 13702.
 -- 此処はもともと人の住まぬ<安寧|あんねい>の地。
-　À l'origine, ce lieu était une terre de paix inhabitée.
+  À l'origine, ce lieu était une terre de paix inhabitée.
 
 }
 [sha:8c7d1fad17335e466ff00fd88b94ae54c99d2e49]{
 -- Page 7, Offset 13703.
 -- 無音にして無生。
-　Silencieuse et sans vie.
+  Silencieuse et sans vie.
 
 }
 [sha:6c0d7ed1d00ce50711cd01ecd04e76143bf51930]{
 -- Page 7, Offset 13704.
 -- 物言わぬ微生物たちが息づく、生者には辿り着けぬ<根|ね>の国である。
-　Un Hadès inaccessible aux vivants et où seuls vivaient des micro-organismes muets.
+  Un Hadès inaccessible aux vivants et où seuls vivaient des micro-organismes muets.
 
 }
 [sha:ea427bf21caf7951ccd7ac1542d772aef6a90a1f]{
 -- Page 8, Offset 13705.
 -- 真白すぎる人工の明かりは生命を感じさせない。
-　La lumière artificielle et opale ne laissait rien paraître du monde des vivants.
+  La lumière artificielle et opale ne laissait rien paraître du monde des vivants.
 
 }
 [sha:275fa605931c7b3e953f41fab58ea804898271aa]{
 -- Page 8, Offset 13706.
 -- はっきりと光と影に分かれた空洞。
-　La caverne était clairement divisée entre lumières et ténèbres.
+  La caverne était clairement divisée entre lumières et ténèbres.
 
 }
 [sha:c7671759777f57a91d63aadce5ec8bf1444665a5]{
 -- Page 8, Offset 13707.
 -- <電車|ふね>は乗客のないまま闇に出航する。
-　Les embarcations appareillaient vers les ténèbres sans aucun passager.
+  Les embarcations appareillaient vers les ténèbres sans aucun passager.
 
 }
 [sha:6c15d74ae843c253eff21c432f8ab55df75c87f6]{
 -- Page 8, Offset 13708.
 -- レールに挟まれたホームは、地底の海に造られた桟橋のようだ。
-　Le quai pris entre deux rails était comme un embarcadère bâti sur la mer des profondeurs.
+  Le quai pris entre deux rails était comme un embarcadère bâti sur la mer des profondeurs.
 
 }
 [sha:ff117b93abfc056806cbc37613ecb53402de309e]{
 -- Page 8, Offset 13709.
 -- そんな、地上の風景とはかけ離れた場所で、青子は目を<瞑|つむ>って<振動|ふなで>を待つ。
-　Dans ces lieux au paysage bien différent de la surface, Aoko fermait les yeux et attendait l'appareillage.
+  Dans ces lieux au paysage bien différent de la surface, Aoko fermait les yeux et attendait l'appareillage.
 
 }
 [sha:e2ba90228cd9176b5d0957e19469b65fe0a192dc]{
 -- Page 9, Offset 13710.
 -- 青子は帰宅を少し遅らせて、ホームで休もうと提案した。
-　Elle avait proposé de retarder légèrement le voyage de retour pour se reposer sur le quai.
+  Elle avait proposé de retarder légèrement le voyage de retour pour se reposer sur le quai.
 
 }
 [sha:3913e6514b18c2729661e7ddbbbaa262c99541ea]{
 -- Page 9, Offset 13711.
 -- 理由は単純。
-　La raison en était simple.
+  La raison en était simple.
 
 }
 [sha:22a36d4f6b606457b453130e5ba63533d5056561]{
 -- Page 9, Offset 13712.
 -- 蒼崎青子は地下鉄の通過音に安らぎを覚える、奇妙な趣味を持っていたからだ。
-　Aozaki Aoko avait un passe-temps insolite : entendre passer les rames l'apaisait.
+  Aozaki Aoko avait un passe-temps insolite : entendre passer les rames l'apaisait.
 
 }
 [sha:99eb1a0267f0c116d0e0e9f94551842874dfc0c1]{
@@ -199,43 +199,43 @@
 [sha:7ed17b454fa714e23290e21c9d228a358ccb1aff]{
 -- Page 10, Offset 13714.
 -- 青子は目を閉じたまま有珠に語りかける。
-　dit Aoko, les paupières closes.
+  dit Aoko, les paupières closes.
 
 }
 [sha:11f5d94c01c57f2787cb3f6df53f47a4058aa160]{
 -- Page 10, Offset 13715.
 -- 付き合いで三回ほど電車を見送っている有珠はうなずきもしない。
-　Cela faisait un moment déjà, depuis le troisième train qu'elles avaient laissé passer à peu près, qu'Alice ne daignait même plus lui accorder un hochement de tête.
+  Cela faisait un moment déjà, depuis le troisième train qu'elles avaient laissé passer à peu près, qu'Alice ne daignait même plus lui accorder un hochement de tête.
 
 }
 [sha:2d7e07733d0efd563d8a15cb1aba341e52a11675]{
 -- Page 11, Offset 13716.
 -- それきり静寂。
-　Sur cette note, le silence s'installa.
+  Sur cette note, le silence s'installa.
 
 }
 [sha:b20f99b0dbebd8796b30781c20fe36ab87be2864]{
 -- Page 11, Offset 13717.
 -- 青子はあと数分後の電車の到着を心待ちにしながら。
-　Aoko anticipait l'arrivée du prochain train.
+  Aoko anticipait l'arrivée du prochain train.
 
 }
 [sha:a5041586917048f104eca09363eeec85f21372f1]{
 -- Page 11, Offset 13718.
 -- 有珠は、そんな青子に付き合いながらも地下鉄の壁を見つめながら。
-　Alice fixait le mur de la station en lui tenant compagnie.
+  Alice fixait le mur de la station en lui tenant compagnie.
 
 }
 [sha:76b3f8427841963bb665b431a9d84e0cc542cfb7]{
 -- Page 12, Offset 13719.
 -- 掲示板によると、次の電車は五分後に到着予定。
-　Selon le panneau d'affichage, le prochain train devait arriver cinq minutes plus tard.
+  Selon le panneau d'affichage, le prochain train devait arriver cinq minutes plus tard.
 
 }
 [sha:3e2524ce4a2b5d6030d4e145f5c676497f7ef05c]{
 -- Page 12, Offset 13720.
 -- 暗い穴からは、カタカタと風の音が響いてくる。
-　Le souffle du vent retentissait depuis la cavité ténébreuse.
+  Le souffle du vent retentissait depuis la cavité ténébreuse.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -247,37 +247,37 @@
 [sha:87777ea34e9c6ec54a8e4c60f33776c06060e572]{
 -- Page 13, Offset 13722.
 -- 地下鉄のホームは人工の結界だ。
-　Le quai du métro constituait une Barrière artificielle.
+  Le quai du métro constituait une Barrière artificielle.
 
 }
 [sha:739a50567ab206d505afe01b7995d5db423e59db]{
 -- Page 13, Offset 13723.
 -- 駅員の姿はなく、出入り口にあたる通路はあまりにも狭く、少ない。
-　Il n'y avait aucun employé de gare, et les couloirs menant à la sortie étaient bien trop étroits et peu nombreux.
+  Il n'y avait aucun employé de gare, et les couloirs menant à la sortie étaient bien trop étroits et peu nombreux.
 
 }
 [sha:b29dae5bfea93b177bc936731f0ae9c35b499686]{
 -- Page 13, Offset 13724.
 -- 結界を張るまでもなく<人避|ひとよ>けは成立している。
-　Inutile d'élever une Barrière, car personne n'entrerait.
+  Inutile d'élever une Barrière, car personne n'entrerait.
 
 }
 [sha:35bb553c3d1e03394e33c0ce9f084777eb4c3807]{
 -- Page 14, Offset 13725.
 -- 地上に通じる階段の前には、いつのまにか六人ほどの人影が立っていた。
-　Avant qu'elles n'aient eu le temps de s'en rendre compte, une demi-douzaine de silhouettes se tenaient devant l'escalier menant à la surface.
+  Avant qu'elles n'aient eu le temps de s'en rendre compte, une demi-douzaine de silhouettes se tenaient devant l'escalier menant à la surface.
 
 }
 [sha:39aa87dfa9bbf62cbad084b530955df6123a7eca]{
 -- Page 14, Offset 13726.
 -- ―――ただし、全員同じ顔。
-　―――Et, point non négligeable, elles avaient toutes le même visage.
+  ―――Et, point non négligeable, elles avaient toutes le même visage.
 
 }
 [sha:cfda9533b0fb1ac46776b5c8b62534ae1093c389]{
 -- Page 14, Offset 13727.
 -- 一歩も動かず、三日月のような笑顔のまま、ホームにいる有珠たちを眺めている。
-　Elles fixaient Alice et Aoko présentes sur le quai, sans bouger d'un pas, un sourire en croissant de lune sur les lèvres.
+  Elles fixaient Alice et Aoko présentes sur le quai, sans bouger d'un pas, un sourire en croissant de lune sur les lèvres.
 
 }
 [sha:133b7ca16e80f185b1b8e8f8b15ae1d507cecc60]{
@@ -289,7 +289,7 @@
 [sha:32c93a5d190349872b7a9b8038b86ce54201c203]{
 -- Page 15, Offset 13729.
 -- 自分への落胆から、静かに有珠はため息をついた。
-　Alice poussa un soupir de découragement silencieux.
+  Alice poussa un soupir de découragement silencieux.
 
 }
 [sha:79ef3cb47ffcda0017810301f42cabf495f450dc]{
@@ -313,7 +313,7 @@
 [sha:8db89be1d95f52171de5f140b08b80cae3deab68]{
 -- Page 16, Offset 13733.
 -- そこまで言いかけて、青子はち、と舌を鳴らした。
-　C'est alors qu'Aoko s'interrompit en claquant de la langue.
+  C'est alors qu'Aoko s'interrompit en claquant de la langue.
 
 }
 [sha:2ad9002866e276f0d1dab9b5f19d755f859d8d24]{
@@ -331,7 +331,7 @@
 [sha:b57457af8a276e97b276da80140358b2183c406a]{
 -- Page 17, Offset 13736.
 -- 青子ばかり責められないわね。貴女とわたしが一つなら、こんな事もなかったのに」
-　Je ne peux pas rejeter toute la faute sur toi. Si toi et moi n'avions formé qu'une seule et même personne, ce genre de chose ne serait pas arrivé.」
+  Je ne peux pas rejeter toute la faute sur toi. Si toi et moi n'avions formé qu'une seule et même personne, ce genre de chose ne serait pas arrivé.」
 
 }
 [sha:1c3eb99ddc22cc217aa737f077e5528166ec8861]{
@@ -343,49 +343,49 @@
 [sha:b85c17c63430ceef49b385bbe0278c58427d4e45]{
 -- Page 18, Offset 13738.
 -- 淡々と、視線も合わさず言葉を交わすふたり。
-　Le duo discutait d'un air impassible sans échanger un regard.
+  Le duo discutait d'un air impassible sans échanger un regard.
 
 }
 [sha:4a96a902f8c1b2ee0fa57c1d74a208192f0c508f]{
 -- Page 18, Offset 13739.
 -- そんな彼女たちとは対照的に、階段を<塞|ふさ>いでいた人影が動きはじめた。
-　À l'inverse, les silhouettes qui bloquaient les escaliers commencèrent à bouger.
+  À l'inverse, les silhouettes qui bloquaient les escaliers commencèrent à bouger.
 
 }
 [sha:60e1bd810765e7b1f2e2e7e47da55125b0705a31]{
 -- Page 18, Offset 13740.
 -- 彼らは一律、二足歩行の生き物である事を忘れたように倒れこみ、四つんばいになって前進する。
-　Elles se penchèrent dans un mouvement simultané et avancèrent à quatre pattes comme si elles avaient oublié qu'elles étaient bipèdes.
+  Elles se penchèrent dans un mouvement simultané et avancèrent à quatre pattes comme si elles avaient oublié qu'elles étaient bipèdes.
 
 }
 [sha:996d2fb26262a37b4ad71c141bde9fa4fdff9d87]{
 -- Page 19, Offset 13741.
 -- ……その姿は巨大な<蟻|あり>そのものだ。
-　...... Elles ressemblaient à d'énormes fourmis.
+  ...... Elles ressemblaient à d'énormes fourmis.
 
 }
 [sha:6e11ce348beb1324ad541477ab2e5e271ba0bfad]{
 -- Page 19, Offset 13742.
 -- ぞろぞろと、次々と。
-　Les unes après les autres,
+  Les unes après les autres,
 
 }
 [sha:61ed460d0001e3b14d77d357912c1c962f7bb9a7]{
 -- Page 19, Offset 13743.
 -- 階段のみならず、レールのある洞穴からもカタカタと音を響かせて大挙してくる。
-　elles déferlèrent en nombre avec des cliquetis sonores, non seulement depuis les escaliers, mais aussi depuis la grotte où s'enfonçaient les rails.
+  elles déferlèrent en nombre avec des cliquetis sonores, non seulement depuis les escaliers, mais aussi depuis la grotte où s'enfonçaient les rails.
 
 }
 [sha:f817d0af2f735f5a187e7f19030847396c24c6ab]{
 -- Page 20, Offset 13744.
 -- その数、目測で三十体以上。
-　À vue d'œil, il devait y avoir une trentaine de marionnettes.
+  À vue d'œil, il devait y avoir une trentaine de marionnettes.
 
 }
 [sha:9ad01ef5b0fc0ea181723dbbedb5c79907490d51]{
 -- Page 20, Offset 13745.
 -- おぞましい事に、響いてくる足音は増していくばかりだ。
-　Et, chose déplaisante, les bruits de pas ne faisaient qu'augmenter en intensité.
+  Et, chose déplaisante, les bruits de pas ne faisaient qu'augmenter en intensité.
 
 }
 [sha:22408219bff65bf019bf33aae0fa69e973d199de]{
@@ -409,43 +409,43 @@
 [sha:1bbafa497fe4b7c227942274ab25ad17be94d9b5]{
 -- Page 22, Offset 13749.
 -- 青子の罵倒に応じて、人影の一体が飛び跳ねる。
-　En réponse aux propos injurieux d'Aoko, le groupe de marionnettes se mit à faire des bonds.
+  En réponse aux propos injurieux d'Aoko, le groupe de marionnettes se mit à faire des bonds.
 
 }
 [sha:9b85f059bc46bd15a0e3eadf4ad4c4e2d1c69f1c]{
 -- Page 22, Offset 13750.
 -- ダンプカーに<撥|は>ねられたような、唐突な突進。
-　Elles s'élancèrent brusquement, comme si elles avaient été renversées par un camion-benne.
+  Elles s'élancèrent brusquement, comme si elles avaient été renversées par un camion-benne.
 
 }
 [sha:fdc33005455806bf47c45c7170a366a5bd3e03c4]{
 -- Page 22, Offset 13751.
 -- 有珠は動かず。
-　Alice resta immobile,
+  Alice resta immobile,
 
 }
 [sha:bf7d0c57e5276df68ccb05407c2c840020722f2d]{
 -- Page 22, Offset 13752.
 -- 青子はそれを待っていたかのように、振り向きながら右腕を振るった。
-　tandis qu'Aoko brandit son bras droit en faisant volte-face, comme si elle n'avait attendu que ça.
+  tandis qu'Aoko brandit son bras droit en faisant volte-face, comme si elle n'avait attendu que ça.
 
 }
 [sha:f512563c3e330c702975d86bc04f65136df252a5]{
 -- Page 23, Offset 13753.
 -- 青い光弾はたやすく外皮に防がれた。
-　La balle de lumière bleue fut facilement dispersée par leur carapace.
+  La balle de lumière bleue fut facilement dispersée par leur carapace.
 
 }
 [sha:dc1dd3d66976e3170d3cb4c21643ad7117b899d4]{
 -- Page 23, Offset 13754.
 -- 魔力を弾いただけの<魔弾|スナップ>では、この人形たちには通用しない。
-　Un Snap qui ne dégageait que du prana n'affecterait pas ces marionnettes.
+  Un Snap qui ne dégageait que du prana n'affecterait pas ces marionnettes.
 
 }
 [sha:5c7df739cba4e4f4cceb6f65443ec3fb543b3b86]{
 -- Page 23, Offset 13755.
 -- 人影はカエルのように地面に這い、首をくるりと一回転させて<獲物|あおこ>を探し求めている。
-　Les Automates rampaient au sol telles des grenouilles et faisaient pivoter leur tête à 360 degrés pour chercher Aoko.
+  Les Automates rampaient au sol telles des grenouilles et faisaient pivoter leur tête à 360 degrés pour chercher Aoko.
 
 }
 [sha:acd9c94873c61e4b6e61315476131330e33bcaca]{
@@ -457,31 +457,31 @@
 [sha:53636929b656a7ef042555091f1d56290fff853a]{
 -- Page 24, Offset 13757.
 -- ホームの端にまで移動して、青子はベンチに座ったままの少女に語りかけた。
-　Aoko s'avança jusqu'au bout du quai et s'adressa à la jeune fille assise sur le banc.
+  Aoko s'avança jusqu'au bout du quai et s'adressa à la jeune fille assise sur le banc.
 
 }
 [sha:951755c4b7c315a03770a4e23637c819ba57e48b]{
 -- Page 25, Offset 13758.
 -- あの遊園地での反省は山ほどあるが、特に痛恨なのはミラーハウスでの一戦だ。
-　Elle avait beaucoup de choses à méditer par rapport à l'incident du parc d'attractions, mais son plus grand regret tirait son origine de la bataille du palais des glaces.
+  Elle avait beaucoup de choses à méditer par rapport à l'incident du parc d'attractions, mais son plus grand regret tirait son origine de la bataille du palais des glaces.
 
 }
 [sha:e7f9750377220ebf27182414349c7e031ca9a7a1]{
 -- Page 25, Offset 13759.
 -- 人形戦に関して言うと、青子はまったく戦闘準備をしていなかった。
-　Aoko avait été prise totalement au dépourvu lors de son combat contre la marionnette.
+  Aoko avait été prise totalement au dépourvu lors de son combat contre la marionnette.
 
 }
 [sha:51fac40859468947562e10b7754c4c23af63440f]{
 -- Page 25, Offset 13760.
 -- けれど今日は万全の態勢で、フォロー役として有珠までいる。
-　Mais cette fois-ci, elle était en parfaite condition et Alice serait là pour la soutenir si besoin.
+  Mais cette fois-ci, elle était en parfaite condition et Alice serait là pour la soutenir si besoin.
 
 }
 [sha:7790c4fe1c364670dee5422f517407c8e9ae4ce2]{
 -- Page 26, Offset 13761.
 -- ここで思う存分、雪辱を果たそうと青子は魔術刻印に火を灯し―――。
-　Je vais en profiter pour prendre ma revanche, pensa Aoko alors qu'elle activait son Sceau Magique―――
+  Je vais en profiter pour prendre ma revanche, pensa Aoko alors qu'elle activait son Sceau Magique―――
 
 }
 [sha:bdd4896ad5745985476577b012f385920a7f077c]{
@@ -493,7 +493,7 @@
 [sha:20e0bede67d0c1c13844d3a7d8d595e0a011b897]{
 -- Page 26, Offset 13763.
 -- 有珠はそれを、持ち上げた一指だけで停止させた。
-　Alice stoppa Aoko dans son action d'un seul doigt.
+  Alice stoppa Aoko dans son action d'un seul doigt.
 
 }
 [sha:347ba3c6e9ca71b72a236d58395e8d80ad14f24a]{
@@ -505,25 +505,25 @@
 [sha:f10f1f777103fdd01037bbda7737bf7625a8beae]{
 -- Page 27, Offset 13765.
 -- 地中の深海に、夜の鐘が響いていく。
-　Enfouie dans les abysses, la cloche de la nuit retentit.
+  Enfouie dans les abysses, la cloche de la nuit retentit.
 
 }
 [sha:eee95c11808e01d3f608d65eb18c467900d81716]{
 -- Page 27, Offset 13766.
 -- 桟橋は<海神|わだつみ>の腕に抱かれるように、
-　L'embarcadère, comme porté dans les bras de Poséidon,
+  L'embarcadère, comme porté dans les bras de Poséidon,
 
 }
 [sha:fe36a027ff3e78278ebe993a05b1a1d1bc898827]{
 -- Page 27, Offset 13767. Mods: @n.
 -- 白い、
-　fut recouvert de blanches,
+  fut recouvert de blanches,
 
 }
 [sha:511df91298f495ee0ef6a8874351ddb6a4397723]{
 -- Page 27, Offset 13768. Glued.
 -- 白い粒子に覆われていく。
-　blanches particules.
+  blanches particules.
 
 }
 [sha:ff2207e5f4af91d355f8a5fa19def839029dbdd1]{
@@ -535,67 +535,67 @@
 [sha:17c25796a25974b15d63ea42c3c4bda0024d83c0]{
 -- Page 28, Offset 13770.
 -- もうじき次の電車も来るし、それに―――」
-　Le prochain train arrivera d'ici peu, et puis―――」
+  Le prochain train arrivera d'ici peu, et puis―――」
 
 }
 [sha:f99848e22a6cd066a86b3948d1c81fb35bd557cd]{
 -- Page 28, Offset 13771.
 -- 白いヴェールの向こうで、不確かに伸び上がる少女のカタチ。
-　De l'autre côté du voile blanc, la forme de la jeune fille se dessinait vaguement.
+  De l'autre côté du voile blanc, la forme de la jeune fille se dessinait vaguement.
 
 }
 [sha:ed7d7026b1c5b0c75bbb9860169de1588667461e]{
 -- Page 29, Offset 13772.
 -- 悲壮な<群舞|バレエ>のようだ。
-　On aurait dit un ballet tragique.
+  On aurait dit un ballet tragique.
 
 }
 [sha:20437b802c631fd8362ac45dde5d839ba45ff778]{
 -- Page 29, Offset 13773.
 -- <主役|プリマ>の周りを囲む人形たちは異常を察してざわめいている。
-　Les Automates encerclant la première danseuse s'agitèrent en pressentant l'anomalie.
+  Les Automates encerclant la première danseuse s'agitèrent en pressentant l'anomalie.
 
 }
 [sha:00599a92b2f5d8378bbc3c3d88b4b7a4271606bd]{
 -- Page 29, Offset 13774.
 -- 彼らとて人間外の、神秘に属する器物である。
-　Ces réceptacles relevaient également de l'inhumain, du domaine des Mystères.
+  Ces réceptacles relevaient également de l'inhumain, du domaine des Mystères.
 
 }
 [sha:1d27f7ed611eaea3c1210a6bce3eea298b632b5f]{
 -- Page 29, Offset 13775.
 -- あの少女が恐れるに足りるモノだと、人間である青子より何倍も悟っている。
-　Ils comprenaient même bien mieux qu'Aoko, une simple humaine, que la jeune fille méritait largement d'être redoutée.
+  Ils comprenaient même bien mieux qu'Aoko, une simple humaine, que la jeune fille méritait largement d'être redoutée.
 
 }
 [sha:b3f4c1344563149b83c65ca9baaf05df4ed8be28]{
 -- Page 30, Offset 13776.
 -- なので逃げる。
-　Et donc, ils fuirent.
+  Et donc, ils fuirent.
 
 }
 [sha:55a6673748a6d5121532d0c4a9aa3c136440faf6]{
 -- Page 30, Offset 13777.
 -- 人形たちの主人も、危険を感じたのなら撤退しろと言っていたのだ。
-　Leur maître leur avait également ordonné de se replier à la moindre sensation de danger.
+  Leur maître leur avait également ordonné de se replier à la moindre sensation de danger.
 
 }
 [sha:f97fa49a32fb6825d905567eb8cfed86d4c3062f]{
 -- Page 30, Offset 13778. Mods: @n.
 -- けれど、
-　Cependant,
+  Cependant,
 
 }
 [sha:f2d84511de09f6be9072cedcb526f12986717a4c]{
 -- Page 30, Offset 13779. Glued. Mods: @n.
 -- もう動けない。<主役|プリマ>を見守るダンサーたちは、のきなみ、
-　ils ne pouvaient plus bouger. Pratiquement tous les danseurs qui veillaient sur la première danseuse
+ ils ne pouvaient plus bouger. Pratiquement tous les danseurs qui veillaient sur la première danseuse
 
 }
 [sha:006781b2b9aa4cfed723aa067687f006393dec5f]{
 -- Page 30, Offset 13780. Glued.
 -- アキレス腱を外されてしまったらしい。
-semblaient avoir été touchés à leur tendon d'Achille.
+ semblaient avoir été touchés à leur tendon d'Achille.
 
 }
 [sha:6d568064d74dc2116730d0a888337dc87b48e8dd]{
@@ -607,103 +607,103 @@ semblaient avoir été touchés à leur tendon d'Achille.
 [sha:f209ba25907591938338c9192b390f97a020f93c]{
 -- Page 31, Offset 13782.
 -- 気分を台無しにされたのは、貴女だけじゃないわ」
-　tu n'es pas la seule à avoir vu ton humeur gâchée.」
+  tu n'es pas la seule à avoir vu ton humeur gâchée.」
 
 }
 [sha:eeb6381acfddd146e4d7390363c9f534382fc774]{
 -- Page 32, Offset 13783.
 -- 外される黒い手袋。
-　Elle ôta ses gants noirs.
+  Elle ôta ses gants noirs.
 
 }
 [sha:d97a92e4f4651d1fc69910a9c1c4c34e3c6c2b9e]{
 -- Page 32, Offset 13784.
 -- 洋館の中とは一変して、外では異常な寒がりである彼女の防寒ぶりは凄まじい。
-　Contrairement à ce qu'elle laissait paraître dans le manoir, à l'extérieur, la jeune fille se montrait extrêmement frileuse et portait plusieurs couches de vêtements chauds.
+  Contrairement à ce qu'elle laissait paraître dans le manoir, à l'extérieur, la jeune fille se montrait extrêmement frileuse et portait plusieurs couches de vêtements chauds.
 
 }
 [sha:478f2e1ffacaf6bb92b671ad59f70963e63560f8]{
 -- Page 32, Offset 13785.
 -- 二枚重ねの手袋が、ぱさりとホームに落ちる。
-　Ses deux paires de gants tombèrent sur le quai presque sans bruit.
+  Ses deux paires de gants tombèrent sur le quai presque sans bruit.
 
 }
 [sha:e10af344025e8b14953e4b3f28068c1293a7040b]{
 -- Page 32, Offset 13786.
 -- 濃度を増していく白い闇。
-　Les ténèbres blanchâtres se densifièrent davantage.
+  Les ténèbres blanchâtres se densifièrent davantage.
 
 }
 [sha:85e39fa00e42ca8a61fd66319b3e922c8d5b6a8a]{
 -- Page 32, Offset 13787. Mods: @n.
 -- <見|ギ><逃|チ><し|ギ><て|チ><く|ギ><れ|チ>、と悲鳴をあげる影の集団。
-　Les ombres regroupées émettaient des bruits stridents comme si elles suppliaient pour leur vie.
+  Les ombres regroupées émettaient des bruits stridents comme si elles suppliaient pour leur vie.
 
 }
 [sha:04ffca2f8fde7a2e0bc3520d8cf16dad48923410]{
 -- Page 33, Offset 13788.
 -- “さあ―――ごっこ遊びをしましょう”
-　　　　“Allez―――jouons ensemble.”
+        “Allez―――jouons ensemble.”
 
 }
 [sha:95f3873ad3d8f9e2dc2cda6fc74fe6917eacc43b]{
 -- Page 34, Offset 13789.
 -- 何もかも不確かな、濃霧に映し出される暗黒童話。
-　Le conte de fées obscur se projeta sur le brouillard épais dans lequel tout devenait ambigu.
+  Le conte de fées obscur se projeta sur le brouillard épais dans lequel tout devenait ambigu.
 
 }
 [sha:e0846ca3c8b6f9bfb2d7b567c500369928acf9cc]{
 -- Page 34, Offset 13790.
 -- その中で。
-　Dans cette brume,
+  Dans cette brume,
 
 }
 [sha:4cdaeea78092e12bbbff6cd1385e2995f355e237]{
 -- Page 34, Offset 13791.
 -- <凶歌|まがうた>のような彼女の声だけが、血のように<鮮明|リアル>だった。
-　seul le chant funeste de la jeune fille semblait distinct, comme du sang.
+  seul le chant funeste de la jeune fille semblait distinct, comme du sang.
 
 }
 [sha:56a1fdf14fd5121722880afba8f84a555fd87434]{
 -- Page 35, Offset 13792.
 -- がつがつ／ざりざり／ぎしゃむ。
-　Croc, crac, croc.
+  Croc, crac, croc.
 
 }
 [sha:92fb598648d867218f6e06d384d4097c9c389719]{
 -- Page 35, Offset 13793.
 -- 最後に残った人影が消失した。
-　Les dernières silhouettes s'évanouirent.
+  Les dernières silhouettes s'évanouirent.
 
 }
 [sha:f5136ebf967529a784de611afdbb46b7ab2e6980]{
 -- Page 35, Offset 13794.
 -- 壁には／床には／天井には／
-　Les murs, le sol, le plafond,
+  Les murs, le sol, le plafond,
 
 }
 [sha:d2a31896f3413e8325118264a4c691e340ab128d]{
 -- Page 35, Offset 13795.
 -- あえなく、異質な<擬音|オノマトペ>が染みついている。
-　étaient tous imprégnés d'étranges et tragiques onomatopées.
+  étaient tous imprégnés d'étranges et tragiques onomatopées.
 
 }
 [sha:d63e3f35dfe9421ce5fa06f452167978a2e1485f]{
 -- Page 36, Offset 13796.
 -- ……彼らの悲鳴は、<拭|ぬぐ>っても消えない血の跡のようだ。
-　...... Leurs cris évoquaient des traces de sang indélébiles, même en frottant avec application.
+  ...... Leurs cris évoquaient des traces de sang indélébiles, même en frottant avec application.
 
 }
 [sha:616ab5d94a487ec06c7e6abf85a93df1ab57e45a]{
 -- Page 36, Offset 13797.
 -- 三十体におよぶ人形たちは、速やかに、けれど味わうようにゆっくりと、得体の知れない怪物に<咀嚼|そしゃく>された。
-　Les Automates au nombre de trente avaient été mastiqués rapidement, mais aussi lentement, comme si le monstre mystérieux les avait savourés.
+  Les Automates au nombre de trente avaient été mastiqués rapidement, mais aussi lentement, comme si le monstre mystérieux les avait savourés.
 
 }
 [sha:081e3d5265b0e78fff99661679880f8ab0d619d0]{
 -- Page 36, Offset 13798.
 -- わずか一体分……それも片腕一本だけが、淋しくホームに残されている。
-　Il ne restait sur le quai plus qu'un morceau, un bras bien solitaire.
+  Il ne restait sur le quai plus qu'un morceau, un bras bien solitaire.
 
 }
 [sha:3ac97bcb6e7887bc5de57e31c2eda726f7672ee6]{
@@ -715,49 +715,49 @@ semblaient avoir été touchés à leur tendon d'Achille.
 [sha:ea89c1d72e0495f381c5c4ecbfc9ea9df4995b85]{
 -- Page 37, Offset 13800.
 -- 青子は嫌悪を隠さずに、傍らの少女に語りかける。
-　demanda Aoko à sa voisine sans cacher son dégoût.
+  demanda Aoko à sa voisine sans cacher son dégoût.
 
 }
 [sha:3efd86aec7fe5c960ab94b6b67d5c7ed50ca6fd0]{
 -- Page 38, Offset 13801.
 -- ―――濃霧の怪物。
-　―――Le monstre du brouillard.
+  ―――Le monstre du brouillard.
 
 }
 [sha:dc16d2f102382a1e72cba4c588cf0ad4f7418fc3]{
 -- Page 38, Offset 13802.
 -- 三体の<貴重品|プロイキッシャー>の一つ、マインスターの薔薇の猟犬。
-　Il s'agissait d'un des trois grands Ploy Kickshaw, le chien de chasse de la rose de Meinster.
+  Il s'agissait d'un des trois grands Ploy Kickshaw, le chien de chasse de la rose de Meinster.
 
 }
 [sha:114c3e057d88e0111e71f4c7113e6aae4c13dbd8]{
 -- Page 38, Offset 13803.
 -- それが、いま吹き荒れた暴力の名称だ。
-　C'était le nom de cette violence dévastatrice.
+  C'était le nom de cette violence dévastatrice.
 
 }
 [sha:385406c60827b95080f48472eca6d40fb7ff26c9]{
 -- Page 38, Offset 13804.
 -- 青子の言葉に刺があるのは、有珠が、その正体にあたる器物を持ち歩いていたからだ。
-　Aoko s'était montrée acerbe, car Alice s'était déplacée avec le réceptacle correspondant à son véritable corps.
+  Aoko s'était montrée acerbe, car Alice s'était déplacée avec le réceptacle correspondant à son véritable corps.
 
 }
 [sha:f5fd66a11249759e5056e6601973897b57cc23a8]{
 -- Page 39, Offset 13805.
 -- 三大のプロイはそれだけで強力な呪力を放つ。
-　Les trois grands Ploy émettaient chacun un sort extrêmement puissant.
+  Les trois grands Ploy émettaient chacun un sort extrêmement puissant.
 
 }
 [sha:4d8d65883c77b70051bab5496c22d2552f63aa34]{
 -- Page 39, Offset 13806.
 -- 防衛戦ならともかく、今日のようなプライベートで持ち歩かれては、相方である青子も面白くはない。
-　Si elles avaient prévu de combattre, cela aurait été acceptable, mais le transporter pendant des activités privées comme aujourd'hui n'avait rien d'amusant, même pour Aoko, sa partenaire.
+  Si elles avaient prévu de combattre, cela aurait été acceptable, mais le transporter pendant des activités privées comme aujourd'hui n'avait rien d'amusant, même pour Aoko, sa partenaire.
 
 }
 [sha:4fe2c87083f5edd317146fea585ffa78a12f17d3]{
 -- Page 39, Offset 13807.
 -- 大げさな表現ではなく、外食の際、巨大な爆弾を忍ばせているようなものなのだから。
-　Sans exagération, c'était comme cacher sur soi une énorme bombe pendant un repas au restaurant.
+  Sans exagération, c'était comme cacher sur soi une énorme bombe pendant un repas au restaurant.
 
 }
 [sha:db514fe218ea7d52ed6e013ab0e384a59a91a332]{
@@ -769,7 +769,7 @@ semblaient avoir été touchés à leur tendon d'Achille.
 [sha:3b32c170864734c1854ac62b0f15f1b9915f2caa]{
 -- Page 40, Offset 13809.
 -- 他のプロイならいいけど、今の<玩具|ヤツ>だけは別よ。できれば洋館限定にしてほしいぐらい」
-　Les autres Ploy, ça va, mais celui-là, c'est une autre histoire. Si possible, je préférerais même le restreindre au manoir.」
+  Les autres Ploy, ça va, mais celui-là, c'est une autre histoire. Si possible, je préférerais même le restreindre au manoir.」
 
 }
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
@@ -787,19 +787,19 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:e3406398c860948ece649e9f4d972853fcfed0a0]{
 -- Page 41, Offset 13812.
 -- 有珠はホームに転がった人形の腕へと歩いていく。
-　Alice s'approcha du bras de l'Automate tombé sur le quai.
+  Alice s'approcha du bras de l'Automate tombé sur le quai.
 
 }
 [sha:bdce492cc54292c480676b7a62abf0f3e82a86ca]{
 -- Page 41, Offset 13813.
 -- たしかに、今のは食事以外の何物でもなかった。
-　En effet, ce massacre ne ressemblait à rien d'autre qu'un repas.
+  En effet, ce massacre ne ressemblait à rien d'autre qu'un repas.
 
 }
 [sha:257cf2fda13343c96395d81926920c4cbdef0828]{
 -- Page 41, Offset 13814.
 -- 食べる者も見えなければ、食べられる物も血を流さないプラスチックな<情事|もの>だったけれど。
-　Même si le mangeur était invisible et les proies étaient des objets en plastique qui ne saignaient pas.
+  Même si le mangeur était invisible et les proies étaient des objets en plastique qui ne saignaient pas.
 
 }
 [sha:f90a360bccfaa59b8f1a6615e02a8b4b52251255]{
@@ -811,7 +811,7 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:d8c4b491c6db185d64b5811db76587154c6a4422]{
 -- Page 42, Offset 13816.
 -- 残された人形の右腕を拾い上げ、青子を呼びつける。
-　Elle ramassa le bras droit de l'Automate resté sur le quai et héla Aoko.
+  Elle ramassa le bras droit de l'Automate resté sur le quai et héla Aoko.
 
 }
 [sha:76e477c407d1c0103fe6c70baaf68983ea913194]{
@@ -823,13 +823,13 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:334343c80421c9c480a2e01efc9f49e8d151e1ef]{
 -- Page 43, Offset 13818.
 -- 分かる？　この人形たちは新しすぎる。
-　Tu comprends ? Ces Automates sont trop récents.
+  Tu comprends ? Ces Automates sont trop récents.
 
 }
 [sha:e727f3e6befa7c99d5d9a881468420e97261782f]{
 -- Page 43, Offset 13819.
 -- この子たちが造られたのは十七世紀以後よ。……それはそれで、信じがたいコトだけど」
-　Ils ont été créés après le 17e siècle. ...... Ce qui, en soi, est déjà incroyable.」
+  Ils ont été créés après le 17e siècle. ...... Ce qui, en soi, est déjà incroyable.」
 
 }
 [sha:17980d8dd1a66a25e6bf5a480e74576bd8c2c1ae]{
@@ -841,55 +841,55 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:34a2845236d1ffe06331f3dc057e3dbc8d37d029]{
 -- Page 44, Offset 13821.
 -- ……矛盾した話ではあるが、<自動人形|オートマタ>は古いものほど性能が良い。
-　...... C'était contradictoire, mais il n'y avait pas plus performant qu'un vieil Automate.
+  ...... C'était contradictoire, mais il n'y avait pas plus performant qu'un vieil Automate.
 
 }
 [sha:2b1a80d4bc8f99e7ad7349cce54d29b296f2f8e4]{
 -- Page 44, Offset 13822.
 -- 十七世紀以後、人形・人体模造の魔術概念が衰退した結果、魔術戦に堪えうる<自動人形|オートマタ>の製造は困難になったからだ。
-　En effet, après le XVIIe siècle, en raison du déclin des Automates, ce concept magique de l'imitation humaine, la production de marionnettes capables de résister aux combats de Mages, se révéla difficile.
+  En effet, après le XVIIe siècle, en raison du déclin des Automates, ce concept magique de l'imitation humaine, la production de marionnettes capables de résister aux combats de Mages, se révéla difficile.
 
 }
 [sha:38436ad30ecb4689c191cae09a292da622a2bac2]{
 -- Page 45, Offset 13823.
 -- 近年ではオートマタを一体造るのなら、たとえ低級でも使い魔を錬成した方が遥かにコストが安く、優秀な出来になる。
-　Ces dernières années, créer un vulgaire familier revenait beaucoup moins cher et donnait un bien meilleur résultat que de construire un Automate.
+  Ces dernières années, créer un vulgaire familier revenait beaucoup moins cher et donnait un bien meilleur résultat que de construire un Automate.
 
 }
 [sha:571410f55f895b3a0b817c7743696ef41b836419]{
 -- Page 45, Offset 13824.
 -- 故に、この時代の人形遣いは十七世紀以前に造られた作品を蒐集し、手足とするのが常になっていた。
-　Par conséquent, il était d'usage pour les marionnettistes contemporains de collectionner les œuvres fabriquées avant le XVIIe siècle et d'en faire leurs loyaux serviteurs.
+  Par conséquent, il était d'usage pour les marionnettistes contemporains de collectionner les œuvres fabriquées avant le XVIIe siècle et d'en faire leurs loyaux serviteurs.
 
 }
 [sha:4a343708996b25f021e7f3d59bf856b8e3564fda]{
 -- Page 45, Offset 13825.
 -- 自動人形に高値がつくのは、戦闘品としては時代遅れだが、稀少品としての価値がある為である。
-　On donnait de véritables fortunes pour ces Automates parce qu'ils avaient de la valeur en tant qu'objets de collection, même s'ils étaient dépassés en tant que pièces d'artillerie.
+  On donnait de véritables fortunes pour ces Automates parce qu'ils avaient de la valeur en tant qu'objets de collection, même s'ils étaient dépassés en tant que pièces d'artillerie.
 
 }
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 46, Offset 13826.
 -- が。
-　Pourtant,
+  Pourtant,
 
 }
 [sha:3e08ac0f3fd886e07db73e712df48bb6e79d8699]{
 -- Page 46, Offset 13827. Glued. Mods: @x.
 -- その稀少品を、敵魔術師は湯水のように、それこそ使い捨てのコマのように扱ってきた。
-le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
+ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
 
 }
 [sha:49bb86faa59e40d1204e843b81e78fbdf0e43d69]{
 -- Page 46, Offset 13828.
 -- その事実から、今回の敵は“莫大な資金とコレクションを持ちながら、管理地を与えられていない成り上がり者の魔術師である”
-　Alice et Aoko avaient donc abouti à la conclusion suivante :
+  Alice et Aoko avaient donc abouti à la conclusion suivante :
 
 }
 [sha:d5d3481709c5381c2e5c4af740026a6e5818de0f]{
 -- Page 46, Offset 13829.
 -- そう有珠たちは予想していたのだが―――
-　“l'ennemi est un Mage parvenu qui ne s'est pas vu attribuer de terres administrées malgré sa collection et ses fonds immenses―――”
+  “l'ennemi est un Mage parvenu qui ne s'est pas vu attribuer de terres administrées malgré sa collection et ses fonds immenses―――”
 
 }
 [sha:b8f7d84ecf6cb833e33b6fa385714a0a87be34a5]{
@@ -901,25 +901,25 @@ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait
 [sha:9f3e30d159df2f2c569029b8ed3a8cab84c70e47]{
 -- Page 47, Offset 13831.
 -- この内部<術式|こうぞう>は三咲市の結界に似ているわ。
-　Leur structure interne ressemble à la Barrière de la ville de Misaki.
+  Leur structure interne ressemble à la Barrière de la ville de Misaki.
 
 }
 [sha:a1928a7ee5c474d98abf7573003e1e253fb8d244]{
 -- Page 47, Offset 13832.
 -- ……まるで自分たちこそが、この街を守る兵士だって主張するぐらい」
-　...... Comme s'ils prétendaient être les véritables soldats protecteurs de cette ville.」
+  ...... Comme s'ils prétendaient être les véritables soldats protecteurs de cette ville.」
 
 }
 [sha:a7706310c2296441b4967f227b726ed767582cc4]{
 -- Page 48, Offset 13833.
 -- 霧を払いながらやってきた青子へ、有珠は証拠品を差しだした。
-　Alice présenta la preuve à Aoko qui s'était rapprochée en fendant le brouillard.
+  Alice présenta la preuve à Aoko qui s'était rapprochée en fendant le brouillard.
 
 }
 [sha:aea4ef724b3654ab311f7ebe7a41b81c9600ce40]{
 -- Page 48, Offset 13834.
 -- 心底からの驚きと、瞬間の理解。
-　Un étonnement sincère et un éclair de lucidité l'assaillirent.
+  Un étonnement sincère et un éclair de lucidité l'assaillirent.
 
 }
 [sha:f2cef3cd94c42d86fb9615a2bd01e8a88b9e7e4e]{
@@ -931,19 +931,19 @@ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait
 [sha:8ca5df4b64999585a0509c97efe3e4f5ba147024]{
 -- Page 49, Offset 13836. Glued.
 -- そういう事なのね」
-　C'était donc ça.」
+ C'était donc ça.」
 
 }
 [sha:963906074c507d70b7794de1223a23df6851a158]{
 -- Page 49, Offset 13837.
 -- 青子はいまいましげに呟くと、人形の腕をホームに叩きつけた。
-　murmura Aoko d'un air irrité en jetant le bras de l'Automate sur le quai.
+  murmura Aoko d'un air irrité en jetant le bras de l'Automate sur le quai.
 
 }
 [sha:7117a6f5c01267dfba5bbded49554c7aa02c2c3c]{
 -- Page 49, Offset 13838.
 -- 彼女の顔には怒りと、かすかな恐れが混ざっている。
-　Sur son visage se mêlaient de la colère et une pointe de peur.
+  Sur son visage se mêlaient de la colère et une pointe de peur.
 
 }
 [sha:87bf90dcd3bac0927465429119e65f73bdeacc17]{
@@ -955,19 +955,19 @@ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait
 [sha:9443635aa3d5311f236fe291ac8bb063c237d770]{
 -- Page 50, Offset 13840.
 -- ……チッ。たしかにあの女なら<祖父|まち>の結界にも反応しないし、私の欠点も知ってて当然。支点の退去だって簡単にやってのけるわよね。
-　...... Tch. Évidemment, si c'est cette femme, pas étonnant que la Barrière de grand-père ne réagisse pas et qu'elle connaisse mes points faibles. Même la destruction des Pivots a dû être une promenade de santé pour elle.
+  ...... Tch. Évidemment, si c'est cette femme, pas étonnant que la Barrière de grand-père ne réagisse pas et qu'elle connaisse mes points faibles. Même la destruction des Pivots a dû être une promenade de santé pour elle.
 
 }
 [sha:57084235603cb53e3cef3e91ecda756b6e7694dc]{
 -- Page 50, Offset 13841.
 -- だって―――」
-　Après tout―――」
+  Après tout―――」
 
 }
 [sha:f9b0185ef9d3833c57ad3251243cdde3108f2602]{
 -- Page 51, Offset 13842.
 -- 狂気を含んだ独白に、有珠は静かに瞳を曇らせる。
-　Le monologue presque démentiel provoqua un froncement de sourcils de la part d'Alice.
+  Le monologue presque démentiel provoqua un froncement de sourcils de la part d'Alice.
 
 }
 [sha:6813d74f7c2ee1fa8faea24967157159848c5717]{
@@ -985,13 +985,13 @@ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait
 [sha:a1b4c91d1d7d81c27dfbe30463ac8d3ca6e01af3]{
 -- Page 52, Offset 13845.
 -- 青子は人形の腕を睨みつける。
-　Aoko fixait le bras de l'Automate,
+  Aoko fixait le bras de l'Automate,
 
 }
 [sha:79535ffedaaaa60413f4d62a4e97808409f61e31]{
 -- Page 52, Offset 13846.
 -- 人形の持ち主と、今までそれに気が付かなかった自分自身を責めるように。
-　comme pour fustiger son propriétaire ainsi qu'elle-même qui ne l'avait pas identifié jusqu'à présent.
+  comme pour fustiger son propriétaire ainsi qu'elle-même qui ne l'avait pas identifié jusqu'à présent.
 
 }
 [sha:f9b598e73f15996d96ade726c5d5199fb6315cc1]{
@@ -1003,24 +1003,24 @@ le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait
 [sha:67b09da7617944f033882ec670963087af562761]{
 -- Page 53, Offset 13848.
 -- 認めたくないけど、今回の敵は間違いなく私の<姉貴|あねき>。
-　C'est dur à admettre, mais cette fois, notre ennemi est sans l'ombre d'un doute ma sœur.
+  C'est dur à admettre, mais cette fois, notre ennemi est sans l'ombre d'un doute ma sœur.
 
 }
 [sha:725992100ef1f543681cdbe79942c277f3213c80]{
 -- Page 53, Offset 13849.
 -- この土地の<元|もと>継承者、蒼崎<橙子|とうこ>その人よ、有珠」
-　La précédente héritière de ces terres, Aozaki Tōko elle-même, Alice.」
+  La précédente héritière de ces terres, Aozaki Tōko elle-même, Alice.」
 
 }
 [sha:c95ce4a21fea7a457a719c792bdf44780cfbf46d]{
 -- Page 53, Offset 13850.
 -- 人気の絶えた地下の歩廊で。
-　déclara Aoko sur le quai du métro désert,
+  déclara Aoko sur le quai du métro désert,
 
 }
 [sha:234e44171ad439d482206c7f5b8455297f58dd5f]{
 -- Page 53, Offset 13851.
 -- 負の念を噛むように、青子はそう言い切った。
-　d'un ton où perçaient de sombres émotions refoulées.
+  d'un ton où perçaient de sombres émotions refoulées.
 
 }

@@ -1,31 +1,31 @@
 [sha:86f6a23bdf4195bc09dd48027d2968326f270bbb]{
 -- Page 0, Offset 21672.
 -- 残されたわたしたちは、居間に移る事もできずロビーで立ち尽くしていた。
-　Laissés pour compte, nous restions plantés dans le vestibule, incapables de nous rendre dans le salon.
+  Laissés pour compte, nous restions plantés dans le vestibule, incapables de nous rendre dans le salon.
 
 }
 [sha:e0d7127ca2eeb62d8160131bca92e8c3ce9a607e]{
 -- Page 1, Offset 21673.
 -- 居間はほぼ明かりが落ちている。
-　Les lumières y étaient presque toutes éteintes.
+  Les lumières y étaient presque toutes éteintes.
 
 }
 [sha:e340e22e453fd682dc7ad53d252e2ac512d59de2]{
 -- Page 1, Offset 21674.
 -- このまま明かりを求めて客室に移動するのがまっとうな考えなんだろうけど、ここで孤立するのはきまりが悪い。
-　Il aurait été judicieux de se rendre dans les chambres d'ami en quête de lumière, mais il aurait également été problématique de se retrouver isolé.
+  Il aurait été judicieux de se rendre dans les chambres d'ami en quête de lumière, mais il aurait également été problématique de se retrouver isolé.
 
 }
 [sha:26ca7f4671de6a0b23490e09c05657147e8934e4]{
 -- Page 1, Offset 21675.
 -- 十三人目のゲスト、蒼崎のお姉さんが本当にいるのかどうか。
-　Nous ignorions si le treizième invité, la sœur d'Aozaki, était vraiment là.
+  Nous ignorions si le treizième invité, la sœur d'Aozaki, était vraiment là.
 
 }
 [sha:588a8425f456a17d6f7558b219d17ab91a4c8d99]{
 -- Page 1, Offset 21676.
 -- せめてそれを解明しないと、おちおち部屋に戻れないのだ。
-　Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambres en toute tranquillité.
+  Si ce mystère n'était pas résolu, nous ne pourrions pas retourner dans nos chambres en toute tranquillité.
 
 }
 [sha:e844acc8b56a3ede8f0862ea58502ad3a68f910c]{
@@ -61,25 +61,25 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:3f0595e93742dc9450e7a799a0be48bdf19a233f]{
 -- Page 2, Offset 21682.
 -- シスター目当てで教会に通い詰める野郎が多いわけだ」
-　Il doit y avoir des tas de types qui vont à l'église juste pour voir cette sœur.」
+  Il doit y avoir des tas de types qui vont à l'église juste pour voir cette sœur.」
 
 }
 [sha:19368fe876f0683f1721a07e3b2359e1cde01ac0]{
 -- Page 3, Offset 21683. Mods: @n.
 -- 静希と槻司はこんな状況でも仲がいい。
-　Malgré la situation, Shizuki et Tsukiji s'entendaient à merveille.
+  Malgré la situation, Shizuki et Tsukiji s'entendaient à merveille.
 
 }
 [sha:96bf696eb8bad3b8ea07a7f67cab5e5e98a78cbb]{
 -- Page 3, Offset 21684.
 -- というより、パニックに<陥|おちい>っていない。
-　En fait, ils n'étaient pas pris de panique.
+  En fait, ils n'étaient pas pris de panique.
 
 }
 [sha:22618004ffca87fab21ea1f9800b5946dc97fad4]{
 -- Page 3, Offset 21685.
 -- わたしはもう限界ギリギリで、いま後ろから<脅|おど>かされたら笑い死ぬ前にショック死しそうだ。
-　Quant à moi, j'étais proche de mes limites. Si quelqu'un me surprenait par-derrière, je pourrais bien mourir de surprise avant de mourir de rire.
+  Quant à moi, j'étais proche de mes limites. Si quelqu'un me surprenait par-derrière, je pourrais bien mourir de surprise avant de mourir de rire.
 
 }
 [sha:371a09413283bdb921342b95436a2d341dcf2c29]{
@@ -97,7 +97,7 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:1d70ca544d9fd02ca9fea2e51d0bccedc84b4d5c]{
 -- Page 4, Offset 21688.
 -- トイレ、近くなったらイヤだし。この屋敷のトイレ、奥まったところにあるから怖いのだ。
-　Je n'avais pas envie d'aller aux toilettes plus vite que nécessaire. Puisque ces dernières se trouvaient à l'écart, m'y rendre me faisait peur.
+  Je n'avais pas envie d'aller aux toilettes plus vite que nécessaire. Puisque ces dernières se trouvaient à l'écart, m'y rendre me faisait peur.
 
 }
 [sha:a63fc33682ff946c1c85a40338563923f6e1ca7b]{
@@ -109,13 +109,13 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:506e3711068b92d1f27e24a159589f458e71741b]{
 -- Page 5, Offset 21690.
 -- 詠梨と唯架さんは残念な事になったけど、ある意味、ちょっと安心した。この面子なら気心知れてるし、疑いあう事もないしね。
-　Ce qui est arrivé à Eiri et Yuika est regrettable, mais dans un certain sens, je me sens rassurée. On se connaît tous bien, alors nous n'avons pas à nous soupçonner.
+  Ce qui est arrivé à Eiri et Yuika est regrettable, mais dans un certain sens, je me sens rassurée. On se connaît tous bien, alors nous n'avons pas à nous soupçonner.
 
 }
 [sha:66c11ab2000d763bd16e0ef379be9466c58fb478]{
 -- Page 5, Offset 21691.
 -- あとは橙子を見付ければ、」
-　Si seulement on pouvait trouver Tōko...」
+  Si seulement on pouvait trouver Tōko...」
 
 }
 [sha:1605d35e4fa67cfd715cd817fbc6265f1401f3ec]{
@@ -127,7 +127,7 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:556927d6a60ce013c915a90b8db3a29abc1b4a52]{
 -- Page 5, Offset 21693.
 -- 今までよくやってくれたものね、アコちゃん？」
-　Tu t'es bien jouée de nous jusqu'à présent, ma petite Ako.」
+  Tu t'es bien jouée de nous jusqu'à présent, ma petite Ako.」
 
 }
 [sha:65ca85a3d7631ff1d634f41e9ed66d04233a520d]{
@@ -139,13 +139,13 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:abd5f3a0f2e6da4552d77719a22a5091a20e1546]{
 -- Page 6, Offset 21695.
 -- 声は階段から聞こえてきた。
-　La voix provenait des escaliers.
+  La voix provenait des escaliers.
 
 }
 [sha:cf77ba2186fe6621fa83440c62dc08dd962a2692]{
 -- Page 6, Offset 21696.
 -- ベオを探しに行った律架さんが戻ってきたのだ。
-　Ritsuka, qui était allée chercher Beo, venait de revenir.
+  Ritsuka, qui était allée chercher Beo, venait de revenir.
 
 }
 [sha:e7a8204899a70216ca90d45e9b470bc8990e29fd]{
@@ -163,13 +163,13 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:374a4bb91f86e33c18fa21193ee94bd574b31dac]{
 -- Page 7, Offset 21699.
 -- チェックメイトよアコちゃん。どうしてこんな凶行に及んだのかはぜんっぜん分からないけど、物的証拠が真実を示しているの。
-　Échec et mat, ma petite Ako. J'ignore totalement pourquoi tu as commis ces crimes, mais les preuves matérielles sont incontestables.
+  Échec et mat, ma petite Ako. J'ignore totalement pourquoi tu as commis ces crimes, mais les preuves matérielles sont incontestables.
 
 }
 [sha:b698d8a6a78a0ac9c46645aa7d90c6112ec95479]{
 -- Page 7, Offset 21700.
 -- まだ断定はしないけど、十中八九、貴女がスイーツハーツ最有力候補よ」
-　Je ne peux pas encore être catégorique, mais il y a huit à neuf chances sur dix pour que tu sois la meilleure candidate pour le rôle de Sweets Hearts !」
+  Je ne peux pas encore être catégorique, mais il y a huit à neuf chances sur dix pour que tu sois la meilleure candidate pour le rôle de Sweets Hearts !」
 
 }
 [sha:5cb0e74c3b34a53b6ba2452cf4f62fd193955c93]{
@@ -181,7 +181,7 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:9e5a15a60f75fa0d6e2ec2fd4c997539c71e0cbb]{
 -- Page 8, Offset 21702.
 -- ……えーと、ないわよね？　ない筈だと思うけど……」
-　... Euh, c'est pas possible, hein ? En tout cas, j'en doute...」
+  ... Euh, c'est pas possible, hein ? En tout cas, j'en doute...」
 
 }
 [sha:5171e68d9d7928f8d81366cda52ea7ef5d9c0957]{
@@ -193,7 +193,7 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:caeac1213aa2d9fe2913d4db5a708bc46a1a855f]{
 -- Page 8, Offset 21704.
 -- ベオくんを捜している時に、貴女の部屋を見させてもらったわ。動かぬ証拠がそこにあるのよ」
-　Pendant que je cherchais Beo, j'ai regardé dans ta chambre. J'y ai trouvé des preuves irréfutables.」
+  Pendant que je cherchais Beo, j'ai regardé dans ta chambre. J'y ai trouvé des preuves irréfutables.」
 
 }
 [sha:772eb24acceca8eb4e34e186afcd403d3a3aa5cf]{
@@ -217,19 +217,19 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
 [sha:8b12ff98ad584d9dbe30e6585adddb7ef16e9895]{
 -- Page 10, Offset 21708.
 -- そんなんで、人が必死に隠してた死体を見付けるとか、反則じゃない！」
-　Alors trouver de cette façon un cadavre qu'une personne cachait désespérément est contraire aux règles !」
+  Alors trouver de cette façon un cadavre qu'une personne cachait désespérément est contraire aux règles !」
 
 }
 [sha:d14eccf259667215816dcd8f9ed31cb2dc8ceeba]{
 -- Page 11, Offset 21709.
 -- 取り乱す蒼崎。
-　Aozaki perdait son sang-froid.
+  Aozaki perdait son sang-froid.
 
 }
 [sha:75188cd179ba32f8a844f09c0f27c61db6d37e41]{
 -- Page 11, Offset 21710.
 -- そんな彼女を、わたしたちはじーっと無言で観察する。
-　Nous l'observions fixement et en silence.
+  Nous l'observions fixement et en silence.
 
 }
 [sha:af6d257b6ec2247c2f2676b2f03ace335b8aa904]{
@@ -259,13 +259,13 @@ Té hé☆」
 [sha:b4eddc978a024e37311df4843a2baf96f939fca1]{
 -- Page 13, Offset 21715.
 -- 律架さんの先導で、わたしたちは蒼崎の部屋に向かった。
-　Escortés par Ritsuka, nous nous rendîmes dans la chambre d'Aozaki.
+  Escortés par Ritsuka, nous nous rendîmes dans la chambre d'Aozaki.
 
 }
 [sha:e2512ec9c50a0aace87e7977e75ea111a6f1ee05]{
 -- Page 13, Offset 21716.
 -- 蒼崎は苦虫をかみつぶしたような顔で付いてくる。
-　Cette dernière nous suivait d'un air renfrogné.
+  Cette dernière nous suivait d'un air renfrogné.
 
 }
 [sha:67ddafea8ed166184da4d22030746fc1394eada1]{
@@ -277,55 +277,55 @@ Té hé☆」
 [sha:5ccd6fa0571f0c8d31076743c918a6000600b5da]{
 -- Page 13, Offset 21718.
 -- 律架さんがドアを開ける。
-　Ritsuka poussa le battant.
+  Ritsuka poussa le battant.
 
 }
 [sha:7fabe52385d9aa808e274892b51eb52bd243189c]{
 -- Page 14, Offset 21719.
 -- 暗い廊下から、暗い室内へ。
-　Nous passâmes du couloir sombre à une pièce sinistre.
+  Nous passâmes du couloir sombre à une pièce sinistre.
 
 }
 [sha:32388f8335d26553175b336feb4c9d27c8295fd3]{
 -- Page 14, Offset 21720.
 -- わたしたちが蒼崎の部屋に入ると、そこには
-　Nous entrâmes dans la chambre d'Aozaki.
+  Nous entrâmes dans la chambre d'Aozaki.
 
 }
 [sha:13f51549fde1fd5bb892b300b18a3114d6322789]{
 -- Page 15, Offset 21721.
 -- 同性のわたしでさえ、一目で綺麗だと見惚れる美人が、
-　Là se trouvait une femme que même une fille comme moi aurait trouvée d'une beauté ensorcelante,
+  Là se trouvait une femme que même une fille comme moi aurait trouvée d'une beauté ensorcelante,
 
 }
 [sha:5c9bcb2e54624ba394a7db96b4c714065a324dc0]{
 -- Page 15, Offset 21722.
 -- 片手にマイク、
-　qui tenait un micro dans une main,
+  qui tenait un micro dans une main,
 
 }
 [sha:30b25862a347e42634f30ce7695ba46518c026bc]{
 -- Page 15, Offset 21723.
 -- かたわらに一升瓶を抱えたまま、
-　une bouteille d'alcool dans l'autre,
+  une bouteille d'alcool dans l'autre,
 
 }
 [sha:956cf3940390be3e0ec49a3bddf1b10523732b4c]{
 -- Page 15, Offset 21724.
 -- 満足そうな顔で永眠していた。
-　et qui dormait paisiblement d'un sommeil éternel.
+  et qui dormait paisiblement d'un sommeil éternel.
 
 }
 [sha:aff0727a6ee4b03b9eae71a25c0d314c9d7cd4a5]{
 -- Page 16, Offset 21725.
 -- くわえて、
-　De plus,
+  De plus,
 
 }
 [sha:c7ffc6603217720b9c2dd113bffb21855e5d4b67]{
 -- Page 16, Offset 21726.
 -- 部屋には一面、ヘンなポスターが貼られていた。
-　les murs étaient couverts de posters étranges.
+  les murs étaient couverts de posters étranges.
 
 }
 [sha:256213ff4f4635c61dc3d78bdbf0d83267b5d1df]{
@@ -343,13 +343,13 @@ Té hé☆」
 [sha:fa68013fb0d935cef733add6a2780d036bde88c1]{
 -- Page 17, Offset 21729. Mods: @k, @e.
 -- トコちゃん、“私はプログレ派だー”なんて言ってたけど、ホントは演歌好きだったのね……
-　Elle disait être fan de rock progressif, mais en réalité, elle préférait l'enka...
+  Elle disait être fan de rock progressif, mais en réalité, elle préférait l'enka...
 
 }
 [sha:8fe64fbbb89252035dbecf74554a292c672a01d7]{
 -- Page 17, Offset 21730. Glued. Mods: @x.
 -- しかも、マイマイクまで持っちゃって……」
-En plus, elle avait même son propre micro...」
+ En plus, elle avait même son propre micro...」
 
 }
 [sha:bf4aca59da28358e75b4c0b399c49b39e128e126]{
@@ -361,13 +361,13 @@ En plus, elle avait même son propre micro...」
 [sha:17c1e1824146cd2983923493aac0d249a01893ff]{
 -- Page 18, Offset 21732.
 -- 身もだえする蒼崎。
-　Aozaki était à l'agonie.
+  Aozaki était à l'agonie.
 
 }
 [sha:3b53f7c1e075990656804e07cda9a8ce8f0669a7]{
 -- Page 18, Offset 21733.
 -- しかし。どんな理由であれ、彼女が犠牲者を<隠蔽|いんぺい>していたのは事実である。
-　Cependant, peu importait la raison, elle avait délibérément dissimulé une victime.
+  Cependant, peu importait la raison, elle avait délibérément dissimulé une victime.
 
 }
 [sha:bb44596e0e30d9e2e2f7ac5d2968121817c1c888]{
@@ -379,7 +379,7 @@ En plus, elle avait même son propre micro...」
 [sha:3789fc9238baf56b18b08ef7b5fbd4b1bdb027b1]{
 -- Page 19, Offset 21735.
 -- この人の死体が見つかったら、色々と不便だから」
-　Après tout, la découverte de ce corps aurait été fâcheuse pour toi à bien des égards.」
+  Après tout, la découverte de ce corps aurait été fâcheuse pour toi à bien des égards.」
 
 }
 [sha:d452a0a500c1c6e928f9ece1082c369910fcb314]{
@@ -391,7 +391,7 @@ En plus, elle avait même son propre micro...」
 [sha:e369b99aa491ac50dc998132aaa3afcdca1107ea]{
 -- Page 20, Offset 21737.
 -- 昼過ぎに部屋に戻ってみたら、姉貴がいきなり死んでるんだもん！　そりゃ隠すでしょ、フツー！」
-　Lorsque je suis revenue dans ma chambre après midi, je suis tombée sur le cadavre de ma sœur ! N'importe qui aurait caché ça, non ?」
+  Lorsque je suis revenue dans ma chambre après midi, je suis tombée sur le cadavre de ma sœur ! N'importe qui aurait caché ça, non ?」
 
 }
 [sha:f97389efdf605deda59c8358dcd7fe54ed77f075]{
@@ -403,7 +403,7 @@ En plus, elle avait même son propre micro...」
 [sha:26c4b04d4a196323747c346b8cdc0fc25b28e5af]{
 -- Page 21, Offset 21739.
 -- それならどうして十三人目がいるかいないかを話しあっている時、姉貴の事を話さなかったんだ？」
-　Pourquoi n'as-tu pas mentionné ta sœur lorsqu'on parlait d'un treizième invité ?」
+  Pourquoi n'as-tu pas mentionné ta sœur lorsqu'on parlait d'un treizième invité ?」
 
 }
 [sha:017c1c822cc26e722e6c86d34af162b515d85be7]{
@@ -415,7 +415,7 @@ En plus, elle avait même son propre micro...」
 [sha:3b00349a6265335736e6aa6ef13348013150f796]{
 -- Page 22, Offset 21741.
 -- それなら黙っていて、私の手で犯人を捕まえようって……」
-　Alors, je pensais me taire et attraper le coupable de mes propres mains...」
+  Alors, je pensais me taire et attraper le coupable de mes propres mains...」
 
 }
 [sha:4564f2d6c344b087be523d65e85af4f2a1d6e584]{
@@ -427,7 +427,7 @@ En plus, elle avait même son propre micro...」
 [sha:9d4160cc72f8fe75ac48659ec380f86e3faa4421]{
 -- Page 23, Offset 21743.
 -- 事実、トコちゃんを捜そうとしてベオくんも詠梨さんも唯ちゃんもリタイヤしちゃったんだし」
-　Le fait est que Beo, Eiri et Yui ont été disqualifiés en cherchant la petite Tōko.」
+  Le fait est que Beo, Eiri et Yui ont été disqualifiés en cherchant la petite Tōko.」
 
 }
 [sha:283c71b9021f17de1f932d6b7f8017af6ec531a5]{
@@ -445,7 +445,7 @@ En plus, elle avait même son propre micro...」
 [sha:3d99b498fb3811dc7d85f32c413c52e681f0063c]{
 -- Page 24, Offset 21746.
 -- こいつの正体を暴くには、動機より状況証拠を優先しないといけない」
-　Pour dévoiler son identité, il faut accorder la priorité aux preuves matérielles plutôt qu'au mobile.」
+  Pour dévoiler son identité, il faut accorder la priorité aux preuves matérielles plutôt qu'au mobile.」
 
 }
 [sha:ce2e7d9a8c004d9dd19807020a2abc10c9365704]{
@@ -463,13 +463,13 @@ En plus, elle avait même son propre micro...」
 [sha:967c7c10102de9cbe4d3736297e71e3a31c0f9ba]{
 -- Page 26, Offset 21749.
 -- 槻司と律架さんが、蒼崎の両手を掴む。
-　Tsukiji et Ritsuka empoignèrent les deux bras d'Aozaki.
+  Tsukiji et Ritsuka empoignèrent les deux bras d'Aozaki.
 
 }
 [sha:e922692b40fac9934cee21f685ef0df718925fb0]{
 -- Page 26, Offset 21750.
 -- 静希もさりげなく手伝っていた。
-　Shizuki aidait lui aussi avec nonchalance.
+  Shizuki aidait lui aussi avec nonchalance.
 
 }
 [sha:6b126177af18733a7c574cc12b626f0fa6bde1be]{
@@ -481,7 +481,7 @@ En plus, elle avait même son propre micro...」
 [sha:cab6bb5f1afd766184dad703cb8eacc1663938a2]{
 -- Page 27, Offset 21752.
 -- まままさか、疑わしきは殺すってワケ！？」
-　Me... Me dites pas que vous allez me tuer dans le doute ?!」
+  Me... Me dites pas que vous allez me tuer dans le doute ?!」
 
 }
 [sha:7c9c03ebcca99f2e946097553663f3c3660e966e]{
@@ -493,13 +493,13 @@ En plus, elle avait même son propre micro...」
 [sha:0fb9b9b62ce76ae3fbef66cdc5c465e6a2535c70]{
 -- Page 28, Offset 21754.
 -- 犯人と思わしき者は警察が来るまで閉じこめて、凶行をストップさせる……ミステリの常道ね。
-　La personne qu'on suspecte doit être enfermée jusqu'à ce que la police arrive afin de mettre fin aux crimes... C'est le déroulement normal de tout bon roman policier.
+  La personne qu'on suspecte doit être enfermée jusqu'à ce que la police arrive afin de mettre fin aux crimes... C'est le déroulement normal de tout bon roman policier.
 
 }
 [sha:04a5b193a60875e0dc73235a67b46efd8d5a0de1]{
 -- Page 28, Offset 21755.
 -- えーと、外から鍵をかけられる監獄っぽい部屋はあるかしら、アッちゃん？」
-　Euh, le manoir comporte-t-il une pièce du genre cachot qu'on peut fermer à clef depuis l'extérieur, Al ?」
+  Euh, le manoir comporte-t-il une pièce du genre cachot qu'on peut fermer à clef depuis l'extérieur, Al ?」
 
 }
 [sha:75f43fc9698060b0060f5f0389c973903bab3b2c]{
@@ -511,7 +511,7 @@ En plus, elle avait même son propre micro...」
 [sha:19dfb2c065e8d5009a21af677dccf9fa9d9fd1ac]{
 -- Page 29, Offset 21757.
 -- 青子にはそこで一晩あかしてもらいましょう」
-　Aoko passera la nuit là-bas.」
+  Aoko passera la nuit là-bas.」
 
 }
 [sha:a79dfb56989f097a92d12c31a28ae07fb232f486]{
@@ -523,7 +523,7 @@ En plus, elle avait même son propre micro...」
 [sha:231dfda9cb5dc762337bdc99ae79b5095cc4576c]{
 -- Page 29, Offset 21759. Glued.
 -- そのペンションの名前、スキー跡とか言わない有珠！？」
-　Le nom de cette pension, ça serait pas Spur, Alice ?!」
+  Le nom de cette pension, ça serait pas Spur, Alice ?!」
 
 }
 [sha:5dd5b6c5c2a508cd4392f0e0f25994be6564dc61]{
@@ -541,43 +541,43 @@ En plus, elle avait même son propre micro...」
 [sha:ccb2a9a9630bcf308aa37564728ff0c50d9bed29]{
 -- Page 30, Offset 21762.
 -- 民主主義的に、閉じこめられる隙を見せた私の負けってコトか……」
-　Démocratiquement parlant, j'ai perdu au moment où j'ai montré une faiblesse pour vous donner l'occasion de m'enfermer...」
+  Démocratiquement parlant, j'ai perdu au moment où j'ai montré une faiblesse pour vous donner l'occasion de m'enfermer...」
 
 }
 [sha:17760a53216d874231c2d95b283a6b453dde9c1f]{
 -- Page 31, Offset 21763.
 -- そう。本当はこの方法を真っ先にしてしまえば良かったんだ。
-　Oui. En réalité, il aurait été préférable d'utiliser cette méthode dès le départ.
+  Oui. En réalité, il aurait été préférable d'utiliser cette méthode dès le départ.
 
 }
 [sha:edac87350322dcfe048d168f1dccaca680d6406d]{
 -- Page 31, Offset 21764.
 -- 蒼崎がスイーツハーツなら、もうこれ以上、不意をついて笑わせられる犠牲者は出ない。
-　Si Aozaki était vraiment Sweets Hearts, plus personne ne serait pris par surprise et victime d'un rire.
+  Si Aozaki était vraiment Sweets Hearts, plus personne ne serait pris par surprise et victime d'un rire.
 
 }
 [sha:86c542f1323955347394836c7d02f67044a0418a]{
 -- Page 31, Offset 21765.
 -- 蒼崎がスイーツハーツでないなら、彼女は最後まで生き残るのだから、それでこのゲームはクリアとなる。
-　Et si elle n'était pas Sweets Hearts, elle survivrait jusqu'à la fin et le jeu se terminerait.
+  Et si elle n'était pas Sweets Hearts, elle survivrait jusqu'à la fin et le jeu se terminerait.
 
 }
 [sha:6b9a4b20514f7f1f215bfc77e903ea4e3e24b2a4]{
 -- Page 32, Offset 21766.
 -- けど、誰だって「おまえが犯人だ」と決めつけられて閉じこめられるのはイヤなものだ。
-　Toutefois, personne n'aimerait être enfermé en étant accusé d'être le coupable.
+  Toutefois, personne n'aimerait être enfermé en étant accusé d'être le coupable.
 
 }
 [sha:f954e2784bb9f4a5a2ae50e3de5b77b34af284bf]{
 -- Page 32, Offset 21767.
 -- 手を下す人間も気持ちが悪い。
-　Et ceux qui devaient exécuter la sentence auraient eux aussi comme un arrière-goût amer dans la bouche.
+  Et ceux qui devaient exécuter la sentence auraient eux aussi comme un arrière-goût amer dans la bouche.
 
 }
 [sha:1a2597c97d45a777c5f5d51aa7819bab196a75e5]{
 -- Page 32, Offset 21768.
 -- この貧乏クジを引くのは、誰から見ても“有罪”な人間でなくてはならなかった。
-　Il fallait être considéré “coupable” par tout le monde pour tirer cette loterie de misère.
+  Il fallait être considéré “coupable” par tout le monde pour tirer cette loterie de misère.
 
 }
 [sha:b79b9945cc879e79ae0b4b2437c5d458be8e2af9]{
@@ -589,24 +589,24 @@ En plus, elle avait même son propre micro...」
 [sha:3c56aef0826c55981955e45930cb2e2330601cf1]{
 -- Page 33, Offset 21770.
 -- 相手はとんでもないキレ者よ。もしかしたら本当に姿のない十三人目はいるかもしれない。最後まで気を抜かないで」
-　L'adversaire est exceptionnellement rusé. Si ça se trouve, il y a vraiment un treizième invité invisible. Ne relâchez surtout pas votre garde.」
+  L'adversaire est exceptionnellement rusé. Si ça se trouve, il y a vraiment un treizième invité invisible. Ne relâchez surtout pas votre garde.」
 
 }
 [sha:5c8d5558f8eb5eae510ca440edadedd6fe280a98]{
 -- Page 34, Offset 21771.
 -- それが蒼崎の最後の言葉になった。
-　Ce furent les dernières paroles d'Aozaki.
+  Ce furent les dernières paroles d'Aozaki.
 
 }
 [sha:b26e9b16f59392741c5b109b59daf22f8b9b2691]{
 -- Page 34, Offset 21772.
 -- わたしたちは彼女を地下室に閉じこめ、外から南京錠で鍵をかけ、ようやく安心を手に入れたのである。
-　Nous l'enfermâmes dans la cave, fermâmes le cadenas à clef depuis l'extérieur, et obtînmes enfin une certaine tranquillité d'esprit.
+  Nous l'enfermâmes dans la cave, fermâmes le cadenas à clef depuis l'extérieur, et obtînmes enfin une certaine tranquillité d'esprit.
 
 }
 [sha:79ffdee41f22cd337fe42f2c3ec2b0a3c5afd3c2]{
 -- Page 34, Offset 21773.
 -- そして、わたしは―――
-　Et alors, je―――
+  Et alors, je―――
 
 }

@@ -1,163 +1,163 @@
 [sha:6bdce88b24f769689744c4e04e16e5ac19c6b9a1]{
 -- Page 0, Offset 19667.
 -- なぜなにー
-　　　　　　　Tout sur les
+      Tout sur les
 
 }
 [sha:f74dcbbc0598911fc93eb904caa69cb224d812c6]{
 -- Page 1, Offset 19668.
 -- プロイー
-　　　　　　Ploy.
+                  Ploy.
 
 }
 [sha:d89ed129f3465b1e2ea9b13678a5d785a40228ce]{
 -- Page 2, Offset 19669.
 -- 魔法の魔の字も知らない全国のシャバ僧ども。
-À tous les idiots d'ce pays ignares en Vraie Magie,
+    À tous les idiots d'ce pays ignares en Vraie Magie,
 
 }
 [sha:840bc4309fea0775e71811bea8099e969b7a0952]{
 -- Page 2, Offset 19670.
 -- ヒロインにならんと高校デビューしたものの、
-et au pull bleu qui a fait ses débuts au lycée, mais qui
+    et au pull bleu qui a fait ses débuts au lycée, mais qui
 
 }
 [sha:a1cff3942cf71e148dc85fdd7b1c7c0b3c39dfb1]{
 -- Page 2, Offset 19671.
 -- 真のヒロインにその座を奪われた青セーターども。
-s'est fait voler la vedette par la véritable héroïne :
+    s'est fait voler la vedette par la véritable héroïne :
 
 }
 [sha:3e642927e4b80d325658b4cdf7569cabd41731c6]{
 -- Page 3, Offset 19672.
 -- こんばんはッス。
-　　'soir. C'est l'heure d'une leçon pas très compréhensible
+      'soir. C'est l'heure d'une leçon pas très compréhensible
 
 }
 [sha:01cb2f442dc15e4a13438e82e1a306b0514ab66a]{
 -- Page 3, Offset 19673.
 -- よく分からない話をよく分からない方向でレクチャーする
-　　sur une histoire pas trop compréhensible non plus,
+      sur une histoire pas trop compréhensible non plus,
 
 }
 [sha:ee594c29ba0270b10f55a1fa91fa74115a4bcefb]{
 -- Page 3, Offset 19674.
 -- 真番組『なぜなにプロイ』の時間っスよ。
-　　l'authentique émission de “Tout sur les Ploy”.
+      l'authentique émission de “Tout sur les Ploy”.
 
 }
 [sha:c50f12b05291e0ede87c1e5167955bbb38634073]{
 -- Page 4, Offset 19675.
 -- …………。
-　　　　　　............
+                    ............
 
 }
 [sha:a43ee8cb96e53e6ea2783bd8569322c6dc6a2f90]{
 -- Page 5, Offset 19676.
 -- 司会はグレートスリー<＋|プラス>１こと、
-　　　Elle sera présentée par les Great Three,
+        Elle sera présentée par les Great Three,
 
 }
 [sha:439d88ee1fa6f8735ff0a9e731d8119a27ec88b5]{
 -- Page 5, Offset 19677.
 -- コマドリ・ザ・くるっくー。
-　　　accompagnés de Robin l'oiseau.
+        accompagnés de Robin l'oiseau.
 
 }
 [sha:30e5e2c140cfefb9bab995506d868885213d240c]{
 -- Page 6, Offset 19678.
 -- ティーチャ役にはマイ天使であるところの
-　　Je voudrais inviter dans le rôle du professeur,
+      Je voudrais inviter dans le rôle du professeur,
 
 }
 [sha:03b9af665f291c2daba42c3593d58878d2b7c4c6]{
 -- Page 6, Offset 19679.
 -- アリスさんをお招きしたッス。
-　　My Angel, Mam'zelle Alice.
+      My Angel, Mam'zelle Alice.
 
 }
 [sha:8b0d1ef3aa4065de4f828c99f1b37b9c43c74deb]{
 -- Page 7, Offset 19680. Mods: @n.
 -- つーかここアリスさんの部屋ッスね！
-Au fait, ici c'est la chambre de Mam'zelle Alice !
+      Au fait, ici c'est la chambre de Mam'zelle Alice !
 
 }
 [sha:ff381c6ef866d7ea6ef54315bb47dd3fb73098cc]{
 -- Page 7, Offset 19681. Mods: @n.
 -- 時間になってもアリスさんがスタジオに来ないんで、
-Comme elle v'nait pas aux studios alors qu'c'était l'heure,
+      Comme elle v'nait pas aux studios alors qu'c'était l'heure,
 
 }
 [sha:084b2ea6f3973364133c603732356e6f379386ba]{
 -- Page 7, Offset 19682.
 -- アリスさんの部屋にカメラ持ち込んだッスよ。
-j'ai amené la caméra dans sa chambre.
+      j'ai amené la caméra dans sa chambre.
 
 }
 [sha:f87c0379825f91e16e3e9d3e6248973994498cf0]{
 -- Page 8, Offset 19683.
 -- 発想の転換？　なんス？
-　　　Faut voir les choses sous un angle différent !
+  Faut voir les choses sous un angle différent !
 
 }
 [sha:bab3c2b5fa9acd10540f32b2668b8eecaa276f80]{
 -- Page 8, Offset 19684.
 -- ゲストが来ないなら、
-　　　Si l'invité n'vient pas, il n'y a qu'à faire l'émission
+  Si l'invité n'vient pas, il n'y a qu'à faire l'émission
 
 }
 [sha:dd03288cbd281c2f27e51e8db78006cf1103f88d]{
 -- Page 8, Offset 19685.
 -- ゲストの部屋でやればいいじゃない？
-　　　dans sa chambre, non ?
+  dans sa chambre, non ?
 
 }
 [sha:9088b812fe8d61feba23f7233556fe6cdf053ab4]{
 -- Page 9, Offset 19686.
 -- ……いいから、はじめてちょうだい。
-...... C'est bon, alors dépêche-toi de commencer.
+  ...... C'est bon, alors dépêche-toi de commencer.
 
 }
 [sha:a3fd11b242300498aed349ac8eae3c45583a3fb3]{
 -- Page 9, Offset 19687.
 -- 一秒でも早く終わらせて、光より早く出て行って。
-Finis ça le plus rapidement possible, et va-t'en plus vite que la lumière.
+  Finis ça le plus rapidement possible, et va-t'en plus vite que la lumière.
 
 }
 [sha:dae29784b8bfab1dc68b1bc28897d37b1d8f742c]{
 -- Page 10, Offset 19688.
 -- うひゃー、照れるッスー！
-　　Uhaa, c't'embarrassant !
+    Uhaa, c't'embarrassant !
 
 }
 [sha:2f980065ab2cfcb699484e0c302e87fb3147c3a9]{
 -- Page 10, Offset 19689.
 -- のたうちまわるっス－！
-　　C'est tordant !
+    C'est tordant !
 
 }
 [sha:c5bd4b52be9d113e6f8c29be678214fc44846063]{
 -- Page 11, Offset 19690.
 -- ………………………なぜ？
-　　　........................... Pourquoi ?
+                ........................... Pourquoi ?
 
 }
 [sha:9fc611997497ee0f2d8770b13ac1619889ce78d1]{
 -- Page 12, Offset 19691.
 -- や、ジブン的に
-　　Ben, j'l'ai interprété comme ça :
+      Ben, j'l'ai interprété comme ça :
 
 }
 [sha:31a3460bee810d4ead6b642e14c05a48ad74d356]{
 -- Page 12, Offset 19692.
 -- 「ビジネスはすぐに終わらせて、アナタとプライベート
-　　「Finis rapidement ce que tu as à faire,
+      「Finis rapidement ce que tu as à faire,
 
 }
 [sha:acdea979b0a20079157fd25129b0bcbf489d8408]{
 -- Page 12, Offset 19693.
 -- タイムに入りたいの……」と解釈したッス。
-　　je veux te voir en privé......」
+      je veux te voir en privé......」
 
 }
 [sha:ba9df2eb749da200a7d5a96e36af31ff69c036d0]{
@@ -175,91 +175,91 @@ Honnêtement, c't'à 90 % impossible d'savoir ce que moi ou mon interlocuteur vo
 [sha:4186afe936faad8cfb9793afb28b65ee67da96dd]{
 -- Page 14, Offset 19696.
 -- そうね。
-　Oui.
+  Oui.
 
 }
 [sha:db1a1e812ec461a6ddd017ceb77da3ec3ec47ed9]{
 -- Page 14, Offset 19697.
 -- わたしも、その意見には賛成よ。
-　Moi aussi, je partage cet avis.
+  Moi aussi, je partage cet avis.
 
 }
 [sha:d97220a92f432689206cfe6e5aa9ec74f5d1b6e8]{
 -- Page 15, Offset 19698.
 -- うはっ、このほとばしる信頼感……！
-　　　Ouaah, ce sentiment de confiance écrasant......!
+      Ouaah, ce sentiment de confiance écrasant......!
 
 }
 [sha:2713c760f4f929b7c29c84378c83837741e3c91b]{
 -- Page 15, Offset 19699.
 -- 頼られるって時に重いッス。
-　　　Parfois, c'est pesant quand on compte sur toi.
+      Parfois, c'est pesant quand on compte sur toi.
 
 }
 [sha:8c035330205dcf2370f113b7e4eb029525aad7fe]{
 -- Page 15, Offset 19700.
 -- というか、物理的に重いッス？
-　　　C'est même physiquement pesant ?
+      C'est même physiquement pesant ?
 
 }
 [sha:3c73c2b6898dbbb29f3a69230a2638c90a8588e7]{
 -- Page 16, Offset 19701.
 -- ロビン。
-　　　　　　Robin.
+                  Robin.
 
 }
 [sha:f54e163cf27727b794b4432a160d62d0398186e8]{
 -- Page 17, Offset 19702.
 -- チャッス。
-　　　　　Oui !
+                Oui !
 
 }
 [sha:0aac1b9db9cc349184d6c949f15353fdd52c1e4a]{
 -- Page 18, Offset 19703.
 -- 今回は初歩の初歩、使い魔の説明っスよ。
-　　Ce soir, nous f'rons le B.A.BA, les explications sur les familiers.
+Ce soir, nous f'rons le B.A.BA, les explications sur les familiers.
 
 }
 [sha:c1f0d964389ac523251f3a155d24680ee2b7c845]{
 -- Page 18, Offset 19704.
 -- 魔術オンチなイチゲンさんに優しい授業。
-　　C'est un cours simple pour les nouveaux venus n'ayant aucune
+C'est un cours simple pour les nouveaux venus n'ayant aucune
 
 }
 [sha:ea33fcf664a138fe7c41dcb03d8fa7fe11ca5a59]{
 -- Page 18, Offset 19705.
 -- それが「なぜなにプロイ」なワケッスね。
-　　idée de c'qu'est la Magie. Voilà c'qu'est “Tout sur les Ploy”.
+idée de c'qu'est la Magie. Voilà c'qu'est “Tout sur les Ploy”.
 
 }
 [sha:613e9ba6ac723f764320749e16ae4a700fa06a90]{
 -- Page 19, Offset 19706.
 -- で。この『使い魔』ってなんスかアリスさん。
-　Donc, c'est quoi ce “familier”, Mam'zelle Alice ?
+  Donc, c'est quoi ce “familier”, Mam'zelle Alice ?
 
 }
 [sha:fae4a4ca15b709c4aed5fff3d972a2aad1c9fb5b]{
 -- Page 19, Offset 19707.
 -- 自分、生まれてこの方、
-　Moi-même, depuis que j'suis né,
+  Moi-même, depuis que j'suis né,
 
 }
 [sha:ae4d35bd84168a70589f6730596dbf9a30487934]{
 -- Page 19, Offset 19708.
 -- 見たことも聞いたコトもないッスよ？
-　j'n'ai jamais vu ni entendu parler d'ça.
+  j'n'ai jamais vu ni entendu parler d'ça.
 
 }
 [sha:b51137e292e9909c52c623c70948265dd40cba44]{
 -- Page 20, Offset 19709.
 -- 使い魔というのは、
-　　Un familier,
+          Un familier,
 
 }
 [sha:6542dce9615f7440c483e9bde52b3f6fb7b41187]{
 -- Page 20, Offset 19710.
 -- 魔術師が使役するロボットみたいなものよ。
-　　c'est comme un robot utilisé par les Mages.
+          c'est comme un robot utilisé par les Mages.
 
 }
 [sha:21f73e0fb92c01305e8c6ede254dc955fe915c38]{
@@ -271,49 +271,49 @@ Depuis les temps anciens, la principale occupation des Mages est de s'enfermer d
 [sha:a84e7b82919d15a1b3116d172c606ba909046a13]{
 -- Page 22, Offset 19712.
 -- ただのコマ使いっスね。
-　　Ce ne sont que des pions, donc.
+  Ce ne sont que des pions, donc.
 
 }
 [sha:4aeb7c523dbb719e18a4418d0dfb238662aec2fa]{
 -- Page 22, Offset 19713.
 -- それは弟子とは違うんスか？
-　　C'est différent des disciples ?
+  C'est différent des disciples ?
 
 }
 [sha:7897d76c8281e0d0a8688cbf1ecb1e2e2921ed4c]{
 -- Page 23, Offset 19714.
 -- 違うわ。
-　　Tout à fait.
+    Tout à fait.
 
 }
 [sha:581f65fb88aa734e1f7b1a15d9f6cbb524e266af]{
 -- Page 23, Offset 19715.
 -- 弟子というのは<業|わざ>を引き継いで師を越える後継者でしょう？
-　　Un disciple est le successeur qui hérite des techniques du maître et se doit de les maîtriser, n'est-ce pas ?
+    Un disciple est le successeur qui hérite des techniques du maître et se doit de les maîtriser, n'est-ce pas ?
 
 }
 [sha:61ea019940684ca82eedbf7796cb4331fa8fe39f]{
 -- Page 24, Offset 19716.
 -- <弟子|かれら>はいずれ師を超える義務があるし、
-　　　Ils ont le devoir de surpasser un jour leurs maîtres,
+    Ils ont le devoir de surpasser un jour leurs maîtres,
 
 }
 [sha:61730d7b071b0f6ef0699cb501b656897011856d]{
 -- Page 24, Offset 19717.
 -- 師も、そういうものでなければ弟子にはとらないわ。
-　　　et ces derniers ne prendraient pas de disciples s'il en était autrement.
+    et ces derniers ne prendraient pas de disciples s'il en était autrement.
 
 }
 [sha:00ef29ab19706b7f95d022467069915a2642ff0c]{
 -- Page 25, Offset 19718.
 -- でも使い魔は造られた時の性能がすべてだから。
-　　　　Mais les familiers ont toutes leurs capacités dès leur naissance.
+      Mais les familiers ont toutes leurs capacités dès leur naissance.
 
 }
 [sha:ce37bb2961214b8858bd8c455dacc3086ed13172]{
 -- Page 25, Offset 19719.
 -- 成長しないものを、後継ぎにはできないわ。
-　　　　Un être incapable d'évoluer ne peut devenir un successeur.
+      Un être incapable d'évoluer ne peut devenir un successeur.
 
 }
 [sha:16f3b7dc9c5137ede15864958c5bee4ead582571]{
@@ -325,19 +325,19 @@ J'vois. J'comprends mieux. C'pour ça que malgré les années qui passent, ma ca
 [sha:fd66271d0a3e9d437ef738720beff9dabb8a2bd9]{
 -- Page 27, Offset 19721.
 -- そうね。パーフェクトに役たたずね。
-　　　Oui. Tu es parfaitement inutile.
+                  Oui. Tu es parfaitement inutile.
 
 }
 [sha:92f393237298442a2df7894670e9a31ba62a4b95]{
 -- Page 28, Offset 19722.
 -- 使い魔の多くは小動物をベースに造られるわ。
-La plupart des familiers sont créés à partir de petits animaux.
+  La plupart des familiers sont créés à partir de petits animaux.
 
 }
 [sha:7ea00c4104936fe9e6025402adbd1885349e93ca]{
 -- Page 28, Offset 19723.
 -- これは、使い魔は術者からの魔力供給で活動するタイプが多いから。
-En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
+  En effet, une grande partie des types de familiers requièrent d'être alimentés en prana par leur maître.
 
 }
 [sha:79654073fe1783d9c620d00d433b7618fa109e3c]{
@@ -355,25 +355,25 @@ C'est pour cette raison que les petits animaux sont privilégiés, car leur cons
 [sha:59e7ba9f585f27b8938eb21d6d3e1d557bbc796f]{
 -- Page 30, Offset 19726.
 -- ？　ジブン、狩りとかしたコトないッスよ？
-　? Pourtant, j'n'ai jamais chassé ou fait un truc du genre.
+  ? Pourtant, j'n'ai jamais chassé ou fait un truc du genre.
 
 }
 [sha:e992898937ddcb1122cc9a62f52dc6ef80170f76]{
 -- Page 30, Offset 19727.
 -- 蛋白質も食物繊維も要らないッス？
-　J'n'ai pas besoin de protéines et de fibres alimentaires ?
+  J'n'ai pas besoin de protéines et de fibres alimentaires ?
 
 }
 [sha:0a651eba8d8562e39b34f8676b73666d6081973f]{
 -- Page 31, Offset 19728.
 -- 貴方たちプロイはまた別のくくり。
-Vous les Ploy, vous dépendez d'un autre type de contrat.
+  Vous les Ploy, vous dépendez d'un autre type de contrat.
 
 }
 [sha:b2371311ce543f73dbdf4484422a64dcf01213f0]{
 -- Page 31, Offset 19729.
 -- とにかく、魔術師たちにとって、使い魔は自分の命令を聞く「従者」「ペット」だと思えばいいわ。
-En tout cas, pour les Mages, tu peux considérer les familiers comme des “serviteurs” ou des “animaux de compagnie” qui obéissent à leurs ordres.
+  En tout cas, pour les Mages, tu peux considérer les familiers comme des “serviteurs” ou des “animaux de compagnie” qui obéissent à leurs ordres.
 
 }
 [sha:d7c324fef84ae3ee28968470bc9ad6aa3d0b34ea]{
@@ -385,367 +385,367 @@ Ainsi, on prend généralement un chat, un oiseau ou une souris comme familier.
 [sha:a195f441c20afe8528d7d8857502ead93ade7676]{
 -- Page 33, Offset 19731.
 -- アリスさん、この物騒なのは
-　　Mam'zelle Alice, c'truc dangereux,
+  Mam'zelle Alice, c'truc dangereux,
 
 }
 [sha:02401a77395d5948ff319163722b4ce80c9f9293]{
 -- Page 33, Offset 19732.
 -- どういうカテゴリーッスか？
-　　il entre dans quelle catégorie ?
+  il entre dans quelle catégorie ?
 
 }
 [sha:fc5372a8d80fd2cacce5cd4db131743116aeaa93]{
 -- Page 34, Offset 19733.
 -- これは戦闘用に調律された自動人形。
-　C'est un Automate adapté au combat. Mais à ce niveau,
+  C'est un Automate adapté au combat. Mais à ce niveau,
 
 }
 [sha:daeb4b930d46759d8cb3e150788a29d1dda24535]{
 -- Page 34, Offset 19734.
 -- ここまでくると<使い魔|ファミリア>というより<衛兵|センチネル>だけど。
-　il s'agit davantage d'une sentinelle qu'un familier.
+  il s'agit davantage d'une sentinelle qu'un familier.
 
 }
 [sha:adf0099ece5f7ec320a9aec2298979b8b4e96316]{
 -- Page 35, Offset 19735.
 -- ……これは使い魔のセオリーから外れた特注品よ。
-　　...... Sa construction ne respecte pas les normes traditionnelles
+    ...... Sa construction ne respecte pas les normes traditionnelles
 
 }
 [sha:6dc2fd52771a5a094e8285f97646add357c0d0f0]{
 -- Page 35, Offset 19736.
 -- また、アナタのように人間互換できる知性を持った使い魔も
-　　des familiers. Aussi, les familiers possédant une intelligence
+    des familiers. Aussi, les familiers possédant une intelligence
 
 }
 [sha:3b4b41b6118ede547199cc1bc94fa08a3e09a1c2]{
 -- Page 35, Offset 19737.
 -- 特例にあたるわ。
-　　compatible avec les humains comme toi sont des exceptions.
+    compatible avec les humains comme toi sont des exceptions.
 
 }
 [sha:f9099ca7fd01bd256a1b3f68080056b453eaa9f8]{
 -- Page 36, Offset 19738.
 -- でも、そんなのは魔力の無駄ね。コストが高いだけ。
-　　　Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie. Leur coût en prana est juste trop grand.
+Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie. Leur coût en prana est juste trop grand.
 
 }
 [sha:7ffaf16ef977bc3a8ffa75c0417297c398730ce2]{
 -- Page 36, Offset 19739.
 -- たいていは術者本人が済ませた方が早かったり、
-　　　Puisqu'en général, il serait plus rapide d'utiliser des matériaux moins chers,
+Puisqu'en général, il serait plus rapide d'utiliser des matériaux moins chers,
 
 }
 [sha:63dfdc33278b6e5e3d2034a2b84d8f369d92b92a]{
 -- Page 36, Offset 19740.
 -- もっと安い材料で代用できるから。
-　　　ou que le Mage fasse le travail lui-même.
+ou que le Mage fasse le travail lui-même.
 
 }
 [sha:ac2ec4d6e77c295c7364976af7550bda7844f36a]{
 -- Page 37, Offset 19741.
 -- 手段と結果を間違える、
-　　C'est c'qu'on appelle,
+      C'est c'qu'on appelle,
 
 }
 [sha:150850b7b3f9e1d28bfc4161a7160ba4d971bee2]{
 -- Page 37, Offset 19742.
 -- ってやつッスね。
-　　confondre la fin et les moyens, hein.
+      confondre la fin et les moyens, hein.
 
 }
 [sha:2660f70e358821aa1715b846d4ce077c38830201]{
 -- Page 38, Offset 19743. Mods: @k, @e.
 -- ん？　んじゃ、使い魔は術者より弱いんスね。
-　Hm ? Alors, le familier est plus faible que le Mage, hein.
+  Hm ? Alors, le familier est plus faible que le Mage, hein.
 
 }
 [sha:1f7f8b76064cdebfd286d25c55fc98b5e497978b]{
 -- Page 38, Offset 19744. Mods: @k, @e.
 -- あくまで前座ってコトっスか？
-　Ce sont que des sous-fifres ?
+  Ce sont que des sous-fifres ?
 
 }
 [sha:60a1b119369fdd572645f7913e82b51adfc96c2d]{
 -- Page 38, Offset 19745.
 -- うは、マジ使えないヤツらッスー！
-　Ouaah, ils sont vraiment inutiles !
+  Ouaah, ils sont vraiment inutiles !
 
 }
 [sha:31928f698097465118a069c6e8ae23ecbabab086]{
 -- Page 39, Offset 19746.
 -- アナタらしい短絡思考ねロビン。
-　　C'est une conclusion bien hâtive comme on peut l'attendre de toi, Robin.
+    C'est une conclusion bien hâtive comme on peut l'attendre de toi, Robin.
 
 }
 [sha:706af1765cd74274bcea3fd259057538f06c32f0]{
 -- Page 39, Offset 19747.
 -- 痺れるわ。これがわたしの使い魔だなんて、
-　　Ça me consterne. Et dire que tu es mon familier,
+    Ça me consterne. Et dire que tu es mon familier,
 
 }
 [sha:7a81d88f3fd2decff85f69cbfec687edbcda5a0b]{
 -- Page 39, Offset 19748.
 -- どうにかなってしまいそう。
-　　j'ai l'impression que ça va me rendre folle.
+    j'ai l'impression que ça va me rendre folle.
 
 }
 [sha:ebbd742b9f1f4ac5142ddda3733622d0f4abb58d]{
 -- Page 40, Offset 19749.
 -- アリスさん、
-　Mam'zelle Alice.
+        Mam'zelle Alice.
 
 }
 [sha:7f4193b37ba6946be8a82b51019ad524f193020f]{
 -- Page 40, Offset 19750.
 -- 言葉はステキなのにどうして顔が怖いんスか？
-　Vos paroles sont merveilleuses, mais pourquoi votre visage fait peur ?
+        Vos paroles sont merveilleuses, mais pourquoi votre visage fait peur ?
 
 }
 [sha:8c105f33a479120f6d86a60dfac77a5f1ecb0e46]{
 -- Page 41, Offset 19751.
 -- 術者の十分の一ぐらいの性能しかなくても、
-　Même s'il n'a que 10 % des capacités du Mage,
+  Même s'il n'a que 10 % des capacités du Mage,
 
 }
 [sha:1e37857975375a115e7aa99553a62387775fca41]{
 -- Page 41, Offset 19752.
 -- 本人より“強い”使い魔を造る事は簡単よ。
-　c'est facile de créer un familier plus “fort” que lui.
+  c'est facile de créer un familier plus “fort” que lui.
 
 }
 [sha:2a285c6f88107b54128f25d2145a5a5ddff1cf21]{
 -- Page 42, Offset 19753.
 -- 試しに、こんどアナタのお腹に
-　　Et si on essayait la prochaine fois, juste pour voir,
+      Et si on essayait la prochaine fois, juste pour voir,
 
 }
 [sha:a7dc128c4a3db61ab978ccb58f64de8e1a4cdd97]{
 -- Page 42, Offset 19754.
 -- デリンジャーを埋め込んでみましょうか。
-　　de t'enfoncer un derringer dans le ventre ?
+      de t'enfoncer un derringer dans le ventre ?
 
 }
 [sha:bd789e9cc92dc3c2da682e94390d1a9809c8c578]{
 -- Page 43, Offset 19755.
 -- 泣いたり笑ったり飛んだりはできなくなるけど、
-　Tu ne pourras plus gazouiller, rire, ou voler,
+  Tu ne pourras plus gazouiller, rire, ou voler,
 
 }
 [sha:380c1ad83c19c725ee47c7617d8b14a37a90d365]{
 -- Page 43, Offset 19756.
 -- 相手を驚かせるぐらいはできるわ、きっと。
-　mais tu devrais pouvoir au moins surprendre l'adversaire.
+  mais tu devrais pouvoir au moins surprendre l'adversaire.
 
 }
 [sha:a3d43f4ff3cee4f0622773efdd8f638fd41d421a]{
 -- Page 44, Offset 19757.
 -- コ―――コマドリ・ザ・クラッカー！
-　　Ro―――Robin le Pétard !
+      Ro―――Robin le Pétard !
 
 }
 [sha:c32222882a50ab04c3be77a82bbe3d97141cdc91]{
 -- Page 44, Offset 19758.
 -- かっちょいいッスー！
-　　Trop cool !
+      Trop cool !
 
 }
 [sha:e8ffafe5b1c3bb16e2931a6d66e399ea04feadac]{
 -- Page 44, Offset 19759.
 -- クリスマスに大活躍の予感……！
-　　J'ai l'intuition que j'aurai un grand rôle à jouer à Noël......!
+      J'ai l'intuition que j'aurai un grand rôle à jouer à Noël......!
 
 }
 [sha:e6f6b9c2cce4ee1c7663923d6812e8ab617a0d3c]{
 -- Page 45, Offset 19760.
 -- まさに豆鉄砲ね。
-　　　Une vraie sarbacane.
+    Une vraie sarbacane.
 
 }
 [sha:d496a5f93a33d5b72620e569c2799c666f5fbd78]{
 -- Page 45, Offset 19761.
 -- そのまま消費されてくれないかしら。
-　　　Et si on se débarrassait de toi par la même occasion ?
+    Et si on se débarrassait de toi par la même occasion ?
 
 }
 [sha:f03169d3e3700ac33dc1811e76daa459ca4b6f61]{
 -- Page 46, Offset 19762.
 -- なんか当たりキツイッス。
-　　Vous êtes sévère.
+  Vous êtes sévère.
 
 }
 [sha:e13e0a6a5b815bda23547995d7546a62ddf9f2c3]{
 -- Page 46, Offset 19763.
 -- でも、これで大まかな説明はしたっスね。
-　　Mais au moins, on a fait une explication approximative.
+  Mais au moins, on a fait une explication approximative.
 
 }
 [sha:d025a5c45658da5bdcbaf8c2172e7187f244abdc]{
 -- Page 47, Offset 19764.
 -- 使い魔は魔術師を守るロボットで、
-　Les familiers sont des robots protégeant le Mage,
+Les familiers sont des robots protégeant le Mage,
 
 }
 [sha:30909b62d221873f7bf5741340c44da0ee2c351a]{
 -- Page 47, Offset 19765.
 -- その性能は造った魔術師によってマチマチ、と。
-　et leur performance varie selon leur créateur.
+et leur performance varie selon leur créateur.
 
 }
 [sha:5b9cd64e94a17c95058a6921cabfa996299a227c]{
 -- Page 48, Offset 19766.
 -- ん？　万能感あふれるアリスさんはともかく、
-　Hm ? La toute-puissante Mam'zelle Alice mise à part,
+    Hm ? La toute-puissante Mam'zelle Alice mise à part,
 
 }
 [sha:a558c73bf2c3f943ee76d8536f1d294132d6129a]{
 -- Page 48, Offset 19767.
 -- 青子さんが使い魔を造ったらどうなるッスか？
-　que se passerait-il si Mam'zelle Aoko créait un familier ?
+    que se passerait-il si Mam'zelle Aoko créait un familier ?
 
 }
 [sha:7ac996881947072837578eac98244594d02675c3]{
 -- Page 48, Offset 19768.
 -- やっぱり、起動・即・自爆？
-　Une auto-destruction instantanée à l'activation ?
+    Une auto-destruction instantanée à l'activation ?
 
 }
 [sha:e929fb620a6b7197022e6668e9f7ed4d22b4438f]{
 -- Page 49, Offset 19769.
 -- あり得ない仮定ね。
-　Cette hypothèse n'a pas lieu d'être.
+  Cette hypothèse n'a pas lieu d'être.
 
 }
 [sha:e0be544e32a3db200b5ff7850bdf955cad84badf]{
 -- Page 49, Offset 19770.
 -- 青子には使い魔を造るだけの技量はないもの。
-　Aoko n'a pas les compétences nécessaires pour créer un familier.
+  Aoko n'a pas les compétences nécessaires pour créer un familier.
 
 }
 [sha:0e1544554906947ff96194f627c9695ee4dc97ef]{
 -- Page 50, Offset 19771.
 -- そもそも、彼女は壊す事しかできないのよ？
-　En premier lieu, elle ne sait que détruire !
+    En premier lieu, elle ne sait que détruire !
 
 }
 [sha:7434c9e3c8af64cd05543962ec09c4ba2bc33542]{
 -- Page 50, Offset 19772.
 -- その唯一の特技を使い魔に任せてしまったら、
-　Si elle donnait le seul don qu'elle possède à un familier,
+    Si elle donnait le seul don qu'elle possède à un familier,
 
 }
 [sha:86997dbb08f5b16e980c50bd04c3811b6092a920]{
 -- Page 50, Offset 19773.
 -- 存在意義も跡形もなく壊れてしまうわ。
-　sa raison d'être se briserait en mille morceaux.
+    sa raison d'être se briserait en mille morceaux.
 
 }
 [sha:ec5c8f7124b9943724187adc1834178fe9730565]{
 -- Page 51, Offset 19774.
 -- ハハハ。
-　　Ha ha ha.
+Ha ha ha.
 
 }
 [sha:ab0e722d1427717af3c93d5ad74fa983a5f6b1d4]{
 -- Page 51, Offset 19775.
 -- さりげにひどい発言ッス。
-　　D'horribles paroles prononcées avec nonchalance.
+D'horribles paroles prononcées avec nonchalance.
 
 }
 [sha:8abd619b8c03702ac3dab7314f7b5d816443d14a]{
 -- Page 52, Offset 19776.
 -- 戦闘において、青子は使い魔に任せる必要がない。
-En ce qui concerne les combats, Aoko n'a pas besoin de laisser faire un familier.
+  En ce qui concerne les combats, Aoko n'a pas besoin de laisser faire un familier.
 
 }
 [sha:64dabc170db26de7476b21f10d7bb8d881d92e69]{
 -- Page 52, Offset 19777.
 -- 逆に、私は戦う事はできないから―――
-Et inversement, je ne peux pas me battre―――
+  Et inversement, je ne peux pas me battre―――
 
 }
 [sha:25c7226b52469431f8039cb9daac3d5237d3df51]{
 -- Page 53, Offset 19778.
 -- なるほどー。
-　　Je vois. Mam'zelle Aoko elle-même est forte.
+      Je vois. Mam'zelle Aoko elle-même est forte.
 
 }
 [sha:57edd734e677c914f1db03cbb1abb8aa7ec75ee6]{
 -- Page 53, Offset 19779.
 -- 青子さんは青子さん自身が強い。
-　　Et pour vous, ce sont ceux qui vous entourent
+      Et pour vous, ce sont ceux qui vous entourent
 
 }
 [sha:1c2447e0cab0f3ae503b83e5020a58b780495b23]{
 -- Page 53, Offset 19780.
 -- アリスさんはアリスさんの周りが強い。
-　　qui sont forts.
+      qui sont forts.
 
 }
 [sha:cc3834e93fceecd95c6c4789f03e3fe3de9b5e63]{
 -- Page 54, Offset 19781.
 -- チェス……いえ、将棋で喩えるなら、
-　S'il fallait faire une comparaison avec les échecs......
+  S'il fallait faire une comparaison avec les échecs......
 
 }
 [sha:0ec9dfe5ec7802c48b133d2539038c7c9355906f]{
 -- Page 54, Offset 19782.
 -- 青子は王将（角・飛車の能力アリ）だけの陣営。
-　non, avec le shogi, Aoko n'est que le camp du roi (avec les capacités du fou et de la tour).
+  non, avec le shogi, Aoko n'est que le camp du roi (avec les capacités du fou et de la tour).
 
 }
 [sha:1e1ef8c6192bfc8c2aa1a882c5842eef12824abf]{
 -- Page 55, Offset 19783.
 -- わたしは陣営こそ強力だけど、王将自体が「歩」の^能力しかない、というイメージね。
-Quant à moi, mon camp est fort, mais le roi lui-même n'a que la capacité de “marcher”.
+ Quant à moi, mon camp est fort, mais le roi lui-même n'a que la capacité de “marcher”.
 
 }
 [sha:8916afb11dab162d08389c3bd338761b53564c7b]{
 -- Page 56, Offset 19784.
 -- そーッス、アリスさんは
-　Oui, Mam'zelle Alice est un personnage lent,
+ Oui, Mam'zelle Alice est un personnage lent,
 
 }
 [sha:5e8e4d8abfcb93d1069eb82dc163cbb5692581ef]{
 -- Page 56, Offset 19785.
 -- 体力も運動神経もない運痴キャラだったッス！
-　n'ayant ni force physique ni réflexe !
+ n'ayant ni force physique ni réflexe !
 
 }
 [sha:ffb023aa384c4109a3b398e647a2c87a32774c02]{
 -- Page 57, Offset 19786.
 -- 泳ぎは犬かきしかできない、
-　　À la nage, elle ne peut que patauger comme un chien,
+    À la nage, elle ne peut que patauger comme un chien,
 
 }
 [sha:2539c89b4898e0bbbabffbc4c748e9d1eb50a952]{
 -- Page 57, Offset 19787.
 -- 鉄棒もできなければ自転車にも乗れない、
-　　elle ne peut pas faire de la barre fixe, et encore moins monter sur une bicyclette.
+    elle ne peut pas faire de la barre fixe, et encore moins monter sur une bicyclette.
 
 }
 [sha:f7f0f5830fba6d1557b96c96026f47bbd2ffbda1]{
 -- Page 58, Offset 19788.
 -- 体育の時間は校庭のはじっこで座っているだけのカ^ンタンなお仕事。
-Aux heures de sport, sa tâche est facile : rester assise à la lisière du campus.
+      Aux heures de sport, sa tâche est facile : rester assise à la lisière du campus.
 
 }
 [sha:56b195ff78c3b555c2d49c98a7eb6df4c0ba2dbd]{
 -- Page 59, Offset 19789. Mods: @k, @e.
 -- だがそれがいい！
-　Mais c'est pas grave ! J'prends des photos
+    Mais c'est pas grave ! J'prends des photos
 
 }
 [sha:9de8150e50340a44bf1496cdd5f31bb330c08935]{
 -- Page 59, Offset 19790. Mods: @k, @e.
 -- ジブン、盗撮してるから知ってるッスよー！
-　de voyeur, alors j'le sais !
+    de voyeur, alors j'le sais !
 
 }
 [sha:db9df18d03cc43cd282764b1fea51c7815fede56]{
 -- Page 59, Offset 19791. Mods: @k, @e.
 -- マイ天使よ、ただ美しく
-　My Angel ! Vous êtes juste magnifi...
+    My Angel ! Vous êtes juste magnifi...
 
 }
 [sha:0c165c22a30411c76d5a1d1015a7f5902d797616]{
@@ -757,12 +757,12 @@ Hein ?!
 [sha:ab76112ea1090002c25d1105bb0304d9eb18a136]{
 -- Page 60, Offset 19793.
 -- ……失礼ね。
-　　...... Quelle insolence !
+            ...... Quelle insolence !
 
 }
 [sha:da0743a9b9c2a5f69ef487175a7e6a4a11950fd0]{
 -- Page 60, Offset 19794.
 -- わたしだって、走るだけなら少しはこなせるわ。
-　　Même moi, il m'arrive parfois de courir un peu.
+            Même moi, il m'arrive parfois de courir un peu.
 
 }

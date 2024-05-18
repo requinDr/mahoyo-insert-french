@@ -1,19 +1,19 @@
 [sha:d39a5d545d58f7289db8d8d96ec820511e42efd4]{
 -- Page 0, Offset 14318.
 -- 夜の<帳|とばり>はとっくに落ちている。
-　Le voile de la nuit était tombé depuis longtemps.
+  Le voile de la nuit était tombé depuis longtemps.
 
 }
 [sha:1e41d46096b0e0a3c4b4211c5f3edd4520f2b368]{
 -- Page 1, Offset 14319.
 -- 橙子が去ってからまだ一時間も経っていないのに、草十郎には彼女の顔がひどく遠いものに感じられた。
-　Il ne s'était pas passé une heure depuis le départ de Tōko, et pourtant, son visage semblait déjà être un souvenir extrêmement lointain pour Sōjūrō.
+  Il ne s'était pas passé une heure depuis le départ de Tōko, et pourtant, son visage semblait déjà être un souvenir extrêmement lointain pour Sōjūrō.
 
 }
 [sha:a25af2eeb3062150fc99fd21ac805ed5c70bfb11]{
 -- Page 1, Offset 14320.
 -- 青子と有珠にしてみれば、現在の蒼崎橙子の姿は幻よりさらに遠いに違いない。
-　Alors, pour Aoko et Alice, Aozaki Tōko devait être encore moins tangible qu'un fantôme.
+  Alors, pour Aoko et Alice, Aozaki Tōko devait être encore moins tangible qu'un fantôme.
 
 }
 [sha:09e340e49f0aa699a48b49af47f410c61e95ded1]{
@@ -25,19 +25,19 @@
 [sha:c7e9d7dd03fb53487e586bb88d1884396b2f5b44]{
 -- Page 2, Offset 14322.
 -- ……ま、姉貴もアンタと会って、私たちとはまったくの無関係だって分かっただろうから、そっちには手を出してこないでしょうけど」
-　...... Enfin, quand elle t'a rencontré, elle a dû comprendre que tu étais étranger à tout ça, alors elle ne devrait pas s'en prendre à toi, mais sait-on jamais.」
+  ...... Enfin, quand elle t'a rencontré, elle a dû comprendre que tu étais étranger à tout ça, alors elle ne devrait pas s'en prendre à toi, mais sait-on jamais.」
 
 }
 [sha:048636463e84fa37b1f3627166a374cff2639dd7]{
 -- Page 3, Offset 14323.
 -- だから安全、気にするな、と青子は胸を張る。
-　“Bref, tu es en sécurité, ne t'inquiète pas”, fit Aoko en bombant le torse.
+  “Bref, tu es en sécurité, ne t'inquiète pas”, fit Aoko en bombant le torse.
 
 }
 [sha:220dd8bec7592dbaede694aa79328dadc0314df0]{
 -- Page 3, Offset 14324.
 -- おかしな話だが、たとえ敵であっても橙子の合理性を青子は信頼しきっていた。
-　Étrangement, Aoko avait totalement confiance en la rationalité de Tōko en dépit du fait qu'elle était son ennemie.
+  Étrangement, Aoko avait totalement confiance en la rationalité de Tōko en dépit du fait qu'elle était son ennemie.
 
 }
 [sha:95b0f6cb931b3c0f613687829bf22300b0b348bc]{
@@ -67,7 +67,7 @@
 [sha:ff29c6d5f6f2274a37365ecd155eac7d7500cf88]{
 -- Page 5, Offset 14329.
 -- あ、要らない物っていえば、橙子さんが蒼崎のティーカップを貰うって。セーブルのやつ」
-　Ah, en parlant de choses inutiles, Tōko a dit qu'elle empruntait ta tasse. Celle de Sèvres.」
+  Ah, en parlant de choses inutiles, Tōko a dit qu'elle empruntait ta tasse. Celle de Sèvres.」
 
 }
 [sha:ca07c7674c629fb4bb9973a3b2c9abf9c66dd71d]{
@@ -79,7 +79,7 @@
 [sha:cc1b6771686819580ad76f62f2007f4373fde5ce]{
 -- Page 6, Offset 14331.
 -- アンタ、それを黙って見てたっていうの!?」
-　Tu l'as regardée sans rien faire ?!」
+  Tu l'as regardée sans rien faire ?!」
 
 }
 [sha:03cde56f7a75d80ab7cb66d7501727ef3e70069f]{
@@ -91,19 +91,19 @@
 [sha:5d50f6100bf71558186cff72ffa3a9125d8e91fe]{
 -- Page 7, Offset 14333.
 -- 怒る青子に、草十郎はなるほど、と納得する。
-　“Je vois”, fit-il, la colère d'Aoko ayant confirmé ses doutes.
+  “Je vois”, fit-il, la colère d'Aoko ayant confirmé ses doutes.
 
 }
 [sha:f4a45784403b04e4e5fcdfc57ee095d9a6cdbc7c]{
 -- Page 7, Offset 14334.
 -- さっきまでの深刻な顔つきと口調はどこへいったのか。
-　Son ton et son expression graves avaient disparu sans laisser de traces.
+  Son ton et son expression graves avaient disparu sans laisser de traces.
 
 }
 [sha:b89ef9d5a03b3768987770355db5643470ec187a]{
 -- Page 7, Offset 14335.
 -- 今ここにいやがるのは、いつものぼんやりとした草十郎だった。
-　Celui qui se tenait là n'était autre que ce vieil étourdi de Sōjūrō.
+  Celui qui se tenait là n'était autre que ce vieil étourdi de Sōjūrō.
 
 }
 [sha:d9e9ee065f7f18e7cf3196e0920d521c2eaa0a85]{
@@ -115,13 +115,13 @@
 [sha:dd39e904e69ac4f3c6a632804ddbe689987bd1da]{
 -- Page 8, Offset 14337.
 -- ぬぬぬ、と拳を震わす青子だが、草十郎の<暢気顔|のんきがお>を殴りつけるワケにもいかない。
-　Le poing d'Aoko tremblait, mais elle ne pouvait cogner le visage nonchalant de Sōjūrō.
+  Le poing d'Aoko tremblait, mais elle ne pouvait cogner le visage nonchalant de Sōjūrō.
 
 }
 [sha:c245c7612507653db2ad41221c272a1b8b29f2b4]{
 -- Page 8, Offset 14338.
 -- もし草十郎が橙子を止めていたら大惨事だったろうし、なにより草十郎に、あの姉を止められた筈もないのである。
-　Un malheur lui serait sûrement arrivé s'il avait tenté d'arrêter Tōko, et de toute façon, il n'en aurait jamais été capable.
+  Un malheur lui serait sûrement arrivé s'il avait tenté d'arrêter Tōko, et de toute façon, il n'en aurait jamais été capable.
 
 }
 [sha:d5a5cdfe54400033f1baef5e3362f6e4da31345b]{
@@ -145,7 +145,7 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:cd95165ab713e1f960a01dd88c80b06c934a269f]{
 -- Page 9, Offset 14342.
 -- つい聞き返してしまう草十郎。
-　laissa échapper Sōjūrō.
+  laissa échapper Sōjūrō.
 
 }
 [sha:ff60822137bb1fadf6e64e0e808531c9ac44716e]{
@@ -157,13 +157,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:670bf9f3caf8865e445974de0f23e1a43465e621]{
 -- Page 10, Offset 14344.
 -- その言葉に草十郎は息を呑んだ。
-　Là-dessus, Sōjūrō retint son souffle.
+  Là-dessus, Sōjūrō retint son souffle.
 
 }
 [sha:12c42774aa30d556ad7e74797097e51b3c5c80ce]{
 -- Page 10, Offset 14345.
 -- なにかいま、不吉な意味が含まれていた気がする。
-　Il avait senti dans ces propos un sens funeste.
+  Il avait senti dans ces propos un sens funeste.
 
 }
 [sha:986292e8a0a57bf988d1085ad193a20c212a26a8]{
@@ -187,13 +187,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:2c0025707aa75b5e6e9bcfd186e5ee4289b0332f]{
 -- Page 12, Offset 14349.
 -- 青子の独白を聞いて、草十郎は橙子との会話を思い出す。
-　En entendant le monologue d'Aoko, Sōjūrō se remémora sa conversation avec Tōko.
+  En entendant le monologue d'Aoko, Sōjūrō se remémora sa conversation avec Tōko.
 
 }
 [sha:ff2b73024e39ff3633a2db9f9c083e2e729c73a9]{
 -- Page 12, Offset 14350.
 -- ……気のせいだといいのだけど、彼女はしきりに静希草十郎を、誰かさんの持ち物だと決め付けていたような……。
-　...... Il aurait aimé que ce soit son imagination, mais il avait comme l'impression qu'elle avait instamment pris Shizuki Sōjūrō pour la possession d'une certaine personne......
+  ...... Il aurait aimé que ce soit son imagination, mais il avait comme l'impression qu'elle avait instamment pris Shizuki Sōjūrō pour la possession d'une certaine personne......
 
 }
 [sha:f7d5231c75b38926b6049f6d04d374301308cc4b]{
@@ -205,13 +205,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:5c56e66cb3de45b8c8a0a95a92e43392ce80e446]{
 -- Page 13, Offset 14352.
 -- 手強い難問に出会った刑事よろしく、顔をしかめて呟く草十郎。
-　murmura Sōjūrō en fronçant les sourcils tel un inspecteur face à une enquête difficile.
+  murmura Sōjūrō en fronçant les sourcils tel un inspecteur face à une enquête difficile.
 
 }
 [sha:800cd1a16af14d026e8923640489b288ee109b76]{
 -- Page 13, Offset 14353.
 -- 解決策がまったく見つからないあたりまで、ホントよく似ている。
-　Elles se ressemblaient vraiment : dans les deux cas, on ne trouvait aucune échappatoire.
+  Elles se ressemblaient vraiment : dans les deux cas, on ne trouvait aucune échappatoire.
 
 }
 [sha:a0efecfa6e9778fb44480f068aa2164025fe8c30]{
@@ -223,13 +223,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:a2b8eabcd9f00ef861290ff0c057271ba9d7052e]{
 -- Page 14, Offset 14355.
 -- 草十郎の気持ちも知らず、青子は気楽に答えて紅茶を飲んだ。
-　Ne pouvant connaître les pensées de Sōjūrō, Aoko répondit avec insouciance et but son thé.
+  Ne pouvant connaître les pensées de Sōjūrō, Aoko répondit avec insouciance et but son thé.
 
 }
 [sha:c59219cabc0c55181077c8a3a06282e7ecf95e81]{
 -- Page 14, Offset 14356.
 -- 肩をすくめる青子を半眼で見つめながら、草十郎は居間の時計に目をやった。気分がどんなに<陰欝|いんうつ>でも、時間だけはきっちりと回っている。
-　Les yeux mi-clos, Sōjūrō observa Aoko qui haussait les épaules, puis jeta un œil à l'horloge du salon. Il avait beau être d'une humeur sombre, le temps, lui, avançait sans faute.
+  Les yeux mi-clos, Sōjūrō observa Aoko qui haussait les épaules, puis jeta un œil à l'horloge du salon. Il avait beau être d'une humeur sombre, le temps, lui, avançait sans faute.
 
 }
 [sha:952204c9a5c75d5067f7d9462b9f524f791226ce]{
@@ -241,13 +241,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:fb4630493c0f9ba9320a9a0a7d4f98c342c51e82]{
 -- Page 15, Offset 14358.
 -- ぽつりと呟く本日最大の被害者。
-　murmura la plus grande victime du jour.
+  murmura la plus grande victime du jour.
 
 }
 [sha:bc1eb8f9e96c7a6076dcd6af65aba878c563e6c6]{
 -- Page 15, Offset 14359.
 -- そこに、青子はからっとした趣で付け足した。
-　Aoko rajouta alors, d'un ton soudainement plein de charme :
+  Aoko rajouta alors, d'un ton soudainement plein de charme :
 
 }
 [sha:a53cdb6a263f9ed3dce0c69ecf09ca693d8382a2]{
@@ -259,13 +259,13 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:37cd3a9ec7b7357f056b64b58cfaf5fd9905b00d]{
 -- Page 16, Offset 14361.
 -- 青子の意見に、有珠も賛同するように黙りこんでいる。
-　Alice se taisait comme pour manifester son adhésion au commentaire d'Aoko.
+  Alice se taisait comme pour manifester son adhésion au commentaire d'Aoko.
 
 }
 [sha:8a1eeeeff789ed7fb5af3ec731758fea3a35d80a]{
 -- Page 16, Offset 14362.
 -- ゆったりくつろぐふたりは、夕飯が用意されるまでソファーから動く意志が、見事なまでに皆無だった。
-　Les deux filles, se prélassant sur le sofa, ne montraient absolument aucune intention de bouger jusqu'à ce que le dîner soit prêt.
+  Les deux filles, se prélassant sur le sofa, ne montraient absolument aucune intention de bouger jusqu'à ce que le dîner soit prêt.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -277,31 +277,31 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:3141952e63e45f0b88cf33138e72eb8bf279e5a0]{
 -- Page 17, Offset 14364.
 -- たしかに夜のアルバイトはない。
-　Il n'avait, il est vrai, aucun travail dans la soirée.
+  Il n'avait, il est vrai, aucun travail dans la soirée.
 
 }
 [sha:9d09f29f1d1147c6e372dd7a9b63cdbceaafac87]{
 -- Page 17, Offset 14365.
 -- けれど深夜となると話は別だ。
-　Mais plus tard dans la nuit, c'était autre chose.
+  Mais plus tard dans la nuit, c'était autre chose.
 
 }
 [sha:8180d17d276859db1b25cdd5d2e26c546c5c4e02]{
 -- Page 17, Offset 14366.
 -- これから本当にアルバイトが待っている草十郎にとって、ふたりの期待は苛酷な命令以外の何物でもない。
-　Pour Sōjūrō qu'un travail attendait par la suite, les attentes de ces jeunes filles n'étaient rien d'autre que des ordres sévères.
+  Pour Sōjūrō qu'un travail attendait par la suite, les attentes de ces jeunes filles n'étaient rien d'autre que des ordres sévères.
 
 }
 [sha:45a2156c8c7aeda3c18ff60b65be1678429dc5a6]{
 -- Page 18, Offset 14367.
 -- そもそも、今から調理したら食べるのは一時間後になってしまう。
-　Tout d'abord, même en commençant à cuisiner sur-le-champ, il n'aurait pas fini avant une heure.
+  Tout d'abord, même en commençant à cuisiner sur-le-champ, il n'aurait pas fini avant une heure.
 
 }
 [sha:5d3b462c5731c6284362daba9699e341b8db3b01]{
 -- Page 18, Offset 14368.
 -- そんなコトを何やら疲れきったふたりが容認するはずもなく、となると結局、残された手段は出前のみ。
-　Visiblement exténuées, ces jeunes filles ne le toléreraient jamais. Sa seule alternative était donc la livraison à domicile.
+  Visiblement exténuées, ces jeunes filles ne le toléreraient jamais. Sa seule alternative était donc la livraison à domicile.
 
 }
 [sha:0a713d3ea894807abbb5142c5eccd8b17eae0cad]{
@@ -313,18 +313,18 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:8eed17a26b75d2c01752c8be8b389f8ae205265d]{
 -- Page 19, Offset 14370.
 -- グチをこぼしつつ、草十郎はお財布の中身を確かめた。
-　Sōjūrō vérifia le contenu de son portefeuille tout en grommelant.
+  Sōjūrō vérifia le contenu de son portefeuille tout en grommelant.
 
 }
 [sha:08016d8b3e5214ec6e67136245b60bdb19b1160b]{
 -- Page 19, Offset 14371.
 -- 慎ましげに残っている三枚目の諭吉は、別れを惜しむようにしかめっ面をしている。
-　Le portrait de Yukichi sur son troisième et dernier modeste billet de dix mille yens faisait la grimace comme s'il regrettait leur séparation.
+  Le portrait de Yukichi sur son troisième et dernier modeste billet de dix mille yens faisait la grimace comme s'il regrettait leur séparation.
 
 }
 [sha:ed727207586a29173612657a23179ff446a52d27]{
 -- Page 19, Offset 14372.
 -- それが、草十郎にはちょこっとだけ痛かった。
-　Pour Sōjūrō, c'était un peu dur à digérer.
+  Pour Sōjūrō, c'était un peu dur à digérer.
 
 }

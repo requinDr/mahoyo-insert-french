@@ -1,24 +1,24 @@
 [sha:73183441328b66955f1e3bd679dc3f8a8bcaf1a1]{
 -- Page 75, Offset 21474.
 -- ……明らかに、不穏なものを感じる。
-　...... Je percevais une présence clairement menaçante.
+  ...... Je percevais une présence clairement menaçante.
 
 }
 [sha:f1f940aa5c7182951cd8e9ccbea6a79db049506d]{
 -- Page 75, Offset 21475.
 -- 幽霊屋敷の異名を思い出し、わたしは無視する事に決めた。屋敷の周りを探索する時は、誰かと一緒の時がいいだろう。
-　Le surnom de manoir hanté me revenant à l'esprit, je décidai d'ignorer cette sensation. Je ferais mieux de revenir accompagnée si je devais fureter aux alentours de la demeure.
+  Le surnom de manoir hanté me revenant à l'esprit, je décidai d'ignorer cette sensation. Je ferais mieux de revenir accompagnée si je devais fureter aux alentours de la demeure.
 
 }
 [sha:51c18af71fad9a023f900bb9f8fc623bfaa0108b]{
 -- Page 75, Offset 21476.
 -- ロビーに戻ると、右手の東館―――居間の方から笑い声が聞こえてきた。
-　De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
+  De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
 
 }
 [sha:9ffd9f7c1f74d551f618195907f62c8177ed6cfb]{
 -- Page 75, Offset 21477.
 -- わたしは荷物を抱え直して、居間に足を向けた。
-　Je réajustai mon sac sur l'épaule et partis vers le salon.
+  Je réajustai mon sac sur l'épaule et partis vers le salon.
 
 }

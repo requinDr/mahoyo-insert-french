@@ -1,37 +1,37 @@
 [sha:9456e15047b715783df6132d2f54ddda5e5bdccc]{
 -- Page 0, Offset 13133.
 -- 電話ボックスの一件から買い物を済ませ、正午前。
-　Bien après ce coup de téléphone, peu de temps avant midi, ses courses terminées,
+  Bien après ce coup de téléphone, peu de temps avant midi, ses courses terminées,
 
 }
 [sha:36e7d1685824b69e2890610e4266ea5df7d5b5b7]{
 -- Page 0, Offset 13134.
 -- 草十郎が洋館に戻ると、青子と有珠は暗い面持ちで黙りこんでいた。
-　Sōjūrō rentra au manoir et y trouva Aoko et Alice, silencieuses et la mine sombre.
+  Sōjūrō rentra au manoir et y trouva Aoko et Alice, silencieuses et la mine sombre.
 
 }
 [sha:e07479ac25ad31711f988edd9693bbf59f0a1a3e]{
 -- Page 1, Offset 13135.
 -- 事情を知らない第三者が見れば喧嘩の後にしか見えない。
-　Du point de vue d'une tierce personne ignorant la situation, la scène suggérait qu'une dispute venait d'avoir lieu.
+  Du point de vue d'une tierce personne ignorant la situation, la scène suggérait qu'une dispute venait d'avoir lieu.
 
 }
 [sha:b062cbbed0758628893a19c74c8d8a06acda9098]{
 -- Page 1, Offset 13136.
 -- それは<吹雪|ふぶ>くような、チクチク痛いやらヒリヒリ寒いやらな、沈黙による暴力である。
-　Le mutisme glacial avait la violence d'une tempête de neige, tantôt piquant, tantôt cuisant.
+  Le mutisme glacial avait la violence d'une tempête de neige, tantôt piquant, tantôt cuisant.
 
 }
 [sha:cf01d4ae485e0ce2f9cfde8f580157ccea21770d]{
 -- Page 1, Offset 13137.
 -- 居間は巨大な冷蔵庫と化している。
-　Le salon s'était métamorphosé en un énorme réfrigérateur.
+  Le salon s'était métamorphosé en un énorme réfrigérateur.
 
 }
 [sha:f63faa426fd44fcdcb997f54e3c918b3e2c328f2]{
 -- Page 1, Offset 13138.
 -- ちょっと天井を見上げれば、<氷柱|つらら>が垂れていても不思議ではないぐらいだ。
-　Il n'y aurait rien d'étonnant à apercevoir des stalactites suspendues au plafond.
+  Il n'y aurait rien d'étonnant à apercevoir des stalactites suspendues au plafond.
 
 }
 [sha:0d8f42758e18e830d6497278d0ee884a3267d0b8]{
@@ -43,37 +43,37 @@
 [sha:b49bc79724be3e843761cd92c3b77a6ed4feae45]{
 -- Page 2, Offset 13140. Mods: @n.
 -- アライグマとペンギンの仲違いに心痛める飼育員……
-　Sōjūrō observait les deux filles d'un air chagriné......
+  Sōjūrō observait les deux filles d'un air chagriné......
 
 }
 [sha:fcc073b62bf5837d669fc3adc1075099b53a7417]{
 -- Page 2, Offset 13141. Glued. Mods: @n.
 -- つい先日、日雇いで動物園の清掃をしてきた草十郎である……
-comme un éleveur face à un raton laveur et un manchot qui se seraient fâchés......
+ comme un éleveur face à un raton laveur et un manchot qui se seraient fâchés......
 
 }
 [sha:1850faf5381728f1fd16a1a82eea083d592a84a8]{
 -- Page 2, Offset 13142. Glued.
 -- のような顔つきで、草十郎は青子たちを流し見る。
-Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journalier peu de temps auparavant.
+ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journalier peu de temps auparavant.
 
 }
 [sha:e47bb355bdf7625432cd7f896e1e17d10ffb86c3]{
 -- Page 3, Offset 13143.
 -- 言うまでもなく、ふたりは喧嘩などしていない。
-　Bien évidemment, elles ne s'étaient pas disputées.
+  Bien évidemment, elles ne s'étaient pas disputées.
 
 }
 [sha:974272e0d3cbd991226275806c23f3c9e69e4c2c]{
 -- Page 3, Offset 13144.
 -- 食事以外では終始この調子なだけだ。
-　En dehors des repas, elles adoptaient en permanence cette attitude.
+  En dehors des repas, elles adoptaient en permanence cette attitude.
 
 }
 [sha:14701b8d182d1c3933d4c6cfe4966606459d6814]{
 -- Page 3, Offset 13145.
 -- <草十郎|じぶん>の知らないところでの問題――他所からやってきた魔術師との戦いは、日に日に厳しいものになっているらしい。
-　Sōjūrō ne se rendait manifestement pas compte que le combat qui les opposait au Mage extérieur s'intensifiait chaque jour.
+  Sōjūrō ne se rendait manifestement pas compte que le combat qui les opposait au Mage extérieur s'intensifiait chaque jour.
 
 }
 [sha:840f862b51887f48134beb96e4838941efe5ec46]{
@@ -85,13 +85,13 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:752195e682f47392bc18c7612fdf17ac94692668]{
 -- Page 4, Offset 13147.
 -- 瞑想っぽく口を閉ざしている青子に対して、有珠は古ぼけた本を両膝に置いて読む、いつものスタンスである。
-　Tandis qu'Aoko restait muette, l'air songeur, la posture d'Alice était tout à fait normale : elle lisait un vieux livre posé sur ses genoux.
+  Tandis qu'Aoko restait muette, l'air songeur, la posture d'Alice était tout à fait normale : elle lisait un vieux livre posé sur ses genoux.
 
 }
 [sha:5fc5cbf3a2eedf4a0ebe8bc27bc82b25c7455526]{
 -- Page 4, Offset 13148.
 -- 違うところといえば、その本が今までの物より遥かに重そうな物であるコトぐらい。
-　Si quelque chose devait paraître insolite, c'était évidemment la taille de l'ouvrage qui semblait bien plus lourd que d'ordinaire.
+  Si quelque chose devait paraître insolite, c'était évidemment la taille de l'ouvrage qui semblait bien plus lourd que d'ordinaire.
 
 }
 [sha:e2f7b6cb736f51218035c7d526b343ce894e14c7]{
@@ -103,7 +103,7 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:c5099a4908b664a1ce8104f903f44f5aa85ff025]{
 -- Page 5, Offset 13150.
 -- コートを脱ぎつつ青子たちに声をかける。
-　dit-il aux filles en retirant son manteau.
+  dit-il aux filles en retirant son manteau.
 
 }
 [sha:0f440e24dc79fb8f5ad8090be17ce0f4caa9a3f7]{
@@ -115,7 +115,7 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:981dafa7a321253555c2532e830629d2499278d8]{
 -- Page 5, Offset 13152.
 -- 今の誤用よ、草十郎」
-　Et ce n'est pas “Gaulois”, mais “gaules”, Sōjūrō.」
+  Et ce n'est pas “Gaulois”, mais “gaules”, Sōjūrō.」
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -127,13 +127,13 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:879572733f6031a128060e33388e7c1a63897085]{
 -- Page 6, Offset 13154.
 -- 青子の言わんとするところが分からず、草十郎は首をかしげる。
-　Sōjūrō resta coi, incapable de saisir ce que voulait dire Aoko.
+  Sōjūrō resta coi, incapable de saisir ce que voulait dire Aoko.
 
 }
 [sha:798f02028108c81d1a20df5d8cd24eb18d1ee2e1]{
 -- Page 6, Offset 13155.
 -- 考えすぎはよくないぞ、とリラックスさせるつもりが、逆に注意されてしまった。
-　Il avait voulu détendre l'atmosphère en rajoutant que trop réfléchir ne lui ferait aucun bien, mais cela avait eu l'effet contraire : elle avait fait l'effort de le corriger.
+  Il avait voulu détendre l'atmosphère en rajoutant que trop réfléchir ne lui ferait aucun bien, mais cela avait eu l'effet contraire : elle avait fait l'effort de le corriger.
 
 }
 [sha:a08ec19b9698d59b5e6aefd4c96243175a3e7740]{
@@ -145,19 +145,19 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:8cecd9eab4c4cbeac3447ae5ab3c0542ab481ca5]{
 -- Page 7, Offset 13157.
 -- 進展がないって意味合いなら、行き詰まってると言うべきね」
-　Et vu la situation, tu aurais plutôt dû demander s'il y avait du nouveau.」
+  Et vu la situation, tu aurais plutôt dû demander s'il y avait du nouveau.」
 
 }
 [sha:efe406befd83fdcde5803a8368fb333361554881]{
 -- Page 7, Offset 13158.
 -- 草十郎を叱る余裕もないのか、青子は邪険に手を振って“余所にいってて”とジェスチャーする。
-　Tellement absorbée qu'elle n'avait pas le temps de rouspéter, elle l'invita à aller voir ailleurs d'un geste froid de la main.
+  Tellement absorbée qu'elle n'avait pas le temps de rouspéter, elle l'invita à aller voir ailleurs d'un geste froid de la main.
 
 }
 [sha:86283028f0474c9554ca3eab7545013541525257]{
 -- Page 7, Offset 13159.
 -- 無論、
-　Mais elle oubliait un détail :
+  Mais elle oubliait un détail :
 
 }
 [sha:cd451a280b675128eee4475faf38c5b96ef666c1]{
@@ -169,13 +169,13 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:315add98dadaf4befef62bf8f0289d475bbf4012]{
 -- Page 8, Offset 13161.
 -- やあ、あれから進展はあったかい？」
-　Alors, il y a eu du nouveau ?」
+  Alors, il y a eu du nouveau ?」
 
 }
 [sha:70b0e4c46e3f5e1e8c3fab8d93c0d1f22908e972]{
 -- Page 8, Offset 13162.
 -- それぐらいでめげる草十郎ではないのだった。
-　Sōjūrō ne se décourageait pas pour si peu.
+  Sōjūrō ne se décourageait pas pour si peu.
 
 }
 [sha:434192f6bb5d020c1872319f351d165887f4d58c]{
@@ -187,19 +187,19 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:3ea90ede5ebc818e7971934c4652e094739ef7cf]{
 -- Page 9, Offset 13164.
 -- <魔術|こっち>の事情に関しては不可侵だって、言わなかった？」
-　Il me semblait t'avoir déjà dit que tu n'avais pas le droit d'interférer dans nos affaires, non ?」
+  Il me semblait t'avoir déjà dit que tu n'avais pas le droit d'interférer dans nos affaires, non ?」
 
 }
 [sha:1400db6d724e651f22ddcad4706363f0abefb668]{
 -- Page 9, Offset 13165.
 -- 静かではあるがトゲのある返答。
-　Ses paroles étaient stoïques, mais également acerbes.
+  Ses paroles étaient stoïques, mais également acerbes.
 
 }
 [sha:8d0f3923cba4e194b8774aaf860fd9ec3841869d]{
 -- Page 9, Offset 13166.
 -- ご機嫌斜めなのはいつものコトだが、今日は六割増しのようだ。
-　Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60 % plus énervée que d'habitude.
+  Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60 % plus énervée que d'habitude.
 
 }
 [sha:977995d4a0b5af1da3d2c905a81e3133a425988e]{
@@ -211,7 +211,7 @@ Pour l'anecdote, il avait pris part au nettoyage d'un zoo pour un travail journa
 [sha:bb5dafc2599b7d303d2d0da0f7462049366165f3]{
 -- Page 10, Offset 13168.
 -- そんな青子の不機嫌さも気にせず、草十郎は食い下がった。
-　Sōjūrō ne prêta pas attention à sa mauvaise humeur et poursuivit.
+  Sōjūrō ne prêta pas attention à sa mauvaise humeur et poursuivit.
 
 }
 [sha:0130f4c948e16e31b1beebe79e688dbc9e5b3695]{
@@ -223,7 +223,7 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:f599786bbdfc7bcd1c69903b246d9c5ac0686360]{
 -- Page 10, Offset 13170.
 -- その強引さに、さすがの青子もわずかに怯む。
-　Même Aoko fléchit légèrement face à son obstination.
+  Même Aoko fléchit légèrement face à son obstination.
 
 }
 [sha:a9c2beba0b90415343fd03c6b2b37d483d43324d]{
@@ -235,7 +235,7 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:5681fccfad28b9e0ed130fa5345f150bb3f187bb]{
 -- Page 11, Offset 13172.
 -- 別に、と草十郎は首をふる。
-　“Non”, fit Sōjūrō en secouant la tête.
+  “Non”, fit Sōjūrō en secouant la tête.
 
 }
 [sha:5b974ac09ddc6d368878431721489c1f7da2bcdc]{
@@ -247,13 +247,13 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:076f04f7ff4916b3f4f9729cb0c59bd8867fb1ea]{
 -- Page 11, Offset 13174.
 -- 言って、ハンガーにかけたコートのポケットをあさる。
-　Il fouilla alors dans la poche de son manteau suspendu au portemanteau.
+  Il fouilla alors dans la poche de son manteau suspendu au portemanteau.
 
 }
 [sha:c17a8bd6463fca35f8bde1080c04882a37315236]{
 -- Page 11, Offset 13175.
 -- 今日にかぎって積極的な草十郎の様子を、青子は訝しげに見据え、有珠は本を読みながら聞き耳をたてている。
-　D'un œil soupçonneux, Aoko fixa Sōjūrō, particulièrement entreprenant aujourd'hui, tandis qu'Alice dressait l'oreille tout en lisant son livre.
+  D'un œil soupçonneux, Aoko fixa Sōjūrō, particulièrement entreprenant aujourd'hui, tandis qu'Alice dressait l'oreille tout en lisant son livre.
 
 }
 [sha:a36d731759b55bd0975b3f32140255172fe32e35]{
@@ -265,19 +265,19 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:e53030b0ec56ac79a8b848b655ed6de35ef1ca41]{
 -- Page 12, Offset 13177.
 -- お金も入った事だし、外に遊びにいこう」
-　Ce serait bien de profiter de cet argent pour sortir s'amuser.」
+  Ce serait bien de profiter de cet argent pour sortir s'amuser.」
 
 }
 [sha:2989001aeb23dfb5710d4cc68192cd26fb4e61c7]{
 -- Page 12, Offset 13178.
 -- コートから財布を取り出し、心温まる笑顔で言う。
-　dit-il en sortant son portefeuille du manteau, un sourire touchant aux lèvres.
+  dit-il en sortant son portefeuille du manteau, un sourire touchant aux lèvres.
 
 }
 [sha:ee4585f0c6b4ad1a95a6233082b675a8d214c406]{
 -- Page 12, Offset 13179.
 -- 一方、ふたりは複雑な顔である。
-　Quant aux deux filles, elles affichaient un air confus.
+  Quant aux deux filles, elles affichaient un air confus.
 
 }
 [sha:c3381f3aa02efd55c0dae97a8a03e6c1c939e19b]{
@@ -289,31 +289,31 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:b021fb6fcb8446db9635a7357c67cd3250a71016]{
 -- Page 13, Offset 13181.
 -- 何か文句を言ってやりたかったけど、それと同じぐらい青子は草十郎に同情した。
-　Aoko avait envie de l'admonester, mais elle éprouvait également de la compassion.
+  Aoko avait envie de l'admonester, mais elle éprouvait également de la compassion.
 
 }
 [sha:15446b547bba24b8f62074c2b5dfa201c1ae31a9]{
 -- Page 13, Offset 13182.
 -- 彼はいまだ不仲な有珠と融和するため、なけなしの給料をはたいて行動に出たのだろう。
-　Il avait sûrement décidé de dépenser son maigre salaire afin de sympathiser avec Alice, toujours antipathique à son égard.
+  Il avait sûrement décidé de dépenser son maigre salaire afin de sympathiser avec Alice, toujours antipathique à son égard.
 
 }
 [sha:be6be7bb59bc96a1df5e269d9393dd041c9d06ab]{
 -- Page 14, Offset 13183.
 -- 考え自体は悪くない。
-　L'idée en elle-même n'était pas mauvaise.
+  L'idée en elle-même n'était pas mauvaise.
 
 }
 [sha:e341ba3836d8b3ae5de683c611fec49f02916614]{
 -- Page 14, Offset 13184.
 -- そんな事じゃ有珠の“とりあえず今は黙っていてあげるけど、何か目障りな事をしたら消す”感は消えないと分かっていても、その健気な努力に応援ぐらいはしてあげたい。
-　Elle savait que ça ne suffirait pas pour qu'Alice, qui le laissait tranquille tant qu'il ne faisait rien de fâcheux, change d'avis. Cela dit, elle aurait aimé au moins pouvoir soutenir cet effort courageux.
+  Elle savait que ça ne suffirait pas pour qu'Alice, qui le laissait tranquille tant qu'il ne faisait rien de fâcheux, change d'avis. Cela dit, elle aurait aimé au moins pouvoir soutenir cet effort courageux.
 
 }
 [sha:08906c2366049a7192821b9be8165e8df2ae3f04]{
 -- Page 14, Offset 13185.
 -- けれど、今は三人で街を歩いている気分じゃないし、状況でもないのだ。
-　Toutefois, elle n'était pas d'humeur à se promener en ville avec eux, et les circonstances ne le permettaient pas non plus.
+  Toutefois, elle n'était pas d'humeur à se promener en ville avec eux, et les circonstances ne le permettaient pas non plus.
 
 }
 [sha:bc3e7e81b3ba8bd295bd4827f67b44ed0c15ad0b]{
@@ -325,13 +325,13 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:72a223fa05570662bd44701c8cc61f18bf1f461e]{
 -- Page 15, Offset 13187.
 -- 何も言わないが有珠も同意見らしい。
-　Alice ne disait rien, mais elle semblait du même avis.
+  Alice ne disait rien, mais elle semblait du même avis.
 
 }
 [sha:4a371ddefe64069cf08803e721921aaad9fd1e32]{
 -- Page 15, Offset 13188.
 -- そんな重苦しい空気にもめげず、
-　Pourtant, Sōjūrō ignora cette atmosphère pesante.
+  Pourtant, Sōjūrō ignora cette atmosphère pesante.
 
 }
 [sha:e794dbc13ea61f783b62594dc51d383e6bcf7312]{
@@ -343,31 +343,31 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:befde3894625eb73b129b96de50f2a00da5fb026]{
 -- Page 16, Offset 13190.
 -- 徹夜漬けの時、気分転換は必要だって言ったのは蒼崎だろ。行き詰まったら回れ右して戻らないと、どこにも行けない」
-　La fois où on a bachoté toute la nuit, c'est bien toi qui m'as dit que se changer les idées était une nécessité. Si on se trouve dans une impasse, il faut faire demi-tour, sinon on n'arrive à rien.」
+  La fois où on a bachoté toute la nuit, c'est bien toi qui m'as dit que se changer les idées était une nécessité. Si on se trouve dans une impasse, il faut faire demi-tour, sinon on n'arrive à rien.」
 
 }
 [sha:7725d6ea0917910ddef492be7a3969117b178bac]{
 -- Page 17, Offset 13191.
 -- いつになく強気に言って、草十郎は財布から二枚のチケットを取り出し、とん、とテーブルに置いた。
-　Après s'être exprimé sur un ton inhabituellement péremptoire, Sōjūrō sortit deux tickets de son portefeuille et les posa sur la table.
+  Après s'être exprimé sur un ton inhabituellement péremptoire, Sōjūrō sortit deux tickets de son portefeuille et les posa sur la table.
 
 }
 [sha:3615876ef96aca739043b6a7f535c1a5cdccb10b]{
 -- Page 17, Offset 13192.
 -- それは映画の前売券……なんてありきたりなものではなく、有名な水族館のチケットだった。
-　Ce n'étaient pas de banales réservations de places de cinéma...... mais des tickets pour un célèbre aquarium.
+  Ce n'étaient pas de banales réservations de places de cinéma...... mais des tickets pour un célèbre aquarium.
 
 }
 [sha:5bf5c3412047cc1508cac8ef8dca0fadb22c4437]{
 -- Page 18, Offset 13193.
 -- 行き先は、快速と地下鉄を乗り継いだ先にある、三咲市より何倍も近代化の進んだ街。
-　La destination était une ville bien plus moderne que Misaki, que l'on pouvait rejoindre en prenant le métro puis le train express.
+  La destination était une ville bien plus moderne que Misaki, que l'on pouvait rejoindre en prenant le métro puis le train express.
 
 }
 [sha:14a34c4ba412b5cba3139798871dd14e43ab0b13]{
 -- Page 18, Offset 13194.
 -- 県内最大をうたうショッピングモールだけでなく、来年開場予定の、国際的な規模の演劇、講演を可能とする多目的ホールまで造られているという。
-　On disait qu'on y construisait le plus grand centre commercial de la préfecture, mais aussi une salle polyvalente où l'on pourrait assister à des conférences ou des pièces de théâtre en tournée internationale, et dont l'inauguration était prévue pour l'année suivante.
+  On disait qu'on y construisait le plus grand centre commercial de la préfecture, mais aussi une salle polyvalente où l'on pourrait assister à des conférences ou des pièces de théâtre en tournée internationale, et dont l'inauguration était prévue pour l'année suivante.
 
 }
 [sha:cf2597692251d2c04c6eb762e591844d03c5c8bb]{
@@ -379,13 +379,13 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:7324a3d5ae58c852b48f504ea9166a24b5eeaa8e]{
 -- Page 19, Offset 13196.
 -- さらに、見ようによっては黄金にも見えるお札を二枚ほどぽん、とテーブルにそえる。
-　De surcroît, il posa sur la table deux billets que d'aucuns auraient pu considérer comme un véritable trésor.
+  De surcroît, il posa sur la table deux billets que d'aucuns auraient pu considérer comme un véritable trésor.
 
 }
 [sha:fb9959568f0a9c67987a64985b77f68a81a4e7cb]{
 -- Page 19, Offset 13197.
 -- そういえば、夕食の食事当番は草十郎だった。
-　En y repensant, c'était au tour de Sōjūrō de faire le dîner.
+  En y repensant, c'était au tour de Sōjūrō de faire le dîner.
 
 }
 [sha:8f92d49838030884254ee2aa454356815b5f8f4a]{
@@ -397,13 +397,13 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:e74dd5514de69c70b6d1b75c3b49fa653514a276]{
 -- Page 20, Offset 13199.
 -- 草十郎は用件だけ告げ、財布をコートに戻す。
-　Une fois le message transmis, Sōjūrō fourra son portefeuille dans son manteau.
+  Une fois le message transmis, Sōjūrō fourra son portefeuille dans son manteau.
 
 }
 [sha:8cb7869f896463464df14f7b4da52661b49f8f8f]{
 -- Page 20, Offset 13200.
 -- それで、青子はようやく自分の間違いに気が付いた。
-　Ce n'est qu'à ce moment-là qu'Aoko réalisa son erreur.
+  Ce n'est qu'à ce moment-là qu'Aoko réalisa son erreur.
 
 }
 [sha:8c26606e084bab44b9696ab6a5c418033c8e4c5a]{
@@ -421,31 +421,31 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:ebf37381edcd96b8aa0a7e0ea372f2ae8dc14507]{
 -- Page 21, Offset 13203.
 -- さらっと答える草十郎に、そういうコト、と察する青子。
-　C'était donc ça, comprit enfin Aoko quand Sōjūrō lui répondit sans hésitation.
+  C'était donc ça, comprit enfin Aoko quand Sōjūrō lui répondit sans hésitation.
 
 }
 [sha:a1b15335f946b24f9b6412fa17b66b5027f56af4]{
 -- Page 22, Offset 13204.
 -- 草十郎は自分の為でなく、ここのところギスギスしている青子と有珠の仲をほぐそうとしているのだ。
-　Sōjūrō n'agissait pas pour lui-même, mais pour décrisper la relation entre Aoko et Alice, tendue ces derniers temps.
+  Sōjūrō n'agissait pas pour lui-même, mais pour décrisper la relation entre Aoko et Alice, tendue ces derniers temps.
 
 }
 [sha:ff366a3a407efe3085deea426e9c23bf7cce4ad9]{
 -- Page 22, Offset 13205.
 -- そんなのは彼の勝手な勘違いで、言ってしまえば迷惑なお節介に分類される。
-　Ce n'était qu'un malentendu injustifié de sa part, et franchement, elle trouvait qu'il se mêlait de ce qui ne le regardait pas.
+  Ce n'était qu'un malentendu injustifié de sa part, et franchement, elle trouvait qu'il se mêlait de ce qui ne le regardait pas.
 
 }
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 22, Offset 13206.
 -- ……しかし。
-　...... Cependant,
+  ...... Cependant,
 
 }
 [sha:c9ab94b0787a0d7b1f6ed242f99ed0ef20d85846]{
 -- Page 22, Offset 13207.
 -- そんな風に気を配ってくれた事と、なにより、そこまで気を遣わせてしまった自分の未熟さに反省する。
-　elle regrettait qu'il ait eu à se montrer attentionné, et plus que tout, que son manque d'expérience ait provoqué son inquiétude.
+  elle regrettait qu'il ait eu à se montrer attentionné, et plus que tout, que son manque d'expérience ait provoqué son inquiétude.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -457,19 +457,19 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:eb392ff363291bf0606165c953baba00e02ca18f]{
 -- Page 23, Offset 13209.
 -- 青子は対面に座る有珠を覗き見た。
-　Aoko jeta un coup d'œil à Alice assise en face d'elle.
+  Aoko jeta un coup d'œil à Alice assise en face d'elle.
 
 }
 [sha:5a369f7a3e25b5ccfd6206fd767b2fbdb71607ca]{
 -- Page 23, Offset 13210.
 -- すると、ちょうど有珠も青子に視線を投げかけているところだった。
-　Cette dernière tentait justement de croiser son regard.
+  Cette dernière tentait justement de croiser son regard.
 
 }
 [sha:b89e1a281e6f1dedef64e9acdf5f0449120cf8b3]{
 -- Page 23, Offset 13211.
 -- ふたりはしばし無言で見つめ合う。
-　Elles se dévisagèrent sans dire un mot pendant quelques instants.
+  Elles se dévisagèrent sans dire un mot pendant quelques instants.
 
 }
 [sha:f7201665b2cc75339634e80424f2cef1ca52bd60]{
@@ -481,7 +481,7 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:4f5e895165c6e61d4c4eed827bf2eb9d3decf3b8]{
 -- Page 24, Offset 13213.
 -- いまやれる事は全部やってあるし」
-　Et puis, nous avons fait tout ce qui était en notre pouvoir.」
+  Et puis, nous avons fait tout ce qui était en notre pouvoir.」
 
 }
 [sha:914140b1ac12bca464e66f590dec5a31b4747f5b]{
@@ -493,12 +493,12 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
 [sha:66aff6140a6252b16bfb6ca10007531b4fb98c4f]{
 -- Page 24, Offset 13215.
 -- 観念したように言って、青子はソファーから立ち上がる。
-　dit Aoko, résignée, en se levant du sofa.
+  dit Aoko, résignée, en se levant du sofa.
 
 }
 [sha:9ef5a4386edae034b1ba1e147b081a6684e8df23]{
 -- Page 24, Offset 13216.
 -- そんなふたりを、草十郎は満足げに眺めていた。
-　Sōjūrō observait le duo d'un air satisfait.
+  Sōjūrō observait le duo d'un air satisfait.
 
 }

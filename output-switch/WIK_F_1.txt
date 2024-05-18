@@ -1,6 +1,6 @@
 [sha:c3039a4622d22415cd698abc694928190b03e8ba]{
 -- Page 0, Offset 21985.
 -- これから陰惨な事件が始まるのだ、と思った。
-　Je songeai qu'une affaire lugubre venait de commencer.
+  Je songeai qu'une affaire lugubre venait de commencer.
 
 }

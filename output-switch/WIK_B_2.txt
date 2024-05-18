@@ -1,7 +1,7 @@
 [sha:610e484bab1e64b3d685e4518f2ca1c076ae1212]{
 -- Page 0, Offset 21407.
 -- その前に、客室の様子を見に行く事に決めた。
-　Je décidai d'aller voir ma chambre en tout premier lieu.
+  Je décidai d'aller voir ma chambre en tout premier lieu.
 
 }
 [sha:a187fc13be67cc46e91d24e05552a8e33f94c08c]{
@@ -19,49 +19,49 @@
 [sha:928b844e462f7af8209265f4cfd947d19e73b599]{
 -- Page 1, Offset 21410.
 -- 鍵は開いてるわ。部屋の机の上に鍵があるから、出てくる時はそれで施錠して」
-　Elle n'est pas fermée. La clef est posée sur le bureau de la chambre. Tu peux t'en servir pour fermer ta chambre si tu veux.」
+  Elle n'est pas fermée. La clef est posée sur le bureau de la chambre. Tu peux t'en servir pour fermer ta chambre si tu veux.」
 
 }
 [sha:404dc3ddd1a86e0cddd30421cefee5409bd06217]{
 -- Page 2, Offset 21411.
 -- 了解、と頷いて移動する。
-　“Compris”, répondis-je avant de m'éclipser.
+  “Compris”, répondis-je avant de m'éclipser.
 
 }
 [sha:38a1f4c228d76b943eea9bb576d4e9c0d3b3e437]{
 -- Page 2, Offset 21412.
 -- 階段から二階に上がる。
-　J'empruntai l'escalier menant au premier étage.
+  J'empruntai l'escalier menant au premier étage.
 
 }
 [sha:00ea94a462b19e822bcc39ae0a1ea82c0601a4f5]{
 -- Page 2, Offset 21413.
 -- わたしの部屋は手前から二つ目の部屋だ。
-　Ma chambre était derrière la deuxième porte.
+  Ma chambre était derrière la deuxième porte.
 
 }
 [sha:3ed8d8c3a689a42b8ae7eaf8070bd92328b83274]{
 -- Page 3, Offset 21414.
 -- 部屋には誰もいない。
-　Elle était déserte.
+  Elle était déserte.
 
 }
 [sha:2c25e68bc0e6dbee98804142b3a4dbb495374776]{
 -- Page 3, Offset 21415.
 -- わたしは無人である事を確かめて、荷物を置き、サイフをポケットにいれた。
-　Après avoir vérifié qu'il n'y avait bien personne, je posai mes affaires et rangeai mon portefeuille dans ma poche.
+  Après avoir vérifié qu'il n'y avait bien personne, je posai mes affaires et rangeai mon portefeuille dans ma poche.
 
 }
 [sha:e173664ac733cae068f7b02f36d93598dd29118f]{
 -- Page 3, Offset 21416.
 -- お<守|まも>り<兼|けん>お気に入りである<×口|バツくち>兎のパスケースを携帯するかは迷ったが、どうせ中には定期と学祭での記念写真しか入っていないので、テーブルに置いておく。
-　J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en X - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
+  J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en X - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
 
 }
 [sha:5bfcece56dd023247c37f7f26082b1e03eb7e8cf]{
 -- Page 3, Offset 21417.
 -- 馴染みのない建物で過ごすのだ。体はできるだけ身軽の方が疲れない。
-　J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
+  J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
 
 }
 [sha:b73f80b8e54e33d2e391b2476f6c82a00948fa78]{
@@ -73,25 +73,25 @@
 [sha:bee100ea1c2d3ba50ef2599587592fb501468f6e]{
 -- Page 4, Offset 21419.
 -- <真鍮|しんちゅう>の鍵。この洋館に相応しい、古めかしくも凝ったデザインだった。
-　C'était une clef en laiton. Elle avait un design ancien et recherché, approprié à ce manoir.
+  C'était une clef en laiton. Elle avait un design ancien et recherché, approprié à ce manoir.
 
 }
 [sha:4134feb235c497d98f21ea5b993a01b2439da189]{
 -- Page 4, Offset 21420.
 -- 廊下に出ると、
-　De retour dans le couloir,
+  De retour dans le couloir,
 
 }
 [sha:624f33136ea939d43d3ff63801199eab56b6fde7]{
 -- Page 4, Offset 21421.
 -- ちらりと、二階のホールに老人の姿が見えた。
-　j'aperçus brièvement la silhouette d'un vieil homme dans le hall.
+  j'aperçus brièvement la silhouette d'un vieil homme dans le hall.
 
 }
 [sha:939a38b28e3efd2b5469b6573be1decc608b2960]{
 -- Page 4, Offset 21422.
 -- ゲストの一人だろう。挨拶をしておこうとホールに向かう。
-　Il s'agissait probablement d'un invité. Je me dirigeai donc dans sa direction pour le saluer.
+  Il s'agissait probablement d'un invité. Je me dirigeai donc dans sa direction pour le saluer.
 
 }
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
@@ -103,13 +103,13 @@
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 5, Offset 21424.
 -- ……と。
-　...... Cependant,
+  ...... Cependant,
 
 }
 [sha:040fa0f2cf9a0a619e36e91ce583218463d0f203]{
 -- Page 5, Offset 21425.
 -- 二階のホールに老人の姿はなく、一階に下りたものと思ってロビーに下りてみたが、そこにも老人の姿はなかった。
-　le hall était désert, et j'eus beau descendre au vestibule du rez-de-chaussée, pensant qu'il s'y était rendu, je ne l'y trouvai pas.
+  le hall était désert, et j'eus beau descendre au vestibule du rez-de-chaussée, pensant qu'il s'y était rendu, je ne l'y trouvai pas.
 
 }
 [sha:e9c8edf9932efb344ffe98484c454e28140fb7b6]{
@@ -121,12 +121,12 @@
 [sha:4f09076104eb544ba1097e572146ef3c2b392a32]{
 -- Page 6, Offset 21427.
 -- 少しだけ気になったが、主人に挨拶もしていない状態で館内を歩き回るのも失礼だ。
-　La curiosité me rongeait, mais il aurait été impoli de se promener dans la demeure sans avoir salué la maîtresse de maison.
+  La curiosité me rongeait, mais il aurait été impoli de se promener dans la demeure sans avoir salué la maîtresse de maison.
 
 }
 [sha:de41ed9b4a47cac98adc1d67325bd04566545ccb]{
 -- Page 6, Offset 21428.
 -- わたしは笑い声が聞こえてくる、東館の居間へ足を向けた。
-　Je pris donc la direction du salon de l'aile est d'où me parvenaient des éclats de rire.
+  Je pris donc la direction du salon de l'aile est d'où me parvenaient des éclats de rire.
 
 }

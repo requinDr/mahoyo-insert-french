@@ -1,43 +1,43 @@
 [sha:aba55f08e7e21c25d8ffbe201d3b5b26a533374c]{
 -- Page 0, Offset 16340.
 -- 夜になって、礼拝堂には草十郎だけが残された。
-　À la nuit tombée, Sōjūrō se trouvait seul dans la chapelle.
+  À la nuit tombée, Sōjūrō se trouvait seul dans la chapelle.
 
 }
 [sha:aa7de7caf8df51820a4c60b123abbecf29e0e519]{
 -- Page 0, Offset 16341.
 -- 少年はひとり、長椅子の端に座っている。
-　Le jeune homme était assis à l'extrémité d'un banc.
+  Le jeune homme était assis à l'extrémité d'un banc.
 
 }
 [sha:19bb24fae54e82efaa8f1ad259501c2813ef2ea6]{
 -- Page 0, Offset 16342.
 -- 懺悔する者のように、かたちのない無力感を持て余している。
-　Tel un pénitent, il se sentait submergé par un indéfinissable sentiment d'impuissance.
+  Tel un pénitent, il se sentait submergé par un indéfinissable sentiment d'impuissance.
 
 }
 [sha:5cf8f5053138de2b02864005b03122e104530f68]{
 -- Page 1, Offset 16343.
 -- 寒気の<蔦|つた>が壁を伝う。
-　Un courant d'air frais passait entre les murs.
+  Un courant d'air frais passait entre les murs.
 
 }
 [sha:ce4dcd7b0766929d386198fc442b1ce76d4b3c6a]{
 -- Page 1, Offset 16344.
 -- 暖の無い礼拝堂では、はき出される呼吸は魂のように白い。
-　La chapelle n'étant pas chauffée, on y expirait un souffle blanc comme un fantôme.
+  La chapelle n'étant pas chauffée, on y expirait un souffle blanc comme un fantôme.
 
 }
 [sha:a9c63743fa6c1d6e0243a3a468f6740d1d93f086]{
 -- Page 1, Offset 16345.
 -- 冷気は容赦なく体から熱を奪っていく。
-　Le froid absorbait sans pitié toute chaleur corporelle.
+  Le froid absorbait sans pitié toute chaleur corporelle.
 
 }
 [sha:f4edff26675efce3067aa95f011a87a3ea1b8745]{
 -- Page 1, Offset 16346.
 -- 礼拝堂の高い天井が、広い講堂が、冬の寒さを一層増しているようにしか、草十郎には思えなかった。
-　Sōjūrō songea que le plafond élevé et la spacieuse nef ne faisaient qu'accentuer le froid de l'hiver.
+  Sōjūrō songea que le plafond élevé et la spacieuse nef ne faisaient qu'accentuer le froid de l'hiver.
 
 }
 [sha:6d8dedc741c759c50908b4557cf5c91156f53ad8]{
@@ -49,37 +49,37 @@
 [sha:62ba4b0e7226d7f3faebe01979c28b724decb6b8]{
 -- Page 2, Offset 16348.
 -- やり場のない感情を持て余して、彼は力なく天井を見つめている。
-　Dépassé par des émotions dont il ne savait que faire, il fixait le plafond.
+  Dépassé par des émotions dont il ne savait que faire, il fixait le plafond.
 
 }
 [sha:8d04529aefe8e8ae164e88b5ae595fa6c21e7a5a]{
 -- Page 2, Offset 16349.
 -- 思考はまったく定まらない。
-　Ses pensées étaient totalement confuses.
+  Ses pensées étaient totalement confuses.
 
 }
 [sha:7ac3510e784acdf8c6c1fe72c1dc1baf407f542b]{
 -- Page 2, Offset 16350.
 -- 胸のざわつきが何であるのか、まずそれが分からない。
-　Tout d'abord, il ne reconnaissait pas le sentiment qui le troublait.
+  Tout d'abord, il ne reconnaissait pas le sentiment qui le troublait.
 
 }
 [sha:f2eabdf92ed081feeadc94e06a43811329b89b07]{
 -- Page 3, Offset 16351.
 -- 答えのないまま時間だけが過ぎていく。
-　Tandis qu'il restait sans réponse, le temps, lui, continuait de s'écouler.
+  Tandis qu'il restait sans réponse, le temps, lui, continuait de s'écouler.
 
 }
 [sha:20d879b14bef35a0b10e8f3261b630e572513431]{
 -- Page 3, Offset 16352.
 -- その様は何かを思案しているようにも取れるし、眠っているようにも取れる。放っておけば石にでも成りかねない、見るも無惨な意気消沈。
-　On pouvait croire qu'il méditait ou même qu'il dormait. Son abattement était si atroce qu'il pourrait bien se transformer en pierre si on ne faisait rien pour lui.
+  On pouvait croire qu'il méditait ou même qu'il dormait. Son abattement était si atroce qu'il pourrait bien se transformer en pierre si on ne faisait rien pour lui.
 
 }
 [sha:1019b882cd056a9270c5e26f2c415684b31151f2]{
 -- Page 3, Offset 16353.
 -- 問題は、それを彼自身、まったく自覚していない事だ。
-　Le problème, c'était qu'il n'en avait absolument pas conscience.
+  Le problème, c'était qu'il n'en avait absolument pas conscience.
 
 }
 [sha:81fcfb86e19c2ecf344838d505c80d3941659087]{
@@ -97,25 +97,25 @@
 [sha:8bcb158e984c3902423a012d3c6b7e69f64b2d8c]{
 -- Page 4, Offset 16356.
 -- 突然の声に顔をあげる。
-　Une voix soudaine lui fit relever la tête.
+  Une voix soudaine lui fit relever la tête.
 
 }
 [sha:56fa72fdde29657ef6a439466969d6254a2f83ab]{
 -- Page 4, Offset 16357.
 -- ……いつからそこにいたのか、祭壇の前には昨夜見た神父服の男が立っていた。
-　...... Pendant qu'il rêvassait, l'homme en tenue de prêtre qu'il avait vu la veille était apparu devant l'autel.
+  ...... Pendant qu'il rêvassait, l'homme en tenue de prêtre qu'il avait vu la veille était apparu devant l'autel.
 
 }
 [sha:89fa96677074d9503aac12728b9f9425bfa44818]{
 -- Page 5, Offset 16358.
 -- 乾いた音が礼拝堂に<木霊|こだま>する。
-　Le bruit sec de ses pas résonna dans la chapelle.
+  Le bruit sec de ses pas résonna dans la chapelle.
 
 }
 [sha:a750c865282e1883222c5565e5045f72cdfddc71]{
 -- Page 5, Offset 16359.
 -- いまさら立ち去るのも、そもそも立ち上がる気力もない草十郎は、歩み寄る影を見届けるしかない。
-　Il était un peu tard pour s'en aller, et de toute façon, Sōjūrō n'avait même pas la force de se lever. Il n'eut donc pas d'autre choix que de regarder l'homme s'approcher.
+  Il était un peu tard pour s'en aller, et de toute façon, Sōjūrō n'avait même pas la force de se lever. Il n'eut donc pas d'autre choix que de regarder l'homme s'approcher.
 
 }
 [sha:6b040b3bc852962e04876e6089ccd865876fb8f6]{
@@ -127,19 +127,19 @@
 [sha:8a6596ff5f22825b367172334161d64105561567]{
 -- Page 6, Offset 16361.
 -- ここ、座りますがよろしいですか？」
-　Puis-je m'asseoir ici ?」
+  Puis-je m'asseoir ici ?」
 
 }
 [sha:81d52011f905fc284fc949c7260f954c9d0cbf40]{
 -- Page 6, Offset 16362.
 -- 神父は草十郎と同じ長椅子を指さした。
-　Le prêtre désigna le banc de Sōjūrō.
+  Le prêtre désigna le banc de Sōjūrō.
 
 }
 [sha:1d149ea2da34523d3891baf44452d0e674418f32]{
 -- Page 6, Offset 16363.
 -- 草十郎とは逆位置の<端|はじ>っこに、返事を待たず腰をかける。
-　Il s'assit à l'autre bout sans attendre de réponse.
+  Il s'assit à l'autre bout sans attendre de réponse.
 
 }
 [sha:4a4bbd2c523c130da87e5460224f4470f6e18a92]{
@@ -151,31 +151,31 @@
 [sha:2a00467004a631a52a5bf2fa9bd884ef2b4a0208]{
 -- Page 7, Offset 16365.
 -- 貴方は静希草十郎君ですか。なるほど、たしかに唯架には見えない」
-　Tu es donc Shizuki Sōjūrō. Je comprends mieux... Effectivement, Yuika ne peut pas te voir.」
+  Tu es donc Shizuki Sōjūrō. Je comprends mieux... Effectivement, Yuika ne peut pas te voir.」
 
 }
 [sha:fbe24caf63c9410e56697fc6272f3f4c171a204b]{
 -- Page 8, Offset 16366.
 -- 穏やかな口調だが、神父の声には白々しいほど感情がこもっていない。
-　Il s'exprimait sur un ton calme, mais sa voix était d'une neutralité presque éhontée.
+  Il s'exprimait sur un ton calme, mais sa voix était d'une neutralité presque éhontée.
 
 }
 [sha:0a874047a086efe650542ad813402755607d6f99]{
 -- Page 8, Offset 16367.
 -- 徹底した利<己主義|エゴイスト>者。
-　C'était un parfait égoïste.
+  C'était un parfait égoïste.
 
 }
 [sha:012f03b2c312b1168ca55dd6d1c217c962c61b46]{
 -- Page 8, Offset 16368.
 -- こういう声をする人間を、草十郎はよく知っている。
-　Sōjūrō connaissait très bien une autre personne ayant le même genre de voix.
+  Sōjūrō connaissait très bien une autre personne ayant le même genre de voix.
 
 }
 [sha:b70edef9fe4fcb320a553f3ab12e7e77f42797a0]{
 -- Page 8, Offset 16369.
 -- 山から下りる際、彼の世話をしてくれた恩人がこういった<感|こ><情|え>をだす人物だった。
-　Le bienfaiteur ayant pris soin de lui lorsqu'il avait quitté la montagne parlait aussi de cette façon.
+  Le bienfaiteur ayant pris soin de lui lorsqu'il avait quitté la montagne parlait aussi de cette façon.
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -187,13 +187,13 @@
 [sha:3220ed5ee9480f19d9d1afb69a765b16d3fdf87a]{
 -- Page 9, Offset 16371.
 -- 座ったまま、草十郎は無関心に神父を一瞥する。
-　De sa place, Sōjūrō jeta un coup d'œil détaché au prêtre.
+  De sa place, Sōjūrō jeta un coup d'œil détaché au prêtre.
 
 }
 [sha:37b902f3904ddea79b7c9b176d9f87ba51534369]{
 -- Page 9, Offset 16372.
 -- 心ここにあらず、といった状態だが、詠梨は気にしていないようだ。
-　Il avait l'esprit ailleurs, mais Eiri ne semblait pas s'en formaliser.
+  Il avait l'esprit ailleurs, mais Eiri ne semblait pas s'en formaliser.
 
 }
 [sha:b79b8a0e44f8946a6dd49793bfd5e9150a16e8c7]{
@@ -205,13 +205,13 @@
 [sha:b81a93a82754695617515033c339af6e44ff6161]{
 -- Page 10, Offset 16374.
 -- 草十郎はうなずきで答えた。
-　Sōjūrō acquiesça d'un signe de tête.
+  Sōjūrō acquiesça d'un signe de tête.
 
 }
 [sha:dab974c30579225b68ea8676178f39ccbfc30582]{
 -- Page 10, Offset 16375.
 -- それは良かった、と作り物めいた笑みの神父。
-　“Merci”, répondit le prêtre avec un sourire factice.
+  “Merci”, répondit le prêtre avec un sourire factice.
 
 }
 [sha:8e3eccff3fa1521e270cc7883ee1236be8799c17]{
@@ -229,13 +229,13 @@
 [sha:b187880a46f644b19b8f42e41acd570e20300193]{
 -- Page 11, Offset 16378.
 -- 神父を見ずに、前を向いたまま草十郎は返す。
-　répondit Sōjūrō, sans se tourner vers le prêtre,
+  répondit Sōjūrō, sans se tourner vers le prêtre,
 
 }
 [sha:c9924089c25898e026cd7565fb4a4d099cc9b494]{
 -- Page 11, Offset 16379.
 -- 迷いに満ちた、彼らしからぬ弱々しい声で。
-　d'une voix sourde et pleine de doutes qui ne lui seyait guère.
+  d'une voix sourde et pleine de doutes qui ne lui seyait guère.
 
 }
 [sha:f04dff6719690c2672a2fd83296d35b16be6a6d2]{
@@ -253,13 +253,13 @@
 [sha:c0252b30f9bc7d362e444d91b7d043c62d54f085]{
 -- Page 12, Offset 16382.
 -- あれだけ元気のなかった少年の顔が、その一言で蘇った。
-　Ces quelques mots suffirent à revigorer le garçon jusque-là si déprimé.
+  Ces quelques mots suffirent à revigorer le garçon jusque-là si déprimé.
 
 }
 [sha:e3fccbc52675d91e9ecef74d693cb37c705daa5a]{
 -- Page 12, Offset 16383.
 -- 草十郎は水を得た魚のように、ぽん、と両手を打って神父に顔を向ける。
-　Sōjūrō tapa dans ses mains avec l'entrain d'un poisson remis à l'eau puis tourna la tête vers le prêtre.
+  Sōjūrō tapa dans ses mains avec l'entrain d'un poisson remis à l'eau puis tourna la tête vers le prêtre.
 
 }
 [sha:7b06179876acae2fdc1bcbaa323aa722daa12e3e]{
@@ -271,7 +271,7 @@
 [sha:a84e56a0ff94c631cc684dffbc2532770583e407]{
 -- Page 13, Offset 16385.
 -- ―――いや、でも、それは困るな。
-　―――Oui, mais c'est embêtant.
+  ―――Oui, mais c'est embêtant.
 
 }
 [sha:4795e21f6f01f6a1e6fa6aded24139dabb31264a]{
@@ -283,7 +283,7 @@ Je n'avais même pas conscience de cette partie de moi.」
 [sha:b97cffbd17970ccf8a766c740a8c589e1d32a9c9]{
 -- Page 13, Offset 16387.
 -- 懺悔のような呟きに、神父は何も返さない。
-　répondit-il dans un murmure ayant le ton d'une confession. Le prêtre ne répliqua rien.
+  répondit-il dans un murmure ayant le ton d'une confession. Le prêtre ne répliqua rien.
 
 }
 [sha:992aabcc19f4966495d1d0e0c3a97c130a732ab5]{
@@ -301,7 +301,7 @@ Je n'avais même pas conscience de cette partie de moi.」
 [sha:1edd0ec1ac92bf43a134fd0379e43babead7c102]{
 -- Page 14, Offset 16390.
 -- 君は今まで山奥に住んでいたと聞きました。そこで一つ、どうしても気になる事があって」
-　On m'a dit que tu vivais aux confins des montagnes il y a encore peu. C'est sur ce point que quelque chose me tracasse grandement.」
+  On m'a dit que tu vivais aux confins des montagnes il y a encore peu. C'est sur ce point que quelque chose me tracasse grandement.」
 
 }
 [sha:58387c5dea5d4464784233357dbf52e19381c3c4]{
@@ -325,19 +325,19 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:01342e3de5a166cbb48073011ba765e1449e91dc]{
 -- Page 15, Offset 16394.
 -- ですから、まあ。これも縁ですし、私も肩書きが<神父|コレ>ですしねぇ。迷える子羊がいるんですから、それなりの<勤|つと>めをはたさないと後ろめたいというか」
-　Enfin bref, le hasard a sans doute voulu cela, étant donné mon titre. Et puis, maintenant qu'une brebis égarée se tient devant moi, si je n'exerce pas un tant soit peu ma fonction, je risque d'avoir mauvaise conscience.」
+  Enfin bref, le hasard a sans doute voulu cela, étant donné mon titre. Et puis, maintenant qu'une brebis égarée se tient devant moi, si je n'exerce pas un tant soit peu ma fonction, je risque d'avoir mauvaise conscience.」
 
 }
 [sha:acf40caf068affb0e73285f4e6a39df0b5cc2009]{
 -- Page 16, Offset 16395.
 -- そうして、神父は穏やかな瞳を草十郎へ向けた。
-　Le prêtre tourna alors vers Sōjūrō ses yeux sereins,
+  Le prêtre tourna alors vers Sōjūrō ses yeux sereins,
 
 }
 [sha:2b74f93f17d2312539d9243455e03bbc4b90c73d]{
 -- Page 16, Offset 16396.
 -- 容赦なく暗い、罪を<暴|あば>くような瞳を。
-　mais aussi sombres, impitoyables et capables de déceler les péchés.
+  mais aussi sombres, impitoyables et capables de déceler les péchés.
 
 }
 [sha:884f88990ade75f1e96add04a915cd25d950d14e]{
@@ -349,7 +349,7 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:763614b480160adb2e7b6d80c0683027d9dbe69b]{
 -- Page 17, Offset 16398.
 -- ……その、質問というのは？」
-　...... Que voulez-vous me demander ?」
+  ...... Que voulez-vous me demander ?」
 
 }
 [sha:76483f5e73e7e515d2ee84fb62aae4029a27f2f3]{
@@ -361,19 +361,19 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:39aa8295448f8ff4f8eee82638d6be4c47603a8e]{
 -- Page 17, Offset 16400.
 -- 貴方はなぜ山から下りてきたのか。そこでなら君は幸福だったでしょうに」
-　Pourquoi as-tu quitté la montagne alors que tu devais y être heureux ?」
+  Pourquoi as-tu quitté la montagne alors que tu devais y être heureux ?」
 
 }
 [sha:8d8d64062e0b987afa0c608b3763fbf36c86e5ba]{
 -- Page 17, Offset 16401.
 -- 罪状こそ確かではないが、それは確かに告発だった。
-　La faute qu'il aurait commise n'était pas claire, mais ça n'en restait pas moins une accusation.
+  La faute qu'il aurait commise n'était pas claire, mais ça n'en restait pas moins une accusation.
 
 }
 [sha:c3764c3824763d6432e9b29904ffbdd1ae19c8a0]{
 -- Page 17, Offset 16402.
 -- 遅すぎたといえば遅すぎ、当然と言えば当然の質問。
-　Cette question arrivait bien trop tardivement, mais elle était des plus naturelles.
+  Cette question arrivait bien trop tardivement, mais elle était des plus naturelles.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -385,13 +385,13 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:7579536c3fad44f19ac367a2d8b647f06d6035d5]{
 -- Page 18, Offset 16404.
 -- 草十郎に返答はない。
-　Sōjūrō ne répondit rien.
+  Sōjūrō ne répondit rien.
 
 }
 [sha:b620d2403f2ede2db7efd883c02e91d119842117]{
 -- Page 18, Offset 16405.
 -- 苦虫をかみつぶす少年を無視して神父は続ける。
-　Le prêtre ignora la grimace du garçon et continua.
+  Le prêtre ignora la grimace du garçon et continua.
 
 }
 [sha:9f108977df03df8358f29736ab2933626ec451c4]{
@@ -403,7 +403,7 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:603b594b19c2ba14960eacba823f3166cc0faab9]{
 -- Page 19, Offset 16407.
 -- 山での生活はこの上なく簡素です。なにしろ生きること以外に時間をさく余裕がない。愉しむ為に生きるのではなく、生きる為にただ生きる。生活は必要最小限を、さらに切り詰めたものとなっていく」
-　La vie y est extrêmement modeste. Après tout, on consacre tout son temps à survivre et uniquement à ça. On ne vit pas pour être heureux, mais seulement pour vivre. Le quotidien se restreint au strict nécessaire, si ce n'est moins.」
+  La vie y est extrêmement modeste. Après tout, on consacre tout son temps à survivre et uniquement à ça. On ne vit pas pour être heureux, mais seulement pour vivre. Le quotidien se restreint au strict nécessaire, si ce n'est moins.」
 
 }
 [sha:56abf84c8ddbbf4ff32920b9a21a12908ba582ba]{
@@ -415,19 +415,19 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:0dd8fce5a74758611b939d0b9076b75ad65de6dd]{
 -- Page 20, Offset 16409.
 -- ですが。楽園の定義は、人それぞれです」
-　Cependant, la définition de ce dernier diffère pour chaque individu.」
+  Cependant, la définition de ce dernier diffère pour chaque individu.」
 
 }
 [sha:b6b0205c494809e022dfe0841676d01b2247c496]{
 -- Page 20, Offset 16410.
 -- 草十郎は答えない。表情も何も語らない。
-　Sōjūrō ne répondit toujours pas. Son expression ne trahissait rien non plus.
+  Sōjūrō ne répondit toujours pas. Son expression ne trahissait rien non plus.
 
 }
 [sha:0288377ba3a5cce5dfce6eb3c00ee6935243d80e]{
 -- Page 20, Offset 16411.
 -- ただ、神父の声だけが礼拝堂に<木霊|こだま>する。
-　Seule la voix du prêtre résonnait dans la chapelle.
+  Seule la voix du prêtre résonnait dans la chapelle.
 
 }
 [sha:7d2fea0a2f5e62c047ad54729ef3def3e7c8d53d]{
@@ -439,37 +439,37 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:2937deca8d16ac36722615de996e4e13e2e46e74]{
 -- Page 21, Offset 16413.
 -- 電気の明かりがどれだけ暖かでも、自然のままの厳しい寒さを君は<尊|とうと>んでいた筈です。
-　La lumière électrique a beau être chaude, tu devais vénérer le froid intense de la nature.
+  La lumière électrique a beau être chaude, tu devais vénérer le froid intense de la nature.
 
 }
 [sha:7d9c28e034475dd656596fa21e99d29bc5ef2a15]{
 -- Page 21, Offset 16414.
 -- なのになぜ、下りてきたのですか。山にいれば、君は<倖|しあわ>せだったでしょうに」
-　Si tu y étais resté, tu aurais sûrement été heureux. Alors, pourquoi être parti ?」
+  Si tu y étais resté, tu aurais sûrement été heureux. Alors, pourquoi être parti ?」
 
 }
 [sha:719dd15dd808de0a79986acc46691515f4bee723]{
 -- Page 22, Offset 16415.
 -- 神父の問いが、もう一度繰り返される。
-　Le prêtre répéta une nouvelle fois sa question.
+  Le prêtre répéta une nouvelle fois sa question.
 
 }
 [sha:92a978fdce964ade943aa403502bcf5d0a40022f]{
 -- Page 22, Offset 16416.
 -- 草十郎は堅く口を閉ざしている。
-　Sōjūrō resta bouche close.
+  Sōjūrō resta bouche close.
 
 }
 [sha:3d780364e04da8df666ec8075302e3a960516422]{
 -- Page 22, Offset 16417.
 -- それは答えたくないのではなく、彼自身、どうしてそうなったのか未だ分からないからだ。
-　Ce n'était pas qu'il refusait de répondre, mais il ne savait toujours pas lui-même pourquoi il en était arrivé là.
+  Ce n'était pas qu'il refusait de répondre, mais il ne savait toujours pas lui-même pourquoi il en était arrivé là.
 
 }
 [sha:28d99d8cdea6b81cc67105b7883c308f190ecace]{
 -- Page 22, Offset 16418.
 -- ……確かな事は、帰りたくとも、もう帰ってはいけないという事実だけ。
-　...... Sa seule certitude, c'était qu'il ne devait pas y retourner, même s'il en avait envie.
+  ...... Sa seule certitude, c'était qu'il ne devait pas y retourner, même s'il en avait envie.
 
 }
 [sha:e884008c85b7e3379ef8f53afa7c3a7856b1ec39]{
@@ -481,43 +481,43 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:c05b404b8adf166aa50c3284dc80e6d81e8fbece]{
 -- Page 23, Offset 16420.
 -- 故郷を捨てた理由も分からないのに、旅先の土地を愛するコトなんて、まっとうな人間にはできませんよ。
-　Un humain normalement constitué est incapable d'aimer son nouveau foyer s'il ne connaît pas la raison pour laquelle il a abandonné sa terre natale.
+  Un humain normalement constitué est incapable d'aimer son nouveau foyer s'il ne connaît pas la raison pour laquelle il a abandonné sa terre natale.
 
 }
 [sha:ce9e1ef4d01f9cad573fb843f4901e00b702af73]{
 -- Page 23, Offset 16421.
 -- これは忠告ですが。すべてを無条件に肯定したところで、幸福になれるとはかぎりません。
-　Je te mets en garde : tu ne seras pas forcément heureux en acceptant tout sans condition.
+  Je te mets en garde : tu ne seras pas forcément heureux en acceptant tout sans condition.
 
 }
 [sha:a1a4adba22cbfdfd70634a1e3d68a38c5f8ada8f]{
 -- Page 23, Offset 16422.
 -- 貴方はもう少し、自分の心を許してあげないと」
-　Il faudrait que tu pardonnes un peu ton propre cœur.」
+  Il faudrait que tu pardonnes un peu ton propre cœur.」
 
 }
 [sha:65a3d0a65aeccda8870084f15ee693fa4095add5]{
 -- Page 24, Offset 16423.
 -- 草十郎には、神父の言葉はまったく理解できない。
-　Sōjūrō ne comprenait rien à ce que racontait le prêtre.
+  Sōjūrō ne comprenait rien à ce que racontait le prêtre.
 
 }
 [sha:9558a6d9287003c0f6e5504c2cbd639880b9a9c1]{
 -- Page 24, Offset 16424.
 -- ただ、最後の言葉だけは印象的だった。
-　Cependant, sa dernière phrase lui laissa une forte impression.
+  Cependant, sa dernière phrase lui laissa une forte impression.
 
 }
 [sha:59070f09ceeb0cc9efb802c37fcfff17da9ae499]{
 -- Page 24, Offset 16425.
 -- 自分の心を許せ、と言うけど。
-　Pardonne ton propre cœur, avait-il dit,
+  Pardonne ton propre cœur, avait-il dit,
 
 }
 [sha:e4c39bd0f6f414ef8a3827eae2675beaa78636e4]{
 -- Page 24, Offset 16426.
 -- 彼には、その心のカタチがよく分からない。
-　mais il ne savait pas bien à quoi celui-ci ressemblait.
+  mais il ne savait pas bien à quoi celui-ci ressemblait.
 
 }
 [sha:724c13742b057d12fb07d5936b9f61672a11ca1b]{
@@ -529,13 +529,13 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:6b1910952d2999c2f51f868f5defec3d13bd7c60]{
 -- Page 25, Offset 16428.
 -- 同じような事を、蒼崎橙子も口にしていた。
-　Aozaki Tōko avait formulé le même genre de propos.
+  Aozaki Tōko avait formulé le même genre de propos.
 
 }
 [sha:f8317182ef1c4961544373f95f8b3c39293f4dce]{
 -- Page 25, Offset 16429.
 -- 橙子といい、この神父といい、口にしてもいない事をよく言い当てられるものだな、と草十郎は感心する。
-　Que ce soit ce prêtre ou elle, ils arrivent à deviner correctement les choses que je ne dis pas, pensa admirativement Sōjūrō.
+  Que ce soit ce prêtre ou elle, ils arrivent à deviner correctement les choses que je ne dis pas, pensa admirativement Sōjūrō.
 
 }
 [sha:3a7c5896d473d5ab4af7c0656d498a7e18e0d07c]{
@@ -547,13 +547,13 @@ C'est parce que tu ne laisses rien transparaître de tes inquiétudes devant les
 [sha:124f0366ae64c56d30fe75587b317cc4f37ecc07]{
 -- Page 26, Offset 16431.
 -- さっきまでの暗さはどこへいったのか、不思議そうに草十郎は言った。
-　dit Sōjūrō émerveillé, sa morosité envolée.
+  dit Sōjūrō émerveillé, sa morosité envolée.
 
 }
 [sha:277492027455b582adc64e32472bcb7b3114bcc8]{
 -- Page 26, Offset 16432.
 -- 心の傷が表に<顕|あらわ>れない、ある意味、鉄の心臓がこの少年の特徴である。
-　Dans un certain sens, ce jeune homme avait pour particularité de posséder un cœur d'acier qui ne laissait rien paraître de ses blessures émotionnelles.
+  Dans un certain sens, ce jeune homme avait pour particularité de posséder un cœur d'acier qui ne laissait rien paraître de ses blessures émotionnelles.
 
 }
 [sha:19f49623c4bfd8b55fba2078e8164c4e0911405d]{
@@ -583,13 +583,13 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:bc03ce2acc075a234c07838256c1d00710bb0464]{
 -- Page 28, Offset 16437.
 -- 神父は困ったように肩をすくめる。
-　Le prêtre haussa les épaules d'un air embêté.
+  Le prêtre haussa les épaules d'un air embêté.
 
 }
 [sha:5d5c83cf15ceab0bc028462c4e358b3803d7621c]{
 -- Page 28, Offset 16438.
 -- 信用できないコトこの上ないが、今の草十郎には誰であろうと後光が差して見えるのだった。
-　Il ne semblait vraiment pas digne de confiance, mais dans son état actuel, Sōjūrō verrait n'importe qui nimbé d'un halo de lumière.
+  Il ne semblait vraiment pas digne de confiance, mais dans son état actuel, Sōjūrō verrait n'importe qui nimbé d'un halo de lumière.
 
 }
 [sha:480fbfa1ea27223a55672cf3d0dab13598d0b82b]{
@@ -607,7 +607,7 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:07c81cffcee34b3e7e429aa32c0bd241422122d5]{
 -- Page 29, Offset 16441.
 -- 人の心でも読めるのか、神父は穏やかな眼差しのまま草十郎の台詞を先読みする。
-　De son regard serein, le prêtre anticipa la phrase de Sōjūrō comme s'il lisait dans ses pensées.
+  De son regard serein, le prêtre anticipa la phrase de Sōjūrō comme s'il lisait dans ses pensées.
 
 }
 [sha:b864589a47dd8eeb5cde44aed2846824d027c54a]{
@@ -619,13 +619,13 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:7c2197575537e0842a8771db87216931e3b8d804]{
 -- Page 30, Offset 16443. Mods: @k, @e.
 -- 自分でも、どうしてそう思うのかが分からない。
-　Moi-même, je ne comprends pas pourquoi je ressens cela.
+  Moi-même, je ne comprends pas pourquoi je ressens cela.
 
 }
 [sha:a67233d2387b72ba70d6efa15c567d04fe54d79d]{
 -- Page 30, Offset 16444. Glued. Mods: @x.
 -- でも貴方なら、それを知ってそうだ」
-Mais vous, vous semblez le savoir.」
+ Mais vous, vous semblez le savoir.」
 
 }
 [sha:ee2c2f2ba03a97efeb8b0de8687b680ff205690a]{
@@ -637,7 +637,7 @@ Mais vous, vous semblez le savoir.」
 [sha:13fe01492ad2186471edaa89036d645bf86c1624]{
 -- Page 30, Offset 16446.
 -- それはおそらく、貴方には根拠がないからですよ。
-　C'est probablement parce que tu n'as pas de substance.
+  C'est probablement parce que tu n'as pas de substance.
 
 }
 [sha:8bd1951fb097c48b0c96f4f90c1b91c68e13eaee]{
@@ -649,7 +649,7 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:1646bd058694c202e379ef9f4cc5aadb504c1f8c]{
 -- Page 31, Offset 16448.
 -- すっぱりと答える詠梨神父に、草十郎は難解そうに目を細めた。色がない、とはどういう意味なのだろう、と。
-　En réaction à la réponse catégorique de père Eiri, Sōjūrō plissa les yeux d'un air obscur. Il se demandait ce que pouvait bien signifier le fait qu'il n'ait pas de couleur.
+  En réaction à la réponse catégorique de père Eiri, Sōjūrō plissa les yeux d'un air obscur. Il se demandait ce que pouvait bien signifier le fait qu'il n'ait pas de couleur.
 
 }
 [sha:1d7df729c204596d29e3ad3b023772daf4283261]{
@@ -661,13 +661,13 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:49a60544962869ff726eec08cf5caccb4f6f4b21]{
 -- Page 32, Offset 16450.
 -- 山という異界から町に下りて、一人で暮らしていけた事。
-　Tu as été capable de vivre tout seul en ville après avoir quitté cet autre monde qu'est la montagne.
+  Tu as été capable de vivre tout seul en ville après avoir quitté cet autre monde qu'est la montagne.
 
 }
 [sha:a1b00b0369df7180ed0aa89c0ee03d1347f0934f]{
 -- Page 32, Offset 16451.
 -- ようやく慣れた常識の中で、青子たちという非常識と関わっても暮らしていけた事。
-　Tu t'habituais à peine à cette vie remplie de bon sens que tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.
+  Tu t'habituais à peine à cette vie remplie de bon sens que tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.
 
 }
 [sha:401c11d7f8258dd34667b6a7ccaf94167ce13100]{
@@ -679,7 +679,7 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:5e9171df28d57fce96f39395b82b9fca9a0bb7f8]{
 -- Page 32, Offset 16453.
 -- 原因は知りませんが、君には初めから、自我というものが第一に表れてはいないのです」
-　Je ne saurais te dire pourquoi, mais en premier lieu, ce qu'on appelle communément l'égo n'est pas présent chez toi.」
+  Je ne saurais te dire pourquoi, mais en premier lieu, ce qu'on appelle communément l'égo n'est pas présent chez toi.」
 
 }
 [sha:89166aa1c43ce686123cd9409fa0cdc563cf30c2]{
@@ -691,19 +691,19 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:4e124ce404d930666b144b126c796862ff9f999b]{
 -- Page 33, Offset 16455.
 -- しいて言うのなら、色の乗っていない空白ですかね。
-　Tu es comme une page immaculée, si je puis dire.
+  Tu es comme une page immaculée, si je puis dire.
 
 }
 [sha:9f122a558abf7ae8744f6d69ac4a6833409b26f0]{
 -- Page 33, Offset 16456.
 -- 風景に溶けこむ自然さは素晴らしい人徳ですが、自我がないという事は、居場所がないという事ですから。
-　Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit où aller.
+  Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit où aller.
 
 }
 [sha:41783075f1ef5f56185bbc7178483634b95fb31b]{
 -- Page 33, Offset 16457.
 -- いいコトばかりじゃありません」
-　Ça n'a pas que des bons côtés.」
+  Ça n'a pas que des bons côtés.」
 
 }
 [sha:e8e35aa0180f5b13868fbfec2e047cc499255d68]{
@@ -715,19 +715,19 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:7972820cc2f25842dd0b1b5a5ed4804189447ebe]{
 -- Page 34, Offset 16459.
 -- 姿なき精霊すら捉えるアレが見えなかったのですから、君の無欲ぶりも筋金入りだ」
-　Si elle n'a pas pu te percevoir alors qu'elle peut discerner les esprits informes, c'est que ton désintéressement doit être fabuleux.」
+  Si elle n'a pas pu te percevoir alors qu'elle peut discerner les esprits informes, c'est que ton désintéressement doit être fabuleux.」
 
 }
 [sha:a8019f1dd09546000d051114c037aa1c311383af]{
 -- Page 35, Offset 16460.
 -- なにが嬉しいのか、微笑みながら神父はそう告げた。
-　Le prêtre lui fit part de cela tout en souriant mystérieusement.
+  Le prêtre lui fit part de cela tout en souriant mystérieusement.
 
 }
 [sha:d0febf473a83f323e2fd919f1f0ced3a056cd4fa]{
 -- Page 35, Offset 16461.
 -- 草十郎には彼の言いたい事も、その笑顔の意味もさっぱり分からない。
-　Sōjūrō ne comprenait pas ce qu'il voulait dire ou même le sens de son sourire.
+  Sōjūrō ne comprenait pas ce qu'il voulait dire ou même le sens de son sourire.
 
 }
 [sha:ad4f656e57c6382bad2a0307e4bbe526b0e989f3]{
@@ -739,13 +739,13 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:92cde61bc983eb37234533b2a59d7ef11d518287]{
 -- Page 36, Offset 16463.
 -- 自分のない貴方は、自己を押し通してきた彼女にとって認めがたいものだったでしょうから。
-　En effet, comme tu n'as pas d'égo, tu dois être un être difficile à accepter pour elle qui n'en fait qu'à sa tête.
+  En effet, comme tu n'as pas d'égo, tu dois être un être difficile à accepter pour elle qui n'en fait qu'à sa tête.
 
 }
 [sha:da9357fdaa8f979de89dca7ca1228fcb7f400d64]{
 -- Page 36, Offset 16464.
 -- そして同時に、貴方は青子に、自分ではどうしても手に入れられないものを見てしまった」
-　Et par la même occasion, tu as vu en Aoko ce que tu ne pourras jamais obtenir.」
+  Et par la même occasion, tu as vu en Aoko ce que tu ne pourras jamais obtenir.」
 
 }
 [sha:7ef96f558bb8b7dcb110ffc61fc2df3f1e6de82f]{
@@ -757,13 +757,13 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:3a1032521af97ab9133cb1c5e8c8b23baaa111f3]{
 -- Page 37, Offset 16466.
 -- 先程は嫉妬と言いましたが、それは訂正しましょう。
-　J'ai parlé de jalousie tout à l'heure, mais je vais me rectifier.
+  J'ai parlé de jalousie tout à l'heure, mais je vais me rectifier.
 
 }
 [sha:3ef3e3b9e250273879aa1d7d828e621300ea3965]{
 -- Page 37, Offset 16467.
 -- 君は青子に―――いや、いいです。
-　Envers Aoko, tu―――non, oublie ça.
+  Envers Aoko, tu―――non, oublie ça.
 
 }
 [sha:8b182e0260c71b989040d575cbd80beb4ee6a2d1]{
@@ -775,25 +775,25 @@ Ce serait grossier de le dire.」
 [sha:fe0eea8f744db47a9cfb2f96a0bc447d67265ed0]{
 -- Page 38, Offset 16469.
 -- 柔らかに神父は笑った。
-　Le prêtre rit tendrement.
+  Le prêtre rit tendrement.
 
 }
 [sha:5bf75263c6a8abfd4c6f8c2dcd65541a198f4106]{
 -- Page 38, Offset 16470.
 -- それは詠梨本来の年齢を思わせる、若々しい笑みだった。
-　C'était un rire juvénile qui laissait entrevoir son âge réel.
+  C'était un rire juvénile qui laissait entrevoir son âge réel.
 
 }
 [sha:2cbb89b92addad4f302444a03a2c69acbbf93ebf]{
 -- Page 38, Offset 16471.
 -- この人物は青子の事になると<神父然|しんぷぜん>とした姿勢が崩れるようだ。
-　Les allures de prêtre de cette personne semblaient s'évaporer lorsqu'il abordait le sujet d'Aoko.
+  Les allures de prêtre de cette personne semblaient s'évaporer lorsqu'il abordait le sujet d'Aoko.
 
 }
 [sha:55bba3f36be8a95bea0c44bc53dc61e971c3249b]{
 -- Page 38, Offset 16472.
 -- と、それはともかく。
-　Enfin, oublions cela pour l'instant.
+  Enfin, oublions cela pour l'instant.
 
 }
 [sha:e9669e76eeea0b79f086b29b219cf76efccbef6c]{
@@ -805,13 +805,13 @@ Ce serait grossier de le dire.」
 [sha:8baec166ebba6fcc867f065606598eb01d0ecd91]{
 -- Page 39, Offset 16474.
 -- 要領を得ない詠梨の言葉に、草十郎は真っ正面から聞き返す。
-　demanda sans détour Sōjūrō à Eiri dont les paroles restaient incompréhensibles.
+  demanda sans détour Sōjūrō à Eiri dont les paroles restaient incompréhensibles.
 
 }
 [sha:f0b948de941abd3f05a63e48730423ccb5bb2a59]{
 -- Page 39, Offset 16475.
 -- 順を追って話していた詠梨だが、この相手には冗長すぎたようだ。
-　Eiri avait tout expliqué dans l'ordre, mais de toute évidence, il avait été trop verbeux pour cet interlocuteur.
+  Eiri avait tout expliqué dans l'ordre, mais de toute évidence, il avait été trop verbeux pour cet interlocuteur.
 
 }
 [sha:fe04a4667421d75a06d36fdad24fcb37c8e81d11]{
@@ -823,13 +823,13 @@ Ce serait grossier de le dire.」
 [sha:52de15b16244d3f502b7de8f42978ac63be18ef3]{
 -- Page 40, Offset 16477.
 -- まいりましたね。こういう事は言葉を尽くすほど実感が湧かないものですが……ま、私も神父と呼ばれる身です。少し切り口を変えて代弁してみましょう。
-　Me voilà gêné. Les mots ne suffisent pas à expliquer ce genre de chose...... Enfin, je ne réponds pas au titre de prêtre pour rien. Je vais me faire porte-parole et changer d'angle d'attaque.
+  Me voilà gêné. Les mots ne suffisent pas à expliquer ce genre de chose...... Enfin, je ne réponds pas au titre de prêtre pour rien. Je vais me faire porte-parole et changer d'angle d'attaque.
 
 }
 [sha:5d241b55018336533cda3aea50649ec5b747c5fa]{
 -- Page 40, Offset 16478.
 -- 貴方は青子の過去を知っていますか？」
-　Connais-tu le passé d'Aoko ?」
+  Connais-tu le passé d'Aoko ?」
 
 }
 [sha:ce22ba2e7475530ac18bebd74d7ce380abe63c09]{
@@ -847,13 +847,13 @@ Ce serait grossier de le dire.」
 [sha:8aafc6c5b01b0d5d00ee486383b42489ccd4baf9]{
 -- Page 42, Offset 16481.
 -- いいでしょう。では静希君、益体のないたとえ話ですが。
-　Très bien. Shizuki, je vais te poser une question stupide :
+  Très bien. Shizuki, je vais te poser une question stupide :
 
 }
 [sha:ab279bdc9bd8bd001f64efa4c8d1878070ff03b0]{
 -- Page 42, Offset 16482.
 -- 君は、突然自殺しろと言われて従えますか？」
-　si on t'ordonnait soudainement de te suicider, obéirais-tu ?」
+  si on t'ordonnait soudainement de te suicider, obéirais-tu ?」
 
 }
 [sha:5c65826e17a240d482477de5c3587aeb1c9ef25d]{
@@ -871,19 +871,19 @@ Ce serait grossier de le dire.」
 [sha:8e969bbc675fa7182570c38f3c472a6788802e7d]{
 -- Page 43, Offset 16485.
 -- 青子はね、近いことを求められたのです、十五歳の時に。
-　Vois-tu, Aoko a été confrontée à un dilemme similaire lors de ses 15 ans.
+  Vois-tu, Aoko a été confrontée à un dilemme similaire lors de ses 15 ans.
 
 }
 [sha:c453e8a1710253675341c01c4cf6caa6267bd850]{
 -- Page 43, Offset 16486.
 -- 彼女がそれまで積み重ねてきた努力も希望も、過去も未来もすべて捨てること。今日からおまえは違う生き物として生きろ、とね。
-　Elle devait tout abandonner, les efforts qu'elle avait fournis jusque-là, ses rêves, son passé et son avenir. À partir de ce jour-là, elle devait vivre comme un être vivant différent.
+  Elle devait tout abandonner, les efforts qu'elle avait fournis jusque-là, ses rêves, son passé et son avenir. À partir de ce jour-là, elle devait vivre comme un être vivant différent.
 
 }
 [sha:a56936a2a98a82e574f945f8de55849a2ff19511]{
 -- Page 43, Offset 16487.
 -- どうです？　それは自己の抹消、未来の死と同じだと思いませんか？」
-　Qu'en penses-tu ? La mort de son propre futur, n'est-ce pas la même chose que la suppression de l'égo ?」
+  Qu'en penses-tu ? La mort de son propre futur, n'est-ce pas la même chose que la suppression de l'égo ?」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -895,91 +895,91 @@ Ce serait grossier de le dire.」
 [sha:de895e8f49743b0ba34812668a0794418b14bc0a]{
 -- Page 44, Offset 16489.
 -- 神父の言葉は、たしかに青子が口にした過去と一致する。
-　Les dires du prêtre correspondaient en effet avec le passé qu'avait évoqué Aoko.
+  Les dires du prêtre correspondaient en effet avec le passé qu'avait évoqué Aoko.
 
 }
 [sha:4510d34a608b8c4a66a5fc26fd993b6bb972cb88]{
 -- Page 44, Offset 16490.
 -- 蒼崎青子は中学まで、普通の学生として暮らしてきた。
-　Aozaki Aoko avait vécu comme une élève normale jusqu'au collège.
+  Aozaki Aoko avait vécu comme une élève normale jusqu'au collège.
 
 }
 [sha:8f917735ba9a5fc569c60946202a73482f1b4184]{
 -- Page 44, Offset 16491.
 -- それが突然、姉に代わって家を継ぐ事になってしまった。
-　Puis soudainement, elle avait dû succéder à son grand-père en lieu et place de sa sœur aînée.
+  Puis soudainement, elle avait dû succéder à son grand-père en lieu et place de sa sœur aînée.
 
 }
 [sha:1aae974fbe7d37317f2c1b668d32d944fa2cf1c2]{
 -- Page 45, Offset 16492.
 -- 魔法使いになる、という事は、今までの生活を捨てる、という事らしい。
-　Apparemment, devenir Magicienne impliquait l'abandon de sa vie passée.
+  Apparemment, devenir Magicienne impliquait l'abandon de sa vie passée.
 
 }
 [sha:4cca6534b1bd9da47bc5b0ddd6b4bc1d8f1137a2]{
 -- Page 45, Offset 16493.
 -- 青子は知識としてしか受けとめていなかった魔術師の観念を常識にして、今までの努力も展望も捨てて、違う生き方を余儀なくされた。
-　Elle fut obligée d'oublier tout son dur labeur et ses perspectives d'avenir pour vivre autrement. Alors, le concept de Mage devint normal pour elle qui ne le voyait jusque-là que comme une simple information.
+  Elle fut obligée d'oublier tout son dur labeur et ses perspectives d'avenir pour vivre autrement. Alors, le concept de Mage devint normal pour elle qui ne le voyait jusque-là que comme une simple information.
 
 }
 [sha:d2f01158fd9a41f12b863b2888fc7a5ff1fe86ac]{
 -- Page 45, Offset 16494.
 -- そして、その生き方は、それまでの青子の常識からすれば、苦痛しかともなわない道だった。
-　De plus, selon le bon sens qui était alors le sien, cette voie serait arpentée de souffrances.
+  De plus, selon le bon sens qui était alors le sien, cette voie serait arpentée de souffrances.
 
 }
 [sha:fda883704577c96c4ce637a8cd8a88ad11d61e08]{
 -- Page 46, Offset 16495.
 -- ……青子の祖父は、彼女に強制はしなかった。
-　...... Le grand-père d'Aoko ne l'avait pas forcée.
+  ...... Le grand-père d'Aoko ne l'avait pas forcée.
 
 }
 [sha:f6239fc28472ad6fb86d5cf7fbe875a52ab28537]{
 -- Page 46, Offset 16496.
 -- “姉が駄目になったので、次はおまえだ”としか言わなかったらしい。
-Il semblait ne lui avoir dit que ceci : “Ta grande sœur ne sert plus à rien, tu es donc la suivante.”
+  Il semblait ne lui avoir dit que ceci : “Ta grande sœur ne sert plus à rien, tu es donc la suivante.”
 
 }
 [sha:7f5380fc6f794388546c6c9f0db9ad31f026ba90]{
 -- Page 46, Offset 16497.
 -- 青子はそれを拒んだろうか……？
-　Aoko avait-elle refusé......?
+  Aoko avait-elle refusé......?
 
 }
 [sha:25967210312de34e586f0544d4f5cba40bd6021c]{
 -- Page 46, Offset 16498.
 -- 草十郎には考えもつかない。
-　Sōjūrō n'arrivait même pas à l'imaginer.
+  Sōjūrō n'arrivait même pas à l'imaginer.
 
 }
 [sha:a8f748ca0032d95a26e0a426a675e97744d84549]{
 -- Page 47, Offset 16499.
 -- ……けれど。彼女がそのカードを、喜んで選んでいない事だけは断言できる。
-　...... Néanmoins, il pouvait affirmer qu'elle n'avait pas choisi cette voie de gaieté de cœur.
+  ...... Néanmoins, il pouvait affirmer qu'elle n'avait pas choisi cette voie de gaieté de cœur.
 
 }
 [sha:75fa24465e2a69882130436a8036b16ea629d2ce]{
 -- Page 47, Offset 16500.
 -- 魔法使いとしての生き方が魅力的だったとしても、今までの生活をあっさりと切り捨てる事なんて、あの少女にはあり得ない。
-　Même si la vie de Magicienne était attrayante, il était impensable que cette fille ait pu se débarrasser de sa vie passée sans regrets.
+  Même si la vie de Magicienne était attrayante, il était impensable que cette fille ait pu se débarrasser de sa vie passée sans regrets.
 
 }
 [sha:b3513c49ac0c648d59cf097cb112e8de89302a00]{
 -- Page 48, Offset 16501.
 -- だって、蒼崎青子はいつだって本気で走っていた。
-　Après tout, Aozaki Aoko s'investissait toujours sérieusement.
+  Après tout, Aozaki Aoko s'investissait toujours sérieusement.
 
 }
 [sha:f95b908c031fcb05733f35610daf47d2c33c3104]{
 -- Page 48, Offset 16502.
 -- 必然、彼女の十五年間はその努力の分だけ、十分に報われていた筈だ。
-　Inévitablement, ses quinze années d'efforts avaient dû payer.
+  Inévitablement, ses quinze années d'efforts avaient dû payer.
 
 }
 [sha:866c5c55700173c6273ff2b29b1f23754c0daa21]{
 -- Page 48, Offset 16503.
 -- それまでの成果も、将来の展望も、誰もが羨むだけの輝きを持っていた筈なのだ。
-　Tout le monde devait envier l'éclat qu'elle dégageait, résultat de son travail et de ses perspectives d'avenir.
+  Tout le monde devait envier l'éclat qu'elle dégageait, résultat de son travail et de ses perspectives d'avenir.
 
 }
 [sha:f17fccf8afac657bfa50d8e86ef95a241cf147d0]{
@@ -991,13 +991,13 @@ Pouvait-on vraiment avoir la détermination d'effacer tout cela et de recommence
 [sha:a5ee88afef099a763284d33129aeaf525dd61664]{
 -- Page 49, Offset 16505.
 -- ……単純に、やり直すだけではなく。
-　...... Et il ne suffisait pas de tout recommencer.
+  ...... Et il ne suffisait pas de tout recommencer.
 
 }
 [sha:202f790e23c1ffffb6aea71235de8e6722f3d891]{
 -- Page 49, Offset 16506.
 -- ずっと描いていた<未来|ゆめ>を、完膚無きまでに、殺す事になったとしても。
-　Les rêves qu'elle avait toujours esquissés seraient réduits en morceaux.
+  Les rêves qu'elle avait toujours esquissés seraient réduits en morceaux.
 
 }
 [sha:4dbe4bf4b3dc3975840cf376f2db68dd60a85002]{
@@ -1015,7 +1015,7 @@ Pouvait-on vraiment avoir la détermination d'effacer tout cela et de recommence
 [sha:3b11dd82fc99bd9c679bed987e33a87b11c986d3]{
 -- Page 50, Offset 16509.
 -- 立ち会った私でさえどうかと思うぐらい、簡単に<頷|うなず>きました。
-　Elle a si facilement accepté que même moi qui assistais à la scène, j'ai cru qu'elle était folle.
+  Elle a si facilement accepté que même moi qui assistais à la scène, j'ai cru qu'elle était folle.
 
 }
 [sha:1f5bb0d6c222f070fd86af5367faf17915fe900a]{
@@ -1027,7 +1027,7 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:0628ac3271f51423a3c2a5a2b6d482e28429c98e]{
 -- Page 50, Offset 16511.
 -- 彼女は祖父の期待や蒼崎の責任感からではなく、逃げる事を嫌って、魔術師の道を取ったんですよ」
-　Elle n'a pas choisi cette voie pour répondre aux attentes de son grand-père ou pour prendre ses responsabilités envers la famille Aozaki, mais parce qu'elle déteste fuir.」
+  Elle n'a pas choisi cette voie pour répondre aux attentes de son grand-père ou pour prendre ses responsabilités envers la famille Aozaki, mais parce qu'elle déteste fuir.」
 
 }
 [sha:abd72ce39138651e6f5d96b0f64d0707ad3e1c0c]{
@@ -1039,25 +1039,25 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:37a5951108191f409526eb5f4bfc7b01648f21fc]{
 -- Page 51, Offset 16513.
 -- 今までの自分を嘘にしてしまうのなら―――今までの生活に別れを告げる事を、青子は選んだのです。
-　Au lieu de transformer son existence en mensonge―――elle a préféré dire adieu à son quotidien.
+  Au lieu de transformer son existence en mensonge―――elle a préféré dire adieu à son quotidien.
 
 }
 [sha:4208811b9cb49d9a872ac1a548ac23108c503c25]{
 -- Page 51, Offset 16514.
 -- ま、極端ではありますが。アレは前に進む為なら、全てを捨てられる人間なんです」
-　Il faut avouer que c'est un peu extrême, mais cette fille est prête à tout abandonner pour aller de l'avant.」
+  Il faut avouer que c'est un peu extrême, mais cette fille est prête à tout abandonner pour aller de l'avant.」
 
 }
 [sha:b2fe018f17ce022c69f3c0de8bea22e7782d3b29]{
 -- Page 52, Offset 16515.
 -- 詠梨神父は懐かしむように微笑んだ。
-　Père Eiri sourit avec nostalgie.
+  Père Eiri sourit avec nostalgie.
 
 }
 [sha:8feb9c00e25339bbbb4e27b8ebc9cf3647984578]{
 -- Page 52, Offset 16516.
 -- そこには青子に対する親近感というよりは、保護者としての誇らしさがうかがえた。
-　On y devinait moins de sympathie envers Aoko que de fierté en tant que son gardien.
+  On y devinait moins de sympathie envers Aoko que de fierté en tant que son gardien.
 
 }
 [sha:13fa4ef4fc36dc5a28ced9fe4285df075a96902b]{
@@ -1069,7 +1069,7 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:1b22b8b10b7f7f804c49dbdb004ffa6c36e7f6fd]{
 -- Page 53, Offset 16518.
 -- 彼女の祖父は、橙子が家を出る事も、青子が後継ぎを了解する事も読んだ上で、あの二人を育ててきた」
-　Son grand-père a élevé les deux sœurs en anticipant que Tōko quitterait la maison, et qu'Aoko accepterait de devenir le successeur.」
+  Son grand-père a élevé les deux sœurs en anticipant que Tōko quitterait la maison, et qu'Aoko accepterait de devenir le successeur.」
 
 }
 [sha:1849ec8ae3beef7c49da43d3e301af059d32ba9d]{
@@ -1081,19 +1081,19 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:dc38615058eea2b9f97cb3f0e9954c25b6c4a47e]{
 -- Page 54, Offset 16520.
 -- 祖父の思い通りになる事はありません、なんなら私とメキシコあたりに逃げませんかと。
-　Je lui ai dit qu'elle n'avait pas besoin de suivre les plans de son grand-père, et je lui ai même demandé si elle ne voulait pas fuir avec moi du côté de Mexico.
+  Je lui ai dit qu'elle n'avait pas besoin de suivre les plans de son grand-père, et je lui ai même demandé si elle ne voulait pas fuir avec moi du côté de Mexico.
 
 }
 [sha:9e9ced288d38b64340839a7727748dc9b1e21e5f]{
 -- Page 54, Offset 16521.
 -- ―――しかしまぁ、躊躇なくフられました。
-　―――Cependant, elle a rejeté ma proposition sans hésitation.
+  ―――Cependant, elle a rejeté ma proposition sans hésitation.
 
 }
 [sha:7a680d2df481c0656e7e57ed7d6e69804fd212b0]{
 -- Page 54, Offset 16522.
 -- その時の彼女の返答は、今でも一言一句覚えています」
-　Je me souviens encore de chaque mot de sa réponse.」
+  Je me souviens encore de chaque mot de sa réponse.」
 
 }
 [sha:5b0329423c1a211c5e142855cffd58dd28b32900]{
@@ -1105,127 +1105,127 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:a16d4e84b7eabcf5098e23f092daf6e4253bd794]{
 -- Page 55, Offset 16524.
 -- 私にしかできないなら、正面から受けて立つ。
-　Si j'en suis la seule capable, alors j'y ferai face à bras-le-corps.
+  Si j'en suis la seule capable, alors j'y ferai face à bras-le-corps.
 
 }
 [sha:cddb17c7a393db565a22d87a3a53b4fd98de3212]{
 -- Page 55, Offset 16525.
 -- たとえ不本意で、とつぜん投げこまれた川の中でだって、出来ることはあるはずだもの。
-　Même si on m'a soudainement poussée dans une rivière contre ma volonté, je dois bien pouvoir faire quelque chose.
+  Même si on m'a soudainement poussée dans une rivière contre ma volonté, je dois bien pouvoir faire quelque chose.
 
 }
 [sha:1b860077f4ac553faf3a67948e011123e49bb1df]{
 -- Page 55, Offset 16526.
 -- 逃げるなんてのは最後の最後。
-　Fuir, ce n'est que la toute dernière option.
+  Fuir, ce n'est que la toute dernière option.
 
 }
 [sha:ab83ea7455232a67fb645bdc0cbf57fbbbcb07fc]{
 -- Page 55, Offset 16527.
 -- それまでは、せいぜい華麗に踊ってやるわ』
-　Jusqu'à ce moment-là, je danserai avec splendeur.』
+  Jusqu'à ce moment-là, je danserai avec splendeur.』
 
 }
 [sha:e04775ae7906bc5ed9d883f66e9c3f21bb2892ed]{
 -- Page 56, Offset 16528.
 -- 過去を懐かしむように、神父は少女の台詞を暗唱した。
-　Le prêtre récita le discours de la jeune fille d'un air nostalgique.
+  Le prêtre récita le discours de la jeune fille d'un air nostalgique.
 
 }
 [sha:4e1cc615f1cdb1efc19fec0c7b683cdf84d1691e]{
 -- Page 56, Offset 16529.
 -- それは、たしかに彼女らしい台詞だった。
-　En effet, ces mots lui ressemblaient bien.
+  En effet, ces mots lui ressemblaient bien.
 
 }
 [sha:57da14237081c9abee896903900b9dc4d1dc7e9d]{
 -- Page 56, Offset 16530.
 -- 病室で青子と交わした最後の台詞は、たぶんそういう意味なのだ。
-　Les dernières paroles qu'elle avait prononcées dans la chambre avaient probablement ce sens-là.
+  Les dernières paroles qu'elle avait prononcées dans la chambre avaient probablement ce sens-là.
 
 }
 [sha:1c071f4a6a2b1dc18f8ee0e3280961ffb804dbea]{
 -- Page 57, Offset 16531.
 -- 観客はもちろんいるし、喝采も当然のように求めるべきものだ。
-　Bien sûr, il y avait une audience, et on s'attendait naturellement à des ovations.
+  Bien sûr, il y avait une audience, et on s'attendait naturellement à des ovations.
 
 }
 [sha:610105265f69bfa2fd3c0b2fdb3ee0fe66b4800e]{
 -- Page 57, Offset 16532.
 -- けれど、それを一番初めに贈るのは自分であって、決して他人ではない。
-　Cela dit, on décerne ces ovations à soi-même en premier, et non pas à autrui.
+  Cela dit, on décerne ces ovations à soi-même en premier, et non pas à autrui.
 
 }
 [sha:2fb4a85c18d6b2ebf660d5e1edd55a89d3ffb2ef]{
 -- Page 57, Offset 16533.
 -- 周りに認められるより先に、あの少女はまず、自分自身に胸を張れるよう走ってきた。
-　Avant d'obtenir le consentement de son entourage, la jeune fille était d'abord allée de l'avant pour être fière d'elle-même.
+  Avant d'obtenir le consentement de son entourage, la jeune fille était d'abord allée de l'avant pour être fière d'elle-même.
 
 }
 [sha:d27e6defceec868ef6a9a08e376508294a6bc54a]{
 -- Page 58, Offset 16534.
 -- せめて美しく。
-　Elle se devait au moins d'être magnifique.
+  Elle se devait au moins d'être magnifique.
 
 }
 [sha:0b392f0e0a09b4ffc595a8ccf2e168de6534f7e8]{
 -- Page 58, Offset 16535.
 -- 無くしてきた多くのものに応えられるように、たとえ地上に一人きりになっても、ああやってやせ我慢を続けるのだ。
-　Elle continuait ainsi à faire la brave, même si elle devait finir seule au monde, afin de pouvoir compenser les nombreuses choses qu'elle avait perdues.
+  Elle continuait ainsi à faire la brave, même si elle devait finir seule au monde, afin de pouvoir compenser les nombreuses choses qu'elle avait perdues.
 
 }
 [sha:561ae4d5b9c0708f414fa3e13d1d3f7521b0d3ad]{
 -- Page 59, Offset 16536.
 -- なぜ羨んでいるのかなんて、言葉にするまでもない。
-　Il comprenait pourquoi il l'enviait.
+  Il comprenait pourquoi il l'enviait.
 
 }
 [sha:738d9753d747a52d3ba982dd867a0ca79e7969fe]{
 -- Page 59, Offset 16537.
 -- 彼には、彼女の在り方があまりにも誇らしかった。
-　Pour lui, elle vivait de manière bien trop fière.
+  Pour lui, elle vivait de manière bien trop fière.
 
 }
 [sha:7ec1b908cdcac405d7922b9e525315c9912d6d0c]{
 -- Page 60, Offset 16538.
 -- 全てを受け入れていながら、その実、何も手に入れていない人間がいて、
-　Il était une fois un homme qui acceptait tout, mais qui en réalité n'avait rien en sa possession,
+  Il était une fois un homme qui acceptait tout, mais qui en réalité n'avait rien en sa possession,
 
 }
 [sha:72587dfc13bbcef1b1b236da1939c362439d0348]{
 -- Page 60, Offset 16539.
 -- 全てを捨ててきたようで、その実、何一つ失ってはいない少女がいた。
-　et une fille qui semblait avoir tout abandonné, mais qui en réalité n'avait rien perdu.
+  et une fille qui semblait avoir tout abandonné, mais qui en réalité n'avait rien perdu.
 
 }
 [sha:29057bc1fae697a90d0961e5f8c6acf41704748a]{
 -- Page 61, Offset 16540.
 -- ……まだ誰とも出会っていなかった雨の会議室。
-　...... Ce jour de pluie, dans la salle de conférence, lorsqu'il n'avait encore rencontré personne,
+  ...... Ce jour de pluie, dans la salle de conférence, lorsqu'il n'avait encore rencontré personne,
 
 }
 [sha:3586ecf648fd5b27deda31bdb024faf1eb2fd678]{
 -- Page 61, Offset 16541.
 -- 自らの醜さと、
-　il avait aperçu sa propre laideur,
+  il avait aperçu sa propre laideur,
 
 }
 [sha:1ae53d8e1474bf8b73ba0d22d882d176a322aa04]{
 -- Page 61, Offset 16542.
 -- 正反対の気高さを見た。
-　et une noblesse diamétralement opposée.
+  et une noblesse diamétralement opposée.
 
 }
 [sha:8949f5bdcabe6cfea8a26049f0fb4a027de26f95]{
 -- Page 61, Offset 16543.
 -- 思えばあの時。
-　À présent qu'il y pensait,
+  À présent qu'il y pensait,
 
 }
 [sha:c0a0696c3358efd452428e7da169a02b65d2e673]{
 -- Page 61, Offset 16544.
 -- 彼はようやく、自分の棘に気が付いたのだ。
-　c'était à ce moment-là qu'il avait enfin remarqué son atypisme.
+  c'était à ce moment-là qu'il avait enfin remarqué son atypisme.
 
 }
 [sha:110e678459c6a0801c107857b49da129b4929caa]{
@@ -1237,31 +1237,31 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:6afab2b9a063a90ae4fb429f47dff2ab79e9cc6b]{
 -- Page 62, Offset 16546.
 -- ま、青子は青子でれっきとした美人ですが」
-　Enfin, elle reste une vraie beauté.」
+  Enfin, elle reste une vraie beauté.」
 
 }
 [sha:b78452e0fb83653f3a00c1dac7e871fcb11d293e]{
 -- Page 63, Offset 16547.
 -- 少年はうなずく。
-　Le jeune homme acquiesça.
+  Le jeune homme acquiesça.
 
 }
 [sha:bba79bc8f3546357e1ddd90a97261a9c2450d96d]{
 -- Page 63, Offset 16548.
 -- 初めて少女に出会ったあの日。
-　Ces mots résumaient parfaitement ce qu'il avait ressenti ce jour-là,
+  Ces mots résumaient parfaitement ce qu'il avait ressenti ce jour-là,
 
 }
 [sha:41c7a59db6da7a3f740a10093bd5fa7ffd14b607]{
 -- Page 63, Offset 16549.
 -- 無意識に感じた印象は、それ以外の何物でもないと。
-　lors de sa rencontre avec la jeune fille.
+  lors de sa rencontre avec la jeune fille.
 
 }
 [sha:41d16507670c82bd852110a68116d555d8d6cad3]{
 -- Page 63, Offset 16550.
 -- 強い眼差しと、ただ自分であろうとする彼女の意志に、彼はあんなにも見惚れたのだ。
-　Son regard déterminé et sa volonté de rester elle-même l'avaient complètement fasciné.
+  Son regard déterminé et sa volonté de rester elle-même l'avaient complètement fasciné.
 
 }
 [sha:ae15ecf6363b6bdff56b6ffbc7fd70e6212ad4ef]{
@@ -1279,36 +1279,36 @@ Elle serrait ses doigts tremblants de toutes ses forces en prenant une posture r
 [sha:1debe0f086b8fedceeab0ece5978a5858c88764d]{
 -- Page 64, Offset 16553.
 -- 神父の同意は心からのものだ。
-　approuva avec sincérité le prêtre.
+  approuva avec sincérité le prêtre.
 
 }
 [sha:e1b6b8f768f49b4d699fc3c9c25ed3643d9eb4d7]{
 -- Page 64, Offset 16554.
 -- 草十郎は小さく、この数時間の自分の馬鹿さかげんを笑うように頬をかいて、顔を上げた。
-　Sōjūrō se gratta un peu la joue, comme pour se débarrasser de la stupidité dont il avait fait preuve pendant ces quelques heures, puis releva la tête.
+  Sōjūrō se gratta un peu la joue, comme pour se débarrasser de la stupidité dont il avait fait preuve pendant ces quelques heures, puis releva la tête.
 
 }
 [sha:5304a829f144fc32ad304470c4fc04feff288d41]{
 -- Page 65, Offset 16555.
 -- 正体不明の気持ちはまだ持て余しているが、どうもそれは解決しなくてもいいものらしい。
-　Il ne savait encore que faire de ce sentiment inconnu, mais apparemment, il n'avait pas à trouver de solution.
+  Il ne savait encore que faire de ce sentiment inconnu, mais apparemment, il n'avait pas à trouver de solution.
 
 }
 [sha:98b569c4fa023b5f502048ae4b6cc2807026e3d8]{
 -- Page 65, Offset 16556.
 -- いてもたってもいられず立ち上がる。
-　Incapable de rester en place, il se leva.
+  Incapable de rester en place, il se leva.
 
 }
 [sha:cc833df6150e54b6b0b032f43347a6328c09842d]{
 -- Page 65, Offset 16557.
 -- 蒼崎の家のことも、魔術師同士の争いも、死にに行こうとする青子のことも、どうでもいい。
-　La famille Aozaki, les combats de Mages ou le fait qu'Aoko allait au-devant de la mort n'avaient aucune espèce d'importance.
+  La famille Aozaki, les combats de Mages ou le fait qu'Aoko allait au-devant de la mort n'avaient aucune espèce d'importance.
 
 }
 [sha:f3f117befca61daa4aa2865c90df73c2b9f390da]{
 -- Page 65, Offset 16558.
 -- 今はただ、彼女の顔が見たかった。
-　Pour l'heure, il voulait seulement voir son visage.
+  Pour l'heure, il voulait seulement voir son visage.
 
 }

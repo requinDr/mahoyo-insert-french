@@ -7,7 +7,7 @@
 [sha:7ffcfef3b4496df5194f89991db1f39ea8f52eec]{
 -- Page 0, Offset 23283.
 -- それよりだ、久万梨。ネックは<何時|いつ>殺したか、じゃなく、どうやって殺したか、だと思わねえか？」
-　À part ça, Kumari, tu ne penses pas que la difficulté est de savoir comment ils ont été tués plutôt que quand ?」
+  À part ça, Kumari, tu ne penses pas que la difficulté est de savoir comment ils ont été tués plutôt que quand ?」
 
 }
 [sha:01442b86b82f759fe77dd73dd1bd186ee93cfc32]{
@@ -19,37 +19,37 @@
 [sha:80cb55bfb97054a7c0402523fed399559918d1b9]{
 -- Page 1, Offset 23285.
 -- 殺害可能時間は平等にあっても、そのセンスだけは限られる。この点で言えば、まあ、草十郎やらベオやら木乃美やらは除外される」
-　On peut considérer que tout le monde est suspect au niveau de l'heure des meurtres, mais ce sens de l'humour se limite à un nombre restreint de personnes. Ma foi, on peut sûrement exclure Sōjūrō, Beo et Kinomi sur ce point-là.」
+  On peut considérer que tout le monde est suspect au niveau de l'heure des meurtres, mais ce sens de l'humour se limite à un nombre restreint de personnes. Ma foi, on peut sûrement exclure Sōjūrō, Beo et Kinomi sur ce point-là.」
 
 }
 [sha:9dc85daf39b55b073c61656c83d01b2f5ee013d6]{
 -- Page 2, Offset 23286.
 -- 槻司はさも興味深そうに、今まで検討されてこなかった問題点を挙げた。
-　Tsukiji releva d'un air intéressé les points fâcheux qui n'avaient pas été étudiés jusqu'à présent.
+  Tsukiji releva d'un air intéressé les points fâcheux qui n'avaient pas été étudiés jusqu'à présent.
 
 }
 [sha:06d991f6d09949c61e83ce76be2feb9899ef6fda]{
 -- Page 2, Offset 23287.
 -- たしかにそれは盲点だった。
-　Nous avions effectivement laissé passer ce détail.
+  Nous avions effectivement laissé passer ce détail.
 
 }
 [sha:94edbcf80bb9ab2d05ac3fe18c6cef1b1131d187]{
 -- Page 2, Offset 23288.
 -- 笑いが滑るだけの芳助、まだジョークを理解していないベオには難易度が高すぎる。
-　Pour Hōsuke dont les blagues n'étaient jamais drôles, et Beo qui ne comprenait pas encore le sens de l'humour, la difficulté de la tâche était trop élevée.
+  Pour Hōsuke dont les blagues n'étaient jamais drôles, et Beo qui ne comprenait pas encore le sens de l'humour, la difficulté de la tâche était trop élevée.
 
 }
 [sha:488a9aa6e680602e22944b5dd2bfe497eb64e7c9]{
 -- Page 2, Offset 23289.
 -- 静希に至っては『冗談のセンスがない』とみんなにダメだしされるほどのボケ体質だし。
-　Et Shizuki était un tel benêt que tout le monde considérait qu'il avait un sens de l'humour inexistant.
+  Et Shizuki était un tel benêt que tout le monde considérait qu'il avait un sens de l'humour inexistant.
 
 }
 [sha:082b07d98cadd6e325d8ab665febcaff72425d08]{
 -- Page 3, Offset 23290.
 -- 問題点を語りあっているうちに、時間は午前三時になろうとしていた。
-　L'aiguille de l'horloge avait fini par pointer vers trois heures du matin, alors qu'on discutait de ces points problématiques.
+  L'aiguille de l'horloge avait fini par pointer vers trois heures du matin, alors qu'on discutait de ces points problématiques.
 
 }
 [sha:afc8783ac876a5c2b9053cbcedecd0760fe42ed8]{
@@ -61,13 +61,13 @@
 [sha:a356fe9de3c0e17c94b53dde213854981b9f805a]{
 -- Page 3, Offset 23292.
 -- 気が緩んだ訳ではないけど、さすがに眠気が襲ってくる。
-　Je ne m'étais pas laissée aller, loin de là mon intention, mais le sommeil commençait à m'assaillir.
+  Je ne m'étais pas laissée aller, loin de là mon intention, mais le sommeil commençait à m'assaillir.
 
 }
 [sha:74a851ac148d1b245de0fef86440bba9431720d7]{
 -- Page 3, Offset 23293.
 -- こんな一日を経験したら、誰だってそろそろエネルギー切れだ。
-　N'importe qui aurait été à bout de forces après avoir vécu une journée pareille.
+  N'importe qui aurait été à bout de forces après avoir vécu une journée pareille.
 
 }
 [sha:1d542779a692b76cc5f938fe2a255da5a5947879]{
@@ -79,12 +79,12 @@
 [sha:6cb0c320588d5024385fc3437fe24dd1e8dafc39]{
 -- Page 5, Offset 23295.
 -- 蒼崎に化けたスイーツハーツ、あるいは他の人物Ａに化けたスイーツハーツの侵入を警戒しての意見だろう。
-　C'était sûrement une mesure de précaution à l'encontre de Sweets Hearts transformé en Aozaki, ou en un autre individu A.
+  C'était sûrement une mesure de précaution à l'encontre de Sweets Hearts transformé en Aozaki, ou en un autre individu A.
 
 }
 [sha:f73f1f4b04de8fbb2bf28a0890b6d3a913c150da]{
 -- Page 5, Offset 23296.
 -- わた、わたしは、
-　Je... Je...
+  Je... Je...
 
 }

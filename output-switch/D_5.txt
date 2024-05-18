@@ -1,55 +1,55 @@
 [sha:49077d27e19ca250ac2084379d303f2b7e7113e1]{
 -- Page 0, Offset 19074.
 -- 道はいつしか、<畦道|あぜみち>から山道になっていた。
-　Le chemin avait fini par prendre l'aspect d'un sentier de montagne.
+  Le chemin avait fini par prendre l'aspect d'un sentier de montagne.
 
 }
 [sha:f18c41208256a6a2424ba7734e803524fd6083bc]{
 -- Page 0, Offset 19075.
 -- 小振りな山は思いのほか<拓|ひら>けていて、木々はあるものの、山道は横に広い。
-　Le mont de petite taille offrait une vue plutôt dégagée, et la route était large malgré le terrain boisé.
+  Le mont de petite taille offrait une vue plutôt dégagée, et la route était large malgré le terrain boisé.
 
 }
 [sha:a9f015a15b16aa539db7895475322f46a0411ed5]{
 -- Page 0, Offset 19076.
 -- 自然の並木道は<延々|えんえん>と山頂に向かっている。
-　Le chemin naturel bordé d'arbres s'étendait au loin vers le sommet.
+  Le chemin naturel bordé d'arbres s'étendait au loin vers le sommet.
 
 }
 [sha:2248a45f91824975c0307e475cee50d2e5b93ef5]{
 -- Page 1, Offset 19077.
 -- 土の道には<轍|わだち>がある。
-　Des traces de pneu se dessinaient sur le chemin terreux.
+  Des traces de pneu se dessinaient sur le chemin terreux.
 
 }
 [sha:c0d50782960d66cef3259ada1bb3b0a1676a3728]{
 -- Page 1, Offset 19078.
 -- おそらく蒼崎の家から車が通っているのだろう。
-　Une voiture empruntait sans doute régulièrement ce passage depuis la maison des Aozaki.
+  Une voiture empruntait sans doute régulièrement ce passage depuis la maison des Aozaki.
 
 }
 [sha:c41c6c8da814556275dc44e4049fd186b3978c18]{
 -- Page 1, Offset 19079.
 -- はげ山には街灯も民家もなく、明かりは星と月の光だけだった。
-　La montagne, déserte, était dépourvue de réverbères et d'habitations. Aoko et Sōjūrō devaient se fier à la lueur des étoiles et au clair de lune pour avancer.
+  La montagne, déserte, était dépourvue de réverbères et d'habitations. Aoko et Sōjūrō devaient se fier à la lueur des étoiles et au clair de lune pour avancer.
 
 }
 [sha:da6df6c1a48bfe9d83f7f90a49fcecce18fe408c]{
 -- Page 2, Offset 19080.
 -- 山道の傾斜は、段々と平坦になっていく。
-　La pente s'adoucissait progressivement.
+  La pente s'adoucissait progressivement.
 
 }
 [sha:5144b61729030761f465c126973c99ace7027506]{
 -- Page 2, Offset 19081.
 -- 道はずっと先にある民家の前で途切れようとしていた。
-　La route semblait s'interrompre devant la maison au loin.
+  La route semblait s'interrompre devant la maison au loin.
 
 }
 [sha:c841b4fb564a516ef969154abcf177180f1e7a9f]{
 -- Page 2, Offset 19082.
 -- まだ遠くで建物の<輪郭|りんかく>も掴めないけれど、暖かそうな窓明かりから、あれが蒼崎の家だろうと草十郎は読み取った。
-　Ils étaient encore trop loin pour en distinguer les contours, mais Sōjūrō comprit, d'après la lumière chaleureuse qui filtrait à travers les fenêtres, qu'il devait s'agir de la maison des Aozaki.
+  Ils étaient encore trop loin pour en distinguer les contours, mais Sōjūrō comprit, d'après la lumière chaleureuse qui filtrait à travers les fenêtres, qu'il devait s'agir de la maison des Aozaki.
 
 }
 [sha:20b9d5cc633e2da57328528e84be6f58eef05a13]{
@@ -61,25 +61,25 @@
 [sha:90e1bcd91f24ab2619daccfdc33368cb90bc9ae5]{
 -- Page 3, Offset 19084.
 -- 一家<団欒|だんらん>する青子の姿は想像しにくかったが、無理やりしてみると、それはそれでたいへん幸福そうな場面が想像できた。
-　Il avait du mal à imaginer Aoko dans l'intimité d'une réunion familiale, mais après quelques essais, il parvint à imaginer une scène de bonheur.
+  Il avait du mal à imaginer Aoko dans l'intimité d'une réunion familiale, mais après quelques essais, il parvint à imaginer une scène de bonheur.
 
 }
 [sha:ea9ffd673fc6faf3b01a75dd9e0e4f55c7639d4e]{
 -- Page 3, Offset 19085.
 -- 自分が入る事でそれを壊すのは<忍|しの>びなく、草十郎は青子にそう訊ねたのだ。
-　Sōjūrō avait posé la question car il n'aurait pas supporté de briser cette image par son intrusion.
+  Sōjūrō avait posé la question car il n'aurait pas supporté de briser cette image par son intrusion.
 
 }
 [sha:18ebea52fab29a68c8ad889b6848f9985579638c]{
 -- Page 4, Offset 19086.
 -- 草十郎としては今から帰っても、ここで一晩<野営|やえい>しても文句はない。
-　Il n'aurait pas rechigné à rentrer au manoir tout de suite ou à camper pour la nuit,
+  Il n'aurait pas rechigné à rentrer au manoir tout de suite ou à camper pour la nuit,
 
 }
 [sha:94ffc79e756ad74cc7146d17a9eacb1c7ac959e7]{
 -- Page 4, Offset 19087.
 -- けれど、青子の返答は予想外のものだった。
-　mais la réponse d'Aoko fut pour le moins inattendue.
+  mais la réponse d'Aoko fut pour le moins inattendue.
 
 }
 [sha:94de42fc731eba3042135803227970676672cddf]{
@@ -91,19 +91,19 @@
 [sha:11a139e9e73bf69b379cc44db249625fb70182a3]{
 -- Page 5, Offset 19089.
 -- たぶん、そこで今日までの記憶を消されるわ」
-　Il effacera sans doute ta mémoire du mois dernier.」
+  Il effacera sans doute ta mémoire du mois dernier.」
 
 }
 [sha:015e9a826b5f8bed2545659c4731c5026fcd6477]{
 -- Page 5, Offset 19090.
 -- ぴたりと足を止めて青子はそう言った。
-　dit Aoko en s'arrêtant soudainement de marcher.
+  dit Aoko en s'arrêtant soudainement de marcher.
 
 }
 [sha:2bae73d643ae861032533e543a9f84879b260313]{
 -- Page 5, Offset 19091.
 -- 今までの打ち解けた雰囲気もなく、他人と話すように。
-　Le ton amical avait fait place à un ton indifférent.
+  Le ton amical avait fait place à un ton indifférent.
 
 }
 [sha:bc188f0f6081a4de64e723467b287c86846f7c82]{
@@ -115,13 +115,13 @@
 [sha:a65fec35597abb31b178702608b5d1cc40dd6f05]{
 -- Page 6, Offset 19093.
 -- 驚いて、草十郎も足を止める。
-　Surpris, Sōjūrō s'immobilisa à son tour.
+  Surpris, Sōjūrō s'immobilisa à son tour.
 
 }
 [sha:48cf00f095c946602322c805da54d0974727868d]{
 -- Page 6, Offset 19094.
 -- 追い抜いてしまった青子を振り返ると、それが真実である事がはっきりと分かった。
-　Il se retourna vers la jeune fille qu'il avait dépassée et comprit qu'elle ne plaisantait pas.
+  Il se retourna vers la jeune fille qu'il avait dépassée et comprit qu'elle ne plaisantait pas.
 
 }
 [sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{
@@ -133,13 +133,13 @@
 [sha:3fd87b7d61ddf5158d6c4e814efae0f74edfdc12]{
 -- Page 7, Offset 19096.
 -- 睨むような沈黙と、それを自然に受けとめる草十郎。
-　Malgré le silence oppressant qui s'installa, Sōjūrō accepta le fait tout naturellement.
+  Malgré le silence oppressant qui s'installa, Sōjūrō accepta le fait tout naturellement.
 
 }
 [sha:a05ae8192a6ddfcba0963d6e1430811267661781]{
 -- Page 7, Offset 19097.
 -- 先に口を開けたのは、やっぱり青子だった。
-　Finalement, Aoko fut la première à reprendre la parole.
+  Finalement, Aoko fut la première à reprendre la parole.
 
 }
 [sha:772a8f444e5aae224731f619645944643f9bf72d]{
@@ -163,19 +163,19 @@
 [sha:3d6a0a7b0edba16b0b7846825ffe8ae1515d0893]{
 -- Page 9, Offset 19101.
 -- なるほど、と少年はうなずく。
-　Le jeune homme acquiesça en signe de compréhension.
+  Le jeune homme acquiesça en signe de compréhension.
 
 }
 [sha:237e48fc54268b2df91a4fe03a2068e8f586a995]{
 -- Page 9, Offset 19102.
 -- 夜は<密|ひそ>やかに変わりなく、少年も、なにひとつ変わりはなかった。
-　Tout comme la nuit calme qui ne montrait aucun changement, le garçon restait imperturbable.
+  Tout comme la nuit calme qui ne montrait aucun changement, le garçon restait imperturbable.
 
 }
 [sha:6c130e4a70afecfd393b33de641e77204bb0ea08]{
 -- Page 9, Offset 19103.
 -- ……目前の少女が、その在り方を憎らしいと思うほどに。
-　...... Si bien que la jeune fille trouvait cette façon d'être détestable.
+  ...... Si bien que la jeune fille trouvait cette façon d'être détestable.
 
 }
 [sha:526b355887b2fd9849e3f130f288ea1ee785c22c]{
@@ -193,7 +193,7 @@
 [sha:80e2a1e517bd0f75e1b659b45b33927e4673b516]{
 -- Page 10, Offset 19106.
 -- 歩きだそうとする草十郎を、青子は声で引き止める。
-　Aoko arrêta ce dernier alors qu'il était sur le point de repartir.
+  Aoko arrêta ce dernier alors qu'il était sur le point de repartir.
 
 }
 [sha:dd9aac2b79d46a8d80c3f001e250eb0813b499f6]{
@@ -205,25 +205,25 @@
 [sha:99dc55e0c5fc269144b81bd0e998c2f741cc10c3]{
 -- Page 10, Offset 19108.
 -- 記憶を消されるって事は、今までの一ヶ月がなくなるのと同じなのよ」
-　Perdre ta mémoire équivaut à voir le mois dernier disparaître, tu sais ?」
+  Perdre ta mémoire équivaut à voir le mois dernier disparaître, tu sais ?」
 
 }
 [sha:cd228584428d9653a1ff46613cce5b953a963fa5]{
 -- Page 11, Offset 19109.
 -- 青子の問いに、草十郎はそうか、と呟いた。
-　“Je vois”, répondit-il dans un murmure.
+  “Je vois”, répondit-il dans un murmure.
 
 }
 [sha:4168651a3ca98937279a561db39b7015539d41e6]{
 -- Page 11, Offset 19110.
 -- 青子の事はもちろん、有珠の事や、あの洋館での暮らしを忘れて一ヶ月前の自分に戻るのは、手に入れかけた宝物を無くしてしまうような気がする。
-　Redevenir celui qu'il était un mois auparavant, oublier Aoko, Alice et sa vie dans le manoir, tout cela lui donnait le sentiment de perdre le trésor qu'il avait enfin obtenu.
+  Redevenir celui qu'il était un mois auparavant, oublier Aoko, Alice et sa vie dans le manoir, tout cela lui donnait le sentiment de perdre le trésor qu'il avait enfin obtenu.
 
 }
 [sha:f35b3f435290f42f1abb336262f96f4a51ac1162]{
 -- Page 11, Offset 19111.
 -- けれど、それを惜しいと、彼は思わなかった。
-　Mais il ne trouvait pas cela regrettable.
+  Mais il ne trouvait pas cela regrettable.
 
 }
 [sha:72f03c00f3adb905996cf076df9c2e8edcb6f0cc]{
@@ -235,49 +235,49 @@
 [sha:e06a6d348aef5d6cff4f2b5388457081de4c3b0e]{
 -- Page 12, Offset 19113.
 -- でも蒼崎が消えるわけじゃないんだろう？　冬休みが終われば、また学校で会えるじゃないか」
-　Mais ce n'est pas comme si tu allais disparaître, pas vrai ? Après les vacances de Noël, on se reverra à l'école.」
+  Mais ce n'est pas comme si tu allais disparaître, pas vrai ? Après les vacances de Noël, on se reverra à l'école.」
 
 }
 [sha:6889eef9df426df6fb961cff8ee3ea40657f5991]{
 -- Page 13, Offset 19114.
 -- それに青子は返答しなかった。
-　Aoko ne répondit pas.
+  Aoko ne répondit pas.
 
 }
 [sha:0d62f2c409989ccdd288317e07401294eb8088c9]{
 -- Page 13, Offset 19115.
 -- 青子はあえて口にはしなかったが、記憶を消されるのは草十郎だけではない。
-　Elle n'avait pas osé le révéler, mais Sōjūrō ne serait pas le seul à être victime d'un effacement de mémoire.
+  Elle n'avait pas osé le révéler, mais Sōjūrō ne serait pas le seul à être victime d'un effacement de mémoire.
 
 }
 [sha:01c26c1f7247e482a5b2da7b1e55d53b88b9bebf]{
 -- Page 13, Offset 19116.
 -- 彼女の祖父が介入する以上、青子も草十郎に関する記憶を消されるのだ。
-　Si son grand-père s'en mêlait, Aoko perdrait également tout souvenir concernant le jeune homme.
+  Si son grand-père s'en mêlait, Aoko perdrait également tout souvenir concernant le jeune homme.
 
 }
 [sha:05ca69483d5a63903ca0eb528c3cade653eb7b56]{
 -- Page 14, Offset 19117.
 -- その後には、お互いの接点はないように思われた。
-　Elle estimait qu'ils n'auraient vraisemblablement plus aucun contact par la suite.
+  Elle estimait qu'ils n'auraient vraisemblablement plus aucun contact par la suite.
 
 }
 [sha:45baaaa3dddba25008290a4873613d0d569aeb39]{
 -- Page 14, Offset 19118.
 -- こんな関係になる事もなく、ただ気に食わない生徒にしか見えない。
-　En l'absence de leur relation actuelle, elle ne le verrait que comme un élève qu'elle n'appréciait guère.
+  En l'absence de leur relation actuelle, elle ne le verrait que comme un élève qu'elle n'appréciait guère.
 
 }
 [sha:4f5bda64e10cbc10ad512a0b7e0d65379f60c0fd]{
 -- Page 14, Offset 19119.
 -- どんなに優れた偶然が働いても、もう、今の状況には戻れない。
-　Même le plus grand des hasards ne leur permettrait pas de se retrouver à nouveau dans cette situation.
+  Même le plus grand des hasards ne leur permettrait pas de se retrouver à nouveau dans cette situation.
 
 }
 [sha:fd59c852f4565be0c9b2769f22f45b2ba2816248]{
 -- Page 14, Offset 19120.
 -- ……それを少し残念だと思うのは、たしかに、未練だと認めるしかない。
-　...... Puisqu'elle regrettait leur relation, elle était bien obligée de reconnaître qu'elle s'était attachée à lui.
+  ...... Puisqu'elle regrettait leur relation, elle était bien obligée de reconnaître qu'elle s'était attachée à lui.
 
 }
 [sha:f55ead246196427e635cc84813c356d73b113ca6]{
@@ -289,31 +289,31 @@
 [sha:17e62cd7106483af10d500db1d28651d21dcc60a]{
 -- Page 15, Offset 19122.
 -- 整理のつかないまま、理屈だけで感情を切り捨てて、青子は歩きだした。
-　Aoko se remit en route en refoulant ses sentiments par la raison, sans prendre la peine de remettre de l'ordre dans ses idées.
+  Aoko se remit en route en refoulant ses sentiments par la raison, sans prendre la peine de remettre de l'ordre dans ses idées.
 
 }
 [sha:8f22b43cae27cf6bb5580445b61e727ba4f969ed]{
 -- Page 15, Offset 19123.
 -- そのとなりに草十郎は付き添っていく。
-　Sōjūrō lui emboîta le pas.
+  Sōjūrō lui emboîta le pas.
 
 }
 [sha:b7f2b7947ba0ef2bdd13a5534e2da8c287921c57]{
 -- Page 16, Offset 19124.
 -- 目的地まであと数分。
-　Il ne leur restait plus que quelques minutes avant d'arriver à destination.
+  Il ne leur restait plus que quelques minutes avant d'arriver à destination.
 
 }
 [sha:fc8705c73d0b1b62ff168e964aee878a8e18009a]{
 -- Page 16, Offset 19125.
 -- 草十郎はいつも通りの顔で歩いていて、青子にはそれが腹立たしい。
-　Sōjūrō marchait de son air parfaitement serein, ce qui irritait Aoko au plus haut point.
+  Sōjūrō marchait de son air parfaitement serein, ce qui irritait Aoko au plus haut point.
 
 }
 [sha:5ae7cdf91b445473ac529b952ae3c4e7ce06bd40]{
 -- Page 16, Offset 19126.
 -- こっちはホンの少しだけど未練と思っているのに、この男は<微塵|みじん>もそう思っていないのだ。
-　Alors qu'elle admettait regretter légèrement la future disparition de leur relation, ce n'était pas du tout le cas de ce jeune homme.
+  Alors qu'elle admettait regretter légèrement la future disparition de leur relation, ce n'était pas du tout le cas de ce jeune homme.
 
 }
 [sha:ebc0ef94eb38b524865d6200dfb43514034ee789]{
@@ -325,37 +325,37 @@
 [sha:bd7795a1205a99f0e01c78c87f28ecc4bf75c77e]{
 -- Page 17, Offset 19128.
 -- つい憎まれ口を叩いて、青子は唐突に思い出した。
-　Alors qu'elle le dénigrait, la mémoire lui revint.
+  Alors qu'elle le dénigrait, la mémoire lui revint.
 
 }
 [sha:d9eaf475cee0a2a5e7767b0498ceb3e66371aa48]{
 -- Page 17, Offset 19129.
 -- いや、思い至ってしまった。
-　Ou plutôt, ses pensées la menèrent à ce souvenir.
+  Ou plutôt, ses pensées la menèrent à ce souvenir.
 
 }
 [sha:bffe6fc24414a371051191739fecdf07a9118d72]{
 -- Page 18, Offset 19130.
 -- 一度きりの狼退治。
-　Le souvenir de la chasse au loup.
+  Le souvenir de la chasse au loup.
 
 }
 [sha:db74a112b3b9eb25be8a15f5aeec7ee7f120a6e6]{
 -- Page 18, Offset 19131.
 -- 静希草十郎とは何者なのか、という不明点を。
-　Un point obscur subsistait : qui était Shizuki Sōjūrō, au juste ?
+  Un point obscur subsistait : qui était Shizuki Sōjūrō, au juste ?
 
 }
 [sha:f36180620dc5f9bd9d90526b75f040aa549a1290]{
 -- Page 18, Offset 19132.
 -- あの夜の青子は草十郎の<時間|きおく>を知ってはいたが、今の青子は知る<由|よし>もない。
-　Cette nuit-là, Aoko avait été en possession de la mémoire du jeune homme, mais à présent, elle n'avait aucun moyen de le savoir.
+  Cette nuit-là, Aoko avait été en possession de la mémoire du jeune homme, mais à présent, elle n'avait aucun moyen de le savoir.
 
 }
 [sha:8a426d245530c37ed470e6746c0c115097380f4b]{
 -- Page 18, Offset 19133.
 -- この凡庸な少年の間違い。
-　Elle l'avait initialement pris pour un garçon banal.
+  Elle l'avait initialement pris pour un garçon banal.
 
 }
 [sha:feaac9882453b66137ac57db8a67006c6ae71c71]{
@@ -367,13 +367,13 @@ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait
 [sha:8b1db82fe62508c518b842e51a94f1c4b59c46b7]{
 -- Page 19, Offset 19135.
 -- 今まで気になってはいたものの、ついに聞き出す機会には恵まれなかった。
-　La question la taraudait depuis longtemps, mais elle n'avait jamais eu l'opportunité de l'interroger à ce sujet.
+  La question la taraudait depuis longtemps, mais elle n'avait jamais eu l'opportunité de l'interroger à ce sujet.
 
 }
 [sha:cbd36694aba346befdb7f2834bdd905918885c2d]{
 -- Page 19, Offset 19136.
 -- その疑問も、祖父に会えば疑問と思う事さえなくなってしまうだろう。
-　Et dès qu'elle rencontrerait son grand-père, cette question n'aurait même plus lieu d'être.
+  Et dès qu'elle rencontrerait son grand-père, cette question n'aurait même plus lieu d'être.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -385,13 +385,13 @@ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait
 [sha:4b65dcfa5569160fbd062e0f8e064ee86149ec15]{
 -- Page 20, Offset 19138.
 -- たとえすぐに忘れてしまうにしても―――いや、数分後には何もかも無かった事になるのなら。
-　Elle l'oublierait peut-être d'ici peu, et toute cette histoire disparaîtrait comme si elle n'avait jamais eu lieu,
+  Elle l'oublierait peut-être d'ici peu, et toute cette histoire disparaîtrait comme si elle n'avait jamais eu lieu,
 
 }
 [sha:94a0bb5a02309539261344b50c1922266456d15c]{
 -- Page 20, Offset 19139.
 -- 彼に、その矛盾を吐き出させる機会は今しかない。
-　mais c'était une raison de plus pour demander, car elle n'aurait pas d'autre chance de connaître le fin mot de l'histoire.
+  mais c'était une raison de plus pour demander, car elle n'aurait pas d'autre chance de connaître le fin mot de l'histoire.
 
 }
 [sha:39985ac58084eeb10a84ee9d11be9bcb0a8ce2eb]{
@@ -403,19 +403,19 @@ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait
 [sha:4c143cdf7df0358888e3495e803c726cdd95c0a2]{
 -- Page 21, Offset 19141.
 -- ―――アンタ、山でどんな生活を送ってたの？」
-　―――À quoi ressemblait ta vie à la montagne ?」
+  ―――À quoi ressemblait ta vie à la montagne ?」
 
 }
 [sha:1dcd8f5cd04a335f5ce439a2e9e76eaeae6bfd25]{
 -- Page 21, Offset 19142.
 -- 青子の問いに、草十郎はぴたりと足を止めた。
-　En entendant cette question, Sōjūrō s'arrêta brusquement.
+  En entendant cette question, Sōjūrō s'arrêta brusquement.
 
 }
 [sha:0893c320c81d5fc383154a185a0562ddf8cb5739]{
 -- Page 21, Offset 19143.
 -- その顔は今までのどんなものより<辛|つら>そうに見える。
-　Il affichait une expression plus sombre que toutes celles qu'elle l'avait vu arborer.
+  Il affichait une expression plus sombre que toutes celles qu'elle l'avait vu arborer.
 
 }
 [sha:07970627781a9a7af289714740f5475fa0c48be6]{
@@ -433,13 +433,13 @@ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait
 [sha:80f098ca9f25ddf85f09481613da4f7ca82b04b2]{
 -- Page 22, Offset 19146.
 -- どうせ私も草十郎の事は忘れるんだから、それぐらい話してくれてもいいんじゃない？」
-　De toute façon, je vais t'oublier moi aussi, alors tu peux bien m'en parler, non ?」
+  De toute façon, je vais t'oublier moi aussi, alors tu peux bien m'en parler, non ?」
 
 }
 [sha:5c7c1fd24e46a02f127cff0e9494effabc1eb75c]{
 -- Page 22, Offset 19147.
 -- けち、とばかりに見据える青子の発言に、草十郎は驚いて顔をあげた。
-　Sōjūrō releva la tête d'un air étonné en réaction aux propos d'Aoko qui le regardait d'un œil accusateur.
+  Sōjūrō releva la tête d'un air étonné en réaction aux propos d'Aoko qui le regardait d'un œil accusateur.
 
 }
 [sha:6513ce0fefe14c850db767b12cf9c59de1ece573]{
@@ -457,7 +457,7 @@ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait
 [sha:0b96dc16921f749c5ac9cd8b9d8962c87fc98ebb]{
 -- Page 23, Offset 19150.
 -- ……行って来いで公平じゃない。
-　...... C'est plus équitable ainsi.
+  ...... C'est plus équitable ainsi.
 
 }
 [sha:e634dcd05bdb5c77bb30469a5e846f9965a9666c]{
@@ -469,13 +469,13 @@ Pourquoi tu fais cette tête ?」
 [sha:bd64817d5170b4ef33187d7b62e0e561e2c43511]{
 -- Page 24, Offset 19152.
 -- 言われて、草十郎は口元を手で隠した。
-　Sōjūrō se cacha la bouche avec la main après avoir entendu la remarque d'Aoko.
+  Sōjūrō se cacha la bouche avec la main après avoir entendu la remarque d'Aoko.
 
 }
 [sha:9623b788cc03c9510d0238d0d9dbbfca8d4b3576]{
 -- Page 24, Offset 19153.
 -- 自分がどんな顔をしていたか判らないが、情けない顔をしている気がして。
-　Il ignorait quel genre d'expression il dissimulait, mais elle n'était certainement pas joyeuse.
+  Il ignorait quel genre d'expression il dissimulait, mais elle n'était certainement pas joyeuse.
 
 }
 [sha:2901925945606b6406be7748cf79e89d0bbc6fef]{
@@ -487,7 +487,7 @@ Pourquoi tu fais cette tête ?」
 [sha:28134d2e01ff630ffedcf78e56331314434ce28b]{
 -- Page 25, Offset 19155. Mods: @k, @e.
 -- …………
-　…………
+  …………
 
 }
 [sha:d00155e63d425dff19a148c870a3ef300f51d7a6]{
@@ -505,25 +505,25 @@ Je n'avais pas poussé la réflexion aussi loin.」
 [sha:fcb37dcca9426e50a5fa2b62b83304f0df1cddda]{
 -- Page 26, Offset 19158.
 -- だから、これは最後の会話。
-　Il s'agissait donc de leur toute dernière conversation.
+  Il s'agissait donc de leur toute dernière conversation.
 
 }
 [sha:774a5a690da066490213fbeaf0c68af92a2d8a71]{
 -- Page 26, Offset 19159.
 -- 青子の台詞からも、お互いが忘れるという事からも、それは感じ取れた。
-　Il en prit pleinement conscience grâce aux explications d'Aoko et au fait qu'ils allaient s'oublier.
+  Il en prit pleinement conscience grâce aux explications d'Aoko et au fait qu'ils allaient s'oublier.
 
 }
 [sha:de86dfe9f2d3f0777bd6ec95f0431bf8e4e69d9b]{
 -- Page 27, Offset 19160.
 -- 蒼崎青子は変わらず学校にいて、その後ろ姿に草十郎は<憧|あこが>れる。
-　Aozaki Aoko se rendrait à l'école comme d'habitude et Sōjūrō l'admirerait de loin.
+  Aozaki Aoko se rendrait à l'école comme d'habitude et Sōjūrō l'admirerait de loin.
 
 }
 [sha:e35e3b278ac4918f754b684cc3ba56ee99efeafc]{
 -- Page 27, Offset 19161.
 -- けれど、その先に接点はない。
-　Mais il n'y aurait plus aucun lien entre eux désormais.
+  Mais il n'y aurait plus aucun lien entre eux désormais.
 
 }
 [sha:f462337bcff7cd7cd0eda3bd2b2e6000992a1f1e]{
@@ -535,55 +535,55 @@ Sōjūrō aurait beau engager la conversation, ce serait en pure perte, car Aoko
 [sha:b4247d98d7ac6f7c01e5b69ba9c076f898688d69]{
 -- Page 27, Offset 19163.
 -- ……いや、そもそも自分から話しかける事が彼にはできない。少なくとも、一ヶ月前の草十郎には。
-　...... Et de toute façon, il était incapable de l'aborder de lui-même. Du moins, un mois auparavant, il ne s'y serait jamais résolu.
+  ...... Et de toute façon, il était incapable de l'aborder de lui-même. Du moins, un mois auparavant, il ne s'y serait jamais résolu.
 
 }
 [sha:dde7f9e819b2fca95e596d4a7202b7b1c3da8d78]{
 -- Page 28, Offset 19164.
 -- そこでようやく、彼は忘却の<無|む><慈|じ><悲|ひ>さを知った。
-　Il réalisa alors pour la première fois la cruauté de l'oubli.
+  Il réalisa alors pour la première fois la cruauté de l'oubli.
 
 }
 [sha:082f164988be592443468cef1f88a751d2938544]{
 -- Page 28, Offset 19165.
 -- 青子の事を忘れる、とは彼女との出来事を忘れるのではなく、蒼崎青子という名前、存在からして忘れる、という事だ。
-　Oublier Aoko ne signifiait pas perdre les souvenirs de leur aventure, mais oublier son nom et même son existence.
+  Oublier Aoko ne signifiait pas perdre les souvenirs de leur aventure, mais oublier son nom et même son existence.
 
 }
 [sha:fc16f6a03bc2df816c325724c82eb5de39d4d44c]{
 -- Page 28, Offset 19166.
 -- 彼女に憧れる自分はいても、その正体を掴む事はない。
-　Une partie de lui l'admirerait, mais il ne connaîtrait jamais sa véritable identité.
+  Une partie de lui l'admirerait, mais il ne connaîtrait jamais sa véritable identité.
 
 }
 [sha:e9302def592bc867ea071fa753fb6bda48f199dc]{
 -- Page 28, Offset 19167.
 -- どんなに優れた偶然が働いても、今の状況には戻れない。
-　Même le plus grand des hasards ne leur permettrait pas de se retrouver à nouveau dans cette situation.
+  Même le plus grand des hasards ne leur permettrait pas de se retrouver à nouveau dans cette situation.
 
 }
 [sha:acdd7950de1a96ab044a9eabe827cdbab4ebfd4e]{
 -- Page 29, Offset 19168.
 -- この夜の歩みは、互いの死を見取る<葬式|そうしき>と変わらない。
-　Cette promenade nocturne équivalait à des funérailles où chacun observait le cortège funèbre de l'autre.
+  Cette promenade nocturne équivalait à des funérailles où chacun observait le cortège funèbre de l'autre.
 
 }
 [sha:91fb8e7e8f42fd0df272a71dfae2de753d304837]{
 -- Page 29, Offset 19169.
 -- 草十郎は蒼崎青子という人物を殺して、
-　Sōjūrō tuerait la personne nommée Aozaki Aoko,
+  Sōjūrō tuerait la personne nommée Aozaki Aoko,
 
 }
 [sha:febc844305bb1f5c8ed47dea0e0210ecd1e32a90]{
 -- Page 29, Offset 19170.
 -- 青子は静希草十郎という人物を殺す。
-　et Aoko tuerait la personne nommée Shizuki Sōjūrō.
+  et Aoko tuerait la personne nommée Shizuki Sōjūrō.
 
 }
 [sha:3fd8d5890f13854e5675442acea440c79105a951]{
 -- Page 29, Offset 19171.
 -- その後に残るものは、何もない。
-　Par la suite, il ne resterait plus rien.
+  Par la suite, il ne resterait plus rien.
 
 }
 [sha:79e316d8fe85e4c7e4eeb80b5e73ea35e13ba721]{
@@ -607,24 +607,24 @@ Très bien. Ce n'est pas une histoire spécialement trépidante, mais ça vaut m
 [sha:65844977382f5eacca51e58e28ecefd8bf0c2835]{
 -- Page 31, Offset 19175.
 -- 呟いて、草十郎は歩きだした。
-　Sōjūrō se remit en marche après avoir murmuré ces propos.
+  Sōjūrō se remit en marche après avoir murmuré ces propos.
 
 }
 [sha:93c650f0e77694bcba3f3541daa3e4c4ce6d15c5]{
 -- Page 31, Offset 19176.
 -- 今度は青子が付き添うよう、となりに並ぶ。
-　Cette fois, c'est Aoko qui fit en sorte de se placer à sa hauteur.
+  Cette fois, c'est Aoko qui fit en sorte de se placer à sa hauteur.
 
 }
 [sha:8f253ca2be1ce7c355f713a949bb379336e29799]{
 -- Page 31, Offset 19177.
 -- 道はあと数分足らずで終わろうとしている。
-　La route se terminerait d'ici quelques minutes.
+  La route se terminerait d'ici quelques minutes.
 
 }
 [sha:a707e4e93338b1668a8d0d9e818ffab62a80d3d8]{
 -- Page 31, Offset 19178. Mods: @n.
 -- 寒さのせいでふたりの吐息は白く、暗い夜道によく残った。
-　À cause du froid, leur souffle blanc persistait dans l'air au-dessus du chemin obscur.
+  À cause du froid, leur souffle blanc persistait dans l'air au-dessus du chemin obscur.
 
 }

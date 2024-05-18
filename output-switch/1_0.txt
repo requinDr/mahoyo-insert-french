@@ -1,61 +1,61 @@
 [sha:d3bdd871829eeea7fed7c523525b68fb448fd89f]{
 -- Page 0, Offset 0.
 -- その子の影になったのは８年前の冬のこと。
-　Je suis devenue l'ombre de cette enfant, il y a huit hivers de cela.
+  Je suis devenue l'ombre de cette enfant, il y a huit hivers de cela.
 
 }
 [sha:78c0f5437627791cedd46755848569e7082ec5eb]{
 -- Page 0, Offset 1.
 -- 彼女がはじめて命に<触|ふ>れた、<厳|しず>かな朝の出来事だ。
-　Lors d'un matin calme, la première fois qu'elle ressentit le poids de la vie.
+  Lors d'un matin calme, la première fois qu'elle ressentit le poids de la vie.
 
 }
 [sha:c2a0e56b01732890f5a9d86c15c378b146b89fc5]{
 -- Page 1, Offset 2.
 -- 彼女の家は山の<中腹|ちゅうふく>にあった。
-　Sa maison se trouvait en pleine montagne,
+  Sa maison se trouvait en pleine montagne,
 
 }
 [sha:b24fbaf679c7f3980d0cba3ceab24f2d16552043]{
 -- Page 1, Offset 3.
 -- まわりは何もない荒れ地。
-　sur une terre stérile dépourvue de tout.
+  sur une terre stérile dépourvue de tout.
 
 }
 [sha:810f8bf691b4369e19763dafa336b7debf7a8a5d]{
 -- Page 1, Offset 4.
 -- おとなりに住む<幼馴染|おさななじ>みなんて望むべくもなく、学校に通うのも、遊びに出かけるのも不便なコトこの上ない。
-　Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et il n'y avait pas moins pratique pour aller à l'école ou pour sortir jouer,
+  Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et il n'y avait pas moins pratique pour aller à l'école ou pour sortir jouer,
 
 }
 [sha:79697eabf66979539bb186a2eee084dd691051ee]{
 -- Page 1, Offset 5.
 -- けれど水も星も綺麗な、ちょっとの不満と大きな安らぎのある、思い出の家だった。
-　mais la maison n'en restait pas moins un lieu qui prenait une place importante dans ses souvenirs, d'une grande tranquillité et où l'on pouvait profiter d'une eau claire et d'un beau ciel étoilé.
+  mais la maison n'en restait pas moins un lieu qui prenait une place importante dans ses souvenirs, d'une grande tranquillité et où l'on pouvait profiter d'une eau claire et d'un beau ciel étoilé.
 
 }
 [sha:ed84f04e60505513456c4b9a9117fc159485c26e]{
 -- Page 2, Offset 6.
 -- もっとも、それは夏だけの話。
-　Cependant, ce n'était ainsi qu'en été.
+  Cependant, ce n'était ainsi qu'en été.
 
 }
 [sha:7bf3ed67aa12da906191dd2a0a9c0899c2bda41f]{
 -- Page 2, Offset 7.
 -- 山中の冬は寒すぎて、朝はいつも辛かった。
-　L'hiver en pleine montagne était très rigoureux, et les matins toujours pénibles.
+  L'hiver en pleine montagne était très rigoureux, et les matins toujours pénibles.
 
 }
 [sha:d22207be5afd7e95b15a25c9d1c681371a825b69]{
 -- Page 2, Offset 8.
 -- お父さんは自動車で駅まで送ってくれるけれど、
-　Son père l'amenait en voiture jusqu'à la gare,
+  Son père l'amenait en voiture jusqu'à la gare,
 
 }
 [sha:731858bd26381fe4a0c5206a7ff3056f959b79fd]{
 -- Page 2, Offset 9.
 -- 車の窓はびっしり<霜|しも>だらけで、出かける何十分か前にエンジンをかけないと走りだせない。
-　mais les fenêtres étaient complètement givrées, et il fallait allumer le moteur une dizaine de minutes à l'avance, sans quoi elle ne pouvait pas rouler.
+  mais les fenêtres étaient complètement givrées, et il fallait allumer le moteur une dizaine de minutes à l'avance, sans quoi elle ne pouvait pas rouler.
 
 }
 [sha:019f2141b648279ab2020345fbc8944bd14749e6]{
@@ -67,31 +67,31 @@
 [sha:173c231f11c36203fb49984b36b653f559897bb7]{
 -- Page 3, Offset 11.
 -- お父さんが食後のコーヒーを楽しんでいる時、外に出て車のエンジンをかけるのが彼女の日課だった。
-　Lorsque son père sirotait son café après le petit déjeuner, elle avait pour habitude de sortir mettre en route le moteur de la voiture.
+  Lorsque son père sirotait son café après le petit déjeuner, elle avait pour habitude de sortir mettre en route le moteur de la voiture.
 
 }
 [sha:5b59e78b434bbb7ef9ffb348f50ae83c71e2f15a]{
 -- Page 4, Offset 12.
 -- 玄関を出て、白い息をはきながら庭を横ぎって、年代物のセダンのドアを開ける。
-　Elle sortit par la porte d'entrée, longea le jardin tout en relâchant un nuage de vapeur et ouvrit la porte de l'antique berline.
+  Elle sortit par la porte d'entrée, longea le jardin tout en relâchant un nuage de vapeur et ouvrit la porte de l'antique berline.
 
 }
 [sha:d82905beb36b91a726ad1350ff846b1759ee812a]{
 -- Page 4, Offset 13. Mods: @n.
 -- いつも通りにキーを差し込んでぐるりと回して、
-　Comme à son habitude, elle inséra la clef, la fit tourner,
+  Comme à son habitude, elle inséra la clef, la fit tourner,
 
 }
 [sha:47bf91e777c7e6e57b37a88bbd3c8ca61a641d31]{
 -- Page 4, Offset 14. Glued.
 -- ぶるるるる、とエンジンを振動させる。
-　*vroum* et le moteur vrombit bruyamment.
+*vroum* et le moteur vrombit bruyamment.
 
 }
 [sha:c86344cc92d5585975dee17e05c1df1ebbc52f09]{
 -- Page 4, Offset 15.
 -- そんな、今まで何十回とくり返してきた、小さな彼女の誇らしげな仕事が終わったとき。
-　Au moment où elle termina cette routine qu'elle avait déjà répétée des dizaines et des dizaines de fois et dont elle tirait une grande fierté,
+  Au moment où elle termina cette routine qu'elle avait déjà répétée des dizaines et des dizaines de fois et dont elle tirait une grande fierté,
 
 }
 [sha:87cd0e505493bd0d651622638076a550e44fd636]{
@@ -103,19 +103,19 @@
 [sha:f2fe9a539b4e1d97d03339b301d580d44ac49f41]{
 -- Page 5, Offset 17.
 -- <甲|カン>高い悲鳴が<響|ひび>く。
-　un hurlement strident retentit.
+  un hurlement strident retentit.
 
 }
 [sha:ea869bc2c01742f6bee5fde5810f3b004995c4e7]{
 -- Page 5, Offset 18.
 -- 彼女は人間の言葉でもないのに、痛いと泣き叫ぶような、小さな小さな<音|こえ>を聞いた。
-　Ce n'était pas une voix humaine, mais elle entendit un infime gémissement de douleur.
+  Ce n'était pas une voix humaine, mais elle entendit un infime gémissement de douleur.
 
 }
 [sha:84745a9f3e28220ed7dd77ee4bb30e96278bafd0]{
 -- Page 6, Offset 19.
 -- 数分後。
-　Quelques minutes plus tard,
+  Quelques minutes plus tard,
 
 }
 [sha:34cb539119d12aba1741a5ad12e5cc2dcd6670cb]{
@@ -127,55 +127,55 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:1a9d4a753b3b03938e4d8357788a90379ed54eaa]{
 -- Page 6, Offset 21.
 -- ギチギチしたベルトとか、
-　Le compartiment moteur était entièrement rempli...
+  Le compartiment moteur était entièrement rempli...
 
 }
 [sha:3fad1f8914bddba57eb0792251905b7971edd5b1]{
 -- Page 6, Offset 22.
 -- 怪物みたいなエンジンが、
-　par de petites chaînes et un moteur monstrueux,
+  par de petites chaînes et un moteur monstrueux,
 
 }
 [sha:746952e5ead6a187a338f6bfccf0175ddcdc4905]{
 -- Page 6, Offset 23.
 -- びっちりと押しこまれたハコの中。
-　enchevêtrés les uns dans les autres.
+  enchevêtrés les uns dans les autres.
 
 }
 [sha:56be5a9863952da3dc1eefbc4062844ab33e69eb]{
 -- Page 6, Offset 24.
 -- 母親であろう猫と、二匹の子猫の姿は、あまりにも<場違|ばちが>いだった。
-　Ce n'était pas vraiment l'endroit idéal pour une maman chat et ses deux chatons.
+  Ce n'était pas vraiment l'endroit idéal pour une maman chat et ses deux chatons.
 
 }
 [sha:a1de84a37dcff2e851f9255e0375d79dd04ec6d8]{
 -- Page 7, Offset 25.
 -- 三匹の猫はエンジンルームの中で、寄りそうように丸まっていた。
-　Sous le capot, trois chats s'étaient roulés en boule comme pour se réchauffer.
+  Sous le capot, trois chats s'étaient roulés en boule comme pour se réchauffer.
 
 }
 [sha:9f23cb5d371bb84e55177aedd2b186fe689adf47]{
 -- Page 7, Offset 26.
 -- 母親の猫は首から上がない。
-　La mère n'avait plus rien au-dessus du cou.
+  La mère n'avait plus rien au-dessus du cou.
 
 }
 [sha:a803dac5e801c2dc559d65ec0afd0fbcef97ca5b]{
 -- Page 7, Offset 27.
 -- 子猫のうち一匹は、<機械|ベルト>に巻きこまれた部分が多すぎて動きがない。きっと即死だったろう。
-　L'un des deux chatons avait été en trop grande partie entraîné par la courroie et ne bougeait plus. Il était probablement mort sur le coup.
+  L'un des deux chatons avait été en trop grande partie entraîné par la courroie et ne bougeait plus. Il était probablement mort sur le coup.
 
 }
 [sha:e99792d3d2f4a476d091c6f6a5c06149b3d2ba00]{
 -- Page 8, Offset 28.
 -- 残った子猫は顔の半分を真っ赤にして、雨に濡れたやせ犬みたいに、ヒューヒューと息をしていた。
-　Le chaton restant avait la moitié du museau rouge de sang et, comme un chien errant trempé par la pluie, respirait en sifflant.
+  Le chaton restant avait la moitié du museau rouge de sang et, comme un chien errant trempé par la pluie, respirait en sifflant.
 
 }
 [sha:5e97705ae39a666817c8dd6f4ba124286f0767a9]{
 -- Page 8, Offset 29.
 -- 子猫はその<亡骸|なきがら>―――いや、半ば肉片となった親猫に寄りそいながら、おそらくはあと数分たらずの命で、<懸命|けんめい>に懸命に、母親の胸にすがっていた。
-　Le chaton se raccrochait de toutes ses forces à la poitrine du cadavre... non, à la moitié de morceau de viande qu'était devenue sa mère, alors qu'il ne lui restait sûrement plus que quelques minutes à vivre.
+  Le chaton se raccrochait de toutes ses forces à la poitrine du cadavre... non, à la moitié de morceau de viande qu'était devenue sa mère, alors qu'il ne lui restait sûrement plus que quelques minutes à vivre.
 
 }
 [sha:cee2b685696e5ef7964ac3198f2b1c786641a8d4]{
@@ -187,37 +187,37 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:445e7ea71ae524a09ab8350e05d2e3da85007f8a]{
 -- Page 9, Offset 31.
 -- <悼|いた>むようなお父さんの声。
-　se lamentait la voix de son père.
+  se lamentait la voix de son père.
 
 }
 [sha:203bcf845426558b79179f7900bde6c7fb53c169]{
 -- Page 10, Offset 32.
 -- 昨夜の冷えこみは一段と厳しかった。
-　Le froid de la nuit dernière avait été particulièrement vif.
+  Le froid de la nuit dernière avait été particulièrement vif.
 
 }
 [sha:aba1eef230ca4d40c75e9f43e1bb57b101e49c37]{
 -- Page 10, Offset 33.
 -- お父さんが車で帰ってきた後、エンジンの暖気に誘われて猫たちはボンネットに忍びこんだのだ。
-　Après que son père fut rentré en voiture, les chats s'étaient glissés sous le capot, attirés par la chaleur du moteur.
+  Après que son père fut rentré en voiture, les chats s'étaient glissés sous le capot, attirés par la chaleur du moteur.
 
 }
 [sha:63dacb21e05a66261f63fc13df0ffdbb7528cf8d]{
 -- Page 10, Offset 34. Mods: @n.
 -- 彼らはエンジンルームで夜を明かし、
-　Ils avaient passé la nuit dans la chambre du moteur,
+  Ils avaient passé la nuit dans la chambre du moteur,
 
 }
 [sha:dc4ba22f20f00ce621ec575f92148d76cb125b91]{
 -- Page 10, Offset 35. Glued.
 -- 翌朝、ベルトの回転に巻きこまれて目を覚ました。
-　et le matin suivant, s'étaient réveillés entraînés par la rotation de la courroie.
+  et le matin suivant, s'étaient réveillés entraînés par la rotation de la courroie.
 
 }
 [sha:e871306d79545130aad2603de70d110183af3505]{
 -- Page 10, Offset 36.
 -- 気密性の<乏|とぼ>しい80年代の車には、それなりにあった話らしい。
-　Dans les voitures des années 80 dont l'étanchéité à l'air était sommaire, ce genre de chose semblait être courante.
+  Dans les voitures des années 80 dont l'étanchéité à l'air était sommaire, ce genre de chose semblait être courante.
 
 }
 [sha:b9c1109b764d3ff2e68b2c8408a42c5ab6f104cc]{
@@ -229,37 +229,37 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:bc7e67a64ba2458f60365e07cfeed159eb84b646]{
 -- Page 11, Offset 38.
 -- お父さんの声が遠い。
-　La voix de son père était lointaine.
+  La voix de son père était lointaine.
 
 }
 [sha:d970f8e9185db281a4c766a47b3dc9362410442a]{
 -- Page 12, Offset 39.
 -- 灰色にささくれだった子猫の毛並み。
-　Sur le pelage gris et hérissé du chaton,
+  Sur le pelage gris et hérissé du chaton,
 
 }
 [sha:691662883d8f33ec8ad3b254fe9c9344598496e6]{
 -- Page 12, Offset 40.
 -- 母親と兄弟の血と、半身をけずられた自らの血で、
-　on voyait le sang de sa mère et de son frère, et celui provenant de la moitié de son propre corps déchiqueté.
+  on voyait le sang de sa mère et de son frère, et celui provenant de la moitié de son propre corps déchiqueté.
 
 }
 [sha:bd101f184d05008a30dd4b97bda0fa7461a9d580]{
 -- Page 12, Offset 41.
 -- ―――ああ、丸い頭蓋骨が見えている―――
-　　　　--aah, on peut voir son crâne rond--
+        --aah, on peut voir son crâne rond--
 
 }
 [sha:d641a44749e2a4c646b076f7af0f822e4084b88c]{
 -- Page 12, Offset 42.
 -- まだらに染まった小さな命。
-　La petite vie était toute maculée de ces taches.
+  La petite vie était toute maculée de ces taches.
 
 }
 [sha:e65bd4e2439c6a1a8898d116a6c02253184b028f]{
 -- Page 12, Offset 43.
 -- 子猫はもう目も見えないのか、<震|ふる>えながら、一心に死んだ母親の胸にくるまっている。
-　Le chaton, qui semblait ne plus rien voir, s'enroulait de toutes ses forces sur la poitrine de sa mère morte tout en tremblant.
+  Le chaton, qui semblait ne plus rien voir, s'enroulait de toutes ses forces sur la poitrine de sa mère morte tout en tremblant.
 
 }
 [sha:f2496dee972123beeb1b19440d079be954107932]{
@@ -271,55 +271,55 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:812ee9423fc52672ee7dfd16b18549bacea51870]{
 -- Page 13, Offset 45.
 -- 彼女は子猫を抱き上げ、
-　Elle serra dans ses bras le chaton,
+  Elle serra dans ses bras le chaton,
 
 }
 [sha:6f6044c72bf189c8010a1e9ec3a74ef3f5b82b2b]{
 -- Page 13, Offset 46.
 -- 山奥に別居している祖父の元へ走った。
-　et se précipita chez son grand-père qui vivait à l'intérieur de la montagne.
+  et se précipita chez son grand-père qui vivait à l'intérieur de la montagne.
 
 }
 [sha:d3a3618cec33e24f233706bc5b5aa2fdfd0c0727]{
 -- Page 13, Offset 47.
 -- 後悔で動揺していたのか、
-　Tremblait-elle à cause de ses remords,
+  Tremblait-elle à cause de ses remords,
 
 }
 [sha:cdca1997fde49f8c57dfd59aad00df4931dc04e9]{
 -- Page 13, Offset 48.
 -- 悲しくて混乱していたのか、正直、今でも分からない。
-　ou était-elle confuse à cause de sa tristesse ; honnêtement, même maintenant, je ne le sais pas.
+  ou était-elle confuse à cause de sa tristesse ; honnêtement, même maintenant, je ne le sais pas.
 
 }
 [sha:52bc1db569c47c56b97e11482f7219152b095462]{
 -- Page 14, Offset 49.
 -- 彼女はこみあげる涙をせいいっぱい我慢しながら、祖父の工房に飛びこんだ。
-　Tout en retenant de son mieux ses larmes, elle courait vers l'Atelier de son grand-père.
+  Tout en retenant de son mieux ses larmes, elle courait vers l'Atelier de son grand-père.
 
 }
 [sha:91fdebca82f7a47fd0adf495a783f63a7735c72b]{
 -- Page 15, Offset 50.
 -- 祖父は何でもできる魔法使いだった。
-　Son grand-père était un Magicien qui pouvait tout faire.
+  Son grand-père était un Magicien qui pouvait tout faire.
 
 }
 [sha:a6523a509ce38a679d07908588c800ca586be80c]{
 -- Page 15, Offset 51.
 -- 彼女自身「魔法」なんて見たコトもないし、おとぎ話の空想だと分かっていたけれど、そんな常識とは違う基準で、祖父はそういう生き物なんだと知っていた。
-　Elle-même n'avait jamais vu de “Vraie Magie”, et elle comprenait qu'il ne s'agissait que d'histoires imaginaires et fantaisistes ; mais si elle se fiait à son instinct et pas à ces idées reçues, elle savait qu'il était réellement capable d'accomplir des miracles.
+  Elle-même n'avait jamais vu de “Vraie Magie”, et elle comprenait qu'il ne s'agissait que d'histoires imaginaires et fantaisistes ; mais si elle se fiait à son instinct et pas à ces idées reçues, elle savait qu'il était réellement capable d'accomplir des miracles.
 
 }
 [sha:4d7339457499af2865488e2bc94d5a56f61f77fb]{
 -- Page 15, Offset 52.
 -- だから。
-　C'était pour cette raison...
+  C'était pour cette raison...
 
 }
 [sha:12fc47823d759230d31b832a6d7d4d59bcd7b8a5]{
 -- Page 15, Offset 53.
 -- 祖父ならきっと、助けてくれると思ったのだ。
-　qu'elle pensait que lui devait pouvoir le sauver.
+  qu'elle pensait que lui devait pouvoir le sauver.
 
 }
 [sha:0c92edb20d3814c9108eef8470ac9451e83d606c]{
@@ -331,31 +331,31 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:1f210e9470c5df8bf0eaf8cb2d223166b3400175]{
 -- Page 16, Offset 55.
 -- 洞窟に<棲|す>む魔法使いは、関心のない声で言った。
-　dit d'une voix indifférente le Magicien vivant dans une grotte.
+  dit d'une voix indifférente le Magicien vivant dans une grotte.
 
 }
 [sha:1a247b31544f244856ae7d85d5911185cba6c0ad]{
 -- Page 17, Offset 56.
 -- 助けたい、と彼女は<懇願|こんがん>する。
-　“Je veux le sauver”, supplia-t-elle.
+  “Je veux le sauver”, supplia-t-elle.
 
 }
 [sha:c4e7d4d7b929471d4a5cad238a1d1ae2f86428f3]{
 -- Page 17, Offset 57.
 -- 魔法使いはおやすいご用だとも、
-　Le Magicien, sans même dire que ça ne le dérangeait pas,
+  Le Magicien, sans même dire que ça ne le dérangeait pas,
 
 }
 [sha:a4c97b16b942cc5686cb7975f47e3b9193a9a37e]{
 -- Page 17, Offset 58.
 -- それは世界を<換|か>える<大事|だいじ>だとも言わず、
-　ou que c'était une affaire de grande importance qui pouvait changer le monde,
+  ou que c'était une affaire de grande importance qui pouvait changer le monde,
 
 }
 [sha:c2640ffbc9fd17773490b4a2cf1b1978c06168d9]{
 -- Page 17, Offset 59.
 -- まるで機械みたいにあっさりと、彼女の身勝手な願いを叶えてやった。
-　réalisa simplement le vœu égoïste de la jeune fille, tout comme l'aurait fait une machine.
+  réalisa simplement le vœu égoïste de la jeune fille, tout comme l'aurait fait une machine.
 
 }
 [sha:9f2bc4b9d8680281ae4257648f934b9023a29c3d]{
@@ -367,31 +367,31 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:b1edcc8572e9dbd052b0baee3a6a652cd979b62b]{
 -- Page 18, Offset 61.
 -- 気が付くと彼女の手には小さな<亡骸|なきがら>。
-　Lorsqu'elle reprit conscience, elle tenait dans ses mains un petit cadavre.
+  Lorsqu'elle reprit conscience, elle tenait dans ses mains un petit cadavre.
 
 }
 [sha:f672be645e7a18f347b4fa2bc0ed0cef06e0f708]{
 -- Page 18, Offset 62.
 -- 冷えきった毛なみ。
-　La fourrure gelée.
+  La fourrure gelée.
 
 }
 [sha:9506fd83279801669107799636c4a5a646a2688a]{
 -- Page 18, Offset 63.
 -- とうに命の温度は消えていた。
-　La chaleur de la vie l'avait depuis longtemps quitté.
+  La chaleur de la vie l'avait depuis longtemps quitté.
 
 }
 [sha:34d13e7cabb558fc8847c9b1d4a3c4a52a2db8ae]{
 -- Page 18, Offset 64.
 -- 流すまいと<律|りっ>していた涙が、瞳からこぼれている。
-　Les larmes qu'elle s'était ordonné de ne pas verser coulèrent alors de ses yeux.
+  Les larmes qu'elle s'était ordonné de ne pas verser coulèrent alors de ses yeux.
 
 }
 [sha:d8b3a761ceb1e06038f471c6e8643a92ed91fa60]{
 -- Page 18, Offset 65.
 -- 胸には灰色の空みたいに果てのない、大きすぎる後悔の念。
-　Un immense sentiment de regret se répandit dans son cœur tel un ciel gris sans fin.
+  Un immense sentiment de regret se répandit dans son cœur tel un ciel gris sans fin.
 
 }
 [sha:80671ed93b636d5c927540d4a9e5ffae254bd2b0]{
@@ -403,78 +403,78 @@ ils trouvèrent un être vivant sous le capot de la voiture que son père venait
 [sha:fcba12b86b1e0ce468de448ee320cc73c3949bc4]{
 -- Page 20, Offset 67.
 -- 何が起こったのか、彼女には把握できない。
-　Elle ne parvenait pas à comprendre ce qui s'était passé.
+  Elle ne parvenait pas à comprendre ce qui s'était passé.
 
 }
 [sha:08a74ba45b0093ae648bc059b15b7e6125f0ab4d]{
 -- Page 21, Offset 68.
 -- この十分間の空白に何を経験して、
-　Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait expérimenté,
+  Pendant ce laps de temps de dix minutes, malgré ce qu'elle avait expérimenté,
 
 }
 [sha:f4f796c4e7d202ee98fe34d4672d4630f2a89180]{
 -- Page 21, Offset 69.
 -- 誰と出会い、
-　les gens qu'elle avait rencontrés,
+  les gens qu'elle avait rencontrés,
 
 }
 [sha:2d9089d092e1533e628b3a7011bb8954e4df3579]{
 -- Page 21, Offset 70.
 -- 何を知ったのかも、無責任にも元通り。
-　ou ce qu'elle avait fait, elle était revenue au point de départ, incapable d'assumer ses responsabilités.
+  ou ce qu'elle avait fait, elle était revenue au point de départ, incapable d'assumer ses responsabilités.
 
 }
 [sha:731ffd2e1359942a07e5447a67eda04d13b9d7dd]{
 -- Page 21, Offset 71.
 -- 確かなコトは、死に行く命は戻らないという事と、
-　La seule chose dont elle était sûre, c'était qu'une vie destinée à mourir ne pouvait être sauvée,
+  La seule chose dont elle était sûre, c'était qu'une vie destinée à mourir ne pouvait être sauvée,
 
 }
 [sha:03e987e2632c2b37cea2662892f826ff75df5d03]{
 -- Page 21, Offset 72.
 -- 「あの―――そこにだれか、いるの？」
-　　　　「Hé―――Il y a quelqu'un ici ?」
+        「Hé―――Il y a quelqu'un ici ?」
 
 }
 [sha:e475ea5124000d1ebce2dec3b136c0898c44d402]{
 -- Page 21, Offset 73.
 -- その日。
-　et que ce jour-là,
+  et que ce jour-là,
 
 }
 [sha:2a39fe13029efeac043fb2a45fd6945950d96ad4]{
 -- Page 21, Offset 74.
 -- 私という、彼女が生まれた<過|あやま>ちだけ。
-　la fille que “je” suis est née par erreur.
+  la fille que “je” suis est née par erreur.
 
 }
 [sha:72b2b7c0c59ba3a0e1037624adc76816465619ec]{
 -- Page 22, Offset 75.
 -- ………ああ。
-　　　　　　......... Aaah.
+            ......... Aaah.
 
 }
 [sha:bceb84467e99ae778b64335456f164ff025e16dc]{
 -- Page 22, Offset 76. Mods: @n.
 -- 何にせよ、
-　　　　　　Quoi qu'il en soit,
+            Quoi qu'il en soit,
 
 }
 [sha:cff4d9ad63dfc151c16af43527301d2ff7b3b4b7]{
 -- Page 22, Offset 77. Glued.
 -- 全てが<懐|なつ>かしく、待ち遠しい。
-　　　　　　tout ceci me remplit de nostalgie et j'ai hâte de voir ce que l'avenir me réserve.
+            tout ceci me remplit de nostalgie et j'ai hâte de voir ce que l'avenir me réserve.
 
 }
 [sha:b166d71b67a9b3156aebbda490e37c9fec2146b2]{
 -- Page 23, Offset 78.
 -- それは<現実|イマ>から８年前のおとぎ話。
-　C'est une histoire féerique vieille de huit ans.
+  C'est une histoire féerique vieille de huit ans.
 
 }
 [sha:21655ecd52de5417ca933baf481fb09dad6f3943]{
 -- Page 23, Offset 79.
 -- どんな魔法を使っても取り戻せない、いちばん初めに、彼女たちの出会った日。
-　C'était le jour où elles se rencontrèrent pour la première fois, un évènement impossible à défaire peu importe la magie utilisée.
+  C'était le jour où elles se rencontrèrent pour la première fois, un évènement impossible à défaire peu importe la magie utilisée.
 
 }

@@ -1,7 +1,7 @@
 [sha:8e18cabfc08bb951a29799469007a67d25c4228e]{
 -- Page 0, Offset 23621.
 -- わたしは、このまま朝まで逃げきるべきだ、と思った。
-　Je songeai qu'il valait mieux continuer à fuir jusqu'au matin.
+  Je songeai qu'il valait mieux continuer à fuir jusqu'au matin.
 
 }
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
@@ -13,13 +13,13 @@
 [sha:e389fa25f0d060fc7724afe498b31448eca80ec2]{
 -- Page 1, Offset 23623.
 -- 今、妙な食い違いがあったような。
-　À l'instant, j'eus l'impression de ressentir un certain décalage.
+  À l'instant, j'eus l'impression de ressentir un certain décalage.
 
 }
 [sha:1d1d4d9b59fd1e24007d0ca4839bef7eb0803c16]{
 -- Page 1, Offset 23624.
 -- わたしの選択と、わたしの口が、微妙にニュアンスが違うことを言ったような。
-　Comme si mon choix et ce que je me disais n'étaient pas exactement sur la même longueur d'onde.
+  Comme si mon choix et ce que je me disais n'étaient pas exactement sur la même longueur d'onde.
 
 }
 [sha:4b3faa62bbfb71c9d8991a2d7d5d4322008ab96d]{
@@ -31,19 +31,19 @@
 [sha:73096f5b822e03fa58ee450f78482fd6f332bbe6]{
 -- Page 2, Offset 23626.
 -- 太陽が昇りきるまで逃げれば、このゲームはおしまいだ。
-　Si je parvenais à fuir jusqu'au lever du soleil, ce jeu serait terminé.
+  Si je parvenais à fuir jusqu'au lever du soleil, ce jeu serait terminé.
 
 }
 [sha:08a6b3864fd2929551006fa7eb077329f9b903cf]{
 -- Page 2, Offset 23627.
 -- わたしという生存者がいるかぎり、スイーツハーツの勝ちにはならない。
-　Tant que la survivante que j'étais serait là, Sweets Hearts ne gagnerait pas.
+  Tant que la survivante que j'étais serait là, Sweets Hearts ne gagnerait pas.
 
 }
 [sha:fcf024930d040b9edf17b8ee50e5d999324983e8]{
 -- Page 2, Offset 23628.
 -- 嵐も止んだし、このまま町まで下りてしまえば何もかも元通りなんだ……！
-　La tempête s'était arrêtée, alors si je descendais jusqu'en ville, tout reviendrait à la normale...!
+  La tempête s'était arrêtée, alors si je descendais jusqu'en ville, tout reviendrait à la normale...!
 
 }
 [sha:a09d66584daa40e12465c74b20ca87c4bbb65609]{
@@ -55,49 +55,49 @@
 [sha:f878416f22a0eb325c1db2d7084ac237df0a5c04]{
 -- Page 3, Offset 23630.
 -- わたしは下に向かって駆け続けたのに、たどり着いたのは洋館の裏。
-　Alors que j'avais couru vers le bas de la colline, j'étais arrivée à l'arrière du manoir.
+  Alors que j'avais couru vers le bas de la colline, j'étais arrivée à l'arrière du manoir.
 
 }
 [sha:ab0aa1b408cccf44171d505e834640028b677f37]{
 -- Page 4, Offset 23631.
 -- ああ―――
-　Aaah―――
+  Aaah―――
 
 }
 [sha:19068d8550fd23aecaea4781f17c6afbad267f45]{
 -- Page 4, Offset 23632.
 -- 地面が歪んでいる。
-　Le sol se déformait.
+  Le sol se déformait.
 
 }
 [sha:b79306fb44bb7953d51e83a227994b9bd52c8122]{
 -- Page 4, Offset 23633.
 -- 感覚が狂っている。
-　Mes sens se détraquaient.
+  Mes sens se détraquaient.
 
 }
 [sha:07623ced3c70b68d1a896dc8a93173c9c824f2c1]{
 -- Page 4, Offset 23634.
 -- 世界は崩れている。
-　Le monde s'effondrait.
+  Le monde s'effondrait.
 
 }
 [sha:07192dd444b5f9b75e07ce3bee614a725b4a1f91]{
 -- Page 4, Offset 23635.
 -- わたしはきっと、何かを、間違えてしまっている。
-　Je m'étais sûrement trompée quelque part.
+  Je m'étais sûrement trompée quelque part.
 
 }
 [sha:cf54c200279043591303e8c98c66e5b6c8413e58]{
 -- Page 5, Offset 23636.
 -- 不意に、耳元で
-　Subitement, dans mes oreilles,
+  Subitement, dans mes oreilles,
 
 }
 [sha:e22bea2d6fbbf5686043f1653678204df48c248a]{
 -- Page 5, Offset 23637. Mods: @c, @n.
 -- 「み
-　　　　　「Bra
+          「Bra
 
 }
 [sha:2501c65a4b727d60717130e90930cd5563a41748]{
@@ -109,13 +109,13 @@ vo
 [sha:b688d9a4249513ef5fa6e7c9c1d94633644f245b]{
 -- Page 5, Offset 23639. Glued. Mods: @c, @n.
 -- ご
-　pour
+ pour
 
 }
 [sha:9a15db1fc3bb13549d6cbd12bc229ca7add3780c]{
 -- Page 5, Offset 23640. Glued. Mods: @c, @n.
 -- ろ
-　a
+ a
 
 }
 [sha:ec7d8d2f5eaa8e73b46feb9d46bae8c3a42b20b4]{
@@ -127,25 +127,25 @@ voir
 [sha:52b4224e4c77d014cc28d0406a94684a61810fe7]{
 -- Page 5, Offset 23642. Glued. Mods: @c, @n.
 -- お
-tué
+ tué
 
 }
 [sha:bce84afae2a54873aa98b7b66792932dd001b8eb]{
 -- Page 5, Offset 23643. Glued. Mods: @c, @n.
 -- め
-　tout
+ tout
 
 }
 [sha:251e8d9748c9cac535d78968659226b5ae065288]{
 -- Page 5, Offset 23644. Glued. Mods: @c, @n.
 -- で
-le
+ le
 
 }
 [sha:061ee82c3292be6cecc7b87217a93353dbc800e6]{
 -- Page 5, Offset 23645. Glued. Mods: @c, @n.
 -- と
-　mon
+ mon
 
 }
 [sha:ef883d8d494904c63bdb906feb306165919437c1]{
@@ -157,12 +157,12 @@ de.」
 [sha:ab94d608344064393eba2a92200de19bd5e2c33e]{
 -- Page 5, Offset 23647.
 -- 一度も聞いたコトのない、世にも恐ろしい、
-　j'entendis une voix terrifiante,
+  j'entendis une voix terrifiante,
 
 }
 [sha:1bc34bd8749ab4ea025f03164d071d223e877d21]{
 -- Page 5, Offset 23648.
 -- 近しい他人の声を聞いた―――
-　qui m'était inconnue et familière à la fois―――
+  qui m'était inconnue et familière à la fois―――
 
 }

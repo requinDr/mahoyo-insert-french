@@ -1,37 +1,37 @@
 [sha:ab8c7deada9bcc454f21262bdd6447c382dd2cea]{
 -- Page 0, Offset 21447.
 -- ……追いかけよう。
-　...... J'entrepris de me lancer à sa poursuite.
+  ...... J'entrepris de me lancer à sa poursuite.
 
 }
 [sha:14ca220f1e36fdb3a6340b9e58e67e2a05b2425e]{
 -- Page 0, Offset 21448.
 -- 不穏なものを感じつつ、わたしは視線の主を追った。
-　Envahie d'une sensation sinistre, je partis à la recherche de la source du regard.
+  Envahie d'une sensation sinistre, je partis à la recherche de la source du regard.
 
 }
 [sha:30b24fbc029224309889b938860fb792133d39d7]{
 -- Page 0, Offset 21449.
 -- 洋館の裏側に回りこむと、そこはちょっとした林だった。
-　Après un rapide tour du manoir, je me retrouvai face à un petit bois.
+  Après un rapide tour du manoir, je me retrouvai face à un petit bois.
 
 }
 [sha:eda4f55c25ed2ea65f685abe0e8a68a3d08c7534]{
 -- Page 0, Offset 21450.
 -- 洋館を隠す森より、少しだけ手入れがされている。
-　Il était un peu mieux entretenu que la forêt qui camouflait l'édifice.
+  Il était un peu mieux entretenu que la forêt qui camouflait l'édifice.
 
 }
 [sha:d250761c3cc039436df3d456c7bb3d0da5d1ad1c]{
 -- Page 0, Offset 21451.
 -- そこに、
-　Plus loin,
+  Plus loin,
 
 }
 [sha:0af5a936a11f2e4b9b1e82541d331cd3e6870213]{
 -- Page 0, Offset 21452.
 -- 場違いな女性がひとり。
-　je découvris une femme qui tranchait avec les lieux.
+  je découvris une femme qui tranchait avec les lieux.
 
 }
 [sha:00cb47a5dc84cdf95f5b643c100e7e1d36bd3f0e]{
@@ -43,31 +43,31 @@
 [sha:a8b8823d7317a68c069195d8d43c2eb7b81dde2f]{
 -- Page 1, Offset 21454.
 -- わたしは無意識に後退していた。
-　Je reculai inconsciemment.
+  Je reculai inconsciemment.
 
 }
 [sha:2bffc96c1fd5b6bd9bc52d499e425aea27cd0890]{
 -- Page 1, Offset 21455.
 -- それぐらい、あの女性には凄みがあった。
-　L'aura dégagée par cette femme était incommensurablement menaçante.
+  L'aura dégagée par cette femme était incommensurablement menaçante.
 
 }
 [sha:f1950020ccaa7fc6f0d1efb5bebc0fbb78e802df]{
 -- Page 1, Offset 21456.
 -- ぱち、ぱち。
-　Crac. Crac.
+  Crac. Crac.
 
 }
 [sha:af7af6f03d9a16be23636286686bc2edf8b6c556]{
 -- Page 1, Offset 21457.
 -- 逃げ気味のわたしのカカトが落ち葉を踏む音。
-　Dans mon mouvement de recul, les feuilles mortes craquèrent sous mon talon.
+  Dans mon mouvement de recul, les feuilles mortes craquèrent sous mon talon.
 
 }
 [sha:76c047c22c5a1e13211cd29817e2d8df2ea49faa]{
 -- Page 1, Offset 21458.
 -- そんな小動物めいたわたしを、女性は楽しげに眺めている。
-　La femme observait d'un air amusé le semblant de petit animal que j'étais.
+  La femme observait d'un air amusé le semblant de petit animal que j'étais.
 
 }
 [sha:9468fc10fcec269db4aacb64f6cce98f89dc40ff]{
@@ -79,19 +79,19 @@
 [sha:c0aed6976e7977e157f3789f2d374fe8b482dd05]{
 -- Page 2, Offset 21460.
 -- いいね、青子も気が利くようになったもんだ。これなら退屈はしなさそうだよ」
-　Je vois qu'Aoko est devenue plutôt prévenante. Je ne risque pas de m'ennuyer, finalement.」
+  Je vois qu'Aoko est devenue plutôt prévenante. Je ne risque pas de m'ennuyer, finalement.」
 
 }
 [sha:6053a8786c828e655565d05f8b7993e593a6e7bf]{
 -- Page 2, Offset 21461.
 -- こちらを見る目が、ちょっと、いや、かなり怪しい。
-　Le regard qu'elle dirigeait vers moi était un peu, voire même, franchement louche.
+  Le regard qu'elle dirigeait vers moi était un peu, voire même, franchement louche.
 
 }
 [sha:c4f442ea48b7fd95a71c46870fabff2e7d92f663]{
 -- Page 2, Offset 21462.
 -- 警察はどこだ。
-　Mais que faisait la police ?
+  Mais que faisait la police ?
 
 }
 [sha:a8d977538d39ffd382f7ff53d2e1aab9054a25cc]{
@@ -103,19 +103,19 @@
 [sha:b30770f754ada9e039abf3d4f752281586f4e1d9]{
 -- Page 3, Offset 21464.
 -- ……しかし。<何|・><事|・><か|・><始|・><ま|・><る|・>前に周囲の地形を確認にくる人間が、私の他にいるとはね。
-　...... Mais tout de même, je suis surprise que quelqu'un d'autre examine la configuration des lieux avant que les choses ne commencent.
+  ...... Mais tout de même, je suis surprise que quelqu'un d'autre examine la configuration des lieux avant que les choses ne commencent.
 
 }
 [sha:448394446cc21eaeda6caf4d4399a361d285145c]{
 -- Page 3, Offset 21465.
 -- うん、気に入った。気に入ったし可愛いので大サービスしてあげよう。
-　Décidément, tu me plais. Écoute, comme je t'aime bien et que tu es mignonne, je vais te donner un gros indice.
+  Décidément, tu me plais. Écoute, comme je t'aime bien et que tu es mignonne, je vais te donner un gros indice.
 
 }
 [sha:0d764d1807f91fe9ca471acf2c1384a5f35b4d26]{
 -- Page 3, Offset 21466.
 -- 私は普段、よく見えない。私は蒼崎の部屋にいる。そして私は犯人ではない」
-　Habituellement, je ne me montre pas beaucoup. Je serai dans la chambre d'Aozaki. Et je ne suis pas le coupable.」
+  Habituellement, je ne me montre pas beaucoup. Je serai dans la chambre d'Aozaki. Et je ne suis pas le coupable.」
 
 }
 [sha:9c24c147b8a2ba3f0ca2cb28d7f6b8807249019b]{
@@ -133,30 +133,30 @@
 [sha:75773dc8b7233b9a04cb125d01f1deda322ae397]{
 -- Page 4, Offset 21469.
 -- 女性はおかしな台詞を残して、洋館の方に立ち去っていった。
-　La femme tint des propos étranges avant de se diriger vers le manoir.
+  La femme tint des propos étranges avant de se diriger vers le manoir.
 
 }
 [sha:bb210ca51c914f36e54fc27f82fc95b9f15f55ea]{
 -- Page 4, Offset 21470.
 -- わたしは後を追う気にもなれず、洋館の正面玄関に戻る事にした。
-　Ne trouvant pas la volonté de la suivre, j'entrepris de retourner à la porte principale.
+  Ne trouvant pas la volonté de la suivre, j'entrepris de retourner à la porte principale.
 
 }
 [sha:51c18af71fad9a023f900bb9f8fc623bfaa0108b]{
 -- Page 5, Offset 21471.
 -- ロビーに戻ると、右手の東館―――居間の方から笑い声が聞こえてきた。
-　De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
+  De retour au vestibule―――j'entendis des rires en provenance du salon de l'aile est, sur ma droite.
 
 }
 [sha:35a9e4e226d072e252c67d1bb1ecc58c6dbac3c8]{
 -- Page 5, Offset 21472.
 -- 蒼崎を待たせている。
-　Aozaki devait sûrement m'attendre.
+  Aozaki devait sûrement m'attendre.
 
 }
 [sha:9ffd9f7c1f74d551f618195907f62c8177ed6cfb]{
 -- Page 5, Offset 21473.
 -- わたしは荷物を抱え直して、居間に足を向けた。
-　Je réajustai mon sac sur l'épaule et partis vers le salon.
+  Je réajustai mon sac sur l'épaule et partis vers le salon.
 
 }

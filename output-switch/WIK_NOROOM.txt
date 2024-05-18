@@ -1,13 +1,13 @@
 [sha:2be87961a8827ff747724c9cfca7b766b5c638c5]{
 -- Page 0, Offset 22802.
 -- 居間に置いておいた荷物を肩に担いで、二階の客室を目指す。
-　Je chargeai le sac que j'avais posé dans le salon sur une épaule, puis je me rendis au premier étage.
+  Je chargeai le sac que j'avais posé dans le salon sur une épaule, puis je me rendis au premier étage.
 
 }
 [sha:8106f06925f4cab33336d565f0589df9de4e337a]{
 -- Page 0, Offset 22803.
 -- 蒼崎の話では二階の東館、手前から二つ目がわたしに宛がわれた部屋だそうだ。
-　D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile est.
+  D'après Aozaki, on m'avait alloué la deuxième chambre du premier étage de l'aile est.
 
 }
 [sha:112faa340b619917fe8e498bc52e9513b38ca15a]{
@@ -19,13 +19,13 @@
 [sha:25bed1965ae327c25eb9b7fffc9ad4d6762affa1]{
 -- Page 1, Offset 22805.
 -- 廊下に出ると、蒼崎と出くわした。
-　Dans le couloir, je croisai justement Aozaki.
+  Dans le couloir, je croisai justement Aozaki.
 
 }
 [sha:f021a9853c2c3fdd57fabb557efa4c3aca7e44ce]{
 -- Page 1, Offset 22806.
 -- 彼女は廊下の奥から、ホールに向かっていたところらしい。
-　Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
+  Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
 
 }
 [sha:70aadf403948c6bf87954354b7215fda062962eb]{
@@ -43,43 +43,43 @@
 [sha:d946ebb35afa9d9e1a66efdc37d84b28029744e2]{
 -- Page 2, Offset 22809.
 -- 私はちょっとした探し物の途中だから、気にしないで。
-　Je cherche juste quelque chose, alors ne fais pas attention à moi.
+  Je cherche juste quelque chose, alors ne fais pas attention à moi.
 
 }
 [sha:6a63cc278826976261cb33483c7a22f0f5e47a8a]{
 -- Page 2, Offset 22810.
 -- あ、客室の鍵は開いてるから。部屋の机の上に鍵があるから、出る時はそれで施錠してね」
-　Ah, ta chambre n'est pas verrouillée. La clef est posée sur le bureau. Sers-t'en pour fermer la porte.」
+  Ah, ta chambre n'est pas verrouillée. La clef est posée sur le bureau. Sers-t'en pour fermer la porte.」
 
 }
 [sha:f0fc47c335a839a783caba18638f10984134fda9]{
 -- Page 2, Offset 22811.
 -- 蒼崎は一階に下りていった。
-　Aozaki descendit au rez-de-chaussée.
+  Aozaki descendit au rez-de-chaussée.
 
 }
 [sha:3ed8d8c3a689a42b8ae7eaf8070bd92328b83274]{
 -- Page 3, Offset 22812.
 -- 部屋には誰もいない。
-　La chambre était déserte.
+  La chambre était déserte.
 
 }
 [sha:2c25e68bc0e6dbee98804142b3a4dbb495374776]{
 -- Page 3, Offset 22813.
 -- わたしは無人である事を確かめて、荷物を置き、サイフをポケットにいれた。
-　Après avoir vérifié qu'il n'y avait bien personne, je posai mes affaires et rangeai mon portefeuille dans ma poche.
+  Après avoir vérifié qu'il n'y avait bien personne, je posai mes affaires et rangeai mon portefeuille dans ma poche.
 
 }
 [sha:e173664ac733cae068f7b02f36d93598dd29118f]{
 -- Page 3, Offset 22814.
 -- お<守|まも>り<兼|けん>お気に入りである<×口|バツくち>兎のパスケースを携帯するかは迷ったが、どうせ中には定期と学祭での記念写真しか入っていないので、テーブルに置いておく。
-　J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en croix - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
+  J'hésitai à prendre mon porte-passe favori - un lapin avec une bouche en croix - qui faisait également office de porte-bonheur, mais comme il ne contenait que ma carte de transport et une photo souvenir du festival de l'école, je le laissai finalement sur la table.
 
 }
 [sha:5bfcece56dd023247c37f7f26082b1e03eb7e8cf]{
 -- Page 3, Offset 22815.
 -- 馴染みのない建物で過ごすのだ。体はできるだけ身軽の方が疲れない。
-　J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
+  J'allais passer la journée dans une demeure inconnue. Plus mon corps serait léger, moins je me fatiguerais.
 
 }
 [sha:b73f80b8e54e33d2e391b2476f6c82a00948fa78]{
@@ -91,6 +91,6 @@
 [sha:bee100ea1c2d3ba50ef2599587592fb501468f6e]{
 -- Page 4, Offset 22817.
 -- <真鍮|しんちゅう>の鍵。この洋館に相応しい、古めかしくも凝ったデザインだった。
-　C'était une clef en laiton. Son design était ancien et recherché, du même style que ce manoir.
+  C'était une clef en laiton. Son design était ancien et recherché, du même style que ce manoir.
 
 }

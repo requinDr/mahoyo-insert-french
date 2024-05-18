@@ -1,612 +1,612 @@
 [sha:d0c2191b84a78c2c421df42d666fd615e3a22b13]{
 -- Page 0, Offset 20271.
 -- ふう。この蒼天に浮かれて、
-　Fiou. Ébloui par c'ciel bleu,
+    Fiou. Ébloui par c'ciel bleu,
 
 }
 [sha:f6d8a89d06be427638c57fe3b7839bb25196a6de]{
 -- Page 0, Offset 20272.
 -- ついタイトルコールを叫んでしまったッス。
-　j'ai crié l'titre par allégresse.
+    j'ai crié l'titre par allégresse.
 
 }
 [sha:3502c67a1a270400ecf515489faf11d94670ff7e]{
 -- Page 1, Offset 20273.
 -- しかし、指定場所に来たもののアリスさんの姿はなし。
-　　J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est pas là.
+  J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est pas là.
 
 }
 [sha:8a573c363d4c2ac72d5ffbe2b395f5e9f43e0a98]{
 -- Page 1, Offset 20274.
 -- 時間と場所はあってるハズなんスけどー。
-　　L'heure et le lieu devraient être justes, pourtant...
+  L'heure et le lieu devraient être justes, pourtant...
 
 }
 [sha:a14bb958300b73331f45efe53649187fe7626ee7]{
 -- Page 1, Offset 20275.
 -- もう一回タイトルコール、してみるッスか。
-　　J'vais recrier l'titre, on sait jamais.
+  J'vais recrier l'titre, on sait jamais.
 
 }
 [sha:a63b25fc1faded00e8d52ce086a48c67c1be2c49]{
 -- Page 2, Offset 20276.
 -- いいえ。その必要はないわ。
-　　Non. Ce sera inutile.
+    Non. Ce sera inutile.
 
 }
 [sha:1c029fd8f793748eb1ea10452f2ab7a65439a46b]{
 -- Page 2, Offset 20277.
 -- わたしは昨日からビバーク中なのだから。
-　　Parce que je suis là en bivouac depuis hier.
+    Parce que je suis là en bivouac depuis hier.
 
 }
 [sha:44e9312a2690d5fe6668e206258cac07de79d62d]{
 -- Page 3, Offset 20278.
 -- アリスさん！？
-　Mam'zelle Alice ?!
+      Mam'zelle Alice ?!
 
 }
 [sha:5254336bab5ae12e20f3d269df538b4c2e926391]{
 -- Page 3, Offset 20279.
 -- ギャハハ、なんスかその完全装備wwwww
-　Ha ha ha, d'où vous sortez c't'attirail ? lol lol lol
+      Ha ha ha, d'où vous sortez c't'attirail ? lol lol lol
 
 }
 [sha:adaa2a72888c6809ad065659ddb7d2fb38bd58c9]{
 -- Page 3, Offset 20280.
 -- ファッションから入る、なんちゃって登山家
-　Vous vous prenez pour une alpiniste à la mode ?
+      Vous vous prenez pour une alpiniste à la mode ?
 
 }
 [sha:790c1c60275ef72b75d26715a411215f71994289]{
 -- Page 4, Offset 20281.
 -- アマチュアバード！
-　　　Amateur Bird!
+      Amateur Bird!
 
 }
 [sha:49e8c1e0fd558e935d61aea2e2668aceaf798393]{
 -- Page 5, Offset 20282.
 -- ぴっける！？
-　　　　　Un piolet ?!
+                  Un piolet ?!
 
 }
 [sha:3e1cd9270dc07c7682b47a6f5ccbf1c1ea0f90e7]{
 -- Page 6, Offset 20283.
 -- 山を甘く見ないことよ。
-Ne sous-estime pas la montagne.
+    Ne sous-estime pas la montagne.
 
 }
 [sha:2e9bbff1ff9f7ccf9a796d4fea68e8412f3f5bc6]{
 -- Page 6, Offset 20284.
 -- 渡り鳥が山越えをする時、何割かは越えられずに脱落死する話を知らないのかしら。
-Ne sais-tu donc pas qu'un important pourcentage d'oiseaux migrateurs décèdent en tentant de la franchir ?
+    Ne sais-tu donc pas qu'un important pourcentage d'oiseaux migrateurs décèdent en tentant de la franchir ?
 
 }
 [sha:44e26c9a0d4d4b2d7f6cd9140a8442de6d7acb5e]{
 -- Page 7, Offset 20285.
 -- 油断すれば即デッド。
-　Un moment d'inattention et c'est la mort assurée.
+        Un moment d'inattention et c'est la mort assurée.
 
 }
 [sha:ee35ecccbf6babbe8edbb82193b381c549ec0e28]{
 -- Page 7, Offset 20286.
 -- 隙あらば是キリング。
-　Tu peux mourir n'importe quand. Fais preuve de respect
+        Tu peux mourir n'importe quand. Fais preuve de respect
 
 }
 [sha:36cd2b58f4315f0fe96b04ccbf2631e04a874b04]{
 -- Page 7, Offset 20287.
 -- それが、神々の住まう<頂|いただき>への礼儀と知りなさい。
-　envers les sommets où vivent les dieux.
+        envers les sommets où vivent les dieux.
 
 }
 [sha:299b7e69122444c2775261595946a5217008dc9a]{
 -- Page 8, Offset 20288.
 -- つまり、いつもと何も変わらないってコトッスね。
-En gros, ça change pas vraiment de d'habitude.
+          En gros, ça change pas vraiment de d'habitude.
 
 }
 [sha:24b7ae019f6d5796a549ada282b330476e38830a]{
 -- Page 9, Offset 20289.
 -- 繰り返すわ。
-　　Je reformule.
+    Je reformule.
 
 }
 [sha:2de48b757de5fcea05354dbecba11ac9485fe6c0]{
 -- Page 9, Offset 20290.
 -- 山とわたしを甘く見ないで。
-　　Ne nous sous-estime pas, la montagne et moi.
+    Ne nous sous-estime pas, la montagne et moi.
 
 }
 [sha:54cc1007c86afb6976ffd15d791a11fe8eabadfc]{
 -- Page 9, Offset 20291.
 -- 今日はいつもの二倍はやる気に満ちている。
-　　Aujourd'hui, je suis deux fois plus motivée que d'ordinaire.
+    Aujourd'hui, je suis deux fois plus motivée que d'ordinaire.
 
 }
 [sha:36b15b57d06891b2ddde572198363266f15ee636]{
 -- Page 10, Offset 20292.
 -- やっべぇー。
-　Chuis mal !
+        Chuis mal !
 
 }
 [sha:024414d4dd010d249e9f8dde6dfbe34a54a4a0e8]{
 -- Page 10, Offset 20293.
 -- なんかスイッチ入ってるッスー。
-　Vous avez l'air drôlement d'attaque.
+        Vous avez l'air drôlement d'attaque.
 
 }
 [sha:b6eed009debe3f639a75661feaa6fdc1c04fcf1a]{
 -- Page 11, Offset 20294.
 -- さあ、なぜなにプロイの時間よ、ロビン。
-　　Bien, c'est l'heure de Tout sur les Ploy,
+  Bien, c'est l'heure de Tout sur les Ploy,
 
 }
 [sha:a642634280f95fd1c19d94a4a237af837bb02a61]{
 -- Page 11, Offset 20295.
 -- 今日は気分がいいから、
-　　Robin. Aujourd'hui, je me sens bien,
+  Robin. Aujourd'hui, je me sens bien,
 
 }
 [sha:07bc8187c26183ec1f93a5fc7c9287dec52b716f]{
 -- Page 11, Offset 20296.
 -- 取っておきの話をするとしましょう。
-　　alors abordons un sujet spécial.
+  alors abordons un sujet spécial.
 
 }
 [sha:eaf464f3d3dac58ce4460249fd34e59a711fbead]{
 -- Page 12, Offset 20297.
 -- あー、ついにきたッスね。
-　　Ah—, nous y voilà enfin !
+          Ah—, nous y voilà enfin !
 
 }
 [sha:42e6020c27179a924d176b0a088a7078c2b71efa]{
 -- Page 12, Offset 20298.
 -- 三大プロイ、グレートスリーについて。
-　　On va parler des Trois Grands Ploy, les Great Three.
+          On va parler des Trois Grands Ploy, les Great Three.
 
 }
 [sha:d0764bda0cfdad1ba2f4d6628ec5b8be9a8caa23]{
 -- Page 13, Offset 20299.
 -- アリスさんの母上の、そのまた母上の、
-　　Les trois miracles transmis depuis l'époque de la mère
+      Les trois miracles transmis depuis l'époque de la mère
 
 }
 [sha:8ffd9b688ffca1f67721a3c327c4c809010cbf7a]{
 -- Page 13, Offset 20300.
 -- そのまた母上の……とにかく初代ッスね。
-　　de la mère de la mère de Mam'zelle Alice...
+      de la mère de la mère de Mam'zelle Alice...
 
 }
 [sha:53eb1e0c112fe517f96ce4deda4a8c71bf911569]{
 -- Page 13, Offset 20301.
 -- 初代の頃から伝わってきた、三つの奇跡。
-　　enfin, depuis l'époque du fondateur, quoi.
+      enfin, depuis l'époque du fondateur, quoi.
 
 }
 [sha:993b8fb6161518fdd48fb103144afc402b433b5a]{
 -- Page 14, Offset 20302.
 -- それが三大プロイ。
-　Ce sont les Trois Grands Ploy.
+    Ce sont les Trois Grands Ploy.
 
 }
 [sha:df684e0ec609e4e5b104f334b9015fc018e521cf]{
 -- Page 14, Offset 20303.
 -- 初めの魔女が造ったとされる、偉大な三品。
-　Les trois articles grandioses, qui auraient été créés par la toute première sorcière.
+    Les trois articles grandioses, qui auraient été créés par la toute première sorcière.
 
 }
 [sha:ab52221b9717ab9598376eaf34518e114c562f45]{
 -- Page 15, Offset 20304.
 -- 橋の巨人テムズトロル、
-　　Le Géant du Pont, Thames Troll,
+          Le Géant du Pont, Thames Troll,
 
 }
 [sha:7e53d7981e823af0796e63ce69f82cbfc700968b]{
 -- Page 15, Offset 20305.
 -- 月の油フラットスナーク、
-　　l'Huile de la Lune, Flat Snark,
+          l'Huile de la Lune, Flat Snark,
 
 }
 [sha:b5d9ec3c0ec3fe405c72d7ab5c7459607b43db60]{
 -- Page 15, Offset 20306.
 -- 三つ目は……あれ、何だったっス？
-　　et le troisième est...... Tiens, c'est qui déjà ?
+          et le troisième est...... Tiens, c'est qui déjà ?
 
 }
 [sha:aec224dc0640b057ad49180aa40fd0b4d58f9c0e]{
 -- Page 16, Offset 20307.
 -- 最後の一体はまだ秘密よ。
-　Le dernier est encore secret.
+    Le dernier est encore secret.
 
 }
 [sha:c6a5a929907c518314bae9398e892cbf888f8c73]{
 -- Page 16, Offset 20308.
 -- 今回はテムズの話をしましょう。
-　Cette fois-ci, parlons de Thames.
+    Cette fois-ci, parlons de Thames.
 
 }
 [sha:23fb5bfc17d85367a1e2bcd67195781172559383]{
 -- Page 17, Offset 20309.
 -- もとになったマザーグースはロンドン橋。
-　　　Le Mother Goose d'origine est le Pont de Londres.
+    Le Mother Goose d'origine est le Pont de Londres.
 
 }
 [sha:8b5dcc0c4d31019d204144f179f6a5e0417e946f]{
 -- Page 17, Offset 20310.
 -- 『ロンドン橋　落ちた　落ちた　落ちた
-　　　『Le Pont de Londres est tombé, est tombé, est tombé,
+    『Le Pont de Londres est tombé, est tombé, est tombé,
 
 }
 [sha:7567d5ddf2cc782ace41958248c31175e7ce73fe]{
 -- Page 17, Offset 20311.
 -- ロンドン橋　落ちた　<わたしのきれいなご婦人よ|マ　イ　フ　ェ　ア　レ　デ　ィ >』
-　　　le Pont de Londres est tombé, My Fair Lady.』
+    le Pont de Londres est tombé, My Fair Lady.』
 
 }
 [sha:f07244793d08cf42f7baf70afd0c6829e0b553bc]{
 -- Page 18, Offset 20312.
 -- 日本語訳されて音楽の教材にもなっているから、
-　Cette comptine a été traduite en japonais et s'apprend
+  Cette comptine a été traduite en japonais et s'apprend
 
 }
 [sha:48cc1aba3e95302cf54f17ecd6e2d0b2d58ce7b7]{
 -- Page 18, Offset 20313.
 -- 知っている人も多いでしょうね。
-　même à l'école. Nombre de personnes doivent la connaître.
+  même à l'école. Nombre de personnes doivent la connaître.
 
 }
 [sha:7359dd551461226b78f3b7dc7a9f309eeab3324a]{
 -- Page 19, Offset 20314.
 -- 別名、デオチトロルッスー！
-　Alias, le Troll Négligent !
+  Alias, le Troll Négligent !
 
 }
 [sha:5a181195451a964e7d4d637afb03653420c2f0b3]{
 -- Page 19, Offset 20315.
 -- こいつ、ザコ相手にしか活躍してないッスよね！
-　Il ne sert que contre le menu fretin !
+  Il ne sert que contre le menu fretin !
 
 }
 [sha:d8c17775ad0e0dbf4c3040b6f2e5fd544c0715d2]{
 -- Page 20, Offset 20316.
 -- ……相手が悪かったのよ。
-　　　...... C'était un adversaire redoutable.
+      ...... C'était un adversaire redoutable.
 
 }
 [sha:6d2fdb97f27d8341dc1685b25e40d8c5dd386dc2]{
 -- Page 20, Offset 20317.
 -- それに、わたしとの相性も悪いし。
-　　　Et puis, lui et moi ne sommes pas vraiment compatibles.
+      Et puis, lui et moi ne sommes pas vraiment compatibles.
 
 }
 [sha:9617664f39298fa9cc0910995c98a2a1eef494f5]{
 -- Page 20, Offset 20318.
 -- 実はわたし、テムズをうまく使えないの。
-　　　En fait, je ne peux pas utiliser correctement Thames.
+      En fait, je ne peux pas utiliser correctement Thames.
 
 }
 [sha:0bde8724902be47789e979392a05184ee3d65ceb]{
 -- Page 21, Offset 20319.
 -- わたしが顕現させられるのは二段階目まで。
-　　Je ne peux le manifester que jusqu'au deuxième couplet.
+    Je ne peux le manifester que jusqu'au deuxième couplet.
 
 }
 [sha:c15d1742f677f1af16d6f34541c5141a094b41ad]{
 -- Page 21, Offset 20320.
 -- 三番目と四番目の歌詞は未知の領域よ。
-　　Je n'ai jamais vu les troisième et quatrième couplets.
+    Je n'ai jamais vu les troisième et quatrième couplets.
 
 }
 [sha:ad8e903999e27703317ca40a62b3952a8ae656cb]{
 -- Page 22, Offset 20321.
 -- 三番目と四番目って、なんスか？
-　Troisième et quatrième ? Comment ça ?
+      Troisième et quatrième ? Comment ça ?
 
 }
 [sha:7d712675e7ac7b5affd103f829b822eaf97cde99]{
 -- Page 23, Offset 20322.
 -- ロンドン橋の歌詞よ。
-　　　Les paroles de la chanson du Pont de Londres.
+      Les paroles de la chanson du Pont de Londres.
 
 }
 [sha:bf590e470b61b57200ca930792116248c9762803]{
 -- Page 24, Offset 20323.
 -- 『～木と土は流される
-『～Les arbres et la terre sont emportés.
+  『～Les arbres et la terre sont emportés.
 
 }
 [sha:82f9561281ae362897537b78cb3dd0dc0587b9e5]{
 -- Page 24, Offset 20324.
 -- ～煉瓦とモルタルは崩れてしまう』
-　～Les briques et le mortier s'effondrent.』
+   ～Les briques et le mortier s'effondrent.』
 
 }
 [sha:ae4b5330d8235b7511c0eab6f538d2924702d730]{
 -- Page 25, Offset 20325.
 -- 『～鉄と鋼は折れ曲がる
-　　『～Le fer et l'acier se tordent.
+  『～Le fer et l'acier se tordent.
 
 }
 [sha:874ceb9968ba33aa1fe48cc17f2a1066b02c72f9]{
 -- Page 25, Offset 20326.
 -- ～銀と金は盗まれる』
-　　　～L'argent et l'or sont volés.』
+   ～L'argent et l'or sont volés.』
 
 }
 [sha:380c10293f60acffcfb45541c33866148fa730d8]{
 -- Page 26, Offset 20327.
 -- テムズはロンドン橋のプロイだけど、
-　　　　Thames est le Ploy du Pont de Londres,
+        Thames est le Ploy du Pont de Londres,
 
 }
 [sha:1fb949a066980b19de750e25386b9217af7a4fcd]{
 -- Page 26, Offset 20328.
 -- 時代に添ってその在り方を変えてきた。
-　　　　mais son apparence a changé au cours des siècles.
+        mais son apparence a changé au cours des siècles.
 
 }
 [sha:345d279a0279f8529fa5ee6ebf1bb8110f5fd580]{
 -- Page 26, Offset 20329.
 -- だから、今はマザーグース通り四種類の姿があるの。
-　　　　À présent, d'après Mother Goose, il a quatre formes.
+        À présent, d'après Mother Goose, il a quatre formes.
 
 }
 [sha:fde5f1cd0ad6da853ab81fdfa35a1bcac4dd2eaf]{
 -- Page 27, Offset 20330.
 -- ウッド、ストーンの他にまだ先があるんスね。
-　Donc il y a autre chose après le bois
+        Donc il y a autre chose après le bois
 
 }
 [sha:6268798c5aefa3c1d21a90db9c2fda02463ed120]{
 -- Page 27, Offset 20331.
 -- でもいいんスか、
-　et la pierre. Mais ça vous dérange pas ?
+        et la pierre. Mais ça vous dérange pas ?
 
 }
 [sha:19f00d1ec694367c6793ae1665c752aeb40baeff]{
 -- Page 27, Offset 20332.
 -- こんなカンタンに奥の手をさらしちゃって？
-　De révéler vos atouts, comme ça ?
+        De révéler vos atouts, comme ça ?
 
 }
 [sha:362e3d36c126e03c2f928f8b3aad17a488c71415]{
 -- Page 28, Offset 20333.
 -- ええ。ロンドン橋の歌詞なんて、
-　　Non. N'importe qui peut aisément se renseigner
+        Non. N'importe qui peut aisément se renseigner
 
 }
 [sha:63589cb89558e6595dccae52454b5d7a97b96a2f]{
 -- Page 28, Offset 20334.
 -- いまどき調べれば誰だって分かるのだし。
-　　sur la chanson du Pont de Londres de nos jours.
+        sur la chanson du Pont de Londres de nos jours.
 
 }
 [sha:837f4ab97344e0f60dbf96a46d940735545a0e00]{
 -- Page 29, Offset 20335.
 -- そもそもわたし、
-　　Et puis, de toute façon,
+     Et puis, de toute façon,
 
 }
 [sha:0f34132ae54b089a6bbaf0532c78c87c3216a064]{
 -- Page 29, Offset 20336.
 -- どうあってもストーンまでしか使えないわ。
-　　je ne peux aller que jusqu'au couplet de la pierre.
+     je ne peux aller que jusqu'au couplet de la pierre.
 
 }
 [sha:e37871c0404dfda5eae22f06d27a3ac0acbdf41e]{
 -- Page 29, Offset 20337.
 -- ネタをバラしても支障はないでしょう？
-　　En parler ne posera aucun problème.
+     En parler ne posera aucun problème.
 
 }
 [sha:bd87b3ec85838db4031c9dd0127eacef5200017f]{
 -- Page 30, Offset 20338.
 -- どうして使えないんスか？
-　　Pourquoi vous n'pouvez pas l'utiliser ?
+    Pourquoi vous n'pouvez pas l'utiliser ?
 
 }
 [sha:3415aa11757ad6272f4ec7c90b77d3e735491dd9]{
 -- Page 31, Offset 20339.
 -- わたし、人間の文明社会に興味がないもの。
-　Parce que la société humaine ne m'intéresse pas. Le
+      Parce que la société humaine ne m'intéresse pas. Le
 
 }
 [sha:8bd630c8412e869212427a62b3c9d713e7dc3d55]{
 -- Page 31, Offset 20340.
 -- わたしの心象世界にある橋は『木と石まで』、というコトね。
-　pont présent dans mon univers ne va que du bois à la roche.
+      pont présent dans mon univers ne va que du bois à la roche.
 
 }
 [sha:9cbd514b035f546355cd65ca53c3236d01c7c822]{
 -- Page 32, Offset 20341.
 -- なんと。
-　Comment !
+      Comment !
 
 }
 [sha:2f4b50e36681ed08ef0a6bcaa81cc4880c44d4fc]{
 -- Page 32, Offset 20342.
 -- 無敵のアリスさんにも弱点があったんスね……
-　Moi qui vous croyais invulnérable, vous cachez donc des points faibles......
+      Moi qui vous croyais invulnérable, vous cachez donc des points faibles......
 
 }
 [sha:d9caf36adc5c4b4c02998437c0342aceb841d1b3]{
 -- Page 33, Offset 20343. Mods: @n.
 -- あ。いや、振り返ってみればそんなに
-　Ah, non, en y repensant, vous n'êtes pas si invulnérable
+Ah, non, en y repensant, vous n'êtes pas si invulnérable
 
 }
 [sha:3099b4cc1d3bed19a12c85f79dec1a3cd2b9d93c]{
 -- Page 33, Offset 20344. Mods: @n.
 -- 無敵じゃなかったッスね！　アリスさん、負け星のが多いッス、
-　que ça ! Vous perdez souvent !
+que ça ! Vous perdez souvent !
 
 }
 [sha:dda790a138cc8e4cc5d26aba40f15e93e5903922]{
 -- Page 33, Offset 20345. Mods: @n.
 -- ジブンとおそろッスー！
-　Comme moi, quoi !
+Comme moi, quoi !
 
 }
 [sha:8c41652bc33d246386e18ef029ab7652e4c84148]{
 -- Page 34, Offset 20346.
 -- でも、風の噂によるとテムズトロルは
-Mais selon les rumeurs, j'ai cru comprendre
+      Mais selon les rumeurs, j'ai cru comprendre
 
 }
 [sha:8bfce474c88729c8b271f2359fd086fa8ac24386]{
 -- Page 34, Offset 20347.
 -- 世界屈指のゴーレムと聞いたッスよ。
-que Thames Troll était le meilleur golem au monde.
+      que Thames Troll était le meilleur golem au monde.
 
 }
 [sha:4514eba6f4d5dc04b3070df6bd929a1957f7e299]{
 -- Page 34, Offset 20348.
 -- 最高級のテムズトロルはどれくらい強いんスか？
-Il est fort à quel point, à son niveau maximum ?
+      Il est fort à quel point, à son niveau maximum ?
 
 }
 [sha:cfe7092f74e2b47aa40189f21d439a10e83caa96]{
 -- Page 35, Offset 20349.
 -- そうね。テムズを最後まで建築できる魔女が、
-　S'il existait une sorcière moderne capable
+      S'il existait une sorcière moderne capable
 
 }
 [sha:73fb3a2aab33316466462dce8673cf321aca3ad5]{
 -- Page 35, Offset 20350.
 -- もし現代にいるのなら―――
-　de l'invoquer complètement, alors―――
+      de l'invoquer complètement, alors―――
 
 }
 [sha:3f9111b2891d9bc1638d08ae64ef9c92fcf9170d]{
 -- Page 36, Offset 20351.
 -- そのテムズは奥の手を出しきった青子でも
-　Thames deviendrait un pont impossible à traverser,
+    Thames deviendrait un pont impossible à traverser,
 
 }
 [sha:9eceb64c64192d9776e4f52b1a2a4a3b5bd392c6]{
 -- Page 36, Offset 20352.
 -- 倒しきれない、踏破不可能の橋になるでしょうね。
-　que même Aoko ne pourrait détruire avec sa technique ultime.
+    que même Aoko ne pourrait détruire avec sa technique ultime.
 
 }
 [sha:2630d9654f0fc1e23500751d8d68664f9a944b88]{
 -- Page 37, Offset 20353.
 -- 産業革命時の<煤煙|スモッグ>都市、ロンドン。
-　　La ville du brouillard de la révolution industrielle, Londres.
+La ville du brouillard de la révolution industrielle, Londres.
 
 }
 [sha:da8d285746b7d21c816ff524fe5f550ca5649419]{
 -- Page 37, Offset 20354.
 -- その異名を上回る、都市の巨人として顕現するのだから。
-　　Il se manifesterait en tant que géant de la ville, allant jusqu'à sublimer son propre surnom.
+Il se manifesterait en tant que géant de la ville, allant jusqu'à sublimer son propre surnom.
 
 }
 [sha:6235f17cfabfbf1ebbeddbb5234374059cd29eca]{
 -- Page 38, Offset 20355.
 -- ハハハ、また大きく出たッスね！
-　Ha ha ha, vous y allez fort, encore !
+      Ha ha ha, vous y allez fort, encore !
 
 }
 [sha:8d897b3b640463ac10f4818164bcfec97accb702]{
 -- Page 38, Offset 20356.
 -- 都市！　都市っスか！
-　Une ville ! Une ville, hein ?
+      Une ville ! Une ville, hein ?
 
 }
 [sha:829dfbe89be3253e921421b080d60d5ac2699983]{
 -- Page 38, Offset 20357.
 -- 口だけならなんとでも言えるってヤツッス？
-　C'est facile à dire, pas vrai ?
+      C'est facile à dire, pas vrai ?
 
 }
 [sha:26d79d21cd98c69c90a3e374337604152a9ed183]{
 -- Page 39, Offset 20358.
 -- アリスさん、その見栄っ張りで負けず嫌いなところ、
-Mam'zelle Alice, vous f'riez mieux d'corriger
+    Mam'zelle Alice, vous f'riez mieux d'corriger
 
 }
 [sha:429490b6d03c84596c7d3f0d6161549b54f06d8b]{
 -- Page 39, Offset 20359.
 -- 直した方がいいッスよ。
-votre côté vantard et mauvais perdant.
+    votre côté vantard et mauvais perdant.
 
 }
 [sha:aa43e9672f3fbb342a5cbc7971f9b35f74078045]{
 -- Page 39, Offset 20360.
 -- 親愛なるプロイからの、涙の忠告ッス！
-C't'un conseil larmoyant d'votre cher Ploy !
+    C't'un conseil larmoyant d'votre cher Ploy !
 
 }
 [sha:46606f1cff1ec62a4a2159568576278ab6feb0d6]{
 -- Page 40, Offset 20361.
 -- ありがとう。
-　　Merci. Dans ce cas, si tu le veux bien,
+      Merci. Dans ce cas, si tu le veux bien,
 
 }
 [sha:65b64e668cdfa98b5ec4ceeaf744c53c1a2e069f]{
 -- Page 40, Offset 20362.
 -- それじゃあさっそく、
-　　aide-moi immédiatement
+      aide-moi immédiatement
 
 }
 [sha:dbccf18ae669f9b791a7c257156bfc028bca1842]{
 -- Page 40, Offset 20363.
 -- 性格改善に付き合ってもらおうかしら。
-　　à améliorer mon caractère.
+      à améliorer mon caractère.
 
 }
 [sha:b402a7fa31298b1ba9e1a150c219fb6c22a108e1]{
 -- Page 41, Offset 20364. Mods: @k, @e.
 -- まずは、“口だけなら”というところから。
-　　Commençons par ce “C'est facile à dire”.
+    Commençons par ce “C'est facile à dire”.
 
 }
 [sha:d60555d88258e289c9f24c9a4d3efca4f2f55d4a]{
 -- Page 41, Offset 20365.
 -- 出番よテムズ。
-　　C'est ton tour, Thames.
+    C'est ton tour, Thames.
 
 }
 [sha:f19ad510152ed70437b0e8bc437d68ba31860ae3]{
 -- Page 41, Offset 20366.
 -- アナタの力を見せてあげなさい。
-　　Montre-nous ton pouvoir.
+    Montre-nous ton pouvoir.
 
 }
 [sha:8779631a28bed2e2fcb15c35c80b7e03bbb10f18]{
 -- Page 42, Offset 20367.
 -- デオチ出たーーーーーー！
-　Le Négligent est apparuーーーーーー!
+    Le Négligent est apparuーーーーーー!
 
 }
 [sha:b38c79f8964f6c2907071f8af2cff78add0de649]{
 -- Page 42, Offset 20368.
 -- というか、すでにデオチの体の上だったッス？
-　En fait, j'étais déjà sur son corps ?
+    En fait, j'étais déjà sur son corps ?
 
 }
 [sha:0b1fb7ee03347227283cef08786f69e6bd267d5b]{
 -- Page 42, Offset 20369.
 -- 初めからジブンに逃げ場はなかったッス？
-　J'n'avais aucune issue depuis le début ?!
+    J'n'avais aucune issue depuis le début ?!
 
 }
 [sha:bc032c597b33f2f2dcfe73bc7ffa5a3574fdd99a]{
 -- Page 43, Offset 20370.
 -- そうよ。だから言ったでしょう。
-　Exactement. Je t'avais prévenu, non ?
+    Exactement. Je t'avais prévenu, non ?
 
 }
 [sha:91e591ad1726dad3a3fa429f5fb5c4838d5daad4]{
 -- Page 43, Offset 20371.
 -- 山を舐めるな、と。
-　Ne sous-estime pas la montagne.
+    Ne sous-estime pas la montagne.
 
 }
 [sha:b2ecbb733c5755040fb59f6c440ab826d8e6a63f]{
 -- Page 44, Offset 20372.
 -- いや、そういう意味じゃなかった気がするッス。
-　J'avais pas l'impression que c'était dans c'sens-là !
+      J'avais pas l'impression que c'était dans c'sens-là !
 
 }

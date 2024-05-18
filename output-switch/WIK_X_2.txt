@@ -1,24 +1,24 @@
 [sha:8d4df52607926e743aec9a2d048d4a3abe13cf4b]{
 -- Page 0, Offset 23944.
 -- そいつがすべての元凶。
-　C'était la cause de l'incident.
+  C'était la cause de l'incident.
 
 }
 [sha:ad1b1500a44aed6a0b26cdf142466f93d226c8f5]{
 -- Page 0, Offset 23945.
 -- プロイとやらを起動させられたのは誰だ、とわたしは思った。
-　Je me demandai qui avait activé ce Ploy.
+  Je me demandai qui avait activé ce Ploy.
 
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 1, Offset 23946.
 -- そうだ。
-　Mais oui !
+  Mais oui !
 
 }
 [sha:dc437f3cdf17e3038470c4d80d994e5c3c4402f8]{
 -- Page 1, Offset 23947.
 -- つまり、人物Ａは、
-　L'individu A n'était autre que...
+  L'individu A n'était autre que...
 
 }

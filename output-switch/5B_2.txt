@@ -1,55 +1,55 @@
 [sha:3659df9d31bb0ea08cc37c05f4c3270f0e0f2f6a]{
 -- Page 0, Offset 6696.
 -- かくして、遊園地は遠き日の輝きを取り戻した。
-　Ce fut ainsi que le parc d'attractions retrouva sa superbe des jours d'antan.
+  Ce fut ainsi que le parc d'attractions retrouva sa superbe des jours d'antan.
 
 }
 [sha:dddcd6a326a66ca11ed8623d6946cf1be022096d]{
 -- Page 0, Offset 6697.
 -- 夜を照らす無数の電飾。
-　Les innombrables décorations scintillantes illuminant la nuit.
+  Les innombrables décorations scintillantes illuminant la nuit.
 
 }
 [sha:659bc4f4c59845e178cf08f4bb5eb7cdeb23241e]{
 -- Page 0, Offset 6698.
 -- スピーカーから流れるレコードの音。
-　Le son d'un disque parvenant des haut-parleurs.
+  Le son d'un disque parvenant des haut-parleurs.
 
 }
 [sha:bfc28242e0427ca84644b9d5ac218865234fe47b]{
 -- Page 0, Offset 6699.
 -- くるくると回りだす大小のゴーラウンド。
-　Le petit carrousel tournoyant sur lui-même.
+  Le petit carrousel tournoyant sur lui-même.
 
 }
 [sha:091cd501e6a270426e575bae07e61c5e3ef7d21c]{
 -- Page 1, Offset 6700.
 -- ……言うまでもなく、すべてあり得ない光景だ。
-　...... Il allait sans dire que tout cela formait un spectacle inimaginable.
+  ...... Il allait sans dire que tout cela formait un spectacle inimaginable.
 
 }
 [sha:7c5afea4d142e05756d90469ecd49330a446c1c8]{
 -- Page 1, Offset 6701.
 -- 魔力を電流に変換して施設を動かす、というのも錬金術なら可能だろう。
-　Transformer le prana en courant électrique et faire mouvoir un établissement entier était sans doute possible avec l'Alchimie.
+  Transformer le prana en courant électrique et faire mouvoir un établissement entier était sans doute possible avec l'Alchimie.
 
 }
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 1, Offset 6702.
 -- ―――だが。
-　―――Toutefois,
+  ―――Toutefois,
 
 }
 [sha:1d08e86e051d11eba24369de190129267431f29f]{
 -- Page 1, Offset 6703.
 -- 仮に電気が供給されたとしても、壊れたものは蘇らない。
-　même en l'alimentant en électricité, un objet cassé ne peut revenir à la vie.
+  même en l'alimentant en électricité, un objet cassé ne peut revenir à la vie.
 
 }
 [sha:7e809c68c11db03b379eb8002c178f62a40ec70a]{
 -- Page 1, Offset 6704.
 -- 少女が調合しているものは化学式ではなく、摂理を<融|と>かす魔女の鍋に他ならない。
-　Ce qu'elle préparait dans sa marmite de sorcière n'était pas une mixture chimique mais quelque chose qui ignorait les lois de la nature.
+  Ce qu'elle préparait dans sa marmite de sorcière n'était pas une mixture chimique mais quelque chose qui ignorait les lois de la nature.
 
 }
 [sha:5337ea7946df14dce937b38f415c778ff5c81b1d]{
@@ -67,31 +67,31 @@
 [sha:da365c342fe945c967f5deaf2e421ddb97367faf]{
 -- Page 2, Offset 6707.
 -- 不安を押し殺し、青子は右腕の刻印に火をいれる。
-　Aoko refoula son appréhension et mit en marche le Sceau de son bras droit.
+  Aoko refoula son appréhension et mit en marche le Sceau de son bras droit.
 
 }
 [sha:3961aafdc6c9beba7f8a9f27ced1d99126c74633]{
 -- Page 3, Offset 6708. Mods: @n.
 -- 魔術回路が魔術師の<基|エ><本|ン><性|ジ><能|ン>なら、
-　Si le Circuit Magique est la carte-mère du Mage,
+  Si le Circuit Magique est la carte-mère du Mage,
 
 }
 [sha:3d745aee44ce8ce1ccecc1661212669ffdb11f32]{
 -- Page 3, Offset 6709. Glued.
 -- 刻印は魔術行使を補助する<演算装置|ソフトウェア>だ。
-　alors le Sceau est un logiciel facilitant l'usage de la Magie.
+  alors le Sceau est un logiciel facilitant l'usage de la Magie.
 
 }
 [sha:635d9dbe2649fd9a65f466189077ff7e6095f063]{
 -- Page 3, Offset 6710.
 -- 魔術師として半人前の青子を助ける切り札。
-　En tant que Mage novice, Aoko s'aidait grandement de cet atout.
+  En tant que Mage novice, Aoko s'aidait grandement de cet atout.
 
 }
 [sha:3a3cbc896294b71ab861385abe0a157d07940d00]{
 -- Page 3, Offset 6711.
 -- 刻印化された術式なら魔力を通すだけで……その効能は劣化するにしても……再現できる、蒼崎の後継者の証である。
-　En archivant un sort dans un Sceau, il suffisait d'y introduire son prana pour pouvoir le reproduire, même si l'efficacité était moindre...... Cela prouvait qu'elle était bien le successeur des Aozaki.
+  En archivant un sort dans un Sceau, il suffisait d'y introduire son prana pour pouvoir le reproduire, même si l'efficacité était moindre...... Cela prouvait qu'elle était bien le successeur des Aozaki.
 
 }
 [sha:fede538ce3c4c4731ed3e4e351350f6b44180aba]{
@@ -103,61 +103,61 @@
 [sha:e26dcafe1f9463446716540773b8e90509e19034]{
 -- Page 4, Offset 6713.
 -- 刻印の紋様を術式再現のカタチに切り替え、自身の魔力回路に繋ぐ。
-　Elle modifia son Sceau afin d'obtenir la forme pour reproduire le sort puis y connecter son Circuit Magique.
+  Elle modifia son Sceau afin d'obtenir la forme pour reproduire le sort puis y connecter son Circuit Magique.
 
 }
 [sha:5e64b2fee6b4e0276bec5132024c128266eb1efe]{
 -- Page 4, Offset 6714.
 -- 列車の<路線変更|レールチェンジ>じみた、何十という回路の<形成|パズル>。
-　Il fallait combiner des dizaines de circuits qui formaient un véritable puzzle, comme les changements d'une ligne ferroviaire.
+  Il fallait combiner des dizaines de circuits qui formaient un véritable puzzle, comme les changements d'une ligne ferroviaire.
 
 }
 [sha:b6bca0fe10fc41778fabc602646e9f15dec1d414]{
 -- Page 4, Offset 6715.
 -- それをできるだけ迅速に、可能な限り丁寧に組みたてる。
-　Elle l'assembla le plus rapidement et le plus minutieusement possible.
+  Elle l'assembla le plus rapidement et le plus minutieusement possible.
 
 }
 [sha:66cf3142cf154f0f94e56aa3dbe7a21413aa0197]{
 -- Page 5, Offset 6716.
 -- <無詠唱|そくせき>の魔術では久遠寺有珠に届かない。
-　Elle ne pourrait pas toucher Kuonji Alice avec un sort préparé à la hâte.
+  Elle ne pourrait pas toucher Kuonji Alice avec un sort préparé à la hâte.
 
 }
 [sha:45dde5a17b00c37681de69b0f05e50f4fec19c6d]{
 -- Page 5, Offset 6717.
 -- 先の魔弾で有珠を守る防壁の強度は<測|はか>った。
-　Elle avait pu mesurer avec ses balles de prana la force du rempart qui la protégeait.
+  Elle avait pu mesurer avec ses balles de prana la force du rempart qui la protégeait.
 
 }
 [sha:8e7e12b8f040358278797cd4bd99b308ce2a968e]{
 -- Page 5, Offset 6718.
 -- 今度は先の五倍、二十トンの衝撃を叩きこむ。
-　Cette fois, elle allait l'attaquer avec une puissance cinq fois supérieure, avec un impact de vingt tonnes.
+  Cette fois, elle allait l'attaquer avec une puissance cinq fois supérieure, avec un impact de vingt tonnes.
 
 }
 [sha:127ec028bb64950e79f4fe2a92a0ba7f5f91261e]{
 -- Page 5, Offset 6719.
 -- 漂いだした濃霧の守りと、有珠が常に<纏|まと>っている障壁。
-　Alice était toujours protégée par l'épais brouillard et le rempart qui l'entouraient.
+  Alice était toujours protégée par l'épais brouillard et le rempart qui l'entouraient.
 
 }
 [sha:a9e0d4f91299c0d042f40e23db999f240572fb5a]{
 -- Page 5, Offset 6720.
 -- 両方合わせても十分に貫通する。
-　Mais même si elle devait transpercer les deux en même temps, ça suffirait amplement.
+  Mais même si elle devait transpercer les deux en même temps, ça suffirait amplement.
 
 }
 [sha:b6ece30bf44af56c623678da20b3810ee843287c]{
 -- Page 6, Offset 6721.
 -- なので、当たりどころが悪ければ胸骨が心臓に刺さってノックアウト。
-　Et donc, si elle se faisait toucher au mauvais endroit, son sternum s'enfoncerait dans son cœur, ce qui serait un coup fatal.
+  Et donc, si elle se faisait toucher au mauvais endroit, son sternum s'enfoncerait dans son cœur, ce qui serait un coup fatal.
 
 }
 [sha:8b604b1d5ff14c725010d5ca10eb43342cfeebbd]{
 -- Page 6, Offset 6722.
 -- <最悪|さいあく>でも時計台からは撃ち落とせる、のだが―――
-　Dans le pire des cas, cela devrait au moins la faire tomber de la tour d'horloge, mais―――
+  Dans le pire des cas, cela devrait au moins la faire tomber de la tour d'horloge, mais―――
 
 }
 [sha:f7e83966c54f990efb3bcaa0dadf3ae2e7acb367]{
@@ -169,13 +169,13 @@
 [sha:36a790fa5657378bfe3cfd8e7a9f767eda47a243]{
 -- Page 6, Offset 6724.
 -- 殺し合いモードに入った緊張感を台無しにする男がひとり。
-　quelqu'un perturba sa concentration alors qu'elle était entrée en mode tuerie.
+  quelqu'un perturba sa concentration alors qu'elle était entrée en mode tuerie.
 
 }
 [sha:7582ea064b6b54379f6db942fc9c296485ae173c]{
 -- Page 7, Offset 6725.
 -- さっきから難しい顔で青子と有珠を交互に観察していた草十郎は、
-　Sōjūrō, qui observait depuis un moment Aoko et Alice tour à tour d'un air incrédule,
+  Sōjūrō, qui observait depuis un moment Aoko et Alice tour à tour d'un air incrédule,
 
 }
 [sha:e1e1c6bd46d039ee2ef822f49f604c3ef0fcaa16]{
@@ -187,13 +187,13 @@
 [sha:6c22a1f0f79f2495c203d6e9c6d4dab4f54f6919]{
 -- Page 7, Offset 6727. Mods: @n.
 -- 駅まではどう行くんですか？
-　posa une question du genre :
+  posa une question du genre :
 
 }
 [sha:bef951d0a581333f52312660136c7ee992c91977]{
 -- Page 7, Offset 6728. Glued.
 -- みたいな質問を口にするのだった。
-　Comment va-t-on à la gare ?
+Comment va-t-on à la gare ?
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -205,7 +205,7 @@
 [sha:77c6e203f960cc6fcbad14257d7e23be1251014a]{
 -- Page 8, Offset 6730.
 -- 怒鳴り返したいところだが、こう真剣に訊かれると怒るより呆れてしまう。
-　Elle avait envie de lui hurler dessus, mais il le demandait tellement sérieusement que ça la blasait au lieu de l'énerver.
+  Elle avait envie de lui hurler dessus, mais il le demandait tellement sérieusement que ça la blasait au lieu de l'énerver.
 
 }
 [sha:78eeab861b5646bfa5daf64beeee76bdfcc1fb0a]{
@@ -217,7 +217,7 @@
 [sha:723a8b2cc5e7e5b9185ddc10475af53c7481aaee]{
 -- Page 8, Offset 6732.
 -- 青子はぐっとため息を飲みこんで、刻印の起動に意識を集中する。
-　Aoko ravala fermement un soupir et se concentra sur l'activation de son Sceau.
+  Aoko ravala fermement un soupir et se concentra sur l'activation de son Sceau.
 
 }
 [sha:d0ae78942afbc2118c1fdad91b70f64dc38b625e]{
@@ -229,7 +229,7 @@
 [sha:5279dd529b7217e3540b96909e03b3d16d2df827]{
 -- Page 9, Offset 6734.
 -- あの子から見れば、まあいい機会だし、遊園地ごと私を亡きものにしようってハラね」
-　Pour elle, c'est une bonne occasion de se débarrasser de moi, donc elle compte me faire disparaître en même temps que ce parc d'attractions.」
+  Pour elle, c'est une bonne occasion de se débarrasser de moi, donc elle compte me faire disparaître en même temps que ce parc d'attractions.」
 
 }
 [sha:41936f6f076d4143f27641e03978562f3c861d7b]{
@@ -241,7 +241,7 @@
 [sha:cd4cd56cdbaaaaedfbbe755781c68925bc4a66ce]{
 -- Page 9, Offset 6736.
 -- もっと簡単な言い回しプリーズ、と首をかしげる草十郎。
-　Donne-moi une explication plus facile à comprendre, please, disait le visage perplexe de Sōjūrō.
+  Donne-moi une explication plus facile à comprendre, please, disait le visage perplexe de Sōjūrō.
 
 }
 [sha:1257f7f7668f4e5d2bf870b15e9c398a41c96ff0]{
@@ -253,7 +253,7 @@
 [sha:44a7e6e1c2adc2e8eb891f7f966d55186e61d68b]{
 -- Page 10, Offset 6738.
 -- ……要するに、アンタも私も、あの子をどうにかしないと生きて帰れないってコトよ」
-　...... En d'autres termes, si toi et moi ne faisons rien en ce qui la concerne, on ne s'en sortira pas vivants.」
+  ...... En d'autres termes, si toi et moi ne faisons rien en ce qui la concerne, on ne s'en sortira pas vivants.」
 
 }
 [sha:377fee21295c3d25eb988b2b4cf36136a54c953b]{
@@ -271,19 +271,19 @@
 [sha:3d71e0d8cb4e75eaa4e523e289ee6c10222aad1e]{
 -- Page 12, Offset 6741.
 -- この期におよんで空気読めていない草十郎の叫びに、青子は渾身の右腕を放つ。
-　En réponse au cri de Sōjūrō qui, même à un moment pareil, ne comprenait toujours pas la situation, Aoko enflamma son bras droit avec toute la force de son esprit.
+  En réponse au cri de Sōjūrō qui, même à un moment pareil, ne comprenait toujours pas la situation, Aoko enflamma son bras droit avec toute la force de son esprit.
 
 }
 [sha:a16dd6dfe6be9858605277b16c41bd60fe859c10]{
 -- Page 12, Offset 6742.
 -- 狙いは草十郎ではない。
-　Sa cible n'était pas Sōjūrō.
+  Sa cible n'était pas Sōjūrō.
 
 }
 [sha:96122cc827a8534c82c50a11473d408beee0ccea]{
 -- Page 12, Offset 6743.
 -- ちょっと前までの青子なら草十郎へ掃射していた気配濃厚だが、今は時計台に立つ黒衣の少女が優先される―――！
-　Si ça avait été l'Aoko de quelques instants auparavant, elle aurait mitraillé Sōjūrō avec un tir concentré, mais maintenant, sa priorité était la fille en noir se tenant sur la tour d'horloge―――!
+  Si ça avait été l'Aoko de quelques instants auparavant, elle aurait mitraillé Sōjūrō avec un tir concentré, mais maintenant, sa priorité était la fille en noir se tenant sur la tour d'horloge―――!
 
 }
 [sha:8a50a2c6e16dee2982595d1e2704aa4dfe191a13]{
@@ -295,49 +295,49 @@
 [sha:592107ddea058af08a7f3ee5f3d705c71b4cc483]{
 -- Page 13, Offset 6745.
 -- あまりの驚きに状況把握が間に合わない。
-　Tout était allé tellement vite qu'elle n'avait pas eu le temps de comprendre ce qui s'était passé.
+  Tout était allé tellement vite qu'elle n'avait pas eu le temps de comprendre ce qui s'était passé.
 
 }
 [sha:1ba8d033b443d2853dde517e12af8fb2f2d366ed]{
 -- Page 13, Offset 6746.
 -- 現状で考えられる最速／最高威力の魔弾を防がれた。
-　Alice avait pu se protéger de la balle de prana, alors qu'Aoko lui avait donné la plus grande puissance possible au vu de la situation.
+  Alice avait pu se protéger de la balle de prana, alors qu'Aoko lui avait donné la plus grande puissance possible au vu de la situation.
 
 }
 [sha:c9f7582fc9475bc48636af6dd95bf5d9e7d930c8]{
 -- Page 13, Offset 6747.
 -- それはいい。
-　En soi, ce n'était pas vraiment surprenant.
+  En soi, ce n'était pas vraiment surprenant.
 
 }
 [sha:008a6197278e0937b61c6f54346814cca02531aa]{
 -- Page 13, Offset 6748.
 -- 有珠が本気で防御に徹すればそれぐらいはするだろう。
-　Si Alice se focalisait uniquement sur la défense, elle en était certainement capable.
+  Si Alice se focalisait uniquement sur la défense, elle en était certainement capable.
 
 }
 [sha:09360af5791e18e2c8b840a1587c10a7fb6961e4]{
 -- Page 14, Offset 6749.
 -- だが今のは何事か。
-　Mais que s'était-il passé à l'instant ?
+  Mais que s'était-il passé à l'instant ?
 
 }
 [sha:1037fb774e8dc02289bc03a93bf9844770cf981d]{
 -- Page 14, Offset 6750.
 -- 何か得体の知れないものが飛んできて有珠を守った。
-　Une chose mystérieuse était sortie de nulle part et avait protégé Alice.
+  Une chose mystérieuse était sortie de nulle part et avait protégé Alice.
 
 }
 [sha:99a7b62e0f5d2d5f3d97438dabb35c12902529c3]{
 -- Page 14, Offset 6751.
 -- 馬？バッタ？いや、そもそもあんな生き物はこの世には存在しない。
-　Des chevaux ? Des sauterelles ? Non, en premier lieu, les créatures d'Alice n'existaient pas dans ce monde.
+  Des chevaux ? Des sauterelles ? Non, en premier lieu, les créatures d'Alice n'existaient pas dans ce monde.
 
 }
 [sha:9da89b00a94933c2682ef03ed7ee4a2ed10b1049]{
 -- Page 14, Offset 6752.
 -- あんな風に―――雲霞のように群をなして、夜空を埋め尽くしたりはしない。
-　Les animaux normaux n'étaient pas censés pouvoir former―――des essaims grands comme des nuages et remplir totalement le ciel nocturne.
+  Les animaux normaux n'étaient pas censés pouvoir former―――des essaims grands comme des nuages et remplir totalement le ciel nocturne.
 
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{
@@ -349,73 +349,73 @@
 [sha:e6a55a463248bf6aaf25b134cb73beddfbcf95b8]{
 -- Page 15, Offset 6754.
 -- あり得ないものが、あり得ないカタチで動き出す。
-　Des êtres incroyables allaient et venaient d'une façon tout aussi incroyable.
+  Des êtres incroyables allaient et venaient d'une façon tout aussi incroyable.
 
 }
 [sha:616eed0063c020d007e74a7c69b8a43aaa6f5c77]{
 -- Page 15, Offset 6755.
 -- 少女は彼らに電源など与えていない。
-　Elle ne leur avait pas fourni de source d'électricité.
+  Elle ne leur avait pas fourni de source d'électricité.
 
 }
 [sha:b635446d5d4ac88d63fb81b278b1876bc413c07b]{
 -- Page 15, Offset 6756.
 -- そも必要としていない。
-　Ils n'en avaient pas besoin.
+  Ils n'en avaient pas besoin.
 
 }
 [sha:43851d6e0c79a10a5cdb7530d1439843cc0c2c5d]{
 -- Page 15, Offset 6757.
 -- 壊れ、<棄|す>てられた彼らは、もう人間の<法則|ルール>には従わない。
-　Ces choses, qui avaient été endommagées puis abandonnées, n'obéissaient plus aux règles humaines.
+  Ces choses, qui avaient été endommagées puis abandonnées, n'obéissaient plus aux règles humaines.
 
 }
 [sha:d31b2374a0556507057b2b398621d94716a87632]{
 -- Page 16, Offset 6758.
 -- それは、おとぎ話の侵略だった。
-　C'était une invasion de contes de fées.
+  C'était une invasion de contes de fées.
 
 }
 [sha:fcd0906508651ffd62e51d6502bbd6f819c62072]{
 -- Page 16, Offset 6759.
 -- <自動人形|オートマタ>なぞ優しいものだ。
-　En comparaison, l'Automate n'était pas si effrayant.
+  En comparaison, l'Automate n'était pas si effrayant.
 
 }
 [sha:b382a1564d9204adb82f04531ccfe30d5cd8950a]{
 -- Page 16, Offset 6760.
 -- 自律する人形は魔術の<業|わざ>によるものだが、それでも、人形としてのあり方を守っていた。
-　La marionnette fonctionnait grâce à un sort, mais malgré cela, sa nature restait inchangée.
+  La marionnette fonctionnait grâce à un sort, mais malgré cela, sa nature restait inchangée.
 
 }
 [sha:a57b33acdecead60822897bbd666583339bf4952]{
 -- Page 16, Offset 6761.
 -- だが―――動きだし、新たな命を得た<彼|・><ら|・>は、もう人形ですらない。
-　En revanche―――ces choses, qui avaient reçu une nouvelle vie et se mettaient à bouger d'elles-mêmes, n'étaient même plus des marionnettes.
+  En revanche―――ces choses, qui avaient reçu une nouvelle vie et se mettaient à bouger d'elles-mêmes, n'étaient même plus des marionnettes.
 
 }
 [sha:9fcfe82ba3a3fbfb81ec25da23d016b228cd8d28]{
 -- Page 17, Offset 6762.
 -- 器物が生物に、
-　Les objets se transformaient en êtres vivants,
+  Les objets se transformaient en êtres vivants,
 
 }
 [sha:507aae27e5763e5d1e282ea320eb7a9673b87d62]{
 -- Page 17, Offset 6763.
 -- 模型が畸形に変貌する。
-　et leurs structures se déformaient.
+  et leurs structures se déformaient.
 
 }
 [sha:bc58bc9788770669d6a639c114b52225f26df27b]{
 -- Page 17, Offset 6764.
 -- 広がりつつあるのは視覚化できるほど濃密な魔力の霧と、
-　Un brouillard magique, tellement épais qu'il en était presque opaque, se répandait dans le parc,
+  Un brouillard magique, tellement épais qu'il en était presque opaque, se répandait dans le parc,
 
 }
 [sha:41dfefb61d06cb3b79918d3e97aa88ebae37fdf1]{
 -- Page 17, Offset 6765.
 -- 入園者を歓迎する、千を超える<怪物|クリーチャー>たち……！
-　et plus d'un millier de créatures se précipitaient pour accueillir les visiteurs......!
+  et plus d'un millier de créatures se précipitaient pour accueillir les visiteurs......!
 
 }
 [sha:ac7d389ed817d00906af3eeac1e8623a22221312]{
@@ -427,13 +427,13 @@
 [sha:fbb60749b8ad72a9b8de26f4adc80dbc49772047]{
 -- Page 18, Offset 6767.
 -- 背中を走る戦慄につき動かされ、青子は一工程の魔弾を掃射する。
-　Décontenancée par les frissons qui lui parcouraient le dos, Aoko ouvrit le feu avec ses balles de prana à action unique.
+  Décontenancée par les frissons qui lui parcouraient le dos, Aoko ouvrit le feu avec ses balles de prana à action unique.
 
 }
 [sha:abf835ff772bf29c894edb5f8b77ffd153dd3117]{
 -- Page 19, Offset 6768.
 -- 無我夢中の攻撃は無様に散った。
-　Son attaque effrénée se dispersa grossièrement.
+  Son attaque effrénée se dispersa grossièrement.
 
 }
 [sha:fb6235d021cb9e0bdf56724dbd34ce92de383fc6]{
@@ -445,19 +445,19 @@
 [sha:cf977932fde65b0bf13c80da40069754a8e3c5c9]{
 -- Page 19, Offset 6770.
 -- メリーゴーラウンドの騎士は空を飛び、
-　Le chevalier du carrousel qui volait dans le ciel,
+  Le chevalier du carrousel qui volait dans le ciel,
 
 }
 [sha:d27e4be1b59fc9e0d2e50ce623c68ed87ee9d1b9]{
 -- Page 19, Offset 6771.
 -- <緑|みどり>トカゲは火を吹きながら集まりだす。
-　et le lézard vert qui crachait du feu se rejoignirent.
+  et le lézard vert qui crachait du feu se rejoignirent.
 
 }
 [sha:c6b9fb7e4f57e78ca1e22c7db61d0d8d6fdd6e7e]{
 -- Page 19, Offset 6772.
 -- 焼きたてべーカリーは経営を再開し、オーブンからは人間大の焼きたてパンが小隊を組んで進軍する。
-　La “boulangerie de pain frais” reprit son activité et fit sortir de ses fourneaux des pains fraîchement cuits et de forme humaine.
+  La “boulangerie de pain frais” reprit son activité et fit sortir de ses fourneaux des pains fraîchement cuits et de forme humaine.
 
 }
 [sha:094bdd38a0c419e82b10136f9af93552b019a2ad]{
@@ -469,43 +469,43 @@
 [sha:9305b04e4e91d44c7d122e482959002e816b3eae]{
 -- Page 20, Offset 6774.
 -- 青子と草十郎は包囲されつつあった。
-　Aoko et Sōjūrō étaient sur le point de se faire encercler de toutes parts.
+  Aoko et Sōjūrō étaient sur le point de se faire encercler de toutes parts.
 
 }
 [sha:c39776dfa512eaa05f9af79fafe8491996e7fbd9]{
 -- Page 20, Offset 6775.
 -- 軋みをあげてゆっくりとまわる観覧車。
-　La grande roue tournait lentement en grinçant.
+  La grande roue tournait lentement en grinçant.
 
 }
 [sha:a049ba9448454c56df352634e1b29af4d7894954]{
 -- Page 20, Offset 6776.
 -- 涙に濡れたキッツィーを乗せて、ガラクタの車両がコースターを走っていく。
-　Monté par le Kitsy trempé par ses propres larmes, le wagon en ferraille parcourait les montagnes russes.
+  Monté par le Kitsy trempé par ses propres larmes, le wagon en ferraille parcourait les montagnes russes.
 
 }
 [sha:4c7666a1ad936c8fd0a456f6d1a54288e4e4cea8]{
 -- Page 21, Offset 6777.
 -- あまりにも歪んだ幻想。
-　Cette vision était surréaliste.
+  Cette vision était surréaliste.
 
 }
 [sha:b61afb6911fd9b5bc8003bf9f01e5a8bd89b8101]{
 -- Page 21, Offset 6778.
 -- 赤く回りだした遊園地を背に、黒衣の少女は君臨する。
-　La jeune fille en noir régnait en maître sur le parc d'attractions rouillé.
+  La jeune fille en noir régnait en maître sur le parc d'attractions rouillé.
 
 }
 [sha:ba13632fdbaf7898ddc96c9717818d9ed6e7ec0d]{
 -- Page 22, Offset 6779.
 -- ああ、これはない。
-　Aah, non, c'est pas ça.
+  Aah, non, c'est pas ça.
 
 }
 [sha:f5dfabd25cdeb0806b64204607cc6afb0f7e361d]{
 -- Page 22, Offset 6780.
 -- これはないわ、と忘我しながら、青子はこの現象が何であるかに当たりをつけた。
-　C'est pas ça du tout, se dit Aoko interdite, en réalisant le phénomène qui se déroulait sous ses yeux.
+  C'est pas ça du tout, se dit Aoko interdite, en réalisant le phénomène qui se déroulait sous ses yeux.
 
 }
 [sha:4e3259a7df4a9d38400fda39441294214d22bb53]{
@@ -517,19 +517,19 @@
 [sha:20ad8eb86677914edfdee5d49c84146157a5d7f6]{
 -- Page 23, Offset 6782.
 -- 有珠に聞いたマインスターの使い魔たち。
-　Parmi les familiers de Meinster dont Alice lui avait parlé,
+  Parmi les familiers de Meinster dont Alice lui avait parlé,
 
 }
 [sha:81056643283a4a9cae4986c242e7afa3cf0e0049]{
 -- Page 23, Offset 6783.
 -- その中でも三本指に入る折り紙付きの使い魔が、これと似た出来事を起こすハズだ。
-　l'un de ses trois meilleurs Ploy avait le pouvoir de provoquer ce genre d'évènement.
+  l'un de ses trois meilleurs Ploy avait le pouvoir de provoquer ce genre d'évènement.
 
 }
 [sha:8e618afedf90af5775a23f87b562138572b4bb88]{
 -- Page 23, Offset 6784.
 -- 名前は、たしか―――
-　Si elle s'en rappelait bien, son nom était―――
+  Si elle s'en rappelait bien, son nom était―――
 
 }
 [sha:33e95297f45d82956c4d5b7db11f70a19068af34]{
@@ -553,13 +553,13 @@
 [sha:6cd60e8691635dcb01c2f9b5d4c21537f5cd856d]{
 -- Page 24, Offset 6788.
 -- 青い魔弾を受け、木っ端微塵に砕け散るクリーチャー。
-　La créature reçut une balle de prana de couleur bleue et explosa en mille morceaux.
+  La créature reçut une balle de prana de couleur bleue et explosa en mille morceaux.
 
 }
 [sha:8dee6bcb3cd925c9f483431cecc421aebd1ccf36]{
 -- Page 24, Offset 6789.
 -- 青子の魔弾の威力があがっている、というのもあるが、一体一体は自動人形ほど頑丈ではないようだ。
-　C'était la conséquence de l'augmentation de la puissance des balles d'Aoko, mais c'était surtout le résultat de la faible robustesse des créatures par rapport à l'Automate.
+  C'était la conséquence de l'augmentation de la puissance des balles d'Aoko, mais c'était surtout le résultat de la faible robustesse des créatures par rapport à l'Automate.
 
 }
 [sha:6cfe6d807d56087337e0ad788ddc39b8301a6073]{
@@ -571,7 +571,7 @@
 [sha:113470325b3d42c32868228906e3580aee2af575]{
 -- Page 25, Offset 6791.
 -- 青子は時計台に背を向けて、草十郎の手をとって走りだす。
-　Aoko tourna le dos à la tour d'horloge, prit la main de Sōjūrō et se mit à courir.
+  Aoko tourna le dos à la tour d'horloge, prit la main de Sōjūrō et se mit à courir.
 
 }
 [sha:203b84262d2cb5f8b664d9783894bdd050a7925f]{
@@ -589,7 +589,7 @@
 [sha:d372c1884c9d3546245e25a2fe1a6a4c3c090b4c]{
 -- Page 26, Offset 6794. Glued. Mods: @x.
 -- 逃げるわよ！」
-　On s'enfuit !」
+  On s'enfuit !」
 
 }
 [sha:4e7275be333ea24e1681e22d5da51af02dd553b2]{
@@ -607,18 +607,18 @@
 [sha:cdfd7496091f97936f84b7cbec8949eecf8d5457]{
 -- Page 27, Offset 6797.
 -- 自分に言い聞かせるように叫んで、青子は気合いで道を<拓|ひら>く。
-　Elle vociféra comme si elle se parlait à elle-même et ouvrit la route en criant.
+  Elle vociféra comme si elle se parlait à elle-même et ouvrit la route en criant.
 
 }
 [sha:e896f56634a017a2baf2098f2405e3a69ceca3f5]{
 -- Page 27, Offset 6798.
 -- 放たれる魔弾は悲鳴そのものだ。
-　Son cri était accompagné des balles de prana qu'elle tirait.
+  Son cri était accompagné des balles de prana qu'elle tirait.
 
 }
 [sha:ed34d1c4e208a4955f4554a668dbf5efd3d80a24]{
 -- Page 27, Offset 6799.
 -- 立ちふさがる……というより、ただ集まっていただけのクリーチャーたちを吹き飛ばし、ふたりは包囲網を抜けだした。
-　Elle souffla les créatures en train de se rassembler...... qui commençaient déjà à les encercler, et ils s'échappèrent du filet qui se refermait sur eux.
+  Elle souffla les créatures en train de se rassembler...... qui commençaient déjà à les encercler, et ils s'échappèrent du filet qui se refermait sur eux.
 
 }

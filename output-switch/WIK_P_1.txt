@@ -1,7 +1,7 @@
 [sha:fb68e00170b5566eb802b8c4f8c45122cbedc9ef]{
 -- Page 0, Offset 22930.
 -- わたしは、蒼崎をひとりにするのは危険だ、と思った。
-　Je songeai qu'il était dangereux de laisser Aoko seule.
+  Je songeai qu'il était dangereux de laisser Aoko seule.
 
 }
 [sha:91459bc50c59ad461c7ae6c03505d17e5039d079]{
@@ -25,49 +25,49 @@
 [sha:b3193dad508b90ce8ab9c4222c1d993330b0481f]{
 -- Page 2, Offset 22934.
 -- こう言えば蒼崎は断れない。
-　Présenté ainsi, Aozaki ne pouvait pas refuser l'offre.
+  Présenté ainsi, Aozaki ne pouvait pas refuser l'offre.
 
 }
 [sha:1d20756f60cf6bed1fee9fa2f89f55903796225a]{
 -- Page 2, Offset 22935.
 -- わたしが同行を申し出たのは、彼女の身を案じて……もあるけど、もうひとつ、見過ごせない理由があるからだ。
-　J'avais proposé de l'accompagner par inquiétude pour elle... mais aussi pour une autre raison que je ne pouvais pas ignorer.
+  J'avais proposé de l'accompagner par inquiétude pour elle... mais aussi pour une autre raison que je ne pouvais pas ignorer.
 
 }
 [sha:9c4b1136353405ce91962cf69efa7a530cf78935]{
 -- Page 3, Offset 22936.
 -- 残ったメンバーの中で不審な点が多いのは、トップクラスで蒼崎だ。
-　Parmi les membres restants, Aozaki était la plus suspecte.
+  Parmi les membres restants, Aozaki était la plus suspecte.
 
 }
 [sha:122e36921ff4df4eb39c10e09caf0275f918d64e]{
 -- Page 3, Offset 22937.
 -- 彼女をひとりで行動させるのは、いろいろと良くない。
-　La laisser agir seule pouvait se révéler risqué sur bien des points.
+  La laisser agir seule pouvait se révéler risqué sur bien des points.
 
 }
 [sha:21463fe5e8fe50bbc0e94b883e7f3c7add57438c]{
 -- Page 3, Offset 22938.
 -- 彼女が真犯人……スイーツハーツとやらならわたしたちの命が危ないし、そうでないなら、後々彼女が疑われてしまう。
-　Si elle était le véritable coupable, ce soi-disant Sweets Hearts, alors nos vies seraient en danger, et si ce n'était pas le cas, elle pourrait être suspectée à tort par la suite.
+  Si elle était le véritable coupable, ce soi-disant Sweets Hearts, alors nos vies seraient en danger, et si ce n'était pas le cas, elle pourrait être suspectée à tort par la suite.
 
 }
 [sha:3808f63c90d2fe8b136b7934d992f85231ebbc8e]{
 -- Page 4, Offset 22939.
 -- 外は見るからに危険だし、
-　De toute évidence, il était dangereux d'aller à l'extérieur,
+  De toute évidence, il était dangereux d'aller à l'extérieur,
 
 }
 [sha:d25b75aafff4971dc9ae78bbadc380cf60433aa9]{
 -- Page 4, Offset 22940.
 -- 槻司と番をしている未来にも未練はあるけど、
-　et la possibilité d'être seule avec Tobimaru me tentait,
+  et la possibilité d'être seule avec Tobimaru me tentait,
 
 }
 [sha:d6f157a6e5c71e45a36688827b9c805a125eee86]{
 -- Page 4, Offset 22941.
 -- ここで自分可愛さで黙っていられるほど、蒼崎との高校生活は軽くはなかったのだ。
-　mais ma vie lycéenne avec Aozaki n'était pas assez superficielle pour que je me taise maintenant pour le bien de ma pauvre petite personne.
+  mais ma vie lycéenne avec Aozaki n'était pas assez superficielle pour que je me taise maintenant pour le bien de ma pauvre petite personne.
 
 }
 [sha:e9861b6b72a53cb1381420741b20275b3f2f6d31]{
@@ -79,13 +79,13 @@
 [sha:dbc168018a057920c2652ff2f7c45bb59446be59]{
 -- Page 5, Offset 22943.
 -- でも、ぜったいに私のそばから離れないでね。
-　Mais ne t'éloigne pas de moi quoi qu'il arrive.
+  Mais ne t'éloigne pas de moi quoi qu'il arrive.
 
 }
 [sha:ef6f25faee339f74fdeee2ffbde6a6b2891d7eda]{
 -- Page 5, Offset 22944.
 -- それでいいでしょ、詠梨？」
-　Tu es d'accord, Eiri ?」
+  Tu es d'accord, Eiri ?」
 
 }
 [sha:f9f1fa0e73987b9adab1752c9b4b50ecbb57c772]{
@@ -97,13 +97,13 @@
 [sha:24ceff3871a5475b75e98ad00f3516f3822cadb1]{
 -- Page 6, Offset 22946.
 -- 詠梨神父も同じ考えらしい。
-　Père Eiri avait l'air de penser la même chose que moi.
+  Père Eiri avait l'air de penser la même chose que moi.
 
 }
 [sha:57be411314547eeb9a28399e3164b3c4a3d632b0]{
 -- Page 6, Offset 22947.
 -- ……彼、冷酷なイメージがあったけど、ホントは人一倍蒼崎を心配しているんじゃないだろうか？
-　... Il renvoyait une image froide, mais en réalité, c'était probablement la personne qui s'inquiétait le plus pour Aozaki.
+  ... Il renvoyait une image froide, mais en réalité, c'était probablement la personne qui s'inquiétait le plus pour Aozaki.
 
 }
 [sha:f2480f19cc32a77bf4c0808eb8ad12bb2ea95e02]{
@@ -115,7 +115,7 @@
 [sha:c88bed7d686c22ccc8181e96595d38cb5f21c30a]{
 -- Page 7, Offset 22949.
 -- 詠梨、外にでたら右手側からぐるっと一周してきて。私は左手側から見ていくから」
-　Eiri, en sortant, fais le tour en passant par le côté droit. Nous, on passera par la gauche.」
+  Eiri, en sortant, fais le tour en passant par le côté droit. Nous, on passera par la gauche.」
 
 }
 [sha:5efbb9c4eef7fc2251740484cb0afa12afb7dcb9]{
@@ -139,7 +139,7 @@
 [sha:39608a0bf5196af25f941b714afdf40b0b99a67b]{
 -- Page 8, Offset 22953.
 -- 久万梨、枝が飛んでくるかもしれないから頭を低くしておくんだぞ。蒼崎はこういう時にかぎって不思議な効果を発揮するから、そうなったらフォローしてやってくれ」
-　Kumari, il y aura peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
+  Kumari, il y aura peut-être des branches qui volent, alors garde la tête baissée. Aozaki fait preuve, mais seulement dans ce genre de moment, d'une étrange efficacité, alors si ça arrive, soutiens-la.」
 
 }
 [sha:cf3d4725190d8ee9851312d10cdec38c3e74a989]{
@@ -151,7 +151,7 @@
 [sha:0536ff8e29af31a0e0b171c425f14aaa8374b47c]{
 -- Page 9, Offset 22955.
 -- 静希の忠告にうなずいて、わたしは蒼崎と一緒に外に出た。
-　J'acquiesçai à l'avertissement de Shizuki et sortit dehors avec Aozaki.
+  J'acquiesçai à l'avertissement de Shizuki et sortit dehors avec Aozaki.
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -163,13 +163,13 @@
 [sha:37b2c38babba641a76bb88db10ec517a6d05f5b5]{
 -- Page 10, Offset 22957.
 -- 外の嵐は予想以上だった。
-　La tempête s'avérait pire que prévu.
+  La tempête s'avérait pire que prévu.
 
 }
 [sha:346dc0f8807bf47d376522660ad940f3e3be562a]{
 -- Page 10, Offset 22958.
 -- 風が強くてまともに目を開けていられない。
-　Le vent était si fort que je ne pouvais pas garder les yeux ouverts.
+  Le vent était si fort que je ne pouvais pas garder les yeux ouverts.
 
 }
 [sha:2da784c6c0766f46934e7b71c03b344e4c66be0e]{
@@ -181,19 +181,19 @@
 [sha:0167bc86b2f2d8c0de311e88f097adf231e60b1e]{
 -- Page 11, Offset 22960.
 -- 前を行く蒼崎が左手を出してくる。
-　Aozaki, qui avait pris les devants, me tendit sa main gauche.
+  Aozaki, qui avait pris les devants, me tendit sa main gauche.
 
 }
 [sha:25f301eab884208db57af112a9b5303bc3688556]{
 -- Page 11, Offset 22961.
 -- わたしはしっかり握り返す。蒼崎の手は、ゾッとするほど冷たかった。
-　Je la saisis fermement. Sa main était si froide que j'en eus des frissons.
+  Je la saisis fermement. Sa main était si froide que j'en eus des frissons.
 
 }
 [sha:323fb4e389b5dc4f99a4722c9ec084f5a4d4d762]{
 -- Page 12, Offset 22962.
 -- 屋敷の側面に回ったあたりで、蒼崎の足が止まった。
-　Aozaki s'arrêta une fois arrivée sur le côté du manoir.
+  Aozaki s'arrêta une fois arrivée sur le côté du manoir.
 
 }
 [sha:4fa7fc8295d2e1c80946bfa68d469e110eb0a5f9]{
@@ -211,13 +211,13 @@
 [sha:4e4f9a2a3c80b63edc595f273cb252eeb44a5c26]{
 -- Page 12, Offset 22965.
 -- とてもじゃないが目を開けていられない。
-　Je ne pouvais pas ouvrir les yeux.
+  Je ne pouvais pas ouvrir les yeux.
 
 }
 [sha:0ca451df610e64200777861ef45dec4aab8790dd]{
 -- Page 12, Offset 22966.
 -- 蒼崎はちょっとだけ思案した後、
-　Après un instant de réflexion, Aozaki ajouta :
+  Après un instant de réflexion, Aozaki ajouta :
 
 }
 [sha:fa5002b89e19706075fe7367a3709257c99bfcf6]{
@@ -229,7 +229,7 @@
 [sha:6d2bb2a8c60dab56143c383e32fa19776ad63ae4]{
 -- Page 13, Offset 22968.
 -- さっきの光、間違いなくアイツだ……！」
-　La lumière d'à l'instant, ça ne pouvait être que lui...!」
+  La lumière d'à l'instant, ça ne pouvait être que lui...!」
 
 }
 [sha:fb3362ba9e239e6dbf86081e40b25b3c4c1a42e1]{
@@ -241,13 +241,13 @@
 [sha:eb5216fea3256f2ab5c49543fe96a41e14cac236]{
 -- Page 14, Offset 22970.
 -- わたしの制止の声も届かない。
-　Ma voix ne l'atteignit pas.
+  Ma voix ne l'atteignit pas.
 
 }
 [sha:a235af669b40462c953111eab337d7932602bdae]{
 -- Page 14, Offset 22971.
 -- 蒼崎は屋敷とは反対の、深い森へと走っていってしまった。
-　Aozaki s'était précipitée dans la forêt dense dans la direction opposée au manoir.
+  Aozaki s'était précipitée dans la forêt dense dans la direction opposée au manoir.
 
 }
 [sha:7d3a6f98affb4c8c5ba1bee4ffe2640c390f0095]{
@@ -259,13 +259,13 @@
 [sha:433e3c9dba03017fee323cf9ce02a1b7696a0e1c]{
 -- Page 15, Offset 22973.
 -- ヤケになって叫ぶ。
-　Désespérée, je criai.
+  Désespérée, je criai.
 
 }
 [sha:e87e540c3f40190ab4a220bf96bc9c2dc1a237e5]{
 -- Page 15, Offset 22974.
 -- と、わたしの声が聞こえたのか、
-　Puis, peut-être avait-elle entendu ma voix,
+  Puis, peut-être avait-elle entendu ma voix,
 
 }
 [sha:ca7533eb64f2ac219b74a57e22a0943013ce4264]{
@@ -277,7 +277,7 @@
 [sha:5e49910c773ea3a9c9ab198617aeb2e7ff19fc23]{
 -- Page 15, Offset 22976.
 -- 森からは蒼崎の声が返ってきた。
-　car la voix d'Aozaki me parvint depuis la forêt.
+  car la voix d'Aozaki me parvint depuis la forêt.
 
 }
 [sha:c06a96c05d0f72be950f4bb2d6a240cea3da76cd]{
@@ -295,13 +295,13 @@
 [sha:61a164afe10e2411f4afe0c961f59a6a0dae2ba6]{
 -- Page 16, Offset 22979.
 -- ちゃんと振り返れば―――ぶっ、あははははははは！」
-　Si tu te retournes―――Bu hahahahaha !」
+  Si tu te retournes―――Bu hahahahaha !」
 
 }
 [sha:855cbaf05f61cc91dbcfb941814fe04f223765de]{
 -- Page 16, Offset 22980.
 -- へ？
-　Hein ?
+  Hein ?
 
 }
 [sha:25d06f5b1f89ab46a0339bed27a4ba8a90929e0e]{
@@ -313,43 +313,43 @@
 [sha:52cc936b7bc644334f772ce06166a4865069f6a1]{
 -- Page 17, Offset 22982.
 -- そんなネタで釣られた、クマーーーー！？」
-　Tu t'es fait embobiner par un truc pareil, Kumaーーーー?!」
+  Tu t'es fait embobiner par un truc pareil, Kumaーーーー?!」
 
 }
 [sha:94e4a5d5821946e80b4bf0eb7ebba5157802d6c4]{
 -- Page 17, Offset 22983.
 -- と。蒼崎と思わしき体が、タン、と踊るように横に飛んだ。まるで横から猟銃に撃たれたような挙動。
-　Puis, un corps qui évoquait celui d'Aozaki bondit sur le côté. Comme si on lui avait tiré dessus avec un fusil.
+  Puis, un corps qui évoquait celui d'Aozaki bondit sur le côté. Comme si on lui avait tiré dessus avec un fusil.
 
 }
 [sha:581dbc32aa5c2c890d854e0dc0b0e23f234786dd]{
 -- Page 17, Offset 22984.
 -- 蒼崎はそのまま地面に倒れ、ぴくりとも動かない。
-　Aozaki s'écroula au sol et ne bougea plus d'un pouce.
+  Aozaki s'écroula au sol et ne bougea plus d'un pouce.
 
 }
 [sha:61ad7b888fabc5c8064b9bbec3ef715f9e84c1bb]{
 -- Page 18, Offset 22985.
 -- わたし、は
-　Je...
+  Je...
 
 }
 [sha:2964a8b952a2ba121addef94d6f217ce22d54b3f]{
 -- Page 18, Offset 22986.
 -- 蒼崎がわたしを―――いや、わたしがいる方向を見て爆笑した事を、正しく理解した。
-　Je devinais qu'Aozaki m'avait regardée―――ou plutôt, qu'elle avait regardé dans ma direction avant d'exploser de rire.
+  Je devinais qu'Aozaki m'avait regardée―――ou plutôt, qu'elle avait regardé dans ma direction avant d'exploser de rire.
 
 }
 [sha:6316287338f539a0281d80c62307c28dbcd05d94]{
 -- Page 19, Offset 22987.
 -- 背後には。
-　Dans mon dos...
+  Dans mon dos...
 
 }
 [sha:770f37a083618be4f23ea5fb091317ee363712a1]{
 -- Page 19, Offset 22988.
 -- 雨音に紛れて、忍び寄ってくる足音が。
-　Noyés dans le vacarme de la pluie, des bruits de pas se rapprochaient furtivement.
+  Noyés dans le vacarme de la pluie, des bruits de pas se rapprochaient furtivement.
 
 }
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
@@ -361,25 +361,25 @@
 [sha:551be0e6d7025829fd42ee8b37afa86d6617da2b]{
 -- Page 19, Offset 22990.
 -- 振り返ることも、迷う余裕もなかった。
-　Je ne pris ni le temps de me retourner ni celui d'hésiter.
+  Je ne pris ni le temps de me retourner ni celui d'hésiter.
 
 }
 [sha:037895d31dc21c332bfabd62e49d591f91baa583]{
 -- Page 19, Offset 22991.
 -- わたしは全力で走り出す。
-　Je me mis à courir à toutes jambes.
+  Je me mis à courir à toutes jambes.
 
 }
 [sha:f7798cc8cc51594be32504347938799d85611f61]{
 -- Page 19, Offset 22992.
 -- 背後に忍び寄った人影から逃げるために。
-　Pour fuir la silhouette qui s'était faufilée derrière moi.
+  Pour fuir la silhouette qui s'était faufilée derrière moi.
 
 }
 [sha:485906e73c802855478fb25c615e9bb24223d7ac]{
 -- Page 19, Offset 22993.
 -- 背後にあった屋敷から正反対の、暗い暗い嵐の森に。
-　Je me précipitai dans la sombre, sombre forêt sous la tempête, dans la direction opposée au manoir.
+  Je me précipitai dans la sombre, sombre forêt sous la tempête, dans la direction opposée au manoir.
 
 }
 [sha:22c25b543fecaabe1f2615f4e25ba5f6317d5e31]{
@@ -391,31 +391,31 @@
 [sha:195c4a7dcda7f904a6c88cd31514230d0b84eb8b]{
 -- Page 20, Offset 22995.
 -- 息をあげて走る。
-　Je courais, le souffle court.
+  Je courais, le souffle court.
 
 }
 [sha:dea24e4baf1c44ef06cef6523545e33a471dd26c]{
 -- Page 20, Offset 22996.
 -- 体育の授業でも見せたことのない全力疾走。
-　Je sprintai à une vitesse que je n'avais encore jamais atteinte en EPS.
+  Je sprintai à une vitesse que je n'avais encore jamais atteinte en EPS.
 
 }
 [sha:d2341e579a65a1c4af8366dc05d8e032541c8456]{
 -- Page 20, Offset 22997.
 -- なんだ、わたしも結構走れるじゃん。
-　Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
+  Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
 
 }
 [sha:dfc93ef86d33f497f5527d095dcfdc0d95030694]{
 -- Page 20, Offset 22998.
 -- やっぱり人間、死ぬ気になれば最低でも人並みの運動神経は発揮できるんだ、とにやついたりする。
-　Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
+  Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
 
 }
 [sha:28c798dc2688db739f5b51a12439b5588dec0de6]{
 -- Page 20, Offset 22999.
 -- その脳天気に現実逃避のツケが、
-　Ce fut sur cette note optimiste, tentant de fuir la réalité,
+  Ce fut sur cette note optimiste, tentant de fuir la réalité,
 
 }
 [sha:a06af1b0e9163257f239b0eb8c305537e0f437fe]{
@@ -427,13 +427,13 @@
 [sha:0cab3ffe061f4fe4ce6e47637923223853291cec]{
 -- Page 21, Offset 23001.
 -- 突然の浮遊感。
-　que mon corps fut assailli par une sensation d'apesanteur.
+  que mon corps fut assailli par une sensation d'apesanteur.
 
 }
 [sha:0d8e4d4567ccd5aa57baa4abe4fd490a3abf70a2]{
 -- Page 21, Offset 23002.
 -- わたしの足は、地面ではなく、何もない中空を蹴っていた。
-　Mes jambes ne frappaient plus le sol mais le vide.
+  Mes jambes ne frappaient plus le sol mais le vide.
 
 }
 [sha:6f4f9ea5e3dad3ed4c9319a3274e6ec3900202e6]{
@@ -445,43 +445,43 @@
 [sha:43a97c78f8d0d9206161414c2a3426deb20d1968]{
 -- Page 22, Offset 23004.
 -- 背中から落ちたらしい。
-　Apparemment, j'étais tombée sur le dos.
+  Apparemment, j'étais tombée sur le dos.
 
 }
 [sha:5f7c6756a60ee62b970fc6cec79918dd29cd7dba]{
 -- Page 22, Offset 23005.
 -- 呼吸をすると背中が痛む。
-　Mon dos me faisait souffrir au moindre effort respiratoire.
+  Mon dos me faisait souffrir au moindre effort respiratoire.
 
 }
 [sha:5d59fbad8dc88e75ac98ca91b7253501f71c7380]{
 -- Page 22, Offset 23006.
 -- やばい、と思って背中に指をあてると、ぬるり、と液体らしきものの感触があった。
-　Ça craint, pensais-je avant de mettre la main dans mon dos et d'y sentir un liquide visqueux.
+  Ça craint, pensais-je avant de mettre la main dans mon dos et d'y sentir un liquide visqueux.
 
 }
 [sha:af2915f16ef2300dde681d40464dafc4ba8750a4]{
 -- Page 23, Offset 23007.
 -- ……しげしげと眺める。
-　... Je regardai le liquide fixement.
+  ... Je regardai le liquide fixement.
 
 }
 [sha:ac5ec56c2826265df9f264b681519184debc55b4]{
 -- Page 23, Offset 23008.
 -- 言いたくないけど、<苺|いちご>みたいに<真|ま>っ<赤|か>っ<赤|か>。
-　Ça me faisait horreur de le dire, mais c'était rouge, rouge comme une fraise.
+  Ça me faisait horreur de le dire, mais c'était rouge, rouge comme une fraise.
 
 }
 [sha:8c779e41bfbcb3acebb609b93835c3e6a1fb8f75]{
 -- Page 23, Offset 23009.
 -- 舐めてみると、やっぱりかすかな鉄の味。
-　Je le léchai, et comme je le craignais, ma langue détecta un léger goût de fer.
+  Je le léchai, et comme je le craignais, ma langue détecta un léger goût de fer.
 
 }
 [sha:490c83e9cb73f60ad777b1ae03031ffa9bd63db8]{
 -- Page 23, Offset 23010.
 -- 出血量は一リットル超えで、いまもまだ増量中。
-　L'hémorragie dépassait déjà un litre et le volume augmentait encore.
+  L'hémorragie dépassait déjà un litre et le volume augmentait encore.
 
 }
 [sha:33c12f21cbfd5c0f6736652c6ddb71a574190e46]{
@@ -493,42 +493,42 @@
 [sha:5b4642feb024d3628a9b36b312925a0ad3f6d3c7]{
 -- Page 24, Offset 23012.
 -- どうしようもない事実に、喉をあえがせる。
-　Ma gorge râlait face à ce fait irrémédiable.
+  Ma gorge râlait face à ce fait irrémédiable.
 
 }
 [sha:df94f15e226f8c3f218f36e11b33f9db56edd2cd]{
 -- Page 24, Offset 23013.
 -- “何者か”が近寄ってくる。
-“Quelqu'un” se rapprochait.
+  “Quelqu'un” se rapprochait.
 
 }
 [sha:fa8e6b843ca35711bb2b6732748fdbaeac6a87a5]{
 -- Page 24, Offset 23014.
 -- けどわたしにはもうどうでもいい事だ。
-　Mais pour moi, ça n'avait plus d'importance.
+  Mais pour moi, ça n'avait plus d'importance.
 
 }
 [sha:fe2b3c717ac34088caa8468216de19dc0192a176]{
 -- Page 24, Offset 23015.
 -- このまま意識を失って永遠に目覚めないか、
-　Soit je perdrais conscience et ne me réveillerais plus pour l'éternité,
+  Soit je perdrais conscience et ne me réveillerais plus pour l'éternité,
 
 }
 [sha:ab539e82065f4bd10e89f32fa2a25bb89bc93c14]{
 -- Page 24, Offset 23016.
 -- 正体不明の殺人鬼に捕まるか。
-　soit je serais attrapée par le tueur démoniaque à l'identité inconnue.
+  soit je serais attrapée par le tueur démoniaque à l'identité inconnue.
 
 }
 [sha:5769ba11850788fc0345b3a44923f2f7a4f529f9]{
 -- Page 25, Offset 23017.
 -- どちらにせよ、もう、
-　Dans un cas comme dans l'autre,
+  Dans un cas comme dans l'autre,
 
 }
 [sha:39a89be05423e1f13007d02da6d58cbc46eacbe6]{
 -- Page 25, Offset 23018.
 -- わたしの夜は、ここで、おしまいという事らしい―――
-　la nuit se terminait manifestement ici pour moi―――
+  la nuit se terminait manifestement ici pour moi―――
 
 }

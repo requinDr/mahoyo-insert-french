@@ -1,7 +1,7 @@
 [sha:89af73512dbf58d74263253f09f08aa54b198366]{
 -- Page -1, Offset 23949. Mods: @e.
 -- その、もっとも分かりやすい根拠は？
-　Qu'est-ce qui le prouvait de façon irréfutable ?
+  Qu'est-ce qui le prouvait de façon irréfutable ?
 
 }
 [sha:aabe1a327d26e0dbbbdca18c3ba5f6a23d25d3fb]{

@@ -1,61 +1,61 @@
 [sha:2becd87f34ccc2571bbd868182d8f28bf8bd65f5]{
 -- Page 0, Offset 21277.
 -- 中に入るなり、わたしは飛び上がりそうになる自分の体を押さえつけるハメになった。
-　À peine entrée, je dus empêcher mon corps de bondir.
+  À peine entrée, je dus empêcher mon corps de bondir.
 
 }
 [sha:03940bc6bb274b95aa54be9036cd7720869fb78f]{
 -- Page 0, Offset 21278.
 -- ロビーに比べたら親しみのある居間の様子にホッとする暇もない。
-　Je n'eus même pas le temps de me sentir apaisée par l'atmosphère du salon, plus intimiste que le vestibule.
+  Je n'eus même pas le temps de me sentir apaisée par l'atmosphère du salon, plus intimiste que le vestibule.
 
 }
 [sha:d762114462cffb1359ecc9d36e6977c187219f93]{
 -- Page 0, Offset 21279.
 -- そこには、見知っているけど予想外の顔があったからだ。
-　En effet, l'un des visages présents, bien qu'il me soit familier, m'avait prise au dépourvu.
+  En effet, l'un des visages présents, bien qu'il me soit familier, m'avait prise au dépourvu.
 
 }
 [sha:a4efd28cc7b104b78ed0bdb3fecde39dd2f2b29e]{
 -- Page 1, Offset 21280.
 -- まず彼女、久遠寺有珠。
-　Tout d'abord, il y avait elle, Kuonji Alice.
+  Tout d'abord, il y avait elle, Kuonji Alice.
 
 }
 [sha:c44e60981be2ee4411ea3aa7df98461b32348839]{
 -- Page 1, Offset 21281.
 -- 顔を合わせたのは一度か二度だけなので緊張はするが、予想外ではない。
-　Comme je ne l'avais rencontrée qu'une ou deux fois, j'étais un peu nerveuse en sa présence, mais il n'y avait rien d'étonnant à la trouver là.
+  Comme je ne l'avais rencontrée qu'une ou deux fois, j'étais un peu nerveuse en sa présence, mais il n'y avait rien d'étonnant à la trouver là.
 
 }
 [sha:e14157b5e5bf4a0165c60924350f69bbfa7e0a23]{
 -- Page 2, Offset 21282.
 -- 次にベオ。
-　Venait ensuite Beo.
+  Venait ensuite Beo.
 
 }
 [sha:96f03544350e8d4ea2279c7307dfb31d747373eb]{
 -- Page 2, Offset 21283.
 -- 商店街の座敷童、居ついた店はかならず繁盛するというお子さま。と言うか、ていのいいたかり魔。彼とは何度も話しているから、これも予想外ではない。
-　L'ange gardien du quartier commerçant, un enfant connu pour apporter prospérité aux établissements qu'il fréquentait. En réalité, c'était plutôt un escroc démoniaque. J'avais eu l'occasion de lui parler à plusieurs reprises, je n'étais donc pas surprise outre mesure par sa présence.
+  L'ange gardien du quartier commerçant, un enfant connu pour apporter prospérité aux établissements qu'il fréquentait. En réalité, c'était plutôt un escroc démoniaque. J'avais eu l'occasion de lui parler à plusieurs reprises, je n'étais donc pas surprise outre mesure par sa présence.
 
 }
 [sha:b45cf9ce77ab37dda5f90bae81544be0c9768d25]{
 -- Page 3, Offset 21284.
 -- 最後に副会長。
-　Et enfin, le vice-président.
+  Et enfin, le vice-président.
 
 }
 [sha:780a9c100880a4fcedce408cd1c71d31d92401f0]{
 -- Page 3, Offset 21285.
 -- 考えてみれば、蒼崎と静希の知人で、町の名士の息子なのだから、この誕生会にいない方がおかしい。
-　À bien y réfléchir, compte tenu de ses liens d'amitié avec Aozaki et Shizuki, sans oublier qu'il était le fils d'une famille éminente de la ville, son absence aurait été plutôt surprenante.
+  À bien y réfléchir, compte tenu de ses liens d'amitié avec Aozaki et Shizuki, sans oublier qu'il était le fils d'une famille éminente de la ville, son absence aurait été plutôt surprenante.
 
 }
 [sha:e31aafcd7088738934df47ee3946a370a1fe35eb]{
 -- Page 3, Offset 21286.
 -- ……おかしい、のだけど。
-　...... Cela aurait été surprenant, oui, mais tout de même...
+  ...... Cela aurait été surprenant, oui, mais tout de même...
 
 }
 [sha:916e54c84f2fec84b0b15545672b83c24989d460]{
@@ -73,7 +73,7 @@
 [sha:ca0cd4d0bce0b435b1a66b6f4aeb91cb4825c5b5]{
 -- Page 4, Offset 21289.
 -- というか、いちいち言わないとダメだったかしら？」
-　Vu ta réaction, tu aurais peut-être préféré que je te prévienne ?」
+  Vu ta réaction, tu aurais peut-être préféré que je te prévienne ?」
 
 }
 [sha:bd98a9fc7ac2092c6e77b001120ccae6bb7f8406]{
@@ -97,163 +97,163 @@
 [sha:2f462bedc966d9ded1412d06d17b7cee1cb5cd13]{
 -- Page 6, Offset 21293.
 -- 蒼崎は、それが何か問題でも？　といった顔。
-　Aozaki prit un air interrogateur ; elle se demandait visiblement en quoi cela posait problème.
+  Aozaki prit un air interrogateur ; elle se demandait visiblement en quoi cela posait problème.
 
 }
 [sha:073d0efef2718d290b56cd6901fd400700aef850]{
 -- Page 6, Offset 21294.
 -- もちろん、問題も問題だ。
-　Évidemment qu'il y avait un hic !
+  Évidemment qu'il y avait un hic !
 
 }
 [sha:38c846816611d69dd06ba9ed900b57df2e32006f]{
 -- Page 6, Offset 21295.
 -- 隠していても仕方がないのでハッキリ言うと、わたし、久万梨金鹿は槻司鳶丸に片思い中なのである。
-　Rien ne sert de le cacher, je vais donc être directe. Moi, Kumari Kojika, je ressentais un amour non partagé pour Tsukiji Tobimaru.
+  Rien ne sert de le cacher, je vais donc être directe. Moi, Kumari Kojika, je ressentais un amour non partagé pour Tsukiji Tobimaru.
 
 }
 [sha:bf654249aa143f93939c3deb18ab7d3915645794]{
 -- Page 6, Offset 21296.
 -- それも歴史にして三年。
-　Et cela durait depuis trois ans.
+  Et cela durait depuis trois ans.
 
 }
 [sha:ad4a821e9b7e48dec5892faba88028ee30d9eba7]{
 -- Page 6, Offset 21297.
 -- 告白までこぎつけるコトもできず、あれよあれよと三年間。我がコトながら、<唾|だ><棄|き>すべき軟弱っぷり。
-　Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une lâcheté absolument misérable.
+  Incapable de me confesser, je tournais en rond depuis tout ce temps. Je faisais preuve d'une lâcheté absolument misérable.
 
 }
 [sha:ba4507c7b87c134f35865adc2ea5fe002784c284]{
 -- Page 7, Offset 21298.
 -- しかし、多少なりとも弁明すると、はじめからここまで臆病だったワケじゃない。
-　Cela dit, pour ma pitoyable défense, ce n'était pas comme si j'étais aussi froussarde depuis le début.
+  Cela dit, pour ma pitoyable défense, ce n'était pas comme si j'étais aussi froussarde depuis le début.
 
 }
 [sha:d1f4c78ebbde2cc7e02fe7210608b5b9a2bc127e]{
 -- Page 7, Offset 21299.
 -- 一年生の頃は漠然と、そもそも槻司のコトは蒼崎の相方としか思っていなかったし。
-　En première année, je ne le considérais que comme un simple ami d'Aozaki.
+  En première année, je ne le considérais que comme un simple ami d'Aozaki.
 
 }
 [sha:0297b23a41ec39e507a646b04f7dd32916428499]{
 -- Page 7, Offset 21300.
 -- はっきりと自覚したのは二年生の時だ。
-　Ce fut en deuxième année que je pris petit à petit conscience de mes sentiments.
+  Ce fut en deuxième année que je pris petit à petit conscience de mes sentiments.
 
 }
 [sha:a21edffffce3ce059d09dab68a6d7682683fd7ba]{
 -- Page 7, Offset 21301.
 -- 蒼崎の友人という事で信頼されていたのか、槻司はわたしによく話しかけてきた。
-　Tsukiji venait souvent me parler. Il me faisait probablement confiance parce que j'étais amie avec Aozaki.
+  Tsukiji venait souvent me parler. Il me faisait probablement confiance parce que j'étais amie avec Aozaki.
 
 }
 [sha:7d4cf502301669b366f7bfbe1c79442c24de40ba]{
 -- Page 7, Offset 21302.
 -- そうした後は、ひとり帰り道で訳もなく嬉しくなって、なぜだろう？　と首をかしげていたものだ。
-　En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
+  En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
 
 }
 [sha:f3dfa0d260af51e1e6af110f89e5212a1775e632]{
 -- Page 8, Offset 21303.
 -- 決定打は二年生の文化祭の後片づけの時。
-　Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
+  Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
 
 }
 [sha:8be87fbbf5f7c5bd4e2d905ff44e454b0ac4104f]{
 -- Page 8, Offset 21304.
 -- たまたまふたりで生徒会の演し物を片づけていた時、“あれ、もしかしてわたし、この人に一目惚れしていたのではないだろうか”と気が付いてしまった。
-　Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
+  Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
 
 }
 [sha:dbaf646db2f04d875d6be943a5e9a1f93a4fce7a]{
 -- Page 8, Offset 21305.
 -- 恋は<猛毒|もうもく>と言うが、
-　On dit que l'amour est aveugle,
+  On dit que l'amour est aveugle,
 
 }
 [sha:39ad9a97c70df51405e0b53ccbf29e30730aa3ed]{
 -- Page 8, Offset 21306.
 -- まったく、遅効性にも程がある。
-　mais l'être à ce point-là, c'est grave !
+  mais l'être à ce point-là, c'est grave !
 
 }
 [sha:a628c41926ae954a089c5da8c3905438d840acc8]{
 -- Page 9, Offset 21307.
 -- そこから先は、しかし、何の変化もない。
-　Cela dit, rien ne changea suite à cette révélation.
+  Cela dit, rien ne changea suite à cette révélation.
 
 }
 [sha:9e42bb9784b4e95435f8b618fd0837f5e0b1f6fc]{
 -- Page 9, Offset 21308.
 -- わたしは野蛮な脳筋一族に反抗し、
-　Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
+  Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
 
 }
 [sha:a6135518fb84dadd0eca89e85c5a04359e255105]{
 -- Page 9, Offset 21309.
 -- このまま家業を継がされる運命に反逆し、
-　Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
+  Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
 
 }
 [sha:2cd4e4f7b88529cf3a6032da540e8e23e0e5d356]{
 -- Page 9, Offset 21310.
 -- その為に中学からコツコツと律してきた自分を、少なからず誇りに思っていた。
-　Et je n'étais pas peu fière de me préparer assidûment à ça depuis le collège.
+  Et je n'étais pas peu fière de me préparer assidûment à ça depuis le collège.
 
 }
 [sha:91712e29499a90db2c0391bbf81cdeb03e1a2cb8]{
 -- Page 9, Offset 21311.
 -- なので、そんな、降って湧いた思春期特有の幻想なんぞに膝を屈するのは、どうにも我慢できなかったのである。
-　C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
+  C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
 
 }
 [sha:00505edf395b1681c8e11d19f6259804bdf8fcdc]{
 -- Page 9, Offset 21312.
 -- 勇気がなかったとも言える。
-　On aurait aussi pu dire que je n'avais pas de courage.
+  On aurait aussi pu dire que je n'avais pas de courage.
 
 }
 [sha:75df1af85f3d0cb9ba5a93347a16eb0e2a1f887c]{
 -- Page 10, Offset 21313.
 -- そうこうしている内に、時間はついに底を見せ始めた。
-　Et puis, le temps commença à manquer.
+  Et puis, le temps commença à manquer.
 
 }
 [sha:39732e7bef4c55851198562d89d30fdfe18b726a]{
 -- Page 10, Offset 21314.
 -- わたしの気持ちはいっこうにふわふわしたまま。
-　J'étais toujours dans les nuages.
+  J'étais toujours dans les nuages.
 
 }
 [sha:47889b8fdcbce14b441d1b2239210d21a19edb05]{
 -- Page 10, Offset 21315.
 -- 卒業を間近にした三年の秋になって、本気でわたしは、わたしをどうしたいのか分からなくなっていた。
-　L'automne de notre troisième et dernière année arrivé, j'avais sérieusement perdu de vue ce que je voulais faire.
+  L'automne de notre troisième et dernière année arrivé, j'avais sérieusement perdu de vue ce que je voulais faire.
 
 }
 [sha:b7b6a187f19756d836ab465ec5c83a0956df174d]{
 -- Page 11, Offset 21316.
 -- 槻司の進学先は、意外な事に地元の大学らしい。生徒会役員としての権限をフルに使って調べたので間違いない。
-　Apparemment, Tsukiji allait s'inscrire, choix étonnant, dans une université locale. J'étais sûre de cette information car j'avais utilisé tous mes privilèges de membre du conseil étudiant pour me renseigner.
+  Apparemment, Tsukiji allait s'inscrire, choix étonnant, dans une université locale. J'étais sûre de cette information car j'avais utilisé tous mes privilèges de membre du conseil étudiant pour me renseigner.
 
 }
 [sha:0820846a6d28ca0b162be7f1568868144bb072e7]{
 -- Page 11, Offset 21317.
 -- さすがに渠裸ではなかったけど、槻司が地元に進学するのなら、なんというか、未練がましいコトに可能性が出てきてしまう。
-　Pas de surprise, il n'avait pas choisi Mizora, mais son inscription dans une université locale ouvrait pour moi, pleine de regrets, la porte à certaines possibilités.
+  Pas de surprise, il n'avait pas choisi Mizora, mais son inscription dans une université locale ouvrait pour moi, pleine de regrets, la porte à certaines possibilités.
 
 }
 [sha:2914a76d5ba8a4a1ed34b161b2ea9e79ad1dd138]{
 -- Page 11, Offset 21318.
 -- わたしも、このまま地元の大学に進めば、まだ縁は切れないのだと。
-　Notre relation ne s'achèverait pas là si j'optais moi aussi pour une université locale, pensai-je alors.
+  Notre relation ne s'achèverait pas là si j'optais moi aussi pour une université locale, pensai-je alors.
 
 }
 [sha:524abeee3fe03766c8d99876c666ded3b92c172d]{
 -- Page 12, Offset 21319.
 -- 蒼崎曰く、
-　Selon Aozaki :
+  Selon Aozaki :
 
 }
 [sha:3804c465d46579dc21981eafa19cc5fa933ff54c]{
@@ -265,55 +265,55 @@
 [sha:a31d176645fc327fea7e524a2e3567d5a7d54da3]{
 -- Page 12, Offset 21321.
 -- だってあいつ、好きなヤツとしか世間話しないでしょ』
-　Après tout, il ne bavarde qu'avec les gens qu'il apprécie.』
+  Après tout, il ne bavarde qu'avec les gens qu'il apprécie.』
 
 }
 [sha:247121ea7a190219fa9db1e34c0a2a66b90d688b]{
 -- Page 13, Offset 21322.
 -- この通り、脈はある、と信じたい。
-　Par sa faute, je voulais croire que j'avais une chance.
+  Par sa faute, je voulais croire que j'avais une chance.
 
 }
 [sha:f28ff685d3d83ac0983d8488bc9cca9a1939786c]{
 -- Page 13, Offset 21323.
 -- 今年の夏の騒ぎの時だって、なんか、腕折ってまで助けてくれたし。
-　Il s'était même cassé le bras en voulant me sauver durant les incidents de l'été dernier.
+  Il s'était même cassé le bras en voulant me sauver durant les incidents de l'été dernier.
 
 }
 [sha:c2ae090e342254c23190304a06e742efed3317d7]{
 -- Page 13, Offset 21324.
 -- 槻司にカノジョがいるかどうかはわたしの知るところじゃないけど、いま告白すれば可能性はなくもない。
-　J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
+  J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
 
 }
 [sha:d1eac8a5406af2982d8fccc1d38135eb16921497]{
 -- Page 14, Offset 21325.
 -- しかし。しかしだ。
-　Mais seulement, voilà,
+  Mais seulement, voilà,
 
 }
 [sha:8e5858fe953fbdd42f135d03f5bb3dd11aa36ec1]{
 -- Page 14, Offset 21326.
 -- それでは何の為に、物心ついた時から陰に日向に戦ってきたのか、悔しくなる。
-　dans ce cas, à quoi servait le combat secret que je menais depuis le début de l'adolescence ?
+  dans ce cas, à quoi servait le combat secret que je menais depuis le début de l'adolescence ?
 
 }
 [sha:31b9ef54b1406e3e653d7b5a322693caa0b7ba8f]{
 -- Page 14, Offset 21327.
 -- 子供の頃からきっかり将来設計を持ってきたわたしは、恋だの夢だのにうつつをぬかしている同級生たちを軽蔑さえしていた。
-　Moi qui concevais depuis l'enfance mes plans d'avenir, il m'arrivait de mépriser mes camarades de classe qui ne pensaient qu'à l'amour ou à leurs rêves.
+  Moi qui concevais depuis l'enfance mes plans d'avenir, il m'arrivait de mépriser mes camarades de classe qui ne pensaient qu'à l'amour ou à leurs rêves.
 
 }
 [sha:9d562aaea7778ca7a215fa6141fce6781b016688]{
 -- Page 15, Offset 21328.
 -- そのわたしがここにきて、そんな綿アメみたいな理由で六年間の努力を無駄にするとか、本気で信じられない。
-　J'avais sérieusement du mal à croire que cette même personne songeait à gâcher ces six longues années d'efforts pour une raison aussi puérile.
+  J'avais sérieusement du mal à croire que cette même personne songeait à gâcher ces six longues années d'efforts pour une raison aussi puérile.
 
 }
 [sha:f94c3b325f04c4356dd6b3c62742466b060c2818]{
 -- Page 15, Offset 21329.
 -- そんなのは、わたしが目指してきた久万梨金鹿ではないと思う。
-　Ce n'était pas la Kumari Kojika que je rêvais de devenir.
+  Ce n'était pas la Kumari Kojika que je rêvais de devenir.
 
 }
 [sha:8e8ba52357d15dc3bfe7ad61a0c716190f5e378b]{
@@ -337,13 +337,13 @@ Allez, il est temps de saluer Kuonji.」
 [sha:7219f292f489229c7c1f31fec2fadb68bed821ec]{
 -- Page 16, Offset 21333.
 -- ……などと言いつつ、少しだけ後悔する。
-　...... J'éprouvais, malgré mes propos assurés, des traces de regret.
+  ...... J'éprouvais, malgré mes propos assurés, des traces de regret.
 
 }
 [sha:8768f17ea574b2b660fd3313607601cf57646b29]{
 -- Page 16, Offset 21334.
 -- 蒼崎から“パーティーを開くからできるだけオシャレな格好で来い”と言われた時、鼻で笑った自分を鍋で<叩|はた>きたい気分。
-　J'aurais voulu remonter le temps et me frapper avec une casserole au moment où j'avais pris avec légèreté le conseil avisé d'Aozaki : “On va faire une fête, alors viens bien habillée.”
+  J'aurais voulu remonter le temps et me frapper avec une casserole au moment où j'avais pris avec légèreté le conseil avisé d'Aozaki : “On va faire une fête, alors viens bien habillée.”
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -355,55 +355,55 @@ Allez, il est temps de saluer Kuonji.」
 [sha:0be90c8d50d76a168dba8a47499b994ed16d1909]{
 -- Page 17, Offset 21336.
 -- まあ、もともとドレスなんて持ってないし、頑張ったところで何もできなかっただろう。
-　De toute façon, je ne possédais pas de robe ; ce n'était pas comme si mes efforts auraient servi à grand-chose.
+  De toute façon, je ne possédais pas de robe ; ce n'était pas comme si mes efforts auraient servi à grand-chose.
 
 }
 [sha:1f9c2e9a74ee6a503172487b7fd323f58858ff1a]{
 -- Page 17, Offset 21337.
 -- わたしはピシャと頬を叩いて、努めて、いつもの自分であるよう気を引き締めた。
-　Je me frappai les joues pour reprendre mes esprits et me comporter comme d'habitude.
+  Je me frappai les joues pour reprendre mes esprits et me comporter comme d'habitude.
 
 }
 [sha:55087253f65677256cfee4f450b22fa3a95c7f3e]{
 -- Page 18, Offset 21338.
 -- 館の主人である久遠寺さんに挨拶をして、隣室であるサンルームに移動する。
-　Je saluai Kuonji, la maîtresse de maison, avant de me rendre dans la véranda adjacente.
+  Je saluai Kuonji, la maîtresse de maison, avant de me rendre dans la véranda adjacente.
 
 }
 [sha:b60462e892c696b79aff0ce8b845be43a7809498]{
 -- Page 18, Offset 21339.
 -- 集まっているゲストは誰もが顔見知りなので、改めて自己紹介をする必要はない。
-　Il fut inutile de faire les présentations : tous les invités se connaissaient.
+  Il fut inutile de faire les présentations : tous les invités se connaissaient.
 
 }
 [sha:6e9fb9aa012fd2421dd0ec2b0db11ea632be8a64]{
 -- Page 18, Offset 21340.
 -- サンルームと居間は一続きなので、サンルームからでも居間の様子は窺えた。
-　La véranda et le salon étant reliés, on pouvait observer une pièce depuis l'autre.
+  La véranda et le salon étant reliés, on pouvait observer une pièce depuis l'autre.
 
 }
 [sha:f8dd5f45f8ee321407a1a18893c1629768cc69fb]{
 -- Page 19, Offset 21341.
 -- 居間のソファーには久遠寺さんが座って、優雅にお茶を飲んでいる。
-　Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
+  Kuonji sirotait avec élégance une tasse de thé, assise sur le sofa du salon.
 
 }
 [sha:dffeb94b6cfbbd3726baa0ce3726b0f09276116d]{
 -- Page 19, Offset 21342. Mods: @n.
 -- その周囲で騒いでいるのは
-　Deux personnes s'agitaient devant elle :
+  Deux personnes s'agitaient devant elle :
 
 }
 [sha:d52c0807574bd47ae4f174f40e4488add9a08b58]{
 -- Page 19, Offset 21343. Glued.
 -- 芳助と、
-　Hōsuke, et également,
+ Hōsuke, et également,
 
 }
 [sha:d52c0807574bd47ae4f174f40e4488add9a08b58]{
 -- Page 19, Offset 21344. Glued.
 -- 芳助と、
-　Hōsuke, et également,
+ Hōsuke, et également,
 
 }
 [sha:c4b2b5023f627b313583ff8788a77a48f1fd3470]{
@@ -421,7 +421,7 @@ Allez, il est temps de saluer Kuonji.」
 [sha:47d68a44abe63df6e6779aed2184ddcb8e8604b9]{
 -- Page 20, Offset 21347.
 -- 何か特別な品種なんでしょうね。日本のものとイギリスのものは見た目からして違いますし、オークの品種はそれこそ四百以上ありますから」
-　Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
+  Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
 
 }
 [sha:aa6c8c5e57fc5919d3b558e3090027fbd962e499]{
@@ -433,13 +433,13 @@ Allez, il est temps de saluer Kuonji.」
 [sha:76fad07206a0cabb6f26528bef318a65aa76cc91]{
 -- Page 21, Offset 21349.
 -- それよりオレと冬休みの予定について話し合わない？
-　Et si nous parlions plutôt de tes plans pour les vacances de Noël ?
+  Et si nous parlions plutôt de tes plans pour les vacances de Noël ?
 
 }
 [sha:0f97b57ae7ff232e0a8ee0b7332dc50d282fda5c]{
 -- Page 21, Offset 21350.
 -- 有珠ちゃん、スキーとか苦手そうだナー。そこで、この頼れる木乃美芳助が手取り足取り教えたいナー」
-　J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Hōsuke serait ravi de te donner des cours particuliers, seul à seule~」
+  J'imagine que tu es plutôt mal à l'aise sur des skis. Le fidèle Kinomi Hōsuke serait ravi de te donner des cours particuliers, seul à seule~」
 
 }
 [sha:cdb0558328ad638e87f4e3ae88ee53c326e3d1bd]{
@@ -451,7 +451,7 @@ Allez, il est temps de saluer Kuonji.」
 [sha:08877b38ae88258549048afc3a386b0e18d8f8fd]{
 -- Page 22, Offset 21352.
 -- 理解したわ。木乃美君と先生は、仕付けられたウッドペッカーのよう」
-　J'ai tout compris. Vous êtes comme des piverts domestiques.」
+  J'ai tout compris. Vous êtes comme des piverts domestiques.」
 
 }
 [sha:21f77882cf8753134c8dadac84e8380d4b20dd85]{
@@ -463,7 +463,7 @@ Allez, il est temps de saluer Kuonji.」
 [sha:74c7cf765d24a91ac1d3d54aa7ba29096fbb6938]{
 -- Page 23, Offset 21354.
 -- ま、死ぬか生きるかだけのジブンに比べたらどっちも小物っスけど！』
-　Mais bon, vous restez des oisillons comparés à moi qui risque toujours mes plumes !』
+  Mais bon, vous restez des oisillons comparés à moi qui risque toujours mes plumes !』
 
 }
 [sha:f74b95ff3fcbb9e371db25c8514ffe396fce00b5]{
@@ -475,25 +475,25 @@ Allez, il est temps de saluer Kuonji.」
 [sha:6b2c7bca64933c9c5a12c63e6d05d30e992546fa]{
 -- Page 24, Offset 21356.
 -- 久遠寺さんの肩には青い駒鳥がしきりにまとわりついているが、彼女の肩にとまる度に払い落とされていた。
-　Un rouge-gorge bleu s'accrochait sans cesse à Kuonji, mais elle le chassait à chaque fois qu'il venait se percher sur son épaule.
+  Un rouge-gorge bleu s'accrochait sans cesse à Kuonji, mais elle le chassait à chaque fois qu'il venait se percher sur son épaule.
 
 }
 [sha:0d84be0b778897d38e71adff906c99154ba3295e]{
 -- Page 24, Offset 21357.
 -- チチチ、チチチと愛らしい声で鳴いているが、放し飼いにされているのだろうか？
-　Il criaillait d'un gazouillis charmant. Était-il laissé en liberté ?
+  Il criaillait d'un gazouillis charmant. Était-il laissé en liberté ?
 
 }
 [sha:d931cdeb5eb7ec7fd5ddbc9e72bf551cc6647446]{
 -- Page 25, Offset 21358.
 -- 蒼崎の姿はない。台所かトイレだろう。
-　Je ne voyais Aozaki nulle part. Elle s'était sûrement rendue en cuisine ou aux toilettes.
+  Je ne voyais Aozaki nulle part. Elle s'était sûrement rendue en cuisine ou aux toilettes.
 
 }
 [sha:10fa3ff55136f9336669b102f33466ff39c2bedb]{
 -- Page 25, Offset 21359.
 -- わたしは話し相手もなく、ひとりぼんやりしていると、
-　J'étais seule, dans les nuages.
+  J'étais seule, dans les nuages.
 
 }
 [sha:c7a6ed2312a94ee3d9467571b9aead79e9d83061]{
@@ -505,7 +505,7 @@ Allez, il est temps de saluer Kuonji.」
 [sha:66c041890376a17f3a8137c028b38a339b2f5161]{
 -- Page 26, Offset 21361.
 -- ずいぶんと遅かったが、またアルバイトか？」
-　Tu es arrivée bien en retard par contre. Encore un de tes petits boulots ?」
+  Tu es arrivée bien en retard par contre. Encore un de tes petits boulots ?」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -517,13 +517,13 @@ Allez, il est temps de saluer Kuonji.」
 [sha:a3fad4e5e060a6167fc1de416f964918b9605bbf]{
 -- Page 26, Offset 21363.
 -- 槻司はいつもの調子で話しかけてきた。
-　Tsukiji vint engager la discussion sur son habituel ton badin.
+  Tsukiji vint engager la discussion sur son habituel ton badin.
 
 }
 [sha:89e5f2edd35435b5542ec73c81b624aef9bd23ce]{
 -- Page 26, Offset 21364.
 -- スラリとした手足とか、ジュースの入ったグラスを持っているだけで絵になっている。
-　Avec ses membres sveltes, il faisait forte impression avec un simple verre de jus de fruit en main.
+  Avec ses membres sveltes, il faisait forte impression avec un simple verre de jus de fruit en main.
 
 }
 [sha:0bb259d4bd8aa4d42248f60dae9ffec024c5cf0b]{
@@ -547,37 +547,37 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:363fe6da0966e8727b46058f7c810861f6b75fbe]{
 -- Page 28, Offset 21368.
 -- ん？　そういえば、俺が煙草を吸おうとしたら水ぶっかけてきたの、おまえさんだったっけか」
-　Hum ? Maintenant que j'y pense, c'était pas toi qui m'avais arrosé au moment où j'allais fumer une cigarette ?」
+  Hum ? Maintenant que j'y pense, c'était pas toi qui m'avais arrosé au moment où j'allais fumer une cigarette ?」
 
 }
 [sha:e94c6929c8488a204945057c300d2db47885f8cf]{
 -- Page 29, Offset 21369.
 -- 懐かしい話だ。
-　C'était une vieille histoire.
+  C'était une vieille histoire.
 
 }
 [sha:e727ebd8f8960d51513a88df862d40992696174d]{
 -- Page 29, Offset 21370.
 -- 一年生の頃、コンビニの駐車場で堂々と煙草を吸っている生徒がいた。
-　Au cours de ma première année, un lycéen avait fumé aux yeux de tous sur le parking de la supérette.
+  Au cours de ma première année, un lycéen avait fumé aux yeux de tous sur le parking de la supérette.
 
 }
 [sha:4633b0b895129e73eccd28d872607424ad5f7559]{
 -- Page 29, Offset 21371.
 -- 他校の生徒だったけど見てしまったものは仕方がない。駆け寄って注意して、かつホースで水を撒いたら、まったく関係のない男子生徒に水を被せてしまった。
-　Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accouru pour l'avertir, et quand j'avais essayé de l'asperger avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
+  Il appartenait à une autre école, mais ayant été témoin de la scène, je n'avais pas eu le choix. J'avais accouru pour l'avertir, et quand j'avais essayé de l'asperger avec un tuyau d'arrosage, c'était un autre lycéen passant par là qui avait fini trempé.
 
 }
 [sha:6fe99816403e618fc7e5aa8701dbcb7b7881ab65]{
 -- Page 29, Offset 21372.
 -- あわてて謝ろうとしたら、その男子生徒の手には今まさに吸われようとしていた煙草が一本。
-　Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point d'allumer.
+  Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point d'allumer.
 
 }
 [sha:f42021525469c36817130214186cc28f8a877cdd]{
 -- Page 29, Offset 21373.
 -- それがこの男、槻司鳶丸だったのである。
-　La victime en question était ce garçon, Tsukiji Tobimaru.
+  La victime en question était ce garçon, Tsukiji Tobimaru.
 
 }
 [sha:fe7ec78a1f5348b57b36f9f2f4eef3b20810790c]{
@@ -601,13 +601,13 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:576fd591b711f0a715e81288f7fbb1a81bfaad0e]{
 -- Page 31, Offset 21377.
 -- 誕生会は夕方六時からだから、まだ時間に余裕はある。
-　La fête d'anniversaire commence à dix-huit heures. On a encore du temps devant nous.
+  La fête d'anniversaire commence à dix-huit heures. On a encore du temps devant nous.
 
 }
 [sha:34f75588743d4415051e3c3a12a9927086382830]{
 -- Page 31, Offset 21378.
 -- 疲れてるなら部屋で休んできたらどうだ？　ちょいと顔色悪いぜ」
-　Si tu es fatiguée, pourquoi ne pas te reposer dans ta chambre ? Tu es un peu pâle.」
+  Si tu es fatiguée, pourquoi ne pas te reposer dans ta chambre ? Tu es un peu pâle.」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -619,19 +619,19 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:6f9193ff523b625903069ba6b9145b37c323393c]{
 -- Page 32, Offset 21380.
 -- この男の何が卑怯かって、粗雑で無遠慮のクセに、細かいところに気が利くことだと思う。
-　Cet homme était injuste. En quoi ? Eh bien, malgré sa grossièreté et son manque de réserve, il savait remarquer les moindres détails.
+  Cet homme était injuste. En quoi ? Eh bien, malgré sa grossièreté et son manque de réserve, il savait remarquer les moindres détails.
 
 }
 [sha:da2bd5a3c07a74f302ea59e1c3f07853ac26e1f5]{
 -- Page 32, Offset 21381.
 -- わたしは人見知りが激しい。
-　J'ai un caractère plutôt farouche.
+  J'ai un caractère plutôt farouche.
 
 }
 [sha:53d992883a953376cac3c64ae96970d661819bbf]{
 -- Page 32, Offset 21382.
 -- いくら顔見知りといっても、慣れない場所で多くの人間と話すのは体力を使う。
-　Même avec des connaissances, je me fatigue vite à discuter dans un endroit peu familier.
+  Même avec des connaissances, je me fatigue vite à discuter dans un endroit peu familier.
 
 }
 [sha:808df77a18cf9a43fac23402441f228a1db33147]{
@@ -661,7 +661,7 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:434be4767ad04c52af2e60dfbd3985074061542e]{
 -- Page 33, Offset 21387.
 -- 飲み物が足りない、とか言ってたしな」
-　Il m'a dit qu'il n'y avait pas assez de boissons.」
+  Il m'a dit qu'il n'y avait pas assez de boissons.」
 
 }
 [sha:38b02938197f1bc3d6f8dfe653601d2b7ecf648b]{
@@ -673,31 +673,31 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:ce28cab470e7b9df8ac58d0f0daad104d760e966]{
 -- Page 34, Offset 21389.
 -- まあ、そこが動物っぽくていいんだけど！」
-　Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
+  Enfin, j'aime bien ça parce qu'il me fait penser à un animal !」
 
 }
 [sha:79b35b4c500ca599b59437943dfa66600e5141db]{
 -- Page 35, Offset 21390.
 -- 改めて解説すると、この金髪の子供はベオ。
-　Présentons-le de nouveau, cet enfant blond s'appelle Beo.
+  Présentons-le de nouveau, cet enfant blond s'appelle Beo.
 
 }
 [sha:9b21a160c9f82aba4f0fbe5af29f1459788ba964]{
 -- Page 35, Offset 21391.
 -- フルネームは知らない。名乗られたこともない。
-　Je ne connaissais pas son nom complet. Il ne s'était même jamais présenté.
+  Je ne connaissais pas son nom complet. Il ne s'était même jamais présenté.
 
 }
 [sha:a4d819c3249880f9a7585ea6b8cdaa8f26fc9ca8]{
 -- Page 35, Offset 21392.
 -- 槻司や蒼崎、静希がベオと呼んでいるので、わたしもそれに<倣|なら>っているだけだ。
-　Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appelaient ainsi.
+  Je ne faisais qu'imiter Tsukiji, Aozaki et Shizuki qui l'appelaient ainsi.
 
 }
 [sha:ba58960f9b595beeff12d998c5c3f5264b83d53f]{
 -- Page 35, Offset 21393.
 -- この子は妙に静希に<懐|なつ>いていて、隙さえあれば、
-　Il était bizarrement attaché à Shizuki.
+  Il était bizarrement attaché à Shizuki.
 
 }
 [sha:8168024dea52e298d184a3dac70f47187a65aa66]{
@@ -721,19 +721,19 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 [sha:9c53ffc1f767bb7fbd8390acbd4db233d0e57256]{
 -- Page 37, Offset 21397.
 -- などと、猫のように身をすり寄せている。
-　À la moindre occasion, il se frottait à lui comme un chat.
+  À la moindre occasion, il se frottait à lui comme un chat.
 
 }
 [sha:c14f62102504ad02b165838dff76045592a7dd4c]{
 -- Page 37, Offset 21398.
 -- 静希はあれで子供に好かれる性格なのだろうか。草十郎サン草十郎サン、と実にやかましい。
-　Shizuki était peut-être du genre à attirer les enfants ? Mais l'entendre répéter “Sōjūrō, Sōjūrō” à tout bout de champ était éreintant.
+  Shizuki était peut-être du genre à attirer les enfants ? Mais l'entendre répéter “Sōjūrō, Sōjūrō” à tout bout de champ était éreintant.
 
 }
 [sha:479dfcab42af1b61ad518f3988a9b1cbafab3f2a]{
 -- Page 38, Offset 21399.
 -- ともあれ、今は客室に移動しよう。
-　Bref, j'entrepris de me rendre dans la chambre d'ami.
+  Bref, j'entrepris de me rendre dans la chambre d'ami.
 
 }
 [sha:c67f593c52cc8ad95ba9f2a8309c1b0ac393582e]{

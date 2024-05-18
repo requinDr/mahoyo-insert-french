@@ -1,67 +1,67 @@
 [sha:d6fde5d27cca2723520de150d00af12c5c76dee2]{
 -- Page 0, Offset 6800.
 -- 青い火花を散らす魔弾。
-　Les balles de prana projetèrent des étincelles bleues.
+  Les balles de prana projetèrent des étincelles bleues.
 
 }
 [sha:3763202d4ab660185a3cff3aabc99b76fdf91f7b]{
 -- Page 0, Offset 6801.
 -- 波うつレンガの道を青子たちはひた走る。
-　Ils couraient le long du chemin pavé de briques disposées en cercles concentriques,
+  Ils couraient le long du chemin pavé de briques disposées en cercles concentriques,
 
 }
 [sha:0870eff9725c807472e6db2e19d4edf4c784310d]{
 -- Page 0, Offset 6802.
 -- つり橋効果を遥かに超える戦場での信頼感。
-　avec une confiance réciproque acquise au champ de bataille encore plus forte que le syndrome de Stockholm.
+  avec une confiance réciproque acquise au champ de bataille encore plus forte que le syndrome de Stockholm.
 
 }
 [sha:5e5dee60000ebd183e2ae8eb1f1926154ff6632b]{
 -- Page 0, Offset 6803.
 -- ふたりは全速力で、さしたる会話もアイコンタクトもなく、遊園地の出口を目指す。
-　Ils se dirigeaient vers la sortie du parc d'attractions à toute vitesse, sans discuter ni même se regarder,
+  Ils se dirigeaient vers la sortie du parc d'attractions à toute vitesse, sans discuter ni même se regarder,
 
 }
 [sha:8012872470f80957cc0ea0ea140d9def1bb98665]{
 -- Page 0, Offset 6804.
 -- この異常は遊園地の中だけのこと。
-　en espérant que ces aberrations n'existaient qu'à l'intérieur du parc,
+  en espérant que ces aberrations n'existaient qu'à l'intérieur du parc,
 
 }
 [sha:ecce01a92ff039f87d95cb12ad8434370d433eef]{
 -- Page 0, Offset 6805.
 -- なら、外に出てしまえば助かるだろうと。
-　et que dans ce cas, ils seraient sauvés s'ils rejoignaient l'extérieur.
+  et que dans ce cas, ils seraient sauvés s'ils rejoignaient l'extérieur.
 
 }
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 1, Offset 6806.
 -- が。
-　Cependant,
+  Cependant,
 
 }
 [sha:ed44def25611d663efb2c239642f7be2058ef09e]{
 -- Page 1, Offset 6807.
 -- 戦力差、数にして二人対数百人。
-　sur le papier, le rapport de force actuel était de deux personnes contre une centaine.
+  sur le papier, le rapport de force actuel était de deux personnes contre une centaine.
 
 }
 [sha:051aa687bfc074cf373e1f9c1f7ddd58a913d5d2]{
 -- Page 1, Offset 6808.
 -- もとい、一人対数百体。
-　Correction, une personne contre une centaine d'objets.
+  Correction, une personne contre une centaine d'objets.
 
 }
 [sha:ac8de3371a4d48ffc667619ab1a395a6257c5df1]{
 -- Page 1, Offset 6809.
 -- 草十郎はほとんど使い物にならないし、
-　Sōjūrō ne servait pratiquement à rien,
+  Sōjūrō ne servait pratiquement à rien,
 
 }
 [sha:624e77f1c0fd851b0086d0b5d345548b030e64d1]{
 -- Page 1, Offset 6810.
 -- 襲いかかってくるのは人というより<人形|パペット>である。
-　et ceux qui les attaquaient étaient davantage des pantins que des humains.
+  et ceux qui les attaquaient étaient davantage des pantins que des humains.
 
 }
 [sha:5a6a9c8e05d298ccb6232075d6126d8a57445bcd]{
@@ -73,19 +73,19 @@
 [sha:5007863f44f25255358991bb556f3177ba07e38f]{
 -- Page 2, Offset 6812.
 -- 上からこう、でっかいハサミが落ちてきたけど！」
-　Tu sais, les énormes ciseaux tombés du ciel !」
+  Tu sais, les énormes ciseaux tombés du ciel !」
 
 }
 [sha:18b96cf50bef12e52a3d6eb85e28192891b3139f]{
 -- Page 2, Offset 6813.
 -- 立ちふさがる怪物を撃ち砕きながら青子が叫ぶ。
-　cria Aoko tout en explosant les monstres qui bloquaient le passage.
+  cria Aoko tout en explosant les monstres qui bloquaient le passage.
 
 }
 [sha:8a9a6c00c11ee9fef2e187c564af78952dfa3509]{
 -- Page 2, Offset 6814.
 -- 振り向く余裕も、立ち止まっている暇もない。
-　Elle n'avait ni le temps de se retourner ni celui de s'arrêter.
+  Elle n'avait ni le temps de se retourner ni celui de s'arrêter.
 
 }
 [sha:15c95f63359f427042c48797170b75500f89201f]{
@@ -97,25 +97,25 @@
 [sha:38182efdfecd2ae8baf07578862a5444a5026ca2]{
 -- Page 3, Offset 6816.
 -- 青子を追う草十郎も、さすがに声がうわずっている。
-　Comme il fallait s'y attendre, la voix de Sōjūrō derrière Aoko était elle aussi stridente.
+  Comme il fallait s'y attendre, la voix de Sōjūrō derrière Aoko était elle aussi stridente.
 
 }
 [sha:f27a3e8a864da6a9204f1d1fa0d49c704c39a03f]{
 -- Page 4, Offset 6817.
 -- ―――さかのぼること五分前。
-　―――Cinq minutes auparavant.
+  ―――Cinq minutes auparavant.
 
 }
 [sha:9381e682ff336fa81aacdf65b139fdf69155837c]{
 -- Page 4, Offset 6818.
 -- 広場の包囲網からは呆気なく抜け出せた。
-　À leur grande surprise, ils avaient pu échapper à l'encerclement des créatures sur la grande place.
+  À leur grande surprise, ils avaient pu échapper à l'encerclement des créatures sur la grande place.
 
 }
 [sha:7a92d52f3c43c5a3ec87e425e69eb25b31b95b14]{
 -- Page 4, Offset 6819.
 -- 住人たちの“目覚め”には個体差があって、大きなものほど動きだすには時間が必要らしい。
-　Les habitants du parc ne se réveillaient pas tous à la même vitesse, et visiblement, plus ils étaient gros, plus ils avaient besoin de temps pour se mettre en mouvement.
+  Les habitants du parc ne se réveillaient pas tous à la même vitesse, et visiblement, plus ils étaient gros, plus ils avaient besoin de temps pour se mettre en mouvement.
 
 }
 [sha:0e0183acb5b3e6b6648ce8a8e95340394a6a46da]{
@@ -127,13 +127,13 @@
 [sha:b647ba3da87429b8f9aac3c83cbc3f556e8b279a]{
 -- Page 5, Offset 6821.
 -- 青子は軽口を言って、ひょっこり現れたザコをなぎ払う。
-　Aoko parla avec témérité et se débarrassa du menu fretin qui était soudainement apparu.
+  Aoko parla avec témérité et se débarrassa du menu fretin qui était soudainement apparu.
 
 }
 [sha:b3fa6aca9cc64f48875561cb7be00e3ae3e2c8b2]{
 -- Page 5, Offset 6822.
 -- そんな時。
-　À ce moment-là,
+  À ce moment-là,
 
 }
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
@@ -145,13 +145,13 @@
 [sha:290576dcff62fee3f656468296498803d7a81315]{
 -- Page 5, Offset 6824.
 -- 突如、ふたりの頭上にとんでもないモノが伸びてきた。
-　une forme gigantesque s'étira soudainement au-dessus de leur tête.
+  une forme gigantesque s'étira soudainement au-dessus de leur tête.
 
 }
 [sha:6193303b20cc8b52c739e6e0cbeced408d271241]{
 -- Page 6, Offset 6825.
 -- ロブスター<専門店|レストラン>の屋根に鎮座していた、全長18メートルのザリガニ、そのハサミである。
-　La langouste de dix-huit mètres d'envergure, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
+  La langouste de dix-huit mètres d'envergure, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
 
 }
 [sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
@@ -163,13 +163,13 @@
 [sha:872f44468bb2f266136a70f33d2936112e54d3de]{
 -- Page 7, Offset 6827.
 -- ほとんどギロチンのようなハサミだった。
-　Ces ciseaux étaient une véritable guillotine.
+  Ces ciseaux étaient une véritable guillotine.
 
 }
 [sha:4d419a93d14b186dcbe9d06a33b0c0c969139d27]{
 -- Page 7, Offset 6828.
 -- レストラン前を横切る青子たちを、凄まじいスピードでまっ二つにしようと迫る<赤い甲殻類|レッドキング>。
-　Le roi écarlate les attaqua à une vitesse effrayante dans le but de les couper en deux alors qu'ils passaient devant le restaurant.
+  Le roi écarlate les attaqua à une vitesse effrayante dans le but de les couper en deux alors qu'ils passaient devant le restaurant.
 
 }
 [sha:643c59b04007b87e8d4a6d6039a5995e0f9234db]{
@@ -181,13 +181,13 @@
 [sha:fa29eefabb706ee5142c2c38510d3cf2a08580f5]{
 -- Page 8, Offset 6830.
 -- ロブスター店を抜ければすぐに<正門|ゲート>だったが、ふたりは巨大ザリガニから逃れるように遠回りをする。
-　En passant devant le restaurant de homards, ils seraient arrivés directement à l'entrée du parc, mais ils durent faire un grand détour pour échapper à la langouste géante.
+  En passant devant le restaurant de homards, ils seraient arrivés directement à l'entrée du parc, mais ils durent faire un grand détour pour échapper à la langouste géante.
 
 }
 [sha:ddcdf702a282eb8a36950171f740fbe9934046af]{
 -- Page 8, Offset 6831.
 -- そうして迂回した先に待ち受けていたのは、おびただしいまでの怪物の群だった。
-　Et sur le chemin qu'ils empruntaient à présent, les attendait un énorme groupe de monstres.
+  Et sur le chemin qu'ils empruntaient à présent, les attendait un énorme groupe de monstres.
 
 }
 [sha:15c95f63359f427042c48797170b75500f89201f]{
@@ -199,7 +199,7 @@
 [sha:68d3686495f8a831614d2a4920866637e5b36845]{
 -- Page 9, Offset 6833.
 -- あやうく首からすっぱり切られそうだったピンチを思いだしながら、草十郎は青子に叫び返す。
-　cria Sōjūrō à Aoko, tout en se rappelant de la situation dangereuse où il avait failli perdre son cou.
+  cria Sōjūrō à Aoko, tout en se rappelant de la situation dangereuse où il avait failli perdre son cou.
 
 }
 [sha:17c99b2c809af0c87a247e4ab0a83698155f3b9a]{
@@ -217,7 +217,7 @@
 [sha:7adb3630808c4618291d256ada39d0a12fddf370]{
 -- Page 10, Offset 6836.
 -- 青子は駆け足を止めて魔術刻印をフル回転させる。
-　Aoko arrêta sa course et fit tourner son Sceau Magique à plein régime.
+  Aoko arrêta sa course et fit tourner son Sceau Magique à plein régime.
 
 }
 [sha:555c51b86f2ecaea0fe392fab80b3d3e664a66c2]{
@@ -229,25 +229,25 @@
 [sha:fb6a0a755d1603fb6a05c8fe19a3ab5cadc4f98f]{
 -- Page 10, Offset 6838. Glued.
 -- あの程度ならスナップだけで事足りる……！”
-　Vu leur niveau, un Snap suffira......!”
+  Vu leur niveau, un Snap suffira......!”
 
 }
 [sha:998c8af02448d5e704446c3801373acd8e700aba]{
 -- Page 11, Offset 6839.
 -- レンガの道を滑りながら右腕を一閃する。
-　Pendant qu'elle glissait sur le chemin de briques, son bras droit se mit à briller,
+  Pendant qu'elle glissait sur le chemin de briques, son bras droit se mit à briller,
 
 }
 [sha:9f52f28d95fb78e85c733fa41e4c7356cda3b2b1]{
 -- Page 11, Offset 6840.
 -- 放たれる魔弾の雨。
-　libérant une pluie de balles de prana.
+  libérant une pluie de balles de prana.
 
 }
 [sha:e1cd6ea889df67dc0fa20d74042ed0d5ce7d236f]{
 -- Page 11, Offset 6841.
 -- 威力より弾数を優先した<一工程|スナップ>は、立ちふさがる怪物たちを小気味良くまき散らかす。
-　Le Snap, qui mettait l'accent sur l'étendue de la zone de tir plutôt que la puissance, éparpilla avec efficacité les monstres se dressant sur leur chemin.
+  Le Snap, qui mettait l'accent sur l'étendue de la zone de tir plutôt que la puissance, éparpilla avec efficacité les monstres se dressant sur leur chemin.
 
 }
 [sha:783ff099d0cc6a018c45025897e2ba3e50daa401]{
@@ -265,19 +265,19 @@
 [sha:d0f178a60c9124598f1a4d5241f998ecce826a03]{
 -- Page 13, Offset 6844.
 -- 電飾のついた遊歩道に、青い火花が咲き乱れる。
-　La promenade ornée de lumières se retrouva envahie d'étincelles bleues.
+  La promenade ornée de lumières se retrouva envahie d'étincelles bleues.
 
 }
 [sha:094dce6aa3a15835f82d76c4a16735cedcde9e54]{
 -- Page 13, Offset 6845.
 -- 扇状に弾幕をはる青子の姿は、空から<俯瞰|ふかん>すれば美しいスターマインそのものだ。
-　Vue du ciel, la silhouette d'Aoko projetant un barrage de balles en tournoyant sur elle-même évoquait un magnifique feu d'artifice.
+  Vue du ciel, la silhouette d'Aoko projetant un barrage de balles en tournoyant sur elle-même évoquait un magnifique feu d'artifice.
 
 }
 [sha:a338c5a29d9ae156c1c553d14143e24f218a97cf]{
 -- Page 13, Offset 6846.
 -- 焼きたてパンの<遊び道具|レイカンファー>、ブレッドマンではそれこそ消し<炭|ずみ>にされるだけ。
-　Les pantins de pain grillé, les hommes-pains, se retrouvaient impitoyablement réduits en cendres.
+  Les pantins de pain grillé, les hommes-pains, se retrouvaient impitoyablement réduits en cendres.
 
 }
 [sha:91c2754fded9589435d29db05d046bff8d1f3ea7]{
@@ -301,18 +301,18 @@
 [sha:ce1c05b03dd987039f6beff523171a4cb02b013f]{
 -- Page 15, Offset 6850.
 -- 並の魔術師なら息切れをする数の魔弾を放ちながら、新米魔術師は敵の囲みを突破する。
-　Là où un Mage normal tirerait des balles de prana à en perdre son souffle dans cette situation, un Mage novice aurait plutôt choisi de franchir le périmètre de défense ennemi.
+  Là où un Mage normal tirerait des balles de prana à en perdre son souffle dans cette situation, un Mage novice aurait plutôt choisi de franchir le périmètre de défense ennemi.
 
 }
 [sha:adb2f2d45a086b675f3376d0dafd0177c012a849]{
 -- Page 15, Offset 6851.
 -- ……一方。
-　...... Pendant ce temps,
+  ...... Pendant ce temps,
 
 }
 [sha:3dbf28ddf32acabd946b8b3e7de7f8801f909587]{
 -- Page 15, Offset 6852.
 -- そんな光景を、じっくりと観察する鳥が一羽。
-　un oiseau observait attentivement ce spectacle.
+  un oiseau observait attentivement ce spectacle.
 
 }

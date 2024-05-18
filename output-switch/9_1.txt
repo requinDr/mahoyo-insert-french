@@ -1,67 +1,67 @@
 [sha:a32ee1ea93fef9037f0e312e38e97b9dde81c010]{
 -- Page 0, Offset 13097.
 -- 十二月も残すところ十日をきった朝。
-　Un matin, dix jours avant la fin du mois de décembre.
+  Un matin, dix jours avant la fin du mois de décembre.
 
 }
 [sha:b38f825c40313d4dca476729573ed764454f30cf]{
 -- Page 0, Offset 13098.
 -- もうじきクリスマスと浮かれる町並みに逆行するように、草十郎はアルバイトに向かっていた。
-　Tandis que la ville s'égayait de l'arrivée de Noël, Sōjūrō se rendait à son travail comme pour aller à contre-courant de la tendance.
+  Tandis que la ville s'égayait de l'arrivée de Noël, Sōjūrō se rendait à son travail comme pour aller à contre-courant de la tendance.
 
 }
 [sha:42cfcfb5083bedc5a3fcd94d20020d22275dcfc5]{
 -- Page 0, Offset 13099.
 -- 今にも雪が降ってきそうな空の下、並木道は鮮やかに賑わっている。
-　Sous un ciel menaçant annonciateur de chutes de neige, l'avenue qu'il arpentait voyait ses boutiques regorger de vie.
+  Sous un ciel menaçant annonciateur de chutes de neige, l'avenue qu'il arpentait voyait ses boutiques regorger de vie.
 
 }
 [sha:9bf6779bbc52e3b193c2359770c680e312386b72]{
 -- Page 0, Offset 13100.
 -- ここ数日は特に華やかだ。
-　Elle était d'autant plus éclatante ces derniers jours.
+  Elle était d'autant plus éclatante ces derniers jours.
 
 }
 [sha:5afdf77979d4c8ce294565a77a813c7943b3ecf7]{
 -- Page 0, Offset 13101.
 -- 冬休みの学生たちは日々親しい友人と顔を合わせ、間近に迫ったイベントを指折り数えて待っている。
-　En ces vacances de Noël, les étudiants rencontraient leurs amis proches quotidiennement et comptaient les jours qui les séparaient de l'évènement imminent.
+  En ces vacances de Noël, les étudiants rencontraient leurs amis proches quotidiennement et comptaient les jours qui les séparaient de l'évènement imminent.
 
 }
 [sha:9035a7076694020f41bb6479a9c27a15b8f4750e]{
 -- Page 1, Offset 13102.
 -- 魔よけのお札のように乱立する特製ケーキの見出し。
-　Les promotions de gâteaux de Noël pullulaient comme les gerbes de gui.
+  Les promotions de gâteaux de Noël pullulaient comme les gerbes de gui.
 
 }
 [sha:c5693e3bfd654ec2488d73640ff1e9a1e32bb38f]{
 -- Page 1, Offset 13103.
 -- ビルの壁一面に貼られた巨大広告。
-　D'énormes publicités avaient été collées aux murs des immeubles.
+  D'énormes publicités avaient été collées aux murs des immeubles.
 
 }
 [sha:3766c2cac2d6dd9cd0bc3154dd95d1c62dc08474]{
 -- Page 1, Offset 13104.
 -- 駅前広場に集まった数々の露店。
-　De nombreux stands avaient pris place sur l'esplanade devant la gare.
+  De nombreux stands avaient pris place sur l'esplanade devant la gare.
 
 }
 [sha:e10803872cd9c00cb2bd8a612e3c8abb1109e698]{
 -- Page 1, Offset 13105.
 -- そういった都会の町の賑わいを横目に、草十郎は電話ボックスに入る。
-　Sōjūrō entra dans une cabine téléphonique tout en lorgnant du coin de l'œil cette animation propre à la ville.
+  Sōjūrō entra dans une cabine téléphonique tout en lorgnant du coin de l'œil cette animation propre à la ville.
 
 }
 [sha:1c77a80845c5be8841b526a12fc32a28e293b710]{
 -- Page 1, Offset 13106.
 -- 中も冷えきっていたが、冬の風が入らないだけ暖かい。
-　Il y faisait également froid, mais tout de même plus chaud qu'à l'extérieur, du fait que le vent glacial d'hiver n'y pénétrait pas.
+  Il y faisait également froid, mais tout de même plus chaud qu'à l'extérieur, du fait que le vent glacial d'hiver n'y pénétrait pas.
 
 }
 [sha:e6a65f33548a389142df74464691fe35d18d01e4]{
 -- Page 1, Offset 13107. Mods: @n.
 -- 雪山にこういうのを置いたら便利なんじゃないか、などと思いつつ、
-　Ce serait pratique d'installer ce genre d'appareil dans les montagnes enneigées, pensa Sōjūrō,
+  Ce serait pratique d'installer ce genre d'appareil dans les montagnes enneigées, pensa Sōjūrō,
 
 }
 [sha:c3047eb14bd94cf515401e76cfd0447d670faa43]{
@@ -73,61 +73,61 @@ tout en introduisant une pièce de 10 yens dans le téléphone.
 [sha:f0c359493c474e7897dd2bea03156c015d1f9b74]{
 -- Page 2, Offset 13109.
 -- それなりに慣れた手つきで、暗記したナンバーをプッシュする。
-　Il composa le numéro qu'il avait mémorisé, d'un geste plutôt aguerri.
+  Il composa le numéro qu'il avait mémorisé, d'un geste plutôt aguerri.
 
 }
 [sha:e7b018e9faedd04a44b57c214e3f4a828d3b743c]{
 -- Page 2, Offset 13110.
 -- コールが鳴るまで約五秒。
-　Il fallut attendre environ cinq secondes avant que le téléphone sonne.
+  Il fallut attendre environ cinq secondes avant que le téléphone sonne.
 
 }
 [sha:e03bde31dcc0577be6c02af95eb09be917cd3322]{
 -- Page 2, Offset 13111.
 -- コールが鳴ってから、またも五秒。
-　Et cinq secondes de plus pour que quelqu'un réponde.
+  Et cinq secondes de plus pour que quelqu'un réponde.
 
 }
 [sha:1c9f93c9eb4dbb98778b072c7ed26416b8259638]{
 -- Page 2, Offset 13112.
 -- 十秒間の待ち時間。
-　Il avait attendu en tout et pour tout dix secondes.
+  Il avait attendu en tout et pour tout dix secondes.
 
 }
 [sha:3133ddd44552b8668c36dc7bc6c8ef6c76fc2889]{
 -- Page 2, Offset 13113.
 -- 電話ボックスからビルの壁に飾られた広告を見上げて、今さらながら人々の多種多様さに感心したりする。
-　Il observa la publicité décorant le mur de l'immeuble depuis la cabine téléphonique, et fut à nouveau étonné par l'éclectisme des gens.
+  Il observa la publicité décorant le mur de l'immeuble depuis la cabine téléphonique, et fut à nouveau étonné par l'éclectisme des gens.
 
 }
 [sha:a62e2415da72097c5adcde383defaf0cd87c0f98]{
 -- Page 3, Offset 13114.
 -- 電話番号は槻司鳶丸のものである。
-　Le numéro de téléphone appartenait à Tsukiji Tobimaru.
+  Le numéro de téléphone appartenait à Tsukiji Tobimaru.
 
 }
 [sha:1f9f5b899f90e4f9dd2179b5afcb1d1e5bf06c7b]{
 -- Page 3, Offset 13115.
 -- 槻司家は三咲市に深く関わりのある家―――古くからの地主、名家であるらしい。
-　La famille Tsukiji avait un lien profond avec la ville de Misaki―――d'après ce qu'on lui avait dit, elle était célèbre et possédait des terres depuis longtemps.
+  La famille Tsukiji avait un lien profond avec la ville de Misaki―――d'après ce qu'on lui avait dit, elle était célèbre et possédait des terres depuis longtemps.
 
 }
 [sha:efed87e46e61acd04d630cd8fdbc0eaaabd9bb94]{
 -- Page 3, Offset 13116.
 -- その豪邸は隣町である<社木|やしろぎ>にある。
-　Leur résidence de luxe se trouvait dans la ville voisine, Yashirogi.
+  Leur résidence de luxe se trouvait dans la ville voisine, Yashirogi.
 
 }
 [sha:2e9500e600bc944c23446eceb52845e67deb8671]{
 -- Page 3, Offset 13117.
 -- 呼び出し音に取ってかわったのは、感じの良い初老の婦人の声だった。
-　La sonnerie du téléphone fut remplacée par la voix plaisante d'une femme âgée.
+  La sonnerie du téléphone fut remplacée par la voix plaisante d'une femme âgée.
 
 }
 [sha:3d84086381335562195ca22a31e2b848869201a0]{
 -- Page 3, Offset 13118.
 -- 婦人は丁寧な挨拶の後、目的の人物に繋げてくれた。
-　Après l'avoir poliment salué, elle lui passa la personne qu'il demandait.
+  Après l'avoir poliment salué, elle lui passa la personne qu'il demandait.
 
 }
 [sha:7debb2c4985112321d15eade8a7abc873fa0cb98]{
@@ -145,7 +145,7 @@ tout en introduisant une pièce de 10 yens dans le téléphone.
 [sha:dc1638fdc6b007c63bf447b82070c72ecb7d704c]{
 -- Page 4, Offset 13121.
 -- 寝惚けているのか、そんな返答が受話器ごしに返される。
-　entendit-il depuis le combiné, comme si son interlocuteur était à moitié endormi.
+  entendit-il depuis le combiné, comme si son interlocuteur était à moitié endormi.
 
 }
 [sha:a76eb70a9298dc66746c723db39eb6323c54588c]{
@@ -163,7 +163,7 @@ tout en introduisant une pièce de 10 yens dans le téléphone.
 [sha:b236055d4651e6c2bb3025cd42e5213939a2d43c]{
 -- Page 5, Offset 13124.
 -- ……大丈夫かなこの男、と不安に思いつつ、草十郎はまっすぐ本題を切りだした。
-　...... Il a un grain ou quoi, celui-là ? s'inquiéta Sōjūrō avant d'entrer dans le vif du sujet.
+  ...... Il a un grain ou quoi, celui-là ? s'inquiéta Sōjūrō avant d'entrer dans le vif du sujet.
 
 }
 [sha:522b85dd25a6a80a668154be82fb92fee6fc6042]{
@@ -175,13 +175,13 @@ tout en introduisant une pièce de 10 yens dans le téléphone.
 [sha:78952fae7d1da527078d37c802c5928e84b6d1aa]{
 -- Page 5, Offset 13126.
 -- しばらく無音。
-　Le silence s'installa quelques instants.
+  Le silence s'installa quelques instants.
 
 }
 [sha:886a30148082f07dc71b31c173ebf52862b1cde6]{
 -- Page 5, Offset 13127.
 -- 受話器の向こうの副会長が、どんな呆れ顔をしているかは分からない。
-　Il ne pouvait pas voir l'expression de lassitude qu'affichait le vice-président à l'autre bout du fil.
+  Il ne pouvait pas voir l'expression de lassitude qu'affichait le vice-président à l'autre bout du fil.
 
 }
 [sha:91817ebb48ab29521d9c1c5275ff9228cf2d2f79]{
@@ -193,24 +193,24 @@ tout en introduisant une pièce de 10 yens dans le téléphone.
 [sha:90ff2326d8b27addc02ade4d239b451f6821243b]{
 -- Page 6, Offset 13129.
 -- いいか草十郎。仲が悪けりゃ遊びに行け。機嫌をとりたきゃいいとこ見せろ。んで、それが合わなきゃ早めに手を切れ。俺ができるアドバイスはそんなもんだ』
-　Écoute, Sōjūrō. Si vous êtes en mauvais termes, sortez vous amuser. Si tu veux lui faire plaisir, montre-lui tes bons côtés. Et si ça ne marche pas, coupe les ponts. Ce sont bien les seuls conseils que je puisse te donner.』
+  Écoute, Sōjūrō. Si vous êtes en mauvais termes, sortez vous amuser. Si tu veux lui faire plaisir, montre-lui tes bons côtés. Et si ça ne marche pas, coupe les ponts. Ce sont bien les seuls conseils que je puisse te donner.』
 
 }
 [sha:d3fd9e3be45c3f5026e3a87ff88cd19f33631809]{
 -- Page 7, Offset 13130.
 -- 以上、と鳶丸は電話を切った。
-　“Terminé”, dit Tobimaru avant de raccrocher.
+  “Terminé”, dit Tobimaru avant de raccrocher.
 
 }
 [sha:3379605f738bfba97bd1663263293fd84c3ad82e]{
 -- Page 7, Offset 13131.
 -- もう朝の十時だというのに、まるで朝の六時のような鳶丸の対応に、うむ、と草十郎は真剣に頷いた。
-　“OK”, acquiesça Sōjūrō avec sérieux suite à la réaction de Tobimaru qui aurait été compréhensible s'il avait été six heures du matin et non pas dix heures.
+  “OK”, acquiesça Sōjūrō avec sérieux suite à la réaction de Tobimaru qui aurait été compréhensible s'il avait été six heures du matin et non pas dix heures.
 
 }
 [sha:cc219b51aa262e4b3000e20fe54b49c126d7a06c]{
 -- Page 7, Offset 13132.
 -- 適当にあしらわれた気はするが、たしかにそれは一番現実的な気がする、と感心しながら。
-　J'ai un peu l'impression qu'il a répondu au pif, mais en effet, c'est peut-être le mieux à faire, pensa Sōjūrō, admiratif.
+  J'ai un peu l'impression qu'il a répondu au pif, mais en effet, c'est peut-être le mieux à faire, pensa Sōjūrō, admiratif.
 
 }

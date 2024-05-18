@@ -1,31 +1,31 @@
 [sha:3cbb95d5d522b7b1016ea1e33fdf2daabbe26900]{
 -- Page 0, Offset 11125.
 -- 窓からの日射しが明るい。
-　Les rayons du soleil passant à travers les fenêtres étaient radieux.
+  Les rayons du soleil passant à travers les fenêtres étaient radieux.
 
 }
 [sha:03f881c536b8248812cfcfa2b77ee0282030501b]{
 -- Page 0, Offset 11126.
 -- そろそろテレビのお茶の間番組にエンジンがかかってくる午前九時。
-　Il serait bientôt neuf heures du matin, le moment où les émissions télévisées commençaient à battre leur plein dans les salons.
+  Il serait bientôt neuf heures du matin, le moment où les émissions télévisées commençaient à battre leur plein dans les salons.
 
 }
 [sha:207d63cbcf8be30e79532455316e6ed2b10830a3]{
 -- Page 0, Offset 11127.
 -- 草十郎はソファーに座って、外の様子を眺めていた。
-　Sōjūrō, assis sur le sofa, contemplait l'extérieur.
+  Sōjūrō, assis sur le sofa, contemplait l'extérieur.
 
 }
 [sha:70ab48e285f46851eaefebc35e2cf9b86a5e6510]{
 -- Page 1, Offset 11128.
 -- 隣室のサンルームから見える中庭の荒廃ぶりは、とても一言では表せない。
-　Aucun mot n'aurait pu exprimer l'état de délabrement dans lequel se trouvait la cour, qu'on pouvait apercevoir depuis le salon à travers la pièce voisine, la véranda.
+  Aucun mot n'aurait pu exprimer l'état de délabrement dans lequel se trouvait la cour, qu'on pouvait apercevoir depuis le salon à travers la pièce voisine, la véranda.
 
 }
 [sha:217dea54d5ca3bf5dfb08e4d34964e4818f455bb]{
 -- Page 1, Offset 11129.
 -- あるがままの自然は<尊|とうと>いが、人の手によって整頓された自然にも理解のある草十郎である。
-　La nature vierge avait quelque chose de sacré, mais Sōjūrō appréciait aussi son charme lorsqu'elle était aménagée par la main de l'homme.
+  La nature vierge avait quelque chose de sacré, mais Sōjūrō appréciait aussi son charme lorsqu'elle était aménagée par la main de l'homme.
 
 }
 [sha:16d9c28670c48365ea986392b9535cdc05e6575e]{
@@ -37,49 +37,49 @@
 [sha:eb68b6dc697167eb71de1e024621129c67a7e0b9]{
 -- Page 2, Offset 11131.
 -- などと、こぢんまりとした野望に燃えながら、教科書のページをまた一枚めくる。
-　pensa-t-il en s'enthousiasmant pour ce modeste objectif, avant de tourner une nouvelle page de son manuel.
+  pensa-t-il en s'enthousiasmant pour ce modeste objectif, avant de tourner une nouvelle page de son manuel.
 
 }
 [sha:7732645b68669bc74d9b8320f2e29a528481a7cc]{
 -- Page 2, Offset 11132.
 -- テーブルには数学のテキストと青子印のノート。
-　Des exercices de mathématiques et un cahier emprunté à Aoko étaient posés sur la table.
+  Des exercices de mathématiques et un cahier emprunté à Aoko étaient posés sur la table.
 
 }
 [sha:3dc57a714126b8ff63ebf644d073a9355e5309b1]{
 -- Page 2, Offset 11133.
 -- 一見して休日も予習を怠らない優等生……ではあるが、その実、これは妥協の結果である。
-　À première vue, il avait tout de l'élève modèle qui, même pendant les vacances, préparait les cours avec sérieux...... mais en vérité, il s'agissait là du résultat d'une concession.
+  À première vue, il avait tout de l'élève modèle qui, même pendant les vacances, préparait les cours avec sérieux...... mais en vérité, il s'agissait là du résultat d'une concession.
 
 }
 [sha:1f2f7d6682758c01dc8e42594d6a0a8c87500dfd]{
 -- Page 2, Offset 11134.
 -- 草十郎が第一目的とした朝のテレビ観賞は、ある理由から断念されてしまったからだ。
-　En effet, il avait dû renoncer à son intention première, son plaisir télé du matin, pour une certaine raison.
+  En effet, il avait dû renoncer à son intention première, son plaisir télé du matin, pour une certaine raison.
 
 }
 [sha:a2dcfc50f36d0c45a0bdab1b87ce1dbc893a0b2d]{
 -- Page 3, Offset 11135.
 -- 理由は言うまでもない。
-　Celle-ci allait de soi :
+  Celle-ci allait de soi :
 
 }
 [sha:afd34147cbdfab6c13144a33044bb2f52e60281b]{
 -- Page 3, Offset 11136.
 -- こうして、今も草十郎の正面で読書に没頭する、久遠寺有珠に気を遣っての事だ。
-　Sōjūrō prenait en considération Kuonji Alice, actuellement plongée dans sa lecture en face de lui.
+  Sōjūrō prenait en considération Kuonji Alice, actuellement plongée dans sa lecture en face de lui.
 
 }
 [sha:896b4bc7214f6e49b81fc0866412ae31e9de8307]{
 -- Page 3, Offset 11137.
 -- てっきり自室に引きこもると思われていた彼女は、古びた本を持ち出して読書を始めてしまった。
-　Il s'était attendu à ce qu'elle s'enferme dans sa chambre ; au lieu de cela, elle avait sorti un vieux livre et commencé sa lecture.
+  Il s'était attendu à ce qu'elle s'enferme dans sa chambre ; au lieu de cela, elle avait sorti un vieux livre et commencé sa lecture.
 
 }
 [sha:50f9976a4fb1612d0d102417c180ae3448d6f950]{
 -- Page 3, Offset 11138.
 -- 静かにしていて、とはこういう事で、もはや無遠慮にテレビをつける事は難しい。
-　Lorsqu'elle lui avait dit de ne pas faire de bruit, c'était ce qu'elle sous-entendait, et il lui était à présent difficile d'allumer la télé sans la déranger.
+  Lorsqu'elle lui avait dit de ne pas faire de bruit, c'était ce qu'elle sous-entendait, et il lui était à présent difficile d'allumer la télé sans la déranger.
 
 }
 [sha:2183fc54a934216fcb038f6836c0f330ede61204]{
@@ -91,13 +91,13 @@
 [sha:041d6bfab203993393f92f5bb1f633621d11f81e]{
 -- Page 4, Offset 11140.
 -- そんな結論に達し、それじゃあ、と草十郎は赤点の補習課題に手を出したのだ。
-　“Bon”, s'était dit Sōjūrō en aboutissant à cette conclusion, avant de sortir les devoirs de ses cours de rattrapage.
+  “Bon”, s'était dit Sōjūrō en aboutissant à cette conclusion, avant de sortir les devoirs de ses cours de rattrapage.
 
 }
 [sha:552228d6263597411b315970a6340221a97611c0]{
 -- Page 4, Offset 11141.
 -- なぜか居間で。
-　Il les faisait dans le salon.
+  Il les faisait dans le salon.
 
 }
 [sha:8fd5f4d04846ca41704e477268b3da30974a2b99]{
@@ -109,43 +109,43 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:b560a92152756afc8506707e8767b7efd2512139]{
 -- Page 5, Offset 11143.
 -- かくて、彼は有珠がいるにも拘わらず、<暢気|のんき>に<教科書|テキスト>に蛍光ペンなどを引いていたりする。
-　Par conséquent, sans se soucier de la présence d'Alice, il tirait dans la plus grande innocence des traits sur sa feuille au surligneur.
+  Par conséquent, sans se soucier de la présence d'Alice, il tirait dans la plus grande innocence des traits sur sa feuille au surligneur.
 
 }
 [sha:5cdad3abb6d3dacb1d4cb28a333ca47cec6ecda8]{
 -- Page 5, Offset 11144.
 -- 草十郎にしてみれば屋根裏の自室も、有珠のいる居間もそう変わりはない。
-　Pour Sōjūrō, sa chambre du grenier et le salon occupé par Alice n'étaient pas si différents.
+  Pour Sōjūrō, sa chambre du grenier et le salon occupé par Alice n'étaient pas si différents.
 
 }
 [sha:fa1dedfc1f79172e5b0b6c105b60404e91784d49]{
 -- Page 5, Offset 11145.
 -- 波乱の予兆さえなければ人食い虎とでも同居する―――
-　Tant que rien ne laissait présager de troubles, il pouvait vivre avec un tigre mangeur d'hommes―――
+  Tant que rien ne laissait présager de troubles, il pouvait vivre avec un tigre mangeur d'hommes―――
 
 }
 [sha:4d4c868aef584c377cf71ab051f46c46fe8258f7]{
 -- Page 5, Offset 11146.
 -- それが静希草十郎の、最大にして最悪の長所だった。
-　C'était à la fois son point faible et son plus grand point fort.
+  C'était à la fois son point faible et son plus grand point fort.
 
 }
 [sha:9e26ca794a13a03f132e90438468199da2ba2226]{
 -- Page 6, Offset 11147.
 -- 気が付けば、時計の針が十一時を指していた。
-　Avant qu'il ne l'ait réalisé, l'aiguille de l'horloge pointa sur onze heures.
+  Avant qu'il ne l'ait réalisé, l'aiguille de l'horloge pointa sur onze heures.
 
 }
 [sha:b9fc8736701e7645a2e583f420b8f6d99e983006]{
 -- Page 6, Offset 11148.
 -- 二時間近くかけても、数学の課題は半分も終わらない。
-　Même en passant deux heures dessus, il n'avait pas atteint la moitié de son devoir de mathématiques.
+  Même en passant deux heures dessus, il n'avait pas atteint la moitié de son devoir de mathématiques.
 
 }
 [sha:11d623453d3c47cb18f843463a161aee14dc01b6]{
 -- Page 6, Offset 11149.
 -- この程度で音をあげる自分の根性の無さに、草十郎は消沈する。
-　Sōjūrō était désappointé par cette faiblesse qui le poussait à se plaindre pour si peu.
+  Sōjūrō était désappointé par cette faiblesse qui le poussait à se plaindre pour si peu.
 
 }
 [sha:4795291bdd857910685580b46fb20658b44573a6]{
@@ -157,115 +157,115 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:0f2948f113a6c4aee574762ef159d1f939fa6658]{
 -- Page 6, Offset 11151.
 -- ぽん、とノートの上を転がっていくシャープペン。
-　se dit-il en regardant son critérium rouler sur ses notes.
+  se dit-il en regardant son critérium rouler sur ses notes.
 
 }
 [sha:57726c8b91ecad5dcf420229439d347a93a24567]{
 -- Page 7, Offset 11152.
 -- 試験が終わってからこっち、青子たちが何やら活動している事は知っている。
-　Il savait qu'Aoko et Alice préparaient quelque chose depuis la fin des examens.
+  Il savait qu'Aoko et Alice préparaient quelque chose depuis la fin des examens.
 
 }
 [sha:580e0e1a15c34ae7396bfbc7d1af10c8e18fd315]{
 -- Page 7, Offset 11153.
 -- それで彼女がほとんど眠っていない事も、
-　Il savait donc qu'Aoko n'avait presque pas dormi,
+  Il savait donc qu'Aoko n'avait presque pas dormi,
 
 }
 [sha:79a72db564170a686852515557a435595cc7a128]{
 -- Page 7, Offset 11154.
 -- 試験中、自分を無視していればもっと楽になっていたであろう事も、分かっていた。
-　et que si elle l'avait ignoré au cours des examens, cela aurait été plus facile pour elle.
+  et que si elle l'avait ignoré au cours des examens, cela aurait été plus facile pour elle.
 
 }
 [sha:8fbe1f2f600cc0e499ef6806efd11ec522968860]{
 -- Page 8, Offset 11155.
 -- 今日の仮眠だって、青子にとっては何日かぶりのまともな睡眠だろう。
-　La sieste d'aujourd'hui devait être le premier véritable somme d'Aoko depuis des jours.
+  La sieste d'aujourd'hui devait être le premier véritable somme d'Aoko depuis des jours.
 
 }
 [sha:f5482ce7fe4cc9c1c1f50413ff33ad11fd4d4320]{
 -- Page 8, Offset 11156.
 -- 疲労はとうにピークの筈だ。なのに、そんな素振りも見せないで青子はきびきびと歩いている。
-　Sa fatigue devait être à son paroxysme depuis longtemps. Pourtant, elle n'en montrait rien et marchait énergiquement.
+  Sa fatigue devait être à son paroxysme depuis longtemps. Pourtant, elle n'en montrait rien et marchait énergiquement.
 
 }
 [sha:31c8dd18b79674066bb3de7f5bd5b2ec88feb911]{
 -- Page 9, Offset 11157.
 -- 弱音を吐かない、のではなく。
-　Ce n'était pas pour cacher une quelconque faiblesse.
+  Ce n'était pas pour cacher une quelconque faiblesse.
 
 }
 [sha:ac0fcc15f41d4a306f4765712a55d1c9ee5f3a7c]{
 -- Page 9, Offset 11158.
 -- 弱音そのものが浮かんでいない、前向きで強い<信念|こころ>。
-　Elle possédait simplement un cœur fort et positif où la faiblesse elle-même ne se manifestait pas.
+  Elle possédait simplement un cœur fort et positif où la faiblesse elle-même ne se manifestait pas.
 
 }
 [sha:82bea98e8c2e6a3bfd50715762c4fd4e9d447a41]{
 -- Page 9, Offset 11159.
 -- 彼女が時に理不尽として映るのは、そのまっすぐさ故だろう。
-　Si elle paraissait de temps à autre irrationnelle, c'était probablement parce qu'elle était foncièrement honnête.
+  Si elle paraissait de temps à autre irrationnelle, c'était probablement parce qu'elle était foncièrement honnête.
 
 }
 [sha:2ce385e5701f96194b1009335d8a6824689d2c72]{
 -- Page 10, Offset 11160.
 -- それを言うなら目前の有珠だって同じかもしれない。
-　Dans ce cas, Alice était peut-être semblable.
+  Dans ce cas, Alice était peut-être semblable.
 
 }
 [sha:0b1f0f43bf94f8a2737d6fcd981f2509b27635c3]{
 -- Page 10, Offset 11161.
 -- 目的に向かってひた走る彼女たちを見ていると、漠然と自分の中途半端さを考えてしまう。
-　Lorsqu'il voyait ces deux filles poursuivre leur but, il songeait confusément à sa propre demi-mesure.
+  Lorsqu'il voyait ces deux filles poursuivre leur but, il songeait confusément à sa propre demi-mesure.
 
 }
 [sha:cfc0dba1e6300ac3d740bfaf4732674c13b83089]{
 -- Page 10, Offset 11162.
 -- 今までは新生活に慣れようと必死だったけれど、もし慣れてしまったのなら、その後はどうする気なのか、と。
-　Jusqu'à présent, il avait désespérément essayé de s'habituer à sa nouvelle vie, mais si jamais il y parvenait, que comptait-il faire ensuite ?
+  Jusqu'à présent, il avait désespérément essayé de s'habituer à sa nouvelle vie, mais si jamais il y parvenait, que comptait-il faire ensuite ?
 
 }
 [sha:a558bdf150123a316a5a698ff0bd0a4fa766ed69]{
 -- Page 11, Offset 11163.
 -- それを思うと、草十郎の心は暗い影に<覆|おお>われる。
-　Lorsqu'il y pensa, les pensées de Sōjūrō se voilèrent d'une ombre ténébreuse.
+  Lorsqu'il y pensa, les pensées de Sōjūrō se voilèrent d'une ombre ténébreuse.
 
 }
 [sha:2feff0b7636ebfaa93c44f012d864a77a93b4d3f]{
 -- Page 11, Offset 11164.
 -- 自分は彼女たちのような、明確な目的はもう見つからない気がするからだ。
-　En effet, il avait le sentiment qu'il ne trouverait plus jamais d'objectif clair comme les leurs.
+  En effet, il avait le sentiment qu'il ne trouverait plus jamais d'objectif clair comme les leurs.
 
 }
 [sha:e8992f3035e66c7de7d2e5e6a43a0743f08c6bf9]{
 -- Page 11, Offset 11165.
 -- ……山から下りた時から。
-　...... Depuis qu'il avait quitté la montagne,
+  ...... Depuis qu'il avait quitté la montagne,
 
 }
 [sha:14a67bf65fc181a552294102a4cac6a0d84b1ce8]{
 -- Page 11, Offset 11166.
 -- 彼の糸は断ち切れて、二度と戻ることはない。
-　son fil s'était rompu pour ne jamais s'y rattacher.
+  son fil s'était rompu pour ne jamais s'y rattacher.
 
 }
 [sha:729dab258634d5f96b8139d210a6251a99fcb5c5]{
 -- Page 12, Offset 11167.
 -- 糸の切れた<凧|たこ>は<惰性|だせい>で流れていくだけだ。
-　Un cerf-volant au fil coupé ne ferait qu'être emporté par le vent.
+  Un cerf-volant au fil coupé ne ferait qu'être emporté par le vent.
 
 }
 [sha:44f88066e4f95ad3d8db8232831a25b0a51abbd8]{
 -- Page 12, Offset 11168.
 -- その先には何もないと分かっていても、地に足がついていないのでどうにもならない。
-　Même s'il savait que rien ne l'attendait au bout de la route, incapable de revenir sur le sol, il ne pouvait rien y faire.
+  Même s'il savait que rien ne l'attendait au bout de la route, incapable de revenir sur le sol, il ne pouvait rien y faire.
 
 }
 [sha:ea071d1b5da959b03039e8d46f3ee187229aa931]{
 -- Page 12, Offset 11169.
 -- いずれ空にまぎれて、地上から見えなくなる。
-　Il finirait par être emporté au loin, invisible depuis la terre ferme.
+  Il finirait par être emporté au loin, invisible depuis la terre ferme.
 
 }
 [sha:2d2522e58016cdc70e0646f5c3bd47ab128ebabc]{
@@ -277,31 +277,31 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:558c42d49ad3efd6d8faff13ef7ef525cb2b6929]{
 -- Page 13, Offset 11171.
 -- 町を歩くだけで山ほどある筈なのに、どうしても見つけ出せない。
-　Il aurait dû en remarquer un grand nombre rien qu'en déambulant en ville, mais quoi qu'il fasse, il n'arrivait pas à en trouver.
+  Il aurait dû en remarquer un grand nombre rien qu'en déambulant en ville, mais quoi qu'il fasse, il n'arrivait pas à en trouver.
 
 }
 [sha:19ea70d06a16472a61aeb2b64070182d8ae9fa6c]{
 -- Page 14, Offset 11172.
 -- もう何度も繰り返した自問。
-　Il s'était déjà souvent posé la question.
+  Il s'était déjà souvent posé la question.
 
 }
 [sha:304acf3793866a5fea13060db93262126f5b26c1]{
 -- Page 14, Offset 11173.
 -- 自分に言い聞かせたところで気持ちは晴れるどころか、暗くなっていく一方だった。
-　Il avait beau se le répéter, ses sentiments ne faisaient que s'assombrir de plus en plus au lieu de s'éclaircir.
+  Il avait beau se le répéter, ses sentiments ne faisaient que s'assombrir de plus en plus au lieu de s'éclaircir.
 
 }
 [sha:e1d2b94aa278f9e614a2ed5f08ca4c047957452b]{
 -- Page 14, Offset 11174.
 -- それとも、あるいは。
-　À moins que,
+  À moins que,
 
 }
 [sha:8b3bd9227cb5dce15078ace18c1365aaad768c2d]{
 -- Page 14, Offset 11175.
 -- 己の半端さを嘆くほどには、いつか、希望らしきものが見つかると<縋|すが>っているのだろうか……？
-　à force de se lamenter sur son immaturité, il avait fini par se raccrocher au fait qu'il trouverait un jour un peu d'espoir.......?
+  à force de se lamenter sur son immaturité, il avait fini par se raccrocher au fait qu'il trouverait un jour un peu d'espoir.......?
 
 }
 [sha:92eb9c74ab9c6b3c1662b9deec0ee7db62edb52c]{
@@ -313,19 +313,19 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:65a462d96bbe893f477fccb75a2b96211103bf7d]{
 -- Page 15, Offset 11177.
 -- 自分の弱音に呆れて、草十郎はノートを閉じた。
-　Dégoûté par sa propre faiblesse, Sōjūrō ferma son cahier.
+  Dégoûté par sa propre faiblesse, Sōjūrō ferma son cahier.
 
 }
 [sha:88276d1f7f241365e275d0c777595860ce1e6e20]{
 -- Page 15, Offset 11178.
 -- ふと視線をあげると、ブラウン管に自分の顔が映っている。
-　Lorsqu'il leva le regard, il vit son reflet sur l'écran.
+  Lorsqu'il leva le regard, il vit son reflet sur l'écran.
 
 }
 [sha:563ac77f4faeb1e5afffbde90a367f71d7c20fee]{
 -- Page 15, Offset 11179.
 -- 昨日まではなかった首の飾りは、まだ居心地が悪そうに巻かれていた。
-　La parure à son cou, qu'il ne portait pas encore hier, l'enveloppait toujours avec inconfort.
+  La parure à son cou, qu'il ne portait pas encore hier, l'enveloppait toujours avec inconfort.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -337,7 +337,7 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:f2f971c8b9151e35b6e82b097e34febe69b2587d]{
 -- Page 16, Offset 11181.
 -- なるほど。他人の強さを見て自分の弱さを嘆く馬鹿者には、首輪の一つも着けていなくては危なっかしい。
-　Je vois. Un imbécile qui passe son temps à larmoyer sur lui-même devant la force des autres se doit de porter un collier, sinon il pourrait leur causer du tort.
+  Je vois. Un imbécile qui passe son temps à larmoyer sur lui-même devant la force des autres se doit de porter un collier, sinon il pourrait leur causer du tort.
 
 }
 [sha:7729f45044f9cbc3657f0ccef24fd53d1300f6f3]{
@@ -349,13 +349,13 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:b7f978159fdfe2774aa70028536c24d25d0ceb3e]{
 -- Page 17, Offset 11183.
 -- 弱音を振り払って、背中を伸ばす。
-　Il chassa ces pensées négatives et s'étira le dos.
+  Il chassa ces pensées négatives et s'étira le dos.
 
 }
 [sha:c351c1ff3accd8da5711b8d9da8c3c2f0efda5fb]{
 -- Page 17, Offset 11184.
 -- <鈍|にぶ>った体に活を入れて、草十郎は立ち上がった。
-　Sōjūrō rassembla son énergie dans son corps engourdi et se leva.
+  Sōjūrō rassembla son énergie dans son corps engourdi et se leva.
 
 }
 [sha:05f7e411df104b1519b93831c1d9a4e4f431a531]{
@@ -367,7 +367,7 @@ Aucune raison ne l'obligeait à rester ici, mais rien ne le poussait à retourne
 [sha:5053212691586e6578aebae91296ab601649e993]{
 -- Page 18, Offset 11186.
 -- ついでに。
-　Autant en profiter.
+  Autant en profiter.
 
 }
 [sha:86fb86e563391f7e8e39e1d4cd409e1e583577a9]{
@@ -379,13 +379,13 @@ Jusque-là, Sōjūrō s'était occupé seul, mais apparemment, Alice n'avait pas
 [sha:c1e9688baa0956528eb196ef68d7129579b50a45]{
 -- Page 19, Offset 11188.
 -- 名前を呼ばれて、有珠はハッとあたりを見渡した。
-　Son nom cité, Alice promena son regard aux alentours, décontenancée.
+  Son nom cité, Alice promena son regard aux alentours, décontenancée.
 
 }
 [sha:84f6e1520517d378a93e6084c2017b66d0b801bc]{
 -- Page 19, Offset 11189.
 -- 草十郎とは逆に、完全に草十郎を失念していたようだ。
-　Contrairement à Sōjūrō, elle avait complètement oublié sa présence.
+  Contrairement à Sōjūrō, elle avait complètement oublié sa présence.
 
 }
 [sha:674e8ceeb72e1de31c85253f69641c797a25b117]{
@@ -403,49 +403,49 @@ Jusque-là, Sōjūrō s'était occupé seul, mais apparemment, Alice n'avait pas
 [sha:cd79dc2fae3ef6a38bb3b26620b40c8df724a971]{
 -- Page 20, Offset 11192.
 -- 有珠の返事も待たず、草十郎はエプロンをしながら台所へと歩いていく。
-　Sans attendre la réponse d'Alice, Sōjūrō se dirigea vers la cuisine et mit un tablier.
+  Sans attendre la réponse d'Alice, Sōjūrō se dirigea vers la cuisine et mit un tablier.
 
 }
 [sha:fbd56507da8e68d55d9d0ff5339fa6b3445d6d5b]{
 -- Page 20, Offset 11193.
 -- それを有珠は手だけで呼び止めるが、草十郎はもう台所に移動していた。
-　Alice voulut l'arrêter d'un geste, mais Sōjūrō était déjà passé dans l'autre pièce.
+  Alice voulut l'arrêter d'un geste, mais Sōjūrō était déjà passé dans l'autre pièce.
 
 }
 [sha:339a2248aa4408f730f949a7015af4a0565b46cf]{
 -- Page 21, Offset 11194.
 -- ……わざわざ台所まで足を運び、自分の分はいらない、というのも<躊躇|ためら>われる。
-　...... Elle hésitait à se rendre expressément dans la cuisine pour lui annoncer qu'il n'avait pas besoin de préparer une part pour elle.
+  ...... Elle hésitait à se rendre expressément dans la cuisine pour lui annoncer qu'il n'avait pas besoin de préparer une part pour elle.
 
 }
 [sha:2f783226f5103d581f178d86f4b42b87b1f3c0ff]{
 -- Page 21, Offset 11195.
 -- というか、空腹なのは事実なのだ。
-　D'autant qu'elle avait effectivement le ventre vide.
+  D'autant qu'elle avait effectivement le ventre vide.
 
 }
 [sha:0825bd674c4b38dca553bd7e98e46900a325ff0c]{
 -- Page 21, Offset 11196.
 -- 草十郎の提案は、今の彼女の健康状態から見れば合理的である。
-　La suggestion de Sōjūrō était logique au vu de sa condition actuelle.
+  La suggestion de Sōjūrō était logique au vu de sa condition actuelle.
 
 }
 [sha:33321cba29dc2ec7a18b11f3e985e0c28d1435a4]{
 -- Page 22, Offset 11197.
 -- 有珠は空腹で、草十郎は昼食を作る。
-　Alice avait faim, et Sōjūrō préparait le déjeuner.
+  Alice avait faim, et Sōjūrō préparait le déjeuner.
 
 }
 [sha:e877e4fe44f08bcbbacc80a50a92b72235bfca5e]{
 -- Page 22, Offset 11198.
 -- 一緒に作るのなら、別々に昼食を用意する時間を短縮できる。
-　S'il en cuisinait pour deux, cela permettrait de réduire le temps de travail nécessaire pour le faire séparément.
+  S'il en cuisinait pour deux, cela permettrait de réduire le temps de travail nécessaire pour le faire séparément.
 
 }
 [sha:252170d03b47da246b9ec6dc95462bbfc4886aa4]{
 -- Page 22, Offset 11199.
 -- 感情論を除けば、有珠にはまったく反論の余地がない。
-　Si elle ignorait ses sentiments, Alice n'avait aucune objection.
+  Si elle ignorait ses sentiments, Alice n'avait aucune objection.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -457,7 +457,7 @@ Jusque-là, Sōjūrō s'était occupé seul, mais apparemment, Alice n'avait pas
 [sha:2b260398ae2c58a4bcc05661b0bfa0a51d368d6f]{
 -- Page 23, Offset 11201.
 -- 喉まで出た声を飲みこんで、有珠は草十郎を黙認する事にした。
-　Elle ravala les mots qui lui étaient montés à la gorge et décida d'approuver tacitement l'idée de Sōjūrō.
+  Elle ravala les mots qui lui étaient montés à la gorge et décida d'approuver tacitement l'idée de Sōjūrō.
 
 }
 [sha:399e2ba0b94f9e2f5cfa0ff66992e48f67b6c4e0]{
@@ -469,6 +469,6 @@ Jusque-là, Sōjūrō s'était occupé seul, mais apparemment, Alice n'avait pas
 [sha:7f7765445aabd4415ea4104694ec4e55a2706eea]{
 -- Page 23, Offset 11203.
 -- わずかに間をおいて、誰に聞かせるでもなく、控えめに呟きながら。
-　murmura-t-elle avec réserve après un certain temps, sans personne pour l'entendre.
+  murmura-t-elle avec réserve après un certain temps, sans personne pour l'entendre.
 
 }

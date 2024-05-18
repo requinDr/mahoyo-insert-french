@@ -1,43 +1,43 @@
 [sha:53b0ff40cf1106974e78137b8e1809dc4743c88a]{
 -- Page 0, Offset 1648.
 -- カメラは少しだけさかのぼる。
-　Nous revenons un peu dans le temps.
+  Nous revenons un peu dans le temps.
 
 }
 [sha:5f4ef9a5a7cd12075174f2545d38492102ba72ff]{
 -- Page 0, Offset 1649.
 -- 日付にすると１２月初めの、ちょっとした閑話休題。
-　Pour situer la date, c'était une petite parenthèse au début du mois de décembre.
+  Pour situer la date, c'était une petite parenthèse au début du mois de décembre.
 
 }
 [sha:e47f7193e62e5ae30c3dcc5268d2a508b6289a8e]{
 -- Page 1, Offset 1650.
 -- 三時限目の授業が終わり、帰りの<ＨＲ|ホームルーム>を残すだけの土曜の昼前。
-　Juste avant midi, un samedi après la fin du cours de la troisième période, quand il ne restait plus que la réunion de classe.
+  Juste avant midi, un samedi après la fin du cours de la troisième période, quand il ne restait plus que la réunion de classe.
 
 }
 [sha:efc122df8f738c210cd9fa347894af289cbf00ab]{
 -- Page 1, Offset 1651.
 -- ２－Ｃ組の生徒である<静希|しずき><草十郎|そうじゅうろう>と<木|き><乃|の><美|み><芳助|ほうすけ>は、担任の山城和樹がいっこうに現れない為、帰りたいのに帰れない、という宙づり状態でベランダから校庭など眺めていた。
-　Comme Yamashiro Izuki, le professeur principal de la classe 2-C dont faisaient partie Shizuki Sōjūrō et Kinomi Hōsuke, ne se décidait pas à venir, ces derniers observaient le campus depuis la véranda d'un air indécis, incapables de rentrer à l'intérieur.
+  Comme Yamashiro Izuki, le professeur principal de la classe 2-C dont faisaient partie Shizuki Sōjūrō et Kinomi Hōsuke, ne se décidait pas à venir, ces derniers observaient le campus depuis la véranda d'un air indécis, incapables de rentrer à l'intérieur.
 
 }
 [sha:8b190597026938b87d70fb337290fcca4212e278]{
 -- Page 2, Offset 1652.
 -- 他のクラスメイトたちは教室内で雑談中。
-　Leurs autres camarades étaient en pleine conversation dans la salle de classe.
+  Leurs autres camarades étaient en pleine conversation dans la salle de classe.
 
 }
 [sha:160c8782eb051548becebb17baf7f73dc6ae3093]{
 -- Page 2, Offset 1653.
 -- ふたりの隣には、暇つぶしで付き合っている<Ａ|よ><組|そ>のクラスの<槻司|つきじ><鳶丸|とびまる>の姿があった。
-　Avec eux se trouvait Tsukiji Tobimaru, élève de la classe A, qui leur tenait compagnie pour passer le temps.
+  Avec eux se trouvait Tsukiji Tobimaru, élève de la classe A, qui leur tenait compagnie pour passer le temps.
 
 }
 [sha:94ee9de034e3c7313e46753ba1c56400cb4b4a71]{
 -- Page 2, Offset 1654.
 -- 三人はやる気なさげにベランダの<欄干|らんかん>によりかかり、週末の予定などを話しあっている。
-　Le trio s'appuyait contre la rambarde de la véranda avec lassitude, et ils discutaient de banalités, comme leurs projets pour le week-end.
+  Le trio s'appuyait contre la rambarde de la véranda avec lassitude, et ils discutaient de banalités, comme leurs projets pour le week-end.
 
 }
 [sha:d5afb8c17fff0e9add4108e52b5efe01a2d7c2f2]{
@@ -55,7 +55,7 @@
 [sha:50387efb079d937b46e03a07f0b5b23c4a65560d]{
 -- Page 3, Offset 1657.
 -- 明日はほら、Ｂ組の子たちと遊びに行く……予定だったんだけどなー。なんかうちから出られねぇー」
-　Tu vois, demain, j'avais prévu de m'amuser avec les filles de la classe B...... Du moins, c'était dans mes plans. Mais on dirait que je ne pourrai pas sortir de chez moi.」
+  Tu vois, demain, j'avais prévu de m'amuser avec les filles de la classe B...... Du moins, c'était dans mes plans. Mais on dirait que je ne pourrai pas sortir de chez moi.」
 
 }
 [sha:f5c2212f11e351d42aaa80bd56e4dce916456252]{
@@ -85,13 +85,13 @@
 [sha:a4be767323ce2c06689f43b53b86e4697fb5e34e]{
 -- Page 5, Offset 1662.
 -- 気ぃつけろよ静希、<槻司|つきじ>はマジで腹黒いからよ。
-　Fais gaffe Shizuki, parce que Tsukiji est vraiment vicieux.
+  Fais gaffe Shizuki, parce que Tsukiji est vraiment vicieux.
 
 }
 [sha:f9b71acc9722b9871e4d36abe951deb7133e7500]{
 -- Page 5, Offset 1663.
 -- コイツの頭ん中は、ほら、アレ。ゴミ捨て場の貼り紙？　あんな感じだから。くっきり使えるモンと使えないモン分けてんだよ」
-　Dans sa tête, c'est... tu sais, comment ça s'appelle... Le tri des ordures ménagères ? Un truc dans ce genre-là. Il sépare ce qu'il peut clairement utiliser de ce qu'il ne peut pas.」
+  Dans sa tête, c'est... tu sais, comment ça s'appelle... Le tri des ordures ménagères ? Un truc dans ce genre-là. Il sépare ce qu'il peut clairement utiliser de ce qu'il ne peut pas.」
 
 }
 [sha:e436577a232152fcb2f736b0fde8a31afd3fff9f]{
@@ -103,7 +103,7 @@
 [sha:4874aad19fb8ee64c170c72a5746740229d3b806]{
 -- Page 6, Offset 1665.
 -- ―――ところで唐突に思ったんだが、鳶丸の中じゃ木乃美はどういう扱いなんだ？」
-　―――Au fait, je viens d'y penser, mais dans ta tête, comment est-ce que tu considères Kinomi, Tobimaru ?」
+  ―――Au fait, je viens d'y penser, mais dans ta tête, comment est-ce que tu considères Kinomi, Tobimaru ?」
 
 }
 [sha:f78b6d473e74e51dee12847c4f5826ee97c9261b]{
@@ -121,7 +121,7 @@
 [sha:008bc941f7ba9321f56f82159e0159c82a5c5f9c]{
 -- Page 7, Offset 1668. Glued. Mods: @x.
 -- オレみたいな開封・即使用、みたいな男がこれからのトレンドなワケでしょ？　ほら、コンビニで売ってる使い捨てカメラとか大人気だし？　ようやく流行がオレの消費文明に追いついたと、」
-　Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+  Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 
 }
 [sha:2fc03f824f431fca9a4c25b21b53afbba4767115]{
@@ -157,7 +157,7 @@ Et toi, Tobimaru ?」
 [sha:175887a7e1f855a3638fe88adbf96e5e27e67ca6]{
 -- Page 9, Offset 1674.
 -- あのよぅ、オレは妹の相手してやるだけなんだよぅ。隣のクソ中華飯店の手伝いなんかしねーよー」
-　Vous voyez, je serai avec ma petite sœur. Je n'irai pas aider le restaurant chinois merdique d'à côté !」
+  Vous voyez, je serai avec ma petite sœur. Je n'irai pas aider le restaurant chinois merdique d'à côté !」
 
 }
 [sha:ae86935d664d74ade4934d8a5206ca918178ba6c]{
@@ -181,7 +181,7 @@ Et toi, Tobimaru ?」
 [sha:a2da4f6b93c85e778acce99115097e9301491a0a]{
 -- Page 10, Offset 1678.
 -- タフだねぇ静希。あそこのバイトは柔道部の連中でも音を上げるって話じゃんか」
-　T'es un dur, Shizuki. On dit pourtant que même les gars du club de judo ont peur de ce travail.」
+  T'es un dur, Shizuki. On dit pourtant que même les gars du club de judo ont peur de ce travail.」
 
 }
 [sha:7fb55586b8b1b809867ae419b5c33d254dae3b62]{
@@ -199,7 +199,7 @@ Et toi, Tobimaru ?」
 [sha:8579131230be1ccdce009a6bde4cf661786a87c9]{
 -- Page 11, Offset 1681.
 -- しっかし山城のヤロウ遅ぇなあ。見ろ、となりのＢ組すらお帰りになられてるぞ」
-　Mais tout de même, ce Yamashiro est à la bourre ! Regardez, même la classe B d'à côté est prête pour rentrer.」
+  Mais tout de même, ce Yamashiro est à la bourre ! Regardez, même la classe B d'à côté est prête pour rentrer.」
 
 }
 [sha:7d15a5601292ef9f5021c72355635230e3d9436b]{
@@ -211,13 +211,13 @@ Et toi, Tobimaru ?」
 [sha:342e8181866560e8f92a84532da7ec9326cb1c9a]{
 -- Page 12, Offset 1683.
 -- 大儀そうにベランダの手すりから体を起こす槻司鳶丸と、
-　Tsukiji Tobimaru se leva de la rambarde de la véranda avec nonchalance,
+  Tsukiji Tobimaru se leva de la rambarde de la véranda avec nonchalance,
 
 }
 [sha:03662bc3b1da4941434603e8819e21ba550a9fa9]{
 -- Page 12, Offset 1684.
 -- 狙いすましたように、ピンポンパン、と鳴り響く校内放送。
-　et le haut-parleur de l'établissement rugit tel un camion de pompier comme s'il n'attendait que ce moment-là.
+  et le haut-parleur de l'établissement rugit tel un camion de pompier comme s'il n'attendait que ce moment-là.
 
 }
 [sha:ee425c4c115aeae21288a1f8508740515a564a39]{
@@ -229,13 +229,13 @@ Et toi, Tobimaru ?」
 [sha:93db71c700f1e81f0617047c2e7c64b562852e43]{
 -- Page 13, Offset 1686.
 -- 三人の間に気まずい沈黙。
-　Un silence embarrassant s'empara du trio.
+  Un silence embarrassant s'empara du trio.
 
 }
 [sha:3199f522473ccc202ff514cb7183982eec40a4e7]{
 -- Page 13, Offset 1687.
 -- 五秒ほどぼんやりしてから、草十郎はそれじゃあ、とふたりを残してベランダを後にした。
-　“Bon j'y vais”, dit Sōjūrō après être resté sans voix pendant environ cinq secondes, avant de laisser ses deux compères et de quitter la véranda.
+  “Bon j'y vais”, dit Sōjūrō après être resté sans voix pendant environ cinq secondes, avant de laisser ses deux compères et de quitter la véranda.
 
 }
 [sha:12199fd78d5c811c44b570163351de678357752f]{
@@ -247,7 +247,7 @@ Et toi, Tobimaru ?」
 [sha:962799f1db0060f2cd494b1ecaa35023e826f427]{
 -- Page 14, Offset 1689.
 -- 肩の力を抜きまくり、完全脱力人間になりながらぼやく木乃美。
-　Kinomi relâcha ses épaules tout en rouspétant, comme si on lui avait aspiré entièrement sa force vitale.
+  Kinomi relâcha ses épaules tout en rouspétant, comme si on lui avait aspiré entièrement sa force vitale.
 
 }
 [sha:77d38b8fbf0ef7a140a3541e6e1019329b8626c5]{
@@ -271,7 +271,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:6d97b808091996cfc6f042bbc73e578bc8650074]{
 -- Page 16, Offset 1693.
 -- んー、まあ、フツーの子じゃつまんないから、ハリウッドのプロデューサーとか、イギリスの歌姫とかー」
-　Hm, mais bon, une fille normale serait barbante, alors peut-être une productrice d'Hollywood, ou une grande chanteuse d'Angleterre...」
+  Hm, mais bon, une fille normale serait barbante, alors peut-être une productrice d'Hollywood, ou une grande chanteuse d'Angleterre...」
 
 }
 [sha:69fcc47e172ff7a517c9472b37b735cc6e3b063f]{
@@ -295,7 +295,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:40b1f8a73731dbf1689f2c26c1b453911696d27f]{
 -- Page 17, Offset 1697.
 -- 以上、放送室からお知らせしました』
-　Terminé. C'était une annonce depuis la salle d'émission.』
+  Terminé. C'était une annonce depuis la salle d'émission.』
 
 }
 [sha:adde1c36526065f87e18c45ff0a0a44b0ba682c4]{
@@ -313,13 +313,13 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:a32c1583873b7f2609ab8bfed2010e34f34b7e33]{
 -- Page 19, Offset 1700.
 -- ぼやきながらも教室に戻る悪友ふたり。
-　Les deux pires amis du monde retournèrent dans la salle tout en jacassant.
+  Les deux pires amis du monde retournèrent dans la salle tout en jacassant.
 
 }
 [sha:e6391032ba703810b8b30162a12077f3232ef797]{
 -- Page 19, Offset 1701.
 -- 職員室に呼び出された友人の心配は、これっぽっちもしていなかった。
-　Ils ne s'inquiétaient pas le moins du monde que leur ami ait été convoqué en salle des professeurs.
+  Ils ne s'inquiétaient pas le moins du monde que leur ami ait été convoqué en salle des professeurs.
 
 }
 [sha:6722825b473ddb0f1de415de14b3201b0ed42c16]{
@@ -331,7 +331,7 @@ En tant que garçon honnête, une belle fille récemment transférée me suffira
 [sha:6dca1723294d0cc704c74b3dc3f5e21252a63d32]{
 -- Page 20, Offset 1703.
 -- 学校公認の職場であるなら、社会経験の一環として推奨する、と校則にもありますが」
-　Si c'est dans un établissement approuvé par l'école, le règlement intérieur mentionne même que c'est recommandé en tant qu'expérience de la vie active.」
+  Si c'est dans un établissement approuvé par l'école, le règlement intérieur mentionne même que c'est recommandé en tant qu'expérience de la vie active.」
 
 }
 [sha:bbe1c8afa5311e6ba9c26fb1c0fb2ce6622c02b8]{
@@ -349,19 +349,19 @@ Et si jamais il travaillait dans un endroit qui ne rentre pas tout à fait dans 
 [sha:b96d2e320fc29258263f0bf9cbd04abee5adf97a]{
 -- Page 21, Offset 1706.
 -- <土曜日|ハンドン>の昼食を前に浮き足立つ職員室で、鬼の生徒会長となあなあ現国教師が危険な匂いをまき散らす。
-　Dans la salle des professeurs en pleine effervescence avant le repas du samedi, la Présidente Démoniaque du Conseil Étudiant et l'enseignant au service du gouvernement émettaient une aura menaçante.
+  Dans la salle des professeurs en pleine effervescence avant le repas du samedi, la Présidente Démoniaque du Conseil Étudiant et l'enseignant au service du gouvernement émettaient une aura menaçante.
 
 }
 [sha:44c386108e35f243dcb918639236957b23e0e685]{
 -- Page 21, Offset 1707.
 -- 他の教師陣はくわばらくわばら、と会議室にそそくさ移動。
-　Le groupe des autres professeurs se déplaça en hâte vers la salle de conférence, l'air de dire “Dieu nous garde !”.
+  Le groupe des autres professeurs se déplaça en hâte vers la salle de conférence, l'air de dire “Dieu nous garde !”.
 
 }
 [sha:93bbdc4867b9b6c59b68d7bd735fac0d7220aa19]{
 -- Page 21, Offset 1708.
 -- 山城教諭がおや？と気づいた時、職員室にいるのは彼と、生徒会長・蒼崎青子その人だけだった。
-　Lorsque le professeur Yamashiro le réalisa, il ne restait, dans la salle des professeurs, plus que lui-même et Aozaki Aoko, présidente du conseil étudiant.
+  Lorsque le professeur Yamashiro le réalisa, il ne restait, dans la salle des professeurs, plus que lui-même et Aozaki Aoko, présidente du conseil étudiant.
 
 }
 [sha:1e95387fe11586f6d472780519fb63bfc02badb1]{
@@ -379,7 +379,7 @@ Et si jamais il travaillait dans un endroit qui ne rentre pas tout à fait dans 
 [sha:c786ab11ba719c1b8d7ee740ad2798fef2d247b4]{
 -- Page 22, Offset 1711.
 -- 仮に彼が指定以外のアルバイトをしているとしたら、それは彼の要求に学校側が応えていないからではありませんか？」
-　En supposant qu'il ait un travail qui ne respecte pas les règles de l'école, ne serait-ce pas parce que l'école ne répond pas à sa demande ?」
+  En supposant qu'il ait un travail qui ne respecte pas les règles de l'école, ne serait-ce pas parce que l'école ne répond pas à sa demande ?」
 
 }
 [sha:1bba321184ab8eefa2775146a978b51993813724]{
@@ -391,49 +391,49 @@ Et si jamais il travaillait dans un endroit qui ne rentre pas tout à fait dans 
 [sha:47b629852fbd0afcef507c149961d199cf2983cd]{
 -- Page 23, Offset 1713.
 -- 指定外のアルバイトを疑うのなら、まず“働き先は一生徒につき一件だけ”という規則を改めてください」
-　Si vous le soupçonnez de travailler dans des lieux non recommandés par l'école, alors commencez par modifier le règlement qui stipule qu'un élève ne peut avoir qu'un seul emploi.」
+  Si vous le soupçonnez de travailler dans des lieux non recommandés par l'école, alors commencez par modifier le règlement qui stipule qu'un élève ne peut avoir qu'un seul emploi.」
 
 }
 [sha:862d9ac6e79efde278449db8da61fde9dae51f26]{
 -- Page 24, Offset 1714.
 -- 生徒会長の静かな語り口調に、これはどうあっても引いてくれないなあ、と山城教諭はうなだれる。
-　Dans ce cas, elle n'abandonnera pas quoi qu'il arrive, hein, pensa en se tenant la tête le professeur Yamashiro face au ton posé de la présidente.
+  Dans ce cas, elle n'abandonnera pas quoi qu'il arrive, hein, pensa en se tenant la tête le professeur Yamashiro face au ton posé de la présidente.
 
 }
 [sha:1feae2cdc1d40385850da522e07dcf915abe3d2b]{
 -- Page 25, Offset 1715.
 -- 事はもっと単純に済む筈だった。
-　La chose était censée se dérouler plus facilement.
+  La chose était censée se dérouler plus facilement.
 
 }
 [sha:616407abdff360dcd41c403a551a056b8be750e2]{
 -- Page 25, Offset 1716.
 -- 『複数のアルバイトをしている』と噂をたてられた生徒を呼び出して事情を<訊|たず>ね、これが真実なら注意・指導し、世は全て事も無し、と昼食に向かう予定だったのだ。
-Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait plusieurs emplois, lui demander ce qu'il en était, et si cela était avéré, l'avertir et le remettre dans le droit chemin. Puis, aller manger comme s'il ne s'était rien passé.
+  Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait plusieurs emplois, lui demander ce qu'il en était, et si cela était avéré, l'avertir et le remettre dans le droit chemin. Puis, aller manger comme s'il ne s'était rien passé.
 
 }
 [sha:cbccb0c0bb609423e1bbb353b2b273501d803727]{
 -- Page 25, Offset 1717.
 -- その話をたまたま職員室に来ていた生徒会長が聞きつけ、それはおかしい、と食いついてしまった。
-　La présidente du conseil étudiant, qui passait alors par hasard dans la salle des professeurs, avait entendu cette histoire et s'était immiscée dans la conversation en disant que c'était ridicule.
+  La présidente du conseil étudiant, qui passait alors par hasard dans la salle des professeurs, avait entendu cette histoire et s'était immiscée dans la conversation en disant que c'était ridicule.
 
 }
 [sha:f107901d72dad70574a5d6c78898350386f58f53]{
 -- Page 26, Offset 1718.
 -- 山城自身、生徒会長の意見はもっともだし、<件|くだん>の生徒の事情も理解している。
-　Yamashiro lui-même était d'accord avec la présidente, et il comprenait la situation de l'élève en question.
+  Yamashiro lui-même était d'accord avec la présidente, et il comprenait la situation de l'élève en question.
 
 }
 [sha:111490d343fef27b70ee5c3757f3687d2ee5e7a7]{
 -- Page 26, Offset 1719.
 -- 個人的には応援してやりたいのだが、彼も悲しい新米教師。
-　Personnellement, il voulait lui apporter son soutien, mais malheureusement, il n'était qu'un nouvel enseignant ici.
+  Personnellement, il voulait lui apporter son soutien, mais malheureusement, il n'était qu'un nouvel enseignant ici.
 
 }
 [sha:9b0f4c95e9a326c72c6e68a313792e8287661e0e]{
 -- Page 26, Offset 1720.
 -- 副教頭のご機嫌もうかがいたいし、薄給とはいえ職を失うのもよろしくない。
-　Il ne voulait pas froisser le vice-principal, et surtout, même si son salaire était modeste, ça ne l'arrangerait pas de perdre son emploi.
+  Il ne voulait pas froisser le vice-principal, et surtout, même si son salaire était modeste, ça ne l'arrangerait pas de perdre son emploi.
 
 }
 [sha:537682735714b22ab24c24326aaa0a9e71efa148]{
@@ -457,13 +457,13 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:b51692bc991068ceca70624eda779d21e118caea]{
 -- Page 28, Offset 1724.
 -- 生徒会長は鞄から一枚の書類を取り出した。
-　La présidente des élèves sortit un document de son sac.
+  La présidente des élèves sortit un document de son sac.
 
 }
 [sha:fa6765188bcf8b0aadcd2fbdc14b921910a51834]{
 -- Page 28, Offset 1725.
 -- 今朝の職員会議でも取り上げられた、全教員の頭痛の種の一つである。
-　C'était l'une des raisons qui rendaient tous les enseignants anxieux, adoptée lors de l'une des réunions du personnel du matin.
+  C'était l'une des raisons qui rendaient tous les enseignants anxieux, adoptée lors de l'une des réunions du personnel du matin.
 
 }
 [sha:1249161086c72b2d85cf0e0d626fa0a88e860a33]{
@@ -481,13 +481,13 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:f94580457b369e758c187059c52831b8437d7151]{
 -- Page 29, Offset 1728.
 -- 今月も希望者ゼロですね。敬虔なクリスチャンである副教頭先生は、さぞお気を悪くしているかと。
-　Ce mois-ci non plus, il n'y a eu aucun candidat, n'est-ce pas ? J'ai pensé que M. le vice-principal, qui est un pieux chrétien, devait certainement se sentir embarrassé.
+  Ce mois-ci non plus, il n'y a eu aucun candidat, n'est-ce pas ? J'ai pensé que M. le vice-principal, qui est un pieux chrétien, devait certainement se sentir embarrassé.
 
 }
 [sha:2141e2e308e293fcfa63d778020c17c50a73e327]{
 -- Page 29, Offset 1729.
 -- 我が校の生徒には信心が足りん、と、今朝も<嘆|なげ>かれていたとか？」
-　J'ai entendu dire que ce matin encore, il aurait déploré le manque de foi des élèves de son école ?」
+  J'ai entendu dire que ce matin encore, il aurait déploré le manque de foi des élèves de son école ?」
 
 }
 [sha:b43d03171c91fc9bb64a5d60cf2f8098fac74789]{
@@ -499,13 +499,13 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:ec88ee2472cd7763200f368599b0ef206e454d00]{
 -- Page 30, Offset 1731.
 -- 頭を掻く山城教諭だが、その目は楽しげに笑っている。
-　Le professeur Yamashiro se grattait la tête, mais ses yeux brillaient d'une lueur malicieuse.
+  Le professeur Yamashiro se grattait la tête, mais ses yeux brillaient d'une lueur malicieuse.
 
 }
 [sha:a6892537d340ace8493c9ffa0412810bb11b7947]{
 -- Page 30, Offset 1732.
 -- 生徒会長の狙いに合点がいったからだ。
-　Parce qu'il approuvait l'objectif de la présidente.
+  Parce qu'il approuvait l'objectif de la présidente.
 
 }
 [sha:18a20409180480ad1ffea0e81b73777e2424ea73]{
@@ -517,13 +517,13 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:d39b0cb64558ced6c1de40ef89a5e1604bde6271]{
 -- Page 31, Offset 1734.
 -- 教会への奉仕活動はボランティアだけど、きちんと謝礼がでる。あれもカタチの上では学校側が推奨する社会見学だからね。
-　La participation à l'activité de l'église est basée sur le volontariat, mais on reçoit quand même une rémunération. Parce que ça aussi, sur la forme, c'est une étude de la société recommandée par l'école.
+  La participation à l'activité de l'église est basée sur le volontariat, mais on reçoit quand même une rémunération. Parce que ça aussi, sur la forme, c'est une étude de la société recommandée par l'école.
 
 }
 [sha:ec4d453490bc69ad09681f1f74ac9e42b2c22d48]{
 -- Page 31, Offset 1735.
 -- 副教頭先生は参加者がでた事に喜び、加えて、」
-　M. le vice-principal serait heureux qu'il y ait enfin un volontaire, et en plus...」
+  M. le vice-principal serait heureux qu'il y ait enfin un volontaire, et en plus...」
 
 }
 [sha:3237d8a453861dea9b227839287168429c644169]{
@@ -535,25 +535,25 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:6aa0a4499b25d25963d16c56085f5d1279d750cf]{
 -- Page 32, Offset 1737.
 -- 前例にしては、いい落としどころだと思いますが」
-　En tant que jurisprudence, je pense que c'est un bon compromis.」
+  En tant que jurisprudence, je pense que c'est un bon compromis.」
 
 }
 [sha:d3c2c649f5ecc1bd41dfebd57c19c6d0504ec7e2]{
 -- Page 33, Offset 1738.
 -- まいった、と手をあげる山城教諭。
-　“Tu as gagné”, conclut le professeur Yamashiro en levant les mains.
+  “Tu as gagné”, conclut le professeur Yamashiro en levant les mains.
 
 }
 [sha:1349bca7cac73347ffbba110a036362e17ba2e7e]{
 -- Page 33, Offset 1739.
 -- 問題を告発しながらも、きちんと解決策を提案してくる生徒はそういない。
-　Il n'y avait que peu d'élèves qui ne se contentaient pas de se plaindre d'un problème et qui proposaient concrètement une solution.
+  Il n'y avait que peu d'élèves qui ne se contentaient pas de se plaindre d'un problème et qui proposaient concrètement une solution.
 
 }
 [sha:8bd6a3cb0d91550b8fb199aa21d0db9bea3079e8]{
 -- Page 33, Offset 1740.
 -- この女生徒が恐れられながらも頼られているのは、この姉御肌なところによるものだろう。
-　La raison pour laquelle on comptait sur cette étudiante tout en la craignant était sûrement son côté “grande sœur”.
+  La raison pour laquelle on comptait sur cette étudiante tout en la craignant était sûrement son côté “grande sœur”.
 
 }
 [sha:c7cdf0ac20913940c1181709f27e7ac25770bc97]{
@@ -571,7 +571,7 @@ Le plan était de convoquer l'élève dont une rumeur prétendait qu'il avait pl
 [sha:08506503881af811d40e6b8b3f381879c6c1435b]{
 -- Page 34, Offset 1743.
 -- それでは失礼します、と礼をして職員室を去る生徒会長。
-　“Maintenant, veuillez m'excuser”, salua la présidente des élèves en quittant la salle des professeurs.
+  “Maintenant, veuillez m'excuser”, salua la présidente des élèves en quittant la salle des professeurs.
 
 }
 [sha:0ae2e28b6a3a19a1766fc6a4a37c4fb8ff4046dd]{
@@ -595,13 +595,13 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:c8bd9c9ce286850376ac7f56816c86cf534f6a98]{
 -- Page 36, Offset 1747.
 -- 少女のクールな瞳が、きゅっと細くなる。
-　Les yeux froids de la jeune fille se plissèrent sèchement.
+  Les yeux froids de la jeune fille se plissèrent sèchement.
 
 }
 [sha:18b68e724c2a5fd3b356220398a9ede03075ccc5]{
 -- Page 36, Offset 1748.
 -- いま、心底理解できない台詞を聞いたんだけど、と山城教諭を睨みつける。
-　À l'instant, j'ai entendu une phrase que je n'ai pas du tout comprise, disait son regard fixant le professeur Yamashiro.
+  À l'instant, j'ai entendu une phrase que je n'ai pas du tout comprise, disait son regard fixant le professeur Yamashiro.
 
 }
 [sha:5fb133ed00baffc65c652ade25a3d6e0d2955c00]{
@@ -613,7 +613,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:876a4ff64508210c8e2bb6b2ae798cbb8ffa6bb4]{
 -- Page 37, Offset 1750.
 -- 蒼崎くんがフォローしてくれるなら僕も安心だしね」
-　Et puis, si tu lui apportes ton aide, ça me rassurera aussi.」
+  Et puis, si tu lui apportes ton aide, ça me rassurera aussi.」
 
 }
 [sha:df53bd3883c2325eb59c6d1c7c75fc1f394ec402]{
@@ -643,7 +643,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:9eff4fa04cab0fb7189319abf904a8433021a473]{
 -- Page 39, Offset 1755. Glued. Mods: @x.
 -- ああ、けど蒼崎くん、ずいぶん親身になってくれるんだね。なに、もしかしてああいうのがタイプ？　あ、放送室さん、ついでに生徒会長が心からお待ちしていますと付け足して―――」
-　Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
+  Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
 
 }
 [sha:dd749fc8f8f6448e32724f811de5a241104599f7]{
@@ -655,25 +655,25 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:1bebf840efff9f5d238bdaa576f86479522d451d]{
 -- Page 40, Offset 1757.
 -- 翌日、気持ちのいい日曜日。
-　Le lendemain, un dimanche agréable,
+  Le lendemain, un dimanche agréable,
 
 }
 [sha:ba02343736da5053cf5ae2f4e60790c276c29e87]{
 -- Page 40, Offset 1758.
 -- 草十郎は待ち合わせの時間より二時間早く目を覚ました。
-　Sōjūrō se réveilla deux heures en avance sur l'heure du rendez-vous.
+  Sōjūrō se réveilla deux heures en avance sur l'heure du rendez-vous.
 
 }
 [sha:82418309ee4328e3af7c538167cab5480bf986f5]{
 -- Page 41, Offset 1759.
 -- その後、気を落ち着けるためにジョギングがてらの散歩にでかけ、三十分で戻るつもりがあれこれ考えているうちに一時間近く経っている事に気づき、あわてて帰宅。
-　Après quoi, il sortit faire une promenade et par la même occasion un jogging pour se calmer. Puis, pendant qu'il réfléchissait à tout et à rien, il se rendit compte qu'il s'était écoulé près d'une heure alors qu'il comptait revenir en trente minutes. Il rentra donc chez lui sans attendre.
+  Après quoi, il sortit faire une promenade et par la même occasion un jogging pour se calmer. Puis, pendant qu'il réfléchissait à tout et à rien, il se rendit compte qu'il s'était écoulé près d'une heure alors qu'il comptait revenir en trente minutes. Il rentra donc chez lui sans attendre.
 
 }
 [sha:742329e84e83b7a520098c02db4a3b1851d1a90e]{
 -- Page 41, Offset 1760.
 -- 何を着ていくものか考え抜いたあげく、結局、学校の制服で臨むことにした。
-　Après avoir longuement réfléchi à ce qu'il devait porter, finalement, il décida de se présenter dans son uniforme du lycée.
+  Après avoir longuement réfléchi à ce qu'il devait porter, finalement, il décida de se présenter dans son uniforme du lycée.
 
 }
 [sha:6bbbf28990c5336ea30536142c1ae01550f87d55]{
@@ -685,13 +685,13 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:b8fd2615ed325ad42833826788478571c360c232]{
 -- Page 42, Offset 1762.
 -- 昨日の職員室。
-　Dans la salle des professeurs la veille,
+  Dans la salle des professeurs la veille,
 
 }
 [sha:29c0bee77e97d97dbf80a276d78a86598fd8b11d]{
 -- Page 42, Offset 1763.
 -- 風邪気味だったのか、蒼崎青子は頭痛を押し殺すような顔でそう言った。
-　tout en donnant l'impression de couver un rhume, Aozaki Aoko lui avait donné rendez-vous avec une tête faisant penser qu'elle souffrait d'une migraine.
+  tout en donnant l'impression de couver un rhume, Aozaki Aoko lui avait donné rendez-vous avec une tête faisant penser qu'elle souffrait d'une migraine.
 
 }
 [sha:f4507cd453d25c7720930801f2b0d4df6920f0f5]{
@@ -703,19 +703,19 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:6cad9b1f46873331c1f0a0b24fcc4dbb23df38ed]{
 -- Page 43, Offset 1765.
 -- 草十郎はあさっての方向を見ながら、あさってを向いた心配ごとを呟く。
-　Sōjūrō, qui avait mal compris la scène, formula à voix basse une inquiétude infondée.
+  Sōjūrō, qui avait mal compris la scène, formula à voix basse une inquiétude infondée.
 
 }
 [sha:84ede85513ab19f61291eb4462b144bb1e0957b9]{
 -- Page 43, Offset 1766.
 -- ともあれ、そうして待つこと約五分。
-　Quoi qu'il en soit, il attendit ainsi environ cinq minutes.
+  Quoi qu'il en soit, il attendit ainsi environ cinq minutes.
 
 }
 [sha:c4dd55c0518f97406d09423dad8900aa0b0af4bc]{
 -- Page 43, Offset 1767.
 -- 十時きっかりに生徒会長は登場した。
-　À dix heures précises, la présidente des élèves fit son entrée en scène.
+  À dix heures précises, la présidente des élèves fit son entrée en scène.
 
 }
 [sha:c59a4c28c1597674e0b58b3cd75d3c831046ce0b]{
@@ -727,7 +727,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:26abba4195604ca4f7ffaa1a4308a920c9e84113]{
 -- Page 44, Offset 1769.
 -- いつもの事だけど、時間だけはピッタリよね、貴方」
-　Comme d'habitude, tu es pile à l'heure.」
+  Comme d'habitude, tu es pile à l'heure.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -751,7 +751,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:51e2ec1f981d779c1a8645732fa1e781f7267072]{
 -- Page 45, Offset 1773.
 -- しんぱいごむよう、と軽く弁明する草十郎。
-　“Pas besoin de s'inquiéter”, se justifia vaguement Sōjūrō.
+  “Pas besoin de s'inquiéter”, se justifia vaguement Sōjūrō.
 
 }
 [sha:3d6f3086d574201a99e481cfcdbe3aeca44a44ab]{
@@ -775,49 +775,49 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:6856ab1d73a7b306498097b2d8c37faa32195975]{
 -- Page 46, Offset 1777.
 -- がっくりと肩に重みを感じる草十郎。
-　Déçu, Sōjūrō ressentit un poids sur ses épaules.
+  Déçu, Sōjūrō ressentit un poids sur ses épaules.
 
 }
 [sha:59017321d95a48621aaccfc3a172f90421784db6]{
 -- Page 46, Offset 1778.
 -- 朝から<益体|やくたい>もなく浮き足立っていた二時間は、こうして容赦なく台無しにされた。
-　L'excitation qu'il avait éprouvée inutilement au cours des deux heures depuis son réveil s'était évaporée instantanément.
+  L'excitation qu'il avait éprouvée inutilement au cours des deux heures depuis son réveil s'était évaporée instantanément.
 
 }
 [sha:c1c850f44998067edefc9dc43b9bd69924ef99fb]{
 -- Page 47, Offset 1779.
 -- 休日の駅前を、制服姿の男女が歩く。
-　Le garçon et la fille en uniforme passèrent devant la gare en ce jour de repos.
+  Le garçon et la fille en uniforme passèrent devant la gare en ce jour de repos.
 
 }
 [sha:3dd6a64b62edf3c1441297843e2e33026e720490]{
 -- Page 47, Offset 1780.
 -- はじめは丁寧に街の案内をしていた青子だが、今は必要最低限の説明だけにとどめている。
-　Au début, Aoko lui donnait aimablement diverses informations sur la ville, mais à présent, elle se contentait d'expliquer le strict minimum.
+  Au début, Aoko lui donnait aimablement diverses informations sur la ville, mais à présent, elle se contentait d'expliquer le strict minimum.
 
 }
 [sha:fe646054da7a803c46fce6b102e2865304c2f6d7]{
 -- Page 48, Offset 1781.
 -- 草十郎が思いのほか町に詳しくなっていた事もあるが、
-　C'était aussi lié au fait que Sōjūrō était devenu étonnamment familier avec la ville, mais surtout,
+  C'était aussi lié au fait que Sōjūrō était devenu étonnamment familier avec la ville, mais surtout,
 
 }
 [sha:d698f21784c743628c64235cc932933fd3531ff3]{
 -- Page 48, Offset 1782.
 -- やれここのゴハンがおいしいだの、
-　à force d'avoir ce genre de conversation : “je t'assure, la nourriture de cette enseigne est délicieuse”,
+  à force d'avoir ce genre de conversation : “je t'assure, la nourriture de cette enseigne est délicieuse”,
 
 }
 [sha:bc4e83836096facfea1a2884878b18bb4c59a886]{
 -- Page 48, Offset 1783.
 -- 急いでる時はこっちが近道だの、自転車を買うなら駅前デパートよりあっちの専門店のがいいだの、
-　ou “si jamais tu es pressé, il y a un raccourci par là”, ou bien “si tu dois acheter une bicyclette, alors ne va pas au supermarché devant la gare, cette boutique spécialisée est meilleure”,
+  ou “si jamais tu es pressé, il y a un raccourci par là”, ou bien “si tu dois acheter une bicyclette, alors ne va pas au supermarché devant la gare, cette boutique spécialisée est meilleure”,
 
 }
 [sha:a2e2498be5d809461691c6e779f6e44d379ba2fe]{
 -- Page 48, Offset 1784.
 -- そんな会話をしている時、ハタと冷静に、今の状況が第三者的にどう見えるかに気付いたからだ。
-　elle s'était rendu compte de la façon dont cette situation serait perçue par les passants.
+  elle s'était rendu compte de la façon dont cette situation serait perçue par les passants.
 
 }
 [sha:ff7c0eb2e7c4a36464ebb54648d751026136c072]{
@@ -829,13 +829,13 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:d55b4a0267c8ab82569a0ff500f9337ec8986b6e]{
 -- Page 50, Offset 1786.
 -- 教会の奉仕作業に参加すれば、今後、アルバイトの<掛|か>け<持|も>ちを大目にみてあげられる―――
-　Si tu participes au travail volontaire de l'église, on fera preuve d'indulgence pour tes emplois à partir de maintenant―――
+  Si tu participes au travail volontaire de l'église, on fera preuve d'indulgence pour tes emplois à partir de maintenant―――
 
 }
 [sha:41612f11e2996b8e3761c0fc142c3eb4a39d2552]{
 -- Page 50, Offset 1787.
 -- そんな甘い誘いにコクコクと頷いた草十郎だが、例によって例の如く、どんな作業なのか考えてもいないようだ。
-　Sōjūrō avait accepté l'alléchante proposition, mais comme à son habitude, il n'avait pas l'air de s'être demandé de quel genre de travail il s'agissait.
+  Sōjūrō avait accepté l'alléchante proposition, mais comme à son habitude, il n'avait pas l'air de s'être demandé de quel genre de travail il s'agissait.
 
 }
 [sha:7c21fe138c193e04f38d23d57b1d41d35d7e464e]{
@@ -847,7 +847,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:03d266bdfdc901457fe6093e61510d30d036b56a]{
 -- Page 51, Offset 1789.
 -- 貴方、<合田|あいだ>教会は初めて？」
-　C'est la première fois que tu viens à l'église d'Aida ?」
+  C'est la première fois que tu viens à l'église d'Aida ?」
 
 }
 [sha:84f40c9349f8d741f358b44720616be1526f10c6]{
@@ -859,13 +859,13 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:d09fd97b3b374a7a6ee97815a4b448be52a4c21b]{
 -- Page 52, Offset 1791.
 -- どういう仕組みなんだろう、と草十郎は真剣に考えこんでいる。
-　Je me demande quel est le système derrière tout ça, avait réfléchi sérieusement Sōjūrō.
+  Je me demande quel est le système derrière tout ça, avait réfléchi sérieusement Sōjūrō.
 
 }
 [sha:9514a89a50af0924a59a4ca51d8f1501651e2e5c]{
 -- Page 52, Offset 1792.
 -- うつむく仕草は哲学者のソレだが、しょせん、
-　Le geste de baisser la tête était en général l'apanage des philosophes, mais en fin de compte,
+  Le geste de baisser la tête était en général l'apanage des philosophes, mais en fin de compte,
 
 }
 [sha:6f0211f0f275f622d71027004515c4b35cfff2a4]{
@@ -877,7 +877,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:5e4db98aa271a5347f346e27e160bb202d458699]{
 -- Page 52, Offset 1794.
 -- 程度の悩みである。
-　c'était une problématique purement pécuniaire.
+  c'était une problématique purement pécuniaire.
 
 }
 [sha:25f89d035973c7c6f9b6cbcfa820a90e87dfc191]{
@@ -889,7 +889,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:de5f289bcc43ade6d0cf79e454c7af85701ae665]{
 -- Page 53, Offset 1796.
 -- よっぽど迷える子羊に見えたんだろう、とため息をつく青子。
-　Il devait vraiment ressembler à un agneau égaré, soupira Aoko.
+  Il devait vraiment ressembler à un agneau égaré, soupira Aoko.
 
 }
 [sha:093021a945db014248dffa354d2544f845660403]{
@@ -931,43 +931,43 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:f38a91f2c623c2c4c507b6d75182f26a6efe7f19]{
 -- Page 55, Offset 1803.
 -- 早足で教会に向かう青子。
-　Aoko se dirigea d'un pas rapide vers l'église.
+  Aoko se dirigea d'un pas rapide vers l'église.
 
 }
 [sha:732515d5fd18c4b21253fa9795bbbfcd4ea90610]{
 -- Page 55, Offset 1804.
 -- なんだか敵地に向かう鬼将軍のようだ、と草十郎は不安げに眉を曇らせた。
-　On dirait un général au cœur de lion qui se dirige vers le territoire ennemi, pensa Sōjūrō en fronçant les sourcils avec anxiété.
+  On dirait un général au cœur de lion qui se dirige vers le territoire ennemi, pensa Sōjūrō en fronçant les sourcils avec anxiété.
 
 }
 [sha:ae79050b1883690cb51b12fb2f24f5f3bf482f36]{
 -- Page 56, Offset 1805.
 -- 合田教会は古い歴史を持つ教会だ。
-　L'église d'Aida avait une vieille histoire.
+  L'église d'Aida avait une vieille histoire.
 
 }
 [sha:43b69f98388e743b9f0ff91f30a1fd079b97d42b]{
 -- Page 56, Offset 1806.
 -- 駅から離れた、オフィス街と住宅地の<狭間|はざま>に建てられた白い聖域。
-　C'était une terre sainte blanche construite loin de la gare, entre le quartier des affaires et le quartier résidentiel.
+  C'était une terre sainte blanche construite loin de la gare, entre le quartier des affaires et le quartier résidentiel.
 
 }
 [sha:c6f901aaa2e944d17398e5ef1759e587e042373e]{
 -- Page 56, Offset 1807.
 -- 青子の知るかぎり、たしか八年ほど前に今のカタチに改装された、こんな田舎町には十分すぎるほどの大教会である。
-　D'après ce qu'en savait Aoko, si elle se souvenait bien, elle avait été réaménagée de cette façon à peu près six ans auparavant. Elle était devenue une grande église bien trop imposante pour ce quartier d'Aida.
+  D'après ce qu'en savait Aoko, si elle se souvenait bien, elle avait été réaménagée de cette façon à peu près six ans auparavant. Elle était devenue une grande église bien trop imposante pour ce quartier d'Aida.
 
 }
 [sha:23d18b3a3f22629a73206b6493e209b392357ff1]{
 -- Page 57, Offset 1808.
 -- ちなみに横にあるのは三咲市一の総合病院。
-　Soit dit en passant, le bâtiment voisin était l'hôpital général de la ville de Misaki.
+  Soit dit en passant, le bâtiment voisin était l'hôpital général de la ville de Misaki.
 
 }
 [sha:3f44ce2950b5e6bccbf92b407a704015ab45a4da]{
 -- Page 57, Offset 1809.
 -- 青子からすれば、町で一番多くの命が失われる場所の隣にちゃっかり居を構える時点で信用ならない―――のだが、その所感を知るのは同居人である久遠寺有珠と、教会の神父だけに留まっている。
-　Pour Aoko, puisque l'église avait été érigée sournoisement à côté de l'endroit où disparaissaient le plus grand nombre de vies dans cette ville, on ne pouvait pas se fier à elle―――mais les personnes au courant de son opinion se limitaient à Kuonji Alice, sa colocataire, et le prêtre de l'église.
+  Pour Aoko, puisque l'église avait été érigée sournoisement à côté de l'endroit où disparaissaient le plus grand nombre de vies dans cette ville, on ne pouvait pas se fier à elle―――mais les personnes au courant de son opinion se limitaient à Kuonji Alice, sa colocataire, et le prêtre de l'église.
 
 }
 [sha:c4e57d1faa5d8605d01e3f0810ae0d208a4341de]{
@@ -985,25 +985,25 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:dd1a7579093fef338dad037cb3b6c0a314f642ed]{
 -- Page 58, Offset 1812.
 -- ここの手伝いなんて、忌々しいコトに小学生の頃は毎日してたもんだけど―――」
-　Ça me mettait en rogne, mais je devais venir ici tous les jours pour aider, lorsque j'étais au collège―――」
+  Ça me mettait en rogne, mais je devais venir ici tous les jours pour aider, lorsque j'étais au collège―――」
 
 }
 [sha:f0272cbbff3107f1d56cebb6777eb04dc68cb91f]{
 -- Page 59, Offset 1813.
 -- 話せば話すほど、青子の表情は凶悪になっていく。
-　Plus elle parlait, plus l'expression d'Aoko devenait féroce.
+  Plus elle parlait, plus l'expression d'Aoko devenait féroce.
 
 }
 [sha:f39ec253020c6826382dedd21a7c8cf07d50a1d9]{
 -- Page 59, Offset 1814.
 -- 忘れがたいトラウマと向き合い、胸ぐらを掴み、豪快に一本背負いをかまして脳天を地面にたたきつけたあと、無防備な胴体にローキックを食らわせる―――
-　Faire face à l'un des souvenirs douloureux qu'elle avait du mal à oublier, agripper son col, le jeter par-dessus son épaule avec une splendide prise de judo, et après lui avoir cogné le sommet du crâne contre le sol, faire manger un high-kick à son torse sans défense―――
+  Faire face à l'un des souvenirs douloureux qu'elle avait du mal à oublier, agripper son col, le jeter par-dessus son épaule avec une splendide prise de judo, et après lui avoir cogné le sommet du crâne contre le sol, faire manger un high-kick à son torse sans défense―――
 
 }
 [sha:049c5ed18872a17aae77b45d699fc6a44eebaff7]{
 -- Page 59, Offset 1815.
 -- トラウマとやらが擬人化していれば、その程度の報復行為を軽く五セットはこなしそうな、それはそれは凄まじい気炎をあげるのだった。
-　Elle montrait une aversion vraiment prodigieuse envers ce souvenir-là, et s'il était personnifié, elle l'anéantirait avec un déferlement de violence de ce genre-là, en cinq manches à peine.
+  Elle montrait une aversion vraiment prodigieuse envers ce souvenir-là, et s'il était personnifié, elle l'anéantirait avec un déferlement de violence de ce genre-là, en cinq manches à peine.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1016,19 +1016,19 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:b210db2e392604392d05391877f3f0f598421fe6]{
 -- Page 60, Offset 1817.
 -- そんな青子の不機嫌っぷりに、草十郎が我が身の危険を感じだした頃。
-　Lorsque Sōjūrō commença à se sentir en danger devant la mauvaise humeur d'Aoko,
+  Lorsque Sōjūrō commença à se sentir en danger devant la mauvaise humeur d'Aoko,
 
 }
 [sha:f25cdb7d976b924c7f3ba0639061c056814b24bf]{
 -- Page 60, Offset 1818. Mods: @n.
 -- 教会の上空にバサバサ集まりだしたカラスに惹かれたのか、
-　peut-être attirée par le rassemblement de corbeaux qui croassaient au-dessus de l'église,
+  peut-être attirée par le rassemblement de corbeaux qui croassaient au-dessus de l'église,
 
 }
 [sha:7c08d8d11432e0b8bca3ccef63d20792f57a1898]{
 -- Page 60, Offset 1819. Glued.
 -- 正面玄関から<修道女|シスター>服の女性が姿を見せた。
-une femme en habits de nonne se montra depuis la porte d'entrée.
+ une femme en habits de nonne se montra depuis la porte d'entrée.
 
 }
 [sha:579d4f19d356a35ee5ccc7a97d3500ec481b0873]{
@@ -1040,7 +1040,7 @@ une femme en habits de nonne se montra depuis la porte d'entrée.
 [sha:2cc794addb7abbe5223ac5d441ee066f61d5d1f9]{
 -- Page 61, Offset 1821.
 -- 当教会は暴力団関係の方はご遠慮いただいておりますので、日を<改|あらた>める、<或|ある>いは生き方を<悔|く>い改めた後、社会的な罪を<償|つぐな>ってから門をくぐって頂きたいのですが―――」
-　Cette église se refuse à avoir des relations avec une bande de voyous, alors je vous prierais de venir un autre jour, mais uniquement après vous être repentis de votre style de vie et avoir expié vos péchés envers la société. Alors seulement, vous pourrez passer la porte et je vous recevrai, mais―――」
+  Cette église se refuse à avoir des relations avec une bande de voyous, alors je vous prierais de venir un autre jour, mais uniquement après vous être repentis de votre style de vie et avoir expié vos péchés envers la société. Alors seulement, vous pourrez passer la porte et je vous recevrai, mais―――」
 
 }
 [sha:c609dd9856bcea68dbada3b7f667045f0bc6317d]{
@@ -1058,7 +1058,7 @@ une femme en habits de nonne se montra depuis la porte d'entrée.
 [sha:3d660d55b2d97c7b3cf27d53f3a6553b494d7912]{
 -- Page 62, Offset 1824.
 -- 驚きました。昼間のうちに貴女が来るのは久しぶりです」
-　Tu m'as surprise. Cela faisait longtemps que tu n'étais pas venue en journée.」
+  Tu m'as surprise. Cela faisait longtemps que tu n'étais pas venue en journée.」
 
 }
 [sha:5567fee505774163f1ec33f1ae693a7ffc236565]{
@@ -1070,7 +1070,7 @@ une femme en habits de nonne se montra depuis la porte d'entrée.
 [sha:2a8ce923cb730cef023e51f92fdd4b999c934d23]{
 -- Page 62, Offset 1826.
 -- まあ。意外ですね、一年近く<ま|・><と|・><も|・>にお話をしていません。
-　Enfin bref. C'est inhabituel, ça fait près d'un an que nous n'avons pas eu une discussion digne de ce nom.
+  Enfin bref. C'est inhabituel, ça fait près d'un an que nous n'avons pas eu une discussion digne de ce nom.
 
 }
 [sha:a6fbbac75e16bdde7170dbb2fbd76a186b2891c4]{
@@ -1088,13 +1088,13 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:e6587d0157e0879b75cb22ec65cf7e475d49d98d]{
 -- Page 63, Offset 1829.
 -- 表向き、和気あいあいと挨拶を交わすふたり。
-　Les deux jeunes femmes s'échangeaient des salutations en apparence pacifiques.
+  Les deux jeunes femmes s'échangeaient des salutations en apparence pacifiques.
 
 }
 [sha:cb9231a78b95bb7fc7cf08f5b15c090166d2e781]{
 -- Page 63, Offset 1830.
 -- そのピリピリした空気をまったく読めず、仲がいいなあ、と見守る草十郎。
-　Elles s'entendent bien, hein, pensa Sōjūrō qui les observait attentivement sans se rendre compte de l'animosité qui flottait dans l'air.
+  Elles s'entendent bien, hein, pensa Sōjūrō qui les observait attentivement sans se rendre compte de l'animosité qui flottait dans l'air.
 
 }
 [sha:d63729301b3ecc980a2bbdc2cad84ab211bc4eee]{
@@ -1106,7 +1106,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:27d8b6ab60d9bcf1677a0d6c48912c3a3c9d3805]{
 -- Page 64, Offset 1832.
 -- 親愛なる合田教会のためですから。十時から三時まで、一分の狂いもなく、きっかり働かせていただきますわ」
-　C'est pour notre église d'Aida bien-aimée. C'est pourquoi nous allons travailler d'arrache-pied de dix heures jusqu'à trois heures sans une seule minute de distraction.」
+  C'est pour notre église d'Aida bien-aimée. C'est pourquoi nous allons travailler d'arrache-pied de dix heures jusqu'à trois heures sans une seule minute de distraction.」
 
 }
 [sha:5ca4316e78a6ce786aab828eb22508209348123e]{
@@ -1118,31 +1118,31 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:46be73221144bc61865408e2cd8a422de9544ceb]{
 -- Page 64, Offset 1834.
 -- 神の家は万人に等しく開くもの。この際、貴女の内面は見なかった事にしておきましょう」
-　La demeure de Dieu est un lieu ouvert à tous sans discrimination. À cette occasion, je vais faire comme si je n'avais pas vu tes pensées.」
+  La demeure de Dieu est un lieu ouvert à tous sans discrimination. À cette occasion, je vais faire comme si je n'avais pas vu tes pensées.」
 
 }
 [sha:d9471a5a88a79c3cc5e7579d2fa63a7482836401]{
 -- Page 65, Offset 1835.
 -- 上品に、しかし酷薄に微笑むシスター。
-　La sœur sourit élégamment mais avec un air machiavélique.
+  La sœur sourit élégamment mais avec un air machiavélique.
 
 }
 [sha:26b2d4ae40af6797f48aea662d10860d112fa216]{
 -- Page 65, Offset 1836.
 -- 表向きはどうあれ、労働力が手に入ったのは喜ばしい事らしい。
-　Quelles que soient les personnes en question, c'était toujours une bonne chose que de mettre la main sur de la main-d'œuvre.
+  Quelles que soient les personnes en question, c'était toujours une bonne chose que de mettre la main sur de la main-d'œuvre.
 
 }
 [sha:1e895f4b65f2271b66661db9cfb5596fe8d8ccdb]{
 -- Page 66, Offset 1837.
 -- シスターは<周|す><瀬|せ><唯架|ゆいか>と名乗り、自ら奉仕活動を希望した草十郎に礼を述べた。
-　La sœur se présenta en tant que Suse Yuika, et remercia Sōjūrō pour s'être porté volontaire au bénévolat.
+  La sœur se présenta en tant que Suse Yuika, et remercia Sōjūrō pour s'être porté volontaire au bénévolat.
 
 }
 [sha:80e828e8b8437e54cb05e0e71baf1f77e6c02488]{
 -- Page 66, Offset 1838.
 -- 彼女の閉じた目に気づいていた草十郎だったが、青子の手前もあるし、なにより失礼な事かもしれない、と質問は遠慮した。
-　Sōjūrō avait remarqué ses yeux fermés, mais comme il était en présence d'Aoko, il évita de poser des questions, et c'était aussi peut-être impoli.
+  Sōjūrō avait remarqué ses yeux fermés, mais comme il était en présence d'Aoko, il évita de poser des questions, et c'était aussi peut-être impoli.
 
 }
 [sha:5d32c240f5e65a12606a3dbea3efb317ca73f66c]{
@@ -1154,7 +1154,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:6c6075d45db0108f9ede9b41ae73f4562037830f]{
 -- Page 67, Offset 1840.
 -- 声のイメージ通り、落ち着いたお名前です」
-　C'est un nom calme, comme le timbre de votre voix.」
+  C'est un nom calme, comme le timbre de votre voix.」
 
 }
 [sha:8a9b1795c84902a053adf1e4abeda34fd8ef7be3]{
@@ -1166,7 +1166,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:d4b649b2eaa30581943253cd686f9104bc135c5e]{
 -- Page 67, Offset 1842.
 -- 名前を誉められてもいまいち実感の湧かない草十郎に、シスターはわずかに顔を曇らせる。
-　Face à Sōjūrō qui ne donnait pas vraiment l'impression qu'on complimentait son nom, la sœur fronça légèrement les sourcils.
+  Face à Sōjūrō qui ne donnait pas vraiment l'impression qu'on complimentait son nom, la sœur fronça légèrement les sourcils.
 
 }
 [sha:3e6ed00f219066ce641fa2efde7f6978fe2e4eea]{
@@ -1178,7 +1178,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:df7ad860e43f84e40d329359bad35eb55d08280d]{
 -- Page 68, Offset 1844.
 -- 草十郎さん、でよろしいですか？」
-　Est-ce que vous préférez que je vous appelle Sōjūrō ?」
+  Est-ce que vous préférez que je vous appelle Sōjūrō ?」
 
 }
 [sha:7b85e33c0f205b1d09d5d90f3c38ce7d409699eb]{
@@ -1196,13 +1196,13 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:bc3bf866ad85d96bbcb7b0c0b7881055d935d8ae]{
 -- Page 69, Offset 1847.
 -- 口調こそ穏やかだが、シスターの言葉はどこか冷淡だ。
-　Son ton était doux, mais les mots de la sœur étaient plutôt glacials.
+  Son ton était doux, mais les mots de la sœur étaient plutôt glacials.
 
 }
 [sha:49ccb64040de741c2c6c57e83e1e2c9a6730f2ab]{
 -- Page 69, Offset 1848.
 -- 視界を閉ざしている彼女だが、確かな足取りで青子たちを先導する。
-　Ses yeux avaient beau être fermés, elle conduisait Aoko et Sōjūrō d'une démarche assurée.
+  Ses yeux avaient beau être fermés, elle conduisait Aoko et Sōjūrō d'une démarche assurée.
 
 }
 [sha:6fa482818568d88d3b69a0b5f3d3410d09db5798]{
@@ -1220,13 +1220,13 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:b94b53997c131231c76cef886013952a0d2b2542]{
 -- Page 70, Offset 1851.
 -- 問題ありません、そういうの得意ですから」
-　Pas de problème. On est doués pour ce genre de chose.」
+  Pas de problème. On est doués pour ce genre de chose.」
 
 }
 [sha:cc53fee2d1c5cd9d43b1e450bc47bdd9ffa4434b]{
 -- Page 70, Offset 1852.
 -- 青子ではなく、おもに連れの草十郎がであるが。
-　Même si c'était plutôt Sōjūrō qui était doué en la matière et non pas Aoko.
+  Même si c'était plutôt Sōjūrō qui était doué en la matière et non pas Aoko.
 
 }
 [sha:7a8058f91e75af8120a420f4d09dafab224a17fb]{
@@ -1238,7 +1238,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 [sha:24d9c5a537710c8e2b7bd8c8bea9bf85a9ceee49]{
 -- Page 71, Offset 1854. Mods: @k, @e.
 -- 静希さんは外に。
-　Et M. Shizuki à l'extérieur.
+  Et M. Shizuki à l'extérieur.
 
 }
 [sha:2fecbde2773f42454de282e95b49000ce5677a91]{
@@ -1262,13 +1262,13 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:86dc1e46d86a35b06ec63e4a6db446f06dd3da35]{
 -- Page 72, Offset 1858.
 -- はいはい、と手を振って、青子は礼拝堂奥のドアに向かっていった。
-　“Oui, oui”, dit Aoko en agitant la main avant de se diriger vers la porte au fond de la chapelle.
+  “Oui, oui”, dit Aoko en agitant la main avant de se diriger vers la porte au fond de la chapelle.
 
 }
 [sha:9fd213b3b8a574a4ed097783dab46523a8d2d3b7]{
 -- Page 72, Offset 1859.
 -- 公言通り、この教会には慣れきっているようだ。
-　Comme elle l'avait déclaré, elle semblait être familière avec cette église.
+  Comme elle l'avait déclaré, elle semblait être familière avec cette église.
 
 }
 [sha:fd04145b5f42ea07b32b22d3d511ece3680e6e51]{
@@ -1280,13 +1280,13 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:6db345ae073dcdfe9710bab9709e50cdd80d1d59]{
 -- Page 73, Offset 1861.
 -- まずは物置から、清掃道具を運んでいただきます」
-　D'abord, vous transporterez les instruments de nettoyage depuis le débarras.」
+  D'abord, vous transporterez les instruments de nettoyage depuis le débarras.」
 
 }
 [sha:efd5079897902fcd012231bd415c39e80b310cb5]{
 -- Page 74, Offset 1862.
 -- 草十郎に託された仕事は、これといって特殊な技術を必要としない、いたって普通の窓拭きだった。
-　Le travail dont était chargé Sōjūrō ne requérait pas de compétences spéciales. C'était un simple nettoyage de vitres.
+  Le travail dont était chargé Sōjūrō ne requérait pas de compétences spéciales. C'était un simple nettoyage de vitres.
 
 }
 [sha:614d9cdbf7889b519ee396233f06e9a4f4a254ba]{
@@ -1316,67 +1316,67 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:aa04ed395e0de2463fa49f5a456bd20a68d6565e]{
 -- Page 76, Offset 1867.
 -- そんな簡潔なやりとりをして、シスターは教会に戻ってしまった。
-　La sœur conclut ce bref échange et retourna dans l'église.
+  La sœur conclut ce bref échange et retourna dans l'église.
 
 }
 [sha:8624356a51f8d832794383ef7c2b7b700f40320d]{
 -- Page 76, Offset 1868.
 -- よほど草十郎を信頼しているのか、もともとドライな性格なのか。
-　Soit elle faisait vraiment confiance à Sōjūrō, soit elle avait un caractère sec par nature.
+  Soit elle faisait vraiment confiance à Sōjūrō, soit elle avait un caractère sec par nature.
 
 }
 [sha:cfccf9f91a7c97e81704443c1e867db795b93ed1]{
 -- Page 76, Offset 1869.
 -- 初対面で判断がつく筈もなし、そもそも草十郎にそんな詮索ができる筈もなし。
-　Il ne pouvait pas en juger d'après leur première rencontre, et de toute manière, Sōjūrō était incapable de faire ce genre de jugement.
+  Il ne pouvait pas en juger d'après leur première rencontre, et de toute manière, Sōjūrō était incapable de faire ce genre de jugement.
 
 }
 [sha:d6613b281408e036f1b67418db2b8ffd5e00f1f5]{
 -- Page 76, Offset 1870.
 -- ぽつんと独り放置されても腐ることなく、草十郎は窓拭きを開始した。
-　Laissé seul sans pour autant se sentir découragé, Sōjūrō commença le nettoyage des fenêtres.
+  Laissé seul sans pour autant se sentir découragé, Sōjūrō commença le nettoyage des fenêtres.
 
 }
 [sha:d1e597083cbe0e98babebd19c45500fbfa814e85]{
 -- Page 77, Offset 1871.
 -- 今日も天候は思わしくない。
-　Aujourd'hui aussi, l'état du ciel n'était pas rassurant.
+  Aujourd'hui aussi, l'état du ciel n'était pas rassurant.
 
 }
 [sha:bbfe6992ce9cee3f056773ad3311e520a69be884]{
 -- Page 77, Offset 1872.
 -- 雨が降る程ではないが太陽も見えないハンパな天気だ。
-　C'était un temps mitigé : il ne pleuvait pas mais le soleil restait caché derrière les nuages.
+  C'était un temps mitigé : il ne pleuvait pas mais le soleil restait caché derrière les nuages.
 
 }
 [sha:53526499660f331fee18639e0df55e4fc8a74b9b]{
 -- Page 77, Offset 1873.
 -- 高いハシゴに腰をかけて、高さにして五メートル近い窓をのどかに掃除する。
-　Assis sur la grande échelle, Sōjūrō nettoyait sereinement les fenêtres à une hauteur proche de cinq mètres.
+  Assis sur la grande échelle, Sōjūrō nettoyait sereinement les fenêtres à une hauteur proche de cinq mètres.
 
 }
 [sha:f34236c2c74446657dcee7edfaa0c4dfbdd629ff]{
 -- Page 77, Offset 1874.
 -- 草十郎は肉体労働が苦にならない人柄なので、これで空が真っ青であったら、それだけで素晴らしい休日になったかもしれない。
-　Il n'était pas du genre à rechigner face au travail manuel, et si en plus, le ciel avait été bleu, cela aurait peut-être suffi à faire de cette journée un magnifique jour de repos.
+  Il n'était pas du genre à rechigner face au travail manuel, et si en plus, le ciel avait été bleu, cela aurait peut-être suffi à faire de cette journée un magnifique jour de repos.
 
 }
 [sha:c417c56940edcf472e5e85260b52bde21e8b78d6]{
 -- Page 78, Offset 1875.
 -- 三枚目、四枚目、と仕上げていくうちに気が<緩|ゆる>み、口笛など吹きつつ窓を拭く。
-　Après avoir terminé les troisième et quatrième fenêtres, il se détendit et essuya les suivantes tout en sifflotant.
+  Après avoir terminé les troisième et quatrième fenêtres, il se détendit et essuya les suivantes tout en sifflotant.
 
 }
 [sha:a65703a0dc9f4374e8b9b9a0c671a7aeec141841]{
 -- Page 78, Offset 1876.
 -- 五メートル近い高さは怖くはあるが、同時に絶景でもあった。
-　La hauteur proche de cinq mètres avait de quoi effrayer, mais en contrepartie, elle offrait une belle vue.
+  La hauteur proche de cinq mètres avait de quoi effrayer, mais en contrepartie, elle offrait une belle vue.
 
 }
 [sha:ffc7bb80c937ab05fc5e95ddbd57e0c79aa060b2]{
 -- Page 78, Offset 1877.
 -- ふと町の方に目を向ければ、引っ越してきてからずっと気になっていた、緑の丘が見てとれる。
-　En tournant ses yeux par hasard vers la ville, il pouvait voir la colline verte qui le préoccupait depuis qu'il avait déménagé.
+  En tournant ses yeux par hasard vers la ville, il pouvait voir la colline verte qui le préoccupait depuis qu'il avait déménagé.
 
 }
 [sha:b180185a74e64bbe965177549e92585ea8d7fb43]{
@@ -1388,13 +1388,13 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:5472262eb9031ce7899db5de223938c60953abc8]{
 -- Page 79, Offset 1879.
 -- 三咲町のはずれにある丘と森。
-　La colline et la forêt présentes à la périphérie du vieux quartier de Misaki.
+  La colline et la forêt présentes à la périphérie du vieux quartier de Misaki.
 
 }
 [sha:2265aaa1933afb95b33117b80de01f65fadd143b]{
 -- Page 79, Offset 1880.
 -- 眠らない町を見下ろす森は、ここから見ると異国の城塞のようだ。
-　La forêt dominant la ville insomniaque, vue d'ici, ressemblait à la forteresse d'un pays étranger.
+  La forêt dominant la ville insomniaque, vue d'ici, ressemblait à la forteresse d'un pays étranger.
 
 }
 [sha:612104c687681f15550efdbbb410c092bfb9b0dc]{
@@ -1412,19 +1412,19 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
 -- Page 81, Offset 1883.
 -- ―――と。
-　―――Puis,
+  ―――Puis,
 
 }
 [sha:a987084a3c991f5dab347a456db20074d5cb72df]{
 -- Page 81, Offset 1884.
 -- 物思いにふけりながらもセッセと腕を動かしていた草十郎の眼下で、トコトコと人の気配。
-　alors qu'il agitait avec assiduité son bras tout en laissant libre cours à ses rêveries, il sentit sous lui une vive présence humaine.
+  alors qu'il agitait avec assiduité son bras tout en laissant libre cours à ses rêveries, il sentit sous lui une vive présence humaine.
 
 }
 [sha:805c0c8088054b354eb476117bf3e560e879e711]{
 -- Page 81, Offset 1885.
 -- 視線を下げると、そこには一見して人の良さそうな、それでいてだらしなさそうな、女性の姿があった。
-　En baissant son regard, il vit une femme à première vue bienveillante et totalement détendue.
+  En baissant son regard, il vit une femme à première vue bienveillante et totalement détendue.
 
 }
 [sha:a5fe53a07d6adebf0a45146d6b0101f291b0ab7d]{
@@ -1436,31 +1436,31 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:daef753318400bdaea04a1e3403feb2a3e6c02df]{
 -- Page 82, Offset 1887.
 -- うわあ……わたし、あのヒゲ苦手なのよねぇ……だってどう見ても不法侵入者じゃない、あの人？」
-　Ouah...... Je suis mal à l'aise avec ce barbu...... Parce que si on y réfléchit bien, ce type est avant tout un intrus, non ?」
+  Ouah...... Je suis mal à l'aise avec ce barbu...... Parce que si on y réfléchit bien, ce type est avant tout un intrus, non ?」
 
 }
 [sha:73b76a285e0cb18956a3235f2f0bb048837d1b37]{
 -- Page 83, Offset 1888.
 -- 年齢は二十代後半、だろうか。
-　Elle devait être dans la deuxième moitié de la vingtaine.
+  Elle devait être dans la deuxième moitié de la vingtaine.
 
 }
 [sha:bde1bc4162a674a56e3095f53caea28b461c7001]{
 -- Page 83, Offset 1889.
 -- この寒さで上着を羽織っておらず、バッグらしきものも持っていない。草十郎はまだ知りえないコトだが、大人の女性とバッグはワンセットの存在である。
-　Malgré ce froid, elle ne portait pas de manteau et ne tenait rien qui puisse évoquer un sac à main. Sōjūrō ne le savait pas encore, mais les femmes adultes et les sacs à main étaient des existences qui allaient de pair.
+  Malgré ce froid, elle ne portait pas de manteau et ne tenait rien qui puisse évoquer un sac à main. Sōjūrō ne le savait pas encore, mais les femmes adultes et les sacs à main étaient des existences qui allaient de pair.
 
 }
 [sha:3364285d194e27017ec96d15d22298aded713e17]{
 -- Page 83, Offset 1890.
 -- そのあたりを無視しているあたり、この女性の自由奔放さが<窺|うかが>える。
-　Sa façon d'agir sans tenir compte de la mode laissait deviner une femme affranchie des conventions sociales.
+  Sa façon d'agir sans tenir compte de la mode laissait deviner une femme affranchie des conventions sociales.
 
 }
 [sha:c3f3a104bc16cf1ede3901d0f248bee4c10109a5]{
 -- Page 83, Offset 1891. Glued. Mods: @x.
 -- 抜けている、とも言う。
-On pouvait même dire qu'elle manquait de retenue.
+ On pouvait même dire qu'elle manquait de retenue.
 
 }
 [sha:bfc44d8e309f256bbeee9cff802b6c56c8aaf2fa]{
@@ -1472,13 +1472,13 @@ On pouvait même dire qu'elle manquait de retenue.
 [sha:667304d403360d9b7bc615a299712abbd3fccbd9]{
 -- Page 84, Offset 1893.
 -- キミ、ミサ高のバイトの子？　偉いわ、今時の高校生は業者さん顔負けなのね！」
-　Toi, tu es le travailleur du lycée Misaki ? C'est admirable, de nos jours, les lycéens feraient plutôt des farces aux commerçants !」
+  Toi, tu es le travailleur du lycée Misaki ? C'est admirable, de nos jours, les lycéens feraient plutôt des farces aux commerçants !」
 
 }
 [sha:52c0f066d782c69caa52ec631dc052c619442dea]{
 -- Page 84, Offset 1894.
 -- ハシゴの頂点に座った草十郎を見上げて、女性は感動しきっている。
-　Tout en regardant Sōjūrō assis au sommet de l'échelle, la femme était surexcitée.
+  Tout en regardant Sōjūrō assis au sommet de l'échelle, la femme était surexcitée.
 
 }
 [sha:dc0267402c321a36af12b5fbd1e182b2501c44a4]{
@@ -1490,19 +1490,19 @@ On pouvait même dire qu'elle manquait de retenue.
 [sha:9ce92479d621f0251bc0a67806451bc04fa2080e]{
 -- Page 85, Offset 1896.
 -- ハシゴはまだある？　他の<雑巾|ぞうきん>は？　あ、どうせだからホースで水をかけるのはどうかしら！　こうバアーっと、けるひゃー！とか叫びながら！　バチあたりだけど、それなら少しぐらいは楽しくなりそうじゃない？」
-　Il y a une autre échelle ? Et des chiffons ? Ah, puisqu'on y est, qu'est-ce que tu penses d'utiliser un tuyau d'arrosage ? Tout en criant comme ça : Baa ! ou : Prends ça ! On risque de s'attirer le courroux divin, mais de cette façon, ce sera au moins un peu amusant, non ?」
+  Il y a une autre échelle ? Et des chiffons ? Ah, puisqu'on y est, qu'est-ce que tu penses d'utiliser un tuyau d'arrosage ? Tout en criant comme ça : Baa ! ou : Prends ça ! On risque de s'attirer le courroux divin, mais de cette façon, ce sera au moins un peu amusant, non ?」
 
 }
 [sha:4852ec4e56654f95aeba439bda1224a0f5d424e4]{
 -- Page 86, Offset 1897.
 -- 心底から楽しそうに女性は笑った。
-　La femme rit joyeusement à gorge déployée.
+  La femme rit joyeusement à gorge déployée.
 
 }
 [sha:89bf42a5fafa9c048eced8b8bf9be339e8b901f4]{
 -- Page 86, Offset 1898.
 -- 光がこぼれそうな、自立して走りまわるサボテンみたいな笑顔だった。
-　Son sourire était éblouissant, tel un cactus capable de bouger et qui tournait en rond.
+  Son sourire était éblouissant, tel un cactus capable de bouger et qui tournait en rond.
 
 }
 [sha:fc7e6a6abf8da3c41a2df6e21d9d9807a9aa8d50]{
@@ -1514,7 +1514,7 @@ Dans le sens où c'était une nuisance pour les autres.
 [sha:09ac5ae500dd541d3eac5ffb7e13b3e24bc74b26]{
 -- Page 86, Offset 1900.
 -- そんな草十郎の連想通り、女性は草十郎の返事を待たず、まあまあ、と窓拭きに参加した。
-　Comme Sōjūrō le pressentait, la femme n'attendit pas sa réponse et prit part au nettoyage des fenêtres.
+  Comme Sōjūrō le pressentait, la femme n'attendit pas sa réponse et prit part au nettoyage des fenêtres.
 
 }
 [sha:4176b656fb484b35a4097c87f7444b50d6c0e103]{
@@ -1526,31 +1526,31 @@ Dans le sens où c'était une nuisance pour les autres.
 [sha:5d04dd44b3528e1948bf6a35e0e1906eb542ed57]{
 -- Page 87, Offset 1902.
 -- そしたら可愛い子が真面目に労働してたワケ。窓拭きの達人みたいに、ビっと格好よく。そんなの見せられたら手伝いたくなるのが人情じゃない？」
-　Mais en fait, c'était un garçon très mignon qui travaillait avec sérieux. Avec la prestance d'un expert en nettoyage de fenêtres. Ce n'est pas dans la nature humaine de vouloir aider en voyant un tel spectacle ?」
+  Mais en fait, c'était un garçon très mignon qui travaillait avec sérieux. Avec la prestance d'un expert en nettoyage de fenêtres. Ce n'est pas dans la nature humaine de vouloir aider en voyant un tel spectacle ?」
 
 }
 [sha:92a6ddf82d0ed186d5bf2bda202cd09cdd7eb584]{
 -- Page 88, Offset 1903.
 -- 草十郎のひとつ隣の窓を拭きながら、女性は陽気に話しかけてくる。
-　Tout en nettoyant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
+  Tout en nettoyant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.
 
 }
 [sha:cc155218defc5e296306142d3a9d8c7a2661751e]{
 -- Page 88, Offset 1904.
 -- そんな、考えようによっては怪しいコトこの上ない女性にうんうんと真面目に同意する草十郎。
-　Sōjūrō écoutait attentivement les propos de cette femme, qui auraient semblé très louche du point de vue d'une tierce personne.
+  Sōjūrō écoutait attentivement les propos de cette femme, qui auraient semblé très louche du point de vue d'une tierce personne.
 
 }
 [sha:771fe049d3b7bb675c8a9261792639b2615815cd]{
 -- Page 88, Offset 1905.
 -- なんというか、彼の本能が理解したのだ。
-　Comment dire ? Son instinct avait compris.
+  Comment dire ? Son instinct avait compris.
 
 }
 [sha:a2cba172657c030a259f6230df52cd7cfbb1a1dc]{
 -- Page 88, Offset 1906.
 -- この女性は自分と同じように、いつもこういう地味な作業を押しつけられる同士なのだと―――！
-　Que cette femme était une camarade de corvée à qui on confiait toujours, comme lui, les tâches les plus ingrates―――!
+  Que cette femme était une camarade de corvée à qui on confiait toujours, comme lui, les tâches les plus ingrates―――!
 
 }
 [sha:281cf94e79a0ead14efe7ffa63adb8d533d06c6d]{
@@ -1568,7 +1568,7 @@ Dans le sens où c'était une nuisance pour les autres.
 [sha:f86cc80efd2c436847734571309ffb04a775784f]{
 -- Page 89, Offset 1909.
 -- それより貴方ってのは他人行儀ねぇ。キミとは商店街で何度も会ってるのに」
-　À part ça, tu as des manières bien réservées. Alors qu'on s'est déjà rencontrés plusieurs fois au quartier commerçant.」
+  À part ça, tu as des manières bien réservées. Alors qu'on s'est déjà rencontrés plusieurs fois au quartier commerçant.」
 
 }
 [sha:3e2585246518ae9791c5f732cb4ec97d03b48027]{
@@ -1586,7 +1586,7 @@ Dans le sens où c'était une nuisance pour les autres.
 [sha:66887368dff18f545161c11b066505b7fca1524b]{
 -- Page 90, Offset 1912. Mods: @k, @e.
 -- わたしは―――ええっと、そうね、
-　Je suis―――euh,
+  Je suis―――euh,
 
 }
 [sha:c65de9af5c806f85abceb04f6f2d828475ec0090]{
@@ -1598,13 +1598,13 @@ voyons voir, je m'appelle Hanasawa, et toi ?」
 [sha:d1bd9ba58b07f0929dec1a899e4ee1d347741750]{
 -- Page 91, Offset 1914.
 -- 台詞の途中、ちらりと眼下の花壇を見ながら、きさくに笑いかける花澤さん。
-　Tout en lançant un coup d'œil au pot de <fleurs|hana> sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
+  Tout en lançant un coup d'œil au pot de <fleurs|hana> sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
 
 }
 [sha:a0fb378baea6623898a99a6744ff4c25bbbe5ee4]{
 -- Page 91, Offset 1915.
 -- 草十郎はいつも通り、自信なげに自己紹介を済ませた。
-　Sōjūrō se présenta comme à son habitude, peu sûr de lui.
+  Sōjūrō se présenta comme à son habitude, peu sûr de lui.
 
 }
 [sha:ecd0ad490c53c07b886fa1dbda3a2630c45760ad]{
@@ -1616,7 +1616,7 @@ voyons voir, je m'appelle Hanasawa, et toi ?」
 [sha:a62091279e48ae072114d108c028573d65968fd8]{
 -- Page 92, Offset 1917.
 -- 名前に数字が入ってると、なんか日本人って感じがしない？　ここの神父さんとかシスターの名前、知ってる？　エイリとかユイカとか、なんか外国風なんだけど」
-　Lorsqu'un nom comporte des kanjis de nombre, tu ne trouves pas que ça fait vraiment japonais ? Tu sais comment s'appellent le prêtre et la sœur qui vivent ici ? Eiri et Yuika, on dirait des noms d'étrangers.」
+  Lorsqu'un nom comporte des kanjis de nombre, tu ne trouves pas que ça fait vraiment japonais ? Tu sais comment s'appellent le prêtre et la sœur qui vivent ici ? Eiri et Yuika, on dirait des noms d'étrangers.」
 
 }
 [sha:06b973855f42bc071ae9980189b30c32eb700bd1]{
@@ -1634,7 +1634,7 @@ voyons voir, je m'appelle Hanasawa, et toi ?」
 [sha:4ac55ea9d5756146d33d453caf6c301e568f3298]{
 -- Page 93, Offset 1920.
 -- 合田教会の美形神父と美人姉妹って言ったら有名なんだけど……あ、そうか！　さてはキミ、最近引っ越してきたんでしょう！　しかもひとり暮らしと見たわ！」
-　Pourtant, le prêtre charmant et les deux sœurs, beautés de l'église d'Aida, sont assez célèbres...... Ah, je sais ! Voyons voir, tu as déménagé récemment ici, pas vrai ? Et en plus, tu vis seul !」
+  Pourtant, le prêtre charmant et les deux sœurs, beautés de l'église d'Aida, sont assez célèbres...... Ah, je sais ! Voyons voir, tu as déménagé récemment ici, pas vrai ? Et en plus, tu vis seul !」
 
 }
 [sha:88b7e4f9577a449d273ad468b8a2110beb878269]{
@@ -1658,19 +1658,19 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:bfb6a117226e209614238447bcfc07c6d34a7546]{
 -- Page 94, Offset 1924.
 -- キミぐらいの子がアルバイトに精を出すほど、この町の娯楽は魅力的じゃないもの。遊ぶお金ならバイト一件で<賄|まかな>えちゃうわ。キミは物欲のあるタイプじゃなさそうだし。
-　Puisque vraisemblablement, ce n'est pas le charme des distractions de cette ville qui motive un garçon tel que toi à mettre du cœur à l'ouvrage. Si tu avais besoin d'argent pour t'amuser, un seul travail suffirait à couvrir tous tes frais. Et puis, tu ne sembles pas être avide.
+  Puisque vraisemblablement, ce n'est pas le charme des distractions de cette ville qui motive un garçon tel que toi à mettre du cœur à l'ouvrage. Si tu avais besoin d'argent pour t'amuser, un seul travail suffirait à couvrir tous tes frais. Et puis, tu ne sembles pas être avide.
 
 }
 [sha:c496a028ef7b97c0049e870ac8e990e79c7cb3b3]{
 -- Page 94, Offset 1925.
 -- となると、これはもう生活費のためと考えるのが健全でしょう？
-　Dans ce cas, il est plus logique de penser que c'est pour les dépenses quotidiennes, non ?
+  Dans ce cas, il est plus logique de penser que c'est pour les dépenses quotidiennes, non ?
 
 }
 [sha:57979f9ae773822162edf20369383744ad522f55]{
 -- Page 94, Offset 1926. Glued. Mods: @x.
 -- ……んー、まあ、学生さんが生活費も学費も自分だけで賄う、なんてのは健全じゃないんだけど」
-　...... Hmm, même si ce n'est pas très sain qu'un étudiant ait à se charger des frais quotidiens et scolaires par lui-même.」
+...... Hmm, même si ce n'est pas très sain qu'un étudiant ait à se charger des frais quotidiens et scolaires par lui-même.」
 
 }
 [sha:5766cd92a0c378d20419071b2c2b3c73db5916f9]{
@@ -1682,7 +1682,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:8e74400f22fefc9f95a996ac043b1f21b62d64b4]{
 -- Page 95, Offset 1928.
 -- 働かざるもの食うべからずです」
-　Ceux qui ne travaillent pas ne méritent pas de manger.」
+  Ceux qui ne travaillent pas ne méritent pas de manger.」
 
 }
 [sha:97f54abac30bbac8a224aeb95e72da44b1b357d9]{
@@ -1694,7 +1694,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:610e2158caa770abf53cfebe352814542e89eaa5]{
 -- Page 95, Offset 1930.
 -- わたしも学生の頃はバイト三昧だったから、少しはキミのたいへんさも分かるわよー」
-　Moi aussi, lorsque j'étais étudiante, je m'absorbais dans le travail, alors je comprends un peu tes difficultés.」
+  Moi aussi, lorsque j'étais étudiante, je m'absorbais dans le travail, alors je comprends un peu tes difficultés.」
 
 }
 [sha:d3d50585409cff3ed537f3ec8fee16451255dcd2]{
@@ -1712,7 +1712,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:2407165bf2f512b2ed09ecda542b4036b8c06e11]{
 -- Page 96, Offset 1933.
 -- けどまあ、こう見えて肉体労働は苦にならないタイプだし。学院もバイトも楽しい思い出になってるわ」
-　Mais bon, ça n'en a pas l'air, mais je ne suis pas du genre à me lasser du travail manuel. L'école et le travail sont pour moi d'heureux souvenirs.」
+  Mais bon, ça n'en a pas l'air, mais je ne suis pas du genre à me lasser du travail manuel. L'école et le travail sont pour moi d'heureux souvenirs.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1724,13 +1724,13 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:83bc8211ddc24823f0df7c885e35ed9b74b324de]{
 -- Page 97, Offset 1935.
 -- おお、とまたもコクコク頷く草十郎。
-　“Oh”, acquiesça encore Sōjūrō.
+  “Oh”, acquiesça encore Sōjūrō.
 
 }
 [sha:6e75de19cc40b92c102b5d265014061dd5a56eb3]{
 -- Page 97, Offset 1936.
 -- <節操|せっそう>なく湧きたつ親近感を<抑|おさ>えられない。
-　Il ne parvenait pas à réfréner l'affinité qui bouillonnait en lui sans raison.
+  Il ne parvenait pas à réfréner l'affinité qui bouillonnait en lui sans raison.
 
 }
 [sha:b1f37376079d696b8d15618362b429ccc018cca6]{
@@ -1748,7 +1748,7 @@ Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos
 [sha:0a476ced5cb1e9270f513ff44559202feaf2e7dc]{
 -- Page 99, Offset 1939. Mods: @k, @e.
 -- じゃあ早速ですけど、
-　Sinon, juste comme ça,
+  Sinon, juste comme ça,
 
 }
 [sha:243b9adc451c33a50bc4e64f351785e9f921646b]{
@@ -1766,7 +1766,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:811e1b138c55299d208693353c60e97311a5c063]{
 -- Page 99, Offset 1942.
 -- ここ、と教会を指さす草十郎。
-　Sōjūrō désigna l'église du doigt.
+  Sōjūrō désigna l'église du doigt.
 
 }
 [sha:56583b180fb6f69457ab795adc28cfa77a432180]{
@@ -1778,13 +1778,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:240126d76a992f242764ff5e34e36753282204e5]{
 -- Page 100, Offset 1944.
 -- さすがの花澤さんも面食らっている。
-　Même Hanasawa en était confuse.
+  Même Hanasawa en était confuse.
 
 }
 [sha:932d8359b8f30c041edb9d6cef6bc7f010105823]{
 -- Page 100, Offset 1945.
 -- 草十郎がビンテージものの田舎者である事なんぞ知らない花澤さんであるが、持ち前の機転の良さで、これは高度な皮肉なのだと勘違いしてしまったようだ。
-　Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
+  Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
 
 }
 [sha:0f6221cbdb6c927db3014148f830cdc449f155ea]{
@@ -1796,13 +1796,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:818742e1eb0b2280af4564b0c7c4882732b1636f]{
 -- Page 101, Offset 1947.
 -- 心の安全を扱っている、というのはどうかしら。いえ、安全というよりは鎧？　ツギハギのバリケード？　とにかく本人はちっとも鍛えられないってコトは同じよね。
-　Je me demande si l'on pourrait dire qu'on y protège l'âme des gens ? Non, il serait plus juste de parler, non pas de protection mais plutôt d'armure ? Une sorte de muraille rafistolée ? En tout cas, ça revient au même dans le sens où la personne en question n'est pas endurcie.
+  Je me demande si l'on pourrait dire qu'on y protège l'âme des gens ? Non, il serait plus juste de parler, non pas de protection mais plutôt d'armure ? Une sorte de muraille rafistolée ? En tout cas, ça revient au même dans le sens où la personne en question n'est pas endurcie.
 
 }
 [sha:2e58134252cbad79206f333c0c6491ca6ec599c6]{
 -- Page 101, Offset 1948.
 -- ああ、あとはパンとワインも分けてくれるわね」
-　Ah, et aussi, on y partage le pain et le vin.」
+  Ah, et aussi, on y partage le pain et le vin.」
 
 }
 [sha:afa93c960f87c18effcbbabfb8fde2106414614a]{
@@ -1820,7 +1820,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:0545cd544b307d73ffa4ee76b24ef53b7d3cae64]{
 -- Page 102, Offset 1951.
 -- あとは―――そっか。これが一番大きいんだけど、収入に税金がかからない。心の安全は扱いが難しいけど、きちんと売り物にできればノーリスクハイリターンよ」
-　Ensuite―――Ah oui. C'est le plus important, mais on n'y est pas soumis à l'impôt sur le revenu. Il est difficile de protéger l'âme des gens, mais si on parvient à en faire un bon article de vente, on peut obtenir un rendement élevé sans risque.」
+  Ensuite―――Ah oui. C'est le plus important, mais on n'y est pas soumis à l'impôt sur le revenu. Il est difficile de protéger l'âme des gens, mais si on parvient à en faire un bon article de vente, on peut obtenir un rendement élevé sans risque.」
 
 }
 [sha:83308a53da811358b155d989c8f2bda03482d2e0]{
@@ -1838,19 +1838,19 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:21f2f87256ba8555192d462536637255ccf69840]{
 -- Page 103, Offset 1954.
 -- ご利用は月に一回、気休め程度にした方がいいと思う」
-　On ne peut en bénéficier qu'une fois par mois. Je pense qu'il serait préférable de voir ça comme un simple réconfort ponctuel.」
+  On ne peut en bénéficier qu'une fois par mois. Je pense qu'il serait préférable de voir ça comme un simple réconfort ponctuel.」
 
 }
 [sha:81a9f004fc5b561067a0d2b86347b576ebca35e7]{
 -- Page 104, Offset 1955.
 -- きゅっきゅっ、と窓を<拭|ふ>く音が響く。
-　Le son de nettoyage des vitres retentissait.
+  Le son de nettoyage des vitres retentissait.
 
 }
 [sha:4e4f62d47aac9341a341d8e016f68a8f113e0e1a]{
 -- Page 104, Offset 1956.
 -- 趣味を同じくするふたりは<暢気|のんき>に口笛を吹きながら一枚、また一枚、と教会の窓を磨き上げていく。
-　Les deux personnes affairées au même passe-temps polissaient les fenêtres de l'église une par une, tout en sifflant nonchalamment.
+  Les deux personnes affairées au même passe-temps polissaient les fenêtres de l'église une par une, tout en sifflant nonchalamment.
 
 }
 [sha:1ccf907d96ecf043f975c307732c2bf81cfa4014]{
@@ -1862,7 +1862,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:d3a511a3e4c4aebe4621c0131a79127de0622140]{
 -- Page 105, Offset 1958.
 -- ここから見えるあの森、なんですか？」
-　La forêt que l'on voit d'ici, c'est quoi ?」
+  La forêt que l'on voit d'ici, c'est quoi ?」
 
 }
 [sha:6399f61f5a3a096c702e045a7af7b0272cd56f7d]{
@@ -1880,7 +1880,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:c124b02868938b29667896cc74a90b47719a1f3e]{
 -- Page 105, Offset 1961.
 -- 田舎育ちの人間として、あの程度の高台を山というのはプライドが許さないらしい。
-　En tant qu'individu élevé en province, sa fierté ne pouvait visiblement pas tolérer que l'on qualifie de montagne une butte de cette taille.
+  En tant qu'individu élevé en province, sa fierté ne pouvait visiblement pas tolérer que l'on qualifie de montagne une butte de cette taille.
 
 }
 [sha:abae4bc46946721494303927338c2de57b65ac95]{
@@ -1892,25 +1892,25 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:a0c473491f499344b35bc6305ebf5afb16b80864]{
 -- Page 106, Offset 1963.
 -- 女性の気さくな笑顔に自虐的な影がさす。
-　Un rictus venait de fendre son joli sourire.
+  Un rictus venait de fendre son joli sourire.
 
 }
 [sha:faca67b5066b69c6be8bc691e18d2c7c716d360f]{
 -- Page 106, Offset 1964.
 -- もともと端整な顔つきをした美人だ。
-　C'était une beauté au visage gracieux par nature.
+  C'était une beauté au visage gracieux par nature.
 
 }
 [sha:f61b5f64034bb8f901ade3cecbb92c2e41b60451]{
 -- Page 106, Offset 1965.
 -- 笑顔を崩すと一転して酷薄な、見るものを威圧する表情になる事に、今さらながら草十郎は気が付いた。
-　Sōjūrō remarqua un peu tard que quand son visage souriant s'effaçait, son expression changeait du tout au tout et reflétait une cruauté qui intimidait tous ceux qui la voyaient.
+  Sōjūrō remarqua un peu tard que quand son visage souriant s'effaçait, son expression changeait du tout au tout et reflétait une cruauté qui intimidait tous ceux qui la voyaient.
 
 }
 [sha:7b3790c71851658c1b6ada7d255b027ed4244ecc]{
 -- Page 106, Offset 1966.
 -- もちろん、
-　Évidemment,
+  Évidemment,
 
 }
 [sha:1d18dca23fb29b5211af99c08b8c746a9b0ad72b]{
@@ -1922,7 +1922,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:bda67432270cf6391ac8e5668c93232005d63c62]{
 -- Page 107, Offset 1968.
 -- そんな事で草十郎があれこれ遠慮したり、怪しんだりする事はないのだった。
-　il en fallait bien plus pour inciter Sōjūrō à la retenue, ou même le rendre méfiant.
+  il en fallait bien plus pour inciter Sōjūrō à la retenue, ou même le rendre méfiant.
 
 }
 [sha:2fce294bf30b2d835546aaa54049a14d4548b0a2]{
@@ -1934,13 +1934,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:cec31c7d5dfe878baba9b90ef8563b2864efcbb2]{
 -- Page 108, Offset 1970.
 -- あの森は全部私有地なんだけど、その中にでっかい洋館が建っているの。でも私有地だから地元の人間も入ったコトはないんじゃないかしら。
-　Toute cette forêt est un domaine privé, mais il y a une grande résidence bâtie à l'intérieur. Cependant, comme c'est un domaine privé, il n'y a sûrement personne du coin qui y soit jamais entré.
+  Toute cette forêt est un domaine privé, mais il y a une grande résidence bâtie à l'intérieur. Cependant, comme c'est un domaine privé, il n'y a sûrement personne du coin qui y soit jamais entré.
 
 }
 [sha:ea1dd5e64b55fdf9d5e82e40d3a05b246082dda0]{
 -- Page 108, Offset 1971.
 -- 通称、<久遠寺|くおんじ>のお化け屋敷ってね。近所の皆さんは気味悪がってるし、あんまり近寄らない方がいいんじゃない？　あんな小さな森なのに遭難したとか、野犬が出るとか、物騒な話には事欠かないから」
-　Alias le manoir hanté Kuonji. Tous les gens du voisinage le trouvent effrayant, alors il serait peut-être préférable de ne pas trop t'en approcher. De nombreuses histoires troublantes circulent à son sujet, comme quoi il y aurait des accidents ou des chiens sauvages qui y apparaissent, alors que c'est une forêt minuscule.」
+  Alias le manoir hanté Kuonji. Tous les gens du voisinage le trouvent effrayant, alors il serait peut-être préférable de ne pas trop t'en approcher. De nombreuses histoires troublantes circulent à son sujet, comme quoi il y aurait des accidents ou des chiens sauvages qui y apparaissent, alors que c'est une forêt minuscule.」
 
 }
 [sha:b34c1508323d078217ace745b09bc793c50aafe0]{
@@ -1970,31 +1970,31 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:b56339646eddea64dc367cda3688b43e94d68ab7]{
 -- Page 110, Offset 1976.
 -- そもそも私有地だし、入ったらお巡りさんを呼ばれちゃって、そのまま交番でお説教ターイム！　なんて、あんまり楽しくないでしょう？」
-　En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpellé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
+  En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpellé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
 
 }
 [sha:f1a213912f339249ecd220e3d0c5996b11363318]{
 -- Page 111, Offset 1977.
 -- なるほど、とハシゴの上から遥か彼方の煙突を眺める。
-　“Je vois”, dit-il en regardant la cheminée au loin du haut de l'échelle.
+  “Je vois”, dit-il en regardant la cheminée au loin du haut de l'échelle.
 
 }
 [sha:c9c25ea96e3cc28008fc5256939e730d23af3717]{
 -- Page 111, Offset 1978.
 -- 少しだけ、ほんの少しだけ故郷の森を連想させる丘なので気になっていたが、どうやら自分には何の関係もないようだと納得し、草十郎は窓拭きを再開した。
-　Cette colline me faisait penser un peu, mais vraiment un tout petit peu, à la forêt de ma terre natale, alors ça me préoccupait. Mais apparemment, elle n'a rien à voir avec moi, agréa Sōjūrō qui reprit le nettoyage des fenêtres.
+  Cette colline me faisait penser un peu, mais vraiment un tout petit peu, à la forêt de ma terre natale, alors ça me préoccupait. Mais apparemment, elle n'a rien à voir avec moi, agréa Sōjūrō qui reprit le nettoyage des fenêtres.
 
 }
 [sha:01bfcf69ab802f5354ceb0fbc93c0e2bce221cd8]{
 -- Page 112, Offset 1979.
 -- 花澤さんの協力のおかげで、窓拭きは滞りなく終了した。
-　Grâce à l'aide de Hanasawa, le nettoyage des fenêtres fut terminé sans retard.
+  Grâce à l'aide de Hanasawa, le nettoyage des fenêtres fut terminé sans retard.
 　
 }
 [sha:7faef9298cdcd73b816503ae09acc6e8daa8e369]{
 -- Page 112, Offset 1980.
 -- ふたりがかりで、地味だが手間のかかる仕事をやり遂げたのだ。
-　À eux deux, ils avaient accompli un travail simple mais laborieux.
+  À eux deux, ils avaient accompli un travail simple mais laborieux.
 
 }
 [sha:78bf1d49c72d520dbd7cf99eda250ad341c44c4d]{
@@ -2006,12 +2006,12 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:1ffaa36774563676a28e691a03bf44e3cdcbe174]{
 -- Page 113, Offset 1982.
 -- うん、あれだけ砂まみれだった窓が見違えたわね！
-　Hum, qui pourrait croire qu'il y avait toute cette terre sur les fenêtres avant !
+  Hum, qui pourrait croire qu'il y avait toute cette terre sur les fenêtres avant !
 }
 [sha:b3dbb8b0db60aa08d3087d6b793c022d7f8f3317]{
 -- Page 113, Offset 1983. Mods: @k, @e.
 -- どう、これから適当な<茶店|さてん>でお茶にしない？　草十郎さんの仕事っぷりに敬意を表して、わたしがおご
-　Qu'est-ce que tu dirais d'aller à présent dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――
+  Qu'est-ce que tu dirais d'aller à présent dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――
 
 }
 [sha:f3fe33ebb37b3654286eb03e37ce4a4cff61673f]{
@@ -2035,25 +2035,25 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:9d3d1fca63d6935d5b73744cf43a09c098a51a42]{
 -- Page 114, Offset 1987.
 -- 花澤さんはここで失礼するのでした。チャオ～」
-　Je dois filer à présent, ciao～」
+  Je dois filer à présent, ciao～」
 
 }
 [sha:66b9767c204f66bbfb1d91c75e2fddff5092202d]{
 -- Page 114, Offset 1988.
 -- ハシゴを片づけていた草十郎が振り向くと、女性は<脱兎|だっと>の如く表通りに走り去っていた。
-　Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
+  Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
 
 }
 [sha:50bb4bd2cef8ddfc24a012ba479edfc8cb43b319]{
 -- Page 115, Offset 1989.
 -- 時刻はそろそろ三時。
-　Il était presque trois heures.
+  Il était presque trois heures.
 
 }
 [sha:d9e797652ad15ef3819c5c0c12659993f756df23]{
 -- Page 115, Offset 1990.
 -- 花澤さんが手伝いを申し出てから三時間以上経過している。
-　Il s'était passé plus de trois heures depuis que Hanasawa avait proposé de l'aider.
+  Il s'était passé plus de trois heures depuis que Hanasawa avait proposé de l'aider.
 
 }
 [sha:e93a7e11037bce369d8e82c4b2dba5f67a961d63]{
@@ -2065,19 +2065,19 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:dd71958429e546371b1595213b4242e349b12c91]{
 -- Page 116, Offset 1992.
 -- 彼女の急変をしたり顔で見送る草十郎。
-　Sōjūrō l'accompagna du regard, le visage étonné par son changement brutal de comportement.
+  Sōjūrō l'accompagna du regard, le visage étonné par son changement brutal de comportement.
 
 }
 [sha:2826d1254ea9305ef4af913edb62e2fa661a0f3e]{
 -- Page 116, Offset 1993.
 -- 行くあてなく散歩をしていたように見えた花澤さんだが、これだけ時間を潰したのだ。
-　Hanasawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
+  Hanasawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
 
 }
 [sha:e838ce291f03b4eb333a767092c49f8a3687009f]{
 -- Page 116, Offset 1994.
 -- 手伝ってくれた時と同じように、適当な用事を思いだしてしまったのだろう。
-　Elle avait dû se rappeler de quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
+  Elle avait dû se rappeler de quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
 
 }
 [sha:0a5b539496ee49abec97e7010c5761e71cb59aae]{
@@ -2089,7 +2089,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:03da6b772f41bb72d546ac00bb209f5267a6da67]{
 -- Page 117, Offset 1996.
 -- と。教会の角からひょっこり顔を出す生徒会長。
-　La présidente du conseil étudiant montra soudainement son visage au coin de l'église.
+  La présidente du conseil étudiant montra soudainement son visage au coin de l'église.
 
 }
 [sha:4fdb919523d928791bcf1275ce78ee2a6ed7be9d]{
@@ -2101,12 +2101,12 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:6c5a9ba3ddb47d3ebe0bcfb6c84fac9f805c7dc0]{
 -- Page 118, Offset 1998.
 -- 自分の背丈より長いハシゴを片づけている草十郎を見て、青子は面食らったようだ。
-　En voyant Sōjūrō ranger l'échelle plus longue que lui, Aoko sembla confuse.
+  En voyant Sōjūrō ranger l'échelle plus longue que lui, Aoko sembla confuse.
 }
 [sha:1585af78c1940da245944f6f60a302fa105e78a7]{
 -- Page 118, Offset 1999.
 -- それも一瞬の事で、彼女は腕まくりをして草十郎に歩み寄った。
-　Ça ne dura qu'un instant, puis elle croisa les bras et se rapprocha de Sōjūrō.
+  Ça ne dura qu'un instant, puis elle croisa les bras et se rapprocha de Sōjūrō.
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -2118,13 +2118,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:98833baab1defa0e27d0859909bac9f17709cf86]{
 -- Page 119, Offset 2001.
 -- とつぜん現れた青子より、草十郎にはそっちの方が驚きだったらしい。
-　Sōjūrō semblait plus surpris par cette réaction que par le fait qu'Aoko soit soudainement apparue.
+  Sōjūrō semblait plus surpris par cette réaction que par le fait qu'Aoko soit soudainement apparue.
 
 }
 [sha:3c99da0afb9ab870e5a5091581bd643644fe9323]{
 -- Page 119, Offset 2002.
 -- 当惑する草十郎をよそに、青子はてきぱきと指示をだす。
-　En rejoignant Sōjūrō toujours perplexe, Aoko lui donna rapidement des instructions.
+  En rejoignant Sōjūrō toujours perplexe, Aoko lui donna rapidement des instructions.
 
 }
 [sha:b0e7d222e9d99dcc13c5467b858724067368eac7]{
@@ -2136,25 +2136,25 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:83bb1c3be3bb5bb871a843fb3419af9f59eacac4]{
 -- Page 120, Offset 2004.
 -- 下の方は私が持つから、貴方は上の方お願い」
-　Je prends le bas, charge-toi du haut.」
+  Je prends le bas, charge-toi du haut.」
 
 }
 [sha:d6b7aeb21a7e481e0f144cb55e7d61f25009aef1]{
 -- Page 120, Offset 2005.
 -- それがあまりに自然な行為だったので、ひとりで十分だと強がる前に、草十郎はハシゴを横に倒していた。
-　C'était un acte tellement naturel qu'avant même d'avoir le réflexe de faire le fier en disant qu'il n'avait pas besoin d'aide, Sōjūrō inclina l'échelle à l'horizontale.
+  C'était un acte tellement naturel qu'avant même d'avoir le réflexe de faire le fier en disant qu'il n'avait pas besoin d'aide, Sōjūrō inclina l'échelle à l'horizontale.
 
 }
 [sha:13a7d52008d69b122626a2b63a244338c343fa49]{
 -- Page 121, Offset 2006.
 -- アルバイトが終わり、シスターから気持ち程度の謝礼を受け取って、ふたりは教会を後にした。
-　Après avoir terminé le travail et reçu une rémunération symbolique de la part de la sœur, ils quittèrent l'église.
+  Après avoir terminé le travail et reçu une rémunération symbolique de la part de la sœur, ils quittèrent l'église.
 
 }
 [sha:befa476dadacd6654eaf12c8d649676a7fd5d80f]{
 -- Page 121, Offset 2007.
 -- 青子は駅前に用事があるとの事で、とりあえずそこまでは同じ道行きだ。
-　Comme Aoko avait des choses à faire du côté de la gare, pour l'instant, leur chemin était le même.
+  Comme Aoko avait des choses à faire du côté de la gare, pour l'instant, leur chemin était le même.
 
 }
 [sha:edf5e22386e8daa45b52cd807b9278e4c1a45234]{
@@ -2166,13 +2166,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:a9789ddf60e29bd4a3580b31f48c83d0ea5100dc]{
 -- Page 122, Offset 2009.
 -- じき夕暮れになる空の下。
-　Sous le ciel où le crépuscule était proche,
+  Sous le ciel où le crépuscule était proche,
 
 }
 [sha:a0a40f622eef95ee93994868cbcb8704466639e8]{
 -- Page 122, Offset 2010.
 -- 話しかけるというよりは感想をもらすように、青子はそんな台詞を口にした。
-　Aoko dit cette phrase comme pour laisser échapper ses impressions plutôt que pour lui parler.
+  Aoko dit cette phrase comme pour laisser échapper ses impressions plutôt que pour lui parler.
 
 }
 [sha:bf2c9599233dc209544945cbd474a8193c0811ac]{
@@ -2184,13 +2184,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:5e9c91363fca40345c1077ce71e82d8fc861a2ce]{
 -- Page 123, Offset 2012.
 -- 素直に微笑む草十郎。
-　Sōjūrō sourit honnêtement.
+  Sōjūrō sourit honnêtement.
 
 }
 [sha:54f0c9b8e8cb98cf52942f9a5f7a770d52bbd6db]{
 -- Page 123, Offset 2013.
 -- もっとも、給金をもらってから彼はずっとホクホク顔だったので、何に喜んでいるかは不明だった。
-　Cependant, depuis qu'il avait reçu sa paye, il affichait un visage radieux, alors elle n'était pas certaine de la raison de sa bonne humeur.
+  Cependant, depuis qu'il avait reçu sa paye, il affichait un visage radieux, alors elle n'était pas certaine de la raison de sa bonne humeur.
 
 }
 [sha:377b0f7d86dde7a49ca2ba893cebfbe7b52c9873]{
@@ -2208,13 +2208,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:3cd103f11436d7f94045f4e62207ff6367410d32]{
 -- Page 125, Offset 2016.
 -- 草十郎はがっくりとうなだれた。
-　Sōjūrō prit un air penaud.
+  Sōjūrō prit un air penaud.
 
 }
 [sha:55dd0c719903704e7b17cc5b57501884dea99644]{
 -- Page 125, Offset 2017.
 -- アルバイトはこなせても、学校の授業ばかりはどうにもならない。試験はともかく、日々の授業は一朝一夕でついて行けるものではないからだ。
-　Même s'il faisait de son mieux, il ne pouvait pas faire grand-chose de plus pour rattraper les cours de l'école. Parce que contrairement aux examens, les cours quotidiens ne se déroulaient pas en une journée.
+  Même s'il faisait de son mieux, il ne pouvait pas faire grand-chose de plus pour rattraper les cours de l'école. Parce que contrairement aux examens, les cours quotidiens ne se déroulaient pas en une journée.
 
 }
 [sha:645b032e9dbbb79e87429f723c8913ee4b578c86]{
@@ -2232,7 +2232,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:8b6fbdec1733000e6987819f946d45a94890d678]{
 -- Page 126, Offset 2020.
 -- でっかいハンデをなんとかするのは先生たちの仕事で、それに応えるのは貴方の役目。アルバイトもいいけど、帰ったらきちんと予習、やっときなさいよ」
-　C'est le travail des professeurs de t'aider à surmonter un gros handicap, et ton rôle est d'y répondre. C'est bien d'avoir des petits boulots, mais n'oublie pas de préparer correctement les cours en rentrant !」
+  C'est le travail des professeurs de t'aider à surmonter un gros handicap, et ton rôle est d'y répondre. C'est bien d'avoir des petits boulots, mais n'oublie pas de préparer correctement les cours en rentrant !」
 
 }
 [sha:b585429930f107f4a70a92ec37b46c889f8ff093]{
@@ -2250,13 +2250,13 @@ qu'est-ce que l'on fait dans cet endroit ?
 [sha:96776670f264ccbe728c2e2afd74675d92d3b9f7]{
 -- Page 127, Offset 2023.
 -- 今のやりとりで、なんでそんな台詞が返ってくるのか、と首をかしげる青子だった。
-　Aoko était perplexe, car elle se demandait pourquoi il avait tenu ce propos durant leur conversation.
+  Aoko était perplexe, car elle se demandait pourquoi il avait tenu ce propos durant leur conversation.
 
 }
 [sha:07dc56b06eaaa327ebc85759abdf6afc6209d695]{
 -- Page 127, Offset 2024.
 -- おそらく、草十郎なりの感謝の表れなんだろう、と納得する。
-　C'est probablement une marque de remerciement à la façon de Sōjūrō, consentit-elle.
+  C'est probablement une marque de remerciement à la façon de Sōjūrō, consentit-elle.
 
 }
 [sha:d58c670eb6c3b4882cc1b73573516db6eb15f737]{
@@ -2280,13 +2280,13 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:57c2871be1caae72b4057860d5c0749103b59a73]{
 -- Page 129, Offset 2028.
 -- 学校側が認可しているのは三咲町の商店街だけなので、予想通りの回答だった。
-　Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc la réponse à laquelle elle s'attendait.
+  Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc la réponse à laquelle elle s'attendait.
 
 }
 [sha:08416df5e99ef25ed65e63025fee8e45e866c30b]{
 -- Page 129, Offset 2029.
 -- 最後に出た、およそ静希草十郎とは無関係の単語以外は。
-　Enfin, sauf le dernier terme employé par Sōjūrō qu'il n'aurait pas dû connaître, logiquement.
+  Enfin, sauf le dernier terme employé par Sōjūrō qu'il n'aurait pas dû connaître, logiquement.
 
 }
 [sha:9ee88602ce7943802741f7c73a71f874ed2ebb99]{
@@ -2310,13 +2310,13 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:fc8ed6f175b15d32ee69ffb45b25318598f8b5ac]{
 -- Page 131, Offset 2033.
 -- 今度こそ本気で感心する青子。
-　Cette fois, Aoko était vraiment admirative.
+  Cette fois, Aoko était vraiment admirative.
 
 }
 [sha:3079318bc86d279f01e110f85cb9b6781eed47d1]{
 -- Page 131, Offset 2034.
 -- 遊園地で使われる機械の運搬は、ちょっと、学生が片手間でやる仕事ではないからだ。
-　Parce que déplacer les équipements inutilisés du parc d'attractions n'était pas vraiment le genre de travail qu'un étudiant faisait pendant son temps libre.
+  Parce que déplacer les équipements inutilisés du parc d'attractions n'était pas vraiment le genre de travail qu'un étudiant faisait pendant son temps libre.
 
 }
 [sha:ee2e3f55330deebe25ae124128225abe0e4c5f17]{
@@ -2328,19 +2328,19 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:8767ed1cdd2c33bf8fa04fe0eac32b43aebf96af]{
 -- Page 132, Offset 2036.
 -- 青子は隣町の方角を仰ぎ見る。
-　Aoko tourna la tête en direction de la ville voisine.
+  Aoko tourna la tête en direction de la ville voisine.
 
 }
 [sha:e3fa441c6316e073180eb349c3ce4596c2359670]{
 -- Page 132, Offset 2037.
 -- ここから見えるのは、かろうじて観覧車だけ。
-　D'ici, on apercevait à peine la grande roue.
+  D'ici, on apercevait à peine la grande roue.
 
 }
 [sha:bfeea43b6c6fa718805412ce083652c4d63fd9e4]{
 -- Page 132, Offset 2038.
 -- 夕日に照らされた円形の鉄骨仕掛けは、<寂|さび>れた<墓標|ぼひょう>を思わせる。
-　Le mécanisme en charpente de fer arrondi, illuminé par le soleil couchant, rappelait une tombe solitaire.
+  Le mécanisme en charpente de fer arrondi, illuminé par le soleil couchant, rappelait une tombe solitaire.
 
 }
 [sha:9bf5e5ad22e358c6c82a2dc83ec1b632b8c6d9c0]{
@@ -2358,13 +2358,13 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:59f1773828dfbcbb9d415aa1f0dde35d91036890]{
 -- Page 133, Offset 2041.
 -- 途端、青子はおかしそうに口をおさえた。
-　Sur le moment, Aoko se retint de rire, amusée.
+  Sur le moment, Aoko se retint de rire, amusée.
 
 }
 [sha:d0cda782297ff5f9b13eeb44e4829ff0749e0414]{
 -- Page 133, Offset 2042.
 -- 草十郎に失礼だと思ったものの、笑いのツボに入ってしまったらしい。
-　Même si elle pensait que c'était impoli envers Sōjūrō, il avait apparemment touché son sens de l'humour.
+  Même si elle pensait que c'était impoli envers Sōjūrō, il avait apparemment touché son sens de l'humour.
 
 }
 [sha:f39e9c1cb5c503319890b2b4174218637504c5a7]{
@@ -2376,19 +2376,19 @@ Je le demande pour le noter sur mon carnet de références, mais quels autres tr
 [sha:33d8fe9458a6abc555e777852f6576fbb4da762f]{
 -- Page 134, Offset 2044.
 -- 単純に、あれが開園してから立てこんでて、遊びにいく暇がなかっただけよ。お金で解決する問題だったら、それこそ今すぐに行ってるわ」
-　C'est simplement que depuis qu'il est ouvert, j'ai été occupée et je n'ai pas eu le temps d'y aller. Si ce n'était qu'une question d'argent, alors justement, je pourrais y aller tout de suite.」
+  C'est simplement que depuis qu'il est ouvert, j'ai été occupée et je n'ai pas eu le temps d'y aller. Si ce n'était qu'une question d'argent, alors justement, je pourrais y aller tout de suite.」
 
 }
 [sha:2b3f2c7294a2174e64bcac95a12b96e1900bcad1]{
 -- Page 135, Offset 2045.
 -- ほら、と青子は教会のアルバイト代の入った封筒を見せた。
-　“Tu vois”, fit Aoko en montrant l'enveloppe contenant l'argent du travail à l'église.
+  “Tu vois”, fit Aoko en montrant l'enveloppe contenant l'argent du travail à l'église.
 
 }
 [sha:f8128cf13d5e02ce52b1c4eb8a524a5ed4efd2b2]{
 -- Page 135, Offset 2046.
 -- その仕草は明るいものだったが、それでも“行く”と口にしない青子に、草十郎はむっと顔を曇らせる。
-　Elle arborait un visage radieux, mais Sōjūrō fronça les sourcils, car malgré ça, Aoko ne comptait visiblement pas y aller.
+  Elle arborait un visage radieux, mais Sōjūrō fronça les sourcils, car malgré ça, Aoko ne comptait visiblement pas y aller.
 
 }
 [sha:028328cf2eee8d0ea1043b2943f9db62ef6188d8]{
@@ -2424,67 +2424,67 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 [sha:a032383af6121c42068d19c83148097f8726e5bf]{
 -- Page 137, Offset 2052.
 -- どうりで客がいなかった、と草十郎は納得する。
-　Voilà pourquoi il n'y avait pas de clients, réalisa Sōjūrō.
+  Voilà pourquoi il n'y avait pas de clients, réalisa Sōjūrō.
 
 }
 [sha:efca2a51128c346965e7abb4f6d8a8c81f14fc90]{
 -- Page 137, Offset 2053.
 -- 生徒会長は呆れながらも少しだけ楽しそうだ。
-　La présidente du conseil étudiant, bien que surprise, semblait légèrement amusée.
+  La présidente du conseil étudiant, bien que surprise, semblait légèrement amusée.
 
 }
 [sha:91e1be115384570e973bd142b154d9d386754452]{
 -- Page 137, Offset 2054.
 -- いつもなら“そんな事まで教えないと分からないとは！”と呆れていた彼女だが、この夕暮れにかぎっては、なんだか微笑ましく見えたらしい。
-　D'habitude, ça la sidérait et elle déclamait “Tu ne comprends vraiment rien tant qu'on ne t'a pas tout expliqué !”, mais ce soir-là, elle trouvait la chose plutôt charmante.
+  D'habitude, ça la sidérait et elle déclamait “Tu ne comprends vraiment rien tant qu'on ne t'a pas tout expliqué !”, mais ce soir-là, elle trouvait la chose plutôt charmante.
 
 }
 [sha:363befad0edb28da747581544941689022a1b335]{
 -- Page 138, Offset 2055.
 -- 蒼崎青子と別れ、アパートに帰って学校の予習に埋没していると、あっという間にアルバイトの時間になった。
-　Alors qu'il se plongeait dans la préparation des cours de l'école après s'être séparé d'Aozaki Aoko et être rentré à son appartement, l'heure du travail arriva en un clin d'œil.
+  Alors qu'il se plongeait dans la préparation des cours de l'école après s'être séparé d'Aozaki Aoko et être rentré à son appartement, l'heure du travail arriva en un clin d'œil.
 
 }
 [sha:14b21f375e764cb2e2724ee39396ebe3cecced29]{
 -- Page 138, Offset 2056.
 -- 山と都会の違いはそれこそ数えきれないが、もっとも大きな点は時間の用途だ。
-　Les différences entre la montagne et la ville étaient innombrables, mais le point le plus important était l'utilisation du temps.
+  Les différences entre la montagne et la ville étaient innombrables, mais le point le plus important était l'utilisation du temps.
 
 }
 [sha:e580b123e7bc6944251f562fe4e327bfe7ea06ed]{
 -- Page 138, Offset 2057.
 -- 此処ではともかく、時の流れが早すぎる。
-　Mis à part dans son appartement, le temps s'écoulait trop rapidement.
+  Mis à part dans son appartement, le temps s'écoulait trop rapidement.
 
 }
 [sha:92e55c82fb5cf4314850c8e1fc3becb00f1a7ece]{
 -- Page 138, Offset 2058.
 -- ちっとも頭に入らなかった参考書を片づけて、草十郎は一日の締めとばかりに夜の町に出かけていった。
-　Après avoir rangé ses aide-mémoire qu'il n'avait absolument pas mémorisés, comme pour dire que c'était fini pour la journée, Sōjūrō sortit dans la ville nocturne.
+  Après avoir rangé ses aide-mémoire qu'il n'avait absolument pas mémorisés, comme pour dire que c'était fini pour la journée, Sōjūrō sortit dans la ville nocturne.
 
 }
 [sha:755d93f88adb7353903dfe7d54710c1ce4071201]{
 -- Page 139, Offset 2059.
 -- 日付変更線を越えて、夜はますます深く眠りについていく。
-　Alors que minuit venait de passer, la nuit s'enfonçait de plus en plus dans un profond sommeil.
+  Alors que minuit venait de passer, la nuit s'enfonçait de plus en plus dans un profond sommeil.
 
 }
 [sha:60ece5022a89a8ed50b83dbd65c785153a8584db]{
 -- Page 139, Offset 2060.
 -- <襟|えり>をたてて、冷えこんだ冬の空気から首筋を守りながら、草十郎は帰路につく。
-　Sōjūrō marchait sur le chemin du retour tout en dressant la nuque et en la protégeant de l'air froid hivernal.
+  Sōjūrō marchait sur le chemin du retour tout en dressant la nuque et en la protégeant de l'air froid hivernal.
 
 }
 [sha:9cf482edcb855832aa8b0e5a026e5c757fd064c8]{
 -- Page 139, Offset 2061.
 -- 周囲には<食べ物|ひろいもの>目当ての犬もいないし、ちょっとした買い物で出歩いている人もいない。
-　Aux alentours, il n'y avait ni chiens à la recherche de nourriture, ni passants partis faire de petites courses.
+  Aux alentours, il n'y avait ni chiens à la recherche de nourriture, ni passants partis faire de petites courses.
 
 }
 [sha:86883005dfdb850c249f1e32d0341c984cc927a7]{
 -- Page 139, Offset 2062.
 -- この近くに一店だけのコンビニエンスストアも夜の十一時に閉まってしまう以上、買い物目的で外出する住民はいないのだろう。
-　Puisque la seule supérette des parages fermait à onze heures du soir, il n'y avait probablement aucun habitant de sortie pour faire des courses.
+  Puisque la seule supérette des parages fermait à onze heures du soir, il n'y avait probablement aucun habitant de sortie pour faire des courses.
 
 }
 [sha:d4a4b7363df031d5e871952393f0597dd15358ac]{
@@ -2496,25 +2496,25 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 [sha:5bb9ca24f59b3f941ba8f280bdb2be0640e344e3]{
 -- Page 140, Offset 2064.
 -- 脱力して、ひときわ深く呼吸をする。
-　Fatigué, il prit une très profonde inspiration.
+  Fatigué, il prit une très profonde inspiration.
 
 }
 [sha:7e9282bd56e7248e5ab24b27c5940a8444e290a8]{
 -- Page 140, Offset 2065.
 -- 人気のない、人工物によって築かれた町並み。
-　Les maisons désertes bâties avec des objets artificiels.
+  Les maisons désertes bâties avec des objets artificiels.
 
 }
 [sha:f5a73a53a8f4a1c0ac3db8d64d21a75440b7ab57]{
 -- Page 140, Offset 2066.
 -- 星明かりより眩しい、青い蛍光灯に照らされた暗がり。
-　Les ténèbres éclairées par les lampes fluorescentes bleues, plus éclatantes que la lumière des étoiles.
+  Les ténèbres éclairées par les lampes fluorescentes bleues, plus éclatantes que la lumière des étoiles.
 
 }
 [sha:60dacb5193afc9c87b902104945c5cb70e77aff3]{
 -- Page 140, Offset 2067.
 -- そういったものが、意識せずとも草十郎の不安をあおり立てる。
-　Toutes ces choses amplifiaient fortement l'anxiété de Sōjūrō, même s'il essayait de ne pas y faire attention.
+  Toutes ces choses amplifiaient fortement l'anxiété de Sōjūrō, même s'il essayait de ne pas y faire attention.
 
 }
 [sha:d213e67ccffa253ca2638fa60a4bb6e78ac2c639]{
@@ -2526,7 +2526,7 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 [sha:671d9bc4076def948c5977962c1f314da11edf07]{
 -- Page 141, Offset 2069.
 -- ぶるっとくる寒気に背を丸めながら、強がりを口にする。
-　Tout en ayant le dos courbé à cause du froid qui le faisait frissonner, il fit comme si de rien n'était.
+  Tout en ayant le dos courbé à cause du froid qui le faisait frissonner, il fit comme si de rien n'était.
 
 }
 [sha:93dc2f3994bce58efade8b0ad09af7c199afd136]{
@@ -2544,7 +2544,7 @@ C'est de toi qu'on parle, alors j'imagine que tu ne l'as pas remarqué, mais il 
 [sha:9f886764c4386df699af5bdee505bd1a63c5ec4c]{
 -- Page 141, Offset 2072.
 -- 何の因果か、それとも、それだけ情けない顔をしていたのか。
-　Par un obscur tour du destin, ou parce qu'il avait l'air d'être vraiment à plaindre,
+  Par un obscur tour du destin, ou parce qu'il avait l'air d'être vraiment à plaindre,
 
 }
 [sha:12b6e704d351078d0a7ceae63d466fbb1263838f]{
@@ -2562,55 +2562,55 @@ les gens que Sōjūrō avait connus jusqu'à présent l'avaient toujours mis en 
 [sha:9df4fb6ad1177bf010cb79b1a7108f50c19d869d]{
 -- Page 142, Offset 2075.
 -- 暗がりに近づくな、なんて言われても実感が湧かない。
-　Même si on lui disait de ne pas s'approcher des coins sombres, tout cela lui semblait irréel.
+  Même si on lui disait de ne pas s'approcher des coins sombres, tout cela lui semblait irréel.
 
 }
 [sha:4a793c54e543eb3c48f6cc924074165a714a7cae]{
 -- Page 142, Offset 2076.
 -- <都|こ><会|こ>には明かりのない場所はない。
-　Ici, il n'y avait pas de lieu sans lumières.
+  Ici, il n'y avait pas de lieu sans lumières.
 
 }
 [sha:b36206835656dc93065a0cf82311ac15b5c60c6c]{
 -- Page 142, Offset 2077.
 -- 大通りは言うに及ばず、駅前の喧噪から離れた住宅地にだって電灯の明かりがある。
-　Les rues principales, cela allait sans dire, et il y avait aussi la lumière des réverbères dans les quartiers résidentiels éloignés du tumulte de la gare.
+  Les rues principales, cela allait sans dire, et il y avait aussi la lumière des réverbères dans les quartiers résidentiels éloignés du tumulte de la gare.
 
 }
 [sha:cf96807c68843cf086ac434007833de3acf7718e]{
 -- Page 143, Offset 2078.
 -- 怖いのは怖いが、怖さの質が山とは違う。
-　Les choses effrayantes lui faisaient peur, mais la frayeur qu'il ressentait était différente de ce qu'il avait connu à la montagne.
+  Les choses effrayantes lui faisaient peur, mais la frayeur qu'il ressentait était différente de ce qu'il avait connu à la montagne.
 
 }
 [sha:900c36abbed57cd342867fc2be3738304d9965d8]{
 -- Page 143, Offset 2079.
 -- おそらくは根本になるルールが違うのだ。
-　C'étaient probablement les règles de base qui étaient différentes.
+  C'étaient probablement les règles de base qui étaient différentes.
 
 }
 [sha:01b270f5b64cee7ccad33653d1e895197a86bc86]{
 -- Page 143, Offset 2080.
 -- 因果応報の仕組みが一方にのみ優しく作られている。
-　Le système de répression était conçu de façon à ne pas porter atteinte à ceux qui restaient du bon côté de la loi.
+  Le système de répression était conçu de façon à ne pas porter atteinte à ceux qui restaient du bon côté de la loi.
 
 }
 [sha:29e4feba09e5dc7055e97f24723686275b3d4900]{
 -- Page 143, Offset 2081.
 -- 怖いと言えば、そのルールがまだよく分からない事の方が、田舎育ちの彼には怖い。
-　S'il fallait parler de choses effrayantes, alors, pour lui qui avait été élevé en province, le fait de ne pas encore bien comprendre ces règles lui faisait peur.
+  S'il fallait parler de choses effrayantes, alors, pour lui qui avait été élevé en province, le fait de ne pas encore bien comprendre ces règles lui faisait peur.
 
 }
 [sha:91989a461f4ed2a3970dc704bc25f272952e4458]{
 -- Page 144, Offset 2082.
 -- 山では、ルールを破った者は<そ|・><の|・><時|・><点|・>で報いを受ける。
-　En montagne, celui qui enfreignait une règle recevait instantanément sa punition.
+  En montagne, celui qui enfreignait une règle recevait instantanément sa punition.
 　
 }
 [sha:dbddc071d7c819bac2c6a57e3630299fcfba0c40]{
 -- Page 144, Offset 2083.
 -- 例えば<獣道|けものみち>。
-　Par exemple, les territoires des animaux.
+  Par exemple, les territoires des animaux.
 
 }
 [sha:257bdf4b72365f31d26af02c17dc92850044aaf6]{
@@ -2622,25 +2622,25 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:0d5be2e3ecd5308eed78a24814b9e5ce0a66be13]{
 -- Page 144, Offset 2085.
 -- このように、草十郎にとって過ちとはすぐさま返ってくるものだった。
-　De cette façon, pour Sōjūrō, une erreur était quelque chose que l'on sanctionnait sur-le-champ.
+  De cette façon, pour Sōjūrō, une erreur était quelque chose que l'on sanctionnait sur-le-champ.
 
 }
 [sha:cda6618e5ecad26145e09f9344a7e984721f0a2c]{
 -- Page 144, Offset 2086.
 -- 誰が誰を罰するというのではなく、ルールを破れば即、その間違いがカタチになって降りかかると。
-　Il n'y avait pas quelqu'un qui punissait quelqu'un d'autre, mais si l'on enfreignait les règles, alors cette erreur prenait instantanément forme et nous retombait dessus.
+  Il n'y avait pas quelqu'un qui punissait quelqu'un d'autre, mais si l'on enfreignait les règles, alors cette erreur prenait instantanément forme et nous retombait dessus.
 
 }
 [sha:d72b7b5d5b629d954c3834dec8089537c84f8deb]{
 -- Page 145, Offset 2087.
 -- 都会はそのあたりが少しだけ曖昧だと思う。
-　Il pensait que dans ce domaine, la ville était quelque peu ambiguë.
+  Il pensait que dans ce domaine, la ville était quelque peu ambiguë.
 
 }
 [sha:cc11f4ae32b2e8253143074dbe514d749cdc3f38]{
 -- Page 145, Offset 2088.
 -- だから、一体なにが正しかったのか、なにが間違っていたのか、致命的な<結末|おわり>になるまで分からない。
-　C'était pour ça qu'il ne savait pas, jusqu'à ce qu'arrive l'inéluctable fin, ce qui pouvait bien être correct et ce qui ne l'était pas.
+  C'était pour ça qu'il ne savait pas, jusqu'à ce qu'arrive l'inéluctable fin, ce qui pouvait bien être correct et ce qui ne l'était pas.
 
 }
 [sha:856366835a7c13cce324574ef22e4a9d7f6b7e81]{
@@ -2652,55 +2652,55 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:0d969696c47379448d3c8319f9ca843d20a4467c]{
 -- Page 146, Offset 2090.
 -- 単純に因果応報の効果が遅いだけ。
-　C'était simplement que la sanction arrivait plus tardivement.
+  C'était simplement que la sanction arrivait plus tardivement.
 
 }
 [sha:b32ec99c4e5e8c137685e640d4262de84d6778b3]{
 -- Page 146, Offset 2091.
 -- さらに喩えるなら、彼の田舎には村の治安維持を任された人間はいなかった。
-　Si on poussait la comparaison encore plus loin, dans sa campagne, il n'y avait personne qui était chargé de la protection de l'ordre public du village.
+  Si on poussait la comparaison encore plus loin, dans sa campagne, il n'y avait personne qui était chargé de la protection de l'ordre public du village.
 
 }
 [sha:9b5ce18c8230cdbd525b55943fe6ac59f782ff33]{
 -- Page 147, Offset 2092.
 -- 都会は人間に優しいかわりに、ルールを破った人間を罰する何者かが<据|す>えられている。
-　La ville, en échange d'être bienveillante avec les gens, chargeait quelqu'un de punir ceux qui ne respectaient pas les règles.
+  La ville, en échange d'être bienveillante avec les gens, chargeait quelqu'un de punir ceux qui ne respectaient pas les règles.
 
 }
 [sha:f8357013cd78f0fbf746509283204545c3692337]{
 -- Page 147, Offset 2093.
 -- 山では罪と罰は同義だったが、街ではその二つは切り離され、罪をおかした後に、罰を持ってくる他人がいるらしい。
-　En montagne, crime et châtiment étaient synonymes, mais en ville, les deux étaient indépendants, et apparemment, si on commettait un délit, un étranger se chargeait de l'application de la sentence.
+  En montagne, crime et châtiment étaient synonymes, mais en ville, les deux étaient indépendants, et apparemment, si on commettait un délit, un étranger se chargeait de l'application de la sentence.
 
 }
 [sha:7b40c0dc2516f5f5aad3c20deeba20e3bad9b08f]{
 -- Page 148, Offset 2094.
 -- 入ってはいけない場所。
-　Un endroit où il était interdit d'entrer.
+  Un endroit où il était interdit d'entrer.
 
 }
 [sha:2609124e129813d7b3190f43335663a5e620e5c2]{
 -- Page 148, Offset 2095.
 -- 見てはいけない出来事。
-　Un évènement que l'on ne devait pas voir.
+  Un évènement que l'on ne devait pas voir.
 
 }
 [sha:101bedb5618cc3fd5f1ea7ffd699965e174bb286]{
 -- Page 148, Offset 2096.
 -- そういったルールを破った時、何者かが罰しに来るのが社会のルールなのだ。
-　Lorsque l'on ne respectait pas ce genre de règles, la société avait pour convention de charger quelqu'un d'infliger la punition.
+  Lorsque l'on ne respectait pas ce genre de règles, la société avait pour convention de charger quelqu'un d'infliger la punition.
 
 }
 [sha:065ee4709f59d4ef3344e997d50af92202883669]{
 -- Page 149, Offset 2097.
 -- なので―――町で安全に暮らす方法というのは、余人の事情に立ち入らないこと。
-　De ce fait―――une manière de vivre en sécurité en ville était de ne pas interférer dans les affaires d'autrui.
+  De ce fait―――une manière de vivre en sécurité en ville était de ne pas interférer dans les affaires d'autrui.
 
 }
 [sha:c204ba5f3821910d208ed733f17504f8f7e86e46]{
 -- Page 149, Offset 2098.
 -- 草十郎を気遣ってくれた人たちが口を揃えて“近づくな”と言っていたのは、“そうなったら誰も助けてあげられない”からなのだろう。
-　Les personnes inquiètes pour Sōjūrō lui avaient sûrement dit de “se tenir à l'écart des autres” parce que sinon, personne ne pourrait l'aider.
+  Les personnes inquiètes pour Sōjūrō lui avaient sûrement dit de “se tenir à l'écart des autres” parce que sinon, personne ne pourrait l'aider.
 
 }
 [sha:320367bdf0b627adce677d2ab2447921017353e9]{
@@ -2712,49 +2712,49 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:1b79c0708fd9e8c000f418f39921b1383809e600]{
 -- Page 150, Offset 2100.
 -- なので、いくら邪魔だからといって人の家の塀をよじのぼって、すぐ向こうのアパートを目指してはいけないのである。
-　C'était pour cela que, peu importait à quel point ce n'était pas pratique, il ne devait pas grimper la clôture des maisons des gens dans le but de parvenir à son appartement juste de l'autre côté.
+  C'était pour cela que, peu importait à quel point ce n'était pas pratique, il ne devait pas grimper la clôture des maisons des gens dans le but de parvenir à son appartement juste de l'autre côté.
 
 }
 [sha:b281768b19482c15e69756fb34371329a3411b10]{
 -- Page 150, Offset 2101.
 -- たまたま家の人が起きていたら警察に通報されて、誰にも助けてもらえなくなってしまう。
-　Si jamais les occupants de la maison étaient réveillés, ils le signaleraient à la police, et alors, personne ne pourrait lui venir en aide.
+  Si jamais les occupants de la maison étaient réveillés, ils le signaleraient à la police, et alors, personne ne pourrait lui venir en aide.
 
 }
 [sha:060ad97878e792474f83185e94cd7be24275bd97]{
 -- Page 151, Offset 2102.
 -- そんな見当違いの都市観を持ったまま、今日も静希草十郎の一日は平穏に終わっていく。
-　En croyant à cette vision erronée de la ville, aujourd'hui aussi, Shizuki Sōjūrō termina sa journée paisiblement.
+  En croyant à cette vision erronée de la ville, aujourd'hui aussi, Shizuki Sōjūrō termina sa journée paisiblement.
 
 }
 [sha:77b08e545ade9a7ce320b5f4ebd7c919cdc2a28f]{
 -- Page 152, Offset 2103.
 -- すぐには寝つけず、床についたまま窓越しの空を眺める。
-　Ne pouvant s'endormir tout de suite, il contempla, allongé sur le sol, le ciel visible à travers la fenêtre.
+  Ne pouvant s'endormir tout de suite, il contempla, allongé sur le sol, le ciel visible à travers la fenêtre.
 
 }
 [sha:caf4e5b7f114fe51a0db3ac5e9618f9683197e56]{
 -- Page 152, Offset 2104.
 -- 都会にきた彼が最初に戦慄した<風景|もの>。
-　C'était la première chose qui l'avait fait trembler de peur en arrivant en ville.
+  C'était la première chose qui l'avait fait trembler de peur en arrivant en ville.
 
 }
 [sha:3e1eb186ea5521a39201180a069a1e761a558e32]{
 -- Page 152, Offset 2105.
 -- スイッチひとつでたいていの事は解決される便利さも、
-　Le plaisir d'avoir une solution à la plupart des choses en appuyant sur un interrupteur,
+  Le plaisir d'avoir une solution à la plupart des choses en appuyant sur un interrupteur,
 
 }
 [sha:adc4d0cff5f0261fc76517f8ba073128f3073d0c]{
 -- Page 152, Offset 2106.
 -- 壁一枚隣りに顔しか知らない他人が住んでいる新鮮さも、
-　et la nouveauté d'avoir un étranger dont il ne connaissait même pas le visage vivre de l'autre côté du mur,
+  et la nouveauté d'avoir un étranger dont il ne connaissait même pas le visage vivre de l'autre côté du mur,
 
 }
 [sha:d8c99e4c7b29eca3df8119470638562820df576c]{
 -- Page 152, Offset 2107.
 -- この夜空を見上げた時に吹き飛んだ。
-　s'étaient instantanément envolés lorsqu'il avait regardé ce ciel étoilé.
+  s'étaient instantanément envolés lorsqu'il avait regardé ce ciel étoilé.
 
 }
 [sha:8d7bf93a451b322442e2e2848b3bbb397d556eb4]{
@@ -2766,37 +2766,37 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:56804c7d47c30dc3092f62f7a4b6b6da91c24e51]{
 -- Page 153, Offset 2109.
 -- 意識せず、漠然とこぼれた言葉を覚えている。
-　Il se rappelait les mots qu'il avait laissés échapper inconsciemment, confus.
+  Il se rappelait les mots qu'il avait laissés échapper inconsciemment, confus.
 
 }
 [sha:6d91bde6ca6073ee32f15f856384c48c38016a7e]{
 -- Page 154, Offset 2110.
 -- なんて暗い星。
-　Quelles étoiles sombres !
+  Quelles étoiles sombres !
 
 }
 [sha:e58e7f1bb9db4f63732f1e85f6945f22cb01a03f]{
 -- Page 154, Offset 2111.
 -- なんて狭い空。
-　Quel ciel sinistre !
+  Quel ciel sinistre !
 
 }
 [sha:34fab4558bac8561c384bcd0c2f0d82559d16157]{
 -- Page 154, Offset 2112.
 -- ここでは星の見える夜はない。
-　Ici, il n'y a pas de nuit où les étoiles sont visibles.
+  Ici, il n'y a pas de nuit où les étoiles sont visibles.
 
 }
 [sha:f41867b0acd5c95b57b1a2de277390003c12b2fe]{
 -- Page 154, Offset 2113.
 -- 自分はここで暮らしていけるのかどうか―――
-　Est-ce que je pourrai vivre ici―――
+  Est-ce que je pourrai vivre ici―――
 
 }
 [sha:2fb3bbaddadc7d58b1b1e9b2442bf2a9a3735621]{
 -- Page 154, Offset 2114.
 -- あの夜に抱いた不安は今も変わっていない。
-　Même maintenant, l'anxiété qu'il avait éprouvée cette nuit-là n'avait pas diminué.
+  Même maintenant, l'anxiété qu'il avait éprouvée cette nuit-là n'avait pas diminué.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -2808,12 +2808,12 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 [sha:87b866e9b7c90484ac4dff9c8b4e2f501af975a7]{
 -- Page 155, Offset 2116.
 -- <瞼|まぶた>を閉じる。
-　Il ferma ses paupières.
+  Il ferma ses paupières.
 
 }
 [sha:09c4a1bb0c963185a73fddef57b5e1c1062fd6b3]{
 -- Page 155, Offset 2117.
 -- そんな女々しい悩みとは裏腹に、アルバイトと勉強で疲れた体はあっさり、ぐっすり安眠していった。
-　À l'inverse de son esprit préoccupé, son corps fatigué par le travail et les études s'endormit rapidement et profondément.
+  À l'inverse de son esprit préoccupé, son corps fatigué par le travail et les études s'endormit rapidement et profondément.
 
 }

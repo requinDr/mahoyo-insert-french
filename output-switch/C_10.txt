@@ -1,103 +1,103 @@
 [sha:965c51724a55873b5d83273effec3dfd56114cbd]{
 -- Page 0, Offset 17018.
 -- ―――詰まるところ。
-　―――En somme,
+  ―――En somme,
 
 }
 [sha:cdec9aa085ec8d28fd3c3b88813f59b8f59ec17c]{
 -- Page 0, Offset 17019.
 -- 魔術とは人智であり世界であり、
-　la Magie prend sa source dans les connaissances humaines et le monde,
+  la Magie prend sa source dans les connaissances humaines et le monde,
 
 }
 [sha:af213cac1701b1b5547c1ffd693b30f5e7ad8882]{
 -- Page 0, Offset 17020.
 -- 魔法とはそれらに含まれない、<埒|らち><天外|てんがい>の孤独である。
-　quand la Vraie Magie, elle, se trouve en dehors de ce cercle et en est complètement isolée.
+  quand la Vraie Magie, elle, se trouve en dehors de ce cercle et en est complètement isolée.
 
 }
 [sha:502a0b684afece991b45982e35f3ca347aa2686c]{
 -- Page 1, Offset 17021.
 -- ……はじめの一つは全てを変えた。
-　...... La Toute Première changea tout.
+  ...... La Toute Première changea tout.
 
 }
 [sha:141d48d798704f150dd66098699f4e334aa8ca30]{
 -- Page 1, Offset 17022.
 -- ……つぎの二つは多くを認めた。
-　...... La Seconde reconnut nombre de choses.
+  ...... La Seconde reconnut nombre de choses.
 
 }
 [sha:922fcf5b76fce9d0898f6bdfd8a1a29fee0b900e]{
 -- Page 1, Offset 17023.
 -- ……受けて三つは未来を示した。
-　...... La Troisième montra le futur.
+  ...... La Troisième montra le futur.
 
 }
 [sha:1086be048d9e5b645c3ec1fb5451de306f2722d8]{
 -- Page 1, Offset 17024.
 -- ……繋ぐ四つは姿を隠した。
-　...... La Quatrième se dissimula.
+  ...... La Quatrième se dissimula.
 
 }
 [sha:6a3976cd57ef9c1c9c63ea8d06f65ca47c811d18]{
 -- Page 1, Offset 17025.
 -- そして終わりの五つ目は、とっくに<意義|せき>を失っていた。
-　Quant à la Cinquième et dernière, elle avait depuis longtemps perdu toute importance.
+  Quant à la Cinquième et dernière, elle avait depuis longtemps perdu toute importance.
 
 }
 [sha:6e5a8320f72ef58ac92a521c194ed4516800d0f9]{
 -- Page 2, Offset 17026.
 -- 三つ目で終わっていれば良かったのに、と誰かが言った。
-　D'après certains, il aurait été préférable que la Troisième soit la dernière.
+  D'après certains, il aurait été préférable que la Troisième soit la dernière.
 
 }
 [sha:b8824f7e542d68428c914bb13040ac4a0885d42b]{
 -- Page 2, Offset 17027.
 -- 魔術とは歴史の研鑽。
-　La Magie consiste à étudier l'histoire.
+  La Magie consiste à étudier l'histoire.
 
 }
 [sha:ab3750df53a1f32724515eaf039e792a863d1459]{
 -- Page 2, Offset 17028.
 -- 人の手による<業|わざ>と、星の元に<巡|めぐ>る命だ。
-　Ce sont des techniques nées de la main de l'homme et qui trouvent leur origine sur Terre.
+  Ce sont des techniques nées de la main de l'homme et qui trouvent leur origine sur Terre.
 
 }
 [sha:0bf06bbcfed0a4d8895737c7ee7cccadd8e5ed86]{
 -- Page 2, Offset 17029.
 -- けれど魔法は<天|てん>の<外|そと>の神の摂理。
-　Mais la Vraie Magie tient de la providence divine par-delà les cieux.
+  Mais la Vraie Magie tient de la providence divine par-delà les cieux.
 
 }
 [sha:e2677da0907db37eb7d4715aca398ea67e3ab6a9]{
 -- Page 2, Offset 17030.
 -- 人にも星にも含まれない<業|わざ>を、一体地上の誰が、どうして、奇跡と<讃|たた>え<尊|とうと>ぶものか。
-　Sur Terre, qui peut se permettre de vénérer comme des miracles ces techniques étrangères à l'homme et leur astre ? Et pourquoi ?
+  Sur Terre, qui peut se permettre de vénérer comme des miracles ces techniques étrangères à l'homme et leur astre ? Et pourquoi ?
 
 }
 [sha:5b033f947c955d5a2a737f1982018da065efe5d8]{
 -- Page 3, Offset 17031.
 -- 明白な罪科。
-　Ce n'est ni plus ni moins qu'un péché.
+  Ce n'est ni plus ni moins qu'un péché.
 
 }
 [sha:7c9b202f013c3ff415618912369051f156484512]{
 -- Page 3, Offset 17032.
 -- 魔法とは、人類の敵そのもの。
-　La Vraie Magie incarne l'ennemi du genre humain.
+  La Vraie Magie incarne l'ennemi du genre humain.
 
 }
 [sha:7a633176910d5d93f3bd221e909b7145c6ef483b]{
 -- Page 3, Offset 17033.
 -- 故に―――
-　C'est pourquoi―――
+  C'est pourquoi―――
 
 }
 [sha:41cde346a48eb8e46b15b79c6989e36fe18cb8f8]{
 -- Page 3, Offset 17034.
 -- <新|あら>たに魔法を<宿|やど>したものは、その赤い影に殺される。
-　les nouveaux Magiciens se font tuer par cette silhouette rouge.
+  les nouveaux Magiciens se font tuer par cette silhouette rouge.
 
 }
 [sha:508ae7fb2f41731de0dae4a7436beff3f226151d]{
@@ -109,19 +109,19 @@
 [sha:3d6c8b1faa51071a98e276ceae64b2002e9ea3c5]{
 -- Page 4, Offset 17036.
 -- 声は高らかに、冬の空に響き渡る。
-　Sa voix puissante retentit dans le ciel d'hiver.
+  Sa voix puissante retentit dans le ciel d'hiver.
 
 }
 [sha:bd100d46320621fbe1173ecbf8a3c3a61b9abdba]{
 -- Page 4, Offset 17037.
 -- 空間そのものに走る断裂。
-　L'atmosphère elle-même se déchirait.
+  L'atmosphère elle-même se déchirait.
 
 }
 [sha:546373effb36bffcd92c6765b3bd65724692741d]{
 -- Page 4, Offset 17038.
 -- 周囲の<風景|カタチ>が軋んでいく様は、<伽藍|がらん>の崩壊を思わせる。
-　La manière dont l'air crépitait laissait imaginer l'effondrement d'un temple.
+  La manière dont l'air crépitait laissait imaginer l'effondrement d'un temple.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -133,61 +133,61 @@
 [sha:c2ca0ed16c42709dcca8b1e3c28a27a4a0df62aa]{
 -- Page 5, Offset 17040.
 -- 撤退すべきか、それとも戦うべきか。
-　Devait-elle se replier ou bien combattre ?
+  Devait-elle se replier ou bien combattre ?
 
 }
 [sha:988d8811178c46f44bdcbabce5b0ec6fbe86f1fb]{
 -- Page 5, Offset 17041.
 -- 橙子は<逸|はや>る気持ちを抑えながら、無様にも事の<顛末|てんまつ>を見届けてしまう。
-　Tōko observait chaque détail tout en s'efforçant de maîtriser son impatience.
+  Tōko observait chaque détail tout en s'efforçant de maîtriser son impatience.
 
 }
 [sha:17ccdf0fcb51064450fe1ffeae0123cc188c70f7]{
 -- Page 5, Offset 17042.
 -- 長年の苦悩―――これまで追い続けてきたモノを前にして、合理的な判断などできよう筈がない。
-　Elle se trouvait enfin face à ce qu'elle avait poursuivi pendant de longues et pénibles années, et il lui était impossible de prendre une décision rationnelle.
+  Elle se trouvait enfin face à ce qu'elle avait poursuivi pendant de longues et pénibles années, et il lui était impossible de prendre une décision rationnelle.
 
 }
 [sha:6bef8a6bf6b71c5b291318db93376d9b6e9816d2]{
 -- Page 6, Offset 17043.
 -- 互いの命運は、今や不確定にたゆたっている。
-　Leur destin était à présent incertain.
+  Leur destin était à présent incertain.
 
 }
 [sha:36fbaefbf06e368123c722c413371b8753966671]{
 -- Page 6, Offset 17044.
 -- 背後の魔術刻印と地形の有利性から、橙子の戦力は青子の十倍強。負ける道理はない。
-　Grâce au Sceau Magique qui flottait dans son dos et à son avantage topographique, Tōko était dix fois plus forte qu'Aoko. Il n'y avait aucun moyen qu'elle perde.
+  Grâce au Sceau Magique qui flottait dans son dos et à son avantage topographique, Tōko était dix fois plus forte qu'Aoko. Il n'y avait aucun moyen qu'elle perde.
 
 }
 [sha:c3b76a172a486b99ff5e5d0614a79c69913a9d7b]{
 -- Page 7, Offset 17045.
 -- だが魔法は別だ。
-　Cependant, l'entrée en scène de la Vraie Magie changeait la donne.
+  Cependant, l'entrée en scène de la Vraie Magie changeait la donne.
 
 }
 [sha:c619288f738161bb7050b46a959f02288f80dd62]{
 -- Page 7, Offset 17046.
 -- 仮に、蒼崎の魔法が久遠寺有珠の“童話の怪物”と同系統のモノなら、術者の力量差は関係ない。
-　Si la Vraie Magie des Aozaki était comparable aux “monstres de contes de fées” de Kuonji Alice, alors les capacités de son utilisateur importaient peu.
+  Si la Vraie Magie des Aozaki était comparable aux “monstres de contes de fées” de Kuonji Alice, alors les capacités de son utilisateur importaient peu.
 
 }
 [sha:756d182ec00f0d2289cd03bff9c161650fd9ed68]{
 -- Page 7, Offset 17047.
 -- その時は“魔法”と“蒼崎橙子”の戦いになる。
-　Dans ce cas de figure, le combat opposerait alors la “Vraie Magie” à “Aozaki Tōko”.
+  Dans ce cas de figure, le combat opposerait alors la “Vraie Magie” à “Aozaki Tōko”.
 
 }
 [sha:1bf6bd7cdd660a80a7b75eb4f7860e8b4c25765a]{
 -- Page 7, Offset 17048.
 -- ……勝ち目はない。
-　...... Elle n'aurait aucune chance.
+  ...... Elle n'aurait aucune chance.
 
 }
 [sha:521164ca841a712a5ff41c49306f68d611502864]{
 -- Page 7, Offset 17049.
 -- 魔法の特異性、超越性は、魔術の技量差など吹き飛ばしてしまうだろう。
-　La singularité de la Vraie Magie, sa nature transcendante, l'emporterait sur la différence de talent magique.
+  La singularité de la Vraie Magie, sa nature transcendante, l'emporterait sur la différence de talent magique.
 
 }
 [sha:374b85c6643cbdae44813feb76ce388f0ccfd2d5]{
@@ -199,43 +199,43 @@
 [sha:39a5912927231e2f65c5b8b799095ac1dd12b5e1]{
 -- Page 8, Offset 17051.
 -- 本当に使えるのか、と橙子は妹を凝視する。
-　Peut-elle vraiment l'utiliser ? se demanda Tōko, le regard fixé sur sa petite sœur.
+  Peut-elle vraiment l'utiliser ? se demanda Tōko, le regard fixé sur sa petite sœur.
 
 }
 [sha:d8f3b8086a9f810f7a1f850b9aa8d93d482d8196]{
 -- Page 8, Offset 17052.
 -- 今の宣言には力がなかった。
-　Sa déclaration n'avait recelé aucune force.
+  Sa déclaration n'avait recelé aucune force.
 
 }
 [sha:ad2926361290f5fa9c31819f0637bb06dbf59059]{
 -- Page 8, Offset 17053.
 -- 高らかに声をあげながら、あるのは自制心だけで、何者をも代償にする<傲慢|つよさ>が存在しなかった。
-　Elle s'était exprimée à pleine voix, mais celle-ci ne dégageait que maîtrise de soi. Elle ne montrait aucunement l'arrogance d'une personne prête à sacrifier n'importe qui.
+  Elle s'était exprimée à pleine voix, mais celle-ci ne dégageait que maîtrise de soi. Elle ne montrait aucunement l'arrogance d'une personne prête à sacrifier n'importe qui.
 
 }
 [sha:515a747f2a3f6147313c93bcb41d60b2438b0944]{
 -- Page 9, Offset 17054.
 -- 魔法を身に宿すとはどのような事なのか、選ばれなかった橙子には分からない。
-　Tōko n'avait pas été choisie, elle n'avait donc aucun moyen de savoir ce qu'impliquait d'abriter en soi la Vraie Magie.
+  Tōko n'avait pas été choisie, elle n'avait donc aucun moyen de savoir ce qu'impliquait d'abriter en soi la Vraie Magie.
 
 }
 [sha:220d1f21dc75b27bd08cf4694575dc2a940411cf]{
 -- Page 9, Offset 17055.
 -- だが世界を変えるという暴挙。
-　Cela dit, on disait ce pouvoir capable de changer le monde.
+  Cela dit, on disait ce pouvoir capable de changer le monde.
 
 }
 [sha:8447dd4eb9b14e31461fcc86aa71cc824ae02506]{
 -- Page 9, Offset 17056.
 -- 星を敵に回す<不遜|ふそん>に、人の精神が耐えられる筈がない。
-　L'esprit de l'homme n'était pas censé être assez résistant pour supporter l'arrogance que présupposait une révolte contre la planète.
+  L'esprit de l'homme n'était pas censé être assez résistant pour supporter l'arrogance que présupposait une révolte contre la planète.
 
 }
 [sha:3f5c25cf49f234d3727b3b6803babd4be2228322]{
 -- Page 9, Offset 17057.
 -- 迷いがあるのなら尚のこと、あの少女には魔法の力は重すぎる―――！
-　D'autant plus si elle hésitait. La puissance de la Vraie Magie était trop lourde à porter pour cette fille―――!
+  D'autant plus si elle hésitait. La puissance de la Vraie Magie était trop lourde à porter pour cette fille―――!
 
 }
 [sha:85f87b5abb9a3e0916301f6e19432de842765c43]{
@@ -247,19 +247,19 @@
 [sha:0ec9c7c2589de8e16b93594069a808e6822f63a5]{
 -- Page 10, Offset 17059.
 -- 橙子の視線を受けて、青子はひとり自嘲した。
-　murmura Aoko sur un ton ironique, sous le regard de Tōko.
+  murmura Aoko sur un ton ironique, sous le regard de Tōko.
 
 }
 [sha:ad2a8be0ca62e87110fae72536d3b7edc813b277]{
 -- Page 10, Offset 17060.
 -- 迷いは晴れない。
-　Elle ne parvenait pas à se défaire de ses doutes.
+  Elle ne parvenait pas à se défaire de ses doutes.
 
 }
 [sha:da7116ed4544d7a88eaca092eeac07afa60dc4e6]{
 -- Page 10, Offset 17061.
 -- 胸の恐れが消える事なんてきっとない。
-　La terreur qui remuait ses entrailles ne la quitterait sans doute jamais.
+  La terreur qui remuait ses entrailles ne la quitterait sans doute jamais.
 
 }
 [sha:70c7a28c2386ac81fe9c4eb7cd7e3fbf9ee410e5]{
@@ -271,91 +271,91 @@
 [sha:5e561553bb39e8fb87b8db988336012d59fa4e81]{
 -- Page 11, Offset 17063.
 -- いつまでも逃げる訳にはいかない。
-　... pour fuir éternellement.
+  ... pour fuir éternellement.
 
 }
 [sha:ca37b08d9e808673ef6ebb2a351ad541aa754b42]{
 -- Page 11, Offset 17064.
 -- 迷いも恐れも消えないからこそ、そんなもので立ち止まる自分が許せないと。
-　Elle ne se pardonnerait jamais si elle s'arrêtait à cause de l'hésitation et de la terreur qui la tiraillaient.
+  Elle ne se pardonnerait jamais si elle s'arrêtait à cause de l'hésitation et de la terreur qui la tiraillaient.
 
 }
 [sha:073b8e07852f72f03e4cc709999c70823f9cb98b]{
 -- Page 11, Offset 17065.
 -- 瞳を閉じて、彼女は最後の工程に身を投げた。
-　La jeune fille ferma les yeux et se lança dans la dernière étape.
+  La jeune fille ferma les yeux et se lança dans la dernière étape.
 
 }
 [sha:af14e43bb5bcf6f0c7f14191fdab793ab4bebaf9]{
 -- Page 12, Offset 17066.
 -- 光を閉ざすように、時を止める。
-　Elle stoppa le temps comme pour éteindre la lumière.
+  Elle stoppa le temps comme pour éteindre la lumière.
 
 }
 [sha:198a3f040df7dc6e4e18800c64c94db36eab7efb]{
 -- Page 12, Offset 17067.
 -- そして、彼女は自己の闇へと埋没した。
-　Puis elle plongea dans ses propres ténèbres.
+  Puis elle plongea dans ses propres ténèbres.
 
 }
 [sha:aa70c6ae3e526f2250b73ecd6ea830a2c6eba894]{
 -- Page 12, Offset 17068.
 -- 何もかもが止まったまま過ぎていく。
-　Tout s'écoulait, bien qu'à l'arrêt.
+  Tout s'écoulait, bien qu'à l'arrêt.
 
 }
 [sha:ba817fd6035d278cb5a76851070075d598d4ce86]{
 -- Page 12, Offset 17069.
 -- 彼女以外のすべてが途絶えた、果てのない星の運河に。
-　Elle se trouvait dans un défilé d'étoiles sans fin où toute chose, sauf elle, était suspendue.
+  Elle se trouvait dans un défilé d'étoiles sans fin où toute chose, sauf elle, était suspendue.
 
 }
 [sha:d01ac1dcc0e6e92f598ffba3caca4591c4ba3218]{
 -- Page 13, Offset 17070.
 -- 途端。
-　Aussitôt,
+  Aussitôt,
 
 }
 [sha:3373ce563051a481ab525c475ce727241a5ec044]{
 -- Page 13, Offset 17071.
 -- 何の答えもなく<彼|コ><方|コ>に訪れた浅はかさに、消えたくなる。
-　elle se sentit stupide de visiter cet endroit sans apporter aucune réponse.
+  elle se sentit stupide de visiter cet endroit sans apporter aucune réponse.
 
 }
 [sha:80b5d36547c1aff0f1b7b3ae784d0abcf6f91bae]{
 -- Page 14, Offset 17072.
 -- ―――ああ、また。
-　　　　　　　　　　　　　　　―――Aah, encore.
+                              ―――Aah, encore.
 
 }
 [sha:6138ce41965bbf11b7d667b60d2be2ec5fb724d5]{
 -- Page 14, Offset 17073.
 -- 今度こそ、あの赤い影がやってくる。
-　Cette fois c'est sûr, cette silhouette rouge arrive.
+  Cette fois c'est sûr, cette silhouette rouge arrive.
 
 }
 [sha:c5bdc517f5d6e241f80d369903de6c45be5941fc]{
 -- Page 15, Offset 17074.
 -- 不意に、
-　Soudain,
+  Soudain,
 
 }
 [sha:6e7ab26e1035ae785eac3777fa16faf8b9d10e5a]{
 -- Page 15, Offset 17075.
 -- 新しい記憶を見た。
-　　　　　je vis un nouveau souvenir.
+          je vis un nouveau souvenir.
 
 }
 [sha:ecaa6dbda8ee0947ca945829159d96fafc15f25f]{
 -- Page 15, Offset 17076.
 -- 他者を媒介にして　　を交換しようとした結果だろう。
-　Sûrement parce que j'avais tenté d'échanger le         en prenant quelqu'un d'autre comme intermédiaire.
+  Sûrement parce que j'avais tenté d'échanger le         en prenant quelqu'un d'autre comme intermédiaire.
 
 }
 [sha:3e7b389d9818f75413cd9d6a037e7dbfd5319feb]{
 -- Page 15, Offset 17077.
 -- ワタシは、聞いた事もないクセに、慣れ親しんだその音を聴く。
-　J'écoutai ce son qui, bien que nouveau pour moi, me paraissait familier.
+  J'écoutai ce son qui, bien que nouveau pour moi, me paraissait familier.
 
 }
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
@@ -373,43 +373,43 @@ Afin de ne rien souhaiter.
 [sha:287d1f40cb441c9882ef32f4e40263353c80c2aa]{
 -- Page 16, Offset 17080. Glued. Mods: @i, @a, @e.
 -- 何も求めないように。
-　　　　　　　　Afin de ne rien convoiter.
+                                      Afin de ne rien convoiter.
 
 }
 [sha:bb51c81d09ad26fdae9e046774b47bb7a5155fe8]{
 -- Page 16, Offset 17081.
 -- 今はゼロに向けて逆行する意識を、
-　Maintenant, je dois unifier ma conscience avec la sienne,
+  Maintenant, je dois unifier ma conscience avec la sienne,
 
 }
 [sha:bb2cbb07e3e183a83409ee38eda8318e3b8e2beb]{
 -- Page 16, Offset 17082.
 -- 一つに統合しなくてはならない。
-　　　　　　　　　　　　　alors qu'elle tente de retourner au néant.
+                          alors qu'elle tente de retourner au néant.
 
 }
 [sha:d3beb759229144ab4349a2af3d81f3bc888fb3cd]{
 -- Page 16, Offset 17083.
 -- こんな音。
-　Ce son.
+  Ce son.
 
 }
 [sha:36ee4a675610a3e9255acc94445a1bc9cceb2b1d]{
 -- Page 16, Offset 17084.
 -- こんな、悔しくて涙がでそうな戯言に、
-　Je n'ai pas le temps de me soucier d'inepties
+  Je n'ai pas le temps de me soucier d'inepties
 
 }
 [sha:be22aacb5e45452bfe778d1a8b6f178e827f65c9]{
 -- Page 16, Offset 17085.
 -- 後ろ髪を引かれている場合じゃない。
-　　　　　　　　　　　qui m'ulcèrent à un tel point que j'en ai envie de pleurer.
+                      qui m'ulcèrent à un tel point que j'en ai envie de pleurer.
 
 }
 [sha:ba2c9945d025ab0db00b455f51ec4f151d99bd26]{
 -- Page 16, Offset 17086.
 -- そもそもワタシの最大の問題は、あの赤い幽霊で―――
-　Primo, mon plus gros problème, c'est ce fantôme rouge, alors―――
+  Primo, mon plus gros problème, c'est ce fantôme rouge, alors―――
 
 }
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
@@ -427,37 +427,37 @@ Tu ne dois ni réfléchir à la valeur de la vie,
 [sha:5261f7dbce13f16f4c0cb15417e6e56c766e27ca]{
 -- Page 17, Offset 17089. Glued. Mods: @i, @a, @e.
 -- 死の<尊|とうと>さも、考えてはいけません。
-　　　　　　　ni songer à la noblesse de la mort.
+                            ni songer à la noblesse de la mort.
 
 }
 [sha:dc75de392cedcbc91fe267f69144d3ee136baed9]{
 -- Page 17, Offset 17090.
 -- 音は続いていく。
-　Le son continuait.
+  Le son continuait.
 
 }
 [sha:c85a7df44de6b067734af9debf7ecf5956c2e737]{
 -- Page 17, Offset 17091.
 -- それはこの旅路に組みこまれている物ではなく、
-　Mais il ne faisait pas partie intégrante du voyage,
+  Mais il ne faisait pas partie intégrante du voyage,
 
 }
 [sha:0b70f492af1e91770d33bc283466779f58fb8422]{
 -- Page 17, Offset 17092.
 -- 外部からの妨害に他ならない。
-　　　　　　　　　　　　　　ce n'était rien d'autre qu'un obstacle venu de l'extérieur.
+                            ce n'était rien d'autre qu'un obstacle venu de l'extérieur.
 
 }
 [sha:dbb13c6bd5b6c3768466cb10ee155d4d6e680490]{
 -- Page 17, Offset 17093.
 -- なのに、ここまで自分の心を乱す音の正体を、
-　Pourtant, je réalisai enfin la nature de ce son.
+  Pourtant, je réalisai enfin la nature de ce son.
 
 }
 [sha:bace9db8288908160f2ac2b5cd6bfad10f1ce9ef]{
 -- Page 17, Offset 17094.
 -- ワタシはようやく悟った。
-　　　　　　　　　　　　　　　　Ce bruit de fond qui perturbait tant mon cœur.
+                                Ce bruit de fond qui perturbait tant mon cœur.
 
 }
 [sha:27b65e0c6977143a91b3596705fb4079fd7ecd0a]{
@@ -469,43 +469,43 @@ Tu ne dois ni réfléchir à la valeur de la vie,
 [sha:2d52f89d77907f43c8f147ffaf0306ed52550cfd]{
 -- Page 18, Offset 17096.
 -- 不快げな呟きは、音の主に向けられたものだった。
-　Le murmure de dégoût s'adressait à l'auteur du bruit.
+  Le murmure de dégoût s'adressait à l'auteur du bruit.
 
 }
 [sha:458fdf9962f4d33a541ef851b73532bad0e198fb]{
 -- Page 18, Offset 17097.
 -- もしくは、その声をおとなしく聞いている誰かに対して。
-　Ou alors, à la personne qui écoutait bien sagement cette voix.
+  Ou alors, à la personne qui écoutait bien sagement cette voix.
 
 }
 [sha:a0c3eac90064e20d97eb24ed63e937e18472f2e5]{
 -- Page 19, Offset 17098.
 -- 赤い影は戸惑っている。
-　La silhouette rouge est perplexe.
+  La silhouette rouge est perplexe.
 
 }
 [sha:acbd4b5564a0bfeadb692406c40f65b744f502a2]{
 -- Page 19, Offset 17099.
 -- 答えも覚悟も持ってこなかったワタシを、憎悪に満ちた目で睨んでいる。
-　Elle me fixe d'un regard empli de haine, moi qui ne possède ni réponse ni résolution.
+  Elle me fixe d'un regard empli de haine, moi qui ne possède ni réponse ni résolution.
 
 }
 [sha:f91b2c6109c9ea2f109d861c5d560e1b7f7a33d8]{
 -- Page 19, Offset 17100.
 -- オマエは、まさか。
-　Ne me dis pas que...
+  Ne me dis pas que...
 
 }
 [sha:ba0673f68b3b9f32bae0379c36b5ef2408ded782]{
 -- Page 19, Offset 17101.
 -- まさか、<そ|・><ん|・><な|・><理|・><由|・><で|・>。
-　Ne me dis pas que c'est ça ta raison ?
+  Ne me dis pas que c'est ça ta raison ?
 
 }
 [sha:e29e6de4aa8dd4df5175940265bb1d90e73f7575]{
 -- Page 19, Offset 17102.
 -- そんな思いつきで、ワタシの獲物になるつもりか―――！
-　Tu ne comptes tout de même pas devenir ma proie sur un coup de tête pareil ?!
+  Tu ne comptes tout de même pas devenir ma proie sur un coup de tête pareil ?!
 
 }
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
@@ -523,79 +523,79 @@ C'est tout ce que tu possèdes.
 [sha:605d95a0028f11e9bc5fac90a1d1ef4c962a270c]{
 -- Page 20, Offset 17105. Glued. Mods: @i, @a, @e.
 -- それ以外、貴方には何も無いのです。
-　　　　　En dehors de cela, rien ne t'appartient.
+                                En dehors de cela, rien ne t'appartient.
 
 }
 [sha:12e9475c80b7292b43998b4c0807e25eca30c936]{
 -- Page 20, Offset 17106.
 -- 巻き戻しの影響―――否を許さない断定。
-　À cause du rembobinage―――la décision ne tolérait aucun refus.
+  À cause du rembobinage―――la décision ne tolérait aucun refus.
 
 }
 [sha:3c347f29badb3301e78fee63aa5da1119d73296e]{
 -- Page 20, Offset 17107.
 -- 彼の一番だった頃―――あまりにも意味のない人生。
-　Elle visionnait la plus belle période de sa vie―――vie dénuée de sens.
+  Elle visionnait la plus belle période de sa vie―――vie dénuée de sens.
 
 }
 [sha:d36d4a97d3ca82e64f76b3fd748e168d3af4ea4d]{
 -- Page 20, Offset 17108.
 -- それを彼女は打ち消した。
-　Elle la rejeta.
+  Elle la rejeta.
 
 }
 [sha:b4b49414bc26f59c696648c23450d6883b591d68]{
 -- Page 20, Offset 17109.
 -- 彼にとって絶対の<原則|もの>であるその音を、さらに上回る力強さで。
-　Et ce d'une force surpassant celle de la voix qui symbolisait un principe absolu pour lui,
+  Et ce d'une force surpassant celle de la voix qui symbolisait un principe absolu pour lui,
 
 }
 [sha:e82d1e18841900dddd4ddacabb2b0d5cf878fe1f]{
 -- Page 20, Offset 17110.
 -- 邪魔だ、と目の前の蜘蛛の巣を払い除けるように。
-　comme si elle avait écarté une toile d'araignée qui lui barrait le chemin.
+  comme si elle avait écarté une toile d'araignée qui lui barrait le chemin.
 
 }
 [sha:76d83b324877488a7936cf18215680ba3eb4f252]{
 -- Page 21, Offset 17111.
 -- 音は千切れ、また違う音が耳に響く。
-　Le bruit fut réduit en pièces, remplacé par un autre.
+  Le bruit fut réduit en pièces, remplacé par un autre.
 
 }
 [sha:a2ece23f982661ded938f1e81412a40a9fe0a932]{
 -- Page 21, Offset 17112. Mods: @c, @n.
 -- ／何も望まない。
-　　　　　　　　　／Je ne souhaite rien.
+                  ／Je ne souhaite rien.
 
 }
 [sha:ab39b3c3a4c00081ce56d9ba7eb2157c613f3868]{
 -- Page 21, Offset 17113. Glued. Mods: @r.
 -- 何も欲しくない。
-Je ne désire rien.
+ Je ne désire rien.
 
 }
 [sha:b54bbe8cdbd970a85623027c182bdd75df48f7f6]{
 -- Page 21, Offset 17114.
 -- 断定に従う、無垢な心。
-　Le cœur pur se conformait à ces propos.
+  Le cœur pur se conformait à ces propos.
 
 }
 [sha:45c3bcad1f60ada0c8849ee11fda73668ad2ccbb]{
 -- Page 21, Offset 17115. Mods: @c, @n.
 -- ／だから、
-　　　　　　　　／Voilà pourquoi
+                ／Voilà pourquoi
 
 }
 [sha:7ae318af1cfcec62b2a37c1fad03efc4aeb8d10a]{
 -- Page 21, Offset 17116. Glued. Mods: @r.
 -- 何を与えられる事はない。
-je ne recevrai jamais rien.
+ je ne recevrai jamais rien.
 
 }
 [sha:991597afd5c5bef34112eaaf297cebed9dae7f17]{
 -- Page 21, Offset 17117.
 -- 肯定が導く、不実の命。
-　C'était une vie perfide guidée par l'affirmation.
+  C'était une vie perfide guidée par l'affirmation.
 
 }
 [sha:e2b7725f063af9cfeef499bfa751ad8e12aef706]{
@@ -607,19 +607,19 @@ je ne recevrai jamais rien.
 [sha:e68d2299c0fe6c3d00e073f95460e5eb65401a8f]{
 -- Page 22, Offset 17119.
 -- <未|ま><来|え>を目指す足が止まる。
-　J'interromps mon avancée.
+  J'interromps mon avancée.
 
 }
 [sha:43a31701c844d1f7156471ad88b3dc13e30c2698]{
 -- Page 22, Offset 17120.
 -- ワタシは思いつきで<航|み><路|ち>を変える。
-　Je change de chemin sur un caprice.
+  Je change de chemin sur un caprice.
 
 }
 [sha:281f8bce932fd3d0ce42c65adc47e066ea973886]{
 -- Page 22, Offset 17121.
 -- 大事なものが変わったというより、ひどく頭にくるコトができてしまって、なんて言うか―――
-　Ce n'est pas que mes priorités ont changé, juste que quelque chose m'a énormément énervée. Pour faire simple―――
+  Ce n'est pas que mes priorités ont changé, juste que quelque chose m'a énormément énervée. Pour faire simple―――
 
 }
 [sha:a140046b6e5ec38d38613afacd26e15ed5251392]{
@@ -631,31 +631,31 @@ je ne recevrai jamais rien.
 [sha:9efd70097e7f8f7ed89d85e024f346ef2440fa5a]{
 -- Page 23, Offset 17123.
 -- 誰かに、文句の一つでも言わないと気が済まない……！！
-　Si je ne me défoule pas sur quelqu'un, je n'arriverai jamais à me calmer......!!
+  Si je ne me défoule pas sur quelqu'un, je n'arriverai jamais à me calmer......!!
 
 }
 [sha:5721f10ffc66a472887e01d92e7faf7bb516bb7c]{
 -- Page 24, Offset 17124.
 -- 声の主か、それを聞き届ける彼か、
-　Sur l'auteur de la voix ? Ou sur lui, qui l'écoute sans bouger un doigt ?
+  Sur l'auteur de la voix ? Ou sur lui, qui l'écoute sans bouger un doigt ?
 
 }
 [sha:51f064806f8b096a296b7fc8dfc466c24c58a0cb]{
 -- Page 24, Offset 17125.
 -- それを黙って見ているだけの自分か、
-　Sur moi-même qui ne fait que regarder en silence ?
+  Sur moi-même qui ne fait que regarder en silence ?
 
 }
 [sha:046a93a439ab963fc544a43da4c82ce92a4271ec]{
 -- Page 24, Offset 17126.
 -- それとも、彼をそうしてしまった何者へか。
-　Ou encore sur la personne qui lui a fait ça ?
+  Ou encore sur la personne qui lui a fait ça ?
 
 }
 [sha:2a21193d815da3e22b71e5206bb5dc0ebb4fa2db]{
 -- Page 24, Offset 17127.
 -- 答えは出ないまま、ワタシは閉じた<目蓋|まぶた>を開いて―――
-　Sans trouver de réponses à ces questions, j'ouvre les paupières que j'avais fermées―――
+  Sans trouver de réponses à ces questions, j'ouvre les paupières que j'avais fermées―――
 
 }
 [sha:c11f097d05fb8c39cf558d2d03be291c4fca0720]{
@@ -667,49 +667,49 @@ je ne recevrai jamais rien.
 [sha:4bf0753ca130042090e3c0028dbedd57aca935b5]{
 -- Page 25, Offset 17129.
 -- 引き上げてきたものを解放する。
-　Elle relâcha les choses qu'elle avait halées.
+  Elle relâcha les choses qu'elle avait halées.
 
 }
 [sha:ce41c8c37b07ff5f01de91a0361f9f55bb72bf2a]{
 -- Page 25, Offset 17130.
 -- 何を見てきたのか、何があったのかなど、青子の記憶には残っていない。
-　Aoko ne se rappelait pas ce qu'elle avait vu ou ce qui s'était passé.
+  Aoko ne se rappelait pas ce qu'elle avait vu ou ce qui s'était passé.
 
 }
 [sha:4ec8d71cd07b05618ca26e98023262042001e619]{
 -- Page 25, Offset 17131.
 -- あるのは心臓を<昂|たか>ぶらせる激情だけ。
-　En elle ne persistait qu'une puissante émotion qui stimulait son cœur.
+  En elle ne persistait qu'une puissante émotion qui stimulait son cœur.
 
 }
 [sha:f7751948c0ca110de0e53fe760331fa34c8a172d]{
 -- Page 25, Offset 17132.
 -- 自分でも正体の分からないものに押されて、彼女は魔法のフタを開く。
-　Elle libéra la Vraie Magie, influencée par une chose dont elle ignorait la nature.
+  Elle libéra la Vraie Magie, influencée par une chose dont elle ignorait la nature.
 
 }
 [sha:f1722f140f5edd02ee510f56f29bb3d5ecee0d55]{
 -- Page 26, Offset 17133.
 -- 変化は劇的だった。
-　Le changement fut théâtral.
+  Le changement fut théâtral.
 
 }
 [sha:406ac00c797f2f0e1ad2a4caae73271c218695e4]{
 -- Page 26, Offset 17134.
 -- 少女の足下の雪が消え、緑の地面が<覗|のぞ>いていく。
-　À ses pieds, la neige disparut et laissa la place à un sol verdoyant.
+  À ses pieds, la neige disparut et laissa la place à un sol verdoyant.
 
 }
 [sha:ec33d035ca6608ef74ae8424b385cd8f3769c427]{
 -- Page 26, Offset 17135.
 -- それは雪解けによるものではなく、まったく別の風景に書き換わったものであり、
-　Le phénomène n'était pas dû à la fonte des neiges, mais à une réécriture du paysage en un nouveau panorama.
+  Le phénomène n'était pas dû à la fonte des neiges, mais à une réécriture du paysage en un nouveau panorama.
 
 }
 [sha:314c1573d4835872b446eeb219e393c87135024c]{
 -- Page 26, Offset 17136.
 -- それを批難するように、あらゆる要素が、彼女の行為を消しにかかる。
-　Et comme s'ils condamnaient cet acte, tous les éléments se rallièrent pour effacer l'action de la jeune fille.
+  Et comme s'ils condamnaient cet acte, tous les éléments se rallièrent pour effacer l'action de la jeune fille.
 
 }
 [sha:7e9a7c5d997ac6ad1d1de936616eb3f5242f6c4e]{
@@ -721,19 +721,19 @@ je ne recevrai jamais rien.
 [sha:166326c32c28bb78ae6a09ea09adc699c096a9de]{
 -- Page 27, Offset 17138.
 -- 放電は彼女自身をも許さない。
-　Les décharges électriques ne l'épargnaient pas elle non plus.
+  Les décharges électriques ne l'épargnaient pas elle non plus.
 
 }
 [sha:353dbfb0b8d72f39fc08c01a919986aa5a2ce39e]{
 -- Page 27, Offset 17139.
 -- その奇跡は世界を壊すと。
-　Estimant que ce miracle le détruirait,
+  Estimant que ce miracle le détruirait,
 
 }
 [sha:f9f37460c138b72315d0dcd1362ee971d86782ea]{
 -- Page 27, Offset 17140.
 -- 自らの保身の為、世界自身が彼女の抹殺に動き出す。
-　le monde lui-même se mit en mouvement afin de supprimer la fille et se protéger.
+  le monde lui-même se mit en mouvement afin de supprimer la fille et se protéger.
 
 }
 [sha:95330daae521e993dd0ce2f17c1b9dd042321a17]{
@@ -745,25 +745,25 @@ je ne recevrai jamais rien.
 [sha:ce4160dbe3de6f20fc39ff17ad3e4f435ddfbf2e]{
 -- Page 28, Offset 17142.
 -- 全身の細胞を焼く痛みに、意識が現世から消失する。
-　Sa conscience s'estompait à cause de la douleur écrasante que subissaient les cellules de son corps.
+  Sa conscience s'estompait à cause de la douleur écrasante que subissaient les cellules de son corps.
 
 }
 [sha:5858b91504054b057482ad37dfa5bc9fbf57e907]{
 -- Page 28, Offset 17143.
 -- だが怯まない。
-　Mais elle ne perdit pas courage.
+  Mais elle ne perdit pas courage.
 
 }
 [sha:80c341b014d7fe43fe9209b031a078c9c054761c]{
 -- Page 28, Offset 17144.
 -- この痛みもこの孤立も、全ては生身のまま根源に至る為。
-　La douleur, l'isolement, tout servait pour son arrivée en chair et en os à la Source.
+  La douleur, l'isolement, tout servait pour son arrivée en chair et en os à la Source.
 
 }
 [sha:dba7e0a80c8d39eb53f5a121752fe87ad718ee70]{
 -- Page 28, Offset 17145.
 -- 魔法を継いだ時から、この程度の責め苦、彼女は何度も超えてきた。
-　Depuis qu'elle avait hérité de la Vraie Magie, elle avait déjà surmonté ce type de douleur à de nombreuses reprises.
+  Depuis qu'elle avait hérité de la Vraie Magie, elle avait déjà surmonté ce type de douleur à de nombreuses reprises.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -775,37 +775,37 @@ je ne recevrai jamais rien.
 [sha:f55a03691ffc3f4a6fb6f25d7b6fa25ad0435cd1]{
 -- Page 29, Offset 17147.
 -- 声なき声をあげて、<宇|ソ><宙|ラ>の在り方と拮抗する。
-　Elle lutta en silence contre les lois de l'univers pour obtenir la suprématie.
+  Elle lutta en silence contre les lois de l'univers pour obtenir la suprématie.
 
 }
 [sha:576de1a4374f4a5df6bea0d225edee2edf8ae574]{
 -- Page 29, Offset 17148.
 -- 負荷は彼女の<網膜|もうまく>も神経も焼き捨てる。
-　La pression exercée calcina ses rétines et ses nerfs.
+  La pression exercée calcina ses rétines et ses nerfs.
 
 }
 [sha:06ab27c71227f108bf2580076037e44065fdeb7f]{
 -- Page 29, Offset 17149.
 -- その果てに、
-　Au bout du chemin...
+  Au bout du chemin...
 
 }
 [sha:460894bf643bf14ea948d29a8ff524011f85e265]{
 -- Page 30, Offset 17150.
 -- 光を見た。
-　Elle entrevit une lumière.
+  Elle entrevit une lumière.
 
 }
 [sha:bc22ac687dcc72ef94a92851d96c35759f63b1dd]{
 -- Page 30, Offset 17151.
 -- 何の為に戻ってきたのか。
-　Elle se rappela enfin.
+  Elle se rappela enfin.
 
 }
 [sha:7f21b15196f9fce890b2795623c1219d70e3d2ce]{
 -- Page 30, Offset 17152.
 -- 何を叫びたいのか、彼女はようやく思い出し―――
-　Pourquoi elle était revenue et quels mots elle voulait hurler―――
+  Pourquoi elle était revenue et quels mots elle voulait hurler―――
 
 }
 [sha:bf9219ba386719de517e2f5fd2846d54d565bde2]{
@@ -817,49 +817,49 @@ je ne recevrai jamais rien.
 [sha:8afc980e1a5addd99dd54574526f8d0d5e320bb1]{
 -- Page 31, Offset 17154.
 -- 止めろ、と<正|ただ>す声がする。
-　Arrête, lui intima une voix.
+  Arrête, lui intima une voix.
 
 }
 [sha:51c82b314a596d6c4eee58c107bceb39fdbc504b]{
 -- Page 31, Offset 17155.
 -- 忘我の果てに魔法の正体に手が届く。
-　La Vraie Magie était à portée de main, au-delà de l'extase.
+  La Vraie Magie était à portée de main, au-delà de l'extase.
 
 }
 [sha:4f6fbce757a2390d8eff0bd17dbc7aed32537fa5]{
 -- Page 31, Offset 17156.
 -- それでは意味がない、と牙を伸ばす赤色の影がいる。
-　Faire cela n'aurait aucun sens, s'exclamait la silhouette rouge prête à planter ses crocs.
+  Faire cela n'aurait aucun sens, s'exclamait la silhouette rouge prête à planter ses crocs.
 
 }
 [sha:184fc93fae9802baa96e41ddc637ee0d490dfc10]{
 -- Page 31, Offset 17157.
 -- 多くの迷い、多くの怒り。
-　Doutes et colères se bousculaient à sa porte.
+  Doutes et colères se bousculaient à sa porte.
 
 }
 [sha:d00d2cdef105d1543e69463f20c71f8df78cfd22]{
 -- Page 31, Offset 17158.
 -- けれどそんなもの、彼女には／ワタシには関係ない。
-　Mais tout cela n'avait aucune importance pour elle／moi.
+  Mais tout cela n'avait aucune importance pour elle／moi.
 
 }
 [sha:3902c4c0e1ba35cc99155bb0743e2d40e7c2579f]{
 -- Page 32, Offset 17159.
 -- 魔法使いの責務とか、これで人類滅亡とか勝手にしろ。
-　Le devoir d'un Magicien ? La disparition du genre humain ? Je m'en fiche pas mal.
+  Le devoir d'un Magicien ? La disparition du genre humain ? Je m'en fiche pas mal.
 
 }
 [sha:fcb6cd014d5b201297d42d16b99bf2bda9b0d840]{
 -- Page 32, Offset 17160.
 -- いいかげんもう聞き飽きた。
-　Je suis fatiguée d'entendre toujours la même rengaine.
+  Je suis fatiguée d'entendre toujours la même rengaine.
 
 }
 [sha:28782ee31f33f6177bf43fb20c4683a9788753c9]{
 -- Page 32, Offset 17161.
 -- いま、私が指を動かす理由はたった一つ。
-　Je ne bouge mon doigt que pour une seule et unique raison.
+  Je ne bouge mon doigt que pour une seule et unique raison.
 
 }
 [sha:68b2f6c1c9c546837348013188be4f1ebc1c7a29]{
@@ -871,7 +871,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
 [sha:a446ad993e77d6224de087d236e7669abfad9d52]{
 -- Page 32, Offset 17163.
 -- 私はこんなにも、コイツを助けたがってる……！！！！
-　je n'ai qu'une envie, et c'est de le sauver......!!!!
+  je n'ai qu'une envie, et c'est de le sauver......!!!!
 
 }
 [sha:81cf10c7b8ac05bb4bc35980b20c139bdc911eb9]{
@@ -883,37 +883,37 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
 [sha:0202cd7ba0b889bb70c226ef96d61398f7b912ee]{
 -- Page 33, Offset 17165.
 -- 沸き上がる青い旋風。
-　Un tourbillon bleu s'éleva.
+  Un tourbillon bleu s'éleva.
 
 }
 [sha:e142aae81d7ac15334807a06d6669d5157d5349a]{
 -- Page 33, Offset 17166.
 -- 迷いも<憂|うれ>いも捨てさった瞳で、魔法使いは世界を相手にペテンを始める。
-　Avec des yeux ayant rejeté toute hésitation et inquiétude, la Magicienne entreprit de duper le monde lui-même.
+  Avec des yeux ayant rejeté toute hésitation et inquiétude, la Magicienne entreprit de duper le monde lui-même.
 
 }
 [sha:404739b3780617bcf3e2a0815bcb45b40133f3fa]{
 -- Page 34, Offset 17167.
 -- 逆行する時間。
-　Le temps se rembobinait.
+  Le temps se rembobinait.
 
 }
 [sha:8f8002ccbbf053740da4ec990575ed769ac8b7c8]{
 -- Page 35, Offset 17168.
 -- 書き換えられる原風景。
-　Le paysage originel se réécrivait.
+  Le paysage originel se réécrivait.
 
 }
 [sha:ded6b5fa4e684a6bed36365e33bbbf9211461fce]{
 -- Page 36, Offset 17169.
 -- 見れば、それは白い花だった。
-　C'étaient des fleurs blanches.
+  C'étaient des fleurs blanches.
 
 }
 [sha:d4fe9b3b845890657bec1b934ac1b8fa3302a49f]{
 -- Page 36, Offset 17170.
 -- 雪よりも真白い野花の<群|むれ>は、さざ波のように世界を侵食していき、そして―――
-　Un champ de fleurs sauvages d'un blanc plus pur que la neige recouvrit le monde telle une ride à la surface d'un lac, et enfin―――
+  Un champ de fleurs sauvages d'un blanc plus pur que la neige recouvrit le monde telle une ride à la surface d'un lac, et enfin―――
 
 }
 [sha:c470312a71fca8093625dc490fd61211e6e431e1]{
@@ -925,12 +925,12 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
 [sha:c7e7d3ace0723bf649cdc09ada6b5f3a8e66a160]{
 -- Page 37, Offset 17172.
 -- 宣言通り。
-　Comme elle l'avait déclaré,
+  Comme elle l'avait déclaré,
 
 }
 [sha:a985123e3f00a6863cc0aaa29d8c26b5d612beca]{
 -- Page 37, Offset 17173.
 -- 五番目の魔法が、この時間、この領域にだけ、その姿を現した。
-　la Cinquième Vraie Magie se montra à ce moment précis et dans ce lieu précis.
+  la Cinquième Vraie Magie se montra à ce moment précis et dans ce lieu précis.
 
 }

@@ -1,91 +1,91 @@
 [sha:42f747c29646905866d26f10d928a598ec7b6a71]{
 -- Page 0, Offset 17559.
 -- 有珠の言った通り。
-　Alice avait vu juste.
+  Alice avait vu juste.
 
 }
 [sha:dedb70d23b432499ef6688176b134ec6881d3c47]{
 -- Page 0, Offset 17560.
 -- 草十郎が追いつく前に、決着はついていた。
-　Le combat avait pris fin avant que Sōjūrō ne les rattrape.
+  Le combat avait pris fin avant que Sōjūrō ne les rattrape.
 
 }
 [sha:2358564046a1ed5704e655aec0e65e63c2982de9]{
 -- Page 1, Offset 17561.
 -- 何十年もの風化に耐えてきた木造の校舎は、実に分かりやすく彼女たちの道行きを示していた。
-　Le chemin emprunté par les deux Mages se discernait facilement dans le bâtiment en bois qui avait su résister à l'usure du temps pendant des dizaines d'années.
+  Le chemin emprunté par les deux Mages se discernait facilement dans le bâtiment en bois qui avait su résister à l'usure du temps pendant des dizaines d'années.
 
 }
 [sha:660b3b83cc27d289427ca38b4c172b52f0e32b4c]{
 -- Page 1, Offset 17562.
 -- 外れて戸が開かなくなった昇降口、
-　Avant leur arrivée, la porte de l'entrée, sortie de ses gonds, ne s'ouvrait déjà plus,
+  Avant leur arrivée, la porte de l'entrée, sortie de ses gonds, ne s'ouvrait déjà plus,
 
 }
 [sha:af00c582e1ca4d9984abcb7ca5a17bc6145d63cf]{
 -- Page 1, Offset 17563.
 -- ぎしぎしと音をたてる廊下、
-　le couloir émettait des grincements,
+  le couloir émettait des grincements,
 
 }
 [sha:efd6ec955c5b162785551eb00240ee4887775119]{
 -- Page 1, Offset 17564.
 -- 体重をのせれば踏み抜けそうな階段。
-　et l'escalier semblait assez fragile pour que l'on passe au travers.
+  et l'escalier semblait assez fragile pour que l'on passe au travers.
 
 }
 [sha:77af7e2e4710a481c790e95f4f4d37c1da06cc84]{
 -- Page 2, Offset 17565.
 -- それらを徹底的に破壊しながら続く逃走とその追跡は、二階の奥で終わりを告げていた。
-　Le fuyard et son poursuivant avaient parcouru les couloirs en détruisant tout sur leur passage avant de s'arrêter au bout du premier étage.
+  Le fuyard et son poursuivant avaient parcouru les couloirs en détruisant tout sur leur passage avant de s'arrêter au bout du premier étage.
 
 }
 [sha:719f460a3be9d0c28d660aea796e244dcb75531a]{
 -- Page 3, Offset 17566.
 -- 廊下の突き当たり、三階に続く小階段の前。
-　Au fond du couloir, devant le petit escalier menant au second étage,
+  Au fond du couloir, devant le petit escalier menant au second étage,
 
 }
 [sha:699639bac86e3c69746838b1da8b774c4f1525e5]{
 -- Page 3, Offset 17567.
 -- 橙子は壁に背を預けるかたちで崩れ落ちていた。
-　Tōko était écroulée, le dos contre le mur.
+  Tōko était écroulée, le dos contre le mur.
 
 }
 [sha:2c7b336192d9bb9aa65c7bef5a0d86bdb2da6a45]{
 -- Page 3, Offset 17568.
 -- 傷つきながらも青子から視線は逸らさない。
-　Malgré ses blessures, elle soutenait fermement le regard d'Aoko.
+  Malgré ses blessures, elle soutenait fermement le regard d'Aoko.
 
 }
 [sha:7c85223e51cf72fbc991060e78e9170d6d1a06f9]{
 -- Page 4, Offset 17569.
 -- 内部出血、さらには骨折。
-　Hémorragie interne et os fracturés.
+  Hémorragie interne et os fracturés.
 
 }
 [sha:15f0f08e996561ebb405bc9354a4fb6e2317c2e5]{
 -- Page 4, Offset 17570.
 -- 彼女の<骨格|フレーム>はもう満足に動かない。
-　Son corps ne bougeait plus convenablement.
+  Son corps ne bougeait plus convenablement.
 
 }
 [sha:7657fb191a2160e30a2ac59c390e7222a47ba7c2]{
 -- Page 4, Offset 17571.
 -- 青子の跳び蹴りでショートしたのか、<魔眼|ひだりめ>は内部から破裂し、開かれる事はない。
-　Probablement touché par le coup de pied d'Aoko, son œil gauche avait implosé et ne s'ouvrait plus.
+  Probablement touché par le coup de pied d'Aoko, son œil gauche avait implosé et ne s'ouvrait plus.
 
 }
 [sha:b3ac19c404541c0e4b6d17aa86e80fb2484bfbad]{
 -- Page 4, Offset 17572.
 -- それだけの<満身|まんしん><創痍|そうい>ぶりで、呼吸を乱していないのは最後の意地か。
-　Si sa respiration restait normale en dépit de toutes ses blessures, c'était probablement plus par fierté qu'autre chose...
+  Si sa respiration restait normale en dépit de toutes ses blessures, c'était probablement plus par fierté qu'autre chose...
 
 }
 [sha:8bfe097d576608ef2008cc15d4f7ceb8d31df953]{
 -- Page 4, Offset 17573.
 -- 目前で、無傷のまま見下ろしてくる妹に対しての。
-　Fierté qu'elle affichait devant sa petite sœur, indemne, qui la toisait.
+  Fierté qu'elle affichait devant sa petite sœur, indemne, qui la toisait.
 
 }
 [sha:401c8d55597331163fe737bdfbf292171371fb84]{
@@ -97,49 +97,49 @@
 [sha:7c25d35626d31813a602d6bd7e77295f44d766a2]{
 -- Page 5, Offset 17575.
 -- 自嘲ではなく、純粋な思いを橙子は口にした。
-　Loin de se moquer d'elle-même, Tōko exprimait seulement sa pensée.
+  Loin de se moquer d'elle-même, Tōko exprimait seulement sa pensée.
 
 }
 [sha:75b8b5da85af69467599ddae2eb66b381ba21445]{
 -- Page 5, Offset 17576.
 -- 青子は冷たい視線だけを返す。
-　Aoko lui répondit par un regard glacial.
+  Aoko lui répondit par un regard glacial.
 
 }
 [sha:9b6276692d1aac9ae362b0d3aeabd838ed37c77b]{
 -- Page 6, Offset 17577.
 -- 先ほどからまったく変わらない青色の目。
-　Ses yeux bleus ne montraient aucun changement depuis le début du combat.
+  Ses yeux bleus ne montraient aucun changement depuis le début du combat.
 
 }
 [sha:aa17f71a02e2afd7fb2d61621a1040a61defb0f1]{
 -- Page 6, Offset 17578.
 -- 冴え<凍|こご>えるそれは、冷酷なものだとしても、どうしようもなく美しい。
-　Ces pupilles glaciales et impitoyables renfermaient une beauté incomparable.
+  Ces pupilles glaciales et impitoyables renfermaient une beauté incomparable.
 
 }
 [sha:c03ebc728e0cc8168a567610ab8147871072d3b8]{
 -- Page 6, Offset 17579.
 -- 青子は橙子には近寄らず、数歩の距離を開けて右手を差しだした。
-　Aoko maintint une certaine distance par rapport à Tōko et tendit son bras droit.
+  Aoko maintint une certaine distance par rapport à Tōko et tendit son bras droit.
 
 }
 [sha:47d372628f666cc832d6acb5c6a0c919dceaea02]{
 -- Page 6, Offset 17580.
 -- 撃ち落とした獲物に<引導|いんどう>を渡す、<射手|しゃしゅ>のように。
-　Comme un archer sur le point d'achever sa proie.
+  Comme un archer sur le point d'achever sa proie.
 
 }
 [sha:76a79bc56546435e07b54927f5041e863f751d9e]{
 -- Page 7, Offset 17581.
 -- 勝負はついた。
-　Le combat était terminé.
+  Le combat était terminé.
 
 }
 [sha:30329e362cfed2b8b19cfba961e604dfafafe104]{
 -- Page 7, Offset 17582.
 -- 管理地を奪いに来た魔術師は、死をもって敗北とする。
-　Le Mage ennemi qui avait tenté de s'approprier les terres administrées, à présent défait, serait puni par la mort.
+  Le Mage ennemi qui avait tenté de s'approprier les terres administrées, à présent défait, serait puni par la mort.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -151,31 +151,31 @@
 [sha:c308ac19692cfb90b22603831a141ab4cb8d518a]{
 -- Page 8, Offset 17584.
 -- 不必要な沈黙。
-　Un étrange silence prit place.
+  Un étrange silence prit place.
 
 }
 [sha:f90bd4981544212a4f966d0dc52be843cef7a663]{
 -- Page 8, Offset 17585.
 -- 半壊した壁から差しこむ月明かりが、二人の影を廊下に映している。
-　Le clair de lune pénétrant depuis les murs partiellement détruits projetait l'ombre des deux jeunes femmes sur le couloir.
+  Le clair de lune pénétrant depuis les murs partiellement détruits projetait l'ombre des deux jeunes femmes sur le couloir.
 
 }
 [sha:bde244e357be76066ac2ddb51a3cbf6c92e705f5]{
 -- Page 8, Offset 17586.
 -- 先ほどまでの<馬|バ><鹿|カ><騒|さわ>ぎも既に無い。
-　Le vacarme qui régnait jusqu'alors s'était déjà dissipé.
+  Le vacarme qui régnait jusqu'alors s'était déjà dissipé.
 
 }
 [sha:f0f8b870c40eb19fbc8481f097dd526f48be1dbf]{
 -- Page 8, Offset 17587. Mods: @n.
 -- <火花|ひばな><散|ち>る嵐は過ぎ、
-　La tempête d'explosions était passée,
+  La tempête d'explosions était passée,
 
 }
 [sha:e247662f997680c00e472ef8c89f47fad2bcf258]{
 -- Page 8, Offset 17588. Glued.
 -- 張り詰めた寒気だけが、旧校舎を支配している。
-　et seule une atmosphère tendue régnait sur la vieille école.
+  et seule une atmosphère tendue régnait sur la vieille école.
 
 }
 [sha:bcbeb3ca2bce49a7802ab0cd57586644486986ad]{
@@ -187,19 +187,19 @@
 [sha:6fcb032c5aebf5771da5da9c2edee68461912639]{
 -- Page 9, Offset 17590.
 -- 唐突に青子は口を開けた。
-　Aoko ouvrit soudainement la bouche.
+  Aoko ouvrit soudainement la bouche.
 
 }
 [sha:3cd56384aa08084ac65a3ce4538e0069e61fc44a]{
 -- Page 9, Offset 17591.
 -- 橙子はそうだな、としばし考えこむ。
-　“Laisse-moi réfléchir”, dit Tōko avant de se plonger dans ses pensées.
+  “Laisse-moi réfléchir”, dit Tōko avant de se plonger dans ses pensées.
 
 }
 [sha:1a4db577a6f706644743fdcff69946cdb9b7690a]{
 -- Page 9, Offset 17592.
 -- 途中、コートのポケットを軽く叩き、何も入っていない音に渋い顔をした。
-　Elle tapota doucement la poche de son manteau et se renfrogna quand elle réalisa que celle-ci était vide.
+  Elle tapota doucement la poche de son manteau et se renfrogna quand elle réalisa que celle-ci était vide.
 
 }
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
@@ -217,13 +217,13 @@ La faute aux cigarettes japonaises. Elles sont trop bonnes.」
 [sha:71e5a55e1b69a6329c30d9729825d6b7c49ca0ab]{
 -- Page 10, Offset 17595. Glued.
 -- 日本の煙草は<旨|うま>すぎていけない」
-La faute aux cigarettes japonaises. Elles sont trop bonnes.」
+ La faute aux cigarettes japonaises. Elles sont trop bonnes.」
 
 }
 [sha:e77408b79ba486c626b762341a6e036375e9667b]{
 -- Page 10, Offset 17596.
 -- 橙子の言葉に、青子はそう、と小さくうなずく。
-　“Je vois”, acquiesça Aoko en écoutant les dires de Tōko.
+  “Je vois”, acquiesça Aoko en écoutant les dires de Tōko.
 
 }
 [sha:1b8cc3d0e2135f8a93ea9712148666fc8d88fb92]{
@@ -241,19 +241,19 @@ La faute aux cigarettes japonaises. Elles sont trop bonnes.」
 [sha:bc2093a3935f551c8c683e0f30e8d7bbe56a9107]{
 -- Page 11, Offset 17599.
 -- 橙子の声は皮肉げではあるものの、青子への敵意も憎悪もない。
-　Bien que le ton de Tōko soit assez sarcastique, il ne dégageait ni hostilité ni haine envers Aoko.
+  Bien que le ton de Tōko soit assez sarcastique, il ne dégageait ni hostilité ni haine envers Aoko.
 
 }
 [sha:1237b48bbb3d488fe3699cd4ec1331d827ef7cbb]{
 -- Page 11, Offset 17600.
 -- ―――おそらく。
-　―――Mais ce n'était pas très étonnant.
+  ―――Mais ce n'était pas très étonnant.
 
 }
 [sha:9741793706efea02631cc838f8e7ec0468c87468]{
 -- Page 11, Offset 17601.
 -- 彼女が報復しようとしたものは青子個人ではなく、自分と妹を取りこんだ、魔術師の家系そのものだったからだろう。
-　Elle ne voulait probablement pas se venger d'Aoko elle-même, mais de la lignée de Mages à laquelle elles appartenaient toutes deux.
+  Elle ne voulait probablement pas se venger d'Aoko elle-même, mais de la lignée de Mages à laquelle elles appartenaient toutes deux.
 
 }
 [sha:ef2df78e32abd2cc06734ec1bb774c58be4a9140]{
@@ -271,7 +271,7 @@ Le commun des mortels ne peut comprendre de tels soucis. Sois donc honorée d'en
 [sha:b406a632a8ebe08d56283c7d5a05dcbe49e7913e]{
 -- Page 12, Offset 17604.
 -- ……しかし、十年経ってもソレでは先が思いやられる。有珠は何をしていたんだか」
-　...... Mais tout de même, si c'est comme ça que tu seras dans dix ans, je suis inquiète pour l'avenir. Je me demande bien ce que pouvait faire Alice.」
+  ...... Mais tout de même, si c'est comme ça que tu seras dans dix ans, je suis inquiète pour l'avenir. Je me demande bien ce que pouvait faire Alice.」
 
 }
 [sha:141943ee8c2d13c7d9a87e5b7b46d1a9f64a345f]{
@@ -283,13 +283,13 @@ Le commun des mortels ne peut comprendre de tels soucis. Sois donc honorée d'en
 [sha:4c43f17e98d838c74ec5aa62f38a6f72e50d7b25]{
 -- Page 13, Offset 17606.
 -- ―――けどまあ、そうね。
-　―――Enfin, en y pensant,
+  ―――Enfin, en y pensant,
 
 }
 [sha:083e1f473b8b756c3f0d9b82e8565f8a2b6bd020]{
 -- Page 13, Offset 17607.
 -- あの狼となら、いい勝負をしたんじゃない？」
-　la partie aurait pu être serrée avec ce loup, non ?」
+  la partie aurait pu être serrée avec ce loup, non ?」
 
 }
 [sha:711165598209f32a5fcff3d5153aee57b7f214b4]{
@@ -307,31 +307,31 @@ Même s'il est supérieur à une novice, face à la Vraie Magie, il aurait oubli
 [sha:39943fa578cfc8cd407744399c34471a2fd7268c]{
 -- Page 14, Offset 17610.
 -- ところで青子。
-　À propos, Aoko.
+  À propos, Aoko.
 
 }
 [sha:e3fd2b5654e623f1f5309b76bfdbb61f1950d16c]{
 -- Page 14, Offset 17611.
 -- おまえの魔法とやらは、手段か、それとも結果か？」
-　Ta soi-disant Vraie Magie, c'est un moyen ou un résultat ?」
+  Ta soi-disant Vraie Magie, c'est un moyen ou un résultat ?」
 
 }
 [sha:ccbc9e450b0a8c99227c08d2840ec3782cf2cda6]{
 -- Page 15, Offset 17612.
 -- 先なのか、後なのか。
-　La première ou la seconde option.
+  La première ou la seconde option.
 
 }
 [sha:cd39fca26a4a69dee8aa9c1a5c91958aebd50389]{
 -- Page 15, Offset 17613.
 -- ある場所を目指す為に魔法を必要としたのか、
-　La Vraie Magie avait-elle été nécessaire pour atteindre son objectif,
+  La Vraie Magie avait-elle été nécessaire pour atteindre son objectif,
 
 }
 [sha:07f2190ab16df7f95cd8afb61ac5dde12b6a2839]{
 -- Page 15, Offset 17614.
 -- その場所に到達した為に魔法が出来てしまったのか。
-　ou bien l'avait-elle obtenue parce qu'elle l'avait réalisé ?
+  ou bien l'avait-elle obtenue parce qu'elle l'avait réalisé ?
 
 }
 [sha:ee006438fb77eb980cd66b0d9c8b04de0efdbcb2]{
@@ -355,7 +355,7 @@ Ceux qui se ressemblent ont tendance à se haïr. Espérons que tu n'aies pas à
 [sha:39ff84dd8ca4166810a8a596be4b337b41160eaa]{
 -- Page 16, Offset 17618.
 -- ……しかし、扉ときたか。魔法の継承とは<路|パス>の継承のようだな。ではやはり、ここに<泉|ユミル>の入り口があると？」
-　...... Tu as aussi mentionné une Porte. C'est comme si succéder à la Vraie Magie consistait à recevoir un laissez-passer. Alors il y a bien une entrée vers Ymir ici ?」
+  ...... Tu as aussi mentionné une Porte. C'est comme si succéder à la Vraie Magie consistait à recevoir un laissez-passer. Alors il y a bien une entrée vers Ymir ici ?」
 
 }
 [sha:3d02c33244b9b6c5c1ed1c44766f274a7ebfa18c]{
@@ -367,13 +367,13 @@ Ceux qui se ressemblent ont tendance à se haïr. Espérons que tu n'aies pas à
 [sha:a6a48202e281a53dcddc62345a7ab09fcd83e6f4]{
 -- Page 17, Offset 17620.
 -- ……最初からそれを狙っていたんでしょう、貴女は」
-　...... C'est ce que tu visais depuis le début, pas vrai ?」
+  ...... C'est ce que tu visais depuis le début, pas vrai ?」
 
 }
 [sha:608e6bd29a9605cb53d5ce78610541f21df7bdbb]{
 -- Page 17, Offset 17621.
 -- 青子の問いに、橙子は残された命をはき出すように、ああ、と力なくうなずいた。
-　“Oui”, laissa échapper Tōko dans un râle, comme pour exhaler son dernier souffle de vie.
+  “Oui”, laissa échapper Tōko dans un râle, comme pour exhaler son dernier souffle de vie.
 
 }
 [sha:8bd645f373de1ec75d8ad83ed0ed3666cf2da92b]{
@@ -385,7 +385,7 @@ Ceux qui se ressemblent ont tendance à se haïr. Espérons que tu n'aies pas à
 [sha:58890edabab45c71e8430d3105dbcfc2b705c89f]{
 -- Page 18, Offset 17623. Glued.
 -- 祖父とはそれで決別したようなものだったよ。
-Lorsque j'ai exprimé cet avis, cela équivalait à faire mes adieux à grand-père.
+ Lorsque j'ai exprimé cet avis, cela équivalait à faire mes adieux à grand-père.
 
 }
 [sha:fbb5371afd2e72931970e29558d6d9937eff98b4]{
@@ -397,73 +397,73 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:3d0e2263d5fc416db7589dc2108d697d2595ee49]{
 -- Page 18, Offset 17625.
 -- まあ、全ては終わった事だ。もう語る必要はない。
-　Enfin, tout ça, c'est terminé. Ça ne sert plus à rien d'en parler.
+  Enfin, tout ça, c'est terminé. Ça ne sert plus à rien d'en parler.
 
 }
 [sha:1678b23a51f1b5ddd2e4a2b02bc34676484b5042]{
 -- Page 18, Offset 17626.
 -- ……最後に、<根源|こんげん>に触れた感想が聞きたいな」
-　...... Pour finir, j'aimerais connaître tes impressions sur la Source.」
+  ...... Pour finir, j'aimerais connaître tes impressions sur la Source.」
 
 }
 [sha:34095e49d4f114e5a26934c7e13c305af013d185]{
 -- Page 19, Offset 17627.
 -- 深く息を吸いこんで橙子は言った。
-　Tōko prononça cette dernière phrase après une longue inspiration.
+  Tōko prononça cette dernière phrase après une longue inspiration.
 
 }
 [sha:a0545963aa8e1aa46860f8b1256b51d7501e0ec7]{
 -- Page 19, Offset 17628.
 -- 憎しみのない<遺言|ゆいごん>。
-　Sa dernière volonté était dépourvue de toute rancune.
+  Sa dernière volonté était dépourvue de toute rancune.
 
 }
 [sha:1503015da2f426b08982987608d3842506e32dd8]{
 -- Page 19, Offset 17629.
 -- 青子は答えず、右手を高々とかかげる。
-　Aoko leva la main sans un mot.
+  Aoko leva la main sans un mot.
 
 }
 [sha:e2089a2f95459cd1bc110dfc70781c7a3ec317f6]{
 -- Page 20, Offset 17630.
 -- 数少ない祖父の言いつけ。
-　Son grand-père ne lui avait donné que très peu d'instructions,
+  Son grand-père ne lui avait donné que très peu d'instructions,
 
 }
 [sha:754634da424e08b19f9d9c56f9629ba87ae89947]{
 -- Page 20, Offset 17631.
 -- 魔法の源。
-　mais l'une d'entre elles stipulait une interdiction absolue.
+  mais l'une d'entre elles stipulait une interdiction absolue.
 
 }
 [sha:762a720ba02ab5d6be0ef37fcaae4a20f9047c4a]{
 -- Page 20, Offset 17632.
 -- <根源|こんげん>に関しての知識、<所感|しょかん>は一切<漏|も>らしてはならない。
-　Elle ne devait en aucun cas révéler des connaissances ou impressions en rapport avec la Source de la Vraie Magie.
+  Elle ne devait en aucun cas révéler des connaissances ou impressions en rapport avec la Source de la Vraie Magie.
 
 }
 [sha:452383d10c9b62c295d68cf492bfe208f605aca6]{
 -- Page 20, Offset 17633.
 -- けれど、姉の最後の頼みならば、その感想ぐらいは伝えてあげるべきなのだろうか。
-　Mais partager son impression était peut-être la moindre des choses pour répondre à la dernière requête de sa sœur.
+  Mais partager son impression était peut-être la moindre des choses pour répondre à la dernière requête de sa sœur.
 
 }
 [sha:8c9af355cb2a432fc50842dd8c35f90fa10ba283]{
 -- Page 21, Offset 17634.
 -- ……天を指すその腕が振り落とされれば、話は終わりだ。
-　...... Lorsqu'elle abattrait son bras, pour le moment tourné vers le ciel, la discussion serait terminée.
+  ...... Lorsqu'elle abattrait son bras, pour le moment tourné vers le ciel, la discussion serait terminée.
 
 }
 [sha:dcfc23cabf03c11b3854a334a89310498b20223c]{
 -- Page 21, Offset 17635.
 -- この朽ちた建物が姉だった人の<墓標|ぼひょう>になるだろう。
-　Ce bâtiment délabré deviendrait probablement le tombeau de la personne qui avait été sa grande sœur.
+  Ce bâtiment délabré deviendrait probablement le tombeau de la personne qui avait été sa grande sœur.
 
 }
 [sha:66ec2c9c237b18bbb85984f30ec39d1a65d8412e]{
 -- Page 21, Offset 17636.
 -- なら素直になるべきだし、そもそも、青子は祖父の言いつけを守る気などさらさら無い。
-　Il valait donc mieux être franche, d'autant plus qu'Aoko n'avait jamais eu l'intention de respecter les instructions de son grand-père.
+  Il valait donc mieux être franche, d'autant plus qu'Aoko n'avait jamais eu l'intention de respecter les instructions de son grand-père.
 
 }
 [sha:13502cbf41e2233d1841bf460ab435a798aaade0]{
@@ -475,7 +475,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:4a2f9229fcfed25fb405b52c94d8450bfb489f9d]{
 -- Page 22, Offset 17638.
 -- 蒼い廊下に、声は響く。
-　Sa voix retentit dans le couloir éclairé par une lueur blafarde.
+  Sa voix retentit dans le couloir éclairé par une lueur blafarde.
 
 }
 [sha:2064cbc569348b02ec174d1bff26eddba3708e8b]{
@@ -487,19 +487,19 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:59e62b6d4c93cd7d2162bd3ca2dca968f7609e17]{
 -- Page 22, Offset 17640.
 -- なんだかミもフタもない感想を告げて、落雷のように、青子は右腕を振り落とした。
-　Aoko transmit son impression sans prendre de gants et abattit son bras telle la foudre.
+  Aoko transmit son impression sans prendre de gants et abattit son bras telle la foudre.
 
 }
 [sha:60f71c3d355dc52b68e1f1aea793a0b3490c25a9]{
 -- Page 23, Offset 17641.
 -- ……いや、落とそうとした。
-　...... Ou plutôt, elle essaya.
+  ...... Ou plutôt, elle essaya.
 
 }
 [sha:d9281b57801608f6015d8dc57aab377d2637e116]{
 -- Page 23, Offset 17642.
 -- けれど腕は青子の意に反して止まり、どんなに力を入れても下げられない。
-　En effet, son bras s'arrêta contre sa volonté et elle se retrouva incapable de l'abaisser malgré toute la force qu'elle y mettait.
+  En effet, son bras s'arrêta contre sa volonté et elle se retrouva incapable de l'abaisser malgré toute la force qu'elle y mettait.
 
 }
 [sha:b5cda4c9f8b38654608d005a912bd7fcf873aed1]{
@@ -511,19 +511,19 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:b098cb6fe5bca9e9ed1f8199e898b77151628094]{
 -- Page 24, Offset 17644.
 -- アリスの役たたず、と内心恨みながら青子は不愉快そうに吐き捨てた。
-　lâcha Aoko sur un ton acerbe tout en traitant Alice d'incapable en son for intérieur.
+  lâcha Aoko sur un ton acerbe tout en traitant Alice d'incapable en son for intérieur.
 
 }
 [sha:fc290a757c82dd6ee745a92a0e5467cd4e119ccc]{
 -- Page 24, Offset 17645.
 -- 自分の背後に現れて、かかげた右手を掴んでいる静希草十郎に向けて。
-　Ces mots étaient destinés à Shizuki Sōjūrō qui se tenait dans son dos et retenait sa main.
+  Ces mots étaient destinés à Shizuki Sōjūrō qui se tenait dans son dos et retenait sa main.
 
 }
 [sha:c83e5cdb648fbef6ec2133044a0944ceb6ca6055]{
 -- Page 24, Offset 17646.
 -- 表情にこそでていないが、橙子も彼の乱入に驚いている。
-　Même si elle ne le montrait pas, Tōko était également surprise par son intervention.
+  Même si elle ne le montrait pas, Tōko était également surprise par son intervention.
 
 }
 [sha:0b7b9a2931def427c5a9b432f4149d2a0cf98202]{
@@ -535,13 +535,13 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:1b0c3706ff0c3165e6699b0b7829cec96ca80177]{
 -- Page 25, Offset 17648.
 -- 草十郎に振り返る事も、掴まれた腕を見る事もせず、前だけを見つめて青子は言う。
-　dit Aoko, les yeux tournés droit devant elle, sans prendre la peine de se retourner ou de regarder le bras qu'il avait saisi.
+  dit Aoko, les yeux tournés droit devant elle, sans prendre la peine de se retourner ou de regarder le bras qu'il avait saisi.
 
 }
 [sha:11199d43ae62610324069c4fc271fb578370e487]{
 -- Page 25, Offset 17649.
 -- ……そういえば、懐かしいあの時も、この男は唐突に現れて人形から自分をかばったんだっけ、などと思いつつ。
-　...... Ça me rappelle que ce gars est aussi apparu sans prévenir pour me protéger de l'Automate, il y a bien longtemps, pensa-t-elle.
+  ...... Ça me rappelle que ce gars est aussi apparu sans prévenir pour me protéger de l'Automate, il y a bien longtemps, pensa-t-elle.
 
 }
 [sha:f82f6ef8af6f4f0c040e0702488058e5f81597d7]{
@@ -553,13 +553,13 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:01fc9d3fbd3c7ce614bbc928b9275d8235cf6af3]{
 -- Page 26, Offset 17651.
 -- 青子の声に嘘はない。
-　Aoko ne plaisantait pas.
+  Aoko ne plaisantait pas.
 
 }
 [sha:8230f5f4f5d7dad4de25f1b7bc5d738a8073a709]{
 -- Page 26, Offset 17652.
 -- 邪魔をするのなら、草十郎だろうと容赦はしない。
-　S'il la gênait, elle n'aurait aucune pitié, même pour lui.
+  S'il la gênait, elle n'aurait aucune pitié, même pour lui.
 
 }
 [sha:a13237d472030868c327936fa0730a5fdeb0aeac]{
@@ -571,13 +571,13 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:08672c3ae02decce1509afdb6eb51a77c0903027]{
 -- Page 26, Offset 17654.
 -- その約束とは矛盾しているけれど、そこまでしないと草十郎には伝わらないと理解している。
-　Ces paroles étaient en contradiction avec leur promesse, mais elle savait que le jeune homme ne comprendrait pas à moins qu'elle n'en arrive à de telles extrémités.
+  Ces paroles étaient en contradiction avec leur promesse, mais elle savait que le jeune homme ne comprendrait pas à moins qu'elle n'en arrive à de telles extrémités.
 
 }
 [sha:c2668135b9fdb629afb611b49317b8a7035b3311]{
 -- Page 27, Offset 17655.
 -- けれど、青子のそんな鉄の意志を聞いても、草十郎は腕を掴んだまま離さない。
-　Mais Sōjūrō ne lâcha pas prise malgré la fermeté dont elle faisait preuve.
+  Mais Sōjūrō ne lâcha pas prise malgré la fermeté dont elle faisait preuve.
 
 }
 [sha:b5ce481971c0a929fce269c94210624923748dd2]{
@@ -589,55 +589,55 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:30b8a5bf47d3c9aa9f885f88f69c86a347052b17]{
 -- Page 28, Offset 17657.
 -- 離せッ……！　と青子は振り向く。
-　... me lâcher, oui ! voulut s'exclamer Aoko en se retournant.
+  ... me lâcher, oui ! voulut s'exclamer Aoko en se retournant.
 
 }
 [sha:7faf9ef68765f159e369df61c8aee9fed8c309f7]{
 -- Page 28, Offset 17658.
 -- とたん、声の続きは<喉|のど>に<詰|つ>まってしまった。
-　Mais la suite de la phrase resta bloquée au fond de sa gorge.
+  Mais la suite de la phrase resta bloquée au fond de sa gorge.
 
 }
 [sha:fb74e0d4659e8d4c1e3f64c403f97e4d797854e3]{
 -- Page 29, Offset 17659.
 -- ……その<表情|かお>を、見るべきではなかったと後悔する。
-　...... Elle regretta amèrement d'avoir regardé son visage.
+  ...... Elle regretta amèrement d'avoir regardé son visage.
 
 }
 [sha:f2d5ed3edde73deea60339b5991f4c435d7090ff]{
 -- Page 29, Offset 17660.
 -- 自分の腕を掴んでいる少年の顔を見て、青子は鏡だな、と痛感した。
-　Quand elle vit l'expression du garçon qui tenait son bras, elle songea qu'elle avait tout d'un miroir.
+  Quand elle vit l'expression du garçon qui tenait son bras, elle songea qu'elle avait tout d'un miroir.
 
 }
 [sha:deb48da8a77157337b04293ff7b8548f1353e28b]{
 -- Page 30, Offset 17661.
 -- <悼|いた>むような哀しみ。
-　Il affichait un profond chagrin,
+  Il affichait un profond chagrin,
 
 }
 [sha:cbe4dc8df6380972f6bbb8934d790bf0133ca7fe]{
 -- Page 30, Offset 17662.
 -- <糾|ただ>すような怒り。
-　ainsi qu'une colère accusatrice.
+  ainsi qu'une colère accusatrice.
 
 }
 [sha:b486a6990b55f357fb6cba9f32ac57c3d61ddf90]{
 -- Page 30, Offset 17663.
 -- 相容れない感情に沈んだ顔は、自分の中にある都合の悪い面を連想させる。
-　Ce visage, qui mêlait deux sentiments contradictoires, la confrontait à cette honteuse facette profondément enfouie en elle.
+  Ce visage, qui mêlait deux sentiments contradictoires, la confrontait à cette honteuse facette profondément enfouie en elle.
 
 }
 [sha:82ae69ffe026cfe447995ef9fede65f74c80e1e1]{
 -- Page 30, Offset 17664.
 -- 静かに、声もなく、意志もなく。
-　Silencieux, sans voix ni volonté,
+  Silencieux, sans voix ni volonté,
 
 }
 [sha:bb58eaf34a6126881d1d8a0214617942c7dc416c]{
 -- Page 30, Offset 17665.
 -- <贖|あがな>いがたい罪を問う、灰色のさびた瞳。
-　les yeux gris l'accusaient d'un péché bien difficile à expier.
+  les yeux gris l'accusaient d'un péché bien difficile à expier.
 
 }
 [sha:ca1d63045a744e7729d9e8fab4b213e56402a5ed]{
@@ -649,31 +649,31 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:fc77021f2cc51b7b7341229fe08200956cb1eec5]{
 -- Page 31, Offset 17667.
 -- それが出来ないなら消えて」
-　Si tu n'as rien à dire, disparais.」
+  Si tu n'as rien à dire, disparais.」
 
 }
 [sha:98a8c3844f276735260fbbef025d24a337125542]{
 -- Page 32, Offset 17668.
 -- 態度を崩さない青子から、草十郎はそっと手をほどいた。
-　Sōjūrō relâcha lentement la main d'Aoko en voyant qu'elle ne changeait pas d'attitude.
+  Sōjūrō relâcha lentement la main d'Aoko en voyant qu'elle ne changeait pas d'attitude.
 
 }
 [sha:82b9ca54c243aec39b9e005ab273b8cf002bf995]{
 -- Page 32, Offset 17669.
 -- ふたりは敵と味方のように見つめ合う。
-　Ils se regardaient tantôt comme des ennemis, tantôt comme des alliés.
+  Ils se regardaient tantôt comme des ennemis, tantôt comme des alliés.
 
 }
 [sha:95c6d1df0c46144b7bf11718294fbe8af22202c8]{
 -- Page 32, Offset 17670.
 -- 互いに口にする事はなくて、あるのは終わらない沈黙の<苦|にが>さだけ。
-　Aucun d'eux n'avait quoi que ce soit à dire, si bien que rapidement, un silence amer et interminable s'installa.
+  Aucun d'eux n'avait quoi que ce soit à dire, si bien que rapidement, un silence amer et interminable s'installa.
 
 }
 [sha:d2ed764e97fa9a322bf4ab3005652522ac8c112d]{
 -- Page 33, Offset 17671.
 -- その中で、不意に、
-　Le silence fut rompu soudainement.
+  Le silence fut rompu soudainement.
 
 }
 [sha:4d08abbbe4d2574e47cb31422c4142a6a0059ae8]{
@@ -685,7 +685,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:1dbe434c933783b79aada109b80c75ddf7c47cbe]{
 -- Page 33, Offset 17673.
 -- あまりにも聞き慣れた、短い言葉が告げられた。
-　Il prononça une phrase brève qu'elle avait déjà bien trop souvent entendue.
+  Il prononça une phrase brève qu'elle avait déjà bien trop souvent entendue.
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -697,61 +697,61 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:e752b6099ff938a580190422d053b3e9232775b3]{
 -- Page 34, Offset 17675.
 -- それは気持ちを形にしただけの、つまらない言葉だったけれど。
-　Ces mots insignifiants n'étaient que le simple reflet des sentiments du jeune homme.
+  Ces mots insignifiants n'étaient que le simple reflet des sentiments du jeune homme.
 
 }
 [sha:d626bee935d92c8faa81888d011051e240f656b3]{
 -- Page 34, Offset 17676.
 -- 今の青子には、その重さが嫌というほど分かってしまう。
-　Mais cette fois, Aoko ne comprenait que trop bien leur poids.
+  Mais cette fois, Aoko ne comprenait que trop bien leur poids.
 
 }
 [sha:d745bbeb4b25e1726c29f933a565ad2274ae9168]{
 -- Page 34, Offset 17677.
 -- いずれ忘れてしまうとしても、静希草十郎の過去を断片的に知ってしまった彼女には、本当に痛いほど理解できた。
-　Maintenant qu'elle connaissait une partie du passé de Shizuki Sōjūrō, et même si elle finirait par l'oublier, elle saisissait amèrement la profondeur de cette déclaration.
+  Maintenant qu'elle connaissait une partie du passé de Shizuki Sōjūrō, et même si elle finirait par l'oublier, elle saisissait amèrement la profondeur de cette déclaration.
 
 }
 [sha:b4457c052b296e5d3f8f596cb2349a249d979018]{
 -- Page 35, Offset 17678.
 -- けれどうなずく事はできない。
-　Mais elle ne pouvait pas accepter ces mots.
+  Mais elle ne pouvait pas accepter ces mots.
 
 }
 [sha:906f6bc16981c8af2eeaa5292539e734ed5cc336]{
 -- Page 35, Offset 17679.
 -- 立場は逆転していくものだ。今を逃したら次は自分が追い詰められる。
-　Toute situation pouvait se renverser. Si elle laissait cette occasion lui échapper, c'est elle qui serait acculée la fois suivante.
+  Toute situation pouvait se renverser. Si elle laissait cette occasion lui échapper, c'est elle qui serait acculée la fois suivante.
 
 }
 [sha:461c5a5c6e62ca944a0418d8b02b816fd39a4a6e]{
 -- Page 35, Offset 17680.
 -- だいたい、一度ならず二度までも殺されかけた。
-　En outre, elle avait failli être tuée non pas à une, mais à deux reprises.
+  En outre, elle avait failli être tuée non pas à une, mais à deux reprises.
 
 }
 [sha:453ff643240b10c589d5c4ea57043578382e5b03]{
 -- Page 35, Offset 17681.
 -- この借りを帳消しにするほど彼女は優しくはないし、
-　Elle n'était pas assez gentille pour effacer l'ardoise aussi facilement,
+  Elle n'était pas assez gentille pour effacer l'ardoise aussi facilement,
 
 }
 [sha:3e07ac55fd32c761032d330b35707a8131283683]{
 -- Page 35, Offset 17682.
 -- なにより―――このままでは、橙子の言う通り、いつまでも半人前だ。
-　et surtout―――à ce rythme, comme le disait Tōko, elle resterait à jamais une novice.
+  et surtout―――à ce rythme, comme le disait Tōko, elle resterait à jamais une novice.
 
 }
 [sha:42a715ec16f88c43f1eae3c084332a186385da82]{
 -- Page 36, Offset 17683.
 -- まだ彼女は、魔術師として最初の<咎|とが>を果たしていない。
-　Elle n'avait pas encore accompli son premier homicide en tant que Mage.
+  Elle n'avait pas encore accompli son premier homicide en tant que Mage.
 
 }
 [sha:b32e2e82a87e6b3af8259898e1273a5872337429]{
 -- Page 36, Offset 17684.
 -- その機会が肉親になるのなら、なにより強い決意になると青子は知っている。
-　Aoko savait qu'elle en tirerait une détermination encore plus grande si sa victime faisait partie de sa famille.
+  Aoko savait qu'elle en tirerait une détermination encore plus grande si sa victime faisait partie de sa famille.
 
 }
 [sha:1100ed59f67d4b7cd42d2a45dec586c31cd30013]{
@@ -763,25 +763,25 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:4f94426fe2d96bbe951df5989b6e65d9df556112]{
 -- Page 37, Offset 17686.
 -- なのに、心の中では彼の台詞が繰り返されている。
-　Mais la phrase du jeune homme vibrait dans son cœur.
+  Mais la phrase du jeune homme vibrait dans son cœur.
 
 }
 [sha:b5fb28c4eee2b9c7e233462f3b3da283d8ea92a0]{
 -- Page 37, Offset 17687.
 -- ……人殺しは、いけない事だ。
-　...... Le meurtre, c'est mal.
+  ...... Le meurtre, c'est mal.
 
 }
 [sha:6137f20966f8b6740a8dcf8ae61963eca485dfaf]{
 -- Page 37, Offset 17688.
 -- 子供じみた<率直|そっちょく>さ。その願いが彼にとってどれほど<尊|とうと>いものなのか、憎らしいほど感じ取れる。
-　C'était d'une franchise enfantine, mais elle sentait, bien malgré elle, le caractère sacré que possédait cette idée pour lui.
+  C'était d'une franchise enfantine, mais elle sentait, bien malgré elle, le caractère sacré que possédait cette idée pour lui.
 
 }
 [sha:a6de70b480cb0cc71a60ea152c94a5338d9d7215]{
 -- Page 37, Offset 17689.
 -- それを振り払うため、青子は草十郎を睨みつけた。
-　Aoko fixait Sōjūrō d'un œil noir pour mieux chasser ces pensées.
+  Aoko fixait Sōjūrō d'un œil noir pour mieux chasser ces pensées.
 
 }
 [sha:b77e7e60e17635a6217e2fce13cbe5dc61b0282c]{
@@ -793,13 +793,13 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:45d7b327ce9048f00a06fa86d5ceb18cdaafd316]{
 -- Page 38, Offset 17691. Glued. Mods: @k, @e.
 -- 殺されたクセに、その相手まで<庇|かば>うっていうのアンタは？
-　Tu irais jusqu'à protéger la personne qui t'a tué ?
+ Tu irais jusqu'à protéger la personne qui t'a tué ?
 
 }
 [sha:3c3cc908448b738055a2b6949acf3e5dc7a7d05e]{
 -- Page 38, Offset 17692. Glued. Mods: @x.
 -- 元気になったら懲りずにやってくる殺人鬼が相手でも見逃してやれっていうの？」
-　Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
+ Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
 
 }
 [sha:2c527c6719684b5d73a11ee53ead6c3d53f90e31]{
@@ -811,25 +811,25 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:81c19b5d1267883cfa7bbef7760ffa6f527c93e0]{
 -- Page 39, Offset 17694.
 -- だが、彼は見逃すだろう。
-　Pourtant, il l'épargnerait probablement.
+  Pourtant, il l'épargnerait probablement.
 
 }
 [sha:4925a06d01b31ea999a673c301c44b2224c343e6]{
 -- Page 39, Offset 17695.
 -- 悪人の改心を期待するのではなく、
-　Il n'espérerait pas que le malfaiteur s'amende.
+  Il n'espérerait pas que le malfaiteur s'amende.
 
 }
 [sha:472215967fcc0f10ec75a7e7baf849e66928ae41]{
 -- Page 39, Offset 17696.
 -- 悪人の人生を考慮してのものでもなく。
-　Il ne jugerait même pas la vie de ce dernier.
+  Il ne jugerait même pas la vie de ce dernier.
 
 }
 [sha:68983645e7502cc0bdf54188acf300b460af7911]{
 -- Page 39, Offset 17697.
 -- ただ、誰かが生きている事に、感謝したいだけなのだと。
-　Il serait seulement heureux que quelqu'un reste en vie.
+  Il serait seulement heureux que quelqu'un reste en vie.
 
 }
 [sha:053967e928b9064f427041be8c50660ab9694efe]{
@@ -841,37 +841,37 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:a4b549855fe2b5272c4dd7a148385e0dacac9453]{
 -- Page 40, Offset 17699.
 -- だから、それが頭にくる。
-　Voilà pourquoi elle était excédée.
+  Voilà pourquoi elle était excédée.
 
 }
 [sha:598fb1711a75d05e29579eac69d44460b3dd1268]{
 -- Page 40, Offset 17700.
 -- <無|む><知|ち><善良|ぜんりょう>すぎて頭にくるなんて、これでは本当にミラーハウスの焼き直しだ。
-　Sa bienveillance sans borne la mettait hors d'elle, si bien qu'elle avait l'impression de rejouer la scène qui avait eu lieu dans le palais des glaces.
+  Sa bienveillance sans borne la mettait hors d'elle, si bien qu'elle avait l'impression de rejouer la scène qui avait eu lieu dans le palais des glaces.
 
 }
 [sha:cfcfd67fae2c1a6303adf07073171894e9cd65e8]{
 -- Page 40, Offset 17701.
 -- 違うのは、草十郎がそこまで固執する理由を、今の青子は知っている事。
-　Seulement, elle savait à présent pourquoi Sōjūrō était aussi obstiné,
+  Seulement, elle savait à présent pourquoi Sōjūrō était aussi obstiné,
 
 }
 [sha:b3a1c6d3e4efc22bbe408f5a2426962498daf214]{
 -- Page 40, Offset 17702.
 -- 草十郎はその経緯を、今は彼女に奪われている事。
-　car son passé était en sa possession.
+  car son passé était en sa possession.
 
 }
 [sha:2597587dc399f7067a2c41a21457e2fef3a62ff6]{
 -- Page 41, Offset 17703.
 -- 彼は、彼女とすれ違うように前に出た。
-　Alors qu'il passait devant elle,
+  Alors qu'il passait devant elle,
 
 }
 [sha:97800d988bdc853e214cd27b4c37c683164b055c]{
 -- Page 41, Offset 17704.
 -- 自身が、決して口にしてはならない言葉と共に。
-　il prononça des mots absolument tabous pour lui.
+  il prononça des mots absolument tabous pour lui.
 
 }
 [sha:ab8f65c60c94701b9d288734d5efe9368bb22a27]{
@@ -883,7 +883,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
 [sha:abc107794a03667791a7c66d7e7e8195dd6a9210]{
 -- Page 42, Offset 17706.
 -- 君を止められないのは分かってる。
-　Je sais que je ne pourrai pas t'arrêter.
+  Je sais que je ne pourrai pas t'arrêter.
 
 }
 [sha:83351fbd19852dae11f327cf9319c4c9be95090d]{
@@ -901,13 +901,13 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:0a833dfd0c90b05a3ae915b60344927b44b9cb1d]{
 -- Page 43, Offset 17709.
 -- ……その言葉に敗北を感じたのは、果たして誰だったのか。
-　...... Lequel des deux avait senti le goût amer de la défaite en entendant ces mots ?
+  ...... Lequel des deux avait senti le goût amer de la défaite en entendant ces mots ?
 
 }
 [sha:de0afe1b3ada54444239379d2b94093508e6ea62]{
 -- Page 43, Offset 17710.
 -- 二人を無言で見つめていた橙子は眠るように目蓋を閉じた。
-　Tōko, qui les avait observés sans rien dire, ferma les paupières comme si elle était sur le point de s'endormir.
+  Tōko, qui les avait observés sans rien dire, ferma les paupières comme si elle était sur le point de s'endormir.
 
 }
 [sha:758dc0039b8423f9e648935311394119b5aec15e]{
@@ -919,7 +919,7 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:0e9301259c57bb3c1fe235caa1c38ab18345a52b]{
 -- Page 44, Offset 17712.
 -- 歩み出る草十郎に、橙子は仕方なげに、小さくうなずいた。
-　Tandis que Sōjūrō s'approchait, Tōko acquiesça faiblement, d'un air résigné.
+  Tandis que Sōjūrō s'approchait, Tōko acquiesça faiblement, d'un air résigné.
 
 }
 [sha:97cc9c10968c7ca5edb18c69ff6cdd5eeee02d0e]{
@@ -931,37 +931,37 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:28f9a7e1e9703ec620981502b0f7751aa45cda96]{
 -- Page 45, Offset 17714.
 -- 今は特殊な状況だから、醒めた後に君がどれほど悔やむ事になるか想像もできない。
-　Tu te trouves actuellement dans un état particulier, et je n'ose imaginer à quel point tu regretteras ton acte une fois que tu auras retrouvé tes esprits.
+  Tu te trouves actuellement dans un état particulier, et je n'ose imaginer à quel point tu regretteras ton acte une fois que tu auras retrouvé tes esprits.
 
 }
 [sha:d5ccc5dd0ef28e0932814871e15eb7b869728776]{
 -- Page 45, Offset 17715.
 -- ただ、それで君の停滞は終わるだろう。晴れて<禊|みそ>ぎ落としというワケだ。純粋に祝福してあげられる。
-　Mais ton immobilisme prendra certainement fin de cette façon. Autrement dit, tu seras enfin libre. Je peux donc te donner ma bénédiction sans réserve.
+  Mais ton immobilisme prendra certainement fin de cette façon. Autrement dit, tu seras enfin libre. Je peux donc te donner ma bénédiction sans réserve.
 
 }
 [sha:cceacbdeba975b4369e9c9bfa4d7494960c2c209]{
 -- Page 45, Offset 17716.
 -- 気に食わないのは、それを決意させたのが私ではなかったという事ぐらいか」
-　La seule chose qui me chagrine, c'est que ce n'est pas moi qui t'en ai donné le courage.」
+  La seule chose qui me chagrine, c'est que ce n'est pas moi qui t'en ai donné le courage.」
 
 }
 [sha:1487d1059bd0ffbc938b7935b470eb20f7bb61d9]{
 -- Page 46, Offset 17717.
 -- 草十郎には分からない言葉を告げて、橙子は唇を堅く閉じた。
-　Après avoir prononcé ces mots que Sōjūrō ne pouvait comprendre, Tōko serra les lèvres d'un air résolu.
+  Après avoir prononcé ces mots que Sōjūrō ne pouvait comprendre, Tōko serra les lèvres d'un air résolu.
 
 }
 [sha:bd3bef5415986fee570c556f00abe7996d6c2621]{
 -- Page 46, Offset 17718.
 -- ……無防備な、細い首が差し出される。
-　...... Elle exposa son cou fin et sans défense.
+  ...... Elle exposa son cou fin et sans défense.
 
 }
 [sha:0785e13fc9fb51ecf90deb9d4409c00f548f3b8a]{
 -- Page 46, Offset 17719.
 -- さらに一歩踏みだす草十郎。
-　Sōjūrō avança encore d'un pas.
+  Sōjūrō avança encore d'un pas.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -973,19 +973,19 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:99dc4823b1fba13b645aac4291ed86c6f469ef4d]{
 -- Page 47, Offset 17721.
 -- それより早く青子は動いた。
-　Aoko fut plus rapide.
+  Aoko fut plus rapide.
 
 }
 [sha:d4ed40b9ec190731c53c08c47050abb0e0296ea7]{
 -- Page 47, Offset 17722.
 -- 草十郎の前に回りこんで、全身に巡る魔力をすべてカットして、力のかぎり右手を振るった。
-　Elle se plaça devant le jeune homme, coupa la circulation de prana dans son corps et balança sa main droite de toutes ses forces.
+  Elle se plaça devant le jeune homme, coupa la circulation de prana dans son corps et balança sa main droite de toutes ses forces.
 
 }
 [sha:64467f319749bffd1a2b350f52fbf71f8b5ab5af]{
 -- Page 47, Offset 17723.
 -- 頬を叩く乾いた音と、廊下を数歩よろめく足音。
-　Le son sec d'une gifle et des bruits de pas chancelants retentirent dans le couloir.
+  Le son sec d'une gifle et des bruits de pas chancelants retentirent dans le couloir.
 
 }
 [sha:f9a8075cb6d837be495a88897ee9da2c44236cc6]{
@@ -1003,13 +1003,13 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:55d2aecb2411e877f7ad8a4f754dfdc56d84f65e]{
 -- Page 49, Offset 17726.
 -- 泣きそうなほど怒っている青子は、そのままくるりと草十郎に背を向ける。
-　Prise d'une colère si intense qu'elle en avait les larmes aux yeux, Aoko tourna le dos à Sōjūrō.
+  Prise d'une colère si intense qu'elle en avait les larmes aux yeux, Aoko tourna le dos à Sōjūrō.
 
 }
 [sha:d8eda4cb091377328a91f58f95335843005ef038]{
 -- Page 49, Offset 17727.
 -- これ以上その顔を見ていたら、本気で殺しかねないと拗ねるように。
-　Comme si elle boudait et que des envies de meurtre lui viendraient si elle regardait plus longtemps son visage.
+  Comme si elle boudait et que des envies de meurtre lui viendraient si elle regardait plus longtemps son visage.
 
 }
 [sha:87e08a96ef222512952b5f37f88143b4ac17e94e]{
@@ -1027,13 +1027,13 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:391e7964060a5a9ba9a0798a00b0720df5501079]{
 -- Page 50, Offset 17730.
 -- 皮肉げな呟きに、青子はついそんな返答をしてしまった。
-　Aoko répondit malgré elle au murmure sarcastique de Tōko.
+  Aoko répondit malgré elle au murmure sarcastique de Tōko.
 
 }
 [sha:264abdf7f7c902a5a4bf528862e3c70147a052f7]{
 -- Page 50, Offset 17731.
 -- 橙子は可笑しそうに唇をつり上げる。
-　Cette dernière esquissa un sourire, l'air amusée.
+  Cette dernière esquissa un sourire, l'air amusée.
 
 }
 [sha:28ab775d9c94c1e05ca85b75bcf1285cba584a85]{
@@ -1051,7 +1051,7 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:0423fd5203e6baad5b432b98aa8f206de905453d]{
 -- Page 51, Offset 17734.
 -- バカ呼ばわりは訂正しておくよ。他人の理想を<背|せ><負|お>うのに<怯|おび>えるなんて、十年経っても可愛いじゃないか」
-　Excuse-moi de t'avoir traitée d'idiote. Quand je pense que tu es effrayée à l'idée d'assumer l'idéal d'un autre même après dix ans, je te trouve bien mignonne.」
+  Excuse-moi de t'avoir traitée d'idiote. Quand je pense que tu es effrayée à l'idée d'assumer l'idéal d'un autre même après dix ans, je te trouve bien mignonne.」
 
 }
 [sha:45560bc6c7136786b6bbd619c3186f62dd8e7409]{
@@ -1069,7 +1069,7 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:1c579edb6fb5558fc7c0fa808b7e8a3482c74b5f]{
 -- Page 52, Offset 17737.
 -- で、私をどうする？　彼に殺させるか、それとも見逃すか？」
-　Alors ? Que vas-tu faire de moi ? Tu vas le laisser me tuer ou m'épargner ?」
+  Alors ? Que vas-tu faire de moi ? Tu vas le laisser me tuer ou m'épargner ?」
 
 }
 [sha:f730a924711a48844495b5804811dbd814da27c2]{
@@ -1081,67 +1081,67 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:e099ed278266215fc3b8dd554f4935dfc525ba88]{
 -- Page 53, Offset 17739.
 -- 言って、青子はちらりと草十郎の顔を見た。
-　Aoko jeta un coup d'œil à Sōjūrō.
+  Aoko jeta un coup d'œil à Sōjūrō.
 
 }
 [sha:8cf3e584fac398be45ce4e77cc3f969fa61bef2b]{
 -- Page 53, Offset 17740.
 -- <頬|ほほ>を<叩|たた>かれた事で緊張が解けたのか、いつもの<呆|ぼう>とした表情に戻っている。
-　La gifle semblait l'avoir détendu, car il affichait de nouveau l'air idiot qu'elle lui connaissait.
+  La gifle semblait l'avoir détendu, car il affichait de nouveau l'air idiot qu'elle lui connaissait.
 
 }
 [sha:4b2f63955b99030e6cb21778d54a207fb9c86389]{
 -- Page 54, Offset 17741.
 -- ……たとえ今は過去の記憶がなくとも、深層意識に刻まれた<不文律|ふぶんりつ>は消えはしない。
-　...... Même s'il avait perdu la mémoire, les principes fondamentaux gravés au plus profond de lui n'avaient pas disparu.
+  ...... Même s'il avait perdu la mémoire, les principes fondamentaux gravés au plus profond de lui n'avaient pas disparu.
 
 }
 [sha:083bd79367ab3481eca7413c82f3d262f76340da]{
 -- Page 54, Offset 17742.
 -- それを、草十郎は自ら犯そうとした。
-　Sōjūrō avait tenté de profaner ces règles de lui-même.
+  Sōjūrō avait tenté de profaner ces règles de lui-même.
 
 }
 [sha:6fdb7322d78394c14ffbebd7d0842a825902055a]{
 -- Page 54, Offset 17743.
 -- 自己を永遠に壊し続けるであろう事を代償に。
-　En contrepartie, il aurait dû briser son égo à tout jamais.
+  En contrepartie, il aurait dû briser son égo à tout jamais.
 
 }
 [sha:a8845fab3faeb0dfdf7c38997fe992691065d293]{
 -- Page 54, Offset 17744.
 -- 静希草十郎のためでなく、蒼崎青子を守るために。
-　De plus, il ne l'aurait pas fait pour Shizuki Sōjūrō, mais pour protéger Aozaki Aoko.
+  De plus, il ne l'aurait pas fait pour Shizuki Sōjūrō, mais pour protéger Aozaki Aoko.
 
 }
 [sha:49548335f1ec50f05fd5a65a889ecc8dc4542c4d]{
 -- Page 55, Offset 17745.
 -- 今の青子にはそれがよく解っている。
-　Dans son état actuel, Aoko le savait très bien.
+  Dans son état actuel, Aoko le savait très bien.
 
 }
 [sha:603eaadfcdc7b3f28bbfe3ddc47e8353d0c27f4b]{
 -- Page 55, Offset 17746.
 -- だから彼が『自分がやる』といった瞬間、敗北を知らされた。
-　Elle avait perdu au moment où il s'était proposé de le faire.
+  Elle avait perdu au moment où il s'était proposé de le faire.
 
 }
 [sha:7fedf06d25cafa74c256e5c0c516a8dbbcc27ddb]{
 -- Page 55, Offset 17747.
 -- それは彼を見殺しにする事と同義であり―――
-　Cela aurait équivalu à le laisser mourir,
+  Cela aurait équivalu à le laisser mourir,
 
 }
 [sha:9c712f095585ae2b1114ce8f361ee81b52d8a72d]{
 -- Page 55, Offset 17748.
 -- なにより、それを許せば自分は、彼にとって命より大事な物になってしまう。
-　et surtout, elle serait alors devenue plus importante pour lui que sa propre vie.
+  et surtout, elle serait alors devenue plus importante pour lui que sa propre vie.
 
 }
 [sha:79c7fd421a58d0eb1ce0f035f29392629441b3cd]{
 -- Page 55, Offset 17749.
 -- ……そんな物に、青子はなりたくはなかったのだ。
-　...... Et cela, Aoko ne le voulait pas.
+  ...... Et cela, Aoko ne le voulait pas.
 
 }
 [sha:7bc51dc31b094e2e53518793d99cdcbac7e60a64]{
@@ -1153,13 +1153,13 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:00c44758fc2f90c63abf8f10c3fed28e755496f9]{
 -- Page 56, Offset 17751.
 -- 見当違いの心配をしている草十郎から、ぷい、と青子は顔を背ける。
-　Aoko détourna soudainement le visage de Sōjūrō, comme d'habitude à côté de la plaque.
+  Aoko détourna soudainement le visage de Sōjūrō, comme d'habitude à côté de la plaque.
 
 }
 [sha:e0d0ad3d116aacd5cc5f1d3977338a08fa58b897]{
 -- Page 56, Offset 17752.
 -- あとは目前に倒れこむ橙子を、いつも通りの不機嫌そうな視線で見下ろした。
-　Elle toisa Tōko, écroulée devant elle, de son fameux regard mécontent.
+  Elle toisa Tōko, écroulée devant elle, de son fameux regard mécontent.
 
 }
 [sha:baa5d5e328fc33c73d49668552d3456ce81f3683]{
@@ -1171,13 +1171,13 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:a41af7e67c12d1aba600e378d8147483d821d421]{
 -- Page 57, Offset 17754.
 -- けど、ただで帰れるとは思ってないわよね？」
-　Mais tu n'envisageais pas de t'en tirer à si bon compte, j'espère ?」
+  Mais tu n'envisageais pas de t'en tirer à si bon compte, j'espère ?」
 
 }
 [sha:186249e80f2e7d026ec9cd8810628b87aa7f7397]{
 -- Page 57, Offset 17755.
 -- 声もなく口元に笑みを浮かべる青子を、橙子は眉をひそめて見つめた。
-　Tōko fronça les sourcils et dévisagea sans un mot Aoko qui esquissait un sourire.
+  Tōko fronça les sourcils et dévisagea sans un mot Aoko qui esquissait un sourire.
 
 }
 [sha:d7036a25dbc92c89ef8c958f2f36fd1cf3cf0b93]{
@@ -1195,25 +1195,25 @@ Mais je préfère encore m'en charger moi-même que de te voir le faire.」
 [sha:e92644ba8589169e02aad9be56abe878c6907f65]{
 -- Page 58, Offset 17758. Glued.
 -- 邪魔もしないし、協会に届けも出さない。
-Je ne t'en empêcherai pas, et je ne préviendrai pas l'Association non plus.
+ Je ne t'en empêcherai pas, et je ne préviendrai pas l'Association non plus.
 
 }
 [sha:fb0805aa33fa7711ca967fb69d9158960dbc7a63]{
 -- Page 58, Offset 17759.
 -- 律架は私が言いふくめておくから、今回の件は私たちだけの秘密よ」
-　Je m'arrangerai aussi avec Ritsuka. Ainsi, cette affaire restera entre nous.」
+  Je m'arrangerai aussi avec Ritsuka. Ainsi, cette affaire restera entre nous.」
 
 }
 [sha:8a57c8c39b88f29e91a891328033d83c66ba599f]{
 -- Page 59, Offset 17760.
 -- 橙子はますます眉をひそめる。
-　Tōko fronçait de plus en plus les sourcils.
+  Tōko fronçait de plus en plus les sourcils.
 
 }
 [sha:1194f2aa9977640690ff33952521888016b7f07f]{
 -- Page 59, Offset 17761.
 -- そんな都合のいい話、ある訳がない。
-　Cette proposition était trop belle pour être vraie.
+  Cette proposition était trop belle pour être vraie.
 
 }
 [sha:d62ccb630a8363f5a09658c9ba3c2cb2b10fbed5]{
@@ -1231,13 +1231,13 @@ Je ne t'en empêcherai pas, et je ne préviendrai pas l'Association non plus.
 [sha:a374198c7e5db0a62f3f9bd44f3283aff7092109]{
 -- Page 60, Offset 17764. Glued.
 -- そのかわりに呪いをプレゼントしようと思って。今までさんざんガンドくらってきたし、おあいこでしょ？
-Je pensais t'offrir une malédiction en échange. Tu m'as balancé des tas de Gandr, alors comme ça, on sera quittes.
+ Je pensais t'offrir une malédiction en échange. Tu m'as balancé des tas de Gandr, alors comme ça, on sera quittes.
 
 }
 [sha:b8e12f51bbde097fe3883f1d028fb4b1bfcdf24b]{
 -- Page 60, Offset 17765.
 -- まあ、私のはちょっと強力だけど。
-　Enfin, la mienne est un peu plus puissante.
+  Enfin, la mienne est un peu plus puissante.
 
 }
 [sha:d60c2457818ab4aaab7d94e3909931f2d620c5ac]{
@@ -1249,7 +1249,7 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:a68bb22505b48114c7b5598aa9111d56d9e2f916]{
 -- Page 60, Offset 17767.
 -- まるで明日の夕飯は中華にしよう、という気軽さで微笑んで、彼女は橙子へと歩み寄った。
-　Aoko prononça ces mots comme si elle avait proposé de manger chinois le lendemain et s'approcha de Tōko avec un léger sourire aux lèvres.
+  Aoko prononça ces mots comme si elle avait proposé de manger chinois le lendemain et s'approcha de Tōko avec un léger sourire aux lèvres.
 
 }
 [sha:3e73ea759312651e587574d5003014dc15fa03cd]{
@@ -1261,7 +1261,7 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:9355c94bfbabd35cef553e75eb659d56ca0908d8]{
 -- Page 61, Offset 17769.
 -- なんでそういうモノだけ修得してるんだ、おまえは！」
-　Pourquoi apprends-tu toujours ce genre de choses ?」
+  Pourquoi apprends-tu toujours ce genre de choses ?」
 
 }
 [sha:613a5f4106240b69596e8dbe5c5fc5b3a87c89b3]{
@@ -1273,13 +1273,13 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:726f76ed7384c10ddf42cea7cf0f38ee96a142eb]{
 -- Page 61, Offset 17771.
 -- むう、と納得しつつ眉をひそめる蒼崎・姉。
-　“Hum”, admit l'aînée Aozaki, les sourcils froncés.
+  “Hum”, admit l'aînée Aozaki, les sourcils froncés.
 
 }
 [sha:111ae3233bdd28c18167bbb30b634bba41a62304]{
 -- Page 61, Offset 17772.
 -- 妹がいつまで経っても半人前なのは、そのあたりに原因があったのかと。
-　Elle se demanda brièvement si la source de l'immaturité éternelle de sa petite sœur ne se trouvait pas là.
+  Elle se demanda brièvement si la source de l'immaturité éternelle de sa petite sœur ne se trouvait pas là.
 
 }
 [sha:b7e3b8c8147392a5b97857a4f6180dffd64b6374]{
@@ -1291,31 +1291,31 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:d1ebfd8a72b08deb83f60942070667d49a083709]{
 -- Page 62, Offset 17774.
 -- 覗き見が趣味なら、別に見ていってもいいけど」
-　Enfin, si tu as des penchants pour le voyeurisme, tu peux rester.」
+  Enfin, si tu as des penchants pour le voyeurisme, tu peux rester.」
 
 }
 [sha:951ddb036db4d8fdb5f22276d5b94f2f5f377d48]{
 -- Page 62, Offset 17775.
 -- 言いつつ、青子は姉のコートをはぎ取りにかかる。
-　Aoko entreprit alors de retirer le manteau de sa grande sœur.
+  Aoko entreprit alors de retirer le manteau de sa grande sœur.
 
 }
 [sha:233a0fbaa242680d8186ab422892907bd99135dd]{
 -- Page 62, Offset 17776.
 -- 橙子のイヤそうな目と、青子のどことなく楽しげな目が対照的で、草十郎は少しだけ悩んでしまった。
-　Le regard révolté de Tōko contrastait avec celui enjoué d'Aoko, ce qui inquiétait légèrement Sōjūrō.
+  Le regard révolté de Tōko contrastait avec celui enjoué d'Aoko, ce qui inquiétait légèrement Sōjūrō.
 
 }
 [sha:6c1ebd2f860c87205e7c1864e7433c078382f68c]{
 -- Page 62, Offset 17777.
 -- はたして、このまま青子と橙子をふたりだけにしていいものか、と。
-　Était-ce vraiment une bonne idée de les laisser seules ?
+  Était-ce vraiment une bonne idée de les laisser seules ?
 
 }
 [sha:2bc897d505403b081bde7589edd498aa23e55d79]{
 -- Page 63, Offset 17778.
 -- けれど結局、罰ゲームを思わせる姉妹の様子に草十郎はうん、と頷き、
-　Mais comme la scène évoquait deux sœurs exécutant un gage, Sōjūrō acquiesça avant de rajouter sur son ton habituel :
+  Mais comme la scène évoquait deux sœurs exécutant un gage, Sōjūrō acquiesça avant de rajouter sur son ton habituel :
 
 }
 [sha:624f9f16be36630355c37657f214232a43707610]{
@@ -1327,13 +1327,13 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
 [sha:4d2f8c94ee902f636c8c3096e1ec4b75ba974bb5]{
 -- Page 63, Offset 17780.
 -- いつかのように呟いて、適当な空き教室へ退場した。
-　Il s'isola ensuite dans une salle vide au hasard.
+  Il s'isola ensuite dans une salle vide au hasard.
 
 }
 [sha:7b037d76012df9ab6a33423c4eff486eef431eea]{
 -- Page 64, Offset 17781. Mods: @n.
 -- 「ちょっ、なんだその不細工で悪趣味な術式は……！
-　「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
+ 「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
 
 }
 [sha:efbdb2e34146f02c6daa6c6382c77450e7449027]{
@@ -1351,6 +1351,6 @@ Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma peti
 [sha:e0fdd91c1c6f44c8df218c8d0956df0041e6f411]{
 -- Page 64, Offset 17784.
 -- 廊下には泣き声とも笑い声ともつかない苦悶の声が、遠吠えのように響いていった。
-　Cris d'agonie et éclats de rire retentirent dans le couloir comme autant de hurlements indiscernables.
+  Cris d'agonie et éclats de rire retentirent dans le couloir comme autant de hurlements indiscernables.
 
 }

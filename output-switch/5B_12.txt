@@ -7,19 +7,19 @@
 [sha:261ecda2403317895e8dbf2e745e7934700357b5]{
 -- Page 0, Offset 5822.
 -- 駒鳥からの報告に、少女は不吉な響きを感じとった。
-　La jeune fille sentit poindre les prémices d'un mauvais présage suite au rapport du rouge-gorge.
+  La jeune fille sentit poindre les prémices d'un mauvais présage suite au rapport du rouge-gorge.
 
 }
 [sha:5fc4bce02d547752aef9ba738cc8829aa036c073]{
 -- Page 0, Offset 5823.
 -- 彼らはそれぞれ反対方向に移動したらしい。
-　Apparemment, ils étaient partis dans deux directions opposées.
+  Apparemment, ils étaient partis dans deux directions opposées.
 
 }
 [sha:19addd3a464d473ebef4bab882f08e23289905a3]{
 -- Page 0, Offset 5824.
 -- 遊園地の住人たちは目撃者の少年を追いかけ、あと数分で捕まえ、処理するという。
-　Il disait que les résidents du parc d'attractions, qui poursuivaient le témoin, l'attraperaient d'ici quelques minutes et se chargeraient de lui.
+  Il disait que les résidents du parc d'attractions, qui poursuivaient le témoin, l'attraperaient d'ici quelques minutes et se chargeraient de lui.
 
 }
 [sha:56f034086506d6387666c491625891e20f2ae978]{
@@ -31,13 +31,13 @@
 [sha:521a0b9c5f7812c1f631d3e48801ec3137990cfb]{
 -- Page 1, Offset 5826.
 -- 駒鳥は羽をすくめて主人の疑いを鳴きとばす。
-　Le rouge-gorge secoua ses ailes et dissipa d'un gazouillis les doutes concernant les résidents du parc.
+  Le rouge-gorge secoua ses ailes et dissipa d'un gazouillis les doutes concernant les résidents du parc.
 
 }
 [sha:50b941a336c6f947bbb6d9699dd3ce3406e9f224]{
 -- Page 1, Offset 5827.
 -- 自分の目に間違いはない、広場方面に向かっているのは青子で、コースター方面に逃げているのはとっぽい小僧だと。
-　Ses yeux ne se trompaient pas, c'était bien Aoko qui se dirigeait vers la grande place, et l'impertinent jeune garçon qui s'enfuyait en direction des montagnes russes.
+  Ses yeux ne se trompaient pas, c'était bien Aoko qui se dirigeait vers la grande place, et l'impertinent jeune garçon qui s'enfuyait en direction des montagnes russes.
 
 }
 [sha:1f056218c4a5daec559b80559f7a8a25544889a3]{
@@ -49,25 +49,25 @@
 [sha:cd7797a65cfa2d30fb72e86567cc51b3d19548fe]{
 -- Page 2, Offset 5829. Mods: @k, @e.
 -- ……そんな簡単な事ならいいけど。
-　...... Ce serait bien si c'était aussi simple.
+  ...... Ce serait bien si c'était aussi simple.
 
 }
 [sha:4941b337fa08c368220d944d1ef3f6b920d3178a]{
 -- Page 2, Offset 5830. Glued. Mods: @x.
 -- ダンプティは彼に張り付いているの？」
-Dumpty est toujours avec lui ?」
+ Dumpty est toujours avec lui ?」
 
 }
 [sha:9a83e8ab6db0eac464d627d6a44dbfeda5bd9e80]{
 -- Page 2, Offset 5831.
 -- 駒鳥は自信満々に頷く。
-　Le rouge-gorge acquiesça, sûr de lui.
+  Le rouge-gorge acquiesça, sûr de lui.
 
 }
 [sha:4d97421b068ecd7cc84c6fd1b9d74fceb8f5c609]{
 -- Page 2, Offset 5832.
 -- 他の鳥はともかく、夜目の利く自分ならここからでもあのカモネギっぽい坊主を見て取れる。なにしろ相手は<高|・><い|・><と|・><こ|・><ろ|・><に|・><登|・><っ|・><て|・><い|・><る|・>し。
-　Il ne savait pas ce qu'il en était pour les autres oiseaux, mais grâce à ses yeux efficaces dans l'obscurité, il pouvait apercevoir même d'ici ce garçon et sa tête de victime. En plus, il montait sur un lieu en hauteur.
+  Il ne savait pas ce qu'il en était pour les autres oiseaux, mais grâce à ses yeux efficaces dans l'obscurité, il pouvait apercevoir même d'ici ce garçon et sa tête de victime. En plus, il montait sur un lieu en hauteur.
 
 }
 [sha:17724e9901ac1dbf09bec396b6ab2a6d03e057bd]{
@@ -79,19 +79,19 @@ Dumpty est toujours avec lui ?」
 [sha:ae5992e8e501e234fd9fbe3e47dad7634821f6e0]{
 -- Page 3, Offset 5834.
 -- ……最後まで<吟|うた>わせろ、こんな<褒|ほ>め殺したい<間|ま><抜|ぬ>けはまたとない、ですって？」
-　...... “Laisse-moi aller jusqu'au bout de mon psaume. Je ne reverrai pas de sitôt de simple d'esprit aussi admirable que lui” ?」
+  ...... “Laisse-moi aller jusqu'au bout de mon psaume. Je ne reverrai pas de sitôt de simple d'esprit aussi admirable que lui” ?」
 
 }
 [sha:09e7fd471c6326989883509c23f90daa1be9f9f3]{
 -- Page 4, Offset 5835.
 -- スクラッチダンプティは、捕捉した対象が目を離した途端に落下し、破裂する時限爆弾だ。
-　Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que l'objet ciblé détournait les yeux.
+  Scratch Dumpty était une bombe à retardement qui chutait et explosait dès que l'objet ciblé détournait les yeux.
 
 }
 [sha:ea6e44ddf351fad6dbc2007ee7eb199001d4ade4]{
 -- Page 4, Offset 5836.
 -- 対象がきちんと監視していれば落下しない、ある意味紳士的な“<童話の怪物|プロイキッシャー>”。だが乱戦時においてこれほどの嫌がらせもないだろう。
-　Si celui-ci l'observait bien, il ne chuterait pas. Dans un certain sens, c'était un “Ploy Kickshaw” gentleman. Mais il n'y avait rien de plus gênant lors d'une mêlée.
+  Si celui-ci l'observait bien, il ne chuterait pas. Dans un certain sens, c'était un “Ploy Kickshaw” gentleman. Mais il n'y avait rien de plus gênant lors d'une mêlée.
 
 }
 [sha:723d28dac897097c590f93d6ea612e55532bc407]{
@@ -103,25 +103,25 @@ Dumpty est toujours avec lui ?」
 [sha:941b7f74afad46c73471f3e5826e11186ab487ac]{
 -- Page 5, Offset 5838.
 -- 彼がどこまで逃げようと、あと少しでダンプティが仕舞ってくれるわ」
-　Peu importe jusqu'où il fuira, encore quelques minutes et Dumpty en finira avec lui.」
+  Peu importe jusqu'où il fuira, encore quelques minutes et Dumpty en finira avec lui.」
 
 }
 [sha:e765b7073449432228feb122d04c4655e955f01d]{
 -- Page 6, Offset 5839.
 -- 何処に行こうと、この遊園地―――いや、スナークが破壊されない以上、少年は逃げられない。
-　Où qu'il aille, tant que ce parc d'attractions―――non, tant que Snark ne serait pas détruit, le garçon ne pourrait pas fuir.
+  Où qu'il aille, tant que ce parc d'attractions―――non, tant que Snark ne serait pas détruit, le garçon ne pourrait pas fuir.
 
 }
 [sha:e4d0f20823a44bb5df25b4a972973b4c6de95a4b]{
 -- Page 6, Offset 5840.
 -- なら気になるのは青子の方だ。
-　Dans la situation actuelle, seule Aoko la préoccupait.
+  Dans la situation actuelle, seule Aoko la préoccupait.
 
 }
 [sha:ac6dbeb3eae5ccca0bd87c87ffc45381cf6f354a]{
 -- Page 6, Offset 5841.
 -- あの少年を守ると言い切った彼女は、いま何処に向かっているのか。
-　Où se dirigeait-elle à présent, alors qu'elle avait déclaré qu'elle protégerait ce garçon ?
+  Où se dirigeait-elle à présent, alors qu'elle avait déclaré qu'elle protégerait ce garçon ?
 
 }
 [sha:ede99e05a666e955d4854c00742d9ee06bf9fb8f]{
@@ -133,25 +133,25 @@ Dumpty est toujours avec lui ?」
 [sha:88074af6c5d951f0cb27fde8f082b1bd5ae82886]{
 -- Page 7, Offset 5843.
 -- 羽を広げて存在をアピールする駒鳥を無視して、少女は遊園地を見渡した。
-　Ignorant le rouge-gorge qui agitait ses ailes pour attirer son attention, elle observa le parc d'attractions dans son ensemble.
+  Ignorant le rouge-gorge qui agitait ses ailes pour attirer son attention, elle observa le parc d'attractions dans son ensemble.
 
 }
 [sha:a1391ab9921dad6d330b2d106a86fc141ad9931b]{
 -- Page 8, Offset 5844.
 -- フラットスナークはもうじき育ちきる。
-　Flat Snark aurait bientôt terminé sa croissance.
+  Flat Snark aurait bientôt terminé sa croissance.
 
 }
 [sha:9d36bf8372080af125272ed54d7e5d07bb2b62f7]{
 -- Page 8, Offset 5845.
 -- 他の安価なプロイとは根本からして違う怪物。
-　La nature de ce monstre était très différente de celle des autres Ploy, nettement moins élaborés.
+  La nature de ce monstre était très différente de celle des autres Ploy, nettement moins élaborés.
 
 }
 [sha:49583035f8873efff469198afb4c051ac0e94318]{
 -- Page 8, Offset 5846.
 -- 少女にとって代えのきかない、貴重な三体の使い魔のうち一体。
-　Il s'agissait de l'un de ses trois familiers les plus irremplaçables et inestimables.
+  Il s'agissait de l'un de ses trois familiers les plus irremplaçables et inestimables.
 
 }
 [sha:08af7cf571d7b1881360b7ea776f8096cfedf7b7]{
@@ -163,25 +163,25 @@ Dumpty est toujours avec lui ?」
 [sha:6175044919f16994e6d4d2d66b9b6c79f4e499c3]{
 -- Page 9, Offset 5848.
 -- 青子が<諦|あきら>めない以上、貴方も手は抜かないで」
-　Étant donné qu'Aoko n'a pas l'intention d'abandonner, ne relâche pas ta vigilance tant que ce n'est pas fini.」
+  Étant donné qu'Aoko n'a pas l'intention d'abandonner, ne relâche pas ta vigilance tant que ce n'est pas fini.」
 
 }
 [sha:0e3af7b148716c8b0c9ffff3a5d935b38fe63d06]{
 -- Page 9, Offset 5849.
 -- 少女は動かない。
-　Elle ne bougerait pas.
+  Elle ne bougerait pas.
 
 }
 [sha:03119c1d70233fc6ab5d232fa3cbecdde920446e]{
 -- Page 9, Offset 5850.
 -- 橋の巨人、毒爪トカゲと同じ<歴|か><史|ち>を持つ、<至高|しこう>のプロイ、フラットスナーク。
-　C'était un Ploy suprême, tout aussi précieux que le Lézard aux griffes venimeuses ou le Géant du pont, Flat Snark.
+  C'était un Ploy suprême, tout aussi précieux que le Lézard aux griffes venimeuses ou le Géant du pont, Flat Snark.
 
 }
 [sha:e12241e3e6c9523187c640f62bb66c956a664983]{
 -- Page 9, Offset 5851.
 -- その名と能力を、ここは信頼する事にした。
-　Elle décida de faire confiance à ce nom et ses capacités.
+  Elle décida de faire confiance à ce nom et ses capacités.
 
 }
 [sha:4cd89c973fb0dda77a453ec2b6de73dd6b02222c]{
@@ -193,7 +193,7 @@ Dumpty est toujours avec lui ?」
 [sha:d8bfbafd7eda5b3f15dbbd91e0b40cd1baa979c0]{
 -- Page 10, Offset 5853.
 -- 勝敗がついたのなら、わたしのところに帰ってきて」
-　Si la victoire est décidée, reviens auprès de moi.」
+  Si la victoire est décidée, reviens auprès de moi.」
 
 }
 [sha:5d5e0112b961771c40a01198f2a97e66f3639d9e]{
@@ -205,13 +205,13 @@ Dumpty est toujours avec lui ?」
 [sha:69acc940dc5d244ae2bb751497d3568cf07e1320]{
 -- Page 11, Offset 5855.
 -- 主の言葉を、<漂|ただよ>う霧は聞き流す。
-　Le brouillard dérivant ignora les mots de sa maîtresse.
+  Le brouillard dérivant ignora les mots de sa maîtresse.
 
 }
 [sha:8d198b9d1eab1ec0bda280d34042c4fee353aacd]{
 -- Page 11, Offset 5856.
 -- ……有珠もそこだけは読み違えていた。
-　...... Alice s'était trompée sur un seul point.
+  ...... Alice s'était trompée sur un seul point.
 
 }
 [sha:ecb1fdac36943d471a9f72525685329302af6136]{
@@ -223,7 +223,7 @@ Même parmi les Ploy, Flat Snark était le roi des bouffonneries les plus infâm
 [sha:3ca2cc2f7d167d56808310f349e67a8fb6e740ff]{
 -- Page 11, Offset 5858.
 -- 敗者には死を。惨たらしい悲劇を。
-　Il donnait la mort aux vaincus. Une tragédie sanglante.
+  Il donnait la mort aux vaincus. Une tragédie sanglante.
 
 }
 [sha:64c2a27a3b2a29ec6e7cdf2d6caff2cd4e2bc30e]{
@@ -241,24 +241,24 @@ S'il ne les privait pas de leur vie, de leur portefeuille ou de toute leur fortu
 [sha:d840ffdcd139723ec6fb7a9e0d60e45c473ed99d]{
 -- Page 12, Offset 5861.
 -- <邪|よこしま>な笑みのように霧が煙る。
-　Le brouillard se mit à fumer comme s'il souriait sournoisement.
+  Le brouillard se mit à fumer comme s'il souriait sournoisement.
 
 }
 [sha:e43ad248121e51f103abc6917b5f1c20fc6d5c74]{
 -- Page 12, Offset 5862.
 -- そう。負かした相手をどう扱うかなんて、それこそ王さまの特権で、スナークは自分の欲望を止められない。
-　Exactement. C'était le privilège du roi de faire ce qu'il voulait d'un adversaire vaincu, et il ne pouvait pas réfréner son propre désir.
+  Exactement. C'était le privilège du roi de faire ce qu'il voulait d'un adversaire vaincu, et il ne pouvait pas réfréner son propre désir.
 
 }
 [sha:6243dca4de14e4954f98b8c0fb09a1ed24a50343]{
 -- Page 12, Offset 5863.
 -- なので―――
-　Donc―――
+  Donc―――
 
 }
 [sha:17a79dd2952b7a25fae8f39029dc6b4c7da0d342]{
 -- Page 12, Offset 5864.
 -- たとえ主人の言いつけであろうと、行儀の良いフェアプレーなんて、これっぽっちも、守る気はなかったのだ。
-　Même si sa maîtresse le lui avait ordonné, il n'avait nullement l'intention d'être fair-play et de suivre les bonnes manières.
+  Même si sa maîtresse le lui avait ordonné, il n'avait nullement l'intention d'être fair-play et de suivre les bonnes manières.
 
 }

@@ -1,13 +1,13 @@
 [sha:0d668de3e610cd7854f34f17fbc46833240818cf]{
 -- Page 0, Offset 5865.
 -- 地上四十メートルの高み。
-　À près de quarante mètres au-dessus du sol,
+  À près de quarante mètres au-dessus du sol,
 
 }
 [sha:bbca4feaaac0ac64f48cd2deeb0e639e309827fb]{
 -- Page 0, Offset 5866.
 -- 遊園地の中心へ向かって延びる<骨組み|レール>の上を、慎重に慎重に、足場を確認しながら登っていく人影が一つ。
-　une ombre escaladait les rails en direction du centre du parc d'attractions en vérifiant avec une très grande prudence les prises où elle posait les pieds.
+  une ombre escaladait les rails en direction du centre du parc d'attractions en vérifiant avec une très grande prudence les prises où elle posait les pieds.
 
 }
 [sha:14bbb8d33a88428f902443ffa84bfb9af473f42b]{
@@ -19,37 +19,37 @@
 [sha:17215969c2c7acda1b4655d4ff9f816ba2547112]{
 -- Page 1, Offset 5868.
 -- 押さえつけているのは動悸と呼吸だ。
-　Elle réfrénait ses frissons et retenait son souffle.
+  Elle réfrénait ses frissons et retenait son souffle.
 
 }
 [sha:916978be5125c14e6d862df7b55da57ee463196f]{
 -- Page 1, Offset 5869.
 -- 今はそんな、わずかな動作すら前進の邪魔になる。
-　Dans la situation actuelle, le moindre faux mouvement pouvait interrompre son escalade.
+  Dans la situation actuelle, le moindre faux mouvement pouvait interrompre son escalade.
 
 }
 [sha:e8f99d98d13c0ae954bed54c20e484980bdc16d4]{
 -- Page 2, Offset 5870.
 -- 顔面蒼白でより高い位置を目指しているのは、あろう事か静希草十郎である。
-　Chose incroyable, c'était Shizuki Sōjūrō, le teint blême, en pleine ascension vers le sommet.
+  Chose incroyable, c'était Shizuki Sōjūrō, le teint blême, en pleine ascension vers le sommet.
 
 }
 [sha:40bcb2b1c5ec87157adbaa67fb8ccb0e1d981177]{
 -- Page 2, Offset 5871.
 -- 遥か地上を見下ろせば、コースター乗り場には焼きたてパンたちの群れ。
-　En regardant le sol en contrebas, il pouvait voir les pains grillés qui se regroupaient à proximité des montagnes russes.
+  En regardant le sol en contrebas, il pouvait voir les pains grillés qui se regroupaient à proximité des montagnes russes.
 
 }
 [sha:2cfe421115c454850923d857483a6b3aad415be8]{
 -- Page 2, Offset 5872.
 -- 入り口で右往左往している彼らは刻一刻と数を増やしながら、レールを登っていく草十郎へ<諸手|もろて>を挙げての応援中。
-　N'ayant pu le suivre à l'entrée, leur nombre augmentait progressivement, et ils levaient les bras pour acclamer Sōjūrō qui grimpait.
+  N'ayant pu le suivre à l'entrée, leur nombre augmentait progressivement, et ils levaient les bras pour acclamer Sōjūrō qui grimpait.
 
 }
 [sha:6950356b0a1ba7fcf2cb34c0d70fbcb94a58125a]{
 -- Page 2, Offset 5873.
 -- もとい、下りてこいとブーイングをあげている。
-　Ou plutôt, ils le huaient pour qu'il descende.
+  Ou plutôt, ils le huaient pour qu'il descende.
 
 }
 [sha:81f6e75da976443eff1537a8ea348843915273b4]{
@@ -61,31 +61,31 @@
 [sha:aedc430985c112bd3648809c94e3c0c901b2d2eb]{
 -- Page 3, Offset 5875.
 -- もちろん草十郎も苦手だが、彼らに包囲されないのなら、これはこれで少しだけマシである。
-　Évidemment, c'était aussi le cas de Sōjūrō, mais puisque ça lui évitait de se retrouver encerclé, il préférait cette position.
+  Évidemment, c'était aussi le cas de Sōjūrō, mais puisque ça lui évitait de se retrouver encerclé, il préférait cette position.
 
 }
 [sha:e3ba5e69c14c30044772a186467e537debdff2de]{
 -- Page 4, Offset 5876.
 -- 追ってきているのは浮遊する卵だけ。
-　Seul l'œuf flottant le poursuivait encore.
+  Seul l'œuf flottant le poursuivait encore.
 
 }
 [sha:fb3a92cb7d09195eddbf661d57535db4e28060c2]{
 -- Page 4, Offset 5877.
 -- 草十郎は大きく息をついた後、やや前屈みになって、天に向かって延びるコースターを登っていく。
-　Après avoir poussé un gros soupir, Sōjūrō se courba légèrement et reprit l'escalade des montagnes russes se dressant vers le ciel.
+  Après avoir poussé un gros soupir, Sōjūrō se courba légèrement et reprit l'escalade des montagnes russes se dressant vers le ciel.
 
 }
 [sha:378d157e288c9cfceb1c53fa02e8a095ba21079d]{
 -- Page 4, Offset 5878.
 -- これで地上四十八メートル。
-　Il était à présent à quarante-huit mètres au-dessus du sol.
+  Il était à présent à quarante-huit mètres au-dessus du sol.
 
 }
 [sha:1010f6f97fff0911adbf9f2129479b412c4d6928]{
 -- Page 4, Offset 5879.
 -- ビルで言うなら十六階の高さに相当する。
-　Dans un immeuble, cela correspondrait à la hauteur du seizième étage.
+  Dans un immeuble, cela correspondrait à la hauteur du seizième étage.
 
 }
 [sha:ed6b11f80bb8ba5f87d77ba9af8036caf4ebc84f]{
@@ -97,49 +97,49 @@
 [sha:80cc6359745533577442568a6a595afb30bfe998]{
 -- Page 5, Offset 5881.
 -- 強風が髪をさらう。
-　Les bourrasques lui ébouriffaient les cheveux.
+  Les bourrasques lui ébouriffaient les cheveux.
 
 }
 [sha:9e8831ea19bf9aff5ad7be41d470e8d15afaedbf]{
 -- Page 5, Offset 5882.
 -- 人間は根本的に高所を恐れる生き物だ。
-　Les humains craignent instinctivement les hauteurs.
+  Les humains craignent instinctivement les hauteurs.
 
 }
 [sha:3899349739e800d33859b8bf4204d3af94d1d811]{
 -- Page 5, Offset 5883.
 -- ことに、このように落下のイメージを想起させる場所では、本人にその気がなくとも膝が震える。
-　En particulier dans des endroits comme celui-ci, où seule la peur de tomber occupe l'esprit et, même si ce n'est pas volontaire, les genoux n'arrêtent pas de trembler.
+  En particulier dans des endroits comme celui-ci, où seule la peur de tomber occupe l'esprit et, même si ce n'est pas volontaire, les genoux n'arrêtent pas de trembler.
 
 }
 [sha:b8c889968a26ae782b4fbededa32d613fd00095d]{
 -- Page 5, Offset 5884.
 -- 死を<警戒|けいかい>する本能が、安全な地上への<回帰|かいき>を<促|うなが>している。
-　L'instinct, qui prévient d'un danger de mort, encourage le retour vers la sécurité de la terre ferme.
+  L'instinct, qui prévient d'un danger de mort, encourage le retour vers la sécurité de la terre ferme.
 
 }
 [sha:6a098bf7f4ab996be19ee05de0694cbe0cee6ec0]{
 -- Page 6, Offset 5885.
 -- それも無理からぬ事。
-　C'était une réaction tout à fait normale.
+  C'était une réaction tout à fait normale.
 
 }
 [sha:985ca1df2183a0f2cdbae5935e8225ae714f6976]{
 -- Page 6, Offset 5886.
 -- ジェットコースターのレールを人力で登ろうなどと、笑い話を通り越してファンタジーの領域なのだから。
-　Parce que monter des montagnes russes à la seule force des bras relève plutôt du domaine du surnaturel que des plaisanteries.
+  Parce que monter des montagnes russes à la seule force des bras relève plutôt du domaine du surnaturel que des plaisanteries.
 
 }
 [sha:90dd548c607bdc57877125d4fbe3c515e8e4ea92]{
 -- Page 6, Offset 5887.
 -- 気圧や強風による妨害。
-　La pression atmosphérique et la force du vent rendent l'avancée difficile
+  La pression atmosphérique et la force du vent rendent l'avancée difficile
 
 }
 [sha:b5e58f356e99a37bad17d38b008aeb353266e8d7]{
 -- Page 6, Offset 5888.
 -- 本能からの中止勧告、痺れる手足、筋力の衰え、とりとめなく暴走する思考。
-　L'instinct supplie de s'arrêter, les membres s'engourdissent, les muscles s'affaiblissent, des pensées incohérentes fusent dans tous les sens.
+  L'instinct supplie de s'arrêter, les membres s'engourdissent, les muscles s'affaiblissent, des pensées incohérentes fusent dans tous les sens.
 
 }
 [sha:8e7f162305530b7d3491f62a549aae694ce3be58]{
@@ -151,13 +151,13 @@ Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètr
 [sha:26e1dd7c255bef4c2beacc89fdf01c5dd12c56b2]{
 -- Page 7, Offset 5890.
 -- 加えて、この苦しみは倍々ゲームだ。
-　De plus, ce malaise s'intensifie à chaque mètre.
+  De plus, ce malaise s'intensifie à chaque mètre.
 
 }
 [sha:91e115e9100fa3c61b2b5c4371604c26ef45cb43]{
 -- Page 7, Offset 5891.
 -- 一メートル進めば、それだけ肉体と精神にかかる負担はいや増していく。
-　Progresser ne serait-ce que d'un mètre suffit à accroître le fardeau pesant sur le corps et l'esprit.
+  Progresser ne serait-ce que d'un mètre suffit à accroître le fardeau pesant sur le corps et l'esprit.
 
 }
 [sha:fbfaa20a8d104bcdee491b23a06a29787f340099]{
@@ -169,13 +169,13 @@ Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètr
 [sha:90e85e1a3fcfcb58fa2f98681471c3e6130f1936]{
 -- Page 8, Offset 5893.
 -- そんな精神の負担はともかく、体の調子を注意深く<測|はか>りながら草十郎は前進する。
-　Nullement gêné par la pression qui s'exerçait sur son esprit, Sōjūrō avançait tout en préservant avec soin l'équilibre de son corps.
+  Nullement gêné par la pression qui s'exerçait sur son esprit, Sōjūrō avançait tout en préservant avec soin l'équilibre de son corps.
 
 }
 [sha:e05e494392f8052fd7d26ef62b57554ff31490eb]{
 -- Page 8, Offset 5894.
 -- 走りづめだった足は、気を抜いたとたん、膝から崩れかねない。
-　Comme il avait couru sans s'arrêter jusqu'à présent, ses jambes risquaient de se dérober à la moindre inattention de sa part.
+  Comme il avait couru sans s'arrêter jusqu'à présent, ses jambes risquaient de se dérober à la moindre inattention de sa part.
 
 }
 [sha:7505d2314865f4060411879f946ce20a359bc73c]{
@@ -193,19 +193,19 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:aba7992ef70d00421dc449943a831778aaccd5d9]{
 -- Page 9, Offset 5897.
 -- ふわふわ浮遊する卵を眺めながら、草十郎は思い出し笑いをする。
-　Sōjūrō sourit à cette pensée tout en fixant l'œuf qui flottait mollement.
+  Sōjūrō sourit à cette pensée tout en fixant l'œuf qui flottait mollement.
 
 }
 [sha:221734e31cc6af8420dcca74e116be4fa84db6bd]{
 -- Page 9, Offset 5898.
 -- こんな無茶をする事になった<顛末|てんまつ>。
-　Les circonstances l'avaient poussé à faire quelque chose de très risqué.
+  Les circonstances l'avaient poussé à faire quelque chose de très risqué.
 
 }
 [sha:3d0e8d1a3f4fa18715e8210d22d22cc98c22342e]{
 -- Page 9, Offset 5899.
 -- ほんの十分前、ふたりはこんな会話を交わしていた。
-　À peine dix minutes plus tôt, ils en avaient discuté :
+  À peine dix minutes plus tôt, ils en avaient discuté :
 
 }
 [sha:be9072ee8f175769cb28bb8127180e11c6a8d8d2]{
@@ -217,13 +217,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:cd767b1fc5214e82d82c68d0bcd823ef633cd213]{
 -- Page 10, Offset 5901.
 -- にんまりと笑う青子に、ぞぞっと背筋が寒くなる草十郎。
-　Sōjūrō eut des frissons dans le dos quand Aoko sourit de manière sournoise.
+  Sōjūrō eut des frissons dans le dos quand Aoko sourit de manière sournoise.
 
 }
 [sha:a74b1db0dfa56221873d33af50a75fe9030539cc]{
 -- Page 10, Offset 5902.
 -- ……思えば、この時から青子は草十郎に無茶をさせる気満々だったのだ。
-　...... En y repensant, à ce moment-là, Aoko avait clairement l'intention de demander l'impossible à Sōjūrō.
+  ...... En y repensant, à ce moment-là, Aoko avait clairement l'intention de demander l'impossible à Sōjūrō.
 
 }
 [sha:faf36407353a4fb91b705b0b63928bd33a0bbfe0]{
@@ -235,25 +235,25 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:18e05437a3ad9485b26361b04dc463833866d92f]{
 -- Page 11, Offset 5904.
 -- この鉄柵を外まで壊せる魔術があるのなら考えるまでもないのでは、と手を挙げる草十郎。
-　“Si tu maîtrises une Magie qui te permet de détruire la clôture jusqu'à l'extérieur, alors la solution n'est pas bien difficile à trouver, non ?” dit Sōjūrō en levant la main.
+  “Si tu maîtrises une Magie qui te permet de détruire la clôture jusqu'à l'extérieur, alors la solution n'est pas bien difficile à trouver, non ?” dit Sōjūrō en levant la main.
 
 }
 [sha:8a797ad508da2869000aa0e25848baafabb94379]{
 -- Page 11, Offset 5905.
 -- 彼がこれまでフラットスナークの本体について意見しなかったのは、ひとえに『分かっていてもどうしようもない』と思っていたからだ。
-　S'il n'avait pas donné son avis sur la véritable nature du Flat Snark jusqu'à présent, c'était simplement parce qu'il avait pensé que même s'ils la connaissaient, ça ne changerait pas grand-chose.
+  S'il n'avait pas donné son avis sur la véritable nature du Flat Snark jusqu'à présent, c'était simplement parce qu'il avait pensé que même s'ils la connaissaient, ça ne changerait pas grand-chose.
 
 }
 [sha:62723866fed10ce7cd0f68ca26f6ca39dee24c0b]{
 -- Page 12, Offset 5906.
 -- が、今は条件が違う。
-　Mais à présent, la situation était différente.
+  Mais à présent, la situation était différente.
 
 }
 [sha:c3c6c82dcb49f96f45d7f4d89442804246cdac5f]{
 -- Page 12, Offset 5907.
 -- 青子なら文字通り、不可能に手が届く。
-　Aoko pouvait littéralement réaliser l'impossible.
+  Aoko pouvait littéralement réaliser l'impossible.
 
 }
 [sha:c600b5fbd38471d7f3cdb7e4e432dd361d17eb98]{
@@ -265,13 +265,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:affce352058e6bffb29c21a5615a7e54b887b2fb]{
 -- Page 13, Offset 5909.
 -- だめじゃないか、と目で<訴|うった>える草十郎。
-　Sōjūrō protesta en roulant des yeux pour signifier son appréhension.
+  Sōjūrō protesta en roulant des yeux pour signifier son appréhension.
 
 }
 [sha:7f280896f34a59a98c9381ecc27d38dc035c7cc6]{
 -- Page 13, Offset 5910.
 -- 青子は自分の長髪に手をやると、魔力をこめた指で、<一房|ひとふさ>スパッと切った。
-　Aoko passa la main dans ses cheveux et en arracha une poignée avec ses doigts enrobés de prana.
+  Aoko passa la main dans ses cheveux et en arracha une poignée avec ses doigts enrobés de prana.
 
 }
 [sha:c297988ab57b99f4dbdcf2e153adfe0dc832019a]{
@@ -283,19 +283,19 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:af95b7a9a7718e760ff8023fdec8458b652624ff]{
 -- Page 14, Offset 5912.
 -- 貴方はできるだけ高いところまで逃げて。頃合いを見て合図をだすから、そうしたらこれを空に放ってくれる？　静希君の役目はそれだけでいいから」
-　Monte jusqu'à un lieu en hauteur, le plus élevé possible. Je t'enverrai un signal lorsque j'aurai fini les préparatifs. À ce moment-là, tu pourras les jeter dans le ciel ? Tu n'auras que ça à faire.」
+  Monte jusqu'à un lieu en hauteur, le plus élevé possible. Je t'enverrai un signal lorsque j'aurai fini les préparatifs. À ce moment-là, tu pourras les jeter dans le ciel ? Tu n'auras que ça à faire.」
 
 }
 [sha:47b6ee3ed38c5ad8aaaec8b5b8e92fbf398f2843]{
 -- Page 15, Offset 5913.
 -- そう言う青子の視線は、とても“できるだけ”なんて言ってはいなかった。
-　Pendant qu'Aoko parlait de monter “le plus haut possible”, son regard exprimait tout autre chose.
+  Pendant qu'Aoko parlait de monter “le plus haut possible”, son regard exprimait tout autre chose.
 
 }
 [sha:d1603727b0b6d19cb19d9bfb3c965d61c5f17e79]{
 -- Page 15, Offset 5914.
 -- 彼女はこれみよがしに、遊園地二大アトラクションの一つ、ジェットコースターを見つめている。
-　Elle regardait ostensiblement l'une des deux grandes attractions du parc, les montagnes russes.
+  Elle regardait ostensiblement l'une des deux grandes attractions du parc, les montagnes russes.
 
 }
 [sha:5ebcdc436c04676bdfcdd5154fa71e68ff0a95a5]{
@@ -313,13 +313,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:cd31f3c81eed37b6cbf526c21c1fef9f141ea737]{
 -- Page 17, Offset 5917.
 -- 遊園地に悪魔は二匹いる。
-　Il y avait deux démons dans le parc d'attractions.
+  Il y avait deux démons dans le parc d'attractions.
 
 }
 [sha:e3e6e5258c177f8a345da6df55020d9adcc92c39]{
 -- Page 17, Offset 5918.
 -- 草十郎ですら「よくない」と即答したくなる笑顔だった。
-　Face à un tel sourire, même Sōjūrō avait envie de répliquer que c'était loin d'être “parfait”.
+  Face à un tel sourire, même Sōjūrō avait envie de répliquer que c'était loin d'être “parfait”.
 
 }
 [sha:04685da74a101063ff6aafd2e43c1903247e6db8]{
@@ -331,7 +331,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:9a128fc20cc4cded1a79baadb61f59e6644ea6e5]{
 -- Page 18, Offset 5920.
 -- ホントはあの子とグルで、俺を遠回しに殺そうとしてるんじゃないか？」
-　Est-ce qu'en réalité, tu ne collaborerais pas avec elle pour essayer de me tuer d'une façon détournée ?」
+  Est-ce qu'en réalité, tu ne collaborerais pas avec elle pour essayer de me tuer d'une façon détournée ?」
 
 }
 [sha:67aa18296108490d9d2781281ff96a32d3e020a9]{
@@ -349,13 +349,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:7a29eec232f81d02c48805157c99fee88fd0c081]{
 -- Page 19, Offset 5923.
 -- とても正気じゃない、とうなだれる草十郎。
-　“C'est de la folie”, gémit Sōjūrō en baissant la tête.
+  “C'est de la folie”, gémit Sōjūrō en baissant la tête.
 
 }
 [sha:03032faa3271ccf04f824e71530cce8dd0b5ccbb]{
 -- Page 19, Offset 5924.
 -- 青子の言う通りにしていたらキッツィーちゃんに食べられる前に過労死しそうだ。
-　S'il agissait conformément à ce que suggérait Aoko, il mourrait d'épuisement avant même que Kitsy-chan ne l'ait mangé.
+  S'il agissait conformément à ce que suggérait Aoko, il mourrait d'épuisement avant même que Kitsy-chan ne l'ait mangé.
 
 }
 [sha:9441c5a41d601cff82cccc6ffc00ec18c68ea36f]{
@@ -367,7 +367,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:d01e7fdfe3c7653c8581588618885857d2d638e9]{
 -- Page 20, Offset 5926.
 -- おまじない、かけてあげる」
-　Je vais appliquer un charme sur toi.」
+  Je vais appliquer un charme sur toi.」
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -379,13 +379,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:ab01b2a0bc99852320653a9e2209f2bc8fc98e58]{
 -- Page 21, Offset 5928.
 -- 軽い接触。
-　Un contact léger.
+  Un contact léger.
 
 }
 [sha:d4a14467e7e164b10308a0c6b9913aae94d43ce9]{
 -- Page 21, Offset 5929.
 -- 息と息、肌と肌が触れ合う距離。
-　Une distance telle que leurs souffles et leurs peaux pouvaient se toucher.
+  Une distance telle que leurs souffles et leurs peaux pouvaient se toucher.
 
 }
 [sha:3d0e41b03fa0ab2abc201ac9e2d8dd35eff02702]{
@@ -397,79 +397,79 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:85b79052d73d74c1fac04cfbcffd1ad566beda0c]{
 -- Page 22, Offset 5931.
 -- おざき、と続く声が弱い。
-　... ozaki, voulut-il dire d'une voix qui mourut dans sa gorge.
+  ... ozaki, voulut-il dire d'une voix qui mourut dans sa gorge.
 
 }
 [sha:42e9d0803b6acf2018bef5db957c738295183a43]{
 -- Page 22, Offset 5932.
 -- それは、一方にとってはごく当たり前の魔術で、
-　C'était pour elle un sort tout à fait basique,
+  C'était pour elle un sort tout à fait basique,
 
 }
 [sha:db10344ab70e90aa77f697a6939f04a76f602c98]{
 -- Page 22, Offset 5933.
 -- 一方にとっては頭が真っ白になるほどの、柔らかな不意打ちだった。
-　et pour lui une attaque-surprise si douce qu'il ne pouvait plus penser à rien.
+  et pour lui une attaque-surprise si douce qu'il ne pouvait plus penser à rien.
 
 }
 [sha:f244b7497274e4fc6f8e873a32ec0ea85aa92888]{
 -- Page 23, Offset 5934.
 -- 『―――空<気のおも|かるく、よわく>り、<胸のふる|うまく、はやく>え。
-　　『―――<Poids de l'air|Légèrement, faiblement>, <tremblement de la poitrine|Habilement, rapidement>.
+            『―――<Poids de l'air|Légèrement, faiblement>, <tremblement de la poitrine|Habilement, rapidement>.
 
 }
 [sha:4e7bf42e80ef6e626044a52b74a52e2110feb053]{
 -- Page 23, Offset 5935.
 -- ひ<かりは先|チクタクチクタク>立つ、<かげは遅|いそげやいそげ>れる。』
-　　　　　　<La lumière en premier|Tic tac tic tac>, <l'ombre en second|Dépêche-toi dépêche-toi>.』
+                    <La lumière en premier|Tic tac tic tac>, <l'ombre en second|Dépêche-toi dépêche-toi>.』
 
 }
 [sha:db840e9399b1a9e1b1e94b40f28611e674062c68]{
 -- Page 24, Offset 5936.
 -- 通常の声帯では発音できない、何か特殊な重みをもった声が草十郎の鼓膜に響く。
-　C'était une mélodie qu'on ne pouvait pas prononcer avec des cordes vocales normales. Cette voix, qui semblait posséder une âme propre, résonna dans les tympans de Sōjūrō.
+  C'était une mélodie qu'on ne pouvait pas prononcer avec des cordes vocales normales. Cette voix, qui semblait posséder une âme propre, résonna dans les tympans de Sōjūrō.
 
 }
 [sha:4c144871f9f1f4832138f8ab6817a00fc012c50f]{
 -- Page 24, Offset 5937.
 -- ……もし言葉に色が見えたのなら、きっと彼女の名前通りの色だっただろう。
-　...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le bleu.
+  ...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le bleu.
 
 }
 [sha:e10a0179325901d6324a9017f2fbe0bfb4ced443]{
 -- Page 24, Offset 5938.
 -- 疲れきっていた体が、熱くなっていた血液が、緩やかに冷やされていく。
-　Son corps fatigué et son sang devenu fiévreux se refroidirent lentement.
+  Son corps fatigué et son sang devenu fiévreux se refroidirent lentement.
 
 }
 [sha:12fa9a324ce78b078483465f3f4d53f744abcddb]{
 -- Page 25, Offset 5939.
 -- 『<鳥は空に|と　　ぶ>、<魚は海に|お　よ　ぐ>、<貴方は彼方に|か け ぬ け る>。
-　　『<L'oiseau dans le ciel|Vole>, <le poisson dans l'eau|Nage>, <toi là-bas|Cours>.
+        『<L'oiseau dans le ciel|Vole>, <le poisson dans l'eau|Nage>, <toi là-bas|Cours>.
 
 }
 [sha:4c498957ab8c627de578d5d6903b9536954d7e90]{
 -- Page 25, Offset 5940.
 -- 疑<問も不安も鞄|チクタクチクタク>の底に、旅路<の一歩は|きてきをならせ>曙に。
-　　　<Les doutes et les inquiétudes au fond du sac|Tic tac tic tac>, l'aube est une <étape du voyage|Donne un coup de sifflet>.
+        <Les doutes et les inquiétudes au fond du sac|Tic tac tic tac>, l'aube est une <étape du voyage|Donne un coup de sifflet>.
 
 }
 [sha:f1f08539678d3684522fac4860f3cc95c166e016]{
 -- Page 25, Offset 5941.
 -- 輝<く星はするりと降|ほしはいつでもきたのそら>ちて、今は<貴方の心の内|どこまでも、いつまでも>に。』
-　　　<Les étoiles scintillantes tombent vite|Les étoiles viennent toujours du ciel du nord> et sont <maintenant dans|N'importe où, pour toujours> ton cœur.』
+        <Les étoiles scintillantes tombent vite|Les étoiles viennent toujours du ciel du nord> et sont <maintenant dans|N'importe où, pour toujours> ton cœur.』
 
 }
 [sha:e0f831f3a2bcd656ac28593015272d239ad85733]{
 -- Page 26, Offset 5942.
 -- 実際には五秒ほど。
-　En réalité, cinq secondes seulement s'écoulèrent.
+  En réalité, cinq secondes seulement s'écoulèrent.
 
 }
 [sha:12a6c2f57f0b2adece2544234ea1297ffeaac2e2]{
 -- Page 26, Offset 5943.
 -- 不意を突かれた彼にとってはもう少しだけ長く感じられた触れ合いは、こうして何の失敗もなく、<名残|なごり>惜しくも完了した。
-　Pour lui qu'elle avait effleuré sans préavis, ce contact, qui semblait avoir duré une éternité, s'acheva sans heurt mais aussi avec un peu de regret.
+  Pour lui qu'elle avait effleuré sans préavis, ce contact, qui semblait avoir duré une éternité, s'acheva sans heurt mais aussi avec un peu de regret.
 
 }
 [sha:21cb0c14aff697f31a645ba5e9be7dc5d91a9453]{
@@ -481,19 +481,19 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:28a8d21ffd867fa0402d20fd83ee9e5bca43e662]{
 -- Page 27, Offset 5945.
 -- 有珠の小言もたまには役に立つじゃない！」
-　Finalement, les réprimandes d'Alice servent de temps en temps !」
+  Finalement, les réprimandes d'Alice servent de temps en temps !」
 
 }
 [sha:adfd8cc5bdf93cff9676245b9cb74fa96f04e202]{
 -- Page 27, Offset 5946.
 -- はしゃぐ青子と、とにかく現状が掴めない草十郎。
-　Aoko paraissait joyeuse et Sōjūrō ne saisissait pas la situation.
+  Aoko paraissait joyeuse et Sōjūrō ne saisissait pas la situation.
 
 }
 [sha:4f62e9f1bf41e34908b7e3bfd74c717e6a4170fe]{
 -- Page 27, Offset 5947.
 -- 今のは一体なんだったのかと訊くと、
-　Il demanda ce qu'elle avait fait à l'instant.
+  Il demanda ce qu'elle avait fait à l'instant.
 
 }
 [sha:dbcefc744cd73caedae342bfc2aa02bbf427e8c5]{
@@ -505,13 +505,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:8f286a4339a19334350af0f0e79e528ad75a11c2]{
 -- Page 28, Offset 5949.
 -- あの手の作業でいちばん足を引っ張るのは動揺でしょ？
-　Dans ce genre de situation, ce qui est le plus dangereux, c'est l'hésitation, pas vrai ?
+  Dans ce genre de situation, ce qui est le plus dangereux, c'est l'hésitation, pas vrai ?
 
 }
 [sha:c9a24cf8114adc615aaad8818331c0b83a851edb]{
 -- Page 28, Offset 5950.
 -- 恐怖も何も感じなければ、地上何メートルだろうと平均台とそう変わらないってワケ」
-　Donc si tu ne ressens ni peur ni anxiété, être des dizaines de mètres au-dessus du sol ou sur une poutre de gymnastique, ce n'est pas bien différent.」
+  Donc si tu ne ressens ni peur ni anxiété, être des dizaines de mètres au-dessus du sol ou sur une poutre de gymnastique, ce n'est pas bien différent.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -523,13 +523,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:e3552c0c64fa03d985d9bec046dde9e9308c9576]{
 -- Page 29, Offset 5952.
 -- なるほど、と手を打つ純朴少年。
-　“Je vois”, dit naïvement le garçon en tapant dans ses mains.
+  “Je vois”, dit naïvement le garçon en tapant dans ses mains.
 
 }
 [sha:330b5a1dedc539bcc175a6b155bf609fbf13b1f4]{
 -- Page 29, Offset 5953.
 -- 青子の言っている事は<眉唾|まゆつば>だが、さっきの謎の行為はそういう事か、と納得する草十郎だった。
-　Ce que disait Aoko était sujet à caution, mais Sōjūrō comprit que c'était pour cette raison qu'elle avait fait ce geste mystérieux.
+  Ce que disait Aoko était sujet à caution, mais Sōjūrō comprit que c'était pour cette raison qu'elle avait fait ce geste mystérieux.
 
 }
 [sha:407983929e943bec5931cbc971c512d66ec7afd7]{
@@ -541,43 +541,43 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:436bdb99946253aaf7e7b8fdb334f6b4ce2b36d1]{
 -- Page 30, Offset 5955.
 -- 山なりのレールの頂点。
-　La cime des rails était aussi haute qu'une montagne.
+  La cime des rails était aussi haute qu'une montagne.
 
 }
 [sha:149c575b223ab25d37c1b30bb8bc4090aefd8482]{
 -- Page 30, Offset 5956.
 -- 草十郎は地上六十メートル近い高みに到着し、遊園地を俯瞰する。
-　Sōjūrō arriva à une hauteur proche de soixante mètres au-dessus du sol et observa le parc d'attractions.
+  Sōjūrō arriva à une hauteur proche de soixante mètres au-dessus du sol et observa le parc d'attractions.
 
 }
 [sha:dc12fb3649b601ccfbc76eabdbad3447f3dd46cf]{
 -- Page 31, Offset 5957.
 -- 青子の姿はすぐに発見できた。
-　Il localisa tout de suite Aoko.
+  Il localisa tout de suite Aoko.
 
 }
 [sha:95e89cb6e9a906b1b04edb7af17b9aa243e8b21f]{
 -- Page 31, Offset 5958.
 -- この地点からそう離れていない広場で、なにやら怪しげな作業を行っている。
-　Elle n'était pas très loin, sur la grande place, et elle semblait faire quelque chose d'étrange.
+  Elle n'était pas très loin, sur la grande place, et elle semblait faire quelque chose d'étrange.
 
 }
 [sha:f30122be9341a72400b049a6ea83f455c7d8a214]{
 -- Page 31, Offset 5959.
 -- 青子の周囲は静かなものだ。
-　Tout était calme aux alentours de la jeune fille.
+  Tout était calme aux alentours de la jeune fille.
 
 }
 [sha:74649225b37b785427cf893ad4c78101f0599f30]{
 -- Page 31, Offset 5960.
 -- ブレッドマンたちは草十郎を追いかけようとして、いまだコースター入り口で試行錯誤の真っ最中。
-　Les hommes-pains à la poursuite de Sōjūrō étaient encore en train d'essayer de le suivre à l'entrée des montagnes russes.
+  Les hommes-pains à la poursuite de Sōjūrō étaient encore en train d'essayer de le suivre à l'entrée des montagnes russes.
 
 }
 [sha:fb804469e1e5a72c6cd28cd84a902a747cdbc0de]{
 -- Page 31, Offset 5961.
 -- 距離にして、もう百メートル以上も離れている。
-　Ils devaient être à plus de cent mètres.
+  Ils devaient être à plus de cent mètres.
 
 }
 [sha:8b507ae35393789b7a4a60bfb76f2395f967c414]{
@@ -589,13 +589,13 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:3423278616b53792be2634749b6563d5d618bb79]{
 -- Page 32, Offset 5963.
 -- 真冬の強風で額の汗はすぐに乾くが、シャツの下は汗で濡れている。
-　Avec les bourrasques du vent d'hiver, la sueur sur son front séchait vite, mais il était trempé sous son T-shirt.
+  Avec les bourrasques du vent d'hiver, la sueur sur son front séchait vite, mais il était trempé sous son T-shirt.
 
 }
 [sha:c578bf4e4f680e773f66caa40687cff33429a972]{
 -- Page 32, Offset 5964.
 -- 一キロマラソン以上の運動量プラス、冷や汗分も含まれているに違いない。
-　En plus d'avoir sprinté sur plus d'un kilomètre, il devait aussi avoir des sueurs froides.
+  En plus d'avoir sprinté sur plus d'un kilomètre, il devait aussi avoir des sueurs froides.
 
 }
 [sha:c53ce3c94a88a4f398bd910ca73f2edd580f88c0]{
@@ -607,25 +607,25 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:5e3ad7bf9ecd6c20f5a720d9a5befc1fa224de9a]{
 -- Page 33, Offset 5966.
 -- 心底から安心する。
-　Il se sentit soulagé.
+  Il se sentit soulagé.
 
 }
 [sha:8e24303275d18f2a5cf35ca5170df820d64b37cd]{
 -- Page 33, Offset 5967.
 -- この方法で、青子が<遊園地|スナーク>を破壊できるから、ではない。
-　Pas parce qu'Aoko pouvait détruire le Snark de cette façon.
+  Pas parce qu'Aoko pouvait détruire le Snark de cette façon.
 
 }
 [sha:fe977a2de2e7cfa5833b12ebaf8f0e588e859ecc]{
 -- Page 33, Offset 5968.
 -- 彼はそんな事より、ミラーハウスでの借りを少しでも返せる気がして嬉しいのだ。
-　Il était surtout heureux d'avoir l'impression de rembourser un petit peu la dette qu'il avait contractée dans le palais des glaces.
+  Il était surtout heureux d'avoir l'impression de rembourser un petit peu la dette qu'il avait contractée dans le palais des glaces.
 
 }
 [sha:4af6ea9aa34b0335640981225be165f88ecabcf6]{
 -- Page 34, Offset 5969.
 -- 青子のいた広場から青い魔弾が昇る。
-　Une balle de prana bleue s'éleva depuis la grande place où se trouvait Aoko.
+  Une balle de prana bleue s'éleva depuis la grande place où se trouvait Aoko.
 
 }
 [sha:6f118e9fb29f2965e041323859b8574de7aaae40]{
@@ -637,25 +637,25 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:b92778c916e5bba9774fc287645930019d8aa439]{
 -- Page 34, Offset 5971.
 -- 草十郎はレールの上に立ち上がり、ポケットに仕舞った巾着袋を放り投げた。
-　Sōjūrō se mit debout sur les rails et jeta le sac à cordon qu'il gardait dans sa poche.
+  Sōjūrō se mit debout sur les rails et jeta le sac à cordon qu'il gardait dans sa poche.
 
 }
 [sha:ec65499e27f68e564801c7e80a5ca94ae57957ca]{
 -- Page 35, Offset 5972.
 -- ここが不安定な足場である事を考えない、豪快なオーバースロー。
-　Il ne pensa pas au fait que sa position était instable et effectua un superbe lancer.
+  Il ne pensa pas au fait que sa position était instable et effectua un superbe lancer.
 
 }
 [sha:3bdb55b4d5a333a55056ef5d1a986d116673be46]{
 -- Page 35, Offset 5973.
 -- 巾着は放物線を描きながら青子のいる方角に向かっていき、ほどなくして空に<解|と>けた。
-　Le sac décrivit une parabole dans la direction d'Aoko et se dénoua dans le ciel au bout d'un instant.
+  Le sac décrivit une parabole dans la direction d'Aoko et se dénoua dans le ciel au bout d'un instant.
 
 }
 [sha:35131b550897c0422a6b2f55bd9927fdcdcf1ce9]{
 -- Page 36, Offset 5974.
 -- 巾着には彼女の髪と、重しの小石が入っていた。
-　Dans le sac se trouvaient les cheveux de la jeune fille, ainsi qu'un galet en guise de lest.
+  Dans le sac se trouvaient les cheveux de la jeune fille, ainsi qu'un galet en guise de lest.
 
 }
 [sha:0f46d2a323ff546c9d025dd52a12b978f7af1325]{
@@ -667,31 +667,31 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:71e970093f474e40c01f22034a7156d229b9d82d]{
 -- Page 36, Offset 5976.
 -- 青子はそう言ったが、草十郎なりに工夫した結果である。
-　avait juste dit Aoko, et c'était Sōjūrō qui avait eu l'idée du sac lesté.
+  avait juste dit Aoko, et c'était Sōjūrō qui avait eu l'idée du sac lesté.
 
 }
 [sha:d2dab9008a4bdcbc7eb6ccfee1048fb15b3e48ed]{
 -- Page 36, Offset 5977.
 -- <一房|ひとふさ>の髪は、持ち主である少女を見守るように<滞空|たいくう>する。
-　La poignée de cheveux resta en l'air comme pour surveiller sa propriétaire.
+  La poignée de cheveux resta en l'air comme pour surveiller sa propriétaire.
 
 }
 [sha:9df1e745edeca4bf5b49a1579caa9e478d932761]{
 -- Page 37, Offset 5978.
 -- 草十郎に託された仕事は終わった。
-　La tâche qu'on avait confiée à Sōjūrō était terminée.
+  La tâche qu'on avait confiée à Sōjūrō était terminée.
 
 }
 [sha:dc5c61a95f1f74ca7acb23ee0e9b91ef858952d6]{
 -- Page 37, Offset 5979.
 -- いまだ浮遊する卵は気になるが、これは彼にどうにかできる物ではない。
-　L'œuf qui flottait encore l'inquiétait, mais il ne pouvait de toute façon rien y faire.
+  L'œuf qui flottait encore l'inquiétait, mais il ne pouvait de toute façon rien y faire.
 
 }
 [sha:db19a944a0f7a4b51efa4e72ae560520a937bf2e]{
 -- Page 37, Offset 5980.
 -- 草十郎はホッと息をついて、事の成り行きを見届けようと身を乗り出し、
-　Sōjūrō poussa un soupir de soulagement et se pencha en avant pour voir ce qui se passait, quand,
+  Sōjūrō poussa un soupir de soulagement et se pencha en avant pour voir ce qui se passait, quand,
 
 }
 [sha:d3acad8447e2861f6902cad4e1bc9a871d9d40f1]{
@@ -703,12 +703,12 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
 [sha:c68db2c0d04dd241063ec09936562b7087e25ef8]{
 -- Page 38, Offset 5982.
 -- 視界の<隅|すみ>。
-　du coin de l'œil,
+  du coin de l'œil,
 
 }
 [sha:cd672efb1af03f6ab2d1c495e9e454dd41afc151]{
 -- Page 38, Offset 5983.
 -- 青子のいる広場に近寄りつつある、なにか、見覚えのあるものを見かけた気がした。
-　il eut l'impression de voir une silhouette familière qui s'approchait de la grande place où se trouvait Aoko.
+  il eut l'impression de voir une silhouette familière qui s'approchait de la grande place où se trouvait Aoko.
 
 }

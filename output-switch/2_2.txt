@@ -13,61 +13,61 @@
 [sha:0fb11c6a0374c3a3b26668db8609964997b4ce21]{
 -- Page 1, Offset 2279.
 -- 無人の生徒会室に入るなり所感を口にするふたり。
-　Les deux élèves s'échangèrent leurs impressions dès qu'ils entrèrent dans la salle vide du conseil étudiant.
+  Les deux élèves s'échangèrent leurs impressions dès qu'ils entrèrent dans la salle vide du conseil étudiant.
 
 }
 [sha:ac9b412dd8d04bb69de17d5a09da5f8c9f050cb8]{
 -- Page 1, Offset 2280.
 -- 三咲高校の生徒会室は二つあり、
-　Le conseil étudiant occupait deux salles du lycée Misaki,
+  Le conseil étudiant occupait deux salles du lycée Misaki,
 
 }
 [sha:077c81e2108bda905678bb4648b8de0a77d32875]{
 -- Page 1, Offset 2281.
 -- 一つは生徒会用に作られた大部屋、
-　une grande salle qui était utilisée uniquement par le conseil,
+  une grande salle qui était utilisée uniquement par le conseil,
 
 }
 [sha:6745d3ef840f901aa0762e3b10a411eb0013cd82]{
 -- Page 1, Offset 2282.
 -- もう一つは数学の準備室だった資料室とに分かれている。
-　et l'autre était la salle de documentation qui servait autrefois de salle de stockage pour les mathématiques.
+  et l'autre était la salle de documentation qui servait autrefois de salle de stockage pour les mathématiques.
 
 }
 [sha:b97b331a9c5f45ebbe144fb41353e5b50eecdfb3]{
 -- Page 2, Offset 2283.
 -- こちらは資料室の方で、壁にはファイルのつまった資料棚がびっしりと並び、ただでさえ狭苦しい部屋を余計に窮屈に見せていた。
-　Celle-ci était la salle de documentation. Le long des murs s'alignaient des étagères chargées de divers dossiers, ce qui rendait la salle déjà étroite encore plus exiguë.
+  Celle-ci était la salle de documentation. Le long des murs s'alignaient des étagères chargées de divers dossiers, ce qui rendait la salle déjà étroite encore plus exiguë.
 
 }
 [sha:239447f50740dbe46db7d7ce198824556ff05968]{
 -- Page 2, Offset 2284.
 -- 生徒会室というより、個人の隠れ家といった方が正しいだろう。
-　Il était sûrement plus approprié de parler de refuge personnel que de salle du conseil étudiant.
+  Il était sûrement plus approprié de parler de refuge personnel que de salle du conseil étudiant.
 
 }
 [sha:21f057b9c7aaf1f68067bcfdca65937a992f9e6a]{
 -- Page 2, Offset 2285.
 -- 草十郎が椅子に座ると、向かい合うように男子生徒も腰を下ろした。
-　Alors que Sōjūrō était sur le point de s'installer sur l'une des chaises, l'autre garçon s'assit en face de lui.
+  Alors que Sōjūrō était sur le point de s'installer sur l'une des chaises, l'autre garçon s'assit en face de lui.
 
 }
 [sha:8cad5e3e480345a3bf006ce42a338d9cb37b20a1]{
 -- Page 3, Offset 2286.
 -- <槻司|つきじ><鳶丸|とびまる>。
-　Tsukiji Tobimaru :
+  Tsukiji Tobimaru :
 
 }
 [sha:13195ea3500af2171a4fa058f67114170d4aa6e3]{
 -- Page 3, Offset 2287.
 -- 私立三咲高校の理事長の息子であり、生徒会副会長。
-　fils du président du lycée privé Misaki, et vice-président du conseil étudiant.
+  fils du président du lycée privé Misaki, et vice-président du conseil étudiant.
 
 }
 [sha:a3b7ffbe6c0fc96f621957bdde773ca28b6a3a68]{
 -- Page 3, Offset 2288.
 -- 学年は草十郎と同じく二年生で、約一週間前、転入生の世話を生徒会長に押しつけられてからの付き合いである。
-　Il était en deuxième année comme Sōjūrō, et environ une semaine auparavant, la présidente du conseil étudiant lui avait demandé de prendre soin de ce dernier.
+  Il était en deuxième année comme Sōjūrō, et environ une semaine auparavant, la présidente du conseil étudiant lui avait demandé de prendre soin de ce dernier.
 
 }
 [sha:b13ffff1f8d4d99e8a71a7164017f6ae61ac1546]{
@@ -79,19 +79,19 @@
 [sha:385b7480855d71eebe991f88ac39e578b18f6a09]{
 -- Page 4, Offset 2290.
 -- やれやれと自嘲するも、不満があるワケでもなさそうだ。
-　Il faisait preuve d'autodérision, mais il ne semblait pas mécontent.
+  Il faisait preuve d'autodérision, mais il ne semblait pas mécontent.
 
 }
 [sha:63f73a78013ea3e00a143f3f72bc2835b95977cd]{
 -- Page 4, Offset 2291.
 -- 鳶丸はポケットからスナック菓子を取りだし、実にまずそうに口に入れた。
-　Tobimaru sortit une barre énergétique de sa poche et grimaça en la mettant dans sa bouche, comme si c'était vraiment mauvais.
+  Tobimaru sortit une barre énergétique de sa poche et grimaça en la mettant dans sa bouche, comme si c'était vraiment mauvais.
 
 }
 [sha:6624b6bc8ce29723468e173b6c48ceee02f94c9e]{
 -- Page 4, Offset 2292.
 -- 一本１００キロカロリーほどのブロック形式の簡易食を、それこそ干し肉を引きちぎるように片づけていく。
-　Il ingéra ce simple aliment, d'à peu près 100 kilocalories par morceau, comme s'il déchirait de la viande sèche.
+  Il ingéra ce simple aliment, d'à peu près 100 kilocalories par morceau, comme s'il déchirait de la viande sèche.
 
 }
 [sha:0b3a0a0d49a550d536c85f90bfe97c7335f99ff0]{
@@ -103,7 +103,7 @@
 [sha:bcc446c8b9c4b05e134a5f770480647f5612d6a8]{
 -- Page 5, Offset 2294.
 -- 難しい顔つきで草十郎は椅子に座る。
-　Sōjūrō s'assit sur sa chaise en arborant un air sérieux.
+  Sōjūrō s'assit sur sa chaise en arborant un air sérieux.
 
 }
 [sha:bbb52e77ab48fdad55af37fb8694f0c2dcd26758]{
@@ -133,31 +133,31 @@
 [sha:6b7b542347573e0184c79659507e1c3092a2d4fb]{
 -- Page 6, Offset 2299.
 -- 徒党を組んだ野犬ほど始末に負えないものはない。
-　Il n'y a rien de plus terrifiant qu'une meute de chiens sauvages.
+  Il n'y a rien de plus terrifiant qu'une meute de chiens sauvages.
 
 }
 [sha:1cababfcbd69feb9506d9de154a524af9e48202d]{
 -- Page 6, Offset 2300.
 -- <脚|あし>の速さも脅威だけど、なにより執念深すぎる。
-　Ils sont très rapides, mais surtout, ils sont incroyablement tenaces.
+  Ils sont très rapides, mais surtout, ils sont incroyablement tenaces.
 
 }
 [sha:a790ff5067e017f89fc1b7f50c998016eb229ef9]{
 -- Page 6, Offset 2301.
 -- 坂だろうと追いかけてくるし、最後の一匹になるまで引かないんだぞ」
-　Ils te poursuivent même sur les pentes raides et n'abandonnent pas tant qu'ils sont en meute.」
+  Ils te poursuivent même sur les pentes raides et n'abandonnent pas tant qu'ils sont en meute.」
 
 }
 [sha:adeebc1ebea7f4aeabf5eeefe6616fbb751a0625]{
 -- Page 7, Offset 2302.
 -- などと言いつつ、弁当の包みを開ける草十郎。
-　dit Sōjūrō tout en ouvrant l'emballage de son panier-repas.
+  dit Sōjūrō tout en ouvrant l'emballage de son panier-repas.
 
 }
 [sha:42cb66577ed301fa374b851ddb7b391f41c290cf]{
 -- Page 7, Offset 2303.
 -- 若草色をした布には、綺麗な三角形をしたおにぎりが三つ包まれていた。
-　Le tissu vert clair renfermait trois boulettes de riz de forme triangulaire.
+  Le tissu vert clair renfermait trois boulettes de riz de forme triangulaire.
 
 }
 [sha:0cdedff575a684d21db7af30a2c9b23d3663501d]{
@@ -193,19 +193,19 @@
 [sha:80acf0736abe0b0c318ee82cc4eaa46fdd76d779]{
 -- Page 9, Offset 2309.
 -- 草十郎を相手に侮辱とも称賛とも取れる言い回しはこういう結果を招く。婉曲な表現、遠回しな嫌味をかみ砕ける<機微|きび>がないためだ。
-　Avec Sōjūrō, une tournure de phrase pouvant être prise pour un compliment ou une insulte donnait ce résultat. C'était pour éviter que les subtilités telles que les insinuations ou les sarcasmes détournés restent sans effet.
+  Avec Sōjūrō, une tournure de phrase pouvant être prise pour un compliment ou une insulte donnait ce résultat. C'était pour éviter que les subtilités telles que les insinuations ou les sarcasmes détournés restent sans effet.
 
 }
 [sha:3bb99260eb1220556d3f78fdd26302a451bbd289]{
 -- Page 9, Offset 2310.
 -- ただ、今のように言葉の良し悪しをいちいち訊ねるのは<希|まれ>だった。
-　Mais il était rare qu'il demande le sens d'une phrase, comme à l'instant, qu'elle soit bonne ou mauvaise.
+  Mais il était rare qu'il demande le sens d'une phrase, comme à l'instant, qu'elle soit bonne ou mauvaise.
 
 }
 [sha:a81df9602709cf10c8cb20aac5b76b544614c918]{
 -- Page 9, Offset 2311.
 -- 鳶丸の推測だが、この少年は個人的に<譲|ゆず>れない事のみ白黒をハッキリさせる気質らしい。
-　C'était une supposition de Tobimaru, mais ce garçon avait tendance à ne clarifier que les choses qu'il ne pouvait pas admettre.
+  C'était une supposition de Tobimaru, mais ce garçon avait tendance à ne clarifier que les choses qu'il ne pouvait pas admettre.
 
 }
 [sha:043478c3ac3095f4eaf44d89984fbc3075cf10e8]{
@@ -217,7 +217,7 @@
 [sha:fbfcc940a74e5aff082a52b3efdc9f529c82522d]{
 -- Page 10, Offset 2313.
 -- 興味津々とばかりに鳶丸の簡易食を見つめる草十郎。
-　demanda Sōjūrō tout en regardant d'un air très intéressé la nourriture de Tobimaru.
+  demanda Sōjūrō tout en regardant d'un air très intéressé la nourriture de Tobimaru.
 
 }
 [sha:5a05bd5668eb065d20c0af05761fe0b60a0b0eb1]{
@@ -229,19 +229,19 @@
 [sha:0e93b1b2912c2aafa11da78af3e998e4bebcbc2f]{
 -- Page 11, Offset 2315.
 -- 人間、何事も手間暇惜しむようになっちゃおしまいだぜ。事が三大欲求ならなおさらだ」
-　Si les gens ne faisaient plus des efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
+  Si les gens ne faisaient plus des efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
 
 }
 [sha:1b3771569944578ae41ac405d71aded3a67ab5cf]{
 -- Page 12, Offset 2316.
 -- 鳶丸はガリガリとブロック菓子を平らげ、残った一本を机に置き、当然という手つきでおにぎりを一つ手に取った。
-　Tobimaru finit sa barre énergétique, posa la dernière sur la table et prit, comme si c'était normal, une boulette de riz.
+  Tobimaru finit sa barre énergétique, posa la dernière sur la table et prit, comme si c'était normal, une boulette de riz.
 
 }
 [sha:a31c12277b332c826ad0e99a5f3e812055cb35a5]{
 -- Page 12, Offset 2317.
 -- 草十郎も当然とばかりに鳶丸の暴挙を見逃し、差し出されたブロック菓子を食べてみる。
-　Sōjūrō laissa faire Tobimaru sans protester et goûta le biscuit qu'on lui avait offert.
+  Sōjūrō laissa faire Tobimaru sans protester et goûta le biscuit qu'on lui avait offert.
 
 }
 [sha:6b00ad94ba55f91a194d36d8cdebe0ca4d2ebd35]{
@@ -259,13 +259,13 @@
 [sha:440cbbe8c1f082b491c4d21ccdb16ab2eaaf02d0]{
 -- Page 13, Offset 2320.
 -- 草十郎は苦い顔のまま、律儀に簡易食をかじっていく。
-　L'air mécontent, Sōjūrō continua de grignoter bravement cette nourriture rudimentaire.
+  L'air mécontent, Sōjūrō continua de grignoter bravement cette nourriture rudimentaire.
 
 }
 [sha:eca8e62954c1c934103d1be4308abbb393a2c410]{
 -- Page 13, Offset 2321.
 -- 未知への関心と、はじめた事はきっちり終わらせようとする律儀さである。
-　Parce qu'il était intrigué par ce qui lui était inconnu, et parce qu'il avait la décence de finir ce qu'il avait commencé.
+  Parce qu'il était intrigué par ce qui lui était inconnu, et parce qu'il avait la décence de finir ce qu'il avait commencé.
 
 }
 [sha:315c6f801fee84fa457f0e21ba408f37defabd38]{
@@ -277,7 +277,7 @@
 [sha:7c3ebed1a14ef93b93e1a78f861d63869884b329]{
 -- Page 14, Offset 2323.
 -- ま、そっちはともかく。どうだ、少しは慣れたか？」
-　Enfin, peu importe. Alors, tu t'es un peu acclimaté ?」
+  Enfin, peu importe. Alors, tu t'es un peu acclimaté ?」
 
 }
 [sha:b661cafe05bc976a541f9d284f3b0fded2472755]{
@@ -289,19 +289,19 @@
 [sha:57dcc7043ea048c6b9aa961928de9143b4b3b1e6]{
 -- Page 15, Offset 2325.
 -- 屈託のない笑顔に、鳶丸はつい顔をそらしてしまった。
-　Devant son sourire insouciant, Tobimaru détourna inconsciemment le regard.
+  Devant son sourire insouciant, Tobimaru détourna inconsciemment le regard.
 
 }
 [sha:26ee182b0129792682a92c5c0a197add7d035a7e]{
 -- Page 15, Offset 2326.
 -- 草十郎はたしかに普段からぼんやりしているが、反面、こうして見せる感情表現はまっすぐで嘘がない。
-　Il était vrai que Sōjūrō se montrait en général assez distrait, mais d'un autre côté, ses expressions étaient franches et honnêtes.
+  Il était vrai que Sōjūrō se montrait en général assez distrait, mais d'un autre côté, ses expressions étaient franches et honnêtes.
 
 }
 [sha:adcde3531ba6972eccbb3a89a7a0596b4d821995]{
 -- Page 15, Offset 2327.
 -- 鳶丸のように若く利己的な人間にとっては、ささやかな毒にもなる。
-　Pour une jeune personne égoïste comme Tobimaru, il pouvait aussi devenir un poison pernicieux.
+  Pour une jeune personne égoïste comme Tobimaru, il pouvait aussi devenir un poison pernicieux.
 
 }
 [sha:77750b09eb5ce86ee733b1cf6303aa99295c956e]{
@@ -313,13 +313,13 @@
 [sha:1dba3278f5c1eeffc00c9b0af575e0d25237d467]{
 -- Page 16, Offset 2329.
 -- 内心呟いて、手にした握り飯を一口かじる鳶丸。
-　murmura intérieurement Tobimaru, en prenant une autre bouchée de la boulette de riz qu'il avait dans la main.
+  murmura intérieurement Tobimaru, en prenant une autre bouchée de la boulette de riz qu'il avait dans la main.
 
 }
 [sha:8228a36b00f6a109314ac6685698e8a75a81dd18]{
 -- Page 16, Offset 2330.
 -- 冷めた白米でありながら、しっかり柔らかな食感である事に二度驚く鳶丸だった。
-　Tobimaru fut surpris pour la deuxième fois par la texture bien tendre du riz pourtant froid.
+  Tobimaru fut surpris pour la deuxième fois par la texture bien tendre du riz pourtant froid.
 
 }
 [sha:58ba15a7894ef0e200d2c6ccc7e825fa6aa5a659]{
@@ -349,13 +349,13 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:91766afb6c541b534025a6840b428497735cc4ef]{
 -- Page 18, Offset 2335.
 -- 面倒な苦労してんのは俺だけじゃねえかって―――」
-　Et donc, en fait, il n'y a que moi qui fais le travail pénible―――」
+  Et donc, en fait, il n'y a que moi qui fais le travail pénible―――」
 
 }
 [sha:e7b4ed663fba1428c3563d38790bc58a98d6925b]{
 -- Page 18, Offset 2336.
 -- そこまで口にして、鳶丸は自分の言い分が馬鹿らしくなった。草十郎の言う通り、鳶丸が怒る筋合いでもない。
-　Réalisant que c'était ridicule, Tobimaru interrompit sa tirade. Comme le disait Sōjūrō, ce n'était pas une raison pour s'énerver.
+  Réalisant que c'était ridicule, Tobimaru interrompit sa tirade. Comme le disait Sōjūrō, ce n'était pas une raison pour s'énerver.
 
 }
 [sha:c33c8c3396f6e37411bd8e4f82b6fb87a265998a]{
@@ -367,13 +367,13 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:dad6f402faf80e90c3fda39f837b8368288af979]{
 -- Page 19, Offset 2338.
 -- 知ってるか？
-　Tu es au courant ?
+  Tu es au courant ?
 
 }
 [sha:af29a0a7defbca012f69d712e054679242084920]{
 -- Page 19, Offset 2339.
 -- あいつ、どうして俺にこんな役させたと思う？」
-　D'après toi, pourquoi m'a-t-elle confié cette tâche ?」
+  D'après toi, pourquoi m'a-t-elle confié cette tâche ?」
 
 }
 [sha:cf1ff26836ca690c4efbfb16d37a1ecd08aef007]{
@@ -385,7 +385,7 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:a2927dd75c07509fb7afe5624a20692873656711]{
 -- Page 19, Offset 2341.
 -- 言われて、鳶丸はその綺麗な顔を曇らせる。
-　Le beau visage de Tobimaru s'assombrit.
+  Le beau visage de Tobimaru s'assombrit.
 
 }
 [sha:0d1de4448654a721a88bb1575df8353e313d564f]{
@@ -397,19 +397,19 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:dcd4c9f155a4102ec9c6cc54146002c5df52b055]{
 -- Page 20, Offset 2343.
 -- チッ、いいぜ、機会があったら蒼崎本人に聞いてみな。あいつの本性が分かるからよ」
-　Tch, c'est pas grave, si jamais tu en as l'occasion, demande-le directement à Aozaki. De cette façon, tu comprendras sa véritable nature.」
+  Tch, c'est pas grave, si jamais tu en as l'occasion, demande-le directement à Aozaki. De cette façon, tu comprendras sa véritable nature.」
 
 }
 [sha:e17e7485b2830b376fba130c7c4bf8b22586288c]{
 -- Page 21, Offset 2344.
 -- 鳶丸は悪態をつきながらさらに握り飯をかじる。
-　Tobimaru mordilla une nouvelle fois sa boulette de riz tout en débitant ses jérémiades.
+  Tobimaru mordilla une nouvelle fois sa boulette de riz tout en débitant ses jérémiades.
 
 }
 [sha:6895925aafb4b7632478d42fc96c1426069e2678]{
 -- Page 21, Offset 2345.
 -- 乾燥した米粒でありながら、なんという<瑞々|みずみず>しさ……言うなれば<握|にぎ>り飯ではなく<包|つつ>み飯。力任せに米を固めたのではなく、職人の業で優しく『おにぎり』というカタチに集結させたとしか思えない……
-　Il ne s'agissait que de grains de riz secs, et pourtant, quelle fraîcheur... Ce n'était pas une boulette de riz difforme, mais plutôt le fruit d'une préparation minutieuse. On aurait même pu croire que c'était l'œuvre d'un traiteur qui aurait soigneusement pétri le riz en boulette, et non pas quelque chose que l'on aurait travaillé par la force......
+  Il ne s'agissait que de grains de riz secs, et pourtant, quelle fraîcheur... Ce n'était pas une boulette de riz difforme, mais plutôt le fruit d'une préparation minutieuse. On aurait même pu croire que c'était l'œuvre d'un traiteur qui aurait soigneusement pétri le riz en boulette, et non pas quelque chose que l'on aurait travaillé par la force......
 
 }
 [sha:0b6aa19bbb1453095f80ac9d029a18c838c8a822]{
@@ -421,13 +421,13 @@ Attends ! Il n'y a que moi qui prends soin de toi. La seule participation d'Aoza
 [sha:fba7a8762ef9eeb89e29c0c7d15d71e06b884176]{
 -- Page 22, Offset 2347. Glued. Mods: @n.
 -- 食欲をそそるどころか、脳を食欲だけにするような―――
-non seulement ça stimule l'appétit, mais en plus, seule la faim occupe nos pensées―――
+ non seulement ça stimule l'appétit, mais en plus, seule la faim occupe nos pensées―――
 
 }
 [sha:81be266f20b764e2f0099955bc6e78943e923f31]{
 -- Page 22, Offset 2348. Glued.
 -- おお―――」
-Oooh―――」
+ Oooh―――」
 
 }
 [sha:286f93e1e8e0a15c3811b6a736e0905b191b6e86]{
@@ -445,19 +445,19 @@ Oooh―――」
 [sha:96ddf71616558b4ea355b0d14b04c4a34daa60a8]{
 -- Page 23, Offset 2351.
 -- なあ草の字。これ、具はなんだ？」
-　Dis, Petit Sō. C'est quoi ton ingrédient ?」
+  Dis, Petit Sō. C'est quoi ton ingrédient ?」
 
 }
 [sha:71652dbd83f3f62ed89ab323f6cb0055ebed0d69]{
 -- Page 23, Offset 2352.
 -- 予想外の味に思わず訊ねる。
-　demanda-t-il inconsciemment face à ce goût surprenant.
+  demanda-t-il inconsciemment face à ce goût surprenant.
 
 }
 [sha:b0dccae42d762010c8c0f0791bbcc065604d75cf]{
 -- Page 23, Offset 2353.
 -- ちなみに、鳶丸はまだ外周だけで中心たる具に辿り着いていない。
-　Au passage, Tobimaru en était toujours à la partie extérieure et n'était pas encore arrivé au centre.
+  Au passage, Tobimaru en était toujours à la partie extérieure et n'était pas encore arrivé au centre.
 
 }
 [sha:c74d17634baa44ffc25560cb7369948b55392d87]{
@@ -475,13 +475,13 @@ Oooh―――」
 [sha:49ee48e1e41d4cd7bcc24de3debf0f8bf519a891]{
 -- Page 24, Offset 2356.
 -- がは、と咳きこむ副会長。
-　fit le vice-président en toussant violemment.
+  fit le vice-président en toussant violemment.
 
 }
 [sha:c8c148aa4af0064461bc52541a9c25104bc0aec2]{
 -- Page 24, Offset 2357.
 -- たしかに、山奥育ちの草十郎には海の幸より山の幸のイメージがあるような、でもイナゴはないような。
-　Comme Sōjūrō avait grandi à la montagne, il était davantage habitué aux produits montagnards que marins. Mais Tobimaru n'avait pas l'impression que la sauterelle en faisait partie.
+  Comme Sōjūrō avait grandi à la montagne, il était davantage habitué aux produits montagnards que marins. Mais Tobimaru n'avait pas l'impression que la sauterelle en faisait partie.
 
 }
 [sha:44e0b1e4788b689400e5918c6985a0c7761d675c]{
@@ -499,7 +499,7 @@ Oooh―――」
 [sha:3887d5aecf9b5351fa424f86263bf197ab0a9fab]{
 -- Page 25, Offset 2360.
 -- 瞬間、見つめ合うふたり。
-　Les deux se regardèrent un instant.
+  Les deux se regardèrent un instant.
 
 }
 [sha:ec54829023b11c9518e30a57ba9e6151329d0884]{
@@ -517,7 +517,7 @@ Oooh―――」
 [sha:03b0ef9f9c94385e4033035cef6aa8228c19e0d6]{
 -- Page 26, Offset 2363.
 -- いくらなんでもイナゴはねえよな」
-　C'est sûr que de la sauterelle, c'était un peu trop gros pour être vrai.」
+  C'est sûr que de la sauterelle, c'était un peu trop gros pour être vrai.」
 
 }
 [sha:16c26f8e8977eb1f53f5d57998d74afb5c5a360c]{
@@ -535,7 +535,7 @@ Oooh―――」
 [sha:120cb20d89dffa794725cb74ca95f516af0c9db9]{
 -- Page 26, Offset 2366.
 -- 気になる台詞だったが、あえて鳶丸はスルーする。
-　Cette phrase l'inquiétait, mais Tobimaru préféra l'ignorer.
+  Cette phrase l'inquiétait, mais Tobimaru préféra l'ignorer.
 
 }
 [sha:641b2db76277235e940c0e9d4a3e10af816b4145]{
@@ -553,13 +553,13 @@ Oooh―――」
 [sha:61138081971791d5c3111653be5fb3548b8ec73d]{
 -- Page 27, Offset 2369.
 -- 瞼を閉じ、不機嫌そうに握り飯を食べながら草十郎はそう言った。たしかに言った。
-　Tout en mangeant d'un air contrarié sa boulette de riz, les paupières fermées, Sōjūrō venait de tenir des propos surprenants. C'était vraiment lui qui avait prononcé ces mots.
+  Tout en mangeant d'un air contrarié sa boulette de riz, les paupières fermées, Sōjūrō venait de tenir des propos surprenants. C'était vraiment lui qui avait prononcé ces mots.
 
 }
 [sha:192193f425c3d7507d8529dc182e843c1dca5fc6]{
 -- Page 27, Offset 2370.
 -- 不満そうにもぐもぐ口を動かす草十郎を、鳶丸は<唖然|あぜん>と見つめる。
-　Interloqué, Tobimaru resta un instant à regarder Sōjūrō qui mâchait son repas avec mécontentement.
+  Interloqué, Tobimaru resta un instant à regarder Sōjūrō qui mâchait son repas avec mécontentement.
 
 }
 [sha:7a3d0bf004d24a2c534e3865b977ae519764b945]{
@@ -577,19 +577,19 @@ Oooh―――」
 [sha:af0b02289b9630f0080fbacb82ab3ae4bf2539ff]{
 -- Page 28, Offset 2373.
 -- もぐもぐもぐ。
-　*bruits de mastication*
+  *bruits de mastication*
 
 }
 [sha:ae83f1c98c3379dc793fc1ae8a46519e5a0e5c5f]{
 -- Page 28, Offset 2374.
 -- 純朴な田舎少年の無言の抗議は、ますます真実味を増していく。
-　La protestation silencieuse du rustre jeune homme de la campagne avait de plus en plus le goût de la vérité.
+  La protestation silencieuse du rustre jeune homme de la campagne avait de plus en plus le goût de la vérité.
 
 }
 [sha:3ca34a2ca556295a62891508a45e5d01d1be52a7]{
 -- Page 28, Offset 2375.
 -- 間違いない、なんという悲劇、と副会長は落雷を受けたかのような頭痛にもだえた。
-　Il n'y a pas d'erreur, c'est une véritable tragédie, pensa le vice-président qui se mit à ressentir un mal de crâne, comme s'il avait été touché par la foudre.
+  Il n'y a pas d'erreur, c'est une véritable tragédie, pensa le vice-président qui se mit à ressentir un mal de crâne, comme s'il avait été touché par la foudre.
 
 }
 [sha:952d5c522b42873350d02391334f3ecba876c064]{
@@ -601,19 +601,19 @@ Oooh―――」
 [sha:08335887c696acfd6394da4b4d099fcaf4a3ea08]{
 -- Page 29, Offset 2377.
 -- そうなのか？　そうなんだな!?　おい、眠ってねえで起きろ！」
-　C'est ça ? C'est ça, pas vrai ?! Hé, ne fais pas le sourd, réveille-toi !」
+  C'est ça ? C'est ça, pas vrai ?! Hé, ne fais pas le sourd, réveille-toi !」
 
 }
 [sha:1ab0ac47ca8df010744f8ae6c5f1fe4d770e5df7]{
 -- Page 29, Offset 2378.
 -- 椅子から立ち上がり、草十郎の両肩を激しくシェイクする鳶丸。
-　Tobimaru se leva brusquement de sa chaise et secoua les épaules de Sōjūrō.
+  Tobimaru se leva brusquement de sa chaise et secoua les épaules de Sōjūrō.
 
 }
 [sha:d7047ed65bafde46c3fbc20d0a14760ecd60f436]{
 -- Page 29, Offset 2379.
 -- 仕方なく、むっとした顔で草十郎は目を開けた。
-　Sōjūrō ouvrit les yeux malgré lui, d'un air morose.
+  Sōjūrō ouvrit les yeux malgré lui, d'un air morose.
 
 }
 [sha:067ff2dd343e1d18f271b7c371131ef5f3663a3f]{
@@ -625,7 +625,7 @@ Oooh―――」
 [sha:66d7992cd6e61fdb40330da1ab978ae007b0a726]{
 -- Page 30, Offset 2381.
 -- 知ってりゃ、そんなストレートな破滅願望を持つ事もなかったろうに」
-　Si tu avais su, tu n'aurais pas eu à connaître ce désir destructeur.」
+  Si tu avais su, tu n'aurais pas eu à connaître ce désir destructeur.」
 
 }
 [sha:5c211be511972681b43baf897db4fd431432580e]{
@@ -643,7 +643,7 @@ Oooh―――」
 [sha:85ccbc0ec83a188ca1ec07db4eb9e6c832cc50cf]{
 -- Page 31, Offset 2384.
 -- 鳶丸はハッと我に返り、どうしたものかと考えたあげく、どすんと椅子に座る。
-　Tobimaru reprit ses esprits et, après s'être demandé ce qu'il devait faire, se rassit sur sa chaise.
+  Tobimaru reprit ses esprits et, après s'être demandé ce qu'il devait faire, se rassit sur sa chaise.
 
 }
 [sha:2f330a5f9778d40301ca821940a46f0df2aa51ad]{
@@ -655,7 +655,7 @@ Oooh―――」
 [sha:e2653773d072520dd0eb9fc3088f65dec566efa6]{
 -- Page 31, Offset 2386.
 -- しかしそれも青少年の輝かしい未来のためだ、と鳶丸は自己肯定した。
-　C'est pour le brillant avenir de ce jeune garçon, se dit Tobimaru.
+  C'est pour le brillant avenir de ce jeune garçon, se dit Tobimaru.
 
 }
 [sha:4bea5119bcb40e590352f1a8516961d6a53c1361]{
@@ -667,25 +667,25 @@ Oooh―――」
 [sha:eccb222d044fc6b249d9c6934fda4132da6902a0]{
 -- Page 32, Offset 2388.
 -- あの頃はみんな入学したばっかりで、蒼崎がどんな性格か誰も知らなかった。
-　À cette époque, tout le monde venait d'entrer au lycée, et personne ne connaissait son caractère.
+  À cette époque, tout le monde venait d'entrer au lycée, et personne ne connaissait son caractère.
 
 }
 [sha:8781f03965bec9fd590f2e99635b5cfa0fc3c90c]{
 -- Page 32, Offset 2389.
 -- あいつ、外見は文句なしに美人だからな。
-　Après tout, physiquement, on peut dire sans équivoque que c'est une beauté.
+  Après tout, physiquement, on peut dire sans équivoque que c'est une beauté.
 
 }
 [sha:5d99f966a1dbc36959a91f741096788508932a4a]{
 -- Page 32, Offset 2390.
 -- そりゃあ男どもは狂喜乱舞したもんさ」
-　Tous les gars en étaient fous de joie.」
+  Tous les gars en étaient fous de joie.」
 
 }
 [sha:7d4f7d77ee92bb0ff3614f139d4f9469173014d8]{
 -- Page 32, Offset 2391.
 -- そして、後に違った意味で狂喜乱舞する事になるとは、誰ひとり夢にも思わなかったのである。
-　Et personne n'aurait pu imaginer que plus tard, leur émoi serait provoqué par tout autre chose.
+  Et personne n'aurait pu imaginer que plus tard, leur émoi serait provoqué par tout autre chose.
 
 }
 [sha:7cd4da288ed63cf89c4ec88b894c89455d7d6945]{
@@ -697,13 +697,13 @@ Oooh―――」
 [sha:39efa79ec533cf7a616f5fb1541e9950fc7f1de4]{
 -- Page 33, Offset 2393.
 -- あの時ばかりは上級生も下級生もなかったな。
-　Il n'y a qu'à ce moment-là qu'ils ont été tous égaux, pas d'anciens ni de nouveaux.
+  Il n'y a qu'à ce moment-là qu'ils ont été tous égaux, pas d'anciens ni de nouveaux.
 
 }
 [sha:150290e1aa33844f0c0babc94efe2912d4e6c69a]{
 -- Page 33, Offset 2394.
 -- 野郎同士の牽制、共闘、はては決闘まで、まあよくも騒いだもんさ。蒼崎に近寄るだけでも大変だったんだぜ？」
-　Les mecs se faisaient des coups vaches entre eux, formaient des alliances, et faisaient même des duels, en tout cas, il y a eu pas mal de tapage. Rien que s'approcher d'Aozaki était difficile !」
+  Les mecs se faisaient des coups vaches entre eux, formaient des alliances, et faisaient même des duels, en tout cas, il y a eu pas mal de tapage. Rien que s'approcher d'Aozaki était difficile !」
 
 }
 [sha:9f0b8b2b29947f773fcafeee1fd63f79f491fa4a]{
@@ -721,13 +721,13 @@ Oooh―――」
 [sha:9a297a4f42bb93c0acd9ba5a5eba2ad06a2e7783]{
 -- Page 34, Offset 2397.
 -- ひとりひとり蒼崎とランチしても三ヶ月かかるだろ？
-　S'ils devaient prendre le déjeuner avec Aozaki à tour de rôle, ça aurait pris trois mois.
+  S'ils devaient prendre le déjeuner avec Aozaki à tour de rôle, ça aurait pris trois mois.
 
 }
 [sha:5bb799184ca18e69fe23b63b6299da95c1d5099b]{
 -- Page 34, Offset 2398.
 -- だから、まずは男同士でつまんねえ暗闘があったのさ」
-　C'est pour ça qu'il y avait une animosité secrète et inutile entre eux.」
+  C'est pour ça qu'il y avait une animosité secrète et inutile entre eux.」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -751,13 +751,13 @@ Oooh―――」
 [sha:88432adcfa6e9060b176ca78e2fa3cdf273c3ca3]{
 -- Page 35, Offset 2402.
 -- 蒼崎はアレでなんていうか、相手のなけなしの誠意？　じゃなくてアレか、勇気？　そういうの、無視できずに認めちまうヤツだからな。
-　Aozaki est, comment dire... elle est du genre à ne pas pouvoir ignorer quand son adversaire fait preuve d'un minimum de sincérité, ou plutôt de courage, et à en reconnaître les efforts.
+  Aozaki est, comment dire... elle est du genre à ne pas pouvoir ignorer quand son adversaire fait preuve d'un minimum de sincérité, ou plutôt de courage, et à en reconnaître les efforts.
 
 }
 [sha:c2c33aa1caddf9d7787743bda7c6a962d679211c]{
 -- Page 35, Offset 2403.
 -- 言い寄ってくる相手を可能なかぎり丁寧に断ってた」
-　Elle refusait donc le plus aimablement possible les propositions des personnes qui venaient la draguer.」
+  Elle refusait donc le plus aimablement possible les propositions des personnes qui venaient la draguer.」
 
 }
 [sha:7175c80a7ed380ec3ab59fe54dbc3b8df0e2fdb1]{
@@ -769,19 +769,19 @@ Oooh―――」
 [sha:f750db797105f834e4ecd7aed988994fb7e340d5]{
 -- Page 36, Offset 2405.
 -- 三年のある野郎がこれは脈アリと見て蒼崎に何度も言い寄ったんだよ。
-　Il était en troisième année et pensait que c'était sa chance, il l'a donc draguée à plusieurs reprises.
+  Il était en troisième année et pensait que c'était sa chance, il l'a donc draguée à plusieurs reprises.
 
 }
 [sha:8ed76f39a157844a4b7b2fddfbad3a19de910aa3]{
 -- Page 36, Offset 2406.
 -- ……たぶん、そいつ頭がおかしかったんだ。今にして思うと、そうとしか思えん」
-　...... Il avait sûrement un problème dans sa tête. Maintenant que j'y pense, ça ne pouvait être que ça.」
+  ...... Il avait sûrement un problème dans sa tête. Maintenant que j'y pense, ça ne pouvait être que ça.」
 
 }
 [sha:31f78deb82d81fc3a78f6182c9df3e98f40ae8ca]{
 -- Page 36, Offset 2407.
 -- ちなみに、その三年生とやらが前期の生徒会長である事を、鳶丸は秘する事にした。
-　Au passage, Tobimaru décida de passer sous silence le fait que ce troisième année était le précédent président du conseil étudiant.
+  Au passage, Tobimaru décida de passer sous silence le fait que ce troisième année était le précédent président du conseil étudiant.
 
 }
 [sha:350d2d613aa4309b16a2a1959a53f5c36706b7ea]{
@@ -793,7 +793,7 @@ Oooh―――」
 [sha:d47ef2d6aab9f164fa4ca4a42a9b660c0336f686]{
 -- Page 37, Offset 2409. Glued.
 -- あまりにしつこいんで蒼崎も堪忍袋の緒が切れたんだろう。ちょっと、口にするのは<憚|はばか>られる方法でふったんだよ」
-Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejeté d'une manière que j'hésite un peu à décrire à haute voix.」
+ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejeté d'une manière que j'hésite un peu à décrire à haute voix.」
 
 }
 [sha:2ef482a8a9a97c2a6ca1effbae3bdc8b3f2c7f66]{
@@ -805,13 +805,13 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:253a041db39ab61d16eed30795acf694f2d347ed]{
 -- Page 38, Offset 2411.
 -- 世に言う血の公会堂事件だ。
-　C'est ce qu'on a appelé l'Incident Sanglant de la Grande Salle.
+  C'est ce qu'on a appelé l'Incident Sanglant de la Grande Salle.
 
 }
 [sha:2c22841480b21bf22aea5ea67e4f07b6b5092635]{
 -- Page 38, Offset 2412.
 -- 詳しく知りたけりゃ本人………はまずいな、新聞部にでもいけ。あそこの部長は命知らずだから、訊けば面白がって教えてくれる」
-　Si tu veux en savoir plus, demande à la personne concernée......... Ah non, ça serait une mauvaise idée, va plutôt au club de journalisme. Leur président est un casse-cou, alors si tu lui demandes, il te renseignera pour s'amuser.」
+  Si tu veux en savoir plus, demande à la personne concernée......... Ah non, ça serait une mauvaise idée, va plutôt au club de journalisme. Leur président est un casse-cou, alors si tu lui demandes, il te renseignera pour s'amuser.」
 
 }
 [sha:6162eaccc509b7451210f3ada11aa14ff6ca1773]{
@@ -829,7 +829,7 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:bfca7edd5c5caaa295c4f5dfa5b62e2d09aba58b]{
 -- Page 39, Offset 2415.
 -- うちの女子の制服みるたびに奇声をあげるトラウマなんて持ちたくねえよ」
-　Je ne veux pas subir de traumatisme qui me ferait pousser un cri étrange à chaque fois que je verrais l'uniforme des filles de notre lycée.」
+  Je ne veux pas subir de traumatisme qui me ferait pousser un cri étrange à chaque fois que je verrais l'uniforme des filles de notre lycée.」
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -841,13 +841,13 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:df5172137a8379afac91d02f7b997d389517e5a4]{
 -- Page 40, Offset 2417.
 -- むう、と納得いかなげに首をかしげる草十郎。
-　Sōjūrō inclinait la tête, pas convaincu.
+  Sōjūrō inclinait la tête, pas convaincu.
 
 }
 [sha:d69ab904703f998371eaae4547591b50d182aed6]{
 -- Page 40, Offset 2418.
 -- 鳶丸の言わんとするところが、彼にはさっぱり分からない。
-　Il ne comprenait pas du tout ce que Tobimaru essayait de dire.
+  Il ne comprenait pas du tout ce que Tobimaru essayait de dire.
 
 }
 [sha:56fb3fbbf4c5240eb9635cd624b71ac13372cbe1]{
@@ -859,13 +859,13 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:7c1ac788ce0ce7fbdb31ca02ca7d2087620e848e]{
 -- Page 41, Offset 2420.
 -- それより、なんで蒼崎なんかがいいんだよ、草十郎」
-　À part ça, qu'est-ce que tu lui trouves à Aozaki, Sōjūrō ?」
+  À part ça, qu'est-ce que tu lui trouves à Aozaki, Sōjūrō ?」
 
 }
 [sha:e87beb0090c7d2a1bf7496437a665278a17b3e77]{
 -- Page 41, Offset 2421.
 -- 言われて、今度は逆の方向に、はて、と草十郎は首をかしげた。
-　En entendant ça, Sōjūrō pencha cette fois la tête de l'autre côté.
+  En entendant ça, Sōjūrō pencha cette fois la tête de l'autre côté.
 
 }
 [sha:b842c206a18653f9e8c23d9af7a15d0bdd7792d3]{
@@ -877,25 +877,25 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:22199a91c0edca8d86c10586fbe69d3b017e1c67]{
 -- Page 42, Offset 2423.
 -- たんに胸がドキドキいってるだけなら、それは恋じゃなくて恐怖だってオチもあるぜ。いくら草の字がぼんやりでも理由ってもんがあるだろ？」
-　Si c'est seulement ton cœur qui bat la chamade, alors ce n'est pas bizarre, c'est peut-être juste de la peur. Même si tu es toujours à l'ouest, tu dois bien avoir une raison, non ?」
+  Si c'est seulement ton cœur qui bat la chamade, alors ce n'est pas bizarre, c'est peut-être juste de la peur. Même si tu es toujours à l'ouest, tu dois bien avoir une raison, non ?」
 
 }
 [sha:f2089b35be225432248c02eaf51301b7c76f6b25]{
 -- Page 42, Offset 2424.
 -- 草十郎はさらに首をかしげる。
-　Sōjūrō pencha encore plus sa tête.
+  Sōjūrō pencha encore plus sa tête.
 
 }
 [sha:2a37c13678d021a3d7b9b4c4a90413a6e3a76520]{
 -- Page 43, Offset 2425.
 -- 鳶丸の言い分には<語弊|ごへい>があるが、とりあえず今はそれを抜きにするとして。
-　Il y avait une erreur dans le raisonnement de Tobimaru, mais pour le moment, il la laissa de côté.
+  Il y avait une erreur dans le raisonnement de Tobimaru, mais pour le moment, il la laissa de côté.
 
 }
 [sha:df8cfe1549f422b1b5556405c3bfe97ec6361742]{
 -- Page 43, Offset 2426.
 -- 草十郎自身、蒼崎青子に抱く感情には理解できないものが多すぎた。
-　Sōjūrō éprouvait envers Aozaki Aoko trop de sentiments qu'il ne comprenait pas lui-même.
+  Sōjūrō éprouvait envers Aozaki Aoko trop de sentiments qu'il ne comprenait pas lui-même.
 
 }
 [sha:36c1d9e4733dfbadfa1bd984b77e75a353385286]{
@@ -907,19 +907,19 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:fab34b60bcc75d863dc0cf656b36147e6d13261e]{
 -- Page 44, Offset 2428.
 -- それもその筈、創立記念日の案内以来、学園内において草十郎と青子は一度も話していないのだ。
-　Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko en dehors de l'école.
+  Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko en dehors de l'école.
 
 }
 [sha:0e81bd7ffe5cb97ee508be95943cca79c9f3ee76]{
 -- Page 44, Offset 2429.
 -- 草十郎が話し掛けようとすると青子は素早く立ち去ってしまう。
-　Quand Sōjūrō essayait de lui parler, Aoko s'en allait en toute hâte.
+  Quand Sōjūrō essayait de lui parler, Aoko s'en allait en toute hâte.
 
 }
 [sha:3ec1e704e444e1f18928f92fddb617a189d5d55e]{
 -- Page 44, Offset 2430.
 -- この間の日曜日には縁あって労働を共にしたが、あれだって往復時間に軽く話した程度である。
-　Le dimanche dernier, ils s'étaient retrouvés à travailler ensemble par hasard, mais là aussi, ils avaient à peine parlé sur le chemin de l'aller et du retour.
+  Le dimanche dernier, ils s'étaient retrouvés à travailler ensemble par hasard, mais là aussi, ils avaient à peine parlé sur le chemin de l'aller et du retour.
 
 }
 [sha:f926ce06b0ea7018d58372bf6f6fd380c81c01ac]{
@@ -931,19 +931,19 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:26f6c57e310cdb5aab04bd99a25a35502537041b]{
 -- Page 45, Offset 2432.
 -- 時々なんだが、誰かの視線を感じて振り返ってみると、いつ失敗するかを心配して見ている人がいる。
-　Ça n'arrive que de temps en temps, mais quand je sens le regard de quelqu'un et que je me retourne, je vois une personne qui me regarde en guettant avec inquiétude le moment où je ferai une bêtise.
+  Ça n'arrive que de temps en temps, mais quand je sens le regard de quelqu'un et que je me retourne, je vois une personne qui me regarde en guettant avec inquiétude le moment où je ferai une bêtise.
 
 }
 [sha:7407cb3856e67c9c6b927d61a34068a0f4bc6ec6]{
 -- Page 45, Offset 2433.
 -- 鳶丸の言うとおり、ただ廊下で俺を見かけて、たんに監視していただけなのかも知れない。本当は俺の事なんて気にせず素通りしたいのかも知れない。
-　Tu as peut-être raison, et quand elle me croise dans le couloir, elle ne fait que me surveiller. Peut-être qu'en fait, elle ne veut pas avoir affaire à moi et préfère passer sans m'adresser la parole.
+  Tu as peut-être raison, et quand elle me croise dans le couloir, elle ne fait que me surveiller. Peut-être qu'en fait, elle ne veut pas avoir affaire à moi et préfère passer sans m'adresser la parole.
 
 }
 [sha:ba0709ca4a5288e0e50c7676a137c3d9a568a3cc]{
 -- Page 45, Offset 2434.
 -- けど、どんな種類であれ彼女の心配は本物だ」
-　Mais peu importe ce qui la préoccupe, son inquiétude est réelle.」
+  Mais peu importe ce qui la préoccupe, son inquiétude est réelle.」
 
 }
 [sha:523d2c710134bb1fa7038b6b66f13ae9eb9eafba]{
@@ -955,67 +955,67 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:e8bbae08573fa1d12602b483765fea00c7e8766b]{
 -- Page 46, Offset 2436.
 -- 実際の話、蒼崎のそういうところのおかげで、俺は助かっていたりするんだ」
-　dans l'état actuel des choses, c'est grâce à cette facette d'Aozaki que je tiens le coup.」
+  dans l'état actuel des choses, c'est grâce à cette facette d'Aozaki que je tiens le coup.」
 
 }
 [sha:fb675eccdf09bbdb2605384ab3f9871b8814a501]{
 -- Page 47, Offset 2437.
 -- 何の気負いもなく、真剣に彼は言った。
-　Il avait parlé sérieusement, sans la moindre hésitation.
+  Il avait parlé sérieusement, sans la moindre hésitation.
 
 }
 [sha:26f36c81e124cef5bef3cfd96fe5576cbbd179ab]{
 -- Page 47, Offset 2438.
 -- それを聞いた鳶丸は軽い後悔と共に、ため息などをこぼしてしまう。
-　En entendant cela, Tobimaru laissa échapper un léger regret en même temps qu'un soupir.
+  En entendant cela, Tobimaru laissa échapper un léger regret en même temps qu'un soupir.
 
 }
 [sha:ff2ab4b059fa772f89918bf0f78b4398f72654c1]{
 -- Page 48, Offset 2439.
 -- 今の台詞さえ聞かなければ適当な女生徒を紹介して、草十郎が平穏な高校生活を送れるよう段取っただろうに。
-　S'il n'avait pas entendu sa dernière phrase, il lui aurait présenté une élève convenable, et Sōjūrō aurait pu avoir une vie lycéenne tranquille.
+  S'il n'avait pas entendu sa dernière phrase, il lui aurait présenté une élève convenable, et Sōjūrō aurait pu avoir une vie lycéenne tranquille.
 
 }
 [sha:776481ad77f2dbb809ddc774478590e02f8faccb]{
 -- Page 48, Offset 2440.
 -- 本来、彼がそこまで男友達のために骨折るコトはない。
-　Tout d'abord, il n'était pas du genre à se démener de la sorte pour un ami.
+  Tout d'abord, il n'était pas du genre à se démener de la sorte pour un ami.
 
 }
 [sha:2d0698624b836aff41fcb8b4722d81ca0a04b494]{
 -- Page 48, Offset 2441.
 -- 利用できる相手なら損得のために騙しあい、助け合う。
-　Si c'était quelqu'un qui pouvait lui être utile, il le dupait et l'aidait de manière intéressée.
+  Si c'était quelqu'un qui pouvait lui être utile, il le dupait et l'aidait de manière intéressée.
 
 }
 [sha:5c6cd4d35492ea6bca185587e66b2763c738fd1f]{
 -- Page 48, Offset 2442.
 -- 利用できない人間は、そも利用するべきではないと判断して距離を置くのが槻司鳶丸の信念だ。
-　Quant à ceux qui n'avaient rien d'intéressant à lui proposer, le principe de Tsukiji Tobimaru était de s'assurer que c'était bien le cas et de rester à l'écart des personnes concernées.
+  Quant à ceux qui n'avaient rien d'intéressant à lui proposer, le principe de Tsukiji Tobimaru était de s'assurer que c'était bien le cas et de rester à l'écart des personnes concernées.
 
 }
 [sha:c342e56e915512025528db92f7fe897fd3f5cd34]{
 -- Page 48, Offset 2443.
 -- そんな彼をして、静希草十郎は益を得る相手ではないクセに、手を貸したくなる人種だった。
-　Et pourtant, même s'il n'en tirait aucun avantage, il voulait apporter son aide à Sōjūrō.
+  Et pourtant, même s'il n'en tirait aucun avantage, il voulait apporter son aide à Sōjūrō.
 
 }
 [sha:4ca7a5fad1d6be7dfb14bba22e858ca6dc0f26c4]{
 -- Page 49, Offset 2444.
 -- 彼は友情には<疎|うと>くなかったが、
-　Il n'était pas ignorant en ce qui concernait l'amitié,
+  Il n'était pas ignorant en ce qui concernait l'amitié,
 
 }
 [sha:81eeef0621147d328a2be8a3ea082f987bb95845]{
 -- Page 49, Offset 2445.
 -- 友人と呼べる人物にはそう恵まれていなかった。
-　mais il n'y avait pas beaucoup de gens qu'il pouvait considérer comme des amis.
+  mais il n'y avait pas beaucoup de gens qu'il pouvait considérer comme des amis.
 
 }
 [sha:347e0b93834c29fff2f24f9b7edc194cf39f6b1f]{
 -- Page 49, Offset 2446.
 -- ……なので、草十郎が本気で青子に惚れているのなら、友人として、それを改めさせる野暮はできなかった。
-　...... Ainsi, si Sōjūrō était vraiment amoureux d'Aoko, en tant qu'ami, il ne pouvait pas faire quelque chose d'aussi grossier que le faire changer d'avis.
+  ...... Ainsi, si Sōjūrō était vraiment amoureux d'Aoko, en tant qu'ami, il ne pouvait pas faire quelque chose d'aussi grossier que le faire changer d'avis.
 
 }
 [sha:a2b2da7c4352e517fae021417448914d41b273e6]{
@@ -1033,7 +1033,7 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:86ac029ce0d73debcb86f85d3692bbd6a8540e9a]{
 -- Page 50, Offset 2449.
 -- 彼女を<一目|ひとめ>みた時に、綺麗だなって思ったぞ」
-　Quand je l'ai rencontrée, j'ai pensé qu'elle était belle.」
+  Quand je l'ai rencontrée, j'ai pensé qu'elle était belle.」
 
 }
 [sha:9734870b3b82cd3f1c5082c100bd384ccbb89a79]{
@@ -1045,7 +1045,7 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:1c3c4db0ad44485cefb015a4fcbc2bbbc922447b]{
 -- Page 50, Offset 2451.
 -- がくん、と肩を落とす鳶丸。
-　Tobimaru baissa les épaules, déçu.
+  Tobimaru baissa les épaules, déçu.
 
 }
 [sha:49b5a5bfe1614ffd225f7d746e5ff6eded8c8c38]{
@@ -1063,7 +1063,7 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:f2a3d7b7f9de343d2dd3b35b7745f1dccf8f4693]{
 -- Page 51, Offset 2454.
 -- 自分を綺麗に見せる努力をしているんだから、外見から内面を判断するのは、そんなおかしな話じゃないと思う」
-　Toi-même, tu fais des efforts pour que l'on te trouve beau, alors je ne pense pas que ce soit si bizarre de juger l'intérieur grâce à l'apparence extérieure.」
+  Toi-même, tu fais des efforts pour que l'on te trouve beau, alors je ne pense pas que ce soit si bizarre de juger l'intérieur grâce à l'apparence extérieure.」
 
 }
 [sha:bc991f9f367c4d38704da922ff5f444a69ac0ba3]{
@@ -1075,7 +1075,7 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:3ef505b45d712c3ee363fb8a3091d4039c108442]{
 -- Page 51, Offset 2456.
 -- 詭弁のようではあるが、なんとなく正論のような気もする。
-　C'était apparemment un sophisme mais aussi, quelque part, un argument fondé.
+  C'était apparemment un sophisme mais aussi, quelque part, un argument fondé.
 
 }
 [sha:ea3f71fec60ffb02ed4e4c18357bdc76456fedfb]{
@@ -1087,25 +1087,25 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:0b3c551e5bf58dfd2c6b74f03ae48ed2aefe0ec4]{
 -- Page 53, Offset 2458.
 -- さて。
-　Néanmoins...
+  Néanmoins...
 
 }
 [sha:fba8e23a8d984ebd66693a27745f983b5bfcfcfd]{
 -- Page 53, Offset 2459.
 -- ここで、鳶丸はひとつ、大きな勘違いをしていた。
-　Ici, Tobimaru se méprenait grandement sur un point.
+  Ici, Tobimaru se méprenait grandement sur un point.
 
 }
 [sha:ddd07d659d3cacdb9aec54faa60c63fe3a39c43e]{
 -- Page 53, Offset 2460.
 -- 静希草十郎は蒼崎青子に好意を持っているだけであって、別に、心の底から好きだとか、恋人として付き合いたいなんて願望は、むしろ一片も無かった、という点である。
-　Shizuki Sōjūrō n'éprouvait que des sentiments bienveillants envers Aozaki Aoko, et ce n'était pas comme s'il l'aimait profondément ou voulait sortir avec elle, et d'ailleurs, il n'en ressentait même pas l'envie.
+  Shizuki Sōjūrō n'éprouvait que des sentiments bienveillants envers Aozaki Aoko, et ce n'était pas comme s'il l'aimait profondément ou voulait sortir avec elle, et d'ailleurs, il n'en ressentait même pas l'envie.
 
 }
 [sha:79633f49b8c28fb3cc845671d3b6961e42449f8d]{
 -- Page 53, Offset 2461.
 -- この勘違いが後に大きな禍根となるコトを、神ならざる彼らが気付くよしもない。
-　Même s'ils avaient été des dieux, ils ne se seraient jamais doutés que plus tard, cette méprise serait à l'origine d'une série d'incidents.
+  Même s'ils avaient été des dieux, ils ne se seraient jamais doutés que plus tard, cette méprise serait à l'origine d'une série d'incidents.
 
 }
 [sha:2c9b18e8082ede180ac5a0ed9bd02a95c543d1c1]{
@@ -1117,19 +1117,19 @@ Il se montrait si obstiné qu'Aozaki a fini par perdre patience. Elle l'a rejet�
 [sha:a8912cdd730c0c865d0ad1afb96b852e40297b14]{
 -- Page 54, Offset 2463. Mods: @k, @e.
 -- 蒼崎はケンカをした相手だろうと別に嫌うワケじゃない。逆に言えば、親切にしたって別に好かれるワケでもない。
-Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
+  Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
 
 }
 [sha:5b2eade5bc47afa2d3a7f1371b342da4d80cd838]{
 -- Page 54, Offset 2464. Glued. Mods: @x.
 -- いい例が俺だ」
-J'en suis un bon exemple.」
+ J'en suis un bon exemple.」
 
 }
 [sha:be0894014b55fafdb69d7c63a140de1630f0c7fa]{
 -- Page 54, Offset 2465.
 -- 過去の傷心を思いだしたのか、鳶丸は重いため息とともに語る。
-　raconta Tobimaru en relâchant un lourd soupir et en se souvenant de son cœur brisé par le passé.
+  raconta Tobimaru en relâchant un lourd soupir et en se souvenant de son cœur brisé par le passé.
 
 }
 [sha:ff141d9c7aafacf1d0ea9a0c6370822a2011f334]{
@@ -1141,7 +1141,7 @@ J'en suis un bon exemple.」
 [sha:9b1c43d6caae8554c863425979d1d04c8c4c1744]{
 -- Page 55, Offset 2467. Glued.
 -- 詳しく」
-Sois plus précis.」
+ Sois plus précis.」
 
 }
 [sha:00b35838ca991a85a8394660a594fccecd5eb4d9]{
@@ -1153,19 +1153,19 @@ Sois plus précis.」
 [sha:9068e8fe87ca7881d150e8196a5f33ca66fa70dc]{
 -- Page 55, Offset 2469.
 -- 半年前の夏だ。一年もあいつと生徒会やってたもんだから、俺も女っつーより戦友って気になっててな。
-　C'était pendant l'été, il y a six mois. Ça faisait un an qu'on était ensemble dans le conseil étudiant, alors je la considérais plus comme un compagnon d'armes que comme une fille.
+  C'était pendant l'été, il y a six mois. Ça faisait un an qu'on était ensemble dans le conseil étudiant, alors je la considérais plus comme un compagnon d'armes que comme une fille.
 
 }
 [sha:a67d44f22a8080c39f84013d9a4c2a263b7da7ef]{
 -- Page 55, Offset 2470.
 -- つい勢いで平手打ちをしようと右手をあげた。―――我ながら四番<打者|バッター>もかくやという腰のひねり。たしかな実感とともに、俺は勝利を確信したもんさ」
-　J'ai inconsciemment levé la main droite dans mon élan pour la gifler―――Je me vante peut-être, mais j'ai un coup de reins digne d'un quatrième batteur. À tel point que j'étais certain de ma victoire.」
+  J'ai inconsciemment levé la main droite dans mon élan pour la gifler―――Je me vante peut-être, mais j'ai un coup de reins digne d'un quatrième batteur. À tel point que j'étais certain de ma victoire.」
 
 }
 [sha:4cac19c1939c91768f430b71f2adc7baa449a3af]{
 -- Page 56, Offset 2471.
 -- ふっ、と遠い目をする彼は、その後の<顛末|てんまつ>を話そうとはしなかった。
-　Le regard lointain, il n'essaya pas de raconter ce qui s'était passé par la suite.
+  Le regard lointain, il n'essaya pas de raconter ce qui s'était passé par la suite.
 
 }
 [sha:52217b453a66d2c5cee67910181ddc7c76de9832]{
@@ -1177,19 +1177,19 @@ Sois plus précis.」
 [sha:f62b74170a0c765223a119305d437858ad71a577]{
 -- Page 57, Offset 2473.
 -- で、以来あいつと俺は会長と副会長で納まってる」
-　Et depuis, notre relation est celle d'un président avec son vice-président.」
+  Et depuis, notre relation est celle d'un président avec son vice-président.」
 
 }
 [sha:5f70d20dba8f506be658cdf495cbd42c55de2154]{
 -- Page 58, Offset 2474.
 -- 話を聞き終わり、ふーん、と感想を漏らす草十郎。
-　À la fin de l'histoire, Sōjūrō laissa échapper un soupir comme seule impression.
+  À la fin de l'histoire, Sōjūrō laissa échapper un soupir comme seule impression.
 
 }
 [sha:7b495eba9fd3288185f089b8f8694084fb0030b3]{
 -- Page 58, Offset 2475.
 -- そうして自信を持って、
-　Puis avec assurance,
+  Puis avec assurance,
 
 }
 [sha:a7043ec0b6f2876463b87f9e7143abeb6dfd3f7a]{
@@ -1201,7 +1201,7 @@ Sois plus précis.」
 [sha:6d1dcf30d81d5474d751facdacf859a249c768a8]{
 -- Page 58, Offset 2477.
 -- 真顔で、まったく分かってない感想を口にするのだった。
-　Sōjūrō exprima avec sérieux une impression à l'évidence à côté de la plaque.
+  Sōjūrō exprima avec sérieux une impression à l'évidence à côté de la plaque.
 
 }
 [sha:e057a87a682c5518ebd7d84e1a26afc3aa30ff2b]{
@@ -1213,7 +1213,7 @@ Sois plus précis.」
 [sha:8330693b9fe355690255c0ace884ca1d2b4a6489]{
 -- Page 59, Offset 2479. Glued.
 -- いまの話のどこに甘ずっぱい要素があんだよ！？
-Où vois-tu le moindre élément élogieux dans cette histoire ?!
+ Où vois-tu le moindre élément élogieux dans cette histoire ?!
 
 }
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
@@ -1237,13 +1237,13 @@ C'est pourtant l'incident décisif qui m'a incité à ne plus la voir comme une 
 [sha:67d31d837928795ebc6d6df062af65f329ffc1f2]{
 -- Page 59, Offset 2483.
 -- もったいない、と不満そうに漏らす草十郎。
-　“C'est du gâchis”, laissa échapper Sōjūrō mécontent.
+  “C'est du gâchis”, laissa échapper Sōjūrō mécontent.
 
 }
 [sha:98e005e3bd7ee73424c7181b6941fba2c6f520ea]{
 -- Page 59, Offset 2484.
 -- ……この男、単純のようで底が知れぬのかも、と鳶丸は考えを改めた。
-　...... Son air simplet cache peut-être un côté mystérieux, pensa Tobimaru en révisant son opinion.
+  ...... Son air simplet cache peut-être un côté mystérieux, pensa Tobimaru en révisant son opinion.
 
 }
 [sha:a711b8b69bd418ae753558992a5a572e5d9b05d3]{
@@ -1255,19 +1255,19 @@ C'est pourtant l'incident décisif qui m'a incité à ne plus la voir comme une 
 [sha:a88a1a43ef8057060225d3ba5a1d6593ee85c052]{
 -- Page 60, Offset 2486.
 -- いいコトをすれば好かれる、気に入らないコトをすれば嫌われる、ってワケじゃねえんだよ、あのお姫さまは」
-Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il a été vache avec elle.」
+  Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plaisir, ou détester quelqu'un parce qu'il a été vache avec elle.」
 
 }
 [sha:fab93c1f3f95197eb278c4670a4214ffabc0bed5]{
 -- Page 60, Offset 2487.
 -- 参考にするよ、と答えて草十郎は時計を見る。
-　“Je garderai ça dans un coin de ma tête”, dit Sōjūrō tout en regardant l'horloge.
+  “Je garderai ça dans un coin de ma tête”, dit Sōjūrō tout en regardant l'horloge.
 
 }
 [sha:ba16b291b0123fba1c1d624ce56bbe16afc7af88]{
 -- Page 60, Offset 2488.
 -- 長話がすぎたらしい。昼休みは残り少なくなっていた。
-　Apparemment, ils avaient parlé bien longtemps. Il ne restait que peu de temps avant la fin de la pause déjeuner.
+  Apparemment, ils avaient parlé bien longtemps. Il ne restait que peu de temps avant la fin de la pause déjeuner.
 
 }
 [sha:883ba86c5db1101ae931899b947e1e2a0cddef26]{
@@ -1291,7 +1291,7 @@ Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plai
 [sha:5445f238dbf876796c1ee1b7ea39ebb3b552de74]{
 -- Page 61, Offset 2492.
 -- なら何故この男は自分をここに連れこんだのだろう？　と首をかしげる草十郎だったが、今は他に本題がある。
-　Dans ce cas, pourquoi ce type m'a amené ici ? se demanda Sōjūrō en penchant la tête, mais pour l'instant, il avait un autre problème à l'esprit.
+  Dans ce cas, pourquoi ce type m'a amené ici ? se demanda Sōjūrō en penchant la tête, mais pour l'instant, il avait un autre problème à l'esprit.
 
 }
 [sha:5ccf42b4fdf4715cd9054718f24da2bc22d015fe]{
@@ -1303,7 +1303,7 @@ Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plai
 [sha:baa5992271a6d9c232990efa2895043be36ad608]{
 -- Page 62, Offset 2494.
 -- 鳶丸に訊きたいことがあったんだ」
-　Il y a quelque chose que je voulais te demander.」
+  Il y a quelque chose que je voulais te demander.」
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -1315,13 +1315,13 @@ Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plai
 [sha:eb10edec81615479b3d40a2628807a41d5dce5b3]{
 -- Page 63, Offset 2496.
 -- 今までにない真剣な表情の草十郎に、思わず姿勢を正す鳶丸。
-　Devant un Sōjūrō affichant une expression plus sérieuse que jamais, Tobimaru corrigea instinctivement sa posture.
+  Devant un Sōjūrō affichant une expression plus sérieuse que jamais, Tobimaru corrigea instinctivement sa posture.
 
 }
 [sha:105d1cd7c07efbe5c91c484f57fd6c2b3a3409f7]{
 -- Page 63, Offset 2497.
 -- 食べかけのおにぎりもそのままに、ゴホン、と草十郎は咳払いをする。
-　Mettant de côté la boulette de riz qu'il avait entamée, Sōjūrō se racla la gorge.
+  Mettant de côté la boulette de riz qu'il avait entamée, Sōjūrō se racla la gorge.
 
 }
 [sha:a7bed9977db0a620540bae973331dc1a82d02074]{
@@ -1333,12 +1333,12 @@ Ce n'est pas comme si cette princesse allait aimer quelqu'un qui lui a fait plai
 [sha:f2126a85268fa575a093ab8dd71d229d2a865041]{
 -- Page 64, Offset 2499.
 -- 語りだしは厳かに。
-　Parlant sur un ton grave,
+  Parlant sur un ton grave,
 
 }
 [sha:206f6eace8c37fec0a21111fdc3c2469abe3560c]{
 -- Page 64, Offset 2500.
 -- 草十郎はできるだけ正確に、昨夜出会ったある出来事について話し始めた。
-　Sōjūrō commença à relater avec tous les détails possibles l'évènement de la nuit dernière.
+  Sōjūrō commença à relater avec tous les détails possibles l'évènement de la nuit dernière.
 
 }

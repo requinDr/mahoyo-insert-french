@@ -1,37 +1,37 @@
 [sha:aa15e617637146390f2226a1cd577bf95b9cdf91]{
 -- Page 0, Offset 11204.
 -- とは言いつつも実のところ。
-　Mais pour dire la vérité,
+  Mais pour dire la vérité,
 
 }
 [sha:b42068de8e997f4b2ea5cf1149dcfb7f25ebdd1f]{
 -- Page 0, Offset 11205.
 -- 今朝からこっち、久遠寺有珠はたいへん立腹していた。
-　depuis ce matin, Kuonji Alice était terriblement en colère.
+  depuis ce matin, Kuonji Alice était terriblement en colère.
 
 }
 [sha:0724c15f2e5fb3f00fa27e4b5f7eb7a95513a89a]{
 -- Page 1, Offset 11206.
 -- 三咲市の支点をチェックして回り、始発の電車で陶川から帰ってくる時から、彼女はずっと、今日は居間で日が暮れるまで読書、文字がゲシュタルトるまで読書、と決めていたのである。
-　Depuis qu'elle avait vérifié l'ensemble des Pivots de Misaki et qu'elle était rentrée de Toukawa par le premier train, elle avait décidé qu'aujourd'hui, tant que le soleil ne serait pas couché, elle lirait et lirait encore des livres dans le salon, jusqu'à ce que les lettres deviennent des dessins sans signification.
+  Depuis qu'elle avait vérifié l'ensemble des Pivots de Misaki et qu'elle était rentrée de Toukawa par le premier train, elle avait décidé qu'aujourd'hui, tant que le soleil ne serait pas couché, elle lirait et lirait encore des livres dans le salon, jusqu'à ce que les lettres deviennent des dessins sans signification.
 
 }
 [sha:a2b9f99980b27a5ec9836aec341e4c53f9e93c44]{
 -- Page 1, Offset 11207.
 -- そんな鉄の意志は、居間に余人がいたところで<覆|くつがえ>されるものではない。
-　Cette volonté d'acier ne pouvait être brisée simplement parce que d'autres personnes se trouvaient dans le salon.
+  Cette volonté d'acier ne pouvait être brisée simplement parce que d'autres personnes se trouvaient dans le salon.
 
 }
 [sha:d48fd6a66ea3a59eaf13e67f713c3f664fc4f210]{
 -- Page 1, Offset 11208.
 -- ましてや自分は館の主人なのだから、草十郎の為に自室に引きこもるなんてもっての外だ。
-　De plus, puisqu'elle était la maîtresse du manoir, il serait absurde qu'elle s'enferme dans sa chambre pour Sōjūrō.
+  De plus, puisqu'elle était la maîtresse du manoir, il serait absurde qu'elle s'enferme dans sa chambre pour Sōjūrō.
 
 }
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 2, Offset 11209.
 -- ……しかし。
-　...... Cependant,
+  ...... Cependant,
 
 }
 [sha:6a5e70dee24a85345e7f68a34af49fa2711eafc5]{
@@ -43,13 +43,13 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:13a534f12f1c020b2cff78a3dd469e6f59ba1484]{
 -- Page 2, Offset 11211.
 -- 現状において、草十郎はたしかに“静かに”している。
-　Actuellement, ce jeune homme ne faisait vraiment aucun bruit.
+  Actuellement, ce jeune homme ne faisait vraiment aucun bruit.
 
 }
 [sha:453a2e0d0df1afa5c97047c64ea80003d6017f7a]{
 -- Page 2, Offset 11212.
 -- 彼に問題はない。それでもひとりでいたいなら、有珠の方が自室に戻るべきなのである。
-　Il ne la dérangeait absolument pas. Si elle voulait malgré tout se retrouver seule, alors c'était elle qui devrait retourner dans sa chambre.
+  Il ne la dérangeait absolument pas. Si elle voulait malgré tout se retrouver seule, alors c'était elle qui devrait retourner dans sa chambre.
 
 }
 [sha:54c2a7c0b1a47015ad27c550fc67366b23f75b84]{
@@ -61,73 +61,73 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:f3983c789d4fb1f0729980e950bb83be064f2451]{
 -- Page 3, Offset 11214.
 -- そんなジレンマに陥りながら、少しだけ意地になって有珠は居間に残ったのだ。
-　Confrontée à ce dilemme, Alice s'était obstinée à rester dans le salon,
+  Confrontée à ce dilemme, Alice s'était obstinée à rester dans le salon,
 
 }
 [sha:fd0103735e14571b1f5a13dc2e61a37810619abd]{
 -- Page 3, Offset 11215.
 -- どうせ、草十郎の方が音をあげて屋根裏部屋に逃げこむだろうと予想して。
-　en pressentant que de toute façon, Sōjūrō finirait par faire du bruit et déguerpirait dans la chambre au grenier.
+  en pressentant que de toute façon, Sōjūrō finirait par faire du bruit et déguerpirait dans la chambre au grenier.
 
 }
 [sha:59340a413125932164f2e148181e1dc1f0a99fa6]{
 -- Page 4, Offset 11216.
 -- 結果、予想は大きく外れる事になった。
-　Résultat, ses attentes se révélèrent largement erronées.
+  Résultat, ses attentes se révélèrent largement erronées.
 
 }
 [sha:3efc24dd8a269448045dd8de75ca02dd80f9a06e]{
 -- Page 4, Offset 11217.
 -- 彼は居間から退散しなかったし、
-　En effet, il n'avait pas quitté le salon,
+  En effet, il n'avait pas quitté le salon,
 
 }
 [sha:e621357c90b03b61f81cdeca8b1aca73338fb20d]{
 -- Page 4, Offset 11218.
 -- 不思議なことに、少女も草十郎の<存在|こと>が気にならなくなったからだ。
-　et étrangement, la présence de Sōjūrō ne l'avait nullement incommodée.
+  et étrangement, la présence de Sōjūrō ne l'avait nullement incommodée.
 
 }
 [sha:58328d9b7ecd74fa4feadf2d45085e697428aa10]{
 -- Page 5, Offset 11219.
 -- 彼は有珠を意識する事なく、また、無視しているわけでもなかった。
-　Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'ignorait.
+  Il n'avait pas fait attention à Alice, mais ce n'était pas comme s'il l'ignorait.
 
 }
 [sha:97ffc4f4d588e80de280477f6e5ef44594a15918]{
 -- Page 5, Offset 11220.
 -- お互い無言でいたのに、それで気まずいという事もない。
-　Ils étaient tous les deux silencieux, sans être pour autant mal à l'aise.
+  Ils étaient tous les deux silencieux, sans être pour autant mal à l'aise.
 
 }
 [sha:c879de051c0f0d89cfa13d9fcaef4917431122a1]{
 -- Page 5, Offset 11221.
 -- ひとりでいるような解放感があるのに、誰かが<傍|そば>にいるという安心感がある。
-　Elle avait l'impression d'être seule, et pourtant, elle ressentait également le sentiment de sécurité que l'on éprouve à proximité de quelqu'un.
+  Elle avait l'impression d'être seule, et pourtant, elle ressentait également le sentiment de sécurité que l'on éprouve à proximité de quelqu'un.
 
 }
 [sha:137741463a4aee62b8c2a80642e15539a13caeba]{
 -- Page 6, Offset 11222.
 -- ……言葉にすると、静希草十郎という人間はそんな感じだった。
-　...... Reformulé plus simplement, c'était l'impression que dégageait Shizuki Sōjūrō.
+  ...... Reformulé plus simplement, c'était l'impression que dégageait Shizuki Sōjūrō.
 
 }
 [sha:b0838f198a81a79d836cc71b87e96c83aee3a505]{
 -- Page 6, Offset 11223.
 -- だからこそ、すぐ傍に他人がいたのに眠り続ける、なんて事が出来たのかも知れない。
-　C'était peut-être pour cette raison qu'elle avait pu, par exemple, continuer de dormir alors qu'une autre personne se tenait à côté d'elle.
+  C'était peut-être pour cette raison qu'elle avait pu, par exemple, continuer de dormir alors qu'une autre personne se tenait à côté d'elle.
 
 }
 [sha:2c0cb2e55d4b6e623af686b71b48d6a60da1d85e]{
 -- Page 7, Offset 11224.
 -- そんな有珠の内面も知らず、草十郎は台所で何やら調理を続けている。
-　Ne soupçonnant rien des pensées d'Alice, Sōjūrō continuait de préparer un plat dans la cuisine.
+  Ne soupçonnant rien des pensées d'Alice, Sōjūrō continuait de préparer un plat dans la cuisine.
 
 }
 [sha:b4a3d5c889329b7ca7c5d6cd08b98777be8bbe87]{
 -- Page 7, Offset 11225.
 -- 居間からは見えないけれど、有珠には気楽に調理している後ろ姿が容易に想像できた。
-　Alice était incapable de le voir depuis le salon, mais elle pouvait facilement imaginer sa silhouette de dos en train de cuisiner avec entrain.
+  Alice était incapable de le voir depuis le salon, mais elle pouvait facilement imaginer sa silhouette de dos en train de cuisiner avec entrain.
 
 }
 [sha:d412297d96502bfd93e54c96d385b1af343008de]{
@@ -139,31 +139,31 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:2f2408a364c08d72060ca603d947ae5662e41583]{
 -- Page 8, Offset 11227.
 -- 二度目の所感を漏らして、有珠は読書を再開した。
-　Elle laissa une nouvelle fois échapper son opinion puis reprit sa lecture.
+  Elle laissa une nouvelle fois échapper son opinion puis reprit sa lecture.
 
 }
 [sha:f0b1d4c5fe2474a1684d435e021b4e6710a22413]{
 -- Page 8, Offset 11228.
 -- 居間から差しこむ光はじき正午である事を示している。
-　La lumière pénétrant dans le salon indiquait qu'il serait bientôt midi.
+  La lumière pénétrant dans le salon indiquait qu'il serait bientôt midi.
 
 }
 [sha:74e5454e95c9ac3e7162d87d72a96cca2020c9e7]{
 -- Page 8, Offset 11229.
 -- 冬の曇った天気にしては、その日射しはどこか温かそうだった。
-　Pour une journée nuageuse d'hiver, ces rayons de soleil avaient quelque chose de chaleureux.
+  Pour une journée nuageuse d'hiver, ces rayons de soleil avaient quelque chose de chaleureux.
 
 }
 [sha:3b46c02ff5d4dbe006d5e21bcd590ad1075b1552]{
 -- Page 9, Offset 11230.
 -- ちょうど正午にさしかかろうとした時、草十郎は二人分の食器を持って居間へ戻ってきた。
-　À midi pile, Sōjūrō revint dans le salon, deux services de table à la main.
+  À midi pile, Sōjūrō revint dans le salon, deux services de table à la main.
 
 }
 [sha:cffa57a9b89b73bb344a565f0e6b3aedce584af0]{
 -- Page 9, Offset 11231.
 -- 大きなクリーム色のお皿には、なんとも言えない色合いの料理が盛られている。
-　La grande assiette couleur crème contenait un plat aux coloris indescriptibles.
+  La grande assiette couleur crème contenait un plat aux coloris indescriptibles.
 
 }
 [sha:7833344de9a99cf688e34d55ec56d73c2f66d649]{
@@ -175,19 +175,19 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:294f4c1e760a14b3f414801c526277bdc91861c7]{
 -- Page 10, Offset 11233.
 -- 期待など、してはいなかった。
-　Elle ne se faisait pas d'illusion.
+  Elle ne se faisait pas d'illusion.
 
 }
 [sha:5e77223f92279ad7ef172083edee0c5a9d297489]{
 -- Page 10, Offset 11234.
 -- 期待などしてはいなかったので、粗末なものがきたらそれを理由に断ろう―――
-　Par conséquent, si jamais il lui avait présenté un plat de piètre qualité, elle aurait invoqué cette raison pour refuser―――
+  Par conséquent, si jamais il lui avait présenté un plat de piètre qualité, elle aurait invoqué cette raison pour refuser―――
 
 }
 [sha:f4c6ca20c5d20ee0e8454ba97232028aa9b6f8d4]{
 -- Page 10, Offset 11235.
 -- なんて<覚悟|かくご><装填|そうてん>済みの有珠をして、それは、絶句させるに足る魔料理だった。
-　Ce plat était suffisamment démoniaque pour faire perdre ses mots à Alice, pourtant préparée à toute éventualité.
+  Ce plat était suffisamment démoniaque pour faire perdre ses mots à Alice, pourtant préparée à toute éventualité.
 
 }
 [sha:9c12c9f60b87b606cd34a02aaba1faaccd74fcc5]{
@@ -199,7 +199,7 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:e18f29e41b9856231bca435c647cbaae4c3b45cf]{
 -- Page 11, Offset 11237.
 -- おそるおそる口にする有珠。
-　fit timidement Alice.
+  fit timidement Alice.
 
 }
 [sha:32eb2fce5f6a1729d416f1bc2e5ce32496a78a42]{
@@ -211,67 +211,67 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:6479e86d7ef0474b2904192d7b7cde2857cb0272]{
 -- Page 11, Offset 11239.
 -- 青子がいたら鉄拳制裁ものの発言である。
-　Si Aoko avait été là, cette remarque lui aurait valu un coup de poing.
+  Si Aoko avait été là, cette remarque lui aurait valu un coup de poing.
 
 }
 [sha:82fac8dfa166fc9b8a3af028a76e6b8246373da0]{
 -- Page 12, Offset 11240.
 -- 草十郎はなに恥じらう事なく、どん、どん、とテーブルに大皿を置いていく。
-　Sōjūrō posa l'une après l'autre les grandes assiettes sur la table sans la moindre gêne.
+  Sōjūrō posa l'une après l'autre les grandes assiettes sur la table sans la moindre gêne.
 
 }
 [sha:804ed9f96b643de6e18e0b75a88bbbf2ac8bc0a3]{
 -- Page 12, Offset 11241.
 -- ごうごうと立ち上る、<恐山|おそれざん>の憤怒のごとき湯気。
-　La vapeur s'élevait comme le grondement de rage du Mont Osore.
+  La vapeur s'élevait comme le grondement de rage du Mont Osore.
 
 }
 [sha:279c1b76ad618affc45a8d7276926711cb369763]{
 -- Page 12, Offset 11242.
 -- どろどろとドロドロする、エトナ火山の<溶岩|マグマ>のごときなんか。
-　La mixture évoquait le magma sirupeux du volcan Etna.
+  La mixture évoquait le magma sirupeux du volcan Etna.
 
 }
 [sha:e40ab2342a7de33a07b10b1ede0e11f91e05b479]{
 -- Page 12, Offset 11243.
 -- その下に身を潜める、ごんぶとな無数の<触手|うどん>たち。
-　Sous celle-ci se cachaient les innombrables udon.
+  Sous celle-ci se cachaient les innombrables udon.
 
 }
 [sha:0e990531e65fd05528326d39bbd85a989336090a]{
 -- Page 13, Offset 11244.
 -- ……もはや語るまでもない。
-　...... Il était inutile d'en rajouter.
+  ...... Il était inutile d'en rajouter.
 
 }
 [sha:6309d55b6315c3add24df693cff346fe64d6afe3]{
 -- Page 13, Offset 11245.
 -- これは質より量を重視する、一人暮らしの男子学生にのみ伝わる味わい。
-　La préparation de cette mixture ne se transmettait qu'au sein des étudiants masculins vivant seuls, et elle mettait l'accent sur la quantité de nourriture plutôt que sur la qualité.
+  La préparation de cette mixture ne se transmettait qu'au sein des étudiants masculins vivant seuls, et elle mettait l'accent sur la quantité de nourriture plutôt que sur la qualité.
 
 }
 [sha:16791de10ae0b4d7e5802d6ad5dc2147e5cf7bf2]{
 -- Page 14, Offset 11246.
 -- 必要なものはレシピとやる気と材料だけ。
-　Les seules choses nécessaires étaient la recette, les ingrédients et du cran.
+  Les seules choses nécessaires étaient la recette, les ingrédients et du cran.
 
 }
 [sha:fb08ed0721203e51fc907a6ff21bc65190bcc6a0]{
 -- Page 14, Offset 11247.
 -- 喩えるなら、大量の焼きうどんに、大量のあんかけを組み合わせた芸術的なまでの芸術性のなさ。
-　D'un point de vue métaphorique, cette préparation transformait le manque de talent artistique en art. En effet, elle consistait essentiellement à associer de grandes quantités d'udon et de garniture.
+  D'un point de vue métaphorique, cette préparation transformait le manque de talent artistique en art. En effet, elle consistait essentiellement à associer de grandes quantités d'udon et de garniture.
 
 }
 [sha:5e54d6cc0fc75426cf434986b6b13bad930b891b]{
 -- Page 14, Offset 11248.
 -- そう、これこそは紛うことなき<男|おとこ>料理。
-　Oui ! C'était indubitablement une cuisine d'homme.
+  Oui ! C'était indubitablement une cuisine d'homme.
 
 }
 [sha:f0397a0d4f0ee8cebc09a30dba3f11681262f75d]{
 -- Page 14, Offset 11249.
 -- またの名をまかないとも言う。
-　Ce que l'on appelait aussi “cuisiner les restes”.
+  Ce que l'on appelait aussi “cuisiner les restes”.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -283,25 +283,25 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:efe1785ece06e75b7a1c8197bcf325919f5a250f]{
 -- Page 15, Offset 11251.
 -- 一時間も何をやっていたかと思えば、せっせとあんかけを作っていたらしい。
-　Elle était curieuse de savoir ce que Sōjūrō avait fait pendant une heure, et apparemment, il l'avait passée à préparer la garniture avec soin.
+  Elle était curieuse de savoir ce que Sōjūrō avait fait pendant une heure, et apparemment, il l'avait passée à préparer la garniture avec soin.
 
 }
 [sha:2dfc1e6346b8165d51e5518ffb1d2f65f376aefb]{
 -- Page 15, Offset 11252.
 -- 焼きうどんだけで十分なのに、もう<一手間|ひとてま>加えたのは草十郎なりに真心だろう。
-　Le yaki udon à lui seul aurait suffi, mais il se montrait bienveillant à sa façon, en s'appliquant plus que nécessaire.
+  Le yaki udon à lui seul aurait suffi, mais il se montrait bienveillant à sa façon, en s'appliquant plus que nécessaire.
 
 }
 [sha:220d68b6b0752c6201fef0bf1c1856cfdbfb42a2]{
 -- Page 15, Offset 11253.
 -- 草十郎は小さくおじぎをしてから箸を手にとった。
-　Sōjūrō s'inclina légèrement, puis prit les baguettes à la main.
+  Sōjūrō s'inclina légèrement, puis prit les baguettes à la main.
 
 }
 [sha:d0ff05fee32a92e5175dd9e38f9d2b555c65cbdc]{
 -- Page 15, Offset 11254.
 -- 有珠にはフォークが用意されている。
-　Il avait apporté une fourchette pour Alice.
+  Il avait apporté une fourchette pour Alice.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -313,13 +313,13 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:12388b4690e41ddc3a4b9270da762e24fc2fe03e]{
 -- Page 16, Offset 11256.
 -- フォークを手にとって、有珠はあんかけに半分埋まっている麺をつついてみる。
-　Elle s'en saisit et enroula autour les nouilles à moitié ensevelies sous la garniture.
+  Elle s'en saisit et enroula autour les nouilles à moitié ensevelies sous la garniture.
 
 }
 [sha:5d2c9899f078176dea6e8abc4cfe49e02ec5a9cd]{
 -- Page 16, Offset 11257.
 -- 毒見にしか見えない有珠の様子を気にした風もなく、草十郎は行儀よく食べはじめていた。
-　Sōjūrō, qui n'avait pas l'air d'avoir remarqué l'attitude hésitante d'Alice donnant l'impression de goûter un poison, commença de manger selon les bonnes manières.
+  Sōjūrō, qui n'avait pas l'air d'avoir remarqué l'attitude hésitante d'Alice donnant l'impression de goûter un poison, commença de manger selon les bonnes manières.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -331,13 +331,13 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:ae29bb1aac6828ee11e3e42d08dea270d6f8607b]{
 -- Page 17, Offset 11259.
 -- 有珠的には挑戦と映ったのか、むっと眉をひそめながら、大雑把すぎる料理を口に運ぶ。
-　Alice prit cela pour une provocation et avala le semblant de nourriture tout en fronçant les sourcils.
+  Alice prit cela pour une provocation et avala le semblant de nourriture tout en fronçant les sourcils.
 
 }
 [sha:648b84c7b697b818a3300f8346560e2697e7c2e0]{
 -- Page 17, Offset 11260.
 -- ……形容し辛い味ではあるが、食べられないほど不味くはない。あえて批評するのなら、わりとクセになる味、というところだった。
-　...... Elle avait un goût épicé, mais elle n'était pas répugnante au point d'être immangeable. Si elle se laissait aller à une certaine audace, ce goût pourrait très bien devenir une sorte de drogue à l'avenir.
+  ...... Elle avait un goût épicé, mais elle n'était pas répugnante au point d'être immangeable. Si elle se laissait aller à une certaine audace, ce goût pourrait très bien devenir une sorte de drogue à l'avenir.
 
 }
 [sha:ff9506e2d360d9106eb1a0e7e69b9e0aba1519d5]{
@@ -349,7 +349,7 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:88819a0ef7b4ea3ce3ec1a8b17bc8b27adf73025]{
 -- Page 18, Offset 11262.
 -- 焼きうどんを食べるのを中断して、草十郎は有珠に語りかけた。
-　Sōjūrō interrompit sa dégustation et s'adressa à Alice.
+  Sōjūrō interrompit sa dégustation et s'adressa à Alice.
 
 }
 [sha:6795ab026b381dddb283e8abc040f95350f78507]{
@@ -361,13 +361,13 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:cf5f1fe5f67292cfee1d0852e4560045a435d093]{
 -- Page 19, Offset 11264.
 -- 唐突な問いに、有珠は静かに顔を上げた。
-　Alice releva calmement la tête à sa question impromptue.
+  Alice releva calmement la tête à sa question impromptue.
 
 }
 [sha:f08cea932d7941aef3e1a57cb3cff6f9843c8631]{
 -- Page 19, Offset 11265.
 -- 今まで男料理の観察にうつむいていた有珠の視線が、まっすぐに草十郎と向き合う。
-　Son regard, occupé jusque-là à observer cette cuisine virile, croisa directement celui de Sōjūrō.
+  Son regard, occupé jusque-là à observer cette cuisine virile, croisa directement celui de Sōjūrō.
 
 }
 [sha:a9649596c88873b662a328f2b50ac76f5d90cfbf]{
@@ -385,25 +385,25 @@ même si tel était son point de vue, chasser Sōjūrō sans raison serait aussi
 [sha:13a7e2850b76681e540311277ae68c7d8dc137fc]{
 -- Page 21, Offset 11268.
 -- 有珠からの返答はない。
-　Alice ne répondit rien.
+  Alice ne répondit rien.
 
 }
 [sha:8bf6a0cae2203fefcfb4715be47e35525c6c4f36]{
 -- Page 21, Offset 11269.
 -- それを残念に思う事もなく、草十郎は食事を再開した。
-　Sans le regretter, Sōjūrō reprit son repas.
+  Sans le regretter, Sōjūrō reprit son repas.
 
 }
 [sha:80a33128bfa3f0617e3c86fc622ab49fc07d5f15]{
 -- Page 21, Offset 11270.
 -- つるつると麺を食べていく草十郎を、有珠は何の感情もなく眺めている。
-　La jeune fille fixait sans aucune émotion le jeune homme qui mangeait les nouilles avec des bruits de succion.
+  La jeune fille fixait sans aucune émotion le jeune homme qui mangeait les nouilles avec des bruits de succion.
 
 }
 [sha:19d4df2b5cd9825c33a94203e31f48a12773e746]{
 -- Page 21, Offset 11271.
 -- 少女は何度か<逡巡|しゅんじゅん>した後、
-　Après avoir hésité à plusieurs reprises,
+  Après avoir hésité à plusieurs reprises,
 
 }
 [sha:960acb1301567997c8ad28a3ca38c7d15af96f45]{
@@ -421,31 +421,31 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:0a86b8e60dd1f2f679f1ba5de0d6610544297778]{
 -- Page 22, Offset 11274.
 -- 途切れがちに有珠は言う。
-　dévoila Alice, hésitante.
+  dévoila Alice, hésitante.
 
 }
 [sha:000b4e76c1c5d385ad3e5f2a0426ae9245bd56da]{
 -- Page 22, Offset 11275.
 -- それに、草十郎はまた困ったように顔をしかめた。
-　Sōjūrō fronça les sourcils, gêné.
+  Sōjūrō fronça les sourcils, gêné.
 
 }
 [sha:addd8ac3ad455f1ff73021bdaefd0b522d2ed396]{
 -- Page 23, Offset 11276.
 -- 彼は会話の内容にではなく、有珠に対してすまなそうに顔を曇らせている。
-　Son expression s'assombrissait, non pas à cause du sujet de la conversation, mais parce qu'il se sentait gêné pour Alice.
+  Son expression s'assombrissait, non pas à cause du sujet de la conversation, mais parce qu'il se sentait gêné pour Alice.
 
 }
 [sha:f2e27e54aa9a842ae86e6530957476e14fa29bcd]{
 -- Page 23, Offset 11277.
 -- 言いたくなければ、答えなくてよかったのに、と。
-　Si elle ne voulait pas le dire, elle n'avait pas à répondre, pensa-t-il.
+  Si elle ne voulait pas le dire, elle n'avait pas à répondre, pensa-t-il.
 
 }
 [sha:d6f8a18a62acebb3632ce8efc33ab581c26ba2cb]{
 -- Page 23, Offset 11278.
 -- そんな草十郎の顔に動じず、有珠は淡々と続けていく。
-　Imperturbable face au visage de Sōjūrō, Alice continua d'un air indifférent.
+  Imperturbable face au visage de Sōjūrō, Alice continua d'un air indifférent.
 
 }
 [sha:9e0fba2d3aba39b4c704284eb34edc14deae3ab7]{
@@ -457,13 +457,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:a854f6263d206eff0ac15e8bc286887c9ad34359]{
 -- Page 24, Offset 11280.
 -- 静かに頷く草十郎。
-　Sōjūrō acquiesça silencieusement.
+  Sōjūrō acquiesça silencieusement.
 
 }
 [sha:9dbe3839bb8d723e481453a3ebd2b9a3388f8444]{
 -- Page 24, Offset 11281.
 -- その仕草に、有珠は不審そうに目を細めた。
-　Voyant ce geste, Alice plissa les yeux, soupçonneuse.
+  Voyant ce geste, Alice plissa les yeux, soupçonneuse.
 
 }
 [sha:c0767fde422fb86301c3a0984e51555fa007d6b0]{
@@ -481,13 +481,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:ecae92245ca0154fe96b6ec9a06c5d9af5ec30b1]{
 -- Page 25, Offset 11284.
 -- たまにその手の台詞を言うけど、何か違う気がしたんだ。……だからたぶん、蒼崎はまだ人殺しというのを体験していないんじゃないかって。
-　Elle dit parfois des trucs dans le genre, mais j'avais l'impression que ça sonnait faux...... Et donc, j'ai pensé qu'elle n'avait encore jamais commis de meurtre.
+  Elle dit parfois des trucs dans le genre, mais j'avais l'impression que ça sonnait faux...... Et donc, j'ai pensé qu'elle n'avait encore jamais commis de meurtre.
 
 }
 [sha:9866c99ffba0d02a25f6fb968c4ab2248102c1db]{
 -- Page 25, Offset 11285.
 -- でもまあ、そんな事よりもっと確かなのは」
-　Mais le détail qui m'a encore plus mis la puce à l'oreille, c'est...」
+  Mais le détail qui m'a encore plus mis la puce à l'oreille, c'est...」
 
 }
 [sha:0abd0e1dbecfed3e38e83834f118efd914e8bbf4]{
@@ -499,49 +499,49 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:11f2d465a40d042080cb0e3ffe1dc37df4d39dd5]{
 -- Page 25, Offset 11287.
 -- ご名答、とばかりに草十郎は苦笑した。
-　Sōjūrō afficha un sourire forcé indiquant qu'elle avait vu juste.
+  Sōjūrō afficha un sourire forcé indiquant qu'elle avait vu juste.
 
 }
 [sha:62f6c6952942f5b0d71a32381231d44985f39864]{
 -- Page 26, Offset 11288.
 -- ……そう。
-　...... Oui.
+  ...... Oui.
 
 }
 [sha:a4d2b62dc34e9c72f73d3b5d7367b1d8712887f4]{
 -- Page 26, Offset 11289.
 -- あの夜、もし彼女がそういった<手応|てごた>えを知っていたのなら、あんな回りくどい事にはならなかった。
-　Si elle en avait déjà fait l'expérience avant cette nuit-là, alors elle ne se serait pas retrouvée dans ce bourbier.
+  Si elle en avait déjà fait l'expérience avant cette nuit-là, alors elle ne se serait pas retrouvée dans ce bourbier.
 
 }
 [sha:12f7a630d069931b68a0ba0890b358a42110c1d5]{
 -- Page 26, Offset 11290.
 -- 草十郎は青子の顔を見る事なく殺されていただろう。
-　Sōjūrō aurait sans doute été tué avant même de voir le visage d'Aoko.
+  Sōjūrō aurait sans doute été tué avant même de voir le visage d'Aoko.
 
 }
 [sha:89493bbecf0d9e78fefeff0529ae64c3fa3e143f]{
 -- Page 26, Offset 11291.
 -- 幸か不幸か、あれだけの非情さと行動力を持っていながら、蒼崎青子はいまだ<そ|・><の|・><感|・><覚|・>を知らないのだ。
-　Pour le meilleur ou pour le pire, Aozaki Aoko avait beau être sans pitié et posséder une phénoménale force de frappe, elle n'avait encore jamais expérimenté cette sensation.
+  Pour le meilleur ou pour le pire, Aozaki Aoko avait beau être sans pitié et posséder une phénoménale force de frappe, elle n'avait encore jamais expérimenté cette sensation.
 
 }
 [sha:0ce13bd323fcf4db79bbef6ff91776d4d2a73d98]{
 -- Page 27, Offset 11292.
 -- ホッと肩を下ろす草十郎。
-　Sōjūrō baissa les épaules, rassuré.
+  Sōjūrō baissa les épaules, rassuré.
 
 }
 [sha:a0de224f3ed0676ba35f3e64713bd744203edefc]{
 -- Page 27, Offset 11293.
 -- 今まで苦々しかった表情も、いつも通りのぼんやりとしたものに戻る。
-　Son expression d'inconfort fut remplacée par son air étourdi habituel.
+  Son expression d'inconfort fut remplacée par son air étourdi habituel.
 
 }
 [sha:2560b640547c3d2d4f5a0f89b1ca7e162bbfec46]{
 -- Page 27, Offset 11294.
 -- そこへ、
-　À ce moment...
+  À ce moment...
 
 }
 [sha:a656fe9a269d0eeba5a62aed24f45c2dc0e1b63e]{
@@ -553,49 +553,49 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:d39b44a127687eb593500431a341cbcd5bd7b74e]{
 -- Page 28, Offset 11296.
 -- あの子はそのあたりが異常だから。行為は理性に、経験は知識でたやすく補ってしまう。
-　Sur ce point-là, elle n'est pas normale. Elle compense facilement l'acte par la raison, et l'expérience par la connaissance.
+  Sur ce point-là, elle n'est pas normale. Elle compense facilement l'acte par la raison, et l'expérience par la connaissance.
 
 }
 [sha:82d70a8339e574efe4cec238d67ae907c20d4512]{
 -- Page 28, Offset 11297.
 -- ……そうね。青子はその気になれば、迷う事なく<他人|ひと>の命に手をだせる。静希君ふうに言うのなら、だけど」
-　...... Oui. Si l'envie lui en prend, Aoko peut porter atteinte à la vie de n'importe qui sans hésitation. Pour le dire à ta façon.」
+  ...... Oui. Si l'envie lui en prend, Aoko peut porter atteinte à la vie de n'importe qui sans hésitation. Pour le dire à ta façon.」
 
 }
 [sha:f0c93e555344f2b86a1681f4e0f64c9321fc5797]{
 -- Page 29, Offset 11298.
 -- それだけ言って、有珠はまたフォークで麺をコネコネする。
-　Après s'être étendue sur le sujet, Alice remua les nouilles avec sa fourchette.
+  Après s'être étendue sur le sujet, Alice remua les nouilles avec sa fourchette.
 
 }
 [sha:69ecfae4f1c326b33fda0a229199064cc7b3a337]{
 -- Page 29, Offset 11299.
 -- ……もしかして楽しくてやっているのだろうか、などと思いながら、草十郎は有珠の言葉を<反芻|はんすう>していた。
-　...... Sōjūrō rumina les paroles d'Alice tout en se demandant si ce qu'elle faisait l'amusait bien.
+  ...... Sōjūrō rumina les paroles d'Alice tout en se demandant si ce qu'elle faisait l'amusait bien.
 
 }
 [sha:2430a17aab12ce17f0930515f9984f9720ce4e7c]{
 -- Page 30, Offset 11300.
 -- 道徳を犯す自分を容認できる理性と、
-　Une raison qui lui permettait d'outrepasser sa propre morale,
+  Une raison qui lui permettait d'outrepasser sa propre morale,
 
 }
 [sha:90707325d728c5177aeafd4169f1cb925e9c00b7]{
 -- Page 30, Offset 11301.
 -- 実経験から得られる確信を超える知性。
-　et une intelligence qui surpassait l'assurance obtenue par l'expérience pratique.
+  et une intelligence qui surpassait l'assurance obtenue par l'expérience pratique.
 
 }
 [sha:b995761f9bb3827766054a1acecf2e6d642dc302]{
 -- Page 30, Offset 11302.
 -- そんな理屈だけの絵空事を実現できるように、青子は育てられてきたのだろうか。
-　Avait-on élevé Aoko de sorte qu'elle puisse réaliser cette chimère censée être théorique ?
+  Avait-on élevé Aoko de sorte qu'elle puisse réaliser cette chimère censée être théorique ?
 
 }
 [sha:f98aa9a290ff505b1a1bbf06e066c8d72997ea2c]{
 -- Page 30, Offset 11303.
 -- それなら、確かに―――彼女たちが自分と違うのは、納得のいく事ではあるが。
-　Dans ce cas, en effet―――il pouvait comprendre qu'elles soient différentes de lui.
+  Dans ce cas, en effet―――il pouvait comprendre qu'elles soient différentes de lui.
 
 }
 [sha:cbb6ba90cc9c691b0d266f7126b5324a53c9ee34]{
@@ -607,13 +607,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:b18bbb77ab80e62b97a67c4917ae6d64a0d8cbae]{
 -- Page 31, Offset 11305.
 -- 反省するような、思い詰めた顔。
-　Il avait l'air tiraillé par ses scrupules.
+  Il avait l'air tiraillé par ses scrupules.
 
 }
 [sha:70089f0d495eab39f35e933b6ad670209aeed7bd]{
 -- Page 31, Offset 11306.
 -- 有珠の表情に変化はないが、彼女も初めからそのつもりだったようだ。
-　L'expression d'Alice n'afficha aucun changement, mais c'était manifestement dans son intention depuis le début.
+  L'expression d'Alice n'afficha aucun changement, mais c'était manifestement dans son intention depuis le début.
 
 }
 [sha:50fd6ea582c5df3b1d6de96b18bcfac50e498231]{
@@ -625,13 +625,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:e73961d51375e4b0c12dcdf9643a71aba9713a74]{
 -- Page 32, Offset 11308.
 -- 草十郎は食事を再開する。
-　Sōjūrō reprit son repas.
+  Sōjūrō reprit son repas.
 
 }
 [sha:63bfd101a60ddd34b02a9cee63dbbe27e64cbd3a]{
 -- Page 32, Offset 11309.
 -- まだ有珠は一口しか食べていないのに、彼はそれでたいらげてしまっていた。
-　Alice n'avait pas encore avalé une autre bouchée que lui avait déjà vidé son assiette.
+  Alice n'avait pas encore avalé une autre bouchée que lui avait déjà vidé son assiette.
 
 }
 [sha:d9b4946dfc8a8679d89e352aae01ab7fcf5bfe6e]{
@@ -649,19 +649,19 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:46df829161f239e52776485d305f2eeaaf67653f]{
 -- Page 33, Offset 11312.
 -- 先ほどまでの会話など何処へやら、草十郎はまったく違う話をはじめた。
-　Comme si la conversation précédente n'avait jamais eu lieu, Sōjūrō en entama une totalement différente.
+  Comme si la conversation précédente n'avait jamais eu lieu, Sōjūrō en entama une totalement différente.
 
 }
 [sha:ebb89aa231f4a17eb50f95f2a45d468d37c5f0bb]{
 -- Page 33, Offset 11313.
 -- どこかドライな青子と有珠の関係。
-　La relation quelque peu glaciale entre Aoko et Alice.
+  La relation quelque peu glaciale entre Aoko et Alice.
 
 }
 [sha:473ac065132058f5265d82d1245dffbacddaac59]{
 -- Page 33, Offset 11314.
 -- 青子はそれが普通だと語っていたが、有珠からならまた別の見解があるかもしれない。
-　Selon Aoko, c'était normal, mais Alice avait peut-être une opinion différente.
+  Selon Aoko, c'était normal, mais Alice avait peut-être une opinion différente.
 
 }
 [sha:ee9c95c502fd477b0d97cc1b7f5776a0d88db03b]{
@@ -673,19 +673,19 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:f200c2925691868d15d786fb02821c279b29ea7e]{
 -- Page 34, Offset 11316.
 -- けど、別に不便じゃないから」
-　Mais ce n'est pas spécialement gênant.」
+  Mais ce n'est pas spécialement gênant.」
 
 }
 [sha:498ece8959f27d6c172fc42160c2bcadcc8793a3]{
 -- Page 34, Offset 11317.
 -- 簡潔に答えて、有珠はフォークで麺をくるくると巻いている。
-　répondit brièvement Alice avant d'enrouler des nouilles sur sa fourchette.
+  répondit brièvement Alice avant d'enrouler des nouilles sur sa fourchette.
 
 }
 [sha:92b9cf13c2ad3e00ba67c5f53e486063787a58dd]{
 -- Page 34, Offset 11318.
 -- 巻いてはいるけど、食べるそぶりはまったくなかった。
-　Cela dit, elle ne montrait toujours aucune intention de les manger.
+  Cela dit, elle ne montrait toujours aucune intention de les manger.
 
 }
 [sha:08d50e7c45e98ab9096cf8d52df4af71d6aa4252]{
@@ -703,13 +703,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:83dd64b13eb8f66e53c33ac5d45ea77836bf5200]{
 -- Page 36, Offset 11321.
 -- 不思議そうに言う有珠に、草十郎は言葉を呑んでしまった。
-　Alice lui ayant répondu d'un air étonné, Sōjūrō ravala ce qu'il était sur le point de dire.
+  Alice lui ayant répondu d'un air étonné, Sōjūrō ravala ce qu'il était sur le point de dire.
 
 }
 [sha:c819f38cf35fc7f9c4d7f5e4201a266f1828b136]{
 -- Page 36, Offset 11322.
 -- 実はかなり困るのだけど、そんな風に素直に聞かれると答えにも困る。
-　Pour être honnête, cela le dérangeait, mais il ne savait quoi répondre si on lui posait la question de but en blanc.
+  Pour être honnête, cela le dérangeait, mais il ne savait quoi répondre si on lui posait la question de but en blanc.
 
 }
 [sha:7b2559e540d46463490cfab57294beb44c765f4a]{
@@ -721,43 +721,43 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:4c662665509de6d218f09c8f771e8721a8052d1d]{
 -- Page 37, Offset 11324.
 -- もうその話題には触れない事にしたから忘れてくれ。
-　Je ferai en sorte de ne plus aborder le sujet, alors oublie ça s'il te plaît.
+  Je ferai en sorte de ne plus aborder le sujet, alors oublie ça s'il te plaît.
 
 }
 [sha:e23f72c936c545cf28ca90a95397f8629c649484]{
 -- Page 37, Offset 11325.
 -- それより、有珠」
-　Sinon, Alice...」
+  Sinon, Alice...」
 
 }
 [sha:ef3636111a59ace1ac8ae3cfb07f899e08d40cb8]{
 -- Page 38, Offset 11326.
 -- 今までのどんな時よりも真剣な、<射|い><貫|ぬ>くような視線で草十郎は有珠を見る。
-　Le jeune homme la fixa d'un regard pénétrant, encore plus sérieux que tous ceux qu'il avait pu lui adresser jusqu'à maintenant.
+  Le jeune homme la fixa d'un regard pénétrant, encore plus sérieux que tous ceux qu'il avait pu lui adresser jusqu'à maintenant.
 
 }
 [sha:46ca10990e3fdb50596a7fec7c588a4ca2a76324]{
 -- Page 38, Offset 11327.
 -- 彼には似合わない、強い視線を前にして有珠は少し体を引いてしまう。
-　Alice recula un peu devant ce regard perçant dont il n'était pas coutumier.
+  Alice recula un peu devant ce regard perçant dont il n'était pas coutumier.
 
 }
 [sha:6db5a3c5ba27df774ecaa4afd9e982ec833719d3]{
 -- Page 39, Offset 11328.
 -- かすかな緊張が有珠の頬を紅潮させる。
-　Quelque peu fébrile, ses joues prirent une teinte rosée.
+  Quelque peu fébrile, ses joues prirent une teinte rosée.
 
 }
 [sha:e6e6414d286de9c4db73868ad1e4405a7a1dd123]{
 -- Page 39, Offset 11329.
 -- 他人にここまで強く見つめられる事なんて、青子以外なかったからだ。
-　À l'exception d'Aoko, personne ne l'avait jamais fixée si intensément.
+  À l'exception d'Aoko, personne ne l'avait jamais fixée si intensément.
 
 }
 [sha:44b226873423367f3020d64849b5a055d3a7e131]{
 -- Page 40, Offset 11330.
 -- 有珠の緊張を知ってか知らずか、草十郎はしばらく黙ってから、ゆっくりと、偽りのない気持ちを口にした。
-　Conscient ou non de la nervosité d'Alice, Sōjūrō, après s'être tu un moment, exprima le véritable fond de sa pensée :
+  Conscient ou non de la nervosité d'Alice, Sōjūrō, après s'être tu un moment, exprima le véritable fond de sa pensée :
 
 }
 [sha:7b87ec27b5f1203177beab1c81358642143f4a71]{
@@ -775,7 +775,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:47847ee4a71468d4de70c70a61ff74d5616c3f3d]{
 -- Page 41, Offset 11333.
 -- どこか気まずい沈黙が流れる。
-　Un silence légèrement déplaisant s'installa.
+  Un silence légèrement déplaisant s'installa.
 
 }
 [sha:b410a4d55f0197c06d367df74d401981ff89295e]{
@@ -787,13 +787,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:d1950cd464e7993a8a960068728aa8cdfe0e497a]{
 -- Page 42, Offset 11335.
 -- 作ったのは静希君だけど、とにかくそういうコトだから、と有珠は切り捨てる。
-　“C'est toi qui l'as préparé, mais c'est comme ça”, rajouta-t-elle.
+  “C'est toi qui l'as préparé, mais c'est comme ça”, rajouta-t-elle.
 
 }
 [sha:c7121c6f8b5d8a0cb9e186b20278a9e135dc31dc]{
 -- Page 42, Offset 11336.
 -- 多少、自分でもよく分からない怒気をこめて。
-　Elle y avait mis une pointe de colère qu'elle ne se connaissait pas.
+  Elle y avait mis une pointe de colère qu'elle ne se connaissait pas.
 
 }
 [sha:c46055afe72f9646493f27f5d2f3c68d25ec9f24]{
@@ -805,13 +805,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:766ae42e1b49edbc26008332fe413849aec6fac3]{
 -- Page 43, Offset 11338.
 -- すとん、とソファーに戻る草十郎。
-　Sōjūrō revint sur le sofa avec un bruit sourd.
+  Sōjūrō revint sur le sofa avec un bruit sourd.
 
 }
 [sha:693746754ce66460683b01ac61aa980839f72baa]{
 -- Page 43, Offset 11339.
 -- その仕草があまりにも哀れだったからか。
-　Cette gestuelle le faisait paraître vraiment malheureux.
+  Cette gestuelle le faisait paraître vraiment malheureux.
 
 }
 [sha:24d9009f891ebdf38ae231d1a5308f80f38739b4]{
@@ -823,13 +823,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:55f51240822aaed04486a505a0c150f625adbe2a]{
 -- Page 43, Offset 11341.
 -- つい口にして、あわてて有珠は口を<塞|ふさ>いだ。
-　dit Alice inconsciemment avant de refermer la bouche, confuse.
+  dit Alice inconsciemment avant de refermer la bouche, confuse.
 
 }
 [sha:3038fcdae592a889a113dcec7bd60487b724c2b4]{
 -- Page 43, Offset 11342.
 -- そんな事を訊くなんて、まったく彼女らしくない。
-　Demander ce genre de chose, vraiment, cela ne lui ressemblait pas.
+  Demander ce genre de chose, vraiment, cela ne lui ressemblait pas.
 
 }
 [sha:15c7f6e25f0b80b0a2f48f5914a2ed84f55141af]{
@@ -841,13 +841,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:194e122d7500975ed137ee772a3e02146db20a97]{
 -- Page 44, Offset 11344.
 -- まだ未練があるのか、有珠のお皿を見ながら草十郎は答える。
-　Toujours dépité, Sōjūrō répondit tout en regardant l'assiette d'Alice.
+  Toujours dépité, Sōjūrō répondit tout en regardant l'assiette d'Alice.
 
 }
 [sha:9efd8cd3ec6d41bca8b6f97bef7f467e6917a43e]{
 -- Page 44, Offset 11345.
 -- その言葉も有珠的に無視できなかったのか、よせばいいのに、彼女は再度声をかけてしまった。
-　Incapable d'ignorer sa réponse, Alice lui adressa une nouvelle fois la parole, ce qu'elle aurait pu éviter.
+  Incapable d'ignorer sa réponse, Alice lui adressa une nouvelle fois la parole, ce qu'elle aurait pu éviter.
 
 }
 [sha:239df37b84a51c25f9148991e58d3a4e05c61504]{
@@ -865,7 +865,7 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:9a284befa7937a6be83c47d3dc4347e14bde9eb2]{
 -- Page 45, Offset 11348.
 -- ……と、もうすぐ一時か。ちょうどいい、行って起こしてくるよ」
-　...... Ah, il est presque une heure. C'est parfait, je vais l'appeler.」
+  ...... Ah, il est presque une heure. C'est parfait, je vais l'appeler.」
 
 }
 [sha:b31416cb59f259afbffc714d20cd800a41463db4]{
@@ -877,13 +877,13 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:238a732f71b93d86d526fc7055b0122d002f7217]{
 -- Page 46, Offset 11350.
 -- なんでそんな事をするのか疑問、と有珠は首を傾げる。
-　“Je me demande vraiment pourquoi tu fais cela”, rajouta Alice, perplexe.
+  “Je me demande vraiment pourquoi tu fais cela”, rajouta Alice, perplexe.
 
 }
 [sha:ec23afb03ec0617deb1e50167da4a6d0a81d1fd5]{
 -- Page 46, Offset 11351.
 -- まったくだ、と同意しながらも草十郎は歩きだす。
-　“Je me le demande aussi”, consentit Sōjūrō tout en se mettant en route.
+  “Je me le demande aussi”, consentit Sōjūrō tout en se mettant en route.
 
 }
 [sha:f7e84f5975cc3a34cbf5cfdc8818fc7fb7a85f88]{
@@ -895,54 +895,54 @@ Bien qu'elle ait déjà accompli mentalement l'acte en question à plusieurs rep
 [sha:817591043fc32cf490838e8fc807650840db05d0]{
 -- Page 47, Offset 11353.
 -- 悪態なのに、親愛に満ちた言葉。
-　Il faisait des jérémiades, mais ses mots étaient remplis d'affection.
+  Il faisait des jérémiades, mais ses mots étaient remplis d'affection.
 
 }
 [sha:5200296d3e1111207175647bd98c83499845b27e]{
 -- Page 47, Offset 11354.
 -- 同情に値する言葉を残して、草十郎は青子の部屋へと向かっていった。
-　Sōjūrō se retira sur ces paroles dignes de sympathie pour se diriger vers la chambre d'Aoko.
+  Sōjūrō se retira sur ces paroles dignes de sympathie pour se diriger vers la chambre d'Aoko.
 
 }
 [sha:a5001b8d6f598768ade350b96f51fa4eaaa744e4]{
 -- Page 48, Offset 11355.
 -- それを無言で見送ってから、有珠はあんかけ焼きうどんを一口食べてみる。
-　Après l'avoir accompagné du regard sans un mot, Alice avala une bouchée du yaki udon garni.
+  Après l'avoir accompagné du regard sans un mot, Alice avala une bouchée du yaki udon garni.
 
 }
 [sha:44a532065a59b3df39a13ed326feb1d819d05d3d]{
 -- Page 48, Offset 11356.
 -- ちらりと廊下への扉に目をやって、誰も来そうにない事を確認すると、さらに一口。
-　Elle lança un regard vers la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
+  Elle lança un regard vers la porte du couloir, et reprit une autre bouchée après s'être assurée que personne n'était sur le point d'entrer à l'improviste.
 
 }
 [sha:5220f9158282e99453e7c5c2b5f6b771adb5af15]{
 -- Page 48, Offset 11357.
 -- そんな事を何回も繰り返すうちにクリーム色のお皿は空になって、二階から青子の怒鳴り声が聞こえた気がした。
-　Après avoir répété ce cycle plusieurs fois, l'assiette couleur crème se retrouva vide, et elle crut entendre la voix coléreuse d'Aoko depuis le premier étage.
+  Après avoir répété ce cycle plusieurs fois, l'assiette couleur crème se retrouva vide, et elle crut entendre la voix coléreuse d'Aoko depuis le premier étage.
 
 }
 [sha:b47b610b54a091f80cfc7117d414e253e46c9938]{
 -- Page 49, Offset 11358.
 -- それに少しだけ同情して、厳かな仕草で、有珠は自分と草十郎の食器を片付けはじめた。
-　Prise d'un léger élan de compassion, Alice débarrassa son couvert et celui de Sōjūrō avec des mouvements austères.
+  Prise d'un léger élan de compassion, Alice débarrassa son couvert et celui de Sōjūrō avec des mouvements austères.
 
 }
 [sha:d20e3a0dfe8876fb93fc0938dae92a16e6ce8e66]{
 -- Page 49, Offset 11359.
 -- そんな気はなかったけれど、これぐらいはしてあげないといけない、と思ったらしい。
-　Même si elle n'en avait pas eu l'intention au départ, elle avait de toute évidence pensé qu'elle lui devait au moins ce service.
+  Même si elle n'en avait pas eu l'intention au départ, elle avait de toute évidence pensé qu'elle lui devait au moins ce service.
 
 }
 [sha:08224c9085255a3e28b5c2f0af3ba20748be74a2]{
 -- Page 50, Offset 11360.
 -- ……不覚にも。
-　...... Après tout,
+  ...... Après tout,
 
 }
 [sha:6201d92e90916a6ced651dd43d0a3708cd1afb31]{
 -- Page 50, Offset 11361.
 -- はじめて食べた彼の手料理は、紅茶の不出来な淹れ方を忘れさせるほどには、まあ、悪くはない味だったのだから。
-　son premier plat fait maison n'avait pas si mauvais goût et lui avait même fait oublier son incompétence à préparer du thé.
+  son premier plat fait maison n'avait pas si mauvais goût et lui avait même fait oublier son incompétence à préparer du thé.
 
 }

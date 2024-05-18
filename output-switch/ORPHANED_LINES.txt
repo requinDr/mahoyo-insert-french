@@ -1,217 +1,217 @@
 [sha:a9fe5815f2a82af0a0bac2fb66ed61849221cc04]{
 -- Page -1, Offset 8961.
 -- その、二時間前の話―――
-　Deux heures plus tôt...
+  Deux heures plus tôt...
 
 }
 [sha:c0e867d38710ee1aae7416beee0578ced449fa58]{
 -- Page -1, Offset 8962.
 -- 眠りに落ちて見る夢は、
-　Les rêves qu'elle faisait après s'être endormie portaient,
+  Les rêves qu'elle faisait après s'être endormie portaient,
 
 }
 [sha:a47df5b53895da0893ad992b1d2b9f9cf63c0270]{
 -- Page -1, Offset 8963.
 -- たいてい、幼い頃の記憶だった。
-　pour la plupart, sur des souvenirs de son enfance.
+  pour la plupart, sur des souvenirs de son enfance.
 
 }
 [sha:a66605f06dbd2369ad21c651a7899d1c966cf092]{
 -- Page -1, Offset 8964.
 -- イングランドの北西部。
-　Au nord-ouest de l'Angleterre,
+  Au nord-ouest de l'Angleterre,
 
 }
 [sha:0094fd4f8e965046e60f12449891d1374e6c3163]{
 -- Page -1, Offset 8965.
 -- 深い霧に覆われたオークの森。
-　on pouvait trouver une forêt de chênes plongée dans un épais brouillard,
+  on pouvait trouver une forêt de chênes plongée dans un épais brouillard,
 
 }
 [sha:435bee2629ddc9c4a32a67602e31fb26321de42f]{
 -- Page -1, Offset 8966.
 -- 二十世紀にあっても人を寄せ付けない、鳥と獣たちの王国。
-　le royaume des oiseaux et des bêtes qui, même au XIXe siècle, refusait l'entrée aux humains.
+  le royaume des oiseaux et des bêtes qui, même au XIXe siècle, refusait l'entrée aux humains.
 
 }
 [sha:ea5fb417f66670a6984e5e4db9ca41f5a2302584]{
 -- Page -1, Offset 8967.
 -- その一角に、彼女の生まれ育った家があった。
-　La maison où elle vit le jour et fut élevée se trouvait là.
+  La maison où elle vit le jour et fut élevée se trouvait là.
 
 }
 [sha:7f62b10cc75b7eddfb9ec54278346fd6d156e937]{
 -- Page -1, Offset 8968.
 -- 何代と続いてきた古い生き物。
-　Des êtres des temps anciens y avaient survécu génération après génération.
+  Des êtres des temps anciens y avaient survécu génération après génération.
 
 }
 [sha:0836adf0ac6cff6aec31b7b3448032329cd5fe6c]{
 -- Page -1, Offset 8969.
 -- 偉大な、あるいは愚かな先祖の言いつけ通り、かたくなに純潔を守り続けた、原初の魔女の<末裔|まつえい>たち。
-　Il s'agissait des descendants des premières sorcières ayant obstinément protégé leur pureté selon les instructions de leurs grands - voire excentriques - ancêtres.
+  Il s'agissait des descendants des premières sorcières ayant obstinément protégé leur pureté selon les instructions de leurs grands - voire excentriques - ancêtres.
 
 }
 [sha:17c49d0658753e9b7779d933ae6c899fae7deb5d]{
 -- Page -1, Offset 8970.
 -- 先代たちがどれほどの年月を重ねてきたのか、少女は正確に把握していない。
-　La jeune fille ne savait pas précisément combien de ses prédécesseurs s'étaient succédé au cours des siècles.
+  La jeune fille ne savait pas précisément combien de ses prédécesseurs s'étaient succédé au cours des siècles.
 
 }
 [sha:975a08a45b57d441328e80aeb68eaef2c682e606]{
 -- Page -1, Offset 8971.
 -- 少女の母までは確かに伝わっていたが、少女には<口伝|くでん>でしか教えられなかった。
-　L'information avait bien été transmise jusqu'à sa mère, mais celle-ci n'était communiquée que de bouche à oreille.
+  L'information avait bien été transmise jusqu'à sa mère, mais celle-ci n'était communiquée que de bouche à oreille.
 
 }
 [sha:0a54271d7007c88aec33bb4c77e99851a76bf0f6]{
 -- Page -1, Offset 8972.
 -- だから、彼女たちがその土地に根を下ろしてどれほどの年月が経っていたのか、知るものはもう誰もいない。
-　En conséquence, plus personne ne savait combien de temps s'était écoulé depuis que les sorcières avaient élu domicile sur ces terres.
+  En conséquence, plus personne ne savait combien de temps s'était écoulé depuis que les sorcières avaient élu domicile sur ces terres.
 
 }
 [sha:f5ea22abdd422b55472c555c5798b980e8961565]{
 -- Page -1, Offset 8973.
 -- 伝統はすっかり<剥|は>がれ落ちて、
-　La tradition s'était complètement perdue,
+  La tradition s'était complètement perdue,
 
 }
 [sha:7d219c619e2b51eee4313a35b4c9ebefc0c4d17a]{
 -- Page -1, Offset 8974.
 -- 角をいただいた白馬も、
-　et les chevaux blancs au crâne orné d'une corne,
+  et les chevaux blancs au crâne orné d'une corne,
 
 }
 [sha:fc90f966cbc24bbb7bb1ab530f735a5a852a0c3b]{
 -- Page -1, Offset 8975.
 -- 虹色にはばたく鳥も、
-　ainsi que les oiseaux battant des ailes dans un ciel irisé,
+  ainsi que les oiseaux battant des ailes dans un ciel irisé,
 
 }
 [sha:00bad0821a172f3a2b76927497744db351d60c84]{
 -- Page -1, Offset 8976.
 -- 少女が生まれた時には影も形も見あたらなかった。
-　avaient déjà disparu sans laisser la moindre trace avant que la fillette n'ait vu le jour.
+  avaient déjà disparu sans laisser la moindre trace avant que la fillette n'ait vu le jour.
 
 }
 [sha:a941eaa306098e511e84a4a0906ccf063f8e1ed1]{
 -- Page -1, Offset 8977.
 -- 代わりにあるものと言えば、少女の家には不釣り合いな、近代的な家具の数々だった。
-　À la place, des meubles modernes et disparates se trouvaient dans sa maison.
+  À la place, des meubles modernes et disparates se trouvaient dans sa maison.
 
 }
 [sha:811dedccb7e69b15968107db614f5b1d5d369273]{
 -- Page -1, Offset 8978.
 -- それらは森の空気にも少女の肌にも合わなかったが、決して不快なものではなかったと憶えている。
-　Ceux-ci s'accordaient mal à l'ambiance de la forêt et à la peau de la jeune fille ; néanmoins, elle se souvenait qu'ils n'étaient en aucun cas déplaisants.
+  Ceux-ci s'accordaient mal à l'ambiance de la forêt et à la peau de la jeune fille ; néanmoins, elle se souvenait qu'ils n'étaient en aucun cas déplaisants.
 
 }
 [sha:2d0c1c46801fa8383a35a7676761403da9eabe95]{
 -- Page -1, Offset 8979.
 -- 時代遅れの母と、
-　Il s'agissait de souvenirs,
+  Il s'agissait de souvenirs,
 
 }
 [sha:a6b7938a0b1f26a56720881c357dfc6d9ecbca2c]{
 -- Page -1, Offset 8980.
 -- 時代遅れの自分に贈られた記念品。
-　offerts à cette mère et sa fille, tout droit sorties d'une autre époque.
+  offerts à cette mère et sa fille, tout droit sorties d'une autre époque.
 
 }
 [sha:be2b266f9914740e4f784df2a4b5b5e6d4bbbd55]{
 -- Page -1, Offset 8981.
 -- それらに愛情を抱いたのは、
-　Si elle avait ressenti de l'amour pour ces objets,
+  Si elle avait ressenti de l'amour pour ces objets,
 
 }
 [sha:3e78a00441358f12244b71f1385140c7801d90be]{
 -- Page -1, Offset 8982.
 -- 一週間に一度、<近くの都市|マンチェスター>からやってくる男性からの贈り物である事を、子供心に分かっていたからだろう。
-　c'était parce qu'elle comprenait au fond de son cœur innocent qu'il s'agissait de présents de l'homme venant depuis Manchester une fois par semaine.
+  c'était parce qu'elle comprenait au fond de son cœur innocent qu'il s'agissait de présents de l'homme venant depuis Manchester une fois par semaine.
 
 }
 [sha:7d6a2097f336b04fe22292279a87bc7dbe012b9f]{
 -- Page -1, Offset 8983.
 -- ……それも、今では失われた。
-　...... À présent, même cela lui avait été retiré.
+  ...... À présent, même cela lui avait été retiré.
 
 }
 [sha:c3a9d40937d9b1f63ca07ac1956bfc7d01e1a01a]{
 -- Page -1, Offset 8984.
 -- きらきら光る運転手付きの<高級車|キャデラック>も、
-　La Cadillac scintillante avec chauffeur,
+  La Cadillac scintillante avec chauffeur,
 
 }
 [sha:35597c6b61b00f3d07749d38c83a3ca0ab50019d]{
 -- Page -1, Offset 8985.
 -- お城のような<花園|ガーデン>も、
-　le jardin digne d'agrémenter un château,
+  le jardin digne d'agrémenter un château,
 
 }
 [sha:100f5da19e3e35795ea408e92df2196d98495cca]{
 -- Page -1, Offset 8986.
 -- たくさんの大人たちも、
-　et tous les adultes,
+  et tous les adultes,
 
 }
 [sha:82d0cef5788aa30c4a7f4d898f5a55e3738ff298]{
 -- Page -1, Offset 8987.
 -- <霧|きり>のように消えてしまった。
-　tout avait disparu comme un brouillard.
+  tout avait disparu comme un brouillard.
 
 }
 [sha:22728ec7998a4b1d81465b4626be40b50f6065b3]{
 -- Page -1, Offset 8988.
 -- あるいは、霧の中に消えてしまった。
-　À moins qu'ils n'aient disparu dans celui-ci.
+  À moins qu'ils n'aient disparu dans celui-ci.
 
 }
 [sha:7b3f9ff6a2350c4f47a752969b8e1eb339aefc36]{
 -- Page -1, Offset 8989.
 -- 幸せに満ちた母の笑顔も、
-　Le sourire resplendissant de sa mère,
+  Le sourire resplendissant de sa mère,
 
 }
 [sha:f1462317fda24bdd826acb0244b53b763dd36780]{
 -- Page -1, Offset 8990.
 -- はにかむような父の笑顔もない。
-　et celui timide de son père, n'étaient plus là.
+  et celui timide de son père, n'étaient plus là.
 
 }
 [sha:658438d17adcfe057606c9e4c08765c3070fbdc3]{
 -- Page -1, Offset 8991.
 -- そんなもの、初めから森が<赦|ゆる>しはしなかったのだ。
-　La forêt n'avait jamais permis de telles choses.
+  La forêt n'avait jamais permis de telles choses.
 
 }
 [sha:16ec8ec10868b2b645fcb87e6dc3dcddf18dc3de]{
 -- Page -1, Offset 8992.
 -- ……今はただ、疑問だけが残っている。
-　...... Désormais, il ne restait que des doutes en elle.
+  ...... Désormais, il ne restait que des doutes en elle.
 
 }
 [sha:4eb64175ad8462a027c8bf965499f958b30e98e1]{
 -- Page -1, Offset 8993.
 -- 洋館には不釣り合いだった数々の異物。
-　Les nombreux éléments étrangers et inappropriés à la demeure.
+  Les nombreux éléments étrangers et inappropriés à la demeure.
 
 }
 [sha:ca5480aa53026c54394378df76efa193466a40d2]{
 -- Page -1, Offset 8994.
 -- 何ひとつ自分が望んだわけではない高級品。
-　Tous ces produits de luxe qu'elle n'avait même jamais désirés.
+  Tous ces produits de luxe qu'elle n'avait même jamais désirés.
 
 }
 [sha:7ce8b403386ced71dcf003c68380b7cf7b4a41b3]{
 -- Page -1, Offset 8995.
 -- ただ<厭|いや>らしいだけの贈り物。
-　Ces présents qui n'inspiraient plus que le dégoût.
+  Ces présents qui n'inspiraient plus que le dégoût.
 
 }
 [sha:395592d97269cb77d6fa464ef6f8e9ea751f3ba3]{
 -- Page -1, Offset 8996.
 -- それを、あんなにも<愛|いと>おしく<触|ふ>れていたのは、一体どんな気の迷いだったのか―――
-　Quel genre d'égarement l'avait poussée à les toucher avec tant d'amour...?
+  Quel genre d'égarement l'avait poussée à les toucher avec tant d'amour...?
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -223,31 +223,31 @@
 [sha:fcb71ce8db05ba771ed94bf96c20142f5c80371c]{
 -- Page -1, Offset 8998.
 -- 閉じられた<目蓋|まぶた>がかすかに動く。
-　Ses paupières closes bougèrent imperceptiblement.
+  Ses paupières closes bougèrent imperceptiblement.
 
 }
 [sha:86660c8690a84c43a86f6cb3d8f0cd8d87a99834]{
 -- Page -1, Offset 8999.
 -- 日が<翳|かげ>りだす前の午後。
-　L'heure était tardive, et la nuit sur le point de tomber.
+  L'heure était tardive, et la nuit sur le point de tomber.
 
 }
 [sha:3cc077cd381a87c707461f49c9034e6a22d7391f]{
 -- Page -1, Offset 9000.
 -- 少女は自分の耳ではなく、館が聞き届けた音に反応して、うっすらと意識を起こした。
-　La fille réagit, non pas aux sons perçus par ses oreilles, mais à ceux transmis par le manoir, et reprit vaguement conscience.
+  La fille réagit, non pas aux sons perçus par ses oreilles, mais à ceux transmis par le manoir, et reprit vaguement conscience.
 
 }
 [sha:cd8e93a4f8d37048a18764558db84ba9f486b00d]{
 -- Page -1, Offset 9001.
 -- 辛そうに目蓋を押さえる少女を気遣ってか、鳴き声をあげる青い小鳥。
-　L'oiseau bleu chanta comme s'il s'inquiétait pour la jeune fille qui se massait les paupières d'un air douloureux.
+  L'oiseau bleu chanta comme s'il s'inquiétait pour la jeune fille qui se massait les paupières d'un air douloureux.
 
 }
 [sha:c73d312f69405fa83c76db3076ff513f7e309b3b]{
 -- Page -1, Offset 9002.
 -- 少女はぼんやりとした目で、
-　Les yeux hagards,
+  Les yeux hagards,
 
 }
 [sha:394881b01c5c773dde84aa489ecb17d64f3985ac]{
@@ -259,13 +259,13 @@
 [sha:3a9434172ec0ebb57ccecaca6bdc17a00ab8c443]{
 -- Page -1, Offset 9004.
 -- 薄れていく夢の<内容|きおく>に<縋|すが>るように、独り言を口にした。
-　elle parla comme pour se cramponner au souvenir du rêve qui s'estompait.
+  elle parla comme pour se cramponner au souvenir du rêve qui s'estompait.
 
 }
 [sha:99e2e5ca5f4262c63b328f36f49b49f97810b59e]{
 -- Page -1, Offset 9005.
 -- 鳥と聞いて、我が事のようにはしゃぐ駒鳥。
-　Entendant le mot “oiseau”, le rouge-gorge s'agita comme si elle parlait de lui.
+  Entendant le mot “oiseau”, le rouge-gorge s'agita comme si elle parlait de lui.
 
 }
 [sha:08667758e94a3486ff5085816b349e58707e8966]{
@@ -277,37 +277,37 @@
 [sha:7a796b3c053a592bbe21813068e3516e89cb0337]{
 -- Page -1, Offset 9007.
 -- それよりこの音、なに？」
-　Sinon, quel est ce bruit ?」
+  Sinon, quel est ce bruit ?」
 
 }
 [sha:c995b6f454ab0247ffbdb9bddb65000b06312fc0]{
 -- Page -1, Offset 9008.
 -- <肩|はね>を落としてがっかりする駒鳥に、少女は冷たい目のまま追及する。
-　D'un œil glacial, la jeune fille demanda des informations au rouge-gorge qui baissait la tête, déçu.
+  D'un œil glacial, la jeune fille demanda des informations au rouge-gorge qui baissait la tête, déçu.
 
 }
 [sha:0b6132aa3c1581920fcc2503fb985968cdf911de]{
 -- Page -1, Offset 9009.
 -- ……彼女が目を覚ました原因。
-　...... Des informations sur la raison pour laquelle elle s'était réveillée, à savoir,
+  ...... Des informations sur la raison pour laquelle elle s'était réveillée, à savoir,
 
 }
 [sha:ccdf3c33419adc12d0d5fda4bc426a1c35f7dee2]{
 -- Page -1, Offset 9010.
 -- 館の裏庭の方から響く、<耳障|みみざわ>りな雑音について。
-　la cacophonie qui retentissait depuis l'arrière-cour du manoir.
+  la cacophonie qui retentissait depuis l'arrière-cour du manoir.
 
 }
 [sha:fc994ef60295257ca5a37543b663da0f3ed07e08]{
 -- Page -1, Offset 9011.
 -- 裏庭からの雑音がなんなのか熟知していた駒鳥は、胸を張って主人に報告する。
-　Le rouge-gorge, qui savait parfaitement quelle était l'origine du bruit, le rapporta fièrement à sa maîtresse.
+  Le rouge-gorge, qui savait parfaitement quelle était l'origine du bruit, le rapporta fièrement à sa maîtresse.
 
 }
 [sha:66e084599013bfcef4eea35fade08f0f62c8f9f7]{
 -- Page -1, Offset 9012.
 -- 聞いて。少女の眠気は、今度こそ霧散した。
-　Une fois mise au courant, elle émergea complètement de son sommeil.
+  Une fois mise au courant, elle émergea complètement de son sommeil.
 
 }
 [sha:ffef43e8a843a6c80e675d6afa41acfc9050b17a]{
@@ -319,31 +319,31 @@
 [sha:9dc2cc944f14a1a83099918120413b464c9a4dc8]{
 -- Page -1, Offset 9014.
 -- つまらなげに漏らした言葉は、魔女としての責務とはまた違う、いわれのない個人的な<感情|いらだち>を含んでいた。
-　Elle laissa échapper des mots quelconques imprégnés d'une irritation indescriptible, bien différente de ses obligations de sorcière.
+  Elle laissa échapper des mots quelconques imprégnés d'une irritation indescriptible, bien différente de ses obligations de sorcière.
 
 }
 [sha:80253a507af5eb4320c35598d3e216a7697c50ac]{
 -- Page -1, Offset 9015.
 -- 長らく使われていなかったポンプが、ギッコギッコと音を立てる。
-　La pompe qui n'avait pas été utilisée depuis longtemps produisait un grincement.
+  La pompe qui n'avait pas été utilisée depuis longtemps produisait un grincement.
 
 }
 [sha:d66e88c467025e4953c85b5663c31949a91dce35]{
 -- Page -1, Offset 9016.
 -- 久遠寺邸の裏庭。
-　Dans l'arrière-cour du manoir Kuonji,
+  Dans l'arrière-cour du manoir Kuonji,
 
 }
 [sha:e1671e47bacbfd02fbffe50091e6ebf80a4a3a2a]{
 -- Page -1, Offset 9017.
 -- じき日没を迎える森には<痩身|そうしん>の人影があった。
-　alors que le soleil s'apprêtait à se coucher, une légère ombre s'affairait en bordure des bois.
+  alors que le soleil s'apprêtait à se coucher, une légère ombre s'affairait en bordure des bois.
 
 }
 [sha:c30128f445d5d1e9f7d23729b144dc990a648ee6]{
 -- Page -1, Offset 9018.
 -- 人影はきょろきょろと森を見渡しながら、草むらに埋もれたビニール袋や不法投棄された自転車を片付けたり、まれに、折れかかった木の枝などを補強したり、ひと思いに伐採などしていたりする。
-　Celle-ci, tout en parcourant la forêt du regard, ramassait des sacs en plastique enfouis sous les touffes d'herbe ou une bicyclette abandonnée illégalement, taillait de temps en temps les branches d'arbre abîmées, et se hasardait entre autres à débroussailler.
+  Celle-ci, tout en parcourant la forêt du regard, ramassait des sacs en plastique enfouis sous les touffes d'herbe ou une bicyclette abandonnée illégalement, taillait de temps en temps les branches d'arbre abîmées, et se hasardait entre autres à débroussailler.
 
 }
 [sha:79c77b05c14ced28d267577ea376df4a56b459bd]{
@@ -355,19 +355,19 @@
 [sha:b9610fc05d7104c845a1c42a7b9a7530b4215ecf]{
 -- Page -1, Offset 9020.
 -- おそらく洋館に住んでいる人物、どちらかの手によるものだろう。
-　Il s'agissait probablement du fait de l'un des individus vivant dans le manoir.
+  Il s'agissait probablement du fait de l'un des individus vivant dans le manoir.
 
 }
 [sha:2af337f05d7b800d91b8f97b1e468cc030f85fcc]{
 -- Page -1, Offset 9021.
 -- 館の物置に放置されたゴミ袋が野犬によってここまで運ばれ、無惨に食い散らかされていた。
-　Les sacs poubelles laissés dans le débarras avaient été amenés ici par des chiens errants qui les avaient sauvagement éparpillés.
+  Les sacs poubelles laissés dans le débarras avaient été amenés ici par des chiens errants qui les avaient sauvagement éparpillés.
 
 }
 [sha:4e442b58a2dc62d7d41d5bb22b7714dbb75455f3]{
 -- Page -1, Offset 9022.
 -- 彼は持参した竹箒を片手に、黙々とゴミを片づける。
-　Il se débarrassa en silence des déchets en tenant d'une main le balai qu'il avait apporté.
+  Il se débarrassa en silence des déchets en tenant d'une main le balai qu'il avait apporté.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -379,13 +379,13 @@
 [sha:fd632e629ec9fb4d08488c860621e7b653f36e6f]{
 -- Page -1, Offset 9024.
 -- 有珠は散歩中という<体|てい>で、その人影に出くわした。
-　Alice tomba sur cette ombre en faisant mine de se promener.
+  Alice tomba sur cette ombre en faisant mine de se promener.
 
 }
 [sha:2a5f17477d4a7911d88467b525e3729f723daf64]{
 -- Page -1, Offset 9025.
 -- <一月|ひとつき>に一度あるかないかの森の散歩が今である理由は、あえて語るまでもない。
-　La raison qui la poussait à faire une balade dans la forêt, ce qui ne lui arrivait qu'une fois par mois au mieux, était évidente.
+  La raison qui la poussait à faire une balade dans la forêt, ce qui ne lui arrivait qu'une fois par mois au mieux, était évidente.
 
 }
 [sha:78e20d4220b01e5e1732e5574958726983941456]{
@@ -403,13 +403,13 @@
 [sha:83f15e06a27c8764131a9580c7667943958a218e]{
 -- Page -1, Offset 9028.
 -- 気軽に挨拶など返される。
-　Il n'hésita pas à lui faire des salutations.
+  Il n'hésita pas à lui faire des salutations.
 
 }
 [sha:fda347aa85b0134d9a7b72e619cbfaa9566c9fbf]{
 -- Page -1, Offset 9029.
 -- 有珠は努めて視線を冷たくして、森の様子を観察した。
-　Alice s'efforça de rendre son regard glacial et observa la forêt.
+  Alice s'efforça de rendre son regard glacial et observa la forêt.
 
 }
 [sha:0ed1d6bb38ef7fc766026853f9482dc1249b77a9]{
@@ -451,7 +451,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:92aaab783ec0883d9c648795054a84e0b2a7c7a5]{
 -- Page -1, Offset 9036.
 -- しまった、と草十郎は不安げに言葉を切った。
-　“Zut”, lâcha Sōjūrō d'un air embêté.
+  “Zut”, lâcha Sōjūrō d'un air embêté.
 
 }
 [sha:33decced1a2e19bc8d730fd6e6c54e6ba57a13fc]{
@@ -463,13 +463,13 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:39525ac20a38b5745aeb133d337ccef97bc89177]{
 -- Page -1, Offset 9038.
 -- その約束は当然守る気満々だった。
-　Évidemment, il comptait parfaitement respecter cette promesse.
+  Évidemment, il comptait parfaitement respecter cette promesse.
 
 }
 [sha:e7ec1133cefcc1abc129e7a1e3d5ce428c689543]{
 -- Page -1, Offset 9039.
 -- が、今にして思うと、それは“五時まで洋館に入るな”というコトだったのかもしれない。
-　Cependant, en reconsidérant la question, elle sous-entendait peut-être de “ne pas rentrer au manoir avant cinq heures”.
+  Cependant, en reconsidérant la question, elle sous-entendait peut-être de “ne pas rentrer au manoir avant cinq heures”.
 
 }
 [sha:8b899f17ccdccab47c6d9155432e7145df8fddb6]{
@@ -487,7 +487,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:35eeefd589fcc05a5cb1ddc7b7af5b08aff12d1f]{
 -- Page -1, Offset 9042.
 -- ……それより何をしているの？　貴方と青子、今日から期末試験でしょう？　勉強、しなくていいの？」
-　...... Sinon, que fais-tu ? Les examens semestriels ont commencé aujourd'hui pour Aoko et toi, non ? Tu es sûr de n'avoir rien à étudier ?」
+  ...... Sinon, que fais-tu ? Les examens semestriels ont commencé aujourd'hui pour Aoko et toi, non ? Tu es sûr de n'avoir rien à étudier ?」
 
 }
 [sha:019cd04ca3a4a244d274d4a829701db0d86ff37b]{
@@ -499,19 +499,19 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:49ad8f33afdbdb28fe3395936b8fc3c49e4db801]{
 -- Page -1, Offset 9044.
 -- 寝る前にきちんと、二時間」
-　Deux bonnes heures avant de me coucher.」
+  Deux bonnes heures avant de me coucher.」
 
 }
 [sha:20726b1eb2e9e303d1f8f894c53ab9e7697bac3b]{
 -- Page -1, Offset 9045.
 -- どうも、彼にはまだ“試験前は念入りに復習をする”知恵がないようだ。
-　De toute évidence, il ne possédait pas encore la sagesse de “réviser consciencieusement avant les examens”.
+  De toute évidence, il ne possédait pas encore la sagesse de “réviser consciencieusement avant les examens”.
 
 }
 [sha:e5a0e7b46e0622e8ff3d5aadf918f518bb083991]{
 -- Page -1, Offset 9046.
 -- その考えはこの数時間後に<改|あらた>められる事になるが、今はまだ先の話だ。
-　Il aurait à revoir cette façon de penser quelques heures plus tard, mais là n'était pas encore la question.
+  Il aurait à revoir cette façon de penser quelques heures plus tard, mais là n'était pas encore la question.
 
 }
 [sha:816258cacc3ab9e35822773da31eb8cba838c06e]{
@@ -523,7 +523,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:d879ee2d044e29429de72de30332ebf54767a7dd]{
 -- Page -1, Offset 9048.
 -- この丘、どのくらいほったらかしだったんだ？」
-　Ça fait combien de temps que tu laisses cette colline à l'abandon ?」
+  Ça fait combien de temps que tu laisses cette colline à l'abandon ?」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -535,25 +535,25 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:ea3cfeb71b3afbf06e4089d82d0d3f2fe1c245a3]{
 -- Page -1, Offset 9050.
 -- 有珠は答えない。
-　Alice ne répondit rien.
+  Alice ne répondit rien.
 
 }
 [sha:be0f3dceef2f64f41c8b1adfe109a2e63993ad54]{
 -- Page -1, Offset 9051.
 -- 彼女がこの土地に住みはじめて三年ほど経つが、口にする必要はない。
-　Cela faisait près de trois ans qu'elle avait commencé à vivre ici, mais elle n'avait pas à le dire.
+  Cela faisait près de trois ans qu'elle avait commencé à vivre ici, mais elle n'avait pas à le dire.
 
 }
 [sha:cead4359022162d6dd4d0e2cadcac64767aad9e2]{
 -- Page -1, Offset 9052.
 -- 沈黙する有珠が気にならないのか、草十郎はひょいひょいとマイペースにゴミを拾っていく。
-　Indifférent au silence d'Alice, Sōjūrō ramassait les déchets à son rythme.
+  Indifférent au silence d'Alice, Sōjūrō ramassait les déchets à son rythme.
 
 }
 [sha:4d67804b1347146e86e026d33fa1147986860302]{
 -- Page -1, Offset 9053.
 -- 少女から見ると<厚|あつ>かましいコトこの上ない。
-　Du point de vue de la jeune fille, il n'y avait pas comportement plus effronté.
+  Du point de vue de la jeune fille, il n'y avait pas comportement plus effronté.
 
 }
 [sha:855100a4da64cdbd080530c1c2ead7cebe82596b]{
@@ -565,7 +565,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:419711eb093db52b97f179fd7c3588b0931e787e]{
 -- Page -1, Offset 9055.
 -- 今すぐ消えて、と続きかねない声。
-　commença-t-elle d'une voix prête à lui demander de disparaître sur-le-champ.
+  commença-t-elle d'une voix prête à lui demander de disparaître sur-le-champ.
 
 }
 [sha:b7c90c3ed85460c79462acb5e4131acc16da155d]{
@@ -577,7 +577,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:899cc1366c5e518226bdd74ff39627a0c0ff621a]{
 -- Page -1, Offset 9057.
 -- それを、間の抜けた声が押し止めた。
-　Cependant, un cri stupide l'en empêcha.
+  Cependant, un cri stupide l'en empêcha.
 
 }
 [sha:55b8ed2b311f7854a7b675b3152529d77f3139db]{
@@ -589,7 +589,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:b28b6b766d2cd7679b519973992dc45777503a3c]{
 -- Page -1, Offset 9059.
 -- 草十郎の足下には、錆びた金属の固まりが埋もれていた。
-　Une masse de métal rouillé était ensevelie aux pieds de Sōjūrō.
+  Une masse de métal rouillé était ensevelie aux pieds de Sōjūrō.
 
 }
 [sha:f61c7dc42a852f8a70182961b53ecf81fe9a13a1]{
@@ -601,13 +601,13 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:547bc4416ca9eac2e0c9206aae5aa4f30076c0d4]{
 -- Page -1, Offset 9061.
 -- 不思議そうに足下の危険物を観察する。
-　Sōjūrō observait l'objet dangereux à ses pieds d'un air étonné.
+  Sōjūrō observait l'objet dangereux à ses pieds d'un air étonné.
 
 }
 [sha:ecebb02422d6e13fadb8e084519f24426870b873]{
 -- Page -1, Offset 9062.
 -- それが野生の獣の<脚|あし>を捕らえる<道具|ワナ>である事を、彼は知らないらしい。
-　Il ne semblait pas savoir qu'il s'agissait d'un piège consistant à se refermer sur les pattes d'animaux sauvages.
+  Il ne semblait pas savoir qu'il s'agissait d'un piège consistant à se refermer sur les pattes d'animaux sauvages.
 
 }
 [sha:4b0b9abbb420b490fbcf51904d0f2a3fea003dc1]{
@@ -619,7 +619,7 @@ Ce soir, j'irai la rejoindre au portail, puis nous reviendrons ensemble au manoi
 [sha:78d97ed5b102f8a48aa2ee2de98c253981fe8566]{
 -- Page -1, Offset 9064.
 -- 街の人たちが忘れていったのよ、きっと」
-　Les gens de la ville ont dû l'oublier, certainement.」
+  Les gens de la ville ont dû l'oublier, certainement.」
 
 }
 [sha:51b7ccf189d6984eabb7339d07121f7303033247]{
@@ -649,25 +649,25 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:40f297cf5fa3e664b5423d74ef47933365a4d056]{
 -- Page -1, Offset 9069.
 -- 素朴な疑問に、たしかに、と有珠は頷いた。
-　“En effet”, acquiesça Alice face à ce doute naïf.
+  “En effet”, acquiesça Alice face à ce doute naïf.
 
 }
 [sha:7bf164a826b683e0ccb0a5995ae1dbebbcbadf65]{
 -- Page -1, Offset 9070.
 -- 虎挟みなんてものを見たのは子供の時以来だが、彼女も前から妙に思っていたのだ。
-　Elle n'avait pas vu de piège à loups depuis son enfance, mais elle aussi trouvait depuis longtemps la chose étrange.
+  Elle n'avait pas vu de piège à loups depuis son enfance, mais elle aussi trouvait depuis longtemps la chose étrange.
 
 }
 [sha:464996e83c1a3103421317b386f5950efab62f3f]{
 -- Page -1, Offset 9071.
 -- 有珠は獣たちの<賢|かしこ>さを知っている。
-　Elle savait que les animaux étaient intelligents.
+  Elle savait que les animaux étaient intelligents.
 
 }
 [sha:2533a7d5cfc9c6c34c6b10a228a887a363ba88aa]{
 -- Page -1, Offset 9072.
 -- なのにどうして、彼らはこんなあからさまな罠に食いつかれて、人間の手にかかってきたのか？
-　Malgré cela, pourquoi se faisaient-ils capturer par les hommes en tombant dans un piège aussi voyant ?
+  Malgré cela, pourquoi se faisaient-ils capturer par les hommes en tombant dans un piège aussi voyant ?
 
 }
 [sha:42eeea151ef6913281911e80e2bf33dc4e8284c0]{
@@ -679,7 +679,7 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:9142a144e30d72b24c510965673300c288d3b8f6]{
 -- Page -1, Offset 9074.
 -- つい、思いつきが声にでる。
-　Elle laissa échapper cette idée malgré elle.
+  Elle laissa échapper cette idée malgré elle.
 
 }
 [sha:35080da9a5d2a7e08b9d9b0307a64bc908a3f392]{
@@ -697,49 +697,49 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:3f9740ba78d31672aaddecc6d25b3aeedab9ed26]{
 -- Page -1, Offset 9077.
 -- 動物だって、死にそうなぐらいお腹が減っていたら、誘惑には勝てないわ。
-　Même les animaux céderaient à la tentation s'ils meurent de faim.
+  Même les animaux céderaient à la tentation s'ils meurent de faim.
 
 }
 [sha:d693984961f8a75236203e9e74add774027156da]{
 -- Page -1, Offset 9078.
 -- 罠にかかっても傷つくのは片足だけでしょうし。危ないと分かっていても、飢えて死ぬよりはいいと食べてしまうのではないかしら」
-　Si jamais ils tombent dans ce piège, il n'y a que leurs pattes qui seraient blessées, et même s'ils savent que c'est dangereux, ils préfèrent peut-être manger en connaissant les risques plutôt que de mourir de faim.」
+  Si jamais ils tombent dans ce piège, il n'y a que leurs pattes qui seraient blessées, et même s'ils savent que c'est dangereux, ils préfèrent peut-être manger en connaissant les risques plutôt que de mourir de faim.」
 
 }
 [sha:62f6c6952942f5b0d71a32381231d44985f39864]{
 -- Page -1, Offset 9079.
 -- ……そう。
-　...... Oui.
+  ...... Oui.
 
 }
 [sha:5348a99dce9e4a9ab5aac673af1ad2eeec8989be]{
 -- Page -1, Offset 9080.
 -- たとえその後、猟師の手による死が待っていようと、目前の飢餓には耐えられない。
-　Quand bien même un chasseur viendrait leur donner la mort, il leur était impossible de résister à la faim.
+  Quand bien même un chasseur viendrait leur donner la mort, il leur était impossible de résister à la faim.
 
 }
 [sha:8fc968a041d33204cbdc2ec8ac315070961510c9]{
 -- Page -1, Offset 9081.
 -- それが子供を養う親だったら尚更だ。
-　D'autant plus s'il était question d'une mère élevant ses petits.
+  D'autant plus s'il était question d'une mère élevant ses petits.
 
 }
 [sha:923f34febca51c7b5ce17e2f3494bc11996692be]{
 -- Page -1, Offset 9082.
 -- 親犬は子供のために片足を犠牲にして、餌を手に入れた代償として狩られてしまう。
-　Une chienne sacrifierait une jambe pour ses chiots et prendrait le risque d'être chassée en échange d'un peu de nourriture.
+  Une chienne sacrifierait une jambe pour ses chiots et prendrait le risque d'être chassée en échange d'un peu de nourriture.
 
 }
 [sha:b146a917ead8af51ffc309e42a88f93d4029cfe0]{
 -- Page -1, Offset 9083.
 -- はじめから危険と分かった上での挑戦……なのかもしれない。
-　Il s'agissait peut-être d'un choix qu'ils savaient risqué dès le départ.
+  Il s'agissait peut-être d'un choix qu'ils savaient risqué dès le départ.
 
 }
 [sha:aaac9de242e9fb1a07eb4fde63373aea5118b6ee]{
 -- Page -1, Offset 9084.
 -- 動物たちは生き残る為なら片足ぐらいと決断して、結果的に殺されてしまうだけの話。
-　À la fin, les animaux décideraient juste de sacrifier une jambe pour survivre, et se feraient tuer au bout du compte.
+  À la fin, les animaux décideraient juste de sacrifier une jambe pour survivre, et se feraient tuer au bout du compte.
 
 }
 [sha:c56fcb94b8665cc8e18f1af8828eb17084dce544]{
@@ -751,31 +751,31 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:21df5928c6be3258dbd5ab67dc72a69257e8d309]{
 -- Page -1, Offset 9086.
 -- 片手を失うことで死なずに済むのなら、それぐらいの取捨選択はすると思う」
-　S'ils peuvent survivre en perdant un bras, je pense qu'ils feraient ce choix.」
+  S'ils peuvent survivre en perdant un bras, je pense qu'ils feraient ce choix.」
 
 }
 [sha:183707f43f300c1f9431015ce6969433e132c822]{
 -- Page -1, Offset 9087.
 -- 自分を納得させるように少女は断言する。
-　affirma la jeune fille comme pour se convaincre elle-même.
+  affirma la jeune fille comme pour se convaincre elle-même.
 
 }
 [sha:da94e33e039512eedd4069054392ee94d5077e48]{
 -- Page -1, Offset 9088.
 -- それを、
-　Cependant,
+  Cependant,
 
 }
 [sha:fc5a73a72977c747e1f940e10307b1789d9af608]{
 -- Page -1, Offset 9089.
 -- 「どうだろう。人間と動物は、ちょっと違うんじゃないかな」
-「Je ne sais pas trop. Je pense que les animaux et les humains sont un peu différents.」
+  「Je ne sais pas trop. Je pense que les animaux et les humains sont un peu différents.」
 
 }
 [sha:7921523b523c5c0f1fa3ab1258b68846701a039e]{
 -- Page -1, Offset 9090.
 -- 再度、自信なげな声が押し止めた。
-　une voix peu assurée interrompit Alice de nouveau.
+une voix peu assurée interrompit Alice de nouveau.
 
 }
 [sha:5f296abd84c36f18e4e59e0a4fb66e24a8ef1274]{
@@ -793,13 +793,13 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:a678e39eaa867b7753d42cab68c85e18a6ac6093]{
 -- Page -1, Offset 9093.
 -- 動物には無駄がない。あれこれ考える知恵もない。
-　Le corps des animaux n'a rien qui soit inutile. Et ils n'ont pas suffisamment d'intelligence pour réfléchir à tout et n'importe quoi.
+  Le corps des animaux n'a rien qui soit inutile. Et ils n'ont pas suffisamment d'intelligence pour réfléchir à tout et n'importe quoi.
 
 }
 [sha:415ae54f4573b8d7899ab95711713bc8a40a76c4]{
 -- Page -1, Offset 9094.
 -- だから俺たちみたいに、<無|・><く|・><な|・><っ|・><た|・><ら|・><別|・><の|・><物|・><で|・><補|・><う|・>、なんて選択が、そもそもないんだ」
-　Il leur est impossible, contrairement à nous, de compenser ce qu'ils ont perdu par autre chose.」
+  Il leur est impossible, contrairement à nous, de compenser ce qu'ils ont perdu par autre chose.」
 
 }
 [sha:1ac26e2ec13a27d86f76953461dc8c63848bb97f]{
@@ -823,61 +823,61 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:630251b7c3b4b3f8d292a029f907b48167e1b6e2]{
 -- Page -1, Offset 9098.
 -- はじめから助かる気はない。片足を失うと認めた時点で、彼らは自分の命そのものを差しだしている」
-　Dès le départ, elles n'ont pas l'intention de s'en sortir. À partir du moment où elles acceptent de perdre un membre, c'est qu'elles livrent leur vie sur un plateau.」
+  Dès le départ, elles n'ont pas l'intention de s'en sortir. À partir du moment où elles acceptent de perdre un membre, c'est qu'elles livrent leur vie sur un plateau.」
 
 }
 [sha:8e1ad2b5de8e7a81b8f9712e2617e6bd23868c86]{
 -- Page -1, Offset 9099.
 -- 予想外の意見だったが、なるほど、と少女は受け入れた。
-　“Je vois”, répondit la jeune fille, acceptant cette opinion inattendue.
+  “Je vois”, répondit la jeune fille, acceptant cette opinion inattendue.
 
 }
 [sha:c8a3d6f2548ff9d2b37abc722470463395b7e71d]{
 -- Page -1, Offset 9100.
 -- この少年は都会生まれではなく、まだ自然と共存している山村で育った人間だ。
-　Ce jeune homme n'avait pas vu le jour dans une ville. Il avait été élevé dans un village de montagne qui coexistait encore avec la nature.
+  Ce jeune homme n'avait pas vu le jour dans une ville. Il avait été élevé dans un village de montagne qui coexistait encore avec la nature.
 
 }
 [sha:5f9e35a911e719bdd9f8ac9c804412dbf751345c]{
 -- Page -1, Offset 9101.
 -- 文明で武装し、弱いもの、老いたものを助けてくれる社会に生まれたものではない。
-　Il n'était pas né dans une société s'armant de la civilisation pour protéger faibles et vieillards.
+  Il n'était pas né dans une société s'armant de la civilisation pour protéger faibles et vieillards.
 
 }
 [sha:1b6b32337d8c9de3937be321655fc1b141e16f6a]{
 -- Page -1, Offset 9102.
 -- これまでの彼の在り方は、創意工夫に満ちた便利な日々ではなく、自然との共存による生活だったのだろう。
-　Jusqu'à présent, ses jours étaient dépourvus de créativité ou de facilité, alors que son quotidien consistait en une cohabitation avec la nature.
+  Jusqu'à présent, ses jours étaient dépourvus de créativité ou de facilité, alors que son quotidien consistait en une cohabitation avec la nature.
 
 }
 [sha:32dc42547d72edfbbcdd0811925726f1b224eae5]{
 -- Page -1, Offset 9103.
 -- そんな草十郎にとって、傷とは傷のまま、永遠に残るものだったに違いない。
-　Pour Sōjūrō, une blessure était sans aucun doute quelque chose qui ne disparaîtrait jamais.
+  Pour Sōjūrō, une blessure était sans aucun doute quelque chose qui ne disparaîtrait jamais.
 
 }
 [sha:694d9b106c9d6cc193150c267497b57b6a0efeb3]{
 -- Page -1, Offset 9104.
 -- そうでなければ、自然に生きる動物の在り方を口にできない。
-　Autrement, il ne pourrait pas parler de la façon de vivre des animaux sauvages.
+  Autrement, il ne pourrait pas parler de la façon de vivre des animaux sauvages.
 
 }
 [sha:97e4acec834c04c63170892a1d4509414870e04e]{
 -- Page -1, Offset 9105.
 -- ……彼の言うことはもっともだ。
-　...... Ce qu'il disait avait du sens.
+  ...... Ce qu'il disait avait du sens.
 
 }
 [sha:fa0ab788ca86804973863ea381376974522ee4bb]{
 -- Page -1, Offset 9106.
 -- 足を負傷して走れなくなった馬は、もう「馬」として機能せず、人々からも「馬」として見られないように。
-　Un cheval blessé à la jambe et incapable de courir ne fait plus fonction de “cheval” et les hommes ne le considèrent plus comme tel.
+  Un cheval blessé à la jambe et incapable de courir ne fait plus fonction de “cheval” et les hommes ne le considèrent plus comme tel.
 
 }
 [sha:18719375b233e16f1a079c0bb0c845b45476c3f9]{
 -- Page -1, Offset 9107.
 -- 野生の獣は、その手足を走らせる機能を<損|そこ>なった時点で、<生命|いのち>より先に己の<意義|かち>を<喪|うしな>うのだ―――
-　De même, dès l'instant où les animaux sauvages se retrouvent incapables de courir, ils perdent leur valeur avant leur vie―――
+  De même, dès l'instant où les animaux sauvages se retrouvent incapables de courir, ils perdent leur valeur avant leur vie―――
 
 }
 [sha:5267b2d6c7e416f54e96f491365c4c0e09c7ec28]{
@@ -895,13 +895,13 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:9e8a5f08dc76eb15be9c0551e257e6095d715c66]{
 -- Page -1, Offset 9110.
 -- 親しげに話しかけられ、有珠は気を引き締めて返答した。
-　Alice répondit en restant sur ses gardes face au ton familier de Sōjūrō.
+  Alice répondit en restant sur ses gardes face au ton familier de Sōjūrō.
 
 }
 [sha:f1ae7af7e76180e990598d888fd3fa456a4d533e]{
 -- Page -1, Offset 9111.
 -- つい話し込んでしまったが、有珠にとってみれば虎挟みよりこの少年の方が何倍も邪魔なのだ。
-　Elle avait fini par se laisser entraîner dans la conversation sans faire attention, mais pour elle, ce jeune homme était bien plus gênant que le piège à loups.
+  Elle avait fini par se laisser entraîner dans la conversation sans faire attention, mais pour elle, ce jeune homme était bien plus gênant que le piège à loups.
 
 }
 [sha:c0504b46aa2c49fcb53a890df420dd04a50cef1a]{
@@ -913,31 +913,31 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:c202397114e1f60679f02164c4badef2e8acee2c]{
 -- Page -1, Offset 9113.
 -- 少女の瞳に敵意がともる。
-　Une forte hostilité brillait dans les yeux de la jeune fille.
+  Une forte hostilité brillait dans les yeux de la jeune fille.
 
 }
 [sha:b7e8f537ac96c9d7c6d02d48d1dc4904259f4c96]{
 -- Page -1, Offset 9114.
 -- 自分に媚びへつらった時点で、有珠は草十郎を自分流に処置しようと決めていた。
-　Dès le moment où il lui lécherait les bottes, Alice avait décidé de cuisiner Sōjūrō à sa propre façon.
+  Dès le moment où il lui lécherait les bottes, Alice avait décidé de cuisiner Sōjūrō à sa propre façon.
 
 }
 [sha:6f6d613eef30fd13e80bb9fe21ee17aea2a59695]{
 -- Page -1, Offset 9115.
 -- 不義理もいい。絶交もいい。裏切りもいい。
-　L'ingratitude, la rupture, même la traîtrise ne la dérangeaient pas.
+  L'ingratitude, la rupture, même la traîtrise ne la dérangeaient pas.
 
 }
 [sha:af6c5204ca2b4caf28f3a093e0181db37bf2266e]{
 -- Page -1, Offset 9116.
 -- けれど、心にもない言葉で話しかけられる事だけは許せない。
-　Cependant, elle ne permettrait pas qu'il lui raconte des choses qu'il ne pensait pas vraiment.
+  Cependant, elle ne permettrait pas qu'il lui raconte des choses qu'il ne pensait pas vraiment.
 
 }
 [sha:690332d4bf017eacfc60856b42dd903de0d82733]{
 -- Page -1, Offset 9117.
 -- それは少女にとって、何よりも重い侮辱だった。
-　Pour elle, c'était la plus grave des insultes.
+  Pour elle, c'était la plus grave des insultes.
 
 }
 [sha:0867523befa2dacac1471b4f274a7ce2343e4113]{
@@ -949,13 +949,13 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:9f50b15795709f8658d3cd151a8d649370ccbe1d]{
 -- Page -1, Offset 9119.
 -- こんなに荒れ放題なんだから、ふたりともこの森はあんまり好きじゃないんだろ。森がきれいになって気分が良くなるのは、俺だけだと思うけど」
-　Vu à quel point elle est peu entretenue, vous ne devez pas l'aimer tant que ça, non ? Je pense qu'il n'y a que moi qui me sentirai mieux après l'avoir déblayée.」
+  Vu à quel point elle est peu entretenue, vous ne devez pas l'aimer tant que ça, non ? Je pense qu'il n'y a que moi qui me sentirai mieux après l'avoir déblayée.」
 
 }
 [sha:369b761cfba675fc2405bfe095196df5a4a22214]{
 -- Page -1, Offset 9120.
 -- が。有珠の敵意も、この少年にはまったく伝わらなかったようだ。
-　Malencontreusement, l'hostilité d'Alice ne fut aucunement transmise au jeune homme.
+  Malencontreusement, l'hostilité d'Alice ne fut aucunement transmise au jeune homme.
 
 }
 [sha:522f2b8ce954d5274a7f8d84a68e5b1acedd7c24]{
@@ -985,13 +985,13 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:e212d8457f1a6ea6fe2fc4a0ce7be86621a613df]{
 -- Page -1, Offset 9125.
 -- けど、貴方だっておかしいでしょう？
-　Cela dit, tu es étrange toi aussi, non ?
+  Cela dit, tu es étrange toi aussi, non ?
 
 }
 [sha:98096ac8852e8e62ec8f154a2b877b0ea4d72224]{
 -- Page -1, Offset 9126.
 -- この森のどこに、貴方が気に入るものがあるの？」
-　Qu'est-ce qui peut bien te plaire dans cette forêt ?」
+  Qu'est-ce qui peut bien te plaire dans cette forêt ?」
 
 }
 [sha:91ea25bd309f852b11c9471db21b6373cf3272c7]{
@@ -1009,7 +1009,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:467715afa7d73d4b16c6c786f81101c6f46bdd52]{
 -- Page -1, Offset 9129.
 -- ほら。好きだった子にそっくりな子が困ってたら、なんとかしてあげようと思わないか？」
-　Si une fille qui ressemble comme deux gouttes d'eau à celle que tu aimais avait un problème, tu voudrais lui venir en aide, non ? C'est la même chose.」
+  Si une fille qui ressemble comme deux gouttes d'eau à celle que tu aimais avait un problème, tu voudrais lui venir en aide, non ? C'est la même chose.」
 
 }
 [sha:02a804baf8f0a94c7a66668c844498487f4fbe94]{
@@ -1021,13 +1021,13 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:a2c333a14148c31121970c7fd05d0e0721807f33]{
 -- Page -1, Offset 9131.
 -- などと締めくくる草十郎。
-　conclut Sōjūrō.
+  conclut Sōjūrō.
 
 }
 [sha:4161e40cc56237f5fc6ff85e308df03ef0d0e519]{
 -- Page -1, Offset 9132.
 -- その余計な一言は、有珠の心をかき乱すには十分だった。
-　Ces mots en trop suffirent à ébranler le cœur d'Alice.
+  Ces mots en trop suffirent à ébranler le cœur d'Alice.
 
 }
 [sha:e7d24e64a4cbd2c015c73672a4239d283f0bb9a7]{
@@ -1039,13 +1039,13 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:95ee16a97565bf4afafb56b02c6d76c86f83c6f2]{
 -- Page -1, Offset 9134.
 -- 本当はわたしへの当てつけなんでしょう？
-　En réalité, tu me fais juste des reproches voilés, n'est-ce pas ?
+  En réalité, tu me fais juste des reproches voilés, n'est-ce pas ?
 
 }
 [sha:996d83d88bccef5f2cc8a378c9c81be75bc626fa]{
 -- Page -1, Offset 9135.
 -- だいたい、こんな森が好きなんておかしいわ。オークの木も根付かない、どこにでもある普通の森なのに」
-　Et puis, en premier lieu, le fait de l'aimer est ridicule. Ce n'est qu'une forêt tout ce qu'il y a de plus ordinaire, où même les chênes ne prennent pas racine.」
+  Et puis, en premier lieu, le fait de l'aimer est ridicule. Ce n'est qu'une forêt tout ce qu'il y a de plus ordinaire, où même les chênes ne prennent pas racine.」
 
 }
 [sha:2b5ab0b0aa05f32490de154f93f2f3dd296c75e8]{
@@ -1057,7 +1057,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:711d22600e68e68c85fc057ded312a47e1eea478]{
 -- Page -1, Offset 9137.
 -- 森は普通にあるだけでいいんだ。なにもおかしくない。きれいなものをきれいと思うのは、いい事だと思うんだが」
-　Qu'il y ait une forêt est suffisant. Il n'y a rien de ridicule. Je pense que c'est une qualité de reconnaître la beauté des choses.」
+  Qu'il y ait une forêt est suffisant. Il n'y a rien de ridicule. Je pense que c'est une qualité de reconnaître la beauté des choses.」
 
 }
 [sha:1cb78de8b4125a2eb7ec3a7d4de55538ff57b753]{
@@ -1069,19 +1069,19 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:78790b1ae745755c5338ffe83b5f75240ae81e11]{
 -- Page -1, Offset 9139.
 -- 貴方とこの森には何の因果関係もないわ。
-　Ces arbres et toi n'êtes liés en rien.
+  Ces arbres et toi n'êtes liés en rien.
 
 }
 [sha:7e7ddd757289a893e5bb56a048c3c8dbb5443a32]{
 -- Page -1, Offset 9140.
 -- 文脈として、貴方がこの森を好きになる理由がない。
-　Dans le contexte, rien ne te pousse à aimer cet endroit.
+  Dans le contexte, rien ne te pousse à aimer cet endroit.
 
 }
 [sha:d30cffa7bdf3704e641b014bb6560d62d390eb83]{
 -- Page -1, Offset 9141.
 -- 理由がないなら、それはわたしへの―――」
-　Si tu n'as aucune raison, alors c'est un reproch...」
+  Si tu n'as aucune raison, alors c'est un reproch...」
 
 }
 [sha:54e577008f812f46c44f1f78b627dd2b2249fb13]{
@@ -1099,31 +1099,31 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:a7b71869691e2349206c15e0c9ffa9803cf2ee70]{
 -- Page -1, Offset 9144.
 -- 不思議なものを見るように少年は言った。
-　Le jeune homme s'était exprimé, l'air étonné.
+  Le jeune homme s'était exprimé, l'air étonné.
 
 }
 [sha:326bc5772bf7880683aba709fc8cdc0278e072a1]{
 -- Page -1, Offset 9145.
 -- それは、愛情に理由はいらない、という意味ではなく。
-　Ces mots n'insinuaient pas que l'amour n'avait besoin d'aucune raison.
+  Ces mots n'insinuaient pas que l'amour n'avait besoin d'aucune raison.
 
 }
 [sha:d27ced210f19dafd3d5c59a92de9e7f2597b41da]{
 -- Page -1, Offset 9146.
 -- 理由のない<感|も><情|の>はすべて嘘なのかと、問い返すような言葉だった。
-　Ils semblaient plutôt lui demander si des mensonges se cachaient forcément derrière des sentiments irraisonnés.
+  Ils semblaient plutôt lui demander si des mensonges se cachaient forcément derrière des sentiments irraisonnés.
 
 }
 [sha:6848a45aadb410ed3c7733d9e6a246e5dd84e376]{
 -- Page -1, Offset 9147.
 -- ……カッと沸き立っていた胸が冷めていく。
-　...... Son cœur en émoi s'apaisa petit à petit.
+  ...... Son cœur en émoi s'apaisa petit à petit.
 
 }
 [sha:7187762b72dd2301f710f04a10f6e94c945db17d]{
 -- Page -1, Offset 9148.
 -- 少女は声を荒らげた自分を恥じて、一歩、少年から身を引いた。
-　Honteuse de s'être emportée, la jeune fille recula d'un pas.
+  Honteuse de s'être emportée, la jeune fille recula d'un pas.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1141,31 +1141,31 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:ea13fff865bd3368353a37b1e296751f15795207]{
 -- Page -1, Offset 9151.
 -- 気まずい沈黙。
-　Un silence embarrassant s'installa entre eux.
+  Un silence embarrassant s'installa entre eux.
 
 }
 [sha:cbd7bdf6d985c5e94bcb4405cf660ebb0ea7b446]{
 -- Page -1, Offset 9152.
 -- 有珠は何か、自分なりの<矜持|きょうじ>を示そうと言葉を探していた。
-　Alice cherchait ses mots pour tenter de sauver la face.
+  Alice cherchait ses mots pour tenter de sauver la face.
 
 }
 [sha:9a2465f68aed2d990a628a535a102d50c6b886d5]{
 -- Page -1, Offset 9153.
 -- やりこめられたままでは立場が逆だ。
-　Réduite au silence, les positions se retrouvaient inversées.
+  Réduite au silence, les positions se retrouvaient inversées.
 
 }
 [sha:0bcd7d772fc774483a0cdc77be1f22cc0409a010]{
 -- Page -1, Offset 9154.
 -- 何しろここは自分の森、彼女の世界。
-　Il fallait dire qu'elle se trouvait dans sa propre forêt, dans son propre monde.
+  Il fallait dire qu'elle se trouvait dans sa propre forêt, dans son propre monde.
 
 }
 [sha:f8c37e3c5ecb899e8699e6cdf2079c522ee12747]{
 -- Page -1, Offset 9155.
 -- こんな、ただの人間に言い負かされたままでは魔女の<沽券|こけん>に関わると唇を噛んでいる。
-　Elle se mordait les lèvres en pensant que laisser un simple humain avoir le dernier mot mettait son honneur de sorcière en jeu.
+  Elle se mordait les lèvres en pensant que laisser un simple humain avoir le dernier mot mettait son honneur de sorcière en jeu.
 
 }
 [sha:e22a3ffa6c062a57fedb1d519b889ff0a190b23e]{
@@ -1177,7 +1177,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:764764d3bc53e536ab3c1fb65b796938317933e0]{
 -- Page -1, Offset 9157.
 -- 一方。そんな彼女の戦意もどこ吹く風で、草十郎は虎挟みに手を伸ばす。
-　Sōjūrō, inconscient de l'état d'esprit d'Alice, tendait la main vers le piège à loups.
+  Sōjūrō, inconscient de l'état d'esprit d'Alice, tendait la main vers le piège à loups.
 
 }
 [sha:cd9ac0d1410e084542b7c90d7295d7ff0b696bee]{
@@ -1195,13 +1195,13 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:4f41bcac6c43f9e93e8e87cbe65206cb42507322]{
 -- Page -1, Offset 9160.
 -- よいしょ、と重い鉄の塊を持ち上げる草十郎。
-　“Ho hisse”, fit Sōjūrō en soulevant la pesante masse de fer.
+  “Ho hisse”, fit Sōjūrō en soulevant la pesante masse de fer.
 
 }
 [sha:8885f802e3a69a3fc9ff1f9cd753158a4bc4caa1]{
 -- Page -1, Offset 9161.
 -- 少年はそのまま木の陰まで歩いていくと、おかしなモノに虎挟みを放りこんだ。
-　Le jeune homme marcha jusqu'à l'ombre des arbres et lâcha le piège à loups sur un objet étrange.
+  Le jeune homme marcha jusqu'à l'ombre des arbres et lâcha le piège à loups sur un objet étrange.
 
 }
 [sha:470b6d5d02797c9cf0bd36ef1a8309b5fe3a2bf9]{
@@ -1219,19 +1219,19 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:8a925335bd5e3a32c393ea9fafa212984b0b54ae]{
 -- Page -1, Offset 9164.
 -- もしかしたらと思って買ってきて正解だった。ここのところ、どうしてか悪い予感だけはあたるんだ」
-　J'ai bien fait de l'acheter au cas où. Ces derniers temps, mes mauvais pressentiments se réalisent souvent, je ne sais pas trop pourquoi.」
+  J'ai bien fait de l'acheter au cas où. Ces derniers temps, mes mauvais pressentiments se réalisent souvent, je ne sais pas trop pourquoi.」
 
 }
 [sha:2154f3c384bfa2d4b5eac404e0020ca5c55d847b]{
 -- Page -1, Offset 9165.
 -- 嬉しそうにリヤカーを移動させる、謎のボランティアマスター。
-　Le maître du bénévolat déplaça joyeusement la brouette.
+  Le maître du bénévolat déplaça joyeusement la brouette.
 
 }
 [sha:ea9e6fa6e8b0c0e4c3097a9ad6e6a151abe690d9]{
 -- Page -1, Offset 9166.
 -- その笑顔を見て、この少年につっかかるのがどれだけ時間の無駄なのか、有珠はようやく悟った。
-　En voyant son sourire, Alice comprit enfin à quel point tenter de se disputer avec lui se révélerait être une perte de temps.
+  En voyant son sourire, Alice comprit enfin à quel point tenter de se disputer avec lui se révélerait être une perte de temps.
 
 }
 [sha:14a4213283c5ade8a205e3fc88398cedffdd0dbb]{
@@ -1243,19 +1243,19 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:1299c238c82a7ed0ade2f5045f78b638f1c68ee2]{
 -- Page -1, Offset 9168.
 -- 少年に背を向けて、洋館に足を向ける。
-　Elle tourna le dos au jeune homme et se dirigea vers le manoir.
+  Elle tourna le dos au jeune homme et se dirigea vers le manoir.
 
 }
 [sha:53eb87efd41cdd3ab8e778a81d941a621130d7dd]{
 -- Page -1, Offset 9169.
 -- ……まったく、青子の言うとおりだ。
-　...... Aoko avait totalement raison.
+  ...... Aoko avait totalement raison.
 
 }
 [sha:a60264d98d36dcbeff5195936c7fbc857307e90d]{
 -- Page -1, Offset 9170.
 -- 余計な時間を使ったと反省しながら、有珠は徹底的に、あの少年は無視しようと<自|みずか>らに言い聞かせた。
-　Tout en regrettant le temps qu'elle avait perdu, Alice se répéta de l'ignorer royalement.
+  Tout en regrettant le temps qu'elle avait perdu, Alice se répéta de l'ignorer royalement.
 
 }
 [sha:fb0b9ffbd9a752b24c5030ab4af7b708020b28b5]{
@@ -1273,7 +1273,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:44754cc32140e1ce47f288a07ac0a5a3ff71646b]{
 -- Page -1, Offset 11544.
 -- “うはっ、おまえ胸でかくねー？
-“Ouaah, ta poitrine n'est pas un peu grosse ?
+ “Ouaah, ta poitrine n'est pas un peu grosse ?
 
 }
 [sha:a507331650c15d2bf3e6bca0e89d0a8aa8d13cd6]{
@@ -1285,43 +1285,43 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:e0c0cfbd86a574066fe5d55722cf27b66269995d]{
 -- Page -1, Offset 14957.
 -- Falling down,Falling down,
-　　　　　　Falling down, Falling down,
+            Falling down, Falling down,
 
 }
 [sha:3052548f52cb453e883774e28829d4a30a2e0105]{
 -- Page -1, Offset 14958.
 -- Build it up with bricks and mortar,
-　　　　　　Build it up with bricks and mortar,
+            Build it up with bricks and mortar,
 
 }
 [sha:3b71f47e23e6421f8ce68f41c5deac3276562b88]{
 -- Page -1, Offset 14959.
 -- My fair lady.』
-　　　　　　My fair lady.』
+            My fair lady.』
 
 }
 [sha:dbb4d54618d2ba72fb6c21f42e28b718f61a47ca]{
 -- Page -1, Offset 18379.
 -- ならば、それは神速か。
-　L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
+  L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
 
 }
 [sha:24485a3c0aeb68d2c20fb6ab315beca0dd036fea]{
 -- Page -1, Offset 18380.
 -- 弾け跳んだ人狼が黒影なら、<迎|むか>え撃たんと踏みこむ彼も無音の黒影。
-　Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre noire silencieuse.
+  Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre noire silencieuse.
 
 }
 [sha:8a074e9a746f4a923772b9f12624e4f9aa079788]{
 -- Page -1, Offset 18381.
 -- 向かうべき位置はきっかり三歩分。
-　La position qu'il devait occuper se trouvait exactement à trois pas.
+  La position qu'il devait occuper se trouvait exactement à trois pas.
 
 }
 [sha:53fd724935ab6ef25a533d88b25db6a1600bf11f]{
 -- Page -1, Offset 18382.
 -- その、わずか一メートルの前進に、彼は<人生|おのれ>の全てを<賭|と>した。
-　Il misa tout son être dans cette avancée d'à peine un mètre.
+  Il misa tout son être dans cette avancée d'à peine un mètre.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1333,13 +1333,13 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:e28e5912022e8fd1eed74b22c06dc91010f8890d]{
 -- Page -1, Offset 18384.
 -- この世のものとは思えない結末に、当事者以外の誰もが目を疑う。
-　この世のものとは思えない結末に、当事者以外の誰もが目を疑う。
+  この世のものとは思えない結末に、当事者以外の誰もが目を疑う。
 
 }
 [sha:f1efe5ae4f80d02c4596e0bb72543b381919e154]{
 -- Page -1, Offset 18385.
 -- それを一身に受けながら、人狼を見下ろしているのは言うまでもなく、静希草十郎という名前の、ごく当たり前の少年だった。
-　それを一身に受けながら、人狼を見下ろしているのは言うまでもなく、静希草十郎という名前の、ごく当たり前の少年だった。
+  それを一身に受けながら、人狼を見下ろしているのは言うまでもなく、静希草十郎という名前の、ごく当たり前の少年だった。
 
 }
 [sha:1c496e82eccb6bafbceca68af8a61a044bf9f1a3]{
@@ -1357,7 +1357,7 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:cd6ebefc61689997e77cf7ee63d4bfc0c5837e08]{
 -- Page -1, Offset 20891.
 -- ドアの境界に影で作った使い魔を仕込ませた、みたいな？　しばらくは貴女の影に棲みついているから、私に不利な証言したらたいへんだぞ
-　J'ai comme qui dirait incrusté un familier fait d'ombres au chambranle de ta porte. Il séjournera un certain temps dans ton ombre, alors tu ferais mieux d'éviter tout témoignage malencontreux à mon égard
+  J'ai comme qui dirait incrusté un familier fait d'ombres au chambranle de ta porte. Il séjournera un certain temps dans ton ombre, alors tu ferais mieux d'éviter tout témoignage malencontreux à mon égard
 
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{

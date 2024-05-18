@@ -7,97 +7,97 @@
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{
 -- Page 0, Offset 23952.
 -- そう。
-　Oui.
+  Oui.
 
 }
 [sha:29c4c33292a6fd263979e765d212e2b05d755d1f]{
 -- Page 0, Offset 23953.
 -- この、自分の思った通りに事が運ぶ状況こそが、わたしがスイーツハーツである、何よりの証拠だった。
-　Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.
+  Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.
 
 }
 [sha:7b7ea3efe51172570170281bef3356b7bb188b0d]{
 -- Page 1, Offset 23954.
 -- スイーツハーツであるわたしは、都合の悪い事は思い出せない。
-　Étant Sweets Hearts, je ne pouvais pas me rappeler des choses qui me paraissaient dérangeantes.
+  Étant Sweets Hearts, je ne pouvais pas me rappeler des choses qui me paraissaient dérangeantes.
 
 }
 [sha:ac476af2675957ff04e7163244b2f0cb8fdc041a]{
 -- Page 1, Offset 23955.
 -- なので客観的に考えよう。
-　Dans ce cas, je devais voir les choses de façon objective.
+  Dans ce cas, je devais voir les choses de façon objective.
 
 }
 [sha:3f8105dd402a36304840c60296785a391a3f32ef]{
 -- Page 1, Offset 23956.
 -- パーティーの日、プロイキッシャーを起動させたのは誰なのか。
-　Le jour de la fête, qui avait activé le Ploy Kickshaw ?
+  Le jour de la fête, qui avait activé le Ploy Kickshaw ?
 
 }
 [sha:404deb4cfc4d9376f79328d7f9a972d62c1dceaa]{
 -- Page 2, Offset 23957.
 -- 答えは『誰もいない』だ。
-　La réponse est “personne”.
+  La réponse est “personne”.
 
 }
 [sha:2641ac61c9a45c7a0ac4da3b1e10590cea594fe9]{
 -- Page 2, Offset 23958.
 -- プロイが保管されていた部屋は、久遠寺さん本人が施錠している。
-　Kuonji avait elle-même fermé la pièce dans laquelle les Ploy étaient conservés.
+  Kuonji avait elle-même fermé la pièce dans laquelle les Ploy étaient conservés.
 
 }
 [sha:9c05536c18bb05449680c13cdb7ccb48ccc9a800]{
 -- Page 2, Offset 23959.
 -- ドアが壁になっている部屋に侵入できる者はいない。
-　Personne ne pouvait s'introduire dans une pièce dont la porte s'était transformée en mur.
+  Personne ne pouvait s'introduire dans une pièce dont la porte s'était transformée en mur.
 
 }
 [sha:42334bea76caa23b6a4f3cfb4fb1018d4f87de05]{
 -- Page 2, Offset 23960.
 -- トリックの可能性が提示されていないのなら、そこに“なんとかして壁を開けた”なんて可能性は除外される。
-　Puisqu'aucune astuce pour y entrer n'avait été mentionnée, on pouvait rejeter la possibilité que quelqu'un ait ouvert le mur d'une manière ou d'une autre.
+  Puisqu'aucune astuce pour y entrer n'avait été mentionnée, on pouvait rejeter la possibilité que quelqu'un ait ouvert le mur d'une manière ou d'une autre.
 
 }
 [sha:b94e54fa128513fd87bbbfb2f0a734ccdf8e3642]{
 -- Page 2, Offset 23961.
 -- それが推理の鉄則だ。
-　C'était une règle inflexible de tout polar.
+  C'était une règle inflexible de tout polar.
 
 }
 [sha:754b280bd64c0e85055a08c0ef87d0751f1c2e70]{
 -- Page 3, Offset 23962.
 -- 故に、プロイを奪えるとしたら、それは<今|・><日|・><以|・><前|・>。
-　Par conséquent, le Ploy n'avait pu être volé qu'un jour précédant la fête.
+  Par conséquent, le Ploy n'avait pu être volé qu'un jour précédant la fête.
 
 }
 [sha:ecb3a4e37011456670a9ec55fc53935eeaf8a71b]{
 -- Page 3, Offset 23963.
 -- 単純に考えて、久遠寺さんが施錠する前日に入るしかないのである。
-　Selon toute vraisemblance, ça devait avoir eu lieu la veille du jour où Kuonji avait verrouillé la pièce.
+  Selon toute vraisemblance, ça devait avoir eu lieu la veille du jour où Kuonji avait verrouillé la pièce.
 
 }
 [sha:e1038e9109ae2a8b258f5a67bb231261beb968ba]{
 -- Page 3, Offset 23964.
 -- パーティーの当日である三連休の二日目ではなく、
-　Cela ne s'était pas produit le deuxième des trois jours consécutifs de congé, puisque c'était le jour même de la fête.
+  Cela ne s'était pas produit le deuxième des trois jours consécutifs de congé, puisque c'était le jour même de la fête.
 
 }
 [sha:e35344d9d4d5ac5601e4905a63c4c69061582e06]{
 -- Page 3, Offset 23965.
 -- 間違えて一日目にやってきてしまった人物にのみ、そのチャンスがあったのだ。
-　Seule une personne qui était venue par erreur le premier jour aurait eu la chance de procéder au vol.
+  Seule une personne qui était venue par erreur le premier jour aurait eu la chance de procéder au vol.
 
 }
 [sha:8832c8e3f5d7e9aa40da587333d1b7647d2696ad]{
 -- Page 4, Offset 23966.
 -- では、どうしてその人物は間違えてやってきてしまったのか？
-　Mais pourquoi cette personne s'était-elle trompée de jour ?
+  Mais pourquoi cette personne s'était-elle trompée de jour ?
 
 }
 [sha:68b92d31633cb7d4c22662d7bb9ea37fb1d99efe]{
 -- Page 4, Offset 23967.
 -- これも明白だ。招待状の内容が、そもそも間違えていた。
-　Cela n'avait rien de difficile à expliquer : le contenu de la lettre d'invitation était erroné depuis le début.
+  Cela n'avait rien de difficile à expliquer : le contenu de la lettre d'invitation était erroné depuis le début.
 
 }
 [sha:f0642b521e4a30d4734d2f139c55d0687e034632]{
@@ -109,103 +109,103 @@
 [sha:2f562f4b3f126a60412ff747d75c2d8d3610bf04]{
 -- Page 4, Offset 23969.
 -- そんな間抜けなミスをした男と、
-　L'homme qui avait fait cette erreur idiote,
+  L'homme qui avait fait cette erreur idiote,
 
 }
 [sha:fa1399dfd79ede88b1a25a167be4f0a5da99fb14]{
 -- Page 4, Offset 23970.
 -- その男に招待状を送られたのは三人。
-　avait envoyé une lettre à trois personnes.
+  avait envoyé une lettre à trois personnes.
 
 }
 [sha:88b70e4111838fa0877d7b9a8a5f7b74be51d371]{
 -- Page 5, Offset 23971.
 -- うちひとり、蒼崎橙子はあらかたの事情を看破していたかもしれない。けど、彼女が想像もしていなかったネタで笑わされ、リタイヤした。
-　L'une d'entre nous, Aozaki Tōko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
+  L'une d'entre nous, Aozaki Tōko, avait peut-être à peu près deviné la situation. Mais on l'avait fait rire avec une blague qui avait dépassé son imagination, et elle avait ainsi été éliminée.
 
 }
 [sha:8578cc88472ceca398822783ccd78e0875247c60]{
 -- Page 6, Offset 23972.
 -- もうひとりは山城先生。
-　La seconde personne était M. Yamashiro.
+  La seconde personne était M. Yamashiro.
 
 }
 [sha:e9e14d1d627a641e21d3eeb57e371250ed161532]{
 -- Page 6, Offset 23973.
 -- 山城先生はこう言っていた。
-　Ce dernier avait dit ceci :
+  Ce dernier avait dit ceci :
 
 }
 [sha:00e24d431a726365b869567a3b3004a8c671ea87]{
 -- Page 6, Offset 23974.
 -- 『今朝、招待状が届いた』と。
-“J'ai reçu une invitation ce matin.”
+  “J'ai reçu une invitation ce matin.”
 
 }
 [sha:19f59120538bddc98be9d51179e66612a2cfa62d]{
 -- Page 6, Offset 23975.
 -- みんなの招待状はもっと前に届いていた。
-　Les autres avaient pourtant reçu leur lettre bien plus tôt.
+  Les autres avaient pourtant reçu leur lettre bien plus tôt.
 
 }
 [sha:0b5e79a019361fae187a1ce8126a4a7c739280ee]{
 -- Page 6, Offset 23976.
 -- なので、山城先生の招待状は郵便ではなく、昨日直接ポストに入れられた可能性が高い。
-　Il y avait donc de fortes chances pour que la lettre à destination du professeur ait été placée directement la veille dans sa boîte aux lettres plutôt qu'en passant par le service postal.
+  Il y avait donc de fortes chances pour que la lettre à destination du professeur ait été placée directement la veille dans sa boîte aux lettres plutôt qu'en passant par le service postal.
 
 }
 [sha:f19d7bb9434372f938ab7e13efa1eb3c2956ee77]{
 -- Page 7, Offset 23977.
 -- ―――仮に、その時点で静希が“人物Ａ”の協力者になっていたのなら、招待状の内容は彼らにとって都合のいいものに改竄されていただろう。
-　―――Si Shizuki était alors déjà devenu le complice de “l'individu A”, le contenu de cette lettre avait dû être falsifié dans leur intérêt.
+  ―――Si Shizuki était alors déjà devenu le complice de “l'individu A”, le contenu de cette lettre avait dû être falsifié dans leur intérêt.
 
 }
 [sha:9cc4e412b157dcb667a052383bed3908fa8a0ee7]{
 -- Page 7, Offset 23978.
 -- 一日目で共犯者になった静希は、二日目の朝、その日に山城先生を呼ぶ招待状を送った。彼が“間違えて人物Ａを一日目に呼んでしまった”事実を誤魔化す為に。
-　Shizuki, qui était devenu le complice le premier jour, avait envoyé le matin du deuxième jour une lettre d'invitation à M. Yamashiro. Tout cela pour cacher le fait qu'il avait fait venir par erreur l'individu A le premier jour.
+  Shizuki, qui était devenu le complice le premier jour, avait envoyé le matin du deuxième jour une lettre d'invitation à M. Yamashiro. Tout cela pour cacher le fait qu'il avait fait venir par erreur l'individu A le premier jour.
 
 }
 [sha:656333dff528d56da44d1bc3dfd46b8b74bd0cdf]{
 -- Page 7, Offset 23979.
 -- 山城先生は殺される為に呼び出されたのではなく、人物Ａのアリバイを偽証するために呼ばれたのだ。
-　M. Yamashiro n'avait pas été invité pour être tué, mais pour fournir un alibi à l'individu A.
+  M. Yamashiro n'avait pas été invité pour être tué, mais pour fournir un alibi à l'individu A.
 
 }
 [sha:495b0ff4117f895ef9bc044846aed425ea98b29e]{
 -- Page 8, Offset 23980.
 -- そして最後のひとり、わたしは―――
-　Et enfin, la dernière personne, moi―――
+  Et enfin, la dernière personne, moi―――
 
 }
 [sha:9e478bf5671969dd9d017ed6dd1dbbb43c0180a4]{
 -- Page 8, Offset 23981.
 -- このパーティーを、連休の一日目だと思いこんでいた。
-　J'étais convaincue que cette fête devait avoir lieu le premier jour des congés.
+  J'étais convaincue que cette fête devait avoir lieu le premier jour des congés.
 
 }
 [sha:e70387c4cafd630eeaaf459725609a40f2398eb2]{
 -- Page 8, Offset 23982.
 -- 以上の事から、プロイを起動させる可能性があるのは、登場人物の中ではこのわたし、久万梨金鹿と静希草十郎のみ。
-　D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Sōjūrō.
+  D'après mes explications ci-dessus, ceux qui avaient la possibilité d'activer le Ploy parmi ces personnages étaient seulement moi, Kumari Kojika, et Shizuki Sōjūrō.
 
 }
 [sha:d7a313c93aa6aa4e9d3fe833f0f19e9f0c43ae55]{
 -- Page 9, Offset 23983.
 -- 日付を間違えてやってきた久万梨金鹿を、静希草十郎がどのように持てなしたかは想像するしかない。
-　Je ne pouvais qu'imaginer comment Shizuki Sōjūrō avait accueilli Kumari Kojika, arrivée un jour trop tôt.
+  Je ne pouvais qu'imaginer comment Shizuki Sōjūrō avait accueilli Kumari Kojika, arrivée un jour trop tôt.
 
 }
 [sha:1d93aab5e667989f12467b621dda1953fb1a097f]{
 -- Page 9, Offset 23984.
 -- けど、自分の責任で無駄足を踏ませた同級生に、お菓子と紅茶を振る舞うのは、そう突飛な話ではないと思う。
-　Il n'était certainement pas saugrenu de penser qu'il avait offert des pâtisseries et du thé à une camarade de classe s'étant déplacée inutilement par sa faute.
+  Il n'était certainement pas saugrenu de penser qu'il avait offert des pâtisseries et du thé à une camarade de classe s'étant déplacée inutilement par sa faute.
 
 }
 [sha:7491139ee73ce302fb59a818c8cf376024c220e5]{
 -- Page 9, Offset 23985.
 -- 問題は、そのお菓子を静希草十郎がどこから持ち出したのか、という事だ。
-　Le problème était de savoir où Shizuki Sōjūrō avait trouvé ces pâtisseries.
+  Le problème était de savoir où Shizuki Sōjūrō avait trouvé ces pâtisseries.
 
 }
 [sha:ca91bdc707dafa9c122fe076d4a857a97973f219]{
@@ -217,19 +217,19 @@
 [sha:7b0d0c3484477bf0497b288a252f9cb8e17d677d]{
 -- Page 10, Offset 23987.
 -- もう少しであたしの勝ちだったのに。あの子も予想以上にうまくやっていたんだけどなー」
-　Encore un peu et je gagnais. Pourtant, ce petit se débrouillait mieux que je l'avais prévu.」
+  Encore un peu et je gagnais. Pourtant, ce petit se débrouillait mieux que je l'avais prévu.」
 
 }
 [sha:5baf7cb1b17d6ef990f475f21fc1781f2e7d6be5]{
 -- Page 10, Offset 23988.
 -- そして。
-　Puis,
+  Puis,
 
 }
 [sha:5a6f729b7f02ca346f066b703db9966367e72888]{
 -- Page 10, Offset 23989.
 -- 洋館からは、わたしを追いかけてきた、さっきまで静希だったわたしが現れた。
-　l'être à l'apparence de Shizuki qui m'avait poursuivie depuis le manoir apparut devant moi avec mon apparence.
+  l'être à l'apparence de Shizuki qui m'avait poursuivie depuis le manoir apparut devant moi avec mon apparence.
 
 }
 [sha:a82d3aa1a73292539a4cb0551a7f08302ce96e0c]{
@@ -241,13 +241,13 @@
 [sha:1af047b2925f5498a2962475ee8a311b912e8390]{
 -- Page 11, Offset 23991.
 -- 膝をついた姿勢から立ち上がって、もうひとりのわたしと対峙する。
-　Je me relevai et fis face à l'autre moi.
+  Je me relevai et fis face à l'autre moi.
 
 }
 [sha:2347217e044e5d6763969b082bf28d10f01de9c9]{
 -- Page 11, Offset 23992.
 -- そいつはええ、とあっさり負けを認めた。
-　“Oui”, répondit-elle en acceptant facilement la défaite.
+  “Oui”, répondit-elle en acceptant facilement la défaite.
 
 }
 [sha:2e16a9f9252de885d7ae73a9674ff04b5e1d6e1e]{
@@ -259,13 +259,13 @@
 [sha:c1dfddf71d45794b190ce4d1fe9bf4748771922e]{
 -- Page 12, Offset 23994.
 -- あたしはカレに化けていた方で、貴女はカノジョに化けていた方。
-　Moi, j'avais pris sa forme à lui, et toi, tu as pris sa forme à elle.
+  Moi, j'avais pris sa forme à lui, et toi, tu as pris sa forme à elle.
 
 }
 [sha:31b2307f18557b063cfe481ba8cb4a8782eb0def]{
 -- Page 12, Offset 23995.
 -- でも貴女は久万梨金鹿と完全に同じだから、スイーツハーツとしての記憶を持ってるのはあたしだけだけど」
-　Mais comme tu es une sosie parfaite de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
+  Mais comme tu es une sosie parfaite de Kumari Kojika, je suis la seule qui possède les souvenirs de Sweets Hearts.」
 
 }
 [sha:3c00d6c1daf03364839f2db660a3793c4dbbd037]{
@@ -283,7 +283,7 @@
 [sha:2d763b97b6ca2cc1c541005c047889f786de6a40]{
 -- Page 13, Offset 23998.
 -- このままなら貴女の勝ちなのに。勝者の報酬は惜しくないの？」
-　C'est toi qui l'emporteras si on continue. La récompense du vainqueur ne t'intéresse pas ?」
+  C'est toi qui l'emporteras si on continue. La récompense du vainqueur ne t'intéresse pas ?」
 
 }
 [sha:df717010e2451d8e61a25852f7cdf03f735741f1]{
@@ -301,7 +301,7 @@
 [sha:d53d69385f9ae331ed1282dca4e997526ade7b9a]{
 -- Page 14, Offset 24001.
 -- 終わりたくない。もっと今が、この半熟卵みたいな、曖昧な生活が続けばいいと思ったでしょう？」
-　Je ne veux pas que ça se finisse. Je voudrais que cet instant, cette vie ambiguë comme ce doux œuf à la coque continue. C'est bien ce qu'elle a pensé, non ?」
+  Je ne veux pas que ça se finisse. Je voudrais que cet instant, cette vie ambiguë comme ce doux œuf à la coque continue. C'est bien ce qu'elle a pensé, non ?」
 
 }
 [sha:6bfb5c98b10a55fa1858bf448b44a6ddc3cbaa10]{
@@ -313,25 +313,25 @@
 [sha:24877ded833c8e06835460719b96b9f43e576834]{
 -- Page 15, Offset 24003.
 -- どうして自分はあんな無駄な時間を過ごしたのか。
-　Pourquoi ai-je gaspillé mon temps ?
+  Pourquoi ai-je gaspillé mon temps ?
 
 }
 [sha:bf9a0620baa70360fc268e9e78e5edbab81e70fc]{
 -- Page 15, Offset 24004.
 -- なんで素直になれなかったのか。
-　Pourquoi n'ai-je pas pu être honnête ?
+  Pourquoi n'ai-je pas pu être honnête ?
 
 }
 [sha:182d2d2d9c886ef1590fdb1edf3f7aec77427e99]{
 -- Page 15, Offset 24005. Mods: @n.
 -- そういうの、
-　Celui qui peut réaliser tous tes vœux,
+  Celui qui peut réaliser tous tes vœux,
 
 }
 [sha:ceb9d438cff6a7b18ff12013f2596da3ea49c52d]{
 -- Page 15, Offset 24006. Glued.
 -- ぜーんぶひっくるめて叶えてあげるのがあたし、願掛け卵、思春期限定・女の子限定のプロイキッシャー・スイーツハーツなの。どう、納得いった？」
-c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en pleine puberté, Sweets Hearts. Alors ? Convaincue ?」
+ c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en pleine puberté, Sweets Hearts. Alors ? Convaincue ?」
 
 }
 [sha:60bf76263559638211dac074a04e5d81b98be31f]{
@@ -343,13 +343,13 @@ c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en 
 [sha:0f84eaf9f43fa0c3f4365ec199c5a313ff22d91b]{
 -- Page 16, Offset 24008.
 -- もうお喋りはたくさん。ノータイムでリセットよ。
-　On a assez parlé. On reset sans temps mort.
+  On a assez parlé. On reset sans temps mort.
 
 }
 [sha:4606c2028d15c2b7d190d86f4519008b0bdae043]{
 -- Page 16, Offset 24009.
 -- アンタは、ここで」
-　C'en est fini de toi.」
+  C'en est fini de toi.」
 
 }
 [sha:408242678d6fb0f3a63347abc25dbd2114417b73]{
@@ -361,7 +361,7 @@ c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en 
 [sha:0ca6416470f0fd886322d854bf50c371be5e00a0]{
 -- Page 17, Offset 24011.
 -- っていうか、そもそも、
-　Et puis, d'abord,
+  Et puis, d'abord,
 
 }
 [sha:729cdd8b4d24f9fb96726f941ca50e167250c6d3]{
@@ -379,6 +379,6 @@ c'est moi, l'œuf des prières shinto, le Ploy Kickshaw réservé aux filles en 
 [sha:64c45cd247d864fee7473173d9c43b67484973b8]{
 -- Page 17, Offset 24014.
 -- 槻司が死んでるのに、願掛けも何もないっての。
-　Tsukiji est mort, alors tu peux oublier tes histoires de vœux.
+  Tsukiji est mort, alors tu peux oublier tes histoires de vœux.
 
 }

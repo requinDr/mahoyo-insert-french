@@ -1,127 +1,127 @@
 [sha:016016231e6034807a105e4dce47b6cc95c3a002]{
 -- Page 0, Offset 14714.
 -- その公園は、人々の記憶から忘却されたかのように、白い闇に沈んでいた。
-　Ce parc était plongé dans des ténèbres blanches, comme s'il avait été effacé de la mémoire des gens.
+  Ce parc était plongé dans des ténèbres blanches, comme s'il avait été effacé de la mémoire des gens.
 
 }
 [sha:d5d35166f7e30f440830dca9b0f1add12d45deb4]{
 -- Page 0, Offset 14715.
 -- 人の気配は完全に絶えている。
-　Il était complètement désert.
+  Il était complètement désert.
 
 }
 [sha:cf46a7cc0bb35533a5717a678001bc0ed6b342e7]{
 -- Page 0, Offset 14716.
 -- 夜は普段より何倍も深く得体が知れないが、同時に、息を呑むほど清潔だ。
-　La nuit était bien plus mystérieuse que d'habitude, et par là même, on retenait son souffle face à sa pureté.
+  La nuit était bien plus mystérieuse que d'habitude, et par là même, on retenait son souffle face à sa pureté.
 
 }
 [sha:3d331e7a32fa7f4562e929704ae567bb34f63e33]{
 -- Page 0, Offset 14717.
 -- 雲間から届くかすかな月光だけで、世界のすべてを見渡せるほどに。
-　Le faible clair de lune passant à travers les nuages suffisait à percevoir le monde alentour.
+  Le faible clair de lune passant à travers les nuages suffisait à percevoir le monde alentour.
 
 }
 [sha:048e336e133fa13b6e6ae67c59c1fd234d4f5065]{
 -- Page 1, Offset 14718.
 -- そんな束の間の永遠に、少女の足音が響いていく。
-　Les pas de la jeune fille résonnaient dans cette éternité éphémère.
+  Les pas de la jeune fille résonnaient dans cette éternité éphémère.
 
 }
 [sha:6cbf5c1c61dd0e6d813387adb099bece7694d24e]{
 -- Page 1, Offset 14719.
 -- <無|む><垢|く>の<白野|ビャクヤ>に、<静寂|シジマ>を踏む靴がひとつ。
-　Une paire de chaussures foulait le silence de cette nuit immaculée.
+  Une paire de chaussures foulait le silence de cette nuit immaculée.
 
 }
 [sha:2afe21b5d0b533b46e6d6317eb9564fb889e06bc]{
 -- Page 1, Offset 14720.
 -- 夜空には蒼い闇夜と<薄墨|うすずみ>の月。
-　Il faisait nuit noire, et la lune était pâle.
+  Il faisait nuit noire, et la lune était pâle.
 
 }
 [sha:b357d4cacd86759d471db1cce0f412ab6654bf12]{
 -- Page 1, Offset 14721.
 -- 少しばかりの街灯と、場違いな電話ボックスだけが、いまは文明の名残だった。
-　Les quelques réverbères et une cabine téléphonique isolée représentaient les seules traces de la civilisation.
+  Les quelques réverbères et une cabine téléphonique isolée représentaient les seules traces de la civilisation.
 
 }
 [sha:8aaf2fdd278ba4eb03269443bd1e3f5d9de50c6a]{
 -- Page 2, Offset 14722.
 -- 現れたのは黒衣の少女。
-　Une jeune fille vêtue de noir fit son apparition.
+  Une jeune fille vêtue de noir fit son apparition.
 
 }
 [sha:97b190555a54159f9e4f9f7d57b6575d7dcbc708]{
 -- Page 2, Offset 14723.
 -- 雪原で浮き彫りになる姿は、紛れもなく久遠寺有珠だ。
-　La silhouette qui se détachait sur le champ de neige était indubitablement celle de Kuonji Alice.
+  La silhouette qui se détachait sur le champ de neige était indubitablement celle de Kuonji Alice.
 
 }
 [sha:51912fe77a7158ad5e8397968b85201a78e014c4]{
 -- Page 2, Offset 14724.
 -- <外套|がいとう>、帽子、手袋。
-　Pèlerine, bonnet, gants.
+  Pèlerine, bonnet, gants.
 
 }
 [sha:d0a5220c196dbb77b90d15dafaf7e566f34ab156]{
 -- Page 2, Offset 14725.
 -- その全てが黒く、瞳と髪すら、闇より深い<藍色|やみいろ>に染められている。
-　Entièrement habillée en noir, ses yeux et ses cheveux avaient une teinte bleu foncé plus sombre que les ténèbres.
+  Entièrement habillée en noir, ses yeux et ses cheveux avaient une teinte bleu foncé plus sombre que les ténèbres.
 
 }
 [sha:ac8c243f7f666a00aad5da8dffc986ef58d55234]{
 -- Page 3, Offset 14726.
 -- 変化は長く訪れなかった。
-　Le changement survint subitement.
+  Le changement survint subitement.
 
 }
 [sha:c4e695c80bcaf016b311cc5f48592bcd0536ec4b]{
 -- Page 3, Offset 14727.
 -- 有珠にも、その白い風景にも。
-　La silhouette immobile sur fond de champ de neige évoquait une peinture.
+  La silhouette immobile sur fond de champ de neige évoquait une peinture.
 
 }
 [sha:bf48114050768e96b15ea9bd677a32c98df7f876]{
 -- Page 3, Offset 14728.
 -- 雪原にたたずむ姿は一枚の絵画のように。
-　Pour Alice, comme pour ce paysage blanc,
+  Pour Alice, comme pour ce paysage blanc,
 
 }
 [sha:1ba7689ea1aaf58e2be186bb47a9a024601b642f]{
 -- Page 3, Offset 14729.
 -- 時間だけが過ぎ、公園の周囲から、かろうじてあった家々の明かりが消えていく。
-　seul le temps passait, tandis que les lumières des quelques maisons autour du parc s'éteignaient.
+  seul le temps passait, tandis que les lumières des quelques maisons autour du parc s'éteignaient.
 
 }
 [sha:02e97ca5e97b8fccb38f6166959c78541420f65a]{
 -- Page 4, Offset 14730.
 -- ここ<社木|やしろぎ>は三咲町より近代化の進んだ街だ。
-　Yashirogi était un quartier plus modernisé que le vieux quartier de Misaki.
+  Yashirogi était un quartier plus modernisé que le vieux quartier de Misaki.
 
 }
 [sha:ca0687f311ab5f4a8302dcda743d7302a6607318]{
 -- Page 4, Offset 14731.
 -- 公園はそんな街のただ中にありながら、街の死角になっていた。
-　Le parc se tenait en son centre, mais y formait également une zone morte.
+  Le parc se tenait en son centre, mais y formait également une zone morte.
 
 }
 [sha:26d798f2bdcf8b1dc71c708d699e5abd864a89ef]{
 -- Page 4, Offset 14732.
 -- 開発につまはじきにされた、利用価値のない土地。
-　Ce terrain, inutile, avait été exclu du développement.
+  Ce terrain, inutile, avait été exclu du développement.
 
 }
 [sha:17d618c65bba139ec8fb5fb5ca34159e92785f28]{
 -- Page 4, Offset 14733.
 -- 周囲に住宅は少なく、道を照らす街灯も、深夜になれば明かりを落とす。
-　Peu d'habitations se trouvaient aux alentours, et les réverbères qui éclairaient le chemin s'éteignaient en cette heure tardive de la nuit.
+  Peu d'habitations se trouvaient aux alentours, et les réverbères qui éclairaient le chemin s'éteignaient en cette heure tardive de la nuit.
 
 }
 [sha:aaf20772f2b41a0b9acfe6c69fc98add40c579e6]{
 -- Page 5, Offset 14734.
 -- そんな、人々だけでなく機械すら眠りについた白い夜。
-　Dans cette nuit blanche, non seulement les hommes mais aussi les machines tombaient dans les bras de Morphée.
+  Dans cette nuit blanche, non seulement les hommes mais aussi les machines tombaient dans les bras de Morphée.
 
 }
 [sha:a40ff618647227796b202c3ff71871a3cbae6ae0]{
@@ -133,73 +133,73 @@
 [sha:e765357a7945535ad9e526a911eae89729281f86]{
 -- Page 5, Offset 14736.
 -- 消えていく灯を見つめながら、有珠は静かに呟いた。
-　murmura calmement Alice en regardant les lampes s'éteindre.
+  murmura calmement Alice en regardant les lampes s'éteindre.
 
 }
 [sha:0dd9a526d9068a263fe0f8874267a2b74cb216dc]{
 -- Page 6, Offset 14737.
 -- どこか遠くで、犬の遠吠えが聞こえた気がする。
-　Elle eut l'impression d'entendre au loin les hurlements d'un chien.
+  Elle eut l'impression d'entendre au loin les hurlements d'un chien.
 
 }
 [sha:a14c2edd740e23bb7e14316f1ca44ac106f54fc5]{
 -- Page 6, Offset 14738.
 -- 月にでも吠えたのだろうか。
-　Peut-être hurlait-il à la lune ?
+  Peut-être hurlait-il à la lune ?
 
 }
 [sha:bc4d60840bdae09c897454153233a36c5f444e7e]{
 -- Page 6, Offset 14739.
 -- それは犬というより狼めいた強さで、長く長く、夜空に立ち上っていった。
-　Ils avaient plutôt la force de ceux d'un loup, et s'élevèrent longuement, longuement dans le ciel nocturne.
+  Ils avaient plutôt la force de ceux d'un loup, et s'élevèrent longuement, longuement dans le ciel nocturne.
 
 }
 [sha:5b05221fc2f5b3d5b155ceace4dc959b5a443cb4]{
 -- Page 7, Offset 14740.
 -- 電話が鳴った。
-　Le téléphone sonna.
+  Le téléphone sonna.
 
 }
 [sha:b8e0429f1a570169cd98af58c977e731fe64201e]{
 -- Page 7, Offset 14741.
 -- 草十郎が洋館に住みだして、おそらく初めてになる電話の音は、深夜のホールに寒々しく響き渡った。
-　La sonnerie de l'appareil, que Sōjūrō entendait probablement pour la première fois depuis qu'il habitait au manoir, résonna lugubrement dans le vestibule, en cette heure tardive.
+  La sonnerie de l'appareil, que Sōjūrō entendait probablement pour la première fois depuis qu'il habitait au manoir, résonna lugubrement dans le vestibule, en cette heure tardive.
 
 }
 [sha:d46c3662f8e42d62813ffae0bf406ba7571c7968]{
 -- Page 8, Offset 14742.
 -- 草十郎はためらいがちに受話器をとる。
-　Sōjūrō décrocha le combiné avec réticence.
+  Sōjūrō décrocha le combiné avec réticence.
 
 }
 [sha:102b7081254eebeab027ef0ca42b26ddd3400fee]{
 -- Page 8, Offset 14743.
 -- 受話器からの<音|こえ>はない。
-　Il n'entendit aucune voix au bout du fil.
+  Il n'entendit aucune voix au bout du fil.
 
 }
 [sha:a0f24578e336efd20a440a11641fd8d317b86767]{
 -- Page 8, Offset 14744.
 -- 仕方なく何か言おうとして、ハタ、と草十郎は考えこんだ。
-　Il allait dire quelque chose, quand, soudain, une pensée lui traversa l'esprit.
+  Il allait dire quelque chose, quand, soudain, une pensée lui traversa l'esprit.
 
 }
 [sha:4998c2b8631ddfe2110bd34dc59186430b20a6d2]{
 -- Page 8, Offset 14745.
 -- 『もしもし、久遠寺ですが』と言えばいいのか、
-Devait-il dire “Allô, c'est Kuonji”,
+  Devait-il dire “Allô, c'est Kuonji”,
 
 }
 [sha:756151f6f0b13f4d7f7b0db61d0625171c3f9b95]{
 -- Page 8, Offset 14746.
 -- それとも『はい、蒼崎ですが』と言えばいいのか。
-　ou alors “Oui, c'est Aozaki” ?
+  ou alors “Oui, c'est Aozaki” ?
 
 }
 [sha:2454dfe57609041f8ac6d3eb173a2df8b7296619]{
 -- Page 8, Offset 14747.
 -- そんな事を真剣に悩んでいると、受話器ごしに、消えそうなほど細い声が届けられた。
-　Il se mettait sérieusement à y réfléchir lorsqu'une voix faible et presque sur le point de s'éteindre lui parvint à travers le téléphone.
+  Il se mettait sérieusement à y réfléchir lorsqu'une voix faible et presque sur le point de s'éteindre lui parvint à travers le téléphone.
 
 }
 [sha:8e3b809de7eef67c348b41e1afb488a69a21fbea]{
@@ -211,7 +211,7 @@ Devait-il dire “Allô, c'est Kuonji”,
 [sha:187e3650b8ced20c42db41328a2e06eae2463f29]{
 -- Page 9, Offset 14749.
 -- かすれてはいるが、間違いなく久遠寺有珠の声だ。
-　Bien que rauque, il s'agissait sans aucun doute de la voix de Kuonji Alice.
+  Bien que rauque, il s'agissait sans aucun doute de la voix de Kuonji Alice.
 
 }
 [sha:878367b3572d01f0e49bb48a76f6a67ddd27eb37]{
@@ -229,25 +229,25 @@ Devait-il dire “Allô, c'est Kuonji”,
 [sha:1e46a68a9099d90f23d72eeb011b572252648e2e]{
 -- Page 10, Offset 14752.
 -- 草十郎の声に、有珠は<応|こた>えない。
-　Alice ne répondit pas à la question de Sōjūrō.
+  Alice ne répondit pas à la question de Sōjūrō.
 
 }
 [sha:5fa088050ebc3d009291e838fb1b9f25288b6953]{
 -- Page 10, Offset 14753.
 -- ……深い闇のような沈黙。
-　...... Un silence évoquant un abîme de ténèbres s'installa.
+  ...... Un silence évoquant un abîme de ténèbres s'installa.
 
 }
 [sha:60a7f35aa35986a00f8f7e32c57f62ea819ed64e]{
 -- Page 10, Offset 14754.
 -- ただ、受話器の向こうは騒がしく、雑踏めいたノイズに満ちている。
-　Néanmoins, à l'autre bout du fil, on pouvait entendre comme l'écho d'une foule agitée.
+  Néanmoins, à l'autre bout du fil, on pouvait entendre comme l'écho d'une foule agitée.
 
 }
 [sha:cf912952c050e62d8e411d3a22566c52221ecdac]{
 -- Page 10, Offset 14755.
 -- 長い沈黙の後、ようやく有珠は声を出した。
-　Après une longue pause, Alice reprit enfin la parole.
+  Après une longue pause, Alice reprit enfin la parole.
 
 }
 [sha:08d884bc498112276e99847baeb8496f6bb8b8d9]{
@@ -271,12 +271,12 @@ Devait-il dire “Allô, c'est Kuonji”,
 [sha:ba0c1cc6d889caa83555476d69968d8073f895aa]{
 -- Page 11, Offset 14759.
 -- がしゃり、と電話は切れてしまった。
-　L'appel se coupa sur un petit son métallique.
+  L'appel se coupa sur un petit son métallique.
 
 }
 [sha:a27c32fcc1ed8774ca199f4bdd745f0371d7b046]{
 -- Page 11, Offset 14760.
 -- 何が言いたかったんだろう、と草十郎はひとり考えこんだが、答えはついにでなかった。
-　Sōjūrō se demandait ce qu'elle avait voulu dire, mais il ne trouva pas la réponse à son interrogation.
+  Sōjūrō se demandait ce qu'elle avait voulu dire, mais il ne trouva pas la réponse à son interrogation.
 
 }

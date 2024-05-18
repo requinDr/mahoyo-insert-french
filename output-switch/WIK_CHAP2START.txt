@@ -7,43 +7,43 @@
 [sha:f367b3ce6e0310d1ba8db4db24b0bea55f711744]{
 -- Page 0, Offset 21479.
 -- 洋館の三階。
-　Au deuxième étage du manoir,
+  Au deuxième étage du manoir,
 
 }
 [sha:55196e45fdab29942802e8e08083d49fb0710413]{
 -- Page 0, Offset 21480.
 -- ホールの真上にあたる屋根裏部屋に入ると、そこはこの世のものとは思えぬ地獄だった。
-　lorsque nous pénétrâmes dans le grenier situé juste au-dessus du hall, nous nous retrouvâmes dans l'antichambre de l'enfer.
+  lorsque nous pénétrâmes dans le grenier situé juste au-dessus du hall, nous nous retrouvâmes dans l'antichambre de l'enfer.
 
 }
 [sha:3277c356a67c38254ba3e08613478948bfd9d750]{
 -- Page 1, Offset 21481.
 -- 部屋の中心には土桔由里彦氏……
-　Au centre de la pièce se trouvait......
+  Au centre de la pièce se trouvait......
 
 }
 [sha:b5a192556fdffcc26da62df257564bb405aa6d5f]{
 -- Page 1, Offset 21482.
 -- と思われる遺体がある。
-　le corps présumé de monsieur Tokitsu Yurihiko.
+  le corps présumé de monsieur Tokitsu Yurihiko.
 
 }
 [sha:fab88e467c550829e7a1f0e59b32157f4bc72da4]{
 -- Page 1, Offset 21483.
 -- 手足は半分以上千切れ、焼かれ、顔もない。
-　Plus de la moitié de ses membres avaient été arrachés ou brûlés, et son visage était méconnaissable.
+  Plus de la moitié de ses membres avaient été arrachés ou brûlés, et son visage était méconnaissable.
 
 }
 [sha:2fc85a6c27e4c12e36eb308b1dea2597bc684202]{
 -- Page 1, Offset 21484.
 -- かろうじて原形を<留|とど>めているのは胴体部分だけ。
-　Seul son torse avait conservé sa forme d'origine.
+  Seul son torse avait conservé sa forme d'origine.
 
 }
 [sha:aa84e177b03ab37acfb1b622cc4870198e3357ac]{
 -- Page 1, Offset 21485.
 -- 部屋には焦げた臭いが充満し、壁は<煤|すす>だらけだった。
-　Une odeur de brûlé imprégnait la chambre dont les murs étaient couverts de suie.
+  Une odeur de brûlé imprégnait la chambre dont les murs étaient couverts de suie.
 
 }
 [sha:0fa98c5ba97089512feadd9dc2067d1a720dd333]{
@@ -91,7 +91,7 @@
 [sha:44679c07d97c6a61c380dea211c404a9b4927cce]{
 -- Page 3, Offset 21493.
 -- 爆発もとは見あたらないけど……ユリヒコ、爆弾で遊ぶ性癖があったとか？　まあ、芸術家らしいけど」
-　Je ne vois pas la source de la détonation, mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」
+  Je ne vois pas la source de la détonation, mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」
 
 }
 [sha:eb713419c6e90aee072810cdaba27f540c347e0f]{
@@ -109,13 +109,13 @@
 [sha:70da816b1cd55ba5f78e0c07946f2f26308d50fa]{
 -- Page 4, Offset 21496.
 -- 芳助は怖がって二階で待機している。
-　Effrayé, Hōsuke s'était retranché au premier étage.
+  Effrayé, Hōsuke s'était retranché au premier étage.
 
 }
 [sha:b5f26a631b1601c7c26e15a171c5e12ddbc4d92b]{
 -- Page 4, Offset 21497.
 -- わたしたちは代わる代わる現場を視認していった。
-　Chacun de nous observa la scène à tour de rôle.
+  Chacun de nous observa la scène à tour de rôle.
 
 }
 [sha:76af7d036011c9412560f6e5e2c264c9a674edb3]{
@@ -127,25 +127,25 @@
 [sha:4f0170b4a7586b4c37111e0fa38396b65d037c33]{
 -- Page 5, Offset 21499.
 -- 見るときは二人一組で、どちらかが偽装工作をしないか監視しながら調査して。
-　Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on altère la scène de crime.
+  Restez par groupe de deux et enquêtez tout en observant votre partenaire afin d'éviter qu'on altère la scène de crime.
 
 }
 [sha:50de2d39344f67f81a974ba03400b69b72b67c7c]{
 -- Page 5, Offset 21500.
 -- アッちゃん、警察に連絡をいれてもいい？　ありがと、それじゃあロビーの電話、借りるわね」
-　Ma petite Al, je peux contacter la police ? Merci. Sur ce, je vais t'emprunter le téléphone du vestibule.」
+  Ma petite Al, je peux contacter la police ? Merci. Sur ce, je vais t'emprunter le téléphone du vestibule.」
 
 }
 [sha:d4f1b3ab97e6b1be3031b14c24d6ff0cf9e6ae00]{
 -- Page 6, Offset 21501.
 -- 活き活きしはじめた律架さんの指示に従って、二人一組で行動する。
-　Nous suivîmes les directives qu'avait données Ritsuka avec vigueur et formâmes des binômes.
+  Nous suivîmes les directives qu'avait données Ritsuka avec vigueur et formâmes des binômes.
 
 }
 [sha:b90ce8fbecdf2fc57b36868e04ee6c8990cafe2c]{
 -- Page 6, Offset 21502.
 -- 芳助が逃げてしまったため、流れ的に、わたしは槻司と組むコトになった。
-　Comme Hōsuke s'était enfui, je me retrouvai avec Tsukiji.
+  Comme Hōsuke s'était enfui, je me retrouvai avec Tsukiji.
 
 }
 [sha:ecb05f446425960da95db10c1ab67e5b84825895]{
@@ -157,13 +157,13 @@
 [sha:1e10bac6ac3a4d3c9f1d4af6fb991ec06d69a990]{
 -- Page 7, Offset 21504.
 -- 爆発って、犯人はなに考えてやがる」
-　Une explosion ? Qu'est-ce que le meurtrier avait derrière la tête ?」
+  Une explosion ? Qu'est-ce que le meurtrier avait derrière la tête ?」
 
 }
 [sha:e0b7e9c40bbce3b01b2370e4615f8150656fffba]{
 -- Page 7, Offset 21505.
 -- 意外なのは、槻司がもう「何者かによる殺人事件」と断定している事だ。
-　Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre.
+  Je fus étonnée que Tsukiji ait déjà conclu qu'il s'agissait d'un meurtre.
 
 }
 [sha:7f1796552b88ff41c4c1af7aba740fee8eb60f1f]{
@@ -187,7 +187,7 @@
 [sha:8c86b7acdeab05c200a4f8f534158f1a429dbf27]{
 -- Page 9, Offset 21509.
 -- 土桔の爺さんは、この部屋でロープで縛られて、軟禁されていたと見るのが妥当だろう」
-　Il ne serait pas présomptueux de considérer que le vieux Tokitsu a été ligoté et séquestré dans cette pièce.」
+  Il ne serait pas présomptueux de considérer que le vieux Tokitsu a été ligoté et séquestré dans cette pièce.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -199,7 +199,7 @@
 [sha:dc2095ad4a05f1c1c57c4f0cf798c8a9d576e31c]{
 -- Page 10, Offset 21511.
 -- では、ロープで縛られて、誰にも気付かれないうちに爆弾で殺された……？
-　Il avait donc été ligoté et tué par explosion, à l'insu de tout le monde...?
+  Il avait donc été ligoté et tué par explosion, à l'insu de tout le monde...?
 
 }
 [sha:11b91ac553b442ae59a2161fa55024012fda0edd]{
@@ -223,31 +223,31 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:eeea521b0134e2cec7b1fbe2cdda74d08871f9c2]{
 -- Page 11, Offset 21515.
 -- ……驚きだ。
-　...... J'éprouvai une certaine surprise.
+  ...... J'éprouvai une certaine surprise.
 
 }
 [sha:3c1d99c5883df98d0765ea51ad71d79874047f08]{
 -- Page 11, Offset 21516.
 -- 槻司は死体を前にしても怯んでいない。
-　Même face à un cadavre, Tsukiji ne flanchait pas.
+  Même face à un cadavre, Tsukiji ne flanchait pas.
 
 }
 [sha:276d9618fa8e3141b1c484eb4537c846186f80e6]{
 -- Page 11, Offset 21517.
 -- いたって冷静に、かつ真剣に、この状況を分析しようとしている。
-　Il cherchait à analyser la situation calmement et sérieusement.
+  Il cherchait à analyser la situation calmement et sérieusement.
 
 }
 [sha:762e36790e7e71490cc4101690a1074b8c665932]{
 -- Page 11, Offset 21518.
 -- こういう時の槻司は、たいへん絵になる。
-　Dans ces moments-là, Tsukiji était resplendissant.
+  Dans ces moments-là, Tsukiji était resplendissant.
 
 }
 [sha:a6135c28f734dd9fb53f81e649e2330c8ecf58a3]{
 -- Page 11, Offset 21519.
 -- というか、基本的にこの男は、本気になれば文句なしに格好いいのだ。
-　En fait, dès qu'il devenait sérieux, cet homme avait la classe dans tout ce qu'il entreprenait.
+  En fait, dès qu'il devenait sérieux, cet homme avait la classe dans tout ce qu'il entreprenait.
 
 }
 [sha:3a3f5b97693b40b83d8e2b8dde3bee60d449f7ab]{
@@ -265,7 +265,7 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:c95a88e043cf2dfed9198576797ecefddde65212]{
 -- Page 12, Offset 21522.
 -- その時、下からわたしたちを呼ぶ声があった。
-　Au moment où j'exprimai mon étonnement, une voix nous parvint de l'étage du dessous.
+  Au moment où j'exprimai mon étonnement, une voix nous parvint de l'étage du dessous.
 
 }
 [sha:9276b82734b8ad709a35a8ba9398c9dc23a57d8f]{
@@ -277,13 +277,13 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:734df8484e3ccf1575d729ad0b7ca5aa70adf194]{
 -- Page 13, Offset 21524.
 -- 電話、繋がってないわー！」
-　Le téléphone ne marche pas !」
+  Le téléphone ne marche pas !」
 
 }
 [sha:960c4ee781cf313f97f4b1cf72de72b1e5755fc2]{
 -- Page 13, Offset 21525.
 -- 槻司と顔を見合わせる。
-　J'échangeai un regard avec Tsukiji.
+  J'échangeai un regard avec Tsukiji.
 
 }
 [sha:4889431327fdb11bc478e3fc31f563477999b215]{
@@ -295,25 +295,25 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:b6215fd831c69bfe617bd504b130df2f70756bc0]{
 -- Page 13, Offset 21527.
 -- 頷いて屋根裏を後にする。
-　J'acquiesçai et nous quittâmes le grenier.
+  J'acquiesçai et nous quittâmes le grenier.
 
 }
 [sha:fe5db7b321ba4ec796df2d5ce9ca07848d15f9c4]{
 -- Page 13, Offset 21528.
 -- 二階で待機していた詠梨神父は、わたしたちが出ると扉を閉め、外付けの南京錠で部屋を施錠した。
-　Père Eiri, qui patientait au premier étage, ferma la porte de la pièce et en scella l'accès avec un cadenas après que nous en fûmes sortis.
+  Père Eiri, qui patientait au premier étage, ferma la porte de la pièce et en scella l'accès avec un cadenas après que nous en fûmes sortis.
 
 }
 [sha:d597d2d2494b98e228438fbedcd3859d889483a0]{
 -- Page 14, Offset 21529.
 -- 雨音が耳に痛い。
-　Le crépitement de la pluie était assourdissant.
+  Le crépitement de la pluie était assourdissant.
 
 }
 [sha:f885e71ce22db60ebe09c501f313c17685327f11]{
 -- Page 14, Offset 21530.
 -- 屋根裏から下りてきたわたしたちは、受話器の前に集まっていた。
-　Une fois descendus, nous nous réunîmes devant le téléphone.
+  Une fois descendus, nous nous réunîmes devant le téléphone.
 
 }
 [sha:f97a956259a8f4a118de25c3f98805334f30017d]{
@@ -337,43 +337,43 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:425f7ef2db81b4db20214c5ea9a7c74757f9586b]{
 -- Page 16, Offset 21534.
 -- 神父が天窓を指さす。
-　Le prêtre désigna la lucarne.
+  Le prêtre désigna la lucarne.
 
 }
 [sha:187a2aa50cdbce7b81cdfdc8d907706d91234af5]{
 -- Page 16, Offset 21535.
 -- ……雨だれがうるさい筈だ。
-　...... Il n'y avait rien d'étonnant au vacarme provoqué par les gouttes de pluie.
+  ...... Il n'y avait rien d'étonnant au vacarme provoqué par les gouttes de pluie.
 
 }
 [sha:e2a7d37c9ed8e25464988843dd088ca042ff1f82]{
 -- Page 16, Offset 21536.
 -- 外の天気は、もはや嵐と呼んでいい荒れ方だった。
-　Le temps était tellement agité qu'on pouvait parler de tempête.
+  Le temps était tellement agité qu'on pouvait parler de tempête.
 
 }
 [sha:2b3222e20489e2a1b5e99dccbe83712adf6f8e23]{
 -- Page 16, Offset 21537.
 -- 徒歩でやって来たわたしたちだが、この天気で山を下りるのは少しばかり危険な気がする。
-　Bien que nous ayons déjà fait le chemin à pied, j'avais le sentiment qu'il serait dangereux de descendre la montagne par ce temps.
+  Bien que nous ayons déjà fait le chemin à pied, j'avais le sentiment qu'il serait dangereux de descendre la montagne par ce temps.
 
 }
 [sha:ab06a923a4ad290169fd8d1bc9c24c19c4ee6a36]{
 -- Page 17, Offset 21538.
 -- それに……詠梨神父が“単独行動はよろしくない”と言った理由は、何も静希の安全を気遣っての事ではない。
-　Par ailleurs, si père Eiri nous avait déconseillé d'agir individuellement, ce n'était pas particulièrement par inquiétude envers Shizuki.
+  Par ailleurs, si père Eiri nous avait déconseillé d'agir individuellement, ce n'était pas particulièrement par inquiétude envers Shizuki.
 
 }
 [sha:fbf5399e08ad14f4b017c519b82a7f2d13601c48]{
 -- Page 17, Offset 21539.
 -- この状況でひとりきりで行動されるのは、残された者たちにとっても不利益なのだ。
-　Agir tout seul dans une telle situation serait désavantageux pour les personnes laissées en arrière.
+  Agir tout seul dans une telle situation serait désavantageux pour les personnes laissées en arrière.
 
 }
 [sha:99ddfa288edc27ced622fee8eb9e202af5bf3ecf]{
 -- Page 17, Offset 21540.
 -- たとえば―――ひとりになった事を利用しての、様々な証拠隠滅、とか。
-　Par exemple―――un certain individu pourrait profiter de se retrouver isolé pour détruire diverses preuves.
+  Par exemple―――un certain individu pourrait profiter de se retrouver isolé pour détruire diverses preuves.
 
 }
 [sha:cffe4187090128841d09794c310f65992d9cae0a]{
@@ -385,19 +385,19 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:11173da7e9a08331fb5e6ce8122cd24385b6fcdf]{
 -- Page 18, Offset 21542.
 -- 警察に連絡を入れるのは、話を整理してからでも遅くはありません」
-　Nous pourrons très bien contacter la police après avoir mis au clair cette affaire.」
+  Nous pourrons très bien contacter la police après avoir mis au clair cette affaire.」
 
 }
 [sha:5c5c27b29597e328708155fb9b395a065e7807db]{
 -- Page 19, Offset 21543.
 -- 神父の意見にみんな賛成する。
-　Tout le monde se rangea à l'avis du prêtre.
+  Tout le monde se rangea à l'avis du prêtre.
 
 }
 [sha:b3a34ac7c788ea7a87310c4a1f36ff56e8f73d9d]{
 -- Page 19, Offset 21544.
 -- 前言撤回。芳助だけは、“なにこれ、ドッキリ？”と現実を見ていなかった。
-　Je retire ce que j'ai dit. Hōsuke marmonna : “C'est quoi cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
+  Je retire ce que j'ai dit. Hōsuke marmonna : “C'est quoi cette histoire ? Une caméra cachée ?” et refusait de voir la réalité en face.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -409,24 +409,24 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
 [sha:f29f801c8ead477568915e5c4f3c3bd28b7e4bd2]{
 -- Page 20, Offset 21546.
 -- 薄ら寒いものを感じて、なんとなく、玄関に視線をやった。
-　Je ressentis un frisson et, sans raison particulière, dirigeai mon regard vers l'entrée.
+  Je ressentis un frisson et, sans raison particulière, dirigeai mon regard vers l'entrée.
 
 }
 [sha:4a80d46dcbf5f1b84ac98aec214a3f7e3b72c4c1]{
 -- Page 20, Offset 21547.
 -- ……微かな違和感。
-　...... Un léger inconfort m'assaillit.
+  ...... Un léger inconfort m'assaillit.
 
 }
 [sha:acf63699a0aa2fc97ed553f744a3101ffc16f2df]{
 -- Page 20, Offset 21548.
 -- 外の雨は強くなる一方だ。
-　L'orage allait en s'intensifiant.
+  L'orage allait en s'intensifiant.
 
 }
 [sha:00f84b1d355eaff7cc686f251f10af68cfebd503]{
 -- Page 20, Offset 21549.
 -- わたしは、漠然と、
-　Confusément, je...
+  Confusément, je...
 
 }

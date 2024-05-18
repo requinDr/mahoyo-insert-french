@@ -1,109 +1,109 @@
 [sha:ce88258db372e0688959e972f7ac05e15214de85]{
 -- Page 0, Offset 17174.
 -- 人里離れた雪の広場は、<瞬|またた>きの間に変貌した。
-　La cour enneigée et reculée se métamorphosa en un clin d'œil.
+  La cour enneigée et reculée se métamorphosa en un clin d'œil.
 
 }
 [sha:ac62dbb5eaf944b9b5e2c2469437af9931b1b4fa]{
 -- Page 0, Offset 17175.
 -- 一面に咲き誇る白花の海。
-　Les trois filles se trouvaient à présent sur une mer de fleurs blanches en pleine floraison.
+  Les trois filles se trouvaient à présent sur une mer de fleurs blanches en pleine floraison.
 
 }
 [sha:9e1476b5a17fc88ccb52fb2d797cfebaf90bd320]{
 -- Page 0, Offset 17176.
 -- 周囲にある裸の木々と朽ちた旧校舎だけが、ここが元の世界である事を告げている。
-　Seuls les arbres dénudés et l'école délabrée indiquaient qu'il s'agissait bien de leur monde d'origine.
+  Seuls les arbres dénudés et l'école délabrée indiquaient qu'il s'agissait bien de leur monde d'origine.
 
 }
 [sha:e9ee799aa868a2a0bf611d079fb89054ee03db6a]{
 -- Page 0, Offset 17177.
 -- 冷たい風もこの野原では暖かだ。
-　Même le vent glacial s'adoucissait dans ce champ.
+  Même le vent glacial s'adoucissait dans ce champ.
 
 }
 [sha:5ed1bd70c51d0021356d5683d028a693e3bfd517]{
 -- Page 0, Offset 17178.
 -- 見上げる夜空すら、満天の星の夜に戻っている。
-　Quant au ciel, il était à présent empli d'innombrables astres.
+  Quant au ciel, il était à présent empli d'innombrables astres.
 
 }
 [sha:fce9a99937916f76791f8abc122cba971dba367c]{
 -- Page 1, Offset 17179.
 -- 手を伸ばせば届きそうなほど近い星の明かり。
-　Les étoiles scintillantes semblaient si proches qu'on aurait pu les toucher du doigt.
+  Les étoiles scintillantes semblaient si proches qu'on aurait pu les toucher du doigt.
 
 }
 [sha:a2eaac02e22f14d191eb8e26545582f97a8f2202]{
 -- Page 1, Offset 17180.
 -- 淋しさも心地よさも混ざり合った、虫の羽音と夜の<囁|ささや>きだけの孤影。
-　C'était un panorama empreint de solitude où murmures nocturnes et bourdonnements d'insectes se mêlaient à la tristesse et à la félicité.
+  C'était un panorama empreint de solitude où murmures nocturnes et bourdonnements d'insectes se mêlaient à la tristesse et à la félicité.
 
 }
 [sha:acc0a2fb26fc46685ee679e7ae82e01fe9319def]{
 -- Page 1, Offset 17181.
 -- 人の営みを<排|はい>した、<穢|けが>れも<悼|いた>みもない風景。
-　Ce paysage dépourvu d'impureté et de douleur avait exclu toute intervention humaine.
+  Ce paysage dépourvu d'impureté et de douleur avait exclu toute intervention humaine.
 
 }
 [sha:65faaee890b3cc8877a79063331d8840e942ffb6]{
 -- Page 1, Offset 17182.
 -- 何もないけれど、同時に何も必要としない世界。
-　Il n'y avait rien, mais en contrepartie, rien n'y était nécessaire. Ainsi était fait ce monde.
+  Il n'y avait rien, mais en contrepartie, rien n'y était nécessaire. Ainsi était fait ce monde.
 
 }
 [sha:49599e9f459ee247714521e4999c10dea2644ef7]{
 -- Page 1, Offset 17183.
 -- ……そしてそれが、彼の一番だった頃。
-　...... Et il représentait les meilleurs moments de la vie du jeune homme.
+  ...... Et il représentait les meilleurs moments de la vie du jeune homme.
 
 }
 [sha:f81f5cacb4cabdba025e3e5281dfb9ab12ec2486]{
 -- Page 2, Offset 17184.
 -- 冬の荒地を、春の草原に変えてしまう。
-　La capacité de transformer une friche hivernale en prairie à la saison printanière.
+  La capacité de transformer une friche hivernale en prairie à la saison printanière.
 
 }
 [sha:dde30e173a06e358a98302d9adb7494c5a1205bc]{
 -- Page 2, Offset 17185.
 -- それが青子の言う『魔法』だという事に、橙子は呆然としていた。
-　Tōko semblait désappointée à l'idée qu'il s'agisse de la Vraie Magie dont parlait Aoko.
+  Tōko semblait désappointée à l'idée qu'il s'agisse de la Vraie Magie dont parlait Aoko.
 
 }
 [sha:5f8c6bac39361e7e266184300f09ca577f2ad0b1]{
 -- Page 2, Offset 17186.
 -- これはこれで悪くはないが、彼女の見たかった『魔法』は断じて、こんなロマンチックなだけのものではない。
-　Ce n'était pas une mauvaise performance en soi, mais ce qu'elle voulait voir n'avait absolument aucun rapport avec ce pouvoir romanesque.
+  Ce n'était pas une mauvaise performance en soi, mais ce qu'elle voulait voir n'avait absolument aucun rapport avec ce pouvoir romanesque.
 
 }
 [sha:9d09cc0c88f8861f9fd3bcb5833bc12af1bed292]{
 -- Page 3, Offset 17187.
 -- 何か大がかりな術式を展開したようだが、周囲の<魔力|マナ>に変化もない。
-　Même si sa sœur semblait avoir déployé un sort de grande envergure, le mana environnant ne manifestait aucun changement.
+  Même si sa sœur semblait avoir déployé un sort de grande envergure, le mana environnant ne manifestait aucun changement.
 
 }
 [sha:a0df512cc7687d13460bddf1026b944f03c9dd62]{
 -- Page 3, Offset 17188.
 -- 拍子抜けもいいところだ。久遠寺有珠のフラットスナークに比べれば<児|じ><戯|ぎ>に等しい。
-　Elle sentit la déception l'envahir. Ça ne valait pratiquement rien comparé au Flat Snark de Kuonji Alice.
+  Elle sentit la déception l'envahir. Ça ne valait pratiquement rien comparé au Flat Snark de Kuonji Alice.
 
 }
 [sha:e4347b80fb6d4ccebab2aa4cee5a851257c55d19]{
 -- Page 3, Offset 17189.
 -- 変わったのはこの花園と、あの―――
-　Les différences se résumaient à l'apparition du jardin de fleurs et―――
+  Les différences se résumaient à l'apparition du jardin de fleurs et―――
 
 }
 [sha:dda7090cbda4081efea09cd84cdefb47c3899aaa]{
 -- Page 4, Offset 17190.
 -- 出で立ちの変わった青子だけ。
-　à Aoko et son changement de tenue.
+  à Aoko et son changement de tenue.
 
 }
 [sha:1a0e1f72c0232ff5eb4c7c6c4d7f7dc290814454]{
 -- Page 4, Offset 17191.
 -- 自身の肉体に何らかの<強化|ブースト>をかけたと見るべきだが、今の青子では何をしようと橙子には及ばない。
-　Mieux valait considérer que cette dernière avait subi une sorte de boost corporel. Néanmoins, quoi qu'elle fasse, elle ne pouvait toujours rien contre Tōko.
+  Mieux valait considérer que cette dernière avait subi une sorte de boost corporel. Néanmoins, quoi qu'elle fasse, elle ne pouvait toujours rien contre Tōko.
 
 }
 [sha:ea0f211eb817de30940a592e21fd9f6931d057a4]{
@@ -115,7 +115,7 @@
 [sha:d9ee46271683138e036378426262cf4b29172b68]{
 -- Page 4, Offset 17193.
 -- 呟きには微かな苛立ちがある。
-　Son murmure dégageait une certaine irritation.
+  Son murmure dégageait une certaine irritation.
 
 }
 [sha:1f722605c1961d9e1fab63c984f03baf7eb0fd85]{
@@ -127,19 +127,19 @@
 [sha:f641b45f7d7254c494b2846fd3a28c7d305f12a2]{
 -- Page 5, Offset 17195.
 -- まさか、それで終わりではないだろう？」
-　Tu ne vas tout de même pas me dire que c'est déjà fini ?」
+  Tu ne vas tout de même pas me dire que c'est déjà fini ?」
 
 }
 [sha:6a6ac854abd8066b4bcd2b45c9a89be0b435a12e]{
 -- Page 5, Offset 17196.
 -- 青子は花の海を歩き始める。
-　Aoko entreprit de fouler la mer de fleurs.
+  Aoko entreprit de fouler la mer de fleurs.
 
 }
 [sha:2587d12d85219d55ac2efd38054934664f0cd374]{
 -- Page 5, Offset 17197.
 -- 向かう先は、遠方にいる橙子に他ならない。
-　Elle se dirigeait droit vers Tōko, loin devant elle.
+  Elle se dirigeait droit vers Tōko, loin devant elle.
 
 }
 [sha:8e8c58de15d6d641348f2cad34ea381d689c2002]{
@@ -151,31 +151,31 @@
 [sha:235dc5957a404ec413626c956d3f97f23e3acfd4]{
 -- Page 6, Offset 17199.
 -- 短く返された言葉に、橙子は微妙な違和感をおぼえた。
-　Tōko décela une différence subtile chez sa sœur cadette grâce à cette brève réplique.
+  Tōko décela une différence subtile chez sa sœur cadette grâce à cette brève réplique.
 
 }
 [sha:3c4fbd837d9270ec8d121601ec2cce0fa241155a]{
 -- Page 6, Offset 17200.
 -- 今の声は、青子とは違う気がする。
-　Elle avait le sentiment que cette voix n'appartenait pas à Aoko.
+  Elle avait le sentiment que cette voix n'appartenait pas à Aoko.
 
 }
 [sha:225ef2932392b8aad8d9eda93bceb86996398caa]{
 -- Page 6, Offset 17201.
 -- 声質はほぼ同じだから、口調が違うのだろうか？
-　Son timbre n'avait pratiquement pas changé, alors peut-être cela venait-il du ton employé ?
+  Son timbre n'avait pratiquement pas changé, alors peut-être cela venait-il du ton employé ?
 
 }
 [sha:79d68418c526a912bffc2eb6faf1e2540af2e5f6]{
 -- Page 6, Offset 17202.
 -- いや、それも同じだ。
-　Non, il n'avait pas changé non plus.
+  Non, il n'avait pas changé non plus.
 
 }
 [sha:4524f35cb725ba49d394073a3e6e0a7985b93be2]{
 -- Page 6, Offset 17203.
 -- どこか違うとしたら、それは………。
-　S'il devait y avoir une différence quelque part, c'était.........
+  S'il devait y avoir une différence quelque part, c'était.........
 
 }
 [sha:902b4d50071a15718e21c3d035a0a6f7624a459f]{
@@ -187,43 +187,43 @@
 [sha:f40e062d2d3c1ff749882cc2b099e3178285ffd8]{
 -- Page 7, Offset 17205.
 -- そこで、橙子はもう一つの変化に気が付いた。
-　C'est alors que Tōko remarqua une autre altération.
+  C'est alors que Tōko remarqua une autre altération.
 
 }
 [sha:72a51d9580679000a32398a1ad2ba9dc2ebeefa9]{
 -- Page 7, Offset 17206.
 -- 変わったのは広場と青子だけではない。
-　Les changements ne se limitaient pas à la cour et à Aoko.
+  Les changements ne se limitaient pas à la cour et à Aoko.
 
 }
 [sha:ab98a8b293037e05141baef6e3b7965115663302]{
 -- Page 7, Offset 17207.
 -- 青子の足下、二つになっていた死体が復元している。
-　Le corps étendu à ses pieds avait été restauré.
+  Le corps étendu à ses pieds avait été restauré.
 
 }
 [sha:d054a06ab09ca030181443764760a5b989eb64ae]{
 -- Page 8, Offset 17208.
 -- 死者の蘇生？　傷の治療？
-　Résurrection des morts ? Ou bien, simple usage de soins médicaux ?
+  Résurrection des morts ? Ou bien, simple usage de soins médicaux ?
 
 }
 [sha:81226b87edd2462e0ed8c6729af5556cd1e3dc6f]{
 -- Page 8, Offset 17209.
 -- そんな大がかりな術式を施した様子はないし、何より、体を復元したところで“死”は<覆|くつがえ>らない。
-　Elle ne semblait pas avoir lancé un sort d'une telle envergure, et avant tout, la restauration d'un corps n'impliquait aucunement d'annuler sa “mort”.
+  Elle ne semblait pas avoir lancé un sort d'une telle envergure, et avant tout, la restauration d'un corps n'impliquait aucunement d'annuler sa “mort”.
 
 }
 [sha:8c1d1dc911a7df5ad1db4dda96099f2593ac2388]{
 -- Page 8, Offset 17210.
 -- 古来、死者の<完|・><全|・><な|・>蘇生は魔法ですら叶えていない。
-　Même la Vraie Magie n'avait jamais permis la résurrection parfaite des morts.
+  Même la Vraie Magie n'avait jamais permis la résurrection parfaite des morts.
 
 }
 [sha:e0614f4913114cb56238af8f9df1fea96028c851]{
 -- Page 8, Offset 17211.
 -- だが―――青子の背後で倒れている青年が、意識がないまま呼吸をしているのはどう説明する―――！？
-　Mais alors, même s'il était inconscient, comment expliquer que le jeune homme derrière Aoko respirait―――?!
+  Mais alors, même s'il était inconscient, comment expliquer que le jeune homme derrière Aoko respirait―――?!
 
 }
 [sha:24cd87d618f6bdb2441993422f815bfb2c32de20]{
@@ -235,31 +235,31 @@
 [sha:326e2d881a9f897aa93e7b3ea1c45eafce3619fd]{
 -- Page 9, Offset 17213.
 -- いや違う。あれは蘇生というより……”
-　Non, ce n'est pas ça. Ce n'est pas de la résurrection, mais plutôt......”
+  Non, ce n'est pas ça. Ce n'est pas de la résurrection, mais plutôt......”
 
 }
 [sha:4e45fb34c53f3cead06072b143a1fd1438412537]{
 -- Page 9, Offset 17214.
 -- その答えが出るより早く、橙子は違和感の正体に気が付いた。
-　Avant de trouver la réponse, Tōko réalisa d'où venait son malaise.
+  Avant de trouver la réponse, Tōko réalisa d'où venait son malaise.
 
 }
 [sha:2d4bb1df7842efb92104c58fdbcecb3c2826f09e]{
 -- Page 9, Offset 17215.
 -- 先ほどの青子の仕草は年相応のものではなかった。
-　Les mouvements d'Aoko ne correspondaient pas à son âge.
+  Les mouvements d'Aoko ne correspondaient pas à son âge.
 
 }
 [sha:7812978a38ef4c492e1998f330de5c6bf22f2ae7]{
 -- Page 9, Offset 17216.
 -- わずかな外見の変化より、留意すべきは中身の変化だ。
-　Elle ne devait pas prêter attention au léger changement d'apparence, mais plutôt à sa transformation interne.
+  Elle ne devait pas prêter attention au léger changement d'apparence, mais plutôt à sa transformation interne.
 
 }
 [sha:b6a3395de64f196b175a573f5795299d55bc1506]{
 -- Page 9, Offset 17217.
 -- まさかの結論に達した時、青子は橙子との距離を残り十メートルまで詰めていた。
-　Lorsque Tōko arriva à cette conclusion improbable, Aoko n'était plus qu'à une dizaine de mètres d'elle.
+  Lorsque Tōko arriva à cette conclusion improbable, Aoko n'était plus qu'à une dizaine de mètres d'elle.
 
 }
 [sha:b9cf2a9263111a6318d29d140ba15300e7be2ae9]{
@@ -271,43 +271,43 @@
 [sha:5877c4ed8297be8439b86c802ec85516a4bc2d12]{
 -- Page 10, Offset 17219.
 -- その左手が、目の高さまで上げられる。
-　Aoko leva la main gauche à hauteur de ses yeux.
+  Aoko leva la main gauche à hauteur de ses yeux.
 
 }
 [sha:8db67676a02d652002535aec4d9b516c98c5859e]{
 -- Page 10, Offset 17220.
 -- 青子の体内で生成される魔力量が目に見えて……いや、耳に聞こえるほど違う。
-　La quantité de prana générée par son corps était si énorme qu'on pouvait le voir à l'œil nu...... et même l'entendre.
+  La quantité de prana générée par son corps était si énorme qu'on pouvait le voir à l'œil nu...... et même l'entendre.
 
 }
 [sha:c39e938fa2a303c5eb1e28dab3d4796f173ceb4f]{
 -- Page 10, Offset 17221.
 -- 橙子ですら聞いた事のない快音。
-　Tōko n'avait jamais entendu un vrombissement pareil.
+  Tōko n'avait jamais entendu un vrombissement pareil.
 
 }
 [sha:df71ec8446f095dba62f8094db80827548d3b932]{
 -- Page 10, Offset 17222.
 -- 青子のソレは、<凡夫|ぼんぷ>の魔術師に見られる、単一機能しか持たない低級魔術回路だ。魔力の生成量は橙子を遥かに下回る。
-　Aoko ne possédait qu'un vulgaire Circuit Magique à fonction unique que l'on pouvait trouver chez n'importe quel Mage ordinaire. La quantité de prana qu'elle pouvait produire était de loin inférieure à celle de Tōko.
+  Aoko ne possédait qu'un vulgaire Circuit Magique à fonction unique que l'on pouvait trouver chez n'importe quel Mage ordinaire. La quantité de prana qu'elle pouvait produire était de loin inférieure à celle de Tōko.
 
 }
 [sha:39eae7cef35cd061d264193a6cc1d374f8ce9a4b]{
 -- Page 11, Offset 17223.
 -- だがあの速度は異常にすぎる。
-　Mais sa vitesse était phénoménale.
+  Mais sa vitesse était phénoménale.
 
 }
 [sha:e67e9a2ad1e38de29a1b8d2b36a27751dae7ba30]{
 -- Page 11, Offset 17224.
 -- あきらかに血流の速度を上回っているし、なにより―――
-　Elle dépassait clairement celle de la circulation sanguine, et surtout―――
+  Elle dépassait clairement celle de la circulation sanguine, et surtout―――
 
 }
 [sha:c39290679a143670b14fb0c28ea95f9ab03b3130]{
 -- Page 11, Offset 17225.
 -- 魔術による<振動|おと>ならともかく、<た|・><だ|・><魔|・><術|・><回|・><路|・><が|・><起|・><動|・><す|・><る|・><だ|・><け|・><で|・><波|おと>をあげるなど、協会でも聞いた事がない―――！
-　Tōko avait déjà entendu un sort produire un son, mais même à l'Association, elle n'avait jamais ouï dire qu'un Circuit Magique puisse faire du bruit simplement par son activation―――!
+  Tōko avait déjà entendu un sort produire un son, mais même à l'Association, elle n'avait jamais ouï dire qu'un Circuit Magique puisse faire du bruit simplement par son activation―――!
 
 }
 [sha:b49e2bd113864542c1c05dc9c4ae4315374359d0]{
@@ -319,19 +319,19 @@
 [sha:17d5777e66f1c417de3cbb813e99c7e528c42547]{
 -- Page 12, Offset 17227.
 -- <悪寒|おかん>に<急|せ>かされるよう、橙子は中空にルーンを刻む。
-　Tōko dessina quelques Runes dans l'air, hâtée par les frissons qu'elle ressentait.
+  Tōko dessina quelques Runes dans l'air, hâtée par les frissons qu'elle ressentait.
 
 }
 [sha:4ced426895dad98596a1dad58589b50535ec6062]{
 -- Page 12, Offset 17228.
 -- 青子が仕掛けてくるであろう魔術を防ぐため<勝利|トゥール>の加護を張り、さらに刻印の力で強化し、障壁としたのだ。
-　Elle déploya la divine protection de Tiwaz, la renforça avec le pouvoir du Sceau et en fit une Barrière dans le but de se protéger du sort de sa sœur.
+  Elle déploya la divine protection de Tiwaz, la renforça avec le pouvoir du Sceau et en fit une Barrière dans le but de se protéger du sort de sa sœur.
 
 }
 [sha:b523bd606555830d257fca03c79ba96748eb07b4]{
 -- Page 13, Offset 17229.
 -- 対して、青子は意にも介さず、照準を合わせる為に腕をあげる事もなく、
-　De son côté, Aoko ne se souciait guère des préparatifs de Tōko et ne daigna même pas lever le bras pour ajuster sa cible.
+  De son côté, Aoko ne se souciait guère des préparatifs de Tōko et ne daigna même pas lever le bras pour ajuster sa cible.
 
 }
 [sha:7a76f6bc9c84ebfaa3e2b10f72153d32b89ac1c9]{
@@ -343,7 +343,7 @@
 [sha:69ede46b83a87c2b14d3078227a70ae0050ba06e]{
 -- Page 13, Offset 17231.
 -- 短く、自分自身に命令した。
-　Elle se donna un ordre bref.
+  Elle se donna un ordre bref.
 
 }
 [sha:30a58b8c1d4f48d802c3a101c8b10e739874cebe]{
@@ -355,19 +355,19 @@
 [sha:f3d728f2e0b9b0ff840879f4d7d38d039f4f0c3f]{
 -- Page 14, Offset 17233.
 -- 魔術の起こりさえ見えない。
-　Elle n'avait même pas vu l'instant où le sort s'était activé.
+  Elle n'avait même pas vu l'instant où le sort s'était activé.
 
 }
 [sha:1785ff27656c5410920692beb2feb825d9b58056]{
 -- Page 14, Offset 17234.
 -- 一言で放たれた魔弾は実に二十発。
-　Les balles tirées par une simple incantation s'élevaient au nombre de vingt.
+  Les balles tirées par une simple incantation s'élevaient au nombre de vingt.
 
 }
 [sha:b35bba59593a00c0dbd1d3d7cc14365a330256c6]{
 -- Page 14, Offset 17235.
 -- それは流星のように、ロケット弾すら弾くルーンの壁を溶解し、蒼崎橙子の<礼装|コート>を撃ち抜いた。
-　Tels des météores, elles brisèrent le mur de Runes capable de repousser un missile avant d'atteindre le manteau d'Aozaki Tōko.
+  Tels des météores, elles brisèrent le mur de Runes capable de repousser un missile avant d'atteindre le manteau d'Aozaki Tōko.
 
 }
 [sha:e9cd6baaf3f189ff524a70a0742812814e7e22e4]{
@@ -379,31 +379,31 @@
 [sha:c3bb6cdc25d39e395b31a6b3402c7b46b594b473]{
 -- Page 15, Offset 17237.
 -- <礼装|コート>にかけてある防護のルーンが悲鳴をあげる。
-　La Rune de protection qu'elle avait appliquée sur son manteau poussait des cris de protestation.
+  La Rune de protection qu'elle avait appliquée sur son manteau poussait des cris de protestation.
 
 }
 [sha:0532ce95170180cf6c4a6398436b914a9fe9bfd0]{
 -- Page 15, Offset 17238.
 -- あの掃射をもう一度受ければ<保|も>たない。
-　Si elle se faisait mitrailler à nouveau, le sort ne tiendrait pas.
+  Si elle se faisait mitrailler à nouveau, le sort ne tiendrait pas.
 
 }
 [sha:d34c5d9dbd45a1b2a58f8629306b7ceb2d101a97]{
 -- Page 15, Offset 17239.
 -- それ以前に、今の直撃で間違いなく<内臓|かいろ>に傷が入った。
-　En outre, ce coup direct avait vraisemblablement endommagé son Circuit Magique.
+  En outre, ce coup direct avait vraisemblablement endommagé son Circuit Magique.
 
 }
 [sha:19142faa87cbcdccc95b5f63b083dbceeb9d881d]{
 -- Page 16, Offset 17240.
 -- 認めたくはないが、直接的な火力において蒼崎青子は蒼崎橙子を上回っている。
-　Elle ne voulait pas le reconnaître, mais Aozaki Aoko surpassait Aozaki Tōko en ce qui concernait la puissance de feu.
+  Elle ne voulait pas le reconnaître, mais Aozaki Aoko surpassait Aozaki Tōko en ce qui concernait la puissance de feu.
 
 }
 [sha:e82375d8ff3f157dce6873108ad8fcb67a21ca72]{
 -- Page 16, Offset 17241.
 -- さらに認めがたいのは―――おそらく、あの女はまだ<本|・><気|・><に|・><す|・><ら|・><な|・><っ|・><て|・><い|・><な|・><い|・>……！
-　Et pire encore, cette fille n'avait probablement pas encore attaqué sérieusement......!
+  Et pire encore, cette fille n'avait probablement pas encore attaqué sérieusement......!
 
 }
 [sha:118570794b865cbddd19f9d773444e1b5e214d8d]{
@@ -415,19 +415,19 @@
 [sha:926432ad7b341780d05964819c987fc003e40de2]{
 -- Page 17, Offset 17243.
 -- 橙子は跳びのきながら中空にルーンを描く。
-　Tōko dessina des Runes tout en reculant.
+  Tōko dessina des Runes tout en reculant.
 
 }
 [sha:b503f22f3b5d04cca01e6166a124611809d6a824]{
 -- Page 17, Offset 17244.
 -- 一喝に応じて刻印は炎へと転じていく。
-　Les caractères répondirent à son rugissement et se changèrent en flammes.
+  Les caractères répondirent à son rugissement et se changèrent en flammes.
 
 }
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 17, Offset 17245.
 -- だが。
-　Mais ça ne suffisait pas.
+  Mais ça ne suffisait pas.
 
 }
 [sha:d1ac34df08f681ffc6c13d673479cb35bceac75d]{
@@ -439,37 +439,37 @@
 [sha:161318f4e2b1d2af43e6612a3eecbd579cd60953]{
 -- Page 18, Offset 17247.
 -- それを、青子はただ一言で打ち消した。
-　Aoko les annihila d'une phrase.
+  Aoko les annihila d'une phrase.
 
 }
 [sha:2a7ee0aa7e0bed18da7c69bfd52f4348af4d93ff]{
 -- Page 18, Offset 17248.
 -- ルーンは意味を持つ前に砕け散る。
-　Les Runes tombèrent en poussière avant de posséder un sens.
+  Les Runes tombèrent en poussière avant de posséder un sens.
 
 }
 [sha:2bc854fb6244e9e8359e22f12758d5aea29c3f6f]{
 -- Page 18, Offset 17249.
 -- 単純に、ルーンをカタチにする橙子の魔力より、彼女の言葉の力が上回ったのだ。
-　La puissance de ses mots avait tout simplement surpassé le prana de Tōko sous forme de Runes.
+  La puissance de ses mots avait tout simplement surpassé le prana de Tōko sous forme de Runes.
 
 }
 [sha:153c6a2841377405fa54663cf5f11fc0321b79a9]{
 -- Page 19, Offset 17250.
 -- ルーンを無効化し、青子は白い花園を突き進む。
-　Après avoir effacé les caractères runiques, Aoko progressa sur le jardin de fleurs blanches.
+  Après avoir effacé les caractères runiques, Aoko progressa sur le jardin de fleurs blanches.
 
 }
 [sha:11e6b368bdeadb214d42b7b2a426315a1b49c853]{
 -- Page 19, Offset 17251.
 -- その<表情|かお>も、安定した魔術回路の働きも、息遣いさえ今までの彼女とは違う。
-　Son expression, la stabilité de son Circuit Magique, et même sa respiration différaient complètement de tout ce qu'elle avait montré jusque-là.
+  Son expression, la stabilité de son Circuit Magique, et même sa respiration différaient complètement de tout ce qu'elle avait montré jusque-là.
 
 }
 [sha:9208c6a47bdded36f1e3eaed6bb2c41ccaf96e31]{
 -- Page 19, Offset 17252.
 -- それは多くの戦闘経験を得た者にしか出来えない、最適化された自己管理だ。
-　Elle avait une maîtrise de soi optimale. De celles qu'on ne trouvait que chez ceux ayant une grande expérience du combat.
+  Elle avait une maîtrise de soi optimale. De celles qu'on ne trouvait que chez ceux ayant une grande expérience du combat.
 
 }
 [sha:976a51bd61b50494a3edf9f3f94632a42d9d798c]{
@@ -481,19 +481,19 @@
 [sha:525a907875154f2b80b4ab1114788f33392819be]{
 -- Page 19, Offset 17254.
 -- それが蒼崎の魔法の正体だとしたら、たしかにすべてが<符|ふ><合|ごう>する。
-　En effet, s'il s'agissait là de la vraie nature du pouvoir hérité chez les Aozaki, alors tout devenait parfaitement logique.
+  En effet, s'il s'agissait là de la vraie nature du pouvoir hérité chez les Aozaki, alors tout devenait parfaitement logique.
 
 }
 [sha:9a58c28445a6706d19fcf40c0df4fa05f8ccee28]{
 -- Page 20, Offset 17255.
 -- 青子の魔術回路が増幅されたのではない。
-　Le Circuit Magique d'Aoko n'avait pas été amplifié.
+  Le Circuit Magique d'Aoko n'avait pas été amplifié.
 
 }
 [sha:774c02ec4afbbf86048bf84c4de986d64f0823e5]{
 -- Page 20, Offset 17256.
 -- そもそもそんな事は出来ないし、橙子のように外付けにしたところで、増えるのは魔力の総量と使用可能な術式だけ。
-　Une telle chose relevait de l'impossible, et même si elle se greffait un Sceau comme Tōko, elle n'aurait obtenu qu'une augmentation de la quantité de prana et de sorts disponibles.
+  Une telle chose relevait de l'impossible, et même si elle se greffait un Sceau comme Tōko, elle n'aurait obtenu qu'une augmentation de la quantité de prana et de sorts disponibles.
 
 }
 [sha:762cc27e0ee30e93aaf081f73bee8198c5de9947]{
@@ -505,25 +505,25 @@ La nature d'un Mage et la qualité de son Circuit Magique ne changeaient pas.
 [sha:21f67092700835965fe1959d482e23addeff3c18]{
 -- Page 20, Offset 17258.
 -- だが、今の青子は明らかに<魔|・><術|・><師|・><と|・><し|・><て|・>蒼崎橙子を凌駕している。
-　Mais à présent, Aoko surpassait clairement Aozaki Tōko en tant que Mage.
+  Mais à présent, Aoko surpassait clairement Aozaki Tōko en tant que Mage.
 
 }
 [sha:23f57ecde5e78c1b31ba149aedb52e49634cbab7]{
 -- Page 20, Offset 17259.
 -- ならば答えは一つ。
-　Il n'y avait donc qu'une réponse possible.
+  Il n'y avait donc qu'une réponse possible.
 
 }
 [sha:076a2c1b491e57ed97d6fc3e12222e9bcad3fdf0]{
 -- Page 20, Offset 17260.
 -- あの見習い魔術師は一瞬で一人前の魔術師に成長―――
-　L'apprentie Mage était devenue un maître en un instant―――
+  L'apprentie Mage était devenue un maître en un instant―――
 
 }
 [sha:53ca3ff303558ea5285e54bcccbbac0539b77edd]{
 -- Page 20, Offset 17261.
 -- いや、自身の<時|・><間|・><を|・><早|・><送|・><り|・>したのだ。
-　Ou plutôt, elle avait avancé son propre temps.
+  Ou plutôt, elle avait avancé son propre temps.
 
 }
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
@@ -535,43 +535,43 @@ La nature d'un Mage et la qualité de son Circuit Magique ne changeaient pas.
 [sha:846fefa71c4d2162e80367961bbc37d6feb344a4]{
 -- Page 21, Offset 17263.
 -- 青子に背を向けて、オレンジ色の魔術師は走りだした。
-　La Mage orange tourna le dos à Aoko et se mit à courir.
+  La Mage orange tourna le dos à Aoko et se mit à courir.
 
 }
 [sha:91cbaff8d0e70a266fd1aa758b5603397151d3ae]{
 -- Page 21, Offset 17264.
 -- <こ|・><こ|・>では勝ち目がないと直感し、旧校舎に逃げこんでいく。
-　Elle se réfugia dans le vieil établissement, pressentant qu'elle n'aurait aucune chance à l'extérieur.
+  Elle se réfugia dans le vieil établissement, pressentant qu'elle n'aurait aucune chance à l'extérieur.
 
 }
 [sha:d2675a022b5051d17e5bcf6f04e27978f77ecdce]{
 -- Page 21, Offset 17265.
 -- その背中を青子は狙わなかった。
-　Aoko ne lui tira pas dessus.
+  Aoko ne lui tira pas dessus.
 
 }
 [sha:6136f53c01a61ac42f862a574418f8aa251f22e0]{
 -- Page 21, Offset 17266.
 -- 情けからではなく、冷静に、この距離からでは仕損じると判断して。
-　Mais la clémence n'avait rien à voir dans sa décision. Elle avait simplement estimé calmement qu'à cette distance, elle la manquerait.
+  Mais la clémence n'avait rien à voir dans sa décision. Elle avait simplement estimé calmement qu'à cette distance, elle la manquerait.
 
 }
 [sha:760853096ea2bfcc4530e694fd6176d4d546841c]{
 -- Page 22, Offset 17267.
 -- 逃すまいと青子は身を乗り出し、はた、と思い立ったように足を止めた。
-　Aoko s'élança d'abord afin de la rattraper avant de s'arrêter, comme prise d'une idée soudaine.
+  Aoko s'élança d'abord afin de la rattraper avant de s'arrêter, comme prise d'une idée soudaine.
 
 }
 [sha:d8a8087d031e9153d858a81be3b2926cfece60aa]{
 -- Page 22, Offset 17268.
 -- ……言葉にするのは少し迷う。
-　...... Elle hésita un peu avant de s'exprimer.
+  ...... Elle hésita un peu avant de s'exprimer.
 
 }
 [sha:5d0c01a3e31ac5a109e0d81c6822cb2952012510]{
 -- Page 22, Offset 17269.
 -- 彼女は小さく息を呑んで、
-　Elle inspira en silence.
+  Elle inspira en silence.
 
 }
 [sha:904eed3e8a8ba2f5fa84c26098feb29b9ae5b438]{
@@ -583,18 +583,18 @@ La nature d'un Mage et la qualité de son Circuit Magique ne changeaient pas.
 [sha:c17e9317514afb33447a500a30e10bde94c2bd5b]{
 -- Page 22, Offset 17271.
 -- 大人びた声を恥じるように、そんな言葉を口にした。
-　dit-elle, embarrassée par sa voix d'adulte.
+  dit-elle, embarrassée par sa voix d'adulte.
 
 }
 [sha:f9412e1d973813889d4cdc467f530f2bc35b7a13]{
 -- Page 23, Offset 17272.
 -- 白い花が散っていく。
-　Les pétales de fleurs s'envolèrent.
+  Les pétales de fleurs s'envolèrent.
 
 }
 [sha:82a82b6483c656b19d4520a2dff232bc9b2f81c8]{
 -- Page 23, Offset 17273.
 -- 青子は振り返らず、長い髪をなびかせて橙子の後を追っていった。
-　Aoko poursuivit Tōko sans se retourner, ses longs cheveux flottant au vent.
+  Aoko poursuivit Tōko sans se retourner, ses longs cheveux flottant au vent.
 
 }

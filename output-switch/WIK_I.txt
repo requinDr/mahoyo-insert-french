@@ -7,19 +7,19 @@
 [sha:f8963ecaa24908384635e757628e5de6e8da15b7]{
 -- Page 0, Offset 22387. Glued. Mods: @x.
 -- 誰かさんと誰かさんが手伝ってくれないから。
-Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.
+ Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.
 
 }
 [sha:46f6b2c6fc43061ff859b8543b140e787ecaf33b]{
 -- Page 0, Offset 22388.
 -- それはともかくとして、基本的には居間にいたよ。
-　En dehors des préparatifs, je suis resté essentiellement dans le salon.
+  En dehors des préparatifs, je suis resté essentiellement dans le salon.
 
 }
 [sha:f4222fd85dfd05f312edecd13e81d8b93b55eb1f]{
 -- Page 0, Offset 22389. Mods: @k, @e.
 -- 買い出しとか庭の手入れもしたけど、あれは午後だったかな。
-　J'ai aussi fait des courses et entretenu le jardin, mais c'était dans l'après-midi.
+  J'ai aussi fait des courses et entretenu le jardin, mais c'était dans l'après-midi.
 
 }
 [sha:f18023107ff41becc488bd4c5be823dc96cc0259]{
@@ -37,13 +37,13 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
 [sha:3406af2e1b1012b32f4fba6a864354ecdf2dea01]{
 -- Page 1, Offset 22392.
 -- プロイの保管庫を含めて、西館には立ち入り禁止の部屋が多いから。
-　L'aile ouest contient le coffre des Ploy et beaucoup de chambres dont l'entrée est interdite.
+  L'aile ouest contient le coffre des Ploy et beaucoup de chambres dont l'entrée est interdite.
 
 }
 [sha:8c3b10ffead188901f315a9c7a6bf5f8f265ef47]{
 -- Page 1, Offset 22393.
 -- それからはずっと居間でゲストの様子を見ていたけど、誰がいつ、どのくらい席を立っていたかまでは把握していないわ」
-　Ensuite, j'ai veillé sur les invités dans le salon, mais je ne sais pas qui a quitté son siège, quand et combien de temps.」
+  Ensuite, j'ai veillé sur les invités dans le salon, mais je ne sais pas qui a quitté son siège, quand et combien de temps.」
 
 }
 [sha:a9ed5d8e33b36c17076415c4e4b6f8ceb10f9c34]{
@@ -55,19 +55,19 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
 [sha:a259b4b4c21de323f8d01b615461bc65e7307d64]{
 -- Page 2, Offset 22396.
 -- 午後イチに蒼崎、山城先生と合流して、午後二時過ぎに久遠寺邸に到着。
-　À une heure, j'ai rejoint Aozaki et M. Yamashiro, et nous sommes arrivés au manoir Kuonji à deux heures passées.
+  À une heure, j'ai rejoint Aozaki et M. Yamashiro, et nous sommes arrivés au manoir Kuonji à deux heures passées.
 
 }
 [sha:8f5c9fa58e27e8e555497851fc6bb746c1eab18f]{
 -- Page 2, Offset 22397.
 -- 客室で一度休憩をとったのが三時半から四時。
-　J'ai pris une pause dans ma chambre de trois heures et demie à quatre heures.
+  J'ai pris une pause dans ma chambre de trois heures et demie à quatre heures.
 
 }
 [sha:6bb2ce29b319061750440866d4fade75685eeb47]{
 -- Page 2, Offset 22398.
 -- 四時にロビーに神父さんたちがやってきたのを覚えています。
-　Je me souviens que le groupe du prêtre est arrivé dans le vestibule à quatre heures.
+  Je me souviens que le groupe du prêtre est arrivé dans le vestibule à quatre heures.
 
 }
 [sha:e867772f9a9ff2641afe9c9f9dbab77c2d80ae90]{
@@ -79,6 +79,6 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 3, Offset 22400.
 -- わたしは、
-　Je...
+  Je...
 
 }

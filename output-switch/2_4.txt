@@ -1,25 +1,25 @@
 [sha:13f52dfb5cfbe93e9b86ad9ed40ccba216589ad2]{
 -- Page 0, Offset 2672.
 -- そんな一連の出来事を観察しながら、鳶丸はつくづく草十郎に感心していた。
-　Alors qu'il observait cet enchaînement d'évènements, l'admiration de Tobimaru pour Sōjūrō atteignit des sommets.
+   Alors qu'il observait cet enchaînement d'évènements, l'admiration de Tobimaru pour Sōjūrō atteignit des sommets.
 
 }
 [sha:102d8656357af0676cedb8c5795dfeaa2b0a7f47]{
 -- Page 1, Offset 2673.
 -- 今の青子の態度は、相手を怒らせる事を前提としたものだ。しかし草十郎は怒りだす様子もなく、掴みどころのない……言ってるコトは本当に掴みようがなかったが……返答をして去っていった。
-　L'attitude d'Aoko était supposée faire sortir de ses gonds son adversaire. Mais Sōjūrō, sans montrer le moindre signe de colère, avait formulé une réponse avec laquelle on ne voyait pas... mais alors, vraiment pas... où il voulait en venir, puis était parti.
+  L'attitude d'Aoko était supposée faire sortir de ses gonds son adversaire. Mais Sōjūrō, sans montrer le moindre signe de colère, avait formulé une réponse avec laquelle on ne voyait pas... mais alors, vraiment pas... où il voulait en venir, puis était parti.
 
 }
 [sha:af068274abf626e8ed11f60bbbf2e11fce51dca4]{
 -- Page 1, Offset 2674.
 -- 草十郎とて少なからず不満に思っただろう。
-　Même Sōjūrō devait être assez mécontent.
+  Même Sōjūrō devait être assez mécontent.
 
 }
 [sha:42ece69c9f30c1bb715e5d4a23765af38682fd01]{
 -- Page 1, Offset 2675.
 -- それを表情にも仕草にも出さなかった事に、鳶丸は一流の芸を見た気がしたのである。
-　Tobimaru eut l'impression d'avoir assisté à une performance de premier ordre par le fait que rien de cela ne se trahissait sur son visage ou dans ses mouvements.
+  Tobimaru eut l'impression d'avoir assisté à une performance de premier ordre par le fait que rien de cela ne se trahissait sur son visage ou dans ses mouvements.
 
 }
 [sha:afaf6a810c5eb2e112bf0539d40c18ca00f98cf9]{
@@ -31,13 +31,13 @@
 [sha:0b5205501168ed0151b3b8c30e2f0e579515ff25]{
 -- Page 2, Offset 2677.
 -- 鳶丸は首をかしげて青子を見る。
-　Tobimaru, perplexe, regarda Aoko.
+  Tobimaru, perplexe, regarda Aoko.
 
 }
 [sha:af5282029d3ed85ad241ecef0f9fc053452bb198]{
 -- Page 2, Offset 2678.
 -- 青子は立ち尽くしたまま、じっと壁を睨んでいた。
-　Aoko, toujours immobile, regardait fixement le mur.
+  Aoko, toujours immobile, regardait fixement le mur.
 
 }
 [sha:8d8d9db8942cb2f695f768e0c5bb478fdee65f5b]{
@@ -49,7 +49,7 @@
 [sha:c7d8274f89427b99182c127d9dd484495252c82f]{
 -- Page 2, Offset 2680.
 -- 鳶丸の呼び掛けに、青子は応えない。
-　Aoko ne répondit pas à la voix de Tobimaru.
+  Aoko ne répondit pas à la voix de Tobimaru.
 
 }
 [sha:6aee86684f16ff52b2331a154b3e81f525410dea]{
@@ -61,13 +61,13 @@
 [sha:8b315c8c79fa7660b72b99447eab487f2e95c651]{
 -- Page 2, Offset 2682. Mods: @n.
 -- ……
-　......
+  ......
 
 }
 [sha:b844a02f4de981c1d7499228ebd36b5d3dabd2ab]{
 -- Page 2, Offset 2683. Glued.
 -- おい、聞いてんのかよ蒼崎青子！」
-Eh oh ! Tu m'entends, Aozaki Aoko ?!」
+ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 
 }
 [sha:6a864731c9ce212efe2c7b4a5b6eaf852cb7457c]{
@@ -79,13 +79,13 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:d0addf4f64557f42d4328687fdc58aae32ba9d98]{
 -- Page 3, Offset 2685.
 -- 怒鳴り声が生徒会室に響く。
-　Sa voix coléreuse retentit dans la salle du conseil.
+  Sa voix coléreuse retentit dans la salle du conseil.
 
 }
 [sha:2ff73aa8790a4bf6478a6b76d8a3c842ecd9e20e]{
 -- Page 3, Offset 2686.
 -- さきほどの鳶丸の熱弁以上に、廊下にまで通る美声だった。
-　Sa belle voix se propagea encore plus loin dans le couloir que le fervent discours de Tobimaru.
+  Sa belle voix se propagea encore plus loin dans le couloir que le fervent discours de Tobimaru.
 
 }
 [sha:9304e440b502751ebc554f2e66539e5b69e8aee6]{
@@ -97,7 +97,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:94af9cc037a83f89cdd384020931e46891ea172c]{
 -- Page 4, Offset 2688.
 -- よほど耳に響いたのか、それとも怒鳴られたら怒鳴り返す性分なのか、鳶丸も反射的に言い返す。
-　lui répondit impulsivement Tobimaru, soit parce que ses oreilles bourdonnaient encore, soit pour lui répondre du tac au tac.
+  lui répondit impulsivement Tobimaru, soit parce que ses oreilles bourdonnaient encore, soit pour lui répondre du tac au tac.
 
 }
 [sha:e9e3cee02fd1d9fd96fc9a5c181613dea7e04432]{
@@ -109,7 +109,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:33c213f74bef3bdc086d49a50d344f92b076bd3c]{
 -- Page 4, Offset 2690.
 -- ほら、目ぇ覚めたか？」
-　Ça y est, tu t'es réveillée ?」
+  Ça y est, tu t'es réveillée ?」
 
 }
 [sha:fbc80e33a55f0a4f04fceb2e700f21076d23adc1]{
@@ -151,7 +151,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:044452bdbe0123871c515afb3b0342e55a516366]{
 -- Page 6, Offset 2697.
 -- その論からいくと、彼女にとって恋人同士とは意味のない会話をするものらしい。
-　Si on suivait son raisonnement, pour elle, un couple désignait deux personnes aux conversations vides de sens.
+  Si on suivait son raisonnement, pour elle, un couple désignait deux personnes aux conversations vides de sens.
 
 }
 [sha:9f8d2d746680ae90ac3a61ebcb7e04313c03b5ec]{
@@ -163,7 +163,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:6439d7ea23c1c5dbc02f9de54daaafdc4793e9cf]{
 -- Page 7, Offset 2699.
 -- いつになくきついじゃねえか、蒼崎」
-　Tu es inhabituellement sévère, Aozaki.」
+  Tu es inhabituellement sévère, Aozaki.」
 
 }
 [sha:a437319317f57c51d61c82180d3622c7230ba10a]{
@@ -193,13 +193,13 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:4b9d1e5ad81077d26ffbdac6752e7bb90d803200]{
 -- Page 8, Offset 2704.
 -- 鳶丸の言うあの時というのは一つしかない。
-　Il n'y avait qu'une seule “fois” dont pouvait vouloir parler Tobimaru.
+  Il n'y avait qu'une seule “fois” dont pouvait vouloir parler Tobimaru.
 
 }
 [sha:f333e33691f3d031e8c16c319d8d7a25d82b56ff]{
 -- Page 8, Offset 2705.
 -- 今年の夏に起きた、生徒会室イン武道館事件の事である。
-　Cela se rapportait à l'incident ayant eu lieu dans la salle du conseil au cours de l'été.
+  Cela se rapportait à l'incident ayant eu lieu dans la salle du conseil au cours de l'été.
 
 }
 [sha:b76ebc48e117c3d047b87955eb88274e5c3618c6]{
@@ -211,19 +211,19 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:f6209cb07d152f30f9b46c4a4e7adaa1dedb5d44]{
 -- Page 9, Offset 2707.
 -- そんなどうでもいい事に容量を使っちゃもったいないわよ？　ただでさえ脳の覚醒部分が少ないのに」
-　Ce serait du gâchis d'utiliser de la mémoire pour quelque chose d'aussi trivial. Déjà que le pourcentage d'utilisation des capacités du cerveau est minuscule.」
+  Ce serait du gâchis d'utiliser de la mémoire pour quelque chose d'aussi trivial. Déjà que le pourcentage d'utilisation des capacités du cerveau est minuscule.」
 
 }
 [sha:faad3310c497867657923825369e3405bc8b07fa]{
 -- Page 9, Offset 2708.
 -- 会話が走ってきたおかげか、青子から先ほどまでの<殺伐|さつばつ>さが薄れつつあった。鋭い視線も、時たまにしか見せない<涼|すず>しげなものになる。
-　Peut-être était-ce grâce à leur conversation, mais la férocité d'Aoko s'estompait petit à petit. Son regard aiguisé rayonnait comme il le faisait rarement.
+  Peut-être était-ce grâce à leur conversation, mais la férocité d'Aoko s'estompait petit à petit. Son regard aiguisé rayonnait comme il le faisait rarement.
 
 }
 [sha:71a5869390c78bf80cc60ef4375e2548fb299665]{
 -- Page 9, Offset 2709.
 -- 学校内で彼女のこういった顔を見られるのは、今のところ槻司鳶丸だけだろう。
-　Jusque-là, Tsukiji Tobimaru était sûrement le seul à l'école à avoir vu ce visage.
+  Jusque-là, Tsukiji Tobimaru était sûrement le seul à l'école à avoir vu ce visage.
 
 }
 [sha:a042c33de3241208598d31e42d68d17b7408984c]{
@@ -235,19 +235,19 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:03dc4aeceabd268308062af89f9f9feca75ff2d3]{
 -- Page 10, Offset 2711.
 -- ……ただ、さっき草の字が馬鹿な事いいやがるからつい思い出しちまったんだよ。くそ、考えてみりゃあ場所まで一緒じゃねえか！」
-　...... Mais à cause des bêtises que m'a dites le Petit Sō, je m'en suis souvenu. Maintenant que j'y pense, ça s'est même passé ici !」
+  ...... Mais à cause des bêtises que m'a dites le Petit Sō, je m'en suis souvenu. Maintenant que j'y pense, ça s'est même passé ici !」
 
 }
 [sha:6c53f3812b205319b3d213cc5041fa0ca41d62f7]{
 -- Page 10, Offset 2712.
 -- などと悪態をつきながらも、まんざらでもなさげに過去を懐かしむ鳶丸。
-　Tobimaru ressassa le passé non sans mélancolie, tout en geignant.
+  Tobimaru ressassa le passé non sans mélancolie, tout en geignant.
 
 }
 [sha:4eae61a6c5cfd7198db40fa314964ed6bed3d931]{
 -- Page 11, Offset 2713.
 -- 一方、青子は顔をしかめる。
-　Quant à elle, Aoko affichait un air renfrogné.
+  Quant à elle, Aoko affichait un air renfrogné.
 
 }
 [sha:35bb4f8b9f654ab2047302b9849833912bcdadb2]{
@@ -259,7 +259,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:920a8c7ad0dba58d9f3867858f78ce20e56ae877]{
 -- Page 11, Offset 2715.
 -- あの話、彼にしたの……？」
-　Tu lui as parlé de ça......?」
+  Tu lui as parlé de ça......?」
 
 }
 [sha:0af5b8e858e824373c90aa23ad452df0ba3a33b8]{
@@ -271,25 +271,25 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:c10d87d8bc38829e2d430a79a1e871c42faf220a]{
 -- Page 11, Offset 2717.
 -- “なんで会長になんか立候補したのよ。アンタは副会長って顔でしょ、どう見ても”
-　à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,
+ à partir du moment où tu m'as provoqué en disant : “Pourquoi t'es-tu porté candidat pour devenir président ? Peu importe la façon dont on te regarde, tu as une tête de vice-président”,
 
 }
 [sha:a456797111e690df97b11d819a74c7c9e5bc1c37]{
 -- Page 11, Offset 2718.
 -- なんて挑発されて、生涯最高の突きをしたところまでな」
-　jusqu'au coup de l'apogée de ma carrière.」
+  jusqu'au coup de l'apogée de ma carrière.」
 
 }
 [sha:3069602ce705f38abcce94fc66810b02cfd83b34]{
 -- Page 11, Offset 2719.
 -- 何故か、ほう、と青子は息をついた。その先を知られなくて良かった、という風に。
-　On ne sut pourquoi, Aoko poussa un soupir. Comme si elle était contente qu'il ne connaisse pas la suite.
+  On ne sut pourquoi, Aoko poussa un soupir. Comme si elle était contente qu'il ne connaisse pas la suite.
 
 }
 [sha:00b91338557f9ae417e82710ca6afcb7859741e7]{
 -- Page 11, Offset 2720.
 -- 何故だかは鳶丸にも青子自身にも分からない。
-　Ni Tobimaru ni Aoko ne savaient vraiment pourquoi.
+  Ni Tobimaru ni Aoko ne savaient vraiment pourquoi.
 
 }
 [sha:abced2256bce167ea61c85a15dda6d38d444307f]{
@@ -301,13 +301,13 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:2702f68c2079c662a41be64e00c305ff3fed4b3b]{
 -- Page 12, Offset 2722.
 -- 思わず体が反応しちゃったものね。
-　Mon corps a réagi sans que je m'en rende compte.
+  Mon corps a réagi sans que je m'en rende compte.
 
 }
 [sha:10b1782270e522b41dda8c0f1d5e57dc42ac4dbd]{
 -- Page 12, Offset 2723.
 -- ところで、私そんなコト言ったっけ？」
-　Au fait, j'ai vraiment dit quelque chose comme ça ?」
+  Au fait, j'ai vraiment dit quelque chose comme ça ?」
 
 }
 [sha:e9688647f6da1584ca23698c16aed5a935b11069]{
@@ -319,7 +319,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:86726540bb303ff96df0be2c41b96566835a95f6]{
 -- Page 12, Offset 2725.
 -- 以来、鳶丸は選挙戦で負けた相手に副会長として使われているのであった。
-　Depuis, Tobimaru était exploité en tant que vice-président par la personne contre qui il avait perdu aux élections.
+  Depuis, Tobimaru était exploité en tant que vice-président par la personne contre qui il avait perdu aux élections.
 
 }
 [sha:838fff9927337591ef604dd1d3e7b5188d169c9b]{
@@ -337,7 +337,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:923f4daaa0e4c32729ddfa42ab4263ce9d18236e]{
 -- Page 14, Offset 2728.
 -- ま、会長職に専心するあまり、気が付いたら優等生になってたアンタも見たかったけど？」
-　Enfin, j'aurais aussi bien aimé te voir devenir un élève modèle à force de te concentrer sur le poste de président.」
+  Enfin, j'aurais aussi bien aimé te voir devenir un élève modèle à force de te concentrer sur le poste de président.」
 
 }
 [sha:5ba07c672af618c9d857f4f52dff1fffca128f92]{
@@ -349,19 +349,19 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:f3cbfd420baddb711b5f424bbd54acd9ac15c469]{
 -- Page 15, Offset 2730.
 -- ネコかぶるのはおまえだけで十分だ」
-　Une seule hypocrite comme toi suffit.」
+  Une seule hypocrite comme toi suffit.」
 
 }
 [sha:f58fcd86a1f4d9c2e37729807708b469af1a4284]{
 -- Page 15, Offset 2731.
 -- しっしっ、と青子に手を振る鳶丸。
-　Tobimaru agita la main vers Aoko pour qu'elle parte.
+  Tobimaru agita la main vers Aoko pour qu'elle parte.
 
 }
 [sha:baf5718b9d61e86b63c5e765f9d53d5215d8d0f4]{
 -- Page 15, Offset 2732.
 -- 男女にあるまじき戦いを繰り広げた者特有の、実にさっぱりした<罵|ののし>り合いだった。
-　C'était un échange de médisances vraiment détendu, propre à ceux ayant combattu dans une bataille indigne entre homme et femme.
+  C'était un échange de médisances vraiment détendu, propre à ceux ayant combattu dans une bataille indigne entre homme et femme.
 
 }
 [sha:6696cc34d28e1d6f7dd6e16506546fa8783cf435]{
@@ -373,7 +373,7 @@ Eh oh ! Tu m'entends, Aozaki Aoko ?!」
 [sha:8f435df9b12576469fc04a55ba33827eb7b43ff4]{
 -- Page 16, Offset 2734. Glued.
 -- なんでそんな話したのよ」
-Pourquoi tu lui as parlé de ça ?」
+ Pourquoi tu lui as parlé de ça ?」
 
 }
 [sha:0adf82e84126888bc42bc95173e4a14ad5202da8]{
@@ -397,25 +397,25 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:282155470e604b175aff4dc5aaa0b7e9b58ecc10]{
 -- Page 16, Offset 2738.
 -- いや、あいつが馬鹿なこと口走ったからなんだが―――」
-　Pour rien, c'est juste qu'il a dit quelque chose de stupide―――」
+  Pour rien, c'est juste qu'il a dit quelque chose de stupide―――」
 
 }
 [sha:02d5332a59db8651ae3c60a858694b2e0b11576d]{
 -- Page 16, Offset 2739.
 -- その先は言えない。
-　Il ne pouvait rien dire de plus.
+  Il ne pouvait rien dire de plus.
 
 }
 [sha:96ada88ec1b8b3677da6c56b025b3fa1834796ca]{
 -- Page 16, Offset 2740.
 -- 静希草十郎が蒼崎青子に惚れている、という事実は口に出来ない事だ。<漢|おとこ>としての暗黙の了解である。
-　Il ne pouvait pas avouer que Shizuki Sōjūrō était amoureux d'Aozaki Aoko. C'était un accord tacite entre hommes.
+  Il ne pouvait pas avouer que Shizuki Sōjūrō était amoureux d'Aozaki Aoko. C'était un accord tacite entre hommes.
 
 }
 [sha:9ceada37ffdc167e63479520961a1eceec6105a3]{
 -- Page 16, Offset 2741.
 -- たとえ、それが彼の勘違いでもだ。
-　Même si c'était une méprise de sa part.
+  Même si c'était une méprise de sa part.
 
 }
 [sha:73b3ff9156a46e4e75a36d002245d151effa05fc]{
@@ -427,7 +427,7 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:3f6d0926c11f6af358604441a3f0ccbd0f1db0a6]{
 -- Page 17, Offset 2743.
 -- おまえ、草十郎に恨みでもあんの？」
-　Est-ce que tu éprouves de la rancœur envers Sōjūrō ?」
+  Est-ce que tu éprouves de la rancœur envers Sōjūrō ?」
 
 }
 [sha:b1343d5cfe06c66eb93cc5cd7a7916e532a3bf04]{
@@ -439,13 +439,13 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:99595baa0b837de7c81e98e6c6711997c0c38ce7]{
 -- Page 17, Offset 2745.
 -- ああ、おまえはお姫さまっていうより女王さまだな、と言いかけて止める鳶丸。
-　Ouais, tu es plus une reine qu'une princesse, se retint de dire Tobimaru.
+  Ouais, tu es plus une reine qu'une princesse, se retint de dire Tobimaru.
 
 }
 [sha:07244f6d8de0c7d14ffe4c36a7359ab73b833f9b]{
 -- Page 17, Offset 2746.
 -- 彼もこの二年で、十分に蒼崎青子を学習しているのだった。
-　Il avait bien étudié Aozaki Aoko au cours des deux dernières années écoulées.
+  Il avait bien étudié Aozaki Aoko au cours des deux dernières années écoulées.
 
 }
 [sha:60a39f5b1657b08ad9ba76112dd3a42c027bffd2]{
@@ -457,7 +457,7 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:c7b11f7c12086d026a393a32c7512167e8dc1b90]{
 -- Page 18, Offset 2748. Glued. Mods: @x.
 -- たしかに調子の狂うヤツだが、あいつほどいいヤツはいねえだろうに」
-　D'accord, il te rend fou, mais il n'y a pas plus chic type.」
+  D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -487,7 +487,7 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:24249abb120f76d4c39bf79deb842116152bfd00]{
 -- Page 19, Offset 2753.
 -- うん、と気を取り直して気軽に言う青子。
-　dit Aoko de façon enjouée en retrouvant son aplomb.
+  dit Aoko de façon enjouée en retrouvant son aplomb.
 
 }
 [sha:5b24478522c4d9e3853c2425ff1e3eb645c08cd8]{
@@ -499,13 +499,13 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:08687e3bf8773aca0e71ddd35dd58e92636dad9c]{
 -- Page 19, Offset 2755.
 -- 鳶丸にはその結論がさっぱりである。
-　Tobimaru ne comprenait pas du tout ce raisonnement.
+  Tobimaru ne comprenait pas du tout ce raisonnement.
 
 }
 [sha:4ecd5fcb76ed430439697d6375b48c0725030184]{
 -- Page 20, Offset 2756.
 -- 蒼崎青子のこういう思考の飛び方に慣れてはいる鳶丸だが、理由もなく嫌われる草十郎があんまりと言えばあんまりで、脳裏にはあの人畜無害な顔が浮かんでしまい、つい、
-　Tobimaru était habitué à sa manie de sauter du coq à l'âne, mais il pensait qu'il était injuste qu'elle déteste Sōjūrō sans raison. Le visage du garçon inoffensif lui traversa l'esprit, et sans réfléchir,
+  Tobimaru était habitué à sa manie de sauter du coq à l'âne, mais il pensait qu'il était injuste qu'elle déteste Sōjūrō sans raison. Le visage du garçon inoffensif lui traversa l'esprit, et sans réfléchir,
 
 }
 [sha:24f2b632904a13584b6ad63edddf2840f09bfcd0]{
@@ -517,7 +517,7 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:92974334fff88d645e0a3a34941fdd7306785949]{
 -- Page 20, Offset 2758.
 -- 二分足らずで、言うべきではないという誓いを破っていた。
-　il rompit son serment de garder le silence au bout de deux minutes seulement.
+  il rompit son serment de garder le silence au bout de deux minutes seulement.
 
 }
 [sha:79fed0f5d0bd358964c35e005fa377a5ac7c20b8]{
@@ -529,13 +529,13 @@ Pourquoi tu lui as parlé de ça ?」
 [sha:f883098ad4ecf7e596c172f2051d6f09cfa718fb]{
 -- Page 21, Offset 2760.
 -- しまった、と口を閉ざすがもう遅い。
-　“Zut”, dit-il en fermant la bouche, mais il était trop tard.
+  “Zut”, dit-il en fermant la bouche, mais il était trop tard.
 
 }
 [sha:30a96a4d68c701a34472571eee9feaac3acbb7e3]{
 -- Page 21, Offset 2761.
 -- そして閉まったものは仕方がない。
-　Et puis, ce qui était fait était fait.
+  Et puis, ce qui était fait était fait.
 
 }
 [sha:bb5e8a95b931b28c46d25edff485cef1c9980d43]{
@@ -553,19 +553,19 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:87b6d01309cc22a2fd8fe9f38a9efd91d6f80b71]{
 -- Page 22, Offset 2764.
 -- けどこればかりはね。彼が私と仲良くしたいって言っても、私は嫌いなんだから仕方ない」
-　Mais même s'il veut bien s'entendre avec moi, j'y peux rien si je le déteste.」
+  Mais même s'il veut bien s'entendre avec moi, j'y peux rien si je le déteste.」
 
 }
 [sha:005549da4a0ba8c12f3e0c31f684c8bbac19035b]{
 -- Page 22, Offset 2765.
 -- ドライと言えばドライ。
-　Elle était vraiment de nature pragmatique.
+  Elle était vraiment de nature pragmatique.
 
 }
 [sha:d33b847ae4162ef5b001d450ea9e8cfff439e31d]{
 -- Page 22, Offset 2766.
 -- スマートと言えばスマートな青子の感想に、柄にもなく憤慨してしまうのだった。
-　Devant la pensée somme toute pertinente d'Aoko, il se sentit étrangement indigné.
+  Devant la pensée somme toute pertinente d'Aoko, il se sentit étrangement indigné.
 
 }
 [sha:dab67da18221bc907e5f2281d15c7e5f79ae4b74]{
@@ -577,37 +577,37 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:060f13663c3b377f19e6babd83c770b593f0a2cd]{
 -- Page 23, Offset 2768.
 -- そういう好き嫌いじゃなくて、草の字は本気でおまえに惚れてるって言ったんだよ！」
-　Ce n'est pas ce genre d'affection, je dis qu'il en pince sérieusement pour toi !」
+  Ce n'est pas ce genre d'affection, je dis qu'il en pince sérieusement pour toi !」
 
 }
 [sha:aa2be1a6ea38fb7bda1376bb467b17ca767ae8d1]{
 -- Page 23, Offset 2769.
 -- 真顔で怒鳴る鳶丸。
-　cria Tobimaru, le visage sérieux,
+  cria Tobimaru, le visage sérieux,
 
 }
 [sha:e96d12c560dde52b39327e2e62932ba1c5087684]{
 -- Page 23, Offset 2770.
 -- それに、青子はぽかんとした顔を向けていた。
-　tandis qu'Aoko lui montrait une expression abasourdie.
+  tandis qu'Aoko lui montrait une expression abasourdie.
 
 }
 [sha:2451b48380160764dd35105ed0beb928f7861dfa]{
 -- Page 23, Offset 2771.
 -- まっさらなその顔は、何時間か前に財布を落とした、と気付いた放心に似ている。
-　Ce visage inhabituel ressemblait à l'air ahuri que l'on aurait en se rendant compte qu'on avait perdu son portefeuille des heures auparavant.
+  Ce visage inhabituel ressemblait à l'air ahuri que l'on aurait en se rendant compte qu'on avait perdu son portefeuille des heures auparavant.
 
 }
 [sha:d11ed930f060b770d705d003004b4fc1d510e2e9]{
 -- Page 23, Offset 2772.
 -- なんでこんな<現実|コト>になってるのか、と我を疑う一瞬の間。
-　L'instant où l'on se demandait pourquoi quelque chose comme ça nous arrivait.
+  L'instant où l'on se demandait pourquoi quelque chose comme ça nous arrivait.
 
 }
 [sha:7e2f1f9422d30dba860c1367f369049dd0e6e880]{
 -- Page 23, Offset 2773.
 -- それは本当に一瞬で、
-　Ça ne dura effectivement qu'un instant, puis...
+  Ça ne dura effectivement qu'un instant, puis...
 
 }
 [sha:e393758f6a2d0f2db2a6d9f32be74ce0d58c343d]{
@@ -619,13 +619,13 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:3483de869f48eddb1c1cb55fe25497bfcf468f93]{
 -- Page 24, Offset 2775.
 -- 何でもないコトのように、平然と青子は聞き返した。
-　répondit calmement Aoko comme si de rien n'était.
+  répondit calmement Aoko comme si de rien n'était.
 
 }
 [sha:acd1edeb5fa0c3f76284c20f108bce6c80be2bc5]{
 -- Page 24, Offset 2776.
 -- それが、一体、私にどんな意味があるのかと。
-　Comme si elle demandait quelle importance cela avait pour elle.
+  Comme si elle demandait quelle importance cela avait pour elle.
 
 }
 [sha:70115b8986465f2eba34735247a1b405cab2c1fc]{
@@ -637,7 +637,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:6c7d7a429d5bf3a04e48edea5065dda4995764a7]{
 -- Page 25, Offset 2778.
 -- こうなったら漢の約束もあったもんじゃない、と開き直る鳶丸。
-　Maintenant qu'on en est là, c'est comme si cette promesse d'hommes n'avait jamais eu lieu d'être, pensa sérieusement Tobimaru.
+  Maintenant qu'on en est là, c'est comme si cette promesse d'hommes n'avait jamais eu lieu d'être, pensa sérieusement Tobimaru.
 
 }
 [sha:60e1491f4ee8b26bccabba516899ff4433619bab]{
@@ -649,7 +649,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:101445e115d6dba3a305a8f760dda57feb603edd]{
 -- Page 25, Offset 2780.
 -- それをあっさりと、心底からの感想で彼女は切り捨てた。
-　lâcha-t-elle sèchement en toute sincérité.
+  lâcha-t-elle sèchement en toute sincérité.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -661,7 +661,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:91f27b8223c0079522362ab339f75dd9a88b321c]{
 -- Page 26, Offset 2782.
 -- とりあえず、学校中のいまだ健気に片思いをしている男子生徒のため、この悪鬼に相応しい呼称はないかと模索する鳶丸だった。
-　À ce moment, Tobimaru pensa, pour tous les garçons de l'école qui lui vouaient un amour courageux non partagé, qu'il n'y avait aucun surnom approprié pour ce monstre.
+  À ce moment, Tobimaru pensa, pour tous les garçons de l'école qui lui vouaient un amour courageux non partagé, qu'il n'y avait aucun surnom approprié pour ce monstre.
 
 }
 [sha:07bd85c9c20ae3b318340eb2bc4b55bc4f60c13f]{
@@ -673,25 +673,25 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:17e8d35941ca00920bdeedebca7b58117aa482aa]{
 -- Page 27, Offset 2784.
 -- へぇー、柄にもなく友達思いじゃない殿下？
-　Hmm, Son Altesse se soucierait-il pour une fois d'un ami ?
+  Hmm, Son Altesse se soucierait-il pour une fois d'un ami ?
 
 }
 [sha:496054b25ea21e0cf263111b81eefed2797be683]{
 -- Page 27, Offset 2785.
 -- ってコトは聞くも無惨、語るも無情っていう私の噂話、教えてあげたんでしょう？」
-　Alors, tu lui as aussi raconté toutes les rumeurs ignobles qui courent sur mon compte ?」
+  Alors, tu lui as aussi raconté toutes les rumeurs ignobles qui courent sur mon compte ?」
 
 }
 [sha:5a7d918031dbb8518fc03343d5445513a1b9cbd2]{
 -- Page 27, Offset 2786.
 -- ふふ、と妖しい笑みを浮かべる青子。
-　“Fufu”, ricana Aoko en affichant un sourire suspect.
+  “Fufu”, ricana Aoko en affichant un sourire suspect.
 
 }
 [sha:e9acfb539c76b3f3c352f29563ca2f0a6e512283]{
 -- Page 27, Offset 2787.
 -- 鳶丸はこの相手に色恋ざたの話をした事を、どっかにいる神さまに懺悔した。
-　Tobimaru se mit à se repentir auprès de Dieu, où qu'il soit, pour avoir parlé d'histoires d'amour.
+  Tobimaru se mit à se repentir auprès de Dieu, où qu'il soit, pour avoir parlé d'histoires d'amour.
 
 }
 [sha:55d122297f3863e074c10b1ee336c26825edae78]{
@@ -703,7 +703,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:acc1e5dc36d7a9b12d1339c4d4058416900040a5]{
 -- Page 28, Offset 2789.
 -- 笑顔のくせに殺気を放つのは止めてほしい。
-　Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en souriant.
+  Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en souriant.
 
 }
 [sha:86fcb07b57d6cc57d6cca1c3d4e3060b00021ceb]{
@@ -715,7 +715,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:3ee1d8b954eb0c6646a76bd90d1f3c2f2c2477d4]{
 -- Page 28, Offset 2791.
 -- 遠慮がちな鳶丸の返答を聞いて、満足げに頷く青子。
-　Après avoir entendu la réponse timide de Tobimaru, Aoko acquiesça, satisfaite.
+  Après avoir entendu la réponse timide de Tobimaru, Aoko acquiesça, satisfaite.
 
 }
 [sha:5f8830f51d7871f57f92a8a96b0126cd531d15ea]{
@@ -727,19 +727,19 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:518de83c4dff9c6a2231cbf9c326bd1019ea24b2]{
 -- Page 29, Offset 2793.
 -- それは、語尾にハートマークでもつきそうな、ゾッとするほど甘い笑顔だった。
-　dit-elle en lui montrant un sourire doux et effrayant, comme si elle ajoutait un cœur à la fin de ses phrases.
+  dit-elle en lui montrant un sourire doux et effrayant, comme si elle ajoutait un cœur à la fin de ses phrases.
 
 }
 [sha:dd780220210293134768fb149d05b6954a5b5f2b]{
 -- Page 30, Offset 2794.
 -- 怒りにしろ喜びにしろ、感情がハイになると蒼崎は可愛らしい口調になる……
-　Qu'elle soit en colère ou heureuse, lorsque ses émotions devenaient positives, elle prenait un ton charmant......
+  Qu'elle soit en colère ou heureuse, lorsque ses émotions devenaient positives, elle prenait un ton charmant......
 
 }
 [sha:d8321ad975bb1da6a32ef1547f215ca534c2c6cd]{
 -- Page 30, Offset 2795.
 -- そんな新事実を発見した鳶丸だが、だからといってこの場がどうにかなる訳でもない。
-　Tobimaru découvrait ce nouveau fait, mais ce n'était pas comme si ça allait changer quelque chose à la situation.
+  Tobimaru découvrait ce nouveau fait, mais ce n'était pas comme si ça allait changer quelque chose à la situation.
 
 }
 [sha:a86f28c853553664d47ca596781f8534378d222c]{
@@ -751,19 +751,19 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:158e7e44ff3cca84767551869d1b1ddcaec68ea0]{
 -- Page 31, Offset 2797.
 -- ……けどよ蒼崎。本気で草十郎が嫌いなのか？」
-　...... Mais sinon, Aozaki, tu détestes vraiment Sōjūrō ?」
+  ...... Mais sinon, Aozaki, tu détestes vraiment Sōjūrō ?」
 
 }
 [sha:6b19fcc5c5c7e1bfbf4fad35b651aeb27ef67066]{
 -- Page 31, Offset 2798.
 -- もうこの話題は避けるべきだと分かっていても<果敢|かかん>に挑む鳶丸。
-　Tobimaru savait qu'il ne devait plus en parler, mais il la défia avec détermination.
+  Tobimaru savait qu'il ne devait plus en parler, mais il la défia avec détermination.
 
 }
 [sha:92d05d5f9a552472da9e9bed975df7552c101581]{
 -- Page 31, Offset 2799.
 -- 男の友情というものは、時に真珠より美しい。
-　L'amitié entre hommes pouvait parfois être plus belle que les perles.
+  L'amitié entre hommes pouvait parfois être plus belle que les perles.
 
 }
 [sha:3199d6d4c8095f23d43e25b8cf1a5a7f7ae22c0d]{
@@ -775,19 +775,19 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:2333396f37472c747a2639b318a7088dc013bb90]{
 -- Page 32, Offset 2801.
 -- だからダメなのね、きっと」
-　Donc c'est pas bien, sûrement.」
+  Donc c'est pas bien, sûrement.」
 
 }
 [sha:65c1f0a0639666225fea90498d5095279a2e6b7c]{
 -- Page 32, Offset 2802.
 -- 鳶丸の顔を立てていくらか思考実験したのか、青子はしばし悩んでからそんな返答をする。
-　Aoko rajouta ce commentaire après avoir réfléchi quelques instants et effectué quelques simulations en pensée, peut-être pour sauver la face devant Tobimaru.
+  Aoko rajouta ce commentaire après avoir réfléchi quelques instants et effectué quelques simulations en pensée, peut-être pour sauver la face devant Tobimaru.
 
 }
 [sha:8abd8a22cce038b5c33260490e932df91eca301d]{
 -- Page 32, Offset 2803.
 -- 即答ではなく熟考しての答えなら、鳶丸も文句を言う筋合いはない。
-　Puisque c'était une question à laquelle elle avait réfléchi avec considération et non pas une réponse directe, Tobimaru n'avait rien à y redire.
+  Puisque c'était une question à laquelle elle avait réfléchi avec considération et non pas une réponse directe, Tobimaru n'avait rien à y redire.
 
 }
 [sha:4da25b905ee81b39d28d606956b50a6b83c2762a]{
@@ -799,25 +799,25 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:5fdc536aca53eaa498de3e43cbe0f5643b4de372]{
 -- Page 33, Offset 2805.
 -- なにしろきれいさっぱり感情論だ。お互い理由もなく好きと嫌いじゃ手を貸す隙間もねえワケだし」
-　Après tout, c'est un point de vue qui ne repose que sur des sentiments. Il est impossible de vous aider si vous ressentez ces sentiments sans en connaître la raison.」
+  Après tout, c'est un point de vue qui ne repose que sur des sentiments. Il est impossible de vous aider si vous ressentez ces sentiments sans en connaître la raison.」
 
 }
 [sha:2b36100a73411d7829f31cf2c8155a971514e724]{
 -- Page 33, Offset 2806.
 -- これでこの話は終わりか、と草十郎に謝りながら天をあおぐ鳶丸。
-　Ainsi, l'histoire s'arrête là, pensa Tobimaru tout en regardant vers le ciel et en s'excusant auprès de Sōjūrō.
+  Ainsi, l'histoire s'arrête là, pensa Tobimaru tout en regardant vers le ciel et en s'excusant auprès de Sōjūrō.
 
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 33, Offset 2807.
 -- しかし。
-　Pourtant,
+  Pourtant,
 
 }
 [sha:235ddd2396f2d974d5407bff3097f9f3453ceccb]{
 -- Page 33, Offset 2808.
 -- その降参を告げる一言が、蒼崎青子の興味を引いたらしい。
-　ces mots de reddition semblaient avoir capté l'attention d'Aozaki Aoko.
+  ces mots de reddition semblaient avoir capté l'attention d'Aozaki Aoko.
 
 }
 [sha:ddca816651aca96ded9cfc36305753aed4c9be44]{
@@ -829,13 +829,13 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:683476f155a263ef44125f1a5abe712aeda45acc]{
 -- Page 34, Offset 2810.
 -- 上機嫌ぽかった口調が変わる。
-　Son ton joyeux s'était brusquement transformé.
+  Son ton joyeux s'était brusquement transformé.
 
 }
 [sha:990f4c43ebc7c61391e4848cd77ed01a93c24bbe]{
 -- Page 34, Offset 2811.
 -- それに気付かず、軽い気持ちで鳶丸は答えた。
-　Sans se rendre compte de ce changement d'humeur, Tobimaru répondit avec légèreté.
+  Sans se rendre compte de ce changement d'humeur, Tobimaru répondit avec légèreté.
 
 }
 [sha:72d5c75bd39835fde5896a19ba9c27a2b203c89c]{
@@ -847,7 +847,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:8773055dd24db60193fa32a3d152230f857a588c]{
 -- Page 34, Offset 2813.
 -- 鳶丸は“青子の外見に惹かれた”なんて草十郎の言葉を信じていないので、そこはあっさりと切り離す。
-　Comme Tobimaru n'avait pas cru Sōjūrō quand il avait dit être tombé amoureux de son apparence physique, il passa ce détail sous silence.
+  Comme Tobimaru n'avait pas cru Sōjūrō quand il avait dit être tombé amoureux de son apparence physique, il passa ce détail sous silence.
 
 }
 [sha:78a07365187a75588aef31a11fc34126feaf43b9]{
@@ -865,25 +865,25 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:540d72306858e3d070499ad7573207660997d7cd]{
 -- Page 35, Offset 2816.
 -- はっきりしてんのは他の野郎どもと違って、噂を聞いても手を引く素振りなんざ微塵もなかったって事だけ―――」
-　Ce qui est sûr, c'est que contrairement aux autres gars, il n'a pas dit quoi que ce soit qui laisserait penser qu'il abandonnerait après avoir entendu ces rumeurs―――」
+  Ce qui est sûr, c'est que contrairement aux autres gars, il n'a pas dit quoi que ce soit qui laisserait penser qu'il abandonnerait après avoir entendu ces rumeurs―――」
 
 }
 [sha:b63874bd45265293108cc00a8a0f864928dfa1a9]{
 -- Page 36, Offset 2817.
 -- そこまで調子よく語って、鳶丸は青子の変化に気が付いた。
-　Après avoir raconté tous ces détails, Tobimaru remarqua que le comportement d'Aoko avait changé.
+  Après avoir raconté tous ces détails, Tobimaru remarqua que le comportement d'Aoko avait changé.
 
 }
 [sha:dde02aec89d47aab1a61753d6efef9166deb4bab]{
 -- Page 36, Offset 2818.
 -- 彼女は壁を睨んでいる。
-　Elle fixait le mur.
+  Elle fixait le mur.
 
 }
 [sha:304e9959fc6c6585c8b1f1e771d4b5f313f1e6e1]{
 -- Page 36, Offset 2819.
 -- その、仇を見るような視線は無言のまま何分か続けられた。
-　Comme si elle scrutait un ennemi, elle resta silencieuse pendant quelques minutes.
+  Comme si elle scrutait un ennemi, elle resta silencieuse pendant quelques minutes.
 
 }
 [sha:349145832ce5da6c215816dc2d37b76e3607f816]{
@@ -895,19 +895,19 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:262a0376a5d057405ba1c819909e8af04a9a2b94]{
 -- Page 38, Offset 2821.
 -- ぎり、と歯を噛む音がする。
-　Le bruit de dents qui grinçaient se fit entendre dans la pièce.
+  Le bruit de dents qui grinçaient se fit entendre dans la pièce.
 
 }
 [sha:e738b0e21bed4120bcbf7b9eb88fe36f8608c872]{
 -- Page 38, Offset 2822.
 -- 反感ここに極まり、あまりの不機嫌さに目の前にいる鳶丸が視界に入っていないようだ。
-　Son animosité atteignit là son paroxysme, et aveuglée par sa mauvaise humeur, elle semblait ne même plus voir Tobimaru.
+  Son animosité atteignit là son paroxysme, et aveuglée par sa mauvaise humeur, elle semblait ne même plus voir Tobimaru.
 
 }
 [sha:cbe6dca89b02352cbf4a76b6c1990aac1b8034fc]{
 -- Page 38, Offset 2823.
 -- なんか、また絶望的に草十郎に迷惑かける事を言っちまったな、と鳶丸は天をあおいだ。
-　On dirait que j'ai dit quelque chose qui va encore attirer des ennuis à Sōjūrō, pensa Tobimaru, avant de tourner son regard vers le ciel.
+  On dirait que j'ai dit quelque chose qui va encore attirer des ennuis à Sōjūrō, pensa Tobimaru, avant de tourner son regard vers le ciel.
 
 }
 [sha:f92de0135b9e4a33070ec7adb6595884bb9dca9b]{
@@ -919,7 +919,7 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:d00ac1aefc764741d00d44ef9ed68b1b000f0958]{
 -- Page 39, Offset 2825.
 -- 聞きたくない、どっかよそで喋ってくれないもんかなー、などと目を逸らす鳶丸を無視して、青子は<呪詛|じゅそ>のように言葉を紡ぐ。
-　Aoko, ignorant Tobimaru qui montrait en regardant ailleurs qu'il n'avait pas envie d'en entendre davantage, parla comme si elle jetait une malédiction.
+  Aoko, ignorant Tobimaru qui montrait en regardant ailleurs qu'il n'avait pas envie d'en entendre davantage, parla comme si elle jetait une malédiction.
 
 }
 [sha:7d6a2034d7c2c3935465d25aec36b122dcfef77c]{
@@ -931,25 +931,25 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:3e7955c9aad7d4da75c7ad3c423c0d1bb7670b51]{
 -- Page 40, Offset 2827.
 -- 誰彼かまわずいい人扱いされるところとか。妙にふわふわしてるところとか。いちいち私の癇に障るところとか」
-　Tout comme le fait que tout le monde le traite comme une bonne personne sans problème. Ou qu'il est complètement mou. Ou tout simplement qu'il me tape sur le système.」
+  Tout comme le fait que tout le monde le traite comme une bonne personne sans problème. Ou qu'il est complètement mou. Ou tout simplement qu'il me tape sur le système.」
 
 }
 [sha:72e37f9074c6cbe62d8ff3562c7b72b8db78cab9]{
 -- Page 40, Offset 2828.
 -- 最後のはただの八つ当たりだよな、と所在なげに時計とか見てみる副会長。
-　“Concernant le dernier point, tu passes juste ta colère sur lui, hein”, répondit le vice-président en regardant ailleurs, par exemple l'horloge.
+  “Concernant le dernier point, tu passes juste ta colère sur lui, hein”, répondit le vice-président en regardant ailleurs, par exemple l'horloge.
 
 }
 [sha:97ed2382a09ed68c911c800f7fbcee0449478c40]{
 -- Page 40, Offset 2829.
 -- ―――と。
-　―――Et,
+  ―――Et,
 
 }
 [sha:a5dcb8a82ac9506778f0185e688969db449c89c4]{
 -- Page 40, Offset 2830.
 -- 時計は、当然のように午後一時を回っていた。
-　l'horloge pointait naturellement sur une heure de l'après-midi.
+  l'horloge pointait naturellement sur une heure de l'après-midi.
 
 }
 [sha:eb43e6d5fd4c834478bea861937ba7f0cd7d5a27]{
@@ -961,13 +961,13 @@ Tobimaru ne pouvait que se raccrocher à un faible espoir dans la réaction d'Ao
 [sha:36f2c709c6eb43ddc1eecd8985579219c923e22f]{
 -- Page 41, Offset 2832.
 -- で、俺に用ってのはなんだよ。言っとくけど、もう授業始まってるぜ？」
-　Donc, qu'est-ce que tu me voulais ? Mais je te préviens, les cours ont déjà repris.」
+  Donc, qu'est-ce que tu me voulais ? Mais je te préviens, les cours ont déjà repris.」
 
 }
 [sha:d4747cf67d1b8b6409109f420fe467fac35d52d1]{
 -- Page 41, Offset 2833. Mods: @k, @e.
 -- 「へ？　授業って、なんで？
-　「Hein ? Les cours ? Pourquoi ?
+ 「Hein ? Les cours ? Pourquoi ?
 
 }
 [sha:dcab97c02506105db91d7bae96881874611b1f40]{
@@ -991,13 +991,13 @@ Quand ?」
 [sha:c66d2782db4fefa7154ccd8d3940cbb4c89e3912]{
 -- Page 42, Offset 2837.
 -- なんで黙ってんのよアンタはーっ！」
-　Pourquoi tu n'as rien dit ?!」
+  Pourquoi tu n'as rien dit ?!」
 
 }
 [sha:93b3e5b1eb465005b2a06752735b3055273597c8]{
 -- Page 42, Offset 2838.
 -- 鳶丸のネクタイをひっぱりながら、半泣き状態で青子は怒鳴る。
-　cria Aoko, à moitié en pleurs, en attrapant Tobimaru par le col.
+  cria Aoko, à moitié en pleurs, en attrapant Tobimaru par le col.
 
 }
 [sha:c365c9d74f9f628dd65f28e0ae5e6447a8f48492]{
@@ -1015,7 +1015,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:b02a14ea7b3b4e3539798480c101cfd0ff844ff6]{
 -- Page 43, Offset 2841.
 -- 思い知るがいい、男の純情を踏みにじったり焼き殺したりするエリート悪魔め」
-　Que ça te serve de leçon, espèce de démon qui piétine et brûle à mort le cœur pur des hommes.」
+  Que ça te serve de leçon, espèce de démon qui piétine et brûle à mort le cœur pur des hommes.」
 
 }
 [sha:27ef5daa155784f75e4195ef3150650ae114808d]{
@@ -1027,19 +1027,19 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:ebb48bd81f4ba377268a01b8a9b4dbfe2d585a3f]{
 -- Page 43, Offset 2843.
 -- 言動には言動で返しなさいよね、卑怯者！」
-　Venge-toi des paroles par d'autres paroles, espèce de lâche !」
+  Venge-toi des paroles par d'autres paroles, espèce de lâche !」
 
 }
 [sha:4e75577cbd3fca4f9b35a44e7c5d3dac89bde475]{
 -- Page 43, Offset 2844.
 -- 鳶丸の首にぐいぐいとネクタイが締まっていく。
-　La cravate de Tobimaru lui serrait de plus en plus le cou.
+  La cravate de Tobimaru lui serrait de plus en plus le cou.
 
 }
 [sha:ca577e846799c41052786b31a0f996aaa0cc4675]{
 -- Page 43, Offset 2845.
 -- それすら勝者の愉悦、とチンピラ顔で笑う副会長。
-　“Même ta réaction contribue à mon triomphe”, jubila avec une tête de yakuza le vice-président.
+  “Même ta réaction contribue à mon triomphe”, jubila avec une tête de yakuza le vice-président.
 
 }
 [sha:2b918f01e144628f9f3d999ec4f43748f597df6a]{
@@ -1051,7 +1051,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:30a09232b21f25534a3472735286d9d7ec887158]{
 -- Page 44, Offset 2847.
 -- 藤代というのは古参教師のひとりで、言うまでもなく、担当は古典である。
-　Fujishiro était l'une des doyennes des enseignants, et il allait sans dire qu'elle était en charge de la littérature classique.
+  Fujishiro était l'une des doyennes des enseignants, et il allait sans dire qu'elle était en charge de la littérature classique.
 
 }
 [sha:7996c2d6a2fdadf4ac6b511aa5b6846f033dd0d0]{
@@ -1063,7 +1063,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:ec743ebdf087df1044ae738fda40bdd75199ee38]{
 -- Page 45, Offset 2849.
 -- 情けだ、別に止めはしねえよ」
-　Comme je suis magnanime, je ne t'en empêcherai pas.」
+  Comme je suis magnanime, je ne t'en empêcherai pas.」
 
 }
 [sha:d1d5efdeff13311f7f3a2a0ce48b0e9ae9cfac3a]{
@@ -1075,19 +1075,19 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:27d610d1a6f75729d4fc5d594c736d917eb8ff8b]{
 -- Page 46, Offset 2851.
 -- えぇい、このまま死んでしまえ！」
-　Allez !! Crève !!」
+  Allez !! Crève !!」
 
 }
 [sha:e8acc0602951d4eddf5196611ab8d9552efa6f4b]{
 -- Page 46, Offset 2852.
 -- さらに締まるネクタイ。
-　Elle serra encore plus la cravate.
+  Elle serra encore plus la cravate.
 
 }
 [sha:0ec4cff6d2330381aeba34f0ed4f32db79fdc1a7]{
 -- Page 46, Offset 2853.
 -- 有言実行、容赦のない青子の窒息攻撃にひととき、神を見る鳶丸だった。
-　Elle mit en action ses paroles. À cause de l'asphyxie que provoquait impitoyablement Aoko, Tobimaru crut un instant voir les dieux.
+  Elle mit en action ses paroles. À cause de l'asphyxie que provoquait impitoyablement Aoko, Tobimaru crut un instant voir les dieux.
 
 }
 [sha:606d37eb223296a99134b72e31d810ba749e2861]{
@@ -1099,13 +1099,13 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:12fc55351ecc3d2f36454689ec11ae93a70d1d44]{
 -- Page 47, Offset 2855.
 -- とっさに時計を見る青子。
-　Aoko jeta un coup d'œil à l'horloge.
+  Aoko jeta un coup d'œil à l'horloge.
 
 }
 [sha:fa03b0b3c01837d6877ca4659aefe2b1b36ef59f]{
 -- Page 47, Offset 2856.
 -- 時刻は午後一時七分。二階である第二生徒会室から、三階端のＡ組の教室まで走ればギリギリ間に合う距離だった。
-　Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au fond du deuxième étage.
+  Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au fond du deuxième étage.
 
 }
 [sha:31a8c92b4774023b45b6cef59d64da3a27e1867c]{
@@ -1117,13 +1117,13 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:a1b81cc796a9a6d7d06f9a25aa8ce8907b566f3f]{
 -- Page 48, Offset 2858.
 -- ち、と言い捨てる青子。
-　cracha Aoko.
+  cracha Aoko.
 
 }
 [sha:43f1439b90fd17da97e2823f61f8123a9dee9f63]{
 -- Page 48, Offset 2859.
 -- あながち嘘でもないのが鳶丸的に頭がいたい。
-　Le fait que ce n'était pas nécessairement un mensonge faisait trembler Tobimaru.
+  Le fait que ce n'était pas nécessairement un mensonge faisait trembler Tobimaru.
 
 }
 [sha:aab1ba6c7bc5b7506334ab9d2f463594a212d066]{
@@ -1135,31 +1135,31 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 [sha:0617cd64319c358422e216d6d0cea2f114524f3d]{
 -- Page 49, Offset 2861.
 -- 頼みたい事があるのはホントなんだから」
-　J'ai vraiment quelque chose à te demander.」
+  J'ai vraiment quelque chose à te demander.」
 
 }
 [sha:7bd27b4f4df894fcf58aca394a482917752ae43a]{
 -- Page 49, Offset 2862.
 -- 言うが早いか、青子は隼のように生徒会室から飛び出していった。
-　Aussitôt dit, Aoko quitta la salle tel un faucon.
+  Aussitôt dit, Aoko quitta la salle tel un faucon.
 
 }
 [sha:03b64291ced2fd45fd76aadb910d5445c24c4a13]{
 -- Page 50, Offset 2863. Mods: @n.
 -- ようやくひとりになって、
-　Enfin seul,
+  Enfin seul,
 
 }
 [sha:b96403f4f099cd72c0a4d3e9461b3595bfdac347]{
 -- Page 50, Offset 2864. Glued. Mods: @n.
 -- 鳶丸は開けっぱなしの扉を閉め、鍵をかけて
-Tobimaru ferma la porte laissée ouverte, tourna la clef
+ Tobimaru ferma la porte laissée ouverte, tourna la clef
 
 }
 [sha:0d924e09e0516bf76b2f67efc21b4e849712bb6e]{
 -- Page 50, Offset 2865. Glued.
 -- 椅子に座る。
-et s'assit sur une chaise.
+ et s'assit sur une chaise.
 
 }
 [sha:0da6f348e15c0daa8cb5ffe9e95fe09b51156d42]{
@@ -1171,31 +1171,31 @@ et s'assit sur une chaise.
 [sha:d011bc4df341a677d34f0e049c2a01502ef9d1f5]{
 -- Page 50, Offset 2867.
 -- ギシリ、とパイプ椅子の背もたれを<軋|きし>ませてため息をつく。
-　Il soupira tout en faisant grincer le dossier de la chaise.
+  Il soupira tout en faisant grincer le dossier de la chaise.
 
 }
 [sha:4d168027d9079bc71e8e1cf827f61a978af03a3f]{
 -- Page 51, Offset 2868.
 -- 窓の外は気持ちのいい晴れ模様。
-　De l'autre côté de la fenêtre, il faisait un temps agréable.
+  De l'autre côté de la fenêtre, il faisait un temps agréable.
 
 }
 [sha:587d1f117caaadaded9ee0aedcdc41a278c568f7]{
 -- Page 51, Offset 2869.
 -- が、冬の日射しはすぐに弱くなっていく。
-　Mais les rayons du soleil hivernal s'affaiblissaient rapidement.
+  Mais les rayons du soleil hivernal s'affaiblissaient rapidement.
 
 }
 [sha:b3ee1a3750e95d37ddea168240e99aea7d5ed938]{
 -- Page 51, Offset 2870.
 -- じき日の勢いも翳って、暖房の入っていない生徒会室は段々と冷えていくだろう。
-　Bientôt, le soleil perdrait de sa force, et la salle du conseil étudiant sans chauffage se refroidirait de plus en plus.
+  Bientôt, le soleil perdrait de sa force, et la salle du conseil étudiant sans chauffage se refroidirait de plus en plus.
 
 }
 [sha:9eec8a3ab872d5a315ba11b0c766e62401e6157a]{
 -- Page 51, Offset 2871.
 -- ストーブなんて気の利いた物は第一生徒会室に流れているので、この寒さには慣れろという他ないのだが。
-　Les choses pratiques que sont les radiateurs étaient réservées pour la première salle du conseil étudiant, il n'y avait donc pas d'autre choix que de s'habituer au froid.
+  Les choses pratiques que sont les radiateurs étaient réservées pour la première salle du conseil étudiant, il n'y avait donc pas d'autre choix que de s'habituer au froid.
 
 }
 [sha:1a185888a8bdbd168bb52bfceefce38b24f0e766]{
@@ -1207,18 +1207,18 @@ et s'assit sur une chaise.
 [sha:0df46e566c0b1768e1b0bd62bc705def298f0a3d]{
 -- Page 52, Offset 2873.
 -- 天気予報じゃ、また雲行き怪しいって話だが」
-　Mais d'après les prévisions météo, ça va se gâter.」
+  Mais d'après les prévisions météo, ça va se gâter.」
 
 }
 [sha:60b18f7a6c240a21eacbb106c76567b0de7c0579]{
 -- Page 52, Offset 2874.
 -- なんとなく暗示的な独白の後、鳶丸は草十郎の姿を思い浮べた。
-　Après cette réflexion personnelle, Tobimaru pensa vaguement à Sōjūrō.
+  Après cette réflexion personnelle, Tobimaru pensa vaguement à Sōjūrō.
 
 }
 [sha:ce84ad3be5e2fdcfcee1f85163b551521160c369]{
 -- Page 52, Offset 2875.
 -- 曇りと晴れ。そのどちらが彼らしいか考えてみたが、ついに答えは出なかった。
-　Il se demanda ce qui le reflétait le mieux entre un temps ensoleillé et un temps couvert, mais au bout du compte, il ne put le déterminer.
+  Il se demanda ce qui le reflétait le mieux entre un temps ensoleillé et un temps couvert, mais au bout du compte, il ne put le déterminer.
 
 }

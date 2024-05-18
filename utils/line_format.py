@@ -35,9 +35,8 @@ def indent(nbStartSpaces: int, ligne: str):
 		lineLength = line_char_length(remove_new_ruby(ligne))
 		# nbStartSpaces = (TEXTBOX_WIDTH - lineLength) // (2 * spaceLength)
 		nbStartSpaces = (SCREEN_WIDTH - max(TEXTBOX_LEFT_MARGIN, TEXTBOX_RIGHT_MARGIN) * 2 - lineLength) // (2 * spaceLength)
-		return SPACE * nbStartSpaces + ligne
 
-	return JAPANESE_SPACE * nbStartSpaces + ligne
+	return SPACE * nbStartSpaces + ligne
 
 
 PATTERN_TAGS = r'\[.*?\]'

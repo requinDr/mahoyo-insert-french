@@ -7,13 +7,13 @@
 [sha:25bed1965ae327c25eb9b7fffc9ad4d6762affa1]{
 -- Page 0, Offset 23265.
 -- 廊下に出ると、蒼崎と出くわした。
-　Dans le couloir, je croisai Aozaki.
+  Dans le couloir, je croisai Aozaki.
 
 }
 [sha:f021a9853c2c3fdd57fabb557efa4c3aca7e44ce]{
 -- Page 0, Offset 23266.
 -- 彼女は廊下の奥から、ホールに向かっていたところらしい。
-　Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
+  Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
 
 }
 [sha:70aadf403948c6bf87954354b7215fda062962eb]{
@@ -31,24 +31,24 @@
 [sha:df16e52d717f6557b806ecbeb4c7fd88460fb659]{
 -- Page 1, Offset 23269.
 -- 私はちょっとした探し物の途中だから、気にしないで」
-　Je cherche juste quelque chose, alors ne fais pas attention à moi.」
+  Je cherche juste quelque chose, alors ne fais pas attention à moi.」
 
 }
 [sha:f0fc47c335a839a783caba18638f10984134fda9]{
 -- Page 1, Offset 23270.
 -- 蒼崎は一階に下りていった。
-　Aozaki descendit au rez-de-chaussée.
+  Aozaki descendit au rez-de-chaussée.
 
 }
 [sha:77d6d985b18ad57326f49d386ff7f06db6b5234a]{
 -- Page 2, Offset 23271.
 -- 鍵を開けて部屋に入る。
-　Je déverrouillai la porte et entrai.
+  Je déverrouillai la porte et entrai.
 
 }
 [sha:1d8b8572e53fbabdbfb7a3ec6cfa022809161062]{
 -- Page 2, Offset 23272.
 -- 部屋には誰もおらず、荷物が荒らされた痕跡はない。
-　La chambre était vide et rien ne laissait penser qu'on avait fouillé mon sac.
+  La chambre était vide et rien ne laissait penser qu'on avait fouillé mon sac.
 
 }

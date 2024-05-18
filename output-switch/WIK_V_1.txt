@@ -1,85 +1,85 @@
 [sha:b33ff474da23164076b4d56602dcc2e1ff21332c]{
 -- Page 0, Offset 23691.
 -- ―――静希だ。
-　―――C'était Shizuki.
+  ―――C'était Shizuki.
 
 }
 [sha:2975fb9a38cfa76644bf99ed85947663254989be]{
 -- Page 0, Offset 23692.
 -- あいつが一番、条件を満たしている。
-　C'était lui qui remplissait le mieux les conditions.
+  C'était lui qui remplissait le mieux les conditions.
 
 }
 [sha:0caee373fcb0021efa63ea1c0069432799ba4366]{
 -- Page 0, Offset 23693.
 -- この洋館に精通していること。
-　Il connaissait le manoir.
+  Il connaissait le manoir.
 
 }
 [sha:92f5ba5a9fca52275bb1a819c5a49a9c91ca9904]{
 -- Page 0, Offset 23694.
 -- 誕生会のホスト側だったので動き回っていても違和感はなかったこと。
-　Étant l'un des hôtes de la fête, ses déambulations dans la résidence ne paraissaient pas suspectes.
+  Étant l'un des hôtes de la fête, ses déambulations dans la résidence ne paraissaient pas suspectes.
 
 }
 [sha:2a9aad75351c7543e26548ff77b5b5c918a68c69]{
 -- Page 0, Offset 23695.
 -- そして、何より―――
-　Et aussi, avant tout―――
+  Et aussi, avant tout―――
 
 }
 [sha:a3979a6ec73b90579ef4d7a777aa16263fd2a7a7]{
 -- Page 1, Offset 23696.
 -- あいつと久遠寺さんのアリバイ証言に、致命的な食い違いがあった事。
-　Il y avait une contradiction fatale entre son témoignage et celui de Kuonji.
+  Il y avait une contradiction fatale entre son témoignage et celui de Kuonji.
 
 }
 [sha:bb969c64397417d1bbcf692e0197b52981e7b24d]{
 -- Page 1, Offset 23697.
 -- 朝は屋敷にいたと静希は言っていた。
-　Shizuki avait prétendu être dans le manoir le matin.
+  Shizuki avait prétendu être dans le manoir le matin.
 
 }
 [sha:8567c4913ccf74c2897ea7d6a4703a3620f9a2bc]{
 -- Page 1, Offset 23698.
 -- けれど久遠寺さんはこう言っていた。
-　Pourtant, Kuonji avait déclaré :
+  Pourtant, Kuonji avait déclaré :
 
 }
 [sha:e8fbc0c091384a37ddaebddcca2715efffb51714]{
 -- Page 1, Offset 23699.
 -- “人手がなかったから、自分が施錠してまわる事になった”と。
-“Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
+  “Comme je n'avais personne sous la main, j'ai verrouillé l'aile ouest moi-même.”
 
 }
 [sha:224b71ab3df4ba4fe431aeb288365cf25472369f]{
 -- Page 2, Offset 23700.
 -- もともと、屋敷を施錠してまわる役目が彼女のものなら、あんな言い回しはしない筈だ。
-　Si le verrouillage des portes était son rôle, elle n'aurait pas employé une telle formulation.
+  Si le verrouillage des portes était son rôle, elle n'aurait pas employé une telle formulation.
 
 }
 [sha:4ae3756d6e570c3e4148705e343d5294cf1f1c37]{
 -- Page 2, Offset 23701.
 -- 久遠寺さんは静希、あるいは蒼崎に施錠を頼む気だった。
-　Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en charger.
+  Kuonji avait l'intention de demander à Shizuki, ou alors à Aozaki, de s'en charger.
 
 }
 [sha:b2003325eac5786f5bcc300716014abe414aacfd]{
 -- Page 2, Offset 23702.
 -- 蒼崎は午前中は街にいた、と証言した。
-　Aozaki avait témoigné être en ville dans la matinée.
+  Aozaki avait témoigné être en ville dans la matinée.
 
 }
 [sha:c804c3d3a5a0884e0aaef341a6011eb19fc5b54b]{
 -- Page 2, Offset 23703.
 -- それは部屋を留守にして、結果的にお姉さんの侵入を許した事で証明できる。
-　On pouvait le prouver par le fait que son absence avait permis à sa sœur de s'introduire dans sa chambre.
+  On pouvait le prouver par le fait que son absence avait permis à sa sœur de s'introduire dans sa chambre.
 
 }
 [sha:7bc9a435a5d4b468c6c89b8a4d647ccf322f416f]{
 -- Page 2, Offset 23704.
 -- けれど静希は、洋館にいた、と嘘の供述をしたのだ。
-　Mais Shizuki avait fait une fausse déposition en disant qu'il était dans le manoir.
+  Mais Shizuki avait fait une fausse déposition en disant qu'il était dans le manoir.
 
 }
 [sha:e15ee6d19136bc410ea8ed7319104f516dd87a34]{
@@ -91,19 +91,19 @@
 [sha:48e4149c1ce89fdaa6644378906d04fa64ecc872]{
 -- Page 3, Offset 23706.
 -- 他にもう一つか二つはある気がするけど、今は頭が働かない。
-　J'avais l'impression d'avoir un ou deux autres éléments en main, mais pour le moment, mon cerveau ne fonctionnait pas comme je le voulais.
+  J'avais l'impression d'avoir un ou deux autres éléments en main, mais pour le moment, mon cerveau ne fonctionnait pas comme je le voulais.
 
 }
 [sha:60ef21c3a3ac801882477b5baa172a2318981f2d]{
 -- Page 3, Offset 23707.
 -- 早く、朝になる前に静希を見付けて、見付け―――
-　Il fallait que je trouve rapidement Shizuki avant le matin, que je le débusque au plus vite et―――
+  Il fallait que je trouve rapidement Shizuki avant le matin, que je le débusque au plus vite et―――
 
 }
 [sha:2915c4f448883090471412205428e59a97a5ab7d]{
 -- Page 3, Offset 23708.
 -- 後ろに。誰かが。立っている。気配が。
-　Dans mon dos. Je sentis. La présence. De quelqu'un.
+  Dans mon dos. Je sentis. La présence. De quelqu'un.
 
 }
 [sha:3f78fe58ae53f61d62d426b07b33ae2a3c87d9a0]{
@@ -115,7 +115,7 @@
 [sha:3190be3e0335e7702dfb920fb21e72f44a783a03]{
 -- Page 4, Offset 23710. Glued.
 -- 犯人ね静希ーーーー！」
-Shizukiーーーー!」
+ Shizukiーーーー!」
 
 }
 [sha:415a6f5be50b510fdf50148df0d93abc8a4a400b]{
@@ -127,43 +127,43 @@ Shizukiーーーー!」
 [sha:426dc3f4bd59cb849be6b573f22d79b29e65209a]{
 -- Page 5, Offset 23712.
 -- だっしゃあーーーーーー！
-　Pafーーーーーー!
+  Pafーーーーーー!
 
 }
 [sha:d75bc554a1161d1501fccff448ec96b21804ea35]{
 -- Page 5, Offset 23713.
 -- 振り向きざまに、<襲|おそ>われるより先に、手にした中華鍋をフルスイングするわたし。
-　Je me retournai et avant de me faire attaquer, je fis un swing monstrueux avec la casserole que j'avais dans les mains.
+  Je me retournai et avant de me faire attaquer, je fis un swing monstrueux avec la casserole que j'avais dans les mains.
 
 }
 [sha:4eb21c1420d63e42e1f1181c290382e523b5625a]{
 -- Page 5, Offset 23714.
 -- 決まった。
-　C'était réglé.
+  C'était réglé.
 
 }
 [sha:44fd8e9cdf34afc40f2977350e10a69763f1f177]{
 -- Page 5, Offset 23715.
 -- 決まりすぎた。
-　Le coup était parfait.
+  Le coup était parfait.
 
 }
 [sha:b1bdf1961bcd2bf890e233d54f119612f9bd65dc]{
 -- Page 5, Offset 23716. Mods: @n.
 -- 静希……一瞬だけ見えたけど、やっぱり静希だった……は倒れこみ、
-　Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'une fraction de seconde...
+  Shizuki... en fin de compte, c'était bien lui, même si je ne l'avais vu qu'une fraction de seconde...
 
 }
 [sha:7f90890b8747219bde43de977face5c7ca22fa6e]{
 -- Page 5, Offset 23717. Glued.
 -- 床にはおかしなアイテムが転がった。
-s'écroula, et un étrange objet roula au sol.
+ s'écroula, et un étrange objet roula au sol.
 
 }
 [sha:0a5d8730c40e518c80f685f03916ebd18d7eaf66]{
 -- Page 5, Offset 23718.
 -- アレは―――パーティーアイテムとしてそれなりに定番の、変装グッズ鼻メガネだ。
-　C'était―――un objet de déguisement assez standard comme objet de fête, des lunettes-nez.
+  C'était―――un objet de déguisement assez standard comme objet de fête, des lunettes-nez.
 
 }
 [sha:bfa00bb4646fa191ff081efceb9dff02113bdbef]{
@@ -175,43 +175,43 @@ s'écroula, et un étrange objet roula au sol.
 [sha:0bc0b5f79b070946fdaa9d154980d66fef9180b6]{
 -- Page 6, Offset 23720.
 -- あんなんで笑うのは箱入り娘の久遠寺さんと、なんだかんだと静希を買っている蒼崎ぐらいだろう。
-　Ceux qui riraient avec un truc pareil ne devaient être que Kuonji, jeune fille sortant rarement, et Aozaki qui appréciait Shizuki malgré tout ce qu'elle disait.
+  Ceux qui riraient avec un truc pareil ne devaient être que Kuonji, jeune fille sortant rarement, et Aozaki qui appréciait Shizuki malgré tout ce qu'elle disait.
 
 }
 [sha:8ee91c5654608a1dd34a1cef3cb7046f23329bfb]{
 -- Page 6, Offset 23721.
 -- ともあれ、わたしは走りだした。
-　Quoi qu'il en soit, je me mis à courir.
+  Quoi qu'il en soit, je me mis à courir.
 
 }
 [sha:8fa24f866eabaaf3928d1d4c22bdc25810107f69]{
 -- Page 6, Offset 23722.
 -- 犯人が分かった以上、このゲームはクリアされた。
-　Comme j'avais découvert le coupable, la partie était terminée.
+  Comme j'avais découvert le coupable, la partie était terminée.
 
 }
 [sha:358deefec6c35fbe8fef7bf316916f6465811ad8]{
 -- Page 6, Offset 23723.
 -- けど殴られ、見抜かれ、逆上した静希がいつ反撃してくるか分からない。
-　Mais je ne savais pas quand Shizuki, frappé, découvert et fou de colère, contre-attaquerait.
+  Mais je ne savais pas quand Shizuki, frappé, découvert et fou de colère, contre-attaquerait.
 
 }
 [sha:82b76c5c98981b82e937f8be7bac661d23b90f8b]{
 -- Page 7, Offset 23724.
 -- わたしは急いでロビーから脱出する。
-　Je m'empressai de m'enfuir du vestibule.
+  Je m'empressai de m'enfuir du vestibule.
 
 }
 [sha:ed220d7752aaeb07d8465c0887ce85466f510ea4]{
 -- Page 7, Offset 23725.
 -- 外に出て森に入ればわたしの勝ち。
-　Je remporterais la victoire si je sortais et j'entrais dans la forêt.
+  Je remporterais la victoire si je sortais et j'entrais dans la forêt.
 
 }
 [sha:b8891bca2fac0c42de350e473cfd172fb21dae06]{
 -- Page 7, Offset 23726.
 -- 逃げ回っているうちに朝になっているだろう……！
-　Le matin se lèverait sûrement pendant ma fuite...!
+  Le matin se lèverait sûrement pendant ma fuite...!
 
 }
 [sha:bb93983ad220f0df3ac713777f64c684c1ad7151]{
@@ -223,25 +223,25 @@ s'écroula, et un étrange objet roula au sol.
 [sha:07f6e68160b0cba61e2ea0a24513321585404893]{
 -- Page 8, Offset 23728.
 -- 外は、まだ、暗い。
-　À l'extérieur, il faisait toujours sombre.
+  À l'extérieur, il faisait toujours sombre.
 
 }
 [sha:622ab0b9f225361b14618bcaf2ddfaf63990e137]{
 -- Page 8, Offset 23729.
 -- どういうコト？
-　Qu'est-ce que ça veut dire ?
+  Qu'est-ce que ça veut dire ?
 
 }
 [sha:622ab0b9f225361b14618bcaf2ddfaf63990e137]{
 -- Page 8, Offset 23730.
 -- どういうコト？
-　Qu'est-ce que ça veut dire ?
+  Qu'est-ce que ça veut dire ?
 
 }
 [sha:2e692260ef22d9c7bc7fa3bfdb8bef8d73cb6546]{
 -- Page 8, Offset 23731.
 -- どういうコトなんだ―――！？
-　Qu'est-ce que ça veut dire, bon sang―――?!
+  Qu'est-ce que ça veut dire, bon sang―――?!
 
 }
 [sha:2dd5f8c7abfa60a086590ccaf9d5e03e3d31d7f1]{
@@ -259,19 +259,19 @@ s'écroula, et un étrange objet roula au sol.
 [sha:404cf72f9ac2b4070a2e5819efb11fc201a6d05a]{
 -- Page 9, Offset 23734.
 -- ロビーからは恨みがましい女の声。
-　J'entendis la voix rancunière d'une femme en provenance du vestibule.
+  J'entendis la voix rancunière d'une femme en provenance du vestibule.
 
 }
 [sha:9513f45f3443531e450996aafb9e6156c9a53ef0]{
 -- Page 9, Offset 23735.
 -- 女の声！？
-　Une voix de femme ?!
+  Une voix de femme ?!
 
 }
 [sha:4709cfcf995d16c7f9bff01cbc794789f3c4cc0a]{
 -- Page 9, Offset 23736.
 -- 誰だアレ、静希なのに、静希じゃない……！？
-　C'est qui ça ? C'est Shizuki, mais ce n'est pas Shizuki...?!
+  C'est qui ça ? C'est Shizuki, mais ce n'est pas Shizuki...?!
 
 }
 [sha:be0a2d1a5850ef96cb5431a0b2508cedfdaf4607]{
@@ -283,73 +283,73 @@ s'écroula, et un étrange objet roula au sol.
 [sha:a1b8405fda816b339092fc247f3798774eb14f09]{
 -- Page 10, Offset 23738.
 -- 走る。走る。走る。
-　Je courais, encore et encore.
+  Je courais, encore et encore.
 
 }
 [sha:3a0526ba99570b2cdeaedd8e5a7748a6cc5843b5]{
 -- Page 10, Offset 23739.
 -- 混乱しながら走る。
-　Les pensées confuses, je courais.
+  Les pensées confuses, je courais.
 
 }
 [sha:dd554b279aa57526722c0ccf248cfbb951f19edc]{
 -- Page 10, Offset 23740.
 -- 転んで、立ち上がろうとして、それよりまず、考える方が先だと自分を叱咤した。
-　Je tombai, essayai de me relever, mais avant de continuer, je reprenais mes esprits en me disant qu'il fallait d'abord que je réfléchisse.
+  Je tombai, essayai de me relever, mais avant de continuer, je reprenais mes esprits en me disant qu'il fallait d'abord que je réfléchisse.
 
 }
 [sha:aa099871d615fb2bdd656e8ff014b2a100af0911]{
 -- Page 11, Offset 23741.
 -- わたしは間違えていた。
-　Je m'étais trompée.
+  Je m'étais trompée.
 
 }
 [sha:df6e2e3c7b610ead4086fe652845193b4b356782]{
 -- Page 11, Offset 23742.
 -- まだゲームは続いている。
-　La partie n'était pas finie.
+  La partie n'était pas finie.
 
 }
 [sha:23d2047d5e1b06d39a05ef3aa9acadd064bd16ec]{
 -- Page 11, Offset 23743.
 -- このままだとスイーツハーツ完全勝利。
-　À ce rythme, Sweets Hearts l'emporterait sur toute la ligne.
+  À ce rythme, Sweets Hearts l'emporterait sur toute la ligne.
 
 }
 [sha:771481106afa9418b6e72378902f3ecc2abc3df0]{
 -- Page 11, Offset 23744.
 -- 犯人は静希だった。それは間違いない。
-　Le coupable était Shizuki. Il n'y avait pas d'erreur là-dessus.
+  Le coupable était Shizuki. Il n'y avait pas d'erreur là-dessus.
 
 }
 [sha:bb26ee8bbbcd809a62adeca1347a872bbe924224]{
 -- Page 11, Offset 23745.
 -- だってそう口にした、わたしがまだ生きている。
-　Après tout, j'étais encore en vie alors que je l'avais accusé.
+  Après tout, j'étais encore en vie alors que je l'avais accusé.
 
 }
 [sha:0c0f6fce9740026a98730e50f53b5ff521b13e08]{
 -- Page 12, Offset 23746.
 -- ルールを思い出せ。
-　Souviens-toi des règles.
+  Souviens-toi des règles.
 
 }
 [sha:b5b1146cf1dd09d1c6e77a591ae6efe85167a9e8]{
 -- Page 12, Offset 23747.
 -- 犯人を告訴しても、間違えていたら死ぬ。
-　Si on fait une erreur en accusant le coupable, on meurt.
+  Si on fait une erreur en accusant le coupable, on meurt.
 
 }
 [sha:45519509d0fb50f5a6bf0489309ab403ec31d02d]{
 -- Page 12, Offset 23748.
 -- わたしは生きている以上、静希犯人説は正しい筈だ。
-　Puisque j'étais encore en vie, la théorie selon laquelle Shizuki était coupable devait être correcte.
+  Puisque j'étais encore en vie, la théorie selon laquelle Shizuki était coupable devait être correcte.
 
 }
 [sha:cce0a31076cacc14c798cd2d76fd4f7a8822f9df]{
 -- Page 12, Offset 23749.
 -- 間違えていないのなら―――きっと、<何|・><か|・><が|・><足|・><り|・><な|・><い|・><ん|・><だ|・>！
-　Si je ne me trompais pas, alors―――il devait sûrement manquer quelque chose !
+  Si je ne me trompais pas, alors―――il devait sûrement manquer quelque chose !
 
 }
 [sha:cf49e5ccedec010a5bc55e254e1a757d48db487e]{
@@ -361,30 +361,30 @@ s'écroula, et un étrange objet roula au sol.
 [sha:974fef3768380dd1c4b59046d0df59c679d93f9b]{
 -- Page 13, Offset 23751.
 -- あれがヒントなのは間違いない……！　考えるんだ、順序だてて、そもそも何が原因なのか……！」
-　Il ne fait aucun doute que c'était un indice...! Réfléchis méthodiquement, d'abord, qu'est-ce qui est la cause de tout ça...!」
+  Il ne fait aucun doute que c'était un indice...! Réfléchis méthodiquement, d'abord, qu'est-ce qui est la cause de tout ça...!」
 
 }
 [sha:550ed786ec9a0e14688be1e2f4c0d1a8811fc85f]{
 -- Page 14, Offset 23752.
 -- 足音が近づいてくる。
-　Des bruits de pas se rapprochaient.
+  Des bruits de pas se rapprochaient.
 
 }
 [sha:7acb476e513be466cd0c4a58f08f8b5e07d563cb]{
 -- Page 14, Offset 23753.
 -- 朝が近づいている。
-　Le matin était imminent.
+  Le matin était imminent.
 
 }
 [sha:fcee53eb5587d438729fbf27a11b0afe4177bdca]{
 -- Page 14, Offset 23754.
 -- これが正真正銘、最後のチャンス。
-　C'était vraiment ma dernière chance.
+  C'était vraiment ma dernière chance.
 
 }
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 14, Offset 23755.
 -- わたしは、
-　Je...
+  Je...
 
 }
