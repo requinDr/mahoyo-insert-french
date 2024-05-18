@@ -1,7 +1,7 @@
 [sha:ab6dc6cb2e1c2821a287613844fe12b25959acbb]{
 -- Page 0, Offset 23649.
 -- わたしは、犯人を推理するべきだ、と思った。
-  Je songeai qu'il fallait identifier le coupable.
+　Je songeai qu'il fallait identifier le coupable.
 
 }
 [sha:dc21ee62f13787af82c82caa05aecdc4104837be]{
@@ -13,31 +13,31 @@
 [sha:7d77395832c669727776973f3450e123786dfcfc]{
 -- Page 1, Offset 23651.
 -- 呼吸を整えながら、これまでの事を整理する。
-  Tout en reprenant mon souffle, je remis en ordre les évènements vécus jusqu'à maintenant.
+　Tout en reprenant mon souffle, je remis en ordre les évènements vécus jusqu'à maintenant.
 
 }
 [sha:160c3f07c0a9b12f20fd800abd1b5e47d1050aef]{
 -- Page 1, Offset 23652.
 -- この<事件|ケース>では、動機も殺害方法も、犯人特定への切り札にはなり得なかった。
-  Au cours de cette affaire, le mobile et la façon de tuer n'avaient pas pu être utiles pour déterminer l'identité du coupable.
+　Au cours de cette affaire, le mobile et la façon de tuer n'avaient pas pu être utiles pour déterminer l'identité du coupable.
 
 }
 [sha:2481f8f2853c051c76fed9d32f3a7503afd4ae09]{
 -- Page 2, Offset 23653.
 -- 確かなものは一つだけ。
-  Une seule chose était sûre.
+　Une seule chose était sûre.
 
 }
 [sha:69a04c6731fd46ff112c4b212237483b74f0242f]{
 -- Page 2, Offset 23654.
 -- 槻司は何度も言っていた。
-  Tsukiji l'avait dit plusieurs fois.
+　Tsukiji l'avait dit plusieurs fois.
 
 }
 [sha:0fba620bc0b3d61db7d8d18632820b7de33c2e8a]{
 -- Page 2, Offset 23655.
 -- “誰が殺したか”ではない。
-  Il ne fallait pas se demander “qui avait tué”,
+Il ne fallait pas se demander “qui avait tué”,
 
 }
 [sha:484a4fa2be7a518345e7ffd9113a9617c481d0d8]{
@@ -49,198 +49,198 @@ mais “qui avait eu la possibilité de tuer qui”.
 [sha:a14df7e154a8e47dacb93dfd53f2a7fca35f872c]{
 -- Page 3, Offset 23657.
 -- 第一の殺人。土桔氏の軟禁爆破殺人。
-  Pour le premier cas, le meurtre par explosion en chambre close de M. Tokitsu.
+　Pour le premier cas, le meurtre par explosion en chambre close de M. Tokitsu.
 
 }
 [sha:c058d7f052be31f5f10c4be98d4178d9c3e01ef7]{
 -- Page 3, Offset 23658. Mods: @n.
 -- これが不可能だったと断言できるのはわたし、
-  Je pouvais affirmer que l'acte était irréalisable pour moi,
+　Je pouvais affirmer que l'acte était irréalisable pour moi,
 
 }
 [sha:704c51efbf9c82fbe898fce20c92b19ad892f33c]{
 -- Page 3, Offset 23659. Glued. Mods: @n.
 -- 久遠寺さん、
- Kuonji,
+Kuonji,
 
 }
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 3, Offset 23660. Glued. Mods: @n.
 -- 槻司、
- Tsukiji,
+Tsukiji,
 
 }
 [sha:8034d2a0952b546aafd8e5218f8c0c31740ece58]{
 -- Page 3, Offset 23661. Glued. Mods: @n.
 -- 芳助、
- Hōsuke,
+Hōsuke,
 
 }
 [sha:0581b2c3100e785a41ed520faa4a1795d49ba310]{
 -- Page 3, Offset 23662. Glued. Mods: @n.
 -- 詠梨神父、
- père Eiri
+père Eiri
 
 }
 [sha:5a1e76ecbda5f9229d10412769b3b25f8089adce]{
 -- Page 3, Offset 23663. Glued. Mods: @n.
 -- 唯架さん。
- et Yuika.
+et Yuika.
 
 }
 [sha:0d98758d6ff6dfd40f338164b3eb9ae8a81e98fc]{
 -- Page 4, Offset 23664.
 -- 第二の殺人。山城先生の豪華送別式殺人。
-  Pour le deuxième cas, le meurtre des obsèques pompeuses du professeur Yamashiro.
+　Pour le deuxième cas, le meurtre des obsèques pompeuses du professeur Yamashiro.
 
 }
 [sha:5f0e253c90a44aa13345d74f1f3e0d24e96fdb50]{
 -- Page 4, Offset 23665.
 -- 不可能だったのは―――これは特定できない。
-  Pour ce cas-là―――je ne pouvais pas déterminer qui en était incapable.
+　Pour ce cas-là―――je ne pouvais pas déterminer qui en était incapable.
 
 }
 [sha:f95833c66ab21735a2cc6d86e554b25892c9b4bd]{
 -- Page 4, Offset 23666.
 -- かろうじて久遠寺さんぐらいだ。
-  Au mieux, Kuonji.
+　Au mieux, Kuonji.
 
 }
 [sha:38ebeb76281a016fe5c036a2742ea9e52c1fc253]{
 -- Page 4, Offset 23667.
 -- 山城先生がいつ殺されたのかは不明だし、土桔氏の事件の後、みんなで手分けして家捜ししてしまったからだ。
-  En effet, on ne savait pas quand M. Yamashiro avait été tué, et après la découverte du corps de M. Tokitsu, nous nous étions séparés pour le chercher dans toute la résidence.
+　En effet, on ne savait pas quand M. Yamashiro avait été tué, et après la découverte du corps de M. Tokitsu, nous nous étions séparés pour le chercher dans toute la résidence.
 
 }
 [sha:b099fba8a83e92b1f6314acac87de21c6ff6b1f8]{
 -- Page 4, Offset 23668.
 -- たった十分程度の時間で、犯行はほぼ不可能だけど、絶対にできなかった、とは断定できない。
-  Il était presque impossible de commettre le crime en dix minutes seulement, mais on ne pouvait pas non plus être catégorique.
+　Il était presque impossible de commettre le crime en dix minutes seulement, mais on ne pouvait pas non plus être catégorique.
 
 }
 [sha:b73e6f7db9ebf6b9bf091745dce6dc227d09eda6]{
 -- Page 5, Offset 23669.
 -- 第三の殺人、芳助＆リデル。
-  Le troisième cas, Hōsuke & Riddell.
+　Le troisième cas, Hōsuke & Riddell.
 
 }
 [sha:250dab2369e8c44b8d4402f6dfe29b8dc9d98a42]{
 -- Page 5, Offset 23670.
 -- これはどうでもいい。
-  Sans importance.
+　Sans importance.
 
 }
 [sha:90c9fa4f0bcb8c6a6702bce0818adc02674b9085]{
 -- Page 5, Offset 23671.
 -- 第四の殺人、ベオ。
-  Le quatrième meurtre, Beo.
+　Le quatrième meurtre, Beo.
 
 }
 [sha:7e773ddc8978e1b73e2a0847bed2b3405e6c565e]{
 -- Page 5, Offset 23672. Mods: @n.
 -- 不可能だったのは……蒼崎姉を捜しに行かなかったわたしと
-  L'acte était irréalisable pour... ceux qui n'étaient pas allés chercher la fille aînée des Aozaki : moi,
+　L'acte était irréalisable pour... ceux qui n'étaient pas allés chercher la fille aînée des Aozaki : moi,
 
 }
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 5, Offset 23673. Glued. Mods: @n.
 -- 槻司、
- Tsukiji,
+Tsukiji,
 
 }
 [sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{
 -- Page 5, Offset 23674. Glued. Mods: @n.
 -- 静希、
- Shizuki
+Shizuki
 
 }
 [sha:034da1e6374d18bb97d97cf16c69dd8b117508d1]{
 -- Page 5, Offset 23675. Glued. Mods: @n.
 -- 律架さん。
- et Ritsuka.
+et Ritsuka.
 
 }
 [sha:c241a2e7e4be98e5b7a728d22be2aef8f1f9ff3c]{
 -- Page 6, Offset 23676.
 -- 第五の殺人は詠梨神父の空中耽美系首つり殺人。
-  Le cinquième meurtre était la pendaison esthétique aérienne de père Eiri.
+　Le cinquième meurtre était la pendaison esthétique aérienne de père Eiri.
 
 }
 [sha:6c1eb33db9220de7cee6457d1eedbc91a3253de9]{
 -- Page 6, Offset 23677. Mods: @n.
 -- 不可能だったのはロビーに残ったわたしと
-  La perpétration du crime était impossible pour ceux qui étaient restés dans le vestibule : moi,
+　La perpétration du crime était impossible pour ceux qui étaient restés dans le vestibule : moi,
 
 }
 [sha:35069b32c4286665bb76512744d41b902514e011]{
 -- Page 6, Offset 23678. Glued. Mods: @n.
 -- 槻司、
- Tsukiji,
+Tsukiji,
 
 }
 [sha:048f07ea66b542cda7031a55062b51172d4d519a]{
 -- Page 6, Offset 23679. Glued. Mods: @n.
 -- 律架さん、
- Ritsuka
+Ritsuka
 
 }
 [sha:308cfcd18813cc88a693ddf57c2c4520970af82e]{
 -- Page 6, Offset 23680. Glued. Mods: @n.
 -- 久遠寺さん。
- et Kuonji.
+et Kuonji.
 
 }
 [sha:a263b4c573a54660724945dee01ed7dd6efcc7ef]{
 -- Page 6, Offset 23681.
 -- 第六の殺人、唯架さん石化殺人。
-  Le sixième cas, le meurtre par fossilisation de Yuika.
+　Le sixième cas, le meurtre par fossilisation de Yuika.
 
 }
 [sha:26cccf942cb4cdf597835fd189a2de12ad9661c2]{
 -- Page 6, Offset 23682.
 -- これもどうでもいい。
-  Lui non plus n'avait aucune importance.
+　Lui non plus n'avait aucune importance.
 
 }
 [sha:20c8d172615889bb571f1abd0395e27c17da4bb2]{
 -- Page 7, Offset 23683.
 -- 第七の殺人、蒼崎姉・みちのくアルコール中毒殺人。
-  Le septième cas, le meurtre par alcoolisme aigu de la fille aînée des Aozaki.
+　Le septième cas, le meurtre par alcoolisme aigu de la fille aînée des Aozaki.
 
 }
 [sha:96bccfef0d1d472b27809c5a7f925204acdf302d]{
 -- Page 7, Offset 23684. Mods: @n.
 -- 時系列的には第一の事件では、と疑いがあるので、不可能だったのは―――
-  Comme je supposais qu'il s'agissait du premier de la série d'incidents, le crime était irréalisable―――
+　Comme je supposais qu'il s'agissait du premier de la série d'incidents, le crime était irréalisable―――
 
 }
 [sha:4bc11de7129e5b01e3a387003fe2b5fc39d920b3]{
 -- Page 7, Offset 23685. Glued.
 -- かろうじて、久遠寺さんぐらい。
- uniquement pour Kuonji.
+uniquement pour Kuonji.
 
 }
 [sha:ec2e41dce8eeb8db611defb45991dc4f58092c4f]{
 -- Page 8, Offset 23686.
 -- わたしが体験した殺人は以上だ。
-  Voilà pour les meurtres que j'avais expérimentés.
+　Voilà pour les meurtres que j'avais expérimentés.
 
 }
 [sha:c430c47e4afba1684dd272da65120b67bef6f32c]{
 -- Page 8, Offset 23687.
 -- これは単純な消去法の問題。
-  C'était un simple problème d'élimination.
+　C'était un simple problème d'élimination.
 
 }
 [sha:e84177eb72a9a56a60034beb3898b59b10530967]{
 -- Page 8, Offset 23688.
 -- 誰がみんなを笑わせて回った、姿なき殺人者なのか。
-  Qui était le tueur invisible qui avait fait rire tout le monde ?
+　Qui était le tueur invisible qui avait fait rire tout le monde ?
 
 }
 [sha:f889cd87a613b8beac7513ba21ab73db25583788]{
 -- Page 8, Offset 23689.
 -- わたしが指名する犯人は―――
-  Le coupable que je désignai est―――
+　Le coupable que je désignai est―――
 
 }

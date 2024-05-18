@@ -1,7 +1,7 @@
 [sha:75342fab802b090cd77089ac74e5a7a8b212760c]{
 -- Page 0, Offset 21879.
 -- その時、
-  À cet instant,
+　À cet instant,
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -13,19 +13,19 @@
 [sha:df45f1f83dc924e9e995b57c4892a07642d2d28a]{
 -- Page 0, Offset 21881.
 -- 外から異様な風切り音が聞こえてきた。
-  un étrange vacarme nous parvint de l'extérieur.
+　un étrange vacarme nous parvint de l'extérieur.
 
 }
 [sha:0c8fa5e58b3ce20cc4ecafa7936553fcf179b16e]{
 -- Page 0, Offset 21882.
 -- 洋館の壁をたたき付けるような爆音。
-  Un vrombissement qui faisait trembler les murs du manoir.
+　Un vrombissement qui faisait trembler les murs du manoir.
 
 }
 [sha:670c0563d4003231f3e6f21423c88d70d203ee1f]{
 -- Page 0, Offset 21883.
 -- それに、誰もが意識を取られている中、
-  Tout le monde était absorbé par le bruit.
+　Tout le monde était absorbé par le bruit.
 
 }
 [sha:99fc3866bebda32f295c767817da31a29573a9a4]{
@@ -37,19 +37,19 @@
 [sha:9af77ce8d62a4758a164c891b833f6720ebd221b]{
 -- Page 1, Offset 21885.
 -- こんなボンクラどもはホイホイ呼んで、大本命かつ大人気、この超☆英国美少女であるリデル様を、なんで、アンタの誕生会に呼ばないのよっ！！！！」
-  Si tu t'abaisses à inviter des idiots pareils à ta fête d'anniversaire, pourquoi ne pas avoir convié la renommée, super star et super beauté d'Angleterre, la grande Riddell ?!!!」
+　Si tu t'abaisses à inviter des idiots pareils à ta fête d'anniversaire, pourquoi ne pas avoir convié la renommée, super star et super beauté d'Angleterre, la grande Riddell ?!!!」
 
 }
 [sha:5a082f4e7f7a0fab5721ef5d05ee3112fb3b6b34]{
 -- Page 1, Offset 21886.
 -- 外の雨より何倍もやかましい、
-  Cent fois plus bruyante que l'ouragan qui faisait rage dehors,
+　Cent fois plus bruyante que l'ouragan qui faisait rage dehors,
 
 }
 [sha:e2ec0dacb026fc23c2b7a58c2ed29c1e9b0f0660]{
 -- Page 1, Offset 21887.
 -- 嵐の化身みたいな女がやって来た。
-  une femme, incarnation de la tempête, fit son entrée en scène.
+　une femme, incarnation de la tempête, fit son entrée en scène.
 
 }
 [sha:436d8949f4761a5ea5cd6a1e1494732952781f32]{
@@ -67,7 +67,7 @@
 [sha:2e29169f9a07509f3c9e781b0c3fd6cc0cb259d3]{
 -- Page 2, Offset 21890.
 -- 覚えておきなさいトビマル。アンタたちみたいな端役と違って、アタシに不可能なんてないの。ちょっと一声かければ、地球の裏側からだってミサイル飛ばせるんだから」
-  Retiens bien ça, Tobimaru. Contrairement à vous autres figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
+　Retiens bien ça, Tobimaru. Contrairement à vous autres figurants, rien n'est impossible pour moi. Il suffirait d'un mot de ma part pour qu'un missile soit lancé depuis l'autre côté de la terre !」
 
 }
 [sha:cb418413276ad8bf26947c3e876479bc23f5c1d7]{
@@ -79,13 +79,13 @@
 [sha:097b7263074c31436353503e4b7d637ba48531a9]{
 -- Page 3, Offset 21892.
 -- ピンク色で統一された女は、わたしや芳助には視線も投げず久遠寺さんへと歩み寄る。
-  La jeune femme, toute de rose vêtue, ne posa pas un regard sur Hōsuke ou moi et s'approcha de Kuonji.
+　La jeune femme, toute de rose vêtue, ne posa pas un regard sur Hōsuke ou moi et s'approcha de Kuonji.
 
 }
 [sha:eec6f66f6d00d36c3c2137af4c105cef6cf86d74]{
 -- Page 3, Offset 21893.
 -- これみよがしにツカツカと響くブーツの音。挑発的な軍靴のようだ。
-  Le son de ses bottes résonnait ostensiblement. Comme des bottes militaires provocatrices.
+　Le son de ses bottes résonnait ostensiblement. Comme des bottes militaires provocatrices.
 
 }
 [sha:606b1aa5651478fb041110951a5353fa0d0d95fd]{
@@ -97,25 +97,25 @@
 [sha:97236c5ad009eeb169954faa2f246f3cc734e88d]{
 -- Page 4, Offset 21895.
 -- 悔しい？　悔しいでしょ？　夢にも思わなかったぐらいサプライズでしょ？　いいわ、遠慮なく喜びなさい」
-  Alors, mortifiée ? Tu es mortifiée, pas vrai ? Cette surprise doit dépasser tous tes rêves les plus fous, avoue ! Je te permets de te réjouir sans retenue !」
+　Alors, mortifiée ? Tu es mortifiée, pas vrai ? Cette surprise doit dépasser tous tes rêves les plus fous, avoue ! Je te permets de te réjouir sans retenue !」
 
 }
 [sha:fefea4ff31712bdb36ba23ac286ce3c98aa8e8d4]{
 -- Page 5, Offset 21896.
 -- ……すごい。
-  ... Incroyable.
+　... Incroyable.
 
 }
 [sha:3b337fac5396fbce99638ec85dc011240e27e358]{
 -- Page 5, Offset 21897.
 -- あの無表情な久遠寺さんが心底うんざりしている場面に出くわすとか、たしかに夢にも思わなかった。
-  Effectivement, même dans mes rêves les plus fous, je n'aurais jamais imaginé voir cette inexpressive de Kuonji afficher l'air d'ennui profond qu'elle arborait à présent.
+　Effectivement, même dans mes rêves les plus fous, je n'aurais jamais imaginé voir cette inexpressive de Kuonji afficher l'air d'ennui profond qu'elle arborait à présent.
 
 }
 [sha:0d43cd0a001fe2d3a9f78445ef0e67a1a0d4579f]{
 -- Page 5, Offset 21898.
 -- ピンク女はげんなりする久遠寺さんを見下ろし、満足そうに頷いて、ようやく周囲を見渡した。
-  La fille en rose acquiesça d'un air satisfait face à Kuonji, dépitée, et promena enfin son regard autour d'elle.
+　La fille en rose acquiesça d'un air satisfait face à Kuonji, dépitée, et promena enfin son regard autour d'elle.
 
 }
 [sha:3899e1a65e9e88313d54acb2622f1849d40af7aa]{
@@ -127,7 +127,7 @@
 [sha:d7a24bfd30754b28a0e2b91714fade12ba7f4fb5]{
 -- Page 6, Offset 21900.
 -- ほら、そこの神父。とりあえず私たちにドゥゲザした<後|あと>、全裸になってチキン食べながら切腹してくれない？」
-  Toi là, le prêtre. Pour commencer, prosterne-toi devant nous, puis mets-toi à poil et ouvre-toi le ventre tout en te goinfrant de poulet, tu veux ?」
+　Toi là, le prêtre. Pour commencer, prosterne-toi devant nous, puis mets-toi à poil et ouvre-toi le ventre tout en te goinfrant de poulet, tu veux ?」
 
 }
 [sha:833375718d369cce677754b983fa007882b8007a]{
@@ -139,7 +139,7 @@
 [sha:64278f7a4eedd67da5bcc45c00d08483c7b372b8]{
 -- Page 7, Offset 21902.
 -- 有珠さんに謝罪というのなら、まず貴女がするべきではないですか？　奪ったものは、きちんと本人に返さなければねぇ」
-  Si quelqu'un a des excuses à présenter à Alice, ne serait-ce pas plutôt toi ? Tu devrais rendre ce que tu as dérobé à sa propriétaire.」
+　Si quelqu'un a des excuses à présenter à Alice, ne serait-ce pas plutôt toi ? Tu devrais rendre ce que tu as dérobé à sa propriétaire.」
 
 }
 [sha:ab51743ba8468cd6dad3edf615189c7cbed03a3c]{
@@ -151,13 +151,13 @@
 [sha:7761d78e33715e7aa2ca82026ff0714e0fa5c687]{
 -- Page 8, Offset 21904. Mods: @k, @e.
 -- アリスだってキャッシュで受け取ったんだし、アレはもうアタシのモノっ！
-  En plus, Alice a accepté le paiement en cash, alors ça m'appartient maintenant !
+　En plus, Alice a accepté le paiement en cash, alors ça m'appartient maintenant !
 
 }
 [sha:dd47fb97ddb219f60e9f783e4149b40e0e72729f]{
 -- Page 8, Offset 21905. Glued. Mods: @x.
 -- 外野がいちいち口はさんでんじゃないわよ」
- Et puis, mêle-toi de ce qui te regarde !」
+　Et puis, mêle-toi de ce qui te regarde !」
 
 }
 [sha:f161e03a7b15c49eada9c65c024e4f59c69c8877]{
@@ -181,7 +181,7 @@
 [sha:57a0efe6e5db71aae96e948631bdf8e420feb2b1]{
 -- Page 9, Offset 21909.
 -- アンタも取引上手よね、“お金では譲れない”とか言って巧みにレートをあげていくんだから」
-  Tu es vraiment douée en marchandage. Tu prétends que “tu ne le céderas pas contre de l'argent” tout en faisant monter habilement les enchères.」
+　Tu es vraiment douée en marchandage. Tu prétends que “tu ne le céderas pas contre de l'argent” tout en faisant monter habilement les enchères.」
 
 }
 [sha:6540d96ececc6d4d837bbad2ba69e68e0b98f5b7]{
@@ -205,31 +205,31 @@
 [sha:b750c2b36781e813ddf7bb3e89b96c578112c9cf]{
 -- Page 11, Offset 21913.
 -- 槻司はああ言っているけど、わたしは知っている。
-  Malgré l'ignorance feinte de Tsukiji, je savais ce qu'il en était réellement.
+　Malgré l'ignorance feinte de Tsukiji, je savais ce qu'il en était réellement.
 
 }
 [sha:8ec22d6c57fbf9708a3ae5d3b0e900cdbf75f7b1]{
 -- Page 11, Offset 21914.
 -- 彼女の名前はリデル。
-  Cette jeune fille s'appelait Riddell.
+　Cette jeune fille s'appelait Riddell.
 
 }
 [sha:9bb6ea5d66ec9f48c978131403b4ff7c7ec01efa]{
 -- Page 11, Offset 21915.
 -- 一時期、槻司の家にホームステイしていた女の子だ。
-  Elle avait séjourné chez Tsukiji un certain temps.
+　Elle avait séjourné chez Tsukiji un certain temps.
 
 }
 [sha:50dbb813576ecef1c2ae7813f1b6a32c32a90504]{
 -- Page 11, Offset 21916.
 -- 槻司のお父さんとリデルのお父さん、企業間の付き合いでのコトらしい。
-  Apparemment, le père de Tsukiji et celui de Riddell s'étaient connus dans le cadre de leur travail.
+　Apparemment, le père de Tsukiji et celui de Riddell s'étaient connus dans le cadre de leur travail.
 
 }
 [sha:ab244b81226ff653828eea7450594f39c08b8b6a]{
 -- Page 11, Offset 21917.
 -- ……といっても槻司の屋敷は大きいので、一つ屋根の下、という話ではないだろうし、そう親しい仲ではない、と思いたい。
-  ...... Néanmoins, même si elle avait séjourné chez lui, la demeure de Tsukiji étant spacieuse, cela n'impliquait pas qu'ils avaient vécu sous le même toit ou qu'ils étaient proches ; du moins aimerais-je le penser.
+　...... Néanmoins, même si elle avait séjourné chez lui, la demeure de Tsukiji étant spacieuse, cela n'impliquait pas qu'ils avaient vécu sous le même toit ou qu'ils étaient proches ; du moins aimerais-je le penser.
 
 }
 [sha:400d2d949df2323007ae8b954d0793fd5027a35a]{
@@ -241,7 +241,7 @@
 [sha:ea90bdca6281d6d9f0af525731fe837216df751d]{
 -- Page 12, Offset 21919.
 -- リデル。貴女、何をしにきたの？」
-  Riddell, qu'es-tu venue faire ici au juste ?」
+　Riddell, qu'es-tu venue faire ici au juste ?」
 
 }
 [sha:01a299bbcdb8ece511fdacede572a5a23692c138]{
@@ -253,13 +253,13 @@
 [sha:f3aee48bc8bb2a5d4c323054a453805a678c320e]{
 -- Page 13, Offset 21921.
 -- トビマルの家に電話したら、“坊ちゃんなら久遠寺さんの家の誕生会にでかけた”とか言っちゃってさ。
-  J'ai téléphoné à la maison de Tobimaru et on m'a dit texto que le jeune maître était allé à une fête d'anniversaire chez Mlle Kuonji.
+　J'ai téléphoné à la maison de Tobimaru et on m'a dit texto que le jeune maître était allé à une fête d'anniversaire chez Mlle Kuonji.
 
 }
 [sha:002f821d8651336ba2d295052d849d45307af60f]{
 -- Page 13, Offset 21922.
 -- もうカーッと<脳髄|あたま>ハイになっちゃって、ライブキャンセルして飛んできたってワケ」
-  Du coup, j'ai piqué une grosse colère, annulé mon live et volé jusqu'ici.」
+　Du coup, j'ai piqué une grosse colère, annulé mon live et volé jusqu'ici.」
 
 }
 [sha:f25bcac24411c18aa4644484365daac00d35a4fd]{
@@ -277,7 +277,7 @@
 [sha:340eb8b9b58683d913bbd8198447e44ec86b2b93]{
 -- Page 14, Offset 21925.
 -- あれ？　まだ秋よね、この国？」
-  Tiens ? On est encore en automne dans ce pays, non ?」
+　Tiens ? On est encore en automne dans ce pays, non ?」
 
 }
 [sha:c194e8f22ad2fc5dc28e94914546024183b323a5]{
@@ -289,13 +289,13 @@
 [sha:4279133f4ae3671f7f8ee822bb05baddd43d5687]{
 -- Page 15, Offset 21927.
 -- ほら。わたし、貴女の頭を叩きすぎたでしょう？
-  Après tout, je t'ai tapé la tête assez fort, tu te souviens ?
+　Après tout, je t'ai tapé la tête assez fort, tu te souviens ?
 
 }
 [sha:8007b35df73bc3ee325f788400d5520c1ef16501]{
 -- Page 15, Offset 21928.
 -- それで気の毒な結果を招いてしまったのかと、少しだけ心配してしまったわ」
-  J'étais un peu inquiète. J'ai cru que tu souffrais de séquelles irréversibles.」
+　J'étais un peu inquiète. J'ai cru que tu souffrais de séquelles irréversibles.」
 
 }
 [sha:71572ab646c747b8f434bb80c613ccbd283cea0c]{
@@ -319,7 +319,7 @@
 [sha:a5b8574cfb3e7ba5f918d5fb5e572f516e5d8780]{
 -- Page 17, Offset 21932. Glued. Mods: @x.
 -- ところで、料金とられたのオレだけじゃないよね？」
-Au fait, je suis tout de même pas le seul à avoir dû payer, hein ?」
+　Au fait, je suis tout de même pas le seul à avoir dû payer, hein ?」
 
 }
 [sha:27a4d70276f71dbf554fddbe78ab4bfa4f6ea1fe]{
@@ -343,7 +343,7 @@ Au fait, je suis tout de même pas le seul à avoir dû payer, hein ?」
 [sha:75bd75f69916b9b1a4208a61b4594e7237bd2cbe]{
 -- Page 19, Offset 21936.
 -- たしかに誕生会だけど、わたしじゃなくてトッキィーの誕生会よ。
-  Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii, pas le mien.
+　Certes, nous fêtons un anniversaire, mais c'est celui de Tokkii, pas le mien.
 
 }
 [sha:c51cfca17cf98dbcd0b8139246103855e3bd4e91]{
@@ -355,7 +355,7 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:20616a372c08be804efa033d1ef72e6b3398a193]{
 -- Page 20, Offset 21938.
 -- わたしは招待状を見直した。
-  Je lus de nouveau la lettre d'invitation.
+　Je lus de nouveau la lettre d'invitation.
 
 }
 [sha:de91dd17b641d3cc2d1cc368f4d3a64751b3e864]{
@@ -367,13 +367,13 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:4af20e995a178eddfacade766db9f514c41bbc01]{
 -- Page 20, Offset 21940.
 -- なるほど。
-  Je vois.
+　Je vois.
 
 }
 [sha:49d37e2be0b49e4538893b3e2d5487bd01e798e2]{
 -- Page 20, Offset 21941.
 -- たしかに、誰の誕生日とは書かれていない。
-  Le nom de la personne dont on célébrait l'anniversaire n'était effectivement pas explicitement mentionné.
+　Le nom de la personne dont on célébrait l'anniversaire n'était effectivement pas explicitement mentionné.
 
 }
 [sha:e48235ffe64aec7275383ca929ce6f1aeb8d36eb]{
@@ -385,13 +385,13 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:649da35442857ec5e4ade96417204f289f3d9d26]{
 -- Page 21, Offset 21943.
 -- ……って、リデルリドル!?　アンタ、なんでここにいんのよ!?　ライブは!?　ねえ、いまＮＫホールでライブやってんじゃないの!?
-  ...... Hein ? Riddell Riddle ?! Que fais-tu ici ?! Et le live ?! Tu ne devais pas chanter au Hall NK en ce moment même ?!
+　...... Hein ? Riddell Riddle ?! Que fais-tu ici ?! Et le live ?! Tu ne devais pas chanter au Hall NK en ce moment même ?!
 
 }
 [sha:ba46d3753afa145d1b67003bda944750705bb63d]{
 -- Page 21, Offset 21944.
 -- 私、ビデオ録画してるんですけど!?」
-  J'ai programmé l'enregistrement vidéo, en plus !」
+　J'ai programmé l'enregistrement vidéo, en plus !」
 
 }
 [sha:bebda8e3dbe4f87a1a6852245ac3f694e0b726ed]{
@@ -415,25 +415,25 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:22522702e14f2283e9771503e746acc74be1d06e]{
 -- Page 23, Offset 21948.
 -- だいたいアタシ、音楽とかどうでもいいし。ファンなんてアタシに貢ぐだけの働きアリだし。ライブがハネた後はいつも空しくなってリスカするし。
-  Primo, je m'en bats les steaks de la musique. Deuxio, les fans sont des fourmis ouvrières qui n'existent que pour m'entretenir. Tertio, à la fin de chaque concert, je me sens toujours vide et abattue.
+　Primo, je m'en bats les steaks de la musique. Deuxio, les fans sont des fourmis ouvrières qui n'existent que pour m'entretenir. Tertio, à la fin de chaque concert, je me sens toujours vide et abattue.
 
 }
 [sha:453dcbeba8ab21c29da60504bdb225dd0446f9cf]{
 -- Page 23, Offset 21949.
 -- スポットライトは当たっても、ホントのアタシは誰も見てくれないし」
-  Et quarto, le feu des projecteurs a beau m'éclairer, personne ne voit la vraie moi.」
+　Et quarto, le feu des projecteurs a beau m'éclairer, personne ne voit la vraie moi.」
 
 }
 [sha:e90ffbdfe62b92b4286bfa88f9042b5abccd48ad]{
 -- Page 24, Offset 21950.
 -- ピンク女の空気が突如、一変する。
-  L'aura de la fille en rose changea du tout au tout.
+　L'aura de la fille en rose changea du tout au tout.
 
 }
 [sha:79c562b31809f3ad036fb62c0f1b912cca0aa63a]{
 -- Page 24, Offset 21951.
 -- ぶつぶつと呟く彼女の肩に、チチチ、と可愛らしく鳴く青い駒鳥が降り立った。
-  Cui cui cui, le rouge-gorge bleu se pausa avec un gazouillis adorable sur l'épaule de la fille qui grommelait.
+　Cui cui cui, le rouge-gorge bleu se pausa avec un gazouillis adorable sur l'épaule de la fille qui grommelait.
 
 }
 [sha:31505197e2ec55a4719dd5c64888399c59f98029]{
@@ -457,13 +457,13 @@ Je le sais bien, alors fiche-moi la paix, Robin. Je te couperai en petits morcea
 [sha:f9a708c2a939d50bd525f2128f36b113468d945c]{
 -- Page 26, Offset 21955.
 -- ……なんか、鳥と話しているし。
-  ...... Elle avait l'air de parler avec l'oiseau.
+　...... Elle avait l'air de parler avec l'oiseau.
 
 }
 [sha:efbfcff9aeb712af22116199d04bc14e880f0391]{
 -- Page 26, Offset 21956.
 -- 本格的に電波だったんだ、あのアイドル。
-  “Cette star est vraiment timbrée.”
+　“Cette star est vraiment timbrée.”
 
 }
 [sha:da9dd65870bc73b81424af8648a53b15199d45f7]{
@@ -475,13 +475,13 @@ Je le sais bien, alors fiche-moi la paix, Robin. Je te couperai en petits morcea
 [sha:ead7d749aa5128d8d59c913b14625600d69960d2]{
 -- Page 27, Offset 21958.
 -- 私たちもどうして呼ばれたのか半信半疑でしたが、それなら合点がいきます。
-  L'invitation nous avait rendus sceptiques, mais je comprends mieux à présent.
+　L'invitation nous avait rendus sceptiques, mais je comprends mieux à présent.
 
 }
 [sha:c1dfec146f4e9b523ba1dbddeca9202496eb7f6c]{
 -- Page 27, Offset 21959.
 -- シスター唯架なんて、これは罠だから完全武装で行くべきです、とか言いだす始末ですし」
-  Sœur Yuika est même allée jusqu'à dire qu'il s'agissait forcément d'un piège et qu'il fallait venir parfaitement armé.」
+　Sœur Yuika est même allée jusqu'à dire qu'il s'agissait forcément d'un piège et qu'il fallait venir parfaitement armé.」
 
 }
 [sha:d236aba039fc9d72e7b42e6d274c3e80174ebfd0]{
@@ -493,13 +493,13 @@ Je le sais bien, alors fiche-moi la paix, Robin. Je te couperai en petits morcea
 [sha:a95b9faf810d1dbc53bb01ec10161bacc0811bd6]{
 -- Page 28, Offset 21961.
 -- しかし久遠寺さん、肝心の土桔<由里彦|ゆりひこ>氏は何処に？
-  Puisqu'il en est question, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
+　Puisqu'il en est question, Mlle Kuonji, où est M. Tokitsu Yurihiko, l'invité d'honneur ?
 
 }
 [sha:77dda28a73dd5fcdb1cffd5939083e54701d5973]{
 -- Page 28, Offset 21962.
 -- 私たちも挨拶をしていないのですが」
-  Nous n'avons pas encore eu l'opportunité de le saluer.」
+　Nous n'avons pas encore eu l'opportunité de le saluer.」
 
 }
 [sha:d46e7fd70d7122e9d45da86a7fabd8f789160af5]{
@@ -529,7 +529,7 @@ Aoko, où est Tokkii ?」
 [sha:f808a2f58a4443f1f48d581cc559018940098eda]{
 -- Page 30, Offset 21967.
 -- 誰か、土桔の爺さんを見なかったか？」
-  Personne n'a vu le vieux Tokitsu ?」
+　Personne n'a vu le vieux Tokitsu ?」
 
 }
 [sha:b7625489acf61d0996c08eabb0c310aaf1e2c924]{
@@ -547,7 +547,7 @@ Aoko, où est Tokkii ?」
 [sha:0c7a4ed1b0aceea2e47fdfb89fc5496b47c4b1d2]{
 -- Page 31, Offset 21970.
 -- 何度か席を外したけど、その時も見かけなかったし」
-  Je me suis absentée à plusieurs reprises, et pourtant, je ne l'ai aperçu à aucun moment.」
+　Je me suis absentée à plusieurs reprises, et pourtant, je ne l'ai aperçu à aucun moment.」
 
 }
 [sha:1d2149f5ea3505707baed3f9a54c433ed40b1688]{
@@ -559,13 +559,13 @@ Aoko, où est Tokkii ?」
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 32, Offset 21972.
 -- 返事はない。
-  Personne ne répondit.
+　Personne ne répondit.
 
 }
 [sha:b45f82cf1dc89ecf44e723f463a4586ebcaf26d2]{
 -- Page 32, Offset 21973.
 -- ……全員、何か予感じみたものがあったのか、あのピンク女や芳助でさえ無駄口を叩かない。
-  ...... Tout le monde semblait éprouver une sorte de pressentiment. Même la fille en rose et Hōsuke évitaient de faire des remarques sans intérêt.
+　...... Tout le monde semblait éprouver une sorte de pressentiment. Même la fille en rose et Hōsuke évitaient de faire des remarques sans intérêt.
 
 }
 [sha:9c002fa375af48a04a8e28a431afe52e0bf54718]{
@@ -577,7 +577,7 @@ Aoko, où est Tokkii ?」
 [sha:870322269a1713e793410fbeef57ac9d6c4dabdb]{
 -- Page 33, Offset 21975.
 -- 声を上げているのは、テーブルの上で不思議そうに首を傾げている駒鳥だけ。
-  Le seul à élever la voix était le rouge-gorge penchant étrangement la tête sur la table.
+　Le seul à élever la voix était le rouge-gorge penchant étrangement la tête sur la table.
 
 }
 [sha:47377263e5a173782fb9e8a8ff8e49739fc17d33]{
@@ -589,25 +589,25 @@ Aoko, où est Tokkii ?」
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 34, Offset 21977.
 -- ……と。
-  ... À ce moment-là,
+　... À ce moment-là,
 
 }
 [sha:4f7377b3667d59e9d3b70ab50060e1c52b6d4f67]{
 -- Page 34, Offset 21978.
 -- そこへ、ひとり<安穏|あんのん>とした男がやってきた。
-  le seul homme paisible se montra.
+　le seul homme paisible se montra.
 
 }
 [sha:4efdc059288619aa50a7c27694759bbe43a4f3c0]{
 -- Page 35, Offset 21979.
 -- 場の雰囲気を察したんだろう。
-  Il avait probablement senti l'ambiance lourde qui régnait dans la pièce.
+　Il avait probablement senti l'ambiance lourde qui régnait dans la pièce.
 
 }
 [sha:ac6114c802c4d75dc0f9f8d40a2b56d0cd8e6553]{
 -- Page 35, Offset 21980.
 -- 静希は例の、なに考えているか分からない笑顔で集まった人々を見渡して、一言。
-  Shizuki promena son regard sur les personnes rassemblées et, avec son fameux sourire qui ne laissait rien paraître de ses pensées, il prononça les mots suivants :
+　Shizuki promena son regard sur les personnes rassemblées et, avec son fameux sourire qui ne laissait rien paraître de ses pensées, il prononça les mots suivants :
 
 }
 [sha:c96c785331bf6062c7c3713e90754caacd5bf791]{
@@ -619,7 +619,7 @@ Aoko, où est Tokkii ?」
 [sha:bf2e82c6499247bee4bc7c384edded75df398a2c]{
 -- Page 36, Offset 21982.
 -- 屋根裏で土桔さんが死んでいるんだけど、どうしようか？」
-  M. Tokitsu est mort dans le grenier. Qu'est-ce qu'on fait ?」
+　M. Tokitsu est mort dans le grenier. Qu'est-ce qu'on fait ?」
 
 }
 [sha:3220f4d71a67a592ee39dc2a7f65f66f2ccc96e9]{

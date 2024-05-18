@@ -1,13 +1,13 @@
 [sha:ce1a90410a5c89793844b18b17a13d4dda32e9b6]{
 -- Page 0, Offset 21551.
 -- 満場一致で山城先生の捜索が開始された。
-  La recherche de M. Yamashiro fut décidée à l'unanimité.
+　La recherche de M. Yamashiro fut décidée à l'unanimité.
 
 }
 [sha:bb3d0c3702b51b433e6bc885e8fcb16aa5f1ba70]{
 -- Page 0, Offset 21552.
 -- 手分けして館内を回っていると、二階の客室を担当していた律架さんがみんなを呼び集めた。
-  Nous nous séparâmes pour fouiller le manoir, et quelques minutes plus tard, Ritsuka, en charge des chambres d'ami du premier étage, appela tout le monde.
+　Nous nous séparâmes pour fouiller le manoir, et quelques minutes plus tard, Ritsuka, en charge des chambres d'ami du premier étage, appela tout le monde.
 
 }
 [sha:1253d964a2c4274622e0d2e8167d879d457eb2aa]{
@@ -25,19 +25,19 @@
 [sha:78d8d944751023a535db1c121d749a7366a8b316]{
 -- Page 1, Offset 21555. Glued. Mods: @x.
 -- だけど……っっ」
- pff, pff.」
+pff, pff.」
 
 }
 [sha:6006ad7a8b21ed4eec148ebe3b159fc02d154d9c]{
 -- Page 1, Offset 21556.
 -- 律架さんはそこで言葉を止めた。
-  Ritsuka se tut sur ces mots.
+　Ritsuka se tut sur ces mots.
 
 }
 [sha:45dbfbfd5a931508ba3af51522ef58fcefe8743f]{
 -- Page 1, Offset 21557.
 -- 最後のあたりはなんとなく笑いを<堪|こら>えているように見えたが、気のせいだと思いたい。
-  Sur la fin, elle avait vaguement eu l'air de se retenir de rire, mais je voulus croire que ce n'était que mon imagination.
+　Sur la fin, elle avait vaguement eu l'air de se retenir de rire, mais je voulus croire que ce n'était que mon imagination.
 
 }
 [sha:fdbab213a351653ecf6495de12d57ff9e99411c1]{
@@ -49,25 +49,25 @@
 [sha:249009bcab6cd06c2c67c10363c058ff289ec255]{
 -- Page 2, Offset 21559.
 -- 律架さんに<促|うなが>されて、わたしたちは部屋の中に足を踏み入れた。
-  Sur le conseil de Ritsuka, nous pénétrâmes dans la chambre.
+　Sur le conseil de Ritsuka, nous pénétrâmes dans la chambre.
 
 }
 [sha:da08ff45fb7adce670be258e3b87732ae4989e1f]{
 -- Page 3, Offset 21560.
 -- 客室に入るとそこは
-  En entrant à l'intérieur,
+　En entrant à l'intérieur,
 
 }
 [sha:2dafcb97692294abbe95c9854940b5011dce3408]{
 -- Page 3, Offset 21561.
 -- 一面の花景色。
-  nous fûmes accueillis par un paysage floral.
+　nous fûmes accueillis par un paysage floral.
 
 }
 [sha:878b74801055bf269d712ca46080c0db9d23793b]{
 -- Page 3, Offset 21562.
 -- その中心に、山城先生は眠るように息絶えていた。
-  En son centre, M. Yamashiro semblait endormi, le souffle éteint.
+　En son centre, M. Yamashiro semblait endormi, le souffle éteint.
 
 }
 [sha:3c7d8e5ddabc7bc54750501035e689e552950c5a]{
@@ -79,19 +79,19 @@
 [sha:17fa863cdb29f4a1c312bfdc150262ecfa46ec7e]{
 -- Page 4, Offset 21564.
 -- 蒼崎は必死に笑いを堪えている。
-  Aozaki retenait désespérément son rire.
+　Aozaki retenait désespérément son rire.
 
 }
 [sha:20e2db85b8de6b7b82c5093506100592a7006604]{
 -- Page 5, Offset 21565.
 -- かくいうわたしも、こみ上げたものを飲みこむので精一杯だった。
-  Je n'étais pas en reste, puisque je retenais moi aussi le rire qui montait dans ma gorge de toutes mes forces.
+　Je n'étais pas en reste, puisque je retenais moi aussi le rire qui montait dans ma gorge de toutes mes forces.
 
 }
 [sha:0f055377995c77528f256db07bf618ab48b96017]{
 -- Page 5, Offset 21566.
 -- 不謹慎だけど、花に囲まれた状態で満足そうに永眠している山城先生のビジュアルは、厳かなお葬式というより、紅白歌合戦の大歌手を連想させたからだ。
-  En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du Nouvel An que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
+　En effet, l'apparence du professeur Yamashiro dans son sommeil éternel, l'air satisfait entouré de fleurs, m'évoquait davantage le concours de chant télévisé du Nouvel An que des funérailles austères, même si l'idée était quelque peu irrespectueuse.
 
 }
 [sha:58cc2325c950cd4de5b13267d86316fa94edca06]{
@@ -103,7 +103,7 @@
 [sha:33c758b0e55bcdc1d4f0c56f747241bc3a13c913]{
 -- Page 6, Offset 21568.
 -- 山城先生は普段、どんな人生を送りたいと思っていたのでしょうね？」
-  Je me demande quel genre de vie voulait avoir M. Yamashiro.」
+　Je me demande quel genre de vie voulait avoir M. Yamashiro.」
 
 }
 [sha:f7a58180659411554a09cbb619c803f40ad1d5f5]{
@@ -121,7 +121,7 @@
 [sha:07853477a3fe7544461298792253abcce1f8c60f]{
 -- Page 7, Offset 21571.
 -- 今後、新たな犠牲者が出た時、その死を笑うような事はないように。いいですね」
-  Dorénavant, faites en sorte de ne pas vous moquer du cadavre d'une éventuelle prochaine victime. Est-ce clair ?」
+　Dorénavant, faites en sorte de ne pas vous moquer du cadavre d'une éventuelle prochaine victime. Est-ce clair ?」
 
 }
 [sha:d0a1f8a00c303b002c32c7d4dd1e03776b388849]{
@@ -133,7 +133,7 @@
 [sha:9df6f9639670510417d34bff88ba338c45f5a39b]{
 -- Page 8, Offset 21573.
 -- やはりこういう時は頼りになりますね、唯架くんは」
-  Je savais qu'on pouvait se fier à vous dans ces moments-là, Yuika.」
+　Je savais qu'on pouvait se fier à vous dans ces moments-là, Yuika.」
 
 }
 [sha:45fb67384fda5485174b649455812eb261d5e70c]{
@@ -145,37 +145,37 @@
 [sha:6d0fd7a4e4af342b86d69e823b798aceeb829733]{
 -- Page 9, Offset 21575.
 -- ぴしゃりとした唯架さんのお叱りで、部屋の雰囲気は一気に冷えこんだ。
-  Les réprimandes mordantes de Yuika refroidirent d'un coup l'ambiance de la pièce.
+　Les réprimandes mordantes de Yuika refroidirent d'un coup l'ambiance de la pièce.
 
 }
 [sha:a412050ee0dbe9c2ba508d328669d8ec0bacfd88]{
 -- Page 9, Offset 21576.
 -- わたしたちは部屋を調べた後、久遠寺さんのマスターキーで山城先生の客室を施錠して、居間に戻ることになった。
-  Après avoir fouillé les lieux, nous fermâmes la porte avec le passe-partout de Kuonji et retournâmes dans le salon.
+　Après avoir fouillé les lieux, nous fermâmes la porte avec le passe-partout de Kuonji et retournâmes dans le salon.
 
 }
 [sha:a57966642ed7eae1063095440641004231c85f3f]{
 -- Page 10, Offset 21577.
 -- 居間は重苦しい空気に包まれている。
-  Une atmosphère pesante régnait dans le salon.
+　Une atmosphère pesante régnait dans le salon.
 
 }
 [sha:0c5be1393c0b5ee86093251696921d2059b20097]{
 -- Page 10, Offset 21578.
 -- この重苦しさは死者が増えた事による<悲愴感|ひそうかん>ではない。
-  Le nombre croissant de victimes n'était pour rien dans cet air vicié par la tristesse.
+　Le nombre croissant de victimes n'était pour rien dans cet air vicié par la tristesse.
 
 }
 [sha:2b4caef441b9363ec2d028baa73ef8e223d02225]{
 -- Page 10, Offset 21579.
 -- 二人一組になった事で、ある種の空気が<蔓延|まんえん>しだしている事に、わたしは気付いていた。
-  J'avais remarqué que le fait de nous être divisés en groupes de deux avait donné naissance à une drôle d'ambiance :
+　J'avais remarqué que le fait de nous être divisés en groupes de deux avait donné naissance à une drôle d'ambiance :
 
 }
 [sha:82599112e6cddb033dcc6dc803b62b448af896eb]{
 -- Page 10, Offset 21580.
 -- ……よくない事に、わたしたちは他のチームを疑い始めてしまっている。
-  ... nous commencions malheureusement à soupçonner les autres équipes.
+　... nous commencions malheureusement à soupçonner les autres équipes.
 
 }
 [sha:6974183d7179e01b654623f3172fe54ffe47b8aa]{
@@ -187,25 +187,25 @@
 [sha:e01f40bee8a57e42c1eb78271939004330f1539d]{
 -- Page 11, Offset 21582.
 -- どちらにせよ、親しい仲での不意打ちだったんだろう。
-  Dans les deux cas, il s'agissait très probablement d'une attaque-surprise, et le coupable était quelqu'un d'assez proche de lui.
+　Dans les deux cas, il s'agissait très probablement d'une attaque-surprise, et le coupable était quelqu'un d'assez proche de lui.
 
 }
 [sha:1ac65dfb6b4d76f64a454386a72b7c3c4502dcb2]{
 -- Page 11, Offset 21583.
 -- 山城はルールを知らなかったから、あっさり笑わされたんだろうが……」
-  En plus, Yamashiro ne connaissait pas les règles. Il a dû être facile de le faire rire, mais...」
+　En plus, Yamashiro ne connaissait pas les règles. Il a dû être facile de le faire rire, mais...」
 
 }
 [sha:63a9e0b558ffa5295b0b40f92e5fce399da3af7b]{
 -- Page 12, Offset 21584.
 -- 槻司は居間に集まった全員に向けて話しかけていた。
-  Tsukiji s'adressait à toutes les personnes réunies dans le salon.
+　Tsukiji s'adressait à toutes les personnes réunies dans le salon.
 
 }
 [sha:7588102bc1de5a9de46cf420c74e24d2f9841856]{
 -- Page 12, Offset 21585.
 -- こういう時、みんなの意見を求める立場である詠梨神父がさっきから押し黙っているため、仕方なく代役を買って出た、という顔だ。
-  Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
+　Comme père Eiri, qui était en position de demander les avis de tous dans ce genre de situation, restait silencieux, Tsukiji s'était porté volontaire à contre-cœur pour être son substitut, et ça se voyait sur son visage.
 
 }
 [sha:550a0a619ddaff31870d79bf436dc02e64b23eaa]{
@@ -217,7 +217,7 @@
 [sha:9d750a61d63f994a15c97557071bef156b25086c]{
 -- Page 13, Offset 21587.
 -- 今の憶測に間違いはないと思うけど？」
-  Ta supposition me semble plutôt juste, pourtant.」
+　Ta supposition me semble plutôt juste, pourtant.」
 
 }
 [sha:1a3ec58e42ff304258b524ff646120c1ea9cf3a3]{
@@ -229,25 +229,25 @@
 [sha:b835bb500528e51561a6beaab9fd7afdb81b2756]{
 -- Page 13, Offset 21589.
 -- あの昼行灯が、他人の冗談に心から笑う、っていうのはかなりレアな出来事じゃないか？」
-  C'est assez rare de voir cet homme plutôt lent à la détente rire sincèrement d'une blague, non ?」
+　C'est assez rare de voir cet homme plutôt lent à la détente rire sincèrement d'une blague, non ?」
 
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 14, Offset 21590.
 -- そうだ。
-  Exactement.
+　Exactement.
 
 }
 [sha:88901e3ab714e8970cdd97f859b08d95f59b6c1d]{
 -- Page 14, Offset 21591.
 -- 山城先生はいつもニコニコ顔で穏やかだけど、究極の中立者というか、柳に風、のれんに腕押し、<馬耳東風|ばじとうふう>ぐらいにたいていの意見は受け流してしまう。
-  Le professeur Yamashiro était quelqu'un de toujours calme et souriant, mais qui faisait preuve d'une neutralité absolue. Il réagissait avec flegme et la plupart des avis tombaient dans l'oreille d'un sourd avec lui.
+　Le professeur Yamashiro était quelqu'un de toujours calme et souriant, mais qui faisait preuve d'une neutralité absolue. Il réagissait avec flegme et la plupart des avis tombaient dans l'oreille d'un sourd avec lui.
 
 }
 [sha:f1cdfe3433feea37fd890a24407285eac9163d0d]{
 -- Page 14, Offset 21592.
 -- 山城先生が本気で笑うとしたら、それは不意打ちの、ドッキリテレビみたいな<脅|おど>かし方ではないだろうか。
-  Si le professeur Yamashiro devait rire du fond du cœur, ne serait-ce pas d'une surprise comme celles des caméras cachées ?
+　Si le professeur Yamashiro devait rire du fond du cœur, ne serait-ce pas d'une surprise comme celles des caméras cachées ?
 
 }
 [sha:7d7992c1f4f166af4ca7296b0e3e237b2ef83a7c]{
@@ -259,7 +259,7 @@
 [sha:8922e41a425afcac28463f313c7bf06897564d1b]{
 -- Page 15, Offset 21594.
 -- どうも敵さん本気で攻めてきてるみたいだからな。仲良し時間は終わりにして、本題に入ろうぜ」
-  Notre cher ennemi a l'air plutôt sérieux. Alors finissons-en avec les camaraderies et entrons dans le vif du sujet.」
+　Notre cher ennemi a l'air plutôt sérieux. Alors finissons-en avec les camaraderies et entrons dans le vif du sujet.」
 
 }
 [sha:6eead6b0fee76b3ceb62985b517626a043ad0341]{
@@ -271,31 +271,31 @@
 [sha:03031d33b305f22b50df292875c324ec960f07bf]{
 -- Page 15, Offset 21596.
 -- 犯人捜しを始めましょう」
-  Commençons la recherche du coupable.」
+　Commençons la recherche du coupable.」
 
 }
 [sha:6fb18f5d6e22a6df64529857cbfefa1b16224490]{
 -- Page 16, Offset 21597.
 -- 聞きたくはない台詞だったけど、同時に誰もが口にしたくてしょうがなかった台詞。
-  C'était une phrase que personne ne voulait entendre, mais qu'on ne pouvait également s'empêcher de vouloir prononcer.
+　C'était une phrase que personne ne voulait entendre, mais qu'on ne pouvait également s'empêcher de vouloir prononcer.
 
 }
 [sha:2b5ba36d59bb13af7670722960b23880c2d41681]{
 -- Page 16, Offset 21598.
 -- そう、これは避けては通れない。
-  Car oui, elle était inévitable.
+　Car oui, elle était inévitable.
 
 }
 [sha:c99f9657ef9ec4822ad57e18c5e3471ccf624538]{
 -- Page 16, Offset 21599.
 -- この中に土桔由里彦氏と山城先生を『意図的に』笑わせた人物Ａがいるのだ。
-  Parmi nous se trouvait l'individu A qui avait intentionnellement fait rire M. Tokitsu Yurihiko et M. Yamashiro.
+　Parmi nous se trouvait l'individu A qui avait intentionnellement fait rire M. Tokitsu Yurihiko et M. Yamashiro.
 
 }
 [sha:ea3e41b15567a0034618681bcaf85f8028a7273f]{
 -- Page 16, Offset 21600.
 -- しかも土桔氏に対しては爆薬まで用いて―――あれ？
-  Par ailleurs, il était même allé jusqu'à préparer des explosifs dans le cas de M. Tokitsu―――Hein ?
+　Par ailleurs, il était même allé jusqu'à préparer des explosifs dans le cas de M. Tokitsu―――Hein ?
 
 }
 [sha:4258d2c86c159e17d9a897e7aecdb014a6b96087]{
@@ -319,19 +319,19 @@
 [sha:dd4563eabb7c4c94ffe158e3fca3ab816544ed91]{
 -- Page 18, Offset 21604.
 -- 申し訳なさそうに額をかく槻司。
-  Tsukiji se grattait le front, d'un air pantois.
+　Tsukiji se grattait le front, d'un air pantois.
 
 }
 [sha:bbd9e8ecb0d79e9849416ec2e022db74a7f1a6ce]{
 -- Page 18, Offset 21605.
 -- やれ殺害時間の操作だの、身元の隠蔽だのと考察していた自分に呆れているっぽい。
-  Il semblait embarrassé par ses suppositions sur une manipulation temporelle du meurtre ou le camouflage du corps.
+　Il semblait embarrassé par ses suppositions sur une manipulation temporelle du meurtre ou le camouflage du corps.
 
 }
 [sha:046c9947ebb590a570fdaf453462ad92054b0f79]{
 -- Page 18, Offset 21606.
 -- あれで繊細なところもあるのだ、コイツは。
-  On ne l'aurait pas dit, mais il cachait aussi un côté délicat.
+　On ne l'aurait pas dit, mais il cachait aussi un côté délicat.
 
 }
 [sha:aa58feb23e7ffe9337768a1f1621019811d2ca7e]{
@@ -343,13 +343,13 @@
 [sha:e2ed9019a36b734b2f2214f6743e70fab249c837]{
 -- Page 19, Offset 21608.
 -- これがプロイキッシャーによる犯行なら、第一容疑者は久遠寺有珠、第二容疑者は蒼崎青子、第三容疑者はメイ・リデル・アーシェロット。以上の三名にしぼられます。
-  Si le crime est dû à un Ploy Kickshaw, alors le premier suspect est Kuonji Alice, le deuxième Aozaki Aoko et le troisième May Riddell Archelot. Nos suspects se réduisent à ces trois noms.
+　Si le crime est dû à un Ploy Kickshaw, alors le premier suspect est Kuonji Alice, le deuxième Aozaki Aoko et le troisième May Riddell Archelot. Nos suspects se réduisent à ces trois noms.
 
 }
 [sha:b1619fae41055e5f68a714499ec33f16b33541ff]{
 -- Page 19, Offset 21609.
 -- 彼女たちをここで笑わせてしまえば解決です。脇腹を<抉|えぐ>るなり、足の裏を<削|そ>ぐなりすれば人間は笑います。物理的に」
-  Tout sera réglé si nous les faisons rire. Un humain rit lorsque l'on chatouille ses flancs ou la plante de ses pieds. Du moins, physiquement parlant.」
+　Tout sera réglé si nous les faisons rire. Un humain rit lorsque l'on chatouille ses flancs ou la plante de ses pieds. Du moins, physiquement parlant.」
 
 }
 [sha:a256723870b63716ee8df8f823b6b904fcdd39f8]{
@@ -361,13 +361,13 @@
 [sha:759117f0f45fa5efd9106cdea57064225ba116de]{
 -- Page 20, Offset 21611.
 -- 冷静に、冷静になりましょう、みんな。ケンカはよくないわ、犯人の思うつぼよ、きっと！
-  Du calme, restons calmes, les amis. Il ne faut pas se battre. C'est ce que veut le coupable, à tous les coups !
+　Du calme, restons calmes, les amis. Il ne faut pas se battre. C'est ce que veut le coupable, à tous les coups !
 
 }
 [sha:4903426a227c97af11054d18b3d20dbb79223589]{
 -- Page 20, Offset 21612.
 -- もっとミステリ的に考えましょう。まずはアリバイ検証とか、ほら、物理的に穏やかな方向で！」
-  Réfléchissons-y de manière plus logique. On peut déjà commencer par vérifier les alibis, ou en tout cas, en entreprenant des actions paisibles, physiquement parlant du moins !」
+　Réfléchissons-y de manière plus logique. On peut déjà commencer par vérifier les alibis, ou en tout cas, en entreprenant des actions paisibles, physiquement parlant du moins !」
 
 }
 [sha:65b4c02935afa9124986a6c3ec0cdd897e27ba67]{
@@ -385,19 +385,19 @@
 [sha:1ad32da3033873d8b5dc3a3f842c6704fcf32f32]{
 -- Page 21, Offset 21615.
 -- その前に、スイーツハーツだっけか？　そいつの特徴を詳しく聞きたいんですけど。
-  Avant cela, je voudrais qu'on nous explique les particularités de... Sweets Hearts, c'est ça ? En détails.
+　Avant cela, je voudrais qu'on nous explique les particularités de... Sweets Hearts, c'est ça ? En détails.
 
 }
 [sha:b3c9f4194f3d3a51c1a8f4dd273168c788a8ecd1]{
 -- Page 21, Offset 21616.
 -- 久遠寺、知ってる事を話してくれ。
-  Kuonji, dis-nous ce que tu sais.
+　Kuonji, dis-nous ce que tu sais.
 
 }
 [sha:70aaa764f1ad0b03304ed719ed1f7bd50a7bed41]{
 -- Page 21, Offset 21617.
 -- ルールがどうたら以前に、そいつがどういうカタチなのか、俺たちは知らねえんだ」
-  On connaît ses règles, mais on n'a aucune idée de ce à quoi il ressemble.」
+　On connaît ses règles, mais on n'a aucune idée de ce à quoi il ressemble.」
 
 }
 [sha:906900496f113d99fa9115135c1f2036e9f51dc0]{
@@ -409,7 +409,7 @@
 [sha:adf5d922701815566757e3cfdb0d7a9cca749dc9]{
 -- Page 22, Offset 21619.
 -- スイーツハーツは卵形のプディングよ。<王冠|おうかん>を逆さにして、ゆで卵を載せたようなカタチ」
-  Sweets Hearts est un pudding ovoïde. Il ressemble à un œuf à la coque posé sur une couronne inversée.」
+　Sweets Hearts est un pudding ovoïde. Il ressemble à un œuf à la coque posé sur une couronne inversée.」
 
 }
 [sha:d7d80b791c85144f5c4963353bdfed25746cce08]{
@@ -427,7 +427,7 @@
 [sha:c2cc51bd68a62dae7b210579a8a57976c01feba9]{
 -- Page 24, Offset 21622.
 -- それは発動する前のカタチよ。スイーツハーツは自分を食べた相手に、そっくりそのまま<擬態|ぎたい>するの」
-  Ça, c'est sa forme avant d'être activé. Sweets Hearts devient le sosie parfait de la personne qui le mange.」
+　Ça, c'est sa forme avant d'être activé. Sweets Hearts devient le sosie parfait de la personne qui le mange.」
 
 }
 [sha:f236bc5aa7351466b7c5daf21795b1d0a5824f5e]{
@@ -439,7 +439,7 @@
 [sha:71b15ca29c98f0e0e94636dd697fc769a072925e]{
 -- Page 25, Offset 21624.
 -- 活動をはじめたスイーツハーツは、人間のカタチをしているってコト」
-  Pour faire simple, une fois activé, Sweets Hearts a une forme humaine.」
+　Pour faire simple, une fois activé, Sweets Hearts a une forme humaine.」
 
 }
 [sha:69ea43d2ee060fd1743723a9c56eeb7050430cf4]{
@@ -457,7 +457,7 @@
 [sha:bf010e555c2726a68910c1ba6960e5593464c8e2]{
 -- Page 26, Offset 21627.
 -- そう、スイーツハーツは使用者に化けるプロイなの。それも完全によ。なにしろ起動してしまったら、スイーツハーツすら自分が“犯人”だとは思っていないんだもの」
-  Oui, Sweets Hearts est un Ploy qui prend l'apparence de l'utilisateur. Et ce à la perfection. Une fois activé, Sweets Hearts lui-même ne pense pas être le “coupable”.」
+　Oui, Sweets Hearts est un Ploy qui prend l'apparence de l'utilisateur. Et ce à la perfection. Une fois activé, Sweets Hearts lui-même ne pense pas être le “coupable”.」
 
 }
 [sha:91ec8cbf173c2230bf0dc58f96c3ec1c7c8d39ee]{
@@ -469,13 +469,13 @@
 [sha:a098702892c02036531c3c38ffbc8e3628c86313]{
 -- Page 27, Offset 21629.
 -- 犯人と思わしきヤツをどんなに詰問しても、拷問しても、ソレがスイーツハーツだっていう客観的、かつ絶対的な証拠がないと正体は暴けない。
-  On aura beau interroger ou torturer le type qu'on pense être coupable, s'il n'y a pas de preuve objective et absolue que c'est bien Sweets Hearts, on ne peut pas dévoiler son identité au grand jour.
+　On aura beau interroger ou torturer le type qu'on pense être coupable, s'il n'y a pas de preuve objective et absolue que c'est bien Sweets Hearts, on ne peut pas dévoiler son identité au grand jour.
 
 }
 [sha:93c47a10042e753943f30e6d008c2d1e292c8e4f]{
 -- Page 27, Offset 21630.
 -- “使用者”は証拠をつきつけられて、ようやく自分がスイーツハーツだって気が付くのよ」
-  “L'utilisateur” ne se rendra enfin compte qu'il est Sweets Hearts qu'une fois qu'on lui aura mis des preuves irréfutables sous les yeux.」
+　“L'utilisateur” ne se rendra enfin compte qu'il est Sweets Hearts qu'une fois qu'on lui aura mis des preuves irréfutables sous les yeux.」
 
 }
 [sha:a04d2696bfb5e0b3e7a905126a1d58fd358ed35d]{
@@ -487,7 +487,7 @@
 [sha:50746470390e1b3068eea17422ed929634ba990a]{
 -- Page 28, Offset 21632.
 -- たまんないですっ！　正直、もうたまんないです！」
-  J'adore ça ! Vraiment, j'adore ça !」
+　J'adore ça ! Vraiment, j'adore ça !」
 
 }
 [sha:37ea5eff147ae99be53f47942dc54be48ffceffd]{
@@ -511,37 +511,37 @@
 [sha:8e8ffa813005f3cff17c8cc568b4357108fc0b41]{
 -- Page 29, Offset 21636.
 -- 普段は代行している人間そのものだけど、『ルール実行可能』な条件になると、その時だけスイーツハーツの人格に切り替わる。
-  En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
+　En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts remonte à la surface.
 
 }
 [sha:faa606688559560149501e71406fb2c7ee0f7833]{
 -- Page 29, Offset 21637.
 -- もちろん、『代行している人間』の時の人格には、スイーツハーツを起動した時の記憶は消失しているわ」
-  Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
+　Bien sûr, la personnalité de l'humain qu'il remplace perd tous les souvenirs du moment où il devient Sweets Hearts.」
 
 }
 [sha:c0736029baae7058ab635993e324e61c470b9ad6]{
 -- Page 30, Offset 21638.
 -- ……なんだってのよ、その条件。
-  ... Ces conditions étaient absurdes.
+　... Ces conditions étaient absurdes.
 
 }
 [sha:c2066688b24715257cf9ec97003361ff0273dc66]{
 -- Page 30, Offset 21639.
 -- まるで姿なき殺戮者、殺意なき殺人鬼じゃない。
-  On croirait presque avoir affaire à un serial killer sans forme, à un tueur fou sans soif de sang.
+　On croirait presque avoir affaire à un serial killer sans forme, à un tueur fou sans soif de sang.
 
 }
 [sha:2f85f39108328c114a9886bf452ffbc856a41830]{
 -- Page 30, Offset 21640.
 -- その条件なら誰だって―――わたしですら―――含まれてしまう。
-  N'importe qui―――même moi―――pouvait répondre à ces conditions.
+　N'importe qui―――même moi―――pouvait répondre à ces conditions.
 
 }
 [sha:d38e35906c885262add420018442cb615f6a7749]{
 -- Page 30, Offset 21641.
 -- 現状、誰であれスイーツハーツの可能性があるってコトだもの……！
-  Dans la situation présente, cela signifiait que Sweets Hearts pouvait être n'importe lequel d'entre nous...!
+　Dans la situation présente, cela signifiait que Sweets Hearts pouvait être n'importe lequel d'entre nous...!
 
 }
 [sha:a048352890b2960950be15a952f699b044c4e5c7]{
@@ -553,7 +553,7 @@
 [sha:e4451f490d8642c098d4d996d3c9af6d10f29d47]{
 -- Page 31, Offset 21643.
 -- 楽しいからって騒いだり、ケンカしたり、もう我慢できないわたしは家に帰るぞー、とか叫んで飛び出していったりしちゃダメよ？　絶対死ぬから」
-  Il ne faut pas commencer à sauter de joie parce que c'est amusant, se battre, ou décider de rentrer chez vous et sortir dehors juste parce que vous en avez assez, d'accord ? Vous seriez sûrs de mourir.」
+　Il ne faut pas commencer à sauter de joie parce que c'est amusant, se battre, ou décider de rentrer chez vous et sortir dehors juste parce que vous en avez assez, d'accord ? Vous seriez sûrs de mourir.」
 
 }
 [sha:a0a611d590194a9a2738040ed736180099326a11]{
@@ -571,7 +571,7 @@
 [sha:8db27cac6c18fb7d20d86db5b0851bba1995e886]{
 -- Page 32, Offset 21646. Mods: @k, @e.
 -- お願い、夢でも覚めないでっ！　盛り上げる為に、みんなあと半分ぐらい殺されて！　そして当然、最後に生き残るのはわた、
-Mon Seigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo...
+　Mon Seigneur, je vous en prie, si c'est un rêve, faites que je ne me réveille pas ! Pour arriver au paroxysme, faites qu'encore la moitié d'entre nous se fasse tuer ! Et évidemment, le dernier survivant, ce sera mo...
 
 }
 [sha:53ebd1443bf8f7d30f9f01b392f1cf9c16b2ee4a]{
@@ -589,7 +589,7 @@ Ggh !」
 [sha:3a999f5b5880864c397950c8a8aa9947fe32345b]{
 -- Page 33, Offset 21649.
 -- これは真面目にアリバイ検証をするしかなさそうね」
-  On dirait qu'on est obligés de vérifier sérieusement nos alibis respectifs.」
+　On dirait qu'on est obligés de vérifier sérieusement nos alibis respectifs.」
 
 }
 [sha:265d256b41e1e76dd2281b1bb8aefed9984f4a8d]{
@@ -607,19 +607,19 @@ Ggh !」
 [sha:b3cc677b6cf253f30675fc79a740ba26a316f7e3]{
 -- Page 34, Offset 21652.
 -- それじゃあ、まずは俺からだな」
-  Allez, je commence.」
+　Allez, je commence.」
 
 }
 [sha:af43e38bcccd18255442addf6eacd70b902ab312]{
 -- Page 35, Offset 21653.
 -- 提案者である槻司が先陣をきっては、誰も異論は挟めない。
-  Si l'auteur de la proposition, en l'occurrence Tsukiji, commençait, personne ne pouvait émettre d'objection.
+　Si l'auteur de la proposition, en l'occurrence Tsukiji, commençait, personne ne pouvait émettre d'objection.
 
 }
 [sha:9f4f6876e11ad59d3f5435a03d95ce56971b4b56]{
 -- Page 35, Offset 21654.
 -- ここで待ったをかければ、それこそ自分が怪しいというようなものだし。
-  Demander une pause maintenant aurait suscité des soupçons.
+　Demander une pause maintenant aurait suscité des soupçons.
 
 }
 [sha:23c5f9f07c6d6f12038bb3c10fbd9702aacd5f53]{
@@ -631,13 +631,13 @@ Ggh !」
 [sha:b13f2029c89b27277e8858df6584b488abfd3b5b]{
 -- Page 36, Offset 21656.
 -- 俺たちは久遠寺に挨拶した後、それぞれ与えられた客室で休憩、十一時には居間に再集合し、昼食をとった。
-  Après avoir salué Kuonji, nous nous sommes reposés dans les chambres d'ami qui ont été allouées à chacun, puis nous nous sommes de nouveau réunis dans le salon à 11 heures et avons pris le déjeuner.
+　Après avoir salué Kuonji, nous nous sommes reposés dans les chambres d'ami qui ont été allouées à chacun, puis nous nous sommes de nouveau réunis dans le salon à 11 heures et avons pris le déjeuner.
 
 }
 [sha:b86e8ebac1d1f9e32074b9c830a8f5397c718bb3]{
 -- Page 36, Offset 21657.
 -- ……そうだな、たしかそのあたりで土桔の爺さんはいなくなってたな」
-  ... Si je me souviens bien, c'est vers ce moment-là que le vieux Tokitsu a disparu.」
+　... Si je me souviens bien, c'est vers ce moment-là que le vieux Tokitsu a disparu.」
 
 }
 [sha:8466026462cdb1c7fdade6c839a8647c182f5525]{
@@ -649,19 +649,19 @@ Ggh !」
 [sha:73f42ed40748bd035a64b109db6c7f211f3158b8]{
 -- Page 37, Offset 21659.
 -- 夕方になってリデルが呼ばれもしないのに乱入。
-  Dans la soirée, Riddell s'est pointée alors qu'elle n'avait pas été invitée.
+　Dans la soirée, Riddell s'est pointée alors qu'elle n'avait pas été invitée.
 
 }
 [sha:7c492d6f35305f0d05527850dbc1ad26a4360f64]{
 -- Page 37, Offset 21660.
 -- 何度かトイレで席を立ったが、基本的には居間とサンルームで過ごしていた。
-  J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais en gros, j'ai passé l'essentiel de l'après-midi entre le salon et la véranda.
+　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais en gros, j'ai passé l'essentiel de l'après-midi entre le salon et la véranda.
 
 }
 [sha:1f1d0debbc1de5ffe00bca67db072714d4049282]{
 -- Page 37, Offset 21661.
 -- 俺が居間にいた間、常に姿があったのは久遠寺だけだ」
-  Pendant que j'étais dans le salon, il n'y a que Kuonji qui n'a jamais quitté la pièce.」
+　Pendant que j'étais dans le salon, il n'y a que Kuonji qui n'a jamais quitté la pièce.」
 
 }
 [sha:d6282a87eab0cf20c4977a684a81b3e761d70695]{
@@ -673,19 +673,19 @@ Ggh !」
 [sha:e8ea924750ff7eff5e167ecbbaedd2f2128f2d49]{
 -- Page 38, Offset 21663.
 -- 三人で洋館に到着したのが二時過ぎ。
-  Nous sommes arrivés tous les trois au manoir peu après deux heures.
+　Nous sommes arrivés tous les trois au manoir peu après deux heures.
 
 }
 [sha:2ac687cf997e206e50707581bd076c4db70b5528]{
 -- Page 38, Offset 21664.
 -- 居間で鳶丸たちに挨拶して、あとは居間とサンルームをいったりきたり、だったかな。
-  J'ai salué Tobimaru et les autres dans le salon, et ensuite, j'ai moi aussi passé le plus clair de mon temps entre le salon et la véranda.
+　J'ai salué Tobimaru et les autres dans le salon, et ensuite, j'ai moi aussi passé le plus clair de mon temps entre le salon et la véranda.
 
 }
 [sha:afbb62f1df65c468d28b86474a9c7338b7ed06b0]{
 -- Page 38, Offset 21665.
 -- ご不浄で何度か席を立ったけど、一度もトッキィーとは顔を合わせていないわ」
-  J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais je n'ai pas croisé une seule fois Tokkii.」
+　J'ai quitté les lieux plusieurs fois pour aller aux toilettes, mais je n'ai pas croisé une seule fois Tokkii.」
 
 }
 [sha:88c87e44c3303a2c37a94d5c6568bfee9d86cf99]{
@@ -697,24 +697,24 @@ Ggh !」
 [sha:d339d3235c0c01d391738b8647ae59ea614d7449]{
 -- Page 39, Offset 21667.
 -- えーと、三連休だったので、昨日はトビーの家で寝泊まりしてあげてたよ。ホースケも一緒だったんで、うるさいコトこの上なかったです。
-  Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Hōsuke était aussi avec nous, c'était affreusement bruyant.
+　Voyons, comme on était au début des trois jours de congé, hier, j'ai passé la nuit chez Tobi. Comme Hōsuke était aussi avec nous, c'était affreusement bruyant.
 
 }
 [sha:42e8c3832f6881d10802842a8f473ef900565d1b]{
 -- Page 39, Offset 21668.
 -- で、朝になってから三人で一緒に公園までいって、爺さんと合流して、ロールス・ロイスでここの門に到着。
-  Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
+　Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
 
 }
 [sha:a0c1c782459f0f08e778c33ff39562c5ef0f45cf]{
 -- Page 39, Offset 21669.
 -- 十時にはアリスに挨拶して、あとはずっとゴロゴロしてましたー！」
-  À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
+　À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
 
 }
 [sha:260a288bd6e6017828f3bc51899a74ceb9e2b03b]{
 -- Page 40, Offset 21670.
 -- ……わたしは、
-  ... Je...
+　... Je...
 
 }

@@ -1,109 +1,109 @@
 [sha:60f3901bbcb6711f1248244c3eb06c39f3a54314]{
 -- Page 0, Offset 2876.
 -- その日の学校が終わると、草十郎は寄り道一つせずアルバイト先に直行した。
-  Lorsque l'école se termina ce jour-là, Sōjūrō se rendit directement à son travail.
+　Lorsque l'école se termina ce jour-là, Sōjūrō se rendit directement à son travail.
 
 }
 [sha:6179e7e0bd3e36d8479591142cc214fbdc1808f8]{
 -- Page 0, Offset 2877.
 -- 学校側に申告してあるのは三咲町商店街にある中華飯店と鮮魚店だけで、他のアルバイトは秘密にしている。
-  Les seuls emplois pour lesquels il avait reçu une autorisation de l'école étaient chez le restaurant chinois et le marchand de poissons de la rue marchande du vieux quartier. Il gardait les autres secrets.
+　Les seuls emplois pour lesquels il avait reçu une autorisation de l'école étaient chez le restaurant chinois et le marchand de poissons de la rue marchande du vieux quartier. Il gardait les autres secrets.
 
 }
 [sha:48d586b039599893dfb921d2e41298bde2e75a29]{
 -- Page 0, Offset 2878.
 -- それも単に数が多いからではなく、それ以前に法律に違反していそうな働き先だったからだ。
-  Et ce n'était pas seulement parce qu'il en avait trop, mais surtout parce que ces endroits semblaient être en infraction avec la loi.
+　Et ce n'était pas seulement parce qu'il en avait trop, mais surtout parce que ces endroits semblaient être en infraction avec la loi.
 
 }
 [sha:b607d21a6b389022f42fb324689fbdadbfd21c52]{
 -- Page 1, Offset 2879.
 -- 今日のアルバイト先はその最たるもので、<社木|やしろぎ>駅前にあるパチンコ店だ。
-  Le travail d'aujourd'hui était le plus suspect d'entre tous : le pachinko devant la gare de Yashirogi.
+　Le travail d'aujourd'hui était le plus suspect d'entre tous : le pachinko devant la gare de Yashirogi.
 
 }
 [sha:4896113ead4a526d94f0dc8e7b0e42d8b458b828]{
 -- Page 1, Offset 2880.
 -- 学校の制服から店の黒いタキシードじみた制服に着替え、仕事はじめに店周りの掃除をする。
-  Il troqua son uniforme de l'école contre le smoking noir du magasin, et pour commencer, il balaya l'extérieur du bâtiment.
+　Il troqua son uniforme de l'école contre le smoking noir du magasin, et pour commencer, il balaya l'extérieur du bâtiment.
 
 }
 [sha:a6239a6c1f09581263765e0b71b15481f9527c1d]{
 -- Page 2, Offset 2881.
 -- 三咲市の顔である<社木|やしろぎ>の駅前は幾多のショッピングビルが競い合うように乱立し、アーケード街もそれらに<倣|なら>うように騒がしい。
-  L'esplanade de la gare de Yashirogi, vitrine de la ville de Misaki, était bruyante et regorgeait de centres commerciaux se faisant concurrence, tout comme les salles d'arcade installées là.
+　L'esplanade de la gare de Yashirogi, vitrine de la ville de Misaki, était bruyante et regorgeait de centres commerciaux se faisant concurrence, tout comme les salles d'arcade installées là.
 
 }
 [sha:41a0452b24ed4a73582d70a7d125f17ed277ac9b]{
 -- Page 2, Offset 2882.
 -- 人が多くなれば生み出される物も多くなる。
-  Plus les gens étaient nombreux, plus les marchandises produites étaient abondantes.
+　Plus les gens étaient nombreux, plus les marchandises produites étaient abondantes.
 
 }
 [sha:62a79744af86df800c91451a231ab39680716a46]{
 -- Page 2, Offset 2883.
 -- 浪漫として言えば笑顔であり、
-  Sur un plan poétique, c'était quelque chose d'enthousiasmant,
+　Sur un plan poétique, c'était quelque chose d'enthousiasmant,
 
 }
 [sha:b3a729dd14bc3818c099c951e517a8eadad695d2]{
 -- Page 2, Offset 2884.
 -- 現実的に言えば流通であり、
-  mais d'un point de vue plus pragmatique, il ne s'agissait que d'un flux monétaire,
+　mais d'un point de vue plus pragmatique, il ne s'agissait que d'un flux monétaire,
 
 }
 [sha:339b7d366f43035334612c2aa6f00934f1ea50e1]{
 -- Page 2, Offset 2885.
 -- より現実的に言えばゴミである。
-  et si l'on se montrait acerbe, ce n'étaient que des déchets.
+　et si l'on se montrait acerbe, ce n'étaient que des déchets.
 
 }
 [sha:1ecac3e17dbf7d41697a63f7688718c640123ee8]{
 -- Page 3, Offset 2886.
 -- クリーンな町作りを目指している社木だが、そのルールには逆らえない。
-  Yashirogi ambitionnait de devenir une ville honnête, mais on ne pouvait pas aller à l'encontre de ces règles.
+　Yashirogi ambitionnait de devenir une ville honnête, mais on ne pouvait pas aller à l'encontre de ces règles.
 
 }
 [sha:4cb6fa5e84d2f74bfc6192b1ca6786eb9f899310]{
 -- Page 3, Offset 2887.
 -- それがこういった店なら尚更だ。
-  D'autant plus pour ce genre de magasin.
+　D'autant plus pour ce genre de magasin.
 
 }
 [sha:76e469a46445779d0607cc1233c0ed149f455006]{
 -- Page 3, Offset 2888.
 -- 商売柄<質|たち>の悪い人種を呼びこみやすいホールの前は、日に何度も清掃を心がけるべきである。
-  De par la nature d'un commerce qui attirait facilement toutes sortes de mauvaises gens, il fallait s'efforcer de nettoyer plusieurs fois par jour.
+　De par la nature d'un commerce qui attirait facilement toutes sortes de mauvaises gens, il fallait s'efforcer de nettoyer plusieurs fois par jour.
 
 }
 [sha:445c6b6ae66f2bb2233e8353dd76f2319b8e08e5]{
 -- Page 4, Offset 2889.
 -- 冬の寒空の下、草十郎は煙草の吸い殻を集め、チラシを拾い、空き缶をゴミ箱へ。
-  Dans le froid hivernal, Sōjūrō rassemblait les mégots de cigarette, les prospectus et les canettes vides avant de les jeter.
+　Dans le froid hivernal, Sōjūrō rassemblait les mégots de cigarette, les prospectus et les canettes vides avant de les jeter.
 
 }
 [sha:eb7e5bd4ecb70e6a6f7252f063111802a4694344]{
 -- Page 4, Offset 2890.
 -- 山での生活を彷彿とさせるものがあるらしく、草十郎は気軽に、淡々と掃除をこなした。
-  Il y avait là-dedans quelque chose qui lui évoquait sa vie dans la montagne. De ce fait, Sōjūrō s'appliquait à sa tâche le cœur léger et insouciant.
+　Il y avait là-dedans quelque chose qui lui évoquait sa vie dans la montagne. De ce fait, Sōjūrō s'appliquait à sa tâche le cœur léger et insouciant.
 
 }
 [sha:053014e193513e45ea6d29a2c7af43bf74009e10]{
 -- Page 5, Offset 2891.
 -- ひととおり店周りを綺麗にし、晴れて暖房の効いた店内に戻る。
-  Il nettoya à grands coups de balai les alentours du magasin, et retourna à l'intérieur du bâtiment bien chauffé.
+　Il nettoya à grands coups de balai les alentours du magasin, et retourna à l'intérieur du bâtiment bien chauffé.
 
 }
 [sha:224613461a28ac463880fbd817ce3b9f05be38f9]{
 -- Page 5, Offset 2892.
 -- まぶしく目に痛い騒音、
-  Indisposé par les bruits, l'éclairage éblouissant,
+　Indisposé par les bruits, l'éclairage éblouissant,
 
 }
 [sha:f9cafb3da1ab546948906a2668dfa60354e67c2d]{
 -- Page 5, Offset 2893.
 -- 充満するタバコの臭いに圧倒されながら店内を横断して事務所へ向かう。
-  et l'incommodante odeur de tabac, il fit le tour du magasin en direction du bureau.
+　et l'incommodante odeur de tabac, il fit le tour du magasin en direction du bureau.
 
 }
 [sha:47916529913a9dcfd89c34e93348f92b09a817af]{
@@ -121,25 +121,25 @@
 [sha:c8d30b925a1522318cb65ca606cf814b8c40370e]{
 -- Page 6, Offset 2896.
 -- どうも懐にのんでそうなんだよね、あのお姉さん」
-  On dirait bien que cette jeune femme est en train de se remplir les poches.」
+　On dirait bien que cette jeune femme est en train de se remplir les poches.」
 
 }
 [sha:230ad8ac714106006e4226b33a4bf83f06079673]{
 -- Page 7, Offset 2897.
 -- 元会社員の、人の良さそうな店長さんである。
-  Le manager sympathique était un ancien employé de grande société.
+　Le manager sympathique était un ancien employé de grande société.
 
 }
 [sha:e029a9948bd3f13ff21eeb3d54cb85755f0146ec]{
 -- Page 7, Offset 2898.
 -- あきらかに学生である草十郎を採用したのはその苦学生ぶりに感動したから―――ではなく、
-  Il n'avait évidemment pas engagé Sōjūrō, un simple lycéen, parce qu'il avait été touché par le fait que ce dernier devait travailler pour subvenir à ses besoins―――
+　Il n'avait évidemment pas engagé Sōjūrō, un simple lycéen, parce qu'il avait été touché par le fait que ce dernier devait travailler pour subvenir à ses besoins―――
 
 }
 [sha:3097cc5f56774867d3644fbd6ebdbc95f078a088]{
 -- Page 7, Offset 2899.
 -- 店員がみんな怖い顔をしているので一人でも心安らげる店員がほしい、という理由らしい。
-  mais parce que tous ses employés avaient un air effrayant et qu'il recherchait quelqu'un de rassurant.
+　mais parce que tous ses employés avaient un air effrayant et qu'il recherchait quelqu'un de rassurant.
 
 }
 [sha:8ded177d4d69a10e25f0d6fb2b28ed253721f3fe]{
@@ -157,103 +157,103 @@
 [sha:e354027777769f5bf179f9d0ac9abaa5bd13f4a9]{
 -- Page 8, Offset 2902.
 -- 草ちゃん、いまのところ的中率百パーセントでしょ。様子見てきてくれないかなぁ」
-  Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
+　Mon Petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
 
 }
 [sha:53f4f4bb0d1a3bc0fa0c1dfcf770de9bbf35c7b7]{
 -- Page 8, Offset 2903.
 -- そういう事でしたら、と掃除用具を片付けて草十郎は二階フロアに向かった。
-  “Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
+　“Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
 
 }
 [sha:a2dabffac9b0874ab93242f06c412355f4083b08]{
 -- Page 9, Offset 2904.
 -- 店は典型的な二階建ての、大きい部類に入るパチンコ店である。
-  La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.
+　La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.
 
 }
 [sha:fe49ae7c77964a9f6c31ec7f7b36d8729299ba4e]{
 -- Page 9, Offset 2905.
 -- 基本的には地域密着型で、あまりあこぎな調整もせず、少しずつ町の皆さんから収入を得ることを良しとしている。
-  C'était un immeuble typique du quartier qui n'avait pas été spécialement réaménagé pour son activité, et petit à petit, les gens de la ville venaient y dépenser leur argent.
+　C'était un immeuble typique du quartier qui n'avait pas été spécialement réaménagé pour son activité, et petit à petit, les gens de la ville venaient y dépenser leur argent.
 
 }
 [sha:5be6caeee9a6a71a484c620eb82a6c5b75e7ff77]{
 -- Page 9, Offset 2906.
 -- が、店側はそのつもりでも、お客様は千差万別。
-  Malgré les défauts du magasin, les clients étaient nombreux et variés.
+　Malgré les défauts du magasin, les clients étaient nombreux et variés.
 
 }
 [sha:4df046e66e362a8b325df191a7588dee32c561fe]{
 -- Page 10, Offset 2907.
 -- 気軽に遊びに来る者もいれば、これで食べている<職業博徒|プ　　ロ>、はては不正を働いて儲けようという輩もやってくる。
-  On y trouvait des gens venus simplement pour s'amuser, des pros dont c'était le gagne-pain, et enfin des individus qui en tiraient profit en fraudant.
+　On y trouvait des gens venus simplement pour s'amuser, des pros dont c'était le gagne-pain, et enfin des individus qui en tiraient profit en fraudant.
 
 }
 [sha:f007c0d17c54651f0abf361c0e167ff3f81c6d49]{
 -- Page 10, Offset 2908.
 -- 中でも八十年代中期から流行しだしたある機械は、ゲーム台の電気系統に外部からアクセスしてプログラムを狂わせ、俗に言うスリーセブン等の大当たりをたやすく実現してしまう。
-  Parmi eux, certains accédaient au système électrique en intervenant directement sur ces machines typiques des années 80. Puis ils rendaient le programme fou et pouvaient ainsi réaliser facilement le jackpot.
+　Parmi eux, certains accédaient au système électrique en intervenant directement sur ces machines typiques des années 80. Puis ils rendaient le programme fou et pouvaient ainsi réaliser facilement le jackpot.
 
 }
 [sha:f2ee3ff6703e53e818a7332372a1698f94c6f3c9]{
 -- Page 11, Offset 2909.
 -- 当然店側としてもそういった人種の入場はお断りしたいのだが、確たる証拠もなしにお帰り願う訳にもいかない。
-  Évidemment, l'établissement aurait préféré refuser l'accès à ce genre de personnes, mais sans preuve irréfutable, il ne pouvait pas leur interdire d'entrer.
+　Évidemment, l'établissement aurait préféré refuser l'accès à ce genre de personnes, mais sans preuve irréfutable, il ne pouvait pas leur interdire d'entrer.
 
 }
 [sha:eda051c05b430aa0a18626f8e1a77f1b9095a610]{
 -- Page 11, Offset 2910.
 -- 客商売である以上、疑わしきは罰せず、がルールである。
-  À partir du moment où le client constituait le cœur du commerce, la règle était de les soupçonner sans les punir.
+　À partir du moment où le client constituait le cœur du commerce, la règle était de les soupçonner sans les punir.
 
 }
 [sha:0ae080bf5dc63a94fb7e2702f6688605f270ae41]{
 -- Page 11, Offset 2911.
 -- 結果、現行犯としてとっ捕まえるのが店側の正義となる。
-  En conséquence, attraper un coupable en flagrant délit était le seul moyen de faire régner la justice dans l'établissement.
+　En conséquence, attraper un coupable en flagrant délit était le seul moyen de faire régner la justice dans l'établissement.
 
 }
 [sha:5d84930974af179b83d72f53d14d8f1d8d4918ef]{
 -- Page 11, Offset 2912.
 -- そういった不心得者をゴト師と言うらしいが、草十郎にはそのへんの事情は一切分かっていない。
-  On appelait ce genre d'imprudents des artistes, mais Sōjūrō n'entendait rien à leur art.
+　On appelait ce genre d'imprudents des artistes, mais Sōjūrō n'entendait rien à leur art.
 
 }
 [sha:450d3158583cc8010169c413ecb86e6c1e2d4ca8]{
 -- Page 11, Offset 2913.
 -- 彼が承知しているのは、彼らが店側にとって厄介な相手であり、かつ、不正を働いているルール違反者である、という事だけだ。
-  La seule chose qu'il comprenait, c'était qu'il s'agissait d'agaçants adversaires pour l'établissement qui enfreignaient la loi en fraudant.
+　La seule chose qu'il comprenait, c'était qu'il s'agissait d'agaçants adversaires pour l'établissement qui enfreignaient la loi en fraudant.
 
 }
 [sha:197126a4d86394b8bb831e9579540fe4befa3a17]{
 -- Page 12, Offset 2914.
 -- 二階に上がる。
-  Il monta au premier étage.
+　Il monta au premier étage.
 
 }
 [sha:e66333813f97b7f7c5a752442d413db661cd12df]{
 -- Page 12, Offset 2915.
 -- 有線のラジオもゲーム台の音も、一階よりは控えめに流れている。
-  Le bruit que faisaient les machines et la radio y était plus faible qu'à l'étage en dessous.
+　Le bruit que faisaient les machines et la radio y était plus faible qu'à l'étage en dessous.
 
 }
 [sha:5313349ba8a5e806e1eeebb7098e8766d720c241]{
 -- Page 12, Offset 2916.
 -- 一階の百台に対して二階のゲーム台の数は八十あまり。空席はちらほらとあるものの、夕方にしては客入りは良好だろう。
-  Contrairement au rez-de-chaussée et à ses cent appareils, le nombre de machines au premier étage était d'environ quatre-vingts. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
+　Contrairement au rez-de-chaussée et à ses cent appareils, le nombre de machines au premier étage était d'environ quatre-vingts. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.
 
 }
 [sha:20181d980f9d22af0c5422548adb95e8f197b642]{
 -- Page 12, Offset 2917.
 -- 店長の言う四十番台は店の中ごろの列だ。
-  La quarantième machine dont avait parlé le manager était dans l'allée centrale.
+　La quarantième machine dont avait parlé le manager était dans l'allée centrale.
 
 }
 [sha:1fb181a1ad423be16d680af1707b1fdeb1b3166b]{
 -- Page 12, Offset 2918.
 -- さりげなく列の入り口あたりの壁に寄りかかってみると、たしかに派手に<大当たり|フィーバー>しているお客さんがいた。
-  En s'approchant lentement du mur faisant face à l'entrée de l'allée, il remarqua effectivement une cliente en train de gagner le jackpot dans un vacarme assourdissant.
+　En s'approchant lentement du mur faisant face à l'entrée de l'allée, il remarqua effectivement une cliente en train de gagner le jackpot dans un vacarme assourdissant.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -265,73 +265,73 @@
 [sha:d8a48348deb1a03a28b7d192f5a2f62e19034ede]{
 -- Page 13, Offset 2920.
 -- <一目|ひとめ>見た瞬間に違うな、と草十郎は直感した。
-  Sōjūrō eut l'intuition, dès qu'il la vit, qu'elle ne trichait pas.
+　Sōjūrō eut l'intuition, dès qu'il la vit, qu'elle ne trichait pas.
 
 }
 [sha:ca6ccc637d291b74ad7a16cc83115eb060bd9976]{
 -- Page 13, Offset 2921.
 -- 何を以てプロと言うかは疑問だが、特別という意味なら彼女は本物だ。
-  Il se demandait à quoi pouvait bien ressembler un pro, mais elle était vraiment impressionnante, dans le sens où elle était spéciale.
+　Il se demandait à quoi pouvait bien ressembler un pro, mais elle était vraiment impressionnante, dans le sens où elle était spéciale.
 
 }
 [sha:42d4484b6f86094daa9bfb7f91fca703391ed925]{
 -- Page 13, Offset 2922.
 -- なんとなく、その幸運の強さが感じ取れる。
-  Il pouvait, d'une certaine manière, ressentir la puissance de sa chance.
+　Il pouvait, d'une certaine manière, ressentir la puissance de sa chance.
 
 }
 [sha:426d693c0a94bcee1ce9869214a9d4385c97139d]{
 -- Page 13, Offset 2923.
 -- 周りの客達の関心を一身に浴びながら、彼女は黙々とハンドルを回している。
-  Tout en accaparant l'attention des clients qui l'entouraient, elle tournait la manivelle silencieusement.
+　Tout en accaparant l'attention des clients qui l'entouraient, elle tournait la manivelle silencieusement.
 
 }
 [sha:7e3d9f07dfdea3461d27a344d0c3288ce62c0c5c]{
 -- Page 14, Offset 2924.
 -- 歳は<草十郎|じぶん>より何歳か上。
-  Elle était âgée de quelques années de plus que lui.
+　Elle était âgée de quelques années de plus que lui.
 
 }
 [sha:424193fc719f98c2da549976e16150aaf42d8c29]{
 -- Page 14, Offset 2925.
 -- 緑色の、体の線がはっきりと判る洋服を着ている。上着とスカートが一体になったような服だ。
-  Elle portait un vêtement occidental vert soulignant clairement sa ligne. Sa veste et sa jupe formaient un ensemble assorti.
+　Elle portait un vêtement occidental vert soulignant clairement sa ligne. Sa veste et sa jupe formaient un ensemble assorti.
 
 }
 [sha:f6d2f57b1cb269557ed0d49e4315bca1d6ee409a]{
 -- Page 14, Offset 2926.
 -- 足は素肌ではなくストッキングをはいている。
-  Ses jambes n'étaient pas nues : elle portait des collants.
+　Ses jambes n'étaient pas nues : elle portait des collants.
 
 }
 [sha:48f46c6862d048d618eb0838938450d553bfd5f7]{
 -- Page 14, Offset 2927.
 -- 細い両足は艶やかに組まれ、パチンコをしているというよりは絵画のモデルのような優雅さだった。
-  Ses jambes fines étaient élégamment croisées, et sa grâce était telle qu'elle donnait l'impression de poser pour une peinture plutôt que de jouer au pachinko.
+　Ses jambes fines étaient élégamment croisées, et sa grâce était telle qu'elle donnait l'impression de poser pour une peinture plutôt que de jouer au pachinko.
 
 }
 [sha:269636f31e8e67f7abf38e480846fece9690694e]{
 -- Page 14, Offset 2928.
 -- 赤みのかかった黒髪は短く、涼しげにかけたメガネと赤い唇がやけに決まっていた。
-  Elle avait de courts cheveux rouges, et les lunettes qu'elle portait avec indifférence, tout comme ses lèvres rouges, lui donnaient un air encore plus distingué.
+　Elle avait de courts cheveux rouges, et les lunettes qu'elle portait avec indifférence, tout comme ses lèvres rouges, lui donnaient un air encore plus distingué.
 
 }
 [sha:9d15bed11b5f0d5f28b56c61db5834ffe8f67b81]{
 -- Page 15, Offset 2929.
 -- 正直に言って、こんな場所でフィーバーを出していい美人ではない。
-  À vrai dire, une telle beauté ne devrait pas se trouver là, à jouer avec autant de zèle.
+　À vrai dire, une telle beauté ne devrait pas se trouver là, à jouer avec autant de zèle.
 
 }
 [sha:92a279078f350abc81cdae59dcda588e2bf1392d]{
 -- Page 15, Offset 2930.
 -- 彼女の足元には四つの大箱が重ねられていて、その勢いは留まるところを知らない。
-  À ses pieds, quatre grandes boîtes s'entassaient les unes sur les autres, et sa chance semblait ne jamais vouloir tarir.
+　À ses pieds, quatre grandes boîtes s'entassaient les unes sur les autres, et sa chance semblait ne jamais vouloir tarir.
 
 }
 [sha:ceb0228ef200ae85aed9210bac8e2d455b9dc925]{
 -- Page 15, Offset 2931.
 -- 退屈そうに、細い陶器のような指が長い煙草を唇に運ぶ。
-  D'un air ennuyé, ses doigts fins comme de la céramique portèrent à ses lèvres une longue cigarette.
+　D'un air ennuyé, ses doigts fins comme de la céramique portèrent à ses lèvres une longue cigarette.
 
 }
 [sha:21ec02567532568a60ccc821b438be230db5aac1]{
@@ -343,7 +343,7 @@
 [sha:d2beb9f2c0e324ada1015a1946fec79712b705f9]{
 -- Page 16, Offset 2933.
 -- そう思った瞬間、メガネごしに視線が壁側―――草十郎を見た。
-  Au moment où il pensa ça, les yeux derrière les lunettes―――s'arrêtèrent sur Sōjūrō du côté du mur.
+　Au moment où il pensa ça, les yeux derrière les lunettes―――s'arrêtèrent sur Sōjūrō du côté du mur.
 
 }
 [sha:2cb04a93337e9639fbad51a3682544f21cce2f6c]{
@@ -355,13 +355,13 @@
 [sha:8e2db73a74f7d6e972990f7e95afaeac42977ab3]{
 -- Page 16, Offset 2935.
 -- とたん、背中に走る悪寒。
-  Tout à coup, des frissons lui parcoururent le dos.
+　Tout à coup, des frissons lui parcoururent le dos.
 
 }
 [sha:50871d4917f64301be5cd60f3d70eb760c9ff710]{
 -- Page 16, Offset 2936.
 -- 反射的にこぼれる悲鳴を必死に手で押さえつける。
-  Il retint par réflexe, avec ses mains, le cri qui voulait sortir de sa bouche.
+　Il retint par réflexe, avec ses mains, le cri qui voulait sortir de sa bouche.
 
 }
 [sha:b44582e80f87a6f98b01dfe99a93348d59ade27a]{
@@ -373,19 +373,19 @@
 [sha:344208efb06c5f9081eaa9c416f3d4e0219a26ee]{
 -- Page 17, Offset 2938.
 -- 確証のない直感に弾かれて、草十郎は<脱兎|だっと>の如く走り出した。
-  Perturbé par son intuition sans fondement, Sōjūrō s'enfuit en courant à la vitesse de la lumière.
+　Perturbé par son intuition sans fondement, Sōjūrō s'enfuit en courant à la vitesse de la lumière.
 
 }
 [sha:edb8b75d70743d5c249c27f38f4a1962523931b1]{
 -- Page 17, Offset 2939.
 -- この場から一刻も早く逃れようと、まず一階へ。
-  Pour s'éloigner le plus vite possible d'ici, il se dirigea d'abord vers le rez-de-chaussée.
+　Pour s'éloigner le plus vite possible d'ici, il se dirigea d'abord vers le rez-de-chaussée.
 
 }
 [sha:2526afab0af762e52d4aa953c1648588861f7d79]{
 -- Page 17, Offset 2940.
 -- そのまま外に駆け出そうとしたが、最低限の責任として店長に声をかける。
-  Il voulut courir tout de suite à l'extérieur, mais ayant un minimum de responsabilité, il appela le manager.
+　Il voulut courir tout de suite à l'extérieur, mais ayant un minimum de responsabilité, il appela le manager.
 
 }
 [sha:e05793c2e5ab9eff2dcd7f98d341d4ccc6eef0bd]{
@@ -397,43 +397,43 @@
 [sha:a026feca9bbeff81a965e36d58a6b71e35b3dfb7]{
 -- Page 18, Offset 2942.
 -- 心の動揺をなんとか抑えこみながら告げ、学校の制服を紙袋につめて店を飛びだした。
-  Il l'informa tout en réfrénant du mieux possible son cœur qui battait la chamade, mit son uniforme scolaire dans un sac en papier et s'enfuit du magasin.
+　Il l'informa tout en réfrénant du mieux possible son cœur qui battait la chamade, mit son uniforme scolaire dans un sac en papier et s'enfuit du magasin.
 
 }
 [sha:e78e998fd0986afb5c6ddc83027d26d1da997cb1]{
 -- Page 19, Offset 2943.
 -- 曇った天候のせいか、すでに夜の影が濃い社木の商店街を走り抜けて駅に向かう。
-  Il courut à travers la rue commerçante de Yashirogi où l'ombre nocturne s'épaississait probablement à cause du temps couvert, et se dirigea vers la gare.
+　Il courut à travers la rue commerçante de Yashirogi où l'ombre nocturne s'épaississait probablement à cause du temps couvert, et se dirigea vers la gare.
 
 }
 [sha:b0d6338654edf1b9b10840081db4a0eef42f1ffa]{
 -- Page 19, Offset 2944.
 -- 長い階段を矢のように駆け上がり、定期を財布から素早く取り出して改札を通り過ぎる。
-  Il monta les escaliers comme une flèche, sortit rapidement son passe de son portefeuille et franchit les portillons d'accès.
+　Il monta les escaliers comme une flèche, sortit rapidement son passe de son portefeuille et franchit les portillons d'accès.
 
 }
 [sha:0ab0f981beb687520b91271c483a022844714ad2]{
 -- Page 20, Offset 2945.
 -- 改札には大勢の人々がそれぞれの事情で立ち止まったり、歩いたり、話し合ったりしていた。
-  De l'autre côté des tourniquets, une foule de gens étaient arrêtés, couraient, ou discutaient de choses et d'autres.
+　De l'autre côté des tourniquets, une foule de gens étaient arrêtés, couraient, ou discutaient de choses et d'autres.
 
 }
 [sha:89e3aadb78c0f16a9daaaa03b87416dc2a9aa054]{
 -- Page 20, Offset 2946.
 -- その中で無愛想な顔をしているのは自動改札の横にある駅員室の駅員ぐらいで、ここにはちょっとだけ騒がしい安心があふれていた。
-  Parmi eux, les seules personnes arborant un visage non avenant étaient les employés de la gare dans le bureau situé à côté des portillons automatiques. D'ici, on entendait un bruit de fond rassurant.
+　Parmi eux, les seules personnes arborant un visage non avenant étaient les employés de la gare dans le bureau situé à côté des portillons automatiques. D'ici, on entendait un bruit de fond rassurant.
 
 }
 [sha:c0b8d0718cffe6130abca16aa88ec1e4cf0886a9]{
 -- Page 20, Offset 2947.
 -- 都市の日常、と言い換えてもいい。
-  Pour l'exprimer autrement : il représentait la vie quotidienne de la ville.
+　Pour l'exprimer autrement : il représentait la vie quotidienne de la ville.
 
 }
 [sha:447a32523be2fd6ad1dd563c3bf31828ef3c5a7a]{
 -- Page 20, Offset 2948.
 -- 間違っても、昨夜の草十郎が見てしまった風景はどこにも見当たらない。
-  Même par inadvertance, la scène qu'avait vue Sōjūrō la nuit précédente n'y était visible nulle part.
+　Même par inadvertance, la scène qu'avait vue Sōjūrō la nuit précédente n'y était visible nulle part.
 
 }
 [sha:fb911b326a90bc24b80498ac3b0c08dc5a416421]{
@@ -445,25 +445,25 @@
 [sha:3afd6dd93d1939990ab658eefc74de30fba23a62]{
 -- Page 21, Offset 2950.
 -- ようやく肺に空気を送る。
-  Il reprit enfin son souffle.
+　Il reprit enfin son souffle.
 
 }
 [sha:1b62393410afb1ae3f15e4ab691dd025572fedd3]{
 -- Page 21, Offset 2951.
 -- つかの間の安心から、草十郎はぴたりと立ち止まった。
-  Après ce calme éphémère, Sōjūrō s'arrêta soudain de marcher.
+　Après ce calme éphémère, Sōjūrō s'arrêta soudain de marcher.
 
 }
 [sha:8e225c1e1180a6ef366a5d65830a7520ee11a332]{
 -- Page 21, Offset 2952.
 -- おそるおそる背後を振り返る。
-  Il se retourna prudemment.
+　Il se retourna prudemment.
 
 }
 [sha:54f1defcd59563daa1c45205e5eb5eeb791115a3]{
 -- Page 21, Offset 2953.
 -- 当然のように、追いかけてくる危険人物など居るはずもない。
-  Évidemment, il n'y avait personne de dangereux à sa poursuite.
+　Évidemment, il n'y avait personne de dangereux à sa poursuite.
 
 }
 [sha:2d2a5a1c878fe961c293f9cf5bc783cce45dc4e4]{
@@ -475,25 +475,25 @@
 [sha:42ca022af28a8382c2bfed1292db91f0614c7130]{
 -- Page 22, Offset 2955.
 -- なぜ唐突に走りだしたのか、その理由が脆弱すぎた。
-  La raison pour laquelle il s'était soudainement enfui n'était pas rationnelle.
+　La raison pour laquelle il s'était soudainement enfui n'était pas rationnelle.
 
 }
 [sha:82777fbc4778392134e34510d802698711eaa895]{
 -- Page 22, Offset 2956.
 -- そもそも自分は、人相が分かるほど“<危険|あいて>の顔”を見ていなかったではないか、と呆れかえる。
-  Et puis d'abord, je n'ai pas assez bien vu son visage pour savoir à quoi il ressemble, se dit-il stupéfait.
+　Et puis d'abord, je n'ai pas assez bien vu son visage pour savoir à quoi il ressemble, se dit-il stupéfait.
 
 }
 [sha:cc0368f59b1f1de0255f71a6cb3af58f0f1e8a1b]{
 -- Page 22, Offset 2957.
 -- 頬を叩いて気合いを入れ直し、草十郎は早足でプラットホームに下りていく。
-  Sōjūrō se ressaisit en se tapotant les joues, puis il descendit rapidement vers le quai.
+　Sōjūrō se ressaisit en se tapotant les joues, puis il descendit rapidement vers le quai.
 
 }
 [sha:1adc8f8ef39ba4a954b1573fa343328e46375272]{
 -- Page 22, Offset 2958.
 -- あいにく電車は十分待ちだったが、ここで取り乱しても仕方がないので大人しく椅子に座った。
-  Malheureusement, le prochain train ne serait là que dans dix minutes, mais comme il ne servait à rien de perdre son sang-froid, il s'assit sagement sur un siège.
+　Malheureusement, le prochain train ne serait là que dans dix minutes, mais comme il ne servait à rien de perdre son sang-froid, il s'assit sagement sur un siège.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -505,31 +505,31 @@
 [sha:fa12343d690c52ab411f86ce210fd23c07adc60d]{
 -- Page 23, Offset 2960.
 -- もういちど深呼吸。
-  Il reprit une profonde inspiration.
+　Il reprit une profonde inspiration.
 
 }
 [sha:7537004d1602f4c3b3616a2489efd84cfa6c565e]{
 -- Page 23, Offset 2961.
 -- 周りには自分と同じく、電車待ちの人々の姿がある。
-  Autour de lui, les gens attendaient le train, tout comme lui.
+　Autour de lui, les gens attendaient le train, tout comme lui.
 
 }
 [sha:864b8d240c6377c94d2117560dabbe9675f73b56]{
 -- Page 23, Offset 2962.
 -- ……追いかけてくる“誰か”なんて影も形もない。
-  ...... Pas la moindre personne n'était à sa poursuite.
+　...... Pas la moindre personne n'était à sa poursuite.
 
 }
 [sha:cb712500baba3f97eebca14008e0ec1e6cbe90df]{
 -- Page 23, Offset 2963.
 -- 考えすぎだった、と、ようやく頭がクリアになる。
-  J'ai pris ça trop au sérieux, se dit-il, enfin calme.
+　J'ai pris ça trop au sérieux, se dit-il, enfin calme.
 
 }
 [sha:a32085636d70a52fa726de8a10a68f5c63d97805]{
 -- Page 23, Offset 2964.
 -- ただ、がっくりと落ちた両肩が重いのが意外だった。
-  Seulement, ses deux épaules baissées et découragées étaient étonnamment lourdes.
+　Seulement, ses deux épaules baissées et découragées étaient étonnamment lourdes.
 
 }
 [sha:ac3254369e126a75a818a48a51165ce8928a9261]{
@@ -541,49 +541,49 @@
 [sha:85b0788a6ee38aeae40755b97a104f1f8733b719]{
 -- Page 24, Offset 2966.
 -- 予想以上の強い疲労に、草十郎は嘆息した。
-  Sōjūrō soupira devant sa fatigue plus importante qu'il ne l'avait imaginé.
+　Sōjūrō soupira devant sa fatigue plus importante qu'il ne l'avait imaginé.
 
 }
 [sha:163c4a06633b5b0f2f3244834e86b912932386ad]{
 -- Page 24, Offset 2967.
 -- 山を下りてきてからの生活はたしかに過酷だったが、こうして座って振り返ってみると我慢できないほどではなかった。
-  La vie qu'il menait depuis qu'il était descendu de la montagne était en effet rigoureuse, mais en s'asseyant comme ça et en y repensant, elle ne l'était pas au point d'être insupportable.
+　La vie qu'il menait depuis qu'il était descendu de la montagne était en effet rigoureuse, mais en s'asseyant comme ça et en y repensant, elle ne l'était pas au point d'être insupportable.
 
 }
 [sha:5ca8817f9cbb978294852c3216b7594a683294e8]{
 -- Page 24, Offset 2968.
 -- 肉体的にはたぶんまだまだ大丈夫。
-  Physiquement parlant, il avait sûrement encore de la marge.
+　Physiquement parlant, il avait sûrement encore de la marge.
 
 }
 [sha:a3acde3030265ce5e5c35c290c81b714522c51b2]{
 -- Page 24, Offset 2969.
 -- <音|ね>をあげているのは心の問題だ。
-  Le problème venait de son mental.
+　Le problème venait de son mental.
 
 }
 [sha:42de8d90dc47b1d2a8e44998f9c6b0759057dad9]{
 -- Page 25, Offset 2970.
 -- ここと山とでは何もかもが違う。
-  Ici, tout était différent par rapport à la montagne.
+　Ici, tout était différent par rapport à la montagne.
 
 }
 [sha:ade35479a4a8ce6229590109f23a27032f5a8156]{
 -- Page 25, Offset 2971.
 -- それを認めて適応する事はひどく難しかった。
-  Le reconnaître et s'y adapter était effroyablement dur.
+　Le reconnaître et s'y adapter était effroyablement dur.
 
 }
 [sha:29b29dbb5037a5ee76bdc239dfa87b8ff2c5601a]{
 -- Page 25, Offset 2972.
 -- 馴染むのは簡単だ。人間はなんにだって慣れる生き物なので、放っておいても順応していく。
-  Il était facile de s'y accoutumer. Les humains s'habituent à tout, et même si on les abandonne à leur sort, ils s'adaptent.
+　Il était facile de s'y accoutumer. Les humains s'habituent à tout, et même si on les abandonne à leur sort, ils s'adaptent.
 
 }
 [sha:c7c9c0f91c91772eb70935683d904ac39b8b1848]{
 -- Page 25, Offset 2973.
 -- なので。難しかったのは、たぶん認める方だろう。
-  Donc, la partie difficile, c'était sûrement de l'accepter.
+　Donc, la partie difficile, c'était sûrement de l'accepter.
 
 }
 [sha:9bed7487fdd1bfbeae71f5e803b99723985dc4a1]{
@@ -595,19 +595,19 @@
 [sha:816401cd7a96af18789f0a9e52f23cc2ecae0d85]{
 -- Page 26, Offset 2975.
 -- 今まで口にしたことのない弱音を漏らす。
-  Il laissa échapper les gémissements qu'il n'avait jamais laissés sortir.
+　Il laissa échapper les gémissements qu'il n'avait jamais laissés sortir.
 
 }
 [sha:d1fd2c20666b62e5534ca640bfeb0bf30a7edc45]{
 -- Page 26, Offset 2976.
 -- 正直、草十郎は町を出歩く事すらいまだに怖い。
-  Honnêtement, Sōjūrō avait encore peur, ne serait-ce que pour se promener en ville.
+　Honnêtement, Sōjūrō avait encore peur, ne serait-ce que pour se promener en ville.
 
 }
 [sha:064d778778eaaa656fc41206101de71f72bdff43]{
 -- Page 26, Offset 2977.
 -- 都会の人々には当たり前の事でも、彼にとっては未知の事ばかりなのだ。そんな事が連続するたびに驚いているのだから、まいらない筈がない。
-  Pour les habitants de cette cité, c'était quelque chose de normal, mais pour lui, tout était inconnu. Il était continuellement surpris lors de ses promenades, et de fait, il ne pouvait qu'être abattu.
+　Pour les habitants de cette cité, c'était quelque chose de normal, mais pour lui, tout était inconnu. Il était continuellement surpris lors de ses promenades, et de fait, il ne pouvait qu'être abattu.
 
 }
 [sha:60f8b634d4f7cd8ef38fcfc01d31e81b49a60746]{
@@ -625,43 +625,43 @@
 [sha:2506216be9f12f5a38f52995f47d0720e534ec50]{
 -- Page 27, Offset 2980.
 -- 呟いてみて、草十郎は小さく首を横に振った。
-  Sōjūrō murmura et secoua un peu la tête de côté.
+　Sōjūrō murmura et secoua un peu la tête de côté.
 
 }
 [sha:c20d8a5deccdd3e20a14236b08004a2a8be29ebc]{
 -- Page 27, Offset 2981.
 -- 有る物は有るのが、世の習わしだ。
-  Les faits sont les faits : ainsi allait le monde.
+　Les faits sont les faits : ainsi allait le monde.
 
 }
 [sha:a03351433d10e2d6fb5aa27271fb8c89c693edad]{
 -- Page 27, Offset 2982.
 -- 鳶丸にはああは言ったが、草十郎は<あ|・><の|・><出|・><来|・><事|・>が現実だと解っていた。
-  Tobimaru avait beau lui avoir dit le contraire, Sōjūrō savait que cet évènement était réel.
+　Tobimaru avait beau lui avoir dit le contraire, Sōjūrō savait que cet évènement était réel.
 
 }
 [sha:abad27f37df2fc39052ddb03df50573af7e41603]{
 -- Page 28, Offset 2983.
 -- ここは山に比べれば魔法の国だ。
-  Comparé à la montagne, cet endroit était un véritable pays de magie.
+　Comparé à la montagne, cet endroit était un véritable pays de magie.
 
 }
 [sha:8dac574f221fbb65976f2efa310715d72609ecf4]{
 -- Page 28, Offset 2984.
 -- それなら、本物の魔法使いがこっそり暮らしててもおかしくはない。
-  Alors, il ne serait pas bizarre si de véritables magiciens s'y cachaient discrètement.
+　Alors, il ne serait pas bizarre si de véritables magiciens s'y cachaient discrètement.
 
 }
 [sha:3f9665c47a758a46ad1d3250f5e2176c90f017be]{
 -- Page 28, Offset 2985.
 -- 一度でもそう思ってしまったら、椅子に座った両足が小刻みに震えていた。どうも怖いらしい、と気付いたのはしばらくしてからだ。
-  Même en n'y pensant qu'une seule fois, assis sur la chaise, ses jambes se mirent à trembler faiblement. Il lui fallut un certain temps pour se rendre compte qu'il avait visiblement peur.
+　Même en n'y pensant qu'une seule fois, assis sur la chaise, ses jambes se mirent à trembler faiblement. Il lui fallut un certain temps pour se rendre compte qu'il avait visiblement peur.
 
 }
 [sha:4c4984bde7b9a254fd0259cca94035d8dc27560c]{
 -- Page 28, Offset 2986.
 -- 自然以外を怖いと思うのは、子供のころ山道でばったり野生の熊に出会った時以来である。
-  C'était la première fois qu'il avait peur d'autre chose que la nature depuis qu'il avait rencontré par hasard un ours sauvage sur un chemin de montagne, durant son enfance.
+　C'était la première fois qu'il avait peur d'autre chose que la nature depuis qu'il avait rencontré par hasard un ours sauvage sur un chemin de montagne, durant son enfance.
 
 }
 [sha:d6136722c5a445192796ed1aabc9322f7c20a917]{
@@ -673,31 +673,31 @@
 [sha:b1f44a1f412e759cb68a2911e01247a7f0a7c65d]{
 -- Page 29, Offset 2988.
 -- なりふりかまわず泣き叫んだもんな、あの時は」
-  Cette fois-là, je m'étais mis à pleurer à chaudes larmes.」
+　Cette fois-là, je m'étais mis à pleurer à chaudes larmes.」
 
 }
 [sha:c49a80087d351a3913bcb44d8ab85b03ad92046a]{
 -- Page 29, Offset 2989.
 -- 幼少期のトンデモなトラウマを思い出し、草十郎はつい<微|わ><笑|ら>ってしまった。
-  Se rappelant de son incroyable traumatisme d'enfance, Sōjūrō se mit à rire nerveusement.
+　Se rappelant de son incroyable traumatisme d'enfance, Sōjūrō se mit à rire nerveusement.
 
 }
 [sha:49a618f30d2bbeae1af9f1faf09eafedb1d59240]{
 -- Page 30, Offset 2990.
 -- たしかに二メートル以上の獣がのっそり現れ、ぐるるる、なんて唸った日には誰だって卒倒するだろう。
-  Il était certain que n'importe qui ferait une syncope si une bête de plus de deux mètres apparaissait lentement en grognant.
+　Il était certain que n'importe qui ferait une syncope si une bête de plus de deux mètres apparaissait lentement en grognant.
 
 }
 [sha:916e968243ccf7aba38833fbed845fb1afa90cf5]{
 -- Page 30, Offset 2991.
 -- 山で生活していた草十郎からしてどのくらい迫力があったかと言うと、ほんの二日前に映画で見た大怪獣をぬいぐるみでは、と錯覚するぐらい野生の獣は怖かった。
-  Pour illustrer l'impact que ça avait eu sur quelqu'un qui avait vécu en montagne comme Sōjūrō : il avait peur des bêtes sauvages au point d'avoir l'illusion que le monstre géant qu'il avait vu il y a peine deux jours dans un film était une peluche.
+　Pour illustrer l'impact que ça avait eu sur quelqu'un qui avait vécu en montagne comme Sōjūrō : il avait peur des bêtes sauvages au point d'avoir l'illusion que le monstre géant qu'il avait vu il y a peine deux jours dans un film était une peluche.
 
 }
 [sha:30bb15cc0dc4aaad52dcc2fb79675024f03c1249]{
 -- Page 30, Offset 2992.
 -- それを思い出せば、たしかに、これぐらいはなんとか我慢できる話かもしれない。
-  En se rappelant de ça, il se dit qu'il pouvait peut-être s'accommoder d'une histoire pareille, d'une façon ou d'une autre.
+　En se rappelant de ça, il se dit qu'il pouvait peut-être s'accommoder d'une histoire pareille, d'une façon ou d'une autre.
 
 }
 [sha:d1924518881ff082c6768b511cbb939cc2ac9001]{
@@ -709,13 +709,13 @@
 [sha:f8c6f3281a7c18966f31434f6578086691d4c967]{
 -- Page 31, Offset 2994.
 -- 額面通りにとるのなら、それこそ文字通りの意味、というヤツだ。
-  Si on devait le prendre à la lettre, c'était donc au sens propre.
+　Si on devait le prendre à la lettre, c'était donc au sens propre.
 
 }
 [sha:d694ce585c756337e4ea8af41466736758df899d]{
 -- Page 31, Offset 2995.
 -- あまりにも物騒な意味合いすぎて、真剣に考察することが難しい。何かの聞き間違い、あるいは言い間違いだったのだろう、と放り投げてしまいたくなる。
-  C'était tellement inquiétant qu'il était difficile de l'envisager sérieusement. Ça lui donnait envie de ne pas croire ce qu'il avait entendu, comme si cette phrase avait été mal entendue, ou alors mal formulée.
+　C'était tellement inquiétant qu'il était difficile de l'envisager sérieusement. Ça lui donnait envie de ne pas croire ce qu'il avait entendu, comme si cette phrase avait été mal entendue, ou alors mal formulée.
 
 }
 [sha:259b5775d9f807bdb3598d7c404e94f0f9c0cd1e]{
@@ -727,31 +727,31 @@
 [sha:9b6a70c9b99bb1f9c759a17bab77d27f9f8e4a4b]{
 -- Page 32, Offset 2997.
 -- 自分で言っておきながら、やっぱり他人ごとのようで、夢だったと割り切りたい気分だ。
-  Dit ainsi, ça lui donnait l'impression que ce n'était pas son problème, et ça l'incitait à trancher la question comme si c'était un simple rêve.
+　Dit ainsi, ça lui donnait l'impression que ce n'était pas son problème, et ça l'incitait à trancher la question comme si c'était un simple rêve.
 
 }
 [sha:1b580f63d4e80c8343b34438685a98a99e560c2c]{
 -- Page 32, Offset 2998.
 -- 草十郎は息をついて瞼を閉じる。
-  Sōjūrō expira et ferma ses paupières.
+　Sōjūrō expira et ferma ses paupières.
 
 }
 [sha:84d5cf06cc6d49914d6de2da71268a68c6149513]{
 -- Page 32, Offset 2999.
 -- 視界の暗転と共に先ほどの光景をすべて棚上げ。
-  Avec son champ de vision à présent occulté, la scène qu'il revoyait se suspendit instantanément.
+　Avec son champ de vision à présent occulté, la scène qu'il revoyait se suspendit instantanément.
 
 }
 [sha:e0206b5ea9ca4ebc46714bb04aa912e743611691]{
 -- Page 32, Offset 3000.
 -- とりあえず、今はきれいさっぱり昨夜の出来事を忘れる事にした。
-  Pour le moment, il décida d'oublier complètement les évènements de la nuit dernière.
+　Pour le moment, il décida d'oublier complètement les évènements de la nuit dernière.
 
 }
 [sha:e15390120949211d4da720dbe8e330040e3498c7]{
 -- Page 33, Offset 3001.
 -- 瞼を開けると、呼吸はすっかり落ち着いていた。
-  Quand il rouvrit ses paupières, sa respiration s'était calmée.
+　Quand il rouvrit ses paupières, sa respiration s'était calmée.
 　　
 }
 [sha:f53d2379015fe78f7cfac31421e4a728dd1aa4aa]{
@@ -763,18 +763,18 @@
 [sha:e00cc80af89be9b49a95c63a9b323f01932f5176]{
 -- Page 33, Offset 3003.
 -- 蒼崎を殴りつけようとして、結局どうなったんだ鳶丸？」
-  Finalement, il s'est passé quoi quand tu as essayé de frapper Aozaki, Tobimaru ?」
+　Finalement, il s'est passé quoi quand tu as essayé de frapper Aozaki, Tobimaru ?」
 
 }
 [sha:1bbf6f331bcc1caf73794101e518b3627278e207]{
 -- Page 33, Offset 3004.
 -- なんとなく唐突に、そんな疑問が湧いたりする。
-  Cette question lui traversa soudainement l'esprit, sans raison spéciale.
+　Cette question lui traversa soudainement l'esprit, sans raison spéciale.
 
 }
 [sha:5078803629c0c459378f21faa4948c4b40e9b840]{
 -- Page 33, Offset 3005.
 -- 今度聞いてみよう、と草十郎が椅子から立ち上がった時、長い光を引いて電車がやってきた。
-  Le train arriva accompagné d'une grande lumière au moment où Sōjūrō se leva de sa chaise en pensant le lui demander la prochaine fois qu'il le verrait.
+　Le train arriva accompagné d'une grande lumière au moment où Sōjūrō se leva de sa chaise en pensant le lui demander la prochaine fois qu'il le verrait.
 
 }

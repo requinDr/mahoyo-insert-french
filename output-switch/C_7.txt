@@ -7,13 +7,13 @@
 [sha:d8742678cc8b1d18f6836ae482a3a0d32f815953]{
 -- Page 0, Offset 18523.
 -- 倒れたまま、青子はつい声を飲んでしまった。
-  La voix d'Aoko, toujours à terre, s'étouffa dans sa gorge.
+　La voix d'Aoko, toujours à terre, s'étouffa dans sa gorge.
 
 }
 [sha:8a22c105f93b0a537d5a173b115319fd6ebef543]{
 -- Page 0, Offset 18524.
 -- 正直、目の前で起こった事が把握できない。
-  À vrai dire, elle n'avait pas compris ce qui venait de se passer sous ses yeux.
+　À vrai dire, elle n'avait pas compris ce qui venait de se passer sous ses yeux.
 
 }
 [sha:4992d4addd6c48a9ecc6080c74ac9953f01a7a57]{
@@ -25,7 +25,7 @@
 [sha:527e2bc59db172664e804804e8a9d01aed50446d]{
 -- Page 1, Offset 18526.
 -- つい呼びかける声が震えてしまう。
-  bredouilla-t-elle d'une voix tremblante.
+　bredouilla-t-elle d'une voix tremblante.
 
 }
 [sha:280509b9c16ebe56bab4b47df92e84b1165ee17e]{
@@ -37,7 +37,7 @@
 [sha:0dbbcb1ca5c5cd61d78e32ba5e8264209b8f79a5]{
 -- Page 1, Offset 18528.
 -- 草十郎はいつもの口調で、ごく自然に振り向いた。
-  demanda ce dernier sur son ton habituel et en se retournant comme si de rien n'était.
+　demanda ce dernier sur son ton habituel et en se retournant comme si de rien n'était.
 
 }
 [sha:de72d5814d3c0beb1ab29e19630417fea30c3073]{
@@ -49,25 +49,25 @@
 [sha:89cacae68737a144c01bd4501ab2ffde69f98e10]{
 -- Page 2, Offset 18530.
 -- 悪いのはアンタの方、と言わんばかりの怒鳴り声だった。
-  fulmina-t-elle, si bien que l'on aurait pu croire qu'elle l'accusait de quelque chose.
+　fulmina-t-elle, si bien que l'on aurait pu croire qu'elle l'accusait de quelque chose.
 
 }
 [sha:8b71b807ba90c5140766e6f28a4e59915b352e95]{
 -- Page 2, Offset 18531.
 -- 草十郎は目を点にして、青子が怒るような事をしたかな、と考えこむ。
-  Ai-je fait quelque chose pour provoquer sa colère ? se demanda Sōjūrō, les yeux grands ouverts.
+　Ai-je fait quelque chose pour provoquer sa colère ? se demanda Sōjūrō, les yeux grands ouverts.
 
 }
 [sha:9629aa4f8191f21c9ae4b854afe5b7d058060d88]{
 -- Page 3, Offset 18532.
 -- 視線を下に向けると、人狼は少年の姿に戻っていた。
-  Lorsqu'il les baissa, il constata que le loup-garou avait retrouvé son apparence de garçon.
+　Lorsqu'il les baissa, il constata que le loup-garou avait retrouvé son apparence de garçon.
 
 }
 [sha:e5102cee2aa41eab4f91864709957bb6ac6191ba]{
 -- Page 3, Offset 18533.
 -- ……青子はこの事を言っているんだろうか、とようやく気付いて、草十郎は不機嫌そうに眉をひそめた。
-  ...... Quand il réalisa enfin qu'elle parlait de l'enfant, il fronça les sourcils d'un air mécontent.
+　...... Quand il réalisa enfin qu'elle parlait de l'enfant, il fronça les sourcils d'un air mécontent.
 
 }
 [sha:41ed4e9a973c726a9be75e1f1630100c816c7cb2]{
@@ -79,7 +79,7 @@
 [sha:264e7952f3c9ab1c2f299166cc9bf840dbfe646a]{
 -- Page 4, Offset 18535.
 -- 向けられる批難の目。
-  Il tourna vers elle un regard réprobateur.
+　Il tourna vers elle un regard réprobateur.
 
 }
 [sha:25bf3d9a16fd4867fcfd391550fd2d172037685a]{
@@ -91,13 +91,13 @@
 [sha:93f53dc854fe37d4d3419a8e5a5d5244befb7ecf]{
 -- Page 4, Offset 18537.
 -- 非難される覚えはないので、青子もややつっけんどんに聞き返す。
-  Comme elle ne se rappelait pas avoir fait quelque chose qui méritait des reproches, Aoko répliqua sur un ton brusque.
+　Comme elle ne se rappelait pas avoir fait quelque chose qui méritait des reproches, Aoko répliqua sur un ton brusque.
 
 }
 [sha:f43d25911dcc6c20c1094eaba09ffb305fee270b]{
 -- Page 4, Offset 18538.
 -- それに、草十郎は重いため息を洩らした。
-  Sōjūrō laissa alors échapper un profond soupir.
+　Sōjūrō laissa alors échapper un profond soupir.
 
 }
 [sha:e63682c2f579a334af5be9dd8413f31dc49992f0]{
@@ -109,7 +109,7 @@
 [sha:4be9c2662d3047b6bb63890e72c2aabdd9faaa32]{
 -- Page 5, Offset 18540.
 -- 以前、確かに言ったじゃないか」
-  Je te l'ai pourtant dit, il n'y a pas si longtemps.」
+　Je te l'ai pourtant dit, il n'y a pas si longtemps.」
 
 }
 [sha:81aa684c2e67d3cc5974eb437f40b961c82f4464]{
@@ -127,19 +127,19 @@ Hein ?」
 [sha:7e0654e6fc8eeba571a905e56ca9b8fd9b045524]{
 -- Page 6, Offset 18543.
 -- ……開いた口が<塞|ふさ>がらない。
-  ...... Sa bouche refusait de se fermer.
+　...... Sa bouche refusait de se fermer.
 
 }
 [sha:12264bacd8dcc589911490513728bf39eac42772]{
 -- Page 6, Offset 18544.
 -- 今の言葉をそのままの意味として受け入れるのには、幾分かの時間を要した。
-  Il lui fallut quelque temps pour assimiler ces paroles au sens propre.
+　Il lui fallut quelque temps pour assimiler ces paroles au sens propre.
 
 }
 [sha:7c71632252d740b95ce546d260ae836b418866a6]{
 -- Page 6, Offset 18545.
 -- 青子はいつかの、他愛のないやりとりを思い出す。
-  Une de leurs conversations sans intérêt lui revint à l'esprit.
+　Une de leurs conversations sans intérêt lui revint à l'esprit.
 
 }
 [sha:3120ad3c2c015c92bca9e266f27af1435e76b309]{
@@ -151,7 +151,7 @@ Hein ?」
 [sha:ac081fdea6223ae70628aa1dbd25c737ff416926]{
 -- Page 7, Offset 18547.
 -- まったく、なんで熊を倒すためなんかに修業しなくちゃいけないんだ』
-  Ne raconte pas de bêtises ! Pourquoi aurais-je besoin de suivre un apprentissage pour battre ces idiots d'ours ?』
+　Ne raconte pas de bêtises ! Pourquoi aurais-je besoin de suivre un apprentissage pour battre ces idiots d'ours ?』
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -163,49 +163,49 @@ Hein ?」
 [sha:ceac6b1c960636c72e43afbb011cda9410e11ba3]{
 -- Page 8, Offset 18549.
 -- そう。よくよく思い返してみると、アレはおかしな言い回しだったのだ。
-  Maintenant qu'elle y repensait, la formulation employée avait été curieuse.
+　Maintenant qu'elle y repensait, la formulation employée avait été curieuse.
 
 }
 [sha:f31b16db95cc25849123fe4a150289041e75afdb]{
 -- Page 8, Offset 18550.
 -- 熊という巨獣に慣れていないと言えない台詞だし、
-  Il n'aurait pu dire cette phrase que s'il était habitué aux bêtes imposantes telles que les ours,
+　Il n'aurait pu dire cette phrase que s'il était habitué aux bêtes imposantes telles que les ours,
 
 }
 [sha:fcabd61f51f5c0a3ad7656fe0a1d73ba588ecfb8]{
 -- Page 8, Offset 18551.
 -- そもそも何より、彼本人が“修業をしていた”なんて時代錯誤な言葉を否定していない。
-  et surtout, il n'avait pas nié le fait d'avoir “suivi un apprentissage”, expression dont la signification avait bien évolué à notre époque.
+　et surtout, il n'avait pas nié le fait d'avoir “suivi un apprentissage”, expression dont la signification avait bien évolué à notre époque.
 
 }
 [sha:7b9bdadcc2282a69982506e99d3b4eeda293eda3]{
 -- Page 9, Offset 18552.
 -- ……と、なると。
-  ...... Pour lui,
+　...... Pour lui,
 
 }
 [sha:a27f826ed4449f0a141ea25b75a7d65efef96c66]{
 -- Page 9, Offset 18553.
 -- 彼にとって、自分より大きな動物は珍しいものではなく。
-  il n'était donc pas rare de devoir faire face à un animal plus gros qu'un humain.
+　il n'était donc pas rare de devoir faire face à un animal plus gros qu'un humain.
 
 }
 [sha:f65af42642ec2a819919dc461da90c5394a4c5c9]{
 -- Page 9, Offset 18554.
 -- 野生の熊と遭遇するような生活をしていたのなら、人間が狼になる程度、驚くことはあれ、恐れることはないのかもしれない。
-  S'il croisait quotidiennement des ours sauvages lors de sa vie précédente, alors peut-être que la transformation d'un humain en loup ne représentait pas une menace, bien qu'elle ait de quoi surprendre.
+　S'il croisait quotidiennement des ours sauvages lors de sa vie précédente, alors peut-être que la transformation d'un humain en loup ne représentait pas une menace, bien qu'elle ait de quoi surprendre.
 
 }
 [sha:4c60e63106acbb211cc79a0981f6f8133f370d4d]{
 -- Page 10, Offset 18555.
 -- そこまで思い至って、青子は大きくうなだれた。
-  Lorsqu'elle arriva à cette conclusion, Aoko baissa la tête.
+　Lorsqu'elle arriva à cette conclusion, Aoko baissa la tête.
 
 }
 [sha:f37259de33977372610ae1af3e27e92cf9de9e77]{
 -- Page 10, Offset 18556.
 -- 初めから、いちばん常識から外れていたのは、一体誰だったのか―――
-  Lequel des deux avait eu la vie la plus dénuée de bon sens, en fin de compte ?
+　Lequel des deux avait eu la vie la plus dénuée de bon sens, en fin de compte ?
 
 }
 [sha:d06f072eff4bea1b27dc5539cfa5cb6a088490d8]{
@@ -217,12 +217,12 @@ Hein ?」
 [sha:cd06316262567aad82a93ca8d9a3fb99548c2f6a]{
 -- Page 11, Offset 18558.
 -- 感服したのか、それとも心底呆れたのか。
-  Était-elle admirative ? Ou simplement abasourdie ?
+　Était-elle admirative ? Ou simplement abasourdie ?
 
 }
 [sha:95f13b8950bc43f5b2c6d5982bfe5bbd2d20e5d3]{
 -- Page 11, Offset 18559.
 -- とにかく肩の力をがっくりと落として、青子は自分にだけ聞こえるよう、そんな台詞を呟いた。
-  Quoi qu'il en soit, Aoko baissa les épaules et murmura ces paroles de façon à ce qu'elle soit la seule à pouvoir les entendre.
+　Quoi qu'il en soit, Aoko baissa les épaules et murmura ces paroles de façon à ce qu'elle soit la seule à pouvoir les entendre.
 
 }

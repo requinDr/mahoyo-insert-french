@@ -1,19 +1,19 @@
 [sha:c99a87d467799f6a5c55c4a5f4ae38e018165bed]{
 -- Page 0, Offset 15399.
 -- ロビーに着くと、有珠は草十郎の背中から降り、西館に向かって歩きだした。
-  Arrivée dans le vestibule, Alice descendit du dos de Sōjūrō et se dirigea vers l'aile ouest.
+　Arrivée dans le vestibule, Alice descendit du dos de Sōjūrō et se dirigea vers l'aile ouest.
 
 }
 [sha:80d1efd37a3506bf1e51e0c652e7fb073363464b]{
 -- Page 0, Offset 15400.
 -- 洋館の左翼、ロビーから西は彼女の管轄である。
-  La partie gauche du manoir, à l'ouest du vestibule, était sous sa juridiction.
+　La partie gauche du manoir, à l'ouest du vestibule, était sous sa juridiction.
 
 }
 [sha:5395f02c2aeff9ceba1b305420f618d12bbd8735]{
 -- Page 0, Offset 15401.
 -- が。有珠は数歩もしないうち、床に崩れ落ちてしまった。
-  Cependant, elle s'écroula au sol après seulement quelques pas.
+　Cependant, elle s'écroula au sol après seulement quelques pas.
 
 }
 [sha:63bb4f77e34e351923e9c822af561e7e5b8f139c]{
@@ -25,31 +25,31 @@
 [sha:a3183119d7eed59b21d998e8ee3632ac19d0e6cf]{
 -- Page 1, Offset 15403.
 -- 草十郎が駆け寄ると、有珠は座りこんだまま片手を上げた。
-  Lorsque Sōjūrō accourut vers elle, elle leva une main tout en s'asseyant,
+　Lorsque Sōjūrō accourut vers elle, elle leva une main tout en s'asseyant,
 
 }
 [sha:48b4a777f8178c265f5d67cdabf0f25d5ac4bb42]{
 -- Page 1, Offset 15404.
 -- それ以上は近付かないで、と告げるように。
-  comme pour lui dire de ne pas s'approcher davantage.
+　comme pour lui dire de ne pas s'approcher davantage.
 
 }
 [sha:081fc22d21bc2b52fbb337f2748068a7cf1b9601]{
 -- Page 1, Offset 15405.
 -- 草十郎は苦い顔付きで足を止める。
-  Sōjūrō s'arrêta d'un air mécontent.
+　Sōjūrō s'arrêta d'un air mécontent.
 
 }
 [sha:13fbf095b49bd244aa222855479033eb6f33e423]{
 -- Page 1, Offset 15406.
 -- ……少女の白い肌には汗がにじんでいる。
-  ...... La peau blanchâtre de la jeune fille était trempée de sueur.
+　...... La peau blanchâtre de la jeune fille était trempée de sueur.
 
 }
 [sha:c799d6aab0487399175d57aa8336b378d9d6d4a5]{
 -- Page 1, Offset 15407.
 -- いつも無表情の顔は、苦しそうに痛みに耐えていた。
-  Son visage habituellement inexpressif montrait qu'elle résistait avec peine à la douleur.
+　Son visage habituellement inexpressif montrait qu'elle résistait avec peine à la douleur.
 
 }
 [sha:7914cff30a1899bf908e08278462153e4dcbb1cd]{
@@ -61,25 +61,25 @@
 [sha:218cf9ba6d7c6d59d1e0706daea8323d5871ef9d]{
 -- Page 2, Offset 15409.
 -- すぐに戻ってくるから、そうしたら―――」
-  Je reviens tout de suite, et alors―――」
+　Je reviens tout de suite, et alors―――」
 
 }
 [sha:2dbf7d1be8ab80ca17f680c152ef712e8300fde5]{
 -- Page 2, Offset 15410.
 -- きちんと話をする、と苦しげな目が伝えてくる。
-  Je te raconterai tout, promirent ses yeux où perçait la souffrance.
+　Je te raconterai tout, promirent ses yeux où perçait la souffrance.
 
 }
 [sha:739eb4e3d843266b58778ee6c6448c82702ae659]{
 -- Page 3, Offset 15411.
 -- そう言われては止める事もできない。
-  Après de telles paroles, il ne pouvait décemment pas l'arrêter.
+　Après de telles paroles, il ne pouvait décemment pas l'arrêter.
 
 }
 [sha:88f608d55ff7464be1b38dda548575b0d3f767ca]{
 -- Page 3, Offset 15412.
 -- 辛いのは有珠の方で、断じて自分ではない、と草十郎は自分に言い聞かせる。
-  C'est Alice qui souffre et évidemment pas moi, se répéta Sōjūrō.
+　C'est Alice qui souffre et évidemment pas moi, se répéta Sōjūrō.
 
 }
 [sha:502e989357d830c97c03cdd54923d34edaab8c23]{
@@ -91,31 +91,31 @@
 [sha:400f790a83b2ed1ce1de4faaf373a487be365c38]{
 -- Page 4, Offset 15414.
 -- 有珠は深呼吸をしてから、確かな足取りで洋館の西館へ消えていった。
-  Alice prit une grande respiration puis disparut d'une démarche assurée dans l'aile ouest du manoir.
+　Alice prit une grande respiration puis disparut d'une démarche assurée dans l'aile ouest du manoir.
 
 }
 [sha:20ae253c073f03e29c039d4b8797e0b76da522aa]{
 -- Page 4, Offset 15415.
 -- ……時間にすれば五分もない空白。
-  ...... Après une attente de moins de cinq minutes,
+　...... Après une attente de moins de cinq minutes,
 
 }
 [sha:163a8e4521b219d552ec671057a218a3c5d816da]{
 -- Page 4, Offset 15416.
 -- 有珠は代えの黒衣に着替えて戻ってきた。
-  Alice revint vêtue de l'une de ses tenues noires de rechange.
+　Alice revint vêtue de l'une de ses tenues noires de rechange.
 
 }
 [sha:be12be165e19c3dffef5e76de1c69071fdd051f1]{
 -- Page 4, Offset 15417.
 -- 顔色は一向に良くはならない。
-  Sa mine ne s'était guère améliorée.
+　Sa mine ne s'était guère améliorée.
 
 }
 [sha:e10705134d7120c1967e472245af4c83bcf38ead]{
 -- Page 4, Offset 15418.
 -- 小さく息をついて、いつかのように、ロビーの柱に背中を預けて座りこむ。
-  Elle poussa un petit soupir et, comme un certain jour, s'assit dos contre le pilier du vestibule.
+　Elle poussa un petit soupir et, comme un certain jour, s'assit dos contre le pilier du vestibule.
 
 }
 [sha:be67f0d6941d8b160dfe880c3a44f35d78935486]{
@@ -127,7 +127,7 @@
 [sha:648fa21a81f9339ae11199a7bdff369ab60974de]{
 -- Page 5, Offset 15420.
 -- 草十郎は有珠に合わせて、冷たい床に座りこむ。
-  Sōjūrō s'assit sur le sol glacial, face à Alice.
+　Sōjūrō s'assit sur le sol glacial, face à Alice.
 
 }
 [sha:54631676e0923d6e2379ce6c901bb74ce68b22c6]{
@@ -139,7 +139,7 @@
 [sha:87c2570b7e6379d4bd3a3528f43745d27413b7e9]{
 -- Page 5, Offset 15422.
 -- この体の異常はナナカマドを飲まされたせいだから、どうあっても治らないもの」
-  L'anomalie de mon corps est due à la sorbe japonaise qu'on m'a fait absorber, alors je ne peux rien faire pour me guérir.」
+　L'anomalie de mon corps est due à la sorbe japonaise qu'on m'a fait absorber, alors je ne peux rien faire pour me guérir.」
 
 }
 [sha:85978c0c15bd3a89348b133675026a4a0af668ce]{
@@ -157,13 +157,13 @@
 [sha:520592b862ec3e0737b6cc9f4ab4b66c3a2c8b2f]{
 -- Page 6, Offset 15425.
 -- 寒さに関しては強がりではないらしい。
-  Apparemment, elle ne souffrait pas du froid.
+　Apparemment, elle ne souffrait pas du froid.
 
 }
 [sha:6418d2700d8e364f05aadbde4689042c9abe6ea5]{
 -- Page 6, Offset 15426.
 -- いつかの青子の『有珠は洋館の中にいれば適温』説を思い出して、草十郎はあっさり引き下がった。
-  Se rappelant une théorie d'Aoko : “Pour Alice, une fois dans le manoir, la température est convenable”, Sōjūrō abandonna rapidement.
+　Se rappelant une théorie d'Aoko : “Pour Alice, une fois dans le manoir, la température est convenable”, Sōjūrō abandonna rapidement.
 
 }
 [sha:2dca2646c91800379954684db74d5c972aaebba4]{
@@ -175,7 +175,7 @@
 [sha:1662a0b79df04d770468d8651f8d158f87ebb3ff]{
 -- Page 7, Offset 15428.
 -- それで、ナナカマドっていうのは？」
-  Et donc, cette sorbe, c'est quoi ?」
+　Et donc, cette sorbe, c'est quoi ?」
 
 }
 [sha:dc0a1e867450fdf1b02b6b19e12640c9f1482983]{
@@ -187,7 +187,7 @@
 [sha:997c19d34257f796ba064ff9013f553814e65202]{
 -- Page 7, Offset 15430.
 -- ……普通の人にはよくない程度だけど、わたしや青子には少し厄介ね。体内での魔力生成そのものに抵抗されてしまうから、手の打ちようがない」
-  ...... Pour une personne normale, ce n'est pas spécialement néfaste, mais pour Aoko ou moi, c'est légèrement plus problématique. Comme elle s'oppose à la création de prana dans nos corps, nous ne pouvons rien faire contre ça.」
+　...... Pour une personne normale, ce n'est pas spécialement néfaste, mais pour Aoko ou moi, c'est légèrement plus problématique. Comme elle s'oppose à la création de prana dans nos corps, nous ne pouvons rien faire contre ça.」
 
 }
 [sha:4649cf5c3020cd482c2113c5ac5b2c42e754bbab]{
@@ -205,25 +205,25 @@
 [sha:9ce1a3f3e6f622e861e4571608e3e84e0fead02f]{
 -- Page 8, Offset 15433.
 -- 今は傷を治すために魔力を使っているから苦しいけど、傷が完治すれば大人しくなるわ。魔術さえ使わなければナナカマドも反応しないから。
-  En ce moment, j'utilise mon prana pour soigner mes blessures, d'où la douleur, mais une fois que je serai complètement guérie, ça se calmera. Tant que l'on n'utilise pas la Magie, la sorbe ne réagit pas.
+　En ce moment, j'utilise mon prana pour soigner mes blessures, d'où la douleur, mais une fois que je serai complètement guérie, ça se calmera. Tant que l'on n'utilise pas la Magie, la sorbe ne réagit pas.
 
 }
 [sha:3d9c5fa62e1aed4fdecbce2973720fc9a50f95e3]{
 -- Page 8, Offset 15434.
 -- 単純な話、ナナカマドを消化するまでわたしは役には立たないだけ」
-  Pour faire simple, jusqu'à ce que je l'aie digérée, je serai tout simplement inutile.」
+　Pour faire simple, jusqu'à ce que je l'aie digérée, je serai tout simplement inutile.」
 
 }
 [sha:314c03eb2a03b34ee33acccd45102ce2667d6401]{
 -- Page 9, Offset 15435.
 -- ただ。
-  Cela dit,
+　Cela dit,
 
 }
 [sha:db4c2ffeaf654e390f0c5940a834f3b4dd3820c5]{
 -- Page 9, Offset 15436.
 -- それが何日かかるかを、有珠は口にはしなかった。
-  Alice ne précisa pas combien de jours cela prendrait.
+　Alice ne précisa pas combien de jours cela prendrait.
 
 }
 [sha:dc259d45fd6a35745bd3ca1523ac0e13ec307869]{
@@ -235,31 +235,31 @@
 [sha:7676032c9d21ed62c179fa468221a4872636bd88]{
 -- Page 10, Offset 15438.
 -- こんなの、血が流れる程度の痛みだから」
-  C'est comme si je saignais un peu. Ce n'est pas une douleur insupportable.」
+　C'est comme si je saignais un peu. Ce n'est pas une douleur insupportable.」
 
 }
 [sha:1af0c548398e77170037e95c5ece2ba0f1407f00]{
 -- Page 11, Offset 15439.
 -- 有珠の声は努めて静かだった。
-  Alice s'efforçait de parler d'une voix calme.
+　Alice s'efforçait de parler d'une voix calme.
 
 }
 [sha:7c43774609a44027489c7b4388db252581822e82]{
 -- Page 11, Offset 15440.
 -- 青子も背中を強打されても平気な顔で走っていたし、魔術師という人種は痛みへの耐性が強いのかもしれない。
-  Tout comme elle, Aoko avait couru d'un air indifférent après avoir reçu un violent coup au dos. Il semblait que l'espèce des Mages possédait une forte résistance à la douleur.
+　Tout comme elle, Aoko avait couru d'un air indifférent après avoir reçu un violent coup au dos. Il semblait que l'espèce des Mages possédait une forte résistance à la douleur.
 
 }
 [sha:82d38921720ac01d98c34bf740bfcce291494cb1]{
 -- Page 11, Offset 15441.
 -- それに驚きつつ、草十郎は呆れたのだ。
-  Cela l'étonnait, mais autre chose le rendait perplexe.
+　Cela l'étonnait, mais autre chose le rendait perplexe.
 
 }
 [sha:bfaf851c7f7938bf0839c396e538419267adc96b]{
 -- Page 11, Offset 15442.
 -- 耐えられる程度の痛みは傷じゃない、なんて考えでは、死に至る傷以外は痛みではなくなってしまう。
-  Si l'on considérait qu'une douleur supportable ne suffisait pas à définir une blessure, alors la douleur n'existait pas hormis pour les blessures mortelles.
+　Si l'on considérait qu'une douleur supportable ne suffisait pas à définir une blessure, alors la douleur n'existait pas hormis pour les blessures mortelles.
 
 }
 [sha:4403e516dae4106f5816b6daf4237f8dda8f911b]{
@@ -283,7 +283,7 @@
 [sha:86658de26e3c4a4c44fe93d936d3c1618fb695b7]{
 -- Page 12, Offset 15446.
 -- 言って、草十郎は立ち上がった。
-  dit Sōjūrō avant de se lever.
+　dit Sōjūrō avant de se lever.
 
 }
 [sha:b8a9263e7a5074a03a820e7f143e20e73acb7b5d]{
@@ -301,25 +301,25 @@
 [sha:ba51237ac20cbabcabcf0146a1b9af6aa33701a2]{
 -- Page 14, Offset 15449.
 -- 有珠は座りこんだまま、天窓を見上げている。
-  Assise, Alice regardait la lucarne.
+　Assise, Alice regardait la lucarne.
 
 }
 [sha:7e714eb96cf72f5a12d8cb36803d7d7aab9ad170]{
 -- Page 14, Offset 15450.
 -- 痛みに耐える顔が月光に照らされている。
-  Son visage endurant la douleur était éclairé par le clair de lune.
+　Son visage endurant la douleur était éclairé par le clair de lune.
 
 }
 [sha:e48beeaf52c7f3e6f64718b1bdbe2a8ffc2f4647]{
 -- Page 14, Offset 15451.
 -- 廃墟の古城を思わせるこのロビーで、月と有珠だけが現実より鮮明に映っている。
-  Dans ce vestibule aux allures de vieux château en ruine, la lune et Alice apparaissaient plus distinctes que la réalité.
+　Dans ce vestibule aux allures de vieux château en ruine, la lune et Alice apparaissaient plus distinctes que la réalité.
 
 }
 [sha:3834eaafddc49385d9bd0771de8bdea3e6fc2a0d]{
 -- Page 15, Offset 15452.
 -- その張りつめた強さは、何処からくるものなのか。
-  D'où pouvait bien lui venir cette vivacité ?
+　D'où pouvait bien lui venir cette vivacité ?
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -331,31 +331,31 @@
 [sha:211419459acd909f70fef0c1480bd862d25d2692]{
 -- Page 15, Offset 15454.
 -- 草十郎は立ったまま、少女の在り方を眺めている。
-  Debout, Sōjūrō contemplait la prestance de la jeune fille,
+　Debout, Sōjūrō contemplait la prestance de la jeune fille,
 
 }
 [sha:e328caa9142ece378b9cd0a9da94b0b80ef41734]{
 -- Page 15, Offset 15455.
 -- 無力に夜空を見上げるしかない、有珠の視線の意味にも気付かないままで。
-  sans comprendre la signification de son regard qui ne pouvait rien faire d'autre qu'observer, impuissante, le ciel nocturne.
+　sans comprendre la signification de son regard qui ne pouvait rien faire d'autre qu'observer, impuissante, le ciel nocturne.
 
 }
 [sha:216669302ce0cdb261ffb3529af684da2140dc1d]{
 -- Page 16, Offset 15456.
 -- ……そうして、ロビーの静寂を破るように三度目の<電話|コール>が鳴り響いた。
-  ...... Puis, un troisième appel retentit comme pour troubler le calme du vestibule.
+　...... Puis, un troisième appel retentit comme pour troubler le calme du vestibule.
 
 }
 [sha:fd64d6b0afad6d4ad72c49542d5162c09b03a482]{
 -- Page 16, Offset 15457.
 -- 草十郎が動くより早く、細い影がロビーを横切る。
-  Une ombre menue traversa la pièce avant que Sōjūrō n'ait eu le temps de bouger.
+　Une ombre menue traversa la pièce avant que Sōjūrō n'ait eu le temps de bouger.
 
 }
 [sha:3bcb93362c705166c3713dcf1088145195a18ca2]{
 -- Page 16, Offset 15458.
 -- それが衰弱した有珠だと草十郎が気付いた時、彼女はすでに受話器を手に取っていた。
-  Lorsque Sōjūrō réalisa qu'il s'agissait de la frêle Alice, elle avait déjà saisi le combiné.
+　Lorsque Sōjūrō réalisa qu'il s'agissait de la frêle Alice, elle avait déjà saisi le combiné.
 
 }
 [sha:4740845469d356de5b149d12e5b28216d1912f02]{
@@ -367,25 +367,25 @@
 [sha:4e23b1f9e21628c1f18c6995d6ac159a7fc4e9a4]{
 -- Page 17, Offset 15460.
 -- ……不安を含んだ有珠の声を、草十郎は初めて聞いた。
-  ...... Sōjūrō entendait pour la première fois la voix inquiète d'Alice.
+　...... Sōjūrō entendait pour la première fois la voix inquiète d'Alice.
 
 }
 [sha:81785d81924574315dcf6e0ef89d8846a8afc38b]{
 -- Page 17, Offset 15461.
 -- 痛みに耐える声より、何倍も<悲愴|ひそう>な響き。
-  Elle avait un timbre bien plus pathétique que sa voix résistant à la douleur.
+　Elle avait un timbre bien plus pathétique que sa voix résistant à la douleur.
 
 }
 [sha:9a90c9ff9b2b663d205f4f993202b32575551f43]{
 -- Page 17, Offset 15462.
 -- 有珠の問いに、受話器はただ一言だけを返す。
-  Le téléphone répondit une simple phrase à la question d'Alice.
+　Le téléphone répondit une simple phrase à la question d'Alice.
 
 }
 [sha:f6e50d5457d97a31dc4dc06b48876a754bb7ccc2]{
 -- Page 17, Offset 15463.
 -- 有珠以上に弱々しい、消え去る前の炎みたいな一言を。
-  Plus faible encore que cette dernière, ces quelques mots évoquaient une flamme sur le point de s'éteindre.
+　Plus faible encore que cette dernière, ces quelques mots évoquaient une flamme sur le point de s'éteindre.
 
 }
 [sha:d78afd76913cee2590a4e0a63b829e9895f51646]{
@@ -397,48 +397,48 @@
 [sha:d814bd7ae89f92a815610100b56698d20518d249]{
 -- Page 19, Offset 15465.
 -- 受話器から遠く離れた位置で、青子らしくない言葉が、草十郎の耳に響く。
-  Ces paroles, loin de correspondre à Aoko, parvinrent jusqu'aux oreilles de Sōjūrō éloigné du téléphone.
+　Ces paroles, loin de correspondre à Aoko, parvinrent jusqu'aux oreilles de Sōjūrō éloigné du téléphone.
 
 }
 [sha:afa23195ef55432d900bb98c3d9b3139090b0f90]{
 -- Page 19, Offset 15466.
 -- ……それだけの言葉なのに、いや、それだけの言葉だからこそ。
-  ...... C'était tout ce qu'elle avait dit, et pourtant... Non ! C'était justement pour ça...
+　...... C'était tout ce qu'elle avait dit, et pourtant... Non ! C'était justement pour ça...
 
 }
 [sha:3c32a4b8a05ef7dd8bb2d24afe9c2f188b0f14db]{
 -- Page 19, Offset 15467.
 -- 草十郎には青子の<敗北|けつまつ>が、堪え難いほど実感できた。
-  que Sōjūrō put se rendre compte avec horreur de la défaite d'Aoko.
+　que Sōjūrō put se rendre compte avec horreur de la défaite d'Aoko.
 
 }
 [sha:57d30b3035141e8b76476391d01cc1f3e15ba0fe]{
 -- Page 20, Offset 15468.
 -- 有珠は静かに受話器を置く。
-  Alice posa calmement le téléphone.
+　Alice posa calmement le téléphone.
 
 }
 [sha:1f7796c608769dae55b349dd05b7632e069efb9a]{
 -- Page 20, Offset 15469.
 -- 今まで苦痛に耐えていた彼女の体は、一転してしなやかな強さを取り戻した。
-  Son corps qui supportait jusqu'à présent la douleur retrouva tout à coup sa souplesse,
+　Son corps qui supportait jusqu'à présent la douleur retrouva tout à coup sa souplesse,
 
 }
 [sha:94b24a7207c9bb72c44b9444ffc1766f0c5f4b3d]{
 -- Page 20, Offset 15470.
 -- 針金の人形が、美しい彫像に変わるように。
-  comme une poupée en fil de fer qui se transformerait en une magnifique statue.
+　comme une poupée en fil de fer qui se transformerait en une magnifique statue.
 
 }
 [sha:ef99b4d74cacd16a6a54bd58e9f82dabf9cca559]{
 -- Page 20, Offset 15471.
 -- それを見て、草十郎はようやく気が付いた。
-  Face à ce changement, Sōjūrō prit enfin conscience...
+　Face à ce changement, Sōjūrō prit enfin conscience...
 
 }
 [sha:3f46749f31710e19b3ab28b8050ef5bdfe3d801f]{
 -- Page 20, Offset 15472.
 -- 有珠の痛々しく月を見上げる瞳は、自分ではもう変えようのないこの結末を、静かに受け入れる為のものだったと。
-  que les yeux d'Alice avaient regardé douloureusement la lune afin de se préparer calmement à ce dénouement qu'elle n'avait plus la force de modifier.
+　que les yeux d'Alice avaient regardé douloureusement la lune afin de se préparer calmement à ce dénouement qu'elle n'avait plus la force de modifier.
 
 }

@@ -1,127 +1,127 @@
 [sha:a6a4e678df99f6027e56f7ce4821d7ddfc3132ab]{
 -- Page 0, Offset 18336.
 -- ―――ならば、それは神速か。
-  ―――L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
+　―――L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
 
 }
 [sha:c62fe62a088719d8623a35e50a50f5760be2c1cf]{
 -- Page 0, Offset 18337.
 -- 弾け跳んだ人狼が黒影なら、<迎|むか>え撃たんと踏みこむ彼も無音の影。
-  Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre silencieuse.
+　Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre silencieuse.
 
 }
 [sha:8a074e9a746f4a923772b9f12624e4f9aa079788]{
 -- Page 0, Offset 18338.
 -- 向かうべき位置はきっかり三歩分。
-  La position qu'il devait occuper se trouvait exactement à trois pas.
+　La position qu'il devait occuper se trouvait exactement à trois pas.
 
 }
 [sha:53fd724935ab6ef25a533d88b25db6a1600bf11f]{
 -- Page 0, Offset 18339.
 -- その、わずか一メートルの前進に、彼は<人生|おのれ>の全てを<賭|と>した。
-  Il misa tout son être dans cette avancée d'à peine un mètre.
+　Il misa tout son être dans cette avancée d'à peine un mètre.
 
 }
 [sha:c85004beb0ca02c22b01470935910f4273521487]{
 -- Page 1, Offset 18340.
 -- <瞬|またた>きひとつ分の時間で迫る死。
-  La mort s'approchait à une vitesse fulgurante.
+　La mort s'approchait à une vitesse fulgurante.
 
 }
 [sha:588f6fc749697b7b2fef5baa51806c902bd42ae3]{
 -- Page 1, Offset 18341.
 -- 疾走する巨大な暴力を前にして、彼は避ける素振りさえ見せなかった。
-  Il ne montra pourtant aucune intention d'esquiver la violence démesurée qui se ruait sur lui.
+　Il ne montra pourtant aucune intention d'esquiver la violence démesurée qui se ruait sur lui.
 
 }
 [sha:323f4854f32fd2d09417167417c5fa831ad76d2c]{
 -- Page 2, Offset 18342.
 -- 地面よ割れよとばかりに踏みこまれる前<脚|あし>。
-  Les pattes avant de la bête foulèrent le sol avec une telle force que ce dernier aurait pu se fissurer.
+　Les pattes avant de la bête foulèrent le sol avec une telle force que ce dernier aurait pu se fissurer.
 
 }
 [sha:654ec1855ba9a04938b5de6bffcac6314897b8e8]{
 -- Page 2, Offset 18343.
 -- ありあまる脚力が、はち切れんばかりの<背筋|はいきん>が、人狼の腕を振り下ろさせる。
-  Le loup-garou abattit son bras, entraîné par ses jambes surpuissantes et ses muscles dorsaux bandés au maximum.
+　Le loup-garou abattit son bras, entraîné par ses jambes surpuissantes et ses muscles dorsaux bandés au maximum.
 
 }
 [sha:15951467580b884c91fae9fc7df9420c6cdc824e]{
 -- Page 3, Offset 18344.
 -- わずかな踏み込みが人狼の爪を<躱|かわ>す。
-  Sōjūrō esquiva ses griffes en avançant légèrement.
+　Sōjūrō esquiva ses griffes en avançant légèrement.
 
 }
 [sha:0d2287185ea2d81812a6953703806be6c21031a2]{
 -- Page 3, Offset 18345.
 -- しかし、彼が飛びこんだのは回避の為ではない。
-  Cependant, s'il avait plongé, ce n'était pas pour éviter l'attaque.
+　Cependant, s'il avait plongé, ce n'était pas pour éviter l'attaque.
 
 }
 [sha:84ccbdcb1a89aa124721ded543144a0e6326d52f]{
 -- Page 3, Offset 18346.
 -- 彼にはただ、この位置が必要だっただけ。
-  Il avait tout simplement besoin d'être à cet endroit précis.
+　Il avait tout simplement besoin d'être à cet endroit précis.
 
 }
 [sha:945cce3fb75477e323c2a9880e4f79ead2bb8bca]{
 -- Page 3, Offset 18347.
 -- そも、<躱|かわ>すも<躱|かわ>さないもない。
-  Il ne cherchait nullement à esquiver ce coup.
+　Il ne cherchait nullement à esquiver ce coup.
 
 }
 [sha:0673a4cee9be992a1c306ff9cca46f96926680a2]{
 -- Page 3, Offset 18348.
 -- 彼の思考には初めから、<そ|・><の|・><点|・>しか存在しない。
-  Depuis le départ, son esprit n'était focalisé que sur un point.
+　Depuis le départ, son esprit n'était focalisé que sur un point.
 
 }
 [sha:2f49f9487fe511fb70bff42e85cc1daebcdf2410]{
 -- Page 4, Offset 18349.
 -- ―――狙うは一点。
-  ―――Il ne visait que ce point.
+　―――Il ne visait que ce point.
 
 }
 [sha:17031329037b6fd2f4914336962d21fa1c873d00]{
 -- Page 4, Offset 18350.
 -- 意識の同一、
-  Coordination de la conscience.
+　Coordination de la conscience.
 
 }
 [sha:07909f742321a592368c99b7889d09e78e734352]{
 -- Page 4, Offset 18351.
 -- 呼吸の合致。
-  Synchronisation de la respiration.
+　Synchronisation de la respiration.
 
 }
 [sha:b46387e155c3c02d9cb0dca188caeb07a1502ab5]{
 -- Page 4, Offset 18352.
 -- <体幹|たいかん>の見切りと筋肉の<凝固|ぎょうこ><弛緩|しかん>その<隙間|すきま>。
-  Une brèche se créerait avec l'exposition du torse et le relâchement des muscles.
+　Une brèche se créerait avec l'exposition du torse et le relâchement des muscles.
 
 }
 [sha:cc5c933cffc8a79be14bf1ca33e407c69d0b27c7]{
 -- Page 4, Offset 18353.
 -- その地点こそ、唯一とも言える、<生命|いのち>の壁の亀裂である。
-  Le point en question représentait la seule et unique faille dans le mur entre la vie et la mort.
+　Le point en question représentait la seule et unique faille dans le mur entre la vie et la mort.
 
 }
 [sha:77d20f1db68dcb45e6aaef5e4dc279bce9042863]{
 -- Page 5, Offset 18354.
 -- 人狼の胸に<叩|たた>きつけられる、あまりにも弱い人の力。
-  Ce faible coup, donné par un simple humain, atteignit la poitrine du loup-garou.
+　Ce faible coup, donné par un simple humain, atteignit la poitrine du loup-garou.
 
 }
 [sha:b8a19398c805f90acad34508c1db1841015951c1]{
 -- Page 5, Offset 18355.
 -- 鈍い打撃音と、飛び散る血飛沫。
-  Un impact sourd retentit, accompagné d'éclaboussures de sang.
+　Un impact sourd retentit, accompagné d'éclaboussures de sang.
 
 }
 [sha:1d9527c74df6f244a356cbac93195299074a3e6d]{
 -- Page 5, Offset 18356.
 -- 肉片も流血もすべては彼のもの。
-  Les morceaux de chair et les projections de sang venaient tous du jeune homme.
+　Les morceaux de chair et les projections de sang venaient tous du jeune homme.
 
 }
 [sha:3ad06d8e785d65533852c55662fe65a023a66858]{
@@ -133,79 +133,79 @@
 [sha:55d2e53130acf7d3e4142120087b37c71c1cb338]{
 -- Page 6, Offset 18358.
 -- 振り上げた人狼の爪が<痙攣|けいれん>する。
-  Les pattes du monstre furent prises de convulsions.
+　Les pattes du monstre furent prises de convulsions.
 
 }
 [sha:66be02723cb2249c97884a31cf24d27d5a6e26a5]{
 -- Page 6, Offset 18359.
 -- 人狼の精神より先に、人狼の肉体が、取るに足りない衝撃に虚脱した。
-  Le choc insignifiant affaiblit en premier le corps du loup-garou, puis son esprit.
+　Le choc insignifiant affaiblit en premier le corps du loup-garou, puis son esprit.
 
 }
 [sha:06632f0bcf1aa428552f3d0466f352181b52db64]{
 -- Page 7, Offset 18360.
 -- 正体の分からない一瞬の不明。
-  En un instant, le loup fut assailli d'un doute inconnu.
+　En un instant, le loup fut assailli d'un doute inconnu.
 
 }
 [sha:3df592c894af20cf7aab26993c04d0467364b171]{
 -- Page 7, Offset 18361.
 -- 息を吐こうと喉をあげる狼の口。
-  Il releva la tête pour expirer,
+　Il releva la tête pour expirer,
 
 }
 [sha:ef3ed9da0384c57764e1a8af4b96851fba1da369]{
 -- Page 7, Offset 18362.
 -- 狼は知らず、あえぐようにうつぶせに倒れかける。
-  car il commençait à s'effondrer malgré lui, tout haletant.
+　car il commençait à s'effondrer malgré lui, tout haletant.
 
 }
 [sha:f7ce0bccb66956af99caa7b8c730251ac98cf75c]{
 -- Page 7, Offset 18363.
 -- その横を、か細い人影がすり抜ける。
-  Une frêle silhouette se glissa sur son côté.
+　Une frêle silhouette se glissa sur son côté.
 
 }
 [sha:3ffa8c7036521ff5eacdfc60249c521f3cd4d51b]{
 -- Page 8, Offset 18364.
 -- 衝撃は短い槍のように。
-  L'impact fut comparable à un coup d'épieu.
+　L'impact fut comparable à un coup d'épieu.
 
 }
 [sha:da0045a44abce67ef9e0055f7c8aadddc48849fa]{
 -- Page 8, Offset 18365.
 -- 人影は折れた左腕を<庇|かば>いもせず、前のめりに倒れこむ人狼の背中へ、残る右腕を<抉|えぐ>り打つ。
-  Le jeune homme ne chercha pas à protéger son bras gauche brisé et frappa de son autre bras le dos du loup-garou tandis que celui-ci tombait en avant.
+　Le jeune homme ne chercha pas à protéger son bras gauche brisé et frappa de son autre bras le dos du loup-garou tandis que celui-ci tombait en avant.
 
 }
 [sha:bd64837159badffe01e1e7e29835d082e67cadcc]{
 -- Page 9, Offset 18366.
 -- もう一度、鈍い音がした。
-  Un autre bruit sourd retentit.
+　Un autre bruit sourd retentit.
 
 }
 [sha:2db6a63bf67ea9efd8644d49d5d8a7ddad67bfd5]{
 -- Page 9, Offset 18367.
 -- 正面から<穿|うが>った位置と寸分違わぬ箇所を<貫|つ>く、心臓を圧する破裂の<楔|くさび>。
-  Ce coup visait exactement l'endroit transpercé par l'attaque frontale, tel un pieu ayant pour objectif de lui faire imploser le cœur.
+　Ce coup visait exactement l'endroit transpercé par l'attaque frontale, tel un pieu ayant pour objectif de lui faire imploser le cœur.
 
 }
 [sha:4abb474f782de899ae568fdacf038b53afe3ed6c]{
 -- Page 9, Offset 18368.
 -- 一度目と違うのは飛び散る<血潮|ちしお>がない事と、獣のあえぎがした事だけ。
-  Les seules différences par rapport à la frappe précédente se trouvaient dans l'absence de giclement de sang et le râle émis par la bête.
+　Les seules différences par rapport à la frappe précédente se trouvaient dans l'absence de giclement de sang et le râle émis par la bête.
 
 }
 [sha:65d007e8ae4084265c0709c0158d7ce6f029980f]{
 -- Page 10, Offset 18369.
 -- ガ、と吐血をして人狼は倒れこんだ。
-  Le loup-garou vomit du sang et s'effondra.
+　Le loup-garou vomit du sang et s'effondra.
 
 }
 [sha:90be65d6645f0c2abeaf2e3649d627b1c1bc1f6b]{
 -- Page 10, Offset 18370.
 -- 立ち上がる気配はない。
-  Rien n'indiquait qu'il se relèverait.
+　Rien n'indiquait qu'il se relèverait.
 
 }
 [sha:b9df531c7b2da352dd13b73e3d36988f40c9fd3e]{
@@ -217,25 +217,25 @@ Et aucune vie n'avait été fauchée.
 [sha:adc965afca020239a481d04c0c895d744167fb3b]{
 -- Page 10, Offset 18372.
 -- <以|もっ>て事は終わった。
-  L'affrontement se termina ainsi.
+　L'affrontement se termina ainsi.
 
 }
 [sha:f9cf0c407ccf8dfb2cd67c236cc63486337dc4e2]{
 -- Page 10, Offset 18373.
 -- 振るわれた暴力に一切の<撓|たわ>みなく、
-  À aucun moment il n'avait plié face à la rage de la bête dorée,
+　À aucun moment il n'avait plié face à la rage de la bête dorée,
 
 }
 [sha:cd9e95b44ca00d380e052aee1bd15d93f29ad98e]{
 -- Page 10, Offset 18374.
 -- 猛る金獣の四肢、無欠にして<天賦|てんぷ><盤石|ばんじゃく>。
-  pourtant réputée pour être parfaite et invincible.
+　pourtant réputée pour être parfaite et invincible.
 
 }
 [sha:8d1b44ed5b78227d35ef2717b7c8e4679291397b]{
 -- Page 10, Offset 18375.
 -- されど。わずか三秒の<交|まじ>わりで、人狼は敗北した。
-  En tout et pour tout, le loup-garou fut vaincu en trois petites secondes.
+　En tout et pour tout, le loup-garou fut vaincu en trois petites secondes.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -247,12 +247,12 @@ Et aucune vie n'avait été fauchée.
 [sha:9e67cd12c8192b5b0fbafe8ef191738afc6d46e0]{
 -- Page 11, Offset 18377.
 -- この世のものとは思えない結末に誰もが目を疑う。
-  Ce dénouement était tellement improbable que personne ne put en croire ses yeux.
+　Ce dénouement était tellement improbable que personne ne put en croire ses yeux.
 
 }
 [sha:9b9713a3c902e86b57bf785b5425247b7b728c5d]{
 -- Page 11, Offset 18378.
 -- 当事者は呼吸さえ乱さず、淡々と、倒れ<臥|ふ>した人狼を見下ろしていた。
-  Le souffle parfaitement régulier, Sōjūrō regardait d'un air détaché le monstre évanoui au sol.
+　Le souffle parfaitement régulier, Sōjūrō regardait d'un air détaché le monstre évanoui au sol.
 
 }

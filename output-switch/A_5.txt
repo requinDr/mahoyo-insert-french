@@ -1,19 +1,19 @@
 [sha:cda1ddf6755037d58ee616bc94df891c4a81b822]{
 -- Page 0, Offset 15043.
 -- ―――すぐ<傍|そば>で、獣の息遣いが聞こえる。
-  ―――Elle entendait la respiration de la bête toute proche.
+　―――Elle entendait la respiration de la bête toute proche.
 
 }
 [sha:e7f71affb026729b8fa1d72ee35afe3a9dab2019]{
 -- Page 0, Offset 15044.
 -- どうやら、意識が数秒ほど途切れていたようだ。
-  Apparemment, elle avait perdu connaissance pendant quelques secondes.
+　Apparemment, elle avait perdu connaissance pendant quelques secondes.
 
 }
 [sha:864747ccdb5b96068a9456ed26a2f15185de98c9]{
 -- Page 0, Offset 15045.
 -- 有珠は目を開けて、息を吸う。
-  Alice ouvrit les yeux et inspira.
+　Alice ouvrit les yeux et inspira.
 
 }
 [sha:14bbb8d33a88428f902443ffa84bfb9af473f42b]{
@@ -25,139 +25,139 @@
 [sha:8595e7d376c34d7e8ed14c294176e0830c84b148]{
 -- Page 1, Offset 15047.
 -- 咳きこむように苦痛を漏らす。
-  Elle laissa échapper la douleur dans un accès de toux.
+　Elle laissa échapper la douleur dans un accès de toux.
 
 }
 [sha:132b32d9b980ab5131c15beb4960940f5ad8123c]{
 -- Page 1, Offset 15048.
 -- 喉もとから逆流した血が、冷たい地面を濡らす。
-  Le sang qu'elle avait régurgité coulait sur le sol glacial.
+　Le sang qu'elle avait régurgité coulait sur le sol glacial.
 
 }
 [sha:d9a98a61f409c87555327ebbecdc8d302c930b6b]{
 -- Page 1, Offset 15049.
 -- 焦点を取り戻した視覚が、高い空と、また降りだした雪と、黄金の狼を認めていた。
-  Sa vision retrouvée, elle pouvait voir le vaste ciel, la neige qui tombait de nouveau et le loup doré.
+　Sa vision retrouvée, elle pouvait voir le vaste ciel, la neige qui tombait de nouveau et le loup doré.
 
 }
 [sha:159c070b2b6d8903181d2c1ad2cab265eda5d178]{
 -- Page 2, Offset 15050.
 -- 狼の息遣いは荒々しい。
-  La respiration du loup était haletante.
+　La respiration du loup était haletante.
 
 }
 [sha:ae4bddffbc90364ff108a0122cfbf6fef35a4671]{
 -- Page 2, Offset 15051.
 -- <涎|よだれ>を舌からこぼしながら、有珠の顔を覗きこんでいる。
-  Il dévisageait Alice tandis que de la bave coulait depuis sa langue.
+　Il dévisageait Alice tandis que de la bave coulait depuis sa langue.
 
 }
 [sha:9b7d81750791d8fe32ba258e55326620b876aa2b]{
 -- Page 3, Offset 15052.
 -- ノコギリのような牙と口。
-  Sa gueule pleine de crocs faisait penser à une scie.
+　Sa gueule pleine de crocs faisait penser à une scie.
 
 }
 [sha:afe611589623a92d097c32b5bcddfa5e4db55321]{
 -- Page 3, Offset 15053.
 -- この世のどんな動物より柔らかく、艶やかな毛並み。
-  Son pelage était plus doux et reluisant que celui de n'importe quel animal de ce monde.
+　Son pelage était plus doux et reluisant que celui de n'importe quel animal de ce monde.
 
 }
 [sha:5e8f81857413a5380fa0d216081fb62875b3e929]{
 -- Page 3, Offset 15054.
 -- 血に染まった<前脚|あし>の爪は、まるで包丁を三本揃えたような凶悪さだ。
-  Ses griffes couvertes de sang avaient l'aspect menaçant de trois couteaux de cuisine finement aiguisés.
+　Ses griffes couvertes de sang avaient l'aspect menaçant de trois couteaux de cuisine finement aiguisés.
 
 }
 [sha:963cb7c0c66604f49fc94a6008ba665b284ada69]{
 -- Page 3, Offset 15055.
 -- それでも、粗野な臭いは微塵もない。
-  Pourtant, il ne dégageait aucun relent sauvage.
+　Pourtant, il ne dégageait aucun relent sauvage.
 
 }
 [sha:694ec35f72a22355b49fa72ebe1d22b0f9a8e24b]{
 -- Page 3, Offset 15056.
 -- この金狼の前では、人間の方が己が<獣性|じゅうせい>に恥じ入るだろう。
-  Face à ce loup doré, les humains se sentaient honteux de leur propre sauvagerie.
+　Face à ce loup doré, les humains se sentaient honteux de leur propre sauvagerie.
 
 }
 [sha:b1b39805c40b6f4b1d4447da9043a175b28ac9a0]{
 -- Page 4, Offset 15057.
 -- ……有珠と狼の戦いはあっけなく終わった。
-  ...... Le combat entre Alice et la créature avait pris fin en une fraction de seconde.
+　...... Le combat entre Alice et la créature avait pris fin en une fraction de seconde.
 
 }
 [sha:f9d7c90229afd25e8482c1128ed58101fd65a397]{
 -- Page 4, Offset 15058.
 -- 橋の巨人は金狼の前に破れ、有珠は逃げる事もできず、その凶悪な前脚の洗礼を受けた。
-  Le loup doré avait vaincu le Géant du Pont, et Alice, incapable de s'enfuir, avait été fauchée par ses pattes redoutables.
+　Le loup doré avait vaincu le Géant du Pont, et Alice, incapable de s'enfuir, avait été fauchée par ses pattes redoutables.
 
 }
 [sha:12b96fa71e81ea3cbc925a574f46fa1a2e9f54bc]{
 -- Page 4, Offset 15059.
 -- 剣のような横殴りの衝撃が、有珠の腹を一閃したのだ。
-  L'attaque oblique avait pourfendu le ventre d'Alice tel un coup d'épée.
+　L'attaque oblique avait pourfendu le ventre d'Alice tel un coup d'épée.
 
 }
 [sha:690d4bf9f4106d86eac44ca30ed7c6f13aa346a6]{
 -- Page 4, Offset 15060.
 -- 服はもちろん、内臓まで吹き飛んだ。
-  Bien évidemment, ses habits avaient été déchiquetés et ses organes lacérés.
+　Bien évidemment, ses habits avaient été déchiquetés et ses organes lacérés.
 
 }
 [sha:b7f420e3fad3488a3b1c5f2836d1efbd053a88ed]{
 -- Page 4, Offset 15061.
 -- その決定的な瞬間でさえ、有珠は声をあげなかった。
-  Même lors de cette seconde décisive, Alice n'avait pas poussé un seul cri.
+　Même lors de cette seconde décisive, Alice n'avait pas poussé un seul cri.
 
 }
 [sha:bb93940e68773aef68dcb5d06040966682cde46b]{
 -- Page 5, Offset 15062.
 -- 狼は有珠を押し倒し、その顔を覗きこむ。
-  Le loup maintenait Alice au sol et la dévisageait.
+　Le loup maintenait Alice au sol et la dévisageait.
 
 }
 [sha:1700878b99ef080d9f492ffbc17af8e98b139c10]{
 -- Page 5, Offset 15063.
 -- 触れれば折れかねない少女の四肢にのしかかる。
-  Il pesait sur les quatre membres de la jeune fille qui pourraient se rompre à tout moment.
+　Il pesait sur les quatre membres de la jeune fille qui pourraient se rompre à tout moment.
 
 }
 [sha:15b3be9da54cf3a39583f279e8757c685ea493c6]{
 -- Page 5, Offset 15064.
 -- それが<現在|いま>の状態だ。
-  Voilà la situation dans laquelle elle se trouvait.
+　Voilà la situation dans laquelle elle se trouvait.
 
 }
 [sha:198b7dee822fd541f9c3d041ef3f1a1f0fdf4fc3]{
 -- Page 5, Offset 15065.
 -- 意識を取り戻した有珠は苦しげな瞳で敵を見据える。
-  À présent consciente, Alice fixait son ennemi d'un œil douloureux.
+　À présent consciente, Alice fixait son ennemi d'un œil douloureux.
 
 }
 [sha:43b9fe84da85b401a85a4f66c84b2748a22827fb]{
 -- Page 5, Offset 15066.
 -- そこに恐怖はない。
-  Il n'affichait aucune peur.
+　Il n'affichait aucune peur.
 
 }
 [sha:a149f5bd78a5bd4f4a068394a806f4a9c89374fd]{
 -- Page 5, Offset 15067.
 -- あるのは、現実を受け入れる冷めた色だけだった。
-  Seule y résidait une froide acceptation de la réalité.
+　Seule y résidait une froide acceptation de la réalité.
 
 }
 [sha:f69cc0c618e09341eb5c21cf0685b2556e272a6b]{
 -- Page 6, Offset 15068.
 -- 有珠の覚悟に感じ入ったのか、狼は振り上げた前脚を停止させる。
-  La détermination d'Alice sembla plaire au loup : il stoppa la patte qu'il avait levée.
+　La détermination d'Alice sembla plaire au loup : il stoppa la patte qu'il avait levée.
 
 }
 [sha:4c999012a9d51cdd6e7cb1dfbeb48fab841b486d]{
 -- Page 6, Offset 15069.
 -- 少女の黒い瞳と、狼の眼が交差した後―――
-  Après que les pupilles noires de la fille et les yeux du loup se furent croisés―――
+　Après que les pupilles noires de la fille et les yeux du loup se furent croisés―――
 
 }
 [sha:6d58918c388f7173c050c13d23c5f6aedb78fe86]{
@@ -169,13 +169,13 @@
 [sha:c64ec173b7a3e7bdc1876e6d318b32e0438dccab]{
 -- Page 6, Offset 15071.
 -- 思いがけない声があった。
-  Elle ne s'attendait pas à une voix pareille.
+　Elle ne s'attendait pas à une voix pareille.
 
 }
 [sha:5f55ffdc239c6e01f96ae438faa57c3ef9498e8c]{
 -- Page 6, Offset 15072.
 -- それは間違いなく、目前の狼が発した<言|も><葉|の>だ。
-  Cela dit, elle appartenait sans nul doute possible au loup devant elle.
+　Cela dit, elle appartenait sans nul doute possible au loup devant elle.
 
 }
 [sha:5ad5c549031b7186cfe2cbed88edb8fcac92e066]{
@@ -187,13 +187,13 @@
 [sha:c5560d94e18dbbf2d3fe72bf2bfa1c77cfad6219]{
 -- Page 7, Offset 15074.
 -- 邪気のない、子供のようなイントネーション。
-  Son intonation ne contenait aucune malice, comme un enfant.
+　Son intonation ne contenait aucune malice, comme un enfant.
 
 }
 [sha:b57899cad55d251059dfca6cab74e86b74aa1faf]{
 -- Page 7, Offset 15075.
 -- 狼は不釣り合いな、これまでの風格を台無しにする笑みを両眼に浮かべ、
-  Les yeux du loup sourirent d'une façon tout en contraste avec l'allure qu'il avait montrée jusque-là, ce qui gâcha son effet.
+　Les yeux du loup sourirent d'une façon tout en contraste avec l'allure qu'il avait montrée jusque-là, ce qui gâcha son effet.
 
 }
 [sha:1bdd6c342b34d55d68586335552c014b1178a179]{
@@ -205,7 +205,7 @@
 [sha:5e00fe02bc1aa74b7cd196ae43ba87921986932e]{
 -- Page 7, Offset 15077.
 -- 大口を開けて、少女の首にかぶりついた。
-  Il ouvrit grand la gueule et mordit dans son cou.
+　Il ouvrit grand la gueule et mordit dans son cou.
 
 }
 [sha:e3fc52483073ea5994714d3b3a4569b43bbf1d06]{
@@ -217,13 +217,13 @@
 [sha:e97ee80d12e4a490d45d00d10a6662747238b155]{
 -- Page 8, Offset 15079.
 -- 閉じられる狼の牙より、なお鋭い橙子の<叱責|しっせき>。
-  Tōko réprimanda le loup d'une voix plus tranchante que ses crocs.
+　Tōko réprimanda le loup d'une voix plus tranchante que ses crocs.
 
 }
 [sha:b8bd2237157feba34a3a30835152fa675c824166]{
 -- Page 8, Offset 15080.
 -- それに驚くような動作で、狼はびくりと停止した。
-  Le loup s'interrompit d'un air étonné.
+　Le loup s'interrompit d'un air étonné.
 
 }
 [sha:89c6d2f0729ba900a86a77d2c8b17f33b60d2e5b]{
@@ -235,7 +235,7 @@
 [sha:e25bfd79a197c748db1d62c972cafc40c46e5de2]{
 -- Page 9, Offset 15082.
 -- 狼はゆっくりと背後を振り返る。
-  Le loup se retourna lentement.
+　Le loup se retourna lentement.
 
 }
 [sha:c03a0c12f79da77009641830021553fb3a6e4881]{
@@ -253,25 +253,25 @@
 [sha:18be6b1ed51fce664787eebfa0c3d46d015805e6]{
 -- Page 9, Offset 15085.
 -- あーあ、たいくつー。話に聞いた橋の巨人も、結局は他の生き物と一緒だったしー”」
-  Franchement, tout ceci est d'un ennui. Finalement, le Géant du Pont dont tu m'as parlé ne différait en rien des autres êtres vivants.”」
+　Franchement, tout ceci est d'un ennui. Finalement, le Géant du Pont dont tu m'as parlé ne différait en rien des autres êtres vivants.”」
 
 }
 [sha:df09304d96c2723457aedcf64610406e53937793]{
 -- Page 10, Offset 15086.
 -- 橙子の叱責を受け、狼は有珠からトボトボと離れていった。
-  Houspillé par Tōko, le loup s'éloigna d'Alice d'un pas pesant,
+　Houspillé par Tōko, le loup s'éloigna d'Alice d'un pas pesant,
 
 }
 [sha:c8681aa67466216bafc24ba6741c7fb1421398a9]{
 -- Page 10, Offset 15087.
 -- もう何の興味もないように。
-  comme si elle ne l'intéressait plus.
+　comme si elle ne l'intéressait plus.
 
 }
 [sha:502e743551c2929812a71d2bb29050307ec0f378]{
 -- Page 10, Offset 15088.
 -- あの黄金の獣にとって、有珠は道ばたの草ほどの価値もないらしい。
-  Pour cette bête dorée, Alice semblait avoir moins de valeur qu'une touffe d'herbe au bord de la route.
+　Pour cette bête dorée, Alice semblait avoir moins de valeur qu'une touffe d'herbe au bord de la route.
 
 }
 [sha:39b40afd26de4813d323e114fabe6f7e71a8fcc7]{
@@ -289,13 +289,13 @@
 [sha:33ecac3e64efd5eca5510fcfe212802da39ecba2]{
 -- Page 12, Offset 15091.
 -- 有珠は死に<瀕|ひん>した体で、蒼崎橙子を凝視する。
-  Son corps à l'agonie, Alice fixait Aozaki Tōko.
+　Son corps à l'agonie, Alice fixait Aozaki Tōko.
 
 }
 [sha:822f166999722e78ebf61eba1b00f976170ff9c2]{
 -- Page 12, Offset 15092.
 -- <敗|やぶ>れた憎しみからではなく、なぜあんなものを連れているのか、という糾弾から。
-  Elle ne la dévisageait pas ainsi parce qu'elle l'avait vaincue, mais parce qu'elle lui reprochait d'être en compagnie de cette chose.
+　Elle ne la dévisageait pas ainsi parce qu'elle l'avait vaincue, mais parce qu'elle lui reprochait d'être en compagnie de cette chose.
 
 }
 [sha:03fb0d4b772571275c384d1dbbb803f6ccac5cd5]{
@@ -307,7 +307,7 @@
 [sha:661073f3b809a011a02cc7fe5b8355cb1b5bd1d5]{
 -- Page 13, Offset 15094.
 -- 彼はおそらく地上で現存している最後の<人狼|じんろう>だ。
-  C'est probablement le dernier homme-loup existant sur terre.
+　C'est probablement le dernier homme-loup existant sur terre.
 
 }
 [sha:4c034dc9c654b55c9f3dca322b5af17daccef214]{
@@ -319,7 +319,7 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:54a8ddeb4e491ca6c5c2010ed326030d8e3e38a4]{
 -- Page 13, Offset 15096.
 -- 見ての通り、先祖返りなんて言葉じゃ表せない黄金の神秘でね。名前がなかったんで、分かりやすくベオウルフと呼んでいる」
-  Comme tu peux le voir, c'est un Mystère doré, et le mot atavisme ne suffirait pas à décrire sa condition. Comme il n'avait pas de nom, je l'appelle Beowulf par commodité.」
+　Comme tu peux le voir, c'est un Mystère doré, et le mot atavisme ne suffirait pas à décrire sa condition. Comme il n'avait pas de nom, je l'appelle Beowulf par commodité.」
 
 }
 [sha:70dcee3aa219bf5389a5454b1d850141de92bf75]{
@@ -331,25 +331,25 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:db0158cf8062376bee110f168f2628c0af5a6048]{
 -- Page 14, Offset 15098.
 -- 腹部を裂く爪にさえ乱れなかった有珠の<表|か><情|お>が、<怪訝|けげん>に<曇|くも>る。
-  Le visage d'Alice, qui n'avait affiché aucun émoi même devant les griffes ayant lacéré son ventre, s'assombrit suspicieusement.
+　Le visage d'Alice, qui n'avait affiché aucun émoi même devant les griffes ayant lacéré son ventre, s'assombrit suspicieusement.
 
 }
 [sha:5c1f1dc211bea9ebd94bc4e91cc3459bd6786ac0]{
 -- Page 14, Offset 15099.
 -- ベオウルフ。
-  Beowulf.
+　Beowulf.
 
 }
 [sha:aea18470684f3cc166fc23ec0c76dcab6bb56889]{
 -- Page 14, Offset 15100.
 -- デンマークに伝わる、巨人殺しの英雄の名前。
-  Le nom du héros tueur de géants dans la légende contée au Danemark.
+　Le nom du héros tueur de géants dans la légende contée au Danemark.
 
 }
 [sha:7b1be08bc4fbae349bd01ddd3c7dc681a87c544b]{
 -- Page 14, Offset 15101.
 -- その名は古英語でいうところのミツバチと野生の獣の組み合わせで、つまるところは熊を意味する。
-  Ce nom était la combinaison d'“abeille” et de “bête sauvage” en vieil anglais. En bref, il signifiait ours.
+　Ce nom était la combinaison d'“abeille” et de “bête sauvage” en vieil anglais. En bref, il signifiait ours.
 
 }
 [sha:9d39696f2ef62becf2878fcb4ca36837fa60749a]{
@@ -367,13 +367,13 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:bad4a3fe7be1ea62eac6b44bfe7ca10c91453dd8]{
 -- Page 15, Offset 15104.
 -- それはベオウルフという名前にかかったものか、金狼自体にかかったものか。
-  Est-ce que cela s'appliquait au nom Beowulf ou au loup doré lui-même ?
+　Est-ce que cela s'appliquait au nom Beowulf ou au loup doré lui-même ?
 
 }
 [sha:2a357a3ff5dabbbda2403b760266bdfef0cab4b1]{
 -- Page 15, Offset 15105.
 -- この女の感性は青子より分かりづらい、と有珠は痛みをかみ殺した。
-  La sensibilité de cette femme est encore moins compréhensible que celle d'Aoko, pensa Alice en refoulant sa douleur.
+　La sensibilité de cette femme est encore moins compréhensible que celle d'Aoko, pensa Alice en refoulant sa douleur.
 
 }
 [sha:64c8b993a08eb157d44226f0d191e3b71cfdbb11]{
@@ -385,37 +385,37 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:fd6869ededc4f544730535445229b184799f1379]{
 -- Page 16, Offset 15107.
 -- ―――今のところは、ね」
-  ―――Pour le moment, du moins.」
+　―――Pour le moment, du moins.」
 
 }
 [sha:e650c4753a167d5a10384203de3010c0fcdb71c8]{
 -- Page 17, Offset 15108.
 -- それだけ言うと、橙子は小さく微笑んだ。
-  Après son petit monologue, Tōko afficha un léger sourire.
+　Après son petit monologue, Tōko afficha un léger sourire.
 
 }
 [sha:b2a85b9f14bc9d8005026deaa74d78bff07cc888]{
 -- Page 17, Offset 15109.
 -- 草十郎に見せた温かなものではなく、勝者が敗者に見せる無慈悲な笑みを。
-  Ce n'était pas le sourire chaleureux qu'elle avait montré à Sōjūrō, mais celui sans pitié qu'adresse le vainqueur au vaincu.
+　Ce n'était pas le sourire chaleureux qu'elle avait montré à Sōjūrō, mais celui sans pitié qu'adresse le vainqueur au vaincu.
 
 }
 [sha:6a4b10a59343cb96faa3aa02596122bf894bbba0]{
 -- Page 17, Offset 15110.
 -- 有珠の瞳にこもった批難は、今や怒りに変わっている。
-  Le reproche qu'avaient contenu les yeux d'Alice s'était maintenant transformé en colère.
+　Le reproche qu'avaient contenu les yeux d'Alice s'était maintenant transformé en colère.
 
 }
 [sha:2e3383b354b91f770f1ab152b41ada1312f4d268]{
 -- Page 17, Offset 15111.
 -- 黄金の神秘。
-  Un Mystère doré.
+　Un Mystère doré.
 
 }
 [sha:5e63799bda8ab204ab9ca2956062781df30c41f0]{
 -- Page 17, Offset 15112.
 -- そう口にするのなら、なぜこんな人の世界に連れてきてしまったのかと。
-  Si elle le qualifiait ainsi, pourquoi l'avait-elle emmené dans le monde des humains ?
+　Si elle le qualifiait ainsi, pourquoi l'avait-elle emmené dans le monde des humains ?
 
 }
 [sha:579bfdb6ff2afe087681910f44ed903873f8dcc6]{
@@ -427,55 +427,55 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:e0d28769d8b3617960566d4e60506f024f5aa7e5]{
 -- Page 18, Offset 15114.
 -- 過疎化は人間だけの問題じゃあない。彼らもいい加減、昔ながらの生活には限界がきたらしくてね。話し合いの末、高額で私が買い取った。
-  Le dépeuplement n'est pas qu'un problème humain. Pour eux aussi, la petite vie traditionnelle a atteint ses limites. Je le leur ai acheté contre une coquette somme d'argent à la suite de longues négociations.
+　Le dépeuplement n'est pas qu'un problème humain. Pour eux aussi, la petite vie traditionnelle a atteint ses limites. Je le leur ai acheté contre une coquette somme d'argent à la suite de longues négociations.
 
 }
 [sha:0f1293b543bbca68c13aa4814d3d85fa09de7ef9]{
 -- Page 18, Offset 15115.
 -- といっても、あくまで<洞|さと>から出すだけの権利だがね。
-  Enfin, il ne s'agissait que des droits pour le sortir de sa caverne.
+　Enfin, il ne s'agissait que des droits pour le sortir de sa caverne.
 
 }
 [sha:3f3c254bbf81e8643d53b68b896855c840ce4861]{
 -- Page 18, Offset 15116. Mods: @k, @e.
 -- お察しの通り、私の髪はベオとの契約に使いきった。自分の髪を使って<使い魔|ぶんしん>を造るより、強大な怪物を縛り付けた方がよっぽど健全―――
-  Comme tu as dû le deviner, j'ai utilisé tous mes cheveux pour former un contrat avec Beo. Il est bien plus pertinent d'utiliser ses cheveux pour soumettre un puissant monstre que pour créer un familier―――
+　Comme tu as dû le deviner, j'ai utilisé tous mes cheveux pour former un contrat avec Beo. Il est bien plus pertinent d'utiliser ses cheveux pour soumettre un puissant monstre que pour créer un familier―――
 
 }
 [sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
 -- Page 18, Offset 15117. Glued. Mods: @x.
 -- む？」
- Hmm ?」
+Hmm ?」
 
 }
 [sha:672ab1600d9710d301d3fe56c4e707a6ad3dea86]{
 -- Page 19, Offset 15118.
 -- 喋りながら、橙子は眼下の異常を感知した。
-  Pendant ses explications, Tōko perçut l'anomalie sous ses yeux.
+　Pendant ses explications, Tōko perçut l'anomalie sous ses yeux.
 
 }
 [sha:b00f700f1eb6df3829fadfd82bddd4807da602b2]{
 -- Page 19, Offset 15119.
 -- ……形容しがたい怪音。
-  ...... Un son indescriptible.
+　...... Un son indescriptible.
 
 }
 [sha:9f2692d5f2fc44323b2626c674ca1dac06eec5bd]{
 -- Page 19, Offset 15120.
 -- ……聞く者の正気を削るような、この世には存在しない音。
-  ...... C'était un son inexistant dans ce monde, capable de rendre fou celui qui l'entendait.
+　...... C'était un son inexistant dans ce monde, capable de rendre fou celui qui l'entendait.
 
 }
 [sha:5b674b99a29e14a0828700ece8d4c79759af646b]{
 -- Page 19, Offset 15121.
 -- いや、してはならない音。
-  Non, c'était un son qui ne devrait pas exister.
+　Non, c'était un son qui ne devrait pas exister.
 
 }
 [sha:c4a22cd2b3b0814fe2cdfce3461816c05c38515e]{
 -- Page 19, Offset 15122.
 -- それが、少女の裂かれた腹部から<零|こぼ>れている―――
-  Il provenait de l'abdomen déchiré de la jeune fille―――
+　Il provenait de l'abdomen déchiré de la jeune fille―――
 
 }
 [sha:e9f714293a13d1791e998befab79276ccf4613b2]{
@@ -493,13 +493,13 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:24b10e9d477838ad0aee654f04a1ad68f5c20e6a]{
 -- Page 20, Offset 15125.
 -- なーにー？　と近寄ってくるベオウルフ。
-  “C'est quoi ?” dit Beowulf en se rapprochant,
+　“C'est quoi ?” dit Beowulf en se rapprochant,
 
 }
 [sha:e5599cd57ed7da65b7a867ba27a63c4b3a0108e1]{
 -- Page 20, Offset 15126.
 -- <玩具|オモチャ>に興味を持った子犬さながらである。
-  comme un chiot portant de l'intérêt à un jouet.
+　comme un chiot portant de l'intérêt à un jouet.
 
 }
 [sha:1209b746486fd25bd4a60fa568e5a87fd06cf3f7]{
@@ -511,13 +511,13 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:4b8e1b9fecc44dde9f58d86cc3212edeae3e4144]{
 -- Page 21, Offset 15128.
 -- しっし、と橙子は駄犬を手で追い払う。
-  “Allez ouste”, fit Tōko chassant de la main le cabot.
+　“Allez ouste”, fit Tōko chassant de la main le cabot.
 
 }
 [sha:ec090b0d50888843c5a9d2704eb9480e53635aaa]{
 -- Page 21, Offset 15129.
 -- ベオウルフは残念そうに、大人しく引き下がった。
-  Beowulf se retira sagement d'un air déçu.
+　Beowulf se retira sagement d'un air déçu.
 
 }
 [sha:90304f31a8501c97ba985e64692aa0a183c83dd4]{
@@ -547,7 +547,7 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:56e928f5da6194ccd751d423b659420f856dacde]{
 -- Page 22, Offset 15134.
 -- 青子がいたらフラットスナーク戦もかくや、という一撃を放ちかねない暴言だった。
-  Si Aoko avait été là, cette réplique aurait suffi pour qu'elle lance une attaque équivalente à celle qui avait vaincu Flat Snark.
+　Si Aoko avait été là, cette réplique aurait suffi pour qu'elle lance une attaque équivalente à celle qui avait vaincu Flat Snark.
 
 }
 [sha:75881b4d59e6ba7208fe95a9a39572b4a5a50e41]{
@@ -559,13 +559,13 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:1735b35bdf68d6316fcafa7f783b4a1ef2561fd7]{
 -- Page 23, Offset 15136.
 -- <こ|・><ん|・><な|・><に|・><な|・><る|・><ま|・><で|・>放っておくとは、マインスターは人の親とはいえまいよ」
-  C'est seulement après avoir reçu tous ces dégâts qu'il entre en action ! Meinster n'a vraiment rien d'une mère.」
+　C'est seulement après avoir reçu tous ces dégâts qu'il entre en action ! Meinster n'a vraiment rien d'une mère.」
 
 }
 [sha:ea0e29b8c6415a43e1e67be9abc449c19945a268]{
 -- Page 23, Offset 15137.
 -- 橙子は手袋をつけたまま、鮮血に染まる有珠の腹部に手を滑らせる。
-  Tōko glissa sa main gantée sur l'abdomen d'Alice teinté de sang frais.
+　Tōko glissa sa main gantée sur l'abdomen d'Alice teinté de sang frais.
 
 }
 [sha:b142ddf24331ac4449cc1fe216d3b363f778c8b7]{
@@ -577,19 +577,19 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:00e99eb7e77c649d380fc760a17bb8b21d4b748b]{
 -- Page 24, Offset 15139.
 -- 小さく<零|こぼ>れる苦悶。
-  Une légère vague de douleur se répandit.
+　Une légère vague de douleur se répandit.
 
 }
 [sha:951a8bda820d79844e694a18132c9ea832b46184]{
 -- Page 24, Offset 15140.
 -- 悲鳴ひとつあげなかった有珠から吐息が漏れる。
-  Alice laissa échapper un soupir alors qu'elle n'avait pas crié une seule fois.
+　Alice laissa échapper un soupir alors qu'elle n'avait pas crié une seule fois.
 
 }
 [sha:74801ab47b57d5d4940c5c46b6e6580e2ab8f154]{
 -- Page 24, Offset 15141.
 -- 顔を<背|そむ>けたのは、恥じらいからか、痛みからか。
-  Détournait-elle le visage à cause de la honte ou bien de la douleur ?
+　Détournait-elle le visage à cause de la honte ou bien de la douleur ?
 
 }
 [sha:b10478693bcb09acf4bc133a792000c7b9293033]{
@@ -601,37 +601,37 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:b1cd327d97eff8ec320ae704e5b7e88e09658fa3]{
 -- Page 25, Offset 15143.
 -- 生後、肉体に魔術回路を付加する事は両刃の剣だ。
-  Rajouter des Circuits Magiques dans un corps après la naissance, c'est comme une épée de Damoclès.
+　Rajouter des Circuits Magiques dans un corps après la naissance, c'est comme une épée de Damoclès.
 
 }
 [sha:86e5e79cd84551545d89c215f2c0705800c2e4e4]{
 -- Page 25, Offset 15144.
 -- 呪文を自分と一体化させる事により、詠唱の手間を省き、術者に多大な利点をもたらす魔術刻印。
-  Le Sceau Magique permet de ne faire qu'un avec l'incantation, ce qui fait gagner le temps qu'aurait pris l'Aria et apporte de grands avantages au Mage.
+　Le Sceau Magique permet de ne faire qu'un avec l'incantation, ce qui fait gagner le temps qu'aurait pris l'Aria et apporte de grands avantages au Mage.
 
 }
 [sha:3c39863eed622ca5a9573d18e3d4e8efab76b831]{
 -- Page 25, Offset 15145.
 -- しかし、それは多ければ多いほど苦痛をともなう。蒼崎の刻印は腕一本分。まあ、君に比べれば少ない方だな」
-  Cependant, plus il est grand, plus la douleur qui l'accompagne sera importante. Le Sceau des Aozaki occupe un bras entier. Bah, comparé à toi, c'est peu.」
+　Cependant, plus il est grand, plus la douleur qui l'accompagne sera importante. Le Sceau des Aozaki occupe un bras entier. Bah, comparé à toi, c'est peu.」
 
 }
 [sha:efbc2e1e82a3433195b147e6693e5d16d81870e2]{
 -- Page 26, Offset 15146.
 -- 橙子の語る魔術刻印とは、その家系の歴史を形にした遺産の事だ。
-  Le Sceau Magique dont parlait Tōko contenait l'histoire d'une lignée qui avait pris la forme d'un héritage physique.
+　Le Sceau Magique dont parlait Tōko contenait l'histoire d'une lignée qui avait pris la forme d'un héritage physique.
 
 }
 [sha:6df8466f81c7538c6b3f22bc20bf93a0bbff9c4f]{
 -- Page 26, Offset 15147.
 -- 後継者にしか刻まれない一品もの。
-  Cet item n'était gravé que sur le successeur de la lignée.
+　Cet item n'était gravé que sur le successeur de la lignée.
 
 }
 [sha:5b9a5d81c5e05066bbb41d82c5297f9c09b1ed33]{
 -- Page 26, Offset 15148.
 -- 蒼崎橙子が継承するはずだった刻印は、妹である青子の手に渡っている。
-  Le Sceau censé être légué à Aozaki Tōko avait été transmis à sa petite sœur, Aoko.
+　Le Sceau censé être légué à Aozaki Tōko avait été transmis à sa petite sœur, Aoko.
 
 }
 [sha:fab4f6995db1dd9af4d8b6372c2bc860937688d9]{
@@ -643,19 +643,19 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:2af678bbe666b7c515d1accd6f30fce4b079fc33]{
 -- Page 27, Offset 15150.
 -- 右腕に刻印をした青子の痛みは、残る人間の体と神秘となった右腕とが反発する程度だ。
-  Le Sceau étant gravé sur son bras droit, la douleur d'Aoko lui vient de l'opposition entre la partie humaine de son corps et son bras devenu un Mystère.
+　Le Sceau étant gravé sur son bras droit, la douleur d'Aoko lui vient de l'opposition entre la partie humaine de son corps et son bras devenu un Mystère.
 
 }
 [sha:b441f5f506dbc91cb87e142dc01a3910798f9df0]{
 -- Page 27, Offset 15151.
 -- 通常の肉体が右腕を否定し、抹消にかかる痛み。
-  Sa douleur correspond à l'effet de rejet que la partie normale a envers le bras droit qu'elle tente d'effacer.
+　Sa douleur correspond à l'effet de rejet que la partie normale a envers le bras droit qu'elle tente d'effacer.
 
 }
 [sha:10df318fd818c3eff923a7a2921374af54a20a70]{
 -- Page 27, Offset 15152.
 -- 精神的にも肉体的にも生じる幻痛は、原罪にも似て<拭|ぬぐ>い去る事はできない」
-  La douleur fantôme provoquée mentalement et physiquement ressemble au péché originel : elle ne peut pas disparaître.」
+　La douleur fantôme provoquée mentalement et physiquement ressemble au péché originel : elle ne peut pas disparaître.」
 
 }
 [sha:99a387e3bbcc56381abc28e58d99323511f96d5a]{
@@ -667,19 +667,19 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:4e6fbeb8f896970e191b54cb102dd8a86cbba7e8]{
 -- Page 28, Offset 15154.
 -- そもそも生きている実感はあるのか？
-  As-tu ne serait-ce que l'impression de vivre ?
+　As-tu ne serait-ce que l'impression de vivre ?
 
 }
 [sha:754a5f5954dd2c27920c7be041994fafa91a612f]{
 -- Page 28, Offset 15155.
 -- 自分が人間だとまだ信じている？
-  Tu crois encore être humaine ?
+　Tu crois encore être humaine ?
 
 }
 [sha:1f76ffac316c680710c3c828737568a3029b85a8]{
 -- Page 28, Offset 15156. Mods: @k, @e.
 -- ああ、本当に―――
-  Franchement―――
+　Franchement―――
 
 }
 [sha:943de93e9c74d02a7088a3322d4a2c185634bcc6]{
@@ -691,25 +691,25 @@ on en aura bien bavé toutes les deux, avec nos maîtres sortant de l'ordinaire,
 [sha:efd2da77a4ba0b8ef91992728091663c84a112c6]{
 -- Page 29, Offset 15158.
 -- そうして、橙子は有珠の体を抱き起こした。
-  Tōko souleva alors le corps d'Alice.
+　Tōko souleva alors le corps d'Alice.
 
 }
 [sha:1fe5dc5854579299b926a50b8d5b246c6fba33c4]{
 -- Page 29, Offset 15159.
 -- ベオウルフに裂かれた腹部はもう大部分が<塞|ふさ>がっている。
-  La plaie béante de son abdomen lacéré par Beowulf s'était pratiquement refermée.
+　La plaie béante de son abdomen lacéré par Beowulf s'était pratiquement refermée.
 
 }
 [sha:7341a28944d1d7a4a67520bac2d83ba2069af0ab]{
 -- Page 29, Offset 15160.
 -- それでも痛みは残っているのか、有珠の呼吸はあまりにもか細く、弱い。
-  La douleur semblait persister, car sa respiration restait délicate et faible.
+　La douleur semblait persister, car sa respiration restait délicate et faible.
 
 }
 [sha:17f0079ba1ef41d011fc72435458a77849b1c74b]{
 -- Page 29, Offset 15161.
 -- そんな少女の顔を、橙子は優しく持ち上げる。
-  Tōko releva gentiment son visage.
+　Tōko releva gentiment son visage.
 
 }
 [sha:aef0927fb98fc7c16b3ba01c9398e5824005907a]{
@@ -721,37 +721,37 @@ on en aura bien bavé toutes les deux, avec nos maîtres sortant de l'ordinaire,
 [sha:356f2a62087dfb06464247e0401fa047f3dc727d]{
 -- Page 30, Offset 15163.
 -- 無惨に酸素を求める有珠の唇が、橙子の唇に塞がれる。
-  Tōko obstrua avec ses propres lèvres la bouche d'Alice, cruellement en manque d'oxygène.
+　Tōko obstrua avec ses propres lèvres la bouche d'Alice, cruellement en manque d'oxygène.
 
 }
 [sha:27127c082aa6f17d5a8dd7c3413c04dab0dcbd4b]{
 -- Page 30, Offset 15164.
 -- 身をよじって逃れる少女の肩を、魔術師の腕が掴み縛る。
-  Les bras de la Mage tenaient fermement les épaules de la jeune fille qui tentait de se dégager.
+　Les bras de la Mage tenaient fermement les épaules de la jeune fille qui tentait de se dégager.
 
 }
 [sha:c801db2beaeb380d563054dd65ec2fa966a94113]{
 -- Page 31, Offset 15165.
 -- 蒼い月の下、両者は凍り付いたように動かない。
-  Sous la lune bleue, le duo ne bougeait pas, comme congelé.
+　Sous la lune bleue, le duo ne bougeait pas, comme congelé.
 
 }
 [sha:fb3a810d9425ecc3baadbe30431ad3f2554462fa]{
 -- Page 31, Offset 15166.
 -- こくり、と嚥下する音。
-  Un son de déglutition se fit entendre.
+　Un son de déglutition se fit entendre.
 
 }
 [sha:482e9e902f092961c8c1739a7c99bcdcaa9365a5]{
 -- Page 31, Offset 15167.
 -- 有珠の喉に滑り落ちる固形物。それきり、少女は力を失って崩れ落ちた。
-  Un corps solide se glissa dans la gorge d'Alice. Après quoi, elle perdit ses forces et s'écroula.
+　Un corps solide se glissa dans la gorge d'Alice. Après quoi, elle perdit ses forces et s'écroula.
 
 }
 [sha:83f0b7a8603459e125d728c4a480f03885e416a4]{
 -- Page 32, Offset 15168.
 -- 弱々しく横になった有珠を見届け、橙子は立ち上がる。
-  Tōko se leva en observant Alice étendue faiblement au sol.
+　Tōko se leva en observant Alice étendue faiblement au sol.
 
 }
 [sha:1a2ba931a7dfc829a73a0ff35d48b80d15c59393]{
@@ -763,7 +763,7 @@ on en aura bien bavé toutes les deux, avec nos maîtres sortant de l'ordinaire,
 [sha:edfcfbc59672e0ddb1692cf94438dea53b65ce69]{
 -- Page 32, Offset 15170.
 -- ―――ああ、口移しは私の趣味だから、特に気にする事はないよ」
-  ―――Aah, et aussi, je préfère simplement l'administrer au bouche à bouche, alors ne va pas te faire d'idées.」
+　―――Aah, et aussi, je préfère simplement l'administrer au bouche à bouche, alors ne va pas te faire d'idées.」
 
 }
 [sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{
@@ -775,7 +775,7 @@ on en aura bien bavé toutes les deux, avec nos maîtres sortant de l'ordinaire,
 [sha:b37c29b4caf7d47fa6ed5320bc9153b5d53effd4]{
 -- Page 33, Offset 15172.
 -- 有珠は地面に倒れたまま、必死に意識をたもって橙子を見上げる。
-  Écroulée sur le sol, Alice fixait Tōko d'un œil noir en gardant conscience de son mieux,
+　Écroulée sur le sol, Alice fixait Tōko d'un œil noir en gardant conscience de son mieux,
 
 }
 [sha:8296f95c0ecab839ac54c5a442f0bfca8fdc0d8a]{
@@ -787,7 +787,7 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:28f566462cf9226d43ef89c02f64e4f0cd4f1ffd]{
 -- Page 33, Offset 15174.
 -- 恨みがましい視線に振りかえる事もなく、橙子は黄金の狼を従えて歩きだす。
-  Tōko se mit en marche sans se retourner vers ce regard plein d'aigreur, suivie du loup doré.
+　Tōko se mit en marche sans se retourner vers ce regard plein d'aigreur, suivie du loup doré.
 
 }
 [sha:744053a8bb47867a7bac95da74c65ed832f9342e]{
@@ -799,25 +799,25 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:c1e3c26fe6b38c4f5e50e6856e8abf122adb7803]{
 -- Page 34, Offset 15176.
 -- ベオが呼び寄せた野犬たちだけどね、公園の外にまだ山ほどいるんだが―――困ったコトに、彼らは本来<何|・><を|・><口|・><に|・><す|・><る|・><べ|・><き|・><か|・>を思い出している。
-  C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'ils sont censés suivre.
+　C'est à propos des chiens sauvages que Beo a appelés. Il y en a encore un tas à l'extérieur du parc et―――malheureusement, ils semblent se rappeler du régime alimentaire qu'ils sont censés suivre.
 
 }
 [sha:da9f7565c32f49c673a8e99c284be00d407310c7]{
 -- Page 34, Offset 15177.
 -- ベオの野性に刺激されたんだろう。獣は、より強い獣に従うものだからな」
-  Ils ont dû être stimulés par la sauvagerie de Beo. Après tout, il est dans la nature des bêtes d'obéir à plus fort qu'elles.」
+　Ils ont dû être stimulés par la sauvagerie de Beo. Après tout, il est dans la nature des bêtes d'obéir à plus fort qu'elles.」
 
 }
 [sha:dc4844c4e67a1b11b32877e99bdf135a68b517f6]{
 -- Page 35, Offset 15178.
 -- 遠回しな死刑宣告。
-  Elle avait annoncé son arrêt de mort de façon détournée.
+　Elle avait annoncé son arrêt de mort de façon détournée.
 
 }
 [sha:1238e8890b7cd479cec3985a8a4e64153b8ffd16]{
 -- Page 35, Offset 15179.
 -- 自然界において、動かなくなった動物は、まだ動く動物に<肉|からだ>を捧げるのが習わしだ。
-  Dans la nature, il était d'usage que les animaux incapables de bouger abandonnent leurs corps aux animaux le pouvant encore.
+　Dans la nature, il était d'usage que les animaux incapables de bouger abandonnent leurs corps aux animaux le pouvant encore.
 
 }
 [sha:766a2f944f0f94861271cb453e20e034a33ba599]{
@@ -829,13 +829,13 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:9a0577b834dfc320a84a7809218937d96ce73e67]{
 -- Page 37, Offset 15181.
 -- 口元をいびつに歪ませて、魔術師は退場した。
-  La Mage fit sa sortie, un sourire tordu sur les lèvres.
+　La Mage fit sa sortie, un sourire tordu sur les lèvres.
 
 }
 [sha:3f75d7b9bfc7108844e2473f3c3c928fc134f8d1]{
 -- Page 37, Offset 15182.
 -- それと入れ替わるように、飢えた<彼|・><ら|・>の声が集まってくる。
-  Et comme pour prendre sa place, les hurlements affamés se rapprochèrent.
+　Et comme pour prendre sa place, les hurlements affamés se rapprochèrent.
 
 }
 [sha:01ce873eb9acb9b141d6488c34101795e9b29407]{
@@ -847,30 +847,30 @@ comme pour dire que le baiser lui avait fait bien plus de mal que la douleur res
 [sha:c06e1f4e29aefd02cd329d3d8180f738f9293036]{
 -- Page 38, Offset 15184.
 -- ……有珠の視界はいまだ定まらない。
-  ...... La vision d'Alice était encore floue.
+　...... La vision d'Alice était encore floue.
 
 }
 [sha:2845f31bcb703ae97b43e17fb9532d77e674a3b7]{
 -- Page 38, Offset 15185.
 -- 集まりだした野犬は、絵本に出てくるお化けのようだ。
-  La meute de chiens sauvages évoquait les monstres apparaissant dans les livres d'images.
+　La meute de chiens sauvages évoquait les monstres apparaissant dans les livres d'images.
 
 }
 [sha:6e6993bce74509fcd0e84e29cd2696a7531aede3]{
 -- Page 38, Offset 15186.
 -- 薄れゆく意識の中で、有珠は大きく息を吐いた。
-  Tandis que sa conscience s'estompait, Alice lâcha un gros soupir.
+　Tandis que sa conscience s'estompait, Alice lâcha un gros soupir.
 
 }
 [sha:ec2d163125aeb0252cf8649391e221461038ab5b]{
 -- Page 38, Offset 15187.
 -- 空は青く、森は高く、広場に救いはない。
-  Le ciel était bleu, la forêt haute, et la grande place ne recelait aucun espoir.
+　Le ciel était bleu, la forêt haute, et la grande place ne recelait aucun espoir.
 
 }
 [sha:e51c831167a8f999976a643b9968cd4d02c3b3b1]{
 -- Page 38, Offset 15188.
 -- うつろな視界の隅には、場違いな電話ボックスがひとつ。
-  Dans un coin de son regard vide se trouvait une cabine téléphonique, dont la présence semblait étrangement insolite en ce lieu.
+　Dans un coin de son regard vide se trouvait une cabine téléphonique, dont la présence semblait étrangement insolite en ce lieu.
 
 }

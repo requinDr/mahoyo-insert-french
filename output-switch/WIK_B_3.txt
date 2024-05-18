@@ -1,13 +1,13 @@
 [sha:6cc29d5ce2b09a2f1df23241371ba286d32b9ed8]{
 -- Page 0, Offset 21429.
 -- 意味のない行動をすると決めた。
-  Je décidai d'aller me promener sans but particulier.
+　Je décidai d'aller me promener sans but particulier.
 
 }
 [sha:4ea252c73802dbf85462295bea82c737a50acef0]{
 -- Page 0, Offset 21430.
 -- いや、ほんとに意図はない。思いつき以下の、１００パー気まぐれ、気の迷い。
-  Je n'avais vraiment aucune arrière-pensée. On ne pouvait même pas parler d'inspiration soudaine, car ce n'était qu'un simple coup de tête.
+　Je n'avais vraiment aucune arrière-pensée. On ne pouvait même pas parler d'inspiration soudaine, car ce n'était qu'un simple coup de tête.
 
 }
 [sha:1e2c2b7cc3c353beee512ccd364fc2406dadfe27]{
@@ -31,7 +31,7 @@
 [sha:627c2ed8e98a47d55c25e2c5192eaf055c133517]{
 -- Page 2, Offset 21434.
 -- それより居間に来てくれよー。会長がいないと有珠ちゃんになに話していいか分かんないよー」
-  Viens plutôt dans le salon~ Sans toi, je ne sais pas de quoi parler avec Alice~」
+　Viens plutôt dans le salon~ Sans toi, je ne sais pas de quoi parler avec Alice~」
 
 }
 [sha:b908da835d2206c85e8ff45b7c7c4c0f522b3458]{
@@ -61,25 +61,25 @@
 [sha:4b09e942608ab4050404b93467ecc19fb9a65103]{
 -- Page 3, Offset 21439.
 -- 芳助、荷物返して。やっぱり自分で持つ」
-  Hōsuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
+　Hōsuke, rends-moi mes affaires. Finalement, je vais les porter moi-même.」
 
 }
 [sha:59e4b9f4ee315da5758842e612836e8b5ffb5d8d]{
 -- Page 4, Offset 21440.
 -- 蒼崎を振り切るかたちで外に向かう。
-  Je me dirigeai vers la sortie après avoir refusé l'offre d'Aozaki.
+　Je me dirigeai vers la sortie après avoir refusé l'offre d'Aozaki.
 
 }
 [sha:55c2cea70c18b08f26b8572d31fc85c0570508e5]{
 -- Page 4, Offset 21441.
 -- 外に出て洋館の周りの森を、目的もなく観察する。
-  Une fois à l'extérieur, je jetai un coup d'œil à la forêt autour du manoir.
+　Une fois à l'extérieur, je jetai un coup d'œil à la forêt autour du manoir.
 
 }
 [sha:bb0329b7226322d616ab7187dbb5fb73ac264c4c]{
 -- Page 4, Offset 21442.
 -- 人気はなく、天気はますます曇っていく。
-  Sous un ciel de plus en plus menaçant, les environs étaient déserts.
+　Sous un ciel de plus en plus menaçant, les environs étaient déserts.
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -91,12 +91,12 @@
 [sha:64e96bbace487ef24c7f65f4609e710d19bb5b42]{
 -- Page 4, Offset 21444.
 -- しかし、ふと、視線を感じた。
-  Pourtant, je sentais qu'on m'observait.
+　Pourtant, je sentais qu'on m'observait.
 
 }
 [sha:42ae7b651b602cfc254a2937e75bccaa35fa3fc9]{
 -- Page 4, Offset 21445.
 -- わたしは―――
-  Je―――
+　Je―――
 
 }

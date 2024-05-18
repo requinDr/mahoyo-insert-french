@@ -1,37 +1,37 @@
 [sha:5dd6de20f4f89c342b64ed0c071a5357620e83ef]{
 -- Page 0, Offset 7152.
 -- 一方。<獲物|えもの>の活きの良さが分かるのか、オブジェたちは輪になって青子たちを観察していた。
-  Pendant ce temps, ayant apparemment compris que leurs proies récupéraient rapidement, les objets formèrent un cercle et observèrent Aoko et Sōjūrō à distance.
+　Pendant ce temps, ayant apparemment compris que leurs proies récupéraient rapidement, les objets formèrent un cercle et observèrent Aoko et Sōjūrō à distance.
 
 }
 [sha:51cf64576ca468a95eda38aa596011c348c4c397]{
 -- Page 0, Offset 7153. Mods: @n.
 -- パン屋にひきずりこんで焼き殺すか、
-  Ils pensaient les amener à la boulangerie pour les brûler à mort,
+　Ils pensaient les amener à la boulangerie pour les brûler à mort,
 
 }
 [sha:b8a252426d5f2653991473f1e761140bd6fbceea]{
 -- Page 0, Offset 7154. Glued.
 -- 精肉店の挽肉機ですり潰すか。
-  ou les broyer avec la machine à hacher de la boucherie.
+　ou les broyer avec la machine à hacher de la boucherie.
 
 }
 [sha:6b60b2b341ce282aad8646866225dfcdaa2f58c7]{
 -- Page 0, Offset 7155. Mods: @n.
 -- はたまた串刺しにしてゴーラウンドで引き回すか、
-  Ou bien les embrocher et les faire tournoyer sur le carrousel,
+　Ou bien les embrocher et les faire tournoyer sur le carrousel,
 
 }
 [sha:4335d96ab3ba6c0f349022616dd0011536be38ca]{
 -- Page 0, Offset 7156. Glued.
 -- トゲトゲだらけの<海賊船|ゆりかご>に乗せて航海に乗りだすか。
-  ou encore les faire embarquer sur le bateau pirate recouvert d'épines et leur faire faire une croisière.
+　ou encore les faire embarquer sur le bateau pirate recouvert d'épines et leur faire faire une croisière.
 
 }
 [sha:29d3bb9f241c4090b1ac3c96e13ad7b20f8bad85]{
 -- Page 0, Offset 7157.
 -- 二年間眠っていた分、歓迎意欲は盛りだくさんだ。
-  Après deux ans de sommeil, ils ne manquaient pas d'idées.
+　Après deux ans de sommeil, ils ne manquaient pas d'idées.
 
 }
 [sha:d860a7fb22cb3f23e168ef95c8ef91f439a84b63]{
@@ -67,13 +67,13 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
 -- Page 2, Offset 7163.
 -- ああ、でも―――」
-  Aah, mais―――」
+　Aah, mais―――」
 
 }
 [sha:d916d66f7658179d260168ac3e297092b3c88c61]{
 -- Page 2, Offset 7164.
 -- なんというか、有珠の性格の怖さも否定できない青子だった。
-  D'une certaine façon, Aoko ne pouvait nier la terreur que lui inspirait le caractère d'Alice.
+　D'une certaine façon, Aoko ne pouvait nier la terreur que lui inspirait le caractère d'Alice.
 
 }
 [sha:c2238b462c2d5edc03f7c6aff2d0c21cb806e78f]{
@@ -103,13 +103,13 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:c4499e4f2c9815e80be323f33ca451c843614d0c]{
 -- Page 4, Offset 7169.
 -- ―――突然の<展|こ><開|と>に目を見張る。
-  ―――Elle resta sans voix devant sa réaction impromptue.
+　―――Elle resta sans voix devant sa réaction impromptue.
 　
 }
 [sha:112507285d9c87d46299bf1f333aad32bb9fdf46]{
 -- Page 4, Offset 7170.
 -- 今まで青子に付いてくるだけだった草十郎は強引に青子の手を取って、焼きたてパンの群に突進―――囲みを<破|やぶ>ろうと力任せに特攻する。
-  Sōjūrō, qui n'avait fait que suivre Aoko jusqu'à maintenant, lui prit la main de force et chargea de front le groupe de pains grillés―――En les chargeant, il comptait sur la force pour forcer leur barrage.
+　Sōjūrō, qui n'avait fait que suivre Aoko jusqu'à maintenant, lui prit la main de force et chargea de front le groupe de pains grillés―――En les chargeant, il comptait sur la force pour forcer leur barrage.
 
 }
 [sha:90d03f58ea5c813286063ecd627a003bb6f415a0]{
@@ -121,25 +121,25 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:f2b1442585a50a294985d4d296defea2e172776f]{
 -- Page 5, Offset 7172.
 -- なんで今の流れでそうなるのよアンタはーーーー！？」
-  Pourquoi tu réagis comme ça après tout ce qu'on a ditーーーー?!」
+　Pourquoi tu réagis comme ça après tout ce qu'on a ditーーーー?!」
 
 }
 [sha:a83951a2545c36fbc4b729d3719c93938e2d58e1]{
 -- Page 5, Offset 7173.
 -- 別人のようなアグレッシブさを発揮する草十郎を<罵|ののし>りながら、律儀にフォローする青子。
-  Tout en invectivant Sōjūrō qui faisait preuve d'une agressivité telle qu'il ne semblait plus être la même personne, Aoko l'épaula de son mieux.
+　Tout en invectivant Sōjūrō qui faisait preuve d'une agressivité telle qu'il ne semblait plus être la même personne, Aoko l'épaula de son mieux.
 
 }
 [sha:b92c5a193ad5a8220871a08d52d25add9b5b48f0]{
 -- Page 6, Offset 7174.
 -- 草十郎の体当たりでは包囲網を突破できない。
-  Les attaques au corps à corps de Sōjūrō ne suffiraient pas pour franchir le blocus.
+　Les attaques au corps à corps de Sōjūrō ne suffiraient pas pour franchir le blocus.
 
 }
 [sha:d1ecc5810df6e608f07dd61ad9f46cc3007c7075]{
 -- Page 6, Offset 7175.
 -- 青子はすぐさま体勢をたてなおし、草十郎の正面に魔弾を掃射する。
-  Aoko se redressa promptement et mitrailla des balles de prana devant Sōjūrō.
+　Aoko se redressa promptement et mitrailla des balles de prana devant Sōjūrō.
 
 }
 [sha:abbd64e7fe5d091344f98986402e10268563fb35]{
@@ -151,19 +151,19 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:22c0404d3bbf7f3a92950e812d9164c583885d91]{
 -- Page 7, Offset 7177.
 -- 囲いを抜け、全力で走りだす。
-  Ils franchirent le siège et coururent à toute vitesse.
+　Ils franchirent le siège et coururent à toute vitesse.
 
 }
 [sha:1aec4dab3acfbb7577a4d08a9b9f99510414ce4b]{
 -- Page 7, Offset 7178.
 -- こうなっては当初の予定通り、遊園地の外を目指すしかない。
-  Maintenant que c'était fait, ils n'avaient pas d'autre choix que de se diriger vers l'extérieur du parc comme prévu initialement.
+　Maintenant que c'était fait, ils n'avaient pas d'autre choix que de se diriger vers l'extérieur du parc comme prévu initialement.
 
 }
 [sha:5ced2bdc1c68ad58ea17fb684eda988c2c9fa714]{
 -- Page 8, Offset 7179.
 -- ……まあ、それはともかくとして。
-  ...... Enfin, mettons cela de côté.
+　...... Enfin, mettons cela de côté.
 
 }
 [sha:352745a03fd6787c47fa135f66fb685f3640e204]{
@@ -175,7 +175,7 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:9cde5fabaaf722f879245030d01be7badcc2b4f6]{
 -- Page 8, Offset 7181.
 -- 青子には草十郎の反応が、とにかくホントに理解不能。
-  Pour Aoko, la réaction de Sōjūrō était vraiment impossible à comprendre.
+　Pour Aoko, la réaction de Sōjūrō était vraiment impossible à comprendre.
 
 }
 [sha:876647b072bf8ee0d41666880d4fa4257a401065]{
@@ -193,13 +193,13 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:10300438df283924819dfc4067c6933507f988f5]{
 -- Page 9, Offset 7184.
 -- 何でこんなコトで怒鳴っているんだろう、と思いながらも青子は止まらない。
-  Même si Aoko ignorait ce qui la poussait à lui crier dessus, elle ne pouvait s'arrêter.
+　Même si Aoko ignorait ce qui la poussait à lui crier dessus, elle ne pouvait s'arrêter.
 
 }
 [sha:69263fb81cd4506ef82102d4576f19f4a610b7dd]{
 -- Page 9, Offset 7185.
 -- きっと、無謀にもブレッドマンに突進した草十郎の馬鹿さ加減が頭にきているんだ、と自分自身に言い聞かせる。
-  Elle se dit que la bêtise de Sōjūrō à charger les hommes-pains lui était sans doute montée à la tête.
+　Elle se dit que la bêtise de Sōjūrō à charger les hommes-pains lui était sans doute montée à la tête.
 
 }
 [sha:e8ba879eaec2bde3ccb74b70fb34475e3c0e1d99]{
@@ -235,13 +235,13 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:0b0209ad0a1d1741a603c83d5baae608625275a1]{
 -- Page 12, Offset 7191.
 -- 沸き立っていた激情が、一瞬で鎮火する。
-  La colère qui bouillait en elle se dissipa instantanément.
+　La colère qui bouillait en elle se dissipa instantanément.
 
 }
 [sha:3eb8f58478aeccbfa261769a9b3bdc14d0dd9894]{
 -- Page 12, Offset 7192.
 -- あまりに簡潔かつどうでもいい理由に、青子の<直情|いかり>はあっさりと消えてしまった。
-  Toutes les émotions fortes qui la traversaient s'étaient évaporées à l'écoute de cette justification brève et triviale.
+　Toutes les émotions fortes qui la traversaient s'étaient évaporées à l'écoute de cette justification brève et triviale.
 
 }
 [sha:e2dfe6bc68095bac75c17a558b561014d51b49a0]{
@@ -253,12 +253,12 @@ Leur haine des humains leur vient de la rancœur du parc d'attractions et de la 
 [sha:a0fe6c849216a95ef29af7f5435f22a5e799f858]{
 -- Page 13, Offset 7194.
 -- 草十郎としては、よく知った相手なら殺されてもいいのだろうか？
-  Est-ce que ça signifiait que pour Sōjūrō, se faire tuer par quelqu'un qu'il connaissait bien n'était pas un problème ?
+　Est-ce que ça signifiait que pour Sōjūrō, se faire tuer par quelqu'un qu'il connaissait bien n'était pas un problème ?
 
 }
 [sha:a9e548b3f934088f7e9e54b6596d148ead690f76]{
 -- Page 13, Offset 7195.
 -- ますますもって理解できない、と顔をしかめながら、青子は草十郎の背中を追いかけるのだった。
-  Aoko grimaça en pensant qu'elle arrivait de moins en moins bien à le comprendre et suivit ses pas.
+　Aoko grimaça en pensant qu'elle arrivait de moins en moins bien à le comprendre et suivit ses pas.
 
 }

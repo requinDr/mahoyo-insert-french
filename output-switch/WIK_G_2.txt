@@ -1,6 +1,6 @@
 [sha:f3e1cdb2e1da4c1ae92a6eecc087e1d060e966a4]{
 -- Page 0, Offset 22152.
 -- わたしは、現実的に小型爆薬だ、と思った。
-  Réaliste, je pensai qu'il s'agissait d'une minibombe.
+　Réaliste, je pensai qu'il s'agissait d'une minibombe.
 
 }

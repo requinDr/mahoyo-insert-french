@@ -7,61 +7,61 @@
 [sha:1161bd82da8145c8a9e23ee8fd19e0ba25e618f0]{
 -- Page 0, Offset 22414.
 -- 細かな違和感はあれ、証言されたアリバイに大きな矛盾はなく、居間は沈黙に包まれた。
-  Un léger malaise régnait certes sur les convives, mais les témoignages n'avaient pas permis d'établir de contradictions manifestes, et le silence s'installa dans le salon.
+　Un léger malaise régnait certes sur les convives, mais les témoignages n'avaient pas permis d'établir de contradictions manifestes, et le silence s'installa dans le salon.
 
 }
 [sha:fb790679a8881b5d52093ed066915aaccc1a785c]{
 -- Page 0, Offset 22415.
 -- 土桔氏が殺害された時間は特定できない。
-  Il nous était impossible de déterminer à quelle heure M. Tokitsu était mort.
+　Il nous était impossible de déterminer à quelle heure M. Tokitsu était mort.
 
 }
 [sha:07a7597784e283035046d724c8401a9f35064be5]{
 -- Page 0, Offset 22416.
 -- 誰も爆発音を聞いていないし、プロイキッシャーとやらのせいで死後硬直の問題も、かなり曖昧になっているらしい。
-  Personne n'avait entendu le bruit de l'explosion, et à cause de ce soi-disant Ploy Kickshaw, l'analyse de la rigidité cadavérique voyait sa pertinence altérée.
+　Personne n'avait entendu le bruit de l'explosion, et à cause de ce soi-disant Ploy Kickshaw, l'analyse de la rigidité cadavérique voyait sa pertinence altérée.
 
 }
 [sha:cb983e63cc72123586062c836256e7c26ae27746]{
 -- Page 1, Offset 22417.
 -- 死体の状態から犯行時間が特定できない以上、土桔氏と山城先生、二人がいつみんなの前からいなくなったか、で死亡時間を計るしかない。
-  Puisqu'on ne pouvait pas déterminer l'heure du crime à partir de l'état des corps, nous n'avions pas d'autre choix que d'estimer l'heure de la mort de M. Tokitsu et du professeur Yamashiro à partir du moment de leur disparition.
+　Puisqu'on ne pouvait pas déterminer l'heure du crime à partir de l'état des corps, nous n'avions pas d'autre choix que d'estimer l'heure de la mort de M. Tokitsu et du professeur Yamashiro à partir du moment de leur disparition.
 
 }
 [sha:4c9f25b58d0bd7bd70a5b6ad607469268c5763af]{
 -- Page 2, Offset 22418.
 -- 土桔氏の死亡推定時刻は午後一時以降～午後六時まで。
-  On présumait que l'heure du décès de M. Tokitsu pouvait être n'importe quand entre une et six heures de l'après-midi.
+　On présumait que l'heure du décès de M. Tokitsu pouvait être n'importe quand entre une et six heures de l'après-midi.
 
 }
 [sha:76f4977e6de27896812f07804a2d1c9b89ed8d23]{
 -- Page 2, Offset 22419.
 -- 山城先生は午後四時から八時まで。
-  Et celle de M. Yamashiro entre quatre et huit heures.
+　Et celle de M. Yamashiro entre quatre et huit heures.
 
 }
 [sha:e8ff6defdc394190ff55527a498ebf193fcccbb4]{
 -- Page 2, Offset 22420.
 -- ただし、七時からは全員が集まっていたので、実際には四時から七時までの時間だろう。
-  Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.
+　Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.
 
 }
 [sha:6ca86032261841d80f7097ce89ad93009e810b03]{
 -- Page 3, Offset 22421.
 -- いずれの時間も、完全なアリバイがあるのは久遠寺さんと詠梨神父、シスター唯架だけ。
-  Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, père Eiri et sœur Yuika.
+　Les seules personnes disposant d'un alibi parfait pour chacun de ces laps de temps étaient Kuonji, père Eiri et sœur Yuika.
 
 }
 [sha:b597af78c03ce023021dbf578ea0e7ada71ef770]{
 -- Page 3, Offset 22422.
 -- 山城先生に関してはわたしと槻司も完全にアリバイがある。二人とも居間にいたからだ。
-  En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi possédions également un alibi en béton. À cette heure-ci, nous étions tous les deux dans le salon.
+　En ce qui concernait le meurtre de M. Yamashiro, Tsukiji et moi possédions également un alibi en béton. À cette heure-ci, nous étions tous les deux dans le salon.
 
 }
 [sha:f1f088c140ed6085122abcbcf7499e876345b41a]{
 -- Page 3, Offset 22423.
 -- 蒼崎と静希とベオは……どうだっただろう、把握していない。
-  Quant à Aozaki, Shizuki et Beo... nous n'avons pas pu établir leur alibi.
+　Quant à Aozaki, Shizuki et Beo... nous n'avons pas pu établir leur alibi.
 
 }
 [sha:9875729518bc920e5cf1f899b8c92969047f0a56]{
@@ -79,61 +79,61 @@
 [sha:4bdfdb6073521380de80df187cf0dc03781f9571]{
 -- Page 4, Offset 22426.
 -- 今日ここで知ったのか、はじめから知っていたのか。この違いは大きいぜ」
-  Entre avoir appris son existence aujourd'hui et être au courant depuis le début, la différence est grande.」
+　Entre avoir appris son existence aujourd'hui et être au courant depuis le début, la différence est grande.」
 
 }
 [sha:77451db718cb1d30e972cf33caf2239b414ce561]{
 -- Page 5, Offset 22427.
 -- そう。問題は、いつプロイとやらを起動させたか、だ。
-  En effet, la question était de savoir quand ce Ploy machin avait été activé.
+　En effet, la question était de savoir quand ce Ploy machin avait été activé.
 
 }
 [sha:5287df76a9370060b0a421c2e3317644159c9943]{
 -- Page 5, Offset 22428.
 -- たとえばわたしや山城先生がスイーツハーツだとしたら、洋館にやってきてから、見も知らないスイーツハーツとやらを発見し、起動させなくてはならない。
-  Par exemple, si le professeur Yamashiro ou moi étions Sweets Hearts, nous aurions dû découvrir dès notre arrivée ce Sweets Hearts dont nous ignorions tout et l'activer.
+　Par exemple, si le professeur Yamashiro ou moi étions Sweets Hearts, nous aurions dû découvrir dès notre arrivée ce Sweets Hearts dont nous ignorions tout et l'activer.
 
 }
 [sha:a18578990b486261766b99dd97fa00377845b0ca]{
 -- Page 5, Offset 22429.
 -- 絶対にないとは言い切れないが、まず現実的ではない。
-  Je ne pouvais pas rejeter cette possibilité de façon absolue, mais ce n'était pas très réaliste.
+　Je ne pouvais pas rejeter cette possibilité de façon absolue, mais ce n'était pas très réaliste.
 
 }
 [sha:ed91b021495c280da13115f7d2ce635e8194d350]{
 -- Page 5, Offset 22430.
 -- この場合、このゲームは突発的な犯罪に分類される。
-  Selon ce cas de figure, ce jeu devait être classifié parmi les crimes fortuits.
+　Selon ce cas de figure, ce jeu devait être classifié parmi les crimes fortuits.
 
 }
 [sha:d5370afb88c2aa4f77736caefb9d47361cbfceec]{
 -- Page 5, Offset 22431.
 -- たまたま、が重なって起きてしまった悲劇という事だ。
-  En d'autres termes, il s'agissait d'une tragédie qui se serait produite à cause d'une malheureuse succession de hasards.
+　En d'autres termes, il s'agissait d'une tragédie qui se serait produite à cause d'une malheureuse succession de hasards.
 
 }
 [sha:768f87c0ec066ea8bd5c6ea7a9f8ece886d51411]{
 -- Page 6, Offset 22432.
 -- 逆に、前もって知っていて、いつでも使用できる状態だったのなら、これは計画的な犯罪だ。
-  Au contraire, si on était au courant pour le Ploy avant l'incident et si on pouvait l'utiliser n'importe quand, alors il s'agissait d'un crime calculé.
+　Au contraire, si on était au courant pour le Ploy avant l'incident et si on pouvait l'utiliser n'importe quand, alors il s'agissait d'un crime calculé.
 
 }
 [sha:06c30281f60d18486beee33c4a51312ff939f40f]{
 -- Page 6, Offset 22433.
 -- プロイをいつ見付けたかは推理しなくていい。
-  Dans ce cas, il était inutile de déterminer le moment où le Ploy avait été trouvé.
+　Dans ce cas, il était inutile de déterminer le moment où le Ploy avait été trouvé.
 
 }
 [sha:0deafc636e98be326cc47ad802edb30f54d7a04f]{
 -- Page 6, Offset 22434.
 -- 人物Ａは既にプロイと入れ替わっていて、あとはゆっくり、全員が揃ったタイミングでルールを発動させればいいのだから。
-  En effet, l'individu A aurait alors déjà échangé de place avec le Ploy, et il lui suffisait ensuite de tranquillement activer les règles lorsque tout le monde serait réuni.
+　En effet, l'individu A aurait alors déjà échangé de place avec le Ploy, et il lui suffisait ensuite de tranquillement activer les règles lorsque tout le monde serait réuni.
 
 }
 [sha:10ae2839360d7f9f03369c24c23f266854fc0e14]{
 -- Page 6, Offset 22435.
 -- 今のところ、可能性はこちらの方が大きいだろう。
-  Pour le moment, cette possibilité était la plus probable.
+　Pour le moment, cette possibilité était la plus probable.
 
 }
 [sha:f269e26d63370187f3134c30e39a7ea4f8548e1b]{
@@ -145,19 +145,19 @@
 [sha:9a14d4deda8df24599bad161b716c03dddc4dd0e]{
 -- Page 7, Offset 22437.
 -- 蒼崎なら両名を殺せる時間があった。
-  Elle avait le temps de les tuer tous les deux.
+　Elle avait le temps de les tuer tous les deux.
 
 }
 [sha:30248bcb4773c0bb8c5b4b894fcf1dd11db527c9]{
 -- Page 7, Offset 22438.
 -- 律架さんの場合、土桔爺さんの殺害は難しい。
-  Il aurait été difficile pour Ritsuka de tuer le vieux Tokitsu.
+　Il aurait été difficile pour Ritsuka de tuer le vieux Tokitsu.
 
 }
 [sha:328238f022cbc55240be8f35e214b94213e37d2e]{
 -- Page 7, Offset 22439.
 -- 久遠寺は……ずっと居間にいた唯一の人間だ、犯行にはおよべない」
-  Quant à Kuonji... Elle est la seule personne à n'avoir jamais quitté le salon. Elle ne pouvait pas commettre le crime.」
+　Quant à Kuonji... Elle est la seule personne à n'avoir jamais quitté le salon. Elle ne pouvait pas commettre le crime.」
 
 }
 [sha:9d4525dab457e141f1025a7a51feab0a3543f015]{
@@ -181,13 +181,13 @@
 [sha:f26b743095deb19c33ec90959cd213892ba4b1ad]{
 -- Page 9, Offset 22443.
 -- あくまで可能性の話でしょ。それを言うなら、洋館にやってきて、すぐにプロイを発見して、勢い食べちゃって、それでスイーツハーツになっちゃった、って偶然もあるわけだし？
-  On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
+　On parle seulement de possibilités, je te ferais remarquer. On ne peut négliger le cas hasardeux où l'individu A est arrivé à la résidence et a découvert immédiatement le Ploy qu'il a mangé dans la foulée avant de devenir Sweets Hearts, non ?
 
 }
 [sha:923cd15c30f81faa97650605dfb00277190029c0]{
 -- Page 9, Offset 22444.
 -- 怪しさでいえばみんな同じよ。水掛論だわ」
-  Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
+　Nous sommes tous aussi louches les uns que les autres. Ce serait un débat interminable.」
 
 }
 [sha:c46ea2aae783a42b8dd73f95d86c6b65037eb6e1]{
@@ -205,7 +205,7 @@
 [sha:d1fcbec7c12bd3f954a74e084073446820cf6277]{
 -- Page 10, Offset 22447.
 -- ロビーで話し声が聞こえたから有珠が出迎えたんでしょう？　それ以前、アンタらが何処にいたかなんて誰も証明できないじゃない」
-  Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」
+　Alice est venue vous accueillir parce qu'elle a entendu vos voix, pas vrai ? Personne ne peut certifier où vous étiez avant ça.」
 
 }
 [sha:37bcd97cb36cf0a3eb8f487c1c41416e444f564d]{
@@ -229,25 +229,25 @@
 [sha:6d900f3e8387e848b70fb904bb9737fb60144eed]{
 -- Page 12, Offset 22451.
 -- んー、まあ、それはそれとして、プロイを知っている、って条件ならもう一人、とびきり不自然な<娘|こ>もいるんだけど。それは誰かが指摘するでしょう」
-  Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」
+　Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」
 
 }
 [sha:87c01ec35b09dc64c7890e919940c5b9fcbaf3ad]{
 -- Page 13, Offset 22452.
 -- 無言で火花を散らすシスターと蒼崎。
-  Des étincelles jaillissaient entre la sœur et Aozaki, silencieuses.
+　Des étincelles jaillissaient entre la sœur et Aozaki, silencieuses.
 
 }
 [sha:00b7dfd73dbcadea29550e284de3c92206f5c15e]{
 -- Page 13, Offset 22453.
 -- あの二人は日頃から仲が悪いのだろう。
-  Ces deux-là s'étaient probablement toujours mal entendues.
+　Ces deux-là s'étaient probablement toujours mal entendues.
 
 }
 [sha:a620c969e26043a157582abf6ccf1f0f2bd0d860]{
 -- Page 13, Offset 22454.
 -- この状況では、もはや完全に敵同士だ。
-  Vu les circonstances, elles étaient à présent complètement ennemies.
+　Vu les circonstances, elles étaient à présent complètement ennemies.
 
 }
 [sha:830f27d0b620e2c1d086ddc1ce536646aaaf608d]{
@@ -271,7 +271,7 @@
 [sha:4a2f10927103c60d40b0d4ae7ef3fe2edb013024]{
 -- Page 14, Offset 22458.
 -- そうでしょう、唯架さん？」
-  N'est-ce pas, Yuika ?」
+　N'est-ce pas, Yuika ?」
 
 }
 [sha:f0211d7e700a833e6b445c5d04d6306739384652]{
@@ -283,25 +283,25 @@
 [sha:2ae09c89786c6a5f29f1edbf5c312e8f414f08ae]{
 -- Page 15, Offset 22460.
 -- 冗談で笑う、なんて事はまずあり得ません。ですから、先に退場するのは青子さんの方でしょうね」
-  Il m'est impossible de rire à une blague. Donc, la première personne à quitter la partie sera sûrement Aoko.」
+　Il m'est impossible de rire à une blague. Donc, la première personne à quitter la partie sera sûrement Aoko.」
 
 }
 [sha:452b1d48fbb7716343a762d87ef2838cb5ef3bb7]{
 -- Page 16, Offset 22461.
 -- 久遠寺さんは場を<諫|いさ>めたつもりっぽいけど、空気はますます剣呑になっていった。
-  Kuonji avait eu, semble-t-il, l'intention d'adresser des remontrances à Aozaki, mais l'atmosphère n'en était devenue que plus électrique.
+　Kuonji avait eu, semble-t-il, l'intention d'adresser des remontrances à Aozaki, mais l'atmosphère n'en était devenue que plus électrique.
 
 }
 [sha:7112c525ef36d83c8a7a8c67b866f06ea918c467]{
 -- Page 16, Offset 22462.
 -- そんな中、久遠寺さんの前に青い駒鳥が現れた。
-  Là-dessus, le rouge-gorge bleu apparut devant la maîtresse de maison.
+　Là-dessus, le rouge-gorge bleu apparut devant la maîtresse de maison.
 
 }
 [sha:91e2309eeea515592e5418d4a4361ff4fa2aaf70]{
 -- Page 16, Offset 22463.
 -- 黒いテーブルに着地すると、駒鳥はチチチ、と
-  L'oiseau se posa sur la table, puis gazouilla.
+　L'oiseau se posa sur la table, puis gazouilla.
 
 }
 [sha:0827e3d17a78c27668a509fcbc7e376c178f408e]{
@@ -313,7 +313,7 @@
 [sha:6a1d4c39215ae480df1332ed4797e3a4df454f63]{
 -- Page 16, Offset 22465.
 -- 鳴いた。
-  piailla-t-il.
+　piailla-t-il.
 
 }
 [sha:b52dabb529e0abc1af11e5cb022d863da953a37b]{
@@ -325,7 +325,7 @@
 [sha:6c0006b726722489926e75069ebc2ee5b93ae0fd]{
 -- Page 17, Offset 22467.
 -- 久遠寺さんの手刀が、容赦なく青い鳥を粉砕した。
-  Kuonji démolit sans pitié l'oiseau bleu d'un coup de la tranche de sa main.
+　Kuonji démolit sans pitié l'oiseau bleu d'un coup de la tranche de sa main.
 
 }
 [sha:1385f0f1de1d7be53cc3bc74541c53c62c54a1c9]{
@@ -337,7 +337,7 @@
 [sha:a9d7ea521b5bd62482a053509f4210a7859e1d2d]{
 -- Page 17, Offset 22469.
 -- いつまでも笑い話と思っていると、全滅するわよ」
-  si vous croyez encore qu'il s'agit d'une plaisanterie, vous allez vous faire massacrer.」
+　si vous croyez encore qu'il s'agit d'une plaisanterie, vous allez vous faire massacrer.」
 
 }
 [sha:f0b0016cc56e1f8a8907dfa6c41d11a0f88799d2]{
@@ -349,12 +349,12 @@
 [sha:5fd307e01938c385c944668445897c44a13a043e]{
 -- Page 18, Offset 22471.
 -- 二人の意見はもっともだ。
-  Leurs deux avis étaient légitimes.
+　Leurs deux avis étaient légitimes.
 
 }
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 18, Offset 22472.
 -- わたしは、
-  Je...
+　Je...
 
 }

@@ -1,49 +1,49 @@
 [sha:b3c43505fb9361255c8bec56d46f69fda6e9c33e]{
 -- Page 0, Offset 19361.
 -- その洞穴に入った瞬間、奇妙な懐かしさに襲われた。
-  Dès l'instant où il pénétra dans la grotte, il fut assailli par un étrange sentiment de nostalgie.
+　Dès l'instant où il pénétra dans la grotte, il fut assailli par un étrange sentiment de nostalgie.
 
 }
 [sha:15651a4ec536e5769576850fd84529297f5946c5]{
 -- Page 0, Offset 19362.
 -- <郷愁|きょうしゅう>ではなく、もっと<前期|いぜん>の。
-  Une nostalgie bien plus profonde qu'un simple mal du pays,
+　Une nostalgie bien plus profonde qu'un simple mal du pays,
 
 }
 [sha:a2a1304a85dfe94a1a57898166028d1fe6353333]{
 -- Page 0, Offset 19363.
 -- 今の自分すら遠く想うほどの、<彼方|かなた>に至る懐かしさだ。
-  car même lui était capable de sentir qu'elle remontait à des temps lointains.
+　car même lui était capable de sentir qu'elle remontait à des temps lointains.
 
 }
 [sha:288a52acebdda7c67eba757986bc78660dbfaf68]{
 -- Page 1, Offset 19364.
 -- その人物が何者であったかは、よく覚えていない。
-  Il ne se rappellerait plus très bien à quoi ressemblait ce personnage.
+　Il ne se rappellerait plus très bien à quoi ressemblait ce personnage.
 
 }
 [sha:6d4262ccb9552562019295843c696367fccf497e]{
 -- Page 1, Offset 19365.
 -- 自分と同じだったかも知れないし、老人だった気もする。
-  Peut-être avait-il son âge ? Pourtant, il lui semblait aussi avoir eu affaire à un vieillard.
+　Peut-être avait-il son âge ? Pourtant, il lui semblait aussi avoir eu affaire à un vieillard.
 
 }
 [sha:385d9b37d9fb0d7cd5f9920abd453ba921ac308c]{
 -- Page 1, Offset 19366.
 -- 人らしき<輪郭|りんかく>だけがあり、その中身を判別する事はできなかった。
-  Cet individu avait forme humaine, mais il n'avait pu discerner son visage.
+　Cet individu avait forme humaine, mais il n'avait pu discerner son visage.
 
 }
 [sha:599f2e0fdeb6d6722fa334703c811ce721630893]{
 -- Page 1, Offset 19367.
 -- 叶ったとしても、表現するための適切なパーツが思いつかない。
-  Et quand bien même, il n'aurait trouvé aucune expression adéquate pour le décrire.
+　Et quand bien même, il n'aurait trouvé aucune expression adéquate pour le décrire.
 
 }
 [sha:d596a672605bc582ecbd2c712021e2b5518b4d3f]{
 -- Page 1, Offset 19368.
 -- はっきりしていたのは、その煙のような人物が、青子の言う『祖父』という事だけだった。
-  Il n'était sûr que d'une chose : cet homme-fumée était le fameux “grand-père” dont avait parlé Aoko.
+　Il n'était sûr que d'une chose : cet homme-fumée était le fameux “grand-père” dont avait parlé Aoko.
 
 }
 [sha:3dfdbdd1ad15be97d68593c3fd68a0e4132074a5]{
@@ -55,7 +55,7 @@
 [sha:9012d7c61a4a5c3ec7b6e599d0d58ce0945d878b]{
 -- Page 2, Offset 19370. Mods: @n.
 -- 老人の声はしわがれていたが、張りがあり、洞穴によく響いた。
-  Le vieil homme parlait d'une voix rauque mais énergique qui résonnait aisément dans la grotte.
+　Le vieil homme parlait d'une voix rauque mais énergique qui résonnait aisément dans la grotte.
 
 }
 [sha:21175c068a8777f5a3de2339196dfef75fa7c1ca]{
@@ -73,7 +73,7 @@
 [sha:f7428b9e9d65b91de83f1d6b928d9e56b2442d86]{
 -- Page 3, Offset 19373.
 -- ……どうして、二人を争わせたんですか？」
-  ...... Pourquoi les avoir poussées à se battre ?」
+　...... Pourquoi les avoir poussées à se battre ?」
 
 }
 [sha:cd743fd67bb4aaec84706e95330281a85dc0b79b]{
@@ -97,13 +97,13 @@
 [sha:a06301285911a755a5e6de941e5cb9879d9a0f04]{
 -- Page 4, Offset 19377.
 -- だが、確かに衝突を避ける余地はあった。あれらの意志が凡庸であったか、あるいは破格のものであったのなら、多くの<不純|ふじゅん>に耐えただろう。
-  Je ne puis cependant pas nier qu'il y avait moyen d'éviter les heurts. Si elles avaient eu des forces de volonté banales ou exceptionnelles, elles auraient certainement pu résister à leurs désirs impurs.
+　Je ne puis cependant pas nier qu'il y avait moyen d'éviter les heurts. Si elles avaient eu des forces de volonté banales ou exceptionnelles, elles auraient certainement pu résister à leurs désirs impurs.
 
 }
 [sha:c6fe4a03ff17f30fc743b9ec2310066db941fb46]{
 -- Page 4, Offset 19378.
 -- 君のように、自己の崩壊が見えていても、共存を尊ぶように。しかし娘たちはそれを選ばなかった」
-  Pour permettre leur coexistence, il leur suffisait de sacrifier leur égo, comme toi. Mais elles ont rejeté cette option.」
+　Pour permettre leur coexistence, il leur suffisait de sacrifier leur égo, comme toi. Mais elles ont rejeté cette option.」
 
 }
 [sha:160f8586e4bce1556fb7fc21f150efc393ccb3cb]{
@@ -133,7 +133,7 @@
 [sha:981d6e372065d2c3d45caa73d5cee45b6f5e9624]{
 -- Page 6, Offset 19383.
 -- 私という起因から起こり、娘たちが一つの<題目|いのち>を得た時点で、私は<現代|ぶたい>から消え失せた。その後の因は、常に娘たちから生じたものだ。私の介入はない」
-  J'ai quitté le devant de la scène à l'instant où ces filles ont acquis la vie à partir de l'origine que je suis. Par la suite, tout a toujours découlé d'elles. Je n'ai jamais interféré.」
+　J'ai quitté le devant de la scène à l'instant où ces filles ont acquis la vie à partir de l'origine que je suis. Par la suite, tout a toujours découlé d'elles. Je n'ai jamais interféré.」
 
 }
 [sha:7122d30da711806ca7b94cdae232724326730261]{
@@ -145,19 +145,19 @@
 [sha:f9e82c3c62851a6d1b0f229ada1ce5671efff738]{
 -- Page 7, Offset 19385.
 -- いや、もとより無価値だ。
-  Leurs actions n'en ont d'ailleurs jamais eu.
+　Leurs actions n'en ont d'ailleurs jamais eu.
 
 }
 [sha:5a830e963928e060637172af5dca4d27b502f400]{
 -- Page 7, Offset 19386.
 -- 私に価値を与える<題目|いのち>は、まだ生まれていない。
-  L'être qui donnera de la valeur à mon existence n'a pas encore vu le jour.
+　L'être qui donnera de la valeur à mon existence n'a pas encore vu le jour.
 
 }
 [sha:91833c55d09a08cff86c9696c5bd30d92f4df58f]{
 -- Page 7, Offset 19387.
 -- あれらがどうなろうと、やるべき事は変わらない」
-  Leur destin n'a que peu d'importance, car mon devoir restera inchangé quoi qu'il arrive.」
+　Leur destin n'a que peu d'importance, car mon devoir restera inchangé quoi qu'il arrive.」
 
 }
 [sha:1dc83eb60b3c35de08eaf439b460b1a3607c7dcf]{
@@ -175,31 +175,31 @@
 [sha:a627b2600cd73192428c13ad133e6559ae120719]{
 -- Page 9, Offset 19390.
 -- 洞穴に充満した、蒸気のような<精気|オド>に目眩がした。
-  Sōjūrō fut pris de vertiges à cause de l'od vaporeux qui emplissait la grotte.
+　Sōjūrō fut pris de vertiges à cause de l'od vaporeux qui emplissait la grotte.
 
 }
 [sha:2878a093aad8cd4d42035424ff779f2b74411bac]{
 -- Page 9, Offset 19391.
 -- この老人は、青子と橙子が生まれた瞬間に、彼女たちが孫である事を忘れたのだ。
-  Ce vieil homme avait oublié qu'Aoko et Tōko étaient ses petites-filles dès leurs naissances.
+　Ce vieil homme avait oublié qu'Aoko et Tōko étaient ses petites-filles dès leurs naissances.
 
 }
 [sha:c7561e43fc0a6e2f6e3bf0f5feb50833e6865fc1]{
 -- Page 9, Offset 19392.
 -- ……正統な蒼崎の後継者は、たぶん、永遠に誕生しないだろう。
-  ...... Le successeur légitime des Aozaki ne viendrait sûrement jamais au monde.
+　...... Le successeur légitime des Aozaki ne viendrait sûrement jamais au monde.
 
 }
 [sha:d2e6bb867c589dce67e30941cd97be9ab8a8eac3]{
 -- Page 9, Offset 19393.
 -- この老人がいるかぎり、<際限|さいげん>なく新しい力は求められる。
-  Tant que cet être existerait, sa soif de pouvoir ne prendrait certainement jamais fin.
+　Tant que cet être existerait, sa soif de pouvoir ne prendrait certainement jamais fin.
 
 }
 [sha:a29622b9c072dd63bffe090738d6a1ef47bd857c]{
 -- Page 9, Offset 19394.
 -- そこには<妥協|だきょう>も<限界|げんかい>もない。
-  Il ne connaissait ni compromis ni limites.
+　Il ne connaissait ni compromis ni limites.
 
 }
 [sha:e590ce20ae777c3ea684cb1acc9e714285117278]{
@@ -211,7 +211,7 @@
 [sha:6b2c8d4190ec84838ef62ea0f5c0556dff697d3b]{
 -- Page 10, Offset 19396.
 -- 沈黙があった。
-  Un silence s'installa.
+　Un silence s'installa.
 
 }
 [sha:4363b340639d5529f6553f8883abf6d1052156d2]{
@@ -223,85 +223,85 @@ Un bref silence.
 [sha:bd987093c79acb509514ed4143e5a9e7dcd4c2a5]{
 -- Page 10, Offset 19398.
 -- 不確かな人物像は、その輪郭さえぼやけていく。
-  Les contours du personnage insaisissable s'estompèrent.
+　Les contours du personnage insaisissable s'estompèrent.
 
 }
 [sha:0243119d6cd246cb0692a440cfdbc2f94c57c1e1]{
 -- Page 11, Offset 19399.
 -- ―――昔。
-  ―――Il y a fort longtemps,
+　―――Il y a fort longtemps,
 
 }
 [sha:6d76423b6dd65fadb0638cc4769e3a76c51ad3d2]{
 -- Page 11, Offset 19400.
 -- 因の切れた幼子が、この洞穴に入ってきた事がある。
-  une fillette avec qui il avait coupé tout lien avait fait irruption dans cette grotte.
+　une fillette avec qui il avait coupé tout lien avait fait irruption dans cette grotte.
 
 }
 [sha:ac12f565b4b6021eceea067a794fd0a60963a07d]{
 -- Page 11, Offset 19401.
 -- <無|む><知|ち>、<無|む><垢|く>から生まれた願いを、老人は自動的に叶えてやった。
-  Le vieil homme avait machinalement réalisé le vœu né de l'ignorance et de l'innocence de la fillette.
+　Le vieil homme avait machinalement réalisé le vœu né de l'ignorance et de l'innocence de la fillette.
 
 }
 [sha:768562ddcd001679ab2c49d49ccefc4f7fe836bf]{
 -- Page 11, Offset 19402.
 -- 老人は長く残るために自我を失った魔法使いで、そのとき自分にできる事なら、なんでも叶えてしまうのだ。
-  C'était un Magicien, et il avait sacrifié son égo afin de prolonger son espérance de vie ; par conséquent, il exauçait n'importe quel souhait tant qu'il en était capable.
+　C'était un Magicien, et il avait sacrifié son égo afin de prolonger son espérance de vie ; par conséquent, il exauçait n'importe quel souhait tant qu'il en était capable.
 
 }
 [sha:6ea1d5d5f627af02c141c5a6d5a7d5558bebf26d]{
 -- Page 11, Offset 19403.
 -- そしてあの日は、何もかもが符合しすぎていた。
-  Et ce jour-là, tous les éléments avaient convergé vers la même conclusion.
+　Et ce jour-là, tous les éléments avaient convergé vers la même conclusion.
 
 }
 [sha:bf7c1e75d0cce43581ad82582efed4414fa3e930]{
 -- Page 12, Offset 19404.
 -- <自|みずか>らが<招|まね>いた罪を見て、<幼子|おさなご>は瞳にいっぱいの涙をためて、老人を睨みつけた。
-  Quand l'enfant avait pris conscience du péché provoqué par sa faute, elle avait foudroyé le vieil homme d'un regard brouillé par les larmes.
+　Quand l'enfant avait pris conscience du péché provoqué par sa faute, elle avait foudroyé le vieil homme d'un regard brouillé par les larmes.
 
 }
 [sha:03565e275c1146f6df158a571efd629af6373ea9]{
 -- Page 12, Offset 19405.
 -- 全ては失われる。誰でもいい貴方の失敗一つで、前置きもなく、あっさりと。
-  Tout finit par disparaître, parfois simplement et sans prévenir, à cause d'une petite erreur sans importance.
+　Tout finit par disparaître, parfois simplement et sans prévenir, à cause d'une petite erreur sans importance.
 
 }
 [sha:df628ccda9b54e280b109fd2ee6105a8a3c76cb1]{
 -- Page 12, Offset 19406.
 -- 幼子はその不条理に<癇癪|かんしゃく>を起こした。
-  Cette réalité injuste avait provoqué un accès de colère chez l'enfant.
+　Cette réalité injuste avait provoqué un accès de colère chez l'enfant.
 
 }
 [sha:a3b778d6acf85774d18d160bfee98cccb2366f36]{
 -- Page 12, Offset 19407.
 -- 世界なんてそんなもんじゃぞ、と嘆息する魔法使いに、
-  “Le monde est ainsi fait”, avait soupiré le Magicien.
+　“Le monde est ainsi fait”, avait soupiré le Magicien.
 
 }
 [sha:2cd5a0be5962d6280b5b6ff2b05bfa76124e1711]{
 -- Page 12, Offset 19408.
 -- “ジジイ、うるさい”と真っ向から立ち向かった。
-  “La ferme vieux croûton”, avait répliqué la fillette.
+“La ferme vieux croûton”, avait répliqué la fillette.
 
 }
 [sha:a2305c1078d11fe1c26784aef0e2478a1f10012e]{
 -- Page 12, Offset 19409.
 -- そして―――
-  Ensuite―――
+　Ensuite―――
 
 }
 [sha:8ed1e01fd5177f7f816808f994867dfd706e81cf]{
 -- Page 13, Offset 19410.
 -- ―――そう、そして。
-  ―――Car il y avait eu une suite.
+　―――Car il y avait eu une suite.
 
 }
 [sha:347a8c7a041f57656b3eb6f02d3b1c55a075b556]{
 -- Page 13, Offset 19411.
 -- 一つの命と全ての命を、同じものとして<償|つぐな>ってみせると、泣きながら走り出した。
-  L'enfant s'était enfuie en pleurant et en criant qu'elle rachèterait cette vie perdue auprès de tous les autres êtres vivants.
+　L'enfant s'était enfuie en pleurant et en criant qu'elle rachèterait cette vie perdue auprès de tous les autres êtres vivants.
 
 }
 [sha:1fe7c6ad21a5a315192b79516e121dddd044e98a]{
@@ -313,7 +313,7 @@ Un bref silence.
 [sha:b2bcc6ea42c536f7b38a49a34ecabc3cdd1dd08f]{
 -- Page 14, Offset 19413.
 -- ……あの時、あるいは。
-  ...... Qui sait ?
+　...... Qui sait ?
 
 }
 [sha:ec180a4d26f1f7fb229b1848834365a5d0e28918]{
@@ -331,19 +331,19 @@ Elle vit pour le rendre magnifique.」
 [sha:97fd934a18c369ef124288255f0a526ddbf32d76]{
 -- Page 14, Offset 19416.
 -- <己|そ>の役割は、とうに終わっていたのかも知れないが。
-  Peut-être que son rôle avait pris fin ce jour-là.
+　Peut-être que son rôle avait pris fin ce jour-là.
 
 }
 [sha:f1c2e69b135071df337f92e97b4583fe1b3349e6]{
 -- Page 15, Offset 19417.
 -- 老人の姿は青年に変わって見えた。
-  Le jeune homme vit la silhouette du vieil homme changer.
+　Le jeune homme vit la silhouette du vieil homme changer.
 
 }
 [sha:a9729e9686f9d454521b0e05fe99470fb9e8c368]{
 -- Page 15, Offset 19418.
 -- ほんの一瞬だけの、陽炎のような揺らぎだった。
-  Elle vacilla un instant comme sous un effet d'optique.
+　Elle vacilla un instant comme sous un effet d'optique.
 
 }
 [sha:6fea7ea3a9e1bfb670da6b5bfcb54d30429ad6d3]{
@@ -355,13 +355,13 @@ Elle vit pour le rendre magnifique.」
 [sha:84a568bbcc7a3ff4a4d149a7be816bfdedc748f1]{
 -- Page 16, Offset 19420.
 -- 私が娘たちの人格を考慮せぬように、娘たちもまた、私という物の人格を認めていない。
-  De la même façon que je ne tiens pas compte de leur personnalité, elles ne ressentent aucun intérêt pour la mienne.
+　De la même façon que je ne tiens pas compte de leur personnalité, elles ne ressentent aucun intérêt pour la mienne.
 
 }
 [sha:2bbca58172fce54be2650d77582838a7ab758c9e]{
 -- Page 16, Offset 19421.
 -- 祖父さえいなかったのなら、という考えさえないだろう」
-  Il ne leur est même sans doute jamais venu à l'idée de maudire mon existence.」
+　Il ne leur est même sans doute jamais venu à l'idée de maudire mon existence.」
 
 }
 [sha:75da2c867e2c3bede81283167a4420dee93e8f35]{
@@ -379,31 +379,31 @@ Enfin, il doit être délicat pour toi de comprendre cette relation.
 [sha:13d993c39f85ad9d76b2b98c38d33da5de6fcc23]{
 -- Page 17, Offset 19424.
 -- 訊ね事は終わったようだ。
-  Je vois que tu es à court de questions.
+　Je vois que tu es à court de questions.
 
 }
 [sha:75e60544fd25492183f14352e24177ddd2cb0828]{
 -- Page 17, Offset 19425.
 -- 次は私の番だ。
-  C'est donc mon tour.
+　C'est donc mon tour.
 
 }
 [sha:3d62343d52977803ab261e28befdf06709feeda0]{
 -- Page 17, Offset 19426.
 -- 君の名前を知りたい」
-  Je voudrais connaître ton nom.」
+　Je voudrais connaître ton nom.」
 
 }
 [sha:cf204fe7fcc099fdbef30e029cc721bb25511474]{
 -- Page 18, Offset 19427.
 -- 老人の問いに答える。
-  Il répondit à la question du vieil homme.
+　Il répondit à la question du vieil homme.
 
 }
 [sha:415f8519dd72e34244351fdec1a88aa3fa7e54c9]{
 -- Page 18, Offset 19428.
 -- 煙は顔をしかめるように、かすかに揺らいでいた。
-  La fumée oscilla légèrement, comme s'il fronçait les sourcils.
+　La fumée oscilla légèrement, comme s'il fronçait les sourcils.
 
 }
 [sha:eb855f30381294c93e8aee10ced6110405fa42c5]{
@@ -415,25 +415,25 @@ Enfin, il doit être délicat pour toi de comprendre cette relation.
 [sha:933719e4cc6e2b650d38e3a23e857987ebac1d5f]{
 -- Page 19, Offset 19430.
 -- 似合わん。まったく、似合わん。
-  Ça ne te va pas. Vraiment pas.
+　Ça ne te va pas. Vraiment pas.
 
 }
 [sha:7e67a8c5c2a4949854f05a34a1ae41ec6a7d346a]{
 -- Page 19, Offset 19431.
 -- だが、そちらでは正しい事だ。不釣り合いな場所にいるのなら、不釣り合いな名が必要だろう。
-  Mais dans tes montagnes, c'était un choix approprié. Un nom disproportionné est sans doute nécessaire dans un lieu hors norme.
+　Mais dans tes montagnes, c'était un choix approprié. Un nom disproportionné est sans doute nécessaire dans un lieu hors norme.
 
 }
 [sha:40684793b3df8dfc3a23eda02941a60073a89cbe]{
 -- Page 19, Offset 19432.
 -- 稀少ではあるが、やはり無価値だ。
-  C'est rare, mais cela reste sans valeur.
+　C'est rare, mais cela reste sans valeur.
 
 }
 [sha:bdcef518d0a087421160ed93918afe26d8ce28ba]{
 -- Page 19, Offset 19433.
 -- 全てを肯定する<諦|あきら>めは死に<由来|ゆらい>するものだろう。続くものがない以上、一代かぎりの才能は無価値だ」
-  Le renoncement à l'égo est probablement une conséquence de la mort. Un talent limité à une génération n'a aucune valeur, car personne n'en héritera.」
+　Le renoncement à l'égo est probablement une conséquence de la mort. Un talent limité à une génération n'a aucune valeur, car personne n'en héritera.」
 
 }
 [sha:674b95b2b8dffa6f28d8c25cfc9a5bd04721e7f8]{
@@ -445,48 +445,48 @@ Enfin, il doit être délicat pour toi de comprendre cette relation.
 [sha:7db9839ad662e7e26eababbe2f9e2338a42fc695]{
 -- Page 20, Offset 19435.
 -- 無駄な時間を過ごしたようだ。
-  C'était une perte de temps.
+　C'était une perte de temps.
 
 }
 [sha:ba79a8eb84fa4afa8b6acb054dbd5078dff50971]{
 -- Page 20, Offset 19436.
 -- 今は結ばれているが、いずれ離れていくのは変えようのない結末だ。
-  Vous êtes liés pour le moment, mais vous serez séparés un jour. Ce dénouement est inéluctable.
+　Vous êtes liés pour le moment, mais vous serez séparés un jour. Ce dénouement est inéluctable.
 
 }
 [sha:9ffe1c6275a2b9c054c82a9a0d6df2f7ed9b6aea]{
 -- Page 20, Offset 19437.
 -- では立ち去りたまえ。
-  Tu peux t'en aller.
+　Tu peux t'en aller.
 
 }
 [sha:71ef9af0de8bd029a015a50e9363d1475881465b]{
 -- Page 20, Offset 19438.
 -- 私は死者に用はない。二度と会う事はないだろう」
-  Les morts ne m'intéressent pas. Nous ne nous verrons probablement plus jamais.」
+　Les morts ne m'intéressent pas. Nous ne nous verrons probablement plus jamais.」
 
 }
 [sha:42c2ff913987889f397a05bd94d73303f918402d]{
 -- Page 21, Offset 19439.
 -- 風景が霞んでいく。
-  Sa vue se brouilla.
+　Sa vue se brouilla.
 
 }
 [sha:3717525b644706b664c7e6f0f2acf50eb64d7b09]{
 -- Page 21, Offset 19440.
 -- 記憶が薄れていく。
-  Sa mémoire s'estompa.
+　Sa mémoire s'estompa.
 
 }
 [sha:1d034d40fd3236eb562aa7d6b8ec451ff269f101]{
 -- Page 21, Offset 19441.
 -- 答えのなかった会話。
-  Après cette conversation sans queue ni tête et ces quelques minutes perdues,
+　Après cette conversation sans queue ni tête et ces quelques minutes perdues,
 
 }
 [sha:4e65bc4f41433af27c43787c25ed5d70d63a3380]{
 -- Page 21, Offset 19442.
 -- 意義のなかった時間のあと、全ては夢のように霧散した。
-  tout se dissipa comme au réveil d'un rêve.
+　tout se dissipa comme au réveil d'un rêve.
 
 }

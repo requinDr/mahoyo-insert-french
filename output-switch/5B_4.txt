@@ -1,19 +1,19 @@
 [sha:20d69e0766155cee1c3976cafae0fa07565616d4]{
 -- Page 0, Offset 6853.
 -- チ、チチチ、チ！
-  Cui, cui cui cui, cui !
+　Cui, cui cui cui, cui !
 
 }
 [sha:264363199a3cd716249c43af84122188aa935270]{
 -- Page 0, Offset 6854.
 -- 高度を落として主人の視界に入るなり、かん高く鳴く青い鳥。
-  L'oiseau bleu au cri aigu changea d'altitude et entra dans le champ visuel de sa maîtresse.
+　L'oiseau bleu au cri aigu changea d'altitude et entra dans le champ visuel de sa maîtresse.
 
 }
 [sha:dc8c33c8dabdc4182c377faef86bb64f960706a7]{
 -- Page 0, Offset 6855.
 -- その報告を、少女は無表情で聞いている。
-  Elle écouta son rapport sans montrer la moindre expression.
+　Elle écouta son rapport sans montrer la moindre expression.
 
 }
 [sha:2000035f38b66c54d2ff1745016ffbaf431a0638]{
@@ -25,127 +25,127 @@
 [sha:2f083b833b753efca4c23322e3921db8fbed01a1]{
 -- Page 1, Offset 6857.
 -- 撃つ事、壊す事しか能がなくても、青子の魔力の使い方は並じゃないから。急造の使い魔じゃ、まだ相手にはならないでしょう」
-  Même si elle ne sait qu'attaquer ou détruire, la façon dont Aoko utilise le prana n'est pas commune. Un familier construit à la va-vite ne constitue pas un adversaire sérieux pour elle.」
+　Même si elle ne sait qu'attaquer ou détruire, la façon dont Aoko utilise le prana n'est pas commune. Un familier construit à la va-vite ne constitue pas un adversaire sérieux pour elle.」
 
 }
 [sha:3cd1eac98bcf27b3371a8682d09c4fae97c3b684]{
 -- Page 2, Offset 6858.
 -- チチチ、と羽をすくめる駒鳥。
-  “Cui cui cui”, chanta le rouge-gorge en agitant ses ailes.
+　“Cui cui cui”, chanta le rouge-gorge en agitant ses ailes.
 
 }
 [sha:a33285e5ec58de575301be76c57e6d5a4848f6bd]{
 -- Page 2, Offset 6859.
 -- 青子を<誉|ほ>める有珠を批難しているのか、
-  Soit il critiquait Alice pour avoir complimenté Aoko,
+　Soit il critiquait Alice pour avoir complimenté Aoko,
 
 }
 [sha:1ede48a9715a82d3150715f36c3cd4cdf7d5ed3d]{
 -- Page 2, Offset 6860.
 -- 有珠に誉められる青子に嫉妬しているのか。
-  soit il se sentait jaloux qu'elle l'ait complimentée.
+　soit il se sentait jaloux qu'elle l'ait complimentée.
 
 }
 [sha:12447c9997391f058559719c91ffd72ad206c66a]{
 -- Page 2, Offset 6861.
 -- 主人である有珠にも、いまいち読み取れない鳴き声である。
-  Cette complainte, même sa maîtresse Alice ne pouvait pas très bien la comprendre.
+　Cette complainte, même sa maîtresse Alice ne pouvait pas très bien la comprendre.
 
 }
 [sha:beb185b2636210a3f44d70c42564f442b594ea7f]{
 -- Page 3, Offset 6862.
 -- 蒼崎青子は半人前の魔術師だ。
-  Aozaki Aoko était une Mage novice.
+　Aozaki Aoko était une Mage novice.
 
 }
 [sha:2e5eb94ce23366220294a58ac21885011432662f]{
 -- Page 3, Offset 6863.
 -- 二年前まで魔術とは無関係に育ってきた少女で、生まれた時から魔女として育った有珠とは素質も経験も違いすぎる。
-  Elle avait été élevée à l'écart de la Magie jusqu'à deux ans auparavant, et de fait, son talent et son expérience s'avéraient bien trop inférieurs à ceux d'Alice, élevée en tant que sorcière depuis sa naissance.
+　Elle avait été élevée à l'écart de la Magie jusqu'à deux ans auparavant, et de fait, son talent et son expérience s'avéraient bien trop inférieurs à ceux d'Alice, élevée en tant que sorcière depuis sa naissance.
 
 }
 [sha:37cd943e59ce225cabd7543f8a8f2d0e50c9b179]{
 -- Page 3, Offset 6864.
 -- 本来なら相手にすらしない次元。
-  En principe, elle se trouvait dans une dimension qui ne lui permettait même pas d'être son adversaire.
+　En principe, elle se trouvait dans une dimension qui ne lui permettait même pas d'être son adversaire.
 
 }
 [sha:2327e29afa16f972b711e5decd5c1c4d3903f895]{
 -- Page 3, Offset 6865.
 -- 魔術の腕を競うなら十回中十回、有珠に軍配があがるだろう。
-  Si on comparait uniquement leurs talents de Mage, la victoire était assurée dix fois sur dix pour Alice.
+　Si on comparait uniquement leurs talents de Mage, la victoire était assurée dix fois sur dix pour Alice.
 
 }
 [sha:2686d0da7dd320a07c4d899c71e746d575670226]{
 -- Page 4, Offset 6866.
 -- けれど、こと戦い、殺し合いなら話は別だ。
-  Mais dans une bataille, un combat à mort, la donne changeait du tout au tout.
+　Mais dans une bataille, un combat à mort, la donne changeait du tout au tout.
 
 }
 [sha:7907aece8bc34246ad3e393ec073ced6b9eebc21]{
 -- Page 4, Offset 6867.
 -- 久遠寺有珠は戦闘向きの魔術師ではなく、
-  Kuonji Alice n'était pas une Mage adaptée au combat,
+　Kuonji Alice n'était pas une Mage adaptée au combat,
 
 }
 [sha:28ebe13447bed45b6789008c3c832b6db979fa4d]{
 -- Page 4, Offset 6868.
 -- 蒼崎青子は戦いに特化した壊し屋である。
-  et Aozaki Aoko était une démolisseuse spécialisée dans les combats.
+　et Aozaki Aoko était une démolisseuse spécialisée dans les combats.
 
 }
 [sha:225e5b99f405144fe6b087b7873d7c66bad98ebe]{
 -- Page 4, Offset 6869.
 -- 純粋な魔力勝負では青子の方が上だろう、と有珠は認めてさえいる。
-  Alice allait même jusqu'à reconnaître que dans un pur match de prana, Aoko lui était certainement supérieure.
+　Alice allait même jusqu'à reconnaître que dans un pur match de prana, Aoko lui était certainement supérieure.
 
 }
 [sha:7f1b26e4c6678cc8ce790233ecd96abd905e3107]{
 -- Page 5, Offset 6870.
 -- 青子は魔力の使い方が抜群に上手い。
-  Aoko excellait dans la manière d'utiliser son prana.
+　Aoko excellait dans la manière d'utiliser son prana.
 
 }
 [sha:8c7cf2235477d6903863d815d1bea3b1d9600de5]{
 -- Page 5, Offset 6871.
 -- 魔術回路の規模は有珠より小さいが、回路の回転の速さ、その耐久構造、魔力の質、燃費の良さが並はずれている。
-  Son Circuit Magique était plus petit que celui d'Alice, mais sa vitesse de rotation, sa structure résistante, la qualité de son prana et sa faible consommation s'avéraient exceptionnelles.
+　Son Circuit Magique était plus petit que celui d'Alice, mais sa vitesse de rotation, sa structure résistante, la qualité de son prana et sa faible consommation s'avéraient exceptionnelles.
 
 }
 [sha:81c9c7dcd3993a52f6438b80ad7294e34b4f099f]{
 -- Page 5, Offset 6872.
 -- それが蒼崎青子の特性だ。
-  C'était la particularité d'Aozaki Aoko.
+　C'était la particularité d'Aozaki Aoko.
 
 }
 [sha:38802bdf4c2d8c6024adb6546efef6c53139e0d3]{
 -- Page 5, Offset 6873. Mods: @n.
 -- 高度な魔術式は凡百に落ちるが、
-  Son talent pour les sorts complexes était médiocre,
+　Son talent pour les sorts complexes était médiocre,
 
 }
 [sha:bbebc50203bc3c06da92f95f525f5aa80843df47]{
 -- Page 5, Offset 6874. Glued.
 -- 魔力を流動させるだけの単純な魔術式なら、わずか二年の実践で有珠を上回っている。
-  mais dans les sorts de base qu'elle n'avait qu'à alimenter en prana, elle avait dépassé Alice après avoir pratiqué la Magie pendant à peine deux ans.
+　mais dans les sorts de base qu'elle n'avait qu'à alimenter en prana, elle avait dépassé Alice après avoir pratiqué la Magie pendant à peine deux ans.
 
 }
 [sha:a2159835b9fd33ad48e03057458e57a9de959b42]{
 -- Page 6, Offset 6875.
 -- ……天才的なノリの良さと勘の良さ。
-  ...... Un travail acharné de génie et une excellente intuition.
+　...... Un travail acharné de génie et une excellente intuition.
 
 }
 [sha:b9853259c6142eeca31e6cda19ad1b0633adaad4]{
 -- Page 6, Offset 6876.
 -- 彼女の魔術行使は強いのではなく、おそろしく“速い”のだ。
-  Elle n'était pas spécialement douée pour utiliser la Magie, mais plutôt incroyablement “rapide”.
+　Elle n'était pas spécialement douée pour utiliser la Magie, mais plutôt incroyablement “rapide”.
 
 }
 [sha:2b9fe9b218e24f086fb4cd47bf2783e6e2f749dd]{
 -- Page 6, Offset 6877.
 -- 蒼崎の家になんて生まれなければ、天才的な射撃手として名を<馳|は>せたに違いない。
-  Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgé une réputation d'as de la gâchette.
+　Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgé une réputation d'as de la gâchette.
 
 }
 [sha:1f0bbffd9b78e7c5b5e8d3d7761dc9c20bb3485b]{
@@ -157,25 +157,25 @@
 [sha:2b02f5d189546169c17bdc67caea03c20cc0f514]{
 -- Page 7, Offset 6879.
 -- 正面から撃ちあえば有珠に勝ち目はない。
-  Si elles se battaient en face à face, Alice n'aurait aucune chance de victoire.
+　Si elles se battaient en face à face, Alice n'aurait aucune chance de victoire.
 
 }
 [sha:f97ae7e0c5118dc1159a044dc5d33fe846ec4c25]{
 -- Page 7, Offset 6880.
 -- 否、そもそも魔弾などという原始的な魔術を、久遠寺有珠は習得していない。
-  Non, en premier lieu, Kuonji Alice ne possédait pas de sorts primitifs tels que les balles de prana.
+　Non, en premier lieu, Kuonji Alice ne possédait pas de sorts primitifs tels que les balles de prana.
 
 }
 [sha:ca220fea1fa2b9049bfa0c2f9086d1892f91354d]{
 -- Page 7, Offset 6881.
 -- 彼女は典型的な人形師。
-  Elle était une marionnettiste typique.
+　Elle était une marionnettiste typique.
 
 }
 [sha:81f47975f05e8cf4cd125a2799e6fa8e936e647c]{
 -- Page 7, Offset 6882.
 -- 戦闘はすべて、手足となる使い魔が行うことだ。
-  Ses familiers menaient entièrement le combat, en devenant ses bras et ses jambes.
+　Ses familiers menaient entièrement le combat, en devenant ses bras et ses jambes.
 
 }
 [sha:7c610ef52ce76542c79a116f4aee1e251ab861f7]{
@@ -187,30 +187,30 @@
 [sha:56573ffa5390a2739b15d1769a0f5d057601f853]{
 -- Page 8, Offset 6884.
 -- 魔力はいくらでも貸してあげるけど―――貴女の魔弾は、あと半刻で<値崩|ねくず>れするわ」
-  Je peux te fournir autant de prana que tu le désires, mais―――dans moins d'une demi-heure, tes balles de prana auront perdu toute leur puissance.」
+　Je peux te fournir autant de prana que tu le désires, mais―――dans moins d'une demi-heure, tes balles de prana auront perdu toute leur puissance.」
 
 }
 [sha:927298a66e5b35d471a6008addf585f827ba585a]{
 -- Page 9, Offset 6885.
 -- チチチ、と<頷|うなず>くようにさえずって飛び立つ駒鳥。
-  “Cui cui cui”, gazouilla le rouge-gorge comme pour acquiescer, avant de prendre son envol.
+　“Cui cui cui”, gazouilla le rouge-gorge comme pour acquiescer, avant de prendre son envol.
 
 }
 [sha:dd53084dbc831b25004c30322c22fc8da9255fce]{
 -- Page 9, Offset 6886.
 -- 遊園地が少女の支配下に<陥|おちい>ってからじき十分。
-  Cela ferait bientôt dix minutes que le parc d'attractions était tombé entre les mains de la jeune fille.
+　Cela ferait bientôt dix minutes que le parc d'attractions était tombé entre les mains de la jeune fille.
 
 }
 [sha:b9cbabe303e4df29690c25f646e0f93690e54cae]{
 -- Page 9, Offset 6887.
 -- <緑|みどり>色の霧が何を生み出すものなのか。
-  À quoi le brouillard vert avait-il donné naissance ?
+　À quoi le brouillard vert avait-il donné naissance ?
 
 }
 [sha:e0c273c3414422389c21362b8d2333d28e36442c]{
 -- Page 9, Offset 6888.
 -- 地上を走る青子たちも、そろそろ事の深刻さに気が付く頃だった。
-  Aoko et Sōjūrō, en train de courir sur la terre ferme, n'allaient pas tarder à se rendre compte de la gravité de la situation.
+　Aoko et Sōjūrō, en train de courir sur la terre ferme, n'allaient pas tarder à se rendre compte de la gravité de la situation.
 
 }

@@ -1,7 +1,7 @@
 [sha:cc9b462a74b4fe788b266d86ba68b4af08c7be07]{
 -- Page 0, Offset 8417.
 -- 一日の仕事を終え、草十郎は洋館に戻ってきた。
-  Après avoir fini son travail de la journée, Sōjūrō rentra au manoir.
+　Après avoir fini son travail de la journée, Sōjūrō rentra au manoir.
 
 }
 [sha:0df37ba6ab68dd39e744a24711b8de499129ffb7]{
@@ -13,13 +13,13 @@
 [sha:3afed2c97494559f7222f953d957a134d8494e3f]{
 -- Page 0, Offset 8419.
 -- 日付も替わろうとする零時前。
-  Juste avant minuit, alors qu'un nouveau jour était sur le point de débuter,
+　Juste avant minuit, alors qu'un nouveau jour était sur le point de débuter,
 
 }
 [sha:e22cce0e38ec8f29139bed198a2ef3082a7507c4]{
 -- Page 0, Offset 8420.
 -- くたびれた階段の先には、このような景色が広がっていた。
-  un spectacle insolite l'attendait en haut des escaliers usés.
+　un spectacle insolite l'attendait en haut des escaliers usés.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -31,31 +31,31 @@
 [sha:86661fc7b187ffb58defea84a9b0611232e31511]{
 -- Page 1, Offset 8422.
 -- たいていのコトには驚かない……もう驚きなれてしまった……草十郎をして、それは、言葉を失う光景だった。
-  Il n'y avait pas grand-chose qui le surprenait...... ou plutôt, il était déjà habitué à être surpris...... et pourtant, Sōjūrō perdit ses mots devant ce spectacle.
+　Il n'y avait pas grand-chose qui le surprenait...... ou plutôt, il était déjà habitué à être surpris...... et pourtant, Sōjūrō perdit ses mots devant ce spectacle.
 
 }
 [sha:895c76db61ce5f706f00a65581b745a8b944fbd4]{
 -- Page 2, Offset 8423.
 -- 草十郎にあてがわれた部屋は、
-  La chambre qui lui avait été allouée était,
+　La chambre qui lui avait été allouée était,
 
 }
 [sha:c7c3433a180fb4208adba63133bc4ae895e61563]{
 -- Page 2, Offset 8424.
 -- どこをどう見ても、
-  à tous points de vue,
+　à tous points de vue,
 
 }
 [sha:06af4d3d86e326bab70f06e2d1e8601be6fe5ee6]{
 -- Page 2, Offset 8425.
 -- 何をとりつくろうとも、
-  malgré toute la bonne volonté du monde,
+　malgré toute la bonne volonté du monde,
 
 }
 [sha:1040ddca384098c9863e71d442c1902e402d3b72]{
 -- Page 2, Offset 8426.
 -- まがうことなき屋根裏部屋でした。
-  et sans erreur possible, un grenier.
+　et sans erreur possible, un grenier.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -67,19 +67,19 @@
 [sha:b78effbbd506ea24f36d0ea77587a1eaf63aaf1f]{
 -- Page 3, Offset 8428.
 -- むう、と己の<処遇|しょぐう>に<一抹|いちまつ>の不安を覚える。
-  Il était rongé d'inquiétude à l'idée du sort qu'on lui réservait.
+　Il était rongé d'inquiétude à l'idée du sort qu'on lui réservait.
 
 }
 [sha:f12a18b4fc70830250106a69540a8ffa069619f7]{
 -- Page 3, Offset 8429.
 -- ただでさえ気の重いことばかりなのに、こんなんでやっていけるのかな、とシーツの敷かれたベッドに倒れこもうとした時、
-  Alors qu'il allait s'effondrer sur le lit recouvert d'un drap, en se demandant s'il pourrait tenir encore longtemps avec tout ce qui lui arrivait,
+　Alors qu'il allait s'effondrer sur le lit recouvert d'un drap, en se demandant s'il pourrait tenir encore longtemps avec tout ce qui lui arrivait,
 
 }
 [sha:f435d8294541d6c140721c118bbd9c1ca880ab9f]{
 -- Page 3, Offset 8430.
 -- ささやかすぎて役に立たない、ちぐはぐな気遣いがあった。
-  il découvrit une surprenante marque de sollicitude, bien qu'assez négligeable et superflue.
+　il découvrit une surprenante marque de sollicitude, bien qu'assez négligeable et superflue.
 
 }
 [sha:882955dc1dc44d28dde1a097f948093356cbf815]{
@@ -91,61 +91,61 @@
 [sha:03c3af2895c793725bd018a39da719014e6d5a36]{
 -- Page 4, Offset 8432.
 -- メモにある文字は、几帳面な性格がにじみ出ている。
-  Ce mémo laissait transparaître le caractère méticuleux de son auteur.
+　Ce mémo laissait transparaître le caractère méticuleux de son auteur.
 
 }
 [sha:70f12b8091387432aef44b48bcf7605b4e6e321a]{
 -- Page 4, Offset 8433.
 -- 布団は十分用意されていた。
-  Le lit était soigneusement préparé.
+　Le lit était soigneusement préparé.
 
 }
 [sha:8c9fc19ce829c169737f859c8ac1275f2a50cd8c]{
 -- Page 4, Offset 8434.
 -- その上で、念のためにと置かれた毛布を大事そうに<端|はし>にどけて、草十郎は空を仰いだ。
-  Sōjūrō déplaça précautionneusement dans un coin la couverture laissée sur le lit au cas où et leva les yeux.
+　Sōjūrō déplaça précautionneusement dans un coin la couverture laissée sur le lit au cas où et leva les yeux.
 
 }
 [sha:44903f2a0972a7c6176a1a43565660612db2acd5]{
 -- Page 5, Offset 8435.
 -- おぼろげではあるが、天窓には星が<瞬|またた>いている。
-  Les étoiles étaient floues mais scintillaient à travers la lucarne.
+　Les étoiles étaient floues mais scintillaient à travers la lucarne.
 
 }
 [sha:d069e71ae57d9457bab74608a53032c549251cf9]{
 -- Page 5, Offset 8436.
 -- 山育ちである彼にすれば、不満はあれ十分な明かりといえる。
-  Ayant grandi à la montagne, même s'il y avait matière à protestation, l'éclairage lui suffisait amplement.
+　Ayant grandi à la montagne, même s'il y avait matière à protestation, l'éclairage lui suffisait amplement.
 
 }
 [sha:e7c4b6eb708952c36ba5fcd22aee6c60d1328d59]{
 -- Page 5, Offset 8437.
 -- 居間との格差から面食らってしまったが、冷静になれば落胆するコトでもない。
-  Le contraste avec le salon l'avait déstabilisé, mais maintenant qu'il s'était calmé, il réalisait que ça ne méritait pas un tel découragement.
+　Le contraste avec le salon l'avait déstabilisé, mais maintenant qu'il s'était calmé, il réalisait que ça ne méritait pas un tel découragement.
 
 }
 [sha:86d3d78fcffd40b284e716f09fe241f92fb7f8b4]{
 -- Page 6, Offset 8438.
 -- この部屋はこの部屋で彼の性格に合っているのだし。
-  Et puis, cette chambre correspondait bien à son tempérament.
+　Et puis, cette chambre correspondait bien à son tempérament.
 
 }
 [sha:98252f95571af357c2b70c7fbc8bd68ffa5f0112]{
 -- Page 6, Offset 8439.
 -- いまだ勝手の分からない建物だとしても、町の建物よりは安心できた。
-  Même s'il connaissait mal l'édifice où il se trouvait, ce dernier l'effrayait moins que les immeubles de la ville.
+　Même s'il connaissait mal l'édifice où il se trouvait, ce dernier l'effrayait moins que les immeubles de la ville.
 
 }
 [sha:0a7822243869b6981a831530886de77542869079]{
 -- Page 6, Offset 8440.
 -- 丘の上、森の中に建っているからだろう。
-  Sûrement parce qu'il était niché au cœur de la forêt sur une colline.
+　Sûrement parce qu'il était niché au cœur de la forêt sur une colline.
 
 }
 [sha:c3e3e59ad11fa8d23a90fedb219974c5a8038c11]{
 -- Page 6, Offset 8441.
 -- ここは少しだけ彼の住んでいた山の空気に近いのだ。
-  D'une certaine façon, l'atmosphère de cet endroit lui rappelait la montagne dans laquelle il avait vécu.
+　D'une certaine façon, l'atmosphère de cet endroit lui rappelait la montagne dans laquelle il avait vécu.
 
 }
 [sha:64a50dc56b34b19203d9bc6e73477d8f04707727]{
@@ -157,31 +157,31 @@
 [sha:68d7e9dc2d367e1772b0e45f80ec7711cacc5808]{
 -- Page 7, Offset 8443.
 -- 先ほどの光景を思い返して首をかしげる。
-  Il se rappela du spectacle dont il venait d'être témoin et qui le laissait songeur.
+　Il se rappela du spectacle dont il venait d'être témoin et qui le laissait songeur.
 
 }
 [sha:9f1d2b0db0a8fcc5c2c297a09b67bd2d579199a7]{
 -- Page 7, Offset 8444.
 -- 草十郎はここに来る途中、二階のホールで霧らしきものを見かけていた。
-  Sur le chemin menant jusqu'à sa chambre, il avait aperçu une sorte de brume dans le couloir du premier étage.
+　Sur le chemin menant jusqu'à sa chambre, il avait aperçu une sorte de brume dans le couloir du premier étage.
 
 }
 [sha:238778a8654cd7416c1d3620bba4a9f4efffd45c]{
 -- Page 8, Offset 8445.
 -- 白い霧は廊下の一部分にだけ漂っていて、<藪蚊|やぶか>の群を思わせた。
-  Le brouillard blanchâtre ne flottait que dans une partie du couloir et lui avait rappelé un essaim de moustiques.
+　Le brouillard blanchâtre ne flottait que dans une partie du couloir et lui avait rappelé un essaim de moustiques.
 
 }
 [sha:a07b066642df43f7618abfd55a3c7dce0f1a5677]{
 -- Page 8, Offset 8446.
 -- じっと見ていると、おかしな風景が見えた気がして近寄ったのだが、
-  Après l'avoir fixé longuement, il avait cru voir un paysage étrange et s'était donc rapproché,
+　Après l'avoir fixé longuement, il avait cru voir un paysage étrange et s'était donc rapproché,
 
 }
 [sha:3030ddbbebdbeef960788f3dfabf2cc881482fc4]{
 -- Page 8, Offset 8447.
 -- これまたとつぜん、不自然なことに青い小鳥が目の前を横切ったのだ。館内で。
-  mais bizarrement, le petit oiseau bleu avait soudainement traversé son champ de vision. Et pourtant, il se trouvait dans un manoir.
+　mais bizarrement, le petit oiseau bleu avait soudainement traversé son champ de vision. Et pourtant, il se trouvait dans un manoir.
 
 }
 [sha:dcaa91065ceb0b42c609619c3341a14e2f1aa324]{
@@ -193,13 +193,13 @@
 [sha:74387184949f015373b0cce881fbb98fbcbee12e]{
 -- Page 9, Offset 8449.
 -- 小鳥に気を取られて立ち止まる。
-  Distrait par le petit oiseau, il s'était arrêté.
+　Distrait par le petit oiseau, il s'était arrêté.
 
 }
 [sha:7d18cd6f4c11b3c5fecfd05e7d164356d28d1172]{
 -- Page 9, Offset 8450.
 -- もう一度霧を見ると、おかしな風景は消えていた。
-  Lorsqu'il avait de nouveau regardé le brouillard, le paysage étrange s'était estompé.
+　Lorsqu'il avait de nouveau regardé le brouillard, le paysage étrange s'était estompé.
 
 }
 [sha:5316102d2fe1592176a6184496521b2d43333183]{
@@ -211,19 +211,19 @@
 [sha:96bdb5b0590e07a62e8a29e0a7cb4dfd0cacc73f]{
 -- Page 10, Offset 8452.
 -- 明日、蒼崎に訊いてみるか」
-  Je poserai demain la question à Aozaki.」
+　Je poserai demain la question à Aozaki.」
 
 }
 [sha:7f0d2a63a699fc37840288170601f30e26cadb65]{
 -- Page 10, Offset 8453.
 -- ベッドに腰掛けながら呟く。
-  murmura-t-il tout en s'asseyant sur le lit.
+　murmura-t-il tout en s'asseyant sur le lit.
 
 }
 [sha:08f3165fc35c8d91cf550efd3e89f4bd9148fdf6]{
 -- Page 10, Offset 8454.
 -- 天窓から<覗|のぞ>く星の光は、ささやかではあるが気持ちを落ち着かせてくれた。
-  La lueur des étoiles passant à travers la lucarne était faible mais l'apaisait.
+　La lueur des étoiles passant à travers la lucarne était faible mais l'apaisait.
 
 }
 [sha:ab3d2c335d3add1e1c60c276f8b7b5689df198d0]{
@@ -235,103 +235,103 @@
 [sha:e108cfdae797016e54d2757c21cada7673c57dcb]{
 -- Page 11, Offset 8456.
 -- ほう、と息を吐いてベッドに体を預ける。
-  Il poussa un soupir et se laissa tomber sur le lit.
+　Il poussa un soupir et se laissa tomber sur le lit.
 
 }
 [sha:cd292d4bd31cc760aee1e0563b59d8e0692d1c07]{
 -- Page 11, Offset 8457.
 -- とりあえず衣食住はあるのだし、ベッドは見た目より何倍も柔らかいし。
-  Pour le moment, il avait le gîte et le couvert, et le lit était bien plus doux qu'il n'y paraissait.
+　Pour le moment, il avait le gîte et le couvert, et le lit était bien plus doux qu'il n'y paraissait.
 
 }
 [sha:a4f05dfb00852a95368d5d1102857df4bae080f4]{
 -- Page 11, Offset 8458.
 -- 心配事はあまりないな、と草十郎は速やかに眠りに落ちていった。
-  Sōjūrō plongea rapidement dans le sommeil, en pensant qu'il n'avait pas tant de soucis que ça.
+　Sōjūrō plongea rapidement dans le sommeil, en pensant qu'il n'avait pas tant de soucis que ça.
 
 }
 [sha:050e5b7cc660798b23129c2696e3c5ceab1983f4]{
 -- Page 12, Offset 8459.
 -- 以上が、彼の目覚めてから眠るまでの話。
-  Voilà ce qui s'était passé entre son réveil et le moment où il s'était rendormi.
+　Voilà ce qui s'était passé entre son réveil et le moment où il s'était rendormi.
 
 }
 [sha:c1bdcd4996b2b91260cd4f99000e014eda1a46c1]{
 -- Page 12, Offset 8460.
 -- 長い夜のあとの、短い夜はこうして終わった。
-  Cette courte soirée qui avait succédé à l'interminable nuit se termina ainsi.
+　Cette courte soirée qui avait succédé à l'interminable nuit se termina ainsi.
 
 }
 [sha:2eed2093249544cfb2c07a77846adec652e9e695]{
 -- Page 12, Offset 8461.
 -- ……どうあれ。
-  ...... En tout cas,
+　...... En tout cas,
 
 }
 [sha:581af567dcd89d63d6392767488374b8552c7adb]{
 -- Page 12, Offset 8462.
 -- 楽観的すぎるけれど、やっていけない事はなさそうだ。
-  il était bien optimiste, mais ça ne lui semblait pas insurmontable.
+　il était bien optimiste, mais ça ne lui semblait pas insurmontable.
 
 }
 [sha:771bcf38b92578e93374024c568fde45a7f26f07]{
 -- Page 13, Offset 8463.
 -- そんな、踏まれても踏まれても応えない<天然草|てんねんそう>の話から、時間は五時間ほどさかのぼる。
-  Remontons cinq heures avant que ce simplet, indifférent à tout mauvais traitement, n'aille se coucher.
+　Remontons cinq heures avant que ce simplet, indifférent à tout mauvais traitement, n'aille se coucher.
 
 }
 [sha:37f07c8cc2d7eacc2a4c950664dfd9f3caa0a9c0]{
 -- Page 14, Offset 8464.
 -- 魔術師の当事者ふたりと、おまけの少年の不毛な話し合いが終わった午後七時。
-  À sept heures du soir, lorsque venait de se terminer la conversation stérile entre les deux Mages à propos du garçon.
+　À sept heures du soir, lorsque venait de se terminer la conversation stérile entre les deux Mages à propos du garçon.
 
 }
 [sha:6d2d3e8d00a8ff70f3254caf16d30384d03bdfad]{
 -- Page 14, Offset 8465.
 -- 居間に<同居人|あおこ>と<闖入者|そうじゅうろう>を残したまま、少女はひとりロビーを歩いていた。
-  Laissant sa colocataire et l'intrus dans le salon, elle marchait seule dans le vestibule.
+　Laissant sa colocataire et l'intrus dans le salon, elle marchait seule dans le vestibule.
 
 }
 [sha:9a4b320ec168b754cb7fd958dc4f78a918329b8e]{
 -- Page 14, Offset 8466.
 -- 向かう先は館の西館。
-  Kuonji Alice se dirigeait vers l'aile ouest du manoir,
+　Kuonji Alice se dirigeait vers l'aile ouest du manoir,
 
 }
 [sha:12d0ae88d34c5ac489bc0e3df7d00ff0325635e4]{
 -- Page 14, Offset 8467.
 -- 同居人である蒼崎青子でさえ滅多に足を踏み入れない、久遠寺有珠の居住区である。
-  ses quartiers privés dans lesquels même sa partenaire, Aozaki Aoko, ne pénétrait pas de manière irréfléchie.
+　ses quartiers privés dans lesquels même sa partenaire, Aozaki Aoko, ne pénétrait pas de manière irréfléchie.
 
 }
 [sha:88931db8626c950ce5b55dc8620b1a7df0ad5464]{
 -- Page 15, Offset 8468.
 -- 月明かりだけのロビー。
-  Dans le vestibule éclairé par le seul clair de lune,
+　Dans le vestibule éclairé par le seul clair de lune,
 
 }
 [sha:23277aaf3a96b511617a5cae7de7bdb8508a2dd4]{
 -- Page 15, Offset 8469.
 -- 寒々しい明かりの下、硬い足音が<木霊|こだま>している。
-  les bruits secs de ses pas résonnaient sous la lugubre lueur.
+　les bruits secs de ses pas résonnaient sous la lugubre lueur.
 
 }
 [sha:c74882255bc983603d8188073a26032e3985247f]{
 -- Page 15, Offset 8470.
 -- 洋風の屋敷では靴を脱ぐ習慣はない。
-  Dans une demeure de style occidental, il n'était pas de coutume de retirer ses chaussures.
+　Dans une demeure de style occidental, il n'était pas de coutume de retirer ses chaussures.
 
 }
 [sha:a0ec40a3dac64d679f89ad8be14511893776d336]{
 -- Page 15, Offset 8471.
 -- 有珠はブーツのままロビーを横断する。
-  Alice traversa le vestibule en bottes.
+　Alice traversa le vestibule en bottes.
 
 }
 [sha:bc5045f43c6c93aee6acf9145c7b6a8779dbbdcd]{
 -- Page 15, Offset 8472.
 -- 彼女が靴を脱ぐのは寝室で休む時だけだ。
-  Elle ne retirait ses chaussures que lorsqu'elle dormait dans sa chambre à coucher.
+　Elle ne retirait ses chaussures que lorsqu'elle dormait dans sa chambre à coucher.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -343,19 +343,19 @@
 [sha:89dcf7c190ba17478238a1954349156105ba7b2a]{
 -- Page 16, Offset 8474.
 -- ……ふと、有珠は子供の頃の出来事を思い出した。
-  ...... Fortuitement, Alice se remémora un évènement de son enfance.
+　...... Fortuitement, Alice se remémora un évènement de son enfance.
 
 }
 [sha:6cd6f4ae7d2dd8fb3bbe3c803586f919d785882e]{
 -- Page 16, Offset 8475.
 -- 冷たい床の感覚を楽しみたくて、日射しの強い日は裸足でこのロビーを歩いた。
-  Les jours où le soleil tapait fort, comme elle voulait profiter de la fraîcheur du sol, elle marchait dans le vestibule pieds nus.
+　Les jours où le soleil tapait fort, comme elle voulait profiter de la fraîcheur du sol, elle marchait dans le vestibule pieds nus.
 
 }
 [sha:2a5a181b71620cbddee0fcdd7aff05b49cb1779a]{
 -- Page 16, Offset 8476.
 -- それを父に優しく<咎|とが>められて以来、彼女は裸足で歩く事はなくなったのだが―――
-  Depuis que son père l'avait grondée gentiment, elle avait cessé de le faire, mais―――
+　Depuis que son père l'avait grondée gentiment, elle avait cessé de le faire, mais―――
 
 }
 [sha:60450f78c500400497b2d9e035c97bcbffc6bebf]{
@@ -367,13 +367,13 @@
 [sha:2c5066378ccb079aff90fb296a9550827175ce9f]{
 -- Page 17, Offset 8478.
 -- かすかなため息がもれる。
-  Un faible soupir lui échappa.
+　Un faible soupir lui échappa.
 
 }
 [sha:6596c0272ae55030140335beeae9d1553316d4e7]{
 -- Page 17, Offset 8479.
 -- 日本に来てから得た新しい同居人は、有珠の言いつけには従わなかった。
-  La nouvelle colocataire qu'elle s'était faite après être venue au Japon n'avait suivi aucune de ses instructions.
+　La nouvelle colocataire qu'elle s'était faite après être venue au Japon n'avait suivi aucune de ses instructions.
 
 }
 [sha:3a9c1a9221618be04eb27370be6bec69ba30aad0]{
@@ -385,43 +385,43 @@
 [sha:c5fb547cd00df79474739cb9b1b45d25776215f6]{
 -- Page 18, Offset 8481.
 -- と、青子はスリッパに履き替える事がある。
-  avait dit une fois Aoko en enfilant des pantoufles.
+　avait dit une fois Aoko en enfilant des pantoufles.
 
 }
 [sha:c8e3fe330ee84ecbb7ca16aba335980ec019b910]{
 -- Page 18, Offset 8482.
 -- 中学生まで一般家屋で暮らしていた青子にすれば自然なのだろうが、あのペタペタいう足音でロビーを移動される度に、有珠は彼女との共同生活を破棄したくなったものだ。
-  Ayant vécu jusqu'au collège dans une maison ordinaire, c'était naturel pour Aoko, mais à chaque fois qu'elle se déplaçait dans le vestibule en claquant des semelles, Alice avait envie de mettre un terme à leur cohabitation.
+　Ayant vécu jusqu'au collège dans une maison ordinaire, c'était naturel pour Aoko, mais à chaque fois qu'elle se déplaçait dans le vestibule en claquant des semelles, Alice avait envie de mettre un terme à leur cohabitation.
 
 }
 [sha:0c89c21d0470cdf5163c53c0225319b082862212]{
 -- Page 19, Offset 8483.
 -- それも今ではさして気にはならない。
-  Maintenant, ça ne la dérangeait plus tant que ça.
+　Maintenant, ça ne la dérangeait plus tant que ça.
 
 }
 [sha:d0582eeb1dae5fc8711652de8251820b3c21febe]{
 -- Page 19, Offset 8484.
 -- 人間の順応性は時に優秀で、不義理だ。
-  L'adaptation humaine était parfois excellente et cruelle.
+　L'adaptation humaine était parfois excellente et cruelle.
 
 }
 [sha:a7bc89a6a9da895faac44762c813cd8ca0154905]{
 -- Page 19, Offset 8485.
 -- 現実の<忙|いそが>しさの前には、昔からの思い入れなんて<脆|もろ>すぎる。
-  Face aux tâches du quotidien, les attachements qu'Alice avait toujours éprouvés par le passé étaient bien fragiles.
+　Face aux tâches du quotidien, les attachements qu'Alice avait toujours éprouvés par le passé étaient bien fragiles.
 
 }
 [sha:a23d07e861256ace896db57b912559dadaffa879]{
 -- Page 20, Offset 8486.
 -- 階段の手すりには青い小鳥が止まっていた。
-  Le petit oiseau bleu était perché sur la rampe de l'escalier.
+　Le petit oiseau bleu était perché sur la rampe de l'escalier.
 
 }
 [sha:509a7d0a46a6c7fc4698f400155a2969a715ae95]{
 -- Page 20, Offset 8487.
 -- 小さな鳴き声に、少女は足を止めて視線を向ける。
-  Lorsqu'elle entendit le petit gazouillis, elle s'arrêta et tourna son regard vers lui.
+　Lorsqu'elle entendit le petit gazouillis, elle s'arrêta et tourna son regard vers lui.
 
 }
 [sha:902135c28cfb01a6acd1329f48d3e0f688ae4cef]{
@@ -433,19 +433,19 @@
 [sha:75c8db343eb65fd1e3ba1a475b497f1833458a12]{
 -- Page 21, Offset 8489.
 -- 感情の乏しい声に、小鳥は首をかしげながら鳴いた。
-  L'oiseau gazouilla d'un air perplexe en réponse à la voix d'Alice ne laissant transparaître aucune émotion.
+　L'oiseau gazouilla d'un air perplexe en réponse à la voix d'Alice ne laissant transparaître aucune émotion.
 
 }
 [sha:82e494a9d164bc9ffd48f78755a6aab28dc706ce]{
 -- Page 21, Offset 8490.
 -- チチチ、と。
-  Cui cui cui.
+　Cui cui cui.
 
 }
 [sha:4b12b6eb6f5bcc80ae35880093b30e76e923c3d3]{
 -- Page 21, Offset 8491.
 -- いつもの<主人|アリス>からは考えつかない、懐の深さを<訝|いぶか>しむように。
-  Comme s'il ne pouvait pas croire en son indulgence, impensable pour la maîtresse qu'il connaissait.
+　Comme s'il ne pouvait pas croire en son indulgence, impensable pour la maîtresse qu'il connaissait.
 
 }
 [sha:e56a970b846f9b1a5f64c7a99db71e17e73c3b74]{
@@ -457,13 +457,13 @@
 [sha:52f3efe20b23cdb77195d1d3824326b62e38a05c]{
 -- Page 22, Offset 8493.
 -- ……青子と彼は、それだけの活躍をしたのだし」
-  ...... Leurs efforts méritent bien cela.」
+　...... Leurs efforts méritent bien cela.」
 
 }
 [sha:abfe659a01d62ecc7b8992a221ff060959b01bbb]{
 -- Page 22, Offset 8494.
 -- 小鳥に言い聞かせる声は、内容とは裏腹に不機嫌気味だ。
-  Dans la voix qui faisait entendre raison au petit oiseau, on pouvait déceler un mécontentement exprimant l'opposé de ce qu'elle disait.
+　Dans la voix qui faisait entendre raison au petit oiseau, on pouvait déceler un mécontentement exprimant l'opposé de ce qu'elle disait.
 
 }
 [sha:ec592e8fd36937371d2ac4b32dcd369e22a6ebff]{
@@ -475,7 +475,7 @@
 [sha:ac4da6d27b25303f8817be476ded6d8250c8fc61]{
 -- Page 22, Offset 8496.
 -- その約束を守ってはいるものの、少女の胸には消しがたい戦意が灯っている。
-  Elle respectait cette promesse, mais dans sa poitrine brûlait un feu inextinguible.
+　Elle respectait cette promesse, mais dans sa poitrine brûlait un feu inextinguible.
 
 }
 [sha:7d78c11a018d0082bb2f8e6125369a9b3f9e5ff2]{
@@ -487,61 +487,61 @@
 [sha:9eb7976cc375dc42b8a75f8a64122a844b3d5719]{
 -- Page 23, Offset 8498.
 -- 条件付きのゲームに勝ったぐらいで、いつまでも得意げでいられるのは心外だわ」
-  Ça m'agace prodigieusement qu'elle affiche en permanence un air triomphant juste parce qu'elle a gagné à un jeu sous conditions.」
+　Ça m'agace prodigieusement qu'elle affiche en permanence un air triomphant juste parce qu'elle a gagné à un jeu sous conditions.」
 
 }
 [sha:59497cbaf106a07a3fd6d0683749983a1ecafbca]{
 -- Page 23, Offset 8499.
 -- 潔癖性からくる完全主義か。
-  Sa mauvaise humeur venait-elle du perfectionnisme sous-jacent de sa nature intègre ?
+　Sa mauvaise humeur venait-elle du perfectionnisme sous-jacent de sa nature intègre ?
 
 }
 [sha:a6d0f3f8109f6e82bd0367636c56d42340f9743d]{
 -- Page 23, Offset 8500.
 -- こう見えて久遠寺有珠は負けず嫌いらしい。
-  Elle n'en donnait pas l'impression, mais Kuonji Alice était une mauvaise perdante.
+　Elle n'en donnait pas l'impression, mais Kuonji Alice était une mauvaise perdante.
 
 }
 [sha:6fc5f955d19206b1b4c53e9dd5cc597f4d6dd355]{
 -- Page 23, Offset 8501.
 -- 魔術の優劣などどうでもいいが、ゲームに負けた事が今も不満で仕方がないのだ。
-  Ça ne lui importait guère que sa Magie soit supérieure ou non, mais elle restait mécontente malgré elle d'avoir perdu.
+　Ça ne lui importait guère que sa Magie soit supérieure ou non, mais elle restait mécontente malgré elle d'avoir perdu.
 
 }
 [sha:d690a97fbeb023bb7505a7c47d07f1c6daa299bb]{
 -- Page 24, Offset 8502.
 -- シュタ、と翼をあげて同意する小鳥。
-  L'oiseau leva ses ailes et approuva.
+　L'oiseau leva ses ailes et approuva.
 
 }
 [sha:81371f5f13d4f695d873270f87038de00ebd3a35]{
 -- Page 24, Offset 8503.
 -- 有珠の嫌悪感を汲んで、<草十郎|がいてき>を打ちのめさんとやる気に満ちている。
-  Puisant dans l'aversion d'Alice, il débordait de l'envie d'abattre Sōjūrō.
+　Puisant dans l'aversion d'Alice, il débordait de l'envie d'abattre Sōjūrō.
 
 }
 [sha:4924b64a693b05976913297318151a2a71268465]{
 -- Page 24, Offset 8504.
 -- その<羽繕|はづくろ>いは、上官に<敬礼|けいれい>する仕草に見えなくもない。
-  On pouvait voir ce geste comme le salut à un supérieur.
+　On pouvait voir ce geste comme le salut à un supérieur.
 
 }
 [sha:74e9ab05184a0035f494303f5083125a85427660]{
 -- Page 25, Offset 8505.
 -- かくして、青い小鳥は主人に向き直る。
-  Ainsi, l'oiseau bleu se retourna vers sa maîtresse.
+　Ainsi, l'oiseau bleu se retourna vers sa maîtresse.
 
 }
 [sha:887e8f64a03e0f76888fc67a338eb53b6f94ba2d]{
 -- Page 25, Offset 8506.
 -- チチチ、チチチ。
-  Cui cui cui, cui cui cui.
+　Cui cui cui, cui cui cui.
 
 }
 [sha:14866c0675f72c8e9a4b5a6b3dc07d7950ef61bc]{
 -- Page 25, Offset 8507.
 -- 軽快な鳴き声は、明日の朝一番で<草十郎|アイツ>をヤりましょう、と宣言するかのようだ。
-  Le petit gazouillis semblait proclamer qu'ils devraient régler son compte à Sōjūrō dès le petit matin.
+　Le petit gazouillis semblait proclamer qu'ils devraient régler son compte à Sōjūrō dès le petit matin.
 
 }
 [sha:b891a13a9f9484f76e1a48f62384212f87149d5f]{
@@ -553,13 +553,13 @@
 [sha:9697e9f74645ca1262425675e2dab5904a4b09b8]{
 -- Page 26, Offset 8509.
 -- だが、少女の声には張りがなかった。
-  Cependant, la voix de la jeune fille ne montrait aucune vivacité.
+　Cependant, la voix de la jeune fille ne montrait aucune vivacité.
 
 }
 [sha:889dfac10904793a010860190c13881ab83468bd]{
 -- Page 26, Offset 8510.
 -- 魔女らしい、容赦のない台詞だったが、よくよく考えてみれば<生温|なまぬる>いコトこの上ない。コマドリ的に。
-  C'étaient des mots impitoyables dignes d'une sorcière, mais en y pensant bien, ce n'était pas si implacable que ça. Du point de vue du rouge-gorge.
+　C'étaient des mots impitoyables dignes d'une sorcière, mais en y pensant bien, ce n'était pas si implacable que ça. Du point de vue du rouge-gorge.
 
 }
 [sha:4b7cd658a540fc2ac2a9a5b4ab1d2b2455398c6d]{
@@ -571,37 +571,37 @@
 [sha:1be4294439a5f798f0d551f532a31151a7123c56]{
 -- Page 27, Offset 8512.
 -- ……だいたい、青子も人にかまけていられる立場じゃないわ。五日もすれば思い知るでしょう。そうすれば―――」
-  ...... Et puis, Aoko n'est pas dans une position lui permettant de se préoccuper des gens. Au bout de cinq jours, elle réalisera à quel point sa situation est dangereuse. Ainsi―――」
+　...... Et puis, Aoko n'est pas dans une position lui permettant de se préoccuper des gens. Au bout de cinq jours, elle réalisera à quel point sa situation est dangereuse. Ainsi―――」
 
 }
 [sha:a0fdc90f8779c99ce58755e93bbd7dd106fdcde7]{
 -- Page 28, Offset 8513.
 -- その時こそ、彼を<排斥|はいせき>するのは<容易|たやす>い。
-  À ce moment-là, il sera facile de l'expulser.
+　À ce moment-là, il sera facile de l'expulser.
 
 }
 [sha:af53563b7ad517cfcc472c44be8112a9be872b94]{
 -- Page 28, Offset 8514.
 -- 同居人が夢のない合理主義者である事を、有珠はよく分かっている。
-  Alice savait très bien que sa colocataire était une pure rationaliste.
+　Alice savait très bien que sa colocataire était une pure rationaliste.
 
 }
 [sha:cf552ee4738d795fc7cc9e0b417181b2bca020af]{
 -- Page 29, Offset 8515.
 -- 青子の置かれた状況は、いつまでもあんな余分を許しはしない。
-  La situation dans laquelle se trouvait Aoko ne permettrait pas de traîner éternellement ce fardeau superflu.
+　La situation dans laquelle se trouvait Aoko ne permettrait pas de traîner éternellement ce fardeau superflu.
 
 }
 [sha:e47bd604114e4709b0108a18647b89b434d83607]{
 -- Page 29, Offset 8516.
 -- あの少年の保護に割り当てる<時間|よゆう>は、せいぜい三日から四日ほど。
-  Elle pourrait se consacrer à la protection du garçon pendant trois ou quatre jours au mieux.
+　Elle pourrait se consacrer à la protection du garçon pendant trois ou quatre jours au mieux.
 
 }
 [sha:0eddc74acfcb9df804cf43a1627a8a447fc3c83b]{
 -- Page 29, Offset 8517.
 -- それを過ぎれば青子の方から“あとは有珠の判断に任せる”と折れるだろう。
-  Une fois cette limite passée, Aoko céderait sûrement et laisserait le reste au jugement d'Alice.
+　Une fois cette limite passée, Aoko céderait sûrement et laisserait le reste au jugement d'Alice.
 
 }
 [sha:57a88e9e7f997f60e678daa848d9e7cc7d7a7d14]{
@@ -613,19 +613,19 @@
 [sha:f7c3b468d8a23c0c7b162571b135c93c0a8de557]{
 -- Page 30, Offset 8519.
 -- どちらにしても結果は変わらないわ」
-  Dans les deux cas, le résultat sera le même.」
+　Dans les deux cas, le résultat sera le même.」
 
 }
 [sha:dff3c8527563b2072e4d2ce3548f721499df4241]{
 -- Page 30, Offset 8520.
 -- 久遠寺有珠はこれ以上の厄介事を許さない。
-  Kuonji Alice ne tolérerait pas plus de problèmes.
+　Kuonji Alice ne tolérerait pas plus de problèmes.
 
 }
 [sha:1e9bc4ad9aca81388130f8cd02cfe60b21dce24c]{
 -- Page 30, Offset 8521.
 -- 目撃者の保護や、まして、この洋館に住まわせるなんてもってのほかで―――
-  Protéger le témoin, et à plus forte raison le laisser vivre dans la résidence, était absurde et―――
+　Protéger le témoin, et à plus forte raison le laisser vivre dans la résidence, était absurde et―――
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -637,25 +637,25 @@
 [sha:5548642849fd1198b65f4a5a39ca4291c8b6a244]{
 -- Page 31, Offset 8523.
 -- <漏|も>れだした<濃霧|のうむ>に引かれるよう、有珠は視線を上げた。
-  Alice leva son regard, comme charmée par la brume qui filtrait.
+　Alice leva son regard, comme charmée par la brume qui filtrait.
 
 }
 [sha:00e4300c00bad9afb261b34973f2757395f1ace0]{
 -- Page 31, Offset 8524.
 -- 暖炉の上には一枚の鏡がある。
-  Au-dessus de la cheminée se trouvait un miroir.
+　Au-dessus de la cheminée se trouvait un miroir.
 
 }
 [sha:64bef3fa48c87ddadfc39e2bd64e80082b2a474c]{
 -- Page 32, Offset 8525.
 -- 本来なら絵画が飾られるだろう壁には、直径一メートルほどの鏡。
-  Le mur sur lequel aurait dû se trouver une peinture était orné d'un miroir d'environ un mètre de diamètre.
+　Le mur sur lequel aurait dû se trouver une peinture était orné d'un miroir d'environ un mètre de diamètre.
 
 }
 [sha:ec9e25b55d43e27ea06a456133788040510f1543]{
 -- Page 32, Offset 8526.
 -- 鏡の表面はぼんやりと<曇|くも>り、ロビーの様子を<曖昧|あいまい>に映している。
-  Sur sa surface floue se reflétait vaguement le vestibule.
+　Sur sa surface floue se reflétait vaguement le vestibule.
 
 }
 [sha:380b3c0d4dda1e19bc03cfad3da56c2a6c17c9a9]{
@@ -667,31 +667,31 @@
 [sha:1f9eee80e49c9e1b3aed00de23c182cd4fb818d4]{
 -- Page 33, Offset 8528.
 -- 鏡の機能、しばらくは制御できないみたい」
-  On dirait que je ne pourrai pas contrôler la capacité du miroir pendant un certain temps.」
+　On dirait que je ne pourrai pas contrôler la capacité du miroir pendant un certain temps.」
 
 }
 [sha:87c4e6175c22cf9b578983254c67ecd2ca7edc29]{
 -- Page 33, Offset 8529.
 -- 主人の呟きに、小鳥は喜びの<鳴|こえ>をあげた。
-  Le petit oiseau gazouilla joyeusement suite au murmure de sa maîtresse,
+　Le petit oiseau gazouilla joyeusement suite au murmure de sa maîtresse,
 
 }
 [sha:5b65d263767fffe04423137e4066f6c01bc2a03d]{
 -- Page 33, Offset 8530.
 -- それなら自分たちが手を下すまでもなく、邪魔者は鏡に落ちて退場すると。
-  comme pour dire qu'ils n'avaient pas besoin d'agir, car le gêneur disparaîtrait de lui-même en tombant dans le miroir.
+　comme pour dire qu'ils n'avaient pas besoin d'agir, car le gêneur disparaîtrait de lui-même en tombant dans le miroir.
 
 }
 [sha:4c20e4b16fe914304d7cfee4061874c217aafdcc]{
 -- Page 34, Offset 8531.
 -- ……あるいは。
-  ...... Si cet oiseau n'avait pas pépié ainsi,
+　...... Si cet oiseau n'avait pas pépié ainsi,
 
 }
 [sha:efc9dfa16325b2719e7a12f94f7cac45a70abad6]{
 -- Page 34, Offset 8532.
 -- この小鳥さえそんな鳴き声をあげなければ、有珠も同じ意見だっただろう。
-  Alice aurait pu partager le même avis.
+　Alice aurait pu partager le même avis.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -703,7 +703,7 @@
 [sha:5d9acb477e599947e00e9353124cf696dcf3c38c]{
 -- Page 35, Offset 8534.
 -- 少女はなんとなしに、先ほどの会話を思い出した。
-  Elle se rappela involontairement la conversation précédente.
+　Elle se rappela involontairement la conversation précédente.
 
 }
 [sha:eb3708cc532d0bebd827b7a26adb80ba85ce19bc]{
@@ -715,19 +715,19 @@
 [sha:389471e64162e315b03f49df21d8572b3c149349]{
 -- Page 36, Offset 8536.
 -- そう問うた少女に、小瓶の中の少年は肩をすくめながら答えた。
-  Face à cette question, le garçon dans la fiole avait haussé les épaules et répondu :
+　Face à cette question, le garçon dans la fiole avait haussé les épaules et répondu :
 
 }
 [sha:471ce3d21033d5ccb49ba7ecc977cd3920fe6e85]{
 -- Page 37, Offset 8537.
 -- 自分にとっては町も<洋|こ><館|こ>も変わらない、と。
-  “Pour moi, il n'y a aucune différence entre la ville et cette maison.”
+　“Pour moi, il n'y a aucune différence entre la ville et cette maison.”
 
 }
 [sha:d3e577f33dd61a5ad1cfee5c5ef9b0df6a18567a]{
 -- Page 37, Offset 8538.
 -- なんでも、田舎から出てきたばかりの彼にすれば、あらゆるものが“見たこともないもの”なのだそうだ。
-  Apparemment, comme il venait juste d'arriver de la campagne, tout ce qu'il voyait lui était “inconnu”.
+　Apparemment, comme il venait juste d'arriver de la campagne, tout ce qu'il voyait lui était “inconnu”.
 
 }
 [sha:3b86b050265e4937202fde7e430c3df43155a267]{
@@ -739,19 +739,19 @@
 [sha:d8a1c5c2013faa5adc33b3880323b9d4cc918358]{
 -- Page 38, Offset 8540.
 -- ……あれは恥ずかしさより、<憤|いきどお>りに満ちた声だった。
-  ...... C'était une voix davantage remplie d'indignation que de honte.
+　...... C'était une voix davantage remplie d'indignation que de honte.
 
 }
 [sha:1387215e238072e41bb66994f1d5dec6e99e8c19]{
 -- Page 38, Offset 8541.
 -- 彼が何に対して怒っているのか、有珠には読み取れない。
-  Alice n'arrivait pas à comprendre contre quoi il était en colère.
+　Alice n'arrivait pas à comprendre contre quoi il était en colère.
 
 }
 [sha:16a3a20ab3a0a517ff9dcca3e9fbcb086d5743ba]{
 -- Page 38, Offset 8542.
 -- ただ、
-  Seulement...
+　Seulement...
 
 }
 [sha:964d844c11fba823f250be7e74fc574c183510c9]{
@@ -763,73 +763,73 @@
 [sha:fca6a2cb18ee90967a9e586a253cd76f92d59440]{
 -- Page 39, Offset 8544.
 -- 極端な話、道を歩くだけでも、人と話すだけでも不安になる。俺は、どこでだろうと上手くやっていける保証はないんだよ。
-  Dans le pire des cas, il m'arrive de me sentir inquiet rien qu'en marchant dans la rue ou en parlant avec les gens. Où que je sois, je n'ai aucune garantie de pouvoir me débrouiller seul.
+　Dans le pire des cas, il m'arrive de me sentir inquiet rien qu'en marchant dans la rue ou en parlant avec les gens. Où que je sois, je n'ai aucune garantie de pouvoir me débrouiller seul.
 
 }
 [sha:e52916a0790a4f3c458d3fe307828e8bb345f578]{
 -- Page 39, Offset 8545.
 -- けど、ここにはそんなヤツに気を遣ってくれる人がいる。気遣ってくれる理由は物騒なものっぽいけど、それは本当に、贅沢なコトだと思うんだ』
-  Mais ici, quelqu'un fait attention à un type comme moi. La raison pour laquelle elle le fait a l'air dangereuse, mais je pense sincèrement que c'est déjà une chance pour moi.』
+　Mais ici, quelqu'un fait attention à un type comme moi. La raison pour laquelle elle le fait a l'air dangereuse, mais je pense sincèrement que c'est déjà une chance pour moi.』
 
 }
 [sha:38665207d1c1beb37ecbdfe599170f0a5b40d26a]{
 -- Page 40, Offset 8546.
 -- ……少女の瞳がわずかに曇る。
-  ...... Ses yeux s'obscurcirent légèrement.
+　...... Ses yeux s'obscurcirent légèrement.
 
 }
 [sha:60d6a7e97c7487a5df74e6041b4f878a437dfb6f]{
 -- Page 40, Offset 8547.
 -- 静かにこぼれたあの言葉は、無視できるものではなかった。
-  Elle ne pouvait pas ignorer les mots qu'il avait calmement prononcés.
+　Elle ne pouvait pas ignorer les mots qu'il avait calmement prononcés.
 
 }
 [sha:5a6209746e8986ef5ac80debb68b38677965f6ce]{
 -- Page 40, Offset 8548.
 -- だって、きちんと筋が通っている。
-  Parce qu'ils avaient clairement du sens.
+　Parce qu'ils avaient clairement du sens.
 
 }
 [sha:d1a85c0a7d54fea1bb5dedb063ac6b40825ae82d]{
 -- Page 40, Offset 8549.
 -- 彼にとって都会はどこであろうと危険なら、この洋館ですら“何も”変わらないのだ。
-  Si pour lui, c'était dangereux où qu'il soit en ville, alors ce manoir n'était en rien différent.
+　Si pour lui, c'était dangereux où qu'il soit en ville, alors ce manoir n'était en rien différent.
 
 }
 [sha:da900727c390e5d8eeb0c2846b12bbc7341de47a]{
 -- Page 41, Offset 8550.
 -- 本当に、この洋館を恐れるだけの理由がない。
-  Il n'avait véritablement aucune raison de craindre cet endroit.
+　Il n'avait véritablement aucune raison de craindre cet endroit.
 
 }
 [sha:bbc53a7514ada17046b02518c0b5768adbfffaa7]{
 -- Page 41, Offset 8551.
 -- 外との違いがあるとしたら、それは味方になってくれる誰かがいるかいないかという点だけ。
-  S'il devait y avoir une différence avec l'extérieur, c'était seulement sur le fait qu'il y ait ou non quelqu'un pour être son allié.
+　S'il devait y avoir une différence avec l'extérieur, c'était seulement sur le fait qu'il y ait ou non quelqu'un pour être son allié.
 
 }
 [sha:b62c8c0dad37592c7fa62c0fc9aaf466275fd37c]{
 -- Page 42, Offset 8552.
 -- その説でいけば、彼は何ひとつ嘘を言っていない。
-  Si elle suivait cette théorie, alors il n'avait pas dit un seul mensonge.
+　Si elle suivait cette théorie, alors il n'avait pas dit un seul mensonge.
 
 }
 [sha:1a494cdd45fff73f1f8b5d5440ac77ac181f2f41]{
 -- Page 42, Offset 8553. Mods: @n.
 -- 久遠寺有珠へのご機嫌とりでもなく、
-  Sans chercher à obtenir les bonnes grâces de Kuonji Alice,
+　Sans chercher à obtenir les bonnes grâces de Kuonji Alice,
 
 }
 [sha:8b83a58d43e23663be315e1873e774065dd34529]{
 -- Page 42, Offset 8554. Glued.
 -- 蒼崎青子に頼ろうとしたのでもなく。
-  ou compter sur Aozaki Aoko,
+　ou compter sur Aozaki Aoko,
 
 }
 [sha:fe3e0734f594aadd6ee8acb92f940c10335bd62d]{
 -- Page 42, Offset 8555.
 -- 心から、『ここがいい』と告げたのだ。
-  il avait dit du fond du cœur qu'il “se sentait bien ici”.
+　il avait dit du fond du cœur qu'il “se sentait bien ici”.
 
 }
 [sha:1e85bec67f169c7f4c9a493c69b9fed9a0993ecb]{
@@ -841,25 +841,25 @@
 [sha:ddf6893b73ab50483b1fb1159621e0103853fdd4]{
 -- Page 43, Offset 8557.
 -- 鏡の機能は侵入者の探索に専念させたいし、彼が迷いこみそうになったら止めてあげて」
-  Je voudrais que ses fonctions soient uniquement consacrées à la recherche d'intrus, alors s'il est sur le point de s'y égarer, arrête-le.」
+　Je voudrais que ses fonctions soient uniquement consacrées à la recherche d'intrus, alors s'il est sur le point de s'y égarer, arrête-le.」
 
 }
 [sha:18a09427f487fe05b72fbe6047c7d2b013fb3d82]{
 -- Page 43, Offset 8558.
 -- 予想外の言葉に小鳥の羽が震える。
-  Les ailes du petit oiseau tremblèrent à ces mots inattendus.
+　Les ailes du petit oiseau tremblèrent à ces mots inattendus.
 
 }
 [sha:3e3f25f3127bdfbd20b8481086b3cffb3c84cfb4]{
 -- Page 43, Offset 8559.
 -- 少女は鏡から視線を逸らして歩きだした。
-  Elle détourna le regard du miroir et se mit en marche.
+　Elle détourna le regard du miroir et se mit en marche.
 
 }
 [sha:1a10ce590b7f010206ec2427b9b413a13464b161]{
 -- Page 44, Offset 8560.
 -- 抗議の<鳴|こえ>をあげる小鳥。
-  Le petit oiseau gazouilla en signe de protestation.
+　Le petit oiseau gazouilla en signe de protestation.
 
 }
 [sha:67717feb03cddb338590aed5c0d505d87d240e81]{
@@ -871,18 +871,18 @@
 [sha:911ac0d561eeb2681e7b6a9b80129232450a5d71]{
 -- Page 44, Offset 8562.
 -- それに冷たい言葉を返して、少女は西館に消えていった。
-  Elle lui lâcha des paroles glaciales et disparut dans l'aile ouest.
+　Elle lui lâcha des paroles glaciales et disparut dans l'aile ouest.
 
 }
 [sha:ec52cd0105bd3fab4c05e07e8227d0f7f000f5fd]{
 -- Page 45, Offset 8563.
 -- 後に残されたのは月の明かりと、
-  Les seules choses qu'elle laissait en arrière étaient le clair de lune,
+　Les seules choses qu'elle laissait en arrière étaient le clair de lune,
 
 }
 [sha:825f8df15a27d72c0cfffcf9afd466bd4353c7e4]{
 -- Page 45, Offset 8564.
 -- かつてない変化の予兆に激震する、青い小鳥だけだった。
-  et le petit oiseau bleu tremblant de tout son corps face au présage d'un bouleversement sans précédent.
+　et le petit oiseau bleu tremblant de tout son corps face au présage d'un bouleversement sans précédent.
 
 }

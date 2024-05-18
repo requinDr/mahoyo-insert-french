@@ -7,37 +7,37 @@
 [sha:d0a8ba968b34479fcbc462daa5c7b9fa6b31dc10]{
 -- Page 0, Offset 17275.
 -- ぱちり、と軽快に<目蓋|まぶた>が開く。
-  Ses paupières s'ouvrirent brusquement.
+　Ses paupières s'ouvrirent brusquement.
 
 }
 [sha:f3a92d2d9710a1c69efc67dc823f73208bf6521b]{
 -- Page 0, Offset 17276.
 -- <永|なが>い休眠から草十郎は目を覚ました。
-  Sōjūrō sortit de son sommeil éternel.
+　Sōjūrō sortit de son sommeil éternel.
 
 }
 [sha:02bfd12e22d7e764d84c8e7cdcc70b7a10f122fc]{
 -- Page 1, Offset 17277.
 -- 仰向けに寝っころがっているらしく、視界にはいっぱいの星空が広がっている。
-  Il était manifestement allongé sur le dos, car un ciel rempli d'étoiles s'étendait devant ses yeux.
+　Il était manifestement allongé sur le dos, car un ciel rempli d'étoiles s'étendait devant ses yeux.
 
 }
 [sha:f840ef43d61509be06c0137459f2b02ea24f099c]{
 -- Page 1, Offset 17278.
 -- 木々によって形作られた円形の空。
-  La lisière des arbres lui donnait la forme d'un cercle.
+　La lisière des arbres lui donnait la forme d'un cercle.
 
 }
 [sha:48bf0423f650b076ea6ed6f35c3ebbb1f96b6622]{
 -- Page 1, Offset 17279.
 -- それは初めて見たものなのに、
-  Bien qu'il voyait ce spectacle pour la première fois,
+　Bien qu'il voyait ce spectacle pour la première fois,
 
 }
 [sha:e75e568897d077930ccb4dc56a69c55dbb0dee2f]{
 -- Page 1, Offset 17280.
 -- 久しく忘れていた景色に見えて、居心地が悪かった。
-  il lui évoquait un paysage depuis longtemps oublié, ce qui le rendait mal à l'aise.
+　il lui évoquait un paysage depuis longtemps oublié, ce qui le rendait mal à l'aise.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -49,55 +49,55 @@
 [sha:252321d8a680c5d279e7f98e6784dbe53cc696b7]{
 -- Page 2, Offset 17282.
 -- どうにも自分が確かではない。
-  Il n'était pas sûr de lui.
+　Il n'était pas sûr de lui.
 
 }
 [sha:bed6934a6b16bdd4b945f489ff1dd368cb9448e4]{
 -- Page 2, Offset 17283.
 -- 眠る前に何をしていたのか、
-  Que faisait-il avant de dormir ?
+　Que faisait-il avant de dormir ?
 
 }
 [sha:0ce75e55ec2f6ded70f04a5cd0a35240fa0f52cf]{
 -- Page 2, Offset 17284.
 -- どうして眠っていたのか、
-  Et tout d'abord, pourquoi dormait-il ?
+　Et tout d'abord, pourquoi dormait-il ?
 
 }
 [sha:f64167c4d65d91ed3a384fbaf09a6d48f030f24b]{
 -- Page 2, Offset 17285.
 -- キレイさっぱり記憶にない。
-  Il ne se rappelait de rien.
+　Il ne se rappelait de rien.
 
 }
 [sha:1abeebe0018140eb46002db2c6a64b9651779eef]{
 -- Page 2, Offset 17286.
 -- これから出かけようと玄関をすぎた直後、目を開けたらベッドにいたような気分だ。
-  C'était comme s'il s'était réveillé dans son lit alors qu'il venait de passer la porte d'entrée pour sortir.
+　C'était comme s'il s'était réveillé dans son lit alors qu'il venait de passer la porte d'entrée pour sortir.
 
 }
 [sha:ba7f63308f8dc6a1e68fba65db900901e2871528]{
 -- Page 3, Offset 17287.
 -- 前後の出来事が無さすぎて、自分が何者であるのかさえ、すぐには思い至らない。
-  Sa mémoire était tellement brouillée qu'il lui fallut un certain temps ne serait-ce que pour se rappeler de qui il était.
+　Sa mémoire était tellement brouillée qu'il lui fallut un certain temps ne serait-ce que pour se rappeler de qui il était.
 
 }
 [sha:34a6f2ab29a23e659231c5a67503c276ac1414c1]{
 -- Page 3, Offset 17288.
 -- 思い出せるのはただ、
-  Il n'avait que deux souvenirs vivaces :
+　Il n'avait que deux souvenirs vivaces :
 
 }
 [sha:e22bbc8414dc7a63fa566da13df5bd0df2ae4901]{
 -- Page 3, Offset 17289.
 -- 見たこともない女の人と、
-  celui d'une femme inconnue,
+　celui d'une femme inconnue,
 
 }
 [sha:a74b1e03502c838fb42fd8eb47320eff461c2f5d]{
 -- Page 3, Offset 17290. Mods: @n.
 -- 首にかかった細い
-  et de la fine          qu'il avait à son cou.
+　et de la fine          qu'il avait à son cou.
 
 }
 [sha:78e20d4220b01e5e1732e5574958726983941456]{
@@ -109,7 +109,7 @@
 [sha:1e4462bd3810a85719e360521f58bfed7e2fc62a]{
 -- Page 4, Offset 17292.
 -- 真横から誰かの声……低いのによく通る声は、たしか、久遠寺有珠という少女の物だ。
-  Il entendit la voix de quelqu'un tout près de lui...... Cette voix, basse mais parfaitement audible, appartenait, s'il ne se trompait pas, à une jeune fille du nom de Kuonji Alice.
+　Il entendit la voix de quelqu'un tout près de lui...... Cette voix, basse mais parfaitement audible, appartenait, s'il ne se trompait pas, à une jeune fille du nom de Kuonji Alice.
 
 }
 [sha:fc64a2fcb7928f110eed6336affa349b2ce8f2ee]{
@@ -121,13 +121,13 @@
 [sha:9d06859c0717e768ef7813b4f6773b6696a2949f]{
 -- Page 5, Offset 17294.
 -- 脈絡のない呟きと共に、草十郎は体を起こす。
-  Sōjūrō se leva en murmurant cette réponse sans queue ni tête.
+　Sōjūrō se leva en murmurant cette réponse sans queue ni tête.
 
 }
 [sha:515347256a31e4d169023a9a31d78bdb1d6188d7]{
 -- Page 6, Offset 17295.
 -- 目を覚ました彼の横には、黒衣の少女が正座していた。
-  La jeune fille vêtue de noir était assise à ses côtés depuis son réveil.
+　La jeune fille vêtue de noir était assise à ses côtés depuis son réveil.
 
 }
 [sha:29b0f4347f05558ebd1f1f1598b4107cc0caa8f5]{
@@ -139,37 +139,37 @@
 [sha:ed6b4991aab2f0941f298abfb123916b8d82e5e7]{
 -- Page 6, Offset 17297.
 -- <傍|かたわ>らの有珠を見ず、ぼんやりと口にする。
-  dit-il d'un air rêveur sans accorder un regard à Alice.
+　dit-il d'un air rêveur sans accorder un regard à Alice.
 
 }
 [sha:82c4c00a40b203f468d1a0229b83a2192dd8b68a]{
 -- Page 6, Offset 17298.
 -- ……<蒼|あお>い月明かりの下、枯れた木々と雪原に囲まれて、春の花園が<揺|ゆ>らめいていた。
-  ...... Sous le clair de lune bleuté, le jardin de fleurs printanier ondoyait, entouré par un champ de neige et des arbres dénudés.
+　...... Sous le clair de lune bleuté, le jardin de fleurs printanier ondoyait, entouré par un champ de neige et des arbres dénudés.
 
 }
 [sha:0cfe04dfb7ba48fa3f0823bcee167055c2811a82]{
 -- Page 7, Offset 17299.
 -- 夜風に散る花びらは蝶のように、白い身を闇夜にくっきりと浮かびあがらせる。
-  Les pétales, portés par le vent nocturne, se découpaient dans la nuit par leur teinte blanche, tels des papillons.
+　Les pétales, portés par le vent nocturne, se découpaient dans la nuit par leur teinte blanche, tels des papillons.
 
 }
 [sha:cb7a8acefd538e1f2bc6cbeda82d62521600cffa]{
 -- Page 7, Offset 17300.
 -- 長く、その光景を見つめて、草十郎はそっと首に指を置いた。
-  Sōjūrō contempla longuement ce spectacle et posa lentement ses doigts sur son cou.
+　Sōjūrō contempla longuement ce spectacle et posa lentement ses doigts sur son cou.
 
 }
 [sha:fc0ebc6afaa4f9e0620a2220a77c2fea32f517a1]{
 -- Page 7, Offset 17301.
 -- はじめは、傷口に触れるように恐る恐る。
-  Au début, craintivement, comme s'il tâtait une plaie,
+　Au début, craintivement, comme s'il tâtait une plaie,
 
 }
 [sha:b17f3e557c1dfa2cb099bda12412a5ab7a0152c9]{
 -- Page 7, Offset 17302.
 -- あとは、握りこむように、強く強く。
-  puis, fermement, comme pour s'étrangler.
+　puis, fermement, comme pour s'étrangler.
 
 }
 [sha:1b17de3ae46e2a916226a88a3fa76ef1936e3462]{
@@ -181,7 +181,7 @@
 [sha:5703755c4d972123ed3bb780fcabf1d7a7a37cab]{
 -- Page 8, Offset 17304.
 -- その暗転を止めたのは、傍らの少女の声だった。
-  Ce fut la voix de la jeune fille qui empêcha les choses de prendre une mauvaise tournure.
+　Ce fut la voix de la jeune fille qui empêcha les choses de prendre une mauvaise tournure.
 
 }
 [sha:fd82d991c5748dddfc0f37aa18b2448a52824d56]{
@@ -193,19 +193,19 @@
 [sha:8c1fbf0c4c1c9914b14abd6462b7241fe698278b]{
 -- Page 9, Offset 17306.
 -- 問いかけの意味を、草十郎は掴めなかった。
-  Sōjūrō ne saisit pas le sens de sa question.
+　Sōjūrō ne saisit pas le sens de sa question.
 
 }
 [sha:d1c430a6bb2646f91c544d81ee780ede4ab4bd4d]{
 -- Page 9, Offset 17307.
 -- 批難と哀しみの混じった声。
-  Désapprobation et chagrin se mêlaient dans sa voix.
+　Désapprobation et chagrin se mêlaient dans sa voix.
 
 }
 [sha:7f62e3f7ea7051f4a3e1a24d8e39b0b91c793801]{
 -- Page 9, Offset 17308.
 -- その、有珠らしからぬ眼差しに責められて、彼は無意識から解放された。
-  Ce regard accusateur, extrêmement rare de la part d'Alice, lui permit inconsciemment de revenir à lui.
+　Ce regard accusateur, extrêmement rare de la part d'Alice, lui permit inconsciemment de revenir à lui.
 
 }
 [sha:006bbf646c7e693c7bcadba50a80e67ac3bcb0b1]{
@@ -217,19 +217,19 @@
 [sha:f84d17ec64f7f03672a59704546dec30fe702f30]{
 -- Page 10, Offset 17310.
 -- 首から落ちる指。
-  Ses doigts lâchèrent son cou.
+　Ses doigts lâchèrent son cou.
 
 }
 [sha:1a5ebe6f465a2d22efde7ffa7b8635ca27328f05]{
 -- Page 10, Offset 17311.
 -- 有珠は答えず、無表情に空を見上げた。
-  Alice resta muette et se contenta d'observer le ciel, inexpressive.
+　Alice resta muette et se contenta d'observer le ciel, inexpressive.
 
 }
 [sha:fe8aa46cff1ef8dd7790069f72b77042b2be027f]{
 -- Page 10, Offset 17312.
 -- そこにあるのは、ただ暗いばかりの――――――。
-  On ne pouvait y voir que des ténèbres――――――
+　On ne pouvait y voir que des ténèbres――――――
 
 }
 [sha:93c20883e597284f1e674b62faf06939ad5e0922]{
@@ -241,37 +241,37 @@
 [sha:426b49e196eb812242dff725c601145bdd89bd90]{
 -- Page 11, Offset 17314.
 -- なんかヘンだ。ごちゃごちゃしてる」
-  Quelque chose ne va pas. Tout se bouscule dans ma tête.」
+　Quelque chose ne va pas. Tout se bouscule dans ma tête.」
 
 }
 [sha:dde2f2125642948ffa9a13c0fac156a84dd8c7d1]{
 -- Page 11, Offset 17315.
 -- はて、と首を傾げる草十郎を、有珠はじいっと観察する。
-  Alice observait attentivement Sōjūrō qui penchait la tête d'un air perplexe.
+　Alice observait attentivement Sōjūrō qui penchait la tête d'un air perplexe.
 
 }
 [sha:28dc17f20dd441fbbfb480921a96d961e8e555b4]{
 -- Page 11, Offset 17316.
 -- さっきの人狼を一蹴した少年と、こうやって呆けている少年はまるっきり別人で、そのくせ、まるで違和感がない。
-  Le jeune homme hébété qui se tenait en face d'elle semblait totalement différent de celui qui avait vaincu sans peine le loup-garou, et pourtant, elle ne trouvait pas cela étrange.
+　Le jeune homme hébété qui se tenait en face d'elle semblait totalement différent de celui qui avait vaincu sans peine le loup-garou, et pourtant, elle ne trouvait pas cela étrange.
 
 }
 [sha:44c5fd99edfcfb9eda0562eee8bb4a6b9f0bdef8]{
 -- Page 12, Offset 17317.
 -- その不思議を見抜こうと少年を見つめるのだが、納得いく答えは出ないだろう事も、なんとなく有珠は認めていた。
-  Elle fixait le garçon afin de découvrir le secret derrière ce mystère, mais elle savait aussi d'une certaine façon qu'aucune réponse convaincante ne lui viendrait à l'esprit.
+　Elle fixait le garçon afin de découvrir le secret derrière ce mystère, mais elle savait aussi d'une certaine façon qu'aucune réponse convaincante ne lui viendrait à l'esprit.
 
 }
 [sha:a16b2a1f9c1c465a141a7e8f90fd01e465e32336]{
 -- Page 12, Offset 17318.
 -- そうして問いかける。
-  De ce fait, elle l'interrogea.
+　De ce fait, elle l'interrogea.
 
 }
 [sha:39949d0965e7b6d65a083050de2c7aa1bae61d16]{
 -- Page 12, Offset 17319.
 -- 彼が眠っていた間、遠く離れた彼女が何度も繰り返して、しまいには怒って止めてしまった、その問いを。
-  La question qu'elle n'avait eu de cesse de répéter au garçon inconscient, pendant son sommeil, et qu'elle n'avait finalement plus posée, à bout de nerfs, franchit à nouveau ses lèvres.
+　La question qu'elle n'avait eu de cesse de répéter au garçon inconscient, pendant son sommeil, et qu'elle n'avait finalement plus posée, à bout de nerfs, franchit à nouveau ses lèvres.
 
 }
 [sha:ddd0172c576e7c106e6c1597890c04b4c13df95b]{
@@ -283,19 +283,19 @@
 [sha:f96406ea6002cbf9b7e4fad07c9e36002ef4fcf9]{
 -- Page 13, Offset 17321.
 -- 静かな問いかけは、旅人を魅了する魔術に等しい。
-  La question posée sur un ton serein s'apparentait à un sort envoûtant un voyageur.
+　La question posée sur un ton serein s'apparentait à un sort envoûtant un voyageur.
 
 }
 [sha:4e8c330fa312a1f674eea700ec2eae4e437018f6]{
 -- Page 13, Offset 17322.
 -- それに魅了されてか、草十郎は記憶の海に沈みこむ。
-  Comme ensorcelé, Sōjūrō plongea dans l'océan de sa mémoire.
+　Comme ensorcelé, Sōjūrō plongea dans l'océan de sa mémoire.
 
 }
 [sha:a492c1335030832e37c771f99fb4324754f18266]{
 -- Page 13, Offset 17323.
 -- 沈黙の間、ふたりは兄妹のように、白い丘に<佇|たたず>んでいた。
-  Durant quelques instants de silence, ils restèrent immobiles sur la colline d'une blancheur immaculée comme deux frère et sœur.
+　Durant quelques instants de silence, ils restèrent immobiles sur la colline d'une blancheur immaculée comme deux frère et sœur.
 
 }
 [sha:bcf2d5fe7007394faeafc835352ad5f3ee52b2bd]{
@@ -313,25 +313,25 @@ Elle avait l'air de me demander quelque chose. Mais en fin de compte, je n'ai ri
 [sha:69d9c09111518316cb1aa20d731877b028d52367]{
 -- Page 14, Offset 17326.
 -- 死中の闇において繰り返された問いを、彼はおぼろげに思い出した。
-  Il se rappelait vaguement la question qu'on lui avait répétée alors qu'il était plongé dans les ténèbres éternelles.
+　Il se rappelait vaguement la question qu'on lui avait répétée alors qu'il était plongé dans les ténèbres éternelles.
 
 }
 [sha:cb91d2d46aea2c41303f82e4a4b59cf8be9d5fd8]{
 -- Page 14, Offset 17327.
 -- 死んでいた事すら分かっていないが、彼女の時間と交差した断片は残っているようだ。
-  Il ne réalisait même pas le fait qu'il avait été tué, mais il lui restait manifestement des fragments de mémoire correspondant au moment où il avait croisé le temps d'Aoko.
+　Il ne réalisait même pas le fait qu'il avait été tué, mais il lui restait manifestement des fragments de mémoire correspondant au moment où il avait croisé le temps d'Aoko.
 
 }
 [sha:afb991e6b79af78507b545b696b8d9f02fe6a7a0]{
 -- Page 15, Offset 17328.
 -- 草十郎は悔いるように顔を<曇|くも>らせる。
-  Sōjūrō fronça les sourcils dans un signe de regret.
+　Sōjūrō fronça les sourcils dans un signe de regret.
 
 }
 [sha:529a3168ca0bbd00ff73eb7d2e117b72c01b8018]{
 -- Page 15, Offset 17329.
 -- その横顔に有珠は静かに問いかける。
-  Alice le fixa et demanda sans le presser :
+　Alice le fixa et demanda sans le presser :
 
 }
 [sha:f829b5edb111178ebf44752acc3f76ee16f2f2e8]{
@@ -343,7 +343,7 @@ Elle avait l'air de me demander quelque chose. Mais en fin de compte, je n'ai ri
 [sha:1a96bac6313bc19987e84a294b16bb34ff4c4546]{
 -- Page 15, Offset 17331.
 -- それが『誰か』に訊ねられていた事だと思い出して、彼はかすかにうなずいた。
-  Il se rappela qu'il s'agissait de la question posée par la voix et acquiesça faiblement en retour.
+　Il se rappela qu'il s'agissait de la question posée par la voix et acquiesça faiblement en retour.
 
 }
 [sha:ddc08d7e0bed90d6630d029fa3277e463db1463e]{
@@ -361,25 +361,25 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:aef5f182f2568be44da4ca2f29a4169785094b9a]{
 -- Page 16, Offset 17334.
 -- ……うん。ずっと、そう思っていた」
-  ...... Oui. C'est ce que j'ai toujours cru.」
+　...... Oui. C'est ce que j'ai toujours cru.」
 
 }
 [sha:369fc3e23ed3fdd721b106896e49f54b48ae3cda]{
 -- Page 16, Offset 17335.
 -- 悔いる声には、かすかな強さが混じっている。
-  Sa voix laissait transparaître quelques regrets ainsi qu'une légère force.
+　Sa voix laissait transparaître quelques regrets ainsi qu'une légère force.
 
 }
 [sha:e3fd413f94ed7389d41669307f9bbee5b426a523]{
 -- Page 16, Offset 17336.
 -- 見下ろす白い花園は、死者を迎える<彼岸|ひがん>のようだ。
-  Le jardin de fleurs immaculées qui s'étendait sous leurs yeux évoquait l'au-delà, terre d'accueil des défunts.
+　Le jardin de fleurs immaculées qui s'étendait sous leurs yeux évoquait l'au-delà, terre d'accueil des défunts.
 
 }
 [sha:780f34c989fcb6e47c96a40bc74e8e06cfdfc369]{
 -- Page 16, Offset 17337.
 -- それが、少しだけ草十郎には<眩|まぶ>しかった。
-  Ce spectacle était quelque peu éblouissant pour Sōjūrō.
+　Ce spectacle était quelque peu éblouissant pour Sōjūrō.
 
 }
 [sha:e5e07dbc87c2afff493d083a21a4628d276ddca8]{
@@ -391,25 +391,25 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:ccae90ff342fc2913c29b0f6b60fd1bf5cc2e7e7]{
 -- Page 17, Offset 17339.
 -- なのに生きているのは、どういう事なんだろう」
-  Mais alors, pourquoi suis-je toujours en vie ?」
+　Mais alors, pourquoi suis-je toujours en vie ?」
 
 }
 [sha:b50a1c728e676c81778c79a7cf691bfb2c668909]{
 -- Page 17, Offset 17340.
 -- 不思議そうに体を触る草十郎。
-  Sōjūrō tâta son corps d'un air étonné.
+　Sōjūrō tâta son corps d'un air étonné.
 
 }
 [sha:c117a5844fc4a68edfb2c1e60b9e0c2344d7d9ae]{
 -- Page 17, Offset 17341.
 -- 両腕も完全に元のままで、肝心の青子の姿はない。
-  Ses deux bras avaient retrouvé leur aspect normal, mais il ne voyait Aoko nulle part.
+　Ses deux bras avaient retrouvé leur aspect normal, mais il ne voyait Aoko nulle part.
 
 }
 [sha:ae47f2f06e0b3719c56bfda226b83d7022508962]{
 -- Page 18, Offset 17342.
 -- 答えを求めて有珠に視線を向けると、彼女は座ったままで、どこか拗ねるように、
-  Il tourna son regard vers Alice assise auprès de lui afin d'obtenir une réponse.
+　Il tourna son regard vers Alice assise auprès de lui afin d'obtenir une réponse.
 
 }
 [sha:19e189b15537c86ababb9e88720f53e631b369f6]{
@@ -421,13 +421,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:4c022eefc794e73a88da863d30760d0b29a8f213]{
 -- Page 18, Offset 17344.
 -- この風景も本来は貴方の記憶だけど、わからない……？」
-  Et ce paysage est tiré de tes souvenirs. Tu ne le reconnais pas......?」
+　Et ce paysage est tiré de tes souvenirs. Tu ne le reconnais pas......?」
 
 }
 [sha:421e8166677b56a471018f35879d6edee8c9bcbf]{
 -- Page 18, Offset 17345.
 -- などと、おかしな言葉を口にした。
-  Des mots étranges quittèrent ses lèvres alors qu'elle arborait un air vaguement boudeur.
+　Des mots étranges quittèrent ses lèvres alors qu'elle arborait un air vaguement boudeur.
 
 }
 [sha:4cb0e7572ceabd364ae4473ae05d556210626c63]{
@@ -445,7 +445,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:3f79382f6a7402ae2f48373d9326da778ac04032]{
 -- Page 19, Offset 17348.
 -- 物騒な返答をして、有珠は花園を見渡した。
-  Ces propos inquiétants à peine prononcés, Alice parcourut le champ de fleurs du regard.
+　Ces propos inquiétants à peine prononcés, Alice parcourut le champ de fleurs du regard.
 
 }
 [sha:a25fc0ea59a5dbcca550bd6cc10600904e1692f8]{
@@ -457,13 +457,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:6ca5a2fd47b8cf1fc9f843f5348cc323227fc4be]{
 -- Page 20, Offset 17350.
 -- 元に戻れば、思い返せるのはわたしだけなのに」
-  Quand le temps reprendra ses droits, je serai la seule à m'en souvenir...」
+　Quand le temps reprendra ses droits, je serai la seule à m'en souvenir...」
 
 }
 [sha:c6ae5884c25293d61fecc8ada54e259763757f25]{
 -- Page 20, Offset 17351.
 -- 一瞬だけ瞳を細めて、有珠は白い花々を見る。
-  La jeune fille plissa un instant ses yeux rivés sur les fleurs blanches.
+　La jeune fille plissa un instant ses yeux rivés sur les fleurs blanches.
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -475,7 +475,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:28ebfee0822e483c7538d769abce99725af9e1da]{
 -- Page 20, Offset 17353.
 -- 彼女の言葉は、草十郎にはやっぱりさっぱり。
-  Sōjūrō ne comprenait rien à ce qu'elle racontait.
+　Sōjūrō ne comprenait rien à ce qu'elle racontait.
 
 }
 [sha:8cc79b1b480299a87b969c5871b735cf5edb0f4b]{
@@ -487,13 +487,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:9d906e10706938d1e826e567956476906cceeaa3]{
 -- Page 21, Offset 17355.
 -- 草十郎の声に、有珠はつい、と振り向いた。
-  Au son de sa voix, Alice se retourna malgré elle vers lui.
+　Au son de sa voix, Alice se retourna malgré elle vers lui.
 
 }
 [sha:3a9ae0955bce40ca1d92b8583617d276f89eb9ec]{
 -- Page 21, Offset 17356.
 -- 深い瞳は、どんな感情を秘めているかも分からない。
-  Il était incapable de déchiffrer les sentiments qui se dissimulaient dans ses yeux sombres.
+　Il était incapable de déchiffrer les sentiments qui se dissimulaient dans ses yeux sombres.
 
 }
 [sha:ca67a08e70a8ee0941005ad2fa296dbb38a71502]{
@@ -511,13 +511,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:781e2b11ebff5654efb22bb19d031fe5ba5f2903]{
 -- Page 22, Offset 17359.
 -- 力強くうなずく草十郎に、有珠はそう、とため息まじりに目を閉じた。
-  “Je vois”, fit Alice en réponse au jeune homme qui acquiesçait avec force. Puis, elle soupira tout en fermant les yeux.
+　“Je vois”, fit Alice en réponse au jeune homme qui acquiesçait avec force. Puis, elle soupira tout en fermant les yeux.
 
 }
 [sha:3e5a141d8f31cf237df83163ba76ff47926ba31a]{
 -- Page 22, Offset 17360.
 -- それでも口を開いたのは、草十郎を嫌っての事ではなく、彼女なりに気を遣っているからだろう。
-  Si elle garda un instant le silence, ce n'était pas parce qu'elle détestait Sōjūrō, mais probablement parce qu'elle se montrait attentionnée à sa façon.
+　Si elle garda un instant le silence, ce n'était pas parce qu'elle détestait Sōjūrō, mais probablement parce qu'elle se montrait attentionnée à sa façon.
 
 }
 [sha:484b06d8d62e5d7c5ffb2391da4d61e31c7f60e4]{
@@ -529,91 +529,91 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:861f0cda926924b563cfcb9d930a8f25360675eb]{
 -- Page 23, Offset 17362.
 -- 静希君が橙子さんに殺されてから、青子が目を覚ますまでの五分間分の時間を巻き戻して。
-  Aoko a rembobiné ton temps de cinq minutes, de l'instant où tu as été tué par Tōko jusqu'à celui où ses pouvoirs se sont éveillés.
+　Aoko a rembobiné ton temps de cinq minutes, de l'instant où tu as été tué par Tōko jusqu'à celui où ses pouvoirs se sont éveillés.
 
 }
 [sha:c72675d3ea3b3ae8eac6771e125498c4352d3e60]{
 -- Page 23, Offset 17363.
 -- その時、貴方は十年近い年月を青子に使われた。
-  Durant le processus, Aoko a emprunté dix ans de ta vie.
+　Durant le processus, Aoko a emprunté dix ans de ta vie.
 
 }
 [sha:4f1f0ef9b24abf05ead36cddece46c099f82b39b]{
 -- Page 23, Offset 17364.
 -- 二人とも肉体年齢は変わってないから、<精神|なか>の時間だけ持っていったんでしょうね。
-  Étant donné que votre âge physique n'a pas changé, elle n'a dû prendre que le temps de ton esprit.
+　Étant donné que votre âge physique n'a pas changé, elle n'a dû prendre que le temps de ton esprit.
 
 }
 [sha:cf9ce21d060dd4028cf41e5d0e9c52f70571d379]{
 -- Page 23, Offset 17365.
 -- だから今、この景色を懐かしく思えるのは青子だけ。
-  Voilà pourquoi elle doit être la seule à ressentir de la nostalgie à la vue de ce paysage.
+　Voilà pourquoi elle doit être la seule à ressentir de la nostalgie à la vue de ce paysage.
 
 }
 [sha:65c3c618ae3ac08ff1c8d2d371976ef7e4fd551e]{
 -- Page 23, Offset 17366.
 -- そして…………」
-  Et............」
+　Et............」
 
 }
 [sha:59f252f56cdeea439320d3ed335721c238819160]{
 -- Page 24, Offset 17367.
 -- そして、時間の交換が終われば、この数分たらずの出来事は、青子と草十郎の記憶から失われる。
-  Et lorsque l'échange temporel prendrait fin, les évènements qui s'étaient déroulés pendant ces quelques minutes disparaîtraient de la mémoire d'Aoko et de Sōjūrō.
+　Et lorsque l'échange temporel prendrait fin, les évènements qui s'étaient déroulés pendant ces quelques minutes disparaîtraient de la mémoire d'Aoko et de Sōjūrō.
 
 }
 [sha:6fa07dbc407791a37d683fa7bd1cb7f5ef12d124]{
 -- Page 24, Offset 17368.
 -- 青子ひとりだけの変化ではなく、他人を媒介にした魔法の結果だ。
-  C'était la conséquence d'une Vraie Magie passant par un intermédiaire et qui ne limitait pas le changement à son utilisateur, en l'occurrence Aoko.
+　C'était la conséquence d'une Vraie Magie passant par un intermédiaire et qui ne limitait pas le changement à son utilisateur, en l'occurrence Aoko.
 
 }
 [sha:b87b91785a106503f2df3493f1acec8ce381001a]{
 -- Page 24, Offset 17369.
 -- 青子ひとりでの逆行であれば、時間軸の矛盾もふくめて彼女の経験になるが、今回は<ま|・><っ|・><と|・><う|・>な時間旅行である。
-  Si cette dernière avait remonté le temps toute seule, elle se serait souvenue de la contradiction de l'axe temporel, mais ce voyage-ci respectait la logique.
+　Si cette dernière avait remonté le temps toute seule, elle se serait souvenue de la contradiction de l'axe temporel, mais ce voyage-ci respectait la logique.
 
 }
 [sha:fdc7a4ef27fec68e9b1a83562af76bb7cf315a25]{
 -- Page 24, Offset 17370.
 -- 矛盾はきちんと修正される。
-  La contradiction serait proprement corrigée.
+　La contradiction serait proprement corrigée.
 
 }
 [sha:9c3558f426594ac121977263a0d47583651c448a]{
 -- Page 25, Offset 17371.
 -- いずれ魔法が解ければ、
-  Lorsque la Vraie Magie se dissiperait,
+　Lorsque la Vraie Magie se dissiperait,
 
 }
 [sha:78c4745fbbd2f7999ca0c6bfdec5f8408389ebcb]{
 -- Page 25, Offset 17372.
 -- 此処を懐かしく思った青子も、
-  Aoko, qui ressentait de la nostalgie envers cet endroit,
+　Aoko, qui ressentait de la nostalgie envers cet endroit,
 
 }
 [sha:44e56da6fdfc21d30b7e7418a6c1098e4dad74d6]{
 -- Page 25, Offset 17373.
 -- 此処を初めてと感じた草十郎も、
-  ainsi que Sōjūrō, qui croyait le voir pour la première fois,
+　ainsi que Sōjūrō, qui croyait le voir pour la première fois,
 
 }
 [sha:fe3acfa27742afd7aaf52681a5f114ccbfa0a3d2]{
 -- Page 25, Offset 17374.
 -- なかった事として修正される。
-  seraient corrigés, comme s'ils n'avaient jamais existé.
+　seraient corrigés, comme s'ils n'avaient jamais existé.
 
 }
 [sha:5b5414ae9aa4abbf7412a603be41a637f3fd6769]{
 -- Page 25, Offset 17375.
 -- この奇跡。
-  Seules les tierces personnes se souviendraient de ce miraculeux océan de fleurs blanches :
+　Seules les tierces personnes se souviendraient de ce miraculeux océan de fleurs blanches :
 
 }
 [sha:173c1963162de375f140d99ab4b2acac21bc82ce]{
 -- Page 25, Offset 17376.
 -- 白い花の海を覚えていられるのは、第三者である有珠と橙子だけになる。
-  Alice et Tōko.
+　Alice et Tōko.
 
 }
 [sha:caeb32231b6da300eaf59b8442ed2e3ea129a1a5]{
@@ -625,13 +625,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:df41ac7b19ad90784c0bc988a0f94803dbf3690f]{
 -- Page 26, Offset 17378.
 -- ますます首を傾げる草十郎に、有珠はとりあえず形だけ説明する事にした。
-  Comme Sōjūrō se montrait de plus en plus perplexe, Alice décida de lui donner une explication pour la forme.
+　Comme Sōjūrō se montrait de plus en plus perplexe, Alice décida de lui donner une explication pour la forme.
 
 }
 [sha:f1840dd7327582c51182a43709d445abaca09236]{
 -- Page 26, Offset 17379.
 -- 理解してもらえなくても、概要を説明してあげれば草十郎は聞き返してこない、と青子が言っていたのを思いだして。
-  Elle se souvint des dires d'Aoko : il suffisait d'un petit résumé pour que Sōjūrō ne pose plus de questions, même s'il ne comprenait pas tout.
+　Elle se souvint des dires d'Aoko : il suffisait d'un petit résumé pour que Sōjūrō ne pose plus de questions, même s'il ne comprenait pas tout.
 
 }
 [sha:5d4531d1b251483d2ea6880e51e7c9649d57a638]{
@@ -643,13 +643,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:1e81362298a9b29b125603029489348a3176ba2a]{
 -- Page 27, Offset 17381.
 -- まだ青子には無理なのか、それとも、今回も<日|ひ><和|よ>ったのか。
-  Elle n'en est peut-être pas encore capable, à moins qu'elle n'ait encore tiré parti des circonstances,
+　Elle n'en est peut-être pas encore capable, à moins qu'elle n'ait encore tiré parti des circonstances,
 
 }
 [sha:37fbf06cb80202bd883d02779b31d6a847ca293b]{
 -- Page 27, Offset 17382.
 -- 大きな操作は避けて、小さな操作―――自分と貴方だけの交換に<留|とど>めたようね」
-  mais en tout cas, elle a évité le recours à une manœuvre de grande envergure pour se cantonner au minimum―――elle s'est limitée à un échange entre elle et toi.」
+　mais en tout cas, elle a évité le recours à une manœuvre de grande envergure pour se cantonner au minimum―――elle s'est limitée à un échange entre elle et toi.」
 
 }
 [sha:dc43303170735182f8fcb2382e87d31d56329712]{
@@ -661,7 +661,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:d3d6cdb52e1c0b861166efac5aedb9d26fab1932]{
 -- Page 28, Offset 17384.
 -- 仮に、遠い未来、この時間を検索できる人がいたとしても、貴方だけは誰にも見つけられない。だって、時間軸の上にいなかったんですもの」
-  Si jamais dans le futur, quelqu'un devient capable d'observer cet instant, tu es le seul que cette personne ne pourra jamais trouver. Et ce pour une simple raison : tu n'existais pas sur cet axe temporel.」
+　Si jamais dans le futur, quelqu'un devient capable d'observer cet instant, tu es le seul que cette personne ne pourra jamais trouver. Et ce pour une simple raison : tu n'existais pas sur cet axe temporel.」
 
 }
 [sha:b2574ae59aaf78541f43c55acfb8ce948968f9da]{
@@ -673,19 +673,19 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:a12a9f3b80bbcd5571bed0524a23b070e7d37926]{
 -- Page 29, Offset 17386.
 -- たぶん幼年期の時間でしょうね。個人の時間操作は、忘却している部分の方が楽だと聞くし……静希君？」
-  Probablement celui de ton enfance. J'ai entendu dire qu'il était plus facile de manipuler les moments oubliés de la vie d'un individu...... Shizuki ?」
+　Probablement celui de ton enfance. J'ai entendu dire qu'il était plus facile de manipuler les moments oubliés de la vie d'un individu...... Shizuki ?」
 
 }
 [sha:261b08f6c34e270a0f737ad017cb67951ebf75f5]{
 -- Page 29, Offset 17387.
 -- もうこの辺で止めておく？
-  On arrête là ?
+　On arrête là ?
 
 }
 [sha:8c1d466ceace18d870a13463d78b8652dedd4269]{
 -- Page 29, Offset 17388.
 -- という有珠の視線に、頷く事しかできない草十郎だった。
-  En réponse au regard explicite d'Alice, Sōjūrō ne put qu'acquiescer d'un signe de tête.
+　En réponse au regard explicite d'Alice, Sōjūrō ne put qu'acquiescer d'un signe de tête.
 
 }
 [sha:ca48697ed67bf33aa9521e6b1de5f0bc4588fd68]{
@@ -697,13 +697,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:69ba02c3305226fa397bf4a42ad3dde0d7d7f6ac]{
 -- Page 30, Offset 17390.
 -- 貴方の体の巻き戻しと、自分の体の早送りね。
-  Le retour dans le passé de ton corps et le saut temporel dans le futur du sien.
+　Le retour dans le passé de ton corps et le saut temporel dans le futur du sien.
 
 }
 [sha:de044eba389de9f3d3b3379aa00d3b8dc4eb800a]{
 -- Page 30, Offset 17391.
 -- 静希君の時間に介入する際、ついでに十年分の時間を借り受けて、未来の自分を持ってきた」
-  Quand elle a interféré avec ton temps, elle en a profité pour t'emprunter dix ans et apporter son futur dans le présent.」
+　Quand elle a interféré avec ton temps, elle en a profité pour t'emprunter dix ans et apporter son futur dans le présent.」
 
 }
 [sha:d8093398d5f39e4ff2c089f22525a3810be6b453]{
@@ -715,13 +715,13 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:f0b5da13cf5393fc3e1f954162f0c6aa4d6def8a]{
 -- Page 31, Offset 17393.
 -- ……だから、まったくちんぷんかんぷんなんだ、有珠。
-  ...... C'est du chinois pour moi, Alice.
+　...... C'est du chinois pour moi, Alice.
 
 }
 [sha:86b2c8f392fec3523e355ae56960518160859299]{
 -- Page 31, Offset 17394.
 -- そんな感想を表情で示しながらも、橙子に関する説明に草十郎は眉をひそめた。
-  Le visage du jeune homme qui traduisait une totale incompréhension jusque-là s'assombrit lorsqu'il entendit les derniers mots concernant Tōko.
+　Le visage du jeune homme qui traduisait une totale incompréhension jusque-là s'assombrit lorsqu'il entendit les derniers mots concernant Tōko.
 
 }
 [sha:48a1e81c516107831214f9a34d4f271adcf64f50]{
@@ -739,43 +739,43 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:872ca1daf2a498d00ec4d982d93e51ef60f41ebb]{
 -- Page 33, Offset 17397.
 -- 有珠の返答に、草十郎は即座に走りだした。
-  Sōjūrō n'hésita pas une seconde avant de s'élancer.
+　Sōjūrō n'hésita pas une seconde avant de s'élancer.
 
 }
 [sha:782d235a76aa63d37fee15482fc343e909f377a7]{
 -- Page 33, Offset 17398.
 -- 白い花びらを散らしながら駆けていく姿は、人狼と対した時の勇ましさを思わせる。
-  L'allure qu'il avait, tandis qu'il semait des pétales blancs derrière lui, évoquait la vaillance dont il avait fait preuve face au loup-garou.
+　L'allure qu'il avait, tandis qu'il semait des pétales blancs derrière lui, évoquait la vaillance dont il avait fait preuve face au loup-garou.
 
 }
 [sha:d8b508d0549d0d2dd3f53aaaaf421b2f0a322e33]{
 -- Page 33, Offset 17399.
 -- 有珠は引き止める事もせず、ただその姿を見続けた。
-  Alice se contenta de le regarder sans chercher à le retenir.
+　Alice se contenta de le regarder sans chercher à le retenir.
 
 }
 [sha:dc6678913a7a9b7dbced10aad01b5fe7823c4055]{
 -- Page 33, Offset 17400.
 -- ……ある雪の日の夜。
-  ...... Une image traversa alors son esprit.
+　...... Une image traversa alors son esprit.
 
 }
 [sha:0ae7bc21bed00d37cf8808608ee7305ee674349a]{
 -- Page 33, Offset 17401.
 -- 誰かのために白犬塚の坂を駆け下りていったであろう、少年の姿と重ねながら。
-  Celle du jeune homme dévalant la colline de Shiroinuzaka pour aider une certaine personne lors de cette fameuse nuit enneigée.
+　Celle du jeune homme dévalant la colline de Shiroinuzaka pour aider une certaine personne lors de cette fameuse nuit enneigée.
 
 }
 [sha:5c67eed5ca1d353c06e9782696a27118aa9e6eae]{
 -- Page 34, Offset 17402.
 -- 草十郎は旧校舎に入っていく。
-  Sōjūrō entra dans l'école.
+　Sōjūrō entra dans l'école.
 
 }
 [sha:7e07f52c019b05981f4176c187fb3c4cfebac7ff]{
 -- Page 34, Offset 17403.
 -- 先ほどから破滅的な音と光が<乱舞|らんぶ>し、<瓦解|がかい>寸前の<墓標|ぼひょう>となった場所に、戸惑う事もなく。
-  Le vacarme et les lumières de désolation s'échappaient depuis un moment des lieux. L'endroit évoquait à présent une pierre tombale sur le point de s'écrouler, mais rien de tout cela ne l'intimida un instant.
+　Le vacarme et les lumières de désolation s'échappaient depuis un moment des lieux. L'endroit évoquait à présent une pierre tombale sur le point de s'écrouler, mais rien de tout cela ne l'intimida un instant.
 
 }
 [sha:0db27933de44b801979ce9434eb53c6c7ff37a4b]{
@@ -787,42 +787,42 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
 [sha:ad01ad6ff6b5fac57d0bbb684c621c805afbdd9d]{
 -- Page 35, Offset 17405.
 -- 悪いけれど、やっぱり無駄だったわ、青子」
-  Tu me pardonneras, Aoko. C'était une perte de temps.」
+　Tu me pardonneras, Aoko. C'était une perte de temps.」
 
 }
 [sha:1133852d09115f10df091b5f3c279268d5520b17]{
 -- Page 35, Offset 17406.
 -- 白い花の中でひとり呟く。
-  murmura-t-elle, seule au milieu du champ de fleurs blanches.
+　murmura-t-elle, seule au milieu du champ de fleurs blanches.
 
 }
 [sha:fd8a53a21fba58f3cd89f224268aa241c38151d0]{
 -- Page 35, Offset 17407.
 -- 青子はこうなる事を予期して、草十郎の足止めを有珠に託したのだ。
-  Aoko avait anticipé la chose et avait chargé Alice de retenir Sōjūrō.
+　Aoko avait anticipé la chose et avait chargé Alice de retenir Sōjūrō.
 
 }
 [sha:af2252511a1d8a78f0e35c89c307dc8aa80b04a8]{
 -- Page 35, Offset 17408.
 -- 橙子との交戦中に割って入られたら、今度こそかばいようがないと。
-  Car s'il intervenait dans son combat contre Tōko, cette fois-ci, elle ne pourrait pas le protéger.
+　Car s'il intervenait dans son combat contre Tōko, cette fois-ci, elle ne pourrait pas le protéger.
 
 }
 [sha:b8160e2885d0c1d4f8abfbcd8b45203a1122fc44]{
 -- Page 36, Offset 17409.
 -- が、青子の見事なまでの草十郎の把握ぶりもこうなっては後の祭りだ。
-  Mais Aoko avait beau comprendre parfaitement le jeune homme, il était trop tard.
+　Mais Aoko avait beau comprendre parfaitement le jeune homme, il était trop tard.
 
 }
 [sha:89f6fb65c7d82ad8f35e1365378ea40f07fed1f4]{
 -- Page 36, Offset 17410.
 -- 追いかける気にもならず、
-  La jeune fille vêtue de noir ne trouvant pas l'envie de le suivre,
+　La jeune fille vêtue de noir ne trouvant pas l'envie de le suivre,
 
 }
 [sha:c0e5210a2743a5217d2e125d9de8375c6417d341]{
 -- Page 36, Offset 17411.
 -- 黒衣の少女は細い眉をかすかに曇らせて、消えていく花園の中で<佇|たたず>むのだった。
-  elle fronça légèrement ses fins sourcils et resta immobile dans le jardin de fleurs voué à disparaître.
+　elle fronça légèrement ses fins sourcils et resta immobile dans le jardin de fleurs voué à disparaître.
 
 }

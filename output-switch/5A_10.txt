@@ -7,13 +7,13 @@
 [sha:baa1934149ece0d1cf7deec0392fc23344e8b7b9]{
 -- Page 0, Offset 4014.
 -- 草十郎にそう告げて、青子は静かに、可能なかぎり音を殺して走り出した。
-  annonça Aoko à Sōjūrō avant de commencer à courir silencieusement, étouffant ses bruits de pas autant que possible.
+　annonça Aoko à Sōjūrō avant de commencer à courir silencieusement, étouffant ses bruits de pas autant que possible.
 
 }
 [sha:d3cb48bd6e7d38072ffc369d4e613f5b98b59748]{
 -- Page 0, Offset 4015.
 -- 二階のほぼ中心、渦の終点には草十郎だけが残っている。
-  Seul Sōjūrō resta au bout de la spirale, au centre du premier étage.
+　Seul Sōjūrō resta au bout de la spirale, au centre du premier étage.
 
 }
 [sha:59a258d23049f3dacf99af02920dc970cf989acf]{
@@ -25,7 +25,7 @@
 [sha:cdccc28b6a14087cd78c9230bf2ef549c7995b11]{
 -- Page 1, Offset 4017.
 -- 自分でもやりすぎだって呆れたもんだけど、貴方が<遊園地|ここ>に来るのが遅かったから。ちょっと興に乗っちゃって”
-  Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps à arriver, j'en ai profité pour m'amuser un peu.”
+　Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps à arriver, j'en ai profité pour m'amuser un peu.”
 
 }
 [sha:7a92ea88d2756015e743f7020c6b077ed15fbe76]{
@@ -37,7 +37,7 @@
 [sha:38728b3ca0d3e581b7a0c96ec2cf8b573fbae595]{
 -- Page 2, Offset 4019.
 -- リスのように首をかしげる草十郎に、青子はそ、と気軽に答えて、伏せておいた最後の切り札を提示した。
-  Devant Sōjūrō qui penchait la tête, intrigué, Aoko confirma sans hésiter et lui parla de son dernier atout, qu'elle avait gardé en réserve.
+　Devant Sōjūrō qui penchait la tête, intrigué, Aoko confirma sans hésiter et lui parla de son dernier atout, qu'elle avait gardé en réserve.
 
 }
 [sha:580e540174fc13761f55e52c2bcb5c03f88850fd]{
@@ -49,7 +49,7 @@
 [sha:90c391c5d951fd30ec2a102751d55d3f620c0737]{
 -- Page 3, Offset 4021.
 -- ジャミングを食らう前に作ったものだから、直接魔力をたたき込めば一気に、こう、いくわ”
-  J'avais mis ça en place avant de m'être fait toucher par le brouillage, alors il me suffira d'y injecter directement mon prana, et ça fera... enfin, ça s'activera.”
+　J'avais mis ça en place avant de m'être fait toucher par le brouillage, alors il me suffira d'y injecter directement mon prana, et ça fera... enfin, ça s'activera.”
 
 }
 [sha:bcabf6ed265617377c6569dda1a422037be16b73]{
@@ -61,7 +61,7 @@
 [sha:d106315a90a5861424bf5554ac297d8f5e658f83]{
 -- Page 3, Offset 4023.
 -- 具体的な表現を避ける青子に、一抹の不安を隠せない草十郎なのだった。
-  Sōjūrō ne put cacher une certaine anxiété en constatant qu'Aoko évitait de rentrer dans les détails.
+　Sōjūrō ne put cacher une certaine anxiété en constatant qu'Aoko évitait de rentrer dans les détails.
 
 }
 [sha:6fcb02fdf1b1f26edec76d656384dc9bd783d03c]{
@@ -73,7 +73,7 @@
 [sha:4fc031b73f7f6f0df2a9639b1f367c7825420daa]{
 -- Page 4, Offset 4025.
 -- あと、もしかして俺、早まったか？”
-  Et aussi, ne suis-je pas arrivé plutôt vite ?”
+　Et aussi, ne suis-je pas arrivé plutôt vite ?”
 
 }
 [sha:02ceea2a46edaed7a9a77645c3abe6077675a411]{
@@ -85,13 +85,13 @@
 [sha:8e31026f83226d236f0a64cd912814ce5dd27790]{
 -- Page 4, Offset 4027.
 -- 追いかけっこの途中でアンタを見失ったら、いっそ建物ごと爆破しちゃおうかなー、って”
-  Je me suis dit que si jamais je te perdais de vue pendant qu'on jouait à chat, je n'avais qu'à faire exploser tout le bâtiment.”
+　Je me suis dit que si jamais je te perdais de vue pendant qu'on jouait à chat, je n'avais qu'à faire exploser tout le bâtiment.”
 
 }
 [sha:614aae24bb863c018be1c4329d017cd58b27774d]{
 -- Page 5, Offset 4028.
 -- なにごとも徹底しておくものねー、と照れ笑いをしながら頭を<掻|か>く青子。
-  “Il faut toujours prendre ses précautions”, dit Aoko avec un sourire gêné et en se grattant la tête.
+　“Il faut toujours prendre ses précautions”, dit Aoko avec un sourire gêné et en se grattant la tête.
 
 }
 [sha:4272624449f376690d1eeaf971de5a265fd1439f]{
@@ -103,7 +103,7 @@
 [sha:c2e2cde97f6111cfa9cc3de1a1fbe491cbeff155]{
 -- Page 5, Offset 4030.
 -- そんな青子の暴虐ぶりに、草十郎は状況を忘れて、心底からの感想で抗議した。
-  Devant la barbarie d'Aoko, Sōjūrō en oublia la situation et protesta en exprimant ce qu'il ressentait au plus profond de son être.
+　Devant la barbarie d'Aoko, Sōjūrō en oublia la situation et protesta en exprimant ce qu'il ressentait au plus profond de son être.
 
 }
 [sha:64589aa9358093e9f2bb25cba4f659e0687fa3bd]{
@@ -115,79 +115,79 @@
 [sha:4b454e8a2a8b1042aba4fd5f67989807513b4e63]{
 -- Page 6, Offset 4032.
 -- ……などと。
-  ...... Etc.
+　...... Etc.
 
 }
 [sha:1a721f7aadc974da021a590f3e8e61cbbb8d77f3]{
 -- Page 6, Offset 4033.
 -- 草十郎が聞いたら<協力|けいかく>を白紙に戻しかねない<愚|グ><痴|チ>をこぼしつつ、青子は通路をひた走る。
-  Aoko, tout en courant dans le couloir, marmonna une phrase qui pourrait bien réduire à néant sa coopération avec Sōjūrō.
+　Aoko, tout en courant dans le couloir, marmonna une phrase qui pourrait bien réduire à néant sa coopération avec Sōjūrō.
 
 }
 [sha:7030c0d8f08102980b6cd0f9d8f77a8ee7e0655b]{
 -- Page 7, Offset 4034.
 -- 作戦はシンプルだ。
-  Le plan était simple.
+　Le plan était simple.
 
 }
 [sha:ff48602572fdf4bc756a6d672259d753cb45c30f]{
 -- Page 7, Offset 4035.
 -- 青子は右に曲がる抜け道を利用し、人形を避けて地下一階まで移動。
-  Aoko utiliserait la sortie sur la droite et se rendrait au sous-sol en évitant la marionnette.
+　Aoko utiliserait la sortie sur la droite et se rendrait au sous-sol en évitant la marionnette.
 
 }
 [sha:e1792fc1189bd011a5de14468df58b08f30a99cb]{
 -- Page 7, Offset 4036.
 -- 地下中央の柱まで辿り着き、仕掛けておいた魔術式に直接魔力を注入し、脱出する。
-  Elle arriverait jusqu'au pilier au centre du sous-sol, injecterait directement son prana dans le sort qu'elle avait placé là et évacuerait les lieux.
+　Elle arriverait jusqu'au pilier au centre du sous-sol, injecterait directement son prana dans le sort qu'elle avait placé là et évacuerait les lieux.
 
 }
 [sha:7ca84a7031d2650123977c334a21baf09246489a]{
 -- Page 7, Offset 4037.
 -- 魔術式が起動し、崩壊がミラーハウス全体に広がるまで早くて一分、その後の倒壊まであと一分。
-  Une fois le sort enclenché, la désintégration prendrait au moins une minute pour s'étendre à tout le palais des glaces, et l'écroulement prendrait une autre minute.
+　Une fois le sort enclenché, la désintégration prendrait au moins une minute pour s'étendre à tout le palais des glaces, et l'écroulement prendrait une autre minute.
 
 }
 [sha:7a7b2308b96261e0509289edb121edcc8ba1c3f3]{
 -- Page 7, Offset 4038.
 -- ……厳しいが、迷路を暗記している青子ならギリギリで脱出できるスケジュールだ。
-  ...... Ce serait limite, mais pour Aoko qui avait mémorisé le plan du labyrinthe, ce plan devrait lui permettre de s'échapper juste à temps.
+　...... Ce serait limite, mais pour Aoko qui avait mémorisé le plan du labyrinthe, ce plan devrait lui permettre de s'échapper juste à temps.
 
 }
 [sha:9d69506061b07bcb483478e370426e751782a9ea]{
 -- Page 8, Offset 4039.
 -- 人形による入り口の<結界|かべ>は、柱の連鎖爆破で吹き飛ぶ程度だろうと青子は予想している。
-  Aoko prévoyait que la Barrière faite par la marionnette à l'entrée était suffisamment fragile pour être désintégrée avec l'explosion successive des piliers.
+　Aoko prévoyait que la Barrière faite par la marionnette à l'entrée était suffisamment fragile pour être désintégrée avec l'explosion successive des piliers.
 
 }
 [sha:f2c98dec8eb1ff11dc245b1a16392a5a4bc76639]{
 -- Page 8, Offset 4040.
 -- 仮にもっと上等な結界だとしても、建物全体が歪んでしまえば消えざるを得ない。地下の魔術式さえ起動させれば草十郎の脱出路は確保できる。
-  Et même en supposant que cette Barrière était plus solide que prévu, si tout le bâtiment se mettait à ployer, elle ne pourrait que disparaître. Il suffisait qu'elle active le sort du sous-sol pour assurer la route d'évasion de Sōjūrō.
+　Et même en supposant que cette Barrière était plus solide que prévu, si tout le bâtiment se mettait à ployer, elle ne pourrait que disparaître. Il suffisait qu'elle active le sort du sous-sol pour assurer la route d'évasion de Sōjūrō.
 
 }
 [sha:1e4714f9441e66bb5affd368955f6a49a45af547]{
 -- Page 9, Offset 4041.
 -- 最後に、肝心の標的について。
-  Enfin, concernant la cible de leur plan,
+　Enfin, concernant la cible de leur plan,
 
 }
 [sha:e9554da9295ae51747a3d04cf239a91c4aada9ca]{
 -- Page 9, Offset 4042.
 -- あのオートマタは遮蔽物だらけの<この場所|ミラーハウス>を苦手としている。アレは構造上、この地形での全速移動はできない。
-  cette marionnette n'était pas à l'aise dans ce palais des glaces qui regorgeait de cachettes. À cause de sa structure, elle ne pouvait pas s'y déplacer à pleine vitesse.
+　cette marionnette n'était pas à l'aise dans ce palais des glaces qui regorgeait de cachettes. À cause de sa structure, elle ne pouvait pas s'y déplacer à pleine vitesse.
 
 }
 [sha:b85f882ac5991d8e9ed88c3cf0e70d0de286430c]{
 -- Page 9, Offset 4043.
 -- 建物が崩壊しだした時に二階の中心付近にいれば、倒壊に巻きこまれてあえなくスクラップだ。
-  Lorsque le bâtiment s'effondrerait, si elle se trouvait aux alentours du milieu du premier étage, elle serait prise dans l'éboulement et serait rapidement écrasée.
+　Lorsque le bâtiment s'effondrerait, si elle se trouvait aux alentours du milieu du premier étage, elle serait prise dans l'éboulement et serait rapidement écrasée.
 
 }
 [sha:20e21803a25b9760c75fce2446944f08c526c8d3]{
 -- Page 9, Offset 4044.
 -- なので問題は、青子が地下に行くまで、いかにして人形を二階に押しとどめておくか、という事だった。
-  Donc le problème était de savoir comment retenir la marionnette au premier étage jusqu'à ce qu'Aoko arrive au sous-sol.
+　Donc le problème était de savoir comment retenir la marionnette au premier étage jusqu'à ce qu'Aoko arrive au sous-sol.
 
 }
 [sha:e6476298a0757254ccab6a0dc549104bf11ffeb3]{
@@ -199,25 +199,25 @@
 [sha:05b83ef4b98745a74429cb1464aebe99e97a7fee]{
 -- Page 10, Offset 4046.
 -- せめて三分ぐらいは引き付けて―――”
-  Retiens-la pendant, disons, au moins trois minutes―――”
+　Retiens-la pendant, disons, au moins trois minutes―――”
 
 }
 [sha:a2ec43c7b3e134e8a448553ffca677c4a44ecb59]{
 -- Page 10, Offset 4047.
 -- 青子が地下に到達し、魔術式を起動させるまで人形を引き付けてくれるなら文句なし。
-  S'il parvenait à la retenir jusqu'à ce qu'Aoko arrive au sous-sol et active le sort, elle n'aurait pas à se plaindre.
+　S'il parvenait à la retenir jusqu'à ce qu'Aoko arrive au sous-sol et active le sort, elle n'aurait pas à se plaindre.
 
 }
 [sha:2932472223e370e0686c9fbe7f672ebe63ce9a12]{
 -- Page 10, Offset 4048.
 -- もしくは、せめて一階の大広間に下りるまで囮になってくれれば、この作戦は上手くいく。
-  Ou alors, s'il pouvait au moins la leurrer jusqu'à la grande salle du rez-de-chaussée, le plan se passerait bien.
+　Ou alors, s'il pouvait au moins la leurrer jusqu'à la grande salle du rez-de-chaussée, le plan se passerait bien.
 
 }
 [sha:aff9e41e5b1f92ac50979b468b34bced8b23657f]{
 -- Page 11, Offset 4049.
 -- 草十郎が危険なのは百も承知だが、<青子|じぶん>からあれだけ逃げ回った草十郎の運と脚力は馬鹿にできない。
-  Elle savait pertinemment qu'elle mettait Sōjūrō en danger, mais elle n'ignorait pas non plus sa chance et ses capacités à la course qui lui avaient permis de lui échapper jusque-là.
+　Elle savait pertinemment qu'elle mettait Sōjūrō en danger, mais elle n'ignorait pas non plus sa chance et ses capacités à la course qui lui avaient permis de lui échapper jusque-là.
 
 }
 [sha:c6ad1fd9ce5ca09e6f1197bca5b91cba41284005]{
@@ -229,43 +229,43 @@
 [sha:739b5447b33e0ac7335c2a493dfb4765e05caadd]{
 -- Page 11, Offset 4051.
 -- トンデモない事をしてくれるかも、アイツ”
-  peut-être que ce type fera quelque chose d'incroyable.”
+　peut-être que ce type fera quelque chose d'incroyable.”
 
 }
 [sha:66e388dd0c03a57a3b5f6fa18fa865fcc7d1db2e]{
 -- Page 11, Offset 4052.
 -- などと。迷路の横道を走りながら、青子はつい、ここには居ない草十郎に期待をよせたのだった。
-  Pendant qu'elle courait dans le chemin de traverse du labyrinthe, Aoko plaça inconsciemment ses espoirs en Sōjūrō resté en arrière.
+　Pendant qu'elle courait dans le chemin de traverse du labyrinthe, Aoko plaça inconsciemment ses espoirs en Sōjūrō resté en arrière.
 
 }
 [sha:2c8c050cabc3155a9d66903c5f723123f0ef738e]{
 -- Page 12, Offset 4053.
 -- ―――一方。
-  ―――Pendant ce temps,
+　―――Pendant ce temps,
 
 }
 [sha:d50b03d0736187fadfc4357f097255969c7bec1d]{
 -- Page 12, Offset 4054.
 -- そんな青子の声が聞こえるはずもなく、草十郎は必死の追いかけっこに挑もうとしていた。
-  Sōjūrō, qui ne risquait pas d'entendre la voix d'Aoko, se préparait au jeu de cache-cache mortel.
+　Sōjūrō, qui ne risquait pas d'entendre la voix d'Aoko, se préparait au jeu de cache-cache mortel.
 
 }
 [sha:fdabcc8fd50a730b080997f4787649723e81f1e9]{
 -- Page 12, Offset 4055.
 -- 彼は自分なりの方法で<心|む><臓|ね>の動悸を押さえつける。
-  Il réprimait comme il le pouvait les battements de son cœur.
+　Il réprimait comme il le pouvait les battements de son cœur.
 
 }
 [sha:7e492d9a0c7c09aafb43129ed2e55e2815c5c75c]{
 -- Page 12, Offset 4056.
 -- 大事なのは落ち着く事だ。作戦自体はシンプルで、そう難しいものじゃない。
-  Le plus important était de se calmer. Le plan était simple, il n'y avait rien de bien difficile à accomplir.
+　Le plus important était de se calmer. Le plan était simple, il n'y avait rien de bien difficile à accomplir.
 
 }
 [sha:dd696d9872146267b2ecf4519d51fe56202087d2]{
 -- Page 12, Offset 4057.
 -- 青子の指示は短く、実に分かりやすかった。
-  Les directives d'Aoko étaient courtes et très claires.
+　Les directives d'Aoko étaient courtes et très claires.
 
 }
 [sha:22b38f3e20583e14204df668e2059d7d15493093]{
@@ -277,31 +277,31 @@
 [sha:4c0ee7a8d88f3b8b1b8d4c5c237d1ce38e0e7749]{
 -- Page 13, Offset 4059.
 -- 横道は鏡のつなぎ目で覚えて。ここなら左回りで六、三、七、二枚目にあるから、そこをぐるぐる回ってれば比較的安全よ”
-  Souviens-toi que le chemin de traverse est à un point de réunion des miroirs. À partir d'ici, les passages se trouvent aux sixième, troisième, septième et deuxième miroirs dans le sens inverse des aiguilles d'une montre. Si tu tournes en rond de cette façon, ça devrait être assez sûr.”
+　Souviens-toi que le chemin de traverse est à un point de réunion des miroirs. À partir d'ici, les passages se trouvent aux sixième, troisième, septième et deuxième miroirs dans le sens inverse des aiguilles d'une montre. Si tu tournes en rond de cette façon, ça devrait être assez sûr.”
 
 }
 [sha:50384bd5609091ab15e8fc41821017979c6e1a11]{
 -- Page 14, Offset 4060.
 -- ……要は円を描くマラソンである。
-  ...... En d'autres termes, c'était un marathon décrivant un cercle.
+　...... En d'autres termes, c'était un marathon décrivant un cercle.
 
 }
 [sha:67896502b6202d2a4b25af02652bd2fd33657ee0]{
 -- Page 14, Offset 4061.
 -- 人形からは伸びる腕だけが届いて、ぎりぎり追跡できるじれったい距離をキープしていれば、相手はしつこく追いかけてくる筈だ。
-  Si la marionnette ne pouvait l'atteindre qu'avec le bras rétractable et s'il restait tout juste hors de portée, l'ennemi devrait le poursuivre inlassablement.
+　Si la marionnette ne pouvait l'atteindre qu'avec le bras rétractable et s'il restait tout juste hors de portée, l'ennemi devrait le poursuivre inlassablement.
 
 }
 [sha:e9ee23e8bf27e3bfb675e8a6b6923c0149bfabbf]{
 -- Page 14, Offset 4062.
 -- 単純作業だが、草十郎にとっては命懸けの囮役である。
-  Il s'agissait d'une tâche assez simple, mais pour Sōjūrō, c'était principalement un rôle d'appât risqué.
+　Il s'agissait d'une tâche assez simple, mais pour Sōjūrō, c'était principalement un rôle d'appât risqué.
 
 }
 [sha:66cc5c8d15b3b9cec5da112604c9664d8774415c]{
 -- Page 14, Offset 4063.
 -- 加えて、建物が揺れだしたら全力で出口まで走れ、という無茶な注文付き。
-  Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment tremblerait.
+　Par-dessus le marché, elle avait ajouté une instruction absurde qui stipulait qu'il devrait courir à toutes jambes dès que le bâtiment tremblerait.
 
 }
 [sha:e02242d4a709809d6f6cc6cd64f0eb04e85791ed]{
@@ -313,19 +313,19 @@
 [sha:64c74bd6252d7964ad6597934aa10a085f5eedb5]{
 -- Page 15, Offset 4065.
 -- おびえおびえのぎこちない動作で、草十郎は曲がり角から顔を出す。
-  Sōjūrō sortit la tête du virage avec appréhension.
+　Sōjūrō sortit la tête du virage avec appréhension.
 
 }
 [sha:43911229408d8d0708db93eab15cef3a1988f14f]{
 -- Page 15, Offset 4066.
 -- ……突き当たりの曲がり角からは例のオルゴールの音。
-  ...... Le fameux son de la boîte à musique lui parvenait depuis le virage du fond du couloir.
+　...... Le fameux son de la boîte à musique lui parvenait depuis le virage du fond du couloir.
 
 }
 [sha:49f41421c3530c876b43083e5708c351da7a0aaa]{
 -- Page 15, Offset 4067.
 -- まずはここで顔を合わせて、右側のショートカットを抜けて、ループ状の鬼ごっこを開始しなくてはいけない。
-  D'abord, il devait lui faire face ici, puis s'échapper par le raccourci du côté droit et commencer à jouer au chat et à la souris en boucle.
+　D'abord, il devait lui faire face ici, puis s'échapper par le raccourci du côté droit et commencer à jouer au chat et à la souris en boucle.
 
 }
 [sha:f8b2d368c3b6ba5bf7fb1a7e3cac010853198cd3]{
@@ -337,19 +337,19 @@
 [sha:778b0ad5c71be380c7067565f22a0866e68dc66e]{
 -- Page 16, Offset 4069.
 -- 来た、と身構える。
-  Elle est là, se dit-il en se tenant prêt.
+　Elle est là, se dit-il en se tenant prêt.
 
 }
 [sha:a8ab55bf77ef079bb6c13c097bff07af46a97d83]{
 -- Page 16, Offset 4070.
 -- 引きつけて、引きつけて。
-  La retenir, la retenir.
+　La retenir, la retenir.
 
 }
 [sha:2f810b5bf2f14ddfeb4581ab470b5bea34730e3f]{
 -- Page 16, Offset 4071.
 -- いつ伸びてくるか分からない腕におびえながら、草十郎は青子の説明を思いかえ―――
-  Tandis qu'il attendait avec effroi le bras qui pouvait s'allonger à tout moment, Sōjūrō se remémora les explications d'Aoko―――
+　Tandis qu'il attendait avec effroi le bras qui pouvait s'allonger à tout moment, Sōjūrō se remémora les explications d'Aoko―――
 
 }
 [sha:657443f99652b19198a2ff31fd6fb5ee689cd087]{
@@ -361,19 +361,19 @@
 [sha:a2799ad269f186bf3d3294e4fbd75795c39685d4]{
 -- Page 17, Offset 4073.
 -- ところで。
-  Au fait...
+　Au fait...
 
 }
 [sha:021b06c98f36c4258122569e34c30331984d6b50]{
 -- Page 17, Offset 4074.
 -- 一番はじめの横道は、何枚目だったっけ？
-  Où était le premier chemin de traverse, déjà ?
+　Où était le premier chemin de traverse, déjà ?
 
 }
 [sha:11e4ac6bb7c49721ea61ec937f3f3e59291a528f]{
 -- Page 17, Offset 4075.
 -- 三枚目か、六枚目か、九枚目か―――
-  Au troisième miroir ? Au sixième ? Ou au neuvième―――?
+　Au troisième miroir ? Au sixième ? Ou au neuvième―――?
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -385,37 +385,37 @@
 [sha:c12ba53ab2a04de8849634f7d0f688de59485a3a]{
 -- Page 18, Offset 4077.
 -- 違う。
-  Non.
+　Non.
 
 }
 [sha:de8345e04a02dc810182a686efe659b2cd1373ef]{
 -- Page 18, Offset 4078.
 -- なんか、全部違う気がする。
-  Il avait l'impression que ce n'était pas du tout ça.
+　Il avait l'impression que ce n'était pas du tout ça.
 
 }
 [sha:0d5c540539eabb0cbda03c941a48d54756ed1733]{
 -- Page 18, Offset 4079.
 -- さっきまでは完璧に思い返せたのに、緊張からか、草十郎の頭はぐるんぐるんに回りはじめ―――
-  Jusqu'à maintenant, il s'en était rappelé parfaitement, mais probablement à cause du stress, la tête de Sōjūrō commençait à tourner―――
+　Jusqu'à maintenant, il s'en était rappelé parfaitement, mais probablement à cause du stress, la tête de Sōjūrō commençait à tourner―――
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 19, Offset 4080.
 -- ……と。
-  ...... Puis,
+　...... Puis,
 
 }
 [sha:4df48b8892703479e6d101a568a446d817c3e9a6]{
 -- Page 19, Offset 4081.
 -- 草十郎は前方にあった追跡者の<物音|プレッシャー>が、唐突に離れていく事に気が付いた。
-  Sōjūrō se rendit compte que la présence oppressante de son poursuivant s'éloignait soudainement.
+　Sōjūrō se rendit compte que la présence oppressante de son poursuivant s'éloignait soudainement.
 
 }
 [sha:ffbeded86ec0b822e539b08a65437c7a688f7f5b]{
 -- Page 19, Offset 4082.
 -- それも予想外のスピードで、ガシャガシャと音をたてながら。
-  Qui plus est, à une vitesse déconcertante, tout en émettant des bruits mécaniques.
+　Qui plus est, à une vitesse déconcertante, tout en émettant des bruits mécaniques.
 
 }
 [sha:68dc30bcee06ae050d3267b903ddfe1dc3e22d0c]{
@@ -427,25 +427,25 @@
 [sha:c0ff332707f4d7a00621e928f8b75c97af812d66]{
 -- Page 20, Offset 4084.
 -- 異様な人形のシルエットに、<唖然|あぜん>とする草十郎。
-  Sōjūrō fut abasourdi en voyant la silhouette étrange de la marionnette.
+　Sōjūrō fut abasourdi en voyant la silhouette étrange de la marionnette.
 
 }
 [sha:72f0b1eccfb81bbcaeb42ace7c9db5ebb61ca7d3]{
 -- Page 20, Offset 4085.
 -- あろうことか、美しい少女のカタチをした人形は唐突に、
-  Subitement, alors qu'elle avait jusque-là la forme d'une ravissante jeune fille,
+　Subitement, alors qu'elle avait jusque-là la forme d'une ravissante jeune fille,
 
 }
 [sha:4d8deb49a94bb7ea8add1e77ce5dc5ec176e3e99]{
 -- Page 20, Offset 4086. Mods: @n.
 -- 構造的にあり得ない変形をして、
-  la marionnette prit une forme normalement impossible, anatomiquement parlant,
+　la marionnette prit une forme normalement impossible, anatomiquement parlant,
 
 }
 [sha:347b1c976b5792837130eb205eeead42499aa551]{
 -- Page 20, Offset 4087. Glued.
 -- 一階に下りていった“本命”へと踵を返した。
-  et se dirigea vers le rez-de-chaussée où se trouvait son “véritable objectif”.
+　et se dirigea vers le rez-de-chaussée où se trouvait son “véritable objectif”.
 
 }
 [sha:11c46109d375e24c0412b552ea7c073602e70305]{
@@ -457,13 +457,13 @@
 [sha:5633e35c56124086b9a7c089bdd00c0fb559cb3a]{
 -- Page 21, Offset 4089.
 -- まずいな、と呟いて、途方にくれる草十郎。
-  “Ça va pas”, murmura Sōjūrō déconcerté.
+　“Ça va pas”, murmura Sōjūrō déconcerté.
 
 }
 [sha:77000305d9ee544764a39bc7d0921982c870556d]{
 -- Page 21, Offset 4090.
 -- 失敗を悔やむ時間すらない。人形はもう影もカタチもなく、草十郎の前から走り去ってしまったのだ。
-  Il n'eut même pas le temps de regretter son échec. La marionnette avait déjà disparu sans laisser la moindre trace.
+　Il n'eut même pas le temps de regretter son échec. La marionnette avait déjà disparu sans laisser la moindre trace.
 
 }
 [sha:189de8b5b56dc2c514798d49776d379f4dd5a918]{
@@ -475,7 +475,7 @@
 [sha:89814e7ec656d2758f820c36ac40ab92b41f9fb5]{
 -- Page 21, Offset 4092.
 -- ……などと言っておいて、コレでは立場も何もない。
-  ...... avait-il dit, mais vu la tournure des évènements, il n'avait été utile en rien.
+　...... avait-il dit, mais vu la tournure des évènements, il n'avait été utile en rien.
 
 }
 [sha:8e2367e942cf8433a9a8df2c54da7500173e0444]{
@@ -487,43 +487,43 @@
 [sha:5cca6a808ff35c2c754bbef05606c1b40939cd81]{
 -- Page 22, Offset 4094.
 -- ひとり、困ったように首をかしげる。
-  À présent seul, il resta perplexe et embêté.
+　À présent seul, il resta perplexe et embêté.
 
 }
 [sha:4616425df6c9f6b0e9373d1d20cabed60639b8b2]{
 -- Page 22, Offset 4095.
 -- 草十郎は<傍|かたわ>らに青子がいるかのように、暗い通路に語りかけた。
-  Sōjūrō parla comme si dans le couloir sombre, Aoko se trouvait à côté de lui.
+　Sōjūrō parla comme si dans le couloir sombre, Aoko se trouvait à côté de lui.
 
 }
 [sha:733eb56672be581caf3180e64658654e32a5388e]{
 -- Page 23, Offset 4096. Mods: @n.
 -- 同時刻。
-  Au même moment,
+　Au même moment,
 
 }
 [sha:e727300b159ff6c3a982249d7572dec480f6dbc4]{
 -- Page 23, Offset 4097. Glued.
 -- 青子は一階の広間に辿り着いた時、正しく状況を受け入れた。
- alors qu'Aoko arrivait dans la grande salle du rez-de-chaussée, elle dut se rendre à l'évidence.
+alors qu'Aoko arrivait dans la grande salle du rez-de-chaussée, elle dut se rendre à l'évidence.
 
 }
 [sha:081224e1664a0e48f3171a4cccc630c4de259e9e]{
 -- Page 24, Offset 4098.
 -- 耳を澄ませるまでもない。
-  Elle n'avait même pas besoin de tendre l'oreille pour l'entendre.
+　Elle n'avait même pas besoin de tendre l'oreille pour l'entendre.
 
 }
 [sha:fbc9a57d71deca18317dded5ca4239c4d86528bc]{
 -- Page 24, Offset 4099.
 -- このアトラクションが<栄華|えいが>を誇っていた頃ですら、なかったであろう<騒音|にぎわい>。
-  Ce bruit qui n'existait pas, même lorsque cette attraction était au faîte de sa gloire.
+　Ce bruit qui n'existait pas, même lorsque cette attraction était au faîte de sa gloire.
 
 }
 [sha:f555e3ff9dcdc12d63d00893caf82d64ae7443d1]{
 -- Page 24, Offset 4100.
 -- ハリネズミのお化けが鏡をけずりながら大挙して迫ってくるような、そんな、絶望に似たノイズが聞こえてくる。
-  Elle entendait un véritable vacarme apportant le désespoir, comme si une araignée monstrueuse la poursuivait en frôlant les miroirs à toute vitesse.
+　Elle entendait un véritable vacarme apportant le désespoir, comme si une araignée monstrueuse la poursuivait en frôlant les miroirs à toute vitesse.
 
 }
 [sha:ed4247fa8eb5459cff8769afc691f7710d16c0b3]{
@@ -535,13 +535,13 @@
 [sha:d5ccd8802a6b48ee950f60646b3b254c559f9913]{
 -- Page 25, Offset 4102.
 -- 時間を稼ぐ、どころの話じゃない。
-  Ce n'était même plus une question de lui faire gagner un peu de temps.
+　Ce n'était même plus une question de lui faire gagner un peu de temps.
 
 }
 [sha:bcbcbef7f860909708b7d803c259d46949883355]{
 -- Page 25, Offset 4103.
 -- 本当、ただ逃げるだけなのにトンデモない事をしてくれやがった、と悪態のひとつもつきたくなる。
-  Bon sang, je savais bien qu'il ferait quelque chose de pas croyable rien qu'en courant, eut-elle envie de pester.
+　Bon sang, je savais bien qu'il ferait quelque chose de pas croyable rien qu'en courant, eut-elle envie de pester.
 
 }
 [sha:0a5ee0b73031c24e1f6b8722d3f3ca01dabe8a0f]{
@@ -553,43 +553,43 @@
 [sha:1a0a058a73d8916ee0fd388e84753f537c632776]{
 -- Page 26, Offset 4105.
 -- 反響する何人もの足音。
-  On distinguait l'écho des bruits de pas de plusieurs personnes.
+　On distinguait l'écho des bruits de pas de plusieurs personnes.
 
 }
 [sha:da99c3faa3e8d5f2bd0fd5455723482881d8dedf]{
 -- Page 26, Offset 4106.
 -- それだけで青子は、通路を走る、六足歩行の巨大な蜘蛛を予想した。
-  Rien qu'avec ça, Aoko s'imagina une énorme araignée à six pattes courant dans les couloirs.
+　Rien qu'avec ça, Aoko s'imagina une énorme araignée à six pattes courant dans les couloirs.
 
 }
 [sha:4cae8f8ccbd125966152456740d84fb0a10f9fdd]{
 -- Page 27, Offset 4107.
 -- 敵の移動速度が今までとは比較にならないのは当然だ。
-  Il était logique que sa vitesse ait considérablement augmenté.
+　Il était logique que sa vitesse ait considérablement augmenté.
 
 }
 [sha:214fe620efae2eca499711c994934e391facdf4c]{
 -- Page 27, Offset 4108.
 -- 反響定位による環境把握は暗闇でこそ生きる。
-  La perception de l'environnement proche par écholocalisation était particulièrement utile dans les ténèbres.
+　La perception de l'environnement proche par écholocalisation était particulièrement utile dans les ténèbres.
 
 }
 [sha:8d00b4106ea5e832b698a78ff688020ace6d3b9d]{
 -- Page 27, Offset 4109.
 -- 鏡の迷路において、視力に頼る人間より、自動人形は何倍も精確に周囲を把握している。
-  Dans ce labyrinthe de miroirs, l'Automate percevait les alentours bien mieux qu'un humain avec son acuité visuelle.
+　Dans ce labyrinthe de miroirs, l'Automate percevait les alentours bien mieux qu'un humain avec son acuité visuelle.
 
 }
 [sha:54009a8dc0a7c253299fbd4c73a4d5fb9bf16ae9]{
 -- Page 27, Offset 4110.
 -- それでも青子に追いつけなかったのは、たんに二本足では小刻みな方向転換に耐えられなかったからだ。
-  Si elle n'était pas parvenue à poursuivre Aoko malgré ça, c'était simplement parce que sur deux jambes, elle ne pouvait pas gérer efficacement les fréquents virages du couloir.
+　Si elle n'était pas parvenue à poursuivre Aoko malgré ça, c'était simplement parce que sur deux jambes, elle ne pouvait pas gérer efficacement les fréquents virages du couloir.
 
 }
 [sha:db3230e13c8c3d1d52ac3cdfa7d59b2dc5a94d12]{
 -- Page 27, Offset 4111.
 -- 多脚という安定性を持てば、そのスピードは人間を遥かに凌駕する。
-  Maintenant qu'elle possédait la stabilité que lui conféraient ses multiples jambes, sa vitesse surpassait de loin celle des humains.
+　Maintenant qu'elle possédait la stabilité que lui conféraient ses multiples jambes, sa vitesse surpassait de loin celle des humains.
 
 }
 [sha:af962b3cf4f14f223178f570d6c023aad0e2237f]{
@@ -601,61 +601,61 @@
 [sha:4b6b45617798c49eca59417b785260d69859da9a]{
 -- Page 28, Offset 4113.
 -- 混乱する思考のまま、迅速に打開策を模索する。
-  Même perturbée, elle cherchait au plus vite une solution pour sortir de cette impasse.
+　Même perturbée, elle cherchait au plus vite une solution pour sortir de cette impasse.
 
 }
 [sha:7b70e122ddb345b6833a883be047f10250266970]{
 -- Page 28, Offset 4114.
 -- はっきりしているのは、ここが勝敗の分かれ目というコトだけ。
-  Tout ce dont elle était sûre, c'était que son choix déciderait de l'issue de la bataille.
+　Tout ce dont elle était sûre, c'était que son choix déciderait de l'issue de la bataille.
 
 }
 [sha:61af8102af0d480e660376dacda196b5d838b799]{
 -- Page 29, Offset 4115.
 -- このまま足を止めていれば十秒ほどで追いつかれる。
-  Si elle arrêtait de courir ici, la marionnette la rattraperait en à peu près dix secondes.
+　Si elle arrêtait de courir ici, la marionnette la rattraperait en à peu près dix secondes.
 
 }
 [sha:e7104a6662ec3417d718240a22a9c090e95f5c4a]{
 -- Page 29, Offset 4116.
 -- 入り口の<結界|かべ>は今の青子でも小指一本で解除できる<稚拙さ|レベル>だ。魔術と言わず、魔力を流すだけで中和できる。
-  Vu le niveau de la Barrière de l'entrée, celle-ci pouvait être neutralisée rien qu'avec le petit doigt d'Aoko, même dans son état actuel. Sans avoir à utiliser le moindre sort, il lui suffisait d'y injecter son prana pour la détruire.
+　Vu le niveau de la Barrière de l'entrée, celle-ci pouvait être neutralisée rien qu'avec le petit doigt d'Aoko, même dans son état actuel. Sans avoir à utiliser le moindre sort, il lui suffisait d'y injecter son prana pour la détruire.
 
 }
 [sha:381e1c7a8695bc92c5eabbe88bae3e18abe5cecd]{
 -- Page 29, Offset 4117.
 -- 青子が全力で走り続けられるのは三分強。
-  Aoko ne pouvait continuer de courir à toutes jambes que pendant trois minutes.
+　Aoko ne pouvait continuer de courir à toutes jambes que pendant trois minutes.
 
 }
 [sha:9712b8f184845bfda01ff289d33fafefc01f17e6]{
 -- Page 29, Offset 4118.
 -- <我慢|スタミナ>比べはどう見ても人形に分がある。
-  Quelle que soit la manière dont elle abordait le problème, la marionnette lui était supérieure en endurance.
+　Quelle que soit la manière dont elle abordait le problème, la marionnette lui était supérieure en endurance.
 
 }
 [sha:724182547d28d498099127bc089d2d500b54c34d]{
 -- Page 30, Offset 4119.
 -- 考えられる選択肢は三つ。
-  Elle avait trois options possibles.
+　Elle avait trois options possibles.
 
 }
 [sha:4a547671b2b716ff7cfbb64300513145fa8eee34]{
 -- Page 30, Offset 4120.
 -- 一つ、出口は目の前、外に逃げる。
-  Premièrement, la sortie étant devant elle, elle s'enfuyait à l'extérieur.
+　Premièrement, la sortie étant devant elle, elle s'enfuyait à l'extérieur.
 
 }
 [sha:48b10360ff2799e7251aa83ee264d0f5fd46f832]{
 -- Page 30, Offset 4121.
 -- 二つ、二階より複雑な一階の迷路に身を隠す。
-  Deuxièmement, elle se cachait dans le labyrinthe du rez-de-chaussée, plus complexe que celui du premier étage.
+　Deuxièmement, elle se cachait dans le labyrinthe du rez-de-chaussée, plus complexe que celui du premier étage.
 
 }
 [sha:5244efe364d4d27251da8ac0529a5ea320c23dc8]{
 -- Page 30, Offset 4122.
 -- 三つ、地下に走って、袋のネズミとばかりに、あの人形に追いつめられる―――
-  Troisièmement, elle fonçait vers le sous-sol et se faisait poursuivre par cette marionnette comme dans un piège à rats―――
+　Troisièmement, elle fonçait vers le sous-sol et se faisait poursuivre par cette marionnette comme dans un piège à rats―――
 
 }
 [sha:c27930a16492949dcd8ac5194b419caa23d0087d]{
@@ -667,24 +667,24 @@
 [sha:c12da5faaa9c67e4fbd36e7a377091c7bd17e3c0]{
 -- Page 31, Offset 4124.
 -- 決断はまたたきの内に。
-  Elle prit sa décision en un clin d'œil.
+　Elle prit sa décision en un clin d'œil.
 
 }
 [sha:711f440d81c8217c597c04c798a709b0ea374f6c]{
 -- Page 31, Offset 4125.
 -- 立ちつくしていた両足には確かな力。
-  Sa détermination lui redonna de la force dans les jambes.
+　Sa détermination lui redonna de la force dans les jambes.
 
 }
 [sha:83ea13b18f6f0282e03f01a26ae496f59f384899]{
 -- Page 31, Offset 4126.
 -- 嵐はもう頭上に迫っている。
-  La tempête était déjà sur le point de fondre sur elle.
+　La tempête était déjà sur le point de fondre sur elle.
 
 }
 [sha:cd123d3ae3aeeedf1b6e92e4b15b18f0c4e36756]{
 -- Page 31, Offset 4127.
 -- 意を決して、少女は眼下の暗闇に向かって走りだした。
-  Son choix entériné, la jeune fille se tourna vers les ténèbres qui s'étendaient sous ses yeux et commença à courir.
+　Son choix entériné, la jeune fille se tourna vers les ténèbres qui s'étendaient sous ses yeux et commença à courir.
 
 }

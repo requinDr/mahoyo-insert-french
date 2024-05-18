@@ -19,7 +19,7 @@
 [sha:dc63286dc44409654f7ece86fb0c2e6f161a90c0]{
 -- Page 1, Offset 22331.
 -- それにアッちゃんはこう言ったわ。<使|・><用|・><者|・><が|・><定|・><め|・><た|・><条|・><件|・>だって。このプロイは事故で起動したんじゃなくて、誰かが意図的に起動させたって事でしょう？」
-  Et puis, la petite Al a mentionné le fait que “l'utilisateur doit remplir les conditions fixées”. Ce qui signifie que ce Ploy ne s'est pas activé par accident, mais que quelqu'un l'a mis en marche intentionnellement, non ?」
+　Et puis, la petite Al a mentionné le fait que “l'utilisateur doit remplir les conditions fixées”. Ce qui signifie que ce Ploy ne s'est pas activé par accident, mais que quelqu'un l'a mis en marche intentionnellement, non ?」
 
 }
 [sha:993082fd2f21e8b2bca73069bc0bd2855b980ec3]{
@@ -37,7 +37,7 @@
 [sha:3ba47d619498245f32f5fbfeac73b2625ac6d4df]{
 -- Page 2, Offset 22334.
 -- そいつが誰かは分からないけど、こんなルールを作った以上、なんとしても私たちを笑わせようとするんじゃない？」
-  J'ignore de qui il s'agit, mais étant donné la règle qu'il a créée, j'imagine qu'il va essayer de nous faire rire par n'importe quel moyen.」
+　J'ignore de qui il s'agit, mais étant donné la règle qu'il a créée, j'imagine qu'il va essayer de nous faire rire par n'importe quel moyen.」
 
 }
 [sha:4c8459cf6fc14893c4d1c12e59c5f9965f53786a]{
@@ -49,7 +49,7 @@
 [sha:adc1f5b8e90ace46340229717a461837e1d3db0c]{
 -- Page 3, Offset 22336.
 -- ……こんなコト言いたくないけど。疑心暗鬼から来客たちが自滅しあうのはミステリの定番でしょ、律架」
-  ... Je n'aime pas dire ça, mais dans les romans policiers, il n'est pas rare de voir les hôtes s'entretuer par suspicion les uns envers les autres. Je me trompe, Ritsuka ?」
+　... Je n'aime pas dire ça, mais dans les romans policiers, il n'est pas rare de voir les hôtes s'entretuer par suspicion les uns envers les autres. Je me trompe, Ritsuka ?」
 
 }
 [sha:bd7ffd1e0dea8b510b9c114388fb8a263d91fbd3]{
@@ -61,13 +61,13 @@
 [sha:d0b9ee43a15543f4107447e62ed515a71abec352]{
 -- Page 4, Offset 22338.
 -- このルールの底意地が悪いところは、殺害方法が犯人だけの特権ではない事よ。極論として、犯人を突き止めなくても生き残れる方法はある。
-  Le côté sournois de cette règle, c'est que la méthode de meurtre n'est pas un privilège réservé au coupable. De l'autre côté, il y a un moyen très simple de survivre même si on ne trouve pas son identité.
+　Le côté sournois de cette règle, c'est que la méthode de meurtre n'est pas un privilège réservé au coupable. De l'autre côté, il y a un moyen très simple de survivre même si on ne trouve pas son identité.
 
 }
 [sha:742559f0fda9bddbfa905cc324a00322b1346ab8]{
 -- Page 4, Offset 22339.
 -- 要は、他人に笑わせられなければいいんだから―――」
-  En somme, il suffit de ne pas rire aux blagues d'autrui―――」
+　En somme, il suffit de ne pas rire aux blagues d'autrui―――」
 
 }
 [sha:da16c576f0c7e9c4fa34a683fb6c99dbd72cc628]{
@@ -79,13 +79,13 @@
 [sha:5f52c82eab80abb56dba97bb03dcac9f1a9ccf55]{
 -- Page 5, Offset 22341.
 -- 自分以外の人間を、先に消してしまえば安全だ。
-  Il suffit d'éliminer les autres pour être en sécurité.
+　Il suffit d'éliminer les autres pour être en sécurité.
 
 }
 [sha:76587a31e88121c87e6820ef886597ad9d9e7d13]{
 -- Page 5, Offset 22342.
 -- ……まとめるとこういう事ですか？」
-  ... Si on résume, voilà ce que ça donne :」
+　... Si on résume, voilà ce que ça donne :」
 
 }
 [sha:1c3b9559c33d268848bab1f8af907d573b717209]{
@@ -97,19 +97,19 @@
 [sha:f5d6f8a49e1b336cedeb6d0e586d08f6aee89c57]{
 -- Page 6, Offset 22344.
 -- ２．その状況を望んだ人物Ａがいる。
-  2. Un individu A a souhaité cette situation.
+　2. Un individu A a souhaité cette situation.
 
 }
 [sha:f482504e0f0e7297b3306c1617e050b94dda3fec]{
 -- Page 6, Offset 22345.
 -- ３．俺たちは、その人物Ａが誰なのかを見抜くまで安心できない。なぜなら、その人物Ａは既に土桔老人を殺害しており、他の人間を殺さない保証はないからである。
-  3. Tant que nous n'aurons pas découvert son identité, nous ne pourrons pas être tranquilles. Car il a déjà tué le vieux Tokitsu et rien ne nous garantit qu'il ne tuera pas quelqu'un d'autre.
+　3. Tant que nous n'aurons pas découvert son identité, nous ne pourrons pas être tranquilles. Car il a déjà tué le vieux Tokitsu et rien ne nous garantit qu'il ne tuera pas quelqu'un d'autre.
 
 }
 [sha:7791185bc5e8147fa436988071d8ba557967a6dc]{
 -- Page 6, Offset 22346.
 -- ４．必然、俺たちは自分以外の人間を疑い、正体を暴くか、朝まで身を守るか、笑わせて消していくしかない、と」
-  4. Inévitablement, nous allons soupçonner les personnes qui nous entourent. Alors soit on découvre l'identité de l'individu A, soit on se calfeutre jusqu'au matin, soit on élimine les autres en les faisant rire.」
+　4. Inévitablement, nous allons soupçonner les personnes qui nous entourent. Alors soit on découvre l'identité de l'individu A, soit on se calfeutre jusqu'au matin, soit on élimine les autres en les faisant rire.」
 
 }
 [sha:0835110a619d68da6c470ad0bace15073cebb5c8]{
@@ -127,7 +127,7 @@
 [sha:ea396a5fe87f017e4f9c8651c6126251046e18d1]{
 -- Page 7, Offset 22349.
 -- アリス、これ何番のプロイ？」
-  Alice, c'est le Ploy numéro combien ?」
+　Alice, c'est le Ploy numéro combien ?」
 
 }
 [sha:f3a1a0253200b942d6ae732a51f194e9bea80963]{
@@ -145,7 +145,7 @@
 [sha:bbdf7b9f7afa564ee83137594084f36e29e54544]{
 -- Page 8, Offset 22352.
 -- 最悪。あんなの使うヤツがいるなんて、どんだけ優柔不断なのよ日本人って」
-  Quel pétrin. Qui eût cru que quelqu'un pourrait l'activer ! Comment les Japonais peuvent-ils être aussi timorés ?」
+　Quel pétrin. Qui eût cru que quelqu'un pourrait l'activer ! Comment les Japonais peuvent-ils être aussi timorés ?」
 
 }
 [sha:0e94d1dc3b3b10dee18edc6dd4eee2247b80687e]{
@@ -157,7 +157,7 @@
 [sha:772925d9477182ff4425aa1713a6976d8acda183]{
 -- Page 8, Offset 22354.
 -- それがこのプロイの名前なの、有珠？」
-  C'est le nom de ce Ploy, Alice ?」
+　C'est le nom de ce Ploy, Alice ?」
 
 }
 [sha:1dde40b65f390bccbbd3b566a7ac1e755b2cd6cb]{
@@ -169,7 +169,7 @@
 [sha:55076820ba49dd30178a781567ce195299729f84]{
 -- Page 9, Offset 22356.
 -- じゃ、アタシはアリスと組むから」
-  Bref, je fais équipe avec Alice.」
+　Bref, je fais équipe avec Alice.」
 
 }
 [sha:7e7ea148c0076bd415398ef914a314bdb029f483]{
@@ -187,7 +187,7 @@
 [sha:ff52c21e2f3c54679241a60b8776c1b7f70d67a5]{
 -- Page 10, Offset 22359.
 -- だって、最終的には面倒な犯人当てより、力ずくの笑わせ合いになるのは明白でしょう？　誰だって最後に生き残るのは自分でありたいんだし」
-  Après tout, il est clair que la recherche laborieuse du coupable sera vite abandonnée au profit de l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
+　Après tout, il est clair que la recherche laborieuse du coupable sera vite abandonnée au profit de l'approche consistant à faire rire les autres de force. Et n'importe qui voudrait survivre jusqu'à la fin.」
 
 }
 [sha:6fb5b7f03bf5f429aed8b8181cda65287d2c490d]{
@@ -199,7 +199,7 @@
 [sha:981c7bd3e684aade06fff550600ea052336dae7b]{
 -- Page 11, Offset 22361.
 -- ね、そうでしょうアリス？」
-  N'ai-je pas raison, Alice ?」
+　N'ai-je pas raison, Alice ?」
 
 }
 [sha:4980d52dd99cd94713c68df409c8114c5bc121c2]{
@@ -211,7 +211,7 @@
 [sha:474c4eaf8eb4cdc44aa16e9658033a147389e37f]{
 -- Page 12, Offset 22363. Glued.
 -- 静希君、お願いできる？」
- Shizuki, tu veux bien te mettre avec moi ?」
+Shizuki, tu veux bien te mettre avec moi ?」
 
 }
 [sha:1af9ac0234bfceaea2aec8f2a34b2aabe38540ff]{
@@ -235,7 +235,7 @@
 [sha:a822950ea933d95497c21c34652b7241c5661015]{
 -- Page 13, Offset 22367.
 -- シスター唯架、よろしいですか？」
-  Sœur Yuika, vous voulez bien ?」
+　Sœur Yuika, vous voulez bien ?」
 
 }
 [sha:76c13b01c0e5b822ca1bf39b6465a1df7d28b258]{
@@ -253,7 +253,7 @@
 [sha:af910002d7545b36cf0c7c1c1e89939d4a1ed0ef]{
 -- Page 14, Offset 22370.
 -- アコちゃん、わたしと組むー？」
-  Ma petite Ako, tu te mets avec moi ?」
+　Ma petite Ako, tu te mets avec moi ?」
 
 }
 [sha:bd9a8443af99d0b434f710e04c2600bc359d7a94]{
@@ -265,7 +265,7 @@
 [sha:1f475e1f40b182b5700c5658646d8584576fe969]{
 -- Page 14, Offset 22372.
 -- 今夜だけは過去のことは水に流して」
-  Faisons comme si l'eau avait coulé sous les ponts.」
+　Faisons comme si l'eau avait coulé sous les ponts.」
 
 }
 [sha:c9079d7aecdcce57177675319b120f145270afd4]{
@@ -283,7 +283,7 @@
 [sha:88ea73e0e2bdf36f0869732521bd67e21a279e3e]{
 -- Page 15, Offset 22375.
 -- いざとなれば、ふたりで洋館ごと木っ端微塵よ」
-  S'il le faut, nous réduirons ce manoir en miettes à nous deux.」
+　S'il le faut, nous réduirons ce manoir en miettes à nous deux.」
 
 }
 [sha:d9a3e7898f5e281bf056908d8dad5feb286770af]{
@@ -301,13 +301,13 @@
 [sha:32f704859aeb8a4f450620826a44ca88ca6e3a02]{
 -- Page 17, Offset 22378.
 -- よ、予想外の展開になった……！
-  Les... Les choses prenaient une tournure inattendue...!
+　Les... Les choses prenaient une tournure inattendue...!
 
 }
 [sha:eccac365193962c42befc1cb2d7593e60363ade1]{
 -- Page 17, Offset 22379.
 -- さっきの屋根裏といい、事態は最悪だけど、状況はとんでもない方向に動いている。
-  Entre le coup du grenier et les évènements actuels, la situation ne pouvait pas être pire, mais elle se mouvait aussi dans une direction imprévue.
+　Entre le coup du grenier et les évènements actuels, la situation ne pouvait pas être pire, mais elle se mouvait aussi dans une direction imprévue.
 
 }
 [sha:52bc213cd052f29431c68426febffce4b4e679cb]{
@@ -319,7 +319,7 @@
 [sha:a65db6956be6dfcf8defcf3aa2ea89d1d853841e]{
 -- Page 18, Offset 22381. Glued. Mods: @x.
 -- どうせ遊びだしさー」
- De toute façon, c'est qu'un jeu.」
+De toute façon, c'est qu'un jeu.」
 
 }
 [sha:cef8f58d69a3cbb289ed0e3e8dfc62831d0aaa5a]{
@@ -331,18 +331,18 @@
 [sha:c2fbb60ea6319a8d7235e05517d0d0a6972b5f41]{
 -- Page 18, Offset 22383.
 -- あれ？」
-  Tiens ?」
+　Tiens ?」
 
 }
 [sha:8c2ae3cf41bdb7078536e4cdbfca9b78bf440c35]{
 -- Page 18, Offset 22384.
 -- 全員が顔を合わせる。
-  Tout le monde se regarda.
+　Tout le monde se regarda.
 
 }
 [sha:e20e13d9d6cfc61ca4e389641814c05da06b8902]{
 -- Page 18, Offset 22385.
 -- そう。そろそろ誰かが気付くと思っていたけど、ずいぶん前から山城先生の姿はなかったのだ。
-  Eh oui. Je pensais qu'il était temps que quelqu'un le remarque : M. Yamashiro avait disparu depuis un moment.
+　Eh oui. Je pensais qu'il était temps que quelqu'un le remarque : M. Yamashiro avait disparu depuis un moment.
 
 }

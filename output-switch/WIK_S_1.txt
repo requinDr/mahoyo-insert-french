@@ -1,7 +1,7 @@
 [sha:19095d4de41af9b2f3cc7ce487cf9ca5ae029388]{
 -- Page 0, Offset 23273.
 -- わたしは、蒼崎橙子は一番はじめの犠牲者だ、と思った。
-  Je pensai qu'Aozaki Tōko était la toute première victime.
+　Je pensai qu'Aozaki Tōko était la toute première victime.
 
 }
 [sha:df010fa0624070b64e8dfde4ca7df4ac7a68c541]{
@@ -13,7 +13,7 @@
 [sha:e346b77aa61a891c40537bd5b8d7a1bd95e7745d]{
 -- Page 1, Offset 23275.
 -- 蒼崎は午前中は街で買い物をしていた。蒼崎姉はあいつが部屋を留守にしている間……久万梨たちを連れて一息ついて、部屋に戻るまでの間に殺されたと見るべきだろう」
-  Aozaki faisait des courses en ville dans la matinée. On peut en conclure que sa frangine a été tuée pendant qu'elle n'était pas dans sa chambre... donc avant qu'elle n'y revienne pour se reposer après vous avoir ramenés ici.」
+　Aozaki faisait des courses en ville dans la matinée. On peut en conclure que sa frangine a été tuée pendant qu'elle n'était pas dans sa chambre... donc avant qu'elle n'y revienne pour se reposer après vous avoir ramenés ici.」
 
 }
 [sha:7ff5b8aecc5bd7be215ff6600b87ad528a8b4b28]{
@@ -25,6 +25,6 @@
 [sha:2284d9d1385f4ac27929593a9015a8072527b968]{
 -- Page 1, Offset 23277. Glued. Mods: @x.
 -- あの時、東館の奥、蒼崎の部屋は演歌地獄になってた訳ね」
- Donc à ce moment-là, le fond de l'aile est, c'est-à-dire la chambre d'Aozaki, s'était déjà transformé en enfer de l'enka.」
+Donc à ce moment-là, le fond de l'aile est, c'est-à-dire la chambre d'Aozaki, s'était déjà transformé en enfer de l'enka.」
 
 }

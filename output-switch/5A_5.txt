@@ -7,31 +7,31 @@
 [sha:4d882ec707c539897e5c1b0294db0eeaea182f52]{
 -- Page 0, Offset 4829.
 -- 暗がりに<仄|ほの>浮かぶ<二|ヒ><足|ト><二|ガ><手|タ>の異形。
-  Une marionnette atypique émergeait lentement des ténèbres.
+　Une marionnette atypique émergeait lentement des ténèbres.
 
 }
 [sha:81b5205d136238f944cd9f211bb9fcc50c563ddd]{
 -- Page 0, Offset 4830.
 -- その、物言わぬ<佇|たたず>まいと、遠目からでも分かる造りの美しさが、事の異常性を一瞬だけ漂白し―――
-  Son aspect indescriptible et la beauté de sa construction, visibles même à cette distance, firent oublier un instant l'étrangeté de l'apparition et―――
+　Son aspect indescriptible et la beauté de sa construction, visibles même à cette distance, firent oublier un instant l'étrangeté de l'apparition et―――
 
 }
 [sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
 -- Page 1, Offset 4831.
 -- 伸びる。伸びる。伸びる。
-  *allongement* *allongement* *allongement*
+　*allongement* *allongement* *allongement*
 
 }
 [sha:b0e0f29e0a1fc790cb6904d1d2292b9555b18e1e]{
 -- Page 1, Offset 4832.
 -- その、あまりの“未知”に青子の思考は停止した。
-  L'esprit d'Aoko se figea devant la tournure invraisemblable des évènements.
+　L'esprit d'Aoko se figea devant la tournure invraisemblable des évènements.
 
 }
 [sha:6c1cd262c60ab150b783c2bdc6afd991ec7257db]{
 -- Page 1, Offset 4833.
 -- 避ける、という選択が浮かばない。人間は知性、知識がある故に、“初めて見る”ものに<鈍感|どんかん>で―――
-  L'idée d'éviter le coup ne lui vint même pas à l'esprit. L'être humain est intelligent et cultivé, mais lorsqu'il voit quelque chose pour la première fois, il réagit toujours avec lenteur―――
+　L'idée d'éviter le coup ne lui vint même pas à l'esprit. L'être humain est intelligent et cultivé, mais lorsqu'il voit quelque chose pour la première fois, il réagit toujours avec lenteur―――
 
 }
 [sha:85f95fab8194d9e70cfce75dfe1439d3274cc0d7]{
@@ -43,19 +43,19 @@
 [sha:50d0764a35722e453be2b72b2708d41c4352cac5]{
 -- Page 2, Offset 4835.
 -- 青子の口から悲鳴がこぼれる。
-  Un hurlement de surprise s'échappa de la bouche d'Aoko.
+　Un hurlement de surprise s'échappa de la bouche d'Aoko.
 
 }
 [sha:d8a5f9060f21a73ca1600cfb4a425feeb0f9c74f]{
 -- Page 2, Offset 4836.
 -- 十メートル以上の距離を無視した魔の一撃。
-  L'attaque maléfique passa outre la distance de plus de dix mètres.
+　L'attaque maléfique passa outre la distance de plus de dix mètres.
 
 }
 [sha:4b5eab2143ee8d2457971e2651e17b5ba591fa2e]{
 -- Page 2, Offset 4837.
 -- 奥の通路に現れた“彼女”の腕は細く速く、どこまでも長く伸び、青子の背中を<撃|う>ち<捉|とら>えた。
-  Le bras de la “fille” qui était apparue au fond du passage, effilé, rapide et s'allongeant sans fin, avait frappé le dos d'Aoko.
+　Le bras de la “fille” qui était apparue au fond du passage, effilé, rapide et s'allongeant sans fin, avait frappé le dos d'Aoko.
 
 }
 [sha:eba373ddeff192ddfdbfd146ee7ab9a93d81d09b]{
@@ -67,13 +67,13 @@
 [sha:6b862557bb318e7f7c81a878e581cebfdfdc5bbc]{
 -- Page 3, Offset 4839.
 -- 青子は壁に激突しつつも、苦悶の声を飲みくだす。
-  Celle-ci ravala un cri de souffrance, y compris lorsqu'elle se cogna contre le mur.
+　Celle-ci ravala un cri de souffrance, y compris lorsqu'elle se cogna contre le mur.
 
 }
 [sha:61c3c25940abe7feacf4d8cded629ac873abe573]{
 -- Page 3, Offset 4840.
 -- 一方、伸びきった腕は速やかに“彼女”へと戻っていく。
-  De son côté, le bras allongé retourna rapidement vers la “fille”.
+　De son côté, le bras allongé retourna rapidement vers la “fille”.
 
 }
 [sha:7c33d9f0db1b2dd5e051dcc2743df08e7824823c]{
@@ -85,13 +85,13 @@
 [sha:73feeb42b33d59cf0b72b9959b46023358703b5a]{
 -- Page 4, Offset 4842.
 -- 草十郎はすぐさま立ち上がっていた。
-  Sōjūrō s'était relevé immédiatement.
+　Sōjūrō s'était relevé immédiatement.
 
 }
 [sha:4f87dc95de41b5f0919a826a375e9f4f269a02dd]{
 -- Page 4, Offset 4843.
 -- 手足をついて咳きこむ青子に駆け寄ると、力任せに立ち上がらせ―――
-  Il se précipita à toute vitesse vers Aoko toussotant à quatre pattes, la releva de force―――
+　Il se précipita à toute vitesse vers Aoko toussotant à quatre pattes, la releva de force―――
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -103,19 +103,19 @@
 [sha:0f0e9de9791c1da834b0ed2b6839f724415d272e]{
 -- Page 5, Offset 4845.
 -- その軽さに、少し戸惑う。
-  et hésita un peu devant sa légèreté.
+　et hésita un peu devant sa légèreté.
 
 }
 [sha:7a805fc5682fd299650415d83838384322fe18f5]{
 -- Page 5, Offset 4846.
 -- 草十郎にとって、蒼崎青子は普段から凛としていて、中身がぎゅっと詰まっているイメージだった。
-  Pour Sōjūrō, Aozaki Aoko donnait l'image de quelqu'un qui restait toujours digne et qui fulminait intérieurement.
+　Pour Sōjūrō, Aozaki Aoko donnait l'image de quelqu'un qui restait toujours digne et qui fulminait intérieurement.
 
 }
 [sha:d61c9d925dde3f2ca1d7aa7010acfeed82451b31]{
 -- Page 5, Offset 4847.
 -- だからきっと、<触|ふ>れた時は自分なんかより確かな力強さがあると思ったのだ。
-  C'était pour cela qu'avant de la toucher, il s'attendait à sentir qu'elle était bien plus forte que lui.
+　C'était pour cela qu'avant de la toucher, il s'attendait à sentir qu'elle était bien plus forte que lui.
 
 }
 [sha:7d94733be1f9e16351321478f59e30df7016794b]{
@@ -127,19 +127,19 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:adb2f2d45a086b675f3376d0dafd0177c012a849]{
 -- Page 6, Offset 4849.
 -- ……一方。
-  ...... Pendant ce temps,
+　...... Pendant ce temps,
 
 }
 [sha:0f1a8140f9734c8f939b7aac1b81fe92003b4054]{
 -- Page 6, Offset 4850.
 -- どのような<機巧|カラクリ>か、“彼女”は伸びきった腕を収納していく。
-  la “fille” rétractait son bras allongé grâce à un mécanisme inconnu.
+　la “fille” rétractait son bras allongé grâce à un mécanisme inconnu.
 
 }
 [sha:9526c96748876eb980211637f54f91e3495282b5]{
 -- Page 6, Offset 4851.
 -- 十メートル以上伸びた腕、何倍にも増設された<肘|ひじ>関節が、カシャンカシャンと元の<形状|おおきさ>に戻っていく。
-  Le bras, qui s'était étiré sur plus de dix mètres au moyen de plusieurs extensions des jointures du coude, retourna à sa taille originelle en cliquetant.
+　Le bras, qui s'était étiré sur plus de dix mètres au moyen de plusieurs extensions des jointures du coude, retourna à sa taille originelle en cliquetant.
 
 }
 [sha:ef0ac1b6587ec2ebb56b67ff0bab127737c1d29c]{
@@ -157,13 +157,13 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:d48092572db26b2ad645650cbc0d215b89fde2c5]{
 -- Page 7, Offset 4854.
 -- 呟きながら草十郎の手から離れる青子。
-  murmura Aoko tout en se dégageant des bras de Sōjūrō.
+　murmura Aoko tout en se dégageant des bras de Sōjūrō.
 
 }
 [sha:92a4670758e94656317265b43356dc6f8bf1c11b]{
 -- Page 7, Offset 4855.
 -- 途端、がくんと膝から倒れこんだが、彼女が膝をつくより早く、草十郎は肩を貸して立ちあがらせていた。
-  À ce moment, ses genoux se dérobèrent brusquement, mais Sōjūrō lui prêta son épaule avant qu'elle ne s'effondre et la releva.
+　À ce moment, ses genoux se dérobèrent brusquement, mais Sōjūrō lui prêta son épaule avant qu'elle ne s'effondre et la releva.
 
 }
 [sha:9e38c5ffc9df5e9c86e40e100d56f22ddcb5673a]{
@@ -175,7 +175,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:089b67232ea62e985c43fa3ff3af8c72092bd8d3]{
 -- Page 8, Offset 4857.
 -- 草十郎は十メートル向こう、不気味に<佇|たたず>む人影を見据えている。伸びきった腕は、あと少しで完全に収納されようとしていた。
-  Sōjūrō observait la marionnette menaçante qui rôdait à dix mètres de là. Le bras qui s'était allongé serait d'ici peu complètement rétracté.
+　Sōjūrō observait la marionnette menaçante qui rôdait à dix mètres de là. Le bras qui s'était allongé serait d'ici peu complètement rétracté.
 
 }
 [sha:774d8d21f9de1579bcdbf039ac66a1a01c30c110]{
@@ -187,7 +187,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:89caa98584502c8f31fc04611e39e853021be2cf]{
 -- Page 9, Offset 4859.
 -- 青子は答えながら、自身の背中に指をはわせた。
-  Tout en répondant, Aoko mit sa main dans le dos.
+　Tout en répondant, Aoko mit sa main dans le dos.
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -199,7 +199,7 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:3bfba9fdae29b8a46f01cfcb9fb07f8171f52744]{
 -- Page 9, Offset 4861.
 -- 途端、火で<炙|あぶ>られるような痛みが走る。
-  À cause de l'effort, une douleur la parcourut, comme une brûlure causée par le feu.
+　À cause de l'effort, une douleur la parcourut, comme une brûlure causée par le feu.
 
 }
 [sha:f80579c88e466df384d2750da73af6eebd80a5a6]{
@@ -211,37 +211,37 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:d2cc418d1aa1901ac0cca09090796e423171a2ba]{
 -- Page 10, Offset 4863.
 -- あれだけ絶好の奇襲をしておいて？　それとも、この距離じゃ当たっても致命傷にならない？
-  Après une attaque-surprise pareille ? Ou alors, c'est parce qu'elle ne peut pas donner de coups mortels d'aussi loin......?
+　Après une attaque-surprise pareille ? Ou alors, c'est parce qu'elle ne peut pas donner de coups mortels d'aussi loin......?
 
 }
 [sha:07fc67316282357521b666677c832542f6a11e8a]{
 -- Page 10, Offset 4864. Glued. Mods: @x.
 -- ……なんて、あるワケないか。なにか別の意味があると見るべきね―――”
-  C'est impossible. Il doit y avoir une autre raison―――”
+　C'est impossible. Il doit y avoir une autre raison―――”
 
 }
 [sha:6532ed52b3fa30fa5349b3de4428b9fbafa5b246]{
 -- Page 11, Offset 4865.
 -- 背中の<損傷|ダメージ>を量りながら、乱れた呼吸を整える青子。
-  Tout en évaluant les blessures de son dos, Aoko tâcha de reprendre son souffle.
+　Tout en évaluant les blessures de son dos, Aoko tâcha de reprendre son souffle.
 
 }
 [sha:6014007ec39d89187e774961837126b1195b4189]{
 -- Page 11, Offset 4866.
 -- 痛みも呼吸もすぐに治まった。
-  Sa douleur et sa respiration se calmèrent rapidement.
+　Sa douleur et sa respiration se calmèrent rapidement.
 
 }
 [sha:6b9f4d42513bcffc36c0732eb833c5c88082884d]{
 -- Page 11, Offset 4867.
 -- あくまで今のところではあるが、運動機能に支障はない。
-  C'était temporaire, mais pour l'instant, ses capacités motrices n'étaient pas touchées.
+　C'était temporaire, mais pour l'instant, ses capacités motrices n'étaient pas touchées.
 
 }
 [sha:dd3df007eb47e03e7d9d97fc4c8dc43fb0a7d190]{
 -- Page 11, Offset 4868.
 -- となると、深刻なダメージと言えるのは―――
-  Dans ce cas, s'il fallait trouver de sérieux dommages―――
+　Dans ce cas, s'il fallait trouver de sérieux dommages―――
 
 }
 [sha:39c506695eb65d6a2a53c960435cd1d46598ebcc]{
@@ -259,85 +259,85 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:c8d0698d2fba2c271fe26146794ee8aa60804de1]{
 -- Page 12, Offset 4871.
 -- <薄闇|うすやみ>に青い光がともる。
-  Une lumière bleue très faible scintilla.
+　Une lumière bleue très faible scintilla.
 
 }
 [sha:c727b6c3408bcbc113353d637e027747ee7f3d2a]{
 -- Page 12, Offset 4872.
 -- 青子の呼吸に連動して生成された魔力が、その右腕に集められる。
-  Le prana, généré et affluant au rythme de sa respiration, se rassembla dans son bras droit.
+　Le prana, généré et affluant au rythme de sa respiration, se rassembla dans son bras droit.
 
 }
 [sha:5c05640c9c66ef8a10a564e8de903b26904084ac]{
 -- Page 13, Offset 4873.
 -- 魔力が燃料なら、術式は点火装置だ。
-  Si le prana est le carburant, alors le sort est le mécanisme de mise à feu.
+　Si le prana est le carburant, alors le sort est le mécanisme de mise à feu.
 
 }
 [sha:de0b11f37518e9d79b9d8161ba592d7be01de482]{
 -- Page 13, Offset 4874.
 -- 青子にとって、これは二日前の夜の再現にすぎない。
-  Pour Aoko, ce n'était qu'une répétition de l'avant-veille.
+　Pour Aoko, ce n'était qu'une répétition de l'avant-veille.
 
 }
 [sha:b98221decb5e6ce0a4c0676834a5a5964ab58f4d]{
 -- Page 13, Offset 4875.
 -- あの人形が腕を伸ばしてきた時、最速で術式を走らせ、生成した<魔|た><力|ま>を弾く。
-  Lorsque cette marionnette allongerait son bras, elle lancerait son sort à la plus grande vitesse possible et relâcherait la balle ainsi produite.
+　Lorsque cette marionnette allongerait son bras, elle lancerait son sort à la plus grande vitesse possible et relâcherait la balle ainsi produite.
 
 }
 [sha:bc107ab5d7b39fa1d9edac08daf7c039942d77d5]{
 -- Page 13, Offset 4876.
 -- およそ十メートルの格闘戦。
-  Un combat sur une distance approximative de dix mètres.
+　Un combat sur une distance approximative de dix mètres.
 
 }
 [sha:9046d62c90f4a4a720720df66638a0426bb1b027]{
 -- Page 13, Offset 4877.
 -- 生死を分かつクロスカウンターだが、二秒の隙間があるのなら青子でも合わせられる。
-  C'était un contre croisé qui déciderait de sa vie ou de sa mort, mais s'il y avait une ouverture de deux secondes, alors même Aoko pouvait y faire face.
+　C'était un contre croisé qui déciderait de sa vie ou de sa mort, mais s'il y avait une ouverture de deux secondes, alors même Aoko pouvait y faire face.
 
 }
 [sha:b814fed56743c95a85fd020a1f96254c6a3c206b]{
 -- Page 14, Offset 4878.
 -- “彼女”が動く。
-  La “fille” bougea.
+La “fille” bougea.
 
 }
 [sha:a865fcd8ac1a765dda1e6096f02fde25c18beab1]{
 -- Page 14, Offset 4879.
 -- <俯|うつむ>いているので<表|か><情|お>は見えず、この距離、この暗さでは肉体年齢も判別できない。
-  Comme elle baissait la tête, son expression était invisible, et on ne pouvait pas non plus distinguer son âge physique à cause de la distance et de l'obscurité.
+　Comme elle baissait la tête, son expression était invisible, et on ne pouvait pas non plus distinguer son âge physique à cause de la distance et de l'obscurité.
 
 }
 [sha:94a7ecd1bd74ecb48f609e520ed00bce2a13d793]{
 -- Page 14, Offset 4880.
 -- 青子たちにとって、人形はいまだ正体のない亡霊と変わらない。
-  Pour Aoko et Sōjūrō, la marionnette n'était pour l'heure pas bien différente d'un spectre à la nature inconnue.
+　Pour Aoko et Sōjūrō, la marionnette n'était pour l'heure pas bien différente d'un spectre à la nature inconnue.
 
 }
 [sha:4f7e614d8f7dccb8fe5e430f842666ec94c5bb07]{
 -- Page 15, Offset 4881.
 -- キリキリと音をたてて左腕が持ち上がる。
-  “Elle” souleva son bras gauche en faisant des cliquetis,
+　“Elle” souleva son bras gauche en faisant des cliquetis,
 
 }
 [sha:496fc0b1128f54e89bfe1e12b7d46aeeb19ed739]{
 -- Page 15, Offset 4882.
 -- <緩慢|かんまん>な、関節が<錆|さ>びきったような動作。
-  avec une telle lenteur qu'elle donnait l'impression que ses jointures étaient rouillées.
+　avec une telle lenteur qu'elle donnait l'impression que ses jointures étaient rouillées.
 
 }
 [sha:bf1d8486da9bc0181a911d2af88640ede6fe7885]{
 -- Page 15, Offset 4883.
 -- 先ほど伸びた右腕は下げられている。
-  Le bras droit allongé un instant avant était à présent abaissé.
+　Le bras droit allongé un instant avant était à présent abaissé.
 
 }
 [sha:efaccfd70e1b561acd3606b6c4493ccf2dd8188d]{
 -- Page 15, Offset 4884.
 -- くすりと、長い髪に隠れた口元が笑った気がした。
-  Aoko eut l'impression que la bouche cachée derrière les longs cheveux formait un sourire.
+　Aoko eut l'impression que la bouche cachée derrière les longs cheveux formait un sourire.
 
 }
 [sha:787038a353a6cc811d9eff126cab18c1386f10fc]{
@@ -355,31 +355,31 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:c2656881dc1aee21d37e7eccf6eaa11a184ae639]{
 -- Page 16, Offset 4887.
 -- 青子が草十郎を突きとばしつつ右手をなぎ払うのと、
-  Aoko, tout en poussant Sōjūrō, leva son bras droit,
+　Aoko, tout en poussant Sōjūrō, leva son bras droit,
 
 }
 [sha:fe23a66ab11133d8b0661a297907215162b7a981]{
 -- Page 16, Offset 4888.
 -- “彼女”の左腕が伸びるのは同時だった。
-  en même temps que le bras gauche de la “fille” s'allongeait.
+en même temps que le bras gauche de la “fille” s'allongeait.
 
 }
 [sha:ef97ee44817f8970614708de70546588acc294be]{
 -- Page 17, Offset 4889.
 -- タイミングは完璧。
-  Le timing était parfait.
+　Le timing était parfait.
 
 }
 [sha:2e9bfa75e0fda00600ddf90ecb92be9cad663a76]{
 -- Page 17, Offset 4890.
 -- 一秒の差で青子の<魔弾|スナップ>は人形の<凶|う><器|で>に直撃し、その軌道をズラしながら敵本体に炸裂する。
-  En l'espace d'une seconde, le Snap d'Aoko frappa directement le bras de la marionnette et en dévia la trajectoire, puis explosa sur le corps de l'ennemi.
+　En l'espace d'une seconde, le Snap d'Aoko frappa directement le bras de la marionnette et en dévia la trajectoire, puis explosa sur le corps de l'ennemi.
 
 }
 [sha:604bde34ba1109c9fb1debb17d25eb74377a256e]{
 -- Page 17, Offset 4891.
 -- ―――肝心の、魔術式が駆動すればの話だが。
-  ―――Du moins, cela se serait produit ainsi si le sort en question avait fonctionné.
+　―――Du moins, cela se serait produit ainsi si le sort en question avait fonctionné.
 
 }
 [sha:5019c03486000b5b7f4de4617e75e7e437b1aec6]{
@@ -391,13 +391,13 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:a60b392354e39498e591b357c2a4b49693694226]{
 -- Page 18, Offset 4893.
 -- 撃ち出された腕を紙一重でかわす青子。
-  Aoko évita d'un cheveu le bras lancé.
+　Aoko évita d'un cheveu le bras lancé.
 
 }
 [sha:98592bd889246d6b31eb3c4282cf25ea44113fdf]{
 -- Page 18, Offset 4894.
 -- 魔術は発動しなかったが、相手の攻撃をかわせたのはここ一番の<勘|かん>の良さか。
-  Le sort ne s'était pas enclenché, mais le fait d'avoir évité l'attaque adverse montrait la justesse de son intuition.
+　Le sort ne s'était pas enclenché, mais le fait d'avoir évité l'attaque adverse montrait la justesse de son intuition.
 
 }
 [sha:c0c6cbfda1f4def34f35a19d20e05ca2fcde57b9]{
@@ -409,73 +409,73 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:647283e4fdc9585f81a9c152fb0596124c029285]{
 -- Page 19, Offset 4896.
 -- こんちくしょう、と歯がみしつつ青子は思考を巡らせた。
-  Merde, se dit-elle en serrant les dents, avant de remettre de l'ordre dans ses idées.
+　Merde, se dit-elle en serrant les dents, avant de remettre de l'ordre dans ses idées.
 
 }
 [sha:a2b4b4708d2cf5850fc5484636c2189574010515]{
 -- Page 19, Offset 4897.
 -- <走|せ>るべきか、<退|ひ>くべきか。
-  Fallait-il combattre ou se replier ?
+　Fallait-il combattre ou se replier ?
 
 }
 [sha:720004747ef9ca5ecbc4cf4399b80fcf143c01cc]{
 -- Page 19, Offset 4898.
 -- 残る腕は一本。人形の腕は巻き戻しに時間がかかる。
-  Il restait un bras. Les bras des marionnettes mettaient du temps à se remettre en place.
+　Il restait un bras. Les bras des marionnettes mettaient du temps à se remettre en place.
 
 }
 [sha:3c63aa57593258feee90b2dc8358ab8204d8e233]{
 -- Page 19, Offset 4899.
 -- 言うまでもなく好機。やるのなら今だ。
-  Inutile de préciser que c'était sa chance. S'il fallait attaquer, c'était maintenant ou jamais.
+　Inutile de préciser que c'était sa chance. S'il fallait attaquer, c'était maintenant ou jamais.
 
 }
 [sha:2a68fc3b7f87e4cba7d318e92b3f39bf8991dab3]{
 -- Page 19, Offset 4900.
 -- 右腕だけならもう一度ギリギリでかわして、とにかく近づいてしまえば―――
-  Si elle pouvait éviter de justesse le bras droit encore une fois, et ensuite se rapprocher―――
+　Si elle pouvait éviter de justesse le bras droit encore une fois, et ensuite se rapprocher―――
 
 }
 [sha:7595d9217179b4817631534d58e8e2d50dacd13f]{
 -- Page 20, Offset 4901. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                  “<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.
+　　“<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
 -- Page 20, Offset 4902. Mods: @i, @r.
 -- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
-      <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>”
+<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>”
 
 }
 [sha:78b19f6136232d695305a3d8e5cdb9012b3898e8]{
 -- Page 21, Offset 4903.
 -- がさついた音が<木霊|こだま>する。
-  Le son rugueux retentissait.
+　Le son rugueux retentissait.
 
 }
 [sha:fcf55fb5501661e0b6a9a8b5243b68e90c48b1d6]{
 -- Page 21, Offset 4904.
 -- <詩文|しぶん>めいた<囁|ささや>きは、魔術師なら視覚できるほどの魔力の<残|の><留|こ><思|り><念|び>だった。
-  Ce murmure poétique était une pensée résiduelle de prana, assez forte pour être vue à l'œil nu par un Mage.
+　Ce murmure poétique était une pensée résiduelle de prana, assez forte pour être vue à l'œil nu par un Mage.
 
 }
 [sha:cf3d2c21094c173c2764a72a3e0a95d9bacfb00e]{
 -- Page 21, Offset 4905.
 -- 唄い文句こそラテン語だが、ところどころに<呪詛|ガンド>の韻が含まれている。
-  La chanson était en latin, mais un Gandr y était inséré par endroits.
+　La chanson était en latin, mais un Gandr y était inséré par endroits.
 
 }
 [sha:dca793721c089e3e992047399fed233e91c10c0c]{
 -- Page 21, Offset 4906.
 -- 本来なら憎い相手を<呪|のろ>う言葉。
-  À l'origine, c'étaient des termes maudissant la personne haïe.
+　À l'origine, c'étaient des termes maudissant la personne haïe.
 
 }
 [sha:da94e33e039512eedd4069054392ee94d5077e48]{
 -- Page 21, Offset 4907.
 -- それを、
-  Cette malédiction,
+　Cette malédiction,
 
 }
 [sha:623a4d1edd58529ef47e07024cfdf4d5b31cab0f]{
@@ -499,37 +499,37 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:992da275281b830fe07dde54a29f86a039324559]{
 -- Page 23, Offset 4911.
 -- ……それを、あの人形は自分自身に向けていた。
-  ...... la marionnette la dirigeait vers elle-même.
+　...... la marionnette la dirigeait vers elle-même.
 
 }
 [sha:534ae2016896286b68cb422a552bcb0147bc6e5b]{
 -- Page 23, Offset 4912.
 -- 呪いは呪いを生む。被害者は加害者を呪い返す事で、負の連鎖を回していく。
-  Les malédictions engendrent des malédictions. La victime d'une malédiction, en la renvoyant à son agresseur, entretient cette chaîne maudite.
+　Les malédictions engendrent des malédictions. La victime d'une malédiction, en la renvoyant à son agresseur, entretient cette chaîne maudite.
 
 }
 [sha:f8c1202313eb39ba52bf366487d4d3ac3b30c8ab]{
 -- Page 24, Offset 4913.
 -- ……あの詠唱はそのサイクルを利用したものだ。
-  ...... Cette Aria mettait ce cycle à profit.
+　...... Cette Aria mettait ce cycle à profit.
 
 }
 [sha:b54024684b5502ec0163d72f4b15ad0cc84080c6]{
 -- Page 24, Offset 4914.
 -- ただしあくまで一人芝居。
-  Mais ça restait un monodrame.
+　Mais ça restait un monodrame.
 
 }
 [sha:20a337242e51f2d31cf533f26f4a7a1e15ebdfb1]{
 -- Page 24, Offset 4915.
 -- 自家中毒にも似た異例の動力源。
-  Une source de pouvoir exceptionnel proche de l'auto-intoxication.
+　Une source de pouvoir exceptionnel proche de l'auto-intoxication.
 
 }
 [sha:22ede64720282aafa0993edbcba7e2846e94274a]{
 -- Page 24, Offset 4916.
 -- 信じがたい事だが―――アレは呪い呪われる事で、一定の<動力|まりょく>を維持し続ける永久機関……！
-  C'était difficile à croire, mais... c'était un mouvement perpétuel qui, en maudissant et en étant maudit, continuait à maintenir un prana constant......!
+　C'était difficile à croire, mais... c'était un mouvement perpétuel qui, en maudissant et en étant maudit, continuait à maintenir un prana constant......!
 
 }
 [sha:1a2cd00c38baa65e4e24733b8bb9e111c085c500]{
@@ -541,13 +541,13 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:f53524091e84689335e6d4ddb2945e813540f3ef]{
 -- Page 25, Offset 4918.
 -- 青子は徹底抗戦の選択肢を切り捨てた。
-  Aoko renonça à l'option de combattre jusqu'à la mort.
+　Aoko renonça à l'option de combattre jusqu'à la mort.
 
 }
 [sha:ec9a69c329d03ca9e0f1da57a16300898de8baa9]{
 -- Page 25, Offset 4919.
 -- 反撃はせず、最速で身をひるがえす。
-  Sans contre-attaquer, elle se retourna le plus rapidement possible.
+　Sans contre-attaquer, elle se retourna le plus rapidement possible.
 
 }
 [sha:53e0900b66dadcc90fbf06296f780f9ec016de9e]{
@@ -559,13 +559,13 @@ Mais en réalité, elle faisait à peu près quarante-cinq kilos, un poids tout 
 [sha:9f149ed660cde5844b23bf38b46b92425dd2e471]{
 -- Page 26, Offset 4921.
 -- 急展開に置いてけぼりだった草十郎の手をとって、青子は全力で鏡の国の奥地へと走り出す。
-  Prenant la main de Sōjūrō dépassé par l'enchaînement des évènements, Aoko commença à courir de toutes ses forces vers le fin fond du pays des miroirs.
+　Prenant la main de Sōjūrō dépassé par l'enchaînement des évènements, Aoko commença à courir de toutes ses forces vers le fin fond du pays des miroirs.
 
 }
 [sha:9d1c4c05176adff64dc0a89f40b85f6d67cc58e1]{
 -- Page 26, Offset 4922.
 -- ふたりの背後には、なお続くひび割れた声。
-  Dans leur dos, la voix rauque poursuivait son monologue.
+　Dans leur dos, la voix rauque poursuivait son monologue.
 
 }
 [sha:3ebff4bf5f98845fab4a9107d8abbb3d2a4c4887]{

@@ -1,49 +1,49 @@
 [sha:fa77b4a6b482db3993479a59d3ccd45f53a6ebaa]{
 -- Page 0, Offset 19443.
 -- 夜気は寒くて、空は綺麗だった。
-  La brise nocturne était glaciale et le ciel magnifique.
+　La brise nocturne était glaciale et le ciel magnifique.
 
 }
 [sha:c6f9864c3fea588c18e45861d92074e9f82d51b8]{
 -- Page 0, Offset 19444.
 -- 一日の終わりに<映|うつ>る光景は、けれど、一日だって同じ事はない。
-  Le spectacle offert à la fin d'une journée n'est cependant jamais le même.
+　Le spectacle offert à la fin d'une journée n'est cependant jamais le même.
 
 }
 [sha:3fbc545fb2bdf544ec9a1a7e5751335da2f4d53d]{
 -- Page 0, Offset 19445.
 -- 今日の景色は今日だけの物だ。
-  Chaque jour nous offre un paysage unique.
+　Chaque jour nous offre un paysage unique.
 
 }
 [sha:f19cd286deb71a462537bacabfb774e1889b276c]{
 -- Page 0, Offset 19446.
 -- 人の知覚では大差のない風景にしか映らなくても、
-  Ils n'ont peut-être rien de différent aux yeux de simples hommes,
+　Ils n'ont peut-être rien de différent aux yeux de simples hommes,
 
 }
 [sha:9e22c216d7e6118ea442363f79e13409d4a2490e]{
 -- Page 0, Offset 19447.
 -- その時の風景の美しさも、ありのままに感じる傷心も、すべてが<儚|はかな>くて、明日は違った自分で目が覚める。
-  mais la beauté de l'instant et la mélancolie ressentie sont toutes deux éphémères, et le lendemain, on se réveille changé.
+　mais la beauté de l'instant et la mélancolie ressentie sont toutes deux éphémères, et le lendemain, on se réveille changé.
 
 }
 [sha:13600247926880c48d28840664808bd7c8c59916]{
 -- Page 1, Offset 19448.
 -- 山の閑散とした空気の中では、そんなあたり前の事が冬の寒さよりずっと、体に沁みこんでくるようだった。
-  Dans ces montagnes peu fréquentées, ces choses évidentes pénétraient bien plus son corps que le froid de l'hiver.
+　Dans ces montagnes peu fréquentées, ces choses évidentes pénétraient bien plus son corps que le froid de l'hiver.
 
 }
 [sha:d95950172c9b8dcde986713ed26a3ceba0ae7cc5]{
 -- Page 1, Offset 19449.
 -- 彼は時を忘れたように空を見上げている。
-  Il observait rêveusement le ciel.
+　Il observait rêveusement le ciel.
 
 }
 [sha:ac52e2c6a20896912ca071ad40e430bd38bd7edc]{
 -- Page 1, Offset 19450.
 -- それを止めたのは、呆然と立ち尽くす青子の視線だった。
-  Le regard abasourdi d'Aoko, figée sur place, mit un terme à sa contemplation.
+　Le regard abasourdi d'Aoko, figée sur place, mit un terme à sa contemplation.
 
 }
 [sha:81f8bd4ffad7b9354973ffb8b5d2a60415bd0c46]{
@@ -55,31 +55,31 @@
 [sha:5fe756d035ee0de6815fcf612e09104d5de1bc06]{
 -- Page 2, Offset 19452.
 -- 庭から出てきたばかりの青子に向けて、草十郎は話しかけた。
-  lui dit Sōjūrō alors qu'elle sortait du jardin.
+　lui dit Sōjūrō alors qu'elle sortait du jardin.
 
 }
 [sha:636af70a4f322f29f5a2efb9e56d206af659d032]{
 -- Page 3, Offset 19453.
 -- 青子は言葉もなく立ち尽くしていたけれど、すぐに気を取り直してつかつかと歩きだした。
-  Aoko s'était arrêtée net, bouche bée, mais elle se ressaisit vite et s'avança précipitamment.
+　Aoko s'était arrêtée net, bouche bée, mais elle se ressaisit vite et s'avança précipitamment.
 
 }
 [sha:6032159546cd4035d56888763448d7107b8a4266]{
 -- Page 3, Offset 19454.
 -- そのまま草十郎の前まで行くと、じろりとした目で睨む。
-  Elle s'arrêta devant Sōjūrō et le fixa d'un œil menaçant.
+　Elle s'arrêta devant Sōjūrō et le fixa d'un œil menaçant.
 
 }
 [sha:bd8d604d64ef2f3b42f8a81abb1f74038ac6596a]{
 -- Page 3, Offset 19455.
 -- こんなヤツ認めない、と言わんばかりの視線の激しさに、草十郎は肩をすくめた。
-  Ce dernier haussa les épaules devant l'intensité du regard qui rejetait son existence même.
+　Ce dernier haussa les épaules devant l'intensité du regard qui rejetait son existence même.
 
 }
 [sha:384e6b703afc45db9c7c53be4ac2be5bf39593b8]{
 -- Page 3, Offset 19456.
 -- 青子がどうしてこんなに怒っているか、草十郎にはまったく見当がつかない。
-  Il ignorait totalement la raison de sa colère.
+　Il ignorait totalement la raison de sa colère.
 
 }
 [sha:c7aea9b8d74d9e3059f098a323240279330a7d75]{
@@ -97,13 +97,13 @@
 [sha:1f1883758403965d0d30b38201841aeed8e451cb]{
 -- Page 4, Offset 19459.
 -- それなのに、この男が目の前にいるコトが青子には憎らしかったらしい。喜ぶべき事なのか悲しむべき事なのかを考えるのは、たぶん、その怒りが治まってからだろう。
-  Sa simple présence semblait insoutenable pour Aoko. Ce ne serait qu'après avoir calmé sa colère qu'elle se demanderait si elle devait en être heureuse ou contrariée.
+　Sa simple présence semblait insoutenable pour Aoko. Ce ne serait qu'après avoir calmé sa colère qu'elle se demanderait si elle devait en être heureuse ou contrariée.
 
 }
 [sha:b79fae168f5cb66188c6729939093033acd82e82]{
 -- Page 4, Offset 19460.
 -- 人間、思い通りにいかないと無性に腹が立つものなのだ。
-  Il est dans la nature humaine de se sentir irrité lorsque les choses ne se passent pas comme prévu.
+　Il est dans la nature humaine de se sentir irrité lorsque les choses ne se passent pas comme prévu.
 
 }
 [sha:5a0081834328ad4a87fbe70f61dae90cfda96a36]{
@@ -115,19 +115,19 @@
 [sha:43210067552c420cb6c40354348d2fb0305466ef]{
 -- Page 5, Offset 19462.
 -- なんでこんなところで突っ立ってるのよ、アンタ」
-  Alors, que fais-tu à poiroter ici ? Hein ?」
+　Alors, que fais-tu à poiroter ici ? Hein ?」
 
 }
 [sha:62d872941edcf13690f0907fad01d84fe7828980]{
 -- Page 5, Offset 19463.
 -- いかに祖父といえど、記憶を消去して空白の一ヶ月をつなげるのには一日を要する筈だ。
-  Son grand-père avait beau être exceptionnel, une bonne journée aurait dû lui être nécessaire pour effacer la mémoire de Sōjūrō et rendre le mois perdu cohérent.
+　Son grand-père avait beau être exceptionnel, une bonne journée aurait dû lui être nécessaire pour effacer la mémoire de Sōjūrō et rendre le mois perdu cohérent.
 
 }
 [sha:adfc8c1f14aa37ad4db3f2970565009cb899b94c]{
 -- Page 5, Offset 19464.
 -- だからあとの処置はぜんぶ祖父に任せようと思ったのに、草十郎はここでぼんやりと空を見上げていた。
-  Elle avait donc prévu de laisser les complications qui en découleraient à son grand-père, et pourtant, Sōjūrō se tenait là à contempler distraitement le ciel.
+　Elle avait donc prévu de laisser les complications qui en découleraient à son grand-père, et pourtant, Sōjūrō se tenait là à contempler distraitement le ciel.
 
 }
 [sha:268a211907751456ca90608fce4cd8cc714b14be]{
@@ -139,7 +139,7 @@
 [sha:416786e641926cc7b0695f6dd29797d1252a84d4]{
 -- Page 6, Offset 19466.
 -- そんな青子の、口にはしない一方的な感情をぶつけられながら、草十郎は事情を説明する。
-  Sōjūrō expliqua la situation tandis qu'Aoko le foudroyait du regard en gardant pour elle ces pensées injustifiées.
+　Sōjūrō expliqua la situation tandis qu'Aoko le foudroyait du regard en gardant pour elle ces pensées injustifiées.
 
 }
 [sha:3fe44e6c9daa9de2e644e94c56dab634fba37761]{
@@ -151,19 +151,19 @@
 [sha:ef7bb72dac720ee5d32286448e3b07b795b3b6df]{
 -- Page 7, Offset 19468.
 -- 記憶の消去は君の役目で、人に頼るな、だそうだ。今日呼ばれたのは、たんに悪口を聞かせたかっただけらしいよ」
-  “Effacer sa mémoire est ton travail, ne te repose pas sur les autres.” Apparemment, il ne m'a fait venir que pour me faire part de ces médisances.」
+　“Effacer sa mémoire est ton travail, ne te repose pas sur les autres.” Apparemment, il ne m'a fait venir que pour me faire part de ces médisances.」
 
 }
 [sha:64ffbd68c0dd5372d7a03ac3135cfe2026697060]{
 -- Page 7, Offset 19469.
 -- その言葉で青子の憑き物は落ちた。
-  Ces dernières paroles permirent à Aoko de retrouver ses esprits.
+　Ces dernières paroles permirent à Aoko de retrouver ses esprits.
 
 }
 [sha:23b6816771890b7b39c527788cc580ea05768cec]{
 -- Page 7, Offset 19470.
 -- 今にも平手打ちが飛んできそうな態度が、すう、と落ち着いたものになる。
-  Son attitude furibonde laissa finalement place au calme.
+　Son attitude furibonde laissa finalement place au calme.
 
 }
 [sha:f523a16e49568b4373246c1337dbb4c75f0b81e8]{
@@ -175,25 +175,25 @@
 [sha:f9d685881a7e72a92aaea7abfa70367cdadd8a1d]{
 -- Page 8, Offset 19472.
 -- 人に任せるなんて、たしかに私らしくなかった」
-  C'est vrai que je n'ai pas pour habitude de refiler mon travail aux autres.」
+　C'est vrai que je n'ai pas pour habitude de refiler mon travail aux autres.」
 
 }
 [sha:7b30c4b98728ad612a1f14e931519cc6c16e2065]{
 -- Page 8, Offset 19473.
 -- きびしかった瞳が、段々といつもの、不機嫌そうな顔になっていく。
-  Son expression sévère retourna graduellement à son air de mécontentement habituel.
+　Son expression sévère retourna graduellement à son air de mécontentement habituel.
 
 }
 [sha:c5c9503adb762a423f25fbd156e3009a53ea6fb6]{
 -- Page 8, Offset 19474.
 -- ホッと安堵する草十郎。
-  Sōjūrō en fut soulagé.
+　Sōjūrō en fut soulagé.
 
 }
 [sha:38f9f10fecfed37c5eaf6f5e1a7aafd65bac5bb0]{
 -- Page 8, Offset 19475.
 -- ご機嫌は、なんとか戻ってくれたようだ。
-  Il semblait que sa bonne humeur était de retour.
+　Il semblait que sa bonne humeur était de retour.
 
 }
 [sha:2cb7b8dbf62889bd7529028cd26c04ef19d03d27]{
@@ -205,73 +205,73 @@
 [sha:5a94a02446f8693dedfa273ca68350849a273941]{
 -- Page 9, Offset 19477.
 -- 急がないと最終電車に間に合わない」
-  Si on ne se dépêche pas, on va rater le dernier train.」
+　Si on ne se dépêche pas, on va rater le dernier train.」
 
 }
 [sha:d90fe19179324f364b564abb6dd2490f69ff8fd3]{
 -- Page 9, Offset 19478.
 -- 返事を待たず草十郎は歩きだした。
-  Sōjūrō se mit en marche sans attendre sa réponse.
+　Sōjūrō se mit en marche sans attendre sa réponse.
 
 }
 [sha:46a61e6079487d5abe3850fb36fa46a3ddbf2622]{
 -- Page 9, Offset 19479.
 -- 青子はその背中を少しの間だけ見つめてから、小言を言いつつ付いていく。
-  Aoko lui emboîta le pas en grommelant après l'avoir observé un instant de dos.
+　Aoko lui emboîta le pas en grommelant après l'avoir observé un instant de dos.
 
 }
 [sha:af5bf9f16089ac57427f99f05142661e61db1bf5]{
 -- Page 10, Offset 19480.
 -- 帰り道は、来る時より楽だった。
-  Le retour était moins ardu que l'aller.
+　Le retour était moins ardu que l'aller.
 
 }
 [sha:0d80603795b9d9bd426a1816ce9c498343eb284d]{
 -- Page 10, Offset 19481.
 -- 眼下の景色は一面の闇。
-  Le paysage sous leurs yeux était plongé dans le noir.
+　Le paysage sous leurs yeux était plongé dans le noir.
 
 }
 [sha:7e0c9b659b920c04dd9225044ba133093aaff50e]{
 -- Page 10, Offset 19482.
 -- その黒い海の中、灯台のように、小さな駅が輝いている。
-  Une petite gare y brillait comme un phare dans cet océan de ténèbres.
+　Une petite gare y brillait comme un phare dans cet océan de ténèbres.
 
 }
 [sha:bd4c0425e83dbc0bd573e609b2abfb36b45826d0]{
 -- Page 11, Offset 19483.
 -- ふたりはしばらく、言葉もなく歩いていた。
-  Ils marchèrent en silence pendant quelque temps.
+　Ils marchèrent en silence pendant quelque temps.
 
 }
 [sha:01b02e764321d30c1abd88c434b683cb38d24211]{
 -- Page 11, Offset 19484.
 -- 青子は来る時の会話を思い出して、若かったなぁ、と反省中。
-  Aoko ressassait l'échange qu'ils avaient eu à l'aller et regrettait d'avoir abordé le sujet.
+　Aoko ressassait l'échange qu'ils avaient eu à l'aller et regrettait d'avoir abordé le sujet.
 
 }
 [sha:9a9fe39acc71f7a8c266e238804279e5fb36fac8]{
 -- Page 11, Offset 19485.
 -- こんな事なら、あんなしんみりとした話をするんじゃなかった、と照れている。
-  Si j'avais su, je n'aurais pas engagé une conversation aussi sensible, songea-t-elle gênée.
+　Si j'avais su, je n'aurais pas engagé une conversation aussi sensible, songea-t-elle gênée.
 
 }
 [sha:17cde1236f11c4c20d5e5ecb8c166d6805f01005]{
 -- Page 12, Offset 19486.
 -- 一方の草十郎は、いつも通り、何も考えてはいなかった。
-  Quant à Sōjūrō, il ne pensait à rien, comme à son habitude.
+　Quant à Sōjūrō, il ne pensait à rien, comme à son habitude.
 
 }
 [sha:7cde43daf41e0e95eaba37b335e33f62237b697e]{
 -- Page 12, Offset 19487.
 -- 草十郎にとっては普通の、青子にとっては気まずい沈黙。
-  Le silence, banal pour le jeune homme, était embarrassant pour la jeune fille.
+　Le silence, banal pour le jeune homme, était embarrassant pour la jeune fille.
 
 }
 [sha:c54db0c225115999d7268509ca0bd8b93526d03f]{
 -- Page 12, Offset 19488.
 -- そんな中、不意に草十郎はおかしな事を言いだした。
-  C'est dans cette atmosphère que Sōjūrō proposa subitement quelque chose d'étrange.
+　C'est dans cette atmosphère que Sōjūrō proposa subitement quelque chose d'étrange.
 
 }
 [sha:9e41a4dfb7da9b617349b57949bb209651fbca53]{
@@ -283,13 +283,13 @@
 [sha:21df7899f1d470e33725d0724dd41a5a14177e5a]{
 -- Page 13, Offset 19490.
 -- 目を点にする青子。
-  Aoko ouvrit grand les yeux.
+　Aoko ouvrit grand les yeux.
 
 }
 [sha:2958575964730b1e7863f791a8b247dcc605b03a]{
 -- Page 13, Offset 19491.
 -- この男はいったいなんなんだろう、という不満とか疑問がありありと浮かんでいる。
-  Mais de quoi est fait cet homme, au juste ? Cette question teintée de mécontentement lui était venue aussitôt à l'esprit.
+　Mais de quoi est fait cet homme, au juste ? Cette question teintée de mécontentement lui était venue aussitôt à l'esprit.
 
 }
 [sha:6addb2cf537fb43708f61917ea732451933a476f]{
@@ -307,13 +307,13 @@
 [sha:ad3ef6708c2b287e6d6ec9f7e717b9a623b673d6]{
 -- Page 14, Offset 19494.
 -- うーん、と青子は難しそうに口に手をあてた。
-  Aoko porta les mains à la bouche d'un air incertain.
+　Aoko porta les mains à la bouche d'un air incertain.
 
 }
 [sha:558039cd1a0c41c8f3785251adf95bcbdf8e4dda]{
 -- Page 14, Offset 19495.
 -- 手袋をしていない細い指が、寒さで白く染まっている。
-  Ses doigts fins et nus avaient pris une couleur rouge à cause du froid.
+　Ses doigts fins et nus avaient pris une couleur rouge à cause du froid.
 
 }
 [sha:f64d089f9025b25bc4378674abcbbbdad7dd7712]{
@@ -325,13 +325,13 @@
 [sha:79191765c6529270134c215a2f3d174a268c4f19]{
 -- Page 15, Offset 19497.
 -- 見るからに無欲という彼の雰囲気は、こういう<時|とき>便利だ。
-  C'était dans ces moments-là que son attitude visiblement désintéressée pouvait se révéler des plus utiles.
+　C'était dans ces moments-là que son attitude visiblement désintéressée pouvait se révéler des plus utiles.
 
 }
 [sha:9a351e16a7c80432248806da963c1f7f59e48280]{
 -- Page 15, Offset 19498.
 -- 有珠も素直に厚意を受け取る公算<大|だい>である。
-  Il y avait de fortes chances qu'Alice accepte docilement sa bienveillance.
+　Il y avait de fortes chances qu'Alice accepte docilement sa bienveillance.
 
 }
 [sha:f733263d6d4b785b191965a64d85b9bd9e03cce3]{
@@ -343,7 +343,7 @@
 [sha:d8cabc5312907dce6c1b93bfe3444f8a1f903b34]{
 -- Page 16, Offset 19500.
 -- また、なんだってお土産がお餅なの？」
-  Mais pourquoi des mochi ?」
+　Mais pourquoi des mochi ?」
 
 }
 [sha:ff94f946fe6f10e157aa78191cc3969fa1cabe87]{
@@ -355,13 +355,13 @@
 [sha:cc95fe595b7804513e8089a21c8af9f658e4e95a]{
 -- Page 17, Offset 19502.
 -- あっさりと返答されて、青子はたしかに、と同意してしまった。
-  “En effet”, admit Aoko en entendant cette réponse toute simple.
+　“En effet”, admit Aoko en entendant cette réponse toute simple.
 
 }
 [sha:0c8ffd04765008b448a2f38bfe23b57696adceb8]{
 -- Page 17, Offset 19503.
 -- 有珠がお餅を食べている姿をつい想像し、とたんに帰るのが楽しみになってくる。
-  Elle imagina Alice en train de manger des mochi et elle fut soudain impatiente de rentrer.
+　Elle imagina Alice en train de manger des mochi et elle fut soudain impatiente de rentrer.
 
 }
 [sha:522f80cfe389dc1f0510cf6da368735be4aa67e5]{
@@ -373,13 +373,13 @@
 [sha:1bfe939fee520b506ab142dd7f8e111073723a33]{
 -- Page 18, Offset 19505.
 -- ……そういえば前から不思議に思ってたんだけど、いつから有珠と仲良くなったの？　そのきっかけが、私には分からないんだけど」
-  ...... Puisqu'on en parle, depuis quand vous vous entendez si bien, Alice et toi ? Ça me turlupine depuis un moment. Quel a été l'élément déclencheur ?」
+　...... Puisqu'on en parle, depuis quand vous vous entendez si bien, Alice et toi ? Ça me turlupine depuis un moment. Quel a été l'élément déclencheur ?」
 
 }
 [sha:3c0efc251c011668d85982f492ec9d5dd579139f]{
 -- Page 19, Offset 19506.
 -- 隣りから覗きこむように見つめられて、草十郎はさて、と考えを巡らせた。
-  Sōjūrō médita la question tandis qu'Aoko le fixait depuis le côté.
+　Sōjūrō médita la question tandis qu'Aoko le fixait depuis le côté.
 
 }
 [sha:9c6ef6f77717149a7b7139b1942ccbec2cd107d9]{
@@ -391,7 +391,7 @@
 [sha:9280ba1dc069fb032a3254cb1c408fbd96f5a085]{
 -- Page 20, Offset 19508.
 -- しいていうなら初めて話した時かな。もっと確かになったのはロビーで話した時だろうね」
-  Mais si tu veux vraiment une réponse, on a sympathisé lors de notre première conversation. Et ça s'est précisé lorsqu'on a discuté dans le vestibule.」
+　Mais si tu veux vraiment une réponse, on a sympathisé lors de notre première conversation. Et ça s'est précisé lorsqu'on a discuté dans le vestibule.」
 
 }
 [sha:07e4dbbe83f3edd51ecee77b659568864693d5f0]{
@@ -409,19 +409,19 @@
 [sha:f42d28e8c117db29450bc655e36cf847b99cbe1c]{
 -- Page 21, Offset 19511.
 -- 変なこと訊くんだな、と草十郎は言葉をきった。
-  Sōjūrō évita de rajouter qu'elle posait des questions bien étranges.
+　Sōjūrō évita de rajouter qu'elle posait des questions bien étranges.
 
 }
 [sha:54b87cd23bce3b0b59850d4d1b5b5415fb8968be]{
 -- Page 21, Offset 19512.
 -- 言葉ではなく感性で通じ合う。
-  Ils ne communiquaient pas avec des mots mais avec leurs sentiments.
+　Ils ne communiquaient pas avec des mots mais avec leurs sentiments.
 
 }
 [sha:18f861295973049ecbad05a4782322b37bca3249]{
 -- Page 21, Offset 19513.
 -- たしかに、この少年と有珠はそんな関係なのかも知れない。
-  La relation qui liait Alice et ce jeune homme se définissait peut-être ainsi.
+　La relation qui liait Alice et ce jeune homme se définissait peut-être ainsi.
 
 }
 [sha:00957570f4ae46df03d013b66dc252689708b202]{
@@ -445,37 +445,37 @@
 [sha:60f866e243ea0d63a366a396fa0bcb6f9bd0b79c]{
 -- Page 22, Offset 19517.
 -- その返答は、やや冷たくて、どことなく愛らしかった。
-  Cette réponse était un peu froide mais avait un côté adorable.
+　Cette réponse était un peu froide mais avait un côté adorable.
 
 }
 [sha:0d9c085b7c366c48d5eabc3bc3986d5e40a4e17d]{
 -- Page 23, Offset 19518.
 -- 山道は半分にさしかかる。
-  Ils atteignirent la moitié inférieure du chemin de montagne.
+　Ils atteignirent la moitié inférieure du chemin de montagne.
 
 }
 [sha:1f7d364d9f56abea32fbed7936d0418b61101e6b]{
 -- Page 23, Offset 19519.
 -- 平地に近づくにつれ星空は遠のいていくようで、草十郎はぼんやりと空を見上げ続ける。
-  Les étoiles semblaient s'éloigner au fur et à mesure qu'ils s'approchaient de la plaine, mais Sōjūrō n'avait de cesse de contempler distraitement le ciel.
+　Les étoiles semblaient s'éloigner au fur et à mesure qu'ils s'approchaient de la plaine, mais Sōjūrō n'avait de cesse de contempler distraitement le ciel.
 
 }
 [sha:d7e3bd1848d3136a742e04e8920bb65d6addf46f]{
 -- Page 23, Offset 19520.
 -- 来る時からその素振りが気になっていた青子だが、ここにきてようやく、その理由に思い至った。
-  Son comportement avait intrigué Aoko depuis l'aller, mais elle en réalisa enfin la raison.
+　Son comportement avait intrigué Aoko depuis l'aller, mais elle en réalisa enfin la raison.
 
 }
 [sha:4fd0f3e7195c1bd106d79e35eb44f880be37c519]{
 -- Page 23, Offset 19521.
 -- ようするに、彼は懐かしがっているのだ。
-  Pour résumer, il était d'humeur nostalgique.
+　Pour résumer, il était d'humeur nostalgique.
 
 }
 [sha:a5baac975ce0fe4c91b27af2976bae7344578268]{
 -- Page 23, Offset 19522.
 -- 山から見る星空というヤツを。
-  Le ciel étoilé de la montagne lui manquait.
+　Le ciel étoilé de la montagne lui manquait.
 
 }
 [sha:81aa684c2e67d3cc5974eb437f40b961c82f4464]{
@@ -493,7 +493,7 @@ Aozaki.」
 [sha:77da6c42ae100c8e7b1d656e5a12a376b289329c]{
 -- Page 24, Offset 19525.
 -- 不意に、草十郎は見上げたまま問いかけてきた。
-  commença soudain Sōjūrō, les yeux tournés vers le ciel.
+　commença soudain Sōjūrō, les yeux tournés vers le ciel.
 
 }
 [sha:9dda241953d9dd89a6127e33422f27cf96532c70]{
@@ -505,13 +505,13 @@ Aozaki.」
 [sha:7ca40905046539d0c5d0f18c260abf89cb74e526]{
 -- Page 24, Offset 19527.
 -- 両手を上着のポケットにいれたまま、白い息をする草十郎。
-  Sōjūrō, les deux mains dans les poches de son manteau, lâcha un souffle de vapeur.
+　Sōjūrō, les deux mains dans les poches de son manteau, lâcha un souffle de vapeur.
 
 }
 [sha:4a8556ad85ad9857f8a7c46a30370f2aa57ecfba]{
 -- Page 24, Offset 19528.
 -- 青子にはその姿が、幻のように遠く感じられた。
-  Sa silhouette parut soudainement distante pour Aoko, tel un mirage.
+　Sa silhouette parut soudainement distante pour Aoko, tel un mirage.
 
 }
 [sha:24e7c56ce0d01b6789e321cff6b13ab78e216f68]{
@@ -535,19 +535,19 @@ Si tu as des regrets ou non.」
 [sha:d0a8c68ff11cec349d938e82186432f45c369877]{
 -- Page 25, Offset 19532.
 -- ……それは、哀しい問いだった。
-  ...... C'était une question plutôt triste.
+　...... C'était une question plutôt triste.
 
 }
 [sha:125372740b90f61f5bcefafc8c3fa4f2d77cf72a]{
 -- Page 25, Offset 19533.
 -- なんと答えても彼は多くの物を失うのだろう。
-  Quelle que soit sa réponse, il perdrait nombre de choses.
+　Quelle que soit sa réponse, il perdrait nombre de choses.
 
 }
 [sha:92a6528535acbfd10095b4dcfad93ce9b34913be]{
 -- Page 25, Offset 19534.
 -- それでも答えを求めている以上、青子はさっぱりと返答する。
-  Mais comme il posait la question malgré tout, Aoko décida de répondre franchement.
+　Mais comme il posait la question malgré tout, Aoko décida de répondre franchement.
 
 }
 [sha:99346adca5fa5f9f418941e2bbfb7e328a4c0816]{
@@ -559,7 +559,7 @@ Si tu as des regrets ou non.」
 [sha:8d721a91ce7f6d5e484874db3f6605308b76452b]{
 -- Page 26, Offset 19536.
 -- 後悔なんてのはね、草十郎。するものじゃなくて、無くしていく為にあるものなのよ」
-  Mais tu sais, Sōjūrō, les regrets ne sont pas éternels, ils n'existent que pour disparaître un jour.」
+　Mais tu sais, Sōjūrō, les regrets ne sont pas éternels, ils n'existent que pour disparaître un jour.」
 
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
@@ -571,19 +571,19 @@ Si tu as des regrets ou non.」
 [sha:1f4b9eef5dbd57a7793ee117c505d7e91953695f]{
 -- Page 27, Offset 19538.
 -- ……ああ、と。
-  “...... Aah”, fit-il dans un souffle.
+　“...... Aah”, fit-il dans un souffle.
 
 }
 [sha:13256d0397274a0e82cd4110b9e052979850f299]{
 -- Page 27, Offset 19539.
 -- 噛みしめるように、彼は万感の想いを<葬|みおく>った。
-  Il serra les mâchoires et refoula un flot d'émotions.
+　Il serra les mâchoires et refoula un flot d'émotions.
 
 }
 [sha:ad572c88caa071c0c01dff843279977de3e24b42]{
 -- Page 27, Offset 19540.
 -- もう形も匂いも薄れている全てに、手を伸ばさず、手を振った。
-  Il fit ses adieux à toutes les choses, formes et odeurs qu'ils seraient incapables de saisir à nouveau et qui s'estompaient déjà.
+　Il fit ses adieux à toutes les choses, formes et odeurs qu'ils seraient incapables de saisir à nouveau et qui s'estompaient déjà.
 
 }
 [sha:c34f4e9797d685ac52f7f86ca7d204f49a79096b]{
@@ -595,43 +595,43 @@ Si tu as des regrets ou non.」
 [sha:d9ec8f78df20df269bbc18550269e99f69b857da]{
 -- Page 28, Offset 19542.
 -- 呟く顔にはかすかな痛み。
-  Tandis qu'il murmurait, une infime douleur passa sur ses traits.
+　Tandis qu'il murmurait, une infime douleur passa sur ses traits.
 
 }
 [sha:ff4ea3bb8fa8652fd556bb6ab634f113d33e2044]{
 -- Page 28, Offset 19543.
 -- ただ、<鮮|あざ>やかで。
-  Cette façon de penser était aveuglante.
+　Cette façon de penser était aveuglante.
 
 }
 [sha:600a777f0cf6027d983784572fabd405f4b65a3a]{
 -- Page 28, Offset 19544.
 -- そう言い切れるほど自分は強くはないけれど、それに焦がれている。そう言い切れる彼女に、強く焦がれている。
-  Il n'était pas assez fort pour faire une telle déclaration, mais il y aspirait. Et il admirait la jeune fille pour être capable de le clamer haut et fort.
+　Il n'était pas assez fort pour faire une telle déclaration, mais il y aspirait. Et il admirait la jeune fille pour être capable de le clamer haut et fort.
 
 }
 [sha:3180b90eef456807f299ab4dd4b3fc3ea036e068]{
 -- Page 28, Offset 19545.
 -- なら、いつか―――
-  Il espérait qu'un jour―――
+　Il espérait qu'un jour―――
 
 }
 [sha:d7976796dcf9609900cb02dd429563ed4b05cc18]{
 -- Page 29, Offset 19546.
 -- いまは、空も闇も遠く。
-  Le ciel et les ténèbres étaient à présent bien éloignés.
+　Le ciel et les ténèbres étaient à présent bien éloignés.
 
 }
 [sha:1a2e3da0351de0aac0576272a1b9681cea85aeb5]{
 -- Page 29, Offset 19547.
 -- 今日だけの景色が、いつまでも美しく思えるのなら。
-  S'il se remémorait à jamais ce paysage comme un spectacle magnifique,
+　S'il se remémorait à jamais ce paysage comme un spectacle magnifique,
 
 }
 [sha:cabbdc3019ab5e753fa16b6400bc00fd4299397e]{
 -- Page 29, Offset 19548.
 -- 残してきた<幾|いく>つかの悔いが、星のように思える日が、いつかはあるのだろうか？
-  viendrait-il un jour où ses innombrables regrets lui apparaîtraient aussi lointains que ces étoiles ?
+　viendrait-il un jour où ses innombrables regrets lui apparaîtraient aussi lointains que ces étoiles ?
 
 }
 [sha:644d2dff2f9551b51c24a43da5a5404511840b68]{
@@ -643,31 +643,31 @@ Si tu as des regrets ou non.」
 [sha:4c78fed0bd92bcb9fafbe5575a6501b623183024]{
 -- Page 30, Offset 19550.
 -- 見上げる草十郎にならって、青子は暗い空を眺めた。
-  Aoko imita Sōjūrō et leva les yeux vers le ciel obscur.
+　Aoko imita Sōjūrō et leva les yeux vers le ciel obscur.
 
 }
 [sha:42d84c875f705fff7e3d383c297950195cc870cb]{
 -- Page 30, Offset 19551.
 -- 星は町でのそれより強く輝いている。
-  Les étoiles brillaient plus intensément qu'en ville.
+　Les étoiles brillaient plus intensément qu'en ville.
 
 }
 [sha:810abefdf9740d9b98325b23fae01fbfd4c07e1c]{
 -- Page 30, Offset 19552.
 -- 澄んだ空気と、明かりのない闇のおかげだ。
-  Il fallait remercier l'atmosphère pure et l'absence de lumières.
+　Il fallait remercier l'atmosphère pure et l'absence de lumières.
 
 }
 [sha:abc2dae13ab43ce3794570652ad778c4f0b10088]{
 -- Page 30, Offset 19553.
 -- それを憎むような眼差しで草十郎は見つめていた。
-  Sōjūrō l'observait d'un regard haineux...
+　Sōjūrō l'observait d'un regard haineux...
 
 }
 [sha:6d606f3ba958c78f1ee6c43566ee658b83c67f9d]{
 -- Page 30, Offset 19554.
 -- ……こんなにも綺麗な星なのに、それを偽物と決め付けるように。
-  ...... Comme s'il accusait les étoiles d'être fausses malgré leur beauté.
+　...... Comme s'il accusait les étoiles d'être fausses malgré leur beauté.
 
 }
 [sha:28d497137f7379f9f97649145385eddce94b7fad]{
@@ -685,25 +685,25 @@ Si tu as des regrets ou non.」
 [sha:b75f41cfec2553e46aea027634d12a86fd19eed0]{
 -- Page 31, Offset 19557.
 -- 突然の否定に驚いて、青子は草十郎の顔を覗き見る。
-  Étonnée par le rejet soudain de Sōjūrō, Aoko scruta son visage.
+　Étonnée par le rejet soudain de Sōjūrō, Aoko scruta son visage.
 
 }
 [sha:606618e47b9a819ae008c45dc93c40265c55e5ec]{
 -- Page 31, Offset 19558.
 -- ……憎むような瞳は、もうくすんだ色に戻っていた。
-  ...... Ses pupilles, un instant dilatées par la haine, avaient repris leur teinte marron.
+　...... Ses pupilles, un instant dilatées par la haine, avaient repris leur teinte marron.
 
 }
 [sha:807cb89ede3fbaa30aa9d6c8b5ce2f84c7cc4195]{
 -- Page 31, Offset 19559.
 -- 一呼吸して草十郎は呟く。
-  Sōjūrō inspira profondément avant de murmurer.
+　Sōjūrō inspira profondément avant de murmurer.
 
 }
 [sha:f55477cd3fe6c9585df7e73e5988829440c184ae]{
 -- Page 31, Offset 19560.
 -- 視線はいまだ星空に釘付けたまま。
-  Son regard était toujours rivé vers le ciel.
+　Son regard était toujours rivé vers le ciel.
 
 }
 [sha:4710751fcaffb254708c0a3fd6f172c2b8131f14]{
@@ -721,31 +721,31 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:58e7ce925071353726a5ec189d3ef78887eb43e5]{
 -- Page 33, Offset 19563.
 -- それが本当のソラ。
-  Il parlait du vrai ciel.
+　Il parlait du vrai ciel.
 
 }
 [sha:b9a3b4a1d1bbd9c43c868cda0f767a2fd354fda5]{
 -- Page 33, Offset 19564.
 -- 彼の語る山の星空は、<天象儀|プラネタリウム>より素晴らしい物だった。
-  Le ciel étoilé visible en montagne dont il parlait surpassait de loin sa reproduction dans un planétarium.
+　Le ciel étoilé visible en montagne dont il parlait surpassait de loin sa reproduction dans un planétarium.
 
 }
 [sha:0c77157497e39a4ac43bbd6e4feff5ae56e84a44]{
 -- Page 33, Offset 19565.
 -- 降り注ぐ雨のような、回る星々。
-  Les étoiles s'y mouvaient et semblaient s'y abattre telle la pluie.
+　Les étoiles s'y mouvaient et semblaient s'y abattre telle la pluie.
 
 }
 [sha:08942a30aeb148475d4b036c8e349a669f8ff266]{
 -- Page 33, Offset 19566.
 -- 指でなぞるだけで観測できる、原初のままの夜空。
-  Il s'agissait d'une voûte céleste primitive, qu'on aurait presque pu toucher du bout des doigts.
+　Il s'agissait d'une voûte céleste primitive, qu'on aurait presque pu toucher du bout des doigts.
 
 }
 [sha:aeea6d9a388a024607111234209f3acbb3963905]{
 -- Page 33, Offset 19567.
 -- ……それは、彼にはもう戻る事のできない、帰り道すら知らない故郷。
-  ...... Le foyer qu'il avait à jamais perdu ; il ne connaissait d'ailleurs pas le chemin du retour.
+　...... Le foyer qu'il avait à jamais perdu ; il ne connaissait d'ailleurs pas le chemin du retour.
 
 }
 [sha:b729a5b1955781f369159379c7f2cae13a0cc92d]{
@@ -757,43 +757,43 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:1186f4a7d76f0dc0e368d0e36f0064f3094125c0]{
 -- Page 34, Offset 19569.
 -- でも、いつか比べるのは街になってしまうんだろう。自分は、こっちに下りてきてしまったんだから」
-  Mais un jour, c'est probablement la montagne que je comparerai à la ville. Parce que je vis ici maintenant.」
+　Mais un jour, c'est probablement la montagne que je comparerai à la ville. Parce que je vis ici maintenant.」
 
 }
 [sha:39f75eadcd16a24bb8353c7db1aa25fd84143199]{
 -- Page 35, Offset 19570.
 -- それが今までの後悔。
-  Il s'agissait là de tous ses regrets.
+　Il s'agissait là de tous ses regrets.
 
 }
 [sha:d9766e8252261e33d503eb94685378e995c77f67]{
 -- Page 35, Offset 19571.
 -- 星空から視線を離して、草十郎は青子へと視線を向ける。
-  Sōjūrō détacha son regard du ciel et le posa sur Aoko.
+　Sōjūrō détacha son regard du ciel et le posa sur Aoko.
 
 }
 [sha:9887eb1d48a4e2c68114ce47f2dbda7f5ff53538]{
 -- Page 35, Offset 19572.
 -- いつもとは違う、ためらいがちの彼女の瞳が、少し痛い。
-  Contrairement à son habitude, les yeux de la jeune fille étaient voilés par l'incertitude et un brin de tristesse.
+　Contrairement à son habitude, les yeux de la jeune fille étaient voilés par l'incertitude et un brin de tristesse.
 
 }
 [sha:b2829e2c3d3fe6d02f67fc989c1c6948c6a3666b]{
 -- Page 35, Offset 19573.
 -- それは自分への同情か、それともただの<憐愍|れんびん>か。
-  Ressentait-elle de la sympathie envers lui ? Ou bien seulement de la pitié ?
+　Ressentait-elle de la sympathie envers lui ? Ou bien seulement de la pitié ?
 
 }
 [sha:55d5e42ab99fdfe5b8c6c2f9d4cb1dfd59a19daa]{
 -- Page 35, Offset 19574.
 -- ……そのどちらにしたって、彼女らしくない瞳をさせているのは自分だ。
-  ...... Dans les deux cas, elle affichait ce regard inhabituel par sa faute.
+　...... Dans les deux cas, elle affichait ce regard inhabituel par sa faute.
 
 }
 [sha:90731032493d393c2864288b2ed3396cd553f0dc]{
 -- Page 35, Offset 19575.
 -- 青子の無言の問いかけに、草十郎は目を閉じてうなずいた。
-  Devinant la question silencieuse d'Aoko, Sōjūrō ferma les yeux et acquiesça :
+　Devinant la question silencieuse d'Aoko, Sōjūrō ferma les yeux et acquiesça :
 
 }
 [sha:1e7f1314ff4ed1e90809c15b20210c0856f492c9]{
@@ -805,37 +805,37 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:2c6649482564e0a64f25bb2382f92858814d89c8]{
 -- Page 36, Offset 19577.
 -- ただ、そうなるのなら、そうなってしまう以上に、すばらしい物を手に入れないといけない。
-  Cela dit, puisque ça arrivera un jour, je me dois d'obtenir quelque chose qui vaille ce changement de point de vue.
+　Cela dit, puisque ça arrivera un jour, je me dois d'obtenir quelque chose qui vaille ce changement de point de vue.
 
 }
 [sha:3a53356b5df32e38aea9dc050f7e19c3427cc3ec]{
 -- Page 36, Offset 19578.
 -- 後悔を、いつか、後悔と思わないために」
-  Afin que vienne le jour où mes regrets n'en seront plus.」
+　Afin que vienne le jour où mes regrets n'en seront plus.」
 
 }
 [sha:d896bb6327c63690e1b4055b30dbdb06d1284c59]{
 -- Page 37, Offset 19579.
 -- 彼は感謝するように、そう告白した。
-  La confession qu'il fit avait des allures de remerciements.
+　La confession qu'il fit avait des allures de remerciements.
 
 }
 [sha:29cef05251f94fe4d6424e6393b46c383d38cd6d]{
 -- Page 37, Offset 19580.
 -- 古いカラは捨てなければいけない。
-  Il fallait abandonner sa vieille coquille,
+　Il fallait abandonner sa vieille coquille,
 
 }
 [sha:750e9512e364859aee9ef5a24c032c7caaf16441]{
 -- Page 37, Offset 19581.
 -- 喪失は踏み越えなければならない。
-  et surmonter les pertes.
+　et surmonter les pertes.
 
 }
 [sha:a924863cb45d22bf25d88453d839feb1e3c0edab]{
 -- Page 37, Offset 19582.
 -- それが、青子の答えで彼が失った、彼の全てだったモノ。
-  C'était la réponse d'Aoko et tout ce qu'il avait perdu.
+　C'était la réponse d'Aoko et tout ce qu'il avait perdu.
 
 }
 [sha:a325bac0da3c960ee6b1b8e9eae159ba1e75657e]{
@@ -847,13 +847,13 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:694334d84e91a5540418a5d312c8f9c747675a38]{
 -- Page 38, Offset 19584.
 -- 向けられた笑顔があんまりに柔らかくて、青子は顔を背けながら憎まれ口を言う。
-  La tendresse du sourire qu'il tournait vers elle suffisait pour qu'Aoko détourne le visage et se répande en reproches.
+　La tendresse du sourire qu'il tournait vers elle suffisait pour qu'Aoko détourne le visage et se répande en reproches.
 
 }
 [sha:48e6952d209ec04945d426b2b2b821fcbc5b92ca]{
 -- Page 38, Offset 19585.
 -- ……本音である可能性も大きいが、それはそれで彼女らしい。
-  ...... Il y avait de fortes chances pour que ces réprimandes reflètent ses véritables sentiments, mais il la reconnaissait bien là.
+　...... Il y avait de fortes chances pour que ces réprimandes reflètent ses véritables sentiments, mais il la reconnaissait bien là.
 
 }
 [sha:d2fb9607116a7a88298983389e014dd71d51f61d]{
@@ -865,49 +865,49 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:3dc74802db57261130d4184c00845ad44d1f1390]{
 -- Page 39, Offset 19587.
 -- あの人が他人に興味を持つなんて、すごい事よ」
-  C'est vraiment rare qu'il s'intéresse à quelqu'un, tu sais ?」
+　C'est vraiment rare qu'il s'intéresse à quelqu'un, tu sais ?」
 
 }
 [sha:c53437f3c4a283d81b63a6a35cf266bcbd9749b1]{
 -- Page 39, Offset 19588.
 -- せっかくの質問だったが、あの老人との会話について、草十郎は答えなかった。
-  Sōjūrō préférait éviter d'aborder sa conversation avec le vieil homme et ne répondit pas.
+　Sōjūrō préférait éviter d'aborder sa conversation avec le vieil homme et ne répondit pas.
 
 }
 [sha:67eabc9fce8a46b0df70a6ce591fcccf07a653c4]{
 -- Page 39, Offset 19589.
 -- 当たり障りのない返答をしてお茶をにごす。
-  Il éluda donc délibérément la question.
+　Il éluda donc délibérément la question.
 
 }
 [sha:2ba28643ea988bd56fadd22925de7fd9bbe86419]{
 -- Page 40, Offset 19590.
 -- 道は、もうじき平坦な路面に戻ろうとしていた。
-  Le chemin pentu s'aplanissait progressivement à l'approche de la route.
+　Le chemin pentu s'aplanissait progressivement à l'approche de la route.
 
 }
 [sha:40eed46216e7e3ee7649f4e149ce5fd6c2cb78a2]{
 -- Page 40, Offset 19591.
 -- 柔らかな土の地面は、<畦道|あぜみち>の固い土の道になるのだろう。
-  Le sol terreux et granuleux finirait par s'ouvrir sur le sentier plus ferme.
+　Le sol terreux et granuleux finirait par s'ouvrir sur le sentier plus ferme.
 
 }
 [sha:8f456b0366bc935b83cdb5da406746f6908ab43c]{
 -- Page 40, Offset 19592.
 -- その前に、ぴたりと草十郎は立ち止まった。
-  Sōjūrō s'arrêta soudainement avant de l'atteindre.
+　Sōjūrō s'arrêta soudainement avant de l'atteindre.
 
 }
 [sha:03ae0d0d5c161798a0810d5039e5724176f964fc]{
 -- Page 40, Offset 19593.
 -- 目を閉じて、耳を澄ます。
-  Il ferma les yeux et tendit l'oreille.
+　Il ferma les yeux et tendit l'oreille.
 
 }
 [sha:32451f6889c556c354d7b3b121f6f19f8f1099d6]{
 -- Page 40, Offset 19594.
 -- その後にうん、とうなずいて青子に向き直った。
-  Il acquiesça ensuite et se tourna vers Aoko.
+　Il acquiesça ensuite et se tourna vers Aoko.
 
 }
 [sha:864f389175408589caf4b3eb169fb2fcb803ada1]{
@@ -919,7 +919,7 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:349f6b1daeb2c5270740750e56fcd00387ef7c57]{
 -- Page 41, Offset 19596.
 -- 青子はわけも分からず目をまたたかせる。
-  Complètement perdue, Aoko cligna des yeux.
+　Complètement perdue, Aoko cligna des yeux.
 
 }
 [sha:2cd82b2f6e0eceece26e82d24c685b82feba405e]{
@@ -931,13 +931,13 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:429b7aa904a26170ab2efc5e942b8c88f00830a9]{
 -- Page 41, Offset 19598.
 -- 当然の反応。
-  Sa réaction était naturelle.
+　Sa réaction était naturelle.
 
 }
 [sha:f2bf109230b4be3b492ccd0a7e1bf5486ae4ad43]{
 -- Page 41, Offset 19599.
 -- それに、少年はほころぶように、
-  Le jeune homme sembla alors s'épanouir.
+　Le jeune homme sembla alors s'épanouir.
 
 }
 [sha:61956e1bec3940203e54c069ae2127113fc2b149]{
@@ -949,7 +949,7 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:7f3cb65750e5bb8105c0e850b072448dbfe27f0a]{
 -- Page 41, Offset 19601.
 -- 喜びに満ちた笑顔で、そう返答した。
-  Il accompagna sa phrase d'un sourire débordant de joie.
+　Il accompagna sa phrase d'un sourire débordant de joie.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -961,31 +961,31 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:10a9e964f706691420be160bcd9119abbe45a880]{
 -- Page 42, Offset 19603.
 -- 青子は呆然と、ただ彼の顔を見てしまう。
-  Aoko regardait son visage d'un air hébété.
+　Aoko regardait son visage d'un air hébété.
 
 }
 [sha:0e69ed9686917c1257eb660667d1cf0251a91d0d]{
 -- Page 42, Offset 19604.
 -- あまりの不意打ちで、遠く離れた<社木|やしろぎ>から<除夜|じょや>の鐘が聞こえた気がするぐらいだ。
-  La surprise était telle qu'elle crut entendre les cloches de la Saint-Sylvestre depuis Yashirogi, à des kilomètres de là.
+　La surprise était telle qu'elle crut entendre les cloches de la Saint-Sylvestre depuis Yashirogi, à des kilomètres de là.
 
 }
 [sha:025409d8809f299d595f623215e26f1ec43599f4]{
 -- Page 42, Offset 19605.
 -- 今日が<今年|ことし>最後の日だと知っていたのに、彼女はそれをどうとも思っていなかった。
-  Elle savait que c'était le dernier jour de l'année, mais elle n'y avait pas prêté grande attention.
+　Elle savait que c'était le dernier jour de l'année, mais elle n'y avait pas prêté grande attention.
 
 }
 [sha:5ee4d7fc5cc86cc4378cd014d8445a476298de8a]{
 -- Page 43, Offset 19606.
 -- なのに、たった少しの言葉だけで。
-  Pourtant, ces quelques mots avaient suffi :
+　Pourtant, ces quelques mots avaient suffi :
 
 }
 [sha:0dff9e65260f8bab04e1ebf9445cda0d0cce098a]{
 -- Page 43, Offset 19607.
 -- 遠い昔に置いたままの、鐘の音の奇跡を信じていた少女が振り向いた気がしたのだ。
-  la petite fille qui croyait au miracle produit par le son des cloches, cette enfant qu'elle avait oubliée depuis longtemps, s'était réveillée un instant au fond d'elle.
+　la petite fille qui croyait au miracle produit par le son des cloches, cette enfant qu'elle avait oubliée depuis longtemps, s'était réveillée un instant au fond d'elle.
 
 }
 [sha:014a9600888aa9ca43f910b77644658fae2021fb]{
@@ -997,37 +997,37 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:d512c3953b2dbbd50d584f1e6bf7e7991db7d7ed]{
 -- Page 44, Offset 19609.
 -- 知らなかった事のように青子は呟く。
-  murmura Aoko comme si elle venait de le réaliser.
+　murmura Aoko comme si elle venait de le réaliser.
 
 }
 [sha:81559d149da7c8d6887f3c785a05b0bcec447b9b]{
 -- Page 44, Offset 19610.
 -- その口元に、少しだけの微笑みを浮かべて。
-  Ses lèvres esquissaient un mince sourire.
+　Ses lèvres esquissaient un mince sourire.
 
 }
 [sha:62f6c6952942f5b0d71a32381231d44985f39864]{
 -- Page 45, Offset 19611.
 -- ……そう。
-  ...... Oui.
+　...... Oui.
 
 }
 [sha:0e19b2ce583e523997c1705cccadea6cd995fc47]{
 -- Page 45, Offset 19612.
 -- 思い出の中で振り向く少女は、初めての<振|ふ>り<袖|そで>なのに緊張の素振りもなくて、あんまり可愛くはなかったけれど。
-  Dans ses souvenirs de petite fille, elle portait un furisode pour la première fois, mais elle ne laissait pourtant paraître aucun signe de nervosité, et par conséquent, elle n'avait rien d'adorable.
+　Dans ses souvenirs de petite fille, elle portait un furisode pour la première fois, mais elle ne laissait pourtant paraître aucun signe de nervosité, et par conséquent, elle n'avait rien d'adorable.
 
 }
 [sha:e593ad207fb95aa5d53c6ed7983531a521f015d3]{
 -- Page 45, Offset 19613.
 -- それでも、鏡越しに微笑んでしまうだけの愛らしさはあったのだ。
-  Cependant, elle avait tout de même l'élégance de sourire face au miroir.
+　Cependant, elle avait tout de même l'élégance de sourire face au miroir.
 
 }
 [sha:7d7e283ca9d04410ae40dffcd34cd052def3afa8]{
 -- Page 45, Offset 19614.
 -- 温かそうな青子の顔を見て、草十郎は満足そうに目蓋を閉じた。それが何より嬉しい、と言うように。
-  En voyant l'expression chaleureuse d'Aoko, Sōjūrō ferma les paupières, satisfait. On aurait pu croire que rien ne pouvait le rendre plus heureux.
+　En voyant l'expression chaleureuse d'Aoko, Sōjūrō ferma les paupières, satisfait. On aurait pu croire que rien ne pouvait le rendre plus heureux.
 
 }
 [sha:7fd028f96c68ee2cb3c4ed6636d19fbbc59430c7]{
@@ -1039,84 +1039,84 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
 [sha:0e114543cc55de0e52df1320e6ed56367a024537]{
 -- Page 46, Offset 19616.
 -- 新しい年を、君と<迎|むか>えられて良かった」
-  Mais je suis heureux d'avoir pu passer le réveillon du Nouvel An en ta compagnie.」
+　Mais je suis heureux d'avoir pu passer le réveillon du Nouvel An en ta compagnie.」
 
 }
 [sha:05a9d441d36c2e72001df65668d9b04e8678a200]{
 -- Page 46, Offset 19617.
 -- そう言って草十郎は歩きだした。
-  Sur ces mots, Sōjūrō reprit la marche.
+　Sur ces mots, Sōjūrō reprit la marche.
 
 }
 [sha:aa5aa306eabeca9ab143086877799d3134eab069]{
 -- Page 46, Offset 19618.
 -- たぶん、こんな夜なのにひとりで待っている有珠の為に。
-  Il se hâtait vraisemblablement pour Alice qui attendait seule en cette nuit de réveillon.
+　Il se hâtait vraisemblablement pour Alice qui attendait seule en cette nuit de réveillon.
 
 }
 [sha:ea601e8b4101ef5a2d6bbe3c9e1b7754a9f73afc]{
 -- Page 46, Offset 19619.
 -- その横を歩きながら、青子はさっきの言葉をもう一度だけ思いだす。
-  Aoko se plaça à sa hauteur et se remémora les mots qu'il venait de prononcer.
+　Aoko se plaça à sa hauteur et se remémora les mots qu'il venait de prononcer.
 
 }
 [sha:b99c4b6af6d1b30976777136099cc49e53f0beec]{
 -- Page 47, Offset 19620.
 -- 新年を告げる言葉。
-  Ses vœux pour la nouvelle année.
+　Ses vœux pour la nouvelle année.
 
 }
 [sha:dec8cbbbf50ab3bfd500e4054c6a69423922001b]{
 -- Page 47, Offset 19621.
 -- 本当に自然に告げられたあの一言のせいで、もう何年も前から知り合っている友人の気さえした。
-  Il avait déclaré la chose de façon si naturelle qu'elle l'avait momentanément pris pour un ami de longue date.
+　Il avait déclaré la chose de façon si naturelle qu'elle l'avait momentanément pris pour un ami de longue date.
 
 }
 [sha:9439fa0ee929671ff745bedc480908d812c49e74]{
 -- Page 47, Offset 19622.
 -- それをとても幸福な事だと感じるのは、たぶん間違いじゃないはずだ。
-  Il n'y avait probablement pas de mal qu'elle se sente heureuse à cette idée.
+　Il n'y avait probablement pas de mal qu'elle se sente heureuse à cette idée.
 
 }
 [sha:3463dadef49d78d864dcfa18e1c42796c9313e6a]{
 -- Page 48, Offset 19623.
 -- いずれ、この少年ともあっさりと別れる日が来るのだろうけど。
-  Le jour où elle devrait dire adieu à ce jeune homme viendrait certainement.
+　Le jour où elle devrait dire adieu à ce jeune homme viendrait certainement.
 
 }
 [sha:eb2c985e9b92512c958c19f96a00405386252dc9]{
 -- Page 48, Offset 19624.
 -- その時まで、こんな風に自然に、古い友人のように付き合えるのなら、それは悪いことじゃない。
-  Mais d'ici ce jour fatidique, elle ne voyait aucun problème à continuer de le voir régulièrement, comme un vieil ami.
+　Mais d'ici ce jour fatidique, elle ne voyait aucun problème à continuer de le voir régulièrement, comme un vieil ami.
 
 }
 [sha:fa38bbf26eab3d9a08d8aad1df01f61a3757b56a]{
 -- Page 49, Offset 19625.
 -- 一見<素朴|そぼく>な、けれど特異な少年。
-  Un jeune homme naïf à première vue, mais singulier dans les faits.
+　Un jeune homme naïf à première vue, mais singulier dans les faits.
 
 }
 [sha:452b7103be36c9a4b4c3fa3b8af399f92c5b627c]{
 -- Page 49, Offset 19626.
 -- 彼との束の間の友情がいったい<何|い><時|つ>まで続くか考えながら、青子は足を進ませる。
-  Aoko posait un pied devant l'autre en se demandant combien de temps durerait leur amitié naissante.
+　Aoko posait un pied devant l'autre en se demandant combien de temps durerait leur amitié naissante.
 
 }
 [sha:b22b1ba7b4f1d4f462171e6f38138706b3f36eec]{
 -- Page 49, Offset 19627.
 -- 途中で一度だけ、草十郎のように、名残惜しく夜空を見上げてから。
-  Quoi qu'il en soit, elle imita Sōjūrō et contempla les étoiles avec regret.
+　Quoi qu'il en soit, elle imita Sōjūrō et contempla les étoiles avec regret.
 
 }
 [sha:4890b0a27c7ad28b52ee873fe10ff16f39b28ebc]{
 -- Page 50, Offset 19628.
 -- 空には満天の星の夜。
-  D'innombrables astres scintillaient au-dessus de leurs têtes.
+　D'innombrables astres scintillaient au-dessus de leurs têtes.
 
 }
 [sha:090aba4b2c1fc7a1955a46dc65bd713fe0780dfa]{
 -- Page 50, Offset 19629.
 -- ふたりは届かない星空の<下|した>、山道を<下|お>りていく。
-  Les deux amis descendirent la montagne sous un ciel hors d'atteinte.
+　Les deux amis descendirent la montagne sous un ciel hors d'atteinte.
 
 }

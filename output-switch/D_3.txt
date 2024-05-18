@@ -1,19 +1,19 @@
 [sha:68147f87163e18d21bd33f17325f1515322fb994]{
 -- Page 0, Offset 18974.
 -- あれからずっと<抱|かか>えていた疑問。
-  Plusieurs questions le taraudaient depuis la fin des derniers incidents.
+　Plusieurs questions le taraudaient depuis la fin des derniers incidents.
 
 }
 [sha:f30795b6b979ccc9c8fae425d508f069c35fd2df]{
 -- Page 0, Offset 18975.
 -- 今回の事件の<顛末|てんまつ>と、姉妹間の決着。
-  Elles concernaient quelques détails sur cette affaire et la conclusion des hostilités entre les deux sœurs.
+　Elles concernaient quelques détails sur cette affaire et la conclusion des hostilités entre les deux sœurs.
 
 }
 [sha:950cab214e33dee12145f368832ff453b23de763]{
 -- Page 0, Offset 18976.
 -- そういった余分な話を、草十郎は口にする。
-  Sōjūrō aborda donc ce sujet futile.
+　Sōjūrō aborda donc ce sujet futile.
 
 }
 [sha:9c3196273a77b4ed107d4297b9729e365e3b5a7e]{
@@ -49,13 +49,13 @@ Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
 [sha:e572b68b16605d7dc6da95c340d630914a1d3685]{
 -- Page 2, Offset 18982.
 -- 根源の渦っていうのは、全ての<叡知|えいち>が記録された位置、全ての事柄が決定された場所。
-  On dit que le Tourbillon de la Source renferme toute la sagesse et que toutes les choses y ont été décidées.
+　On dit que le Tourbillon de la Source renferme toute la sagesse et que toutes les choses y ont été décidées.
 
 }
 [sha:1518bd2ff002950d508a7de76e1b4782f42a62f4]{
 -- Page 2, Offset 18983.
 -- そこを見て、触れて、理解できれば不可能なんて言葉すら作り替えられる。伝承によって呼び名は様々だけど、ようするに神さまのいる位置なんでしょうね」
-  Si on pouvait le voir, le toucher et le comprendre, le mot impossible n'aurait plus aucun sens. Son nom change selon les traditions, mais pour simplifier, c'est probablement là où se trouve Dieu.」
+　Si on pouvait le voir, le toucher et le comprendre, le mot impossible n'aurait plus aucun sens. Son nom change selon les traditions, mais pour simplifier, c'est probablement là où se trouve Dieu.」
 
 }
 [sha:038eed4c2a690adcf9a240051619ecf8348f8115]{
@@ -73,7 +73,7 @@ Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
 [sha:91a2e365f967193382bbfe136038d477019fd5f4]{
 -- Page 3, Offset 18986.
 -- そりゃ万象に宿る神さまもいるでしょうけど、これはその前、そういうのを決めた大前提みたいなものよ」
-  Il y a sûrement un dieu à l'origine de toutes les créations, mais le Tourbillon de la Source se réfère à l'étape précédente, là où toutes ces choses ont été décidées.」
+　Il y a sûrement un dieu à l'origine de toutes les créations, mais le Tourbillon de la Source se réfère à l'étape précédente, là où toutes ces choses ont été décidées.」
 
 }
 [sha:db986b52130b1adb1bd3b8d2aef212f4edf90592]{
@@ -85,7 +85,7 @@ Je t'ai déjà un peu parlé du Tourbillon de la Source, non ?」
 [sha:d918eb504a2b4288f9db3a5ede67abe86171a0c6]{
 -- Page 4, Offset 18988.
 -- でも、その後に根源への<路|みち>を閉ざしちゃったのよ。
-  Seulement, il a refermé le chemin vers elle par la suite.
+　Seulement, il a refermé le chemin vers elle par la suite.
 
 }
 [sha:08f7fafa3e4ed883c65527010b564ab5b9d4db9e]{
@@ -103,7 +103,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:85a1645459c03a75551e430a2abc19d3540a0745]{
 -- Page 5, Offset 18991.
 -- たとえ力不足で取り込まれても、道があるのなら試すべきだ。自己の消滅を恐れるぐらいなら、そもそも魔術なんて学ばなかった―――ってね」
-  Pour elle, puisqu'il y avait un chemin, il fallait essayer de l'emprunter, quitte à être aspiré par manque de force. Et elle n'aurait jamais appris la Magie en premier lieu si elle craignait de perdre son égo.」
+　Pour elle, puisqu'il y avait un chemin, il fallait essayer de l'emprunter, quitte à être aspiré par manque de force. Et elle n'aurait jamais appris la Magie en premier lieu si elle craignait de perdre son égo.」
 
 }
 [sha:25b433bd53ec5603fe7c4ae0ed371c75208fb29e]{
@@ -115,37 +115,37 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:6159eaadba0eee992b7880979fc87010d94de13f]{
 -- Page 6, Offset 18993.
 -- もっと強力な後継ぎが生まれるまで、根源の解析は許可しない。後継ぎに魔法は<譲|ゆず>るけれど、根源への路だけは閉ざしていたのよ。
-  Il ne permettra pas l'analyse de la Source tant qu'un successeur plus puissant que lui n'aura pas vu le jour. Il veut bien céder la Vraie Magie à son héritier, mais il maintient scellée la voie qui mène à la Source.
+　Il ne permettra pas l'analyse de la Source tant qu'un successeur plus puissant que lui n'aura pas vu le jour. Il veut bien céder la Vraie Magie à son héritier, mais il maintient scellée la voie qui mène à la Source.
 
 }
 [sha:020c787ce5f7d79bfab86bd3068104cc59685abd]{
 -- Page 6, Offset 18994.
 -- ……橙子の気持ちも分かるけど、私は祖父に賛成だわ。
-  ...... Je comprends Tōko, mais je suis d'accord avec grand-père.
+　...... Je comprends Tōko, mais je suis d'accord avec grand-père.
 
 }
 [sha:07206e1c018a8fc76e6f57ec64cb4b915a6b8d2d]{
 -- Page 6, Offset 18995.
 -- 根源なんてものに興味はないし、第一、今まで一人も生還者がいないんだもの。それが本当に神々の座なのか保証もないし」
-  La Source ne m'intéresse pas, et en plus, personne n'en est jamais revenu vivant jusqu'ici. Et pour ne rien arranger, on n'a aucune preuve que les dieux y siègent vraiment.」
+　La Source ne m'intéresse pas, et en plus, personne n'en est jamais revenu vivant jusqu'ici. Et pour ne rien arranger, on n'a aucune preuve que les dieux y siègent vraiment.」
 
 }
 [sha:c2aebfc0f809717b9e9e034e97cd52f6b6ea175c]{
 -- Page 7, Offset 18996.
 -- 話しているうちに機嫌を損ねたのか、後半はなかば文句になっていた。
-  Son humeur s'était dégradée alors qu'elle parlait et elle avait fini par se plaindre.
+　Son humeur s'était dégradée alors qu'elle parlait et elle avait fini par se plaindre.
 
 }
 [sha:03118876304c23693ad03f8e8bba65ae2da2d0aa]{
 -- Page 7, Offset 18997.
 -- なんだかんだ言って、青子本人も祖父には賛同しきれない部分があるらしい。
-  Contrairement à ce qu'elle prétendait, Aoko semblait être en désaccord sur certains points avec son grand-père.
+　Contrairement à ce qu'elle prétendait, Aoko semblait être en désaccord sur certains points avec son grand-père.
 
 }
 [sha:e6e9ba60545407270daed43a1f213ceaab748886]{
 -- Page 7, Offset 18998.
 -- それを気にしながら、草十郎は今の話のおかしな部分について訊き返す。
-  Sōjūrō signala alors un point étrange de son histoire tout en essayant de ne pas froisser davantage son humeur.
+　Sōjūrō signala alors un point étrange de son histoire tout en essayant de ne pas froisser davantage son humeur.
 
 }
 [sha:677dee64efeda2c33f519fe2fe17bc233f053a7e]{
@@ -163,7 +163,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:392c0fb04104e8057d030acdab0a306247fb48ce]{
 -- Page 8, Offset 19001.
 -- 触れれば即消滅。人間程度の魂だと触れた瞬間に<元|・><に|・><戻|・><る|・>とか、根源に取りこまれるとか」
-  Si on l'atteint, on disparaît instantanément. L'âme humaine reviendrait au néant ou serait absorbée par la Source au moment où elle entre en contact avec elle, selon certaines théories.」
+　Si on l'atteint, on disparaît instantanément. L'âme humaine reviendrait au néant ou serait absorbée par la Source au moment où elle entre en contact avec elle, selon certaines théories.」
 
 }
 [sha:4215cb1beee23ea12ef7f2d43832696413ba0095]{
@@ -175,7 +175,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:78c69def726bc837fffea577dfaf16b569cb2015]{
 -- Page 9, Offset 19003.
 -- そこがおかしい、と草十郎は眉をひそめる。
-  Justement, c'est étrange, songea Sōjūrō en fronçant les sourcils.
+　Justement, c'est étrange, songea Sōjūrō en fronçant les sourcils.
 
 }
 [sha:e55cbc0659a35f70dba4a8564a5e7b32382fbfd2]{
@@ -205,13 +205,13 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:3bef392d27e17153245aa5294037dae771e34483]{
 -- Page 10, Offset 19008.
 -- 実にきっぱりと彼女は言った。
-  dit-elle sans le moindre signe d'hésitation,
+　dit-elle sans le moindre signe d'hésitation,
 
 }
 [sha:c531c911b5f82da591f1bd29d38290fc2fc398c5]{
 -- Page 10, Offset 19009.
 -- 何でもない話のように、昨日の話をするように。
-  comme si elle parlait d'une histoire quelconque ou de la météo de la veille.
+　comme si elle parlait d'une histoire quelconque ou de la météo de la veille.
 
 }
 [sha:019d2e57204a17fcc857127f6d0d85a80edcf6d3]{
@@ -223,7 +223,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:dd54cdde127a1c9198f23d569f4394c54e349f96]{
 -- Page 11, Offset 19011.
 -- ……ま、神さまって位置づけが私たちが思っているようなものとは思えないから、あまり幸福そうには思えないけど」
-  ...... Mais bon, à mon avis, le statut de Dieu ne correspond pas à ce qu'on s'imagine. Ils ne baignent certainement pas dans le bonheur.」
+　...... Mais bon, à mon avis, le statut de Dieu ne correspond pas à ce qu'on s'imagine. Ils ne baignent certainement pas dans le bonheur.」
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -235,31 +235,31 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:94d677a142a3a89b67b50528112526f89ed8d2ac]{
 -- Page 12, Offset 19013.
 -- 成功者も失敗者も、それに触れては、こちらの世界に帰っては来られない。
-  Qu'ils aient réussi ou échoué, ceux qui cherchaient à atteindre la Source se retrouvaient incapables de revenir dans notre monde.
+　Qu'ils aient réussi ou échoué, ceux qui cherchaient à atteindre la Source se retrouvaient incapables de revenir dans notre monde.
 
 }
 [sha:6040ffa65238ad0c39cee10bf5bce914e42676c9]{
 -- Page 12, Offset 19014.
 -- 根源の渦とやらを人々に伝えたのは、
-  Pourtant, quelqu'un avait communiqué l'existence du Tourbillon de la Source.
+　Pourtant, quelqu'un avait communiqué l'existence du Tourbillon de la Source.
 
 }
 [sha:8d5f1afe60ec42cadcf9478d5d8a8998b24989a2]{
 -- Page 12, Offset 19015.
 -- 一番初めに神さまになった誰かが、淋しさから仲間を欲しがった結果なのかもしれない。
-  Peut-être que la première personne à avoir atteint le rang de divinité s'était sentie seule et désirait des compagnons.
+　Peut-être que la première personne à avoir atteint le rang de divinité s'était sentie seule et désirait des compagnons.
 
 }
 [sha:213559ec5e2a11af067561f90d6f66c4c35d684c]{
 -- Page 12, Offset 19016.
 -- ……あるいは、あちらの仕事はあまりにも膨大で、他にも仲間を欲しがったのか。
-  ...... Ou bien, peut-être qu'il avait tellement de travail qu'il avait besoin de collègues.
+　...... Ou bien, peut-être qu'il avait tellement de travail qu'il avait besoin de collègues.
 
 }
 [sha:a4f9c7f1730117938f12bcd3da67b5f686861dfb]{
 -- Page 12, Offset 19017.
 -- 草十郎には、いくら考えても掴めない事ではあるが。
-  Bien sûr, Sōjūrō aurait beau y réfléchir, il ne trouverait pas la réponse par lui-même.
+　Bien sûr, Sōjūrō aurait beau y réfléchir, il ne trouverait pas la réponse par lui-même.
 
 }
 [sha:f134f48ed898ece50f19d0f9382f1cd8a2e69578]{
@@ -277,7 +277,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:62db76e5702c9b04fb27f814e1aa243805530185]{
 -- Page 13, Offset 19020.
 -- その後に残された人たちの事なんて興味はないの。昔から、目標に没頭しても成果を愛する人じゃなかったから」
-  Elle se contrefout de ce qui est arrivé à ces gens. Tout ce qui l'intéresse, c'est d'accomplir son objectif, même si elle se moque du résultat qu'elle obtient.」
+　Elle se contrefout de ce qui est arrivé à ces gens. Tout ce qui l'intéresse, c'est d'accomplir son objectif, même si elle se moque du résultat qu'elle obtient.」
 
 }
 [sha:6d2628b1ec85332b67993eea09c53ba6b3d046cd]{
@@ -295,7 +295,7 @@ Les génies comme elle ont quelque chose d'inhumain. Ils se démènent pour cré
 [sha:5d6afdc7096bfcb24b25cdae0aaadc0e15b46247]{
 -- Page 14, Offset 19023.
 -- 呆れているようにも認めているようにも取れる口ぶり。
-  Son timbre de voix aurait pu passer pour de la stupéfaction ou de la gratitude.
+　Son timbre de voix aurait pu passer pour de la stupéfaction ou de la gratitude.
 
 }
 [sha:cc9ade5689107eec098483a17cbff87afb44d4c1]{
@@ -307,19 +307,19 @@ Les génies comme elle ont quelque chose d'inhumain. Ils se démènent pour cré
 [sha:a6d62ab3cff3286ec62c75d9bf7636313a1ed4a1]{
 -- Page 15, Offset 19025.
 -- 未来の事は考えないのに、今あるものには何にでも興味を持つんだから」
-  Elle ne pense pas au futur, mais tout son intérêt se porte sur les choses présentes.」
+　Elle ne pense pas au futur, mais tout son intérêt se porte sur les choses présentes.」
 
 }
 [sha:e9862e6787c7794992e72e34d07e6a88d9043071]{
 -- Page 15, Offset 19026.
 -- これだから天才肌の女は、と悪態をつく青子。
-  “C'est pour ça que j'ai horreur des femmes surdouées”, lança Aoko.
+　“C'est pour ça que j'ai horreur des femmes surdouées”, lança Aoko.
 
 }
 [sha:4f9a2c76034c8325fa843ce7e1036946a1a20f10]{
 -- Page 15, Offset 19027.
 -- <敵意|てきい>の<欠片|かけら>もない声は、聞くものとしては微笑ましい。
-  Son ton dépourvu d'hostilité était attendrissant à entendre.
+　Son ton dépourvu d'hostilité était attendrissant à entendre.
 
 }
 [sha:eb40f55c0e460586924070ea6b538e83f719f974]{
@@ -331,7 +331,7 @@ Les génies comme elle ont quelque chose d'inhumain. Ils se démènent pour cré
 [sha:ee4e8565ef605af61d0205727c1d6d6a1a0fdd75]{
 -- Page 16, Offset 19029.
 -- そんな事を口にしたら、草十郎は先ほどの言葉の意味も分かってしまった。
-  En prononçant ces paroles, Sōjūrō comprit ce que sous-entendaient les déclarations d'Aoko.
+　En prononçant ces paroles, Sōjūrō comprit ce que sous-entendaient les déclarations d'Aoko.
 
 }
 [sha:7f2714f619d18ade8de2917953688f053bf449ad]{
@@ -343,6 +343,6 @@ Les génies comme elle ont quelque chose d'inhumain. Ils se démènent pour cré
 [sha:e2830ebf5d19b58cbc43ddaaf77a9a88a6486031]{
 -- Page 16, Offset 19031.
 -- つまり青子も、橙子と同じ気持ちなのだろう、と。
-  En d'autres termes, Aoko partageait les mêmes sentiments que Tōko.
+　En d'autres termes, Aoko partageait les mêmes sentiments que Tōko.
 
 }

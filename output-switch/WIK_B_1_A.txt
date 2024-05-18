@@ -1,7 +1,7 @@
 [sha:641210edcc242cd8189cb6c27b2fe8e6724c21d1]{
 -- Page 0, Offset 21271.
 -- 東館に入ると、すぐに蒼崎が待っていた。
-  Aozaki attendait à l'entrée de l'aile est.
+　Aozaki attendait à l'entrée de l'aile est.
 
 }
 [sha:bdbca634bbc79cff55645301bc2ef212fd9f4d91]{
@@ -19,18 +19,18 @@
 [sha:d27b57cdec2afec3ab23a8ac2a85ed6da7410205]{
 -- Page 0, Offset 21274.
 -- とりあえず中に入って。顔見知りばっかりだけど、一応挨拶はしておかないとね」
-  Entre donc. Même si tu connais tout le monde, les saluer ne peut pas faire de mal.」
+　Entre donc. Même si tu connais tout le monde, les saluer ne peut pas faire de mal.」
 
 }
 [sha:b69d0ffa66c4f89e80da6008976bb6e1ba057509]{
 -- Page 0, Offset 21275.
 -- 親しき仲にも礼儀あり、という事だろう。
-  Même entre bons amis, il y a une politesse à respecter.
+　Même entre bons amis, il y a une politesse à respecter.
 
 }
 [sha:dc7d6a027f4e7c691ba39e4836f17f4730d5e1a3]{
 -- Page 0, Offset 21276.
 -- 彼女らしい律儀な台詞と共に、ドアノブは回された。
-  Elle tourna la poignée tout en prononçant ces paroles qui mettaient en exergue la droiture propre à son caractère.
+　Elle tourna la poignée tout en prononçant ces paroles qui mettaient en exergue la droiture propre à son caractère.
 
 }

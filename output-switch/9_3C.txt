@@ -1,55 +1,55 @@
 [sha:11ca355c2c3b43f5b40f7dacf7e3f6be191c1419]{
 -- Page 0, Offset 13312.
 -- 三咲町から地下鉄線で六駅分。
-  Après six stations de métro à partir du vieux quartier de Misaki,
+　Après six stations de métro à partir du vieux quartier de Misaki,
 
 }
 [sha:8d20994c1a4a5db3695f34710b405ed2e971aea3]{
 -- Page 0, Offset 13313.
 -- そこから更に快速で三駅分。
-  puis trois arrêts plus loin via le train express pris en correspondance,
+　puis trois arrêts plus loin via le train express pris en correspondance,
 
 }
 [sha:01c2adce0bf7367356daa93ec55706dc93615833]{
 -- Page 0, Offset 13314.
 -- 一時間ほどかけて、青子と有珠は<有坂|ありさか>駅に到着した。
-  Aoko et Alice arrivèrent à la gare d'Arisaka au bout d'une heure environ.
+　Aoko et Alice arrivèrent à la gare d'Arisaka au bout d'une heure environ.
 
 }
 [sha:58c25b64f2a27cf5a1832e3ac5c73d8d8a5458f5]{
 -- Page 1, Offset 13315.
 -- 有坂は政令指定によって一から開発された都市だ。
-  La ville d'Arisaka avait été développée de A à Z par décret.
+　La ville d'Arisaka avait été développée de A à Z par décret.
 
 }
 [sha:55371f4545dcb72b4c89ec3ccb15a9a7bdaa0060]{
 -- Page 1, Offset 13316.
 -- 三咲町は古きを残し、新しきを築く方針で生まれ変わった町だが、有坂は何もなかった土地に<高層建築|ビルディング>を築き上げた街である。
-  Le vieux quartier de Misaki renaissait de ses cendres en mettant l'accent sur la préservation des anciens bâtiments tout en œuvrant à la construction de nouveaux édifices, alors qu'Arisaka avait pris forme en érigeant des immeubles sur des terres inhabitées.
+　Le vieux quartier de Misaki renaissait de ses cendres en mettant l'accent sur la préservation des anciens bâtiments tout en œuvrant à la construction de nouveaux édifices, alors qu'Arisaka avait pris forme en érigeant des immeubles sur des terres inhabitées.
 
 }
 [sha:03444f62caf8e338072205b27fdaafc5c19fa3ec]{
 -- Page 2, Offset 13317.
 -- 十二月末、冬休みまっただ中。
-  À la fin du mois de décembre, en pleines vacances de Noël,
+　À la fin du mois de décembre, en pleines vacances de Noël,
 
 }
 [sha:7b75521a68183d3020f735f6f810f09beb1477a9]{
 -- Page 2, Offset 13318.
 -- 午後を過ぎた有坂の街の賑わいは、三咲町とは比べものにならない。
-  le dynamisme d'Arisaka en soirée n'avait rien de comparable au vieux quartier de Misaki.
+　le dynamisme d'Arisaka en soirée n'avait rien de comparable au vieux quartier de Misaki.
 
 }
 [sha:1e79c29105357764e6e99efbfaa1c9733393f657]{
 -- Page 2, Offset 13319.
 -- なにしろ大型デパートや各種専門店、多目的ホールで賑わう、県内有数の近代都市だ。
-  Après tout, elle comptait parmi les villes les plus modernes de la préfecture, animée par son grand centre commercial, divers magasins spécialisés et sa salle polyvalente.
+　Après tout, elle comptait parmi les villes les plus modernes de la préfecture, animée par son grand centre commercial, divers magasins spécialisés et sa salle polyvalente.
 
 }
 [sha:7973b9fb8d0f2f3661ad3a9bc73b38e5eb79a29e]{
 -- Page 2, Offset 13320.
 -- その結果、有坂駅前は地元の人々より、遠方からの来訪者が集まる歓楽地になっていた。
-  Par conséquent, le parvis de la gare d'Arisaka accueillait plus de visiteurs venus de très loin pour se détendre que de gens du coin.
+　Par conséquent, le parvis de la gare d'Arisaka accueillait plus de visiteurs venus de très loin pour se détendre que de gens du coin.
 
 }
 [sha:561bd84c64dbc0abab13e86f263812ad5ed570f1]{
@@ -61,31 +61,31 @@
 [sha:6a211403e72a5ff51b2d1ef755c7a2ac7e6db6f0]{
 -- Page 3, Offset 13322.
 -- 県内最大のコンサートホールらしいけど、中はどうなってんだろ。なんか周りのビルより背が高くない？」
-  Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Elle n'a pas l'air plus haute que les bâtiments voisins.」
+　Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Elle n'a pas l'air plus haute que les bâtiments voisins.」
 
 }
 [sha:1c25f0b6d94b9b030a2700bb1ed6c94a327a67d6]{
 -- Page 4, Offset 13323.
 -- 目当ての水族館に向かう途中、多くの人々とすれ違う。
-  Sur le chemin de l'aquarium, nombre de personnes croisèrent leur route.
+　Sur le chemin de l'aquarium, nombre de personnes croisèrent leur route.
 
 }
 [sha:a676a05822cda4bbe5a7c70fcf64d148649d5b3c]{
 -- Page 4, Offset 13324.
 -- 青子は雑踏に慣れたものだが、
-  Aoko était habituée à la cohue,
+　Aoko était habituée à la cohue,
 
 }
 [sha:d1c473f15a40774e2368b0a8f5086da45ceac726]{
 -- Page 4, Offset 13325.
 -- <傍|かたわ>らの有珠は終始無言だ。
-  mais Alice, elle, resta muette tout le long du trajet.
+　mais Alice, elle, resta muette tout le long du trajet.
 
 }
 [sha:fa65096a7c3dd1eb1caa70403db430ffbbb7cd1a]{
 -- Page 4, Offset 13326.
 -- 有珠自身も、有珠とすれ違う人々も、道を行く白い少女の姿に違和感を覚えている。
-  Alice ainsi que les gens qu'elle croisait ressentaient un sentiment inconfortable à la vue de la fille vêtue de blanc marchant sur la route.
+　Alice ainsi que les gens qu'elle croisait ressentaient un sentiment inconfortable à la vue de la fille vêtue de blanc marchant sur la route.
 
 }
 [sha:2a44270f25a8a1cf614771ee66857df2cec5cf89]{
@@ -103,19 +103,19 @@ Pinktrude en fait partie ?!
 [sha:b0949c48fe202ede29b8bb7ab71c8b9718b25e79]{
 -- Page 5, Offset 13329.
 -- ちょっと、これ日本初ライブよ有珠！？」
-  Hé, c'est leur premier concert au Japon, Alice !」
+　Hé, c'est leur premier concert au Japon, Alice !」
 
 }
 [sha:5eaae9d82032624fdf506a1a921ec035540a29b3]{
 -- Page 5, Offset 13330.
 -- 看板にある予定表に一喜一憂する青子。
-  Aoko s'exaltait devant le programme affiché sur l'écriteau, exprimant tantôt joie, tantôt inquiétude.
+　Aoko s'exaltait devant le programme affiché sur l'écriteau, exprimant tantôt joie, tantôt inquiétude.
 
 }
 [sha:5d79ff709afb8005e3894c9efeb58a4264b71b2d]{
 -- Page 5, Offset 13331.
 -- 青子的に注目株のロックバンドらしいのだが、当然、有珠はあまり関心を持っていない。
-  Apparemment, elle considérait que ce groupe de rock avait de l'avenir, mais évidemment, Alice n'était pas vraiment intéressée.
+　Apparemment, elle considérait que ce groupe de rock avait de l'avenir, mais évidemment, Alice n'était pas vraiment intéressée.
 
 }
 [sha:09fb434390a1c772d989f394ef535233147a7b9c]{
@@ -127,7 +127,7 @@ Pinktrude en fait partie ?!
 [sha:565b46ac18ad3c79cd3d50715dd09ae4725e08bd]{
 -- Page 6, Offset 13333.
 -- 随分とお金がかかっているようね。
-  On dirait que ça coûte beaucoup d'argent.
+　On dirait que ça coûte beaucoup d'argent.
 
 }
 [sha:5265d9bca07a928c94f2848c7256622468f99bc2]{
@@ -145,55 +145,55 @@ Pinktrude en fait partie ?!
 [sha:1a63d8195e7c68ea510587e7c7a1c22c824ffd3f]{
 -- Page 6, Offset 13336.
 -- しまった、と口を<塞|ふさ>いで青子は足を速めた。
-  “Zut”, laissa échapper Aoko avant d'accélérer le pas.
+　“Zut”, laissa échapper Aoko avant d'accélérer le pas.
 
 }
 [sha:046d7ae5b05d3ad40f4af8644c6cff22d693c5cb]{
 -- Page 6, Offset 13337.
 -- 建設予定図の下にはお馴染みの、久遠寺財閥ゆかりの企業名があったからだ。
-  Elle avait repéré le nom familier d'une entreprise rattachée au conglomérat Kuonji inscrit sous le plan de construction.
+　Elle avait repéré le nom familier d'une entreprise rattachée au conglomérat Kuonji inscrit sous le plan de construction.
 
 }
 [sha:fedf258711e874c7862f71d08c5229228a5115bb]{
 -- Page 7, Offset 13338.
 -- お目当ての水族館は、高層ビルの最上階に造られていた。
-  L'aquarium vers lequel elles se dirigeaient se trouvait au dernier étage d'un grand immeuble.
+　L'aquarium vers lequel elles se dirigeaient se trouvait au dernier étage d'un grand immeuble.
 
 }
 [sha:831069742a94a957fa968ddea8b0eabb404aace6]{
 -- Page 7, Offset 13339.
 -- もう目新しさはないのか、
-  Peut-être avait-il perdu l'attrait de la nouveauté,
+　Peut-être avait-il perdu l'attrait de la nouveauté,
 
 }
 [sha:b9f4f3a9347186cdcec75339d28140da3c212eb2]{
 -- Page 7, Offset 13340.
 -- 階下の映画館に客足をとられているのか。
-  à moins que le cinéma d'en dessous n'accapare tous les clients potentiels,
+　à moins que le cinéma d'en dessous n'accapare tous les clients potentiels,
 
 }
 [sha:249398aa58919d5334d67b9a6b99fe674a65e181]{
 -- Page 7, Offset 13341.
 -- エントランスの人影はまばらで、館内の空気は落ち着いている。
-  car son entrée était déserte et l'ambiance paisible.
+　car son entrée était déserte et l'ambiance paisible.
 
 }
 [sha:925f163f09c52b378715a3c2186266d410962c68]{
 -- Page 8, Offset 13342.
 -- 無音というほど寂しくはなく、
-  Il n'était pas silencieux au point que l'on s'y sente seul,
+　Il n'était pas silencieux au point que l'on s'y sente seul,
 
 }
 [sha:4278fbc25ef0f24cd0f4c8e888c391b568df9d6d]{
 -- Page 8, Offset 13343.
 -- 町中ほど騒がしくはない。
-  mais il n'y régnait pas la même ferveur qu'ailleurs en ville.
+　mais il n'y régnait pas la même ferveur qu'ailleurs en ville.
 
 }
 [sha:5e4df57c84a7d0eef54e25b0c6c94313e699e3ac]{
 -- Page 8, Offset 13344.
 -- そんな美術館さながらの<趣|おもむき>が気に入ったのか。
-  Alice semblait apprécier ce charme typique des galeries d'art.
+　Alice semblait apprécier ce charme typique des galeries d'art.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -205,19 +205,19 @@ Pinktrude en fait partie ?!
 [sha:6320a903734179b8a5e1b46f5448fbaa963eedfb]{
 -- Page 8, Offset 13346.
 -- 有珠は静かに、感じ入るように息を呑んでいた。
-  Elle retenait doucement son souffle, comme émue.
+　Elle retenait doucement son souffle, comme émue.
 
 }
 [sha:31719059d210a50ae8e42ab5e15d9470e7ba520a]{
 -- Page 9, Offset 13347.
 -- はじめてサーカスを見た子供のようだ。
-  Elle avait tout de l'enfant qui voyait un cirque pour la première fois.
+　Elle avait tout de l'enfant qui voyait un cirque pour la première fois.
 
 }
 [sha:0ba8337020c82fb9b1a05d36d44fbdd63d6efd88]{
 -- Page 9, Offset 13348.
 -- 驚きと期待に、知らず、目を見開かせている。
-  Inconsciemment, elle ouvrait grand des yeux pleins d'attente et de surprise.
+　Inconsciemment, elle ouvrait grand des yeux pleins d'attente et de surprise.
 
 }
 [sha:0fd2e30b8e1ba55dd31d078bcdacd8cfe1bca887]{
@@ -229,19 +229,19 @@ Pinktrude en fait partie ?!
 [sha:e34cc853da5e57933397940bc136c8db341e3e37]{
 -- Page 10, Offset 13350.
 -- 草十郎お薦めの物件は、気むずかしい有珠さんのお眼鏡にかないましたか」
-  Le lieu que Sōjūrō a suggéré plaît donc à notre exigeante demoiselle.」
+　Le lieu que Sōjūrō a suggéré plaît donc à notre exigeante demoiselle.」
 
 }
 [sha:0ba74c66d0892c25a1a4004772f82598b795d65a]{
 -- Page 10, Offset 13351.
 -- 青子もつられて笑顔になる。
-  Les lèvres d'Aoko, amusée par sa réaction, dessinèrent un sourire.
+　Les lèvres d'Aoko, amusée par sa réaction, dessinèrent un sourire.
 
 }
 [sha:3bfb47ce0efb80d42e816196e998ebdb3e456e2e]{
 -- Page 10, Offset 13352.
 -- 有珠の驚きはそれぐらい微笑ましいものだったのだ。
-  Voilà à quel point l'émerveillement d'Alice était attendrissant.
+　Voilà à quel point l'émerveillement d'Alice était attendrissant.
 
 }
 [sha:5080c8df9a8aef8476200e5f7cdc371dc23b7ce6]{
@@ -253,25 +253,25 @@ Pinktrude en fait partie ?!
 [sha:f2cfd16a0474ecb1ebd8c1ff85b0e03b323427c2]{
 -- Page 11, Offset 13354.
 -- 水族館のエントランスは久遠寺邸のホールほどの大きさで、壁には館内の見取り図が展示されている。
-  L'entrée de l'aquarium faisait la taille du vestibule du manoir Kuonji et son plan était affiché sur le mur.
+　L'entrée de l'aquarium faisait la taille du vestibule du manoir Kuonji et son plan était affiché sur le mur.
 
 }
 [sha:8ab4705ce7dbe0fb3a2638cb974a0e5b18544c1f]{
 -- Page 12, Offset 13355.
 -- 野外のペンギンショウは休演中だった。ペンギンのペン太くんが怪我につき治療中らしい。
-  On avait annulé le spectacle en plein air des pingouins, car Penta-kun le pingouin était blessé et sous traitement médical.
+　On avait annulé le spectacle en plein air des pingouins, car Penta-kun le pingouin était blessé et sous traitement médical.
 
 }
 [sha:2f44b39d4a8cf32e7e67635458e074978291c79d]{
 -- Page 12, Offset 13356.
 -- 少し残念だが、有珠は気にとめず館内案内を目で追う。彼女にとってペンギンはそう珍しいものではないらしい。
-  C'était quelque peu dommage, mais Alice ne s'en formalisa pas et poursuivit sa lecture du guide. Apparemment, les pingouins n'avaient rien d'exceptionnel pour elle.
+　C'était quelque peu dommage, mais Alice ne s'en formalisa pas et poursuivit sa lecture du guide. Apparemment, les pingouins n'avaient rien d'exceptionnel pour elle.
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 12, Offset 13357.
 -- ……と。
-  ...... Puis...
+　...... Puis...
 
 }
 [sha:bf86b5469409ded979583449d3355ac266b71d53]{
@@ -289,7 +289,7 @@ Pinktrude en fait partie ?!
 [sha:a764b95374abd1eef023becf90da6d444ff3247a]{
 -- Page 13, Offset 13360.
 -- 有珠は悲鳴を飲みこむように喉を鳴らすのだった。
-  Alice gémit comme pour retenir un hurlement.
+　Alice gémit comme pour retenir un hurlement.
 
 }
 [sha:0bfed93b905ce0fed6dc8f849557bba7cc338c23]{
@@ -301,25 +301,25 @@ Pinktrude en fait partie ?!
 [sha:9bf50e72acf7611b5b9d427aa2174f04881850f3]{
 -- Page 14, Offset 13362.
 -- 館内案内を見る青子。
-  Aoko consulta le guide de l'aquarium.
+　Aoko consulta le guide de l'aquarium.
 
 }
 [sha:d5dd29a5849b649578eedfecc3fddd35a3e6cc70]{
 -- Page 14, Offset 13363.
 -- 屋敷内ではたまに見られるが、外で有珠が取り乱すのはまずあり得ない。
-  Il arrivait parfois qu'Alice perde son sang-froid au manoir, mais à l'extérieur, c'était rarissime.
+　Il arrivait parfois qu'Alice perde son sang-froid au manoir, mais à l'extérieur, c'était rarissime.
 
 }
 [sha:925a50a7fe7ee6e1ef6c3d10368d055355e79a6f]{
 -- Page 14, Offset 13364.
 -- 一体なにが有珠を<戦|おのの>かせたのか。
-  Pour quelle raison Alice pouvait-elle bien trembler ?
+　Pour quelle raison Alice pouvait-elle bien trembler ?
 
 }
 [sha:3bdc27a778c050577336dfd5952ca849776e64f4]{
 -- Page 14, Offset 13365.
 -- 案内にはこれといって珍しい部分はないが……
-  Le guide ne révélait pourtant rien de vraiment inhabituel......
+　Le guide ne révélait pourtant rien de vraiment inhabituel......
 
 }
 [sha:029430738cf274884708e280a83a0a2b1c17c901]{
@@ -343,7 +343,7 @@ Pinktrude en fait partie ?!
 [sha:a68d6aa357ef44d9818a858f76a960407d774c99]{
 -- Page 15, Offset 13369.
 -- どうしてゾウガメの展示スペースがないの？」
-  Pourquoi n'y a-t-il pas d'espace dédié aux tortues géantes ?」
+　Pourquoi n'y a-t-il pas d'espace dédié aux tortues géantes ?」
 
 }
 [sha:e255ee601afa7ee4dbff86277a03d4072d1f1080]{
@@ -367,13 +367,13 @@ Même les dauphins n'ont aucune excuse.」
 [sha:f688602684e06722fa703a9c386237e7f25d1280]{
 -- Page 16, Offset 13373.
 -- なんだかぜんぜん納得できない。
-  Elle n'arrivait tout simplement pas à l'accepter.
+　Elle n'arrivait tout simplement pas à l'accepter.
 
 }
 [sha:380ce4f7c7b7b96c055cbde4877ab4a6a20e3471]{
 -- Page 16, Offset 13374.
 -- ゾウガメが不在ならイルカだって不在であるべきだ、と妙な公正さからメラメラ瞳を燃やす有珠だった。
-  Les yeux d'Alice flamboyaient d'un étrange élan de justice : s'il n'y avait pas de tortues géantes, les dauphins auraient dû être dans le même cas.
+　Les yeux d'Alice flamboyaient d'un étrange élan de justice : s'il n'y avait pas de tortues géantes, les dauphins auraient dû être dans le même cas.
 
 }
 [sha:c6917f75bf9bac9420ebe5bb53076468b58a2c8b]{
@@ -385,19 +385,19 @@ Même les dauphins n'ont aucune excuse.」
 [sha:436e4fadfb341c44f34a649aba5b37bc28e6b155]{
 -- Page 17, Offset 13376.
 -- ペンギンとイルカは定番なのに、なぜゾウガメだけ外されるのか。ちょっとした日常の落とし穴ね」
-  Même si les pingouins et les dauphins sont des références, pourquoi ne mettre que les tortues géantes de côté ? C'est le genre de petit désagrément que nous réserve le quotidien.」
+　Même si les pingouins et les dauphins sont des références, pourquoi ne mettre que les tortues géantes de côté ? C'est le genre de petit désagrément que nous réserve le quotidien.」
 
 }
 [sha:b856a4fbc689c463b66bd18b4a8a1d998b414c03]{
 -- Page 17, Offset 13377.
 -- ま、単に不人気だからだろうけど。
-  Mais bon, c'est sûrement parce qu'elles sont moins populaires,
+　Mais bon, c'est sûrement parce qu'elles sont moins populaires,
 
 }
 [sha:84b8d8c7001360c1849589c9158248e663cd5541]{
 -- Page 17, Offset 13378.
 -- そんな感想を心の中だけに留める青子。彼女なりに空気を読んだ結果である。
-  pensa Aoko en s'avisant de ne pas exprimer son opinion à voix haute. Elle en avait décidé ainsi par délicatesse envers Alice.
+　pensa Aoko en s'avisant de ne pas exprimer son opinion à voix haute. Elle en avait décidé ainsi par délicatesse envers Alice.
 
 }
 [sha:8ca19a5ee93bd59b410662560aae06a94bac0a19]{
@@ -409,67 +409,67 @@ Même les dauphins n'ont aucune excuse.」
 [sha:44b1f670c439b70038195a5a5be873840b6446e8]{
 -- Page 18, Offset 13380.
 -- ゾウガメ論争から一分後。
-  Une minute après la polémique sur les tortues géantes,
+　Une minute après la polémique sur les tortues géantes,
 
 }
 [sha:5a7e37274df6dc9de19d610138be46097205a6d3]{
 -- Page 18, Offset 13381.
 -- 草十郎から貰ったチケットを受付に渡して、<人気|ひとけ>の途絶えた入り口に向かう。
-  elles remirent les tickets offerts par Sōjūrō à l'accueil et se dirigèrent vers l'entrée déserte.
+　elles remirent les tickets offerts par Sōjūrō à l'accueil et se dirigèrent vers l'entrée déserte.
 
 }
 [sha:fc98165ab7942543ff1c7e767f785f1c118f572e]{
 -- Page 18, Offset 13382.
 -- 青一色で染められたエントランスとは対照的に、ゲートから延びる通路は暗く細長い。
-  Tout en contraste avec la couleur bleue de l'entrée, le couloir s'étendant depuis la porte était long et sombre.
+　Tout en contraste avec la couleur bleue de l'entrée, le couloir s'étendant depuis la porte était long et sombre.
 
 }
 [sha:44de2d1509a5ce8aaabf4d9f00f31a8c29bc7a92]{
 -- Page 19, Offset 13383.
 -- ここから先は隣人の顔も見えない密閉空間。
-  Plus loin se trouvait un espace fermé et si obscur qu'il y était impossible de voir le visage de son voisin.
+　Plus loin se trouvait un espace fermé et si obscur qu'il y était impossible de voir le visage de son voisin.
 
 }
 [sha:e7341b3bbf69284bb97d8582528aeb4bb2686c11]{
 -- Page 19, Offset 13384.
 -- 魔術の手でもなく魔法の手でもない、文明の手によって現実と切り離された小宇宙だ。
-  Il s'agissait d'un mini-cosmos isolé de la réalité, non pas par la Magie ou la Vraie Magie, mais par la civilisation.
+　Il s'agissait d'un mini-cosmos isolé de la réalité, non pas par la Magie ou la Vraie Magie, mais par la civilisation.
 
 }
 [sha:2375b54bda6474edb1fed7b25ef7d5b3f737dce4]{
 -- Page 20, Offset 13385.
 -- 水槽だけがライトアップされた、影と水色の世界。
-  C'était un monde fait d'ombres et d'azur. Seuls les bassins y étaient éclairés.
+　C'était un monde fait d'ombres et d'azur. Seuls les bassins y étaient éclairés.
 
 }
 [sha:febd5c0c762c93655b07892215b601111179be3f]{
 -- Page 20, Offset 13386.
 -- ガラス一枚<隔|へだ>てた人工の海を眺めながら、ふたりの魔女は歩を進ませる。
-  Les deux sorcières poursuivaient leur marche tout en contemplant la mer artificielle de l'autre côté de la vitre.
+　Les deux sorcières poursuivaient leur marche tout en contemplant la mer artificielle de l'autre côté de la vitre.
 
 }
 [sha:f5eb1735a866ad67935b7252e6868a1660d98c7d]{
 -- Page 21, Offset 13387.
 -- 百の<異世界|コロニー>を<航|わた>る旅。
-  Le voyage faisait escale sur 100 colonies.
+　Le voyage faisait escale sur 100 colonies.
 
 }
 [sha:95e0e7d07509595ee02f9e3666898bcb3ceb7d2b]{
 -- Page 21, Offset 13388.
 -- それぞれ温度も環境も違う水槽たち。
-  Chaque bassin avait une température et un environnement différents.
+　Chaque bassin avait une température et un environnement différents.
 
 }
 [sha:85e3bdd748fad228f71b8b6d1ac600c133a5e82e]{
 -- Page 21, Offset 13389.
 -- ひとつひとつが同じようで別の時間。
-  Ils semblaient tous similaires, mais ne partageaient pas le même temps.
+　Ils semblaient tous similaires, mais ne partageaient pas le même temps.
 
 }
 [sha:89cf28f6c8483662d47500f79ea494bd33fd4146]{
 -- Page 21, Offset 13390.
 -- 光の屈折する<水底|みなそこ>では方角は不確かで、彼女たちの会話でさえ、断片的に消えていく。
-  Au fond de l'eau, on perdait tout repère à cause de la réfraction de la lumière, et même la conversation des deux filles s'en retrouvait décousue.
+　Au fond de l'eau, on perdait tout repère à cause de la réfraction de la lumière, et même la conversation des deux filles s'en retrouvait décousue.
 
 }
 [sha:1309910748c8c62e68bffe38647ed786709c6e2b]{
@@ -487,7 +487,7 @@ Même les dauphins n'ont aucune excuse.」
 [sha:f6a002d6801e8dbde6835889257f2e1f552fc007]{
 -- Page 22, Offset 13393.
 -- 必要ないものを欲しがるのは貴女の悪い癖ね、青子」
-  Désirer des choses qui ne sont pas nécessaires est l'une de tes mauvaises habitudes, Aoko.」
+　Désirer des choses qui ne sont pas nécessaires est l'une de tes mauvaises habitudes, Aoko.」
 
 }
 [sha:94f573731567ea94c67c99f48c2eb4cb0dc5bd37]{
@@ -499,7 +499,7 @@ Même les dauphins n'ont aucune excuse.」
 [sha:e537e20aca59a0c53c335cbe2c1a70cbb65f700f]{
 -- Page 22, Offset 13395.
 -- あ。もしかして有珠、泳げない？」
-  Ah. Ne me dis pas que tu ne sais pas nager ?」
+　Ah. Ne me dis pas que tu ne sais pas nager ?」
 
 }
 [sha:eb3bcdf4a933e25c585c88fa6ae1606489191ebe]{
@@ -529,31 +529,31 @@ J'ai même gagné contre le Saint-Bernard.」
 [sha:d51c55979e049fef27dfeaa2a207813d9d26b54f]{
 -- Page 23, Offset 13400.
 -- クロールとかバタフライとか、発明した人は半魚人になればいいのに」
-  Les personnes qui ont inventé le crawl et la nage papillon n'avaient qu'à devenir des sirènes.」
+　Les personnes qui ont inventé le crawl et la nage papillon n'avaient qu'à devenir des sirènes.」
 
 }
 [sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
 -- Page 24, Offset 13401.
 -- かつ、かつ、かつ。
-  Etc., etc., etc.
+　Etc., etc., etc.
 
 }
 [sha:1abf2bb17aa9d1d381866da8f0380a79a96d5305]{
 -- Page 24, Offset 13402.
 -- 海を巡る足取りは、普段のものよりおごそかに、繊細に。
-  Leurs pas, qui les conduisaient aux quatre coins des cinq océans, avaient quelque chose de plus solennel et délicat qu'à l'accoutumée.
+　Leurs pas, qui les conduisaient aux quatre coins des cinq océans, avaient quelque chose de plus solennel et délicat qu'à l'accoutumée.
 
 }
 [sha:3c702f2d999ec3bd958fcc5b7528fc9debedd681]{
 -- Page 24, Offset 13403.
 -- 少女たちの会話はうわのそら。
-  Elles discutaient peut-être, mais n'écoutaient que d'une oreille,
+　Elles discutaient peut-être, mais n'écoutaient que d'une oreille,
 
 }
 [sha:53c61b2958b63fab3e57ef622f2e222f3f995bf3]{
 -- Page 24, Offset 13404.
 -- ここでは、視線は青いスクリーンにのみ向けられるので。
-  car ici, leurs regards étaient entièrement tournés vers les écrans bleus.
+　car ici, leurs regards étaient entièrement tournés vers les écrans bleus.
 
 }
 [sha:670aac6446503e274a8b6546eca16dc97f79a782]{
@@ -571,7 +571,7 @@ J'ai même gagné contre le Saint-Bernard.」
 [sha:9eb9cf9880aac07286d91f6f113d414594a6efc1]{
 -- Page 25, Offset 13407.
 -- それに―――」
-  Et puis―――」
+　Et puis―――」
 
 }
 [sha:159631207658c1865e0157100b47cdc59b63ac97]{
@@ -589,37 +589,37 @@ J'ai même gagné contre le Saint-Bernard.」
 [sha:1cb0f64b097b759e9bd3d73fbbd29dd5354e02f4]{
 -- Page 25, Offset 13410.
 -- 一度交わした約束は、破らないんじゃないかって」
-  Je pensais qu'il ne romprait pas une promesse qu'il a faite.」
+　Je pensais qu'il ne romprait pas une promesse qu'il a faite.」
 
 }
 [sha:a68fd59bdcfb9bd93f00401728665834472a5d59]{
 -- Page 26, Offset 13411.
 -- なるほど、そういうコトもあるだろう。
-  Je vois, il y a aussi ça,
+　Je vois, il y a aussi ça,
 
 }
 [sha:2f0cec15287aab886dba6337fe4728fb45c8bb11]{
 -- Page 26, Offset 13412.
 -- 長い髪の少女は感心したように頷いた。
-  confirma la fille aux longs cheveux, admirative.
+　confirma la fille aux longs cheveux, admirative.
 
 }
 [sha:8f9bae0f53fc2eda5316e57ca76c26274fb39573]{
 -- Page 26, Offset 13413.
 -- ちょっとだけ目が開いたところを見ると、驚きも何割か。
-  Sachant que ses yeux s'étaient un peu agrandis, elle devait également être surprise.
+　Sachant que ses yeux s'étaient un peu agrandis, elle devait également être surprise.
 
 }
 [sha:50447294075f31b41a3099eabb03e61999397e74]{
 -- Page 26, Offset 13414.
 -- 少女たちは次の世界にふわふわと。
-  Elles pénétrèrent lentement dans le monde suivant.
+　Elles pénétrèrent lentement dans le monde suivant.
 
 }
 [sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
 -- Page 26, Offset 13415.
 -- かつ、かつ、かつ。
-  Etc., etc., etc.
+　Etc., etc., etc.
 
 }
 [sha:31fa24040c9b97600eea801bb830e1fb9eea632b]{
@@ -661,7 +661,7 @@ J'ai même gagné contre le Saint-Bernard.」
 [sha:e9df5edd57303590eaba2ace3eb506228cb725cf]{
 -- Page 28, Offset 13422.
 -- それが縁でよく遊んでいたけれど、長続きはしなかったわ」
-  C'est grâce à ça que nous nous sommes rapprochées, mais ça n'a pas duré longtemps.」
+　C'est grâce à ça que nous nous sommes rapprochées, mais ça n'a pas duré longtemps.」
 
 }
 [sha:402586de9dcd22ec32230b3e8ef32b18a9a1d413]{
@@ -685,25 +685,25 @@ J'ai même gagné contre le Saint-Bernard.」
 [sha:991ab05e214a14ff145800dda66cf0b19955adc3]{
 -- Page 29, Offset 13426.
 -- ひとつひとつに名前があるのが彼らの社会。
-  La société humaine attribuait un nom à tout.
+　La société humaine attribuait un nom à tout.
 
 }
 [sha:0fab43e96f76751dc2cb7d5d4f864d1361abbf4b]{
 -- Page 29, Offset 13427.
 -- 水の中もくるくると目まぐるしいけれど、
-  Le monde océanique avait l'air trépidant,
+　Le monde océanique avait l'air trépidant,
 
 }
 [sha:f90753ad5b8c612ace3c1888a28a5ba7f7fe3cde]{
 -- Page 29, Offset 13428.
 -- 人間も人間で、いろいろどうでも忙しいよう。
-  mais les hommes avaient également de quoi être occupés.
+　mais les hommes avaient également de quoi être occupés.
 
 }
 [sha:d136e7301dc5a5be8add39bb63a06a66094d22f3]{
 -- Page 29, Offset 13429.
 -- 少女たちは手を振りながら、次の世界にかつ、かつと。
-  Les jeunes filles agitèrent la main en direction des bassins avant de pénétrer dans les mondes suivants, les uns après les autres.
+　Les jeunes filles agitèrent la main en direction des bassins avant de pénétrer dans les mondes suivants, les uns après les autres.
 
 }
 [sha:01321e73935e5ff5f7068bd5755d0517b42f9c54]{
@@ -751,7 +751,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:8430c81e970992ce1fbd1bdd35c7ef04fcbb9c0e]{
 -- Page 32, Offset 13437.
 -- 今年は行けなかったけど、来年は一緒に行かない？」
-  Cette année, je n'ai pas pu y aller. Tu ne voudrais pas venir avec moi l'an prochain ?」
+　Cette année, je n'ai pas pu y aller. Tu ne voudrais pas venir avec moi l'an prochain ?」
 
 }
 [sha:6e60f3d198f1f0e962cb5f46a61d4c0b9be8f4ad]{
@@ -763,67 +763,67 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:78b2ead2c2f050ffa3e00526a825e6e154f44210]{
 -- Page 32, Offset 13439.
 -- ……でも、そうね。夏まで生きていられたのなら、そういう事もあるかもしれない」
-  ...... Mais pourquoi pas. Si nous survivons jusqu'à l'été, nous en aurons peut-être l'occasion.」
+　...... Mais pourquoi pas. Si nous survivons jusqu'à l'été, nous en aurons peut-être l'occasion.」
 
 }
 [sha:cee33044431d1bbb14a2d1e846a90ebdf18c775d]{
 -- Page 33, Offset 13440.
 -- かつ、かつ、かつ。
-  Etc., etc., etc.
+　Etc., etc., etc.
 
 }
 [sha:05ce29eb98916112fe512a7b2db22607ff9f40eb]{
 -- Page 33, Offset 13441.
 -- 人間の少女たちは次の水場に跳んでいく。
-  Les deux humaines s'attaquèrent au bassin suivant.
+　Les deux humaines s'attaquèrent au bassin suivant.
 
 }
 [sha:213e0399cfbe2a7d98f81dc091af26cab4cdb779]{
 -- Page 33, Offset 13442.
 -- 眺めていたのはお互いさま。
-  Ses résidents étaient tout aussi observateurs.
+　Ses résidents étaient tout aussi observateurs.
 
 }
 [sha:9137f474354408b9e820a10d190c14cd40ee4047]{
 -- Page 33, Offset 13443.
 -- 冬の海に訪れた客人は、涼しい顔で消えていった。
-  Les visiteuses de cet océan hivernal disparurent d'un air indifférent.
+　Les visiteuses de cet océan hivernal disparurent d'un air indifférent.
 
 }
 [sha:1cf1ba153a807d63da5a7c96fd6ac6953bec44b8]{
 -- Page 33, Offset 13444.
 -- それではさよなら、かつ、かつ、ばたん。
-  Ils leur souhaitèrent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
+　Ils leur souhaitèrent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
 
 }
 [sha:eafb896d350838399d1ab1611c3fa345c6731530]{
 -- Page 34, Offset 13445.
 -- ……徒歩による航海は一時間に及んだ。
-  ...... La croisière pédestre se déroula ainsi pendant une heure.
+　...... La croisière pédestre se déroula ainsi pendant une heure.
 
 }
 [sha:107b9c1f653bf02af4653db4c713eb7c036b5ac7]{
 -- Page 34, Offset 13446.
 -- 展示物の多さもさることながら、入り組んだ通路は迷路のようで、気付かないうちに一フロア上の階層にあがっていたりもした。
-  Avec le nombre impressionnant d'expositions, l'entrecroisement des couloirs formait comme un labyrinthe qui les conduisit soudainement au niveau supérieur.
+　Avec le nombre impressionnant d'expositions, l'entrecroisement des couloirs formait comme un labyrinthe qui les conduisit soudainement au niveau supérieur.
 
 }
 [sha:419d4de651a8b40d0c49afe893e7e7b8888e4241]{
 -- Page 34, Offset 13447.
 -- 最上階と聞いていた事もあり、青子も二層構造と気付いた時は感心したものだ。
-  Comme elles savaient qu'elles se trouvaient au dernier étage, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
+　Comme elles savaient qu'elles se trouvaient au dernier étage, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
 
 }
 [sha:fc43ea42bb0d348a4a92f28efdfc32ba4dec8cef]{
 -- Page 35, Offset 13448.
 -- おそらく、本当の最上階には水族館からしか行けない作りになっているのだろう。
-  On avait probablement construit le véritable dernier étage de façon à ce qu'il ne soit accessible qu'à partir de l'aquarium.
+　On avait probablement construit le véritable dernier étage de façon à ce qu'il ne soit accessible qu'à partir de l'aquarium.
 
 }
 [sha:d6ca699701f3444e5db012fb94e7ec8cca199bed]{
 -- Page 35, Offset 13449.
 -- どのようなアトラクションであれ、サプライズはあるに越したことはない。
-  L'effet de surprise ajoutait du charme à toute attraction.
+　L'effet de surprise ajoutait du charme à toute attraction.
 
 }
 [sha:6b2d7069f6b0ea99347998b8aba6ed1be8ccaa4c]{
@@ -835,37 +835,37 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:b9f6d4b344cffc7cbea011c4e6e084fb09302c24]{
 -- Page 36, Offset 13451.
 -- ふと振り返ると有珠の姿がない。
-  En se retournant, Aoko réalisa qu'Alice avait disparu.
+　En se retournant, Aoko réalisa qu'Alice avait disparu.
 
 }
 [sha:19b145f5e35b90253774b26698cbe6d822689f8f]{
 -- Page 36, Offset 13452.
 -- さっきまで一緒にいたのに、と同居人の姿を探す。
-  Pourtant, elle était encore avec moi il y a un instant, se dit-elle en cherchant sa colocataire.
+　Pourtant, elle était encore avec moi il y a un instant, se dit-elle en cherchant sa colocataire.
 
 }
 [sha:3e78be62f8c388c7f206096fd13cb510aac43733]{
 -- Page 36, Offset 13453.
 -- 探し人はすぐに見つかった。
-  Elle trouva facilement la personne en question.
+　Elle trouva facilement la personne en question.
 
 }
 [sha:6a878d3e7298887cdae2d1aa43ca5fb6306baa01]{
 -- Page 36, Offset 13454.
 -- 闇に映える白い<外套|コート>が、ライトアップされた水槽の前に佇んでいる。
-  Le manteau blanc de la jeune fille luisait dans les ténèbres tandis qu'elle s'attardait devant un bassin illuminé.
+　Le manteau blanc de la jeune fille luisait dans les ténèbres tandis qu'elle s'attardait devant un bassin illuminé.
 
 }
 [sha:5a4b2beb29ac5971a179d2b28fe15078fef79508]{
 -- Page 37, Offset 13455.
 -- 少女はじっと青い水槽を見つめていた。
-  Immobile, elle fixait le bassin azuré,
+　Immobile, elle fixait le bassin azuré,
 
 }
 [sha:7c923de89838835105275bf8858a0337ba275d15]{
 -- Page 37, Offset 13456.
 -- 散漫と、ありきたりな風景を見つめるように。
-  comme elle aurait observé un paysage ordinaire, c'est-à-dire distraitement.
+　comme elle aurait observé un paysage ordinaire, c'est-à-dire distraitement.
 
 }
 [sha:3b3ecf8837543fa65ef3bf0e4c71d93fa16888a0]{
@@ -877,13 +877,13 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:874aad31e32046cda09c4fb536793b8569be4565]{
 -- Page 38, Offset 13458.
 -- 微妙な様子の変化を感じて声をかける。
-  Aoko l'appela après avoir ressenti un changement sensible dans son humeur.
+　Aoko l'appela après avoir ressenti un changement sensible dans son humeur.
 
 }
 [sha:8d2ef870c69d554b36a2fdaa570d08c0dc3ebb5b]{
 -- Page 38, Offset 13459.
 -- 有珠の体にある、いつもの張りつめた空気がなくなっている気がしたからだ。
-  En effet, il lui semblait que l'atmosphère tendue qu'elle dégageait habituellement s'était dissipée.
+　En effet, il lui semblait que l'atmosphère tendue qu'elle dégageait habituellement s'était dissipée.
 
 }
 [sha:95f4fc9ef6264e7e752ac2c0065c2c4c1785a1d0]{
@@ -895,13 +895,13 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:66805c8ba1c8dbb3d72c711809666ee2c6f81c3e]{
 -- Page 39, Offset 13461.
 -- 有珠はそうね、とだけ返答した。
-  “C'est vrai”, répondit simplement Alice.
+　“C'est vrai”, répondit simplement Alice.
 
 }
 [sha:e52d1bbe867f5eb718b019ba9d1ba80e5cf1df66]{
 -- Page 39, Offset 13462.
 -- 少女の視線の先にあるのはひとつの影。
-  Une seule silhouette se profilait au bout de son regard.
+　Une seule silhouette se profilait au bout de son regard.
 
 }
 [sha:7ece6246f4f5165fb0fb5c581e24fe3f8f420c46]{
@@ -913,43 +913,43 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:335d89d145d82a76c8fac41a8351f0e17ee20d37]{
 -- Page 40, Offset 13464.
 -- 芝居がかった青子の声に、有珠は無言でうなずく。
-  Sa voix théâtrale ne soutira d'Alice qu'un hochement de tête muet.
+　Sa voix théâtrale ne soutira d'Alice qu'un hochement de tête muet.
 
 }
 [sha:54e685b738447dcd8c15940bd34e9e35807d148e]{
 -- Page 40, Offset 13465.
 -- この、端においやられた水槽のさらに端っこで、彼は静かに漂っていた。
-  Le poisson-lune flottait paisiblement au fond de ce bassin isolé.
+　Le poisson-lune flottait paisiblement au fond de ce bassin isolé.
 
 }
 [sha:b8693cb229e178f7ca34700fbc7779e1bc5dd6db]{
 -- Page 41, Offset 13466.
 -- 一般的に言って、マンボウはカタチのいい魚ではない。
-  D'une manière générale, le poisson-lune n'avait rien de charmant.
+　D'une manière générale, le poisson-lune n'avait rien de charmant.
 
 }
 [sha:bde4103a614dcf4cf9e224f8b91fbf0b2c4090e6]{
 -- Page 41, Offset 13467.
 -- 海を泳ぐ生物として、なぜこんな進化を？　と聞きたくなる形状だ。
-  Sa forme poussait à se demander pourquoi un animal marin avait suivi une telle évolution.
+　Sa forme poussait à se demander pourquoi un animal marin avait suivi une telle évolution.
 
 }
 [sha:34d34a314a01ab4d31757e03db7c6645174cc12d]{
 -- Page 41, Offset 13468.
 -- 平べったい魚身の上下にある舵びれで泳ぐらしいが、他の魚のようなスピードは期待できまい。
-  Il semblait se déplacer grâce aux nageoires se trouvant en haut et en bas de son corps plat, mais on ne pouvait espérer de lui la même vitesse que ses congénères.
+　Il semblait se déplacer grâce aux nageoires se trouvant en haut et en bas de son corps plat, mais on ne pouvait espérer de lui la même vitesse que ses congénères.
 
 }
 [sha:89a3651e0d0b2dccac17b26e291f73c41fba9435]{
 -- Page 41, Offset 13469.
 -- 青子からすれば、体も目も、その在り方ものっぺりとした不思議生物である。
-  Pour Aoko, son corps, ses yeux, sa façon de se mouvoir, tout dans cet être vivant était étrange.
+　Pour Aoko, son corps, ses yeux, sa façon de se mouvoir, tout dans cet être vivant était étrange.
 
 }
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 41, Offset 13470.
 -- が。
-  Cependant,
+　Cependant,
 
 }
 [sha:b65a605081f1e9861bd92bbd072e8f03a06e83af]{
@@ -961,13 +961,13 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:31bf2a2ef297bc90adbdefd5bf63b89b7f1c7303]{
 -- Page 42, Offset 13472.
 -- 有珠はこのように、マンボウに夢中である。
-  Alice était en extase face au poisson-lune.
+　Alice était en extase face au poisson-lune.
 
 }
 [sha:1ba1ea26b52f954a2f5c72c22344da43f0c62b8b]{
 -- Page 43, Offset 13473.
 -- ふらふらと漂う魚界の<金平糖|こんぺいとう>を見つめ、彼がうまく<転回|ターン>できずコツコツと水槽にぶつかる度に、
-  Elle contemplait le< konpeito |bonbon japonais>du monde des poissons flotter en chancelant et s'exclamait à chaque fois qu'il entrait en collision avec les murs du bassin, incapable de tourner correctement.
+　Elle contemplait le< konpeito |bonbon japonais>du monde des poissons flotter en chancelant et s'exclamait à chaque fois qu'il entrait en collision avec les murs du bassin, incapable de tourner correctement.
 
 }
 [sha:05185a33183cd58ab93f2fe5afc684237edc5603]{
@@ -979,7 +979,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:f8f1e2a66aa817fd056d3956d3d96fe61545996a]{
 -- Page 43, Offset 13475.
 -- 水槽に触れようと指を伸ばし、大人げないと引っ込めていた。
-  Elle tendit le doigt pour toucher le bassin avant de se reprendre, s'imaginant que c'était puéril.
+　Elle tendit le doigt pour toucher le bassin avant de se reprendre, s'imaginant que c'était puéril.
 
 }
 [sha:1135bdc50bdaa8787773916c8c7960cad3532326]{
@@ -991,13 +991,13 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:14806927ea74a8fea378a3f402652ca21e942528]{
 -- Page 44, Offset 13477.
 -- こうなっては有珠はテコでも動かない。
-  Dans ces moments-là, Alice était têtue comme une mule.
+　Dans ces moments-là, Alice était têtue comme une mule.
 
 }
 [sha:db510642a775ef1adf4968502c6133a7529d715c]{
 -- Page 44, Offset 13478.
 -- 仕方ないと観念して、青子は有珠に付き合い、<座布団|ざぶとん>のような硬骨魚を眺めるのだった。
-  Tant pis, se dit Aoko en capitulant avant de se joindre à Alice et de contempler l'ostéichthyen aux allures de coussin.
+　Tant pis, se dit Aoko en capitulant avant de se joindre à Alice et de contempler l'ostéichthyen aux allures de coussin.
 
 }
 [sha:2c2f984e7ae927b2d0f11ef07e366afd65070db5]{
@@ -1009,25 +1009,25 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:72faa29799fbdbf4590c73aaa6f34039434cfc46]{
 -- Page 45, Offset 13480.
 -- 他の魚たちにとっちゃ格好のエサになるから、多く産むこと、それ自体が生存のための手段になるワケか」
-  Comme ils sont la proie parfaite pour d'autres poissons, leur technique de survie consiste à pondre énormément d'œufs.」
+　Comme ils sont la proie parfaite pour d'autres poissons, leur technique de survie consiste à pondre énormément d'œufs.」
 
 }
 [sha:90e15248a8b8fe2a61cef4e2fbe5a04eb334809a]{
 -- Page 46, Offset 13481.
 -- 興味深く解説を読む青子だが、有珠はマンボウの生態はどうでもいいらしい。
-  Aoko lisait les commentaires avec intérêt, mais de toute évidence, Alice ne se souciait pas du tout des mœurs de l'espèce.
+　Aoko lisait les commentaires avec intérêt, mais de toute évidence, Alice ne se souciait pas du tout des mœurs de l'espèce.
 
 }
 [sha:c1f0894250c3efb6f96ffdd61b6469829ba0ff72]{
 -- Page 46, Offset 13482.
 -- 平たい魚影がコツコツと水槽の壁に当たるたび、目を輝かせたり、落ちこんだりする。
-  À chaque fois que l'animal plat se cognait à la paroi du bassin avec un son mat, tantôt ses yeux brillaient, tantôt elle déprimait.
+　À chaque fois que l'animal plat se cognait à la paroi du bassin avec un son mat, tantôt ses yeux brillaient, tantôt elle déprimait.
 
 }
 [sha:8362858d823d45bb2141c665a5541aa7363a9a93]{
 -- Page 46, Offset 13483.
 -- そんな中、不意に少女は呟いた。
-  C'est alors qu'elle murmura :
+　C'est alors qu'elle murmura :
 
 }
 [sha:2daf729473c8cf34e99ee8514d1764f661a45842]{
@@ -1051,19 +1051,19 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:a97fbd2002b4fa2a3ca1742daf62758095edba32]{
 -- Page 47, Offset 13487.
 -- 気が付けば、少女はいつもの姿に戻っていた。
-  La jeune fille avait subitement retrouvé sa prestance habituelle.
+　La jeune fille avait subitement retrouvé sa prestance habituelle.
 
 }
 [sha:bb52b1005a87e2acccfa6e61485dfa1d90b1e2f0]{
 -- Page 47, Offset 13488.
 -- 張りつめた空気。
-  Cette atmosphère tendue,
+　Cette atmosphère tendue,
 
 }
 [sha:d799678a0b28be37ab932bffa48879d87b83c774]{
 -- Page 47, Offset 13489.
 -- 何処であろうと、あの洋館の中であろうと、<頑|かたく>なに人を拒む冷たさに。
-  ce tempérament empreint de froideur qui rejetait obstinément autrui, que ce soit au manoir ou à l'extérieur, avait refait surface.
+　ce tempérament empreint de froideur qui rejetait obstinément autrui, que ce soit au manoir ou à l'extérieur, avait refait surface.
 
 }
 [sha:02247b415282aa54423155f229d6d6a3f83ab960]{
@@ -1075,7 +1075,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:c11c9cc26d5b9afa450de759a819c5744d9bfb7d]{
 -- Page 48, Offset 13491.
 -- 依然として彼の事は分からないもの。分からない人を、どうやって信頼すればいいの？」
-  Je ne le comprends toujours pas. Comment veux-tu faire confiance à quelqu'un que tu ne comprends pas ?」
+　Je ne le comprends toujours pas. Comment veux-tu faire confiance à quelqu'un que tu ne comprends pas ?」
 
 }
 [sha:58b440f72b053293b0e7d657ce5669ff0bacf180]{
@@ -1099,31 +1099,31 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:71949a11ceb9f7e15af9638de71fa96484b9d582]{
 -- Page 49, Offset 13495.
 -- 草十郎の事は分からないし、理解する気もない。
-  Elle ne comprenait pas Sōjūrō et n'avait pas l'intention d'essayer.
+　Elle ne comprenait pas Sōjūrō et n'avait pas l'intention d'essayer.
 
 }
 [sha:63f380a6529f6c964ae5011e54e7d4b1d123bbeb]{
 -- Page 49, Offset 13496.
 -- けれど、<有珠|じぶん>の協力者である青子を信じているのなら、その選択に免じて許してもいい。
-  Mais puisqu'elle avait confiance en Aoko, sa partenaire, elle pouvait bien l'accepter par considération pour son choix.
+　Mais puisqu'elle avait confiance en Aoko, sa partenaire, elle pouvait bien l'accepter par considération pour son choix.
 
 }
 [sha:69e694d7b7a0c13596f7b335d9c23f9182b8daa3]{
 -- Page 49, Offset 13497.
 -- 有珠は今の自分の感情を、そう落としこんだらしい。
-  C'est ainsi qu'Alice signifia les sentiments qu'elle éprouvait.
+　C'est ainsi qu'Alice signifia les sentiments qu'elle éprouvait.
 
 }
 [sha:2121bc0cc50b8312b508e1bf9b69958f4a595b33]{
 -- Page 50, Offset 13498.
 -- 分からない人は信頼できない、と少女は言う。
-  Elle disait être incapable de faire confiance à quelqu'un qu'elle ne comprenait pas.
+　Elle disait être incapable de faire confiance à quelqu'un qu'elle ne comprenait pas.
 
 }
 [sha:48efded868deb644970f6b36b00168fd4bb234ff]{
 -- Page 50, Offset 13499.
 -- けれど逆に言えば、それは―――誰かを信じたいから、深く理解したいと望んでいるようにもとれた。
-  Mais en le formulant autrement, on pouvait également le voir ainsi : elle souhaitait profondément comprendre quelqu'un car elle voulait croire en cette personne.
+　Mais en le formulant autrement, on pouvait également le voir ainsi : elle souhaitait profondément comprendre quelqu'un car elle voulait croire en cette personne.
 
 }
 [sha:3cbf933967e185989b6ec86371a8f0862593e611]{
@@ -1135,7 +1135,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:420a5628234fe725afc2f11e81e48cd36ee288c0]{
 -- Page 51, Offset 13501.
 -- それより、なに？　そんなに私のこと信頼してくれてたの、有珠？」
-  Par contre, j'ai bien entendu ? Tu me fais tant confiance que ça, Alice ?」
+　Par contre, j'ai bien entendu ? Tu me fais tant confiance que ça, Alice ?」
 
 }
 [sha:b294a4927c49c498b17624fcd54f2795466a37e1]{
@@ -1147,31 +1147,31 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:64918707ce092ac546068cbab78a54142467bec2]{
 -- Page 51, Offset 13503.
 -- だって共犯者でしょう、わたしたち」
-  Après tout, nous sommes complices toutes les deux.」
+　Après tout, nous sommes complices toutes les deux.」
 
 }
 [sha:29e4c47e6ab9bdba02c3c1e93ecfb669c0fb211c]{
 -- Page 52, Offset 13504.
 -- 白いコートが揺れる。
-  Le manteau blanc ballotta.
+　Le manteau blanc ballotta.
 
 }
 [sha:6783ce5a033ef5b4d56fabe8bc33903d44456c9e]{
 -- Page 52, Offset 13505.
 -- ……ひとときの旅は終わった。
-  ...... Le voyage éphémère s'acheva.
+　...... Le voyage éphémère s'acheva.
 
 }
 [sha:8b8516e4b7a58b58c390af64520c35d609c87827]{
 -- Page 52, Offset 13506.
 -- 水の国の出口はすぐそこだ。
-  La sortie du pays des eaux était tout près.
+　La sortie du pays des eaux était tout près.
 
 }
 [sha:f34c3f17dd2849e7c039a8008e78a23b6a3a7cc8]{
 -- Page 52, Offset 13507.
 -- 少女は水槽から視線を逸らして、付き合いのいい同居人へと歩きだした。
-  La jeune fille détourna le regard du bassin et se dirigea vers sa sociable colocataire.
+　La jeune fille détourna le regard du bassin et se dirigea vers sa sociable colocataire.
 
 }
 [sha:a0a23398d4a11dd5b1ef75c7a2022d7a4a7bf5c9]{
@@ -1183,12 +1183,12 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:a1e5a1aad227838884dd63d948b4151dc87e7ba6]{
 -- Page 53, Offset 13509.
 -- 最後に小さく。
-  murmura-t-elle pour finir,
+　murmura-t-elle pour finir,
 
 }
 [sha:15880e96d9315d52bc7fed20e316b985f19c000b]{
 -- Page 53, Offset 13510.
 -- 水槽の孤影に別れを告げるよう、呟いて。
-  comme pour faire ses adieux à la silhouette solitaire du bassin.
+　comme pour faire ses adieux à la silhouette solitaire du bassin.
 
 }

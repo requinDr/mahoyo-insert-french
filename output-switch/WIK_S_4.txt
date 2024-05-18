@@ -1,6 +1,6 @@
 [sha:a394617e2db910d09d81a82a23fac30ec47c1ebb]{
 -- Page 0, Offset 23280.
 -- わたしは、蒼崎橙子が死亡したのは２０時から２２時の間なのかもしれない、と思った。
-  Je me dis qu'Aozaki Tōko était peut-être décédée entre vingt et vingt-deux heures.
+　Je me dis qu'Aozaki Tōko était peut-être décédée entre vingt et vingt-deux heures.
 
 }

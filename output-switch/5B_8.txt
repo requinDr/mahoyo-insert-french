@@ -1,37 +1,37 @@
 [sha:d2b675f62db4866349a1878e329bde94c1fe5fee]{
 -- Page 0, Offset 7196.
 -- 時計台の上で、少女は使い魔の成長を監視している。
-  Du haut de la tour d'horloge, la fille observait la croissance de son familier.
+　Du haut de la tour d'horloge, la fille observait la croissance de son familier.
 
 }
 [sha:ceb5817293d3ade134cb1915a37bb3b2a3f7e144]{
 -- Page 0, Offset 7197.
 -- フラットスナーク。
-  Flat Snark.
+　Flat Snark.
 
 }
 [sha:c610615fa5e86a519a861410cb7a2a042e775fab]{
 -- Page 0, Offset 7198.
 -- 廃棄されたモノたちの救世主。
-  Le Sauveur de ceux qui ont été abandonnés.
+　Le Sauveur de ceux qui ont été abandonnés.
 
 }
 [sha:d9b4779717a714814f5e75edbf91563804e7abcc]{
 -- Page 0, Offset 7199.
 -- 朽ちゆく<運命|さだめ>のモノたちに一時の希望を与え、根こそぎ奪い去る、<性悪|しょうわる>で<低俗|ていぞく>な“童話の怪物”。
-  Il donnait un espoir momentané à ceux dont le destin était de pourrir et les emportait complètement. Un “monstre de contes de fées” vicieux et malveillant.
+　Il donnait un espoir momentané à ceux dont le destin était de pourrir et les emportait complètement. Un “monstre de contes de fées” vicieux et malveillant.
 
 }
 [sha:ea585fb2af007116898571b9e82199973cd60ee1]{
 -- Page 0, Offset 7200.
 -- 自らの手駒ではあるが、スナークがその<悪癖|あくへき>を発揮しないよう、少女は目を光らせていた。
-  Même s'il était sous son contrôle, la fille faisait attention à ce que le Snark ne montre pas ses mauvaises manières.
+　Même s'il était sous son contrôle, la fille faisait attention à ce que le Snark ne montre pas ses mauvaises manières.
 
 }
 [sha:2664fc28af2a79cb5be1d7ec41f0894204425f6c]{
 -- Page 1, Offset 7201.
 -- いまやひとつの街ほどまでに広がった遊園地を一周した駒鳥が、少女に現状を報告する。
-  Après avoir fait le tour du parc d'attractions qui s'était maintenant agrandi au point de faire la taille d'une ville, le rouge-gorge fit le rapport de la situation actuelle à la fille.
+　Après avoir fait le tour du parc d'attractions qui s'était maintenant agrandi au point de faire la taille d'une ville, le rouge-gorge fit le rapport de la situation actuelle à la fille.
 
 }
 [sha:bb9fb6dc7feed7873f5b8a40c1f26adb4bee336c]{
@@ -43,13 +43,13 @@
 [sha:9885eb194a7ec892ad717e95372bd24500577aab]{
 -- Page 1, Offset 7203.
 -- 青子は少年の安全を優先したのだろう。
-  Aoko cherchait sûrement à assurer en priorité la sécurité du garçon.
+　Aoko cherchait sûrement à assurer en priorité la sécurité du garçon.
 
 }
 [sha:bfdb5bcdfef2d03e1cb713c14394259975d17c0d]{
 -- Page 1, Offset 7204.
 -- たとえ一日で無駄になる事でも、一度決めた事を曲げないのは実に彼女らしい。
-  En effet, c'était bien son genre de ne pas changer d'avis une fois qu'elle avait décidé quelque chose, même si ça lui gâchait sa journée.
+　En effet, c'était bien son genre de ne pas changer d'avis une fois qu'elle avait décidé quelque chose, même si ça lui gâchait sa journée.
 
 }
 [sha:52c2703ee5bf09ba658b691defa73b827586fb45]{
@@ -61,25 +61,25 @@
 [sha:82147444a36d9cde5dcf23ecaad29846c739e6c4]{
 -- Page 2, Offset 7206.
 -- チチチ、と<嘴|くちばし>を鳴らす青い鳥。
-  L'oiseau bleu lui répondit en faisant claquer son bec.
+　L'oiseau bleu lui répondit en faisant claquer son bec.
 
 }
 [sha:47bcf69e7a43f57f303f10f6661c059a18cf1dec]{
 -- Page 2, Offset 7207.
 -- 主人の語る青子像を否定しているのか、
-  Soit il rejetait le portrait d'Aoko que faisait sa propriétaire,
+　Soit il rejetait le portrait d'Aoko que faisait sa propriétaire,
 
 }
 [sha:6f470f356b0a353c59b908715c72752c6db95c7b]{
 -- Page 2, Offset 7208.
 -- 青子ならやりかねないと同意しているのか。
-  soit il était du même avis et pensait qu'elle en était bien capable.
+　soit il était du même avis et pensait qu'elle en était bien capable.
 
 }
 [sha:314894cd49429a2ea6ed99ea26948a7c2c38427d]{
 -- Page 2, Offset 7209.
 -- 傍目にはどちらにも取れる合いの手である。
-  D'un œil extérieur, les deux suppositions étaient possibles.
+　D'un œil extérieur, les deux suppositions étaient possibles.
 
 }
 [sha:83a5f253d1c6775c3a379ea844080862bfbc86ac]{
@@ -91,13 +91,13 @@
 [sha:ab11cf017df9d471cd2f534c59378c577a56022f]{
 -- Page 3, Offset 7211.
 -- 突然話しかけられ、ビクッと震える駒鳥。
-  Soudainement questionné, le rouge-gorge se mit à trembler.
+　Soudainement questionné, le rouge-gorge se mit à trembler.
 
 }
 [sha:3c6d95008bf6dd7826d078ded690ffb0db3aa889]{
 -- Page 3, Offset 7212.
 -- チチチ、と必死に羽を振る仕草は、“そんなコトないっス！”とあわてる<丁稚|でっち>のようだ。
-  Ses mouvements d'ailes désespérés ressemblaient à l'embarras d'un apprenti en train de dire “C'pas vrai du tout !”
+　Ses mouvements d'ailes désespérés ressemblaient à l'embarras d'un apprenti en train de dire “C'pas vrai du tout !”
 
 }
 [sha:ad44984e1aaf0d22323c8613956899285e4ab89c]{
@@ -109,25 +109,25 @@
 [sha:36cecaa041d274e1618c45339b3e6ee36c4e4d90]{
 -- Page 4, Offset 7214.
 -- いいわ。せっかくのゲームだし、もう少しだけ盛り上げましょう」
-  Très bien. Puisque c'est un jeu, autant rendre la partie un peu plus intéressante.」
+　Très bien. Puisque c'est un jeu, autant rendre la partie un peu plus intéressante.」
 
 }
 [sha:c37fa74e8b7624d51aa795f74624ac150c55bd13]{
 -- Page 4, Offset 7215.
 -- 無表情のまま少女は小さな器物を取り出した。
-  Toujours inexpressive, elle sortit un petit réceptacle.
+　Toujours inexpressive, elle sortit un petit réceptacle.
 
 }
 [sha:e547f64dd5bcee565ab17f69225673cd341c269f]{
 -- Page 4, Offset 7216.
 -- カチカチと内から秒針の音をこぼす、鈍色の<装飾卵|イースターエッグ>。
-  Un œuf de Pâques gris sombre duquel s'échappait le son d'une montre à aiguilles.
+　Un œuf de Pâques gris sombre duquel s'échappait le son d'une montre à aiguilles.
 
 }
 [sha:0bf70609e01cf9f44a92b10d838f81fddceda9a2]{
 -- Page 4, Offset 7217.
 -- それがフラットスナークには及ばずとも、対個人戦においてトップランクに<性質|タチ>の悪い“<童話の怪物|プロイキッシャー>”である事を、駒鳥は知っている。
-  Le rouge-gorge savait que même si celui-là n'égalait pas Flat Snark en la matière, c'était un “Ploy Kickshaw” malveillant, et l'un des meilleurs en cas de match en un contre un.
+　Le rouge-gorge savait que même si celui-là n'égalait pas Flat Snark en la matière, c'était un “Ploy Kickshaw” malveillant, et l'un des meilleurs en cas de match en un contre un.
 
 }
 [sha:dd0d4a4fca48606483cbe6835e060d2caaad16b4]{
@@ -139,30 +139,30 @@
 [sha:f500b28da6676abb70cb4eedc5c238ae784b1196]{
 -- Page 5, Offset 7219.
 -- ……いつも通り、控え目に壊れてきて」
-  ...... Comme d'habitude, brise-toi proprement.」
+　...... Comme d'habitude, brise-toi proprement.」
 
 }
 [sha:3ae5e97291d8d7399dbb7eda9beda6455e337e24]{
 -- Page 5, Offset 7220.
 -- 魔女の一息と共に、<祝|いわ>いの言葉がつまった卵が消える。
-  De concert avec le souffle de la Mage, l'œuf investi par ces paroles cérémonieuses disparut.
+　De concert avec le souffle de la Mage, l'œuf investi par ces paroles cérémonieuses disparut.
 
 }
 [sha:a95d3e116485e00f180cb44396e3fced341ded3d]{
 -- Page 6, Offset 7221.
 -- 不意に、遊園地に強い風が吹いた。
-  Subitement, une bourrasque souffla sur le parc d'attractions.
+　Subitement, une bourrasque souffla sur le parc d'attractions.
 
 }
 [sha:04fdbc7b1f1aa3a146a3a64b945795f1b561c22a]{
 -- Page 6, Offset 7222.
 -- 『彼らを殺すのは、自分だけで十分なのに』と。
-      『Je suffisais pourtant amplement pour les tuer.』
+　　　『Je suffisais pourtant amplement pour les tuer.』
 
 }
 [sha:c3cf7d9e4e1ae7ff31a41215e4b7ac35d2faa077]{
 -- Page 6, Offset 7223.
 -- それは、目に映っていながら見過ごしてしまう、巨大な何かの嘆息のようだった。
-  Ce murmure ressemblait au soupir que quelque chose d'énorme laisserait échapper. Une chose présente devant soi mais que l'on n'apercevrait pourtant pas.
+　Ce murmure ressemblait au soupir que quelque chose d'énorme laisserait échapper. Une chose présente devant soi mais que l'on n'apercevrait pourtant pas.
 
 }

@@ -1,19 +1,19 @@
 [sha:ebdb6730816175f58e56103abc10e61f0990e006]{
 -- Page 0, Offset 145.
 -- 彼女が正門についた頃、雨脚は弱くなっていた。
-  Quand elle arriva devant la porte principale, la pluie battante avait faibli.
+　Quand elle arriva devant la porte principale, la pluie battante avait faibli.
 
 }
 [sha:94af4bf1933d233670c5f047c5c7543533c86459]{
 -- Page 0, Offset 146.
 -- 遠くの空には日射しが見え隠れしている。
-  Au loin dans le ciel, on pouvait voir les rayons du soleil qui se dissimulaient.
+　Au loin dans le ciel, on pouvait voir les rayons du soleil qui se dissimulaient.
 
 }
 [sha:2fb0bf18b1a067bb1847b9c0abb1b7df75242aa4]{
 -- Page 0, Offset 147.
 -- この分なら、雨は昼過ぎにあがっているかもしれない。
-  À ce rythme, la pluie cesserait peut-être en début d'après-midi.
+　À ce rythme, la pluie cesserait peut-être en début d'après-midi.
 
 }
 [sha:f103e4860fbb07ed2c176e821b40cd3825fc9618]{
@@ -25,91 +25,91 @@
 [sha:488c069c8aecdcf79bb2908d07afe0ef7f35966d]{
 -- Page 1, Offset 149.
 -- 空模様とは裏腹に、彼女の運勢はボロボロだ。
-  Contrairement à la couleur que prenait le ciel, sa chance n'était pas au beau fixe.
+　Contrairement à la couleur que prenait le ciel, sa chance n'était pas au beau fixe.
 
 }
 [sha:d7fdf4f822bf291c94bb2bcf6f0d0e13e5b58876]{
 -- Page 1, Offset 150.
 -- 徹夜明けの朝に起こされたうえ、冬の雨に見舞われた。
-  Non seulement on l'avait réveillée de bon matin alors qu'elle avait passé une nuit blanche, mais en plus, la pluie d'hiver était de passage.
+　Non seulement on l'avait réveillée de bon matin alors qu'elle avait passé une nuit blanche, mais en plus, la pluie d'hiver était de passage.
 
 }
 [sha:0b2b16f17120a6e8a0a47e78b066f7b52781e976]{
 -- Page 2, Offset 151.
 -- この分では、用件とやらもロクな事じゃない―――
-  À ce rythme, cette histoire ne déboucherait sur rien de bon―――
+　À ce rythme, cette histoire ne déboucherait sur rien de bon―――
 
 }
 [sha:9ef3e11953c8364bb4d404f4ad22abf3303b38de]{
 -- Page 2, Offset 152.
 -- そんな予感に頭痛を覚えながら、彼女は正門を抜けて校舎に向かう。
-  Tout en sentant poindre une migraine sous le coup de cette prémonition, elle franchit la porte principale et se dirigea vers le bâtiment.
+　Tout en sentant poindre une migraine sous le coup de cette prémonition, elle franchit la porte principale et se dirigea vers le bâtiment.
 
 }
 [sha:94eb833b19c68afff8d9271c3f4d1e192f206936]{
 -- Page 3, Offset 153.
 -- 途中、すれ違った生徒はひとりもいない。
-  Elle ne croisa pas un seul élève en chemin.
+　Elle ne croisa pas un seul élève en chemin.
 
 }
 [sha:c336f0cfc70b0316b131a446ff54bfef280a2fc9]{
 -- Page 3, Offset 154.
 -- 部活中の生徒も見あたらない。
-  Elle ne vit pas non plus d'étudiants en pleine activité scolaire.
+　Elle ne vit pas non plus d'étudiants en pleine activité scolaire.
 
 }
 [sha:08d8beddb8a2a193e1f96ba682a8f25a937e27fa]{
 -- Page 3, Offset 155.
 -- 職員用の玄関の受付には“休憩中”の立て看板。
-  À l'accueil du vestibule réservé aux enseignants, une pancarte “En pause” était affichée.
+　À l'accueil du vestibule réservé aux enseignants, une pancarte “En pause” était affichée.
 
 }
 [sha:68c9f516fcaf60b1d885e7dfb637ebb25921d984]{
 -- Page 3, Offset 156.
 -- 学校は生徒に平等な休日を与えていた。
-  L'école avait donné à tous les élèves un jour férié général.
+　L'école avait donné à tous les élèves un jour férié général.
 
 }
 [sha:e11c24b4220e7ad9d9ae223cdc8eac9b64d319a9]{
 -- Page 3, Offset 157.
 -- もちろん、こんな時間に呼び出された彼女を除いて。
-  Bien sûr, à l'exception d'elle-même qui avait été convoquée à une heure pareille.
+　Bien sûr, à l'exception d'elle-même qui avait été convoquée à une heure pareille.
 
 }
 [sha:2d378a76b881c720ed972ec5e765779c61ab0413]{
 -- Page 3, Offset 158.
 -- そんな事実がますます感情を<逆撫|さかな>でする。
-  Cet état de fait l'irritait de plus en plus.
+　Cet état de fait l'irritait de plus en plus.
 
 }
 [sha:9161a8887c898c2e1cf70cb031a8bf100f2090fe]{
 -- Page 4, Offset 159.
 -- 彼女が職員室の扉を開けると、見慣れた教師が机に向かっていた。
-  Quand elle ouvrit la porte de la salle des professeurs, un enseignant qu'elle connaissait bien était tourné vers son bureau.
+　Quand elle ouvrit la porte de la salle des professeurs, un enseignant qu'elle connaissait bien était tourné vers son bureau.
 
 }
 [sha:3a85b77f2347c64718a16215550be0dd2ff91dc6]{
 -- Page 4, Offset 160.
 -- 地味だがパリッとしたシャツと背広、
-  Il était discret mais vêtu d'une chemise et d'un veston élégants,
+　Il était discret mais vêtu d'une chemise et d'un veston élégants,
 
 }
 [sha:dc05b6350e0c34940e2eb1c9f940752fa35a9676]{
 -- Page 4, Offset 161.
 -- 穏やかではあるが油断ならない細眼鏡。
-  et s'il était d'un naturel calme, les fines lunettes qu'il portait incitaient à la vigilance.
+　et s'il était d'un naturel calme, les fines lunettes qu'il portait incitaient à la vigilance.
 
 }
 [sha:1988cfabe61f47febfff2d7dcd0a4d1732678eb0]{
 -- Page 4, Offset 162.
 -- 似合わない煙草をふかしている、二十代中盤の優男。
-  C'était un gentleman dans la vingtaine qui fumait une cigarette, ce qui ne collait pas à l'image qu'il renvoyait.
+　C'était un gentleman dans la vingtaine qui fumait une cigarette, ce qui ne collait pas à l'image qu'il renvoyait.
 
 }
 [sha:75647292c8080aa14dc8c84b3154ea657112c8d5]{
 -- Page 4, Offset 163.
 -- どうにも、まだ彼女に気付いていない様子だ。
-  Apparemment, il n'avait pas encore remarqué sa présence.
+　Apparemment, il n'avait pas encore remarqué sa présence.
 
 }
 [sha:1c0ea695981dc9c7f5997b1ebb8873739c0def81]{
@@ -121,13 +121,13 @@
 [sha:efa9a0084df2d2e19ce8cc901148750236e2ad49]{
 -- Page 5, Offset 165.
 -- 勢いよく扉を閉める。
-  Elle claqua la porte avec vigueur.
+　Elle claqua la porte avec vigueur.
 
 }
 [sha:42b69b4b3c2ff8c4806a9cf691b19ef96db685cc]{
 -- Page 5, Offset 166.
 -- その音にさして驚いた様子もなく、山城と呼ばれた教師は顔を上げた。
-  Ne donnant pas l'impression d'avoir été surpris par le bruit, l'enseignant répondant au nom de Yamashiro releva la tête.
+　Ne donnant pas l'impression d'avoir été surpris par le bruit, l'enseignant répondant au nom de Yamashiro releva la tête.
 
 }
 [sha:5b1b410dfc9428da9fbedcfd4eef410a97d457d8]{
@@ -145,49 +145,49 @@
 [sha:3e34fcdbb21622b2189b50c2c2df6e67bc0a1f99]{
 -- Page 6, Offset 169.
 -- この高校の卒業生である<山城|かれ>は、生徒たちとそう歳が離れていない。
-  Yamashiro, diplômé de ce lycée, n'était pas beaucoup plus âgé que ses élèves.
+　Yamashiro, diplômé de ce lycée, n'était pas beaucoup plus âgé que ses élèves.
 
 }
 [sha:df9770df81a193dc15651007515d4111a76a4266]{
 -- Page 6, Offset 170.
 -- そのせいか他の教師より生徒に<慕|した>われている。
-  C'était peut-être pour cela que ceux-ci l'appréciaient davantage que les autres enseignants.
+　C'était peut-être pour cela que ceux-ci l'appréciaient davantage que les autres enseignants.
 
 }
 [sha:d12d5c28773d0a1a64e4f80d78a1d414c8e54fce]{
 -- Page 7, Offset 171.
 -- 話題も<豊富|ほうふ>で口調も<穏和|おんわ>。
-  Il avait de la conversation et un timbre de voix suave.
+　Il avait de la conversation et un timbre de voix suave.
 
 }
 [sha:b81847c28c7506fc99e1c9bbbc8e07b5e4f6ef38]{
 -- Page 7, Offset 172.
 -- 教師というより頼れる先輩といった人物だが、あいにく、彼女はそう慕ってもいなかった。
-    Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
+　Il ressemblait plus à un collègue sur qui on pouvait compter qu'à un enseignant, mais malheureusement pour lui, elle ne l'aimait pas énormément.
 
 }
 [sha:7ca25c346cfa728214146a3f3d2781470fec8e99]{
 -- Page 8, Offset 173.
 -- 教師は<冷徹|れいてつ>であるべきである。
-  Un enseignant avait pour devoir de rester posé.
+　Un enseignant avait pour devoir de rester posé.
 
 }
 [sha:fc4e1345ee339454bf73c1c55164efee8ecde626]{
 -- Page 8, Offset 174.
 -- 生徒にとっては愛憎いり交じった険しい壁であり、間違っても<憩|いこ>いの場でニコニコ笑っているお兄さん……であってはならない、というのが彼女の持論だ。
-  Aux yeux des élèves, tel un mur abrupt à franchir, il devait susciter l'admiration et la haine. Et ne pas être confondu, même par erreur, avec...... un grand frère souriant dans un lieu de détente. Telle était son opinion.
+　Aux yeux des élèves, tel un mur abrupt à franchir, il devait susciter l'admiration et la haine. Et ne pas être confondu, même par erreur, avec...... un grand frère souriant dans un lieu de détente. Telle était son opinion.
 
 }
 [sha:b345f134ee3fdf5046b226dda4b2fecbe5216e3b]{
 -- Page 9, Offset 175.
 -- 山城教諭は彼女が良しとする教師像とは正反対の人物で、自然、彼への口調は堅く、愛想のないものになる。
-  Le professeur Yamashiro était l'exact opposé de ce qu'elle considérait comme une figure enseignante, et naturellement, le ton qu'elle adoptait lorsqu'elle lui parlait était sec et n'avait rien d'aimable.
+　Le professeur Yamashiro était l'exact opposé de ce qu'elle considérait comme une figure enseignante, et naturellement, le ton qu'elle adoptait lorsqu'elle lui parlait était sec et n'avait rien d'aimable.
 
 }
 [sha:49e4e1b42466b8c92f37d7737bfaf0707aa540ac]{
 -- Page 9, Offset 176.
 -- ……もっとも。愛想なんて微笑ましいもの、彼女には初めから装備されてはいないのだが。
-  ...... Même si, depuis toujours, elle n'était pas dotée de quelque chose d'aussi charmant que l'amabilité.
+　...... Même si, depuis toujours, elle n'était pas dotée de quelque chose d'aussi charmant que l'amabilité.
 
 }
 [sha:70c362394d83a72f1ac266738c51316a18961829]{
@@ -205,19 +205,19 @@
 [sha:56ed89acb8eb7b3c923ca90925f9ec12351b1b05]{
 -- Page 10, Offset 179.
 -- 今日だけ特別、という話ではありませんから」
-  Puisque ce n'est pas spécialement qu'aujourd'hui.」
+　Puisque ce n'est pas spécialement qu'aujourd'hui.」
 
 }
 [sha:790c6c45bf054ae9e716168ad6f6d03aab40691d]{
 -- Page 11, Offset 180.
 -- きっぱりと返答しつつも、彼女自身、自分がひどい顔をしているのは承知していた。
-  répondit-elle clairement tout en se rendant compte qu'elle avait sûrement une mine affreuse.
+　répondit-elle clairement tout en se rendant compte qu'elle avait sûrement une mine affreuse.
 
 }
 [sha:26cbe68155e0e47091fa7400f8739d3344db551e]{
 -- Page 11, Offset 181.
 -- 寝起きの機嫌の悪さと寝不足の疲れがあいまって、<仇|かたき>を見るような目つきになっているだろう。
-  Avec sa mauvaise humeur du réveil et son manque de sommeil, elle devait avoir un regard vindicatif.
+　Avec sa mauvaise humeur du réveil et son manque de sommeil, elle devait avoir un regard vindicatif.
 
 }
 [sha:f77fd54f3d66711a91c30d98fd5908f6beb9fe13]{
@@ -235,7 +235,7 @@
 [sha:426e6a9909d1c2cd6b289669c2c16bbc585487a3]{
 -- Page 12, Offset 184.
 -- 刺すような彼女の視線と声に、山城教諭はああ、と応えて煙草の火をもみ消した。
-  Devant son regard et sa voix perçants, le professeur Yamashiro répondit avec un “Je vois” et éteignit sa cigarette.
+　Devant son regard et sa voix perçants, le professeur Yamashiro répondit avec un “Je vois” et éteignit sa cigarette.
 
 }
 [sha:9c18f2cd594726b6fda255bdcb888aee5f5455f2]{
@@ -253,25 +253,25 @@
 [sha:fabe84483f0a20a84ccd14056acfc137686b95b8]{
 -- Page 13, Offset 187.
 -- 理由も<脈絡|みゃくらく>も無い説明でした」
-  Ce qui est une raison sans queue ni tête.」
+　Ce qui est une raison sans queue ni tête.」
 
 }
 [sha:296650044534a239237b2529818a13ecff253970]{
 -- Page 14, Offset 188.
 -- 簡潔な答えに、山城は感心して眉を上げた。
-  Devant cette brève réponse, Yamashiro leva les sourcils avec admiration.
+　Devant cette brève réponse, Yamashiro leva les sourcils avec admiration.
 
 }
 [sha:b25d59979c49f17cb2dbbe0cb7d4c683aa3eba43]{
 -- Page 14, Offset 189.
 -- 彼女が怒っているのは見てとれたが、その理由が休日に呼び出された件ではなく、電話の内容が<要領|ようりょう>を得なかったからだとは。
-  Il avait compris qu'elle était en colère, mais il était étonné que ce soit parce qu'on ne lui avait communiqué aucun détail lors de l'appel, et non pas parce qu'on l'avait dérangée un jour férié.
+　Il avait compris qu'elle était en colère, mais il était étonné que ce soit parce qu'on ne lui avait communiqué aucun détail lors de l'appel, et non pas parce qu'on l'avait dérangée un jour férié.
 
 }
 [sha:53f51b7582d6662c3d6143d7eb0c04a788f0f545]{
 -- Page 14, Offset 190.
 -- いやはや実に<厳格|げんかく>だ、と山城教諭は苦笑した。
-  Vraiment, quelle sévérité, pensa Yamashiro avec un sourire forcé aux lèvres.
+　Vraiment, quelle sévérité, pensa Yamashiro avec un sourire forcé aux lèvres.
 
 }
 [sha:632695a625a2f6a21d91fb9d184d434b49c6fdf5]{
@@ -301,7 +301,7 @@
 [sha:6c01aaa00cb60ae91b27fe60f6e86354b6e8b58d]{
 -- Page 16, Offset 195.
 -- 彼……<草十郎|そうじゅうろう>くんというんだけど、ちょっと、色々とズレていてね。僕らが案内してあげるより、同世代の君の方が適任だと思ったんだ」
-  Il...... Ah, il s'appelle Sōjūrō, mais d'une certaine manière, il est un peu spécial. J'ai pensé qu'il serait préférable que ce soit toi qui lui fasses visiter l'école plutôt qu'un enseignant, puisque vous avez le même âge.」
+　Il...... Ah, il s'appelle Sōjūrō, mais d'une certaine manière, il est un peu spécial. J'ai pensé qu'il serait préférable que ce soit toi qui lui fasses visiter l'école plutôt qu'un enseignant, puisque vous avez le même âge.」
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -313,19 +313,19 @@
 [sha:1a5677773239c9bf9e373ed739301ac0bac547af]{
 -- Page 17, Offset 197.
 -- 彼女は不審げに表情を<曇|くも>らせた。
-  Son expression prit un air soupçonneux.
+　Son expression prit un air soupçonneux.
 
 }
 [sha:2f1335a2b8a549365d2c7e3210caa638040ac735]{
 -- Page 17, Offset 198.
 -- 教師の業務を生徒に押しつけるのも<怠慢|たいまん>だが、それ以上にその転入生が『ズレている』とはどういう事だろう？
-  Déjà, il était assez feignant pour confier le devoir d'un professeur à un élève, mais surtout, elle se demandait ce qu'il voulait dire par le fait que cet étudiant était “spécial”.
+　Déjà, il était assez feignant pour confier le devoir d'un professeur à un élève, mais surtout, elle se demandait ce qu'il voulait dire par le fait que cet étudiant était “spécial”.
 
 }
 [sha:ee7ab9aa8a83818fdfd0c26f9950dcd8e5caea2f]{
 -- Page 17, Offset 199.
 -- 素行に問題がある、扱いが難しい、というのなら想像しやすい。
-  Si son comportement posait problème ou s'il était difficile à prendre en main, elle pouvait facilement se l'imaginer.
+　Si son comportement posait problème ou s'il était difficile à prendre en main, elle pouvait facilement se l'imaginer.
 
 }
 [sha:fd4ce60fba6ef8d9121be66fe55c331b233e80a3]{
@@ -343,19 +343,19 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:8975e7a47f1ab61ce10f52070912cba6930a67ac]{
 -- Page 18, Offset 202.
 -- 彼女は不審げに思案するも、すぐに頭を切りかえた。
-  À la suite de cette réflexion, elle changea rapidement d'approche.
+　À la suite de cette réflexion, elle changea rapidement d'approche.
 
 }
 [sha:e5340886de93e28a244d0e190b4bbb92f1f03521]{
 -- Page 18, Offset 203.
 -- あれこれ悩んでも仕方がない。
-  Il était inutile de s'inquiéter pour tout et n'importe quoi.
+　Il était inutile de s'inquiéter pour tout et n'importe quoi.
 
 }
 [sha:6f626d8dbd4c65f6e716ca1f0c6a91ef700f6e62]{
 -- Page 18, Offset 204.
 -- なんだかこの会話自体がズレているようで居心地が悪いし、情報が少なすぎるし、そもそも、断るつもりなら今頃ベッドの上でうろんな貝の気分になっている。
-  Tout d'abord, cette conversation en elle-même était étrange et désagréable, et puis, elle ne disposait pas de suffisamment d'éléments pour juger la situation ; en premier lieu, si elle avait eu l'intention de refuser, elle serait en ce moment même toujours dans son lit, recroquevillée dans sa coquille.
+　Tout d'abord, cette conversation en elle-même était étrange et désagréable, et puis, elle ne disposait pas de suffisamment d'éléments pour juger la situation ; en premier lieu, si elle avait eu l'intention de refuser, elle serait en ce moment même toujours dans son lit, recroquevillée dans sa coquille.
 
 }
 [sha:abbc5a5bd2845617e1cfbfa8bc172a668ad428f2]{
@@ -373,7 +373,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:6584ccbede0e6452ebef86a23b04d142d3206ae7]{
 -- Page 19, Offset 207.
 -- 蒼崎くんとはクラスは違うけど、きっと仲良くな―――」
-  Il sera dans une autre classe que la tienne, mais vous vous entendrez sûrem―――」
+　Il sera dans une autre classe que la tienne, mais vous vous entendrez sûrem―――」
 
 }
 [sha:7846b81bd440d02be183c9b10c0c53464065d44d]{
@@ -385,43 +385,43 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:46d10377e9cb2944d1bb861094173c3bdbd43882]{
 -- Page 20, Offset 209.
 -- そうではなく、なぜ私なんでしょうか」
-  Ce que je veux savoir, c'est : pourquoi moi ?」
+　Ce que je veux savoir, c'est : pourquoi moi ?」
 
 }
 [sha:2ccd1ddf98a02c90b4518fe346d5ffd5f9d7e43a]{
 -- Page 20, Offset 210.
 -- <刺々|とげとげ>しい<質|こ><問|え>は、同時に転入生の案内を承諾していた。
-  La voix était hargneuse, signifiant par là même qu'elle acceptait de faire la visite à l'élève transféré.
+　La voix était hargneuse, signifiant par là même qu'elle acceptait de faire la visite à l'élève transféré.
 
 }
 [sha:621b83850114ca45af1b9e723906801ca003898d]{
 -- Page 21, Offset 211.
 -- 不満ではあるが、とりあえず自分の感情は置いて、与えられた役目に取り組んでみる。
-  Elle était quelque peu insatisfaite, mais pour le moment, elle tâchait de mettre ses sentiments de côté et d'entrer dans le rôle qui lui avait été attribué.
+　Elle était quelque peu insatisfaite, mais pour le moment, elle tâchait de mettre ses sentiments de côté et d'entrer dans le rôle qui lui avait été attribué.
 
 }
 [sha:6f04090569284b332b7cd4e66c877542c15aebc9]{
 -- Page 21, Offset 212.
 -- <極|きわ>めて自己中心的な気質でありながら、<努|つと>めて公正でいようとするのが彼女の特長だ。
-  L'une de ses qualités était de faire de son mieux pour être impartiale tout en étant particulièrement égocentrique.
+　L'une de ses qualités était de faire de son mieux pour être impartiale tout en étant particulièrement égocentrique.
 
 }
 [sha:4cda26f0f20b7e0932e7cdf33e62d81b1173f13f]{
 -- Page 21, Offset 213.
 -- やや<倒錯|とうさく>しているが、その芯の強さを山城などは頼もしく思ってしまう。
-  Elle le faisait avec mécontentement, mais pour quelqu'un comme Yamashiro, cela finissait par lui faire penser que la force de cette mentalité était digne de confiance.
+　Elle le faisait avec mécontentement, mais pour quelqu'un comme Yamashiro, cela finissait par lui faire penser que la force de cette mentalité était digne de confiance.
 
 }
 [sha:58cc6f095c0200d27ae33077bf7e0cfe079ef1cf]{
 -- Page 22, Offset 214.
 -- ……まあ。
-  ...... Enfin.
+　...... Enfin.
 
 }
 [sha:b618b254fe24fdc7d0b7ccbfacd1d9abaffca9da]{
 -- Page 22, Offset 215.
 -- 時折、その強さが予想の<範疇|はんちゅう>を超える事もあるが、それはそれ、天災と思って<諦|あきら>めるのが、ここ一年で山城教諭が学んだ彼女への対応策である。
-  De temps en temps, sa force dépassait même tout ce qu'il avait imaginé, mais c'était une autre histoire. La stratégie que Yamashiro avait mise au point au cours de l'année était de la considérer comme une catastrophe naturelle et laisser passer l'orage.
+　De temps en temps, sa force dépassait même tout ce qu'il avait imaginé, mais c'était une autre histoire. La stratégie que Yamashiro avait mise au point au cours de l'année était de la considérer comme une catastrophe naturelle et laisser passer l'orage.
 
 }
 [sha:b3898ad6eaa0be4ac3bdbc25062456f76a9c4426]{
@@ -433,13 +433,13 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:71220df91bf8653b3160a96c330144b9f94f4df9]{
 -- Page 23, Offset 217.
 -- それで、なぜ私なんでしょうか？」
-  Alors ? Pourquoi moi ?」
+　Alors ? Pourquoi moi ?」
 
 }
 [sha:675c4f1a4a1538dccbd7c9a01653b19855b0d183]{
 -- Page 23, Offset 218.
 -- 有無を言わせぬ<詰問|きつもん>に、山城教諭はやや押されながらも返答する。
-  Face à ce contre-interrogatoire où on ne pouvait répondre ni par oui ni par non, M. Yamashiro expliqua, quelque peu sous la contrainte :
+　Face à ce contre-interrogatoire où on ne pouvait répondre ni par oui ni par non, M. Yamashiro expliqua, quelque peu sous la contrainte :
 
 }
 [sha:0020dca84680e0bf85a1fa876953e7a6ff211f23]{
@@ -451,7 +451,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:e7aea8983d2eb79a6f37675b799eeb8325089e84]{
 -- Page 24, Offset 220.
 -- 別に、蒼崎くんが先生方に<敬遠|けいえん>されているのと同じぐらい信頼されていて、学校のためなら教師も生徒も一緒くたに斬って捨てる鉄の生徒会長、だからじゃないよ」
-  si je t'ai choisie, ce n'est pas parce que tu es la Présidente de Fer du Conseil Étudiant en qui les professeurs ont totalement confiance, même s'ils t'évitent comme la peste ; ni parce que tu te jetterais sur l'ensemble des élèves et des enseignants pour le bien de l'école si nécessaire.」
+　si je t'ai choisie, ce n'est pas parce que tu es la Présidente de Fer du Conseil Étudiant en qui les professeurs ont totalement confiance, même s'ils t'évitent comme la peste ; ni parce que tu te jetterais sur l'ensemble des élèves et des enseignants pour le bien de l'école si nécessaire.」
 
 }
 [sha:132739bde5772a6e3d321dfbfb57fce5fc1e7524]{
@@ -463,25 +463,25 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:806d0dc7d281c37a3edfdd047590b485ff638436]{
 -- Page 25, Offset 222.
 -- 信用ならない、と彼女は半眼で生徒会顧問を見据えた。
-  On ne peut pas lui faire confiance, pensa-t-elle en scrutant le conseiller du conseil étudiant avec les yeux mi-clos.
+　On ne peut pas lui faire confiance, pensa-t-elle en scrutant le conseiller du conseil étudiant avec les yeux mi-clos.
 
 }
 [sha:342ddfaccb3b59294ad4cbb2a852218c56167999]{
 -- Page 25, Offset 223. Mods: @n.
 -- 十七才の少女にあるまじき迫力と、
-  Avec l'intensité d'une jeune fille de 17 ans,
+　Avec l'intensité d'une jeune fille de 17 ans,
 
 }
 [sha:f6938d3e1c853172171a9bd25c752897c5c58678]{
 -- Page 25, Offset 224. Glued.
 -- 十七才の少女らしい愛らしさ。
-  et le charme d'une jeune fille de 17 ans.
+　et le charme d'une jeune fille de 17 ans.
 
 }
 [sha:5cdc1143e5650f92c8bb71011f83ed0b3a89b387]{
 -- Page 25, Offset 225.
 -- 奇跡的なバランスで両立する眼差しを、山城教諭は見惚れるように、穏やかな笑顔で受けとめる。
-  Le professeur Yamashiro accepta ce regard, dans lequel existait cette harmonie miraculeuse, avec un sourire paisible, comme fasciné.
+　Le professeur Yamashiro accepta ce regard, dans lequel existait cette harmonie miraculeuse, avec un sourire paisible, comme fasciné.
 
 }
 [sha:c218ebb67fcd75a0ae87ad81e17d42ed8a12d6a7]{
@@ -493,13 +493,13 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:a24ad526dfbab50823aa754f3b8c00404c2f7106]{
 -- Page 26, Offset 227.
 -- なんていうか、こんな頼みを<損得|そんとく>抜きで聞いてくれるのは君だけだと思ってね。適任ですから、と強く推薦したわけ」
-  Comment dire... J'ai pensé que tu étais la seule personne qui accepterait cette requête où il n'y a rien à gagner. Tu es compétente, voilà pourquoi je t'ai chaudement recommandée.」
+　Comment dire... J'ai pensé que tu étais la seule personne qui accepterait cette requête où il n'y a rien à gagner. Tu es compétente, voilà pourquoi je t'ai chaudement recommandée.」
 
 }
 [sha:912bc784573b97c75f3de4fe0de4ab2cba262ed7]{
 -- Page 26, Offset 228.
 -- 要は、“なんだかんだ言って底抜けに人がいいでしょ君”と言われているようなものだ。
-  D'une certaine façon, c'était comme s'il lui disait : “tu te plains, mais en fin de compte, tu as un bon fond”.
+　D'une certaine façon, c'était comme s'il lui disait : “tu te plains, mais en fin de compte, tu as un bon fond”.
 
 }
 [sha:9aa0b45d1d3dc25ef9f9c2d457ca8edd33021de5]{
@@ -517,121 +517,121 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:5cec7322e45533c5e9397d3d641b2a1b557d7a6b]{
 -- Page 27, Offset 231.
 -- とまあ、納得してくれたなら、すぐに移動しよう。もうずいぶん待たせてしまっているからね。
-  Enfin, si tu es d'accord, allons-y maintenant. Nous le faisons attendre depuis un bon moment, après tout.
+　Enfin, si tu es d'accord, allons-y maintenant. Nous le faisons attendre depuis un bon moment, après tout.
 
 }
 [sha:c3e8288e1496ee8160935ce54b0240bc6fb7d772]{
 -- Page 27, Offset 232.
 -- それと、雨の中ご苦労さま。帰りはもちろん車で送るよ」
-  Et aussi, désolé de t'avoir fait marcher sous la pluie. Bien sûr, je te ramènerai chez toi en voiture.」
+　Et aussi, désolé de t'avoir fait marcher sous la pluie. Bien sûr, je te ramènerai chez toi en voiture.」
 
 }
 [sha:6fb4481f515eac2e5f51063deecd4df98441a7c7]{
 -- Page 28, Offset 233.
 -- スマートに立ち上がる山城教諭。
-  Le professeur Yamashiro se leva avec élégance.
+　Le professeur Yamashiro se leva avec élégance.
 
 }
 [sha:24265299a5f58bb9add34b160f7382e17c16b36b]{
 -- Page 28, Offset 234.
 -- それにけっこうです、とだけ返して、彼女は職員室を後にした。
-  “Non merci”, répondit-elle simplement, puis elle quitta la salle des professeurs.
+　“Non merci”, répondit-elle simplement, puis elle quitta la salle des professeurs.
 
 }
 [sha:94f5998be77518f320c08c5726e9e7121b592532]{
 -- Page 29, Offset 235.
 -- 待ち続けること一時間。
-  Cela faisait une heure qu'il attendait de pied ferme.
+　Cela faisait une heure qu'il attendait de pied ferme.
 
 }
 [sha:641536f030c273e98674a35722262031c172bf9d]{
 -- Page 29, Offset 236.
 -- いつのまにか、空模様は小雨になっていた。
-  Sans qu'il s'en rende compte, une pluie fine s'était mise à tomber.
+　Sans qu'il s'en rende compte, une pluie fine s'était mise à tomber.
 
 }
 [sha:81ae74de13e17bac2f7582e16989bc13cb1f4591]{
 -- Page 29, Offset 237.
 -- 彼はぼんやりと、雨だれの音を聴いている。
-  Il écoutait distraitement le son des gouttes d'eau.
+　Il écoutait distraitement le son des gouttes d'eau.
 
 }
 [sha:650468d76967e851fba2990d191944838c2f4535]{
 -- Page 30, Offset 238.
 -- 長方形の机が事務的に置かれただけの部屋。
-  Dans une salle où les bureaux rectangulaires avaient été disposés pour les réunions,
+　Dans une salle où les bureaux rectangulaires avaient été disposés pour les réunions,
 
 }
 [sha:ab12240d7292f9f42ebd7d733c8dd604137f691c]{
 -- Page 30, Offset 239.
 -- 人影は一つ。彼の他には誰もいない。
-  se trouvait une ombre solitaire. Juste lui.
+　se trouvait une ombre solitaire. Juste lui.
 
 }
 [sha:50a95214073d3177ade4c35e70dd55de2aaea924]{
 -- Page 30, Offset 240.
 -- この部屋に通され、座って待っているように言われてから、もうずいぶんと時間が経っている。
-  Il s'était passé pas mal de temps depuis qu'on l'avait conduit dans cette salle, en lui disant de s'asseoir et d'attendre.
+　Il s'était passé pas mal de temps depuis qu'on l'avait conduit dans cette salle, en lui disant de s'asseoir et d'attendre.
 
 }
 [sha:5c2ea8257a31b575c83f4b2fe8da38428d7aa6d7]{
 -- Page 30, Offset 241.
 -- まっとうな学生なら不満や不安をクチにしてもいい頃だろうに、少年はそれこそ畑のカカシのように、じっと言いつけを守っていた。
-  S'il avait été un étudiant comme les autres, il aurait été temps qu'il montre son mécontentement ou son agitation, mais le jeune homme respectait scrupuleusement ce qu'on lui avait dit, comme un épouvantail dans un champ.
+　S'il avait été un étudiant comme les autres, il aurait été temps qu'il montre son mécontentement ou son agitation, mais le jeune homme respectait scrupuleusement ce qu'on lui avait dit, comme un épouvantail dans un champ.
 
 }
 [sha:728dd816babbc3adb1a35917d434549b5b73bd5a]{
 -- Page 31, Offset 242.
 -- 体の<芯|しん>にまで届く寒さ。
-  Le froid se répandait jusque dans ses os.
+　Le froid se répandait jusque dans ses os.
 
 }
 [sha:272c574c18c81c3a1d292a6f62fbb7c418d5abd2]{
 -- Page 31, Offset 243.
 -- 十一月の終わり、冬を迎え始めた午前の気温である。
-  La température était celle d'un matin de fin novembre qui voyait l'hiver arriver progressivement.
+　La température était celle d'un matin de fin novembre qui voyait l'hiver arriver progressivement.
 
 }
 [sha:1338be5bfd21b1e162362db333d714b7175280d8]{
 -- Page 31, Offset 244.
 -- 室温は外より幾らかましな程度。
-  Il faisait néanmoins meilleur qu'à l'extérieur.
+　Il faisait néanmoins meilleur qu'à l'extérieur.
 
 }
 [sha:d75f28f4ca8a4514e315d07e4e84fdf613119b2d]{
 -- Page 31, Offset 245.
 -- ストーブをつけていいから、という教師の声を聞き逃したのか、このタイプのストーブはまだ見た事がなかったのか、暖房は入っていない。
-  Mais peut-être n'avait-il pas entendu le professeur lorsqu'il lui avait dit qu'il pouvait allumer le chauffage, à moins qu'il n'en ait jamais vu dans ce genre-là ; en tout cas, il ne l'avait pas allumé.
+　Mais peut-être n'avait-il pas entendu le professeur lorsqu'il lui avait dit qu'il pouvait allumer le chauffage, à moins qu'il n'en ait jamais vu dans ce genre-là ; en tout cas, il ne l'avait pas allumé.
 
 }
 [sha:de217218543327e2c1ac3d97d31dc4e6d89e0f22]{
 -- Page 32, Offset 246.
 -- 彼は冷たくなってきた指先に軽く息をあてながら、ぼんやりと周囲を観察する。
-  Tout en soufflant sur le bout de ses doigts devenus engourdis, il observait distraitement les alentours.
+　Tout en soufflant sur le bout de ses doigts devenus engourdis, il observait distraitement les alentours.
 
 }
 [sha:5488991b0213807dcc01d4f9e2f71e29effcbb26]{
 -- Page 32, Offset 247.
 -- この殺風景な部屋は会議室と言うらしい。
-  Cette pièce sans vie s'appelait apparemment une salle de conférence.
+　Cette pièce sans vie s'appelait apparemment une salle de conférence.
 
 }
 [sha:b8e2675de2db9dc64c7eaba91feb7c38ab6995ed]{
 -- Page 32, Offset 248.
 -- 在校生から見れば<仰々|ぎょうぎょう>しい会議室だが、彼から見れば飾り気のない、広いだけの部屋だった。
-  Du point de vue d'un étudiant déjà inscrit, elle respirait l'arrogance, mais pour lui, elle était sans prétention et juste spacieuse.
+　Du point de vue d'un étudiant déjà inscrit, elle respirait l'arrogance, mais pour lui, elle était sans prétention et juste spacieuse.
 
 }
 [sha:0042d83bd4229f3cd6640037c10117ee332770ae]{
 -- Page 33, Offset 249.
 -- 生活の匂いがしないため、つい、乾ききった<岩屋|いわや>などを連想してしまう。
-  Comme elle semblait désolée, il se mit à imaginer involontairement une caverne desséchée.
+　Comme elle semblait désolée, il se mit à imaginer involontairement une caverne desséchée.
 
 }
 [sha:6d988179e5b8f892c420f13856e76a27e6502372]{
 -- Page 33, Offset 250.
 -- 彼はやる事もないので、こんな冷たい場所でどんな話し合いをするのだろう、と真剣に検討してみた。
-  Et n'ayant rien d'autre à faire, il essaya d'imaginer avec sérieux quels genres de discussions pouvaient se dérouler dans un endroit si froid.
+　Et n'ayant rien d'autre à faire, il essaya d'imaginer avec sérieux quels genres de discussions pouvaient se dérouler dans un endroit si froid.
 
 }
 [sha:79a51295331c1cfdc8ecb11837d76df895d9d847]{
@@ -649,61 +649,61 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:e1a031483cc2f63147e5193aca4c0eeee6ecd593]{
 -- Page 34, Offset 253.
 -- どう考えても答えはでそうにないので、<雨音|あまおと>に意識を戻す。
-  Comme la réponse ne semblait pas venir, peu importait à quel point il y pensait, il reporta son attention sur le son de la pluie.
+　Comme la réponse ne semblait pas venir, peu importait à quel point il y pensait, il reporta son attention sur le son de la pluie.
 
 }
 [sha:6fe06e7df1c294d8c3c06ddbc8f6e24463c07414]{
 -- Page 34, Offset 254.
 -- 雨の空は、山のものと少しだけ似ている。
-  Le ciel pluvieux ressemblait un peu à celui de la montagne.
+　Le ciel pluvieux ressemblait un peu à celui de la montagne.
 
 }
 [sha:bd9620a63d3f99c5050fbb30b109ca76d2a052e9]{
 -- Page 34, Offset 255.
 -- いや、かろうじて原形を留めている。
-  Non, en fait, la similitude entre les deux était quasi nulle.
+　Non, en fait, la similitude entre les deux était quasi nulle.
 
 }
 [sha:db495cf4e09d16a8bda55cd24ce6ddbf086df141]{
 -- Page 34, Offset 256.
 -- 匂いも音も<硬|かた>くなっているが、根底は同じモノだ。
-  Mais si les odeurs et les sons étaient plus nets, à la base, il s'agissait des mêmes choses.
+　Mais si les odeurs et les sons étaient plus nets, à la base, il s'agissait des mêmes choses.
 
 }
 [sha:028f50c87e99882d8f0c31657a9e780389a3ce76]{
 -- Page 34, Offset 257.
 -- こんな異界にあっても山と共通する物がある―――
-  Même dans cet autre monde, il y avait quelques points communs avec la montagne―――
+　Même dans cet autre monde, il y avait quelques points communs avec la montagne―――
 
 }
 [sha:c051d079949899b4ccd758220e65f50a6f909863]{
 -- Page 34, Offset 258.
 -- そんな<些細|ささい>な事がしんみりと嬉しい。
-  Ces petits riens du tout le rendaient heureux.
+　Ces petits riens du tout le rendaient heureux.
 
 }
 [sha:e93b1cb634a2d54579d008bb64fcc115868ee0bd]{
 -- Page 35, Offset 259.
 -- 雨に濡れた町は好きだ。
-  Il aimait la ville trempée par la pluie.
+　Il aimait la ville trempée par la pluie.
 
 }
 [sha:70e1b83d88c91e59953f8f1a60a03b3301b3065e]{
 -- Page 35, Offset 260.
 -- よく晴れた晴天の方が心地よいのは当然だが、そういう気持ち良さとは別の視点で、彼は雨空を好いている。
-  Il se sentait évidemment bien avec un beau temps dégagé, mais d'un autre côté, le ciel pluvieux ne lui déplaisait pas.
+　Il se sentait évidemment bien avec un beau temps dégagé, mais d'un autre côté, le ciel pluvieux ne lui déplaisait pas.
 
 }
 [sha:bd29e530bc3905af1b3ff0233cbb1d622d4d7df0]{
 -- Page 35, Offset 261.
 -- 雨に<煙|けぶ>った町並みは少しだけ土の匂いが増して、未練がましくも故郷を<想|おも>ってしまう。
-  Les rues délavées par la pluie sentaient alors un peu la terre et lui rappelaient avec encore plus de nostalgie ses terres natales.
+　Les rues délavées par la pluie sentaient alors un peu la terre et lui rappelaient avec encore plus de nostalgie ses terres natales.
 
 }
 [sha:145b536626d6f93ca2501075246c8b1ec6830b64]{
 -- Page 35, Offset 262.
 -- そんな時だけ、都会にやってきた不安も少しは薄れていく気がするからだ。
-  Il n'y avait que dans ces moments-là qu'il avait l'impression que son anxiété d'être venu en ville s'estompait un peu.
+　Il n'y avait que dans ces moments-là qu'il avait l'impression que son anxiété d'être venu en ville s'estompait un peu.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -715,13 +715,13 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:199f7c1b961f3c754ffefa83685e7defc30ddd04]{
 -- Page 36, Offset 264.
 -- ……と、すぐに<落胆|らくたん>の息がこぼれた。
-  ...... Pensant cela, un soupir de découragement lui échappa aussitôt.
+　...... Pensant cela, un soupir de découragement lui échappa aussitôt.
 
 }
 [sha:33685766434fe7dcebeb02e8dde3809139d173b8]{
 -- Page 36, Offset 265.
 -- まったく情けない。
-  C'est vraiment pitoyable.
+　C'est vraiment pitoyable.
 
 }
 [sha:41cdab50e86f49f5b74fc1f190cc0d7dbc379d0b]{
@@ -733,67 +733,67 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:fb847481400d07b6c1d3de986d1989a5df984feb]{
 -- Page 36, Offset 267.
 -- これではせっかくの新生活に申し訳がないではないか、と彼はひとり気合いを入れ直して、行儀良く待ち続けることにした。
-  Dans ce cas, je m'excuse auprès de ma nouvelle vie pour m'être plaint, se dit-il pour se remonter le moral, avant de se remettre à attendre de bonne grâce.
+　Dans ce cas, je m'excuse auprès de ma nouvelle vie pour m'être plaint, se dit-il pour se remonter le moral, avant de se remettre à attendre de bonne grâce.
 
 }
 [sha:2a5b0ee2851609cbe8a907cd9f4ead3c66844265]{
 -- Page 37, Offset 268.
 -- ぼんやりと熱心に、雨の音に意識を向ける。
-  Il tourna ses pensées vers le son de la pluie avec un léger enthousiasme.
+　Il tourna ses pensées vers le son de la pluie avec un léger enthousiasme.
 
 }
 [sha:3ba358b84635c2270ca85a5faf43eeecf79b44b7]{
 -- Page 37, Offset 269.
 -- 彼にとって、この程度の待ちぼうけは苦でもないらしい。
-  Pour lui, il semblait qu'attendre vainement aussi longtemps n'était pas un souci.
+　Pour lui, il semblait qu'attendre vainement aussi longtemps n'était pas un souci.
 
 }
 [sha:ee4de9544e3081886ee6742421f80bbc5beb1d5b]{
 -- Page 38, Offset 270.
 -- 痺れるような寒さも、一時間の放置も、深呼吸と一緒にあっさり飲み下す平常心。
-  Son état d'esprit lui permettait au besoin, en respirant profondément, de digérer un froid engourdissant ou une heure d'abandon.
+　Son état d'esprit lui permettait au besoin, en respirant profondément, de digérer un froid engourdissant ou une heure d'abandon.
 
 }
 [sha:fd96ea8f43331b189c487df3a0f7d190483594da]{
 -- Page 38, Offset 271.
 -- 岩の上にも三年とか、耐え続けた<赤穂浪士|あこうろうし>とか。
-  Attendre trois ans sur un rocher, ou continuer de se battre à la façon des 47 ronins.
+　Attendre trois ans sur un rocher, ou continuer de se battre à la façon des 47 ronins.
 
 }
 [sha:a9a894059b0b3bf60be801544d41e6cfa29a6987]{
 -- Page 38, Offset 272.
 -- 長所かどうかはさておいて、呆れるほどの辛抱強さ。
-  Au-delà du fait que cela pourrait constituer une grande qualité, c'était à n'en pas douter une endurance impressionnante.
+　Au-delà du fait que cela pourrait constituer une grande qualité, c'était à n'en pas douter une endurance impressionnante.
 
 }
 [sha:520f6665d2fc082482af6ffd4dc2cb68c26b52c4]{
 -- Page 38, Offset 273.
 -- それが現時点における、この少年の特長だった。
-  À l'heure actuelle, c'était la particularité de ce jeune homme.
+　À l'heure actuelle, c'était la particularité de ce jeune homme.
 
 }
 [sha:75c7d8cd0c80b6568431909732d78dfdfb78c91a]{
 -- Page 39, Offset 274.
 -- 一方、彼女はいたくご<立腹|りっぷく>だった。
-  Pendant ce temps, elle était entrée dans une colère noire.
+　Pendant ce temps, elle était entrée dans une colère noire.
 
 }
 [sha:6a9b46a4088268781d6535fdac065afc99e8d119]{
 -- Page 39, Offset 275.
 -- 職員室から会議室に向かうまでの間、これから会う人物のプロフィールを聞いたからだ。
-  Parce que sur le chemin allant de la salle des professeurs à la salle de conférence, on lui avait fait la description de l'étudiant qu'elle allait rencontrer.
+　Parce que sur le chemin allant de la salle des professeurs à la salle de conférence, on lui avait fait la description de l'étudiant qu'elle allait rencontrer.
 
 }
 [sha:783e3c05ea66e39d0b10bd263ea683356cb809d2]{
 -- Page 39, Offset 276.
 -- なんでも、その人物は生まれてから今の今まで、電気も<通|かよ>っていない山奥で暮らしていたらしい。
-  Apparemment, cette personne avait vécu, depuis sa naissance jusqu'à maintenant, dans la montagne profonde où l'électricité n'était pas acheminée.
+　Apparemment, cette personne avait vécu, depuis sa naissance jusqu'à maintenant, dans la montagne profonde où l'électricité n'était pas acheminée.
 
 }
 [sha:8037e1362daebc167392e92506e72b26d90db31e]{
 -- Page 40, Offset 277.
 -- 電気がないという事は、現在の文明社会の半分以上を知らない事になる。
-  Le fait qu'il n'avait jamais utilisé l'électricité signifiait qu'il ne connaissait même pas la moitié de l'étendue de la civilisation actuelle.
+　Le fait qu'il n'avait jamais utilisé l'électricité signifiait qu'il ne connaissait même pas la moitié de l'étendue de la civilisation actuelle.
 
 }
 [sha:9352e695e558031c1eac66abd1048134893bbc84]{
@@ -805,37 +805,37 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:6950ea0a9ff8d4b0a2a84a21fc3ade5cfb4930f5]{
 -- Page 40, Offset 279.
 -- ロビンソンにも程がある……！』
-  Comment peut-on encore vivre comme Robinson Crusoé à notre époque......!』
+　Comment peut-on encore vivre comme Robinson Crusoé à notre époque......!』
 
 }
 [sha:66ab594a63f3a8d4492350c9681ea0243c6c1ee4]{
 -- Page 40, Offset 280.
 -- 彼女のそんな<憤|いきどお>りもやむをえまい。
-  Elle était bien obligée d'éprouver ce ressentiment.
+　Elle était bien obligée d'éprouver ce ressentiment.
 
 }
 [sha:aa2c04a3f7704fac3537079ef948f9d397fc6768]{
 -- Page 41, Offset 281.
 -- なんでも、その山奥の村は長いこと集落として孤立していたらしい。
-  Apparemment, ce village en pleine montagne était depuis longtemps un hameau isolé.
+　Apparemment, ce village en pleine montagne était depuis longtemps un hameau isolé.
 
 }
 [sha:190483b0eef3d5790ba20e67a06e3a859379fce5]{
 -- Page 41, Offset 282.
 -- <麓|ふもと>の村とですら月に一度の郵便で連絡をとるだけなんて、現代日本とは思えない。
-  Il ne communiquait par courrier qu'une seule fois par mois et uniquement avec le village au pied de la montagne. C'était à des années-lumière du Japon actuel.
+　Il ne communiquait par courrier qu'une seule fois par mois et uniquement avec le village au pied de la montagne. C'était à des années-lumière du Japon actuel.
 
 }
 [sha:f2b8b7304aae4f4a592587d83ebd4175f655244b]{
 -- Page 41, Offset 283.
 -- が、しかし。今や高速道路やＪＲ……旧国鉄……といった動脈静脈が張り巡らされた我が国ではあるが、そういった山村は無いと言い切れないのも事実である。
-  Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou le <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
+　Mais cela dit, même si maintenant, le pays avait mis en place des voies de communication et de circulation comme les autoroutes ou le <Japan Railways|Chemin de fer National du Japon>, il était également vrai qu'on ne pouvait nier l'existence de ces villages de montagne.
 
 }
 [sha:5c4e6291e725ce7e960b931941dfae6460d342b7]{
 -- Page 41, Offset 284.
 -- いま確かなコトは、そんな状況で暮らしてきた人間が何を考えて生きているか想像できない、というコトだけだ。
-  À présent, la seule chose certaine, c'était qu'elle ne pouvait pas imaginer comment pensait une personne ayant vécu ainsi.
+　À présent, la seule chose certaine, c'était qu'elle ne pouvait pas imaginer comment pensait une personne ayant vécu ainsi.
 
 }
 [sha:68a758e3539a79c75665413f47cfbcd097c8c4d6]{
@@ -853,19 +853,19 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:e382ab92263804f6c67fa1fb0c1f1d3513f8d82d]{
 -- Page 42, Offset 287.
 -- 電話って便利ですね、なんて真顔で言われてねぇ。そういえばそうだなあ、と再確認させられたぐらいだよ」
-  Il m'a dit, avec un visage sérieux, que le téléphone était pratique. J'en ai même profité pour lui glisser qu'à la réflexion, c'était effectivement le cas.」
+　Il m'a dit, avec un visage sérieux, que le téléphone était pratique. J'en ai même profité pour lui glisser qu'à la réflexion, c'était effectivement le cas.」
 
 }
 [sha:c9c29d6e896b4ce93b7e2ae35d14dd8dea07f8b3]{
 -- Page 43, Offset 288.
 -- あはは、と笑う教師を彼女は横目で睨む。
-  “Ha ha ha”, rigola le professeur qu'elle fixait du coin de l'œil.
+　“Ha ha ha”, rigola le professeur qu'elle fixait du coin de l'œil.
 
 }
 [sha:6a780857a6034d044166fddeb9639fa1289d4369]{
 -- Page 43, Offset 289.
 -- 何が嬉しいのか、山城教諭は田舎の純朴な少年にあてられて<和|なご>んでいるらしい。
-  C'était à se demander ce qui était amusant. Visiblement, devant la naïveté de ce garçon de la campagne, M. Yamashiro s'était laissé aller.
+　C'était à se demander ce qui était amusant. Visiblement, devant la naïveté de ce garçon de la campagne, M. Yamashiro s'était laissé aller.
 
 }
 [sha:1253061567ee419f693fa2eb367cd77606535ec4]{
@@ -877,7 +877,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:3a7260177721aa894e69ba2c4930648191cb3fd3]{
 -- Page 44, Offset 291.
 -- ―――そいつ、学校<も|・>知らないんですか？」
-  ―――Ce type n'est jamais allé à l'école non plus ?」
+　―――Ce type n'est jamais allé à l'école non plus ?」
 
 }
 [sha:9d38f200656751f394a8e45fa552e4644d0f980b]{
@@ -889,7 +889,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:f2fd2887c0eae0f9b4f54231c19468a3879aba9c]{
 -- Page 45, Offset 293.
 -- うーん、ああいうのも野生児っていうのかな？　狼に育てられた狼少年、みたいな？　いや、探検隊の話だねぇ！」
-  Hum, les personnes de ce genre, on dit bien que ce sont des enfants sauvages, c'est ça ? Comme un garçon élevé par les loups ? Ce serait un bon sujet à creuser !」
+　Hum, les personnes de ce genre, on dit bien que ce sont des enfants sauvages, c'est ça ? Comme un garçon élevé par les loups ? Ce serait un bon sujet à creuser !」
 
 }
 [sha:8eaa978afc424a226a1e857f05b10c5b2c0e8cc7]{
@@ -907,13 +907,13 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:e70985bea2a30da5fe15f3b2f0f9719bc2435295]{
 -- Page 46, Offset 296.
 -- 大丈夫、話してみた感じ、おとなしい子だったから！
-  Tout se passera bien, d'après l'impression que j'ai eue quand je lui ai parlé, c'est un enfant calme !
+　Tout se passera bien, d'après l'impression que j'ai eue quand je lui ai parlé, c'est un enfant calme !
 
 }
 [sha:a630c9adf8f611623455f5b401965fe5e772e2f5]{
 -- Page 46, Offset 297.
 -- なんていうか、言葉の通じない小動物みたいな感じ」
-  Comment dire ? Comme un petit animal qui ne comprend pas le langage humain.」
+　Comment dire ? Comme un petit animal qui ne comprend pas le langage humain.」
 
 }
 [sha:bec1f3394de9fa6a017c6dc21f8fc75d1d435b67]{
@@ -925,55 +925,55 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:f8a5ecfd5fdf5251ebafd6a991ece1d31fa18f72]{
 -- Page 47, Offset 299.
 -- つっけんどんに返しつつ、彼女は電気のない生活とやらをシミュレートしようとし、ただでさえ不機嫌な顔をいっそう刺々しく曇らせた。
-  Tout en répondant d'un ton brusque, elle tenta d'imaginer une vie sans électricité, et son visage déjà maussade s'assombrit encore plus.
+　Tout en répondant d'un ton brusque, elle tenta d'imaginer une vie sans électricité, et son visage déjà maussade s'assombrit encore plus.
 
 }
 [sha:b183fe7d6a13cf00c65fe8e31f96905a73bc08a7]{
 -- Page 48, Offset 300.
 -- だって、それは彼女の知らない世界だ。
-  Parce que c'était un monde qu'elle ne connaissait pas.
+　Parce que c'était un monde qu'elle ne connaissait pas.
 
 }
 [sha:7df53737152d2997355b09efdf3ca745baf664e3]{
 -- Page 48, Offset 301.
 -- 教師陣が両手を上げて降参したのも頷ける。
-  Elle comprenait pourquoi le corps enseignant avait baissé les bras.
+　Elle comprenait pourquoi le corps enseignant avait baissé les bras.
 
 }
 [sha:d917340593b14082d3ace9e438f8ba7b59bed761]{
 -- Page 48, Offset 302.
 -- 本当は彼女も降参して暖かなベッドに戻りたかったが、<一|いち><文|もん>にもならない自尊心が押しとどめていた。
-  En réalité, elle voulait elle aussi laisser tomber et retourner dans son lit douillet, mais son orgueil surdimensionné l'en empêchait.
+　En réalité, elle voulait elle aussi laisser tomber et retourner dans son lit douillet, mais son orgueil surdimensionné l'en empêchait.
 
 }
 [sha:6624c2e9fa7775ed7a14d5b7e7342934737307e0]{
 -- Page 48, Offset 303.
 -- 出来ると見込まれ、自分も出来ると判断して引き受けた以上、経緯や内容はどうあれ、そう簡単に放り出すワケにはいかないのだ。
-  À partir du moment où l'on espérait qu'elle réussisse et si elle avait jugé qu'elle en était capable, quels que soient les détails ou la teneur du problème, elle ne pouvait pas renoncer si facilement.
+　À partir du moment où l'on espérait qu'elle réussisse et si elle avait jugé qu'elle en était capable, quels que soient les détails ou la teneur du problème, elle ne pouvait pas renoncer si facilement.
 
 }
 [sha:987636f01a9b5a5150b23110d1c319214818ded7]{
 -- Page 49, Offset 304.
 -- <雨音|あまおと>を背に、冷めきった廊下を歩いていく。
-  Elle marchait dans le couloir glacial avec le son de la pluie dans son dos.
+　Elle marchait dans le couloir glacial avec le son de la pluie dans son dos.
 
 }
 [sha:e4a4b28a1bfb1d3c4cafa97f57f07a0cc965093c]{
 -- Page 49, Offset 305.
 -- 会議室はもう目前。
-  La salle de conférence était déjà à portée de vue.
+　La salle de conférence était déjà à portée de vue.
 
 }
 [sha:774348d79f3e95bd43fdc5dbbf508d6fa72b70c6]{
 -- Page 49, Offset 306.
 -- 眉間に<皺|しわ>をよせたまま、長い髪を揺らして、彼女はまだ見ぬ異邦人へと向かっていく。
-  Les sourcils toujours froncés et les cheveux ondulants, elle se dirigeait vers l'inconnu,
+　Les sourcils toujours froncés et les cheveux ondulants, elle se dirigeait vers l'inconnu,
 
 }
 [sha:113c35ef59f58393a26a7fa4111f95d696c4c8d6]{
 -- Page 49, Offset 307.
 -- 優雅な足取りのまま、戦場に突撃するかの如く。
-  avec un pas élégant, comme si elle se lançait à l'assaut sur le champ de bataille.
+　avec un pas élégant, comme si elle se lançait à l'assaut sur le champ de bataille.
 
 }
 [sha:4d10b7fb074660ce564cc5ff70f686c41219aa56]{
@@ -985,7 +985,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:e1426eb23b4be8996a5bc380dfc5f80faeca6be5]{
 -- Page 50, Offset 309.
 -- 君を信頼してる僕だけど、念のため確認しておくよ。なんていうか、優しくね。できれば笑顔とか作れないかな？」
-  Je te fais confiance, mais j'aimerais juste m'assurer d'une chose. Comment dire, sois gentille, d'accord ? Si possible, tu pourrais faire un sourire ?」
+　Je te fais confiance, mais j'aimerais juste m'assurer d'une chose. Comment dire, sois gentille, d'accord ? Si possible, tu pourrais faire un sourire ?」
 
 }
 [sha:14bb0b1411c4b11c7ddaccf6935116c6e00425fb]{
@@ -1003,25 +1003,25 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:abd8ef2ee8813c55a70a2d618267d3ba3019561a]{
 -- Page 50, Offset 312.
 -- ……いやあ、ほんと良かった。蒼崎くんにも苦手なものってあったんだねぇ……」
-  ...... Je suis vraiment content d'apprendre qu'il y a des choses avec lesquelles, toi aussi, tu n'es pas à l'aise......」
+　...... Je suis vraiment content d'apprendre qu'il y a des choses avec lesquelles, toi aussi, tu n'es pas à l'aise......」
 
 }
 [sha:f26025e06dcf40885f96a153f89a0fec447d2635]{
 -- Page 51, Offset 313.
 -- 山城教諭が肩を落とすのと、<件|くだん>の会議室に到着したのは同時だった。
-  Le professeur Yamashiro baissa les épaules alors qu'ils parvenaient devant la salle de conférence en question.
+　Le professeur Yamashiro baissa les épaules alors qu'ils parvenaient devant la salle de conférence en question.
 
 }
 [sha:de87be4c74078abdce77aabac06b1efea9342f26]{
 -- Page 51, Offset 314.
 -- 山城教諭は“優しく、優しくね”と目配せし、会議室の扉に手をかける。
-  Yamashiro lui jeta un regard lui signifiant de ne pas être trop brusque avant de poser la main sur la poignée.
+　Yamashiro lui jeta un regard lui signifiant de ne pas être trop brusque avant de poser la main sur la poignée.
 
 }
 [sha:b4db5808b740619e9beb56d79b530a16a0c4728b]{
 -- Page 51, Offset 315.
 -- そんな扱いに、彼女のイライラは増すばかりだ。
-  Cet acte ne fit qu'accentuer son irritation.
+　Cet acte ne fit qu'accentuer son irritation.
 
 }
 [sha:f559cdb0561e891b7cf072c2673708185ee4ae52]{
@@ -1039,31 +1039,31 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:d63da93af31732681587eb36ec492a722128e9c7]{
 -- Page 53, Offset 318.
 -- 彼女は自分の愛想の無さにため息をつくが、考えてみると、寝不足のまま休日の学校に呼び出されては笑顔も何もあったものではない。
-  Elle soupirait devant son manque d'amabilité, mais en y repensant, comment pouvait-elle sourire après avoir été appelée à l'école un jour de congé alors qu'elle était en manque de sommeil ?
+　Elle soupirait devant son manque d'amabilité, mais en y repensant, comment pouvait-elle sourire après avoir été appelée à l'école un jour de congé alors qu'elle était en manque de sommeil ?
 
 }
 [sha:4dc15c7a443b94046eb7387fdca816b3153fcd8e]{
 -- Page 53, Offset 319.
 -- くわえて、その元凶は高校生より小学生から始めた方がよさそうな人物なのだ。
-  D'autant plus lorsqu'il semblait préférable que l'élève à l'origine de ce désagrément commence depuis la primaire plutôt que depuis le lycée.
+　D'autant plus lorsqu'il semblait préférable que l'élève à l'origine de ce désagrément commence depuis la primaire plutôt que depuis le lycée.
 
 }
 [sha:91375c6fb7509bfc1ffd479cad2ba067324bd987]{
 -- Page 54, Offset 320.
 -- ……その人物に責任はないにせよ、彼女にだって、学校側の仕事を押しつけられる責任も義理もないのである。
-  ...... Même s'il n'était pas responsable, elle n'avait ni l'obligation ni la responsabilité de se charger du travail de l'école.
+　...... Même s'il n'était pas responsable, elle n'avait ni l'obligation ni la responsabilité de se charger du travail de l'école.
 
 }
 [sha:e53b1933f5a4f7d08e5babf8db23df5e687a82ce]{
 -- Page 54, Offset 321.
 -- せめて、なんというか。
-  Et puis quoi !
+　Et puis quoi !
 
 }
 [sha:28a55a27ecb2bd7fc5e311f782f3c9900a16bed0]{
 -- Page 54, Offset 322.
 -- もうちょっと空気を読んで平日にやってきてくれたのなら、と愚痴の一つも言いたくなる。
-  Il aurait pu faire preuve d'un peu de perspicacité et venir un jour de cours, avait-elle envie de grommeler.
+　Il aurait pu faire preuve d'un peu de perspicacité et venir un jour de cours, avait-elle envie de grommeler.
 
 }
 [sha:9a2632ebefece9c0257c45e26f8949236506ef5c]{
@@ -1075,67 +1075,67 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:367d6b1c6a304d25eced710416c22fbf35b12a31]{
 -- Page 55, Offset 324.
 -- 悪いけど<情状酌量|じょうじょうしゃくりょう>以前に敵……！
-  Désolée, mais même s'il a des circonstances atténuantes, ce n'est ni plus ni moins qu'un ennemi......!
+　Désolée, mais même s'il a des circonstances atténuantes, ce n'est ni plus ni moins qu'un ennemi......!
 
 }
 [sha:7ee9c6c408a6c3509d659f42a93a460167ba52ed]{
 -- Page 55, Offset 325.
 -- 間が悪いのはお互い様っていうか、ほんと、なんでよりにもよってこんな忙しい時に―――』
-  C'est vraiment pas de chance pour nous deux. Bon sang, pourquoi faut-il que ça arrive pendant une période aussi chargée―――』
+　C'est vraiment pas de chance pour nous deux. Bon sang, pourquoi faut-il que ça arrive pendant une période aussi chargée―――』
 
 }
 [sha:e328c25e5026bb582bf75a3de7f2d230111cde82]{
 -- Page 56, Offset 326.
 -- 寝不足でキリキリ痛む頭が、彼女の攻撃性を一割増しにする。
-  Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10 % son agressivité.
+　Son mal de tête, qui l'élançait à cause de son manque de sommeil, augmentait de 10 % son agressivité.
 
 }
 [sha:f11d31dad6f6465a778f20f726745a6f4dd4b7b8]{
 -- Page 56, Offset 327.
 -- この扉の向こうにいる人物がどれだけ無害であれ、我が眠りを妨げたモノはみんな敵。
-  Même si la personne derrière cette porte était aussi inoffensive qu'un mouton, tout être dérangeant son sommeil était un ennemi.
+　Même si la personne derrière cette porte était aussi inoffensive qu'un mouton, tout être dérangeant son sommeil était un ennemi.
 
 }
 [sha:7f64b08405437f3a8f6e38907f1491278a8f82d2]{
 -- Page 56, Offset 328.
 -- そんな彼女のイライラが頂点に達しかけたタイミングで、山城教諭は会議室の扉を開けた。
-  Au moment où son énervement fut à son paroxysme, le professeur Yamashiro ouvrit la porte de la salle de conférence.
+　Au moment où son énervement fut à son paroxysme, le professeur Yamashiro ouvrit la porte de la salle de conférence.
 
 }
 [sha:3db305d9689a4cd6d7c825adb8f9c76cf34da50a]{
 -- Page 57, Offset 329.
 -- ……ゆっくりと横に開いていく風景。
-  ...... Lentement, le paysage apparut latéralement.
+　...... Lentement, le paysage apparut latéralement.
 
 }
 [sha:7dbdce92ea2bfa56a1ccfb682aa13e485c8fd701]{
 -- Page 57, Offset 330.
 -- <情緒|じょうちょ>なんてお構いなし。
-  Ses sentiments étaient sans importance.
+　Ses sentiments étaient sans importance.
 
 }
 [sha:97aacdc65a1ded9e3ac9f752c25286a47d885b83]{
 -- Page 57, Offset 331.
 -- まっすぐな視線のまま、彼女は会議室に<突撃|しんこう>し―――
-  Avec le regard décidé, elle pénétra dans la salle de conférence―――
+　Avec le regard décidé, elle pénétra dans la salle de conférence―――
 
 }
 [sha:ae63a939de339b56fa27b382410d6fee03c33c1e]{
 -- Page 57, Offset 332.
 -- その、一風変わった敵と対面した。
-  et rencontra cet ennemi excentrique.
+　et rencontra cet ennemi excentrique.
 
 }
 [sha:4cff7d00f0d4526702a2e35d2fe70aeec5160de8]{
 -- Page 58, Offset 333.
 -- カメラは再び一方に。
-  Changeons à nouveau de perspective.
+　Changeons à nouveau de perspective.
 
 }
 [sha:a6765d1f20a156f317579a135216b292ae386c57]{
 -- Page 58, Offset 334.
 -- 時間は、少しだけ巻き戻る。
-  Et revenons un peu dans le temps.
+　Et revenons un peu dans le temps.
 
 }
 [sha:b220575fd0591ed4f5a9d94d2013d8ec62b11d79]{
@@ -1147,43 +1147,43 @@ La directive de “ne rien faire”,
 [sha:08143f583a2f442e4797fc0d2a4634157a471737]{
 -- Page 59, Offset 336.
 -- ある種の人間にとってはかけがえのない贅沢であり、
-  était pour certaines personnes un luxe sans prix,
+　était pour certaines personnes un luxe sans prix,
 
 }
 [sha:5982552d978b7db814d8a161e073b962636cfed1]{
 -- Page 59, Offset 337.
 -- ある種の人間にとっては耐えがたい責め苦である。
-  et pour d'autres une torture insoutenable.
+　et pour d'autres une torture insoutenable.
 
 }
 [sha:5ce977edbe2f907592dbcb4489c9f52120af8f51]{
 -- Page 60, Offset 338.
 -- 能動的な彼女にすれば<羨|うらや>ましい反面、怪しすぎて受け取れない高級品。
-  Pour elle qui était quelqu'un d'énergique, c'était une activité qui lui faisait envie, et dans le même temps, quelque chose hors de prix et bien trop suspect pour qu'elle puisse l'accepter.
+　Pour elle qui était quelqu'un d'énergique, c'était une activité qui lui faisait envie, et dans le même temps, quelque chose hors de prix et bien trop suspect pour qu'elle puisse l'accepter.
 
 }
 [sha:bc29fd24a1fa3d3968b79ab5308487a52ad9b54c]{
 -- Page 60, Offset 339.
 -- 受動的な彼にすれば親しめる反面、郷愁を起こす<苦|にが>い棘……の筈なのだが、目下、絶賛待たされっぱなしの顔にこれといった不満は見られない。
-  Pour lui qui était plutôt passif, c'était quelque chose de familier, mais cela lui donnait aussi une pointe d'amertume censée... réveiller sa nostalgie. Mais pour l'instant, ce sentiment n'était nulle part visible sur le visage de celui que l'on faisait attendre.
+　Pour lui qui était plutôt passif, c'était quelque chose de familier, mais cela lui donnait aussi une pointe d'amertume censée... réveiller sa nostalgie. Mais pour l'instant, ce sentiment n'était nulle part visible sur le visage de celui que l'on faisait attendre.
 
 }
 [sha:e568b7c051a61c39aa62a984c28d86cfa5a1fb61]{
 -- Page 61, Offset 340.
 -- 彼は自然に、姿勢を正したまま灰色の空模様を眺めている。
-  Il contemplait tranquillement le ciel gris dans une posture bien droite.
+　Il contemplait tranquillement le ciel gris dans une posture bien droite.
 
 }
 [sha:070dcb63bdbf13433b785ca781763274f56d6f03]{
 -- Page 61, Offset 341.
 -- さらに待ち続けてはや一時間だが、まあ、先方さんにも都合があるのだろうし、何もお金を取られるワケでもなし。
-  Cela faisait une heure qu'on le faisait patienter, mais l'autre personne devait avoir ses raisons, et puis, ce n'était pas comme si on allait lui dérober de l'argent.
+　Cela faisait une heure qu'on le faisait patienter, mais l'autre personne devait avoir ses raisons, et puis, ce n'était pas comme si on allait lui dérober de l'argent.
 
 }
 [sha:c9fb6994e2ff54b1ce7f426d02c7d852724229a1]{
 -- Page 61, Offset 342.
 -- 雨音さえあればいつまでも待ち続けられる、といった風。
-  Il donnait l'impression de pouvoir attendre éternellement tant qu'il y aurait le son de la pluie.
+　Il donnait l'impression de pouvoir attendre éternellement tant qu'il y aurait le son de la pluie.
 
 }
 [sha:3fbb1356e1f8d98af24b968b2a7b296e0de899c7]{
@@ -1195,43 +1195,43 @@ La directive de “ne rien faire”,
 [sha:207148f17e8fabbd222604a9515d6755a70e39e9]{
 -- Page 62, Offset 344. Glued.
 -- うん、どうなんだろう』
-  Hmm, je me demande ce qui le retient.』
+　Hmm, je me demande ce qui le retient.』
 
 }
 [sha:3749c7d066f51f58b006d9a20a012fe37cec2057]{
 -- Page 62, Offset 345.
 -- それでも漠然と、いちおう時計を気にしながら、ぼんやりと雨音を聴く。
-  Malgré tout, il écoutait distraitement la pluie tomber en faisant vaguement attention à l'heure.
+　Malgré tout, il écoutait distraitement la pluie tomber en faisant vaguement attention à l'heure.
 
 }
 [sha:cf8191e530d60a6650835e5586674b89cf966c29]{
 -- Page 63, Offset 346.
 -- 休日の校舎に<雑音|かいわ>はない。
-  Dans l'établissement, en ce jour de repos, il n'entendait aucune conversation.
+　Dans l'établissement, en ce jour de repos, il n'entendait aucune conversation.
 
 }
 [sha:669201b6cc12c8c72468a6b95fd8a77e1306c49c]{
 -- Page 63, Offset 347.
 -- ポツポツと窓を叩く雨。
-  La pluie tapotait régulièrement contre la fenêtre.
+　La pluie tapotait régulièrement contre la fenêtre.
 
 }
 [sha:c46c2e71fdadc5efa50b07bf41c5cb0538aeb6d1]{
 -- Page 63, Offset 348.
 -- しん……と沈みこむ空気の<軋|きし>み。
-  Un crissement sinistre dans l'air.
+　Un crissement sinistre dans l'air.
 
 }
 [sha:a750020776aba4d0dc2f5be580e8719b7403d670]{
 -- Page 63, Offset 349.
 -- それと、
-  Puis,
+　Puis,
 
 }
 [sha:f29628342cdb2c08ce50db3d7bc1304b9a6b517d]{
 -- Page 63, Offset 350.
 -- カツカツとまっすぐに、<力|ちから>強く響いてくる<靴|くつ>の音。
-  le bruit de chaussures qui claquaient et s'approchaient en retentissant bruyamment.
+　le bruit de chaussures qui claquaient et s'approchaient en retentissant bruyamment.
 
 }
 [sha:88f72e063e5ca1197b772e614f7e53ecb2538399]{
@@ -1243,13 +1243,13 @@ La directive de “ne rien faire”,
 [sha:aa195eca4aa07451e19b69ecbc02caa82d908269]{
 -- Page 64, Offset 352.
 -- 軽い足音と、それより重い大人の足音が聞こえる。
-  Il pouvait entendre de légers bruits de pas et ceux, plus lourds, d'un adulte.
+　Il pouvait entendre de légers bruits de pas et ceux, plus lourds, d'un adulte.
 
 }
 [sha:3dea91e6d5e32523a5f2b5d0090b5dcf71e44722]{
 -- Page 64, Offset 353.
 -- 彼がほっと安堵の息をもらした時、会議室の扉がスライドした。
-  Lorsqu'il lâcha un soupir de soulagement, la porte de la salle coulissa.
+　Lorsqu'il lâcha un soupir de soulagement, la porte de la salle coulissa.
 
 }
 [sha:fc9bb498a7ebe3d1bcfa462c090419d31ee57148]{
@@ -1261,13 +1261,13 @@ La directive de “ne rien faire”,
 [sha:d9de5286aae1fedace126536114cfd4995c44a55]{
 -- Page 65, Offset 355.
 -- まず目に入ったのが、バツの悪そうな笑顔をした、眼鏡をかけた男性。
-  La première chose qu'il vit fut un homme portant des lunettes et arborant un sourire gêné.
+　La première chose qu'il vit fut un homme portant des lunettes et arborant un sourire gêné.
 
 }
 [sha:43326aa175e9357cb26e995b71c0da592f6477a9]{
 -- Page 65, Offset 356.
 -- たしか<山城和樹|やましろかずき>という先生で、ここに案内してくれたのも彼だった。
-  D'après ses souvenirs, c'était le professeur du nom de Yamashiro Kazuki. C'était aussi lui qui l'avait amené ici.
+　D'après ses souvenirs, c'était le professeur du nom de Yamashiro Kazuki. C'était aussi lui qui l'avait amené ici.
 
 }
 [sha:f29c0efde7db6fb79b3db4177f23e6daeba5d21e]{
@@ -1279,31 +1279,31 @@ La directive de “ne rien faire”,
 [sha:05a2cbd6b28900f592f523742192cedb9cb5a334]{
 -- Page 66, Offset 358.
 -- ……酷いなあ、話し相手になってあげてと言ったのに」
-  ...... Ce n'est pas gentil de sa part, je lui avais pourtant demandé de te tenir compagnie.」
+　...... Ce n'est pas gentil de sa part, je lui avais pourtant demandé de te tenir compagnie.」
 
 }
 [sha:c5c66a80ff22c09a9920bd6c8b43e463c069632e]{
 -- Page 66, Offset 359.
 -- 山城氏はますます申し訳なさそうに頭をかく。
-  Il secouait la tête d'un air de plus en plus désolé.
+　Il secouait la tête d'un air de plus en plus désolé.
 
 }
 [sha:2ffb5c00b88668d501e05c3035765b5025742963]{
 -- Page 66, Offset 360.
 -- その後ろから、
-  Et derrière lui,
+　Et derrière lui,
 
 }
 [sha:9dfeea3990082a60e3044fb0a5b6589ebdf0eb69]{
 -- Page 67, Offset 361.
 -- 不機嫌そうに口を閉ざしたまま。
-  la bouche fermée d'un air mécontent,
+　la bouche fermée d'un air mécontent,
 
 }
 [sha:0e204439780b9f74063b1eb6c8326cd15a984d62]{
 -- Page 67, Offset 362.
 -- 迷いのない眼差しで、長い黒髪の少女が現れた。
-  une jeune fille, au regard déterminé et aux longs cheveux bruns, apparut.
+　une jeune fille, au regard déterminé et aux longs cheveux bruns, apparut.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1315,25 +1315,25 @@ La directive de “ne rien faire”,
 [sha:17f8e88f387cc1c1599615c018078d9bb715dd66]{
 -- Page 68, Offset 364.
 -- 呆然と息を<呑|の>む。
-  Abasourdi, il retint son souffle.
+　Abasourdi, il retint son souffle.
 
 }
 [sha:b09531b593cceac89c3e4b490dc9438e9622a786]{
 -- Page 68, Offset 365.
 -- 窓を打つ雨音が<聴覚|せかい>から消失する。
-  Le son des gouttes de pluie tapant sur la fenêtre disparut de son monde.
+　Le son des gouttes de pluie tapant sur la fenêtre disparut de son monde.
 
 }
 [sha:569661c1140620daadfecbc38acc51f9912ce974]{
 -- Page 68, Offset 366.
 -- ……この時。
-  ...... À ce moment,
+　...... À ce moment,
 
 }
 [sha:0baffb0be2f308e229df82f65ac683a82f69f105]{
 -- Page 68, Offset 367.
 -- 錯覚ではあれ、時間の経過を感じなくなる事は本当にあるのだと、彼ははじめて思い知った。
-  même si c'était une illusion, il réalisa pour la première fois qu'on pouvait vraiment ne plus être capable de ressentir le cours du temps.
+　même si c'était une illusion, il réalisa pour la première fois qu'on pouvait vraiment ne plus être capable de ressentir le cours du temps.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -1345,19 +1345,19 @@ La directive de “ne rien faire”,
 [sha:7344220489509971234f71a65ca497175f4c75f6]{
 -- Page 69, Offset 369.
 -- 彼女はほんの少し、驚くように<瞬|またた>いた。
-  Elle battit des paupières, un peu surprise.
+　Elle battit des paupières, un peu surprise.
 
 }
 [sha:ffce97b8b9295be3a1ee8a54e5afe8994a143e95]{
 -- Page 69, Offset 370.
 -- 理由は不明。
-  La raison lui était inconnue.
+　La raison lui était inconnue.
 
 }
 [sha:4e77425e512b54a4083b9e482cf44e29a6de8653]{
 -- Page 69, Offset 371.
 -- 先だって聞いていた通り、少年は純朴な田舎のイメージそのものだったのに、直感的に“納得いかない”と反発して。
-  Comme on le lui avait dit à l'instant, le jeune homme était l'image même du campagnard naïf, mais elle rejeta d'instinct cette idée, la considérant comme “irrecevable”.
+　Comme on le lui avait dit à l'instant, le jeune homme était l'image même du campagnard naïf, mais elle rejeta d'instinct cette idée, la considérant comme “irrecevable”.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1369,31 +1369,31 @@ La directive de “ne rien faire”,
 [sha:d9f7fcf89e1a58c28321ac5e3d781501997ef809]{
 -- Page 70, Offset 373.
 -- 彼はほんの少し、驚くように目を開いた。
-  Il écarquilla les yeux, un peu surpris.
+　Il écarquilla les yeux, un peu surpris.
 
 }
 [sha:d911da02dc286d6fd3f7601b6a861416004389be]{
 -- Page 70, Offset 374.
 -- 理由は明白。
-  La raison lui était évidente.
+　La raison lui était évidente.
 
 }
 [sha:d0db8b97a50c7ca1699d661f5d4bf479091c198d]{
 -- Page 70, Offset 375.
 -- ……ただ、それを正しくカタチにできる言葉を知らなかったので、結局こちらも解答欄は空白のまま。
-  ...... C'était juste qu'il ne savait pas la décrire correctement avec des mots. Finalement, lui aussi resta sans voix.
+　...... C'était juste qu'il ne savait pas la décrire correctement avec des mots. Finalement, lui aussi resta sans voix.
 
 }
 [sha:59f4d95c78ee9a8361181caf59ac8be21740eb49]{
 -- Page 71, Offset 376.
 -- この瞬間。
-  À cet instant,
+　À cet instant,
 
 }
 [sha:03d997272d71299361a50533ee36e199a3a299c3]{
 -- Page 71, Offset 377.
 -- 少年はたしかに、何か運命じみたものに触れた気がした。
-  le jeune homme avait en effet eu l'impression d'être touché par ce qui semblait être le destin.
+　le jeune homme avait en effet eu l'impression d'être touché par ce qui semblait être le destin.
 
 }
 [sha:69c8b77f1ee9b7d851b24e67024146dc1179dec6]{
@@ -1405,169 +1405,169 @@ La directive de “ne rien faire”,
 [sha:98b2fb7c1dc2f64495a2a0b56eab83aa53550cd5]{
 -- Page 72, Offset 379.
 -- で、こっちの彼女が静希くんの案内役。
-  Et voici la présidente du conseil étudiant,
+　Et voici la présidente du conseil étudiant,
 
 }
 [sha:3658475d83e86b927f28fb7efa2a4abeab1a2527]{
 -- Page 72, Offset 380.
 -- うちの生徒会長で、休日を押して新しい仲間の案内役を買って出てくれた、<蒼崎|あおざき><青子|あおこ>くんだ」
-  qui a renoncé à son jour de repos et accepté le rôle de guide pour son nouveau camarade, Aozaki Aoko.」
+　qui a renoncé à son jour de repos et accepté le rôle de guide pour son nouveau camarade, Aozaki Aoko.」
 
 }
 [sha:e27394f1934ab93c0dc4a357dd7959c3726e77f0]{
 -- Page 73, Offset 381.
 -- ―――声も雨音も<仄|ほの>かに遠く。
-  ―――Les voix et le son de la pluie étaient vaguement lointains.
+　―――Les voix et le son de la pluie étaient vaguement lointains.
 
 }
 [sha:0ab6ad8336573a40a60bcf53bec33f1c10bade19]{
 -- Page 73, Offset 382.
 -- 二人の出会いはこんな感じ。
-  Voilà à quoi ressemblait leur rencontre.
+　Voilà à quoi ressemblait leur rencontre.
 
 }
 [sha:26a4bae81673d79419295ead72c6ac68d58c94e8]{
 -- Page 73, Offset 383.
 -- 良きにしろ<悪|わる>きにしろ、バチッと火花が散るような、そんな、どうでもいい始まりだった。
-  Que ce soit pour le meilleur ou pour le pire, c'était juste l'un de ces préambules banals, comme un jaillissement d'étincelles.
+　Que ce soit pour le meilleur ou pour le pire, c'était juste l'un de ces préambules banals, comme un jaillissement d'étincelles.
 
 }
 [sha:fc062dfdd52d8ff25d50382ac39c88e284b590f8]{
 -- Page 74, Offset 384.
 -- 生徒たちの通説によると。
-  Selon l'opinion générale des élèves,
+　Selon l'opinion générale des élèves,
 
 }
 [sha:32346bb291f71b3a56341c749f94031ce2c14acb]{
 -- Page 74, Offset 385.
 -- 蒼崎青子は、いつもご機嫌ななめである。
-  Aozaki Aoko était toujours de mauvaise humeur.
+　Aozaki Aoko était toujours de mauvaise humeur.
 
 }
 [sha:9628e32fecde5ba11d16e23b4ed10cd704dc3bb9]{
 -- Page 75, Offset 386.
 -- これは九割がた偏見で、青子だって、そんな四六時中イライラできるほど暇ではない。
-  De l'avis de 90 % d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
+　De l'avis de 90 % d'entre eux, même Aoko n'avait pas assez de temps libre pour être énervée 24 heures sur 24.
 
 }
 [sha:b0a599ee1dc1e3967849fe674b5c67509960d855]{
 -- Page 75, Offset 387.
 -- 彼女は単に言い訳をしたがらない性格なだけで、
-  Son tempérament était simplement tel qu'elle ne cherchait jamais à se défiler,
+　Son tempérament était simplement tel qu'elle ne cherchait jamais à se défiler,
 
 }
 [sha:ac5a823cd840234fe6cc8d71b58073388650ebd1]{
 -- Page 75, Offset 388.
 -- たえず微妙に、ときに露骨に、見えない何かに対して怒っているように見えるだけなのだ。
-  et elle avait juste l'air énervée, en général subtilement et parfois franchement, par quelque chose d'invisible.
+　et elle avait juste l'air énervée, en général subtilement et parfois franchement, par quelque chose d'invisible.
 
 }
 [sha:9281d955e92e607b0885c8dc979f26357200464d]{
 -- Page 75, Offset 389.
 -- なので九割がたは偏見の、噂に尾ひれのついた学園七脅威の一つにすぎない。
-  Et donc, 90 % des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
+　Et donc, 90 % des élèves pensaient que ce n'était qu'une des sept histoires de fantômes infondées de l'école montées en épingle par les rumeurs.
 
 }
 [sha:4f41e65113f123dac93e04deb1379707decfa5c7]{
 -- Page 76, Offset 390.
 -- ただし、残りの一割は真実だ。
-  Mais les 10 % restants étaient dans le vrai.
+　Mais les 10 % restants étaient dans le vrai.
 
 }
 [sha:88b08b835d2915d31dcc3c552481472c78d32283]{
 -- Page 76, Offset 391.
 -- 青子自身、自分が慢性的な頭痛持ちなんじゃないかと疑うほど、無害なものに反感を覚える事があったりする。
-  Il arrivait à Aoko de montrer une telle animosité envers des choses inoffensives qu'elle se soupçonnait d'être victime de maux de tête chroniques.
+　Il arrivait à Aoko de montrer une telle animosité envers des choses inoffensives qu'elle se soupçonnait d'être victime de maux de tête chroniques.
 
 }
 [sha:48e1d3c574768a967407979b76d27c6f379ffbfe]{
 -- Page 76, Offset 392.
 -- 今日はその一割の話。
-  Ce jour-là correspondait à ces 10 %.
+　Ce jour-là correspondait à ces 10 %.
 
 }
 [sha:c64764c48721ee3c71395242df863fd6b38168ed]{
 -- Page 76, Offset 393.
 -- そういう時にかぎって彼女の怒りは純真な、
-  C'était dans ces moments-là,
+　C'était dans ces moments-là,
 
 }
 [sha:381f061eabf1e75a9b0350034edffead6cdecbad]{
 -- Page 76, Offset 394.
 -- 年相応に子供らしいわがままだったりするのだが。
-  que sa colère ressemblait vraiment à l'égoïsme innocent d'un enfant.
+　que sa colère ressemblait vraiment à l'égoïsme innocent d'un enfant.
 
 }
 [sha:c6328892d8d7294b658e15a59f3e2b031e277f8d]{
 -- Page 77, Offset 395.
 -- 会議室は薄暗い、雨の色に染まっていた。
-  La salle de conférence était teintée de la couleur sombre de la pluie.
+　La salle de conférence était teintée de la couleur sombre de la pluie.
 
 }
 [sha:7a6f599297d9f419ad35ce9283a30536dfade392]{
 -- Page 77, Offset 396.
 -- 電気代節約のため、昼間は電灯をつけないのが学校のルールだ。
-  L'une des règles de l'école voulait que les lumières restent éteintes pendant la journée afin d'économiser l'électricité.
+　L'une des règles de l'école voulait que les lumières restent éteintes pendant la journée afin d'économiser l'électricité.
 
 }
 [sha:943b707b711c472fb05f78bbc1178796d89bd88b]{
 -- Page 77, Offset 397.
 -- そんな中に、<件|くだん>の人物は立っていた。
-  L'individu à l'origine du problème se tenait debout à l'intérieur.
+　L'individu à l'origine du problème se tenait debout à l'intérieur.
 
 }
 [sha:2b4a013c68c307c8bbf0f5d78a41a604b7496cba]{
 -- Page 78, Offset 398.
 -- 第一印象は、野花を連想させる落ち着き様。
-  La première impression qu'il donnait était celle de la tranquillité des fleurs sauvages.
+　La première impression qu'il donnait était celle de la tranquillité des fleurs sauvages.
 
 }
 [sha:c81f73687808f0ca161c87b0970339fc973c5901]{
 -- Page 78, Offset 399.
 -- すっと伸びた背筋のクセに、全体的に力が抜けていて、とにかくおとなしい。
-  Alors que son dos était bien droit, il n'était absolument pas tendu ; en clair, il était calme.
+　Alors que son dos était bien droit, il n'était absolument pas tendu ; en clair, il était calme.
 
 }
 [sha:a866f3aeb84fa142992b6521eb21f11928989cb8]{
 -- Page 78, Offset 400.
 -- ひょろり、とはいかないまでも、ひっそり、ぐらいの<頼|たよ>りなさ。
-  Toutefois, c'était ténu, mais il ne semblait pas tout à fait rassuré.
+　Toutefois, c'était ténu, mais il ne semblait pas tout à fait rassuré.
 
 }
 [sha:f117184fc0e08e95ef917acfb05e241a9a2a6ebd]{
 -- Page 79, Offset 401.
 -- 制服の上からでも分かる、標準よりやや細い体つき。
-  On pouvait voir, même avec son uniforme, qu'il avait un physique plus fin que la moyenne.
+　On pouvait voir, même avec son uniforme, qu'il avait un physique plus fin que la moyenne.
 
 }
 [sha:af2812ff25d5d704ed358d4f0ac27b71ecd9ed33]{
 -- Page 79, Offset 402.
 -- あまり手入れをされていない黒髪と、とくに目を引く部分のない少年像が、そこにはあった。
-  Se trouvait ici le portrait d'un adolescent banal dont les cheveux noirs n'étaient pas très soignés et dont les paupières ne battaient pas souvent.
+　Se trouvait ici le portrait d'un adolescent banal dont les cheveux noirs n'étaient pas très soignés et dont les paupières ne battaient pas souvent.
 
 }
 [sha:e05ad66ea88d0af8d583ef538b8ff8f203bb05ad]{
 -- Page 79, Offset 403.
 -- いや。その<凡庸|ぼんよう>さを好意的に解釈するなら、少年ではなく青年っぽいというべきだろう。
-  Non. S'il fallait le présenter sous un jour favorable, il faisait plus jeune homme qu'adolescent.
+　Non. S'il fallait le présenter sous un jour favorable, il faisait plus jeune homme qu'adolescent.
 
 }
 [sha:7172d700df104799a139fec878fa9e23f8f32c15]{
 -- Page 79, Offset 404.
 -- 落ち着いた雰囲気がどことなく大人びている。
-  Cette impression de calme démontrait sa maturité.
+　Cette impression de calme démontrait sa maturité.
 
 }
 [sha:375442310c2792abd71335e8abf3f3b62dd84598]{
 -- Page 80, Offset 405.
 -- ……そのあたりが青子の“理由なき反感”に繋がったのか。
-  ...... Peut-être était-ce lié à la déraisonnable animosité d'Aoko,
+　...... Peut-être était-ce lié à la déraisonnable animosité d'Aoko,
 
 }
 [sha:26487433c27fb023e159e7e3ffe3050374bcca57]{
 -- Page 80, Offset 406.
 -- 少年はあまりに自然で、違和感なく会議室の風景に溶けこんでいた。学校では彼の方が異分子なのに、自分たちの方が客人になったような錯覚。
-  mais l'adolescent se fondait naturellement, sans sentiment d'incongruité, dans le décor de la salle. À l'école, il était l'élément étranger, et pourtant, il donnait l'impression qu'Aoko et le professeur étaient les invités.
+　mais l'adolescent se fondait naturellement, sans sentiment d'incongruité, dans le décor de la salle. À l'école, il était l'élément étranger, et pourtant, il donnait l'impression qu'Aoko et le professeur étaient les invités.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -1579,13 +1579,13 @@ La directive de “ne rien faire”,
 [sha:34a1d14c1e8d62d40b8092f5aafa3f19f156eeb0]{
 -- Page 81, Offset 408.
 -- まるで、自分たちが持って生まれた正当性を<糾|ただ>されたような、正体不明の苛立ち。
-  Comme si leur légitimité naturelle avait été amendée. Ce désagrément était inexplicable.
+　Comme si leur légitimité naturelle avait été amendée. Ce désagrément était inexplicable.
 
 }
 [sha:ed87963afd921f2b836c1845112d76b614d56a16]{
 -- Page 81, Offset 409.
 -- カチン、と警戒心にスイッチが入るのを青子は感じた。
-  Aoko sentit qu'elle se mettait sur la défensive.
+　Aoko sentit qu'elle se mettait sur la défensive.
 
 }
 [sha:cdd28b73c0d26f320ea92be2cc9e60a2f8e6bf11]{
@@ -1597,19 +1597,19 @@ La directive de “ne rien faire”,
 [sha:ff9e749374e5643b55da945c875624465f24cba2]{
 -- Page 82, Offset 411.
 -- 私、いま<意|ワ><味|ケ>もなく怒ってない……？』
-  En ce moment, je suis énervée sans aucune raison......?』
+　En ce moment, je suis énervée sans aucune raison......?』
 
 }
 [sha:7e43ed9b3bb6a1ad5d0759fd7f1107eef845ef13]{
 -- Page 83, Offset 412.
 -- 分からない事は苛立たしい。自分の<感|コ><情|ト>なら尚更だ。
-  Ce qu'elle ne comprenait pas l'énervait. D'autant plus lorsque c'était elle-même.
+　Ce qu'elle ne comprenait pas l'énervait. D'autant plus lorsque c'était elle-même.
 
 }
 [sha:edbd02c5c1bc7b688854741d0c205a0e031e808f]{
 -- Page 83, Offset 413.
 -- 完璧主義者である彼女にとって、それは痛くはないけど気がかりなトゲのようなもので、
-  Pour une perfectionniste comme elle, ce n'était pas qu'elle en souffrait, mais ça l'importunait comme une écharde plantée sous l'ongle.
+　Pour une perfectionniste comme elle, ce n'était pas qu'elle en souffrait, mais ça l'importunait comme une écharde plantée sous l'ongle.
 
 }
 [sha:e0b2c471e8b920485f3457d4ba4b6c8cce1ce74e]{
@@ -1621,7 +1621,7 @@ La directive de “ne rien faire”,
 [sha:f1f4e036f069c34e9a0a1c19c76d9503fdf339ea]{
 -- Page 83, Offset 415.
 -- 山城の場を取り<繕|つくろ>う声にも、わりと本気でイラっとした。
-  De plus, entendre Yamashiro essayer de s'en tirer tant bien que mal lui tapait sérieusement sur les nerfs.
+　De plus, entendre Yamashiro essayer de s'en tirer tant bien que mal lui tapait sérieusement sur les nerfs.
 
 }
 [sha:3c6aa62476dd5f8f4a6ce5e32b7865e38d91da2c]{
@@ -1633,25 +1633,25 @@ La directive de “ne rien faire”,
 [sha:37a79e8b791f24b70ce33ba4b71eac15be09a94b]{
 -- Page 84, Offset 417.
 -- じろりと山城を横目で睨んでから、青子はまっすぐに少年を見据えた。
-  Après avoir foudroyé des yeux Yamashiro, elle ramena son regard sur le garçon.
+　Après avoir foudroyé des yeux Yamashiro, elle ramena son regard sur le garçon.
 
 }
 [sha:08a6aeabae9970749ea72988720de14e542ed0dd]{
 -- Page 84, Offset 418.
 -- いや、第三者的に見れば、正面から睨みつけた。
-  Non, du point de vue d'une tierce personne, elle le dévisageait.
+　Non, du point de vue d'une tierce personne, elle le dévisageait.
 
 }
 [sha:59f4d95c78ee9a8361181caf59ac8be21740eb49]{
 -- Page 84, Offset 419.
 -- この瞬間。
-  À cet instant,
+　À cet instant,
 
 }
 [sha:21c3af81c7c9e8519859c209b102f240f4dfbad9]{
 -- Page 84, Offset 420.
 -- 災難なことに、彼女の感情の矛先はぴったりと、なんの罪もない初対面の少年に向けられたのである。
-  malheureusement pour lui, les émotions de la jeune fille étaient dirigées directement vers le garçon innocent qu'elle rencontrait pour la première fois.
+　malheureusement pour lui, les émotions de la jeune fille étaient dirigées directement vers le garçon innocent qu'elle rencontrait pour la première fois.
 
 }
 [sha:72b25e02d025f7ad4073a3d1954ec4d17dc32975]{
@@ -1663,25 +1663,25 @@ La directive de “ne rien faire”,
 [sha:e8aca9f94d81a3146d5781c4685134d2c29beef3]{
 -- Page 85, Offset 422.
 -- 名前を呼ばれて少年……草十郎は我に返った。
-  Lorsque son nom fut prononcé, le garçon...... Sōjūrō revint à lui.
+　Lorsque son nom fut prononcé, le garçon...... Sōjūrō revint à lui.
 
 }
 [sha:4f533641d7d52d6f86e5bdd5c85cf8f15fe9651a]{
 -- Page 85, Offset 423.
 -- 見惚れていた目をゆるめて、
-  Son regard admiratif se détendit,
+　Son regard admiratif se détendit,
 
 }
 [sha:2ad985a5661cf7ef1f8a26f7cd0cf61dfac2a7cc]{
 -- Page 85, Offset 424.
 -- 目眩を飲みこむように息を吸う。
-  puis il inspira comme pour réfréner un début de migraine.
+　puis il inspira comme pour réfréner un début de migraine.
 
 }
 [sha:cf64a247153a288b8083d3ceab6459c2ac1741c5]{
 -- Page 85, Offset 425.
 -- その仕草から緊張していると見たのか、山城教諭は穏やかに笑って、かたわらの少女に語りかけた。
-  Pensant sans doute que cette action était due au stress, Yamashiro rit paisiblement et s'adressa à la jeune fille à ses côtés.
+　Pensant sans doute que cette action était due au stress, Yamashiro rit paisiblement et s'adressa à la jeune fille à ses côtés.
 
 }
 [sha:511a8d2fc738c75a1a825e52aa11224a646c0b1d]{
@@ -1693,97 +1693,97 @@ La directive de “ne rien faire”,
 [sha:e98279d57d70cab7dc2dc88794bc5a27b48b4545]{
 -- Page 86, Offset 427.
 -- で、こっちの彼女が静希くんの案内役。うちの生徒会長で、休日を押して新しい仲間の案内役を買って出てくれた、蒼崎青子くんだ」
-  Et voici la présidente du conseil étudiant, qui a renoncé à son jour de repos et accepté le rôle de guide pour son nouveau camarade, Aozaki Aoko.」
+　Et voici la présidente du conseil étudiant, qui a renoncé à son jour de repos et accepté le rôle de guide pour son nouveau camarade, Aozaki Aoko.」
 
 }
 [sha:cb4aaccf416f7cd9956b1e771a9bf99fad8a0ff3]{
 -- Page 87, Offset 428.
 -- 山城教諭に紹介され、少女は一歩前に出る。
-  Présentée par M. Yamashiro, elle avança d'un pas.
+　Présentée par M. Yamashiro, elle avança d'un pas.
 
 }
 [sha:69998050365976a7ecb3381e27341d10d8351f9b]{
 -- Page 87, Offset 429.
 -- 視線に容赦はない。
-  Son regard était implacable.
+　Son regard était implacable.
 
 }
 [sha:2d613d14f79341ebd26e19c54bdc24a74ef472bb]{
 -- Page 87, Offset 430.
 -- ほとんど暴力に近い、<値|ね><踏|ぶ>みするような凝視。
-  C'était un regard fixe, proche de la colère et qui semblait l'évaluer.
+　C'était un regard fixe, proche de la colère et qui semblait l'évaluer.
 
 }
 [sha:c68c7258b57fd2e6ea47d01635a202f4b2844010]{
 -- Page 88, Offset 431.
 -- <一方|いっぽう>草十郎は、正面から堂々と見つめられる事に驚きつつ、なんとか平静を保っていた。
-  De son côté, Sōjūrō, tout en étant étonné d'être dévisagé sans la moindre vergogne, parvenait sans trop qu'on sache comment à garder son calme.
+　De son côté, Sōjūrō, tout en étant étonné d'être dévisagé sans la moindre vergogne, parvenait sans trop qu'on sache comment à garder son calme.
 
 }
 [sha:019d7c4c586693b18e0eb9f2d19245d1cff69dbe]{
 -- Page 88, Offset 432.
 -- これまでこういう挨拶には出会わなかったけれど、都会では珍しいものではないのだろう、と勘違いしての事である。
-  Il se méprit en pensant, même s'il n'avait encore jamais vécu ce genre de présentation, que ça ne devait pas être rare en ville.
+　Il se méprit en pensant, même s'il n'avait encore jamais vécu ce genre de présentation, que ça ne devait pas être rare en ville.
 
 }
 [sha:f925dfa7a4fe94689c9343aaa92f7becf49e9fc8]{
 -- Page 89, Offset 433.
 -- そんなふたりのやり取りは、第三者視点からすると壮絶なものがあった。
-  D'un point de vue extérieur, il y avait dans leur échange quelque chose de sublime.
+　D'un point de vue extérieur, il y avait dans leur échange quelque chose de sublime.
 
 }
 [sha:1e12aa661a6739a932d06569dc4eb9b70e76d907]{
 -- Page 89, Offset 434.
 -- とにかく因縁をつけたがっている乱暴者と、
-  D'un côté, la fille violente qui cherchait la bagarre,
+　D'un côté, la fille violente qui cherchait la bagarre,
 
 }
 [sha:e48662d63b87bc974d5a2ee91a2c19eb2c8410bc]{
 -- Page 89, Offset 435.
 -- それを何事だろう、と真剣に眺めている田舎者。
-  et de l'autre, le campagnard qui la contemplait avec sérieux, se demandant ce qui se passait.
+　et de l'autre, le campagnard qui la contemplait avec sérieux, se demandant ce qui se passait.
 
 }
 [sha:eec24723e66a467ddd972c2efb3d834d08da3891]{
 -- Page 89, Offset 436.
 -- 当事者たちはともかく、周りにいる人間にとっては蛇の生殺しに近い。
-  À l'exception de ces deux-là, pour les personnes qui étaient aux alentours, ça ressemblait à un combat à mort entre deux serpents.
+　À l'exception de ces deux-là, pour les personnes qui étaient aux alentours, ça ressemblait à un combat à mort entre deux serpents.
 
 }
 [sha:f07aa0fbe72427fb06d58601d644e8db6d263f0b]{
 -- Page 90, Offset 437.
 -- たとえば、青子の後ろにいる山城教諭とか。
-  Comme par exemple, M. Yamashiro derrière Aoko.
+　Comme par exemple, M. Yamashiro derrière Aoko.
 
 }
 [sha:e2e45be68728f9eb076f4af03918da7115b554c2]{
 -- Page 90, Offset 438.
 -- 良かれと思って案内役に優等生を選んでみたものの、なぜかその優等生はご機嫌ななめ。今もピリピリと空気を<震|ふる>わせている。
-  Il avait pensé bien faire en choisissant comme guide une élève modèle, mais on ne savait trop pourquoi, celle-ci était de mauvaise humeur. Même maintenant, l'atmosphère était tendue.
+　Il avait pensé bien faire en choisissant comme guide une élève modèle, mais on ne savait trop pourquoi, celle-ci était de mauvaise humeur. Même maintenant, l'atmosphère était tendue.
 
 }
 [sha:2585d86ee8980f8d16bab3d9b570391f200841e2]{
 -- Page 91, Offset 439.
 -- ここに至って、山城は自らの失敗を受け入れた。
-  Arrivé ici, Yamashiro reconnut son erreur.
+　Arrivé ici, Yamashiro reconnut son erreur.
 
 }
 [sha:e311aae1afe510bf020f798f02e95077b18cbbe2]{
 -- Page 91, Offset 440.
 -- 今さらの話ではあるが、
-  C'était un peu tard,
+　C'était un peu tard,
 
 }
 [sha:277f1d710b0ea2d9538c833ccc0601a02ba46dd5]{
 -- Page 91, Offset 441.
 -- この、万事をそつなく解決する女子生徒は、扱いどころを間違えると一転して学校を<震|ふる>わす嵐になる。
-  mais cette lycéenne, qui résolvait tout problème avec efficacité, pouvait devenir un cataclysme à en faire trembler l'école si on commettait une erreur lorsqu'elle entrait en scène.
+　mais cette lycéenne, qui résolvait tout problème avec efficacité, pouvait devenir un cataclysme à en faire trembler l'école si on commettait une erreur lorsqu'elle entrait en scène.
 
 }
 [sha:51e5269f33d6ee0da8b63f0d4dd3ed298c6a54a0]{
 -- Page 91, Offset 442.
 -- オールマイティの絵柄が<悪魔|ジョーカー>みたいなもので、そんな時、現場に居合わせた教師はたいてい、<不祥事|ふしょうじ>の責任を取らされるのだ。
-  Ce plan multifonction constituait une sorte de dernier recours, et les professeurs présents par hasard à ce moment-là étaient en général tenus pour responsables de tout scandale.
+　Ce plan multifonction constituait une sorte de dernier recours, et les professeurs présents par hasard à ce moment-là étaient en général tenus pour responsables de tout scandale.
 
 }
 [sha:1849f6c099a4d989603c0abde848b6bcc5ee7646]{
@@ -1795,13 +1795,13 @@ La directive de “ne rien faire”,
 [sha:47058a58b08abc7862b7deb7324eb56270cc760a]{
 -- Page 92, Offset 444.
 -- ……それじゃ、僕はこのヘンでいいかな？」
-  ...... Bon, eh bien, je peux vous laisser à présent ?」
+　...... Bon, eh bien, je peux vous laisser à présent ?」
 
 }
 [sha:2e3d06a7122b5702db9677ea873daf0778b2219e]{
 -- Page 92, Offset 445.
 -- あはは、と白けた笑い声をあげながら、山城教諭はそろりそろりと扉に後じさった。
-  Tout en riant sans entrain, M. Yamashiro se dirigea lentement et à reculons vers la porte.
+　Tout en riant sans entrain, M. Yamashiro se dirigea lentement et à reculons vers la porte.
 
 }
 [sha:ecff7813aa4ef1821b32d64bf3bd11b34899a840]{
@@ -1813,55 +1813,55 @@ La directive de “ne rien faire”,
 [sha:b81f66757dbf153fc2ba123d104a6b4012776d1d]{
 -- Page 93, Offset 447.
 -- いいかい蒼崎くん、くれぐれも、くれぐれもだぜ？
-  Aozaki, du calme... du calme, d'accord ?
+　Aozaki, du calme... du calme, d'accord ?
 
 }
 [sha:58f60c298ccd66117a3e471b3713b37c693d1578]{
 -- Page 93, Offset 448.
 -- なんていうか、生徒会長としての度量の広さを、このさい僕に信じさせてほしいかな！」
-  S'il te plaît, sur ce coup-ci, j'aimerais pouvoir faire confiance à ta grande mansuétude en tant que présidente du conseil étudiant !」
+　S'il te plaît, sur ce coup-ci, j'aimerais pouvoir faire confiance à ta grande mansuétude en tant que présidente du conseil étudiant !」
 
 }
 [sha:144e15f1023b9463cead25d0d939f7bd64d5f100]{
 -- Page 94, Offset 449.
 -- 見つめあう……正確に言うと、一方は睨まれている…ふたりをそれきりにして、山城教諭は去っていった。
-  Ils se regardaient l'un l'autre...... Pour être plus précis, l'une fixait l'autre... Les laissant ainsi, M. Yamashiro s'en alla.
+　Ils se regardaient l'un l'autre...... Pour être plus précis, l'une fixait l'autre... Les laissant ainsi, M. Yamashiro s'en alla.
 
 }
 [sha:f02e1fdaf02b2e9b2600b069d668483cdbd701bf]{
 -- Page 94, Offset 450.
 -- 残されたのは<木訥|ぼくとつ>さの化身みたいな少年と、
-  Il ne restait plus qu'un garçon, incarnation de la naïveté,
+　Il ne restait plus qu'un garçon, incarnation de la naïveté,
 
 }
 [sha:d6c02c577f6ba3aae68a95e74290cd1aa107d20f]{
 -- Page 94, Offset 451.
 -- ずーんと腕組みをしている少女だけ。
-  et une jeune fille gardant les bras croisés.
+　et une jeune fille gardant les bras croisés.
 
 }
 [sha:daf59b0cb5f8fdd509e89b96a04d5864d58ae9c2]{
 -- Page 95, Offset 452.
 -- しばしの沈黙。
-  Un court silence.
+　Un court silence.
 
 }
 [sha:874ef434142af6c83e22ea464eaf62c9a34cbe42]{
 -- Page 95, Offset 453.
 -- お互い初手に悩んでいる将棋指しのようだが、その実、思案しているのは自分だけである事に青子は気付いた。
-  Chacun était soucieux de l'adversaire comme dans une partie de shogi, mais Aoko réalisa qu'elle était en fait la seule à y réfléchir.
+　Chacun était soucieux de l'adversaire comme dans une partie de shogi, mais Aoko réalisa qu'elle était en fait la seule à y réfléchir.
 
 }
 [sha:41a5be3b4e5877606e65a09951ed0a3000ae3578]{
 -- Page 96, Offset 454.
 -- とりあえず、<苛々|イライラ>するのは置いておいて。
-  Pour le moment, mettons de côté mon énervement.
+　Pour le moment, mettons de côté mon énervement.
 
 }
 [sha:985d6ef770d43dc7c2334504d523e55e1b4936da]{
 -- Page 96, Offset 455.
 -- そもそも彼に反感を覚える理由はないんだから、と大きくため息をついて、青子は草十郎に向き直った。
-  D'abord, je n'ai aucune raison de ressentir de l'animosité envers lui, pensa-t-elle en expirant un grand coup, avant de faire face à Sōjūrō.
+　D'abord, je n'ai aucune raison de ressentir de l'animosité envers lui, pensa-t-elle en expirant un grand coup, avant de faire face à Sōjūrō.
 
 }
 [sha:61b1576c7af42125ea34a4f2041bdeffbd40c0e1]{
@@ -1879,7 +1879,7 @@ La directive de “ne rien faire”,
 [sha:c725f68289f60bb234832afe97a38c549790d3f9]{
 -- Page 97, Offset 458.
 -- きつい口調は、自分から話しかけてこない少年を非難してのものだ。
-  Son ton acerbe était un reproche envers le garçon qui n'avait pas pris la parole de lui-même.
+　Son ton acerbe était un reproche envers le garçon qui n'avait pas pris la parole de lui-même.
 
 }
 [sha:d7ec93e2ff9c0a24ab7b7feae25c86e29fe6aa7f]{
@@ -1891,7 +1891,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:c3142fdd662e34340709c3e5d33016a1239fe75f]{
 -- Page 98, Offset 460.
 -- そういう毒っ気とは一生<縁|えん>のない顔で、
-  Avec un air montrant qu'il ne serait jamais tenté par ce genre de mauvaise intention, il répondit :
+　Avec un air montrant qu'il ne serait jamais tenté par ce genre de mauvaise intention, il répondit :
 
 }
 [sha:f2884621df5f283cd63d6d06758e7e1699df806b]{
@@ -1903,7 +1903,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:bf85bda93a443fc728783931c0adecd08761aec8]{
 -- Page 98, Offset 462.
 -- なぜか嬉しげに、噛みしめるように応答した。
-  souriant sans raison apparente, les dents serrées.
+　souriant sans raison apparente, les dents serrées.
 
 }
 [sha:245a37b023ae6e9b94888f39bd38d96f4a02638c]{
@@ -1915,7 +1915,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:511d9da8f630345c3a2c45f430801104a127cf2b]{
 -- Page 99, Offset 464.
 -- こっちは静希君でいい？」
-  C'est bon si je t'appelle Shizuki ?」
+　C'est bon si je t'appelle Shizuki ?」
 
 }
 [sha:c508324056e3ba55853058ab613ae4f377c5ac02]{
@@ -1951,7 +1951,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:403f3f48f8b7ce9ad44e7683f1a0d44ace867a29]{
 -- Page 100, Offset 470.
 -- 少年は当たり前のように即答しながら、あれ、そうでもないのか、などとひとりこぼす。
-  répondit-il aussitôt comme si c'était évident, tout en marmonnant que ce n'était peut-être pas le cas.
+　répondit-il aussitôt comme si c'était évident, tout en marmonnant que ce n'était peut-être pas le cas.
 
 }
 [sha:7043cd6953ffdcbb01a037bfedf4ecdeab54ff8f]{
@@ -1963,7 +1963,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:db7f84a30fbc91aea8583d6ecb895d21de2e625d]{
 -- Page 101, Offset 472.
 -- 静希君で頼む。君は蒼崎でいいんだよな？」
-  Tu peux m'appeler Shizuki. Et je t'appelle Aozaki, c'est ça ?」
+　Tu peux m'appeler Shizuki. Et je t'appelle Aozaki, c'est ça ?」
 
 }
 [sha:56d221f5dd78b437b5d3731b5958c04b4ec53433]{
@@ -1975,13 +1975,13 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:2a4134d1431342bf1faec0d9b4b95958ae7e665f]{
 -- Page 101, Offset 474.
 -- 素っ気なく応えて<踵|きびす>を返す青子。
-  répondit sèchement Aoko en tournant les talons.
+　répondit sèchement Aoko en tournant les talons.
 
 }
 [sha:d2a6f53a34f943a0ae11066b65632d0346c2570c]{
 -- Page 101, Offset 475.
 -- 気は乗らないが、任されたからにはきちんと仕事をこなすのが彼女のポリシーである。
-  Elle n'y était pas disposée, mais faire consciencieusement tout travail qu'on lui confiait était un de ses principes.
+　Elle n'y était pas disposée, mais faire consciencieusement tout travail qu'on lui confiait était un de ses principes.
 
 }
 [sha:9298b409173091b6755f9b2a0240b69a0091e0da]{
@@ -1993,7 +1993,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:96114b32c3085278c1fb2cf9c8a2b64a15914986]{
 -- Page 102, Offset 477.
 -- 時間も惜しいし、手早くいくわよ」
-  Je n'ai pas tout mon temps, alors on va faire ça rapidement.」
+　Je n'ai pas tout mon temps, alors on va faire ça rapidement.」
 
 }
 [sha:9023532e6978daf6e3b904ece8fa83af5ec1a783]{
@@ -2005,7 +2005,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:d1ec980f8ecf7c3aec84f9ee9e7adb93f5f16aa1]{
 -- Page 102, Offset 479.
 -- 青子の<直球|いやみ>は、またも効果なくスルーされた。
-  Le sarcasme d'Aoko, une nouvelle fois ignoré, n'avait donné aucun résultat.
+　Le sarcasme d'Aoko, une nouvelle fois ignoré, n'avait donné aucun résultat.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -2017,31 +2017,31 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:37bb6525a6345a2e79a56d68de9a8783e9c182e7]{
 -- Page 103, Offset 481.
 -- どんな行為にしろ、無視をされると余計意識してしまうのが人間である。
-  Quelle qu'en soit la raison, c'était humain d'être encore plus touché lorsque l'on était ignoré.
+　Quelle qu'en soit la raison, c'était humain d'être encore plus touché lorsque l'on était ignoré.
 
 }
 [sha:5cebd721e59df0ced721839d82017cd03a03ca25]{
 -- Page 103, Offset 482.
 -- さっきからことごとく攻撃が<空|から>ぶっている事にムッとしながらも、青子は<努|つと>めて事務的に廊下に出るよう<促|うなが>した。
-  Même si depuis tout à l'heure, le fait de faire chou blanc avec les piques qu'elle lui lançait la rendait morose, Aoko effectua son travail avec sérieux en l'invitant à la suivre dans le couloir.
+　Même si depuis tout à l'heure, le fait de faire chou blanc avec les piques qu'elle lui lançait la rendait morose, Aoko effectua son travail avec sérieux en l'invitant à la suivre dans le couloir.
 
 }
 [sha:aa221931e6d3a46085e76c4a6084c21fa1dc8426]{
 -- Page 104, Offset 483.
 -- 窓のない通路には外からの日差しも、人の気配もない。
-  Le couloir sans fenêtres ne recevait aucun rayon de soleil et était désert.
+　Le couloir sans fenêtres ne recevait aucun rayon de soleil et était désert.
 
 }
 [sha:31748a25766c11e5520ed4c8ffe3dbdcc5c45076]{
 -- Page 104, Offset 484.
 -- 会議室が天然の岩屋なら、こちらは人工の監獄を思わせる。
-  Si la salle de conférence rappelait une grotte naturelle, le couloir évoquait quant à lui une prison créée par l'homme.
+　Si la salle de conférence rappelait une grotte naturelle, le couloir évoquait quant à lui une prison créée par l'homme.
 
 }
 [sha:463fb416b48dcbe65b03f0bf57c8778100211239]{
 -- Page 104, Offset 485.
 -- 実に今の気分にあった廊下だわ、と青子はまたもため息ひとつ。
-  Il représente bien mon humeur actuelle, pensa Aoko tout en soupirant à nouveau.
+　Il représente bien mon humeur actuelle, pensa Aoko tout en soupirant à nouveau.
 
 }
 [sha:6728364ce88e4c105e59d8a8ed6cd8ddd5d6b95b]{
@@ -2059,7 +2059,7 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:3e7dbb794b1dd1b309531cf44349a7b856995171]{
 -- Page 105, Offset 488.
 -- この建物ぜんぶに<同|おな>い<年|どし>の人間がいるなんて、ちょっと想像できないけど」
-  Même si j'ai du mal à imaginer que toutes les personnes qui vont dans ce bâtiment soient du même âge.」
+　Même si j'ai du mal à imaginer que toutes les personnes qui vont dans ce bâtiment soient du même âge.」
 
 }
 [sha:92e65f9617a2001233f51760ad1c04bb4f6acb19]{
@@ -2071,13 +2071,13 @@ Mais celui-ci ne perçut pas le sarcasme présent dans sa voix.
 [sha:322d14943cadf08de6ae6f2ab0159b4cd4d9c3dc]{
 -- Page 106, Offset 490.
 -- 額を指で押さえる青子。
-  répondit Aoko, tout en soutenant son front de ses doigts.
+　répondit Aoko, tout en soutenant son front de ses doigts.
 
 }
 [sha:5f99363a9dbdec2700e3cfc2ea4c3c7e5a72b0ac]{
 -- Page 106, Offset 491.
 -- この草十郎という少年は学校のなんたるかも知らなかった。
-  Ce Sōjūrō ne savait même pas ce qu'était l'école.
+　Ce Sōjūrō ne savait même pas ce qu'était l'école.
 
 }
 [sha:4d87dbecf805fb7f15d4ecb0f3911e6a45fb7d8c]{
@@ -2089,31 +2089,31 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:24a42213f04d113675568e96a4c73768eb8366d7]{
 -- Page 107, Offset 493.
 -- 高校教師は様々な分野の知識や見識、<機構|きこう>と創造性を生徒に教授する。
-  Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensée, les mécanismes et la créativité de différents domaines.
+　Les professeurs du lycée enseignaient à leurs élèves les connaissances et les courants de pensée, les mécanismes et la créativité de différents domaines.
 
 }
 [sha:d868196afabfe8c3f7f7c843779a281dde4224ad]{
 -- Page 107, Offset 494.
 -- が、そもそも学校とは何か、と根本の理念を語る日がこようとは、夢にも思わなかっただろう。
-  Mais quand même, elle n'aurait jamais imaginé qu'un jour, elle aurait à expliquer le concept même de ce qu'était l'école.
+　Mais quand même, elle n'aurait jamais imaginé qu'un jour, elle aurait à expliquer le concept même de ce qu'était l'école.
 
 }
 [sha:cccff164c20d9668f2329c02b4ce2fd31c475f99]{
 -- Page 107, Offset 495.
 -- 基本は大事というが、それにしても基本すぎる。
-  Les bases étaient importantes, mais là, on revenait à un niveau bien trop fondamental.
+　Les bases étaient importantes, mais là, on revenait à un niveau bien trop fondamental.
 
 }
 [sha:d0cd75aaeceb7bfa35366c6cb0c351d9841e6843]{
 -- Page 107, Offset 496.
 -- ……そんなんで高等学校の授業についてこられるのかと青子は疑問を抱いたが、山城教諭曰く、そこは何とかなっていたとのこと。
-  ...... Aoko doutait qu'il puisse suivre les cours du lycée, mais M. Yamashiro lui avait assuré qu'il s'en sortirait d'une façon ou d'une autre.
+　...... Aoko doutait qu'il puisse suivre les cours du lycée, mais M. Yamashiro lui avait assuré qu'il s'en sortirait d'une façon ou d'une autre.
 
 }
 [sha:2317287c033706400e0bddaff780bb4861a63941]{
 -- Page 107, Offset 497.
 -- 一応、転入試験はギリギリでパスしたらしい。
-  Apparemment, il avait réussi de justesse l'examen d'entrée.
+　Apparemment, il avait réussi de justesse l'examen d'entrée.
 
 }
 [sha:c7b38dc326fd98197a720a548abde5bd90009e54]{
@@ -2125,13 +2125,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:7ef005b47e88a799b0a97d09bf30983e14762a50]{
 -- Page 108, Offset 499.
 -- 内心で呟きながら廊下を歩く青子。
-  murmura Aoko en son for intérieur tout en marchant dans le couloir.
+　murmura Aoko en son for intérieur tout en marchant dans le couloir.
 
 }
 [sha:bec261de2194b0e8dd44bb88b6b6c8c7f756e622]{
 -- Page 108, Offset 500.
 -- なんであれ、この<時代錯誤|じだいさくご>な男子と付き合うのは今日だけなのだ、いや、今日だけにしたい、と自分に言い聞かせながら。
-  De toute façon, je n'adresserai plus jamais la parole à ce garçon qui a l'air de venir tout droit d'une autre planète. Non, je veux ne plus jamais lui adresser la parole, se répéta-t-elle.
+　De toute façon, je n'adresserai plus jamais la parole à ce garçon qui a l'air de venir tout droit d'une autre planète. Non, je veux ne plus jamais lui adresser la parole, se répéta-t-elle.
 
 }
 [sha:8420418fcd1b78dcbbf194b69d29cb123171b90a]{
@@ -2143,7 +2143,7 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:e4264d8d61278d31b417e1f53c5e340827ecbe9b]{
 -- Page 109, Offset 502.
 -- そんな青子に、少年は平然と話しかけた。
-  Le garçon interpella calmement une Aoko énervée.
+　Le garçon interpella calmement une Aoko énervée.
 
 }
 [sha:280509b9c16ebe56bab4b47df92e84b1165ee17e]{
@@ -2173,13 +2173,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:68391e25853251650973f1410d89b1d84de6215b]{
 -- Page 111, Offset 507.
 -- やはり、今朝は悪いものでも？」
-  Il t'est arrivé quelque chose ce matin ?」
+　Il t'est arrivé quelque chose ce matin ?」
 
 }
 [sha:9f13bff65e12cf13786a5aaa5fd71a8503b902c5]{
 -- Page 111, Offset 508.
 -- 食べたのかい？　と本気で心配する眼差し。
-  Aurais-tu mangé un plat indigeste ? lui demandait son regard sincèrement inquiet.
+　Aurais-tu mangé un plat indigeste ? lui demandait son regard sincèrement inquiet.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -2191,31 +2191,31 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:bd8652191159f692eadd72272f4768562894a585]{
 -- Page 112, Offset 510.
 -- ガン、と二度目のハンマーが青子の頭を叩いた。
-  Le deuxième coup de marteau tomba brutalement sur la tête d'Aoko.
+　Le deuxième coup de marteau tomba brutalement sur la tête d'Aoko.
 
 }
 [sha:42ff14be1e8c10e7bae62ccb927d3f922182f4f8]{
 -- Page 112, Offset 511.
 -- たしかに青子はさっきから草十郎を睨んでいる。
-  En effet, elle en voulait à Sōjūrō depuis un moment.
+　En effet, elle en voulait à Sōjūrō depuis un moment.
 
 }
 [sha:b76247321afd79393fc7b91c5b0c6d8c7db7c831]{
 -- Page 112, Offset 512.
 -- というかもう本気で睨んでいる。
-  En fait, elle lui en voulait vraiment.
+　En fait, elle lui en voulait vraiment.
 
 }
 [sha:1d41f329f49a4b7c03dcc718ad38bc5c66d17b00]{
 -- Page 112, Offset 513.
 -- むしろあらゆるものを睨んでいる。
-  Ou plutôt, elle en voulait à tout et n'importe quoi.
+　Ou plutôt, elle en voulait à tout et n'importe quoi.
 
 }
 [sha:eaa448e18eeef83324c710ac833cb5d7ca82cf39]{
 -- Page 113, Offset 514.
 -- 平時でさえ同居人から、
-  Même en temps normal, sa colocataire le lui disait :
+　Même en temps normal, sa colocataire le lui disait :
 
 }
 [sha:8391b660397e7a3ec8aefc5a34538dec80ca58f6]{
@@ -2227,13 +2227,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:8f8a2711e5aece04324370d23988bf88715f4236]{
 -- Page 113, Offset 516.
 -- もう少し、多くのことに寛大になるべきね』
-  Tu devrais te montrer un peu plus indulgente sur beaucoup de points.』
+　Tu devrais te montrer un peu plus indulgente sur beaucoup de points.』
 
 }
 [sha:1fa39fb4de3de92e5d563fcdee98a726802ffba0]{
 -- Page 113, Offset 517.
 -- と<諭|さと>されるぐらいの視線が、明確に“これ以上負荷がかかったらキレる”と意思表示しまくっているのだ。それを気のせいと感じられるほど、この少年は鈍感なのだろうか？
-  Son regard, qui avait été mis en cause ainsi, exprimait à cet instant précis : “si tu continues de me compliquer la vie, je vais craquer”. Ce type était-il idiot au point de penser que c'était son imagination ?
+　Son regard, qui avait été mis en cause ainsi, exprimait à cet instant précis : “si tu continues de me compliquer la vie, je vais craquer”. Ce type était-il idiot au point de penser que c'était son imagination ?
 
 }
 [sha:39f84d2cf5201cd4ae0d0ca42f32aa943a39dd7c]{
@@ -2251,19 +2251,19 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:505a957a6c46a77fd78cebd1e66eb33fe05ac944]{
 -- Page 114, Offset 520.
 -- 自分にそう言い聞かせてみたが、あまり確証は取れそうになかった。
-  C'était son impression, mais apparemment, elle ne pouvait pas en être totalement sûre.
+　C'était son impression, mais apparemment, elle ne pouvait pas en être totalement sûre.
 
 }
 [sha:ed4a51765c326394d78d0ae60494d722a7cd177c]{
 -- Page 115, Offset 521.
 -- 青子は今さらながら直感する。
-  Aoko eut une intuition, bien qu'un peu tardive.
+　Aoko eut une intuition, bien qu'un peu tardive.
 
 }
 [sha:76d4252eae9783150bb247390120d9ee83db1482]{
 -- Page 115, Offset 522.
 -- この間の抜けた転入生は、自分にとって未知の生き物と同義なのではないだろうか、と。
-  Cet étudiant transféré qui venait d'arriver, n'était-il pas synonyme pour elle d'une espèce non identifiée ?
+　Cet étudiant transféré qui venait d'arriver, n'était-il pas synonyme pour elle d'une espèce non identifiée ?
 
 }
 [sha:10ac39617ca0818609c08a5bdc4048a18c6bda1a]{
@@ -2275,13 +2275,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:74863b8e1f4a21f8832cffc7c30dd972ef14436d]{
 -- Page 116, Offset 524.
 -- 貴方の気のせいじゃなくて、私は視線で遠回しに感情を表現してたの。いちいち声にだすのも、会話にするのも面倒だから」
-  Ce n'est pas ton imagination. J'exprimais mes émotions à travers mon regard. Parce que c'est gonflant de l'exprimer à voix haute ou d'en parler.」
+　Ce n'est pas ton imagination. J'exprimais mes émotions à travers mon regard. Parce que c'est gonflant de l'exprimer à voix haute ou d'en parler.」
 
 }
 [sha:c171b3336a82d035144b234c748f71d095e74d0e]{
 -- Page 116, Offset 525.
 -- 青子の言葉に、ポン、と両手を叩くインベーダー。
-  L'envahisseur tapa des deux mains en entendant ces mots.
+　L'envahisseur tapa des deux mains en entendant ces mots.
 
 }
 [sha:fbd81bd7396485f82387bf4dc92b07e9927da9db]{
@@ -2293,25 +2293,25 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:f8f8200943d25aadd8601b15170b3213e9521047]{
 -- Page 118, Offset 527.
 -- 素直に納得する草十郎。
-  Sōjūrō montra en toute franchise son approbation.
+　Sōjūrō montra en toute franchise son approbation.
 
 }
 [sha:005c67bfa3bb9dc360387a1313d4dde51057d22c]{
 -- Page 118, Offset 528.
 -- けれど、彼は青子がどんな感情を表現しているのかが分かっていない。
-  Mais il ne savait pas quels sentiments elle exprimait.
+　Mais il ne savait pas quels sentiments elle exprimait.
 
 }
 [sha:759857e6f46742066d6b434c1bf83ed10c22760c]{
 -- Page 118, Offset 529.
 -- 文字は読めるけれど、その意味までは掴めていない。
-  Il pouvait comprendre les mots, mais il ne saisissait pas leur sens.
+　Il pouvait comprendre les mots, mais il ne saisissait pas leur sens.
 
 }
 [sha:ac8f8e0ade72415a60ffd3e3fe86b104b2e62fc7]{
 -- Page 118, Offset 530.
 -- 本来直結して考えるべき事が、ブロック単位で離れている感じ。
-  C'était comme si quelque chose en lui, qui aurait dû être là à l'origine, n'était pas présent.
+　C'était comme si quelque chose en lui, qui aurait dû être là à l'origine, n'était pas présent.
 
 }
 [sha:e6e74f1f2ef03839e9f1bc2d462187b7b7dbc0b5]{
@@ -2323,19 +2323,19 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:9e562ce1c26bcfe1d2a813ef26ff1e96debbecdd]{
 -- Page 119, Offset 532.
 -- 青子は山城教諭の言葉を今更ながらに納得した。
-  Aoko approuva les dires du professeur Yamashiro, même si c'était un peu tard.
+　Aoko approuva les dires du professeur Yamashiro, même si c'était un peu tard.
 
 }
 [sha:6168134ba38d34ddba955c751a56d85a0666a814]{
 -- Page 119, Offset 533.
 -- この少年のおかしさは、鈍感だとかそういった基準の話ではないらしい。
-  L'étrangeté de ce garçon ne semblait pas correspondre à un standard tel que la stupidité.
+　L'étrangeté de ce garçon ne semblait pas correspondre à un standard tel que la stupidité.
 
 }
 [sha:680d43c6ea5afe04b89b7f1a6f638b066a243a69]{
 -- Page 119, Offset 534.
 -- ……それでも。彼にとってここは異国の地のようなもの、多少の時差ボケは許容するのが文明人というものだろう。
-  ...... Cependant, pour lui, cet endroit était comme un pays étranger, et pardonner un petit écart était le devoir des gens civilisés.
+　...... Cependant, pour lui, cet endroit était comme un pays étranger, et pardonner un petit écart était le devoir des gens civilisés.
 
 }
 [sha:46e9d04481b1804b2756d8755e2e84577b9f595d]{
@@ -2347,13 +2347,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:25bee6992b1933e2cecf8bff262a9be285a0dc74]{
 -- Page 120, Offset 536.
 -- 気を取り直して青子は言う。
-  dit Aoko en se reprenant.
+　dit Aoko en se reprenant.
 
 }
 [sha:4325fedbd3ebfecbae5b5a2c19060d8788122afb]{
 -- Page 120, Offset 537.
 -- それを草十郎は片手を上げて止めた。
-  Sōjūrō l'arrêta en levant une main.
+　Sōjūrō l'arrêta en levant une main.
 
 }
 [sha:3d10faba6548c09f80f771904cb85eaeec063736]{
@@ -2365,13 +2365,13 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:2c66e9b7f93e6c6d2377c8812a878697ec24a4ea]{
 -- Page 121, Offset 539.
 -- あくまで泰然と言う草十郎に、青子は黙って先を<促|うなが>した。
-  Devant un Sōjūrō obstinément calme, Aoko se tut et l'encouragea à parler,
+　Devant un Sōjūrō obstinément calme, Aoko se tut et l'encouragea à parler,
 
 }
 [sha:663c4c07cc82e32cca2902a44d728e04c229b8f3]{
 -- Page 121, Offset 540.
 -- 額を指で押さえたまま、漠然とした不安を感じたまま。
-  tout en soutenant son front, et en ressentant une pointe d'anxiété.
+　tout en soutenant son front, et en ressentant une pointe d'anxiété.
 
 }
 [sha:f5e9ea9e7dc17c861b56495559adc9803e63570e]{
@@ -2383,7 +2383,7 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:e1812ed9692540029d85a8fb3956d4e014a92f6f]{
 -- Page 122, Offset 542. Glued. Mods: @x.
 -- 怒るのが商売とか、そういう家柄の人なのか？」
-  Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
+　Est-ce que tu viens d'une famille dont le métier est de se mettre en colère ?」
 
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
@@ -2395,25 +2395,25 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:11a507eeff5fe41ddc9ec9f3ed5223d86c5d61ed]{
 -- Page 123, Offset 544.
 -- 長い沈黙。
-  Un long silence.
+　Un long silence.
 
 }
 [sha:ba3ef003d741065301d79d07104394b91b7172b3]{
 -- Page 123, Offset 545.
 -- 今となっては後の祭りだが、青子はしばし、今朝の電話を取った事を痛烈に後悔した。
-  Il était bien trop tard, mais l'espace d'un instant, Aoko regretta fortement d'avoir répondu à cet appel ce matin.
+　Il était bien trop tard, mais l'espace d'un instant, Aoko regretta fortement d'avoir répondu à cet appel ce matin.
 
 }
 [sha:ed6806a3701f959f0ac7c1a554967385b4788e2c]{
 -- Page 123, Offset 546.
 -- 相手に悪気はない。
-  Cette personne n'avait pas de mauvaises intentions.
+　Cette personne n'avait pas de mauvaises intentions.
 
 }
 [sha:f2d2f2dec2eaa01aa480df138643c3039434eb19]{
 -- Page 123, Offset 547.
 -- これは天然、ただの天然、と心の中で繰り返し、青子は直情を抑えこんだ。
-  C'est un simplet, juste un simplet, se répéta Aoko dans son cœur pour refouler son impétuosité.
+　C'est un simplet, juste un simplet, se répéta Aoko dans son cœur pour refouler son impétuosité.
 
 }
 [sha:82c6f1549016efdea83a1891329281df27f7ad0a]{
@@ -2425,18 +2425,18 @@ Il semblait seulement savoir vaguement que c'était un endroit où l'on étudiai
 [sha:b7725472430aa2a834dc39e84cc60482d64beb1c]{
 -- Page 124, Offset 549.
 -- ただ、この一瞬とお昼まで眠っていた場合を<秤|はかり>にかけたらあまりに利益の違いがあって、頭を抱えただけよ」
-  C'est juste qu'entre le plaisir de faire la grasse matinée jusqu'à midi et ma situation actuelle, la différence est telle que ça m'est monté à la tête.」
+　C'est juste qu'entre le plaisir de faire la grasse matinée jusqu'à midi et ma situation actuelle, la différence est telle que ça m'est monté à la tête.」
 
 }
 [sha:7c6e0f3bbec0e54d652b226e36f2739f1cb30974]{
 -- Page 124, Offset 550.
 -- 回りくどい返事をして、今度こそ青子は歩きだした。
-  Elle répondit indirectement, avant de se remettre enfin en marche,
+　Elle répondit indirectement, avant de se remettre enfin en marche,
 
 }
 [sha:ad4dac5ead89fe705ef56b8b5a25cb3ca02eadc6]{
 -- Page 124, Offset 551.
 -- 静希草十郎という失礼なストレンジャーを、完全に視界から切り離して。
-  en détachant complètement son regard de l'étranger impoli qu'était Shizuki Sōjūrō.
+　en détachant complètement son regard de l'étranger impoli qu'était Shizuki Sōjūrō.
 
 }

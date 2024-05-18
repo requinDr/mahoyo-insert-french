@@ -7,103 +7,103 @@
 [sha:3edf3de39ba37d0ac21711b20f27a4f75a34dcfb]{
 -- Page 0, Offset 18206.
 -- <深|ふか>く<細|ほそ>く息を吐いて、草十郎は広場に足を踏み入れた。
-  Sōjūrō inspira et expira profondément avant de pénétrer dans la cour.
+　Sōjūrō inspira et expira profondément avant de pénétrer dans la cour.
 
 }
 [sha:e0e8337012f005305864c5c0383a58ef33ca94f8]{
 -- Page 0, Offset 18207.
 -- 視線は金髪の少年に合わせてはいるものの、意識は自分に向けられている。
-  Il avait les yeux braqués vers le garçon blond, mais son attention se portait en réalité en son for intérieur.
+　Il avait les yeux braqués vers le garçon blond, mais son attention se portait en réalité en son for intérieur.
 
 }
 [sha:eceea8ff95d12068878ad1f7db9212ee4de20726]{
 -- Page 0, Offset 18208.
 -- 冷静であれ、冷静であれ、と。
-  Reste calme, reste calme, se disait-il.
+　Reste calme, reste calme, se disait-il.
 
 }
 [sha:61c7ba475ecb77ce4633221c06dda02ef7a87d10]{
 -- Page 0, Offset 18209.
 -- 彼は全身全霊で、<努|つと>めて呼吸を合わせている。
-  Il s'efforçait corps et âme de reprendre son souffle.
+　Il s'efforçait corps et âme de reprendre son souffle.
 
 }
 [sha:0e243fe78c661aa4701e8f04bb905462f570c625]{
 -- Page 1, Offset 18210.
 -- 広場の状況は、青子たちの敗北を物語っていた。
-  La situation sur la grande place témoignait de la défaite d'Aoko et Alice.
+　La situation sur la grande place témoignait de la défaite d'Aoko et Alice.
 
 }
 [sha:0f11fa4aa80df64481de4b96f229e4e462c7bad0]{
 -- Page 1, Offset 18211.
 -- 青子は<仰向|あおむ>けに倒れている。
-  Aoko était étendue sur le dos.
+　Aoko était étendue sur le dos.
 
 }
 [sha:dea4de23ee896256c7d9c2df9519291deb8130c0]{
 -- Page 1, Offset 18212.
 -- 片足は真っ赤で、<腿|もも>は<醜|みにく>く潰されていた。
-  L'une de ses jambes était couverte de sang, la cuisse horriblement broyée.
+　L'une de ses jambes était couverte de sang, la cuisse horriblement broyée.
 
 }
 [sha:901908dae4e8af644e6cd0247cd9999e1f192212]{
 -- Page 2, Offset 18213.
 -- 青子の<瞳|め>は<霞|かす>んでいるものの、やってきた草十郎を見すえる程度には、気丈な意志が残っている。
-  La vision de la jeune fille était trouble, mais il lui restait suffisamment de volonté pour tourner les yeux vers Sōjūrō qui faisait son entrée en scène.
+　La vision de la jeune fille était trouble, mais il lui restait suffisamment de volonté pour tourner les yeux vers Sōjūrō qui faisait son entrée en scène.
 
 }
 [sha:445943f9603a2dd31dc4cf44367d4d1a1a909f50]{
 -- Page 2, Offset 18214.
 -- 小さく咳きこんでいるところを見ると、腹部か背中を強く殴打したのだろう。
-  D'après le léger accès de toux dont elle était victime, elle avait dû recevoir un puissant coup à l'abdomen ou au dos.
+　D'après le léger accès de toux dont elle était victime, elle avait dû recevoir un puissant coup à l'abdomen ou au dos.
 
 }
 [sha:38b7c0ce18c44137b0d92d2b1c8fc0405e1336e2]{
 -- Page 2, Offset 18215.
 -- いや、その両方か、と草十郎は判断した。
-  Sans doute aux deux, estima Sōjūrō.
+　Sans doute aux deux, estima Sōjūrō.
 
 }
 [sha:6e65afe7281148fb780a052495b4c07d816f4357]{
 -- Page 3, Offset 18216.
 -- 有珠は青子ほど重傷には見えないが、やはり地面に倒れたまま動けない。
-  Alice ne semblait pas aussi grièvement blessée que son amie, mais elle restait malgré tout effondrée au sol, incapable de bouger.
+　Alice ne semblait pas aussi grièvement blessée que son amie, mais elle restait malgré tout effondrée au sol, incapable de bouger.
 
 }
 [sha:d561158b3ec309d21d9c8b100a8a6d220b461601]{
 -- Page 3, Offset 18217.
 -- 青子とは反対にうつぶせで、懸命に両肘を地面に立て、起きあがろうとしているのが痛々しかった。
-  Contrairement à Aoko, elle était face contre terre et tentait tant bien que mal de se relever en plantant ses coudes dans le sol. Cela faisait pitié à voir.
+　Contrairement à Aoko, elle était face contre terre et tentait tant bien que mal de se relever en plantant ses coudes dans le sol. Cela faisait pitié à voir.
 
 }
 [sha:e57c6e94b0f6c7b4bcd5153106a0bf14cd4c9b31]{
 -- Page 4, Offset 18218.
 -- 広場の奥に鎮座する旧校舎の前には、いつか見た魔術師の姿。
-  Devant l'ancien établissement enchâssé au fond de la grande place, se détachait la silhouette de la Mage qu'il avait rencontrée une fois auparavant.
+　Devant l'ancien établissement enchâssé au fond de la grande place, se détachait la silhouette de la Mage qu'il avait rencontrée une fois auparavant.
 
 }
 [sha:6dc822a5282db5cdf5d20c82e801c4044e02d5a9]{
 -- Page 4, Offset 18219.
 -- それにはまったくの無意志を<示|しめ>し、草十郎は歩きだした。
-  Sōjūrō ne lui accorda aucune attention et s'avança.
+　Sōjūrō ne lui accorda aucune attention et s'avança.
 
 }
 [sha:bff66fc562a98403f009407492788ed16454bd96]{
 -- Page 5, Offset 18220.
 -- 彼は広場に到着した時より落ち着いた面もちで、青子へと足を進める。
-  Il se dirigea vers Aoko, l'air encore plus calme qu'à son arrivée.
+　Il se dirigea vers Aoko, l'air encore plus calme qu'à son arrivée.
 
 }
 [sha:7e94e58aa8c74966146c332abe53b505b6a93bc3]{
 -- Page 5, Offset 18221.
 -- 橙子はそれを止めない。
-  Tōko ne l'arrêta pas.
+　Tōko ne l'arrêta pas.
 
 }
 [sha:4c618003d6de890e350c9c126fb78facee5738aa]{
 -- Page 5, Offset 18222.
 -- ただ、誰に気付かれるコトなく、瞳に苦悩の色を浮かべただけだった。
-  Seuls ses yeux avaient furtivement trahi sa souffrance.
+　Seuls ses yeux avaient furtivement trahi sa souffrance.
 
 }
 [sha:458204232150303d5bc839d0fe0e20d0080efa7b]{
@@ -115,49 +115,49 @@
 [sha:896aaa383f796f5613db3e5155a946d879860885]{
 -- Page 6, Offset 18224.
 -- 勝者の余裕か、人狼の少年は親しげに話しかける。
-  Le garçon loup-garou s'adressa à lui avec familiarité et la suffisance du vainqueur.
+　Le garçon loup-garou s'adressa à lui avec familiarité et la suffisance du vainqueur.
 
 }
 [sha:a0417583be824a2bf8ebe81196b434e65799865b]{
 -- Page 6, Offset 18225.
 -- 新しい獲物が来た、程度の気持ちなのだろう。
-  Il se réjouissait certainement de l'arrivée de cette nouvelle proie.
+　Il se réjouissait certainement de l'arrivée de cette nouvelle proie.
 
 }
 [sha:5554de8bc7e02cb91e4cefc99293c8d7c7e69b81]{
 -- Page 6, Offset 18226.
 -- 草十郎は応えずに青子へと歩いていく。
-  Sōjūrō marcha vers Aoko sans répondre.
+　Sōjūrō marcha vers Aoko sans répondre.
 
 }
 [sha:0dcd433cc5bf57ec3f7eaaa3eda1108393114a80]{
 -- Page 7, Offset 18227.
 -- 完全な無視に、少年から笑みが消えた。
-  Vexé d'être aussi ouvertement ignoré, le garçon perdit son sourire.
+　Vexé d'être aussi ouvertement ignoré, le garçon perdit son sourire.
 
 }
 [sha:ba4e84239b5e58b50bc2f542d32e0de0a345ffcf]{
 -- Page 7, Offset 18228.
 -- 悪魔の機嫌を損ねた事も気にならないのか、草十郎は歩みを止めない。
-  Sōjūrō ne s'arrêta pas, nullement inquiet d'avoir froissé le démon.
+　Sōjūrō ne s'arrêta pas, nullement inquiet d'avoir froissé le démon.
 
 }
 [sha:0a77da202e53948c0a844fc62dc8e2224ed1a2eb]{
 -- Page 7, Offset 18229.
 -- そうして青子の元まで到着すると、彼は痛ましげに顔を<曇|くも>らせた。
-  Une fois arrivé auprès d'Aoko, il fronça les sourcils d'un air chagriné.
+　Une fois arrivé auprès d'Aoko, il fronça les sourcils d'un air chagriné.
 
 }
 [sha:122d0a0f12561c3d1fb24e7c95087b5844bd1390]{
 -- Page 8, Offset 18230.
 -- ……らしくなく、自然な言葉が見つからない。
-  ...... Contrairement à son habitude, aucune remarque ne lui vint spontanément à l'esprit.
+　...... Contrairement à son habitude, aucune remarque ne lui vint spontanément à l'esprit.
 
 }
 [sha:1bf1eba20a78f2929ee93d733a3df7876d2f9185]{
 -- Page 8, Offset 18231.
 -- 短い逡巡の<末|すえ>、かろうじて口に出来たのは、
-  Il n'hésita qu'un court instant.
+　Il n'hésita qu'un court instant.
 
 }
 [sha:f212574d151f56e7ba1f60a76927f212bc7bf1d8]{
@@ -169,13 +169,13 @@
 [sha:4e6079093d5c4c3ecff73ea0028bdbb268f67305]{
 -- Page 8, Offset 18233.
 -- 行く時ぐらい、声をかけるものだろう」
-  Dire au revoir est la moindre des politesses quand on s'en va.」
+　Dire au revoir est la moindre des politesses quand on s'en va.」
 
 }
 [sha:6367c8b66dcac1c458a7c2fbcf9e542790472d0a]{
 -- Page 8, Offset 18234.
 -- 叱るような<気遣|きづか>うような、不器用な呼びかけだけだった。
-  Il fut tout juste capable de prononcer cette remarque, à la fois maladroite, inquiète et réprobatrice.
+　Il fut tout juste capable de prononcer cette remarque, à la fois maladroite, inquiète et réprobatrice.
 
 }
 [sha:611297aa516b1e2bb1dcab6abfe3566be87312ca]{
@@ -193,7 +193,7 @@ Espèce... d'idiot.」
 [sha:12a4ad32498f6fe8692fbdf953ad58ad9965208a]{
 -- Page 9, Offset 18237.
 -- 腹の痛みもなんのその、青子は自分をかばうように立つ草十郎を罵倒する。
-  Aoko insulta Sōjūrō, qui se tenait devant elle pour la protéger, en faisant abstraction de la douleur dans son abdomen.
+　Aoko insulta Sōjūrō, qui se tenait devant elle pour la protéger, en faisant abstraction de la douleur dans son abdomen.
 
 }
 [sha:4ee4d1176a0d20e89eb70dfc230c572bb3a2a466]{
@@ -205,25 +205,25 @@ Espèce... d'idiot.」
 [sha:61d96602acb2b1cecdb0994b0d33fd95c7e5bffd]{
 -- Page 9, Offset 18239.
 -- そんな青子の強がりを真に受けたのか、草十郎の声は明るい。
-  Le ton de Sōjūrō était plutôt joyeux, comme s'il avait pris au sérieux le bluff d'Aoko.
+　Le ton de Sōjūrō était plutôt joyeux, comme s'il avait pris au sérieux le bluff d'Aoko.
 
 }
 [sha:946aab66207f165301272d6c6b57927805f74bdc]{
 -- Page 10, Offset 18240.
 -- ……実際、青子には余裕どころか体力も無い。
-  ...... En réalité, cette dernière était loin d'être en forme et n'avait tout simplement plus aucune force.
+　...... En réalité, cette dernière était loin d'être en forme et n'avait tout simplement plus aucune force.
 
 }
 [sha:99894e17de6d0528758204db1c2e9f1d0863eeb9]{
 -- Page 10, Offset 18241.
 -- なのに草十郎の返事はいつも通りで、
-  Le jeune homme s'était pourtant adressé à elle comme à son habitude,
+　Le jeune homme s'était pourtant adressé à elle comme à son habitude,
 
 }
 [sha:54e4cbefdcf820d7e63c2312d950f44545f757b6]{
 -- Page 10, Offset 18242.
 -- 『さすが蒼崎、殺しても死なないな』とでも言いたげな<暢気|のんき>さだ。
-  et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle était littéralement increvable.
+et sa nonchalance à toute épreuve laissait entendre que d'après lui, elle était littéralement increvable.
 
 }
 [sha:e11e6424e7cc77f1278321271490796e6b91a629]{
@@ -235,25 +235,25 @@ Espèce... d'idiot.」
 [sha:dc4537f167f2d4a164ab44c8f838af48f39249e9]{
 -- Page 11, Offset 18244.
 -- つい口に出して、青子は息を呑んだ。
-  Aoko laissa échapper cette invective avant de ravaler son souffle.
+　Aoko laissa échapper cette invective avant de ravaler son souffle.
 
 }
 [sha:f707fa6e7dacdcf9055c1bdf1edb5909c4063ac8]{
 -- Page 11, Offset 18245.
 -- ……草十郎は何も勘違いしていない。
-  ...... Sōjūrō ne se faisait pas de fausses idées.
+　...... Sōjūrō ne se faisait pas de fausses idées.
 
 }
 [sha:30338edba537617630e25335c8bf0235f183b774]{
 -- Page 11, Offset 18246.
 -- いかに間が抜けていても、今の状況がどれほど危険なのか、痛いほど理解している。
-  Même s'il avait l'air d'un benêt, il comprenait douloureusement à quel point leur situation était critique.
+　Même s'il avait l'air d'un benêt, il comprenait douloureusement à quel point leur situation était critique.
 
 }
 [sha:641d861d53eba8edb034d17328e1e67f18ba9287]{
 -- Page 11, Offset 18247.
 -- その証拠に、暢気な台詞が空々しく聞こえるほど、その表情は凍りついていた。
-  En effet, son expression était si glaciale que ses répliques nonchalantes paraissaient hypocrites.
+　En effet, son expression était si glaciale que ses répliques nonchalantes paraissaient hypocrites.
 
 }
 [sha:c922e7a88371601cf6cb150de77abf776fa62d4b]{
@@ -265,19 +265,19 @@ Espèce... d'idiot.」
 [sha:bb32ce4af985c4d861a8e711a3fc5c60b57666f3]{
 -- Page 12, Offset 18249.
 -- 来たのよ、といいかけて青子は咳きこんでしまった。
-  Aoko fut prise d'une quinte de toux avant de pouvoir finir sa phrase.
+　Aoko fut prise d'une quinte de toux avant de pouvoir finir sa phrase.
 
 }
 [sha:98b0fb4da615ba2f66a21549b11fbf5bb97a0ee2]{
 -- Page 12, Offset 18250.
 -- 草十郎は人差し指を口元に立てて頷く。
-  Sōjūrō hocha la tête en plaçant son index sur ses lèvres.
+　Sōjūrō hocha la tête en plaçant son index sur ses lèvres.
 
 }
 [sha:60937855d99c3e5402a6d61beceb5ef48f000cc3]{
 -- Page 12, Offset 18251.
 -- 青子には理解しがたいが、無理して話しちゃダメだ、というジェスチャーらしい。
-  La jeune fille eut du mal à comprendre son geste, mais manifestement, il lui indiquait d'éviter de se forcer à parler.
+　La jeune fille eut du mal à comprendre son geste, mais manifestement, il lui indiquait d'éviter de se forcer à parler.
 
 }
 [sha:a55dffdc870b1dcc65ae2e76bcaecbaa3f4853a8]{
@@ -289,67 +289,67 @@ Espèce... d'idiot.」
 [sha:987dd0d564de2bc0d93c633061d6123299e4900c]{
 -- Page 13, Offset 18253.
 -- 君がやられたら、次はこっちの番なんだろう？　だから協力をしに来たんじゃないか。
-  Si tu te fais avoir, ensuite ce sera mon tour, non ? Du coup, je suis venu vous aider.
+　Si tu te fais avoir, ensuite ce sera mon tour, non ? Du coup, je suis venu vous aider.
 
 }
 [sha:8a2a251d0c51251e9896cbb6b358015d8de1a2aa]{
 -- Page 13, Offset 18254.
 -- ……まあ。何もできないのも、あの時と変わってはいないんだけど」
-  ...... Mais bon, je reste aussi impuissant que l'autre fois.」
+　...... Mais bon, je reste aussi impuissant que l'autre fois.」
 
 }
 [sha:96eceb9b49d481e935654bd2c9b47157eeaa23e4]{
 -- Page 14, Offset 18255.
 -- 青子には答えもない。
-  Aoko restait coite.
+　Aoko restait coite.
 
 }
 [sha:b88275b87ef437fe273e2e98a155430e0206fd51]{
 -- Page 14, Offset 18256.
 -- ただ呆然と顔をあげて、本気で呆れるように、草十郎を見つめ返す事しかできなかった。
-  Elle ne pouvait que regarder Sōjūrō d'un air abasourdi.
+　Elle ne pouvait que regarder Sōjūrō d'un air abasourdi.
 
 }
 [sha:43f183ad86bb91205a47f43c5eb09914a4b54aba]{
 -- Page 15, Offset 18257.
 -- そんなふたりを、人狼は<苛立|いらだ>たしく見つめている。
-  Le loup-garou fixait les deux jeunes gens avec irritation.
+　Le loup-garou fixait les deux jeunes gens avec irritation.
 
 }
 [sha:60aa5ac19c1562ec632521c39d7c69586c615e30]{
 -- Page 15, Offset 18258.
 -- 彼には王者としての自意識がある。
-  Il se considérait comme un roi.
+　Il se considérait comme un roi.
 
 }
 [sha:2376eec0cbcb2214f359583a2433b3fc350d14d6]{
 -- Page 15, Offset 18259.
 -- 無視されただけでも<轢殺|れきさつ>もので、橙子さえいなければサクッと草十郎の喉を噛みちぎっている。
-  Le simple fait d'avoir été ignoré lui donnait envie de tuer Sōjūrō, et si Tōko n'avait pas été là, il lui aurait déjà déchiqueté la gorge.
+　Le simple fait d'avoir été ignoré lui donnait envie de tuer Sōjūrō, et si Tōko n'avait pas été là, il lui aurait déjà déchiqueté la gorge.
 
 }
 [sha:07796229402ddd23965ff4dfe99c462e08f1263a]{
 -- Page 16, Offset 18260.
 -- 自分の重圧は確かに伝わっている筈だ。
-  Le jeune homme devait pourtant être écrasé par la pression qu'il émettait.
+　Le jeune homme devait pourtant être écrasé par la pression qu'il émettait.
 
 }
 [sha:b59ab7ff964f65b757bd89d0a1057229a7c5b517]{
 -- Page 16, Offset 18261.
 -- なのに獲物からは、まったく恐れが伝わってこない。
-  Alors, pourquoi sa proie ne dégageait-elle aucune peur ?
+　Alors, pourquoi sa proie ne dégageait-elle aucune peur ?
 
 }
 [sha:3df1da45a56b79f23c6d259c714612881c1bef1e]{
 -- Page 16, Offset 18262.
 -- ……考えづらいが、まさか、ひょっとして。
-  ...... Difficile à croire, mais si ça se trouvait,
+　...... Difficile à croire, mais si ça se trouvait,
 
 }
 [sha:a151a8e9fe76411c05c7510eaea2e509727694ab]{
 -- Page 16, Offset 18263.
 -- あの人間の視界には、自分はどうでもいいモノとして映っているのではないだろうか―――？
-  son existence ne revêtait aucune importance pour cet humain.
+　son existence ne revêtait aucune importance pour cet humain.
 
 }
 [sha:5ca57b8c8d12b013ab91d0e2df847035b150d867]{
@@ -361,31 +361,31 @@ Espèce... d'idiot.」
 [sha:8478255b3f92a6d2e0ca215bdd23ee12c9bc1944]{
 -- Page 17, Offset 18265.
 -- 先に、そのお兄さんからハジメテもかまわないよね？」
-  Je peux commencer par lui, alors ?」
+　Je peux commencer par lui, alors ?」
 
 }
 [sha:f529fa31ac363ae1e4e40b6ad3c40edf5c1d037e]{
 -- Page 18, Offset 18266.
 -- 少年はもう一度呼びかけた。
-  Le garçon l'interpella une nouvelle fois.
+　Le garçon l'interpella une nouvelle fois.
 
 }
 [sha:7bf7762f629a84467cb092302125be527904db5b]{
 -- Page 18, Offset 18267.
 -- それにも応えず、草十郎は片手をゆっくりと鼻にあてた。
-  Sōjūrō ne lui répondit pas. Au lieu de cela, il mit lentement la main devant son nez.
+　Sōjūrō ne lui répondit pas. Au lieu de cela, il mit lentement la main devant son nez.
 
 }
 [sha:d0230fe807a913c1ecaeb1cfcb0e3cc77fe1286c]{
 -- Page 18, Offset 18268.
 -- <極|きわ>めて冷静に。
-  Il faisait preuve d'un sang-froid extrême,
+　Il faisait preuve d'un sang-froid extrême,
 
 }
 [sha:50e12c19dbab085909f5961d0d57c917638c3c08]{
 -- Page 18, Offset 18269.
 -- 少年に意識は向けず、けれど目は逸らさず。
-  et n'accordait aucune attention au garçon. Cependant, il ne détourna à aucun moment les yeux de lui.
+　et n'accordait aucune attention au garçon. Cependant, il ne détourna à aucun moment les yeux de lui.
 
 }
 [sha:a209062871a33203161ad15da6b61c5fc9fbe519]{
@@ -403,13 +403,13 @@ Espèce... d'idiot.」
 [sha:81ccf50671702c373133e3b8b31e20dc77981f02]{
 -- Page 19, Offset 18272.
 -- 不快げに呟かれた声に誰もが首をかしげる。
-  Tout le monde parut perplexe en entendant son murmure d'où perçait le dégoût.
+　Tout le monde parut perplexe en entendant son murmure d'où perçait le dégoût.
 
 }
 [sha:cf22d8a81109c0d66b340700ebfb34b3a3cfa5e9]{
 -- Page 19, Offset 18273.
 -- 彼の言う匂いなんて、少しも嗅ぎ取れないからだ。
-  Après tout, personne ne sentait l'odeur dont il parlait.
+　Après tout, personne ne sentait l'odeur dont il parlait.
 
 }
 [sha:ffe91649ab155880b2d0cfd1791b20bd40570c7e]{
@@ -421,19 +421,19 @@ Espèce... d'idiot.」
 [sha:d409f70742fd25ac304e7d2ebf5b64902ad252b5]{
 -- Page 20, Offset 18275.
 -- 余裕に満ちてはいるが、苛立ちに急かされた声。
-  Il était toujours aussi suffisant, mais sa voix tremblait sous le coup de l'irritation.
+　Il était toujours aussi suffisant, mais sa voix tremblait sous le coup de l'irritation.
 
 }
 [sha:cb31f8b8678878155cdbe4fef8a2c15643b238d3]{
 -- Page 20, Offset 18276.
 -- <度重|たびかさ>なる無視に少年は怒気を抑えきれない。
-  Le garçon ne pouvait réprimer la colère que lui causait le fait d'être ignoré encore et encore.
+　Le garçon ne pouvait réprimer la colère que lui causait le fait d'être ignoré encore et encore.
 
 }
 [sha:eeb5238c0d62969863436a6e19d54b574f7c82dd]{
 -- Page 20, Offset 18277.
 -- それでようやく、草十郎は遠くの、けれど真っ正面にいる少年へと体を向けた。
-  Sōjūrō finit enfin par se tourner vers l'enfant, éloigné mais tout de même en face de lui.
+　Sōjūrō finit enfin par se tourner vers l'enfant, éloigné mais tout de même en face de lui.
 
 }
 [sha:60f746284a87cc8ec54650442fd5725e6c126ea5]{
@@ -445,25 +445,25 @@ Espèce... d'idiot.」
 [sha:506b21f6d1fc4d9cfff9164630b43563c3b1d0d9]{
 -- Page 21, Offset 18279.
 -- 心底から不快だ、と言わんばかりの声。
-  dit-il sur un ton profondément écœuré.
+　dit-il sur un ton profondément écœuré.
 
 }
 [sha:d13ceebd2e450f2a3c9f14a2ef5c8c03f2a809e9]{
 -- Page 21, Offset 18280.
 -- 草十郎にとってはただの独り言。
-  Pour Sōjūrō, ce n'était qu'un soliloque.
+　Pour Sōjūrō, ce n'était qu'un soliloque.
 
 }
 [sha:546f25e7c21a44578cec1004a5279e6d84542573]{
 -- Page 21, Offset 18281.
 -- 少年にとって侮辱以外の何物でもない。
-  Et pour le garçon, un affront.
+　Et pour le garçon, un affront.
 
 }
 [sha:5f6e8c14e0fc1491027225cc0798f3a6316e7e76]{
 -- Page 21, Offset 18282.
 -- 草十郎本人に、そんなつもりが全くなかったとしても。
-  Même si le jeune homme n'avait pas prononcé ces mots dans cette intention.
+　Même si le jeune homme n'avait pas prononcé ces mots dans cette intention.
 
 }
 [sha:d4fa0c6d4f990342d751a0c1bbdc24447960163d]{
@@ -475,19 +475,19 @@ Espèce... d'idiot.」
 [sha:2a2f5dcf79be8c15ee5547721d531aec3d835494]{
 -- Page 22, Offset 18284.
 -- 瞬間、たしかに風が吹いた。
-  Le vent souffla pendant un bref instant.
+　Le vent souffla pendant un bref instant.
 
 }
 [sha:90433a3c5d4ad8b3599e64f762fc87d26f1e2634]{
 -- Page 22, Offset 18285.
 -- 人狼に起きた感情の変化だろう。
-  Le changement d'émotion qui se produisit chez le loup-garou en fut probablement la cause.
+　Le changement d'émotion qui se produisit chez le loup-garou en fut probablement la cause.
 
 }
 [sha:3b10b0904db46881396c5adad48e4f893c856943]{
 -- Page 22, Offset 18286.
 -- 獣気は大気を焼く風になって、雪原に<風紋|ふうもん>を走らせた。
-  L'esprit animal prit la forme d'un vent brûlant qui se répandit par ondulations sur le champ de neige.
+　L'esprit animal prit la forme d'un vent brûlant qui se répandit par ondulations sur le champ de neige.
 
 }
 [sha:2ffab49e0bcac7c01c8f0e2304739edf130077dd]{
@@ -499,37 +499,37 @@ Espèce... d'idiot.」
 [sha:0232d171dba4f7a9fe30742678094920c51df119]{
 -- Page 23, Offset 18288.
 -- このままでは草十郎が真っ先に殺される、と青子は体に力をいれた。
-  À ce rythme, il va y passer en premier, se dit Aoko en rassemblant toutes ses forces.
+　À ce rythme, il va y passer en premier, se dit Aoko en rassemblant toutes ses forces.
 
 }
 [sha:99de56d7b114db60e15a9777567c5fd1c5b4a9d7]{
 -- Page 23, Offset 18289.
 -- だが、壊れた体は指先ぐらいしか動かない。
-  Mais son corps était si meurtri que seule l'extrémité de ses doigts voulait encore bien bouger.
+　Mais son corps était si meurtri que seule l'extrémité de ses doigts voulait encore bien bouger.
 
 }
 [sha:1d1e27dfb89bcc47eca65370cbc49ce47979955d]{
 -- Page 23, Offset 18290.
 -- 見れば、草十郎の失言だけは聞こえていたのか、有珠もなんとか立ち上がろうとしている。
-  Alice, qui semblait elle aussi avoir entendu les paroles malheureuses de Sōjūrō, cherchait également à se relever tant bien que mal.
+　Alice, qui semblait elle aussi avoir entendu les paroles malheureuses de Sōjūrō, cherchait également à se relever tant bien que mal.
 
 }
 [sha:3d009d50e1b3dbfe5fe4ad2569f4516c354b3070]{
 -- Page 24, Offset 18291.
 -- 草十郎の姿は、そんなふたりとは対照的だった。
-  L'attitude du jeune homme contrastait avec leur affolement.
+　L'attitude du jeune homme contrastait avec leur affolement.
 
 }
 [sha:7020c9d3829b1895b1193d2a2d6b4a391acbf526]{
 -- Page 24, Offset 18292.
 -- <泰然|たいぜん>としてさえ見える立ち姿。
-  Sa posture montrait qu'il conservait son sang-froid.
+　Sa posture montrait qu'il conservait son sang-froid.
 
 }
 [sha:e982dc2c7ccfd9f78c9e0e2fa8055dd376f563be]{
 -- Page 24, Offset 18293.
 -- 少年の苛立ちは、それで限界を超えてしまった。
-  La patience du petit garçon finit ainsi par atteindre ses limites.
+　La patience du petit garçon finit ainsi par atteindre ses limites.
 
 }
 [sha:0f2d8037438e8a6fcdf8eb29fef301db5d7bc7c0]{
@@ -541,37 +541,37 @@ Espèce... d'idiot.」
 [sha:3b493ffb771328d4ddaf1721af616b535b2227c4]{
 -- Page 25, Offset 18295. Glued. Mods: @x.
 -- お兄さんは…………！」
- monsieur............?」
+monsieur............?」
 
 }
 [sha:0c268655dfdb87b0757f74cd4f5d77f3472adbcd]{
 -- Page 26, Offset 18296.
 -- ―――人間の時間が終わる。
-  ―――L'heure de la forme humaine était révolue.
+　―――L'heure de la forme humaine était révolue.
 
 }
 [sha:8ca25ba94cdd7b3a57863fc0334a4d49fca5f8b0]{
 -- Page 26, Offset 18297.
 -- 怒気を含んだ言葉と共に、少年の<躯|からだ>が変化する。
-  Le corps de l'enfant entama sa transformation au moment où il prononça ces mots chargés de colère.
+　Le corps de l'enfant entama sa transformation au moment où il prononça ces mots chargés de colère.
 
 }
 [sha:386555e72f89aa14680c11bf102682c5179bbe55]{
 -- Page 26, Offset 18298.
 -- 肉体はさらに大きく、その肌は悪魔の牙めいた、刺々しい毛並みに包まれていく。
-  Il commença à grandir et sa peau s'enveloppa d'une fourrure aussi tranchante que les crocs d'un démon.
+　Il commença à grandir et sa peau s'enveloppa d'une fourrure aussi tranchante que les crocs d'un démon.
 
 }
 [sha:359be2136ed2237aff55d0e8a76cb32d63fe7df1]{
 -- Page 27, Offset 18299.
 -- 人間の物だった顔も手も、いびつなカタチに膨れ上がっていく。
-  Son visage et ses mains grossirent et se déformèrent.
+　Son visage et ses mains grossirent et se déformèrent.
 
 }
 [sha:1d05185b57b3ffcc790dc9ba7c07895f7f7ac1a9]{
 -- Page 27, Offset 18300.
 -- それは大気中の魔力を取りこみ、存在規模を膨張させていく異形の獣―――ヒトのカタチをした、狼の姿だった。
-  C'était une bête fantastique qui absorbait le mana ambiant pour accroître son échelle d'existence―――Un loup ayant pris forme humaine.
+　C'était une bête fantastique qui absorbait le mana ambiant pour accroître son échelle d'existence―――Un loup ayant pris forme humaine.
 
 }
 [sha:933ec2d7773cfd127989bef939cb0a0b2862bbfb]{
@@ -583,13 +583,13 @@ Espèce... d'idiot.」
 [sha:6f01cc847e703e55f56ab3d3dd62e751dcee26c0]{
 -- Page 28, Offset 18302.
 -- 傍観していた橙子が叫ぶが、人狼と化した少年は応えない。
-  s'écria Tōko jusque-là spectatrice, mais le garçon changé en loup-garou ne répondit pas.
+　s'écria Tōko jusque-là spectatrice, mais le garçon changé en loup-garou ne répondit pas.
 
 }
 [sha:830a3aa6c6a4c715fd689c03d14dbac2b99814a0]{
 -- Page 28, Offset 18303.
 -- その荒い息遣いをケモノの口から吐き出すだけだ。
-  De sa gueule bestiale ne sortait qu'un souffle haletant.
+　De sa gueule bestiale ne sortait qu'un souffle haletant.
 
 }
 [sha:364dc49f44d8f0c0c38cddff2a9da9750ee48d40]{
@@ -601,19 +601,19 @@ Espèce... d'idiot.」
 [sha:cac822bc8b4c8676342ef05a4943d0b3b6327761]{
 -- Page 29, Offset 18305.
 -- 少年の変身を見届けて、ぽつりと草十郎は漏らす。
-  Témoin de la transformation du garçon, Sōjūrō laissa échapper un murmure.
+　Témoin de la transformation du garçon, Sōjūrō laissa échapper un murmure.
 
 }
 [sha:3537ddde16eb795e61d9046b2f0400346d8d26d6]{
 -- Page 29, Offset 18306.
 -- 人から獣に変わっただけでも悪夢なのだ。
-  Le simple fait qu'il se soit transformé en bête relevait déjà du cauchemar.
+　Le simple fait qu'il se soit transformé en bête relevait déjà du cauchemar.
 
 }
 [sha:5ed3bb28f77936b3693085e83e06bfbd5e30f1a5]{
 -- Page 29, Offset 18307.
 -- 加えて、自分より小さかった少年が二メートル近い大きさになれば、もう理解の外だろう。正常な理性が残っているかすら怪しい。
-  Mais pour en rajouter, l'enfant avait pris une taille de deux mètres alors qu'il était initialement plus petit que lui. Il devait ne plus rien y comprendre. Sa raison l'avait peut-être même déjà quitté.
+　Mais pour en rajouter, l'enfant avait pris une taille de deux mètres alors qu'il était initialement plus petit que lui. Il devait ne plus rien y comprendre. Sa raison l'avait peut-être même déjà quitté.
 
 }
 [sha:fed150ee30e1b99773ff8305fd99d4b740c4d667]{
@@ -625,19 +625,19 @@ Espèce... d'idiot.」
 [sha:e7deb572bd660e0fc703905f75faf051aa00b4b9]{
 -- Page 30, Offset 18309.
 -- 獲物の呟きに、人狼は満足そうに口元を歪ませた。
-  La gueule du loup-garou se tordit de satisfaction en entendant le murmure de sa proie.
+　La gueule du loup-garou se tordit de satisfaction en entendant le murmure de sa proie.
 
 }
 [sha:ad34fec35ea1323cd73964550b1a3f2c0adb8243]{
 -- Page 30, Offset 18310.
 -- おかしな人間だったが、結局はいつも通りだと。
-  C'est un humain étrange, mais il n'est pas différent des autres après tout, pensa-t-il.
+　C'est un humain étrange, mais il n'est pas différent des autres après tout, pensa-t-il.
 
 }
 [sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
 -- Page 30, Offset 18311.
 -- ……けれど。
-  ...... Cependant,
+　...... Cependant,
 
 }
 [sha:c865e81c9e74026852bb6706d9ad1320f6f7cf4e]{
@@ -649,7 +649,7 @@ sa vanité ne fut comblée qu'un instant.
 [sha:b4f81f4ed359292440349a204817394212a7ae1a]{
 -- Page 30, Offset 18313.
 -- 狩られるだけの<獲物|にんげん>は、心底呆れたように息をついて、
-  La proie qu'il était sur le point de chasser poussa un soupir stupéfait.
+　La proie qu'il était sur le point de chasser poussa un soupir stupéfait.
 
 }
 [sha:6d1d8197ee34b38e098eac997699df88553f4345]{
@@ -667,25 +667,25 @@ sa vanité ne fut comblée qu'un instant.
 [sha:175be067647af029b234a0560d5fe6ae0a8c7e8d]{
 -- Page 31, Offset 18316.
 -- <木|こ>っ<端|ぱ><微塵|みじん>に砕け散るような沈黙。
-  Un silence de plomb tomba sur la cour comme le calme avant la tempête.
+　Un silence de plomb tomba sur la cour comme le calme avant la tempête.
 
 }
 [sha:bea83ba03f34536a46c2b8dfc2911005baa76273]{
 -- Page 31, Offset 18317.
 -- 青子も有珠も、橙子さえも声がない。
-  Aoko, Alice et même Tōko restèrent sans voix.
+　Aoko, Alice et même Tōko restèrent sans voix.
 
 }
 [sha:019c150b0f10634f4a54af0319b16b44c411b4dc]{
 -- Page 31, Offset 18318.
 -- 自分たちでさえ目を<背|そむ>ける人狼の獣化を目の当たりにして、まさか、そんな言葉を返せる人間がいようとは。
-  Elles n'auraient jamais cru qu'il existait un humain capable de tenir de tels propos après avoir assisté à la transformation d'un loup-garou, alors qu'elles-mêmes en détournaient les yeux.
+　Elles n'auraient jamais cru qu'il existait un humain capable de tenir de tels propos après avoir assisté à la transformation d'un loup-garou, alors qu'elles-mêmes en détournaient les yeux.
 
 }
 [sha:ba935f2230687a324d5430638c1b4e1e4ba34236]{
 -- Page 32, Offset 18319.
 -- 楽観者は子供騙しの映画を見たような不満顔。
-  L'optimiste avait l'air mécontent comme s'il venait d'assister aux effets spéciaux d'un film pour enfants.
+　L'optimiste avait l'air mécontent comme s'il venait d'assister aux effets spéciaux d'un film pour enfants.
 
 }
 [sha:a0c370c29ec7baafcfb03b5aebf11d08d1981783]{
@@ -697,25 +697,25 @@ sa vanité ne fut comblée qu'un instant.
 [sha:45bcbfa70b25ff62bee1dcc5ab392fc345929ce7]{
 -- Page 32, Offset 18321.
 -- ……もはや、何もかも手遅れだった。
-  ...... À présent, il était trop tard.
+　...... À présent, il était trop tard.
 
 }
 [sha:e4c39595e342f70585c3416c9e561d19729860f5]{
 -- Page 33, Offset 18322.
 -- 絶対者としての風格。
-  Sa dignité en tant qu'être absolu avait été offensée.
+　Sa dignité en tant qu'être absolu avait été offensée.
 
 }
 [sha:6216d51f4e2c8590c3fbe3c7478f38b0d1c30175]{
 -- Page 33, Offset 18323.
 -- 最強を自負していた人狼から、感情の起こりが消えていく。
-  Toute émotion avait disparu chez le loup-garou fier d'être le plus fort.
+　Toute émotion avait disparu chez le loup-garou fier d'être le plus fort.
 
 }
 [sha:3ddf4782bb76ff5c896df3bf3e4d345b90cac994]{
 -- Page 33, Offset 18324.
 -- つまり本気になったのだ、と理解できた者は何人いたか。
-  Il est donc enfin devenu sérieux, comprirent les personnes présentes.
+　Il est donc enfin devenu sérieux, comprirent les personnes présentes.
 
 }
 [sha:343cc6d9e9b16d67867b1a49598fdcfe6d0af3f6]{
@@ -727,31 +727,31 @@ sa vanité ne fut comblée qu'un instant.
 [sha:07ac715b3516f0f388e3df1d220f7d51e2bb67a8]{
 -- Page 34, Offset 18326.
 -- 仮初めの主人の制止など、金の獣には届かない。
-  L'interdiction de sa maîtresse temporaire ne parvint pas aux oreilles de la bête dorée.
+　L'interdiction de sa maîtresse temporaire ne parvint pas aux oreilles de la bête dorée.
 
 }
 [sha:798ab088abdfcac5d0e103c428f67b251f6347ec]{
 -- Page 34, Offset 18327.
 -- 人狼は前傾姿勢になりながら、たった十メートル先の草十郎を凝視する。
-  Le loup-garou fixait Sōjūrō à seulement dix mètres de lui tout en se penchant en avant.
+　Le loup-garou fixait Sōjūrō à seulement dix mètres de lui tout en se penchant en avant.
 
 }
 [sha:499b459178325cfbc9b68cf6cfd8e426b697845c]{
 -- Page 35, Offset 18328.
 -- そう、たった十メートル。
-  Oui, seulement dix mètres.
+　Oui, seulement dix mètres.
 
 }
 [sha:d25c49bd1f20fa6810fd51120fb86b5219360ab6]{
 -- Page 35, Offset 18329.
 -- <突進|はし>って０．５秒。
-  Une demi-seconde en chargeant.
+　Une demi-seconde en chargeant.
 
 }
 [sha:6a87116c838a56ada64083d41b5255007de2f54d]{
 -- Page 35, Offset 18330.
 -- 上から下、顔から足首まで、その爪で三枚に下ろすのにさらに０．５秒。
-  Et une autre demi-seconde pour le découper de la tête aux pieds avec ses griffes.
+　Et une autre demi-seconde pour le découper de la tête aux pieds avec ses griffes.
 
 }
 [sha:fe6108778283b898fb2dcc23563c1bb635aeee4d]{
@@ -763,24 +763,24 @@ sa vanité ne fut comblée qu'un instant.
 [sha:9b1a9740d444bc00a2821a019a69d7e1249a6928]{
 -- Page 36, Offset 18332.
 -- 凶悪な<悦|よろこ>びに満ちた呟き。
-  Son murmure débordait d'une jubilation funeste.
+　Son murmure débordait d'une jubilation funeste.
 
 }
 [sha:6430c68707207586c8359bada8995aec6d0aef99]{
 -- Page 36, Offset 18333.
 -- それだけを合図にして、人狼は草十郎へと弾け跳ぶ。
-  Le loup-garou s'élança vers Sōjūrō avec ces quatre mots pour seul signal.
+　Le loup-garou s'élança vers Sōjūrō avec ces quatre mots pour seul signal.
 
 }
 [sha:a9e09ee66d747f2ebfc747052d8d867f606072a7]{
 -- Page 36, Offset 18334.
 -- まさしく一秒。
-  Tout juste une seconde.
+　Tout juste une seconde.
 
 }
 [sha:01969acbeb92f0cb3eb623b6ec05210f8a56c467]{
 -- Page 36, Offset 18335.
 -- 金の毛並みは残像<遥|はる>かに、それは、暴風にしか見えない程の<速度|たけり>だった。
-  Sa vélocité était telle que la fourrure dorée ne laissait même pas d'image rémanente et évoquait plutôt un ouragan.
+　Sa vélocité était telle que la fourrure dorée ne laissait même pas d'image rémanente et évoquait plutôt un ouragan.
 
 }

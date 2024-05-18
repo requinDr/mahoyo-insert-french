@@ -1,6 +1,6 @@
 [sha:1e81678f8fb922d4902e9ec4e7b31217729ef12b]{
 -- Page 0, Offset 22151.
 -- わたしは、大雑把に言うとパンだ、と思った。
-  Je pensai qu'en gros, c'était du pain.
+　Je pensai qu'en gros, c'était du pain.
 
 }

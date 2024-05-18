@@ -7,19 +7,19 @@
 [sha:28ac368f3e85a13e1601000fdf29ebf5a7912fb0]{
 -- Page 0, Offset 22403.
 -- 午後四時に洋館に到着し、サンルームでお茶をいただいているとリデルくんが乱入し、その後、土桔氏が殺害されている事が判明しました。
-  Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
+　Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
 
 }
 [sha:873e48a633dc87cca51b0bbfc01a4fd4e0ad5e4a]{
 -- Page 0, Offset 22404.
 -- こちらに来てからは土桔氏と出会っていません。
-  Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.
+　Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.
 
 }
 [sha:ad6006fbc8fcbd4e0c5ea2104586d013646c48a5]{
 -- Page 0, Offset 22405.
 -- また、山城先生の姿が消えたのは土桔氏の事件が発覚する前だったと思います」
-  De plus, je soupçonne que quand nous avons découvert son cadavre, M. Yamashiro avait déjà disparu.」
+　De plus, je soupçonne que quand nous avons découvert son cadavre, M. Yamashiro avait déjà disparu.」
 
 }
 [sha:64cb7f7aea794529d9d0220f8606c532d62dc0d9]{
@@ -31,7 +31,7 @@
 [sha:895d7cf84e87e50ce1808a079cef0d8149b91535]{
 -- Page 1, Offset 22407.
 -- この屋敷に到着してから事件が起きるまで、一度も居間から離れてはいません」
-  Je n'ai pas quitté le salon une seule fois entre le moment où je suis arrivée dans cette demeure et celui où l'incident s'est déclaré.」
+　Je n'ai pas quitté le salon une seule fois entre le moment où je suis arrivée dans cette demeure et celui où l'incident s'est déclaré.」
 
 }
 [sha:45ebc3d058d006d26779189e20ed6d3f78bd8763]{
@@ -43,18 +43,18 @@
 [sha:08a5e89f6667614b1aa7f84c26b66761c81b91f9]{
 -- Page 2, Offset 22409.
 -- だ、だってアッちゃんが家にあげてくれるなんて珍しいじゃない？　<魔術品|レアもの>も見たいなー、と歩き回ってたけど、案の定、どこもロックは完璧でした。
-  A... Après tout, c'est rare que la petite Al nous laisse entrer chez elle, pas vrai ? J'ai fait le tour du propriétaire en pensant voir des objets rares, mais comme prévu, les portes étaient toutes parfaitement verrouillées.
+　A... Après tout, c'est rare que la petite Al nous laisse entrer chez elle, pas vrai ? J'ai fait le tour du propriétaire en pensant voir des objets rares, mais comme prévu, les portes étaient toutes parfaitement verrouillées.
 
 }
 [sha:8094459f41294135315d7822aed91793598d17cd]{
 -- Page 2, Offset 22410.
 -- あ、でも二階には行ってないわよ。これは本当」
-  Ah, par contre, je ne suis pas allée au premier étage. Je le jure !」
+　Ah, par contre, je ne suis pas allée au premier étage. Je le jure !」
 
 }
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 3, Offset 22411.
 -- わたしは、
-  Je...
+　Je...
 
 }

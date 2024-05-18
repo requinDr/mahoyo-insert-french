@@ -1,13 +1,13 @@
 [sha:9f9ea506ae77d77ebe88286e32e0a299d81d4fa8]{
 -- Page 0, Offset 3363.
 -- それから二時間ほど経った午後九時。
-  Environ deux heures plus tard, à neuf heures du soir.
+　Environ deux heures plus tard, à neuf heures du soir.
 
 }
 [sha:3c186a99f7eb833aa70b74bca807c30c09f09250]{
 -- Page 0, Offset 3364.
 -- ふたりは話し合いの場を居間からサンルームに移し、この洋館に不釣り合いな光景をくり広げていた。
-  Elles continuèrent la conversation après être passées du salon à la véranda, où se déroula une scène plutôt incongrue pour une résidence occidentale.
+　Elles continuèrent la conversation après être passées du salon à la véranda, où se déroula une scène plutôt incongrue pour une résidence occidentale.
 
 }
 [sha:480fa6c747fbeba903b6a21f79045998c41430ac]{
@@ -19,31 +19,31 @@
 [sha:7a9df30b9691372c61e8d32a768e61ac7722fa5e]{
 -- Page 1, Offset 3366.
 -- テーブルの上にでん、と土鍋が置かれている。
-  Sur la table était posé de l'Oden dans un poêlon.
+　Sur la table était posé de l'Oden dans un poêlon.
 
 }
 [sha:bf6176c15a64830b68434b51f4dff1ec70356070]{
 -- Page 1, Offset 3367.
 -- くつくつと温かな湯気をたてる土鍋を<箸|はし>でつつきながら、青子は誰に語るでもなくぼやいている。
-  Tout en picorant avec des baguettes dans le poêlon qui mijotait et duquel s'élevait de la vapeur, Aoko maugréait sans s'adresser à quelqu'un en particulier.
+　Tout en picorant avec des baguettes dans le poêlon qui mijotait et duquel s'élevait de la vapeur, Aoko maugréait sans s'adresser à quelqu'un en particulier.
 
 }
 [sha:04ae198d6a7b762b15d82479fdd6614949890541]{
 -- Page 2, Offset 3368.
 -- 今晩の夕食は、洋館にあるまじき和食だった。
-  Le dîner de ce soir-là était un repas japonais, une hérésie pour une résidence occidentale.
+　Le dîner de ce soir-là était un repas japonais, une hérésie pour une résidence occidentale.
 
 }
 [sha:5f99c781ac3ccf9bed65f8c1ac441acc5002f0a6]{
 -- Page 2, Offset 3369.
 -- こういう日本的、かつ材料を買ってくるだけで済む鍋物はおもに青子の担当である。
-  C'était Aoko qui se chargeait en général de cuisiner ce genre de ragoût typiquement japonais dont il suffisait d'acheter les ingrédients pour le préparer.
+　C'était Aoko qui se chargeait en général de cuisiner ce genre de ragoût typiquement japonais dont il suffisait d'acheter les ingrédients pour le préparer.
 
 }
 [sha:92702e8f839b354e35a352de65c997e0d3894b44]{
 -- Page 2, Offset 3370.
 -- 有珠は青子の対面で、やはり無言で鍋にフォークを入れていた。
-  Alice, en face d'Aoko, silencieuse comme à son habitude, mit une fourchette dans la marmite.
+　Alice, en face d'Aoko, silencieuse comme à son habitude, mit une fourchette dans la marmite.
 
 }
 [sha:56aca66db581c7fe7b722c40a21b1426cbe3bc08]{
@@ -55,13 +55,13 @@
 [sha:63de06d9f2c38d68fe19fe12b41b2a1ac487ef09]{
 -- Page 3, Offset 3372.
 -- 取った玉子はまだ乙女のように純白だったので鍋に返す。
-  L'œuf qu'elle avait pris était toujours d'un blanc immaculé, alors elle le remit dans la marmite.
+　L'œuf qu'elle avait pris était toujours d'un blanc immaculé, alors elle le remit dans la marmite.
 
 }
 [sha:f1249b880cba2f7a8c104159950052df2c35e3f5]{
 -- Page 3, Offset 3373.
 -- 仕方なく火の通りの早いしらたきに手を出した。
-  N'ayant pas d'autre alternative, elle dirigea sa baguette vers les nouilles qui cuisaient plus rapidement.
+　N'ayant pas d'autre alternative, elle dirigea sa baguette vers les nouilles qui cuisaient plus rapidement.
 
 }
 [sha:5da45715ae58885b8c3a03cb98ee84137b16560c]{
@@ -73,7 +73,7 @@
 [sha:1ca098d604c3fec172d794ec4d24b2fe5dbf0ae6]{
 -- Page 4, Offset 3375.
 -- だから出来るだけ春先までのんびりしてて、あんなのでも親身になってくれそうな部の部長にあたってみたのに。
-  C'est pour ça que je lui ai cherché un club où il pourrait se relaxer jusqu'au début du printemps et dont le président serait sympa avec lui, même s'il est bizarre.
+　C'est pour ça que je lui ai cherché un club où il pourrait se relaxer jusqu'au début du printemps et dont le président serait sympa avec lui, même s'il est bizarre.
 
 }
 [sha:5a82de60d1fa9a9e2c27524dd038cc32bd73f532]{
@@ -85,25 +85,25 @@
 [sha:5587969429a8dac0b8591fe7bf9f1e6ff1f9794d]{
 -- Page 4, Offset 3377. Glued. Mods: @x.
 -- ね、聞いてる有珠？」
-  Dis, tu m'écoutes Alice ?」
+　Dis, tu m'écoutes Alice ?」
 
 }
 [sha:01eefef7bf260f14ceccbd1bcaecfb6dfc67c802]{
 -- Page 5, Offset 3378.
 -- 具を口に含んでいたのか、声を上げずに有珠は首を縦に振った。
-  Alice hocha la tête de haut en bas sans dire un mot, sûrement parce qu'elle avait de la nourriture dans la bouche.
+　Alice hocha la tête de haut en bas sans dire un mot, sûrement parce qu'elle avait de la nourriture dans la bouche.
 
 }
 [sha:4d31c37f68c14cc201249bd2b0610ed7f0489e39]{
 -- Page 5, Offset 3379.
 -- 興味も意見もまったくないという<表情|かお>だが、話だけは聞いているようだ。
-  Son expression montrait que ça ne l'intéressait pas du tout et qu'elle n'avait pas d'avis sur la question, mais au moins, elle semblait écouter.
+　Son expression montrait que ça ne l'intéressait pas du tout et qu'elle n'avait pas d'avis sur la question, mais au moins, elle semblait écouter.
 
 }
 [sha:fea95573e2fc072100b0a4add16be7d0ac044908]{
 -- Page 5, Offset 3380.
 -- それに満足して青子ははんぺんをかじった。
-  Satisfaite, Aoko mordit dans <du hanpen.|pâté de poisson>
+　Satisfaite, Aoko mordit dans <du hanpen.|pâté de poisson>
 
 }
 [sha:48d3f3573b6878f58dd7b3cc34f36da10303e8e8]{
@@ -115,31 +115,31 @@
 [sha:b815f3c03897dfcda444f067610190c470ca62c7]{
 -- Page 6, Offset 3382.
 -- あれはいい人なんじゃなくて、ただぼんやりしてるだけなんだっての。
-  Ce n'est pas quelqu'un de bien, c'est juste qu'il est tête en l'air !
+　Ce n'est pas quelqu'un de bien, c'est juste qu'il est tête en l'air !
 
 }
 [sha:84eb0efc19f2e60b98b5423f05c66e4e083c7c9b]{
 -- Page 6, Offset 3383.
 -- ……大体、あそこまで言われて怒りもしないなんてどうかしてるわ」
-  ...... Et puis, il doit avoir un problème s'il ne s'énerve pas après tout ce que je lui ai dit.」
+　...... Et puis, il doit avoir un problème s'il ne s'énerve pas après tout ce que je lui ai dit.」
 
 }
 [sha:86ba505691af6c0a1c4301ecc8e96ce23130ea73]{
 -- Page 7, Offset 3384.
 -- 今日の生徒会室での一件を思い出す。
-  Elle se rappela de ce qui s'était passé le jour même dans la salle du conseil étudiant.
+　Elle se rappela de ce qui s'était passé le jour même dans la salle du conseil étudiant.
 
 }
 [sha:6949a770edbd1808f1d6fbd89d8431688869dbde]{
 -- Page 7, Offset 3385.
 -- 草十郎は青子の一方的な言葉に、さして反論もせずそのまま去っていった。
-  Malgré la décision arbitraire d'Aoko, Sōjūrō était parti sans vraiment protester.
+　Malgré la décision arbitraire d'Aoko, Sōjūrō était parti sans vraiment protester.
 
 }
 [sha:b013fe6458e6c85335c69088e30b3db63d89e37c]{
 -- Page 7, Offset 3386.
 -- あの取り澄ました顔を思い出すだけで残ったはんぺんを噛まずに飲みこんでしまう青子なのだった。
-  Rien qu'en se rappelant de son visage indifférent, Aoko avala sans mâcher son hanpen entamé.
+　Rien qu'en se rappelant de son visage indifférent, Aoko avala sans mâcher son hanpen entamé.
 
 }
 [sha:57a08cd9c4b294cfe91ef179c24f0c94afdf6109]{
@@ -151,7 +151,7 @@
 [sha:8976c9a11f5b304c1a69b923904ecd720cfe0682]{
 -- Page 8, Offset 3388.
 -- 草十郎の一言と、幼年期の終わりに贈られた言葉が重なる。
-  La réponse de Sōjūrō et ce qu'on lui avait dit à la fin de son enfance s'entremêlèrent.
+　La réponse de Sōjūrō et ce qu'on lui avait dit à la fin de son enfance s'entremêlèrent.
 
 }
 [sha:9a4112d16e853ba94c4111eee5973ead0d9dd74f]{
@@ -163,25 +163,25 @@
 [sha:ec285ed3977c78f108060f8de010ff947402daec]{
 -- Page 9, Offset 3390.
 -- それでも自分であり続けられるという事は、とても強い事なんだよ―――”
-  Malgré cela, le fait de pouvoir continuer à être soi-même signifie être très fort―――”
+　Malgré cela, le fait de pouvoir continuer à être soi-même signifie être très fort―――”
 
 }
 [sha:183dc6070b5de9ff4924ff3ccaa9742df60a722f]{
 -- Page 9, Offset 3391.
 -- たぶん、あの言葉は誉めてくれていたのだ。
-  Ces mots avaient sûrement pour but de la complimenter.
+　Ces mots avaient sûrement pour but de la complimenter.
 
 }
 [sha:d501448fbb5815dca55976b702336bd158726744]{
 -- Page 9, Offset 3392.
 -- でも自分にとって残酷な評価だった。
-  Mais pour elle, c'était une appréciation cruelle.
+　Mais pour elle, c'était une appréciation cruelle.
 
 }
 [sha:54bf978c015ab958c9939af4f460bcb9ffd640e5]{
 -- Page 9, Offset 3393.
 -- だって、それを告げるあの人の顔は、痛ましいものを見るような顔をしていたのだ。
-  Parce que le visage de la personne qui avait dit cette phrase semblait regarder quelque chose de pitoyable.
+　Parce que le visage de la personne qui avait dit cette phrase semblait regarder quelque chose de pitoyable.
 
 }
 [sha:2b8faee5a47ac322e3aab922118c2206d935875a]{
@@ -193,7 +193,7 @@
 [sha:98be26d32b85f430ecedec524fe2950ff4806d3e]{
 -- Page 10, Offset 3395.
 -- それでも、生涯最大の気の迷いであったワケだけど、憧れていた人物にあんな顔をされたのは幼心にショックだった。
-  Cependant, ça lui avait provoqué le plus grand désarroi de toute sa vie. Ça avait été un choc pour son cœur d'enfant de voir la personne qu'elle admirait lui montrer un tel visage.
+　Cependant, ça lui avait provoqué le plus grand désarroi de toute sa vie. Ça avait été un choc pour son cœur d'enfant de voir la personne qu'elle admirait lui montrer un tel visage.
 
 }
 [sha:d75e944fffabf2398cfc34462530011fa88affc9]{
@@ -211,7 +211,7 @@
 [sha:e9e6c94b2d8bf3f174dab37f8cf4a5327ae3cd9f]{
 -- Page 11, Offset 3398.
 -- 箸を浮かせたまま物思いに<耽|ふけ>っていた青子に、有珠は唐突にそう言い放った。
-  Face à une Aoko qui remuait ses baguettes en rêvassant, Alice avait subitement parlé.
+　Face à une Aoko qui remuait ses baguettes en rêvassant, Alice avait subitement parlé.
 
 }
 [sha:33c7e0293f7c5c5ff99695f70a19e4962473a42a]{
@@ -223,7 +223,7 @@
 [sha:a9eb969b9682a0c8bcd9b0d775325f62fff281d4]{
 -- Page 11, Offset 3400.
 -- こくり、と可憐な首が頷く。
-  Le cou charmant acquiesça.
+　Le cou charmant acquiesça.
 
 }
 [sha:4b084b8810df9d3d90ba13704abcb8f7433e444a]{
@@ -235,19 +235,19 @@
 [sha:d49ba97c63786a3abea7c5c83e89da153a1311f3]{
 -- Page 12, Offset 3402.
 -- つまり、青子はその人に喧嘩を売りたかったのね」
-  Mais d'une certaine façon, tu cherchais la bagarre avec cette personne.」
+　Mais d'une certaine façon, tu cherchais la bagarre avec cette personne.」
 
 }
 [sha:b4a7cbbcaaaa8db7fe67f0b3ae928c2cf20048ee]{
 -- Page 12, Offset 3403.
 -- はむ、と最後のはんぺんに口をつける有珠。
-  dit Alice en mangeant le dernier hanpen.
+　dit Alice en mangeant le dernier hanpen.
 
 }
 [sha:6649e75e58123164d10500d7e81a805901debd1d]{
 -- Page 12, Offset 3404.
 -- それはあんまりに予想外で、いやに的を射た意見のような。
-  Cette remarque était très surprenante et avait bizarrement mis dans le mille.
+　Cette remarque était très surprenante et avait bizarrement mis dans le mille.
 
 }
 [sha:627f8c412170bdb5ea4d7b5d5489f0dfe5488654]{
@@ -258,7 +258,7 @@
 [sha:1f6949732f0d86f61835addb81a1d315971c8e3e]{
 -- Page 13, Offset 3406. Mods: @k, @e.
 -- 私はあんなのと一秒だって関わりたくないだけだってば！
-  Je t'ai pourtant dit et redit que je ne voulais tout simplement plus avoir aucun rapport avec lui, ne serait-ce qu'une seconde !
+　Je t'ai pourtant dit et redit que je ne voulais tout simplement plus avoir aucun rapport avec lui, ne serait-ce qu'une seconde !
 
 }
 [sha:9aeee876bed44565df0961a3587648874c6df121]{
@@ -270,7 +270,7 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:6b21dc194f6494c6bb94b1a555f5fbe180b7d1d0]{
 -- Page 13, Offset 3408. Glued. Mods: @x.
 -- 会話もこれ以上ないってぐらい簡潔に切り上げたし！」
- C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
+C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
 
 }
 [sha:19a7c7891a707054f056369be64fd78f00b53311]{
@@ -288,19 +288,19 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:ec07b8e9b574b2b888e7207c11cc2423b1aa6b54]{
 -- Page 13, Offset 3411. Glued.
 -- アンタに今日の調査過程を報せてあげたのよ。それ以外何があるって言うの？」
- je t'exposais juste le déroulement de l'enquête d'aujourd'hui. Que veux-tu qu'il y ait d'autre ?」
+je t'exposais juste le déroulement de l'enquête d'aujourd'hui. Que veux-tu qu'il y ait d'autre ?」
 
 }
 [sha:29cff79624b48e16de93d7b21126e6ac61b0ea7e]{
 -- Page 14, Offset 3412.
 -- 本当に、それ以外に何があるって言うんだろう？
-  Franchement, que pouvait-il y avoir d'autre ?
+　Franchement, que pouvait-il y avoir d'autre ?
 
 }
 [sha:b9a57693973c4fe028fc4ee09565b7a461518e30]{
 -- Page 14, Offset 3413.
 -- 自ら墓穴を掘って中に入り、追い打ちとばかりに土を被っている事に青子が気付くのは数時間後、おやすみなさいとベッドに入ってからである。
-  Ce ne serait que quelques heures plus tard, après s'être séparées et couchées, qu'Aoko réaliserait qu'à la suite de cette remarque, elle avait creusé sa propre tombe, y était descendue et s'était elle-même recouverte de terre.
+　Ce ne serait que quelques heures plus tard, après s'être séparées et couchées, qu'Aoko réaliserait qu'à la suite de cette remarque, elle avait creusé sa propre tombe, y était descendue et s'était elle-même recouverte de terre.
 
 }
 [sha:8e73fc1868479daeff6876f43c6065f975081bc0]{
@@ -312,31 +312,31 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:10fbbd759cad27aac827f1a592c19b09bae7fcd9]{
 -- Page 15, Offset 3415.
 -- ただ……青子は、本当にその人が嫌いなの？」
-  Seulement...... Est-ce que tu détestes vraiment cette personne ?」
+　Seulement...... Est-ce que tu détestes vraiment cette personne ?」
 
 }
 [sha:91b3fefbcafd8dcfac732c6b52722f1ffa8384f5]{
 -- Page 15, Offset 3416.
 -- 何か神聖な作業をするように、黙々とおでんを食べながら有珠は質問する。
-  demanda Alice tout en mangeant son Oden, comme si elle accomplissait une sorte de devoir sacré.
+　demanda Alice tout en mangeant son Oden, comme si elle accomplissait une sorte de devoir sacré.
 
 }
 [sha:52df90d7228f939bc5be0b70da2118fa64af8f63]{
 -- Page 16, Offset 3417.
 -- 表情こそいつも通り無関心だが、内面では青子の態度を面白がっている節がある。
-  Son expression était comme d'habitude indifférente, mais intérieurement, une partie d'elle s'amusait de l'attitude d'Aoko.
+　Son expression était comme d'habitude indifférente, mais intérieurement, une partie d'elle s'amusait de l'attitude d'Aoko.
 
 }
 [sha:aa496dc7c8daa49e95e630f5acc4d7a0cb44a472]{
 -- Page 16, Offset 3418.
 -- そんな有珠の思惑にも青子は気付けなかった。
-  Aoko ne remarqua pas non plus les pensées d'Alice.
+　Aoko ne remarqua pas non plus les pensées d'Alice.
 
 }
 [sha:d85a8de67b955e5d67a092958476c76f4eaa2296]{
 -- Page 16, Offset 3419.
 -- いつもなら簡単に気が付くのだが、ちょっとした心の混乱がその余裕を奪っている。
-  D'habitude, elle les devinait facilement, mais un léger égarement lui avait fait perdre son sang-froid.
+　D'habitude, elle les devinait facilement, mais un léger égarement lui avait fait perdre son sang-froid.
 
 }
 [sha:bf54b40cce2646add8f4f2ddc275312db052b0e7]{
@@ -360,7 +360,7 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:3a3ed3e862c0f089dfa381e83a444074c49e9f3d]{
 -- Page 17, Offset 3423.
 -- そこまで口にして、ようやく青子はその矛盾に気が付いた。
-  Après avoir commencé à répondre, Aoko remarqua enfin sa propre contradiction.
+　Après avoir commencé à répondre, Aoko remarqua enfin sa propre contradiction.
 
 }
 [sha:73a28ed454c29132cc1c7624da1c0a36d7beae22]{
@@ -372,25 +372,25 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:d383e702f092d7d4ce3895bbafe1ebf19bb6b149]{
 -- Page 18, Offset 3425.
 -- そう、理由なんてこれっぽっちもない。
-  Exactement, elle n'avait pas la moindre raison.
+　Exactement, elle n'avait pas la moindre raison.
 
 }
 [sha:350b5399bbce0c42bccfb452cad42be3f1eb9414]{
 -- Page 18, Offset 3426.
 -- 一目見た時からあの田舎者とは相容れないな、と本能が告げただけだ。
-  Son instinct lui avait juste dit à leur première rencontre que le caractère de ce campagnard était incompatible avec le sien.
+　Son instinct lui avait juste dit à leur première rencontre que le caractère de ce campagnard était incompatible avec le sien.
 
 }
 [sha:95291cb06ae61c8e162e976a68be21a63fa263e7]{
 -- Page 18, Offset 3427.
 -- でも、それは一体どうしてだろう？
-  Mais pourquoi exactement ?
+　Mais pourquoi exactement ?
 
 }
 [sha:05491f2e75bd7d2b5b819aef8232ba346bf436af]{
 -- Page 18, Offset 3428.
 -- そもそも理由のない感情、根拠のない決めつけなんてものは、彼女が一番嫌うところだ。
-  Tout d'abord, les sentiments arbitraires et les critiques injustifiées étaient ce dont elle avait le plus horreur.
+　Tout d'abord, les sentiments arbitraires et les critiques injustifiées étaient ce dont elle avait le plus horreur.
 
 }
 [sha:804828523f52ee035c3cb179d596b2a1d1df724e]{
@@ -402,49 +402,49 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:e0e59a3279c02683c402c59c0a9af987e42e6994]{
 -- Page 19, Offset 3430.
 -- 口にすればするほど歯切れが悪くなる。
-  Plus elle parlait, plus elle s'embrouillait.
+　Plus elle parlait, plus elle s'embrouillait.
 
 }
 [sha:d2cb2e6b8c955ee8a6d1007f8762dc55f930e47d]{
 -- Page 19, Offset 3431.
 -- ……困ったことに、青子には静希草十郎を嫌がる理由が見当たらなかった。
-  ...... Malheureusement, Aoko ne trouvait pas la raison qui la poussait à détester Shizuki Sōjūrō.
+　...... Malheureusement, Aoko ne trouvait pas la raison qui la poussait à détester Shizuki Sōjūrō.
 
 }
 [sha:013cfb1195f0d75266c296c6329509ae6530bcfd]{
 -- Page 20, Offset 3432.
 -- 常識がないのは彼の今までの環境が悪いのであって、草十郎自身に非はない。
-  C'était à cause du milieu dans lequel il avait vécu jusqu'à présent si son bon sens était déficient, et Sōjūrō lui-même n'était pas en faute.
+　C'était à cause du milieu dans lequel il avait vécu jusqu'à présent si son bon sens était déficient, et Sōjūrō lui-même n'était pas en faute.
 
 }
 [sha:89601da840b3644760e1ba7b6d943f70cc69bfce]{
 -- Page 20, Offset 3433.
 -- いや、逆になんとか文明社会に順応しようとする姿勢には好感が持てる筈だ。
-  Au contraire, le voir tenter de s'adapter à la société civilisée aurait dû lui faire bonne impression.
+　Au contraire, le voir tenter de s'adapter à la société civilisée aurait dû lui faire bonne impression.
 
 }
 [sha:9433bd3d4df6bdc9e1ad9cb14bbbb7fcf43ec6f0]{
 -- Page 21, Offset 3434.
 -- ぼんやりした所も、行動が<緩慢|かんまん>という訳ではない。
-  Son attitude distraite ne voulait pas dire non plus qu'il était lent à la détente.
+　Son attitude distraite ne voulait pas dire non plus qu'il était lent à la détente.
 
 }
 [sha:c6564a460f2da63435d291db26737bd004180cab]{
 -- Page 21, Offset 3435.
 -- 彼の仕草や言動がワンテンポ遅く見えるのは、彼が自分の言動に注意を払っているからであり、結果、緩やかに見えるだけなのだ。
-  Il donnait l'impression de toujours réagir avec un train de retard, mais c'était parce qu'il faisait lui-même très attention aux conséquences de ses actes, ce qui lui donnait son côté mollasson.
+　Il donnait l'impression de toujours réagir avec un train de retard, mais c'était parce qu'il faisait lui-même très attention aux conséquences de ses actes, ce qui lui donnait son côté mollasson.
 
 }
 [sha:9c655645e692a244f081e7959bf5f8b2a8dbe506]{
 -- Page 21, Offset 3436.
 -- そうやって静希草十郎という人物をあくまで公平に環境と人格に分けて評価すれば、結果は分かりきっている。
-  Ainsi, en évaluant objectivement la personnalité et l'entourage de la personne qu'était Shizuki Sōjūrō, la réponse était évidente.
+　Ainsi, en évaluant objectivement la personnalité et l'entourage de la personne qu'était Shizuki Sōjūrō, la réponse était évidente.
 
 }
 [sha:fd409129d2f6215d83a1c763c1beaf5892421759]{
 -- Page 21, Offset 3437.
 -- 認めたくないが、みんなの言う通り、嫌味のない『いい人』像がそこにある。
-  Elle refusait de l'admettre, mais honnêtement, comme tout le monde le disait, c'était là le portrait de “quelqu'un de bien”.
+　Elle refusait de l'admettre, mais honnêtement, comme tout le monde le disait, c'était là le portrait de “quelqu'un de bien”.
 
 }
 [sha:f9c87c61cef579f7abc915cb9613219ab5d87ebf]{
@@ -456,37 +456,37 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:0599833538eb271dab0f1ec7fd86de782f37d1c6]{
 -- Page 22, Offset 3439.
 -- ダメな部分は山ほどあるのでとりあえずそこは保留。
-  Il avait énormément de défauts d'un point de vue pratique, mais pour l'heure, ce n'était pas la question.
+　Il avait énormément de défauts d'un point de vue pratique, mais pour l'heure, ce n'était pas la question.
 
 }
 [sha:7291f1ecb2218506f7c23ffd52bd45715a4a0f67]{
 -- Page 22, Offset 3440.
 -- 今まで忙しなく動いていたおでんをつつく箸は、ここで完全に停止した。
-  Ses baguettes, qui remuaient l'Oden et tournaient sans relâche jusqu'à présent, s'arrêtèrent net à ce moment-là.
+　Ses baguettes, qui remuaient l'Oden et tournaient sans relâche jusqu'à présent, s'arrêtèrent net à ce moment-là.
 
 }
 [sha:0fac64648759e716efc54c7179878ce038cb8450]{
 -- Page 22, Offset 3441.
 -- なんか、ますますムカつく。
-  Ça l'énervait de plus en plus.
+　Ça l'énervait de plus en plus.
 
 }
 [sha:843fe01709645b61cfcea0fb5de1e621395f9cc2]{
 -- Page 23, Offset 3442.
 -- 理由のない反感に青子はぐるぐる頭を回す。
-  Aoko secoua la tête en réalisant l'absence de fondement de son animosité.
+　Aoko secoua la tête en réalisant l'absence de fondement de son animosité.
 
 }
 [sha:56b80bcd58e75539f78e48a14c546fcd3d632eec]{
 -- Page 23, Offset 3443.
 -- それはまずい、自分的にそんなのは許容できない、と必死に静希草十郎を分析するのだが、ますます自分を追いつめるだけだった。
-  Bon sang, je ne peux pas me permettre ça, pensa-t-elle en analysant désespérément Shizuki Sōjūrō, mais plus elle réfléchissait, plus elle s'enfonçait elle-même.
+　Bon sang, je ne peux pas me permettre ça, pensa-t-elle en analysant désespérément Shizuki Sōjūrō, mais plus elle réfléchissait, plus elle s'enfonçait elle-même.
 
 }
 [sha:72a15199ce976acd74278bb8cc9062c083644822]{
 -- Page 24, Offset 3444.
 -- そんな袋小路に<陥|おちい>った青子を、有珠はまじまじと眺める。
-  Alice fixait attentivement cette Aoko qui s'était acculée dans une impasse.
+　Alice fixait attentivement cette Aoko qui s'était acculée dans une impasse.
 
 }
 [sha:033c722aec834e08675089d109fd33f094ee4e96]{
@@ -498,7 +498,7 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:34092656d2c59db23daf60c7fdbb8670687ecac4]{
 -- Page 24, Offset 3446.
 -- 小さな嘆息。
-  Un léger soupir.
+　Un léger soupir.
 
 }
 [sha:933f8b1cda2ae66021e351aa94cc0e85c83b59bc]{
@@ -510,18 +510,18 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:003f8de32cd9c4569383f3731e3835e8b5eed753]{
 -- Page 24, Offset 3448.
 -- その一言は、青子にとってまさにとどめだった。
-  Pour Aoko, cette phrase fut vraiment le coup de grâce.
+　Pour Aoko, cette phrase fut vraiment le coup de grâce.
 
 }
 [sha:1bc4f633fc96459e3c27ed6e3015299dfc21cbe7]{
 -- Page 24, Offset 3449.
 -- 自分の理解不能ぶりに目眩がする。
-  Son incapacité à se comprendre elle-même lui donna des vertiges.
+　Son incapacité à se comprendre elle-même lui donna des vertiges.
 
 }
 [sha:fc72f8d18e1ed6bb67ac35f0f3a2adbcc8b4566b]{
 -- Page 24, Offset 3450.
 -- ご馳走さまと有珠が居間に立ち去った後、しばらく椅子から立てなかった程に。
-  Au point qu'après qu'Alice fut retournée dans le salon, son repas fini, elle ne put se lever de sa chaise pendant un moment.
+　Au point qu'après qu'Alice fut retournée dans le salon, son repas fini, elle ne put se lever de sa chaise pendant un moment.
 
 }

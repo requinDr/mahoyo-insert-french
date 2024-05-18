@@ -1,19 +1,19 @@
 [sha:20b3c9ee487f47cf0917d823656ec04b4ee6bd2f]{
 -- Page 0, Offset 19179.
 -- 後になって青子は振り返る。
-  Ce n'est qu'après avoir ressassé cette conversation qu'Aoko réaliserait quelque chose :
+　Ce n'est qu'après avoir ressassé cette conversation qu'Aoko réaliserait quelque chose :
 
 }
 [sha:e56f96efbbc24970a196af4a4edf736ad58c0d25]{
 -- Page 0, Offset 19180.
 -- あれは会話ではなく告解に近いもので―――
-  le monologue de Sōjūrō avait tout d'une confession.
+　le monologue de Sōjūrō avait tout d'une confession.
 
 }
 [sha:77d89a9a06462e476332b1cf2e1a818a14e74400]{
 -- Page 0, Offset 19181.
 -- 彼にしては長く続けられた、不出来な昔話のようだったと。
-  Pour lui, il s'agissait d'une longue et vieille histoire honteuse.
+　Pour lui, il s'agissait d'une longue et vieille histoire honteuse.
 
 }
 [sha:5fed7c51542fa5d2d4945ad417bb80a865b349a1]{
@@ -25,13 +25,13 @@
 [sha:092babc022912b4710820a045e3f4ae868054e55]{
 -- Page 1, Offset 19183. Glued.
 -- 毎日同じ事を繰り返して、毎日同じ事を教えられた。
- Chaque jour ressemblait au précédent, et j'apprenais encore et encore les mêmes choses.
+Chaque jour ressemblait au précédent, et j'apprenais encore et encore les mêmes choses.
 
 }
 [sha:3ce695bf49400f2e848b5d9755f2775b51743004]{
 -- Page 1, Offset 19184.
 -- そこでは明日はないんだ。
-  Là-bas, il n'y a pas de lendemain.
+　Là-bas, il n'y a pas de lendemain.
 
 }
 [sha:ed934bb03191d5c66422933ccb2cdebc4549f9e3]{
@@ -43,7 +43,7 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:ed081922c2ec9b3af8b0aef3c4b5b9ec25e73042]{
 -- Page 1, Offset 19186. Glued.
 -- だから、明日を夢見る事もない」
- Jamais on ne rêve d'avenir.」
+Jamais on ne rêve d'avenir.」
 
 }
 [sha:8d33a348820ed56c4f9052cda3a60a6409691d40]{
@@ -55,37 +55,37 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:96145afb770d66eab207a3a37ecf45dc1fd8a883]{
 -- Page 2, Offset 19188.
 -- 初めは馴染めなかったし、馴染む気もなかった。
-  Au début, je ne m'y faisais pas et ce n'était d'ailleurs pas dans mon intention.
+　Au début, je ne m'y faisais pas et ce n'était d'ailleurs pas dans mon intention.
 
 }
 [sha:352d1c586bbedc67b542fc8b64e38d036d27f76c]{
 -- Page 2, Offset 19189.
 -- けど、みんながまた明日、と満足そうに口にする。いつのまにか、そういうものを夢見るようになっている自分がいた」
-  Pourtant, tout le monde me disait gaiement “à demain”. Avant que je ne m'en rende compte, une partie de moi s'était mise à rêver.」
+　Pourtant, tout le monde me disait gaiement “à demain”. Avant que je ne m'en rende compte, une partie de moi s'était mise à rêver.」
 
 }
 [sha:dd1495ad11fa02e7917676d04947636fd624098d]{
 -- Page 3, Offset 19190.
 -- 歩きながら草十郎は語っていく。
-  Sōjūrō contait son histoire tout en marchant.
+　Sōjūrō contait son histoire tout en marchant.
 
 }
 [sha:27aa5a856897c3e8d1295f828777bf27f7077ba7]{
 -- Page 3, Offset 19191.
 -- 青子には視線を向けず、前を見つめながら、夜に語りかけるように。
-  Il avait les yeux rivés sur le vide devant lui et n'adressait pas un seul regard à Aoko. On aurait pu croire qu'il parlait à la nuit.
+　Il avait les yeux rivés sur le vide devant lui et n'adressait pas un seul regard à Aoko. On aurait pu croire qu'il parlait à la nuit.
 
 }
 [sha:7a9b1ac216bda7bff26b4150ff0fcb03fbd03a94]{
 -- Page 3, Offset 19192.
 -- 青子は沈黙に徹している。
-  La jeune fille gardait le silence.
+　La jeune fille gardait le silence.
 
 }
 [sha:966bc18db456ead2f11bca35b2d9290eef376276]{
 -- Page 3, Offset 19193.
 -- うなずきも問いかけも、今は無意味な行いだ。
-  Pour le moment, elle sentait qu'il ne fallait pas l'interrompre en acquiesçant ou en le questionnant.
+　Pour le moment, elle sentait qu'il ne fallait pas l'interrompre en acquiesçant ou en le questionnant.
 
 }
 [sha:54455fc92b8bf9405a4049fc973496c52dcabb57]{
@@ -97,13 +97,13 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:1ef64324aa224522e3c29b17ab458f572a22bfb1]{
 -- Page 4, Offset 19195.
 -- 訊ねてみると、夜に体調を崩したらしい。たまにね、眠れなくなって家から出ていって、それっきりな人もいたんだ。
-  Quand je demandais ce qui lui était arrivé, on me disait toujours qu'il était tombé malade au cours de la nuit. D'autres fois, certains n'arrivaient pas à dormir et sortaient pour se dégourdir les jambes. Je ne les revoyais jamais.
+　Quand je demandais ce qui lui était arrivé, on me disait toujours qu'il était tombé malade au cours de la nuit. D'autres fois, certains n'arrivaient pas à dormir et sortaient pour se dégourdir les jambes. Je ne les revoyais jamais.
 
 }
 [sha:9702c464121ff7b1db29793142f2aae11f3ed1a4]{
 -- Page 4, Offset 19196.
 -- 見なくなってしばらくした後、崖の下で見覚えのある遺体を見付けた事もあった」
-  Une fois, j'ai même découvert le corps d'une connaissance au pied d'une falaise, peu de temps après sa disparition.」
+　Une fois, j'ai même découvert le corps d'une connaissance au pied d'une falaise, peu de temps après sa disparition.」
 
 }
 [sha:a3fe51f8e921070a05ee6f4ba48cd324a1bc8a8a]{
@@ -115,7 +115,7 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:d907a6f7b7df86913aaeaf555a583a40017cd03b]{
 -- Page 5, Offset 19198.
 -- 集まって暮らしていればそんな事にはならなかったのに、自分たちは関わらなかった。一日で完結する世界だったから、他人は必要じゃなかったのかも知れない」
-  Ça ne serait pas arrivé si nous avions vécu en groupe, mais nous préférions garder nos distances. Comme le monde s'achevait en un jour, peut-être pensions-nous pouvoir suffire à nous-mêmes.」
+　Ça ne serait pas arrivé si nous avions vécu en groupe, mais nous préférions garder nos distances. Comme le monde s'achevait en un jour, peut-être pensions-nous pouvoir suffire à nous-mêmes.」
 
 }
 [sha:d4281d551bfd782e3e64ed3c8167b67fc43bb324]{
@@ -133,43 +133,43 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:21f60946c14bcbd55fd08dfd386811b6685f29ce]{
 -- Page 7, Offset 19201. Mods: @n.
 -- 口にできるものを探す時、気をくばる相手は犬だの熊だのだけで、人を気にする事はなかったんだよ。
-  En montagne, personne ne tentait de voler qui que ce soit. Lorsque je cherchais quelque chose à me mettre sous la dent, il n'y avait que les chiens et les ours qui représentaient un danger, jamais les hommes.
+　En montagne, personne ne tentait de voler qui que ce soit. Lorsque je cherchais quelque chose à me mettre sous la dent, il n'y avait que les chiens et les ours qui représentaient un danger, jamais les hommes.
 
 }
 [sha:01963fb1940eb10a52b3ad70bc79509153ba4076]{
 -- Page 7, Offset 19202. Glued.
 -- 今は、その逆になりつつあるけど。
- Maintenant, c'est plutôt le contraire.
+Maintenant, c'est plutôt le contraire.
 
 }
 [sha:18580c3f8b074579721d7e1fa19ffeeaa8e5b483]{
 -- Page 7, Offset 19203.
 -- ともかく、生活の半分はそれだけで済んでいた」
-  À l'époque, trouver à manger occupait bien la moitié de mes journées.」
+　À l'époque, trouver à manger occupait bien la moitié de mes journées.」
 
 }
 [sha:95f063fffc6467e65371458842431fa18894f700]{
 -- Page 8, Offset 19204.
 -- 草十郎は変わらず前を見つめている。
-  Le regard de Sōjūrō était toujours braqué vers l'avant.
+　Le regard de Sōjūrō était toujours braqué vers l'avant.
 
 }
 [sha:7d1bc3550deb9bf87d8964c53a9f26c8db4604c5]{
 -- Page 8, Offset 19205.
 -- 思い出に苦しんでいる様子はない。
-  Ces souvenirs semblaient le laisser indifférent.
+　Ces souvenirs semblaient le laisser indifférent.
 
 }
 [sha:20b4becf4610b3dc05eab25e2d810b858e213ddf]{
 -- Page 8, Offset 19206.
 -- 青子から見ればとても人の住む環境ではないソレを、彼は当然と思っている。むしろ懐かしがってさえいるようだ。
-  Aoko avait le sentiment que l'endroit qu'il décrivait n'avait rien d'un environnement hospitalier, mais pour lui, c'était normal. Il semblait même lui manquer.
+　Aoko avait le sentiment que l'endroit qu'il décrivait n'avait rien d'un environnement hospitalier, mais pour lui, c'était normal. Il semblait même lui manquer.
 
 }
 [sha:3512d843c9a1738770efbb2820b8345091024dc7]{
 -- Page 8, Offset 19207.
 -- けれど、そこからの告白は、ゆっくりと苦悩を刻んでいった。
-  Mais l'aveu qui suivit révéla peu à peu sa souffrance.
+　Mais l'aveu qui suivit révéla peu à peu sa souffrance.
 
 }
 [sha:f8c0a05ffabbd95d9f72806b4a15b82b31951d98]{
@@ -181,13 +181,13 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:063267648c8cde608716da5b1b22e65c5b1e4c3d]{
 -- Page 9, Offset 19209.
 -- 学校の授業に比べたら些細な事だ。単に、自分の体はどう動くものなのか、生き物はどう動くものなのかを、よく見て、よく考えろと言われた。
-  Ça n'avait rien à voir avec les cours du lycée. Je devais simplement observer attentivement la façon dont le corps humain et les animaux bougeaient et bien y réfléchir.
+　Ça n'avait rien à voir avec les cours du lycée. Je devais simplement observer attentivement la façon dont le corps humain et les animaux bougeaient et bien y réfléchir.
 
 }
 [sha:ae156d2cf4b2322d2845fb44c969f3a1db13c5c9]{
 -- Page 9, Offset 19210.
 -- 単純な反復運動だ。小石を蹴ったり森の中にこもったり、まあ、そんな意味合いのコトをやっていたんだ」
-  C'étaient des exercices simples et répétitifs. Je courais sur des galets, je me faufilais dans la forêt. Bref, des activités assez physiques.」
+　C'étaient des exercices simples et répétitifs. Je courais sur des galets, je me faufilais dans la forêt. Bref, des activités assez physiques.」
 
 }
 [sha:9f75b9233f3bc0957ff21af0ec528abe2fa14ccb]{
@@ -199,13 +199,13 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:98667e9af773930026773d70bb1f35bd49bf8546]{
 -- Page 10, Offset 19212.
 -- 外の変化に気持ちを向ける余裕はなくて、ふと気が付くとずいぶん長く食事をしていない、なんてのもざらだった。
-  De toute façon, je n'avais pas le luxe de me préoccuper de ce qui se passait autour de moi, et il m'arrivait souvent de réaliser que je n'avais pas mangé depuis des jours.
+　De toute façon, je n'avais pas le luxe de me préoccuper de ce qui se passait autour de moi, et il m'arrivait souvent de réaliser que je n'avais pas mangé depuis des jours.
 
 }
 [sha:f6ec799b50feba1cd58c371b344dd9ed8723602a]{
 -- Page 10, Offset 19213.
 -- あ、ちゃんとご<飯|はん>はもらえたよ、そういうのの後は」
-  Enfin... On finissait bien par me donner à manger... une fois que c'était fini.」
+　Enfin... On finissait bien par me donner à manger... une fois que c'était fini.」
 
 }
 [sha:739276dcf9ca287eafbbd99b3258cf299c51c088]{
@@ -217,13 +217,13 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:0fbc797a802f5e6b0e9e6efa8e8b5bf4ff26527e]{
 -- Page 11, Offset 19215.
 -- ただ山で暮らしていくには役に立ったし、そもそもあれだって生活の一部だった。
-  Je sais seulement que c'était utile pour survivre en montagne et que cet enseignement faisait partie intégrante de mon quotidien.
+　Je sais seulement que c'était utile pour survivre en montagne et que cet enseignement faisait partie intégrante de mon quotidien.
 
 }
 [sha:5e5efcc7cc20d3d4b3d2b443f99ef62c7a83f710]{
 -- Page 11, Offset 19216.
 -- 生きるって事はそうする事だって思ってた。こうやって息をして歩くためには、あの繰り返しは当然のものだったんだ」
-  Je croyais que vivre se résumait à ça. Que cette routine était essentielle pour respirer et marcher.」
+　Je croyais que vivre se résumait à ça. Que cette routine était essentielle pour respirer et marcher.」
 
 }
 [sha:3cc8be00c9dcfe073cad14d2599351eadca30bbc]{
@@ -235,13 +235,13 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:ae335c4e540b75f3d2faf5523384fb636f8a3841]{
 -- Page 12, Offset 19218.
 -- 草十郎は淡々と語るけれど、その異常さに青子は口を挟んでしまった。
-  Sōjūrō parlait d'un ton détaché, mais l'étrangeté de ses propos poussa Aoko à l'interrompre.
+　Sōjūrō parlait d'un ton détaché, mais l'étrangeté de ses propos poussa Aoko à l'interrompre.
 
 }
 [sha:58ac156654be8d00697b1af0bc29c45b28612b50]{
 -- Page 12, Offset 19219.
 -- 彼は歩きながら、うん、とうなずいて青子にちらりと視線を移す。
-  Il lança un coup d'œil vers la jeune fille tandis que ses jambes l'amenaient vers leur destination, et il confirma ses soupçons.
+　Il lança un coup d'œil vers la jeune fille tandis que ses jambes l'amenaient vers leur destination, et il confirma ses soupçons.
 
 }
 [sha:098a54a41012508c15479b70d444c380dc47478a]{
@@ -253,7 +253,7 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:e4168a01a0f4cfd93ed17b7bbb6a4ab4672e22ee]{
 -- Page 13, Offset 19221.
 -- たまにいなくなる知り合いは、山の土になったんじゃなくて、他の場所で、他の理由で消えた場合もあったんだろう」
-  Parmi mes amis disparus, j'imagine que certains ne sont pas morts en montagne, mais ailleurs et pour d'autres raisons.」
+　Parmi mes amis disparus, j'imagine que certains ne sont pas morts en montagne, mais ailleurs et pour d'autres raisons.」
 
 }
 [sha:36dec79ebbc911c495a934bf892db1591546d52f]{
@@ -265,25 +265,25 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:2616e514ba20f752db4dd7d825aef09fd02e701d]{
 -- Page 14, Offset 19223.
 -- 精神の<隙間|すきま>を知れだの、命の勝ち負けを知れだの、意味をくみ取らないまま<鵜|う><呑|の>みにして、当然のように繰り返した。
-  On nous disait d'analyser les pensées de l'adversaire ou de savoir ce qui décide de la victoire dans un duel à mort, et on assimilait tout ça sans chercher à en comprendre le sens. Puis on répétait ce cycle comme s'il n'y avait rien de plus normal.
+　On nous disait d'analyser les pensées de l'adversaire ou de savoir ce qui décide de la victoire dans un duel à mort, et on assimilait tout ça sans chercher à en comprendre le sens. Puis on répétait ce cycle comme s'il n'y avait rien de plus normal.
 
 }
 [sha:fe5690f9c5eac25d239e1f4dcf322d9629d90b81]{
 -- Page 14, Offset 19224.
 -- それがどう評価されるものなのか、俺には分からない。
-  Je ne sais pas de quelle façon nous étions évalués.
+　Je ne sais pas de quelle façon nous étions évalués.
 
 }
 [sha:835475ea38b86e92536bfe8aa2f6139b95825052]{
 -- Page 14, Offset 19225.
 -- ただ、知らなければ。
-  Seulement, si j'étais resté dans l'ignorance...
+　Seulement, si j'étais resté dans l'ignorance...
 
 }
 [sha:0deb9f523ea88f6611b9da873c90aab09a483a6d]{
 -- Page 14, Offset 19226.
 -- 外の事なんて知らなければ、悩むことなく、自分はそこに居続けられたと思う」
-  Si je n'avais pas connu le monde extérieur, je serais probablement resté là-bas sans me soucier de rien.」
+　Si je n'avais pas connu le monde extérieur, je serais probablement resté là-bas sans me soucier de rien.」
 
 }
 [sha:98df8fb9c38becc8422aca995e1655d23a384958]{
@@ -295,73 +295,73 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:045a7e2b23a5cb34a447fd4d999ae29da0e32ef4]{
 -- Page 15, Offset 19228.
 -- その問いに、彼は答えなかった。
-  Sōjūrō ne répondit d'abord rien.
+　Sōjūrō ne répondit d'abord rien.
 
 }
 [sha:4d63f1078676c9900b5064e51ddf0bddf6a0f085]{
 -- Page 15, Offset 19229.
 -- 無言のまま足は進む。
-  Il avançait en silence.
+　Il avançait en silence.
 
 }
 [sha:f7471e5df9950e321a6680dd73025bb0b437179b]{
 -- Page 15, Offset 19230.
 -- ……数々の矛盾、点在していた不合理を、今更ながら青子は噛みしめる。
-  ...... Il était certes un peu tard pour cela, mais Aoko repensa aux nombreuses contradictions qui entouraient Sōjūrō.
+　...... Il était certes un peu tard pour cela, mais Aoko repensa aux nombreuses contradictions qui entouraient Sōjūrō.
 
 }
 [sha:ef918082188f7c740ee222d31cb9a42054ca0006]{
 -- Page 16, Offset 19231.
 -- たとえば、この少年の教養のバランスだ。
-  Par exemple, la façon atypique dont il avait été éduqué.
+　Par exemple, la façon atypique dont il avait été éduqué.
 
 }
 [sha:56f322e88d5a3f199c4994c86d40775f6f819fef]{
 -- Page 16, Offset 19232.
 -- 文明の機器をまったく知らないくせに、基礎知識だけは持ち合わせていた。
-  La technologie de la civilisation actuelle était un mystère pour lui, mais il en connaissait les principes élémentaires.
+　La technologie de la civilisation actuelle était un mystère pour lui, mais il en connaissait les principes élémentaires.
 
 }
 [sha:ee0d1083125d484aaff85c5f67cbf60fc40d00a2]{
 -- Page 16, Offset 19233.
 -- 今の話では人付き合いは皆無だというのに、意思の<疎通|そつう>、言葉による対話に慣れていた。
-  D'après ses explications, il n'avait guère entretenu de relations avec d'autres gens, mais il était habitué au dialogue et à l'entente mutuelle.
+　D'après ses explications, il n'avait guère entretenu de relations avec d'autres gens, mais il était habitué au dialogue et à l'entente mutuelle.
 
 }
 [sha:ce6398e9b2fdf1f40f9d0e9fe1d42ce69eeb644b]{
 -- Page 16, Offset 19234.
 -- それは偶発的には生まれるはずのない環境、第三者の意図によって作られた<異常性|おかしさ>だ。
-  Quelqu'un avait créé délibérément cette étrangeté, au moyen d'un monde artificiel.
+　Quelqu'un avait créé délibérément cette étrangeté, au moyen d'un monde artificiel.
 
 }
 [sha:3d2213bc8b3931ac61236f9014e1b44804da5563]{
 -- Page 17, Offset 19235.
 -- ……その、第三者の意図など青子には分からない。
-  ...... Aoko ne parvenait pas à comprendre les motivations de la personne derrière tout ça.
+　...... Aoko ne parvenait pas à comprendre les motivations de la personne derrière tout ça.
 
 }
 [sha:a3f91c8570bda16e6edf915d29fbb903f27c66f4]{
 -- Page 17, Offset 19236.
 -- 彼のような人間を育てる事に何の意味があったのか。
-  Quel intérêt y avait-il à élever un humain de cette façon ?
+　Quel intérêt y avait-il à élever un humain de cette façon ?
 
 }
 [sha:34845e61eab574fef909041e78b45794bd10a8e6]{
 -- Page 17, Offset 19237.
 -- 利害目的か、それとも、その山奥ではいまだに当然の<生活|ありかた>だったのか。
-  Était-ce dans un but précis ? Ou bien s'agissait-il, encore de nos jours, d'une éducation normale au fin fond de ces montagnes ?
+　Était-ce dans un but précis ? Ou bien s'agissait-il, encore de nos jours, d'une éducation normale au fin fond de ces montagnes ?
 
 }
 [sha:6adf3f5ca1e5eb475d92627d1320d778d57de17d]{
 -- Page 18, Offset 19238.
 -- 彼は一度だけ、どうして、と訊ねたコトがあるらしい。
-  Sōjūrō en avait, à une seule occasion, demandé la raison.
+　Sōjūrō en avait, à une seule occasion, demandé la raison.
 
 }
 [sha:ef9c1b6f9562e3d6ece1f129e1ec65deb9c413a4]{
 -- Page 18, Offset 19239.
 -- 疑問を覚えた彼に、彼を引き取った老人は、
-  En voyant ses doutes, le vieil homme qui l'avait élevé lui avait confié ces quelques mots en souriant :
+　En voyant ses doutes, le vieil homme qui l'avait élevé lui avait confié ces quelques mots en souriant :
 
 }
 [sha:afe13ec86899b4346d068391de57ce93d9ffb6dc]{
@@ -373,37 +373,37 @@ La journée commence à l'aube et se termine à la nuit tombée, elle n'a aucune
 [sha:fdf9d076d7cb8713a31852abbefd60c1fdb5379c]{
 -- Page 18, Offset 19241.
 -- 続ける理由もなかったが、止める理由もなかったのさ”
-  Même si on n'a aucune raison de continuer, on n'en a aucune pour arrêter non plus.”
+　Même si on n'a aucune raison de continuer, on n'en a aucune pour arrêter non plus.”
 
 }
 [sha:8090de3e9d6cb12c9062910c3d4e6534131a6ce3]{
 -- Page 18, Offset 19242.
 -- そう笑って、彼に<戸籍|こせき>と新生活を<見繕|みつくろ>って、山以外で<野|の><垂|た>れ死ねと見送った。
-  Il lui avait ensuite donné un état civil et une nouvelle vie avant de l'envoyer mourir comme un chien hors de la montagne.
+　Il lui avait ensuite donné un état civil et une nouvelle vie avant de l'envoyer mourir comme un chien hors de la montagne.
 
 }
 [sha:a55d953484c9e687381830765cbccb846d10fcd8]{
 -- Page 19, Offset 19243.
 -- 道の終わりには、彼女の帰る場所があった。
-  Un foyer attendait la jeune fille au bout du chemin.
+　Un foyer attendait la jeune fille au bout du chemin.
 
 }
 [sha:1b87456573ad9c480f71f17c3db09b2701eae2fe]{
 -- Page 19, Offset 19244.
 -- これといって特色のない一般家屋。
-  C'était une maison ordinaire, sans rien de particulier.
+　C'était une maison ordinaire, sans rien de particulier.
 
 }
 [sha:e9c56008cd13acec83faa184c8611c1b825755ef]{
 -- Page 19, Offset 19245.
 -- 街にある一戸建てをそのまま持ってきて、日々の趣味として畑や家畜を育てている、あまりにも平和な家。
-  Ce genre de demeure aurait parfaitement pu se trouver en ville, sauf que ses résidents avaient pour passe-temps de cultiver les champs et d'élever des animaux domestiques dans un environnement paisible.
+　Ce genre de demeure aurait parfaitement pu se trouver en ville, sauf que ses résidents avaient pour passe-temps de cultiver les champs et d'élever des animaux domestiques dans un environnement paisible.
 
 }
 [sha:26d08622d5288b529fa0a1e76e32ef579b57e5e8]{
 -- Page 19, Offset 19246.
 -- それを視界に収めて、先ほどの少女の問いに答えようと、彼は口を開けた。
-  Quand la villa apparut dans son champ de vision, Sōjūrō ouvrit la bouche pour enfin répondre à la précédente question de la jeune fille.
+　Quand la villa apparut dans son champ de vision, Sōjūrō ouvrit la bouche pour enfin répondre à la précédente question de la jeune fille.
 
 }
 [sha:c8471847b0e912d26b0b6ec862f3161ede46001c]{
@@ -421,13 +421,13 @@ La suite n'a rien de compliqué.
 [sha:5c84773a1b65943941166583578395c12b652090]{
 -- Page 20, Offset 19249.
 -- 鳴けない鳥はいらないと言われた。
-  On m'a dit qu'un oiseau incapable de chanter n'est qu'un fardeau.
+　On m'a dit qu'un oiseau incapable de chanter n'est qu'un fardeau.
 
 }
 [sha:efc81c2727c2d7191c9dacbaf567c81fe23095d2]{
 -- Page 20, Offset 19250.
 -- 今まで疑いもなく出来た事を、意味を知っただけで出来なくなったものはいらないと」
-  Qu'on n'avait pas besoin d'un type incapable d'obéir sans hésitation sous prétexte qu'il connaît maintenant le sens de ses actions.」
+　Qu'on n'avait pas besoin d'un type incapable d'obéir sans hésitation sous prétexte qu'il connaît maintenant le sens de ses actions.」
 
 }
 [sha:78d7049ce1979265eee620d00ab0e6e23c8c778e]{
@@ -439,25 +439,25 @@ La suite n'a rien de compliqué.
 [sha:57b1619a073ab95f54c7438552550eec4ffb8c3b]{
 -- Page 21, Offset 19252.
 -- 俺は意味を知った瞬間に、意味を信じるコトができなくなった。だから山を下りたんだ。
-  Au moment où j'ai appris son sens, j'ai perdu toute foi en cet enseignement. C'est pour ça que j'ai quitté la montagne.
+　Au moment où j'ai appris son sens, j'ai perdu toute foi en cet enseignement. C'est pour ça que j'ai quitté la montagne.
 
 }
 [sha:a272fb6938dada0eb1d3604e7f61817009d0ed4b]{
 -- Page 21, Offset 19253.
 -- ……けれど、どうなんだろう。
-  ...... Mais aurais-je vraiment dû ?
+　...... Mais aurais-je vraiment dû ?
 
 }
 [sha:3b17b4a405eae196a5eee4a2379632491f9b1426]{
 -- Page 21, Offset 19254.
 -- そこでは、そうする事だけが全てだった。
-  Là-bas, cet acte représentait tout.
+　Là-bas, cet acte représentait tout.
 
 }
 [sha:10ace534b1270a5112c104f4280f0e2a1913318d]{
 -- Page 21, Offset 19255.
 -- そうする事だけしか教えられなかった。
-  C'est tout ce qu'on m'ait jamais appris.
+　C'est tout ce qu'on m'ait jamais appris.
 
 }
 [sha:01d2a7cc3833635dbf9c4ccbae77f747e62ca993]{
@@ -469,109 +469,109 @@ Alors―――」
 [sha:ddde9f3ff78bd715fd91ea494a02bb68610cc11a]{
 -- Page 22, Offset 19257.
 -- 間違えていたのは。
-  Celui qui avait tort, celui qui était étrange...
+　Celui qui avait tort, celui qui était étrange...
 
 }
 [sha:fab02a03e4a04821d399fd3a4603f12a88e9a3ef]{
 -- Page 22, Offset 19258.
 -- おかしかったのは、疑いを持ってしまった自分だったのか、と。
-  Était-ce lui ? Celui qui avait fini par douter ?
+　Était-ce lui ? Celui qui avait fini par douter ?
 
 }
 [sha:c1cf89d59e7ff3bc19499fd91f73b1c616e35833]{
 -- Page 22, Offset 19259.
 -- 自戒のように、彼の呟きは途切れていった。
-  Sa phrase avait pris fin sur un murmure d'où perçait le regret.
+　Sa phrase avait pris fin sur un murmure d'où perçait le regret.
 
 }
 [sha:bd8019f0f690b606e1102abe99158784b17ba2ac]{
 -- Page 23, Offset 19260.
 -- ……青子は思う。
-  ...... Aoko soupesa la question.
+　...... Aoko soupesa la question.
 
 }
 [sha:a54defc7c8c756995783d97c8428da86d8b35a37]{
 -- Page 23, Offset 19261.
 -- 彼の<棲|す>んでいた世界は、ある意味で完成していた。
-  Le monde où il avait vécu était, dans un certain sens, parfait.
+　Le monde où il avait vécu était, dans un certain sens, parfait.
 
 }
 [sha:e87a5660b741dca8fa9cbec574d7fcb3323a6b9d]{
 -- Page 24, Offset 19262.
 -- 一つの事柄を成立させたければ、それ以外は何もない世界を作ればいい。
-  Afin d'achever quelque chose, il suffit de créer un monde où rien d'autre n'existe.
+　Afin d'achever quelque chose, il suffit de créer un monde où rien d'autre n'existe.
 
 }
 [sha:4380bb4fab7525f457176e85e701a1e076f89f96]{
 -- Page 24, Offset 19263.
 -- それがどんな不道徳な事でも、不道徳という概念を知らなければ、それは正義だ。
-  Une chose immorale peut devenir justice si on ne connaît pas le concept d'immoralité.
+　Une chose immorale peut devenir justice si on ne connaît pas le concept d'immoralité.
 
 }
 [sha:82a16669961559aefbfaeecad92317e7c2f3ada5]{
 -- Page 24, Offset 19264.
 -- いや、そもそも正しさの観念すらない。
-  Or, même la notion de justice était absente dans cette bulle.
+　Or, même la notion de justice était absente dans cette bulle.
 
 }
 [sha:89b57dfaed28643f07dce5e89c321a08e937ec05]{
 -- Page 24, Offset 19265.
 -- あるのはただ一つ。
-  Une seule chose subsistait :
+　Une seule chose subsistait :
 
 }
 [sha:4bd57fb7babe64a9d1b897616207067a2f134307]{
 -- Page 24, Offset 19266. Glued. Mods: @x.
 -- その世界が、あまりにも行き止まっている、という事だけ。
- le fait que cette société était à l'arrêt.
+le fait que cette société était à l'arrêt.
 
 }
 [sha:ce445333a15d20eca0cf26f357623b477436e4d4]{
 -- Page 25, Offset 19267.
 -- ……悲劇は、そこで満ち足りてしまった事だ。
-  ...... La tragédie, c'était qu'il y menait une vie heureuse.
+　...... La tragédie, c'était qu'il y menait une vie heureuse.
 
 }
 [sha:8ba9f04ed6b9c8020c7abf91f4faf46ef4908b44]{
 -- Page 25, Offset 19268.
 -- その間違いだらけの世界で、
-  C'était un monde erroné,
+　C'était un monde erroné,
 
 }
 [sha:a9f06d91caef73ab5f27fa35a2128efb481f07f0]{
 -- Page 25, Offset 19269.
 -- 間違いだらけの人間として、
-      et il y vivait en tant qu'humain tout aussi erroné,
+　　　et il y vivait en tant qu'humain tout aussi erroné,
 
 }
 [sha:c37182dde3660c6dc8f445e5e8b1b674dcb6e50b]{
 -- Page 25, Offset 19270.
 -- こうやって残ってしまった。
-        mais il y était heureux.
+　　　　mais il y était heureux.
 
 }
 [sha:25fb4ce081b4527fd59f6dbb9d830c12802176cb]{
 -- Page 26, Offset 19271.
 -- 彼はそれを悪と知りながら、今でも美しいと感じている。
-  Il admettait la nature maléfique de ce monde, mais il le trouvait quand même magnifique.
+　Il admettait la nature maléfique de ce monde, mais il le trouvait quand même magnifique.
 
 }
 [sha:09afbec1bed1383783b23be537b1ec6db9749739]{
 -- Page 26, Offset 19272.
 -- 真相はどうあれ、彼にとって、その世界は完成していた。
-  Quelle que soit la vérité, pour lui, ce monde était complet.
+　Quelle que soit la vérité, pour lui, ce monde était complet.
 
 }
 [sha:5fe342ad523371ebbc71d026ae9052869ce15350]{
 -- Page 26, Offset 19273.
 -- 悪いのは外の世界を知ってしまった自分。
-  La faute lui incombait, car il avait connu l'extérieur.
+　La faute lui incombait, car il avait connu l'extérieur.
 
 }
 [sha:81848c868ebb823f55297dbbbef3d1ad60e4479c]{
 -- Page 26, Offset 19274.
 -- だって、それを知らなければ、彼は今でも幸福だったのだから。
-  Si cela n'était pas arrivé, il serait encore heureux.
+　Si cela n'était pas arrivé, il serait encore heureux.
 
 }
 [sha:89fee316d4de11253d4f0efa1e4c5360ff55ce1b]{
@@ -583,37 +583,37 @@ Alors―――」
 [sha:e515526ead2acc8d6843f900d1a695c97337c63c]{
 -- Page 27, Offset 19276.
 -- その言葉の罪深さは、呟く本人が誰よりも。
-  Celui qui murmurait ces mots savait mieux que quiconque à quel point ils étaient répréhensibles.
+　Celui qui murmurait ces mots savait mieux que quiconque à quel point ils étaient répréhensibles.
 
 }
 [sha:b4f50c93597ceb8dcedcfa97506bf68dcb7cbfe3]{
 -- Page 28, Offset 19277.
 -- だから彼は問うたのだ。
-  Voilà pourquoi il s'interrogeait.
+　Voilà pourquoi il s'interrogeait.
 
 }
 [sha:5301cbb690761ff5495af1c7e53a554cb63728aa]{
 -- Page 28, Offset 19278.
 -- おかしいのは一体なんなのか。
-  Qui était étrange ?
+　Qui était étrange ?
 
 }
 [sha:252db6f169f12550cd9a6ed98ebdd96411995653]{
 -- Page 28, Offset 19279.
 -- 間違っていたのは誰なのかを。
-  Qui était en faute ?
+　Qui était en faute ?
 
 }
 [sha:7ab42c981befff8737b449b8bfb386f9dd91844e]{
 -- Page 28, Offset 19280.
 -- 自分の言葉ではなく、少女の言葉で、明確に告発してほしかった。
-  Ses propres mots ne suffisant pas, il voulait être accusé clairement par la jeune fille.
+　Ses propres mots ne suffisant pas, il voulait être accusé clairement par la jeune fille.
 
 }
 [sha:f3ee96ef2b78fe1fad54846deaa8982cd2e725cd]{
 -- Page 28, Offset 19281.
 -- 一瞬の、けれど<永劫|えいごう>のような思考の末、
-  Aoko réfléchit quelques secondes qui semblèrent durer une éternité.
+　Aoko réfléchit quelques secondes qui semblèrent durer une éternité.
 
 }
 [sha:475dece42727928f877c6e0f756e11b250f4d524]{
@@ -625,31 +625,31 @@ Alors―――」
 [sha:4214b034f1f7a387168c260561b0deec5df4cc96]{
 -- Page 29, Offset 19283.
 -- 少女は静かに、そう返答した。
-  dit-elle doucement.
+　dit-elle doucement.
 
 }
 [sha:497baac4b3a8f8eb4508038dfedfc211f23f34e7]{
 -- Page 29, Offset 19284.
 -- 分からない、ではなく、答えられない。
-  Non pas parce qu'elle ne connaissait pas la réponse, mais parce qu'elle n'avait pas le droit de la dire.
+　Non pas parce qu'elle ne connaissait pas la réponse, mais parce qu'elle n'avait pas le droit de la dire.
 
 }
 [sha:69959fd91658508827123723be2a0ce71f5eb05d]{
 -- Page 29, Offset 19285.
 -- それは嘘を言わない彼女にとって、精一杯の回答だった。
-  C'était la meilleure réplique que pouvait formuler Aoko, elle qui avait le mensonge en horreur.
+　C'était la meilleure réplique que pouvait formuler Aoko, elle qui avait le mensonge en horreur.
 
 }
 [sha:2dcc7b422478add6e6b3796c9745cf8cab31aaa4]{
 -- Page 29, Offset 19286.
 -- 少年は深くかみしめる。
-  Le jeune homme serra la mâchoire jusqu'à en saigner.
+　Le jeune homme serra la mâchoire jusqu'à en saigner.
 
 }
 [sha:a939dd7b49dbc5cd4d3f0968093ec00d909a822f]{
 -- Page 29, Offset 19287.
 -- 今のがどれほど優しい言葉なのか、考えるまでもないのだから。
-  Il savait pertinemment que ces paroles regorgeaient de gentillesse.
+　Il savait pertinemment que ces paroles regorgeaient de gentillesse.
 
 }
 [sha:40a852ab55865888e29e4fb56ebcbc433a7808ec]{
@@ -661,13 +661,13 @@ Alors―――」
 [sha:419fa0d4d550612353488ecb2d12bd5c0c31d965]{
 -- Page 30, Offset 19289. Glued. Mods: @x.
 -- 君の最初の優しさが、今でよかった」
- Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
+Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
 
 }
 [sha:2e74c8387603bf2645e20f5aaf9e7a3c0f559ffd]{
 -- Page 30, Offset 19290.
 -- などと、<倖|しあわ>せそうに言う草十郎を、青子はじとりと睨みつけた。
-  Aoko fixa Sōjūrō d'un œil noir en réponse à ces paroles débordantes de joie.
+　Aoko fixa Sōjūrō d'un œil noir en réponse à ces paroles débordantes de joie.
 
 }
 [sha:f680db8897d1f7785dea3dbf18861fe675057236]{
@@ -679,7 +679,7 @@ Alors―――」
 [sha:ac4904b16993ff18445c9306be7a18a630c62d31]{
 -- Page 31, Offset 19292.
 -- まるで、普段から優しくないみたいじゃない」
-  C'est à croire que je ne suis jamais gentille.」
+　C'est à croire que je ne suis jamais gentille.」
 
 }
 [sha:fb1fb07cccf4b1da664993010f1283cdd4dbbf15]{
@@ -691,13 +691,13 @@ Alors―――」
 [sha:b267b1b9ef93f483732057116c7bbc564c62f63c]{
 -- Page 31, Offset 19294.
 -- きっぱりと言われて、青子は反論できなかった。
-  Aoko était incapable de répliquer à cette déclaration catégorique.
+　Aoko était incapable de répliquer à cette déclaration catégorique.
 
 }
 [sha:fc53023456671edfd7749c27171fc2bce274f107]{
 -- Page 31, Offset 19295.
 -- ……それは、たしかに彼の言う通りで。
-  ...... Car il ne disait que la stricte vérité.
+　...... Car il ne disait que la stricte vérité.
 
 }
 [sha:376cbcd9e2ec1d498b96c132874ca63d9f80e03f]{
@@ -709,43 +709,43 @@ Alors―――」
 [sha:8146a34b7e6d4e47e6a9cec44ee08f87ac8e0c1c]{
 -- Page 32, Offset 19297.
 -- どこか<寂|さみ>しげな青子の同意に、ほら、と草十郎は笑った。
-  De la tristesse transparaissait dans la confirmation d'Aoko, mais Sōjūrō esquissa tout de même un sourire.
+　De la tristesse transparaissait dans la confirmation d'Aoko, mais Sōjūrō esquissa tout de même un sourire.
 
 }
 [sha:3f74530ba1f4478ca23e260735712a728651e7d6]{
 -- Page 32, Offset 19298.
 -- 見守るような微笑みは、彼が誰よりも、それを誇りに思っているからだろう。
-  Ce sourire semblait protecteur, probablement parce que cette facette d'Aoko le rendait plus fier d'elle que quiconque.
+　Ce sourire semblait protecteur, probablement parce que cette facette d'Aoko le rendait plus fier d'elle que quiconque.
 
 }
 [sha:3099709450749a87667df6711ed9104e89e2a333]{
 -- Page 33, Offset 19299.
 -- それが気まずくて温かくて、青子はあんな質問をした事を後悔した。
-  Embarrassée mais apaisée, Aoko regretta d'avoir posé cette question.
+　Embarrassée mais apaisée, Aoko regretta d'avoir posé cette question.
 
 }
 [sha:683e4fee125e0c726d67f1f14b6672accde044d2]{
 -- Page 33, Offset 19300.
 -- もっと違う、なんでもない話をすれば、こんな<陰欝|いんうつ>とした気分にはならなかったのにと。
-  Si elle avait abordé un autre sujet, de moindre importance, elle n'aurait pas sombré dans cette humeur mélancolique.
+　Si elle avait abordé un autre sujet, de moindre importance, elle n'aurait pas sombré dans cette humeur mélancolique.
 
 }
 [sha:efbd7dd5f4934083cb3a3ea5e9105e7931a65f7b]{
 -- Page 34, Offset 19301.
 -- 道は、あと数歩分もない。
-  Encore quelques pas et ils seraient arrivés au bout du chemin.
+　Encore quelques pas et ils seraient arrivés au bout du chemin.
 
 }
 [sha:d036220d46feb1a69acb927a3e76b3f14946ba8a]{
 -- Page 34, Offset 19302.
 -- 木の柵に囲まれた建物は、冬の中にある<憩|いこ>いの宿に見えた。
-  Le bâtiment encerclé par la lisière des arbres donnait l'impression d'une auberge en plein hiver.
+　Le bâtiment encerclé par la lisière des arbres donnait l'impression d'une auberge en plein hiver.
 
 }
 [sha:40dfdce5bd14b99a52970dc792a9e4c28b4b0cff]{
 -- Page 34, Offset 19303.
 -- 窓からこぼれる明かりが、今の気分に逆らって食卓の<賑|にぎ>わいを想像させる。
-  La lumière qui filtrait à travers les fenêtres contrastait avec l'état d'esprit de la jeune fille et faisait penser à une tablée animée.
+　La lumière qui filtrait à travers les fenêtres contrastait avec l'état d'esprit de la jeune fille et faisait penser à une tablée animée.
 
 }
 [sha:58d7ecc30c6e0010827d3db583445f6ec293db08]{
@@ -757,19 +757,19 @@ Alors―――」
 [sha:2b6bd25304a3f0be6946e61cb957725580bd9597]{
 -- Page 35, Offset 19305.
 -- 青子は庭の入り口で立ち止まる。
-  Aoko s'arrêta à l'entrée du jardin.
+　Aoko s'arrêta à l'entrée du jardin.
 
 }
 [sha:24223cc12bceeb45a9bab4a0d7665b3004e332cc]{
 -- Page 35, Offset 19306.
 -- 最後なのに、それとも最後だから、一度くらいは謝っておこうと思ったのか。
-  Il s'agissait de leur dernière conversation, mais elle se sentait dans l'obligation de s'excuser. Ou peut-être était-ce justement la raison qui l'y poussait ?
+　Il s'agissait de leur dernière conversation, mais elle se sentait dans l'obligation de s'excuser. Ou peut-être était-ce justement la raison qui l'y poussait ?
 
 }
 [sha:2978852ec0e650e770f9a0533f8bb237951a5456]{
 -- Page 35, Offset 19307.
 -- それに草十郎はいや、と答えるだけだった。
-  “Ce n'est pas grave”, répondit sobrement Sōjūrō.
+　“Ce n'est pas grave”, répondit sobrement Sōjūrō.
 
 }
 [sha:abceaf2ff5a43d5e3fcb927aa5030a39727a2469]{
@@ -781,13 +781,13 @@ Alors―――」
 [sha:9438d0fb03f551e8ca2710b73a87159cfcc2dd3c]{
 -- Page 36, Offset 19309.
 -- 辿り着いてしまった家を見上げて、白い息をこぼす。
-  Aoko contempla la maison qu'ils venaient d'atteindre ; son haleine se condensait en petits nuages de vapeur.
+　Aoko contempla la maison qu'ils venaient d'atteindre ; son haleine se condensait en petits nuages de vapeur.
 
 }
 [sha:eec159a38da29089cf5953d4e83b231e2591f18e]{
 -- Page 36, Offset 19310.
 -- うなずく草十郎の顔に、もう<昏|くら>い<翳|かげ>りは微塵もない。
-  L'ombre qui voilait jusque-là l'expression de Sōjūrō avait disparu.
+　L'ombre qui voilait jusque-là l'expression de Sōjūrō avait disparu.
 
 }
 [sha:c203fbfb0d0eeb4e74113a923efe3f941ddaa7dc]{
@@ -799,37 +799,37 @@ Alors―――」
 [sha:09b316f0a99844a36e609344cfa06017a83d6118]{
 -- Page 37, Offset 19312.
 -- ―――それに、これはもう終わった事だ。
-  ―――Et puis, c'est du passé.
+　―――Et puis, c'est du passé.
 
 }
 [sha:ad2f760e09cbba4d45bec4df9ba7301acae8ada0]{
 -- Page 37, Offset 19313.
 -- 続きを話すのは、また機会があった時にしよう」
-  Je te raconterai la suite une prochaine fois.」
+　Je te raconterai la suite une prochaine fois.」
 
 }
 [sha:04b0722377273532022ae2d7006e1aaf536bc627]{
 -- Page 38, Offset 19314.
 -- 消え入るような笑顔で、草十郎は青子と顔を向き合わせる。
-  Sōjūrō fit face à Aoko avec un sourire mourant,
+　Sōjūrō fit face à Aoko avec un sourire mourant,
 
 }
 [sha:7f2a3e5e5c04c3585c4f72aa310e8ecd448a2842]{
 -- Page 38, Offset 19315.
 -- 今まで通りの、何でもない静希草十郎として。
-  fidèle au garçon banal qu'il avait toujours été.
+　fidèle au garçon banal qu'il avait toujours été.
 
 }
 [sha:ebbc017e26e5cca35438adc4e9832a96e2db8cff]{
 -- Page 38, Offset 19316.
 -- それが痛ましくて、そんな日がこない事を青子は祈った。
-  Face à ce spectacle déchirant, Aoko pria pour que cette prochaine fois n'ait jamais lieu,
+　Face à ce spectacle déchirant, Aoko pria pour que cette prochaine fois n'ait jamais lieu,
 
 }
 [sha:809b596416830c0c30abbca20257a3de301317a3]{
 -- Page 38, Offset 19317.
 -- 自分のためと、この特異な少年のために。
-  aussi bien pour elle que pour ce jeune homme unique.
+　aussi bien pour elle que pour ce jeune homme unique.
 
 }
 [sha:20fd950769b3a8e822761c5150cc795d8687e961]{
@@ -841,7 +841,7 @@ Alors―――」
 [sha:af49317aa388faf3a47f53a74f0774026281c03e]{
 -- Page 39, Offset 19319.
 -- そして、彼女は一軒家の更に向こう、小さな森に隠れた<洞|どう><穴|けつ>を指さした。
-  Elle leva la main et pointa du doigt un renfoncement dans la petite forêt à l'arrière de la maison.
+　Elle leva la main et pointa du doigt un renfoncement dans la petite forêt à l'arrière de la maison.
 
 }
 [sha:01c83649bddaccaa6c44c68e0ebc2438fb8f0010]{
@@ -853,31 +853,31 @@ Alors―――」
 [sha:1a19a0305b7bd3be8ed54461c96cd71a5204664e]{
 -- Page 40, Offset 19321.
 -- ……ほんとはもっと違った話が聞きたかったけど。仕方ないか、魔法は十二時になるときれちゃうものだしね」
-  ...... J'aurais voulu qu'on discute d'autres choses, mais tant pis. La magie prend toujours fin à minuit, après tout.」
+　...... J'aurais voulu qu'on discute d'autres choses, mais tant pis. La magie prend toujours fin à minuit, après tout.」
 
 }
 [sha:7d5202f455eb9ff1f46655dbdc594d1bb1dca390]{
 -- Page 41, Offset 19322.
 -- 皮肉げな微笑みを浮かべて、青子はそう言った。
-  Aoko accompagna ces mots d'un sourire ironique.
+　Aoko accompagna ces mots d'un sourire ironique.
 
 }
 [sha:0267fd19ce425b9801f6b3ebf4b7b355282c7975]{
 -- Page 41, Offset 19323.
 -- それがどんな童話の引用かも知らず、草十郎は歩きだす。
-  Sōjūrō se mit en marche sans chercher à savoir de quel conte la citation était tirée.
+　Sōjūrō se mit en marche sans chercher à savoir de quel conte la citation était tirée.
 
 }
 [sha:d1c3c7ff5ccac11a49179b33d2030fb44afc03bc]{
 -- Page 41, Offset 19324.
 -- 家から離れた森は遠すぎて、青子には<地上|ここ>とは別の場所のように思えた。
-  La forêt semblait si éloignée de la maison qu'Aoko la voyait comme un autre monde.
+　La forêt semblait si éloignée de la maison qu'Aoko la voyait comme un autre monde.
 
 }
 [sha:0835a97fe67d83aadc26c10dc98391252acf99af]{
 -- Page 41, Offset 19325.
 -- 実際は五分もかからない、短く、手の届く距離なのに。
-  Mais en réalité, il suffisait de quelques pas pour combler la distance qui les séparait.
+　Mais en réalité, il suffisait de quelques pas pour combler la distance qui les séparait.
 
 }
 [sha:3082439e101d3be192785681188496080985defd]{
@@ -889,13 +889,13 @@ Alors―――」
 [sha:3601b4fc600003f2e9a28ebd60e4843119331e2d]{
 -- Page 42, Offset 19327.
 -- 振り向かずに歩いていく背中に、青子は呟きかける。
-  murmura Aoko à la silhouette qui s'éloignait sans se retourner.
+　murmura Aoko à la silhouette qui s'éloignait sans se retourner.
 
 }
 [sha:89fc2ec71cea8e53f0b4b9016eb602b4f223c4d8]{
 -- Page 42, Offset 19328.
 -- 聞こえる筈のないそれを、やっぱり草十郎は聞き届けたようだ。
-  Étonnamment, Sōjūrō semblait avoir perçu son chuchotement quasiment imperceptible.
+　Étonnamment, Sōjūrō semblait avoir perçu son chuchotement quasiment imperceptible.
 
 }
 [sha:6401f08b8a24f7831a52f19ec623e44bdf1b0d1e]{
@@ -907,67 +907,67 @@ Alors―――」
 [sha:6c6977041263ec133b3add5c8e972b80836b4b93]{
 -- Page 42, Offset 19330.
 -- 少年は片手を上げて答えると、彼方の森へと消えていった。
-  Le jeune homme répondit en levant la main avant de disparaître dans la forêt lointaine.
+　Le jeune homme répondit en levant la main avant de disparaître dans la forêt lointaine.
 
 }
 [sha:ddd175f3ec61d887547c45cf697c061349e6f007]{
 -- Page 43, Offset 19331.
 -- それを見届けて、青子はひとり<天|そら>を<仰|あお>ぐ。
-  Après l'avoir accompagné du regard, Aoko, à présent seule, leva les yeux vers le ciel.
+　Après l'avoir accompagné du regard, Aoko, à présent seule, leva les yeux vers le ciel.
 
 }
 [sha:f6792b8715f4758d1fda053f013290db43dbbc35]{
 -- Page 43, Offset 19332.
 -- 今夜は月よりも星が綺麗だ。
-  Cette nuit, les étoiles éclipsaient la lune.
+　Cette nuit, les étoiles éclipsaient la lune.
 
 }
 [sha:c38570bc2f14979ec84d5c0594d14a8c11c255ad]{
 -- Page 43, Offset 19333.
 -- それをさっきまで懐かしそうに眺めていた人物は、嘘みたいにあっさり、別れの言葉を告げて消えていった。
-  La personne qui, un instant plus tôt, contemplait ce spectacle d'un air nostalgique, lui avait sobrement fait ses adieux avant de disparaître comme par enchantement.
+　La personne qui, un instant plus tôt, contemplait ce spectacle d'un air nostalgique, lui avait sobrement fait ses adieux avant de disparaître comme par enchantement.
 
 }
 [sha:4a2d2956cb7cd7567172cb5177dfd811efbc0d48]{
 -- Page 43, Offset 19334.
 -- まったく、と青子は今更ながら納得する。
-  Lequel des deux était le plus anormal en fin de compte ?
+　Lequel des deux était le plus anormal en fin de compte ?
 
 }
 [sha:e1a3c67089ecce1e5d10a61617c040c6f4d6413c]{
 -- Page 43, Offset 19335.
 -- 結局、いちばん普通じゃなかったのは誰だったのか。
-  Aoko médita un peu tardivement la question.
+　Aoko médita un peu tardivement la question.
 
 }
 [sha:6fa48d7882e158c40049e4faedbf6c0ee6331009]{
 -- Page 44, Offset 19336.
 -- 草十郎の行いは、言ってしまえば誰にだってできる事だ。
-  Très franchement, l'acte de Sōjūrō aurait pu être accompli par n'importe qui.
+　Très franchement, l'acte de Sōjūrō aurait pu être accompli par n'importe qui.
 
 }
 [sha:1d0803c8e2f8a7b9b29e1ac5ff08a0cc116a66d8]{
 -- Page 44, Offset 19337.
 -- けれど、彼の言う繰り返しを続けられる人間はそうはいない。
-  Mais dans les faits, peu de gens seraient capables de répéter le cycle dont il avait parlé.
+　Mais dans les faits, peu de gens seraient capables de répéter le cycle dont il avait parlé.
 
 }
 [sha:c0048443bb5bd333a3d10de8bddd37a6c952aa46]{
 -- Page 44, Offset 19338.
 -- あんな山での生活をしていれば、たしかに、今までの出来事なんてどうという事もなかったのだろう。
-  Après son quotidien en montagne, les évènements qu'il avait vécus en ville n'avaient certainement rien de spécial.
+　Après son quotidien en montagne, les évènements qu'il avait vécus en ville n'avaient certainement rien de spécial.
 
 }
 [sha:722685d7bf5abc89f931c8bb4d5717d886aabe5a]{
 -- Page 44, Offset 19339.
 -- 自分は魔法使いだから奇跡を起こすけれど、
-  Aoko avait le pouvoir de provoquer des miracles grâce à sa nature de Magicienne,
+　Aoko avait le pouvoir de provoquer des miracles grâce à sa nature de Magicienne,
 
 }
 [sha:7a13b19c271511c375490f47bd09fd129abc5b5b]{
 -- Page 44, Offset 19340.
 -- 彼は常識を繰り返した<末|すえ>にひとつの奇跡に辿り着いて、最後に、あんな魔法を見せたのだ。
-  mais lui était arrivé à un miracle en répétant un acte banal ; et à la fin, d'une certaine façon, il lui avait montré de la Magie.
+　mais lui était arrivé à un miracle en répétant un acte banal ; et à la fin, d'une certaine façon, il lui avait montré de la Magie.
 
 }
 [sha:80149ad3ead9d59377f1e20c973c7017ffb476ce]{
@@ -979,114 +979,114 @@ Alors―――」
 [sha:679b9f9100abb5ba07f42f8ee9a08f2b22ef804a]{
 -- Page 45, Offset 19342.
 -- だから、それはすごいコトだ。
-  C'était d'autant plus extraordinaire.
+　C'était d'autant plus extraordinaire.
 
 }
 [sha:abad133adb36ccd62b8322a8341e87582d12093a]{
 -- Page 45, Offset 19343.
 -- ……その魔法は、彼にとって哀しいぐらい、無意味な物だったとしても。
-  ...... Même si pour lui, cette magie était malheureusement dépourvue de toute utilité.
+　...... Même si pour lui, cette magie était malheureusement dépourvue de toute utilité.
 
 }
 [sha:a31d6a223b2c92ca09c0304e7ebb5633a9b0e058]{
 -- Page 45, Offset 19344.
 -- あれは確かに、人間だけが持つ輝きだった。
-  Cet éclat ne se retrouvait que chez les humains.
+　Cet éclat ne se retrouvait que chez les humains.
 
 }
 [sha:0bba79b45b632c742c0b56ab0bbeba0f8d571cbd]{
 -- Page 46, Offset 19345.
 -- 彼女は星空から目を離して歩きだした。
-  Aoko détacha son regard du ciel étoilé et reprit sa route.
+　Aoko détacha son regard du ciel étoilé et reprit sa route.
 
 }
 [sha:fdcb3dc23af2e5841a703d491e76b809cff7fcce]{
 -- Page 46, Offset 19346.
 -- 玄関の明かりはついていて、鍵はかかっていない。
-  La porte d'entrée était éclairée et déverrouillée.
+　La porte d'entrée était éclairée et déverrouillée.
 
 }
 [sha:8d39c8809e2aef9793fd108520522fdcc4785755]{
 -- Page 46, Offset 19347.
 -- くっと服の袖をあげて時計を見ると、時刻はあと半刻で零時になろうとしていた。
-  Elle releva sa manche et vérifia l'heure sur sa montre. Il serait minuit dans trente minutes.
+　Elle releva sa manche et vérifia l'heure sur sa montre. Il serait minuit dans trente minutes.
 
 }
 [sha:394f3549abd69a8e9a8e4bb7464590190d55549d]{
 -- Page 46, Offset 19348.
 -- ……どうやら、年内に来いという両親の言いつけは守れたようだ。
-  ...... Elle avait donc techniquement rendu visite à ses parents avant la fin de l'année, comme ceux-ci le lui avaient demandé.
+　...... Elle avait donc techniquement rendu visite à ses parents avant la fin de l'année, comme ceux-ci le lui avaient demandé.
 
 }
 [sha:092336e86e19032ae5d51efddf29ce262ddeb181]{
 -- Page 47, Offset 19349.
 -- 扉に手を掛けて、深呼吸を一度する。
-  Elle posa la main sur la porte et prit une profonde inspiration.
+　Elle posa la main sur la porte et prit une profonde inspiration.
 
 }
 [sha:07d3b9cda844528a818ae3c5b6bd4031cf58d236]{
 -- Page 47, Offset 19350.
 -- それで、さっきまでの淡い未練を、彼女は綺麗に断ち切った。
-  Ce faisant, elle balaya la vague de regrets qui l'avaient envahie.
+　Ce faisant, elle balaya la vague de regrets qui l'avaient envahie.
 
 }
 [sha:9ade155fcff7282fc382e954e2ea47113fae2eba]{
 -- Page 48, Offset 19351.
 -- 実家に帰ってくるのは二年ぶりだ。
-  Elle n'était pas rentrée chez elle depuis deux ans.
+　Elle n'était pas rentrée chez elle depuis deux ans.
 
 }
 [sha:531c4c0e3d19ed6ec911de53d2e79afdbcf0d689]{
 -- Page 48, Offset 19352.
 -- 高校に入学してから下宿を始めて、今日までの二年間。
-  Deux ans qu'elle avait débuté sa vie en colocation et au lycée.
+　Deux ans qu'elle avait débuté sa vie en colocation et au lycée.
 
 }
 [sha:190b0cb2047cfb986f7b79e98208dcc0f6e514a1]{
 -- Page 48, Offset 19353.
 -- 早かったといえば早くすぎたその月日は、なぜか今になって思い出のように、自分の中を走り抜けていった。
-  Les souvenirs de cette période qui s'était passée en un rien de temps traversèrent son esprit.
+　Les souvenirs de cette période qui s'était passée en un rien de temps traversèrent son esprit.
 
 }
 [sha:dcac48bd0806f477514f8652bd9c0052d3303800]{
 -- Page 48, Offset 19354.
 -- 扉に手をかけて、今までの事を思い出すのなら。
-  Si elle devait se remémorer tous les évènements de ces deux dernières années en posant la main sur la porte,
+　Si elle devait se remémorer tous les évènements de ces deux dernières années en posant la main sur la porte,
 
 }
 [sha:dc8d252e021db24aad3f95976947c2bf93c4414d]{
 -- Page 48, Offset 19355.
 -- 扉を開ければ、これからの事を見つめる事になるのだろう。
-  alors ses pensées se porteraient probablement vers le futur lorsqu'elle l'ouvrirait.
+　alors ses pensées se porteraient probablement vers le futur lorsqu'elle l'ouvrirait.
 
 }
 [sha:b1160f75efab6970e2b8e6b5254e767199237c62]{
 -- Page 49, Offset 19356.
 -- ノブを持つ手に力をいれる。
-  Elle agrippa fermement la poignée.
+　Elle agrippa fermement la poignée.
 
 }
 [sha:ca4b0360eb625e546e44f3ce3dd94b5d2b553fb7]{
 -- Page 49, Offset 19357.
 -- ……中の風景はどこか微妙に違うけれど、記憶の中で見なれた温かい風景だった。
-  ...... La scène qui l'attendait à l'intérieur avait quelque peu changé, mais cela restait l'image chaleureuse et coutumière dont elle gardait le souvenir.
+　...... La scène qui l'attendait à l'intérieur avait quelque peu changé, mais cela restait l'image chaleureuse et coutumière dont elle gardait le souvenir.
 
 }
 [sha:caa708936b6eb94f5a4d1558f813af7b2afc163d]{
 -- Page 50, Offset 19358.
 -- 自分が去って、月日が経っても変わらず出迎えてくれるものがある事は、なんて幸福なんだろう。
-  Quelle joie d'avoir quelqu'un pour nous accueillir malgré les départs et le temps passé !
+　Quelle joie d'avoir quelqu'un pour nous accueillir malgré les départs et le temps passé !
 
 }
 [sha:f8a8b8b34fd517b6a9ccd182131d2b34d7598c1d]{
 -- Page 50, Offset 19359.
 -- それにほんの些細な、言葉にしない小さな感謝をして、彼女は自分の家に帰ってきた。
-  Elle remercia la chance qu'elle avait dans un chuchotement à peine perceptible puis elle rentra chez elle,
+　Elle remercia la chance qu'elle avait dans un chuchotement à peine perceptible puis elle rentra chez elle,
 
 }
 [sha:4b8374aaa838c4bd36229a9f5ffb58ab8aa68bde]{
 -- Page 50, Offset 19360.
 -- 呼び鈴も押さずに、ただいまと微笑んで。
-  sans presser la sonnette, en annonçant son retour le sourire aux lèvres.
+　sans presser la sonnette, en annonçant son retour le sourire aux lèvres.
 
 }

@@ -1,13 +1,13 @@
 [sha:a9f4574757f67fbbe0cdbdac9c1dd7547bff12f1]{
 -- Page 0, Offset 22595.
 -- わたしは、ちらっと廊下の様子を見てみたい、と思った。
-  Je songeai à jeter un petit coup d'œil dans le couloir.
+　Je songeai à jeter un petit coup d'œil dans le couloir.
 
 }
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 1, Offset 22596.
 -- そこには、
-  Là, je vis un triste spectacle.
+　Là, je vis un triste spectacle.
 
 }
 [sha:0949d1a9f1e3db9e262efdf1232495c72a1768e1]{
@@ -19,12 +19,12 @@
 [sha:cddeba83e89e41243a72ea644cd33bf84729f8c4]{
 -- Page 1, Offset 22598.
 -- この世の終わりを見たような、語るも無惨な幽鬼の顔があったりした。
-  Un fantôme qui semblait avoir vu la fin du monde occupait les lieux.
+　Un fantôme qui semblait avoir vu la fin du monde occupait les lieux.
 
 }
 [sha:52b4d64587983c936e8aa6bbfe7ec61978014890]{
 -- Page 1, Offset 22599.
 -- 武士の情けで見なかったフリで、急いでドアを閉める。
-  Je feignis de n'avoir rien vu par compassion et m'empressai de fermer la porte.
+　Je feignis de n'avoir rien vu par compassion et m'empressai de fermer la porte.
 
 }

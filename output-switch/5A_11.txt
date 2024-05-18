@@ -1,103 +1,103 @@
 [sha:b96977f8a37e3dc3953a07bb048609c27a7c99d5]{
 -- Page 0, Offset 4128.
 -- 何であれ、<終局|フィナーレ>は華やかに。
-    Quoi qu'il arrive, le final serait splendide.
+　　Quoi qu'il arrive, le final serait splendide.
 
 }
 [sha:cd8ac93ce34cf371b67551f7f43d6ba89f849e8c]{
 -- Page 0, Offset 4129.
 -- 鏡の城に最後の見せ場が訪れる。
-    L'ultime représentation allait se dérouler dans le palais des glaces.
+　　L'ultime représentation allait se dérouler dans le palais des glaces.
 
 }
 [sha:1b436ed51116fe8cf1706b3df1f9d91d93c1b5f0]{
 -- Page 1, Offset 4130.
 -- 入場者は二人プラス一体。
-  Le nombre de visiteurs s'élevait à deux personnes et une marionnette.
+　Le nombre de visiteurs s'élevait à deux personnes et une marionnette.
 
 }
 [sha:b386623d81de1a79d50213094c6f96dbc7b69a5a]{
 -- Page 1, Offset 4131.
 -- 魔法使いの少女は城の心臓部である地下に走り、
-  La Magicienne courait vers le sous-sol, cœur du palais des glaces,
+　La Magicienne courait vers le sous-sol, cœur du palais des glaces,
 
 }
 [sha:472acad5d6aeb649b7599547644620e58354513e]{
 -- Page 1, Offset 4132.
 -- 自律するアンティークは少女を追いかけて魔のダンジョンへ。
-  et l'unité autonome antique se dirigeait vers le donjon démoniaque à la poursuite de la jeune fille.
+　et l'unité autonome antique se dirigeait vers le donjon démoniaque à la poursuite de la jeune fille.
 
 }
 [sha:8eed6d2422caafd4e4e9523d4a3ab551c2069252]{
 -- Page 2, Offset 4133.
 -- 一分の<後|のち>、城には微弱な青い電荷が走り抜けた。
-  Dans une minute, une faible décharge électrique de couleur bleue parcourrait le palais.
+　Dans une minute, une faible décharge électrique de couleur bleue parcourrait le palais.
 
 }
 [sha:1ef3161a2a2ff87ec3282ac358acaa87d1faa859]{
 -- Page 2, Offset 4134.
 -- 地下一階、最深最奥のメインピラー。
-  Le pilier principal au plus profond du sous-sol.
+　Le pilier principal au plus profond du sous-sol.
 
 }
 [sha:177738caacb2d441e3def9a18df85f0de2ecf362]{
 -- Page 2, Offset 4135.
 -- 城を支えているワケではないけれど、象徴であった柱を、少女は渾身の魔力をこめた拳で打ち叩いた。
-  Même s'il ne soutenait pas le palais à lui tout seul, la jeune fille frapperait avec son poing imbibé de tout son prana ce pilier symbolique.
+　Même s'il ne soutenait pas le palais à lui tout seul, la jeune fille frapperait avec son poing imbibé de tout son prana ce pilier symbolique.
 
 }
 [sha:a4125868931209fb3c9811bd648d97185f18a50b]{
 -- Page 3, Offset 4136.
 -- この一撃で鏡の城は崩れ去る。
-  Avec cette attaque, le palais des glaces s'effondrerait.
+　Avec cette attaque, le palais des glaces s'effondrerait.
 
 }
 [sha:18fe5ac9f169adc841b50d26e16a70370d4aa0ef]{
 -- Page 3, Offset 4137.
 -- そんなイメージの元に放った<正拳|ストレート>は、数秒の後、イメージを真実に変換する。
-  Le coup du droit qu'elle effectuait dans son imagination deviendrait réalité quelques secondes plus tard.
+　Le coup du droit qu'elle effectuait dans son imagination deviendrait réalité quelques secondes plus tard.
 
 }
 [sha:4028525fb6397b6918ff0ba3b0f879e643eb31c8]{
 -- Page 3, Offset 4138.
 -- 城の四方の柱、地盤に刻まれた魔力を圧縮、解放させるだけの単純な発火魔術。
-  C'était un simple sort d'allumage qui ne ferait que compresser et libérer le prana imprégné dans les fondations et les piliers aux quatre coins du palais.
+　C'était un simple sort d'allumage qui ne ferait que compresser et libérer le prana imprégné dans les fondations et les piliers aux quatre coins du palais.
 
 }
 [sha:17d261c203920b409c296436540093580f8add7a]{
 -- Page 3, Offset 4139.
 -- 仕掛けは電荷をスイッチにして、ほぼ同時に発動し―――
-  Le mécanisme s'enclencherait à peu près en même temps que la charge de l'interrupteur―――
+　Le mécanisme s'enclencherait à peu près en même temps que la charge de l'interrupteur―――
 
 }
 [sha:d8975ddde75358ef35d5b95b22b50bfae5ee2ae0]{
 -- Page 4, Offset 4140.
 -- <緩|ゆる>やかに、<速|すみ>やかに。
-  Imperceptiblement mais rapidement,
+　Imperceptiblement mais rapidement,
 
 }
 [sha:363d6fff152c656aa5a5868ecf92a58e71ae5cc6]{
 -- Page 4, Offset 4141.
 -- 二年もの歳月、かたくなに滅びを<拒|こば>んだ夢の城に、臨終の<槌|つち>が下ろされる。
-  le marteau de la mort s'abattit sur le palais des rêves qui avait obstinément résisté à l'effondrement pendant deux ans.
+　le marteau de la mort s'abattit sur le palais des rêves qui avait obstinément résisté à l'effondrement pendant deux ans.
 
 }
 [sha:3c6ce5a00a32e0d2bd161179d7bdd828360f76d8]{
 -- Page 5, Offset 4142.
 -- ―――それは、喜びに似た音だった。
-  ―――Le vacarme qui s'élevait évoquait un cri de joie.
+　―――Le vacarme qui s'élevait évoquait un cri de joie.
 
 }
 [sha:d6268257bc9fd827a23f03a7e1db7f79cfc979b4]{
 -- Page 5, Offset 4143.
 -- とうに命を失い、訪れる者のいなくなった鏡の城が迎えた、最後にして最大のショウタイム。
-  Le palais des glaces, sans vie ni aucun visiteur depuis bien longtemps, entama son dernier mais plus grand show.
+　Le palais des glaces, sans vie ni aucun visiteur depuis bien longtemps, entama son dernier mais plus grand show.
 
 }
 [sha:5c75b7bb56df7dc2c23d1f9d56ed9167d655136e]{
 -- Page 5, Offset 4144.
 -- 青子の魔力は電荷となって支柱に刻まれた魔術式を起動させ、連鎖的に、建物の息の根を止めていく。
-  Le prana d'Aoko, devenu une charge électrique, activa le sort gravé dans les piliers, et par une réaction en chaîne, acheva le bâtiment.
+　Le prana d'Aoko, devenu une charge électrique, activa le sort gravé dans les piliers, et par une réaction en chaîne, acheva le bâtiment.
 
 }
 [sha:288eccd89251b550d3e27bc9f4f8c7c2ec568e3a]{
@@ -109,49 +109,49 @@
 [sha:4ec7909442a9ba44bc44fc330ac5fdeefe4b1d98]{
 -- Page 6, Offset 4146.
 -- でも、思ってたよりくたびれてたのね。これじゃ一分<保|も>つかどうか」
-  Par contre, il était en moins bon état que je ne le pensais. À ce rythme, je ne sais pas s'il tiendra une minute.」
+　Par contre, il était en moins bon état que je ne le pensais. À ce rythme, je ne sais pas s'il tiendra une minute.」
 
 }
 [sha:fa1eb9c714c53170305b8dbef5eadfbf2ac35709]{
 -- Page 6, Offset 4147.
 -- 地下一階の中央広場。
-  Dans la grande salle au milieu du sous-sol,
+　Dans la grande salle au milieu du sous-sol,
 
 }
 [sha:226be66fb1f9f90aacb37b32eb1949806688aefc]{
 -- Page 6, Offset 4148.
 -- 呼吸を整えながら、青子は魔術刻印をフル回転させる。
-  tout en reprenant son souffle, Aoko mit son Sceau Magique à plein régime.
+　tout en reprenant son souffle, Aoko mit son Sceau Magique à plein régime.
 
 }
 [sha:c96ed005951f5f843d9550d0c1042b550b8c635f]{
 -- Page 6, Offset 4149.
 -- 魔術式を組めないのを承知の上で、その両手に青い光をまとわせる。
-  En dépit de l'impossibilité d'utiliser le moindre sort, elle recouvrit ses mains de lumière bleue.
+　En dépit de l'impossibilité d'utiliser le moindre sort, elle recouvrit ses mains de lumière bleue.
 
 }
 [sha:33772bb49dc0dd2d5afd45ac8dd4b17f5d9e7433]{
 -- Page 7, Offset 4150.
 -- ……乱れた呼吸は簡単には治まらない。
-  ...... Une respiration saccadée ne se calme pas si facilement.
+　...... Une respiration saccadée ne se calme pas si facilement.
 
 }
 [sha:07b259b76b33ee3d21d8d3fbf56dd814e7d85164]{
 -- Page 7, Offset 4151.
 -- 地下一階の中心。
-  Elle se trouvait au centre du sous-sol.
+　Elle se trouvait au centre du sous-sol.
 
 }
 [sha:0ae548a432e566b6d1a50bd2dedabaab73f858e2]{
 -- Page 7, Offset 4152.
 -- 中心の柱にたどり着くまで、彼女は追跡者に背中を見せることなく走りきったのだ。百メートル走十三秒の俊足は間違いなく自己記録を更新した。
-  Pour arriver jusqu'au pilier central, elle avait couru tellement vite que son poursuivant n'avait même pas pu apercevoir son dos. Elle avait sans aucun doute battu son record personnel du cent mètres en treize secondes.
+　Pour arriver jusqu'au pilier central, elle avait couru tellement vite que son poursuivant n'avait même pas pu apercevoir son dos. Elle avait sans aucun doute battu son record personnel du cent mètres en treize secondes.
 
 }
 [sha:d91171bbe1f4d2340b30a6c13314c7963c99f88b]{
 -- Page 7, Offset 4153.
 -- その先に待っているのが<こ|・><の|・><状|・><況|・>だと承知した上で、あえぐ心臓に鞭を打った。
-  En sachant parfaitement quelle situation l'attendait à la fin, elle donna un coup de fouet à son cœur haletant.
+　En sachant parfaitement quelle situation l'attendait à la fin, elle donna un coup de fouet à son cœur haletant.
 
 }
 [sha:f183cbbf9f078b3c7cc3c5aa873595ebc5cf8db0]{
@@ -163,73 +163,73 @@
 [sha:be21585829e6693d602e8b3b4b0fba91df3a27b0]{
 -- Page 8, Offset 4155.
 -- 当然よね。最後まで逃げ回ろうなんて、虫のいい話だった」
-  Il fallait s'y attendre. C'était trop demander que de continuer à fuir sans fin.」
+　Il fallait s'y attendre. C'était trop demander que de continuer à fuir sans fin.」
 
 }
 [sha:15a3a1a70d786f8b11ed8266e6ccf1d3700a37b0]{
 -- Page 8, Offset 4156.
 -- 反省するわ、と青子は物言わぬ<人形|じぶん>に語りかける。
-  “J'en suis désolée”, dit Aoko en s'adressant à la marionnette muette.
+　“J'en suis désolée”, dit Aoko en s'adressant à la marionnette muette.
 
 }
 [sha:12f602515a02913bf7d98e318dbc0ca3129ea1b2]{
 -- Page 9, Offset 4157.
 -- 城が完全に崩れるまで残り一分。
-  Il restait une minute avant que le palais s'effondre totalement.
+　Il restait une minute avant que le palais s'effondre totalement.
 
 }
 [sha:c2283b0996fb261b6dd86225b28c0a021bc3b44a]{
 -- Page 9, Offset 4158.
 -- ここに留まるかぎり、どちらも瓦礫の下敷きだ。
-  Si elles restaient plantées là, elles se retrouveraient toutes les deux ensevelies sous les décombres.
+　Si elles restaient plantées là, elles se retrouveraient toutes les deux ensevelies sous les décombres.
 
 }
 [sha:51831187f1dbe3a8a5ed0bcc386e24dbbc50f748]{
 -- Page 9, Offset 4159.
 -- あの人形にとってはそれでオッケー。
-  Pour cette marionnette, c'était parfait.
+　Pour cette marionnette, c'était parfait.
 
 }
 [sha:d76960c87519e705677756a1792d8625db1770c0]{
 -- Page 9, Offset 4160.
 -- もとより命のないモノ、標的である蒼崎青子を殺す事だけが彼女の<目的|ねがい>なのだから。
-  Depuis le début, elle n'était pas vivante, et son seul souhait était de supprimer sa cible : Aozaki Aoko.
+　Depuis le début, elle n'était pas vivante, et son seul souhait était de supprimer sa cible : Aozaki Aoko.
 
 }
 [sha:62f6c6952942f5b0d71a32381231d44985f39864]{
 -- Page 10, Offset 4161.
 -- ……そう。
-  ...... Oui.
+　...... Oui.
 
 }
 [sha:1033ced96d484bde0cab21c4d741f74f75c0721a]{
 -- Page 10, Offset 4162.
 -- 要するに、敵だけが初めから必死だった。
-  En d'autres termes, seul son ennemi était acharné depuis le début.
+　En d'autres termes, seul son ennemi était acharné depuis le début.
 
 }
 [sha:e46971e377e9c4c0af488558792becf9b0816464]{
 -- Page 10, Offset 4163.
 -- 決意の甘さに<憤慨|ふんがい>する。
-  Elle était indignée par son propre manque de détermination.
+　Elle était indignée par son propre manque de détermination.
 
 }
 [sha:bb97b4e1fcfabd0303d063ca596c798451f63d2c]{
 -- Page 10, Offset 4164.
 -- もろとも死ぬ事さえいとわない相手に尻尾を巻くなんて、あまりに自分らしくなかったな、と。
-  Ça ne lui ressemblait pas de jeter l'éponge face à un adversaire qui n'hésiterait pas à mourir.
+　Ça ne lui ressemblait pas de jeter l'éponge face à un adversaire qui n'hésiterait pas à mourir.
 
 }
 [sha:80deebb3bee3ccd7e513fe28a56eac2e1246d690]{
 -- Page 11, Offset 4165. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                    “<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>
+　　　“<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
 -- Page 11, Offset 4166. Mods: @i, @r.
 -- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
-        <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et celui de ma naissance. Je viens à ta rencontre.>”
+<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et celui de ma naissance. Je viens à ta rencontre.>”
 
 }
 [sha:9e7a992454e9bf6a7204aae493aa22d7fee01385]{
@@ -241,37 +241,37 @@
 [sha:f20dc6b3f551abf20961f3129bf6ddd363f7b49e]{
 -- Page 12, Offset 4168.
 -- 六足歩行とフィンの一撃は<使|・><い|・><す|・><ぎ|・>よ。もう呪詛による魔力補給じゃ間に合わない”
-  Elle utilise trop l'Attaque de Finn et ses six jambes. Son alimentation en prana sous forme de malédiction ne suffit plus.”
+　Elle utilise trop l'Attaque de Finn et ses six jambes. Son alimentation en prana sous forme de malédiction ne suffit plus.”
 
 }
 [sha:055531933d7589add7673408bf8739e5c8d0a50d]{
 -- Page 13, Offset 4169.
 -- ……そう。永久機関と言っても、それは魔力の消費量を抑えてこその永久機関だ。
-  ...... Oui. Même si c'était un mouvement perpétuel, ce n'était qu'un moyen pour limiter la consommation de prana.
+　...... Oui. Même si c'était un mouvement perpétuel, ce n'était qu'un moyen pour limiter la consommation de prana.
 
 }
 [sha:718fbe7484a5c01ba7df03fb589d1b2b6ee0eba9]{
 -- Page 13, Offset 4170.
 -- あれだけの機巧を使えば燃料はすぐにカラになり、電力である呪詛を回す事もできなくなる。
-  À force d'utiliser autant de gadgets, son énergie s'épuisait rapidement, et elle ne pourrait bientôt même plus faire circuler le courant électrique qu'était la malédiction.
+　À force d'utiliser autant de gadgets, son énergie s'épuisait rapidement, et elle ne pourrait bientôt même plus faire circuler le courant électrique qu'était la malédiction.
 
 }
 [sha:e2073e38dea2091f306ec1aae8e379ef7f92e2a5]{
 -- Page 13, Offset 4171.
 -- <人形|かのじょ>は与えられた機能を、目的の為に燃やし尽くす。
-  Elle utiliserait jusqu'à épuisement les réserves qui lui avaient été attribuées pour abattre sa cible.
+　Elle utiliserait jusqu'à épuisement les réserves qui lui avaient été attribuées pour abattre sa cible.
 
 }
 [sha:9cfbeda32a8f780226d3571629d7aa2789848e9f]{
 -- Page 13, Offset 4172.
 -- それは知恵あるものでは届かない器物の誇り。
-  C'était l'orgueil d'un objet qu'aucun être doué d'intelligence ne pouvait comprendre.
+　C'était l'orgueil d'un objet qu'aucun être doué d'intelligence ne pouvait comprendre.
 
 }
 [sha:060b921050506c8e92707bfa977c610b527f68ae]{
 -- Page 13, Offset 4173.
 -- 走る為だけに生まれた獣の覚悟に、人が触れれば火傷する。
-  Si l'homme pouvait toucher la détermination d'une bête venue au monde uniquement pour courir, il s'en brûlerait les doigts.
+　Si l'homme pouvait toucher la détermination d'une bête venue au monde uniquement pour courir, il s'en brûlerait les doigts.
 
 }
 [sha:be477ff16b8388b93fc2796c1e3a1c040ca16349]{
@@ -283,25 +283,25 @@
 [sha:de95929a5482af1b926256be2e7eebffa5e7346e]{
 -- Page 14, Offset 4175.
 -- こういう無茶をするのは姉貴だけかと思ってたけど、いるところにはいるもんね”
-  Je pensais qu'il n'y avait que ma sœur pour faire autant dans la démesure, mais on dirait qu'on trouve des gens comme ça partout.”
+　Je pensais qu'il n'y avait que ma sœur pour faire autant dans la démesure, mais on dirait qu'on trouve des gens comme ça partout.”
 
 }
 [sha:9e6c06e5d992a5994fdb9bcb505cc617d80387f0]{
 -- Page 15, Offset 4176.
 -- だが、共倒れになる気は毛頭無い。
-  Mais elle n'avait pas du tout l'intention de finir écrasée avec elle.
+　Mais elle n'avait pas du tout l'intention de finir écrasée avec elle.
 
 }
 [sha:017f929a99eec44a986213baee90732acf66719b]{
 -- Page 15, Offset 4177.
 -- 反省は済ませたし、敬意も払ったし。
-  Elle avait terminé son introspection ainsi que l'éloge de la marionnette.
+　Elle avait terminé son introspection ainsi que l'éloge de la marionnette.
 
 }
 [sha:96cee11a593bfd813f89d02d0eb6fbc36dd42bf7]{
 -- Page 15, Offset 4178.
 -- 時間もないしいい加減、
-  N'ayant plus une seconde à perdre, il était temps d'en finir.
+　N'ayant plus une seconde à perdre, il était temps d'en finir.
 
 }
 [sha:f3715e09edea6b74e4b09f0377608c5f8ea02e29]{
@@ -313,31 +313,31 @@
 [sha:b837489a226504062ff2e276c092b0cc12d6a3a2]{
 -- Page 15, Offset 4180.
 -- たまったツケを、倍にして返してやる―――！
-  Je vais te rendre ce que je te dois au centuple―――!
+　Je vais te rendre ce que je te dois au centuple―――!
 
 }
 [sha:f3733ef72489c6abe7254b8587e5875be5c34320]{
 -- Page 16, Offset 4181.
 -- 溜めに溜めた力を、<右脚|みぎあし>に爆発させる。
-  Elle fit exploser dans sa jambe droite l'énergie qu'elle avait accumulée jusque-là.
+　Elle fit exploser dans sa jambe droite l'énergie qu'elle avait accumulée jusque-là.
 
 }
 [sha:a8fab0a306711a64cba8a6868c7673f81cae1b23]{
 -- Page 16, Offset 4182.
 -- 狙いは一点、正面からの直接打撃―――！
-  Elle ne cherchait à faire qu'une seule chose, lui donner un coup direct de face―――!
+　Elle ne cherchait à faire qu'une seule chose, lui donner un coup direct de face―――!
 
 }
 [sha:30e6aeec0ce7f5a813ffa1ac6b8813bea4428147]{
 -- Page 17, Offset 4183.
 -- 迎え撃つは心臓を<鷲掴|わしづか>む呪いの一撃。
-  La malédiction broyeuse de cœur s'apprêtait à frapper.
+　La malédiction broyeuse de cœur s'apprêtait à frapper.
 
 }
 [sha:ac1a7d2cef0fa12140b94c7738e756338a58ab7a]{
 -- Page 17, Offset 4184.
 -- 燃え尽きる事を恐れない、最大出力の心臓破り。
-  Un briseur de cœur à sa puissance maximale ne redoutant pas son extinction prochaine.
+　Un briseur de cœur à sa puissance maximale ne redoutant pas son extinction prochaine.
 
 }
 [sha:8b2972f06866deb5956a15c990bd3e3155922085]{
@@ -349,13 +349,13 @@
 [sha:35001769d250798e698f1d6bf3f63d273ee4e33f]{
 -- Page 17, Offset 4186.
 -- それを視認したのと同時に、青子は全力で床を蹴った。
-  Au moment même où elle s'en rendit compte, Aoko frappa le sol de toutes ses forces.
+　Au moment même où elle s'en rendit compte, Aoko frappa le sol de toutes ses forces.
 
 }
 [sha:9a3aec9233525db7952aa60e993b20ee9abe7c67]{
 -- Page 17, Offset 4187.
 -- 長い髪を尾のようになびかせて、少女の体は真横に<踊|おど>る。
-  Ses cheveux flottant au vent, elle plongea en avant.
+　Ses cheveux flottant au vent, elle plongea en avant.
 
 }
 [sha:ed7b8662b2a72fed1b769a53ac6fde7840090cef]{
@@ -367,7 +367,7 @@
 [sha:58564976c2813d4461193340dbd346b290e74de9]{
 -- Page 18, Offset 4189.
 -- 無理やりな横移動で崩れる<体勢|からだ>を、腕の振りで転ばずに持ち直す。
-  Elle rétablit son équilibre devenu précaire d'un balancement de bras sur les côtés.
+　Elle rétablit son équilibre devenu précaire d'un balancement de bras sur les côtés.
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -379,19 +379,19 @@
 [sha:e905015ae4ce8729c846bbfb51af2702e591c7c6]{
 -- Page 19, Offset 4191.
 -- 散弾が肩をかすめる。
-  Les balles frôlèrent ses épaules.
+　Les balles frôlèrent ses épaules.
 
 }
 [sha:4b794b51e8650eecc7133635863a7293b1f1451b]{
 -- Page 19, Offset 4192.
 -- 呪詛をうけた左肩が白熱する。
-  Son épaule gauche qui avait reçu la malédiction l'élançait.
+　Son épaule gauche qui avait reçu la malédiction l'élançait.
 
 }
 [sha:c4f90ff0af628eb6d3f6157f6f25001e928b586b]{
 -- Page 19, Offset 4193.
 -- 構わない。どんな不利な体勢になろうと、“フィンの一撃”の直撃だけは回避する―――！
-  C'est sans importance. Même si la situation est critique, il n'y a que les coups directs de “l'Attaque de Finn” que je dois absolument éviter―――!
+　C'est sans importance. Même si la situation est critique, il n'y a que les coups directs de “l'Attaque de Finn” que je dois absolument éviter―――!
 
 }
 [sha:1da3c45880d75c8cbe5d0291d4ee5a221870c07b]{
@@ -409,13 +409,13 @@
 [sha:6523514b27f2671c480c0b423a0bdac0bb3b34e2]{
 -- Page 20, Offset 4196.
 -- 痛みとバランスの乱れから、立ち直るのに０．５秒。
-  Il lui fallut une demi-seconde pour se remettre de la douleur et de la perte d'équilibre.
+　Il lui fallut une demi-seconde pour se remettre de la douleur et de la perte d'équilibre.
 
 }
 [sha:f799b367960b50beb218a1c91f8b31c66c3ffa03]{
 -- Page 20, Offset 4197.
 -- 顔を上げた瞬間、目前に迫る凶器を、魔力を帯びた拳で殴り<弾|はじ>く。
-  Au moment où elle leva la tête, elle détourna l'arme qui fonçait vers elle avec son poing imbibé de prana.
+　Au moment où elle leva la tête, elle détourna l'arme qui fonçait vers elle avec son poing imbibé de prana.
 
 }
 [sha:16b7294f9ea9e3401f82523e8ccb057268e10ac6]{
@@ -427,19 +427,19 @@
 [sha:ce499bfdc5cb545e79aa95001f92eaa478fd6052]{
 -- Page 21, Offset 4199.
 -- 人形に意志があったのなら、間違いなく目を見張っただろう。
-  Si la marionnette avait eu une conscience, elle aurait sans aucun doute ouvert grand les yeux.
+　Si la marionnette avait eu une conscience, elle aurait sans aucun doute ouvert grand les yeux.
 
 }
 [sha:e1c5e0df1e116fad3dbc7308b807a6fbb0b2c87e]{
 -- Page 21, Offset 4200.
 -- 驚嘆すべきは。
-  Le plus prodigieux dans tout cela,
+　Le plus prodigieux dans tout cela,
 
 }
 [sha:b7a6c7dec00daba357103581ada0079a44c86a9f]{
 -- Page 21, Offset 4201.
 -- その一連の動作をしながらも、足を止めない彼女の意志の強さだった。
-  c'était la force de volonté d'Aoko qui lui permettait d'enchaîner tous ces mouvements à la suite, sans temps mort.
+　c'était la force de volonté d'Aoko qui lui permettait d'enchaîner tous ces mouvements à la suite, sans temps mort.
 
 }
 [sha:3d62fbed8a364a556915f9c2d8c34d6704d008e5]{
@@ -451,13 +451,13 @@
 [sha:b3b225868da84f55ea06d2938d2e9b55bfa1b02b]{
 -- Page 22, Offset 4203.
 -- コンマの世界で弾かれる凶器。
-  Le projectile fut lancé instantanément.
+　Le projectile fut lancé instantanément.
 
 }
 [sha:213b5bfd2215e7f921f5f2a3c25bfee3dbbc8662]{
 -- Page 22, Offset 4204.
 -- 少女の力では完全に弾ききれず、凶器はわずかに軌道を逸らし、長い髪をさらっていく。
-  Ne parvenant pas à le repousser complètement avec sa force, celui-ci dévia quelque peu de sa trajectoire et emporta ses longs cheveux.
+　Ne parvenant pas à le repousser complètement avec sa force, celui-ci dévia quelque peu de sa trajectoire et emporta ses longs cheveux.
 
 }
 [sha:93b6761a592d6da16cf587e3c95693c68f213d93]{
@@ -475,7 +475,7 @@
 [sha:c299ccff56b67e1edb74ae2737ea6d5617f055df]{
 -- Page 23, Offset 4207.
 -- 詠唱は呪いとなって青子から気力を奪う。
-  L'Aria se transforma en malédiction et déroba l'énergie d'Aoko.
+　L'Aria se transforma en malédiction et déroba l'énergie d'Aoko.
 
 }
 [sha:d60dde0f07fd6f8a8a8399c6bf889880e72bc2e6]{
@@ -487,13 +487,13 @@
 [sha:79afc3afd453299fe092344a95fecfa75d0cd6dd]{
 -- Page 24, Offset 4209.
 -- こぼれたのは余裕か怒りか。
-  Était-ce un sentiment de calme qui l'envahissait ? Ou de colère ?
+　Était-ce un sentiment de calme qui l'envahissait ? Ou de colère ?
 
 }
 [sha:90064e4a7408520afba048abe323fb2b2091e337]{
 -- Page 24, Offset 4210.
 -- あまりにも脆弱な防衛機能を気迫で<嚥下|レジスト>し、
-  Elle résista avec fermeté au bien trop faible système de défense,
+　Elle résista avec fermeté au bien trop faible système de défense,
 
 }
 [sha:124158051b28b0fcfd2cdb6aa6254fb69729b338]{
@@ -505,31 +505,31 @@
 [sha:4e95f2ab18c576bc4052316f31ce7af85d3fdd4b]{
 -- Page 24, Offset 4212.
 -- 魔力を帯びた渾身の右脚が、人形の<心|む><臓|ね>を打ち上げる！
-  et elle frappa de toutes ses forces la poitrine de la marionnette avec sa jambe droite imbibée de prana !
+　et elle frappa de toutes ses forces la poitrine de la marionnette avec sa jambe droite imbibée de prana !
 
 }
 [sha:9e399d244c1a0fd2942def6f99f83316a96bfff3]{
 -- Page 25, Offset 4213.
 -- 人形の軽さは青子の予想以上だった。
-  La marionnette était plus légère que l'avait pensé Aoko.
+　La marionnette était plus légère que l'avait pensé Aoko.
 
 }
 [sha:b229ad549107f08fd9265e07a730714900ee59b6]{
 -- Page 25, Offset 4214.
 -- いや、重さではなく力が無かった、と言うべきか。
-  Non, il était plus approprié de parler de manque de puissance que de légèreté.
+　Non, il était plus approprié de parler de manque de puissance que de légèreté.
 
 }
 [sha:46e931b96b28c2ef7fe567cfa1993f4c83c425af]{
 -- Page 25, Offset 4215.
 -- 自動人形の重量はその内部構造―――動力源の大小によって決定される。
-  Le poids d'un Automate était décidé par sa structure interne―――par la taille de sa source de puissance.
+　Le poids d'un Automate était décidé par sa structure interne―――par la taille de sa source de puissance.
 
 }
 [sha:a18ac28519ae4c4a8ae7b31a14856c0ab939d0d8]{
 -- Page 25, Offset 4216.
 -- 自動<詠唱永久|オルゴールエンジン>機関を持つこのオートマタは、皮肉な事に、その優秀さがアダになったのだ。
-  L'excellence de l'organe de cette marionnette, un moteur de boîte à musique automatique, était ironiquement devenue sa faiblesse.
+　L'excellence de l'organe de cette marionnette, un moteur de boîte à musique automatique, était ironiquement devenue sa faiblesse.
 
 }
 [sha:2fe52e264a103e449fc98947980c2228b0d5ffc1]{
@@ -541,19 +541,19 @@
 [sha:3866be4005ebf44803dad2dca986f96eabbb102e]{
 -- Page 26, Offset 4218.
 -- 途切れ途切れの呪詛。
-  La malédiction était enrayée.
+　La malédiction était enrayée.
 
 }
 [sha:8713fa01fbb34a55a8e3c3ef74b1c65ccf36942d]{
 -- Page 26, Offset 4219.
 -- 青子の蹴りと天井への衝突、とどめに落下の衝撃で、人形はほぼ停止していた。
-  Suite au coup de pied d'Aoko, puis au choc avec le plafond, et enfin à l'impact de la chute au sol, la marionnette s'était pratiquement arrêtée.
+　Suite au coup de pied d'Aoko, puis au choc avec le plafond, et enfin à l'impact de la chute au sol, la marionnette s'était pratiquement arrêtée.
 
 }
 [sha:f13ddfe9a2d9e984ddba17025b43fbdb703d0f43]{
 -- Page 26, Offset 4220.
 -- 内部構造に歪みが生じ、動力源である<自動詠唱|オルゴール>のドラムが歪んでしまったのだ。
-  Sa structure interne était déformée et le cylindre de la boîte à musique, sa source d'énergie, était plié.
+　Sa structure interne était déformée et le cylindre de la boîte à musique, sa source d'énergie, était plié.
 
 }
 [sha:9e59dc301fa79842cc34c980c08dbb3c17e2cb3a]{
@@ -577,7 +577,7 @@ Hein ? Aaah ?!」
 [sha:9f26c009b507a0aa9c0b24150e8280d73af02e61]{
 -- Page 28, Offset 4224.
 -- 目の前に落ちてきた天井の衝撃で、青子は正しい意識を取り戻した。
-  En voyant le plafond tomber juste sous ses yeux, Aoko reprit ses esprits.
+　En voyant le plafond tomber juste sous ses yeux, Aoko reprit ses esprits.
 
 }
 [sha:b6c6ef4300f3a81958aafc00e74ccc5fff7cc0c4]{
@@ -589,7 +589,7 @@ Hein ? Aaah ?!」
 [sha:ee34e95bd0e1ae218ce05280220b24a4f10186c0]{
 -- Page 28, Offset 4226.
 -- と首をかしげるほど無我夢中だったので失念していたが、ミラーハウスの倒壊はもう始まっている。
-  Elle était tellement concentrée qu'elle en était restée bouche bée et avait oublié dans quelle situation elle se trouvait, mais l'effondrement du palais des glaces avait déjà commencé.
+　Elle était tellement concentrée qu'elle en était restée bouche bée et avait oublié dans quelle situation elle se trouvait, mais l'effondrement du palais des glaces avait déjà commencé.
 
 }
 [sha:9df4914fe9a44f4064d544c751f5950140b16c63]{
@@ -601,19 +601,19 @@ Hein ? Aaah ?!」
 [sha:a6506387a94618d25f1d9fdff0e645a14ff01455]{
 -- Page 29, Offset 4228.
 -- 勝利の余韻にひたっている場合でも、同情している余裕もない。
-  Ce n'était pas le moment de savourer sa victoire, et elle n'avait pas non plus le temps de s'apitoyer.
+　Ce n'était pas le moment de savourer sa victoire, et elle n'avait pas non plus le temps de s'apitoyer.
 
 }
 [sha:4bb874f1e0b360781ade788994360d300b0ec022]{
 -- Page 29, Offset 4229.
 -- このままだと数秒後には同じ運命。
-  À ce rythme, d'ici quelques secondes, elle subirait le même sort.
+　À ce rythme, d'ici quelques secondes, elle subirait le même sort.
 
 }
 [sha:2db1c6cbd66d822702b341ad352913ab3b5731ba]{
 -- Page 29, Offset 4230.
 -- 青子自身、生還できる未来をイメージできないほど、状況は壊滅的だ。
-  La situation était catastrophique au point qu'elle n'arrivait pas à imaginer un futur où elle s'en sortait vivante.
+　La situation était catastrophique au point qu'elle n'arrivait pas à imaginer un futur où elle s'en sortait vivante.
 
 }
 [sha:0c0eb6590cf1157f89bedff7014a63660e4cc17c]{
@@ -625,18 +625,18 @@ Hein ? Aaah ?!」
 [sha:1752ecb56def7bd405bc01cb9cc386cae4c34842]{
 -- Page 30, Offset 4232.
 -- それでも最善を尽くそうと頬を叩く。
-  Malgré son état, elle se tapa les joues pour se donner au maximum.
+　Malgré son état, elle se tapa les joues pour se donner au maximum.
 
 }
 [sha:41d9cc2703291894d0a8f07753fde7839b79be78]{
 -- Page 30, Offset 4233.
 -- わずか数秒間の交戦の報酬。
-  Avec la respiration saccadée à cause de la tension et de l'excitation,
+　Avec la respiration saccadée à cause de la tension et de l'excitation,
 
 }
 [sha:1e79c0b980895db877ced61ab420eca94176810b]{
 -- Page 30, Offset 4234.
 -- 興奮と緊張で乱れた呼吸もそのままに、青子は出口に向かって走りだした。
-  son court combat étant terminé, elle se mit à courir vers la sortie.
+　son court combat étant terminé, elle se mit à courir vers la sortie.
 
 }

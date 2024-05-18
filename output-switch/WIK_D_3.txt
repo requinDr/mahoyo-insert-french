@@ -1,7 +1,7 @@
 [sha:2a9da9ead90afa501fe24160d45d91073fe50429]{
 -- Page 0, Offset 21777.
 -- わたしは、このまま帰ってしまおうか、と思った。
-  Je songeai qu'il vaudrait peut-être mieux rentrer chez moi.
+　Je songeai qu'il vaudrait peut-être mieux rentrer chez moi.
 
 }
 [sha:6528530033b6d825480238b1526e48d9dbf011e9]{
@@ -13,25 +13,25 @@
 [sha:e36cedd59834a7f9c4b98378734ce0f63492f995]{
 -- Page 1, Offset 21779.
 -- ……んー、本降りになったら帰りはタイヘンかも。ほら、山の中程までしかあがってこないでしょ、タクシー」
-  ...... Hum, le retour risque d'être délicat s'il commence à pleuvoir pour de bon. Le taxi ne peut monter que jusqu'à mi-hauteur de la montagne.」
+　...... Hum, le retour risque d'être délicat s'il commence à pleuvoir pour de bon. Le taxi ne peut monter que jusqu'à mi-hauteur de la montagne.」
 
 }
 [sha:ed03a5fe468d8770989ca6810733550209132590]{
 -- Page 2, Offset 21780.
 -- 律架さんの言う通りだ。
-  Ritsuka avait parfaitement raison.
+　Ritsuka avait parfaitement raison.
 
 }
 [sha:2c596055eace69539ae1fdef170780ae6d856021]{
 -- Page 2, Offset 21781.
 -- 本格的に降り出したら、帰りは濡れるのを覚悟しないといけない。
-  S'il se mettait à pleuvoir des trombes d'eau, il faudrait se faire à l'idée qu'on rentrerait trempés.
+　S'il se mettait à pleuvoir des trombes d'eau, il faudrait se faire à l'idée qu'on rentrerait trempés.
 
 }
 [sha:17da9c7b8327776072479ba6db8b6727c32d69fb]{
 -- Page 2, Offset 21782.
 -- 二年以上ここから学校に通っていた蒼崎のタフさに、今更ながら感心するような、呆れるような。
-  En pensant qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.
+　En pensant qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.
 
 }
 [sha:822341c2bf5411d6d8d334f5af6a0ce208dc70fd]{
@@ -43,7 +43,7 @@
 [sha:66510963b765498a49c700760b20bd2205ef6424]{
 -- Page 3, Offset 21784.
 -- みんな居間にいるんじゃないの？」
-  Les autres ne sont pas dans le salon ?」
+　Les autres ne sont pas dans le salon ?」
 
 }
 [sha:a3df518f62971d9276fcc044785103f93f0a338b]{
@@ -55,121 +55,121 @@
 [sha:7e6e6d57826a8cde66b904737cde499128997430]{
 -- Page 3, Offset 21786.
 -- みなさん、先に行っていてください」
-  Partez devant.」
+　Partez devant.」
 
 }
 [sha:ecb76692ae4cb946ee273628826b2d0948d22b94]{
 -- Page 4, Offset 21787.
 -- 客室からボストンバッグを回収して、ロビーに戻る。
-  Je récupérai le sac de voyage dans ma chambre avant de retourner dans le vestibule.
+　Je récupérai le sac de voyage dans ma chambre avant de retourner dans le vestibule.
 
 }
 [sha:03eca652b3d61e7fc3e50f2a7e41ecbe57290cf0]{
 -- Page 4, Offset 21788.
 -- 居間からは律架さんたちの笑い声が聞こえてくる。
-  J'entendais les éclats de rire des autres en provenance du salon.
+　J'entendais les éclats de rire des autres en provenance du salon.
 
 }
 [sha:9ee9ad43e07540dbb3d2c1527e5009d130f783f5]{
 -- Page 4, Offset 21789.
 -- わたしは賑わいに後ろ髪を引かれながらも、久遠寺邸を後にした。
-  Bien qu'attirée par toute cette animation, je sortis du manoir Kuonji.
+　Bien qu'attirée par toute cette animation, je sortis du manoir Kuonji.
 
 }
 [sha:b90aebe2fda4148d61879ae5dc11abaf3fa424c6]{
 -- Page 5, Offset 21790.
 -- どうして帰る気になったのか、自分でもいまいち不明。
-  Pourquoi avais-je eu envie de rentrer ? Même moi, je n'en avais pas la moindre idée.
+　Pourquoi avais-je eu envie de rentrer ? Même moi, je n'en avais pas la moindre idée.
 
 }
 [sha:2b8e0a22697f0273e61e9a4a8feaafc87b7b546a]{
 -- Page 5, Offset 21791.
 -- 洋館の雰囲気に気圧されたとか、
-  L'atmosphère oppressante du manoir,
+　L'atmosphère oppressante du manoir,
 
 }
 [sha:3646f5dd6f22509136a75e1eb399aa50d966ec58]{
 -- Page 5, Offset 21792.
 -- やっぱり柄じゃないとか、
-  le fait que je n'étais pas à ma place,
+　le fait que je n'étais pas à ma place,
 
 }
 [sha:13247dbfac8f66dff962bc27c78fa7a3a01002ec]{
 -- Page 5, Offset 21793.
 -- 槻司がいたコトとか、たぶん、いろいろ合わさって面倒くさくなったのだ。
-  et la présence de Tsukiji étaient probablement autant de facteurs qui m'avaient dérangée.
+　et la présence de Tsukiji étaient probablement autant de facteurs qui m'avaient dérangée.
 
 }
 [sha:6ddc26ff937b972ee71675a7a6a921d05457b73a]{
 -- Page 6, Offset 21794.
 -- もうじき日も沈む。
-  Le soleil allait bientôt se coucher.
+　Le soleil allait bientôt se coucher.
 
 }
 [sha:f0b3cc7f1c68821e87664928d267462e64c94716]{
 -- Page 6, Offset 21795.
 -- 夜になる前に帰れば、何事もなく今日は終わるだろう。
-  Si je rentrais avant la tombée de la nuit, la journée devrait se terminer comme si de rien n'était.
+　Si je rentrais avant la tombée de la nuit, la journée devrait se terminer comme si de rien n'était.
 
 }
 [sha:9b17299b35b3d81d2451e2d3b594d9af36e0186d]{
 -- Page 6, Offset 21796.
 -- 念願の大学受験を前にして、槻司と顔を合わせるのはいろいろブレそうで怖いし。
-  Je craignais de faire face à Tsukiji et de voir ma volonté faiblir alors que l'examen d'entrée à l'université souhaitée approchait.
+　Je craignais de faire face à Tsukiji et de voir ma volonté faiblir alors que l'examen d'entrée à l'université souhaitée approchait.
 
 }
 [sha:f349d3bb48ed1fd555e1f029517da98fedb662c0]{
 -- Page 6, Offset 21797.
 -- これでいいんだ、と自分に言い聞かせて、わたしは白犬塚を下りていく。
-  C'est pour le mieux, me répétai-je en descendant la colline de Shiroinuzaka.
+　C'est pour le mieux, me répétai-je en descendant la colline de Shiroinuzaka.
 
 }
 [sha:dbd8f9726a35e0256c49baa386442b8263c81abd]{
 -- Page 7, Offset 21798.
 -- ―――そんな時。
-  ―――Pendant la descente,
+　―――Pendant la descente,
 
 }
 [sha:2487542a6f22ecf715b2f3b8c4ffa7484672330b]{
 -- Page 7, Offset 21799.
 -- わたしはふと、子供たちに伝わっていた伝説を、もう一つだけ思い出した。
-  une autre légende que l'on racontait aux enfants me revint en mémoire.
+　une autre légende que l'on racontait aux enfants me revint en mémoire.
 
 }
 [sha:5a5ab72003d417713dd10f7fec11b7e8ac448e63]{
 -- Page 8, Offset 21800.
 -- 『<逢魔|おうま>が<時|とき>にひとりで山を下りると、
-          『Prends garde lorsque tu descends seul de la montagne,
+　　　　　『Prends garde lorsque tu descends seul de la montagne,
 
 }
 [sha:5ebd26bc270a716f3dd420d6a244053d4d79a0df]{
 -- Page 8, Offset 21801.
 -- 人食い鬼が待っている』
-            car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
+　　　　　　car l'ogre mangeur d'hommes t'attend à un tournant du chemin.』
 
 }
 [sha:efb057f31425f12be74ac8d425195bdf145fd4e2]{
 -- Page 9, Offset 21802.
 -- 久遠寺邸が建つ前からもっと昔、この山には鬼が隠れ住んでいて、ひとりきりで輪から外れようとする人間を襲って殺す鬼がいた。
-  Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes solitaires qui cherchaient à vivre à l'écart des autres.
+　Bien avant la construction du manoir Kuonji, un ogre se terrait dans la montagne et agressait les personnes solitaires qui cherchaient à vivre à l'écart des autres.
 
 }
 [sha:103e3a2643f9b78ab3784ea7e8d6ad093d530a2d]{
 -- Page 9, Offset 21803.
 -- 襲って食べる、というのではなく、殺す、というのが人間的で生々しい。
-  Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.
+　Il ne les attaquait pas pour les manger, mais pour les tuer, ce qui rendait le personnage plus humain et avait marqué mon esprit.
 
 }
 [sha:c52d5194effa9b1068f6007747314d5762c25c70]{
 -- Page 9, Offset 21804.
 -- 村社会のしきたりから外れた人間を村ぐるみで闇に葬った、なんて解釈もできる。
-  On pouvait interpréter l'histoire autrement : le village réduisait au silence tout villageois qui s'écartait de ses coutumes.
+　On pouvait interpréter l'histoire autrement : le village réduisait au silence tout villageois qui s'écartait de ses coutumes.
 
 }
 [sha:13cbad203c5276d6aa7fde04858e53f18773a09c]{
 -- Page 9, Offset 21805.
 -- そんな、暗い妄想に<耽|ふけ>っていると、
-  C'était absorbée dans ces sombres chimères que je tombais sur une impasse.
+　C'était absorbée dans ces sombres chimères que je tombais sur une impasse.
 
 }
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
@@ -181,13 +181,13 @@
 [sha:e45ac8ad824ac851a6fdca1366e4f2a9d8777f07]{
 -- Page 10, Offset 21807.
 -- 道を間違えたのだろうか。
-  M'étais-je trompée de chemin ?
+　M'étais-je trompée de chemin ?
 
 }
 [sha:f879622f8df9daf5f92e87674d115b37b7cee97a]{
 -- Page 10, Offset 21808.
 -- わたしは久遠寺邸の裏側に出てしまった。
-  Je me trouvais de l'autre côté du manoir Kuonji.
+　Je me trouvais de l'autre côté du manoir Kuonji.
 
 }
 [sha:62c7977e32447c5c4a8293cc46acea50a3f20585]{
@@ -199,19 +199,19 @@
 [sha:63d8e57830b6d9a823e9ae12a86981e5301c0807]{
 -- Page 11, Offset 21810.
 -- 不安をごまかすように独り言をもらす。
-  Je parlais toute seule pour dissimuler mon trouble.
+　Je parlais toute seule pour dissimuler mon trouble.
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 12, Offset 21811.
 -- ……と。
-  ...... À cet instant précis,
+　...... À cet instant précis,
 
 }
 [sha:88fe9c7b299d433dc3896081f8b0c8f272b433ee]{
 -- Page 12, Offset 21812.
 -- 木の陰に、何か、人間ほどの影があった。
-  j'aperçus une ombre de forme humaine sous un arbre.
+　j'aperçus une ombre de forme humaine sous un arbre.
 
 }
 [sha:3dbfeff4af0865b9fbd9d7c31736e14443514bd5]{
@@ -223,7 +223,7 @@
 [sha:113b24e7dc8d78b753aa624426686fa45b0a18be]{
 -- Page 13, Offset 21814.
 -- 声をかける。
-  J'élevai la voix.
+　J'élevai la voix.
 
 }
 [sha:f29ea995608b222ce276db72508368b1174fb559]{
@@ -247,19 +247,19 @@ Aucun vent ne soufflait.
 [sha:aef64277ae58d0a3e81003a825e32fe08d0af6f3]{
 -- Page 13, Offset 21818.
 -- 帰ろうと思った本当の理由が頭をよぎる。
-  La véritable raison qui m'avait poussée à rentrer me traversa l'esprit.
+　La véritable raison qui m'avait poussée à rentrer me traversa l'esprit.
 
 }
 [sha:e8432d5c2a0e62c53838db9506c90968187d0f41]{
 -- Page 13, Offset 21819.
 -- わたしは、そうだ。
-  Oui, j'avais eu un pressentiment.
+　Oui, j'avais eu un pressentiment.
 
 }
 [sha:2d69f30d6db237200df1ea8495fdd84e96e864c6]{
 -- Page 13, Offset 21820.
 -- このまま洋館にいたら、何か、よくない事が起きそうだと感じたから―――
-  J'avais senti qu'un évènement terrible se produirait si je restais au manoir―――
+　J'avais senti qu'un évènement terrible se produirait si je restais au manoir―――
 
 }
 [sha:fb6235d021cb9e0bdf56724dbd34ce92de383fc6]{
@@ -271,43 +271,43 @@ Aucun vent ne soufflait.
 [sha:0941bcc6665dc297ae291d4faac760595fbdb47e]{
 -- Page 14, Offset 21822.
 -- ありえない光景を直視した。
-  Je fus témoin d'un spectacle impensable.
+　Je fus témoin d'un spectacle impensable.
 
 }
 [sha:135fdb2c41bfee760d39282ac5b0851122165540]{
 -- Page 14, Offset 21823.
 -- お腹がひとりでにへこむような衝撃。
-  Le choc força mon ventre à se creuser.
+　Le choc força mon ventre à se creuser.
 
 }
 [sha:b2c92103c264b841fa6fa77b7e4ccba96c6936d7]{
 -- Page 14, Offset 21824.
 -- 反射的に口に手を当てたけれど、間に合わなかった。
-  Par réflexe, je plaçai la main sur ma bouche, mais il était trop tard.
+　Par réflexe, je plaçai la main sur ma bouche, mais il était trop tard.
 
 }
 [sha:29080531190d973810e7453becc92f3d4370644a]{
 -- Page 15, Offset 21825.
 -- ……地面に倒れる。
-  ...... Je m'effondrai au sol.
+　...... Je m'effondrai au sol.
 
 }
 [sha:54ada8124c6260816c88a4d5ead25ffaf2404c40]{
 -- Page 15, Offset 21826.
 -- 全身の<血|ねつ>が、力が流れていく。
-  Mon corps se vidait de son sang et mes forces m'abandonnaient.
+　Mon corps se vidait de son sang et mes forces m'abandonnaient.
 
 }
 [sha:e5409b73dda17e2eaf7ded2c56d549e999773745]{
 -- Page 15, Offset 21827.
 -- 助けを呼ぶ手も、むなしく空を切る。
-  Je levai la main pour réclamer de l'aide, mais elle ne fit que retomber vainement.
+　Je levai la main pour réclamer de l'aide, mais elle ne fit que retomber vainement.
 
 }
 [sha:b5a3e406d1223b0da771bea04a65b2b24b50e55f]{
 -- Page 15, Offset 21828.
 -- わたしは最後の力を振り絞って、目の前の人影を視界に収める。
-  Dans un dernier effort, je fixai la silhouette devant moi.
+　Dans un dernier effort, je fixai la silhouette devant moi.
 
 }
 [sha:ed509d94d5b75492581480f7f6647feaccbe6532]{
@@ -319,12 +319,12 @@ Aucun vent ne soufflait.
 [sha:f1b10905ffcda83d4221844474d8079a162c0486]{
 -- Page 17, Offset 21830.
 -- 振り下ろされる鉈状のナニカ。
-  Un objet en forme de hachette s'abattit sur moi.
+　Un objet en forme de hachette s'abattit sur moi.
 
 }
 [sha:7597b17b036b79f7e5afef298523456b5035d4a8]{
 -- Page 17, Offset 21831.
 -- 鬼の<面|かお>をした誰かが、死にいくわたしにそう言った。
-  Telles furent les paroles que m'adressa l'individu au visage d'ogre tandis que j'agonisais.
+　Telles furent les paroles que m'adressa l'individu au visage d'ogre tandis que j'agonisais.
 
 }

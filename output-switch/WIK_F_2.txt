@@ -1,6 +1,6 @@
 [sha:c3fce2477639e8d78883913f8e1a9162f9bda5ed]{
 -- Page 0, Offset 21986.
 -- これからトンデモな事件が始まるな、と思った。
-  Je songeai qu'une affaire insensée venait de débuter.
+　Je songeai qu'une affaire insensée venait de débuter.
 
 }

@@ -1,31 +1,31 @@
 [sha:04a2db5b9ffc222874d296d60a2112217002a1de]{
 -- Page 0, Offset 10023.
 -- 夜中、洋館を歩いていると不思議なコトに遭遇する。
-  La nuit, il lui arrivait d'assister à des scènes étranges en marchant dans le manoir.
+　La nuit, il lui arrivait d'assister à des scènes étranges en marchant dans le manoir.
 
 }
 [sha:6ffcb8e957479bb4812bee9153b83c982002b578]{
 -- Page 0, Offset 10024.
 -- 館内にただよう霧や、
-  Comme le brouillard dérivant dans la demeure,
+　Comme le brouillard dérivant dans la demeure,
 
 }
 [sha:59a77aacd728e783c38fdaa545428dc44df0dfa5]{
 -- Page 0, Offset 10025.
 -- 増えたり減ったりするドア。
-  ou les portes qui se multipliaient ou disparaissaient.
+　ou les portes qui se multipliaient ou disparaissaient.
 
 }
 [sha:37fa43745d21de320aa7058b64d15d5370172650]{
 -- Page 0, Offset 10026.
 -- 絨毯の手入れをする子豚っぽい影を見たかと思えば、このように、
-  Il se rappela aussi qu'il avait vu des silhouettes aux allures de porcelets se charger de l'entretien de la moquette,
+　Il se rappela aussi qu'il avait vu des silhouettes aux allures de porcelets se charger de l'entretien de la moquette,
 
 }
 [sha:1adb000a746d692542745956c79fe1bb50ffbc97]{
 -- Page 0, Offset 10027.
 -- サンルームに向かってはかき消える、鳥たちの羽音を聞いたりもする。
-  et en se dirigeant vers la véranda, il lui arrivait d'entendre, comme maintenant, le battement d'ailes d'oiseaux qui se volatilisaient.
+　et en se dirigeant vers la véranda, il lui arrivait d'entendre, comme maintenant, le battement d'ailes d'oiseaux qui se volatilisaient.
 
 }
 [sha:75a86306fc33fa7f034f2d21fede6c30d870b819]{
@@ -37,37 +37,37 @@
 [sha:4eba01b77be40e14807787f79f1db7caab8752c2]{
 -- Page 1, Offset 10029.
 -- たいていの事は見ざる聞かざるな草十郎も、今の羽音は聞き過ごせなかった。
-  Même Sōjūrō, qui ne faisait pas attention à la plupart des choses, ne pouvait ignorer un tel bruit.
+　Même Sōjūrō, qui ne faisait pas attention à la plupart des choses, ne pouvait ignorer un tel bruit.
 
 }
 [sha:37034507bee4ae8114ced98c671b183a54736767]{
 -- Page 2, Offset 10030.
 -- 一羽や二羽の話ではないのだ。
-  Ce n'était pas juste un ou deux volatiles.
+　Ce n'était pas juste un ou deux volatiles.
 
 }
 [sha:73d632c34c8507f3a6e02cedea2eeadeaa4c4cc4]{
 -- Page 2, Offset 10031.
 -- 十羽単位の鳥がサンルームに突撃したとすれば、窓ガラスとて無事では済むまい。
-  Si un groupe de dix oiseaux prenait d'assaut la véranda, même les fenêtres de verre n'en sortiraient pas indemnes.
+　Si un groupe de dix oiseaux prenait d'assaut la véranda, même les fenêtres de verre n'en sortiraient pas indemnes.
 
 }
 [sha:72955ea59e8f8350fd4d6b1eff03d6a95449db5a]{
 -- Page 2, Offset 10032.
 -- いてもたってもいられず、草十郎はちり取りと<箒|ほうき>を手にして走りだした。
-  Ne pouvant rester sans agir, Sōjūrō prit la pelle à poussière et le balai, puis se mit à courir.
+　Ne pouvant rester sans agir, Sōjūrō prit la pelle à poussière et le balai, puis se mit à courir.
 
 }
 [sha:cd32f6a9f294bc2dfb16eeb7d99318b254a18716]{
 -- Page 2, Offset 10033.
 -- 生来の小姑根性か、せいいっぱいの自己防衛か。
-  Peut-être parce qu'il était de nature téméraire, ou pour montrer toute sa volonté de légitime défense.
+　Peut-être parce qu'il était de nature téméraire, ou pour montrer toute sa volonté de légitime défense.
 
 }
 [sha:463903c0c647ed621e4bb834350dd3c07c13cf04]{
 -- Page 2, Offset 10034.
 -- 今日の授業でたまたま、
-  Cela faisait suite à ce qui s'était passé ce jour-là :
+　Cela faisait suite à ce qui s'était passé ce jour-là :
 
 }
 [sha:eadeda9c1c406b7a2c4317416f7641a35109f420]{
@@ -85,13 +85,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:4198eac129d1fda8635f2a0d25690b04b48d5c9e]{
 -- Page 3, Offset 10037.
 -- 環境への無関心さがすさんだ精神を作り上げるとか眉唾ですけど、正直なところ、ブームだからって盗んだバイクで走り回ったり、学校の廊下の窓ガラスとか割ってまわっちゃダメですよ。先生の仕事が増えますから」
-  Il est faux de dire que l'environnement est seul responsable de la dépravation de l'esprit, mais honnêtement, ce n'est pas bien pour autant de faire un tour en moto volée ou de briser les fenêtres du couloir de l'école sous prétexte que ça fait tendance. Et puis, ça me rajoute du travail.」
+　Il est faux de dire que l'environnement est seul responsable de la dépravation de l'esprit, mais honnêtement, ce n'est pas bien pour autant de faire un tour en moto volée ou de briser les fenêtres du couloir de l'école sous prétexte que ça fait tendance. Et puis, ça me rajoute du travail.」
 
 }
 [sha:74448c94d1b9d835fda2408f90ec29c282b4b454]{
 -- Page 4, Offset 10038.
 -- 時に、校内暴力がある種の若者にとってステータスになっていた時代の話である。
-  Au passage, c'était une histoire typique pour les jeunes graines violentes à l'école.
+　Au passage, c'était une histoire typique pour les jeunes graines violentes à l'école.
 
 }
 [sha:b0b0912490dae18075d3aaaa6733ac3a45e1bfd9]{
@@ -103,31 +103,31 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:ce31e9f2bf766c76d68c28a1864afb8b57e37857]{
 -- Page 5, Offset 10040.
 -- 草十郎はなるほど、と今日聞いた話を<反芻|はんすう>する。
-  Je vois, se dit Sōjūrō en ruminant l'histoire qu'il avait écoutée le jour même.
+　Je vois, se dit Sōjūrō en ruminant l'histoire qu'il avait écoutée le jour même.
 
 }
 [sha:bf8e5f970d8cc3db55a4e4c6b77a5e0ceaff3698]{
 -- Page 5, Offset 10041.
 -- 割れ窓理論を聞いていた彼にとって、洋館内のモラル低下は放っておけない。
-  Ayant entendu cette théorie de la fenêtre brisée, il ne pouvait négliger le maintien de la morale dans le manoir.
+　Ayant entendu cette théorie de la fenêtre brisée, il ne pouvait négliger le maintien de la morale dans le manoir.
 
 }
 [sha:b6252caf797f89bdbaec30bbd322ae0bffc6e2f4]{
 -- Page 6, Offset 10042.
 -- ……同居人は<既|すで>にして十分なほど凶暴だが、これ以上<横暴|おうぼう>さが増しては、なにより本人の為にならない。また学校でよからぬ噂が流れてしまう。
-  ...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Autrement, de mauvaises rumeurs pourraient se propager à l'école.
+　...... Ses colocataires étaient déjà suffisamment féroces, mais par-dessus tout, une intensification de la violence ne lui apporterait rien de bien. Autrement, de mauvaises rumeurs pourraient se propager à l'école.
 
 }
 [sha:80b6651e9d93686118846a02cbf6766f2f85d390]{
 -- Page 6, Offset 10043.
 -- 我らが生徒会長の名誉を守る為。
-  Pour protéger l'honneur de la présidente du conseil étudiant,
+　Pour protéger l'honneur de la présidente du conseil étudiant,
 
 }
 [sha:0bbcc3a1cb1e44f7ec2099f8800a0273f4c3e7ee]{
 -- Page 6, Offset 10044.
 -- ひいては実害から自分の身を守る為、草十郎はサンルームの掃除に向かったのだが―――
-  ainsi que pour se protéger lui-même contre de réels préjudices, Sōjūrō se dirigea vers la véranda afin de nettoyer la pièce, mais―――
+　ainsi que pour se protéger lui-même contre de réels préjudices, Sōjūrō se dirigea vers la véranda afin de nettoyer la pièce, mais―――
 
 }
 [sha:a0310cda6ff2f026c5f7d12889af0349a2302edb]{
@@ -139,7 +139,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:f2dc2037118b8820678069c5d1772c4051ddd752]{
 -- Page 7, Offset 10046.
 -- この通り、サンルームには鳥の姿はおろか、鳴き声さえ有りはしなかった。
-  Dans la véranda, il n'y avait pas d'oiseaux, et encore moins de gazouillis.
+　Dans la véranda, il n'y avait pas d'oiseaux, et encore moins de gazouillis.
 
 }
 [sha:112faa340b619917fe8e498bc52e9513b38ca15a]{
@@ -157,13 +157,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:f13448ef586a6fc5557101d44d934d122f6ea09e]{
 -- Page 8, Offset 10049.
 -- 中庭を<臨|のぞ>むテーブルには、午後のお茶を<愉|たの>しむ蒼崎青子と久遠寺有珠の姿のみ。
-  Seules Aozaki Aoko et Kuonji Alice se trouvaient là, en train de déguster leur thé de l'après-midi sur la table qui avait vue sur la cour.
+　Seules Aozaki Aoko et Kuonji Alice se trouvaient là, en train de déguster leur thé de l'après-midi sur la table qui avait vue sur la cour.
 
 }
 [sha:d69dab3040934a38348eb549b01c086b1a0310bc]{
 -- Page 8, Offset 10050.
 -- 草十郎ソナー探知で十八羽は居たであろう鳥の気配はどこにもない。
-  Les dix-huit oiseaux dont il avait ressenti la présence avec le “sonar de détection Sōjūrō” n'étaient visibles nulle part.
+　Les dix-huit oiseaux dont il avait ressenti la présence avec le “sonar de détection Sōjūrō” n'étaient visibles nulle part.
 
 }
 [sha:cf22494723b11f633cc23a11ab043568348e760a]{
@@ -193,7 +193,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:a82292f12b04d099dac4f312ccaecf353d7f8c4e]{
 -- Page 9, Offset 10055.
 -- 草十郎ですら感じ取れる、<清々|すがすが>しいまでの嘘である。
-  Même Sōjūrō pouvait s'apercevoir qu'il s'agissait d'un mensonge éhonté.
+　Même Sōjūrō pouvait s'apercevoir qu'il s'agissait d'un mensonge éhonté.
 
 }
 [sha:85fd02f24d8711112ea2cf3b433153238ff67a7b]{
@@ -205,19 +205,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:fcbb660d199255785d853b2eee003a80441ff442]{
 -- Page 10, Offset 10057.
 -- さっきの羽音は聞き間違いではない。
-  Les battements d'ailes qu'il avait entendus n'étaient pas une erreur auditive.
+　Les battements d'ailes qu'il avait entendus n'étaient pas une erreur auditive.
 
 }
 [sha:3de16a6192b4eafaf517ce94f64b89c9a8acdf36]{
 -- Page 10, Offset 10058.
 -- こと野生動物の生態については<一家言|いっかげん>あるのか、草十郎は急ぎ足で窓まで移動し、ますます眉を<曇|くも>らせた。
-  Sōjūrō semblait avoir un point de vue très personnel sur le mode de vie des animaux sauvages, car il se déplaça rapidement jusqu'à la fenêtre et fronça encore plus les sourcils.
+　Sōjūrō semblait avoir un point de vue très personnel sur le mode de vie des animaux sauvages, car il se déplaça rapidement jusqu'à la fenêtre et fronça encore plus les sourcils.
 
 }
 [sha:7475f4dd1dffb634c24bea797c4c65fd42fee7fa]{
 -- Page 10, Offset 10059.
 -- 窓ガラスには鳥の跡はおろか、羽の一枚すら落ちていない。
-  Non seulement, il n'y avait aucune trace d'oiseaux sur les fenêtres, mais en plus, il n'y avait même pas de plumes par terre.
+　Non seulement, il n'y avait aucune trace d'oiseaux sur les fenêtres, mais en plus, il n'y avait même pas de plumes par terre.
 
 }
 [sha:a1a58bd41ce912dd4cf613deacf2fea4384061d8]{
@@ -229,7 +229,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:445d79a11b0dee496e83e49497a81fb121b03535]{
 -- Page 11, Offset 10061.
 -- 鳥を探す草十郎を見て、なぜその発想にいきつくのか。
-  C'était à se demander pourquoi, en regardant Sōjūrō chercher des oiseaux, elle en était arrivée à cette idée.
+　C'était à se demander pourquoi, en regardant Sōjūrō chercher des oiseaux, elle en était arrivée à cette idée.
 
 }
 [sha:46dfd32cf2de9622742b8b9cfa9ba1c67f700526]{
@@ -247,25 +247,25 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:6a9b8b51b94d5397b31f49671f1148db0186d8a1]{
 -- Page 12, Offset 10064.
 -- いえ、むしろ鰯のパイとか食べたコトないのよね……」
-  Même si j'ai jamais mangé de tourtes à la sardine, à vrai dire......」
+　Même si j'ai jamais mangé de tourtes à la sardine, à vrai dire......」
 
 }
 [sha:0c2c09d4f9b883c0e076ff48d29ede9b431d2127]{
 -- Page 13, Offset 10065.
 -- 青子の<独|ひと>り芸は、この時代ではあまりに高度すぎたようだ。
-  Les blagues d'Aoko semblaient bien trop avancées pour son époque.
+　Les blagues d'Aoko semblaient bien trop avancées pour son époque.
 
 }
 [sha:cdc99bae44bee43d5b41a9d4d94d1c244cc8db2d]{
 -- Page 13, Offset 10066.
 -- 草十郎は窓ガラスから離れ、とぼとぼサンルームを後にし、
-  Sōjūrō s'éloigna de la fenêtre, quitta à contrecœur la véranda,
+　Sōjūrō s'éloigna de la fenêtre, quitta à contrecœur la véranda,
 
 }
 [sha:abb59152e40806cb3cea8d8b4b9ec544157ffc9a]{
 -- Page 13, Offset 10067.
 -- 今まで幾度とあった、有珠からのよく分からない視線を感じた。
-  et sentit un de ces regards incompréhensibles qu'Alice lui avait lancés jusqu'à présent.
+　et sentit un de ces regards incompréhensibles qu'Alice lui avait lancés jusqu'à présent.
 
 }
 [sha:26fe7071fe52b4fdd8fd17f8b078460b4188d1f0]{
@@ -277,7 +277,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:7f4ddf4412f046fb8acf5c4a8a3d36419ffacc2c]{
 -- Page 14, Offset 10069.
 -- 何か聞きたい事でもあるのだろうか、と声をかけ、
-  Il éleva la voix, pensant qu'elle devait avoir quelque chose à lui demander,
+　Il éleva la voix, pensant qu'elle devait avoir quelque chose à lui demander,
 
 }
 [sha:b7c90c3ed85460c79462acb5e4131acc16da155d]{
@@ -289,67 +289,67 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:eda7c7553e9e163ca5f2e1c999dccc358e705d68]{
 -- Page 15, Offset 10071.
 -- そんな草十郎の頭部に、青い流星が直撃した。
-  et se prit un météore bleu de plein fouet sur la tête.
+　et se prit un météore bleu de plein fouet sur la tête.
 
 }
 [sha:08b392f53855cfa68050cb053db6e229e269d5a1]{
 -- Page 16, Offset 10072.
 -- 流星の正体は言うまでもない。
-  Il n'était pas nécessaire de préciser la véritable identité du météore.
+　Il n'était pas nécessaire de préciser la véritable identité du météore.
 
 }
 [sha:ec71160e84f562efbcb956e06669dbdd10ee6f56]{
 -- Page 16, Offset 10073.
 -- 洋館に出没する謎の駒鳥である。
-  C'était le rouge-gorge mystérieux qui apparaissait fréquemment dans le manoir.
+　C'était le rouge-gorge mystérieux qui apparaissait fréquemment dans le manoir.
 
 }
 [sha:d4b24e8b3a807a5aff59ea94ad1c3c0c8dc12c54]{
 -- Page 17, Offset 10074.
 -- チチチチチチ、と甲高く駒鳥は<訴|うった>える。
-  “Cui cui cui cui cui”, se plaignait l'oiseau d'un pépiement aigu.
+　“Cui cui cui cui cui”, se plaignait l'oiseau d'un pépiement aigu.
 
 }
 [sha:6cad664020060861ca99e2defccb64c695b0d86f]{
 -- Page 17, Offset 10075.
 -- ……実のところ。
-  ...... Pour dire la vérité,
+　...... Pour dire la vérité,
 
 }
 [sha:5c16b01fa01088079aa03a50ff57faf9df77b1e8]{
 -- Page 17, Offset 10076.
 -- 草十郎に激突するコレこそが洋館の七不思議、その最たるものだった。
-  cette créature qui s'était écrasée sur Sōjūrō était le plus grand des sept mystères du manoir.
+　cette créature qui s'était écrasée sur Sōjūrō était le plus grand des sept mystères du manoir.
 
 }
 [sha:4f7f653a8ee85a218a25b91220a38e91801dd789]{
 -- Page 18, Offset 10077.
 -- アルバイトに向かう途中、多くの人々とすれ違う。
-  Lorsqu'il se rendait au travail, Sōjūrō croisait toujours de nombreuses personnes.
+　Lorsqu'il se rendait au travail, Sōjūrō croisait toujours de nombreuses personnes.
 
 }
 [sha:9a22a65042bf0e007cb3e833637c7596491cc54e]{
 -- Page 18, Offset 10078.
 -- まだ都会慣れしていない草十郎にとって、駅前通りの人の流れは圧巻だ。
-  Comme il se sentait encore mal à l'aise en ville, le flot de gens circulant dans la rue devant la gare constituait un chef-d'œuvre à ses yeux.
+　Comme il se sentait encore mal à l'aise en ville, le flot de gens circulant dans la rue devant la gare constituait un chef-d'œuvre à ses yeux.
 
 }
 [sha:25357f52d69a76db28ca6c4a1b176e89ddaf5243]{
 -- Page 18, Offset 10079.
 -- 誰一人として、同じ服装や歩き方の人間がいない。
-  Il n'y avait pas deux personnes avec les mêmes habits ou la même démarche.
+　Il n'y avait pas deux personnes avec les mêmes habits ou la même démarche.
 
 }
 [sha:5db613daebcd26b90f4686a331edbf24063e0034]{
 -- Page 18, Offset 10080.
 -- ここまで人が多ければ似たような外見の人間がいそうなものだが、ただの一人も<被|かぶ>っていない。
-  On pouvait penser qu'avec autant de gens, il devrait y en avoir à l'apparence semblable, mais ce n'était le cas pour aucun d'entre eux.
+　On pouvait penser qu'avec autant de gens, il devrait y en avoir à l'apparence semblable, mais ce n'était le cas pour aucun d'entre eux.
 
 }
 [sha:407e20691acc753b6cd00b5250d643f1e3b49327]{
 -- Page 18, Offset 10081.
 -- 多種多様な街の<賑|にぎ>わいに、子供のように感心してしまう。
-  Il était admiratif comme un enfant devant l'opulence de la diversité de la ville.
+　Il était admiratif comme un enfant devant l'opulence de la diversité de la ville.
 
 }
 [sha:007d47b7192144144b3b1044e3824f1316737b0d]{
@@ -361,13 +361,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:c80552f615b73b5e6958565a70ff62b513c76793]{
 -- Page 19, Offset 10083.
 -- 草十郎は目を閉じて反省した。
-  Sōjūrō ferma les yeux pour réfléchir.
+　Sōjūrō ferma les yeux pour réfléchir.
 
 }
 [sha:44859ec28b5edcb6b21cca466891e01deaaf7eeb]{
 -- Page 19, Offset 10084.
 -- こんな事で感心しているようじゃまだまだ田舎者だ、とため息をつく。
-  Il soupira en pensant que s'il tombait en admiration pour si peu, alors il resterait éternellement un campagnard.
+　Il soupira en pensant que s'il tombait en admiration pour si peu, alors il resterait éternellement un campagnard.
 
 }
 [sha:8bc07e38bbc3c8331e58d25fd90332342d4d50b7]{
@@ -379,7 +379,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:252471248e29af6d62879c37fcb31fdc0b0361ee]{
 -- Page 20, Offset 10086.
 -- と。ややセンチになっていた背中に、聞き覚えのある、刺々しい声がかけられた。
-  Sōjūrō, devenu quelque peu sentimental, entendit dans son dos une voix tranchante et familière.
+　Sōjūrō, devenu quelque peu sentimental, entendit dans son dos une voix tranchante et familière.
 
 }
 [sha:16ac6aa8ec63d35f53dc9b0ddfe3f7aec5a216ef]{
@@ -391,7 +391,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:b4af35ed557eed988000ee4436d5470ac416dfc9]{
 -- Page 21, Offset 10088.
 -- ……ふーん。わたしはコンビニのバイト。こっちは五時からだけど、静希は？」
-  ...... Hmm. Moi, je me rends au travail à la supérette. Je commence à cinq heures, et toi ?」
+　...... Hmm. Moi, je me rends au travail à la supérette. Je commence à cinq heures, et toi ?」
 
 }
 [sha:28cf54dd260b92e5c8fb44b90bf3ebab03222318]{
@@ -415,37 +415,37 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:48b96017abb903991a34b916206cb8e226c50b60]{
 -- Page 23, Offset 10092.
 -- 声をかけてきたのはバイト先の知り合いでもあり、同期生でもある<久万梨|くまり><金鹿|こじか>だった。
-  La fille qui lui avait adressé la parole était une collègue de travail, ainsi qu'une élève en même année que lui, Kumari Kojika.
+　La fille qui lui avait adressé la parole était une collègue de travail, ainsi qu'une élève en même année que lui, Kumari Kojika.
 
 }
 [sha:5640bb5c6fa7e365c5081702f2a888b2519fcd5a]{
 -- Page 23, Offset 10093.
 -- 声をかけてきた、というよりは因縁をつけてきた、という表現の方が正しいのだが。
-  Même s'il était plus juste d'utiliser l'expression “chercher la bagarre” plutôt qu'adresser la parole.
+　Même s'il était plus juste d'utiliser l'expression “chercher la bagarre” plutôt qu'adresser la parole.
 
 }
 [sha:6e6d8de2648b91cc734cc28f3b129277b985a626]{
 -- Page 24, Offset 10094.
 -- 久万梨は草十郎にとってはじめての先輩でもある。
-  Kumari était aussi la toute première collègue de Sōjūrō.
+　Kumari était aussi la toute première collègue de Sōjūrō.
 
 }
 [sha:9dbf2f1dc8f6b10b32a36e2454cf047efaca4199]{
 -- Page 24, Offset 10095.
 -- 最初のアルバイト先で知り合い、
-  Il l'avait connue au cours de son premier emploi,
+　Il l'avait connue au cours de son premier emploi,
 
 }
 [sha:8f6cdd2c88549e8b26ffc674ae5961a574b53a52]{
 -- Page 24, Offset 10096.
 -- レジ打ちを間違え続けた事からコンビニは向いてないから辞めろと本気で軽蔑され、なぜか最後に、
-  et elle lui avait dit de démissionner car il faisait sans cesse des fautes de frappe à la caisse et n'était pas fait pour les supérettes. Finalement, pour Dieu savait quelle raison,
+　et elle lui avait dit de démissionner car il faisait sans cesse des fautes de frappe à la caisse et n'était pas fait pour les supérettes. Finalement, pour Dieu savait quelle raison,
 
 }
 [sha:48fae699e9951e44f95a9707d2eb577c080ebcfd]{
 -- Page 24, Offset 10097.
 -- “こっちの方が貴方に向いてる”と<中華飯店|まっどべあ>を紹介してくれた人物だ。
-  elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrait mieux.
+elle l'avait présenté à l'Ours Enragé, en lui disant que ça lui conviendrait mieux.
 
 }
 [sha:93c5ffcc97c26895cb1c792311c57015fdac20d9]{
@@ -457,37 +457,37 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:7bb6120d108986d4c860e5059dcd4cb150ace90c]{
 -- Page 25, Offset 10099.
 -- 静希のいいところなんて、いつもピシッとしている背筋ぐらいなのに、みっともなく丸まってるし。
-  L'un des rares trucs que j'aime bien chez toi, c'est que tu te tiens toujours bien droit. Mais regarde-toi maintenant, tu as le dos penché comme un petit vieux.
+　L'un des rares trucs que j'aime bien chez toi, c'est que tu te tiens toujours bien droit. Mais regarde-toi maintenant, tu as le dos penché comme un petit vieux.
 
 }
 [sha:da53842284c592ffbe7fa25b13a4267a1d4dca1e]{
 -- Page 25, Offset 10100.
 -- もしかして悩みとかあるの？　……まっどべあに質の悪い先輩でもいるとか。それなら話ぐらいは聞いてあげるから、言ってみたら？」
-  Tu as des ennuis ? ... Un odieux collègue de travail à l'Ours Enragé, peut-être ? Si c'est ça, je veux bien au moins entendre ton histoire. Alors, si tu m'en parlais ?」
+　Tu as des ennuis ? ... Un odieux collègue de travail à l'Ours Enragé, peut-être ? Si c'est ça, je veux bien au moins entendre ton histoire. Alors, si tu m'en parlais ?」
 
 }
 [sha:b413866d7b9dd3ca4c79cbc7793b2672134f5fe6]{
 -- Page 26, Offset 10101.
 -- 態度こそ厳しいものの、久万梨の目は真剣である。
-  Même si son attitude semblait sèche, ses yeux étaient sérieux.
+　Même si son attitude semblait sèche, ses yeux étaient sérieux.
 
 }
 [sha:abe606f5880947f8d0657cf3064acb71ba701b20]{
 -- Page 26, Offset 10102.
 -- 都会育ちの久万梨にとって、静希草十郎という人間はそのすべてが癪に障るらしい。
-  Pour Kumari, élevée en ville, l'intégralité de l'homme appelé Shizuki Sōjūrō semblait l'horripiler.
+　Pour Kumari, élevée en ville, l'intégralité de l'homme appelé Shizuki Sōjūrō semblait l'horripiler.
 
 }
 [sha:9e622bee0b1046f9ce415d8f0025a00fdd05ec07]{
 -- Page 26, Offset 10103.
 -- が、それはそれとして、彼女は草十郎を対等の知人として捉えている。
-  Cela dit, même ainsi, elle le considérait comme un ami et son égal.
+　Cela dit, même ainsi, elle le considérait comme un ami et son égal.
 
 }
 [sha:304e47576cf9f26353bb3b61c0d9bcf2648f07b2]{
 -- Page 26, Offset 10104.
 -- バイト先を紹介してくれたのも、そういう彼女の生真面目さ故だった。
-  C'était son honnêteté qui l'avait poussée à le présenter à son travail actuel.
+　C'était son honnêteté qui l'avait poussée à le présenter à son travail actuel.
 
 }
 [sha:ac199c6c03896e25be7a753bd6160e911e8de275]{
@@ -499,31 +499,31 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:77e90390cd0b87fd7f34db5d393e8c55b8d028d4]{
 -- Page 28, Offset 10106.
 -- どう説明するべきか考えながら、草十郎は用件だけを口にした。
-  Tout en réfléchissant au meilleur moyen de l'expliquer, Sōjūrō ne lui rapporta que l'incident de la veille.
+　Tout en réfléchissant au meilleur moyen de l'expliquer, Sōjūrō ne lui rapporta que l'incident de la veille.
 
 }
 [sha:e8d98e59761893e7b25a4aa3dc7d5a858f39adb6]{
 -- Page 28, Offset 10107.
 -- まっどべあには何の問題もない。
-  Il n'y avait aucun problème à l'Ours Enragé.
+　Il n'y avait aucun problème à l'Ours Enragé.
 
 }
 [sha:5b34fb11d272ed3306de861ce761e255fdf7c49f]{
 -- Page 28, Offset 10108.
 -- 商店街の<魚達|ウオタツ>と同じぐらい好い職場だ。
-  C'était un lieu de travail aussi agréable que chez Uotatsu vers lequel il se dirigeait actuellement.
+　C'était un lieu de travail aussi agréable que chez Uotatsu vers lequel il se dirigeait actuellement.
 
 }
 [sha:4369a1373be6d8d5273cb15d81b39c3d15849517]{
 -- Page 28, Offset 10109.
 -- そういった仕事の話とはまったく関係なく、
-  Cela n'avait rien à voir avec un problème lié au travail,
+　Cela n'avait rien à voir avec un problème lié au travail,
 
 }
 [sha:8357e5eb1ef2a1135b86a004fdc660aab8ef47ff]{
 -- Page 28, Offset 10110.
 -- 最近、青い鳥によくつっつかれるのだと。
-  mais récemment, l'oiseau bleu lui rentrait dedans assez souvent.
+　mais récemment, l'oiseau bleu lui rentrait dedans assez souvent.
 
 }
 [sha:2a79f6060eb27ba8edd5464ee5ab413f16a397d5]{
@@ -535,7 +535,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:660e0ec2d4ec2797d205244ab1ee75b04f1035f1]{
 -- Page 29, Offset 10112.
 -- ……でもまあ、青い鳥っていうのは確かに珍しいわね」
-  ...... Mais bon, un oiseau bleu, c'est vrai que c'est rare.」
+　...... Mais bon, un oiseau bleu, c'est vrai que c'est rare.」
 
 }
 [sha:f93bb560b9fee0ed7f2bc6d2efaac9b810e4d51e]{
@@ -547,13 +547,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:e88c73e8a9b55a34c6ef6de3bd8627f35a2962d1]{
 -- Page 29, Offset 10114.
 -- うまく説明できず言いよどむ。
-  Il hésita, incapable de bien l'expliquer.
+　Il hésita, incapable de bien l'expliquer.
 
 }
 [sha:dd412938fd7a5ad23cea0b49750c027a49b92e5e]{
 -- Page 29, Offset 10115.
 -- あの青い鳥の、でっぷりとした外見や鳴き声を、人語でどう表現したものだろうか？
-  Comment exprimer en langage humain la corpulence ou le gazouillis de cet oiseau bleu ?
+　Comment exprimer en langage humain la corpulence ou le gazouillis de cet oiseau bleu ?
 
 }
 [sha:dbb7f5054a250aa76ba94c4dcf4ea090014f2c99]{
@@ -565,7 +565,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:602b9ca8a97bbc7082beca0872fccaa72917e8b1]{
 -- Page 30, Offset 10117.
 -- 青いツバメだったらいるかもしれないけど」
-  Par contre, il y a peut-être des hirondelles bleues.」
+　Par contre, il y a peut-être des hirondelles bleues.」
 
 }
 [sha:53fc921ac99dad6b451de6745b1c93fa752d76af]{
@@ -583,13 +583,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:839a9431128254024db49bbfbc855d3d142a93bc]{
 -- Page 31, Offset 10120.
 -- ……静希は縁日の青ひよこって知ってる？　知らないわよね。いい、そう面白い話じゃないから忘れて。
-  ...... Tu connais l'oisillon bleu du festival du temple ? Tu ne le connais pas, hein. C'est pas grave, c'est pas une histoire si intéressante que ça, alors oublie.
+　...... Tu connais l'oisillon bleu du festival du temple ? Tu ne le connais pas, hein. C'est pas grave, c'est pas une histoire si intéressante que ça, alors oublie.
 
 }
 [sha:c02b3ddcc6f3c9dedc45213ff417411f32329b45]{
 -- Page 31, Offset 10121.
 -- それより、そのコマドリって一羽だけなの？」
-  À part ça, ce rouge-gorge, il est tout seul ?」
+　À part ça, ce rouge-gorge, il est tout seul ?」
 
 }
 [sha:bcb3df8cae7c83f22d4420b750ee2e7c1d2ac65f]{
@@ -607,25 +607,25 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:8ca895e56782d0ef14281ae9d7d69b08450bb2ea]{
 -- Page 32, Offset 10124.
 -- ……生まれた時から最後の一羽だなんて、孤独にもほどがあるわ。
-  ...... qu'il soit seul au monde depuis sa naissance ! Il devrait y avoir une limite à la solitude.
+　...... qu'il soit seul au monde depuis sa naissance ! Il devrait y avoir une limite à la solitude.
 
 }
 [sha:43cefaf0073eb02cab230fcc7de00f6882e2bfea]{
 -- Page 32, Offset 10125.
 -- どんな鳥かは知らないけど、次に見かけたら優しくしてあげたら？　自販機で十円を拾う、ぐらいの幸運は運んでくれるかもよ」
-  Je ne sais pas quel genre d'oiseau c'est, mais la prochaine fois que tu le verras, pourquoi n'essaierais-tu pas d'être gentil avec lui ? Il pourrait te porter chance et te permettre, par exemple, de trouver dix yens dans un distributeur automatique.」
+　Je ne sais pas quel genre d'oiseau c'est, mais la prochaine fois que tu le verras, pourquoi n'essaierais-tu pas d'être gentil avec lui ? Il pourrait te porter chance et te permettre, par exemple, de trouver dix yens dans un distributeur automatique.」
 
 }
 [sha:c6fa3cd17fa96e53a4290495dd9f912f5d8c68e7]{
 -- Page 33, Offset 10126.
 -- 久万梨の言い分は優しさあふれるものだが、あの駒鳥につっつかれる草十郎としては、何とも頷きがたいものだった。
-  Le point de vue de Kumari était empreint de gentillesse, mais pour Sōjūrō qui se faisait régulièrement frapper par cet oiseau, il était difficile d'abonder dans son sens.
+　Le point de vue de Kumari était empreint de gentillesse, mais pour Sōjūrō qui se faisait régulièrement frapper par cet oiseau, il était difficile d'abonder dans son sens.
 
 }
 [sha:1a665243a193964c77a409fca797a88bc94254f2]{
 -- Page 33, Offset 10127.
 -- そもそも孤独なんて、あの駒鳥にもっとも似合わない表現ではないだろうか？
-  Et puis d'abord, la solitude ne serait pas le terme le moins adapté pour qualifier ce rouge-gorge ?
+　Et puis d'abord, la solitude ne serait pas le terme le moins adapté pour qualifier ce rouge-gorge ?
 
 }
 [sha:c8c9e2618b9aaf236ce01232fd88e40ad2273404]{
@@ -637,7 +637,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:a53e301b5b4b783277b36055fc2e24ff1f575d65]{
 -- Page 34, Offset 10129.
 -- そりゃ都会で鳥につつかれるのは珍しいけど、いい方の珍事よ、それ。これがゴミ袋をあさるカラスの大軍だったら困りものでしょうけど」
-  C'est clair qu'en ville, ça arrive pas souvent de se faire frapper par l'un d'entre eux, mais c'est dans le bon sens du terme. Par contre, si une armée de corbeaux se mettait à fouiller dans les ordures, ce serait plus problématique.」
+　C'est clair qu'en ville, ça arrive pas souvent de se faire frapper par l'un d'entre eux, mais c'est dans le bon sens du terme. Par contre, si une armée de corbeaux se mettait à fouiller dans les ordures, ce serait plus problématique.」
 
 }
 [sha:3bd35a080f1b1d471f0a508fa9bde523fbfdb4bd]{
@@ -649,13 +649,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:bd5ed5c2ddc5b6e51ab7aceed367f5bb277ebcea]{
 -- Page 35, Offset 10131.
 -- 久万梨の言葉から、草十郎は久遠寺邸・とり集団失踪事件を思い出した。
-  En entendant ce que disait Kumari, Sōjūrō se souvint de l'affaire de Disparition en Masse des Oiseaux de la Résidence Kuonji.
+　En entendant ce que disait Kumari, Sōjūrō se souvint de l'affaire de Disparition en Masse des Oiseaux de la Résidence Kuonji.
 
 }
 [sha:db37802fc9bab19c661c9787335dbcf36eb73cbb]{
 -- Page 35, Offset 10132.
 -- あの鳥たちも不思議と言えば不思議すぎる。
-  Si l'on parlait de choses étranges, ces oiseaux l'étaient bien trop.
+　Si l'on parlait de choses étranges, ces oiseaux l'étaient bien trop.
 
 }
 [sha:cf177819b343ad0827af024168730f79092a90bf]{
@@ -667,7 +667,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:d3e9027598fff54ef508090f8ec685d4b9a98cb5]{
 -- Page 36, Offset 10134.
 -- でるんだ、大量のムクドリが頻繁に。そのクセ、街に出ると見かけない」
-  Il y apparaît fréquemment une grande quantité d'étourneaux. Et pourtant, on n'en voit aucun en ville.」
+　Il y apparaît fréquemment une grande quantité d'étourneaux. Et pourtant, on n'en voit aucun en ville.」
 
 }
 [sha:bcef6a53a04bcb8f67d65c9f4a539595f4138bea]{
@@ -679,7 +679,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:bdc4dd2a38c0dffabaefda230e09da762ae74c18]{
 -- Page 37, Offset 10136.
 -- それより貴方、あの山に引っ越したの？　前のアパートは引き払ったって聞いてたけど。……学校まで通うの、大変じゃない。なんだってあんな<辺鄙|へんぴ>なところに」
-  Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi éloigné ?」
+　Par contre, tu as vraiment déménagé sur cette montagne ? C'est vrai que j'ai entendu dire que tu avais quitté ton appartement...... Mais ça doit être dur de se rendre à l'école. Pourquoi loger dans un endroit aussi éloigné ?」
 
 }
 [sha:989a1bd8152281eced70283542eb2b1e965119b4]{
@@ -697,19 +697,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:c86b7d1110fccae5ed792e77aa6d201e8fc63fb8]{
 -- Page 38, Offset 10139.
 -- 街に出るまで徒歩三十分。
-  Il fallait trente minutes à pied pour se rendre en ville,
+　Il fallait trente minutes à pied pour se rendre en ville,
 
 }
 [sha:4e78a24312962f843d695158e1b5f9225d67c833]{
 -- Page 38, Offset 10140.
 -- 近場のコンビニエンスストアまで四十分はかかる立地条件だが、草十郎にとって交通の不便さはそう問題ではない。
-  et quarante minutes au total pour aller jusqu'à la supérette la plus proche, mais pour Sōjūrō, l'inconvénient des transports n'était pas vraiment un problème.
+　et quarante minutes au total pour aller jusqu'à la supérette la plus proche, mais pour Sōjūrō, l'inconvénient des transports n'était pas vraiment un problème.
 
 }
 [sha:19c013ba7d8c43306e1307926b0c0da0157f3032]{
 -- Page 38, Offset 10141.
 -- 問題は住んでいる建物の人外魔境っぷりである。
-  Le problème, c'était qu'il s'agissait d'un repaire de démons.
+　Le problème, c'était qu'il s'agissait d'un repaire de démons.
 
 }
 [sha:e85cb496fc150320e66643182185075dc080260a]{
@@ -721,7 +721,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:219604261b7f31781b75ba791c1ac1d04c835299]{
 -- Page 39, Offset 10143.
 -- それより今の話だ。町には鳥が少ないと言ったけど、どうして？」
-  Sinon, tu viens de dire quelque chose. Qu'il y avait peu d'oiseaux en ville. Pourquoi ?」
+　Sinon, tu viens de dire quelque chose. Qu'il y avait peu d'oiseaux en ville. Pourquoi ?」
 
 }
 [sha:0da213425cfd6d715191168198553ca2ba50b86b]{
@@ -733,7 +733,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:047ed09ab468af140c80f7abd92470a02cde97e4]{
 -- Page 40, Offset 10145.
 -- なに、鳥の話には随分と食いつくわね。静希、動物好き？」
-  Tu fais vraiment une fixation sur ces histoires d'oiseaux. Tu aimes les animaux, Shizuki ?」
+　Tu fais vraiment une fixation sur ces histoires d'oiseaux. Tu aimes les animaux, Shizuki ?」
 
 }
 [sha:402ee869087b25f69917ff577490e45c48e8e413]{
@@ -751,13 +751,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:a42549d16142ffff1e0e148687d5cc0af34e0af9]{
 -- Page 41, Offset 10148.
 -- 久万梨の言葉は矛盾に満ちている。
-  Les propos de Kumari semblaient totalement contradictoires.
+　Les propos de Kumari semblaient totalement contradictoires.
 
 }
 [sha:db23de600f13fa62f73531911822189f952cb139]{
 -- Page 41, Offset 10149.
 -- 動物嫌いという彼女が、なぜ先ほど“鳥には優しく”と口にしたのか。
-  Pourquoi, si elle détestait les animaux, lui avait-elle conseillé à l'instant d'être gentil avec l'un d'entre eux ?
+　Pourquoi, si elle détestait les animaux, lui avait-elle conseillé à l'instant d'être gentil avec l'un d'entre eux ?
 
 }
 [sha:bcbb4b23a8d97f14f91e843135c8486097b887e7]{
@@ -775,13 +775,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:c14ed475b863a5c11c4049c19955efda72a7d255]{
 -- Page 42, Offset 10152.
 -- いいわ、バイトまでの時間つぶしにしてあげる。
-  Bah, ça fera passer le temps jusqu'à l'heure du travail.
+　Bah, ça fera passer le temps jusqu'à l'heure du travail.
 
 }
 [sha:5352c24ab0435572356eadea7040b3a7fc43f390]{
 -- Page 42, Offset 10153.
 -- さっきの続き。環境に適応できるかできないかってところからね」
-  Reprenons là où nous en étions. À partir de leur adaptation ou non à leur environnement.」
+　Reprenons là où nous en étions. À partir de leur adaptation ou non à leur environnement.」
 
 }
 [sha:3245900b03e045675eec09762e3667c6289d91b9]{
@@ -793,19 +793,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:233169af0c1e31d0512883c46b6b3fba981e92c0]{
 -- Page 43, Offset 10155.
 -- 昔はその半分が森だったから、彼らはもともと森に適した生活をしていたのよ」
-  Dans le temps, la forêt recouvrait la moitié de la ville. À cette époque, la vie qu'ils menaient y était adaptée.」
+　Dans le temps, la forêt recouvrait la moitié de la ville. À cette époque, la vie qu'ils menaient y était adaptée.」
 
 }
 [sha:20f7deb93c40c82dc19c8575b6633b9e685ad5ce]{
 -- Page 44, Offset 10156.
 -- 久万梨は鳥たちを「彼ら」と呼んだ。
-  Le ton grave qu'employait Kumari en disait long.
+　Le ton grave qu'employait Kumari en disait long.
 
 }
 [sha:0248804ebc773307b796a2eb3279915fd5e60f09]{
 -- Page 44, Offset 10157.
 -- 好きか嫌いかはともかく、鳥たちに敬意を払っている証だろう。
-  Qu'elle les aime ou non, cela prouvait qu'elle leur montrait du respect.
+　Qu'elle les aime ou non, cela prouvait qu'elle leur montrait du respect.
 
 }
 [sha:8113147724b0ee58adf071e2d82164321d0ef5fc]{
@@ -817,19 +817,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:15d385764f0d19da3e14e37e1d7d27fa5cd0e174]{
 -- Page 45, Offset 10159.
 -- <藪蚊|やぶか>が多いって事で小さな川の流れを変えたり、町中コンクリートで塗り固めちゃえば鳥的にはお手上げよ。
-  Lorsqu'ils détournent le cours d'eau d'une petite rivière pour réduire la quantité de moustiques ou recouvrent toute la ville de béton, les oiseaux ne peuvent que subir.
+　Lorsqu'ils détournent le cours d'eau d'une petite rivière pour réduire la quantité de moustiques ou recouvrent toute la ville de béton, les oiseaux ne peuvent que subir.
 
 }
 [sha:ca61b8baa03e3a4a583e0726ef15bf8268cb300b]{
 -- Page 45, Offset 10160.
 -- 虫も森も少ないんじゃもう山に逃げるしかない。彼らは故郷を追われて、この森から山に移った。
-  Le nombre d'insectes et les surfaces boisées diminuant en conséquence, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
+　Le nombre d'insectes et les surfaces boisées diminuant en conséquence, ils se voient contraints de se réfugier sur les hauteurs. Chassés de leur lieu de naissance, ils ont migré de la forêt vers la montagne.
 
 }
 [sha:0e8404fe231c31266f5a3312ed5762bc86592ad0]{
 -- Page 45, Offset 10161.
 -- 人間にとって都合のいい町は、鳥たちが生きるコロニーにはなり得ないから」
-  La ville façonnée par les humains ne peut devenir une terre d'accueil pour les oiseaux.」
+　La ville façonnée par les humains ne peut devenir une terre d'accueil pour les oiseaux.」
 
 }
 [sha:c148193bf5892739be3ac869bdd4b4f9187b32ec]{
@@ -841,7 +841,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:6954019f4d5c5835108c94cffc85ea259ef33427]{
 -- Page 46, Offset 10163.
 -- その、姿を見なくなるぐらいに？」
-  Au point qu'on ne peut même plus en voir un seul ?」
+　Au point qu'on ne peut même plus en voir un seul ?」
 
 }
 [sha:4d7ca273fc928571545d2301109e089ce50c8411]{
@@ -853,7 +853,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:17decd425272ab421f0092a71836d7b23e3dfd71]{
 -- Page 46, Offset 10165.
 -- 比較の問題よ。町には人間が多いから、鳥の姿はよけい稀少に感じるだけ。たまに見かけるだけで、珍しいと思えるぐらいにね」
-  C'est une question de référentiel. Comme il y a beaucoup d'humains en ville, les oiseaux paraissent encore moins nombreux. Si bien qu'en les voyant occasionnellement, on pense qu'ils sont rares.」
+　C'est une question de référentiel. Comme il y a beaucoup d'humains en ville, les oiseaux paraissent encore moins nombreux. Si bien qu'en les voyant occasionnellement, on pense qu'ils sont rares.」
 
 }
 [sha:ce56d86a4ec710a48a6f21ebcf9efbc72f0d7026]{
@@ -865,19 +865,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:3cbbdba89fa72f12730607d0ef0c5e47b4c936a0]{
 -- Page 47, Offset 10167.
 -- 目立たないだけで、きちんと今も生き続けている。
-  Ils se contentent de ne pas se faire remarquer et continuent de vivre, même maintenant.
+　Ils se contentent de ne pas se faire remarquer et continuent de vivre, même maintenant.
 
 }
 [sha:3d9fac73f35cdf0362178eddaa4cc7cb5289da29]{
 -- Page 47, Offset 10168.
 -- 時代と共に、その在り方、カタチは変わっても、まったくの無に帰する事はない。
-  Malgré le temps qui passe, leur façon d'être qui change ou leur forme qui évolue, ils ne disparaîtront pas complètement.
+　Malgré le temps qui passe, leur façon d'être qui change ou leur forme qui évolue, ils ne disparaîtront pas complètement.
 
 }
 [sha:bc9c49b56571829aec3cf272e07f9327e597c461]{
 -- Page 47, Offset 10169.
 -- そう安心して気を取り直す草十郎を、久万梨は冷めた顔で否定した。
-  Kumari démentit d'un air froid ce Sōjūrō rassuré et qui s'était ressaisi.
+　Kumari démentit d'un air froid ce Sōjūrō rassuré et qui s'était ressaisi.
 
 }
 [sha:3a3f466629c317e9aae1e87bf59aca6ffb69c49d]{
@@ -889,13 +889,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:8b14cc0d7f2545d129c1440a738db359252e9cb8]{
 -- Page 48, Offset 10171.
 -- 人間の手による<乱獲|らんかく>か、移った先にいる生態系との衝突か。どちらにせよ、居場所を失った彼らの寿命は短いと思う。一世紀持てばいい方かもしれない。
-  Comme les conséquences de la pêche industrielle des humains, ou la répercussion de leur arrivée dans un nouvel écosystème, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
+　Comme les conséquences de la pêche industrielle des humains, ou la répercussion de leur arrivée dans un nouvel écosystème, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
 
 }
 [sha:cc0eabb46c0e4f80db408e3bfd4ea79c14e78be7]{
 -- Page 48, Offset 10172.
 -- ……リョコウバトの例もあるし。気が付いた時には取り返しつかないのが動物と人間の関係よ」
-  ...... Il y a aussi l'exemple des pigeons migrateurs. Lorsque l'on réalise la situation, il est déjà trop tard. Voilà quelle est la relation entre les animaux et les humains.」
+　...... Il y a aussi l'exemple des pigeons migrateurs. Lorsque l'on réalise la situation, il est déjà trop tard. Voilà quelle est la relation entre les animaux et les humains.」
 
 }
 [sha:7a36f519ad30fe4937ac1f8a3451e780082c9e07]{
@@ -913,19 +913,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:2e96a8d896d3664908a169fc5e19baa1f7ab72f7]{
 -- Page 49, Offset 10175.
 -- オスの翼は深い青色で、胸は鮮やかな<臙脂|えんじ>色。オレンジ色の目は嘘みたいに愛らしくて、その羽は時速百キロで長い距離を旅するの」
-  Les ailes du mâle étaient d'un bleu profond et sa poitrine d'un rouge éclatant. Ses yeux orange étaient absolument magnifiques, et ses ailes lui permettaient de voler sur de longues distances à cent kilomètres par heure.」
+　Les ailes du mâle étaient d'un bleu profond et sa poitrine d'un rouge éclatant. Ses yeux orange étaient absolument magnifiques, et ses ailes lui permettaient de voler sur de longues distances à cent kilomètres par heure.」
 
 }
 [sha:8b108b36df2a7d5ef07c9f277be70abfe4b67469]{
 -- Page 50, Offset 10176.
 -- 久万梨の声は、少しだけ優しい。
-  La voix de Kumari contenait un brin de tendresse.
+　La voix de Kumari contenait un brin de tendresse.
 
 }
 [sha:b66185797944a7a05836b18289f35a803ea635a3]{
 -- Page 50, Offset 10177.
 -- 彼女は図鑑でしか観ることのない鳥の姿を、ひとり夢想しているようだった。
-  Comme si elle visualisait dans sa tête l'apparence de l'oiseau, alors qu'elle ne l'avait jamais vu que dans un livre d'illustrations.
+　Comme si elle visualisait dans sa tête l'apparence de l'oiseau, alors qu'elle ne l'avait jamais vu que dans un livre d'illustrations.
 
 }
 [sha:dc411f087a47c45b59e5ed31dc66768bfd997c96]{
@@ -937,19 +937,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:1a4b7c8bf5126db54bc839b91d87018fb91aeaab]{
 -- Page 51, Offset 10179.
 -- 今から百年以上も前の話よ。
-  Cette histoire date de plus de cent ans.
+　Cette histoire date de plus de cent ans.
 
 }
 [sha:137f973d815feec1a184183a7ecb99dfa228519c]{
 -- Page 51, Offset 10180.
 -- 彼らはかつて地上でもっとも繁殖した高等動物だった。
-  Auparavant, ils étaient les animaux au sommet de la chaîne alimentaire les plus nombreux à la surface de la Terre.
+　Auparavant, ils étaient les animaux au sommet de la chaîne alimentaire les plus nombreux à la surface de la Terre.
 
 }
 [sha:90b7238d66f4030db6ee53f46958070584474d6d]{
 -- Page 51, Offset 10181.
 -- なにしろその数は五十億。当時の総人口より多かったっていうんだから、圧巻よね」
-  Après tout, ils comptaient près de cinq milliards d'individus. On dit qu'ils étaient plus nombreux que la population humaine totale de l'époque, alors ça devait valoir le coup de voir ça.」
+　Après tout, ils comptaient près de cinq milliards d'individus. On dit qu'ils étaient plus nombreux que la population humaine totale de l'époque, alors ça devait valoir le coup de voir ça.」
 
 }
 [sha:419eb534d45ee418d09f46e4bd23bb0f5456795a]{
@@ -967,13 +967,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:0aab77a9e54cce09d59ab9ad2deb0b80dd53fbf3]{
 -- Page 52, Offset 10184.
 -- １６世紀にヨーロッパからアメリカ大陸にやってきた探検家たちは、空を覆いつくすほどの鳥の群を見た。
-  Les explorateurs venus d'Europe sur le grand continent de l'Amérique au XVIe siècle virent des groupes d'oiseaux assez grands pour couvrir le ciel.
+　Les explorateurs venus d'Europe sur le grand continent de l'Amérique au XVIe siècle virent des groupes d'oiseaux assez grands pour couvrir le ciel.
 
 }
 [sha:5271c90f4e418f3e357405f97c78d44fde837285]{
 -- Page 52, Offset 10185.
 -- それがリョコウバトを<記|しる>した、一番古くて確かな記録」
-  C'est le document fiable le plus ancien où l'existence du pigeon migrateur est mentionnée.」
+　C'est le document fiable le plus ancien où l'existence du pigeon migrateur est mentionnée.」
 
 }
 [sha:94b338f29541f54416c484b2bbefc9aa240bf9ef]{
@@ -985,19 +985,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:931cdee7709b9e9689bf8c4f73fa1141f04ad5bf]{
 -- Page 53, Offset 10187.
 -- 太陽を隠して、そのおびただしい数で森を覆って、雪のように糞を落としていく光景なんて、今じゃもう夢物語でしょうね。
-  Le spectacle était incroyable, les oiseaux étaient si nombreux qu'ils bloquaient les rayons du soleil, recouvraient la forêt tout entière et leurs fientes pleuvaient comme des flocons de neige fondante. Maintenant, c'est inimaginable, même en rêve.
+　Le spectacle était incroyable, les oiseaux étaient si nombreux qu'ils bloquaient les rayons du soleil, recouvraient la forêt tout entière et leurs fientes pleuvaient comme des flocons de neige fondante. Maintenant, c'est inimaginable, même en rêve.
 
 }
 [sha:966d7f6834d179c9e18180bb5de2f32c81e86402]{
 -- Page 53, Offset 10188.
 -- でも当時の人にとっては悪夢だった。
-  Mais pour les gens de l'époque, c'était un cauchemar.
+　Mais pour les gens de l'époque, c'était un cauchemar.
 
 }
 [sha:5225199b8441bfa83a63e01b28811c0b26002096]{
 -- Page 53, Offset 10189.
 -- リョコウバト一羽一羽は美しいフォルムをしていても、それだけの数が集まれば、それはもう暴力なんだから」
-  Chaque pigeon migrateur avait beau posséder une apparence magnifique, quand ils étaient rassemblés en aussi grand nombre, ce n'était plus qu'un raz-de-marée d'animaux.」
+　Chaque pigeon migrateur avait beau posséder une apparence magnifique, quand ils étaient rassemblés en aussi grand nombre, ce n'était plus qu'un raz-de-marée d'animaux.」
 
 }
 [sha:8798be0cd915c0fe1a63ad39e1b1ed0fcda86b01]{
@@ -1009,13 +1009,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:024b9782a3ea62dffbd9e07362cd128936d68316]{
 -- Page 54, Offset 10191.
 -- 営巣地は十キロメートルにまでおよんで、一コロニーにつき五万羽近い鳥の鳴き声が響いたのよ。
-  Leur lieu de nidification s'étendait sur des zones allant jusqu'à dix kilomètres de large, et dans chaque colonie retentissait le cri de près de cinquante mille oiseaux.
+　Leur lieu de nidification s'étendait sur des zones allant jusqu'à dix kilomètres de large, et dans chaque colonie retentissait le cri de près de cinquante mille oiseaux.
 
 }
 [sha:8026f8001e28180729022ba21fe60f561b772b94]{
 -- Page 54, Offset 10192.
 -- 一瞬にして風景を変えるほどの鳥の群れと、世界を覆うほどの鳴き声。冒険家たちが<竦|すく>んだのもうなずけるわね」
-  Ils étaient si nombreux qu'ils pouvaient changer le paysage en un instant et leurs gazouillis tellement bruyants qu'ils donnaient l'impression d'assourdir le monde entier. On peut comprendre que les premiers explorateurs en soient restés bouche bée.」
+　Ils étaient si nombreux qu'ils pouvaient changer le paysage en un instant et leurs gazouillis tellement bruyants qu'ils donnaient l'impression d'assourdir le monde entier. On peut comprendre que les premiers explorateurs en soient restés bouche bée.」
 
 }
 [sha:faab94dc9ae9644a2ebb741bcad9d774514e27c2]{
@@ -1027,13 +1027,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:88c9f3078403cccd113dd837b78a94cd0dc2ab4a]{
 -- Page 55, Offset 10194.
 -- 草十郎は指折り数えながら絶句した。
-  Sōjūrō perdit ses mots à l'évocation d'un tel nombre.
+　Sōjūrō perdit ses mots à l'évocation d'un tel nombre.
 
 }
 [sha:ba96a27e16292086ee15d870c332ef4ee5b85903]{
 -- Page 55, Offset 10195.
 -- 駅前の人の流れだけで手一杯な彼では、想像が追いつかないらしい。
-  Apparemment, le flot de personnes devant la gare étant déjà largement suffisant à mettre son imagination à sa limite, il ne pouvait pas suivre.
+　Apparemment, le flot de personnes devant la gare étant déjà largement suffisant à mettre son imagination à sa limite, il ne pouvait pas suivre.
 
 }
 [sha:ace6ed1ba5c881046260fa54634b38771d6e372d]{
@@ -1051,7 +1051,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:7a72e2eb547d918e2059419ad9b8c8fc6cc0e5ff]{
 -- Page 56, Offset 10198.
 -- でも話は簡単だったの。人間にとってリョコウバトは脅威でもあったけど、同時に安価な<実|みの>りでもあったから」
-  Mais la réponse est simple. Pour les humains, les pigeons migrateurs étaient une menace, mais également une denrée bon marché.」
+　Mais la réponse est simple. Pour les humains, les pigeons migrateurs étaient une menace, mais également une denrée bon marché.」
 
 }
 [sha:f91d89fde6044f9d9848750d5a56adb4604a7ee2]{
@@ -1063,13 +1063,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:2b34baa6b74d5ce4390e890722b983da07a98393]{
 -- Page 57, Offset 10200.
 -- そんな食材が、空に向かって鉄砲を撃つだけでバタバタと落ちてきたとしたら、貴方はどうする？
-  S'il suffisait de tirer des coups de feu en direction du ciel pour obtenir cette nourriture, qu'est-ce que tu aurais fait ?
+　S'il suffisait de tirer des coups de feu en direction du ciel pour obtenir cette nourriture, qu'est-ce que tu aurais fait ?
 
 }
 [sha:0c97b12614eb0b9cc5c317c6b764b530e2d41e2a]{
 -- Page 57, Offset 10201.
 -- ま―――身もフタもないコトを言えば、リョコウバトって鳥は、簡単にお金にできる生き物だった」
-  Enfin―――Pour dire la chose crûment, les pigeons migrateurs n'étaient rien d'autre que des animaux dont on pouvait facilement tirer un juteux profit.」
+　Enfin―――Pour dire la chose crûment, les pigeons migrateurs n'étaient rien d'autre que des animaux dont on pouvait facilement tirer un juteux profit.」
 
 }
 [sha:080f0f339bab28b813050a3e3f137fbc21f6ac84]{
@@ -1081,7 +1081,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:f24bc845c28b179cfca89a5c19c69931a71ba9d6]{
 -- Page 58, Offset 10203.
 -- 落ちた鳥は羽をむしられて、塩漬けのタルにおしこまれて、次々と出荷された」
-  Les oiseaux abattus voyaient leurs ailes arrachées, on les fourrait dans des barils de sel pour les conserver, et on les expédiait à la chaîne en tant que simple marchandise.」
+　Les oiseaux abattus voyaient leurs ailes arrachées, on les fourrait dans des barils de sel pour les conserver, et on les expédiait à la chaîne en tant que simple marchandise.」
 
 }
 [sha:56dcf83837be12903607a39c2c9150106a603122]{
@@ -1093,43 +1093,43 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:4f8245927bc4ab31f01282c9483ca7c7c5bb7c90]{
 -- Page 59, Offset 10205.
 -- その頃、リョコウバトは一羽一セントで手に入れる事が出来たんだって。ここでいうならたった一円。
-  À cette époque, il paraît qu'on pouvait obtenir un pigeon migrateur pour un cent. Ici, ça ferait un yen.
+　À cette époque, il paraît qu'on pouvait obtenir un pigeon migrateur pour un cent. Ici, ça ferait un yen.
 
 }
 [sha:751d86046c27969c863ad6f3ed20f92c885822cc]{
 -- Page 59, Offset 10206.
 -- ―――ほんと、信じられる？
-  ―――Franchement, tu arrives à y croire ?
+　―――Franchement, tu arrives à y croire ?
 
 }
 [sha:b5845c2dc69eda34a8c7264608a276d049fd0ae8]{
 -- Page 59, Offset 10207.
 -- その国最小の通貨一枚で売買される命が、この地球にはあったなんて」
-  Qu'on ait pu un jour vendre une vie contre la plus petite pièce de monnaie de ce pays ?」
+　Qu'on ait pu un jour vendre une vie contre la plus petite pièce de monnaie de ce pays ?」
 
 }
 [sha:f0f5157af3b9093f870de7d63bda6b4e3bd22481]{
 -- Page 60, Offset 10208.
 -- 久万梨はあくまで他人事のように語る。
-  Kumari racontait laconiquement, comme si ce n'étaient pas ses affaires.
+　Kumari racontait laconiquement, comme si ce n'étaient pas ses affaires.
 
 }
 [sha:598f2746011978ac68f6c56bc589b5d96ee5f5b6]{
 -- Page 60, Offset 10209.
 -- ……なのに、声にかすかな翳りがあるのは、鳥たちへの謝罪か、同種への嫌悪からか。
-  ...... Pourtant, le léger voile dans sa voix exprimait-il le souhait de s'excuser auprès de ces oiseaux ou le dégoût de ses semblables ?
+　...... Pourtant, le léger voile dans sa voix exprimait-il le souhait de s'excuser auprès de ces oiseaux ou le dégoût de ses semblables ?
 
 }
 [sha:ad1ae2942a4b91f763ef3d137b035111a52edb02]{
 -- Page 60, Offset 10210.
 -- どちらにせよ人間らしい、身勝手な<諧謔|かいぎゃく>だ。
-  Dans tous les cas, cette plaisanterie égoïste était assez typique des humains.
+　Dans tous les cas, cette plaisanterie égoïste était assez typique des humains.
 
 }
 [sha:27128b401104691bb6d401b9d860885d9a7b4d9b]{
 -- Page 60, Offset 10211.
 -- 一方。そんな人間らしさを、草十郎はまだ理解できないでいる。
-  De son côté, Sōjūrō ne comprenait pas encore cette facette de l'homme.
+　De son côté, Sōjūrō ne comprenait pas encore cette facette de l'homme.
 
 }
 [sha:58fdd845c5501f828d7fbf3ba32ddc100fc5288f]{
@@ -1141,19 +1141,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:c866392ea754b56d6ab26ed0eb8d9db0f3e9ad38]{
 -- Page 61, Offset 10213.
 -- 人間のリョコウバト狩りはますます熱狂していった。
-  La chasse aux pigeons migrateurs se mit alors à dégénérer.
+　La chasse aux pigeons migrateurs se mit alors à dégénérer.
 
 }
 [sha:0dbd04342eb886e964806e76b6f5137c44236457]{
 -- Page 61, Offset 10214.
 -- 学校で習ったでしょ。ゴールドラッシュ、南北戦争を経て、アメリカ合衆国は急激に成長していく。
-  Tu l'as appris à l'école, n'est-ce pas ? Lors de la ruée vers l'or, après la guerre de Sécession, les États-Unis d'Amérique se développèrent de façon fulgurante.
+　Tu l'as appris à l'école, n'est-ce pas ? Lors de la ruée vers l'or, après la guerre de Sécession, les États-Unis d'Amérique se développèrent de façon fulgurante.
 
 }
 [sha:b81fcfd065684abfccb5afa40486b91f51e530d9]{
 -- Page 61, Offset 10215.
 -- 西欧からの移民は増え続け、１８７０年には４０００万もの人口に達していたわ。そんな移民たちの胃袋と財布を満たす材料として、リョコウバトは最高の獲物だった」
-  L'immigration depuis l'Europe de l'Ouest ne cessait de s'intensifier, et en 1870, la population des États-Unis avait dépassé les quarante millions d'habitants. Le pigeon migrateur était la proie parfaite pour remplir l'estomac et le portefeuille de ces immigrés.」
+　L'immigration depuis l'Europe de l'Ouest ne cessait de s'intensifier, et en 1870, la population des États-Unis avait dépassé les quarante millions d'habitants. Le pigeon migrateur était la proie parfaite pour remplir l'estomac et le portefeuille de ces immigrés.」
 
 }
 [sha:9c7cffd70b5906dffdff415f4900254810349c38]{
@@ -1165,37 +1165,37 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:ab24a7909bc8f48c2847c1cbda4e64f8461ba364]{
 -- Page 62, Offset 10217.
 -- 彼らはより速く、より多く、より簡単にリョコウバトを乱獲する手段を競い合った。
-  Ils utilisèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
+　Ils utilisèrent tous les moyens possibles et imaginables pour faire la course à la chasse des pigeons migrateurs, toujours plus vite, en plus grand nombre et plus efficacement.
 
 }
 [sha:128d1fb19fea9b18f5b61c79032451e9153aba74]{
 -- Page 62, Offset 10218.
 -- 目を潰したハトを囮にして集団を誘いこんで、一日で一万羽以上捕らえたヤツさえいた。それでも彼らは乱獲に疑問すら持たなかった。
-  Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ce procédé, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
+　Ils utilisaient comme leurre des pigeons dont ils avaient crevé les yeux, afin d'attirer de grands groupes d'oiseaux. Grâce à ce procédé, certains chasseurs abattaient plus de dix mille oiseaux en un jour. Mais malgré l'évidence, ils ne songèrent même pas à remettre en doute la chasse à outrance.
 
 }
 [sha:83d86fe6ca8845f0c4f471a076f9196b89ae7867]{
 -- Page 62, Offset 10219.
 -- ―――繁殖と狩猟のバランスは、誰が見ても明らかに狂っていたのに」
-  ―――Il y avait pourtant un déséquilibre flagrant entre leur vitesse de reproduction et la chasse dont ils étaient victimes, quand on y réfléchissait.」
+　―――Il y avait pourtant un déséquilibre flagrant entre leur vitesse de reproduction et la chasse dont ils étaient victimes, quand on y réfléchissait.」
 
 }
 [sha:24f408428adfcc52ddd56f7ea5aa8fa502151a8a]{
 -- Page 63, Offset 10220.
 -- 淡々と、努めて冷静でいるように淡々と、久万梨は語る。
-  Kumari parlait avec indifférence pour s'efforcer de rester calme.
+　Kumari parlait avec indifférence pour s'efforcer de rester calme.
 
 }
 [sha:b28eccce12c3cb0daec4f95198cce239250e4f53]{
 -- Page 63, Offset 10221.
 -- 一方、草十郎はただ感心するばかりだった。
-  De son côté, Sōjūrō était fortement captivé par le récit.
+　De son côté, Sōjūrō était fortement captivé par le récit.
 
 }
 [sha:818c0595b5e691c8f264b898d21fa3b6b1a17fa6]{
 -- Page 63, Offset 10222.
 -- 山育ちである草十郎からすれば気持ちのいい話ではないのに、今は、「どうしてそうなったのか」という疑問の方が強いらしい。
-  Pour lui qui avait grandi dans la montagne, ce n'était pourtant pas une histoire plaisante, mais pour l'instant, il semblait plus intéressé par la question du pourquoi et du comment.
+　Pour lui qui avait grandi dans la montagne, ce n'était pourtant pas une histoire plaisante, mais pour l'instant, il semblait plus intéressé par la question du pourquoi et du comment.
 
 }
 [sha:9f9198ba82afe9ba300fd60d93fef2e19c2c1286]{
@@ -1213,7 +1213,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:ca04f97b46960f1d9674189e36810f7d2799db40]{
 -- Page 64, Offset 10225.
 -- リョコウバトは繁殖力が非常に弱くて、自衛手段を持たない鳥だった。大群で暮らすこと。それだけが、彼らの身を守る手段だったの」
-  Leur taux de reproduction était très faible et ils ne possédaient aucun moyen de défense. Le seul moyen qu'ils avaient pour se protéger, c'était de vivre en grands groupes.」
+　Leur taux de reproduction était très faible et ils ne possédaient aucun moyen de défense. Le seul moyen qu'ils avaient pour se protéger, c'était de vivre en grands groupes.」
 
 }
 [sha:7ae30545f59bcdd7561ca3b1a3b982ff26ae0251]{
@@ -1225,19 +1225,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:5368a05310ba5961e7335387c507fc0dd0e5d3be]{
 -- Page 65, Offset 10227.
 -- けど入植者たちは自然のサイクルにはてんで<疎|うと>かった。
-  Mais ces nouveaux arrivants ignoraient leur mode de vie.
+　Mais ces nouveaux arrivants ignoraient leur mode de vie.
 
 }
 [sha:e4584c89527f72513f71a903593fe77ad4778d81]{
 -- Page 65, Offset 10228.
 -- 何より、あの<夥|おびただ>しい数の鳥が絶滅するなんて夢にも思わなかった。
-  Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
+　Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
 
 }
 [sha:91a405498d703a74e98c52b46e2a6bc60bdc4e27]{
 -- Page 65, Offset 10229.
 -- リョコウバトにしたら青天の霹靂よ。まさか何世紀も遅れて、海の向こうから天敵がやってくるなんて」
-  Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur némésis serait les semblables des aborigènes arrivés quelques siècles auparavant par-delà les mers ?」
+　Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur némésis serait les semblables des aborigènes arrivés quelques siècles auparavant par-delà les mers ?」
 
 }
 [sha:d74e9b9413b3141a79389e2240867e14fa120593]{
@@ -1249,13 +1249,13 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:b6c6dfe7633e370be3d9f83f640f71c6c50f346d]{
 -- Page 66, Offset 10231.
 -- たったの２５万羽。
-  Il ne restait plus que deux cent cinquante mille oiseaux.
+　Il ne restait plus que deux cent cinquante mille oiseaux.
 
 }
 [sha:c2c3622daa406564af478245c46c4241347d346a]{
 -- Page 66, Offset 10232.
 -- それが確認されたリョコウバトの総数。何もかも手遅れよ。急いで保護法が作られたけど、人間の習慣はそう簡単には変わらないわ」
-  Après vérification, c'était bien le nombre total des pigeons migrateurs. Il était déjà bien trop tard. Ils se hâtèrent de promulguer une loi pour les protéger, mais les habitudes humaines ne changent pas si facilement.」
+　Après vérification, c'était bien le nombre total des pigeons migrateurs. Il était déjà bien trop tard. Ils se hâtèrent de promulguer une loi pour les protéger, mais les habitudes humaines ne changent pas si facilement.」
 
 }
 [sha:aa9e1fd70e107edefaaa2bc7ca15a14fa66501c5]{
@@ -1267,7 +1267,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:453018e59bab6ebe9822930b10f386d452886537]{
 -- Page 67, Offset 10234.
 -- <ま|・><だ|・><２|・><５|・><万|・><羽|・><も|・><い|・><る|・><じ|・><ゃ|・><な|・><い|・><か|・>、千羽や二千羽ぐらいなら独り占めしても構わないだろう、って」
-  “Il en reste encore deux cent cinquante mille, donc si on en chasse environ mille ou deux mille, ça ne devrait pas vraiment poser problème.”」
+　“Il en reste encore deux cent cinquante mille, donc si on en chasse environ mille ou deux mille, ça ne devrait pas vraiment poser problème.”」
 
 }
 [sha:bceee79e3fe7e84f17b70daf7efe95181dfc5db8]{
@@ -1279,43 +1279,43 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:b16769be069a40af1461dbc710d449045fb097ad]{
 -- Page 68, Offset 10236.
 -- 生き延びたのは５０００羽だけ。この時点で、彼らは野生で生きられる種ではなくなったのよ」
-  Seuls cinq mille oiseaux survécurent. Dès cet instant, cette espèce ne fut plus capable de survivre à l'état sauvage.」
+　Seuls cinq mille oiseaux survécurent. Dès cet instant, cette espèce ne fut plus capable de survivre à l'état sauvage.」
 
 }
 [sha:760083b8990bae6b48c96fbb23c259bf6311f7fc]{
 -- Page 69, Offset 10237.
 -- 草十郎は顔をしかめている。
-  Sōjūrō fronçait les sourcils.
+　Sōjūrō fronçait les sourcils.
 
 }
 [sha:87089e924bdebb4e765412ed0408ec46ec0906de]{
 -- Page 69, Offset 10238.
 -- “野生で生きられる種ではない。”
-  “Une espèce incapable de survivre à l'état sauvage.”
+“Une espèce incapable de survivre à l'état sauvage.”
 
 }
 [sha:0427da302559f83d77504790ebc08953e02d447d]{
 -- Page 69, Offset 10239.
 -- その言葉の意味を、彼は言われるまでもなく知っているからだ。
-  Il connaissait le sens de ces mots sans qu'on ait besoin de le lui expliquer.
+　Il connaissait le sens de ces mots sans qu'on ait besoin de le lui expliquer.
 
 }
 [sha:4538f9d0d9afbaac32f870423a899a655a53e403]{
 -- Page 70, Offset 10240.
 -- 野生動物は単体で生き続けるものではない。
-  Des animaux sauvages ne peuvent survivre en trop petit nombre.
+　Des animaux sauvages ne peuvent survivre en trop petit nombre.
 
 }
 [sha:9849c463e88da388c97e839d45cd054b1e94322a]{
 -- Page 70, Offset 10241.
 -- 全体の数と、それを支える餌場を一定数維持できなければ、存続する事ができない。
-  S'ils sont dans l'impossibilité de maintenir un effectif minimal dans leur groupe et une zone d'alimentation suffisante pour se nourrir, alors ils ne peuvent pas survivre.
+　S'ils sont dans l'impossibilité de maintenir un effectif minimal dans leur groupe et une zone d'alimentation suffisante pour se nourrir, alors ils ne peuvent pas survivre.
 
 }
 [sha:ca634a64ff1681fbc1a529057347a3935fa439f8]{
 -- Page 70, Offset 10242.
 -- <大|・><群|・><で|・><あ|・><る|・><事|・>がリョコウバトのシステムであったのなら、もうその時点で、彼らは袋小路に入っていた。
-  Si le mode de vie des pigeons migrateurs reposait sur le regroupement en gigantesques essaims, alors à partir de ce moment, ils avaient déjà passé le point de non-retour.
+　Si le mode de vie des pigeons migrateurs reposait sur le regroupement en gigantesques essaims, alors à partir de ce moment, ils avaient déjà passé le point de non-retour.
 
 }
 [sha:c13433072a2b89a7a3c2bce7bdd7b630d3782716]{
@@ -1333,19 +1333,19 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:9caab7b10b0fc33c9455badb5956ab0432c3225b]{
 -- Page 71, Offset 10245.
 -- シンシナティの動物園ではオス二羽、メス一羽のリョコウバトが飼育されたけど、一年でオスたちは死んじゃったわ。
-  Deux mâles et une femelle qui étaient élevés au zoo de Cincinnati, mais les premiers moururent au bout d'un an de captivité.
+　Deux mâles et une femelle qui étaient élevés au zoo de Cincinnati, mais les premiers moururent au bout d'un an de captivité.
 
 }
 [sha:f67dde1a2f1b3f6f1c8dae80a65a3ca62eee5db9]{
 -- Page 71, Offset 10246.
 -- 残されたのはメス一羽だけ。
-  Seule la femelle survécut plus longtemps.
+　Seule la femelle survécut plus longtemps.
 
 }
 [sha:04ef80812c32984032e67b09591d01dfed9e3d07]{
 -- Page 71, Offset 10247.
 -- その時点で、彼女は地上でもっとも孤独な生き物になった」
-  Dès lors, elle fut l'être vivant le plus seul au monde.」
+　Dès lors, elle fut l'être vivant le plus seul au monde.」
 
 }
 [sha:4a1d0335a2f06011478f75c21ad7766c3fec162e]{
@@ -1357,43 +1357,43 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 [sha:d0d994dc194e202a71e4b6d5114100837aef5c7e]{
 -- Page 72, Offset 10249.
 -- 北アメリカを旅する鳥たちの最後の一羽でありながら、ただの一度も空を飛ぶ事ができなかった<籠|かご>の鳥。
-  Un oiseau en cage qui, tout en étant le dernier représentant d'une race qui voyageait à travers toute l'Amérique du Nord, n'a pu voler une seule fois dans le ciel.
+　Un oiseau en cage qui, tout en étant le dernier représentant d'une race qui voyageait à travers toute l'Amérique du Nord, n'a pu voler une seule fois dans le ciel.
 
 }
 [sha:b8de279936a16738c11c98a0918a142f1e5e610d]{
 -- Page 72, Offset 10250.
 -- 結局、２９年で彼女はその命を終えたわ。
-  Au bout du compte, sa vie s'acheva au bout de vingt-neuf ans.
+　Au bout du compte, sa vie s'acheva au bout de vingt-neuf ans.
 
 }
 [sha:834ee6639ae20de4da01ee10ded076d18c802617]{
 -- Page 72, Offset 10251.
 -- １９１４年９月１日午後１時。
-  Le premier septembre 1914, à une heure de l'après-midi.
+　Le premier septembre 1914, à une heure de l'après-midi.
 
 }
 [sha:c60e653d9555a233942c843eecc1af245cb6c35f]{
 -- Page 72, Offset 10252.
 -- 一つの種が終わる時間がここまで正確に残っている例は、今のところこれだけよ」
-  À ce jour, c'est l'unique cas où la dernière heure d'une espèce a été déterminée avec précision.」
+　À ce jour, c'est l'unique cas où la dernière heure d'une espèce a été déterminée avec précision.」
 
 }
 [sha:646049b2979cbad49b2cdf0187b87842a7c0f92c]{
 -- Page 73, Offset 10253.
 -- ……五十億の死にまつわる話は終わった。
-  ...... L'histoire dépeignant cinq milliards de morts était terminée.
+　...... L'histoire dépeignant cinq milliards de morts était terminée.
 
 }
 [sha:fb4c7b74da8e6ef3a60e8e642eacb37671a1faf9]{
 -- Page 73, Offset 10254.
 -- 文明に飲みこまれた鳥の末路。
-  La fin de ces oiseaux annihilés par la civilisation humaine.
+　La fin de ces oiseaux annihilés par la civilisation humaine.
 
 }
 [sha:14398f487aca0782672810f874b30501c8597a62]{
 -- Page 73, Offset 10255.
 -- 失われた鳥たちへの哀歌のような久万梨の話は、しかし、草十郎にはあまり伝わらなかったようだ。
-  L'histoire de Kumari, presque une élégie en l'honneur de ces oiseaux perdus, ne semblait cependant pas avoir été très bien transmise à Sōjūrō.
+　L'histoire de Kumari, presque une élégie en l'honneur de ces oiseaux perdus, ne semblait cependant pas avoir été très bien transmise à Sōjūrō.
 
 }
 [sha:a87b557f52bea60876717582fe9076ac9f71cae2]{
@@ -1417,61 +1417,61 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:98aebf2d99f3e6542d06a99a5eabddde7f584289]{
 -- Page 74, Offset 10259.
 -- その、整理がつかなくて。当時の人たちは自分たちの手で減らしておいたのに、なんで最後は保護したのかって」
-  Mais je n'arrive pas à mettre mes idées en ordre. Je me demandais pourquoi les gens de l'époque, qui les avaient décimés, ont fini par les protéger.」
+　Mais je n'arrive pas à mettre mes idées en ordre. Je me demandais pourquoi les gens de l'époque, qui les avaient décimés, ont fini par les protéger.」
 
 }
 [sha:03b01f78961b9312259b155b6ea0dc60ce660e5e]{
 -- Page 75, Offset 10260.
 -- その呟きを聞いて、久万梨はきょとんと眉を上げた。
-  Entendant ce marmonnement, Kumari haussa les sourcils avec perplexité.
+　Entendant ce marmonnement, Kumari haussa les sourcils avec perplexité.
 
 }
 [sha:c8ed1ede4a817f09ed71f03b9050cfefbddf7df4]{
 -- Page 75, Offset 10261.
 -- おそらく、草十郎はこう言いたかったのだ。
-  Elle crut à tort que Sōjūrō devait vouloir dire :
+　Elle crut à tort que Sōjūrō devait vouloir dire :
 
 }
 [sha:27b9428867d0bd9071a7c0902d80ee758533f0e6]{
 -- Page 75, Offset 10262.
 -- “奪うために減らしたのに、なぜ最後の一羽を守ろうとしたのか”と。
-  “Ils les ont décimés par avidité, alors pourquoi ont-ils protégé le dernier d'entre eux ?”
+“Ils les ont décimés par avidité, alors pourquoi ont-ils protégé le dernier d'entre eux ?”
 
 }
 [sha:3014f249d1c842210ca63f16777b4dfce2eae581]{
 -- Page 76, Offset 10263.
 -- 久万梨が思い違いをしたのも無理はない。
-  La méprise de Kumari était compréhensible.
+　La méprise de Kumari était compréhensible.
 
 }
 [sha:8b00c1134d62cb46b69fad6acd8f5be0d4bd1d73]{
 -- Page 76, Offset 10264.
 -- 都会育ちの彼女には、草十郎の疑問の危うさは理解できない。
-  Comme elle avait été élevée en ville, elle ne pouvait pas comprendre le danger qu'impliquait la question de Sōjūrō.
+　Comme elle avait été élevée en ville, elle ne pouvait pas comprendre le danger qu'impliquait la question de Sōjūrō.
 
 }
 [sha:b5371016adbaf881b2dd3d48d3fff755b49c2f33]{
 -- Page 77, Offset 10265.
 -- この少年にはまだ、
-  Ce garçon ne nourrissait, pour l'instant,
+　Ce garçon ne nourrissait, pour l'instant,
 
 }
 [sha:38e3b2f646e8b32c394e971c7e5e58ae61d6cb2b]{
 -- Page 77, Offset 10266.
 -- 人間の身勝手な行為への怒りも、
-  ni colère contre les actions égoïstes des humains,
+　ni colère contre les actions égoïstes des humains,
 
 }
 [sha:a53c409908e0082f1bc6d1da325e0450ff2a6b7f]{
 -- Page 77, Offset 10267.
 -- <住処|すみか>から移動しなかった鳥たちへの同情もない。
-  ni sympathie envers ces oiseaux n'ayant pas quitté leur habitat.
+　ni sympathie envers ces oiseaux n'ayant pas quitté leur habitat.
 
 }
 [sha:c4c321cea71d06111ae5b589367a241c42c9d9bc]{
 -- Page 77, Offset 10268.
 -- そのどちらかに肩入れする<独善|じぶん>を、ここまで育てずに暮らしてきた。
-  Il avait vécu jusqu'à maintenant sans développer l'un de ces deux sentiments.
+　Il avait vécu jusqu'à maintenant sans développer l'un de ces deux sentiments.
 
 }
 [sha:8836fea25c5cfcf9ebaf28a448d09b4ccbad4f4c]{
@@ -1483,31 +1483,31 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:c866ddff88ae7fe0839b845d8968dca54e035993]{
 -- Page 78, Offset 10270.
 -- ま、わたしが言いたかったのは、どんなに強く美しく見えても、居場所から追われた生き物ははかないってコト。
-  Enfin, ce que je voulais dire, c'est que même s'il semble fort et magnifique, un être vivant chassé de son habitat aura une vie éphémère.
+　Enfin, ce que je voulais dire, c'est que même s'il semble fort et magnifique, un être vivant chassé de son habitat aura une vie éphémère.
 
 }
 [sha:1f36544cd23232ef23198c890dec205552fc2ce4]{
 -- Page 78, Offset 10271.
 -- 静希くん。
-  Shizuki.
+　Shizuki.
 
 }
 [sha:76b613af7437ac8df1e07ad1f446950bbd9b904b]{
 -- Page 78, Offset 10272.
 -- 貴方が見た鳥は、その最後の一羽かもしれないわよ？」
-  L'oiseau que tu as vu est peut-être le dernier de son espèce.」
+　L'oiseau que tu as vu est peut-être le dernier de son espèce.」
 
 }
 [sha:f8faacc239ccd0e84f20817ac127e59a4baf9cf3]{
 -- Page 79, Offset 10273.
 -- ……<益体|やくたい>のない立ち話は終わった。
-  ...... La conversation inutile se termina.
+　...... La conversation inutile se termina.
 
 }
 [sha:bb555c9b5dfe9bb607015ec22fc3717663267e2b]{
 -- Page 79, Offset 10274.
 -- アルバイトの時間が近づき、草十郎は一足先にバイト先へ向かっていった。
-  L'heure du travail se rapprochait et Sōjūrō s'y dirigea avec une longueur d'avance.
+　L'heure du travail se rapprochait et Sōjūrō s'y dirigea avec une longueur d'avance.
 
 }
 [sha:cbe2e3efb9b8761b300dd77d469ba625db0ba875]{
@@ -1519,19 +1519,19 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:40409c6d39bf868b54ba59c6d018206fae51101e]{
 -- Page 80, Offset 10276.
 -- 草十郎と別れた後も、久万梨は公園に留まっていた。
-  Même après le départ de Sōjūrō, Kumari s'était attardée dans le parc.
+　Même après le départ de Sōjūrō, Kumari s'était attardée dans le parc.
 
 }
 [sha:14b0b5e4082fecf0d5a4cb9cb8a0183c6a3a01c5]{
 -- Page 80, Offset 10277.
 -- マーサ。最後の一羽。
-  Martha. Le dernier pigeon migrateur.
+　Martha. Le dernier pigeon migrateur.
 
 }
 [sha:e8bf7f1121309863f0e987495ede79cd3b231745]{
 -- Page 80, Offset 10278.
 -- そのフレーズは青い鳥にあてられたものではなく―――
-  Cette phrase n'était pas destinée à l'oiseau bleu, mais―――
+　Cette phrase n'était pas destinée à l'oiseau bleu, mais―――
 
 }
 [sha:e262352e84da771b3a01f45e4a9f7f49d7fc16d0]{
@@ -1543,37 +1543,37 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:776d22100e81f058012aaadbd34a8aa9e351f5d5]{
 -- Page 81, Offset 10280.
 -- 我が事のように愚痴りながら頭をかく。
-  Elle se gratta la tête tout en maugréant comme s'il était question d'elle-même.
+　Elle se gratta la tête tout en maugréant comme s'il était question d'elle-même.
 
 }
 [sha:f250a51692b3c332920ebb50a5c80b88245e26f5]{
 -- Page 81, Offset 10281.
 -- 久万梨からすれば草十郎は赤の他人で、同じクラスの仲間でもない。
-  Pour Kumari, Sōjūrō n'était qu'un parfait étranger et il ne faisait même pas partie de sa classe.
+　Pour Kumari, Sōjūrō n'était qu'un parfait étranger et il ne faisait même pas partie de sa classe.
 
 }
 [sha:6c7b9fe7e201b57e4cf033af55232f025bec77a4]{
 -- Page 81, Offset 10282.
 -- リョコウバトの話に熱が入ったのは、嫌いなコトの話ほど熱心に調べてしまう彼女の悪癖の結果である。
-  Si son histoire était si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
+　Si son histoire était si passionnée, c'était parce qu'elle avait la mauvaise habitude de faire des recherches assidues sur les choses qu'elle détestait.
 
 }
 [sha:91b1108b51a28dd6104a477841d24f1d3d0fa70a]{
 -- Page 82, Offset 10283.
 -- カタチのいい眉をひそめる。
-  Elle fronça ses charmants sourcils.
+　Elle fronça ses charmants sourcils.
 
 }
 [sha:258caa3120162a01250fa2110077ede403ff52a2]{
 -- Page 82, Offset 10284.
 -- まっどべあで働く以上、ヘンな悩みを抱えて欲しくないので話し相手になったが、あるいは、あの少年に妙な磁力があるのだろうか？
-  Puisqu'il travaillait à l'Ours Enragé, elle lui avait fait part de ces conseils pour éviter qu'il reste focalisé sur ses préoccupations bizarres. À moins que ce ne soit la conséquence du charme étrange que dégageait ce garçon ?
+　Puisqu'il travaillait à l'Ours Enragé, elle lui avait fait part de ces conseils pour éviter qu'il reste focalisé sur ses préoccupations bizarres. À moins que ce ne soit la conséquence du charme étrange que dégageait ce garçon ?
 
 }
 [sha:7f0b2134005d2f5e27e064776e6b0c41f16ca6d4]{
 -- Page 82, Offset 10285.
 -- 話せば話すほど深みに<嵌|はま>っている気がする。
-  Plus elle parlait, plus elle avait l'impression de tomber dans un gouffre.
+　Plus elle parlait, plus elle avait l'impression de tomber dans un gouffre.
 
 }
 [sha:1bd4576533fbb856c2fcdf9e2defa13ba750d9f9]{
@@ -1585,7 +1585,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:842f0b55440e19c33919b2763c86de5a935e2923]{
 -- Page 83, Offset 10287.
 -- 久万梨はそうぼやきながら、別れ際の会話を思い出した。
-  grommela Kumari tout en se remémorant ce qu'ils s'étaient dit à leur séparation.
+　grommela Kumari tout en se remémorant ce qu'ils s'étaient dit à leur séparation.
 
 }
 [sha:6da9aa67d3710a908dc2ff8ea355f1ea180f59e9]{
@@ -1597,7 +1597,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:be46d7494c20ccdde74a5e4a20fa238759447f8b]{
 -- Page 84, Offset 10289.
 -- そう訊いた久万梨に、草十郎は頼りなげに首を振った。
-  Sōjūrō secoua la tête d'un air peu assuré.
+　Sōjūrō secoua la tête d'un air peu assuré.
 
 }
 [sha:6c1e55d21509b762c9c549bb716692d9320c4a4e]{
@@ -1609,25 +1609,25 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:6f64c862ed00d22c2c4fb438422c654f27f15e4b]{
 -- Page 85, Offset 10291.
 -- 日々新しい出会いがあって、それを飲みこむだけで手一杯。
-  Chaque jour, il rencontrait de nouvelles personnes, et il donnait son maximum rien que pour s'y accoutumer.
+　Chaque jour, il rencontrait de nouvelles personnes, et il donnait son maximum rien que pour s'y accoutumer.
 
 }
 [sha:9241d5b7855f2717e9bc0af6ddfa871c3bd16165]{
 -- Page 85, Offset 10292.
 -- あの純朴な少年は弱々しく見えるものの、町のすべてを受け入れようと全力で立っているのだ。
-  Ce garçon honnête, même s'il semblait frêle, se tenait debout de toutes ses forces pour accepter la ville dans sa globalité.
+　Ce garçon honnête, même s'il semblait frêle, se tenait debout de toutes ses forces pour accepter la ville dans sa globalité.
 
 }
 [sha:b5a41a501ed2c6e1bf001a9f28a0cdec60c81655]{
 -- Page 86, Offset 10293.
 -- しかし―――日々新しい出会いがある、というのは大仰すぎるのではないか。
-  Mais―――dire qu'il faisait de nouvelles rencontres chaque jour, ce n'était pas un peu trop exagéré ?
+　Mais―――dire qu'il faisait de nouvelles rencontres chaque jour, ce n'était pas un peu trop exagéré ?
 
 }
 [sha:da9ff9c56d93231788f7f1b9b93f6240aec42249]{
 -- Page 86, Offset 10294.
 -- 出会ったものを一つも取り落とさないよう努力するのは、彼が素直すぎるからだ。
-  S'il faisait des efforts pour n'en négliger aucune, c'était à cause de sa trop grande honnêteté.
+　S'il faisait des efforts pour n'en négliger aucune, c'était à cause de sa trop grande honnêteté.
 
 }
 [sha:56e7f0dea09ae9b77bfc94180c17e5eb39365867]{
@@ -1639,13 +1639,13 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:a2858a6d72f0b0b6d202afd113ec808d27ac0bdc]{
 -- Page 87, Offset 10296.
 -- 単に、それが良いことか悪いことか、まだ分かってないだけかもしれないし”
-  Ça pourrait être simplement parce que je ne sais pas encore si c'est une bonne ou une mauvaise chose.”
+　Ça pourrait être simplement parce que je ne sais pas encore si c'est une bonne ou une mauvaise chose.”
 
 }
 [sha:702c85388e72865f9ae1ad399f678a6ac8465649]{
 -- Page 87, Offset 10297.
 -- 彼はばつが悪そうに返す。
-  avait-il répondu embarrassé.
+　avait-il répondu embarrassé.
 
 }
 [sha:52d958accbec840d66ffc97ec71215c3bdcb05df]{
@@ -1657,43 +1657,43 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:c719680ffccbcd21af33caf17caf18f1277fb808]{
 -- Page 88, Offset 10299.
 -- そこまで言いかけて、久万梨はまた今度、と手を振って別れる事にした。
-  Kumari s'arrêta là, le salua de la main en lui disant à la prochaine fois, et le quitta.
+　Kumari s'arrêta là, le salua de la main en lui disant à la prochaine fois, et le quitta.
 
 }
 [sha:9e8bb00640c023da9310e242b265272400741506]{
 -- Page 89, Offset 10300.
 -- 思い返すとますますため息がでてきた。
-  En y repensant, elle soupirait de plus en plus.
+　En y repensant, elle soupirait de plus en plus.
 
 }
 [sha:f14d96b1c4c0ae889297ae09af0b071842c3e6ce]{
 -- Page 89, Offset 10301.
 -- コンビニエンスストアのアルバイトまであと五分ほど。
-  Il lui restait à peu près cinq minutes avant l'heure de son travail à la supérette.
+　Il lui restait à peu près cinq minutes avant l'heure de son travail à la supérette.
 
 }
 [sha:406dac3e03f6e05d97ecf73381b5ce9db9134977]{
 -- Page 89, Offset 10302.
 -- 久万梨は頬を叩いて先ほどの会話を飲み下す。
-  Elle se tapa les joues et oublia sa conversation.
+　Elle se tapa les joues et oublia sa conversation.
 
 }
 [sha:1b1796163d0a045a9f9fd9276493adb04a43fe09]{
 -- Page 89, Offset 10303.
 -- 他人のコトで気を病む余裕も、考察にふける義理もない。
-  Elle n'avait ni le temps de s'inquiéter ni le devoir de s'occuper de quelqu'un d'autre.
+　Elle n'avait ni le temps de s'inquiéter ni le devoir de s'occuper de quelqu'un d'autre.
 
 }
 [sha:c44ff821919817f5459457dc771f0f489800f8f2]{
 -- Page 89, Offset 10304.
 -- 彼女は彼女で、大学進学の費用を貯める野望がある。
-  Elle avait pour ambition d'économiser suffisamment pour s'inscrire à l'université.
+　Elle avait pour ambition d'économiser suffisamment pour s'inscrire à l'université.
 
 }
 [sha:45a48e4b05582c04af4a377f2c1f95966267d920]{
 -- Page 89, Offset 10305.
 -- <日夜|にちや>両親の反対と戦う久万梨金鹿にとって、同級生の悩みなど二の次だ。
-  Pour Kumari Kojika qui se battait contre le refus de ses parents jour et nuit, les soucis d'un camarade de classe n'étaient qu'en troisième position sur sa liste.
+　Pour Kumari Kojika qui se battait contre le refus de ses parents jour et nuit, les soucis d'un camarade de classe n'étaient qu'en troisième position sur sa liste.
 
 }
 [sha:a95acf4095a2f5533e0361dd4ac652cbc04217df]{
@@ -1705,7 +1705,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:fefee76277df25adda37431c94e9952e78be8c7e]{
 -- Page 90, Offset 10307.
 -- 我ながらなんて思わせぶりで、実のない言い回しかと苦笑いする。
-  Venant de moi, c'était vraiment ambigu et sans aucun sens, pensa-t-elle avec un sourire amer.
+　Venant de moi, c'était vraiment ambigu et sans aucun sens, pensa-t-elle avec un sourire amer.
 
 }
 [sha:01dfd89989bc323d01dec3c475aab24d69b55d1f]{
@@ -1717,25 +1717,25 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:211e48eeb7ae2e4c7803e0545b13280e0451dada]{
 -- Page 91, Offset 10309.
 -- 貴方は単に、<人の善悪|そういうの>に関わる気が、これっぽっちもないんじゃないのかって」
-  Qu'en fait, il n'a tout simplement pas l'intention de s'intégrer au monde des humains.」
+　Qu'en fait, il n'a tout simplement pas l'intention de s'intégrer au monde des humains.」
 
 }
 [sha:431a019111952c8bd90f1db036efe1d57d277140]{
 -- Page 91, Offset 10310.
 -- だからアイツ嫌いなのよ、と。
-  Que c'était pour ça qu'elle le détestait.
+　Que c'était pour ça qu'elle le détestait.
 
 }
 [sha:16f9137a7625f3c1e85ec46bbf494ad3cdd51de7]{
 -- Page 91, Offset 10311.
 -- 悪態にもとれるため息をこぼして、彼女は公園を後にした。
-  Elle laissa échapper un soupir comme semblant de jérémiade et quitta le parc.
+　Elle laissa échapper un soupir comme semblant de jérémiade et quitta le parc.
 
 }
 [sha:94008eb1cd400cc3675bdec0998b63720fa6ca07]{
 -- Page 92, Offset 10312.
 -- 草十郎がアルバイトを終え、土産の<鰯|いわし>を片手に居間に入ると、ソファーには有珠の姿があった。
-  Lorsque Sōjūrō, son travail terminé, entra dans le salon en tenant à la main les sardines qu'il avait rapportées, Alice se trouvait sur le sofa.
+　Lorsque Sōjūrō, son travail terminé, entra dans le salon en tenant à la main les sardines qu'il avait rapportées, Alice se trouvait sur le sofa.
 
 }
 [sha:a78d4bc8a1ef658bddcec7ffb651005f3561b090]{
@@ -1753,19 +1753,19 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:4a90c8cec84a23bbb045ddecb0171cb0b3a9a391]{
 -- Page 93, Offset 10315.
 -- さすがの草十郎も、まだ「ただいま」と言えるだけの親しみはないらしい。
-  Même pour Sōjūrō, ils n'étaient, semblait-il, pas encore assez proches pour qu'elle lui réponde bonsoir.
+　Même pour Sōjūrō, ils n'étaient, semblait-il, pas encore assez proches pour qu'elle lui réponde bonsoir.
 
 }
 [sha:35feaabe4f9aaad506e189c8939732a8ada697e1]{
 -- Page 94, Offset 10316. Mods: @n.
 -- 草十郎はそのまま台所に移動し、バケツに水を溜めて魚を保存しようとして、
-  Sōjūrō passa dans la cuisine, remplit un seau d'eau pour y conserver le poisson,
+　Sōjūrō passa dans la cuisine, remplit un seau d'eau pour y conserver le poisson,
 
 }
 [sha:338255c9c3ca7fc670f47e8d642b50ecf8a8678d]{
 -- Page 94, Offset 10317. Glued.
 -- 背後からイヤそうな視線を感じ、しずしずと冷蔵庫を開けた。
- ressentit un regard désagréable dans son dos puis ouvrit doucement le réfrigérateur.
+ressentit un regard désagréable dans son dos puis ouvrit doucement le réfrigérateur.
 
 }
 [sha:2f0b5ba4cd41b9ea22f367e4d8711fa46b2b39e3]{
@@ -1777,7 +1777,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:6e0e646b7cf051b484190e911868fa3c97cf4c2c]{
 -- Page 94, Offset 10319.
 -- 仕方ない、とお手軽に魚を冷蔵庫にしまって、草十郎は居間の様子を窺った。
-  Tant pis, se dit-il en plaçant prestement le poisson dans le réfrigérateur avant de regarder furtivement la situation dans le salon.
+　Tant pis, se dit-il en plaçant prestement le poisson dans le réfrigérateur avant de regarder furtivement la situation dans le salon.
 
 }
 [sha:9d7b5d5482da89f3c8bd2fdba2956827bc7ecb8a]{
@@ -1795,55 +1795,55 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:8b4201ca9cf0de82581eec4260e2ae8f9496f836]{
 -- Page 95, Offset 10322.
 -- にべもなく返される。
-  répondit-elle sèchement.
+　répondit-elle sèchement.
 
 }
 [sha:dcf166bd72d8f1b0b72986c80b8791e8e2e2dd07]{
 -- Page 95, Offset 10323.
 -- そうかと頷いて、草十郎はやや散らかった台所を片づけはじめた。
-  Il acquiesça et remit progressivement en ordre la cuisine quelque peu en pagaille.
+　Il acquiesça et remit progressivement en ordre la cuisine quelque peu en pagaille.
 
 }
 [sha:e421ee518371532475f057da1e66556ccaf7e468]{
 -- Page 95, Offset 10324.
 -- 特に話題もないし、無理に話をする必要性も感じなかったからだろう。
-  Visiblement, il n'avait pas grand-chose à dire et n'avait pas éprouvé la nécessité de se forcer à lui parler.
+　Visiblement, il n'avait pas grand-chose à dire et n'avait pas éprouvé la nécessité de se forcer à lui parler.
 
 }
 [sha:4bc8ddaee6082995221d487fd10b207b1186f89a]{
 -- Page 96, Offset 10325.
 -- 水回りを片づけ、まな板を洗い、包丁を拭き、食器を調理時に出しやすい位置に整理整頓する。
-  Il débarrassa les alentours de l'évier, lava la planche à découper, essuya les couteaux de cuisine et rangea la vaisselle de façon à pouvoir la sortir facilement.
+　Il débarrassa les alentours de l'évier, lava la planche à découper, essuya les couteaux de cuisine et rangea la vaisselle de façon à pouvoir la sortir facilement.
 
 }
 [sha:6b790622717e1bec52a5478d7d28bb9320456051]{
 -- Page 96, Offset 10326.
 -- そんな、いずれ凄腕のハウスキーパーになる事を約束された、よどみのない作業っぷりを、
-  Ce travail exécuté avec dextérité, fruit d'une incroyable habileté digne d'une future gouvernante,
+　Ce travail exécuté avec dextérité, fruit d'une incroyable habileté digne d'une future gouvernante,
 
 }
 [sha:e053b4aa6efd306850d8b89c9684318818420210]{
 -- Page 96, Offset 10327.
 -- じっと観察する黒い目が、二つ。
-  était fixement observé par deux yeux noirs.
+　était fixement observé par deux yeux noirs.
 
 }
 [sha:cd2c50e4105649ef847b8e6bec56c59d0c43a3c2]{
 -- Page 97, Offset 10328.
 -- 草十郎がその視線に気が付くのは時間の問題だ。
-  Ce n'était qu'une question de temps avant que Sōjūrō ne remarque ce regard.
+　Ce n'était qu'une question de temps avant que Sōjūrō ne remarque ce regard.
 
 }
 [sha:0de380eb3aa0c2542fa454371651b557d6ada8e0]{
 -- Page 97, Offset 10329.
 -- 身をかがめて、台所の収納に<寸胴|ずんどう>をしまう。
-  Il se pencha et plaça la marmite dans un meuble de rangement de la cuisine.
+　Il se pencha et plaça la marmite dans un meuble de rangement de la cuisine.
 
 }
 [sha:008c10750008cd170764a42ffc177072d0db3eaa]{
 -- Page 97, Offset 10330.
 -- そのまま立ち上がれば、居間にいる有珠と視線がばったり合って、
-  S'il se levait, son regard rencontrerait soudainement celui d'Alice dans le salon.
+　S'il se levait, son regard rencontrerait soudainement celui d'Alice dans le salon.
 
 }
 [sha:37d655282e18b8139f52bda8a39115ac11062553]{
@@ -1855,7 +1855,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:c67d58d670341a14cf6864c514acf9425633fe63]{
 -- Page 98, Offset 10332.
 -- 小僧、今すぐロビーに顔を貸すっスーー！』
-  Gamin, j'ai un truc à te dire dans le vestibule, tout de suiteーー!』
+　Gamin, j'ai un truc à te dire dans le vestibule, tout de suiteーー!』
 
 }
 [sha:b7c90c3ed85460c79462acb5e4131acc16da155d]{
@@ -1867,25 +1867,25 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:4a86dd03f2fc127c144773ba4e1f6dc368bd439f]{
 -- Page 98, Offset 10334.
 -- その直前。
-  Mais juste avant que cela ne puisse arriver,
+　Mais juste avant que cela ne puisse arriver,
 
 }
 [sha:90b4425bf3210d558f404cfd14c3f3416494b4ca]{
 -- Page 98, Offset 10335. Glued. Mods: @x.
 -- 立ち上がろうとした草十郎の後頭部に、青い衝撃が突き刺さった。
- un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
+un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
 
 }
 [sha:cd3d1d1903f9ce2f272ea97f35995bc6f48c64a3]{
 -- Page 99, Offset 10336.
 -- 確かめるまでもない。
-  Il devina instantanément qui en était l'auteur.
+　Il devina instantanément qui en était l'auteur.
 
 }
 [sha:bf017ff89f64445fb943c94e874d4089ddad2851]{
 -- Page 99, Offset 10337.
 -- 洋館内せましと飛び回る、青い駒鳥だった。
-  C'était le rouge-gorge bleu qui volait librement à l'intérieur de la demeure.
+　C'était le rouge-gorge bleu qui volait librement à l'intérieur de la demeure.
 
 }
 [sha:e99c1d1535c895fd54866843972804d8737b9067]{
@@ -1897,13 +1897,13 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:fe6c5aa533c44c7d6317f8be9be08a789450ae28]{
 -- Page 100, Offset 10339.
 -- ぼそっと呟く。
-  murmura-t-il distraitement.
+　murmura-t-il distraitement.
 
 }
 [sha:3ebcb903894d6efc63f5e003271a486a24f47915]{
 -- Page 100, Offset 10340.
 -- 草十郎なりに、誰かにグチを言いたい気分だったのだろう。
-  À sa façon, il aurait aimé pouvoir se plaindre à quelqu'un.
+　À sa façon, il aurait aimé pouvoir se plaindre à quelqu'un.
 
 }
 [sha:6316587ef526cce7a8c95490551cb500f5df23c8]{
@@ -1915,25 +1915,25 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:30a8b6c0d79e49820de810524d4c544c5632d860]{
 -- Page 101, Offset 10342.
 -- チチチと駒鳥はさえずる。
-  “Cui cui cui”, pépia l'oiseau.
+　“Cui cui cui”, pépia l'oiseau.
 
 }
 [sha:11ea1ebdad61867797537439434201effb9d2ecd]{
 -- Page 101, Offset 10343.
 -- ……さて。
-  ...... Eh bien.
+　...... Eh bien.
 
 }
 [sha:1a3d452bc177e57e6a1226e7542ac026decc8587]{
 -- Page 101, Offset 10344.
 -- 実のところ、<頻繁|ひんぱん>に激突してくるコレこそが洋館の七不思議、その最たるものだった。
-  Après tout, cette créature qui le heurtait fréquemment était le plus grand des sept mystères du manoir.
+　Après tout, cette créature qui le heurtait fréquemment était le plus grand des sept mystères du manoir.
 
 }
 [sha:ff8ec0e65088789ac0e8694bffeb3402be7d75b0]{
 -- Page 101, Offset 10345.
 -- なぜなら、
-  Parce que,
+　Parce que,
 
 }
 [sha:70ae989cd23d957181c365edf25f0d57fccc6ddc]{
@@ -1945,43 +1945,43 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:be052d7c1c86d9cf600d0044f6a0dfcefe3fae03]{
 -- Page 102, Offset 10347.
 -- この通り。
-  comme on pouvait le constater,
+　comme on pouvait le constater,
 
 }
 [sha:5da32c48f033da57e6c396786270bb07eb0d9bc3]{
 -- Page 102, Offset 10348.
 -- 駒鳥が何を伝えたいのか、草十郎にはなんとなく分かってしまうのだ。
-  Sōjūrō comprenait d'une certaine façon ce qu'il voulait lui communiquer.
+　Sōjūrō comprenait d'une certaine façon ce qu'il voulait lui communiquer.
 
 }
 [sha:c59767331c4964be05a36aaf154012dd6f323732]{
 -- Page 103, Offset 10349.
 -- 山育ちの草十郎にとって、これこそが悪夢だった。
-  Pour ce garçon qui avait grandi à la montagne, c'était un véritable cauchemar.
+　Pour ce garçon qui avait grandi à la montagne, c'était un véritable cauchemar.
 
 }
 [sha:06b28d7a47099eb40b583349357f11444e9cc456]{
 -- Page 103, Offset 10350.
 -- しゃべる動物なんて聞いた事もない。
-  Il n'avait jamais entendu parler d'un animal qui parle.
+　Il n'avait jamais entendu parler d'un animal qui parle.
 
 }
 [sha:742a55cc1f16af99b99989c7cc52379f9c560b43]{
 -- Page 103, Offset 10351.
 -- そりゃあ、ごく<希|まれ>に、十年以上も山で暮らしていれば鳥の気持ちが分かるような時はある。もちろん錯覚だが、ちょっとだけ友情を感じる時もあった。
-  Effectivement, il arrivait parfois que l'on puisse comprendre les sentiments des oiseaux après avoir vécu plus de dix ans en montagne. En de très rares occasions, on pouvait même ressentir un semblant d'amitié de leur part, même s'il ne s'agissait que d'une illusion.
+　Effectivement, il arrivait parfois que l'on puisse comprendre les sentiments des oiseaux après avoir vécu plus de dix ans en montagne. En de très rares occasions, on pouvait même ressentir un semblant d'amitié de leur part, même s'il ne s'agissait que d'une illusion.
 
 }
 [sha:b8b66ad65c4e4e31cd4429aea544d98f40d15f73]{
 -- Page 104, Offset 10352.
 -- だがこれはない。
-  Mais ici, ce n'était pas le cas.
+　Mais ici, ce n'était pas le cas.
 
 }
 [sha:4f65f824b72c56b8396f89466c42a40451fe8182]{
 -- Page 104, Offset 10353.
 -- 都会人より動物に馴れている分、草十郎は野<生動|かれら>物に対しては徹底的なリアリストなのである。
-  Comme il était plus habitué aux animaux que les gens de la ville, Sōjūrō avait un point de vue très terre à terre sur eux.
+　Comme il était plus habitué aux animaux que les gens de la ville, Sōjūrō avait un point de vue très terre à terre sur eux.
 
 }
 [sha:7c4f1e448c1d8caf3cd70e4b9f6135b59f4636e6]{
@@ -1993,19 +1993,19 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:99cc430ddee77688a63f7524fd0f8cc54ae25cf4]{
 -- Page 105, Offset 10355.
 -- 頭を抱えて無視したいところだが、久万梨に聞いた話が脳裏をよぎる。
-  Il se sentait vraiment surmené et l'envie lui prenait de l'ignorer, mais l'histoire que Kumari lui avait racontée lui traversa l'esprit.
+　Il se sentait vraiment surmené et l'envie lui prenait de l'ignorer, mais l'histoire que Kumari lui avait racontée lui traversa l'esprit.
 
 }
 [sha:e3d005646edae4965c13ce6d95055bbbf5d35b39]{
 -- Page 105, Offset 10356.
 -- 鳥には優しく。
-  Être gentil avec l'oiseau.
+　Être gentil avec l'oiseau.
 
 }
 [sha:7f99c3213254338eb802eeda4d990af85607b424]{
 -- Page 105, Offset 10357.
 -- それが珍しいものなら、珍しいものなりに孤独を抱えているのだとか、なんとか。
-  S'il était vraiment spécial, alors il devait ressentir une solitude qui allait de pair avec les autres êtres spéciaux, ou quelque chose comme ça.
+　S'il était vraiment spécial, alors il devait ressentir une solitude qui allait de pair avec les autres êtres spéciaux, ou quelque chose comme ça.
 
 }
 [sha:8dcbd8806ce25911c3adbc43784c646d0ea08c5d]{
@@ -2017,31 +2017,31 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:a734b11c0edbee7626eb475efe60c74d01fb9b5c]{
 -- Page 106, Offset 10359.
 -- あ、でもイスないッスねココ。じゃあ立ってるッス。小坊主だけに、廊下に立ってるのがお似合いッス。
-  Ah, mais il n'y a pas d'chaise ici. Dans ce cas, reste debout. Ça va bien à un garnement d'rester au piquet dans le couloir.
+　Ah, mais il n'y a pas d'chaise ici. Dans ce cas, reste debout. Ça va bien à un garnement d'rester au piquet dans le couloir.
 
 }
 [sha:5b1293a65f212806208cc38c1cbd529c726da192]{
 -- Page 106, Offset 10360.
 -- あれ、いまウマイこと言ったっスかねジブン！？』
-  Tiens ? J'viendrais pas de dire un truc marrant ?!』
+　Tiens ? J'viendrais pas de dire un truc marrant ?!』
 
 }
 [sha:381763674cf8c2c7f28e2ea64ea1663786441dab]{
 -- Page 107, Offset 10361.
 -- 羽ばたいているのも疲れたのか、駒鳥は受話器の横に着陸する。
-  Peut-être fatigué de battre des ailes, le rouge-gorge se posa près du téléphone.
+　Peut-être fatigué de battre des ailes, le rouge-gorge se posa près du téléphone.
 
 }
 [sha:130e282a4d95810187b426c10702a3d4d9bac645]{
 -- Page 107, Offset 10362.
 -- 草十郎に打つ手はない。
-  Sōjūrō ne pouvait rien faire.
+　Sōjūrō ne pouvait rien faire.
 
 }
 [sha:1c6d9a97db724a83498a39f4af61094104c13839]{
 -- Page 107, Offset 10363.
 -- 基本、この鳥の鳴き声を聞くだけが対抗手段なのだった。
-  À la base, sa seule manière de protester était d'écouter le pépiement de l'oiseau.
+　À la base, sa seule manière de protester était d'écouter le pépiement de l'oiseau.
 
 }
 [sha:0f8a061194fb247cfae657cb011b881c2b7576e7]{
@@ -2077,49 +2077,49 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:b3dd8ccaa24e85548f0de6853a5f6846cc7eb5e8]{
 -- Page 109, Offset 10369.
 -- エロイ、とかヤクイ、とかの最上級じゃないっスか？』
-  C'est pas l'plus haut niveau d'eroi ou de yakui ?』
+　C'est pas l'plus haut niveau d'eroi ou de yakui ?』
 
 }
 [sha:073a36bcc1734b8ef9312d26498ef8c3f8402493]{
 -- Page 109, Offset 10370.
 -- ふむふむと話し合う久遠寺邸最弱のコンビ。
-  Voilà ce que se disaient les deux faiblards de la résidence Kuonji.
+　Voilà ce que se disaient les deux faiblards de la résidence Kuonji.
 
 }
 [sha:14bfa854ed51eec60f7972cc810840129c5be5b4]{
 -- Page 109, Offset 10371.
 -- かくして、
-  Ainsi,
+　Ainsi,
 
 }
 [sha:9c3810959d9613332b7e980c38c2555f07905136]{
 -- Page 109, Offset 10372.
 -- 鳥と人間は分かり合えたらしい。
-  l'oiseau et l'humain semblaient s'être compris.
+　l'oiseau et l'humain semblaient s'être compris.
 
 }
 [sha:5d915a7402cd073abacc033a249c9e1ea4dbc45c]{
 -- Page 110, Offset 10373.
 -- いちいち悩むのも疲れたのか、無視するのも体力がいると気が付いたのか。
-  Soit il était fatigué de s'inquiéter à chaque fois, soit il avait réalisé que l'ignorer nécessitait beaucoup d'énergie.
+　Soit il était fatigué de s'inquiéter à chaque fois, soit il avait réalisé que l'ignorer nécessitait beaucoup d'énergie.
 
 }
 [sha:112125e3f311fbe7629f5548b38a613064425b68]{
 -- Page 110, Offset 10374.
 -- 観念した草十郎が合いの手を入れはじめたところ、二人はすっかりうち解けていた。
-  Lorsque Sōjūrō, résigné, avait commencé à lui répondre, les deux étaient parvenus à communiquer parfaitement.
+　Lorsque Sōjūrō, résigné, avait commencé à lui répondre, les deux étaient parvenus à communiquer parfaitement.
 
 }
 [sha:201f810ade993dff7224505c5dce93db7f9f3888]{
 -- Page 110, Offset 10375.
 -- 草十郎は珍しい話し相手として、
-  Cependant, si Sōjūrō s'adressait juste à un interlocuteur inhabituel,
+　Cependant, si Sōjūrō s'adressait juste à un interlocuteur inhabituel,
 
 }
 [sha:2ab9f0a468a13cc0b31e3e4bc9b790f4ecf47487]{
 -- Page 110, Offset 10376.
 -- 駒鳥は<排斥|はいせき>すべきライバルとして、ではあるが。
-  l'oiseau, lui, parlait à un rival à écarter.
+　l'oiseau, lui, parlait à un rival à écarter.
 
 }
 [sha:e31f65d10064dd7769d1e47b48ba76e09319cbb2]{
@@ -2137,7 +2137,7 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:d7e33f5d7ed16dabeb41bc789c56daf9fb16ce1f]{
 -- Page 111, Offset 10379.
 -- ところで天使ってなんだ、と続けないあたり、草十郎にも学習の跡が見られる。
-  En passant, on pouvait voir le résultat des études de Sōjūrō dans le fait qu'il n'avait pas demandé ce que signifiait “angel”.
+　En passant, on pouvait voir le résultat des études de Sōjūrō dans le fait qu'il n'avait pas demandé ce que signifiait “angel”.
 
 }
 [sha:cef3e84ff0f70c78cbd6a04e7530902bbad7d02f]{
@@ -2149,13 +2149,13 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:47fb3347d801be1a8f540ad2aa17e18735f79c86]{
 -- Page 112, Offset 10381.
 -- アリスさんは神聖<不可侵|ふかしん>にして冷酷非道。マイ女神であったところの<母君|ははぎみ>とはちょっと、毛色が違うッス。
-  Elle est inhumainement froide pour une Sainte Vierge. Elle a une couleur de cheveux un peu différente d'sa mère qui était My Goddess.
+　Elle est inhumainement froide pour une Sainte Vierge. Elle a une couleur de cheveux un peu différente d'sa mère qui était My Goddess.
 
 }
 [sha:c68bacdd2502940cb7ec222afae936822288fd10]{
 -- Page 112, Offset 10382.
 -- ショージキ<女神|ははぎみ>、ちょっと育てかた間違ったッスね』
-  Pour être honnête, sa mère s'est un peu trompée au cours de son éducation.』
+　Pour être honnête, sa mère s'est un peu trompée au cours de son éducation.』
 
 }
 [sha:c4da29d0d7596e5ecdffa1c120d3dfae9b0d072f]{
@@ -2167,7 +2167,7 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:a7097160e180b6ed4f42190af14e7802bf65b305]{
 -- Page 113, Offset 10384.
 -- この家にはいないようだけど」
-  Elle n'a pas l'air de vivre dans cette maison, cela dit.」
+　Elle n'a pas l'air de vivre dans cette maison, cela dit.」
 
 }
 [sha:939c56ae943d27aae658bf6aaebe382ad49ea0ee]{
@@ -2185,19 +2185,19 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:55c4e56944b87cb0140349d7f7e14f4429254f23]{
 -- Page 114, Offset 10387.
 -- いけないんじゃないかな？　と首をかしげる草十郎。
-  “Ce ne serait pas bien, non ?” dit Sōjūrō en faisant la moue.
+　“Ce ne serait pas bien, non ?” dit Sōjūrō en faisant la moue.
 
 }
 [sha:f2aafbf7cb01a58285cdce42b8a6d1d4a4350d3b]{
 -- Page 114, Offset 10388.
 -- やや弱気なのは、以前と比べて有珠への興味が高まっているせいだ。
-  S'il se montrait un peu timide, c'était à cause de son intérêt grandissant pour Alice.
+　S'il se montrait un peu timide, c'était à cause de son intérêt grandissant pour Alice.
 
 }
 [sha:657ab77de93805ccbaf95e4606966f76586542b1]{
 -- Page 114, Offset 10389.
 -- 人畜無害な顔をして、彼も健康な青年男子であるらしい。
-  Malgré son air inoffensif, il restait un jeune homme en bonne santé.
+　Malgré son air inoffensif, il restait un jeune homme en bonne santé.
 
 }
 [sha:f3cb6ea43de7de8b810956bb53d412bc2c503bb5]{
@@ -2209,13 +2209,13 @@ J'suis bon dans le rôle du détective et de la victime. Mais mon côté détect
 [sha:9ca5e5f1c53dc6d795dc0576960e19b6e8235248]{
 -- Page 115, Offset 10391.
 -- おまえ、シャバ僧のわりにいいコト言うッス。人の<過去話|カコバナ>とかみだりにしちゃいけないッス。
-  Pour un gamin, tu dis des choses pleines d'bon sens. Parler du passé des gens sans leur permission, c'est pas une bonne idée.
+　Pour un gamin, tu dis des choses pleines d'bon sens. Parler du passé des gens sans leur permission, c'est pas une bonne idée.
 
 }
 [sha:a979ca074b5fdc8c10795dc954e50330e2d6eab8]{
 -- Page 115, Offset 10392.
 -- ―――ところでアリスさんの子供時代の話とかしていいっスか？　ジブン、シャバ僧の知らないアリスさんを<赤裸々|せきらら>にアピールして、精神的上位に立ちたいッス』
-  ―――Au fait, j'peux parler de l'enfance de Mam'zelle Alice ? J'veux attirer franchement ton attention sur une facette d'elle que tu n'connais pas et pouvoir m'sentir supérieur à toi de cette façon.』
+　―――Au fait, j'peux parler de l'enfance de Mam'zelle Alice ? J'veux attirer franchement ton attention sur une facette d'elle que tu n'connais pas et pouvoir m'sentir supérieur à toi de cette façon.』
 
 }
 [sha:32324a1649cc07381870235a42315fc533dd35bd]{
@@ -2239,7 +2239,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:d42a9d9c2be690b72b3f63d1f9c51c7fa1332846]{
 -- Page 116, Offset 10396.
 -- ほら、壁相手にカコンカコーンってピンポン玉打ち返すゲーム。あんな感じっス。アリスさんのメモリーはおよそ十四年分。じゃあ一年目から行くッスよ』
-  T'sais, ce jeu où on lance une balle avec un mur comme adversaire. C'était dans c'genre-là. J'ai à peu près quatorze ans d'souvenirs avec Mam'zelle Alice. Bon, j'commence avec la première année.』
+　T'sais, ce jeu où on lance une balle avec un mur comme adversaire. C'était dans c'genre-là. J'ai à peu près quatorze ans d'souvenirs avec Mam'zelle Alice. Bon, j'commence avec la première année.』
 
 }
 [sha:596baa4d227da570dd1605e6e3e2554c96ea0bce]{
@@ -2257,7 +2257,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:37f9ba04611f98e62955b1932a18a410d579c089]{
 -- Page 117, Offset 10399.
 -- もう誰もジブンを止められないッスー！』
-  Plus personne n'peut m'arrêter !』
+　Plus personne n'peut m'arrêter !』
 
 }
 [sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
@@ -2269,19 +2269,19 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:430d13d3212e24c2dd724063fe25f62767ee9aa6]{
 -- Page 118, Offset 10401.
 -- この鳥は、まずい。
-  Cet oiseau est dangereux.
+　Cet oiseau est dangereux.
 
 }
 [sha:ffa1cf15f1a5ed5eeaca328bb8a11c14456ccdf9]{
 -- Page 118, Offset 10402.
 -- <鳥頭|とりあたま>にも程がある。
-  Même les crânes d'oiseau ont des limites.
+　Même les crânes d'oiseau ont des limites.
 
 }
 [sha:264462c75aece956befb971c935dd4e4d488a603]{
 -- Page 118, Offset 10403.
 -- 加えて、このまま話を聞いていたら取り返しのつかないコトになる、と察する草十郎だった。
-  En plus, si j'écoute son histoire, je vais apprendre quelque chose que je ne devrais pas, comprit Sōjūrō.
+　En plus, si j'écoute son histoire, je vais apprendre quelque chose que je ne devrais pas, comprit Sōjūrō.
 
 }
 [sha:49f28356fcadeebafe0b139f21692559556f6b47]{
@@ -2293,7 +2293,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:0c21a6fc725dab4f98c776622f4358f54e031df0]{
 -- Page 119, Offset 10405.
 -- 草十郎は手をあげて、じゃあ、と三階の屋根裏部屋への逃走を試みた。
-  Sōjūrō leva la main et tenta de s'enfuir vers sa chambre, le grenier du deuxième étage.
+　Sōjūrō leva la main et tenta de s'enfuir vers sa chambre, le grenier du deuxième étage.
 
 }
 [sha:c4360d70fa2a2cbc238ae4bbbc3ce4d76efd19f7]{
@@ -2305,7 +2305,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:f9675f926156922a1a7aba77ab3b0461382c0016]{
 -- Page 120, Offset 10407.
 -- そのあたりジブン、なんか納得いかないッス。まだうちに入ったばかりの新参ものが、なんでアリスさんの視線をひとりじめしてるっスか？　許せないスけど、その秘訣を教えてほしいっス。<切実|せつじつ>に。ジブン、本気だしたら凄いッスよ』
-  J'peux pas accepter ça ! Pourquoi un nouveau venu chez nous devrait, à peine arrivé, être le seul à profiter du regard de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je deviens sérieux, je suis terrible !』
+　J'peux pas accepter ça ! Pourquoi un nouveau venu chez nous devrait, à peine arrivé, être le seul à profiter du regard de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je deviens sérieux, je suis terrible !』
 
 }
 [sha:280509b9c16ebe56bab4b47df92e84b1165ee17e]{
@@ -2317,7 +2317,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:70fce856ad5cc81815e69567c899bb3d2ea1f236]{
 -- Page 121, Offset 10409.
 -- もう半分ほど登っていた階段から、草十郎はトコトコと舞い戻る。
-  Sōjūrō revint sur ses pas après avoir monté la moitié des escaliers.
+　Sōjūrō revint sur ses pas après avoir monté la moitié des escaliers.
 
 }
 [sha:dd0b7949706dcecd4a65cd40ac6ebfc23bd78bbf]{
@@ -2335,19 +2335,19 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:284015e0f8990b46140982096f90b5f0e376a4a1]{
 -- Page 122, Offset 10412.
 -- 思い出したッスよ、そもそもジブン、熱視線でサーチされてるからってつけあがるなと釘刺しにきたんス。
-  Ça vient de me revenir. Au départ, j'étais venu pour enfoncer dans ta p'tite tête que même si elle t'épie d'un regard ardent, tu ne dois pas te croire au-dessus des autres.
+　Ça vient de me revenir. Au départ, j'étais venu pour enfoncer dans ta p'tite tête que même si elle t'épie d'un regard ardent, tu ne dois pas te croire au-dessus des autres.
 
 }
 [sha:8c7af106d7cd53a5cbdb9b72ce34bbe2a189a3da]{
 -- Page 122, Offset 10413.
 -- だいたい草の字は何度もジブンに助けられてるッス。
-  Et puis d'abord, je t'ai sauvé plein de fois.
+　Et puis d'abord, je t'ai sauvé plein de fois.
 
 }
 [sha:9c57b5ec29138159e6d885b0411438ab813d37e5]{
 -- Page 122, Offset 10414.
 -- アリスさんの命令がなかったら、今ごろ草の字、鏡の中でおだぶつっス。コレなんスかね。人間の感情とかわかんないっスけど、魚へんに里とか描くっスかね？』
-  Si Mam'zelle Alice m'avait pas donné d'ordres, en ce moment, tu aurais déjà passé l'arme à gauche dans le miroir. C'est ça, hein ? Je comprends pas les émotions humaines, mais c'est bien ça qu'on appelle l'amour ?』
+　Si Mam'zelle Alice m'avait pas donné d'ordres, en ce moment, tu aurais déjà passé l'arme à gauche dans le miroir. C'est ça, hein ? Je comprends pas les émotions humaines, mais c'est bien ça qu'on appelle l'amour ?』
 
 }
 [sha:1c1ed29ba3ca594a3dd54674be9e2b72dcb056b7]{
@@ -2365,7 +2365,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:086c21fea781f22d0306a697e8c93bfb69f4a60a]{
 -- Page 123, Offset 10417. Mods: @k, @e.
 -- アリスさんはこう言ったっス。彼が鏡の中に迷いこみそうになったら助けてあげて、危険なモノには近寄らないように誘導もしてあげて、ええ、でも思い上がらないコトねシズキクン、別にアンタのコトが心配なワケ
-  Elle a dit : “s'il est sur le point de s'égarer dans le miroir, sauve-le, et guide-le aussi pour qu'il ne s'approche pas de quelque chose de dangereux”. Oui, mais ne joue pas au fanfaron, Shizuki, ce n'est pas comme si elle s'inquiétait pour t...
+　Elle a dit : “s'il est sur le point de s'égarer dans le miroir, sauve-le, et guide-le aussi pour qu'il ne s'approche pas de quelque chose de dangereux”. Oui, mais ne joue pas au fanfaron, Shizuki, ce n'est pas comme si elle s'inquiétait pour t...
 
 }
 [sha:54bb1bb000170b4ce04ab8c9dd89ef8e5b667394]{
@@ -2377,25 +2377,25 @@ Kya...?!』
 [sha:bbd58d7e2ae8139b351914e3bc37c5a6eddd3b4b]{
 -- Page 124, Offset 10419.
 -- 一瞬の早技だった。
-  Ce fut instantané.
+　Ce fut instantané.
 
 }
 [sha:654c84c5509b3fd2e62fa06ae785555b0860c077]{
 -- Page 124, Offset 10420.
 -- 突如ロビーにやってきた有珠は、一瞬の<躊躇|ちゅうちょ>もなく受話器台の駒鳥を片手で粉砕した。
-  Alice, qui était arrivée soudainement dans le vestibule, avait démoli d'une seule main et sans la moindre hésitation le rouge-gorge-téléphone-rose.
+　Alice, qui était arrivée soudainement dans le vestibule, avait démoli d'une seule main et sans la moindre hésitation le rouge-gorge-téléphone-rose.
 
 }
 [sha:ce200ba518eaac66fcfad5c665f56317c79cbfb3]{
 -- Page 124, Offset 10421.
 -- もとい、片手で押さえつけた。
-  Ou plutôt, l'avait écrasé d'une seule main.
+　Ou plutôt, l'avait écrasé d'une seule main.
 
 }
 [sha:07d04b58962b06e9815718eb5a2efa559ea714d8]{
 -- Page 125, Offset 10422.
 -- 青い鳥はぶにゃ、と潰されたカラーボールのように変形しながら、
-  L'oiseau bleu se retrouva aplati comme une balle malléable colorée.
+　L'oiseau bleu se retrouva aplati comme une balle malléable colorée.
 
 }
 [sha:8e06a77f6c1630ceaf4c5042d12d6b9b7329fc41]{
@@ -2407,13 +2407,13 @@ Kya...?!』
 [sha:a128b8d5758f998081751d410eebe81dc7e711d0]{
 -- Page 125, Offset 10424.
 -- そして痛い、体中の血液がくちばしからこう、右方向に流れていく感覚とかー！』
-  Et ça fait mal ! C'est comme si tout mon sang s'écoulait par le coin droit de mon bec !』
+　Et ça fait mal ! C'est comme si tout mon sang s'écoulait par le coin droit de mon bec !』
 
 }
 [sha:fe4137f69cb30299e5b3334200b39b9498b7958b]{
 -- Page 125, Offset 10425.
 -- たくましい鳴き声をあげている。
-  s'écria-t-il à grands coups de gazouillis.
+　s'écria-t-il à grands coups de gazouillis.
 
 }
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
@@ -2431,13 +2431,13 @@ Ne fais pas attention à ce que raconte cette chose.」
 [sha:9d3ba676dcea2889173bf47b6f4def108c9110a0]{
 -- Page 126, Offset 10428.
 -- 駒鳥を回収し、居間に去っていく有珠。
-  Alice ramassa le rouge-gorge et s'en alla dans le salon.
+　Alice ramassa le rouge-gorge et s'en alla dans le salon.
 
 }
 [sha:702c451f51e958bb940e71481ec04415b1d20cc6]{
 -- Page 126, Offset 10429.
 -- その後ろ姿は駒鳥とは正反対の、暗い<翳|かげ>りを帯びている。
-  Sa silhouette, à l'exact opposé de l'oiseau, était enveloppée d'une ombre noire.
+　Sa silhouette, à l'exact opposé de l'oiseau, était enveloppée d'une ombre noire.
 
 }
 [sha:061c3793d48898e5fd0c029e4e6edf99ecfa308e]{
@@ -2449,7 +2449,7 @@ Ne fais pas attention à ce que raconte cette chose.」
 [sha:73f5a8586dabef3f768d8711a403b1ff1c3348c1]{
 -- Page 127, Offset 10431.
 -- 草十郎は困った顔のまま腕を組んで、
-  Sōjūrō croisa les bras d'un air troublé.
+　Sōjūrō croisa les bras d'un air troublé.
 
 }
 [sha:13b67c6bbfa1fd4e1530a3caae111cf7b10e5a91]{
@@ -2461,6 +2461,6 @@ Ne fais pas attention à ce que raconte cette chose.」
 [sha:aa624f219689949c12b5d4f0176a757771e2173b]{
 -- Page 127, Offset 10433.
 -- ひとり、天窓から<覗|のぞ>く夜空に呟いた。
-  murmura-t-il tout seul en regardant le ciel à travers la lucarne.
+　murmura-t-il tout seul en regardant le ciel à travers la lucarne.
 
 }

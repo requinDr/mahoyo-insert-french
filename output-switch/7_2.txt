@@ -1,55 +1,55 @@
 [sha:c8acc95eac5a2157b3413d2b639b1a881346fc5a]{
 -- Page 0, Offset 9171.
 -- 私立という事もあって、三咲高校の冬休みは早い。
-  Comme le lycée Misaki était privé, les vacances de Noël y commençaient plus tôt qu'ailleurs.
+　Comme le lycée Misaki était privé, les vacances de Noël y commençaient plus tôt qu'ailleurs.
 
 }
 [sha:38129f009042621fc55b600998d116e32ef3b2bc]{
 -- Page 0, Offset 9172.
 -- 十二月の<半|なか>ばには終業式を<迎|むか>え、校舎と生徒たちはつかの間、二学期までの疲れを癒す事になる。
-  La cérémonie de clôture se tenait à la mi-décembre, permettant ainsi à l'école et aux élèves de récupérer momentanément de la fatigue accumulée au cours du second semestre.
+　La cérémonie de clôture se tenait à la mi-décembre, permettant ainsi à l'école et aux élèves de récupérer momentanément de la fatigue accumulée au cours du second semestre.
 
 }
 [sha:f0a9d41b8a0a184930641b13839634e5104de220]{
 -- Page 0, Offset 9173.
 -- 無論。
-  Bien sûr,
+　Bien sûr,
 
 }
 [sha:138cab4af286e16a11de50b2157c462c4270e4c4]{
 -- Page 0, Offset 9174.
 -- 彼らにとっては恒例の関門、幸せな長期休日の前に立ちはだかる<期末試験|みっかかん>を無事に乗り越えられたら、の話であるが。
-  en supposant qu'ils puissent surmonter sans incident l'épreuve d'usage pour eux, les trois jours les séparant des longues vacances bénites.
+　en supposant qu'ils puissent surmonter sans incident l'épreuve d'usage pour eux, les trois jours les séparant des longues vacances bénites.
 
 }
 [sha:ca97dde40de32d920473c48c6d40d3b8a2d29fc5]{
 -- Page 1, Offset 9175.
 -- 深夜放送を受信するラジオ。
-  La radio diffusait une émission nocturne.
+　La radio diffusait une émission nocturne.
 
 }
 [sha:4dc2416f97c18fbe8786bf4bc0df85593b7f42f5]{
 -- Page 1, Offset 9176.
 -- <台所|した>まで下りる手間をはぶく、紅茶用の魔法瓶。
-  Se trouvaient dans la pièce une bouteille thermos remplie de thé, pour éviter de descendre dans la cuisine,
+　Se trouvaient dans la pièce une bouteille thermos remplie de thé, pour éviter de descendre dans la cuisine,
 
 }
 [sha:b71608be9808b70cde650324a17ab2897c4359d4]{
 -- Page 1, Offset 9177.
 -- 冬の寒さから足を守る電気毛布と、夜食のカニパン。
-  ainsi qu'une couverture chauffante pour protéger les jambes du froid hivernal, et du pain brioché en forme de crabe en guise de collation de minuit.
+　ainsi qu'une couverture chauffante pour protéger les jambes du froid hivernal, et du pain brioché en forme de crabe en guise de collation de minuit.
 
 }
 [sha:82569ce7130b2317adc0fe17c311418237f176aa]{
 -- Page 1, Offset 9178.
 -- このように。
-  Ainsi,
+　Ainsi,
 
 }
 [sha:f46a22645d9a0b6bc2cda113d45a8fcf3dee1b8b]{
 -- Page 1, Offset 9179.
 -- 青子の部屋は<一分|いちぶ>の<隙|すき>もない、一夜漬け強制空間になっていた。
-  la chambre d'Aoko s'était transformée en espace idéal pour le bachotage intensif.
+　la chambre d'Aoko s'était transformée en espace idéal pour le bachotage intensif.
 
 }
 [sha:d04a37e609078cb7421c006122066f9ca1e40ef0]{
@@ -61,7 +61,7 @@
 [sha:0ef9800e66d0ca47e6d5b05f7185104b996605d1]{
 -- Page 2, Offset 9181.
 -- それで、生まれ変わる覚悟はできた？」
-  Alors, tu es prêt à devenir un autre homme ?」
+　Alors, tu es prêt à devenir un autre homme ?」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -73,25 +73,25 @@
 [sha:f984bb42a1b6b9bd114e106c8a2fa70f62b2e179]{
 -- Page 2, Offset 9183.
 -- こくこく、と頷く草十郎。
-  Sōjūrō acquiesça de façon répétée.
+　Sōjūrō acquiesça de façon répétée.
 
 }
 [sha:9cf2c8502f98a08997899924f4baeefb796b9c13]{
 -- Page 2, Offset 9184.
 -- アルバイトから戻ってきた彼を待っていたのは、魔術師ではなく、鬼の生徒会長としての蒼崎青子だった。
-  La personne qui l'avait attendu en revenant du travail était, non pas Aozaki Aoko la Mage, mais la présidente démoniaque du conseil étudiant.
+　La personne qui l'avait attendu en revenant du travail était, non pas Aozaki Aoko la Mage, mais la présidente démoniaque du conseil étudiant.
 
 }
 [sha:998deab5bdc0d01eebc546fbc4a2691f8edc4190]{
 -- Page 3, Offset 9185.
 -- 時をさかのぼること半日前。
-  Revenons une demi-journée en arrière.
+　Revenons une demi-journée en arrière.
 
 }
 [sha:a5ec52f9bec38698597a7f99883cce1fb0497b6e]{
 -- Page 3, Offset 9186.
 -- 期末試験一日目を終え、かねてからの計画を実行しようと洋館に向かう草十郎の前に、
-  Le premier jour d'examen à peine terminé, alors que Sōjūrō s'apprêtait à retourner au manoir afin de mettre en pratique le plan qu'il préparait depuis un moment déjà,
+　Le premier jour d'examen à peine terminé, alors que Sōjūrō s'apprêtait à retourner au manoir afin de mettre en pratique le plan qu'il préparait depuis un moment déjà,
 
 }
 [sha:06c2c603b6169151f10ea6f9ec7c14e66e6257da]{
@@ -103,25 +103,25 @@
 [sha:fd3371e606ecb5704de739942e4d054df8f7668a]{
 -- Page 4, Offset 9188.
 -- あ、夕方からのアルバイトは当然キャンセル。ちょっと本気で、あの点数はあり得ないから」
-  Ah, évidemment, tu annules ton travail du soir. Parce que franchement, ces notes sont inacceptables.」
+　Ah, évidemment, tu annules ton travail du soir. Parce que franchement, ces notes sont inacceptables.」
 
 }
 [sha:a5e42f18c446a7976e3404462430285da038af1a]{
 -- Page 4, Offset 9189.
 -- 青い炎に包まれた笑顔が現れたのである。
-  un sourire cerné de flammes bleues s'était dressé devant lui.
+　un sourire cerné de flammes bleues s'était dressé devant lui.
 
 }
 [sha:21a2295a526a75502080d9b700a9135f41c7a6f1]{
 -- Page 4, Offset 9190.
 -- その手にはしわくちゃに握りしめられた静希草十郎のテスト用紙。
-  Sa main agrippait fermement la copie d'examen froissée de Shizuki Sōjūrō.
+　Sa main agrippait fermement la copie d'examen froissée de Shizuki Sōjūrō.
 
 }
 [sha:37bf21e1885ab3f7bc55bdea6d00b7cae62cd821]{
 -- Page 5, Offset 9191.
 -- おそらく職員室で山城教諭から
-  Elle l'avait sûrement récupérée de force dans la salle des enseignants,
+　Elle l'avait sûrement récupérée de force dans la salle des enseignants,
 
 }
 [sha:03dd69d43ec5bc5924e37064c91be061b64a2b29]{
@@ -133,19 +133,19 @@ quand le professeur Yamashiro la lui avait montrée en ajoutant :
 [sha:76b3ea556d99e5d3dd9bb33fd10e2edf8b5d27a3]{
 -- Page 5, Offset 9193.
 -- と見せられたものを、<勢|いきお>い<奪|うば>い取ってきたに違いない。
-  『Il vient juste d'être transféré. On n'y peut rien.』
+　『Il vient juste d'être transféré. On n'y peut rien.』
 
 }
 [sha:f4b2daa447ea37d403e33972f08d8527c4aaba72]{
 -- Page 6, Offset 9194.
 -- かくして、今日まで屋根裏部屋で寝泊りしていた草十郎は、この日にかぎって青子の部屋に通された。
-  Par conséquent, Sōjūrō, qui passait jusque-là ses nuits dans le grenier, resta dans la chambre d'Aoko ce soir-là.
+　Par conséquent, Sōjūrō, qui passait jusque-là ses nuits dans le grenier, resta dans la chambre d'Aoko ce soir-là.
 
 }
 [sha:16db7d4af2419eb60cd2e3627fc0df1b59e80b5d]{
 -- Page 7, Offset 9195.
 -- 色々疑問視する点はあるものの、青子とて年頃の女学生である。
-  Même si c'était parfois difficile à croire, Aoko était aussi une lycéenne.
+　Même si c'était parfois difficile à croire, Aoko était aussi une lycéenne.
 
 }
 [sha:978f408d4ff7cd375fe1e8377a28a183cd821d33]{
@@ -157,13 +157,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:bb203426900fa3b989d40f62f76b2ac4e054fcab]{
 -- Page 7, Offset 9197.
 -- が、それ以上に草十郎の答案用紙はあり得なかったのだ。
-  Mais la copie d'examen de Sōjūrō était tellement incroyable qu'elle n'avait pas eu le choix.
+　Mais la copie d'examen de Sōjūrō était tellement incroyable qu'elle n'avait pas eu le choix.
 
 }
 [sha:a469f7a656973974c1af9e173e5eae75e3084044]{
 -- Page 7, Offset 9198.
 -- なので、今日の不機嫌度は五割増し。彼女のこめかみから怒りマークがとれないのも無理からぬ事である。
-  Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50 %. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
+　Et donc, aujourd'hui, sa mauvaise humeur s'était intensifiée de 50 %. On comprenait mieux pourquoi sa veine de colère persistait sur sa tempe.
 
 }
 [sha:923d6414167af1179ca4161ead5ee6a83232233a]{
@@ -175,19 +175,19 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:2d1c47c857cdbc9d7b120186492dd66a4f55fdcc]{
 -- Page 8, Offset 9200.
 -- アンタはそのテーブル使ってて」
-  Toi, utilise cette table.」
+　Toi, utilise cette table.」
 
 }
 [sha:0b76b8604930104f8ece1c3049c700794eba2761]{
 -- Page 8, Offset 9201.
 -- 青子はテーブルに背を向け、愛用の机に向かった。
-  Aoko s'assit à son bureau adoré, tournant le dos à Sōjūrō.
+　Aoko s'assit à son bureau adoré, tournant le dos à Sōjūrō.
 
 }
 [sha:d9f1649cd4c169032c0004b6c0e20fb2b11091e4]{
 -- Page 8, Offset 9202.
 -- 一方、草十郎の前には安物のガラステーブルが一つ。
-  Quant à ce dernier, il se trouvait devant une table en verre bon marché.
+　Quant à ce dernier, il se trouvait devant une table en verre bon marché.
 
 }
 [sha:3d8e8a2566d12ef6e3f1841c2ec6f94e2ec982ca]{
@@ -199,13 +199,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:015881a8ba511009318336d4d82fd5ed63e7b70b]{
 -- Page 9, Offset 9204.
 -- なあ蒼崎、この青いのなんだ？」
-  Dis, Aozaki, c'est quoi ce truc bleu ?」
+　Dis, Aozaki, c'est quoi ce truc bleu ?」
 
 }
 [sha:d97bc083dc16a08c6ccd7ecbdff0bc60c199de51]{
 -- Page 9, Offset 9205.
 -- 落ち着かないのか、草十郎は部屋の隅にたてかけられたギターを眺める。
-  Mal à l'aise, Sōjūrō fixait la guitare posée dans un coin de la chambre.
+　Mal à l'aise, Sōjūrō fixait la guitare posée dans un coin de la chambre.
 
 }
 [sha:1fe26ebba80d787d74454d11cb26e3de461414a8]{
@@ -229,7 +229,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:5a65a203aab1935f709548bd18113059a9c9d667]{
 -- Page 11, Offset 9209.
 -- やっぱり武器じゃないか、という感想を<堪|こら>えて、草十郎もクッションに腰を下ろす。
-  Sōjūrō évita de dire à voix haute qu'en fin de compte, c'était bien une arme, et il s'assit sur le coussin.
+　Sōjūrō évita de dire à voix haute qu'en fin de compte, c'était bien une arme, et il s'assit sur le coussin.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -253,13 +253,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:402818ccb32434493a70d3d7e6584b1484766380]{
 -- Page 12, Offset 9213.
 -- この場合、鈍感なのは青子の方なのだが、
-  Pour une fois, c'était Aoko qui ne se montrait pas très sagace,
+　Pour une fois, c'était Aoko qui ne se montrait pas très sagace,
 
 }
 [sha:478e01bbe749abb5edcc3c541b90d7686c3f2880]{
 -- Page 12, Offset 9214.
 -- 草十郎もなぜ自分が落ち着かないのか分かっていないので、鈍感なのはお互い様である。
-  mais comme Sōjūrō ne comprenait pas pourquoi il n'arrivait pas à se calmer, c'était autant vrai pour l'un que pour l'autre.
+　mais comme Sōjūrō ne comprenait pas pourquoi il n'arrivait pas à se calmer, c'était autant vrai pour l'un que pour l'autre.
 
 }
 [sha:2b5831b3aa0aec026126ee29ccbbc4bcba894b76]{
@@ -271,55 +271,55 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:07199f10bc9fbdc9570af07749d52c23fd7f6b7f]{
 -- Page 13, Offset 9216.
 -- ここ、ベッド以外は私の家から持ちこんだ物なの。引っ越してから二年経つけど、まだ屋敷には馴染んでないでしょ？」
-  Les objets qui se trouvent ici, à part le lit, ont tous été ramenés de chez moi. Ça fait deux ans que j'ai déménagé, mais je ne me suis toujours pas familiarisée avec le manoir.」
+　Les objets qui se trouvent ici, à part le lit, ont tous été ramenés de chez moi. Ça fait deux ans que j'ai déménagé, mais je ne me suis toujours pas familiarisée avec le manoir.」
 
 }
 [sha:c8adfe0979052db5eb0f7ee211ae02fc950eac83]{
 -- Page 14, Offset 9217.
 -- そわそわと落ち着かない草十郎の心情を曲解、納得いったのか、青子は自分の勉強を始めてしまう。
-  Après avoir interprété à sa convenance les sentiments d'un Sōjūrō mal à l'aise, Aoko commença ses propres révisions.
+　Après avoir interprété à sa convenance les sentiments d'un Sōjūrō mal à l'aise, Aoko commença ses propres révisions.
 
 }
 [sha:77d4747a0ce177f2d1c657d3217c5ab2d663bcff]{
 -- Page 14, Offset 9218.
 -- 早送りのようにめくられていくノートと教科書。
-  Elle feuilletait un cahier et un manuel comme une vidéo en avance rapide.
+　Elle feuilletait un cahier et un manuel comme une vidéo en avance rapide.
 
 }
 [sha:0b7a4f597cc5a65b435932408187dade7fc2cf08]{
 -- Page 14, Offset 9219.
 -- そこに余人の立ち入る隙間はない。
-  Nul n'aurait pu l'interrompre.
+　Nul n'aurait pu l'interrompre.
 
 }
 [sha:19da979ad95e97ae559278071e72375d1d04f556]{
 -- Page 14, Offset 9220.
 -- 青子の背中から立ち上るオーラに圧倒され、草十郎も気を引き締めてテーブルに向かった。
-  Écrasé par l'aura émanant de la silhouette d'Aoko, Sōjūrō se ressaisit et se tourna vers la table.
+　Écrasé par l'aura émanant de la silhouette d'Aoko, Sōjūrō se ressaisit et se tourna vers la table.
 
 }
 [sha:06185557838923013f1bfacef4be6d3f0732b98b]{
 -- Page 14, Offset 9221.
 -- 完全に無視されていながら平然と自分の作業に入れるあたり、草十郎も只者ではない。
-  Il se concentra calmement sur son propre travail, ce qui était impressionnant compte tenu du fait qu'on l'ignorait royalement.
+　Il se concentra calmement sur son propre travail, ce qui était impressionnant compte tenu du fait qu'on l'ignorait royalement.
 
 }
 [sha:b5fc6eabbe0811197dd04bc0640a148fedbd1541]{
 -- Page 15, Offset 9222.
 -- それから二時間。
-  Deux heures plus tard.
+　Deux heures plus tard.
 
 }
 [sha:30ba599d223c86a6d6246f73edfd07f5f70f2fe9]{
 -- Page 15, Offset 9223.
 -- 十一時近くなって、ようやく青子の<集中力|スピード>が減速していった。
-  Onze heures approchant, la vitesse d'Aoko diminuait enfin.
+　Onze heures approchant, la vitesse d'Aoko diminuait enfin.
 
 }
 [sha:60dbe9ec1f01cc3313ce6249e77d36420b85e4f8]{
 -- Page 15, Offset 9224.
 -- それを<頃合|ころあ>いと見て、草十郎は凛と伸びた青子の背中に話しかけた。
-  Sōjūrō saisit cette opportunité et adressa la parole à la jeune fille assise bien droit.
+　Sōjūrō saisit cette opportunité et adressa la parole à la jeune fille assise bien droit.
 
 }
 [sha:e6a4f83201814cb7f46e41f4951afb0fbfc58c8c]{
@@ -337,13 +337,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:e148916ae4cbdcda455c85202b7bda813b715cbd]{
 -- Page 16, Offset 9227.
 -- 遠慮がちな声に、青子は振り向かずに応えた。
-  Aoko répondit à la voix réservée sans se retourner.
+　Aoko répondit à la voix réservée sans se retourner.
 
 }
 [sha:238ce20addfb72ec56773c373479c951bcb1afa1]{
 -- Page 16, Offset 9228.
 -- 減速しているといっても、青子のノートをめくる動作は止まらない。
-  Même s'il ralentissait, le feuilletage d'Aoko ne s'arrêtait pas.
+　Même s'il ralentissait, le feuilletage d'Aoko ne s'arrêtait pas.
 
 }
 [sha:b23f98d5602917a432cb67047d45e24586c4d6db]{
@@ -355,7 +355,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:246905496f7ec714bb96addb7dcc4e82958e260e]{
 -- Page 17, Offset 9230.
 -- 君たちの食事はいつもああなのか？」
-  Vos repas se déroulent toujours de cette façon ?」
+　Vos repas se déroulent toujours de cette façon ?」
 
 }
 [sha:3223a9a61993d6d03c7e66ab34a6796e13f019f0]{
@@ -373,7 +373,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:c34b7c5b15b1fe41147eb32cca66229137e9ee9a]{
 -- Page 17, Offset 9233.
 -- ただ、学校じゃみんな楽しそうだった。誰かと食事を摂るって事は、ああいう風になるコトだって思ってた。だから、もしかすると」
-  C'est simplement qu'à l'école, tout le monde avait l'air de s'amuser. Je pensais que c'était la manière normale de manger avec quelqu'un. C'est pour ça que peut-être...」
+　C'est simplement qu'à l'école, tout le monde avait l'air de s'amuser. Je pensais que c'était la manière normale de manger avec quelqu'un. C'est pour ça que peut-être...」
 
 }
 [sha:8ab2bfdf6527f55a29fc5106721368c1ac503e0b]{
@@ -385,7 +385,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:eb1aa170cfee709c3ad9c66701a4d7ef7d722149]{
 -- Page 18, Offset 9235.
 -- 平然と語る青子の背中は、そんな事実をどうも思っていないようだった。
-  Aoko, parlant calmement, ne semblait pas vraiment s'en faire à ce propos.
+　Aoko, parlant calmement, ne semblait pas vraiment s'en faire à ce propos.
 
 }
 [sha:1f8e1111d1a7265d3af9bee8152e985e14245654]{
@@ -397,19 +397,19 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:917ff63ba850e767b905e9f971970b780c58a63c]{
 -- Page 19, Offset 9237.
 -- 蒼崎と有珠は、仲がいいと思ってたのに」
-  Je pensais que vous vous entendiez bien, Alice et toi.」
+　Je pensais que vous vous entendiez bien, Alice et toi.」
 
 }
 [sha:49f52a6a357df98d6f48c4945d8668481266713e]{
 -- Page 19, Offset 9238.
 -- 青子は否定も肯定もしない。
-  Aoko ne confirma ni n'infirma la chose.
+　Aoko ne confirma ni n'infirma la chose.
 
 }
 [sha:b3d0620d5d46a3765ebd69b686dd7fbc08290adb]{
 -- Page 19, Offset 9239.
 -- ただ、草十郎の残念そうな呟きが、少しだけ意外だった。
-  Seulement, le murmure peiné de Sōjūrō la surprenait un peu.
+　Seulement, le murmure peiné de Sōjūrō la surprenait un peu.
 
 }
 [sha:39985c5e972adf8405c7ab129961181e55f785f5]{
@@ -421,19 +421,19 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:8877f3e99056740dae71a9b0047298e90bb7ce4f]{
 -- Page 20, Offset 9241.
 -- 有珠が何回アンタの飲み物にメスカリンを入れてたかなんてもう覚えてないし、昨日なんか堂々とサラダの中にナナカマドなんか混ざってるし。
-  Je ne me rappelle même plus combien de fois Alice a mis de la mescaline dans ta boisson. Et hier alors, elle a mélangé sans hésitation des baies de sorbier dans la salade.
+　Je ne me rappelle même plus combien de fois Alice a mis de la mescaline dans ta boisson. Et hier alors, elle a mélangé sans hésitation des baies de sorbier dans la salade.
 
 }
 [sha:f7bcf5675a04447d1e0707d3e1d8e42c6d0da9d9]{
 -- Page 20, Offset 9242.
 -- ……ほんと、あの娘なに考えてるんだろう」
-  ...... Vraiment, à quoi est-ce qu'elle pense ?」
+　...... Vraiment, à quoi est-ce qu'elle pense ?」
 
 }
 [sha:dd4062c4cee7362d6fb623e9661a4aab42d31c2f]{
 -- Page 20, Offset 9243.
 -- 思い出すように苦笑しながら、青子は教科書をめくっていく。
-  Aoko feuilletait son manuel avec un sourire forcé en se rappelant de ces évènements.
+　Aoko feuilletait son manuel avec un sourire forcé en se rappelant de ces évènements.
 
 }
 [sha:112f924437d700b21180ac27181949782febdf28]{
@@ -451,13 +451,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:bc76e0d8e5c50638f3285cbe48a4ce26191dc797]{
 -- Page 21, Offset 9246.
 -- そう言う彼女の手元で、ぱたん、と四冊目の教科書が閉じられた。
-  Elle referma son quatrième manuel qu'elle tenait à la main.
+　Elle referma son quatrième manuel qu'elle tenait à la main.
 
 }
 [sha:27c0425635372a05d9fa439f4e0f34e2bac28539]{
 -- Page 21, Offset 9247.
 -- 今まで微動だにしなかった背中がくるりと反転する。
-  La silhouette qui avait à peine bougé jusqu'à maintenant se retourna.
+　La silhouette qui avait à peine bougé jusqu'à maintenant se retourna.
 
 }
 [sha:ceeb978d86b75f4ad2aad2306de305ef165f2d89]{
@@ -469,13 +469,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:5eb10e9fb6791beafb9cb927d0536e0791088441]{
 -- Page 22, Offset 9249.
 -- 今日の四科目の答案、実に草十郎らしい出来栄えで卒倒しそうになったわ、私」
-  Tes copies des quatre matières d'aujourd'hui étaient tellement à ton image que j'ai failli en faire une syncope.」
+　Tes copies des quatre matières d'aujourd'hui étaient tellement à ton image que j'ai failli en faire une syncope.」
 
 }
 [sha:9fa2a85001cc1e63220d12bc08e89f2a142ab03a]{
 -- Page 22, Offset 9250.
 -- 口調は楽しそうに、けれど視線は不機嫌そうに、青子はあぐらをかく草十郎を見つめる。
-  Le ton amusé mais le regard mécontent, Aoko croisa les jambes et fixa Sōjūrō.
+　Le ton amusé mais le regard mécontent, Aoko croisa les jambes et fixa Sōjūrō.
 
 }
 [sha:5750f5ed40045c848fe3a2d5577b0970b2fc16b2]{
@@ -487,7 +487,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:4c7a2249d7917e254c118ae17e0f3f4b2c12c02c]{
 -- Page 23, Offset 9252.
 -- あの調子であと二日続けたら、冬休みが消えるのは当然でしょうね。そうなると困るのは私なのよ、実際」
-  Si tu continues comme ça les deux prochains jours, les vacances de Noël vont définitivement s'envoler. À vrai dire, si ça arrive, c'est surtout moi que ça va contrarier.」
+　Si tu continues comme ça les deux prochains jours, les vacances de Noël vont définitivement s'envoler. À vrai dire, si ça arrive, c'est surtout moi que ça va contrarier.」
 
 }
 [sha:f911f7554f2337cc71064260630bad6e96d2f57a]{
@@ -499,7 +499,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:ed1673fa6e5a28b77cf60099c2b75384b3a99e3d]{
 -- Page 24, Offset 9254.
 -- 冷静に誤りを訂正する草十郎。
-  rectifia Sōjūrō avec calme.
+　rectifia Sōjūrō avec calme.
 
 }
 [sha:3c16bd20122c86392f9950ee489b323cffd49738]{
@@ -511,7 +511,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:f7b8ccf94c2a384cf07190343ce366ccb23c541b]{
 -- Page 24, Offset 9256.
 -- 思い出したくもない、山城教諭のニヤニヤ顔を想像してしまう青子だった。
-  Aoko finit par imaginer le visage souriant de Monsieur Yamashiro qu'elle voulait oublier.
+　Aoko finit par imaginer le visage souriant de Monsieur Yamashiro qu'elle voulait oublier.
 
 }
 [sha:8add7985ea10ca46da209e4e6bf8e9728bc49acb]{
@@ -523,7 +523,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:5df80b1d3047b8f698b862e0f839c415cd49fe51]{
 -- Page 25, Offset 9258.
 -- 本来なら性根から叩き直すところだけど……」
-  Pour faire bien les choses, j'aurais dû commencer par corriger ton caractère, mais......」
+　Pour faire bien les choses, j'aurais dû commencer par corriger ton caractère, mais......」
 
 }
 [sha:dd5396de2f244dbebe92d6053f920a8e10411839]{
@@ -535,19 +535,19 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:710621f5629678e6db96f0365ba1896941fe3d36]{
 -- Page 26, Offset 9260.
 -- 私もテストは一夜漬けで片付ける方だから、アンタ一人仕込むのに、そう時間はかからないだろうし」
-  Moi aussi, je suis du genre à me débarrasser des contrôles en bachotant une nuit, alors ça ne devrait pas prendre tant de temps que ça de te préparer comme il faut.」
+　Moi aussi, je suis du genre à me débarrasser des contrôles en bachotant une nuit, alors ça ne devrait pas prendre tant de temps que ça de te préparer comme il faut.」
 
 }
 [sha:090dee6c710194b1f8cf5264ca880724a32b0fd9]{
 -- Page 26, Offset 9261.
 -- 青子の宣言に、草十郎は露骨に表情を曇らせる。
-  Suite à la déclaration d'Aoko, Sōjūrō fronça franchement les sourcils.
+　Suite à la déclaration d'Aoko, Sōjūrō fronça franchement les sourcils.
 
 }
 [sha:8cd9fd4941a17f32c55cf63e49e0ea5ede32b05d]{
 -- Page 26, Offset 9262.
 -- そんなお節介はいらない、とでも言いたげな顔である。
-  Il semblait vouloir dire qu'il n'avait pas besoin qu'on se mêle de ses affaires.
+　Il semblait vouloir dire qu'il n'avait pas besoin qu'on se mêle de ses affaires.
 
 }
 [sha:101a2877f9af9d8877732055cdbb0b71dc95dc9c]{
@@ -559,13 +559,13 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:c811e4f6d515d9f688907159549e2f406d9ab317]{
 -- Page 27, Offset 9264.
 -- 間違いなく自分だな、と運命的に悟りながらも草十郎は静かにうなだれた。
-  Sōjūrō se rendit compte que ce serait forcément elle, et il baissa silencieusement la tête.
+　Sōjūrō se rendit compte que ce serait forcément elle, et il baissa silencieusement la tête.
 
 }
 [sha:08c35df8d3405cc87f7492e814a868797fe85961]{
 -- Page 27, Offset 9265.
 -- どのみち断ったところで断りきれるはずがないし、青子の言う通り、苦労の度合いは彼女の方が大きいだろう。
-  De toute façon, même s'il refusait, il ne pourrait pas le faire continuellement, et puis, Aoko avait raison, c'était elle qui allait avoir le plus de soucis.
+　De toute façon, même s'il refusait, il ne pourrait pas le faire continuellement, et puis, Aoko avait raison, c'était elle qui allait avoir le plus de soucis.
 
 }
 [sha:7e8b8f9605a21877c4c4a6e652c3684691278807]{
@@ -577,7 +577,7 @@ Elle avait des réticences à laisser entrer un garçon de son âge dans sa cham
 [sha:a74782668537f0008c2838e4c491ea5ff1d3a4e4]{
 -- Page 28, Offset 9267.
 -- 観念と感謝の意をこめて、ぺこりと一礼する草十郎。
-  ajouta Sōjūrō, en s'inclinant rapidement avec gratitude et résignation.
+　ajouta Sōjūrō, en s'inclinant rapidement avec gratitude et résignation.
 
 }
 [sha:b2fd1bd42da0a0d2db5c0c628beb31c7829f90ab]{
@@ -595,19 +595,19 @@ Rassure-toi, même moi, je ne suis pas un démon.
 [sha:568fadee779e22b347fb6de9719284d9c10f8203]{
 -- Page 29, Offset 9270.
 -- 別に平均点狙うってワケでもなし、予定通りこなしていけば三時には眠れるわよ」
-  Ce n'est pas comme si je te demandais d'obtenir la moyenne, et si on suit le programme, tu pourras dormir à trois heures.」
+　Ce n'est pas comme si je te demandais d'obtenir la moyenne, et si on suit le programme, tu pourras dormir à trois heures.」
 
 }
 [sha:6f5ed1ff9c352d392f2af832723685e2763678ff]{
 -- Page 30, Offset 9271.
 -- 殊勝な教え子の態度に、青子は満足そうに頷いた。
-  Devant l'attitude louable de son élève, Aoko acquiesça satisfaite.
+　Devant l'attitude louable de son élève, Aoko acquiesça satisfaite.
 
 }
 [sha:a1331eaaa84d33f59bbf616df452bf8cbb1c93c6]{
 -- Page 30, Offset 9272.
 -- ほんとうに色々問題のある草十郎だが、この素直さがあれば大抵のコトはなんとか出来てしまうだろう、と。
-  Sōjūrō posait vraiment problème à plusieurs niveaux, mais avec cette honnêteté, il pourrait venir à bout de la plupart des obstacles d'une façon ou d'une autre.
+　Sōjūrō posait vraiment problème à plusieurs niveaux, mais avec cette honnêteté, il pourrait venir à bout de la plupart des obstacles d'une façon ou d'une autre.
 
 }
 [sha:bc36dfb7503297f041d0b80e01189409d48aba22]{
@@ -619,30 +619,30 @@ Rassure-toi, même moi, je ne suis pas un démon.
 [sha:73f6f6bb15e7884de720a0e83ec338cfd4600d4f]{
 -- Page 31, Offset 9274.
 -- いい、静希君？　このあと頼られちゃたまんないから<釘|くぎ>さしておくけど、私がマンツーマンで誰かを仕込むなんてコト、滅多にないから。
-  Tu sais quoi, Shizuki ? Je ne supporterai pas que tu comptes sur moi après ça, alors je vais mettre les points sur les i : je donne rarement des cours particuliers.
+　Tu sais quoi, Shizuki ? Je ne supporterai pas que tu comptes sur moi après ça, alors je vais mettre les points sur les i : je donne rarement des cours particuliers.
 
 }
 [sha:3ead1be33b0f9348930c83d386525498d74d8247]{
 -- Page 31, Offset 9275.
 -- これはあくまで、異例中の異例だって覚えておいてね」
-  Rappelle-toi que c'est vraiment exceptionnel.」
+　Rappelle-toi que c'est vraiment exceptionnel.」
 
 }
 [sha:b681efde77a96650ad991b606c6eca12769535eb]{
 -- Page 32, Offset 9276.
 -- 自分に言い聞かせるような青子の宣言に、えー、と顔を曇らせる草十郎。
-  Sōjūrō fronça les sourcils, déçu par la déclaration d'Aoko qui semblait chercher à se persuader elle-même.
+　Sōjūrō fronça les sourcils, déçu par la déclaration d'Aoko qui semblait chercher à se persuader elle-même.
 
 }
 [sha:fef6c2f620bbc26032f4a504c8606aed37f82ae5]{
 -- Page 32, Offset 9277.
 -- その顔の上に“拾ってください”なんて単語を連想してしまい、自らの甘さにうなだれる青子だった。
-  Après avoir associé sans le vouloir l'expression de ce garçon à celle d'un chiot abandonné dans un carton sous la pluie, Aoko fut découragée par sa propre indulgence.
+　Après avoir associé sans le vouloir l'expression de ce garçon à celle d'un chiot abandonné dans un carton sous la pluie, Aoko fut découragée par sa propre indulgence.
 
 }
 [sha:ba33fe8de16d8bff895bddcdc9aad2efa0fae656]{
 -- Page 32, Offset 9278.
 -- そう言えば、初めて出会った日は雨だったっけ、などと思いながら。
-  Elle se rappela en même temps qu'il pleuvait le jour où ils s'étaient rencontrés pour la première fois.
+　Elle se rappela en même temps qu'il pleuvait le jour où ils s'étaient rencontrés pour la première fois.
 
 }

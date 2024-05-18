@@ -1,13 +1,13 @@
 [sha:46c4dfa0ea39a35b7d51bda9e1414e755244a915]{
 -- Page 0, Offset 4928.
 -- 青子は背中の痛みに耐えながら、鏡張りの通路を走る。
-  Aoko courait dans le labyrinthe recouvert de miroirs tout en endurant la douleur dans son dos.
+　Aoko courait dans le labyrinthe recouvert de miroirs tout en endurant la douleur dans son dos.
 
 }
 [sha:bdd4be0b438612f3c27fd69e6a0465bac21208b2]{
 -- Page 0, Offset 4929.
 -- その手に引かれておまけ状態の草十郎も走る。
-  Sōjūrō, tiré par la main comme s'il n'était qu'un poids mort, faisait de même.
+　Sōjūrō, tiré par la main comme s'il n'était qu'un poids mort, faisait de même.
 
 }
 [sha:6dfb30800de293fce822098cdafecfb3ba504aad]{
@@ -25,19 +25,19 @@
 [sha:f5eacf19179a7dfd3c389fd6c9c3ce35c30f3cb6]{
 -- Page 1, Offset 4932.
 -- ま、肝心の<神経|かいろ>はズタズタだけど、と内心呟く青子。
-  Même si mon Circuit Magique, autrement dit la partie la plus cruciale, est en lambeaux, marmonna-t-elle intérieurement.
+　Même si mon Circuit Magique, autrement dit la partie la plus cruciale, est en lambeaux, marmonna-t-elle intérieurement.
 
 }
 [sha:c8c19cb4ed4e007f70f5112973bf75ffa4535b1f]{
 -- Page 1, Offset 4933.
 -- 草十郎と違い、青子は透明の壁にぶつからない。
-  Contrairement à Sōjūrō, Aoko ne se cognait pas aux murs transparents.
+　Contrairement à Sōjūrō, Aoko ne se cognait pas aux murs transparents.
 
 }
 [sha:bab587dcd383cdd01db95b82e0a2063af10eaeab]{
 -- Page 1, Offset 4934.
 -- 目がいいのではなく、ミラーハウスの構造を頭にたたきこんでいるからだ。
-  Pas parce qu'elle avait une bonne vision, mais parce qu'elle avait parfaitement mémorisé la structure du palais des glaces.
+　Pas parce qu'elle avait une bonne vision, mais parce qu'elle avait parfaitement mémorisé la structure du palais des glaces.
 
 }
 [sha:61f773125323cb2c539cfa1ddee45e12cfc4ce1b]{
@@ -55,25 +55,25 @@
 [sha:0ba77bb9694ac8cdc2a8d5082f5e350de010ea5a]{
 -- Page 2, Offset 4937.
 -- 恐る恐る訊ねる草十郎と、つまらなそうに答える青子。
-  Sōjūrō posa timidement une question à laquelle Aoko répondit d'un air indifférent.
+　Sōjūrō posa timidement une question à laquelle Aoko répondit d'un air indifférent.
 
 }
 [sha:0f269a87824febb9a5fddec7b1a61d0ad0e1314d]{
 -- Page 2, Offset 4938.
 -- 左曲がりの回廊は段々と、その直線距離を短くしていた。
-  La longueur du couloir jusqu'au prochain virage sur la gauche raccourcissait progressivement.
+　La longueur du couloir jusqu'au prochain virage sur la gauche raccourcissait progressivement.
 
 }
 [sha:61b837ecb6af99f63caddb586f21bab9b28caca3]{
 -- Page 2, Offset 4939.
 -- 先ほどまではまっすぐに三十メートル。
-  Peu avant, il y avait encore trente mètres de ligne droite.
+　Peu avant, il y avait encore trente mètres de ligne droite.
 
 }
 [sha:21f01550682aa535a9a33694de0d486bebf0c8b1]{
 -- Page 2, Offset 4940.
 -- 今では十五メートルほどで曲がり角に突き当たる。
-  À présent, ils se retrouvaient au virage suivant après environ quinze mètres.
+　À présent, ils se retrouvaient au virage suivant après environ quinze mètres.
 
 }
 [sha:0bad15aa9542c8599b3f0d4da79c10c9a68316cf]{
@@ -97,13 +97,13 @@
 [sha:65ded178c0a8b91e1c162f266e3bbe6827fec5a5]{
 -- Page 3, Offset 4944.
 -- む、と眉間に<皺|しわ>の草十郎。
-  Sōjūrō fronça les sourcils.
+　Sōjūrō fronça les sourcils.
 
 }
 [sha:403dcb0ffb2dd45560f3028f2e25c69453626b58]{
 -- Page 3, Offset 4945.
 -- 質問にきちんと答えてくれるのはありがたいが、聞けば聞くほど聴き慣れない単語が出てくるのは困りものだ。
-  Il était reconnaissant qu'elle réponde sans détour à ses questions, mais plus il écoutait, plus il entendait un vocabulaire qui lui était inconnu, et ça l'incommodait.
+　Il était reconnaissant qu'elle réponde sans détour à ses questions, mais plus il écoutait, plus il entendait un vocabulaire qui lui était inconnu, et ça l'incommodait.
 
 }
 [sha:debf24e92207ea08762c03f3d6d319c370be2e0c]{
@@ -115,19 +115,19 @@
 [sha:1601791c101f3d34828524c78a68f2959962b7cb]{
 -- Page 4, Offset 4947.
 -- あいつは曲がり<角|かど>一つぶん向こうだ。少し休もう」
-  Elle est un virage plus loin. Reposons-nous un peu.」
+　Elle est un virage plus loin. Reposons-nous un peu.」
 
 }
 [sha:2e8430e4189ad8c2f6b00a6d27d7922be1977098]{
 -- Page 4, Offset 4948.
 -- 青子の傷を気遣って声をかける。
-  Il lui parla d'une voix montrant qu'il se faisait du souci pour sa blessure.
+　Il lui parla d'une voix montrant qu'il se faisait du souci pour sa blessure.
 
 }
 [sha:e87e439520f06d5f9e6f383dfd83f4c43b828533]{
 -- Page 4, Offset 4949.
 -- しかし、彼女は不機嫌そうに首を振った。
-  Cependant, elle secoua la tête avec mécontentement.
+　Cependant, elle secoua la tête avec mécontentement.
 
 }
 [sha:a419ef9149ce16d8071476aaa9f61c554fec3598]{
@@ -139,13 +139,13 @@
 [sha:5675ef91938f697fa7b453803402aec7316c2a48]{
 -- Page 5, Offset 4951.
 -- なるほど、と頷く草十郎。
-  “Je vois”, fit Sōjūrō en acquiesçant.
+　“Je vois”, fit Sōjūrō en acquiesçant.
 
 }
 [sha:84ad6a111af3f98dee4fc69aa808c5d50ae23739]{
 -- Page 5, Offset 4952.
 -- と、それはともかくとして、
-  Et d'autre part...
+　Et d'autre part...
 
 }
 [sha:8d70c039e1fb076eef104f2647955b277d5da1bf]{
@@ -163,37 +163,37 @@
 [sha:889f4a2ad44a3c1040e4876ccd8ea516907bb4c9]{
 -- Page 6, Offset 4955.
 -- 実に簡潔な返答をしつつ、平和ぼけした獲物をむっと睨む青子だった。
-  Tout en répondant de façon nette et précise, Aoko fixait sombrement l'imbécile heureux qu'était sa proie.
+　Tout en répondant de façon nette et précise, Aoko fixait sombrement l'imbécile heureux qu'était sa proie.
 
 }
 [sha:adfaa0a29684fcc11028a557ff15832657af2265]{
 -- Page 7, Offset 4956.
 -- ふたりはさらに先の曲がり角へ。
-  Ils arrivèrent au virage suivant.
+　Ils arrivèrent au virage suivant.
 
 }
 [sha:2de2a7a2bdd9701254ee607b8e4d0177a55a80bb]{
 -- Page 7, Offset 4957.
 -- 通路二つ分のリードをとって、ようやく足が止められる。
-  Après avoir pris une avance de deux virages, ils purent enfin s'arrêter.
+　Après avoir pris une avance de deux virages, ils purent enfin s'arrêter.
 
 }
 [sha:a04a34647a9b5c8b0f50f80c41e204d6a363c2db]{
 -- Page 8, Offset 4958.
 -- 青子は息を整えながら背中に手を当てた。
-  Aoko porta la main à son dos tout en reprenant son souffle.
+　Aoko porta la main à son dos tout en reprenant son souffle.
 
 }
 [sha:68f5c1a7639e0915301e2555d0f68d3713499f15]{
 -- Page 8, Offset 4959.
 -- 先ほどは“ぜんぜん平気”と断言した青子だが、どうも強がりだったらしい。
-  Juste avant, elle avait affirmé qu'elle allait bien, mais visiblement, c'était du bluff.
+　Juste avant, elle avait affirmé qu'elle allait bien, mais visiblement, c'était du bluff.
 
 }
 [sha:5963210d23f09311f7135e244fd89ea02f5c81ad]{
 -- Page 8, Offset 4960.
 -- なぜなら、空気の読めない草十郎にも分かるぐらい空気が重い。
-  Parce que même pour Sōjūrō qui manquait singulièrement de perspicacité, l'atmosphère était pesante.
+　Parce que même pour Sōjūrō qui manquait singulièrement de perspicacité, l'atmosphère était pesante.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -205,49 +205,49 @@
 [sha:654fae21a73ac6e63a4ef0435572dbe13eaaf41f]{
 -- Page 9, Offset 4962.
 -- そんな青子の後ろで、さて、と腕を組む草十郎。
-  Derrière Aoko, Sōjūrō croisait les bras, se demandant quoi faire.
+　Derrière Aoko, Sōjūrō croisait les bras, se demandant quoi faire.
 
 }
 [sha:bde640f536efa2acc4b648bb65f64b25d1e8b866]{
 -- Page 9, Offset 4963.
 -- 鬼の居ぬ間になんとやらで、この隙に、彼は彼なりに現状把握などにトライしてみた。
-  Dans cet antre du démon, il profitait de cette occasion pour tenter de comprendre à sa façon la situation actuelle.
+　Dans cet antre du démon, il profitait de cette occasion pour tenter de comprendre à sa façon la situation actuelle.
 
 }
 [sha:72f2bb43332a3ff68db3ee6d7e715abe2eda5a37]{
 -- Page 10, Offset 4964.
 -- まず、自分は蒼崎青子に殺されかけた。
-  Tout d'abord, il avait failli se faire tuer par Aozaki Aoko.
+　Tout d'abord, il avait failli se faire tuer par Aozaki Aoko.
 
 }
 [sha:bc5ca4d0692b5abcbec13d046f2b3587e1ea2f20]{
 -- Page 10, Offset 4965.
 -- あわやというところで助けが入ったが、割って入った人物は二日前の夜、青子によって燃やされた『怪奇腕が伸びる人間』だった。
-  Il avait reçu de l'aide juste à temps, mais la personne qui l'avait sauvé était “l'humaine au bras étrange qui s'allonge” qu'Aoko avait réduite en cendres deux nuits auparavant.
+　Il avait reçu de l'aide juste à temps, mais la personne qui l'avait sauvé était “l'humaine au bras étrange qui s'allonge” qu'Aoko avait réduite en cendres deux nuits auparavant.
 
 }
 [sha:6d2fd4edd625abaa887388cb7e5cedbf3ffe2b14]{
 -- Page 10, Offset 4966.
 -- よく見えなかったが、とりあえず女性っぽかったので彼女と呼称する。
-  Il n'avait pas bien vu, mais elle ressemblait à une femme, alors il la désignait comme telle.
+　Il n'avait pas bien vu, mais elle ressemblait à une femme, alors il la désignait comme telle.
 
 }
 [sha:94940fff675c14db820648ff2d84fa92369c59c9]{
 -- Page 11, Offset 4967.
 -- その彼女の攻撃で青子は背中を負傷し、一旦逃走。
-  Aoko avait été blessée au dos par son attaque, et pour le moment, ils s'enfuyaient.
+　Aoko avait été blessée au dos par son attaque, et pour le moment, ils s'enfuyaient.
 
 }
 [sha:98e82bbee90f28b467c3d405e57e5ac45bc4cb90]{
 -- Page 11, Offset 4968.
 -- その際、なぜか草十郎の手を取ったが、それはどさくさに紛れて<草十郎|エモノ>が逃げ出すのを阻止するため、とのコトだった。
-  Au cours de la fuite, elle avait pris la main de Sōjūrō pour une raison qu'il ignorait, mais il s'était avéré que c'était pour empêcher sa proie de s'échapper en profitant de la confusion.
+　Au cours de la fuite, elle avait pris la main de Sōjūrō pour une raison qu'il ignorait, mais il s'était avéré que c'était pour empêcher sa proie de s'échapper en profitant de la confusion.
 
 }
 [sha:ce366d4efbbc16ef667ccd57cb9dd3a9e5ae6773]{
 -- Page 11, Offset 4969.
 -- つまり―――
-  En d'autres termes―――
+　En d'autres termes―――
 
 }
 [sha:669a60e7d07b9cf2b3be7987ba384076eb974167]{
@@ -265,13 +265,13 @@
 [sha:4e20d9b5485e64db77f7ea9c6f0200617cbf8be3]{
 -- Page 12, Offset 4972.
 -- などとタンカをきる青子の表情は、<草十郎|しろうと>目にも厳しい。
-  Même un amateur pouvait se rendre compte que l'assurance d'Aoko n'était que du bluff.
+　Même un amateur pouvait se rendre compte que l'assurance d'Aoko n'était que du bluff.
 
 }
 [sha:397a2b7587edfb6a7ae7aff76e2704bce641f92b]{
 -- Page 12, Offset 4973.
 -- 彼女の体のダメージは無視できるものではなく、状況は楽観できるものではない。
-  Les dégâts que son corps avait subis n'étaient pas du genre à pouvoir être ignorés, et la situation n'était pas propice à l'optimisme.
+　Les dégâts que son corps avait subis n'étaient pas du genre à pouvoir être ignorés, et la situation n'était pas propice à l'optimisme.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -283,7 +283,7 @@
 [sha:190b36c19853a63b595db628c07e21eb0bc7821f]{
 -- Page 12, Offset 4975.
 -- だが、彼女の目に秘められた激情が、その一切を否定する。
-  Pourtant, l'émotion violente qui brûlait au fond de ses yeux rejetait tout cela en bloc.
+　Pourtant, l'émotion violente qui brûlait au fond de ses yeux rejetait tout cela en bloc.
 
 }
 [sha:9ce44743831a87dc661e024891dad935780fea07]{
@@ -295,55 +295,55 @@
 [sha:aec737e5a94428aaa21c948d992a68a30a6bcf06]{
 -- Page 13, Offset 4977.
 -- あの右腕は回路を混線させる<術式妨害|ジャミング>ってワケね―――”
-  Donc ce bras droit sert de sort de brouillage qui rend instable le circuit―――”
+　Donc ce bras droit sert de sort de brouillage qui rend instable le circuit―――”
 
 }
 [sha:d8fcc20853c3e5d6d7cc18947912435494e45b3c]{
 -- Page 13, Offset 4978.
 -- 本来ならピンチに震え上がるところだが、青子の拳を震わせたのは怒りだけだ。
-  Normalement, elle aurait dû trembler de peur à cause du danger, et pourtant, ce qui faisait trembler les poings d'Aoko n'était rien d'autre que la colère.
+　Normalement, elle aurait dû trembler de peur à cause du danger, et pourtant, ce qui faisait trembler les poings d'Aoko n'était rien d'autre que la colère.
 
 }
 [sha:23b10f2a26a266b161d3721177b5710403daba7c]{
 -- Page 14, Offset 4979.
 -- 術式妨害なんて初歩の初歩、かけだしの半人前にしか通じない。
-  Le sort de brouillage était basique, il ne fonctionnait que sur les novices des novices.
+　Le sort de brouillage était basique, il ne fonctionnait que sur les novices des novices.
 
 }
 [sha:65bb4a725eed919c2a191bdc2712dce2672d4081]{
 -- Page 14, Offset 4980.
 -- 彼女の同居人レベルなら、あんなジャミングはそれこそ腕が触れた時点で弾き、接触しようとした相手の回路を逆に焼き切ってしまうだろう。
-  Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touché, et aurait au contraire brûlé le Circuit adverse.
+　Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touché, et aurait au contraire brûlé le Circuit adverse.
 
 }
 [sha:2b70501407169131d29d1205bb5b7e9309a9feff]{
 -- Page 14, Offset 4981.
 -- このように、他の魔術師と回路を繋げよう、なんて行為は自分の心臓を差し出すに等しい。卓越した魔術師同士の術理戦において、何の役にもたたない<駄機能|だきのう>だ。
-  L'action de relier ainsi son Circuit à celui d'un autre Mage revenait à lui offrir son propre cœur sur un plateau. Dans un combat technique entre deux excellents Mages, c'était une capacité inutile qui n'avait absolument aucun intérêt.
+　L'action de relier ainsi son Circuit à celui d'un autre Mage revenait à lui offrir son propre cœur sur un plateau. Dans un combat technique entre deux excellents Mages, c'était une capacité inutile qui n'avait absolument aucun intérêt.
 
 }
 [sha:4cee491f4ddc9bde47d3174987d0fe927202be51]{
 -- Page 15, Offset 4982.
 -- なのに、あの敵にはそんな“余分な”機能が備えられていた。
-  Pourtant, la marionnette était équipée de cette capacité “inutile”.
+　Pourtant, la marionnette était équipée de cette capacité “inutile”.
 
 }
 [sha:68d385b86ef824ae8d7d8fc72286354f7fa2a6fe]{
 -- Page 15, Offset 4983.
 -- ここ数週間の、三咲の管理地を巡る戦いっぷりから出た、敵の結論。二日前、正式に魔術師として踏みだした彼女に対する評価がそれ。
-  C'était la solution qu'avait choisie son ennemi après avoir fait le tour de la terre administrée de Misaki et y avoir combattu pendant ces quelques semaines. C'était son évaluation d'Aoko après être devenue officiellement une Mage deux jours auparavant.
+　C'était la solution qu'avait choisie son ennemi après avoir fait le tour de la terre administrée de Misaki et y avoir combattu pendant ces quelques semaines. C'était son évaluation d'Aoko après être devenue officiellement une Mage deux jours auparavant.
 
 }
 [sha:238d35c2318c7b8233c0a35598c75f7743bbd982]{
 -- Page 15, Offset 4984.
 -- 要するに―――
-  En d'autres termes―――
+　En d'autres termes―――
 
 }
 [sha:52ccf22d16a49b637267134e81d096e4813be098]{
 -- Page 15, Offset 4985.
 -- あの<人形|てき>は、蒼崎青子を完っ全に舐めている。
-  Cet ennemi se moquait complètement d'Aozaki Aoko.
+　Cet ennemi se moquait complètement d'Aozaki Aoko.
 
 }
 [sha:b44f71a7e2cf4ce871cff29aaa2a48381140e92f]{
@@ -355,13 +355,13 @@
 [sha:37ba09aed8caa89f037f3408392e5903fb16618c]{
 -- Page 16, Offset 4987.
 -- 怒りはそのままに、浮き足立つ激情を冷却する。
-  Étouffant sa colère, elle tâchait d'endiguer ses émotions en pleine effervescence.
+　Étouffant sa colère, elle tâchait d'endiguer ses émotions en pleine effervescence.
 
 }
 [sha:436064dc5416d28ff8a687bc5384d5f8f6e52be6]{
 -- Page 16, Offset 4988.
 -- 十七歳の少女には似つかわしくない、達観した狩人の顔。
-  Elle affichait le visage d'un prédateur implacable, ce qui semblait étrange chez une jeune fille de 17 ans.
+　Elle affichait le visage d'un prédateur implacable, ce qui semblait étrange chez une jeune fille de 17 ans.
 
 }
 [sha:276dacd15bb3c910f173f90204079036430ba3f7]{
@@ -385,7 +385,7 @@
 [sha:134c32bf026040cf186069d7a0c79e784aa03a6e]{
 -- Page 17, Offset 4992.
 -- 喜んでいいのか悲しんでいいのか、草十郎には難しい返答だった。
-  Devait-il s'en réjouir ou se sentir mortifié ? Pour Sōjūrō, c'était une question difficile.
+　Devait-il s'en réjouir ou se sentir mortifié ? Pour Sōjūrō, c'était une question difficile.
 
 }
 [sha:0a282d05830ca9a50e9a509dae1c0943171b19d2]{
@@ -397,19 +397,19 @@
 [sha:5fa72207c5e74ffa905b2912ae39e128998fff71]{
 -- Page 19, Offset 4994.
 -- 青子は<応|こた>えず、目前の闇を見詰めている。
-  Aoko ne répondit rien et regardait l'obscurité devant elle.
+　Aoko ne répondit rien et regardait l'obscurité devant elle.
 
 }
 [sha:f33042fab2aa93efd0f6d5d05fa55ed7fad84463]{
 -- Page 19, Offset 4995.
 -- 沈黙は重く、まとわりつく闇は締めつける<真綿|まわた>のようだ。
-  Le silence était pesant, et les ténèbres environnantes faisaient penser à un piège qui se refermait sur eux.
+　Le silence était pesant, et les ténèbres environnantes faisaient penser à un piège qui se refermait sur eux.
 
 }
 [sha:0442d6ececb0d6cd748dec51c2219ebe193254ef]{
 -- Page 19, Offset 4996.
 -- それでも、完全に自分を無いものと扱う青子に臆さず、草十郎は続けた。
-  Même ainsi, Sōjūrō continua sans hésiter face à une Aoko qui l'ignorait complètement.
+　Même ainsi, Sōjūrō continua sans hésiter face à une Aoko qui l'ignorait complètement.
 
 }
 [sha:de2f0dcfb65f99ae649202aa0bc3299da2ab6e2a]{
@@ -421,13 +421,13 @@
 [sha:0ca796e32f98ed2b4db0f9daba60a7dafe27dd73]{
 -- Page 19, Offset 4998.
 -- <粛々|しゅくしゅく>と。
-  Calmement,
+　Calmement,
 
 }
 [sha:b823a6b16e1d6fe09a9cde5999d9b5add6861e0e]{
 -- Page 19, Offset 4999.
 -- その行為を、暗闇から引きずりだすように。
-  comme si un acte pareil tirait son origine du plus profond des ténèbres.
+　comme si un acte pareil tirait son origine du plus profond des ténèbres.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -439,19 +439,19 @@
 [sha:22fbaaa2ae6b37853eb745c4b3b70f90aa19ed5a]{
 -- Page 20, Offset 5001.
 -- 返事はない。
-  Pas de réponse.
+　Pas de réponse.
 
 }
 [sha:d55b68dbc71bb69655e59bde476f84860834d397]{
 -- Page 20, Offset 5002.
 -- 薄影の廊下に、ふたりの息遣いだけが響く。
-  Dans le sombre corridor, seules leurs respirations rompaient le silence.
+　Dans le sombre corridor, seules leurs respirations rompaient le silence.
 
 }
 [sha:fbe41df6d0faae4608e27aafebc51a57f696ef73]{
 -- Page 21, Offset 5003.
 -- 罪を問いかける草十郎と、それを無視し続ける魔法使いの少女。
-  Sōjūrō demandait si elle allait commettre un autre crime, et la jeune Mage continuait de l'ignorer.
+　Sōjūrō demandait si elle allait commettre un autre crime, et la jeune Mage continuait de l'ignorer.
 
 }
 [sha:f96a78a8deb1c3239afa49c1d79a8e625f089121]{
@@ -469,19 +469,19 @@
 [sha:2c18d1805b7cb641545ef5eec9189f8a43c1bdf0]{
 -- Page 21, Offset 5006.
 -- それが貴方のキーワードみたいね」
-  On dirait que c'est une sorte de mot-clef pour toi, hein.」
+　On dirait que c'est une sorte de mot-clef pour toi, hein.」
 
 }
 [sha:f9cd66ce9498af3dd6cc1d24123bf9b93c04a991]{
 -- Page 21, Offset 5007.
 -- 抑揚のない声で、青子は呟いた。
-  Aoko murmura d'une voix monocorde,
+　Aoko murmura d'une voix monocorde,
 
 }
 [sha:dae21a9ee2485c48f798ea840eed86c144e50b16]{
 -- Page 21, Offset 5008.
 -- 観念したようにも、軽蔑したようにも取れる、ため息をこぼしながら。
-  tout en lâchant un soupir qui pouvait être pris comme de la résignation ou du mépris.
+　tout en lâchant un soupir qui pouvait être pris comme de la résignation ou du mépris.
 
 }
 [sha:323fa0095259752e0fefba542f86dc4ac9d69d22]{
@@ -499,25 +499,25 @@
 [sha:5156f42b7d54922253bd40dc792fa430691b5872]{
 -- Page 22, Offset 5011.
 -- それと。言っとくけど、あいつは人間じゃないわ。
-  Et aussi, je te préviens, mais elle n'est pas humaine.
+　Et aussi, je te préviens, mais elle n'est pas humaine.
 
 }
 [sha:c84161aaab38bcad2a67a894da50295c9813b933]{
 -- Page 22, Offset 5012.
 -- 信じられないだろうけど自分の意志で動く人形なの。この前のも、今のヤツもね」
-  Tu vas peut-être trouver ça incroyable, mais c'est une marionnette qui bouge de son propre chef. Celle-ci et celle d'avant aussi.」
+　Tu vas peut-être trouver ça incroyable, mais c'est une marionnette qui bouge de son propre chef. Celle-ci et celle d'avant aussi.」
 
 }
 [sha:c358074a68c1ba3dc13c965a926a431283f01a67]{
 -- Page 22, Offset 5013.
 -- ふーん、と素直に頷く草十郎。
-  “Hmm”, acquiesça sans broncher Sōjūrō.
+　“Hmm”, acquiesça sans broncher Sōjūrō.
 
 }
 [sha:c36af29a9dafdc1762804d9830874c7d40c5293f]{
 -- Page 22, Offset 5014.
 -- 青子の話を信じないどころか、納得さえしている風だ。
-  Non seulement il croyait son histoire, mais il semblait aussi l'accepter.
+　Non seulement il croyait son histoire, mais il semblait aussi l'accepter.
 
 }
 [sha:105cc3678bf36ae5526554c878575f9bc3a9fed0]{
@@ -559,13 +559,13 @@ C'est juste que pour la marionnette, ce n'est pas grand-chose.」
 [sha:7d1ce0e8734e40b993e3d4547e70d0bb1b1878cb]{
 -- Page 24, Offset 5021.
 -- ばたり、と倒れこみたい衝動をギリギリで<堪|こら>える青子。
-  Aoko résista de justesse à l'envie de s'effondrer au sol.
+　Aoko résista de justesse à l'envie de s'effondrer au sol.
 
 }
 [sha:005079dfd54064d633802dcdebbfb9b90482e211]{
 -- Page 24, Offset 5022.
 -- そうなのだった。
-  C'était vrai.
+　C'était vrai.
 
 }
 [sha:c97883027aa0a01188d34a8f08b727651e178678]{
@@ -577,31 +577,31 @@ Cet idiot était ce genre d'énergumène.
 [sha:9a3e48dae9d2afb8f411578d78b1a9043e205ae1]{
 -- Page 24, Offset 5024.
 -- 天然保護動物なみに隔離された山奥からの転入生で、常識はずれの常識の無さで、見るものすべてが奇想天外という異邦人。
-  Un élève transféré qui venait du fin fond d'une montagne isolée et que l'on pouvait voir comme une sorte d'espèce protégée un peu stupide. Un étranger qui trouvait bizarre tout ce qu'il voyait, et au sens commun différent de celui des habitants de la ville.
+　Un élève transféré qui venait du fin fond d'une montagne isolée et que l'on pouvait voir comme une sorte d'espèce protégée un peu stupide. Un étranger qui trouvait bizarre tout ce qu'il voyait, et au sens commun différent de celui des habitants de la ville.
 
 }
 [sha:b4c556d5b839cd001bd0d9538506825a8eb7de25]{
 -- Page 25, Offset 5025.
 -- 自動車という鉄の塊が動くなら、人形だって動くと思っても不思議はない。
-  Si une masse de fer appelée voiture bougeait, alors il n'était pas bizarre de penser qu'une marionnette le puisse aussi.
+　Si une masse de fer appelée voiture bougeait, alors il n'était pas bizarre de penser qu'une marionnette le puisse aussi.
 
 }
 [sha:dfc3d789d75f838efbcffcf8ffb8ef5ba74010b5]{
 -- Page 25, Offset 5026.
 -- ……なので、もしかしたら。
-  ...... Donc, si ça se trouvait,
+　...... Donc, si ça se trouvait,
 
 }
 [sha:fae8f03e12c8b41088211030657a97ddd12300e9]{
 -- Page 25, Offset 5027.
 -- 彼にとってあの夜の出来事は“特別”なことではなく。
-  peut-être que pour lui, l'évènement de cette nuit-là n'était pas quelque chose de “spécial”,
+　peut-être que pour lui, l'évènement de cette nuit-là n'était pas quelque chose de “spécial”,
 
 }
 [sha:195979ae4a844ea4460eeb73ce1e2a4cb9ff88b0]{
 -- Page 25, Offset 5028.
 -- 都会ではよくある風景として、誰に言いふらすような事ではなかったのかもしれない。
-  mais une scène qui se déroulait souvent en ville, et qu'il n'avait pas besoin de raconter à quiconque.
+　mais une scène qui se déroulait souvent en ville, et qu'il n'avait pas besoin de raconter à quiconque.
 
 }
 [sha:3bcb370ac3e47f7a46f881f52b0a01291fc2bd77]{
@@ -613,7 +613,7 @@ Cet idiot était ce genre d'énergumène.
 [sha:8897e6177eb6d68a84d018607c2b337ea8128b74]{
 -- Page 26, Offset 5030.
 -- ……調子が狂うのも当然だった。普通は私に襲われた時点でもっと違う反応をするはずなのに。
-  ...... Je comprends pourquoi tu me mets aussi mal à l'aise. Normalement, à partir du moment où je t'ai pris en chasse, tu aurais dû avoir une réaction bien différente.
+　...... Je comprends pourquoi tu me mets aussi mal à l'aise. Normalement, à partir du moment où je t'ai pris en chasse, tu aurais dû avoir une réaction bien différente.
 
 }
 [sha:d6ebaf4d568b01c1f0bbc1b9952735bce0c4411e]{
@@ -625,60 +625,60 @@ Comme dire “tu es un monstre” ou “un fantôme”. Mais au contraire, tu t'
 [sha:85b8f1f5f0ec9069e54cc2dce967614cbe83af64]{
 -- Page 26, Offset 5032.
 -- ……なんか<莫|ば><迦|か>みたいね、私」
-  ...... J'ai l'impression d'être une idiote, moi.」
+　...... J'ai l'impression d'être une idiote, moi.」
 
 }
 [sha:2cadbd255ae9d4e63d569f62b42d6a99c97c3de4]{
 -- Page 27, Offset 5033.
 -- 張りつめた彼女の顔が、一瞬だけ元に戻る。
-  Son visage inflexible redevint normal pendant un instant.
+　Son visage inflexible redevint normal pendant un instant.
 
 }
 [sha:89479f2eff836fd8973783c70a4474a33ca1f1f2]{
 -- Page 27, Offset 5034.
 -- そう。それならもっと違った方法で、誰も傷つかずに済む選択があったかも知れない。
-  Oui. Dans ce cas, elle aurait peut-être pu employer une méthode différente, trouver une solution où personne ne serait blessé.
+　Oui. Dans ce cas, elle aurait peut-être pu employer une méthode différente, trouver une solution où personne ne serait blessé.
 
 }
 [sha:5a18948ec7bcf4002948ddaf16194de71385a9ec]{
 -- Page 27, Offset 5035.
 -- けれどもう遅い。
-  Mais c'était trop tard.
+　Mais c'était trop tard.
 
 }
 [sha:b0da280d8f4280c6c32189da014c910fa254baa0]{
 -- Page 27, Offset 5036.
 -- 基本、人生にやり直しはない。あってはならない。
-  Fondamentalement, dans la vie, il n'est pas possible de recommencer les choses. Une telle possibilité ne peut exister.
+　Fondamentalement, dans la vie, il n'est pas possible de recommencer les choses. Une telle possibilité ne peut exister.
 
 }
 [sha:04b1efcb696af54194dff73df483d932b28e11b2]{
 -- Page 28, Offset 5037.
 -- 些細な勘違い、勝手な思いこみで状況は悪化しすぎた。
-  La situation s'était irrémédiablement aggravée à cause d'une simple erreur et d'une mauvaise interprétation purement égoïste.
+　La situation s'était irrémédiablement aggravée à cause d'une simple erreur et d'une mauvaise interprétation purement égoïste.
 
 }
 [sha:3687459cea0f8efc69a383b80f8c675feaea732f]{
 -- Page 28, Offset 5038.
 -- ここまで関わった以上、彼女は草十郎を手にかけて秘密を守らなければならない。
-  À partir du moment où elle l'avait impliqué à ce point, elle devait tuer Sōjūrō et protéger son secret.
+　À partir du moment où elle l'avait impliqué à ce point, elle devait tuer Sōjūrō et protéger son secret.
 
 }
 [sha:04f02a895ab6bbad6baf16e27f7b4a2c8fe66852]{
 -- Page 28, Offset 5039.
 -- ……本当はもうひとつぐらい、最善の選択肢があっただろうけど後の祭り。
-  ...... En réalité, il devait y avoir au moins une autre option bien meilleure, mais il était trop tard à présent.
+　...... En réalité, il devait y avoir au moins une autre option bien meilleure, mais il était trop tard à présent.
 
 }
 [sha:ffa219382039ddf652ceffccd589ef8558a80da1]{
 -- Page 28, Offset 5040.
 -- 所詮、人間の関わり合いなんて相互誤解で回るもの。
-  Après tout, les relations humaines fonctionnent grâce à des faux-semblants.
+　Après tout, les relations humaines fonctionnent grâce à des faux-semblants.
 
 }
 [sha:316b734b960d2d0c7c0c8f52cd2d82d7d7460907]{
 -- Page 28, Offset 5041.
 -- <意|い><図|と>の編み違いで転がっていく<織物|おりもの>だ。
-  Elles sont similaires à un château de cartes qui s'effondrerait à la moindre erreur dans l'interprétation des intentions d'autrui.
+　Elles sont similaires à un château de cartes qui s'effondrerait à la moindre erreur dans l'interprétation des intentions d'autrui.
 
 }

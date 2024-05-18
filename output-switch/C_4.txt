@@ -1,25 +1,25 @@
 [sha:2857860911c689de7ff389c5acff6a3b1ad909ba]{
 -- Page 0, Offset 18134.
 -- 胸の<鼓動|おと>が平常時より高い。
-  Son cœur battait plus fort que d'habitude.
+　Son cœur battait plus fort que d'habitude.
 
 }
 [sha:1693605258a9c9d7cb71977886c53d682a1bce6c]{
 -- Page 0, Offset 18135.
 -- <千々|ちぢ>に乱れていく思考を、彼は慎重に抑えつける。
-  Il refoulait de son mieux une myriade de pensées chaotiques.
+　Il refoulait de son mieux une myriade de pensées chaotiques.
 
 }
 [sha:3e15b4d2024365bb5d8239f248a068b8e535d18c]{
 -- Page 0, Offset 18136.
 -- 心を弱める雑念。
-  Ce genre d'idées incohérentes risquaient de lui miner le moral.
+　Ce genre d'idées incohérentes risquaient de lui miner le moral.
 
 }
 [sha:ad43aedcf995323c24f2a101b613a7a79a126393]{
 -- Page 0, Offset 18137.
 -- 寄り道でしかない不要な意識を、できるだけ見えない<左脳|ところ>に整理する。
-  Il faisait en sorte de repousser autant que possible ces réflexions sans intérêt dans un recoin de sa conscience.
+　Il faisait en sorte de repousser autant que possible ces réflexions sans intérêt dans un recoin de sa conscience.
 
 }
 [sha:7210839f45ef73b318e1583c83277cbf04b7aebe]{
@@ -31,43 +31,43 @@
 [sha:db725f807888e151b5adaeefff586be3f8da929a]{
 -- Page 1, Offset 18139.
 -- 呼吸が速いのも、力が入っているのも、<偏|ひとえ>に自分の責任だ。
-  S'il était essoufflé et tendu, c'était de sa propre faute.
+　S'il était essoufflé et tendu, c'était de sa propre faute.
 
 }
 [sha:f34f4d9b85203fdb57e614b63c3ea044b8466eee]{
 -- Page 1, Offset 18140.
 -- 彼は努めて、冷静であれと繰り返す。
-  Il se répétait sans discontinuer de rester calme.
+　Il se répétait sans discontinuer de rester calme.
 
 }
 [sha:5d683141fb22006ba4a15fc15f26dc3b169612d1]{
 -- Page 2, Offset 18141.
 -- 教会を出てからここまで、一秒も止まらなかった。
-  Depuis son départ de l'église, il ne s'était pas arrêté une seule seconde.
+　Depuis son départ de l'église, il ne s'était pas arrêté une seule seconde.
 
 }
 [sha:1ec60ab5d04cda98115fefb19e1f2cace15400ce]{
 -- Page 2, Offset 18142.
 -- ここからはどうだろう。
-  Mais en serait-il capable encore longtemps ?
+　Mais en serait-il capable encore longtemps ?
 
 }
 [sha:087151fefbf4b7affff9f3dc3fe0afa7a7114d3c]{
 -- Page 2, Offset 18143.
 -- 信号が多い。
-  Les feux de signalisation étaient nombreux.
+　Les feux de signalisation étaient nombreux.
 
 }
 [sha:6094013d63a829ed1ced3441d5b7705e5623844e]{
 -- Page 2, Offset 18144.
 -- 人が多い。
-  Les gens étaient nombreux.
+　Les gens étaient nombreux.
 
 }
 [sha:77c7cd1a386d508f0bc48df0981673b44e430b64]{
 -- Page 2, Offset 18145.
 -- タクシーを使うのも手ではあるが、クリスマスの街は混みあっている。
-  Prendre un taxi aurait pu être une option, mais avec Noël, la ville était paralysée par les embouteillages.
+　Prendre un taxi aurait pu être une option, mais avec Noël, la ville était paralysée par les embouteillages.
 
 }
 [sha:63f785989f8c98136fc194a7823b66e65ad8ac17]{
@@ -79,91 +79,91 @@ De plus, trop de personnes attendaient un taxi. Il préféra se fier à ses jamb
 [sha:cbf612a8bab268bc7212f2638423a4dd3270bff7]{
 -- Page 2, Offset 18147.
 -- 昨夜以上に最短距離で行けるよう、夜の街を駆けていく。
-  Il traversait la ville nocturne de façon à prendre un chemin encore plus court que la veille.
+　Il traversait la ville nocturne de façon à prendre un chemin encore plus court que la veille.
 
 }
 [sha:6083a4cae38bc83b9ee6546bdf91bf7dc320d609]{
 -- Page 3, Offset 18148.
 -- 胸の<鼓|お><動|と>は針のようだ。
-  Les battements de son cœur frappaient comme l'aiguille d'une horloge.
+　Les battements de son cœur frappaient comme l'aiguille d'une horloge.
 
 }
 [sha:62983a6f39d87daf9bd2c6643c831940a100c3c7]{
 -- Page 3, Offset 18149.
 -- <早鐘|はやがね>は依然として鳴り続けている。
-  Le tocsin ne cessait de sonner.
+　Le tocsin ne cessait de sonner.
 
 }
 [sha:99c5f9f68217ebef56db769e21802fbf535e91f4]{
 -- Page 3, Offset 18150.
 -- この程度の距離で音を上げる事はないのに、まったくもって落ち着かない。
-  Il n'aurait pas dû s'emballer pour une si petite distance, mais il ne montrait aucun signe d'apaisement.
+　Il n'aurait pas dû s'emballer pour une si petite distance, mais il ne montrait aucun signe d'apaisement.
 
 }
 [sha:a98a9924f0a6e4f824a9eb8259e8a07831231834]{
 -- Page 4, Offset 18151.
 -- ふわふわした<自分|からだ>には、その音はいささか大きすぎるようだった。
-  Ce son semblait un peu trop bruyant pour lui et sa nonchalance.
+　Ce son semblait un peu trop bruyant pour lui et sa nonchalance.
 
 }
 [sha:4ced82501dba7c13e8e148711d4c4cb8588297c5]{
 -- Page 4, Offset 18152.
 -- 嫌な予感だけが先走ってしまう。
-  Il lui donnait même un mauvais pressentiment.
+　Il lui donnait même un mauvais pressentiment.
 
 }
 [sha:6fe7ac5ae5225ec4cd3d6fa2da7c677d56f79d69]{
 -- Page 4, Offset 18153.
 -- でも冷静に、冷静に。
-  Mais il lui fallait rester calme, toujours calme.
+　Mais il lui fallait rester calme, toujours calme.
 
 }
 [sha:ddc4648f6f0c0cf7509fc31d5b675bd02f5ac6ba]{
 -- Page 4, Offset 18154.
 -- だって、それだけが彼の武器だ。
-  Car là se trouvait sa seule arme.
+　Car là se trouvait sa seule arme.
 
 }
 [sha:11b0b1505c48ffe9a0d6cf888d7d259b930d9cdd]{
 -- Page 4, Offset 18155.
 -- 無力であるが故に、落ち着く事だけが自分にできる最善だと、彼はよく理解していた。
-  Il était impuissant, et de ce fait, le mieux qu'il pouvait faire consistait à garder son sang-froid et il le savait bien.
+　Il était impuissant, et de ce fait, le mieux qu'il pouvait faire consistait à garder son sang-froid et il le savait bien.
 
 }
 [sha:1637147d877fc5ff8770b2240483c21e4a825656]{
 -- Page 5, Offset 18156.
 -- ―――反面。
-  ―――D'un autre côté,
+　―――D'un autre côté,
 
 }
 [sha:74ae912185cafbd41816c981a944400733c9ba93]{
 -- Page 5, Offset 18157.
 -- しゃにむに走るたび、胸の鼓動は速くなる。
-  son pouls s'accélérait pendant sa course effrénée.
+　son pouls s'accélérait pendant sa course effrénée.
 
 }
 [sha:ab421b1e42033e1d7f8d8201156f0ab2b0b994bf]{
 -- Page 6, Offset 18158.
 -- 月光が森をかすかに照らす。
-  Le clair de lune éclairait faiblement la forêt.
+　Le clair de lune éclairait faiblement la forêt.
 
 }
 [sha:72b1e5aad89c0793165991296b1922693282fc96]{
 -- Page 6, Offset 18159.
 -- はげ山にはそれだけで十分だった。
-  Sur une montagne déboisée, c'était suffisant.
+　Sur une montagne déboisée, c'était suffisant.
 
 }
 [sha:45dac588ae128da84edaea7f7d163cd04980caa3]{
 -- Page 6, Offset 18160.
 -- ふたり分の足跡を追いかける。
-  Il pistait les empreintes de pas des deux jeunes filles.
+　Il pistait les empreintes de pas des deux jeunes filles.
 
 }
 [sha:9c8564ec2a8599f6b383565dd2dd942614c1d381]{
 -- Page 6, Offset 18161.
 -- この先はいつかの遊園地と同じ、彼には関わりのない窮地だ。
-  Au bout de la piste l'attendait un guêpier dans lequel il n'avait pas sa place, tout comme lors de l'incident du parc d'attractions.
+　Au bout de la piste l'attendait un guêpier dans lequel il n'avait pas sa place, tout comme lors de l'incident du parc d'attractions.
 
 }
 [sha:675e9519c6aefcd420c8aa446945b7cc68d96935]{
@@ -175,85 +175,85 @@ De plus, trop de personnes attendaient un taxi. Il préféra se fier à ses jamb
 [sha:80d11e6953f43903fe6b515bd70265e2c0025987]{
 -- Page 7, Offset 18163.
 -- 戒めの言葉に、心音だけが高くなる。
-  Ces remontrances accéléraient les battements de son cœur.
+　Ces remontrances accéléraient les battements de son cœur.
 
 }
 [sha:869261cedc78ce04255a1d108fc2658995539688]{
 -- Page 7, Offset 18164.
 -- 地を蹴る足は勢いをまして、戸惑う心は後方に千切れて消えていく。
-  Ses foulées prirent de l'ampleur et ses dernières hésitations se volatilisèrent.
+　Ses foulées prirent de l'ampleur et ses dernières hésitations se volatilisèrent.
 
 }
 [sha:075b3c72c4f79ccc79d7b5f1808c74976b436dc3]{
 -- Page 8, Offset 18165.
 -- そんな事、言われるまでもない。
-  Il n'avait pas besoin qu'on le lui dise.
+　Il n'avait pas besoin qu'on le lui dise.
 
 }
 [sha:1e7d893d1f5d7b8589ff86ee4c71b515a61f9ad7]{
 -- Page 8, Offset 18166.
 -- 何より彼自身が痛感している。
-  Il en avait davantage conscience que quiconque.
+　Il en avait davantage conscience que quiconque.
 
 }
 [sha:4605634caebfbbca563cbb0905e66245f2258f17]{
 -- Page 8, Offset 18167.
 -- 役に立たないだけならまだマシで、最悪、彼女たちにとってマイナスにしかならないのではと。
-  Au mieux, il ne serait d'aucune utilité ; au pire, il ne ferait que gêner les deux filles.
+　Au mieux, il ne serait d'aucune utilité ; au pire, il ne ferait que gêner les deux filles.
 
 }
 [sha:9a464e00f0b705336a95e4dde70a8471ec002e94]{
 -- Page 8, Offset 18168.
 -- それが教会で一瞬だけ足を止めた呪縛だった。
-  Cet envoûtement l'avait retenu un instant à l'église.
+　Cet envoûtement l'avait retenu un instant à l'église.
 
 }
 [sha:cc645fae7fb6caf86da7ac41e625935e4e742eab]{
 -- Page 8, Offset 18169.
 -- でも、結局は―――
-  Mais en fin de compte―――
+　Mais en fin de compte―――
 
 }
 [sha:628b79f57fcd5ed716c7a8537f02eaa85d2e0cd1]{
 -- Page 9, Offset 18170.
 -- 体は、何もしない後悔より、砕け散る後悔を選んだ。
-  Son corps avait accepté d'être brisé plutôt que de ne rien faire.
+　Son corps avait accepté d'être brisé plutôt que de ne rien faire.
 
 }
 [sha:de38f2727307eec2d587dd7abf55e2f09a40a67a]{
 -- Page 9, Offset 18171.
 -- 森を走る足取りは乱れない。
-  Son allure ne faiblissait pas tandis qu'il traversait la forêt.
+　Son allure ne faiblissait pas tandis qu'il traversait la forêt.
 
 }
 [sha:dced7cb771ffc000d5bde05c98b8fa47d17f615c]{
 -- Page 9, Offset 18172.
 -- 乱れそうなのは鼓動だけ。
-  Seul son pouls s'emballait.
+　Seul son pouls s'emballait.
 
 }
 [sha:6b417cec2ee837e173fd1e5e281b64063bedce7d]{
 -- Page 9, Offset 18173.
 -- 自分の弱さだけが叫んでいる。
-  Seule sa faiblesse cherchait à s'exprimer.
+　Seule sa faiblesse cherchait à s'exprimer.
 
 }
 [sha:b07eb6f9ec1c67a384a1e446089e5321c8fc9b3c]{
 -- Page 10, Offset 18174.
 -- あの遊園地の空を駆け下りた時とまったく同じ。
-  Il ressentait exactement la même chose que lorsqu'il avait sauté dans le vide au parc d'attractions.
+　Il ressentait exactement la même chose que lorsqu'il avait sauté dans le vide au parc d'attractions.
 
 }
 [sha:cfff3fcf1c68a0398fbaa1e4dd6fe3c6f87c457b]{
 -- Page 10, Offset 18175.
 -- どんな理由も<経緯|いきさつ>も関係ない。
-  Les raisons et les circonstances n'avaient aucune importance.
+　Les raisons et les circonstances n'avaient aucune importance.
 
 }
 [sha:7a1380bbbfcc3f49320409a797b2e3b1098a5db8]{
 -- Page 10, Offset 18176.
 -- 結局のところ、
-  En conclusion,
+　En conclusion,
 
 }
 [sha:99d4a3cb64c0c5a0f677a7a4666016c3d01e6959]{
@@ -265,97 +265,97 @@ De plus, trop de personnes attendaient un taxi. Il préféra se fier à ses jamb
 [sha:a5341b04244c07dd6d0e87932efdd053a077e7b7]{
 -- Page 10, Offset 18178.
 -- ただそれだけの、純粋な欲求だ。
-  ses actes étaient dictés par ce simple désir.
+　ses actes étaient dictés par ce simple désir.
 
 }
 [sha:86191d8004f640866c411edf255194a9b497b3b0]{
 -- Page 11, Offset 18179.
 -- 心音は調子を崩さない。
-  Les battements de son cœur gardaient le rythme.
+　Les battements de son cœur gardaient le rythme.
 
 }
 [sha:eb2505a6f2cd39c35325c39d8a3a300935206a62]{
 -- Page 11, Offset 18180.
 -- 暗い森を走っていく間、彼の脳裏を占めていたものは一つだけ。
-  Une seule chose occupait son esprit pendant sa course dans la forêt nébuleuse.
+　Une seule chose occupait son esprit pendant sa course dans la forêt nébuleuse.
 
 }
 [sha:a6b5f1ff3b84590ee75ee1837a23f5f6f19f5fec]{
 -- Page 11, Offset 18181.
 -- 彼女たちへの心配でも、橙子に対する敵意でもない。
-  Mais ce n'était ni de l'inquiétude pour les deux filles, ni de l'animosité envers Tōko.
+　Mais ce n'était ni de l'inquiétude pour les deux filles, ni de l'animosité envers Tōko.
 
 }
 [sha:2cf2fcb5510572ddb72247cb4cb1bb11d4c36fd5]{
 -- Page 12, Offset 18182.
 -- 赤い花に飾られたような肢体。
-  Il se souvenait de ces membres qui semblaient avoir été décorés de fleurs écarlates,
+　Il se souvenait de ces membres qui semblaient avoir été décorés de fleurs écarlates,
 
 }
 [sha:b987cd176dc068a7d56d5735f59131777676354e]{
 -- Page 12, Offset 18183.
 -- 産声にも似た苦痛の声。
-  de ces cris de douleur semblables aux braillements d'un nouveau-né,
+　de ces cris de douleur semblables aux braillements d'un nouveau-né,
 
 }
 [sha:62959c59efb5ae4066c6e5bbacef2e067a197921]{
 -- Page 12, Offset 18184.
 -- 美しいと感じたものが、静かに死滅していく現実。
-  de cette réalité qui poussait les choses qui lui avaient paru magnifiques à disparaître inexorablement.
+　de cette réalité qui poussait les choses qui lui avaient paru magnifiques à disparaître inexorablement.
 
 }
 [sha:3a6cce558043bf2c0c95ed09964a1b2d52734d88]{
 -- Page 12, Offset 18185.
 -- なんて<拭|ぬぐ>いがたい悪夢。
-  C'était un cauchemar insoutenable.
+　C'était un cauchemar insoutenable.
 
 }
 [sha:f9fa5b4a4f667dfc5284355b906d7bc5adcf5f1d]{
 -- Page 12, Offset 18186.
 -- だから、もう二度と。
-  Et par conséquent,
+　Et par conséquent,
 
 }
 [sha:936a54296ba0da301da60829f701e98717c42dae]{
 -- Page 12, Offset 18187.
 -- あんな光景は、見たくなかったのに。
-  il ne voulait plus jamais voir une telle boucherie.
+　il ne voulait plus jamais voir une telle boucherie.
 
 }
 [sha:b061499f99f4c661c0f34fbe6a55612cb64bc2ce]{
 -- Page 13, Offset 18188.
 -- 森はじき終わろうとしている。
-  Il avait presque atteint l'orée du bois.
+　Il avait presque atteint l'orée du bois.
 
 }
 [sha:c2cd448fc439ffbe3c41129a225fc484a8afd8ea]{
 -- Page 13, Offset 18189.
 -- 月光はさえざえと旧校舎を示している。
-  Le clair de lune éclairait nettement l'ancien établissement.
+　Le clair de lune éclairait nettement l'ancien établissement.
 
 }
 [sha:0a375dad56dade25e50db5350ec3b535cc27137e]{
 -- Page 13, Offset 18190.
 -- その、絶望的なタイミングで思い至ってしまった。
-  C'est dans cette situation critique qu'il réalisa une chose.
+　C'est dans cette situation critique qu'il réalisa une chose.
 
 }
 [sha:339c10b5300ed21760e77f766d24c8a3d55ebed8]{
 -- Page 13, Offset 18191.
 -- あんな光景は二度と見たくない。
-  Il ne voulait plus jamais voir un tel spectacle,
+　Il ne voulait plus jamais voir un tel spectacle,
 
 }
 [sha:6d7b75f646224efc86e5687e78551fff41dd0616]{
 -- Page 13, Offset 18192.
 -- そのためにこうして自分は走っている。
-  et c'était pour éviter cela qu'il courait.
+　et c'était pour éviter cela qu'il courait.
 
 }
 [sha:f07d40fff34b1c21d7673cd022c2a19fa1eb6f91]{
 -- Page 13, Offset 18193.
 -- ……けれど。
-  ...... Cependant,
+　...... Cependant,
 
 }
 [sha:08bddb8fb125902a7ada5359560e41992aecb4e9]{
@@ -367,60 +367,60 @@ s'il y était confronté une seconde fois, comment parviendrait-il à garder son
 [sha:8feaac29bc1af12ce901c9d1494ad92345662a5b]{
 -- Page 14, Offset 18195.
 -- そうして、彼は広場に辿り着いた。
-  C'est avec cette question en tête qu'il atteignit enfin la clairière et la grande place.
+　C'est avec cette question en tête qu'il atteignit enfin la clairière et la grande place.
 
 }
 [sha:5ffd1c166ea998c3595f1064937c68e17ed2df8c]{
 -- Page 14, Offset 18196.
 -- 長く走った事で乱れた呼吸も、<瘧|おこり>のように上下する肩も、嘘のように消え去った。
-  Il avait couru longtemps, sa respiration était haletante et ses épaules se soulevaient irrégulièrement comme s'il était fiévreux. Cependant, ces mouvements s'estompèrent, à croire qu'ils n'avaient jamais eu lieu.
+　Il avait couru longtemps, sa respiration était haletante et ses épaules se soulevaient irrégulièrement comme s'il était fiévreux. Cependant, ces mouvements s'estompèrent, à croire qu'ils n'avaient jamais eu lieu.
 
 }
 [sha:07302dc0b3bcd4d651ec0caa62608b5421f1bcbd]{
 -- Page 14, Offset 18197.
 -- <排気|はいき>も<慣性|かんせい>もない、時間停止のような思考停止。
-  Il ne laissait rien paraître et ne se mouvait plus, toutes ses pensées s'étaient figées et le temps avec elles.
+　Il ne laissait rien paraître et ne se mouvait plus, toutes ses pensées s'étaient figées et le temps avec elles.
 
 }
 [sha:2411507d551d0bc3c262c60230f77c711f563fce]{
 -- Page 14, Offset 18198.
 -- 二度目は、たしかにあった。
-  Il y était bel et bien confronté de nouveau.
+　Il y était bel et bien confronté de nouveau.
 
 }
 [sha:bd2665a75e2bef910106ed638173f083c7074601]{
 -- Page 15, Offset 18199.
 -- 一度目のような目眩と吐き気はあったかどうか。
-  Cette fois-ci, il n'était pas sûr d'avoir subi de vertiges et de nausées.
+　Cette fois-ci, il n'était pas sûr d'avoir subi de vertiges et de nausées.
 
 }
 [sha:41a275e8651f9c8a9503bdb934d4154f33c5394b]{
 -- Page 15, Offset 18200.
 -- ここまで積み重ねてきた弱音。
-  Les peurs qui s'étaient accumulées jusque-là,
+　Les peurs qui s'étaient accumulées jusque-là,
 
 }
 [sha:26454c7844e928896528e8e8f4d5adeece929c32]{
 -- Page 15, Offset 18201.
 -- 頭を乱していた迷いは、より強い感情で、跡形もなく消え去った。
-  et les hésitations qui avaient troublé son esprit s'évanouirent sans laisser la moindre trace sous le coup d'une émotion encore plus forte.
+　et les hésitations qui avaient troublé son esprit s'évanouirent sans laisser la moindre trace sous le coup d'une émotion encore plus forte.
 
 }
 [sha:ed7401253bd1a224ecfacfde2eeb2c5334b4dc01]{
 -- Page 15, Offset 18202. Glued. Mods: @x.
 -- 完全に、<頭蓋|ずがい>の外にはじき出された。
- Elles étaient complètement sorties de son crâne.
+Elles étaient complètement sorties de son crâne.
 
 }
 [sha:9084d2787ebd0e80b9802e3afe116f903631d0bd]{
 -- Page 15, Offset 18203.
 -- ―――心音は胸を貫く<楔|くさび>のように。
-  ―――Les battements de son cœur lui évoquaient un pieu qui aurait percé sa poitrine.
+　―――Les battements de son cœur lui évoquaient un pieu qui aurait percé sa poitrine.
 
 }
 [sha:7717fe43a530908c0c764144d56687a26a1c80e4]{
 -- Page 15, Offset 18204.
 -- それはひときわ高い、意識を覚ます原初の鼓動。
-  C'étaient des pulsations puissantes et primitives qui éveillaient sa conscience.
+　C'étaient des pulsations puissantes et primitives qui éveillaient sa conscience.
 
 }

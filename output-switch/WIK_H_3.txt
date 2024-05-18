@@ -1,6 +1,6 @@
 [sha:2c779164a49a7aec116d9e28e1036459d24a5d02]{
 -- Page 0, Offset 22327.
 -- ……わたしは、一人足りない事をそろそろ指摘すべきだろうか、と思った。
-  ...... Je songeai qu'il était temps de faire remarquer l'absence d'une personne.
+　...... Je songeai qu'il était temps de faire remarquer l'absence d'une personne.
 
 }

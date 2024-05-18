@@ -7,37 +7,37 @@
 [sha:06469b560a94cdbbc7dcc3748e3580ed46e02b6a]{
 -- Page 0, Offset 5985.
 -- 直<流数|ディレクト>紋、一層、二層―――予備に三層。
-  Courant direct motifs multiples, une, deux―――trois couches en réserve.
+　Courant direct motifs multiples, une, deux―――trois couches en réserve.
 
 }
 [sha:a23a0aee2cb469fe47c4c347fdae04d0f252b9f5]{
 -- Page 0, Offset 5986.
 -- 魔力提供、大源に固定。
-  Alimentation en prana, connexion à la source principale.
+　Alimentation en prana, connexion à la source principale.
 
 }
 [sha:42a93818c459b4d3e591e17d1ae8e66ac1139882]{
 -- Page 0, Offset 5987.
 -- ……<循環|じゅんかん>良し、<射角|しゃかく>良し、<術式|じゅつしき>安定、おおまか良し」
-  ...... Rotation : OK ; angle de feu : OK ; stabilité du sort : grosso modo OK.」
+　...... Rotation : OK ; angle de feu : OK ; stabilité du sort : grosso modo OK.」
 
 }
 [sha:4e03f5f0553149ecf95e5358df534aac25691c2d]{
 -- Page 1, Offset 5988.
 -- レンガの<路|うえ>に<紋様|もんよう>が刻まれていく。
-  Un motif se dessinait sur le sol de briques.
+　Un motif se dessinait sur le sol de briques.
 
 }
 [sha:7e9d42d60e2527ef8057853c95097081ad4f10e4]{
 -- Page 1, Offset 5989.
 -- かつてない大詠唱による、かつてない大射程の魔術行使。
-  C'était une Aria d'une taille sans précédent, alimentant un sort à la portée jamais égalée.
+　C'était une Aria d'une taille sans précédent, alimentant un sort à la portée jamais égalée.
 
 }
 [sha:8a8a18f18d098d9347c79343cc57f88daf392caf]{
 -- Page 1, Offset 5990.
 -- ほのかな緊張と高揚を胸に<留|とど>めながら、新米魔術師は指を鳴らす。
-  Tout en retenant sa légère nervosité et l'exaltation dans son cœur, l'apprentie Mage claqua des doigts.
+　Tout en retenant sa légère nervosité et l'exaltation dans son cœur, l'apprentie Mage claqua des doigts.
 
 }
 [sha:5a96882ed72d6d33d011df6e1d0584040d6edb6d]{
@@ -49,19 +49,19 @@
 [sha:200513a0ce0ad969e72471342284728d9638d74c]{
 -- Page 2, Offset 5992.
 -- 術式の中心に膝をつき、夜空を見上げる青子。
-  Aoko avait un genou à terre au centre du sort et observait le ciel nocturne.
+　Aoko avait un genou à terre au centre du sort et observait le ciel nocturne.
 
 }
 [sha:c0d37ecde68baabb96f488078a32dcfe20ed9763]{
 -- Page 2, Offset 5993.
 -- 御伽の国と化した遊園地だったが、もう、その片鱗すら彼女の視界には<映|うつ>らない。
-  Le parc d'attractions avait été transformé en un pays des merveilles, mais elle ne voyait rien de ce spectacle.
+　Le parc d'attractions avait été transformé en un pays des merveilles, mais elle ne voyait rien de ce spectacle.
 
 }
 [sha:c615359179ea738b3e38634144c5e8a50db4d7eb]{
 -- Page 2, Offset 5994.
 -- 青い目に映るのは、たったひとつの触れられぬもの。
-  Ce qu'elle regardait de ses yeux bleus n'était rien d'autre que l'être qui ne pouvait être touché.
+　Ce qu'elle regardait de ses yeux bleus n'était rien d'autre que l'être qui ne pouvait être touché.
 
 }
 [sha:bf969abaa783ae7d24f966077edf950e2c187b23]{
@@ -73,25 +73,25 @@
 [sha:99e2ab0ad3ee732622ae85cc6f36796fc784238f]{
 -- Page 4, Offset 5996.
 -- つい数分ほど前の話。
-  Quelques minutes auparavant,
+　Quelques minutes auparavant,
 
 }
 [sha:edc759f6cd6144fa6fe3f6cc4828328ca5e3c920]{
 -- Page 4, Offset 5997.
 -- そう切りだして、草十郎はある事実を口にした。
-  en commençant ainsi, Sōjūrō avait révélé un certain fait.
+　en commençant ainsi, Sōjūrō avait révélé un certain fait.
 
 }
 [sha:9d6efbc4f6ba478f396b89fd900592f3c4c3d30e]{
 -- Page 4, Offset 5998.
 -- 本当に単純な食い違い。
-  C'était vraiment une simple anomalie,
+　C'était vraiment une simple anomalie,
 
 }
 [sha:661c1efd894df16e9bf9eb8348b352b8d150978a]{
 -- Page 4, Offset 5999.
 -- 一時間前までの現実と、たった今の幻想と、その最小にして最大の間違い探しを。
-  une différence triviale entre la réalité d'une heure plus tôt et l'illusion actuelle. La découverte de l'erreur maximale camouflée en erreur minimale.
+　une différence triviale entre la réalité d'une heure plus tôt et l'illusion actuelle. La découverte de l'erreur maximale camouflée en erreur minimale.
 
 }
 [sha:151be02448c8c502f8957878edd9e86636059e14]{
@@ -103,19 +103,19 @@
 [sha:8af7cb75c12b0fc0cf1bf1cf82383da18b49e32f]{
 -- Page 5, Offset 6001.
 -- 見えているのに見えないもの。
-  Quelque chose de visible mais que l'on ne voit pourtant pas.
+　Quelque chose de visible mais que l'on ne voit pourtant pas.
 
 }
 [sha:c12f9ca12f5d375985ddd6b897b0cedb445d1248]{
 -- Page 5, Offset 6002.
 -- 現実では有りえなくて、ここに有るのもおかしいもの。
-  Quelque chose d'impossible dans la réalité, et quelque chose de singulier dans cette réalité aussi.
+　Quelque chose d'impossible dans la réalité, et quelque chose de singulier dans cette réalité aussi.
 
 }
 [sha:e2d8c00385696b283272ab91c4252f16206506bc]{
 -- Page 5, Offset 6003.
 -- あらゆる原型が変わっていく遊園地で、堂々と、正常なカタチを見せつけていた―――
-  Dans un parc où tout était méconnaissable, cette chose se montrait dignement sous une forme normale―――
+　Dans un parc où tout était méconnaissable, cette chose se montrait dignement sous une forme normale―――
 
 }
 [sha:a1427c3a83fbb116318bd1d5f1fd8109f2a34d97]{
@@ -133,31 +133,31 @@
 [sha:087fcb2864d61c986ddcb8ea82fb0974153627f3]{
 -- Page 6, Offset 6006.
 -- 月までの距離は三十八万キロメートル。
-  La distance jusqu'à la lune était de 380 000 kilomètres.
+　La distance jusqu'à la lune était de 380 000 kilomètres.
 
 }
 [sha:f0826c13ff92318a0fb11b60a7b680d6d310b3d2]{
 -- Page 6, Offset 6007.
 -- 本当に<そ|・><こ|・><ま|・><で|・><同|・><じ|・>であるなら、まさしく異名に恥じない怪物だ。
-  S'il était capable de pousser la similitude avec la lune à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
+　S'il était capable de pousser la similitude avec la lune à ce point, ça signifiait qu'il était à la hauteur de tous les surnoms qu'on lui avait attribués.
 
 }
 [sha:51bbee88317e4bf3a26471e63bbc5d33e03a6157]{
 -- Page 7, Offset 6008.
 -- だが、そうであるのなら姿を隠す必要はない。堂々と正体を明かせばいい。
-  Seulement, si c'était vraiment le cas, il n'aurait pas besoin de se cacher. Il pouvait montrer sa nature sans se restreindre.
+　Seulement, si c'était vraiment le cas, il n'aurait pas besoin de se cacher. Il pouvait montrer sa nature sans se restreindre.
 
 }
 [sha:1e7d193309f2df793b9748a57430ca099bf2d0de]{
 -- Page 7, Offset 6009.
 -- 正体を隠すのは手の届く位置にいるからこそ。
-  Il cachait sa véritable nature justement parce qu'il était dans une position où on pouvait l'atteindre.
+　Il cachait sa véritable nature justement parce qu'il était dans une position où on pouvait l'atteindre.
 
 }
 [sha:83389c0d4a23286c56f2b18331d0bb2f1ed012b3]{
 -- Page 7, Offset 6010.
 -- あの怪物の擬態は、同時に、人間の手で<到|・><達|・><可|・><能|・>である事を示している……！
-  Le camouflage de ce monstre prouvait également qu'il était à portée de la main de l'homme......!
+　Le camouflage de ce monstre prouvait également qu'il était à portée de la main de l'homme......!
 
 }
 [sha:17a3cf9f3009c2e87638207086c7646ec0ec0edd]{
@@ -169,49 +169,49 @@
 [sha:da52418579189f4383d000eeb101dec1f99cef5a]{
 -- Page 8, Offset 6012.
 -- こうなったら力尽きるまで。
-  Maintenant qu'elle en était arrivée là, elle ferait tout ce qui était en son pouvoir,
+　Maintenant qu'elle en était arrivée là, elle ferait tout ce qui était en son pouvoir,
 
 }
 [sha:5a32d11c104ce6dc37347520801c8a317b1bb6e7]{
 -- Page 8, Offset 6013.
 -- この遊園地中の魔力を総動員して、魔弾の手を伸ばしてみせる。
-  et en utilisant le mana de tout ce parc d'attractions, elle montrerait qu'elle pouvait étendre la portée de sa balle de prana.
+　et en utilisant le mana de tout ce parc d'attractions, elle montrerait qu'elle pouvait étendre la portée de sa balle de prana.
 
 }
 [sha:df57867d5e7190988dabb1de0bcafad7e84a792f]{
 -- Page 9, Offset 6014.
 -- 夜空に青い花火が上がる。
-  Des feux d'artifice bleus s'élevèrent dans le ciel.
+　Des feux d'artifice bleus s'élevèrent dans le ciel.
 
 }
 [sha:3f761eaa3bd94731f975665853351142c4385b4f]{
 -- Page 9, Offset 6015.
 -- 風に舞う自分の髪を見上げて、青子は虚空をつかむように右手を伸ばした。
-  Aoko leva les yeux vers ses cheveux flottant au vent et tendit sa main droite comme pour attraper le ciel vide.
+　Aoko leva les yeux vers ses cheveux flottant au vent et tendit sa main droite comme pour attraper le ciel vide.
 
 }
 [sha:24abd051e6d93d2765acb401eec1c15202a5bd19]{
 -- Page 9, Offset 6016.
 -- 魔術師にとって自身の肉体は一線級の触媒だ。
-  Le propre corps des Mages est un catalyseur de première classe.
+　Le propre corps des Mages est un catalyseur de première classe.
 
 }
 [sha:c5c3db7ce9e39f1f81ae52149267fae190f352e7]{
 -- Page 9, Offset 6017.
 -- 女性の魔術師であるなら、年月を積み重ねた髪は特に貴重かつ強力な燃料になる。
-  En particulier, les cheveux des femmes Mages ayant accumulé les années constituent un matériau conducteur très efficace et inestimable.
+　En particulier, les cheveux des femmes Mages ayant accumulé les années constituent un matériau conducteur très efficace et inestimable.
 
 }
 [sha:b62612fe3ae87c818f29370580621320cdb40a96]{
 -- Page 10, Offset 6018.
 -- 扱いはそれこそ念じるだけでいい。
-  Pour s'en servir, il suffisait de prier silencieusement.
+　Pour s'en servir, il suffisait de prier silencieusement.
 
 }
 [sha:4c8aca9be8a1e18b4fea5a5c13ab11ccab67df3e]{
 -- Page 10, Offset 6019.
 -- 彼女は力強く、開いた指を握りこみ、
-  Elle ferma avec détermination ses doigts ouverts,
+　Elle ferma avec détermination ses doigts ouverts,
 
 }
 [sha:c67a5d6a58e3879662de338d01ba6ff4b45661ff]{
@@ -223,19 +223,19 @@
 [sha:33efbd71b6ffa53f74ce0128f1ec4e202108be0b]{
 -- Page 10, Offset 6021.
 -- 月と自らを<繋|つな>げる、明確な挑戦状をたたきつけた。
-  et lança clairement un défi à l'intention de la lune.
+　et lança clairement un défi à l'intention de la lune.
 
 }
 [sha:57acde2eb05eb07ef39cfc432d1f271d2d0e3660]{
 -- Page 11, Offset 6022.
 -- 霧が渦巻く。
-  Le brouillard tourbillonna.
+　Le brouillard tourbillonna.
 
 }
 [sha:66d51d9dfd5edb7dac948bc9bf971fe12dc43e27]{
 -- Page 11, Offset 6023.
 -- 中空に現れた青い魔術式を見て、高みの怪物がその牙を<剥|む>きだしにする。
-  En voyant le sort bleu apparaître dans les airs, le monstre des hauteurs montra ses crocs.
+　En voyant le sort bleu apparaître dans les airs, le monstre des hauteurs montra ses crocs.
 
 }
 [sha:3771ada45d10b10ced1a612c61361bb18fee6633]{
@@ -247,7 +247,7 @@
 [sha:c63498319cff52a30253e1d5d700e27dcc84aa74]{
 -- Page 12, Offset 6025.
 -- 有珠がその変化に気付いた時、青子、スナークの両者は、ともに明確な敵意を向けあっていた。
-  Lorsqu'Alice remarqua ce changement, Aoko et le Snark manifestaient clairement leur hostilité réciproque.
+　Lorsqu'Alice remarqua ce changement, Aoko et le Snark manifestaient clairement leur hostilité réciproque.
 
 }
 [sha:1bd39c9d8dc8bd5120d13b12947a4d7308aacf0e]{
@@ -259,25 +259,25 @@
 [sha:9aa4c04eeab082b588cdb2bd5393c4d13429a1b0]{
 -- Page 13, Offset 6027.
 -- たしかに雨雲を消したのはヒントのあげすぎだけど、それぐらいは大目に見て―――スナーク？」
-  Retirer les nuages de pluie lui a effectivement donné un indice de trop, mais sois compréhensif et―――Snark ?」
+　Retirer les nuages de pluie lui a effectivement donné un indice de trop, mais sois compréhensif et―――Snark ?」
 
 }
 [sha:0ae34eeb5b9273664728f3a2424b7915abdcda02]{
 -- Page 13, Offset 6028.
 -- 霧の集結は止まらない。
-  Le brouillard continuait de se concentrer.
+　Le brouillard continuait de se concentrer.
 
 }
 [sha:29c7bdd76934eb739d85f6e8379715898619fcb1]{
 -- Page 13, Offset 6029.
 -- 夜空に浮かぶ月は、<不遜|ふそん>極まる魔法使いを許しはしない。
-  La lune flottant dans le ciel ne pouvait tolérer l'extrême insolence de la Magicienne.
+　La lune flottant dans le ciel ne pouvait tolérer l'extrême insolence de la Magicienne.
 
 }
 [sha:06c7e5dc9e71c6af698d1bdec1221bb2a1f2369b]{
 -- Page 13, Offset 6030.
 -- 夜の王たる自分を<敬|うやま>わぬばかりか、あんな、あからさまに挑戦状をたたき付けられては、怒りの<収|おさ>めようがない。
-  Non seulement elle ne vénérait pas le roi de la nuit qu'il était, mais en plus, elle lui avait clairement lancé un défi. Il n'y avait aucun moyen de calmer sa colère.
+　Non seulement elle ne vénérait pas le roi de la nuit qu'il était, mais en plus, elle lui avait clairement lancé un défi. Il n'y avait aucun moyen de calmer sa colère.
 
 }
 [sha:8f1b88751054a956a4cb63d4b9fc44423e6cba60]{
@@ -289,61 +289,61 @@
 [sha:28c60a67f45b5fb5e0c1bc86712160644a8702cf]{
 -- Page 14, Offset 6032.
 -- あわてて報告に来る駒鳥を手で払いながら、少女は変貌していく黄金の月を凝視する。
-  Tout en chassant le rouge-gorge qui venait en toute hâte faire son rapport, la jeune fille regarda fixement la lune dorée en pleine transformation.
+　Tout en chassant le rouge-gorge qui venait en toute hâte faire son rapport, la jeune fille regarda fixement la lune dorée en pleine transformation.
 
 }
 [sha:b978a612067dd45dcd9d184bca671199c7a3b51a]{
 -- Page 14, Offset 6033.
 -- 制止の声は届かない。
-  Son ordre ne lui parvint pas.
+　Son ordre ne lui parvint pas.
 
 }
 [sha:ef3622a36f931308ddcb4dd489d5e6010c5d44e9]{
 -- Page 14, Offset 6034.
 -- “童話の怪物”は誰はばかることなく、その強大な力を、ちっぽけな<青子|えもの>に振り下ろそうと―――
-  Sans restreinte, le “monstre de contes pour enfants” dirigea son énorme pouvoir vers sa misérable proie―――
+Sans restreinte, le “monstre de contes pour enfants” dirigea son énorme pouvoir vers sa misérable proie―――
 
 }
 [sha:528a36a37da10f9ffec50d5eead544751348c8ba]{
 -- Page 15, Offset 6035.
 -- うなりをあげる魔弾の炉心。
-  Le cœur du réacteur des balles de prana gémissait avec force.
+　Le cœur du réacteur des balles de prana gémissait avec force.
 
 }
 [sha:fa037b9a3024297b6b7b332f711bb0777888af4a]{
 -- Page 15, Offset 6036.
 -- 回転する体内の魔術回路。
-  Le Circuit Magique interne effectuait des rotations.
+　Le Circuit Magique interne effectuait des rotations.
 
 }
 [sha:4ce124823b467c2c2e5d88510b3f4d44f3871671]{
 -- Page 15, Offset 6037.
 -- 架空の炎に神経を焼かれながら、青子は魔力を走らせる。
-  Aoko embrasa ses nerfs avec la flamme imaginaire et fit circuler son prana.
+　Aoko embrasa ses nerfs avec la flamme imaginaire et fit circuler son prana.
 
 }
 [sha:3ce773e5c4fef462f5d13818f4d5c7b027992070]{
 -- Page 16, Offset 6038.
 -- 地面に刻んだ術式は青子と<連結|リンク>している。
-  Le sort inscrit sur le sol était relié à Aoko.
+　Le sort inscrit sur le sol était relié à Aoko.
 
 }
 [sha:a0a12205db953cd322551ff13f61b7b937a5f5c1]{
 -- Page 16, Offset 6039.
 -- 術式を読みこみ実行するのは今まで通りだが、出力はその比ではない。
-  La lecture du sort restait la même que d'habitude, mais l'énergie fournie était bien plus importante.
+　La lecture du sort restait la même que d'habitude, mais l'énergie fournie était bien plus importante.
 
 }
 [sha:3cbddbb24f685d416edbb4a39a465180eac5ee08]{
 -- Page 16, Offset 6040.
 -- 同じ工程でもこれほどの火力なら術者にも害が及ぶ。
-  Même si le processus ne changeait pas, la puissance déployée était telle que les dommages s'étendraient à l'utilisateur.
+　Même si le processus ne changeait pas, la puissance déployée était telle que les dommages s'étendraient à l'utilisateur.
 
 }
 [sha:53ed7adcf9ed3e1c614381d09aa102a978e246a8]{
 -- Page 16, Offset 6041.
 -- あるいは、<砲身|しんけい>が焼き崩れるほどの。
-  Cela pouvait même aller jusqu'à lui griller les nerfs.
+　Cela pouvait même aller jusqu'à lui griller les nerfs.
 
 }
 [sha:d22dedde94fc5494051c4c381d13dad76b08bf28]{
@@ -355,61 +355,61 @@
 [sha:d1ce3f8371dc7e88e5b7bde9e1aaaca128bb168c]{
 -- Page 17, Offset 6043.
 -- 怖いくらいに上昇する架空の熱量。
-  La quantité de chaleur imaginaire atteignait un niveau effrayant.
+　La quantité de chaleur imaginaire atteignait un niveau effrayant.
 
 }
 [sha:cff61dac19e9e6ea23067e9f3e3b7e8a491bf616]{
 -- Page 17, Offset 6044.
 -- 底なしの感覚に身震いする青子だが、そうでなくてはこの戦法を選んだ意味がない。
-  Aoko tremblait sous l'incroyable pression, mais si ça n'avait pas été le cas, choisir cette stratégie n'aurait eu aucun sens.
+　Aoko tremblait sous l'incroyable pression, mais si ça n'avait pas été le cas, choisir cette stratégie n'aurait eu aucun sens.
 
 }
 [sha:f5b693158c2854f12c59e122f76cda7208e912e0]{
 -- Page 18, Offset 6045.
 -- 青子はもう移動できない。
-  Aoko ne pouvait plus se déplacer.
+　Aoko ne pouvait plus se déplacer.
 
 }
 [sha:7097e067a6d4e586d39b87c94ae47496edfa1d9a]{
 -- Page 18, Offset 6046.
 -- 草十郎からスナークの正体を聞いた時、彼女は“移動する砲台”の優位性を捨てて、設置砲台になる道を選んだ。
-  Lorsque Sōjūrō lui avait appris la véritable identité du Snark, elle avait abandonné l'idée d'être un “canon mobile” et s'était rabattue sur la mise en place d'un canon fixe.
+　Lorsque Sōjūrō lui avait appris la véritable identité du Snark, elle avait abandonné l'idée d'être un “canon mobile” et s'était rabattue sur la mise en place d'un canon fixe.
 
 }
 [sha:090e177b4a3e8f012a777cacf0cf6023dfe48e04]{
 -- Page 18, Offset 6047.
 -- そうでなければ届かない。この位置、この角度で刻印を固定しなければ、スナーク<狩り|ハント>はできないのだ。
-  Autrement, elle ne pourrait pas l'atteindre. Si elle ne verrouillait pas son Sceau dans cette position et selon cet angle, elle ne pourrait pas chasser le Snark.
+　Autrement, elle ne pourrait pas l'atteindre. Si elle ne verrouillait pas son Sceau dans cette position et selon cet angle, elle ne pourrait pas chasser le Snark.
 
 }
 [sha:4c7a6747cb001e448062b5d372b71ae457c831a4]{
 -- Page 19, Offset 6048.
 -- 同時に、それは“次の手段”がない事を示している。
-  Néanmoins, cela signifiait qu'elle n'avait pas de plan B.
+　Néanmoins, cela signifiait qu'elle n'avait pas de plan B.
 
 }
 [sha:6b7632ba475ad2de4ee20c59edb96e04619450d3]{
 -- Page 19, Offset 6049.
 -- 口火をきればこの場所で最後まで戦うしかない。
-  Si elle entamait la bataille, elle n'aurait d'autre choix que de se battre ici jusqu'à la fin.
+　Si elle entamait la bataille, elle n'aurait d'autre choix que de se battre ici jusqu'à la fin.
 
 }
 [sha:2a5a37d19d26dec3a3f30948501a7c8cc12721f2]{
 -- Page 19, Offset 6050.
 -- それでいい、と青子は大きく息を吸い込んだ。
-  C'est très bien comme ça, pensa Aoko en avalant une grande bouffée d'air.
+　C'est très bien comme ça, pensa Aoko en avalant une grande bouffée d'air.
 
 }
 [sha:fa987102499fac628b8e5f29d14c3308fd09b44a]{
 -- Page 19, Offset 6051.
 -- 準備は万全。ロケットの噴射に等しい魔力の渦を、直接、あの月にまで届かせる―――！
-  Elle avait fait tous les préparatifs possibles. Elle allait frapper de plein fouet cette lune avec un tourbillon de prana aussi puissant qu'une roquette―――!
+　Elle avait fait tous les préparatifs possibles. Elle allait frapper de plein fouet cette lune avec un tourbillon de prana aussi puissant qu'une roquette―――!
 
 }
 [sha:c672e7ffc30fde1422374e19bb38d4df9668ab0c]{
 -- Page 20, Offset 6052.
 -- 中空に浮かぶ第三層は臨界に達した魔力を撃ち出す銃口であり、射角を調整する<照星|しょうせい>だ。
-  La troisième couche qui flottait dans les airs était le canon qui libérerait le prana sur le point d'exploser, ainsi que le viseur permettant de régler l'angle de tir.
+　La troisième couche qui flottait dans les airs était le canon qui libérerait le prana sur le point d'exploser, ainsi que le viseur permettant de régler l'angle de tir.
 
 }
 [sha:2f068557f796f7a56ec486f6f105a77586b703a8]{
@@ -421,43 +421,43 @@
 [sha:7d3c19be1d06734bd7ddcb8366af16e776fa2fdd]{
 -- Page 20, Offset 6054.
 -- その照準越しに月が<歪|ゆが>む。
-  Alors qu'elle la visait, l'astre nocturne se déforma.
+　Alors qu'elle la visait, l'astre nocturne se déforma.
 
 }
 [sha:41957b815bd5c2e21304fe27265082ecd9eff81e]{
 -- Page 20, Offset 6055.
 -- 魔力を充電する青子をあざ笑うように、黄金の月はその正体を現していく。
-  La lune dorée révéla sa véritable nature comme pour narguer Aoko qui chargeait son prana.
+　La lune dorée révéla sa véritable nature comme pour narguer Aoko qui chargeait son prana.
 
 }
 [sha:020553b902ea1dfa247fad4883237d0768d97467]{
 -- Page 21, Offset 6056.
 -- さあ―――<宙|てん>を仰げ、異能なき<無|む><辜|こ>の血統。
-  Allez―――admire le ciel, pauvre créature sans cervelle.
+　Allez―――admire le ciel, pauvre créature sans cervelle.
 
 }
 [sha:0fbf605740317db1a35b469252b8043e8c746e50]{
 -- Page 21, Offset 6057. Mods: @n.
 -- あれこそは魔天の一角、
-  Contemple le Maître du ciel démoniaque,
+　Contemple le Maître du ciel démoniaque,
 
 }
 [sha:aac0d8b78716f02c82aaad670c86cf0d7717c94f]{
 -- Page 21, Offset 6058. Glued.
 -- 緑色の霧、<紺碧|こんぺき>の雲にかすむ神秘の<貌|すがた>。
-  la forme du Mystère caché au cœur de ce brouillard vert et de ces nuages azurs.
+　la forme du Mystère caché au cœur de ce brouillard vert et de ces nuages azurs.
 
 }
 [sha:f153d4db0dbdf02645810a1d4c2a3186d57d617c]{
 -- Page 21, Offset 6059. Mods: @n.
 -- 魔術世界において至宝と称され、
-  Considéré dans le monde de la Magie comme le plus légendaire de tous les mythes,
+　Considéré dans le monde de la Magie comme le plus légendaire de tous les mythes,
 
 }
 [sha:2a5af562e158dffbd7338902a20bc604bb8c6384]{
 -- Page 21, Offset 6060. Glued.
 -- 一つの王国より稀少と値付けられた<至高の幻想|クラウン・ファンタズム>。
-  un <Mystère Absolu|Crown Phantasm> sans égal et plus précieux que tout un pays.
+　un <Mystère Absolu|Crown Phantasm> sans égal et plus précieux que tout un pays.
 
 }
 [sha:753a8ae4d50518c7cee9b3fe54e676a94180834f]{
@@ -469,7 +469,7 @@
 [sha:35ef6d2eed4e1f8eda727241ec007ce00db44eaa]{
 -- Page 21, Offset 6062.
 -- <第一|はじまり>より<別|わか>たれた、この世でもっとも大きな虚構！
-  La plus grande légende jamais contée en ce monde depuis la nuit des temps !
+　La plus grande légende jamais contée en ce monde depuis la nuit des temps !
 
 }
 [sha:d0c0cbda66c664678ae35379abb9798b813a2d8b]{
@@ -481,19 +481,19 @@
 [sha:7307528656da74b9bc6833060c10c2acafb7c55f]{
 -- Page 22, Offset 6064.
 -- これ以上の<猶|た><予|め>は許されない、と本能が叫んでいた。
-  Son instinct lui hurlait qu'elle ne pouvait pas se permettre d'attendre plus longtemps.
+　Son instinct lui hurlait qu'elle ne pouvait pas se permettre d'attendre plus longtemps.
 
 }
 [sha:a96bfcd1b706ad9792e1cb570c2ea0513e737775]{
 -- Page 22, Offset 6065.
 -- 正体を暴かれようと敵は最高級の“童話の怪物”。
-  Même si son identité était dévoilée, l'ennemi restait un “monstre de contes de fées” de premier ordre.
+　Même si son identité était dévoilée, l'ennemi restait un “monstre de contes de fées” de premier ordre.
 
 }
 [sha:00ea2070979f3eca872c85b90b9bff4c936750f4]{
 -- Page 22, Offset 6066.
 -- この状況でも反撃の用意はある事を、剥き出しの敵意が示している……！
-  Son hostilité flagrante montrait qu'il pouvait préparer une contre-attaque même dans cette situation......!
+　Son hostilité flagrante montrait qu'il pouvait préparer une contre-attaque même dans cette situation......!
 
 }
 [sha:bad32e967617fdb64661d281d09a3583075905dd]{
@@ -505,43 +505,43 @@
 [sha:d121267185a4bd2f8febd99b6cdedea65f47058c]{
 -- Page 23, Offset 6068.
 -- 故に、その前に撃ち落とす。
-  Par conséquent, elle devait l'abattre avant cela.
+　Par conséquent, elle devait l'abattre avant cela.
 
 }
 [sha:9af292034f266447af7874e765f71d603e391c34]{
 -- Page 23, Offset 6069.
 -- 魔力は八分、術式は正常稼働、あとは<引|ひ>き<金|がね>を引くだけだが―――
-  Son prana était prêt à 80 % et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
+　Son prana était prêt à 80 % et le sort fonctionnait normalement. Ensuite, il ne lui resterait plus qu'à appuyer sur la détente, mais―――
 
 }
 [sha:8605797954c594cf9266e1b328f0fb6c23749c45]{
 -- Page 24, Offset 6070.
 -- 本当にそれでいいのか、と冷静な自分が告げる。
-  Une partie calme d'elle-même se demandait si c'était vraiment ce qu'elle voulait.
+　Une partie calme d'elle-même se demandait si c'était vraiment ce qu'elle voulait.
 
 }
 [sha:9de3168bd2b0990f7ce11748d886c98d89ab087d]{
 -- Page 24, Offset 6071.
 -- 始めてしまえば後戻りはできない。
-  Une fois qu'elle aurait commencé, elle ne pourrait pas revenir en arrière.
+　Une fois qu'elle aurait commencé, elle ne pourrait pas revenir en arrière.
 
 }
 [sha:0b8e54ab41189274544a4fafa372eff409337283]{
 -- Page 24, Offset 6072.
 -- この先はコンマの戦いだ。判断ミスを悔いる瞬間さえない。０．１秒の迷いが天秤をかたむける。
-  Cet affrontement se jouerait sur des détails. Elle n'aurait même pas une seconde pour regretter une erreur de jugement. Un dixième de seconde d'hésitation pouvait décider de l'issue de la bataille.
+　Cet affrontement se jouerait sur des détails. Elle n'aurait même pas une seconde pour regretter une erreur de jugement. Un dixième de seconde d'hésitation pouvait décider de l'issue de la bataille.
 
 }
 [sha:5d0ef67ca96f60d1525fa5edfaa45df8c810aef9]{
 -- Page 24, Offset 6073.
 -- 痛みへの覚悟も、失着への開き直りはできているか？
-  Était-elle préparée à la douleur, et à accepter ses erreurs ?
+　Était-elle préparée à la douleur, et à accepter ses erreurs ?
 
 }
 [sha:402cdc83a9bdafdb4e780bcd40c70445f96c20fc]{
 -- Page 24, Offset 6074.
 -- そもそも本当におまえは、そのちっぽけな魔弾で、月を落とす事ができるのか―――？
-  Et puis d'abord, est-ce que tu peux vraiment abattre la lune avec ta minuscule balle de prana―――?
+　Et puis d'abord, est-ce que tu peux vraiment abattre la lune avec ta minuscule balle de prana―――?
 
 }
 [sha:5ec06ee0cffc9ebac2bbbe255effc39589ca45ac]{
@@ -553,13 +553,13 @@
 [sha:7122e767beed6abb35326b771408c1db7749ad2f]{
 -- Page 25, Offset 6076.
 -- 月を見据える<双眸|そうぼう>に決意をこめる。
-  Son regard fixé sur la lune se remplit de détermination.
+　Son regard fixé sur la lune se remplit de détermination.
 
 }
 [sha:efc6bf23ffdf3de532e63dd90cb39f8c6e9cab20]{
 -- Page 25, Offset 6077.
 -- 魔弾を放った瞬間、強大なフィードバックが全身を打ちのめす事を念頭にいれて、
-  Sachant pertinemment que lorsqu'elle tirerait la balle de prana, un violent contrecoup frapperait tout son corps,
+　Sachant pertinemment que lorsqu'elle tirerait la balle de prana, un violent contrecoup frapperait tout son corps,
 
 }
 [sha:ccbd7122d465704bcb39e0bfc385ba63372b35f8]{
@@ -571,43 +571,43 @@
 [sha:8fae9b7c6149d7753631463d389000f8af2f418e]{
 -- Page 26, Offset 6079.
 -- 出し惜しみはなし、めいっぱいブン回すわ……！」
-  Je ne me retiendrai pas, je vais utiliser toutes mes forces pour te pulvériser......!」
+　Je ne me retiendrai pas, je vais utiliser toutes mes forces pour te pulvériser......!」
 
 }
 [sha:633df9c8c99829351eb2639b5e54ab928f619b11]{
 -- Page 26, Offset 6080.
 -- <宙|そら>を狙う狙撃手は気勢と共に、一撃必中、超長射程の魔弾を解き放つ……！
-  le sniper libéra avec vélocité une balle à très longue portée en direction du ciel, pour abattre sa cible du premier coup......!
+　le sniper libéra avec vélocité une balle à très longue portée en direction du ciel, pour abattre sa cible du premier coup......!
 
 }
 [sha:8013df6fe9c3a2195ed2dcca8c87f4a28523170b]{
 -- Page 27, Offset 6081.
 -- 地上からの魔弾を抱く第三層。
-  La troisième couche enlaça la balle de prana venue du sol.
+　La troisième couche enlaça la balle de prana venue du sol.
 
 }
 [sha:5f1b3215e21f8cbe92fd6e4c39ae67adb1835afa]{
 -- Page 27, Offset 6082.
 -- 青子の分身とも言える刻印が、月を射抜けと光を放つ。
-  Le Sceau, qui était comme un clone d'Aoko, projeta une lumière pour percer la lune.
+　Le Sceau, qui était comme un clone d'Aoko, projeta une lumière pour percer la lune.
 
 }
 [sha:c37e90ecc0a72f64a06cf93e10abe0247d64c58f]{
 -- Page 27, Offset 6083.
 -- ―――だが。
-  ―――Cependant...
+　―――Cependant...
 
 }
 [sha:7cc119bcdaccfa68c9ac7943fc039167ea9fcace]{
 -- Page 28, Offset 6084.
 -- 光を砕く<巨|あ><峰|お>の<天蓋|てんがい>。
-  Un rideau bleu intercepta la lumière.
+　Un rideau bleu intercepta la lumière.
 
 }
 [sha:c733aa01a38c2235e665f347d1b9ea6e1cae671a]{
 -- Page 28, Offset 6085.
 -- 瞬間火炎温度３０００度に匹敵する<架|エ><空|ー><要|テ><素|ル>が、真っ向から無に帰していく……！
-  L'éther, élément imaginaire dont la flamme atteignait une température d'environ 3 000°C, retourna instantanément au néant......!
+　L'éther, élément imaginaire dont la flamme atteignait une température d'environ 3 000°C, retourna instantanément au néant......!
 
 }
 [sha:fda16bd3a3799b906bdc63b3e1dd7fd83bce8feb]{
@@ -619,31 +619,31 @@
 [sha:d84f958dd1258edd9df2dee79b244d8df655790a]{
 -- Page 29, Offset 6087.
 -- 身に余る大魔術の反動に、全身の血が沸騰する。
-  Sous le contrecoup de l'énorme sort qui se répercutait en elle, tout le sang de son corps était en ébullition.
+　Sous le contrecoup de l'énorme sort qui se répercutait en elle, tout le sang de son corps était en ébullition.
 
 }
 [sha:d00d8ddd20311ba4738591344febcd0f948c2f3f]{
 -- Page 29, Offset 6088.
 -- 停止した心臓。
-  Le cœur arrêté.
+　Le cœur arrêté.
 
 }
 [sha:5a1a9be3adf187716a6ad1377a042e07957c6569]{
 -- Page 29, Offset 6089.
 -- 激痛と衝撃で麻痺する<脳髄|のうずい>。
-  Le cerveau paralysé par la douleur et le choc.
+　Le cerveau paralysé par la douleur et le choc.
 
 }
 [sha:d6e27f6d8df16de32804d794e37091e7550253e8]{
 -- Page 29, Offset 6090.
 -- 末端から<壊|え><死|し>していく神経。
-  Les nerfs se nécrosant jusqu'à leur extrémité.
+　Les nerfs se nécrosant jusqu'à leur extrémité.
 
 }
 [sha:2edde514afbf9453acb09ba5284b78d5e1f5ec72]{
 -- Page 29, Offset 6091.
 -- それらすべてを、魔術刻印が強引に蘇生させる。
-  Le Sceau Magique régénéra tout cela de force.
+　Le Sceau Magique régénéra tout cela de force.
 
 }
 [sha:5016db94ad960085a53255efeec584328adeb25a]{
@@ -661,25 +661,25 @@
 [sha:6ad78cf57127a983ecfb4349226e35b4768358f2]{
 -- Page 30, Offset 6094.
 -- 真っ白に眩む視界のなか、青子はたしかに見た。
-  Aoko l'avait clairement vu malgré sa vision éblouie par un blanc immaculé.
+　Aoko l'avait clairement vu malgré sa vision éblouie par un blanc immaculé.
 
 }
 [sha:38b0b87b716f498bc189359dba8556bfe427fcbf]{
 -- Page 30, Offset 6095.
 -- <口内|こうない>の血を飲みこんで頭上を<睨|にら>む。
-  Ravalant le sang qu'elle avait dans la bouche, elle fixa d'un œil noir le ciel.
+　Ravalant le sang qu'elle avait dans la bouche, elle fixa d'un œil noir le ciel.
 
 }
 [sha:9cad8e47a16eef093ba66059da49762c5e2334a5]{
 -- Page 30, Offset 6096.
 -- そこには。
-  Tout là-haut,
+　Tout là-haut,
 
 }
 [sha:1e4c542e4145ce545bc4ab5b5de658fd994d6893]{
 -- Page 30, Offset 6097. Glued. Mods: @x.
 -- 巨大な氷塊を盾にしてあざ笑う、いびつで邪悪な<髑髏|どくろ>の顔が……！
- un crâne difforme et maléfique ricanait et se servait d'un bloc de glace colossal comme bouclier......!
+un crâne difforme et maléfique ricanait et se servait d'un bloc de glace colossal comme bouclier......!
 
 }
 [sha:250423dd7a8f351938253cf80608a005b1aa433f]{
@@ -691,13 +691,13 @@
 [sha:29940c9e79078ae170924c1aebfbe3dd71a07f3d]{
 -- Page 31, Offset 6099.
 -- 盾を作られる前に撃てばよかった！？
-  J'aurais mieux fait de tirer avant qu'il crée son bouclier ?!
+　J'aurais mieux fait de tirer avant qu'il crée son bouclier ?!
 
 }
 [sha:9587a138af01c85440a0f62ca3c30e8c5e37e152]{
 -- Page 31, Offset 6100.
 -- それとも、正面からじゃ無謀すぎた……！？”
-  Ou alors, c'était trop imprudent de l'attaquer frontalement......?!”
+　Ou alors, c'était trop imprudent de l'attaquer frontalement......?!”
 
 }
 [sha:36987095d60b3381aa026cf1615532b964912d78]{
@@ -709,43 +709,43 @@
 [sha:1f49ddb041a0ad6d4368d368a970a97767fd457b]{
 -- Page 31, Offset 6102.
 -- 一層、二層、再起動―――！　急いで！」
-  Première couche, deuxième couche, réactivation―――! Vite !」
+　Première couche, deuxième couche, réactivation―――! Vite !」
 
 }
 [sha:c52d5b1a4ce142a27d1be80f1da3496067c49406]{
 -- Page 32, Offset 6103.
 -- 考える余分も、迷っている余裕もない。
-  Elle n'avait ni le temps de réfléchir, ni celui d'hésiter.
+　Elle n'avait ni le temps de réfléchir, ni celui d'hésiter.
 
 }
 [sha:30c0c3ff04ad967d4618ad3212d8eb7a55759326]{
 -- Page 32, Offset 6104.
 -- 遊園地<中|じゅう>の魔力が集結する。
-  Le mana du parc d'attractions était collecté de part et d'autre.
+　Le mana du parc d'attractions était collecté de part et d'autre.
 
 }
 [sha:b6a44d1467b1bd4f90ce1a01b6359cac5c73393c]{
 -- Page 32, Offset 6105.
 -- 一方は青子に。
-  D'un côté par Aoko.
+　D'un côté par Aoko.
 
 }
 [sha:152640fd50125b57fedc94d48ef0f88030df871b]{
 -- Page 32, Offset 6106.
 -- もう一方は君臨する月の顔に。
-  De l'autre par le visage de la lune hégémonique.
+　De l'autre par le visage de la lune hégémonique.
 
 }
 [sha:29eb9d94c1679fbfc5f102df3c8bd9bcb0d25f5d]{
 -- Page 32, Offset 6107.
 -- 今の氷は未完成だ、と青子は直感した。こちらがそうであったように、フラットスナークもまだ<極限|じょうげん>に達していない。
-  L'instinct d'Aoko lui disait que ce bloc de glace n'était pas tout à fait terminé. Comme elle, Flat Snark n'avait pas encore atteint les limites de son potentiel.
+　L'instinct d'Aoko lui disait que ce bloc de glace n'était pas tout à fait terminé. Comme elle, Flat Snark n'avait pas encore atteint les limites de son potentiel.
 
 }
 [sha:30cd04a1f09ae2f1fe7f81418e0a62eb43f5d590]{
 -- Page 32, Offset 6108.
 -- そう、だからこそ―――
-  C'était bien pour cette raison―――
+　C'était bien pour cette raison―――
 
 }
 [sha:da388ee46512c6b8e80ab414e96999ac27dd9f66]{
@@ -757,19 +757,19 @@
 [sha:e1ef88c12583033d67547fc5dd035029c2462fd0]{
 -- Page 33, Offset 6110.
 -- 術式の加速は青子自身を傷つける。
-  L'accélération du sort blessait Aoko elle-même.
+　L'accélération du sort blessait Aoko elle-même.
 
 }
 [sha:8d45903a05f406d73c23afffa469212ba3e777fa]{
 -- Page 33, Offset 6111.
 -- 繋がっている以上、術式に負荷をかけるほど<軋|きし>みは青子の体にのしかかる。それでも今は耐えるしかない。
-  À partir du moment où ils étaient connectés, les contraintes qui s'exerçaient sur son sort s'appliquaient également à son corps. Et malheureusement, pour l'instant, elle n'avait pas d'autre choix que d'endurer la douleur.
+　À partir du moment où ils étaient connectés, les contraintes qui s'exerçaient sur son sort s'appliquaient également à son corps. Et malheureusement, pour l'instant, elle n'avait pas d'autre choix que d'endurer la douleur.
 
 }
 [sha:ca9811cf2411cf9fca8362a7f96e1006fc1ff2b0]{
 -- Page 33, Offset 6112.
 -- なぜなら―――
-  Parce que―――
+　Parce que―――
 
 }
 [sha:b3e8d4cfa62d8ce236f641ec36b68633c0d0e1d1]{
@@ -781,25 +781,25 @@
 [sha:e5a3e0a9d78e69b0525662b242c19e5d995ab908]{
 -- Page 34, Offset 6114.
 -- 今の一撃で互いの戦力が分かってしまった。
-  L'attaque précédente lui avait permis de mesurer leurs potentiels respectifs.
+　L'attaque précédente lui avait permis de mesurer leurs potentiels respectifs.
 
 }
 [sha:f3a7905df24ff2d5340ef23aa4839f26d405c97c]{
 -- Page 34, Offset 6115.
 -- 魔力量こそ同じでも、<神秘|カタチ>を成す術式の強度が違う。
-  À quantité égale de prana, la puissance d'un sort de matérialisation était supérieure.
+　À quantité égale de prana, la puissance d'un sort de matérialisation était supérieure.
 
 }
 [sha:2464846e51c7136d3ca081d00f155926c53d98e0]{
 -- Page 34, Offset 6116.
 -- 青子が限界まで魔力を充電しても、ようやく<今|・><の|・><氷|・><塊|・>を打ち抜ける程度なのだ。
-  Même si Aoko accumulait du prana jusqu'à sa limite, elle aurait juste assez de puissance pour détruire ce bloc de glace.
+　Même si Aoko accumulait du prana jusqu'à sa limite, elle aurait juste assez de puissance pour détruire ce bloc de glace.
 
 }
 [sha:4c9ab8c55f19e87a9946828aff5831f0699b1f9a]{
 -- Page 34, Offset 6117.
 -- <即|すなわ>ち、スナークが限界まで魔力を集めた場合、何をやっても圧し負ける……！
-  Et donc, si le Snark accumulait lui aussi autant de prana qu'il pouvait, elle serait écrasée quoi qu'elle fasse......!
+　Et donc, si le Snark accumulait lui aussi autant de prana qu'il pouvait, elle serait écrasée quoi qu'elle fasse......!
 
 }
 [sha:298a3afb4cfc915dc7e4779d2f156c9b3e6051c0]{
@@ -811,79 +811,79 @@
 [sha:0f51c13d5697e80f5273a79981d051cb92a6025c]{
 -- Page 35, Offset 6119.
 -- 次弾を装填する。
-  Elle chargea la prochaine balle.
+　Elle chargea la prochaine balle.
 
 }
 [sha:d4ffd3db967065c86c89df541c87ff1eed40db20]{
 -- Page 35, Offset 6120.
 -- 空中の第三層に命令を届かせる。
-  Elle envoya ses consignes à la troisième couche en l'air.
+　Elle envoya ses consignes à la troisième couche en l'air.
 
 }
 [sha:d42dccd00d4eb221e69f09aa4acff358e57a32a0]{
 -- Page 35, Offset 6121.
 -- 体への負担を無視して一層の術式を加速させる。
-  Elle ignora la surcharge que cela provoquait sur son corps et accéléra le sort de la première couche.
+　Elle ignora la surcharge que cela provoquait sur son corps et accéléra le sort de la première couche.
 
 }
 [sha:4debb8f9eacdce0b22663816ae4b7e0a040b8712]{
 -- Page 36, Offset 6122.
 -- 右手の一層は周囲の魔力を吸収、蓄電する役割だ。
-  La première couche sous sa main droite avait pour rôle d'absorber et stocker le prana alentour.
+　La première couche sous sa main droite avait pour rôle d'absorber et stocker le prana alentour.
 
 }
 [sha:7dd231f229f26a2cfa144fde1cbcc790be54c618]{
 -- Page 36, Offset 6123.
 -- 遊園地を覆う濃霧。フラットスナーク自身がはき出した太古の<魔力|エーテル>が、術式に注ぎ込まれる。
-  Elle injecta dans le sort le <mana|Éther> des temps anciens constituant le brouillard épais recouvrant le parc d'attractions, qu'avait craché le Flat Snark lui-même.
+　Elle injecta dans le sort le <mana|Éther> des temps anciens constituant le brouillard épais recouvrant le parc d'attractions, qu'avait craché le Flat Snark lui-même.
 
 }
 [sha:1e3b7f4fb0ca7188b7d3a3f16597741df165a8f5]{
 -- Page 36, Offset 6124.
 -- 当然、術式と一体化している青子の身体は、許容量をはるかに超えた魔力に悲鳴をあげる。
-  Évidemment, le corps d'Aoko, qui ne faisait plus qu'un avec le sort, frissonna à cause de la quantité de prana qui avait largement dépassé sa capacité maximale.
+　Évidemment, le corps d'Aoko, qui ne faisait plus qu'un avec le sort, frissonna à cause de la quantité de prana qui avait largement dépassé sa capacité maximale.
 
 }
 [sha:edc23691473fd9598ecc341dc168388ee1787958]{
 -- Page 36, Offset 6125.
 -- いや、歓喜にうち<震|ふる>える。
-  Ou plutôt, il tremblait de joie.
+　Ou plutôt, il tremblait de joie.
 
 }
 [sha:4d4da9619b0fdf6f50b5ba7af4563c33553989c5]{
 -- Page 37, Offset 6126.
 -- 魔術師にとって、魔力とは神秘に至る為の推進剤。
-  Pour un Mage, le prana était un combustible permettant la manifestation de Mystères.
+　Pour un Mage, le prana était un combustible permettant la manifestation de Mystères.
 
 }
 [sha:3b63de49810fd59233d5026c1437843c7ebae6b0]{
 -- Page 37, Offset 6127.
 -- 体内時間の膨張。
-  L'horloge biologique s'accélérait.
+　L'horloge biologique s'accélérait.
 
 }
 [sha:ba9dee95dfbb89e550f94384d7426d7bcfc394c9]{
 -- Page 37, Offset 6128.
 -- 自我の融解。
-  L'égo disparaissait.
+　L'égo disparaissait.
 
 }
 [sha:6b8c2eb24ac70bdd9d71f3ed2ab0168bc0ba8965]{
 -- Page 37, Offset 6129.
 -- 肉体からの解放。
-  Le corps physique s'émancipait.
+　Le corps physique s'émancipait.
 
 }
 [sha:77643fb405dd068d3a8778d1c9912fe3ac5cca9d]{
 -- Page 37, Offset 6130.
 -- 言ってしまえば臨死体験。
-  En d'autres termes : c'était une expérience de mort imminente.
+　En d'autres termes : c'était une expérience de mort imminente.
 
 }
 [sha:2f2c62b2459589f03b448e7a2f01e88d28971620]{
 -- Page 37, Offset 6131.
 -- そのギリギリの境界で、青子は現実を直視する。
-  Sur cette mince frontière, Aoko contemplait la réalité.
+　Sur cette mince frontière, Aoko contemplait la réalité.
 
 }
 [sha:1e0a47149f7c5f124aa94b4d944e4f6353b55c4b]{
@@ -895,25 +895,25 @@
 [sha:7c93483537aab8b1d52b2693387e1f323fc28a1e]{
 -- Page 38, Offset 6133.
 -- ……その現実が、激痛に耐える意志を、折りにくる。
-  ...... Cette réalité ébranlait la volonté qu'elle déployait pour résister à la douleur.
+　...... Cette réalité ébranlait la volonté qu'elle déployait pour résister à la douleur.
 
 }
 [sha:b2d4af3a18328a493bc7c8943b3b28886d40d6f3]{
 -- Page 38, Offset 6134.
 -- 誰であろうと差は歴然。
-  Pour n'importe qui, le rapport de force était évident.
+　Pour n'importe qui, le rapport de force était évident.
 
 }
 [sha:32f1e428a1d6ef41c677d3fbfb6c8a544c6fc2fe]{
 -- Page 38, Offset 6135. Mods: @n.
 -- 蒼崎青子という砲身では、
-  Le canon, Aozaki Aoko,
+　Le canon, Aozaki Aoko,
 
 }
 [sha:19f441345bd5863fbfd517371f67bd391380ef30]{
 -- Page 38, Offset 6136. Glued.
 -- あの氷塊を<削|けず>る事さえできはしまい―――
-  ne pouvait même pas détruire ce bloc de glace―――
+　ne pouvait même pas détruire ce bloc de glace―――
 
 }
 [sha:3c7cca10017ad7b5976ea43845dbc4f49e3b4e53]{
@@ -925,31 +925,31 @@
 [sha:f0b7909fbd7a83e246cc66631eab8cbb2ea0341c]{
 -- Page 39, Offset 6138.
 -- 術式をなお加速させる。
-  Elle accéléra encore plus le sort.
+　Elle accéléra encore plus le sort.
 
 }
 [sha:4c390535dc002fde0cd36d585872e64959acbfe1]{
 -- Page 39, Offset 6139. Mods: @n.
 -- 髑髏が笑う。
-  Le crâne riait.
+　Le crâne riait.
 
 }
 [sha:4736a758b2d4fc210c1ad27bcda19ab59a66ebeb]{
 -- Page 39, Offset 6140. Glued. Mods: @n.
 -- 氷塊は盾ではない。
- Le bloc de glace n'était pas un bouclier.
+Le bloc de glace n'était pas un bouclier.
 
 }
 [sha:1e72a695a67c34e0bcb2fc4fd1c7ec213210856d]{
 -- Page 39, Offset 6141. Glued. Mods: @n.
 -- アレは身を<弁|わきま>えない魔術師を押しつぶすもの。
- Il était là pour écraser la Mage et lui apprendre où se trouvait sa place.
+Il était là pour écraser la Mage et lui apprendre où se trouvait sa place.
 
 }
 [sha:39073fc1e82d70c952c99243ef5ade2002599b3e]{
 -- Page 39, Offset 6142. Glued.
 -- 遊園地全体を<陥没|かんぼつ>させる<氷塊|いちげき>で、青子だけでなく、コースターの上にいる彼さえも踏み砕こうと笑っている。
- Il riait à l'idée qu'il écraserait non seulement Aoko mais aussi le garçon perché sur les montagnes russes, avec une attaque qui balaierait le parc d'attractions tout entier.
+Il riait à l'idée qu'il écraserait non seulement Aoko mais aussi le garçon perché sur les montagnes russes, avec une attaque qui balaierait le parc d'attractions tout entier.
 
 }
 [sha:76f81d8cbee5a76079625c10b0938a261cac970c]{
@@ -961,7 +961,7 @@
 [sha:dca988300137ffe314507053daea17a66ea04ed8]{
 -- Page 40, Offset 6144.
 -- 臨界寸前の魔術回路。
-  Son Circuit Magique était dans un état critique.
+　Son Circuit Magique était dans un état critique.
 
 }
 [sha:e6c64760973ffc1023bcfde4e6ae7b3c0ef55770]{
@@ -973,31 +973,31 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:6838b23f126ae014b017f7045759b940212d460f]{
 -- Page 40, Offset 6146.
 -- それでも魔弾の引き金を<絞|しぼ>る。
-  Malgré ça, elle pressa la détente de la balle de prana.
+　Malgré ça, elle pressa la détente de la balle de prana.
 
 }
 [sha:a4b71d361510a7cd6e5f625fd114d79e4f9c6df4]{
 -- Page 40, Offset 6147.
 -- 神経の伝達速度で魔術式を<強化|アレンジ>する。
-  À la vitesse maximale que lui permettaient ses nerfs, elle modifia le sort.
+　À la vitesse maximale que lui permettaient ses nerfs, elle modifia le sort.
 
 }
 [sha:83bb08193784f9031befb366aee9d3b876faea06]{
 -- Page 40, Offset 6148.
 -- 一撃では越えられない。
-  Elle ne pourrait pas le transpercer avec une attaque.
+　Elle ne pourrait pas le transpercer avec une attaque.
 
 }
 [sha:f8c0a5bf1d0101ef3f095aa13778a9bc78d60dd2]{
 -- Page 40, Offset 6149.
 -- 側面から撃つ手段はない。
-  Il s'avérait impossible de l'attaquer par le côté.
+　Il s'avérait impossible de l'attaquer par le côté.
 
 }
 [sha:4b5b381837d6d223545f525288fd1d4277fb201d]{
 -- Page 40, Offset 6150.
 -- なら、<試|や>るべき<手段|こたえ>は明白すぎる―――！
-  Dans ce cas, la seule solution possible sautait aux yeux―――!
+　Dans ce cas, la seule solution possible sautait aux yeux―――!
 
 }
 [sha:fe8b652caee38b540104051c22a76d43046c86ae]{
@@ -1009,13 +1009,13 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:06991f6fe323c77a19c8df0ecdf1398722db0973]{
 -- Page 41, Offset 6152.
 -- 変革する第三層。
-  La troisième couche se reforma.
+　La troisième couche se reforma.
 
 }
 [sha:9f60c74afc80d1d28613f5ef3d45235a41f8fe04]{
 -- Page 41, Offset 6153.
 -- 直流から交流へ。本来なら軌道の変化を得意とする術式だが、今は単純に数が欲しい……！
-  Basculant du mode principal au mode secondaire. Normalement, la spécificité de ce sort était sa trajectoire modifiable, mais pour le moment, elle voulait juste plus de balles......!
+　Basculant du mode principal au mode secondaire. Normalement, la spécificité de ce sort était sa trajectoire modifiable, mais pour le moment, elle voulait juste plus de balles......!
 
 }
 [sha:367de4aadb373e4a841c08a5818e3f6d89416c55]{
@@ -1027,19 +1027,19 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:e204892adf7a9c8b6cd563b7233a7cfbb68fa4b4]{
 -- Page 41, Offset 6155. Glued. Mods: @x.
 -- 全界層、ブン回せ―――！」
-  Toutes les couches à plein régime―――!」
+　Toutes les couches à plein régime―――!」
 
 }
 [sha:b0f6f045babc6a2c3f1aadc1ad85258c117bff15]{
 -- Page 42, Offset 6156.
 -- 遊園地を照らす青い太陽。
-  Illuminant le parc d'attractions comme un soleil bleu,
+　Illuminant le parc d'attractions comme un soleil bleu,
 
 }
 [sha:fb04e293fed7137b83fc37276b35cd633ab7b176]{
 -- Page 42, Offset 6157.
 -- 最大出力の光弾が、黄金の月を射止めに走る。
-  une balle de lumière de puissance maximale s'envola vers la lune dorée pour la transpercer.
+　une balle de lumière de puissance maximale s'envola vers la lune dorée pour la transpercer.
 
 }
 [sha:042deb4b667534e74952c347a99b6d56b9f79138]{
@@ -1051,7 +1051,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:805e271f64342691a8618411d6a4387ff955c255]{
 -- Page 43, Offset 6159.
 -- 引き金は<絞|しぼ>ったまま、際限なく取りこむ魔力を、休むことなく放ち続ける。
-  Pressant continuellement la détente, elle libérait sans relâche le prana qu'elle récupérait à l'infini.
+　Pressant continuellement la détente, elle libérait sans relâche le prana qu'elle récupérait à l'infini.
 
 }
 [sha:5bc82340103b5e04d0f36de3c595ca463cf4743e]{
@@ -1063,25 +1063,25 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:b80b5f37c4f2fd2e5cf62ba95c734e232d1b496e]{
 -- Page 44, Offset 6161.
 -- 臨界域から噴き出される青い炎。
-  Malgré les flammes bleues qui jaillissaient d'Aoko dans un état critique,
+　Malgré les flammes bleues qui jaillissaient d'Aoko dans un état critique,
 
 }
 [sha:91e38c3fa158f721748815a73585a9a6c66b8621]{
 -- Page 44, Offset 6162.
 -- だが氷塊は融解さえしない。
-  le bloc de glace n'avait même pas commencé à fondre.
+　le bloc de glace n'avait même pas commencé à fondre.
 
 }
 [sha:4a13f83650c71cc4e99872da59bfd1257540f0bd]{
 -- Page 44, Offset 6163.
 -- 温度以前に、カタチ取られた魔力量が違いすぎる。
-  Le problème n'était pas la température, mais la quantité trop importante de prana qui avait pris forme.
+　Le problème n'était pas la température, mais la quantité trop importante de prana qui avait pris forme.
 
 }
 [sha:69a88fa404dfc9a0d42a94835f70909456ada9a8]{
 -- Page 45, Offset 6164.
 -- 体内の魔術回路の負荷が、鮮血となって荒れ狂う。
-  La production sanguine de son corps s'emballa à cause de la surcharge de son Circuit Magique.
+　La production sanguine de son corps s'emballa à cause de la surcharge de son Circuit Magique.
 
 }
 [sha:2ff94f9b9c110090fa40dc7e6238a151f8f7e816]{
@@ -1093,25 +1093,25 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:23120e053a4b57799dde75d5c3813aaba5b09931]{
 -- Page 45, Offset 6166.
 -- アイツの方が、ぜんぜん、上……！”
-  Il est vraiment... bien... plus fort......!”
+　Il est vraiment... bien... plus fort......!”
 
 }
 [sha:ae6915ee922865cedc30c43b205bbc2a06a978bd]{
 -- Page 45, Offset 6167.
 -- この戦いは遊園地に満ちた魔力の奪い合いでもある。
-  Cette bataille avait aussi pour enjeu le prana dont le parc regorgeait.
+　Cette bataille avait aussi pour enjeu le prana dont le parc regorgeait.
 
 }
 [sha:7231d332842af602758addd7cc9e4db52672c8f4]{
 -- Page 45, Offset 6168.
 -- もとよりここはスナークの庭。
-  Depuis le début, cet endroit était le jardin du Snark.
+　Depuis le début, cet endroit était le jardin du Snark.
 
 }
 [sha:803bfbed9c6571846ce136876d49efecd83d5402]{
 -- Page 45, Offset 6169.
 -- 空間の支配率はスナークが八割、青子は二割にすぎない。
-  Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
+　Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
 
 }
 [sha:438ca86f75ff31bf9bf245b0f338b4f541c715ee]{
@@ -1129,7 +1129,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:1deb7101efdf8194b566c2888cf6d8cdb1fa627e]{
 -- Page 46, Offset 6172.
 -- 勝敗を告げるように、氷の城が落ちてくる。
-  Le château de glace chutait comme pour l'informer de sa défaite.
+　Le château de glace chutait comme pour l'informer de sa défaite.
 
 }
 [sha:d7ade443f568e6165bc0c876f53f013875cc78ae]{
@@ -1141,25 +1141,25 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:7a07ba5889ba7e66e31df7a9eb842903b3c81250]{
 -- Page 47, Offset 6174.
 -- 青子にできるのはその結末を遅らせる程度。
-  Aoko ne pouvait que retarder l'inévitable.
+　Aoko ne pouvait que retarder l'inévitable.
 
 }
 [sha:4b10576b70f7eb6080dbfa7977fc866b2f7ad917]{
 -- Page 47, Offset 6175.
 -- 追いつめられるだけと分かっていながら、今は魔弾を撃ち続けるしかない。
-  Même si elle savait qu'elle était au pied du mur, elle ne pouvait que continuer d'attaquer avec ses balles de prana.
+　Même si elle savait qu'elle était au pied du mur, elle ne pouvait que continuer d'attaquer avec ses balles de prana.
 
 }
 [sha:44f9805808e6167e058f9781387aa043fc813a63]{
 -- Page 48, Offset 6176.
 -- ああ、でも―――今ならまだ、他に手はある。
-  Aah, mais―――il restait une autre solution.
+　Aah, mais―――il restait une autre solution.
 
 }
 [sha:3e8d4b31c4ec50067995f8acc5613c4b3904b4d5]{
 -- Page 48, Offset 6177.
 -- この魔力をすべて防御に回せば、万が一―――いや、高い確率で、<青子|じぶん>だけは助かるのでは、と―――
-  Si elle utilisait tout ce prana pour se protéger, il y avait une petite chance―――non, il y avait de grandes chances qu'elle en réchappe, mais elle seule―――
+　Si elle utilisait tout ce prana pour se protéger, il y avait une petite chance―――non, il y avait de grandes chances qu'elle en réchappe, mais elle seule―――
 
 }
 [sha:eafaf18200175bf6ad8b9f1f2b28e7e17949e2b0]{
@@ -1171,31 +1171,31 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:b3d00f15165490cd6138b9a263f96f2dd79d9ba1]{
 -- Page 49, Offset 6179.
 -- ここの魔力を使い切れば、あの氷だって……！”
-  Si j'utilise tout le prana présent, même cette glace......!”
+　Si j'utilise tout le prana présent, même cette glace......!”
 
 }
 [sha:cfd3625538badd4b6b62426f9a782d815cf16602]{
 -- Page 49, Offset 6180.
 -- 破綻した希望にすがって青子は回路を回し続ける。
-  Se raccrochant à un espoir sur le point de se désagréger, Aoko continua de faire tourner son Circuit.
+　Se raccrochant à un espoir sur le point de se désagréger, Aoko continua de faire tourner son Circuit.
 
 }
 [sha:0b53f484a12f1abffdb7dd1c0dd2b0182d610f18]{
 -- Page 49, Offset 6181.
 -- 魔力の<過剰摂取|オーバードウズ>で停止する時間。
-  Le temps se figea sous l'overdose de prana.
+　Le temps se figea sous l'overdose de prana.
 
 }
 [sha:614f49faea3bd1acb6933fcb35d8b9d6656687e9]{
 -- Page 49, Offset 6182.
 -- 永遠に続く一秒の激痛。
-  Une seconde de douleur aussi longue qu'une éternité.
+　Une seconde de douleur aussi longue qu'une éternité.
 
 }
 [sha:dad68dc0d57ba4fe53a4ebc71004f2cdb270f5ab]{
 -- Page 49, Offset 6183.
 -- その中で、
-  Pendant cet instant,
+　Pendant cet instant,
 
 }
 [sha:a5583047521763c31cd930155e15bff5664d8e3b]{
@@ -1207,31 +1207,31 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:44527bfde693122d69cbb654defe12ca766c5044]{
 -- Page 50, Offset 6185.
 -- 何かが、ひたひたと、
-  quelque chose, petit à petit,
+　quelque chose, petit à petit,
 
 }
 [sha:54a311c42a2d61a59778259d963bbc900fdba33a]{
 -- Page 50, Offset 6186.
 -- 何かが、遊園地の物陰から、
-  quelque chose, dans les ténèbres du parc d'attractions,
+　quelque chose, dans les ténèbres du parc d'attractions,
 
 }
 [sha:027962e546b36958f3d0cdd272d5ffefbf06715a]{
 -- Page 50, Offset 6187. Mods: @n.
 -- 何かが、
-  quelque chose,
+　quelque chose,
 
 }
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
 -- Page 50, Offset 6188. Glued. Mods: @n.
 -- 何かが、
- quelque chose,
+quelque chose,
 
 }
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
 -- Page 50, Offset 6189. Glued.
 -- 何かが、
- quelque chose,
+quelque chose,
 
 }
 [sha:0c944fd7976b7c7f0a16e262d263dd04d73a9ea0]{
@@ -1243,19 +1243,19 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:1d0a0f1b35d8c469506d10fc9b3adab796ec45c0]{
 -- Page 51, Offset 6191.
 -- 全身が総毛立つ。
-  Tous les poils de son corps se hérissèrent.
+　Tous les poils de son corps se hérissèrent.
 
 }
 [sha:15c968c1400e3945fd4579f0a4cd71e03e89664d]{
 -- Page 51, Offset 6192.
 -- 頭上の氷塊なんて問題じゃない。
-  Le bloc de glace au-dessus de sa tête n'était pas un problème.
+　Le bloc de glace au-dessus de sa tête n'était pas un problème.
 
 }
 [sha:d0b673fb2993bd5749e1515bdfa55b613c8a050b]{
 -- Page 51, Offset 6193.
 -- 静止した時間の中で、ひたひたと、赤い死がやってくる。
-  Alors que le temps était gelé, petit à petit, la mort pourpre approchait.
+　Alors que le temps était gelé, petit à petit, la mort pourpre approchait.
 
 }
 [sha:089477cd64cd98ce58f88672dc088e7ff721b2e6]{
@@ -1267,31 +1267,31 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:42db6dab34202e08b1fbf28a000672455c22ea28]{
 -- Page 52, Offset 6195.
 -- 恐怖で<回路|せいしん>が破裂しかける。
-  Avec la terreur, son esprit commençait à se rompre.
+　Avec la terreur, son esprit commençait à se rompre.
 
 }
 [sha:55794dc7d01ad8c9770a183a52d3f2e58ee493b0]{
 -- Page 52, Offset 6196.
 -- <術式|こころ>の形成がほころびかける。
-  Son cœur se désagrégeait.
+　Son cœur se désagrégeait.
 
 }
 [sha:ddf2f1f77b5c31bc9955c25fa552d42be70f5535]{
 -- Page 52, Offset 6197.
 -- ソレは彼女の背後にまでやってきて、
-  Elle approcha jusqu'à arriver dans son dos,
+　Elle approcha jusqu'à arriver dans son dos,
 
 }
 [sha:d6438d2cd5f1b38499250f9b11e5797c4007caaa]{
 -- Page 52, Offset 6198.
 -- ひたり、と。
-  et doucement,
+　et doucement,
 
 }
 [sha:0c8317034621f5e1d333f24ff693630e5eb8eeb2]{
 -- Page 52, Offset 6199.
 -- 血まみれの手で、後ろから青子の両頬に手を当てて、
-  elle plaça par-derrière ses deux mains rouges de sang sur les joues d'Aoko...
+　elle plaça par-derrière ses deux mains rouges de sang sur les joues d'Aoko...
 
 }
 [sha:a9c2e6986c03cd58d3bd49207dcde6f90508bf8e]{
@@ -1315,121 +1315,121 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:13f7aec00597567d5ccfdf9606497ebf80e28437]{
 -- Page 54, Offset 6203.
 -- あらゆる感情、あらゆる自我が絶叫したがる。
-  Tout son corps, tout son être voulait hurler.
+　Tout son corps, tout son être voulait hurler.
 
 }
 [sha:b6e48589523cf8e82ea686df1fbc8a3b9174de81]{
 -- Page 54, Offset 6204.
 -- もういい。どうでもいい、なんでもいい！
-  C'est bon. Plus rien n'a d'importance, je ferai tout ce que vous voulez !
+　C'est bon. Plus rien n'a d'importance, je ferai tout ce que vous voulez !
 
 }
 [sha:c1844701909d4d8a24fa4380ee3e2246210d3054]{
 -- Page 54, Offset 6205.
 -- 逃げられるのなら逃げてしまえ！
-  Si tu peux fuir, alors fuis !
+　Si tu peux fuir, alors fuis !
 
 }
 [sha:9afe1a56525857edb4d7e6f9c2265b6f321b1cd4]{
 -- Page 54, Offset 6206.
 -- 隠しているのなら明かせばいい！
-  Si tu la gardes secrète, tu n'as qu'à la dévoiler !
+　Si tu la gardes secrète, tu n'as qu'à la dévoiler !
 
 }
 [sha:2e637c6e41ad6efb4bff8c3c02e5f20f0fa17ae0]{
 -- Page 54, Offset 6207.
 -- 使えるのなら、そんなもの、いっそ無慈悲に使えばいい！
-  Si tu peux l'utiliser, alors fais-le sans te poser de questions !
+　Si tu peux l'utiliser, alors fais-le sans te poser de questions !
 
 }
 [sha:8f37b60ff2a389ab22511cc9383cc907f26e65cc]{
 -- Page 55, Offset 6208.
 -- そうだ。
-  C'était vrai.
+　C'était vrai.
 
 }
 [sha:103556caa21c4a03263565f4b125316d64084687]{
 -- Page 55, Offset 6209.
 -- 彼女は起死回生の切り札を持っている。
-  Elle possédait un atout miraculeux.
+　Elle possédait un atout miraculeux.
 
 }
 [sha:e720283dd46c6f947010bd2aa4d6014bf479f893]{
 -- Page 55, Offset 6210.
 -- あんな氷塊、あんな玩具なんて物ともしない奇蹟を、ある日、ポンと冗談みたいに手渡された。
-  Elle avait eu un jour un miracle en main, sans commune mesure avec ce bloc de glace, ce jouet, à tel point qu'il en avait l'air ridicule.
+　Elle avait eu un jour un miracle en main, sans commune mesure avec ce bloc de glace, ce jouet, à tel point qu'il en avait l'air ridicule.
 
 }
 [sha:a35611daf5e9807a85f5c85ea8f0890e31d9e351]{
 -- Page 55, Offset 6211.
 -- ／それを、この赤い死が殺しに来る。
-                    /Cette mort pourpre venait pour tuer cette chose.
+　　　　　　　　　　/Cette mort pourpre venait pour tuer cette chose.
 
 }
 [sha:068c59a6598579697df33b65f29d82ee072ddb2e]{
 -- Page 56, Offset 6212.
 -- 使えば破滅。
-  Si elle l'utilisait, c'en serait fini d'elle.
+　Si elle l'utilisait, c'en serait fini d'elle.
 
 }
 [sha:0727191aa5364eaddfbd3caddc57b6ac0e013623]{
 -- Page 56, Offset 6213.
 -- 使わずとも氷に潰されて死滅。
-  Et même si elle ne l'utilisait pas, elle finirait écrasée par cette glace et réduite en morceaux.
+　Et même si elle ne l'utilisait pas, elle finirait écrasée par cette glace et réduite en morceaux.
 
 }
 [sha:ec5c0faa83038585e8341a1c859d1481e0f7265c]{
 -- Page 56, Offset 6214.
 -- なら、どうしてためらう必要がある？
-  Dans ce cas, pourquoi hésiter ?
+　Dans ce cas, pourquoi hésiter ?
 
 }
 [sha:79bd53b2e142df2342d6b47cea8bfd16b830a33d]{
 -- Page 56, Offset 6215.
 -- 別に使用制限なんてものはない。
-  Après tout, son usage n'était pas limité.
+　Après tout, son usage n'était pas limité.
 
 }
 [sha:53f9e7234348e4268eee9e76972c97f46433c463]{
 -- Page 56, Offset 6216.
 -- 等価に何かが失われる事もない。
-  Elle n'aurait pas à perdre quelque chose en échange non plus.
+　Elle n'aurait pas à perdre quelque chose en échange non plus.
 
 }
 [sha:e66a5c64cb41bc1e93d1bd866376a11c9f3e4896]{
 -- Page 56, Offset 6217.
 -- ただ、彼女が彼女でなくなるだけ。
-  Elle ne serait juste plus elle-même après ça.
+　Elle ne serait juste plus elle-même après ça.
 
 }
 [sha:83cbca0651522fb1cfb72123577e8e6188f81130]{
 -- Page 57, Offset 6218.
 -- たったそれだけ。
-  C'était aussi simple que cela.
+　C'était aussi simple que cela.
 
 }
 [sha:c0445c92ca28cab083ec3e541eff6303401a2337]{
 -- Page 57, Offset 6219.
 -- 人間なんて曖昧なものだ。
-  Les humains sont des êtres ambigus.
+　Les humains sont des êtres ambigus.
 
 }
 [sha:5b009e13bf1bdab3f60ca4307504373bba7a283f]{
 -- Page 57, Offset 6220.
 -- 脳の電流は一分ごとに何十回と断線して、何一つ、“いつまでも続いている<自|も><分|の>”なんてない。
-  Le courant électrique dans le cerveau s'interrompt des dizaines de fois par minute, il n'y a aucune “chose qui persiste éternellement”.
+　Le courant électrique dans le cerveau s'interrompt des dizaines de fois par minute, il n'y a aucune “chose qui persiste éternellement”.
 
 }
 [sha:29f2468ee53a8133a3c01628b871d0d2df4644c9]{
 -- Page 58, Offset 6221.
 -- それは別段、<軽蔑|けいべつ>する事でもなく。
-  Ce n'était pas quelque chose de méprisable.
+　Ce n'était pas quelque chose de méprisable.
 
 }
 [sha:b4fab38b8a3c0f0ac5596021a8080ae92541da39]{
 -- Page 58, Offset 6222.
 -- それは格段、<禁忌|きんき>するものでもない。
-  Ce n'était pas non plus un tabou quelconque.
+　Ce n'était pas non plus un tabou quelconque.
 
 }
 [sha:e5fa68eb96676270438de11d7bf3d4d05734061a]{
@@ -1441,31 +1441,31 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:2f1ee0ed4fc7df7685e5eea182d14bd9c4d11743]{
 -- Page 59, Offset 6224.
 -- なのに、口から漏れた声は怒りだった。
-  Pourtant, sa voix tremblait de colère.
+　Pourtant, sa voix tremblait de colère.
 
 }
 [sha:d69ce323c52dc37ebd5772fb589b7636ba223494]{
 -- Page 59, Offset 6225.
 -- 赤い影はかすかに首をかしげる。
-  La mort rouge en fut légèrement déconcertée.
+　La mort rouge en fut légèrement déconcertée.
 
 }
 [sha:b49a1885b0ebe8de747774ee7ea147b842b7e00a]{
 -- Page 60, Offset 6226.
 -- 少女は声なき声で叫ぶ。
-  La jeune fille cria silencieusement.
+　La jeune fille cria silencieusement.
 
 }
 [sha:5189499a7aca2dafe394c8d1dd092f5201d08dbe]{
 -- Page 60, Offset 6227.
 -- 魔法を使えば勝てる？　事情も知らないでよくも勝手な。
-  Si j'utilise la Vraie Magie, je peux gagner ? C'est bien égoïste alors que tu ne sais rien.
+　Si j'utilise la Vraie Magie, je peux gagner ? C'est bien égoïste alors que tu ne sais rien.
 
 }
 [sha:46305a3f60aa9746450cece78c1517281f6c69c8]{
 -- Page 60, Offset 6228.
 -- だいたい、そもそも―――
-  Et puis, d'abord―――
+　Et puis, d'abord―――
 
 }
 [sha:43ee13d631907026abf31d7f032a982fb4e014f1]{
@@ -1477,7 +1477,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:c0c8970685bf462075bb9a1a31078ea36fcf7282]{
 -- Page 60, Offset 6230.
 -- 彼女には、その魔法とやらの有効な利用法が、どうにも思い当たらない―――！
-  Elle n'avait pas la moindre idée sur la manière d'utiliser correctement cette soi-disant Vraie Magie―――!
+　Elle n'avait pas la moindre idée sur la manière d'utiliser correctement cette soi-disant Vraie Magie―――!
 
 }
 [sha:67f310c723788b3b57b22fb9aff4073e22d3984f]{
@@ -1489,19 +1489,19 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:bf2c8d7a9dc069265ff3bd517144ae2131383358]{
 -- Page 61, Offset 6232.
 -- 一瞬の錯覚から目を覚ます。
-  Elle s'extirpa de l'illusion momentanée que son cœur,
+　Elle s'extirpa de l'illusion momentanée que son cœur,
 
 }
 [sha:77607523301786eb36957663b4b99132be392755]{
 -- Page 61, Offset 6233.
 -- 折れようとしていた心が見せた幻。
-  sur le point de lâcher, lui avait montrée.
+　sur le point de lâcher, lui avait montrée.
 
 }
 [sha:e334a0f31794f2138389fe3e3b924e9b145f08d8]{
 -- Page 61, Offset 6234.
 -- 最低ラインの弱音が、逆に少女の<誇|ほこ>りに火をつけた。
-  Et même, sa fierté s'enflamma devant la plus ignoble de ses faiblesses.
+　Et même, sa fierté s'enflamma devant la plus ignoble de ses faiblesses.
 
 }
 [sha:237ac04dfadb1a4068e50fbc7e9c727b7a6eb7f1]{
@@ -1513,7 +1513,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:003f78c9cdd264f0bd9dd66d994ff4f269c01377]{
 -- Page 62, Offset 6236.
 -- そうだ。自分は王手をかけられているが、それは相手も同じこと。なぜ負けているかは明白で、あとは対策を立てるだけ。それは十分に実行可能だ。
-  Exactement. Elle était mise en échec, mais son adversaire aussi. La raison pour laquelle elle avait le dessous crevait les yeux, et elle n'avait qu'à mettre en place une contre-mesure. C'était largement faisable.
+　Exactement. Elle était mise en échec, mais son adversaire aussi. La raison pour laquelle elle avait le dessous crevait les yeux, et elle n'avait qu'à mettre en place une contre-mesure. C'était largement faisable.
 
 }
 [sha:f8188c99f15f83cd428b65e1e35a4bf3ca5b825d]{
@@ -1531,61 +1531,61 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:5f1b6546616d4c8b5eedc0ba8f942913a0caf8fc]{
 -- Page 63, Offset 6239.
 -- 放りだすのは、やれる事を全部やってから……！”
-  J'abandonnerai lorsque j'aurai fait tout ce que je pourrai......!”
+　J'abandonnerai lorsque j'aurai fait tout ce que je pourrai......!”
 
 }
 [sha:c7c2e09db71c67062c72597e5de9560907b37e7d]{
 -- Page 63, Offset 6240.
 -- もう感覚さえ無い指を握りしめる。
-  Elle serra fermement ses doigts qu'elle ne sentait même plus.
+　Elle serra fermement ses doigts qu'elle ne sentait même plus.
 
 }
 [sha:e147e5c2d06949b94cc59030e8a9368d89dea4b9]{
 -- Page 63, Offset 6241.
 -- 思考に浮かんだ無理難題は、正気を疑う大博打だ。
-  L'idée insensée qui venait de germer dans son esprit était un pari tellement fou qu'elle doutait de sa propre santé mentale.
+　L'idée insensée qui venait de germer dans son esprit était un pari tellement fou qu'elle doutait de sa propre santé mentale.
 
 }
 [sha:02988268dc738952a1d3a9b901d3be72494f6fa6]{
 -- Page 63, Offset 6242.
 -- はじめの一歩をコンマでも間違えれば、その時点で青子の体は蒸発する。
-  Même si elle ne faisait qu'une minuscule erreur, dès le premier faux pas, son corps serait atomisé.
+　Même si elle ne faisait qu'une minuscule erreur, dès le premier faux pas, son corps serait atomisé.
 
 }
 [sha:bfa071606b06c23e7c15717b36cf3e7ff9c10578]{
 -- Page 63, Offset 6243.
 -- ああ、でも―――
-  Aah, mais―――
+　Aah, mais―――
 
 }
 [sha:b25ac26cbed9bf1745ec510089e1127e780bcd3c]{
 -- Page 64, Offset 6244.
 -- 彼女は、逃げなかった少年を知っている。
-  Elle connaissait un garçon qui n'avait pas fui.
+　Elle connaissait un garçon qui n'avait pas fui.
 
 }
 [sha:267cc2e431d68604a8e3eb0195dfe901dd2aa54c]{
 -- Page 64, Offset 6245.
 -- 絶体絶命の窮地なのにギリギリまで耐え続けた、ちっぽけでも輝ける、強い勇気を知っている。
-  Elle connaissait une personne courageuse qui, dans une situation désespérée, s'était accrochée jusqu'au bout, et avait même réalisé un coup d'éclat.
+　Elle connaissait une personne courageuse qui, dans une situation désespérée, s'était accrochée jusqu'au bout, et avait même réalisé un coup d'éclat.
 
 }
 [sha:2e1a01afc36481b09456b605c5f6e1fa7d6e36bd]{
 -- Page 65, Offset 6246.
 -- そう。この敗北は自分だけの問題ではない。
-  Oui. Elle n'était pas la seule impliquée dans cette bataille.
+　Oui. Elle n'était pas la seule impliquée dans cette bataille.
 
 }
 [sha:4f9f4d150da71e28c5ceabba1e92fb45bfbfc404]{
 -- Page 65, Offset 6247.
 -- あの氷が落ちれば遊園地そのものが倒壊する。
-  Si cette glace tombait au sol, le parc d'attractions serait entièrement détruit.
+　Si cette glace tombait au sol, le parc d'attractions serait entièrement détruit.
 
 }
 [sha:3ba2c4e4758638e30f4c42d5aed73d5f97d7c3a0]{
 -- Page 65, Offset 6248.
 -- 平気な顔で、命懸けの綱渡りをやり通した誰かさんの成果も無駄になる。
-  Et la contribution d'une certaine personne, qui avait accompli d'un air indifférent son numéro de funambule au péril de sa vie, serait réduite à zéro.
+　Et la contribution d'une certaine personne, qui avait accompli d'un air indifférent son numéro de funambule au péril de sa vie, serait réduite à zéro.
 
 }
 [sha:2ecdc4f1059ff85f13af15a368b5369ace31a6fe]{
@@ -1597,31 +1597,31 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:dfb96a29c950a021f19085d9b8a11838e0572149]{
 -- Page 65, Offset 6250.
 -- それじゃ、何のために意地を張ったか分からない……！”
-  Maintenant, je ne sais même plus pourquoi j'ai fait autant la fière......!”
+　Maintenant, je ne sais même plus pourquoi j'ai fait autant la fière......!”
 
 }
 [sha:6dd6cb28d45ed861d9c0cfb109e340d59b9d5c87]{
 -- Page 66, Offset 6251.
 -- 決意と自信は、それこそ<迸|はし>る電荷のように。
-  Sa détermination et son assurance explosèrent tel un geyser.
+　Sa détermination et son assurance explosèrent tel un geyser.
 
 }
 [sha:eb438d42235d2f8da1c36c12cefa51f7e1fe6cfb]{
 -- Page 66, Offset 6252.
 -- このまま氷に押しつぶされるのなんて願い下げ。
-  Elle refusait de se faire écraser comme ça par cette glace.
+　Elle refusait de se faire écraser comme ça par cette glace.
 
 }
 [sha:521396fda9a7b17ad1f052b004b355c851588980]{
 -- Page 66, Offset 6253.
 -- どうせ負けるのなら自滅がいい、と少女は笑った。
-  Si je dois perdre de toute façon, alors autant me tuer en essayant, pensa-t-elle en souriant.
+　Si je dois perdre de toute façon, alors autant me tuer en essayant, pensa-t-elle en souriant.
 
 }
 [sha:eaaf945d58ae302cf2edb4469a661ef24244db75]{
 -- Page 66, Offset 6254.
 -- 負けず嫌いでご免あそばせ。こうなったらやられる前に、灰になるまで燃え尽きてやる―――！
-  Vous me voyez navrée d'être mauvaise perdante. Mais je préfère brûler jusqu'à me transformer en cendres plutôt que de me faire battre―――!
+　Vous me voyez navrée d'être mauvaise perdante. Mais je préfère brûler jusqu'à me transformer en cendres plutôt que de me faire battre―――!
 
 }
 [sha:d361fd3e3aa5d64c95fbb62db9915775d0253555]{
@@ -1633,25 +1633,25 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:010dbc25836e35d28add8f64ac98bd4195650981]{
 -- Page 67, Offset 6256.
 -- “ぐ、つぅ―――！”
-  “Guh... tss―――!”
+“Guh... tss―――!”
 
 }
 [sha:3bdf2eb567af62ea7efeeb6df86fd5fd43b527bb]{
 -- Page 67, Offset 6257.
 -- 激流する体内魔力。
-  Son prana interne affluait comme un torrent.
+　Son prana interne affluait comme un torrent.
 
 }
 [sha:9e52690c824b3ddf18028c63bb0d424b3fcbd08c]{
 -- Page 67, Offset 6258.
 -- 分解寸前の魔術回路。
-  Son Circuit Magique était à la limite de la désagrégation.
+　Son Circuit Magique était à la limite de la désagrégation.
 
 }
 [sha:d857831f0af5816f6c7d2930330e2e94ca51402a]{
 -- Page 67, Offset 6259.
 -- 魔術をカタチにした刻印は皮膚や肉のみならず、骨の<髄|ずい>、骨の<芯|しん>までその文字を刻んでいく。
-  Son Sceau, qui avait donné forme au sort, imprima les caractères qui le composaient sur sa peau, dans sa chair ainsi que sur la moelle de ses os, et jusque dans leur noyau.
+　Son Sceau, qui avait donné forme au sort, imprima les caractères qui le composaient sur sa peau, dans sa chair ainsi que sur la moelle de ses os, et jusque dans leur noyau.
 
 }
 [sha:9e1340da457a0c1146ff6bda916cf15149e67fbd]{
@@ -1663,19 +1663,19 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:748470607dabc8652c47a6bbdefa60eab1bec395]{
 -- Page 68, Offset 6261.
 -- 口元に<諧謔|かいぎゃく>の笑みが浮かぶ。
-  Sur ses lèvres flottait un sourire diabolique.
+　Sur ses lèvres flottait un sourire diabolique.
 
 }
 [sha:4d530dd421f4fe9deb0ca4143de092a60355325b]{
 -- Page 68, Offset 6262.
 -- あまりの激痛に理性、基準が逆転した。
-  Sous l'incommensurable douleur, sa raison, sa manière de penser se détraquèrent brusquement.
+　Sous l'incommensurable douleur, sa raison, sa manière de penser se détraquèrent brusquement.
 
 }
 [sha:6660c357dbff6634f20ce1acc1ecf9777b9a3fae]{
 -- Page 68, Offset 6263.
 -- それも当然。
-  C'était une réaction naturelle.
+　C'était une réaction naturelle.
 
 }
 [sha:fdc2e881f659f96d7b42be11e521efb02875ccde]{
@@ -1687,31 +1687,31 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:9cf05c4762458cee3d66c22ad0f851f43795418e]{
 -- Page 68, Offset 6265.
 -- 極限を<迎|むか>えてまだ耐えている自分の体を、誉めてやらないでどうするのか―――！
-  Que pouvait-elle faire d'autre qu'encourager son corps qui résistait encore alors qu'elle le poussait au-delà de ses dernières limites―――!
+　Que pouvait-elle faire d'autre qu'encourager son corps qui résistait encore alors qu'elle le poussait au-delà de ses dernières limites―――!
 
 }
 [sha:d3d513e9eeaf8bef2644a53ea39fa3637fa0dff4]{
 -- Page 69, Offset 6266.
 -- 髑髏の面が異常に気付く。
-  La tête de mort remarqua que quelque chose avait changé.
+　La tête de mort remarqua que quelque chose avait changé.
 
 }
 [sha:61a1222b029ce817188b40dc0899dfa2269f069b]{
 -- Page 69, Offset 6267.
 -- 空間の支配率が拮抗している事を、彼はようやく観測した。
-  Elle s'aperçut enfin que leurs taux de contrôle de l'espace étaient à présent similaires.
+　Elle s'aperçut enfin que leurs taux de contrôle de l'espace étaient à présent similaires.
 
 }
 [sha:301e3d35e3a59ddde2173d9fec422e92d5144b56]{
 -- Page 69, Offset 6268.
 -- だがその慢心を笑えようか。
-  Mais elle rit avec orgueil.
+　Mais elle rit avec orgueil.
 
 }
 [sha:d25bfeb83531a95545ebfa0d91bdadfe16882e7c]{
 -- Page 69, Offset 6269.
 -- 千年を越える器物の王、フラットスナークに勝る“魔力使い”が、この末世の時代に現れるなど―――！
-  Il était impossible qu'un “utilisateur de prana” supérieur à Flat Snark, le roi des réceptacles ayant vécu mille ans, apparaisse à cette époque―――!
+　Il était impossible qu'un “utilisateur de prana” supérieur à Flat Snark, le roi des réceptacles ayant vécu mille ans, apparaisse à cette époque―――!
 
 }
 [sha:ecded37a542d80f15b9f67ac6923a4e53f4f8052]{
@@ -1723,31 +1723,31 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:44c8c3a83ad336724b834236973adfb869e58491]{
 -- Page 70, Offset 6271.
 -- 呼吸を整える。
-  Son souffle s'accéléra.
+　Son souffle s'accéléra.
 
 }
 [sha:48020620ba25b6b04a31fa91dfb4ef99b7c4c66a]{
 -- Page 70, Offset 6272.
 -- この後に来るであろう激痛に身構える。
-  Elle se prépara à la souffrance qui allait suivre.
+　Elle se prépara à la souffrance qui allait suivre.
 
 }
 [sha:8b8d8473f9f1f86696d9347742ef7f773590c89f]{
 -- Page 70, Offset 6273.
 -- <あ|・><の|・><氷|・><を|・><撃|・><ち|・><破|・><る|・>。
-  Démolir cette glace.
+　Démolir cette glace.
 
 }
 [sha:7de717fc1f73f5229ce58fbe46afdfe82f5dc34e]{
 -- Page 70, Offset 6274.
 -- 使用できる魔力量は同じ。
-  Elle pouvait utiliser la même quantité de prana que son adversaire.
+　Elle pouvait utiliser la même quantité de prana que son adversaire.
 
 }
 [sha:196ccb31327c17d8d045f4417af626bd27d8eb3e]{
 -- Page 70, Offset 6275.
 -- なのに力負けしているのは、つまり―――
-  Et pourtant, elle perdait sur le plan de la puissance, car―――
+　Et pourtant, elle perdait sur le plan de la puissance, car―――
 
 }
 [sha:e0faaafda14f53f2a7b51472f7469a5dc12df6a1]{
@@ -1759,7 +1759,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:75faa07c83b7390bb7f213e7b4ee654294661b8f]{
 -- Page 71, Offset 6277.
 -- 単純な話、<術式|わたし>を<増築|でかく>するだけでいい―――！”
-  C'est simple, il suffit que j'élargisse le sort―――!”
+　C'est simple, il suffit que j'élargisse le sort―――!”
 
 }
 [sha:e474d0b264d66ba58cf10f4f62e25d47ba9c5a74]{
@@ -1771,31 +1771,31 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:d5373eec8925ac13dc082fad4b7b9d3f031047da]{
 -- Page 72, Offset 6279.
 -- フィードバックは今までの比ではないだろう。
-  Le contrecoup serait sûrement incommensurable par rapport à précédemment.
+　Le contrecoup serait sûrement incommensurable par rapport à précédemment.
 
 }
 [sha:d00b8a403a7858f4bf9a38d0b5035f820c8ab500]{
 -- Page 72, Offset 6280.
 -- 彼女の選択は単純にして、蛮勇きわまりない。
-  Sa stratégie était simple et obéissait à une impulsion insensée.
+　Sa stratégie était simple et obéissait à une impulsion insensée.
 
 }
 [sha:8dfbab80367e8accba769533e861a218624626ec]{
 -- Page 72, Offset 6281.
 -- 最大展開する二つの術式。
-  Elle consistait en deux sorts déployés au maximum.
+　Elle consistait en deux sorts déployés au maximum.
 
 }
 [sha:fe004b507e2268cad4facd5fbb60055929ffb5f6]{
 -- Page 72, Offset 6282.
 -- 一層は巨大な渦と化して霧という霧を飲みこみ、
-  La première couche absorbait le brouillard qui s'était changé en énorme vortex,
+　La première couche absorbait le brouillard qui s'était changé en énorme vortex,
 
 }
 [sha:de0d4e433d2515d4c19e5f3069003fe6cbbf7c06]{
 -- Page 72, Offset 6283.
 -- 二層はかたっぱしから魔力を加工して<砲身|あおこ>に注ぎ込む。
-  et la deuxième couche traitait absolument tout le prana et le déversait dans le <canon|Aoko>.
+　et la deuxième couche traitait absolument tout le prana et le déversait dans le <canon|Aoko>.
 
 }
 [sha:46151447d24e31e37985356a3c1f8beecf1d4e52]{
@@ -1807,49 +1807,49 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:a335ff5eab502784057333f2a3e8a458adfc366a]{
 -- Page 73, Offset 6285.
 -- 撃ち落とす、なんてハンパもいいとこ。
-  L'abattre, c'est faire le travail à moitié.
+　L'abattre, c'est faire le travail à moitié.
 
 }
 [sha:77d4a1ae13fbe8a0e23b7c5451f985752403d8e7]{
 -- Page 73, Offset 6286.
 -- この場合、跡形もなく<撃|・><ち|・><砕|・><く|・>、だっ……！」
-  Vu la situation, je vais plutôt le réduire en poussière......!」
+　Vu la situation, je vais plutôt le réduire en poussière......!」
 
 }
 [sha:2387ed84ffb1565a68cd506095ed97a783316696]{
 -- Page 74, Offset 6287.
 -- 術者の確信に、太古の魔力が呼応する。
-  Le prana des temps anciens agit de concert avec la désinvolture du jeteur de sorts.
+　Le prana des temps anciens agit de concert avec la désinvolture du jeteur de sorts.
 
 }
 [sha:6d1385c5220d4da2b8598b72cba04b8eeb54a481]{
 -- Page 74, Offset 6288.
 -- のたうち回る<大蛇|オロチ>の紋様。
-  Le dessin de <dragon|Orochi> de son Sceau se déformait.
+　Le dessin de <dragon|Orochi> de son Sceau se déformait.
 
 }
 [sha:a25e771d8aef57a7cf62edfd64968adf53d49194]{
 -- Page 74, Offset 6289.
 -- 反旗を<翻|ひるが>す声なき魔力。
-  Son prana se déchaînait en silence.
+　Son prana se déchaînait en silence.
 
 }
 [sha:380c7b955f068a9677ea43217a5adb52c68776fb]{
 -- Page 75, Offset 6290.
 -- さあ―――いざ地を<省|かえり>みよ<貴|たけ>き遺産。
-  Allez―――Maintenant, réfléchis bien à l'héritage que tu vas laisser à la terre,
+　Allez―――Maintenant, réfléchis bien à l'héritage que tu vas laisser à la terre,
 
 }
 [sha:0a252f3eeb0d6ebbf59e5f5ad7df5cecadd3e829]{
 -- Page 75, Offset 6291.
 -- あれなるは開拓の<最先端|トップランナー>。
-  <porte-drapeau|Top Runner> de la dévastation,
+　<porte-drapeau|Top Runner> de la dévastation,
 
 }
 [sha:480d7d1f6fbcd2286e6be2134ded1020588fef8f]{
 -- Page 75, Offset 6292.
 -- これより数多の神秘、あらゆる伝統を台無しにする、恐れ知らずの人類代表。
-  représentant du genre humain intrépide et qui provoquera la fin de nombreux Mystères et des anciennes traditions.
+　représentant du genre humain intrépide et qui provoquera la fin de nombreux Mystères et des anciennes traditions.
 
 }
 [sha:f69cf819dd9d003adf2573e86b8daf6725208c84]{
@@ -1861,61 +1861,61 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:651d001d6c21c4e785018bfbf75fa7b1a99c1c27]{
 -- Page 75, Offset 6294.
 -- お望み通り、ノシをつけて返してあげる……！」
-  Comme tu le souhaites, je vais te rendre la monnaie de ta pièce......!」
+　Comme tu le souhaites, je vais te rendre la monnaie de ta pièce......!」
 
 }
 [sha:fe59f47733d35c87761f8d4237efe21d554a60ff]{
 -- Page 75, Offset 6295.
 -- 消費／消滅の理を<担|にな>う、最新の魔法使い―――！
-  La nouvelle Magicienne appliqua la loi d'assimilation/annihilation―――!
+　La nouvelle Magicienne appliqua la loi d'assimilation/annihilation―――!
 
 }
 [sha:73525c14a8701063e7706d5938e4d609c33ab155]{
 -- Page 76, Offset 6296.
 -- 常識外の光弾が氷の城を融解させる。
-  La balle de lumière qui défiait le sens commun fit fondre le château de glace.
+　La balle de lumière qui défiait le sens commun fit fondre le château de glace.
 
 }
 [sha:cb48289b16363e17d0f3d6af75473b742dd5b75e]{
 -- Page 76, Offset 6297.
 -- 砲身は焼ききれない。
-  Le canon n'en finissait pas de griller.
+　Le canon n'en finissait pas de griller.
 
 }
 [sha:5364d35ec638cafcfc87e804a966d43b525b6b16]{
 -- Page 76, Offset 6298.
 -- 彼女の魔力の扱いは神懸かっている。
-  L'usage qu'elle faisait du prana était incroyable.
+　L'usage qu'elle faisait du prana était incroyable.
 
 }
 [sha:a030d8c3876d99c337dbe63904e4bccfac3098cd]{
 -- Page 76, Offset 6299.
 -- 最大十万キロ、赤道の二周半に相当する<血管|バイパス>は貪欲に魔力を受け入れ、倍の速度で魔弾を月へとたたき込む―――！
-  Ses <vaisseaux sanguins|Route de contournement> d'une longueur de 100 000 kilomètres, l'équivalent de deux fois et demie l'équateur, faisaient circuler le prana avec euphorie et, avec le double de la vitesse nominale, catapultèrent vers la lune la balle de prana―――!
+　Ses <vaisseaux sanguins|Route de contournement> d'une longueur de 100 000 kilomètres, l'équivalent de deux fois et demie l'équateur, faisaient circuler le prana avec euphorie et, avec le double de la vitesse nominale, catapultèrent vers la lune la balle de prana―――!
 
 }
 [sha:72a02f4205ce3fb80298e7057897746f0657e763]{
 -- Page 77, Offset 6300.
 -- 否　否　否　否！
-  Non Non Non Non !
+　Non Non Non Non !
 
 }
 [sha:88368913bd3189439234f397ca36b01d1a5164b9]{
 -- Page 77, Offset 6301.
 -- 月面に死相が浮かぶ。
-  L'ombre de la mort planait sur la surface de la lune.
+　L'ombre de la mort planait sur la surface de la lune.
 
 }
 [sha:b7d3b32599cda3c5264193d545e6c840d5ecdffb]{
 -- Page 77, Offset 6302.
 -- 廃遊園地に響く、恐怖あるいは<憤怒|ふんぬ>の叫び。
-  Dans le parc d'attractions abandonné résonna un cri de peur ou peut-être de rage.
+　Dans le parc d'attractions abandonné résonna un cri de peur ou peut-être de rage.
 
 }
 [sha:81c89a8e958b8140f60972d4ff0386aa8eb4be25]{
 -- Page 77, Offset 6303.
 -- 幻想に生きるソレにとって、現実はかくもおぞましく<眼|まなこ>を焦がす。
-  Pour lui qui vivait dans les songes, la réalité lui brûlait les yeux avec dégoût.
+　Pour lui qui vivait dans les songes, la réalité lui brûlait les yeux avec dégoût.
 
 }
 [sha:d60dde0f07fd6f8a8a8399c6bf889880e72bc2e6]{
@@ -1927,19 +1927,19 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:4eee3bd267fcc085a627db82f9c79c1ca03849a9]{
 -- Page 78, Offset 6305.
 -- その悪あがきに、彼女は勝利を確信した。
-  En voyant cette vaine résistance, elle fut certaine de sa victoire.
+　En voyant cette vaine résistance, elle fut certaine de sa victoire.
 
 }
 [sha:25d5d238c4cfc2c8a7543f0fcd5f5deed4155a08]{
 -- Page 78, Offset 6306.
 -- あまりにも無駄な魔力の使い方だ。
-  Il utilisait le prana en pure perte.
+　Il utilisait le prana en pure perte.
 
 }
 [sha:1fb8d37bec1c5851a571edf4edf9ee8d36125df4]{
 -- Page 78, Offset 6307.
 -- <傾|かたむ>きだしていた魔力の天秤は、完全に彼女のもとへなだれこみ―――
-  Le contrôle du prana ayant basculé en sa faveur, il affluait à toute vitesse vers elle―――
+　Le contrôle du prana ayant basculé en sa faveur, il affluait à toute vitesse vers elle―――
 
 }
 [sha:598dd7fd77e75ad2b6e4f455ece6f23717129818]{
@@ -1957,90 +1957,90 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:654125c7124bd01f4c1b150318160f910f095415]{
 -- Page 79, Offset 6310.
 -- 一気に、ブチ抜けぇーーーーーえ！！！！！」
-  Pulvérise-le en un seul coupーーーーー!!!!!」
+　Pulvérise-le en un seul coupーーーーー!!!!!」
 
 }
 [sha:f87d3a11974397271c1d868b881933733b2eace2]{
 -- Page 80, Offset 6311.
 -- 砕く。砕く。砕く。砕く。
-  Briser. Briser. Briser. Briser.
+　Briser. Briser. Briser. Briser.
 
 }
 [sha:a150da632d0b0935431565d54ed622273c9f4138]{
 -- Page 80, Offset 6312.
 -- 微塵と散る摩天楼。
-  Un gratte-ciel réduit en poussière.
+　Un gratte-ciel réduit en poussière.
 
 }
 [sha:518bf08a679ef08b27ed9fb548d7e69d6fd4e203]{
 -- Page 80, Offset 6313.
 -- 決して届かぬと謳われ、多くの挑戦者を飲んだ絶望の島。
-  Une île du désespoir qui avait causé la perte de nombreux explorateurs, à tel point qu'on l'avait déclarée absolument impénétrable.
+　Une île du désespoir qui avait causé la perte de nombreux explorateurs, à tel point qu'on l'avait déclarée absolument impénétrable.
 
 }
 [sha:602e07f94b40d57832835b43a792411cccc39736]{
 -- Page 80, Offset 6314.
 -- その、人智<未踏|みとう>を誇った先にあるモノこそ―――
-  Celui-là même qui s'en vantait―――
+　Celui-là même qui s'en vantait―――
 
 }
 [sha:87113b08a3a6a27da508d3bf47f4a2eb0c6faaab]{
 -- Page 81, Offset 6315.
 -- 破滅を叫ぶ紺碧の霧。
-  Le brouillard azur hurla en trépassant.
+　Le brouillard azur hurla en trépassant.
 
 }
 [sha:aa2d553c621d5f4c876002e31d73a54ca49a38ba]{
 -- Page 81, Offset 6316.
 -- 崩壊する絶氷の<天|ソ><蓋|ラ>。
-  Le ciel glacé était détruit.
+　Le ciel glacé était détruit.
 
 }
 [sha:b369adff811f4c8396cea383039fc6d2c9cca81a]{
 -- Page 81, Offset 6317.
 -- スナーク<狩り|ハント>の魔弾は月を越えて。
-  La balle de prana chasseuse de Snark traversa la lune.
+　La balle de prana chasseuse de Snark traversa la lune.
 
 }
 [sha:3e2fdbfb188098d9f6f37798fa462afad8fd864d]{
 -- Page 81, Offset 6318.
 -- 断末魔は<潮騒|しおさい>のように、御伽の国に響き渡り―――
-  Son agonie résonna dans le pays des merveilles comme le rugissement des vagues―――
+　Son agonie résonna dans le pays des merveilles comme le rugissement des vagues―――
 
 }
 [sha:42509ef6a261ec3a347be4d9a86b2f808571c041]{
 -- Page 82, Offset 6319.
 -- ―――勝敗は、ここに決した。
-  ―――L'issue de la bataille fut décidée à cet instant.
+　―――L'issue de la bataille fut décidée à cet instant.
 
 }
 [sha:86186a87e76c4351ce17216b4c3fae6abef7baef]{
 -- Page 82, Offset 6320.
 -- 濃霧は途絶え、砕かれた氷は地上に降ることなく霧散していく。
-  Le brouillard épais se dispersa et la glace brisée se volatilisa sans tomber au sol.
+　Le brouillard épais se dispersa et la glace brisée se volatilisa sans tomber au sol.
 
 }
 [sha:5e48854508e1a97f07a7e1ebe50d71c66f03c6fd]{
 -- Page 82, Offset 6321.
 -- 魔弾は敗因を悔やませる間もなく、玉座ごと夜の王を撃ち砕いた。
-  La balle de prana qui avait scellé la victoire, sans lui avoir laissé le temps de réagir, détruisit le roi de la nuit avec son trône.
+　La balle de prana qui avait scellé la victoire, sans lui avoir laissé le temps de réagir, détruisit le roi de la nuit avec son trône.
 
 }
 [sha:e1f7fd00f90f7aecc0682e4f885d1134126c7f32]{
 -- Page 83, Offset 6322.
 -- 月の油。
-  L'Huile de la lune.
+　L'Huile de la lune.
 
 }
 [sha:3f09c9d419a37e0492e8548ead75a6bf41da292b]{
 -- Page 83, Offset 6323.
 -- 触れられぬもの、フラットスナーク。
-  Celui qu'on ne peut toucher, Flat Snark.
+　Celui qu'on ne peut toucher, Flat Snark.
 
 }
 [sha:a13a915dc5ae06318713a4fcb0bc1aaa45098b3b]{
 -- Page 83, Offset 6324.
 -- 廃棄されたモノを蘇らせる一夜の夢は、自らの死をもって、悪夢に幕を下ろしたのだ。
-  Le rêve d'une nuit, ressuscitant ceux qui avaient été abandonnés, mit fin au cauchemar avec sa propre mort.
+　Le rêve d'une nuit, ressuscitant ceux qui avaient été abandonnés, mit fin au cauchemar avec sa propre mort.
 
 }

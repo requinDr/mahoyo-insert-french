@@ -7,61 +7,61 @@
 [sha:4a7fdaee697f157ef12e6017fc6944590ba8e845]{
 -- Page 0, Offset 15763.
 -- 自分だけのコトじゃなくて、
-  Tu acceptes tout dans son entièreté,
+　Tu acceptes tout dans son entièreté,
 
 }
 [sha:74f42b9fe3d11cba9d687468ad1b300426e02d3c]{
 -- Page 0, Offset 15764.
 -- このあとに起きるコトも、なにが残ってなにが残らないのかも、全部まっすぐに受けとめている。
-  que ce soient tes propres sentiments, mais aussi le futur et ce qui restera inchangé ou pas.
+　que ce soient tes propres sentiments, mais aussi le futur et ce qui restera inchangé ou pas.
 
 }
 [sha:ebe60721513d298e71bb58d8c45ca105db887918]{
 -- Page 0, Offset 15765. Mods: @n.
 -- それでも自分であり続けられるという事は、
-  Si tu peux rester toi-même malgré tout,
+　Si tu peux rester toi-même malgré tout,
 
 }
 [sha:fd41191b43596a207c20e433634d11bb7ca65247]{
 -- Page 0, Offset 15766. Glued.
 -- とても強いことなんだよ―――”
-  alors tu es forte―――”
+　alors tu es forte―――”
 
 }
 [sha:f015158b94973c7d165696dbf13afb5973bcda06]{
 -- Page 1, Offset 15767.
 -- などと。
-  Etc.
+　Etc.
 
 }
 [sha:b89bb2da2925ede7a90d53e28226367beb7868d6]{
 -- Page 1, Offset 15768.
 -- その人は、私がわりと好きだった笑顔で、いちばん言ってほしくない事を、誇らしげに口にした。
-  D'un air fier, et avec ce sourire que j'aimais bien, cette personne m'avait dit ce que je voulais le moins entendre.
+　D'un air fier, et avec ce sourire que j'aimais bien, cette personne m'avait dit ce que je voulais le moins entendre.
 
 }
 [sha:566f267a4e54ba1450d041b0565177de34df742b]{
 -- Page 1, Offset 15769.
 -- 今では遠い昔のように思える中学の卒業式。
-  C'était lors de la cérémonie de remise des diplômes du collège qui me semblait remonter à un lointain passé à présent.
+　C'était lors de la cérémonie de remise des diplômes du collège qui me semblait remonter à un lointain passé à présent.
 
 }
 [sha:d4ad4f3c7d73f42c4fde28521b16bd52904ef0df]{
 -- Page 1, Offset 15770.
 -- 早咲きの桜が舞い散る中、私のささやかな夢は、木っ端微塵に砕け散ったのだ。
-  Alors que les fleurs de cerisier tombaient prématurément, mon très humble rêve fut brisé en mille morceaux.
+　Alors que les fleurs de cerisier tombaient prématurément, mon très humble rêve fut brisé en mille morceaux.
 
 }
 [sha:ad9cca784be18610ef71c093d61ab29ecc1c5c4a]{
 -- Page 2, Offset 15771.
 -- だいたい、私は自分が強いなんて思った事はなかった。
-  Je ne me suis jamais considérée comme quelqu'un de fort.
+　Je ne me suis jamais considérée comme quelqu'un de fort.
 
 }
 [sha:b4e2bae3dc0d836d1d7e87ef651835c710f73441]{
 -- Page 2, Offset 15772.
 -- 少なくとも、この言葉を時折思い出すようになるまでは。
-  Tout du moins, pas jusqu'à ce que ces mots me soient revenus en tête.
+　Tout du moins, pas jusqu'à ce que ces mots me soient revenus en tête.
 
 }
 [sha:3099928ef42a2bfc1dcb11c41429917be9724cf4]{
@@ -73,121 +73,121 @@
 [sha:3779a44c262156022b924e5919fea504f6f0b11b]{
 -- Page 2, Offset 15774.
 -- いや、きっと分かってるんだな。だから、そこが強いんだろうね”
-  Ah non, c'est pas ça, tu comprends sûrement. C'est pour ça que tu es forte.”
+　Ah non, c'est pas ça, tu comprends sûrement. C'est pour ça que tu es forte.”
 
 }
 [sha:20f14dc60b487b47ebe745d533e650ceb0cc30a3]{
 -- Page 3, Offset 15775.
 -- ……なのに最近、そんな<戯|たわ>けたコトを言った奴がいる。
-  ...... Pourtant, récemment, un type m'a répété ces absurdités.
+　...... Pourtant, récemment, un type m'a répété ces absurdités.
 
 }
 [sha:2af8ce30e710a26c7df4c9b33048fac6be5f4a38]{
 -- Page 3, Offset 15776.
 -- 自分の判断基準がまわりとズレている事は知っていたけど、知り合って何日も経たない相手に指摘されたのは、ちょっとしたショックだった。
-  Je savais que mes critères de jugement ne correspondaient pas à ceux des autres, mais je fus quand même légèrement choquée de me le faire remarquer par une personne que je venais à peine de rencontrer.
+　Je savais que mes critères de jugement ne correspondaient pas à ceux des autres, mais je fus quand même légèrement choquée de me le faire remarquer par une personne que je venais à peine de rencontrer.
 
 }
 [sha:3050995f22fb82178a5975951163f867f67fcc56]{
 -- Page 3, Offset 15777.
 -- おまけに台詞までそっくりで、あの時は怒りのあまり我を忘れたほどである。
-  En plus, la similitude allait jusqu'à la tournure de phrase employée, si bien qu'à ce moment-là, cela m'avait provoqué un accès de colère et fait perdre le contrôle de moi-même.
+　En plus, la similitude allait jusqu'à la tournure de phrase employée, si bien qu'à ce moment-là, cela m'avait provoqué un accès de colère et fait perdre le contrôle de moi-même.
 
 }
 [sha:4abc11a1a6dfa1ca43a893b0bcf0120667e62e90]{
 -- Page 4, Offset 15778.
 -- ……今まで、私に対してそんなことを言ってきたのは彼を含めて二人だけ。
-  ...... Jusqu'à présent, seules deux personnes m'ont fait cette remarque, lui inclus.
+　...... Jusqu'à présent, seules deux personnes m'ont fait cette remarque, lui inclus.
 
 }
 [sha:fe6c381cbb3e0eb5aa2d29072ccde43b1b20dcd9]{
 -- Page 4, Offset 15779.
 -- けど、おそらくは姉貴も無言で言っていたのだ。
-  Cela dit, ma sœur n'en pensait probablement pas moins :
+　Cela dit, ma sœur n'en pensait probablement pas moins :
 
 }
 [sha:8288145cc66a63b48b4d1effb0091985f9633617]{
 -- Page 4, Offset 15780.
 -- おまえは、<自分|わたし>たちとは違う。
-  Tu es différente de nous.
+　Tu es différente de nous.
 
 }
 [sha:bbc090b8b6b177a5bfbf033fd8028d636bf2cdae]{
 -- Page 4, Offset 15781.
 -- 私にとって、それは賛美の声ではなく、呪いにしか聞こえなかった。
-  Pour moi, ce constat n'avait rien d'une éloge, il ne s'agissait que d'une malédiction.
+　Pour moi, ce constat n'avait rien d'une éloge, il ne s'agissait que d'une malédiction.
 
 }
 [sha:69f6003b9fa367ea21d5ee0040d1601679b58a3a]{
 -- Page 5, Offset 15782.
 -- 自分の一挙一動、意志選択、善悪基準から<迫害|はくがい><博愛|はくあい>。
-  Malgré tous mes agissements, mes choix, mes actions tyranniques ou philanthropiques découlant de mon sens du bien et du mal,
+　Malgré tous mes agissements, mes choix, mes actions tyranniques ou philanthropiques découlant de mon sens du bien et du mal,
 
 }
 [sha:20f871b8e069b4d77cca3a45134c8435aa7e0657]{
 -- Page 5, Offset 15783.
 -- そのすべてを承知した上で、まだ自分が<大事|いちばん>なのか。
-  on se demande encore si je fais passer ma personne avant les autres ?
+　on se demande encore si je fais passer ma personne avant les autres ?
 
 }
 [sha:cf5551a1370358dff54245d34a7824f3384b284a]{
 -- Page 5, Offset 15784.
 -- もちろんだ。周りの為に自分を犠牲にするのなんて、どうあっても選べない。
-  Évidemment ! Quoi qu'il arrive, je ne pourrai jamais choisir de me sacrifier pour autrui.
+　Évidemment ! Quoi qu'il arrive, je ne pourrai jamais choisir de me sacrifier pour autrui.
 
 }
 [sha:399d0a1a5cfeccff5dc93f7562be30519b638542]{
 -- Page 5, Offset 15785.
 -- その<孤|こだわ>り、その道化ぶりを分かっていながら、自分であり続けられる事を、彼らは強いといった。
-  Mais le fait de pouvoir rester moi-même, alors que je savais que ce n'était qu'obsessions et bouffonneries, faisait de moi quelqu'un de fort d'après eux.
+　Mais le fait de pouvoir rester moi-même, alors que je savais que ce n'était qu'obsessions et bouffonneries, faisait de moi quelqu'un de fort d'après eux.
 
 }
 [sha:1653a0bfa093b6c18011b34c8d06400d82591c57]{
 -- Page 6, Offset 15786.
 -- 幼い私は首をかしげるしかない。
-  La jeune moi ne pouvait qu'être perplexe.
+　La jeune moi ne pouvait qu'être perplexe.
 
 }
 [sha:43f4d899c4525d47b9af824ea653910ee233169e]{
 -- Page 6, Offset 15787.
 -- だって、私は違うやり方を見いだせないだけだ。
-  J'étais tout simplement incapable de trouver une autre façon d'être.
+　J'étais tout simplement incapable de trouver une autre façon d'être.
 
 }
 [sha:a2c8fbac2073c08c1ac1eaed4bdce61358634c8c]{
 -- Page 6, Offset 15788.
 -- 悔しいぐらい、『ただ諦める』勇気を持てないだけ。
-  Je n'avais pas le courage de “renoncer”, si bien que c'en était rageant.
+　Je n'avais pas le courage de “renoncer”, si bien que c'en était rageant.
 
 }
 [sha:869641593845a3a759b516333a5e0952cff36cfc]{
 -- Page 6, Offset 15789.
 -- なのにどうして―――
-  Alors pourquoi―――
+　Alors pourquoi―――
 
 }
 [sha:ab51d7b2770a18fecf5508e6b119705f116d7280]{
 -- Page 6, Offset 15790.
 -- そんな当たり前の事が、特別扱いされるんだろう―――？
-  cette évidence est si souvent soulignée―――?
+　cette évidence est si souvent soulignée―――?
 
 }
 [sha:e422eb03a24978ae8c9293befd36b0ada8f4e156]{
 -- Page 7, Offset 15791.
 -- ……朝の光で目を覚ます。
-  ...... Elle se réveilla avec la lumière du matin.
+　...... Elle se réveilla avec la lumière du matin.
 
 }
 [sha:d0bb105068856b4069be418581aa0aaff7431f6c]{
 -- Page 7, Offset 15792.
 -- 全身を霊糸で<縫|ぬ>った痛みのせいか。
-  Elle semblait avoir fait un rêve sans intérêt,
+　Elle semblait avoir fait un rêve sans intérêt,
 
 }
 [sha:6ae8215b001c40762e93f30e3a99a7fa8d8f816c]{
 -- Page 7, Offset 15793.
 -- 他愛のない夢を、見たようだ。
-  sous le coup de la douleur provoquée par son corps entièrement suturé.
+　sous le coup de la douleur provoquée par son corps entièrement suturé.
 
 }
 [sha:ea4f8ea705919490460b30726c4c63895e08e6c5]{
@@ -199,13 +199,13 @@
 [sha:4267789f5e3641f9bd7f8d8e145658c7704b9d48]{
 -- Page 8, Offset 15795.
 -- ガラガラに渇いて傷ついた喉が、大きく深呼吸をする。
-  Sa gorge sèche et meurtrie prit une longue inspiration.
+　Sa gorge sèche et meurtrie prit une longue inspiration.
 
 }
 [sha:9c7d695ce071eec6ee755cda63b530c0d5038136]{
 -- Page 8, Offset 15796.
 -- 小さな窓から差しこむ灰色の日射しは、彼女の意識をゆっくりと覚醒させた。
-  Les rayons du soleil grisâtres qui pénétraient par la petite fenêtre éveillèrent doucement sa conscience.
+　Les rayons du soleil grisâtres qui pénétraient par la petite fenêtre éveillèrent doucement sa conscience.
 
 }
 [sha:b29a42a44a39f029c67b9d831a263f64c5434782]{
@@ -217,31 +217,31 @@
 [sha:55289a0d5b5ae13153fd86aa2bc9099901961267]{
 -- Page 9, Offset 15798.
 -- 耐えきれず寝返りをうってみる。
-  Incapable de le supporter, elle chercha à changer de position.
+　Incapable de le supporter, elle chercha à changer de position.
 
 }
 [sha:60be90d5dc186eda69ec230fe3824f70e8f61993]{
 -- Page 9, Offset 15799.
 -- が、動かせたのは右腕だけ。
-  Cependant, elle ne put bouger que son bras droit.
+　Cependant, elle ne put bouger que son bras droit.
 
 }
 [sha:c45909e5e6e642c88f147b96009890f09cb3b62f]{
 -- Page 9, Offset 15800.
 -- 肘から先を持ち上げてみても、嘘のように感覚がない。
-  Elle essaya bien de le soulever à partir de l'épaule, mais elle ne ressentait rien.
+　Elle essaya bien de le soulever à partir de l'épaule, mais elle ne ressentait rien.
 
 }
 [sha:7e9316b6fee3cd876568e954d5c2d1cfbb0b67ca]{
 -- Page 9, Offset 15801. Mods: @n.
 -- 腕に向けた集中をそらすと、
-  Lorsqu'elle relâcha sa concentration,
+　Lorsqu'elle relâcha sa concentration,
 
 }
 [sha:94164cc5a7940997891ae4348eb4efa280d5cb95]{
 -- Page 9, Offset 15802. Glued.
 -- 包帯だらけの腕はぱたん、と力なくベッドに落ちた。
- son bras recouvert de bandages retomba sans force sur le lit.
+son bras recouvert de bandages retomba sans force sur le lit.
 
 }
 [sha:480752e30f0b02c9306331ba238474bdd299ada6]{
@@ -253,61 +253,61 @@
 [sha:5337978d88f58b560622e7515e6a6f4cbe88b1b1]{
 -- Page 10, Offset 15804.
 -- 青子は視線だけで状況を確認する。
-  D'un coup d'œil, Aoko fit un bilan de la situation.
+　D'un coup d'œil, Aoko fit un bilan de la situation.
 
 }
 [sha:3fecf11d0a04cb7fc5b3b63527847066ae706f21]{
 -- Page 11, Offset 15805.
 -- ……自分はベッドに眠っていたらしい。
-  ...... Apparemment, elle avait dormi sur un lit.
+　...... Apparemment, elle avait dormi sur un lit.
 
 }
 [sha:6f363943f5ad2f314bac9417544f54949fa55f3b]{
 -- Page 11, Offset 15806.
 -- 体のあちこちの感覚がなくて、ロボットか何かになった気がする。
-  Elle ne sentait pas son corps à certains endroits et elle avait l'impression d'être devenue une sorte de robot.
+　Elle ne sentait pas son corps à certains endroits et elle avait l'impression d'être devenue une sorte de robot.
 
 }
 [sha:78ecf2ae473560c1667682b94965ea3db8b32175]{
 -- Page 11, Offset 15807.
 -- 部屋は狭くて何の飾り気もない。
-  La chambre, exiguë, n'avait aucune décoration.
+　La chambre, exiguë, n'avait aucune décoration.
 
 }
 [sha:478e95fbbffa8f855897bfc161131dc0cefc655a]{
 -- Page 11, Offset 15808.
 -- まるで入居前のマンションだ。手入れは行き届いているところを見て、合田教会の一室だろう、とアタリをつける。
-  On aurait dit un appartement avant qu'on y emménage. Elle remarqua la propreté de la pièce et supposa qu'il s'agissait d'une chambre de l'église d'Aida.
+　On aurait dit un appartement avant qu'on y emménage. Elle remarqua la propreté de la pièce et supposa qu'il s'agissait d'une chambre de l'église d'Aida.
 
 }
 [sha:992fc22b5a749ed68b05bc365d02660d99b0a142]{
 -- Page 12, Offset 15809.
 -- 外は朝というより昼に近い。
-  D'après la lumière à l'extérieur, on était plus proche de midi que du lever de soleil.
+　D'après la lumière à l'extérieur, on était plus proche de midi que du lever de soleil.
 
 }
 [sha:5d2f4b2f375530346114fd29fefcf66cc566def6]{
 -- Page 12, Offset 15810.
 -- 空は相変わらず曇っていて、日射しは弱々しい。
-  Le ciel était toujours aussi couvert et les rayons du soleil étaient doux.
+　Le ciel était toujours aussi couvert et les rayons du soleil étaient doux.
 
 }
 [sha:46065750536634fac0d90b46c9c00bc32dd36316]{
 -- Page 12, Offset 15811.
 -- この分では雪解けはもっと先になってしまうだろうな、と取りとめのない事が頭によぎる。
-  À ce rythme, la neige n'est pas près de fondre, pensa-t-elle vaguement.
+　À ce rythme, la neige n'est pas près de fondre, pensa-t-elle vaguement.
 
 }
 [sha:e55730fa73d993775c7679ae2a66f476ae679f0c]{
 -- Page 12, Offset 15812.
 -- そうして最後に、青子は彼女の姿を認めた。
-  Et enfin, Aoko reconnut la silhouette de la jeune fille.
+　Et enfin, Aoko reconnut la silhouette de la jeune fille.
 
 }
 [sha:a8a22dd3b9980fd05694541ed505c4d058c68ed9]{
 -- Page 12, Offset 15813.
 -- 自分の眠るベッドの横で、椅子に座ったまま動かない久遠寺有珠の姿を。
-  À côté de son lit se trouvait Kuonji Alice, immobile sur une chaise.
+　À côté de son lit se trouvait Kuonji Alice, immobile sur une chaise.
 
 }
 [sha:f2f2d6924a6d1bb5a31a690949499d12908b1803]{
@@ -319,25 +319,25 @@
 [sha:bd582634a72f8544d00a32e277a500c801f3e858]{
 -- Page 13, Offset 15815.
 -- やあ、とばかりに青子は有珠に呼びかけた。
-  lui dit-elle nonchalamment.
+　lui dit-elle nonchalamment.
 
 }
 [sha:fdf4b8ec976dd2aa2b70d237fcb005560067a5b7]{
 -- Page 13, Offset 15816.
 -- 口の中がやたら<鈍|にぶ>い。
-  Sa langue était terriblement pâteuse.
+　Sa langue était terriblement pâteuse.
 
 }
 [sha:52bc58a45937e66ed2fadc3b53d0984fd5513fd8]{
 -- Page 13, Offset 15817.
 -- 有珠はあいかわらずの無表情。
-  Fidèle à elle-même, Alice resta inexpressive.
+　Fidèle à elle-même, Alice resta inexpressive.
 
 }
 [sha:1355eb8a7e1ae3c071a04656b6721bcac0ba51e8]{
 -- Page 13, Offset 15818.
 -- ただ、その瞳に同居人をいたわる<翳|かげ>りがあったのを、青子は見逃さなかった。
-  Cependant, l'ombre de l'angoisse qui se cachait au fond de ses yeux n'échappa pas à Aoko.
+　Cependant, l'ombre de l'angoisse qui se cachait au fond de ses yeux n'échappa pas à Aoko.
 
 }
 [sha:a8cd2215dad487fbe8f991bd368db946733d7a56]{
@@ -355,19 +355,19 @@
 [sha:0f3f5267a0c27028e86b779cbcdeede7698c82c6]{
 -- Page 14, Offset 15821.
 -- 半端な痛みは、こういう時に<生温|なまぬる>いわね」
-  Le manque de sommeil n'a pas grande importance dans ces moments-là.」
+　Le manque de sommeil n'a pas grande importance dans ces moments-là.」
 
 }
 [sha:c167f0bf7b34449928d92aefd9c329f26718ee45]{
 -- Page 15, Offset 15822.
 -- 少女らしからぬ相方の台詞を聞いて、青子はますます気持ちを生き返らせた。
-  Tout en entendant ces paroles inhabituelles pour sa partenaire, Aoko regagnait de plus en plus ses sensations.
+　Tout en entendant ces paroles inhabituelles pour sa partenaire, Aoko regagnait de plus en plus ses sensations.
 
 }
 [sha:130da82cb012497b9e247318e7740eaed9f6746d]{
 -- Page 15, Offset 15823.
 -- 今は心配してくれる隣人より、ともに戦ってくれる友人の方が心強い。
-  Dans sa situation, un compagnon d'armes se révélait plus réconfortant qu'un voisin inquiet pour elle.
+　Dans sa situation, un compagnon d'armes se révélait plus réconfortant qu'un voisin inquiet pour elle.
 
 }
 [sha:fb71d74f09f52a58c8230d736992f9fcb3a5ce87]{
@@ -379,30 +379,30 @@
 [sha:daf21c52babed1d0ff8730a2daad94639f300869]{
 -- Page 16, Offset 15825.
 -- ……状況はだいたい予想してるけど、一応、細部を聞かせてくれない？」
-  ...... Je peux plus ou moins deviner la situation, mais tu veux bien me donner rapidement les détails ?」
+　...... Je peux plus ou moins deviner la situation, mais tu veux bien me donner rapidement les détails ?」
 
 }
 [sha:0202210b61052513405f41ee6bbbaf33a1cfdb31]{
 -- Page 16, Offset 15826.
 -- ベッドに横になったまま、青子は凛とした口調で言う。
-  dit-elle d'un ton décidé, allongée sur le lit.
+　dit-elle d'un ton décidé, allongée sur le lit.
 
 }
 [sha:eea2bc886b4a40527aefcd6159ffdbcaffa60050]{
 -- Page 17, Offset 15827.
 -- 青子の無茶を、有珠は止めもせず聞き入れた。
-  Alice accepta la demande déraisonnable d'Aoko sans penser à refuser.
+　Alice accepta la demande déraisonnable d'Aoko sans penser à refuser.
 
 }
 [sha:8778d946e4ab643cf88a596e06eef0b296afa324]{
 -- Page 17, Offset 15828.
 -- もう二年近い付き合いだ。
-  Voilà près de deux ans qu'elles se fréquentaient.
+　Voilà près de deux ans qu'elles se fréquentaient.
 
 }
 [sha:dd902ecc49fceec947bdd352f75c10a5ee8469f4]{
 -- Page 17, Offset 15829.
 -- こういう時、蒼崎青子という少女にとって何が一番の麻酔になるのか、有珠はよく理解していた。
-  Alice ne savait que trop bien quel était le meilleur anesthésiant dans ces moments-là pour la jeune fille du nom d'Aozaki Aoko.
+　Alice ne savait que trop bien quel était le meilleur anesthésiant dans ces moments-là pour la jeune fille du nom d'Aozaki Aoko.
 
 }

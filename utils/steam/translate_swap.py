@@ -21,29 +21,32 @@ chars_width: dict[str, int] = {
 
 # Swap extended latin characters with special 1-byte characters
 char_swap_dict: dict[str, str] = {
+  # 'À' : None,
+  # 'Ç' : None # might be necessary
+  # 'È' : None, # max column is 42
+    'É' : '[',
+  # 'Œ' : 'Oe',
+  # 'Â' : None, # might be necessary
+  # 'Ê' : None,
+  # 'Î' : None,
     'à' : '#',
     'è' : '$',
     'ù' : '+',
     'é' : '=',
-    'œ' : 'oe',
     'â' : ']',
     'ê' : '_',
     'î' : '`',
     'ô' : '&',
     'û' : ';',
-    'ë' : ':',
+    # 'ë' : ':',
     'ï' : '{',
     'ç' : '}',
     'ō' : '*',
-    'ū' : '-',
-  # 'À' : None,
-  # 'È' : None, # max column is 42
+    'ū' : 'Z',
     'É' : '[',
+    
     'Œ' : 'Oe',
-  # 'Â' : None,
-  # 'Ê' : None,
-  # 'Î' : None,
-  # 'Ç' : None
+    'œ' : 'oe',
 }
 
 # Swap all characters in line

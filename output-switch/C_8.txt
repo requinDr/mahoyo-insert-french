@@ -1,85 +1,85 @@
 [sha:4c99e73a1451c7e7ef3fbfa88b13ac53c32b611f]{
 -- Page 0, Offset 18560.
 -- 一方、橙子は一連の出来事を正確に把握していた。
-  Tōko, quant à elle, avait parfaitement analysé les évènements.
+　Tōko, quant à elle, avait parfaitement analysé les évènements.
 
 }
 [sha:5fde9aeb07c50b505a8417da53908e02a52d3c27]{
 -- Page 0, Offset 18561.
 -- 倒れ<臥|ふ>し、人型になってしまったベオと、
-  Beo était effondré au sol, de retour à sa forme humaine,
+　Beo était effondré au sol, de retour à sa forme humaine,
 
 }
 [sha:d2c475926983ff80d3192d38be80edfce194bbd6]{
 -- Page 0, Offset 18562.
 -- その傍らに立っている、両腕を粉砕した少年。
-  tandis que le jeune homme se tenait à ses côtés, les deux bras brisés.
+　tandis que le jeune homme se tenait à ses côtés, les deux bras brisés.
 
 }
 [sha:d2e86bf408f884d7ab721577be4dc9252fdbb3e8]{
 -- Page 1, Offset 18563.
 -- 人狼の一撃を受けて青子と有珠はまだ立ち上がれそうにないが、呼吸ができる程度には回復している。
-  Aoko et Alice semblaient toujours incapables de se lever à cause des dommages infligés par le loup-garou, mais elles avaient suffisamment récupéré pour respirer de façon satisfaisante.
+　Aoko et Alice semblaient toujours incapables de se lever à cause des dommages infligés par le loup-garou, mais elles avaient suffisamment récupéré pour respirer de façon satisfaisante.
 
 }
 [sha:5b0abe1219074df2296a9c8a52725e8a76d7bd2a]{
 -- Page 1, Offset 18564.
 -- 対して、自分に残された物はあと数刻……三、四回分のルーン文字だけである。
-  De son côté, il ne lui restait que trois ou quatre caractères runiques.
+　De son côté, il ne lui restait que trois ou quatre caractères runiques.
 
 }
 [sha:e8fee981cfe477fa5a4e55ff76dec3b8e5e89535]{
 -- Page 2, Offset 18565.
 -- 背後の魔術刻印は使えない。
-  Elle ne pouvait pas utiliser le Sceau Magique qui planait dans son dos.
+　Elle ne pouvait pas utiliser le Sceau Magique qui planait dans son dos.
 
 }
 [sha:922e3a11ab047c1fb12fc73b941f66f9546a3d22]{
 -- Page 2, Offset 18566.
 -- 刻印の残魔力量―――祖父を密閉している結界を解除すれば攻撃に回せるが、それは下策にすぎる。
-  Avec la quantité de prana qu'il contenait encore, elle aurait pu s'en servir pour passer à l'attaque après avoir rompu la Barrière qui scellait son grand-père, mais cela n'avait rien d'un plan avisé.
+　Avec la quantité de prana qu'il contenait encore, elle aurait pu s'en servir pour passer à l'attaque après avoir rompu la Barrière qui scellait son grand-père, mais cela n'avait rien d'un plan avisé.
 
 }
 [sha:8cf2f0ad80bcf1ff7fc28d41a102da4939f7541e]{
 -- Page 3, Offset 18567.
 -- そもそも、いま祖父を解放すれば霊地の所有権は根こそぎ奪われる。
-  En premier lieu, si elle le libérait maintenant, les droits de propriété de la terre sacrée lui seraient arrachés.
+　En premier lieu, si elle le libérait maintenant, les droits de propriété de la terre sacrée lui seraient arrachés.
 
 }
 [sha:6e207b1860de1e48902418382a8ed93a2a25686e]{
 -- Page 3, Offset 18568.
 -- ここで青子たちに勝利しても始めからやり直し―――なんて徒労は容認できないし、なにより、この姉妹喧嘩に二度目はない。
-  Elle ne pouvait se permettre aucun effort inutile ; or, devoir tout recommencer malgré une victoire face à Aoko et Alice en était un. En outre, il n'y aurait pas de seconde manche à cette querelle fraternelle.
+　Elle ne pouvait se permettre aucun effort inutile ; or, devoir tout recommencer malgré une victoire face à Aoko et Alice en était un. En outre, il n'y aurait pas de seconde manche à cette querelle fraternelle.
 
 }
 [sha:733e7793c3cd0462c477603d46b7c98189bda300]{
 -- Page 3, Offset 18569.
 -- 一度きりの奇襲だからこそ、彼女は全ての資金を<費|つい>やしたのだ。
-  Elle avait investi tous ses fonds dans cette attaque-surprise justement parce qu'elle ne serait réalisable qu'une seule fois.
+　Elle avait investi tous ses fonds dans cette attaque-surprise justement parce qu'elle ne serait réalisable qu'une seule fois.
 
 }
 [sha:3a9c68fbe40c7fbefb54f02324c64860f15db378]{
 -- Page 4, Offset 18570.
 -- 自分がまだ蒼崎の身内である事を利用した侵攻。
-  Son invasion profitait du fait qu'elle appartenait encore à la famille Aozaki.
+　Son invasion profitait du fait qu'elle appartenait encore à la famille Aozaki.
 
 }
 [sha:200523e2cb2fe722deabb4b0047970fec0c8b8a3]{
 -- Page 4, Offset 18571.
 -- 身を粉にして得た三年間の成果を協会に売り渡し、
-  Elle avait vendu à l'Association le fruit de recherches acharnées de trois ans,
+　Elle avait vendu à l'Association le fruit de recherches acharnées de trois ans,
 
 }
 [sha:2d773c3f4695be6ccc53a3017871298dc345b042]{
 -- Page 4, Offset 18572.
 -- 二十年分の髪を代償にし、新たな使い魔を動員した。
-  et employé un nouveau familier en échange des cheveux qu'elle avait laissés pousser pendant vingt ans.
+　et employé un nouveau familier en échange des cheveux qu'elle avait laissés pousser pendant vingt ans.
 
 }
 [sha:74996b21fc5a246e5c25fa4f82744c4d4f69d5f8]{
 -- Page 4, Offset 18573.
 -- この条件で戦える事など、おそらく二度とはありえまい。
-  Elle n'aurait probablement plus jamais l'occasion de se battre dans ces conditions.
+　Elle n'aurait probablement plus jamais l'occasion de se battre dans ces conditions.
 
 }
 [sha:78f5e86bdf59951bbd53587aba19f25e7fca77d1]{
@@ -91,91 +91,91 @@
 [sha:1025c3d2cf1b2e95be79b766575e59ccf2597a27]{
 -- Page 5, Offset 18575.
 -- 敗因は一点、人狼の力を絶対視しすぎていた事だ。
-  La cause de son échec tenait en un point : elle avait surestimé le pouvoir du loup-garou, le considérant comme absolu.
+　La cause de son échec tenait en un point : elle avait surestimé le pouvoir du loup-garou, le considérant comme absolu.
 
 }
 [sha:b0d0c704f1656ab4d350f42f52e26206b691c2b5]{
 -- Page 5, Offset 18576.
 -- 本来、そこに間違いはない。
-  En principe, cette conception ne recelait aucune erreur.
+　En principe, cette conception ne recelait aucune erreur.
 
 }
 [sha:ed5d3581941a09fca8abb6670fee533f1e72ad59]{
 -- Page 5, Offset 18577.
 -- 相手が魔術師であるのなら黄金のベオウルフだけで完璧なまでに勝利できる。
-  Si ses adversaires n'avaient été que des Mages, le Beowulf doré aurait amplement suffi pour remporter une victoire totale.
+　Si ses adversaires n'avaient été que des Mages, le Beowulf doré aurait amplement suffi pour remporter une victoire totale.
 
 }
 [sha:0b14c991ebb59a3fe74bad406e04fa156e800fc8]{
 -- Page 6, Offset 18578.
 -- ……ただ、そこに神風みたいなトラブルが紛れこんだ。
-  ...... Malheureusement, une inconnue aussi dévastatrice qu'un typhon s'était mêlée à l'équation.
+　...... Malheureusement, une inconnue aussi dévastatrice qu'un typhon s'était mêlée à l'équation.
 
 }
 [sha:b25c7f21daf51143a5d0050a7bc954364b0098e0]{
 -- Page 6, Offset 18579.
 -- ベオの強さは相性の強さだ。
-  La force de Beo dépendait aussi de ses affinités avec ses adversaires.
+　La force de Beo dépendait aussi de ses affinités avec ses adversaires.
 
 }
 [sha:f2be2850fb467bb0a807d1b59335258c9018f213]{
 -- Page 6, Offset 18580.
 -- それを熟知しておきながら、なぜ、アレを食い物にできる例外もあると<留意|りゅうい>しなかったのか。
-  Elle le savait parfaitement, alors pourquoi n'avait-elle pas gardé à l'esprit que dans quelques rares exceptions, il pouvait lui-même devenir une proie ?
+　Elle le savait parfaitement, alors pourquoi n'avait-elle pas gardé à l'esprit que dans quelques rares exceptions, il pouvait lui-même devenir une proie ?
 
 }
 [sha:8e3cd6a3800d47b860b9ca0e3be92e1a6c3f3a63]{
 -- Page 7, Offset 18581.
 -- 橙子は冷えきった心で、立ち尽くす少年を凝視する。
-  Tōko fixait le jeune homme immobile d'un œil glacial.
+　Tōko fixait le jeune homme immobile d'un œil glacial.
 
 }
 [sha:809bd6fa5e0f984421b192704712c1e4ad013ca1]{
 -- Page 7, Offset 18582.
 -- ……草十郎の両腕は、ひどい事になっていた。
-  ...... Les bras de Sōjūrō étaient dans un état atroce.
+　...... Les bras de Sōjūrō étaient dans un état atroce.
 
 }
 [sha:eb47db5bb72fdb2100036dedbc38cdde54560fc7]{
 -- Page 7, Offset 18583.
 -- 正面からベオを打った左手は、腕のカタチをしていない。
-  Le gauche, celui avec lequel il avait frappé Beo de face, n'avait même plus sa forme originale.
+　Le gauche, celui avec lequel il avait frappé Beo de face, n'avait même plus sa forme originale.
 
 }
 [sha:c23924e2ffcaf7d3e660b7c97d3605ab656d387f]{
 -- Page 7, Offset 18584.
 -- 知恵の輪のように折れ曲がった骨と、はじけ散った筋肉繊維。<粉砕|ふんさい><骨折|こっせつ>と呼ぶのも馬鹿らしい。
-  Les os s'étaient repliés, prenant la forme de spirales, et les fibres musculaires avaient giclé un peu partout. Il aurait été stupide de désigner ceci comme une simple fracture comminutive.
+　Les os s'étaient repliés, prenant la forme de spirales, et les fibres musculaires avaient giclé un peu partout. Il aurait été stupide de désigner ceci comme une simple fracture comminutive.
 
 }
 [sha:36de697ab41f149e3c18c725963c2e18a3dcdff1]{
 -- Page 8, Offset 18585.
 -- 残った右腕も、肘に赤い血がにじみ出ている。
-  Du sang vermeil s'écoulait du coude de son bras droit.
+　Du sang vermeil s'écoulait du coude de son bras droit.
 
 }
 [sha:5d95c7096b1e3fb6a72a4b6a115b0d45fdef1ae4]{
 -- Page 8, Offset 18586.
 -- ベオの背中を強打した肘は、その肩の筋組織まで破裂させたのだろう。
-  Les tissus musculaires avaient probablement éclaté jusqu'à son épaule lorsqu'il avait percuté le dos de Beo.
+　Les tissus musculaires avaient probablement éclaté jusqu'à son épaule lorsqu'il avait percuté le dos de Beo.
 
 }
 [sha:4da66333f6e3a8c14d3085eee84401c6d3dedcbb]{
 -- Page 8, Offset 18587.
 -- ……だらりと下がっている両腕を見ると、どちらも二度とは振るえまい。
-  ...... En considérant l'état de ses deux bras pendant le long de son corps, il ne pourrait sûrement plus jamais les mouvoir.
+　...... En considérant l'état de ses deux bras pendant le long de son corps, il ne pourrait sûrement plus jamais les mouvoir.
 
 }
 [sha:fb3fcc7cbba000754ed6e1cdc079f84b6abd1ca6]{
 -- Page 9, Offset 18588.
 -- だが、より深い損傷を負っているのは彼の腕ではなく、内臓と左足だ。
-  Cependant, ce n'étaient pas ses bras qui avaient subi les dommages les plus importants, mais ses organes internes et sa jambe gauche.
+　Cependant, ce n'étaient pas ses bras qui avaient subi les dommages les plus importants, mais ses organes internes et sa jambe gauche.
 
 }
 [sha:c934338a980d3f0d7437531d29deb588ea66d387]{
 -- Page 9, Offset 18589.
 -- 軸足となった草十郎の左足は、ベオの突進を支えたに等しい。
-  Cette dernière ayant servi de point d'appui, elle avait littéralement encaissé toute la charge de Beo.
+　Cette dernière ayant servi de point d'appui, elle avait littéralement encaissé toute la charge de Beo.
 
 }
 [sha:6d0b167c1641712a21ffe165291f80a9a3187992]{
@@ -187,55 +187,55 @@ Elle paraissait indemne, mais en réalité, ce n'était plus qu'un morceau de vi
 [sha:aab2a70e7ccc03b2de55a1580580d01153607dea]{
 -- Page 9, Offset 18591.
 -- <内臓|なかみ>はもっと酷い。ベオの体重を受け止めた事で背骨は<軋|きし>み、所々が内出血をしている。
-  Ses organes étaient dans un état pire encore. Sa colonne vertébrale avait craqué en encaissant la charge du loup-garou et des hémorragies internes s'étaient déclarées à plusieurs endroits.
+　Ses organes étaient dans un état pire encore. Sa colonne vertébrale avait craqué en encaissant la charge du loup-garou et des hémorragies internes s'étaient déclarées à plusieurs endroits.
 
 }
 [sha:0fe735af915d034fddc133292c7a9ca071fbc89f]{
 -- Page 10, Offset 18592.
 -- つまり死に<体|たい>。
-  En d'autres termes, c'était un mort-vivant.
+　En d'autres termes, c'était un mort-vivant.
 
 }
 [sha:effb476425b6898f6553040121c08dfbc1b11f04]{
 -- Page 10, Offset 18593.
 -- あれは翼を失った鳥と同じ。
-  Il était comme un oiseau ayant perdu ses ailes.
+　Il était comme un oiseau ayant perdu ses ailes.
 
 }
 [sha:5e24c0e06d0eb8a44d54352df7490c5dbf8c6c78]{
 -- Page 10, Offset 18594.
 -- 生きる為のカタチを捨てた、終わった命。
-  Sa vie avait pris fin, son corps ayant abandonné la forme qui lui permettait de survivre.
+　Sa vie avait pris fin, son corps ayant abandonné la forme qui lui permettait de survivre.
 
 }
 [sha:2f328f8ba5f636bd4ed5b7133f23d24f6f20e023]{
 -- Page 10, Offset 18595.
 -- もう一度戦えば、彼に戦う<術|すべ>はない。
-  Même s'il voulait combattre à nouveau, il n'en aurait pas les moyens.
+　Même s'il voulait combattre à nouveau, il n'en aurait pas les moyens.
 
 }
 [sha:8eaa0d2ceeffefb9b2f26f9c94f9ba2630455b33]{
 -- Page 11, Offset 18596.
 -- 対して、倒れている人狼に傷はない。
-  Le loup-garou étendu au sol, lui, ne souffrait d'aucune blessure.
+　Le loup-garou étendu au sol, lui, ne souffrait d'aucune blessure.
 
 }
 [sha:ebd2c22c1864163bb47d3d252cf13efa501cfa98]{
 -- Page 11, Offset 18597.
 -- 口から吐いた<血咳|けっせき>は一度だけだ。
-  Il n'avait craché du sang qu'à une seule reprise.
+　Il n'avait craché du sang qu'à une seule reprise.
 
 }
 [sha:7d1dce736d0b647467c9c659bc95d0f83cabb41a]{
 -- Page 11, Offset 18598.
 -- 雪原を染める赤い血は、草十郎だけが流している。
-  Le fluide qui teintait de rouge le champ de neige provenait uniquement de Sōjūrō.
+　Le fluide qui teintait de rouge le champ de neige provenait uniquement de Sōjūrō.
 
 }
 [sha:23fe143844ed54b1c2d8c6be6c3a965cec95d5b0]{
 -- Page 11, Offset 18599.
 -- あの鋼より硬い人狼の体毛を、躊躇する事なく殴り付けた証拠である。
-  Preuve qu'il avait frappé sans hésiter la fourrure plus robuste que l'acier du loup-garou.
+　Preuve qu'il avait frappé sans hésiter la fourrure plus robuste que l'acier du loup-garou.
 
 }
 [sha:fd4bbeeb05d2271ed45d393bea91cc98fe2beddb]{
@@ -247,61 +247,61 @@ Elle paraissait indemne, mais en réalité, ce n'était plus qu'un morceau de vi
 [sha:ce4f0c29a4c9650f664c8a153631ddc093ddec47]{
 -- Page 12, Offset 18601.
 -- 拳を振るうのなら相応の負担がある。まして相手は人狼。
-  Recourir au poing implique d'en payer le prix en retour. D'autant plus face à un loup-garou.
+　Recourir au poing implique d'en payer le prix en retour. D'autant plus face à un loup-garou.
 
 }
 [sha:358179c793822cfb4524d761a83e67866b5e47d9]{
 -- Page 12, Offset 18602.
 -- 走ってくる鉄の壁を真っ向から殴るようなものだ。
-  C'est comme frapper un mur de fer qui fonce vers soi.
+　C'est comme frapper un mur de fer qui fonce vers soi.
 
 }
 [sha:4c89faaf1c7482325bf737e65469c356e0723a4d]{
 -- Page 12, Offset 18603.
 -- それを―――”
-  Et lui―――”
+　Et lui―――”
 
 }
 [sha:12b89e193f16144c4fac6d7a7f6061ea49a11e48]{
 -- Page 13, Offset 18604.
 -- 承知の上で、平然と<行|おこな>ったのか。
-  Il avait calmement exécuté cette même action, et ce en toute connaissance de cause.
+　Il avait calmement exécuté cette même action, et ce en toute connaissance de cause.
 
 }
 [sha:f1f664e047c592e6d1ce52f6c95aa2a344f6b383]{
 -- Page 13, Offset 18605.
 -- 動物は自分の体を庇って、本能的に力を加減してしまう。
-  Les animaux protègent leur corps en retenant instinctivement leur force.
+　Les animaux protègent leur corps en retenant instinctivement leur force.
 
 }
 [sha:415f82dc9df89a135184b800282e529b5d6f394a]{
 -- Page 13, Offset 18606.
 -- それを理性の力、技術の<巧|たく>みで<補|おぎな>うのが人間の利点だとしたら、今のは人間の長所の結晶であり、同時に、あまりにも人間性からかけ離れている。
-  Si le point fort de l'homme consiste à suppléer cet instinct par le pouvoir de la raison et une technique ingénieuse, alors ce à quoi elle venait d'assister était l'incarnation de la supériorité humaine, et en même temps, quelque chose qui manquait d'humanité.
+　Si le point fort de l'homme consiste à suppléer cet instinct par le pouvoir de la raison et une technique ingénieuse, alors ce à quoi elle venait d'assister était l'incarnation de la supériorité humaine, et en même temps, quelque chose qui manquait d'humanité.
 
 }
 [sha:5ec2cb700674557d099ed3344d677dfbf5d1aa8c]{
 -- Page 14, Offset 18607.
 -- 自身の保存を顧みない、無償の一撃。
-  Cette attaque négligeait toute idée de préservation ou de rétribution.
+　Cette attaque négligeait toute idée de préservation ou de rétribution.
 
 }
 [sha:a9598fcf2e89f86c47cc8f6bdcf610a33823e2d4]{
 -- Page 14, Offset 18608.
 -- 自己保存の<楔|くさび>を外せば、その一撃は驚異的なものになるだろう。
-  En oubliant tout instinct de conservation, cette technique prenait une dimension miraculeuse.
+　En oubliant tout instinct de conservation, cette technique prenait une dimension miraculeuse.
 
 }
 [sha:ba81cf7ffad0916116beccc2b34d8922538c56de]{
 -- Page 14, Offset 18609.
 -- 鋼の如き人狼の体毛を貫通したのはその結果だ。
-  Résultat, elle avait transpercé la fourrure d'acier du loup-garou.
+　Résultat, elle avait transpercé la fourrure d'acier du loup-garou.
 
 }
 [sha:4d496715fcada5224b5fae4193185c2869ce9e05]{
 -- Page 14, Offset 18610.
 -- ……けれど、人間程度の腕力で、戦車の砲撃にも耐えるあの怪物を倒せるなどとは誰が思おうか。
-  ...... Mais qui aurait pu croire qu'un monstre capable de résister au bombardement d'un tank puisse être vaincu par un simple être humain ?
+　...... Mais qui aurait pu croire qu'un monstre capable de résister au bombardement d'un tank puisse être vaincu par un simple être humain ?
 
 }
 [sha:855c0b1cb7a4a1ed6a5dc5a01126f524b6ca0911]{
@@ -325,97 +325,97 @@ Il avait prévu dès le départ que ses membres ne tiendraient pas......”
 [sha:4abf6b9d29da2b89e881edb0d35c78c94dc7f462]{
 -- Page 15, Offset 18614.
 -- 身体を引き替えにした心臓撃ち。
-  Il avait détruit le cœur de son adversaire en échange de son propre corps.
+　Il avait détruit le cœur de son adversaire en échange de son propre corps.
 
 }
 [sha:e76a775510ea246e7f1cfa81dccf07f97cf7d631]{
 -- Page 15, Offset 18615.
 -- 草十郎の狼退治を脳裏に再生した途端、橙子はぞくりとした感覚を味わった。
-  Aussitôt que l'extermination du loup exécutée par Sōjūrō lui revint à l'esprit, Tōko ressentit des frissons.
+　Aussitôt que l'extermination du loup exécutée par Sōjūrō lui revint à l'esprit, Tōko ressentit des frissons.
 
 }
 [sha:3176440cf64d288085398f5137068ae66ef22834]{
 -- Page 16, Offset 18616.
 -- 彼女にとっては悪夢でしかない筈なのに、目を奪った人体合理の極北。
-  Il ne représentait qu'un cauchemar pour elle, et pourtant, elle n'arrivait pas à détourner les yeux du corps ayant atteint les limites du rationnel.
+　Il ne représentait qu'un cauchemar pour elle, et pourtant, elle n'arrivait pas à détourner les yeux du corps ayant atteint les limites du rationnel.
 
 }
 [sha:de6fdb4b8213494e89337cdd2009150403bb3cde]{
 -- Page 16, Offset 18617.
 -- 門外漢である橙子に見えたものは、アレはわずかな偶然もふくまない、当然の帰結であるという事だけ。
-  La seule chose que Tōko, profane en la matière, savait avec certitude, c'était que cette conclusion ne laissait la place à aucun hasard et qu'elle était l'évidence même.
+　La seule chose que Tōko, profane en la matière, savait avec certitude, c'était que cette conclusion ne laissait la place à aucun hasard et qu'elle était l'évidence même.
 
 }
 [sha:5e0406a32471129e43b4ad6f235c9a5dc1daea08]{
 -- Page 16, Offset 18618.
 -- 少年はあの瞬間―――ベオの胸板を貫く事だけに<専心|せんしん>していた。
-  À ce moment-là, le jeune homme s'était appliqué uniquement à transpercer la poitrine de Beo.
+　À ce moment-là, le jeune homme s'était appliqué uniquement à transpercer la poitrine de Beo.
 
 }
 [sha:df87e8c79546ec930f24eb53c4c9e0c4bfec4319]{
 -- Page 17, Offset 18619.
 -- この広場に現れ、青子たちを視界に収めた時から。
-  Dès l'instant où il avait fait son apparition dans la cour et aperçu Aoko et Alice,
+　Dès l'instant où il avait fait son apparition dans la cour et aperçu Aoko et Alice,
 
 }
 [sha:28de2c8b11a6418861caf7fa7e04f2320d98c94f]{
 -- Page 17, Offset 18620.
 -- ベオを観察し、ベオと呼吸を合わせ、
-  il avait observé Beo, synchronisé leur respiration,
+　il avait observé Beo, synchronisé leur respiration,
 
 }
 [sha:d27052d30d4a9724a700c5d603f636d022c14291]{
 -- Page 17, Offset 18621.
 -- ベオの欠点、交差するのならどの位置が適切か、どのタイミングなら決して<覆|くつがえ>らない天秤が覆るのかを算出し。
-  et calculé les faiblesses du garçon, la position adéquate pour leur échange ainsi que le timing nécessaire pour renverser l'équilibre pratiquement inébranlable.
+　et calculé les faiblesses du garçon, la position adéquate pour leur échange ainsi que le timing nécessaire pour renverser l'équilibre pratiquement inébranlable.
 
 }
 [sha:33fe812b1ac86cbc1da47602749f77d21d24f589]{
 -- Page 17, Offset 18622.
 -- <こ|・><の|・><条|・><件|・>なら勝機があると読み、そうなるように、自身の全てを費やした。
-  Puis, considérant que les conditions réunies lui donnaient une chance de l'emporter, il avait consacré tout son être à atteindre le résultat escompté.
+　Puis, considérant que les conditions réunies lui donnaient une chance de l'emporter, il avait consacré tout son être à atteindre le résultat escompté.
 
 }
 [sha:290eac71db58ca2b48be9d5fda6f237c1c185b5e]{
 -- Page 18, Offset 18623.
 -- ……それは、野生の感性などでは決してない。
-  ...... Ce n'était en aucun cas comparable à l'instinct d'une bête sauvage.
+　...... Ce n'était en aucun cas comparable à l'instinct d'une bête sauvage.
 
 }
 [sha:820a080b88adde0a3b16e60c3647dc08fb15b674]{
 -- Page 18, Offset 18624.
 -- 野生の獣なら、勝てない相手には挑まない。
-  Un animal ne défierait jamais un adversaire contre lequel il n'a aucune chance de victoire.
+　Un animal ne défierait jamais un adversaire contre lequel il n'a aucune chance de victoire.
 
 }
 [sha:c81c66ffb8a0c0f5bc1e98b160f2833c80082e89]{
 -- Page 18, Offset 18625.
 -- 勝ち目のない戦いに命を賭すのは、人間だけの矛盾である。
-  Risquer sa vie dans un combat perdu d'avance est une contradiction unique à l'espèce humaine.
+　Risquer sa vie dans un combat perdu d'avance est une contradiction unique à l'espèce humaine.
 
 }
 [sha:9fe7616236c7736a5ec2f1c6b19399ed8c167d72]{
 -- Page 19, Offset 18626.
 -- その矛盾が、あの一撃を練りあげた。
-  Et cette contradiction avait donné naissance à cette technique.
+　Et cette contradiction avait donné naissance à cette technique.
 
 }
 [sha:1e876127c83875ba08c7b3c422604d3f9827fb0d]{
 -- Page 19, Offset 18627.
 -- 全身の円運動、<踝|かかと>から首までの捻りだしを、<錐|きり>状にして集結させた。
-  Il avait concentré la force du mouvement circulaire de tout son corps, en partant de son talon à son cou, pour en faire un foret.
+　Il avait concentré la force du mouvement circulaire de tout son corps, en partant de son talon à son cou, pour en faire un foret.
 
 }
 [sha:7c2f0726b11fd081d8fee2d45bd4c0aa49a61ded]{
 -- Page 19, Offset 18628.
 -- ……あるいは、ベオが突進による<轢殺|れきさつ>を目的としたのなら、草十郎は為す術なくひき殺されていただろう。
-  ...... Si Beo avait eu l'intention de l'écraser sous sa charge, Sōjūrō aurait été tué sans pouvoir rien faire.
+　...... Si Beo avait eu l'intention de l'écraser sous sa charge, Sōjūrō aurait été tué sans pouvoir rien faire.
 
 }
 [sha:415bf41c92f4a29a46edb98936349573266e9dfb]{
 -- Page 19, Offset 18629.
 -- だがベオは相手を引き裂く事を選んだ。
-  Mais le monstre avait choisi de déchiqueter son adversaire.
+　Mais le monstre avait choisi de déchiqueter son adversaire.
 
 }
 [sha:2729868860fb224a1ff9ad083277d1d328c2de72]{
@@ -427,67 +427,67 @@ Ou plutôt, il avait été poussé à faire ce choix au moyen d'une provocation 
 [sha:d4c53733f84bc951ec51cf9f0243fce445213054]{
 -- Page 20, Offset 18631.
 -- 金狼が突進し、踏みこむ瞬間。
-  Au moment où le loup-garou s'élança.
+　Au moment où le loup-garou s'élança.
 
 }
 [sha:93d6961b78b755e172aeb723de13a73ed1875b2b]{
 -- Page 20, Offset 18632.
 -- 爪を振り上げ、下ろす時の<気勢|いしき>の淀み。
-  Au moment où il était le plus excité à l'idée d'abaisser ses griffes.
+　Au moment où il était le plus excité à l'idée d'abaisser ses griffes.
 
 }
 [sha:9b4300906528708ede3f17acf0c1cd37a69eff87]{
 -- Page 20, Offset 18633.
 -- 運動の基点、脈拍の乱れ、一瞬の無防備さ。
-  Au moment où il se trouvait sans défense, le pouls désordonné et paré à attaquer.
+　Au moment où il se trouvait sans défense, le pouls désordonné et paré à attaquer.
 
 }
 [sha:b3e583d4660b7413821d2b4558d98acb98bf6c7e]{
 -- Page 20, Offset 18634.
 -- 彼が突いたのはその一点だ。
-  Ce fut à ce moment-là que Sōjūrō frappa.
+　Ce fut à ce moment-là que Sōjūrō frappa.
 
 }
 [sha:f7823e3501282ff90d011d13cd0e1dcc8c50513a]{
 -- Page 20, Offset 18635.
 -- 力を持て余し、ただ周囲にまき散らすだけの怪物と。
-  Le monstre avait seulement éparpillé son énorme pouvoir autour de lui, sans contrôle,
+　Le monstre avait seulement éparpillé son énorme pouvoir autour de lui, sans contrôle,
 
 }
 [sha:fcee582ebfcd7b64587088431a971cbdcec5a7a7]{
 -- Page 20, Offset 18636.
 -- 数少ない力を<束|たば>ね、極小の一点に注ぎこむ人間の執念。
-  tandis que l'homme tenace avait concentré ses forces limitées en un seul et même point.
+　tandis que l'homme tenace avait concentré ses forces limitées en un seul et même point.
 
 }
 [sha:cb8a13c6fd33da6fe08194d4424b626aec6309de]{
 -- Page 20, Offset 18637.
 -- その差が、天秤を人間に<傾|かたむ>けた。
-  Cette différence fit pencher la balance en sa faveur.
+　Cette différence fit pencher la balance en sa faveur.
 
 }
 [sha:a52fac307dcb800555c1ed71d524d32dee8c0f0a]{
 -- Page 21, Offset 18638.
 -- その後、あの<無様|ぶざま>な肘撃ちでベオの心臓は破裂した。
-  Le cœur de Beo avait implosé à cause du coup de coude disgracieux qui avait suivi.
+　Le cœur de Beo avait implosé à cause du coup de coude disgracieux qui avait suivi.
 
 }
 [sha:dfcdab218e7bb12a60b55d1f9e9698170577a2ab]{
 -- Page 21, Offset 18639.
 -- 二撃目の肘撃ちには何の美しさもない。
-  Cette deuxième frappe ne recelait aucune beauté.
+　Cette deuxième frappe ne recelait aucune beauté.
 
 }
 [sha:1829b2097a2acd6527fa873ad9ea9750c01e99c0]{
 -- Page 21, Offset 18640.
 -- 力まかせの、ベオと大差ない未熟な攻撃だった。
-  Ce n'était qu'une attaque de novice ne laissant libre cours qu'à la force tout comme celle de Beo.
+　Ce n'était qu'une attaque de novice ne laissant libre cours qu'à la force tout comme celle de Beo.
 
 }
 [sha:8cba77b30c36b823376b03277135206ca94ef181]{
 -- Page 21, Offset 18641.
 -- 本来ならベオの体毛に弾かれるだけの肘撃ちを致命傷たらしめたのは、最初の一撃があってこそ。
-  Si ce coup de coude, qui aurait dû être repoussé par la fourrure du loup-garou, avait été fatal, c'était entièrement grâce à leur premier contact.
+　Si ce coup de coude, qui aurait dû être repoussé par la fourrure du loup-garou, avait été fatal, c'était entièrement grâce à leur premier contact.
 
 }
 [sha:1360a14270434ae9ffa75f5d0af0489df5e503e0]{
@@ -499,67 +499,67 @@ Ou plutôt, il avait été poussé à faire ce choix au moyen d'une provocation 
 [sha:799e6934a9045f74812e6bad8433f7eb0a547ceb]{
 -- Page 22, Offset 18643.
 -- 無敵の人狼が、その機能の一切を休止させられた。
-  Ses fonctions vitales qui lui conféraient son invincibilité de loup-garou étaient suspendues.
+　Ses fonctions vitales qui lui conféraient son invincibilité de loup-garou étaient suspendues.
 
 }
 [sha:af2a908919b038ce84b430998f4fca3be61af682]{
 -- Page 22, Offset 18644.
 -- つまり―――”
-  En d'autres termes―――”
+　En d'autres termes―――”
 
 }
 [sha:378d3c80b8f44c8602055a50eca0e774bf3a30be]{
 -- Page 22, Offset 18645.
 -- アレは『壊す』のではなく、『止める』ための芸術だ。
-  Cet art ne servait pas à “détruire”, mais à “stopper”.
+　Cet art ne servait pas à “détruire”, mais à “stopper”.
 
 }
 [sha:3f3a56dc61a3d49c98e110639aad0d9a6e548c98]{
 -- Page 23, Offset 18646.
 -- 生物には欠点がある。
-  Les êtres vivants ont tous un point faible.
+　Les êtres vivants ont tous un point faible.
 
 }
 [sha:bc4ef8daee3adf72d490a36085fd12d7cab9fa5c]{
 -- Page 23, Offset 18647.
 -- どのような強者であれ、弱い部分、弱い瞬間、弱い時間は存在する。
-  Même les plus forts ont un point sensible, un instant ou une période de faiblesse.
+　Même les plus forts ont un point sensible, un instant ou une période de faiblesse.
 
 }
 [sha:bbbd2c0d2a0b76ee3e29bceb04d855e1cc6a1404]{
 -- Page 23, Offset 18648.
 -- それは<生態機能|フィジカル>だけに及ばず、<精神|メンタル>にもある落とし穴だ。
-  C'est un piège qui concerne non seulement le physique mais aussi le mental.
+　C'est un piège qui concerne non seulement le physique mais aussi le mental.
 
 }
 [sha:9cbfea2a48f33b1df108d195fdd9d285f0c477c1]{
 -- Page 24, Offset 18649.
 -- 曰く、調子が悪い。
-  Par exemple, se sentir mal.
+　Par exemple, se sentir mal.
 
 }
 [sha:d04c6a301911d0d62f13d677045e36634819d4ea]{
 -- Page 24, Offset 18650.
 -- 思考が冴えない、気分が乗らない。
-  Ne pas avoir les pensées claires, ne pas être d'humeur.
+　Ne pas avoir les pensées claires, ne pas être d'humeur.
 
 }
 [sha:8829322736df3c668a4282084d42f7fe788ed765]{
 -- Page 24, Offset 18651.
 -- <病|やまい>、睡眠、食事、最小単位で言うのなら呼吸の隙間。
-  La maladie, le sommeil, le repas, et pour aller plus loin, l'instant où l'on respire.
+　La maladie, le sommeil, le repas, et pour aller plus loin, l'instant où l'on respire.
 
 }
 [sha:9f126d645af3c6795f7ea1441bcaa146a55bdf66]{
 -- Page 24, Offset 18652.
 -- 多くの理由から、理性あるものはその力を十全に発揮できない危険がある。
-  Dans de nombreux cas, il y a toujours un risque que les êtres doués de raison se retrouvent incapables d'en faire usage avec satisfaction.
+　Dans de nombreux cas, il y a toujours un risque que les êtres doués de raison se retrouvent incapables d'en faire usage avec satisfaction.
 
 }
 [sha:1835c8d0ba4a08fcd57855761c4b87a200808c3f]{
 -- Page 24, Offset 18653.
 -- いかな神話の獣と言えど、ヒトであるかぎりその縛りからは逃れられない。
-  Monstre légendaire ou pas, du moment que l'on est une personne, il est impossible d'échapper à cette entrave.
+　Monstre légendaire ou pas, du moment que l'on est une personne, il est impossible d'échapper à cette entrave.
 
 }
 [sha:49be2f52192bc3d24f2c562043fd4f7a55b71cc8]{
@@ -571,19 +571,19 @@ Ou plutôt, il avait été poussé à faire ce choix au moyen d'une provocation 
 [sha:a65b69793876ddc97dfde7abd5dc1bc9d8c11da9]{
 -- Page 25, Offset 18655.
 -- あの少年の心臓撃ちは、ベオを殺す目的で撃たれたものではない。
-  L'attaque visant le cœur de Beo n'avait pas été effectuée dans le but de le tuer.
+　L'attaque visant le cœur de Beo n'avait pas été effectuée dans le but de le tuer.
 
 }
 [sha:d329518194082cc97951d9aa00e4f082c828523e]{
 -- Page 25, Offset 18656.
 -- アレは弱点がないものに、弱点を作っただけ。
-  Elle n'avait fait que donner un point faible à un être qui en était dépourvu.
+　Elle n'avait fait que donner un point faible à un être qui en était dépourvu.
 
 }
 [sha:82fa544eb156a8e9c2256819b35cfa1a738f4376]{
 -- Page 25, Offset 18657.
 -- その後の肘撃ちが力任せでありながらベオを粉砕したのは、既にベオが己の完全性を見失っていたからだ。
-  Même s'il ne s'agissait que de force brute, le coup de coude avait terrassé Beo car il avait déjà oublié sa propre perfection.
+　Même s'il ne s'agissait que de force brute, le coup de coude avait terrassé Beo car il avait déjà oublié sa propre perfection.
 
 }
 [sha:d86a5a256ca1332f1e95d6cf031c9ffd4d840551]{
@@ -595,13 +595,13 @@ Ou plutôt, il avait été poussé à faire ce choix au moyen d'une provocation 
 [sha:8e935bb93768878d5739c3f43d3a4c6bf17905b8]{
 -- Page 26, Offset 18659.
 -- ベオの神経の伝達速度なら、毒が当たった瞬間に感知し、対応できる。
-  La vitesse de communication nerveuse de Beo lui permet de détecter un poison dès qu'il est injecté et de prendre les mesures adéquates.
+　La vitesse de communication nerveuse de Beo lui permet de détecter un poison dès qu'il est injecté et de prendre les mesures adéquates.
 
 }
 [sha:f17c68283a8110d5fee44071741b433d429943fc]{
 -- Page 26, Offset 18660.
 -- だが―――そもそも、それを毒と認識できなければ変形のしようもない。
-  Cependant―――s'il ne l'identifie pas comme tel, il ne peut pas trouver la transformation appropriée.
+　Cependant―――s'il ne l'identifie pas comme tel, il ne peut pas trouver la transformation appropriée.
 
 }
 [sha:f9c3a7810a74634fe50fb30bbc315eacd01c073b]{
@@ -613,49 +613,49 @@ Qui aurait pu lui apprendre que ce qui n'est pas du poison peut le devenir――
 [sha:00dc10b830cf75c6103b219d914d190e500a32f5]{
 -- Page 27, Offset 18662.
 -- 舌打ちの一つもしたくなる。
-  Elle aurait bien voulu faire claquer sa langue.
+　Elle aurait bien voulu faire claquer sa langue.
 
 }
 [sha:71cede4a8ca837c029158d2339ffc5c86046a702]{
 -- Page 27, Offset 18663.
 -- アレは究極の<献身|けんしん>。もしくは<捨身|しゃしん>。
-  Il s'agissait d'un dévouement total. Autrement dit, du renoncement de la chair.
+　Il s'agissait d'un dévouement total. Autrement dit, du renoncement de la chair.
 
 }
 [sha:06c195dc248fec240e0e79a8cc648cc861daa750]{
 -- Page 27, Offset 18664.
 -- 見返りを一切考えず、たった一秒の空白を作り上げる為だけに己の全てを賭した。
-  On exécutait cette technique sans attendre la moindre récompense, en mettant en jeu tout son être afin de créer un vide de seulement une seconde.
+　On exécutait cette technique sans attendre la moindre récompense, en mettant en jeu tout son être afin de créer un vide de seulement une seconde.
 
 }
 [sha:d789621af1efa903f601f13eac64fec118d711c0]{
 -- Page 27, Offset 18665.
 -- それが出来る技量と経験を、あの少年は持っていたのだ。
-  Ce jeune homme possédait les compétences et l'expérience nécessaires pour y parvenir.
+　Ce jeune homme possédait les compétences et l'expérience nécessaires pour y parvenir.
 
 }
 [sha:04973bde397db1f57d5524ec49702913402aa2b0]{
 -- Page 28, Offset 18666.
 -- 奇跡を呼ぶ幸運も、
-  La chance qui permettait de produire un miracle,
+　La chance qui permettait de produire un miracle,
 
 }
 [sha:1abec4679c6760d357948238e965cddf76d89280]{
 -- Page 28, Offset 18667.
 -- 奇跡を掴む情熱も、あの行為には関わりがない。
-  et l'ardeur qui permettait de s'en saisir n'avaient aucune place dans cet acte.
+　et l'ardeur qui permettait de s'en saisir n'avaient aucune place dans cet acte.
 
 }
 [sha:569ebe2620d92a6a64b96b5cfae9fccbd7f25666]{
 -- Page 28, Offset 18668.
 -- アレは才能によるものではなく、執念、怨念の<類|たぐい>。
-  Ce n'était pas dû au talent, mais à un genre de ténacité, voire de rancune.
+　Ce n'était pas dû au talent, mais à un genre de ténacité, voire de rancune.
 
 }
 [sha:6346e5f29522c1ab1d8beb036df90cc3a53700eb]{
 -- Page 28, Offset 18669.
 -- 過度の、極限状態での<鍛練|くりかえし>でなければ、あんな、一瞬で自身を焼却するような真似はできない。
-  S'il n'avait pas vécu un nombre incalculable de situations extrêmes, il n'aurait jamais pu décider de s'autodétruire en un instant.
+　S'il n'avait pas vécu un nombre incalculable de situations extrêmes, il n'aurait jamais pu décider de s'autodétruire en un instant.
 
 }
 [sha:78d776bf0213e95cbf6545d358e1b97e38951de1]{
@@ -667,19 +667,19 @@ Qui aurait pu lui apprendre que ce qui n'est pas du poison peut le devenir――
 [sha:6f29c315931c0062e417f6bf9cbe9ffb0e2cffcf]{
 -- Page 29, Offset 18671.
 -- うずくまるベオを見て、橙子は自身の甘さに失望した。
-  Tōko fut découragée par sa propre naïveté en voyant Beo se recroqueviller.
+　Tōko fut découragée par sa propre naïveté en voyant Beo se recroqueviller.
 
 }
 [sha:799defac6ce51d60f27292623f0833509a1d84bb]{
 -- Page 29, Offset 18672.
 -- 性能のみを評価して連れてきたが、経験の少なさがこの結果を生んだのだ。
-  Elle l'avait emmené avec elle en se focalisant uniquement sur ses qualités, mais son manque d'expérience avait mené à ce résultat.
+　Elle l'avait emmené avec elle en se focalisant uniquement sur ses qualités, mais son manque d'expérience avait mené à ce résultat.
 
 }
 [sha:88c9f5c99274aacc6d01ece3f20f9224bfa093d9]{
 -- Page 29, Offset 18673.
 -- ベオが子供でなければ、せめて一度でも自分と対等の相手と命を削りあう経験があったのなら、すぐさま立ち上がって草十郎を食い殺していただろうに。
-  Si Beo n'avait pas été un enfant, ou s'il s'était battu au moins une fois à mort contre un monstre de force égale, alors il se serait relevé immédiatement pour dévorer Sōjūrō.
+　Si Beo n'avait pas été un enfant, ou s'il s'était battu au moins une fois à mort contre un monstre de force égale, alors il se serait relevé immédiatement pour dévorer Sōjūrō.
 
 }
 [sha:f23e23b24d4c864c83f0a9b7988d8707fec7f415]{
@@ -691,43 +691,43 @@ Qui aurait pu lui apprendre que ce qui n'est pas du poison peut le devenir――
 [sha:4c75bf6f30d49301b3f76f3b5d3dd1e32912ac8d]{
 -- Page 30, Offset 18675.
 -- そして、彼女は静かに左手を持ち上げる。
-  Elle leva alors calmement la main gauche.
+　Elle leva alors calmement la main gauche.
 
 }
 [sha:3eea1d2dd0173ae9d7875c2cf104c3e5da947c0f]{
 -- Page 30, Offset 18676.
 -- 気が付く者は一人もいなかった。
-  Personne ne s'en aperçut.
+　Personne ne s'en aperçut.
 
 }
 [sha:041f0b7afa3ec26fb5236c626df6a51a1be2572e]{
 -- Page 31, Offset 18677.
 -- 遠くで立つ少年の姿は、絵本の狩人に見えた。
-  La silhouette du jeune homme se tenant au loin évoquait celle du chasseur dans les contes.
+　La silhouette du jeune homme se tenant au loin évoquait celle du chasseur dans les contes.
 
 }
 [sha:263b9c7eaba1be363b15fe6ad595ea33ded46c3f]{
 -- Page 31, Offset 18678.
 -- 細い肉付きだが、アレは意図的に無駄を削ぎ落とされた結果だろう。
-  Il était svelte, mais cela résultait sans doute d'un entraînement visant à brûler les graisses inutiles.
+　Il était svelte, mais cela résultait sans doute d'un entraînement visant à brûler les graisses inutiles.
 
 }
 [sha:7cf24c5c41cbde29fd31f367ff9f7110f281bccb]{
 -- Page 31, Offset 18679.
 -- 今の光景の後だと、その<飄然|ひょうぜん>とした仕草も、獲物を狙う獣のしなやかさを思わせる。
-  Après le spectacle auquel elle venait d'assister, son attitude nonchalante lui rappelait la souplesse d'une bête chassant une proie.
+　Après le spectacle auquel elle venait d'assister, son attitude nonchalante lui rappelait la souplesse d'une bête chassant une proie.
 
 }
 [sha:277af8233ffaa21e95ab4f79fcdee67d566e2762]{
 -- Page 31, Offset 18680.
 -- それを感じながら、橙子は不意に思い出した。
-  Un souvenir lui revint en mémoire tandis que cette image lui venait en tête :
+　Un souvenir lui revint en mémoire tandis que cette image lui venait en tête :
 
 }
 [sha:c8e7ddfc43afefba188e5237dec3b8d445a6af06]{
 -- Page 31, Offset 18681.
 -- 自分が彼と初めて話をした時、まっさきに脳裏によぎった事柄を。
-  la pensée qui lui avait traversé l'esprit lorsqu'elle lui avait parlé pour la première fois.
+　la pensée qui lui avait traversé l'esprit lorsqu'elle lui avait parlé pour la première fois.
 
 }
 [sha:de341139e4d65c780531492d21d068edccfac4f9]{
@@ -739,30 +739,30 @@ Qui aurait pu lui apprendre que ce qui n'est pas du poison peut le devenir――
 [sha:d13a52505234237bcb5fcec5d0bfe1db0a39949e]{
 -- Page 32, Offset 18683.
 -- だが、それは忘れていたかったよ、草十郎君”
-  Mais j'aurais préféré l'oublier, Sōjūrō.”
+　Mais j'aurais préféré l'oublier, Sōjūrō.”
 
 }
 [sha:f13d5f504152bafdcbd9dab578102a4ceb25d347]{
 -- Page 32, Offset 18684.
 -- 自分らしからぬ感傷を、鉄の理性が飲み下す。
-  Sa raison d'acier engloutit ce sentimentalisme qui ne lui ressemblait pas.
+　Sa raison d'acier engloutit ce sentimentalisme qui ne lui ressemblait pas.
 
 }
 [sha:8098001c3b448544a10e818c388f7aa12c047b5c]{
 -- Page 32, Offset 18685.
 -- 手段の善悪など、蒼崎の後継ぎとして育てられた時に消失している。
-  Les notions de bien et de mal lui avaient été ôtées depuis longtemps par l'éducation qu'elle avait reçue en tant que successeur des Aozaki.
+　Les notions de bien et de mal lui avaient été ôtées depuis longtemps par l'éducation qu'elle avait reçue en tant que successeur des Aozaki.
 
 }
 [sha:a98ecd1af05d67b16fc2fd5ba7f691f6c15faf25]{
 -- Page 32, Offset 18686.
 -- だから、今からでも。
-  Voilà pourquoi, même maintenant,
+　Voilà pourquoi, même maintenant,
 
 }
 [sha:1f0a711487ed10d7cf7c4e8b941c4363d2fc2c43]{
 -- Page 32, Offset 18687.
 -- 彼女のやるべき行為は、たった一つに決まっていた。
-  elle n'avait qu'une seule chose à faire.
+　elle n'avait qu'une seule chose à faire.
 
 }

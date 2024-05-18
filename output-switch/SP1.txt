@@ -1,13 +1,13 @@
 [sha:ed84a5fe76d9a8640a6069ed5abfaedc5cdb2935]{
 -- Page 0, Offset 20467.
 -- 人里<離|はな>れた辺境から都会に来てはや一年。
-  Cela faisait déjà un an qu'il avait quitté sa région natale et isolée du reste du monde pour rejoindre la civilisation moderne.
+　Cela faisait déjà un an qu'il avait quitté sa région natale et isolée du reste du monde pour rejoindre la civilisation moderne.
 
 }
 [sha:58e93a86d83721c5aebb6042068db250530d2833]{
 -- Page 0, Offset 20468.
 -- ヒトとケモノとで一番の大きな違いは、『好き嫌い』という嗜好性なんじゃないだろうか、とカレは思った。
-  Pour lui, la plus grande différence entre les hommes et les bêtes se trouvait dans l'existence chez les premiers de préférences de goût.
+　Pour lui, la plus grande différence entre les hommes et les bêtes se trouvait dans l'existence chez les premiers de préférences de goût.
 
 }
 [sha:6f12239c470f6cab644ac6e8388605f76e474480]{
@@ -19,25 +19,25 @@
 [sha:9a21608e13adbc772ae8e1d64bef7bfdb738ecd3]{
 -- Page 1, Offset 20470.
 -- うん、いいんじゃない？　ちょっとみすぼらしいけど、まわりに人間がいないのはキレイでいいよね」
-  Oui, c'est pas mal. Un peu miteux, mais comme il n'y a pas d'humains dans les environs, on s'y sent bien.」
+　Oui, c'est pas mal. Un peu miteux, mais comme il n'y a pas d'humains dans les environs, on s'y sent bien.」
 
 }
 [sha:0a0b648507dca44d66f86fd1a7a73c3671c28a96]{
 -- Page 2, Offset 20471.
 -- 白いコートの人影が、くるくると廊下で<躍|おど>る。
-  Le garçon vêtu d'un manteau blanc dansait de joie dans le couloir.
+　Le garçon vêtu d'un manteau blanc dansait de joie dans le couloir.
 
 }
 [sha:7bd1ddd92eb5abd9086dfd70168c2e94a8746c3c]{
 -- Page 2, Offset 20472.
 -- その様はウインドウショッピングを楽しむ少女のようだ。
-  On aurait pu le prendre pour une jeune fille en plein lèche-vitrines.
+　On aurait pu le prendre pour une jeune fille en plein lèche-vitrines.
 
 }
 [sha:396c592cd0fd136359272d0f77d45a9cd69c5497]{
 -- Page 2, Offset 20473.
 -- 事実、ソレは興味津々とばかりに朽ち果てた校舎の無惨を<愉|たの>しんでいる。
-  En vérité, ses yeux brillants de curiosité se délectaient du spectacle qu'offrait l'établissement délabré.
+　En vérité, ses yeux brillants de curiosité se délectaient du spectacle qu'offrait l'établissement délabré.
 
 }
 [sha:8da509416405f44cd89f88087035ecb19db11b08]{
@@ -49,55 +49,55 @@
 [sha:fecdfe6be5087b9a8a68f6c773e65c45a7078139]{
 -- Page 3, Offset 20475.
 -- 調子に乗ってると、バキッと床を<踏|ふ>み抜いて―――」
-  Si tu fais l'idiot, tu vas traverser le plancher et―――」
+　Si tu fais l'idiot, tu vas traverser le plancher et―――」
 
 }
 [sha:4fa7a33b722400113f86ee1f1a8b016efd451972]{
 -- Page 3, Offset 20476.
 -- 楽しいわよ、と言いかけた口が閉じる。
-  C'est moi qui rigolerai, voulut-elle rajouter avant de s'interrompre.
+　C'est moi qui rigolerai, voulut-elle rajouter avant de s'interrompre.
 
 }
 [sha:5b607faa6e3cec26f8ff6e178d85f6ec389eb3a9]{
 -- Page 4, Offset 20477.
 -- 響いている足音は一人分だけ。
-  Seule sa paire de chaussures produisait du bruit.
+　Seule sa paire de chaussures produisait du bruit.
 
 }
 [sha:1ac2e35dc148790556c4f9da527f2a2198da4f89]{
 -- Page 4, Offset 20478.
 -- 老朽化した廊下を<労|ねぎら>ってか、それとも身も心も浮かれているのか。
-  Peut-être souhaitait-il ménager le couloir vétuste, ou bien la joie avait-elle allégé son corps,
+　Peut-être souhaitait-il ménager le couloir vétuste, ou bien la joie avait-elle allégé son corps,
 
 }
 [sha:ca8e1bec312f48b0206a6b7276cd9de74f446cdc]{
 -- Page 4, Offset 20479.
 -- コート姿のソレは先ほどから微塵も、自身の三十キロ程度の重さすら、廊下に加えてはいなかった。
-  mais le garçon emmitonné avait totalement étouffé son poids de trente kilos qui aurait dû peser sur les planches de bois.
+　mais le garçon emmitonné avait totalement étouffé son poids de trente kilos qui aurait dû peser sur les planches de bois.
 
 }
 [sha:1cbe0ac2acdc16d6529a21e598447742bab69e8e]{
 -- Page 5, Offset 20480.
 -- 曰く、<仁獣|じんじゅう>は野原を歩いても草花を傷つけないと云う。
-  Selon les légendes, les bêtes mystiques pouvaient fouler un champ sans même faire ployer les herbes qui y poussaient.
+　Selon les légendes, les bêtes mystiques pouvaient fouler un champ sans même faire ployer les herbes qui y poussaient.
 
 }
 [sha:5c94ae8d9e7b4ec6bf410eca9537147aa76745ee]{
 -- Page 5, Offset 20481.
 -- あのコート姿の人影もその<類|たぐい>の生き物らしい。
-  Le garçon semblait s'inscrire dans cette catégorie d'êtres vivants.
+　Le garçon semblait s'inscrire dans cette catégorie d'êtres vivants.
 
 }
 [sha:96fde2dd805c4ebdd1e10ff4d2970f503bda7979]{
 -- Page 5, Offset 20482.
 -- カレは環境側の生き物だ。
-  Il était l'allié de l'environnement.
+　Il était l'allié de l'environnement.
 
 }
 [sha:5b03cce41bf876790e1d1065e851bebef24e26ff]{
 -- Page 5, Offset 20483.
 -- 高等、下等、どちらであろうと肉持つ獣には何の温情も持たないが、同胞には人並み……いや、狼並みの温情を持つらしい。
-  Il ne montrait aucune bienveillance envers les êtres de chair, qu'ils se situent au sommet de la chaîne alimentaire ou pas, mais il faisait preuve d'une indulgence toute humaine... ou plutôt lupine... envers ses congénères.
+　Il ne montrait aucune bienveillance envers les êtres de chair, qu'ils se situent au sommet de la chaîne alimentaire ou pas, mais il faisait preuve d'une indulgence toute humaine... ou plutôt lupine... envers ses congénères.
 
 }
 [sha:d1ea193eecfb5b358deb816f299674a162e7d5b7]{
@@ -109,7 +109,7 @@
 [sha:722488a56e23601288b730b8a87096a686215182]{
 -- Page 6, Offset 20485.
 -- 町に出かけてくるけど、何かほしいものはある？　マンガとか、小説とか」
-  Je vais faire un tour en ville, tu veux que je te ramène quelque chose ? Un manga ou un roman, peut-être ?」
+　Je vais faire un tour en ville, tu veux que je te ramène quelque chose ? Un manga ou un roman, peut-être ?」
 
 }
 [sha:1b775e4b2b60f865b088da5796eb48af7f33ffad]{
@@ -121,7 +121,7 @@
 [sha:e8528d70e12d60bd6e02e8521437726119d52872]{
 -- Page 6, Offset 20487. Glued. Mods: @x.
 -- あ、帰りにハンバーガー買ってきてくれたら嬉しいな！　あの、パン生地がどっしりしてて、ハンバーグがぎゅっとしたヤツがいい！」
- Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
+Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
 
 }
 [sha:f5b1f9198590b7e345d7425e443dc1e1214bf3ed]{
@@ -133,37 +133,37 @@
 [sha:bc2225dd472a24e2ab3a9cd92fc2745704f92262]{
 -- Page 7, Offset 20489.
 -- ……失敗したかな？　ルームサービスのあるホテルの方が、<後々|あとあと>証拠は残らなさそう」
-  ...... Ai-je fait le mauvais choix ? On aurait moins attiré l'attention sur le long terme dans un hôtel avec service de chambre...」
+　...... Ai-je fait le mauvais choix ? On aurait moins attiré l'attention sur le long terme dans un hôtel avec service de chambre...」
 
 }
 [sha:19edc989e3ab05dcc6415eaf3a4386859add2f37]{
 -- Page 8, Offset 20490.
 -- やれやれとため息をつくのは、言うまでもなく蒼崎橙子である。
-  On entendit un soupir désappointé dans le couloir ; cela allait sans dire, il provenait d'Aozaki Tōko.
+　On entendit un soupir désappointé dans le couloir ; cela allait sans dire, il provenait d'Aozaki Tōko.
 
 }
 [sha:1cadcf80385cb28e8c5d18471d7abd32287ce5ae]{
 -- Page 8, Offset 20491.
 -- 眼鏡をかけているので、口調も仕草も彼女本来のものに固定されている。
-  Comme elle portait ses lunettes, son timbre de voix et son comportement étaient ceux de sa personnalité d'origine.
+　Comme elle portait ses lunettes, son timbre de voix et son comportement étaient ceux de sa personnalité d'origine.
 
 }
 [sha:1af44849b77f544f99d931163f39f1386c746a7a]{
 -- Page 9, Offset 20492.
 -- 十二月初頭。
-  En ce début décembre,
+　En ce début décembre,
 
 }
 [sha:55d7a88b77a858b282c612f4b64d08fa7b2d7c96]{
 -- Page 9, Offset 20493.
 -- 彼女とカレが三咲市にやってきてから、まる一ヶ月が経過しようとしていた。
-  pratiquement un mois s'était écoulé depuis l'arrivée de la jeune femme et du garçon dans la ville de Misaki.
+　pratiquement un mois s'était écoulé depuis l'arrivée de la jeune femme et du garçon dans la ville de Misaki.
 
 }
 [sha:6d2bf54f4898f00e0635ab60d363e271618e45f6]{
 -- Page 9, Offset 20494.
 -- 今までは隣町から三咲町を攻略していた橙子だが、そろそろ本番という事で、<本営|ほんえい>をここ旧校舎に移転させたのである。
-  Tōko avait jusque-là planifié sa conquête du vieux quartier de Misaki depuis la ville voisine, mais le combat final approchant, elle avait déménagé sa base d'opérations dans cette vieille école.
+　Tōko avait jusque-là planifié sa conquête du vieux quartier de Misaki depuis la ville voisine, mais le combat final approchant, elle avait déménagé sa base d'opérations dans cette vieille école.
 
 }
 [sha:c8ac8a5b3da36f438642ed24414f607e878ca43f]{
@@ -199,25 +199,25 @@
 [sha:80ec749751bcd4147312e8db5c2053e7e38b90e2]{
 -- Page 10, Offset 20500.
 -- 趣味に走る時、まわりにヒトがいるのイヤがるじゃない。いろんな物に興味を持つクセに、興味を持たれるのはメンドウってゆーか」
-  Lorsque tu te laisses emporter par tes passe-temps, tu n'aimes pas qu'il y ait des gens autour de toi. Plein de choses retiennent ton attention, mais tu n'aimes pas quand elle se porte sur toi, c'est un peu contradictoire.」
+　Lorsque tu te laisses emporter par tes passe-temps, tu n'aimes pas qu'il y ait des gens autour de toi. Plein de choses retiennent ton attention, mais tu n'aimes pas quand elle se porte sur toi, c'est un peu contradictoire.」
 
 }
 [sha:3f97d69b260dc9b3cef7fd75c799a377e55e5d9f]{
 -- Page 11, Offset 20501.
 -- 指摘されて、そっか、と納得する橙子だった。
-  “Tu as peut-être raison”, consentit Tōko maintenant qu'il le lui faisait remarquer.
+　“Tu as peut-être raison”, consentit Tōko maintenant qu'il le lui faisait remarquer.
 
 }
 [sha:83d4d5b818d2c999fb49752e1ff5f8bc629dc0c8]{
 -- Page 11, Offset 20502.
 -- カレと契約したのは二年前だが、本格的に護衛として同伴させてからじき一年。
-  Elle avait passé un contrat avec lui deux ans auparavant, et cela faisait un an qu'il l'accompagnait véritablement en tant que garde du corps.
+　Elle avait passé un contrat avec lui deux ans auparavant, et cela faisait un an qu'il l'accompagnait véritablement en tant que garde du corps.
 
 }
 [sha:8e8daf69f3d868e18aaaab66ffb79d3637cd4ffd]{
 -- Page 11, Offset 20503.
 -- 蒼崎橙子という人間の根っこにある問題を、カレはきちんと把握しているらしい。
-  Il semblait parfaitement au fait des problèmes de personnalité présents au plus profond de la femme répondant au nom d'Aozaki Tōko.
+　Il semblait parfaitement au fait des problèmes de personnalité présents au plus profond de la femme répondant au nom d'Aozaki Tōko.
 
 }
 [sha:17f6dde6d5713c12e3c8628c329d0f7b808cdd14]{
@@ -229,7 +229,7 @@
 [sha:0dd69537847fd78b7c9bc5df5f36230ecc1743e1]{
 -- Page 12, Offset 20505.
 -- でも、こんな田舎町じゃ君を連れているだけで噂になるでしょ。結果的に、<山奥|ここ>に工房を構えるしかなかったの」
-  Mais dans cette ville de province, les rumeurs nous suivront tant que tu es avec moi. Du coup, j'ai été contrainte d'établir mon Atelier dans la montagne.」
+　Mais dans cette ville de province, les rumeurs nous suivront tant que tu es avec moi. Du coup, j'ai été contrainte d'établir mon Atelier dans la montagne.」
 
 }
 [sha:0dafee50051c8385463e83a48706050c7974451d]{
@@ -241,7 +241,7 @@
 [sha:25158efac67a525cbf9d216893336dad146e1b87]{
 -- Page 13, Offset 20507.
 -- 別に目立たないと思うけどなー」
-  Je ne pense pas sortir du lot.」
+　Je ne pense pas sortir du lot.」
 
 }
 [sha:b0b487036b6484e21535c35d2409c4df6dca87c3]{
@@ -253,25 +253,25 @@
 [sha:fe10706cbce28f6e98e6e50b0f8d133a514777b8]{
 -- Page 14, Offset 20509.
 -- しかし、その要望は叶わない。
-  Mais cette demande ne pouvait être exaucée.
+　Mais cette demande ne pouvait être exaucée.
 
 }
 [sha:3bcd61b930f58226710d5cb79b9d85b35881e93f]{
 -- Page 14, Offset 20510.
 -- ヒト形になる事自体、カレにとってはストレスなのだ。
-  Prendre forme humaine le stressait déjà assez.
+　Prendre forme humaine le stressait déjà assez.
 
 }
 [sha:8088c2c5041bd35f83f6bf841e3ead5c238eec99]{
 -- Page 14, Offset 20511.
 -- カレからしてみれば、せめて好みのカタチになる事がギリギリの妥協点なのである。
-  De son point de vue, le moindre des compromis était qu'il puisse adopter la forme qui lui plaisait.
+　De son point de vue, le moindre des compromis était qu'il puisse adopter la forme qui lui plaisait.
 
 }
 [sha:6f1df71b6815185f65bd4adbf6eaf5db4007f93f]{
 -- Page 14, Offset 20512.
 -- 今は町から旧校舎に移動する為、やむなくヒト形に変身しているが、寝床になる教室が決まればすぐに狼のカタチに戻ってしまう。
-  Il avait accepté avec réticence de se transformer pour le trajet de la ville à la vieille école, mais dès qu'il aurait choisi sa chambre, il reprendrait sa forme de loup.
+　Il avait accepté avec réticence de se transformer pour le trajet de la ville à la vieille école, mais dès qu'il aurait choisi sa chambre, il reprendrait sa forme de loup.
 
 }
 [sha:db98f30135a96c9f4c3eebf605d7b4b98cfb6277]{
@@ -283,19 +283,19 @@
 [sha:d935dcaabe1a7228e9152db17aa6c66327465808]{
 -- Page 15, Offset 20514.
 -- カレの体は状況に応じて変態する。
-  Son corps se métamorphosait en adéquation à la situation.
+　Son corps se métamorphosait en adéquation à la situation.
 
 }
 [sha:45a3352195e701f0ebf3c29d4b350cfad6b4e3f1]{
 -- Page 15, Offset 20515.
 -- 物質界で安定する為の<触媒|にくたい>を必要としない、万能の生命だ。
-  En tant qu'être omnipotent, il n'avait pas besoin de corps pour se stabiliser dans le monde physique.
+　En tant qu'être omnipotent, il n'avait pas besoin de corps pour se stabiliser dans le monde physique.
 
 }
 [sha:6bab19779c21b93e4c2532c8311b1a64349bae81]{
 -- Page 15, Offset 20516.
 -- 魔術的に言えば、魂が物質化した高次生命である。
-  Dans le vocabulaire des Mages, il s'agissait d'un être supradimensionnel dont l'âme s'était matérialisée.
+　Dans le vocabulaire des Mages, il s'agissait d'un être supradimensionnel dont l'âme s'était matérialisée.
 
 }
 [sha:9f83c116e0b3c31376ef3789c861ef29054aefac]{
@@ -307,43 +307,43 @@
 [sha:2058e550b4c5d2c411c78220378803fc5cf95ca8]{
 -- Page 16, Offset 20518.
 -- 人間だって無駄なコトはしたくないでしょ？
-  Les humains répugnent aussi à se fatiguer en vain, non ?
+　Les humains répugnent aussi à se fatiguer en vain, non ?
 
 }
 [sha:5d851346f2fc944698c26177c76ae163a6acad88]{
 -- Page 16, Offset 20519.
 -- ボク、ヒト形になるコトに有利性をまったく感じないしー」
-  Et puis, je ne vois aucun avantage à la thérianthropie.」
+　Et puis, je ne vois aucun avantage à la thérianthropie.」
 
 }
 [sha:ef1568dc6015e98acc651b381c1161d8af3d3039]{
 -- Page 17, Offset 20520.
 -- カレにとって「人間の姿」とは何の価値も見いだせないものらしい。
-  Apparemment, il ne trouvait aucun mérite à la forme humaine.
+　Apparemment, il ne trouvait aucun mérite à la forme humaine.
 
 }
 [sha:1d8124745a91263d2b1b3b99d0000a5758f165ff]{
 -- Page 17, Offset 20521.
 -- なら外見を地味にしても良かろう、と橙子は指摘したものだが、意味がない変態だからこそ、せめて“気持ちの良い”状態を優先するのだ、とカレは言った。
-  Tōko lui avait fait remarquer qu'il pouvait très bien prendre une apparence plus banale si telle était sa pensée, mais il avait répondu que le manque de sens de cette métamorphose le poussait à privilégier le confort de cette forme.
+　Tōko lui avait fait remarquer qu'il pouvait très bien prendre une apparence plus banale si telle était sa pensée, mais il avait répondu que le manque de sens de cette métamorphose le poussait à privilégier le confort de cette forme.
 
 }
 [sha:7fc24c85e95182a27e10c2e9f3b1c13381c15219]{
 -- Page 18, Offset 20522.
 -- カレにとってあのカタチはヒト形において唯一『楽しい』イメージらしく、そこから外れる事を<頑|がん>として受け入れない。
-  Cette apparence de jeune garçon était la seule qu'il trouvait agréable parmi toutes les formes humaines, et il rejetait obstinément tout style qui s'en éloignait.
+　Cette apparence de jeune garçon était la seule qu'il trouvait agréable parmi toutes les formes humaines, et il rejetait obstinément tout style qui s'en éloignait.
 
 }
 [sha:2699bebc0676fcbf08b38432a574ca897e2d3e3d]{
 -- Page 18, Offset 20523.
 -- 結果、地方都市には場違いな、外国の貴人そのもののルックスになる。
-  Sous cette forme, il ressemblait à un aristocrate étranger, loin de se fondre dans le paysage dans cette ville de province.
+　Sous cette forme, il ressemblait à un aristocrate étranger, loin de se fondre dans le paysage dans cette ville de province.
 
 }
 [sha:43bfbec889e79685672257ce34328b6cff1f7ffb]{
 -- Page 18, Offset 20524.
 -- 着ているコートも、注文の多いカレを納得させる為、橙子が手ずから選んだ逸品だった。
-  En outre, le manteau qu'il portait était un article de toute beauté, choisi personnellement par Tōko pour satisfaire ses goûts exigeants.
+　En outre, le manteau qu'il portait était un article de toute beauté, choisi personnellement par Tōko pour satisfaire ses goûts exigeants.
 
 }
 [sha:ed9a76261931ec795815cd047e3f01fce1129ffe]{
@@ -355,19 +355,19 @@
 [sha:f08f7195ce25c6501079ab70a22e46a134442475]{
 -- Page 19, Offset 20526.
 -- 来ないとは思うけど、もし人が来たら捕まえておいて。
-  Je doute de cette éventualité, mais si jamais quelqu'un se montre, capture-le.
+　Je doute de cette éventualité, mais si jamais quelqu'un se montre, capture-le.
 
 }
 [sha:7bc1a559a5c3264a3edceeae14e573b9c2647c75]{
 -- Page 19, Offset 20527.
 -- その際、<脚|あし>の一本ぐらいなら傷つけてもＯＫだから」
-  Je te donne la permission de lui blesser une jambe.」
+　Je te donne la permission de lui blesser une jambe.」
 
 }
 [sha:7964721e28f6786ce7d23f935d19c9c357ced5d6]{
 -- Page 19, Offset 20528.
 -- 物騒な言いつけを残して、橙子は町へと出かけていく。
-  Tōko lui laissa ces directives sinistres avant de se rendre en ville.
+　Tōko lui laissa ces directives sinistres avant de se rendre en ville.
 
 }
 [sha:0d3547ffcb0a2254269b11595765abaddc6ce0ce]{
@@ -379,25 +379,25 @@
 [sha:408ff2f0e24e4403eb4751098d93267486e4aafe]{
 -- Page 20, Offset 20530.
 -- だいじょうぶ、人間とかそもそも口に合わないし！
-  Il n'y aura aucun problème, les humains ne sont pas à mon goût de toute façon !
+　Il n'y aura aucun problème, les humains ne sont pas à mon goût de toute façon !
 
 }
 [sha:c68f6b075f75251c3fcfe81d41287218e3eaf136]{
 -- Page 20, Offset 20531.
 -- こっちのコトは気にせず、あのピリピリするお土産よろしくねー！」
-  T'en fais pas pour moi et n'oublie pas mon paquet.」
+　T'en fais pas pour moi et n'oublie pas mon paquet.」
 
 }
 [sha:ff2db11f73fa1dec679b3d6622c7dcf86be40aae]{
 -- Page 21, Offset 20532.
 -- 雇い主を見送って、ベオはトスン、と机に着地した。
-  Après avoir accompagné son employeur du regard, Beo s'installa sur un bureau.
+　Après avoir accompagné son employeur du regard, Beo s'installa sur un bureau.
 
 }
 [sha:38c1b885de3e8cc02517027a709434777456be8e]{
 -- Page 21, Offset 20533.
 -- その姿はヒトから狼の姿に変化している。
-  Il avait repris sa forme lupine.
+　Il avait repris sa forme lupine.
 
 }
 [sha:2f5f5ba66e54f0f741c65b3454971de712cd3681]{
@@ -409,25 +409,25 @@
 [sha:66c28765b1c99fe42ed067ad28d17151558b6c4f]{
 -- Page 22, Offset 20535.
 -- ベオが蒼崎橙子と出会ったのは二年前。
-  Beo avait rencontré Aozaki Tōko deux ans auparavant.
+　Beo avait rencontré Aozaki Tōko deux ans auparavant.
 
 }
 [sha:e2c9c31c177723311d5715f074446244d484361c]{
 -- Page 22, Offset 20536.
 -- 人狼の里に現れた魔術師は、里の者たちと交渉の末、ベオの教育係を請け負った。
-  À son arrivée dans le village des loups-garous, la Mage avait négocié avec les habitants pour finalement le prendre sous son aile pédagogue.
+　À son arrivée dans le village des loups-garous, la Mage avait négocié avec les habitants pour finalement le prendre sous son aile pédagogue.
 
 }
 [sha:16ffbd8ff44ecf256cfa3ceccc67f54376772d31]{
 -- Page 23, Offset 20537.
 -- 無論、里はベオに対して何の拘束力も持ち合わせていない。最終的にベオをその気にさせたのは、里への義理ではなく、橙子への興味だった。
-  Bien sûr, les villageois n'avaient aucune autorité sur Beo. Il n'avait pas pris sa décision par devoir envers le village, mais par curiosité envers Tōko.
+　Bien sûr, les villageois n'avaient aucune autorité sur Beo. Il n'avait pas pris sa décision par devoir envers le village, mais par curiosité envers Tōko.
 
 }
 [sha:17c0f3cfdd17d465a5c17bb6424009b6cf284e7e]{
 -- Page 23, Offset 20538.
 -- 橙子は洞窟で眠るソレの前に立ち、
-  Tōko s'était tenue devant lui alors qu'il sommeillait dans sa grotte.
+　Tōko s'était tenue devant lui alors qu'il sommeillait dans sa grotte.
 
 }
 [sha:e8e2bb87b8a5ebda660f490208ae70cd2a50f139]{
@@ -439,13 +439,13 @@
 [sha:dcf3401d95d3c33860f29a7006e0f472c924a273]{
 -- Page 24, Offset 20540.
 -- なんだ。そんな事で取引が成立するとはね」
-  C'est tout ? Je ne pensais pas te voir conclure ce marché pour une raison pareille.」
+　C'est tout ? Je ne pensais pas te voir conclure ce marché pour une raison pareille.」
 
 }
 [sha:f37021edc43a1d844f13f34385d265d5d724491d]{
 -- Page 24, Offset 20541.
 -- 涼しげに笑った後、その長い髪を切って拘束の<契約|くさり>にした。
-  Après avoir souri d'un air indifférent, elle avait coupé ses longs cheveux pour en faire une Chaîne de soumission.
+　Après avoir souri d'un air indifférent, elle avait coupé ses longs cheveux pour en faire une Chaîne de soumission.
 
 }
 [sha:7992e6d567281e29e7c089c64617a5ed5998bea5]{
@@ -457,169 +457,169 @@
 [sha:d64b1137b9c8fe79ba282c8e848767c18baf31fc]{
 -- Page 25, Offset 20543.
 -- 同じように、生きている意味を知りたければ、まずは死ねない<執着|こだわり>を見付けないと。
-  Dans le même ordre d'idée, si tu veux connaître le sens de ta vie, tu dois d'abord trouver une obsession perpétuelle.
+　Dans le même ordre d'idée, si tu veux connaître le sens de ta vie, tu dois d'abord trouver une obsession perpétuelle.
 
 }
 [sha:8a08b9645601f9ce9dd6297914a3b9d06553e1c9]{
 -- Page 25, Offset 20544.
 -- ―――そうだな、例えばの話。そいつを殺すまでは、とてもじゃないが死ねないほどの憎しみとか」
-  ―――Voyons voir, par exemple, tu pourrais entretenir une haine si intense envers une personne qu'il te faudrait supprimer cet individu pour voir ta rage s'éteindre.」
+　―――Voyons voir, par exemple, tu pourrais entretenir une haine si intense envers une personne qu'il te faudrait supprimer cet individu pour voir ta rage s'éteindre.」
 
 }
 [sha:8f17f24dfa9bf6beb8c1abe7fc829eae3f42a2e3]{
 -- Page 26, Offset 20545.
 -- 蒼崎橙子の二十年分の蓄積。
-  Aozaki Tōko s'était séparée sans hésiter de ses cheveux,
+　Aozaki Tōko s'était séparée sans hésiter de ses cheveux,
 
 }
 [sha:5b567e07292fd3a554f5acbb7840636518a7336a]{
 -- Page 26, Offset 20546.
 -- 分身とも言える髪を、彼女はあっさりと手放した。
-  cette source de pouvoir accumulé pendant vingt ans et qu'on pouvait voir comme de véritables clones.
+　cette source de pouvoir accumulé pendant vingt ans et qu'on pouvait voir comme de véritables clones.
 
 }
 [sha:530288203beca9e466e447f78173ae2effddbe23]{
 -- Page 26, Offset 20547.
 -- それだけの価値が、今まで貯めてきたものをノータイムで切り捨てられるだけの価値が、ベオにあると確信して。
-  Elle était convaincue que Beo valait largement le sacrifice de ce qu'elle avait préservé avec tant de soin jusqu'à maintenant.
+　Elle était convaincue que Beo valait largement le sacrifice de ce qu'elle avait préservé avec tant de soin jusqu'à maintenant.
 
 }
 [sha:d4213be5683f60545b0190c25d90f4bed7580d12]{
 -- Page 27, Offset 20548.
 -- またベオも同じように、この人間が稀少な価値を持つ生き物だと嗅ぎ取っていた。
-  De même, Beo avait senti que cette humaine était un être vivant d'une rare valeur.
+　De même, Beo avait senti que cette humaine était un être vivant d'une rare valeur.
 
 }
 [sha:6f81e1817c2710fcb44dfa0e50a4e1a6668c3583]{
 -- Page 27, Offset 20549.
 -- そんな異才に認められるのはベオとて悪い気はしなかったし、何より、窮屈さを知れと言いながらも、極めて自由な女性の振るまいに関心を覚えてしまったのだ。
-  L'estime que lui portait ce génie flattait son égo, et surtout, le comportement débordant de liberté de la femme contrastait avec son conseil sur la captivité, ce qui avait fortement piqué son intérêt.
+　L'estime que lui portait ce génie flattait son égo, et surtout, le comportement débordant de liberté de la femme contrastait avec son conseil sur la captivité, ce qui avait fortement piqué son intérêt.
 
 }
 [sha:fb8d1da7967ba936a07420c2bd142b29974cc170]{
 -- Page 28, Offset 20550.
 -- そうして、
-  Ensuite,
+　Ensuite,
 
 }
 [sha:26454e2e9e1b712a2c2f5a0cd6facc933791a873]{
 -- Page 28, Offset 20551.
 -- ベオは契約の縛りを甘んじて受け入れ、里の外―――
-  Beo avait accepté le contrat sans se plaindre―――
+　Beo avait accepté le contrat sans se plaindre―――
 
 }
 [sha:b1270d79b91cc947a6bfbe10475cd5bc2aa4ce83]{
 -- Page 28, Offset 20552.
 -- 外の世界に足を向けた。
-  et s'était mis en route pour l'extérieur du village, pour le monde extérieur.
+　et s'était mis en route pour l'extérieur du village, pour le monde extérieur.
 
 }
 [sha:d42c3e255166e3d4a0fadbb78ad3cdb2defedee4]{
 -- Page 29, Offset 20553.
 -- まずは一年、イギリスの工房で基本的な知識を学んだ。
-  Il avait commencé par assimiler les connaissances de base dans l'Atelier d'Angleterre la première année.
+　Il avait commencé par assimiler les connaissances de base dans l'Atelier d'Angleterre la première année.
 
 }
 [sha:7a8b870b208ed00e60af0eccacd94ad4afbfe18a]{
 -- Page 29, Offset 20554.
 -- 『時計塔』と呼ばれる魔術協会の学舎での話である。
-  C'était à l'école de l'Association des Mages connue sous le nom de “Tour de l'Horloge”.
+C'était à l'école de l'Association des Mages connue sous le nom de “Tour de l'Horloge”.
 
 }
 [sha:d740720b21dd3596b2ed70bb13476b731197a748]{
 -- Page 29, Offset 20555.
 -- その頃、蒼崎橙子には専用の使い魔がいた。
-  À l'époque, Aozaki Tōko avait un familier personnel.
+　À l'époque, Aozaki Tōko avait un familier personnel.
 
 }
 [sha:4f9b4797deda2467fad0390ffedcd50267fa3c04]{
 -- Page 29, Offset 20556.
 -- 立場的にはベオの先輩というヤツである。
-  Ce dernier avait donc l'avantage de l'ancienneté sur Beo.
+　Ce dernier avait donc l'avantage de l'ancienneté sur Beo.
 
 }
 [sha:6a0a98bf22225ce7d3e520529d81dc6238ba3072]{
 -- Page 29, Offset 20557.
 -- ベオは一年で先輩より優れている事を証明し、橙子と共に世界を巡る旅に出かけた。
-  Le loup-garou démontra en une année qu'il lui était supérieur avant d'entreprendre un voyage autour du monde avec Tōko.
+　Le loup-garou démontra en une année qu'il lui était supérieur avant d'entreprendre un voyage autour du monde avec Tōko.
 
 }
 [sha:5dc03311cf9d80829d45420030a0794894f7739f]{
 -- Page 30, Offset 20558.
 -- 北欧の森を走るという<魔眼収集列車|レール・ツェッペリン>。
-  Le Schienenzeppelin, un train collecteur d'Yeux Mystiques, qui sillonnait les forêts d'Europe du Nord.
+　Le Schienenzeppelin, un train collecteur d'Yeux Mystiques, qui sillonnait les forêts d'Europe du Nord.
 
 }
 [sha:ef33dbec3850a95354dfc87cdd3f3d19a2754d65]{
 -- Page 30, Offset 20559.
 -- 北海にいまなお生き続ける<巨大古代種|ムールクラーケ>。
-  Le Kraken, une colossale bête antique, qui subsistait encore dans la Mer du Nord.
+　Le Kraken, une colossale bête antique, qui subsistait encore dans la Mer du Nord.
 
 }
 [sha:916defa0961755571c8f94f711acbf709ea3a453]{
 -- Page 30, Offset 20560.
 -- 三角形に開いた、異界に通じる<帰らず|バミューダ>の海。
-  Le Triangle des Bermudes, la mer mortelle en forme de triangle qui ouvrait sur un passage vers un autre monde.
+　Le Triangle des Bermudes, la mer mortelle en forme de triangle qui ouvrait sur un passage vers un autre monde.
 
 }
 [sha:5663a7de9b0138a7458a10d92bcceffc0ff515f5]{
 -- Page 30, Offset 20561.
 -- 西欧諸国に潜む、<神代連盟|エルダータイトル>を名乗る魔術師のなれの果て。
-  Un Mage décrépi prétendant appartenir aux Elder Title, les Ancêtres de l'Âge des Dieux, qui se terrait dans les contrées d'Europe occidentale.
+　Un Mage décrépi prétendant appartenir aux Elder Title, les Ancêtres de l'Âge des Dieux, qui se terrait dans les contrées d'Europe occidentale.
 
 }
 [sha:12d05176016119537bee47e630c6358d4eb1a04e]{
 -- Page 31, Offset 20562.
 -- いずれも楽しむには十分な“異常”であり、
-  Chacune de ces “étrangetés” avait amplement suffi à le divertir,
+　Chacune de ces “étrangetés” avait amplement suffi à le divertir,
 
 }
 [sha:6e17b9aa1324c42b70d2318769b38664be1426a8]{
 -- Page 31, Offset 20563.
 -- カレは蒼崎橙子に付いてきた判断を正しく思った。
-  aussi avait-il pris une bonne décision en suivant Aozaki Tōko ; du moins, c'était ce qu'il avait cru.
+　aussi avait-il pris une bonne décision en suivant Aozaki Tōko ; du moins, c'était ce qu'il avait cru.
 
 }
 [sha:00602ddf06ec03821f3945bd5efd5570f6d929df]{
 -- Page 31, Offset 20564.
 -- だって、里で眠っていた時に比べれば、少しだけ退屈しない。
-  La raison étant qu'il ne s'ennuyait jamais, au contraire de son temps passé à dormir au village.
+　La raison étant qu'il ne s'ennuyait jamais, au contraire de son temps passé à dormir au village.
 
 }
 [sha:337e39a29a17a7c174365356336ed82276e3c495]{
 -- Page 32, Offset 20565.
 -- 甘い蜜には、より甘い毒を。
-  À doux miel, poison plus doux encore.
+　À doux miel, poison plus doux encore.
 
 }
 [sha:8135e3af1b44cf5b36af2af19c12e9a3b6dec787]{
 -- Page 32, Offset 20566.
 -- 薬に慣れたのなら、更なる劇薬を。
-  Une fois habitué à un médicament, une dose plus puissante se révélait nécessaire pour qu'il agisse.
+　Une fois habitué à un médicament, une dose plus puissante se révélait nécessaire pour qu'il agisse.
 
 }
 [sha:d2b732f3b95144ed6b28abf8cfd945de5e042bb3]{
 -- Page 32, Offset 20567.
 -- この無邪気な生き物が次の獲物を楽しみにするようになったのは、当然の流れと言える。
-  Cet être innocent avait appris à anticiper la prochaine chasse, ce qui entrait dans l'ordre naturel des choses.
+　Cet être innocent avait appris à anticiper la prochaine chasse, ce qui entrait dans l'ordre naturel des choses.
 
 }
 [sha:03123afa30e5c18750225aa8cb1d0dade30cfb84]{
 -- Page 32, Offset 20568.
 -- その娯楽、その期待の最高峰が、蒼崎橙子の最終目的。
-  Et l'extase de ce divertissement, de cette attente, se trouvait dans l'ultime objectif d'Aozaki Tōko,
+　Et l'extase de ce divertissement, de cette attente, se trouvait dans l'ultime objectif d'Aozaki Tōko,
 
 }
 [sha:820ea22a3281d5808bb4f498d4695e9b3459d136]{
 -- Page 32, Offset 20569.
 -- 自由自在な彼女をして、在るだけで許せないモノ、と言わしめた獲物である。
-  cette proie dont elle ne pouvait tolérer l'existence, malgré toute sa liberté d'esprit.
+　cette proie dont elle ne pouvait tolérer l'existence, malgré toute sa liberté d'esprit.
 
 }
 [sha:390b68e0a49b58a976e2f6f0b42c5aa3a6100731]{
 -- Page 33, Offset 20570.
 -- 新しい脅威に向かう度、ベオは橙子に問いただしたものだ。
-  Beo posait toujours la même question à Tōko à chaque nouvelle menace.
+　Beo posait toujours la même question à Tōko à chaque nouvelle menace.
 
 }
 [sha:07d646e13b8d242d784e0ce88e90e0d8a8af3810]{
@@ -631,49 +631,49 @@
 [sha:81dadec74115001502c9c15ce45e35453e71bb3a]{
 -- Page 33, Offset 20572.
 -- しかし、魔術師は口元を皮肉げにゆがめて首を横に振るばかり。
-  Mais la Mage tordait ses lèvres en un rictus cynique et secouait la tête.
+　Mais la Mage tordait ses lèvres en un rictus cynique et secouait la tête.
 
 }
 [sha:b8b14547597ac6221c106f93247d5f3247b36af9]{
 -- Page 33, Offset 20573.
 -- こんな<易|やさ>しいものじゃあない、と希代の人形師は語る。
-  “Il n'est pas aussi faible”, disait l'étrange marionnettiste.
+　“Il n'est pas aussi faible”, disait l'étrange marionnettiste.
 
 }
 [sha:9b22e1b7ce6caa9117784bd17b45b3e9ebfec87a]{
 -- Page 34, Offset 20574.
 -- それまで橙子とベオが倒してきた相手、
-  Les adversaires que Tōko et Beo avaient vaincus,
+　Les adversaires que Tōko et Beo avaient vaincus,
 
 }
 [sha:d7d9160ebd5dcd537ac58f2547ab7f51c5a821d3]{
 -- Page 34, Offset 20575.
 -- 交渉してきた相手は、カレに及ばないまでも、いずれ<人智|じんち>及ばぬ魔境たちだった。
-  et ceux avec qui ils avaient négocié, même s'ils ne lui arrivaient pas à la cheville, étaient tous des démons surpassant de loin les humains.
+　et ceux avec qui ils avaient négocié, même s'ils ne lui arrivaient pas à la cheville, étaient tous des démons surpassant de loin les humains.
 
 }
 [sha:602c3ef4be1290e7cc9d86f69b52b6935c578474]{
 -- Page 34, Offset 20576.
 -- では、それらを向こうに回す敵とは如何ほどのモノか？
-  À quoi pouvait donc ressembler l'ennemi qui rivalisait avec eux ?
+　À quoi pouvait donc ressembler l'ennemi qui rivalisait avec eux ?
 
 }
 [sha:d85409079be27307940d845a97c44cb856bc2dbb]{
 -- Page 34, Offset 20577.
 -- そこまで言われては気になって仕方がない。
-  Beo était bien obligé de se sentir intrigué.
+　Beo était bien obligé de se sentir intrigué.
 
 }
 [sha:60a8151a3277f9c867709a4afae00ef5b3479e7f]{
 -- Page 34, Offset 20578.
 -- やがて自分が雇われた目的が“魔法”と知り、
-  Il avait fini par apprendre que la Vraie Magie était la raison pour laquelle on l'avait engagé.
+　Il avait fini par apprendre que la Vraie Magie était la raison pour laquelle on l'avait engagé.
 
 }
 [sha:a3f81ce70e63251952f0f09578c52599528ca134]{
 -- Page 34, Offset 20579.
 -- それなら相手にとって不足はない、と珍しく闘志を燃やしたのだが―――
-  Il avait alors brûlé d'ardeur considérant qu'il s'agissait là d'un adversaire à sa mesure, mais―――
+　Il avait alors brûlé d'ardeur considérant qu'il s'agissait là d'un adversaire à sa mesure, mais―――
 
 }
 [sha:a9c89c87d6ad168cbac0a910f9d502913b1d69c4]{
@@ -685,31 +685,31 @@
 [sha:a7db778973ab63424203e8638fc017b5f6d072b9]{
 -- Page 35, Offset 20581.
 -- 魔法なんていっても、結局は人間の手によるものなんだし”」
-  On a beau appeler ça de la Vraie Magie, il n'en reste pas moins qu'elle a été créée par de simples humains.”」
+　On a beau appeler ça de la Vraie Magie, il n'en reste pas moins qu'elle a été créée par de simples humains.”」
 
 }
 [sha:499882ab59564863ed2330c8c69bd133bb030760]{
 -- Page 36, Offset 20582.
 -- ソレの関心は、やはり自分に対してのみ。
-  En définitive, il n'était intéressé que par lui-même.
+　En définitive, il n'était intéressé que par lui-même.
 
 }
 [sha:c9131a1b45f41e6c51eccdaa748db7985d1102c9]{
 -- Page 36, Offset 20583.
 -- 命を知らず、自由を知らず、楽しみといったら食事だけ。
-  Il ne connaissait rien à la vie ou à la liberté et son seul plaisir se résumait aux repas.
+　Il ne connaissait rien à la vie ou à la liberté et son seul plaisir se résumait aux repas.
 
 }
 [sha:6f3fbfc1eecb347851a4380f6b7e97ac0d0806e4]{
 -- Page 36, Offset 20584.
 -- そんな自分に不満はないが、退屈である事だけはいかんともしがたい。
-  Sa vie ne lui déplaisait pas, mais toujours était-il qu'il s'ennuyait.
+　Sa vie ne lui déplaisait pas, mais toujours était-il qu'il s'ennuyait.
 
 }
 [sha:9f8fdd3aff84d0bccc0f6aaa17bf55cae3f14f72]{
 -- Page 36, Offset 20585.
 -- それと。蒼崎橙子に同行するようになってからは、彼女に対してもよく分からない感情を持ち始めていた。
-  De plus, un étrange sentiment envers Aozaki Tōko avait germé en lui au cours de ses pérégrinations avec elle.
+　De plus, un étrange sentiment envers Aozaki Tōko avait germé en lui au cours de ses pérégrinations avec elle.
 
 }
 [sha:59f0ede6bc6b2d2b34a55f64bfd7ad4a8c5abc98]{
@@ -721,19 +721,19 @@
 [sha:e4e4c6e7357021910d8134880b0077472f78daef]{
 -- Page 37, Offset 20587.
 -- 何でもできるのはボクと同じなのに、何にでも一生懸命になれるのって、ちょっとヘンだよね”」
-  Comme moi, elle peut tout faire, ce qui rend un peu bizarre l'obsession qu'elle a de se donner à fond pour tout et n'importe quoi.”」
+　Comme moi, elle peut tout faire, ce qui rend un peu bizarre l'obsession qu'elle a de se donner à fond pour tout et n'importe quoi.”」
 
 }
 [sha:f446e5f993f7dbeed534c6ef704e3f7abf5e10ba]{
 -- Page 37, Offset 20588.
 -- やれやれ、と大げさに肩をすくめて<瞼|まぶた>を閉じる。
-  Il haussa exagérément les épaules et ferma les paupières.
+　Il haussa exagérément les épaules et ferma les paupières.
 
 }
 [sha:154acc09099371a6c862c465e712728c6214510c]{
 -- Page 37, Offset 20589.
 -- それが<妬|ねた>みという感情である事を知らないまま、金色の狼は意識を落とした。
-  Le loup doré s'enfonça dans l'inconscience sans savoir que ce sentiment s'appelait “l'envie”.
+　Le loup doré s'enfonça dans l'inconscience sans savoir que ce sentiment s'appelait “l'envie”.
 
 }
 [sha:cece1632fb56c1174614adbb284e9a9cc7f1311c]{
@@ -745,43 +745,43 @@
 [sha:bbdbee7b147f10ed8d29aa28b2363c4df0853619]{
 -- Page 38, Offset 20591.
 -- 駅前なんてもう別物だし、大手術にも程が……ああ、やっぱり<角|かど>の煙草屋さん、なくなってる。
-  Les abords de la gare n'ont plus rien à voir. Une véritable chirurgie esthétique, ma parole...... Ah, j'en étais sûre ! Le tabac du coin a fermé.
+　Les abords de la gare n'ont plus rien à voir. Une véritable chirurgie esthétique, ma parole...... Ah, j'en étais sûre ! Le tabac du coin a fermé.
 
 }
 [sha:4ffe426d2b96f3c3c57959d33f454f0ada84ee35]{
 -- Page 38, Offset 20592.
 -- あーあ。自動販売機で煙草を買うのにも、そろそろ慣れなくちゃいけないのかも」
-  Ah là là. Il serait temps que je m'habitue à acheter mes cigarettes au distributeur automatique.」
+　Ah là là. Il serait temps que je m'habitue à acheter mes cigarettes au distributeur automatique.」
 
 }
 [sha:74dc6aaf1c99ca36f5c9ae7eca431ed1e712096c]{
 -- Page 39, Offset 20593.
 -- なんてグチをこぼしながら、蒼崎橙子は四年ぶりの故郷を歩く。
-  Aozaki Tōko se répandait en jérémiades, mais elle appréciait la première balade dans sa ville natale depuis quatre ans.
+　Aozaki Tōko se répandait en jérémiades, mais elle appréciait la première balade dans sa ville natale depuis quatre ans.
 
 }
 [sha:b7b7c9b8a7fcdef7e61c498d188e925a01708c54]{
 -- Page 39, Offset 20594.
 -- その姿は<緩|ゆる>みに緩みきっていた。
-  Son attitude semblait détendue.
+　Son attitude semblait détendue.
 
 }
 [sha:860026d111707da17952cc88c5d8d8beae908128]{
 -- Page 39, Offset 20595.
 -- 使い魔も連れておらず、
-  Elle n'avait pas emmené son familier,
+　Elle n'avait pas emmené son familier,
 
 }
 [sha:5f214b80093c5bb380c88a1c972c65a0f484ab0a]{
 -- Page 39, Offset 20596.
 -- 護身用の「鞄」もアジトに置きっぱなし。
-  et son “sac” de défense était resté dans le repaire.
+　et son “sac” de défense était resté dans le repaire.
 
 }
 [sha:4e97376100e589e1ca958d9c157dbfe302489837]{
 -- Page 39, Offset 20597.
 -- 気持ちは完全に観光気分で、緊張のキの字もない。
-  Elle se sentait d'humeur touristique et ne laissait transparaître aucun soupçon de nervosité.
+　Elle se sentait d'humeur touristique et ne laissait transparaître aucun soupçon de nervosité.
 
 }
 [sha:d466090b9a40f2e66537ac204bdb03dec28c086c]{
@@ -793,55 +793,55 @@
 [sha:21e053cec6f02d1c5b19235dbf45363f28741782]{
 -- Page 40, Offset 20599.
 -- 因果なものね。帰ってきたっていうのに、あっちに戻った時と同じ気持ちになってきた」
-  Quelle ironie. Je reviens chez moi pour ressentir la même chose que lorsque je suis retournée en Angleterre.」
+　Quelle ironie. Je reviens chez moi pour ressentir la même chose que lorsque je suis retournée en Angleterre.」
 
 }
 [sha:7dc6eda8841e304dc42b6fb8372dd326609da2f1]{
 -- Page 41, Offset 20600.
 -- 橙子にとって、帰郷はこれで二度目になる。
-  Tōko revenait pour la deuxième fois au pays,
+　Tōko revenait pour la deuxième fois au pays,
 
 }
 [sha:de6bbcc5a689154c26f54301c4acfe0a6c3fa219]{
 -- Page 41, Offset 20601.
 -- 四年前に蒼崎家から出奔し、こうして秘密裏に戻って来たのが<二度目|こんかい>。
-  quatre ans après sa fugue de la maison Aozaki, dans le plus grand secret.
+　quatre ans après sa fugue de la maison Aozaki, dans le plus grand secret.
 
 }
 [sha:643fc2d0db85298b8e4607afb550f7a92a48213f]{
 -- Page 41, Offset 20602.
 -- 一度目の帰郷はもっと前。
-  La première fois remontait à quelque temps déjà.
+　La première fois remontait à quelque temps déjà.
 
 }
 [sha:069484fa4e46fff221028e13af7f406f21d94995]{
 -- Page 41, Offset 20603.
 -- 十四歳の時、彼女は英国のとある学院に留学していた経歴を持つ。
-  L'année de ses quatorze ans, elle était partie étudier dans une certaine académie en Angleterre.
+　L'année de ses quatorze ans, elle était partie étudier dans une certaine académie en Angleterre.
 
 }
 [sha:bf2a8b66f32a839ec3a40083e3ffe8bdc9fa9770]{
 -- Page 42, Offset 20604.
 -- 橙子は二年間あちらで学生として過ごし、日本に帰国。
-  Tōko y avait résidé pendant deux ans avant de rentrer au Japon.
+　Tōko y avait résidé pendant deux ans avant de rentrer au Japon.
 
 }
 [sha:6a57030a9ce007f189b5197226e8a8a7ebae75c3]{
 -- Page 42, Offset 20605.
 -- 高校は地元の学校を選び、礼園女学院で三年間過ごした後、再び英国に出奔した。
-  Là, elle avait choisi un lycée local, l'académie pour filles Reien, qu'elle avait fréquentée pendant trois ans, puis elle avait de nouveau fui en Angleterre.
+　Là, elle avait choisi un lycée local, l'académie pour filles Reien, qu'elle avait fréquentée pendant trois ans, puis elle avait de nouveau fui en Angleterre.
 
 }
 [sha:f29821b316922ebc2893cad5658901734a8cb7ba]{
 -- Page 42, Offset 20606.
 -- それが四年前の出来事だ。
-  Ce dernier évènement remontait à quatre ans.
+　Ce dernier évènement remontait à quatre ans.
 
 }
 [sha:1c5604b0cdef6e4d70755be9ef0e1f58368c7645]{
 -- Page 42, Offset 20607.
 -- その時、英国の田舎町に戻った時と同じ感想を、いま橙子は抱いている。
-  Tōko ressentait à présent la même chose que lorsqu'elle était revenue dans sa ville de campagne en Angleterre.
+　Tōko ressentait à présent la même chose que lorsqu'elle était revenue dans sa ville de campagne en Angleterre.
 
 }
 [sha:78406a605d669fc44d2d4556dd64c800318e44c2]{
@@ -853,43 +853,43 @@
 [sha:98a5b8c1a9f101681ccc97725bd328348e06945e]{
 -- Page 43, Offset 20609.
 -- 肩を丸めて考えこむ。
-  Elle arrondit les épaules et se plongea dans ses réflexions.
+　Elle arrondit les épaules et se plongea dans ses réflexions.
 
 }
 [sha:2e9b1e72e8bb6206975717f3b300cbcaae7233fd]{
 -- Page 43, Offset 20610.
 -- 背中にむずむずと湧きたつ、いまいち言語化できないざわめき。
-  Un inexprimable frémissement lui parcourut le dos.
+　Un inexprimable frémissement lui parcourut le dos.
 
 }
 [sha:29cefe0319d3a42bff6e58011d18960668ec8f71]{
 -- Page 44, Offset 20611.
 -- 急激な変化を迎えた時代。あらゆるものが安価で、かつ安易に造り替えられていく風潮。
-  L'époque actuelle était le théâtre de brusques changements. Les choses avaient tendance à être à bas prix et à changer rapidement.
+　L'époque actuelle était le théâtre de brusques changements. Les choses avaient tendance à être à bas prix et à changer rapidement.
 
 }
 [sha:b5904daca533308815a5a422a2bab9eb9daa4c22]{
 -- Page 44, Offset 20612.
 -- 橙子はしばし考えこんでから、そっか、と指を鳴らして足を踏み出した。
-  Quand elle sortit de sa méditation, Tōko claqua des doigts et se remit en route.
+　Quand elle sortit de sa méditation, Tōko claqua des doigts et se remit en route.
 
 }
 [sha:8b2b2a0f6f6b6d9413dab9778aa28a589dfe01e3]{
 -- Page 45, Offset 20613.
 -- 難しく考える必要はない。
-  Il n'y avait aucune raison de se prendre la tête.
+　Il n'y avait aucune raison de se prendre la tête.
 
 }
 [sha:19283ce376b9b398360de72187466b7895247ee2]{
 -- Page 45, Offset 20614.
 -- これはただ、今がそういう時代であるだけの話。
-  Ces changements étaient simplement voulus par l'époque.
+　Ces changements étaient simplement voulus par l'époque.
 
 }
 [sha:948775d486f36be562eccfdced3a711cadd079d8]{
 -- Page 45, Offset 20615.
 -- 単に、古いものを新しいものに取り替える時期が、当然のようにやってきたのだ。
-  La période où les nouveautés remplaçaient les vieilleries avait naturellement refait surface.
+　La période où les nouveautés remplaçaient les vieilleries avait naturellement refait surface.
 
 }
 [sha:15f0503cb6f78609fea6108723c80bf716f6e3b2]{
@@ -907,19 +907,19 @@
 [sha:1acb2e198cd61e846a838f1fc416b1cec1e9f4b0]{
 -- Page 46, Offset 20618.
 -- そんなノリノリの<自|じ><己|こ><啓発|けいはつ>に背中を押されて、蒼崎橙子は意気揚々と駅に向かって歩きだした。
-  Motivée par cet encouragement plein d'ardeur, Aozaki Tōko se dirigea vers la gare d'un pas triomphal.
+　Motivée par cet encouragement plein d'ardeur, Aozaki Tōko se dirigea vers la gare d'un pas triomphal.
 
 }
 [sha:2cdba9ab299d565dd63c3df51f86f17204cd908b]{
 -- Page 47, Offset 20619.
 -- 大通りをずんずんと<驀進|ばくしん>する様は、トップモデルか独裁者かという迫力である。
-  Sa démarche rapide sur l'avenue lui donnait la prestance d'une top model, ou d'un dictateur.
+　Sa démarche rapide sur l'avenue lui donnait la prestance d'une top model, ou d'un dictateur.
 
 }
 [sha:68db679a8de48bb29da832e228e7dbb1e84ab5db]{
 -- Page 47, Offset 20620.
 -- しかし、
-  Bien sûr,
+　Bien sûr,
 
 }
 [sha:8a1aa75f11c7a74122938a106bf5c82aa657ab33]{
@@ -931,25 +931,25 @@
 [sha:e954c20ea451a8ea14213c703b9bc9ed12d194e2]{
 -- Page 47, Offset 20622.
 -- と意気込んでのコトでは、無論、ない。
-  la source de son enthousiasme ne venait pas d'une idée pareille.
+　la source de son enthousiasme ne venait pas d'une idée pareille.
 
 }
 [sha:de3146f92e5b975aed0850c32535d5e253d23a9f]{
 -- Page 48, Offset 20623.
 -- 橙子とて、これからはじまる大掃除、大工事の前にセンスのない町並み……
-  Avant de commencer le grand nettoyage, le grand chantier,
+　Avant de commencer le grand nettoyage, le grand chantier,
 
 }
 [sha:016b93a778f193dc28b881e916c78c721c2767a2]{
 -- Page 48, Offset 20624.
 -- 何の工夫も見られない、十年後には時代遅れになっているであろう大通り……
-  Tōko aurait bien eu envie de transformer en terrain vague les rues vieillottes et la rue principale qui était banale et deviendrait désuète d'ici dix ans,
+　Tōko aurait bien eu envie de transformer en terrain vague les rues vieillottes et la rue principale qui était banale et deviendrait désuète d'ici dix ans,
 
 }
 [sha:4794136b2d23bea93b5b15ab22de5df7754e5a5c]{
 -- Page 48, Offset 20625.
 -- を<更地|さらち>にしたいところではあるが、今の彼女にはその前にやらねばならぬ事があるのである。
-  mais avant cela, il lui incombait de remplir une tâche de la plus haute importance.
+　mais avant cela, il lui incombait de remplir une tâche de la plus haute importance.
 
 }
 [sha:dd1517eccec7d273154ad3ae017b862662ceacab]{
@@ -961,25 +961,25 @@
 [sha:824c59deaf88bc0f901764cc6befb13ce85d5bb8]{
 -- Page 49, Offset 20627.
 -- こんな釘のしぼりで、客を<煙|けむ>にまけると思ったか」
-  Ils pensaient vraiment mystifier le client avec ces clous tordus ?」
+　Ils pensaient vraiment mystifier le client avec ces clous tordus ?」
 
 }
 [sha:57cd44f9782099bcf54badc73cf686176132beff]{
 -- Page 50, Offset 20628.
 -- 橙子がまず向かった先は結界の支点ではなく、繁華街のパチンコ店だった。
-  Tōko ne s'était pas d'abord rendue sur les Pivots de la Barrière mais dans une salle de pachinko du quartier animé.
+　Tōko ne s'était pas d'abord rendue sur les Pivots de la Barrière mais dans une salle de pachinko du quartier animé.
 
 }
 [sha:51d619eba9f0b26c6a867f03c3cab61c7a9c2165]{
 -- Page 50, Offset 20629.
 -- 駅前は様変わりしたといっても、下町はそう変わっていない。
-  La gare avait beau s'être métamorphosée, ce n'était pas vraiment le cas de la ville basse.
+　La gare avait beau s'être métamorphosée, ce n'était pas vraiment le cas de la ville basse.
 
 }
 [sha:dfe99abd5bbb0fb4e9d2139f22397fe5aa3e7144]{
 -- Page 50, Offset 20630.
 -- 橙子は昔馴染みのパチンコ店に突入するや、五千円を銀玉に両替。そのまま二階フロアにあがり、今日一番の出玉設定をしている台を見抜き、ハンドルに手を掛けた。
-  Tōko était entrée dans sa salle de pachinko favorite et changé cinq mille yens en billes de métal. Elle était ensuite montée au premier étage, avait repéré la machine au meilleur rendement du jour et s'était mise à tâter de la manivelle.
+　Tōko était entrée dans sa salle de pachinko favorite et changé cinq mille yens en billes de métal. Elle était ensuite montée au premier étage, avait repéré la machine au meilleur rendement du jour et s'était mise à tâter de la manivelle.
 
 }
 [sha:7b6f6d001d589bcf0439e8b7f1b20e67c128ae7e]{
@@ -991,37 +991,37 @@
 [sha:7857e2fa24ce5fa7fdef1252a669f4604b538020]{
 -- Page 51, Offset 20632.
 -- 台詞は冷めたものだが、口元ではちょろい、と上機嫌の<体|てい>である。
-  Ses répliques étaient glaciales mais ses lèvres montraient sa bonne humeur et à quel point gagner avait été un jeu d'enfant.
+　Ses répliques étaient glaciales mais ses lèvres montraient sa bonne humeur et à quel point gagner avait été un jeu d'enfant.
 
 }
 [sha:e50aa2c2e4b9ba6cf6d6db78cc899310d150a646]{
 -- Page 52, Offset 20633.
 -- パチンコホールは定番とも言える娯楽提供場だが、<盛|さか>んなのは日本だけで、外国ではあまり見られない。
-  Les salles de pachinko étaient des lieux de divertissement que l'on pouvait qualifier de standards, mais elles n'avaient trouvé leur public qu'au Japon et on en voyait rarement dans les pays étrangers.
+　Les salles de pachinko étaient des lieux de divertissement que l'on pouvait qualifier de standards, mais elles n'avaient trouvé leur public qu'au Japon et on en voyait rarement dans les pays étrangers.
 
 }
 [sha:14c58312de41837239aab5ad58824b78bcc6904d]{
 -- Page 52, Offset 20634.
 -- 効率が悪い、時間がかかる、騙しあいの面白味がない、リスクとリターンがあっていない……等々の理由で、<本|・><場|・>のプレイヤーたちからは子供の遊びと敬遠されている。
-  Faible rendement, perte de temps, aucun intérêt à tricher, les profits qui n'étaient pas à la hauteur des risques encourus... Pour toutes ces raisons, les vrais joueurs évitaient la machine, la considérant comme un jeu de gamin.
+　Faible rendement, perte de temps, aucun intérêt à tricher, les profits qui n'étaient pas à la hauteur des risques encourus... Pour toutes ces raisons, les vrais joueurs évitaient la machine, la considérant comme un jeu de gamin.
 
 }
 [sha:58308eca0ca8ed4193734d26d7b0207e2706c61e]{
 -- Page 53, Offset 20635.
 -- 橙子の留学先でもそれは同じで、パチンコ店なぞ影も形も見あたらなかった。
-  C'était la même chose dans la ville où Tōko avait fait ses études, elle n'y avait trouvé aucune salle de pachinko.
+　C'était la même chose dans la ville où Tōko avait fait ses études, elle n'y avait trouvé aucune salle de pachinko.
 
 }
 [sha:3fa4ba63790289745e9248f17e66e93419b89889]{
 -- Page 53, Offset 20636.
 -- 帰国した彼女が真っ先にパチンコ店に突貫したのは、五年ぶりの懐かしさから―――
-  Mais si elle avait pris d'assaut l'une d'entre elles dès son retour au pays, la nostalgie due à ces cinq ans d'absence n'était pas en cause―――
+　Mais si elle avait pris d'assaut l'une d'entre elles dès son retour au pays, la nostalgie due à ces cinq ans d'absence n'était pas en cause―――
 
 }
 [sha:2dc4c870a0f75bde98158e3afb999613221de93f]{
 -- Page 53, Offset 20637.
 -- ではなく、単に、軍資金が底をつきかけた為である。
-  Ses fonds étaient tout simplement épuisés.
+　Ses fonds étaient tout simplement épuisés.
 
 }
 [sha:b067f4e31c660a23d4a3c26d7d895eb9b025af7f]{
@@ -1033,19 +1033,19 @@
 [sha:4723e72d4b8354ae13f677635e745d87a68c1b4a]{
 -- Page 54, Offset 20639.
 -- おかげで無一文だ。とりあえず、ベオの<食|く>い<扶|ぶ><持|ち>だけでも<稼|かせ>がにゃならん」
-  Du coup, je suis fauchée comme les blés. Il me faut gagner au moins assez pour la bouffe de Beo.」
+　Du coup, je suis fauchée comme les blés. Il me faut gagner au moins assez pour la bouffe de Beo.」
 
 }
 [sha:d4f8ea3c8b19863861e4e63938645cd299424934]{
 -- Page 55, Offset 20640.
 -- 旧校舎を工房に改造する為、コンテナ三台分の資材をヘリコプターで隣町にまで輸送させた。
-  Pour remodeler la vieille école en Atelier, elle avait fait transporter trois conteneurs de matériels depuis la ville voisine par hélicoptère.
+　Pour remodeler la vieille école en Atelier, elle avait fait transporter trois conteneurs de matériels depuis la ville voisine par hélicoptère.
 
 }
 [sha:e626c9d878f4bec3b032e584ad59c05eefeb1dc2]{
 -- Page 55, Offset 20641.
 -- 山奥である旧校舎にはトラックを走らせるだけの道がなく、結果、橙子の貯金はすっからかんになってしまったのだ。
-  Comme le bâtiment se trouvait au fond de la montagne, il n'y avait pas de chemin assez large pour un camion, ce qui eut pour conséquence de vider les économies de Tōko.
+　Comme le bâtiment se trouvait au fond de la montagne, il n'y avait pas de chemin assez large pour un camion, ce qui eut pour conséquence de vider les économies de Tōko.
 
 }
 [sha:399ef23c5a36972eb186211d7906172d67aa2eca]{
@@ -1057,19 +1057,19 @@
 [sha:3da088c3b751aa488a358c389c9aec53eed7313a]{
 -- Page 56, Offset 20643.
 -- まったく。こういう、どうでもいいゲームだけは星の巡りがいいときている」
-  Non mais j'te jure. Il n'y a qu'avec ces jeux stupides que j'ai de la veine.」
+　Non mais j'te jure. Il n'y a qu'avec ces jeux stupides que j'ai de la veine.」
 
 }
 [sha:72dad2ce559bba476996a716271c6f8c6c5cf964]{
 -- Page 56, Offset 20644.
 -- 文句をいいつつ、口元はやはり上機嫌だ。
-  Malgré les plaintes qu'elle formulait, ses lèvres ne se départissaient pas de leur bonne humeur.
+　Malgré les plaintes qu'elle formulait, ses lèvres ne se départissaient pas de leur bonne humeur.
 
 }
 [sha:4fb238bdd46f6999669c6cd0d43e713b5439b024]{
 -- Page 56, Offset 20645.
 -- 片手はハンドル、片手は安い煙草、気ままに足を組んでパチンコ店を荒らすのも、まんざらでもない橙子だった。
-  Pas aussi insatisfaite qu'elle voulait bien le faire croire, Tōko cambriolait la salle, la manivelle dans une main, une cigarette dans l'autre et les jambes croisées.
+　Pas aussi insatisfaite qu'elle voulait bien le faire croire, Tōko cambriolait la salle, la manivelle dans une main, une cigarette dans l'autre et les jambes croisées.
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -1081,31 +1081,31 @@
 [sha:be28f57ae6f37102e4eb61e59d5c939e08270d7a]{
 -- Page 57, Offset 20647.
 -- 視界の<隅|すみ>で何かが固まっている気配を察して、メガネをかける。
-  C'est alors qu'elle sentit une personne tétanisée dans un recoin de son champ de vision. Elle mit ses lunettes.
+　C'est alors qu'elle sentit une personne tétanisée dans un recoin de son champ de vision. Elle mit ses lunettes.
 
 }
 [sha:6fe32ff5c34ea2c267e39f799dab79af88394d19]{
 -- Page 57, Offset 20648.
 -- 妙な物音に橙子が視線を向けると、そこには顔面蒼白の店員の姿があった。
-  Alertée par un bruit étrange, Tōko pointa son regard dans sa direction pour découvrir un employé au teint blême.
+　Alertée par un bruit étrange, Tōko pointa son regard dans sa direction pour découvrir un employé au teint blême.
 
 }
 [sha:3409b49d63aaaa602baeaa403746f3e63ff96ab1]{
 -- Page 57, Offset 20649.
 -- まだ高校生にしか見えない、童顔の店員である。
-  Le jeune homme au visage d'enfant semblait n'être encore qu'un lycéen.
+　Le jeune homme au visage d'enfant semblait n'être encore qu'un lycéen.
 
 }
 [sha:7e602452b0cb5e1ab7effa28c2893ea8799073b4]{
 -- Page 58, Offset 20650.
 -- 何があったのか、店員は橙子を見るなり硬直し、その後、あたふたと走り去った。
-  Lorsqu'il vit Tōko, l'employé s'était soudain pétrifié avant de courir avec précipitation.
+　Lorsqu'il vit Tōko, l'employé s'était soudain pétrifié avant de courir avec précipitation.
 
 }
 [sha:7a5957de1627b436484e66f13917acc74282adcb]{
 -- Page 58, Offset 20651.
 -- というか、逃げだしていった。
-  Pour être plus exact, il s'était enfui à toutes jambes.
+　Pour être plus exact, il s'était enfui à toutes jambes.
 
 }
 [sha:0d3e4b93a52cbc9679fe2c8a6dc94b658cac745a]{
@@ -1117,37 +1117,37 @@
 [sha:a6d8cd6429d92ed3d2bdfda2ce673546dfd8baf8]{
 -- Page 59, Offset 20653.
 -- 橙子とて年頃の女性である。
-  Tōko restait une femme en âge de se marier.
+　Tōko restait une femme en âge de se marier.
 
 }
 [sha:605fc7689703174942a455707c313ab0f6e95f91]{
 -- Page 59, Offset 20654.
 -- 見つめられたり声をかけられたりするのは正直面倒だが、それにしても、一目散に逃げられる、というのはあんまりではなかろうか、と唇をとがらせる。
-  Honnêtement, je trouve exaspérant qu'on me reluque ou qu'on m'adresse la parole, mais c'est tout de même déprimant qu'on s'enfuie à toute vitesse en me voyant, se dit-elle les lèvres pincées.
+　Honnêtement, je trouve exaspérant qu'on me reluque ou qu'on m'adresse la parole, mais c'est tout de même déprimant qu'on s'enfuie à toute vitesse en me voyant, se dit-elle les lèvres pincées.
 
 }
 [sha:b2e0c8abd99eb7bb005b39791ce973552a51adae]{
 -- Page 59, Offset 20655.
 -- あの高校生……今度見かけたら脅かしてやろう、と心のチェックリストに書き込みつつ、橙子はゲームを再開した。
-  Ce lycéen...... La prochaine fois que je le croise, je lui ferai une petite frayeur, c'est décidé, songea Tōko qui rajouta cette note dans sa liste mentale avant de reprendre le jeu.
+　Ce lycéen...... La prochaine fois que je le croise, je lui ferai une petite frayeur, c'est décidé, songea Tōko qui rajouta cette note dans sa liste mentale avant de reprendre le jeu.
 
 }
 [sha:03e97acaa80712e4802a1ea17db761bcd6ab0685]{
 -- Page 60, Offset 20656.
 -- 大量の景品を抱えてパチンコ店を後にする。
-  Tōko sortit de la salle de pachinko, sa récolte sous les bras.
+　Tōko sortit de la salle de pachinko, sa récolte sous les bras.
 
 }
 [sha:55d4202583acd65a71a72bd59c05719af9f09c98]{
 -- Page 60, Offset 20657.
 -- せっかくの大勝ちなのだが、最後の出来事のおかげで素直に喜べない。
-  Malgré ses gains sensationnels, le dernier incident l'avait empêchée de vraiment se réjouir.
+　Malgré ses gains sensationnels, le dernier incident l'avait empêchée de vraiment se réjouir.
 
 }
 [sha:60a2f7233192da059bf7156ad0f7b36ca0697efe]{
 -- Page 61, Offset 20658.
 -- 橙子はなんだかなー、と頭を掻きつつ、店の裏手にある換金所に足を向け、
-  Ça me casse le moral... pensa Tōko en se grattant la tête et en se dirigeant vers le guichet d'échange derrière la salle.
+　Ça me casse le moral... pensa Tōko en se grattant la tête et en se dirigeant vers le guichet d'échange derrière la salle.
 
 }
 [sha:bd9d2f39d51e285badf3e1ec7826b7b69e12f90a]{
@@ -1159,25 +1159,25 @@
 [sha:629823495bd2a265a3af2fc81204565ab8d41681]{
 -- Page 61, Offset 20660.
 -- 四年ぶりに聞く、思い出深い声に呼び止められた。
-  Elle s'immobilisa au son d'une voix familière qu'elle n'avait plus entendue depuis quatre ans.
+　Elle s'immobilisa au son d'une voix familière qu'elle n'avait plus entendue depuis quatre ans.
 
 }
 [sha:c88694889ba8a97c1de7b2c31ef0c3e7385b2648]{
 -- Page 62, Offset 20661.
 -- ピン、と眠っていたベオの耳が立つ。
-  Les oreilles de Beo se dressèrent dans son sommeil.
+　Les oreilles de Beo se dressèrent dans son sommeil.
 
 }
 [sha:39f96b19aa12b67ce156989c317c483049870fa8]{
 -- Page 62, Offset 20662.
 -- 時刻は日没前。
-  Le soleil était sur le point de se coucher.
+　Le soleil était sur le point de se coucher.
 
 }
 [sha:cadc0ec6c7712648bf4ef846d21fb1a3f4229e6f]{
 -- Page 62, Offset 20663.
 -- 嗅ぎ慣れた匂いが近づいてくるのを察して、カレは大きな<欠伸|あくび>と共に目を覚ました。
-  Il sentit l'approche d'une odeur familière et se réveilla en bâillant à s'en décrocher la mâchoire.
+　Il sentit l'approche d'une odeur familière et se réveilla en bâillant à s'en décrocher la mâchoire.
 
 }
 [sha:7adacc997195083f92b759d49175dc11fa950dbc]{
@@ -1189,13 +1189,13 @@
 [sha:4ccc18400319c548371620f4e95c050c8fa770a6]{
 -- Page 63, Offset 20665.
 -- ベオは机から床に飛び降り、ヒト形に変化する。
-  Beo bondit de la table et prit sa forme humaine.
+　Beo bondit de la table et prit sa forme humaine.
 
 }
 [sha:c50dd4367bbb526b5b8bd3d3c9a8a073797484e9]{
 -- Page 63, Offset 20666.
 -- <仮初|かりそ>めの主従関係ではあるが、留守番役として、出迎えぐらいはきっちりとこなす気らしい。
-  Même si leur relation de maître et serviteur n'était que temporaire, il semblait vouloir accueillir Tōko comme il se devait, en sa qualité de gardien du fort.
+　Même si leur relation de maître et serviteur n'était que temporaire, il semblait vouloir accueillir Tōko comme il se devait, en sa qualité de gardien du fort.
 
 }
 [sha:54861049f3a5299c3ccbcc9ef9d48b8adcf7e683]{
@@ -1207,13 +1207,13 @@
 [sha:3079a9b3720cb24fd3d9789afcd9885c882f3374]{
 -- Page 64, Offset 20668.
 -- 廊下で顔を会わすなり、ベオは違和感に顔をしかめた。
-  Dès qu'ils se croisèrent dans le couloir, Beo fronça les sourcils, troublé.
+　Dès qu'ils se croisèrent dans le couloir, Beo fronça les sourcils, troublé.
 
 }
 [sha:9e01af5c6c5233bba5b4bcd709733c4ffae4be91]{
 -- Page 64, Offset 20669.
 -- 嗅ぎ慣れたはずの匂いに、なにか、余分な厚みが混じっている気がしたからだ。
-  Il avait le sentiment qu'une odeur étrangère se mêlait à celle qu'il connaissait.
+　Il avait le sentiment qu'une odeur étrangère se mêlait à celle qu'il connaissait.
 
 }
 [sha:8c528c8792eaaa379e1a6bed59fb317dd72f8492]{
@@ -1225,19 +1225,19 @@
 [sha:c6fc68d85a622b9535e127b497dc5ccfad22564d]{
 -- Page 65, Offset 20671.
 -- はい、真面目にお留守番していたお土産」
-  Tiens, voilà une récompense pour avoir rempli ton rôle de gardien avec assiduité.」
+　Tiens, voilà une récompense pour avoir rempli ton rôle de gardien avec assiduité.」
 
 }
 [sha:d5ed405e3c04b97b932bf9e90f7b9cfbbeb1274a]{
 -- Page 65, Offset 20672.
 -- 橙子は手にした紙袋をベオに手渡す。
-  Tōko remit à Beo le sac en papier qu'elle avait à la main.
+　Tōko remit à Beo le sac en papier qu'elle avait à la main.
 
 }
 [sha:30352b02bc17769442ec0f2706e72284ca082be7]{
 -- Page 65, Offset 20673.
 -- ハンバーガーのたっぷり詰まった紙袋を受け取って、カレは喜びながら、やっぱりおかしい、と首を傾げた。
-  Il accepta avec joie le sac plein à craquer de hamburgers, mais ses soupçons persistaient.
+　Il accepta avec joie le sac plein à craquer de hamburgers, mais ses soupçons persistaient.
 
 }
 [sha:3494ebd46362735d9586e0144b5d69e55310321c]{
@@ -1255,7 +1255,7 @@
 [sha:f4a3de0f4bb611bf1a34899eb9a103006f8af472]{
 -- Page 66, Offset 20676.
 -- なんか元気ないし。妙に疲れてるし。なにより、ちゃんとボクの好きなお店のハンバーガー、買ってきてるし」
-  Tu ne m'as pas l'air contente, et tu sembles étrangement fatiguée. Et surtout, tu as bien pensé à acheter les hamburgers de mon restaurant préféré.」
+　Tu ne m'as pas l'air contente, et tu sembles étrangement fatiguée. Et surtout, tu as bien pensé à acheter les hamburgers de mon restaurant préféré.」
 
 }
 [sha:5e256862d23c5507ae00c839f7c03f78094c4392]{
@@ -1273,25 +1273,25 @@
 [sha:45856ad43305ee1680b9d2d1b02dcd89f72e4799]{
 -- Page 68, Offset 20679.
 -- 怪しい。怪しいコトこの上ない。
-  C'était louche. Plus louche, tu meurs.
+　C'était louche. Plus louche, tu meurs.
 
 }
 [sha:c9f0eb27d9e848e552b3232a81ad41105548ff69]{
 -- Page 68, Offset 20680.
 -- ベオの不満点の一つとして、橙子の食事への<拘|こだわ>りの無さがあげられる。
-  L'une des contrariétés que ressentait parfois Beo venait du manque de rigueur qu'avait sa maîtresse envers les repas.
+　L'une des contrariétés que ressentait parfois Beo venait du manque de rigueur qu'avait sa maîtresse envers les repas.
 
 }
 [sha:a90168da4a50326dcd03912c5bb544d63188fc04]{
 -- Page 68, Offset 20681.
 -- ハンバーガーなんてどこでも一緒だろう、とのたまう橙子は、どうでもいい店で買い物を済ませてしまうのだ。
-  Elle prétendait que les hamburgers étaient partout les mêmes et avait pour habitude de les acheter dans le premier fast-food venu.
+　Elle prétendait que les hamburgers étaient partout les mêmes et avait pour habitude de les acheter dans le premier fast-food venu.
 
 }
 [sha:b1f6f3239380e15d7a521ed7ea6c630f269e7593]{
 -- Page 68, Offset 20682.
 -- そんな橙子が、日本ではまだ店舗の少ないロッテリャーでハンバーガーを買ってきてくれるなぞ百回に一回あるかないか。加えて、
-  Et voilà que cette même Tōko s'était approvisionnée dans un Loteria, une chaîne de restaurants encore peu répandue au Japon. Il y avait une chance sur cent pour que cela arrive par hasard. Et ce n'était pas tout.
+　Et voilà que cette même Tōko s'était approvisionnée dans un Loteria, une chaîne de restaurants encore peu répandue au Japon. Il y avait une chance sur cent pour que cela arrive par hasard. Et ce n'était pas tout.
 
 }
 [sha:60d487db414aa113ad2d50d43e9351c1b65d5e90]{
@@ -1303,7 +1303,7 @@
 [sha:72be90f58f1b419b3d8ebd6f414f28036d7f28b8]{
 -- Page 69, Offset 20684.
 -- ちゃんと好きなお店のバーガーを買ってきたんだからっ」
-  Je t'ai même acheté les hamburgers de ton restaurant préféré !」
+　Je t'ai même acheté les hamburgers de ton restaurant préféré !」
 
 }
 [sha:d812ffacd0fbeca45d612c0bd095afe67211a5ab]{
@@ -1315,19 +1315,19 @@
 [sha:8b0d13b2db866343cf897ce6928cf6b0faf64c61]{
 -- Page 70, Offset 20686.
 -- 今まで色々連れ回したけど、これからもよろしくね」
-  Je t'ai déjà traîné dans pas mal d'endroits, mais j'espère pouvoir encore compter sur toi à l'avenir.」
+　Je t'ai déjà traîné dans pas mal d'endroits, mais j'espère pouvoir encore compter sur toi à l'avenir.」
 
 }
 [sha:d33f0f1e4834b92689da1913f776080ceb85f49b]{
 -- Page 70, Offset 20687.
 -- この愛想笑いである。
-  Voilà qu'elle sortait ce sourire aimable.
+　Voilà qu'elle sortait ce sourire aimable.
 
 }
 [sha:e631f097ec0fb15f1ac7a20a02a36e082c08e1af]{
 -- Page 70, Offset 20688.
 -- 使い魔の人権なんて考えたコトもない蒼崎橙子がこんなコトを言いだしたら、三咲町に放たれた数十体の人形たちはロジックエラーの末、自爆して果てるだろう。
-  Le jour où Aozaki Tōko tiendrait de tels propos, elle qui n'avait aucune considération pour les droits des familiers, les dizaines de marionnettes lâchées dans le vieux quartier de Misaki s'autodétruiraient probablement suite à des erreurs dans leur programme interne.
+　Le jour où Aozaki Tōko tiendrait de tels propos, elle qui n'avait aucune considération pour les droits des familiers, les dizaines de marionnettes lâchées dans le vieux quartier de Misaki s'autodétruiraient probablement suite à des erreurs dans leur programme interne.
 
 }
 [sha:644a1bd97406053bc4429e43ac7b54be8659514d]{
@@ -1339,13 +1339,13 @@
 [sha:e24993c27f86772d8878f2fb7e7d560cbda3464b]{
 -- Page 71, Offset 20690.
 -- 優しいトーコさんなんてトーコさんじゃない！
-  Une gentille Tōko, ce n'est pas Tōko !
+　Une gentille Tōko, ce n'est pas Tōko !
 
 }
 [sha:cd3a1744ab17647b2d42df7c6533b2a309cfc355]{
 -- Page 71, Offset 20691.
 -- いっつも周りを恨んでいて、文句ばっかり言って、幸せそうなヒトたちをメチャクチャにしたいんだけど大義名分がないから我慢してる……そんな、理性のおかげでかろうじて性格破綻者を<免|まぬが>れてるトーコさんはどこいったのさ？」
-  Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est donc passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
+　Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est donc passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」
 
 }
 [sha:25e932710d4d96a09792e6941dba5a93e29b4e03]{
@@ -1357,13 +1357,13 @@
 [sha:fc20589b96eee3058bc24d479b9e49bce0512577]{
 -- Page 72, Offset 20693.
 -- ほら、四年ぶりに故郷に帰ってきたのよ？　ベオくんだって里に帰ったら、ちょっとぐらいホッとするでしょ？
-  C'est la première fois que je rentre au pays en quatre ans, tu te rends compte ?! Toi aussi, tu te sentirais nostalgique si tu étais de retour dans ton village, non ?
+　C'est la première fois que je rentre au pays en quatre ans, tu te rends compte ?! Toi aussi, tu te sentirais nostalgique si tu étais de retour dans ton village, non ?
 
 }
 [sha:28f302aa39651dc6fbf44725a4ee4d651e53b8fa]{
 -- Page 72, Offset 20694.
 -- それと同じ。私だって、ホームシックになる程度の可愛らしさはあるんです」
-  C'est la même chose. Je peux parfois être suffisamment sensible pour avoir le mal du pays.」
+　C'est la même chose. Je peux parfois être suffisamment sensible pour avoir le mal du pays.」
 
 }
 [sha:d0e7da9681a465706fd99de86ff7f2a26bd49b47]{
@@ -1381,19 +1381,19 @@
 [sha:66def2bf0b83260da6fc9cc1c6b95b9ec6b6a4a5]{
 -- Page 73, Offset 20697.
 -- もぅ、ベオくんそれ返して！　罰として夕食抜き！」
-  Tu l'auras voulu, Beo ! Rends-moi ça ! Comme punition, tu n'auras pas de dîner !」
+　Tu l'auras voulu, Beo ! Rends-moi ça ! Comme punition, tu n'auras pas de dîner !」
 
 }
 [sha:24ecf83440a3ea78a366a0a3e5b9fe4e57d04ae4]{
 -- Page 74, Offset 20698.
 -- 紙袋を取り返そうとする橙子を<躱|かわ>して、ベオは窓の外に飛び出した。
-  Beo esquiva Tōko qui tentait de récupérer le sac puis sauta par la fenêtre.
+　Beo esquiva Tōko qui tentait de récupérer le sac puis sauta par la fenêtre.
 
 }
 [sha:8af43d0f36762508342bd179d83961374eb1cc63]{
 -- Page 74, Offset 20699.
 -- そのまま器用に壁を蹴って、旧校舎の屋根まで退避する。
-  Il prit habilement appui sur le mur et monta sur le toit.
+　Il prit habilement appui sur le mur et monta sur le toit.
 
 }
 [sha:58fcdefc840e024e533a317913bbf642e35fbcce]{
@@ -1405,31 +1405,31 @@
 [sha:41fc774d7d0ea0268bffb77afa180bc6a694fa4e]{
 -- Page 75, Offset 20701.
 -- 言い訳するトーコさんとか、ボク、見たくない！」
-  Je ne supporte pas la vue d'une Tōko cherchant des excuses !」
+　Je ne supporte pas la vue d'une Tōko cherchant des excuses !」
 
 }
 [sha:4d1cade134dae3428c05111e95e316349b538ea3]{
 -- Page 75, Offset 20702.
 -- 紙袋からハンバーガーを取り出し、ぱくりとかぶりつく。
-  Il sortit un hamburger du sac et mordit dedans à pleines dents.
+　Il sortit un hamburger du sac et mordit dedans à pleines dents.
 
 }
 [sha:32b1923cf71cd9a14c27d5302c9e2ac46dcca93f]{
 -- Page 76, Offset 20703.
 -- ……しかし。
-  ...... Pourtant,
+　...... Pourtant,
 
 }
 [sha:279a9dac50ce1ad6fa3cece9d615d2f5dbabdf4f]{
 -- Page 76, Offset 20704.
 -- 芝居くさい、とは言ったが、橙子が普段より穏やかだったのは事実だった。
-  même s'il trouvait ça louche, Tōko était clairement plus douce que d'habitude.
+　même s'il trouvait ça louche, Tōko était clairement plus douce que d'habitude.
 
 }
 [sha:27ffb1eee1b56c4a70b2b1a58161364caaef0e79]{
 -- Page 76, Offset 20705.
 -- なぜそうなのかは分からないが、先ほどの橙子には特別な……というか、今までベオには見せなかった……感情があったようだ。
-  Il ne savait pourquoi, mais cette dernière semblait éprouver un sentiment spécial, ou du moins, qu'elle n'avait jamais montré à Beo jusqu'à présent.
+　Il ne savait pourquoi, mais cette dernière semblait éprouver un sentiment spécial, ou du moins, qu'elle n'avait jamais montré à Beo jusqu'à présent.
 
 }
 [sha:dcdf41fa66a885181c761f6bf2e2a8fdadb9347f]{
@@ -1441,19 +1441,19 @@
 [sha:dedaadfab4abb14d8c0b6eaef5365fff02804aa0]{
 -- Page 77, Offset 20707.
 -- 妙にふわふわしてて、うっとうしくて―――」
-  Onctueuse et agaçante―――」
+　Onctueuse et agaçante―――」
 
 }
 [sha:caae12f401692c199e10cea028b7bd5cced43afd]{
 -- Page 77, Offset 20708.
 -- あれがどんな感情なのか、ベオには分からない。
-  Beo ignorait tout de ce sentiment.
+　Beo ignorait tout de ce sentiment.
 
 }
 [sha:8b61ca477ec02122e88ce55451b93601155b4034]{
 -- Page 77, Offset 20709.
 -- 好きと嫌い、美味しいと不味いしか知らないカレには、まだそういう<機|き><微|び>が分からない。
-  Comme il faisait une distinction entre amour et haine, ou bonne et mauvaise nourriture, ce genre de nuance lui était inconnue.
+　Comme il faisait une distinction entre amour et haine, ou bonne et mauvaise nourriture, ce genre de nuance lui était inconnue.
 
 }
 [sha:42acf9f7c2d5dc5ae17877d15ff6a93ee5330c99]{
@@ -1465,49 +1465,49 @@
 [sha:70d79986c77ca9e562811cb7f7a9fc6f6da4ea15]{
 -- Page 78, Offset 20711.
 -- 不満げにぼやきながら、パクパクとハンバーガーを消費していく。
-  Il engloutissait successivement les hamburgers tout en grommelant d'un air mécontent.
+　Il engloutissait successivement les hamburgers tout en grommelant d'un air mécontent.
 
 }
 [sha:3af6c9562280e80ebb8174aa5e0e39b9e1d8cfe0]{
 -- Page 78, Offset 20712.
 -- ……正直なところ。
-  ...... En toute honnêteté,
+　...... En toute honnêteté,
 
 }
 [sha:5cd3d3a91becd815cdf4cc44ae7e02461d597624]{
 -- Page 78, Offset 20713.
 -- 分かりたいとは思わないが、未知があるコトに、ちょっとだけ不満なベオだった。
-  Beo ne souhaitait pas comprendre, mais il restait contrarié par ce point d'ombre.
+　Beo ne souhaitait pas comprendre, mais il restait contrarié par ce point d'ombre.
 
 }
 [sha:e433483efb9e064ed988363347480d6fb1aeb82b]{
 -- Page 79, Offset 20714.
 -- それから何日か経過した。
-  Plusieurs jours s'étaient écoulés depuis cet incident mineur.
+　Plusieurs jours s'étaient écoulés depuis cet incident mineur.
 
 }
 [sha:f3ee9c2f63e65024c40eddb98df2edaae6102e7a]{
 -- Page 79, Offset 20715.
 -- 旧校舎の改造は人知れず進んでいく。
-  Le remodelage de la vieille école avançait secrètement.
+　Le remodelage de la vieille école avançait secrètement.
 
 }
 [sha:999e414edbb015ba7a195eb1e37ce2dd4806964a]{
 -- Page 79, Offset 20716.
 -- あと一ヶ月近くここで待機、と言いつけられたベオは退屈で仕方がない。
-  Beo avait reçu l'ordre d'attendre en ces lieux pendant un mois et l'ennui le dévorait de l'intérieur.
+　Beo avait reçu l'ordre d'attendre en ces lieux pendant un mois et l'ennui le dévorait de l'intérieur.
 
 }
 [sha:d306d29162ca9178085a01a9e5c052788ec24157]{
 -- Page 79, Offset 20717.
 -- 日々とじこもって肉を食べているだけでは、心も体も<鈍|にぶ>るというもの。
-  S'il restait reclus à s'empiffrer de viande tous les jours, son esprit et son corps finiraient par s'engourdir.
+　S'il restait reclus à s'empiffrer de viande tous les jours, son esprit et son corps finiraient par s'engourdir.
 
 }
 [sha:c827280d0f27a81fae2f1b100b6cff2e36312f41]{
 -- Page 79, Offset 20718.
 -- 一方、
-  Quant à Tōko...
+　Quant à Tōko...
 
 }
 [sha:2802d893458911a0606f75137784dd42b528e553]{
@@ -1543,19 +1543,19 @@
 [sha:82569ce7130b2317adc0fe17c311418237f176aa]{
 -- Page 81, Offset 20726.
 -- このように。
-  Son état d'esprit était palpable.
+　Son état d'esprit était palpable.
 
 }
 [sha:c0068c7e306554782f2956e48aab60b9bd9fbc09]{
 -- Page 81, Offset 20727.
 -- 自宅警備中のカレとは対照的に、魔術師は実に行動的、かつ上機嫌だった。
-  Contrairement à Beo qui s'ennuyait ferme à garder la maison, la Mage était tout ce qu'il y avait de plus active et joyeuse.
+　Contrairement à Beo qui s'ennuyait ferme à garder la maison, la Mage était tout ce qu'il y avait de plus active et joyeuse.
 
 }
 [sha:e66769328ced72dbf5ee9c8debdaed174128a300]{
 -- Page 81, Offset 20728.
 -- 着々と要塞化していく<臨時工房|アジト>の出来に、よほど満足しているらしい。
-  Elle semblait grandement satisfaite de la forteresse que devenait progressivement l'Atelier.
+　Elle semblait grandement satisfaite de la forteresse que devenait progressivement l'Atelier.
 
 }
 [sha:39278d6ef5d54498fe5a64e620c67d32adba6038]{
@@ -1567,19 +1567,19 @@
 [sha:111989a63ce7327a982a5ab0d61e6e15d22e5f70]{
 -- Page 82, Offset 20730.
 -- そんなんでトーコさんの機嫌はよくなんないし。
-  Tōko ne se réjouirait pas de ce genre de chose.
+　Tōko ne se réjouirait pas de ce genre de chose.
 
 }
 [sha:a9acfbe204b953d959b3a65473938e220f25543e]{
 -- Page 82, Offset 20731.
 -- <旧校舎|こ　こ>に関しちゃグチグチ不満ばっかりこぼしてるし。
-  D'autant plus qu'elle se plaint toutes les deux secondes de cet endroit.
+　D'autant plus qu'elle se plaint toutes les deux secondes de cet endroit.
 
 }
 [sha:273ed721aa08d347b479386d60ca9595104f7c96]{
 -- Page 82, Offset 20732.
 -- 何より、ござるとかバカっぽいコト言わないし」
-  Et surtout, elle ne dirait jamais de truc stupide comme “je me retire séance tenante”.」
+　Et surtout, elle ne dirait jamais de truc stupide comme “je me retire séance tenante”.」
 
 }
 [sha:f3d50777f1234da1f911ef77fa1d54b7a522115a]{
@@ -1597,13 +1597,13 @@
 [sha:a0265e17588d4fce9f071c12b64b7e550e74895f]{
 -- Page 84, Offset 20735.
 -- ……まあそりゃ、早く本命とやらと戦ってみたいけど、もうちょっと先なんでしょ。ならガマンする。トーコさんの言葉は今のところハズレないから、おとなしく従います。
-  ...... Enfin, j'avoue que je veux combattre notre adversaire final au plus vite, mais l'heure n'est pas encore arrivée, n'est-ce pas ? Alors je patienterai. Tes paroles se sont toujours avérées. J'obéirai sagement.
+　...... Enfin, j'avoue que je veux combattre notre adversaire final au plus vite, mais l'heure n'est pas encore arrivée, n'est-ce pas ? Alors je patienterai. Tes paroles se sont toujours avérées. J'obéirai sagement.
 
 }
 [sha:5f6c271a17acf8a74b5904a6c305fde399ece0b0]{
 -- Page 84, Offset 20736.
 -- けど―――」
-  Mais―――」
+　Mais―――」
 
 }
 [sha:7e0c786f3da82ed1bdc76402d68438346aea98cf]{
@@ -1621,7 +1621,7 @@
 [sha:7b6f793e4f8fa1adfa4fe787854b05c0293750ae]{
 -- Page 85, Offset 20739.
 -- 毎日食べて寝て食べて寝てじゃ<肥|ふと>るー。ぶくぶくに<肥|ふと>るよー。そんなのカッコヨクないよー」
-  À force de manger, dormir, manger et dormir tous les jours, on grossit ! Et on finit tout bouffi. Et ça, c'est pas cool !」
+　À force de manger, dormir, manger et dormir tous les jours, on grossit ! Et on finit tout bouffi. Et ça, c'est pas cool !」
 
 }
 [sha:88c8e8578edc0db68f4d65fba0b3e2ff3964c517]{
@@ -1645,25 +1645,25 @@
 [sha:c37d6322eb58b8fc19d5a0e67b8bff480a549380]{
 -- Page 87, Offset 20743.
 -- 数値は変わってない筈だけど、なんかこう、アストラル的に増えちゃったりしてる！？」
-  Je ne pense pas qu'il y ait une différence sur la balance, pourtant. Ne me dis pas que j'ai pris du poids, astralement parlant ?!」
+　Je ne pense pas qu'il y ait une différence sur la balance, pourtant. Ne me dis pas que j'ai pris du poids, astralement parlant ?!」
 
 }
 [sha:784664d6af94cef2a96d6c497b5ffb535b38ebd5]{
 -- Page 88, Offset 20744.
 -- これである。
-  Sa réaction était anormale.
+　Sa réaction était anormale.
 
 }
 [sha:5f539532c0c714e169a4463ec343a9aeb5746035]{
 -- Page 88, Offset 20745.
 -- ベオの目の確かさを知っている魔術師は、体重計よりカレの鑑識眼を信じたらしい。
-  L'acuité visuelle de Beo n'étant pas un secret pour la Mage, elle semblait avoir accordé une plus grande confiance en son œil expert qu'en la balance.
+　L'acuité visuelle de Beo n'étant pas un secret pour la Mage, elle semblait avoir accordé une plus grande confiance en son œil expert qu'en la balance.
 
 }
 [sha:d4436d76065eec49b9d2571a64b705166464ebeb]{
 -- Page 88, Offset 20746.
 -- いつもの橙子ならメガネを外し、
-  Habituellement, Tōko aurait retiré ses lunettes et agi tout autrement.
+　Habituellement, Tōko aurait retiré ses lunettes et agi tout autrement.
 
 }
 [sha:d02bf6ba843c4d99f1510366343453530f4d05ea]{
@@ -1675,13 +1675,13 @@
 [sha:1b6c56df84adf75691b02b64b38263c898d8204b]{
 -- Page 89, Offset 20748.
 -- ああいや、意見は聞いていない。さあベオ、この首輪をつけてみろ。思いっきりハイに飛べるぞ」
-  Non, je ne te demande pas ton avis. Allez Beo, mets ce collier. Explose de toutes tes forces.」
+　Non, je ne te demande pas ton avis. Allez Beo, mets ce collier. Explose de toutes tes forces.」
 
 }
 [sha:66362f809f48cecfeac6dcfb066826dc672417be]{
 -- Page 89, Offset 20749.
 -- ぐらいは本気で実行してくるだろうに、<肥|にぶ>っているにも程がある。
-  Elle n'hésiterait pas à appliquer ce genre de plan machiavélique dans son état normal. Elle s'était complètement ramollie.
+　Elle n'hésiterait pas à appliquer ce genre de plan machiavélique dans son état normal. Elle s'était complètement ramollie.
 
 }
 [sha:e736966b30d6ac37f767441e5d406cbab7c68e18]{
@@ -1693,7 +1693,7 @@
 [sha:136477c7ca54e2944b8ba045d06307d57fe0e460]{
 -- Page 90, Offset 20751.
 -- 昨日とちょっとの上下差はあるけど、そんなの人間なら当たり前だし。いちいち本気にするとか、見苦しいからやめてほしい」
-  Il y a une différence minime par rapport à hier, mais c'est tout à fait normal chez les humains. Tu me fais vraiment honte quand tu le prends sérieusement, alors arrête ça, OK ?」
+　Il y a une différence minime par rapport à hier, mais c'est tout à fait normal chez les humains. Tu me fais vraiment honte quand tu le prends sérieusement, alors arrête ça, OK ?」
 
 }
 [sha:036c4b3fc12a4ff178026b02db6b96429d29ba32]{
@@ -1705,7 +1705,7 @@
 [sha:f12908ca5b4913b4afa8af5f546ee85992769230]{
 -- Page 91, Offset 20753.
 -- こう、後でボテっとくるような気配とか、ない？」
-  Rien n'indique que je vais gonfler à l'avenir ?」
+　Rien n'indique que je vais gonfler à l'avenir ?」
 
 }
 [sha:22d70c12fdbab06b297842514262c6d5b8e56045]{
@@ -1717,37 +1717,37 @@
 [sha:23eaf7c7e1e17237170fbec7f9ad3255859777c6]{
 -- Page 92, Offset 20755.
 -- それは嘘だ。
-  C'était un mensonge.
+　C'était un mensonge.
 
 }
 [sha:9390692a6a60a973dc42caf25741479513baa8b3]{
 -- Page 92, Offset 20756.
 -- 厳密に言えば、橙子はベオの知る“いつも通り”ではない。
-  Strictement parlant, Tōko n'était pas la même que d'habitude.
+　Strictement parlant, Tōko n'était pas la même que d'habitude.
 
 }
 [sha:87934a466e32f4103ff625529193a5840e23139e]{
 -- Page 92, Offset 20757.
 -- 肉体面では寸分変わらぬ彼女でも、数日前から妙な違和感が付きまとっている。
-  Physiquement, elle n'avait changé en rien, mais un étrange sentiment d'inconfort le hantait depuis plusieurs jours.
+　Physiquement, elle n'avait changé en rien, mais un étrange sentiment d'inconfort le hantait depuis plusieurs jours.
 
 }
 [sha:8040135594560b7d68e29f6983ecab62a4e41348]{
 -- Page 93, Offset 20758.
 -- あの、妙に<浮|う>わ<浮|う>わした匂い。
-  Cette étrange odeur inconsistante.
+　Cette étrange odeur inconsistante.
 
 }
 [sha:0f5c5e6c9787f5234737b3e21b9745234c740685]{
 -- Page 93, Offset 20759.
 -- 野生の獣にしか嗅ぎ取れない変化だが、それは日に日に増していっている。
-  Ce changement n'était perceptible que par le flair d'un animal, mais il s'intensifiait indéniablement de jour en jour.
+　Ce changement n'était perceptible que par le flair d'un animal, mais il s'intensifiait indéniablement de jour en jour.
 
 }
 [sha:6fc158daeb07c619fac3049f34520ca857ba6b6f]{
 -- Page 93, Offset 20760.
 -- カレが不機嫌なのは、あの匂いが“どんな味”なのか、まったく見当がつかないからだった。
-  Son irritation provenait du fait qu'il n'arrivait pas du tout à mettre le doigt sur la nature de cette odeur.
+　Son irritation provenait du fait qu'il n'arrivait pas du tout à mettre le doigt sur la nature de cette odeur.
 
 }
 [sha:070251a73dd70b831917cfe90e3ab42ed224e22e]{
@@ -1759,19 +1759,19 @@
 [sha:8828aa72ff58f11a56dcc92a393a94027a46ae26]{
 -- Page 94, Offset 20762.
 -- 私は出かけてくるから、お留守番よろしくね～！」
-  Sur ce, je vais faire un tour, garde bien la maison~~!」
+　Sur ce, je vais faire un tour, garde bien la maison~~!」
 
 }
 [sha:8d2b6df083b309de95a8685f4e9e709d1dfbce27]{
 -- Page 94, Offset 20763.
 -- ベオの不機嫌さに気付かず、橙子は緩みきった足取りで旧校舎を後にした。
-  Ne s'avisant pas de la mauvaise humeur de Beo, Tōko quitta le bâtiment d'une démarche détendue.
+　Ne s'avisant pas de la mauvaise humeur de Beo, Tōko quitta le bâtiment d'une démarche détendue.
 
 }
 [sha:8d1c21f474c36913c186d48eb5b204abfb7d7be0]{
 -- Page 94, Offset 20764.
 -- ここ数日、ずっとこれの繰り返しである。
-  Ces derniers jours, ce même refrain tournait en boucle.
+　Ces derniers jours, ce même refrain tournait en boucle.
 
 }
 [sha:e93a6ff10df7727248cc2a7499a1e5f1181d70be]{
@@ -1783,31 +1783,31 @@
 [sha:1a3a03e2918f6bfe99a9d9fcebdeebc33f2959b3]{
 -- Page 95, Offset 20766.
 -- 窓硝子に映った自分の姿を見て、ベオはしばし思案した。
-  Le regard fixé sur son reflet dans une vitre, Beo médita un instant.
+　Le regard fixé sur son reflet dans une vitre, Beo médita un instant.
 
 }
 [sha:0ac5a4716079134d2f6d44e054a8d072047a6f93]{
 -- Page 95, Offset 20767.
 -- これでは何の解決にもならない。
-  Au train où allaient les choses, il ne résoudrait rien.
+　Au train où allaient les choses, il ne résoudrait rien.
 
 }
 [sha:d3f8cf3d7002f846f1eb61d5254ba95c7a6a7aa3]{
 -- Page 95, Offset 20768.
 -- 雇い主の様子がおかしいのはタダさねばならないし、
-  Le comportement étrange de son employeur méritait correction,
+　Le comportement étrange de son employeur méritait correction,
 
 }
 [sha:ba05e1682e292e6dcec52bbe02eb92f178553663]{
 -- Page 95, Offset 20769.
 -- 胸に湧いたこのモヤモヤも晴らさないと楽しくない。
-  et il devait dissiper la sombre humeur qui envahissait sa poitrine, sans quoi il ne se dériderait pas.
+　et il devait dissiper la sombre humeur qui envahissait sa poitrine, sans quoi il ne se dériderait pas.
 
 }
 [sha:f1f9598f682afeb7a44e594ab89c470d2ad1eb82]{
 -- Page 96, Offset 20770.
 -- 金色の生き物は仕方あるまい、と鹿爪らしく頷いて、
-  Elle ne me laisse pas le choix, se convainquit solennellement l'animal doré.
+　Elle ne me laisse pas le choix, se convainquit solennellement l'animal doré.
 
 }
 [sha:dbd86dd7bc74b2672cb64193316d4902a7fc8a49]{
@@ -1819,7 +1819,7 @@
 [sha:78ca676ffad1b690f9f555e70b8882daf22fbc27]{
 -- Page 96, Offset 20772.
 -- 今日一日だけ、自分の信条を<隅|すみ>に追いやるコトにした。
-  C'est ainsi qu'il décida de mettre de côté ses propres principes pour la journée.
+　C'est ainsi qu'il décida de mettre de côté ses propres principes pour la journée.
 
 }
 [sha:d9628360224848003a19fd418021de2870c2f84d]{
@@ -1843,49 +1843,49 @@
 [sha:74db65c7bb2a1786820cf7c932e61bc672b35be1]{
 -- Page 97, Offset 20776.
 -- そんな世間話を聞きながら、カレは三咲町を横断する。
-  Tandis qu'il traversait le vieux quartier de Misaki, ces conversations lui parvenaient à l'oreille.
+　Tandis qu'il traversait le vieux quartier de Misaki, ces conversations lui parvenaient à l'oreille.
 
 }
 [sha:9f3c2111e2719019b47ffbc69952c24c862e547f]{
 -- Page 98, Offset 20777.
 -- 平日の午後一時過ぎ。
-  Il était une heure passée, un jour de semaine.
+　Il était une heure passée, un jour de semaine.
 
 }
 [sha:31412c20dfb6544184c1aba8a1ef3b821343e7f3]{
 -- Page 98, Offset 20778.
 -- 会社員は昼休みを終えてオフィスビルへ、学生たちはまだ学校で授業中だ。
-  La pause du déjeuner étant terminée, les employés de bureau retournaient à leur travail ; quant aux étudiants, ils étaient encore en plein cours à l'école.
+　La pause du déjeuner étant terminée, les employés de bureau retournaient à leur travail ; quant aux étudiants, ils étaient encore en plein cours à l'école.
 
 }
 [sha:e8f88f1c498a62722cc5db307d69103e9bcc324b]{
 -- Page 98, Offset 20779.
 -- 人混みは主婦が中心で、大通りはどことなくまったりとした雰囲気だった。
-  La foule se composait majoritairement de femmes au foyer donnant aux rues une ambiance détendue.
+　La foule se composait majoritairement de femmes au foyer donnant aux rues une ambiance détendue.
 
 }
 [sha:97f10b46a8403e3389756b97abc4f0c8b294d946]{
 -- Page 99, Offset 20780.
 -- そんな穏やかな世界に、不穏な異分子がひとり。
-  Cependant, un élément étranger et menaçant avait infiltré ce monde paisible.
+　Cependant, un élément étranger et menaçant avait infiltré ce monde paisible.
 
 }
 [sha:201d76722260177c7bcf51029720be72d306ec00]{
 -- Page 99, Offset 20781.
 -- 買い物中の奥さま方、売店の店員、外回りのサラリーマン等から様々な視線を浴びながら、蒼崎橙子はどこ吹く風で大通りを闊歩する。
-  Tandis que divers regards se rivaient sur elle — une femme mariée affairée à ses courses par-ci, un magasinier et un “salary-man” de sortie par-là —, Aozaki Tōko marchait fièrement et avec indifférence dans l'avenue.
+　Tandis que divers regards se rivaient sur elle — une femme mariée affairée à ses courses par-ci, un magasinier et un “salary-man” de sortie par-là —, Aozaki Tōko marchait fièrement et avec indifférence dans l'avenue.
 
 }
 [sha:0eb8f6c4d157562ada74797584f3066ddbdcdc9f]{
 -- Page 99, Offset 20782.
 -- 目立つ服装はもとより、彼女本人の“姿勢の強さ”が人目を惹くのだろう。
-  Sa tenue sortait déjà du lot, mais la force dégagée par sa posture attirait également le regard.
+　Sa tenue sortait déjà du lot, mais la force dégagée par sa posture attirait également le regard.
 
 }
 [sha:c3e4812775ec26309ed65f34e6f65efc66fe1212]{
 -- Page 99, Offset 20783.
 -- 俗に言う、モデル歩きというヤツである。
-  C'était ce qu'on appelait communément une démarche de mannequin.
+　C'était ce qu'on appelait communément une démarche de mannequin.
 
 }
 [sha:71bd5128513ab0f39575b42b4f840664ff43bf28]{
@@ -1897,79 +1897,79 @@
 [sha:e1db04461a57575c28925df379e9e0e9382b80cd]{
 -- Page 100, Offset 20785.
 -- なんて、言いたいコトをぐっと堪えながらカレは雇い主の後方、十メートルの位置をキープする。
-  Il se retint au mieux d'énoncer ses pensées à voix haute et resta derrière son employeur, à une distance de dix mètres.
+　Il se retint au mieux d'énoncer ses pensées à voix haute et resta derrière son employeur, à une distance de dix mètres.
 
 }
 [sha:9e76628e2b8427af4642d09320048bcbf7db878e]{
 -- Page 101, Offset 20786.
 -- 橙子本人の名誉の為に注釈しておくと、彼女とて自分がどれほど目立つか理解している。
-  Précisons-le pour l'honneur de Tōko, elle savait parfaitement à quel point l'attention se portait sur elle.
+　Précisons-le pour l'honneur de Tōko, elle savait parfaitement à quel point l'attention se portait sur elle.
 
 }
 [sha:90689080c49d2c2689a71abc9b86d9f6b4d0edd7]{
 -- Page 101, Offset 20787.
 -- 今は人通りの少ない時間帯なのですっぴんだが、学生や社会人が多くなる時間帯では視線よけのルーンを刻んだ<装飾|アクセ>できらびやかさを四割ほど落としているのだ。
-  Comme il y avait peu de passants à cette heure-ci, elle était sortie sans “maquillage”, mais quand les étudiants et les travailleurs se faisaient plus nombreux, elle avait pour habitude d'atténuer sa splendeur de 40 % avec un accessoire gravé d'une Rune repoussoir.
+　Comme il y avait peu de passants à cette heure-ci, elle était sortie sans “maquillage”, mais quand les étudiants et les travailleurs se faisaient plus nombreux, elle avait pour habitude d'atténuer sa splendeur de 40 % avec un accessoire gravé d'une Rune repoussoir.
 
 }
 [sha:e2ca71f0812c7523c254531ffc91f63a6235f475]{
 -- Page 102, Offset 20788.
 -- 蒼崎橙子は商店街でいくつか買い物を済ませた後、住宅地に向かった。
-  Aozaki Tōko procéda à quelques courses dans la rue commerçante avant de prendre le chemin du quartier résidentiel.
+　Aozaki Tōko procéda à quelques courses dans la rue commerçante avant de prendre le chemin du quartier résidentiel.
 
 }
 [sha:279e673f40e7c604fd5291712aa1a38bab156821]{
 -- Page 102, Offset 20789.
 -- 彼女は何の変哲もない一般家屋を訪問した。
-  Elle visita une maison ordinaire et sans trait particulier.
+　Elle visita une maison ordinaire et sans trait particulier.
 
 }
 [sha:08675c3898dc861fd4400451ce827546e2636d64]{
 -- Page 102, Offset 20790.
 -- ベルを押し、「蒼崎橙子です」と告げると、門は静かに開かれた。
-  Elle pressa la sonnette, s'annonça, puis la porte s'ouvrit sans un bruit.
+　Elle pressa la sonnette, s'annonça, puis la porte s'ouvrit sans un bruit.
 
 }
 [sha:408d477fd4bec234351e83985e18c8ba25bda60d]{
 -- Page 102, Offset 20791.
 -- どうも、商店街の買い物はこの家への土産であるらしい。
-  Les achats réalisés dans la rue commerçante semblaient être destinés aux habitants de cette maison.
+　Les achats réalisés dans la rue commerçante semblaient être destinés aux habitants de cette maison.
 
 }
 [sha:86efc6fa43e9d7f30007190813fa6a64056af194]{
 -- Page 103, Offset 20792.
 -- 表札には<浅葱|あさぎ>とある。
-  Le nom “Asagi” était inscrit sur la plaque de la porte.
+　Le nom “Asagi” était inscrit sur la plaque de la porte.
 
 }
 [sha:b1df581b421245557d0adb28f30b8e2e2d8341b1]{
 -- Page 103, Offset 20793.
 -- ふと、<潮|しお>の匂いがする、とカレは感じ取ったが、三咲町は山間の街だ。
-  Il sentait l'odeur du sel, malgré le fait que Misaki était une ville de montagne.
+　Il sentait l'odeur du sel, malgré le fait que Misaki était une ville de montagne.
 
 }
 [sha:0f0ec616f993e1be2230c58083033de3281dec23]{
 -- Page 103, Offset 20794.
 -- こんなところに潮の匂いが在るのはおかしい、何か別の匂いだろう、とカレは忘れるコトにした。
-  C'est bizarre de sentir cette odeur dans un endroit pareil, je dois me tromper, décida-t-il avant d'oublier ce détail.
+　C'est bizarre de sentir cette odeur dans un endroit pareil, je dois me tromper, décida-t-il avant d'oublier ce détail.
 
 }
 [sha:76f346a2001d7e99eb781157cfce394cf1510846]{
 -- Page 104, Offset 20795.
 -- 橙子は三十分ほどで出てきた。
-  Tōko ressortit une trentaine de minutes plus tard.
+　Tōko ressortit une trentaine de minutes plus tard.
 
 }
 [sha:6e4dfb67d2dcb5d5c1fded39c78db0d6ff8cca95]{
 -- Page 104, Offset 20796.
 -- 彼女の中ではわりと重い案件だったのか、家から出るなり両腕を空に伸ばして深呼吸をする。
-  Cette visite devait être relativement importante, car lorsqu'elle sortit de la maison, elle tendit les bras vers le ciel et prit une grande inspiration.
+　Cette visite devait être relativement importante, car lorsqu'elle sortit de la maison, elle tendit les bras vers le ciel et prit une grande inspiration.
 
 }
 [sha:0302fca823557dc0b8913f933205e62cdcc479f3]{
 -- Page 104, Offset 20797.
 -- 肩の荷を下ろすような、そんな伸びだった。
-  Sa façon d'étirer les bras était de celles que l'on accomplit à un moment de soulagement.
+　Sa façon d'étirer les bras était de celles que l'on accomplit à un moment de soulagement.
 
 }
 [sha:aea10d0fe3dac05bf6b624ac229ad6f69d33c10a]{
@@ -1981,43 +1981,43 @@
 [sha:cc7333da9fd8fcde9b55f658c0d0cea39ac515ec]{
 -- Page 105, Offset 20799.
 -- 後は―――最後の念押しね。ああ、面倒くさい」
-  Il ne reste plus qu'à faire un petit rappel. Aaah, c'est barbant.」
+　Il ne reste plus qu'à faire un petit rappel. Aaah, c'est barbant.」
 
 }
 [sha:e4b41e3c66fd1e9659e1f41230a052637c549a84]{
 -- Page 105, Offset 20800.
 -- やれやれと呟く橙子。
-  “J'en ai assez”, marmonna Tōko.
+　“J'en ai assez”, marmonna Tōko.
 
 }
 [sha:a8939a341e64abcbd1784124ca7f37ed1e7ce4e0]{
 -- Page 105, Offset 20801.
 -- が。口調とは裏腹に、口元からはやっぱり例の、浮わ浮わした匂いがするのであった。
-  Mais contrairement à ce que laissait paraître son ton, il sentait la fameuse odeur inconsistante s'échapper de ses lèvres.
+　Mais contrairement à ce que laissait paraître son ton, il sentait la fameuse odeur inconsistante s'échapper de ses lèvres.
 
 }
 [sha:a7a496fcbb2b3740175ff114be546b361a6295b9]{
 -- Page 106, Offset 20802.
 -- 橙子が次に向かったのは、何の変哲もないアパートだった。
-  Tōko se rendit ensuite près d'une résidence à un étage tout à fait banale.
+　Tōko se rendit ensuite près d'une résidence à un étage tout à fait banale.
 
 }
 [sha:70a9849d85413f685d443097c76bce9f98bc0da3]{
 -- Page 106, Offset 20803.
 -- 傍目には偶然通りかかったように見えるが、カレの鼻は誤魔化せない。
-  Une tierce personne aurait cru qu'elle empruntait ce passage par hasard, mais elle ne pouvait pas tromper le flair de Beo.
+　Une tierce personne aurait cru qu'elle empruntait ce passage par hasard, mais elle ne pouvait pas tromper le flair de Beo.
 
 }
 [sha:1982a4b7669b71916e4435436b5384dfc344a8bf]{
 -- Page 106, Offset 20804.
 -- 橙子は散歩するような素振りで時間を調整し、午後二時三十分、きっちりとこの時間に合わせてアパートにやってきたのだ。
-  Tōko avait jaugé le temps avec précaution pour arriver à deux heures trente précises ici, la promenade n'étant qu'un prétexte.
+　Tōko avait jaugé le temps avec précaution pour arriver à deux heures trente précises ici, la promenade n'étant qu'un prétexte.
 
 }
 [sha:aa5bf9b143859a9812d45d83e5b6be75d830df1d]{
 -- Page 107, Offset 20805.
 -- そうして、アパートの駐車場には、
-  Et le parking de la résidence n'était pas vide.
+　Et le parking de la résidence n'était pas vide.
 
 }
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
@@ -2029,7 +2029,7 @@
 [sha:44d45a2104551f6853b03947e30a025288e209b1]{
 -- Page 107, Offset 20807.
 -- たったいま一階の部屋から出てきた、<周瀬|すせ><律架|りつか>の姿があった。
-  Suse Ritsuka venait tout juste de sortir de chez elle, une chambre au rez-de-chaussée.
+　Suse Ritsuka venait tout juste de sortir de chez elle, une chambre au rez-de-chaussée.
 
 }
 [sha:7f5cb0edb5fb0cb423b7d3af364347919516ce8f]{
@@ -2041,7 +2041,7 @@
 [sha:20de7f1e9ec855378e46b896281b6830456b4184]{
 -- Page 108, Offset 20809.
 -- こんなところでバッタリ出会うなんて奇遇ね、律架」
-  Je ne pensais pas te rencontrer ici. Drôle de coïncidence, n'est-ce pas Ritsuka ?」
+　Je ne pensais pas te rencontrer ici. Drôle de coïncidence, n'est-ce pas Ritsuka ?」
 
 }
 [sha:2498485dec3820a90c5477650f9ea00ff39dd36a]{
@@ -2059,19 +2059,19 @@
 [sha:38559575b5027e363196fdaf3f5a8af82d188fb9]{
 -- Page 109, Offset 20812.
 -- あ、言うまでもなく目的はこの町をぶっ潰すコト。
-  Ah, j'imagine que tu t'en doutes, mais mon but est de pulvériser cette ville.
+　Ah, j'imagine que tu t'en doutes, mais mon but est de pulvériser cette ville.
 
 }
 [sha:25e00e4b70ee728c2c439bd508acd4abd88ca72e]{
 -- Page 109, Offset 20813.
 -- 私の過去共々キレイさっぱり清算するため、この度、準備万端でやってまいりました。
-  Afin de tirer une bonne fois pour toutes un trait sur mon passé, je suis venue parfaitement préparée.
+　Afin de tirer une bonne fois pour toutes un trait sur mon passé, je suis venue parfaitement préparée.
 
 }
 [sha:21239dafe209888ceb0ba6b13a6a931f2bcaa05a]{
 -- Page 109, Offset 20814.
 -- なのでぇー。邪魔になる協会の人間とか教会の人間とか、気付かれる前にやっちゃうぞ☆」
-  Et donc, je vais me faire ces gêneurs de l'Association et de l'Église avant qu'ils ne me repèrent ☆」
+　Et donc, je vais me faire ces gêneurs de l'Association et de l'Église avant qu'ils ne me repèrent ☆」
 
 }
 [sha:50a3207eeb1a3e8c5e21b9d2a498ee7a0389ce10]{
@@ -2083,13 +2083,13 @@
 [sha:9ee725e59fe3cfdcd271f61644b0aaabcdbbc4ef]{
 -- Page 110, Offset 20816.
 -- トコちゃん、それわたしのことー！
-  Attends Tōko, tu parles de moi là !
+　Attends Tōko, tu parles de moi là !
 
 }
 [sha:1390f5ef420274eece997c55c18a754cf150172a]{
 -- Page 110, Offset 20817.
 -- 協会の人間って、いまわたししかいないんですけどー！」
-  Je suis le seul membre de l'Association dépêché ici en ce moment !」
+　Je suis le seul membre de l'Association dépêché ici en ce moment !」
 
 }
 [sha:5f05b33386f6ef284da968f84f10a95186955862]{
@@ -2101,7 +2101,7 @@
 [sha:1db7ea4ef01c26fc86add58dead44914dabf1839]{
 -- Page 110, Offset 20819.
 -- 懐かしくて散歩していたら、まさか標的の一人に出遭うなんて。ひとつ手間が省けた感じ？」
-  Je n'aurais jamais cru rencontrer l'une de mes cibles en me promenant, plongée dans mes souvenirs. Ça me fait gagner du temps, tiens.」
+　Je n'aurais jamais cru rencontrer l'une de mes cibles en me promenant, plongée dans mes souvenirs. Ça me fait gagner du temps, tiens.」
 
 }
 [sha:12409bab7eec6c2e6e9f9bbba9aee1ce060d402e]{
@@ -2113,43 +2113,43 @@
 [sha:6ca4a5658983c4b85cd32b9d61d78fdbc76ca620]{
 -- Page 111, Offset 20821.
 -- だってここ一年、真面目に仕事してないし！
-  Après tout, je n'ai pas travaillé sérieusement cette année !
+　Après tout, je n'ai pas travaillé sérieusement cette année !
 
 }
 [sha:04bce2f5f4682bc4e66e6e031aa1ff4ee4e076ac]{
 -- Page 111, Offset 20822.
 -- というか、仮にも兄弟子をつかまえて本気で殺すとか言わないでほしいですー！」
-  Et même si c'est une blague, évite de menacer de mort ta camarade d'apprentissage !」
+　Et même si c'est une blague, évite de menacer de mort ta camarade d'apprentissage !」
 
 }
 [sha:2aa1a5cf48e84786b7d5e1bb361f89b5f9623672]{
 -- Page 112, Offset 20823.
 -- アパートから現れた女性は、わたわたと涙目で手を振り回す。
-  La femme de la résidence faisait des moulinets avec les bras, les larmes aux yeux.
+　La femme de la résidence faisait des moulinets avec les bras, les larmes aux yeux.
 
 }
 [sha:816ac184c87c9dfb14350e2fc4a031bd740f33c2]{
 -- Page 112, Offset 20824.
 -- が、それは無用の心配だ。
-  Cela dit, son inquiétude n'avait pas lieu d'être.
+　Cela dit, son inquiétude n'avait pas lieu d'être.
 
 }
 [sha:f1833eada6407ceb628b94995723557349391ae6]{
 -- Page 112, Offset 20825.
 -- 向かいの家の塀の穴から覗いているカレからしてみれば、橙子の殺気は偽物である。
-  D'après Beo qui observait la scène depuis un trou dans le mur en face du bâtiment, la menace de Tōko était bidon.
+　D'après Beo qui observait la scène depuis un trou dans le mur en face du bâtiment, la menace de Tōko était bidon.
 
 }
 [sha:90799d92a7845adb68f7e9a794e808cbacb604ae]{
 -- Page 112, Offset 20826.
 -- 蒼崎橙子は、常からして他人をからかって愉しむ癖のある、たいへん困った女性だ。
-  Aozaki Tōko était une femme problématique qui avait la fâcheuse manie de taquiner les gens.
+　Aozaki Tōko était une femme problématique qui avait la fâcheuse manie de taquiner les gens.
 
 }
 [sha:b3b1762417b2656728cc505f1337984aeecf4ea5]{
 -- Page 112, Offset 20827.
 -- その困ったところが、あの相手に対しては二倍増しで表れているだけらしい。
-  Ce côté de sa personnalité semblait se manifester avec deux fois plus d'intensité face à cette femme.
+　Ce côté de sa personnalité semblait se manifester avec deux fois plus d'intensité face à cette femme.
 
 }
 [sha:b53a39812767d9d0518fe20445c6e4e24da24b5a]{
@@ -2179,7 +2179,7 @@
 [sha:96e01716e3da87bec7e1f580cf8e87fee68ff432]{
 -- Page 114, Offset 20832.
 -- せめて週給のところを紹介して！」
-  Présente-moi au moins une société qui paie à la semaine !」
+　Présente-moi au moins une société qui paie à la semaine !」
 
 }
 [sha:dde3dfe57d19c69fd7b80b86abe62e783dc7c43a]{
@@ -2197,25 +2197,25 @@
 [sha:050499a50207d69008105c48b82b2d5be0f40694]{
 -- Page 114, Offset 20835.
 -- だってわたし、何もできない役立たずですから。
-  Après tout, je suis une parfaite incompétente.
+　Après tout, je suis une parfaite incompétente.
 
 }
 [sha:76dc86689dbcd0f89893e73315477d42160dc725]{
 -- Page 114, Offset 20836.
 -- 魔術協会いちのお荷物、ここに参上～♪」
-  Le fardeau numéro 1 de l'Association des Mages est ici présent～♪」
+　Le fardeau numéro 1 de l'Association des Mages est ici présent～♪」
 
 }
 [sha:75017da0e8a22a0b8efa6eb575ab6a20ab142f2f]{
 -- Page 115, Offset 20837.
 -- ぽやぽやした笑顔に毒気を抜かれたのか、橙子もつられて微笑む。
-  Le sourire chaleureux dissipa la malice de Tōko qui sourit à son tour.
+　Le sourire chaleureux dissipa la malice de Tōko qui sourit à son tour.
 
 }
 [sha:87eec6e4e3261cc0a4b4e22108caabfd99091a81]{
 -- Page 115, Offset 20838.
 -- 傍目には<和|わ><気|き><藹々|あいあい>とした関係だ。
-  Pour un étranger, leur relation semblait amicale.
+　Pour un étranger, leur relation semblait amicale.
 
 }
 [sha:f819378fa8364d85870211509ce0cedd922d3808]{
@@ -2227,7 +2227,7 @@
 [sha:08487c1cfa4fe2810014509ff9e000a8e7408ba3]{
 -- Page 116, Offset 20840.
 -- それなら寄ってく？　これから用事があったんだけど、別に後回しでいいし。久しぶりだもの、お互いつもる話とか楽しそうじゃない？」
-  Puisque tu es là, tu veux rentrer ? J'avais des choses à faire, mais je peux les remettre à plus tard. Après tout ce temps, on doit avoir pas mal de choses à se dire.」
+　Puisque tu es là, tu veux rentrer ? J'avais des choses à faire, mais je peux les remettre à plus tard. Après tout ce temps, on doit avoir pas mal de choses à se dire.」
 
 }
 [sha:adc3a87672900863f3f37ac2f7f62d8caf20f4f8]{
@@ -2239,13 +2239,13 @@
 [sha:c381c92b439403fc52d2bce6c8ac53dd6cb33ad8]{
 -- Page 117, Offset 20842.
 -- たしかに気が変わったわ。その様子じゃ協会との関係なんて無いようなものだし、貴女は貴女の信条を守っているようだし。
-  Certes, j'ai changé d'avis. Vu l'état des choses, ça ne surprendrait personne d'apprendre qu'en réalité, tu n'as aucun lien avec l'Association. Et tu sembles être fidèle à tes principes.
+　Certes, j'ai changé d'avis. Vu l'état des choses, ça ne surprendrait personne d'apprendre qu'en réalité, tu n'as aucun lien avec l'Association. Et tu sembles être fidèle à tes principes.
 
 }
 [sha:02357ba23f9d29c9585dada272086f40987def06]{
 -- Page 117, Offset 20843.
 -- ―――そう、本気で青子の味方なんだ」
-  ―――Je vois. Tu es vraiment du côté d'Aoko.」
+　―――Je vois. Tu es vraiment du côté d'Aoko.」
 
 }
 [sha:fee6287d58e7527541db895b258d8de9644ab990]{
@@ -2257,7 +2257,7 @@
 [sha:07b4ea02cd1c68f58f0ac346d387a8ed7270a51f]{
 -- Page 118, Offset 20845.
 -- 付かず離れず、あくまで他人行儀に、アコちゃんが死ぬような目にあっても遠くから見守るわ」
-  Je resterai neutre avec des manières d'étranger et je veillerai sur elle de loin, même si elle se retrouve en danger de mort.」
+　Je resterai neutre avec des manières d'étranger et je veillerai sur elle de loin, même si elle se retrouve en danger de mort.」
 
 }
 [sha:279ec5719763893c26893648648a1e02b15f4320]{
@@ -2269,13 +2269,13 @@
 [sha:5bc5145a0dad3ba82c9240bcf15db2a290618bf1]{
 -- Page 119, Offset 20847.
 -- 橙子は一歩、周瀬律架から身を引いた。
-  Tōko recula d'un pas, s'éloignant ainsi de Suse Ritsuka.
+　Tōko recula d'un pas, s'éloignant ainsi de Suse Ritsuka.
 
 }
 [sha:c7839acabea92b4f552f5f8791a1403e5548ed1b]{
 -- Page 119, Offset 20848.
 -- やや名残惜しげな顔が、話はここで終わりである事を示している。
-  Son expression teintée de tristesse annonçait que la conversation arrivait à son terme.
+　Son expression teintée de tristesse annonçait que la conversation arrivait à son terme.
 
 }
 [sha:dfb495ef680113e071081040e46004262841daa2]{
@@ -2287,7 +2287,7 @@
 [sha:b2f4e8c3416264ea744b0eaf8a62756cf95a5832]{
 -- Page 120, Offset 20850.
 -- わたし、コーヒー淹れるの上手くなったよ？」
-  Mon café est bien meilleur qu'avant, tu sais ?」
+　Mon café est bien meilleur qu'avant, tu sais ?」
 
 }
 [sha:c116d18253ade6fa0169fed6bebcfd0716b1571b]{
@@ -2299,7 +2299,7 @@
 [sha:4cff620b57a91e346b1a866fa1b75bc1ee0edfe7]{
 -- Page 120, Offset 20852.
 -- ここで緊張感をなくすのは<上|う><手|ま>くないでしょ」
-  Il ne faudrait pas que je me détende trop, vois-tu ?」
+　Il ne faudrait pas que je me détende trop, vois-tu ?」
 
 }
 [sha:6b3c25fda3c4dcab85aa9ca4d55a45521a8a8181]{
@@ -2311,13 +2311,13 @@
 [sha:ad66e2600c3e945484e5c4d6a70331080c2d776d]{
 -- Page 121, Offset 20854.
 -- でもそうよね、トコちゃんはそういう人でした。根を詰めすぎて、目的より手段そのものに熱中しちゃうタイプ。
-  Mais à bien y penser, tu as toujours été comme ça. Tu es du genre à trop en faire et à te focaliser davantage sur les moyens que sur les résultats.
+　Mais à bien y penser, tu as toujours été comme ça. Tu es du genre à trop en faire et à te focaliser davantage sur les moyens que sur les résultats.
 
 }
 [sha:49d312e9a19822cf4ff9bb7b92358d318e6814f3]{
 -- Page 121, Offset 20855.
 -- ほーんと、どんな準備かは分からないけど、トコちゃんに狙われる人たちはたいへんだ」
-  Je te jure. Je ne sais pas de quels préparatifs tu parles, mais ceux que tu as dans le collimateur doivent avoir la vie dure.」
+　Je te jure. Je ne sais pas de quels préparatifs tu parles, mais ceux que tu as dans le collimateur doivent avoir la vie dure.」
 
 }
 [sha:d367d2f61309df714e410deed514d604a0b638bc]{
@@ -2329,7 +2329,7 @@
 [sha:f4d13a4c14a4089bb2771efb7b9ebc1f1b73fa46]{
 -- Page 122, Offset 20857.
 -- 時代遅れの魔女じゃあるまいし、倒した相手に呪いとかかけないわよ、私？」
-  Je ne suis pas comme ces sorcières d'antan. Je ne lance pas de malédiction sur le perdant, tu sais ?」
+　Je ne suis pas comme ces sorcières d'antan. Je ne lance pas de malédiction sur le perdant, tu sais ?」
 
 }
 [sha:713e06ee60ce4342314724cc88683f8e9bd3d53e]{
@@ -2341,73 +2341,73 @@
 [sha:d572df9cece14db7650a3f455169778b33813375]{
 -- Page 123, Offset 20859.
 -- 相手の命より収集を優先してるじゃない。
-  Tu privilégies ta collecte à la vie de l'adversaire.
+　Tu privilégies ta collecte à la vie de l'adversaire.
 
 }
 [sha:d754cfd3e0c766b2bb68ea162a024d0f81bdb19e]{
 -- Page 123, Offset 20860.
 -- その人たち、目玉だけになっても生きている、なんてコトにならなければいいけど。
-  J'ose espérer que ces personnes ne sont pas en vie alors qu'il ne reste plus qu'un globe oculaire d'eux.
+　J'ose espérer que ces personnes ne sont pas en vie alors qu'il ne reste plus qu'un globe oculaire d'eux.
 
 }
 [sha:d8c10b31d7677cbfb82d343c5fda74357c77374e]{
 -- Page 123, Offset 20861.
 -- 貴女は気を<遣|つか>っているつもりだろうけど、相手にとっては拷問だからね、それ」
-  Tu crois peut-être les traiter avec considération, mais pour eux, c'est de la torture pure et simple.」
+　Tu crois peut-être les traiter avec considération, mais pour eux, c'est de la torture pure et simple.」
 
 }
 [sha:a73630054ba7e193dacbfaa91e04ccdc91b5cce3]{
 -- Page 124, Offset 20862.
 -- なるほど、と橙子は頷いた。
-  “Je vois”, fit Tōko.
+　“Je vois”, fit Tōko.
 
 }
 [sha:b1ff45a2ebf69e3983872f1cdd1347825e2cb62f]{
 -- Page 124, Offset 20863.
 -- 自分の収集癖は、傍目にはそう映るのかと。
-  C'était donc ainsi que ses manies de collectionneuse étaient perçues par une tierce personne.
+　C'était donc ainsi que ses manies de collectionneuse étaient perçues par une tierce personne.
 
 }
 [sha:b35ca01992d1403b30fbae4f3f47114a376c55ca]{
 -- Page 125, Offset 20864.
 -- 蒼崎橙子は戦闘に利益を求める。
-  Aozaki Tōko exigeait d'un combat qu'il soit rentable.
+　Aozaki Tōko exigeait d'un combat qu'il soit rentable.
 
 }
 [sha:8e5c83f18d45b1b0dccf11ad27a3eb9876bb1c95]{
 -- Page 125, Offset 20865.
 -- 敵対した魔術師を倒した後、彼らが有益な素材を提供してくれるのなら命までは奪わない。
-  Quand elle battait un Mage belligérant, elle épargnait sa vie s'il lui offrait du matériel utile.
+　Quand elle battait un Mage belligérant, elle épargnait sa vie s'il lui offrait du matériel utile.
 
 }
 [sha:74f6f37c5d8673a39fbd9f089dda5c3f7da34e9a]{
 -- Page 125, Offset 20866.
 -- むしろ、ギブアンドテイクとばかりに無理やり命を助けさえする。
-  Il lui arrivait même de préserver sa vie de force, ce qu'elle considérait comme du donnant-donnant.
+　Il lui arrivait même de préserver sa vie de force, ce qu'elle considérait comme du donnant-donnant.
 
 }
 [sha:1c021c4f76677a5d3f8f44d8beaa5b36b0c25508]{
 -- Page 125, Offset 20867.
 -- 結果、ロンドンの彼女の工房には『術式提供者用・慰安施設』なるものが出来てしまった。
-  En conséquence, son Atelier à Londres comportait une “institution de consolation aux donateurs de sorts”.
+　En conséquence, son Atelier à Londres comportait une “institution de consolation aux donateurs de sorts”.
 
 }
 [sha:35b72980f557b9fc887f944a5cb2ece9564e342d]{
 -- Page 125, Offset 20868.
 -- 彼女に敗れた、あるいは自分から協力者になった魔術師たちの棲む魔窟である。
-  C'était une sorte de maison des plaisirs où vivaient les Mages vaincus ou qui avaient proposé d'eux-mêmes une collaboration.
+　C'était une sorte de maison des plaisirs où vivaient les Mages vaincus ou qui avaient proposé d'eux-mêmes une collaboration.
 
 }
 [sha:622fe78cc6e5556aa76b78717b0a5af9576f0e1a]{
 -- Page 126, Offset 20869.
 -- 現在、多くの魔術特許を持ち、月の収入が１万ポンドを超える橙子だが、大半はその施設の維持に充てられている。
-  Tōko possédait de nombreux brevets magiques, et ses revenus dépassaient les dix mille livres par mois, mais la majorité de ces fonds étaient affectés à l'entretien de son “institution”.
+　Tōko possédait de nombreux brevets magiques, et ses revenus dépassaient les dix mille livres par mois, mais la majorité de ces fonds étaient affectés à l'entretien de son “institution”.
 
 }
 [sha:e9446f9d6d1750198bdfbbb566d909f4364e5f46]{
 -- Page 126, Offset 20870.
 -- 棲みついた魔術師たちの要望―――追加施設、特別待遇を望む声は日に日に増しており、いいかげん会社を<興|おこ>すか、あるいは全員<釈|ク><放|ビ>にするかと、悩み多い橙子だった。
-  Les demandes des Mages qui avaient nidifié les lieux allaient en se multipliant — ajout d'équipements, traitement de faveur, etc. — et Tōko hésitait à fonder une entreprise ou à tous les virer.
+　Les demandes des Mages qui avaient nidifié les lieux allaient en se multipliant — ajout d'équipements, traitement de faveur, etc. — et Tōko hésitait à fonder une entreprise ou à tous les virer.
 
 }
 [sha:30b6e0a788823d5925efb30dacef125161464e39]{
@@ -2419,19 +2419,19 @@
 [sha:c3ed30b4a06aad603e1cdb63b36410173d321963]{
 -- Page 127, Offset 20872.
 -- 拷問なんて手間暇かかりすぎるし。娯楽を与える方が管理コストは低いんだってば。
-  La torture consomme du temps et de l'argent. Et je peux aussi te dire que les frais pour subvenir à leurs besoins sont bien moindres en leur donnant du divertissement.
+　La torture consomme du temps et de l'argent. Et je peux aussi te dire que les frais pour subvenir à leurs besoins sont bien moindres en leur donnant du divertissement.
 
 }
 [sha:3713d8ab33c86c764874df8a86f0e6bb463f4f2e]{
 -- Page 127, Offset 20873.
 -- <現代|いま>はいい脚本そろってるしね。適当な映画のプロットを拝借して、それを再現するだけで喜んでもらえるし。
-  J'ai pu me procurer quelques scripts intéressants. Je reproduis l'intrigue d'un film quelconque et ils s'y plaisent, dans ce film.
+　J'ai pu me procurer quelques scripts intéressants. Je reproduis l'intrigue d'un film quelconque et ils s'y plaisent, dans ce film.
 
 }
 [sha:0a6c3c01ef060a08f87c84b6160bc429599071c8]{
 -- Page 127, Offset 20874.
 -- 仮想であれ現実であれ、自分が主役になれる物語なんて最高じゃない」
-  Que ce soit une illusion ou la réalité, ils ont une histoire où ils jouent le rôle principal. C'est pas génial ?」
+　Que ce soit une illusion ou la réalité, ils ont une histoire où ils jouent le rôle principal. C'est pas génial ?」
 
 }
 [sha:a8b3a8fc52872c072d6785f993cec521dd08e89b]{
@@ -2443,7 +2443,7 @@
 [sha:a3b416a6761b7bdf86ca2d4bc08667a817be0c4e]{
 -- Page 128, Offset 20876.
 -- 恋愛３、活劇３、サスペンス３、アニメ１？」
-  Amour 30 %, action 30 %, suspense 30 %, animation 10 % ?」
+　Amour 30 %, action 30 %, suspense 30 %, animation 10 % ?」
 
 }
 [sha:2540990f06a113ea699c60c8874d0429374fd8be]{
@@ -2461,7 +2461,7 @@
 [sha:f7b90d537baf277a11c6b002f274b978b22b6bde]{
 -- Page 128, Offset 20879.
 -- というか、女の子なんだからもっとロマンを求めてほしいの」
-  Et puis je suis une fille, alors je préfère la romance.」
+　Et puis je suis une fille, alors je préfère la romance.」
 
 }
 [sha:7c55155a7e6cec0eaf0b926afb4e73334400de5d]{
@@ -2473,7 +2473,7 @@
 [sha:4cd64dfd106502f06081efffead9003a9cd29e2d]{
 -- Page 129, Offset 20881.
 -- んー、囚人を放り込む<仮|は><想|こ><現|に><実|わ>の、バランスに気を遣ってみればいいの？　ホラー８ぐらい？」
-  Voyons, il suffit que je fasse attention à l'équilibre du monde illusoire dans lequel je plonge les prisonniers ? 80 % d'horreur, ça irait ?」
+　Voyons, il suffit que je fasse attention à l'équilibre du monde illusoire dans lequel je plonge les prisonniers ? 80 % d'horreur, ça irait ?」
 
 }
 [sha:73e9df2e61af159829b8d85768488f92359227b6]{
@@ -2485,7 +2485,7 @@
 [sha:42e4144d65a91644cf0c2e2225dea8ea8e84b85a]{
 -- Page 129, Offset 20883.
 -- 橙子に狙われた場合、絶対に負けると信じきった上での即答だった。
-  Elle répondit ainsi, certaine de sa défaite si Tōko devait la prendre pour cible.
+　Elle répondit ainsi, certaine de sa défaite si Tōko devait la prendre pour cible.
 
 }
 [sha:e5c6dd38b97a7e7f07d4c2c4b972aeb676ac3104]{
@@ -2515,13 +2515,13 @@
 [sha:6f889ed72843153d5ed2cad309d3b9b4e6685f20]{
 -- Page 131, Offset 20888.
 -- あ―――あれ。そもそもなんていうか、トコちゃん。
-  Ti―――Tiens ? Dis donc, Tōko.
+　Ti―――Tiens ? Dis donc, Tōko.
 
 }
 [sha:1350bb1b0486fdeddec3498abe52d13539f17ef7]{
 -- Page 131, Offset 20889.
 -- わたし、一歩も動けないんだけどー！」
-  Je ne peux pas bouger d'un pas !」
+　Je ne peux pas bouger d'un pas !」
 
 }
 [sha:dacf0c4a791762011a0107012b0a6528aacf3feb]{
@@ -2539,19 +2539,19 @@
 [sha:31aa97e8c261a52976b7c5ee3a1e1c7841f6cec5]{
 -- Page 133, Offset 20894.
 -- 悪魔！　人でなし！　天才悪魔！　トコちゃんはもう少し一般常識を学ぶべきです！　もう、どうりで夜な夜な泥棒さんがピッキングしてると思った！」
-  Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre le bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
+　Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre le bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」
 
 }
 [sha:38eece91cc7a67b06572b54e5b4ddbfe34a0478c]{
 -- Page 134, Offset 20895.
 -- 影の使い魔には気付かなかったものの、深夜、細工をしている橙子の気配には気付いていたらしい。
-  Elle n'avait peut-être pas remarqué le familier d'ombres, mais manifestement, elle avait senti la présence de Tōko à l'ouvrage tard dans la nuit.
+　Elle n'avait peut-être pas remarqué le familier d'ombres, mais manifestement, elle avait senti la présence de Tōko à l'ouvrage tard dans la nuit.
 
 }
 [sha:8f6398b77acf7bc6ccd45cb82e18dac61e1e64f5]{
 -- Page 134, Offset 20896.
 -- ただの泥棒と思ってスルーし続けるあたり、律架に一般常識を問われたくない橙子だった。
-  Tōko ne voulait pas que Ritsuka lui fasse une leçon sur le bon sens, sachant qu'elle avait fait comme si ce “voleur” n'existait pas sous prétexte que ce n'était qu'un petit criminel.
+　Tōko ne voulait pas que Ritsuka lui fasse une leçon sur le bon sens, sachant qu'elle avait fait comme si ce “voleur” n'existait pas sous prétexte que ce n'était qu'un petit criminel.
 
 }
 [sha:d93bed3f9f1226c3bba96a562476aa80a99c4fed]{
@@ -2563,19 +2563,19 @@
 [sha:a8d8288a857c008d78fc92012d6131c8898f53f6]{
 -- Page 135, Offset 20898.
 -- じゃあね律架。縁があったらまた会いましょう。その時は自慢のコーヒーをご馳走してね。
-  À plus, Ritsuka. On se reverra si le destin le veut. Tu me régaleras de ton fameux café si ça arrive.
+　À plus, Ritsuka. On se reverra si le destin le veut. Tu me régaleras de ton fameux café si ça arrive.
 
 }
 [sha:f0fbf3ce6bff900439ec2f5dbe3f58543ac1cd33]{
 -- Page 135, Offset 20899.
 -- ああ、あと深夜販売の商品だってバカにできたもんじゃないわ。あのシンプルさ、けっこう好きよ、私」
-  Ah, et aussi, les articles vendus en pleine nuit ne sont pas à prendre à la légère. J'aime assez leur simplicité.」
+　Ah, et aussi, les articles vendus en pleine nuit ne sont pas à prendre à la légère. J'aime assez leur simplicité.」
 
 }
 [sha:a0d75dedf722d8cf5f235dc9420e8933d6411f51]{
 -- Page 136, Offset 20900.
 -- 旧知の友人にウインクをして、橙子はアパートを後にする。
-  Tōko lança un clin d'œil à sa vieille amie avant de s'éloigner.
+　Tōko lança un clin d'œil à sa vieille amie avant de s'éloigner.
 
 }
 [sha:7db11bd3a33c83e41ee5e8f572c05fe65f63841a]{
@@ -2587,61 +2587,61 @@
 [sha:bad0cba4f6296cc4d3e29481562f37b67fb8a497]{
 -- Page 136, Offset 20902.
 -- その言葉に、橙子自身、空しいものを感じながら。
-  Tōko perçut comme quelque chose de creux dans ces mots.
+　Tōko perçut comme quelque chose de creux dans ces mots.
 
 }
 [sha:a943c1b535117e50bcf431b15e3e8801447e114a]{
 -- Page 137, Offset 20903.
 -- 今回の計画は、どうあっても彼女の肉体を無事には済まさない。成功するにしろ失敗するにしろ、蒼崎橙子はこの世から消失する。
-  Son plan ne prévoyait pas que son corps physique s'en sorte indemne. Qu'elle réussisse ou qu'elle échoue, Aozaki Tōko disparaîtrait de ce monde.
+　Son plan ne prévoyait pas que son corps physique s'en sorte indemne. Qu'elle réussisse ou qu'elle échoue, Aozaki Tōko disparaîtrait de ce monde.
 
 }
 [sha:4a9937e32a60783db3822f7731ad86d2b047c95d]{
 -- Page 137, Offset 20904.
 -- それでも再会の<空言|からごと>を残す程度には―――
-  Elle ressentait sûrement un attachement émotionnel envers Suse Ritsuka,
+　Elle ressentait sûrement un attachement émotionnel envers Suse Ritsuka,
 
 }
 [sha:0bab4b12e2140e86c48a811a72188b34fcc128a1]{
 -- Page 137, Offset 20905.
 -- 蒼崎橙子は、周瀬律架に思い入れがあったのだろう。
-  assez grand en tout cas pour qu'elle évoque d'impossibles retrouvailles.
+　assez grand en tout cas pour qu'elle évoque d'impossibles retrouvailles.
 
 }
 [sha:7c5972d634315ee96e742995e826f4359427c423]{
 -- Page 138, Offset 20906.
 -- そんな友人を、律架は金縛り状態で見送った。
-  Toujours paralysée, Ritsuka accompagna son amie du regard.
+　Toujours paralysée, Ritsuka accompagna son amie du regard.
 
 }
 [sha:b2242771c0a63d23a02d3759924166ce52292131]{
 -- Page 138, Offset 20907.
 -- 蒼崎橙子が帰ってきた。
-  Aozaki Tōko était rentrée au bercail.
+　Aozaki Tōko était rentrée au bercail.
 
 }
 [sha:84c4b324c236eccd5a5b4deda99758240e6b8966]{
 -- Page 138, Offset 20908.
 -- 律架にとって、それは今回の事件の真相を知るに等しい。
-  Selon Ritsuka, cela revenait à connaître la vérité sur cette affaire.
+　Selon Ritsuka, cela revenait à connaître la vérité sur cette affaire.
 
 }
 [sha:c4187708551789bd4f33cd32504c52bdd0dcc0c5]{
 -- Page 138, Offset 20909.
 -- 橙子より二歳ほど年上の周瀬律架は、十年前から橙子の祖^父―――五番目の魔法の路を発掘した魔術師―――の監視^役として派遣された魔術師だ。
-  Suse Ritsuka, à peu près deux ans plus vieille que Tōko, était une Mage dépêchée il y a dix ans en tant qu'observatrice du grand-père de cette dernière―――le Mage ayant découvert la voie vers la Cinquième Vraie Magie.
+　Suse Ritsuka, à peu près deux ans plus vieille que Tōko, était une Mage dépêchée il y a dix ans en tant qu'observatrice du grand-père de cette dernière―――le Mage ayant découvert la voie vers la Cinquième Vraie Magie.
 
 }
 [sha:abb8c7020ae655d9683449d20778ff4470644ffc]{
 -- Page 138, Offset 20910.
 -- 彼女は蒼崎橙子の先輩であり、また、蒼崎青子の先輩でもある。
-  Elle était la “disciple aînée” d'Aozaki Tōko, mais aussi d'Aozaki Aoko.
+　Elle était la “disciple aînée” d'Aozaki Tōko, mais aussi d'Aozaki Aoko.
 
 }
 [sha:2ae801d0ce2ba835d4a9a11380e0e196078473cd]{
 -- Page 138, Offset 20911.
 -- 故に、姉妹の事情をそれなりに把握していた。
-  Ainsi, elle était bien au fait de la situation entre les sœurs.
+　Ainsi, elle était bien au fait de la situation entre les sœurs.
 
 }
 [sha:0f56ee80f03505f2d6fad1202d8b5d628e194be3]{
@@ -2653,25 +2653,25 @@
 [sha:b03a73ccb2568f1812d51fd456f3b5fa179f8673]{
 -- Page 139, Offset 20913.
 -- トコちゃんを見てまっさきに警戒するのはわたしと―――」
-  Les premières personnes qui redoubleraient de vigilance à la vue de Tōko, c'est moi et―――」
+　Les premières personnes qui redoubleraient de vigilance à la vue de Tōko, c'est moi et―――」
 
 }
 [sha:6feeb3d367ac1e60055f18ed246601395c39f9d1]{
 -- Page 139, Offset 20914.
 -- あと一人。
-  Une autre personne.
+　Une autre personne.
 
 }
 [sha:90fe3b6fa21fb77b909d71824699b21d000745d4]{
 -- Page 139, Offset 20915.
 -- 真の意味で蒼崎姉妹の兄弟子と言える人物。
-  Le personnage que l'on pourrait véritablement qualifier d'aîné disciple des sœurs Aozaki.
+　Le personnage que l'on pourrait véritablement qualifier d'aîné disciple des sœurs Aozaki.
 
 }
 [sha:5977e6a6e442815b798f5f5083d0f3057ca908de]{
 -- Page 139, Offset 20916.
 -- 蒼崎橙子の教育係を務めた、ある麗人が残っている。
-  L'homme de toute beauté ayant été chargé de l'éducation d'Aozaki Tōko.
+　L'homme de toute beauté ayant été chargé de l'éducation d'Aozaki Tōko.
 
 }
 [sha:18f063a6a6b831842dae2a8cc6d1a08d8bd0726c]{
@@ -2683,7 +2683,7 @@
 [sha:0aa22987ebdc8291464e0fe8184c232578160362]{
 -- Page 140, Offset 20918.
 -- トコちゃんならそのあたり完璧だろうけど―――」
-  Connaissant Tōko, elle doit être parfaitement préparée, mais―――」
+　Connaissant Tōko, elle doit être parfaitement préparée, mais―――」
 
 }
 [sha:52e743dc1e76c96affe53a36b0ae34b7833d4c23]{
@@ -2701,55 +2701,55 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:4d1e2ba5c8ebc3e8ee6cdbb338077bd2afae6fd0]{
 -- Page 142, Offset 20921.
 -- 蒼崎橙子は魔術師というより研究者で、基本、戦いに向いた人間ではない。
-  Aozaki Tōko se rapprochait plus d'une chercheuse que d'une Mage et n'était pas vraiment faite pour le combat.
+　Aozaki Tōko se rapprochait plus d'une chercheuse que d'une Mage et n'était pas vraiment faite pour le combat.
 
 }
 [sha:eb188059396d021b9c840da95e643bab8243a99f]{
 -- Page 142, Offset 20922.
 -- 残酷なクセに冷酷ではない。
-  Elle était cruelle, mais pourtant pas sans cœur.
+　Elle était cruelle, mais pourtant pas sans cœur.
 
 }
 [sha:85bd5a2188c06334b82fa2169a6ef59aa2d23f8c]{
 -- Page 142, Offset 20923.
 -- 合理的な、むごたらしい仕打ちができるクセに、他人への思いやりなどを持ってしまっている。
-  Elle était capable d'infliger un traitement horrible aux autres, guidée par la rationalité, mais elle gardait de la sympathie pour eux.
+　Elle était capable d'infliger un traitement horrible aux autres, guidée par la rationalité, mais elle gardait de la sympathie pour eux.
 
 }
 [sha:9ac18bdc8a4cf9aceeabd031d6d7424ba16edc3e]{
 -- Page 142, Offset 20924.
 -- そのあたりの整合性のなさが彼女自身を苦しめなければいいけど、と、律架はひとり、我が事のように嘆息した。
-  “J'espère que cette contradiction ne la fera pas souffrir”, soupira Ritsuka amicalement.
+　“J'espère que cette contradiction ne la fera pas souffrir”, soupira Ritsuka amicalement.
 
 }
 [sha:8e821b90072261746b3d7722871afda45f6c1287]{
 -- Page 143, Offset 20925.
 -- 蒼崎橙子は住宅地を後にすると、街で一番大きな公園に足を向けた。
-  Après avoir quitté le quartier résidentiel, Aozaki Tōko se dirigea vers le plus grand parc de la ville.
+　Après avoir quitté le quartier résidentiel, Aozaki Tōko se dirigea vers le plus grand parc de la ville.
 
 }
 [sha:9065aa4b932b06dbf025aa6058f1c8615fa1d6be]{
 -- Page 143, Offset 20926.
 -- 冬の初めの、午後三時過ぎの並木道。
-  Elle marchait sur un chemin bordé d'arbres. Il était trois heures passées en ce jour de début d'hiver.
+　Elle marchait sur un chemin bordé d'arbres. Il était trois heures passées en ce jour de début d'hiver.
 
 }
 [sha:182cfee8611cc863550bcd624f97ba3f036d9876]{
 -- Page 143, Offset 20927.
 -- 秋であれば散歩をする人々で<彩|いろど>られる道だが、今は橙子の姿しかない。
-  En automne, les lieux auraient été bondés de monde profitant d'une promenade, mais aujourd'hui, il n'y avait que Tōko.
+　En automne, les lieux auraient été bondés de monde profitant d'une promenade, mais aujourd'hui, il n'y avait que Tōko.
 
 }
 [sha:437ca8b37c2dcf08398f92c3e7dbf85b2f347d2d]{
 -- Page 144, Offset 20928.
 -- ……いや、正確にはもう一人分。
-  ...... Non, en réalité, quelqu'un d'autre était présent.
+　...... Non, en réalité, quelqu'un d'autre était présent.
 
 }
 [sha:6fc57bf2583ab3e18b28379c83c5b1e4de827eae]{
 -- Page 144, Offset 20929.
 -- 十メートル以上の距離をとって芝生を歩くベオは、ここにきて雇い主の変化を嗅ぎ取った。
-  Beo, qui la suivait à dix mètres de distance sur la pelouse, sentit le changement qui s'était opéré chez son employeur.
+　Beo, qui la suivait à dix mètres de distance sur la pelouse, sentit le changement qui s'était opéré chez son employeur.
 
 }
 [sha:d5ff93d44714532a5d069c1806da8c9387c88022]{
@@ -2761,25 +2761,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:b70b8b1d0b1094d32dd2a0d79274d86030c834f6]{
 -- Page 145, Offset 20931.
 -- 蒼崎橙子はメガネの有り無しで人格をスイッチする。
-  Aozaki Tōko changeait de personnalité par l'intermédiaire du port de ses lunettes.
+　Aozaki Tōko changeait de personnalité par l'intermédiaire du port de ses lunettes.
 
 }
 [sha:98a253a99d5d89d64c90b9d55fc459fb1f5cba0e]{
 -- Page 145, Offset 20932.
 -- どちらが素なのかはベオには不明だが、メガネを外した彼女は遊びのない、男性的な思考に変化する。
-  Beo ne savait pas laquelle était l'originale, mais quand elle retirait sa monture, sa façon de penser devenait austère et masculine.
+　Beo ne savait pas laquelle était l'originale, mais quand elle retirait sa monture, sa façon de penser devenait austère et masculine.
 
 }
 [sha:947f9e654ce9f9c13e64f0c157997170e886cb9d]{
 -- Page 145, Offset 20933.
 -- 俗に言う二重人格……ではなく、物事の優先度を組み替えただけのもので、おもに相手を叩きのめす時、彼女はメガネを外す。
-  Il ne s'agissait pas d'un dédoublement de personnalité. Elle modifiait simplement son sens des priorités ; en général, elle ne retirait ses lunettes que pour écraser ses adversaires.
+　Il ne s'agissait pas d'un dédoublement de personnalité. Elle modifiait simplement son sens des priorités ; en général, elle ne retirait ses lunettes que pour écraser ses adversaires.
 
 }
 [sha:8d42b7002ec7f6e86d5370c5de0a3dd1be9ae1b5]{
 -- Page 145, Offset 20934.
 -- 妥協、憂慮、同情。そういったものを脳の外に追いやった、非人間に変身するのである。
-  Compromis, anxiété, sympathie ; en chassant ces émotions superflues dans un coin de son cerveau, elle se transformait en un être inhumain.
+　Compromis, anxiété, sympathie ; en chassant ces émotions superflues dans un coin de son cerveau, elle se transformait en un être inhumain.
 
 }
 [sha:495735dc2a6cc31db6e8fdf61af438ea92581585]{
@@ -2791,19 +2791,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:332df3fbe091be336c2f6ced61088f70df15ae96]{
 -- Page 146, Offset 20936.
 -- 木の<陰|かげ>に<潜|ひそ>みながら、ベオはむう、と眉を寄せた。
-  Caché dans l'ombre d'un arbre, Beo fronça les sourcils.
+　Caché dans l'ombre d'un arbre, Beo fronça les sourcils.
 
 }
 [sha:24d52bb7c592cb50ee5c6f7dbfa097eb9575a53b]{
 -- Page 146, Offset 20937.
 -- 橙子からは確かに敵意とか緊張とか、その手の匂いが<零|こぼ>れている。
-  Tōko dégageait en effet l'arôme de l'animosité ou encore de la tension.
+　Tōko dégageait en effet l'arôme de l'animosité ou encore de la tension.
 
 }
 [sha:6612750326107de4aefffabb359cee9ffa8b625e]{
 -- Page 146, Offset 20938.
 -- けれど同時に、あの妙な匂いが強くなっている事に、ベオは不満げに鼻をひくつかせるのだった。
-  Mais réalisant que la fameuse odeur étrange s'intensifiait également, Beo se pinça le nez, incommodé.
+　Mais réalisant que la fameuse odeur étrange s'intensifiait également, Beo se pinça le nez, incommodé.
 
 }
 [sha:1bce208489f7ac97849fcbe53d47d6eb380815c1]{
@@ -2821,43 +2821,43 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:45bcaae9e5754ad33a3fdce17d5e3c1561712d0b]{
 -- Page 148, Offset 20941.
 -- 橙子に声をかけたのは、ベオにとって未知の人間だった。
-  La personne qui avait adressé la parole à Tōko était un humain inconnu de Beo.
+　La personne qui avait adressé la parole à Tōko était un humain inconnu de Beo.
 
 }
 [sha:5ffeb82e02a68547ecb83122ff9dd2da31a24ff9]{
 -- Page 148, Offset 20942.
 -- 男の名は<文柄|ふみづか><詠梨|えいり>。
-  L'homme se prénommait Fumidzuka Eiri.
+　L'homme se prénommait Fumidzuka Eiri.
 
 }
 [sha:626ae2c223653e0a1a36a28f35cab32ba2c7e1d9]{
 -- Page 148, Offset 20943.
 -- 合田教会の司祭代理であり、ベオや橙子からすれば敵よりの人物である。
-  C'était le prêtre suppléant de l'église d'Aida, et pour Beo et Tōko, il était plutôt à ranger dans la catégorie des ennemis.
+　C'était le prêtre suppléant de l'église d'Aida, et pour Beo et Tōko, il était plutôt à ranger dans la catégorie des ennemis.
 
 }
 [sha:07fd61afea654d974ea1f95170e47722edecd1f4]{
 -- Page 149, Offset 20944.
 -- が、事前情報を知らないカレにそれを察しろというのは酷な話だろう。
-  Cependant, il aurait été injuste de lui reprocher de ne pas l'avoir deviné, puisqu'il ignorait ces informations primordiales.
+　Cependant, il aurait été injuste de lui reprocher de ne pas l'avoir deviné, puisqu'il ignorait ces informations primordiales.
 
 }
 [sha:19046edb3d861ba4234376629227ecbefd960e30]{
 -- Page 149, Offset 20945.
 -- なにしろ、司祭には敵意が一切ない。
-  Après tout, le prêtre n'émettait aucune hostilité.
+　Après tout, le prêtre n'émettait aucune hostilité.
 
 }
 [sha:5d3955b6061f3ca7e49da7541d288ac3903c221d]{
 -- Page 149, Offset 20946.
 -- ベオから見て、彼はどこからどう見ても一般人であり、蒼崎橙子が遅れを取る可能性など皆無だからだ。
-  Du point de vue de Beo, il avait absolument tout d'une personne ordinaire, et il n'y avait aucun moyen qu'Aozaki Tōko soit dépassée.
+　Du point de vue de Beo, il avait absolument tout d'une personne ordinaire, et il n'y avait aucun moyen qu'Aozaki Tōko soit dépassée.
 
 }
 [sha:216f30022568934cb675c3c040fb4140bc76e0f7]{
 -- Page 149, Offset 20947.
 -- ―――後に、カレはその手の“毒を毒と思わせない”タイプの人間から手ひどい教訓を学ぶ事になるが、それはまた別の話である。
-  ―――Plus tard, un humain du même type — “du poison qui ne ressemble pas à du poison” — lui donnerait une rude leçon, mais c'était une autre histoire.
+　―――Plus tard, un humain du même type — “du poison qui ne ressemble pas à du poison” — lui donnerait une rude leçon, mais c'était une autre histoire.
 
 }
 [sha:1c9dd41131efc3d8fefb7f8890d1ff4dfeed55c0]{
@@ -2875,13 +2875,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:0936147a418e21bf660d53c485d440c593c2a8b8]{
 -- Page 150, Offset 20950.
 -- 彼らがやってくる時はたいていは教義の為ですから。
-  Et en général, ils ne se déplacent que pour la doctrine.
+　Et en général, ils ne se déplacent que pour la doctrine.
 
 }
 [sha:76c11c8549f773ce3f5cbe968eaabc22ddd4595f]{
 -- Page 150, Offset 20951.
 -- 欲望より<責務|せきむ>で動く人たちって怖くないですか？」
-  Ne trouves-tu pas que les gens travaillant par devoir sont plus effrayants que ceux guidés par l'avidité ?」
+　Ne trouves-tu pas que les gens travaillant par devoir sont plus effrayants que ceux guidés par l'avidité ?」
 
 }
 [sha:742885330097872473dd3699bc18045605ac6207]{
@@ -2893,7 +2893,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:6b277c46dd7c3c7b5bded10a317abc370b794b2c]{
 -- Page 151, Offset 20953.
 -- 結論を言え。おまえの腰巾着は鐘を鳴らしそうか？」
-  Viens-en aux faits ! Ton acolyte donnera-t-elle l'alerte ?」
+　Viens-en aux faits ! Ton acolyte donnera-t-elle l'alerte ?」
 
 }
 [sha:92ea878b504e52fd80de6bbbfc367d276a0b3389]{
@@ -2905,13 +2905,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:e86cd183c5bacc08d3d7d2f1f2d0f53e2f47630f]{
 -- Page 152, Offset 20955.
 -- 橙子さんだってワーカホリック寸前じゃないですか。
-  Tu es toi-même un véritable bourreau de travail.
+　Tu es toi-même un véritable bourreau de travail.
 
 }
 [sha:1d3412fbd12c068fe80928c00666c46b7230286b]{
 -- Page 152, Offset 20956.
 -- もっとこう、余裕のあるコミュニケーションをとりませんか？　立場上、いつ最後の<逢瀬|おうせ>になるか分からないワケですし」
-  Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre prochaine rencontre aura lieu ?」
+　Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre prochaine rencontre aura lieu ?」
 
 }
 [sha:9e6293c36076d447dba5ea1e8e194e69a0e04e15]{
@@ -2923,13 +2923,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:3271241323bac0047811331f9353dbe4c871da99]{
 -- Page 153, Offset 20958.
 -- 微笑む司祭の提案を、橙子は一言で斬って捨てた。
-  Tōko rejeta du tac au tac la proposition du prêtre tout sourire.
+　Tōko rejeta du tac au tac la proposition du prêtre tout sourire.
 
 }
 [sha:29527e4c831bf25d4a9c4535ddef038a093187aa]{
 -- Page 153, Offset 20959.
 -- まさにけんもほろろ状態である。
-  Elle se montrait véritablement glaciale.
+　Elle se montrait véritablement glaciale.
 
 }
 [sha:92dc01d0827f623ffa0cf841760daad0898ce7d0]{
@@ -2941,7 +2941,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:3c09822f493d17b8a04f6d8b3d8b27d5dcd7b18a]{
 -- Page 154, Offset 20961.
 -- お互い手の内は知っているしな。顔を会わせた瞬間、どちらかが死んでいる。会話なんぞしている暇があるか」
-  Et comme on sait ce que l'autre cache dans sa manche, on mourrait à l'instant même où nos regards se croiseraient. On n'aurait pas vraiment le temps de discuter.」
+　Et comme on sait ce que l'autre cache dans sa manche, on mourrait à l'instant même où nos regards se croiseraient. On n'aurait pas vraiment le temps de discuter.」
 
 }
 [sha:23bf54435e767ae41c2b6f392c32a502981162e6]{
@@ -2953,25 +2953,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:0c6d4ce607c02f5b050be1ec323c359312e85198]{
 -- Page 154, Offset 20963.
 -- どうしてこう、邪魔者は始末する、という方向でしか物事を考えられないんでしょうか、貴女たちは」
-  Pourquoi ne songez-vous qu'à éliminer les gêneurs, l'une comme l'autre...」
+　Pourquoi ne songez-vous qu'à éliminer les gêneurs, l'une comme l'autre...」
 
 }
 [sha:42dddd59e932f8a98da7581ae18413f6e3fea8b4]{
 -- Page 155, Offset 20964.
 -- やれやれと肩をすくめる司祭と、
-  Le prêtre haussa les épaules, désappointé.
+　Le prêtre haussa les épaules, désappointé.
 
 }
 [sha:902130973a1a6605d5e99bdeb6e40d4138f79195]{
 -- Page 155, Offset 20965.
 -- その<外套|マント>の下を注意深く見据える橙子。
-  Tōko observait avec précaution le dessous de son manteau.
+　Tōko observait avec précaution le dessous de son manteau.
 
 }
 [sha:41b5d9249483c2510bd0d9db61f0284077fef42b]{
 -- Page 155, Offset 20966.
 -- 司祭が何度「穏便に済ませたい」と口にしても、プライドにかけて信じる気はないようだ。
-  Même s'il prétendait vouloir en finir dans le calme, elle n'avait clairement pas l'intention de le croire, dusse-t-elle perdre sa fierté.
+　Même s'il prétendait vouloir en finir dans le calme, elle n'avait clairement pas l'intention de le croire, dusse-t-elle perdre sa fierté.
 
 }
 [sha:b512e93dc9760522af19dcc3c8bdcb4b21a49cdc]{
@@ -2983,7 +2983,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:e2f3e7f65af2e5729ab5644d392bbdfde1052f59]{
 -- Page 156, Offset 20968.
 -- ああ、そう睨まない。本題に入りますから」
-  Allons, ne me regarde pas comme ça. J'arrive au sujet principal.」
+　Allons, ne me regarde pas comme ça. J'arrive au sujet principal.」
 
 }
 [sha:52283cd7a8aa9de119cb32b8ac135da03e2a25ff]{
@@ -3007,13 +3007,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:554112e390dc010f9b5d05ba386361f791751598]{
 -- Page 158, Offset 20972.
 -- 彼女が単独で敵の正体を暴くまで、教会から横槍が入る事はないんじゃないですかねぇ。
-  Tant qu'elle ne cherchera pas à démasquer l'ennemi d'elle-même, l'Église ne te mettra probablement pas de bâtons dans les roues.
+　Tant qu'elle ne cherchera pas à démasquer l'ennemi d'elle-même, l'Église ne te mettra probablement pas de bâtons dans les roues.
 
 }
 [sha:7bf33c1c316ef2d616e18ec0b43ee2bceccf03ea]{
 -- Page 158, Offset 20973.
 -- 今まで通り、土地を狙いにきた魔術師同士の小競り合いだと思っているんじゃないですか？」
-  Elle doit croire qu'il s'agit encore d'une escarmouche entre Mages au sujet de vos terres.」
+　Elle doit croire qu'il s'agit encore d'une escarmouche entre Mages au sujet de vos terres.」
 
 }
 [sha:465e294e88fa06e0550a57bd3f164bcf8a2fb17c]{
@@ -3025,7 +3025,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:8d11643eacb74e07b901a1f4c7b475744aeac879]{
 -- Page 159, Offset 20975.
 -- おまえが私の帰国の件を握り潰している間は、私も多少、回り道をする。蒼崎の親戚筋にも手は出さない」
-  Tant que tu étoufferas la nouvelle de mon retour au pays, je m'efforcerai de me faire discrète. Et je ne toucherai pas aux familles apparentées aux Aozaki.」
+　Tant que tu étoufferas la nouvelle de mon retour au pays, je m'efforcerai de me faire discrète. Et je ne toucherai pas aux familles apparentées aux Aozaki.」
 
 }
 [sha:c940d8de400d98ce4f1dcf88c6f3e1ee518746fe]{
@@ -3037,31 +3037,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f187c6175a877a485559a6ed289ee3788e4db8d8]{
 -- Page 160, Offset 20977. Glued. Mods: @x.
 -- 勢い、どこぞの工場とかオフィスビルとか秘密基地にしそうでしょう？
-  Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
+　Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
 
 }
 [sha:32a862c30ee5a4b6f71d858ac7d653949df20c33]{
 -- Page 160, Offset 20978.
 -- 私がこちらに赴任している間、流血事件が続くと困るというか。私の評価が落ちるような事は、なんとも」
-  Pendant mon mandat ici, je préférerais éviter les affaires sanglantes, si tu vois ce que je veux dire. Je n'aimerais pas me retrouver avec des problèmes qui pourraient entacher mon évaluation.」
+　Pendant mon mandat ici, je préférerais éviter les affaires sanglantes, si tu vois ce que je veux dire. Je n'aimerais pas me retrouver avec des problèmes qui pourraient entacher mon évaluation.」
 
 }
 [sha:032fbfe57aae3cb1341f6cb8b8a4068dd885e8ae]{
 -- Page 161, Offset 20979.
 -- 人の事をなんだと思っているんだ、と抗議したくなる気持ちを抑えこむ。
-  Il me prend pour un monstre ou quoi ? pensa-t-elle en refoulant son envie de protester.
+　Il me prend pour un monstre ou quoi ? pensa-t-elle en refoulant son envie de protester.
 
 }
 [sha:961bc0ead8b45f2eaa1121cc83158267a891aecf]{
 -- Page 161, Offset 20980.
 -- 橙子とて無駄は嫌いだが、だからといって最適化の為に社会性を<無|む><下|げ>にするつもりはない。
-  Tōko détestait faire des efforts inutiles, mais elle ne comptait pas réduire à néant sa sociabilité pour sa recherche de la voie optimale.
+　Tōko détestait faire des efforts inutiles, mais elle ne comptait pas réduire à néant sa sociabilité pour sa recherche de la voie optimale.
 
 }
 [sha:8a74971018cb4d8c16925ecc7adb1322ad3427b3]{
 -- Page 161, Offset 20981.
 -- そもそも、犯罪行為は後処理が面倒になる。そちらの方が遥かに無駄というものだ。
-  De plus, les crimes n'apportent que des problèmes. Les efforts à fournir seraient donc plus importants.
+　De plus, les crimes n'apportent que des problèmes. Les efforts à fournir seraient donc plus importants.
 
 }
 [sha:e907d793092c610740fd477481b3fef9f7495681]{
@@ -3073,7 +3073,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ae23d15bc6a53928dc4302c36e9adfabe76293ea]{
 -- Page 162, Offset 20983.
 -- では、後は事が済むまで<静観|せいかん>を決めこんでおけ」
-  Bien. Reste spectateur jusqu'à la fin.」
+　Bien. Reste spectateur jusqu'à la fin.」
 
 }
 [sha:eb1d9bf907e20574e5eabfc9e6ba04746a0beb87]{
@@ -3085,7 +3085,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:3545d47b5f386c167f68307760959dfd0e81fac4]{
 -- Page 162, Offset 20985.
 -- 結局一度も、今の貴女の素顔を見られなかった」
-  En fin de compte, je n'ai pas pu voir une seule fois ton véritable visage.」
+　En fin de compte, je n'ai pas pu voir une seule fois ton véritable visage.」
 
 }
 [sha:9d38bc49479d2db081a55358b91201203ae684ca]{
@@ -3103,13 +3103,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:5ba6c00d5494e60a9d4ce8b39c29067962cbc59f]{
 -- Page 163, Offset 20988.
 -- 司祭に顔を向けたまま立ち去ろうとする橙子を、司祭はごく自然に制止させた。
-  Le prêtre retint Tōko d'un geste naturel alors qu'elle allait se retourner pour partir.
+　Le prêtre retint Tōko d'un geste naturel alors qu'elle allait se retourner pour partir.
 
 }
 [sha:87114f6f79b61d7f52823b594d6dc146d6077eb2]{
 -- Page 163, Offset 20989.
 -- 橙子が足を半歩後ろにズラそうと考えた瞬間に、である。
-  Tōko était sur le point d'entamer un demi-pas en arrière.
+　Tōko était sur le point d'entamer un demi-pas en arrière.
 
 }
 [sha:7435f1d2fbdd48c98b979398d322d7d1f375778e]{
@@ -3121,7 +3121,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:8844eed91e8df95d7a52f6317b959072c7a3bb22]{
 -- Page 164, Offset 20991.
 -- 橙子さん、今、たいへん息苦しくはありませんか？」
-  Tōko, tu ne te sentirais pas accablée ces derniers temps ?」
+　Tōko, tu ne te sentirais pas accablée ces derniers temps ?」
 
 }
 [sha:c5fde3e9aeb2472621301c3c09f9e24fdae377f0]{
@@ -3133,7 +3133,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ce500e8c453d8f1c739298b3c77733ab8e0fb24f]{
 -- Page 164, Offset 20993.
 -- なぜそんな事を訊く、詠梨」
-  Pourquoi tu me demandes ça, Eiri ?」
+　Pourquoi tu me demandes ça, Eiri ?」
 
 }
 [sha:47a3604063f5c902ab3f2366069db559ed1d2fcd]{
@@ -3151,7 +3151,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ec293d64851bed263cfc39800cbeda8a7bd22b8b]{
 -- Page 165, Offset 20996.
 -- まったくその通りだ。私の善しとする幸福が、他人であるおまえに分かるものか。つまらん心配はするな」
-  Tu avais totalement raison. Un étranger comme toi ne risque pas de comprendre ce qui fait le mien. Ne t'inquiète pas inutilement.」
+　Tu avais totalement raison. Un étranger comme toi ne risque pas de comprendre ce qui fait le mien. Ne t'inquiète pas inutilement.」
 
 }
 [sha:7cb500518ce54275cfa9ce66ccb8899f76fd5e17]{
@@ -3163,13 +3163,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:b6467e1a9580bf5f1761db53eda2c6b0038334a2]{
 -- Page 166, Offset 20998.
 -- ですがほら、幸福のカタチは二つに大別できます。
-  Mais vois-tu, on peut classer ses formes selon deux catégories.
+　Mais vois-tu, on peut classer ses formes selon deux catégories.
 
 }
 [sha:580fe4941c83cbe0e83807181f22f1cb0e2f73da]{
 -- Page 166, Offset 20999.
 -- 橙子さんの場合、それすら気付いていないようですから。たいへん見苦しいな、と思いまして」
-  Et toi, tu ne sembles même pas avoir remarqué cette évidence. Voilà pourquoi je trouvais cela triste à voir.」
+　Et toi, tu ne sembles même pas avoir remarqué cette évidence. Voilà pourquoi je trouvais cela triste à voir.」
 
 }
 [sha:e6817ae05bee9ef2efdac5984a38c0bec8209cb7]{
@@ -3181,25 +3181,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:a8e5b221dcc2c276c251ae78a94d7373650cc7c7]{
 -- Page 167, Offset 21001.
 -- いいぞ、聞いてやるから言ってみろ」
-  Vas-y ! Déblatère donc ton savoir !」
+　Vas-y ! Déblatère donc ton savoir !」
 
 }
 [sha:20d2ab91c43724b62ab32c86f257b582cb8b2778]{
 -- Page 167, Offset 21002.
 -- それが下らないものなら、ここで殺す。
-  Si ça n'a aucun intérêt, tu es mort.
+　Si ça n'a aucun intérêt, tu es mort.
 
 }
 [sha:3b786894fdc36670396944e903d2e078aecc5504]{
 -- Page 167, Offset 21003.
 -- この一ヶ月―――いや、この二年間積み重ねてきた計画を白紙に戻す事になっても殺す、と。
-  Même si le plan qu'il m'a fallu des mois et même deux années à élaborer doit tomber à l'eau, je te tuerai sur-le-champ, pensait-elle tout fort.
+　Même si le plan qu'il m'a fallu des mois et même deux années à élaborer doit tomber à l'eau, je te tuerai sur-le-champ, pensait-elle tout fort.
 
 }
 [sha:3d4bb6918644f561e9d8a00ffdc350e6c83d5881]{
 -- Page 167, Offset 21004.
 -- 橙子の敵意は、ここにきて殺意に変貌した。
-  L'hostilité de Tōko prenait maintenant la forme d'une soif de sang.
+　L'hostilité de Tōko prenait maintenant la forme d'une soif de sang.
 
 }
 [sha:f2870501fc314a33c1bcbc0eb45e3d96e0c24aec]{
@@ -3211,19 +3211,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:671ed358a640f1190ac9b920a8331400983e0005]{
 -- Page 168, Offset 21006.
 -- 相対的なものと絶対的なもの。比べる相手が居るか居ないかが幸福の違いです。
-  Il y a d'une part le relatif et de l'autre l'absolu. Le fait que l'on ait ou non quelqu'un à qui se mesurer peut être décisif dans l'acquisition du bonheur.
+　Il y a d'une part le relatif et de l'autre l'absolu. Le fait que l'on ait ou non quelqu'un à qui se mesurer peut être décisif dans l'acquisition du bonheur.
 
 }
 [sha:e34a658dc8b679cb45b3e2642a0b77287b1326bd]{
 -- Page 168, Offset 21007.
 -- 自分が穏やかであれば幸福なのか、それとも―――
-  Soit on est heureux en vivant en paix―――
+　Soit on est heureux en vivant en paix―――
 
 }
 [sha:8eeacbdcb6dd3077320e40e1474802303debc3ec]{
 -- Page 168, Offset 21008.
 -- どんなに満ち足りていても、<他人|ひと>より劣っていては我慢できない人間なのか」
-  soit on ne supporte pas d'être inférieur à autrui, peu importe à quel point on est satisfait.」
+　soit on ne supporte pas d'être inférieur à autrui, peu importe à quel point on est satisfait.」
 
 }
 [sha:87014ba7ff46d97f12212cbdf49b1b933acdb3de]{
@@ -3235,31 +3235,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:dd8c174b70fed76400cf9705f7b0f12431ec48d6]{
 -- Page 169, Offset 21010.
 -- 私が言うまでもありませんが―――
-  Cela peut paraître évident, mais―――
+　Cela peut paraître évident, mais―――
 
 }
 [sha:b90b1bf39866328fc3dbcaf9c6c3df55751410fa]{
 -- Page 169, Offset 21011.
 -- 多くの人間は、ただ、<他人|ひと>より少しだけ幸せでありたいのです」
-  la plupart des êtres humains veulent juste être un peu plus heureux que la normale.」
+　la plupart des êtres humains veulent juste être un peu plus heureux que la normale.」
 
 }
 [sha:dd57af289df214d1872dd86ab1ca6cb756abcc98]{
 -- Page 170, Offset 21012.
 -- 涼やかに<微笑|わら>う黒衣の聖者。
-  Le saint vêtu de noir souriait innocemment.
+　Le saint vêtu de noir souriait innocemment.
 
 }
 [sha:3b2c76333e5a35eacd4c302b1936ddf8afbdc11f]{
 -- Page 170, Offset 21013.
 -- ああ、と橙子は思いだした。
-  Tōko se rappela alors d'une chose.
+　Tōko se rappela alors d'une chose.
 
 }
 [sha:a44f601969127e7c4d7e4c673dc79b3f99b7abe2]{
 -- Page 170, Offset 21014.
 -- この男は根本からして、<幸福|そういうもの>を信じていない悪魔だったと。
-  Cet homme avait toujours été un démon qui ne croyait pas en l'existence du bonheur.
+　Cet homme avait toujours été un démon qui ne croyait pas en l'existence du bonheur.
 
 }
 [sha:27ea4119fe4eeceaec031c865f12c43df73068ea]{
@@ -3271,31 +3271,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:99f8826e8b89ea1fdf56a85a76b60c6715593e24]{
 -- Page 171, Offset 21016.
 -- 橙子さんの幸福観は絶対的なもの。貴女は自分が確かであれば満ち足りるタイプの人だったんですけどね。
-  Ta perspective du bonheur appartient à la catégorie de l'absolu. Tu es du genre à être satisfaite tant que ton existence est stable.
+　Ta perspective du bonheur appartient à la catégorie de l'absolu. Tu es du genre à être satisfaite tant que ton existence est stable.
 
 }
 [sha:d1c79864f7e1b234cce4036a03586633422029d9]{
 -- Page 171, Offset 21017.
 -- 他人が気になるなんて、そんな相対的な幸福観を持っているのは、」
-  Celle qui appartient à la catégorie du relatif, qui se soucie des autres, c'est...」
+　Celle qui appartient à la catégorie du relatif, qui se soucie des autres, c'est...」
 
 }
 [sha:6fae86b87ec198fc8787b8ca3cccf8aa962cbb9f]{
 -- Page 172, Offset 21018.
 -- 青子の方、と言いかけて、司祭は自分から身を引いた。
-  Aoko, voulut dire le prêtre avant de se taire.
+　Aoko, voulut dire le prêtre avant de se taire.
 
 }
 [sha:e50e27cee94f42a6efa01f94b4e64474977d4b28]{
 -- Page 172, Offset 21019.
 -- 心底から橙子を心配しての忠告だったが、逆の結果に終わったようだ。
-  Il avait donné ces conseils par inquiétude envers Tōko, mais cela n'avait pas eu l'effet escompté.
+　Il avait donné ces conseils par inquiétude envers Tōko, mais cela n'avait pas eu l'effet escompté.
 
 }
 [sha:887acf75153b33c4dec02c1ac232bb5b2c2ed799]{
 -- Page 172, Offset 21020.
 -- 司祭としては本当に名残惜しいが、これ以上怒らせて嫌われるのはよろしくない。
-  Il trouvait cela fort regrettable en tant que prêtre, mais il ne pouvait se permettre de l'irriter davantage au risque d'être détesté.
+　Il trouvait cela fort regrettable en tant que prêtre, mais il ne pouvait se permettre de l'irriter davantage au risque d'être détesté.
 
 }
 [sha:ff842a8d75582aeabff9ff32dc2c6451d78139e9]{
@@ -3307,7 +3307,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:068c92ec4bb6078d6cc60b31c7d21d955750bbf5]{
 -- Page 173, Offset 21022.
 -- それでは私はこれで。貴女たちにとっていい結果になる事を祈っています」
-  À présent, il me faut te quitter. J'espère pour vous que les résultats seront au rendez-vous.」
+　À présent, il me faut te quitter. J'espère pour vous que les résultats seront au rendez-vous.」
 
 }
 [sha:7adea3fb0199dc268369e069709a85b2d1f595c3]{
@@ -3319,7 +3319,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:7197baf0f152bf270152fc8994c4fefd14c21f41]{
 -- Page 173, Offset 21024.
 -- ……だいたいその服装、どうなんだ。町中でマントなんて<羽|は><織|お>って、敬遠されないのか？」
-  ...... Et que signifie cet accoutrement ? On ne te trouve pas suspect à porter une cape en pleine ville ?」
+　...... Et que signifie cet accoutrement ? On ne te trouve pas suspect à porter une cape en pleine ville ?」
 
 }
 [sha:896f5309d31ed1af6c20b62a1eac40b019eec0f9]{
@@ -3331,19 +3331,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:cccde200809defe559aa614ea3236889ff907b53]{
 -- Page 174, Offset 21026.
 -- それに、ほら。この格好だと<得物|エモノ>を差していてもバレないでしょう？
-  Et puis, tu sais, cette tenue permet de cacher mes armes aux yeux de tous.
+　Et puis, tu sais, cette tenue permet de cacher mes armes aux yeux de tous.
 
 }
 [sha:737822bd1bf0d88a928d7de94c1a06cb50062dcc]{
 -- Page 174, Offset 21027.
 -- ま、橙子さんには見抜かれてしまいましたが。相手が貴女ですからね。恥ずかしながら、長物を三本ほど、こっそり」
-  Cela dit, tu as vu à travers mon subterfuge. Pas étonnant venant de quelqu'un de ta trempe. C'est un peu embarrassant, mais j'ai dissimulé trois lames là-dessous.」
+　Cela dit, tu as vu à travers mon subterfuge. Pas étonnant venant de quelqu'un de ta trempe. C'est un peu embarrassant, mais j'ai dissimulé trois lames là-dessous.」
 
 }
 [sha:685fda6ae7bcefb2529375669d02148f839516d0]{
 -- Page 175, Offset 21028.
 -- 最後まで笑顔を絶やさず、司祭はもと来た道へ退散していった。
-  Le prêtre conserva son sourire tandis qu'il repartait dans la direction d'où il était venu.
+　Le prêtre conserva son sourire tandis qu'il repartait dans la direction d'où il était venu.
 
 }
 [sha:c6f173b8cd179b3801a13bc13d5cdab21875807a]{
@@ -3355,79 +3355,79 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:06b9562d62040227d460b26ec546955a9b3bc76c]{
 -- Page 175, Offset 21030.
 -- そもそも三本ってなんだ？　魔術師でもないクセに、どうやったら隠せるんだ？　あのバカ、手品師に<鞍替|くらが>えしたワケじゃあるまいな？」
-  Comment fait-il pour en transporter trois en même temps ? Et comment peut-il les cacher sans être un Mage ? Cet abruti ne s'est tout de même pas reconverti dans l'illusionnisme ?」
+　Comment fait-il pour en transporter trois en même temps ? Et comment peut-il les cacher sans être un Mage ? Cet abruti ne s'est tout de même pas reconverti dans l'illusionnisme ?」
 
 }
 [sha:987cb19554287d2c3a27b30807be2ce856ef97f4]{
 -- Page 176, Offset 21031.
 -- 橙子はぼやきつつ、先ほどまで目の前にいた男の姿を思い返した。
-  Tout en vociférant, Tōko repensa à l'homme qui se tenait devant elle un instant auparavant.
+　Tout en vociférant, Tōko repensa à l'homme qui se tenait devant elle un instant auparavant.
 
 }
 [sha:83e45a59fb7cb9e3bffaf48b0eb608ff8c94b1fe]{
 -- Page 176, Offset 21032.
 -- 一枚上をいかれたのは心底<憎|にく>らしいが、同時にホッとしているのも事実である。
-  Elle déplorait grandement qu'il l'ait prise de haut, mais elle ne pouvait nier qu'elle se sentait à présent soulagée.
+　Elle déplorait grandement qu'il l'ait prise de haut, mais elle ne pouvait nier qu'elle se sentait à présent soulagée.
 
 }
 [sha:3688791cab7c60d9c1b1651f622a81f5cf8d5a11]{
 -- Page 177, Offset 21033.
 -- あの短い会話の中、橙子がもし司祭の武装を正確に見抜いてしまっていたら、その瞬間こそ、あの司祭はゼロコンマで戦いの火ぶたを切っただろう。
-  Pendant ce bref échange, si Tōko avait correctement compté les armes du prêtre, il aurait sûrement engagé les hostilités dans la seconde.
+　Pendant ce bref échange, si Tōko avait correctement compté les armes du prêtre, il aurait sûrement engagé les hostilités dans la seconde.
 
 }
 [sha:b0acd506625130a86bc2c48cc8f7983703892fb2]{
 -- Page 177, Offset 21034.
 -- その時―――どちらが生き残るかは、今の蒼崎橙子ですら予測できない。
-  Même Aozaki Tōko n'aurait su estimer lequel d'entre eux s'en serait alors sorti vivant.
+　Même Aozaki Tōko n'aurait su estimer lequel d'entre eux s'en serait alors sorti vivant.
 
 }
 [sha:282ff2cfde685f05e6c9f030aa688e7609fa7407]{
 -- Page 178, Offset 21035.
 -- 文柄詠梨という男は、昔からそういう人間だった。
-  Fumidzuka Eiri avait toujours été ce genre d'homme.
+　Fumidzuka Eiri avait toujours été ce genre d'homme.
 
 }
 [sha:82202763a4a34b0b51be558457a4c76988b6901c]{
 -- Page 178, Offset 21036.
 -- 戦う理由も、戦う相手も要らない。
-  Il n'avait besoin ni d'une raison de combattre, ni d'un adversaire,
+　Il n'avait besoin ni d'une raison de combattre, ni d'un adversaire,
 
 }
 [sha:2d106f7ca81e741779f99992aa625631f9ffdf31]{
 -- Page 178, Offset 21037.
 -- 因縁も憎悪も要らない。
-  ni de la fatalité et ni même de la haine.
+　ni de la fatalité et ni même de la haine.
 
 }
 [sha:6d2ef8daaf4f61a2f90a6aab641642eee5afe6db]{
 -- Page 178, Offset 21038.
 -- ただ、「口火を切る」瞬間だけを待つ<自動機械|オートメーション>。
-  Il n'était qu'une machine à l'affût du moment propice.
+　Il n'était qu'une machine à l'affût du moment propice.
 
 }
 [sha:fad61fa7c1d544e8f67e23483cc22e22df726515]{
 -- Page 178, Offset 21039.
 -- 人を斬る事について考察さえしない、鍛え上げられた“殺人検証”の化身である。
-  C'était une incarnation du “meurtre” bien entraînée qui ne montrait aucune hésitation à tuer.
+　C'était une incarnation du “meurtre” bien entraînée qui ne montrait aucune hésitation à tuer.
 
 }
 [sha:a397710f7570bac554a73d4c862fbc0943f0528c]{
 -- Page 179, Offset 21040.
 -- 彼女がそれを間近で見たのは一度きり。
-  Elle ne l'avait vu qu'une seule fois à l'œuvre.
+　Elle ne l'avait vu qu'une seule fois à l'œuvre.
 
 }
 [sha:9ee6befaed95948ed445146238f20e7ea643b5c9]{
 -- Page 179, Offset 21041.
 -- ……まだ蒼崎橙子が魔法使いの“幸福な”弟子だった頃。
-  ...... Quand Aozaki Tōko n'était encore qu'une disciple “heureuse” du Magicien.
+　...... Quand Aozaki Tōko n'était encore qu'une disciple “heureuse” du Magicien.
 
 }
 [sha:77c8032745d3bf2124212a0e22379b580dfde0e3]{
 -- Page 179, Offset 21042.
 -- あの男は、橙子が祖父の前で静かに涙した瞬間、何の前触れもなく、何の躊躇いもなく、自らの師を一刀のもと処断したのだ。
-  Au moment où Tōko avait pleuré en silence devant son grand-père, cet homme avait décidé sans prévenir, sans aucune hésitation, d'abattre sa lame sur son maître.
+　Au moment où Tōko avait pleuré en silence devant son grand-père, cet homme avait décidé sans prévenir, sans aucune hésitation, d'abattre sa lame sur son maître.
 
 }
 [sha:029036eda5130f013362bdf668a5bbdd6446bfe0]{
@@ -3445,43 +3445,43 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:8116eb24d42530cbd0bed514ed33e6ae002b7fe9]{
 -- Page 181, Offset 21045.
 -- あっさりとした返答に、幼い橙子がどれほど感じ入ったのか、当の本人は知るまい。
-  L'intéressé ne savait sûrement pas à quel point la jeune Tōko avait admiré sa réponse sans détour.
+　L'intéressé ne savait sûrement pas à quel point la jeune Tōko avait admiré sa réponse sans détour.
 
 }
 [sha:9362bd8c51d944bac674f1bb755a44c37e68f7fd]{
 -- Page 181, Offset 21046.
 -- “相手が隙を見せたから、勝てると確信したから斬った”
-  S'il avait dégainé, ce n'était pas parce que le Magicien avait abaissé sa vigilance, le rendant ainsi certain de sa victoire.
+S'il avait dégainé, ce n'était pas parce que le Magicien avait abaissé sa vigilance, le rendant ainsi certain de sa victoire.
 
 }
 [sha:9a6e3c9078a3c35a719d310e63b2515a2dd6e82d]{
 -- Page 181, Offset 21047.
 -- ではない。
-  La raison était tout autre.
+　La raison était tout autre.
 
 }
 [sha:8353f237f04b8713c3b933d38cf778f54c7641f2]{
 -- Page 181, Offset 21048.
 -- “今の自分の気持ちなら斬れると思ったから、斬った”。
-  Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, gouverné par les sentiments qui l'envahissaient alors.
+Il avait abattu sa lame simplement parce qu'il se sentait capable de le faire, gouverné par les sentiments qui l'envahissaient alors.
 
 }
 [sha:8289783db87584302b7b06694bfb0fdad0a004f9]{
 -- Page 182, Offset 21049.
 -- ただそれだけ。
-  C'était la seule raison.
+　C'était la seule raison.
 
 }
 [sha:d3df426233e344d742a10e9918fe49ea9c25521f]{
 -- Page 182, Offset 21050.
 -- 祖父に弟子入りし、交遊を深め、唯一無二の友人関係を得た男は、胸に飛来した感情に寄って祖父を切断した。
-  L'homme, qui avait été l'élève de son grand-père et s'était petit à petit approché de lui pour finalement devenir son seul ami, avait fini par le pourfendre suite à une saute d'humeur.
+　L'homme, qui avait été l'élève de son grand-père et s'était petit à petit approché de lui pour finalement devenir son seul ami, avait fini par le pourfendre suite à une saute d'humeur.
 
 }
 [sha:a9a09dcc5fc4e04304f779c2138afcf787a5ad6a]{
 -- Page 182, Offset 21051.
 -- 魔法使いに限りなく近かった魔術師の肉体を破壊したのは、誰あろう、あの司祭の神技である。
-  Le corps physique du Mage, qui était presque un Magicien, avait été détruit, et le responsable n'était personne d'autre que ce prêtre à la technique prodigieuse.
+　Le corps physique du Mage, qui était presque un Magicien, avait été détruit, et le responsable n'était personne d'autre que ce prêtre à la technique prodigieuse.
 
 }
 [sha:b2723f41fd05c59b417f403277c6d8213f72b77e]{
@@ -3493,25 +3493,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ff183fe4ecf2572358eb188ea6e27af2df7f99f1]{
 -- Page 183, Offset 21053.
 -- でも<目障|めざわ>りだからぜったい殺すし。魔法を<奪|うば>ってからの仕事がまた一つ増えちゃったじゃない、バカ詠梨」
-  Bah, je le tuerai de toute façon, ce n'est qu'un gêneur. À cause de toi, j'aurai encore plus de travail après avoir subtilisé la Vraie Magie, imbécile d'Eiri !」
+　Bah, je le tuerai de toute façon, ce n'est qu'un gêneur. À cause de toi, j'aurai encore plus de travail après avoir subtilisé la Vraie Magie, imbécile d'Eiri !」
 
 }
 [sha:d340cf75368fbfc1e2a940cf4af74bd75e22d8e8]{
 -- Page 184, Offset 21054.
 -- 眼鏡をかけ直して、橙子は<踵|きびす>を返した。
-  Tōko remit ses lunettes et tourna les talons.
+　Tōko remit ses lunettes et tourna les talons.
 
 }
 [sha:7067f1e217f35f6e698e99ca40f6005aec86feb9]{
 -- Page 184, Offset 21055.
 -- 今日の目的はすべてクリアした。
-  Elle avait rempli tous ses objectifs de la journée.
+　Elle avait rempli tous ses objectifs de la journée.
 
 }
 [sha:15e01efd19561a2753f1bc9123782816d6beb8c1]{
 -- Page 184, Offset 21056.
 -- あとは使い魔の食料を調達する為、食費を稼いでアジトに帰るだけである。
-  Il ne lui restait plus qu'à gagner de l'argent pour les rations de son familier avant de rentrer à la base.
+　Il ne lui restait plus qu'à gagner de l'argent pour les rations de son familier avant de rentrer à la base.
 
 }
 [sha:b2306956cb31f8e2a72dae78cffa7420ed74413b]{
@@ -3523,19 +3523,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f9941152e1ff0e5995b9de611d2d45320266bad4]{
 -- Page 185, Offset 21058.
 -- と、ベオが叫んだかはさておいて。
-  Beo avait-il crié ces quelques mots ? Cela restera un mystère.
+　Beo avait-il crié ces quelques mots ? Cela restera un mystère.
 
 }
 [sha:3a4d4708f8b082819c36ebba2b6efb97f8826e3b]{
 -- Page 185, Offset 21059.
 -- 例の浮わ浮わした匂いはどこへやら。
-  L'odeur inconsistante s'était comme évaporée.
+　L'odeur inconsistante s'était comme évaporée.
 
 }
 [sha:f631ab3c388e0732c71aba092c2b62e7452ef425]{
 -- Page 185, Offset 21060.
 -- 雇い主は完全にもとの蒼崎橙子に戻って、繁華街の方角に消えていった。
-  Son employeur était complètement redevenue elle-même et s'était éclipsée vers le quartier animé.
+　Son employeur était complètement redevenue elle-même et s'était éclipsée vers le quartier animé.
 
 }
 [sha:425499e93d1ac74468ca47907adf7110aed19f5b]{
@@ -3547,31 +3547,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:047c9dabbc276c2e51e6bcd86d7f8a7e5c95ca82]{
 -- Page 186, Offset 21062.
 -- クンクンと鼻を鳴らす。
-  *snif* *snif*, Beo reniflait.
+　*snif* *snif*, Beo reniflait.
 
 }
 [sha:f81c3873ae614dbb8273999a0fc95505ed223c2b]{
 -- Page 186, Offset 21063.
 -- あの匂いが気になってやってきたベオとしては、もはや橙子は尾行する対象になりえない。
-  Maintenant que l'odeur intrigante avait disparu, Tōko n'était plus le but de sa traque.
+　Maintenant que l'odeur intrigante avait disparu, Tōko n'était plus le but de sa traque.
 
 }
 [sha:40fc66258839e8fc0aef7a6282bd53b1f242ad61]{
 -- Page 187, Offset 21064.
 -- なぜ匂いは消えたのか。
-  Pourquoi l'odeur s'était-elle dissipée ?
+　Pourquoi l'odeur s'était-elle dissipée ?
 
 }
 [sha:965edcceee541966ccc8e2d342e3df6d22d9c94a]{
 -- Page 187, Offset 21065.
 -- そもそも原因は何だったのか。
-  Et quelle était son origine ?
+　Et quelle était son origine ?
 
 }
 [sha:81cc73fc7889883a86cc6abbdac0007e48bd0c6f]{
 -- Page 187, Offset 21066.
 -- カレはカレなりに考えこんだ末、
-  Après avoir réfléchi, il parvint à une certaine conclusion.
+　Après avoir réfléchi, il parvint à une certaine conclusion.
 
 }
 [sha:cf1af8d81f2e27c314d71a4a61c42634dac004f3]{
@@ -3583,37 +3583,37 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:42c5362e395595e8eb6e6aeb76501421f370b782]{
 -- Page 187, Offset 21068.
 -- 気を取り直して、先ほどの男の匂いを辿る事にした。
-  Il se ressaisit et entreprit de suivre la piste de l'homme en question.
+　Il se ressaisit et entreprit de suivre la piste de l'homme en question.
 
 }
 [sha:fc487b7f4d3b5d2c60a8ee1520e98b044184831b]{
 -- Page 188, Offset 21069.
 -- 行き着く先が雇い主にとって鬼門である事なぞ、無論、ベオには与り知らぬコトである。
-  Il n'avait évidemment aucun moyen de savoir qu'elle le mènerait dans ce qui représentait l'antre des démons pour sa maîtresse et lui.
+　Il n'avait évidemment aucun moyen de savoir qu'elle le mènerait dans ce qui représentait l'antre des démons pour sa maîtresse et lui.
 
 }
 [sha:9927d115e1f19671a771a300f74d91d4c785939c]{
 -- Page 189, Offset 21070.
 -- 唐突だが、<合田|あいだ>教会は年中無休、かつ、来る者拒まずの姿勢を貫いている。
-  C'est un changement de sujet un peu soudain, mais l'église d'Aida était ouverte tous les jours de l'année et avait pour principe d'accueillir n'importe qui à bras ouverts.
+　C'est un changement de sujet un peu soudain, mais l'église d'Aida était ouverte tous les jours de l'année et avait pour principe d'accueillir n'importe qui à bras ouverts.
 
 }
 [sha:abacde0b9f2ae6153fe7c18d65db6b9e7941f08f]{
 -- Page 189, Offset 21071.
 -- 迷うもの、<貧|ひん>するものの味方であり、最近は小金稼ぎに<結|ブ><婚式|ライダル>業にまで手を出した。
-  Elle était l'alliée des âmes égarées et des pauvres, et tout récemment, elle avait même commencé à organiser des cérémonies de mariage pour renflouer un peu ses caisses.
+　Elle était l'alliée des âmes égarées et des pauvres, et tout récemment, elle avait même commencé à organiser des cérémonies de mariage pour renflouer un peu ses caisses.
 
 }
 [sha:aac58216406cca17cd5e01b6e1db5187c165ed42]{
 -- Page 189, Offset 21072.
 -- 三咲市の福祉事業とも密接な関係にあり、運営はそれなりに順調だ。
-  Elle entretenait une étroite relation avec l'assistance publique de la ville Misaki et la gestion de l'établissement se passait plutôt bien.
+　Elle entretenait une étroite relation avec l'assistance publique de la ville Misaki et la gestion de l'établissement se passait plutôt bien.
 
 }
 [sha:2ae0b04b95e30d4552c5df5897cdd45bf00fec5e]{
 -- Page 189, Offset 21073.
 -- 唯一の問題は、この通り、
-  Il ne subsistait qu'un seul problème.
+　Il ne subsistait qu'un seul problème.
 
 }
 [sha:c52cd54900b74c5c0390e82fa4a1eb72b1793973]{
@@ -3625,13 +3625,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:2f7752fa6eb53922d3aef4ade2c19010dfaffb00]{
 -- Page 190, Offset 21075.
 -- 律架もサボタージュ、奉仕の生徒さんたちも日に日に減っていく一方……結局、労働力は私ひとりだけなのですね」
-  Ritsuka fait du boycott et les élèves font de moins en moins de bénévolat...... Au bout du compte, je suis la seule à travailler.」
+　Ritsuka fait du boycott et les élèves font de moins en moins de bénévolat...... Au bout du compte, je suis la seule à travailler.」
 
 }
 [sha:046de53500126aeb9d4c14a4a66655510618b2a9]{
 -- Page 190, Offset 21076.
 -- 台所事情は安泰でも、慢性的な人手不足だけは解消できないのだった。
-  Même si le budget de l'église était stable, le problème du manque d'assistance chronique était loin d'être résolu.
+　Même si le budget de l'église était stable, le problème du manque d'assistance chronique était loin d'être résolu.
 
 }
 [sha:dcd1e156df28bd54b722a80d7c2b8c6450c9e7cb]{
@@ -3643,19 +3643,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:a1fe2f843416d0937f7676b267b6e1fd6dd86c92]{
 -- Page 191, Offset 21078.
 -- 給金がなければ働けないなど、人生をなんだと思っているのでしょう。物欲だけで構成された一日を過ごしていては、<懐|ふところ>は豊かになっても心が貧しくなるだけでしょうに」
-  Ils disent que tout travail mérite salaire... Non mais comment voient-ils la vie ? Si l'on ne vit que des journées fondées sur le désir matériel, la bourse aura beau gonfler, le cœur ne fera que s'appauvrir, lui !」
+　Ils disent que tout travail mérite salaire... Non mais comment voient-ils la vie ? Si l'on ne vit que des journées fondées sur le désir matériel, la bourse aura beau gonfler, le cœur ne fera que s'appauvrir, lui !」
 
 }
 [sha:1f173d80a1f6745201372516c2ee236cfbb1372a]{
 -- Page 192, Offset 21079.
 -- ひとり小言を口にしながら、シスターはひょい、と片手で<脚立|きゃたつ>を持ち上げた。
-  La sœur laissa échapper quelques plaintes et souleva d'une main l'escabeau.
+　La sœur laissa échapper quelques plaintes et souleva d'une main l'escabeau.
 
 }
 [sha:be83f0e0a1117d0ab1b9511b226a934ee8543af8]{
 -- Page 192, Offset 21080.
 -- 教会の窓掃除に使う本格的な脚立で、大の大人がふたりがかりでも手に余る重量なのだが、このシスターにはそのあたり気にならないようだ。
-  Il s'agissait d'un outil bien solide utilisé pour le nettoyage des vitres de l'église ; il fallait normalement deux adultes pour le soulever, mais cela ne semblait pas être un problème pour la sœur.
+　Il s'agissait d'un outil bien solide utilisé pour le nettoyage des vitres de l'église ; il fallait normalement deux adultes pour le soulever, mais cela ne semblait pas être un problème pour la sœur.
 
 }
 [sha:04679c4197b82b06c2613a417fe40e1190b88a6d]{
@@ -3667,37 +3667,37 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:e865d21fd7750a7b6caa674dd739779f3e02ab4d]{
 -- Page 193, Offset 21082.
 -- あの人は<誰彼|だれかれ>何彼気分で世話をして、後の事とか考えませんから。裏庭に集まった野良猫たちはどうするんですか。ああ、私ですね、それも私が受け持つのですね。もうなんでもかんでも肉体労働は私なのですね」
-  Il s'occupe de n'importe qui au gré de son humeur sans penser aux conséquences. Qui va s'occuper des chats errants qui se réunissent dans l'arrière-cour ? Aaah, c'est pour moi, n'est-ce pas ? Ça aussi, c'est moi qui dois m'en charger ? Vous me donnez tous les travaux manuels, hein ?」
+　Il s'occupe de n'importe qui au gré de son humeur sans penser aux conséquences. Qui va s'occuper des chats errants qui se réunissent dans l'arrière-cour ? Aaah, c'est pour moi, n'est-ce pas ? Ça aussi, c'est moi qui dois m'en charger ? Vous me donnez tous les travaux manuels, hein ?」
 
 }
 [sha:4f0c571b14cce1e5ae76f8883f1114b7900344b6]{
 -- Page 194, Offset 21083.
 -- もはや完全な小言マシーンと化したシスターの名は、<周瀬|すせ><唯架|ゆいか>。
-  Cette sœur qui s'était transformée en machine à doléances se nommait Suse Yuika.
+　Cette sœur qui s'était transformée en machine à doléances se nommait Suse Yuika.
 
 }
 [sha:281cecf561c3eb9a213405404787f8228c65c419]{
 -- Page 194, Offset 21084.
 -- 普段の彼女からは考えられない光景だが、これにはちょっとした理由がある。
-  Ce spectacle aurait été inimaginable dans son état normal, mais il y avait une raison à son comportement.
+　Ce spectacle aurait été inimaginable dans son état normal, mais il y avait une raison à son comportement.
 
 }
 [sha:59c9b0a3515328101fb232b360193e125d7b88aa]{
 -- Page 195, Offset 21085.
 -- 彼女は盲目であるが故に、周囲の気配を察する<感覚|センス>が研ぎ澄まされている。
-  Sa cécité avait exceptionnellement aiguisé sa capacité à détecter les présences alentour.
+　Sa cécité avait exceptionnellement aiguisé sa capacité à détecter les présences alentour.
 
 }
 [sha:d8409047153c91e6625e0ebdc5edc2433db89283]{
 -- Page 195, Offset 21086.
 -- 生き物―――特に人間の気配には敏感で、驚くべき事に半径十メートル単位で人の在る無しを判断できる。
-  Elle était sensible à la présence d'êtres vivants―――et tout particulièrement aux humains, et le plus surprenant, c'est qu'elle pouvait repérer toute personne se trouvant dans un rayon de dix mètres.
+　Elle était sensible à la présence d'êtres vivants―――et tout particulièrement aux humains, et le plus surprenant, c'est qu'elle pouvait repérer toute personne se trouvant dans un rayon de dix mètres.
 
 }
 [sha:dd7698fba26f971b2ca72d113bea3c92acd33992]{
 -- Page 195, Offset 21087.
 -- いま、彼女が素の自分をさらけだしているのは、周囲に人がいないと感じ取っているからだ。
-  Elle montrait à présent sa véritable nature car elle ne sentait personne autour d'elle.
+　Elle montrait à présent sa véritable nature car elle ne sentait personne autour d'elle.
 
 }
 [sha:d21cf67ef0fb46af9ee222244b933b20e420b50d]{
@@ -3709,19 +3709,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:3fe2527a116f0e9bf621e8d9cc17030c6cbaa7ab]{
 -- Page 196, Offset 21089.
 -- ……どうなのでしょう、主よ。猫って二日経った岩のように堅いパンでもペーストすればいけるクチなんでしょうか。玉葱だけは出すな、と律架が言っていた気がしますが」
-  ...... Qu'en pensez-vous, Seigneur ? Les chats se satisferont-ils d'un pain vieux de deux jours et dur comme de la pierre si on en fait du pâté ? Et je me souviens que Ritsuka m'a expressément déconseillé de leur donner de l'oignon.」
+　...... Qu'en pensez-vous, Seigneur ? Les chats se satisferont-ils d'un pain vieux de deux jours et dur comme de la pierre si on en fait du pâté ? Et je me souviens que Ritsuka m'a expressément déconseillé de leur donner de l'oignon.」
 
 }
 [sha:1ebc41daa7622c4a0725c85d3f3536c2939b1de9]{
 -- Page 197, Offset 21090.
 -- シスターは掃除器具の後片づけをしつつ、先ほどから裏庭でミャーミャーうるさい小動物たちの<夕餉|ゆうげ>の支度をする。
-  Tandis qu'elle rangeait les outils de nettoyage, la sœur préparait également le dîner des petits animaux qui ne cessaient de miauler dans l'arrière-cour depuis un moment.
+　Tandis qu'elle rangeait les outils de nettoyage, la sœur préparait également le dîner des petits animaux qui ne cessaient de miauler dans l'arrière-cour depuis un moment.
 
 }
 [sha:aaf85f994e3b0f2943ad672a658baa45f4b0a7d0]{
 -- Page 197, Offset 21091.
 -- と。
-  Puis un intrus se montra.
+　Puis un intrus se montra.
 
 }
 [sha:6360cb85cfac8a2dfd961f2d783d862495e11ebf]{
@@ -3733,7 +3733,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:21585fcd49873f16eb3c6166e056e842d8be7b06]{
 -- Page 197, Offset 21093.
 -- 盲目のシスターは、ひょこっと教会に現れた、小型犬の気配を感じ取った。
-  La sœur aveugle décela la présence du petit chien apparu subitement devant l'église.
+　La sœur aveugle décela la présence du petit chien apparu subitement devant l'église.
 
 }
 [sha:49721cde38e2ad30a0e3f3e70fb3c03a7f4e9494]{
@@ -3745,19 +3745,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:bea263821112a8f09a62b10c9ce9526b5efe2283]{
 -- Page 198, Offset 21095.
 -- 餌ならここで恵んであげますから、中に入るのはまた今度にしてくださいね。それ以上入ったら向かいの家の屋根あたりまでご退場願いますよ」
-  Si tu veux à manger, je t'en apporterai ici. Tu pourras entrer à l'intérieur une autre fois. Si tu approches encore, je devrais t'expulser jusqu'au toit de la maison d'en face.」
+　Si tu veux à manger, je t'en apporterai ici. Tu pourras entrer à l'intérieur une autre fois. Si tu approches encore, je devrais t'expulser jusqu'au toit de la maison d'en face.」
 
 }
 [sha:556b1530024e0fc0870f31aae006aa3b46ccc555]{
 -- Page 199, Offset 21096.
 -- 教会の門をくぐろうとする茶色の小型犬を、シスターは足で押しとどめる。
-  La sœur arrêta du pied le petit chien brun qui tentait de passer la grille de l'église.
+　La sœur arrêta du pied le petit chien brun qui tentait de passer la grille de l'église.
 
 }
 [sha:37f96b6f262714de18569fac7d2e58fe75542296]{
 -- Page 199, Offset 21097.
 -- 人間でないものには扱いが少々乱暴な唯架だった。
-  Yuika se montrait un peu brutale avec les êtres vivants qui n'étaient pas humains.
+　Yuika se montrait un peu brutale avec les êtres vivants qui n'étaient pas humains.
 
 }
 [sha:f8080d233f7d3dc64adcc7e0d820e50ee36816d3]{
@@ -3769,25 +3769,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:25d122a43be5e501367b29b2435077cd2359af6f]{
 -- Page 200, Offset 21099.
 -- 一方、小型犬―――狼の信念はとりあえず隅に追いやった―――に変身したベオは、シスターを障害物としか見ていなかった。
-  De son côté, Beo transformé en petit chien — il avait pour le moment renoncé à ses principes de loup — ne voyait la sœur que comme un obstacle.
+　De son côté, Beo transformé en petit chien — il avait pour le moment renoncé à ses principes de loup — ne voyait la sœur que comme un obstacle.
 
 }
 [sha:d58d9466f10d8199963f20a99fd1a1dc2673f146]{
 -- Page 201, Offset 21100.
 -- 黒い男の匂いはこの先に続いている。
-  La piste de l'homme en noir menait à l'intérieur.
+　La piste de l'homme en noir menait à l'intérieur.
 
 }
 [sha:ff3f1f2fc8cfcde465ca35d44eca328b72e87406]{
 -- Page 201, Offset 21101.
 -- 人間なぞどうでもいいカレにとって、立ちふさがるシスターは電柱以下の造形物にすぎない。
-  Pour lui, les humains n'avaient aucune importance, aussi la sœur qui lui bloquait le passage équivalait à un poteau électrique.
+　Pour lui, les humains n'avaient aucune importance, aussi la sœur qui lui bloquait le passage équivalait à un poteau électrique.
 
 }
 [sha:a79c65da5a9059103f4fa45193e2c3c3e117f17c]{
 -- Page 201, Offset 21102.
 -- なので当然、シスターの言葉なぞ無視して門をすり抜けようとする。
-  Il ignora naturellement les mots de la nonne et tenta de passer la porte.
+　Il ignora naturellement les mots de la nonne et tenta de passer la porte.
 
 }
 [sha:cde04c31ca31d6cc01ec44344caafe41e92a4d60]{
@@ -3799,25 +3799,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:1ecbc0857ee306f1f2771439a0b108a9abf6d7a3]{
 -- Page 202, Offset 21104.
 -- この子、すごい色していますけど……もしかして高級な品種なのでしょうか……だとしたら……」
-  Ce petit a une couleur formidable... Peut-être qu'il a un excellent pedigree... Dans ce cas......」
+　Ce petit a une couleur formidable... Peut-être qu'il a un excellent pedigree... Dans ce cas......」
 
 }
 [sha:886cdb142a7af98c09bf4f2170bf98bcad422462]{
 -- Page 202, Offset 21105.
 -- どこぞのお金持ちのペットかもしれない。
-  Il aurait pu s'agir de l'animal de compagnie d'on ne savait quelle riche personne.
+　Il aurait pu s'agir de l'animal de compagnie d'on ne savait quelle riche personne.
 
 }
 [sha:0f35cdcba60948c413fd42e8cb986a1811cdb180]{
 -- Page 202, Offset 21106.
 -- 教会に来るという事は、礼拝に来る裕福層の飼い犬である可能性もある。
-  Comme il était ici, il appartenait peut-être à une famille opulente habituée de l'église.
+　Comme il était ici, il appartenait peut-être à une famille opulente habituée de l'église.
 
 }
 [sha:340ecf2c4e2769e0ff3fe0cee5ace9a59045b0c9]{
 -- Page 202, Offset 21107.
 -- これは無下にはできない、と蹴りだそうとした足を止める唯架だった。
-  Je ne peux pas ignorer cela, songea Yuika qui stoppa son pied sur le point de le chasser.
+　Je ne peux pas ignorer cela, songea Yuika qui stoppa son pied sur le point de le chasser.
 
 }
 [sha:70b41428042aa4d5681340c789fb90a9daece969]{
@@ -3835,31 +3835,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:b89db897c49d19721462988b174f782102734933]{
 -- Page 203, Offset 21110.
 -- よし、まわりに誰もいないし、首を噛み折ろ―――”」
-  Bon, il n'y a personne aux alentours. Je vais lui tordre le cou discrètement―――”」
+　Bon, il n'y a personne aux alentours. Je vais lui tordre le cou discrètement―――”」
 
 }
 [sha:2c069b3aee4ff917e5d3e72a28b3d673da5aa7ae]{
 -- Page 204, Offset 21111.
 -- 飛びかかろうとしたベオの前脚が、急停止する。
-  Beo s'interrompit brusquement alors qu'il levait la patte.
+　Beo s'interrompit brusquement alors qu'il levait la patte.
 
 }
 [sha:ed700b95e906597a9bdf77c4e3162232e26a5b0a]{
 -- Page 204, Offset 21112.
 -- カパッ。
-  *bruit de métal*
+　*bruit de métal*
 
 }
 [sha:a8becd2f83770d8be183c48e9724e07d0cc9e129]{
 -- Page 204, Offset 21113. Mods: @n.
 -- シスターは手にした瓶の蓋をあけて、キラキラ光る液体状のものを小皿にそそいで、
-  La sœur ouvrit le couvercle d'une canette, versa dans une petite assiette ce qui semblait être un liquide brillant,
+　La sœur ouvrit le couvercle d'une canette, versa dans une petite assiette ce qui semblait être un liquide brillant,
 
 }
 [sha:ad6c5f77f4d68e50853c9bac429a166d5187019b]{
 -- Page 204, Offset 21114. Glued.
 -- 小型犬の前に差しだした。
- puis plaça le tout devant le petit chien.
+puis plaça le tout devant le petit chien.
 
 }
 [sha:3d35ea86eb8b6def69670b90c5a6699311ad5a00]{
@@ -3877,31 +3877,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:e7961b8ef69a483f3291e27dcc1075d386a6aca1]{
 -- Page 206, Offset 21117.
 -- 差し出された正体不明の液体。
-  Le fluide était de nature inconnue.
+　Le fluide était de nature inconnue.
 
 }
 [sha:6b6a836102e7109dcfa02e9541c21e3aa013ea40]{
 -- Page 206, Offset 21118.
 -- それはまたしても、カレにとってはじめて嗅ぐ匂いだった。
-  Il n'avait encore jamais senti l'odeur qu'il dégageait.
+　Il n'avait encore jamais senti l'odeur qu'il dégageait.
 
 }
 [sha:9cea8d77ff343f2a6f36ecfa00b77a319aa8fbf6]{
 -- Page 206, Offset 21119.
 -- 好奇心にはひたすらに弱いベオである。
-  Et Beo avait un point faible, sa grande curiosité.
+　Et Beo avait un point faible, sa grande curiosité.
 
 }
 [sha:c49767eaef536776c4cc8313299083f3e281a453]{
 -- Page 206, Offset 21120.
 -- たとえ毒が入っていようと、自然界の毒ならカレには通じない。
-  Même si l'assiette contenait du poison, ceux du monde naturel ne fonctionnaient pas sur lui.
+　Même si l'assiette contenait du poison, ceux du monde naturel ne fonctionnaient pas sur lui.
 
 }
 [sha:9bee40f8b6372ef3670546a1fb0bd9d8d91d51dc]{
 -- Page 206, Offset 21121.
 -- ぺろりと一口舐める。
-  Il se décida à laper une gorgée.
+　Il se décida à laper une gorgée.
 
 }
 [sha:174bd1bd316f1352270a509fe98c01016f7237d8]{
@@ -3913,7 +3913,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:c33174bdd3459d67a1db04e01b463ec13f0b2d68]{
 -- Page 207, Offset 21123.
 -- すこし舐める。
-  Il lapa un peu.
+　Il lapa un peu.
 
 }
 [sha:de0f2bed4bfda5a94678ee3462b19b39eebd1652]{
@@ -3925,7 +3925,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:49d651fbd49c0638e9aa13172793a1ec02567fb1]{
 -- Page 207, Offset 21125.
 -- さらに舐める。
-  Il lapa encore.
+　Il lapa encore.
 
 }
 [sha:59f7eb66e06d1509e81c2787aedcc0c87c790f1e]{
@@ -3937,7 +3937,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:2c170fd3cbe132ebf15e2586ee1f2dcfb2d84d98]{
 -- Page 207, Offset 21127.
 -- もっと舐める。
-  Il lapa encore plus.
+　Il lapa encore plus.
 
 }
 [sha:b24878943d305dcdbd24c0c986c4335501ec9765]{
@@ -3949,7 +3949,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f67357a13c1a86d6b0177f497971f370612f9450]{
 -- Page 208, Offset 21129.
 -- 犬ながら惚れ惚れします」
-  Tu es charmant pour un chien.」
+　Tu es charmant pour un chien.」
 
 }
 [sha:d1f25b29fddb85ef54885fcb55f1740495135186]{
@@ -3961,13 +3961,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:485f5332c60d2eb0c0cb33fd8dab7b8d8969d189]{
 -- Page 208, Offset 21131.
 -- 夕暮れの教会に、ワン、と元気な吠え声が響きわたる。
-  Un aboiement joyeux résonna devant l'église plongée dans le crépuscule.
+　Un aboiement joyeux résonna devant l'église plongée dans le crépuscule.
 
 }
 [sha:424d53d861b00ed4cc806dc262ee52c676fd66e0]{
 -- Page 208, Offset 21132.
 -- この時点で、ベオにとって男の匂いなぞどうでもいい物になっていた。
-  Dès cet instant, l'odeur de l'homme avait perdu toute importance pour Beo.
+　Dès cet instant, l'odeur de l'homme avait perdu toute importance pour Beo.
 
 }
 [sha:7a347e9535ea76f9fc6a3b5ac92901cdc6271e9c]{
@@ -3979,7 +3979,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:4ec13da86be34142caffd2895d995002fe0be213]{
 -- Page 209, Offset 21134.
 -- 犬どもにも甘味をたしなむ心があるのですね」
-  Je ne savais pas que les chiens pouvaient savourer les douceurs.」
+　Je ne savais pas que les chiens pouvaient savourer les douceurs.」
 
 }
 [sha:20d7a178f2de0f042d736c4a93c4d6d3113fe103]{
@@ -3991,55 +3991,55 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:01cf9d444b43c55c65abd29bfef0c2f09949b443]{
 -- Page 209, Offset 21136.
 -- シスターの呟きに、ベオはハッと顔をあげた。
-  Beo leva la tête, pris de court par le murmure de la sœur.
+　Beo leva la tête, pris de court par le murmure de la sœur.
 
 }
 [sha:48074ec0c815dbee4086d6fad1b79e93b5c08cd7]{
 -- Page 209, Offset 21137.
 -- 今の単語はなんだか大切な気がする。
-  Il avait l'impression que ce vocabulaire était de nature sacrée.
+　Il avait l'impression que ce vocabulaire était de nature sacrée.
 
 }
 [sha:20f7565383f369ea9bd6652ffd3d64dc5d7140a9]{
 -- Page 209, Offset 21138.
 -- そもそもこの食べ物が閃光のような衝撃だった。
-  Cette nourriture lui avait fait l'effet d'un coup de tonnerre.
+　Cette nourriture lui avait fait l'effet d'un coup de tonnerre.
 
 }
 [sha:40d939e660ac8f3172a2258d8e3d71083b3d29da]{
 -- Page 210, Offset 21139.
 -- ベオにとって、食事は燃料補給のパターンの一つにすぎない。
-  Pour Beo, le repas n'était qu'un moyen de réapprovisionnement en énergie.
+　Pour Beo, le repas n'était qu'un moyen de réapprovisionnement en énergie.
 
 }
 [sha:920a0377becaae43d45244f9c750e791d419a228]{
 -- Page 210, Offset 21140.
 -- ハンバーガーのえり好みはあるが、あれはあくまで“噛みごこち”の良し悪しだった。どうせ栄養摂取をしなくちゃいけないのだから、仕方なく食べているにすぎない。
-  Il avait une préférence particulière pour les hamburgers, mais seulement en raison de leur texture de qualité. De toute façon, il devait absorber des nutriments ; il mangeait parce qu'il n'avait pas le choix.
+　Il avait une préférence particulière pour les hamburgers, mais seulement en raison de leur texture de qualité. De toute façon, il devait absorber des nutriments ; il mangeait parce qu'il n'avait pas le choix.
 
 }
 [sha:0e31b91abfda1e8fe53fcc26cf81f2303c23f59c]{
 -- Page 210, Offset 21141.
 -- が、これは違う。肉食動物の“命”を燃料にするカレにとって、この食べ物はまったく意味がない。
-  Mais cet aliment-ci était différent. Pour lui qui se contentait en général de transformer la viande en combustible, manger ceci n'avait aucun sens.
+　Mais cet aliment-ci était différent. Pour lui qui se contentait en général de transformer la viande en combustible, manger ceci n'avait aucun sens.
 
 }
 [sha:a1c1eee3b1c7d5294f3e3c28402889c61c7eddde]{
 -- Page 211, Offset 21142.
 -- けれど、もっと食べたい。
-  Et pourtant, il désirait en manger davantage.
+　Et pourtant, il désirait en manger davantage.
 
 }
 [sha:0f402a432c07b316198e0234d3b39a0d84bc38e5]{
 -- Page 211, Offset 21143.
 -- 必要はないけど、これはなんていうか、すごく気持ちのいいものだ。
-  Il n'en avait pas besoin, mais c'était une sensation agréable.
+　Il n'en avait pas besoin, mais c'était une sensation agréable.
 
 }
 [sha:ff6f17bb5283e91907ad26f1daf371d7526bc2cf]{
 -- Page 211, Offset 21144.
 -- 体ではなく、心の栄養になるような。
-  Il ne s'agissait pas d'un nutriment pour le corps, mais d'un baume pour le cœur.
+　Il ne s'agissait pas d'un nutriment pour le corps, mais d'un baume pour le cœur.
 
 }
 [sha:d437dd03035e5a49875fa3578f964509727d418a]{
@@ -4051,13 +4051,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:25474c3e768e17cb493790a47c1e3ed5b5e071d6]{
 -- Page 212, Offset 21146.
 -- むむ、と振りまくっていた尻尾が止まる。
-  Il cessa de remuer la queue dans tous les sens.
+　Il cessa de remuer la queue dans tous les sens.
 
 }
 [sha:66b95ac8ef42f649a642851c431663072071a671]{
 -- Page 212, Offset 21147.
 -- 小型犬に<扮|ふん>した黄金の狼は、自分の名前の由来である食べ物を前にして、解けない難問につきあたるのだった。
-  Le loup doré déguisé en petit chien s'était heurté à un problème irrésoluble, celui de la nourriture liée à l'origine de son nom.
+　Le loup doré déguisé en petit chien s'était heurté à un problème irrésoluble, celui de la nourriture liée à l'origine de son nom.
 
 }
 [sha:18f8d60af4c157e8e82736a4fb9ca482e42dcd57]{
@@ -4075,13 +4075,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:2fe3a9f2cf846e989862f90b9fbe25541e083b17]{
 -- Page 213, Offset 21150.
 -- 遅いお帰りにお姉さん心配しちゃった。こんな時間まで無断外出とか心配したゾ。教育係<兼|けん>飼い主として、バッボーイしなくちゃいけないからそこに正座」
-  Je m'inquiétais de ne pas te voir rentrer. Je me suis même fait un sang d'encre à l'idée que tu sois dehors sans permission à une heure aussi tardive. En tant que tuteur et employeur, je dois te réprimander. Assieds-toi tout de suite et mets-toi à genoux !」
+　Je m'inquiétais de ne pas te voir rentrer. Je me suis même fait un sang d'encre à l'idée que tu sois dehors sans permission à une heure aussi tardive. En tant que tuteur et employeur, je dois te réprimander. Assieds-toi tout de suite et mets-toi à genoux !」
 
 }
 [sha:1ff20b2e6ce84fa32b6480c0a4e7d99b4f9a55e9]{
 -- Page 214, Offset 21151.
 -- ベオがヒト形に変身して工房に戻ると、笑顔でこめかみをひくつかせた蒼崎橙子が待っていた。
-  Quand Beo rentra à l'Atelier sous forme humaine, Aozaki Tōko l'attendait avec un sourire aux lèvres et une veine palpitant furieusement sur sa tempe.
+　Quand Beo rentra à l'Atelier sous forme humaine, Aozaki Tōko l'attendait avec un sourire aux lèvres et une veine palpitant furieusement sur sa tempe.
 
 }
 [sha:f14f36424822ded876a1964e1641553871826ab0]{
@@ -4093,13 +4093,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:68647bc3120f0cda152e12491e493ab9866efd2a]{
 -- Page 214, Offset 21153.
 -- 失敗しちゃった、とベオは素直に反省する。
-  J'ai gaffé, pensa Beo qui regrettait sincèrement sa bévue.
+　J'ai gaffé, pensa Beo qui regrettait sincèrement sa bévue.
 
 }
 [sha:4755a8552a44c749d02a3e769c40698274fe3d56]{
 -- Page 214, Offset 21154.
 -- シスターとの一件で、先回りして帰る事を失念していた。
-  Suite à sa rencontre avec la sœur, il avait complètement oublié de rentrer en avance.
+　Suite à sa rencontre avec la sœur, il avait complètement oublié de rentrer en avance.
 
 }
 [sha:48e36b67aadd391a8d0cd5446f0e7cb0188731f6]{
@@ -4111,7 +4111,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:d17bc818153e726e0d8af07c16a8d56268b0220b]{
 -- Page 215, Offset 21156.
 -- そりゃあ無断で外に出てたけど、誰にも見つかってないし。別にボク、悪いことしてないし」
-  C'est vrai que je suis sorti sans permission, mais personne ne m'a vu. Et je n'ai rien fait de mal.」
+　C'est vrai que je suis sorti sans permission, mais personne ne m'a vu. Et je n'ai rien fait de mal.」
 
 }
 [sha:f75b7b4565a083f0795b093971fabb9c71a9f581]{
@@ -4123,7 +4123,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:6a87b75a8a5474bbf0f609259d8a8ea4b279397e]{
 -- Page 215, Offset 21158.
 -- ってコトはベオくん、裏山で遊んでたの？」
-  Alors tu t'amusais derrière la colline ?」
+　Alors tu t'amusais derrière la colline ?」
 
 }
 [sha:734d6640cb08e8e4eec3682fb1ec56a2422faf86]{
@@ -4135,13 +4135,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:14f4c5d98d71fcb8252fe7d13af4ea3be4ec47ce]{
 -- Page 216, Offset 21160.
 -- 予想外の返答に固まる橙子。
-  La réponse fut si inattendue que Tōko se figea.
+　La réponse fut si inattendue que Tōko se figea.
 
 }
 [sha:b5bf279e2694f4dfec7c528031c3fee1ee14ba3d]{
 -- Page 216, Offset 21161.
 -- が、さすがにカレの扱いには慣れたものなのか、そう、とため息で頭痛を押さえこんだ。
-  Mais étant habituée à traiter avec lui, elle soupira simplement un “Je vois”, refoulant ainsi un mal de tête.
+　Mais étant habituée à traiter avec lui, elle soupira simplement un “Je vois”, refoulant ainsi un mal de tête.
 
 }
 [sha:c3a746656e9ad38952720bd6c9edbb03e5c3cbd5]{
@@ -4153,7 +4153,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:5b40397cfb2ecc1653be38c1e5e8435019fed847]{
 -- Page 217, Offset 21163.
 -- でも、どうやって人目を避けたの？　その格好だったらさすがに気付くと思うんだけど、私」
-  Mais comment as-tu évité les regards des gens ? Sous cette apparence, j'aurais cru que tu te ferais remarquer rapidement.」
+　Mais comment as-tu évité les regards des gens ? Sous cette apparence, j'aurais cru que tu te ferais remarquer rapidement.」
 
 }
 [sha:3f3feac2a0393660b0d6b42e80fb60847de77595]{
@@ -4171,13 +4171,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:2b56fa0ea0fa1cb253a4aea4fff2e197341ade51]{
 -- Page 218, Offset 21166.
 -- らしくなく、素直に反応する橙子。
-  Pour une fois, Tōko réagit honnêtement.
+　Pour une fois, Tōko réagit honnêtement.
 
 }
 [sha:cf746012b9733ecd971414ab5debf25eadee6f93]{
 -- Page 218, Offset 21167.
 -- そんな雇い主の動揺に、ベオも意表をつかれてしまった。
-  Beo fut également pris au dépourvu face à l'émoi de son employeur.
+　Beo fut également pris au dépourvu face à l'émoi de son employeur.
 
 }
 [sha:6f73ad0e89f03528a8dd294ce91eb97e13f99583]{
@@ -4195,7 +4195,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:1d754b8791d9577b2b7234448f8460ec6cf98752]{
 -- Page 219, Offset 21170.
 -- あの、全身ぐるぐる巻きに自分を縛ってた方」
-  Celle qui était ficelée.」
+　Celle qui était ficelée.」
 
 }
 [sha:ff9cf56e351f4c341fc2df5511532439b80a5da0]{
@@ -4207,13 +4207,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:c42b9d9a6a7343ef34e3beab4f9f8525a340fb58]{
 -- Page 220, Offset 21172.
 -- しばし無言で見つめ合う一人と一匹。
-  L'humaine et l'animal se dévisagèrent un moment.
+　L'humaine et l'animal se dévisagèrent un moment.
 
 }
 [sha:ddf988e294ba6b81133a10b6bb3ec12ef18629a5]{
 -- Page 220, Offset 21173.
 -- 野生のカレは、ふーん、と訳知り顔で納得して、
-  La bête sauvage prit alors l'air de compréhension de celui qui s'y connaît en affaires de cœur.
+　La bête sauvage prit alors l'air de compréhension de celui qui s'y connaît en affaires de cœur.
 
 }
 [sha:ef6253f1e8408b5580018e36899e4ba1854efd97]{
@@ -4225,7 +4225,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:7dd2083612bb000c8e89d5b6ed40a18cbb3d601f]{
 -- Page 220, Offset 21175.
 -- つまり、アレってトーコさんのつがい？」
-  Alors, c'est ton partenaire ?」
+　Alors, c'est ton partenaire ?」
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -4237,13 +4237,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:cee5157ef7231b3113e88ec9f21ede7571f258fb]{
 -- Page 220, Offset 21177.
 -- 蒼崎橙子をして吹き出させる、神をも恐れぬ疑問を投げかけた。
-  Sa question insolente avait bien failli provoquer le fou rire d'Aozaki Tōko.
+　Sa question insolente avait bien failli provoquer le fou rire d'Aozaki Tōko.
 
 }
 [sha:feaa2b7abc8fc3c579d64d4a6a794b679b61798c]{
 -- Page 221, Offset 21178.
 -- 人形師は無言で眼鏡を外して、まなじりを強く押さえた。
-  La marionnettiste retira ses lunettes sans un mot et se massa la racine du nez.
+　La marionnettiste retira ses lunettes sans un mot et se massa la racine du nez.
 
 }
 [sha:f8b93b009377f2561f63aca11508211dd2794eff]{
@@ -4255,7 +4255,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:6a71751eb327031951164629118234a98ee83708]{
 -- Page 221, Offset 21180.
 -- <耳年増|みみどしま>にも程があるぞ」
-  Une connaissance superficielle du sexe ne t'apportera rien de bon !」
+　Une connaissance superficielle du sexe ne t'apportera rien de bon !」
 
 }
 [sha:596c1282801f116ee76fcb5163e7ed50de2bd22e]{
@@ -4267,25 +4267,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:d3b8829e9cc32f488fb3bbd1ca5700514df5c01c]{
 -- Page 222, Offset 21182.
 -- ……まあ、トーコさんがフツーの生き物だとは思っていなかったから、ボクとしても意外だけど。
-  ...... Enfin, je dois avouer que j'étais surpris, car je ne te considérais pas vraiment comme un être vivant normal.
+　...... Enfin, je dois avouer que j'étais surpris, car je ne te considérais pas vraiment comme un être vivant normal.
 
 }
 [sha:88dff70385622982ef178d3bab6ebb09102d58f6]{
 -- Page 222, Offset 21183.
 -- それで、どうなの？　あのパッとしないポテトみたいな<雄|おす>、なに？」
-  Alors ? Qui est ce mâle aux airs de patate mal dégrossie ?」
+　Alors ? Qui est ce mâle aux airs de patate mal dégrossie ?」
 
 }
 [sha:ffc26809d387ddc0af1883bd70c94555ad4bd053]{
 -- Page 223, Offset 21184.
 -- 何が気に食わないのか、ベオは唐突に不機嫌になった。
-  Beo se sentit soudainement de mauvaise humeur, comme si quelque chose ne lui plaisait pas.
+　Beo se sentit soudainement de mauvaise humeur, comme si quelque chose ne lui plaisait pas.
 
 }
 [sha:70fa5826ea06df896130e0d1838707185dcb557b]{
 -- Page 223, Offset 21185.
 -- ベオ自身、自分が<苛|いら>ついている事は理解できたが、なぜ苛ついているのかまでは理解できていない。
-  Lui-même avait compris qu'il était irrité, mais sans qu'il sache exactement pourquoi.
+　Lui-même avait compris qu'il était irrité, mais sans qu'il sache exactement pourquoi.
 
 }
 [sha:05e958342d35cbe51f90c47c1902bc36b495a197]{
@@ -4309,7 +4309,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:de6bae190efcc1cfdd63ae17ac70c81772603258]{
 -- Page 225, Offset 21189.
 -- ……やけぼっくいに火がつくかとも思ったが、完全に<湿気|しけ>っていた。アレを前にしてどうこう思うのは、もう二度とないだろうさ」
-  ...... Je pensais que la flamme subsistait encore, mais elle est complètement éteinte. La prochaine fois que j'aurai affaire à lui, je n'hésiterai sans doute pas.」
+　...... Je pensais que la flamme subsistait encore, mais elle est complètement éteinte. La prochaine fois que j'aurai affaire à lui, je n'hésiterai sans doute pas.」
 
 }
 [sha:9925927f343886c5f11ebdb41e17a91afa89eeea]{
@@ -4327,7 +4327,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:d2218c25f1da7dd41672989d4609d7c976c95e8e]{
 -- Page 226, Offset 21192.
 -- ま、その可能性だって少しはあったと思うよ。あんなんでも、私の初恋の相手のようだし」
-  Les chances pour que ça se produise n'étaient pas complètement nulles. Il n'en a pas l'air, mais on peut dire que c'était mon premier amour.」
+　Les chances pour que ça se produise n'étaient pas complètement nulles. Il n'en a pas l'air, mais on peut dire que c'était mon premier amour.」
 
 }
 [sha:033caa741e2cab111e6b6ee26de69705860c0c55]{
@@ -4339,7 +4339,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:a1ea538d5ce7aa5757eef0fad3be267cc4e97b32]{
 -- Page 226, Offset 21194.
 -- 恋は未経験なれど、初恋の意味ぐらいは知っているベオだった。
-  Bien qu'inexpérimenté en la matière, Beo connaissait le sens de “premier amour”.
+　Bien qu'inexpérimenté en la matière, Beo connaissait le sens de “premier amour”.
 
 }
 [sha:d2ff9fb1228065126ede0bfc6e0b8569d2a0c853]{
@@ -4357,19 +4357,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:326182497bbafac906c3d6082a0632d7f524f15d]{
 -- Page 227, Offset 21197.
 -- 昔の話だよ。私が十代になったばかりで、<詠梨|アレ>が祖父の弟子だった頃の話だ。ヤツは魔術ではなく、精神修行の一環として祖父と付き合っていたが」
-  Enfin, c'est de l'histoire ancienne. À l'époque, je venais juste d'avoir dix ans et il était le disciple de mon grand-père. Dans les études spirituelles cela dit, pas celles de la Magie.」
+　Enfin, c'est de l'histoire ancienne. À l'époque, je venais juste d'avoir dix ans et il était le disciple de mon grand-père. Dans les études spirituelles cela dit, pas celles de la Magie.」
 
 }
 [sha:95b8c0e8346f300a9acc819b2a667bc2c37fbeaa]{
 -- Page 228, Offset 21198.
 -- 淡々と語る橙子の横顔から、未練らしきものは見られない。
-  Tōko racontait son histoire d'un air détaché, et rien n'indiquait qu'elle avait encore de l'attachement pour lui.
+　Tōko racontait son histoire d'un air détaché, et rien n'indiquait qu'elle avait encore de l'attachement pour lui.
 
 }
 [sha:880e9ba14c160677049167528079cb164ad6ebb6]{
 -- Page 228, Offset 21199.
 -- なのにこう、普段より<言霊|ことだま>に温かみがある、とベオは眉を曇らせた。
-  Pourtant, ses mots sont plus chaleureux que d'habitude, se dit Beo en fronçant les sourcils.
+　Pourtant, ses mots sont plus chaleureux que d'habitude, se dit Beo en fronçant les sourcils.
 
 }
 [sha:b4f602707c8e612377c63da8c79bf52e85ded3d4]{
@@ -4387,25 +4387,25 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ffb19314060de360ded8e066725955ef2d088848]{
 -- Page 229, Offset 21202.
 -- ただ青春の幻影というのかな。そういう頃の象徴のような知人とは、話すだけで懐かしいものなんだよ。
-  C'est l'illusion de la jeunesse, j'imagine. La nostalgie prend le dessus quand on parle avec des amis qui nous rappellent cette époque.
+　C'est l'illusion de la jeunesse, j'imagine. La nostalgie prend le dessus quand on parle avec des amis qui nous rappellent cette époque.
 
 }
 [sha:a7212b0a068e0d0540e0d705ffb6e2f3ec3af483]{
 -- Page 229, Offset 21203.
 -- 人間的にはまったく魅力を感じなくなったが、ヤツと話しているだけで、こう、昔の自分を思い返して笑いたくなる」
-  Je n'ai ressenti aucune attirance envers l'homme, mais discuter avec lui a suffi pour me remémorer le passé, et ça m'a donné envie de rire.」
+　Je n'ai ressenti aucune attirance envers l'homme, mais discuter avec lui a suffi pour me remémorer le passé, et ça m'a donné envie de rire.」
 
 }
 [sha:c37e0f744bdd8f0027037ed16fbfe9ac9e4f25e2]{
 -- Page 230, Offset 21204.
 -- <感慨|かんがい>深く語る橙子に、ベオはますます首を<傾|かし>げる。
-  Ces propos pleins d'émotions rendaient Beo de plus en plus perplexe.
+　Ces propos pleins d'émotions rendaient Beo de plus en plus perplexe.
 
 }
 [sha:fb1af9f24c45e3df1c49a91ede87a1b46849149b]{
 -- Page 230, Offset 21205.
 -- すごく嫌いなのにわりと好き、というのは理屈に合わない気がするからだ。
-  Pour lui, ressentir à la fois de l'amour et de la haine était illogique.
+　Pour lui, ressentir à la fois de l'amour et de la haine était illogique.
 
 }
 [sha:da4f5024cbe748982abd9602b29d61021f03d6c6]{
@@ -4429,7 +4429,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:9fdca4e9485af177be76f637f0076cce5ac88974]{
 -- Page 231, Offset 21209.
 -- 食べ物だってえり好みするじゃんか、ボク！」
-  Je peux me montrer difficile sur la nourriture !」
+　Je peux me montrer difficile sur la nourriture !」
 
 }
 [sha:ff48ffdf6525343c501b5221d86f6cc07d102429]{
@@ -4441,19 +4441,19 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:2dc35e5b9eb0f01a3f2cf749e1f3798e69d1d1e3]{
 -- Page 232, Offset 21211.
 -- 野生動物にとって味覚は、十分な栄養値があるかないかを測るセンサーでしかない。
-  Pour les animaux sauvages, le goût n'est qu'un capteur permettant de mesurer la valeur nutritive de la nourriture.
+　Pour les animaux sauvages, le goût n'est qu'un capteur permettant de mesurer la valeur nutritive de la nourriture.
 
 }
 [sha:b5f9b54f402ef90f063d58fe23b0623224999ddf]{
 -- Page 232, Offset 21212.
 -- 栄養値を度外視して食事をとるのは人間だけだ。
-  Il n'y a que les humains qui font abstraction de cette dernière pour leur repas.
+　Il n'y a que les humains qui font abstraction de cette dernière pour leur repas.
 
 }
 [sha:62b71266507b104ac34b595023875d0795ba17ae]{
 -- Page 232, Offset 21213.
 -- ……自分の体に合っているからその食材を好む、ではないんだよ。ヒトは "楽しい" か "楽しくない" かで食事をとる。好きなものが甘く見えるのはその為だ」
-  ...... Ils n'aiment pas un ingrédient juste parce qu'il sera bon pour le corps. Les hommes mangent en suivant le concept du plaisir. Voilà pourquoi ce qu'on aime évoque la douceur.」
+　...... Ils n'aiment pas un ingrédient juste parce qu'il sera bon pour le corps. Les hommes mangent en suivant le concept du plaisir. Voilà pourquoi ce qu'on aime évoque la douceur.」
 
 }
 [sha:f56d9ec13155273045778414b7fbf1b131825c98]{
@@ -4471,13 +4471,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:cbcb7770c0141ee464379071e782b37c2f090606]{
 -- Page 233, Offset 21216.
 -- そのあたりはアレだな、性癖の問題だ。
-  C'est une question de goût.
+　C'est une question de goût.
 
 }
 [sha:726e1c100e3dc3e7ce4a039b77e34d74ddb3846d]{
 -- Page 233, Offset 21217.
 -- たまごが先か、にわとりが先かの話さ。好きだから甘いのか、甘いから好きなのか、とね」
-  C'est comme l'histoire de l'œuf et de la poule. La poule est-elle arrivée en premier, ou bien était-ce l'œuf ? Est-ce doux parce qu'on l'aime... ou bien l'aime-t-on parce que c'est doux ?」
+　C'est comme l'histoire de l'œuf et de la poule. La poule est-elle arrivée en premier, ou bien était-ce l'œuf ? Est-ce doux parce qu'on l'aime... ou bien l'aime-t-on parce que c'est doux ?」
 
 }
 [sha:4235d5f69d4f723e41098c4bd7b7e22b59837851]{
@@ -4495,13 +4495,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:87fa471783292b6153856ce426b91b733ef2fb33]{
 -- Page 234, Offset 21220.
 -- 在るだけのモノと、生きているコトはまた別の話だ。
-  Exister et vivre sont deux choses différentes.
+　Exister et vivre sont deux choses différentes.
 
 }
 [sha:f5125f2ee1556f7421376b54b77d602b1780e70b]{
 -- Page 234, Offset 21221.
 -- 皮肉な話だがね。その違いを知った時、オマエは無敵ではなくなるよ、ベオ」
-  Et ironiquement, lorsque tu connaîtras cette différence, tu ne seras plus invincible, Beo.」
+　Et ironiquement, lorsque tu connaîtras cette différence, tu ne seras plus invincible, Beo.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -4519,13 +4519,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:3ca1041343dc24d83f968cc326cdd23431880262]{
 -- Page 235, Offset 21224.
 -- 雇い主はいつもの調子で教室に入っていった。
-  Son employeur entra dans la salle de classe avec bonne humeur.
+　Son employeur entra dans la salle de classe avec bonne humeur.
 
 }
 [sha:2c4850fc121293357a0ac72a2bd1f607240f2c76]{
 -- Page 235, Offset 21225.
 -- ベオは浮かない顔で廊下に佇む。
-  Beo resta dans le couloir, faisant grise mine.
+　Beo resta dans le couloir, faisant grise mine.
 
 }
 [sha:bfef370c006cde53f73278a01816b647645bd25a]{
@@ -4537,55 +4537,55 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:18bbeebd213f4f3189804bcba4c2df49b45d5f24]{
 -- Page 235, Offset 21227.
 -- その台詞はベオの心をざわめかせたが、なぜそう思うのか、今のカレには分からない。
-  Cette phrase l'avait perturbé, sans qu'il comprenne pourquoi.
+　Cette phrase l'avait perturbé, sans qu'il comprenne pourquoi.
 
 }
 [sha:5c475e9abb3aca64b8d723fc5b4c018079b44302]{
 -- Page 236, Offset 21228.
 -- その答えの手がかりを得るのは、これから約三週間後。
-  Il obtiendrait un indice environ trois semaines plus tard.
+　Il obtiendrait un indice environ trois semaines plus tard.
 
 }
 [sha:2486babb4d595848f4cea327493db097519dd94f]{
 -- Page 236, Offset 21229.
 -- 完全であるルゥ・ベオウルフが、
-  Lorsque Lugh Beowulf, l'être complet,
+　Lorsque Lugh Beowulf, l'être complet,
 
 }
 [sha:76cd2e0c92f1bee5258ec8e8a2f595e7231c9581]{
 -- Page 236, Offset 21230.
 -- まったく完全でない生き物に、
-  subirait une cuisante défaite,
+　subirait une cuisante défaite,
 
 }
 [sha:046814d040b0907335263dc6dd323886aeea38d7]{
 -- Page 236, Offset 21231.
 -- あっさり黒星をつけられた後のコトになる。
-  face à un être vivant, lui, loin d'être complet.
+　face à un être vivant, lui, loin d'être complet.
 
 }
 [sha:d1be13f382ec877282b6db649ea471369b1a9c0c]{
 -- Page 237, Offset 21232.
 -- 無人の校舎に場違いな<呼び鈴|コール>が響き渡る。
-  Une sonnerie résonnait dans l'établissement, ce qui était étrange puisqu'il était censé être désert.
+　Une sonnerie résonnait dans l'établissement, ce qui était étrange puisqu'il était censé être désert.
 
 }
 [sha:33f76b67b1c1e0480be2f53a6901e5fa99921756]{
 -- Page 237, Offset 21233.
 -- 建物を改築した主も、
-  En ce jour de janvier, la maîtresse des lieux qui avait reconstruit ces murs,
+　En ce jour de janvier, la maîtresse des lieux qui avait reconstruit ces murs,
 
 }
 [sha:badc1ee25794bd82fbf0565816944aaa55fef370]{
 -- Page 237, Offset 21234.
 -- その主を撃退した魔法使いも退場して<久|ひさ>しい、一月某日。
-  ainsi que la Magicienne responsable de sa retraite étaient parties depuis longtemps.
+　ainsi que la Magicienne responsable de sa retraite étaient parties depuis longtemps.
 
 }
 [sha:3ffbe08ba178b4486138b0939436713a95765479]{
 -- Page 237, Offset 21235.
 -- 蒼崎橙子が気まぐれで取り付けていった電話機は、そこに誰かがいる事を確信しているように、飽きることなく鳴り続けていた。
-  Le téléphone qu'Aozaki Tōko avait installé sur un coup de tête sonnait sans cesse, comme pour prouver que l'école était habitée.
+　Le téléphone qu'Aozaki Tōko avait installé sur un coup de tête sonnait sans cesse, comme pour prouver que l'école était habitée.
 
 }
 [sha:9cfc6a4d96e6ea4adf165da8e8de371440556291]{
@@ -4597,13 +4597,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:d0f8d143feca28340655b2b1b78bc2eb01a7b0f6]{
 -- Page 238, Offset 21237.
 -- そんな中、ごそり、と動く気配があった。
-  Quelque chose se mut lentement en ces murs.
+　Quelque chose se mut lentement en ces murs.
 
 }
 [sha:06c3f095f981264f16e952a70acb419b62f42c91]{
 -- Page 238, Offset 21238.
 -- 校舎は無人には違いないが、人間ではないモノが一つ、いまだ<寝床|ねどこ>にしていたらしい。
-  L'établissement était bien vide de toute présence humaine, mais une créature non humaine s'en servait toujours comme tanière.
+　L'établissement était bien vide de toute présence humaine, mais une créature non humaine s'en servait toujours comme tanière.
 
 }
 [sha:d531f27958d51f7ad84874be1c031f7c3bca1cc2]{
@@ -4615,43 +4615,43 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:a7d3691e785af7b056ca96797910e30644c55cb4]{
 -- Page 239, Offset 21240.
 -- 店主はシッポまいて逃げだしたアトですので、ご用のある方は発信音のアトにメッセージを――あ、トーコさん？
-  Le propriétaire s'étant enfui la queue entre les jambes, si vous désirez passer une commande, laissez un message après le bip sono――Ah, Tōko ?
+　Le propriétaire s'étant enfui la queue entre les jambes, si vous désirez passer une commande, laissez un message après le bip sono――Ah, Tōko ?
 
 }
 [sha:5927c916e1da162b832ceecc0518eef4a266f5b8]{
 -- Page 239, Offset 21241.
 -- うん、はいはい。どーぞ行ってらっしゃい、ボクのコトはお構いなく」
-  Oui, d'accord. Vas-y, ne t'en fais pas pour moi.」
+　Oui, d'accord. Vas-y, ne t'en fais pas pour moi.」
 
 }
 [sha:9cb0a31be07ea3b19bd5fc643d5e071e4a8b9bdd]{
 -- Page 240, Offset 21242.
 -- 教室に居たのは金髪の少年だ。
-  La salle de classe abritait le garçon blond.
+　La salle de classe abritait le garçon blond.
 
 }
 [sha:124f29a0cd2ad0c850902bf634be6450f2d1cdb3]{
 -- Page 240, Offset 21243.
 -- ソレは呼び鈴が鳴る前からヒトの姿をしていた。
-  Il était déjà sous forme humaine avant que le téléphone ne sonne.
+　Il était déjà sous forme humaine avant que le téléphone ne sonne.
 
 }
 [sha:103b3bde38512847743c962aa7a5c63349253b4e]{
 -- Page 240, Offset 21244.
 -- かつて、ひとりきりでいる時は狼の姿で微睡みに落ちていたが、今は違う。
-  Auparavant, il dormait sous sa forme de loup lorsqu'il était seul, mais ce n'était plus le cas.
+　Auparavant, il dormait sous sa forme de loup lorsqu'il était seul, mais ce n'était plus le cas.
 
 }
 [sha:e4330eaa563b99cd87ae1280096b1b95585bb43f]{
 -- Page 240, Offset 21245.
 -- ソレはそうである必要もないのに、ヒトのカタチを維持している。
-  Maintenant, il gardait forme humaine même lorsqu'il n'en avait pas l'utilité.
+　Maintenant, il gardait forme humaine même lorsqu'il n'en avait pas l'utilité.
 
 }
 [sha:6e2a02b23ca4f9a4cb61b51ec3be03dbf9ef5d66]{
 -- Page 240, Offset 21246.
 -- どのような心境の変化か、戦闘時以外はこちらの姿を“平常”に切り替えていた。
-  Une quelconque révélation l'avait poussé à utiliser cette apparence en dehors des combats.
+　Une quelconque révélation l'avait poussé à utiliser cette apparence en dehors des combats.
 
 }
 [sha:0889accad9b4dfafe74eb67b38408abbcf5832dc]{
@@ -4663,31 +4663,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:ed20cbd227549aa444b8df47ff81cf5688bbb3f3]{
 -- Page 241, Offset 21248.
 -- うん、そう、嫌味なんかじゃないって。狼はね、誇り高いんだよ。トーコさん以上の雇い主が見つかるまで、首輪はそっちに預けておきます」
-  Hum, non, ce n'est pas du sarcasme, je te dis ! Les loups ont une grande fierté. Tant que je n'aurai pas trouvé meilleur employeur, je te confie ma laisse.」
+　Hum, non, ce n'est pas du sarcasme, je te dis ! Les loups ont une grande fierté. Tant que je n'aurai pas trouvé meilleur employeur, je te confie ma laisse.」
 
 }
 [sha:4f4ba12893ea0390993dfe1e218830117ffdf006]{
 -- Page 242, Offset 21249.
 -- ふと、ソレは受話器の向こうの相手が、どこを旅しているのか気になった。
-  Il voulut soudainement savoir où voyageait la personne au bout du fil.
+　Il voulut soudainement savoir où voyageait la personne au bout du fil.
 
 }
 [sha:385c9ac4897c146cdb0515baec7354c29d3094c8]{
 -- Page 242, Offset 21250.
 -- 彼女は敗北を認め、使い魔との契約を<断|た>った。
-  Après avoir admis la défaite, elle avait abrogé le contrat avec son familier.
+　Après avoir admis la défaite, elle avait abrogé le contrat avec son familier.
 
 }
 [sha:bfa38bc6615b0508af4a50667fa9c914bfe13327]{
 -- Page 242, Offset 21251.
 -- 魔法の相手をさせてやる、という約束を違えたからだという。
-  La raison étant qu'elle n'avait pas respecté sa part du marché qui consistait à lui faire affronter la Vraie Magie.
+　La raison étant qu'elle n'avait pas respecté sa part du marché qui consistait à lui faire affronter la Vraie Magie.
 
 }
 [sha:8ef2e1cbc2a974f03b8852790ffd0271f037f177]{
 -- Page 242, Offset 21252.
 -- けれどそれは使い魔の落ち度であって彼女の責任ではない。護衛役としては、ソレはまだ仕事を果たしていないのだ。
-  Cependant, la faute incombait à son familier et non à elle. Il n'avait pas encore accompli son travail en tant que garde du corps.
+　Cependant, la faute incombait à son familier et non à elle. Il n'avait pas encore accompli son travail en tant que garde du corps.
 
 }
 [sha:4e4611a37d81593bcbf6a8dfb3a4694b96d74928]{
@@ -4699,13 +4699,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f132f09cf9ec7daaab1b4a694d879999364a67ad]{
 -- Page 243, Offset 21254.
 -- 受話器からは聞き慣れない国の名前。
-  Son interlocuteur prononça le nom d'un pays qui lui était inconnu.
+　Son interlocuteur prononça le nom d'un pays qui lui était inconnu.
 
 }
 [sha:83ee5d41072577e9fb5e76c2960c602aaf58fdf4]{
 -- Page 243, Offset 21255.
 -- 彼女は呪いの解呪手段を開発する為、早々に日本を発ったのだ。
-  Afin de mettre au point un moyen de dissiper la malédiction, elle avait rapidement quitté le Japon.
+　Afin de mettre au point un moyen de dissiper la malédiction, elle avait rapidement quitté le Japon.
 
 }
 [sha:9f9c8081c39dd51bd9a7820ca293ccf7dd12da81]{
@@ -4717,31 +4717,31 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:84cde9da1a6097549073296f28109d839801346f]{
 -- Page 244, Offset 21257.
 -- それって、まだ諦めてないってコトじゃん」
-  Ça prouve que tu n'as pas encore abandonné.」
+　Ça prouve que tu n'as pas encore abandonné.」
 
 }
 [sha:1afcc411a2742da618eefea99547016f9822933b]{
 -- Page 244, Offset 21258.
 -- まったくだ、と笑い声が返ってくる。
-  “En effet”, répondit-elle en riant.
+　“En effet”, répondit-elle en riant.
 
 }
 [sha:c3c0255c0fdde005e442645dfb87e733058fcfa6]{
 -- Page 244, Offset 21259.
 -- 受話器の向こうからは、なんとなく、熱帯の香りがした。
-  Il sentit comme une fragrance des tropiques à l'autre bout du combiné.
+　Il sentit comme une fragrance des tropiques à l'autre bout du combiné.
 
 }
 [sha:d89641298c8decf4659f42ce182f74ad5a12ced2]{
 -- Page 244, Offset 21260.
 -- それが蒼崎橙子お手製の電話機による神秘か、
-  Il n'aurait su dire s'il s'agissait d'une caractéristique du téléphone fabriqué par Aozaki Tōko,
+　Il n'aurait su dire s'il s'agissait d'une caractéristique du téléphone fabriqué par Aozaki Tōko,
 
 }
 [sha:ae455c06eca523637c91d4a2ded654ccc88a521b]{
 -- Page 244, Offset 21261.
 -- ソレ自身の超感覚によるものかは分からない。
-  ou bien si cette sensation lui était transmise par ses sens exceptionnels.
+　ou bien si cette sensation lui était transmise par ses sens exceptionnels.
 
 }
 [sha:ee96b341c8d09d1fc600485cb55821ad6d389256]{
@@ -4753,13 +4753,13 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:6ca8b6025247eb25b26f5f7a18de2c58b9dbc1b7]{
 -- Page 245, Offset 21263.
 -- なぜ？　と受話器から声がする。
-  “Pourquoi ?” demanda la voix depuis le combiné.
+　“Pourquoi ?” demanda la voix depuis le combiné.
 
 }
 [sha:5c4e433f07175cf0308b3f9ac3b9e60865a1324c]{
 -- Page 245, Offset 21264.
 -- 彼女の使い魔を続けると決めたのなら、この土地に残る道理はないのだから。
-  En effet, étant donné qu'il avait décidé de poursuivre son rôle de familier, il ne devait avoir aucune raison de rester au Japon.
+　En effet, étant donné qu'il avait décidé de poursuivre son rôle de familier, il ne devait avoir aucune raison de rester au Japon.
 
 }
 [sha:c264525d4a95e199e4b93670e2bd91cda1f607cd]{
@@ -4771,7 +4771,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:c1cbd728ab575445d71e23b5ea1f6cf1fb7defef]{
 -- Page 246, Offset 21266.
 -- ソレは言葉を詰まらせながら、胸に手をペタペタと当てて、以前味わった痛みを<反芻|はんすう>して、
-  Alors qu'il hésitait sur les mots à employer, il palpa sa poitrine et se remémora la douleur qui l'avait parcouru un mois auparavant.
+　Alors qu'il hésitait sur les mots à employer, il palpa sa poitrine et se remémora la douleur qui l'avait parcouru un mois auparavant.
 
 }
 [sha:64b98de01b0155a12b6e18d05dd1eafd684c565a]{
@@ -4783,18 +4783,18 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:7aff28d7db163d050ec24465d151eb3e6cabb72d]{
 -- Page 247, Offset 21268.
 -- ここにいれば甘いってどんなものか、分かるような気がするのです」
-  J'ai l'impression qu'en restant ici, je découvrirai ce que signifie la notion de “douceur”.」
+　J'ai l'impression qu'en restant ici, je découvrirai ce que signifie la notion de “douceur”.」
 
 }
 [sha:dc6d5793c341a3f794d2a967c3d2fa22da3c2af0]{
 -- Page 247, Offset 21269.
 -- 無駄を知った狼は、どことなく楽しそうな声で、今後の目的を口にした。
-  Le loup qui avait expérimenté les actes inutiles déclara son objectif d'une voix d'où perçait la gaieté.
+　Le loup qui avait expérimenté les actes inutiles déclara son objectif d'une voix d'où perçait la gaieté.
 
 }
 [sha:397dd4ee7edb9a5f55e350571cf8560feb23c8ba]{
 -- Page 247, Offset 21270.
 -- これもまた<初恋|はちみつ>に関する、極めて稀少な<事件|ケース>である。
-  C'était une affaire extrêmement rare, en rapport avec le miel.
+　C'était une affaire extrêmement rare, en rapport avec le miel.
 
 }

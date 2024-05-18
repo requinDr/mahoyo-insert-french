@@ -1,169 +1,169 @@
 [sha:def57650211ad98f1191b06cbb63b6286617de03]{
 -- Page 0, Offset 20373.
 -- この映画、字幕が出てないッスね。
-  Y a pas de sous-titres dans c'film.
+　　Y a pas de sous-titres dans c'film.
 
 }
 [sha:62f130bf9a517f6486fb9247147f779c1433d71a]{
 -- Page 0, Offset 20374.
 -- ジブン、ちゃんとセリフあるんスけどー。
-  Pourtant, j'suis sûr que j'ai des répliques.
+　　Pourtant, j'suis sûr que j'ai des répliques.
 
 }
 [sha:650955b6cfc4a582f186c026c5ace5d767262c64]{
 -- Page 1, Offset 20375.
 -- 知ってるわ。
-          Je sais.
+　　　　Je sais.
 
 }
 [sha:e4c23313a3e208a1aac55c872f0e69a20f27d7a9]{
 -- Page 1, Offset 20376.
 -- でも耳障りだったから、わたし権限で編集さんに
-          Mais comme tu étais trop bruyant, j'ai fait usage
+　　　　Mais comme tu étais trop bruyant, j'ai fait usage
 
 }
 [sha:bb844fba862385420054be2920c9e14fffd7f9b7]{
 -- Page 1, Offset 20377.
 -- 貴方の台詞だけカットしてもらったの。
-          de mon autorité pour ne couper que tes répliques.
+　　　　de mon autorité pour ne couper que tes répliques.
 
 }
 [sha:0f593b53116db2cb6d3f11e5356535f77dfdb234]{
 -- Page 2, Offset 20378.
 -- グレイト。もう何もかもアリスさん中心なんスね。
-        Great. Alors tout tourne autour de vous, hein ?
+　Great. Alors tout tourne autour de vous, hein ?
 
 }
 [sha:8ca3b4049d00674dc9c9679744ef9dad0855f864]{
 -- Page 2, Offset 20379.
 -- ジブンだけサイレント映画の気分ッス。
-        Je suis le seul à jouer comme dans un film muet.
+　Je suis le seul à jouer comme dans un film muet.
 
 }
 [sha:3364fbb28ae39c6be8b24eaf8e5fc51f6ef5c1e8]{
 -- Page 3, Offset 20380.
 -- 二体目ッスね。
-    C'est l'deuxième, pas vrai ?
+　　　　C'est l'deuxième, pas vrai ?
 
 }
 [sha:69786ed06ae3c4a86f17d6402130a815a6e2759f]{
 -- Page 4, Offset 20381.
 -- 二体目ね。
-    Le deuxième, oui.
+　Le deuxième, oui.
 
 }
 [sha:58260317c14b257a5ab402e69cae3668229d2044]{
 -- Page 4, Offset 20382.
 -- 誤解されそうだから言っておくと、スナークの本体は液体よ。
-    Pour éviter tout malentendu, laissez-moi préciser que le véritable corps de Snark est liquide.
+　Pour éviter tout malentendu, laissez-moi préciser que le véritable corps de Snark est liquide.
 
 }
 [sha:e51a3af6bf78e3fa564b56713ef738e6e380741b]{
 -- Page 5, Offset 20383.
 -- スナークの二つ名、月の油ッスね。
-    C'est vrai que son surnom, c'est l'Huile de la Lune.
+　C'est vrai que son surnom, c'est l'Huile de la Lune.
 
 }
 [sha:c41b541b0959fb24b54d7444e8b67b3ad175f2d4]{
 -- Page 5, Offset 20384.
 -- フラットスナークの名前は誰が付けたんスか？
-    Qui l'a baptisé Flat Snark ?
+　Qui l'a baptisé Flat Snark ?
 
 }
 [sha:46812fe23a326a93353e180da8e71ff80141638d]{
 -- Page 6, Offset 20385.
 -- アナタもよく知っている彼女だけど。
-    C'est la fille que tu connais aussi bien que moi.
+　C'est la fille que tu connais aussi bien que moi.
 
 }
 [sha:94760eb9ff4b1c3180716ef9d272d9931034396b]{
 -- Page 6, Offset 20386.
 -- わたし、彼女と仲良くなるまで、プロイに名前を
-    Parce que jusqu'à ce que je devienne amie avec elle,
+　Parce que jusqu'à ce que je devienne amie avec elle,
 
 }
 [sha:665229985d6a1df35786caf8eb44478624d49886]{
 -- Page 6, Offset 20387.
 -- つけていなかったから。
-    je n'avais donné aucun nom aux Ploy.
+　je n'avais donné aucun nom aux Ploy.
 
 }
 [sha:d0d60ecf0ad1b6a5964a8bc93b294660002e797e]{
 -- Page 7, Offset 20388.
 -- 強い順とか、思い入れがある順に、
-      En fonction de leur force ou de l'attachement que
+　　En fonction de leur force ou de l'attachement que
 
 }
 [sha:fcc48464cbd773d12c6e78d6dbface883d9878c2]{
 -- Page 7, Offset 20389.
 -- 一番、二番、と呼んでいただけだったの。
-      je leur portais, je ne les appelais que par ordre, 1er, 2e, etc.
+　　je leur portais, je ne les appelais que par ordre, 1er, 2e, etc.
 
 }
 [sha:f86457c29e065813923702c65d98182a381f9f6f]{
 -- Page 8, Offset 20390.
 -- 順番？　番号じゃなくて？
-  Par ordre ? Pas par numéro, plutôt ?
+　Par ordre ? Pas par numéro, plutôt ?
 
 }
 [sha:f9246c52c7c757fe2c1f338da13951602f9cbf96]{
 -- Page 8, Offset 20391.
 -- 名前をつけないぐうたら……
-  Vous n'donniez pas de nom par fainéantise...
+　Vous n'donniez pas de nom par fainéantise...
 
 }
 [sha:c64d5059daffefea5d0d6d3681f015bc17b3b985]{
 -- Page 8, Offset 20392.
 -- いや、シンプルさはアリスさんらしいッスけど、なんで順番？
-  par simplicité plutôt, mais pourquoi par ordre ?
+　par simplicité plutôt, mais pourquoi par ordre ?
 
 }
 [sha:0bc934df02d92a7ef9391b8f565a806952e154fa]{
 -- Page 9, Offset 20393.
 -- だって、番号を付けても混乱するだけでしょう？
-    Eh bien, des numéros auraient juste été source
+　Eh bien, des numéros auraient juste été source
 
 }
 [sha:982e76e286fa724582f6294ecfc47c48f74c60ce]{
 -- Page 9, Offset 20394.
 -- どれが強いか、どれが好きかなんて、日によって変わるのだし。
-    Et puis, leurs forces ou mes préférences changeaient quotidiennement.
+　Et puis, leurs forces ou mes préférences changeaient quotidiennement.
 
 }
 [sha:b7a2e21c8948855204d69a83ba314b8bcc8fd03a]{
 -- Page 10, Offset 20395.
 -- だから気持ち次第で、その日ごとに順番は違ったわ。
-    De fait, leur ordre était modifié en fonction
+De fait, leur ordre était modifié en fonction
 
 }
 [sha:8e2f8b734acc2c6ca4df784cc310512fe532d8a5]{
 -- Page 10, Offset 20396.
 -- 一番はディドルが鉄板。
-    de mon humeur. Diddle était toujours le premier.
+de mon humeur. Diddle était toujours le premier.
 
 }
 [sha:2b2489f558040ccfe23a588da4b5c6154a7f4b0a]{
 -- Page 10, Offset 20397.
 -- テムズはたいてい三番か四番だったわね。
-    Thames était en général troisième ou quatrième.
+Thames était en général troisième ou quatrième.
 
 }
 [sha:41002cea092f520f64a9a4ec04e14621d4e5214d]{
 -- Page 11, Offset 20398.
 -- ああ、思いだした。
-    Ah oui, ça me revient.
+　　Ah oui, ça me revient.
 
 }
 [sha:3c1a4f950f057a52c93a0f8f419d43b2aeb5d902]{
 -- Page 11, Offset 20399.
 -- 彼女とプロイで遊んでいる時、
-    Il s'est produit un incident
+　　Il s'est produit un incident
 
 }
 [sha:405519ff3b13be42b2e6702c57c327ef5a94f5f6]{
 -- Page 11, Offset 20400.
 -- それで困ったコトになって。
-    quand je jouais avec les Ploy et elle.
+　　quand je jouais avec les Ploy et elle.
 
 }
 [sha:568ef7821a5c338e20da2c3bd80c86e6a0bdb344]{
@@ -175,43 +175,43 @@
 [sha:4d67134f645010db478f3f5e9279db513ea446ab]{
 -- Page 12, Offset 20402. Mods: @z.
 -- だから六番のプロイを貸してちょうだい。
- Prête-moi le sixième Ploy.
+　Prête-moi le sixième Ploy.
 
 }
 [sha:3d1c814eb4021c0ca5b01ffb04a365d4790c48b0]{
 -- Page 12, Offset 20403. Mods: @z.
 -- ワタシ、おめかしして出迎えたいの！」
- Je veux me faire belle pour l'accueillir !」
+　Je veux me faire belle pour l'accueillir !」
 
 }
 [sha:db25217c3eeea4596cd4a641d9591e61b16b71bf]{
 -- Page 13, Offset 20404.
 -- そう言った彼女に、わたし、その日は気分的に
-        Conformément à sa demande,
+　Conformément à sa demande,
 
 }
 [sha:b861d6d819ee07b984d8a51dbb206918bdebdb66]{
 -- Page 13, Offset 20405.
 -- 「これは六番目」と決めていたプロイを貸したわ。
-        je lui ai prêté le Ploy que j'avais nommé “sixième” ce jour-là.
+　je lui ai prêté le Ploy que j'avais nommé “sixième” ce jour-là.
 
 }
 [sha:caf3654b53ff14f431548fb7bd95e5e004fe9a5d]{
 -- Page 14, Offset 20406.
 -- ……。
-      ......
+　　......
 
 }
 [sha:887444bbd0c7bf7ab42c72904c59a7ff4e322e36]{
 -- Page 14, Offset 20407.
 -- もうだいたい分かったッスけど、いちおう訊いておくッス。
-      J'imagine la suite, mais j'demande
+　J'imagine la suite, mais j'demande
 
 }
 [sha:174109175e237fe2307cb16e9843dbf51563d19b]{
 -- Page 14, Offset 20408.
 -- それはなんのプロイだったっスか？
-      au cas où. C'était quel Ploy ?
+　au cas où. C'était quel Ploy ?
 
 }
 [sha:87627c80f6452888a347a83005cc22dbb96b8302]{
@@ -229,37 +229,37 @@ le Goblin Freon, qui force à insulter et
 [sha:36dcccdd4e5ab9bc15df429df799965d0842eeb8]{
 -- Page 16, Offset 20411.
 -- ……………………。
-                    ........................
+　　　　........................
 
 }
 [sha:6aaf5945af80d4ae1f20a43c8052667bb4f108db]{
 -- Page 17, Offset 20412.
 -- その後、彼女はプロイに名前を付けるよう提案してきたわ。
-      Après ça, elle m'a proposé de donner
+　　Après ça, elle m'a proposé de donner
 
 }
 [sha:db6f917803e82415dc77e0afaa45bc2bd14613b5]{
 -- Page 17, Offset 20413.
 -- なぜか涙で赤くなった目で。
-      des noms aux Ploy. Avec les yeux boursouflés
+　　des noms aux Ploy. Avec les yeux boursouflés
 
 }
 [sha:0d0ab9213d5a03d5345df5aaae9b017e8f07a712]{
 -- Page 18, Offset 20414.
 -- 『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
-        『Celui-ci est Sweets Hearts. Lui Scripps Humpty. Celui-là Diddle Diddle. Et lui Flat Snark. Compris ? Appelle-les comme ça dorénavant.』
+『Celui-ci est Sweets Hearts. Lui Scripps Humpty. Celui-là Diddle Diddle. Et lui Flat Snark. Compris ? Appelle-les comme ça dorénavant.』
 
 }
 [sha:4b5833950bf44a1d7dcd975bb190dfcc93d15f14]{
 -- Page 19, Offset 20415.
 -- ……名は体を表すと言うでしょう？
-    ...... On dit que le nom représente le corps, vois-tu ?
+...... On dit que le nom représente le corps, vois-tu ?
 
 }
 [sha:0d4de2dca3e58b8de1842fad5f4a31fb5767a081]{
 -- Page 19, Offset 20416.
 -- わたし、そんな変換間違えのような名前より、その日の気分で分けた方が楽でいいと思ったのだけど、
-    Au lieu de ces noms stupides, je pensais que les classer selon mon humeur était plus simple, mais...
+Au lieu de ces noms stupides, je pensais que les classer selon mon humeur était plus simple, mais...
 
 }
 [sha:cb8816de6d3dd2f564adc5e19726e4390961d70b]{
@@ -277,103 +277,103 @@ le Goblin Freon, qui force à insulter et
 [sha:27e52ce2e6634575b9b81187e398332a01306cf6]{
 -- Page 22, Offset 20419.
 -- 『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
-  『Il faut leur donner un nom de toute façon, alors autant en profiter. C'est notre originalité à nous. Il faut être à la mode populaire, ce serait du gâchis sinon !』
+『Il faut leur donner un nom de toute façon, alors autant en profiter. C'est notre originalité à nous. Il faut être à la mode populaire, ce serait du gâchis sinon !』
 
 }
 [sha:7868b3abe1e7230d66a4af9ad6e25817478fad72]{
 -- Page 23, Offset 20420.
 -- それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
-  Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous les retenir, mais je ne me suis plus jamais trompée après ça.
+Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous les retenir, mais je ne me suis plus jamais trompée après ça.
 
 }
 [sha:94f4fdafe5e025487f2514f4738ecd09843773a6]{
 -- Page 24, Offset 20421.
 -- まさにコロンブスのタマゴね。
-  C'est ce qu'on appelle l'œuf de Colomb.
+　　C'est ce qu'on appelle l'œuf de Colomb.
 
 }
 [sha:d2378a0f0f403f8964eb67c56acaccb7f4297ad9]{
 -- Page 24, Offset 20422.
 -- なんていう発想の柔軟さ、斬新さかしら。
-  Quelle flexibilité d'inspiration, ou plutôt d'originalité.
+　　Quelle flexibilité d'inspiration, ou plutôt d'originalité.
 
 }
 [sha:4e819a9c708a1eda83054148a4f4d93d7afe53b0]{
 -- Page 24, Offset 20423.
 -- 時々思うのだけど、あの娘は天才ね。
-  De temps en temps, je me dis que cette fille est un génie.
+　　De temps en temps, je me dis que cette fille est un génie.
 
 }
 [sha:a3fe8ea84f0046ff568494ebde1fb3fa50ee2573]{
 -- Page 25, Offset 20424.
 -- そッスね。ジブンも思うんスけど、
-            Oui. Moi aussi, je me dis parfois
+　Oui. Moi aussi, je me dis parfois
 
 }
 [sha:b771b42d2db068d50cddd83e8a5a76c123726de7]{
 -- Page 25, Offset 20425.
 -- アリスさんって時々すごくヴァカァですよね。
-            que vous êtes vraiment idiote.
+　que vous êtes vraiment idiote.
 
 }
 [sha:077ec86ba521f55d9e3c01b02dc186aa27061947]{
 -- Page 26, Offset 20426.
 -- ……やられてしまったわね。
-                ...... Il s'est fait avoir.
+　　...... Il s'est fait avoir.
 
 }
 [sha:60457dacc9da61090e26e65b61266ed2d8b2fc66]{
 -- Page 27, Offset 20427.
 -- 油なだけによく燃えるッスねー。
- Il brûle bien pour de l'huile, hein ?
+Il brûle bien pour de l'huile, hein ?
 
 }
 [sha:823a7b9b04e605a0c91daa1c6b0c25ff399bb5d1]{
 -- Page 27, Offset 20428.
 -- スナークはどんなプロイなんスか？
- Snark est quel genre de Ploy ?
+Snark est quel genre de Ploy ?
 
 }
 [sha:4b2f4281e7108a7b2953c1cf81af965333fe60ef]{
 -- Page 28, Offset 20429.
 -- 本編でだいたいのあらましは語っているわ。
-    Les points essentiels sont mentionnés dans l'histoire
+　　Les points essentiels sont mentionnés dans l'histoire
 
 }
 [sha:3f6c8c6cb3cd3ccac9524ad2c36690b577061e4c]{
 -- Page 28, Offset 20430.
 -- 細かなデータは、
-    principale. Les données détaillées sont les suivantes :
+　　principale. Les données détaillées sont les suivantes :
 
 }
 [sha:bce9f5c2c18241b736b039f5fafc5f12d136b3e7]{
 -- Page 30, Offset 20431.
 -- うむ。
-    Hum.
+Hum.
 
 }
 [sha:64bc5212e58efe036e4c1a3ca4274d8ea0619208]{
 -- Page 30, Offset 20432.
 -- その貴重な油を、青子さんは燃やしてしまった、と。
-    Et cette huile précieuse, Mam'zelle Aoko
+Et cette huile précieuse, Mam'zelle Aoko
 
 }
 [sha:9706738bfeac5af894399859e87d99b5aa6b29ea]{
 -- Page 30, Offset 20433.
 -- これ、なんとか戻せないんスか？
-    l'a brûlée. On n'peut pas le restaurer ?
+l'a brûlée. On n'peut pas le restaurer ?
 
 }
 [sha:5b6ecb7f690106ee9a01f9572d1b4383ba38e068]{
 -- Page 31, Offset 20434.
 -- 残念ながら不可能よ。
-        Malheureusement, c'est impossible.
+Malheureusement, c'est impossible.
 
 }
 [sha:fddc27e5b1f7fe46b6edce7a5d9963273c5168d4]{
 -- Page 31, Offset 20435.
 -- この時代ではスナークを精製するコトはできない。
-        À notre époque, on ne peut pas raffiner Snark.
+À notre époque, on ne peut pas raffiner Snark.
 
 }
 [sha:c021b7c27c8d167a841fc1f1619b4325053ff62a]{
@@ -391,19 +391,19 @@ Ha ha, que c'est amusant de violer la culture !
 [sha:c1a2254fb25ca79e5de47f9730f67ad8a335ca0c]{
 -- Page 33, Offset 20438.
 -- しっかし、デオチに続いてスナークもこのザマとか！
-    Mais quand même, après le Négligent,
+Mais quand même, après le Négligent,
 
 }
 [sha:8c5de0558fec150db7faaf7f00353b702a89c742]{
 -- Page 33, Offset 20439.
 -- ギャハハ、何がグレートスリーッスか！
-    c'est Snark qui y passe ! Ha ha, les Great Three ?
+c'est Snark qui y passe ! Ha ha, les Great Three ?
 
 }
 [sha:18d1f0b7a167d9999d6e73cdf5b2b6b52dae8a44]{
 -- Page 33, Offset 20440.
 -- 甘え。グレートスリーは甘え。
-    Mon œil ! Ces Great Three sont trop faibles !
+Mon œil ! Ces Great Three sont trop faibles !
 
 }
 [sha:2ea375920c0e830a7b49bc2142eb8e70ef681bec]{
@@ -427,13 +427,13 @@ Je vais peut-être commander un poulet rôti.
 [sha:46de64a366aca0e00f72947ed74b2ad66af37997]{
 -- Page 36, Offset 20444.
 -- ………………。
-    ..................
+..................
 
 }
 [sha:8af2d5e96e480386ce812053a978103886426373]{
 -- Page 36, Offset 20445.
 -- 外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
-    Le menu ne comporte qu'des hot-dogs, du pop-corn et des frites.
+Le menu ne comporte qu'des hot-dogs, du pop-corn et des frites.
 
 }
 [sha:3cc9796ea2705a57d3f1b4757e6ab37dab8f9d4b]{
@@ -445,120 +445,120 @@ J'ai pour habitude de vérifier le menu au cinéma. Et puis, le poulet rôti a u
 [sha:f6aca58b90f750c412cc663c165432cd89c6b821]{
 -- Page 38, Offset 20447.
 -- 知っているわ。でも安心して。
-      Je le sais. Mais rassure-toi.
+　　　Je le sais. Mais rassure-toi.
 
 }
 [sha:8a91cbfc1636f17a901f5943d7f264ff575afd15]{
 -- Page 38, Offset 20448.
 -- わたし、お腹はすいていないから。
-      Je n'ai pas vraiment faim.
+　　　Je n'ai pas vraiment faim.
 
 }
 [sha:b9cc29548f21932664102fa385054aee7bce1a0a]{
 -- Page 38, Offset 20449.
 -- ただ油で揚げてもらうだけでいいの。
-      Le rôtir dans l'huile me suffira amplement.
+　　　Le rôtir dans l'huile me suffira amplement.
 
 }
 [sha:54b58cc31b2c529691bad34b27ebf1800e83c56e]{
 -- Page 39, Offset 20450.
 -- ハハハ。食事として、頼むワケでは、ないと。
-      Ha ha ha. Vous ne l'commandez donc pas pour le manger.
+　Ha ha ha. Vous ne l'commandez donc pas pour le manger.
 
 }
 [sha:076fe9f722f851454679410b910da8779ecadf43]{
 -- Page 40, Offset 20451.
 -- 高温で全身まんべんなく、毛先から毛穴までゆであがるのは初めてなんじゃないかしら。
-  Ne serait-ce pas la première fois que tu boues entièrement des plumes à la peau ?
+Ne serait-ce pas la première fois que tu boues entièrement des plumes à la peau ?
 
 }
 [sha:4c6f3ee91e79302074eaf57d3258f61aacd8ee39]{
 -- Page 40, Offset 20452.
 -- また一つ死因コレクションが増えたわね、ロビン。
-  Tu peux rajouter une mort de plus à ta collection, Robin.
+Tu peux rajouter une mort de plus à ta collection, Robin.
 
 }
 [sha:c16327d71630ef9addf1b8e31dd241b4c2a71ac6]{
 -- Page 41, Offset 20453.
 -- この世でいちばん増やしたくないレパートリー、
- C'est la liste de mes expériences que je voulais le moins voir s'allonger au monde. Aaaahーー!
+C'est la liste de mes expériences que je voulais le moins voir s'allonger au monde. Aaaahーー!
 
 }
 [sha:cb6c5c3b1ed3389b4d691db396f8e9c575b1117b]{
 -- Page 41, Offset 20454.
 -- あざーっスーーーー！　でも世界にはまだまだ未知の死因が隠れているッスよー！
- Mais ce monde regorge de bien d'autres façons de mourir !
+Mais ce monde regorge de bien d'autres façons de mourir !
 
 }
 [sha:4ab02b1670cee21db8425b7621cb50976214f48d]{
 -- Page 42, Offset 20455.
 -- ……映画はここまでのようね。
-  ...... Le film se finit là, apparemment.
+　...... Le film se finit là, apparemment.
 
 }
 [sha:64e15e9e4155d891693eecb424a82156ad5b10e7]{
 -- Page 42, Offset 20456.
 -- 同時上映のある劇場も、最近は減ってきたわね。
-  Les cinémas ne font plus de projections doubles depuis quelque temps.
+　Les cinémas ne font plus de projections doubles depuis quelque temps.
 
 }
 [sha:6143d935794ef3f3819cbaba4cbd20e5a43aadac]{
 -- Page 43, Offset 20457.
 -- 最後に三体目の紹介をしたかったけど、
-  J'aurais voulu vous présenter le troisième pour finir,
+　　J'aurais voulu vous présenter le troisième pour finir,
 
 }
 [sha:44af597e0fddd487024e79f1f4e38caeffdeebac]{
 -- Page 43, Offset 20458.
 -- それはまたの機会に。
-  mais ce sera pour une prochaine fois.
+　　mais ce sera pour une prochaine fois.
 
 }
 [sha:669de277999f67352084821a73aa7260bdfced0d]{
 -- Page 44, Offset 20459.
 -- 長かった本編を楽しんでくれた皆さん。
-          J'espère que vous avez pris plaisir à suivre
+　　J'espère que vous avez pris plaisir à suivre
 
 }
 [sha:a23eebffa60c276ecc061c11c2a7aa2f86988f19]{
 -- Page 44, Offset 20460.
 -- すぐ終わるようで、なかなか終わらなかった
-          la longue histoire principale, mais également
+　　la longue histoire principale, mais également
 
 }
 [sha:3ccd4740b3eeb2951f4436c45ea139a28930f2f6]{
 -- Page 44, Offset 20461.
 -- 番外編に付き合ってくれた皆さん。
-          la compilation bonus qui a aussi traîné en longueur.
+　　la compilation bonus qui a aussi traîné en longueur.
 
 }
 [sha:803c1e6baa4f1b2508663f44fe44dfbffcd500e4]{
 -- Page 45, Offset 20462.
 -- 「魔法使いの夜」は、これで一旦の終了となります。
-  “Mahou Tsukai no Yoru” est fini pour le moment.
+“Mahou Tsukai no Yoru” est fini pour le moment.
 
 }
 [sha:ea0af2637be49fbb1a34a0a2eed31f387d0c1e2e]{
 -- Page 45, Offset 20463.
 -- 続きはまた、いつかどこかで。
-  La suite arrivera un jour, quelque part, lorsque
+La suite arrivera un jour, quelque part, lorsque
 
 }
 [sha:8790e59544c5f787ec9e73fa1547d079432a9e75]{
 -- Page 45, Offset 20464.
 -- 旅する星がするりと落ちて、貴方の胸に輝く時に。
-  les étoiles filantes tomberont et scintilleront dans vos cœurs.
+les étoiles filantes tomberont et scintilleront dans vos cœurs.
 
 }
 [sha:9177f9f0532034f3c1bffd2c780e069a92c0d55e]{
 -- Page 46, Offset 20465.
 -- ―――それでは。
-          ―――Sur ce,
+　　―――Sur ce,
 
 }
 [sha:6b2d76ae1a1d6c4725bb9a30cfb6e6b3217d4d9b]{
 -- Page 46, Offset 20466.
 -- 長らくのご視聴、ありがとうございました。
-          merci de nous avoir suivis jusqu'au bout.
+　　merci de nous avoir suivis jusqu'au bout.
 
 }

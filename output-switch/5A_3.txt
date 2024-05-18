@@ -1,114 +1,114 @@
 [sha:13a2a1756a0e8e332c1e03109385c135c1045fe0]{
 -- Page 0, Offset 4615.
 -- ……長らく入園者のいない夢の<廃墟|あと>に、<彼|ソ><女|レ>は力なく、亡霊のような静けさで足を踏み入れた。
-  ...... Elle pénétra nonchalamment et dans un silence spectral les vestiges d'un rêve qui n'avait pas reçu de visiteurs depuis une éternité.
+　...... Elle pénétra nonchalamment et dans un silence spectral les vestiges d'un rêve qui n'avait pas reçu de visiteurs depuis une éternité.
 
 }
 [sha:815392644a14a87877bc92b56fd6454516b00ae3]{
 -- Page 0, Offset 4616.
 -- 今夜は無風で、周囲は無人。
-  Cette soirée était paisible, et les alentours déserts.
+　Cette soirée était paisible, et les alentours déserts.
 
 }
 [sha:e13c9bda08103ad64047b72f2a01be75734596ba]{
 -- Page 0, Offset 4617.
 -- それなのに響いてくる雑音に、<彼|ソ><女|レ>はにんまりと、手を合わせて微笑んだ。
-  Et pourtant, des bruits retentissaient. À leur écoute, elle rapprocha ses mains et sourit avec délectation.
+　Et pourtant, des bruits retentissaient. À leur écoute, elle rapprocha ses mains et sourit avec délectation.
 
 }
 [sha:3a1a313382cdc56a8f9b0a531439f83373d13968]{
 -- Page 1, Offset 4618.
 -- 可愛らしく合わされた<手|カタチ>は、チューリップの蕾のようだ。
-  Ses mains jointes avec élégance rappelaient un bourgeon de tulipe.
+　Ses mains jointes avec élégance rappelaient un bourgeon de tulipe.
 　　
 }
 [sha:d728ff96889fee4fedb18cda619bc220e91c868e]{
 -- Page 1, Offset 4619.
 -- <入|ゲ><り|ー><口|ト>横の係員室の<曇|くも>った鏡に、造花の仕草が映し出される。
-  Les mouvements de cette fleur factice se reflétaient dans le miroir terni de la salle du personnel près de l'entrée.
+　Les mouvements de cette fleur factice se reflétaient dans le miroir terni de la salle du personnel près de l'entrée.
 
 }
 [sha:49cb857b2f9d9a65a4155b28964b688df3c3792c]{
 -- Page 1, Offset 4620.
 -- その横には、錆びに錆びた掲示板。
-  Juste à côté se trouvait un panneau d'affichage rouillé.
+　Juste à côté se trouvait un panneau d'affichage rouillé.
 
 }
 [sha:6b92d8bfff932baf2d6ae93d03cbb2391bced68d]{
 -- Page 2, Offset 4621.
 -- 『今日の入園者数：　　２人
-                              『Nombre de visiteurs de la journée : 2.
+　　　　　『Nombre de visiteurs de la journée : 2.
 
 }
 [sha:14efb837d76c2248dd85bc125234e4268ff23270]{
 -- Page 2, Offset 4622.
 -- 今日の××××：　　　件』
-                              xxxx aujourd'hui : ... cas.』
+　　　　　　xxxx aujourd'hui : ... cas.』
 
 }
 [sha:14efb837d76c2248dd85bc125234e4268ff23270]{
 -- Page 2, Offset 4623.
 -- 今日の××××：　　　件』
-                              xxxx aujourd'hui : ... cas.』
+　　　　　　xxxx aujourd'hui : ... cas.』
 
 }
 [sha:d2c4a410a7bedb0b49d99b3c99119a7ee9150b45]{
 -- Page 3, Offset 4624.
 -- 風蝕にさらされた掲示板には心ない落書きが一つ。
-  Sur le panneau d'affichage exposé à l'usure était inscrit un gribouillage ignoble.
+　Sur le panneau d'affichage exposé à l'usure était inscrit un gribouillage ignoble.
 
 }
 [sha:55f9ce3967b962d36abb6969e466c83beafc69e2]{
 -- Page 3, Offset 4625.
 -- 今日の××××数は、死亡事故、という単語に書き換えられていた。
-  Les caractères xxxx avaient été remplacés par l'expression : accident mortel.
+　Les caractères xxxx avaient été remplacés par l'expression : accident mortel.
 
 }
 [sha:d0839a370ec1d2fc0a6f444505104aed9fd08e28]{
 -- Page 3, Offset 4626.
 -- もう使われるコトのない記録表。
-  Un panneau d'enregistrement qui ne serait plus jamais utilisé.
+　Un panneau d'enregistrement qui ne serait plus jamais utilisé.
 
 }
 [sha:e154b21a9a5591099004bab92e4a3db49b33b97e]{
 -- Page 3, Offset 4627.
 -- それが何であるかたっぷり十秒ほど考えて、<彼|ソ><女|レ>は新たな数字を付け足した。
-  Après avoir réfléchi posément pendant dix secondes à ce que cela signifiait, elle modifia les chiffres inscrits.
+　Après avoir réfléchi posément pendant dix secondes à ce que cela signifiait, elle modifia les chiffres inscrits.
 
 }
 [sha:ac3b740ac1881727b65383ffd3e8bcc13496504b]{
 -- Page 4, Offset 4628. Mods: @n.
 -- 『今日の入園者数：　　３人
-                                『Nombre de visiteurs de la journée : 3.
+　　　　　　『Nombre de visiteurs de la journée : 3.
 
 }
 [sha:3c1ce15b24d161c00b0a0a0c7cc933dfa10b08db]{
 -- Page 4, Offset 4629. Glued. Mods: @n.
 -- 今日の死亡事故：　　１件』
-                                Accident mortel aujourd'hui : 1 cas.』
+　　　　　　　Accident mortel aujourd'hui : 1 cas.』
 
 }
 [sha:1954da4be09458b9667497bea8e77ab0dc0355c2]{
 -- Page 5, Offset 4630.
 -- 人差し指で数字を付け足して、彼女は花のように微笑む。
-  Après avoir rajouté le chiffre avec son index, elle sourit avec grâce.
+　Après avoir rajouté le chiffre avec son index, elle sourit avec grâce.
 
 }
 [sha:a4342d725ad52d32182b64eb238d4bb131099680]{
 -- Page 5, Offset 4631.
 -- ……は、音に向かって歩きだす。
-  ...... Elle commença à marcher en direction des bruits.
+　...... Elle commença à marcher en direction des bruits.
 
 }
 [sha:548f828506212d5a8588e3737955e26197cb6d1e]{
 -- Page 5, Offset 4632.
 -- ミラーハウスから狂詩曲じみた雑音が<響|ひび>きだしてから、はや十分。
-  Cela faisait près de dix minutes qu'ils retentissaient telle une rhapsodie depuis le palais des glaces.
+　Cela faisait près de dix minutes qu'ils retentissaient telle une rhapsodie depuis le palais des glaces.
 
 }
 [sha:b836e6fe8ea0de746b0c224b92ca9ebbec429bb5]{
 -- Page 5, Offset 4633.
 -- 遊園地の入り口は、ずっと無人のままだった。
-  L'entrée du parc d'attractions était restée tout ce temps déserte.
+　L'entrée du parc d'attractions était restée tout ce temps déserte.
 
 }

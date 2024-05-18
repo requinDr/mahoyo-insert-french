@@ -1,13 +1,13 @@
 [sha:1c2fbb0f7133f721827c67652809bb939e9181b0]{
 -- Page 0, Offset 18832.
 -- それから六日が経って、天気は晴れて。
-  Six jours plus tard, le temps était en légère amélioration.
+　Six jours plus tard, le temps était en légère amélioration.
 
 }
 [sha:93b64dbb75ae56f6cf7936ba138ce7ef66589719]{
 -- Page 1, Offset 18833.
 -- 彼がその話を聞いたのは、一日かけての大掃除が終わって、有珠と一服している時。
-  Sōjūrō fut mis au courant alors qu'il se reposait avec Alice après une journée de grand nettoyage.
+　Sōjūrō fut mis au courant alors qu'il se reposait avec Alice après une journée de grand nettoyage.
 
 }
 [sha:3d28d2da15f239f56390fbc78769f4d8811d7f1a]{
@@ -19,25 +19,25 @@
 [sha:103543c20a65899f5190575ca326c56877e9e99c]{
 -- Page 1, Offset 18835.
 -- 居間に入ってくるなり、青子はいつもの調子でそう言った。
-  demanda Aoko sur son ton habituel, dès son entrée dans le salon.
+　demanda Aoko sur son ton habituel, dès son entrée dans le salon.
 
 }
 [sha:3505a2a84fe5a24181504117685e4f7b07e62ff0]{
 -- Page 2, Offset 18836.
 -- 夜もふけて、時刻は九時になろうとしている。
-  La nuit était avancée. Il serait bientôt neuf heures.
+　La nuit était avancée. Il serait bientôt neuf heures.
 
 }
 [sha:7294a4643b132e91be54242d42b8b510381cb586]{
 -- Page 2, Offset 18837.
 -- 昼間の晴天から一変して、窓の外は厚い雲。
-  Le ciel était couvert d'épais nuages, tout l'inverse du beau temps qui avait régné toute la journée.
+　Le ciel était couvert d'épais nuages, tout l'inverse du beau temps qui avait régné toute la journée.
 
 }
 [sha:b4952f0c5e82be4de4a56360cc52f6c80d716905]{
 -- Page 2, Offset 18838.
 -- それをのんびり眺めていた草十郎は、うん？と平和そうに首をかしげた。
-  “Hum ?” fit paisiblement Sōjūrō en penchant la tête pendant sa contemplation du paysage.
+　“Hum ?” fit paisiblement Sōjūrō en penchant la tête pendant sa contemplation du paysage.
 
 }
 [sha:b40f6c4d0c741e5712b96cc2a8193b5f745c270c]{
@@ -55,19 +55,19 @@
 [sha:48b018186129d84cbae34674e35dfd50d1285a7d]{
 -- Page 3, Offset 18841.
 -- 緩みきった草十郎の表情は、青子の登場でとたんに曇ってしまう。
-  L'expression détendue de Sōjūrō s'assombrit avec l'entrée en scène d'Aoko.
+　L'expression détendue de Sōjūrō s'assombrit avec l'entrée en scène d'Aoko.
 
 }
 [sha:97cdc7a94dbb2203dcc8c686c2927624033a542f]{
 -- Page 3, Offset 18842.
 -- 今の台詞が自分にどう関係するのか掴めず、草十郎は正面に座っている有珠をちらりと盗み見た。
-  Comme il ne voyait pas en quoi son retour chez elle le concernait, il lança un coup d'œil à Alice assise en face de lui.
+　Comme il ne voyait pas en quoi son retour chez elle le concernait, il lança un coup d'œil à Alice assise en face de lui.
 
 }
 [sha:4103a8587e1600e1d96651d627d886634da66ba5]{
 -- Page 4, Offset 18843.
 -- 有珠にとっても今の台詞は意外だったらしく、わずかに目を開かせて、青子と草十郎を<見比|みくら>べている。
-  Cette dernière semblait tout autant étonnée que lui par cette demande, car elle avait légèrement écarquillé les yeux et regardait tour à tour Aoko et le jeune homme.
+　Cette dernière semblait tout autant étonnée que lui par cette demande, car elle avait légèrement écarquillé les yeux et regardait tour à tour Aoko et le jeune homme.
 
 }
 [sha:20de010e8357b607ff8d13259f0abfff05ab4e7f]{
@@ -79,7 +79,7 @@
 [sha:5b35268c0d4f7f2e14c61429b2a539058c6bc8eb]{
 -- Page 5, Offset 18845.
 -- 大掃除が終わるまで行方を<暗|くら>ましていた青子への批難をぐっと<堪|こら>えて、草十郎は恐る恐る聞き返す。
-  Sōjūrō refoula fermement les reproches qu'il voulait lui adresser pour s'être éclipsée pendant tout le nettoyage et posa la question avec appréhension.
+　Sōjūrō refoula fermement les reproches qu'il voulait lui adresser pour s'être éclipsée pendant tout le nettoyage et posa la question avec appréhension.
 
 }
 [sha:f52dafb8b41d78fa7c8c76880588d645dc2402b2]{
@@ -91,13 +91,13 @@
 [sha:bad1d0087f5fd0b1317c8182ff52cc93ea83542b]{
 -- Page 6, Offset 18847.
 -- 草十郎はますます顔を曇らせる。
-  Sōjūrō se rembrunissait de plus en plus.
+　Sōjūrō se rembrunissait de plus en plus.
 
 }
 [sha:b2c4c2a39f0cb77a232060ffb9973d555e362321]{
 -- Page 6, Offset 18848.
 -- 今の言い回しだと、まるで―――
-  Vu la façon dont elle formulait sa phrase, c'était comme si―――
+　Vu la façon dont elle formulait sa phrase, c'était comme si―――
 
 }
 [sha:1698ce9a407221d4fccb094d8296c98e9179155e]{
@@ -109,13 +109,13 @@
 [sha:56fad471f9e028cb8ab41eb807d2986dfec893cd]{
 -- Page 6, Offset 18850.
 -- 草十郎が口にするより早く、有珠が青子に問いかけた。
-  Alice fut plus prompte que Sōjūrō à poser la question.
+　Alice fut plus prompte que Sōjūrō à poser la question.
 
 }
 [sha:72fdf92bba136b65ca9ea592ab23e3df8d492baf]{
 -- Page 6, Offset 18851.
 -- それにいけない？　と青子は言い返す。
-  “Je ne devrais pas ?” répliqua Aoko.
+　“Je ne devrais pas ?” répliqua Aoko.
 
 }
 [sha:cd668d9e2bd2d368e679e84c3591e87dcfbb1ea9]{
@@ -127,7 +127,7 @@
 [sha:03716d29c8762e547231c2f29788ac67b847e885]{
 -- Page 7, Offset 18853.
 -- けど今日ぐらいは顔を出せってうるさいから、ホントに顔だけ見せにいくの。
-  Mes parents m'ont bourré le crâne pour que j'aille les voir au moins aujourd'hui, alors j'y fais un saut et je reviens vite fait.
+　Mes parents m'ont bourré le crâne pour que j'aille les voir au moins aujourd'hui, alors j'y fais un saut et je reviens vite fait.
 
 }
 [sha:93bb6785ecc3043351bdf91976398e5b3f1dc45f]{
@@ -139,25 +139,25 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:21e4a1b227f1b345558007fb68c1e0509a153d99]{
 -- Page 8, Offset 18855.
 -- 文句ないでしょ？　と胸を張って主張する。
-  “Tu n'as aucune objection, n'est-ce pas ?” affirma-t-elle en gonflant la poitrine.
+　“Tu n'as aucune objection, n'est-ce pas ?” affirma-t-elle en gonflant la poitrine.
 
 }
 [sha:272f782c2a314f566ed97d86c35305c0b85c69aa]{
 -- Page 8, Offset 18856.
 -- 有珠はどこかうかない顔をして青子を見る。
-  Alice fixait sombrement Aoko.
+　Alice fixait sombrement Aoko.
 
 }
 [sha:fe60acc9a19aeb6a4ba1cce450ade1e668b92c24]{
 -- Page 8, Offset 18857.
 -- 草十郎も露骨にイヤそうな顔をして青子を見る。
-  Sōjūrō regardait également la jeune fille, d'un air franchement récalcitrant.
+　Sōjūrō regardait également la jeune fille, d'un air franchement récalcitrant.
 
 }
 [sha:4d54801455b1ecf2cb4d6254abe9676206c0a0e2]{
 -- Page 8, Offset 18858.
 -- そんなふたりの無言の抗議は、もちろん、青子にはまったく通じなかった。
-  Évidemment, leur protestation silencieuse n'eut aucun effet sur elle.
+　Évidemment, leur protestation silencieuse n'eut aucun effet sur elle.
 
 }
 [sha:64b2a62f6c23d68f583fdbf85de4cc9517a5d137]{
@@ -169,13 +169,13 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:a0781e592ee26577f010397a091ef999003900cf]{
 -- Page 9, Offset 18860.
 -- 言いたい事だけ言って、青子は居間から姿を消した。
-  Aoko quitta le salon après avoir fait part de ce qu'elle avait décidé.
+　Aoko quitta le salon après avoir fait part de ce qu'elle avait décidé.
 
 }
 [sha:e1726aac442cc0735f4c0a2e6c0afeeabeb31e02]{
 -- Page 9, Offset 18861.
 -- 残ったふたりは呆然とするばかりだ。
-  Les deux jeunes gens restaient interdits.
+　Les deux jeunes gens restaient interdits.
 
 }
 [sha:5e17afac56e7aadf2048eb042086225b9d92b141]{
@@ -187,7 +187,7 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:163095073c474a91bd0444e7b8975789a96d2ddb]{
 -- Page 10, Offset 18863.
 -- 九時半まであと十分ほどの時計を見つめながら、草十郎は問いかけた。
-  demanda Sōjūrō en regardant l'horloge. Il restait environ dix minutes avant vingt-et-une heures trente.
+　demanda Sōjūrō en regardant l'horloge. Il restait environ dix minutes avant vingt-et-une heures trente.
 
 }
 [sha:a98e133e59a5d545791e9d380ccd0c01f26140e9]{
@@ -199,13 +199,13 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:107b86f69a9cd873619d3b3d8ca3cb9bb4869cf4]{
 -- Page 11, Offset 18865.
 -- ……貴方の住んでいたところに比べれば丘でしょうけど」
-  ...... Enfin, ce serait plutôt une colline, si on doit la comparer à l'endroit où tu vivais.」
+　...... Enfin, ce serait plutôt une colline, si on doit la comparer à l'endroit où tu vivais.」
 
 }
 [sha:0aa0e1035db2c3155e126e36723d8a59c07dc81b]{
 -- Page 11, Offset 18866.
 -- 表情こそ変わらないものの、有珠の声は思いっきり不機嫌そうだった。……本人がそうと気付いていないところが、いっそうのご機嫌斜めぶりを<示|しめ>している。
-  Son expression n'avait pas changé, mais le mécontentement se ressentait clairement dans la voix d'Alice...... Elle était d'autant plus de mauvaise humeur qu'elle ne s'en rendait pas compte elle-même.
+　Son expression n'avait pas changé, mais le mécontentement se ressentait clairement dans la voix d'Alice...... Elle était d'autant plus de mauvaise humeur qu'elle ne s'en rendait pas compte elle-même.
 
 }
 [sha:28c25324db68c5c9fd1b3fd2d05fd94c9ce80b21]{
@@ -223,13 +223,13 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:4b2fbd69046ea03b13fa0fa049cb6d53fdd8aca4]{
 -- Page 12, Offset 18869.
 -- 草十郎の独り言に、有珠も独り言で反応した。
-  Au monologue de Sōjūrō, Alice répondit par un autre monologue.
+　Au monologue de Sōjūrō, Alice répondit par un autre monologue.
 
 }
 [sha:62b8eb45d2b6416a118768b30457fbacd342a302]{
 -- Page 12, Offset 18870.
 -- これから旅立つ人間に、思いっきり不吉な予言をするように。
-  Sa déclaration évoquait un mauvais présage annoncé à un voyageur sur le départ.
+　Sa déclaration évoquait un mauvais présage annoncé à un voyageur sur le départ.
 
 }
 [sha:a61c7b81243970765ba028c51d9b53726e154300]{
@@ -241,13 +241,13 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:580ed208292498dbe682a371c0c9bebc4cebe009]{
 -- Page 13, Offset 18872.
 -- 草十郎の問いに有珠は答えない。
-  Alice ne répondit pas à la question du jeune homme.
+　Alice ne répondit pas à la question du jeune homme.
 
 }
 [sha:5d57e1a3906975f8cede67ea2ef9e7ccad69d6ee]{
 -- Page 13, Offset 18873.
 -- ティーカップから視線を上げ、無言で草十郎を眺めるだけだった。
-  Elle leva simplement les yeux de sa tasse et fixa Sōjūrō sans mot dire.
+　Elle leva simplement les yeux de sa tasse et fixa Sōjūrō sans mot dire.
 
 }
 [sha:acf16b7253da5247734cf97f6985046b3368e504]{
@@ -259,19 +259,19 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:40fdf82bf649494504196eb1d4a30db29cb0a219]{
 -- Page 14, Offset 18875.
 -- どこか様子のおかしい彼女に呼びかけると、有珠はふい、と顔を背けてしまった。
-  Alice détourna subitement le regard quand il l'interrogea, intrigué par son comportement étrange.
+　Alice détourna subitement le regard quand il l'interrogea, intrigué par son comportement étrange.
 
 }
 [sha:170db8ec1bd61bb4697bca02acd8271bfc22bbcb]{
 -- Page 14, Offset 18876.
 -- ……時計は、もうじき半になろうとしている。
-  ...... L'horloge pointerait bientôt la demie.
+　...... L'horloge pointerait bientôt la demie.
 
 }
 [sha:9e2c26141a189231b79e93ad9cbc329a2139796c]{
 -- Page 14, Offset 18877.
 -- 有珠の様子は気がかりだが、草十郎は仕方なくソファーから立ち上がった。
-  Même si l'attitude d'Alice l'inquiétait, Sōjūrō se leva malgré lui.
+　Même si l'attitude d'Alice l'inquiétait, Sōjūrō se leva malgré lui.
 
 }
 [sha:e0f0cc5dce3bf32ab9fc52c376d18aab2c5cfae5]{
@@ -283,31 +283,31 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:e2a4b335ddf32a7d03b6132c7182550f42535503]{
 -- Page 15, Offset 18879.
 -- トコトコと居間を横切る草十郎。
-  Sōjūrō traversa le salon à petits pas vifs.
+　Sōjūrō traversa le salon à petits pas vifs.
 
 }
 [sha:44fbc0762efe1a8b5434f3b6d3815b55fb417bbd]{
 -- Page 15, Offset 18880.
 -- その背中を、有珠はいつまでも見つめ続けた。
-  Alice le regarda jusqu'à ce qu'il ait disparu.
+　Alice le regarda jusqu'à ce qu'il ait disparu.
 
 }
 [sha:2b870d8c160b633442a9b354999d48aaaa4bee67]{
 -- Page 16, Offset 18881.
 -- 草十郎が部屋に戻って外行きに着替え、ロビーまで下りた時、青子はとっくに準備を済ませて待っていた。
-  Lorsque Sōjūrō redescendit dans le vestibule après être allé se changer dans sa chambre, Aoko l'y attendait déjà, prête depuis longtemps.
+　Lorsque Sōjūrō redescendit dans le vestibule après être allé se changer dans sa chambre, Aoko l'y attendait déjà, prête depuis longtemps.
 
 }
 [sha:5cde8adb735f05ad952a78ddaaccc5ab8ed87811]{
 -- Page 16, Offset 18882.
 -- 青子の横には有珠がいて、何やら話しこんでいる。
-  À ses côtés se trouvait Alice avec qui elle semblait être en pleine conversation.
+　À ses côtés se trouvait Alice avec qui elle semblait être en pleine conversation.
 
 }
 [sha:6881903edc6273164155feaa34e34112b5441edc]{
 -- Page 16, Offset 18883.
 -- 草十郎が階段を下りきると、青子はよし、と調子をとるように会話を切った。
-  “Bien”, coupa Aoko lorsque Sōjūrō apparut dans les escaliers, comme pour se motiver.
+　“Bien”, coupa Aoko lorsque Sōjūrō apparut dans les escaliers, comme pour se motiver.
 
 }
 [sha:21a77aabc9bbbe753e880b566f88f170af18d302]{
@@ -319,19 +319,19 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:29a500b8771520ae441174342561508fe6c707ca]{
 -- Page 17, Offset 18885.
 -- 有珠は頷きだけで応えた。
-  Alice répondit par un simple hochement de tête.
+　Alice répondit par un simple hochement de tête.
 
 }
 [sha:c8d21989ebeed97125bff0adbeee02c5feb66fc2]{
 -- Page 17, Offset 18886.
 -- 青子はつかつかと玄関へ歩いていく。
-  Aoko se dirigea vers l'entrée d'un air pressé.
+　Aoko se dirigea vers l'entrée d'un air pressé.
 
 }
 [sha:a29adc18ed6d3f5d7e0ddd51b491ca678f0dc6de]{
 -- Page 17, Offset 18887.
 -- 草十郎はロビーでコートを羽織りつつ、青子の後を追うように歩きだした。
-  Sōjūrō lui emboîta le pas tout en enfilant son manteau dans le vestibule.
+　Sōjūrō lui emboîta le pas tout en enfilant son manteau dans le vestibule.
 
 }
 [sha:7d3e54ca9a9c16cdeabf82276e1f803fdff78b0b]{
@@ -343,13 +343,13 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:1815d9e3cc755d0e28dc624228db4fde012a2330]{
 -- Page 18, Offset 18889.
 -- 青子の呼びかけに足を速める草十郎だったが、何を思ったか唐突に立ち止まった。
-  Le jeune homme lui obéit et accéléra la cadence avant de s'arrêter soudainement, une idée en tête.
+　Le jeune homme lui obéit et accéléra la cadence avant de s'arrêter soudainement, une idée en tête.
 
 }
 [sha:d7d8cad1c1453d8c61ae467c419c9ddb489dbd02]{
 -- Page 18, Offset 18890.
 -- そういえば部屋のストーブがつけっぱなしだったな、なんて素振りで、ひとり<佇|たたず>む有珠へと振り返る。
-  Il se retourna dans un geste tout naturel vers Alice qui n'avait pas bougé. On aurait pu croire qu'il voulait lui dire que le chauffage du salon était resté allumé.
+　Il se retourna dans un geste tout naturel vers Alice qui n'avait pas bougé. On aurait pu croire qu'il voulait lui dire que le chauffage du salon était resté allumé.
 
 }
 [sha:0b43dd5df536ba3d47dadbaf58d883f2b07890be]{
@@ -361,30 +361,30 @@ Par contre, j'emmène Sōjūrō simplement pour tuer le temps.」
 [sha:ddab1fa6f7ac1de4dffdb3eac678ef005b9b62d9]{
 -- Page 20, Offset 18892.
 -- 突然の言いつけに、有珠は不意をつかれたように<瞬|またた>きをした。
-  Surprise par ces soudaines directives, Alice cligna des yeux.
+　Surprise par ces soudaines directives, Alice cligna des yeux.
 
 }
 [sha:97f378ecb7efb4e857685bd2641e20a638f057a7]{
 -- Page 20, Offset 18893.
 -- 草十郎は返事を待っていて、
-  Sōjūrō attendait une réponse,
+　Sōjūrō attendait une réponse,
 
 }
 [sha:833a64ce26722f6620edd63f0d030cfc3e24ca80]{
 -- Page 20, Offset 18894.
 -- 青子は腕を組んでふたりのやりとりを眺めている。
-  et Aoko observait leur échange les bras croisés.
+　et Aoko observait leur échange les bras croisés.
 
 }
 [sha:8f66a5ea6e5b45dc7bda86b4c5fc123a5f262548]{
 -- Page 21, Offset 18895.
 -- ……それに少し戸惑ってから、有珠は無言で居間へと行ってしまった。
-  ...... Légèrement déconcertée, Alice se dirigea sans un mot vers le salon,
+　...... Légèrement déconcertée, Alice se dirigea sans un mot vers le salon,
 
 }
 [sha:0045ef2a4ebca59f8ab4fea599a55d73da4ca12e]{
 -- Page 21, Offset 18896.
 -- どうでもいい草十郎の言葉に、こくんと<控|ひか>え目にうなずいてから。
-  mais elle n'oublia pas pour autant d'acquiescer discrètement à la demande futile de Sōjūrō.
+　mais elle n'oublia pas pour autant d'acquiescer discrètement à la demande futile de Sōjūrō.
 
 }

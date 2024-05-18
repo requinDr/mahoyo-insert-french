@@ -7,13 +7,13 @@
 [sha:0346be4231eb96d5efa430d9091f3be0a59e0224]{
 -- Page 0, Offset 11363.
 -- 体育館倉庫の鍵、職員室に返してきました」
-  J'ai remis la clef de la remise du gymnase dans la salle des professeurs.」
+　J'ai remis la clef de la remise du gymnase dans la salle des professeurs.」
 
 }
 [sha:748aac54dfde60638dd00225f2286e08670bac74]{
 -- Page 0, Offset 11364.
 -- <久万梨|くまり><金鹿|こじか>が第二生徒会室に入ると、室内にいるのは蒼崎青子だけだった。
-  Lorsque Kumari Kojika pénétra dans la deuxième salle du conseil étudiant, elle n'y trouva qu'Aozaki Aoko.
+　Lorsque Kumari Kojika pénétra dans la deuxième salle du conseil étudiant, elle n'y trouva qu'Aozaki Aoko.
 
 }
 [sha:588e408b05a897c32b278da5e9433a350b3307f9]{
@@ -25,19 +25,19 @@
 [sha:4f66a40b96c0b2339c50b1bb8a8f86b87aeee027]{
 -- Page 1, Offset 11366.
 -- もうちょっとでバイト終わるから、そこ座ってて」
-  J'ai bientôt fini mon travail. Assieds-toi donc là pendant ce temps.」
+　J'ai bientôt fini mon travail. Assieds-toi donc là pendant ce temps.」
 
 }
 [sha:8c7a2729538a9027ea6ea4e2d18521f0583bfac4]{
 -- Page 1, Offset 11367.
 -- 青子は長テーブルに陣取って、大量の教科書に囲まれながら、スラスラとリズムよくボールペンを走らせていた。
-  Aoko était installée sur la longue table, entourée d'un tas de manuels, et faisait courir son stylo-bille à un rythme soutenu.
+　Aoko était installée sur la longue table, entourée d'un tas de manuels, et faisait courir son stylo-bille à un rythme soutenu.
 
 }
 [sha:5efea90bf0a315ed36ff82ebce9eebedfcf27287]{
 -- Page 1, Offset 11368.
 -- 机上にあるのは学校指定のノートではなく、こじゃれたレポート用紙である。
-  Il ne s'agissait pas de cahiers scolaires, mais de livrets soigneusement rédigés.
+　Il ne s'agissait pas de cahiers scolaires, mais de livrets soigneusement rédigés.
 
 }
 [sha:21e534f302a49cef417b31f857af3110d0994cfb]{
@@ -49,7 +49,7 @@
 [sha:371d927c33a0a8f565bfe37c33e946030570de30]{
 -- Page 2, Offset 11370.
 -- どっちにしても真面目なこと。冬休み、始まったばかりなのに。そりゃあ、こんなところで特別清掃なんかに付き合わされているけどさ」
-  En tout cas, je te trouve bien studieuse. Les vacances de Noël viennent pourtant à peine de commencer. C'est vrai que tu dois être ici pour le nettoyage spécial, mais tout de même.」
+　En tout cas, je te trouve bien studieuse. Les vacances de Noël viennent pourtant à peine de commencer. C'est vrai que tu dois être ici pour le nettoyage spécial, mais tout de même.」
 
 }
 [sha:7abeaae5a384853612e52f3aef36e8aff95407a1]{
@@ -73,19 +73,19 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:4ec4111f1e8b60bf22a05c1ae16393e86b343d7f]{
 -- Page 3, Offset 11374.
 -- それ、どこの大学生？　まさか<渠裸|みぞら>大じゃないでしょうね」
-  Il vient d'où ? Ne me dis pas qu'il est de l'université Mizora.」
+　Il vient d'où ? Ne me dis pas qu'il est de l'université Mizora.」
 
 }
 [sha:3b3e07ff071656bae5d14964f8ff85f5418365ba]{
 -- Page 4, Offset 11375.
 -- 不快さを隠しもせず、久万梨は青子の傍らにあるレポートをめくっていく。
-  Kumari ne put cacher sa désapprobation et feuilleta les pages du rapport posé près d'Aoko.
+　Kumari ne put cacher sa désapprobation et feuilleta les pages du rapport posé près d'Aoko.
 
 }
 [sha:950bae468dd3c138f3c256098feb7282cabd65ff]{
 -- Page 4, Offset 11376.
 -- やや茶色に変色したレポート用紙は、少なく見積もっても十年は前の物だ。
-  Elle estima que les feuilles quelque peu jaunies du manuscrit dataient d'au moins dix ans.
+　Elle estima que les feuilles quelque peu jaunies du manuscrit dataient d'au moins dix ans.
 
 }
 [sha:50ab5e6fa759c3fb7d8b60077b88e6dc6ccbdc43]{
@@ -97,7 +97,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:8e09515a3c6d367d4f1ad8ae707fa534bc601c8a]{
 -- Page 5, Offset 11378.
 -- 安心なさい、クマの兄貴たちからの仕事じゃないから。そもそもアンタの兄貴軍団、今年も<留年|のこ>る気満々なんでしょ？」
-  Rassure-toi, ce n'est pas un de tes frères qui me l'a donné. Et puis d'abord, <Kuma|Ours>, ton armée de frères a clairement l'intention de redoubler cette année, non ?」
+　Rassure-toi, ce n'est pas un de tes frères qui me l'a donné. Et puis d'abord, <Kuma|Ours>, ton armée de frères a clairement l'intention de redoubler cette année, non ?」
 
 }
 [sha:a7cb0a8dbb3e60b9f87031a7c84c5b5aa4a1e967]{
@@ -109,25 +109,25 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:47e46e82d373169fdaa8a27e8a370c1fd3d63df2]{
 -- Page 6, Offset 11380.
 -- 久万梨の声は刺々しい。
-  La voix de Kumari était tranchante.
+　La voix de Kumari était tranchante.
 
 }
 [sha:e7e86f72397530ce7ee0e396a0d492198df505f5]{
 -- Page 6, Offset 11381.
 -- いつも不機嫌な青子が言える事ではないが、この女生徒も青子に負けず劣らずの愛想の無さである。
-  Ce n'était pas quelque chose dont Aoko, acariâtre de nature, pouvait se vanter, mais cette élève manquait autant d'amabilité qu'elle.
+　Ce n'était pas quelque chose dont Aoko, acariâtre de nature, pouvait se vanter, mais cette élève manquait autant d'amabilité qu'elle.
 
 }
 [sha:824d523583432d49905c7c0d0bf8be6215b5ec1d]{
 -- Page 6, Offset 11382.
 -- 平時は素っ気ない口調の久万梨は、本音がむき出しになると乱暴な口調になる。
-  Le ton de Kumari, déjà cassant d'ordinaire, devenait violent dès qu'elle montrait ses vrais sentiments.
+　Le ton de Kumari, déjà cassant d'ordinaire, devenait violent dès qu'elle montrait ses vrais sentiments.
 
 }
 [sha:a4afd7d72e15c37113e81c50632cd4fc01731a62]{
 -- Page 6, Offset 11383.
 -- どうも父親<譲|ゆず>りの癖らしい。本人はその癖を改善しようと努めているが、小学生までの習慣は中々抜けない。
-  Apparemment, c'était une manie héritée de son père. Même si elle s'efforçait de s'en débarrasser, les habitudes prises à l'école primaire n'étaient pas faciles à abandonner.
+　Apparemment, c'était une manie héritée de son père. Même si elle s'efforçait de s'en débarrasser, les habitudes prises à l'école primaire n'étaient pas faciles à abandonner.
 
 }
 [sha:2b77a13c4e88af55aece60539029cf0eaa9d1b3b]{
@@ -145,7 +145,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:35678fc6ec1639cc3b43bcc9099b7b1be4a0ef2e]{
 -- Page 7, Offset 11386.
 -- “技術的に古い部分はピックアップしてあるから、<教科書|テキスト>参考にして数字だけ変えておいて”だってさ」
-  “J'ai enlevé les parties qui étaient trop vieilles d'un point de vue technique, alors recopie le texte et change seulement les chiffres.”」
+“J'ai enlevé les parties qui étaient trop vieilles d'un point de vue technique, alors recopie le texte et change seulement les chiffres.”」
 
 }
 [sha:e9dc25796c96af1d5dd266cede737ab6ff589110]{
@@ -163,7 +163,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:25883d18d5072e0c85d72a4aacbed1f85b77781f]{
 -- Page 8, Offset 11389.
 -- レポート一冊分で一万円」
-  Chaque volume me rapporte 10 000 yens.」
+　Chaque volume me rapporte 10 000 yens.」
 
 }
 [sha:d323313b265830e9f8347a5de6553f827f997408]{
@@ -175,7 +175,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:b743d3a7fd359963dbfa99eb9c7ef2123b514aa1]{
 -- Page 8, Offset 11391.
 -- どうりで槻司に監督を任せたワケだ」
-  Pas étonnant que tu aies confié la surveillance à Tsukiji.」
+　Pas étonnant que tu aies confié la surveillance à Tsukiji.」
 
 }
 [sha:76e43d4cfaf45ea436b4723e281ddab862305b77]{
@@ -187,25 +187,25 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:868fda289c073f8e17b6b0005b4e7bb83f9619da]{
 -- Page 9, Offset 11393.
 -- 爽やかな笑顔で返されて毒気を抜かれたのか、久万梨はぶすっとした顔のままパイプ椅子に腰を掛けた。
-  Son sarcasme refroidi par ce sourire éloquent, Kumari s'assit en boudant sur une chaise pliante.
+　Son sarcasme refroidi par ce sourire éloquent, Kumari s'assit en boudant sur une chaise pliante.
 
 }
 [sha:551976186e254a98d7fea3afed307148e61ae3d7]{
 -- Page 10, Offset 11394.
 -- 生徒会室にはボールペンの音だけ。
-  Seul le son que faisait le stylo-bille était audible dans la pièce.
+　Seul le son que faisait le stylo-bille était audible dans la pièce.
 
 }
 [sha:b453cfba7e84abec63ee48c2a4fd54d29fceb5af]{
 -- Page 10, Offset 11395.
 -- ふと見上げた空は青く高く、裏庭にはジャージ姿で野球をしている男子たちの姿があった。
-  Elle observait le ciel bleu au loin, tandis que dans l'arrière-cour, les garçons jouaient au base-ball en survêtement.
+　Elle observait le ciel bleu au loin, tandis que dans l'arrière-cour, les garçons jouaient au base-ball en survêtement.
 
 }
 [sha:7268210ba82cc823abd5e56c810ef803ad417035]{
 -- Page 10, Offset 11396.
 -- 特別清掃も終わり、なし崩し的に遊び始めたらしい。
-  Le nettoyage spécial était fini, et ils s'étaient progressivement mis à jouer.
+　Le nettoyage spécial était fini, et ils s'étaient progressivement mis à jouer.
 
 }
 [sha:4b8a919d2518066d2040677ac0875d8cd2dff71c]{
@@ -217,25 +217,25 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:eb07a0fde3a013ff3a71ee2c3d388a71ba6f1ce2]{
 -- Page 10, Offset 11398.
 -- ―――って、アレ二年の男どもだ」
-  ―――Ah, c'est les gars de deuxième année.」
+　―――Ah, c'est les gars de deuxième année.」
 
 }
 [sha:4b4240e6e414c7e393c97562809dd05abdc619d1]{
 -- Page 11, Offset 11399.
 -- 十分な人数が集まらなかったのか、彼らは五人一チームで試合をしている。
-  Apparemment, ils n'avaient pas réussi à réunir assez de monde, car ils faisaient un match avec cinq personnes par équipe.
+　Apparemment, ils n'avaient pas réussi à réunir assez de monde, car ils faisaient un match avec cinq personnes par équipe.
 
 }
 [sha:2445c20d69a9f2ba7ed23264db9d8cdbe67dd770]{
 -- Page 11, Offset 11400.
 -- 凡打、三振の多いグダグダな試合内容だが、当人たちはたいへん盛り上がっているようだ。
-  Les batteurs ne frappaient pratiquement jamais la balle et se faisaient sortir les uns après les autres, mais les joueurs en question semblaient être très excités.
+　Les batteurs ne frappaient pratiquement jamais la balle et se faisaient sortir les uns après les autres, mais les joueurs en question semblaient être très excités.
 
 }
 [sha:9343c35c01020d229a935df88e33c99906577f0a]{
 -- Page 11, Offset 11401.
 -- 聞こえてくる喚声は口汚いものばかりだが、罵声をあびせながらもみな笑っているあたり、ホントに男子はバカばっかりだ。
-  Ils se chambraient les uns les autres à grands cris, et pourtant, ils riaient tous de bon cœur. Ces garçons étaient vraiment stupides.
+　Ils se chambraient les uns les autres à grands cris, et pourtant, ils riaient tous de bon cœur. Ces garçons étaient vraiment stupides.
 
 }
 [sha:51a1a42054fc1dec368acb6954360f0bad78f976]{
@@ -265,7 +265,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:07ed13b05911fd9eb87755ad54a928d223c60fb1]{
 -- Page 13, Offset 11406.
 -- 本人さぼり症でめったに動かないけど、本気だせば何だってこなすのよ。唯一足りない才能があるとしたら、子供らしさってヤツでしょうね」
-  Il reconnaît lui-même qu'il a la mauvaise manie de faire quelquefois l'école buissonnière et ne se fatigue pas souvent, mais lorsqu'il est sérieux, il peut faire n'importe quoi. Si on devait lui retenir un seul défaut, ce serait son manque de gaminerie.」
+　Il reconnaît lui-même qu'il a la mauvaise manie de faire quelquefois l'école buissonnière et ne se fatigue pas souvent, mais lorsqu'il est sérieux, il peut faire n'importe quoi. Si on devait lui retenir un seul défaut, ce serait son manque de gaminerie.」
 
 }
 [sha:a44a74357c9bfb7f87980eeb24da6ea757d83dd3]{
@@ -277,7 +277,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:70b0f3cfe64dcc3f587ee57527ed1394dc9b1945]{
 -- Page 13, Offset 11408.
 -- ……蒼崎、槻司と付き合ってるってホント？」
-  ...... Aozaki, c'est vrai que tu sors avec lui ?」
+　...... Aozaki, c'est vrai que tu sors avec lui ?」
 
 }
 [sha:ba1a4365ffe67df3bc1313ffec4eabb4567f8188]{
@@ -289,7 +289,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:4f52250a8a25605a5d716e100ed3bc0908074a1b]{
 -- Page 14, Offset 11410.
 -- 顔の良い男は好きじゃないし。やっぱり男はシュワちゃんぐらいじゃないと」
-  Et puis, je n'aime pas les hommes intelligents. Pour moi, tout homme devrait être comme Schwarzenegger.」
+　Et puis, je n'aime pas les hommes intelligents. Pour moi, tout homme devrait être comme Schwarzenegger.」
 
 }
 [sha:2fd60111ef5efd55a21029e289feec4d3c200b31]{
@@ -319,25 +319,25 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:06dfe9fce67a37218077b01fecef86bcb101aa43]{
 -- Page 15, Offset 11415.
 -- 教訓よ、教訓。なよっとしたヤツとか、やけに口がうまいヤツとか、気軽な男はほんと信用ならないっていうか」
-  C'est avant tout une question de morale. Les types frêles, les beaux parleurs et les hommes faciles, j'ai l'impression que je ne peux vraiment pas leur faire confiance.」
+　C'est avant tout une question de morale. Les types frêles, les beaux parleurs et les hommes faciles, j'ai l'impression que je ne peux vraiment pas leur faire confiance.」
 
 }
 [sha:d8ca183c5a29d297b8b2be472544a40d9d433a6f]{
 -- Page 16, Offset 11416.
 -- 青子はレポート用紙を、
-  Kumari, tout en fixant le campus,
+　Kumari, tout en fixant le campus,
 
 }
 [sha:81f2ca309637beb145a35113feddb61a4808f48b]{
 -- Page 16, Offset 11417.
 -- 久万梨は校庭を眺めながら、とりとめのない会話をする。
-  tenait une discussion décousue avec Aoko penchée sur les copies du manuscrit.
+　tenait une discussion décousue avec Aoko penchée sur les copies du manuscrit.
 
 }
 [sha:836483ce08023abd5402f0bc78c785feaf2b9da0]{
 -- Page 16, Offset 11418.
 -- ふたりが知り合ったのは高校生になってからだが、根本的なところで気が合うらしく、今ではこうして<駄弁|だべ>りあう仲になっていた。
-  Elles s'étaient rencontrées pour la première fois à leur entrée au lycée, mais elles s'entendirent bien dès le début, et à présent, elles étaient des partenaires de conversation.
+　Elles s'étaient rencontrées pour la première fois à leur entrée au lycée, mais elles s'entendirent bien dès le début, et à présent, elles étaient des partenaires de conversation.
 
 }
 [sha:ec2e0ca07a1f521eed3da9120854cd473063c74c]{
@@ -355,7 +355,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:ec0429f43e52579b8c56f13d1c7412da7513c71f]{
 -- Page 17, Offset 11421.
 -- あ、Ｂ組の山瀬さんたち誘う？　たしか去年も冬休みに上京してたでしょ、彼女ら」
-  Tiens, qu'est-ce que tu dirais d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
+　Tiens, qu'est-ce que tu dirais d'inviter Yamase et les autres de la classe B ? Si je me souviens bien, aux vacances de Noël de l'année dernière, elles étaient montées à Tokyo, non ?」
 
 }
 [sha:4f87398d69d195d028607ff77cf55ca74ee81efc]{
@@ -391,7 +391,7 @@ Ah, elle est passée au-dessus de la clôture.
 [sha:a76de6f7eca0bd623b5107890410c431f4929c24]{
 -- Page 20, Offset 11427.
 -- 来年の身体測定、鳶丸とトップ争うんじゃない？　山じゃ二時間歩きっぱなしとかザラだったそうだし。水泳部じゃなく陸上部に紹介すればよかった」
-  Lors de la visite médicale de l'année prochaine, il sera sûrement parmi le top du classement des plus musclés avec Tobimaru. Après tout, il paraît qu'il marchait chaque jour pendant deux heures à la montagne. J'aurais mieux fait de le présenter au club d'athlétisme plutôt qu'au club de natation.」
+　Lors de la visite médicale de l'année prochaine, il sera sûrement parmi le top du classement des plus musclés avec Tobimaru. Après tout, il paraît qu'il marchait chaque jour pendant deux heures à la montagne. J'aurais mieux fait de le présenter au club d'athlétisme plutôt qu'au club de natation.」
 
 }
 [sha:b5036d37ededeb7ae4a4b99b1c05aa8ebc3aa206]{
@@ -403,25 +403,25 @@ Ah, elle est passée au-dessus de la clôture.
 [sha:723c49a960996abb69fb7cb362006cb836f563bb]{
 -- Page 21, Offset 11429.
 -- よどみのなかったボールペンの音が止まる。
-  Le stylo-bille imperturbable s'arrêta.
+　Le stylo-bille imperturbable s'arrêta.
 
 }
 [sha:0e49b22d24146dfc162db638ac858e64ee643ea3]{
 -- Page 21, Offset 11430. Mods: @n.
 -- 青子はごく自然な仕草で席を立ち、
-  Aoko se leva de son siège dans un mouvement très naturel,
+　Aoko se leva de son siège dans un mouvement très naturel,
 
 }
 [sha:f39503f4507fe61511eb09272a6c468b3e54376a]{
 -- Page 21, Offset 11431. Glued. Mods: @n.
 -- 小休止といわんばかりにお茶を淹れて、
- prépara du thé comme pour montrer qu'elle prenait une pause,
+prépara du thé comme pour montrer qu'elle prenait une pause,
 
 }
 [sha:37c84b36b49835a71d323fe8661fdb7c6c3f4ecc]{
 -- Page 21, Offset 11432. Glued.
 -- 何事もなかったように作業に戻った。
- et retourna à son travail comme si rien ne s'était passé.
+et retourna à son travail comme si rien ne s'était passé.
 
 }
 [sha:6357f6311023b84c1a53e631572c86bcff81fb87]{
@@ -451,7 +451,7 @@ Ah, elle est passée au-dessus de la clôture.
 [sha:b7373900abe469e1cd41bf18a1fadc811ae35cdd]{
 -- Page 23, Offset 11437.
 -- だいたい、音楽なんてレンタルしてカセットテープに落とせば５００円で済むじゃない。ベータデッキみたいにそのうち<廃|すた>れるって」
-  Et puis, si tu loues de la musique pour l'enregistrer sur cassette, tu t'en tires pour seulement 500 yens. Ça sera bientôt passé de mode, comme le Betamax deck.」
+　Et puis, si tu loues de la musique pour l'enregistrer sur cassette, tu t'en tires pour seulement 500 yens. Ça sera bientôt passé de mode, comme le Betamax deck.」
 
 }
 [sha:ea2b72e440d8b27dcd28261859a5ca3598fd75cc]{
@@ -499,19 +499,19 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:96e434274522bad61deb028df93c5a1a291cde92]{
 -- Page 27, Offset 11445.
 -- あはは、と青子は苦笑いで誤魔化す。
-  “Ha ha ha”, s'esclaffa Aoko pour donner le change.
+　“Ha ha ha”, s'esclaffa Aoko pour donner le change.
 
 }
 [sha:fb49d739067e2e0d28bfed0858ee6dc4cdf9a08a]{
 -- Page 27, Offset 11446.
 -- 生き方の方針は決まっているものの、将来の展望はいまいち考えていない青子だった。
-  Même si les grandes lignes de sa vie avaient été décidées, elle n'avait pas encore réfléchi à ses perspectives d'avenir.
+　Même si les grandes lignes de sa vie avaient été décidées, elle n'avait pas encore réfléchi à ses perspectives d'avenir.
 
 }
 [sha:0301a503b7c0f808f9de62348d8ca694ef203de0]{
 -- Page 27, Offset 11447.
 -- やると決めた事はやる性格のため、いちいちスケジュールを紙に起こす習慣がないせいもある。
-  C'était aussi parce qu'elle n'avait pas pour habitude de coucher sur le papier chacun de ses programmes à cause de son tempérament, qui lui dictait d'accomplir les choses qu'elle avait décidé de faire.
+　C'était aussi parce qu'elle n'avait pas pour habitude de coucher sur le papier chacun de ses programmes à cause de son tempérament, qui lui dictait d'accomplir les choses qu'elle avait décidé de faire.
 
 }
 [sha:19f99faf522a7c55cbf8093a601e65678d263d18]{
@@ -523,7 +523,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:19428eaef7b2f7b26e8ed880320e7ec9aa835061]{
 -- Page 28, Offset 11449.
 -- 体力つかったから、なんかお腹減ってきた」
-  Dépenser toute cette énergie m'a donné faim.」
+　Dépenser toute cette énergie m'a donné faim.」
 
 }
 [sha:fdc202bd7e2c16848e9359c15347f1148d0e8ff0]{
@@ -535,7 +535,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:b9ae6c1cf5cb465411c3a347dcc83452ee6d15f5]{
 -- Page 28, Offset 11451.
 -- いいよ。うちでいいならサービスしとくけど、よってく？」
-  D'accord. Si chez moi, ça te convient, je te ferai une ristourne. Ça te dit ?」
+　D'accord. Si chez moi, ça te convient, je te ferai une ristourne. Ça te dit ?」
 
 }
 [sha:dbcf0eae5bff5965da1dd4029c27b8014344bfd7]{
@@ -547,25 +547,25 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:60c7221fac376d53772a27547bece3cd49a97c3c]{
 -- Page 29, Offset 11453.
 -- 冬休みを間近に控えた生徒会室。
-  Dans la salle du conseil étudiant se préparant à l'approche des festivités des vacances de Noël,
+　Dans la salle du conseil étudiant se préparant à l'approche des festivités des vacances de Noël,
 
 }
 [sha:720880d20c883a260b98510e3c6dfcc839d6517d]{
 -- Page 29, Offset 11454.
 -- ふたりは他愛のない会話で放課後を消費していく。
-  les deux filles passèrent le temps jusqu'à la fin de l'école avec une conversation puérile.
+　les deux filles passèrent le temps jusqu'à la fin de l'école avec une conversation puérile.
 
 }
 [sha:44be67ff2592ddd16270a9a7e451cfd29eff3173]{
 -- Page 29, Offset 11455.
 -- 夜は魔術師として歩く青子も、昼間はいたってノーマルな学生だ。友人と話すときは年相応の無邪気さを隠しもしない。
-  Même si Aoko était une Mage la nuit, en journée, elle se comportait comme une élève tout à fait normale. Lorsqu'elle parlait à une amie, elle n'essayait même pas de cacher l'innocence inhérente à son âge.
+　Même si Aoko était une Mage la nuit, en journée, elle se comportait comme une élève tout à fait normale. Lorsqu'elle parlait à une amie, elle n'essayait même pas de cacher l'innocence inhérente à son âge.
 
 }
 [sha:76dcf05bddb3c43ccc8ff45751910d3dc442a3e5]{
 -- Page 29, Offset 11456.
 -- たとえ敵との戦いが本格化していようと、二足のわらじを履くと決めた以上、どちらも楽しむのが青子である。
-  Même si le combat avec l'ennemi s'intensifiait, comme elle avait décidé de mener une double vie, c'était bien le genre d'Aoko de prendre plaisir autant à l'une qu'à l'autre.
+　Même si le combat avec l'ennemi s'intensifiait, comme elle avait décidé de mener une double vie, c'était bien le genre d'Aoko de prendre plaisir autant à l'une qu'à l'autre.
 
 }
 [sha:34deb8aedfcd719fc60e3f0a53d4faf24d842d1b]{
@@ -583,13 +583,13 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:6d42f64570fc1d7b420dd4f1d8935f2422c39931]{
 -- Page 30, Offset 11459.
 -- もっとも。
-  Évidemment,
+　Évidemment,
 
 }
 [sha:790baa4c4988c4b3b906c7f1b5aef874e18deddd]{
 -- Page 30, Offset 11460.
 -- この通り、根本的な意地の悪さは変わらないのだが。
-  la mesquinerie restait la base de sa personnalité.
+　la mesquinerie restait la base de sa personnalité.
 
 }
 [sha:7d2a1d5a19afef3392bf0ad46485843d041e741f]{
@@ -601,7 +601,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:1019a0396c59e7a53e78901683e7e2855aeb57b0]{
 -- Page 31, Offset 11462.
 -- くしゅん、と気の抜けたクシャミをして、被害者Ａはそう呟いた。
-  murmura la victime A en éternuant faiblement.
+　murmura la victime A en éternuant faiblement.
 
 }
 [sha:06f8ff43f3a49fb346e022389b141a691fe9434f]{
@@ -613,25 +613,25 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:74663afb9a1af240d0b8b5d2b6b927012419f258]{
 -- Page 32, Offset 11464.
 -- よし、んじゃこんなとこで野球やっててもしょうがねえし！　町にくりだすとしましょうか！」
-  On dirait qu'on ne peut pas faire de base-ball dans un endroit pareil ! Allons plutôt en ville !」
+　On dirait qu'on ne peut pas faire de base-ball dans un endroit pareil ! Allons plutôt en ville !」
 
 }
 [sha:4fbae4f4285aaa0c290a59d603cc02ec79a985ee]{
 -- Page 33, Offset 11465.
 -- 五人野球、四試合目。
-  Base-ball à 5, 4e match.
+　Base-ball à 5, 4e match.
 
 }
 [sha:5094d8d7642a7c2abeb2773fca611ec92f1d053c]{
 -- Page 33, Offset 11466.
 -- 内野ゴロはキャッチされた時点でアウト、ホームランには余ったお汁粉缶をプレゼント、という特殊ルールを聞きつけて野次馬が集まりだし、リーグ戦が始まってから既に一時間。
-  Une heure s'était écoulée depuis l'élaboration de quelques règles un peu spéciales. Il avait été décidé que les batteurs étaient éliminés si la balle qu'il renvoyait était attrapée dans le terrain, et on offrirait les conserves de haricots rouges restantes au premier qui réaliserait un home run. Les badauds s'étaient rassemblés et un mini-championnat avait débuté.
+　Une heure s'était écoulée depuis l'élaboration de quelques règles un peu spéciales. Il avait été décidé que les batteurs étaient éliminés si la balle qu'il renvoyait était attrapée dans le terrain, et on offrirait les conserves de haricots rouges restantes au premier qui réaliserait un home run. Les badauds s'étaient rassemblés et un mini-championnat avait débuté.
 
 }
 [sha:28d3d7d88610c81083277273ecd2c081e77c3b97]{
 -- Page 33, Offset 11467.
 -- 自分たちの試合がまだ先であるコトに痺れを切らした木乃美芳助は、早くも飽きはじめていた。
-  Kinomi Hōsuke, qui s'engourdissait à cause du retard que prenait leur match, commençait à s'ennuyer sérieusement.
+　Kinomi Hōsuke, qui s'engourdissait à cause du retard que prenait leur match, commençait à s'ennuyer sérieusement.
 
 }
 [sha:4b16a3b7922a2b9789d5431b39fddcac74448b37]{
@@ -649,7 +649,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:f4d3dce74735901d582b4e2569ca147d456fd81e]{
 -- Page 34, Offset 11470.
 -- だってＡ組の奴らとか集まってきたしさあ、オレ、あいつら嫌いだしさあ。なんかノリが合わないっていうか」
-  Les gars de la classe A sont venus, et je déteste tous ces types. Je peux vraiment pas les piffer, quoi.」
+　Les gars de la classe A sont venus, et je déteste tous ces types. Je peux vraiment pas les piffer, quoi.」
 
 }
 [sha:b96f9c59b87bce61ce25f94c6b9444db3918ab56]{
@@ -661,25 +661,25 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:4fc4b712c7ca038d49e5b2bcce4c63f273488ac8]{
 -- Page 35, Offset 11472.
 -- いい機会じゃねえか、気にくわないんなら試合で片づけてやれよ。こっちも本気でやってやるから」
-  Tiens, c'est une bonne occasion : si tu ne peux pas les blairer, tu n'as qu'à régler ça avec eux pendant le match. Moi aussi, je vais être sérieux.」
+　Tiens, c'est une bonne occasion : si tu ne peux pas les blairer, tu n'as qu'à régler ça avec eux pendant le match. Moi aussi, je vais être sérieux.」
 
 }
 [sha:643997bf520769f47538ca12095f21820a41945c]{
 -- Page 36, Offset 11473.
 -- 鳶丸は壁に向かってピッチングなどしながら木乃美をたしなめる。
-  Tobimaru fustigea Kinomi tout en se dirigeant vers un mur et en saisissant la balle.
+　Tobimaru fustigea Kinomi tout en se dirigeant vers un mur et en saisissant la balle.
 
 }
 [sha:55faf9b19195d9a29edce9d4b78f1db96e22c98b]{
 -- Page 36, Offset 11474.
 -- 先ほどホームランを打たれてご立腹なのか、普段より当たりがきつい。
-  Peut-être était-il énervé d'avoir eu un home run un instant auparavant, car il se montrait plus autoritaire que d'habitude.
+　Peut-être était-il énervé d'avoir eu un home run un instant auparavant, car il se montrait plus autoritaire que d'habitude.
 
 }
 [sha:87bfa6e4058aa69db830a21c2d3efa44d3ec6cf6]{
 -- Page 36, Offset 11475.
 -- ちなみに、彼もＡ組の生徒であり、集まってきたＡ組男子のキャプテンに収まっている。
-  Au passage, lui aussi faisait partie de la classe A, et il occupait le poste de capitaine de leur équipe.
+　Au passage, lui aussi faisait partie de la classe A, et il occupait le poste de capitaine de leur équipe.
 
 }
 [sha:c324879e333a3febccd473c3ea7a41461ea9a00a]{
@@ -691,19 +691,19 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:feb0210712374a81bea834f64b8db7bb20ca2ade]{
 -- Page 37, Offset 11477.
 -- オレたち木乃美けっこう好きよ？
-  Nous autres, on aime bien Kinomi !
+　Nous autres, on aime bien Kinomi !
 
 }
 [sha:6f47f0e2755a9cbc95f9ba63521f283ab375b6ef]{
 -- Page 37, Offset 11478. Glued. Mods: @x.
 -- バカなところとか、平気で女連中の品評会ひらくところとか、合コン企画するところとか。真似できねーよ、ホント」
-  Par exemple, son côté stupide, ou quand il fait des classements de la meilleure fille sans se gêner, ou encore quand il prépare des rencontres de groupe. On ne peut pas rivaliser avec lui, vraiment !」
+　Par exemple, son côté stupide, ou quand il fait des classements de la meilleure fille sans se gêner, ou encore quand il prépare des rencontres de groupe. On ne peut pas rivaliser avec lui, vraiment !」
 
 }
 [sha:677649316b8707c8b8967afa062c951ddcf6cdec]{
 -- Page 37, Offset 11479.
 -- うんうん、と力強くうなずくＡ組男子一同。
-  “Oui oui”, acquiescèrent avec force tous les garçons de la classe A.
+　“Oui oui”, acquiescèrent avec force tous les garçons de la classe A.
 
 }
 [sha:80d2730270b3f7e5d22ea39ee53a57a08d7609cc]{
@@ -721,7 +721,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:559c466128a3102f423bbef1b5c9b4b158504f1f]{
 -- Page 38, Offset 11482.
 -- なんて甘えてきやがって、なんで気が付いたらオレ一人だけで会計してたの？　一緒にテニス部のぞきに行ったのにどうしてオレだけ悪者なの？　もしかして利用されてるだけってそろそろ気が付いていいの？」
-  vous me faites tout le temps ce genre de caprices ! Pourquoi à chaque fois, c'est moi qui dois tout organiser tout seul ? On est allés tous ensemble espionner le club de tennis, alors pourquoi j'ai été le seul à être traité comme un scélérat ? Il serait peut-être temps que je me rende compte que vous vous servez de moi depuis toujours ?」
+　vous me faites tout le temps ce genre de caprices ! Pourquoi à chaque fois, c'est moi qui dois tout organiser tout seul ? On est allés tous ensemble espionner le club de tennis, alors pourquoi j'ai été le seul à être traité comme un scélérat ? Il serait peut-être temps que je me rende compte que vous vous servez de moi depuis toujours ?」
 
 }
 [sha:dbf7705d433d786bef735fe9c8f2f305c2611975]{
@@ -739,19 +739,19 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:a146910312876703bda2b5b1818caacb5220a099]{
 -- Page 40, Offset 11487.
 -- 青くせぇ学生生活おくってんじゃねえ！」
-  Ne me parlez pas de votre vie d'étudiant merdique !」
+　Ne me parlez pas de votre vie d'étudiant merdique !」
 
 }
 [sha:610d80f07b601fb687c188a4ca1d62fd7de00e1b]{
 -- Page 40, Offset 11488.
 -- 木乃美はバットを振り回してＡ組男子を追い回し、Ａ組男子たちは陽気に逃げ回りながら木乃美に感謝する。
-  Kinomi fit tournoyer sa batte et poursuivit les garçons de la classe A, tandis que ces derniers le remerciaient gaiement tout en restant à bonne distance.
+　Kinomi fit tournoyer sa batte et poursuivit les garçons de la classe A, tandis que ces derniers le remerciaient gaiement tout en restant à bonne distance.
 
 }
 [sha:9722a947bd8b1c8f714398ffafd2dc59cad8532a]{
 -- Page 40, Offset 11489.
 -- 基本、<罵|ののし>りあいなのに<和気|わき><藹々|あいあい>としているのは、木乃美芳助の人徳のなせる業だ。
-  Heureusement, l'une des principales qualités de Kinomi Hōsuke lui permettait de rester en bons termes avec ses camarades, même s'il se faisait insulter.
+　Heureusement, l'une des principales qualités de Kinomi Hōsuke lui permettait de rester en bons termes avec ses camarades, même s'il se faisait insulter.
 
 }
 [sha:16918ce530989d39d6ed41fd4231e1aeb6cb27d9]{
@@ -769,7 +769,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:87f7ebf5c608f2bec3676276551bc3711d6e130f]{
 -- Page 41, Offset 11492.
 -- いや、その前に今度こそ蒼崎にしめられるか。あいつ、小ずるいチンピラには容赦ねえからな」
-  Mais avant même que ça arrive, Aozaki lui réglerait son compte, et pour de bon cette fois. Elle est sans merci avec les petits délinquants qui se montrent malins.」
+　Mais avant même que ça arrive, Aozaki lui réglerait son compte, et pour de bon cette fois. Elle est sans merci avec les petits délinquants qui se montrent malins.」
 
 }
 [sha:8af104bd43115c2bc7fbb26ec39eed246d739f71]{
@@ -781,13 +781,13 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:83d7aa173e4f1ff984b43b5aba3e69099121ac41]{
 -- Page 42, Offset 11494.
 -- む、と考えこむ草十郎。
-  Sōjūrō se plongea dans ses pensées.
+　Sōjūrō se plongea dans ses pensées.
 
 }
 [sha:52504d3a9f57974a6ef8da2344132d2c34adcfd0]{
 -- Page 42, Offset 11495.
 -- 今の言いぶりだと、木乃美に蒼崎青子に関して、なにやら前科があるようだ。
-  Cette tournure de phrase semblait dire de façon implicite que Kinomi avait déjà eu un antécédent criminel en relation avec Aozaki Aoko.
+　Cette tournure de phrase semblait dire de façon implicite que Kinomi avait déjà eu un antécédent criminel en relation avec Aozaki Aoko.
 
 }
 [sha:3b5e13c37c750db79cc0cca8ffe933bbdaff760b]{
@@ -805,19 +805,19 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:8621c8ec70b971080fd90858ee6c17f1b9f3ff15]{
 -- Page 43, Offset 11498.
 -- あのバカにそんな風情があるかって。ちょいとな、蒼崎と木乃美には条件反射じみた事件があったんだよ。
-  Comme si cet idiot pouvait avoir autant de goût. C'est juste qu'il y a eu un incident malencontreux entre Aozaki et lui.
+　Comme si cet idiot pouvait avoir autant de goût. C'est juste qu'il y a eu un incident malencontreux entre Aozaki et lui.
 
 }
 [sha:8de3471f8c9445a8679c47f8e9047ed4829d2e82]{
 -- Page 43, Offset 11499.
 -- ありゃあ入学式の事だ。そうだよな、木乃美！」
-  C'était pendant la cérémonie d'entrée de l'école. Je ne me trompe pas, Kinomi ?」
+　C'était pendant la cérémonie d'entrée de l'école. Je ne me trompe pas, Kinomi ?」
 
 }
 [sha:78c16e212641f1895fa380ed74b6ce3a1976634b]{
 -- Page 43, Offset 11500.
 -- 鳶丸に怒鳴られ、木乃美は足を止めて振り返る。
-  Entendant que Tobimaru criait après lui, Kinomi s'arrêta et tourna la tête.
+　Entendant que Tobimaru criait après lui, Kinomi s'arrêta et tourna la tête.
 
 }
 [sha:3e9268972a1cdbf26cab9cb5b041cc7bcd34a76d]{
@@ -829,31 +829,31 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:169683c3a173c230fbf56a7450b1cdce822291b6]{
 -- Page 44, Offset 11502.
 -- “かーのじょ、どの<組|クラス>ぅ？”って。
-  J'lui ai demandé : “Dis ! T'es dans quelle classe ?”
+J'lui ai demandé : “Dis ! T'es dans quelle classe ?”
 
 }
 [sha:ebf7f1d7ccdc1a64a0f4a08d25827db33ed0e1e9]{
 -- Page 44, Offset 11503.
 -- いや、でもまさか、手が出るとは思わなかった。
-  Mais je n'aurais jamais cru que ma main irait aussi loin.
+　Mais je n'aurais jamais cru que ma main irait aussi loin.
 
 }
 [sha:7e4e6c066d748305e51e74ec8de60c650b469080]{
 -- Page 44, Offset 11504.
 -- オレ的には一センチ前で<寸止|すんど>めしようとしたんだけど、目測をあやまった。オレの視覚情報より、蒼崎の肉体のサイズがやや<勝|まさ>っていたというコトさね」
-  À vrai dire, je pensais m'arrêter un centimètre avant, mais je me suis trompé quelque part dans mes calculs. Apparemment, les mensurations d'Aozaki étaient légèrement supérieures à mes estimations.」
+　À vrai dire, je pensais m'arrêter un centimètre avant, mais je me suis trompé quelque part dans mes calculs. Apparemment, les mensurations d'Aozaki étaient légèrement supérieures à mes estimations.」
 
 }
 [sha:e01a72b2b778ad84e1aa690ea0899b91c463392d]{
 -- Page 45, Offset 11505.
 -- はっはっは、と遠い目で空を見上げる木乃美芳助。
-  “Ha ha ha”, ria Kinomi Hōsuke les yeux levés vers le ciel, le regard dans le vague.
+　“Ha ha ha”, ria Kinomi Hōsuke les yeux levés vers le ciel, le regard dans le vague.
 
 }
 [sha:5bb9fb167baf1db7b1f04d1116b269b12183df38]{
 -- Page 45, Offset 11506.
 -- 草十郎は草十郎で、今の言葉だけで入学式に何が起きたのか、正確に把握したらしい。
-  Ces explications avaient néanmoins permis à Sōjūrō de comprendre clairement ce qui s'était passé à la cérémonie d'entrée.
+　Ces explications avaient néanmoins permis à Sōjūrō de comprendre clairement ce qui s'était passé à la cérémonie d'entrée.
 
 }
 [sha:1ebcabdd124d0bd8c8d754f9bf8910905c95e21b]{
@@ -877,13 +877,13 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:e86bd46bcffb0313565b62e17dd85d1fcf408db5]{
 -- Page 47, Offset 11510.
 -- 平手とか拳とかそういうレベルじゃねえの、下からギャーンだぜギャーン！　周りにいたギャラリーいわく、“プールで縦に沈めたビート板が浮上するように蒼崎の靴が閃いた”らしい。
-  C'était pas juste une gifle ou un coup de poing, c'est venu d'en bas ! D'après ce qu'ont raconté les témoins aux alentours, il paraît que “la chaussure d'Aozaki a bondi comme une planche remontant du fond d'une piscine”.
+　C'était pas juste une gifle ou un coup de poing, c'est venu d'en bas ! D'après ce qu'ont raconté les témoins aux alentours, il paraît que “la chaussure d'Aozaki a bondi comme une planche remontant du fond d'une piscine”.
 
 }
 [sha:84596639bcabea35b05dd736f6a3c9e570d2691b]{
 -- Page 47, Offset 11511.
 -- …………あの、今だから言いますけど、オレ、あの後の記憶がすっぽりないのです」
-  ............ Au fait, j'en profite pour t'avouer que je n'ai aucun souvenir de ce qui s'est passé après.」
+　............ Au fait, j'en profite pour t'avouer que je n'ai aucun souvenir de ce qui s'est passé après.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -895,7 +895,7 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:0adaa165f968f83b021e6f0bd8f716cc485432fc]{
 -- Page 48, Offset 11513.
 -- Ａ組男子を追い回すのも疲れたのか、木乃美はアゴをさすりながら戻ってきた。
-  Fatigué de poursuivre les garçons de la classe A, Kinomi était revenu en se caressant le menton.
+　Fatigué de poursuivre les garçons de la classe A, Kinomi était revenu en se caressant le menton.
 
 }
 [sha:d64fcb16fe2dc5130eb3b21e7eb13116ffbcaedf]{
@@ -907,7 +907,7 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:6ef9be936c42f1f4267832341120ee506347847e]{
 -- Page 49, Offset 11515.
 -- 殿下、金持ってるだろー。おごってくれよー」
-  Ton Altesse, tu as de l'argent, pas vrai ? Offre-nous la tournée !」
+　Ton Altesse, tu as de l'argent, pas vrai ? Offre-nous la tournée !」
 
 }
 [sha:035f2816d9eba6d909f1640ae412fc952fb41c89]{
@@ -919,13 +919,13 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:7be8a86daaa921c99519bec23e7f8aea10341493]{
 -- Page 49, Offset 11517.
 -- ちょうど見たい映画あんだよ。映画の内容より、見終わった後に文句言い合う方が楽しい部類のＢ級でな。
-  Il y en a justement un que j'ai envie de voir. C'est le genre de nanar où on rigole plus en se moquant de lui après coup qu'en le regardant.
+　Il y en a justement un que j'ai envie de voir. C'est le genre de nanar où on rigole plus en se moquant de lui après coup qu'en le regardant.
 
 }
 [sha:4f077c4f6668d92230340f49f6ef8dec0cf12c24]{
 -- Page 49, Offset 11518.
 -- 犠牲者が必要なんで、この際テメエでもいいぞ」
-  J'ai besoin d'une victime, alors pour l'occasion, tu feras l'affaire.」
+　J'ai besoin d'une victime, alors pour l'occasion, tu feras l'affaire.」
 
 }
 [sha:8bc143827fad7380f35539a4abb8066b90047029]{
@@ -937,7 +937,7 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:10c5045c15b7b1eb0aef82c7980014224af43058]{
 -- Page 50, Offset 11520.
 -- そんなんだったらゲーセンか、コンビニの駐車場で駄菓子食ってる方が楽しいって！」
-  Ce serait plus amusant d'aller dans une salle d'arcade ou de manger des sucreries bon marché sur le parking d'une supérette !」
+　Ce serait plus amusant d'aller dans une salle d'arcade ou de manger des sucreries bon marché sur le parking d'une supérette !」
 
 }
 [sha:cde244ce998d0bd192ad3b092e59104d06dc0940]{
@@ -955,7 +955,7 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:fccc69e89946baf96de00d29022cf0707e9c5aea]{
 -- Page 51, Offset 11523.
 -- あ、それともバンドでもやるか。いまＵＫロックが熱い。バイト先の先輩にパンクロックなら誰でもできるときいた」
-  Ah, ou alors, on pourrait monter un groupe. En ce moment, le rock U.K. est en vogue. Un collègue au travail m'a dit que n'importe qui pouvait faire du Punk Rock.」
+　Ah, ou alors, on pourrait monter un groupe. En ce moment, le rock U.K. est en vogue. Un collègue au travail m'a dit que n'importe qui pouvait faire du Punk Rock.」
 
 }
 [sha:77eb2bb56d9e2dd9e4142a8c56e9fbdf4bdbb8c3]{
@@ -967,13 +967,13 @@ Comment peux-tu être encore en vie, Kinomi ?」
 [sha:7d5085444a42f0e68d2c266f2a92d1d7d2f8991a]{
 -- Page 52, Offset 11525.
 -- 冬休みの裏庭。
-  Dans l'arrière-cour en ces vacances de Noël,
+　Dans l'arrière-cour en ces vacances de Noël,
 
 }
 [sha:9640a9db7e6bd18c4afc6825952bbdaa3ac5b527]{
 -- Page 52, Offset 11526.
 -- のんびりとした労働後のひとときを、木乃美と鳶丸はどうでもいい話題で消費していく。
-  Kinomi et Tobimaru passaient leur moment d'insouciance après le travail en discutant d'un sujet trivial.
+　Kinomi et Tobimaru passaient leur moment d'insouciance après le travail en discutant d'un sujet trivial.
 
 }
 [sha:0909cdc029b305739b0ff921233cccb222587dff]{
@@ -1003,37 +1003,37 @@ D'ailleurs, j'ai une idée ! Si on n'a pas d'argent, on n'aura qu'à se faire pa
 [sha:e02aac21dd58bc517f5240543c170137747588e0]{
 -- Page 54, Offset 11531.
 -- なあ静希、おまえからも言ってやれよー。ナンパに行こうって、女の子たちと楽しく騒ごうって！
-  Allez Shizuki, dis-le-lui, toi aussi. Allons draguer et faire la fête avec les filles !
+　Allez Shizuki, dis-le-lui, toi aussi. Allons draguer et faire la fête avec les filles !
 
 }
 [sha:548ff0c7a49ff526e59152a8d3ed1375d14b7586]{
 -- Page 54, Offset 11532.
 -- 殿下は立ってるだけでいいし、静希だって年上のお姉さんから見たら弟属性っていうの？
-  Son Altesse n'aura qu'à être là, et puis toi, tu as le charme du petit frère pour les filles plus âgées !
+　Son Altesse n'aura qu'à être là, et puis toi, tu as le charme du petit frère pour les filles plus âgées !
 
 }
 [sha:0d380c81e0f335a9a7a800bb5bc4ccdaa7a7cfe4]{
 -- Page 54, Offset 11533.
 -- うまくいけば、こう―――オレの時みたいに、一時間後にはひと冬の、アヴァン、チュゥゥゥル」
-  Si ça se passe bien, ça pourrait devenir―――comme l'autre fois pour moi, au bout d'une heure, l'a-ven-ture d'un hiver !」
+　Si ça se passe bien, ça pourrait devenir―――comme l'autre fois pour moi, au bout d'une heure, l'a-ven-ture d'un hiver !」
 
 }
 [sha:651acd88a40e767c813eb1d9409db2408c19157b]{
 -- Page 55, Offset 11534.
 -- 木乃美の両手が、彼の腕からは独立した一つの触手生命のように活動する。わきわきと。
-  Kinomi agitait ses bras en faisant des mouvements ondulatoires, comme s'il s'agissait de tentacules incontrôlables.
+　Kinomi agitait ses bras en faisant des mouvements ondulatoires, comme s'il s'agissait de tentacules incontrôlables.
 
 }
 [sha:71375722bc71ad5860cf98c11fc508845da84847]{
 -- Page 55, Offset 11535.
 -- かつて体験した黄金時間の残像が、彼の脳髄を侵しているらしい。
-  Les images rémanentes de son glorieux passé semblaient avoir envahi son cerveau.
+　Les images rémanentes de son glorieux passé semblaient avoir envahi son cerveau.
 
 }
 [sha:8041f1a545784c5b9576b74ff06988f7b66486ed]{
 -- Page 55, Offset 11536.
 -- それはともかく、
-  Quoi qu'il en soit...
+　Quoi qu'il en soit...
 
 }
 [sha:e204b2bc82bc262e889625b4a8bba435408a9bcb]{
@@ -1051,13 +1051,13 @@ D'ailleurs, j'ai une idée ! Si on n'a pas d'argent, on n'aura qu'à se faire pa
 [sha:4ec9541b6d47cce807f82a4304e3d906115fa212]{
 -- Page 56, Offset 11539.
 -- “お姉さんキレイっすね、オレ、そこのビルのオーナーの息子なんすけどちょっと遊んでいきません？”って。
-  “Mademoiselle, v'z'êtes vraiment belle. J'suis le fils du proprio de cet immeuble. Vous voulez pas qu'on s'amuse un peu ?”
+“Mademoiselle, v'z'êtes vraiment belle. J'suis le fils du proprio de cet immeuble. Vous voulez pas qu'on s'amuse un peu ?”
 
 }
 [sha:70cdeee122f8ef4288b5cd3c9cbe37d997d1edad]{
 -- Page 56, Offset 11540.
 -- 嘘だってバレたら逃げられたけどな！」
-  Mais bon, quand elle a su que j'avais menti, elle a pris ses jambes à son cou !」
+　Mais bon, quand elle a su que j'avais menti, elle a pris ses jambes à son cou !」
 
 }
 [sha:7e38959335f877616d8d9da66046d4ce3b9f3485]{
@@ -1075,13 +1075,13 @@ D'ailleurs, j'ai une idée ! Si on n'a pas d'argent, on n'aura qu'à se faire pa
 [sha:2e2d36549a2b44921bb8fc60a9378cec100d4361]{
 -- Page 57, Offset 11543.
 -- えーと、蒼崎の首から下の部分に向かって、
-  Euh... J'ai regardé le torse d'Aozaki et j'ai dit :
+　Euh... J'ai regardé le torse d'Aozaki et j'ai dit :
 
 }
 [sha:3b9d1f933cc089ab2d13d27f7e3092931873d676]{
 -- Page 58, Offset 11546.
 -- だったかなぁあははは！　などと言いながら、<蛮勇|バカ>・木乃美芳助は頭を<欠|か>いている。
-  “Si je me trompe pas, ha ha ha !” s'esclaffa Kinomi Hōsuke, l'idiot qui manquait de cervelle.
+　“Si je me trompe pas, ha ha ha !” s'esclaffa Kinomi Hōsuke, l'idiot qui manquait de cervelle.
 
 }
 [sha:f6bbd8559ff298fe667f64b26984807b20f56159]{
@@ -1093,13 +1093,13 @@ Ou plutôt qui se grattait la tête.
 [sha:b27afa28ae829440b0bce689cbb4c3662487c126]{
 -- Page 58, Offset 11548.
 -- かつての思い出に鼓舞されたのか、木乃美はひたすら陽気だ。
-  Probablement exalté par tous ces souvenirs, Kinomi était particulièrement joyeux.
+　Probablement exalté par tous ces souvenirs, Kinomi était particulièrement joyeux.
 
 }
 [sha:d2c4e113e0870ed63f057f6db1d1ad293cf7d89d]{
 -- Page 58, Offset 11549.
 -- 一方、草十郎は苦虫をかみつぶしたかのような、重い沈黙に包まれている。
-  Sōjūrō, quant à lui, s'était plongé dans un lourd silence, une grimace sur la figure.
+　Sōjūrō, quant à lui, s'était plongé dans un lourd silence, une grimace sur la figure.
 
 }
 [sha:65cb7c43ed77288b72f54c13ce2bb64eb73c34f7]{
@@ -1111,7 +1111,7 @@ Ou plutôt qui se grattait la tête.
 [sha:5c6ab468f166b01f644012cb3504ca7c2e3b4179]{
 -- Page 59, Offset 11551.
 -- あ、やっぱりナンパとか興味ないか？」
-  Ah, finalement, t'es pas intéressé par la drague ?」
+　Ah, finalement, t'es pas intéressé par la drague ?」
 
 }
 [sha:6ff4a283dd3510635cba4e8921710546a1012aa1]{
@@ -1129,19 +1129,19 @@ Ou plutôt qui se grattait la tête.
 [sha:bb36742d6282ce1451469b48ee060fb61aad2b61]{
 -- Page 60, Offset 11554.
 -- 可愛い女の子は可愛いと思うし、たまに薄着なところに出くわすと目のやり場に困るだろ。ああいう時、自分が男だって事を実感するよな」
-  Les filles mignonnes attirent mon regard, et il m'arrive de ne pas savoir où poser les yeux quand elles portent des tenues légères. C'est dans ces moments-là que je sens que je suis un homme.」
+　Les filles mignonnes attirent mon regard, et il m'arrive de ne pas savoir où poser les yeux quand elles portent des tenues légères. C'est dans ces moments-là que je sens que je suis un homme.」
 
 }
 [sha:edfcac24632224a16ee9fc1bd93103c4cabdd4f7]{
 -- Page 61, Offset 11555.
 -- せいてん　の　へきれき　だった。
-  Ces propos firent l'effet d'un coup de tonnerre.
+　Ces propos firent l'effet d'un coup de tonnerre.
 
 }
 [sha:d033b45c7d5e10b0aae234497393210e44fdc380]{
 -- Page 61, Offset 11556.
 -- 部屋に飾ってあった愛らしいテディベアが、口をあけたら中の人がフィリップ・マーロゥぐらいの衝撃だった。
-  Le choc fut comparable à la réaction que provoquerait la découverte de Philip Marlowe caché dans une mignonne peluche Teddy Bear égayant une chambre d'enfant.
+　Le choc fut comparable à la réaction que provoquerait la découverte de Philip Marlowe caché dans une mignonne peluche Teddy Bear égayant une chambre d'enfant.
 
 }
 [sha:b85b7b3aab5d408af5821f542acc5a9bf4a557e4]{
@@ -1153,7 +1153,7 @@ Ou plutôt qui se grattait la tête.
 [sha:be34555a616ca419e95ca2b4cf0d699999124b11]{
 -- Page 62, Offset 11558.
 -- そ、そりゃそうだよな！　すまん、見くびっていた。つまり静希も、オレたちの同士ってコトでいいんだな？」
-  C-C'est vrai ?! Désolé, je te sous-estimais. Donc, on peut dire que tu es un de nos compagnons, hein ?」
+　C-C'est vrai ?! Désolé, je te sous-estimais. Donc, on peut dire que tu es un de nos compagnons, hein ?」
 
 }
 [sha:42f8db6b91f4f33f6e4aa4aa355cd091c9652934]{
@@ -1177,13 +1177,13 @@ Ou plutôt qui se grattait la tête.
 [sha:46eb3987bb616f331c5cb2e30f8d38706eb52d0c]{
 -- Page 64, Offset 11562.
 -- はてな？　と目をしばたたかせる草十郎。
-  Sōjūrō cligna des yeux, étonné.
+　Sōjūrō cligna des yeux, étonné.
 
 }
 [sha:681d5a20c0e7fcb580c34d140eb5a9acd36c9f7a]{
 -- Page 64, Offset 11563.
 -- 木乃美の説明がいまいち実感できていない。
-  Il ne voyait pas très bien où voulait en venir Kinomi.
+　Il ne voyait pas très bien où voulait en venir Kinomi.
 
 }
 [sha:cc2ed236a8e8b54dd4a6df532ea0b208f31ebf11]{
@@ -1201,13 +1201,13 @@ Ou plutôt qui se grattait la tête.
 [sha:92d56fc56e45e3c61bf97f6cc2a4f01d25312b41]{
 -- Page 65, Offset 11566.
 -- 無防備な誰かにか、
-  Sōjūrō fronça les sourcils d'un air sévère,
+　Sōjūrō fronça les sourcils d'un air sévère,
 
 }
 [sha:5532484b01f31c764503cc4c931f536c3dab19ed]{
 -- Page 65, Offset 11567.
 -- それとも、それに気を取られてしまう自分に対してか、草十郎は居づらそうに顔を曇らせた。
-  peut-être par considération envers une certaine personne sans défense, ou bien par dépit d'avoir été distrait par elle.
+　peut-être par considération envers une certaine personne sans défense, ou bien par dépit d'avoir été distrait par elle.
 
 }
 [sha:3c0680cf51d85bd9bf2925b0585cbfecceb6bd71]{
@@ -1219,13 +1219,13 @@ Ou plutôt qui se grattait la tête.
 [sha:1ebda9642eaf68bb2cbe11319dc0f7898fc3daa4]{
 -- Page 66, Offset 11569.
 -- よし、そうと決まればさっそくナンパに行こうぜ！　面子が変われば<釣果|ちょうか>も変わるってもんだ！」
-  Bon, maintenant que c'est décidé, allons donc draguer sans attendre ! La qualité de la prise dépend des visages présents !」
+　Bon, maintenant que c'est décidé, allons donc draguer sans attendre ! La qualité de la prise dépend des visages présents !」
 
 }
 [sha:2e6485fcee30e351b2bab4ff6a0c40eee4b38e9d]{
 -- Page 67, Offset 11570.
 -- 何が嬉しいのか、木乃美は草十郎の肩を抱いて、共に駅前方面へと歩きだす。
-  Dans une bonne humeur étonnante, Kinomi accompagna Sōjūrō en direction de la gare en l'étreignant par l'épaule.
+　Dans une bonne humeur étonnante, Kinomi accompagna Sōjūrō en direction de la gare en l'étreignant par l'épaule.
 
 }
 [sha:175401a57a28c382baf93facecadafc151cba180]{
@@ -1237,7 +1237,7 @@ Ou plutôt qui se grattait la tête.
 [sha:6742dce8c9d44f4a6fc22a44cbe13c4a02c03107]{
 -- Page 68, Offset 11572.
 -- 草十郎。そもそもナンパって言葉がなんなのか、知ってるか？」
-  Sōjūrō. En premier lieu, est-ce que tu sais ce que veut dire le mot draguer ?」
+　Sōjūrō. En premier lieu, est-ce que tu sais ce que veut dire le mot draguer ?」
 
 }
 [sha:8a3a8a415d20948c81872eba0c377dff5864c5c6]{
@@ -1255,31 +1255,31 @@ Ou plutôt qui se grattait la tête.
 [sha:c53b84f634950c22d2cb96d34d67638554d362ee]{
 -- Page 69, Offset 11575. Mods: @k, @e.
 -- ①軟弱な意見の党派。「―議員」
-  ① Parti à l'opinion minoritaire. 「Membre du parlement」
+　① Parti à l'opinion minoritaire. 「Membre du parlement」
 
 }
 [sha:9f5dcf0947d48c1300ccbaf02dc7ffa8eebd0c97]{
 -- Page 69, Offset 11576. Mods: @k, @e.
 -- ②文芸上エロチシズムを主とするもの。「江戸―」
-  ② Spécialisé dans l'érotisme littéraire. 「Érotisme d'Edo」
+　② Spécialisé dans l'érotisme littéraire. 「Érotisme d'Edo」
 
 }
 [sha:2d6f29ee535d481b978604968c318e3f4254f1e3]{
 -- Page 69, Offset 11577. Mods: @k, @e.
 -- ③社会面や文学における艶物の担当。「―記者」
-  ③ En charge des histoires d'amour dans la rubrique sociale ou la littérature. 「Journaliste」
+　③ En charge des histoires d'amour dans la rubrique sociale ou la littérature. 「Journaliste」
 
 }
 [sha:f7c8a7cfbdbbce73c98e047b3259779bfc0d00c2]{
 -- Page 69, Offset 11578. Mods: @k, @e.
 -- ④軟弱な風潮に同調する人々。
-  ④ Les gens qui ont des tendances douteuses.
+　④ Les gens qui ont des tendances douteuses.
 
 }
 [sha:e6f6785fdeb5ad2ec5661fc7863e49a97a956345]{
 -- Page 69, Offset 11579.
 -- ⑤転じて、女性などを誘惑すること。硬派
-  ⑤ Séduire activement les femmes. Coureur de jupons.
+　⑤ Séduire activement les femmes. Coureur de jupons.
 
 }
 [sha:9adda2e4df7d6817b22d9eb07141a6de2ddbf4e2]{
@@ -1297,13 +1297,13 @@ La deuxième ?」
 [sha:f746c1b6eddce22b1238d59263c2559a5ad1cd05]{
 -- Page 70, Offset 11582.
 -- 論外である。
-  Faux.
+　Faux.
 
 }
 [sha:306996d1467d87e2254bbe95dd03b9e0abd39bbf]{
 -- Page 70, Offset 11583.
 -- いずれ死語になる言葉ではあるが、８０年代の高校生にとってナンパとは十中八九、五番に該当する。
-  C'était un mot qui deviendrait un jour archaïque, mais pour les lycéens des années 80, <draguer|nanpa> correspondait huit ou neuf fois sur dix à la cinquième définition.
+　C'était un mot qui deviendrait un jour archaïque, mais pour les lycéens des années 80, <draguer|nanpa> correspondait huit ou neuf fois sur dix à la cinquième définition.
 
 }
 [sha:073e561be52c48216865eeae68f013bdfc63941a]{
@@ -1315,19 +1315,19 @@ La deuxième ?」
 [sha:9394256bebdb4c51cc842999d9e0332aff80b1f8]{
 -- Page 71, Offset 11585.
 -- <女|おんな>引っかけに行くなら一人で行け。ああ、あと三咲の駅前はやめとけよ、うちの評判が悪くなるから。ナンパなら隣町でやりやがれ」
-  Si t'as envie d'aller baratiner des femmes, vas-y tout seul. Ah, et aussi, évite la gare de Misaki, ce serait mauvais pour notre réputation. Si tu veux draguer, va dans la ville voisine.」
+　Si t'as envie d'aller baratiner des femmes, vas-y tout seul. Ah, et aussi, évite la gare de Misaki, ce serait mauvais pour notre réputation. Si tu veux draguer, va dans la ville voisine.」
 
 }
 [sha:2eff6a990548584b8c547bfd96acb0844ed5c1e4]{
 -- Page 71, Offset 11586.
 -- 鳶丸はシッシッと手を振って悪い虫を追い払う。
-  Tobimaru chassa la mauvaise graine d'un geste de la main.
+　Tobimaru chassa la mauvaise graine d'un geste de la main.
 
 }
 [sha:74a36e09e91f277a2d7184ce72e045422b197f8f]{
 -- Page 71, Offset 11587.
 -- ちぇっ、と舌打ちして木乃美は草十郎から肩を離した。
-  Kinomi fit claquer sa langue et lâcha l'épaule de Sōjūrō.
+　Kinomi fit claquer sa langue et lâcha l'épaule de Sōjūrō.
 
 }
 [sha:e56c81c9124618fa1ec496770dabc50b12fbb34f]{
@@ -1339,19 +1339,19 @@ La deuxième ?」
 [sha:571407511dd655e019c5c192098ff3785427404d]{
 -- Page 72, Offset 11589.
 -- いつのまにかオレたちの番が回ってきたみたいだし？」
-  Et puis, on dirait que notre tour est arrivé sans même qu'on s'en soit rendu compte.」
+　Et puis, on dirait que notre tour est arrivé sans même qu'on s'en soit rendu compte.」
 
 }
 [sha:75dbd15bb52db4dbe07d28b670afb74e54e04b60]{
 -- Page 72, Offset 11590.
 -- 悪態をつきながら木乃美はマウンドに向かう。
-  Kinomi se dirigea vers le monticule en se lamentant.
+　Kinomi se dirigea vers le monticule en se lamentant.
 
 }
 [sha:027fa5f8e1ea62a65f605bcd7133b08d354e0c54]{
 -- Page 72, Offset 11591.
 -- それを草十郎は名残惜しそうに見送っている。
-  Sōjūrō le suivit du regard avec regret.
+　Sōjūrō le suivit du regard avec regret.
 
 }
 [sha:028f008a82e936b3aec8d04c742677f75cdbfd4f]{
@@ -1369,7 +1369,7 @@ La deuxième ?」
 [sha:591c8e53cdc08f49366ab8251be5fd56df91d41c]{
 -- Page 73, Offset 11594.
 -- そうだ鳶丸。生徒会室にあるあの白いヤツ、どこにいけば買えるか知ってるか？」
-  Ah, je sais ! Tobimaru, ce truc blanc qu'il y a dans la salle du conseil étudiant, tu sais où on peut en acheter ?」
+　Ah, je sais ! Tobimaru, ce truc blanc qu'il y a dans la salle du conseil étudiant, tu sais où on peut en acheter ?」
 
 }
 [sha:0e58401c073b2cbb15e5501ba4b8b0bcb3c02af3]{
@@ -1381,19 +1381,19 @@ La deuxième ?」
 [sha:eff8652ef441bd4fc400f4d09ed984db551eb2e0]{
 -- Page 74, Offset 11596.
 -- 草十郎は両手をいっぱいに広げて、奇妙なジェスチャーをした。
-  Sōjūrō écarta ses bras au maximum et fit un geste étrange.
+　Sōjūrō écarta ses bras au maximum et fit un geste étrange.
 
 }
 [sha:c7671a1a7bc1cc3c9870761b24529e896502ed66]{
 -- Page 75, Offset 11597.
 -- 一時間後、駅前デパート。
-  Une heure plus tard, au supermarché devant la gare.
+　Une heure plus tard, au supermarché devant la gare.
 
 }
 [sha:22c7fe732cb5053c7746b259a2480a97c70b0f1b]{
 -- Page 75, Offset 11598.
 -- 草十郎が欲しがっていたものが何であるか知った後でも、鳶丸は首をかしげていた。
-  Même après avoir su ce que Sōjūrō voulait, Tobimaru était resté perplexe.
+　Même après avoir su ce que Sōjūrō voulait, Tobimaru était resté perplexe.
 
 }
 [sha:4c9094256f4951b8f578e1e34e73034e9815e22e]{
@@ -1405,13 +1405,13 @@ La deuxième ?」
 [sha:ec7509ce1e06beb8bd1f4ca83794d85325cc072d]{
 -- Page 76, Offset 11600.
 -- 有珠の用意した夕飯があまりにも素晴らしかったからなのか。
-  Le splendide dîner d'Alice devait avoir fait son petit effet,
+　Le splendide dîner d'Alice devait avoir fait son petit effet,
 
 }
 [sha:2ce98502f7ea285db35dc0aabeccab0fe867ec78]{
 -- Page 76, Offset 11601.
 -- 久遠寺邸の夜は珍しく、三者三様に上機嫌なくつろぎ空間と化していた。
-  car ce soir, le trio de la résidence Kuonji était pour une fois plongé dans une ambiance sereine.
+　car ce soir, le trio de la résidence Kuonji était pour une fois plongé dans une ambiance sereine.
 
 }
 [sha:7e311bceff2d34da376cd2b2a20ea324b29649ee]{
@@ -1423,13 +1423,13 @@ La deuxième ?」
 [sha:f0278d98c16edfa9be1d51b9f3dd37457c46645f]{
 -- Page 77, Offset 11603. Glued. Mods: @x.
 -- ……いったい、どうやって？」
-  ...... Comment c'est possible ?」
+　...... Comment c'est possible ?」
 
 }
 [sha:f0c7192c469739db9939a116c6a3f2d4f019bb03]{
 -- Page 77, Offset 11604.
 -- 三つ目のソファー……屋敷の地下室から実力でゲットした記念品……に座りながら、草十郎はサンルームの有珠に話しかける。
-  Assis sur le troisième sofa, souvenir récupéré après avoir déployé beaucoup d'efforts dans le sous-sol de la résidence, Sōjūrō s'adressa à Alice dans la véranda.
+　Assis sur le troisième sofa, souvenir récupéré après avoir déployé beaucoup d'efforts dans le sous-sol de la résidence, Sōjūrō s'adressa à Alice dans la véranda.
 
 }
 [sha:d5d51b3677c49b64833ec3badb51f00308a8cef3]{
@@ -1441,43 +1441,43 @@ La deuxième ?」
 [sha:b33f7334bc3fcc74e86cf0736d4884986ffb242a]{
 -- Page 78, Offset 11606.
 -- 寝起きのアーリー、朝食のブレックファースト、午前のイレブンジズ、午後のミィディティーブレイク、午後の社交界アフタヌーン、夜会のハイティー、ディナー後のアフターディナー。
-  Le Early au réveil, le Breakfast au petit déjeuner, le Elevenses le matin, le Midi Tea Break l'après-midi, l'Afternoon de l'après-midi dans la haute société, le High Tea des soirées mondaines, et l'After Tea après le dîner.
+　Le Early au réveil, le Breakfast au petit déjeuner, le Elevenses le matin, le Midi Tea Break l'après-midi, l'Afternoon de l'après-midi dans la haute société, le High Tea des soirées mondaines, et l'After Tea après le dîner.
 
 }
 [sha:5ccf5e962cc20916c09f03cbe0cf0ae57d66c933]{
 -- Page 78, Offset 11607.
 -- この中で食事に該当するのはハイティーだけよ。田舎での話だけれど」
-  Parmi eux, il n'y a que le High Tea qui se prend au cours d'un repas. Du moins à la campagne.」
+　Parmi eux, il n'y a que le High Tea qui se prend au cours d'un repas. Du moins à la campagne.」
 
 }
 [sha:21b1f2575187638fa4ba3b8b06611a1a16b138ec]{
 -- Page 79, Offset 11608.
 -- 有珠はサンルームでひとり、紅茶を<愉|たの>しんでいる。
-  Alice dégustait son thé en solitaire dans la véranda.
+　Alice dégustait son thé en solitaire dans la véranda.
 
 }
 [sha:c82d8da6240c3a6b5c77d3a694f0ead04ea91b2b]{
 -- Page 79, Offset 11609.
 -- 口にしているのはロイヤルブレンドティー。
-  Elle savourait un Royal Blend Tea.
+　Elle savourait un Royal Blend Tea.
 
 }
 [sha:557a0e97e075c368f9c3fa8aa3cd0553f48b7604]{
 -- Page 79, Offset 11610.
 -- ダージリン、セイロン、アッサムの<茶葉|オレンジペコー>を<配合|ブレンド>した逸品だ。
-  C'était un véritable délice, un assortiment de feuilles de thé de Darjeeling, Ceylon et Assam.
+　C'était un véritable délice, un assortiment de feuilles de thé de Darjeeling, Ceylon et Assam.
 
 }
 [sha:916776d6f11f64545a1a938183a4c1178a9a3dc2]{
 -- Page 79, Offset 11611.
 -- お茶請けには砂糖をまぶした苺を完備。
-  Le gâteau de thé était agrémenté d'une fraise recouverte de sucre.
+　Le gâteau de thé était agrémenté d'une fraise recouverte de sucre.
 
 }
 [sha:01b43d87a55dfca81f75e3b7a5f718db6ed47ce8]{
 -- Page 79, Offset 11612.
 -- もう完全に自分だけの世界を形成している。
-  Elle était déjà parfaitement isolée dans son propre monde.
+　Elle était déjà parfaitement isolée dans son propre monde.
 
 }
 [sha:260c981f0bdf354bdc98261c148087d625c44833]{
@@ -1495,25 +1495,25 @@ La deuxième ?」
 [sha:ec0950a76e4c3e7ac1f34abe1d9ab6a5a210a6c4]{
 -- Page 80, Offset 11615.
 -- 草十郎のボケ倒しも通用しない。
-  La pique idiote de Sōjūrō n'eut aucun effet.
+　La pique idiote de Sōjūrō n'eut aucun effet.
 
 }
 [sha:4b143046195a0dc16aed7ee776338a4017678148]{
 -- Page 80, Offset 11616.
 -- 有珠は細い指でじかに苺を摘んで、口づけるように舌に運んだ。
-  Alice saisit la fraise du bout des doigts et la porta jusqu'à sa langue, comme pour l'embrasser.
+　Alice saisit la fraise du bout des doigts et la porta jusqu'à sa langue, comme pour l'embrasser.
 
 }
 [sha:0756f2df2e036114f2c0a7ac52e676f3a738c21a]{
 -- Page 81, Offset 11617.
 -- その満足げな横顔に見惚れそうになって、草十郎はぶんぶんと頭を振る。
-  Sōjūrō secoua la tête quand il réalisa qu'il fixait son air satisfait.
+　Sōjūrō secoua la tête quand il réalisa qu'il fixait son air satisfait.
 
 }
 [sha:6c554f065c96b70ad240107d25265c9b3db6a1d5]{
 -- Page 81, Offset 11618.
 -- 昼間の話が尾を引いているのか、同居人たちが垣間見せる“異性らしさ”に、やや過敏になっているようだ。
-  La conversation plus tôt dans la journée devait encore le tarauder, car il était devenu un peu trop sensible à la féminité que laissait entr'apercevoir ses colocataires.
+　La conversation plus tôt dans la journée devait encore le tarauder, car il était devenu un peu trop sensible à la féminité que laissait entr'apercevoir ses colocataires.
 
 }
 [sha:d0d19c797029037196ea2ba80ccef3562b3994a0]{
@@ -1537,13 +1537,13 @@ La deuxième ?」
 [sha:2dbad7a4fce5981f905b6e4b68f3ae7308ab2ed6]{
 -- Page 82, Offset 11622.
 -- 草十郎は真横に視線を移す。
-  Sōjūrō tourna ses yeux vers l'autre côté de la pièce.
+　Sōjūrō tourna ses yeux vers l'autre côté de la pièce.
 
 }
 [sha:62ced0bc57c16c9dc8465ef42c68bee831678ba1]{
 -- Page 82, Offset 11623.
 -- そこには、
-  À l'extrémité de son regard...
+　À l'extrémité de son regard...
 
 }
 [sha:d3daca43200423b83c3b172785d068bd99ff2f32]{
@@ -1555,19 +1555,19 @@ La deuxième ?」
 [sha:fe488d0d92e1cccca3af9142db6f7c346b71748b]{
 -- Page 83, Offset 11625.
 -- うちの生徒会なんて黙ってお茶飲んでるだけよ？　いちいち鍋からお湯沸かして、ポット使って、たっぷり蒸らすなんて、三時のおやつと夕食後だけで十分でしょう。
-  Notre conseil étudiant reste toujours très calme quand on boit le thé. On fait bouillir l'eau dans une casserole, on la met dans une théière, on laisse infuser et tout le tintouin, pour le goûter de trois heures et après le dîner.
+　Notre conseil étudiant reste toujours très calme quand on boit le thé. On fait bouillir l'eau dans une casserole, on la met dans une théière, on laisse infuser et tout le tintouin, pour le goûter de trois heures et après le dîner.
 
 }
 [sha:4ea69e20b0cf2d925121361bf6ca21d95752c31e]{
 -- Page 83, Offset 11626.
 -- 有珠は手間をかけすぎ。私、贅沢は好きだけど、贅沢に慣れるのはご免だから」
-  Tu prends ces cérémonies du thé trop à cœur. J'aime le luxe, mais je refuse de m'y habituer.」
+　Tu prends ces cérémonies du thé trop à cœur. J'aime le luxe, mais je refuse de m'y habituer.」
 
 }
 [sha:d60ce400334d5d6d66c548f6a8ca733dbe59fef8]{
 -- Page 83, Offset 11627.
 -- 有珠に反論しつつも、これまた上機嫌な青子がいる。
-  Même si elle faisait la morale à Alice, Aoko n'en restait pas moins de bonne humeur.
+　Même si elle faisait la morale à Alice, Aoko n'en restait pas moins de bonne humeur.
 
 }
 [sha:b9ecff2d364bcb863de78eb10ff69688bd5d5ae2]{
@@ -1585,31 +1585,31 @@ La deuxième ?」
 [sha:71583792ee373f4d226d3301fd43176c05323e78]{
 -- Page 84, Offset 11630.
 -- 気をつけなさいね草十郎。美味しい紅茶を淹れようとしてペットボトルの水なんて買ってきたら、有珠に一時間近くお説教されるから。知識も心構えもなってない、って」
-  Fais attention, Sōjūrō. Si tu achètes une bouteille d'eau pour préparer du bon thé noir, Alice te fera un sermon d'une heure. Elle dira que tu n'as ni les connaissances ni la mentalité adéquates.」
+　Fais attention, Sōjūrō. Si tu achètes une bouteille d'eau pour préparer du bon thé noir, Alice te fera un sermon d'une heure. Elle dira que tu n'as ni les connaissances ni la mentalité adéquates.」
 
 }
 [sha:d4ce4b83838f55b8848cee4bfec7f1921c9095dd]{
 -- Page 85, Offset 11631.
 -- 水が美味しければ紅茶も美味しくなるはずだ。
-  En le préparant avec une excellente eau, le thé ne pouvait en être que meilleur.
+　En le préparant avec une excellente eau, le thé ne pouvait en être que meilleur.
 
 }
 [sha:b7d8becf402014e3682d4b836a7c7b5fb0813fd8]{
 -- Page 85, Offset 11632.
 -- 久遠寺邸に引っ越してすぐの頃、青子はそう考えてペットボトルの自然水を買ってきた。
-  Voilà ce qu'avait en tête Aoko lorsqu'elle avait acheté des bouteilles d'eau minérale à ses débuts dans la résidence Kuonji.
+　Voilà ce qu'avait en tête Aoko lorsqu'elle avait acheté des bouteilles d'eau minérale à ses débuts dans la résidence Kuonji.
 
 }
 [sha:88acf570679bd32f68435f1e47cf34d1e0778d93]{
 -- Page 85, Offset 11633.
 -- これでどうよ、と自信満々の青子だったが、結果は同居人とのはじめての“人間らしい”口論だった。
-  Elle s'était montrée confiante et fière d'elle, mais son idée avait débouché sur la première dispute “humaine” avec sa colocataire.
+　Elle s'était montrée confiante et fière d'elle, mais son idée avait débouché sur la première dispute “humaine” avec sa colocataire.
 
 }
 [sha:7e1dc80f5050345cfe97e06e9507d7342f34c156]{
 -- Page 85, Offset 11634.
 -- 魔術以外のコトであんなに<罵|ののし>りあい、終わった時は二人とも疲れきって、
-  Après s'être longuement insultées sur un sujet autre que la Magie, elles avaient fini totalement épuisées.
+　Après s'être longuement insultées sur un sujet autre que la Magie, elles avaient fini totalement épuisées.
 
 }
 [sha:6f5d08fca85487cdd7d1a17d3b7d3c8ce55492e1]{
@@ -1627,13 +1627,13 @@ La deuxième ?」
 [sha:92314d13d7345f55178957b03b913db5a7a9cb4d]{
 -- Page 86, Offset 11637.
 -- これまたはじめて、蕎麦屋に電話で注文する経験をした。
-  C'est ainsi qu'elles passèrent leur première commande par téléphone à un restaurant de soba.
+　C'est ainsi qu'elles passèrent leur première commande par téléphone à un restaurant de soba.
 
 }
 [sha:dc1612dc0392884114e8704b5316d9404984d7f4]{
 -- Page 86, Offset 11638.
 -- 以来、二人の<自堕落|じだらく>っぷりは加速の<一途|いっと>を辿ったのである。
-  Depuis, leur dépravation était allée en s'accélérant.
+　Depuis, leur dépravation était allée en s'accélérant.
 
 }
 [sha:65cf257ef0ad73d276e28fd105fdc35be4ef6ccf]{
@@ -1645,7 +1645,7 @@ La deuxième ?」
 [sha:8e67e380ccb79701a88f518da89be9a0113213c5]{
 -- Page 87, Offset 11640.
 -- 私、姉貴の影響で中学までコーヒー党だったのに」
-  Pourtant, sous l'influence de ma sœur, j'étais plutôt adepte du café jusqu'au collège.」
+　Pourtant, sous l'influence de ma sœur, j'étais plutôt adepte du café jusqu'au collège.」
 
 }
 [sha:db3fef59e5c21d30ce834feec131c1e29cd6c0a3]{
@@ -1657,7 +1657,7 @@ La deuxième ?」
 [sha:9b3950e923938a757a47b65af737c0ed0039dc0a]{
 -- Page 88, Offset 11642.
 -- 青子が連れ出してくれなかったら、コープランドのアンティークカップに出会えなかったもの」
-  Si Aoko ne m'avait pas fait sortir, je ne serais jamais tombée sur la tasse antique de Copland.」
+　Si Aoko ne m'avait pas fait sortir, je ne serais jamais tombée sur la tasse antique de Copland.」
 
 }
 [sha:9685dfe8c25e103b6e1e40eaa9810322fc334968]{
@@ -1669,25 +1669,25 @@ La deuxième ?」
 [sha:de87ce9395603fca0659f9c04d516f13a4890327]{
 -- Page 89, Offset 11644.
 -- 居間とサンルーム。
-  Même si elles étaient dans des pièces différentes,
+　Même si elles étaient dans des pièces différentes,
 
 }
 [sha:a7dbad65117ee64231a1c480ae7727a44cb8d2c9]{
 -- Page 89, Offset 11645.
 -- 離れてはいるものの二人は楽しげに会話をしている。
-  l'une dans le salon et l'autre dans la véranda, les deux jeunes filles se parlaient joyeusement.
+　l'une dans le salon et l'autre dans la véranda, les deux jeunes filles se parlaient joyeusement.
 
 }
 [sha:3a6b8200bc83df6a6a6f0dec233084ad66f680a5]{
 -- Page 89, Offset 11646.
 -- せっかく仲が良いんだから、居間で向き合って話をすればいいのに、と草十郎は首をかしげる。
-  Puisqu'elles s'entendent si bien que ça, elles pourraient tout aussi bien discuter face à face dans le salon, pensa Sōjūrō perplexe.
+　Puisqu'elles s'entendent si bien que ça, elles pourraient tout aussi bien discuter face à face dans le salon, pensa Sōjūrō perplexe.
 
 }
 [sha:9230bf7fae04a5f84332501082d957109e7203dd]{
 -- Page 89, Offset 11647.
 -- 離れているからこそ思い出話には興が乗ることを、彼はまだ知らないのだ。
-  Il ne pouvait pas encore savoir que c'était précisément la distance qui les séparait qui leur permettait de se replonger dans la nostalgie du passé.
+　Il ne pouvait pas encore savoir que c'était précisément la distance qui les séparait qui leur permettait de se replonger dans la nostalgie du passé.
 
 }
 [sha:69cc1d7fd8dd28d6e0c20b8fcbeb0f390b50c415]{
@@ -1705,7 +1705,7 @@ La deuxième ?」
 [sha:f9e39864da227802b807ce2c090fba75aa4e6bbc]{
 -- Page 90, Offset 11650.
 -- 今日だってずっと洋館にいたんでしょう、有珠？」
-  Aujourd'hui, ça a été pareil, non ? Tu es restée toute la journée dans le manoir, n'est-ce pas Alice ?」
+　Aujourd'hui, ça a été pareil, non ? Tu es restée toute la journée dans le manoir, n'est-ce pas Alice ?」
 
 }
 [sha:94e6b093361a00f54410a9e3659346f9c256ef07]{
@@ -1717,7 +1717,7 @@ La deuxième ?」
 [sha:088ff8979dae8f55b30973768ce1b72a5737483c]{
 -- Page 91, Offset 11652.
 -- 今日はプロイの補充に忙しかっただけだし」
-  Et aujourd'hui, j'étais juste occupée à renouveler mes Ploy.」
+　Et aujourd'hui, j'étais juste occupée à renouveler mes Ploy.」
 
 }
 [sha:5e21d55c5eb2799989ac40bc60350e1bc8df6fb8]{
@@ -1729,7 +1729,7 @@ La deuxième ?」
 [sha:2fe1f33c4afc062cca2d1eaea4e8a3130a758b1e]{
 -- Page 92, Offset 11654.
 -- 遊園地で酷い目にあって以来、草十郎はプロイと聞くと過敏に反応する。あの時は逃げるのに手一杯だったが、時間が経つにつれ、
-  Depuis qu'il avait passé un sale quart d'heure au parc d'attractions, Sōjūrō réagissait avec nervosité dès qu'il entendait le mot Ploy. Ce jour-là, il n'avait fait que s'enfuir, mais depuis, de l'eau avait coulé sous les ponts,
+　Depuis qu'il avait passé un sale quart d'heure au parc d'attractions, Sōjūrō réagissait avec nervosité dès qu'il entendait le mot Ploy. Ce jour-là, il n'avait fait que s'enfuir, mais depuis, de l'eau avait coulé sous les ponts,
 
 }
 [sha:74a7b7269489b51b14ff552cd7c0ca063284f20d]{
@@ -1741,7 +1741,7 @@ La deuxième ?」
 [sha:e7939e7c23387b7ddb3e1817859fe51f0fd66751]{
 -- Page 92, Offset 11656.
 -- と気になって仕方がなかったらしい。
-  et cette question le turlupinait au plus haut point.
+　et cette question le turlupinait au plus haut point.
 
 }
 [sha:e716800fd3bb08c9517adf4061b7a7a236745791]{
@@ -1765,13 +1765,13 @@ La deuxième ?」
 [sha:6533077dccb1d40c29754f2aa95ee08cd919c4ac]{
 -- Page 94, Offset 11660.
 -- ちょっとした触りだけなら怒らないわよね、有珠？」
-  Survoler un peu le sujet ne nous attirera pas tes foudres j'espère, Alice ?」
+　Survoler un peu le sujet ne nous attirera pas tes foudres j'espère, Alice ?」
 
 }
 [sha:9cac34a71d0ba282b0b7f2bf7b1c115a922663c3]{
 -- Page 94, Offset 11661.
 -- 勢いよく脚を組み替える青子。
-  Aoko croisa les jambes avec entrain.
+　Aoko croisa les jambes avec entrain.
 
 }
 [sha:66a68e71280e325d561614ec6ceb87c9182d103e]{
@@ -1783,7 +1783,7 @@ La deuxième ?」
 [sha:cc81cdd642d8b9e6d9a62f7527980340186fd5e2]{
 -- Page 94, Offset 11663.
 -- わたしと貴女の違いを話すぐらいなら、いいけど」
-  Si tu ne fais qu'aborder ce qui nous différencie, toi et moi, ça ne me gêne pas.」
+　Si tu ne fais qu'aborder ce qui nous différencie, toi et moi, ça ne me gêne pas.」
 
 }
 [sha:942fce7c97d9045e04a1e363f477459c5f4966a5]{
@@ -1795,7 +1795,7 @@ La deuxième ?」
 [sha:cc7a8d03edd634c324990bfbfe726a0d30883def]{
 -- Page 95, Offset 11665. Glued. Mods: @x.
 -- ……ってなによアンタ、妙な顔して。自分から言っておいて尻尾まくの？」
-  ...... Bah, pourquoi tu fais cette tête d'enterrement ? C'est toi qui as demandé, et maintenant, tu as changé d'avis ?」
+　...... Bah, pourquoi tu fais cette tête d'enterrement ? C'est toi qui as demandé, et maintenant, tu as changé d'avis ?」
 
 }
 [sha:7c42bf693f7b73867a5d6bb0511048fc9cdb6f11]{
@@ -1807,13 +1807,13 @@ La deuxième ?」
 [sha:08cc6c32fd09e01bde2a6a5e5b66e831a3d9655f]{
 -- Page 95, Offset 11667.
 -- 青子に正面から見つめられて、草十郎はつい視線を泳がす。
-  Fixé par Aoko, Sōjūrō fuit involontairement son regard.
+　Fixé par Aoko, Sōjūrō fuit involontairement son regard.
 
 }
 [sha:9625a28a856ae7c34615ba74451916e80f0b4fe1]{
 -- Page 96, Offset 11668.
 -- 現状、青子との接点は食後のひとときだけなので<接触事故|ニアミス>はないのだが、たまに、こういう無防備な仕草を目にしてしまい、対応に困る草十郎だった。
-  Ces derniers jours, il ne la voyait qu'après les repas, ce qui avait évité tout incident. Mais l'attitude innocente qu'elle adoptait parfois le mettait mal à l'aise.
+　Ces derniers jours, il ne la voyait qu'après les repas, ce qui avait évité tout incident. Mais l'attitude innocente qu'elle adoptait parfois le mettait mal à l'aise.
 
 }
 [sha:2913e6d3202a4c6712b376a38b5e479641da5a71]{
@@ -1831,49 +1831,49 @@ La deuxième ?」
 [sha:b189e476826a7f072dcb7ce2a21f3eeac3e99eb2]{
 -- Page 97, Offset 11671.
 -- それでは特別授業、なぜなにプロイキッシャー、はじまりはじまり～」
-  Que le cours spécial, “Tout sur les Ploy Kickshaw”, commence !」
+　Que le cours spécial, “Tout sur les Ploy Kickshaw”, commence !」
 
 }
 [sha:242f4ff2a74b5a560d036e430f48ec958f4d4896]{
 -- Page 98, Offset 11672.
 -- 青子はパチンと指を鳴らす。
-  Aoko claqua des doigts.
+　Aoko claqua des doigts.
 
 }
 [sha:085115a6b0485b04b474ce93c8681a604e46a73f]{
 -- Page 98, Offset 11673.
 -- テレビのスイッチを入れる真似ごとらしい。
-  Elle semblait vouloir imiter le son d'une télévision que l'on allume.
+　Elle semblait vouloir imiter le son d'une télévision que l'on allume.
 
 }
 [sha:dcf38807f3c57f743ccf61f9f99ada38761a508e]{
 -- Page 98, Offset 11674.
 -- ……<一時|いっとき>の番外編。
-  ...... Un bref chapitre bonus,
+　...... Un bref chapitre bonus,
 
 }
 [sha:8ba7b085b3b0ac86624a00853a3d1321bac2cb95]{
 -- Page 98, Offset 11675.
 -- 久遠寺有珠監修、久遠寺有珠出演による、ある魔術系統のレクチャーはこうして始まった。
-  supervisé et représenté par Kuonji Alice, et expliquant une certaine catégorie de familiers, débuta ainsi.
+　supervisé et représenté par Kuonji Alice, et expliquant une certaine catégorie de familiers, débuta ainsi.
 
 }
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 99, Offset 11676.
 -- が。
-  Malheureusement,
+　Malheureusement,
 
 }
 [sha:03305dd3327e128df3cbb11967187d21a2942815]{
 -- Page 99, Offset 11677.
 -- せっかくの特番は三十分ほどで打ち切りと相成った。
-  l'émission spéciale tant attendue s'interrompit au bout d'environ trente minutes.
+　l'émission spéciale tant attendue s'interrompit au bout d'environ trente minutes.
 
 }
 [sha:f69bc3717223bd320179a4c8517559d0c973601e]{
 -- Page 99, Offset 11678.
 -- 聞き手である草十郎をおいてけぼりにした、あまりにマニアックな内容だったからである。
-  En effet, son contenu farfelu avait quelque peu déboussolé l'auditeur, Sōjūrō.
+　En effet, son contenu farfelu avait quelque peu déboussolé l'auditeur, Sōjūrō.
 
 }
 [sha:eb1643ad2d74bed5f51cef9f9a2abd56d5b0c10f]{
@@ -1885,13 +1885,13 @@ La deuxième ?」
 [sha:997ba37e1012b302e473da5ecdec9f14994f8d65]{
 -- Page 100, Offset 11680.
 -- 静希君の覚えの悪さは、三千世界に響き渡るわね」
-  mais tes facultés de réflexion lamentables méritent d'être connues par-delà le monde.」
+　mais tes facultés de réflexion lamentables méritent d'être connues par-delà le monde.」
 
 }
 [sha:12e46f95f2e980de7876bdabd0081bd2fb38cfe4]{
 -- Page 100, Offset 11681.
 -- 死ねばいいのに、と言葉にならないため息をつく有珠。
-  Tu ferais mieux de mourir, se retint de rajouter Alice en poussant un soupir.
+　Tu ferais mieux de mourir, se retint de rajouter Alice en poussant un soupir.
 
 }
 [sha:ab2975ab2ee7e6c3dd5fe16896647569dc6025a7]{
@@ -1903,25 +1903,25 @@ La deuxième ?」
 [sha:0e524826d52f870a9fd85505b8e4bc17fb094366]{
 -- Page 101, Offset 11683.
 -- ソイツにとっちゃ私の魔術も有珠の魔術も“すごく便利”でくくられちゃうものだなんて。他の魔術師が聞いたら失神ものの屈辱よ」
-  Tout ce qu'il trouve à dire sur nos Magies, c'est que c'est “très pratique” ! Si les autres Mages l'entendaient, ils en défailliraient d'humiliation.」
+　Tout ce qu'il trouve à dire sur nos Magies, c'est que c'est “très pratique” ! Si les autres Mages l'entendaient, ils en défailliraient d'humiliation.」
 
 }
 [sha:9d89afd01164e5484badbe7071a52cc9c63dfe44]{
 -- Page 102, Offset 11684.
 -- 青子も本格的に呆れている。
-  Aoko était sidérée elle aussi.
+　Aoko était sidérée elle aussi.
 
 }
 [sha:3f484e27716692d2125458f07a91038f46e6e3b5]{
 -- Page 102, Offset 11685.
 -- もっとも、彼女の場合は反省も混じっていた。
-  Cela dit, elle avait dans le même temps à cogiter sur son manque de discernement.
+　Cela dit, elle avait dans le même temps à cogiter sur son manque de discernement.
 
 }
 [sha:96f5e19fb0461072abd2908d6c9cb6d53b5f46c6]{
 -- Page 102, Offset 11686.
 -- 考えてみればこの結果は見えていたからだ。
-  Parce qu'en y réfléchissant, elle avait vu venir ce résultat.
+　Parce qu'en y réfléchissant, elle avait vu venir ce résultat.
 
 }
 [sha:9500dc59e6e23d743bbad2e8d3c05dff25bf5a26]{
@@ -1933,7 +1933,7 @@ La deuxième ?」
 [sha:5d02a33ae12bbb47fe7858abeb36bce995b28cb1]{
 -- Page 103, Offset 11688.
 -- 蒼崎は壊すだけで、有珠はいろんなものを作って、それで壊すんだろ。有珠の方がやや生産的だ」
-  Aozaki ne fait que détruire, et Alice fabrique toutes sortes de choses dont elle se sert ensuite pour détruire. Au moins, Alice est quelque peu productive.」
+　Aozaki ne fait que détruire, et Alice fabrique toutes sortes de choses dont elle se sert ensuite pour détruire. Au moins, Alice est quelque peu productive.」
 
 }
 [sha:a3e8ec4f6aaefc7b9c7f15e84e9dc930f2e0dd0a]{
@@ -1945,7 +1945,7 @@ La deuxième ?」
 [sha:c0d0210a8a270c4184b76c068d30c4a88246b449]{
 -- Page 104, Offset 11690.
 -- まるで、お気に入りのカップを割ってしまった時、通りかかったキリンに“でもトロルよりマシですよ”と<慰|なぐさ>められた気分だわ」
-  Je ressens la même chose que si une girafe de passage avait cassé ma tasse favorite et me réconfortait en disant qu'il valait mieux que ce soit elle qu'un troll.」
+　Je ressens la même chose que si une girafe de passage avait cassé ma tasse favorite et me réconfortait en disant qu'il valait mieux que ce soit elle qu'un troll.」
 
 }
 [sha:cf3d4725190d8ee9851312d10cdec38c3e74a989]{
@@ -1957,13 +1957,13 @@ La deuxième ?」
 [sha:b144efed0a3deb2516863873be842cb6f2d42444]{
 -- Page 105, Offset 11692.
 -- むっと対面に座った相方を睨む青子。
-  Froissée, Aoko fixait sa partenaire assise face à elle.
+　Froissée, Aoko fixait sa partenaire assise face à elle.
 
 }
 [sha:7c50526526f9fbdeed8f221702fe39f87b4f4c06]{
 -- Page 105, Offset 11693.
 -- トロルとは童話で言うところの、少々おつむの足りない暴れん坊の巨人の名だ。
-  Un troll était un colosse dur à cuire et un peu idiot sur les bords apparaissant dans les contes de fées.
+　Un troll était un colosse dur à cuire et un peu idiot sur les bords apparaissant dans les contes de fées.
 
 }
 [sha:6db2eeb11d166a0d7ae7b34c1054c9071e08375a]{
@@ -1987,19 +1987,19 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:3ac43e97e71cc4381fd3f18c36117184d3f144cb]{
 -- Page 107, Offset 11697.
 -- 両者は互いのダメだしに余念がない。
-  Les deux filles cherchaient avec ardeur à rejeter la faute sur l'autre.
+　Les deux filles cherchaient avec ardeur à rejeter la faute sur l'autre.
 
 }
 [sha:347c16653b728efcf492b1223a8a424d8742b636]{
 -- Page 107, Offset 11698.
 -- こと魔術の技量に関して、両者とも譲れない一線があるようだ。
-  Néanmoins, lorsqu'elles discutaient de leur habileté en Magie, il y avait une limite à ne pas dépasser.
+　Néanmoins, lorsqu'elles discutaient de leur habileté en Magie, il y avait une limite à ne pas dépasser.
 
 }
 [sha:6582e0ae8a3eef171ffe1a3e92eb5f040d00fb31]{
 -- Page 107, Offset 11699.
 -- どちらがより厄介な壊し屋なのかを押しつける、<底辺|ていへん>の争いにしても。
-  Même si cette dispute consistait à déterminer laquelle des deux méritait le plus le titre de fâcheuse destructrice.
+　Même si cette dispute consistait à déterminer laquelle des deux méritait le plus le titre de fâcheuse destructrice.
 
 }
 [sha:7d5802229befc88ed9a0421f81645957341f31b9]{
@@ -2011,13 +2011,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:e622745d178a8f05865bcfde686f0197eb271b18]{
 -- Page 108, Offset 11701.
 -- 前に森で落ち葉を集めているブタを見かけた。あれは有珠の使い魔なのに、なんで蒼崎に言ってやらないんだ。
-  Avant, j'ai aperçu un cochon entasser des feuilles mortes dans la forêt. C'est un de tes familiers, alors pourquoi tu ne le dis pas à Aozaki ?
+　Avant, j'ai aperçu un cochon entasser des feuilles mortes dans la forêt. C'est un de tes familiers, alors pourquoi tu ne le dis pas à Aozaki ?
 
 }
 [sha:2981f8c49d922eeb1d788dce8c466a58aa3cd0b3]{
 -- Page 108, Offset 11702.
 -- ……まあ、いいことをしたのに黙っているのは美徳だって、山城先生は言ってたけど」
-  ...... Enfin... C'est vrai que M. Yamashiro a dit que ne pas se vanter d'avoir fait une bonne action est une vertu, mais tout de même...」
+　...... Enfin... C'est vrai que M. Yamashiro a dit que ne pas se vanter d'avoir fait une bonne action est une vertu, mais tout de même...」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -2029,13 +2029,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:6bcbb2dabb37d5cca60e9968624927d570de2d46]{
 -- Page 109, Offset 11704.
 -- 有珠にしてみれば慣らし運転、ただの準備運動で“お喋り双子”を森に派遣したのだが、草十郎から見れば立派な善行だったらしい。
-  Alice avait envoyé les “jumeaux bavards” dans la forêt dans l'intention de faire un simple échauffement routinier, mais pour Sōjūrō, cela semblait relever de l'acte de bienveillance.
+　Alice avait envoyé les “jumeaux bavards” dans la forêt dans l'intention de faire un simple échauffement routinier, mais pour Sōjūrō, cela semblait relever de l'acte de bienveillance.
 
 }
 [sha:2c6b62b2d63d6b835cf2de15457bb1d121efbc02]{
 -- Page 109, Offset 11705.
 -- 有珠の勝ち、と納得する草十郎に、青子はますます面白くない。
-  Aoko se renfrognait de plus en plus en observant Sōjūrō, convaincu de la victoire d'Alice.
+　Aoko se renfrognait de plus en plus en observant Sōjūrō, convaincu de la victoire d'Alice.
 
 }
 [sha:6118370b8a3bf74c657440e6638d480872a049c7]{
@@ -2053,7 +2053,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:de2d015fcf116ef0a1f432bc10135d0e03528386]{
 -- Page 110, Offset 11708. Glued.
 -- たとえば、お金<儲|もう>けとか？」
- Par exemple, en adoptant un point de vue économique ?」
+Par exemple, en adoptant un point de vue économique ?」
 
 }
 [sha:c28cec00ed00176f127e7d8fe2716e9ccd39c3d5]{
@@ -2071,13 +2071,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:a462df482f10bf7ea21121107a2e2e5a2650a341]{
 -- Page 112, Offset 11711.
 -- あまりに直球な質問に、少女たちは平静を装いつつ顔を見合わせる。
-  Elles échangèrent un regard pour se donner une contenance devant son franc-parler.
+　Elles échangèrent un regard pour se donner une contenance devant son franc-parler.
 
 }
 [sha:f87a8a18f57df7600c2c875610c3caadcf5c57b9]{
 -- Page 112, Offset 11712.
 -- 時に、愚者の思いつきは会議を新たなステージに押し上げるのだった。
-  L'inspiration d'un idiot pouvait parfois propulser la réflexion vers de nouveaux sommets.
+　L'inspiration d'un idiot pouvait parfois propulser la réflexion vers de nouveaux sommets.
 
 }
 [sha:0afc65aa9126c11054a9ee708e4a5c776eecce40]{
@@ -2089,13 +2089,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:ba625502c00d50db1995f7e934a63123fa508a5e]{
 -- Page 113, Offset 11714.
 -- 盲点すぎたっていうか、基本、魔術って損失しか産まないものだから」
-  C'était équivoque, faut dire qu'à la base, la Magie n'apporte que des ennuis.」
+　C'était équivoque, faut dire qu'à la base, la Magie n'apporte que des ennuis.」
 
 }
 [sha:2cc619587e4312aac5470cddd10bcbdc63d93f96]{
 -- Page 113, Offset 11715.
 -- 青子の意見に、うんうん、と頷く有珠。
-  Alice abonda dans son sens.
+　Alice abonda dans son sens.
 
 }
 [sha:f37b90da3858dfdadbd0ed1510c2f39a94a34671]{
@@ -2107,7 +2107,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:d33bba787390d76feddb93092dada6d0ce8b37a8]{
 -- Page 114, Offset 11717.
 -- 貴方から見て、私の魔術はどんな金策ができると思う？」
-  Selon toi, de quelle manière puis-je me procurer de l'argent avec ma Magie ?」
+　Selon toi, de quelle manière puis-je me procurer de l'argent avec ma Magie ?」
 
 }
 [sha:ba02ef9ac144a76195f51787a75707127f66471a]{
@@ -2125,13 +2125,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:0c6e0da5115212112fae6987b2d730080757a8cb]{
 -- Page 114, Offset 11720.
 -- しばし沈黙。
-  Un court silence s'installa.
+　Un court silence s'installa.
 
 }
 [sha:e99ee1d12a0dce36dbe0c52cb04714b11457c2c8]{
 -- Page 115, Offset 11721.
 -- 青子は静かに足を組み直して、
-  Aoko réarrangea calmement ses jambes.
+　Aoko réarrangea calmement ses jambes.
 
 }
 [sha:c2325f7ef6844c2c0c2c1c3581b5f8b0b62c38b9]{
@@ -2143,7 +2143,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:d39d49922c8638522fe137fcb2ab476bc321c19d]{
 -- Page 115, Offset 11723.
 -- わりと真剣に聞き返した。
-  lui demanda-t-elle, plutôt sérieusement.
+　lui demanda-t-elle, plutôt sérieusement.
 
 }
 [sha:0b2b2c02faa87c828e46a27a1648e3b5ee25657f]{
@@ -2155,7 +2155,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:cea5203b4fcbe13b323a839227231a9f73c1fc6a]{
 -- Page 116, Offset 11725.
 -- でも捕まえるのは難しいって。あんな巨大なものが、水の中では車より速く泳ぐと」
-  Mais aussi que c'était difficile à attraper, et que dans l'eau, cette chose énorme allait plus vite qu'une voiture.」
+　Mais aussi que c'était difficile à attraper, et que dans l'eau, cette chose énorme allait plus vite qu'une voiture.」
 
 }
 [sha:d42f7734af345ee32776c353cec5a3dc58194690]{
@@ -2179,7 +2179,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:f019a4452629afc11ebb9246d055a87373027763]{
 -- Page 117, Offset 11729.
 -- 仮に魔弾で迎撃できたとしても、保存できないわ。私、回転を速めるのが専門で止めるのはちょっと。有珠は？」
-  Même en supposant que je l'abatte avec une Balle de prana, je ne pourrai pas le garder intact. Je suis spécialisée dans l'accélération de rotation, pas dans son arrêt. Et toi Alice ?」
+　Même en supposant que je l'abatte avec une Balle de prana, je ne pourrai pas le garder intact. Je suis spécialisée dans l'accélération de rotation, pas dans son arrêt. Et toi Alice ?」
 
 }
 [sha:b214def7a83b4db60e5ba3c303034d13c82fc762]{
@@ -2191,13 +2191,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:b966fa40c933ea776455ef4d92cd8044c8620d1e]{
 -- Page 117, Offset 11731.
 -- たまに妙に気を引くのがいるから、と小さく付け足す有珠だった。
-  “Parce qu'il m'arrive parfois d'être captivée par certains d'entre eux”, rajouta-t-elle d'une petite voix.
+　“Parce qu'il m'arrive parfois d'être captivée par certains d'entre eux”, rajouta-t-elle d'une petite voix.
 
 }
 [sha:685c94195d0d96f87f6c75213765a2293b4618d0]{
 -- Page 118, Offset 11732.
 -- そう、じゃあ無理ね、と青子は両肩を落とす。
-  “Dans ce cas, c'est impossible”, conclut Aoko en baissant les épaules.
+　“Dans ce cas, c'est impossible”, conclut Aoko en baissant les épaules.
 
 }
 [sha:6062642ad832da89c663fce43860092a9ec2ab71]{
@@ -2215,13 +2215,13 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
 [sha:942f9473acb984279e3d4701f157232556f84e37]{
 -- Page 119, Offset 11735.
 -- 首輪の圧迫は五秒ほどで止まった。
-  La pression du collier se relâcha au bout de cinq secondes.
+　La pression du collier se relâcha au bout de cinq secondes.
 
 }
 [sha:02f2981da60a4bd2459903ab873b7910f9ad74af]{
 -- Page 119, Offset 11736.
 -- 微妙にシャレにならない<締め時間|チョークスリーパー>だ。
-  Vu le temps que cela avait duré, ce n'était pas de la comédie.
+　Vu le temps que cela avait duré, ce n'était pas de la comédie.
 
 }
 [sha:641a4c1a75797bf28dbbf14d3eaf36b761e2178c]{
@@ -2251,13 +2251,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:a4cb2b4cad57944e6040f4a41ffce31d57b93cbf]{
 -- Page 121, Offset 11741.
 -- 有珠のプロイにはなんかないの？　<土|つち>食べたら<金|きん>に変換するようなカバとか!?
-  Tu n'as rien parmi tes Ploy ? Comme par exemple, un hippopotame capable de changer la terre qu'il mange en or ?
+　Tu n'as rien parmi tes Ploy ? Comme par exemple, un hippopotame capable de changer la terre qu'il mange en or ?
 
 }
 [sha:af1bc82b8a62095333aa2be1c30f01d824beffb1]{
 -- Page 121, Offset 11742.
 -- ほら、中世の貴族はお抱えの錬金術師で、日夜<金|きん>を作り出す研究をしてたっていうじゃない!?」
-  On dit bien que les aristos du Moyen Âge avaient des Alchimistes attitrés qui cherchaient sans relâche un moyen de fabriquer de l'or.」
+　On dit bien que les aristos du Moyen Âge avaient des Alchimistes attitrés qui cherchaient sans relâche un moyen de fabriquer de l'or.」
 
 }
 [sha:deaae101a579fe7197a3186b3117b218710ddfb9]{
@@ -2269,19 +2269,19 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:4cbab239aa363ff105de80ea33aea3e80fd55e90]{
 -- Page 122, Offset 11744.
 -- ……まあ、騙した貴族たちの貯蓄を食いつぶして新しい技術を生み出したから、無意味ではなかったけど。
-  ...... Mais bon ! Ils ont pu découvrir de nouvelles techniques en dilapidant la fortune de ces aristocrates. Ce n'était donc pas dénué d'intérêt.
+　...... Mais bon ! Ils ont pu découvrir de nouvelles techniques en dilapidant la fortune de ces aristocrates. Ce n'était donc pas dénué d'intérêt.
 
 }
 [sha:8d1db691429f42e3cf9af1045357b6e1c4451785]{
 -- Page 122, Offset 11745.
 -- このマイセンも、元々は<金|きん>を作ると豪語した錬金術師が苦し紛れに産んだ磁器なワケだし」
-  Après tout, ce Meissen est bien une porcelaine qu'ils ont créée en désespoir de cause après s'être targués de fabriquer de l'or.」
+　Après tout, ce Meissen est bien une porcelaine qu'ils ont créée en désespoir de cause après s'être targués de fabriquer de l'or.」
 
 }
 [sha:67ab925a683f84c35dddc2e507ac4b747e1164f7]{
 -- Page 122, Offset 11746.
 -- 有珠は手元のティーカップの縁を指でなぞる。
-  Alice fit courir son doigt sur le bord de sa tasse.
+　Alice fit courir son doigt sur le bord de sa tasse.
 
 }
 [sha:b2c8233c128e36bb58301530e0300cac317989c6]{
@@ -2305,13 +2305,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:03da830fb121016ed56bece6ef9f0423cd6e59aa]{
 -- Page 124, Offset 11750.
 -- ……噂だけど、ある財閥の総帥は社員全員の血を吸って、情報を共有するネットワークを作っているとか。
-  ...... Selon une rumeur, le dirigeant d'un certain conglomérat industriel sucerait le sang de tous ses employés, créant ainsi un réseau au partage d'informations parfait.
+　...... Selon une rumeur, le dirigeant d'un certain conglomérat industriel sucerait le sang de tous ses employés, créant ainsi un réseau au partage d'informations parfait.
 
 }
 [sha:e6f29b2d272703c5da3a4acbd7e12cde482326a2]{
 -- Page 124, Offset 11751.
 -- なんでも吸血鬼になった理由が“精神的に繋がった、決して内部闘争しない商会を作りたいから”だったとか」
-  Il serait devenu un vampire afin de fonder une entreprise soudée mentalement et sans le moindre conflit interne.」
+　Il serait devenu un vampire afin de fonder une entreprise soudée mentalement et sans le moindre conflit interne.」
 
 }
 [sha:ceced6df6a5ec25199b8463f595bf348edfa45e1]{
@@ -2323,13 +2323,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:e72552b923a60074422e6873c206e861bf35708e]{
 -- Page 125, Offset 11753.
 -- あ、有珠のプロイで遊園地をやるのはどう？」
-  Ah ! Que dirais-tu de faire un parc d'attractions avec tes Ploy ?」
+　Ah ! Que dirais-tu de faire un parc d'attractions avec tes Ploy ?」
 
 }
 [sha:1918d867e8af2e6bba0a18ed23be812c7bac077c]{
 -- Page 125, Offset 11754.
 -- ポン、と手を叩く草十郎。
-  Sōjūrō tapa des mains, frappé par un éclair d'illumination.
+　Sōjūrō tapa des mains, frappé par un éclair d'illumination.
 
 }
 [sha:69b40c14326e969030f1bfa708a69246ceba9994]{
@@ -2365,19 +2365,19 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:b05f1eeb0baf5ccbd546858131444139ddfd2a9a]{
 -- Page 128, Offset 11760.
 -- 冷たく拒絶する有珠と、やれやれと引き下がる青子。
-  Alice ayant refusé froidement, Aoko battit en retraite, désappointée.
+　Alice ayant refusé froidement, Aoko battit en retraite, désappointée.
 
 }
 [sha:8cef91c8f302f526de19610df5d4b32eacfad3cb]{
 -- Page 128, Offset 11761.
 -- 雑談をしつつも、少女たちは互いの距離感、踏みこんではいけない線を心得ていた。
-  Elles avaient beau faire la causette, elles savaient bien qu'il y avait une certaine limite à ne pas dépasser.
+　Elles avaient beau faire la causette, elles savaient bien qu'il y avait une certaine limite à ne pas dépasser.
 
 }
 [sha:16fc9d483450be1bbddbf8955039095c4ded20be]{
 -- Page 128, Offset 11762.
 -- 草十郎はそんなふたりを不思議そうに見つめている。
-  Sōjūrō observait le duo d'un drôle d'œil.
+　Sōjūrō observait le duo d'un drôle d'œil.
 
 }
 [sha:7a88be600f27abde17ae953b48d8057a68f25cd9]{
@@ -2401,25 +2401,25 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:b7bed894bfd635a25bbb94db316ca0a6af90d6c9]{
 -- Page 129, Offset 11766.
 -- それなのに、まだ友達だったのか？」
-  Pourtant, vous êtes toujours amies ?」
+　Pourtant, vous êtes toujours amies ?」
 
 }
 [sha:0134606e665512fb1d2632d344aed07b3eab4e8a]{
 -- Page 130, Offset 11767.
 -- 失礼と言えば失礼、
-  La question, cavalière quoique parfaitement naturelle,
+　La question, cavalière quoique parfaitement naturelle,
 
 }
 [sha:b752d724077fad6c0d2d32817adca3955e954910]{
 -- Page 130, Offset 11768.
 -- 当然と言えば当然の疑問に、青子たちは顔を見合わせる。
-  poussa Aoko et Alice à échanger un regard.
+　poussa Aoko et Alice à échanger un regard.
 
 }
 [sha:63022cbc8d58743be1829b50787d40ddce2dcb9d]{
 -- Page 130, Offset 11769.
 -- ふたりは二秒ほど見つめ合ったあと、
-  Après s'être dévisagées environ deux secondes...
+　Après s'être dévisagées environ deux secondes...
 
 }
 [sha:4185ab6fbb4187c5947c759ad1da1fc1583e3895]{
@@ -2443,25 +2443,25 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:0746413f06f520bbfd338a3e5427dae0a9fbd12a]{
 -- Page 131, Offset 11773.
 -- あまりに軽く、
-  Leur amitié était singulière,
+　Leur amitié était singulière,
 
 }
 [sha:4ca4f7078c821b0b39da8fe9f803c08814b63369]{
 -- Page 131, Offset 11774.
 -- また鉄より堅い、驚愕の友情なのだった。
-  ténue mais aussi solide que l'acier.
+　ténue mais aussi solide que l'acier.
 
 }
 [sha:ef208b0de7e6a003e9aa4ad061dd491e9fddd771]{
 -- Page 132, Offset 11775.
 -- おもいのほか長く続いたお茶会は、草十郎の退席でお開きとなった。
-  La Tea Party, qui s'était prolongée étonnamment longtemps, prit fin lorsque Sōjūrō se leva de son siège.
+　La Tea Party, qui s'était prolongée étonnamment longtemps, prit fin lorsque Sōjūrō se leva de son siège.
 
 }
 [sha:4e6468d6d762dc3b43039282c01303b966337b7e]{
 -- Page 132, Offset 11776.
 -- 草十郎としても名残惜しいが、アルバイトは休めない。
-  Il les quittait avec regret, mais il ne pouvait se mettre en retard pour son travail.
+　Il les quittait avec regret, mais il ne pouvait se mettre en retard pour son travail.
 
 }
 [sha:ad6fe1e7f99e6420105b11821d2115d8eaf72eaf]{
@@ -2473,7 +2473,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:b5a3d8dcef95e7ea2aafceaaeeb641dfc7c3bbca]{
 -- Page 133, Offset 11778.
 -- 有珠もいつになく<饒舌|じょうぜつ>だったし」
-  Même Alice s'est montrée exceptionnellement loquace.」
+　Même Alice s'est montrée exceptionnellement loquace.」
 
 }
 [sha:b62a4b1dfd16ce72be08ce3d7f4b250506cf94ee]{
@@ -2485,7 +2485,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:1210cc4ab023e9125dde4bab470e0f91da41738e]{
 -- Page 133, Offset 11780.
 -- ……本当。わたしたちが一日なにをしているのかなんて、聞いても仕方がないのに」
-  ...... Non mais vraiment ! Ça ne rime à rien de se renseigner sur nos journées.」
+　...... Non mais vraiment ! Ça ne rime à rien de se renseigner sur nos journées.」
 
 }
 [sha:17641b9665c07def739d37470d9430980a59a40b]{
@@ -2503,49 +2503,49 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:e93b128a600436166ac45f8a086ec1dc87a8832d]{
 -- Page 135, Offset 11783.
 -- 驚く青子をよそに、草十郎は廊下から何やら運んでくる。
-  Nonobstant la surprise d'Aoko, Sōjūrō apporta quelque chose qui était dans le couloir.
+　Nonobstant la surprise d'Aoko, Sōjūrō apporta quelque chose qui était dans le couloir.
 
 }
 [sha:5cb987b0c97f6c122c0cc1f5c92ff06bdd79e7a9]{
 -- Page 135, Offset 11784.
 -- 生徒会室にあるタイプの、大型のホワイトボード。
-  Il s'agissait d'un grand tableau blanc, comme celui présent dans la salle du conseil étudiant.
+　Il s'agissait d'un grand tableau blanc, comme celui présent dans la salle du conseil étudiant.
 
 }
 [sha:76e94388266fd7356b1e191261a0f71a89926c53]{
 -- Page 135, Offset 11785.
 -- 真新しいボードには油性ペンで、以下の内容が書かれていた。
-  On avait inscrit sur ce tableau tout neuf les lignes suivantes au stylo-feutre :
+　On avait inscrit sur ce tableau tout neuf les lignes suivantes au stylo-feutre :
 
 }
 [sha:e08bf3512a41e884fb0258c27c72d936d670a269]{
 -- Page 136, Offset 11786. Mods: @k, @e.
 -- ～これからの役割分担表～
-  ～Répartition des tâches à l'avenir～
+　～Répartition des tâches à l'avenir～
 
 }
 [sha:3aa4598e3dcc8f863092c7edd5a35d4cedba53a5]{
 -- Page 136, Offset 11787.
 -- ・館内清掃（一階東館にかぎる）
-        ・Ménage du manoir (limité au rez-de-chaussée est)
+　　　　・Ménage du manoir (limité au rez-de-chaussée est)
 
 }
 [sha:972f791a4236efa046c6c40870707bb100073c4b]{
 -- Page 136, Offset 11788.
 -- ・朝食当番
-        ・Préparation du petit déjeuner
+　　　　・Préparation du petit déjeuner
 
 }
 [sha:687055d09e6fdbb99d8bb26573a41eb486817e4e]{
 -- Page 136, Offset 11789.
 -- ・夕食当番
-        ・Préparation du dîner
+　　　　・Préparation du dîner
 
 }
 [sha:34de25fd3db8b572c349b479f61b56d5adf9512a]{
 -- Page 136, Offset 11790.
 -- ・風呂当番
-        ・Nettoyage de la salle de bains
+　　　　・Nettoyage de la salle de bains
 
 }
 [sha:5cffe0236d15ecaccc9018092b64780eb826a5d6]{
@@ -2563,13 +2563,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:d228484ddc70c04e4e58ba74dd4228006ba0cb3b]{
 -- Page 138, Offset 11793.
 -- 今夜の話じゃ、ふたりとも一日に一時間ぐらいは使える時間があるみたいだし。三人で一つの台所を使っているんだから、ローテーションを組んだ方がいいだろ。協力できるところは協力しないと」
-  Grâce à notre discussion, j'ai pu constater que vous aviez toutes les deux au moins une heure de libre dans la journée. Et puisqu'on est trois à utiliser la cuisine, autant établir un roulement. Il faut unir nos efforts là où on le peut.」
+　Grâce à notre discussion, j'ai pu constater que vous aviez toutes les deux au moins une heure de libre dans la journée. Et puisqu'on est trois à utiliser la cuisine, autant établir un roulement. Il faut unir nos efforts là où on le peut.」
 
 }
 [sha:a31d24c44b5e8e128dc225b970c4e1b1688934e1]{
 -- Page 138, Offset 11794.
 -- たいしつかいぜんだ、と胸を張る草十郎。
-  “C'est une réforme”, rajouta Sōjūrō en bombant le torse.
+　“C'est une réforme”, rajouta Sōjūrō en bombant le torse.
 
 }
 [sha:432cfac773c847d79bcb8682f46b4c94bc109bff]{
@@ -2587,13 +2587,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:1a14ef648d6cfc61ad887164305ce621e9ba2cc2]{
 -- Page 139, Offset 11797.
 -- でも“夕食を用意するならわたしの分もお願い”と言いたいのなら、<相互扶助|そうごふじょ>は当然の義務だと思うんだ。
-  Mais sachant que tu me demandes à chaque fois de préparer une part pour toi aussi lorsque je fais mon dîner, j'estime qu'une entraide mutuelle est la moindre des choses.
+　Mais sachant que tu me demandes à chaque fois de préparer une part pour toi aussi lorsque je fais mon dîner, j'estime qu'une entraide mutuelle est la moindre des choses.
 
 }
 [sha:cd4c0a9a5aa4f4468d48738065dda7d4f11d5cd3]{
 -- Page 139, Offset 11798.
 -- あと、三人で食費を集めれば、その分美味しいものが食べられるよ」
-  En plus, si on met ensemble nos budgets pour la nourriture, on pourra se préparer de bonnes choses.」
+　En plus, si on met ensemble nos budgets pour la nourriture, on pourra se préparer de bonnes choses.」
 
 }
 [sha:d8f76fa5b9636466d1103c2c6fa88d1be3d31212]{
@@ -2605,13 +2605,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:7269fbca826cd4b6890ac5f04272e7ae129616bf]{
 -- Page 140, Offset 11800.
 -- 今まで何度か“わたしの分もお願い”をやってしまった有珠にとって、草十郎の言葉はまさに神の鉄槌。
-  Pour Alice qui avait demandé à Sōjūrō de lui préparer une part à de nombreuses reprises, ce qu'il venait de dire représentait une sorte de châtiment divin.
+　Pour Alice qui avait demandé à Sōjūrō de lui préparer une part à de nombreuses reprises, ce qu'il venait de dire représentait une sorte de châtiment divin.
 
 }
 [sha:9199a09f21002dcc4e575778dfb7072ae3ee4f20]{
 -- Page 140, Offset 11801.
 -- 神罰に等しい、汝の罪を悔い改めよ系の攻撃だった。
-  Il aurait tout aussi bien pu lui demander d'expier ses péchés.
+　Il aurait tout aussi bien pu lui demander d'expier ses péchés.
 
 }
 [sha:171cd1cbc8130c57e64c4322895f9dda97c973b0]{
@@ -2623,19 +2623,19 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:b1a9215803079e90f7a99da26f805dbf788efab1]{
 -- Page 141, Offset 11803.
 -- うんうん、と頷く有珠。
-  “Hum hum”, acquiesça Alice.
+　“Hum hum”, acquiesça Alice.
 
 }
 [sha:df3825106af72d227037af8fdfac59b5d904cb36]{
 -- Page 141, Offset 11804.
 -- 口約束ほどアテに出来ないものはない。
-  Il n'y avait rien de gravé dans le marbre avec ce genre d'accord verbal.
+　Il n'y avait rien de gravé dans le marbre avec ce genre d'accord verbal.
 
 }
 [sha:f74ec3adea91de9f72d45a32e83972235cb5d38c]{
 -- Page 141, Offset 11805.
 -- ふたりとも口にはしないものの、イザとなったらさぼる気満々の顔である。
-  Aucune des deux n'osait l'avouer, mais elles avaient clairement l'intention de sauter leur tour dès que l'occasion se présenterait.
+　Aucune des deux n'osait l'avouer, mais elles avaient clairement l'intention de sauter leur tour dès que l'occasion se présenterait.
 
 }
 [sha:6a40d6b0c0345ae0ce6aa69a34f89fe0d3aadd4e]{
@@ -2653,13 +2653,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:48e121cd4a2b2470cafc7682bd8bed67eba8905a]{
 -- Page 143, Offset 11808.
 -- 底の見えない笑顔にたじろぐ青子。
-  Aoko grimaça face à son sourire rayonnant.
+　Aoko grimaça face à son sourire rayonnant.
 
 }
 [sha:cdb8ab86ec98203106aac8cdf54d7d8e45f3d6d2]{
 -- Page 143, Offset 11809.
 -- 親切心で言っているのか、今から“サボらせないぞ”と<釘|くぎ>をさしているのか、まったく読めない。
-  Elle n'arrivait pas à déterminer s'il disait cela par gentillesse, ou s'il leur signifiait clairement qu'il ne les laisserait plus manquer à leurs devoirs.
+　Elle n'arrivait pas à déterminer s'il disait cela par gentillesse, ou s'il leur signifiait clairement qu'il ne les laisserait plus manquer à leurs devoirs.
 
 }
 [sha:0d1c09986a34fdee3bdc5ba2cd67ccc8bbf23b77]{
@@ -2671,7 +2671,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:0560198e009e7d51f6a2f1d2c06572a6c13746ee]{
 -- Page 144, Offset 11811.
 -- 有珠は有珠で、これから日常になるっぽい当番制に<戦慄|せんりつ>していた。
-  Alice, fidèle à elle-même, frissonnait devant l'organisation des rôles qui risquait de faire partie de son quotidien.
+　Alice, fidèle à elle-même, frissonnait devant l'organisation des rôles qui risquait de faire partie de son quotidien.
 
 }
 [sha:096b2103a41dd04100e171f926d2bfbdacf33e42]{
@@ -2683,13 +2683,13 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:ccf22a215b518fe67e43683b8afd9ae6aedfe89a]{
 -- Page 145, Offset 11813.
 -- それじゃ、と草十郎は去っていった。
-  “Sur ce”, dit Sōjūrō avant de se retirer.
+　“Sur ce”, dit Sōjūrō avant de se retirer.
 
 }
 [sha:c8e3f5a157944c6ba1c74412b829ac15d2d7526c]{
 -- Page 145, Offset 11814.
 -- 残されたふたりはやるせなく、新品のホワイトボードを見つめている。
-  Restées sur place, les deux filles inconsolables fixaient le tableau blanc tout neuf.
+　Restées sur place, les deux filles inconsolables fixaient le tableau blanc tout neuf.
 
 }
 [sha:0e87304a6a31d7bf21e0702b598da20986debfcf]{
@@ -2707,31 +2707,31 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:30332d7db55b027441389d001acbb652a469507f]{
 -- Page 147, Offset 11817.
 -- <罠|わな>にかかったと気付いても後の祭り。
-  Il était trop tard pour remarquer qu'elles étaient tombées en plein dans le piège.
+　Il était trop tard pour remarquer qu'elles étaient tombées en plein dans le piège.
 
 }
 [sha:367d7a171e65e686e75603effd5bfe70ef7da206]{
 -- Page 147, Offset 11818.
 -- そもそも今日の青子の朝食も、草十郎が調理したサラダを分けて貰ったものである。
-  Après tout, au petit déjeuner, Sōjūrō avait préparé une salade qu'il avait ensuite partagée avec Aoko.
+　Après tout, au petit déjeuner, Sōjūrō avait préparé une salade qu'il avait ensuite partagée avec Aoko.
 
 }
 [sha:966693e30baedcdbc91011ad13810678a4f8ca59]{
 -- Page 147, Offset 11819.
 -- 今から“じゃあこれから助け合いはなし”と言うには、助け合いの味をしめてしまった。
-  Elle avait déjà trop profité de sa générosité pour prétendre maintenant qu'elle n'en avait pas besoin.
+　Elle avait déjà trop profité de sa générosité pour prétendre maintenant qu'elle n'en avait pas besoin.
 
 }
 [sha:6a5d56350b79cadc885fc0c7508109ce0ccb56ca]{
 -- Page 148, Offset 11820.
 -- そもそも当番制は青子の合理性に合っている。
-  En outre, un système de roulement convenait parfaitement au tempérament d'Aoko.
+　En outre, un système de roulement convenait parfaitement au tempérament d'Aoko.
 
 }
 [sha:083358d8165f6f594031421f958fb6ab6fb020f2]{
 -- Page 148, Offset 11821.
 -- ただ、できれば作業の割合を、たまにでいいから誤魔化したかっただけなのだ。
-  Elle aurait seulement voulu pouvoir tricher de temps à autre sur la quantité de travail qu'elle effectuerait.
+　Elle aurait seulement voulu pouvoir tricher de temps à autre sur la quantité de travail qu'elle effectuerait.
 
 }
 [sha:73138ca72759c3caecebb4343f30d01a8ca554d7]{
@@ -2749,19 +2749,19 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:808fa88cca51da46e9aef968720b8d5e87ef0843]{
 -- Page 149, Offset 11824.
 -- 間違いなく同じコトを考えてたからね、私たち」
-  Après tout, on pense sans doute à la même chose.」
+　Après tout, on pense sans doute à la même chose.」
 
 }
 [sha:7ce61811bc96b3b129a96c6c3498730cc1ed074d]{
 -- Page 149, Offset 11825.
 -- ため息まじりの返答をして、青子はホワイトボードを手に取った。全員共通の持ち物として、台所の壁に立てかける気らしい。
-  Aoko soupira tout en prenant le tableau. L'objet appartenant à tout le monde, elle avait visiblement l'intention de l'appuyer contre le mur de la cuisine.
+　Aoko soupira tout en prenant le tableau. L'objet appartenant à tout le monde, elle avait visiblement l'intention de l'appuyer contre le mur de la cuisine.
 
 }
 [sha:83b220c298f771c4c2f39b4e86c3b330a18c33dd]{
 -- Page 150, Offset 11826.
 -- 有珠はじっとホワイトボードを見ながら、
-  Alice lorgnait le tableau blanc.
+　Alice lorgnait le tableau blanc.
 
 }
 [sha:9d57d6b581659d1ec4373435990cee0423793da1]{
@@ -2773,6 +2773,6 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:1d3d25d34a9c221718255f985ce492651881ac1e]{
 -- Page 150, Offset 11828.
 -- なんて、世にも不吉な言葉を口にした。
-  ajouta-t-elle d'un air sinistre.
+　ajouta-t-elle d'un air sinistre.
 
 }

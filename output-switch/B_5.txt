@@ -1,61 +1,61 @@
 [sha:8bbfc22c7b2bbea43d2de368adcc45cafdbdda61]{
 -- Page 0, Offset 15830.
 -- 久遠寺有珠と蒼崎橙子の戦いは、有珠の勝利で終わった。
-  Le combat entre Kuonji Alice et Aozaki Tōko s'était achevé sur la victoire d'Alice.
+　Le combat entre Kuonji Alice et Aozaki Tōko s'était achevé sur la victoire d'Alice.
 
 }
 [sha:ecf54064fe8e9b5928ad9dd3898d20975938820d]{
 -- Page 1, Offset 15831.
 -- 橋の巨人は“童話の怪物”の中でも特別な使い魔だ。
-  Le Géant du Pont était un familier spécial, même parmi les “monstres des contes de fées”.
+　Le Géant du Pont était un familier spécial, même parmi les “monstres des contes de fées”.
 
 }
 [sha:f5d8fdb56d47d4e5b24aacc22f9f7fa4c22a7a2b]{
 -- Page 1, Offset 15832.
 -- フラットスナークのような大異能はないが、その巨体、強度、出力、どれをとってもトップランクの性能を誇る。
-  Il n'avait pas de pouvoirs inhabituels comme Flat Snark, mais il était réputé pour ses performances de tout premier ordre dans les catégories de taille, de solidité et de puissance.
+　Il n'avait pas de pouvoirs inhabituels comme Flat Snark, mais il était réputé pour ses performances de tout premier ordre dans les catégories de taille, de solidité et de puissance.
 
 }
 [sha:fb9297b1cde355cde1f3b04fb7d47783cd343604]{
 -- Page 1, Offset 15833.
 -- 橙子のルーン魔術では表面の<石膚|せきふ>さえ破壊できまい。
-  Les sorts runiques de Tōko ne pouvaient même pas détruire sa peau en pierre.
+　Les sorts runiques de Tōko ne pouvaient même pas détruire sa peau en pierre.
 
 }
 [sha:c5d7ff46c9a834344abdd350d1481357580cc5ff]{
 -- Page 1, Offset 15834.
 -- それは橙子に限った話ではない。現代の魔術師、その大部分は橋の巨人の前に敗れ去るだろう。
-  Tōko n'était pas la seule à en être incapable. La plupart des Mages de l'époque n'auraient aucune chance face au Géant du Pont.
+　Tōko n'était pas la seule à en être incapable. La plupart des Mages de l'époque n'auraient aucune chance face au Géant du Pont.
 
 }
 [sha:044e1a2415f27c81e0cae68d2ff847efee2e990a]{
 -- Page 2, Offset 15835.
 -- 身にまとった神秘の違いだ。
-  La différence se trouvait dans la qualité des Mystères possédés.
+　La différence se trouvait dans la qualité des Mystères possédés.
 
 }
 [sha:149664755fdb42a30da059c8c9e5e160621b5737]{
 -- Page 2, Offset 15836.
 -- 魔術の原則として、神秘はより強い神秘の前に敗北する。
-  Selon les principes de la Magie, le Mystère le plus fort l'emporte sur l'autre.
+　Selon les principes de la Magie, le Mystère le plus fort l'emporte sur l'autre.
 
 }
 [sha:f1d76a2ee3d3d07e093305c8e20cfb6867dd1fd6]{
 -- Page 2, Offset 15837.
 -- 橋の巨人が持つ歴史は単体で千年<級|クラス>。
-  L'histoire du Géant du Pont datait de plus de mille ans.
+　L'histoire du Géant du Pont datait de plus de mille ans.
 
 }
 [sha:5d4c23219c5a29f48497e252a46a76ec930e81cf]{
 -- Page 2, Offset 15838.
 -- その起源はイギリスがローマの支配下にあった一世紀にまで<遡|さかのぼ>る。
-  Son origine remontait au premier siècle après J.-C., lorsque l'Angleterre était sous domination romaine.
+　Son origine remontait au premier siècle après J.-C., lorsque l'Angleterre était sous domination romaine.
 
 }
 [sha:123a4296a3237d632b90fda0db2a09d8407c3274]{
 -- Page 2, Offset 15839.
 -- いかにルーンが神代の技術であったとしても、悲しいかな、歴史の影に埋もれた魔術。
-  Malheureusement, les Runes avaient beau être une technique de l'Âge des Dieux, c'était une Magie ensevelie dans les tréfonds de l'histoire.
+　Malheureusement, les Runes avaient beau être une technique de l'Âge des Dieux, c'était une Magie ensevelie dans les tréfonds de l'histoire.
 
 }
 [sha:e50bbbe0c3c08abcaddfcd5e3c8c3bd5d8a778cc]{
@@ -67,264 +67,264 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 [sha:3de6fcfc2f0940d4c7bca5ce908c4f86c4efc5eb]{
 -- Page 3, Offset 15841.
 -- だが、橋の巨人、童話の怪物たちは違う。
-  Cependant, le Géant du Pont et les monstres des contes de fées étaient différents.
+　Cependant, le Géant du Pont et les monstres des contes de fées étaient différents.
 
 }
 [sha:2cf5eb15f853329cfdc3c865561fd9174d795929]{
 -- Page 3, Offset 15842.
 -- 彼等は今も、久遠寺有珠の手の中で生きている。
-  Ils vivaient toujours entre les mains de Kuonji Alice.
+　Ils vivaient toujours entre les mains de Kuonji Alice.
 
 }
 [sha:f7a330f213539ec39a97262b4852a4a80763cdbc]{
 -- Page 3, Offset 15843.
 -- 千年以上も前に詠唱され、今も機能し続ける魔術は、世界広しと言えど有珠のプロイと他に二つあるかないか。
-  Même en cherchant dans le monde entier, outre les Ploy d'Alice, on ne pourrait vraisemblablement trouver que deux autres Magies qui avaient été mises sous forme d'incantation il y a plus de mille ans et qui fonctionnaient encore de nos jours.
+　Même en cherchant dans le monde entier, outre les Ploy d'Alice, on ne pourrait vraisemblablement trouver que deux autres Magies qui avaient été mises sous forme d'incantation il y a plus de mille ans et qui fonctionnaient encore de nos jours.
 
 }
 [sha:e3293b1cfe808900139db54f6aeaed97fd4d1606]{
 -- Page 4, Offset 15844.
 -- 一方、ルーン魔術を扱う橙子の年齢は二十年程度。
-  Quant à la Magie runique qu'utilisait Tōko, elle n'avait qu'une vingtaine d'années.
+　Quant à la Magie runique qu'utilisait Tōko, elle n'avait qu'une vingtaine d'années.
 
 }
 [sha:0eceb1d5e4706b005451450f1f812b129f370f3a]{
 -- Page 4, Offset 15845.
 -- ルーンを<刻|きざ>む時間にいたっては一瞬だ。
-  Le temps vécu par les Runes n'était que d'un instant.
+　Le temps vécu par les Runes n'était que d'un instant.
 
 }
 [sha:def7c8c2fb65ec0a25018f2354f0dcde7a07ddba]{
 -- Page 4, Offset 15846.
 -- 有珠の故郷、その象徴の一つであるロンドン橋の擬人化を敗れる道理がない。
-  Il n'y avait aucune raison pour que la personnification de la Tamise de Londres, l'un des symboles du pays natal d'Alice, perde.
+　Il n'y avait aucune raison pour que la personnification de la Tamise de Londres, l'un des symboles du pays natal d'Alice, perde.
 
 }
 [sha:b2edb46ea5465e0f74d6a5a4a92ca858fdcf697e]{
 -- Page 5, Offset 15847.
 -- だが。
-  Toutefois,
+　Toutefois,
 
 }
 [sha:f9e154f7fbf7647749c0fd318e39308ff31aebb5]{
 -- Page 5, Offset 15848.
 -- そこに、“童話の怪物”を上回る怪物が現れた。
-  il apparut alors un monstre surpassant les “monstres des contes de fées”.
+　il apparut alors un monstre surpassant les “monstres des contes de fées”.
 
 }
 [sha:c43a047a9bcd25811eb20eaeee4312314433f0e5]{
 -- Page 5, Offset 15849.
 -- 黄金の獣、ベオウルフ。
-  La bête dorée, Beowulf.
+　La bête dorée, Beowulf.
 
 }
 [sha:23073e9e28f6dc43acdf3372e77f253006f856a3]{
 -- Page 5, Offset 15850.
 -- 橋の巨人とは比べるべくもない、小さく非力な狼は、<果敢|かかん>にも天を<覆|おお>う石くれに立ち向かった。
-  Le petit loup impuissant et incomparable face au Géant du Pont s'était attaqué avec audace au tas de roche obstruant le ciel.
+　Le petit loup impuissant et incomparable face au Géant du Pont s'était attaqué avec audace au tas de roche obstruant le ciel.
 
 }
 [sha:f431de0f582608e02d95a8ee2eb20e8e7da389e3]{
 -- Page 6, Offset 15851.
 -- 大地を揺るがす巨人の一撃。
-  Le coup du géant était capable d'ébranler la terre.
+　Le coup du géant était capable d'ébranler la terre.
 
 }
 [sha:0385f0af74df5c48cc49e35df470c528203d8883]{
 -- Page 6, Offset 15852.
 -- 直撃すれば<ぺしゃんこ|ペースト>に、
-  Son impact de cinquante tonnes pouvait écraser n'importe quoi,
+　Son impact de cinquante tonnes pouvait écraser n'importe quoi,
 
 }
 [sha:8f7357d0d225bb2786775d4739464b3142a3909a]{
 -- Page 6, Offset 15853.
 -- かするだけでも<挽肉|ミンチ>になる50トンの衝撃。
-  et même s'il ne faisait qu'effleurer sa cible, celle-ci était transformée en viande hachée.
+　et même s'il ne faisait qu'effleurer sa cible, celle-ci était transformée en viande hachée.
 
 }
 [sha:bae90eb07b2cf4b04506d90516c96e6aa557957e]{
 -- Page 6, Offset 15854.
 -- それを狼は、真っ正面から<食|・><い|・><破|・><っ|・><た|・>。
-  Le loup avait anéanti ce coup d'une attaque directe.
+　Le loup avait anéanti ce coup d'une attaque directe.
 
 }
 [sha:8162b1ba5b43b01a8a5e06ca624402f1890279fd]{
 -- Page 7, Offset 15855.
 -- 毛並みが逆立つ。
-  Sa fourrure s'était hérissée.
+　Sa fourrure s'était hérissée.
 
 }
 [sha:064dfe320aae83a8feadb6f685ed23192d5ceb3b]{
 -- Page 7, Offset 15856.
 -- その容姿が、流体のように変貌する。
-  Sa forme était changeante de la même façon qu'un fluide.
+　Sa forme était changeante de la même façon qu'un fluide.
 
 }
 [sha:8db5c50493e92246048045e200c5340c9f57b8b9]{
 -- Page 7, Offset 15857.
 -- あまりにも<荘厳|そうごん>な立ち振る舞い。
-  Sa démarche était d'une majesté à en couper le souffle.
+　Sa démarche était d'une majesté à en couper le souffle.
 
 }
 [sha:7de9ce080cff31ba529a79edef21790c8f373b24]{
 -- Page 7, Offset 15858.
 -- 金狼は歓びを示すように月に吠え、文字通り、金色の光となって<爆|は>ぜ<走|ばし>る。
-  Le loup doré hurla à la lune comme pour montrer son allégresse puis devint littéralement une lumière dorée scintillante.
+　Le loup doré hurla à la lune comme pour montrer son allégresse puis devint littéralement une lumière dorée scintillante.
 
 }
 [sha:d802a32b451a2b4f883e6e1a34e8dc8ccfcb72b0]{
 -- Page 8, Offset 15859.
 -- はたして、勝負は一撃で終わった。
-  Le duel se termina en une seule attaque.
+　Le duel se termina en une seule attaque.
 
 }
 [sha:7e367741c5630476669ba66a739bde6e7a44cb90]{
 -- Page 8, Offset 15860.
 -- 光の槍と化した獣は巨人の胸板まで飛びかかり、その心臓に牙をたてながら<爆|・><発|・>したのだ。
-  La bête transformée en lance de lumière bondit sur la poitrine du géant et explosa en plantant ses crocs dans le cœur de ce dernier.
+　La bête transformée en lance de lumière bondit sur la poitrine du géant et explosa en plantant ses crocs dans le cœur de ce dernier.
 
 }
 [sha:676649eb7734336166ac0eb1525d7999cd90197c]{
 -- Page 9, Offset 15861.
 -- はじけ飛ぶ石の筋肉。
-  Les muscles de pierre éclatèrent.
+　Les muscles de pierre éclatèrent.
 
 }
 [sha:7a524523c788397a78f44de77022eb85c887b1c7]{
 -- Page 9, Offset 15862.
 -- 拡散する光の毛並み。
-  La fourrure de lumière rayonna.
+　La fourrure de lumière rayonna.
 
 }
 [sha:6e1de2c7c6274e27fa80ca7f6c8f8c6bcf652029]{
 -- Page 9, Offset 15863.
 -- 二つの神秘は<痕跡|こんせき>なく爆散し、収束した。
-  Les deux Mystères explosèrent en mille morceaux et convergèrent.
+　Les deux Mystères explosèrent en mille morceaux et convergèrent.
 
 }
 [sha:046353541d68a49ff78d4318ce764d14e7619431]{
 -- Page 9, Offset 15864.
 -- ……その、神話の再現のような<終|つい>に。
-  ...... À la fin de cette scène digne d'un mythe,
+　...... À la fin de cette scène digne d'un mythe,
 
 }
 [sha:13943ee7a45fb4043757f6eafe896399e66a6173]{
 -- Page 9, Offset 15865.
 -- 土塊となって崩れ落ちた“童話の怪物”の中心に、
-  le loup doré, ardent comme une flamme,
+　le loup doré, ardent comme une flamme,
 
 }
 [sha:f791d13e256dd2aa230e779ee8cc068257408edc]{
 -- Page 9, Offset 15866.
 -- 燃え上がる炎のような、金狼の姿があった。
-  se tenait au milieu des restes fumants du “monstre de contes de fées”.
+　se tenait au milieu des restes fumants du “monstre de contes de fées”.
 
 }
 [sha:39332305a0fabd65c4229b9a19438910a3cee0a0]{
 -- Page 10, Offset 15867.
 -- その後の出来事は、もはや戦いですらない。
-  La suite ne pouvait même pas être qualifiée de combat.
+　La suite ne pouvait même pas être qualifiée de combat.
 
 }
 [sha:94c2d6b564f00bc8b09b9cd0f5a280023def9285]{
 -- Page 10, Offset 15868.
 -- 単なる敗残兵の処理だ。
-  Il s'agissait de se débarrasser des soldats vaincus.
+　Il s'agissait de se débarrasser des soldats vaincus.
 
 }
 [sha:172d29466a6f38c5205e297e0d1c51e0c3f93105]{
 -- Page 10, Offset 15869.
 -- 金狼は有珠に飛びかかり、たやすく腹を引き裂いた。
-  Le loup doré s'élança vers Alice et lacéra facilement son abdomen.
+　Le loup doré s'élança vers Alice et lacéra facilement son abdomen.
 
 }
 [sha:605d1aee5062070693a490c2cd4e4a77f4a750ed]{
 -- Page 10, Offset 15870.
 -- 有珠のコートに<編|あ>まれた守りの呪文なぞ、金狼にとって蜘蛛の巣と変わらない。
-  Pour lui, les charmes protecteurs cousus sur la pèlerine d'Alice n'étaient pas plus résistants qu'une toile d'araignée.
+　Pour lui, les charmes protecteurs cousus sur la pèlerine d'Alice n'étaient pas plus résistants qu'une toile d'araignée.
 
 }
 [sha:3f28530e4e8ffb5d65f81eda8727c0aaa8a614aa]{
 -- Page 11, Offset 15871.
 -- 金の狼。
-  Un loup doré.
+　Un loup doré.
 
 }
 [sha:9b968a4c0222c952b47b82ce71c7f0a68469efbf]{
 -- Page 11, Offset 15872.
 -- 人語を解するアレは、<人狼|ウェアウルフ>と呼ばれる魔獣に違いない。
-  Cette chose qui comprenait le langage humain était sans l'ombre d'un doute la Bête Démoniaque que l'on appelle loup-garou.
+　Cette chose qui comprenait le langage humain était sans l'ombre d'un doute la Bête Démoniaque que l'on appelle loup-garou.
 
 }
 [sha:a3f48698da66d3f30c242b7ca31536dd24195f1f]{
 -- Page 11, Offset 15873.
 -- 捏造され流布された怪物の王、“吸血鬼”より遥かに古い起源を持つ、西欧の“森の人”。
-  C'était le roi des monstres dont l'existence était largement falsifiée et propagée, aussi connu sous le nom de “l'Homme de la forêt” en l'Europe de l'Ouest et dont les origines remontaient plus loin que celles des “Vampires”.
+　C'était le roi des monstres dont l'existence était largement falsifiée et propagée, aussi connu sous le nom de “l'Homme de la forêt” en l'Europe de l'Ouest et dont les origines remontaient plus loin que celles des “Vampires”.
 
 }
 [sha:6a0e0f0a2c7fa71cca1c8e854643fd9e2590a9e4]{
 -- Page 11, Offset 15874.
 -- しかし―――彼らの基準に、黄金の毛並みは存在しない。
-  Cependant―――dans leur espèce, la fourrure d'or n'existait pas.
+　Cependant―――dans leur espèce, la fourrure d'or n'existait pas.
 
 }
 [sha:7cef92335491e8951774e5015b77c2fb1c7a7990]{
 -- Page 12, Offset 15875.
 -- 人狼の社会において、最高位の血統は銀色と言われている。
-  Selon les dires, dans la société des loups-garous, la plus grande lignée serait de couleur argentée.
+　Selon les dires, dans la société des loups-garous, la plus grande lignée serait de couleur argentée.
 
 }
 [sha:0517447ca043fb2c75b3039b48f9e245b28ea764]{
 -- Page 12, Offset 15876.
 -- 銀の人狼は一族の長であり、その階位は魔獣より上、幻獣の域とされる。
-  Le loup-garou d'argent était le chef du clan et il possédait le rang de Bête Mythique, supérieur à celui des Bêtes Démoniaques.
+　Le loup-garou d'argent était le chef du clan et il possédait le rang de Bête Mythique, supérieur à celui des Bêtes Démoniaques.
 
 }
 [sha:b4c0b46c06ec99f87492ddf48b25caff077a7af2]{
 -- Page 12, Offset 15877.
 -- それを上回る金色となると、もはや人智の及ぶものではない。
-  Les hommes n'avaient pas connaissance d'une bête dorée qui se placerait au-dessus des autres.
+　Les hommes n'avaient pas connaissance d'une bête dorée qui se placerait au-dessus des autres.
 
 }
 [sha:2e6b9a36b7058435dd916c219106c4e8ecb95752]{
 -- Page 13, Offset 15878.
 -- 久遠寺有珠の“童話の怪物”は、人の手によって作られた究極の神秘だ。
-  Les “monstres de contes de fées” de Kuonji Alice étaient des Mystères ultimes créés par l'homme.
+　Les “monstres de contes de fées” de Kuonji Alice étaient des Mystères ultimes créés par l'homme.
 
 }
 [sha:5cdd5eb0493546370d83ff7ac8f7520c9028e98e]{
 -- Page 13, Offset 15879.
 -- だがあの金狼は、星の手によって産み落とされた神秘。
-  Mais ce loup doré était un Mystère engendré par la planète.
+　Mais ce loup doré était un Mystère engendré par la planète.
 
 }
 [sha:52bb6ca56a6d7587e519e5639e2eab422275eaba]{
 -- Page 13, Offset 15880.
 -- <生命|ほし>が何千年何万年と活動した末、<希|まれ>にこぼれ落ちる奇跡のような<一滴|ひとしずく>。
-  On pouvait le voir comme une goutte miraculeuse qui ne tombait qu'exceptionnellement sur une planète, même sur une période d'un millier, voire de dix milliers d'années.
+　On pouvait le voir comme une goutte miraculeuse qui ne tombait qu'exceptionnellement sur une planète, même sur une période d'un millier, voire de dix milliers d'années.
 
 }
 [sha:94d19a9fb7cfcb9b26aa1fa66eac81a0619ff531]{
 -- Page 14, Offset 15881.
 -- おそらく、身にまとった神秘は三千年以上。
-  Il était sans doute porteur d'un Mystère vieux de plus de trois mille ans.
+　Il était sans doute porteur d'un Mystère vieux de plus de trois mille ans.
 
 }
 [sha:83b8ced4a7085b354ef6a97df9458ac21bde04a4]{
 -- Page 14, Offset 15882.
 -- 人間の魔術師―――
-  Les Mages humains―――
+　Les Mages humains―――
 
 }
 [sha:848810eb0300751c4b4413642ff31de1732170f9]{
 -- Page 14, Offset 15883.
 -- いや、現在の魔術基盤に生きる魔術師であるかぎり、あの金狼を倒す魔術は、理論上<編|あ>みだせない。
-  En fait, n'importe quel Mage se reposant sur les fondements de la Magie moderne serait théoriquement incapable de créer un sort pouvant vaincre ce loup doré.
+　En fait, n'importe quel Mage se reposant sur les fondements de la Magie moderne serait théoriquement incapable de créer un sort pouvant vaincre ce loup doré.
 
 }
 [sha:3c09aa630122f126c37fe0d84771d2983a219de4]{
 -- Page 14, Offset 15884.
 -- ……それは即ち、蒼崎青子と久遠寺有珠にとって、カレが最悪の敵である事を示していた。
-  ...... Autrement dit, cela signifiait qu'il était le pire ennemi qu'Aozaki Aoko et Kuonji Alice pouvaient avoir à affronter.
+　...... Autrement dit, cela signifiait qu'il était le pire ennemi qu'Aozaki Aoko et Kuonji Alice pouvaient avoir à affronter.
 
 }

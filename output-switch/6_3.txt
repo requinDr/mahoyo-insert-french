@@ -1,13 +1,13 @@
 [sha:e279c12d343d1b838b1120608949b25d578dfe23]{
 -- Page 0, Offset 7530.
 -- 彼女は制服姿で、長い髪をなびかせて登場した。
-  Elle fit son entrée en scène en uniforme, ses longs cheveux ondulant.
+　Elle fit son entrée en scène en uniforme, ses longs cheveux ondulant.
 
 }
 [sha:9098271923ac2581431aa1da09c0165db9fbeb38]{
 -- Page 0, Offset 7531.
 -- 乱れた呼吸と不機嫌そうにつり上がった瞳が、どことなく修羅めいている。
-  Le souffle court et les sourcils froncés de mécontentement, elle ressemblait vaguement à un démon sanguinaire.
+　Le souffle court et les sourcils froncés de mécontentement, elle ressemblait vaguement à un démon sanguinaire.
 
 }
 [sha:d9a7ebc6247eb93ff991182a5fc551de0284c6c9]{
@@ -19,13 +19,13 @@
 [sha:ffd9d31cb568163ab8c1e9b2a8e18c6c6c6ba7a7]{
 -- Page 1, Offset 7533.
 -- 青子にそう呼ばれた少女―――有珠はわずかに眉を<顰|ひそ>めた。
-  La fille que venait d'interpeller Aoko―――Alice, fronça légèrement les sourcils.
+　La fille que venait d'interpeller Aoko―――Alice, fronça légèrement les sourcils.
 
 }
 [sha:e9a46086921230a8a112b15aaed3eb58093fd974]{
 -- Page 1, Offset 7534.
 -- ……はあ、とかため息をこぼしたのかもしれない。
-  ...... Elle avait peut-être aussi laissé échapper un soupir.
+　...... Elle avait peut-être aussi laissé échapper un soupir.
 
 }
 [sha:8e7a942d0e560ce09c0265900a072de9ae710850]{
@@ -37,13 +37,13 @@
 [sha:136d77c450ee8dadf688160993fb1980a8055624]{
 -- Page 2, Offset 7536.
 -- 激している青子とは正反対の落ち着いた声。
-  dit-elle d'une voix calme, à l'opposé d'Aoko complètement furieuse.
+　dit-elle d'une voix calme, à l'opposé d'Aoko complètement furieuse.
 
 }
 [sha:e070c7e27632a7b095f89a38f7d631b977ca25c5]{
 -- Page 2, Offset 7537.
 -- どこか白々しいのは言うまでもない。
-  Inutile de préciser que son attitude était clairement provocatrice.
+　Inutile de préciser que son attitude était clairement provocatrice.
 
 }
 [sha:40861909703a9f97dfd663eec3d00c56bf8f1b4f]{
@@ -55,7 +55,7 @@
 [sha:61e3c487c54b413ccffcc4a6976444a8ac4d0a53]{
 -- Page 3, Offset 7539.
 -- こういう時の短絡思考はこの二年で経験済みよ。お行儀がいいようで、面倒になったらあっさり投げ捨てるのがアンタでしょ」
-  Pendant ces deux ans, j'ai pu constater toute l'étendue de la simplicité de ton raisonnement dans ce genre de situation. Tu as de bonnes manières, mais tu les oublies dès que les choses se compliquent.」
+　Pendant ces deux ans, j'ai pu constater toute l'étendue de la simplicité de ton raisonnement dans ce genre de situation. Tu as de bonnes manières, mais tu les oublies dès que les choses se compliquent.」
 
 }
 [sha:5d9c6d9a38792cdbcdf8f0146091094e4214fd63]{
@@ -67,13 +67,13 @@
 [sha:ff1bad3b9537d6955c4da53434b17d07f9b72ffa]{
 -- Page 4, Offset 7541.
 -- 青子の指摘を軽く受け流す有珠。
-  Alice éluda avec légèreté les remarques d'Aoko.
+　Alice éluda avec légèreté les remarques d'Aoko.
 
 }
 [sha:4736a3e2d9bade08da843a55c49e41bb3390df8c]{
 -- Page 4, Offset 7542.
 -- もう草十郎なんて目に入っていない、と言わんばかりの態度だった。
-  Son attitude indiquait que Sōjūrō ne lui importait plus.
+　Son attitude indiquait que Sōjūrō ne lui importait plus.
 
 }
 [sha:0daca2ca9a31a4c46c119ae12131170b7aec8259]{
@@ -85,13 +85,13 @@
 [sha:65da8b9c9d7130bf5982bd701346b6df96f656dc]{
 -- Page 5, Offset 7544.
 -- 青子に<譲|ゆず>るといったけど、よく考えると面倒だから私の方で処理しておいたわ―――なんて事<後承|いいわけ>諾、もう聞き飽きたっつーの。
-  “J'ai dit que je te laissais faire, mais après y avoir bien réfléchi, j'ai préféré régler le problème moi-même”―――Je suis fatiguée d'entendre ce genre d'excuse.
+　“J'ai dit que je te laissais faire, mais après y avoir bien réfléchi, j'ai préféré régler le problème moi-même”―――Je suis fatiguée d'entendre ce genre d'excuse.
 
 }
 [sha:ab91684d9c3d50956d6d1ec739dafae0322b9392]{
 -- Page 5, Offset 7545.
 -- 短気なのはそっちの自由だけど、それなら後の始末は相方に任せるのが最低限の筋ってもんじゃないの？」
-  Libre à toi d'être impatiente, mais dans notre situation, tu ne trouves pas qu'il serait plus logique de laisser ta partenaire régler le problème ?」
+　Libre à toi d'être impatiente, mais dans notre situation, tu ne trouves pas qu'il serait plus logique de laisser ta partenaire régler le problème ?」
 
 }
 [sha:9ca4b52bc04985b9f3245ea9e2a650e683b91a76]{
@@ -103,7 +103,7 @@
 [sha:85b8b2764898c7fdcb5085d875dfb7c1f6003c70]{
 -- Page 6, Offset 7547.
 -- ……まあ。今後の方針を勝手に決めた人の台詞じゃないとは思うけど」
-  ...... Enfin. De tels propos ne devraient tout de même pas être tenus par celle qui, de son propre chef, a décidé de la suite des opérations.」
+　...... Enfin. De tels propos ne devraient tout de même pas être tenus par celle qui, de son propre chef, a décidé de la suite des opérations.」
 
 }
 [sha:1a5d08f29a9614cbf028ac2cceb5746816c06881]{
@@ -115,25 +115,25 @@
 [sha:14b5c274d2df55b90655fe3581402bdc51966a8a]{
 -- Page 7, Offset 7549.
 -- いい、勝ったのは<私|・><た|・><ち|・>よ。逃げ切れば見逃してあげるって言ったのは誰？　言動には責任を持ちなさい有珠。
-  C'est nous qui avons gagné. Compris ? Qui a dit qu'elle nous épargnerait si on parvenait à s'échapper ? Respecte donc ta parole, Alice.
+　C'est nous qui avons gagné. Compris ? Qui a dit qu'elle nous épargnerait si on parvenait à s'échapper ? Respecte donc ta parole, Alice.
 
 }
 [sha:21bc730017c12fbcb203c282d734b5d1fe58e9f8]{
 -- Page 7, Offset 7550.
 -- それともなに。もしかして、一番気に食わないのはそのあたりの理由なワケ？」
-  Ou alors, quoi ? C'est justement ça qui te contrarie le plus ?」
+　Ou alors, quoi ? C'est justement ça qui te contrarie le plus ?」
 
 }
 [sha:d1f816fec865ae35d47631c05250217cba3f1e8b]{
 -- Page 8, Offset 7551.
 -- む、と考えこむ有珠。
-  Alice médita en silence.
+　Alice médita en silence.
 
 }
 [sha:1440b58006a3d6ac99af50fe82f59162efc5dd12]{
 -- Page 8, Offset 7552.
 -- 青子の詰問は、有珠自身気付いていなかったところを突いたらしい。
-  Le contre-interrogatoire d'Aoko semblait avoir touché un point sensible dont elle n'avait pas eu conscience.
+　Le contre-interrogatoire d'Aoko semblait avoir touché un point sensible dont elle n'avait pas eu conscience.
 
 }
 [sha:a32a23d93af87360b8d70651ea96cc89ed849123]{
@@ -145,13 +145,13 @@
 [sha:646147488c27f94929b3d60602362d3f53d3f3da]{
 -- Page 9, Offset 7554.
 -- コイツの扱いは、ちゃんと目が覚めて、本人の意志でどうするか決めるまで保留ってコトで合意したでしょ。
-  on s'était entendues pour reporter l'étude de son cas jusqu'à ce qu'il soit bien réveillé et qu'il décide quoi faire de son propre chef, n'est-ce pas ?
+　on s'était entendues pour reporter l'étude de son cas jusqu'à ce qu'il soit bien réveillé et qu'il décide quoi faire de son propre chef, n'est-ce pas ?
 
 }
 [sha:af25f5366cab24d5c3f31aabdae3f2b464ac75d4]{
 -- Page 9, Offset 7555.
 -- 人の留守中に出し抜くのはやめてよね」
-  Arrête de couper l'herbe sous le pied des gens quand ils sont absents.」
+　Arrête de couper l'herbe sous le pied des gens quand ils sont absents.」
 
 }
 [sha:cc9a40f21d01e4a98b680eacaa16b52ce67efc14]{
@@ -163,7 +163,7 @@
 [sha:896bdfc64e807a0418c507942adafe5b37cedeb3]{
 -- Page 10, Offset 7557.
 -- まだ正午になったばかりなのに」
-  Il est à peine midi.」
+　Il est à peine midi.」
 
 }
 [sha:0ec8ad78938be4c085ec5faacf138b0812ecf81d]{
@@ -175,43 +175,43 @@
 [sha:b4a29bcad3e441301b29b755ee227045eb60dcd3]{
 -- Page 11, Offset 7559.
 -- 誰かに同意を求めるのではなく、自分自身に言い聞かせるように青子は言う。
-  termina Aoko, non pas pour obtenir un quelconque consentement, mais comme une sorte d'introspection.
+　termina Aoko, non pas pour obtenir un quelconque consentement, mais comme une sorte d'introspection.
 
 }
 [sha:596b010751f4dceca44ab412f5615cb67364c34e]{
 -- Page 12, Offset 7560.
 -- そうして青子と有珠は見つめ合った。
-  Puis, Aoko et Alice se regardèrent.
+　Puis, Aoko et Alice se regardèrent.
 
 }
 [sha:433ab39857965b3fba07fa19d9796b72a1b30b1c]{
 -- Page 12, Offset 7561.
 -- いや、正しくは睨み合っている。
-  Non, pour être plus exact, elles se fixèrent.
+　Non, pour être plus exact, elles se fixèrent.
 
 }
 [sha:54341d2b1d2e3222adbd2700de295ed21fdd5213]{
 -- Page 12, Offset 7562.
 -- 今まさにとっくみ合いの喧嘩が始まりそうな緊迫感だが、<第三者|そうじゅうろう>としてはなす術なく眺めているしかない。
-  La tension dans la pièce laissait présager une rixe imminente, mais Sōjūrō, impuissant, ne pouvait que les regarder.
+　La tension dans la pièce laissait présager une rixe imminente, mais Sōjūrō, impuissant, ne pouvait que les regarder.
 
 }
 [sha:a5837334ddf43f99603a5e4df5300747186a8d63]{
 -- Page 13, Offset 7563.
 -- ……もっとも。
-  ...... Cependant,
+　...... Cependant,
 
 }
 [sha:898ce612f340a84445f429fbe43c22d6663e2a03]{
 -- Page 13, Offset 7564.
 -- しばらく続くと思われた沈黙は、一分ほどであっさりと終わってしまった。
-  ce silence, qui semblait parti pour durer un moment, se termina au bout d'une minute environ.
+　ce silence, qui semblait parti pour durer un moment, se termina au bout d'une minute environ.
 
 }
 [sha:957aec4d7c44d86ecc4c2fd02dd17665104f2b01]{
 -- Page 13, Offset 7565.
 -- この程度のぶつかり合いは日常茶飯事らしい。
-  Ce genre d'affrontement semblait faire partie de leur quotidien.
+　Ce genre d'affrontement semblait faire partie de leur quotidien.
 
 }
 [sha:fbc0c0a2203629173e7231385d15ec27d508ec01]{
@@ -223,25 +223,25 @@
 [sha:3698e00c601f49f659ff32930c5674ccc4cbb091]{
 -- Page 14, Offset 7567.
 -- 彼に事情を説明してあげて」
-  Explique-lui la situation.」
+　Explique-lui la situation.」
 
 }
 [sha:b05f7d5114941505de75ac77d3f9b83d8ce0b33f]{
 -- Page 14, Offset 7568.
 -- 有珠は椅子から立ち上がり、扉へと歩きだす。
-  Alice se leva de la chaise et marcha vers la porte.
+　Alice se leva de la chaise et marcha vers la porte.
 
 }
 [sha:e3251522f83004464fdfad13b293da73d3434247]{
 -- Page 15, Offset 7569.
 -- その背中を見て草十郎は首を<傾|かし>げてしまった。
-  Lorsqu'il vit ce qu'elle cachait dans son dos, Sōjūrō resta perplexe.
+　Lorsqu'il vit ce qu'elle cachait dans son dos, Sōjūrō resta perplexe.
 
 }
 [sha:d2bf82e47870f171dba320a1db2826108898241f]{
 -- Page 15, Offset 7570.
 -- 有珠の手には何か、どう控えめに表現しても、
-  Car la main d'Alice, même en relativisant,
+　Car la main d'Alice, même en relativisant,
 
 }
 [sha:d9aa6f6cce7b718449206d2dd1bc279735e49cf6]{
@@ -253,7 +253,7 @@
 [sha:e89148ad3aa95b465d99f914613fdff11d2ecda6]{
 -- Page 15, Offset 7572.
 -- としか言い表せない<得物|えもの>が握られていたからだ。
-  tenait ce qui n'était rien d'autre qu'une arme.
+　tenait ce qui n'était rien d'autre qu'une arme.
 
 }
 [sha:793be496778d6b23430f05020eeb6df7c95a38ca]{
@@ -265,7 +265,7 @@
 [sha:ba02355e19fead9e1564e83adbdd980b0d098618]{
 -- Page 16, Offset 7574.
 -- 横を通り過ぎる有珠に問いかける青子。
-  la questionna Aoko alors qu'elle la croisait.
+　la questionna Aoko alors qu'elle la croisait.
 
 }
 [sha:df3801da27d6fdacfe41120bc7f758ad044ef5d2]{
@@ -277,7 +277,7 @@
 [sha:f5c534376110aca4435d598fe5e174b4f9d78257]{
 -- Page 16, Offset 7576.
 -- 有珠は無表情で返答し、スタスタと部屋から立ち去った。
-  répondit Alice, inexpressive, avant de quitter la chambre d'un pas vif.
+　répondit Alice, inexpressive, avant de quitter la chambre d'un pas vif.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -289,6 +289,6 @@
 [sha:0919e2c8e86338565ca546655821bbf25b8ce23c]{
 -- Page 17, Offset 7578.
 -- よし。今の会話に関しては深く考えないようにしよう、と自己防衛する草十郎なのだった。
-  Bon, ne réfléchissons pas trop à cette conversation, songea Sōjūrō pour son bien-être.
+　Bon, ne réfléchissons pas trop à cette conversation, songea Sōjūrō pour son bien-être.
 
 }

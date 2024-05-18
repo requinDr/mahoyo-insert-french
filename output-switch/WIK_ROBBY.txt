@@ -1,7 +1,7 @@
 [sha:2c4747e4e30a9d761d26e706468e859060989198]{
 -- Page 0, Offset 23213.
 -- ぼんやりと、脳裏によぎった雑感にひたる。
-  Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
+　Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
 
 }
 [sha:26ae3b16174ef300d2dbc2e5f28b0b79acc2c651]{
@@ -19,25 +19,25 @@
 [sha:1cc0f318251a2d6ede146a173d65c40c6888be3d]{
 -- Page 1, Offset 23216.
 -- わたしは荷物をまとめ直して、いつの間にか先行していたふたりを追いかけた。
-  Je réajustai mon sac et emboîtai le pas au duo qui m'avait devancée alors que j'étais perdue dans mes pensées.
+　Je réajustai mon sac et emboîtai le pas au duo qui m'avait devancée alors que j'étais perdue dans mes pensées.
 
 }
 [sha:29c3d988518b15f08bf8e9110bd46ca1d0865819]{
 -- Page 1, Offset 23217.
 -- 蒼崎は山城先生と口論しながら林道を歩いていく。
-  Aozaki avançait sur le sentier boisé en se disputant avec le professeur Yamashiro.
+　Aozaki avançait sur le sentier boisé en se disputant avec le professeur Yamashiro.
 
 }
 [sha:5292ee3b68f96d8a31243cca7ceddf52b1fdefbc]{
 -- Page 1, Offset 23218.
 -- 遅れないよう彼女の後を追う。
-  Je me pressai afin de les rattraper.
+　Je me pressai afin de les rattraper.
 
 }
 [sha:da07abab19e80069e89d2048a95b7745a24b8ec1]{
 -- Page 1, Offset 23219.
 -- ふと空を仰ぐと、あれだけ晴れていた空模様は崩れ始めていた。
-  Lorsque je levai les yeux, je constatai que le ciel, dégagé jusqu'à présent, commençait à se couvrir.
+　Lorsque je levai les yeux, je constatai que le ciel, dégagé jusqu'à présent, commençait à se couvrir.
 
 }
 [sha:6b9290023d69a706c5218b746f3ded2ba3ec2b17]{
@@ -49,25 +49,25 @@
 [sha:e753edf0f08a789bf0903fbd12ad5daf060ec673]{
 -- Page 2, Offset 23221.
 -- 今にも泣き出しそうな空。
-  Il aurait pu pleuvoir à tout moment.
+　Il aurait pu pleuvoir à tout moment.
 
 }
 [sha:ec5c641dd3d243915902ac869b05cabcee19c850]{
 -- Page 2, Offset 23222.
 -- この分では、下手をすると帰りは雨になるんじゃないだろうな、とわたしは思った。
-  Je me disais qu'on risquait bien de rentrer sous la pluie, vu l'état du ciel.
+　Je me disais qu'on risquait bien de rentrer sous la pluie, vu l'état du ciel.
 
 }
 [sha:2e543f686edb5cea73d508d2d6d1d9f907bcc34f]{
 -- Page 3, Offset 23223.
 -- 林道を抜けると視界が開けた。
-  Une fois sortis de la forêt, notre champ de vision s'élargit.
+　Une fois sortis de la forêt, notre champ de vision s'élargit.
 
 }
 [sha:80b791612ce56a440fd086649230197db6fe2413]{
 -- Page 3, Offset 23224.
 -- くり抜かれた空の下、時代錯誤な建物がある。
-  Sous le ciel couvert se trouvait un édifice d'une autre époque.
+　Sous le ciel couvert se trouvait un édifice d'une autre époque.
 
 }
 [sha:54f759aaf8cf695aa11ecc4fcd72967ef473711d]{
@@ -91,13 +91,13 @@
 [sha:a3b27b157a73097ae8be462488fe40d284341df1]{
 -- Page 5, Offset 23228.
 -- 蒼崎の忠告を、山城先生はどこまで真剣に受けとめているのだろう。
-  Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.
+　Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.
 
 }
 [sha:a9422a3ddd1bf98f8d7088bbb4f4073460dfe216]{
 -- Page 5, Offset 23229.
 -- しかし。三年程度の付き合いとはいえ、彼女が<あ|・><の|・><顔|・>で冗談を言った記憶はない。
-  Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas de l'avoir déjà vue plaisanter avec cet air.
+　Cependant, même si je ne la connaissais que depuis trois ans, je ne me rappelais pas de l'avoir déjà vue plaisanter avec cet air.
 
 }
 [sha:1d77478eaa619477399079a75c71eabc3ff75885]{
@@ -115,7 +115,7 @@
 [sha:9ecdaafd99b211a46c088949e44b25f52ac6a60c]{
 -- Page 6, Offset 23232. Glued. Mods: @x.
 -- 大丈夫、おかしなものを見てもスルーすれば害はないから」
- Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
+Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -127,31 +127,31 @@
 [sha:04f22d9b738e1809fee9e0e8b04e5e0b8f049b4c]{
 -- Page 6, Offset 23234.
 -- 山城先生の意見に賛成する。
-  J'étais d'accord avec le professeur Yamashiro.
+　J'étais d'accord avec le professeur Yamashiro.
 
 }
 [sha:cb5692ea7342ab5e8aabaa0e05e1462c9f3ad9d1]{
 -- Page 6, Offset 23235.
 -- 幽霊を見ても無視すればＯＫ、という蒼崎の性格がいちばん怖い。
-  Le plus effrayant était le caractère d'Aozaki qui affirmait qu'on pouvait ignorer les fantômes.
+　Le plus effrayant était le caractère d'Aozaki qui affirmait qu'on pouvait ignorer les fantômes.
 
 }
 [sha:9fcc2151debf566a1de9fe53052041b1116dde8f]{
 -- Page 7, Offset 23236.
 -- 久遠寺邸のロビーは冷えきっていた。
-  Le vestibule du manoir Kuonji était glacial.
+　Le vestibule du manoir Kuonji était glacial.
 
 }
 [sha:e35a47d5e06376ba1fe0b4e199e60cc0c1d2dc3c]{
 -- Page 7, Offset 23237.
 -- 山中なので街より気温が低い……といっても、限度というものがある。
-  La température avait beau être plus basse en montagne qu'en ville, il y avait tout de même des limites.
+　La température avait beau être plus basse en montagne qu'en ville, il y avait tout de même des limites.
 
 }
 [sha:f9b58231a698ec89c324f75c77610db6b1cc8c91]{
 -- Page 7, Offset 23238.
 -- ここではもう、冬が到来しているような寒さだった。
-  Il faisait si froid qu'on aurait cru être en hiver.
+　Il faisait si froid qu'on aurait cru être en hiver.
 
 }
 [sha:1cd16b53a13b8bf1f925d29a611e2d7f8a6c1449]{
@@ -163,7 +163,7 @@
 [sha:20beb37073e2e7c23caabae66b874a6fb9a7143b]{
 -- Page 8, Offset 23240.
 -- 隣の通路とロビーとでも大きく年代が違いますね。まるでここだけ違う建物から持ってきた……おや？」
-  Le couloir et le vestibule sont de deux époques différentes. On croirait presque que seule cette partie vient d'un autre bâtiment...... Tiens ?」
+　Le couloir et le vestibule sont de deux époques différentes. On croirait presque que seule cette partie vient d'un autre bâtiment...... Tiens ?」
 
 }
 [sha:708cac2d1c2e59531bb2db4251b95a14e8ea181d]{
@@ -175,7 +175,7 @@
 [sha:117be58e1df396e89230f0697f81c281fdbc4a2f]{
 -- Page 9, Offset 23242.
 -- 聞き飽きたバカっぽい声に振り向くと、ロビーにはバカがいた。
-  Je me retournai au son d'une voix idiote et extrêmement familière pour effectivement constater la présence d'un idiot dans le vestibule.
+　Je me retournai au son d'une voix idiote et extrêmement familière pour effectivement constater la présence d'un idiot dans le vestibule.
 
 }
 [sha:628a2b935b96e5f12203240243c27f8cbb78b445]{
@@ -187,7 +187,7 @@
 [sha:a33ef1433c3e619f751051e867b27da61a703f75]{
 -- Page 9, Offset 23244.
 -- そっか、会長ったら朝からいないと思ったら、ふたりを迎えに行ってたんだな！」
-  Je me demandais pourquoi la présidente n'était pas là ce matin. Elle était allée vous chercher, hein ?」
+　Je me demandais pourquoi la présidente n'était pas là ce matin. Elle était allée vous chercher, hein ?」
 
 }
 [sha:8be5e81db25b1eab40426d34730e7b6385722640]{
@@ -205,7 +205,7 @@
 [sha:489be961a6e651cb0e10bf9b78028fad6ae55189]{
 -- Page 10, Offset 23247.
 -- ま、適切なチョイスじゃないけど、最悪ってワケでもないんじゃない？　<木|き><乃|の><美|み>君、とにかく騒がしいし」
-  Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
+　Bah, le choix n'est pas vraiment pertinent, mais ça aurait pu être pire, tu ne crois pas ? Kinomi est doué pour mettre de l'ambiance.」
 
 }
 [sha:4630e9773198f2359b064b06800639f4c5a54b4b]{
@@ -223,13 +223,13 @@
 [sha:9e16eaa984ec15c8310fcdbd47cc386383fc1797]{
 -- Page 12, Offset 23250.
 -- 静希の考えって、ほんっと分かんない。
-  Je ne comprends vraiment pas Shizuki.
+　Je ne comprends vraiment pas Shizuki.
 
 }
 [sha:92552691015f4c23c24588cf9db916cb43f66510]{
 -- Page 12, Offset 23251.
 -- 芳助、バカっとしてないで荷物、持ってよ」
-  Hōsuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
+　Hōsuke, ne fais pas l'idiot et occupe-toi de mes bagages !」
 
 }
 [sha:f05f0c4f9bc013d19ced1ed4da60872e67925d21]{
@@ -241,7 +241,7 @@
 [sha:dd965fbe7c691c7c0de9c5cc54eab6aa3f96f8be]{
 -- Page 13, Offset 23253.
 -- 芳助の軽口を無視して、着替えの入ったボストンバッグを床に置く。
-  J'ignorai la plaisanterie d'Hōsuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
+　J'ignorai la plaisanterie d'Hōsuke et posai par terre mon sac de voyage qui contenait mes vêtements de rechange.
 
 }
 [sha:33e6e985bf76ae0efd9fa3f0b1e881357a86fbfc]{
@@ -259,19 +259,19 @@
 [sha:1833c6797985ba3a3fe308ad346de180bf2492bd]{
 -- Page 13, Offset 23256.
 -- ……や、にしても重いな。体に似合わず重装備じゃねえか、オイ」
-  ...... Hé, mais ce truc pèse une tonne ! T'as un sac vachement lourd pour un physique comme le tien, dis donc !」
+　...... Hé, mais ce truc pèse une tonne ! T'as un sac vachement lourd pour un physique comme le tien, dis donc !」
 
 }
 [sha:cb05a1bcbffcd4fd443a595d08e820622299649c]{
 -- Page 14, Offset 23257.
 -- 芳助はわたしの荷物を担いで、ロビーの東側の通路に向かおうとする。
-  Hōsuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
+　Hōsuke chargea le sac sur son épaule et fit mine de se diriger vers le couloir côté est du vestibule.
 
 }
 [sha:ef2cce376a7d3989e79f985de97e1e104dcd27c0]{
 -- Page 14, Offset 23258.
 -- 重いのは当然だ。万が一の時に備えて、中華鍋と中華包丁、米と金豚チャーシューが入っているんだから。
-  Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
+　Le poids du sac n'avait rien d'étonnant. Au cas où, j'y avais mis une casserole, des couteaux de cuisine chinois, du riz et des tranches de porc.
 
 }
 [sha:d1e1ef5fe3b7298eede370dd98832c82f55b1166]{
@@ -283,18 +283,18 @@
 [sha:ed2ff6d31219bae8fc974187e2888eedbb86dc3f]{
 -- Page 15, Offset 23260.
 -- それと、有珠の気遣いで客室も用意されているから、疲れたらそっちに移動して。着替えとかは客室で済ませちゃってね」
-  Alice a eu la gentillesse de préparer des chambres d'ami. Si tu as besoin de te reposer, rends-toi là-bas. Si tu veux te changer, tu peux aussi le faire dans ta chambre.」
+　Alice a eu la gentillesse de préparer des chambres d'ami. Si tu as besoin de te reposer, rends-toi là-bas. Si tu veux te changer, tu peux aussi le faire dans ta chambre.」
 
 }
 [sha:f56149c405bd69308dc911e93be84369d371e6b3]{
 -- Page 15, Offset 23261.
 -- そうか。
-  Je vois.
+　Je vois.
 
 }
 [sha:52b18117aa08bcdaaf48fc7e715637dd18f4f6d3]{
 -- Page 15, Offset 23262.
 -- それじゃあ、わたしは―――
-  Dans ce cas, je vais―――
+　Dans ce cas, je vais―――
 
 }

@@ -7,31 +7,31 @@
 [sha:212eb7a6ba0f7f2caa8b71bb5ebfe9bb15e7ac57]{
 -- Page 0, Offset 23873.
 -- きっかり十五分で目を覚まして、姿見で全身をチェック。
-  Je me réveillai après exactement quinze minutes et inspectai mon profil dans la glace.
+　Je me réveillai après exactement quinze minutes et inspectai mon profil dans la glace.
 
 }
 [sha:75fb1b14e280f02c72eafcce31be48f453e2977d]{
 -- Page 0, Offset 23874.
 -- 荷物からブラシを取り出して、軽く髪をとかして客室を出た。
-  Je sortis une brosse de mon sac, me coiffai sommairement et quittai la chambre.
+　Je sortis une brosse de mon sac, me coiffai sommairement et quittai la chambre.
 
 }
 [sha:fbd5beb317b6993e10b7ec94a8d33116ebc75bbe]{
 -- Page 1, Offset 23875.
 -- 部屋に鍵をかけていると、一階の方から何やら聞き慣れない声が聞こえてきた。
-  Tandis que je fermai la porte à clef, j'entendis des voix peu familières depuis le rez-de-chaussée.
+　Tandis que je fermai la porte à clef, j'entendis des voix peu familières depuis le rez-de-chaussée.
 
 }
 [sha:a68a689236bcbf60b395c4992432617b1906994f]{
 -- Page 1, Offset 23876.
 -- 新しいゲストだろうか？
-  Peut-être de nouveaux invités ?
+　Peut-être de nouveaux invités ?
 
 }
 [sha:66156f2e67fe824bc2ba6e62c00ca09d0584a0ad]{
 -- Page 1, Offset 23877.
 -- 廊下では聞こえて、部屋の中では聞こえなかった……部屋の防音はしっかりしている、という事だ。
-  Les sons m'étaient parvenus dans le couloir, mais pas dans la chambre... Cette dernière était donc bien insonorisée.
+　Les sons m'étaient parvenus dans le couloir, mais pas dans la chambre... Cette dernière était donc bien insonorisée.
 
 }
 [sha:c3b6b52c95d4e9f93c23f6e4dcee903082e95e69]{
@@ -43,7 +43,7 @@
 [sha:9bf3ca410d6df54f6b93157cd4b427b070280109]{
 -- Page 2, Offset 23879.
 -- 連休中は晴れるという話でしたが、二日目からこれとは我々もついていない」
-  Il était censé faire beau pendant les congés, mais si c'est ce que nous réserve le deuxième jour, je dois en conclure que nous n'avons pas de chance.」
+　Il était censé faire beau pendant les congés, mais si c'est ce que nous réserve le deuxième jour, je dois en conclure que nous n'avons pas de chance.」
 
 }
 [sha:fc3837bfbde408c463afb65517db06beaaafc333]{
@@ -79,13 +79,13 @@ Ah, tu as rentré le linge ? Et le futon, tu ne l'as pas laissé dehors ?」
 [sha:d8b740e9e7a2f64bb39ab2ee88cb5cb37f5b07ab]{
 -- Page 4, Offset 23885.
 -- 新しくやってきたゲストは、教会の神父たちだった。
-  Les nouveaux arrivants étaient les gens de l'église.
+　Les nouveaux arrivants étaient les gens de l'église.
 
 }
 [sha:71191ee2fd2c321f3cc20df79d56b60fad23a6c9]{
 -- Page 4, Offset 23886.
 -- 声を聞きつけたのか、東館から久遠寺さんが出迎えに現れた。
-  Probablement attirée par leurs voix, Kuonji était sortie de l'aile est pour les accueillir.
+　Probablement attirée par leurs voix, Kuonji était sortie de l'aile est pour les accueillir.
 
 }
 [sha:e2ec85084c5251e9b9e6f6f1433e36dcecf11626]{
@@ -103,7 +103,7 @@ Ah, tu as rentré le linge ? Et le futon, tu ne l'as pas laissé dehors ?」
 [sha:eb95f390861de8990806fc97e638697daefc58fa]{
 -- Page 5, Offset 23889.
 -- <律架|りつか>さんの席しか用意していなかったけれど、急いで椅子を用意するわ」
-  Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher d'autres.」
+　Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher d'autres.」
 
 }
 [sha:8bf9262b97f4464bfb18558b6944fd3dc3572e63]{
@@ -127,55 +127,55 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:bf3c40476bdd6cba085a10296e8c59ccc0c1fe50]{
 -- Page 7, Offset 23893. Glued.
 -- 何がひどいって、本気で人間椅子にさせられる現実とか、実力行使できる唯ちゃんとわたしのパワーバランスがひどい！
- Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise humaine et parce que l'écart de force entre toi et moi est injuste !
+　Tu sais pourquoi ? Eh bien, parce que tu veux vraiment faire de moi une chaise humaine et parce que l'écart de force entre toi et moi est injuste !
 
 }
 [sha:f5f065246677dec115162f9aeba6ff936dc93381]{
 -- Page 7, Offset 23894. Glued. Mods: @x.
 -- ……お姉さんに対して当たりきつすぎると思うわ、わたし」
-  ...... Je trouve que tu manques de respect envers ta grande sœur !」
+　...... Je trouve que tu manques de respect envers ta grande sœur !」
 
 }
 [sha:f76642e783296fd1be7873229894f658f5e96864]{
 -- Page 8, Offset 23895.
 -- いろいろ面倒なので、彼らを教会組と呼称する。
-  Comme il serait fatigant d'entrer dans les détails, nous appellerons ces gens le groupe de l'église.
+　Comme il serait fatigant d'entrer dans les détails, nous appellerons ces gens le groupe de l'église.
 
 }
 [sha:b4fb73f1158e72afa6ae9498ea111e52e07775cc]{
 -- Page 8, Offset 23896.
 -- <詠梨|えいり>神父とシスター<唯架|ゆいか>は久遠寺さんの先導で居間に向かっていった。
-  Père Eiri et sœur Yuika se dirigèrent vers le salon, Kuonji à leur tête.
+　Père Eiri et sœur Yuika se dirigèrent vers le salon, Kuonji à leur tête.
 
 }
 [sha:92376b5eb134149ef96576f412e7934c581de0b0]{
 -- Page 9, Offset 23897.
 -- 詠梨神父は見ての通り、楽しげだ。
-  Père Eiri semblait joyeux.
+　Père Eiri semblait joyeux.
 
 }
 [sha:1a3ed3c08609afc975caa61dfe4072880b4b69b7]{
 -- Page 9, Offset 23898.
 -- あの神父はいつも笑顔でリラックスしているので、本心ではこのイベントをどう<捉|とら>えているかは分からない。
-  Cet homme ayant toujours un air serein et un sourire aux lèvres, je n'aurais su dire comment il percevait honnêtement cet évènement.
+　Cet homme ayant toujours un air serein et un sourire aux lèvres, je n'aurais su dire comment il percevait honnêtement cet évènement.
 
 }
 [sha:187d8f367ac8702797dfe6fd04ccf77fd24b7276]{
 -- Page 10, Offset 23899.
 -- シスター唯架は、これまた見ての通り、不満そうだ。
-  Quant à sœur Yuika, elle paraissait mécontente.
+　Quant à sœur Yuika, elle paraissait mécontente.
 
 }
 [sha:8581c2002a6aea825d7aa6f7de7920d99cb14f6a]{
 -- Page 10, Offset 23900.
 -- あのシスターはいつも辛気くさい顔付きなので、内心はどう思っているのか、これまた定かではない。
-  Comme elle avait toujours l'air irritée, là aussi, j'étais incapable de deviner ce qu'elle pensait réellement.
+　Comme elle avait toujours l'air irritée, là aussi, j'étais incapable de deviner ce qu'elle pensait réellement.
 
 }
 [sha:3dad0829f90c4d33437fed7e650d50f20c35a3a8]{
 -- Page 10, Offset 23901.
 -- そして、
-  Et pour finir,
+　Et pour finir,
 
 }
 [sha:315c1f04994e2fdc3981283635b4a353084bb029]{
@@ -187,13 +187,13 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:eeb969e23394ad9732cea93e80df0eacb96d97f4]{
 -- Page 11, Offset 23903.
 -- このお気楽な人も、心の底ではどんな獣を隠しているものやら。
-  je me demandais quel genre de bête pouvait se cacher derrière le sourire de cette femme insouciante.
+　je me demandais quel genre de bête pouvait se cacher derrière le sourire de cette femme insouciante.
 
 }
 [sha:c7b91198829be36070f584543d1287e25378ccfb]{
 -- Page 11, Offset 23904.
 -- ま、猫の仔一匹隠れてはいないと思うけど。
-  En tout cas, ce n'était probablement pas un esprit très recommandable.
+　En tout cas, ce n'était probablement pas un esprit très recommandable.
 
 }
 [sha:535d26b63bba6cacc209a59b24ea050aebac0abe]{
@@ -205,7 +205,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:6e28d98a8bd4991dd4f90aad76e8b836725651ed]{
 -- Page 12, Offset 23906.
 -- 律架さんたちも誘われたんですか、パーティー」
-  Vous avez aussi été invitée à la fête ?」
+　Vous avez aussi été invitée à la fête ?」
 
 }
 [sha:05a796410fb70c47391df932bb5414f3da28d14e]{
@@ -217,13 +217,13 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:0d4998c809ecc0c02b342ce8789c5f162a338fab]{
 -- Page 12, Offset 23908.
 -- 詠梨さんと唯ちゃんにはアコちゃんから手紙があったみたい。
-  Apparemment, Eiri et Yui ont reçu une invitation de la part d'Ako.
+　Apparemment, Eiri et Yui ont reçu une invitation de la part d'Ako.
 
 }
 [sha:413f844e049caf4db5dc90e67e53b4a298fb9858]{
 -- Page 12, Offset 23909.
 -- ……ん？　もしかして招待状の差出人って、それぞれ違うのかしら」
-  ...... Hum ? Les convives auraient donc été invités par différentes personnes ?」
+　...... Hum ? Les convives auraient donc été invités par différentes personnes ?」
 
 }
 [sha:b88b5af28b6e93dc8bb7d713acf237512d8e82c0]{
@@ -235,13 +235,13 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:827eb290ef8ef84b141820cb497c6ddae8e68979]{
 -- Page 13, Offset 23911.
 -- 律架さんはシスター唯架の姉で、厳密に言えば教会の人ではない。
-  Ritsuka était la sœur aînée de sœur Yuika, et techniquement parlant, elle ne faisait pas partie de l'église.
+　Ritsuka était la sœur aînée de sœur Yuika, et techniquement parlant, elle ne faisait pas partie de l'église.
 
 }
 [sha:c791ed11c40273239cd95e5cb736e7c1c13addcc]{
 -- Page 13, Offset 23912.
 -- 商店街では二日に一度顔を会わす、いたって平凡な三咲町の住人である。
-  C'était une résidente parfaitement banale du vieux quartier de Misaki que je croisais tous les deux jours dans le quartier marchand.
+　C'était une résidente parfaitement banale du vieux quartier de Misaki que je croisais tous les deux jours dans le quartier marchand.
 
 }
 [sha:5abc42acc4c697bdb56be2db4072a9b318bd21f7]{
@@ -259,12 +259,12 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:2a67f5faea5f4411f98edc71d3d1edcd5c02ee15]{
 -- Page 14, Offset 23915.
 -- 律架さんは不安げな視線を外に送る。
-  Ritsuka jeta un regard inquiet vers l'extérieur.
+　Ritsuka jeta un regard inquiet vers l'extérieur.
 
 }
 [sha:bb4baa10017a4f527abf48efa614e6ef56c26fed]{
 -- Page 14, Offset 23916.
 -- わたしは、
-  Je...
+　Je...
 
 }

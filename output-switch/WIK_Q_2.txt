@@ -1,12 +1,12 @@
 [sha:426d9f007f88b3c607288c768a2fdffa58833f86]{
 -- Page 0, Offset 23039.
 -- ……そういえば。
-  ...... C'était un peu tard,
+　...... C'était un peu tard,
 
 }
 [sha:a0c6c413b1ca583d28d03563a100fb1ba4042a87]{
 -- Page 0, Offset 23040.
 -- あの人も蒼崎同様、土桔氏と山城先生、その両名を殺害できる“不在時間”を持つ人だった、と思った。
-  mais je songeai que cette femme, comme Aozaki, comptait à son actif une “période d'absence” pendant laquelle elle aurait pu tuer monsieur Tokitsu et le professeur Yamashiro.
+　mais je songeai que cette femme, comme Aozaki, comptait à son actif une “période d'absence” pendant laquelle elle aurait pu tuer monsieur Tokitsu et le professeur Yamashiro.
 
 }

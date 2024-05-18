@@ -1,103 +1,103 @@
 [sha:acb220722cdf317b53fa8e0cf088a74b4f5fbe56]{
 -- Page 0, Offset 10687.
 -- これといった快事も不祥事もなく、本日の特別清掃班の活動は終了した。
-  L'activité journalière de l'équipe spéciale de nettoyage se termina sans manifestation de joie ni scandale.
+　L'activité journalière de l'équipe spéciale de nettoyage se termina sans manifestation de joie ni scandale.
 
 }
 [sha:ee33256b340dfdecc33bffa7ccb45ff171b1d0ec]{
 -- Page 0, Offset 10688.
 -- ただいまの時刻、午後三時。
-  Il était à présent trois heures de l'après-midi.
+　Il était à présent trois heures de l'après-midi.
 
 }
 [sha:24c3e246656a130f05ae2c34d15d76fda9937a66]{
 -- Page 0, Offset 10689.
 -- 別れ際、草十郎は木乃美たちから遊びに誘われたが、夕方からアルバイトが入っている、と丁寧に断った。
-  Quand ils se séparèrent, Kinomi et les autres proposèrent à Sōjūrō d'aller s'amuser, mais il déclina poliment en expliquant qu'il travaillait ce soir-là.
+　Quand ils se séparèrent, Kinomi et les autres proposèrent à Sōjūrō d'aller s'amuser, mais il déclina poliment en expliquant qu'il travaillait ce soir-là.
 
 }
 [sha:fc620810fded0320a673a74bcdad3ff2eb4d740a]{
 -- Page 1, Offset 10690.
 -- 夕方からのバイトまであと二時間ほど。
-  Il lui restait environ deux heures avant son service du soir.
+　Il lui restait environ deux heures avant son service du soir.
 
 }
 [sha:2f760ba98d38cc1c2470e4a062eb9da42ef59886]{
 -- Page 1, Offset 10691.
 -- 遊ぶほどの時間はないが、さりとて、暇つぶしには持て余す長さと言える。
-  Il ne pouvait s'offrir le luxe de s'amuser, mais c'était amplement suffisant pour trouver un moyen de passer le temps.
+　Il ne pouvait s'offrir le luxe de s'amuser, mais c'était amplement suffisant pour trouver un moyen de passer le temps.
 
 }
 [sha:a1ab65e04e8f09e38bf119bc7a3c4540600789b8]{
 -- Page 1, Offset 10692.
 -- 公園で体を休める、という考えも浮かんだが、町中でも冬の寒さはそれなりに堪えるので却下。
-  L'idée de se détendre au parc lui avait traversé l'esprit, mais comme ça l'obligerait à braver le froid de l'hiver urbain, il la rejeta.
+　L'idée de se détendre au parc lui avait traversé l'esprit, mais comme ça l'obligerait à braver le froid de l'hiver urbain, il la rejeta.
 
 }
 [sha:0a1944631824a99b00033bc64ecd53e9ea2346cd]{
 -- Page 2, Offset 10693.
 -- ちなみに、例の錠剤は朝のうちに青子から手渡されていた。
-  Au passage, Aoko lui avait remis les fameuses pastilles dès le matin.
+　Au passage, Aoko lui avait remis les fameuses pastilles dès le matin.
 
 }
 [sha:4f9516132a5195e7a4c1da4fbdf79daea6670d7c]{
 -- Page 2, Offset 10694.
 -- 青子の読みはまったく正しい。今から洋館に戻ってもすぐとんぼ返りになるだけである。
-  La jeune fille avait parfaitement anticipé la situation. Même s'il rentrait dès à présent au manoir, il ne ferait que retourner en ville dans la foulée.
+　La jeune fille avait parfaitement anticipé la situation. Même s'il rentrait dès à présent au manoir, il ne ferait que retourner en ville dans la foulée.
 
 }
 [sha:8ee3dd3136bac9518adfa0f2f6d7345015001560]{
 -- Page 2, Offset 10695.
 -- 骨折り損のなんとやらで、アルバイトを終えるまで洋館に戻る必要はまったくない。
-  Ce n'était qu'une perte de temps, et il n'avait aucun besoin de retourner à la demeure avant d'aller au travail.
+　Ce n'était qu'une perte de temps, et il n'avait aucun besoin de retourner à la demeure avant d'aller au travail.
 
 }
 [sha:d9a80e2844c2d0e120b5b7cc1e4593d5828f841a]{
 -- Page 3, Offset 10696.
 -- ―――まったくないのだが、草十郎はすんなり帰途についていた。
-  ―――Il n'en avait vraiment pas besoin, et pourtant, Sōjūrō rentra sans hésitation.
+　―――Il n'en avait vraiment pas besoin, et pourtant, Sōjūrō rentra sans hésitation.
 
 }
 [sha:9e29802778c4649f96a754af499c39fbeaf5bed8]{
 -- Page 3, Offset 10697.
 -- 山奥育ちにとって、二時間程度の散歩は苦でもなんでもないのである。
-  Pour quelqu'un qui avait grandi à la montagne, une promenade de l'ordre de deux heures n'était pas grand-chose.
+　Pour quelqu'un qui avait grandi à la montagne, une promenade de l'ordre de deux heures n'était pas grand-chose.
 
 }
 [sha:957e68cbda612edee5e94d0970f5ad713e8f0c0f]{
 -- Page 4, Offset 10698.
 -- この三咲町は三咲市の中でも閑静な住宅地に入る。
-  Le vieux quartier de Misaki était un quartier résidentiel tranquille, typique de la ville de Misaki.
+　Le vieux quartier de Misaki était un quartier résidentiel tranquille, typique de la ville de Misaki.
 
 }
 [sha:52798db1957b5206ba295e877b9021c19e9e997c]{
 -- Page 4, Offset 10699.
 -- その中でひときわ異質なのがここ白犬塚だ。
-  En revanche, celui de Shiroinuzuka se distinguait singulièrement de ses semblables.
+　En revanche, celui de Shiroinuzuka se distinguait singulièrement de ses semblables.
 
 }
 [sha:9d72fdcd0c743f1b164c690760eec1a740905749]{
 -- Page 4, Offset 10700.
 -- 森に向かうひとつきりの坂道。
-  Il se tenait sur la seule et unique pente menant à la forêt.
+　Il se tenait sur la seule et unique pente menant à la forêt.
 
 }
 [sha:9387f363b74aa7449c72a3d46d4079cdd50a6236]{
 -- Page 4, Offset 10701.
 -- 住宅地の奥にそびえる山影は、物言わずとも人々の営みを威圧している。
-  L'immense colline s'élevant au-dessus du quartier exerçait, sans exagération, une pression sur le quotidien des gens.
+　L'immense colline s'élevant au-dessus du quartier exerçait, sans exagération, une pression sur le quotidien des gens.
 
 }
 [sha:f3348e4eeb900d612274e537977a044d3fa70e97]{
 -- Page 5, Offset 10702.
 -- 近代化の進む現代においても、自然への<崇拝|すうはい>は住民たちの心に根付いている。
-  Même à l'époque actuelle où la technologie progressait à grands pas, le culte de la nature restait enraciné dans le cœur des habitants.
+　Même à l'époque actuelle où la technologie progressait à grands pas, le culte de la nature restait enraciné dans le cœur des habitants.
 
 }
 [sha:f715a4ca9826df6d59692b664cd76a3a981e079d]{
 -- Page 5, Offset 10703.
 -- あの洋館も、何らかの<社|やしろ>であれば幽霊屋敷などではなく、霊験あらたかな観光名所になっていたかもしれない。
-  Cette demeure aurait également pu devenir un lieu de tourisme réputé pour ses forces miraculeuses si elle avait été un temple shintô, et non pas un manoir hanté.
+　Cette demeure aurait également pu devenir un lieu de tourisme réputé pour ses forces miraculeuses si elle avait été un temple shintô, et non pas un manoir hanté.
 
 }
 [sha:a2bb2d2b96e4014d5db67039b7927735e6144fd5]{
@@ -109,19 +109,19 @@
 [sha:03c3d476da5d4a04a2dcc2b9932d39efeef5bef2]{
 -- Page 6, Offset 10705.
 -- 白犬塚周辺の家は、どれもたいへん立派である。
-  Les maisons aux environs de Shiroinuzuka étaient toutes splendides.
+　Les maisons aux environs de Shiroinuzuka étaient toutes splendides.
 
 }
 [sha:431dedb5f39a4bf89bccf5e6767d7b4ab5336025]{
 -- Page 6, Offset 10706.
 -- 人々の住む坂の下から、森の中にある洋館の屋根を見上げ、なるほど、と草十郎は納得した。
-  Mais en levant les yeux vers le toit du manoir au cœur de la forêt, depuis le bas de la pente où résidaient les habitants du quartier, Sōjūrō prit pleinement conscience d'une chose.
+　Mais en levant les yeux vers le toit du manoir au cœur de la forêt, depuis le bas de la pente où résidaient les habitants du quartier, Sōjūrō prit pleinement conscience d'une chose.
 
 }
 [sha:ab32acb25ea386409afbe25b63e168b7bc87f513]{
 -- Page 6, Offset 10707.
 -- 鳶丸の言う通り、あの洋館を所有する久遠寺家はこの町一番のお金持ちなのだ、と。
-  Comme l'avait dit Tobimaru, la famille Kuonji, propriétaire de cette résidence, était la plus riche de la ville.
+　Comme l'avait dit Tobimaru, la famille Kuonji, propriétaire de cette résidence, était la plus riche de la ville.
 
 }
 [sha:6f284ae8634807146d71bdf60d5a3ddc850fc476]{
@@ -133,115 +133,115 @@
 [sha:028127b9f2151610710e263f035adf75584d691d]{
 -- Page 7, Offset 10709.
 -- ふむ、とそんな事を考えつつ、草十郎は洋館への坂道を歩きはじめた。
-  Pensant être dans le vrai, Sōjūrō commença à grimper la pente menant au manoir.
+　Pensant être dans le vrai, Sōjūrō commença à grimper la pente menant au manoir.
 
 }
 [sha:f3de45df2bd9e09ab86f00fec20c2f9f10cc7c0a]{
 -- Page 7, Offset 10710.
 -- 土の感触のないアスファルトの道が少し<淋|さみ>しい。
-  Le chemin de béton dépourvu du crissement de la terre le rendait d'humeur plutôt chagrine.
+　Le chemin de béton dépourvu du crissement de la terre le rendait d'humeur plutôt chagrine.
 
 }
 [sha:d05827cca30ce53022228c31e51b090a785f303f]{
 -- Page 8, Offset 10711.
 -- 舗装された道を十分ほど歩いて、森の鉄柵にたどり着く。
-  Après environ dix minutes de marche sur le chemin pavé, il parvint à la clôture de la forêt.
+　Après environ dix minutes de marche sur le chemin pavé, il parvint à la clôture de la forêt.
 
 }
 [sha:b6a29def061eb49d4b52d713b639c89f38ba4fa5]{
 -- Page 8, Offset 10712.
 -- この先は久遠寺の私有地だ。
-  Derrière se trouvait la propriété privée des Kuonji.
+　Derrière se trouvait la propriété privée des Kuonji.
 
 }
 [sha:19e4cce979969eb2d48751b2f5944e9bff0e82f5]{
 -- Page 8, Offset 10713.
 -- 関係者以外立ち入り禁止、といった不粋な看板はない。
-  Aucun panneau vulgaire n'interdisait l'entrée aux personnes non autorisées.
+　Aucun panneau vulgaire n'interdisait l'entrée aux personnes non autorisées.
 
 }
 [sha:6901828813b4bc5f4aeb5622f8e9fad09509d6f7]{
 -- Page 8, Offset 10714.
 -- ただ、訪れた者の精神を圧迫する、いかつい鉄柵が<人避|ひとよ>けの結界となっている。
-  Seulement, la clôture sinistre, pesant sur l'esprit des visiteurs, repoussait toute présence humaine.
+　Seulement, la clôture sinistre, pesant sur l'esprit des visiteurs, repoussait toute présence humaine.
 
 }
 [sha:d922070812760a8903d8e55d342cbbc30e863469]{
 -- Page 9, Offset 10715.
 -- そんな鉄柵を、草十郎は気軽に押し開ける。
-  Sōjūrō l'ouvrit naturellement.
+　Sōjūrō l'ouvrit naturellement.
 
 }
 [sha:1c5e72599d27b26befdb0012d0d0017a0d1bce79]{
 -- Page 9, Offset 10716.
 -- 期末試験が終わってからまだ二日しか経っていないのに、ひとりでこの森に入る事に慣れきった風である。
-  Il ne s'était écoulé que deux jours depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
+　Il ne s'était écoulé que deux jours depuis la fin des examens semestriels ; néanmoins, il semblait déjà s'être habitué à rentrer seul par cette forêt.
 
 }
 [sha:e12f6f9504b0e910048e2b329250a427aff68b8f]{
 -- Page 10, Offset 10717.
 -- 森から洋館までの林道は、やはり蛇のように曲がりくねっている。
-  Le chemin forestier menant des bois à la demeure zigzaguait tel un serpent.
+　Le chemin forestier menant des bois à la demeure zigzaguait tel un serpent.
 
 }
 [sha:2d713e0ca8138873f0b61b20b8ebde30116a397a]{
 -- Page 10, Offset 10718.
 -- 林道を使うと洋館の敷地まで約十五分。
-  En l'empruntant, il fallait environ quinze minutes pour atteindre les abords du manoir.
+　En l'empruntant, il fallait environ quinze minutes pour atteindre les abords du manoir.
 
 }
 [sha:b54b3de94c3f6c79c629a199f384fbcbebab979c]{
 -- Page 10, Offset 10719.
 -- なだらかな坂道を無視して森を一直線に歩いてもいいのだが、その場合、疲労は何倍にもなる。火急の用でもないかぎり、林道を使うのが常識的だ。
-  Il était possible d'ignorer la pente douce et de couper en ligne droite à travers la forêt, mais en agissant ainsi, la fatigue occasionnée était démultipliée. Tant qu'il n'y avait pas urgence, le bon sens voulait que l'on utilise le chemin forestier.
+　Il était possible d'ignorer la pente douce et de couper en ligne droite à travers la forêt, mais en agissant ainsi, la fatigue occasionnée était démultipliée. Tant qu'il n'y avait pas urgence, le bon sens voulait que l'on utilise le chemin forestier.
 
 }
 [sha:fbcf8422fcce788e8a8a20aec6c7ee2ca1468a0d]{
 -- Page 11, Offset 10720.
 -- ロビーに入ると、居間から話し声が聞こえてきた。
-  En entrant dans le vestibule, des bruits de conversation lui parvinrent depuis le salon.
+　En entrant dans le vestibule, des bruits de conversation lui parvinrent depuis le salon.
 
 }
 [sha:1e9d9c301bd2974b64bbdd32a94073dae2f70efb]{
 -- Page 11, Offset 10721.
 -- 青子と有珠のものであるのは間違いなく、とりあえず草十郎は居間へと向かう。
-  Il ne faisait aucun doute que ces voix appartenaient à Aoko et Alice. Sōjūrō se dirigea donc d'abord vers le salon.
+　Il ne faisait aucun doute que ces voix appartenaient à Aoko et Alice. Sōjūrō se dirigea donc d'abord vers le salon.
 
 }
 [sha:eca3573257fa315c0743abcbf91266412a6af8a6]{
 -- Page 12, Offset 10722.
 -- 期末試験が終わった日から、青子と有珠の生活スタイルは日常から非日常へと切り替わっていた。
-  Depuis la fin des examens semestriels, le style de vie d'Aoko et Alice était passé de l'ordinaire à l'extraordinaire.
+　Depuis la fin des examens semestriels, le style de vie d'Aoko et Alice était passé de l'ordinaire à l'extraordinaire.
 
 }
 [sha:541a628ea9e1f9aee842230c7bd7cd396fc7a88d]{
 -- Page 12, Offset 10723.
 -- 青子が有珠の部屋……館の西館、左翼一帯……に行ったきり戻ってこなかったり、
-  Aoko se rendait dans la chambre d'Alice...... dans la section gauche, l'aile ouest du manoir...... et n'en revenait pas,
+　Aoko se rendait dans la chambre d'Alice...... dans la section gauche, l'aile ouest du manoir...... et n'en revenait pas,
 
 }
 [sha:e2bd244411d97ee339a58a791a088aec9d4720c8]{
 -- Page 12, Offset 10724.
 -- 有珠が青子の部屋に入ったきり出てこなかったりと、
-  ou alors, Alice allait dans la chambre d'Aoko et n'en ressortait pas,
+　ou alors, Alice allait dans la chambre d'Aoko et n'en ressortait pas,
 
 }
 [sha:4b1929742d602f9b12eb3f0d453857d236d4995a]{
 -- Page 12, Offset 10725.
 -- 絶対立ち入り禁止とされる屋敷裏手に回る廊下の先に向かったりと、草十郎の知らないところで絶賛活動中だ。
-  ou bien encore, elles se rendaient au bout du couloir conduisant à l'arrière de la demeure et dont l'entrée était interdite. Elles s'affairaient à leurs activités dans leur coin.
+　ou bien encore, elles se rendaient au bout du couloir conduisant à l'arrière de la demeure et dont l'entrée était interdite. Elles s'affairaient à leurs activités dans leur coin.
 
 }
 [sha:215192da78ce2e1f8807a5ff430f60d4c42568ac]{
 -- Page 13, Offset 10726.
 -- もっとも、草十郎はそれに関わる気もないし、青子たちも関わらせる気もないので、今のところ問題はない。
-  Cependant, Sōjūrō ne ressentait pas l'envie de s'en mêler, et Aoko et Alice n'avaient pas non plus l'intention de l'embarquer là-dedans, donc pour le moment, il n'y avait pas de problèmes.
+　Cependant, Sōjūrō ne ressentait pas l'envie de s'en mêler, et Aoko et Alice n'avaient pas non plus l'intention de l'embarquer là-dedans, donc pour le moment, il n'y avait pas de problèmes.
 
 }
 [sha:a82259cd1576161bbad3100bb4763d1cfee1aabc]{
 -- Page 13, Offset 10727.
 -- 久遠寺邸はとりあえず平穏である。
-  Jusque-là, le manoir Kuonji était paisible.
+　Jusque-là, le manoir Kuonji était paisible.
 
 }
 [sha:b8f23f1627c6c11b5eb4f382094f41a3b0155ca0]{
@@ -253,73 +253,73 @@
 [sha:a100060c861024f4ad77bcaaecc0e92b039b17d1]{
 -- Page 14, Offset 10729.
 -- 草十郎は静かに居間の扉を開けた。
-  Sōjūrō ouvrit silencieusement la porte du salon.
+　Sōjūrō ouvrit silencieusement la porte du salon.
 
 }
 [sha:c948d50bd423285778a65bf1e58f99a71e8f0a1d]{
 -- Page 14, Offset 10730.
 -- お互い関わらないようにしているといっても、挨拶はきちんとする。それが彼の方針である。
-  Même s'ils faisaient tous les trois en sorte de ne pas se mêler des affaires des autres, il les saluait toujours poliment. C'était un de ses principes.
+　Même s'ils faisaient tous les trois en sorte de ne pas se mêler des affaires des autres, il les saluait toujours poliment. C'était un de ses principes.
 
 }
 [sha:c221991dfd55947e991af8f45a9f73d5671c4551]{
 -- Page 15, Offset 10731.
 -- ふたりは向かい合うかたちでソファーに座っていた。
-  Elles se faisaient face, chacune assise sur un sofa.
+　Elles se faisaient face, chacune assise sur un sofa.
 
 }
 [sha:cd2c11fb32d3f3e73dc21d733cd53b518c2b35f7]{
 -- Page 15, Offset 10732.
 -- テーブルの上には豪華な装飾をした、大きな鏡が置かれている。
-  Sur la table se trouvait un gros miroir décoré avec extravagance.
+　Sur la table se trouvait un gros miroir décoré avec extravagance.
 
 }
 [sha:8cfc760486c685cb2e02001ee0f09f6c9d060588]{
 -- Page 15, Offset 10733.
 -- 青子の服装は動きやすさを重視したもので、下はスカートではなくジーンズを穿いていた。
-  Aoko choisissait ses vêtements afin de faciliter sa liberté de mouvement. Ainsi, ce soir, elle avait décidé de porter un jean plutôt qu'une jupe.
+　Aoko choisissait ses vêtements afin de faciliter sa liberté de mouvement. Ainsi, ce soir, elle avait décidé de porter un jean plutôt qu'une jupe.
 
 }
 [sha:c678d066234a1f67f982f5616bb09f47a77efde1]{
 -- Page 15, Offset 10734.
 -- そんな青子とは対照的に、有珠はいつもの黒衣のままだ。
-  Alice, en revanche, portait ses habits noirs habituels.
+　Alice, en revanche, portait ses habits noirs habituels.
 
 }
 [sha:29fe9b9131d03dae6bf39203bccf6030609ea811]{
 -- Page 15, Offset 10735.
 -- 学校はとっくに休みに入っているというが、<頑|かたく>なにあの黒衣を通している。
-  Les vacances de son école avaient commencé depuis longtemps, mais elle persistait à mettre cette tenue.
+　Les vacances de son école avaient commencé depuis longtemps, mais elle persistait à mettre cette tenue.
 
 }
 [sha:d288481e8e70c52706797c76ff37ae0919bfe280]{
 -- Page 16, Offset 10736.
 -- 青子曰く、「単に面倒だからでしょ」とのコト。
-  D'après les dires d'Aoko, c'était probablement par flemmardise.
+　D'après les dires d'Aoko, c'était probablement par flemmardise.
 
 }
 [sha:45c7e9903365c7a5832e32322954ed80046a0990]{
 -- Page 16, Offset 10737.
 -- 少しは違う服装を見たいな、と思う草十郎である。
-  J'aimerais bien la voir porter autre chose, pensa Sōjūrō.
+　J'aimerais bien la voir porter autre chose, pensa Sōjūrō.
 
 }
 [sha:e5052a6a99d8b1a08a7a241b50882444ea43665b]{
 -- Page 17, Offset 10738.
 -- 何か口論していたようで、居間の雰囲気はどこか張り詰めていた。
-  Elles avaient l'air de se quereller, et l'ambiance dans le salon semblait tendue.
+　Elles avaient l'air de se quereller, et l'ambiance dans le salon semblait tendue.
 
 }
 [sha:382c105e596d30f9d240401a013c9985ce941ed5]{
 -- Page 17, Offset 10739.
 -- 草十郎の挨拶にも反応しない。
-  Elles ne réagirent pas non plus aux salutations de Sōjūrō.
+　Elles ne réagirent pas non plus aux salutations de Sōjūrō.
 
 }
 [sha:b07f8b0d7d70ef50e2f543119b773355b553655e]{
 -- Page 17, Offset 10740.
 -- ただ有珠がちらり、と草十郎に視線を向けただけだった。
-  Seule Alice lui lança un coup d'œil.
+　Seule Alice lui lança un coup d'œil.
 
 }
 [sha:7b17038d2656e88a3ae46a86b029bd82df064342]{
@@ -337,7 +337,7 @@
 [sha:aa1c1428da1bea2006cfdfe694adda035d3bb041]{
 -- Page 18, Offset 10743.
 -- 残りの割り出しは今までより早くなる」
-  Il devrait trouver bien plus rapidement la position des Pivots restants, à présent.」
+　Il devrait trouver bien plus rapidement la position des Pivots restants, à présent.」
 
 }
 [sha:23b3d868e489b1a25cc7608cb4e3b4bb7cd5a6ab]{
@@ -349,25 +349,25 @@
 [sha:6b112a889d41008c31859893b7da64a08388b835]{
 -- Page 18, Offset 10745.
 -- ……反省したわ。甘く見てたのはこっちの方だった。ここからは、一週間単位の攻防になるわね」
-  ...... J'ai compris. C'est nous qui l'avions sous-estimé. Vu la tournure des évènements, la bataille de position devrait continuer encore une semaine environ.」
+　...... J'ai compris. C'est nous qui l'avions sous-estimé. Vu la tournure des évènements, la bataille de position devrait continuer encore une semaine environ.」
 
 }
 [sha:ada37bd6c1d31417240542f0896ba8911eca765f]{
 -- Page 19, Offset 10746.
 -- テーブルを挟んでの会話は続く。
-  La conversation autour de la table se poursuivit.
+　La conversation autour de la table se poursuivit.
 
 }
 [sha:aae2fc0620b0d2db1735bb67a091f802d78a4760]{
 -- Page 19, Offset 10747.
 -- 青子は帰ってきた草十郎を見ようともしない。
-  Aoko ne jeta même pas un œil en direction de Sōjūrō qui venait de rentrer.
+　Aoko ne jeta même pas un œil en direction de Sōjūrō qui venait de rentrer.
 
 }
 [sha:e883b224d10d91cd1c4b788f38bcea24a566c1d4]{
 -- Page 19, Offset 10748.
 -- それとも話に集中するため、気を配る必要性を感じていないだけか。
-  Ou alors, elle ne ressentait tout simplement pas la nécessité de lui prêter attention, absorbée par la conversation.
+　Ou alors, elle ne ressentait tout simplement pas la nécessité de lui prêter attention, absorbée par la conversation.
 
 }
 [sha:d8747a85f17e889247ee055572c433a9e8f56c82]{
@@ -379,25 +379,25 @@
 [sha:574dd72539fd25ce8dcf970f3c7b1f86d77d3c92]{
 -- Page 20, Offset 10750.
 -- あの夜に人形をだしてくるタイミングといい、隠し方だけは一級品なうちの支点を短期間で特定する事といい、コイツ、まず間違いなく市内に<隠れ家|アジト>を敷いてるわよね。
-  Tout d'abord, il choisit pile le bon moment pour envoyer la marionnette cette nuit-là, et maintenant, il découvre en un rien de temps la cachette pourtant de premier ordre de l'un de nos Pivots... Ça veut forcément dire que ce type a établi son repaire en ville.
+　Tout d'abord, il choisit pile le bon moment pour envoyer la marionnette cette nuit-là, et maintenant, il découvre en un rien de temps la cachette pourtant de premier ordre de l'un de nos Pivots... Ça veut forcément dire que ce type a établi son repaire en ville.
 
 }
 [sha:3e241a45a52a4f8129493f28bb08a5e051079a84]{
 -- Page 20, Offset 10751.
 -- なのになんで結界に異常がないんだろう。三咲市一帯の索敵網は、もう百年近く破られた事がないのに」
-  Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Le filet de recherche ennemi des environs de Misaki n'a pas été brisé une seule fois depuis près de cent ans.」
+　Mais alors, pourquoi la Barrière n'a repéré aucune anomalie ? Le filet de recherche ennemi des environs de Misaki n'a pas été brisé une seule fois depuis près de cent ans.」
 
 }
 [sha:a89877b9c99ecc834cfa8a96c4a824f4a6f180cc]{
 -- Page 20, Offset 10752.
 -- 爪をかむ青子に、有珠は小さくうなずいた。
-  Alice acquiesça légèrement aux propos d'Aoko qui se mordait les ongles.
+　Alice acquiesça légèrement aux propos d'Aoko qui se mordait les ongles.
 
 }
 [sha:8f5985be3a97851612deaa048f28ca1eb5d93150]{
 -- Page 20, Offset 10753.
 -- 彼女も青子と同じ疑問を持っているらしい。
-  Elle partageait de toute évidence les mêmes inquiétudes qu'elle.
+　Elle partageait de toute évidence les mêmes inquiétudes qu'elle.
 
 }
 [sha:d5ed7357282640c8dae5ec8a131671b0f813ea5c]{
@@ -409,7 +409,7 @@
 [sha:4671047a9531b080d6cb7ec6326230aa4de5f712]{
 -- Page 21, Offset 10755.
 -- 三咲の結界をかいくぐるには貴女のお<祖父|じい>さんか、それ以上の技量を持つ魔術師でないと難しい。
-  Il serait difficile de passer à travers la Barrière de Misaki sans être ton grand-père ou un Mage possédant des capacités supérieures aux siennes.
+　Il serait difficile de passer à travers la Barrière de Misaki sans être ton grand-père ou un Mage possédant des capacités supérieures aux siennes.
 
 }
 [sha:4b193da5364a09b2b140f0432929b1538fa5930f]{
@@ -421,7 +421,7 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:1152664a8834433a9eb591fc19b18e487d7009a5]{
 -- Page 21, Offset 10757.
 -- ……なにか特殊な<隠行法|おんぎょうほう>かもしれないわね。ここ数年、新しい<妖精環|サークル>の話は聞かないけど」
-  ...... C'est peut-être une technique de dissimulation spéciale. Cela dit, je n'ai pas entendu parler de nouveaux Cercles de Fées ces dernières années.」
+　...... C'est peut-être une technique de dissimulation spéciale. Cela dit, je n'ai pas entendu parler de nouveaux Cercles de Fées ces dernières années.」
 
 }
 [sha:f28998d89f9783c8304080e1335649bbb5b317fb]{
@@ -439,19 +439,19 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:956ce491052a8a752090f509eb29937a82f4e0ce]{
 -- Page 22, Offset 10760.
 -- どちらにせよ評価を改めるべきね。わたしたち、気づかないうちに追い詰められているのかも」
-  Dans les deux cas, il nous faut revoir notre stratégie. Nous risquons de nous retrouver acculées sans même nous en rendre compte.」
+　Dans les deux cas, il nous faut revoir notre stratégie. Nous risquons de nous retrouver acculées sans même nous en rendre compte.」
 
 }
 [sha:35f5da3c252f0e96ed0694cad960f2e29bf2c788]{
 -- Page 23, Offset 10761.
 -- ふたりはそれきり黙りこむ。
-  Après quoi, elles plongèrent dans un silence total.
+　Après quoi, elles plongèrent dans un silence total.
 
 }
 [sha:493d0e581b06f5e5e08af7c471c89869c7938451]{
 -- Page 23, Offset 10762.
 -- 草十郎はしばし迷ってから、もう一度声をかけてみる事にした。
-  Sōjūrō, après avoir hésité pendant un instant, décida de les saluer de nouveau.
+　Sōjūrō, après avoir hésité pendant un instant, décida de les saluer de nouveau.
 
 }
 [sha:f55dd6ac72a67a0e0e7bb6e9484d93cf3a84b912]{
@@ -463,7 +463,7 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:0368c1f689634d8fa8b9e5066da93494c56d0dae]{
 -- Page 24, Offset 10764.
 -- 遠慮がちなその一言に、青子はようやく草十郎に視線を向けた。
-  Après cette timide salutation, Aoko tourna enfin son regard vers lui.
+　Après cette timide salutation, Aoko tourna enfin son regard vers lui.
 
 }
 [sha:88beb3bc7f6b737895ca9a46139c6b9c67ddfba8]{
@@ -475,25 +475,25 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:380a65ebdfa320e4e826c4c75e89be29e648bb52]{
 -- Page 25, Offset 10766.
 -- それだけ言って、青子は鏡に視線を戻す。
-  dit simplement Aoko avant de ramener son regard vers le miroir.
+　dit simplement Aoko avant de ramener son regard vers le miroir.
 
 }
 [sha:33f9781b8807376a495fd8339a3c3dd654f6f7f4]{
 -- Page 25, Offset 10767.
 -- 有珠はもう一度だけちらりと草十郎に視線を向けたあと、テーブルの上の鏡に見入った。
-  Alice, elle, jeta un nouveau coup d'œil à Sōjūrō avant de fixer le miroir sur la table.
+　Alice, elle, jeta un nouveau coup d'œil à Sōjūrō avant de fixer le miroir sur la table.
 
 }
 [sha:b22527792a7122aa58dd330b4896963111f85019]{
 -- Page 25, Offset 10768.
 -- とりあえず挨拶を済ませて満足したのか、草十郎はぱたんと扉を閉め、居間を<後|あと>にした。
-  Pour le moment, satisfait d'avoir effectué les salutations d'usage, Sōjūrō ferma la porte sans trop de bruit et quitta le salon.
+　Pour le moment, satisfait d'avoir effectué les salutations d'usage, Sōjūrō ferma la porte sans trop de bruit et quitta le salon.
 
 }
 [sha:35fcbcca80cdbe703c065a29036ad5ed8a58cf18]{
 -- Page 26, Offset 10769.
 -- 青子の言う通り、服の端々はわずかに汚れていた。
-  Comme l'avait dit Aoko, le bord de ses habits était légèrement sale.
+　Comme l'avait dit Aoko, le bord de ses habits était légèrement sale.
 
 }
 [sha:20007169f0823c096b8f4dbdf06f3155e8a0553f]{
@@ -505,121 +505,121 @@ Mais même si c'était le cas, un tel individu ne pourrait pas cacher sa présen
 [sha:3ddbe474606f5239185d6e76f162f4b0625362ad]{
 -- Page 26, Offset 10771.
 -- 別に汗をかいた訳でもないが、この寒さの中での湯浴みはちょっと楽しそうだ、と草十郎は自室に戻る。
-  “Je n'ai pas particulièrement transpiré, mais vu le froid, un bain chaud me ferait du bien”, dit Sōjūrō en retournant dans sa chambre.
+　“Je n'ai pas particulièrement transpiré, mais vu le froid, un bain chaud me ferait du bien”, dit Sōjūrō en retournant dans sa chambre.
 
 }
 [sha:2ff8751c72b24698031db7718652f3df206f8bfb]{
 -- Page 27, Offset 10772.
 -- ロビーから二階へ、さらに階段を上がって屋根裏の部屋に入る。
-  Il monta au premier étage depuis le vestibule, puis il grimpa les escaliers et entra dans la chambre du grenier.
+　Il monta au premier étage depuis le vestibule, puis il grimpa les escaliers et entra dans la chambre du grenier.
 
 }
 [sha:86ff4fbeb765e39fb247da0e286d0fb6a646f061]{
 -- Page 28, Offset 10773.
 -- ここは他の部屋と違い余計な装飾がない。
-  Contrairement aux autres chambres, cette pièce n'était ornée d'aucune décoration superflue.
+　Contrairement aux autres chambres, cette pièce n'était ornée d'aucune décoration superflue.
 
 }
 [sha:503f6b24ff01df5c80403624c6b3169ce9b7b658]{
 -- Page 28, Offset 10774.
 -- 暮らすにはいささか不便だが、草十郎にとっては落ち着ける場所でもある。
-  Ce n'était pas très agréable pour vivre, mais cet endroit permettait tout de même à Sōjūrō de se détendre.
+　Ce n'était pas très agréable pour vivre, mais cet endroit permettait tout de même à Sōjūrō de se détendre.
 
 }
 [sha:2829d8f783970a532848faed8d7a6c2bbac4dd86]{
 -- Page 28, Offset 10775.
 -- 洋館はどこもかしこも豪華すぎて気を遣うのだろう。
-  Le manoir était splendide sous toutes les coutures, ce qui devait le préoccuper.
+　Le manoir était splendide sous toutes les coutures, ce qui devait le préoccuper.
 
 }
 [sha:33c09a81cb71fbdcf391703d14fbaa0ec3e8743d]{
 -- Page 28, Offset 10776.
 -- 経緯はどうあれ寝泊りする部屋に関してなら、草十郎はたいへん満足していた。
-  Malgré sa situation, Sōjūrō était parfaitement satisfait en ce qui concernait la chambre où il passait ses nuits.
+　Malgré sa situation, Sōjūrō était parfaitement satisfait en ce qui concernait la chambre où il passait ses nuits.
 
 }
 [sha:98b74ebe91e4ade3b4f41af3d5640e7f90ed7214]{
 -- Page 29, Offset 10777.
 -- 屋根裏には電気は通っていない。
-  Le grenier ne disposait pas de l'électricité.
+　Le grenier ne disposait pas de l'électricité.
 
 }
 [sha:c8a93fbd13185799347ea69b0e36fd3ac8bec0b3]{
 -- Page 29, Offset 10778.
 -- 明かりは小さな天窓だけだ。
-  La seule source de lumière venait de la petite lucarne.
+　La seule source de lumière venait de la petite lucarne.
 
 }
 [sha:95f42d8acd95411d09b4e05245f1511849ac7f1e]{
 -- Page 29, Offset 10779.
 -- が、そもそも電灯に馴染めない草十郎にとって、それはどうでもいい事だ。
-  Mais de toute façon, comme Sōjūrō ne s'était pas encore beaucoup habitué aux lumières électriques, ça lui était égal.
+　Mais de toute façon, comme Sōjūrō ne s'était pas encore beaucoup habitué aux lumières électriques, ça lui était égal.
 
 }
 [sha:f555b3721cc74614c1976d34ee07abdd2a2a5263]{
 -- Page 29, Offset 10780.
 -- 冬の暗い日射しだけをたよりに着替えとタオルを用意して、ロビーへとって返す。
-  Il se changea en s'aidant seulement des sombres rayons du soleil hivernal, prépara une serviette et retourna dans le vestibule.
+　Il se changea en s'aidant seulement des sombres rayons du soleil hivernal, prépara une serviette et retourna dans le vestibule.
 
 }
 [sha:6275be8c934fe3255ee11ad189096d56a5aea40c]{
 -- Page 30, Offset 10781.
 -- これだけ大きな建物なのに、館には浴場が一つしかない。
-  Le bâtiment était gigantesque, mais étonnamment, le manoir n'était équipé que d'une seule baignoire.
+　Le bâtiment était gigantesque, mais étonnamment, le manoir n'était équipé que d'une seule baignoire.
 
 }
 [sha:2b92758b168297aa45ae70c84a3a32cd0b9ffc81]{
 -- Page 30, Offset 10782.
 -- その浴場もあまり広くないので、館の設計者は風呂を重要視しなかったのだろう。あるいは、湯浴みに馴染みがなかったのか。
-  Celle-ci n'étant pas très grande, l'architecte de la demeure ne devait manifestement pas accorder beaucoup d'importance au bain. Ou bien, il n'y connaissait pas grand-chose.
+　Celle-ci n'étant pas très grande, l'architecte de la demeure ne devait manifestement pas accorder beaucoup d'importance au bain. Ou bien, il n'y connaissait pas grand-chose.
 
 }
 [sha:faa8da12144845d5cce8327955b777d2c2d45267]{
 -- Page 31, Offset 10783.
 -- 草十郎はロビーまで下り、階段の裏側に回りこむ。
-  Sōjūrō descendit dans le vestibule et contourna l'escalier.
+　Sōjūrō descendit dans le vestibule et contourna l'escalier.
 
 }
 [sha:119f4ea66a9036d62a4b5dd76619d0e9087f3c94]{
 -- Page 31, Offset 10784.
 -- 浴場へ続く扉をノックする。当然ながら返事はない。二人はいまも居間で会議中である。
-  Il tapa à la porte conduisant à la baignoire. Évidemment, il n'y eut aucune réponse. Les deux filles étaient toujours en pleine réunion dans le salon.
+　Il tapa à la porte conduisant à la baignoire. Évidemment, il n'y eut aucune réponse. Les deux filles étaient toujours en pleine réunion dans le salon.
 
 }
 [sha:782bacccac21fdcc276852b0b9c57b1d8d15f8bd]{
 -- Page 31, Offset 10785.
 -- それを確認して、軽い足取りで草十郎は中へと入っていった。
-  Après s'en être assuré, il entra à l'intérieur d'un pas allègre.
+　Après s'en être assuré, il entra à l'intérieur d'un pas allègre.
 
 }
 [sha:7f80ebd845d31c8a6f558432a108e7255d44be02]{
 -- Page 32, Offset 10786.
 -- 彼らしい話ではあるが。
-  Cela n'était pas surprenant de sa part,
+　Cela n'était pas surprenant de sa part,
 
 }
 [sha:6720f34fd3b09cc28ab2d354ca7a2c967123419a]{
 -- Page 32, Offset 10787.
 -- 山から下りて出来た唯一の趣味が湯浴みであるという事を、草十郎本人はまだ自覚していなかった。
-  mais Sōjūrō lui-même n'avait pas encore pris conscience que le seul passe-temps qu'il s'était fait en quittant la montagne était le plaisir du bain.
+　mais Sōjūrō lui-même n'avait pas encore pris conscience que le seul passe-temps qu'il s'était fait en quittant la montagne était le plaisir du bain.
 
 }
 [sha:40a89f6bb6ce94e1d40c6fdd507a6c2b22669ee9]{
 -- Page 33, Offset 10788.
 -- 草十郎が去った後も、少女たちの協議は続いていた。
-  Même après son départ, la conversation du duo s'était poursuivie.
+　Même après son départ, la conversation du duo s'était poursuivie.
 
 }
 [sha:864cf116e7b080acbb7c0a224977bc701e1119bf]{
 -- Page 33, Offset 10789.
 -- 議題は言うまでもなく、先月から三咲市に現れた外部の魔術師について。
-  Il allait de soi que le sujet de la discussion était le Mage ennemi qui sévissait à Misaki depuis le mois précédent,
+　Il allait de soi que le sujet de la discussion était le Mage ennemi qui sévissait à Misaki depuis le mois précédent,
 
 }
 [sha:a89805ab12afc02cf7258c55dbbcd3a4cbee10ff]{
 -- Page 33, Offset 10790.
 -- <目撃者|そうじゅうろう>の一件で中断されていた、彼女たち本来の責務……管理地を奪いに来た略奪者への対応、その排除である。
-  et leur devoir premier, temporairement suspendu par l'affaire de Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
+　et leur devoir premier, temporairement suspendu par l'affaire de Sōjūrō : les mesures à adopter face au pilleur venu dérober les terres administrées ; en d'autres termes, son élimination.
 
 }
 [sha:3e21741a044d005fd7930b69e4dc239067d7a3cf]{
@@ -637,97 +637,97 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:b72af6e5523d4b5eb200f80ce1fd5305a1f10836]{
 -- Page 34, Offset 10793.
 -- この<魔|あ><術|い><師|て>との戦いは、これからが本番ってコトか」
-  Autrement dit, les véritables hostilités contre cet adversaire ne font que commencer.」
+　Autrement dit, les véritables hostilités contre cet adversaire ne font que commencer.」
 
 }
 [sha:c74cd3cda213a886df65f38f66bc4de538101060]{
 -- Page 35, Offset 10794.
 -- 事態は深刻化している。
-  La situation était grave.
+　La situation était grave.
 
 }
 [sha:3ba168e35a4640c1801e32acab4751d98bdf788b]{
 -- Page 35, Offset 10795.
 -- 敵魔術師は二日前までの散漫的な小競り合いから、巧みな攻勢に転じてきていた。
-  Le Mage ennemi était passé des escarmouches sporadiques, auxquelles il avait eu recours jusqu'à deux jours auparavant, à une offensive des plus habiles.
+　Le Mage ennemi était passé des escarmouches sporadiques, auxquelles il avait eu recours jusqu'à deux jours auparavant, à une offensive des plus habiles.
 
 }
 [sha:0f510652e8914f8b1bf40b668e8efc8338fbe08f]{
 -- Page 36, Offset 10796.
 -- 青子たちには、大きく分けて二つの結界の守りがある。
-  Pour résumer, Aoko et Alice disposaient de deux Barrières de protection.
+　Pour résumer, Aoko et Alice disposaient de deux Barrières de protection.
 
 }
 [sha:513ceaf22e2b7ff9962ea027b928f79b89774310]{
 -- Page 36, Offset 10797.
 -- 一つは三咲市一帯に張られた、魔力・魔術の働きを測定する大結界。
-  La première était une grande Barrière recouvrant tout le périmètre de Misaki, et qui mesurait l'activité du prana et de la Magie.
+　La première était une grande Barrière recouvrant tout le périmètre de Misaki, et qui mesurait l'activité du prana et de la Magie.
 
 }
 [sha:9c3a5af47e02ab8e15a1f3a91531f69c01f5b650]{
 -- Page 36, Offset 10798.
 -- これは外部からの来訪者を把握、監視する為のもので、管理地のオーナーである蒼崎の先祖が敷いた、消しようのない機能だ。
-  Indéfectible et déployée par les ancêtres Aozaki, propriétaires de ces terres administrées, elle avait pour fonction de repérer et observer les visiteurs venus de l'extérieur.
+　Indéfectible et déployée par les ancêtres Aozaki, propriétaires de ces terres administrées, elle avait pour fonction de repérer et observer les visiteurs venus de l'extérieur.
 
 }
 [sha:06ae8e2b02a16699e25c56b7809ca070832aebdd]{
 -- Page 37, Offset 10799.
 -- もう一つは土地の霊脈を生かし、その力を管理するもの。
-  La seconde utilisait la veine spirituelle de ces terres et en contrôlait le pouvoir.
+　La seconde utilisait la veine spirituelle de ces terres et en contrôlait le pouvoir.
 
 }
 [sha:bc74115c07739089d0c7499f72ef4be279bd3999]{
 -- Page 37, Offset 10800.
 -- 大地に刻まれた五つの支点によって、そのサークルの内部を守る典型的な方陣である。
-  Il s'agissait d'un carré magique typique qui protégeait l'intérieur du cercle grâce à cinq Pivots gravés dans la terre.
+　Il s'agissait d'un carré magique typique qui protégeait l'intérieur du cercle grâce à cinq Pivots gravés dans la terre.
 
 }
 [sha:6f1483d4ab3b5ad953610537fac8e29dac0141c4]{
 -- Page 37, Offset 10801.
 -- 人為的に<大|マ><源|ナ>の流れに手を加え、その力の終点が久遠寺邸に集まる―――ありていにいえば、三咲市における魔力を独占する為の結界だ。
-  Cette Barrière traitait artificiellement le courant de mana, et acheminait ce pouvoir jusqu'au terminus, le manoir Kuonji―――Pour résumer la chose, elle servait à canaliser le prana présent à Misaki.
+　Cette Barrière traitait artificiellement le courant de mana, et acheminait ce pouvoir jusqu'au terminus, le manoir Kuonji―――Pour résumer la chose, elle servait à canaliser le prana présent à Misaki.
 
 }
 [sha:7bcc8fdea532d492f238fda1be8137586814bcc3]{
 -- Page 38, Offset 10802.
 -- 支点は久遠寺邸を中心にして、全部で五点。
-  Le centre de l'ensemble des Pivots se situait au manoir et ceux-ci étaient au nombre de cinq.
+　Le centre de l'ensemble des Pivots se situait au manoir et ceux-ci étaient au nombre de cinq.
 
 }
 [sha:3a32cca85af934adc216f0b6cc68034079bf0086]{
 -- Page 38, Offset 10803.
 -- これを全て退去させられた場合、青子たちの『管理地の持ち主』という事実は、文字通り、ただの肩書きになり下がる。
-  Si jamais ils venaient à être tous mis hors fonction, le contrôle des terres administrées possédées par Aoko et Alice n'aurait pas plus de valeur qu'un simple titre sur le papier.
+　Si jamais ils venaient à être tous mis hors fonction, le contrôle des terres administrées possédées par Aoko et Alice n'aurait pas plus de valeur qu'un simple titre sur le papier.
 
 }
 [sha:7a89faf40f2c53a169e966bb5ff62e88ac82d530]{
 -- Page 38, Offset 10804.
 -- 土地のバックアップを失った管理人は、外部から現れた略奪者と同じ条件になり―――個人の力量だけで、敵を撃退しなければならなくなるのだ。
-  Les régisseurs qui perdaient le soutien de leurs terres se retrouvaient alors dans les mêmes conditions que les pilleurs venus de l'extérieur... et devaient repousser les ennemis par leurs propres capacités uniquement.
+　Les régisseurs qui perdaient le soutien de leurs terres se retrouvaient alors dans les mêmes conditions que les pilleurs venus de l'extérieur... et devaient repousser les ennemis par leurs propres capacités uniquement.
 
 }
 [sha:d14cd49eb16d45509be8ef39e0e21fc3f3029617]{
 -- Page 39, Offset 10805.
 -- 有珠はともかく、まだ未熟な青子が管理地を死守できているのは、この二つに頼るところが大きい。
-  Alice n'en avait pas besoin, mais Aoko manquait encore d'expérience et ne pouvait défendre jusqu'à la mort les terres qu'elle administrait que grâce à ces deux Barrières.
+　Alice n'en avait pas besoin, mais Aoko manquait encore d'expérience et ne pouvait défendre jusqu'à la mort les terres qu'elle administrait que grâce à ces deux Barrières.
 
 }
 [sha:885adec50233c4fe5a87a202f2635e2e65952e50]{
 -- Page 39, Offset 10806.
 -- とくに蒼崎に伝わる<索敵網|だいけっかい>は彼女の生命線ですらある。
-  En particulier, la grande Barrière que se transmettaient les Aozaki représentait sa bouée de sauvetage.
+　En particulier, la grande Barrière que se transmettaient les Aozaki représentait sa bouée de sauvetage.
 
 }
 [sha:e80f99fefdb5c120c7c98b0762db0c173d0e0832]{
 -- Page 39, Offset 10807.
 -- が、今回の敵はこの大結界の目をかいくぐり、好き勝手<町|まち>を<跋扈|ばっこ>していた。
-  Mais cet ennemi passait outre sa surveillance et se déchaînait en ville comme il l'entendait.
+　Mais cet ennemi passait outre sa surveillance et se déchaînait en ville comme il l'entendait.
 
 }
 [sha:a24c2e84146da31317b9a9bfd3eff3bb2d2aa782]{
 -- Page 39, Offset 10808.
 -- 結果、彼女たちはこうして受けに回っている。
-  Résultat des courses : elles se retrouvaient désormais sur la défensive.
+　Résultat des courses : elles se retrouvaient désormais sur la défensive.
 
 }
 [sha:5b380ed0c075faaf5f458de44dd8123630a5a7f2]{
@@ -739,13 +739,13 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:bf649d5aa03e19b34d45a84593f6dcea221d3343]{
 -- Page 40, Offset 10810. Mods: @k, @e.
 -- 支点がすべて潰されたら、いよいよ<洋|こ><館|こ>での籠城になるけど……
-  Si tous les Pivots sont détruits, nous serons finalement assiégées ici......
+　Si tous les Pivots sont détruits, nous serons finalement assiégées ici......
 
 }
 [sha:a70407a4d76b307e58fe273198707bf40a1bf90b]{
 -- Page 40, Offset 10811. Glued. Mods: @x.
 -- いいの、青子？」
- Ça te convient vraiment, Aoko ?」
+Ça te convient vraiment, Aoko ?」
 
 }
 [sha:e63bf651af2029a85e06ff4b9e313aeb7b795d6b]{
@@ -757,7 +757,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:7255d2a8acb526e91e9d8ea9db06106c4035135c]{
 -- Page 41, Offset 10813.
 -- そりゃ<魔術師|てき>の<隠れ家|アジト>を発見できれば御の字だけど、それは絶対必要ってワケでもないでしょ。支点を消されても私にはあんまり関係ないし」
-  Effectivement, il serait préférable de découvrir le repaire de l'ennemi, mais ce n'est pas comme si c'était absolument nécessaire, pas vrai ? Et puis, même si les Pivots disparaissent, ça ne me dérange pas vraiment.」
+　Effectivement, il serait préférable de découvrir le repaire de l'ennemi, mais ce n'est pas comme si c'était absolument nécessaire, pas vrai ? Et puis, même si les Pivots disparaissent, ça ne me dérange pas vraiment.」
 
 }
 [sha:704647299282d657de0405f46ab2edce077ec68a]{
@@ -769,13 +769,13 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:6a0d23f9b621a9593feab105509c687b755b82e0]{
 -- Page 42, Offset 10815.
 -- あっちの方からやって来てくれるなら、それこそ飛んで火にいる、よ。
-  Si l'adversaire vient à nous, ce sera comme s'il se jetait dans la gueule du loup de son propre chef.
+　Si l'adversaire vient à nous, ce sera comme s'il se jetait dans la gueule du loup de son propre chef.
 
 }
 [sha:19ad228938b40c6d284a50e87c39dc914ec83f49]{
 -- Page 42, Offset 10816.
 -- 他に心配事なんてないでしょ？」
-  Il n'y aurait rien d'autre dont on devrait s'occuper avant, par hasard ?」
+　Il n'y aurait rien d'autre dont on devrait s'occuper avant, par hasard ?」
 
 }
 [sha:20442b171ae210fd3a3c3ea5caf284d09477f8d3]{
@@ -787,61 +787,61 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:20b8a64439bcba0dc422f60d7b72617758d33939]{
 -- Page 44, Offset 10818.
 -- 有珠はその白い指で、テーブルに置かれた鏡に触れる。
-  Alice toucha le miroir posé sur la table de ses doigts blancs.
+　Alice toucha le miroir posé sur la table de ses doigts blancs.
 
 }
 [sha:39aecc85ad43bb7b2670448e37568f1af07b4f72]{
 -- Page 44, Offset 10819.
 -- 途端、水のように波立つ鏡面。
-  La surface du miroir ondula alors comme de l'eau.
+　La surface du miroir ondula alors comme de l'eau.
 
 }
 [sha:a572a93bbf4758feb060504fcb8a4f3a02b32413]{
 -- Page 45, Offset 10820.
 -- 蒼崎の結界とは別の、三咲市の守り神。
-  C'était un dieu protecteur de Misaki autre que la Barrière des Aozaki.
+　C'était un dieu protecteur de Misaki autre que la Barrière des Aozaki.
 
 }
 [sha:1846e948c382f7df9a9929a147f6b325ed61505f]{
 -- Page 45, Offset 10821.
 -- 正しくは三咲市ではなく、久遠寺有珠だけを守る“童話の怪物”。濃霧を生み、訪れる者をゲーム盤の世界に<誘|いざな>う招待状。
-  Pour être plus exact, il s'agissait d'un “monstre de contes de fées” protégeant uniquement Kuonji Alice, et non pas la ville. Il était telle une lettre de défi créant un brouillard épais, et attirant les visiteurs dans un jeu de plateau.
+　Pour être plus exact, il s'agissait d'un “monstre de contes de fées” protégeant uniquement Kuonji Alice, et non pas la ville. Il était telle une lettre de défi créant un brouillard épais, et attirant les visiteurs dans un jeu de plateau.
 
 }
 [sha:65bf9d0101aa1beff07e637853cbb79d30be58ab]{
 -- Page 45, Offset 10822.
 -- 持ち主である少女は鏡とだけ呼び、
-  Sa maîtresse l'appelait seulement “le miroir”,
+　Sa maîtresse l'appelait seulement “le miroir”,
 
 }
 [sha:2bc7d8d23d89abe0a99b46aded0fcd4fd0d4070f]{
 -- Page 45, Offset 10823.
 -- 少女の友人に<午睡|ごすい>の鏡と名付けられた、
-  tandis que son amie d'enfance le nommait “le Miroir de la sieste”.
+　tandis que son amie d'enfance le nommait “le Miroir de la sieste”.
 
 }
 [sha:850634672bcbaf0661be54af3ccd022b61cf53ed]{
 -- Page 45, Offset 10824.
 -- 久遠寺有珠の扱う魔術である。
-  C'était une Magie que seule maîtrisait Kuonji Alice.
+　C'était une Magie que seule maîtrisait Kuonji Alice.
 
 }
 [sha:ec2720c287114b15acf247c844a987a6fe1b5e00]{
 -- Page 46, Offset 10825.
 -- 波打つ鏡面には、一つの城と多くの森、平原と川が浮かび上がっている。
-  À la surface ondulante du miroir flottaient un château, de nombreuses forêts, une plaine et une rivière.
+　À la surface ondulante du miroir flottaient un château, de nombreuses forêts, une plaine et une rivière.
 
 }
 [sha:489a460fd4f1b8d609a1453c24b9b8c265a51ed0]{
 -- Page 46, Offset 10826.
 -- その様子を無言で眺めていた青子だったが、
-  Aoko fixait ce spectacle sans prononcer un mot.
+　Aoko fixait ce spectacle sans prononcer un mot.
 
 }
 [sha:81404f9b6a1a90d95029a60e450ebb7a2436e23b]{
 -- Page 46, Offset 10827.
 -- 突然、よし、とばかりにソファーから立ち上がった。
-  “Bien”, finit-elle par dire, en se levant soudainement du sofa.
+　“Bien”, finit-elle par dire, en se levant soudainement du sofa.
 
 }
 [sha:28fe3074de8d7b1e50bb2bafe4369d824725dc29]{
@@ -853,25 +853,25 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:20f350eb41e7e9c8381c11113f3c95b91e8d2e7e]{
 -- Page 47, Offset 10829.
 -- 出かけるわよ有珠。とにかく現場を見ない事には始まらない」
-  On sort, Alice. Dans tous les cas, ça ne nous avancera à rien de rester plantées là.」
+　On sort, Alice. Dans tous les cas, ça ne nous avancera à rien de rester plantées là.」
 
 }
 [sha:7c1ee9c86001affe89563941c9173eeb8f6ce2b2]{
 -- Page 48, Offset 10830.
 -- 決意に満ちた青子の声に、有珠は気だるげに吐息をもらして、鏡面をさらりと<撫|な>でる。
-  En réponse à la voix pleine de détermination d'Aoko, Alice poussa un soupir paresseux et caressa la surface lisse du miroir.
+　En réponse à la voix pleine de détermination d'Aoko, Alice poussa un soupir paresseux et caressa la surface lisse du miroir.
 
 }
 [sha:54092ce592587c1372864264b36d9e1726d88ca2]{
 -- Page 48, Offset 10831.
 -- ……とぷ、と水の騒ぐ音。
-  ...... L'eau émit un clapotis.
+　...... L'eau émit un clapotis.
 
 }
 [sha:b9ed5bdce2ce09620b88ad6f750a48f3845f7887]{
 -- Page 48, Offset 10832.
 -- 鏡は有珠の<一|ひと><撫|な>でで濃霧に包まれ、テーブルに沈み消えた。
-  Suite à la caresse d'Alice, le miroir s'enveloppa d'un épais brouillard et disparut de la table.
+　Suite à la caresse d'Alice, le miroir s'enveloppa d'un épais brouillard et disparut de la table.
 
 }
 [sha:14ef7f60237965d3620c7c393bda3517d731b621]{
@@ -889,19 +889,19 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:1d7fa5fca57a44a988f23d5c6f62d669d0425abe]{
 -- Page 49, Offset 10835.
 -- ところで有珠、火の五芒星の退去ってこうだっけ」
-  Au fait Alice, pour effacer un pentagramme de feu, c'est bien comme ça ?」
+　Au fait Alice, pour effacer un pentagramme de feu, c'est bien comme ça ?」
 
 }
 [sha:2c6731f1f362c98ddca6b1ffe88860ee9a5060b3]{
 -- Page 49, Offset 10836.
 -- 青子は中空に指を滑らせる。
-  Aoko fit tournoyer son doigt dans les airs.
+　Aoko fit tournoyer son doigt dans les airs.
 
 }
 [sha:6be821fe22f97bb44c7241def65809b0dd014187]{
 -- Page 49, Offset 10837.
 -- 上から始まって右下へ、右下から左上、左上から……と星型の軌跡が描かれる。
-  Elle dessina un pentagramme en partant du haut vers le bas à droite, puis en haut à gauche, et ainsi de suite...
+　Elle dessina un pentagramme en partant du haut vers le bas à droite, puis en haut à gauche, et ainsi de suite...
 
 }
 [sha:1771a51f118d032ebe255d92e562f61a21cf1863]{
@@ -913,13 +913,13 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
 [sha:bbc5dac33254bedd82b6f5a2a3a048ab7b2d7967]{
 -- Page 50, Offset 10839.
 -- ため息をつきながら、有珠もソファーから腰をあげる。
-  Alice poussa un soupir et se leva à son tour du sofa.
+　Alice poussa un soupir et se leva à son tour du sofa.
 
 }
 [sha:a708a1f6f89764cc186afe0accc8f5bcf969d63d]{
 -- Page 50, Offset 10840.
 -- ふたりは<上着掛け|コートハンガー>からそれぞれのコートを手に取り、居間を後にする。
-  Elles prirent chacune leur manteau sur le portemanteau et quittèrent le salon.
+　Elles prirent chacune leur manteau sur le portemanteau et quittèrent le salon.
 
 }
 [sha:9502ef930cc757396c900efacbc85bf75be46606]{
@@ -949,7 +949,7 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:ea7f0157ed25d1ed08f7735dde39eab058c5537a]{
 -- Page 51, Offset 10845.
 -- ほら、有珠が教えてくれた、空<気のおも|かるく、よわく>り、胸<のふる|うまく、はやく>え。ひ<かりは先|チクタクチクタク>立つ、か<げは遅れ|いそげやいそげ>る。ってヤツ」
-  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids|Légèrement,> <de l'air|faiblement>, <tremblement de la poitrine|Habilement, rapidement>. <La lumière en premier|Tic tac tic tac>,< l'ombre|Dépêche-toi> <en second|dépêche-toi>.」
+　Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids|Légèrement,> <de l'air|faiblement>, <tremblement de la poitrine|Habilement, rapidement>. <La lumière en premier|Tic tac tic tac>,< l'ombre|Dépêche-toi> <en second|dépêche-toi>.」
 
 }
 [sha:8ac38b26ec66e27cb4913ae50467c25a4cfc3d8b]{
@@ -973,13 +973,13 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:cc9ecb41ed707367e33ef3f965ff812e375282a6]{
 -- Page 52, Offset 10849.
 -- 有珠は納得のいかない面持ちで、喉まで出かけた言葉を飲みこんだ。
-  Alice ravala la réplique qui lui était montée à la gorge d'un air soucieux.
+　Alice ravala la réplique qui lui était montée à la gorge d'un air soucieux.
 
 }
 [sha:df648570a897e0ddfd248560f3a9880819b5f6a8]{
 -- Page 52, Offset 10850.
 -- 特に話題にする事でもない、とギリギリで疑問を止められたのだろう。
-  Elle avait sûrement songé que le sujet ne méritait pas spécialement d'être abordé, et étouffa de justesse sa question.
+　Elle avait sûrement songé que le sujet ne méritait pas spécialement d'être abordé, et étouffa de justesse sa question.
 
 }
 [sha:2442e152b72f5d4f8bc1e9bdc7abc89921fc66da]{
@@ -997,18 +997,18 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:10bfeb97cc1db356bf407c6dcfcd5a997434e6c5]{
 -- Page 53, Offset 10853.
 -- 青子は答えながらロビーに通じる扉を開ける。
-  Aoko répondit tout en ouvrant la porte menant au vestibule.
+　Aoko répondit tout en ouvrant la porte menant au vestibule.
 
 }
 [sha:df294fd6070724525babf653ef93238210ee4ccb]{
 -- Page 53, Offset 10854.
 -- 直後。
-  Ce fut alors...
+　Ce fut alors...
 
 }
 [sha:7361920a4662284466682cfa165feac034cd6f7b]{
 -- Page 53, Offset 10855.
 -- 突然の疑問に声をあげる有珠のように、青子の喉は凍りついた。
-  que la gorge d'Aoko se noua tout comme celle d'Alice, sur le point de lui poser une question impromptue.
+　que la gorge d'Aoko se noua tout comme celle d'Alice, sur le point de lui poser une question impromptue.
 
 }

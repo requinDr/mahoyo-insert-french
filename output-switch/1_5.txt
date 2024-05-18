@@ -1,115 +1,115 @@
 [sha:240984db82111279e6296adf93ccf3fdbd04af36]{
 -- Page 0, Offset 838.
 -- 外の天気同様、ロビーも灰色に曇っていた。
-  Tout comme le temps à l'extérieur, le vestibule était d'un gris maussade.
+　Tout comme le temps à l'extérieur, le vestibule était d'un gris maussade.
 
 }
 [sha:c8a2defb55804595c40fa57a398c3639788c01f5]{
 -- Page 0, Offset 839.
 -- 設計者の趣向によるものか、このエントランスは電灯を可能なかぎり排除していた。
-  Il n'y avait aucune lumière dans l'entrée, vraisemblablement parce que l'architecte n'en avait pas prévu à l'origine.
+　Il n'y avait aucune lumière dans l'entrée, vraisemblablement parce que l'architecte n'en avait pas prévu à l'origine.
 
 }
 [sha:d954f5b477378d636e01f74e8645ba27ce69005c]{
 -- Page 0, Offset 840.
 -- 天井は二階まで吹き抜け。
-  Grâce à l'ouverture au niveau du premier étage,
+　Grâce à l'ouverture au niveau du premier étage,
 
 }
 [sha:2e56984516c31c7fd6cecf592b403ccfd6c0a21f]{
 -- Page 0, Offset 841.
 -- 明かりになるのは、その高い天井にある窓から差しこむ日光と月光だけだ。
-  le seul éclairage disponible était les rayons du soleil et le clair de lune qui passaient à travers la vitre tenant lieu de plafond.
+　le seul éclairage disponible était les rayons du soleil et le clair de lune qui passaient à travers la vitre tenant lieu de plafond.
 
 }
 [sha:8bc3ebb3691c8b0d4a20259e9c6288d07393b6c0]{
 -- Page 1, Offset 842.
 -- 雨の日は夜明け前のように<仄|ほの>暗く、
-  Les jours de pluie, il y faisait sombre comme au crépuscule,
+　Les jours de pluie, il y faisait sombre comme au crépuscule,
 
 }
 [sha:fc814e5fe08e315e4f9110ca1dd498e2ddd0bb20]{
 -- Page 1, Offset 843.
 -- 月のない夜は冷たい暗黒星のように、あらゆるものが途絶えている。
-  et les nuits sans lune, tout semblait comme pétrifié par le froid d'une étoile noire.
+　et les nuits sans lune, tout semblait comme pétrifié par le froid d'une étoile noire.
 
 }
 [sha:b9af24501056be468756c9144320946d35d5695f]{
 -- Page 2, Offset 844.
 -- <憩|いこ>いの場となる居間はこのロビーのすぐ真東だが、その前に自分の部屋で着替えなくては落ち着かない、と青子は階段に足をかけた。
-  Le salon, qui faisait office de salle de repos, se trouvait à l'est du vestibule ; mais avant de s'y rendre, Aoko, qui ne se sentirait pas à l'aise avant de s'être changée, se dirigea vers l'escalier.
+　Le salon, qui faisait office de salle de repos, se trouvait à l'est du vestibule ; mais avant de s'y rendre, Aoko, qui ne se sentirait pas à l'aise avant de s'être changée, se dirigea vers l'escalier.
 
 }
 [sha:0a77346ddbafe522acf349a2fd2d570529c1c289]{
 -- Page 2, Offset 845.
 -- 壁に<沿|そ>った階段はいったん二階のホールで終わっている。
-  Celui-ci longeait le mur pour s'interrompre au niveau du couloir du premier étage.
+　Celui-ci longeait le mur pour s'interrompre au niveau du couloir du premier étage.
 
 }
 [sha:bf9a741cd4966a6fb41c36e2b92ea318d6748edf]{
 -- Page 2, Offset 846.
 -- 三階の屋根裏部屋まではホールの裏側にまわらなければならない。
-  Pour rejoindre le grenier au deuxième, il fallait emprunter un second escalier à l'autre bout du couloir.
+　Pour rejoindre le grenier au deuxième, il fallait emprunter un second escalier à l'autre bout du couloir.
 
 }
 [sha:9c7de266d32013fdaab70cd7e83969059f1b1f7f]{
 -- Page 2, Offset 847.
 -- といっても、青子はこの二年間、屋根裏部屋を利用した事はないが。
-  Mais au cours des deux dernières années, Aoko n'avait pas utilisé cette pièce une seule fois.
+　Mais au cours des deux dernières années, Aoko n'avait pas utilisé cette pièce une seule fois.
 
 }
 [sha:d47d0c67cabd078c93d5355c36ac3c5225c8d7e4]{
 -- Page 3, Offset 848.
 -- 久遠寺邸は大まかに、東館と西館とに分かれている。
-  Pour faire simple, le manoir Kuonji possédait deux ailes : une côté est, et une côté ouest.
+　Pour faire simple, le manoir Kuonji possédait deux ailes : une côté est, et une côté ouest.
 
 }
 [sha:b75588cb7c7673958bed5748d37fa76ea39a08f0]{
 -- Page 3, Offset 849.
 -- 青子に間借りが許されているのは館の東部分だけだが、それも二部屋で事足りる。
-  La seule partie qu'Aoko avait eu le droit de louer était la section est, mais deux chambres lui suffisaient amplement.
+　La seule partie qu'Aoko avait eu le droit de louer était la section est, mais deux chambres lui suffisaient amplement.
 
 }
 [sha:b249b286e987e3892c486e910f01781c0437bdee]{
 -- Page 3, Offset 850.
 -- 開けたとたん絵本の世界に閉じこめられるドアやら、過去五年間物置になっている屋根裏部屋など使うまでもない。
-  Il était donc inutile d'utiliser un grenier qui avait servi de débarras pendant cinq ans et qui donnait l'impression, lorsqu'on en ouvrait la porte, de se retrouver projeté dans un livre d'images.
+　Il était donc inutile d'utiliser un grenier qui avait servi de débarras pendant cinq ans et qui donnait l'impression, lorsqu'on en ouvrait la porte, de se retrouver projeté dans un livre d'images.
 
 }
 [sha:257474fcf496c737429dcdf9d3acc1d485be796e]{
 -- Page 4, Offset 851.
 -- 東館の長廊下の奥が青子の部屋だ。
-  Au fond du couloir de l'aile est se trouvait la chambre d'Aoko.
+　Au fond du couloir de l'aile est se trouvait la chambre d'Aoko.
 
 }
 [sha:bcfd98a22a5ac69757da895b46d156e1b0fdbc38]{
 -- Page 4, Offset 852.
 -- 青子は下宿の際、そう広くない部屋を選んだ。遠慮しての事ではなく、単に掃除の手間を省いただけである。
-  La pièce où elle avait choisi de s'installer n'était pas trop grande. Ce n'était pas qu'elle se privait, mais simplement qu'elle voulait s'épargner du temps de ménage.
+　La pièce où elle avait choisi de s'installer n'était pas trop grande. Ce n'était pas qu'elle se privait, mais simplement qu'elle voulait s'épargner du temps de ménage.
 
 }
 [sha:88cf012411de1bf9a9a99db3d41396d3722ef3c9]{
 -- Page 4, Offset 853.
 -- 部屋には大きめのベッドと愛用のマホガニー製の机、洋服ダンスと上着が整列する収納ダンス、それに九段の本棚を二つほど。
-  À l'intérieur se trouvaient un grand lit, son bureau préféré fait en bois d'acajou, une garde-robe et une penderie où étaient alignées ses vestes, ainsi que deux bibliothèques à neuf étagères.
+　À l'intérieur se trouvaient un grand lit, son bureau préféré fait en bois d'acajou, une garde-robe et une penderie où étaient alignées ses vestes, ainsi que deux bibliothèques à neuf étagères.
 
 }
 [sha:a8894f4116281b663d4a6d762ebb47e30d8cfe11]{
 -- Page 5, Offset 854.
 -- 実家から運びこんだ荷物はそれだけ。
-  C'étaient les seules affaires qu'elle avait rapportées de chez elle.
+　C'étaient les seules affaires qu'elle avait rapportées de chez elle.
 
 }
 [sha:f3b8eb760061fd3935d7053b41fa44ffc454fc97]{
 -- Page 5, Offset 855.
 -- 蒼崎青子が十六年<培|つちか>ってきた彼女の証明は、いざとなればその程度に短縮できてしまったらしい。
-  Mais c'était parfaitement suffisant pour dépeindre, le cas échéant, le train de vie qu'Aozaki Aoko avait suivi pendant 16 ans.
+　Mais c'était parfaitement suffisant pour dépeindre, le cas échéant, le train de vie qu'Aozaki Aoko avait suivi pendant 16 ans.
 
 }
 [sha:47ff978c66d09dd1b5befefc4c6b90c84f2fefee]{
 -- Page 5, Offset 856.
 -- あとは隣の部屋に、これからの自分用の部屋を借りておしまい。
-  Pour le reste, elle n'avait qu'à emprunter la chambre d'à côté pour son usage personnel.
+　Pour le reste, elle n'avait qu'à emprunter la chambre d'à côté pour son usage personnel.
 
 }
 [sha:68ad5505b52411926d913825f7ece120be600c60]{
@@ -121,25 +121,25 @@
 [sha:95a511356bd62d8e89731d60c54c94bb836a3c29]{
 -- Page 6, Offset 858.
 -- 今朝方までの徹夜の成果を確かめる。
-  Elle alla voir les résultats de sa nuit blanche.
+　Elle alla voir les résultats de sa nuit blanche.
 
 }
 [sha:2c2d6563120e797282910d35ef4436d2fd4c13e7]{
 -- Page 7, Offset 859.
 -- 壁一枚を隔てた書斎は、先ほどの蒼崎青子の生活とはまったく別の、まだ一年足らずの彼女の人生を示すものだ。
-  Le bureau de travail, de l'autre côté du mur, témoignait d'une tout autre vie qu'Aozaki Aoko menait depuis à peine un an.
+　Le bureau de travail, de l'autre côté du mur, témoignait d'une tout autre vie qu'Aozaki Aoko menait depuis à peine un an.
 
 }
 [sha:ff58a8ada408ecd99588d60bb2060e513a0bb71d]{
 -- Page 7, Offset 860.
 -- それまでの彼女の為でなく、
-  Ce n'était plus l'affirmation de ce qu'elle était jusque-là,
+　Ce n'était plus l'affirmation de ce qu'elle était jusque-là,
 
 }
 [sha:37decb491e5089318104379b5c6d6e47834c50bc]{
 -- Page 7, Offset 861.
 -- これからの彼女の証明になる、余人には立ち入れない独りの世界、の筈なのだが―――
-  mais de celle qu'elle allait devenir, un monde isolé dans lequel les autres n'avaient pas le droit de pénétrer ; du moins, ç'aurait dû être le cas―――
+　mais de celle qu'elle allait devenir, un monde isolé dans lequel les autres n'avaient pas le droit de pénétrer ; du moins, ç'aurait dû être le cas―――
 
 }
 [sha:073e53d43989ee80935a7341eda294f5d4ac0c1b]{
@@ -151,37 +151,37 @@
 [sha:4afebc37a3e4f4fae248939c0cf12da91740d354]{
 -- Page 8, Offset 863.
 -- 平気の平左でくつろいでいた<余人|コマドリ>が飛び去っていく。
-  L'oiseau qui se relaxait dans un calme plat s'envola.
+　L'oiseau qui se relaxait dans un calme plat s'envola.
 
 }
 [sha:ff51d2e1a05d2aeb05d1e0cd86586739d4a17c3b]{
 -- Page 8, Offset 864.
 -- 才能は人並み、努力は惜しまず、失敗は恐れずに。
-  Le talent de la jeune fille était moyen, mais elle ne ménageait pas ses efforts et ne redoutait pas l'échec.
+　Le talent de la jeune fille était moyen, mais elle ne ménageait pas ses efforts et ne redoutait pas l'échec.
 
 }
 [sha:49b9db95fc4d2b5175455c3b5625e8caf0259ff6]{
 -- Page 8, Offset 865.
 -- それは時に楽天的にさえ見える、青子の自由奔放さだった。
-  Ce qui pouvait parfois être perçu comme de l'optimisme était le libre arbitre d'Aoko.
+　Ce qui pouvait parfois être perçu comme de l'optimisme était le libre arbitre d'Aoko.
 
 }
 [sha:219e483b585cac7ff55c3c46b9a5eb70260e0d2a]{
 -- Page 9, Offset 866.
 -- 制服から普段着に着替えて一階に戻る。
-  Elle changea son uniforme contre ses vêtements ordinaires, puis elle retourna au rez-de-chaussée.
+　Elle changea son uniforme contre ses vêtements ordinaires, puis elle retourna au rez-de-chaussée.
 
 }
 [sha:fd723cb9597e63ea2bf68af2e15141ffb2017ae1]{
 -- Page 9, Offset 867.
 -- 階段をおりて東側の扉を開けると、地下室のように暗い廊下が続いていた。
-  Après avoir descendu les escaliers et ouvert la porte de l'aile est, elle s'avança dans un couloir sombre comme dans un sous-terrain.
+　Après avoir descendu les escaliers et ouvert la porte de l'aile est, elle s'avança dans un couloir sombre comme dans un sous-terrain.
 
 }
 [sha:a6ef047e241d6eb2573e47fdf7c9c3bc21a158f8]{
 -- Page 9, Offset 868.
 -- この廊下は外に面した窓がないだけに、電灯がなければ真っ暗だ。スイッチをいれて明かりをつけ、青子はすぐ近くの扉を開けた。
-  Comme ce couloir n'avait pas de fenêtres donnant sur l'extérieur, elle se trouverait dans le noir total si elle n'allumait pas la lumière. Aoko appuya donc sur l'interrupteur, allumant les lampes, et ouvrit la porte la plus proche.
+　Comme ce couloir n'avait pas de fenêtres donnant sur l'extérieur, elle se trouverait dans le noir total si elle n'allumait pas la lumière. Aoko appuya donc sur l'interrupteur, allumant les lampes, et ouvrit la porte la plus proche.
 
 }
 [sha:159d6d8255565eb24e6a2acf518238077c30c862]{
@@ -193,49 +193,49 @@
 [sha:50f7059b2924369276e8007595488cd2a92514ae]{
 -- Page 10, Offset 870.
 -- 居間は彼女の趣向で現代ライクな造りに変更されている。
-  Le salon, qu'Aoko avait fait réaménager selon ses envies, était d'un style moderne.
+　Le salon, qu'Aoko avait fait réaménager selon ses envies, était d'un style moderne.
 
 }
 [sha:4868b2bee748a27581a6b19b409b467a84e33119]{
 -- Page 10, Offset 871.
 -- <豪奢|ごうしゃ>な紋様の入った壁、
-  Des murs parés de magnifiques motifs,
+　Des murs parés de magnifiques motifs,
 
 }
 [sha:2ad3856a146caf940d2ef38bcb73ae5f3eaae768]{
 -- Page 10, Offset 872.
 -- <威厳|いげん>に満ちた大きなソファー、
-  un somptueux sofa en cuir véritable,
+　un somptueux sofa en cuir véritable,
 
 }
 [sha:49cc7bafb760ab6ba0e8326d8de07e3a2982202b]{
 -- Page 10, Offset 873.
 -- ペルシャ製の高級絨毯。
-  un tapis persan de haute qualité.
+　un tapis persan de haute qualité.
 
 }
 [sha:e435a258743390cbde1ed543e6db98d1fdeba64e]{
 -- Page 10, Offset 874.
 -- 城の一室めいた空間に、空気を読まず不釣り合いな30インチのテレビジョンが<鎮座|ちんざ>している。
-  L'endroit, qui ressemblait à une pièce de château, était doté d'une télévision de 30 pouces contrastant avec l'atmosphère des lieux.
+　L'endroit, qui ressemblait à une pièce de château, était doté d'une télévision de 30 pouces contrastant avec l'atmosphère des lieux.
 
 }
 [sha:b16dab81a7fce0ed51d7b130be4acb75f5bd872f]{
 -- Page 11, Offset 875.
 -- テレビはハダカの王様のように、精一杯の虚勢を張ってソファーたちを従えていた。
-  La télé, tel un nez rouge au milieu de la figure, bluffait de son mieux pour accompagner le sofa et les autres meubles.
+　La télé, tel un nez rouge au milieu de la figure, bluffait de son mieux pour accompagner le sofa et les autres meubles.
 
 }
 [sha:5c3a964b0ff2079bffaefa02f47a58a6e9378a92]{
 -- Page 11, Offset 876.
 -- 洋館の持ち主は嫌がったが、このとってつけた感こそ庶民である青子には必要不可欠な<憩|いこ>いである。
-  La propriétaire de la résidence n'avait pas aimé, mais ce sentiment de dépaysement était indispensable à la relaxation pour la fille du peuple qu'était Aoko.
+　La propriétaire de la résidence n'avait pas aimé, mais ce sentiment de dépaysement était indispensable à la relaxation pour la fille du peuple qu'était Aoko.
 
 }
 [sha:6ffd5afddcccf4b8f0a9daa7872aeeb3a3c8245f]{
 -- Page 11, Offset 877.
 -- 下宿を始めてすぐの頃、これで同居人と一戦争あったが、今ではお互い納得の文明機器になっている。
-  Lorsqu'elle avait commencé à habiter ici, elle s'était querellée une fois à ce propos avec sa colocataire, mais elles étaient maintenant toutes les deux convaincues que c'était un outil de la civilisation moderne.
+　Lorsqu'elle avait commencé à habiter ici, elle s'était querellée une fois à ce propos avec sa colocataire, mais elles étaient maintenant toutes les deux convaincues que c'était un outil de la civilisation moderne.
 
 }
 [sha:c69e06d4f8fd21e38483cf003b9be0a097f3ee10]{
@@ -247,19 +247,19 @@
 [sha:93bb100b6a6e6d736c01549e4951e38370a98e86]{
 -- Page 12, Offset 879.
 -- うちもあんがい、時代錯誤な家だった」
-  Curieusement, chez moi aussi, on était en retard sur notre époque.」
+　Curieusement, chez moi aussi, on était en retard sur notre époque.」
 
 }
 [sha:f1e2c32e986c308c570596dc522ac719109af89f]{
 -- Page 12, Offset 880.
 -- なんとなく愉快な気持ちになって、青子はお茶にする事にした。
-  Aoko, devenue joyeuse sans raison particulière, décida de faire du thé.
+　Aoko, devenue joyeuse sans raison particulière, décida de faire du thé.
 
 }
 [sha:30ee7eb2802420f161e3c8e6c116300e3936737a]{
 -- Page 12, Offset 881.
 -- 居間と壁一つでつながっている台所でお湯を沸かし、ティーポットと鍋を用意して、万全の準備で紅茶を淹れる。
-  Dans la cuisine située derrière le mur du salon, elle fit bouillir de l'eau dans une casserole, versa l'eau chaude dans une théière et, parachevant une préparation parfaite, y infusa les feuilles de thé.
+　Dans la cuisine située derrière le mur du salon, elle fit bouillir de l'eau dans une casserole, versa l'eau chaude dans une théière et, parachevant une préparation parfaite, y infusa les feuilles de thé.
 
 }
 [sha:172693ceb01024cb2c60c5b015d439a5b8e805a3]{
@@ -271,25 +271,25 @@
 [sha:b96bc92ae76928d144adf9a170488e6a8b98bb82]{
 -- Page 13, Offset 883.
 -- ぼすん、とソファーに深々と沈みこむ。
-  Elle s'enfonça profondément dans le sofa.
+　Elle s'enfonça profondément dans le sofa.
 
 }
 [sha:4a0bcf57c473ebc806d8207523708a5055f92fb6]{
 -- Page 13, Offset 884.
 -- 紅茶を一口、それから二口。
-  Elle but une gorgée de thé, puis une deuxième.
+　Elle but une gorgée de thé, puis une deuxième.
 
 }
 [sha:cbd2f8bb2d7ef49cf451223ca11419052566e3da]{
 -- Page 13, Offset 885.
 -- 時計の針に耳を<傾|かたむ>けながら、ああ、今日は午後からどうしよう、とぼんやり思って三口目。
-  Tout en écoutant le cliquetis de l'horloge et en se demandant ce qu'elle allait faire dans la soirée, elle en reprit une troisième.
+　Tout en écoutant le cliquetis de l'horloge et en se demandant ce qu'elle allait faire dans la soirée, elle en reprit une troisième.
 
 }
 [sha:92fb7c92daf91b0868b795d3820fba31819a2c12]{
 -- Page 13, Offset 886.
 -- 柔らかなソファーの感触に、どこまでも沈みこんでいきたい衝動にかられた頃。
-  Puis, tentée par la sensation du moelleux sofa, elle ressentit l'envie de s'enfoncer davantage.
+　Puis, tentée par la sensation du moelleux sofa, elle ressentit l'envie de s'enfoncer davantage.
 
 }
 [sha:279ba7d1370f8a4ae48f1be64cf713f79d5481d0]{
@@ -301,31 +301,31 @@
 [sha:51ef699cbe5eb1463ff90bf823bf6095d768bd02]{
 -- Page 14, Offset 888.
 -- 青子は目をパチパチとまたたいて、クッションから体を起こした。
-  Aoko cligna des yeux et se leva du coussin.
+　Aoko cligna des yeux et se leva du coussin.
 
 }
 [sha:f4150fe15c6e0eccfe52662bb21e463cf2efd8b8]{
 -- Page 14, Offset 889.
 -- 夢でも妄想でもない。
-  Ce n'était ni un rêve ni une illusion.
+　Ce n'était ni un rêve ni une illusion.
 
 }
 [sha:dcff1ffcdc2e8e431cb2667c7ddbd34e993ba593]{
 -- Page 14, Offset 890.
 -- いつのまにか、目の前にひとりの少女が座っている。
-  Avant qu'elle ne s'aperçoive de quoi que ce soit, une jeune fille s'était assise en face d'elle.
+　Avant qu'elle ne s'aperçoive de quoi que ce soit, une jeune fille s'était assise en face d'elle.
 
 }
 [sha:6a3bf9f6426f2439031e186ffe5a2bbad793aa09]{
 -- Page 15, Offset 891.
 -- さして驚かず、青子はティーカップに指をあてた。
-  Pas étonnée pour un sou, Aoko tâta sa tasse avec les doigts.
+　Pas étonnée pour un sou, Aoko tâta sa tasse avec les doigts.
 
 }
 [sha:75b4cc54219aff8752c9de6c7e3b62a4f3c81d4a]{
 -- Page 15, Offset 892.
 -- 淹れたばかりの紅茶は完全に冷めきっている。
-  Le thé qu'elle venait juste de faire chauffer avait complètement refroidi.
+　Le thé qu'elle venait juste de faire chauffer avait complètement refroidi.
 
 }
 [sha:a2e86965f7ef6cf158f5c397c4308add7a170ff4]{
@@ -337,7 +337,7 @@
 [sha:b96934a2c7f91213cc5921490537b8d9b38456c5]{
 -- Page 15, Offset 894.
 -- テーブル向こうの少女に問いかける、青子の声。
-  demanda Aoko à la fille assise de l'autre côté de la table.
+　demanda Aoko à la fille assise de l'autre côté de la table.
 
 }
 [sha:b0f67afb8506c9b34e393bab797e95973d7b3e65]{
@@ -349,85 +349,85 @@
 [sha:b1eb1c81d24447197cb81321a2280e0d88100891]{
 -- Page 15, Offset 896.
 -- 少女は視線をあげず、関心なさげに答えた。
-  répondit celle-ci d'une petite voix, sans lui porter grand intérêt ou même lui accorder un regard.
+　répondit celle-ci d'une petite voix, sans lui porter grand intérêt ou même lui accorder un regard.
 
 }
 [sha:4668dd6853e9bc9455675d17a09e09c4f569273d]{
 -- Page 16, Offset 897.
 -- ―――声をあげなければ、あるいは、美しい人形と見間違えるだろう。
-  ―――Si elle n'avait pas parlé, on aurait certainement pu la confondre avec une magnifique poupée.
+　―――Si elle n'avait pas parlé, on aurait certainement pu la confondre avec une magnifique poupée.
 
 }
 [sha:32193e98f58d04fb50ddb54409fcfa777a4ee976]{
 -- Page 16, Offset 898.
 -- その少女はソファーに座り、古い本を読んでいる。
-  Elle lisait un vieux livre, assise sur le sofa.
+　Elle lisait un vieux livre, assise sur le sofa.
 
 }
 [sha:9e85ab9954f588ce930bf31b59805a6fc23cf342]{
 -- Page 16, Offset 899.
 -- 細い手足と陽の光を知らぬ白い肌。
-  Des membres fins et une peau blanche comme si elle n'avait jamais vu la lumière du soleil.
+　Des membres fins et une peau blanche comme si elle n'avait jamais vu la lumière du soleil.
 
 }
 [sha:fa683863a1e2c0003108a8cc5b7ff0d227e5882a]{
 -- Page 16, Offset 900.
 -- 愁いがちな趣きは、人間らしい意思を感じさせない。
-  De sa grâce qui dégageait une certaine mélancolie, on ne ressentait aucune volonté humaine.
+　De sa grâce qui dégageait une certaine mélancolie, on ne ressentait aucune volonté humaine.
 
 }
 [sha:58f9f61bb115acbc1fcd08820cde10571d66ae3d]{
 -- Page 17, Offset 901.
 -- 青子より濃い、混じりけのない黒髪。
-  Des cheveux noirs, ordonnés et plus denses que ceux d'Aoko.
+　Des cheveux noirs, ordonnés et plus denses que ceux d'Aoko.
 
 }
 [sha:74c2902e967bf90735b0a1f0a2d50a0446d3dda4]{
 -- Page 17, Offset 902.
 -- 冷たい色をした瞳は、しずしずとページへ視線を落としている。
-  Ses pupilles d'une couleur froide parcouraient paisiblement les pages du livre qu'elle lisait.
+　Ses pupilles d'une couleur froide parcouraient paisiblement les pages du livre qu'elle lisait.
 
 }
 [sha:7f16b1557eb3081e4c6576d0b145ae07356ae2a5]{
 -- Page 17, Offset 903.
 -- 修道女を思わせる黒衣は彼女の通う女学院の制服だ。
-  Le vêtement noir qu'elle portait, rappelant celui d'une nonne, était l'uniforme de son école pour filles.
+　Le vêtement noir qu'elle portait, rappelant celui d'une nonne, était l'uniforme de son école pour filles.
 
 }
 [sha:05a0c3e8b72045f353be5891ad35f799604e6c82]{
 -- Page 17, Offset 904.
 -- その<翳|くら>さは少女によく似合っていたが、青子に言わせれば似合いすぎて良くないらしい。
-  Cette couleur sombre lui allait très bien. Tellement bien que d'après Aoko, ce n'était pas une bonne chose.
+　Cette couleur sombre lui allait très bien. Tellement bien que d'après Aoko, ce n'était pas une bonne chose.
 
 }
 [sha:b68329118baeb144d163120cd86ee42f84b12379]{
 -- Page 18, Offset 905.
 -- ……さながら一枚の風景画。
-  ...... Telle une peinture de paysage.
+　...... Telle une peinture de paysage.
 
 }
 [sha:062d8625324c393f7f7ca28f8e3f3ec3096b572f]{
 -- Page 18, Offset 906.
 -- 初めからそういう形で生まれてきたとさえ思える現実感の無さ。
-  Ce manque de réalisme allait même jusqu'à donner l'impression qu'elle était née sous cette forme.
+　Ce manque de réalisme allait même jusqu'à donner l'impression qu'elle était née sous cette forme.
 
 }
 [sha:e5994ff34dc7ec3c38effe7f895791a6f5e1fcc2]{
 -- Page 18, Offset 907.
 -- <俯|うつむ>く彼女の首の白さは、同性の青子でさえ見とれるほど美しい。
-  La blancheur de son cou courbé était si belle qu'elle fascinait même Aoko, pourtant du même sexe.
+　La blancheur de son cou courbé était si belle qu'elle fascinait même Aoko, pourtant du même sexe.
 
 }
 [sha:fe312dcc6db26fb59c8a684619ea4b319952149c]{
 -- Page 18, Offset 908.
 -- この少女こそ、幽霊屋敷に住む二人のうちの一人。
-  Cette fille était l'autre habitante de ce manoir hanté.
+　Cette fille était l'autre habitante de ce manoir hanté.
 
 }
 [sha:bd4efae059982add5bf37a235f48e884b24da0bd]{
 -- Page 18, Offset 909.
 -- <久遠寺|くおんじ><有珠|アリス>という名前の、青子と同い年の同居人。
-  La colocataire d'Aoko qui avait le même âge qu'elle, Kuonji Alice.
+　La colocataire d'Aoko qui avait le même âge qu'elle, Kuonji Alice.
 
 }
 [sha:b791b275db8a10086272ba82e58d0adf4cb48e6a]{
@@ -445,25 +445,25 @@
 [sha:7fcc994d925e2af92588f44665a0fe6bf6d6116b]{
 -- Page 20, Offset 912.
 -- 有珠は関心なく答えるが、いつもの事なので青子は気にしない。
-  Alice répondit, toujours sans montrer le moindre signe d'intérêt ; habituée à ce comportement, Aoko ne s'en formalisa pas.
+　Alice répondit, toujours sans montrer le moindre signe d'intérêt ; habituée à ce comportement, Aoko ne s'en formalisa pas.
 
 }
 [sha:529b5d22e4418437751f6933eb555fc49cae129f]{
 -- Page 20, Offset 913.
 -- 柱時計を見てみると、針は午後七時を回っていた。
-  En regardant l'horloge murale, elle vit que l'aiguille avait dépassé le chiffre sept.
+　En regardant l'horloge murale, elle vit que l'aiguille avait dépassé le chiffre sept.
 
 }
 [sha:53dc15ce296d6b313019d643b0f6acc96608af10]{
 -- Page 20, Offset 914.
 -- 二時間ほど眠っていた事になる。
-  Elle avait donc dormi près de deux heures.
+　Elle avait donc dormi près de deux heures.
 
 }
 [sha:4d4201bf3c931a26d6160384469feda746461282]{
 -- Page 20, Offset 915.
 -- 思い返せば散々な一日だった。徹夜明けで疲れた体が寝入ってしまったのも、無理のない話だろう。
-  En y repensant, ç'avait été une dure journée. Il était naturel que son corps, fatigué par sa nuit blanche, se soit endormi.
+　En y repensant, ç'avait été une dure journée. Il était naturel que son corps, fatigué par sa nuit blanche, se soit endormi.
 
 }
 [sha:558a8cf9b725bb58356f37ca803268c93d1d2dd1]{
@@ -475,7 +475,7 @@
 [sha:4655141200d3c71610c36a92e1125bf670c5f41f]{
 -- Page 21, Offset 917.
 -- せっかくの紅茶が冷めちゃったじゃない」
-  Le thé que je venais de préparer a refroidi !」
+　Le thé que je venais de préparer a refroidi !」
 
 }
 [sha:dfc25be2b89b51462b940c0ad13510da752a6a73]{
@@ -493,13 +493,13 @@
 [sha:75290a7e0d5b90ecaca49ba4cd2792cad7adec79]{
 -- Page 22, Offset 920.
 -- 青子は冷めきった紅茶を一気に飲み下す。
-  Aoko but d'une traite son thé froid.
+　Aoko but d'une traite son thé froid.
 
 }
 [sha:dd5ea87b041ef44b35339a317017690582527903]{
 -- Page 22, Offset 921.
 -- 暖房の乏しい久遠寺邸では、その冷たさだけでも寝惚けた頭を目覚めさせるには十分だった。
-  Dans le manoir Kuonji, où le chauffage était limité, cette froideur était suffisante pour réveiller quelqu'un de somnolent.
+　Dans le manoir Kuonji, où le chauffage était limité, cette froideur était suffisante pour réveiller quelqu'un de somnolent.
 
 }
 [sha:c4aebd7b5fc1a68518f1907c4eddd77cfdafd305]{
@@ -511,19 +511,19 @@
 [sha:e8b6906960c732c46389e0d301134394c28064ad]{
 -- Page 23, Offset 923.
 -- おかえり、有珠。たまの贅沢もアンタ抜きじゃ<締|し>まらないってコトかしら。
-  Bonsoir, Alice. Je suppose qu'un luxe occasionnel ne rime à rien sans toi.
+　Bonsoir, Alice. Je suppose qu'un luxe occasionnel ne rime à rien sans toi.
 
 }
 [sha:00acc9b50933310b05a7c98be21de549f3d11eff]{
 -- Page 23, Offset 924.
 -- 今日は厄日か<天誅殺|てんちゅうさつ>か―――ちょっと早いけどお参りってのも十分アリかもね」
-  Aujourd'hui, c'était soit un jour maudit, soit une punition divine―――C'est sûrement prématuré, mais je devrais peut-être faire une petite visite au temple.」
+　Aujourd'hui, c'était soit un jour maudit, soit une punition divine―――C'est sûrement prématuré, mais je devrais peut-être faire une petite visite au temple.」
 
 }
 [sha:04b2e93e6da20b7f79709421bcf3e9ac7fa47a1c]{
 -- Page 23, Offset 925.
 -- 毒食わば皿まで的な玉砕精神で、と肩をすくめる青子。
-  Aoko haussa les épaules avec le moral de quelqu'un ayant subi une défaite honorable après avoir fait tout ce qui était en son pouvoir.
+　Aoko haussa les épaules avec le moral de quelqu'un ayant subi une défaite honorable après avoir fait tout ce qui était en son pouvoir.
 
 }
 [sha:1c0be4c9499f9cc792d3c6564110889246e3055a]{
@@ -535,25 +535,25 @@
 [sha:2ec94cde55e225e87007b1e19e40f2e830cd63fe]{
 -- Page 24, Offset 927.
 -- 同居生活も二年近く続けば、お互いの様子に気が付くらしい。
-  Selon toute vraisemblance, après deux ans de vie commune, elles étaient capables de deviner leur état d'esprit mutuel.
+　Selon toute vraisemblance, après deux ans de vie commune, elles étaient capables de deviner leur état d'esprit mutuel.
 
 }
 [sha:e4560a390971ac8f55365566c47690aa14118240]{
 -- Page 24, Offset 928.
 -- 青子は青子なりの、
-  Aoko à sa manière,
+　Aoko à sa manière,
 
 }
 [sha:e79ed8e941e0b50a5966d2e9bf2c1cc4af6bff01]{
 -- Page 24, Offset 929.
 -- 有珠は有珠なりの問いかけをする。
-  et Alice à la sienne, se questionnaient l'une l'autre.
+　et Alice à la sienne, se questionnaient l'une l'autre.
 
 }
 [sha:f955ac0cc2a8eedace82db7308a229155b489811]{
 -- Page 24, Offset 930.
 -- 顔もあげず問いかけてくる同居人に、青子はきっぱりと現状を報告した。
-  Aoko fit un rapport précis de la situation à sa colocataire qui l'avait interrogée sans lever la tête.
+　Aoko fit un rapport précis de la situation à sa colocataire qui l'avait interrogée sans lever la tête.
 
 }
 [sha:97119884afeb7095b6caab38ecf406b1c49475b1]{
@@ -565,7 +565,7 @@
 [sha:5dd116ff2a1fa5a0ef096e415b942ada23332983]{
 -- Page 25, Offset 932.
 -- 昨日徹夜で完成させた例のアレ、意味がなくなっちゃったのよ。ちょっと目を離した隙に沸騰しすぎて壊れちゃったみたい。
-  Ce que j'ai terminé hier après une nuit blanche s'est révélé inutile. On dirait que pendant que je ne le surveillais pas, il a bouillonné et s'est cassé.
+　Ce que j'ai terminé hier après une nuit blanche s'est révélé inutile. On dirait que pendant que je ne le surveillais pas, il a bouillonné et s'est cassé.
 
 }
 [sha:2e4f5f5761e2bb6c50c054493e1e496ff7f3146b]{
@@ -577,7 +577,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:e82659731a3618e9840393f9c880ff6cc4f85d29]{
 -- Page 25, Offset 934.
 -- いやー、まいったね、と他人ごとのように青子は言った。
-  dit Aoko comme si ce n'était plus de son ressort.
+　dit Aoko comme si ce n'était plus de son ressort.
 
 }
 [sha:85003b3cface0b26bb5432b8ffe6a9a3bbcaa4d6]{
@@ -595,13 +595,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:6a23f47a6a1956f7268eb88a87d78d8295f8ac02]{
 -- Page 26, Offset 937.
 -- そこで転入生の世話を押しつけられて、一日が無残にも消費されちゃって、帰ってきたら跡形もなく消えてました。
-  Là-bas, on m'a demandé de prendre en charge un élève transféré, ma journée est partie en fumée d'une façon horrible, et quand je suis rentrée, il avait disparu sans laisser de traces.
+　Là-bas, on m'a demandé de prendre en charge un élève transféré, ma journée est partie en fumée d'une façon horrible, et quand je suis rentrée, il avait disparu sans laisser de traces.
 
 }
 [sha:ff80b1c6b9d19f1ac87430ac684e2c076c1dc783]{
 -- Page 26, Offset 938.
 -- 怒る、有珠？」
-  Tu es fâchée, Alice ?」
+　Tu es fâchée, Alice ?」
 
 }
 [sha:4ec0c4f1ab6d86467bcf1fa18fc93978dbd72cb3]{
@@ -613,13 +613,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:8a28270b53c4e997d3ef32aacac1dfa7710ab629]{
 -- Page 27, Offset 940.
 -- 代用品はあるから、また一から始めればいいわ。
-  Il y a encore des substituts, alors tu pourras recommencer depuis le début.
+　Il y a encore des substituts, alors tu pourras recommencer depuis le début.
 
 }
 [sha:60ac0bc5d1d54d26054926324189c8b1a90adf44]{
 -- Page 27, Offset 941.
 -- それより―――怒ってるのは貴方の方じゃないの？」
-  À part ça―――ce ne serait pas plutôt toi qui es en colère ?」
+　À part ça―――ce ne serait pas plutôt toi qui es en colère ?」
 
 }
 [sha:c20d12bcfff3813a1e0c047d42012c654de061fe]{
@@ -631,19 +631,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:4aa42b5146a2d53c8c0abd9e4d5a94a17c88b7f2]{
 -- Page 28, Offset 943.
 -- 今日はいつになく<鋭|するど>い。
-  Aujourd'hui, elle était exceptionnellement perspicace.
+　Aujourd'hui, elle était exceptionnellement perspicace.
 
 }
 [sha:5b3b91a95ad219822e123dcf679e8e1746579e0f]{
 -- Page 28, Offset 944.
 -- こういう時、涼しい顔をしてホントは怒っているのが青子なのだ。
-  Quand Aoko avait l'air indifférente, c'était qu'en réalité, elle était énervée.
+　Quand Aoko avait l'air indifférente, c'était qu'en réalité, elle était énervée.
 
 }
 [sha:72547ee9b4d60017e75ed9e374d72c8c5e1e5dd7]{
 -- Page 28, Offset 945.
 -- それはともかく。
-  Quoi qu'il en soit...
+　Quoi qu'il en soit...
 
 }
 [sha:27427753aa50e2b55685d8afb2e0026084ada040]{
@@ -655,19 +655,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:d6f7c9f5c50011463756497c73d04723213bc6af]{
 -- Page 29, Offset 947.
 -- すごい山奥で暮らしてたらしくて、こっちの常識が通じないんだから。<山門異界|さんもんいかい>って言葉があるけど、あれってホントの事なのね、有珠」
-  Apparemment, il vivait au cœur des montagnes avant, et il ne comprend pas notre bon sens. Tu vois l'expression “4e dimension” ? Il y a parfois des gens qui donnent réellement l'impression d'en venir, Alice.」
+　Apparemment, il vivait au cœur des montagnes avant, et il ne comprend pas notre bon sens. Tu vois l'expression “4e dimension” ? Il y a parfois des gens qui donnent réellement l'impression d'en venir, Alice.」
 
 }
 [sha:314eda3c7af765a94aa06608ef37e468a78b4657]{
 -- Page 30, Offset 948.
 -- 名前を呼ばれて有珠は顔を上げた。
-  Entendant son nom, cette dernière leva la tête.
+　Entendant son nom, cette dernière leva la tête.
 
 }
 [sha:28a8e8b1497a6233028828622d530aefa658ce09]{
 -- Page 30, Offset 949.
 -- もともと有珠からの同情なんて期待していない青子は、さらに口調を速めて愚痴をこぼす。
-  Aoko, qui n'attendait pas de geste de sympathie de sa part depuis le début, grommela en accélérant le rythme.
+　Aoko, qui n'attendait pas de geste de sympathie de sa part depuis le début, grommela en accélérant le rythme.
 
 }
 [sha:2ff9e72c3d688632895af5c928959c78789d0b25]{
@@ -679,7 +679,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:12d40ed9ccb64e5b182e5d3a4245ca99bcd8469c]{
 -- Page 31, Offset 951.
 -- そいつ、教室で教師と一対一で授業を受けるもんだと思ってたらしいの。……ええ、それはそれでまだ流せる。許容範囲よ、あの程度の冗談は」
-  Il pensait qu'il s'agissait de cours individuels, à raison d'un cours par salle de classe...... Bon, ça encore, ça pouvait passer. Je pouvais bien tolérer au moins une blague de ce niveau.」
+　Il pensait qu'il s'agissait de cours individuels, à raison d'un cours par salle de classe...... Bon, ça encore, ça pouvait passer. Je pouvais bien tolérer au moins une blague de ce niveau.」
 
 }
 [sha:9edb7d3b440dd07f715b7402903714a377ff7429]{
@@ -691,19 +691,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:2316ddb791e480fa0bd1f17c221f2161ff7b28a1]{
 -- Page 32, Offset 953.
 -- 『それで蒼崎。他の教室は何に使うんだ？』
-  『Et donc, Aozaki. Les autres classes servent à quoi ?』
+『Et donc, Aozaki. Les autres classes servent à quoi ?』
 
 }
 [sha:6bd46101184765458a0879c8115032a1962a487a]{
 -- Page 32, Offset 954.
 -- ですって！
-  qu'il a dit !
+　qu'il a dit !
 
 }
 [sha:e36fc9694313aa8a38323f0d21f6ce57c8336ebd]{
 -- Page 32, Offset 955.
 -- 教室に他も何もないでしょう？」
-  Une classe, c'est une classe et rien d'autre, non ?!」
+　Une classe, c'est une classe et rien d'autre, non ?!」
 
 }
 [sha:8f75200a2ebd69d1c6f37f94bb842a6411870abe]{
@@ -715,13 +715,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:d103f0ee880b80aa20764821d4544b8bb0d5596d]{
 -- Page 33, Offset 957.
 -- 何も疑問に思わないというか、想像力が欠如してるっていうか、想像する事に慣れてないっていうか。
-  Soit il ne se pose pas de questions, soit il manque d'imagination, ou alors, il n'est pas habitué à l'utiliser.
+　Soit il ne se pose pas de questions, soit il manque d'imagination, ou alors, il n'est pas habitué à l'utiliser.
 
 }
 [sha:98418e8f8febb0545678b2fc284b9e2eb84d3bf9]{
 -- Page 33, Offset 958.
 -- まあ……一度言った事はちゃんと分かってるっぽいから、馬鹿ってワケじゃないんだけど……」
-  Enfin...... on dirait qu'il comprend les choses une fois qu'on les lui a dites, alors ce n'est pas comme s'il était complètement stupide......」
+　Enfin...... on dirait qu'il comprend les choses une fois qu'on les lui a dites, alors ce n'est pas comme s'il était complètement stupide......」
 
 }
 [sha:5f3aa1c0c580ec3918f463aa060b4ba65594cdc0]{
@@ -733,7 +733,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:818ee486fea5da6c9b557008321da7cfba297a64]{
 -- Page 34, Offset 960.
 -- ……そういうダメな人、気にする<質|たち>だったの？」
-  ...... Serais-tu du genre à t'intéresser à ce genre de personne ratée ?」
+　...... Serais-tu du genre à t'intéresser à ce genre de personne ratée ?」
 
 }
 [sha:68d6771d98e3a9a168bdbdffbfcaacea89128245]{
@@ -745,19 +745,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:2861048161a02fe352dd2bae1f0af69f13665ce6]{
 -- Page 35, Offset 962.
 -- そう。心配なのは、その間違いの後始末が高い確率で自分に回ってくるからに違いない。
-  Oui. Elle était inquiète parce qu'elle serait, avec une forte probabilité, la personne qui devrait résoudre ces problèmes.
+　Oui. Elle était inquiète parce qu'elle serait, avec une forte probabilité, la personne qui devrait résoudre ces problèmes.
 
 }
 [sha:5ca2ed0d173676d92c314b7d41c431eb84775e48]{
 -- Page 35, Offset 963.
 -- たぶん、そうだと思う。
-  C'était sûrement ça.
+　C'était sûrement ça.
 
 }
 [sha:3f566e06aac54105008a9a23b516404608d0afd9]{
 -- Page 35, Offset 964.
 -- そうでもなければ、今日一日を潰してくれた転入生を気に病む理由が見当たらない。
-  Sinon, elle ne voyait pas la raison pour laquelle elle s'inquiéterait pour un étudiant tout juste transféré qui lui avait ruiné sa journée.
+　Sinon, elle ne voyait pas la raison pour laquelle elle s'inquiéterait pour un étudiant tout juste transféré qui lui avait ruiné sa journée.
 
 }
 [sha:9676da0cfa99ea7dcee15da885577fb535efc2c3]{
@@ -775,13 +775,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:dc1996a2a9940052b9ae4cc8d6521bcee38060db]{
 -- Page 36, Offset 967.
 -- けれど、その人物とは気が合う前に会う事もないでしょう、と視線だけで少女は語る。
-  Mais la fille signifia d'un seul regard, qu'avant de pouvoir bien s'entendre, ils ne se rencontreraient probablement même pas.
+　Mais la fille signifia d'un seul regard, qu'avant de pouvoir bien s'entendre, ils ne se rencontreraient probablement même pas.
 
 }
 [sha:d156b07f7c7b9e61f54a5d44f63f883ce8391130]{
 -- Page 36, Offset 968.
 -- それに青子はでしょうね、とだけ答えた。
-  Et Aoko ne fit que lui signifier son assentiment.
+　Et Aoko ne fit que lui signifier son assentiment.
 
 }
 [sha:b76bc05842a88df5b68315872e27f8bbd0b8a2ed]{
@@ -811,13 +811,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:75c6e8da118a4fb6d26b07dd293afc1d6c10c3c9]{
 -- Page 38, Offset 973.
 -- 彼の欠点と長所を劇的に誉めあげている。よくできた冒険小説のようよ。立ちはだかる秘密組織の名前がカントとか、気が利いているわ。
-  Il fait des éloges sur ses points faibles et ses points forts de façon théâtrale. Comme un roman d'aventures bien écrit. Par exemple, l'organisation secrète qu'il combat s'appelle Kanto, c'est intelligent.
+　Il fait des éloges sur ses points faibles et ses points forts de façon théâtrale. Comme un roman d'aventures bien écrit. Par exemple, l'organisation secrète qu'il combat s'appelle Kanto, c'est intelligent.
 
 }
 [sha:cece4cb1fdb2e9350fee30c70629308033bc0dfe]{
 -- Page 38, Offset 974.
 -- ……筆跡は、あなたのお祖父さんのものだけど」
-  ...... Cela dit, il a été écrit par ton grand-père.」
+　...... Cela dit, il a été écrit par ton grand-père.」
 
 }
 [sha:71cbfa8fddcc03ff1788a31a981eecab7998835e]{
@@ -829,13 +829,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:0b0e5a9471b5457ac7449807a2e2ca59ade80918]{
 -- Page 39, Offset 976.
 -- わりとユーモアがあったのね。惜しい人をなくしたわ」
-  Étonnamment, il avait de l'humour, hein. On a perdu une personne regrettable.」
+　Étonnamment, il avait de l'humour, hein. On a perdu une personne regrettable.」
 
 }
 [sha:aec45d4dc18d5214f9fe4541f81b3873ab760c44]{
 -- Page 39, Offset 977.
 -- もうこの世にいない祖父を懐かしむように青子。
-  dit Aoko avec nostalgie, comme si son grand-père n'était plus de ce monde.
+　dit Aoko avec nostalgie, comme si son grand-père n'était plus de ce monde.
 
 }
 [sha:1e046baba86c1bfe89bd433e4e109cf4ab3b40be]{
@@ -853,13 +853,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:aeccc3684334d3dae4d92b7ea793bd9fa6fb1641]{
 -- Page 41, Offset 980.
 -- ふう、とため息をついて、青子はソファーに思いっきり寄り掛かった。
-  Aoko soupira et s'adossa au sofa de tout son poids.
+　Aoko soupira et s'adossa au sofa de tout son poids.
 
 }
 [sha:43d06b5102c43100aaa060d1110bc96cba7c335f]{
 -- Page 41, Offset 981.
 -- クッションにガタがきているのか、背もたれと一緒に青子は床に寝そべる形になる。
-  Le coussin devait être vieux, car en s'appuyant dessus, Aoko se retrouva allongée sur le sofa.
+　Le coussin devait être vieux, car en s'appuyant dessus, Aoko se retrouva allongée sur le sofa.
 
 }
 [sha:e853fb530f68c8177603fe9fdc8fe1c785ce6282]{
@@ -871,55 +871,55 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:defdc6f369e13d956b8d2de1fb3c333240dae10f]{
 -- Page 42, Offset 983.
 -- 寝そべっている青子に、有珠はちらりと視線を投げた。
-  Alice jeta un regard sur Aoko complètement avachie.
+　Alice jeta un regard sur Aoko complètement avachie.
 
 }
 [sha:0fcbec0e94e9dba33f1f8c315c0149d2f549c065]{
 -- Page 42, Offset 984.
 -- ソファーに埋もれた青子の体は、横臥したまま死体のように動かない。
-  Son corps allongé et enfoncé dans le sofa noir ne bougeait plus, tel un cadavre.
+　Son corps allongé et enfoncé dans le sofa noir ne bougeait plus, tel un cadavre.
 
 }
 [sha:dc97eadd9f8cdf7d40f69fecf7181db7250f4699]{
 -- Page 43, Offset 985.
 -- ソファーに寝そべった青子の心境は、少し乾いていた。
-  Aoko, affalée sur le sofa, s'était légèrement détendue.
+　Aoko, affalée sur le sofa, s'était légèrement détendue.
 
 }
 [sha:6462dc62336367e90cf75f7ae52b3f5ce0d736c9]{
 -- Page 43, Offset 986.
 -- 有珠は無言で<青子|じぶん>を責めている。
-  Alice la blâmait en silence.
+　Alice la blâmait en silence.
 
 }
 [sha:434241462d2f4bc819d48cc7790519efe3ac1e90]{
 -- Page 43, Offset 987.
 -- それを思うと今日一日の新鮮な出来事も、次第に<瑞々|みずみず>しさを失っていく。
-  En pensant à cela, les évènements revigorants de la journée perdirent peu à peu de leur fraîcheur.
+　En pensant à cela, les évènements revigorants de la journée perdirent peu à peu de leur fraîcheur.
 
 }
 [sha:ec3b66b5b7a189e42316df797346300bad97d68f]{
 -- Page 44, Offset 988.
 -- ……有珠の無言の責めを無視すれば、話はここで終わってくれる。
-  ...... Si elle ignorait le reproche silencieux d'Alice, la conversation se terminerait là.
+　...... Si elle ignorait le reproche silencieux d'Alice, la conversation se terminerait là.
 
 }
 [sha:ec36b688de1680688da40174d92f29a563960c73]{
 -- Page 44, Offset 989.
 -- ふたりはこのまま席を立ち、今日のミスをうやむやにしたまま明日を迎えられるだろう。
-  Elles se lèveraient toutes les deux, et le lendemain arriverait en laissant les erreurs de la journée irrésolues.
+　Elles se lèveraient toutes les deux, et le lendemain arriverait en laissant les erreurs de la journée irrésolues.
 
 }
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 44, Offset 990. Mods: @n.
 -- しかし。
-  Cependant,
+　Cependant,
 
 }
 [sha:321d5b294be96ff7aed72c5e0b8dd532a6abf70b]{
 -- Page 44, Offset 991. Glued.
 -- 蒼崎青子は、そういう真似ができない人間だ。
- Aozaki Aoko n'était pas du genre à laisser les choses en plan.
+Aozaki Aoko n'était pas du genre à laisser les choses en plan.
 
 }
 [sha:5935590af523b25e2ed4751701116299ee8a4081]{
@@ -931,7 +931,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:0ea920909c4ea4cd8d5201bac809d94241106509]{
 -- Page 45, Offset 993.
 -- 青子は倒れこんだまま有珠に問う。
-  demanda Aoko toujours écroulée à Alice.
+　demanda Aoko toujours écroulée à Alice.
 
 }
 [sha:05d09856847f0e30d233118a875cdbbd076f744e]{
@@ -949,7 +949,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:c4cc96e9cae2546d79af617bc451b06bb0e1fcc5]{
 -- Page 45, Offset 996.
 -- 学校優先は一人前になってから、でしょ」
-  L'école passera en priorité quand je serai parfaitement autonome, pas vrai ?」
+　L'école passera en priorité quand je serai parfaitement autonome, pas vrai ?」
 
 }
 [sha:dc708fd58dd5125d071dbab27d38b2c9b2605d93]{
@@ -961,37 +961,37 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:f756b0844c43c9930da6b8e32896a4eab6571463]{
 -- Page 45, Offset 998.
 -- 無機質な有珠の声に、青子はぎり、と歯を噛んだ。
-  Devant la voix inhumaine d'Alice, Aoko serra la mâchoire.
+　Devant la voix inhumaine d'Alice, Aoko serra la mâchoire.
 
 }
 [sha:2acdf872248db98c0071fe85196126a28b73a65f]{
 -- Page 46, Offset 999.
 -- 彼女の言いたい事は分かっている。
-  Elle saisissait le sens de ses paroles.
+　Elle saisissait le sens de ses paroles.
 
 }
 [sha:18593ad44f61e906f2f60f4ab23e76af5cc07f87]{
 -- Page 46, Offset 1000.
 -- なにより青子自身がよく分かっている。
-  Et Aoko ne comprenait que trop bien ce qu'elle voulait dire.
+　Et Aoko ne comprenait que trop bien ce qu'elle voulait dire.
 
 }
 [sha:cf5f166bef760720faa2323ec1fd1ebe90f25810]{
 -- Page 46, Offset 1001.
 -- 学園生活の<外面|そとづら>と、今の生き方との折り合い。
-  Le compromis entre le rôle qu'elle jouait à l'école et sa façon de vivre actuelle.
+　Le compromis entre le rôle qu'elle jouait à l'école et sa façon de vivre actuelle.
 
 }
 [sha:bb2a88976938b273650fb3078f642226c252c2ff]{
 -- Page 46, Offset 1002.
 -- 現代に隠れ住むというけれど、その隠れ方が半端だと有珠は言っている。
-  C'était ainsi que l'on vivait caché à cette époque, mais Alice disait que cette manière de faire l'amenait à bâcler les choses.
+　C'était ainsi que l'on vivait caché à cette époque, mais Alice disait que cette manière de faire l'amenait à bâcler les choses.
 
 }
 [sha:fac6bbeb6bbd74499f85cd6601eee1e7d89ea776]{
 -- Page 46, Offset 1003.
 -- つまり、彼女の沈黙が語るところは―――
-  En d'autres termes, ce que voulait dire son mutisme, c'était―――
+　En d'autres termes, ce que voulait dire son mutisme, c'était―――
 
 }
 [sha:3f6e9c25597acc94948c252996dc0235061fd0fc]{
@@ -1003,19 +1003,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:fe32a3ec34b1891a606e20a572e0f754554b4b4a]{
 -- Page 47, Offset 1005.
 -- 今日の失敗はそれほど大きいものじゃない。
-  L'échec d'aujourd'hui n'était pas si important.
+　L'échec d'aujourd'hui n'était pas si important.
 
 }
 [sha:c2fb0ece363d978c017c3baa18ff1c6ed2f3a5e6]{
 -- Page 47, Offset 1006.
 -- この洋館と学園生活を秤にかけて、たまたま学園に重きをおいてミスをしただけの、小さな事件だ。
-  En partageant sa vie entre cette résidence et l'école, elle avait causé un petit accident, dû à la simple erreur qu'elle avait faite en se focalisant trop sur le lycée.
+　En partageant sa vie entre cette résidence et l'école, elle avait causé un petit accident, dû à la simple erreur qu'elle avait faite en se focalisant trop sur le lycée.
 
 }
 [sha:3c29df568e99890c59f64e702ae33b7d61644040]{
 -- Page 47, Offset 1007.
 -- ただ、今の青子の半端さを象徴する、分かりやすい心の甘さであっただけ。
-  C'était simplement le résultat de sa naïveté qui symbolisait son immaturité actuelle.
+　C'était simplement le résultat de sa naïveté qui symbolisait son immaturité actuelle.
 
 }
 [sha:7097f2c3b8b8455039e517bd9ca0843f11cc8283]{
@@ -1027,19 +1027,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:8a50cbfda13d362d9316909a228af5e2c4868fe4]{
 -- Page 48, Offset 1009.
 -- これは、私が私で決めなくちゃいけない事……』
-  C'est quelque chose que je dois décider par moi-même......』
+　C'est quelque chose que je dois décider par moi-même......』
 
 }
 [sha:434dd464abb7dea434b55ad7286b67907f6a696d]{
 -- Page 49, Offset 1010.
 -- 基礎はたった一年と半年。
-  Elle n'avait commencé les bases que depuis un an et demi.
+　Elle n'avait commencé les bases que depuis un an et demi.
 
 }
 [sha:c3670f8ec347e49ec709824d8f945e67556e0f77]{
 -- Page 49, Offset 1011.
 -- けれど予感は物心がついた時からあった。
-  Mais elle avait eu une prémonition lorsqu'elle avait acquis sa capacité de jugement :
+　Mais elle avait eu une prémonition lorsqu'elle avait acquis sa capacité de jugement :
 
 }
 [sha:494a7728fe55b145edc20617cb339b06742599c7]{
@@ -1051,19 +1051,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:f1c81cd04fce9b7d410986ea40b091cd64299fd2]{
 -- Page 49, Offset 1013.
 -- なら自分の良心も道徳も、いいかげん根負けしている頃だ。
-  Dans ce cas, il était temps que sa conscience et sa morale se rendent à l'évidence.
+　Dans ce cas, il était temps que sa conscience et sa morale se rendent à l'évidence.
 
 }
 [sha:87aabb749db0330bb1d21ed8a844a6d24a34279e]{
 -- Page 49, Offset 1014.
 -- よし、と青子は勢いよく体を起こす。
-  “Bien”, dit Aoko en se levant avec énergie.
+　“Bien”, dit Aoko en se levant avec énergie.
 
 }
 [sha:64b64d41689f895a199878d6ac3549c714dffe63]{
 -- Page 49, Offset 1015.
 -- 起きた先には、無言で視線を向ける有珠のか細い美貌だけがあった。
-  Devant elle ne se trouvait que le beau visage fin d'Alice qui la regardait en silence.
+　Devant elle ne se trouvait que le beau visage fin d'Alice qui la regardait en silence.
 
 }
 [sha:ff935399d32636c0105f7e77c314f55cf2b1b104]{
@@ -1075,7 +1075,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:f4629b57cfa6a8963053ae59cb168f62b901e767]{
 -- Page 50, Offset 1017.
 -- それでいいんでしょ？」
-  Ça t'ira comme ça ?」
+　Ça t'ira comme ça ?」
 
 }
 [sha:ae19d03f25860e2d4f893518fa15abd33afe31ad]{
@@ -1087,13 +1087,13 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:94909e718aa161fb03835fceac34a1e1d8ca158f]{
 -- Page 50, Offset 1019.
 -- それと似たような言葉をつい数時間前に聞いた気がして、ブンブンと頭を振る。
-  Ayant l'impression d'avoir entendu les mêmes mots quelques heures auparavant, Aoko secoua la tête.
+　Ayant l'impression d'avoir entendu les mêmes mots quelques heures auparavant, Aoko secoua la tête.
 
 }
 [sha:5258c5213f276f8bf14cb863c703a7b9365e7d6b]{
 -- Page 50, Offset 1020.
 -- なんだって帰ってきてまで、あんな田舎者を思い出さなくちゃいけないのか。
-  Pourquoi fallait-il qu'elle se souvienne de ce campagnard même après être rentrée ?
+　Pourquoi fallait-il qu'elle se souvienne de ce campagnard même après être rentrée ?
 
 }
 [sha:d52b244abd53e77df31548a966da144897726bcc]{
@@ -1117,7 +1117,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:af9ae490aec235b4aee39de168709c5bcc94b18b]{
 -- Page 52, Offset 1024.
 -- そっちの方が急務じゃない？」
-  Ce n'est pas plus urgent ?」
+　Ce n'est pas plus urgent ?」
 
 }
 [sha:a54f550d2f38806e6a43845a022c68e93ac411ef]{
@@ -1129,25 +1129,25 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:9c298a509623e18680883460d94bad1aa172da8b]{
 -- Page 53, Offset 1026.
 -- そんな短いやりとりが終わると、有珠は膝に置いた本へと顔を落とした。
-  Quand ce court échange se termina, Alice baissa son regard vers le livre posé sur ses genoux.
+　Quand ce court échange se termina, Alice baissa son regard vers le livre posé sur ses genoux.
 
 }
 [sha:2cc74db0707ac19909c9b32771cb713f0de674b9]{
 -- Page 53, Offset 1027.
 -- 両者にとって最も重要な話は終わった。
-  La conversation la plus importante pour toutes les deux était finie.
+　La conversation la plus importante pour toutes les deux était finie.
 
 }
 [sha:8daf91f3d370a86225906e960d7c547f0a9aa55f]{
 -- Page 53, Offset 1028.
 -- あとは普段通りの、それとなく気が合う同居人に戻るだけである。
-  Après cela, il ne leur restait plus qu'à retourner à leur attitude habituelle de deux colocataires s'entendant bien sans en avoir l'air.
+　Après cela, il ne leur restait plus qu'à retourner à leur attitude habituelle de deux colocataires s'entendant bien sans en avoir l'air.
 
 }
 [sha:52227b8670ac3c5fc09e3eff31e1a0ab063198d2]{
 -- Page 54, Offset 1029.
 -- さて、とばかりに青子はテレビのリモコンを取って電源を入れた。有珠が読書しているので、自分はブラウン管に映る<出来事|バラエティー>に途中参加しようとし、
-  Aoko saisit la télécommande et alluma la télé. Comme Alice était en pleine lecture, elle essaya de prendre en cours de route les variétés,
+　Aoko saisit la télécommande et alluma la télé. Comme Alice était en pleine lecture, elle essaya de prendre en cours de route les variétés,
 
 }
 [sha:87b67f22012053703b8ee267da475e116bb3d035]{
@@ -1159,31 +1159,31 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:bdf061133a2d4091673eb86176988773015fc8d4]{
 -- Page 55, Offset 1031.
 -- 突然、有珠がそんな声を上げて、消した。
-  quand Alice éleva soudainement la voix, puis se tut.
+　quand Alice éleva soudainement la voix, puis se tut.
 
 }
 [sha:9323a4c05e34946c86fe4d1861b25554566d42bb]{
 -- Page 55, Offset 1032.
 -- 見れば片手で口を押さえている。
-  En la regardant, on voyait qu'elle tenait sa main près de sa bouche.
+　En la regardant, on voyait qu'elle tenait sa main près de sa bouche.
 
 }
 [sha:d016c110cf94abad941eba0d8f2eec0169a85f4b]{
 -- Page 55, Offset 1033.
 -- 何かを話そうとして、それが意味の無い話だと気付くと彼女はすぐに口を閉ざしてしまう。
-  Elle avait essayé de dire quelque chose, puis, se rendant compte que ça n'avait aucun sens, s'était ravisée.
+　Elle avait essayé de dire quelque chose, puis, se rendant compte que ça n'avait aucun sens, s'était ravisée.
 
 }
 [sha:e92dc34696234b800ec75325a2048c076c8c4137]{
 -- Page 56, Offset 1034.
 -- 時々その自制が間に合わなくて、今のような仕草をする事が<希|まれ>にある。
-  De temps en temps, elle n'arrivait pas à se retenir, et comme à l'instant, elle faisait cette gestuelle.
+　De temps en temps, elle n'arrivait pas à se retenir, et comme à l'instant, elle faisait cette gestuelle.
 
 }
 [sha:69b104b7c25d27512b02f31e076066ad60871d3d]{
 -- Page 56, Offset 1035.
 -- たしか、前は『な』だったな、と思い返しながら、青子は可憐な同居人に視線を向けた。
-  Tout en se rappelant que la dernière fois, si ses souvenirs étaient corrects, elle avait commencé à dire “Qu-”, Aoko ramena son regard vers sa charmante colocataire.
+　Tout en se rappelant que la dernière fois, si ses souvenirs étaient corrects, elle avait commencé à dire “Qu-”, Aoko ramena son regard vers sa charmante colocataire.
 
 }
 [sha:2d83893fe124a63465d97f5c9f81d88b6964d87b]{
@@ -1195,7 +1195,7 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:17a1f65d820d58f155a78b5d2ef93a1996b88041]{
 -- Page 57, Offset 1037.
 -- テレビの音量を下げる青子。意志の強い目が、猫のようにいたずらっぽい光を放っていた。
-  dit Aoko en baissant le volume de la télé. Ses yeux, emplis d'une forte volonté, étincelaient d'une lueur farceuse comme celle d'un chat.
+　dit Aoko en baissant le volume de la télé. Ses yeux, emplis d'une forte volonté, étincelaient d'une lueur farceuse comme celle d'un chat.
 
 }
 [sha:1a9feb198adfce5a2840c1801f6bbf4fa2b22c7c]{
@@ -1213,19 +1213,19 @@ Pourtant, pour que ça n'arrive pas, j'avais enlevé et suturé deux ou trois co
 [sha:303760fdd56cb5ba08d3bf1dbbe7c2a92bc1bc37]{
 -- Page 58, Offset 1040.
 -- 有珠は言おうか言うまいか迷っていて、恥ずかしそうにそっぽを向いている。
-  Alice ne savait pas si elle devait le dire ou non et, gênée, détournait le regard.
+　Alice ne savait pas si elle devait le dire ou non et, gênée, détournait le regard.
 
 }
 [sha:d220e0e3c906413726b9f3e9f89f924ca1c1a320]{
 -- Page 58, Offset 1041.
 -- こういった時の彼女の表情は温かみがあって、なんだか歯痒いぐらい好感が持てた。
-  Son expression dans ces moments-là était chaleureuse et elle l'aimait au point que c'en était énervant.
+　Son expression dans ces moments-là était chaleureuse et elle l'aimait au point que c'en était énervant.
 
 }
 [sha:376c65c6b3474bbda28022b591c2e99445de363c]{
 -- Page 58, Offset 1042.
 -- たぶん今の有珠を見れば彼女の父親も、その名前がぴったり似合っていたと思えるだろうに。
-  Si son père la voyait maintenant, il penserait sûrement que le nom “<Alice|Perle>” lui allait comme un gant.
+　Si son père la voyait maintenant, il penserait sûrement que le nom “<Alice|Perle>” lui allait comme un gant.
 
 }
 [sha:887d981c09f0bf43cb794ab7067156a3454e305f]{
@@ -1243,7 +1243,7 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:4943eb5559c77a1366e9efb85ac5a35cf992144a]{
 -- Page 59, Offset 1045.
 -- 青子はうん、と頷いて先を促す。
-  “Oui”, répondit Aoko en l'invitant à continuer.
+　“Oui”, répondit Aoko en l'invitant à continuer.
 
 }
 [sha:e44b0a74151b23ed3015464b63570f67d82144e2]{
@@ -1255,37 +1255,37 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:505ec3f49767c5174b4721190fd5f52d0de593d7]{
 -- Page 60, Offset 1047.
 -- けど、どう考えてもそんな事をする理由が分からない。
-  Mais je ne comprenais pas pourquoi il faisait ça, quelle que soit la manière dont j'y pensais.
+　Mais je ne comprenais pas pourquoi il faisait ça, quelle que soit la manière dont j'y pensais.
 
 }
 [sha:0f33c73dfe4905c1fa2963c1bc355bcd2a9861be]{
 -- Page 60, Offset 1048.
 -- ……青子、人間ぐらいの大きな猫が、ひょこひょこ出前をする理由って、分かる？」
-  ...... Aoko, tu saurais pourquoi un chat de taille humaine distribuerait des repas de livraison à domicile comme si de rien n'était ?」
+　...... Aoko, tu saurais pourquoi un chat de taille humaine distribuerait des repas de livraison à domicile comme si de rien n'était ?」
 
 }
 [sha:e5015f8d0a343779f83d12df58cdd85d5506d282]{
 -- Page 61, Offset 1049.
 -- 一瞬、青子はまた、有珠の冗談になっていない冗談のたぐいだと思った。
-  Un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
+　Un instant, Aoko pensa que c'était encore une des pseudo-blagues d'Alice.
 
 }
 [sha:951c5ebe61086510866d9ddbed6781043fc63338]{
 -- Page 61, Offset 1050.
 -- いや、普通は思う。
-  Non, normalement, c'est ce qu'on penserait.
+　Non, normalement, c'est ce qu'on penserait.
 
 }
 [sha:d75d838d72c827587f7f23eae621dd5aa6c02c72]{
 -- Page 61, Offset 1051.
 -- けれど有珠は真剣に悩んでいる。
-  Mais Alice était sérieusement troublée.
+　Mais Alice était sérieusement troublée.
 
 }
 [sha:e2688455f72505ad34d17a546b52b9f8f0b86cc8]{
 -- Page 61, Offset 1052.
 -- 有珠のユーモアセンスに零点をつけたのは青子だが、これは零点にしてはわりとロマンがあるので、やっぱり有珠は見たままの事を話しているらしい。
-  C'était Aoko qui avait mis un zéro à son sens de l'humour, mais cette fois-ci, c'était bien trop romanesque pour mériter un zéro. Elle devait donc avoir raconté exactement ce qu'elle avait vu.
+　C'était Aoko qui avait mis un zéro à son sens de l'humour, mais cette fois-ci, c'était bien trop romanesque pour mériter un zéro. Elle devait donc avoir raconté exactement ce qu'elle avait vu.
 
 }
 [sha:337176b50aa548fe78e19e4a149cf034fe103166]{
@@ -1303,13 +1303,13 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:0c3b350037f5561ce8457d9ce34be7db0592ce95]{
 -- Page 62, Offset 1055.
 -- ただ、理由が分からないから聞いてるの。
-  Je pose la question juste parce que je n'en comprends pas l'intérêt.
+　Je pose la question juste parce que je n'en comprends pas l'intérêt.
 
 }
 [sha:b05e4adf1fda83915ee47d69bc3f41c38f6733ac]{
 -- Page 62, Offset 1056.
 -- わざわざ精巧な猫のぬいぐるみを着て、出前の<店屋物|てんやもの>を届けに行く事って、そんなに簡単かしらね」
-  Je me demande s'il est facile d'effectuer des livraisons de repas à domicile tout en portant pour cela un costume de chat fait sur mesure ?」
+　Je me demande s'il est facile d'effectuer des livraisons de repas à domicile tout en portant pour cela un costume de chat fait sur mesure ?」
 
 }
 [sha:e36ade9530c5c7fb7e71fd05ef0faaa1dfacd380]{
@@ -1321,7 +1321,7 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:294e4e802f58a3a0f24a1cf95183d12fa49ff2b0]{
 -- Page 63, Offset 1058.
 -- 青子の言葉に、有珠も少し頷く。
-  Alice acquiesça légèrement aux propos d'Aoko.
+　Alice acquiesça légèrement aux propos d'Aoko.
 
 }
 [sha:a852281392d9d8003fdc64095f73692634470227]{
@@ -1333,13 +1333,13 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:1cdac1e9aa4636c96303d15727784bfd04fc5c07]{
 -- Page 64, Offset 1060.
 -- 私だったら、見かけたら声かけて理由を<訊|たず>ねただろうけど」
-  Enfin, si c'était moi qui l'avais croisé, je serais allée à sa rencontre et lui aurais demandé de s'expliquer.」
+　Enfin, si c'était moi qui l'avais croisé, je serais allée à sa rencontre et lui aurais demandé de s'expliquer.」
 
 }
 [sha:9b4deba7a47b7016ab01b02919b38cf8caf48683]{
 -- Page 64, Offset 1061.
 -- その言葉に、有珠は少しだけ顔を背けた。
-  À ces mots, Alice détourna légèrement le regard.
+　À ces mots, Alice détourna légèrement le regard.
 
 }
 [sha:91786fcb6af605c118ff6c80ac6ab9b700a673a1]{
@@ -1351,49 +1351,49 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:dd1547c0f6f7a55193f844077661e629bfc0875f]{
 -- Page 65, Offset 1063.
 -- ……で、今日の夕飯どうする？
-  ...... Et sinon, qu'est-ce qu'on prépare pour le dîner ?
+　...... Et sinon, qu'est-ce qu'on prépare pour le dîner ?
 
 }
 [sha:2fb02697498a1c4a4f0bfa95bb5127532f4403d2]{
 -- Page 65, Offset 1064.
 -- せっかく話が出たし、私らも<店屋物|てんやもの>にしようか？」
-  Puisqu'on en parle, pourquoi ne pas se faire livrer le repas ?」
+　Puisqu'on en parle, pourquoi ne pas se faire livrer le repas ?」
 
 }
 [sha:ac35c32110c356e3cdcb61bdb90dbbe0714875ca]{
 -- Page 66, Offset 1065.
 -- 出前好きな青子は嬉々として言う。
-  dit joyeusement Aoko qui aimait la livraison de repas à domicile.
+　dit joyeusement Aoko qui aimait la livraison de repas à domicile.
 
 }
 [sha:6b094f93e9a76e112fc2056b1df03cf3fb33401f]{
 -- Page 66, Offset 1066.
 -- この館において夕食は当番制でもなんでもなく、気が向いたほうが二人分用意する、という実にアバウトな方式が採用されていた。
-  Dans cette résidence, on s'organisait au jour le jour pour les corvées, et un système pour le moins approximatif avait été adopté, selon lequel celle qui finissait par faire le repas préparait à manger pour deux.
+　Dans cette résidence, on s'organisait au jour le jour pour les corvées, et un système pour le moins approximatif avait été adopté, selon lequel celle qui finissait par faire le repas préparait à manger pour deux.
 
 }
 [sha:e19187e0374ac4dc6ab4f8c764983ad71ac56268]{
 -- Page 66, Offset 1067.
 -- 下手をすると一週間夕飯なしが続くという展開もあるが、ふたりにとってはこれが一番居心地が良いのだ。
-  Comme c'était plus au gré de leurs envies qu'autre chose, il pouvait arriver qu'elles restent toute une semaine sans dîner, mais pour ces deux-là, cela restait la meilleure façon de procéder.
+　Comme c'était plus au gré de leurs envies qu'autre chose, il pouvait arriver qu'elles restent toute une semaine sans dîner, mais pour ces deux-là, cela restait la meilleure façon de procéder.
 
 }
 [sha:01bd998c1685bc8f71d2506f0ad517515b65ce30]{
 -- Page 67, Offset 1068.
 -- 調理の手間を惜しんでか、それとも単純に出前が好きなのか。
-  Soit ça leur économisait du travail en cuisine, soit elles aimaient simplement les livraisons.
+　Soit ça leur économisait du travail en cuisine, soit elles aimaient simplement les livraisons.
 
 }
 [sha:872da37003c3588c9812e716fa24c8938ff05d88]{
 -- Page 67, Offset 1069.
 -- 今夜のような展開は珍しくもなく、結果、三咲町の食事処からこの館は要注意扱いされていた。
-  Les situations telles que ce soir-là n'étaient pas rares, résultat : le manoir recevait un traitement spécial de la part des établissements de restauration du vieux quartier de Misaki.
+　Les situations telles que ce soir-là n'étaient pas rares, résultat : le manoir recevait un traitement spécial de la part des établissements de restauration du vieux quartier de Misaki.
 
 }
 [sha:19e41e0be6e5811a1f3c696ec667a657c2961fa6]{
 -- Page 67, Offset 1070.
 -- 決まって夜遅く……人気も絶えた夜八時過ぎ……に、こんな坂の上まで来いというのだから、彼らの憂鬱も当然である。
-  C'était toujours tard en soirée... à 8 heures passées, quand l'heure de pointe venait de se terminer... qu'on disait aux livreurs qu'il fallait monter en haut de cette colline. Leur cafard était donc tout naturel.
+　C'était toujours tard en soirée... à 8 heures passées, quand l'heure de pointe venait de se terminer... qu'on disait aux livreurs qu'il fallait monter en haut de cette colline. Leur cafard était donc tout naturel.
 
 }
 [sha:ecef83c995adb0f021a46b31946584efa1fcf96b]{
@@ -1405,7 +1405,7 @@ Aujourd'hui, quand je suis rentrée, j'ai vu quelque chose d'étrange, et je pen
 [sha:e08c686ddcc7ee1c455c981fe188678267a1d3b9]{
 -- Page 68, Offset 1072.
 -- ポーカーのカードのように並べられた店々のお品書きを取り出し、まだ見ぬ夕食にご満悦の生徒会長。
-  La présidente du conseil étudiant prit le catalogue des échoppes, rangées comme des cartes de poker, et chercha avec exultation un dîner encore jamais vu.
+　La présidente du conseil étudiant prit le catalogue des échoppes, rangées comme des cartes de poker, et chercha avec exultation un dîner encore jamais vu.
 
 }
 [sha:67676ab8b8b94a07b053fa5f873535ec133c264a]{
@@ -1423,25 +1423,25 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:b88ccd409a7177b2b4ca0f923ad87bbdecc15b49]{
 -- Page 69, Offset 1075.
 -- その言葉で青子の体は凍りついた。
-  À ces mots, Aoko se figea.
+　À ces mots, Aoko se figea.
 
 }
 [sha:8b3a1f7ddddfd9dbedb9acdd76b6f87eebcac739]{
 -- Page 69, Offset 1076.
 -- 出前物は最低二品、つまり共同者がいなければ運ばれないのだ。
-  Les plats à emporter devaient être au moins au nombre de deux : en d'autres termes, si elle n'avait pas de partenaire, ils ne livreraient rien.
+　Les plats à emporter devaient être au moins au nombre de deux : en d'autres termes, si elle n'avait pas de partenaire, ils ne livreraient rien.
 
 }
 [sha:4603273d585348021e6ed21e925c38a78ec281f8]{
 -- Page 69, Offset 1077.
 -- たった一品の蕎麦で人を呼びつけるようなお姫さまに、世間は果てしなく冷たい。
-  Et les gens n'étaient jamais enclins à satisfaire les caprices d'une princesse qui les appelait pour un simple plat de soba.
+　Et les gens n'étaient jamais enclins à satisfaire les caprices d'une princesse qui les appelait pour un simple plat de soba.
 
 }
 [sha:2e2766716c668a164ee5f82513d1f509a316dade]{
 -- Page 70, Offset 1078.
 -- 余談だが、実は坂の上対策として
-  C'était une autre histoire, mais Aoko et Alice ne savaient pas encore qu'une contre-mesure diabolique contre le haut de la colline, stipulant :
+　C'était une autre histoire, mais Aoko et Alice ne savaient pas encore qu'une contre-mesure diabolique contre le haut de la colline, stipulant :
 
 }
 [sha:80b036bfe6b46235e8a446f9382ffe18875f9c89]{
@@ -1453,7 +1453,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:cd12a0c675eadd52f60a4f698015662f897b97cf]{
 -- Page 70, Offset 1080.
 -- なんて魔のルールが可決されつつある事を、青子たちはまだ知らない。
-  était sur le point d'être adoptée.
+　était sur le point d'être adoptée.
 
 }
 [sha:b905efb46d4318b0fbd2176b4c9d45d8b00f2f8e]{
@@ -1465,19 +1465,19 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:edc778311d9bf93f21f329df5de75d4c1b4b7f0d]{
 -- Page 71, Offset 1082.
 -- ふん、だから帰ってくるのが遅かったのね!?
-  Alors c'est pour ça que tu es rentrée en retard, hein ?!
+　Alors c'est pour ça que tu es rentrée en retard, hein ?!
 
 }
 [sha:4573a48aa0b7b95f352ddb0e76ea744b6e71cf30]{
 -- Page 71, Offset 1083.
 -- 帰宅部、学校までバス・徒歩込みで片道二十分のあんたが、なんで五時以降に帰ってくんのか考えるべきだったわ！」
-  J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes pour aller à l'école, en prenant en compte le temps de trajet en bus et à pied.」
+　J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes pour aller à l'école, en prenant en compte le temps de trajet en bus et à pied.」
 
 }
 [sha:06a3d7d4abf7d64bf3e0d09e99563216e40d37b7]{
 -- Page 71, Offset 1084.
 -- しかし悲しいかな、その時の青子は自分が眠った事にも気付かないほど寝惚けていたのだった。
-  Malheureusement, à ce moment-là, Aoko était à ce point dans la lune qu'elle ne s'était pas rendu compte qu'elle s'était endormie.
+　Malheureusement, à ce moment-là, Aoko était à ce point dans la lune qu'elle ne s'était pas rendu compte qu'elle s'était endormie.
 
 }
 [sha:9fb3569cc0f8665b044b4827e21793c99778b653]{
@@ -1489,25 +1489,25 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:d1d29958e809f52e069df2c1312b3e8741040da7]{
 -- Page 72, Offset 1086.
 -- 私だって、この前の外食の時は有珠の分も買ってきたじゃない」
-  Je t'ai bien acheté quelque chose la dernière fois que j'ai mangé à l'extérieur !」
+　Je t'ai bien acheté quelque chose la dernière fois que j'ai mangé à l'extérieur !」
 
 }
 [sha:4466491088dc55c96f048ca1b25f150fd3cf278b]{
 -- Page 73, Offset 1087.
 -- どこまで本気なのか不明なのだけれど、青子はそれなりに怒っている。
-  Elle ne savait pas à quel point elle était sérieuse, mais Aoko était plutôt en colère.
+　Elle ne savait pas à quel point elle était sérieuse, mais Aoko était plutôt en colère.
 
 }
 [sha:aa6c7dfb0bd1578f71619a7f0719bbb3cf21f740]{
 -- Page 73, Offset 1088.
 -- なにしろ朝は空腹で目が覚め、電話で呼び出されて以来、紅茶しか口にしていない。これでお<腹|なか>が鳴らないのは奇跡に近かった。
-  Après tout, depuis qu'elle s'était réveillée le ventre vide et était sortie après l'appel de l'école, elle n'avait rien avalé d'autre que du thé. C'était presque un miracle si son estomac ne gargouillait pas avec ça.
+　Après tout, depuis qu'elle s'était réveillée le ventre vide et était sortie après l'appel de l'école, elle n'avait rien avalé d'autre que du thé. C'était presque un miracle si son estomac ne gargouillait pas avec ça.
 
 }
 [sha:976b631e8999e140fb8f9e8269cd3f4a6d07fe64]{
 -- Page 73, Offset 1089.
 -- まあ、それはそれで自分が悪いとして、ついでに別件として、さっきいじめられた反撃とばかりに青子は一気にまくし立てて、
-  Enfin, peut-être que c'était bien de sa faute, mais pour en rajouter, Aoko subissait le contrecoup de l'intimidation d'Alice.
+　Enfin, peut-être que c'était bien de sa faute, mais pour en rajouter, Aoko subissait le contrecoup de l'intimidation d'Alice.
 
 }
 [sha:614af135160027d1f0bcfa48992cd6473c231fe6]{
@@ -1519,13 +1519,13 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:8c13c7a8f4e4ea2ea5538206c866eff75373e7b7]{
 -- Page 74, Offset 1091.
 -- あなたが都心に出向いた時、夕食にお寿司を食べてきたのに、お土産はなぜかコンビニエンスストアのビニール袋だったって話？」
-  Quand tu as fait un tour au centre-ville et mangé des sushis pour me ramener des soba qui, pour une mystérieuse raison, se trouvaient dans un sac plastique de la supérette ?」
+　Quand tu as fait un tour au centre-ville et mangé des sushis pour me ramener des soba qui, pour une mystérieuse raison, se trouvaient dans un sac plastique de la supérette ?」
 
 }
 [sha:93cf292cfcad0db58215252985b3d6466099a68e]{
 -- Page 74, Offset 1092.
 -- <薮蛇|やぶへび>だった。
-  Retour à l'envoyeur.
+　Retour à l'envoyeur.
 
 }
 [sha:8f90fa2d928b1db5849905dc043be929c3948067]{
@@ -1543,25 +1543,25 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:d14330afbb86d03eaac22cd748784dfcc72d5303]{
 -- Page 76, Offset 1095.
 -- 有珠の視線は冷たい。
-  Le regard d'Alice était glacial.
+　Le regard d'Alice était glacial.
 
 }
 [sha:1638f15616d0c1219b0c993ddea5285bc1a0e3f7]{
 -- Page 76, Offset 1096.
 -- たしかに、あの時もくもくとコンビニ弁当を食べる有珠の横で回るお寿司の話をしたのは失敗だった。
-  C'est sûr qu'à ce moment-là, tourner autour d'Alice qui mangeait un panier-repas de la supérette en lui parlant des sushis tournants était une erreur.
+　C'est sûr qu'à ce moment-là, tourner autour d'Alice qui mangeait un panier-repas de la supérette en lui parlant des sushis tournants était une erreur.
 
 }
 [sha:f3804d3d436f403e5aa5628f79d4dc7baa7a8c38]{
 -- Page 76, Offset 1097.
 -- だが新しい物好きの青子にとって、近頃オープンしだした『回転寿司屋』という驚異について考察する欲求は抑えられなかったのだ。
-  Mais Aoko, qui aimait les choses nouvelles, n'avait pu retenir son désir d'analyser la merveille qu'était le “Kaiten Sushi” qui venait d'ouvrir.
+　Mais Aoko, qui aimait les choses nouvelles, n'avait pu retenir son désir d'analyser la merveille qu'était le “Kaiten Sushi” qui venait d'ouvrir.
 
 }
 [sha:8c37f18cf5f4fb3878db10c846a1a05cfe377dee]{
 -- Page 76, Offset 1098.
 -- 正直なのも場合によっては罪になる。
-  Dans certaines circonstances, être honnête pouvait devenir un péché.
+　Dans certaines circonstances, être honnête pouvait devenir un péché.
 
 }
 [sha:324ce116fd31575b000c3377d5acb07992b7d4a1]{
@@ -1573,13 +1573,13 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:824a8189565f3bad812bfee9dd0d41fb5d94abc4]{
 -- Page 77, Offset 1100.
 -- これといった否定の意を示さず、本に視線を戻す有珠。
-  Ne rejetant pas l'idée, Alice retourna à son livre.
+　Ne rejetant pas l'idée, Alice retourna à son livre.
 
 }
 [sha:d57825d7c1da840696bc82ebc46656bbe63c0966]{
 -- Page 77, Offset 1101.
 -- 肯定の意も示さなかったのが少し怖い。
-  C'était un peu inquiétant qu'elle n'ait pas formellement agréé non plus.
+　C'était un peu inquiétant qu'elle n'ait pas formellement agréé non plus.
 
 }
 [sha:1bbfa935a780f8386a6b13534655c0cbfa9891a1]{
@@ -1591,13 +1591,13 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:19a6c68436ad98428a1db64f7145b0389c059985]{
 -- Page 78, Offset 1103.
 -- 大人しく台所に立って料理の腕を<磨|みが>くとしましょう」
-  Je vais rester bien calmement dans la cuisine et améliorer mes aptitudes de cuisinière.」
+　Je vais rester bien calmement dans la cuisine et améliorer mes aptitudes de cuisinière.」
 
 }
 [sha:de06b68860f2698136e0b33f989b3ac5f2ad1740]{
 -- Page 78, Offset 1104.
 -- 誰に言うのでもなく立ち上がる青子。
-  dit Aoko en ne parlant à personne en particulier.
+　dit Aoko en ne parlant à personne en particulier.
 
 }
 [sha:cd833e8e56242aa3efc82c327167e5b53c64df15]{
@@ -1609,25 +1609,25 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:1ac4ae72254bffafaf7a501d2f5681a50de0f8df]{
 -- Page 79, Offset 1106.
 -- ぴたり、と本の<頁|ページ>をめくる手がとまる。
-  La main d'Alice qui tournait justement une page du livre s'arrêta.
+　La main d'Alice qui tournait justement une page du livre s'arrêta.
 
 }
 [sha:129cb74543b7d2714a4034b231b90847ddb39d3a]{
 -- Page 80, Offset 1107.
 -- ここまで青子の相手をしながら読書していたけど、それももう限界、と本は閉じられた。
-  Jusqu'à maintenant, elle faisait la conversation avec Aoko tout en lisant, mais décidant qu'elle en était à sa limite, elle le referma.
+　Jusqu'à maintenant, elle faisait la conversation avec Aoko tout en lisant, mais décidant qu'elle en était à sa limite, elle le referma.
 
 }
 [sha:1ec1de7be50a3eda99a2181bc31992aab30c991a]{
 -- Page 80, Offset 1108.
 -- 有珠は本を片手に立ち上がると、スタスタと居間を横断。
-  Son livre à la main, Alice se leva et traversa vivement le salon.
+　Son livre à la main, Alice se leva et traversa vivement le salon.
 
 }
 [sha:1ab644100902b770812f9caf5078782f6fa75c08]{
 -- Page 80, Offset 1109.
 -- 扉に着いたところで青子へと振り向いた。
-  Arrivée à la porte, elle se retourna vers Aoko.
+　Arrivée à la porte, elle se retourna vers Aoko.
 
 }
 [sha:32e875db76446b09ade15506dadeffeca83a049b]{
@@ -1645,13 +1645,13 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:e14765ce65efa71159c03f27725031e66a99b5b1]{
 -- Page 81, Offset 1112.
 -- 迫力に押されて、遠慮がちに頷く青子。
-  acquiesça timidement Aoko.
+　acquiesça timidement Aoko.
 
 }
 [sha:20cab567aad2e82b8c25992a8d1442b37e04fc5b]{
 -- Page 81, Offset 1113.
 -- 有珠は何でもない事のように、
-  Alice répondit simplement, comme si de rien n'était :
+　Alice répondit simplement, comme si de rien n'était :
 
 }
 [sha:33d87542155a88f5631572b6f67f8e6b4f91643c]{
@@ -1663,6 +1663,6 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
 [sha:0888b4109cec0d2cd0c9d884fd5b647e4f9fadb2]{
 -- Page 81, Offset 1115.
 -- 簡潔に答えて、居間から立ち去っていった。
-  et elle quitta le salon.
+　et elle quitta le salon.
 
 }

@@ -1,37 +1,37 @@
 [sha:8ae497ee1a02ba158bc4c49e22485cb139328863]{
 -- Page 0, Offset 3451.
 -- しかし。
-  Cependant,
+　Cependant,
 
 }
 [sha:0bac2d771c1fff71d73c796a6a116a777c8541a9]{
 -- Page 0, Offset 3452.
 -- とどめを刺されたからといって、いつまでも伏せっている蒼崎青子ではなかった。
-  Aozaki Aoko n'avait pas pour habitude de rester indéfiniment prostrée simplement parce qu'on lui avait porté un coup critique.
+　Aozaki Aoko n'avait pas pour habitude de rester indéfiniment prostrée simplement parce qu'on lui avait porté un coup critique.
 
 }
 [sha:e8e59dcdec652aff0ceb3fe546b60690821e1223]{
 -- Page 0, Offset 3453.
 -- 早々に夕食の片付けを済ませ、はじめのお風呂を有珠に譲って居間を後にする。
-  Elle débarrassa rapidement la table, laissa Alice prendre son bain en premier et quitta le salon.
+　Elle débarrassa rapidement la table, laissa Alice prendre son bain en premier et quitta le salon.
 
 }
 [sha:2f17900fdda9b273260c8e8fa1a0770772b01bb4]{
 -- Page 0, Offset 3454.
 -- 洋館では人のいない場所に電灯はつけない決まりなので、明かりがついているのは居間と彼女たちの部屋ぐらいだ。
-  Dans le manoir, il était d'usage de laisser la lumière éteinte là où personne ne se trouvait, et actuellement, elle n'était allumée que dans le salon et les chambres des résidentes.
+　Dans le manoir, il était d'usage de laisser la lumière éteinte là où personne ne se trouvait, et actuellement, elle n'était allumée que dans le salon et les chambres des résidentes.
 
 }
 [sha:55c420745024a4f0a987a7a77c3e5df096ff52ba]{
 -- Page 1, Offset 3455.
 -- 二階は暗闇に包まれている。
-  Le premier étage était plongé dans les ténèbres.
+　Le premier étage était plongé dans les ténèbres.
 
 }
 [sha:ded52abc8a701789bda0231597d6bb4d11c0b4d2]{
 -- Page 1, Offset 3456.
 -- 長い、月明かりだけが頼りの廊下をスタスタと移動して、青子は二階東側の最奥にある自室に辿り着いた。
-  Se déplaçant prestement dans le long couloir que seule éclairait la lune, Aoko atteignit sa chambre au fond du premier étage de l'aile est.
+　Se déplaçant prestement dans le long couloir que seule éclairait la lune, Aoko atteignit sa chambre au fond du premier étage de l'aile est.
 
 }
 [sha:0ac2a1fe532c09b61dc73005258b1ca3487de157]{
@@ -43,19 +43,19 @@
 [sha:227a7488620ce2deb5e4ac60af08ae95bb01c6f7]{
 -- Page 2, Offset 3458.
 -- やっぱり、<騙|だま>し<討|う>ちは気にくわない」
-  je n'aime décidément pas les attaques en traître.」
+　je n'aime décidément pas les attaques en traître.」
 
 }
 [sha:5fe3bc10441eafddcb8c6b37234debfa34905631]{
 -- Page 2, Offset 3459.
 -- 廊下を歩きながら、いや、居間からずっと考えていたのか。
-  Elle y réfléchissait en marchant dans le couloir, non, depuis le salon.
+　Elle y réfléchissait en marchant dans le couloir, non, depuis le salon.
 
 }
 [sha:55c919940b00830c93fe571c3facfac6ecd7d467]{
 -- Page 2, Offset 3460.
 -- 部屋に入るなり、青子はきっぱりと断言した。
-  Une fois entrée dans sa chambre, Aoko conclut avec conviction :
+　Une fois entrée dans sa chambre, Aoko conclut avec conviction :
 
 }
 [sha:71763f499258de55645aa2a4c9ccd2bb5ab2ab91]{
@@ -67,13 +67,13 @@
 [sha:6a30a390e2f73b3720c96e9a0d1afdb1198105c1]{
 -- Page 3, Offset 3462.
 -- 情けにかられての精一杯の譲歩、ではない。
-  Ce n'était pas une concession qui résultait de sa compassion.
+　Ce n'était pas une concession qui résultait de sa compassion.
 
 }
 [sha:155d4cb9664a63eeaaf5ad27fa8b9821b958fb61]{
 -- Page 3, Offset 3463.
 -- 単に、彼女にとってそういうあり方が<当然|スタンダード>というだけだ。
-  C'était simplement que, pour elle, cette façon de faire était naturelle.
+　C'était simplement que, pour elle, cette façon de faire était naturelle.
 
 }
 [sha:ae8fe456cca143b518ff89cf1f1f5a13ff7dcb6a]{
@@ -85,7 +85,7 @@
 [sha:a004a47960bd0396c15ecff9ad7531faa5b6dbf5]{
 -- Page 4, Offset 3465.
 -- 自分の意志を確認して、隣室の書斎に向かう。
-  Après avoir confirmé son choix, elle se dirigea vers l'étude dans la chambre voisine.
+　Après avoir confirmé son choix, elle se dirigea vers l'étude dans la chambre voisine.
 
 }
 [sha:adc11122233a3a023132f7a63cd8f18faabda081]{
@@ -97,49 +97,49 @@
 [sha:1a3d8e962042140bc331c90fafd468dbd3a6315b]{
 -- Page 5, Offset 3467.
 -- 無数の本の中から迷わず一冊を抜き取る。
-  Elle choisit sans hésiter un volume parmi ses innombrables livres.
+　Elle choisit sans hésiter un volume parmi ses innombrables livres.
 
 }
 [sha:9f30a54a9140cb25b7ac7c24e9f7ef5730d74daf]{
 -- Page 5, Offset 3468.
 -- 蒼崎の家から運びこんだ入門書は、月曜から土曜と六つの<棚|カテゴリ>に振り分けられていた。
-  Les manuels qu'elle avait rapportés de la maison des Aozaki étaient rangés en six catégories allant du lundi au samedi.
+　Les manuels qu'elle avait rapportés de la maison des Aozaki étaient rangés en six catégories allant du lundi au samedi.
 
 }
 [sha:5eb97a24b2a00fdd344bda3e4f0bacb6e1a9c41d]{
 -- Page 6, Offset 3469.
 -- 青子は蔵書を項目、分類、用途に分けておおまかに記憶している。
-  Aoko avait classé les ouvrages de sa bibliothèque personnelle selon leurs catégories, genres et utilités, et elle en avait plus ou moins retenu la classification.
+　Aoko avait classé les ouvrages de sa bibliothèque personnelle selon leurs catégories, genres et utilités, et elle en avait plus ou moins retenu la classification.
 
 }
 [sha:84afe3f64877ef33bc5453f0cf1c6a34ab81991d]{
 -- Page 6, Offset 3470.
 -- 必要な知識、資料の検索には時間はとらない。
-  Elle trouvait n'importe quel document ou information en un rien de temps.
+　Elle trouvait n'importe quel document ou information en un rien de temps.
 
 }
 [sha:fa40663e22ed140b6f687bee34808edd5ccedbde]{
 -- Page 6, Offset 3471.
 -- 書斎の主として最低限の務めである。
-  En tant que propriétaire de l'étude, c'était bien le minimum qu'elle se devait de faire.
+　En tant que propriétaire de l'étude, c'était bien le minimum qu'elle se devait de faire.
 
 }
 [sha:7a5a268c2df0bde2a336167d307ad90071f16144]{
 -- Page 7, Offset 3472.
 -- ……などと偉ぶっても、所詮はちっぽけな書斎の管理のみ。
-  ...... Du moins, elle s'en vantait, mais en définitive, il ne s'agissait que de gérer une petite étude.
+　...... Du moins, elle s'en vantait, mais en définitive, il ne s'agissait que de gérer une petite étude.
 
 }
 [sha:032a76310a56b6ca98ab4e13da2e4b520228fff6]{
 -- Page 7, Offset 3473.
 -- 別館にある図書室は青子も有珠もお手上げの魔窟だ。
-  La bibliothèque qui se trouvait dans le bâtiment annexe était, pour Aoko comme pour Alice, une véritable caverne d'Ali Baba qu'elles révéraient profondément.
+　La bibliothèque qui se trouvait dans le bâtiment annexe était, pour Aoko comme pour Alice, une véritable caverne d'Ali Baba qu'elles révéraient profondément.
 
 }
 [sha:cacd08a6e0defb749df256dd509dcbd06a3b07de]{
 -- Page 7, Offset 3474.
 -- もしこの書斎だけで用が足りないのなら、有珠に声をかけて別館に<赴|おもむ>くしかない。
-  Si son étude personnelle ne suffisait pas, elle devrait se résoudre à demander à Alice de pouvoir se rendre dans le bâtiment annexe.
+　Si son étude personnelle ne suffisait pas, elle devrait se résoudre à demander à Alice de pouvoir se rendre dans le bâtiment annexe.
 
 }
 [sha:ce2eb20ee94436a0f12430e46d353947b3c41cf5]{
@@ -151,25 +151,25 @@
 [sha:fe7c0d7ac57af0e7e8a4227ad632a60694e65617]{
 -- Page 8, Offset 3476.
 -- 緑色の、分厚い装丁の本を机に置いて、椅子に座る。
-  Elle posa le livre vert à la reliure volumineuse sur le bureau, et s'assit sur la chaise.
+　Elle posa le livre vert à la reliure volumineuse sur le bureau, et s'assit sur la chaise.
 
 }
 [sha:32035d2ce2902bff747466503135dd5e002889ee]{
 -- Page 8, Offset 3477.
 -- 頑丈で硬質で温かみのない机。
-  C'était un bureau robuste, dur et froid.
+　C'était un bureau robuste, dur et froid.
 
 }
 [sha:1ef0f5a30027cb5df97a75e4c33e8eb6f44d6db1]{
 -- Page 8, Offset 3478.
 -- まだ年若い少女が愛用する物ではないが、青子はこの洗練されすぎて骨しかないような豪華さが好きだった。
-  Ce n'était pas le genre de meuble qui plaisait le plus aux jeunes filles en général, mais Aoko aimait sa sobriété et son charme imposant.
+　Ce n'était pas le genre de meuble qui plaisait le plus aux jeunes filles en général, mais Aoko aimait sa sobriété et son charme imposant.
 
 }
 [sha:60a1fbdb40bcc9c49dbafd100082629e325af9a2]{
 -- Page 8, Offset 3479.
 -- 古びた本のページが、その机の上ではらりとめくられる。
-  Elle tournait avec précaution les pages du vieux livre posé sur le bureau.
+　Elle tournait avec précaution les pages du vieux livre posé sur le bureau.
 
 }
 [sha:f779e288c5314f92c0ec6c5c34717b1740313570]{
@@ -187,25 +187,25 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:65598bc76e5a4db36fefa269332d1f3f34a214df]{
 -- Page 9, Offset 3482.
 -- たとえば山奥。
-  Par exemple, le fin fond des montagnes.
+　Par exemple, le fin fond des montagnes.
 
 }
 [sha:b2319fb6bbb61f3110605e2e1ad3597f2878ae17]{
 -- Page 9, Offset 3483.
 -- たとえば林中。
-  Ou bien, les bois.
+　Ou bien, les bois.
 
 }
 [sha:f701377acafff0a22e416f179c139a79ac079328]{
 -- Page 9, Offset 3484.
 -- たとえば、生徒のいない深夜の校舎。
-  Ou encore, l'établissement tard dans la nuit, déserté par ses élèves.
+　Ou encore, l'établissement tard dans la nuit, déserté par ses élèves.
 
 }
 [sha:3ed3b7f9f00daa2241d22e085e26223480dfef10]{
 -- Page 9, Offset 3485.
 -- 場所自体に魔術をかけなくても、よっぽど運が悪くないかぎり誰もやってこない場所が望ましい。
-  Elle souhaitait un endroit où, sauf si elle n'avait vraiment pas de chance, personne ne viendrait même si elle n'utilisait pas de Barrière.
+　Elle souhaitait un endroit où, sauf si elle n'avait vraiment pas de chance, personne ne viendrait même si elle n'utilisait pas de Barrière.
 
 }
 [sha:c719d9eea68529b6654894e317a2a1a53fd8b681]{
@@ -217,91 +217,91 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:7cad166b98942d27aa326ef01098fc151d868985]{
 -- Page 10, Offset 3487.
 -- ぶつぶつと自分好みの、初歩的な術式はないものかとページをめくる青子。
-  se plaignit à voix basse Aoko, tournant les pages à la recherche d'un sort rudimentaire qui lui conviendrait.
+　se plaignit à voix basse Aoko, tournant les pages à la recherche d'un sort rudimentaire qui lui conviendrait.
 
 }
 [sha:0275de72dff24e670bc679e812129645fc18fe63]{
 -- Page 10, Offset 3488.
 -- 言うまでもなく、彼女が探しているのは昨夜の目撃者を始末する方法だ。
-  Il allait sans dire que ce qu'elle recherchait était un moyen de réduire au silence le témoin de la nuit précédente.
+　Il allait sans dire que ce qu'elle recherchait était un moyen de réduire au silence le témoin de la nuit précédente.
 
 }
 [sha:7f5d699419b29ef7af0a4ee746d3425a155baf4c]{
 -- Page 11, Offset 3489.
 -- 魔術は万能ではあるが有限である。
-  La Magie n'est pas omnipotente.
+　La Magie n'est pas omnipotente.
 
 }
 [sha:136d18eb90b349441afe38c03898edc93bdf471d]{
 -- Page 11, Offset 3490.
 -- 基本的に、<地上|ここ>にある物、<現実|ここ>で起きる事を、実現時間や必要経費を多少無視して発現させるだけのものだ。
-  En réalité, on ne fait que provoquer l'apparition de choses qui existent, qui se produisent dans la réalité, mais en ignorant jusqu'à un certain point les matériaux nécessaires et le temps d'exécution.
+　En réalité, on ne fait que provoquer l'apparition de choses qui existent, qui se produisent dans la réalité, mais en ignorant jusqu'à un certain point les matériaux nécessaires et le temps d'exécution.
 
 }
 [sha:d3ea50f096eca017e6f00a55317c5acbe6a7582e]{
 -- Page 11, Offset 3491.
 -- この<宇宙|せかい>で起きえない現象は、魔術では発現できない。
-  Les phénomènes qui n'ont pas lieu dans cet univers ne peuvent se manifester d'aucune façon, même par Magie.
+　Les phénomènes qui n'ont pas lieu dans cet univers ne peuvent se manifester d'aucune façon, même par Magie.
 
 }
 [sha:3cd661654c7a5123a8a458dcdd761a87e5b03a5a]{
 -- Page 11, Offset 3492.
 -- 要はショートカットを使いまくった等価交換だ。
-  Pour simplifier, c'est un échange équivalent qui utilise des raccourcis à foison.
+　Pour simplifier, c'est un échange équivalent qui utilise des raccourcis à foison.
 
 }
 [sha:e1e217b160744566b6a0be913d750a96e33fca05]{
 -- Page 12, Offset 3493.
 -- 人の手で可能となる現象を、個人の力で実行する―――
-  Réaliser, avec le pouvoir d'une seule personne, des phénomènes techniquement possibles par la main des hommes―――
+　Réaliser, avec le pouvoir d'une seule personne, des phénomènes techniquement possibles par la main des hommes―――
 
 }
 [sha:14163911edb2f838d3f1bb0b5e463edc7253f57e]{
 -- Page 12, Offset 3494.
 -- それが一般的な魔術のあり方である。
-  C'est le fonctionnement général de la Magie.
+　C'est le fonctionnement général de la Magie.
 
 }
 [sha:10de96c34c361bfdbd7e6de4adb0bdfa973f2701]{
 -- Page 12, Offset 3495.
 -- 単純な話、その気になれば巨大な湖をこの洋館に持ってくる事もできる。
-  Pour parler plus simplement, il était possible pour Aoko, si l'envie lui en prenait, d'apporter un énorme lac jusqu'à cette résidence.
+　Pour parler plus simplement, il était possible pour Aoko, si l'envie lui en prenait, d'apporter un énorme lac jusqu'à cette résidence.
 
 }
 [sha:396e1a45b98a2476294b3515bc5e07b7c0b73418]{
 -- Page 12, Offset 3496.
 -- けれど、<こ|・><の|・><世|・><に|・><な|・><い|・><も|・><の|・>を持ってくるコトは、たとえ小指の先ほどであろうと許されない。
-  Mais amener dans ce monde quelque chose n'existant pas, même de la taille d'un petit doigt, n'est pas permis.
+　Mais amener dans ce monde quelque chose n'existant pas, même de la taille d'un petit doigt, n'est pas permis.
 
 }
 [sha:8a50ddb02b3bc52defe54f2e62ccb924ee9a1c77]{
 -- Page 13, Offset 3497.
 -- 例えば、青子単体で<戦闘機|Ｆ－１５>のアフターバーナー並みの熱量を放出できたとしても、それは魔術式によって蒼崎青子という回路が一時的に入力の変数になっただけだ。
-  Par exemple, même si elle était capable de libérer à l'aide de son seul corps une quantité d'énergie équivalente à la chaleur que dégage la postcombustion d'un F-15, c'était simplement parce que, grâce à un sort, le circuit appelé Aozaki Aoko était devenu temporairement un flux de données.
+　Par exemple, même si elle était capable de libérer à l'aide de son seul corps une quantité d'énergie équivalente à la chaleur que dégage la postcombustion d'un F-15, c'était simplement parce que, grâce à un sort, le circuit appelé Aozaki Aoko était devenu temporairement un flux de données.
 
 }
 [sha:d72cf263430d8f45ae3c6ab3b8132402c56a3576]{
 -- Page 13, Offset 3498.
 -- 導き出されるイコールそのものは、現実に起こりえる数値となる。
-  La valeur dégagée devenait ainsi une donnée numérique qui se manifestait dans la réalité.
+　La valeur dégagée devenait ainsi une donnée numérique qui se manifestait dans la réalité.
 
 }
 [sha:e327c4338cefb26a3525f99e7dae7828b8954c0f]{
 -- Page 13, Offset 3499.
 -- だが、そのイコールそのものが現実にないモノである場合、術式は成り立たない。
-  Mais si jamais cela correspondait à un phénomène qui n'existait pas réellement, le sort ne fonctionnait pas.
+　Mais si jamais cela correspondait à un phénomène qui n'existait pas réellement, le sort ne fonctionnait pas.
 
 }
 [sha:4bc4f668e94ce7ade75ff80cc5058abe406737e5]{
 -- Page 14, Offset 3500.
 -- 魔力という架空要素は、発火の瞬間だけ秩序の網をくぐり抜ける嘘のようなもの。
-  L'élément imaginaire qu'est le prana est comme un mirage, échappant aux règles de l'univers uniquement au moment de son ignition.
+　L'élément imaginaire qu'est le prana est comme un mirage, échappant aux règles de l'univers uniquement au moment de son ignition.
 
 }
 [sha:1a0074e0e42b00a8cc3447c0fd4406957b610881]{
 -- Page 14, Offset 3501.
 -- この世にないものをカタチにする事―――幻想が現実を侵す事を、この宇宙は容認しない。
-  L'univers n'accepte pas de donner forme à quelque chose qui n'existe pas dans ce monde―――qu'une chimère transgresse la réalité.
+　L'univers n'accepte pas de donner forme à quelque chose qui n'existe pas dans ce monde―――qu'une chimère transgresse la réalité.
 
 }
 [sha:a6645ca044310ed316323e440f9ea9eb62e2d5e1]{
@@ -313,13 +313,13 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:aa92a99907577d40dd55d9a34f2b8d2d372e70df]{
 -- Page 15, Offset 3503.
 -- 魔力だけで構成されたものは幻想扱いされて急速に消えていくとか……典型的な結界、茨の壁とかはもともと茨を生やしておいて、魔力で一気に成長・強化してるものだし。
-  Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Pour une Barrière idéale, il faut tout d'abord faire pousser un mur d'épines ou autre, et ensuite, utiliser le prana pour le faire grandir et le renforcer instantanément.
+　Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Pour une Barrière idéale, il faut tout d'abord faire pousser un mur d'épines ou autre, et ensuite, utiliser le prana pour le faire grandir et le renforcer instantanément.
 
 }
 [sha:db8e63b299aa73f413c41d88b66733af107fdab0]{
 -- Page 15, Offset 3504.
 -- 魔力っていうのは結局、使い勝手のいいガソリン、兼、事象に火をつける火花ってワケで―――』
-  Pour résumer, le prana est un carburant que l'on utilise à sa guise, et simultanément, c'est l'étincelle qui déclenche le phénomène―――』
+　Pour résumer, le prana est un carburant que l'on utilise à sa guise, et simultanément, c'est l'étincelle qui déclenche le phénomène―――』
 
 }
 [sha:e73e2fec076a249d14188be83375fa274df48a59]{
@@ -331,25 +331,25 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:3a3bb7fc5e903c0f241ee279359c2911e66c8b03]{
 -- Page 16, Offset 3506.
 -- 架空要素<云々|うんぬん>より、基本的な回路の接続と、魔力を加工して弾く事ぐらいしかできないのよね、私」
-  Mais avant même de parler de l'élément imaginaire et autre, pour l'instant, je ne peux que connecter un Circuit basique et projeter le prana que j'ai traité.」
+　Mais avant même de parler de l'élément imaginaire et autre, pour l'instant, je ne peux que connecter un Circuit basique et projeter le prana que j'ai traité.」
 
 }
 [sha:2187836e7afced98470eedfc5acd07783e0d20b8]{
 -- Page 17, Offset 3507.
 -- あはは、と笑って<現|い><状|ま>の自分に作れる結界は何か、と検索する。
-  “Ha ha ha”, rigola-t-elle, puis elle chercha quelle Barrière elle pouvait créer actuellement.
+　“Ha ha ha”, rigola-t-elle, puis elle chercha quelle Barrière elle pouvait créer actuellement.
 
 }
 [sha:4181f565f91fa066339fdb47bf09cde1004dd66b]{
 -- Page 17, Offset 3508.
 -- 目撃者の素性は不明だが、相手が同じ高校の生徒なら呼び出す口実はいくらでもある。
-  L'identité du témoin était inconnue, mais s'il était vraiment dans le même lycée qu'elle, alors elle pouvait trouver autant de prétextes que nécessaire pour lui parler en tête-à-tête.
+　L'identité du témoin était inconnue, mais s'il était vraiment dans le même lycée qu'elle, alors elle pouvait trouver autant de prétextes que nécessaire pour lui parler en tête-à-tête.
 
 }
 [sha:318ec29bd816588972c26f6c61c8c858c25ef288]{
 -- Page 17, Offset 3509.
 -- 問題は呼び出した後だろう。
-  Le problème viendrait au moment où ils seraient seul à seul.
+　Le problème viendrait au moment où ils seraient seul à seul.
 
 }
 [sha:077d827d6965f4d4146c993b41fb0a9071027c67]{
@@ -361,31 +361,31 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:126fb7985fb55611a2818175422329b9e67899e9]{
 -- Page 18, Offset 3511.
 -- 正直、有珠のサポートなしで上手くやれる自信はない。
-  Honnêtement, elle n'était pas sûre de pouvoir s'en sortir sans l'appui d'Alice.
+　Honnêtement, elle n'était pas sûre de pouvoir s'en sortir sans l'appui d'Alice.
 
 }
 [sha:8d43940a816c7f2828de18bea6b04223d7046398]{
 -- Page 18, Offset 3512.
 -- けれど相手が一般人なら自分だけで十分、と青子は助力を一切拒否したのだ。
-  Mais Aoko avait refusé toute aide en affirmant que sa seule personne suffirait amplement si l'adversaire était quelqu'un de normal.
+　Mais Aoko avait refusé toute aide en affirmant que sa seule personne suffirait amplement si l'adversaire était quelqu'un de normal.
 
 }
 [sha:3cfc5d612310f6e8f0ff760b0a83d362143b2f14]{
 -- Page 18, Offset 3513.
 -- 半人前ではあるが、青子にも魔術師としてのプライドがある。
-  Elle manquait d'expérience, mais elle avait elle aussi sa fierté de Mage.
+　Elle manquait d'expérience, mais elle avait elle aussi sa fierté de Mage.
 
 }
 [sha:b423bf74b3a340c33e63585c650609f442bec1b8]{
 -- Page 19, Offset 3514.
 -- ページはリズムよくめくられていく。
-  Les pages tournaient en rythme.
+　Les pages tournaient en rythme.
 
 }
 [sha:51f90eeee2fc8fb79ae8023197de40d720258785]{
 -- Page 19, Offset 3515.
 -- パラパラと小さな音をたてる中、青子の指がぴたりとあるページで止まった。
-  Au milieu des petits bruits de feuilletage, le doigt d'Aoko s'arrêta sur une certaine page.
+　Au milieu des petits bruits de feuilletage, le doigt d'Aoko s'arrêta sur une certaine page.
 
 }
 [sha:265dd5ce3f414ba23ddf374a9bf4efc68bf79d8f]{
@@ -397,13 +397,13 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:34a4b098009adcfa445bec52cfab9b30f8b7b261]{
 -- Page 20, Offset 3517.
 -- 小さな微笑。
-  Un petit sourire.
+　Un petit sourire.
 
 }
 [sha:7276ea8a21b5e26c55773a10a5735ffac7f85fe4]{
 -- Page 20, Offset 3518.
 -- それは記憶の片隅にあった、ただ壊すだけの単純な魔術式。
-  C'était un sort qui ne servait qu'à détruire, niché dans un coin de sa mémoire.
+　C'était un sort qui ne servait qu'à détruire, niché dans un coin de sa mémoire.
 
 }
 [sha:b3addd5bb200c8677c1893aedd59be876c4d1f45]{
@@ -415,61 +415,61 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:0373d2652db8106ef455e4850be7a3ef7b6eab8e]{
 -- Page 21, Offset 3520.
 -- 狩りをする時の常套手段じゃない。獲物を逃げられないようにするのは』
-  Ce n'est pas un procédé habituel pour la chasse. Pour empêcher le gibier de s'enfuir, il faut...』
+　Ce n'est pas un procédé habituel pour la chasse. Pour empêcher le gibier de s'enfuir, il faut...』
 
 }
 [sha:8f5962812a9910584450b06aaeedc14d75bdffe1]{
 -- Page 21, Offset 3521.
 -- ページに栞を挟んで、部屋に持ち帰ろうと立ち上がる。
-  Elle plaça un marque-page, et se leva pour le rapporter dans sa chambre.
+　Elle plaça un marque-page, et se leva pour le rapporter dans sa chambre.
 
 }
 [sha:f1c2dde5922af65728d80bba40a41fb5a278fb0c]{
 -- Page 22, Offset 3522.
 -- ふいに視線を感じた。
-  Soudain, elle sentit un regard.
+　Soudain, elle sentit un regard.
 
 }
 [sha:58325e260e9d2a13296dd707852cf51e634ec11d]{
 -- Page 22, Offset 3523.
 -- 夜を<透|とお>す窓に、冷めきった目の少女が映っている。
-  Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit dehors.
+　Ses yeux froids se reflétaient sur la fenêtre qui laissait voir la nuit dehors.
 
 }
 [sha:706554a62bc6d151637243d534f7810532c1bf07]{
 -- Page 22, Offset 3524.
 -- それが今の自分の<表情|かお>である事を、青子は冷静に受けとめる。
-  Elle accepta avec sang-froid le fait que c'était l'expression qu'elle avait présentement.
+　Elle accepta avec sang-froid le fait que c'était l'expression qu'elle avait présentement.
 
 }
 [sha:332238e2436d1b4d8b49b9cf08c9b532e303bd10]{
 -- Page 23, Offset 3525.
 -- ―――目撃者を消す計画を立て始めた。
-  ―――Elle commença à échafauder le plan pour supprimer le témoin.
+　―――Elle commença à échafauder le plan pour supprimer le témoin.
 
 }
 [sha:6e8f76699472a4e5efc64187c30988c9dbb4464e]{
 -- Page 23, Offset 3526.
 -- いや、計画なんて複雑なものではない。
-  Non, ce n'était pas quelque chose d'aussi compliqué qu'un plan.
+　Non, ce n'était pas quelque chose d'aussi compliqué qu'un plan.
 
 }
 [sha:919d2b60103d01cf2e9b5d090d42f00ec72c7dd1]{
 -- Page 23, Offset 3527.
 -- これはただの作業。
-  Il s'agissait tout bonnement d'une corvée.
+　Il s'agissait tout bonnement d'une corvée.
 
 }
 [sha:e71e4d999fcb23a77ea9db07ef46257adc04630c]{
 -- Page 23, Offset 3528.
 -- 事前に檻を作っておき、そこに獲物を誘うだけの話。
-  Elle préparerait juste au préalable une cage et y appâterait le gibier.
+　Elle préparerait juste au préalable une cage et y appâterait le gibier.
 
 }
 [sha:0fcff626057c80bf94392ae3a67b8ffa9fff29d4]{
 -- Page 23, Offset 3529.
 -- まったくもって、何の言い逃れもできない暴力だ。
-  En fin de compte, c'était un acte d'une barbarie sans nom.
+　En fin de compte, c'était un acte d'une barbarie sans nom.
 
 }
 [sha:83a97c6843392836739d85409919dcd296e4a602]{
@@ -481,31 +481,31 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:0fa3fddc7ca264af9d48c71ab79abb88a8df6d95]{
 -- Page 24, Offset 3531.
 -- 青子は冷めた心に熱を戻すように、どうでもいい独り言を口にした。
-  Pour réchauffer son cœur froid, Aoko prononça cette broutille.
+　Pour réchauffer son cœur froid, Aoko prononça cette broutille.
 
 }
 [sha:f3f7f2e1581b0b14b99ad3d3fe8b1199412d2298]{
 -- Page 25, Offset 3532.
 -- 有珠にはじめの入浴を譲ってから二十分近く経つ。
-  Cela faisait à peu près vingt minutes qu'elle avait laissé Alice prendre son bain.
+　Cela faisait à peu près vingt minutes qu'elle avait laissé Alice prendre son bain.
 
 }
 [sha:e7a659df8c5c3c5a4e869160041cdff0d3314daa]{
 -- Page 25, Offset 3533.
 -- 彼女のお風呂はカラスの行水よろしく、十分もあれば終わっている。
-  Elle se lavait rapidement et n'avait besoin que de dix minutes pour faire sa toilette.
+　Elle se lavait rapidement et n'avait besoin que de dix minutes pour faire sa toilette.
 
 }
 [sha:c3d3205025549784c30f26fb959efef7c0d15846]{
 -- Page 25, Offset 3534.
 -- 有珠はお風呂の情緒を理解できないタイプで、風呂はあくまで体のメンテナンスをするものと捉えている。
-  Alice ne comprenait pas vraiment la philosophie du bain et considérait que ce n'était qu'un simple moyen pour entretenir son corps.
+　Alice ne comprenait pas vraiment la philosophie du bain et considérait que ce n'était qu'un simple moyen pour entretenir son corps.
 
 }
 [sha:e9679d3ba803e21d181b06986d1935ed413525d4]{
 -- Page 25, Offset 3535.
 -- 温泉宿のすばらしさも有珠にとっては“なんか面倒なところ”にすぎず、そのあたりには本気で同情する青子だった。
-  Même les splendides auberges avec sources thermales n'étaient pour Alice que des “endroits ennuyeux”, et Aoko la plaignait vraiment à ce sujet.
+　Même les splendides auberges avec sources thermales n'étaient pour Alice que des “endroits ennuyeux”, et Aoko la plaignait vraiment à ce sujet.
 
 }
 [sha:3d79a3052fba63a72aff64180e788b2c9446ee3e]{
@@ -517,13 +517,13 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:075b64e5c64a861a31dc2bf0adad49b674dff530]{
 -- Page 26, Offset 3537.
 -- 入浴を済ませた後、有珠が居間にいるのは珍しい。
-  Il était rare qu'Alice se rende dans le salon après avoir fini sa toilette.
+　Il était rare qu'Alice se rende dans le salon après avoir fini sa toilette.
 
 }
 [sha:4eb740c4a0f6f9dbc7dbe8bb32df82c66ac556c7]{
 -- Page 26, Offset 3538.
 -- 話し合いのない夜は、さっさと自室に戻るのが彼女のスタイルなのだが。
-  Les nuits où elle n'avait rien à dire, elle avait pour habitude de retourner rapidement dans sa chambre.
+　Les nuits où elle n'avait rien à dire, elle avait pour habitude de retourner rapidement dans sa chambre.
 
 }
 [sha:bd7f4a85e4b1a66dc55fef152fe3e8d283809a82]{
@@ -541,13 +541,13 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:219b3ea67a8baa1145a7e064c9f98cbad2662488]{
 -- Page 27, Offset 3541.
 -- こくり、と頷く有珠。
-  Alice acquiesça.
+　Alice acquiesça.
 
 }
 [sha:ec11488c016092db8096471bd04977f37e7b9bd7]{
 -- Page 27, Offset 3542.
 -- 読書中でもなく、彼女は青子を待っていたようだ。
-  Elle n'était même pas en train de lire et semblait attendre Aoko.
+　Elle n'était même pas en train de lire et semblait attendre Aoko.
 
 }
 [sha:1ad691f1534a8bd83c7274f49003b0683ea93525]{
@@ -559,19 +559,19 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:b44e4c4ae2a71ab34a16a85ad92964836a1a3de1]{
 -- Page 28, Offset 3544.
 -- はあ、と頭を掻く青子。
-  pensa Aoko en se grattant la tête.
+　pensa Aoko en se grattant la tête.
 
 }
 [sha:2506fbe16497abcfdc802b2880f70a34ea1a680f]{
 -- Page 28, Offset 3545.
 -- 信用されていないのか、心配されているのか。
-  Soit elle n'avait pas confiance en elle, soit elle s'inquiétait pour elle.
+　Soit elle n'avait pas confiance en elle, soit elle s'inquiétait pour elle.
 
 }
 [sha:f579f5c6417be19bfeba60a99877c926511a144d]{
 -- Page 28, Offset 3546.
 -- 久遠寺有珠の表情は静かすぎて、いまいち真意が読み取れない。
-  L'expression de Kuonji Alice était trop calme, et Aoko ne pouvait pas vraiment saisir quelles étaient ses véritables intentions.
+　L'expression de Kuonji Alice était trop calme, et Aoko ne pouvait pas vraiment saisir quelles étaient ses véritables intentions.
 
 }
 [sha:42f3b103757dcb795f806e0cc3839b15f63e83a4]{
@@ -589,19 +589,19 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:645b2e0c7e3a591b6e542375cbabce3f43779f31]{
 -- Page 29, Offset 3549.
 -- 迷いがなくなったのはいい事だけど。……悪い癖ね、青子」
-  C'est bien que tes doutes se soient dissipés...... mais c'est une mauvaise habitude, Aoko.」
+　C'est bien que tes doutes se soient dissipés...... mais c'est une mauvaise habitude, Aoko.」
 
 }
 [sha:6d904e33e69e1c0c05b8bd72a833e412e576fa8f]{
 -- Page 29, Offset 3550.
 -- 小さなため息。
-  Un léger soupir.
+　Un léger soupir.
 
 }
 [sha:f3b74f8c14a73a1292fd5c774dd6fe16bf0d90a8]{
 -- Page 29, Offset 3551.
 -- この黒衣の少女がこれみよがしに<落胆|らくたん>を表すのは珍しい。
-  Il était inhabituel que cette jeune fille en noir exprime ainsi son découragement.
+　Il était inhabituel que cette jeune fille en noir exprime ainsi son découragement.
 
 }
 [sha:e99d30c1ac303d652db22344195f5b5eab1657b8]{
@@ -613,7 +613,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:6eac4b225678fd4a2336130d2dc8d9ac5929c6fc]{
 -- Page 30, Offset 3553.
 -- それならすっぱり後腐れもないし。文句ある？」
-  De cette façon, je ne regretterai rien. Ça te pose un problème ?」
+　De cette façon, je ne regretterai rien. Ça te pose un problème ?」
 
 }
 [sha:98eba58f6d82825c2fa5d54604bfbb33a280a642]{
@@ -625,7 +625,7 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:5f6c271a17acf8a74b5904a6c305fde399ece0b0]{
 -- Page 30, Offset 3555.
 -- けど―――」
-  Mais―――」
+　Mais―――」
 
 }
 [sha:418228722f6f944eb3e4831a424d6c0e154d2271]{
@@ -637,19 +637,19 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:20ef4e29c7e42e4649a9c2b4f0d9418617d5153c]{
 -- Page 31, Offset 3557.
 -- 私は有珠のようにはいかないから、物理的に逃げられない場所にしようと思うんだけど……なにかアイデアない？」
-  Je ne peux pas faire comme toi, alors je pensais opter pour un lieu où il n'est physiquement pas possible de s'échapper...... Tu as une idée ?」
+　Je ne peux pas faire comme toi, alors je pensais opter pour un lieu où il n'est physiquement pas possible de s'échapper...... Tu as une idée ?」
 
 }
 [sha:f9ec47bd1873f2bcc358d20c78489989b575658e]{
 -- Page 32, Offset 3558.
 -- 青子からの相談に、そうね、と一考する有珠。
-  En réponse au questionnement d'Aoko, Alice dit “Voyons” et réfléchit.
+　En réponse au questionnement d'Aoko, Alice dit “Voyons” et réfléchit.
 
 }
 [sha:2545260a6aea7cb9529ad3c775a8aa0403ff6692]{
 -- Page 32, Offset 3559.
 -- そっと唇にあてた指が、彼女好みの質問だったコトを示している。
-  Les doigts portés à ses lèvres montraient que c'était une question à son goût.
+　Les doigts portés à ses lèvres montraient que c'était une question à son goût.
 
 }
 [sha:1c13dced61a7c1c8f611c53f22773205b88a67bf]{
@@ -667,19 +667,19 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:630a7784a16dd1b6fd4bb60aa6461dc148eca8be]{
 -- Page 33, Offset 3562.
 -- というか悪趣味、と青子は顔をしかめる。
-  “Ou plutôt, tu as mauvais goût”, dit Aoko en fronçant les sourcils.
+　“Ou plutôt, tu as mauvais goût”, dit Aoko en fronçant les sourcils.
 
 }
 [sha:86238993b53f06adcd0a2ea66f8a2ffbf751cad9]{
 -- Page 34, Offset 3563.
 -- 同居人なりのクリティカルなアイデアだったのだろうが、とても参考にならない。
-  C'était une suggestion radicale qui ressemblait bien à sa colocataire, mais elle ne pouvait pas envisager sérieusement cette possibilité.
+　C'était une suggestion radicale qui ressemblait bien à sa colocataire, mais elle ne pouvait pas envisager sérieusement cette possibilité.
 
 }
 [sha:ca2eaad93621cdf82cd93087058acd04ddd57f34]{
 -- Page 35, Offset 3564.
 -- 青子は自分に用意できる結界を知りたいのであって、魔法スレスレの大結界など望んでいないし、用意もできないのだ。
-  Aoko voulait trouver une Barrière qu'elle pouvait préparer elle-même, elle ne voulait pas d'une grande Barrière aux frontières de la Magie, et elle ne pouvait de toute façon pas en préparer.
+　Aoko voulait trouver une Barrière qu'elle pouvait préparer elle-même, elle ne voulait pas d'une grande Barrière aux frontières de la Magie, et elle ne pouvait de toute façon pas en préparer.
 
 }
 [sha:6c8b5b02d4d4fce5695b4ed08e11ea9d1680b4f9]{
@@ -697,19 +697,19 @@ Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement..
 [sha:aa659a10058c56020e3369122be0fff53dfd7674]{
 -- Page 36, Offset 3567.
 -- あ―――けど、そうね。
-  Ah―――mais oui.
+　Ah―――mais oui.
 
 }
 [sha:08135e7d08384a359a77fd8928f1f6cd450c4abd]{
 -- Page 36, Offset 3568.
 -- ミラーハウスはいいアイデアかも」
-  Une maison de miroirs, ça pourrait être une bonne idée.」
+　Une maison de miroirs, ça pourrait être une bonne idée.」
 
 }
 [sha:c52925018b663acfd92e13007f648ce261dfe2b4]{
 -- Page 36, Offset 3569.
 -- ニヤリと微笑って、青子は壁に寄りかかっていた体を起こした。
-  Esquissant un large sourire, Aoko s'écarta du mur auquel elle s'était adossée.
+　Esquissant un large sourire, Aoko s'écarta du mur auquel elle s'était adossée.
 
 }
 [sha:41d66df2b191be92b5e442b4934e26b284b48388]{
@@ -727,13 +727,13 @@ Vraiment, quand on n'a rien à perdre, ça vaut le coup de demander conseil.」
 [sha:19f9bf133a4914b5d0b16eb44267c8c328b6a584]{
 -- Page 38, Offset 3572.
 -- ご機嫌な様子で立ち去る青子。
-  Aoko s'en alla de bonne humeur.
+　Aoko s'en alla de bonne humeur.
 
 }
 [sha:e52292ea6b82094694c69c3b227f19ad0d9544e7]{
 -- Page 38, Offset 3573.
 -- どんな青写真ができたのか有珠には見当もつかないが、彼女なりに万全の策ができたらしい。
-  Alice ne voyait pas quel plan elle avait bien pu élaborer, mais apparemment, elle avait établi à sa manière une stratégie imparable.
+　Alice ne voyait pas quel plan elle avait bien pu élaborer, mais apparemment, elle avait établi à sa manière une stratégie imparable.
 
 }
 [sha:9f6036e0af82b6c8c4bb8460ef1864f369c39747]{
@@ -745,19 +745,19 @@ Vraiment, quand on n'a rien à perdre, ça vaut le coup de demander conseil.」
 [sha:75d539b97a85114801de278a2cb3746e06097af6]{
 -- Page 39, Offset 3575.
 -- 鼻歌まじりに浴場に向かう同居人。
-  Sa colocataire se dirigea vers la salle de bains en fredonnant.
+　Sa colocataire se dirigea vers la salle de bains en fredonnant.
 
 }
 [sha:e950fea59b5617e4af9916f89d19bdd2b12a779d]{
 -- Page 39, Offset 3576.
 -- ここ一年半の経験か。
-  Après l'avoir côtoyée pendant un an et demi,
+　Après l'avoir côtoyée pendant un an et demi,
 
 }
 [sha:38d088d74729b34c3dce5d47c0719d4164b664d8]{
 -- Page 39, Offset 3577.
 -- 黒衣の少女は、蒼崎青子は有頂天になった時こそ信じられないトラブルに見舞われる事を知っていた。
-  la fille en noir savait que quand Aozaki Aoko rayonnait à ce point, les problèmes ne tardaient pas à leur retomber dessus.
+　la fille en noir savait que quand Aozaki Aoko rayonnait à ce point, les problèmes ne tardaient pas à leur retomber dessus.
 
 }
 [sha:04089412258c10d784e86f7d8f86e30108ccfe36]{
@@ -769,13 +769,13 @@ Vraiment, quand on n'a rien à perdre, ça vaut le coup de demander conseil.」
 [sha:d905467ce3292a26bf6a586c814c928bc101c921]{
 -- Page 40, Offset 3579.
 -- いつから居間にいたのか。
-  Arrivé dans le salon à l'insu de tous,
+　Arrivé dans le salon à l'insu de tous,
 
 }
 [sha:b352858d2aa9fafab4684133d3e638fb0af3a550]{
 -- Page 40, Offset 3580.
 -- コマドリ……のような鳥が、チチチ、と鳴き声をあげながら調度品の上を<闊歩|かっぽ>する。
-  un oiseau ressemblant à...... un rouge-gorge, se pavanait sur le mobilier en gazouillant.
+　un oiseau ressemblant à...... un rouge-gorge, se pavanait sur le mobilier en gazouillant.
 
 }
 [sha:bdfd9707c3fa4d2cbd02ef24b1101dfa873998cc]{
@@ -787,13 +787,13 @@ Vraiment, quand on n'a rien à perdre, ça vaut le coup de demander conseil.」
 [sha:51ddb30b61038b2dc63599bcae4797165ee782ac]{
 -- Page 41, Offset 3582.
 -- 黒衣の少女の腕があがる。
-  Le bras de la fille en noir se leva.
+　Le bras de la fille en noir se leva.
 
 }
 [sha:77640b6b765b0b7be82d9a4a2198f8e1c19888f6]{
 -- Page 42, Offset 3583.
 -- 口づけを許すように差し出された指先に、チチチ、と鳴き声が舞い降りる。
-  L'oiseau chanteur descendit sur le bout des doigts qu'elle lui présentait, comme pour le laisser les embrasser.
+　L'oiseau chanteur descendit sur le bout des doigts qu'elle lui présentait, comme pour le laisser les embrasser.
 
 }
 [sha:e4868da3f5a5e341b979688fca227ab37e4e404e]{
@@ -811,12 +811,12 @@ Mais confiance et confier sont deux choses différentes.」
 [sha:58746af08845f93e8eb8637435be177f562eaff2]{
 -- Page 42, Offset 3586.
 -- <言|こえ>なき鳥が、そのでっぷりとした胸を張って同意する。
-  L'oiseau discret gonfla sa poitrine corpulente et approuva.
+　L'oiseau discret gonfla sa poitrine corpulente et approuva.
 
 }
 [sha:79bdb3b277676f39da8ef34efaaef6734f4d4892]{
 -- Page 42, Offset 3587.
 -- わりかし物騒な同居人の<囁|ささや>きを、もちろん、青子は知るよしもないのだった。
-  Bien sûr, Aoko n'avait aucun moyen de savoir ce qu'avait murmuré sa colocataire d'un ton plutôt sinistre.
+　Bien sûr, Aoko n'avait aucun moyen de savoir ce qu'avait murmuré sa colocataire d'un ton plutôt sinistre.
 
 }

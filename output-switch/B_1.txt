@@ -1,19 +1,19 @@
 [sha:2d22bbf3d47355b3b41ca546035c5a4935901e35]{
 -- Page 0, Offset 15473.
 -- 青子からの電話はつながったまま、もう語りかけてくる事はなかった。
-  La ligne était toujours établie, mais Aoko ne disait plus rien.
+　La ligne était toujours établie, mais Aoko ne disait plus rien.
 
 }
 [sha:5a4f528a4d065db5d2d39cc7e2458131951adc57]{
 -- Page 0, Offset 15474.
 -- 有珠は電話を切ると、手早くケープを着て玄関へと歩きだす。重症の体を、気力だけで動かすようにぎこちなく。
-  Alice raccrocha, enfila rapidement sa cape et s'élança vers l'entrée. Elle bougeait gauchement son corps gravement blessé de par sa seule volonté.
+　Alice raccrocha, enfila rapidement sa cape et s'élança vers l'entrée. Elle bougeait gauchement son corps gravement blessé de par sa seule volonté.
 
 }
 [sha:95f798f42511f04d5cd8e6c4b8098d7f6919a37d]{
 -- Page 0, Offset 15475.
 -- その途中、ぴたりと足を止め、何やら思案げに草十郎を凝視した。
-  Elle s'arrêta net à mi-chemin et fixa Sōjūrō d'un air pensif.
+　Elle s'arrêta net à mi-chemin et fixa Sōjūrō d'un air pensif.
 
 }
 [sha:96ba75c56522f0eb874e93fd3cb770eeb606b363]{
@@ -25,13 +25,13 @@
 [sha:cc22a8e24c9105bb05fd73515e83389931e613c6]{
 -- Page 1, Offset 15477.
 -- 有珠は一瞬だけ思案し―――
-  Alice ne réfléchit qu'un instant―――
+　Alice ne réfléchit qu'un instant―――
 
 }
 [sha:f728176ee8963e94e4ad92297dbbc969c30b8e27]{
 -- Page 1, Offset 15478.
 -- 緊張をとくような思いきりの良さで、自分から少年の手をとった。
-  avant d'agripper avec vigueur la main du garçon cavalier.
+　avant d'agripper avec vigueur la main du garçon cavalier.
 
 }
 [sha:48c449071e53a449abbb1ff6026653bd1341c620]{
@@ -67,13 +67,13 @@
 [sha:537d105e66211ef918f1156aa70f89de651dffcf]{
 -- Page 3, Offset 15484.
 -- 有珠は玄関を出て、正面の並木道に向かっていく。
-  Alice sortit du manoir et s'engagea sur le chemin forestier en face d'elle.
+　Alice sortit du manoir et s'engagea sur le chemin forestier en face d'elle.
 
 }
 [sha:73c0346a536171bc7926342ef8d5b9a3d48e9930]{
 -- Page 3, Offset 15485.
 -- ……気丈に振る舞ってはいるが、その瞳には苦痛の色が見え隠れしている。
-  ...... Elle se conduisait vaillamment, mais la douleur transparaissait dans ses yeux.
+　...... Elle se conduisait vaillamment, mais la douleur transparaissait dans ses yeux.
 
 }
 [sha:ee5dc62211c048687c66e6bb5351d983367c4163]{
@@ -85,7 +85,7 @@
 [sha:79a44f42369e307eebb6c4193f6ddbb8a4e35df6]{
 -- Page 4, Offset 15487.
 -- 弱い、けれど逆らえない有珠の手に引かれながら、草十郎は館を振り返った。
-  Tracté par la main d'Alice, faible mais contre laquelle il ne pouvait résister, Sōjūrō se retourna vers la demeure.
+　Tracté par la main d'Alice, faible mais contre laquelle il ne pouvait résister, Sōjūrō se retourna vers la demeure.
 
 }
 [sha:a816cef08e759f47e80108106723865d028550b0]{
@@ -97,25 +97,25 @@
 [sha:ff8b44c9aa0cede77111c3a7afc0e5c179ba72aa]{
 -- Page 5, Offset 15489.
 -- ……もしかして病院のことを言っているなら、それこそ無駄よ。ハイヤーなんて言うけど空を飛ぶわけでもないし。今は助けを呼ぶより、助けに行かないと間に合わない」
-  ...... Et si tu parles de l'hôpital, ce serait inutile. Un taxi peut nous y emmener, mais ce n'est pas comme s'il pouvait voler. Nous n'avons pas le temps d'appeler des secours, il faut aller l'aider au plus vite.」
+　...... Et si tu parles de l'hôpital, ce serait inutile. Un taxi peut nous y emmener, mais ce n'est pas comme s'il pouvait voler. Nous n'avons pas le temps d'appeler des secours, il faut aller l'aider au plus vite.」
 
 }
 [sha:8696f3bd82023f8ee0a176c16add6c4c9e99de64]{
 -- Page 6, Offset 15490.
 -- ……と。
-  ...... s'exclama-t-elle,
+　...... s'exclama-t-elle,
 
 }
 [sha:9f810395fae3df69daf71f3f53df82e88fd8f1b8]{
 -- Page 6, Offset 15491.
 -- 有珠は洋館に視線を切り返し、小さく指を鳴らした。
-  avant de se tourner vers le manoir et de claquer doucement des doigts.
+　avant de se tourner vers le manoir et de claquer doucement des doigts.
 
 }
 [sha:600ab50b2f82ba2ee73f803be4c2a80fedec6f18]{
 -- Page 6, Offset 15492.
 -- 有珠の合図に呼応するかのように、いずこかの窓が開き、無数の<椋鳥|ムクドリ>が飛び立っていく。
-  Quelques fenêtres s'ouvrirent et d'innombrables étourneaux s'envolèrent à la suite du signal d'Alice.
+　Quelques fenêtres s'ouvrirent et d'innombrables étourneaux s'envolèrent à la suite du signal d'Alice.
 
 }
 [sha:d63f50f9d3601696d0fb525d40925de178882414]{
@@ -133,7 +133,7 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:3f290ef4847b3ec38dc692d633a71483c9b7422a]{
 -- Page 7, Offset 15495.
 -- 有珠の声は、飛び立っていく椋鳥たちにかけられたものだ。
-  La voix d'Alice s'adressait aux étourneaux en plein vol.
+　La voix d'Alice s'adressait aux étourneaux en plein vol.
 
 }
 [sha:6a2f6e248eb75c67525d8eec8f8978949339eea4]{
@@ -145,19 +145,19 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:ea583fa9b079585bfb167394413f7e8e48a31bd0]{
 -- Page 8, Offset 15497.
 -- 言われて、げっと草十郎は漏らした。
-  “Ghé”, laissa échapper Sōjūrō en réaction à cet ordre.
+　“Ghé”, laissa échapper Sōjūrō en réaction à cet ordre.
 
 }
 [sha:752ca445394c88715aed94e856dd85bc39b648d9]{
 -- Page 8, Offset 15498.
 -- 裏庭にある赤い自転車はオーダーメイドの特注品だ。
-  La bicyclette rouge dans l'arrière-cour était un article spécial réalisé sur commande.
+　La bicyclette rouge dans l'arrière-cour était un article spécial réalisé sur commande.
 
 }
 [sha:59f9619f96f00fba4124b8cb3bafd65125cc8ed5]{
 -- Page 8, Offset 15499.
 -- いつぞやの焼却炉の掃除の際、うっかり傷つけそうになった草十郎に、青子は怒濤の<罵詈雑言|ばりぞうごん>をみまったのである。
-  Lorsque Sōjūrō avait failli l'érafler en voulant nettoyer l'incinérateur, Aoko l'avait remercié en le couvrant d'injures.
+　Lorsque Sōjūrō avait failli l'érafler en voulant nettoyer l'incinérateur, Aoko l'avait remercié en le couvrant d'injures.
 
 }
 [sha:70043d83046c8f8a8416f2fb7623a72f5e4999ff]{
@@ -175,7 +175,7 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:653ba6bded323240802d528571deba8ec196eef6]{
 -- Page 9, Offset 15502. Glued. Mods: @x.
 -- ……静希君、ふたり乗りできる？」
- Shizuki, peux-tu pédaler avec deux personnes dessus ?」
+Shizuki, peux-tu pédaler avec deux personnes dessus ?」
 
 }
 [sha:5368429e552a64ae509fb48db6478b3ebd40159c]{
@@ -187,13 +187,13 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:c7076d4b4537621f1338b9271ade396132b87c29]{
 -- Page 10, Offset 15504.
 -- <見様見真似|み よ う み ま ね >でやれる自信はあるものの、いまいち自転車というものを信用できない草十郎だった。
-  Quand il s'agissait d'imiter les autres, il avait confiance en lui, mais Sōjūrō se méfiait quelque peu du moyen de transport que l'on appelait bicyclette.
+　Quand il s'agissait d'imiter les autres, il avait confiance en lui, mais Sōjūrō se méfiait quelque peu du moyen de transport que l'on appelait bicyclette.
 
 }
 [sha:5e0f4f9314dcef4bb586cce29e7540d82ca27322]{
 -- Page 10, Offset 15505.
 -- あの細い<骨格|フレーム>の乗り物に、はたして二人分の体重を支えるだけの性能があるかどうか―――
-  Avec une armature aussi fine, pouvait-elle vraiment supporter le poids de deux personnes ?
+　Avec une armature aussi fine, pouvait-elle vraiment supporter le poids de deux personnes ?
 
 }
 [sha:b58b53c2db2214b8e72c7365d249198dc204ea14]{
@@ -217,13 +217,13 @@ Si tu ne peux pas, alors tant pis.」
 [sha:f637f9a5fc53f1127ed391968199890344b29861]{
 -- Page 11, Offset 15509.
 -- ぷい、と顔を背けて歩きだす有珠。
-  Alice détourna le visage et se mit en route.
+　Alice détourna le visage et se mit en route.
 
 }
 [sha:34bdf619c896b8856b8c3e041c03330d277a6ce2]{
 -- Page 11, Offset 15510.
 -- 間の悪いコトに、草十郎の言葉をストレートに誤解したらしい。
-  Malheureusement, elle semblait s'être franchement fourvoyée sur le sens des paroles de Sōjūrō.
+　Malheureusement, elle semblait s'être franchement fourvoyée sur le sens des paroles de Sōjūrō.
 
 }
 [sha:07a3cb1a9fe86113cd1063009dcc5e75f89cd0d9]{
@@ -235,19 +235,19 @@ Si tu ne peux pas, alors tant pis.」
 [sha:3e4b88963e072930760aea98f9b0d8bc3e4501cf]{
 -- Page 12, Offset 15512.
 -- 草十郎の弁解にも耳を貸さず、有珠は一人でスタスタと森に向かう。
-  Alice se dirigea seule et d'un pas vif vers la forêt, sans prêter attention à ses excuses.
+　Alice se dirigea seule et d'un pas vif vers la forêt, sans prêter attention à ses excuses.
 
 }
 [sha:39450283ea9f3b9fd901251885d2722a7666b93a]{
 -- Page 12, Offset 15513.
 -- どうも、有珠は自転車に乗れないらしい。
-  De toute évidence, elle ne savait pas faire de la bicyclette.
+　De toute évidence, elle ne savait pas faire de la bicyclette.
 
 }
 [sha:830c61f7edc62026efd530e6d602fb0c447e58af]{
 -- Page 12, Offset 15514.
 -- 目に見えて意地を張っている有珠を、草十郎は必死に呼び止めた。
-  Sōjūrō l'appelait désespérément tandis qu'elle montrait clairement son entêtement.
+　Sōjūrō l'appelait désespérément tandis qu'elle montrait clairement son entêtement.
 
 }
 [sha:cf169365dc9bc2afaeb0e7739b9420e72bf6dfec]{
@@ -259,31 +259,31 @@ Si tu ne peux pas, alors tant pis.」
 [sha:ae72df576bc9a8505200250324d60b60ab3675ca]{
 -- Page 13, Offset 15516.
 -- 聞いて、ぴたりと有珠の足が止まる。
-  À ces mots, Alice s'arrêta net.
+　À ces mots, Alice s'arrêta net.
 
 }
 [sha:a8c52d37f956da718f0222dc7e9e8ef5e52696f7]{
 -- Page 14, Offset 15517.
 -- 有珠の停止を確認して、草十郎は急いで裏庭に向かった。
-  Sōjūrō s'assura qu'elle l'attendait avant de se rendre en toute hâte dans l'arrière-cour.
+　Sōjūrō s'assura qu'elle l'attendait avant de se rendre en toute hâte dans l'arrière-cour.
 
 }
 [sha:39d290c3016de4ad94dc7767143eb1c27b101e25]{
 -- Page 14, Offset 15518. Mods: @n.
 -- 納屋の鍵置き場から自転車の鍵を取って、
-  Il récupéra les clefs du vélo à leur emplacement dans la remise,
+　Il récupéra les clefs du vélo à leur emplacement dans la remise,
 
 }
 [sha:1873513f16ce079f18be229e06e81b44070d0eb9]{
 -- Page 14, Offset 15519. Glued.
 -- 青子愛用の自転車のロックを外す。
- et retira le cadenas de la bicyclette adorée d'Aoko.
+et retira le cadenas de la bicyclette adorée d'Aoko.
 
 }
 [sha:23dd501c808a6ce47ef7a478f36315b044557c5a]{
 -- Page 14, Offset 15520.
 -- 自転車を引いて洋館の正面に戻ると、有珠はもう森に向かっていた。
-  Lorsqu'il revint en face du manoir en tirant le vélo, Alice se dirigeait déjà vers la forêt.
+　Lorsqu'il revint en face du manoir en tirant le vélo, Alice se dirigeait déjà vers la forêt.
 
 }
 [sha:3f041870f07083a0019ae5a94fdf4d37e09ce552]{
@@ -295,19 +295,19 @@ Si tu ne peux pas, alors tant pis.」
 [sha:a2efac7c59700594f07f2dd4624c512bf73b39c1]{
 -- Page 15, Offset 15522.
 -- 呟いて、草十郎は自転車にまたがった。
-  murmura Sōjūrō en enfourchant la bicyclette.
+　murmura Sōjūrō en enfourchant la bicyclette.
 
 }
 [sha:f29a00a697e17607e66dd905f7a4fdd092c17a12]{
 -- Page 15, Offset 15523.
 -- ペダルに足を置く。軽いが確かな感触。
-  Il posa les pieds sur les pédales. La sensation était légère mais ferme.
+　Il posa les pieds sur les pédales. La sensation était légère mais ferme.
 
 }
 [sha:dd528bcc9685a80eb056eb8f261c9e6e30660457]{
 -- Page 15, Offset 15524.
 -- これなら二人分の体重が乗っても問題ない、と自転車を走らせた。
-  Dans ce cas, même à deux, il n'y aura pas de problème, songea-t-il avant de se mettre à pédaler.
+　Dans ce cas, même à deux, il n'y aura pas de problème, songea-t-il avant de se mettre à pédaler.
 
 }
 [sha:e1ef01586f77aa1ff8d9c7e50595e3c20e5ce4a5]{
@@ -319,13 +319,13 @@ Si tu ne peux pas, alors tant pis.」
 [sha:d1e2dc883195835d0951f004837ec6015a2f063c]{
 -- Page 16, Offset 15526.
 -- 呼びかけに振りむく有珠。
-  Alice se retourna en entendant son nom.
+　Alice se retourna en entendant son nom.
 
 }
 [sha:95c65cfc2bb5fb1ae934f7548e088a7fe01bc0c0]{
 -- Page 16, Offset 15527.
 -- あきらかに草十郎を非難している眼差しである。
-  Le regard qu'elle lui lança était clairement accusateur.
+　Le regard qu'elle lui lança était clairement accusateur.
 
 }
 [sha:3330457fc7d49c4cf8d1df5d66ece53e2dee169b]{
@@ -343,7 +343,7 @@ Si tu ne peux pas, alors tant pis.」
 [sha:69eb88cd78cbc9996c9bf67ab217502da77a7e7d]{
 -- Page 17, Offset 15530.
 -- ……やはり、些細な事でも怒らせると根に持つ性格なんだな、と学習する草十郎なのだった。
-  ...... Je le savais ! Elle est du genre à être rancunière pour des petites choses qui l'ont mise en colère, constata Sōjūrō en bon apprenti.
+　...... Je le savais ! Elle est du genre à être rancunière pour des petites choses qui l'ont mise en colère, constata Sōjūrō en bon apprenti.
 
 }
 [sha:2fd887fe9e36fb81aabbd9bcad37c8ddb4f7ba68]{
@@ -355,13 +355,13 @@ Si tu ne peux pas, alors tant pis.」
 [sha:7318985b556c76e4c327acd80f25caf8597f1aba]{
 -- Page 18, Offset 15532.
 -- 臆面もない草十郎の返答。
-  répondit Sōjūrō avec impudence.
+　répondit Sōjūrō avec impudence.
 
 }
 [sha:0e5c60d4a8a4b719e0ef206548094780ea6088f9]{
 -- Page 18, Offset 15533.
 -- それに毒気が抜かれたのか、有珠はこくんとうなずいて、自転車の後部座席に腰を下ろした。
-  Cela eut son effet : Alice mit sa rancœur de côté, hocha la tête et s'installa à l'arrière de la bicyclette.
+　Cela eut son effet : Alice mit sa rancœur de côté, hocha la tête et s'installa à l'arrière de la bicyclette.
 
 }
 [sha:69c5bfad777f1ae8708e78ebdd74f7d1220b5899]{
@@ -385,19 +385,19 @@ Si tu ne peux pas, alors tant pis.」
 [sha:90e0d342ed9b0195a464b84a97afdce12d352271]{
 -- Page 19, Offset 15537.
 -- 有珠は無言で草十郎の体に手を回す。
-  Alice enlaça Sōjūrō sans mot dire.
+　Alice enlaça Sōjūrō sans mot dire.
 
 }
 [sha:3ad40d7bbf15fdc5d5661e99ba3a77cbbec3989e]{
 -- Page 19, Offset 15538. Mods: @n.
 -- 有珠の手がしっかりと自分を掴んだのを確認して、よし、
-  Ce dernier s'assura que ses mains le tenaient bien, puis
+　Ce dernier s'assura que ses mains le tenaient bien, puis
 
 }
 [sha:f696bf6dfb15dd084ee70d4be4b8fc1f8f879426]{
 -- Page 19, Offset 15539. Glued.
 -- と草十郎はハンドルを握った。
- il saisit le guidon.
+il saisit le guidon.
 
 }
 [sha:83cbdf05c1fed9ecfd9048ec075c49693ca8dd5e]{
@@ -409,7 +409,7 @@ Si tu ne peux pas, alors tant pis.」
 [sha:dbfb90d649081b06dbcd80ac3d6c0e6059024e9b]{
 -- Page 20, Offset 15541.
 -- なんて、小さな呟きと共に。
-  entendit-il au même moment.
+　entendit-il au même moment.
 
 }
 [sha:93b6e4e245a99a62320c7e8c92337e1bef946c60]{
@@ -421,13 +421,13 @@ Si tu ne peux pas, alors tant pis.」
 [sha:4902bf892e65d9238f6e532deaeb7a55e8d84c64]{
 -- Page 21, Offset 15543.
 -- 有珠のささやきに、草十郎は曖昧な視線を返し、勢いよくペダルを踏み込んだ。
-  Sōjūrō lança un regard équivoque à Alice pour son murmure et appuya sur les pédales avec force.
+　Sōjūrō lança un regard équivoque à Alice pour son murmure et appuya sur les pédales avec force.
 
 }
 [sha:a32d833604a7e783e20f097ebd23d3c0dcf2ddaa]{
 -- Page 21, Offset 15544.
 -- 自転車は白犬塚の急な坂道を、ノーブレーキで駆け下りていく。
-  La bicyclette se mit à descendre la pente raide de Shiroinuzuka sans freiner.
+　La bicyclette se mit à descendre la pente raide de Shiroinuzuka sans freiner.
 
 }
 [sha:3a494c08cc2733dadcc5a0acca9c156eff746769]{
@@ -439,13 +439,13 @@ Si tu ne peux pas, alors tant pis.」
 [sha:4cd5e9494de7cfaf51633414c3ce135f05cc0c6c]{
 -- Page 22, Offset 15546.
 -- 自分で言いだした事とはいえ、予想以上のスピードに有珠は息を呑んだ。
-  Même si l'idée venait d'elle, Alice retint son souffle face à la vitesse surprenante.
+　Même si l'idée venait d'elle, Alice retint son souffle face à la vitesse surprenante.
 
 }
 [sha:2e4496f7b84cf4a524e68589a346fcf4e895d660]{
 -- Page 22, Offset 15547.
 -- あまりの急加速に、草十郎の両肩をぐっと掴んでしまったぐらいだ。
-  L'accélération fut si soudaine qu'elle empoigna fermement les deux épaules de Sōjūrō.
+　L'accélération fut si soudaine qu'elle empoigna fermement les deux épaules de Sōjūrō.
 
 }
 [sha:5869b614aa28b24d7f0145024927e6f3ebade0d3]{
@@ -457,43 +457,43 @@ Si tu ne peux pas, alors tant pis.」
 [sha:cbe5860e479fbd8b9983dbe39a6e9b7bfa25391e]{
 -- Page 23, Offset 15549.
 -- 抗議の声をあげようと草十郎を見上げるが、草十郎は有珠以上に真剣な顔でハンドルを握っていた。
-  Elle leva la tête vers lui en pensant protester, mais il agrippait le guidon avec une expression plus concentrée que celle de la jeune fille.
+　Elle leva la tête vers lui en pensant protester, mais il agrippait le guidon avec une expression plus concentrée que celle de la jeune fille.
 
 }
 [sha:f35900fcaa527003196f1dff46a44382c12d2ce7]{
 -- Page 23, Offset 15550.
 -- 有珠はのど元まで出かかった声をおさえて、回した手を強く握る。
-  Alice contint sa voix et resserra sa prise sur lui,
+　Alice contint sa voix et resserra sa prise sur lui,
 
 }
 [sha:0ba69ff84f5e46ff374e4028e6269ec908c79484]{
 -- Page 23, Offset 15551.
 -- 夜の坂道を下る、生真面目な操縦者を信頼するように。
-  comme pour montrer qu'elle se fiait au pilote extrêmement sérieux qui descendait la pente en pleine nuit.
+　comme pour montrer qu'elle se fiait au pilote extrêmement sérieux qui descendait la pente en pleine nuit.
 
 }
 [sha:6bca305a647f069b3503c4caef9d3deb15678912]{
 -- Page 24, Offset 15552.
 -- 自転車は最後までブレーキもかけず、ジェットコースター顔負けの速さで三咲町の駅前まで走っていく。
-  La bicyclette ne ralentit pas une seule fois sur le chemin et roula encore plus vite que des montagnes russes jusque devant la gare du vieux quartier de Misaki.
+　La bicyclette ne ralentit pas une seule fois sur le chemin et roula encore plus vite que des montagnes russes jusque devant la gare du vieux quartier de Misaki.
 
 }
 [sha:8fd99d9c7e73d58f5a094215acd1ba5d887bb1f6]{
 -- Page 24, Offset 15553.
 -- 午前零時を過ぎた駅前には人の気配も車のヘッドライトもない。
-  À minuit passé, les lieux étaient déserts, on n'apercevait même pas de phares de voitures.
+　À minuit passé, les lieux étaient déserts, on n'apercevait même pas de phares de voitures.
 
 }
 [sha:f2db7fcc700e7e4299b93b9e70ece0f82afb3545]{
 -- Page 25, Offset 15554.
 -- 完全に眠りについた町中、いまだ雪に埋もれた道の上を、風のように駆けていく。
-  Tel le vent, ils traversaient la ville endormie et fonçaient sur la route encore recouverte de neige.
+　Tel le vent, ils traversaient la ville endormie et fonçaient sur la route encore recouverte de neige.
 
 }
 [sha:6a2273e9dc85cdf71ad528005d1451df44e2e609]{
 -- Page 25, Offset 15555.
 -- そんな中、
-  Pendant le trajet,
+　Pendant le trajet,
 
 }
 [sha:011ed77eb3b198ebf61ce8dede5ceeaf14a14db5]{
@@ -505,18 +505,18 @@ Si tu ne peux pas, alors tant pis.」
 [sha:69e8f0e20850561bf5f88021cdb54edd8e1aa49d]{
 -- Page 25, Offset 15557.
 -- ホッと安堵する乗り手がひとり。
-  l'un des passagers se sentit soulagé.
+　l'un des passagers se sentit soulagé.
 
 }
 [sha:4d7a16eef651eecd4791d7be59f18ef888a1f344]{
 -- Page 25, Offset 15558.
 -- 初めて自転車に乗る少年少女は、無人の国道を激走していく。
-  Pour leur première fois sur un vélo, le jeune homme et la jeune fille roulaient à toute allure sur la nationale déserte.
+　Pour leur première fois sur un vélo, le jeune homme et la jeune fille roulaient à toute allure sur la nationale déserte.
 
 }
 [sha:b54b21dc6b140ebb3ca75251caf77e6953aa3ed8]{
 -- Page 25, Offset 15559.
 -- ゾッとする彼の呟きは、幸いにも風切り音にまぎれて、誰に届く事なく消えていった。
-  Par chance, son murmure effrayant fut étouffé par le son du vent fouettant et disparut sans que personne ne l'entende.
+　Par chance, son murmure effrayant fut étouffé par le son du vent fouettant et disparut sans que personne ne l'entende.
 
 }

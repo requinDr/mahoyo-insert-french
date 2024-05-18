@@ -7,31 +7,31 @@
 [sha:f3e41b92160fcc6deaca609b268d7b34e05270f2]{
 -- Page 0, Offset 18009.
 -- <叱咤|しった>に近い指示に、有珠は無言で従った。
-  Alice obéit sans un mot à l'ordre prononcé sur un ton rageur.
+　Alice obéit sans un mot à l'ordre prononcé sur un ton rageur.
 
 }
 [sha:f7ffc72892ca9b4c455dfd7e0dfe898ec2fa4b7b]{
 -- Page 0, Offset 18010.
 -- 橙子と対峙する青子を残し、有珠はためらう事なく森へと<踵|きびす>を返す。
-  Sans la moindre hésitation, elle tourna les talons vers la forêt en laissant Aoko seule face à Tōko.
+　Sans la moindre hésitation, elle tourna les talons vers la forêt en laissant Aoko seule face à Tōko.
 
 }
 [sha:8770ac0151e6575d58d1fe33e4827c8f287267cd]{
 -- Page 1, Offset 18011.
 -- ……敗北が決定的になった以上、ふたり一緒に殺される愚だけは犯せない。
-  ...... Leur défaite était peut-être inéluctable, mais elles ne commettraient jamais la bêtise de se faire tuer toutes les deux.
+　...... Leur défaite était peut-être inéluctable, mais elles ne commettraient jamais la bêtise de se faire tuer toutes les deux.
 
 }
 [sha:f6385c8f57f9b71e92a6db371591355e7a5eca6e]{
 -- Page 1, Offset 18012.
 -- どちらかが生き延びれば三度目の正直もある。
-  Si l'une d'elles survivait, il y aurait une troisième chance.
+　Si l'une d'elles survivait, il y aurait une troisième chance.
 
 }
 [sha:8bbab2df3146150d60fd0663437bcb41cc7eda85]{
 -- Page 1, Offset 18013.
 -- その為に犠牲になるのは自分の役割だと青子は判断したのだ。
-  Aoko avait jugé que c'était à elle de se sacrifier dans ce but.
+　Aoko avait jugé que c'était à elle de se sacrifier dans ce but.
 
 }
 [sha:f9ad1ce5f066d0b4fba9152428623ad9cfebcf39]{
@@ -43,31 +43,31 @@
 [sha:052cd5d22b49b351b0338498a3f9925c4f1a535f]{
 -- Page 2, Offset 18015.
 -- 走り去る有珠の足音を聞きながら、青子は少しだけ残念そうに呟いた。
-  murmura Aoko avec regret au son des bruits de pas de la jeune fille qui se retirait.
+　murmura Aoko avec regret au son des bruits de pas de la jeune fille qui se retirait.
 
 }
 [sha:87935d337c3e0d0dca56c2341ca3548cb924565d]{
 -- Page 2, Offset 18016.
 -- ……惜しいのは自分の死ではなく、有珠が橙子を打ち負かす瞬間が見られない事だけ。
-  ...... Elle ne déplorait pas sa propre mort, mais seulement le fait qu'elle ne verrait pas le moment où Alice vaincrait Tōko.
+　...... Elle ne déplorait pas sa propre mort, mais seulement le fait qu'elle ne verrait pas le moment où Alice vaincrait Tōko.
 
 }
 [sha:1832df6f771c4e5616806e2cebbef9152c15d4d8]{
 -- Page 2, Offset 18017.
 -- それ以外に何を無念に思う事があるだろうか。
-  Hormis cela, avait-elle quelque chose à regretter ?
+　Hormis cela, avait-elle quelque chose à regretter ?
 
 }
 [sha:9f16d70d99e196082cfeb487a0a051b73e2756f1]{
 -- Page 3, Offset 18018.
 -- 有珠が森へと消えていく。
-  Alice disparut dans la forêt.
+　Alice disparut dans la forêt.
 
 }
 [sha:e43dec4bc9459a68a86588a865975c1e6bfe1a93]{
 -- Page 3, Offset 18019.
 -- それを背中で感じながら、青子は橙子を睨み続ける。
-  Aoko ne cessait de fixer Tōko tandis que ses sens confirmaient cette information.
+　Aoko ne cessait de fixer Tōko tandis que ses sens confirmaient cette information.
 
 }
 [sha:0de479ceb994874641848bcd2c0eaa16ef0dbf66]{
@@ -79,19 +79,19 @@
 [sha:ff9f7957cb21ab4c37ee85dd7949751f4a9b3844]{
 -- Page 3, Offset 18021.
 -- 私、待たされるのは好きじゃないんだけど」
-  Tu sais très bien que je déteste attendre.」
+　Tu sais très bien que je déteste attendre.」
 
 }
 [sha:75e0d932040aebb628d32cfe6060d70777f2c20a]{
 -- Page 3, Offset 18022.
 -- 合図はされたものの、人狼の姿はない。
-  Le signal avait été lancé, mais le loup-garou n'avait toujours pas fait son apparition.
+　Le signal avait été lancé, mais le loup-garou n'avait toujours pas fait son apparition.
 
 }
 [sha:9c40c97a5cfcc28f05b1693a87bbf01030836631]{
 -- Page 3, Offset 18023.
 -- あの怪物なら一分とかからず、旧校舎から飛んでくるだろうに、と。
-  Ce monstre aurait pourtant été capable de rappliquer depuis le vieil établissement en moins d'une minute.
+　Ce monstre aurait pourtant été capable de rappliquer depuis le vieil établissement en moins d'une minute.
 
 }
 [sha:572b026bf43c2300c12df41227e0069c028ccb5a]{
@@ -103,13 +103,13 @@
 [sha:18df7ec375300927762975e6c61d7b8d4e8f08e2]{
 -- Page 4, Offset 18025.
 -- 黒帽子の彼女をそう喩えるのは、やや無理があるがね」
-  Même si je dois admettre qu'appeler ainsi une jeune fille avec un bonnet noir n'est pas très pertinent.」
+　Même si je dois admettre qu'appeler ainsi une jeune fille avec un bonnet noir n'est pas très pertinent.」
 
 }
 [sha:267eef21ac11e605a0b795ca146b31659206d372]{
 -- Page 4, Offset 18026.
 -- 皮肉げに響く橙子の声。
-  La voix de Tōko vibrait d'un ton cynique.
+　La voix de Tōko vibrait d'un ton cynique.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -121,19 +121,19 @@
 [sha:f423650727a1602bd73104265d4d02b561f786bf]{
 -- Page 4, Offset 18028.
 -- 校庭で流れる、関わりのない放送みたいだ。
-  C'était comme si un film dans lequel Aoko n'avait pas de rôle se déroulait dans la cour.
+　C'était comme si un film dans lequel Aoko n'avait pas de rôle se déroulait dans la cour.
 
 }
 [sha:be74f99948b72f3cd512eeea19d18843cb78a2ab]{
 -- Page 4, Offset 18029.
 -- 青子は呆然と立ちつくす。
-  Elle était figée sur place, abasourdie.
+　Elle était figée sur place, abasourdie.
 
 }
 [sha:15b507336d925b69f3432ec94056f18c0068de6a]{
 -- Page 4, Offset 18030.
 -- 今の橙子の言葉を、青子は<忘我|ぼうが>する事で、現実ではないと聞き流し―――
-  En transe, elle ne prêtait plus attention aux mots de Tōko, refusant de croire la réalité―――
+　En transe, elle ne prêtait plus attention aux mots de Tōko, refusant de croire la réalité―――
 
 }
 [sha:046bec948a6b301b63c8bb4b65478ac6e1731c2b]{
@@ -145,43 +145,43 @@
 [sha:519b1265711e27e6f968a3e90ed181177f61719c]{
 -- Page 5, Offset 18032.
 -- 誤魔化しきれるはずもなく、青子は背後を振り返った。
-  Mais incapable de feindre l'impassibilité plus longtemps, elle se retourna.
+　Mais incapable de feindre l'impassibilité plus longtemps, elle se retourna.
 
 }
 [sha:b811f503eccc64eb54dcecfc787b9edb84445e4f]{
 -- Page 5, Offset 18033.
 -- ……夜の森は白雪のおかげで、月明かりだけでも十分に遠くを見通せた。
-  ...... Grâce à la poudreuse, le clair de lune suffisait pour voir loin dans la forêt sombre.
+　...... Grâce à la poudreuse, le clair de lune suffisait pour voir loin dans la forêt sombre.
 
 }
 [sha:52318cbea37494d2b6f087dad5eeb943732cbe9a]{
 -- Page 5, Offset 18034.
 -- その真白い闇の中から、ひとりの少年が歩いてくるのが見てとれる。
-  On pouvait apercevoir un garçon s'approcher dans ces ténèbres immaculées.
+　On pouvait apercevoir un garçon s'approcher dans ces ténèbres immaculées.
 
 }
 [sha:5f7a112b3cfb760ef3ffd851f596f4d5f86ea524]{
 -- Page 6, Offset 18035.
 -- 青子の胸より背の低い少年は、自分より大きな<有珠|ひとかげ>を肩にかけて歩いていた。
-  Il arrivait à peine à la poitrine d'Aoko, et pourtant, il portait sur son épaule une personne plus grande que lui.
+　Il arrivait à peine à la poitrine d'Aoko, et pourtant, il portait sur son épaule une personne plus grande que lui.
 
 }
 [sha:340c1ed5c1c782ea439738730180cd24f5dac5a9]{
 -- Page 6, Offset 18036.
 -- 少年は無造作に有珠の体を投げ捨てる。
-  Le garçon lança le corps d'Alice sans difficulté.
+　Le garçon lança le corps d'Alice sans difficulté.
 
 }
 [sha:3654f6ff38d580f691f40fd68893324db1fe2d27]{
 -- Page 6, Offset 18037.
 -- 放られた有珠は、数メートルもの放物線を描いて、青子の目前に落下する。
-  La jeune fille dessina une parabole de quelques mètres et chuta sous les yeux d'Aoko,
+　La jeune fille dessina une parabole de quelques mètres et chuta sous les yeux d'Aoko,
 
 }
 [sha:10f2ce751c2a651569ceefd4e32c927fb7df5b87]{
 -- Page 6, Offset 18038.
 -- 頭から。ごきりと、首の骨を折るように。
-  tête la première, avec toutes les chances de se briser la nuque.
+　tête la première, avec toutes les chances de se briser la nuque.
 
 }
 [sha:9a69f14dce05fae3ac3304fd24350c105eb61107]{
@@ -193,31 +193,31 @@
 [sha:006155754d93ec6b325137c1341810539c102a80]{
 -- Page 7, Offset 18040.
 -- やめたほうがいいのに、と思いつつ青子は有珠を受けとめた。
-  Aoko rattrapa Alice dans sa chute, en dépit de son instinct qui lui disait qu'elle ferait mieux de ne pas le faire.
+　Aoko rattrapa Alice dans sa chute, en dépit de son instinct qui lui disait qu'elle ferait mieux de ne pas le faire.
 
 }
 [sha:09f0cdf1b9593cfe317079e31cda54a044677eb4]{
 -- Page 7, Offset 18041.
 -- 有珠の軽い体が何倍にもなって両腕にのし掛かる。
-  Le poids du corps menu de la sorcière, amplifié sous l'effet de l'inertie, tira d'un coup sur les deux bras d'Aoko.
+　Le poids du corps menu de la sorcière, amplifié sous l'effet de l'inertie, tira d'un coup sur les deux bras d'Aoko.
 
 }
 [sha:6619bcc10a79ffe5779487316945ad3d3e6731e9]{
 -- Page 8, Offset 18042.
 -- ……縫合したばかりの傷が、容赦なく開いていく。
-  ...... Ses blessures fraîchement suturées se rouvrirent sans pitié.
+　...... Ses blessures fraîchement suturées se rouvrirent sans pitié.
 
 }
 [sha:8ccf6d4b4f5cec33356aefaf92ac6bfde1645219]{
 -- Page 8, Offset 18043.
 -- 受けとめた両腕が赤い。
-  Ses bras prirent une teinte écarlate.
+　Ses bras prirent une teinte écarlate.
 
 }
 [sha:4d4993e4cad7915d50c7b2d1973702bb469afe83]{
 -- Page 8, Offset 18044.
 -- ぬらりとした血の感触と激痛に、青子は歯を食いしばって耐えた。
-  Aoko supporta la douleur et la sensation dégoûtante du sang visqueux en serrant les dents.
+　Aoko supporta la douleur et la sensation dégoûtante du sang visqueux en serrant les dents.
 
 }
 [sha:d342547cb30456429759e87aefe6ad6010d1f6ec]{
@@ -235,19 +235,19 @@
 [sha:6a1702179b15ad203c69eae41b51a73c2742b88b]{
 -- Page 9, Offset 18047.
 -- 返事はないものの、意識はあるようだ。
-  Bien qu'elle ne réponde pas, elle semblait encore consciente.
+　Bien qu'elle ne réponde pas, elle semblait encore consciente.
 
 }
 [sha:1eee05670bed27bcdc548105e1147d62f32ccdd8]{
 -- Page 9, Offset 18048.
 -- 有珠は森に入ったところで人狼の奇襲を受けたのだろう。
-  Le loup-garou avait sûrement attaqué Alice par surprise dès qu'elle était entrée dans la forêt.
+　Le loup-garou avait sûrement attaqué Alice par surprise dès qu'elle était entrée dans la forêt.
 
 }
 [sha:4c6fa231a411889543cd6ea36f9024c1b774c91e]{
 -- Page 9, Offset 18049.
 -- 昨夜、狼に切り裂かれた腹部は、青子と同じように血で<滲|にじ>んでいた。
-  Son abdomen, déchiqueté par la bête la veille, était taché de sang, tout comme les bras d'Aoko.
+　Son abdomen, déchiqueté par la bête la veille, était taché de sang, tout comme les bras d'Aoko.
 
 }
 [sha:7a520bfde2c5b7c963509249811bc60f92c3a9f9]{
@@ -259,13 +259,13 @@
 [sha:d0213f57e827a1d645aa6275b9600a5bcab38c80]{
 -- Page 10, Offset 18051.
 -- チ、と自分の浅はかさを呪いながら、有珠の体をそっと下ろす。
-  Aoko maudit sa bêtise d'un claquement de langue avant de poser Alice délicatement.
+　Aoko maudit sa bêtise d'un claquement de langue avant de poser Alice délicatement.
 
 }
 [sha:d6dedaca15ced8a2019ec3c737d6b18ff1d73def]{
 -- Page 10, Offset 18052.
 -- 青子の視線は目前の敵―――金髪の少年に向けられている。
-  Son regard était tourné vers l'ennemi devant elle―――le garçon blond.
+　Son regard était tourné vers l'ennemi devant elle―――le garçon blond.
 
 }
 [sha:6dd9218b87d966c3917508506149b7387c1c29ec]{
@@ -277,37 +277,37 @@
 [sha:a8dd266acd9818661b11fa0e781c6f6d615d9409]{
 -- Page 11, Offset 18054.
 -- 甘く見ていたフリで、初めから、余裕なかったんだ」
-  Elle faisait semblant de nous prendre à la légère, mais en réalité, elle était sérieuse depuis le début.」
+　Elle faisait semblant de nous prendre à la légère, mais en réalité, elle était sérieuse depuis le début.」
 
 }
 [sha:211f1637b675c24bdc31b9cafa401b0b080eeeb1]{
 -- Page 12, Offset 18055.
 -- 青子の怒気を受けても、少年はうす笑いを崩さない。
-  Même sous son regard furibond, le garçon persistait à arborer un curieux sourire.
+　Même sous son regard furibond, le garçon persistait à arborer un curieux sourire.
 
 }
 [sha:97583bb6651de6df0bdb4e91a069362bd78d202d]{
 -- Page 12, Offset 18056.
 -- 少女たちを見つめる瞳は<爛|らん>と輝き、明らかに、この後の惨劇を待ち焦がれている風だ。
-  Tandis qu'il fixait les jeunes filles, l'éclat qui brillait dans ses yeux montrait clairement qu'il se délectait de la tragédie à venir.
+　Tandis qu'il fixait les jeunes filles, l'éclat qui brillait dans ses yeux montrait clairement qu'il se délectait de la tragédie à venir.
 
 }
 [sha:ca9148260f3b6eb55a406d8a3753dc0efaf27bfe]{
 -- Page 12, Offset 18057.
 -- 夜目にも鮮やかな金髪とグリーンの瞳、
-  Ses cheveux et ses yeux verts qui resplendissaient même dans les ténèbres,
+　Ses cheveux et ses yeux verts qui resplendissaient même dans les ténèbres,
 
 }
 [sha:f2215f407d46846c333ea19e1ebcd97b69b5d614]{
 -- Page 12, Offset 18058.
 -- 少年というよりは少女に見える顔立ちも、
-  et son apparence, plus proche d'une fille que d'un garçon,
+　et son apparence, plus proche d'une fille que d'un garçon,
 
 }
 [sha:fd2587635e4d5fa8e18c5278eb68dcbe1a57782d]{
 -- Page 12, Offset 18059. Glued. Mods: @x.
 -- 今はそういうカタチをしただけの、違う星の生き物としか思えない―――
- évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
+évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
 
 }
 [sha:56b461af826ea692cca846f58771ea8e4bdaa4e9]{
@@ -319,67 +319,67 @@
 [sha:ef1bbff17d2ae8a423612dd97b4352f4441f2dcc]{
 -- Page 13, Offset 18061.
 -- 遠くから響く、橙子の短い声。
-  La voix de Tōko résonna brièvement au loin.
+　La voix de Tōko résonna brièvement au loin.
 
 }
 [sha:1cd38ced79ef9b892170ea295e44b3b499e98a45]{
 -- Page 13, Offset 18062.
 -- 少年は小さく笑ったように見えた。
-  Le garçon semblait avoir souri discrètement.
+　Le garçon semblait avoir souri discrètement.
 
 }
 [sha:d1b9c8cbcce067b6b443aed9e9135513231a247c]{
 -- Page 13, Offset 18063.
 -- けれど、まさか。
-  Cependant,
+　Cependant,
 
 }
 [sha:1d03810aa9554bed0807660c249f66178852ba6f]{
 -- Page 13, Offset 18064.
 -- そこで青子が<自|・><分|・>から少年に走り出すなど、誰に予想できただろうか。
-  qui aurait pu imaginer qu'Aoko se précipiterait alors d'elle-même sur lui ?
+　qui aurait pu imaginer qu'Aoko se précipiterait alors d'elle-même sur lui ?
 
 }
 [sha:cc80a1a2de3f218b6e7d0a464c7f8a6bd8deb4c7]{
 -- Page 14, Offset 18065.
 -- 足跡だけの駒鳥より早く、両手から赤い血を地面にこぼしながら、青子は少年へと疾走する。
-  Encore plus rapide que Robin, Aoko fonça à toute allure vers lui tout en répandant sur le sol le sang coulant de ses deux bras.
+　Encore plus rapide que Robin, Aoko fonça à toute allure vers lui tout en répandant sur le sol le sang coulant de ses deux bras.
 
 }
 [sha:0653ccbf595596e1adffa400a089747e9f1717b0]{
 -- Page 14, Offset 18066.
 -- 橙子は予想外の展開に目を見張り、
-  Tōko ouvrit grand les yeux devant cet évènement imprévu,
+　Tōko ouvrit grand les yeux devant cet évènement imprévu,
 
 }
 [sha:a8f10ca29563c4fd1d890c2a242471e4302a3304]{
 -- Page 14, Offset 18067.
 -- 地面に寝かされた有珠は<虚|うつ>ろな目で見守る事しかできない。
-  tandis qu'Alice, couchée sur le sol, ne pouvait que regarder la scène d'un œil vide.
+　tandis qu'Alice, couchée sur le sol, ne pouvait que regarder la scène d'un œil vide.
 
 }
 [sha:41b1a744f5a1d8a0ffc5a5092e1c114985d302a1]{
 -- Page 14, Offset 18068.
 -- 人狼の少年とて、今まで獲物としか思っていなかった<雌鹿|めじか>の反撃に意表を突かれていた。
-  Même le garçon loup-garou fut pris au dépourvu par la contre-attaque de la biche qu'il n'avait considérée jusqu'à maintenant que comme une proie.
+　Même le garçon loup-garou fut pris au dépourvu par la contre-attaque de la biche qu'il n'avait considérée jusqu'à maintenant que comme une proie.
 
 }
 [sha:ef927d24056dbeab630a5d6fe9fef0d075b4af51]{
 -- Page 15, Offset 18069.
 -- 六メートルもの間合いを一気に詰めて、青子は片足で雪原をダン、と踏み付けた。
-  Aoko parcourut les six mètres qui les séparaient en un instant avant de frapper du pied le champ de neige.
+　Aoko parcourut les six mètres qui les séparaient en un instant avant de frapper du pied le champ de neige.
 
 }
 [sha:4dd42aea7eb7a282d347e18080cc5427340af0be]{
 -- Page 15, Offset 18070.
 -- 停止と回転軸を兼ねた踏みこみ。
-  Sa jambe lui servit de frein et d'axe de rotation.
+　Sa jambe lui servit de frein et d'axe de rotation.
 
 }
 [sha:63d92269a40a5c6b64754b765a7f55dff976f443]{
 -- Page 15, Offset 18071.
 -- 攻撃意図を瞬時に悟るも、少年の跳び退きは間に合わない。
-  Le garçon comprit en un instant le but de l'attaque, mais il n'aurait pas le temps d'esquiver.
+　Le garçon comprit en un instant le but de l'attaque, mais il n'aurait pas le temps d'esquiver.
 
 }
 [sha:252ddd69737ee60f4905828199d78a1a8cec69b5]{
@@ -391,37 +391,37 @@
 [sha:76f5a7e781fe6d56ec43223a960b28672778faea]{
 -- Page 16, Offset 18073.
 -- 片足が、走った勢いもそのままに跳ね上がる。
-  L'autre jambe jaillit en gardant l'élan de sa course.
+　L'autre jambe jaillit en gardant l'élan de sa course.
 
 }
 [sha:bf1d7b5941d992bf0e43c67646a0f6fda7dbd6d1]{
 -- Page 16, Offset 18074.
 -- 少年の首を狙った回し蹴りは弧を描いて、この上ないタイミングで少年の<延髄|えんずい>に<炸裂|さくれつ>した。
-  Le coup de pied circulaire visant le cou du garçon dessina un arc de cercle et frappa le haut de sa nuque avec un timing idéal.
+　Le coup de pied circulaire visant le cou du garçon dessina un arc de cercle et frappa le haut de sa nuque avec un timing idéal.
 
 }
 [sha:55068e63ec253181d39c23ebb39b30d3d880da5b]{
 -- Page 17, Offset 18075.
 -- 魔力によって強化された白兵術式。
-  Il s'agissait d'une technique de combat rapproché renforcée par du prana.
+　Il s'agissait d'une technique de combat rapproché renforcée par du prana.
 
 }
 [sha:96ffa94016a24e1d27238d490b4a1d4bbb2bdf18]{
 -- Page 17, Offset 18076.
 -- 人形との戦いでコツを掴んだ青子の、この森の痩せた木なら<粉砕|ふんさい>しかねない、強烈な一撃だった。
-  Une attaque meurtrière dont Aoko avait saisi l'astuce lors de son combat contre l'Automate et qui aurait pu pulvériser les minces arbres de cette forêt.
+　Une attaque meurtrière dont Aoko avait saisi l'astuce lors de son combat contre l'Automate et qui aurait pu pulvériser les minces arbres de cette forêt.
 
 }
 [sha:310acb5298db0592504cfcf3832f3ea473a359f3]{
 -- Page 18, Offset 18077.
 -- 少年は動かない。
-  Le garçon ne bougeait pas.
+　Le garçon ne bougeait pas.
 
 }
 [sha:e4d2373853f8b153281864808144686057949118]{
 -- Page 18, Offset 18078.
 -- そして青子も、右足を首に直撃させたまま止まっていた。
-  De même, Aoko s'était arrêtée, la jambe droite plaquée contre son cou.
+　De même, Aoko s'était arrêtée, la jambe droite plaquée contre son cou.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -433,25 +433,25 @@
 [sha:8f2c41781333744ef13eb378ba1d232019bb9ff4]{
 -- Page 19, Offset 18080.
 -- 首筋が、<戦慄|せんりつ>で凍りついている。
-  Des frissons parcoururent sa nuque.
+　Des frissons parcoururent sa nuque.
 
 }
 [sha:bc49a5743116ebfdf7fb7fffb7cc04f2e3cc33e1]{
 -- Page 19, Offset 18081.
 -- あの人形を破壊したのと同等の手応え。
-  La résistance était similaire à celle qu'elle avait ressentie en détruisant l'Automate.
+　La résistance était similaire à celle qu'elle avait ressentie en détruisant l'Automate.
 
 }
 [sha:a4a27d52fa7dd6f55e16648438c7023f27cc9b4d]{
 -- Page 19, Offset 18082.
 -- 倒せないまでも、首の骨にダメージを与えた筈だ。
-  Elle ne l'avait peut-être pas vaincu, mais elle avait dû causer quelques dommages aux os de son cou.
+　Elle ne l'avait peut-être pas vaincu, mais elle avait dû causer quelques dommages aux os de son cou.
 
 }
 [sha:71608dacbde686e4aef3dc3615ec8aac54e7fe05]{
 -- Page 19, Offset 18083.
 -- そう確信した青子の思い上がりを正すように、少年は眉すら動かさず、目前の青子を見つめていた。
-  Comme pour corriger la prétention d'Aoko, sûre d'elle, le garçon fixait la fille devant lui sans bouger un sourcil.
+　Comme pour corriger la prétention d'Aoko, sûre d'elle, le garçon fixait la fille devant lui sans bouger un sourcil.
 
 }
 [sha:ab047620ed7d4d90f9391bc0165191091cde8ab5]{
@@ -463,25 +463,25 @@
 [sha:e055a241bcb329ff9764c83099fd56fdf7aadf44]{
 -- Page 20, Offset 18085.
 -- それで首を狙ったのは、すごいよね。女の人は本能的に自分の体を<庇|かば>うものだって、トーコさんは言ってたのに。
-  Malgré tout, c'est avec elle que tu as attaqué mon cou, c'est impressionnant. Mademoiselle Tōko m'avait pourtant dit que les femmes protégeaient leur corps par instinct.
+　Malgré tout, c'est avec elle que tu as attaqué mon cou, c'est impressionnant. Mademoiselle Tōko m'avait pourtant dit que les femmes protégeaient leur corps par instinct.
 
 }
 [sha:62bb8cfe0149ec4b8a2c6b16e5e565a1d2c283ed]{
 -- Page 20, Offset 18086.
 -- けど残念、せっかくの勇気も無駄でした。ボクの体毛の質は、<こ|・><の|・><姿|・>でも変わらない。うぶ毛だけでも、お姉さんの蹴りを受けとめる事はできる」
-  Mais malheureusement, ton courage aura été inutile. La qualité de mes poils est la même quelle que soit ma forme. Mon duvet suffit amplement pour bloquer tes coups de pied.」
+　Mais malheureusement, ton courage aura été inutile. La qualité de mes poils est la même quelle que soit ma forme. Mon duvet suffit amplement pour bloquer tes coups de pied.」
 
 }
 [sha:f77e9ee52774d8e600a1e5080461a66bf4ec89b2]{
 -- Page 21, Offset 18087.
 -- 痛みがあるのは青子の方だけ。
-  Seule Aoko ressentait de la douleur.
+　Seule Aoko ressentait de la douleur.
 
 }
 [sha:afe006d138c210e8f2c731a4dafb10231eae8ce1]{
 -- Page 21, Offset 18088.
 -- 延髄を蹴った足の<脛|すね>は、まるで斧で切り落とされたように、感覚というものがない―――
-  Elle ne sentait plus rien au niveau de son tibia qui avait frappé le bulbe rachidien du garçon, comme s'il avait été coupé par une hache―――
+　Elle ne sentait plus rien au niveau de son tibia qui avait frappé le bulbe rachidien du garçon, comme s'il avait été coupé par une hache―――
 
 }
 [sha:afba2ee6fa5b63cad4267e69532cc8b705e3ef10]{
@@ -493,25 +493,25 @@
 [sha:0e0f260bc0aa14ea3c375542a298f6ab30e67df6]{
 -- Page 22, Offset 18090. Glued. Mods: @x.
 -- 人間がボクの相手をするなら、そんなこと気にしちゃいけないのに。
-  Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
+　Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
 
 }
 [sha:2aec7bbd94e68cf82284aeb2b9826a6cdac8d7fd]{
 -- Page 22, Offset 18091.
 -- ああ、でも―――」
-  Ah, mais―――」
+　Ah, mais―――」
 
 }
 [sha:26abf5eb70b2432beb2f87875425b07610fedff1]{
 -- Page 22, Offset 18092.
 -- 青子の驚愕を浴びながら少年は笑う。
-  Le garçon souriait face à l'étonnement d'Aoko.
+　Le garçon souriait face à l'étonnement d'Aoko.
 
 }
 [sha:07239ad7ea5a14bffd9e66d0b5603a1626788d57]{
 -- Page 22, Offset 18093.
 -- 足は戻せない。
-  Elle ne pouvait pas baisser sa jambe.
+　Elle ne pouvait pas baisser sa jambe.
 
 }
 [sha:07d250eeef52e17b242f9baec4a55c2c4dc062ea]{
@@ -535,43 +535,43 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:7247cee77fc09e5d483492a6d4663d52345e4be1]{
 -- Page 24, Offset 18097.
 -- 少年の指らしきものが、右足に食いこんだ事が、青子にはよく判らなかった。
-  Aoko n'avait pas bien réalisé que ce qui ressemblait aux doigts du garçon pénétrait dans sa jambe.
+　Aoko n'avait pas bien réalisé que ce qui ressemblait aux doigts du garçon pénétrait dans sa jambe.
 
 }
 [sha:81a4af206079545ec20bdfd3fb7653268a318cd2]{
 -- Page 25, Offset 18098.
 -- もともと少年の言うとおり、右足には感覚なんてほとんどなかったのだ。
-  Comme il l'avait dit, elle n'avait pratiquement pas de sensation dans sa jambe depuis le départ.
+　Comme il l'avait dit, elle n'avait pratiquement pas de sensation dans sa jambe depuis le départ.
 
 }
 [sha:ea4e96a5fe98c04ff722670a7eaf6a7b25532715]{
 -- Page 25, Offset 18099.
 -- 今の一撃で完全に麻痺した足は、またも<凄惨|せいさん>な運命を繰り返したらしい。
-  Maintenant que cette attaque l'avait complètement anesthésiée, elle semblait revivre le même cauchemar.
+　Maintenant que cette attaque l'avait complètement anesthésiée, elle semblait revivre le même cauchemar.
 
 }
 [sha:96ed1105a11815a81b7252e2e00ff1a6ede7950e]{
 -- Page 26, Offset 18100.
 -- ……ただ、今回は千切られる事なく、骨まで握られた。
-  ...... Seulement, cette fois, il avait arraché l'os sans la mettre en pièces.
+　...... Seulement, cette fois, il avait arraché l'os sans la mettre en pièces.
 
 }
 [sha:6f9d17db045ad38266f21f818d5bfdaab37087f7]{
 -- Page 26, Offset 18101.
 -- 感覚はないけれど、<夥|おびただ>しい血の量と、<無惨|むざん>にやせこけた自分の足の<醜|みにく>さが、目に痛い。
-  Elle ne sentait rien, mais l'énorme quantité de sang et la laideur de sa propre jambe émaciée constituaient un spectacle atroce.
+　Elle ne sentait rien, mais l'énorme quantité de sang et la laideur de sa propre jambe émaciée constituaient un spectacle atroce.
 
 }
 [sha:cc0280a4c176d060798f6f5dfe7ff6b7e1c4175d]{
 -- Page 26, Offset 18102.
 -- 普通なら出血量だけでショック死。
-  Pour une personne normale, l'hémorragie aurait été fatale.
+　Pour une personne normale, l'hémorragie aurait été fatale.
 
 }
 [sha:2d9f8b7d7415b1f7d8275e88a1498196dd37253a]{
 -- Page 26, Offset 18103.
 -- 魔術刻印というものは、こういう時に残酷よね、と他人事のように青子は思う。
-  C'est dans ces moments-là que le Sceau Magique montre toute sa cruauté, songea Aoko comme dans un rêve.
+　C'est dans ces moments-là que le Sceau Magique montre toute sa cruauté, songea Aoko comme dans un rêve.
 
 }
 [sha:35e8ad0784fbc5ceabde0fba2e40a72dc5e409b8]{
@@ -583,43 +583,43 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:5f72e579a5389532b579cd35353933a7d7e7f768]{
 -- Page 27, Offset 18105.
 -- ……あんまり苦しめたくないんだけど。ガンジョウなのも考え物だよ、お姉さん」
-...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
+　...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
 
 }
 [sha:8560bbffafd0d9e58eaadaf4f8df0fd9700290b0]{
 -- Page 27, Offset 18106.
 -- 少年の手が、青子の胸に<放|はな>たれる。
-  Le garçon envoya sa main vers la poitrine d'Aoko.
+　Le garçon envoya sa main vers la poitrine d'Aoko.
 
 }
 [sha:404bb27d4039e236fd1264e10f9fe2dada45e638]{
 -- Page 27, Offset 18107.
 -- 胸の中心に刺さった<杭|くい>―――いや、少年の拳の痛みに、青子の意識が消えかかる。
-  Cette dernière faillit perdre conscience à cause de la douleur provoquée par le pieu―――par le poing du garçon qui s'était planté au beau milieu de sa poitrine.
+　Cette dernière faillit perdre conscience à cause de la douleur provoquée par le pieu―――par le poing du garçon qui s'était planté au beau milieu de sa poitrine.
 
 }
 [sha:c1482e6b7b157ffc8b7dd650570aab4943348cd8]{
 -- Page 28, Offset 18108.
 -- ……飛んでいる。
-  ...... Elle volait.
+　...... Elle volait.
 
 }
 [sha:6efbd8532a60f8e8073148fc910222cbee8737f1]{
 -- Page 28, Offset 18109.
 -- 中身のない空気人形のように、自分の体が飛んでいるのが分かる。
-  Elle réalisa que son corps volait comme une poupée gonflable vide.
+　Elle réalisa que son corps volait comme une poupée gonflable vide.
 
 }
 [sha:98000d537d5e7b06eaa826eac556bc303806135a]{
 -- Page 28, Offset 18110.
 -- 先ほどの有珠と同じように大きく空中に放られて、青子は背中から地面に落ちた。
-  Projetée dans les airs de la même façon qu'Alice un instant auparavant, son dos percuta violemment le sol.
+　Projetée dans les airs de la même façon qu'Alice un instant auparavant, son dos percuta violemment le sol.
 
 }
 [sha:c266bd7350d5d15f060c927e9e10eb181f184475]{
 -- Page 29, Offset 18111.
 -- 潰された右足と、胸に残る拳の衝撃。
-  Sa jambe droite était broyée et l'impact du poing persistait sur sa poitrine.
+　Sa jambe droite était broyée et l'impact du poing persistait sur sa poitrine.
 
 }
 [sha:c3c56bdcef2c79c03109b435077c5b5d32bccf97]{
@@ -631,43 +631,43 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:220a38e3ff77c50d8d34d82c12f1c6f49e91d6aa]{
 -- Page 29, Offset 18113.
 -- 満足な呼吸はできず、心臓をえぐり取られたとしか思えない痛みに、視界が点滅する。
-  Elle ne pouvait plus respirer normalement, la douleur intense lui donnait l'impression qu'on lui avait arraché le cœur, sa vision s'obscurcissait.
+　Elle ne pouvait plus respirer normalement, la douleur intense lui donnait l'impression qu'on lui avait arraché le cœur, sa vision s'obscurcissait.
 
 }
 [sha:f191b967c63d16ef466b31dbb286c62ddb4a0929]{
 -- Page 29, Offset 18114.
 -- 目から火が出るとはこういう事か。
-  Elle voyait littéralement trente-six chandelles.
+　Elle voyait littéralement trente-six chandelles.
 
 }
 [sha:20bfb7f968458172acb9b1331e13499c6bfa2116]{
 -- Page 29, Offset 18115.
 -- 恐ろしいのは痛みがまったく<薄|うす>れないこと。
-  Le plus terrifiant, c'était que la douleur ne s'estompait pas.
+　Le plus terrifiant, c'était que la douleur ne s'estompait pas.
 
 }
 [sha:992cd72363134b806c0d422c69b00d3b96c58ac3]{
 -- Page 29, Offset 18116.
 -- 無惨にあえぐ青子の胸には、いまも拳大の、杭の感覚が残っている―――
-  La sensation du pieu, du large poing, subsistait dans la poitrine d'Aoko qui haletait misérablement―――
+　La sensation du pieu, du large poing, subsistait dans la poitrine d'Aoko qui haletait misérablement―――
 
 }
 [sha:3df68f8803dddbce07e50f1d218b4687ce11480a]{
 -- Page 30, Offset 18117.
 -- ……少年はゆっくりと、雪原に殴り飛ばされた青子に近寄っていく。
-  ...... Le garçon approchait lentement de la fille qu'il avait envoyée valser sur le champ de neige.
+　...... Le garçon approchait lentement de la fille qu'il avait envoyée valser sur le champ de neige.
 
 }
 [sha:a7199bdb51f05dedcf67ac3b857447b3fa5d71b3]{
 -- Page 30, Offset 18118.
 -- 唇を舐める赤い舌。
-  Il se léchait avidement les babines.
+　Il se léchait avidement les babines.
 
 }
 [sha:59227b887ed1d7c3311a534593ae378213ceca0a]{
 -- Page 30, Offset 18119.
 -- 喜びに<濁|にご>った目が、呼吸すら精一杯の<獲物|あおこ>を見つめている。
-  Ses yeux pervertis par la jubilation fixaient la proie qui utilisait toutes ses forces pour respirer.
+　Ses yeux pervertis par la jubilation fixaient la proie qui utilisait toutes ses forces pour respirer.
 
 }
 [sha:3e989283370b4b0837cb8a35c61202700fbfdb25]{
@@ -679,31 +679,31 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:3123843ca5c9bc03f4ed3d16a933ceaffb14c2bf]{
 -- Page 31, Offset 18121.
 -- もう、ここで意識を失ってしまおうか、なんて甘さを青子はかみ砕く。
-  Aoko réprima la faiblesse qui la poussait à se laisser perdre conscience.
+　Aoko réprima la faiblesse qui la poussait à se laisser perdre conscience.
 
 }
 [sha:83579a5fde574c5186df4f0e0e96ab9881771578]{
 -- Page 31, Offset 18122.
 -- ……けれど、頑張ってどうなるのか。
-  ...... Mais à quoi bon résister ?
+　...... Mais à quoi bon résister ?
 
 }
 [sha:a2b72790d882ba51a9689083cc6d0d3473eef7f3]{
 -- Page 31, Offset 18123.
 -- 落下した背中は雪に助けられたが、拳を受けた胸の<陥没|かんぼつ>と、潰された右足が、容赦なく生命を奪っていく。
-  La couche de neige avait amorti sa chute, épargnant ainsi son dos, mais l'enfoncement de sa poitrine dû au coup de poing et sa jambe droite broyée la privaient de toutes ses forces.
+　La couche de neige avait amorti sa chute, épargnant ainsi son dos, mais l'enfoncement de sa poitrine dû au coup de poing et sa jambe droite broyée la privaient de toutes ses forces.
 
 }
 [sha:42ba7acc4fad839a2ca4c61968afa83f37767022]{
 -- Page 32, Offset 18124.
 -- 自分がスクラップみたいに壊れてしまったと分かるのに、
-  Alors qu'elle savait pertinemment qu'elle s'était fait briser comme du verre,
+　Alors qu'elle savait pertinemment qu'elle s'était fait briser comme du verre,
 
 }
 [sha:c942c18643c559b218010bf92edef62256dee71e]{
 -- Page 32, Offset 18125.
 -- どうして今も、必死に痺れた心臓を蘇生させようと、魔術刻印を回しているのか。
-  pourquoi persistait-elle à faire tourner le Sceau Magique afin de relancer son cœur engourdi ?
+　pourquoi persistait-elle à faire tourner le Sceau Magique afin de relancer son cœur engourdi ?
 
 }
 [sha:81ad471c5ed8834e623c9ab72133b8d1646e52ab]{
@@ -715,25 +715,25 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:c66160ae1a8774092eb6babbe2722781d7b709bd]{
 -- Page 33, Offset 18127.
 -- 絶望的な状況で青子の意識を繋ぎ止めていたのは、遠くで<佇|たたず>む橙子の姿だった。
-  Une seule chose maintenait Aoko éveillée dans cette situation désespérée : le fait que Tōko se soit figée au loin.
+　Une seule chose maintenait Aoko éveillée dans cette situation désespérée : le fait que Tōko se soit figée au loin.
 
 }
 [sha:adc9315c43918be76d562e29c4638ef3b3587347]{
 -- Page 34, Offset 18128.
 -- ……橙子は、たしかに驚いている。
-  ...... Sa sœur aînée était manifestement surprise.
+　...... Sa sœur aînée était manifestement surprise.
 
 }
 [sha:ed777b1f395f187c188f153198673c86c28a8621]{
 -- Page 34, Offset 18129.
 -- 何か意外な物を見たような、彼女らしからぬ思考停止。
-  Elle semblait avoir cessé toute réflexion, chose improbable chez elle, comme si elle avait vu quelque chose de totalement inattendu.
+　Elle semblait avoir cessé toute réflexion, chose improbable chez elle, comme si elle avait vu quelque chose de totalement inattendu.
 
 }
 [sha:aa3b3ad822dde71f11d06688f2c6a70a509864a2]{
 -- Page 34, Offset 18130.
 -- それが何であるかが気になって、青子はいまだ意識を保っていた。
-  Aoko s'efforçait de rester consciente afin d'en connaître la raison.
+　Aoko s'efforçait de rester consciente afin d'en connaître la raison.
 
 }
 [sha:6c7dbf7b00f414289bf28199ba5c1500706960d2]{
@@ -745,12 +745,12 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
 [sha:16c2b41d2c415ea8e37016bf52716ad9fecd6601]{
 -- Page 35, Offset 18132.
 -- 沈みかける顔を起こして、橙子の視線の先を見る。
-  Elle releva la tête et tourna les yeux dans la direction où se portait le regard de Tōko,
+　Elle releva la tête et tourna les yeux dans la direction où se portait le regard de Tōko,
 
 }
 [sha:a479bca7c1bd4795cc44bd31492082aca25693e3]{
 -- Page 35, Offset 18133.
 -- いったい、この絶対的な勝利の状況で、あの女を驚かせる物とは何なのだろう、と。
-  en se demandant ce qui pouvait bien surprendre cette femme alors que la victoire lui était acquise.
+　en se demandant ce qui pouvait bien surprendre cette femme alors que la victoire lui était acquise.
 
 }
