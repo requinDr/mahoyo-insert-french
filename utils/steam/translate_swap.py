@@ -47,6 +47,7 @@ char_swap_dict: dict[str, str] = {
     
     'Œ' : 'Oe',
     'œ' : 'oe',
+    '²' : '2',
 }
 
 # Swap all characters in line
