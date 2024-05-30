@@ -85,7 +85,7 @@
 [sha:47bf91e777c7e6e57b37a88bbd3c8ca61a641d31]{
 -- Page 4, Offset 14. Glued.
 -- ぶるるるる、とエンジンを振動させる。
-*vroum* et le moteur vrombit bruyamment.
+  *vroum* et le moteur vrombit bruyamment.
 
 }
 [sha:c86344cc92d5585975dee17e05c1df1ebbc52f09]{
@@ -121,7 +121,7 @@
 [sha:34cb539119d12aba1741a5ad12e5cc2dcd6670cb]{
 -- Page 6, Offset 20. Glued. Mods: @x.
 -- お父さんが車のボンネットを開けると、そこにはひとつの命があった。
-ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
+  ils trouvèrent un être vivant sous le capot de la voiture que son père venait d'ouvrir.
 
 }
 [sha:1a9d4a753b3b03938e4d8357788a90379ed54eaa]{
