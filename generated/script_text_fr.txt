@@ -14808,7 +14808,7 @@ Cette main ne sera plus utile.」
 「Des Runes―――」
 「Oui. J'ai mis la journée à les graver dans le parc.
   Le chemin de ce parc est fait de pavés. Ça m'a pris un temps fou, mais ce n'était pas très difficile.
-  Ça va jusqu'à la forêt à côté, ce qui nous donne un ring d'environ 400 m².
+  Ça va jusqu'à la forêt à côté, ce qui nous donne un ring d'environ^400 m².
   Intéressant, non ?
   En ce moment, nous nous tenons sur plus de trois cent mille Runes.」
 「――――――」
@@ -14827,7 +14827,7 @@ Vois-tu, même au repos, ces Runes n'ont pas un état stable. À la minute où n
   Ainsi, même la nuit la plus profonde ne suffirait pas pour que ce soleil se couche. Et comme tu le vois, le camouflage était lui aussi parfait grâce aux chutes de neige.」
   Elle le disait avec légèreté, mais Alice n'arrivait pas à estimer la ténacité, la technique et le talent nécessaires pour réaliser cette tâche.
   Alice doutait même que dix Mages experts en Runes seraient capables d'accomplir la même chose en une journée.
-  De plus, la Rune utilisée était une technique inconnue non brevetée par l'Association.
+  De plus, la Rune utilisée était une technique inconnue non brevetée par^l'Association.
 「...... Je me cherche peut-être des excuses,
   mais c'est bien puéril face à une gamine comme moi, Tōko.」
 「Ne dis pas de bêtises. Je ne t'ai pas considérée une seule fois comme une gamine.
