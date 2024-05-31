@@ -1,7 +1,7 @@
 import os
 import re
 
-import utils.config_importer as conf
+from utils.config_importer import config as conf
 import utils.translation.translate_csv as csv
 from utils.steam.filesmap import map as map_fichiers
 from utils.line_format import format_line_to_steam, transform_ruby

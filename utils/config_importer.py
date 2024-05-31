@@ -1,29 +1,27 @@
 import configparser
 import os
 
-filename = 'config.ini'
+class Config:
+	def __init__(self, filename='config.ini'):
+		if not os.path.isfile(filename):
+			raise FileNotFoundError(f"Le fichier {filename} est introuvable.")
+		
+		self.config = configparser.ConfigParser()
+		self.config.read(filename)
 
-try:
-	if not os.path.isfile(filename):
-		raise FileNotFoundError(f"Le fichier {filename} est introuvable.")
+		self.script_source = self.config['paths']['script_source']
+		self.script_source_indent = self.config['paths']['script_source_indent']
+		self.dossier_sources_jp = self.config['paths']['dossier_sources_jp']
+		self.dossier_sources_fr = self.config['paths']['dossier_sources_fr']
+		self.generated_translation = self.config['paths']['generated_translation']
+		self.csv_input = self.config['csv']['csv_input']
+		self.csv_output = self.config['csv']['csv_output']
+		self.creer_csv = self.config.getboolean('csv', 'create_csv')
+		self.output_steam_patch_folder = self.config['steam']['output_steam_patch_folder']
+		self.input_steam_patch_folder = self.config['steam']['input_steam_patch_folder']
+		self.steam_hfa_name = self.config['steam']['steam_hfa_name']
+		self.remplacer_caracteres = self.config.getboolean('steam', 'swap_characters')
+		self.output_switch_folder = self.config['switch']['output_switch_folder']
 
-	config = configparser.ConfigParser()
-	config.read(filename)
-
-	script_source = config['paths']['script_source']
-	script_source_indent = config['paths']['script_source_indent']
-	dossier_sources_jp = config['paths']['dossier_sources_jp']
-	dossier_sources_fr = config['paths']['dossier_sources_fr']
-	generated_translation = config['paths']['generated_translation']
-	csv_input = config['csv']['csv_input']
-	csv_output = config['csv']['csv_output']
-	creer_csv = config.getboolean('csv', 'create_csv')
-	output_steam_patch_folder = config['steam']['output_steam_patch_folder']
-	input_steam_patch_folder = config['steam']['input_steam_patch_folder']
-	steam_hfa_name = config['steam']['steam_hfa_name']
-	remplacer_caracteres = config.getboolean('steam', 'swap_characters')
-	output_switch_folder = config['switch']['output_switch_folder']
-except Exception as e:
-	print(f"Erreur lors de l'importation du fichier de configuration :\n{e}")
-	exit(1)
-
+# Créer une instance de la configuration globale
+config = Config()

@@ -30,6 +30,7 @@ def start_eel(develop):
 	eel.init(directory, ['.tsx', '.ts', '.jsx', '.js', '.html'])
 
 	# These will be queued until the first connection is made, but won't be repeated on a page reload
+	translate.init_translate()
 	# say_hello_py('Python World!')
 	# eel.say_hello_js('Python World!')   # Call a JavaScript function (must be after `eel.init()`)
 

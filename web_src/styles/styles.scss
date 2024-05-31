@@ -1,0 +1,25 @@
+.progressBar {
+  width: 100%;
+  background-color: #ddd;
+}
+.progress {
+  width: 0%;
+  height: 30px;
+  background-color: #4CAF50;
+}
+
+.input-text-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  
+  label {
+    margin-right: 1em;
+    margin-bottom: 4px;
+  }
+  input {
+    padding: .5em;
+    max-width: 100%;
+    font-size: initial;
+  }
+}

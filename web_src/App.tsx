@@ -1,44 +1,45 @@
 import { useState } from 'react'
-import './styles/App.css'
-import './styles/styles.css'
+import './styles/App.scss'
+import './styles/styles.scss'
 import Logo from './assets/logo.png'
+import Config from './screens/Config';
+import Translate from './screens/Translate';
 
 // Point Eel web socket to the instance
 declare const window: any;
 export const eel = window.eel
 eel.set_host('ws://localhost:5169')
 
-const start = async () => {
-	eel.generate_translation()
+enum Pages {
+	CONFIG = 'config',
+	TRANSLATE = 'translate',
 }
 
 function App() {
-  const [label, setLabel] = useState('Processing')
-  const [progress, setProgress] = useState(0)
-
-  window.eel.expose(update_progress_js, 'update_progress_js')
-  function update_progress_js(percentage: number, label: string) {
-    setProgress(percentage)
-    setLabel(label)
-  }
+	const [page, setPage] = useState<Pages>(Pages.TRANSLATE)
 
   return (  
     <div className="App">
       <header>
     		<img src={Logo} alt="logo" className="logo" />
-    	</header>
-    	
-    	<section className="main">
-    		<button onClick={start}>
-    			Update translation
-    		</button>
 
-    		<h1 id="label">{label}</h1>
-    		<div className="progressBar">
-    			<div className="progress" style={{width: `${progress}%`}}></div>
-    		</div>
-    		<p id="percent">{progress}%</p>
-    	</section>
+				<nav>
+					<button onClick={() => setPage(Pages.TRANSLATE)} className={`menu-item ${page === Pages.TRANSLATE ? 'active' : ''}`}>
+						Translate
+					</button>
+					<button onClick={() => setPage(Pages.CONFIG)} className={`menu-item ${page === Pages.CONFIG ? 'active' : ''}`}>
+						Config
+					</button>
+				</nav>
+    	</header>
+
+			<main>
+				{page === Pages.TRANSLATE ?
+					<Translate />
+					:
+					<Config />
+				}
+			</main>
     </div>
   )
 }

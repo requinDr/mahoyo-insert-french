@@ -1,0 +1,76 @@
+html {
+  background-color: #f0f0f0;
+  background-image: url("../assets/bg.jpg");
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+%child {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 1em;
+  padding-bottom: .5em;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid;
+
+  .logo {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    max-width: 100%;
+    width: 260px;
+  }
+
+  nav {
+    @extend %child;
+
+    .menu-item {
+      all: unset;
+      padding: 1rem;
+      font-size: large;
+      text-transform: uppercase;
+      font-weight: bold;
+      transition: .2s;
+
+      &:hover {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      &.active {
+        color: #0027bb;
+      }
+    }
+  }
+}
+
+main {
+  @extend %child;
+  padding: 1em;
+}
+
+.main-button {
+  all: unset;
+  padding: 1rem;
+  background-image: linear-gradient(45deg, #14295b, #87aaf7);
+  color: #fff;
+  border: 1px solid;
+  box-shadow: 0 2px 6px 0px #00000087;
+  transition: box-shadow 0.3s;
+
+  &:hover {
+    box-shadow: 0 1px 3px 0px #00000057;
+  }
+}

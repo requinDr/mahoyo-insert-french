@@ -3,13 +3,42 @@ import shutil
 import time
 import eel
 
-from py_src.contrib.replace_in_file import findFileRe, replaceInfile
-import utils.config_importer as conf
+from utils.config_importer import config as conf
 from utils.translation.translation import generate_updated_translation
 from utils.utils import CLEAN_END, get_file_lines, write_file_lines, progress
 from utils.steam.translate_swap import swap_char_in_script
 from utils.switch.utils import extract_switch_line_offset
 import utils.converters.HunexFileArchiveTool.hunex_file_archive_tool as hfa
+
+@eel.expose
+def get_config():
+	eel.update_conf_js({
+		"ks_source": conf.dossier_sources_jp,
+		"ks_translated": conf.dossier_sources_fr,
+		"script_source": conf.script_source,
+		"script_source_indent": conf.script_source_indent,
+
+		"csv": {
+			"source": conf.csv_input,
+			"generated": conf.csv_output,
+			"create_csv": conf.creer_csv
+		},
+
+		"steam": {
+			"hfa_name": conf.steam_hfa_name,
+			"source_folder": conf.input_steam_patch_folder,
+			"output_folder": conf.output_steam_patch_folder,
+			"swap_characters": conf.remplacer_caracteres
+		},
+
+		"switch": {
+			"output_folder": conf.output_switch_folder
+		}
+	})
+
+def init_translate():
+	get_config()
+	return
 
 def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
@@ -60,7 +89,6 @@ def update_switch_files(new_lines: list[str]):
 		write_file_lines(file_path, lines)
 
 	print(f"Fichiers Switch pour deepLuna mis à jour dans {conf.output_switch_folder}", end="\n")
-
 
 
 @eel.expose
