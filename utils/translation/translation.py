@@ -65,7 +65,7 @@ def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], sc
 script_fr_mem: list[str] = get_file_lines(conf.script_source)
 sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
 csv_missing = dict()
-csv_dict = csv.get_csv(conf.csv_input) if not conf.creer_csv else None
+csv_dict = csv.get_csv(conf.csv['source']) if not conf.csv['create_csv'] else None
 
 
 # nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
@@ -84,7 +84,7 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
 	global csv_missing
 
-	isInCsv = not conf.creer_csv and (idx + 1) in csv_dict
+	isInCsv = not conf.csv['create_csv'] and (idx + 1) in csv_dict
 	if isInCsv:
 		csv_row = csv_dict[idx + 1]
 		translation = csv_row[csv.columns[1]]
@@ -119,7 +119,7 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 		if ligne_partielle is not None:
 			last_found_idx = indice
 			remplace_dans_script(idx, ligne_partielle)
-		elif not conf.creer_csv:
+		elif not conf.csv["create_csv"]:
 			csv_missing[idx + 1] = current_line
 	
 	if isInCsv and nbStartSpaces != "":
@@ -139,9 +139,9 @@ def generate_updated_translation():
 			# Si l'indice de la ligne est dans la map, on change le fichier actif
 			if (idx + 1) in map_fichiers:
 				current_file = map_fichiers[idx + 1]
-				og_file_path = os.path.join(conf.dossier_sources_jp, current_file)
+				og_file_path = os.path.join(conf.ks_source, current_file)
 				og_lines = get_file_lines(og_file_path)
-				tr_file_path = os.path.join(conf.dossier_sources_fr, current_file)
+				tr_file_path = os.path.join(conf.ks_translated, current_file)
 				tr_lines = get_file_lines(tr_file_path)
 
 			last_found_idx = line_process(idx, ligne, og_lines, tr_lines, last_found_idx)
@@ -153,8 +153,8 @@ def generate_updated_translation():
 
 	write_file_lines(conf.generated_translation, script_fr_mem)
 
-	if conf.creer_csv:
-		csv.create(conf.csv_output, csv_missing)
+	if conf.csv['create_csv']:
+		csv.create(conf.csv['output'], csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 		print(f"Fichier CSV créé")
 	

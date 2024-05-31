@@ -7,6 +7,7 @@ export type Config = Partial<{
 	ks_translated: string
 	script_source: string
 	script_source_indent: string
+	generated_translation: string
 
 	csv: Partial<{
 		source: string
@@ -15,7 +16,6 @@ export type Config = Partial<{
 	}>
 
 	steam: Partial<{
-		hfa_name: string
 		source_folder: string
 		output_folder: string
 		swap_characters: boolean
@@ -103,6 +103,17 @@ const Config = () => {
 					}
 				))}
 			/>
+
+			<label>Swap characters</label>
+			<input type="checkbox" checked={config?.steam?.swap_characters} onChange={(e) => setConfig(prev => (
+				{
+					...prev,
+					steam: {
+						...prev?.steam,
+						swap_characters: e.target.checked
+					}
+				}
+			))} />
 
 			<h2>Switch</h2>
 			<InputText

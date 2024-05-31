@@ -4,6 +4,7 @@ import time
 import eel
 
 from utils.config_importer import config as conf
+from utils.config_importer import steam_hfa_name
 from utils.translation.translation import generate_updated_translation
 from utils.utils import CLEAN_END, get_file_lines, write_file_lines, progress
 from utils.steam.translate_swap import swap_char_in_script
@@ -12,48 +13,11 @@ import utils.converters.HunexFileArchiveTool.hunex_file_archive_tool as hfa
 
 @eel.expose
 def get_config():
-	eel.update_conf_js({
-		"ks_source": conf.dossier_sources_jp,
-		"ks_translated": conf.dossier_sources_fr,
-		"script_source": conf.script_source,
-		"script_source_indent": conf.script_source_indent,
-
-		"csv": {
-			"source": conf.csv_input,
-			"generated": conf.csv_output,
-			"create_csv": conf.creer_csv
-		},
-
-		"steam": {
-			"hfa_name": conf.steam_hfa_name,
-			"source_folder": conf.input_steam_patch_folder,
-			"output_folder": conf.output_steam_patch_folder,
-			"swap_characters": conf.remplacer_caracteres
-		},
-
-		"switch": {
-			"output_folder": conf.output_switch_folder
-		}
-	})
+	eel.update_conf_js(conf.__dict__)
 
 @eel.expose
 def update_config(config):
-	conf.dossier_sources_jp = config["ks_source"]
-	conf.dossier_sources_fr = config["ks_translated"]
-	conf.script_source = config["script_source"]
-	conf.script_source_indent = config["script_source_indent"]
-
-	conf.csv_input = config["csv"]["source"]
-	conf.csv_output = config["csv"]["generated"]
-	conf.creer_csv = config["csv"]["create_csv"]
-
-	conf.steam_hfa_name = config["steam"]["hfa_name"]
-	conf.input_steam_patch_folder = config["steam"]["source_folder"]
-	conf.output_steam_patch_folder = config["steam"]["output_folder"]
-	conf.remplacer_caracteres = config["steam"]["swap_characters"]
-
-	conf.output_switch_folder = config["switch"]["output_folder"]
-	conf.update()
+	conf.update(config)
 
 def init_translate():
 	get_config()
@@ -62,23 +26,23 @@ def init_translate():
 def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
 	
-	lines_to_write = swap_char_in_script(new_lines.copy()) if conf.remplacer_caracteres else new_lines
+	lines_to_write = swap_char_in_script(new_lines.copy()) if conf.steam['swap_characters'] else new_lines
 	progress(20, 100, "Steam\t")
 
-	success = hfa.extract(f"{conf.input_steam_patch_folder}/{conf.steam_hfa_name}.hfa")
+	success = hfa.extract(f"{conf.steam['source_folder']}/{steam_hfa_name}.hfa")
 	if not success:
 		print(f"Erreur lors de l'extraction du patch Steam{CLEAN_END}", end="\n")
 		return
 	progress(40, 100, "Steam\t")
 
-	write_file_lines(f"{conf.steam_hfa_name}/0000_script_text_en.ctd", lines_to_write)
+	write_file_lines(f"{steam_hfa_name}/0000_script_text_en.ctd", lines_to_write)
 	progress(60, 100, "Steam\t")
 
-	success = hfa.build(conf.steam_hfa_name, f"{conf.steam_hfa_name}.hfa", conf.output_steam_patch_folder)
+	success = hfa.build(steam_hfa_name, f"{steam_hfa_name}.hfa", conf.steam['output_folder'])
 	progress(80, 100, "Steam\t")
 
-	if os.path.exists(conf.steam_hfa_name):
-		shutil.rmtree(conf.steam_hfa_name, ignore_errors=True)
+	if os.path.exists(steam_hfa_name):
+		shutil.rmtree(steam_hfa_name, ignore_errors=True)
 	
 	if not success:
 		print(f"Erreur lors de la création du patch Steam{CLEAN_END}", end="\n")
@@ -87,13 +51,13 @@ def create_steam_file(new_lines: list[str]):
 
 
 def update_switch_files(new_lines: list[str]):
-	files = os.listdir(conf.output_switch_folder)
+	files = os.listdir(conf.switch['output_folder'])
 	total_files = len(files)
 
 	for idx, file in enumerate(files):
 		progress(idx, total_files - 1, "Switch\t")
 
-		file_path = os.path.join(conf.output_switch_folder, file)
+		file_path = os.path.join(conf.switch['output_folder'], file)
 		lines = get_file_lines(file_path)
 
 		for i in range(len(lines)):

@@ -1,50 +1,60 @@
-import configparser
+import pickle
 import os
 
-class Config:
-	def __init__(self, filename='config.ini'):
-		if not os.path.isfile(filename):
-			raise FileNotFoundError(f"Le fichier {filename} est introuvable.")
-		
-		self.config = configparser.ConfigParser()
-		self.config.read(filename)
+steam_hfa_name = "data00200"
 
-		self.script_source = self.config['paths']['script_source']
-		self.script_source_indent = self.config['paths']['script_source_indent']
-		self.dossier_sources_jp = self.config['paths']['dossier_sources_jp']
-		self.dossier_sources_fr = self.config['paths']['dossier_sources_fr']
-		self.generated_translation = self.config['paths']['generated_translation']
-		self.csv_input = self.config['csv']['source']
-		self.csv_output = self.config['csv']['generated']
-		self.creer_csv = self.config.getboolean('csv', 'create_csv')
-		self.output_steam_patch_folder = self.config['steam']['output_steam_patch_folder']
-		self.input_steam_patch_folder = self.config['steam']['input_steam_patch_folder']
-		self.steam_hfa_name = self.config['steam']['steam_hfa_name']
-		self.remplacer_caracteres = self.config.getboolean('steam', 'swap_characters')
-		self.output_switch_folder = self.config['switch']['output_folder']
+conf_file = "config.pkl"
+conf_default = {
+	"ks_source": "sources/sources-jp",
+	"ks_translated": "sources/sources-fr",
+	"script_source": "sources/script_text_ja.txt",
+	"script_source_indent": "sources/script_text_en.txt",
+	"generated_translation": "generated/script_text_fr.txt",
+	"csv": {
+		"source": "sources/lignes_modifiees.csv",
+		"generated": "sources/lignes_modifiees_new.csv",
+		"create_csv": False
+	},
+	"steam": {
+		"hfa_name": "patch",
+		"source_folder": "C:\Program Files (x86)\Steam\steamapps\common\WITCH ON THE HOLY NIGHT",
+		"output_folder": "C:\Program Files (x86)\Steam\steamapps\common\WITCH ON THE HOLY NIGHT",
+		"swap_characters": True
+	},
+	"switch": {
+		"output_folder": "output-switch"
+	}
+}
 
-	# update ini file
-	def update(self):
+class Config(object):
+	def __init__(self):
 		try:
-			with open('config.ini', 'w') as configfile:
+			if os.path.exists(conf_file):
+				with open(conf_file, 'rb') as f:
+					conf = pickle.load(f)
+					self.update_self(conf)
+			else:
+				self.update_self(conf_default)
 
-				self.config['paths']['script_source'] = self.script_source
-				self.config['paths']['script_source_indent'] = self.script_source_indent
-				self.config['paths']['dossier_sources_jp'] = self.dossier_sources_jp
-				self.config['paths']['dossier_sources_fr'] = self.dossier_sources_fr
-				self.config['paths']['generated_translation'] = self.generated_translation
-				self.config['csv']['source'] = self.csv_input
-				self.config['csv']['generated'] = self.csv_output
-				self.config['csv']['create_csv'] = str(self.creer_csv)
-				self.config['steam']['output_steam_patch_folder'] = self.output_steam_patch_folder
-				self.config['steam']['input_steam_patch_folder'] = self.input_steam_patch_folder
-				self.config['steam']['steam_hfa_name'] = self.steam_hfa_name
-				self.config['steam']['swap_characters'] = str(self.remplacer_caracteres)
-				self.config['switch']['output_folder'] = self.output_switch_folder
-
-				self.config.write(configfile)
+				with open(conf_file, 'wb') as f:
+					pickle.dump(self, f)
 		except Exception as e:
-			raise e
+			print(f"Erreur lors de la lecture du fichier de configuration: {e}")
 
-# Créer une instance de la configuration globale
+	def update_self(self, conf):
+		self.ks_source = conf["ks_source"]
+		self.ks_translated = conf["ks_translated"]
+		self.script_source = conf["script_source"]
+		self.script_source_indent = conf["script_source_indent"]
+		self.generated_translation = conf["generated_translation"]
+		self.csv = conf["csv"]
+		self.steam = conf["steam"]
+		self.switch = conf["switch"]
+
+	def update(self, config):
+		self.update_self(config)
+		with open(conf_file, 'wb') as f:
+			pickle.dump(config, f)
+
+
 config = Config()
