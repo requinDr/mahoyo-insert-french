@@ -36,6 +36,25 @@ def get_config():
 		}
 	})
 
+@eel.expose
+def update_config(config):
+	conf.dossier_sources_jp = config["ks_source"]
+	conf.dossier_sources_fr = config["ks_translated"]
+	conf.script_source = config["script_source"]
+	conf.script_source_indent = config["script_source_indent"]
+
+	conf.csv_input = config["csv"]["source"]
+	conf.csv_output = config["csv"]["generated"]
+	conf.creer_csv = config["csv"]["create_csv"]
+
+	conf.steam_hfa_name = config["steam"]["hfa_name"]
+	conf.input_steam_patch_folder = config["steam"]["source_folder"]
+	conf.output_steam_patch_folder = config["steam"]["output_folder"]
+	conf.remplacer_caracteres = config["steam"]["swap_characters"]
+
+	conf.output_switch_folder = config["switch"]["output_folder"]
+	conf.update()
+
 def init_translate():
 	get_config()
 	return
@@ -102,6 +121,3 @@ def generate_translation():
 	fin = time.time()
 	temps_execution = fin - debut
 	print(f"\nTerminé en {temps_execution:.2f} secondes !")
-
-if __name__ == "__main__":
-	generate_translation()

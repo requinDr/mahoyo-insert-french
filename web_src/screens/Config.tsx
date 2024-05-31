@@ -2,7 +2,7 @@ import { memo, useEffect, useState } from "react"
 import { eel } from "../App"
 import InputText from "../components/InputText"
 
-type Config = {
+export type Config = Partial<{
 	ks_source: string
 	ks_translated: string
 	script_source: string
@@ -24,11 +24,12 @@ type Config = {
 	switch: {
 		output_folder: string
 	}
-}
+}>
 
 const get_config = async () => {
 	eel.get_config()
 }
+
 
 const Config = () => {
 	const [config, setConfig] = useState<Config>()
@@ -42,12 +43,22 @@ const Config = () => {
     setConfig(conf)
   }
 
+	// function update_ini_config() {
+	// 	eel.update_config(config)
+	// }
+	
+	useEffect(() => {
+		if (config !== undefined) {
+			eel.update_config(config)
+		}
+	}, [config])
+
 	return (
 		<div>
 			<InputText
 				label="Japanese .ks folder"
 				value={config?.ks_source || ''}
-				onChange={(value) => console.log(value)}
+				onChange={(value) => setConfig(prev => ({...prev, ks_source: value}))}
 			/>
 
 			<InputText
