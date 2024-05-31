@@ -1,4 +1,5 @@
 import sys
+import eel
 
 GREEN = '\033[92m'
 RED = '\033[91m'
@@ -6,6 +7,10 @@ BLUE = '\033[94m'
 ENDC = '\033[0m'
 CLEAN_END = '\033[K'
 
+@eel.expose
+def update_progress(percentage, label):
+   eel.update_progress_js(percentage, label)
+	 
 def progress(count: float, total: float, label: str, color: str = GREEN):
 	if count % (total // 100) == 0 or count == total:
 		bar_len = 20
@@ -16,6 +21,7 @@ def progress(count: float, total: float, label: str, color: str = GREEN):
 
 		sys.stdout.write(f"{color}{label} [{bar}] {percents}%{ENDC}{CLEAN_END}\r")
 		sys.stdout.flush()
+		update_progress(percents, label)
 
 
 def get_file_lines(path):

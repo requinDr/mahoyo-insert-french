@@ -1,6 +1,7 @@
 import os
 import shutil
 import time
+import eel
 
 import utils.config_importer as conf
 from utils.translation.translation import generate_updated_translation
@@ -60,7 +61,19 @@ def update_switch_files(new_lines: list[str]):
 	print(f"Fichiers Switch pour deepLuna mis à jour dans {conf.output_switch_folder}", end="\n")
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
+# 	debut = time.time()
+
+# 	new_lines = generate_updated_translation()
+# 	create_steam_file(new_lines)
+# 	update_switch_files(new_lines)
+	
+# 	fin = time.time()
+# 	temps_execution = fin - debut
+# 	print(f"\nTerminé en {temps_execution:.2f} secondes !")
+eel.init('gui')
+@eel.expose
+def generate_translation():
 	debut = time.time()
 
 	new_lines = generate_updated_translation()
@@ -70,3 +83,5 @@ if __name__ == "__main__":
 	fin = time.time()
 	temps_execution = fin - debut
 	print(f"\nTerminé en {temps_execution:.2f} secondes !")
+
+eel.start('index.html', size=(800, 600))
