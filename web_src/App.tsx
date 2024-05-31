@@ -6,10 +6,10 @@ import Logo from './assets/logo.png'
 // Point Eel web socket to the instance
 declare const window: any;
 export const eel = window.eel
-eel.set_host( 'ws://localhost:5169' )
+eel.set_host('ws://localhost:5169')
 
 const start = async () => {
-	eel.generate_translation();
+	eel.generate_translation()
 }
 
 function App() {
@@ -29,7 +29,7 @@ function App() {
     	</header>
     	
     	<section className="main">
-    		<button id="btn" onClick={start}>
+    		<button onClick={start}>
     			Update translation
     		</button>
 

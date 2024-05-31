@@ -103,7 +103,7 @@
 [sha:4c3a46698b618c653b1bba7ca8df1758fc559912]{
 -- Page 6, Offset 3023. Mods: @i, @n.
 -- “
-“Sortir”, “Attaquer”, “Verser”, il y avait toutes sortes de transfert, mais dans mon cas, comment dire―――
+“
 
 }
 [sha:db02ff1cd398ee07411d7087d9fdb8395959c0e1]{
