@@ -25,7 +25,7 @@ function App() {
 
 				<nav>
 					<button onClick={() => setPage(Pages.TRANSLATE)} className={`menu-item ${page === Pages.TRANSLATE ? 'active' : ''}`}>
-						Translate
+						Update texts
 					</button>
 					<button onClick={() => setPage(Pages.CONFIG)} className={`menu-item ${page === Pages.CONFIG ? 'active' : ''}`}>
 						Config

@@ -85,8 +85,6 @@ def create_steam_file(new_lines: list[str]):
 		return
 	progress(100, 100, "Steam\t")
 
-	print(f"Patch Steam créé : {conf.steam_hfa_name}.hfa{CLEAN_END}", end="\n")
-
 
 def update_switch_files(new_lines: list[str]):
 	files = os.listdir(conf.output_switch_folder)
@@ -107,8 +105,6 @@ def update_switch_files(new_lines: list[str]):
 
 		write_file_lines(file_path, lines)
 
-	print(f"Fichiers Switch pour deepLuna mis à jour dans {conf.output_switch_folder}", end="\n")
-
 
 @eel.expose
 def generate_translation():
@@ -120,4 +116,4 @@ def generate_translation():
 	
 	fin = time.time()
 	temps_execution = fin - debut
-	print(f"\nTerminé en {temps_execution:.2f} secondes !")
+	progress(100, 100, "Completed in %.2f seconds" % temps_execution)

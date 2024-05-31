@@ -8,22 +8,22 @@ export type Config = Partial<{
 	script_source: string
 	script_source_indent: string
 
-	csv: {
+	csv: Partial<{
 		source: string
 		generated: string
 		create_csv: boolean
-	}
+	}>
 
-	steam: {
+	steam: Partial<{
 		hfa_name: string
 		source_folder: string
 		output_folder: string
 		swap_characters: boolean
-	}
+	}>
 
-	switch: {
+	switch: Partial<{
 		output_folder: string
-	}
+	}>
 }>
 
 const get_config = async () => {
@@ -42,10 +42,6 @@ const Config = () => {
   function update_conf_js(conf: any) {
     setConfig(conf)
   }
-
-	// function update_ini_config() {
-	// 	eel.update_config(config)
-	// }
 	
 	useEffect(() => {
 		if (config !== undefined) {
@@ -64,7 +60,63 @@ const Config = () => {
 			<InputText
 				label="Translated .ks folder"
 				value={config?.ks_translated || ''}
-				onChange={(value) => console.log(value)}
+				onChange={(value) => setConfig(prev => ({...prev, ks_translated: value}))}
+			/>
+
+			<InputText
+				label="Source script folder"
+				value={config?.script_source || ''}
+				onChange={(value) => setConfig(prev => ({...prev, script_source: value}))}
+			/>
+
+			<InputText
+				label="CSV source"
+				value={config?.csv?.source || ''}
+				onChange={(value) => setConfig(prev => ({...prev, csv: {...prev?.csv, source: value}}))}
+			/>
+
+			<h2>Steam</h2>
+			<InputText
+				label="WITCH ON THE HOLY NIGHT folder"
+				value={config?.steam?.source_folder || ''}
+				onChange={(value) => setConfig(prev => (
+					{
+						...prev,
+						steam: {
+							...prev?.steam,
+							source_folder: value
+						}
+					}
+				))}
+			/>
+
+			<InputText
+				label="Output patch folder"
+				value={config?.steam?.output_folder || ''}
+				onChange={(value) => setConfig(prev => (
+					{
+						...prev,
+						steam: {
+							...prev?.steam,
+							output_folder: value
+						}
+					}
+				))}
+			/>
+
+			<h2>Switch</h2>
+			<InputText
+				label="Output patch folder"
+				value={config?.switch?.output_folder || ''}
+				onChange={(value) => setConfig(prev => (
+					{
+						...prev,
+						switch: {
+							...prev?.switch,
+							output_folder: value
+						}
+					}
+				))}
 			/>
 		</div>
 	)

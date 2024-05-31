@@ -2,6 +2,7 @@ html {
   background-color: #f0f0f0;
   background-image: url("../assets/bg.jpg");
   background-size: cover;
+  background-attachment: fixed;
 }
 
 * {
@@ -23,7 +24,7 @@ header {
   padding: 1em;
   padding-bottom: .5em;
   margin-bottom: 2rem;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #babdc2;
 
   .logo {
     display: block;
