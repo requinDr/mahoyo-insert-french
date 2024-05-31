@@ -553,7 +553,7 @@ ou que le Mage fasse le travail lui-même.
 [sha:e8ffafe5b1c3bb16e2931a6d66e399ea04feadac]{
 -- Page 44, Offset 19759.
 -- クリスマスに大活躍の予感……！
- J'ai l'intuition que j'aurai un grand rôle^  à jouer à Noël......!
+ J'ai l'intuition que j'aurai un grand rôle^ à jouer à Noël......!
 
 }
 [sha:e6f6b9c2cce4ee1c7663923d6812e8ab617a0d3c]{

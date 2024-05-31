@@ -1,5 +1,4 @@
 import re
-
 from utils.steam.translate_swap import line_char_length
 
 SPACE = ' '
@@ -19,6 +18,14 @@ def transform_ruby(ligne: str):
 			ligne = ligne.replace(match.group(0), f"<{match.group(1)}|{match.group(2)}>")
 	return ligne
 
+def transform_custom_tags(ligne: str, nbStartSpaces: int):
+	# <r> -> ^
+	if re.search(r'<r>', ligne):
+		ligne = re.sub(r'<r>', '^', ligne)
+	# <ra> -> ^nbStartSpaces
+	if re.search(r'<ra>', ligne):
+		ligne = re.sub(r'<ra>', '^' + nbStartSpaces * SPACE, ligne)
+	return ligne
 
 def remove_new_ruby(ligne: str):
 	search = re.search(r'<([^|]+)\|[^>]+>', ligne)
@@ -39,11 +46,11 @@ def indent(nbStartSpaces: int, ligne: str):
 	return SPACE * nbStartSpaces + ligne
 
 
-PATTERN_TAGS = r'\[.*?\]'
-def remove_tags(ligne: str):
+PATTERN_KS_TAGS = r'\[.*?\]'
+def remove_ks_tags(ligne: str):
 	# ", [r]　" -> ", "
-	if re.search(r'[,\.\?\!A-z] ' + PATTERN_TAGS + JAPANESE_SPACE, ligne):
-		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_TAGS + JAPANESE_SPACE, r'\1 ', ligne)
+	if re.search(r'[,\.\?\!A-z] ' + PATTERN_KS_TAGS + JAPANESE_SPACE, ligne):
+		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_KS_TAGS + JAPANESE_SPACE, r'\1 ', ligne)
 
 	# replace Japanese space by normal space
 	ligne = ligne.replace(JAPANESE_SPACE, SPACE)
@@ -57,20 +64,17 @@ def remove_tags(ligne: str):
 		ligne = re.sub(r'(\w+) \[r\] (\w+)', r'\1 \2', ligne)
 
 	# remove all tags
-	ligne = re.sub(PATTERN_TAGS, '', ligne)
+	ligne = re.sub(PATTERN_KS_TAGS, '', ligne)
 
 	return ligne
 
 
 def format_line_to_steam(ligne: str, nbStartSpaces: int):
 	ligne = transform_ruby(ligne)
-
-	ligne = remove_tags(ligne)
-
+	ligne = remove_ks_tags(ligne)
+	ligne = transform_custom_tags(ligne, nbStartSpaces)
 	ligne = ligne.strip()
-
 	ligne = indent(nbStartSpaces, ligne)
 
 	ligne = ligne + "\n"
-
 	return ligne
