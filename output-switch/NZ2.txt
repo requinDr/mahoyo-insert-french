@@ -49,13 +49,13 @@
 [sha:dc54ad9f37a683b79eca541a0b8aeab6298edd61]{
 -- Page 3, Offset 19803.
 -- 遅かったわねロビン。
-      Tu es en retard, Robin.
+  Tu es en retard, Robin.
 
 }
 [sha:6d4f2f01131658ef30be0f33f6a9e0b671ffced0]{
 -- Page 3, Offset 19804.
 -- 出演者としての自覚はあるのかしら。
-      Je me demande si tu es bien conscient de ton rôle d'interprète.
+  Je me demande si tu es bien conscient^  de ton rôle d'interprète.
 
 }
 [sha:11cd5516fec52b0fb8343ee67afc4e9d369a90aa]{
@@ -127,19 +127,19 @@
 [sha:f3e39b12a52a05e80dc57b45dcbf8aebe375d271]{
 -- Page 8, Offset 19816.
 -- さすがマイ天使であるところのアリスさん。
-    C'est bien, Mam'zelle Alice, My Angel.
+  C'est bien, Mam'zelle Alice, My Angel.
 
 }
 [sha:32b31e7a392e287b43a433f417185eba6cd5d688]{
 -- Page 8, Offset 19817.
 -- なにを着てもヤバイぐらい似合うッス。
-    Peu importe ce que vous portez,
+  Peu importe ce que vous portez,
 
 }
 [sha:e0129c98fae1860bfd018a4499cdffef59a7b542]{
 -- Page 8, Offset 19818.
 -- ほんとバイヤー。
-    ça vous va à fond. Oui, à donf !
+  ça vous va à fond. Oui, à donf !
 
 }
 [sha:f7741f784ac5a0012e3d5920f54fce18d7828b2b]{
@@ -163,19 +163,19 @@
 [sha:0ae1b2d8341443bd72c67ddad12723c18774312d]{
 -- Page 10, Offset 19822.
 -- マンネリズムはよくないでしょう？
-    Il ne faut pas tomber dans la routine,
+  Il ne faut pas tomber dans la routine,
 
 }
 [sha:07a33864990809281f018797821422fc18ac537a]{
 -- Page 10, Offset 19823.
 -- オマケコーナーだからって素材を使い回すのはわたしの美学に
-    non ? Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut réutiliser les mêmes décors.
+  non ? Ce n'est pas parce que nous sommes dans le coin bonus^  qu'il faut réutiliser les mêmes décors.
 
 }
 [sha:5771fb1d0c6cf25639f18b8b604cef41316d2141]{
 -- Page 10, Offset 19824.
 -- 反するわ。なんとか道場じゃあるまいし。
-    Cela va à l'encontre de mon éthique. On n'est pas dans un certain dojo.
+  Cela va à l'encontre de mon éthique. On n'est pas dans un certain dojo.
 
 }
 [sha:f76c2961dcae99c38c3672c94856bc310fcdcc9e]{
@@ -211,7 +211,7 @@ Par exemple, “La forêt, l'oiseau et la fillette” ? Vous voyez, dans “L'oi
 [sha:2c8f5fd0e8b511d7851d7f393d17196ba7e03521]{
 -- Page 13, Offset 19830.
 -- いけない。菓子作りの途中だったわ。
-      Zut. J'étais en pleine préparation de pâtisseries.
+  Zut. J'étais en pleine préparation de pâtisseries.
 
 }
 [sha:96ffa854191ad71a6bc09188af4e974fc99f33c4]{
@@ -253,7 +253,7 @@ que faites-vous après les cours ?
 [sha:df91ff2202db40ca2b264a3d041a5cc09a0dbcb9]{
 -- Page 16, Offset 19837.
 -- 時間があればプロイを作っているわ。
- Dès que j'en ai le temps, je fais des Ploy.
+ Dès que j'en ai le temps, je fais des^ Ploy.
 
 }
 [sha:6b17d6da22b7e5833a65622c5889ec2f2b16352e]{
@@ -277,19 +277,19 @@ que faites-vous après les cours ?
 [sha:208999b8c30afcac6d4314cc8979dbfa1eb92fbc]{
 -- Page 18, Offset 19841.
 -- っていうか、この匂いはチョコレイト？
-        En fait, cette odeur,
+    En fait, cette odeur,
 
 }
 [sha:2c7f95aa9767ca5975d85753fa96ba91dd19d5a7]{
 -- Page 18, Offset 19842.
 -- まさか……
-        c'est du chocolat ? Pas possible......
+    c'est du chocolat ? Pas possible......
 
 }
 [sha:e392334f0df4ead466698177fdfd8b68654896a8]{
 -- Page 18, Offset 19843.
 -- プロイってお菓子だったんスかーーーー！？
-        Les Ploy étaient des pâtisseriesーーーー?!
+    Les Ploy étaient des pâtisseriesーーーー?!
 
 }
 [sha:3891b181daf91123bb7a18ef9ff5568fc8e32380]{
@@ -349,25 +349,25 @@ que faites-vous après les cours ?
 [sha:ebe7dcaa640329face1702f14e1cf9da6af24cd2]{
 -- Page 22, Offset 19853.
 -- 本編で説明している通りよ。
-    C'est comme je l'ai expliqué dans l'histoire principale.
+  C'est comme je l'ai expliqué dans^  l'histoire principale.
 
 }
 [sha:cc5c2f866f0ad01a4b842be74f21b170747cd5b5]{
 -- Page 22, Offset 19854.
 -- 以上、解散。
-    Terminé, dispersion.
+  Terminé, dispersion.
 
 }
 [sha:63f75d7b6f52233e95ca14dca162f2c567a31b8d]{
 -- Page 23, Offset 19855.
 -- このコーナーの根底を崩す一言ッスね。
-  Ces paroles réduisent à néant l'intérêt même de c'coin sur les Ploy.
+  Ces paroles réduisent à néant l'intérêt même^  de c'coin sur les Ploy.
 
 }
 [sha:85fcdf8aca547b5222e9fdc76e737cea1329c4f8]{
 -- Page 24, Offset 19856.
 -- 何か意見があって？
-          As-tu une objection à faire ?
+    As-tu une objection à faire ?
 
 }
 [sha:4614766767ef35f49f7c6d05585679b8d3b6004e]{
@@ -409,7 +409,7 @@ cela. Dans ce cas......
 [sha:7fd1b6661cbd4344573de95d527debe4b3397851]{
 -- Page 27, Offset 19863.
 -- これだけで説明になると思うのだけど、どう？
-      Rien que ça donne déjà une assez bonne explication. Qu'en penses-tu ?
+      Rien que ça donne déjà une assez bonne explication.^      Qu'en penses-tu ?
 
 }
 [sha:e1944f1b0d32aae6f956098d2b4aaf7e70175193]{
@@ -451,19 +451,19 @@ cela. Dans ce cas......
 [sha:4814ecad6ae59da2eb66f48389de52b6e5b5319b]{
 -- Page 31, Offset 19870.
 -- プロイも同様に西欧圏のオモチャで、
-      De même, Ploy est un jouet dans la culture européenne,
+    De même, Ploy est un jouet dans la culture européenne,
 
 }
 [sha:6991cdd6e501ee68a735aa34179bb74a5239dbbd]{
 -- Page 31, Offset 19871.
 -- こっちは戦争ごっこに使われるもの。
-      et ici, c'est ce qu'on utilise pour jouer à la guerre.
+    et ici, c'est ce qu'on utilise pour jouer à la guerre.
 
 }
 [sha:88fba2cd6c7acd4152e0e54e14c456094416a81b]{
 -- Page 31, Offset 19872.
 -- 子供の教育用玩具の総称ね。
-      C'est un terme général désignant un jouet éducatif.
+    C'est un terme général désignant un jouet éducatif.
 
 }
 [sha:22d54c09be1db009dee5096f58ac126cb0bc6b3f]{
@@ -511,7 +511,7 @@ cela. Dans ce cas......
 [sha:675ab0a9e93584ab83474a5e290da9f4468e6ca5]{
 -- Page 34, Offset 19880.
 -- 魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
-Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en obtenir des privilèges et de l'argent.
+Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages^afin d'en obtenir des privilèges et de l'argent.
 
 }
 [sha:768e3d5a4ed9bcbca70bd7a4c8e00b5efe1fa801]{
@@ -571,13 +571,13 @@ Pour moi, les choses du passé sont plus vagues que l'futur.
 [sha:13bd22f017eb571009f7e0dffd6fd3e470babeb4]{
 -- Page 39, Offset 19890.
 -- マイ女神ッス。アリスさんの母君ッスね。
-        My Godness. La mère de Mam'zelle Alice.
+  My Godness. La mère de Mam'zelle Alice.
 
 }
 [sha:a20e8fe57be9c62e272d79dae5a3844957a8dc33]{
 -- Page 39, Offset 19891.
 -- あと、純血の魔女とか、いかにもなセカンドネームがあったッス。
-        Elle avait des surnoms du genre “la Sorcière au sang pur”.
+  Elle avait des surnoms du genre “la Sorcière au sang pur”.
 
 }
 [sha:612712e0926c1ec7c7b087621fd6cd0a34e4a96d]{
@@ -619,19 +619,19 @@ Pour moi, les choses du passé sont plus vagues que l'futur.
 [sha:5a162483046479f4bc21624846bebfbe98471998]{
 -- Page 42, Offset 19898.
 -- 禁を犯した時も、ノータイムで
-      Elle en est arrivée à un tel point que lorsqu'elle a
+  Elle en est arrivée à un tel point que lorsqu'elle a
 
 }
 [sha:9347626178c0e5ff690e02244f1273b3d3606b96]{
 -- Page 42, Offset 19899.
 -- 「名前はアリスにしましょう」なんて
-      commis le péché de chair, elle a immédiatement dit
+  commis le péché de chair, elle a immédiatement dit
 
 }
 [sha:133a22a73c9b61065e54036620c81067a77160b8]{
 -- Page 42, Offset 19900.
 -- 微笑んだぐらいッスから！
-      en souriant : “son nom sera Alice”.
+  en souriant : “son nom sera Alice”.
 
 }
 [sha:603dcba70d40659b150a7b4be3f7dffc6a61ae04]{
@@ -673,7 +673,7 @@ Guah ?!
 [sha:5428051b1bf86f2a705fb3d72cf13289c810bffc]{
 -- Page 44, Offset 19907. Glued.
 -- ぐぼぁ!?
-Guah ?!
+ Guah ?!
 
 }
 [sha:fc6d1e2f1bbabc6ee92389e49f68b28ee1fed121]{
@@ -715,7 +715,7 @@ Guah ?!
 [sha:212668b0312c754b0904ee68f6d90021a74b0395]{
 -- Page 47, Offset 19914.
 -- 電柱にでもぶつかって、盛大に死んでちょうだい。
-  Écrase-toi contre un poteau électrique et meurs de façon théâtrale.
+  Écrase-toi contre un poteau électrique et^  meurs de façon théâtrale.
 
 }
 [sha:32ef314645441db5978dba83c37fc91ed87b2d04]{
@@ -829,18 +829,18 @@ Tu penses vraiment avoir une telle importance ?
 [sha:0118ab7cfb151a845258affcff1bbb8bc1cd541a]{
 -- Page 54, Offset 19933. Mods: @k, @e.
 -- ノータイムでマルカジリ。
-      J'me suis fait manger tout rond en un instant.
+    J'me suis fait manger tout rond en un instant.
 
 }
 [sha:be3fb551138efb3072691e5a34cfa5f6003e3ae7]{
 -- Page 54, Offset 19934. Mods: @k, @e.
 -- やっぱりプロイってお菓子なんス？
-      Comme je l'pensais, les Ploy sont des pâtisseries ?
+    Comme je l'pensais, les Ploy sont des pâtisseries ?
 
 }
 [sha:901926b0e6d828c2a8a2bedc526ab1f4df852bd3]{
 -- Page 54, Offset 19935.
 -- んー、あめえ。
-      Hmm, c'est bon...
+    Hmm, c'est bon...
 
 }

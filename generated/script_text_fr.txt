@@ -19801,8 +19801,8 @@ Hein ?!
     dans le lieu que Mam'zelle Alice a choisi, mais...
     Selon toute vraisemblance, c'est un jardin normal, hein.
     Où est Mam'zelle Alice......
-      Tu es en retard, Robin.
-      Je me demande si tu es bien conscient de ton rôle d'interprète.
+  Tu es en retard, Robin.
+  Je me demande si tu es bien conscient^  de ton rôle d'interprète.
   Hein ?! J'entends une voix, mais y a personne ?!
   Ici, il ne devrait y avoir que des élèves de maternelle.
   Où est Mam'zelle Alice ?!
@@ -19814,34 +19814,34 @@ Hein ?!
     Oh, c'est vraiment trois fois rien.
     C'est juste que je m'effraie moi-même
     de ne pas trouver ça zarbi.
-    C'est bien, Mam'zelle Alice, My Angel.
-    Peu importe ce que vous portez,
-    ça vous va à fond. Oui, à donf !
+  C'est bien, Mam'zelle Alice, My Angel.
+  Peu importe ce que vous portez,
+  ça vous va à fond. Oui, à donf !
     Au fait.
     C'est un détail sans importance,
     mais que faites-vous ici ? Et pourquoi ?
-    Il ne faut pas tomber dans la routine,
-    non ? Ce n'est pas parce que nous sommes dans le coin bonus qu'il faut réutiliser les mêmes décors.
-    Cela va à l'encontre de mon éthique. On n'est pas dans un certain dojo.
+  Il ne faut pas tomber dans la routine,
+  non ? Ce n'est pas parce que nous sommes dans le coin bonus^  qu'il faut réutiliser les mêmes décors.
+  Cela va à l'encontre de mon éthique. On n'est pas dans un certain dojo.
     C'est pour ça que vous avez changé de lieu.
     Je vois. J'ai à peu près compris.
     Cet entrain surprendrait même Mam'zelle Aoko.
     Mais perso, je préfère plutôt les barboteuses aux blouses, hein. Vous savez, genre des robes. Genre celles d'une déesse. Enfin, c'est pas que j'aime pas les blouses, hein ? C'est juste un problème d'image, la présence qu'elles dégagent sous forme de dessins.
 Par exemple, “La forêt, l'oiseau et la fillette” ? Vous voyez, dans “L'oiseau et l'élève de maternelle”, l'image que renvoie l'élève est tellement forte qu'on peut pas se concentrer sur l'oiseau.
-      Zut. J'étais en pleine préparation de pâtisseries.
+  Zut. J'étais en pleine préparation de pâtisseries.
 Elle m'ignore royalement. Au fait, d'habitude,
 que faites-vous après les cours ?
     Mam'zelle Aoko a le conseil étudiant.
     L'idiot, ses jobs. Et vous, vous êtes
     dans le club du retour à la maison ?
  Tu peux le constater par toi-même.
- Dès que j'en ai le temps, je fais des Ploy.
+ Dès que j'en ai le temps, je fais des^ Ploy.
   Ouaah. C'est à l'image des sorcières
   des contes de fées.
   Les Ploy se fabriquent dans une marmite ?
-        En fait, cette odeur,
-        c'est du chocolat ? Pas possible......
-        Les Ploy étaient des pâtisseriesーーーー?!
+    En fait, cette odeur,
+    c'est du chocolat ? Pas possible......
+    Les Ploy étaient des pâtisseriesーーーー?!
     ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais
     pas leur mécanisme ? Je ne voulais pas le reconnaître,
     mais en fin de compte, tu n'es vraiment qu'un oiseau ?
@@ -19851,26 +19851,26 @@ que faites-vous après les cours ?
       Parce que dès maintenant, vous allez
       donner une explication cool, plus profonde
       que l'océan et plus vaste que le ciel !
-    C'est comme je l'ai expliqué dans l'histoire principale.
-    Terminé, dispersion.
-  Ces paroles réduisent à néant l'intérêt même de c'coin sur les Ploy.
-          As-tu une objection à faire ?
+  C'est comme je l'ai expliqué dans^  l'histoire principale.
+  Terminé, dispersion.
+  Ces paroles réduisent à néant l'intérêt même^  de c'coin sur les Ploy.
+    As-tu une objection à faire ?
     Non. Mais j'voudrais au moins avoir un résumé.
     À ce rythme, c't'partie va être pire
     qu'un certain dojo !
 ............... Je préférerais éviter
 cela. Dans ce cas......
       C'est l'orthographe de Ploy Kickshaw.
-      Rien que ça donne déjà une assez bonne explication. Qu'en penses-tu ?
+      Rien que ça donne déjà une assez bonne explication.^      Qu'en penses-tu ?
           Ploy ? Kickshaw ?
       Le “ck” de Kickshaw est pratiquement muet.
       En Europe de l'Ouest, ça a le sens de jouet d'enfant,
       de farce enfantine, ou de quelque chose de rare et méprisé.
   Ah. Je sais.
   C'est aussi dans le sens d'excentri―――
-      De même, Ploy est un jouet dans la culture européenne,
-      et ici, c'est ce qu'on utilise pour jouer à la guerre.
-      C'est un terme général désignant un jouet éducatif.
+    De même, Ploy est un jouet dans la culture européenne,
+    et ici, c'est ce qu'on utilise pour jouer à la guerre.
+    C'est un terme général désignant un jouet éducatif.
       C'est aussi un mot familier pour “stratagème”,
       “tactique”, et en Écosse, ça peut aussi dire......
       non, en fait, oublie ça.
@@ -19878,7 +19878,7 @@ cela. Dans ce cas......
         ça donne le terme “Ploy Kickshaw”.
         C'est vous qui l'avez inventé ?
 ...... C'est la Magie propre à la lignée de ma mère.
-Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en obtenir des privilèges et de l'argent.
+Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages^afin d'en obtenir des privilèges et de l'argent.
    Enfin, même si vous les présentiez publiquement,
    il n'y a que vous qui puissiez les utiliser !
    Ils sont liés au sang de Meinster !
@@ -19888,31 +19888,31 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages afin d'en
 Pour moi, les choses du passé sont plus vagues que l'futur.
   ......
   Qu'entends-tu par Meinster ?
-        My Godness. La mère de Mam'zelle Alice.
-        Elle avait des surnoms du genre “la Sorcière au sang pur”.
+  My Godness. La mère de Mam'zelle Alice.
+  Elle avait des surnoms du genre “la Sorcière au sang pur”.
     Mais votre mère était une fashion victim.
     Elle avait un faible pour les choses en vogue.
     C'était aussi une grande fan de Lewis Carroll.
     Les sorcières personnalisent les Ploy que la génération
     précédente leur a laissés. C'est parce qu'elle était
     accro à Carroll qu'ils ont fini dans cet état.
-      Elle en est arrivée à un tel point que lorsqu'elle a
-      commis le péché de chair, elle a immédiatement dit
-      en souriant : “son nom sera Alice”.
+  Elle en est arrivée à un tel point que lorsqu'elle a
+  commis le péché de chair, elle a immédiatement dit
+  en souriant : “son nom sera Alice”.
     ...... Je suis sidérée.
     C'était un amoncellement de niaiseries.
   Ha ha ha, qu'est-ce que vous racontez. Vous qui
   vous réveillez systématiquement dès que l'idiot
   rentre à la maison, vous n'avez rien à lui envi...
 Guah ?!
-Guah ?!
+ Guah ?!
         À la prochaine leçon, faisons un cours
         “Ploy Kickshaw, cas particuliers”.
  Alors Robin, occupe-toi de la réservation
  au restaurant. Quand tu auras fini, réchauffe
  le chocolat. Et après, tu poliras le miroir.
   Et ensuite...... voyons.
-  Écrase-toi contre un poteau électrique et meurs de façon théâtrale.
+  Écrase-toi contre un poteau électrique et^  meurs de façon théâtrale.
       Comme d'habitude, donc, hein !
       Mam'zelle Alice, vous êtes cruelle !
 À l'origine, je suis ce genre de personnage.
@@ -19931,9 +19931,9 @@ Tu penses vraiment avoir une telle importance ?
  léché !
   Bonne idée,
   si on essayait pour voir si ça ne te tue pas ?
-      J'me suis fait manger tout rond en un instant.
-      Comme je l'pensais, les Ploy sont des pâtisseries ?
-      Hmm, c'est bon...
+    J'me suis fait manger tout rond en un instant.
+    Comme je l'pensais, les Ploy sont des pâtisseries ?
+    Hmm, c'est bon...
     Chef. Une assiette
     de thon trois variétés.
       Mam'zelle Alice, c'est quoi ça ?
