@@ -14,18 +14,26 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 1084,"J'aurais dû me demander pourquoi tu es revenue après cinq heures, toi qui n'es dans aucun club et qui mets vingt minutes pour aller à l'école, en prenant en compte le temps de trajet en bus et à pied.」",,帰宅部、学校までバス・徒歩込みで片道二十分のあんたが、なんで五時以降に帰ってくんのか考えるべきだったわ！」
 1092,"Quand tu as fait un tour au centre-ville et mangé des sushis pour me ramener des soba qui, pour une mystérieuse raison, se trouvaient dans un sac plastique de la supérette ?」",,あなたが都心に出向いた時、夕食にお寿司を食べてきたのに、お土産はなぜかコンビニエンスストアのビニール袋だったって話？」
 1100,"「...... Ça va, j'ai compris. On peut dire qu'on est quittes maintenant ?」",,「……分かった。分かりました。じゃあ、今回のは前のと帳消しって事でいいわね？」
-1213,"En tout cas, fais attention aux coins sombres la nuit. Faut dire que tu as une tête de pigeon.」",,ともかく、そういうワケなんで夜の暗がりは気をつけるぞなもし。静希、見るからにカモそうな顔してるし」
+1169,,0,
+1210,,0,
+1213,"En tout cas, fais attention aux coins sombres la nuit. Après tout, tu as une tête de pigeon.」",,ともかく、そういうワケなんで夜の暗がりは気をつけるぞなもし。静希、見るからにカモそうな顔してるし」
 1231,"Le fait qu'un oiseau tombe,",,鳥が墜ちてくるコトも、
+1289,,0,
+1296,,0,
 1330,"Voyons voir, si je me rappelle bien, le premier verset, c'est “Légèrement. Faiblement. Habilement. Rapidement. Tic tac tic tac, dépêche-toi dépêche-toi”, c'est ça ?」",,えーと、一節目はたしか、“軽く、弱く。巧く、速く。チクタクチクタク　急げや急げ”よね？」
 1359,,1,
 1370,"Hey diddle diddle,",,"Hey diddle diddle,"
 1379,"The cow jump'd over the moon,",,"The cow jump'd over the moon,"
+1416,,0,
+1478,「Tweedle.」,,
 1504,"Broken down, broken down...",,"Broken down,broken down."
+1513,,2,
 1541,"Broken down, broken down...",,"Broken down,broken down."
 1636,"『La prochaine fois, pour sûr, on se montrera utiles ! Même si l'échec est notre apanage depuis la naissance !』",,『次、次はお役に立ちますきっと！　生まれてこの方、失敗続きのボクらだけど！』
 1667,"「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas tôt ou tard de l'argent, les bénéfices engendrés seront insuffisants, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」",,「そうだなあ。粗大ゴミ回収は、金でも貰わねえとワリ合わなくなるんじゃねえか？　国が無料で回収するのはそろそろおしまいってトコ」
 1668,"「Hein ? Qu'est-ce que tu racontes ? Les vieilles commodes se vendent bien cher, elles !",,「はあ？　なに言ってんのオマエ？　使い古しの箪笥とか高く売れるじゃん！
-1689,"「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas, je sais pas moi, dessiner un cercle de culture quelque part sur le campus ?」",,「面白いコトねぇなあ。誰か、校庭にミステリーサークルとか作ってくんねぇかなあ」
+1669,,1,
+1689,「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle de culture quelque part sur le campus ?」,,「面白いコトねぇなあ。誰か、校庭にミステリーサークルとか作ってくんねぇかなあ」
 1706,"Et si jamais il travaillait dans un endroit qui ne rentre pas tout à fait dans le cadre de la loi sur les normes du travail, ça serait gênant, non ? Pour nous comme pour lui.」",,仮に、もし認可していない、労働基準法に反してそうな所で働いてたら困るでしょ、学校も彼も」
 1712,"En supposant qu'il ait un travail qui ne respecte pas les règles de l'école, ne serait-ce pas parce que l'école ne répond pas à sa demande ?」",,仮に彼が指定以外のアルバイトをしているとしたら、それは彼の要求に学校側が応えていないからではありませんか？」
 1714,"Si vous le soupçonnez de travailler dans des lieux non recommandés par l'école, alors commencez par modifier le règlement qui stipule qu'un élève ne peut avoir qu'un seul emploi.」",,指定外のアルバイトを疑うのなら、まず“働き先は一生徒につき一件だけ”という規則を改めてください」
@@ -386,9 +394,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19856,Ces paroles réduisent à néant l'intérêt même<ra>de c'coin sur les Ploy.,,retour à la ligne saynète
 19857,,4,alignement saynète
 19864,Rien que ça donne déjà une assez bonne explication.<ra>Qu'en penses-tu ?,,retour à la ligne saynète
-19871,,4,
-19872,,4,
-19873,,4,
+19871,,4,alignement saynète
+19872,,4,alignement saynète
+19873,,4,alignement saynète
 19881,Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages<ra>afin d'en obtenir des privilèges et de l'argent.,,魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
 19891,,2,alignement saynète
 19892,,2,alignement saynète
@@ -399,13 +407,13 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19915,Écrase-toi contre un poteau électrique et<ra>meurs de façon théâtrale.,,retour à la ligne saynète
 19921,"Par exemple,",,貴方のような
 19922,brûler des calories toutes les cinq secondes,1,××を罵るのに
-19928,,1,
-19929,,1,
-19930,,1,
-19931,,1,
-19934,,4,
-19935,,4,
-19936,,4,
+19928,,1,alignement saynète
+19929,,1,alignement saynète
+19930,,1,alignement saynète
+19931,,1,alignement saynète
+19934,,4,alignement saynète
+19935,,4,alignement saynète
+19936,,4,alignement saynète
 20045,alors la vache doit être une parodie du taureau.,,牛は牡牛座のもじりでしょう。
 20048,"Mam'zelle Alice, vous le fabriquez à la chaîne ?",,アリスさん、そのたびに作ってるッスか？
 20076,Une règle stipule qu'une sorcière doit créer un Ploy suprême de son vivant.,,魔女はその生で一つ、至高のプロイを遺さないとい^けない決まりがあるから。

@@ -3,11 +3,28 @@ import shutil
 import time
 
 import utils.config_importer as conf
+from utils.translation.translate_csv import read_csv_from_name
 from utils.translation.translation import generate_updated_translation
 from utils.utils import CLEAN_END, get_file_lines, write_file_lines, progress
-from utils.steam.translate_swap import swap_char_in_script
+from utils.steam.translate_swap import swap_char_in_script, swap_char_in_line
 from utils.switch.utils import extract_switch_line_offset
 import utils.converters.HunexFileArchiveTool.hunex_file_archive_tool as hfa
+
+def create_steam_exe_titles_file(file: str):
+	lines = read_csv_from_name(file)
+	for line in lines:
+		line[2] = swap_char_in_line(line[2])
+
+	# make lines a normal list of strings however many columns
+	new_lines = []
+	for line in lines:
+		new_lines.append(','.join(line))
+		new_lines.append("\n")
+
+	if new_lines[-1] != "\n":
+		new_lines.append("\n")
+
+	write_file_lines("generated/TEXT5.bin", new_lines)
 
 def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
@@ -29,6 +46,9 @@ def create_steam_file(new_lines: list[str]):
 
 	if os.path.exists(conf.steam_hfa_name):
 		shutil.rmtree(conf.steam_hfa_name, ignore_errors=True)
+
+	if os.path.exists(conf.exe_titles_file):
+		create_steam_exe_titles_file(conf.exe_titles_file)
 	
 	if not success:
 		print(f"Erreur lors de la création du patch Steam{CLEAN_END}", end="\n")

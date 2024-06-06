@@ -313,7 +313,7 @@
 [sha:6ab56ce1e2488d46e410346e8a1c80068b20593f]{
 -- Page 15, Offset 1168. Glued. Mods: @x.
 -- 忠告サンキュー。それで、相談ごと？　なに、もしかして金？」
-  Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-être ?」
+Merci de m'avoir prévenu. Et donc ? Tu veux des conseils ? Sur l'argent peut-être ?」
 
 }
 [sha:2735462657b0d4e388b57ac91304cfa057ef8b30]{
@@ -559,7 +559,7 @@ Gya ?!」
 [sha:77602d9cc505602b58fd4f4463170ee4b7ff9369]{
 -- Page 28, Offset 1209. Glued. Mods: @x.
 -- フツーそっちの方が禁止用語じゃねえの!?　ここレストランなんだしさ！　いや、あんまうまくねーけど！」
-  D'ailleurs, pourquoi c'est pas ça qu'on n'a pas le droit de dire ?! On est dans un restaurant, quand même ! Même s'il est pas très bon !」
+D'ailleurs, pourquoi c'est pas ça qu'on n'a pas le droit de dire ?! On est dans un restaurant, quand même ! Même s'il est pas très bon !」
 
 }
 [sha:9c2a63b8d1f6bbfaa4a01cc6ca60c30973cbfcb1]{
@@ -577,7 +577,7 @@ Gya ?!」
 [sha:b188fdb68a7be0e85c21034ae58dfc71517d7804]{
 -- Page 29, Offset 1212.
 -- ともかく、そういうワケなんで夜の暗がりは気をつけるぞなもし。静希、見るからにカモそうな顔してるし」
-  En tout cas, fais attention aux coins sombres la nuit. Faut dire que tu as une tête de pigeon.」
+  En tout cas, fais attention aux coins sombres la nuit. Après tout, tu as une tête de pigeon.」
 
 }
 [sha:450ef19430d547af249bb26a0176d4e7135fa0ec]{

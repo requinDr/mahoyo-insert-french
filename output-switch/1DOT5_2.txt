@@ -313,7 +313,7 @@
 [sha:955eac7792879d299fd68e256aaa3b5451f5f583]{
 -- Page 16, Offset 1288. Glued. Mods: @x.
 -- お煎餅で気が<緩|ゆる>んだのが敗因っていうか、そりゃ、<暗|ウィ><示|ッシュ>のつもりがガンドになっちゃったのは、我ながら攻撃的すぎると思うけど……」
-  Si ça ne s'est pas passé comme prévu, c'est parce que les senbei m'ont distraite, si j'ose dire. Bon d'accord, même moi, je trouve que c'est un peu fort qu'une Suggestion se soit carrément transformée en un Gandr, mais......」
+Si ça ne s'est pas passé comme prévu, c'est parce que les senbei m'ont distraite, si j'ose dire. Bon d'accord, même moi, je trouve que c'est un peu fort qu'une Suggestion se soit carrément transformée en un Gandr, mais......」
 
 }
 [sha:13be326e6cb48603cebc18191818ae125a29f52e]{
@@ -355,7 +355,7 @@
 [sha:d05b67c13284269557c6c89eae00cef71b44ff73]{
 -- Page 18, Offset 1295. Glued. Mods: @x.
 -- アレ、いま洋館モードから三咲モードになってるんでしょ？」
-  En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
+En ce moment, il n'est plus en mode résidence mais en mode Misaki, c'est ça ?」
 
 }
 [sha:1c0006a4dd7b98686990ed091e5427a4431520d0]{

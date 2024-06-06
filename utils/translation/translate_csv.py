@@ -18,10 +18,18 @@ def create(chemin: str, lignes: dict):
     except Exception as e:
         print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 
+def read_csv_from_name(chemin):
+    try:
+        with open(chemin, encoding="utf-8") as f:
+            reader = csv.reader(f, delimiter=',')
+            return [row for row in reader]
+    except Exception as e:
+        print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
+        return None
 
 # renvoit sous la forme d'un dictionnaire avec comme clé
 # la première colonne et comme valeur la 3e colonne
-def read_csv_from_name(chemin):
+def read_csv_dict_from_name(chemin):
     try:
         with open(chemin, encoding="utf-8") as f:
             reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
@@ -45,4 +53,4 @@ def get_csv(pathOrUrl):
     if is_github_url(pathOrUrl):
         return read_csv_from_github(pathOrUrl)
     else:
-        return read_csv_from_name(pathOrUrl)
+        return read_csv_dict_from_name(pathOrUrl)

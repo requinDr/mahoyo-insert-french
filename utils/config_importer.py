@@ -21,6 +21,7 @@ try:
 	output_steam_patch_folder = config['steam']['output_steam_patch_folder']
 	input_steam_patch_folder = config['steam']['input_steam_patch_folder']
 	steam_hfa_name = config['steam']['steam_hfa_name']
+	exe_titles_file = config['steam']['exe_titles_file']
 	remplacer_caracteres = config.getboolean('steam', 'swap_characters')
 	output_switch_folder = config['switch']['output_switch_folder']
 except Exception as e:

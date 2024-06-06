@@ -121,7 +121,7 @@
 [sha:008bc941f7ba9321f56f82159e0159c82a5c5f9c]{
 -- Page 7, Offset 1668. Glued. Mods: @x.
 -- オレみたいな開封・即使用、みたいな男がこれからのトレンドなワケでしょ？　ほら、コンビニで売ってる使い捨てカメラとか大人気だし？　ようやく流行がオレの消費文明に追いついたと、」
-  Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
+ Donc quelqu'un comme moi, “directement prêt à l'emploi”, finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」
 
 }
 [sha:2fc03f824f431fca9a4c25b21b53afbba4767115]{
@@ -241,7 +241,7 @@ Et toi, Tobimaru ?」
 [sha:12199fd78d5c811c44b570163351de678357752f]{
 -- Page 14, Offset 1688.
 -- 「面白いコトねぇなあ。誰か、校庭にミステリーサークルとか作ってくんねぇかなあ」
-「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas, je sais pas moi, dessiner un cercle de culture quelque part sur le campus ?」
+「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle de culture quelque part sur le campus ?」
 
 }
 [sha:962799f1db0060f2cd494b1ecaa35023e826f427]{

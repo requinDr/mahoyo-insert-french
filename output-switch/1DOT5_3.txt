@@ -469,7 +469,7 @@ To see such craft,
 [sha:b48163988476fab19dcaf5765f07011582dbdb79]{
 -- Page 21, Offset 1415. Glued. Mods: @x.
 -- 『もっと奥へ、もっと奥へ！』
- 『Plus loin, plus loin !』
+『Plus loin, plus loin !』
 
 }
 [sha:6f9d179a57efe0dd2ed39e82daa35e802e108f4d]{
@@ -841,7 +841,7 @@ To see such craft,
 [sha:29095eadf4a78c9ba8fddaaf967fba4c8e39a4ec]{
 -- Page 39, Offset 1477.
 -- 「トゥィードル」
-「Diddle.」
+「Tweedle.」
 
 }
 [sha:4fe3a756bf3f86dbc3321346ad1902da2aea5f2b]{
@@ -1053,7 +1053,7 @@ London Bridge is broken down,
 [sha:ade3142a3f7fef98a57b35be453fc0831d9964c1]{
 -- Page 47, Offset 1512. Glued.
 -- <忌々|いまいま>しいが、素晴らしい。
-C'était révulsant mais magnifique.
+  C'était révulsant mais magnifique.
 
 }
 [sha:95b0a346deb67451584005a45dcc6639a9407611]{
