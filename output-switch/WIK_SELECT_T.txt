@@ -7,7 +7,7 @@
 [sha:fa7e8f4f29aa7d90bea73e4d88cc01f3a62c93de]{
 -- Page 6, Offset 24072. Choice.
 -- か、鍵をかければ安全だし、そんなことされたら逆に眠れない！　と思った。
-Je... Je songeai qu'il suffirait de fermer à clef, net que de toute façon, j'aurais du mal à dormir si j'acceptais.
+Je... Je songeai qu'il suffirait de fermer à clef, et que de toute façon, j'aurais du mal à dormir si j'acceptais.
 
 }
 [sha:419251bd6f01fcf95340885e44e9a61d21eac4e2]{

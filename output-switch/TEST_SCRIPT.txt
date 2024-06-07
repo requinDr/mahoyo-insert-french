@@ -25,7 +25,7 @@ Je songeai qu'il valait mieux aller dans le salon.
 [sha:e3aa950e83267b821874b7a923a85459c1c3b82b]{
 -- Page -1, Offset 24019. Choice.
 -- その前に客室の様子を見た方がいいと思った。
-Je songeai que je devrais voir ma chambre.
+Je songeai que je devrais d'abord voir ma chambre.
 
 }
 [sha:a2b97a575fd3fb43869d7490134885d26a9992d5]{
@@ -343,7 +343,7 @@ Je me dis que ça devait être entre 22 heures et minuit.
 [sha:fa7e8f4f29aa7d90bea73e4d88cc01f3a62c93de]{
 -- Page -1, Offset 24072. Choice.
 -- か、鍵をかければ安全だし、そんなことされたら逆に眠れない！　と思った。
-Je... Je songeai qu'il suffirait de fermer à clef, net que de toute façon, j'aurais du mal à dormir si j'acceptais.
+Je... Je songeai qu'il suffirait de fermer à clef, et que de toute façon, j'aurais du mal à dormir si j'acceptais.
 
 }
 [sha:419251bd6f01fcf95340885e44e9a61d21eac4e2]{

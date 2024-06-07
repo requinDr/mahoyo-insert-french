@@ -68,10 +68,10 @@ SYSMES_CONF_143,山城 和樹のボイス出力を設定します,Modifier le vo
 SYSMES_CONF_144,山城 和樹のボイス音量を設定します,Volume des voix de Kazuki Yamasiro.,设置山城和树的语音音量,設定山城 和樹的語音音量
 SYSMES_CONF_145,山城 和樹のボイス音量を下げます,Baisser le volume des voix de Kazuki Yamasiro.,降低山城和树的语音音量,調低山城 和樹的語音音量
 SYSMES_CONF_146,山城 和樹のボイス音量を上げます,Augmenter le volume des voix de Kazuki Yamasiro.,提高山城和树的语音音量,調高山城 和樹的語音音量
-SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Modifier le volume des voix d'Eiri Fumidsuka.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
-SYSMES_CONF_148,文柄 詠梨のボイス音量を設定します,Volume des voix d'Eiri Fumidsuka.,设置文柄咏梨的语音音量,設定文柄 詠梨的語音音量
-SYSMES_CONF_149,文柄 詠梨のボイス音量を下げます,Baisser le volume des voix d'Eiri Fumidsuka.,降低文柄咏梨的语音音量,調低文柄 詠梨的語音音量
-SYSMES_CONF_150,文柄 詠梨のボイス音量を上げます,Augmenter le volume des voix d'Eiri Fumidsuka.,提高文柄咏梨的语音音量,調高文柄 詠梨的語音音量
+SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Modifier le volume des voix d'Eiri Fumizuka.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
+SYSMES_CONF_148,文柄 詠梨のボイス音量を設定します,Volume des voix d'Eiri Fumizuka.,设置文柄咏梨的语音音量,設定文柄 詠梨的語音音量
+SYSMES_CONF_149,文柄 詠梨のボイス音量を下げます,Baisser le volume des voix d'Eiri Fumizuka.,降低文柄咏梨的语音音量,調低文柄 詠梨的語音音量
+SYSMES_CONF_150,文柄 詠梨のボイス音量を上げます,Augmenter le volume des voix d'Eiri Fumizuka.,提高文柄咏梨的语音音量,調高文柄 詠梨的語音音量
 SYSMES_CONF_151,周瀬 律架のボイス出力を設定します,Modifier le volume des voix de Ritsuka Suse.,设置周濑律架的语音输出,設定周瀨 律架的語音輸出
 SYSMES_CONF_152,周瀬 律架のボイス音量を設定します,Volume des voix de Ritsuka Suse.,设置周濑律架的语音音量,設定周瀨 律架的語音音量
 SYSMES_CONF_153,周瀬 律架のボイス音量を下げます,Baisser le volume des voix de Ritsuka Suse.,降低周濑律架的语音音量,調低周瀨 律架的語音音量
@@ -212,7 +212,7 @@ SYSMES_COMM_003,クイックジャンプしますか？,Do you want to perform a
 SYSMES_COMM_004,次のシーン、選択肢まで進みますか？,Se rendre au prochain choix ?,是否前进至下一个场景、选项？,是否要跳至下一個場景的選項？
 SYSMES_COMM_005,前のシーン、選択肢まで戻りますか？,Revenir au choix pr=c=dent ?,是否返回至上一个场景、选项？,是否要返回上一個場景的選項？
 SYSMES_COMM_006,書庫の選択画面に戻りますか？,Revenir sur l'=cran de s=lection^des archives ?,是否返回档案选择屏幕？,是否要返回資料庫選擇畫面？
-SYSMES_COMM_007,セーブをせずに終了してもよろしいですか？,Are you sure you want to quit^without saving?,不进行存档直接关闭游戏，确定吗？,是否要不保存就結束遊戲？
+SYSMES_COMM_007,セーブをせずに終了してもよろしいですか？,Voulez-vous vraiment quitter^sans sauvegarder ?,不进行存档直接关闭游戏，确定吗？,是否要不保存就結束遊戲？
 SYSMES_COMM_008,ボイスを消去しますか？,Do you want to clear voices?,是否消除语音？,是否要刪除語音？
 SYSMES_COMM_009,栞を挟みますか？,Faire une sauvegarde rapide ?,添加书签吗？,要夾上書籤嗎？
 SYSMES_COMM_010,終了しますか？,Quitter le jeu ?,确定要结束游戏吗？,確定要結束遊戲嗎？

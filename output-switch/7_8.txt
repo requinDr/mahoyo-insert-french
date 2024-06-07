@@ -307,7 +307,7 @@
 [sha:bafd96f3e4a7cc2f0c7695303ef3a7ebda9c1973]{
 -- Page 17, Offset 9980.
 -- 「……いいけど。あーあ、情けない。こんな事なら錬金術でもかじっておくんだった。そうすれば、こんな思いをしなくてもすんだのに」
-「...... D'accord. Mais, aaah, c'est lamentable. Si j'avais su, j'aurais appris quelques notions d'Alchimie. Comme ça, je n'aurais pas eu à ressentir ce sentiment pitoyable.」
+「...... D'accord. Mais c'est nul. Si j'avais su, j'aurais appris quelques notions d'Alchimie. Comme ça, je n'aurais pas eu à éprouver ça.」
 
 }
 [sha:c690b95281adbf14d4125db877cc49f65c1a1709]{

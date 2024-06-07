@@ -1261,13 +1261,13 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:fb0b9ffbd9a752b24c5030ab4af7b708020b28b5]{
 -- Page -1, Offset 11484.
 -- 「ごめん、木乃美のおかげで僕にも彼女ができました！　彼女の口癖は“木乃美クンよりマシよ
-「ごめん、木乃美のおかげで僕にも彼女ができました！ 彼女の口癖は“木乃美クンよりマシよ
+「Désolé, gràce à toi, je me suis trouvé une copine ! Sa phrase fétiche, c'est "je te préfère à Kinomi"
 
 }
 [sha:90e1df71642d724d3a3e7f47a3fda925158b67e8]{
 -- Page -1, Offset 11485.
 -- ”です！」
-”です！」
+Tu sais tout !」
 
 }
 [sha:44754cc32140e1ce47f288a07ac0a5a3ff71646b]{
@@ -1429,7 +1429,7 @@ Lugh Beowulf
 [sha:1f8e192fe376813ad2f0b3e36cb3fdeabbb118ad]{
 -- Page -1, Offset 24085.
 -- 文柄 詠梨
-Eiri Fumidsuka
+Eiri Fumizuka
 
 }
 [sha:b24ed5df4917846465fc93e2225e53cba9d2f944]{
@@ -1531,7 +1531,7 @@ Lugh Beowulf
 [sha:1f8e192fe376813ad2f0b3e36cb3fdeabbb118ad]{
 -- Page -1, Offset 24110.
 -- 文柄 詠梨
-Eiri Fumidsuka
+Eiri Fumizuka
 
 }
 [sha:b24ed5df4917846465fc93e2225e53cba9d2f944]{

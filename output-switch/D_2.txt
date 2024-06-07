@@ -247,7 +247,7 @@
 [sha:8bb275f639cfa7d213bc4db62aaf2832ef4f3dda]{
 -- Page 12, Offset 18938.
 -- ゴールの見えない道は<延々|えんえん>と続いている。
-  Le chemin dont on ne voyait pas la fin s'étirait indéfiniment.
+  Le chemin dont on ne voyait pas le bout s'étirait indéfiniment.
 
 }
 [sha:541c9d4140ff4adceff24f1d75a30f238365f58e]{

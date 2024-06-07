@@ -97,7 +97,7 @@
 [sha:5cd963a2bf0bec9d51ffdd45601c86a5ae1fb830]{
 -- Page 5, Offset 13328. Glued. Mods: @x, @n.
 -- って、ピンクトゥルーデが入ってない！？
-Pinktrude en fait partie ?!
+Pinktrude n'en fait pas partie ?!
 
 }
 [sha:b0949c48fe202ede29b8bb7ab71c8b9718b25e79]{

@@ -595,7 +595,7 @@ Cette fille me déteste et elle voudrait me faire partir de là, mais je ne peux
 [sha:ca69c7efaec384f3c9fa6cca54e1ca8be04eca2c]{
 -- Page 32, Offset 8664.
 -- 「クラスの女どもとは話してんじゃん。あれでいいんだっつの、オレは羨ましいっつの。
-「Quoi ? Tu parles bien avec les filles de la classe. C'est déjà très bien comme ça, je suis jaloux !
+「Quoi ? Tu parles bien avec les filles de la classe. C'est la marche à suivre. Tu peux pas savoir comme je t'envie !
 
 }
 [sha:36485b2b9a17a34fff24c1574c4e1b94e0b8dc58]{
@@ -1105,7 +1105,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 [sha:8194901dd5eed3446972a392f5d5c1f26a86a9ba]{
 -- Page 60, Offset 8749.
 -- ガチガチに守りをかためて、そのクセ城門だけ開けて、獲物が油断して入ってきたら串刺しにする気満々とか、相棒として見てられないわ。
-  Tu fortifies tes défenses, mais tu laisses la porte du château ouverte dans la claire intention d'embrocher ta proie si jamais elle entre par inadvertance. En tant que partenaire, je ne peux pas rester les bras croisés en voyant cela.
+  Tu fortifies tes défenses, mais tu laisses la porte du château grande ouverte dans la claire intention d'embrocher ta proie si jamais elle entre par inadvertance. En tant que partenaire, je ne peux pas regarder ça en restant les bras croisés.
 
 }
 [sha:11dc711441a7786fb88ceee8d5cb1119f4efd5f7]{
@@ -1861,7 +1861,7 @@ Rassure-toi. J'ai même pour objectif de suivre à la lettre le conseil que tu m
 [sha:537bb3e30a9e1442e4cab34f9a619aaf9a3c7a12]{
 -- Page 98, Offset 8875.
 -- 「たぶん一日じゃ終わらないから自分で買うよ。
-「Non, je n'aurai sûrement pas fini en une journée, alors j'en achèterai un moi-même.
+「Non, je n'aurai sûrement pas fini en une journée, alors j'en achèterai un.
 
 }
 [sha:dab5e5f3474bafa46769ca678b3a15199728f085]{

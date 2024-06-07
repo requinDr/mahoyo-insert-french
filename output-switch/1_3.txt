@@ -127,7 +127,7 @@
 [sha:ba95c48b8679cb998cfcdfd11affa6a64c91e080]{
 -- Page 7, Offset 573.
 -- が。
-  Mais...
+  Pourtant,
 
 }
 [sha:13619e9000f6c249d12edac0ed587f0e83160843]{
@@ -241,7 +241,7 @@ Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattend
 [sha:29fe77d2ca53ae3e2d48d041d8daab9d838a660f]{
 -- Page 12, Offset 592.
 -- 「それで。いったい、何の用なの」
-「Donc, c'est quoi que tu as de prévu exactement ?」
+「Et donc, c'est quoi que tu as de prévu exactement ?」
 
 }
 [sha:81795ea8ec4c5d4738cdd94f63a7a542ea53f331]{
@@ -265,7 +265,7 @@ Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattend
 [sha:cad7686ef58477d69cafb675b77f7931b02e7109]{
 -- Page 13, Offset 596.
 -- 『……馴れ始めたつもりだったけど、コイツのこういったテンポには失神しそうになるわ……』
-『...... Je croyais m'être faite à son extravagance, mais il me prend encore parfois au dépourvu......』
+『...... Je croyais m'être faite à son comportement extravagant, mais il me prend encore parfois au dépourvu......』
 
 }
 [sha:f821ba29bbce60af4d65f55bce4272d8f35a6350]{

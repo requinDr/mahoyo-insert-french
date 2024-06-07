@@ -319,7 +319,7 @@
 [sha:c72c895968ad2206be3d24d3a69129fcfa3b2227]{
 -- Page 14, Offset 14577.
 -- 昔っから人間の髪や目は魔術の材料になりやすいの。女の場合は<殊更|ことさら>にね。
-  Il a toujours été facile de transformer les cheveux ou les yeux humains en matériau brut utile à la Magie. Et tout particulièrement dans le cas des femmes.
+  Les cheveux et les yeux humains ont toujours été de bons matériaux en Magie. Et tout particulièrement dans le cas des femmes.
 
 }
 [sha:13ed67928d14830cbc0537cb246b8feaabee176a]{

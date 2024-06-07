@@ -1627,7 +1627,7 @@ chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
 [sha:b87362a0906bdc0c987453d2795920d1ed0ee5cd]{
 -- Page 71, Offset 15035.
 -- それは絶滅した<神代|しんだい>の<生命|いのち>。
-  Il s'agissait d'un spécimen d'une espèce éteinte qui vivait au temps de l'Âge des Dieux.
+  Il s'agissait d'un spécimen d'une espèce éteinte qui vivait au temps de^l'Âge des Dieux.
 
 }
 [sha:66574267aa98b664715871208e62d92cafb93fc6]{

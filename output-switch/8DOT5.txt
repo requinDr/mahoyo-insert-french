@@ -1339,7 +1339,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
 [sha:7cc1bc98779733963f4933b722dc3a85e9b4fa45]{
 -- Page 71, Offset 12052.
 -- 「―――チッ。そうか」
-「―――Tch. C'est vrai, les cigarettes sont...」
+「―――Tch. C'est vrai...」
 
 }
 [sha:aae1b418ae3aca9a903ae3e593b013a88222931c]{

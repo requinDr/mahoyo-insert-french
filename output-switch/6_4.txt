@@ -847,7 +847,7 @@ Tu te trompes sur pas mal de points !」
 [sha:71990a69e627885479f0d272341fa95b2e8e9eaa]{
 -- Page 41, Offset 7720.
 -- 何でもいいから目撃者を殺す、なんて事より、こっちの方がよっぽど穏便でしょ。
-  C'est bien moins barbare que de vouloir tuer le témoin à tout prix, n'est-ce pas ?
+  C'est bien moins barbare que de vouloir tuer le témoin à tout prix, non ?
 
 }
 [sha:5b6ea31643b3ba37a67d67acf254dfe4a702e0ec]{

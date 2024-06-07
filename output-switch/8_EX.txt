@@ -289,7 +289,7 @@ Il espère passer sa thèse en se contentant de copier un manuscrit soumis il y 
 [sha:4f52250a8a25605a5d716e100ed3bc0908074a1b]{
 -- Page 14, Offset 11410.
 -- 顔の良い男は好きじゃないし。やっぱり男はシュワちゃんぐらいじゃないと」
-  Et puis, je n'aime pas les hommes intelligents. Pour moi, tout homme devrait être comme Schwarzenegger.」
+  Et puis, j'aime pas particulièrement les beaux gosses. Pour moi, un homme, un vrai, doit être dans le genre de Schwarzy.」
 
 }
 [sha:2fd60111ef5efd55a21029e289feec4d3c200b31]{
@@ -823,7 +823,7 @@ Mais bon, je tiens le pari. Je vais le noter dans l'historique du conseil étudi
 [sha:3e9268972a1cdbf26cab9cb5b041cc7bcd34a76d]{
 -- Page 44, Offset 11501.
 -- 「おう、入学式な！　すげー<身体|からだ>してる女子がいたからさあ、つい声をかけたんだよな！」
-「Ouais, la cérémonie d'entrée ! J'ai vu une fille sexy, alors j'ai levé la main par réflexe !
+「Ouais, la cérémonie d'entrée ! J'ai vu cette fille canon, alors je suis allé la saluer par réflexe !
 
 }
 [sha:169683c3a173c230fbf56a7450b1cdce822291b6]{
@@ -2287,7 +2287,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
 [sha:b2c8233c128e36bb58301530e0300cac317989c6]{
 -- Page 123, Offset 11747.
 -- 「……はあ。錬金術師ほどアテにならない奴はいないってワケか。今じゃプラハの錬金術師は証券魔術師、エジプトの方は兵器作ってるって話だしね……」
-「...... Aaah. En fin de compte, on ne peut pas leur faire confiance. On prétend que maintenant, les Alchimistes de Prague sont des Mages de la finance, et ceux d'Égypte utilisent de l'or pour fabriquer des armes......」
+「...... Aaah. En fin de compte, on ne peut pas leur faire confiance. On prétend que maintenant, les Alchimistes de Prague sont des Mages de la finance, et que ceux d'Égypte fabriquent des armes......」
 
 }
 [sha:0e7dd46b5c8b92348e04f660230b8a430fe0796a]{

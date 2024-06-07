@@ -175,7 +175,7 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 [sha:1235053c8edeb66998a26901ea140544f5a2f512]{
 -- Page 11, Offset 14347.
 -- 「だから、あの人って私の持ち物を横取りしてはぶっ壊すのが趣味なのよ。苦節十四年、姉貴に目をつけられて無事だった物なんてひとつも無いもの」
-「Ben, comme je viens de le dire, elle a un sale passe-temps qui consiste à voler ce qui m'appartient et à le détruire. En quatorze ans de détermination sans faille, pas une seule chose sur laquelle elle a jeté son dévolu ne s'en est sortie indemne.」
+「Ben, comme je viens de le dire, elle a un sale passe-temps qui consiste à voler ce qui m'appartient et à le détruire. En quatorze ans d'efforts, pas une seule chose sur laquelle elle a jeté son dévolu ne s'en est sortie indemne.」
 
 }
 [sha:7933345eed77ed717d2c5baa2e1665e8de40a7b9]{

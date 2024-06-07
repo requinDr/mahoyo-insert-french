@@ -643,7 +643,7 @@ Je vais tout de suite appeler Shizuki, alors il faut que tu prennes bien soin de
 [sha:9eff4fa04cab0fb7189319abf904a8433021a473]{
 -- Page 39, Offset 1755. Glued. Mods: @x.
 -- ああ、けど蒼崎くん、ずいぶん親身になってくれるんだね。なに、もしかしてああいうのがタイプ？　あ、放送室さん、ついでに生徒会長が心からお待ちしていますと付け足して―――」
-  Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
+Oh, mais dis-moi Aozaki, tu es devenue bien gentille. Ou alors, c'est qu'il serait ton genre ? Ah, je vais vite demander à la personne de la salle d'émission d'ajouter que la présidente des élèves l'attend avec impatience―――」
 
 }
 [sha:dd749fc8f8f6448e32724f811de5a241104599f7]{
@@ -1028,7 +1028,7 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:7c08d8d11432e0b8bca3ccef63d20792f57a1898]{
 -- Page 60, Offset 1819. Glued.
 -- 正面玄関から<修道女|シスター>服の女性が姿を見せた。
- une femme en habits de nonne se montra depuis la porte d'entrée.
+  une femme en habits de nonne se montra depuis la porte d'entrée.
 
 }
 [sha:579d4f19d356a35ee5ccc7a97d3500ec481b0873]{
@@ -1064,7 +1064,7 @@ Malgré sa taille, cette église ne compte que peu de personnel.」
 [sha:5567fee505774163f1ec33f1ae693a7ffc236565]{
 -- Page 62, Offset 1825.
 -- 「そうですね。いつもは夜に呼ばれて、神父さまとだけお話をしていますから。唯架さんとは……
-「Effectivement. D'habitude, on m'appelle la nuit, et je ne fais que discuter avec le prêtre. Avec toi......
+「Effectivement. Parce que d'habitude, on m'appelle la nuit, et je ne fais que discuter avec le prêtre. Avec toi......
 
 }
 [sha:2a8ce923cb730cef023e51f92fdd4b999c934d23]{
@@ -1460,7 +1460,7 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
 [sha:c3f3a104bc16cf1ede3901d0f248bee4c10109a5]{
 -- Page 83, Offset 1891. Glued. Mods: @x.
 -- 抜けている、とも言う。
- On pouvait même dire qu'elle manquait de retenue.
+On pouvait même dire qu'elle manquait de retenue.
 
 }
 [sha:bfc44d8e309f256bbeee9cff802b6c56c8aaf2fa]{

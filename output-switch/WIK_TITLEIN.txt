@@ -727,7 +727,7 @@ Très bien, je suis d'accord pour l'université Mizora ! C'est l'université loc
 [sha:59ed96bb4032436da9c45ff6f89206dbec90577c]{
 -- Page 36, Offset 23592.
 -- 「山城先生、徹夜明けですか？」
-「Monsieur Yamashiro, auriez-vous perdu la raison ?」
+「Monsieur Yamashiro, auriez-vous veiller toute la nuit ?」
 
 }
 [sha:ff4c0eb59f6edcbd1ec633ff3f48392533e66d87]{

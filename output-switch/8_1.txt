@@ -1471,7 +1471,7 @@ Voilà le topo, alors occupons-nous de cet enfant maintenant qu'on est deux...�
 [sha:68b176417ed941035cd73e03aca69b50b69e2ae9]{
 -- Page 74, Offset 10679.
 -- 「無いよ。戻って掃除の続きをするぞ、鳶丸」
-「Mais non. Je retourne continuer le balayage, Tobimaru.」
+「Mais non. Rebroussons chemin pour finir le balayage, Tobimaru.」
 
 }
 [sha:e2d19efd52d2d58c5d7ba234678b49a63af2ffef]{
