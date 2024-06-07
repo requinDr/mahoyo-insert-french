@@ -1,10 +1,10 @@
 SYSMES_CONF_000,サウンドの設定を行います,Modifier les paramètres audio.,设置声音,設定遊戲聲音
-SYSMES_CONF_001,サウンドの設定を初期設定に戻します,Reset audio settings to default.,将声音设置恢复为初始设置,將遊戲聲音恢復為初始設定
+SYSMES_CONF_001,サウンドの設定を初期設定に戻します,Réinitialiser les paramètres audio.,将声音设置恢复为初始设置,將遊戲聲音恢復為初始設定
 SYSMES_CONF_002,ＢＧＭの音量を調整します,Modifier le volume des musiques.,调整背景音乐音量,調整BGM音量
 SYSMES_CONF_003,ＢＧＭの音量を下げます,Baisser le volume des musiques.,降低背景音乐音量,調低BGM音量
 SYSMES_CONF_004,ＢＧＭの音量を上げます,Augmenter le volume des musiques.,提高背景音乐音量,調高BGM音量
-SYSMES_CONF_005,ボイスの音量を調整します,Change voice volume.,调整语音音量,調整語音音量
-SYSMES_CONF_006,ボイスの音量を下げます,Decrease voice volume.,降低语音音量,調低語音音量
+SYSMES_CONF_005,ボイスの音量を調整します,Modifier le volume des voix.,调整语音音量,調整語音音量
+SYSMES_CONF_006,ボイスの音量を下げます,Baisser le volume des voix.,降低语音音量,調低語音音量
 SYSMES_CONF_007,ボイスの音量を上げます,Augmenter le volume des voix.,提高语音音量,調高語音音量
 SYSMES_CONF_008,効果音の音量を調整します,Modifier le volume des effets.,调整音效音量,調整效果音音量
 SYSMES_CONF_009,効果音の音量を下げます,Baisser le volume des effets.,降低音效音量,調低效果音音量
@@ -23,76 +23,76 @@ SYSMES_CONF_021,BGMの音源を2chにします,Musique en mono.,背景音乐音�
 SYSMES_CONF_022,BGMの音源を5.1chにします,Musique en stereo.,背景音乐音源设为5.1声道,將BGM音源設為5.1聲道
 SYSMES_CONF_100,ボイスの設定を行います,Modifier les paramètres des voix.,设置语音,設定遊戲語音
 SYSMES_CONF_101,ボイスの設定を初期設定に戻します,Réinitialiser les volumes de voix.,将语音设置恢复为初始设置,將遊戲語音恢復為初始設定
-SYSMES_CONF_102,システムボイスを変更します,Change the system voice.,变更系统语音,變更系統語音
-SYSMES_CONF_103,？？？のボイス出力を設定します,Change voice output settings for ???.,设置？？？的语音输出,設定？？？的語音輸出
-SYSMES_CONF_104,？？？のボイス音量を設定します,Change voice volume for ???.,设置？？？的语音音量,設定？？？的語音音量
+SYSMES_CONF_102,システムボイスを変更します,Modifier les voix système.,变更系统语音,變更系統語音
+SYSMES_CONF_103,？？？のボイス出力を設定します,Modifier le volume des voix de ???.,设置？？？的语音输出,設定？？？的語音輸出
+SYSMES_CONF_104,？？？のボイス音量を設定します,Modifier le volume de ???.,设置？？？的语音音量,設定？？？的語音音量
 SYSMES_CONF_105,？？？のボイス音量を下げます,Baisser le volume des voix de ???.,降低？？？的语音音量,調低？？？的語音音量
 SYSMES_CONF_106,？？？のボイス音量を上げます,Augmenter le volume des voix de ???.,提高？？？的语音音量,調高？？？的語音音量
-SYSMES_CONF_107,その他女性のボイス出力を設定します,Change voice output settings for misc. women.,设置其他女性的语音输出,設定其他女性的語音輸出
-SYSMES_CONF_108,その他女性のボイス音量を設定します,Change voice volume for misc. women.,设置其他女性的语音音量,設定其他女性的語音音量
-SYSMES_CONF_109,その他女性のボイス音量を下げます,Decrease voice volume for misc. women.,降低其他女性的语音音量,調低其他女性的語音音量
-SYSMES_CONF_110,その他女性のボイス音量を上げます,Increase voice volume for misc. women.,提高其他女性的语音音量,調高其他女性的語音音量
-SYSMES_CONF_111,その他男性のボイス出力を設定します,Change voice output settings for misc. men.,设置其他男性的语音输出,設定其他男性的語音輸出
-SYSMES_CONF_112,その他男性のボイス音量を設定します,Change voice volume for misc. men.,设置其他男性的语音音量,設定其他男性的語音音量
-SYSMES_CONF_113,その他男性のボイス音量を下げます,Decrease voice volume for misc. men.,降低其他男性的语音音量,調低其他男性的語音音量
-SYSMES_CONF_114,その他男性のボイス音量を上げます,Increase voice volume for misc. men.,提高其他男性的语音音量,調高其他男性的語音音量
+SYSMES_CONF_107,その他女性のボイス出力を設定します,Modifier le volume des voix des personnages féminins.,设置其他女性的语音输出,設定其他女性的語音輸出
+SYSMES_CONF_108,その他女性のボイス音量を設定します,Volume des voix des personnages féminins.,设置其他女性的语音音量,設定其他女性的語音音量
+SYSMES_CONF_109,その他女性のボイス音量を下げます,Baisser le volume des voix des personnages féminins.,降低其他女性的语音音量,調低其他女性的語音音量
+SYSMES_CONF_110,その他女性のボイス音量を上げます,Augmenter le volume des voix des personnages féminins.,提高其他女性的语音音量,調高其他女性的語音音量
+SYSMES_CONF_111,その他男性のボイス出力を設定します,Modifier le volume des voix des personnages masculins.,设置其他男性的语音输出,設定其他男性的語音輸出
+SYSMES_CONF_112,その他男性のボイス音量を設定します,Volume des voix des personnages masculins.,设置其他男性的语音音量,設定其他男性的語音音量
+SYSMES_CONF_113,その他男性のボイス音量を下げます,Baisser le volume des voix des personnages masculins.,降低其他男性的语音音量,調低其他男性的語音音量
+SYSMES_CONF_114,その他男性のボイス音量を上げます,Augmenter le volume des voix des personnages masculins.,提高其他男性的语音音量,調高其他男性的語音音量
 SYSMES_CONF_115,その他のボイス出力を設定します,Change output settings for misc. voices.,设置其他语音输出,設定其他語音輸出
-SYSMES_CONF_116,その他のボイス音量を設定します,Set volume for misc. voices.,设置其他语音音量,設定其他語音音量
-SYSMES_CONF_117,その他のボイス音量を下げます,Decrease volume of misc. voices.,降低其他语音音量,調低其他語音音量
-SYSMES_CONF_118,その他のボイス音量を上げます,Increase volume for misc. voices.,提高其他语音音量,調高其他語音音量
-SYSMES_CONF_119,蒼崎 青子のボイス出力を設定します,Change voice output settings for Aoko Aozaki.,设置苍崎青子的语音输出,設定蒼崎 青子的語音輸出
+SYSMES_CONF_116,その他のボイス音量を設定します,Volume des voix autres.,设置其他语音音量,設定其他語音音量
+SYSMES_CONF_117,その他のボイス音量を下げます,Baisser le volume des voix autres.,降低其他语音音量,調低其他語音音量
+SYSMES_CONF_118,その他のボイス音量を上げます,Augmenter le volume des voix autres.,提高其他语音音量,調高其他語音音量
+SYSMES_CONF_119,蒼崎 青子のボイス出力を設定します,Modifier le volume des voix d'Aoko Aozaki.,设置苍崎青子的语音输出,設定蒼崎 青子的語音輸出
 SYSMES_CONF_120,蒼崎 青子のボイス音量を設定します,Volume des voix d'Aoko Aozaki.,设置苍崎青子的语音音量,設定蒼崎 青子的語音音量
 SYSMES_CONF_121,蒼崎 青子のボイス音量を下げます,Baisser le volume des voix d'Aoko Aozaki.,降低苍崎青子的语音音量,調低蒼崎 青子的語音音量
 SYSMES_CONF_122,蒼崎 青子のボイス音量を上げます,Augmenter le volume des voix d'Aoko Aozaki.,提高苍崎青子的语音音量,調低蒼崎 青子的語音音量
-SYSMES_CONF_123,久遠寺 有珠のボイス出力を設定します,Change voice output settings for Alice Kuonji.,设置久远寺有珠的语音输出,設定久遠寺 有珠的語音輸出
+SYSMES_CONF_123,久遠寺 有珠のボイス出力を設定します,Modifier le volume des voix d'Alice Kuonji.,设置久远寺有珠的语音输出,設定久遠寺 有珠的語音輸出
 SYSMES_CONF_124,久遠寺 有珠のボイス音量を設定します,Volume des voix d'Alice Kuonji.,设置久远寺有珠的语音音量,設定久遠寺 有珠的語音音量
 SYSMES_CONF_125,久遠寺 有珠のボイス音量を下げます,Baisser le volume des voix d'Alice Kuonji.,降低久远寺有珠的语音音量,調低久遠寺 有珠的語音音量
 SYSMES_CONF_126,久遠寺 有珠のボイス音量を上げます,Augmenter le volume des voix d'Alice Kuonji.,提高久远寺有珠的语音音量,調高久遠寺 有珠的語音音量
-SYSMES_CONF_127,静希 草十郎のボイス出力を設定します,Change voice output settings for Soujyuro Sizuki.,设置静希草十郎的语音输出,設定靜希 草十郎的語音輸出
+SYSMES_CONF_127,静希 草十郎のボイス出力を設定します,Modifier le volume des voix de Sōjūrō Shizuki.,设置静希草十郎的语音输出,設定靜希 草十郎的語音輸出
 SYSMES_CONF_128,静希 草十郎のボイス音量を設定します,Volume des voix de Sōjūrō Shizuki.,设置静希草十郎的语音音量,設定靜希 草十郎的語音音量
 SYSMES_CONF_129,静希 草十郎のボイス音量を下げます,Baisser le volume des voix de Sōjūrō Shizuki.,降低静希草十郎的语音音量,調低靜希 草十郎的語音音量
 SYSMES_CONF_130,静希 草十郎のボイス音量を上げます,Augmenter le volume des voix de Sōjūrō Shizuki.,提高静希草十郎的语音音量,調高靜希 草十郎的語音音量
-SYSMES_CONF_131,槻司 鳶丸のボイス出力を設定します,Change voice output settings for Tobimaru Tsukiji.,设置槻司鸢丸的语音输出,設定槻司 鳶丸的語音輸出
+SYSMES_CONF_131,槻司 鳶丸のボイス出力を設定します,Modifier le volume des voix de Tobimaru Tsukiji.,设置槻司鸢丸的语音输出,設定槻司 鳶丸的語音輸出
 SYSMES_CONF_132,槻司 鳶丸のボイス音量を設定します,Volume des voix de Tobimaru Tsukiji.,设置槻司鸢丸的语音音量,設定槻司 鳶丸的語音音量
 SYSMES_CONF_133,槻司 鳶丸のボイス音量を下げます,Baisser le volume des voix de Tobimaru Tsukiji.,降低槻司鸢丸的语音音量,調低槻司 鳶丸的語音音量
 SYSMES_CONF_134,槻司 鳶丸のボイス音量を上げます,Augmenter le volume des voix de Tobimaru Tsukiji.,提高槻司鸢丸的语音音量,調高槻司 鳶丸的語音音量
-SYSMES_CONF_135,久万梨 金鹿のボイス出力を設定します,Change voice output settings for Kojika Kumari.,设置久万梨金鹿的语音输出,設定久萬梨 金鹿的語音輸出
+SYSMES_CONF_135,久万梨 金鹿のボイス出力を設定します,Modifier le volume des voix de Kojika Kumari.,设置久万梨金鹿的语音输出,設定久萬梨 金鹿的語音輸出
 SYSMES_CONF_136,久万梨 金鹿のボイス音量を設定します,Volume des voix de Kojika Kumari.,设置久万梨金鹿的语音音量,設定久萬梨 金鹿的語音音量
 SYSMES_CONF_137,久万梨 金鹿のボイス音量を下げます,Baisser le volume des voix de Kojika Kumari.,降低久万梨金鹿的语音音量,調低久萬梨 金鹿的語音音量
 SYSMES_CONF_138,久万梨 金鹿のボイス音量を上げます,Augmenter le volume des voix de Kojika Kumari.,提高久万梨金鹿的语音音量,調高久萬梨 金鹿的語音音量
-SYSMES_CONF_139,木乃美 芳助のボイス出力を設定します,Change voice output settings for Housuke Kinomi.,设置木乃美芳助的语音输出,設定木乃美 芳助的語音輸出
+SYSMES_CONF_139,木乃美 芳助のボイス出力を設定します,Modifier le volume des voix de Hōsuke Kinomi.,设置木乃美芳助的语音输出,設定木乃美 芳助的語音輸出
 SYSMES_CONF_140,木乃美 芳助のボイス音量を設定します,Volume des voix de Hōsuke Kinomi.,设置木乃美芳助的语音音量,設定木乃美 芳助的語音音量
 SYSMES_CONF_141,木乃美 芳助のボイス音量を下げます,Baisser le volume des voix de Hōsuke Kinomi.,降低木乃美芳助的语音音量,調低木乃美 芳助的語音音量
 SYSMES_CONF_142,木乃美 芳助のボイス音量を上げます,Augmenter le volume des voix de Hōsuke Kinomi.,提高木乃美芳助的语音音量,調高木乃美 芳助的語音音量
-SYSMES_CONF_143,山城 和樹のボイス出力を設定します,Change voice output settings for Kazuki Yamasiro.,设置山城和树的语音输出,設定山城 和樹的語音輸出
+SYSMES_CONF_143,山城 和樹のボイス出力を設定します,Modifier le volume des voix de Kazuki Yamasiro.,设置山城和树的语音输出,設定山城 和樹的語音輸出
 SYSMES_CONF_144,山城 和樹のボイス音量を設定します,Volume des voix de Kazuki Yamasiro.,设置山城和树的语音音量,設定山城 和樹的語音音量
 SYSMES_CONF_145,山城 和樹のボイス音量を下げます,Baisser le volume des voix de Kazuki Yamasiro.,降低山城和树的语音音量,調低山城 和樹的語音音量
 SYSMES_CONF_146,山城 和樹のボイス音量を上げます,Augmenter le volume des voix de Kazuki Yamasiro.,提高山城和树的语音音量,調高山城 和樹的語音音量
-SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Change voice output settings for Eiri Fumidsuka.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
+SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Modifier le volume des voix d'Eiri Fumidsuka.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
 SYSMES_CONF_148,文柄 詠梨のボイス音量を設定します,Volume des voix d'Eiri Fumidsuka.,设置文柄咏梨的语音音量,設定文柄 詠梨的語音音量
 SYSMES_CONF_149,文柄 詠梨のボイス音量を下げます,Baisser le volume des voix d'Eiri Fumidsuka.,降低文柄咏梨的语音音量,調低文柄 詠梨的語音音量
 SYSMES_CONF_150,文柄 詠梨のボイス音量を上げます,Augmenter le volume des voix d'Eiri Fumidsuka.,提高文柄咏梨的语音音量,調高文柄 詠梨的語音音量
-SYSMES_CONF_151,周瀬 律架のボイス出力を設定します,Change voice output settings for Ritsuka Suse.,设置周濑律架的语音输出,設定周瀨 律架的語音輸出
+SYSMES_CONF_151,周瀬 律架のボイス出力を設定します,Modifier le volume des voix de Ritsuka Suse.,设置周濑律架的语音输出,設定周瀨 律架的語音輸出
 SYSMES_CONF_152,周瀬 律架のボイス音量を設定します,Volume des voix de Ritsuka Suse.,设置周濑律架的语音音量,設定周瀨 律架的語音音量
 SYSMES_CONF_153,周瀬 律架のボイス音量を下げます,Baisser le volume des voix de Ritsuka Suse.,降低周濑律架的语音音量,調低周瀨 律架的語音音量
 SYSMES_CONF_154,周瀬 律架のボイス音量を上げます,Augmenter le volume des voix de Ritsuka Suse.,提高周濑律架的语音音量,調高周瀨 律架的語音音量
-SYSMES_CONF_155,周瀬 唯架のボイス出力を設定します,Change voice output settings for Yuika Suse.,设置周濑唯架的语音输出,設定周瀨 唯架的語音輸出
+SYSMES_CONF_155,周瀬 唯架のボイス出力を設定します,Modifier le volume des voix de Yuika Suse.,设置周濑唯架的语音输出,設定周瀨 唯架的語音輸出
 SYSMES_CONF_156,周瀬 唯架のボイス音量を設定します,Volume des voix de Yuika Suse.,设置周濑唯架的语音音量,設定周瀨 唯架的語音音量
 SYSMES_CONF_157,周瀬 唯架のボイス音量を下げます,Baisser le volume des voix de Yuika Suse.,降低周濑唯架的语音音量,調低周瀨 唯架的語音音量
 SYSMES_CONF_158,周瀬 唯架のボイス音量を上げます,Augmenter le volume des voix de Yuika Suse.,提高周濑唯架的语音音量,調高周瀨 唯架的語音音量
-SYSMES_CONF_159,蒼崎 橙子のボイス出力を設定します,Change voice output settings for Touko Aozaki.,设置苍崎橙子的语音输出,設定蒼崎 橙子的語音輸出
-SYSMES_CONF_160,蒼崎 橙子のボイス音量を設定します,Volume des voix de Touko Aozaki.,设置苍崎橙子的语音音量,設定蒼崎 橙子的語音音量
+SYSMES_CONF_159,蒼崎 橙子のボイス出力を設定します,Modifier le volume des voix de Tōko Aozaki.,设置苍崎橙子的语音输出,設定蒼崎 橙子的語音輸出
+SYSMES_CONF_160,蒼崎 橙子のボイス音量を設定します,Volume des voix de Tōko Aozaki.,设置苍崎橙子的语音音量,設定蒼崎 橙子的語音音量
 SYSMES_CONF_161,蒼崎 橙子のボイス音量を下げます,Baisser le volume des voix de Tōko Aozaki.,降低苍崎橙子的语音音量,調低蒼崎 橙子的語音音量
 SYSMES_CONF_162,蒼崎 橙子のボイス音量を上げます,Augmenter le volume des voix de Tōko Aozaki.,提高苍崎橙子的语音音量,調高蒼崎 橙子的語音音量
-SYSMES_CONF_163,ルゥ・ベオウルフのボイス出力を設定します,Change voice output settings for Lugh Beowulf.,设置鲁格・贝奥武夫的语音输出,設定魯格‧貝奧武夫的語音輸出
+SYSMES_CONF_163,ルゥ・ベオウルフのボイス出力を設定します,Modifier le volume des voix de Lugh Beowulf.,设置鲁格・贝奥武夫的语音输出,設定魯格‧貝奧武夫的語音輸出
 SYSMES_CONF_164,ルゥ・ベオウルフのボイス音量を設定します,Volume des voix de Lugh Beowulf.,设置鲁格・贝奥武夫的语音音量,設定魯格‧貝奧武夫的語音音量
 SYSMES_CONF_165,ルゥ・ベオウルフのボイス音量を下げます,Baisser le volume des voix de Lugh Beowulf.,降低鲁格・贝奥武夫的语音音量,調低魯格‧貝奧武夫的語音音量
 SYSMES_CONF_166,ルゥ・ベオウルフのボイス音量を上げます,Augmenter le volume des voix de Lugh Beowulf.,提高鲁格・贝奥武夫的语音音量,調高魯格‧貝奧武夫的語音音量
-SYSMES_CONF_167,メイ・リデル・アーシェロットのボイス出力を設定します,Change voice output settings for May Riddell Archelot.,设置梅・莉黛尔・阿切洛特的语音输出,設定梅‧莉黛爾‧阿切洛特的語音輸出
+SYSMES_CONF_167,メイ・リデル・アーシェロットのボイス出力を設定します,Modifier le volume des voix de May Riddell Archelot.,设置梅・莉黛尔・阿切洛特的语音输出,設定梅‧莉黛爾‧阿切洛特的語音輸出
 SYSMES_CONF_168,メイ・リデル・アーシェロットのボイス音量を設定します,Volume des voix de May Riddell Archelot.,设置梅・莉黛尔・阿切洛特的语音音量,設定梅‧莉黛爾‧阿切洛特的語音音量
 SYSMES_CONF_169,メイ・リデル・アーシェロットのボイス音量を下げます,Baisser le volume des voix de May Riddell Archelot.,降低梅・莉黛尔・阿切洛特的语音音量,調低梅‧莉黛爾‧阿切洛特的語音音量
 SYSMES_CONF_170,メイ・リデル・アーシェロットのボイス音量を上げます,Augmenter le volume des voix de May Riddell Archelot.,提高梅・莉黛尔・阿切洛特的语音音量,調高梅‧莉黛爾‧阿切洛特的語音音量
-SYSMES_CONF_171,土桔 由里彦のボイス出力を設定します,Change voice output settings for Yurihiko Tokitsu.,设置土桔由里彦的语音输出,設定土桔 由里彥的語音輸出
+SYSMES_CONF_171,土桔 由里彦のボイス出力を設定します,Modifier le volume des voix de Yurihiko Tokitsu.,设置土桔由里彦的语音输出,設定土桔 由里彥的語音輸出
 SYSMES_CONF_172,土桔 由里彦のボイス音量を設定します,Volume des voix de Yurihiko Tokitsu.,设置土桔由里彦的语音音量,設定土桔 由里彥的語音音量
 SYSMES_CONF_173,土桔 由里彦のボイス音量を下げます,Baisser le volume des voix de Yurihiko Tokitsu.,降低土桔由里彦的语音音量,調低土桔 由里彥的語音音量
 SYSMES_CONF_174,土桔 由里彦のボイス音量を上げます,Augmenter le volume des voix de Yurihiko Tokitsu.,提高土桔由里彦的语音音量,調高土桔 由里彥的語音音量
@@ -101,10 +101,10 @@ SYSMES_CONF_201,テキストの設定を初期設定に戻します,Réinitialis
 SYSMES_CONF_202,文字の表示速度を調整します,Modifier la vitesse d'affichage du texte.,调整文字显示速度,調整文字顯示速度
 SYSMES_CONF_203,文字の表示速度を遅くします,Réduire la vitesse d'affichage du texte.,减慢文字显示速度,調慢文字顯示速度
 SYSMES_CONF_204,文字の表示速度を速くします,Augmenter la vitesse d'affichage du texte.,加快文字显示速度,調快文字顯示速度
-SYSMES_CONF_205,オートモードの速度を調整します,Change auto-scroll speed.,调整自动模式速度,調整自動模式速度
-SYSMES_CONF_206,オートモードの速度を遅くします,Decrease auto-scroll speed.,减慢自动模式速度,調慢自動模式速度
-SYSMES_CONF_207,オートモードの速度を速くします,Increase auto-scroll speed.,加快自动模式速度,調快自動模式速度
-SYSMES_CONF_208,ウィンドウの透明度を変更します,Change window opacity.,变更窗口透明度,變更視窗透明度
+SYSMES_CONF_205,オートモードの速度を調整します,Modifier la vitesse du défilement auto.,调整自动模式速度,調整自動模式速度
+SYSMES_CONF_206,オートモードの速度を遅くします,Réduire la vitesse du défilement auto.,减慢自动模式速度,調慢自動模式速度
+SYSMES_CONF_207,オートモードの速度を速くします,Augmenter la vitesse du défilement auto.,加快自动模式速度,調快自動模式速度
+SYSMES_CONF_208,ウィンドウの透明度を変更します,Modifier l'opacité de la fenêtre.,变更窗口透明度,變更視窗透明度
 SYSMES_CONF_209,ウィンドウを薄くします,Réduire l'opacité de la fenêtre.,将窗口变淡,調淡視窗透明度
 SYSMES_CONF_210,ウィンドウを濃くします,Augmenter l'opacité de la fenêtre.,将窗口变浓,調深視窗透明度
 SYSMES_CONF_211,文字に縁取りを付けません,Ne pas afficher les contours de texte.,无文字描边,不顯示文字外框
@@ -116,7 +116,7 @@ SYSMES_CONF_216,既読文の文字の色を変更します,Modifier la couleur d
 SYSMES_CONF_217,ウィンドウのデザインを変更します,Change window design.,变更窗口尺寸,變更視窗設計
 SYSMES_CONF_218,言語を変更します,Modifier la langue.,变更语言,變更語言
 SYSMES_CONF_300,動作の設定を行います,Modifier d'autres paramètres.,设置操作,設定遊戲動作
-SYSMES_CONF_301,動作の設定を初期設定に戻します,Reset other settings to default.,将操作设置恢复为初始设置,將遊戲動作恢復為初始設定
+SYSMES_CONF_301,動作の設定を初期設定に戻します,Réinitialiser les paramètres.,将操作设置恢复为初始设置,將遊戲動作恢復為初始設定
 SYSMES_CONF_302,全ての文章をスキップ可能にします,Rendre tous les textes passables.,允许跳过所有文章,全部文字皆可以跳過
 SYSMES_CONF_303,既読文のみスキップ可能にします,Rendre tous les textes lus passables.,只允许跳过已读内容,僅限已讀文字可以跳過
 SYSMES_CONF_304,選択肢でスキップを解除しません,Rendre les choix passables.,遇到选项时不解除跳过,出現選項時不解除跳過
@@ -127,10 +127,10 @@ SYSMES_CONF_308,選択肢で自動クイックセーブします,Active la sauv.
 SYSMES_CONF_309,シーンの頭での自動クイックセーブを設定します,Auto quick save settings for start of scene.,设置场景开始时的自动快速存档,設定場景開頭是否自動快速保存
 SYSMES_CONF_310,シーンの頭で自動クイックセーブしません,Disable auto quick save at the start of scenes.,在场景开始时不进行自动快速存档,場景開頭時不自動快速保存
 SYSMES_CONF_311,シーンの頭で自動クイックセーブします,Enable auto quick save at the start of scenes.,在场景开始时进行自动快速存档,場景開頭時自動快速保存
-SYSMES_CONF_312_PS4,ボタンのヘルプテキストを表示しません,Disable help text display for buttons.,不显示按键的帮助文本,不顯示按鈕說明文字
-SYSMES_CONF_313_PS4,ボタンのヘルプテキストを表示します,Display help text for buttons.,显示按键的帮助文本,顯示按鈕說明文字
-SYSMES_CONF_312_NX,ボタンのヘルプテキストを表示しません,Disable help text display for buttons.,不显示按钮的帮助文本,不顯示按鍵說明文字
-SYSMES_CONF_313_NX,ボタンのヘルプテキストを表示します,Display help text for buttons.,显示按钮的帮助文本,顯示按鍵說明文字
+SYSMES_CONF_312_PS4,ボタンのヘルプテキストを表示しません,Désactiver les infobulles sur les boutons.,不显示按键的帮助文本,不顯示按鈕說明文字
+SYSMES_CONF_313_PS4,ボタンのヘルプテキストを表示します,Afficher les infobulles sur les boutons.,显示按键的帮助文本,顯示按鈕說明文字
+SYSMES_CONF_312_NX,ボタンのヘルプテキストを表示しません,Désactiver les infobulles sur les boutons.,不显示按钮的帮助文本,不顯示按鍵說明文字
+SYSMES_CONF_313_NX,ボタンのヘルプテキストを表示します,Afficher les infobulles sur les boutons.,显示按钮的帮助文本,顯示按鍵說明文字
 SYSMES_CONF_314,コントローラーの振動機能をＯＦＦにします,Désactiver les vibrations de la manette.,关闭控制器的振动功能,關閉控制器震動功能
 SYSMES_CONF_315,コントローラーの振動機能をＯＮにします,Activer les vibrations de la manette.,打开控制器的振动功能,開啟控制器震動功能
 SYSMES_CONF_316,フル,Plein écran.,全屏,全螢幕
@@ -140,7 +140,7 @@ SYSMES_CONF_319,バイキュービック,Bicubic.,双三次插值,雙三次插�
 SYSMES_CONF_400,操作説明を表示します,Description des contrôles.,显示操作说明,顯示操作說明
 SYSMES_MENU_000,セーブします,Sauvegardes.,存档,保存
 SYSMES_MENU_001,ロードします,Charger.,读档,載入
-SYSMES_MENU_002,環境設定を行います,Configure system settings.,设置环境,設定遊戲環境
+SYSMES_MENU_002,環境設定を行います,Accéder aux paramètres.,设置环境,設定遊戲環境
 SYSMES_MENU_003,ボイス鑑賞を行います,Écouter les voix.,欣赏语音,鑑賞遊戲語音
 SYSMES_MENU_004,システムデータをセーブします,Sauvegarder les données.,保存系统数据,保存系統資料
 SYSMES_MENU_005,タイトルに戻ります,Retourner au menu titre.,返回标题界面,返回標題畫面
@@ -151,7 +151,7 @@ SYSMES_MODE_000,前のシーン、選択肢までジャンプします,Revenir a
 SYSMES_MODE_001,次のシーン、選択肢までジャンプします,Aller au choix suivant.,跳转至下一个场景、选项,跳至下一個場景的選項
 SYSMES_MODE_002,押している間、早戻しします,Gardez appuyé pour revenir en arrière. Relâchez pour arrêter.,按下时会快退,按住時倒轉
 SYSMES_MODE_003,押している間、早送りします,Gardez appuyé pour avancer. Relâchez pour arrêter.,按下时会快进,按住時快轉
-SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Toggle auto-scroll on/off.,打开、关闭自动模式,開啟或關閉自動模式
+SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/désactiver le déffilement auto.,打开、关闭自动模式,開啟或關閉自動模式
 SYSMES_MODE_005,クイックセーブを行います,Sauvegarde rapide.,进行快速存档,進行快速保存
 SYSMES_MODE_006,クイックロードを行います,Charger une sauvegarde rapide.,进行快速读档,進行快速載入
 SYSMES_MODE_007,ボイスを再生します,Listen to voice recording.,播放语音,播放語音
@@ -172,10 +172,10 @@ SYSMES_SAVE_012,ロードに失敗しました,Impossible de charger.,读档失�
 SYSMES_SAVE_013,セーブが終了しました,Savegarde terminée !,存档完毕,保存完成
 SYSMES_SAVE_014,ロードが終了しました,Chargement terminé !,读档完毕,載入完成
 SYSMES_SAVE_015,セーブデータがありません,Aucune sauvegarde trouvé.,无存档数据,找不到保存資料
-SYSMES_SAVE_016,セーブをキャンセルしますか？,Do you want to cancel saving this data?,是否取消存档？,是否要取消保存？
-SYSMES_SAVE_017,ロードをキャンセルしますか？,Do you want to cancel loading this data?,是否取消读档？,是否要取消載入？
-SYSMES_SAVE_018,セーブを続行しますか？,Do you want to resume saving?,是否继续存档？,是否要繼續保存？
-SYSMES_SAVE_019,ロードを続行しますか？,Do you want to resume loading?,是否继续读档？,是否要繼續載入？
+SYSMES_SAVE_016,セーブをキャンセルしますか？,Annuler la création de cette sauvegarde ?,是否取消存档？,是否要取消保存？
+SYSMES_SAVE_017,ロードをキャンセルしますか？,Annuler le chargement de cette sauvegarde ?,是否取消读档？,是否要取消載入？
+SYSMES_SAVE_018,セーブを続行しますか？,Voulez-vous reprendre la sauvegarde ?,是否继续存档？,是否要繼續保存？
+SYSMES_SAVE_019,ロードを続行しますか？,Voulez-vous reprendre le chargement ?,是否继续读档？,是否要繼續載入？
 SYSMES_SAVE_020,システムデータをセーブしますか？,Do you want to save system data?,是否保存系统数据？,是否要保存系統資料？
 SYSMES_SAVE_021,システムデータをロードしますか？,Do you want to load system data?,是否读取系统数据？,是否要載入系統資料？
 SYSMES_SAVE_022,システムデータを上書きしますか？,Do you want to overwrite system data?,是否覆盖系统数据？,是否要覆蓋系統資料？
@@ -187,9 +187,9 @@ SYSMES_SAVE_027,システムデータのロードに失敗しました。^デー
 SYSMES_SAVE_028,システムデータのセーブに成功しました,System data saved.,已成功保存系统数据,系統資料保存成功
 SYSMES_SAVE_029,システムデータのロードに成功しました,System data loaded.,已成功读取系统数据,系統資料載入成功
 SYSMES_SAVE_030,ファイルが壊れています,Le fichier est corrompu.,文件已损坏,檔案已損壞
-SYSMES_SAVE_031,データが破損しているので、上書きします,"This data is corrupted,^so it will be overwritten.",由于数据已损坏，因此将进行覆盖,資料已損毀，即將覆蓋資料
+SYSMES_SAVE_031,データが破損しているので、上書きします,"Cette donnée est corrompue,^elles va être écrasée.",由于数据已损坏，因此将进行覆盖,資料已損毀，即將覆蓋資料
 SYSMES_SAVE_032,空き容量が不足しています,Mémoire insuffisante.,剩余容量不足,可用空間不足
-SYSMES_SAVE_033,フォーマットを実行しますか？,Do you want to execute formatting?,是否执行格式化？,是否要格式化？
+SYSMES_SAVE_033,フォーマットを実行しますか？,Éxécuter le formattage ?,是否执行格式化？,是否要格式化？
 SYSMES_SAVE_034,データ無し,Aucune donnée,无数据,沒有資料
 SYSMES_SAVE_035,セーブデータを作成します,Créer une sauvegarde.,生成存档数据,製作保存資料
 SYSMES_SAVE_036,セーブデータのバージョンが異なります,Save data is a different version.,存档数据版本不同。,保存資料的版本不符
@@ -336,7 +336,7 @@ SYSMES_ARCHIVE_071_42,暗闇のホール,Le vestibule plongé dans les ténèbre
 SYSMES_ARCHIVE_071_43,1,1,1,1
 SYSMES_ARCHIVE_071_44,2,2,2,2
 SYSMES_ARCHIVE_071_45,真犯人青子？,Aoko coupable ?,真凶青子？,青子是真兇？
-SYSMES_ARCHIVE_071_46,眠りの前に,Before Sleep,在睡前,睡覺前
+SYSMES_ARCHIVE_071_46,眠りの前に,Avant de dormir,在睡前,睡覺前
 SYSMES_ARCHIVE_071_47,モーニングマーダー,Meurtre matinal,早晨的谋杀,清晨謀殺
 SYSMES_ARCHIVE_071_48,推理その１,Raisonnement 1,推理1,推理1
 SYSMES_ARCHIVE_071_49,1,1,1,1
@@ -345,7 +345,7 @@ SYSMES_ARCHIVE_071_51,3,3,3,3
 SYSMES_ARCHIVE_071_52,4,4,4,4
 SYSMES_ARCHIVE_071_53,5,5,5,5
 SYSMES_ARCHIVE_071_54,午前３時、最後の行動,"3 heures du matin, dernière action",凌晨3点，最后的行动,凌晨3點，最後的行動
-SYSMES_ARCHIVE_071_55,就寝,Bedtime,就寝,就寢
+SYSMES_ARCHIVE_071_55,就寝,Le sommeil,就寝,就寢
 SYSMES_ARCHIVE_071_56,おしまいの朝,Le matin de la fin,绝望的早晨,尾聲的早晨
 SYSMES_ARCHIVE_071_57,エスケープマーダー,Meurtre en escapade,逃脱谋杀,逃脫謀殺
 SYSMES_ARCHIVE_071_58,推理その２,Raisonnement 2,推理2,推理2
@@ -354,22 +354,22 @@ SYSMES_ARCHIVE_071_60,推理点不足,Manque d'éléments,推理点不足,推理
 SYSMES_ARCHIVE_071_61,ワレワレハ宇宙人ダ,Nous sommes des aliens,我们是宇宙人,俺是外星人
 SYSMES_ARCHIVE_071_62,推理その４,Raisonnement 4,推理4,推理4
 SYSMES_ARCHIVE_071_63,推理その５,Raisonnement 5,推理5,推理5
-SYSMES_ARCHIVE_071_64,最終告発,Closing Argument,最终揭发,最終告發
+SYSMES_ARCHIVE_071_64,最終告発,La dernière accusation,最终揭发,最終告發
 SYSMES_ARCHIVE_071_65,スイーツハーツ,Sweets Hearts,Sweets Hearts,甜蜜之心
 SYSMES_ARCHIVE_071_66,空は高く,Sky High,天空高远,晴朗的天空
-SYSMES_TEATIME_2,TeaTime 第2章,TeaTime 2,TeaTime 2,TeaTime 2
-SYSMES_TEATIME_3,TeaTime 第3章,TeaTime 3,TeaTime 3,TeaTime 3
-SYSMES_TEATIME_4,TeaTime 第4章,TeaTime 4,TeaTime 4,TeaTime 4
-SYSMES_TEATIME_5A,TeaTime 第5章前半,TeaTime 5-A,TeaTime 5-A,TeaTime 5-A
-SYSMES_TEATIME_5B,TeaTime 第5章後半,TeaTime 5-B,TeaTime 5-B,TeaTime 5-B
-SYSMES_TEATIME_6,TeaTime 第6章,TeaTime 6,TeaTime 6,TeaTime 6
-SYSMES_TEATIME_7,TeaTime 第7章,TeaTime 7,TeaTime 7,TeaTime 7
-SYSMES_TEATIME_8,TeaTime 第8章,TeaTime 8,TeaTime 8,TeaTime 8
-SYSMES_TEATIME_9,TeaTime 第9章,TeaTime 9,TeaTime 9,TeaTime 9
-SYSMES_TEATIME_10,TeaTime 第10章,TeaTime 10,TeaTime 10,TeaTime 10
-SYSMES_TEATIME_11,TeaTime 第11章,TeaTime 11,TeaTime 11,TeaTime 11
-SYSMES_TEATIME_12,TeaTime 第12章,TeaTime 12,TeaTime 12,TeaTime 12
-SYSMES_TEATIME_13,TeaTime 第13章,TeaTime 13,TeaTime 13,TeaTime 13
-SYSMES_PLAYGO_000,ダウンロード/コピーが完了するまで^お待ちください,Please wait until downloading/copying^finishes.,请等待^下载/复制完成。,下載/複製尚未完成^請稍待片刻
+SYSMES_TEATIME_2,TeaTime 第2章,Tea Time 2,TeaTime 2,TeaTime 2
+SYSMES_TEATIME_3,TeaTime 第3章,Tea Time 3,TeaTime 3,TeaTime 3
+SYSMES_TEATIME_4,TeaTime 第4章,Tea Time 4,TeaTime 4,TeaTime 4
+SYSMES_TEATIME_5A,TeaTime 第5章前半,Tea Time 5-A,TeaTime 5-A,TeaTime 5-A
+SYSMES_TEATIME_5B,TeaTime 第5章後半,Tea Time 5-B,TeaTime 5-B,TeaTime 5-B
+SYSMES_TEATIME_6,TeaTime 第6章,Tea Time 6,TeaTime 6,TeaTime 6
+SYSMES_TEATIME_7,TeaTime 第7章,Tea Time 7,TeaTime 7,TeaTime 7
+SYSMES_TEATIME_8,TeaTime 第8章,Tea Time 8,TeaTime 8,TeaTime 8
+SYSMES_TEATIME_9,TeaTime 第9章,Tea Time 9,TeaTime 9,TeaTime 9
+SYSMES_TEATIME_10,TeaTime 第10章,Tea Time 10,TeaTime 10,TeaTime 10
+SYSMES_TEATIME_11,TeaTime 第11章,Tea Time 11,TeaTime 11,TeaTime 11
+SYSMES_TEATIME_12,TeaTime 第12章,Tea Time 12,TeaTime 12,TeaTime 12
+SYSMES_TEATIME_13,TeaTime 第13章,Tea Time 13,TeaTime 13,TeaTime 13
+SYSMES_PLAYGO_000,ダウンロード/コピーが完了するまで^お待ちください,Patientez jusqu'à la fin du téléchargement^ou de la copie.,请等待^下载/复制完成。,下載/複製尚未完成^請稍待片刻
 SYSMES_PLAYGO_001,ダウンロード/コピーが完了していません。^タイトルに戻ります。^進行状態はオートセーブされます,Téléchargement/copie incomplète.^Retour au menu titre.^(Progression sauvegardée.),下载/复制未完成。^即将返回标题界面。^游戏进程将会自动保存。,下載/複製尚未完成。^將返回標題畫面。^目前進度會自動保存
 SYSMES_PLAYGO_002,ダウンロード/コピーが完了しました,Téléchargement/copie terminée.,下载/复制已完成。,已完成下載/複製
