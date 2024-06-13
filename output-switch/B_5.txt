@@ -85,7 +85,7 @@ Tōko ne faisait qu'utiliser une science déjà morte en la ressuscitant à chaq
 [sha:e3293b1cfe808900139db54f6aeaed97fd4d1606]{
 -- Page 4, Offset 15844.
 -- 一方、ルーン魔術を扱う橙子の年齢は二十年程度。
-  Quant à la Magie runique qu'utilisait Tōko, elle n'avait qu'une vingtaine d'années.
+  Quant à la Magie runique qu'utilisait Tōko, elle n'avait qu'une vingtaine^d'années.
 
 }
 [sha:0eceb1d5e4706b005451450f1f812b129f370f3a]{

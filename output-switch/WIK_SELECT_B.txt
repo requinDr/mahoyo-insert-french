@@ -1,7 +1,7 @@
 [sha:2fd2aab63b92cc45ad12bd7ecc1aaf4d4fef006c]{
 -- Page 16, Offset 23263. Mods: @e.
 -- ～選択肢Ｂ～
--Choix B-
+～Choix B～
 
 }
 [sha:fa68e8a3dfb42f01ae7c425e407832bc6496e47c]{
@@ -13,7 +13,7 @@ Je songeai qu'il valait mieux aller dans le salon.
 [sha:e3aa950e83267b821874b7a923a85459c1c3b82b]{
 -- Page 16, Offset 24019. Choice.
 -- その前に客室の様子を見た方がいいと思った。
-Je songeai que je devrais voir ma chambre.
+Je songeai que je devrais d'abord voir ma chambre.
 
 }
 [sha:a2b97a575fd3fb43869d7490134885d26a9992d5]{

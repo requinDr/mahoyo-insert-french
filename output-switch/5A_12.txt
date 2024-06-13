@@ -313,7 +313,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:dc3503fc3898c54bd391c611d45dd18c3d78b23c]{
 -- Page 13, Offset 4287. Mods: @i, @r.
 -- “Iis salvatio Iis salvatio Iis salvatio Iis salvatio”
-“Iis salvatio Iis salvatio Iis salvatio Iis salvatio.”
+“Iis salvatio Iis salvatio Iis salvatio Iis salvatio”
 
 }
 [sha:282e2d0650d13885bf112f7c748dbe9ef171079e]{
@@ -361,7 +361,7 @@ C'était la deuxième, non, maintenant la troisième fois qu'elle s'arrêtait un
 [sha:0bd0014c07c76e013c7d2a9415355ccc800bdcff]{
 -- Page 14, Offset 4295. Mods: @n.
 -- 
-                                
+　　　　　　　　
 
 }
 [sha:97b8d591e05197d35da7ff040d32afbabbf9cecd]{

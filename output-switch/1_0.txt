@@ -247,7 +247,7 @@
 [sha:bd101f184d05008a30dd4b97bda0fa7461a9d580]{
 -- Page 12, Offset 41.
 -- ―――ああ、丸い頭蓋骨が見えている―――
-        ―――aah, on peut voir son crâne rond―――
+        --aah, on peut voir son crâne rond--
 
 }
 [sha:d641a44749e2a4c646b076f7af0f822e4084b88c]{

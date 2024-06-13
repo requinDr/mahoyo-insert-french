@@ -439,13 +439,13 @@ C'est impossible. Il doit y avoir une autre raison―――”
 [sha:7595d9217179b4817631534d58e8e2d50dacd13f]{
 -- Page 20, Offset 4901. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                  "<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.
+                  “<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{
 -- Page 20, Offset 4902. Mods: @i, @r.
 -- @o<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|今日は私の命日であり、誕生日だ。さあ、貴方に会いに行こう。>”
-      <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>"
+      <Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>”
 
 }
 [sha:78b19f6136232d695305a3d8e5cdb9012b3898e8]{
@@ -481,19 +481,19 @@ C'est impossible. Il doit y avoir une autre raison―――”
 [sha:623a4d1edd58529ef47e07024cfdf4d5b31cab0f]{
 -- Page 22, Offset 4908. Mods: @o, @i, @r.
 -- “<Mea anima immortalis. Autem mea futura necata sunt|私の命は不滅ですが、私の未来は殺されました。>.
-              "<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.
+            “<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.
 
 }
 [sha:1740c2d6ee4c6586b4a222285024d4d37711a69d]{
 -- Page 22, Offset 4909. Mods: @o, @i, @r.
 -- <Manes sum. Animam definire ambiguum est|私は亡霊です。生命の定義はあやふやです。>.
-                    <Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.
+                     <Manes sum. Animam definire ambiguum est|Je suis un spectre. La vie est une notion vague.>.
 
 }
 [sha:f8b2188192e6bcdb987c36ab62e11ea2f23efab2]{
 -- Page 22, Offset 4910. Mods: @o, @i, @r.
 -- <Te odi, et te amo. Conveniamus in somnio ipso.|憎らしい、愛おしい貴方。どうか、夢で会いましょう。>”
-                <Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>"
+                 <Te odi, et te amo. Conveniamus in somnio ipso.|Toi, l'être haï, toi, l'être aimé. Je prie pour que nous nous voyons en rêve.>”
 
 }
 [sha:992da275281b830fe07dde54a29f86a039324559]{
@@ -571,30 +571,30 @@ C'est impossible. Il doit y avoir une autre raison―――”
 [sha:3ebff4bf5f98845fab4a9107d8abbb3d2a4c4887]{
 -- Page 27, Offset 4923. Mods: @i, @r.
 -- “<Proximi mihi neglegentes fuerunt. Omnes nos peccante|隣人は私に無関心でした。私たちは誰もが罪深く、>s
-    "<Proximi mihi neglegentes fuerunt. Omnes nos peccantes fuimus|Le voisinage était indifférent avec moi. Nous sommes tous pécheurs,>,
+      “<Proximi mihi neglegentes fuerunt. Omnes nos peccantes fuimus|Le voisinage était indifférent avec moi. Nous sommes tous pécheurs,>,
 
 }
 [sha:f8fa6c9bcef06e71de5c212bf965eb0a8aa00e86]{
 -- Page 27, Offset 4924. Mods: @i, @r.
 -- <fuimus, et omnes nos eidem fuimus, omnes nos peccatore|同類でした。私たちは罪人です。>s
-        <et omnes nos eidem fuimus, omnes nos peccatores sumus|nous étions coupables et semblables.>.
+          <et omnes nos eidem fuimus, omnes nos peccatores sumus|nous étions coupables et semblables.>.
 
 }
 [sha:d9ce43281346e9c8211e8837a9645dce8ca7e896]{
 -- Page 27, Offset 4925. Mods: @i, @r.
 -- <sumus. Venite domum meam. Luto simile somnium|私の家にいらっしゃい。泥のような死を。>,
-                    <Venite domum meam. Luto simile somnium|Bienvenue chez moi. Que ta mort soit horrible,>,
+                     <Venite domum meam. Luto simile somnium|Bienvenue chez moi. Que ta mort soit horrible,>,
 
 }
 [sha:4b55ce5f1ef1f20f9c1c06ffe26a87dc5c8f3c42]{
 -- Page 27, Offset 4926. Mods: @i, @r.
 -- <et pulveri simile cotidianum. Cor privo.|塵となって囁く。この胸を去った心臓を抉り出して、>”
-                      <et pulveri simile cotidianum. Cor privo.|deviens poussière et murmure. Perce le cœur qui a quitté cette poitrine,>"
+                       <et pulveri simile cotidianum. Cor privo.|deviens poussière et murmure. Perce le cœur qui a quitté cette poitrine,>”
 
 }
 [sha:31a577b5ad8d619229a975de967d00fbd47cb457]{
 -- Page 28, Offset 4927. Mods: @i, @r.
 -- “「<オマエニ、死ヲ|Te iudico.>」”
-                                      "<JE T'APPORTE LA MORT.|Te iudico.>"
+                               “<JE T'APPORTE LA MORT.|Te iudico.>”
 
 }

@@ -1111,7 +1111,7 @@ Toutes les couches à plein régime―――!」
 [sha:803bfbed9c6571846ce136876d49efecd83d5402]{
 -- Page 45, Offset 6169.
 -- 空間の支配率はスナークが八割、青子は二割にすぎない。
-  Le taux de contrôle de l'espace était de 80% pour le Snark et seulement de 20% pour Aoko.
+  Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
 
 }
 [sha:438ca86f75ff31bf9bf245b0f338b4f541c715ee]{
@@ -1297,7 +1297,7 @@ Toutes les couches à plein régime―――!」
 [sha:a9c2e6986c03cd58d3bd49207dcde6f90508bf8e]{
 -- Page 53, Offset 6200. Mods: @c, @n.
 -- 
-                                                
+　　　　　　　　　
 
 }
 [sha:4283a3c80e8044d8d869b3ad2595a03f2867235e]{

@@ -265,7 +265,7 @@
 [sha:b9cf2a9263111a6318d29d140ba15300e7be2ae9]{
 -- Page 10, Offset 17218.
 -- 「―――<回路|タービン>、<接続|セット>」
-「―――<Circuit|Turbine>, <Connexion|Set>.」
+「―――<Circuit|Turbine>, .」
 
 }
 [sha:5877c4ed8297be8439b86c802ec85516a4bc2d12]{
@@ -409,7 +409,7 @@
 [sha:118570794b865cbddd19f9d773444e1b5e214d8d]{
 -- Page 17, Offset 17242.
 -- 「<[ansz]|アンサズ>、<[swel]|ソウェル>、<[ingz]|イングズ>ッ！」
-「<[ansz], [swel], [ingz]|Ansuz Sowilo Ingwaz> !」
+「, ,  !」
 
 }
 [sha:926432ad7b341780d05964819c987fc003e40de2]{

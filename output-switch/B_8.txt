@@ -619,7 +619,7 @@ On y arrive en général, mais on échoue à les soulager.」
 [sha:7c2197575537e0842a8771db87216931e3b8d804]{
 -- Page 30, Offset 16443. Mods: @k, @e.
 -- 自分でも、どうしてそう思うのかが分からない。
-Moi-même, je ne comprends pas pourquoi je ressens cela.
+  Moi-même, je ne comprends pas pourquoi je ressens cela.
 
 }
 [sha:a67233d2387b72ba70d6efa15c567d04fe54d79d]{
@@ -697,7 +697,7 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:9f122a558abf7ae8744f6d69ac4a6833409b26f0]{
 -- Page 33, Offset 16456.
 -- 風景に溶けこむ自然さは素晴らしい人徳ですが、自我がないという事は、居場所がないという事ですから。
-  Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit où aller.
+  Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit à soi.
 
 }
 [sha:41783075f1ef5f56185bbc7178483634b95fb31b]{
@@ -709,7 +709,7 @@ Dire que tu n'as pas de couleur qui t'est propre serait une métaphore plus corr
 [sha:e8e35aa0180f5b13868fbfec2e047cc499255d68]{
 -- Page 34, Offset 16458.
 -- 「唯架にまで見えない、というのは予想以上でしたが。
-「Cela dit, le fait que Yuika soit incapable de te voir allait au-delà de toute anticipation.
+「Cela dit, le fait que Yuika soit incapable de te voir allait au-delà de toute prédiction.
 
 }
 [sha:7972820cc2f25842dd0b1b5a5ed4804189447ebe]{

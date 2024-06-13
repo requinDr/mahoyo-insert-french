@@ -169,7 +169,7 @@
 [sha:1e3e8ad20a24364aec92b2387b434585d66ecdf2]{
 -- Page 7, Offset 6353.
 -- あーあ、と。
-  A―――Ah.
+  A---Ah.
 
 }
 [sha:fffcfeda545332541d15b881e1f98b564c5bb604]{

@@ -67,7 +67,7 @@
 [sha:478d789ea27a19ec75956c7d2360df9ce40c17e4]{
 -- Page 2, Offset 5408.
 -- ―――その鐘の名は“<夜の饗宴|ディドルディドル>”
-  ―――Cette cloche se nommait Diddle Diddle, “<le Banquet de la nuit|Diddle Diddle>”.
+  ―――Cette cloche se nommait “<le Banquet de la nuit|Diddle Diddle>”.
 
 }
 [sha:e4942ba5f57b61c05f84702a2c9c379417b1c5d7]{

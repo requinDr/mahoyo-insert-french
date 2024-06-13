@@ -331,7 +331,7 @@ vivant.
 [sha:d83633f0959fe44182584b4adf4b807f1792dd53]{
 -- Page 11, Offset 18441. Mods: @c, @r.
 -- 
-                              
+　　　　　　　　　　　　　　　
 
 }
 [sha:8144d17bf24077e1d622ea4fee20ade5792d7a91]{
@@ -355,7 +355,7 @@ Il connaissait bien un autre être vivant similaire.
 [sha:d83633f0959fe44182584b4adf4b807f1792dd53]{
 -- Page 11, Offset 18445. Mods: @c, @r.
 -- 
-                              
+　　　　　　　　　　　　　　　
 
 }
 [sha:fb05dbf74e40df0689ab9d28a2ce3c9197c49911]{

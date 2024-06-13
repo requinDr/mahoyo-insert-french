@@ -217,7 +217,7 @@ Vraiment ?」
 [sha:0973f6c705f8a80cc377caf03da23508ae7cec29]{
 -- Page 8, Offset 15649. Glued. Mods: @x.
 -- 批難の目というより、隠し事をされて怒っているような目だ。
-Ce n'était pas véritablement un regard de reproche, elle semblait plutôt être en colère qu'on lui ait fait des cachotteries.
+ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt être en colère qu'on lui ait fait des cachotteries.
 
 }
 [sha:6b26b106afdd4795dc86e6b29fd043cab8e7e24c]{
@@ -271,7 +271,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:dcd32c312d7282f5e6be635379e801828fd53a3c]{
 -- Page 11, Offset 15658.
 -- 「律架さんの事情は知りませんが、彼は青子の連れです。
-「Je ne sais pas ce qu'il représente pour vous, mais c'est le compagnon d'Aoko.
+「Je ne sais pas ce qu'il représente pour vous, mais c'est le compagnon^d'Aoko.
 
 }
 [sha:164cc0b7bd11e5f22fb7afd6d216581b3e28f92b]{
@@ -409,7 +409,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:06b10140d145cfa0bc640968c70ca9c1345c2405]{
 -- Page 17, Offset 15681. Mods: @n.
 -- 少年の未熟な勘違いにため息をつきながら、
-  Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience,
+  Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience
 
 }
 [sha:d32be700bf041e7f23341ef51e5fe7619ae8a7a4]{
@@ -583,13 +583,13 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:955499bec431762e7cd9103923bac107d60eab26]{
 -- Page 27, Offset 15710.
 -- ベッドには　　が横臥している。
-       était allongée sur le lit.
+         était allongée sur le lit.
 
 }
 [sha:1d86df92a66a772f95ac568ecb4b6a9d99fc3757]{
 -- Page 27, Offset 15711.
 -- を看病しているのは、さっき礼拝堂にいた律架という女性だった。
-       était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
+         était soignée par la femme appelée Ritsuka, présente un instant auparavant dans la chapelle.
 
 }
 [sha:36ac20d476713ff537b615ea0894ad40d7a65fcf]{
@@ -619,7 +619,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:d379ec422378e137eb98128ad0daadc414c830c6]{
 -- Page 29, Offset 15716.
 -- 唯架は横臥している　　に触れている。
-  Yuika touchait      allongée.
+  Yuika touchait        allongée.
 
 }
 [sha:d5815c0925e76d2a8a7e767bbfa2e25ae2bd3562]{
@@ -721,7 +721,7 @@ Ce n'était pas véritablement un regard de reproche, elle semblait plutôt êtr
 [sha:1ee655435efb82af77c395ec3055903af498a4a2]{
 -- Page 32, Offset 15733.
 -- いつもの無表情な立ち姿が、今は<卒塔婆|そとば>のように見える。
-  Son visage habituellement inexpressif semblait maintenant venir d'outre-tombe.
+  Son visage habituellement inexpressif semblait maintenant venir^d'outre-tombe.
 
 }
 [sha:dca8d998477e0c5466fdb80be5aac1ad5037bf68]{

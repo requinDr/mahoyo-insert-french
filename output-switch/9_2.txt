@@ -199,7 +199,7 @@
 [sha:8d0f3923cba4e194b8774aaf860fd9ec3841869d]{
 -- Page 9, Offset 13166.
 -- ご機嫌斜めなのはいつものコトだが、今日は六割増しのようだ。
-  Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60% plus énervée que d'habitude.
+  Son côté taciturne n'avait rien de nouveau, mais aujourd'hui, elle était 60 % plus énervée que d'habitude.
 
 }
 [sha:977995d4a0b5af1da3d2c905a81e3133a425988e]{
@@ -217,7 +217,7 @@
 [sha:0130f4c948e16e31b1beebe79e688dbc9e5b3695]{
 -- Page 10, Offset 13169. Glued. Mods: @x.
 -- 青子が六割増しなら、彼の<暢気|のんき>さは二倍に増強というところ。
-Si la contrariété d'Aoko avait augmenté de 60%, alors la nonchalance du jeune homme s'était multipliée par deux.
+Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeune homme s'était multipliée par deux.
 
 }
 [sha:f599786bbdfc7bcd1c69903b246d9c5ac0686360]{

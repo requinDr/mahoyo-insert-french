@@ -301,13 +301,13 @@
 [sha:dc8911b063f6fc54b23fa108cb91a95871bd780f]{
 -- Page 14, Offset 9750. Mods: @n.
 -- 有珠のカップはそのまま床に残し、
-  laissa la tasse d'Alice sur le sol,
+laissa la tasse d'Alice sur le sol,
 
 }
 [sha:ecaedcfa5ace258ac70e5e137e68d61efdfd3acb]{
 -- Page 14, Offset 9751.
 -- 自分の使ったカップをトレイに載せて立ち上がって、
-  posa celle qu'il avait utilisée sur le plateau et se leva,
+posa celle qu'il avait utilisée sur le plateau et se leva,
 
 }
 [sha:49dfc7a70b88050bcbabe1e75b48a979971e57a4]{
@@ -1105,7 +1105,7 @@ Pourquoi n'avais-tu pas l'intention de me réveiller et pourquoi ne t'attendais-
 [sha:b5ca541a5ad0a1517bd8a82e790e917a83fb2237]{
 -- Page 49, Offset 9884.
 -- “そういう事なら仕方がない―――”
-“Si c'est comme ça, je n'y peux rien―――”
+  “Si c'est comme ça, je n'y peux rien―――”
 
 }
 [sha:c64f41e86dc68d053a36dee3cd82dd3165708464]{

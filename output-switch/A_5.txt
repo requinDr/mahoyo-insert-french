@@ -445,7 +445,7 @@ C'est un Originel de pure souche apparu dans leur clan au fin fond de l'Europe d
 [sha:65f4da5f734771197c945e1444707f6e2c737c1c]{
 -- Page 18, Offset 15117. Glued. Mods: @x.
 -- む？」
-Hmm ?」
+ Hmm ?」
 
 }
 [sha:672ab1600d9710d301d3fe56c4e707a6ad3dea86]{

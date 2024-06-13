@@ -241,7 +241,7 @@ C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 [sha:b8c4e1a505d000c6daf236d438212973ac1e1ef7]{
 -- Page 13, Offset 13051. Glued. Mods: @x.
 -- このご時世、新しくできた牛丼屋ですら贅沢に原価あげてるわよ、ばか！」
-De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
+  De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
 
 }
 [sha:828eb1b471efb7b484986978dac6f3a3c98de824]{
@@ -265,7 +265,7 @@ De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus �
 [sha:1df381e43430f85347ef777bbd4d0157ecdee83f]{
 -- Page 14, Offset 13055.
 -- 生協の果汁百パーセントジュースだって、ちょっと本気で馬鹿にできるもんじゃないと反省したよ。
-  Et il ne faut pas oublier non plus les jus de fruits 100% pur jus des associations coopératives. J'ai bien retenu la leçon.
+  Et il ne faut pas oublier non plus les jus de fruits 100 % pur jus des associations coopératives. J'ai bien retenu la leçon.
 
 }
 [sha:fc4004cac6135dc529c0446b7941fa8ceb809e64]{

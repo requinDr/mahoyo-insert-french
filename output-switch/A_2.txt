@@ -109,7 +109,7 @@
 [sha:4164b01bdb397ed261d35cf79fa9ee58ddc57c18]{
 -- Page 4, Offset 14686.
 -- 力量的に劣る青子は、有珠の<使い魔|プロイ>を一体借り受け、最高の<魔力提供|バックアップ>を誇る陶川の支点に。
-  De force inférieure, Aoko avait emprunté l'un des Ploy d'Alice et s'était rendue au Pivot de Tôgawa qui se targuait de fournir le meilleur apport en prana.
+  De force inférieure, Aoko avait emprunté l'un des Ploy d'Alice et s'était rendue au Pivot de Tōgawa qui se targuait de fournir le meilleur apport en prana.
 
 }
 [sha:7262aaefaee8f410ca333d7f27f273eca98f1af0]{
@@ -151,7 +151,7 @@
 [sha:38785db0ccb899dacdb8b6afb1648e2695bf4e53]{
 -- Page 7, Offset 14693.
 -- 青子が陶川の支点に向かう時、草十郎はロビーまで見送った。
-  Lorsqu'Aoko s'était rendue au pivot de Tôgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
+  Lorsqu'Aoko s'était rendue au pivot de Tōgawa, Sōjūrō l'avait accompagnée jusqu'au vestibule.
 
 }
 [sha:f32bee439cfcf1b7a4dffba4e4e52abf11dfcddd]{

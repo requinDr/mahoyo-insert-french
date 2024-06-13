@@ -997,7 +997,7 @@ La tienne était seulement destinée à la séquestration et à être jetée apr
 [sha:03d595c7e445cfd6413a066185eff6e1b8f366a8]{
 -- Page 48, Offset 7970. Glued. Mods: @x.
 -- それと、ぶっそうな蒼崎の声、聞こえてたぞ」
-Et aussi, j'ai entendu ta voix menaçante, Aozaki.」
+Et aussi, j'ai entendu tes propos menaçants, Aozaki.」
 
 }
 [sha:a2bb47ec5d687dfc6afba8f8b73d740e72a2f2f5]{

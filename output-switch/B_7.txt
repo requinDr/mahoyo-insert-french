@@ -1873,7 +1873,7 @@ Je me demande bien ce qui t'y oblige, le devoir ou la contrainte ?」
 [sha:1c399c6320c68f3eb336c7f5bbe0205e5533ad15]{
 -- Page 93, Offset 16325.
 -- 生きてく上で一番の観客っていうのはね、他ならぬ自分自身なのよ。だから人生っていうのは油断ならないんじゃない」
-  Dans la vie, ton principal spectateur, ce n'est nul autre que toi-même. Voilà pourquoi on ne peut baisser sa garde ici-bas.」
+  Dans la vie, ton principal spectateur, ce n'est nul autre que toi-même. Voilà pourquoi on ne peut jamais baisser sa garde.」
 
 }
 [sha:f68c1850fb938b5af7e91460446f4b88c0c1636a]{

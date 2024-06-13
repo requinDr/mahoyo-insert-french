@@ -271,7 +271,7 @@ Une fois qu'elle en aura fini avec nous, elle va se charger de lui comme si elle
 [sha:b1b0a2e9d7a56bd3add930829c5cb1d172e3e08a]{
 -- Page 12, Offset 15930. Glued. Mods: @x.
 -- 彼、あなたを見て<嘔吐|おうと>したの」
-quand il t'a vue, il a vomi.」
+ quand il t'a vue, il a vomi.」
 
 }
 [sha:1f2d021e4249320c657eeca8653966c1b3065cc2]{
@@ -421,7 +421,7 @@ quand il t'a vue, il a vomi.」
 [sha:ccb562db533a7b518a58b9de1167ae40cd5eec72]{
 -- Page 20, Offset 15955.
 -- 全容を把握してるのはうちらだけの特権だったけど、橙子は昔から知ってる以上、解析の手間もいらない、と。
-  Nous étions les seules à avoir le privilège de connaître tous ses aspects, mais puisque Tōko le connaît depuis longtemps, elle n'a pas besoin de l'analyser...
+  Nous étions les seules à avoir le privilège de connaître tous ses aspects, mais puisque Tōko le connaît depuis longtemps, elle n'a pas besoin de^l'analyser...
 
 }
 [sha:01fde4c21eb49b5f01fadc50b07c44897a95199a]{
@@ -751,7 +751,7 @@ mais apparemment, Yuika ne voyait pas Shizuki, Aoko.」
 [sha:7f8136f5a1dceb376d6b413a2434d5d22cfa1941]{
 -- Page 35, Offset 16010.
 -- 基本、彼女はあらゆる人間を“脅威”として知覚する。
-  Fondamentalement, elle percevait chaque humain comme une “menace”.
+  Fondamentalement, elle percevait chaque humain comme une^“menace”.
 
 }
 [sha:125f5d88da05457c9f5dd371fabb0d6f604b442f]{

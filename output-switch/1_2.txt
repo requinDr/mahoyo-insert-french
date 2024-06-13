@@ -643,7 +643,7 @@ Mais qu'est-ce qu'il entendait au juste par “spécial” ?
 [sha:353507d6943334f85c45bfad00f232cbe7e8a666]{
 -- Page 34, Offset 252. Glued.
 -- 、むう」
- hmm.」
+, hmm.」
 
 }
 [sha:e1a031483cc2f63147e5193aca4c0eeee6ecd593]{
@@ -1789,7 +1789,7 @@ Et puis, Tobimaru convient mieux pour ce genre de rencontre éphémère.』
 [sha:1849f6c099a4d989603c0abde848b6bcc5ee7646]{
 -- Page 92, Offset 443.
 -- 「あー、うん。いけてる、二人とも気は合うようだね！
-「Ah―――, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
+「Ah---, oui. Vous devriez vous en sortir, on dirait que vous allez bien vous entendre !
 
 }
 [sha:47058a58b08abc7862b7deb7324eb56270cc760a]{
