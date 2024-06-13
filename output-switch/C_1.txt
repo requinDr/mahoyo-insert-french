@@ -823,7 +823,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:7e2db2e040d69d24391b0914ce50c066d6ff4bc0]{
 -- Page 40, Offset 16924.
 -- 「<[swel]|ソウ>―――」
-「―――」
+「<[swel]|Sol>―――」
 
 }
 [sha:bdadc52398e3bfb801a2a29a806f42a40cc5ca5b]{
@@ -877,7 +877,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:6f6148b32695ae7e42984a11dcf58bebe26c10e0]{
 -- Page 41, Offset 16933.
 -- 「<[swel]|ソウェル>―――！」
-「―――!」
+「<[swel]|Sol>―――!」
 
 }
 [sha:8d267b89a35182ad4fc9946f73f055534532dbb8]{
@@ -991,7 +991,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:21616afe76aa42c90f53d2f31e8a6fd7ee3f9653]{
 -- Page 46, Offset 16952.
 -- それは魔術刻印を動員した、<四小節の大魔術|フォース・トゥ・フォース>。
-  C'était un <sort de haut niveau à quatre versets|Force To Force> qui nécessitait l'activation du Sceau Magique.
+  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
 
 }
 [sha:8e6087de78676d109136714a9f2f9e841d1bf697]{
@@ -1009,7 +1009,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:4b3b00d2d32a9c086a805dba3103da4d37fbc489]{
 -- Page 47, Offset 16955.
 -- 「―――<[eywz]|エイワズ>！」
-「―――!」
+「―――<[eywz]|Ehwaz> !」
 
 }
 [sha:c5d5b1ff8cb6742e99a5b096686864c6016d6030]{
@@ -1201,7 +1201,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
 [sha:f3780929300cfea219d93c2acc18f7d76d6a1294]{
 -- Page 55, Offset 16987.
 -- 「<魔弾|ツアー><形式|プラン>、<収束|スター><投射|マイン>―――回路、放て………！！！！」
-「<Forme|Tour> <Balle de prana|Plan>, <Tir|Star> <Convergeant|Main>―――Circuit, feu.........!!!!」
+「<Forme Balle de prana|Tour Plan>, <Tir Convergeant|Starmine>―――Circuit, feu.........!!!!」
 
 }
 [sha:2723832dbf03a1b3581ac13fe159a5d9a457a525]{

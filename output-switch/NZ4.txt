@@ -67,19 +67,19 @@
 [sha:31854702c991bbf6616e14444ddac128d89c4c41]{
 -- Page 4, Offset 20143.
 -- いや、ないッスけど。
-  Non, pas du tout. Ah. J'ai capté !
+  Non, pas du tout.
 
 }
 [sha:417873448ed1cc03809cc3f8dbf0a1ac9ce28323]{
 -- Page 4, Offset 20144.
 -- あ。ピンときたッスよ。さてはアリスさん、
-  Mam'zelle Alice, vous vouliez travailler
+  Ah. J'ai capté ! Mam'zelle Alice,
 
 }
 [sha:6348b3992c87a94d86d7302da748dba96157fb8b]{
 -- Page 4, Offset 20145.
 -- シャバ僧と一緒にアルバイトとかスイーツなコ、
-  avec l'idiot, que c'est mi...
+  vous vouliez travailler avec l'idiot, que c'est mi...
 
 }
 [sha:2863d1082203d9ec253ab291ce685e2a0d0dd19c]{
@@ -91,13 +91,13 @@
 [sha:4cb164e20420a3002b93972d4f29c4a78f223861]{
 -- Page 5, Offset 20147.
 -- 今回は比較的安全なプロイキッシャーの紹介よ。
-  Aujourd'hui, nous verrons des Ploy Kickshaw
+  Aujourd'hui, nous verrons des Ploy Kickshaw plutôt inoffensifs.
 
 }
 [sha:5915b1b3bbc08bf936813b5fbd8d66eef37fae94]{
 -- Page 5, Offset 20148.
 -- さあロビン。
-  plutôt inoffensifs. Allez, Robin.
+  Allez, Robin.
 
 }
 [sha:10e485746aec69ef09baf38afbb87e8cfb567d5b]{
@@ -217,19 +217,19 @@
 [sha:93b26c90cf8ef3f5a273a4110978f2341bfe8260]{
 -- Page 13, Offset 20168.
 -- ……むう。
-    ... Hmm. J'comprends pas pourquoi on massacre
+    ... Hmm.
 
 }
 [sha:4666757e509b7c0c550f84b54f8533f186e74f22]{
 -- Page 13, Offset 20169.
 -- なぜ意味もなく鳥を虐殺するのか分かんないッス。
-    les oiseaux sans raison. Qu'est-ce qu'ils
+    J'comprends pas pourquoi on massacre les oiseaux sans raison.
 
 }
 [sha:8cfe42a5d2ce32b87499269bc66c14bbf2a7f89e]{
 -- Page 13, Offset 20170.
 -- 西欧圏の人間どもは鳥をなんだと思っていたのか。
-    avaient contre les oiseaux, ces nordiques ?
+    Qu'est-ce qu'ils avaient contre les oiseaux, ces nordiques ?
 
 }
 [sha:0535f3abe028fc21256b285fe4aa8e4b6796633f]{
@@ -265,19 +265,19 @@
 [sha:7a60944068a92df0150a82536ecb414317d07b58]{
 -- Page 16, Offset 20176.
 -- いや、端的に久遠寺邸の日々を表しているッス。
-   Non, ça décrit l'quotidien d'la résidence Kuonji. Le roi
+   Non, ça décrit l'quotidien d'la résidence Kuonji.
 
 }
 [sha:ad8af337d22d7481393c2084ef18f38f0fc6f024]{
 -- Page 16, Offset 20177.
 -- 金勘定するのが王じゃなくて女王な青セーターで、
-   qui fait les comptes, c'est en fait la reine au pull bleu. Et
+   Le roi qui fait les comptes, c'est en fait la reine au pull bleu.
 
 }
 [sha:03dcf7a8de3008fc9322c7ee4e8d826528b4e8cf]{
 -- Page 16, Offset 20178.
 -- こっそり贅沢をするのが王妃じゃなくてアリ
-   celle qui dépense en secret, c'est pas la reine mais Mam'z...
+   Et celle qui dépense en secret, c'est pas la reine mais Mam'z...
 
 }
 [sha:bbc1692a17afc8f6d60c1896d2e5c5111707f489]{
@@ -295,13 +295,13 @@
 [sha:80101911b3481cab542d10215174436b270b4834]{
 -- Page 18, Offset 20181. Mods: @k, @e.
 -- 生きてる？　とか　愛してる？
-  Vous n'êtes pas soulagée que je
+  Vous n'êtes pas soulagée que je sois vivant ?
 
 }
 [sha:aab21b8d4dabd4223c7dae4b773904f451d7b9d7]{
 -- Page 18, Offset 20182. Mods: @k, @e.
 -- とか、そういうセリフはないッスか。
-  sois vivant ? Pas de mots d'amour ?
+  Pas de mots d'amour ?
 
 }
 [sha:a5b23e2a6e8dbe5cf1027f6413d386bac13903f1]{
@@ -439,13 +439,13 @@ Tu apparais bien assez comme ça dans l'histoire principale.
 [sha:e5c8f84d8a292f6cf9f8f37a03715d549eabdbad]{
 -- Page 29, Offset 20205.
 -- 大ヒットしたマザーグースで、その後、
-      Avec l'immense succès de Mother Goose, le prologue
+      Avec l'immense succès de Mother Goose,
 
 }
 [sha:3b90061b3430829453a59381b5ea76860db3ad68]{
 -- Page 29, Offset 20206.
 -- 前日譚である「コックロビンとジェニーレンの幸せな求婚」が
-      “L'heureuse cour de Cock Robin et Jenny Wren”
+      le prologue “L'heureuse cour de Cock Robin et Jenny Wren”
 
 }
 [sha:33ab30129e7171a265cafa156c332b7a49451989]{
@@ -499,13 +499,13 @@ Tu apparais bien assez comme ça dans l'histoire principale.
 [sha:39e947a8d84bed6920bd001b5b7397ad4551b478]{
 -- Page 33, Offset 20215. Mods: @k, @e.
 -- つまり―――まほよの主役はジブ
-      En d'autres termes―――le personnage
+      En d'autres termes―――le personnage principal de Mahoyo, c'est mo...
 
 }
 [sha:fa646a9fdb275dc47a8c8e6583915adccb6c0281]{
 -- Page 33, Offset 20216. Glued. Mods: @x, @e.
 -- きゃ。
-principal de Mahoyo, c'est mo...
+Kya !
 
 }
 [sha:49eae5f30ad0d231ec11a9e4b2a4c3ab85c6e128]{
@@ -643,13 +643,13 @@ principal de Mahoyo, c'est mo...
 [sha:02a569206d3dd486b2db27d38b849e7747b511dc]{
 -- Page 46, Offset 20239.
 -- ……分かって？
-  ...... Compris ? C'est une règle qui permet de créer
+  ...... Compris ?
 
 }
 [sha:7961ccf209bcd9a68746933c8ed0b670e4394824]{
 -- Page 46, Offset 20240.
 -- ようは、異なる二つの意味を新しい「言葉」として
-  un nouveau mot à partir de plusieurs sens différents.
+  C'est une règle qui permet de créer un nouveau mot à partir de plusieurs sens différents.
 
 }
 [sha:424ba55a3ae632c046baf764a65ba400da12f1b1]{
@@ -673,13 +673,13 @@ principal de Mahoyo, c'est mo...
 [sha:ee658122cc34e564f4a86e6c69ecf7637416d865]{
 -- Page 48, Offset 20244.
 -- ふーん。ただの思いつきなんスけど、
-      Hmm. J'viens d'y penser, mais associer
+      Hmm. J'viens d'y penser,
 
 }
 [sha:5806450ff2c52d75dcbdac666f4e916683c7c42d]{
 -- Page 48, Offset 20245.
 -- 「初回限定版」と「通常版」をくっつけると
-      “première édition limitée” et “édition normale”,
+      mais associer “première édition limitée” et “édition normale”,
 
 }
 [sha:61f9787273634ab1a570381615b7264bf9c35c0f]{
@@ -769,19 +769,19 @@ resteraient toujours disponibles sur le marché.
 [sha:db2c1fe73b646c501cdd16610c276e95f5aea914]{
 -- Page 56, Offset 20260.
 -- ……ただの失敗品よ。
-    ...... Ce n'est qu'un produit raté. C'est mon
+    ...... Ce n'est qu'un produit raté.
 
 }
 [sha:b324b6655dacd0b4db0991ed253e80830939d4ce]{
 -- Page 56, Offset 20261.
 -- わたしの最初のプロイ。
-    premier Ploy. Il n'a aucune utilité. Je m'en
+    C'est mon premier Ploy.
 
 }
 [sha:80bbcca3c171e15fe0f54d0be8a9071b0287a8a1]{
 -- Page 56, Offset 20262.
 -- 使い道はないのだけど、記念として飾っているの。
-    sers de décoration par sentimentalisme.
+    Il n'a aucune utilité. Je m'en sers de décoration par sentimentalisme.
 
 }
 [sha:1161a7835d5e6fddbe477d16efa08aa2e1cbe4c7]{
@@ -799,13 +799,13 @@ resteraient toujours disponibles sur le marché.
 [sha:9fbca0e4a6fe2ed44c950f1a104a9f8d715bf833]{
 -- Page 58, Offset 20265.
 -- ブローチのカタチをした砂糖細工なんスねー。
-      C'est un ouvrage en sucre en forme
+      C'est un ouvrage en sucre en forme de broche.
 
 }
 [sha:839f77038a82979553f9ed7507d8ce0341ac0301]{
 -- Page 58, Offset 20266.
 -- うは、あめぇー！
-      de broche. Ouah, sucré...!
+      Ouah, sucré...!
 
 }
 [sha:8832826f59dcc9cf3feae478ccf97f12854f7bd7]{

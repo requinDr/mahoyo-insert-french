@@ -271,7 +271,7 @@ Hein ?」
 [sha:1039cc960b575b512c5e8b1adfae334fd6b15239]{
 -- Page 12, Offset 22127. Glued. Mods: @x.
 -- ってか少しは落ち着け芳助。アンタ、ガキの頃から成長ないんだから」
- Bref, calme-toi un peu, Hōsuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
+Bref, calme-toi un peu, Hōsuke. Tu n'as vraiment pas changé depuis que tu es gamin.」
 
 }
 [sha:e483e8b1a89d840ab6a069a97271d012c1ff3de8]{
@@ -295,7 +295,7 @@ Hein ?」
 [sha:9efff1821a0fbee39a117e75cd9b222ab09abba9]{
 -- Page 14, Offset 22131. Glued. Mods: @x.
 -- こいつ、叩いても叩いても元通りになる形状記憶合金だし」
- En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours comme avant, comme un métal à mémoire de forme.」
+En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours comme avant, comme un métal à mémoire de forme.」
 
 }
 [sha:ffe5331adf3a3182ac5d8a8704efa7267e761e2c]{
@@ -313,7 +313,7 @@ Hein ?」
 [sha:138ea6b5c025b7141fe8b6d857739ac494e34f60]{
 -- Page 15, Offset 22134. Glued. Mods: @x.
 -- おおお、俺が抱き起こしちゃっていいかな！？」
-  Oooh, je peux aller l'enlacer pour la réveiller ?!」
+Oooh, je peux aller l'enlacer pour la réveiller ?!」
 
 }
 [sha:ee806bc0c35b9b9727af8cfac2ab1fc4b719dbd4]{

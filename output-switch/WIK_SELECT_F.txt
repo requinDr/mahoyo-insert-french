@@ -1,7 +1,7 @@
 [sha:60cf9ab3fe44e2994f2e2a8803c56c0a8cb6a6a7]{
 -- Page 21, Offset 21550. Mods: @e.
 -- ～選択肢Ｆ～
-～Choix F～
+-Choix F-
 
 }
 [sha:46550b2cba572765e1a18449b776d6c74e8c39a8]{

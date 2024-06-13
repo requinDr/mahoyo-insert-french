@@ -265,7 +265,7 @@ C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'h
 [sha:56005b6babd20baeff25578aaa2dab288db88a7d]{
 -- Page 14, Offset 10478. Glued. Mods: @x.
 -- とにかく、そこの池らしきモノだってカチカチに凍ってるぐらいなんだぜ？
-  Bref, ce truc qui ressemble à un étang est complètement gelé !
+Bref, ce truc qui ressemble à un étang est complètement gelé !
 
 }
 [sha:47ea18439362011dd5ed1f6f598b1191c7bb89c3]{
@@ -547,7 +547,7 @@ C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'h
 [sha:f3a6fe96b662c6a2d78304c11b138cea22d03da1]{
 -- Page 29, Offset 10525. Glued. Mods: @x.
 -- クソ、待ってろ静希！　いま赤羽たちからイモ奪ってくる！」
-  Merde, attends un peu, Shizuki ! Je vais tout d'suite aller chiper des patates au groupe d'Akabane !」
+Merde, attends un peu, Shizuki ! Je vais tout d'suite aller chiper des patates au groupe d'Akabane !」
 
 }
 [sha:8f9c893f5402f8262122c869eca501e21c2d9427]{
@@ -811,7 +811,7 @@ C'est quoi ça ? Des cours de rattrapage d'éducation physique ? Un marathon d'h
 [sha:4df24112acbb8e24b2071a579d2448e949c423e9]{
 -- Page 42, Offset 10569. Glued. Mods: @x.
 -- けどよ、蒼崎と一緒に住んでるってどういうことだ？　いくらなんでも<一足|いっそく>飛びすぎだろ」
- Mais qu'est-ce que tu entends par vivre avec Aozaki ? Quoi que t'en dises, c'est un peu trop rapide !」
+Mais qu'est-ce que tu entends par vivre avec Aozaki ? Quoi que t'en dises, c'est un peu trop rapide !」
 
 }
 [sha:ef50cbcf50616ebdd2e7ccbadd4c9cf768e05048]{
@@ -1471,7 +1471,7 @@ Voilà le topo, alors occupons-nous de cet enfant maintenant qu'on est deux...�
 [sha:68b176417ed941035cd73e03aca69b50b69e2ae9]{
 -- Page 74, Offset 10679.
 -- 「無いよ。戻って掃除の続きをするぞ、鳶丸」
-「Mais non. Rebroussons chemin pour finir le balayage, Tobimaru.」
+「Mais non. Je retourne continuer le balayage, Tobimaru.」
 
 }
 [sha:e2d19efd52d2d58c5d7ba234678b49a63af2ffef]{

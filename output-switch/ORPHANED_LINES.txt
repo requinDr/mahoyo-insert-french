@@ -427,7 +427,7 @@ Et toi alors, que fais-tu ? J'ai cru comprendre que tu devais rentrer avec Aoko,
 [sha:e9ef69f1869e96d3d4750922325aa1727789972b]{
 -- Page -1, Offset 9032.
 -- 「蒼崎ならまだ学校。こっちはバイトが早めに終わったんで、ここで暇を潰している。
-「Elle est toujours à l'école. Quant à moi, j'ai terminé le boulot plus tôt que prévu, du coup, je tue le temps ici.
+「Elle est toujours à l'école. Quant à moi, j'ai terminé le boulot plus tôt que prévu, du coup, je tue le temps ici. [l]
 
 }
 [sha:697818dc6f4163d4c210f81762d4cf539bda3014]{
@@ -769,13 +769,13 @@ Je ne l'ai jamais vue en pleine action, cela dit.」
 [sha:fc5a73a72977c747e1f940e10307b1789d9af608]{
 -- Page -1, Offset 9089.
 -- 「どうだろう。人間と動物は、ちょっと違うんじゃないかな」
-  「Je ne sais pas trop. Je pense que les animaux et les humains sont un peu différents.」
+「Je ne sais pas trop. Je pense que les animaux et les humains sont un peu différents.」
 
 }
 [sha:7921523b523c5c0f1fa3ab1258b68846701a039e]{
 -- Page -1, Offset 9090.
 -- 再度、自信なげな声が押し止めた。
-une voix peu assurée interrompit Alice de nouveau.
+  une voix peu assurée interrompit Alice de nouveau.
 
 }
 [sha:5f296abd84c36f18e4e59e0a4fb66e24a8ef1274]{
@@ -811,7 +811,7 @@ une voix peu assurée interrompit Alice de nouveau.
 [sha:88e701e6697011ce9de252240a4bc66ddb1a3123]{
 -- Page -1, Offset 9096.
 -- 無駄がないという在り方は、何も失えない在り方なんだと思う。動物はみんな、少しでも自分の<価値|からだ>が欠けたら、もう生きていけない事を知っている」
-Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les bêtes savent toutes que si jamais il leur manque une petite partie de leur corps, elles ne pourront plus survivre.」
+  Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les bêtes savent toutes que si jamais il leur manque une petite partie de leur corps, elles ne pourront plus survivre.」
 
 }
 [sha:c0b6c6fcc2159a78f30a201743ba5a2fbafe2b9f]{
@@ -979,13 +979,13 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:ce2f1cc7404710e6c2c59b8aac1c3fd1e552daa9]{
 -- Page -1, Offset 9124.
 -- ……でも反省したわ。これからは森の手入れも日課にいれる。
-...... Mais je le regrette. Son entretien fera dorénavant partie des tâches quotidiennes.
+  ...... Mais je le regrette. Son entretien fera dorénavant partie des tâches quotidiennes.
 
 }
 [sha:e212d8457f1a6ea6fe2fc4a0ce7be86621a613df]{
 -- Page -1, Offset 9125.
 -- けど、貴方だっておかしいでしょう？
-  Cela dit, tu es étrange toi aussi, non ?
+  　Cela dit, tu es étrange toi aussi, non ?
 
 }
 [sha:98096ac8852e8e62ec8f154a2b877b0ea4d72224]{
@@ -1003,7 +1003,7 @@ Je pense que n'avoir rien d'inutile signifie qu'ils ne doivent rien perdre. Les 
 [sha:043fc5427f4eb031fdb275062a65b1292d66d161]{
 -- Page -1, Offset 9128.
 -- 森はたいてい好きだし、この丘、ちょっと故郷の山に似ているし。
-J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la montagne de mon foyer.
+  J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la montagne de mon foyer.
 
 }
 [sha:467715afa7d73d4b16c6c786f81101c6f46bdd52]{
@@ -1261,19 +1261,19 @@ J'aime presque toutes les forêts, et puis cette colline me rappelle un peu la m
 [sha:fb0b9ffbd9a752b24c5030ab4af7b708020b28b5]{
 -- Page -1, Offset 11484.
 -- 「ごめん、木乃美のおかげで僕にも彼女ができました！　彼女の口癖は“木乃美クンよりマシよ
-「Désolé, gràce à toi, je me suis trouvé une copine ! Sa phrase fétiche, c'est "je te préfère à Kinomi"
+「Désolé, mais grâce à toi, je me suis même trouvé une petite amie ! Elle a pour phrase fétiche : 
 
 }
 [sha:90e1df71642d724d3a3e7f47a3fda925158b67e8]{
 -- Page -1, Offset 11485.
 -- ”です！」
-Tu sais tout !」
+“C'est toujours mieux que Kinomi” !」
 
 }
 [sha:44754cc32140e1ce47f288a07ac0a5a3ff71646b]{
 -- Page -1, Offset 11544.
 -- “うはっ、おまえ胸でかくねー？
- “Ouaah, ta poitrine n'est pas un peu grosse ?
+  “Ouaah, ta poitrine n'est pas un peu grosse ?
 
 }
 [sha:a507331650c15d2bf3e6bca0e89d0a8aa8d13cd6]{
@@ -1285,7 +1285,7 @@ Tu sais tout !」
 [sha:e0c0cfbd86a574066fe5d55722cf27b66269995d]{
 -- Page -1, Offset 14957.
 -- Falling down,Falling down,
-            Falling down, Falling down,
+            falling down, falling down.
 
 }
 [sha:3052548f52cb453e883774e28829d4a30a2e0105]{
@@ -1297,19 +1297,19 @@ Tu sais tout !」
 [sha:3b71f47e23e6421f8ce68f41c5deac3276562b88]{
 -- Page -1, Offset 14959.
 -- My fair lady.』
-            My fair lady.』
+            My fair lady."
 
 }
 [sha:dbb4d54618d2ba72fb6c21f42e28b718f61a47ca]{
 -- Page -1, Offset 18379.
 -- ならば、それは神速か。
-  L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
+  ―――L'un avait la vitesse d'un ouragan, mais l'autre était rapide comme l'éclair.
 
 }
 [sha:24485a3c0aeb68d2c20fb6ab315beca0dd036fea]{
 -- Page -1, Offset 18380.
 -- 弾け跳んだ人狼が黒影なら、<迎|むか>え撃たんと踏みこむ彼も無音の黒影。
-  Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre noire silencieuse.
+  Si dans sa charge, le loup-garou évoquait une ombre sinistre, alors le jeune homme qui lui tenait tête s'apparentait à une ombre silencieuse.
 
 }
 [sha:8a074e9a746f4a923772b9f12624e4f9aa079788]{
@@ -1333,19 +1333,19 @@ Tu sais tout !」
 [sha:e28e5912022e8fd1eed74b22c06dc91010f8890d]{
 -- Page -1, Offset 18384.
 -- この世のものとは思えない結末に、当事者以外の誰もが目を疑う。
-  この世のものとは思えない結末に、当事者以外の誰もが目を疑う。
+  Something just as otherworldly had occurred. You had to be there to believe it.
 
 }
 [sha:f1efe5ae4f80d02c4596e0bb72543b381919e154]{
 -- Page -1, Offset 18385.
 -- それを一身に受けながら、人狼を見下ろしているのは言うまでもなく、静希草十郎という名前の、ごく当たり前の少年だった。
-  それを一身に受けながら、人狼を見下ろしているのは言うまでもなく、静希草十郎という名前の、ごく当たり前の少年だった。
+  Taking it all in, standing above the fallen werewolf was none other than an ordinary boy, named Soujyuro Sizuki.
 
 }
 [sha:1c496e82eccb6bafbceca68af8a61a044bf9f1a3]{
 -- Page -1, Offset 20722.
 -- 「ただいまー。今日もお留守番、ご苦労さま
-「Me revoilà. Encore merci d'avoir gardé le fort
+「Me revoilà. Encore merci d'avoir gardé le fort.
 
 }
 [sha:a90140737c9926973a0f5d4701f0fad51a2bc2e0]{
@@ -1369,7 +1369,7 @@ Tu sais tout !」
 [sha:809c70acca7634731e8c2f9c54bb8806e9dc695a]{
 -- Page -1, Offset 22395.
 -- 
-　
+  
 
 }
 [sha:e63bd3f536024345ed809911efa053eb19f5a575]{
@@ -1387,13 +1387,13 @@ Alice Kuonji
 [sha:ddc0cb0bec11a2555be6c5c32abfb490f66af27b]{
 -- Page -1, Offset 24078.
 -- 静希 草十郎
-Sōjūrō Shizuki
+Sojuro Shizuki
 
 }
 [sha:19b73e50808a10a9979654eee2b45d83b7e7c245]{
 -- Page -1, Offset 24079.
 -- 蒼崎 橙子
-Tōko Aozaki
+Toko Aozaki
 
 }
 [sha:a72696f2f5e7fbc5bb60463e016f120837c06156]{
@@ -1405,13 +1405,13 @@ Tobimaru Tsukiji
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24081.
 -- 次へ
-Suivant
+Suite
 
 }
 [sha:cb24e314042b28ef2bcb398f6692c71189f23158]{
 -- Page -1, Offset 24082.
 -- 木乃美 芳助
-Hōsuke Kinomi
+Hosuke Kinomi
 
 }
 [sha:739b2477c783c00b832aae27a079d44884c47fb1]{
@@ -1429,7 +1429,7 @@ Lugh Beowulf
 [sha:1f8e192fe376813ad2f0b3e36cb3fdeabbb118ad]{
 -- Page -1, Offset 24085.
 -- 文柄 詠梨
-Eiri Fumizuka
+Eiri Fumidsuka
 
 }
 [sha:b24ed5df4917846465fc93e2225e53cba9d2f944]{
@@ -1441,7 +1441,7 @@ Ritsuka Suse
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24087.
 -- 次へ
-Suivant
+Suite
 
 }
 [sha:20b4dad1a60efd1ced7b91743d3e3c8acb864c05]{
@@ -1453,7 +1453,7 @@ Yuika Suse
 [sha:f6d83cd9a5ab557fb8c879bcd41c03d4bfa90253]{
 -- Page -1, Offset 24089.
 -- 山城 和樹
-Kazuki Yamashiro
+Kazuki Yamasiro
 
 }
 [sha:da9a082bdae39ae3457109ad2b5a54b7a44c1749]{
@@ -1471,7 +1471,7 @@ May Riddell Archelot
 [sha:7c4e26886df0aa92fdffea5e280eb0f5e121c4dc]{
 -- Page -1, Offset 24092.
 -- 戻る
-Retour
+Back
 
 }
 [sha:e63bd3f536024345ed809911efa053eb19f5a575]{
@@ -1489,13 +1489,13 @@ Alice Kuonji
 [sha:ddc0cb0bec11a2555be6c5c32abfb490f66af27b]{
 -- Page -1, Offset 24103.
 -- 静希 草十郎
-Sōjūrō Shizuki
+Soujyuro Sizuki
 
 }
 [sha:19b73e50808a10a9979654eee2b45d83b7e7c245]{
 -- Page -1, Offset 24104.
 -- 蒼崎 橙子
-Tōko Aozaki
+Touko Aozaki
 
 }
 [sha:a72696f2f5e7fbc5bb60463e016f120837c06156]{
@@ -1507,13 +1507,13 @@ Tobimaru Tsukiji
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24106.
 -- 次へ
-Suivant
+Suite
 
 }
 [sha:cb24e314042b28ef2bcb398f6692c71189f23158]{
 -- Page -1, Offset 24107.
 -- 木乃美 芳助
-Hōsuke Kinomi
+Housuke Kinomi
 
 }
 [sha:739b2477c783c00b832aae27a079d44884c47fb1]{
@@ -1531,7 +1531,7 @@ Lugh Beowulf
 [sha:1f8e192fe376813ad2f0b3e36cb3fdeabbb118ad]{
 -- Page -1, Offset 24110.
 -- 文柄 詠梨
-Eiri Fumizuka
+Eiri Fumidsuka
 
 }
 [sha:b24ed5df4917846465fc93e2225e53cba9d2f944]{
@@ -1543,7 +1543,7 @@ Ritsuka Suse
 [sha:eed4e634b16ba4f765e268acf533eee0c2384103]{
 -- Page -1, Offset 24112.
 -- 次へ
-Suivant
+Suite
 
 }
 [sha:20b4dad1a60efd1ced7b91743d3e3c8acb864c05]{
@@ -1555,7 +1555,7 @@ Yuika Suse
 [sha:f6d83cd9a5ab557fb8c879bcd41c03d4bfa90253]{
 -- Page -1, Offset 24114.
 -- 山城 和樹
-Kazuki Yamashiro
+Kazuki Yamasiro
 
 }
 [sha:da9a082bdae39ae3457109ad2b5a54b7a44c1749]{

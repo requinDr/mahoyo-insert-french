@@ -175,7 +175,7 @@
 [sha:b2c5ece21d478fd8d9b8fe9e55f8af8cad93c6e3]{
 -- Page 7, Offset 15589.
 -- 「ご自由に。私はこれより調停に向かいます。管理者が替わるのなら、両<組織|きょうかい>への資料を用意しなければいけませんので。
-「À votre guise. Je me rends à la commission médiatrice. Si l'administrateur change, je dois préparer les documents pour l'Église et^l'Association.
+「À votre guise. Je me rends à la commission médiatrice. Si l'administrateur change, je dois préparer les documents pour l'Église et l'Association.
 
 }
 [sha:d9027e92bdfe5b1b0e4ccc139dd10c4ee1d23250]{

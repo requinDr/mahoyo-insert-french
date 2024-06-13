@@ -49,13 +49,13 @@
 [sha:0aab241162f1cc129e843cca6554872b5c06908b]{
 -- Page 2, Offset 5150. Mods: @i, @r.
 -- “<Vivo|ウィウォ> <in|イン> <somno|スォムノ>. <Solitarie|スォリタリエ> <putresco|プトゥレスコ> <in|イン> <inferis|インフェリス>.
-  “Vivo in somno. Solitarie putresco in inferis.
+  "Vivo in somno. Solitarie putresco in inferis.
 
 }
 [sha:2eaa700d891c54ab6004eab8b2667dfde046de8a]{
 -- Page 2, Offset 5151. Mods: @i, @r.
 -- @o<Hic|ヒク> <dies|ディエス> <meus|メウス> <obitus|オビトゥス> <dies|ディエス>, <et|エトゥ> <meus|メウス> <nativus|ナティウゥス> <dies|ディエス>. <Te|テ> <obeam|オベアム>.”
-    Hic dies meus obitus dies, et meus nativus dies. Te obeam.”
+    Hic dies meus obitus dies, et meus nativus dies. Te obeam."
 
 }
 [sha:d0a85cff58bcc957c881f3548a5b0016961502ff]{
@@ -409,13 +409,13 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:4416cdb41b2bd300189073aa0113a79a673f17fd]{
 -- Page 20, Offset 5210. Mods: @i, @o, @r.
 -- “<Me|メア>a <ani|アニマ>ma <immorta|イムモルタリス>lis. <Aute|アウテム>m <me|メア>a <futu|フトゥラ>ra <nec|ネカタ>ata <sunt|スントゥ>.
-“Mea anima immortalis. Autem mea futura necata sunt.
+"Mea anima immortalis. Autem mea futura necata sunt.
 
 }
 [sha:b47c6dd8ac3317627f5fdb56f0259194585cd0b8]{
 -- Page 20, Offset 5211. Mods: @i, @o, @r.
 -- <Man|マネス>es <su|スム>m. <Anim|アニマム>am <defin|デフィニレ>ire <ambigu|アンビグウム>um <est.|エストゥ>”
-  Manes sum. Animam definire ambiguum est.”
+  Manes sum. Animam definire ambiguum est."
 
 }
 [sha:1eb333fca59dde3cf2df68a9aedcda4379baddc2]{
@@ -511,7 +511,7 @@ La seule arme qu'elle pouvait recréer pour l'heure était un marteau, son bras 
 [sha:ecae32d8fa62115dd37058ae4d1b1f605fc4f432]{
 -- Page 25, Offset 5227.
 -- この距離ならこの攻撃、といったテンプレートを行うだけの殺戮機巧なら対応できると、青子は己の運に賭けたのだ。
-  Aoko avait parié qu'elle pourrait faire face à son adversaire si celui-ci n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
+  Aoko avait parié qu'elle pourrait lui faire face si ce n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.
 
 }
 [sha:1fd7ac96849991105794835427fdd360d0c80fd6]{
@@ -679,7 +679,7 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:04adab0bc957f3e47ae95678c80ec571aa1bab16]{
 -- Page 33, Offset 5255. Mods: @i, @r.
 -- “<知性は不必要でした|インテルレクトゥス・ノン・ネケススァリウス・エストゥ>。<敬虔さは重荷でした|ピウス・クウィエスカトゥ>。<ああ、私たち|オ・ノストゥラ><の本質は奪い合いで|エススェンティア・アブラタ・フイトゥ>、<理性は全て後付けでした|ラティオ・フィクサァ・タントゥム・エストゥ>。<苦しみのも|ドロリス・イニティウム><とは、脳髄でした|ケレブルム・フイトゥ>”
-“<Intellectum non necessitas|L'intelligence est inutile.>       <Et pius non necessitas|Être pieux est inutile.>    <Ô nostrum esentia auferati eramus|Aah, notre nature était de lutter,>       <ratio figur tantum est|et notre raison venait en dernier.>     <Doloris initium encephalon|Mon cerveau est l'origine de ma souffrance.>”
+“<L'intelligence est inutile.|Intellectum non necessitas> <Être pieux est inutile.|Et pius non necessitas> <Aah, notre nature était de lutter,|Ô nostrum esentia auferati eramus> <et notre raison venait en dernier.|ratio figur tantum est> <Mon cerveau est l'origine de ma souffrance.|Doloris initium encephalon>”
 
 }
 [sha:dd1b5dd68a4ee36498adf9b32f7da083bc7bbbee]{
@@ -703,7 +703,7 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:e3006e76ec42960cc6a8f49ee1068319793b9e90]{
 -- Page 34, Offset 5259. Mods: @i, @r, @k, @e.
 -- “<我々に救罪を|イィス・サルヴェティオ>。<我々に救罪を|イィス・サルヴェティオ>。<我々に救罪を|イィス・サルヴェティオ>。”
-“<Iis salvitio|Donnez-nous le pardon.> <Iis salvitio|Donnez-nous le pardon.> <Iis salvitio|Donnez-nous le pardon.>”
+“<Donnez-nous le pardon.|Iis salvitio> <Donnez-nous le pardon.|Iis salvitio> <Donnez-nous le pardon.|Iis salvitio>”
 
 }
 [sha:ea2cb7d55b46be198ffccd994422a692aa5e45c5]{
@@ -787,13 +787,13 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:3c633a3ddcd3ca3f46a1d1a1a2fc19e6572e41ae]{
 -- Page 38, Offset 5273. Mods: @n.
 -- 
-　　　　　　　
+                                
 
 }
 [sha:f6df3b96a2fc2d8c5150e432da492ff8bd07677e]{
 -- Page 38, Offset 5274. Glued. Mods: @i, @r.
 -- “「ワレ<ラ、死セリ|Iis salvatio>―――」”
-“「<Iis salvatio|Nous sommes morts―――>」”
+“「<Nous sommes morts―――|Iis salvatio>」”
 
 }
 [sha:70f6c21dce8840c00cbcdf512404cd73f276bcdf]{
@@ -859,7 +859,7 @@ dans ce labyrinthe de miroirs, elle vit son propre portrait.
 [sha:80deebb3bee3ccd7e513fe28a56eac2e1246d690]{
 -- Page 42, Offset 5285. Mods: @i, @r.
 -- “<Vivo in somno. Solitarie putresco in inferis|私は眠りの中で生きている。ひとりきりで土の中で腐っていく。>.
-                “<Vivo in somno. Solitarie putresco in inferis.|Je vis dans le sommeil. Je pourris toute seule dans la terre.>
+                "<Vivo in somno. Solitarie putresco in inferis.|Je vis dans le sommeil. Je pourris toute seule dans la terre.>
 
 }
 [sha:50dce0d690d64ccf930d5a9a365a911642746781]{

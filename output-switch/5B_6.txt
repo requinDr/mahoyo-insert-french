@@ -289,7 +289,7 @@ Il fallait dire qu'on avait rarement à se préoccuper de l'épuisement des ress
 [sha:3c980e866692087823d763f82461092b9442b928]{
 -- Page 14, Offset 7147. Glued. Mods: @x.
 -- 有珠を殺してもフラットスナークは止まらないし、このトンデモが外にあふれだす事になる！
-  Même si on tuait Alice, Flat Snark ne s'arrêterait pas, et cette monstruosité commencerait à se déverser à l'extérieur !
+Même si on tuait Alice, Flat Snark ne s'arrêterait pas, et cette monstruosité commencerait à se déverser à l'extérieur !
 
 }
 [sha:35cfd6e3f9491e097ed632098f2fe405a2d2ad2f]{

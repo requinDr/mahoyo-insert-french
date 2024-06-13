@@ -271,7 +271,7 @@ Une fois qu'elle en aura fini avec nous, elle va se charger de lui comme si elle
 [sha:b1b0a2e9d7a56bd3add930829c5cb1d172e3e08a]{
 -- Page 12, Offset 15930. Glued. Mods: @x.
 -- 彼、あなたを見て<嘔吐|おうと>したの」
- quand il t'a vue, il a vomi.」
+quand il t'a vue, il a vomi.」
 
 }
 [sha:1f2d021e4249320c657eeca8653966c1b3065cc2]{

@@ -43,7 +43,7 @@
 [sha:484a4fa2be7a518345e7ffd9113a9617c481d0d8]{
 -- Page 2, Offset 23656.
 -- “誰なら殺せるのか”を考えろ、と。
-mais “qui avait eu la possibilité de tuer qui”.
+  mais “qui avait eu la possibilité de tuer qui”.
 
 }
 [sha:a14df7e154a8e47dacb93dfd53f2a7fca35f872c]{
@@ -157,7 +157,7 @@ mais “qui avait eu la possibilité de tuer qui”.
 [sha:034da1e6374d18bb97d97cf16c69dd8b117508d1]{
 -- Page 5, Offset 23675. Glued. Mods: @n.
 -- 律架さん。
- et Ritsuka.
+et Ritsuka.
 
 }
 [sha:c241a2e7e4be98e5b7a728d22be2aef8f1f9ff3c]{

@@ -169,7 +169,7 @@
 [sha:1e3e8ad20a24364aec92b2387b434585d66ecdf2]{
 -- Page 7, Offset 6353.
 -- あーあ、と。
-  A---Ah.
+  A―――Ah.
 
 }
 [sha:fffcfeda545332541d15b881e1f98b564c5bb604]{
@@ -1027,7 +1027,7 @@ Au contraire, il augmenta sa vitesse et fixa l'œuf qui le suivait à la trace.
 [sha:3858812a9858435276d0cbe8dd59e1c5905da2a0]{
 -- Page 44, Offset 6496.
 -- 食べ物を粗末にするのはよくないと思う！」
-Je pense que même dans ces circonstances, ce n'est pas bien de gaspiller de la nourriture !」
+  Je pense que même dans ces circonstances, ce n'est pas bien de gaspiller de la nourriture !」
 
 }
 [sha:543c15f5d6f77f7b293e601fd30cada9c83c3982]{
@@ -1129,7 +1129,7 @@ Je pense que même dans ces circonstances, ce n'est pas bien de gaspiller de la 
 [sha:bbe1a88cf0f2e01ea4db4351a5fc5c3696b12945]{
 -- Page 48, Offset 6513. Glued. Mods: @x.
 -- そもそも感覚がないので自らの意志で止める事さえできず、
- De toute façon, il ne sentait plus rien et ne pouvait s'arrêter de son propre chef.
+De toute façon, il ne sentait plus rien et ne pouvait s'arrêter de son propre chef.
 
 }
 [sha:5649f7c9f2bbf42c5b13e660e616c6dbd17654ab]{
@@ -1141,7 +1141,7 @@ Je pense que même dans ces circonstances, ce n'est pas bien de gaspiller de la 
 [sha:c6a493d4c66ec2f1ec8932cd5db6edb4d5a66f37]{
 -- Page 49, Offset 6515.
 -- <交差点|スクランブル>の<爆発|マーダー><事故|ケース>。
-  Une <destruction|Scramble> <mutuelle|Murder> <explosive|Case>.
+  Une <destruction mutuelle explosive|Scramble Murder Case>.
 
 }
 [sha:0d0d53d838220eb10e204801f0659e6a5c02b5bb]{

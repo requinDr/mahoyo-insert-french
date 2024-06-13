@@ -67,7 +67,7 @@
 [sha:16faef19bd38f7b68a22db007b749292970cddf1]{
 -- Page 3, Offset 23768. Glued. Mods: @n.
 -- ワ
- mes
+mes
 
 }
 [sha:1373e80eff1d4ac20d213efffbb7383aded37066]{
@@ -85,25 +85,25 @@
 [sha:d47fb4dcc2d888814b5948bfa5d77a5c2e590f78]{
 -- Page 3, Offset 23771. Glued. Mods: @n.
 -- 宇
- tra
+tra
 
 }
 [sha:f37dc34a29dbd557850662b7624c01ba3e8ccf45]{
 -- Page 3, Offset 23772. Glued. Mods: @n.
 -- 宙
- ter
+ter
 
 }
 [sha:83b3c280b10a057f11bc431a61d1051ed9d6fa04]{
 -- Page 3, Offset 23773. Glued. Mods: @n.
 -- 人
- res
+res
 
 }
 [sha:925d2355a53cf654d12b886b9b84189e8cafc425]{
 -- Page 3, Offset 23774. Glued.
 -- ダ」
- tre.」
+tre.」
 
 }
 [sha:7922233f85a105683b8625799e47bc9bc4c95a0f]{
@@ -181,7 +181,7 @@
 [sha:bf09a5dea244afda8e93dcc7b142e418d4ceb0ef]{
 -- Page 6, Offset 23787. Glued. Mods: @n.
 -- ワレワレハ
- Nous sommes
+Nous sommes
 
 }
 [sha:ecd4c7b084bd008c313191bdadca4026e9348cf0]{

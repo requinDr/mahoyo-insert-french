@@ -43,7 +43,7 @@
 [sha:5a96882ed72d6d33d011df6e1d0584040d6edb6d]{
 -- Page 2, Offset 5991.
 -- 「―――決めた。<魔弾|ツアー><形式|プラン>、<収束|スター><投射|マイン>」
-「―――C'est parti. <Forme de balle|Tour> de <prana|Plan>, <Projection|Star> <Convergente|Main>.」
+「―――C'est parti. <Forme de balle de prana|Tour Plan>, <Projection Convergente|Starmine>.」
 
 }
 [sha:200513a0ce0ad969e72471342284728d9638d74c]{
@@ -679,7 +679,7 @@
 [sha:1e4c542e4145ce545bc4ab5b5de658fd994d6893]{
 -- Page 30, Offset 6097. Glued. Mods: @x.
 -- 巨大な氷塊を盾にしてあざ笑う、いびつで邪悪な<髑髏|どくろ>の顔が……！
- un crâne difforme et maléfique ricanait et se servait d'un bloc de glace colossal comme bouclier......!
+un crâne difforme et maléfique ricanait et se servait d'un bloc de glace colossal comme bouclier......!
 
 }
 [sha:250423dd7a8f351938253cf80608a005b1aa433f]{
@@ -1027,7 +1027,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:e204892adf7a9c8b6cd563b7233a7cfbb68fa4b4]{
 -- Page 41, Offset 6155. Glued. Mods: @x.
 -- 全界層、ブン回せ―――！」
-  Toutes les couches à plein régime―――!」
+Toutes les couches à plein régime―――!」
 
 }
 [sha:b0f6f045babc6a2c3f1aadc1ad85258c117bff15]{
@@ -1111,7 +1111,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:803bfbed9c6571846ce136876d49efecd83d5402]{
 -- Page 45, Offset 6169.
 -- 空間の支配率はスナークが八割、青子は二割にすぎない。
-  Le taux de contrôle de l'espace était de 80 % pour le Snark et seulement de 20 % pour Aoko.
+  Le taux de contrôle de l'espace était de 80% pour le Snark et seulement de 20% pour Aoko.
 
 }
 [sha:438ca86f75ff31bf9bf245b0f338b4f541c715ee]{
@@ -1231,7 +1231,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:eff0f6693faf53bcb4194cd602342a4f4d57e0a9]{
 -- Page 50, Offset 6189. Glued.
 -- 何かが、
- quelque chose,
+ quelque chose.
 
 }
 [sha:0c944fd7976b7c7f0a16e262d263dd04d73a9ea0]{
@@ -1297,7 +1297,7 @@ La surcharge lui grillait non seulement les doigts, mais aussi les yeux.
 [sha:a9c2e6986c03cd58d3bd49207dcde6f90508bf8e]{
 -- Page 53, Offset 6200. Mods: @c, @n.
 -- 
-　　　　　　　　　
+                                                
 
 }
 [sha:4283a3c80e8044d8d869b3ad2595a03f2867235e]{
@@ -1633,7 +1633,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:010dbc25836e35d28add8f64ac98bd4195650981]{
 -- Page 67, Offset 6256.
 -- “ぐ、つぅ―――！”
-  “Guh... tss―――!”
+“Guh... tss―――!”
 
 }
 [sha:3bdf2eb567af62ea7efeeb6df86fd5fd43b527bb]{
@@ -1765,7 +1765,7 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
 [sha:e474d0b264d66ba58cf10f4f62e25d47ba9c5a74]{
 -- Page 72, Offset 6278.
 -- 「―――<再接続|チェンジ>、<魔弾|ツアー><形式|プラン>―――」
-「―――<Reconnexion|Change>, <Forme balle|Tour> <de prana|Plan>―――」
+「―――<Reconnexion, forme balle de prana|Change Tour Plan>―――」
 
 }
 [sha:d5373eec8925ac13dc082fad4b7b9d3f031047da]{

@@ -169,13 +169,13 @@ Si Aoko est encore en vie, ne laissez pas son cœur s'arrêter.」
 [sha:fa1942f3f6b95b21a330cf74d22131e3ff316ee9]{
 -- Page 9, Offset 15501. Mods: @k, @e.
 -- 「ここにいるより、教会にいたほうが静希君は安全よ。それに、わたしも急がないといけない。
-「Tu seras plus en sûreté à l'église qu'ici. Et puis, moi aussi, je dois me dépêcher. ......
+「Tu seras plus en sûreté à l'église qu'ici. Et puis, moi aussi, je dois me dépêcher.
 
 }
 [sha:653ba6bded323240802d528571deba8ec196eef6]{
 -- Page 9, Offset 15502. Glued. Mods: @x.
 -- ……静希君、ふたり乗りできる？」
- Shizuki, peux-tu pédaler avec deux personnes dessus ?」
+...... Shizuki, peux-tu pédaler avec deux personnes dessus ?」
 
 }
 [sha:5368429e552a64ae509fb48db6478b3ebd40159c]{
@@ -331,7 +331,7 @@ Si tu ne peux pas, alors tant pis.」
 [sha:3330457fc7d49c4cf8d1df5d66ece53e2dee169b]{
 -- Page 17, Offset 15528.
 -- 「行こう、後ろの荷台に乗ってくれ。でもクッションがないから痛いと思う。辛かったら言ってくれ、止めるから」
-「Allons-y, monte sur le porte-bagages arrière. Par contre, comme^il n'y a pas de selle, ça risque de faire mal. Si c'est pénible, dis-le-moi, je m'arrêterai.」
+「Allons-y, monte sur le porte-bagages arrière. Par contre, comme il n'y a pas de selle, ça risque de faire mal. Si c'est pénible, dis-le-moi, je m'arrêterai.」
 
 }
 [sha:eb726213af01aa2e1fac87ae7e326012755ced26]{

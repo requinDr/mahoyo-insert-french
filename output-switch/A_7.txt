@@ -13,7 +13,7 @@
 [sha:e45aa7bb79155a111160d0334a22f9b9928126df]{
 -- Page 0, Offset 15290. Glued. Mods: @x.
 -- 腰のやや上にある<脊椎|せきつい>まで砕かれた有珠の両足は、ぴくりとも動かなかった。
- Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvait pas bouger ses jambes d'un pouce.
+Sa colonne vertébrale étant brisée juste au-dessus des reins, Alice ne pouvait pas bouger ses jambes d'un pouce.
 
 }
 [sha:1004467310287df22bb1707ed827b3304a24be17]{

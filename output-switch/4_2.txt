@@ -85,7 +85,7 @@
 [sha:5587969429a8dac0b8591fe7bf9f1e6ff1f9794d]{
 -- Page 4, Offset 3377. Glued. Mods: @x.
 -- ね、聞いてる有珠？」
-  Dis, tu m'écoutes Alice ?」
+Dis, tu m'écoutes Alice ?」
 
 }
 [sha:01eefef7bf260f14ceccbd1bcaecfb6dfc67c802]{
@@ -270,7 +270,7 @@ Et puis, je n'ai pas que ça à faire ! Et il ne m'intéresse pas du tout !
 [sha:6b21dc194f6494c6bb94b1a555f5fbe180b7d1d0]{
 -- Page 13, Offset 3408. Glued. Mods: @x.
 -- 会話もこれ以上ないってぐらい簡潔に切り上げたし！」
- C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
+C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne plus avoir à lui parler !」
 
 }
 [sha:19a7c7891a707054f056369be64fd78f00b53311]{

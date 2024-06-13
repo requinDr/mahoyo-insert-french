@@ -133,7 +133,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 [sha:f5f065246677dec115162f9aeba6ff936dc93381]{
 -- Page 7, Offset 23894. Glued. Mods: @x.
 -- ……お姉さんに対して当たりきつすぎると思うわ、わたし」
-  ...... Je trouve que tu manques de respect envers ta grande sœur !」
+...... Je trouve que tu manques de respect envers ta grande sœur !」
 
 }
 [sha:f76642e783296fd1be7873229894f658f5e96864]{

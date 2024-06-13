@@ -97,7 +97,7 @@
 [sha:5cd963a2bf0bec9d51ffdd45601c86a5ae1fb830]{
 -- Page 5, Offset 13328. Glued. Mods: @x, @n.
 -- って、ピンクトゥルーデが入ってない！？
-Pinktrude n'en fait pas partie ?!
+Pinktrude en fait partie ?!
 
 }
 [sha:b0949c48fe202ede29b8bb7ab71c8b9718b25e79]{
@@ -283,7 +283,7 @@ Pinktrude n'en fait pas partie ?!
 [sha:8398cdb6e872409828c33d0b7e1f09897d0cd3ca]{
 -- Page 13, Offset 13359.
 -- “そんな、嘘よ”……と。
-“Impossible, c'est un mensonge......” dit-elle.
+  “Impossible, c'est un mensonge......” dit-elle.
 
 }
 [sha:a764b95374abd1eef023becf90da6d444ff3247a]{
@@ -967,7 +967,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
 [sha:1ba1ea26b52f954a2f5c72c22344da43f0c62b8b]{
 -- Page 43, Offset 13473.
 -- ふらふらと漂う魚界の<金平糖|こんぺいとう>を見つめ、彼がうまく<転回|ターン>できずコツコツと水槽にぶつかる度に、
-  Elle contemplait le< konpeito |bonbon japonais>du monde des poissons flotter en chancelant et s'exclamait à chaque fois qu'il entrait en collision avec les murs du bassin, incapable de tourner correctement.
+  Elle contemplait le <konpeito|bonbon japonais> du monde des poissons flotter en chancelant et s'exclamait à chaque fois qu'il entrait en collision avec les murs du bassin, incapable de tourner correctement.
 
 }
 [sha:05185a33183cd58ab93f2fe5afc684237edc5603]{

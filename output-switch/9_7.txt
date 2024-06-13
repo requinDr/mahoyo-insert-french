@@ -601,7 +601,7 @@ Les types de Magie comme les Runes ou la Kabale représentent chacune une matiè
 [sha:660fc267195402d943130d5895920ea992f56b61]{
 -- Page 31, Offset 14174. Glued. Mods: @x.
 -- あー、草十郎の分かるレベルに落としこむと……ま、太陽みたいなものと考えて。
- Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.
+Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.
 
 }
 [sha:0537645d0ba1dd58d2aef1c6129b1e91d4db2a58]{
@@ -1459,6 +1459,6 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:c6406b68850d9c38eabb5186e1d4973b114c2333]{
 -- Page 79, Offset 14317.
 -- 「それも、悲しい話だね」と呟いて。
-“Ça aussi, c'est triste”, murmura-t-il.
+  “Ça aussi, c'est triste”, murmura-t-il.
 
 }

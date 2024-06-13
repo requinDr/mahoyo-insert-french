@@ -55,7 +55,7 @@
 [sha:2289c09784cf4a9caae6147a6d05ead97239ad63]{
 -- Page 2, Offset 5051. Glued. Mods: @x.
 -- っ、！？」
- ?!」
+?!」
 
 }
 [sha:c26604e065afe73e6791947d35e6b2634a2d2cd5]{

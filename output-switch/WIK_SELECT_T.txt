@@ -1,7 +1,7 @@
 [sha:815e7d956db97fce4b0f0be063c3375f9bb7bf7b]{
 -- Page 6, Offset 23297. Mods: @e.
 -- ～選択肢Ｔ～
-～Choix T～
+-Choix T-
 
 }
 [sha:fa7e8f4f29aa7d90bea73e4d88cc01f3a62c93de]{

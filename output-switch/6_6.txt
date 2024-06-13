@@ -445,7 +445,7 @@ Et toi aussi !」
 [sha:576f410afcfefa86c17e07009794e872c4e1207f]{
 -- Page 25, Offset 8069.
 -- “魔術を不朽の神秘とせよ”……というのは、魔術を魔術として永続させるために敷いたルールにすぎないわ」
-L'idée de préserver la Magie comme un mystère éternel n'est qu'une règle imposée par ces types pour la perpétuer.」
+L'expression : “Gardez la Magie comme un mystère éternel”...... n'est qu'une règle imposée par ces types pour perpétuer la Magie en tant que telle.」
 
 }
 [sha:482c22415ba32bb921f0468d2e88bb23ac25cdfa]{
@@ -883,7 +883,7 @@ Mais je pense que faire du feu sans outil relève du divin.」
 [sha:1993e03f6f167bc01db4c98fe5d7de960501654f]{
 -- Page 47, Offset 8142.
 -- ともかく、魔術師っていうのは暇さえあれば魔術の実験をしてる連中で―――自分の家系が伝えてきた秘儀を守るためなら鬼でも悪魔にでもなる」
-  Pour résumer, un Mage est un être inhumain qui fait des expériences magiques à la moindre occasion, et qui peut devenir un monstre ou le diable en personne pour protéger les rites secrets transmis dans sa lignée ―――bref, au sein de sa famille.」
+  Pour résumer, un Mage est un être inhumain qui fait des expériences magiques dès qu'il en a le temps, et qui peut devenir un monstre ou le diable en personne pour protéger les rites secrets transmis dans sa lignée de Mages―――au sein de sa famille.」
 
 }
 [sha:f390b08dc0b5e543f9a608bbf2940b4960fe319a]{
@@ -1033,7 +1033,7 @@ D'abord, pourquoi Sōjūrō avait vu quelque chose qu'il fallait à ce point gar
 [sha:3b2c0d17ec66f3e9b61200e51646b9fde4dff289]{
 -- Page 55, Offset 8167.
 -- 普通は驚いたり恐がったり無視したりするものなのに、どうして魔法使いだ、なんて言った私を信じたの？」
-  Normalement, tu devrais être surpris, effrayé, nous ignorer, ou faire comme si nous n'existions pas. Alors, pourquoi tu m'as crue lorsque je t'ai dit que j'étais une Magicienne ?」
+  Normalement, tu devrais être surpris, effrayé, nous ignorer, et finalement faire comme si nous n'existions pas. Alors, pourquoi tu m'as crue lorsque je t'ai dit que j'étais une Magicienne ?」
 
 }
 [sha:1907a938ed3b6784fb2297bc91f8d0d3602e439b]{

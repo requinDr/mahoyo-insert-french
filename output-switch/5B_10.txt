@@ -49,7 +49,7 @@
 [sha:282e12ba46a99f9ce18966ae28fbea8b3358b475]{
 -- Page 1, Offset 5619.
 -- 巨大な紙芝居の最後の一枚だと、彼女は思った。
-  la dernière page d'un énorme kamishibai, pensa-t-elle.
+  la dernière page d'un énorme <kamishibai|théâtre d'images>, pensa-t-elle.
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -73,7 +73,7 @@
 [sha:f8156f5f57d2837bc30d1e77c782cb72ab5727ea]{
 -- Page 2, Offset 5623.
 -- 波立つ境界線を見て、ようやく、この<絶望島|スナーク>に膝を屈した。
-  En voyant la frontière ondulante, elle fléchit enfin les genoux face à cette île du désespoir.
+  En voyant la frontière ondulante, elle fléchit enfin les genoux face à cette <île|Snark> du désespoir.
 
 }
 [sha:47dd18340765737d916576afa87597cb0e6137f1]{
@@ -211,7 +211,7 @@
 [sha:d65e41305cd27ade8a1d43a2acb44a9d3f486262]{
 -- Page 8, Offset 5646.
 -- 傍らに立つ少年の頭上には、かわらず表面をシャッフルし続ける<囁く卵|スクラッチ・ダンプティ>。
-  Au-dessus du garçon à côté d'elle, l'œuf chuchoteur poursuivait sa transformation.
+  Au-dessus du garçon à côté d'elle, <l'œuf chuchoteur|Scratch Dumpty> poursuivait sa transformation.
 
 }
 [sha:7362ac2699e173ec7653837288959e8df2b147db]{
@@ -637,7 +637,7 @@ Garde cet esprit combatif pour quelque chose de plus important. D'ici là, je t'
 [sha:5c83ce6970edc48325cab27906108377e2e8ae81]{
 -- Page 28, Offset 5717. Glued. Mods: @x.
 -- そういう蒼崎なんか、疲れ以上に傷の方が痛んでるだろ」
- Mais toi, non seulement tu es fatiguée, mais en plus tes blessures te font souffrir, n'est-ce pas ?」
+Mais toi, non seulement tu es fatiguée, mais en plus tes blessures te font souffrir, n'est-ce pas ?」
 
 }
 [sha:df79985ec7e7e30021b92494f4a6be8cc5b91120]{

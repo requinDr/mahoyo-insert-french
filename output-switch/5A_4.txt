@@ -775,13 +775,13 @@ Et alors qu'il était sur le point de s'arrêter net en pensant que ça ne pouva
 [sha:63e269d030ec2c04a0fc937daaf0b92f0b302973]{
 -- Page 38, Offset 4763.
 -- ……余談ではあるが。
-  ...... C'était une autre histoire, mais sans exagérer,
+  ...... C'était une autre histoire,
 
 }
 [sha:f1452069cde5f0068b90bcda170496fb1505928f]{
 -- Page 38, Offset 4764. Glued. Mods: @x.
 -- 大げさな話ではなく、それは彼にとって、生涯ただ一度の過ちだった。
-elle représentait pour lui l'erreur de toute une vie.
+mais sans exagérer, elle représentait pour lui l'erreur de toute une vie.
 
 }
 [sha:857c157f2c66c555c6cc72655e1ec33789e57074]{

@@ -67,7 +67,7 @@
 [sha:478d789ea27a19ec75956c7d2360df9ce40c17e4]{
 -- Page 2, Offset 5408.
 -- ―――その鐘の名は“<夜の饗宴|ディドルディドル>”
-  ―――Cette cloche se nommait “<le Banquet de la nuit|Diddle Diddle>”.
+  ―――Cette cloche se nommait Diddle Diddle, “<le Banquet de la nuit|Diddle Diddle>”.
 
 }
 [sha:e4942ba5f57b61c05f84702a2c9c379417b1c5d7]{
@@ -385,7 +385,7 @@
 [sha:bad63c19b1e02da2e09c0eb69996f78a50e70e78]{
 -- Page 15, Offset 5461.
 -- まだ半端にそっち側なの？　それとも情でも移った？」
-  Tu es encore de leur côté, Aoko ? Ou bien, tu t'es prise d'affection pour lui ?」
+  Tu es encore de leur côté, Aoko ? Ou alors, tu t'es prise d'affection pour lui ?」
 
 }
 [sha:ddad686cf46c2bbe8082472609ebac03a0c8b0aa]{
@@ -1231,7 +1231,7 @@ Son corps, incapable d'agir pendant le combat contre la marionnette, s'emballa p
 [sha:072b95b0b1f1cd1afb855a464394bc0cd28abe21]{
 -- Page 54, Offset 5602. Glued. Mods: @x.
 -- ごっこ遊びをしましょう、青子」
- Jouons ensemble, Aoko.」
+Jouons ensemble, Aoko.」
 
 }
 [sha:fff5ef429a25e09ed6a7fba1e09607bae83c77e4]{

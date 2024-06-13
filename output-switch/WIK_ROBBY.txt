@@ -115,7 +115,7 @@
 [sha:9ecdaafd99b211a46c088949e44b25f52ac6a60c]{
 -- Page 6, Offset 23232. Glued. Mods: @x.
 -- 大丈夫、おかしなものを見てもスルーすれば害はないから」
- Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
+Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -253,7 +253,7 @@
 [sha:d4a3f2b6441316fe74f7eb079c24b019f0d92a59]{
 -- Page 13, Offset 23255.
 -- 「頼まれたって見ないっショ。金鹿の色気のない着替えとかもうノーサンクス／ノーフューチャー／ノータックス。
-「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Future / No Tax.
+「Même si on me payait, je regarderais pas ! Pour tes tenues qui n'ont rien de sexy, c'est No Thanks / No Futur / No Tax.
 
 }
 [sha:1833c6797985ba3a3fe308ad346de180bf2492bd]{

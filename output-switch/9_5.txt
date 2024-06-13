@@ -589,7 +589,7 @@
 [sha:f2d84511de09f6be9072cedcb526f12986717a4c]{
 -- Page 30, Offset 13779. Glued. Mods: @n.
 -- もう動けない。<主役|プリマ>を見守るダンサーたちは、のきなみ、
- ils ne pouvaient plus bouger. Pratiquement tous les danseurs qui veillaient sur la première danseuse
+ ils ne pouvaient plus bouger. Pratiquement tous les danseurs qui veillaient sur la première danseuse,
 
 }
 [sha:006781b2b9aa4cfed723aa067687f006393dec5f]{
@@ -877,7 +877,7 @@ Pardon. Mais je ne lui avais rien fait manger récemment.」
 [sha:3e08ac0f3fd886e07db73e712df48bb6e79d8699]{
 -- Page 46, Offset 13827. Glued. Mods: @x.
 -- その稀少品を、敵魔術師は湯水のように、それこそ使い捨てのコマのように扱ってきた。
- le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
+le Mage ennemi avait gaspillé ces objets rares exactement comme s'il se servait de pions jetables.
 
 }
 [sha:49bb86faa59e40d1204e843b81e78fbdf0e43d69]{

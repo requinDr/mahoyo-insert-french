@@ -229,7 +229,7 @@
 [sha:896b34f6eb1f8e413786aee14d774d236d616f2e]{
 -- Page 13, Offset 9967.
 -- 「ふん。十が三に化けちゃあ、ちょっと黙ってらんないわね」
-「Hm. Je passe de 100 à 30 %. Je ne peux pas vraiment te laisser faire sans rien dire.」
+「Hm. Je passe de 100 à 30%. Je ne peux pas vraiment te laisser faire sans rien dire.」
 
 }
 [sha:229ba73176d4e962b0055516e58290f24a59f5af]{
@@ -289,7 +289,7 @@
 [sha:6b3ef96e9de12723c4a1c937089c5a47a9c6a0e5]{
 -- Page 16, Offset 9977.
 -- 「悔しいけど有珠が六、私が四で手を打つわ」
-「C'est vexant, mais je veux bien conclure le marché avec 60 % pour toi et 40 % pour moi.」
+「C'est vexant, mais je veux bien conclure le marché avec 60% pour toi et 40% pour moi.」
 
 }
 [sha:6dc4d8f53b62c30adf40a5afbe7ed740caf82ea8]{
@@ -307,7 +307,7 @@
 [sha:bafd96f3e4a7cc2f0c7695303ef3a7ebda9c1973]{
 -- Page 17, Offset 9980.
 -- 「……いいけど。あーあ、情けない。こんな事なら錬金術でもかじっておくんだった。そうすれば、こんな思いをしなくてもすんだのに」
-「...... D'accord. Mais c'est nul. Si j'avais su, j'aurais appris quelques notions d'Alchimie. Comme ça, je n'aurais pas eu à éprouver ça.」
+「...... D'accord. Mais, aaah, c'est lamentable. Si j'avais su, j'aurais appris quelques notions d'Alchimie. Comme ça, je n'aurais pas eu à ressentir ce sentiment pitoyable.」
 
 }
 [sha:c690b95281adbf14d4125db877cc49f65c1a1709]{

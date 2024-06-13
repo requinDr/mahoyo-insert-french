@@ -55,7 +55,7 @@
 [sha:52c2703ee5bf09ba658b691defa73b827586fb45]{
 -- Page 2, Offset 7205.
 -- 「青子の事だから、時計台ごと私を焼き払いにくるかと思ったけど」
-「C'est dommage. Connaissant Aoko, je pensais qu'elle serait venue me réduire en cendres avec la tour de l'horloge.」
+「C'est dommage. Comme il s'agit d'Aoko, je pensais qu'elle serait venue me réduire en cendres avec la tour d'horloge.」
 
 }
 [sha:82147444a36d9cde5dcf23ecaad29846c739e6c4]{

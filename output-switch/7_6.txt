@@ -481,7 +481,7 @@
 [sha:7cfa219503926abe9fdca8c10a039f417e110082]{
 -- Page 25, Offset 9631. Glued. Mods: @x.
 -- 私ってばなんでそんな事を忘れてたんだろう。有珠が聞いたら喜ぶわ、そりゃ」
- Où avais-je la tête pour oublier ça ? Lorsqu'Alice l'apprendra, elle en sera ravie.」
+Où avais-je la tête pour oublier ça ? Lorsqu'Alice l'apprendra, elle en sera ravie.」
 
 }
 [sha:238661f3b7e58cecc0c0566279f462eb8fd41f8b]{
@@ -805,7 +805,7 @@
 [sha:5f801497990295bbed02a47d53733000f391b213]{
 -- Page 43, Offset 9685.
 -- 年明けの行事があるんだけど、その場しのぎで言った<餅|もち>つき大会が通っちゃってさ。明日も忙しいのよ、私」
-  Il y a une fête de fin d'année, un rassemblement improvisé pour la fabrication de <mochi|pâte de riz sucrée>. Donc je serai occupée demain.」
+  Il y a une fête de fin d'année, un rassemblement improvisé pour la fabrication de pâte de riz sucrée. Donc je serai occupée demain.」
 
 }
 [sha:03785c66e6de62c5c71ada5f025f1410e1fc3312]{

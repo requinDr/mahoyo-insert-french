@@ -61,7 +61,7 @@
 [sha:a080ecc63a011dc467075aa3c0222271e93daf3d]{
 -- Page 2, Offset 6706.
 -- 「――――<接続|セット>」
-「――――Connexion.」
+「――――<Connexion.|Set.>」
 
 }
 [sha:da365c342fe945c967f5deaf2e421ddb97367faf]{
@@ -193,7 +193,7 @@
 [sha:bef951d0a581333f52312660136c7ee992c91977]{
 -- Page 7, Offset 6728. Glued.
 -- みたいな質問を口にするのだった。
-Comment va-t-on à la gare ?
+  Comment va-t-on à la gare ?
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{
@@ -589,7 +589,7 @@ Comment va-t-on à la gare ?
 [sha:d372c1884c9d3546245e25a2fe1a6a4c3c090b4c]{
 -- Page 26, Offset 6794. Glued. Mods: @x.
 -- 逃げるわよ！」
-  On s'enfuit !」
+On s'enfuit !」
 
 }
 [sha:4e7275be333ea24e1681e22d5da51af02dd553b2]{

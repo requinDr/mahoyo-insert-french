@@ -493,7 +493,7 @@ Mon cœur devint un moteur complètement différent, et utilisa mon corps comme 
 [sha:06c96dff430e8de59f8843360560f29f4d2b758a]{
 -- Page 24, Offset 3088.
 -- 「―――<接続|セット>」
-「―――Connexion.」
+「―――<Connexion.|Set>」
 
 }
 [sha:83059af5c34331e5e8402f57484638cb7d4d912b]{
