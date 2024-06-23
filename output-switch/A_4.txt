@@ -1039,7 +1039,7 @@ En effet, vaincre l'ennemi avant d'attirer son attention constituait le B.A.BA d
 [sha:62186aee706b4e115f319ae065869cc0aa132e51]{
 -- Page 46, Offset 14934.
 -- 『誰<が駒鳥を殺した|Who killed COCK ROBIN.>か？』を、音程はずれで唄っている。
-chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
+  chantait faux la comptine 『<Qui a tué Cock Robin ?|Who killed COCK ROBIN>』.
 
 }
 [sha:ea615d85ea7e1210979e1122fff26c46c6a020fe]{

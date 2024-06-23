@@ -241,7 +241,7 @@ C'est génial ! Même avec des œufs, ça ne coûte que 60 yens la portion.」
 [sha:b8c4e1a505d000c6daf236d438212973ac1e1ef7]{
 -- Page 13, Offset 13051. Glued. Mods: @x.
 -- このご時世、新しくできた牛丼屋ですら贅沢に原価あげてるわよ、ばか！」
-  De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
+De nos jours, même les nouveaux restaurants de gyudon affichent des prix plus élevés, abruti !」
 
 }
 [sha:828eb1b471efb7b484986978dac6f3a3c98de824]{

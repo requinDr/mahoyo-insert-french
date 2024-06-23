@@ -1873,7 +1873,7 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:90b4425bf3210d558f404cfd14c3f3416494b4ca]{
 -- Page 98, Offset 10335. Glued. Mods: @x.
 -- 立ち上がろうとした草十郎の後頭部に、青い衝撃が突き刺さった。
- un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
+un impact bleu transperça l'arrière du crâne de Sōjūrō sur le point de se relever.
 
 }
 [sha:cd3d1d1903f9ce2f272ea97f35995bc6f48c64a3]{
@@ -2305,7 +2305,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:f9675f926156922a1a7aba77ab3b0461382c0016]{
 -- Page 120, Offset 10407.
 -- そのあたりジブン、なんか納得いかないッス。まだうちに入ったばかりの新参ものが、なんでアリスさんの視線をひとりじめしてるっスか？　許せないスけど、その秘訣を教えてほしいっス。<切実|せつじつ>に。ジブン、本気だしたら凄いッスよ』
-  J'peux pas accepter ça ! Pourquoi un nouveau venu devrait, à peine arrivé, monopoliser l'attention de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je suis sérieux, rien ne vas plus !』
+  J'peux pas accepter ça ! Pourquoi un nouveau venu devrait, à peine arrivé, monopoliser l'attention de Mam'zelle Alice ? Je peux pas laisser passer ça ! Explique-moi ce mystère ! Et ne mens pas. Quand je suis sérieux, rien ne va plus !』
 
 }
 [sha:280509b9c16ebe56bab4b47df92e84b1165ee17e]{

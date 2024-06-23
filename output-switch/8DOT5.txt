@@ -643,7 +643,7 @@ La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 [sha:31c268f6331aa42eb07ce9dc220ac1034d636bd5]{
 -- Page 35, Offset 11936.
 -- だったはずだ。
-  “Si nous désirons trouver le bonheur, arrêtons de nous soucier de la gratitude ou de l'ingratitude et donnons, simplement pour le plaisir de donner.”
+  dont voici la citation exacte.
 
 }
 [sha:eeee33a1db339bcab713d31f72decda7170d4f4f]{
@@ -685,7 +685,7 @@ La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 [sha:5eb23810662f0d176f3afee9d9a15d317340d8a6]{
 -- Page 37, Offset 11943.
 -- だったはず。
-  “Les gens riches devraient utiliser leur fortune pour enrichir la société, au lieu de gaspiller leur argent.”
+  dont voici la citation exacte.
 
 }
 [sha:776bcb9c8b29714ebed8ebc03005aed3aa8c3c9c]{
@@ -787,13 +787,13 @@ La joie que l'on procure aux gens semble compenser la mauvaise conscience.」
 [sha:52cce230a7e0e4632cc306c7fd561bcd9442d202]{
 -- Page 42, Offset 11960. Glued. Mods: @x, @n.
 -- 夕飯ならこれから作ってあ―――
-Pour le dîner, c'est moi qui me mettrai aux fourneaux, alors―――
+ Pour le dîner, c'est moi qui me mettrai aux fourneaux, alors―――
 
 }
 [sha:6e4664b0a0e53ca5bea40c44be40996c91d008c4]{
 -- Page 42, Offset 11961. Glued.
 -- なにぃ？」
- Quoiii ?」
+Quoiii ?」
 
 }
 [sha:b9279e063c34bef4d0669f8ea9b2afb64ad3019e]{
@@ -2263,7 +2263,7 @@ Heureusement, ce dernier se calma enfin.
 [sha:0cd85a6c49cc14cb60631af7492a8a2719b2bbf6]{
 -- Page 121, Offset 12206. Glued. Mods: @x.
 -- やめたまえ。言ったら大事になるぞトビー。ボクは心臓麻痺で急死しかねない。犯人は君であり、凶器はアリスだ。
-  N'en dis rien. Si tu l'avouais, les choses seraient terribles. Je pourrais soudainement mourir d'une crise cardiaque. Le criminel, ce serait toi, et l'arme serait Alice.
+N'en dis rien. Si tu l'avouais, les choses seraient terribles. Je pourrais soudainement mourir d'une crise cardiaque. Le criminel, ce serait toi, et l'arme serait Alice.
 
 }
 [sha:4d74d64b333b1c0a95ab3a197aee256d01105c37]{
@@ -3025,7 +3025,7 @@ pendant que moi, je te prête assistance tout en me préoccupant de lui en tant 
 [sha:7ed24b0388bbb0bf22add936b10cd8c85957bc23]{
 -- Page 164, Offset 12333. Glued. Mods: @x.
 -- あん？　羽振りがいい？」
- Hmm ? Il roule sur l'or ?」
+Hmm ? Il roule sur l'or ?」
 
 }
 [sha:3e9fe3d3696539d328e7bfbe16c079d263147660]{
@@ -3907,7 +3907,7 @@ Et puis, il n'y a pas beaucoup de jeunes de notre âge comme lui qui connaissent
 [sha:773c9728b6eb98d9963ca985b00832caa2b59754]{
 -- Page 214, Offset 12480. Glued. Mods: @x.
 -- あいたぁ!?」
- Aïe ?!」
+Aïe ?!」
 
 }
 [sha:214164ba34f5468c984ff7bdb54da56ae8cdc3de]{
@@ -4009,13 +4009,13 @@ Les flics peuvent tout au plus les rappeler à l'ordre, et si jamais tu les gên
 [sha:f7b0f590429d44bfbc8db4519f658c11d2805349]{
 -- Page 219, Offset 12497. Mods: @k, @e.
 -- 「分かってる。まずは会社の概要と社長の素性、構成員の数を調べながら被害者の洗い出し、
-「Je sais. D'abord, il faut enquêter sur le parcours de la société, l'identité du patron et le nombre de salariés tout en cherchant les victimes, et―――
+「Je sais. D'abord, il faut enquêter sur le parcours de la société, l'identité du patron et le nombre de salariés tout en cherchant les victimes,
 
 }
 [sha:ad82151cd13c6e83b8c5d95d6f221008aaaad887]{
 -- Page 219, Offset 12498. Glued. Mods: @x.
 -- を―――」
-」
+et―――」
 
 }
 [sha:1405d8a1e110b87b8b07332507be0a2842616bac]{
@@ -4033,7 +4033,7 @@ Les flics peuvent tout au plus les rappeler à l'ordre, et si jamais tu les gên
 [sha:68bcba9c2812f3568057c3d4589948a39a619542]{
 -- Page 220, Offset 12501. Glued. Mods: @x.
 -- げ」
- ghé !」
+ghé !」
 
 }
 [sha:e14574f7cc5520371dde895f8790381b68d7ccfc]{
@@ -4129,7 +4129,7 @@ Les flics peuvent tout au plus les rappeler à l'ordre, et si jamais tu les gên
 [sha:6a8708b5441faf6de8543809aa10dfb1771f615b]{
 -- Page 226, Offset 12517. Glued. Mods: @x.
 -- ケンカになるかもしれないから、それなりの装備こみでって！」
-  Comme ça risque de partir en bagarre, dis-leur de venir bien équipés !」
+Comme ça risque de partir en bagarre, dis-leur de venir bien équipés !」
 
 }
 [sha:e97a28b07a256602f7a0b1f67b19fd97461b4d71]{
@@ -4327,7 +4327,7 @@ C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur 
 [sha:6bd27ada670423d276da47f5950e34e7ead8e40f]{
 -- Page 237, Offset 12550. Glued. Mods: @x.
 -- ……あんまり<荒事|あらごと>に巻きこみたくないけど、仕方ないか。
-  ...... Je n'ai pas très envie de l'impliquer dans des embrouilles, mais on n'a pas vraiment le choix.
+...... Je n'ai pas très envie de l'impliquer dans des embrouilles, mais on n'a pas vraiment le choix.
 
 }
 [sha:3c7e0f13991d7eea0036a7f6fa4648a53f94e4bc]{
@@ -6601,7 +6601,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:9b7c91c3b2a39fb987291d149117a3abf968d004]{
 -- Page 354, Offset 12929. Glued. Mods: @x.
 -- ……と切り返したい青子ではあるが、ぐっと堪える。
-  ...... avait envie de répliquer Aoko qui résista tant bien que mal.
+...... avait envie de répliquer Aoko qui résista tant bien que mal.
 
 }
 [sha:983112d494cc0126a000c9641f7a2e6545965705]{

@@ -181,7 +181,7 @@ Pinktrude en fait partie ?!
 [sha:925f163f09c52b378715a3c2186266d410962c68]{
 -- Page 8, Offset 13342.
 -- 無音というほど寂しくはなく、
-  Il n'était pas silencieux au point que l'on s'y sente seul,
+  Tel un pénitent, il se sentait submergé par un indéfinissable sentiment^d'impuissance.
 
 }
 [sha:4278fbc25ef0f24cd0f4c8e888c391b568df9d6d]{
@@ -283,7 +283,7 @@ Pinktrude en fait partie ?!
 [sha:8398cdb6e872409828c33d0b7e1f09897d0cd3ca]{
 -- Page 13, Offset 13359.
 -- “そんな、嘘よ”……と。
-“Impossible, c'est un mensonge......” dit-elle.
+  “Impossible, c'est un mensonge......” dit-elle.
 
 }
 [sha:a764b95374abd1eef023becf90da6d444ff3247a]{

@@ -505,7 +505,7 @@ Je l'ai réalisé après beaucoup de réflexion, mais apparemment, je n'ai pas a
 [sha:afc117e040b3c23a279f9c10d272fdb646a5484b]{
 -- Page 28, Offset 8649.
 -- 「木乃美。たとえばの話、まっどべあにハリセンボンみたいな女の子が入ってきたとする。
-「Kinomi. Imaginons qu'une fille hérissée dans le genre< fugu |poisson-globe>arrive à l'Ours Enragé.
+「Kinomi. Imaginons qu'une fille hérissée dans le <genre fugu arrive|poisson-globe> à l'Ours Enragé.
 
 }
 [sha:b699541561fd2ada88948a21c615994a1b02e60e]{
@@ -1153,7 +1153,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 [sha:d7608bd3e529e49b45b1dbc96dac39b0f259b5b3]{
 -- Page 62, Offset 8757. Glued. Mods: @x.
 -- とか！」
- Par exemple !」
+Par exemple !」
 
 }
 [sha:b3fbd4d545e0f38b032380dd8b8bca652c673fff]{
@@ -1297,7 +1297,7 @@ Dans le cas présent, dis plutôt que je me contredis.」
 [sha:0fefa2b05df7fa71dcfebb1e4f334510a8459355]{
 -- Page 70, Offset 8781. Glued. Mods: @x.
 -- ただ……人間の体って、あんな風に動くんだなって」
- Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
+Seulement...... je me suis dit... que le corps humain était donc capable de bouger de cette façon.」
 
 }
 [sha:21652fae76fe1a32551860d9fb35bdf485cc48f3]{

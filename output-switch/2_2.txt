@@ -1117,13 +1117,13 @@ Oooh―――」
 [sha:a8912cdd730c0c865d0ad1afb96b852e40297b14]{
 -- Page 54, Offset 2463. Mods: @k, @e.
 -- 蒼崎はケンカをした相手だろうと別に嫌うワケじゃない。逆に言えば、親切にしたって別に好かれるワケでもない。
-  Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
+Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.
 
 }
 [sha:5b2eade5bc47afa2d3a7f1371b342da4d80cd838]{
 -- Page 54, Offset 2464. Glued. Mods: @x.
 -- いい例が俺だ」
-J'en suis un bon exemple.」
+ J'en suis un bon exemple.」
 
 }
 [sha:be0894014b55fafdb69d7c63a140de1630f0c7fa]{

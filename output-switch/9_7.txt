@@ -1459,6 +1459,6 @@ Mais ça n'a que des limites, c'est ça ?」
 [sha:c6406b68850d9c38eabb5186e1d4973b114c2333]{
 -- Page 79, Offset 14317.
 -- 「それも、悲しい話だね」と呟いて。
-“Ça aussi, c'est triste”, murmura-t-il.
+  “Ça aussi, c'est triste”, murmura-t-il.
 
 }

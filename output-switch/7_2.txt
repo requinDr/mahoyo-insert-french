@@ -127,13 +127,13 @@
 [sha:03dd69d43ec5bc5924e37064c91be061b64a2b29]{
 -- Page 5, Offset 9192.
 -- 『ま、転校してきたばかりだし、しょうがないよね』
-quand le professeur Yamashiro la lui avait montrée en ajoutant :
+『Il vient juste d'être transféré. On n'y peut rien.』
 
 }
 [sha:76b3ea556d99e5d3dd9bb33fd10e2edf8b5d27a3]{
 -- Page 5, Offset 9193.
 -- と見せられたものを、<勢|いきお>い<奪|うば>い取ってきたに違いない。
-  『Il vient juste d'être transféré. On n'y peut rien.』
+  quand le professeur Yamashiro la lui avait montrée en ajoutant ceci.
 
 }
 [sha:f4b2daa447ea37d403e33972f08d8527c4aaba72]{

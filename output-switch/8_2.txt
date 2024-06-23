@@ -949,7 +949,7 @@ J'ai bien réussi un sort de charme la dernière fois.」
 [sha:ea7f0157ed25d1ed08f7735dde39eab058c5537a]{
 -- Page 51, Offset 10845.
 -- ほら、有珠が教えてくれた、空<気のおも|かるく、よわく>り、胸<のふる|うまく、はやく>え。ひ<かりは先|チクタクチクタク>立つ、か<げは遅れ|いそげやいそげ>る。ってヤツ」
-  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids|Légèrement,> <de l'air|faiblement>, <tremblement de la poitrine|Habilement, rapidement>. <La lumière en premier|Tic tac tic tac>,< l'ombre|Dépêche-toi> <en second|dépêche-toi>.」
+  Tu sais, celui que tu m'as enseigné, le charme qui dit : <Poids de l'air, tremblement de la poitrine.|Légèrement, faiblement, habilement, rapidement> <La lumière en premier, l'ombre en second.|Tic tac tic tac, dépêche-toi, dépêche-toi>」
 
 }
 [sha:8ac38b26ec66e27cb4913ae50467c25a4cfc3d8b]{
