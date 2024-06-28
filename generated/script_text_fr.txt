@@ -3324,7 +3324,7 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
   Elle pouvait tenir dans la paume de la main.
   C'était un flacon cylindrique plutôt grossier et qui jurait avec ses doigts fins.
   Le flacon était sombre et vide de tout contenu.
-  Elle vit sur l'extérieur une trace montrant que l'on avait retiré de force l'étiquette.
+  Elle vit sur l'extérieur une trace montrant que l'on avait retiré de force^l'étiquette.
 「C'est quoi ce truc ?」
   Pressentant quelque chose de lugubre, Aoko fixa la petite bouteille d'un air suspicieux.
 「Une fiole de rangement. J'en avais justement une en trop, alors je te la donne.」
@@ -16922,7 +16922,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
   Elle le remonta à l'horizontale, devant sa poitrine, comme pour repousser son adversaire.
   Plus que dix mètres.
   La position d'Aoko n'aurait pas dû lui être visible, mais elle était malheureusement aisément repérable grâce à ses empreintes.
-「―――」
+「<[swel]|Sow>―――」
   Tōko dessina un sort runique.
   Mais les empreintes d'Aoko s'arrêtèrent subitement avant qu'elle ne l'achève.
   Elle était encore trop loin pour pouvoir engager un combat au corps à corps.
@@ -16931,7 +16931,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 “Elle a sauté―――!”
   Sa réaction fut instantanée.
   Elle tendit son bras vers le ciel comme pour pointer la lune du doigt.
-「―――!」
+「<[swel]|Sowilo>―――!」
   Une gerbe de flammes destructrices se propagea dans l'air.
   La Rune se grava sur la silhouette invisible entre ciel et terre qui s'embrasa en moins d'une seconde.
   Les sorts de défense interne s'étaient révélés inutiles,
@@ -16950,10 +16950,10 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
   Aoko était effectivement devenue invisible.
   Cependant, elle n'avait pas bougé d'un centimètre.
   Un cercle bleu commençait à tourner à l'endroit où elle avait disparu.
-  C'était un <sort de haut niveau à quatre versets|Force To Force> qui nécessitait l'activation du Sceau Magique.
+  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
   Pour Tōko qui ne disposait que de Runes à action unique―――
   et qui ne pouvait même pas acquérir de Magie qui dépassait deux versets, rivaliser avec ce torrent de prana était chose impossible―――!
-「―――!」
+「―――<|Eihwaz> !」
   Elle traça la Rune sur le cercle.
   Ehwaz dissipa le sort d'invisibilité qui avait dissimulé Aoko, puis Tōko ferma les yeux.
   Lorsqu'elle les rouvrirait, ses pupilles plongeraient sa cible dans l'enfer infini de son globe oculaire grâce au pouvoir de l'Œil Mystique agencé en miroirs opposés―――!
@@ -16985,7 +16985,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
   Elle semblait le savoir mieux que quiconque, raison pour laquelle elle resta pétrifiée sur place.
   Elle n'affichait aucune peur, mais pressentant la défaite imminente, ses yeux reflétaient un semblant de regret.
   Aoko n'hésita pourtant pas et pressa la détente dans sa main droite.
-「<Forme|Tour> <Balle de prana|Plan>, <Tir|Star> <Convergeant|Main>―――Circuit, feu.........!!!!」
+「<Forme Balle de prana|Tour Plan>, <Tir Convergeant|Starmine>―――Circuit, feu.........!!!!」
   Ses derniers mots étaient proches du hurlement.
   L'Éther projeté se transforma momentanément en source de chaleur et dispersa la couche de neige telles des vagues.
   ―――Tōko fut engloutie sous un tas de terre écrasant.
@@ -17216,7 +17216,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
   Les mouvements d'Aoko ne correspondaient pas à son âge.
   Elle ne devait pas prêter attention au léger changement d'apparence, mais plutôt à sa transformation interne.
   Lorsque Tōko arriva à cette conclusion improbable, Aoko n'était plus qu'à une dizaine de mètres d'elle.
-「―――<Circuit|Turbine>, .」
+「―――<Circuit|Turbine>, <Connexion|Set>.」
   Aoko leva la main gauche à hauteur de ses yeux.
   La quantité de prana générée par son corps était si énorme qu'on pouvait le voir à l'œil nu...... et même l'entendre.
   Tōko n'avait jamais entendu un vrombissement pareil.
@@ -17240,7 +17240,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
   En outre, ce coup direct avait vraisemblablement endommagé son Circuit Magique.
   Elle ne voulait pas le reconnaître, mais Aozaki Aoko surpassait Aozaki Tōko en ce qui concernait la puissance de feu.
   Et pire encore, cette fille n'avait probablement pas encore attaqué sérieusement......!
-「, ,  !」
+「<[ansz], [swel], [ingz]|Ansuz Sowilo Ingwaz> !」
   Tōko dessina des Runes tout en reculant.
   Les caractères répondirent à son rugissement et se changèrent en flammes.
   Mais ça ne suffisait pas.
@@ -17451,7 +17451,7 @@ son pied fendit l'air et pulvérisa le plafond en même temps que les Runes.
 「―――Alors une autre question se pose.
   Aoko ! D'où tires-tu ces dix années ?」
 「De cet idiot ! Ça te pose un problème ?!
-  Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la leçon !」
+Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la leçon !」
   En effet, cet acte ne posait pas de problème en soi.
   C'était à sens unique, mais la quantité de temps de cet axe temporel restait la même.
   Cependant―――
@@ -17473,7 +17473,7 @@ son pied fendit l'air et pulvérisa le plafond en même temps que les Runes.
   Aucune balle de prana ne pourrait les transpercer.
   Même si la puissance dégagée par Aoko surpassait de loin celle de Tōko, ces mégalithes en produisaient le double.
   La spécialité d'Aoko consistait simplement à “relâcher du prana”, elle ne pourrait ni se protéger ni éviter cette malédiction......!
-「―――, <Fixé|Set>.」
+「―――<Axe subjectif|Main>, <Fixé|Set>.」
   Aoko recourut à l'auto-hypnose et prit une profonde inspiration, décidée.
   Elle s'élança alors vers la tempête de Runes, sans essayer de se protéger ou d'esquiver.
 「Je vois... Tu n'existes pas dans cet axe temporel, c'est ça ?!」
@@ -17509,7 +17509,7 @@ Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans 
   L'assaut d'Aoko se poursuivait.
   Abritée derrière le dernier mégalithe, Tōko fixait Aoko d'un regard haineux.
 「Réponds, Aoko ! Où as-tu envoyé son temps !
-  Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
+Comment maintiens-tu l'équilibre malgré la perte de cette énergie ?」
 「Je m'en tape ! Son temps, je l'ai balancé loin dans le futur !」
 「Qu―――」
   Plus que cinq mètres.
@@ -17531,7 +17531,7 @@ Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans 
   Cet exemple va trop loin, pensa Aoko en ouvrant grand les yeux.
   Emportée dans son élan par la colère, ses jambes transpercèrent le plancher.
 「J'y penserai le moment venu ! La prochaine fois, j'enverrai le temps emprunté dans le passé ! De cette façon, tu n'auras plus de quoi te plaindre, hein ?!
-  La distorsion n'écrasera que le passé, après tout !」
+La distorsion n'écrasera que le passé, après tout !」
 「Et tu crois vraiment que ça résoudra le problème ?!
   Alors le passé peut disparaître tant que le présent est déterminé ?!
   Ça n'arrange que nous ! Que fais-tu de la dette de l'univers, le temps total ?!」
@@ -17552,7 +17552,7 @@ Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans 
 「Donc tu en assumeras la responsabilité ? Et plus concrètement ?!」
 「Le concret... J'y réfléchirai plus tard, évidemment !」
 「―――
- Tu es la pire femme qui soit !」
+Tu es la pire femme qui soit !」
   ―――Le dernier bouclier fut démoli.
   À deux pas l'une de l'autre, les deux Mages levèrent le bras et invoquèrent un sort.
   L'une avec les Runes rouges, l'autre avec l'Éther bleu.
@@ -17591,8 +17591,8 @@ Où cette fille pouvait-elle bien trouver l'énergie nécessaire au voyage dans 
   Aoko ouvrit soudainement la bouche.
   “Laisse-moi réfléchir”, dit Tōko avant de se plonger dans ses pensées.
   Elle tapota doucement la poche de son manteau et se renfrogna quand elle réalisa que celle-ci était vide.
-「............ Je pensais en fumer une dernière, mais malheureusement, je les ai toutes finies pendant que je t'attendais.
-La faute aux cigarettes japonaises. Elles sont trop bonnes.」
+「............
+Je pensais en fumer une dernière, mais malheureusement, je les ai toutes finies pendant que je t'attendais.
  La faute aux cigarettes japonaises. Elles sont trop bonnes.」
   “Je vois”, acquiesça Aoko en écoutant les dires de Tōko.
 「Une personne ordinaire pourrait difficilement formuler un dernier souhait pareil.」
@@ -17690,7 +17690,7 @@ Ce but l'emportait sur mon désir de vengeance envers les Aozaki.
   Aoko fixait Sōjūrō d'un œil noir pour mieux chasser ces pensées.
 「Et alors ?
  Tu irais jusqu'à protéger la personne qui t'a tué ?
- Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
+Tu épargnerais quelqu'un, même si c'est un tueur fou qui reviendra sans scrupule à la charge après s'être rétabli ?」
 「...... Non. Si j'allais jusque-là, je serais un saint. Je n'en dirais pas tant.」
   Pourtant, il l'épargnerait probablement.
   Il n'espérerait pas que le malfaiteur s'amende.
@@ -17779,7 +17779,7 @@ Si tu tentes de revenir sur ces terres, tu te transformeras en grenouille de Mad
   Mais comme la scène évoquait deux sœurs exécutant un gage, Sōjūrō acquiesça avant de rajouter sur son ton habituel :
 「Le voyeurisme n'est pas un passe-temps très louable, c'est vrai.」
   Il s'isola ensuite dans une salle vide au hasard.
- 「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
+「Qu...... Ce sort est une horreur ! Et quel mauvais goût !
 Tu pourrais faire des efforts pour améliorer ton style ! Tu es vraiment ma petite sœur ?!」
 「Oui. Comme tu peux le constater, je suis ta pitoyable petite sœur. Tu as hérité de tous les talents artistiques. Si tu dois te lamenter sur quelque chose, c'est sur ton propre génie, Tōko.」
   Cris d'agonie et éclats de rire retentirent dans le couloir comme autant de hurlements indiscernables.
@@ -18057,7 +18057,7 @@ C'est un peu étroit pour y enfermer un humain, mais grand-père est plus proche
   Tandis qu'il fixait les jeunes filles, l'éclat qui brillait dans ses yeux montrait clairement qu'il se délectait de la tragédie à venir.
   Ses cheveux et ses yeux verts qui resplendissaient même dans les ténèbres,
   et son apparence, plus proche d'une fille que d'un garçon,
- évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
+évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
 「Beo. Aujourd'hui, tu peux les manger.」
   La voix de Tōko résonna brièvement au loin.
   Le garçon semblait avoir souri discrètement.
@@ -18088,7 +18088,7 @@ C'est un peu étroit pour y enfermer un humain, mais grand-père est plus proche
   Seule Aoko ressentait de la douleur.
   Elle ne sentait plus rien au niveau de son tibia qui avait frappé le bulbe rachidien du garçon, comme s'il avait été coupé par une hache―――
 「Et aussi, tu as un peu hésité. Tu as retenu ton coup car ta jambe vient à peine d'être rattachée, pas vrai ?
-  Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
+Si un humain veut se battre contre moi, il ne doit pas se soucier de ce genre de détail.
   Ah, mais―――」
   Le garçon souriait face à l'étonnement d'Aoko.
   Elle ne pouvait pas baisser sa jambe.
@@ -18103,7 +18103,7 @@ Elle sentait qu'au moment où elle la descendrait au sol, son abdomen serait dé
   Pour une personne normale, l'hémorragie aurait été fatale.
   C'est dans ces moments-là que le Sceau Magique montre toute sa cruauté, songea Aoko comme dans un rêve.
 「Tiens ? Tes yeux ne sont pas encore morts.
-...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
+  ...... Je ne voudrais pas trop te faire souffrir. Être robuste n'est pas forcément une bonne chose, tu sais ?」
   Le garçon envoya sa main vers la poitrine d'Aoko.
   Cette dernière faillit perdre conscience à cause de la douleur provoquée par le pieu―――par le poing du garçon qui s'était planté au beau milieu de sa poitrine.
   ...... Elle volait.
@@ -18200,7 +18200,7 @@ s'il y était confronté une seconde fois, comment parviendrait-il à garder son
   Cette fois-ci, il n'était pas sûr d'avoir subi de vertiges et de nausées.
   Les peurs qui s'étaient accumulées jusque-là,
   et les hésitations qui avaient troublé son esprit s'évanouirent sans laisser la moindre trace sous le coup d'une émotion encore plus forte.
- Elles étaient complètement sorties de son crâne.
+Elles étaient complètement sorties de son crâne.
   ―――Les battements de son cœur lui évoquaient un pieu qui aurait percé sa poitrine.
   C'étaient des pulsations puissantes et primitives qui éveillaient sa conscience.
 「――――――」
@@ -18293,7 +18293,7 @@ Espèce... d'idiot.」
   Sa posture montrait qu'il conservait son sang-froid.
   La patience du petit garçon finit ainsi par atteindre ses limites.
 「...... Je vois. En d'autres termes, tu me sous-estimes parce que je suis un enfant, c'est ça,
- monsieur............?」
+monsieur............?」
   ―――L'heure de la forme humaine était révolue.
   Le corps de l'enfant entama sa transformation au moment où il prononça ces mots chargés de colère.
   Il commença à grandir et sa peau s'enveloppa d'une fourrure aussi tranchante que les crocs d'un démon.
@@ -19264,7 +19264,7 @@ Alors―――」
   Une chose immorale peut devenir justice si on ne connaît pas le concept d'immoralité.
   Or, même la notion de justice était absente dans cette bulle.
   Une seule chose subsistait :
- le fait que cette société était à l'arrêt.
+le fait que cette société était à l'arrêt.
   ...... La tragédie, c'était qu'il y menait une vie heureuse.
   C'était un monde erroné,
       et il y vivait en tant qu'humain tout aussi erroné,
@@ -19287,7 +19287,7 @@ Alors―――」
   Le jeune homme serra la mâchoire jusqu'à en saigner.
   Il savait pertinemment que ces paroles regorgeaient de gentillesse.
 「Oui, j'imagine.
- Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
+Je suis heureux que de tous les moments possibles, tu aies choisi cet instant pour te montrer gentille pour la première fois avec moi.」
   Aoko fixa Sōjūrō d'un œil noir en réponse à ces paroles débordantes de joie.
 「Qu'est-ce que tu insinues ?
   C'est à croire que je ne suis jamais gentille.」
@@ -20485,7 +20485,7 @@ J'ai pour habitude de vérifier le menu au cinéma. Et puis, le poulet rôti a u
 「Bah, puisque tu t'y sens bien, restons positifs.
   Je vais faire un tour en ville, tu veux que je te ramène quelque chose ? Un manga ou un roman, peut-être ?」
 「Non, ça ne m'intéresse pas trop.
- Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
+Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
 「Et voilà qu'il préfère encore de la nourriture à des jouets. Il va falloir que je nous assure un bon service d'approvisionnement.
   ...... Ai-je fait le mauvais choix ? On aurait moins attiré l'attention sur le long terme dans un hôtel avec service de chambre...」
   On entendit un soupir désappointé dans le couloir ; cela allait sans dire, il provenait d'Aozaki Tōko.
@@ -20975,7 +20975,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 「Très bien. Notre marché est donc conclu.
   Tant que tu étoufferas la nouvelle de mon retour au pays, je m'efforcerai de me faire discrète. Et je ne toucherai pas aux familles apparentées aux Aozaki.」
 「Tu m'en vois ravi. Tu n'es pas du genre à détruire sans raison, mais tu préfères tout de même la voie optimale.
-  Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
+Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
   Pendant mon mandat ici, je préférerais éviter les affaires sanglantes, si tu vois ce que je veux dire. Je n'aimerais pas me retrouver avec des problèmes qui pourraient entacher mon évaluation.」
   Il me prend pour un monstre ou quoi ? pensa-t-elle en refoulant son envie de protester.
   Tōko détestait faire des efforts inutiles, mais elle ne comptait pas réduire à néant sa sociabilité pour sa recherche de la voie optimale.

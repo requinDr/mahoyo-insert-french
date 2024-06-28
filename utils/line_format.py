@@ -1,13 +1,15 @@
 import re
 from utils.steam.translate_swap import line_char_length
 
-SPACE = ' '
-JAPANESE_SPACE = '\u3000'
 # real textbox width is 2820, but it makes the right margin too thin compared to the left one
 # approximate left margin is around 144 while right is around 35
 TEXTBOX_LEFT_MARGIN = 144
 TEXTBOX_RIGHT_MARGIN = 35
 SCREEN_WIDTH = 2944 # 1920(screen) / 32,6(cell) * 50 (ig cell width)
+
+SPACE = ' '
+JAPANESE_SPACE = '\u3000'
+RUNES_TAGS = ["[ansz]", "[swel]", "[ingz]"]
 
 # modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
 PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
@@ -25,6 +27,7 @@ def transform_custom_tags(ligne: str, nbStartSpaces: int):
 	# <ra> -> ^nbStartSpaces
 	if re.search(r'<ra>', ligne):
 		ligne = re.sub(r'<ra>', '^' + nbStartSpaces * SPACE, ligne)
+
 	return ligne
 
 def remove_new_ruby(ligne: str):
@@ -45,13 +48,20 @@ def indent(nbStartSpaces: int, ligne: str):
 
 	return SPACE * nbStartSpaces + ligne
 
-def fixLines(ligne: str):
+def fix_lines(ligne: str):
 	# replace by the character used for making seemless lines
 	ligne = ligne.replace('ー', '―')
 	return ligne
 
 PATTERN_KS_TAGS = r'\[.*?\]'
 def remove_ks_tags(ligne: str):
+	# if runes tags are present, change them to steam format [ansz] -> <ansz>
+	hasRunesTags = False
+	if any(tag in ligne for tag in RUNES_TAGS):
+		hasRunesTags = True
+		for tag in RUNES_TAGS:
+			ligne = ligne.replace(tag, f'<{tag[1:-1]}>')
+
 	# ", [r]　" -> ", "
 	if re.search(r'[,\.\?\!A-z] ' + PATTERN_KS_TAGS + JAPANESE_SPACE, ligne):
 		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_KS_TAGS + JAPANESE_SPACE, r'\1 ', ligne)
@@ -70,6 +80,11 @@ def remove_ks_tags(ligne: str):
 	# remove all tags
 	ligne = re.sub(PATTERN_KS_TAGS, '', ligne)
 
+	# if runes tags were present, change them back to ks format <ansz> -> [ansz]
+	if hasRunesTags:
+		for tag in RUNES_TAGS:
+			ligne = ligne.replace(f'<{tag[1:-1]}>', tag)
+
 	return ligne
 
 
@@ -77,7 +92,7 @@ def format_line_to_steam(ligne: str, nbStartSpaces: int):
 	ligne = transform_ruby(ligne)
 	ligne = remove_ks_tags(ligne)
 	ligne = transform_custom_tags(ligne, nbStartSpaces)
-	ligne = fixLines(ligne)
+	ligne = fix_lines(ligne)
 	ligne = ligne.strip()
 	ligne = indent(nbStartSpaces, ligne)
 

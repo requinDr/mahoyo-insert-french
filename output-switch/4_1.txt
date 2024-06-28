@@ -931,7 +931,7 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 [sha:572443e8864a86ace9dd2640dd1a4e6dce073b4a]{
 -- Page 49, Offset 3326.
 -- 表面にはラベルのシールを強引に剥がした跡が見られた。
-  Elle vit sur l'extérieur une trace montrant que l'on avait retiré de force l'étiquette.
+  Elle vit sur l'extérieur une trace montrant que l'on avait retiré de force^l'étiquette.
 
 }
 [sha:ac5eaa85b2cbe88e7cf5b4572558e49024662da3]{

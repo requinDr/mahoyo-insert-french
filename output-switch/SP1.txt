@@ -121,7 +121,7 @@
 [sha:e8528d70e12d60bd6e02e8521437726119d52872]{
 -- Page 6, Offset 20487. Glued. Mods: @x.
 -- あ、帰りにハンバーガー買ってきてくれたら嬉しいな！　あの、パン生地がどっしりしてて、ハンバーグがぎゅっとしたヤツがいい！」
- Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
+Ah, par contre, je serais vachement content si tu m'achetais un hamburger en rentrant ! Je veux celui avec le gros pain et la viande bien cuite !」
 
 }
 [sha:f5b1f9198590b7e345d7425e443dc1e1214bf3ed]{
@@ -3037,7 +3037,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
 [sha:f187c6175a877a485559a6ed289ee3788e4db8d8]{
 -- Page 160, Offset 20977. Glued. Mods: @x.
 -- 勢い、どこぞの工場とかオフィスビルとか秘密基地にしそうでしょう？
-  Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
+Je te vois bien transformer une usine ou des bureaux quelconques en base secrète.
 
 }
 [sha:32a862c30ee5a4b6f71d858ac7d653949df20c33]{
