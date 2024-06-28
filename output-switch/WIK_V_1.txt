@@ -115,7 +115,7 @@
 [sha:3190be3e0335e7702dfb920fb21e72f44a783a03]{
 -- Page 4, Offset 23710. Glued.
 -- 犯人ね静希ーーーー！」
- Shizukiーーーー!」
+ Shizuki――――!」
 
 }
 [sha:415a6f5be50b510fdf50148df0d93abc8a4a400b]{
@@ -127,7 +127,7 @@
 [sha:426dc3f4bd59cb849be6b573f22d79b29e65209a]{
 -- Page 5, Offset 23712.
 -- だっしゃあーーーーーー！
-  Pafーーーーーー!
+  Paf――――――!
 
 }
 [sha:d75bc554a1161d1501fccff448ec96b21804ea35]{

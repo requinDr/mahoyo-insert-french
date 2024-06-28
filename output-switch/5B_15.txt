@@ -931,7 +931,7 @@ Au contraire, il augmenta sa vitesse et fixa l'œuf qui le suivait à la trace.
 [sha:7dc86f5b44c1b339873370398a50a3ddb9d6890c]{
 -- Page 40, Offset 6480.
 -- 「う、ひゃああーーーー！」
-「Uh, hyaaーーーー!」
+「Uh, hyaa――――!」
 
 }
 [sha:12222f8493de296946c63841252d65167761bb51]{

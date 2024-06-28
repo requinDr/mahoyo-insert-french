@@ -1849,13 +1849,13 @@ Je pensais pourtant que cette histoire aurait indigné quelqu'un qui a grandi à
 [sha:37d655282e18b8139f52bda8a39115ac11062553]{
 -- Page 98, Offset 10331.
 -- 『メェーーーデーーーっすよーーーー！
-『Mayyyyyydayyyyーーーー!
+『Mayyyyyydayyyy――――!
 
 }
 [sha:c67d58d670341a14cf6864c514acf9425633fe63]{
 -- Page 98, Offset 10332.
 -- 小僧、今すぐロビーに顔を貸すっスーー！』
-  Gamin, j'ai un truc à te dire dans le vestibule, tout de suiteーー!』
+  Gamin, j'ai un truc à te dire dans le vestibule, tout de suite――!』
 
 }
 [sha:b7c90c3ed85460c79462acb5e4131acc16da155d]{
@@ -2299,7 +2299,7 @@ D'abord... Oui. Écoute les souvenirs d'ma première rencontre avec elle. À cau
 [sha:c4360d70fa2a2cbc238ae4bbbc3ce4d76efd19f7]{
 -- Page 120, Offset 10406.
 -- 『ちょっ、待つッスーーー！　ここからがいいところなのにナンデ去るっスか。スカーレットオハラっすか。激動の主人公気取りっスか！
-『Att... Attendsーーー! On arrive au meilleur moment, alors pourquoi tu pars ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
+『Att... Attends―――! On arrive au meilleur moment, alors pourquoi tu pars ? Tu te prends pour Scarlett O'Hara ? Tu joues l'héroïne tourmentée ?
 
 }
 [sha:f9675f926156922a1a7aba77ab3b0461382c0016]{

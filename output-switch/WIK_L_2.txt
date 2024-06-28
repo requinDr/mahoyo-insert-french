@@ -421,7 +421,7 @@ Attendez un peu, temps mort.」
 [sha:97dd8381b19845f4e84774431cf0061e8aabce58]{
 -- Page 27, Offset 22586.
 -- 『はあ、責任問題になったァ！？　いま特殊部隊が本社ビルの屋上から侵入して来てるですってーー！？』
-『Quoi ? L'entreprise va devoir en endosser la responsabilité ?! Les forces spéciales sont en train de s'introduire sur le toit de l'immeuble de l'entrepriseーー?!』
+『Quoi ? L'entreprise va devoir en endosser la responsabilité ?! Les forces spéciales sont en train de s'introduire sur le toit de l'immeuble de l'entreprise――?!』
 
 }
 [sha:f2c61d95dd577815e1c984d30bc52ae3273e319c]{

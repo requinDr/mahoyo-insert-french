@@ -678,13 +678,13 @@ c'était qu'elle ne se sentait aucunement gênée, alors que normalement, être 
 [sha:6d149f03430305b21de39f064dedf3ce295e023d]{
 -- Page 30, Offset 6636.
 -- 「そりゃあ、こっちが聞きたいわよーーーー！！！！」
-「C'est à moi de poser cette questionーーーー!!!!」
+「C'est à moi de poser cette question――――!!!!」
 
 }
 [sha:f2a17f0796dd69feb53596fd571090e09e0fe2c8]{
 -- Page 30, Offset 6637.
 -- “鳶丸の、大馬鹿野郎ーーーーーーっ！！！！！”
-“Tobimaru, espèce d'idiotーーーーーー!!!!!”
+“Tobimaru, espèce d'idiot――――――!!!!!”
 
 }
 [sha:ac0a120f3d2f9a503aafaf77116e965735e12c36]{

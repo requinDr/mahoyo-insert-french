@@ -463,7 +463,7 @@ Bref, ce truc qui ressemble à un étang est complètement gelé !
 [sha:535019b478b0810e4a6f82b2b95c29d33219e291]{
 -- Page 25, Offset 10511.
 -- 焼却炉の前に来たけりゃ、それ相応の貢ぎ物を持ってきやがれ。具体的に言うと、リヤカー一台分のゴミ袋な」
-  Si tu veux venir devant l'incinérateur, ramène un tribut convenable. Pour être plus précis, un chariotーーavec les sacs poubelles dedans.」
+  Si tu veux venir devant l'incinérateur, ramène un tribut convenable. Pour être plus précis, un chariot――avec les sacs poubelles dedans.」
 
 }
 [sha:c23fdf0e167b370cc6115bf008a92a478440f5c2]{
@@ -739,7 +739,7 @@ Merde, attends un peu, Shizuki ! Je vais tout d'suite aller chiper des patates a
 [sha:5a4bdbe73eb5a5d505822122d1ec6fd4afdb2847]{
 -- Page 38, Offset 10557.
 -- 「あん、一緒に住んでるだぁーー！？」
-「Hein ? Vous vivez ensembleーー?!」
+「Hein ? Vous vivez ensemble――?!」
 
 }
 [sha:0e4e5c5d9f00faf2cc718324ead7f107a85606cf]{

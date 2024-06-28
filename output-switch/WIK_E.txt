@@ -403,7 +403,7 @@ Il souhaitait le célébrer avec moi, alors j'ai fait de cette demeure le lieu d
 [sha:81d05724b88fe9a5068820d74663e7f98061025c]{
 -- Page 22, Offset 21946.
 -- 「そ、そんなバカな理由でコンサートをドタキャンするヤツがいるかーーーー！　音楽の神に謝れ！　ファンをなんだと思ってんのよアンタは!?」
-「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupideーーーー! Excuse-toi auprès du dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
+「Pe... Personne n'annulerait un concert à la dernière minute pour une raison aussi stupide――――! Excuse-toi auprès du dieu de la musique ! Tu te fous de tes fans ou quoi ?!」
 
 }
 [sha:6898675bf521703e9bb1725ac4a34dd7b0f3f1b1]{
@@ -631,6 +631,6 @@ Aoko, où est Tokkii ?」
 [sha:d1cb13adf029fbb8e828ea193d02b0f6e9513b32]{
 -- Page 36, Offset 21984.
 -- 「「「「なんだってーーーーーーー！！！？」」」」
-「「「「Quoiーーーーーーー?!!!!」」」」
+「「「「Quoi―――――――?!!!!」」」」
 
 }

@@ -349,7 +349,7 @@
 [sha:4d96755c242f89e4ce3bb6625feed4cbc13de1d3]{
 -- Page 19, Offset 22213.
 -- 「ちょっ、いきなり<吐血|とけつ>して倒れこんだーーーーー！？」
-「Quoi ? Elle a subitement vomi du sang et s'est effondréeーーーーー?!」
+「Quoi ? Elle a subitement vomi du sang et s'est effondrée―――――?!」
 
 }
 [sha:6bcb51fd0eec5ac60870770ff0e313d3155424c2]{
@@ -481,7 +481,7 @@
 [sha:db99a90bdeb6abf038a2f0531f91025824716b09]{
 -- Page 24, Offset 22235.
 -- 「ほ、芳助ぇぇーーーーえ！？」
-「Ho... HōsukeeeーーーーHein ?!」
+「Ho... Hōsukeee――――Hein ?!」
 
 }
 [sha:d22d13badd4399e8ca6f463574c53785461e8b58]{
@@ -769,7 +769,7 @@ me tuer !」
 [sha:4f4d2caa87775e81d70f6cf7fcd4bd3fbcdc0636]{
 -- Page 36, Offset 22283. Glued. Mods: @x.
 -- あの程度の笑いじゃ、リデルさんは殺せそうにありませんねー」
- On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légèreー」
+ On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légère―」
 
 }
 [sha:80cc5d5311c1219196cd782053a7b89265d5bc94]{

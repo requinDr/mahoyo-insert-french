@@ -373,7 +373,7 @@
 [sha:e189fa806e8fd02611eee3b9f5160d527b8f19ee]{
 -- Page 17, Offset 24013.
 -- 「えぇ、そんなぁー！？　女の子にあるまじきーー！？」
-「Hein, pas possible ?! C'est pas un choix digne d'une filleーー?!」
+「Hein, pas possible ?! C'est pas un choix digne d'une fille――?!」
 
 }
 [sha:64c45cd247d864fee7473173d9c43b67484973b8]{

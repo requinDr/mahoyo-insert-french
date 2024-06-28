@@ -205,7 +205,7 @@
 [sha:51934942ff0e5bc570ffa1bdad0377c3cb794f59]{
 -- Page 12, Offset 22964.
 -- 「なにがーーー！？」
-「Quoi doncーーー?!」
+「Quoi donc―――?!」
 
 }
 [sha:4e4f9a2a3c80b63edc595f273cb252eeb44a5c26]{
@@ -235,7 +235,7 @@
 [sha:fb3362ba9e239e6dbf86081e40b25b3c4c1a42e1]{
 -- Page 13, Offset 22969.
 -- 「え!?　ダ、ダメだってば蒼崎、ひとりになんな―――！」
-「Hein ?! N... Non Aozaki ! Ne t'isole pasーーー!」
+「Hein ?! N... Non Aozaki ! Ne t'isole pas―――!」
 
 }
 [sha:eb5216fea3256f2ab5c49543fe96a41e14cac236]{
@@ -253,7 +253,7 @@
 [sha:7d3a6f98affb4c8c5ba1bee4ffe2640c390f0095]{
 -- Page 15, Offset 22972.
 -- 「壁づたいに戻れって……そもそも屋敷まで戻れないわよ、バカーーー！」
-「Elle me dit de repartir en longeant le mur... Sauf que je ne peux pas revenir au manoir comme ça, imbécileーーー!」
+「Elle me dit de repartir en longeant le mur... Sauf que je ne peux pas revenir au manoir comme ça, imbécile―――!」
 
 }
 [sha:433e3c9dba03017fee323cf9ce02a1b7696a0e1c]{
@@ -271,7 +271,7 @@
 [sha:ca7533eb64f2ac219b74a57e22a0943013ce4264]{
 -- Page 15, Offset 22975.
 -- 「え、なにーーー！？　なにか言ったクマーーーー！？」
-「Hein, quoiーーー?! Tu as dit quelque chose, Kumaーーーー?!」
+「Hein, quoi―――?! Tu as dit quelque chose, Kuma――――?!」
 
 }
 [sha:5e49910c773ea3a9c9ab198617aeb2e7ff19fc23]{
@@ -307,13 +307,13 @@
 [sha:25d06f5b1f89ab46a0339bed27a4ba8a90929e0e]{
 -- Page 17, Offset 22981.
 -- 「し、しまったーーーー！
-「Me... Merdeーーーー!
+「Me... Merde――――!
 
 }
 [sha:52cc936b7bc644334f772ce06166a4865069f6a1]{
 -- Page 17, Offset 22982.
 -- そんなネタで釣られた、クマーーーー！？」
-  Tu t'es fait embobiner par un truc pareil, Kumaーーーー?!」
+  Tu t'es fait embobiner par un truc pareil, Kuma――――?!」
 
 }
 [sha:94e4a5d5821946e80b4bf0eb7ebba5157802d6c4]{

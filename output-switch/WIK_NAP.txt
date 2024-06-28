@@ -1,7 +1,7 @@
 [sha:80d101c65cb30253d8611039187d877d38a9723c]{
 -- Page 0, Offset 22770.
 -- 「はー、疲れたぁ」
-「Ahー, je suis claquée.」
+「Ah―, je suis claquée.」
 
 }
 [sha:5442159e84d6209a42f682f3258a922ab294de6e]{

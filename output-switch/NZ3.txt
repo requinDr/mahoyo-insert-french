@@ -139,7 +139,7 @@
 [sha:2b3681f7d981ec68b839d3828791f7f648c79b4e]{
 -- Page 10, Offset 19959.
 -- さすがアリスさんッスーーー！
-      Ça ne m'étonne pas de vousーーー!
+      Ça ne m'étonne pas de vous―――!
 
 }
 [sha:fc65cba65b81ac05ebc78c333e8b4de752b4574a]{
@@ -409,7 +409,7 @@ Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
 [sha:d99bf8746635e24133fba60b8331978a70933667]{
 -- Page 35, Offset 20004.
 -- おおーーー！？
-    Ooohーーー?!
+    Oooh―――?!
 
 }
 [sha:6a0f988ba06bebe2c49c27d6fba647eea2525831]{
@@ -421,7 +421,7 @@ Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
 [sha:1f5b1aa4d4e32396c88e829e66b0f069ee4687cc]{
 -- Page 36, Offset 20006.
 -- あやーーー！！
-Ayaaaーーー!! Sans observateur, la face
+Ayaaa―――!! Sans observateur, la face
 
 }
 [sha:978b8c0384ca1769656904bff96e51fa0b42d14a]{
@@ -445,7 +445,7 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:14b64de0138db01d71e94ab0400af705111cbf44]{
 -- Page 37, Offset 20010.
 -- アイツら、人間にもなれるッスかーーー！？
-        Ils peuvent se transformer en humainsーーー?!
+        Ils peuvent se transformer en humains―――?!
 
 }
 [sha:00b0d3c41b7c5f244a48d95a7f259029ae5935e0]{

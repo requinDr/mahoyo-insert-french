@@ -691,7 +691,7 @@ Ils discutaient avec ferveur et passion de la façon la plus agréable de profit
 [sha:a616f6ca022327611d01bd4770e488fe6a4d1eec]{
 -- Page 37, Offset 3703.
 -- 「ちょ、ありえねーーーーーーー！！！！？」
-「Hein ? Impossibleーーーーーーー?!!!!」
+「Hein ? Impossible―――――――?!!!!」
 
 }
 [sha:0b796886e9eab9b89a7dc55c979003db04f65429]{
@@ -1261,7 +1261,7 @@ Et sinon ? Le club de natation ? Tu penses t'en sortir ?」
 [sha:6a28fcb5bda7a363850a0309132d9abc67ef7563]{
 -- Page 63, Offset 3798. Glued.
 -- なんでよーーー！？」
- Pourquoiーーー?!」
+ Pourquoi―――?!」
 
 }
 [sha:bea1e88b940bd33b3a444a6d571958c8d2b82c54]{
