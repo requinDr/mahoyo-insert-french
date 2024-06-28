@@ -9,7 +9,7 @@ SCREEN_WIDTH = 2944 # 1920(screen) / 32,6(cell) * 50 (ig cell width)
 
 SPACE = ' '
 JAPANESE_SPACE = '\u3000'
-RUNES_TAGS = ["[ansz]", "[swel]", "[ingz]"]
+RUNES_TAGS = ["[ansz]", "[eywz]", "[swel]", "[ingz]"]
 
 # modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
 PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
