@@ -169,7 +169,7 @@
 [sha:dd2cb15a31cf2e74dbf3fb2ab7bfa1bcf548b630]{
 -- Page 8, Offset 23326. Glued. Mods: @x.
 -- そりゃあおまえさん、親にも教師にも頼らず、六年間ひとりで戦ってきたヤツには敬意を<表|ひょう>すだろ？」
- C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
+C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te battre tout seul pendant six ans sans jamais compter sur ses parents ou sur les profs.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

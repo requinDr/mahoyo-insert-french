@@ -679,7 +679,7 @@ Je suis secouée, mais intérieurement, je suis toujours calme. Plus que deux se
 [sha:04adab0bc957f3e47ae95678c80ec571aa1bab16]{
 -- Page 33, Offset 5255. Mods: @i, @r.
 -- “<知性は不必要でした|インテルレクトゥス・ノン・ネケススァリウス・エストゥ>。<敬虔さは重荷でした|ピウス・クウィエスカトゥ>。<ああ、私たち|オ・ノストゥラ><の本質は奪い合いで|エススェンティア・アブラタ・フイトゥ>、<理性は全て後付けでした|ラティオ・フィクサァ・タントゥム・エストゥ>。<苦しみのも|ドロリス・イニティウム><とは、脳髄でした|ケレブルム・フイトゥ>”
-“<L'intelligence est inutile.|Intellectum non necessitas> <Être pieux est inutile.|Et pius non necessitas> <Aah, notre nature était de lutter,|Ô nostrum esentia auferati eramus> <et notre raison venait en dernier.|ratio figur tantum est> <Mon cerveau est l'origine de ma souffrance.|Doloris initium encephalon>”
+“<L'intelligence est inutile.|Intellectum non necessitas> <Être pieux est inutile.|Et pius non necessitas>^<Aah, notre nature était de lutter,|Ô nostrum esentia auferati eramus> <et notre raison venait en dernier.|ratio figur tantum est>^<Mon cerveau est l'origine de ma souffrance.|Doloris initium encephalon>”
 
 }
 [sha:dd1b5dd68a4ee36498adf9b32f7da083bc7bbbee]{

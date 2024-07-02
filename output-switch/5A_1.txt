@@ -235,7 +235,7 @@
 [sha:27dd4256e0d3d9504b554855361c8bc5531f76ae]{
 -- Page 14, Offset 3958.
 -- “完璧だ。遊園地に必要なものはすべてつぎこんだ”
-“C'est parfait. On y a mis tout ce qui est nécessaire à un bon parc d'attractions.”
+“C'est parfait. On y a mis tout ce qui est nécessaire à un bon parc^d'attractions.”
 
 }
 [sha:31b8a552054afbfc59d23303444dfe7c65c74292]{

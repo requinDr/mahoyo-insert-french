@@ -451,7 +451,7 @@ soit elle n'avait tout simplement pas prévu une contre-attaque aussi rapide et 
 [sha:72746d626365c63e12572435345c8a22a5f1cb84]{
 -- Page 23, Offset 16862.
 -- 青子は『鏡』のバックアップを受けつつ、橙子を奇襲する算段だった。
-  pendant qu'Aoko attaquait Tōko par surprise avec le soutien du “miroir”.
+  pendant qu'Aoko attaquait Tōko par surprise avec le soutien du^“miroir”.
 
 }
 [sha:b4bc606e97b36aa81255c0faa4cf54ce6d91a755]{

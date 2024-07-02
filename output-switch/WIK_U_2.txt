@@ -43,7 +43,7 @@
 [sha:484a4fa2be7a518345e7ffd9113a9617c481d0d8]{
 -- Page 2, Offset 23656.
 -- “誰なら殺せるのか”を考えろ、と。
-mais “qui avait eu la possibilité de tuer qui”.
+  mais “qui avait eu la possibilité de tuer qui”.
 
 }
 [sha:a14df7e154a8e47dacb93dfd53f2a7fca35f872c]{

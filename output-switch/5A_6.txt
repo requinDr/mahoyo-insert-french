@@ -103,7 +103,7 @@
 [sha:403dcb0ffb2dd45560f3028f2e25c69453626b58]{
 -- Page 3, Offset 4945.
 -- 質問にきちんと答えてくれるのはありがたいが、聞けば聞くほど聴き慣れない単語が出てくるのは困りものだ。
-  Il était reconnaissant qu'elle réponde sans détour à ses questions, mais plus il écoutait, plus il entendait un vocabulaire qui lui était inconnu, et ça l'incommodait.
+  Il était reconnaissant qu'elle réponde sans détour à ses questions, mais plus il écoutait, plus il entendait un vocabulaire qui lui était inconnu, et ça^l'incommodait.
 
 }
 [sha:debf24e92207ea08762c03f3d6d319c370be2e0c]{
@@ -235,7 +235,7 @@
 [sha:94940fff675c14db820648ff2d84fa92369c59c9]{
 -- Page 11, Offset 4967.
 -- その彼女の攻撃で青子は背中を負傷し、一旦逃走。
-  Aoko avait été blessée au dos par son attaque, et pour le moment, ils s'enfuyaient.
+  Aoko avait été blessée au dos par son attaque, et pour le moment, ils^s'enfuyaient.
 
 }
 [sha:98e82bbee90f28b467c3d405e57e5ac45bc4cb90]{

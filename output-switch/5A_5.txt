@@ -373,7 +373,7 @@ C'est impossible. Il doit y avoir une autre raison―――”
 [sha:2e9bfa75e0fda00600ddf90ecb92be9cad663a76]{
 -- Page 17, Offset 4890.
 -- 一秒の差で青子の<魔弾|スナップ>は人形の<凶|う><器|で>に直撃し、その軌道をズラしながら敵本体に炸裂する。
-  En l'espace d'une seconde, le Snap d'Aoko frappa directement le bras de la marionnette et en dévia la trajectoire, puis explosa sur le corps de l'ennemi.
+  En l'espace d'une seconde, le Snap d'Aoko frappa directement le bras de la marionnette et en dévia la trajectoire, puis explosa sur le corps de^l'ennemi.
 
 }
 [sha:604bde34ba1109c9fb1debb17d25eb74377a256e]{

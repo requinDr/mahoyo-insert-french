@@ -141,7 +141,7 @@ SYSMES_CONF_400,操作説明を表示します,Description des contr&les.,显示
 SYSMES_MENU_000,セーブします,Sauvegardes.,存档,保存
 SYSMES_MENU_001,ロードします,Charger.,读档,載入
 SYSMES_MENU_002,環境設定を行います,Acc=der aux param$tres.,设置环境,設定遊戲環境
-SYSMES_MENU_003,ボイス鑑賞を行います,[couter les voix.,欣赏语音,鑑賞遊戲語音
+SYSMES_MENU_003,ボイス鑑賞を行います,Wcouter les voix.,欣赏语音,鑑賞遊戲語音
 SYSMES_MENU_004,システムデータをセーブします,Sauvegarder les donn=es.,保存系统数据,保存系統資料
 SYSMES_MENU_005,タイトルに戻ります,Retourner au menu titre.,返回标题界面,返回標題畫面
 SYSMES_MENU_006,メニューを閉じます,Fermer le menu.,关闭菜单,關閉選單
@@ -149,8 +149,8 @@ SYSMES_MENU_007,選択画面に戻ります,Retour # l'=cran de s=lection.,返�
 SYSMES_MENU_008,終了します,Quitter.,结束游戏,結束遊戲
 SYSMES_MODE_000,前のシーン、選択肢までジャンプします,Revenir au choix pr=c=dent.,跳转至上一个场景、选项,跳至上一個場景的選項
 SYSMES_MODE_001,次のシーン、選択肢までジャンプします,Aller au choix suivant.,跳转至下一个场景、选项,跳至下一個場景的選項
-SYSMES_MODE_002,押している間、早戻しします,Gardez appuy= pour revenir en arri$re. Rel]chez pour arr_ter.,按下时会快退,按住時倒轉
-SYSMES_MODE_003,押している間、早送りします,Gardez appuy= pour avancer. Rel]chez pour arr_ter.,按下时会快进,按住時快轉
+SYSMES_MODE_002,押している間、早戻しします,Gardez appuy= pour revenir en arri$re. RelXchez pour arr_ter.,按下时会快退,按住時倒轉
+SYSMES_MODE_003,押している間、早送りします,Gardez appuy= pour avancer. RelXchez pour arr_ter.,按下时会快进,按住時快轉
 SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/d=sactiver le d=ffilement auto.,打开、关闭自动模式,開啟或關閉自動模式
 SYSMES_MODE_005,クイックセーブを行います,Sauvegarde rapide.,进行快速存档,進行快速保存
 SYSMES_MODE_006,クイックロードを行います,Charger une sauvegarde rapide.,进行快速读档,進行快速載入
@@ -189,7 +189,7 @@ SYSMES_SAVE_029,システムデータのロードに成功しました,System da
 SYSMES_SAVE_030,ファイルが壊れています,Le fichier est corrompu.,文件已损坏,檔案已損壞
 SYSMES_SAVE_031,データが破損しているので、上書きします,Cette donn=e est corrompue,^elles va _tre =cras=e.,由于数据已损坏，因此将进行覆盖,資料已損毀，即將覆蓋資料
 SYSMES_SAVE_032,空き容量が不足しています,M=moire insuffisante.,剩余容量不足,可用空間不足
-SYSMES_SAVE_033,フォーマットを実行しますか？,[x=cuter le formattage ?,是否执行格式化？,是否要格式化？
+SYSMES_SAVE_033,フォーマットを実行しますか？,Wx=cuter le formattage ?,是否执行格式化？,是否要格式化？
 SYSMES_SAVE_034,データ無し,Aucune donn=e,无数据,沒有資料
 SYSMES_SAVE_035,セーブデータを作成します,Cr=er une sauvegarde.,生成存档数据,製作保存資料
 SYSMES_SAVE_036,セーブデータのバージョンが異なります,Save data is a different version.,存档数据版本不同。,保存資料的版本不符
@@ -201,8 +201,8 @@ SYSMES_TITLE_003,環境設定を行います,Configure system settings.,设置�
 SYSMES_TITLE_004,鑑賞モードに入ります,Ouvrir la galerie.,进入欣赏模式,進入鑑賞模式
 SYSMES_TITLE_005,ＣＧを鑑賞します,Voir les images.,观赏CG,鑑賞CG
 SYSMES_TITLE_006,書庫を鑑賞します,Consulter les archives.,鉴赏档案,鑑賞資料庫
-SYSMES_TITLE_007,音楽を鑑賞します,[couter les musiques.,欣赏音乐,鑑賞音樂
-SYSMES_TITLE_008,ボイスを鑑賞します,[couter les voix.,欣赏语音,鑑賞語音
+SYSMES_TITLE_007,音楽を鑑賞します,Wcouter les musiques.,欣赏音乐,鑑賞音樂
+SYSMES_TITLE_008,ボイスを鑑賞します,Wcouter les voix.,欣赏语音,鑑賞語音
 SYSMES_TITLE_009,タイトルへ戻ります,Revenir au menu titre.,返回标题界面,返回標題畫面
 SYSMES_TITLE_010,追加シナリオをプレイします,Play extra scenarios.,观看追加剧情,遊玩追加劇情
 SYSMES_COMM_000,キャンセルしますか？,Annuler ?,是否取消？,是否要取消？
@@ -231,7 +231,7 @@ SYSMES_ARCHIVE_010,それが何か？,Et alors ?,那是什么？,那是什麼？
 SYSMES_ARCHIVE_011,都会の流儀,Style urbain,都市的做法,都市的做事方式
 SYSMES_ARCHIVE_012,夜の出来事,The Incident in the Night,夜晚的事,發生在夜晚的事
 SYSMES_ARCHIVE_013,夜の少女たち,Les filles de nuit,夜之少女们,夜色中的少女們
-SYSMES_ARCHIVE_014,らしくないとか言われても,So What If It's Uncharacteristic?,即使这不像我的风格,即使不合作風
+SYSMES_ARCHIVE_014,らしくないとか言われても,So Éhat If It's Uncharacteristic?,即使这不像我的风格,即使不合作風
 SYSMES_ARCHIVE_015,密やかな覚悟,D=termination secr$te,暗下决心,暗自下定決心
 SYSMES_ARCHIVE_016,夜は招く,Appels nocturnes,夜晚的邀请,夜之邀約
 SYSMES_ARCHIVE_017,魔法使いの夜１,La nuit des sorci$res 1,魔法使之夜1,魔法使之夜1

@@ -169,7 +169,7 @@
 [sha:fe4e3b0404667911117c71362473ffb3a5927405]{
 -- Page 5, Offset 22846. Glued. Mods: @x, @n.
 -- とても名前を口に
- une autre à
+une autre à
 
 }
 [sha:d1275cdebf3bc6f650f3ae8d006cfd12914420ca]{

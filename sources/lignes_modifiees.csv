@@ -100,6 +100,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 3698,"「Même si elle est élève dans une autre école, je ne pense pas que le fait de se trouver devant le portail...... soit un problème...... mais......」",,「他校の生徒でも、校門前にいるぐらいなら……別に問題はないと思う……けど……」
 3793,,0,
 3833,"「Eh bien, plutôt que fatiguée, tu as l'air pleine de vie. Comme un loup qui était contraint de labourer un champ jusqu'à présent, et qui est excité de pouvoir enfin retourner à la chasse.」",,「そうだな、疲れているというより生き生きしているように見える。仕方なく畑をたがやしていた狼が、久しぶりに狩りにでる事になって気炎をあげている感じだ」
+3959,“C'est parfait. On y a mis tout ce qui est nécessaire à un bon parc<r>d'attractions.”,,Pour forcer le retour à la ligne
 4018,"Je pense d'ailleurs que j'y suis allée un peu fort, mais comme tu mettais du temps à arriver, j'en ai profité pour m'amuser un peu.”",,自分でもやりすぎだって呆れたもんだけど、貴方が遊園地に来るのが遅かったから。ちょっと興に乗っちゃって”
 4166,"“<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>",,“Vivo in somno. Solitarie putresco in inferis.
 4167,"<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et celui de ma naissance. Je viens à ta rencontre.>”",,"@oHic dies meus obitus dies, et meus nativus dies. Te obeam.”"
@@ -122,6 +123,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 4801,"「Je t'ai déjà dit que je le savais, non ?」",,「分かってるって言ってるでしょ」
 4851,la “fille” rétractait son bras allongé grâce à un mécanisme inconnu.,,どのような機巧か、“彼女”は伸びきった腕を収納していく。
 4865,,0,
+4891,"En l'espace d'une seconde, le Snap d'Aoko frappa directement le bras de la marionnette et en dévia la trajectoire, puis explosa sur le corps de<r>l'ennemi.",,Pour forcer le retour à la ligne
 4902,"“<Vivo in somno. Solitarie putresco in inferis|Je vis dans le sommeil. Je pourris, seule sous terre.>.",,“Vivo in somno. Solitarie putresco in inferis.
 4903,"<Hic dies meus obitus dies, et meus nativus dies. Te obeam.|Aujourd'hui est l'anniversaire de ma mort et de ma naissance. Je viens à ta rencontre.>”",,"@oHic dies meus obitus dies, et meus nativus dies. Te obeam.”"
 4909,"“<Mea anima immortalis. Autem mea futura necata sunt|Je suis immortelle, mais mon futur a été annihilé.>.",center,“Mea anima immortalis. Autem mea futura necata sunt.
@@ -132,18 +134,21 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 4926,"<Venite domum meam. Luto simile somnium|Bienvenue chez moi. Que ta mort soit horrible,>,",center,"sumus. Venite domum meam. Luto simile somnium,"
 4927,"<et pulveri simile cotidianum. Cor privo.|deviens poussière et murmure. Perce le cœur qui a quitté cette poitrine,>”",center,et pulveri simile cotidianum. Cor privo.”
 4928,“<JE T'APPORTE LA MORT.|Te iudico.>”,center,“「オマエニ、死ヲ」”
+4946,"Il était reconnaissant qu'elle réponde sans détour à ses questions, mais plus il écoutait, plus il entendait un vocabulaire qui lui était inconnu, et ça<r>l'incommodait.",,Pour forcer le retour à la ligne
 4954,"「Euh, pourquoi tu m'emmènes avec toi ?」",,「なんで俺を連れていってるんだ？」
+4968,"Aoko avait été blessée au dos par son attaque, et pour le moment, ils<r>s'enfuyaient.",,Pour forcer le retour à la ligne
 4981,"Si elle avait été au niveau de sa colocataire, ce brouillage aurait rebondi au moment même où le bras l'avait touché, et aurait au contraire brûlé le Circuit adverse.",,彼女の同居人レベルなら、あんなジャミングはそれこそ腕が触れた時点で弾き、接触しようとした相手の回路を逆に焼き切ってしまうだろう。
 5047,"“<Nemo meum funus meminit, qui doluit exstinctus est|Plus personne ne se rappelle de mon enterrement. Les proches endeuillés ont aussi disparu.>.",,"@o“Nemo meum funus meminit, qui doluit exstinctus est."
 5048,"<Initio erraveramus. Dum vivimus dolores sunt|Depuis le départ, nous nous trompions. C'est douloureux de vivre.>.",,Initio erraveramus. Dum vivimus dolores sunt.
 5049,"<Nemo adiuvat|Par pitié, que quelqu'un me sauve.>.”",,Nemo adiuvat.”
+5051,"「...... C'est pas le moment de discuter. Pour l'instant, reprenons de<r>l'avan―――",,Pour forcer le retour à la ligne
 5052,,0,
 5151,“Vivo in somno. Solitarie putresco in inferis.,,“Vivo in somno. Solitarie putresco in inferis.
 5152,"Hic dies meus obitus dies, et meus nativus dies. Te obeam.”",,"@oHic dies meus obitus dies, et meus nativus dies. Te obeam.”"
 5211,“Mea anima immortalis. Autem mea futura necata sunt.,,“Mea anima immortalis. Autem mea futura necata sunt.
 5212,Manes sum. Animam definire ambiguum est.”,,Manes sum. Animam definire ambiguum est.”
 5228,Aoko avait parié qu'elle pourrait lui faire face si ce n'était qu'une machine à tuer capable d'un nombre d'actions précis dans une situation donnée.,,この距離ならこの攻撃、といったテンプレートを行うだけの殺戮機巧なら対応できると、青子は己の運に賭けたのだ。
-5256,"“<L'intelligence est inutile.|Intellectum non necessitas> <Être pieux est inutile.|Et pius non necessitas> <Aah, notre nature était de lutter,|Ô nostrum esentia auferati eramus> <et notre raison venait en dernier.|ratio figur tantum est> <Mon cerveau est l'origine de ma souffrance.|Doloris initium encephalon>”",,
+5256,"“<L'intelligence est inutile.|Intellectum non necessitas> <Être pieux est inutile.|Et pius non necessitas><r><Aah, notre nature était de lutter,|Ô nostrum esentia auferati eramus> <et notre raison venait en dernier.|ratio figur tantum est><r><Mon cerveau est l'origine de ma souffrance.|Doloris initium encephalon>”",,
 5260,“<Donnez-nous le pardon.|Iis salvitio> <Donnez-nous le pardon.|Iis salvitio> <Donnez-nous le pardon.|Iis salvitio>”,,
 5267,"“<Intellectus non necessarius est. Pius quiescat|Renonce à ta droiture, dis adieu à ta piété.>.",,“Intellectus non necessarius est. Pius quiescat.
 5268,"<O nostra essentia ablata fuit,|Nous sommes des bêtes, nous nous entre-dévorons, cette vie n'est que décoration.>",,"O nostra essentia ablata fuit,"
@@ -408,6 +413,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 16478,"Me voilà gêné. Les mots ne suffisent pas à expliquer ce genre de chose...... Enfin, je ne réponds pas au titre de prêtre pour rien. Je vais me faire porte-parole et changer d'angle d'attaque.",,まいりましたね。こういう事は言葉を尽くすほど実感が湧かないものですが……ま、私も神父と呼ばれる身です。少し切り口を変えて代弁してみましょう。
 16522,"―――Cependant, elle a rejeté ma proposition sans hésitation.",,―――しかしまぁ、躊躇なくフられました。
 16741,"Pour lui, la notion de bien et de mal se basait simplement sur “l'attirance” et “le dégoût”.",,彼にとっての良し悪しの基準は、単純に「格好いい」か「格好悪い」か。
+16742,"Les passe-temps, l'apparence ou le sexe de la personne avaient peu<r>d'importance.",,Pour forcer le retour à la ligne
+16768,"「Eh bien, si cette idée stupide a pu germer dans son esprit, c'est<r>que―――」",,Pour forcer le retour à la ligne
+16863,pendant qu'Aoko attaquait Tōko par surprise avec le soutien du<r>“miroir”.,,Pour forcer le retour à la ligne
 16925,「<[swel]|Sow>―――」,,
 16934,「<[swel]|Sowilo>―――!」,,
 16953,C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.,,
@@ -573,62 +581,111 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20978,,0,
 21076,"Ritsuka fait du boycott et les élèves font de moins en moins de bénévolat...... Au bout du compte, je suis la seule à travailler.」",,律架もサボタージュ、奉仕の生徒さんたちも日に日に減っていく一方……結局、労働力は私ひとりだけなのですね」
 21214,...... Ils n'aiment pas un ingrédient juste parce qu'il sera bon pour le corps. Les hommes mangent en suivant le concept du plaisir. Voilà pourquoi ce qu'on aime évoque la douceur.」,,"……自分の体に合っているからその食材を好む、ではないんだよ。ヒトは ""楽しい"" か ""楽しくない"" かで食事をとる。好きなものが甘く見えるのはその為だ」"
-21344,,1,
-21345,"Hōsuke, et également,",1,芳助と、
+21344,,0,
+21345,"Hōsuke, et également,",0,芳助と、
 21494,"Je ne vois pas la source de la détonation, mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」",,爆発もとは見あたらないけど……ユリヒコ、爆弾で遊ぶ性癖があったとか？　まあ、芸術家らしいけど」
 21515,"Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes télécommandées ou à retardement, on peut mettre à profit le délai avant l'explosion. Les deux types de bombes offrent de nombreuses manières de se créer un alibi.」",,爆発物を使う利点は……そうだな、起爆までのタイムラグを利用した時間操作と、遠隔操作があげられる。どちらも不在証明作りには有利だな」
+21556,,0,
 21588,"Ta supposition me semble plutôt juste, pourtant.」",,今の憶測に間違いはないと思うけど？」
+21647,,2,
 21759,「Spur !,,「スキー跡！
 21760,"Le nom de cette pension, ça serait pas Spur, Alice ?!」",,そのペンションの名前、スキー跡とか言わない有珠！？」
 21783,"En pensant qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.",,二年以上ここから学校に通っていた蒼崎のタフさに、今更ながら感心するような、呆れるような。
+21906,,0,
 21953,"『Hahaha, j'reconnais bien là notre Riddell. La soudaineté de tes éruptions émotionnelles est toujours aussi intense ! T'es pas embarrassée de dire des choses comme “regardez la vraie moi” ? Non, tu l'es pas, hein ? Trop fort ! Je l'savais ! Riddell, le métier de star te convient mieux que celui de Mage !』",,『ハハハ、さすがリデルさん、感情のオンオフ激しいっスね！　ホントのアタシを見てー、とか、メルヘン全開で恥ずかしくないッスか？　恥ずかしくないんスよね。スゲー、やっぱリデルさん、魔術師よりアイドル向けッス！』
+22015,,0,
+22128,,0,
+22132,,0,
+22135,,0,
 22176,"Dans ce cas, le visage prouverait que le corps n'est pas celui du vieil homme. Le coupable aurait voulu à tout prix cacher les traits du cadavre. Toutefois, brûler le visage jusqu'à le rendre méconnaissable donnerait un indice sur la falsification d'identité.」",,その場合、顔があってはあの死体が土桔氏でない事は明白です。犯人はなんとしても顔を隠したい。しかし、だからといって顔を焼いては、その行為そのものが証拠になります」
+22213,,0,
+22248,,0,
 22267,「,,「
 22268,Qu...,,だ、
 22269,Qui,1,誰がっ、
-22270,traites-tu de,1,三下、
-22271,menu fretiiin !」,1,だっつーのっっっっ！」
+22270,traites-tu de,0,三下、
+22271,menu fretiiin !」,0,だっつーのっっっっ！」
 22273,「,,「
 22274,Ne me sous-estimez...,,舐めんじゃ、
-22275,pas !,1,ないわよ！
-22276,Ggh,,ぐっ、
+22275,pas !,0,ないわよ！
+22276,Ggh...,1,ぐっ、
 22277,"Ce n'est pas un petit arrêt cardiaque,",,心臓止まったぐらいで、
-22278,gh,,うぐぅ、
+22278,"gh,",,うぐぅ、
 22279,"uuh,",,死んで、
-22280,qui...,,死んで
+22280,qui...,1,死んで
 22281,qui va,,たまるもん、
-22282,me tuer !」,,かっ！」
+22282,me tuer !」,1,かっ！」
+22284,,0,
+22297,,0,
 22387,"「Hum. J'étais dans le manoir la majeure partie du temps, mais comme j'étais occupé avec les préparatifs, je n'ai pas vraiment eu le temps de parler avec tout le monde.",,「うーん。ほとんど屋敷にいたんだけど、パーティーの準備が忙しくてあまりみんなと話していないな。
-22388,Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.,,誰かさんと誰かさんが手伝ってくれないから。
+22388,Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.,0,誰かさんと誰かさんが手伝ってくれないから。
 22414,「..................」,,「………………」
 22421,"Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.",,ただし、七時からは全員が集まっていたので、実際には四時から七時までの時間だろう。
 22452,"Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」",,んー、まあ、それはそれとして、プロイを知っている、って条件ならもう一人、とびきり不自然な娘もいるんだけど。それは誰かが指摘するでしょう」
 22698,,1,
+22788,,0,
 22839,,1,
+22789,,0,
+22790,,0,
+22791,,0,
+22792,,0,
+22793,,0,
 22840,,1,
 22841,,1,
 22842,,1,
 22844,,1,
 22845,,1,
 22846,,1,
-22847,,1,
+22847,,0,
 22848,,1,
 22970,「Hein ?! N... Non Aozaki ! Ne t'isole pasーーー!」,,「え!?　ダ、ダメだってば蒼崎、ひとりになんな―――！」
 22985,Aozaki s'écroula au sol et ne bougea plus d'un pouce.,,蒼崎はそのまま地面に倒れ、ぴくりとも動かない。
 23028,"Les chambres d'ami sont reliées à un circuit électrique auxiliaire, alors j'espère que l'électricité y marche encore.」",,客室の配線は別系統だから、まだ電源が生きていればいいけど」
 23178,「Hum ? On ne peut pas avoir confiance en Kuonji non plus.,,「ん？　久遠寺は信用できねえだろ。
+23182,,0,
+23200,,0,
+23211,,0,
 23229,Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.,,蒼崎の忠告を、山城先生はどこまで真剣に受けとめているのだろう。
+23233,,0,
 23247,「Sōjūrō a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.,,「草十郎が声をかけたんでしょ。アイツ、今日はみんなを喜ばせる、とかはりきってたから。
 23286,"On peut considérer que tout le monde est suspect au niveau de l'heure des meurtres, mais ce sens de l'humour se limite à un nombre restreint de personnes. Ma foi, on peut sûrement exclure Sōjūrō, Beo et Kinomi sur ce point-là.」",,殺害可能時間は平等にあっても、そのセンスだけは限られる。この点で言えば、まあ、草十郎やらベオやら木乃美やらは除外される」
+23327,,0,
 23439,Il avait fait semblant de dormir pour me rassurer et était resté éveillé.,,眠ったフリをして、わたしを安心させて、寝ずの番をしていてくれたのだ。
-23593,"「Monsieur Yamashiro, auriez-vous veillé toute la nuit ?」",,「山城先生、徹夜明けですか？」
+23490,,0,
+23498,,0,
+23509,,2,
+23555,,1,
+23556,,1,
+23557,,1,
+23561,,1,
+23563,t,,
+23564,er,,
+23565,ne,,
+23566,l.,,
+23569,,0,
+23592,,0,
+23593,"「Monsieur Yamashiro, vous avez passé une nuit blanche ou quoi ?」",,「山城先生、徹夜明けですか？」
+23598,,0,
 23640,,1,
 23641,,1,
 23642,,0,
 23644,,1,
 23646,,1,
+23657,,2,
 23710,"「C'est toi le coupable,",,「アンタが
 23711,Shizukiーーーー!」,,犯人ね静希ーーーー！」
+23769,,0,
+23772,,0,
+23773,,0,
+23774,,0,
+23775,,0,
+23788,,0,
+23895,,0,
+23935,,1,
+23936,,1,
+23937,,0,
+23939,,1,
+23941,,1,
 24016,Je songeai à une sorte de mauvais présage.,,それは何か、不吉な兆しなのでは、と思った。
 24017,Je songeai que laisser ouvert n'était pas très prudent.,,鍵はいつも開けっ放しなのか、と思った。
 24018,Je songeai que j'aurais pu aisément venir seule.,,これならひとりでも入れるな、と思った。

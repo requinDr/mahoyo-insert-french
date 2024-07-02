@@ -403,7 +403,7 @@
 [sha:30f6cbbef47ba109493e5ab705aa2ea94ae6e8e8]{
 -- Page 20, Offset 16741.
 -- 趣味嗜好、外見性別は問わない。
-  Les passe-temps, l'apparence ou le sexe de la personne avaient peu d'importance.
+  Les passe-temps, l'apparence ou le sexe de la personne avaient peu^d'importance.
 
 }
 [sha:947f39cb6b8ad6ebbff1b227d3b2bf2403084a58]{
@@ -559,7 +559,7 @@
 [sha:2327c06f3046932ab204d30d23dd04f7b4baa334]{
 -- Page 26, Offset 16767.
 -- 「だから、そんなバカな考えが成立するぐらい―――」
-「Eh bien, si cette idée stupide a pu germer dans son esprit, c'est que―――」
+「Eh bien, si cette idée stupide a pu germer dans son esprit, c'est^que―――」
 
 }
 [sha:a2ba1c4c9eb417dca9c993721f559cdb3a87b841]{

@@ -157,7 +157,7 @@
 [sha:dd47fb97ddb219f60e9f783e4149b40e0e72729f]{
 -- Page 8, Offset 21905. Glued. Mods: @x.
 -- 外野がいちいち口はさんでんじゃないわよ」
- Et puis, mêle-toi de ce qui te regarde !」
+Et puis, mêle-toi de ce qui te regarde !」
 
 }
 [sha:f161e03a7b15c49eada9c65c024e4f59c69c8877]{

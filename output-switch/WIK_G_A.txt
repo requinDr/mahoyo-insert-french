@@ -343,7 +343,7 @@
 [sha:b9b1a45d8485a4439ffa7fe343c0bc44f2948255]{
 -- Page 18, Offset 22212. Glued. Mods: @x.
 -- ぐはっ！？」
- Kof ?!」
+Kof ?!」
 
 }
 [sha:4d96755c242f89e4ce3bb6625feed4cbc13de1d3]{
@@ -553,7 +553,7 @@
 [sha:cac02e86b0b15a4d4d815c98dea4ad04ed2cdd09]{
 -- Page 27, Offset 22247. Glued. Mods: @x.
 -- それに、唯架さん」
- D'ailleurs, Yuika...」
+D'ailleurs, Yuika...」
 
 }
 [sha:948300215ac6b5f7c9aa7b89841dc0ddfb8062a5]{
@@ -685,13 +685,13 @@ Qu...
 [sha:36466d5bae98d32e3b46a9c46b0726ba4e96e442]{
 -- Page 35, Offset 22269. Glued. Mods: @x, @k, @e.
 -- 三下、
- traites-tu de
+traites-tu de
 
 }
 [sha:8fd512b660821a067b7b4d7d88e4bfbc402086b7]{
 -- Page 35, Offset 22270. Glued. Mods: @x.
 -- だっつーのっっっっ！」
- menu fretiiin !」
+menu fretiiin !」
 
 }
 [sha:47563ceaf4a5b9165bca7528c5c0612d721df464]{
@@ -715,13 +715,13 @@ Ne me sous-estimez...
 [sha:8ec85717d57716e4ef177c2d23103b59f2aca461]{
 -- Page 36, Offset 22274. Glued. Mods: @x, @n.
 -- ないわよ！
- pas !
+pas !
 
 }
 [sha:d170721314ce607ac98a6891c63af40d5ce0cfb5]{
 -- Page 36, Offset 22275. Glued.
 -- ぐっ、
-Ggh
+ Ggh...
 
 }
 [sha:8f138d90febb05aa256074d51e0c57059b83c4c7]{
@@ -733,7 +733,7 @@ Ce n'est pas un petit arrêt cardiaque,
 [sha:725e1163e1381740b4a52c865fe899c1a3b84725]{
 -- Page 36, Offset 22277. Glued. Mods: @x.
 -- うぐぅ、
-gh
+gh,
 
 }
 [sha:4e16c16572037141d2ebceae8efab1225db3bc7a]{
@@ -745,7 +745,7 @@ uuh,
 [sha:d25c865f79ab0bd602f9a96cea16cccf219f731b]{
 -- Page 36, Offset 22279. Glued. Mods: @k, @e.
 -- 死んで
-qui...
+ qui...
 
 }
 [sha:1ffec2404bfb5f9d5cc49ff278ca467f0af33319]{
@@ -757,7 +757,7 @@ qui va
 [sha:34304c8e521c8e014115bda35e58f6d0a990321b]{
 -- Page 36, Offset 22281. Glued.
 -- かっ！」
-me tuer !」
+ me tuer !」
 
 }
 [sha:230f1ffa996aa1825b00d4fd0ef708bf87ebc4ef]{
@@ -769,7 +769,7 @@ me tuer !」
 [sha:4f4d2caa87775e81d70f6cf7fcd4bd3fbcdc0636]{
 -- Page 36, Offset 22283. Glued. Mods: @x.
 -- あの程度の笑いじゃ、リデルさんは殺せそうにありませんねー」
- On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légère―」
+On dirait que Riddell ne peut pas être tuée par une plaisanterie aussi légère―」
 
 }
 [sha:80cc5d5311c1219196cd782053a7b89265d5bc94]{
@@ -847,7 +847,7 @@ me tuer !」
 [sha:896a5fb3af53c359f5d9e47054f3cbcca31e94ba]{
 -- Page 40, Offset 22296. Glued. Mods: @x.
 -- 芳助とか紙吹雪になって死体もないのよ？　笑ったら死ぬとか、なんだっていうのよコレ？　もしかしてわたし、とっくに夢見ちゃってる？」
-  Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
+Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est quoi cette histoire de rire synonyme de mort ? Peut-être que je rêve depuis le début en fait ?」
 
 }
 [sha:cfe3137bd1f9450d440dbe41fa949e9f5293962d]{

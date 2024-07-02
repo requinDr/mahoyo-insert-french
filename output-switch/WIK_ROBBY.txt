@@ -115,7 +115,7 @@
 [sha:9ecdaafd99b211a46c088949e44b25f52ac6a60c]{
 -- Page 6, Offset 23232. Glued. Mods: @x.
 -- 大丈夫、おかしなものを見てもスルーすれば害はないから」
- Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
+Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y aura pas de conséquence.」
 
 }
 [sha:d4dcc08bf2689df55221b922b8594556284be8c8]{

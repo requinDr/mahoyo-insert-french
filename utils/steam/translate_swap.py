@@ -24,7 +24,7 @@ char_swap_dict: dict[str, str] = {
   # 'À' : None,
   # 'Ç' : None # might be necessary
   # 'È' : None, # max column is 42
-    'É' : '[',
+    'É' : 'W',
   # 'Œ' : 'Oe',
   # 'Â' : None, # might be necessary
   # 'Ê' : None,
@@ -33,7 +33,7 @@ char_swap_dict: dict[str, str] = {
     'è' : '$',
     'ù' : '+',
     'é' : '=',
-    'â' : ']',
+    'â' : 'X',
     'ê' : '_',
     'î' : '`',
     'ô' : '&',
