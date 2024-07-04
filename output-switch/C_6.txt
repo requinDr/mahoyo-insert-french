@@ -301,7 +301,7 @@ Cette douleur, cette situation, tout n'est que mensonge.
 [sha:c89b50a4c6121d339c7efa3cdd461273f719742e]{
 -- Page 10, Offset 18436. Mods: @c, @r, @c, @r.
 -- 故に／
-  Si cela se trouvait／
+  Si cela se trouvait/
 
 }
 [sha:ef2376f9bfa57d352cb7c39128abe2c1f3811b1a]{
@@ -313,7 +313,7 @@ il n'avait peut-être
 [sha:feab96676b223b2568ea599f52b49a1499d6a8e9]{
 -- Page 10, Offset 18438. Mods: @c, @r, @c, @r.
 -- ／生きていない。／
-／jamais été／
+/jamais été/
 
 }
 [sha:2c84cbe9ba11373eac54088da4f4a317f633fc1d]{

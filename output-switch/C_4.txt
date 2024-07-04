@@ -409,7 +409,7 @@ s'il y était confronté une seconde fois, comment parviendrait-il à garder son
 [sha:ed7401253bd1a224ecfacfde2eeb2c5334b4dc01]{
 -- Page 15, Offset 18202. Glued. Mods: @x.
 -- 完全に、<頭蓋|ずがい>の外にはじき出された。
-Elles étaient complètement sorties de son crâne.
+ Elles étaient complètement sorties de son crâne.
 
 }
 [sha:9084d2787ebd0e80b9802e3afe116f903631d0bd]{

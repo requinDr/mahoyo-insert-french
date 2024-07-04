@@ -421,7 +421,7 @@ Espèce... d'idiot.」
 [sha:d409f70742fd25ac304e7d2ebf5b64902ad252b5]{
 -- Page 20, Offset 18275.
 -- 余裕に満ちてはいるが、苛立ちに急かされた声。
-  Il était toujours aussi suffisant, mais sa voix tremblait sous le coup de l'irritation.
+  Il était toujours aussi suffisant, mais sa voix tremblait sous le coup de^l'irritation.
 
 }
 [sha:cb31f8b8678878155cdbe4fef8a2c15643b238d3]{

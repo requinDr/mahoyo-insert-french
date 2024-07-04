@@ -439,7 +439,7 @@
 [sha:bc49a5743116ebfdf7fb7fffb7cc04f2e3cc33e1]{
 -- Page 19, Offset 18081.
 -- あの人形を破壊したのと同等の手応え。
-  La résistance était similaire à celle qu'elle avait ressentie en détruisant l'Automate.
+  La résistance était similaire à celle qu'elle avait ressentie en détruisant^l'Automate.
 
 }
 [sha:a4a27d52fa7dd6f55e16648438c7023f27cc9b4d]{

@@ -565,7 +565,7 @@ C'est tout ce que tu possèdes.
 [sha:a2ece23f982661ded938f1e81412a40a9fe0a932]{
 -- Page 21, Offset 17112. Mods: @c, @n.
 -- ／何も望まない。
-                  ／Je ne souhaite rien.
+                  /Je ne souhaite rien.
 
 }
 [sha:ab39b3c3a4c00081ce56d9ba7eb2157c613f3868]{
@@ -583,7 +583,7 @@ C'est tout ce que tu possèdes.
 [sha:45c3bcad1f60ada0c8849ee11fda73668ad2ccbb]{
 -- Page 21, Offset 17115. Mods: @c, @n.
 -- ／だから、
-                ／Voilà pourquoi
+                /Voilà pourquoi
 
 }
 [sha:7ae318af1cfcec62b2a37c1fad03efc4aeb8d10a]{
@@ -841,7 +841,7 @@ C'est tout ce que tu possèdes.
 [sha:d00d2cdef105d1543e69463f20c71f8df78cfd22]{
 -- Page 31, Offset 17158.
 -- けれどそんなもの、彼女には／ワタシには関係ない。
-  Mais tout cela n'avait aucune importance pour elle／moi.
+  Mais tout cela n'avait aucune importance pour elle/moi.
 
 }
 [sha:3902c4c0e1ba35cc99155bb0743e2d40e7c2579f]{

@@ -991,7 +991,7 @@ Un atout n'en est véritablement un que lorsqu'il est le fruit de nos capacités
 [sha:21616afe76aa42c90f53d2f31e8a6fd7ee3f9653]{
 -- Page 46, Offset 16952.
 -- それは魔術刻印を動員した、<四小節の大魔術|フォース・トゥ・フォース>。
-  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation du Sceau Magique.
+  C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation^du Sceau Magique.
 
 }
 [sha:8e6087de78676d109136714a9f2f9e841d1bf697]{

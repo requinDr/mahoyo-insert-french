@@ -128,7 +128,17 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 	return last_found_idx
 
 
+def post_process(script_fr: list[str]):
+	for i, ligne in enumerate(script_fr):
+		ligne = ligne.replace('ー', '―')
+		ligne = ligne.replace('／', '/')
+		script_fr[i] = ligne
+
+	return script_fr
+
+
 def generate_updated_translation():
+	global script_fr_mem
 	total_lignes = len(script_fr_mem)
 	last_found_idx: int = 0
 	
@@ -148,16 +158,15 @@ def generate_updated_translation():
 			
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
-	
-	# print("\r")
-
-	write_file_lines(conf.generated_translation, script_fr_mem)
 
 	if conf.creer_csv:
 		csv.create(conf.csv_output, csv_missing)
 		print(f"Lignes non trouvées : {len(csv_missing)} ({len(csv_missing) / total_lignes * 100:.2f}%)")
 		print(f"Fichier CSV créé")
-	
+
+	script_fr_mem = post_process(script_fr_mem)
+	write_file_lines(conf.generated_translation, script_fr_mem)
+
 	return script_fr_mem
 
 

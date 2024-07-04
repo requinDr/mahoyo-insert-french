@@ -307,7 +307,7 @@
 [sha:89053020417ff0ed82a57db5510bc5886ceba33f]{
 -- Page 15, Offset 18739.
 -- 青子のぼやきに、草十郎はもう一度、ああ、と嬉しげに頷いた。
-  “C'est vrai”, dit Sōjūrō sur un ton réjoui, en réponse au grommellement d'Aoko.
+  “C'est vrai”, dit Sōjūrō sur un ton réjoui, en réponse au grommellement^d'Aoko.
 
 }
 [sha:86a21bae307b43fe6f175baeefd35e574371d5cd]{

@@ -91,7 +91,7 @@
 [sha:e4347b80fb6d4ccebab2aa4cee5a851257c55d19]{
 -- Page 3, Offset 17189.
 -- 変わったのはこの花園と、あの―――
-  Les différences se résumaient à l'apparition du jardin de fleurs et―――
+  Les différences se résumaient à l'apparition du jardin de fleurs^et―――
 
 }
 [sha:dda7090cbda4081efea09cd84cdefb47c3899aaa]{
@@ -301,7 +301,7 @@
 [sha:e67e9a2ad1e38de29a1b8d2b36a27751dae7ba30]{
 -- Page 11, Offset 17224.
 -- あきらかに血流の速度を上回っているし、なにより―――
-  Elle dépassait clairement celle de la circulation sanguine, et surtout―――
+  Elle dépassait clairement celle de la circulation sanguine, et^surtout―――
 
 }
 [sha:c39290679a143670b14fb0c28ea95f9ab03b3130]{

@@ -48,11 +48,6 @@ def indent(nbStartSpaces: int, ligne: str):
 
 	return SPACE * nbStartSpaces + ligne
 
-def fix_lines(ligne: str):
-	# replace by the character used for making seemless lines
-	ligne = ligne.replace('ー', '―')
-	return ligne
-
 PATTERN_KS_TAGS = r'\[.*?\]'
 def remove_ks_tags(ligne: str):
 	# if runes tags are present, change them to steam format [ansz] -> <ansz>
@@ -92,7 +87,6 @@ def format_line_to_steam(ligne: str, nbStartSpaces: int):
 	ligne = transform_ruby(ligne)
 	ligne = remove_ks_tags(ligne)
 	ligne = transform_custom_tags(ligne, nbStartSpaces)
-	ligne = fix_lines(ligne)
 	ligne = ligne.strip()
 	ligne = indent(nbStartSpaces, ligne)
 
