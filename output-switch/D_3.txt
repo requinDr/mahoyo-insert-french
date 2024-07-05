@@ -199,7 +199,7 @@ Selon lui, la voie menant à Dieu pouvait être supprimée maintenant que la Vra
 [sha:56def54e2decfe50f7cc3a3cb14b6ad1269af369]{
 -- Page 10, Offset 19007.
 -- 「だから。そういう人たちは、中で神さまにでもなっちゃったんじゃない？」
-「C'est simple. Ces personnes-là ont dû devenir des dieux une fois à l'intérieur.」
+「C'est simple. Ces personnes-là ont dû devenir des dieux une fois à^l'intérieur.」
 
 }
 [sha:3bef392d27e17153245aa5294037dae771e34483]{

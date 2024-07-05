@@ -181,7 +181,7 @@
 [sha:53eb1e0c112fe517f96ce4deda4a8c71bf911569]{
 -- Page 13, Offset 20301.
 -- 初代の頃から伝わってきた、三つの奇跡。
-      enfin, depuis l'époque du fondateur, quoi.
+enfin, depuis l'époque du fondateur, quoi.
 
 }
 [sha:993b8fb6161518fdd48fb103144afc402b433b5a]{

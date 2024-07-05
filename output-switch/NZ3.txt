@@ -13,19 +13,19 @@
 [sha:0c58dd503c904f6d736808add0eeae299a489266]{
 -- Page 1, Offset 19938.
 -- アリスさん、なんスかそれ？
-      Mam'zelle Alice, c'est quoi ça ?
+    Mam'zelle Alice, c'est quoi ça ?
 
 }
 [sha:368170eb6e52e4e1617dfbaaf963cc04fc642fc6]{
 -- Page 1, Offset 19939.
 -- なんか、見たこともない金色のお皿ッスね。
-      Je n'avais jamais vu cette drôle d'assiette dorée.
+    Je n'avais jamais vu cette drôle d'assiette dorée.
 
 }
 [sha:cfd4d7d4034e172d8e67b7328160286fd57183d9]{
 -- Page 2, Offset 19940.
 -- たいしたことはないわ。
-          Ce n'est pas grand-chose.
+      Ce n'est pas grand-chose.
 
 }
 [sha:eed7d90f73158dbd890fba2fba4267982293339a]{
@@ -49,13 +49,13 @@
 [sha:b3de3c68b96803d3a379d13f0b92fb08f814df65]{
 -- Page 4, Offset 19944.
 -- 鮮血のトリコロール。フランスの国旗みたいッスね。
-  Trois couleurs ensanglantées. Comme l'drapeau national d'la France, quoi.
+Trois couleurs ensanglantées. Comme l'drapeau national d'la France, quoi.
 
 }
 [sha:cd826b31d7f7ecd437a0855539ca803b0ab5ceb5]{
 -- Page 4, Offset 19945.
 -- ジブン、経済的な理由で玉子とイカとイナリしか頼めないッス。
-  Pour des raisons financières, je ne prendrai que de l'inarizushi, et des sushis à l'omelette et à la seiche.
+Pour des raisons financières, je ne prendrai que de l'inarizushi, et des sushis à l'omelette et à la seiche.
 
 }
 [sha:74fffdfcee15ce1e110f664cd9e0074910b40293]{
@@ -133,19 +133,19 @@
 [sha:0d0d4d0c6de906c5c0dc78ea10abfb44b95d7b9e]{
 -- Page 10, Offset 19958.
 -- はじめからマグロしか眼中にないとか、
-      Depuis le début, vous n'avez d'yeux que pour le thon.
+Depuis le début, vous n'avez d'yeux que pour le thon.
 
 }
 [sha:2b3681f7d981ec68b839d3828791f7f648c79b4e]{
 -- Page 10, Offset 19959.
 -- さすがアリスさんッスーーー！
-      Ça ne m'étonne pas de vous―――!
+Ça ne m'étonne pas de vous―――!
 
 }
 [sha:fc65cba65b81ac05ebc78c333e8b4de752b4574a]{
 -- Page 10, Offset 19960.
 -- 久遠寺財閥の娘は伊達じゃないッスね！
-      La fille du conglomérat Kuonji ne se prive de rien !
+La fille du conglomérat Kuonji ne se prive de rien !
 
 }
 [sha:11b7b9423a15cb23625b82a2ce658f24cda98c9d]{
@@ -247,31 +247,31 @@
 [sha:1c0bdd72c516fb9e49cbd3ddb17cb80c8d6ae8af]{
 -- Page 18, Offset 19977.
 -- ……にしても、あのシャバ僧、小金持ちッスね。
-   ...... Mais tout de même, c't idiot est plutôt friqué, dis donc.
+...... Mais tout de même, c't idiot est plutôt friqué, dis donc.
 
 }
 [sha:b00c63947d96f66c9564ae78a258d2df2af9248d]{
 -- Page 18, Offset 19978.
 -- ずっしり来るッスよ、この財布。
-   Il m'a l'air bien lourd, c'portefeuille.
+Il m'a l'air bien lourd, c'portefeuille.
 
 }
 [sha:c060364b54482a26ce2c026a2a5423969e0c7207]{
 -- Page 19, Offset 19979.
 -- うなる札束ね。
-        Il roule sur les liasses de billets.
+  Il roule sur les liasses de billets.
 
 }
 [sha:c6d156dd8ce5e1ba50bccbdea854897644d0673b]{
 -- Page 19, Offset 19980.
 -- ドキドキするわ。
-        J'en suis toute chamboulée.
+  J'en suis toute chamboulée.
 
 }
 [sha:7738523a15c0befa097cf8a0ef1acbf5c1ada4be]{
 -- Page 20, Offset 19981.
 -- ……赤身がこないわね。
-        ...... L'akami n'est toujours pas passé.
+...... L'akami n'est toujours pas passé.
 
 }
 [sha:919d71d211a5d8c48cff33c88a968986d77f48f4]{
@@ -325,7 +325,7 @@
 [sha:4c371812818033bcc4e76c2663ff2bb8efa66658]{
 -- Page 24, Offset 19990.
 -- アリスさん、お皿取らないッスか？
-      Mam'zelle Alice, vous n'prenez pas d'assiette ?
+  Mam'zelle Alice, vous n'prenez pas d'assiette ?
 
 }
 [sha:c81f1f188e9a37f330b9fd061ea93ac9bf062ce7]{
@@ -349,7 +349,7 @@
 [sha:38ed8b24031605a90cf54da31c995e49956c6a0e]{
 -- Page 27, Offset 19994.
 -- ありがとうございまーす！
-                Merci beaucoup !
+            Merci beaucoup !
 
 }
 [sha:900475cbae4434d81944f9979b275bb80fed30f5]{
@@ -373,7 +373,7 @@
 [sha:1c45dc0d5e381c2e0701050f16d88e01e404c60e]{
 -- Page 30, Offset 19998.
 -- 説明するよ！
-                On va expliquer !
+            On va expliquer !
 
 }
 [sha:07c4c2b7cea0c6feb535eaa509ff590353ba4c94]{
@@ -397,7 +397,7 @@ Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
 [sha:13dc9c3675379ef1cd735f31af67081e253c0bc7]{
 -- Page 34, Offset 20002.
 -- ほ乳類から鳥類まで完全網羅の高級プロイ！
-    Des Ploy de haut niveau capables de se changer en mammifères ou en oiseaux !
+    Des Ploy de haut niveau capables de se^    changer en mammifères ou en oiseaux !
 
 }
 [sha:a30a033992d5050f442b3d135289217adc97052e]{
@@ -415,7 +415,7 @@ Nous sommes les Six Forces fantomatiques en grâce auprès de notre maîtresse !
 [sha:6a0f988ba06bebe2c49c27d6fba647eea2525831]{
 -- Page 35, Offset 20005.
 -- まったく真っ暗どっちらけ、これじゃあゲームもできやしない！
-    On est dans le noir complet ! On ne va pas pouvoir jouer !
+    On est dans le noir complet ! On ne va^    pas pouvoir jouer !
 
 }
 [sha:1f5b1aa4d4e32396c88e829e66b0f069ee4687cc]{
@@ -499,7 +499,7 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:b9f09524b6678a41948d117c1fdb0ea7ab3dc92c]{
 -- Page 41, Offset 20019.
 -- 普通の魔術が効きやすいのが欠点よ。
-      sur eux, ce qui les rend vulnérables à la Magie normale.
+      sur eux, ce qui les rend vulnérables à la Magie^      normale.
 
 }
 [sha:389aa2ef8027ff32d6dc82d41c545f8cc2e56cd0]{
@@ -559,13 +559,13 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:d3aeb55fc03deb799b29a3d63ba5fbaf63f0ad37]{
 -- Page 46, Offset 20029.
 -- 夜の饗宴が、お皿に乗ってやってきたわね。
-      Le Banquet de la nuit est arrivé sur une assiette.
+    Le Banquet de la nuit est arrivé^    sur une assiette.
 
 }
 [sha:ab2845fe9a77d7dce7749e9f7f9b83db8ae4ae0e]{
 -- Page 47, Offset 20030.
 -- おなじみの『ディドルディドル』ッスね。
-      C'est notre bon vieux “Diddle Diddle”.
+C'est notre bon vieux “Diddle Diddle”.
 
 }
 [sha:d9d005c57c604764cb9e22dd749aca27a972f772]{
@@ -577,25 +577,25 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:d461bcc4cb8ec2240813a0addc256398f6631761]{
 -- Page 48, Offset 20032.
 -- それだけ有名というコトよ。
-      Ça montre à quel point il est célèbre.
+  Ça montre à quel point il est^  célèbre.
 
 }
 [sha:82a3520810cb74530d258e50584b06f01b54ec98]{
 -- Page 49, Offset 20033.
 -- 『ヘイ、ディドル、ディドル。
-          『Diguedon, don don
+        『Diguedon, don don
 
 }
 [sha:706232d610fd7f9be6f07561c239ad8ccaa719f7]{
 -- Page 49, Offset 20034.
 -- 猫とヴァイオリン。
-              Le chat et le violon
+        Le chat et le violon
 
 }
 [sha:43fb81206a853892ff1d5f9cd674847720a3c9eb]{
 -- Page 49, Offset 20035.
 -- 牛が月を飛び越えた。
-            La vache par-dessus la lune à saute-mouton
+        La vache par-dessus la lune à saute-mouton
 
 }
 [sha:01cabab8e135c8426d069596290a5de1e8e46368]{
@@ -607,7 +607,7 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:cffe151d9e8d569f593e7d5dd48697f35c5b52c5]{
 -- Page 49, Offset 20037.
 -- そしてお皿はスプーンと逃げた。』
-        Et le plat avec la cuillère s'est enfui.』
+      Et le plat avec la cuillère s'est enfui.』
 
 }
 [sha:b5db29daa6117de464141de1a04ef08685b66a72]{
@@ -619,7 +619,7 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:f07dd28b054c00e7cc69dacfc266b6611dd47f46]{
 -- Page 50, Offset 20039.
 -- 真夜中、猫がヴァイオリンをひいて、
-      dépeint un chat jouant du violon à minuit, une vache qui saute par-dessus la lune,
+      dépeint un chat jouant du violon à minuit, une vache^      qui saute par-dessus la lune,
 
 }
 [sha:e5e50d4b4fd4435ac161b04b502410170a79f183]{
@@ -637,19 +637,19 @@ pas fini que le jaune d'œuf aura déjà tourné !
 [sha:49752e7d84a4e4727699435751be945087607a42]{
 -- Page 51, Offset 20042.
 -- 一説ではギリシャ・エジプトの神話を元にした……
-        Selon une théorie, on dit qu'elle se base sur une légende grecque ou égyptienne.
+  Selon une théorie, on dit qu'elle se base sur une légende grecque ou égyptienne.
 
 }
 [sha:88d98b9fe67cd689f0df996e75834ac711480984]{
 -- Page 51, Offset 20043.
 -- とも言われているわ。星の運営を表しているのなら、
-        Si ça fait référence aux constellations, alors
+  Si ça fait référence aux constellations, alors
 
 }
 [sha:3a4855f241a47ec0c89d7e8be255833bb2f7b8ba]{
 -- Page 51, Offset 20044.
 -- 牛は<牡牛座|タウルス>のもじりでしょう。
-        alors la vache doit être une parodie du taureau.
+  alors la vache doit être une parodie du taureau.
 
 }
 [sha:7b362482e6fc8f1659b5da58b8db4fd3ac2a5b4d]{
@@ -805,7 +805,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:ce6ee75a1266c286959a1a4eab31aff12b111297]{
 -- Page 62, Offset 20070.
 -- 長いこと壊れていたらしいわ。
-  doté d'un monde parallèle, mais il est resté endommagé pendant un certain temps.
+  doté d'un monde parallèle, mais il est resté^  endommagé pendant un certain temps.
 
 }
 [sha:c9a0b21f548564b3ff077c65a47c06e2be781907]{
@@ -835,25 +835,25 @@ sorts de contes de fées, prend un sens concret.
 [sha:eda6463eda4f2f8ff9ec890719d46ca37ea23023]{
 -- Page 65, Offset 20075.
 -- 魔女はその生で一つ、至高のプロイを遺さないとい^けない決まりがあるから。
-      Une règle stipule qu'une sorcière doit créer un Ploy suprême de son vivant.
+      Une règle stipule qu'une sorcière doit créer^      un Ploy suprême de son vivant.
 
 }
 [sha:502aa1d67c4d2a9de5beccf799cdcffd19a25994]{
 -- Page 66, Offset 20076.
 -- 「彼女はこの鏡を作り直して、
-          Selon Tōko, elle voulait sûrement reconstruire
+    Selon Tōko, elle voulait sûrement reconstruire
 
 }
 [sha:c47fbb82cdb220450eaedb4d94fc2c585f306636]{
 -- Page 66, Offset 20077.
 -- 自分の最高傑作にしたかったのよ、きっと」
-          ce miroir pour en faire son chef-d'œuvre
+    ce miroir pour en faire son chef-d'œuvre
 
 }
 [sha:f07971453fe5dd238e90df4bcfa683b6b36f1b58]{
 -- Page 66, Offset 20078.
 -- そう橙子さんは言っていたけど、どうだか。
-          ultime. Cela dit, je ne sais trop quoi en penser.
+    ultime. Cela dit, je ne sais trop quoi en penser.
 
 }
 [sha:84c2708d74998af4ab1743c5f8a3d66abd962917]{
@@ -865,7 +865,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:ce1150ee11b707f03ad3afcbacd0ab997041ec4b]{
 -- Page 67, Offset 20080.
 -- その上にコマを置くとそこが「名無しの森」になるの。
-  sur le Miroir de la sieste et en posant le pion dessus, cet endroit devient la “Forêt sans nom”.
+  sur le Miroir de la sieste et en posant le pion dessus, cet^  endroit devient la “Forêt sans nom”.
 
 }
 [sha:5066c229064357c1ffc7132c018e3eb2725231e3]{
@@ -889,7 +889,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:3b6e4e52294beed666666a3916481ac53c4351f4]{
 -- Page 69, Offset 20084.
 -- 空気読まないヤツには通用しないってコトッスね。
-    Ça n'a pas d'effet sur les durs de la comprenette, si je saisis bien.
+  Ça n'a pas d'effet sur les durs de la^  comprenette, si je saisis bien.
 
 }
 [sha:51aba11b107f4789644163dbdb6039e18e356357]{
@@ -913,19 +913,19 @@ sorts de contes de fées, prend un sens concret.
 [sha:1f7f54b75804394544af8b48be0586eb5ab37049]{
 -- Page 71, Offset 20088.
 -- 気を取り直して、次のプロイは―――
-      Reprenons. Le Ploy suivant est―――
+      Reprenons. Le Ploy suivant^      est―――
 
 }
 [sha:82524bb31aa68fb488ef8b2018d95bfc4f032a92]{
 -- Page 72, Offset 20089.
 -- ヤフー！
-          Yahou !
+        Yahou !
 
 }
 [sha:3d8b3b81e9c69a71412ae42ba7596738a6e68719]{
 -- Page 72, Offset 20090.
 -- ジブンでも食べられる玉子ッスー！
-          Un œuf que même moi, j'peux manger !
+        Un œuf que même moi,^        j'peux manger !
 
 }
 [sha:6ef51f3f295794cdf353852648c751a43aa7031d]{
@@ -1057,7 +1057,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:39e0dce27d364627acd4c7e8a1935126039cc3fc]{
 -- Page 84, Offset 20112.
 -- 兵士たちでも卵を下ろすコトはできなかった。
-  de le déloger, mais ils ne purent atteindre l'œuf haut perché.
+  de le déloger, mais ils ne purent atteindre l'œuf^  haut perché.
 
 }
 [sha:549dbaf9e470a9b7335d59ae23dc82bcd4b64b8e]{
@@ -1153,7 +1153,7 @@ Il ne fait que causer des ennuis aux autres.
 [sha:8eff2d69265a70653bdf1ef63b53f733f9e8bbb3]{
 -- Page 91, Offset 20128. Mods: @k, @e.
 -- 今夜は品切れのようね。
-    Les stocks sont épuisés pour ce soir.
+    Les stocks sont épuisés pour^    ce soir.
 
 }
 [sha:c83c8504e7b003cd4c4886f743ddb9609785db5e]{

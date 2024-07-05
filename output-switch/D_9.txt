@@ -103,7 +103,7 @@ et je décidai finalement de refermer le grimoire.
 [sha:62a94d41649211d525556ae4e60b87ac56170376]{
 -- Page 6, Offset 19647.
 -- ここの蔵書量なら本棚の中に混ぜたほうが見付ける可能性は低いのだけど、ここは彼女の微笑ましい努力をくんで見なかった事にしよう。
-  En considérant la formidable collection de cette bibliothèque, les chances de le retrouver auraient été plus minces en le mêlant aux livres des étagères, mais je préférai respecter ses efforts charmants et feindre l'ignorance.
+  En considérant la formidable collection de cette bibliothèque, les chances de le retrouver auraient été plus minces en le mêlant aux livres des étagères, mais je préférai respecter ses efforts charmants et feindre^l'ignorance.
 
 }
 [sha:16802937366dc2db60d0b40075eb774118cf1100]{

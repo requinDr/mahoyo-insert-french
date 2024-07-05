@@ -361,7 +361,7 @@
 [sha:feaac9882453b66137ac57db8a67006c6ae71c71]{
 -- Page 18, Offset 19134. Glued. Mods: @x.
 -- なぜあんな事が出来たのか、そもそも、彼は山でどんな生活をしていたのか。
-Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait-il menée à la montagne ?
+ Alors, comment avait-il été capable d'un tel exploit ? Quel genre de vie avait-il menée à la montagne ?
 
 }
 [sha:8b1db82fe62508c518b842e51a94f1c4b59c46b7]{

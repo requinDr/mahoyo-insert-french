@@ -1057,7 +1057,7 @@ Je suis heureux que de tous les moments possibles, tu aies choisi cet instant po
 [sha:dc8d252e021db24aad3f95976947c2bf93c4414d]{
 -- Page 48, Offset 19355.
 -- 扉を開ければ、これからの事を見つめる事になるのだろう。
-  alors ses pensées se porteraient probablement vers le futur lorsqu'elle l'ouvrirait.
+  alors ses pensées se porteraient probablement vers le futur lorsqu'elle^l'ouvrirait.
 
 }
 [sha:b1160f75efab6970e2b8e6b5254e767199237c62]{

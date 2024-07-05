@@ -154,9 +154,9 @@ SYSMES_MODE_003,押している間、早送りします,Gardez appuy= pour avanc
 SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/d=sactiver le d=ffilement auto.,打开、关闭自动模式,開啟或關閉自動模式
 SYSMES_MODE_005,クイックセーブを行います,Sauvegarde rapide.,进行快速存档,進行快速保存
 SYSMES_MODE_006,クイックロードを行います,Charger une sauvegarde rapide.,进行快速读档,進行快速載入
-SYSMES_MODE_007,ボイスを再生します,Listen to voice recording.,播放语音,播放語音
+SYSMES_MODE_007,ボイスを再生します,Wcouter cet audio.,播放语音,播放語音
 SYSMES_MODE_008,バックログを開きます,Ouvrir l'historique.,打开回顾前文,開啟履歷
-SYSMES_SAVE_000,セーブしますか？,Enregistrer cette sauvegarde ?,是否存档？,是否要保存？
+SYSMES_SAVE_000,セーブしますか？,Enregistrer # cet emplacement ?,是否存档？,是否要保存？
 SYSMES_SAVE_001,ロードしますか？,Charger cette sauvegarde ?,是否读档？,是否要載入？
 SYSMES_SAVE_002,上書きしますか？,Remplacer cette sauvegarde ?,是否覆盖？,是否要覆蓋？
 SYSMES_SAVE_003,コピーしますか？,Copier cette sauvegarde ?,是否复制？,是否要複製？
@@ -207,8 +207,8 @@ SYSMES_TITLE_009,タイトルへ戻ります,Revenir au menu titre.,返回标题
 SYSMES_TITLE_010,追加シナリオをプレイします,Play extra scenarios.,观看追加剧情,遊玩追加劇情
 SYSMES_COMM_000,キャンセルしますか？,Annuler ?,是否取消？,是否要取消？
 SYSMES_COMM_001,タイトルに戻りますか？,Revenir au menu titre ?,是否返回标题界面？,是否要返回標題畫面？
-SYSMES_COMM_002,クイックロードしますか？,Do you want to perform^a quick load?,是否快速读档？,是否要快速載入？
-SYSMES_COMM_003,クイックジャンプしますか？,Do you want to perform a quick jump?,是否快速跳过？,是否要快速跳轉？
+SYSMES_COMM_002,クイックロードしますか？,Faire une sauvegarde rapide ?,是否快速读档？,是否要快速載入？
+SYSMES_COMM_003,クイックジャンプしますか？,Faire un saut rapide ?,是否快速跳过？,是否要快速跳轉？
 SYSMES_COMM_004,次のシーン、選択肢まで進みますか？,Se rendre au prochain choix ?,是否前进至下一个场景、选项？,是否要跳至下一個場景的選項？
 SYSMES_COMM_005,前のシーン、選択肢まで戻りますか？,Revenir au choix pr=c=dent ?,是否返回至上一个场景、选项？,是否要返回上一個場景的選項？
 SYSMES_COMM_006,書庫の選択画面に戻りますか？,Revenir sur l'=cran de s=lection^des archives ?,是否返回档案选择屏幕？,是否要返回資料庫選擇畫面？
