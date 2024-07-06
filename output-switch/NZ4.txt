@@ -1,19 +1,19 @@
 [sha:609fa3aa9a77384a1e6791575cc8f71fc30610c5]{
 -- Page 0, Offset 20132.
 -- おーす、今日もワンワン働いているッスかシャバ僧。
-        Yo ! Tu travailles toujours comme un chien, l'idiot ?
+  Yo ! Tu travailles toujours comme un chien, l'idiot ?
 
 }
 [sha:7c93ac6e16838926bcb4e0ff005d894907e2c151]{
 -- Page 0, Offset 20133.
 -- これで鳥の餌を一ダースくれ。
-        Donne-moi une douzaine de portions pour oiseau.
+  Donne-moi une douzaine de portions pour oiseau.
 
 }
 [sha:49a426d90f9c837c7a620ef999eeb31dff4bd698]{
 -- Page 0, Offset 20134.
 -- ヒエかムギの一番いいところを頼む。
-        Ton meilleur millet ou ton meilleur blé.
+  Ton meilleur millet ou ton meilleur blé.
 
 }
 [sha:5832b22e3284a3da20c1957bc6af194f17f9e9f1]{
@@ -25,7 +25,7 @@
 [sha:70ed4d37d4b762d710c69c1038484a03f419b523]{
 -- Page 1, Offset 20136.
 -- 昼間から買い物なんて、いい身分ねロビン。
-    Tu fais les courses la journée ? Je t'envie, Robin.
+    Tu fais les courses la journée ?^    Je t'envie, Robin.
 
 }
 [sha:49aff8449cbbcbc0bc641204223c54be1de04157]{
@@ -127,13 +127,13 @@
 [sha:b33bf21c7e6a8ba77d6a753b8cf19c2c5c46e567]{
 -- Page 7, Offset 20153.
 -- じゃあ右端から順にいくッスか。
-    OK, partons de la droite.
+  OK, partons de la droite.
 
 }
 [sha:150df9f3f8e9cd75f270debf6620e329a680de07]{
 -- Page 7, Offset 20154.
 -- この宝石箱っぽいヤツは何スか？
-    C'est quoi cette sorte de boîte à bijoux ?
+  C'est quoi cette sorte de boîte à bijoux ?
 
 }
 [sha:2cc745e6b555f1448f8563f335cdb3e22c8a3300]{
@@ -169,13 +169,13 @@
 [sha:98d72ad523105bc0c3aebeaad102db12bae74858]{
 -- Page 10, Offset 20160.
 -- あったりまえッス！
-      Évidemment !
+  Évidemment !
 
 }
 [sha:0149dc84f812d4c2d6ffdf377c3868ff62b69ff1]{
 -- Page 10, Offset 20161.
 -- 鳥はすべて有能かつエレガントな使い魔ッスから。
-      Les oiseaux sont des familiers capables et élégants.
+  Les oiseaux sont des familiers capables et élégants.
 
 }
 [sha:a30c08395682a2fb01e96dcd5d3d3b310c35087f]{
@@ -259,25 +259,25 @@
 [sha:61a536171f9c148e84f56adeb1cde9d16310ff26]{
 -- Page 15, Offset 20175.
 -- 当時の政治を風刺した唄なんじゃないかしら。
-      le poème prend la forme d'une satire de la politique de l'époque.
+      le poème prend la forme d'une satire de^      la politique de l'époque.
 
 }
 [sha:7a60944068a92df0150a82536ecb414317d07b58]{
 -- Page 16, Offset 20176.
 -- いや、端的に久遠寺邸の日々を表しているッス。
-   Non, ça décrit l'quotidien d'la résidence Kuonji. Le roi
+Non, ça décrit l'quotidien d'la résidence Kuonji. Le roi
 
 }
 [sha:ad8af337d22d7481393c2084ef18f38f0fc6f024]{
 -- Page 16, Offset 20177.
 -- 金勘定するのが王じゃなくて女王な青セーターで、
-   qui fait les comptes, c'est en fait la reine au pull bleu. Et
+qui fait les comptes, c'est en fait la reine au pull bleu. Et
 
 }
 [sha:03dcf7a8de3008fc9322c7ee4e8d826528b4e8cf]{
 -- Page 16, Offset 20178.
 -- こっそり贅沢をするのが王妃じゃなくてアリ
-   celle qui dépense en secret, c'est pas la reine mais Mam'z...
+celle qui dépense en secret, c'est pas la reine mais Mam'z...
 
 }
 [sha:bbc1692a17afc8f6d60c1896d2e5c5111707f489]{
@@ -289,7 +289,7 @@
 [sha:974dfcc7d247779b2adb4fdb6bc09ed06518e1f5]{
 -- Page 17, Offset 20180.
 -- 次はなに？
-            Tu prends quoi ensuite ?
+        Tu prends quoi ensuite ?
 
 }
 [sha:80101911b3481cab542d10215174436b270b4834]{
@@ -313,13 +313,13 @@
 [sha:4d7dd13b5bfebccdcd62eb84f0471d611cdb8988]{
 -- Page 19, Offset 20184. Mods: @n.
 -- でもジブン的には<無問題|ノープロ>。
-        Mais y a pas de problème.
+    Mais y a pas de problème.
 
 }
 [sha:d5cfa345bb56cbc63f4b7d62957720cbb8c9a5e4]{
 -- Page 19, Offset 20185. Mods: @n.
 -- アリスさんの虐待もラブのカタ……
-        Vos sévices sont une forme d'am...
+    Vos sévices sont une forme d'am...
 
 }
 [sha:5dc8d1857cd6e1eb6c9508006bb4bcecf89258bb]{
@@ -331,19 +331,19 @@
 [sha:9a4fcab900cb3b23343d52fa8fbdb823f5795269]{
 -- Page 21, Offset 20187.
 -- なんスかコレ、超ウケルー！
-      C'est quoi c'truc ? Trop marrant !
+  C'est quoi c'truc ? Trop marrant !
 
 }
 [sha:c5b0982b10ea964bf669e1f52b4c79b26179b9f5]{
 -- Page 21, Offset 20188.
 -- このでっぷりしたヤツ、超ブサイクなんですけどー！
-      Ce gros machin est vraiment moche !
+  Ce gros machin est vraiment moche !
 
 }
 [sha:5caeec78ba96a401ef91183d2b555a747fc3dc55]{
 -- Page 21, Offset 20189.
 -- 生きてるのが恥ずかしくなるレベルッスー！
-      Il devrait avoir honte d'exister !
+  Il devrait avoir honte d'exister !
 
 }
 [sha:f8d335759cd83031adcdea5bd190f19ee665c89b]{
@@ -355,7 +355,7 @@
 [sha:72b6c1d9c7acf74d39ec631b035a24a31ea90ea1]{
 -- Page 23, Offset 20191.
 -- アナタヨ？
-                    Sétoi ?
+                Sétoi ?
 
 }
 [sha:26e09b6ae30a933f64c4b94224c24f304f235773]{
@@ -415,7 +415,7 @@ Tu apparais bien assez comme ça dans l'histoire principale.
 [sha:421f88a3ce129aa1f74360d7f646c7dfe8fc1666]{
 -- Page 27, Offset 20201.
 -- 殺された<駒鳥|ロビン>を巡ってのお話。
-    L'histoire tourne autour du meurtre du rouge-gorge.
+    L'histoire tourne autour du meurtre du^    rouge-gorge.
 
 }
 [sha:774be8469c96fcc1b176e96ec1b52c85b6d9a5d0]{
@@ -475,7 +475,7 @@ Tu apparais bien assez comme ça dans l'histoire principale.
 [sha:a3475a9ad6fabff8a3b16497569968e44c2df5f9]{
 -- Page 31, Offset 20211.
 -- 鳥には一円も入ってこないッスけどね。
-      Pourtant, le piaf n'a pas reçu un seul yen.
+    Pourtant, le piaf n'a pas reçu^    un seul yen.
 
 }
 [sha:28fa4f664428a6474f39c694df969b9ae494ca65]{
@@ -499,25 +499,25 @@ Tu apparais bien assez comme ça dans l'histoire principale.
 [sha:39e947a8d84bed6920bd001b5b7397ad4551b478]{
 -- Page 33, Offset 20215. Mods: @k, @e.
 -- つまり―――まほよの主役はジブ
-      En d'autres termes―――le personnage
+    En d'autres termes―――le personnage
 
 }
 [sha:fa646a9fdb275dc47a8c8e6583915adccb6c0281]{
 -- Page 33, Offset 20216. Glued. Mods: @x, @e.
 -- きゃ。
-principal de Mahoyo, c'est mo...
+    principal de Mahoyo, c'est mo...
 
 }
 [sha:49eae5f30ad0d231ec11a9e4b2a4c3ab85c6e128]{
 -- Page 33, Offset 20217.
 -- あんまり調子に乗ってると、たいへんよ
-          Il t'arrivera des bricoles si tu t'excites trop.
+      Il t'arrivera des bricoles si tu t'excites trop.
 
 }
 [sha:ab199cd61c5582e4103f63fee9ad2695e95f3cb4]{
 -- Page 34, Offset 20218.
 -- 既にこれ以上ないほど大変ッス
-      Ça ne pourra pas être pire que maintenant.
+      Ça ne pourra pas être pire que^      maintenant.
 
 }
 [sha:daea2d9a5cd6e4f338f804689ddd0f11dcdbd340]{
@@ -553,7 +553,7 @@ principal de Mahoyo, c'est mo...
 [sha:28fe2e743076c7c2324bfa5bc11b732212f1386c]{
 -- Page 37, Offset 20224.
 -- 目玉よ。
-            C'est un globe oculaire.
+        C'est un globe oculaire.
 
 }
 [sha:8b98725ae26d694fd3766fc1a06bffb403693a0d]{
@@ -589,13 +589,13 @@ principal de Mahoyo, c'est mo...
 [sha:b1d645379ba4584b92ff01cf158072005a76905a]{
 -- Page 41, Offset 20230.
 -- ……そういう訳ではないのだけど。
-      ...... Ce n'est pas tout à fait ça.
+  ...... Ce n'est pas tout à fait ça.
 
 }
 [sha:beeaa1e6f53a348ae6e9ed6de5b7da0d17e63df8]{
 -- Page 41, Offset 20231.
 -- わたしの左目もプロイ扱いなだけよ。
-      C'est juste que c'est aussi un Ploy.
+  C'est juste que c'est aussi un Ploy.
 
 }
 [sha:212d93434a5339bdee8104580f8597a9f4d03b71]{
@@ -613,7 +613,7 @@ principal de Mahoyo, c'est mo...
 [sha:32cba6aec342d4968c7a8095c25ce83bc17e182a]{
 -- Page 43, Offset 20234.
 -- ルイス・キャロルが提示した「鞄語」と同じね。
-  C'est comme les “mots-valises” que Lewis Carroll a inventés.
+  C'est comme les “mots-valises” que Lewis Carroll a^  inventés.
 
 }
 [sha:bf2cb3e45dd8e04357fd95db15fee1afdd208876]{
@@ -637,7 +637,7 @@ principal de Mahoyo, c'est mo...
 [sha:38c4721dcc7aa268c22127a9f3e1c961ac8f5526]{
 -- Page 45, Offset 20238.
 -- 「うむ。それはな、しなやかでぬるやかという意味だ」
-  「Eh bien, “slictueux” signifie : “souple, actif, onctueux”.」
+  「Eh bien, “slictueux” signifie :^  “souple, actif, onctueux”.」
 
 }
 [sha:02a569206d3dd486b2db27d38b849e7747b511dc]{
@@ -709,13 +709,13 @@ resteraient toujours disponibles sur le marché.
 [sha:0fb45bf2b432163d025b45b8874e7776c0747c07]{
 -- Page 50, Offset 20250.
 -- ぶはは！
-      Ha ha ha !
+    Ha ha ha !
 
 }
 [sha:c751d3abf011a81651cf02deb63c27bf0ebda1f2]{
 -- Page 50, Offset 20251.
 -- その場合、新しい言葉は「初回限定普及版」ッスね！
-      Alors, ce serait une “Première Édition Populaire” !
+    Alors, ce serait une “Première Édition Populaire” !
 
 }
 [sha:d175a00469117484a496969828ca64b456c5add0]{
@@ -793,7 +793,7 @@ resteraient toujours disponibles sur le marché.
 [sha:4ea7aa1c12d5fe821d450d077f4e452b0ec9272e]{
 -- Page 57, Offset 20264.
 -- カタチもよくないから見せる物でもないのだけど……こういうのは、思い出だから。
-  Et puis, il est plutôt laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
+  Et puis, il est plutôt laid, alors je n'aime pas trop le montrer...^  mais ça reste un souvenir.
 
 }
 [sha:9fbca0e4a6fe2ed44c950f1a104a9f8d715bf833]{

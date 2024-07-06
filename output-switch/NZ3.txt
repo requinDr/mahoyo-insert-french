@@ -49,7 +49,7 @@
 [sha:b3de3c68b96803d3a379d13f0b92fb08f814df65]{
 -- Page 4, Offset 19944.
 -- 鮮血のトリコロール。フランスの国旗みたいッスね。
-Trois couleurs ensanglantées. Comme l'drapeau national d'la France, quoi.
+Trois couleurs ensanglantées. Comme l'drapeau d'la France, quoi.
 
 }
 [sha:cd826b31d7f7ecd437a0855539ca803b0ab5ceb5]{
@@ -571,7 +571,7 @@ C'est notre bon vieux “Diddle Diddle”.
 [sha:d9d005c57c604764cb9e22dd749aca27a972f772]{
 -- Page 47, Offset 20031.
 -- ジブンも知ってるッスよ。このマザーグース。
-      Moi aussi, je connais ce conte de Mother Goose.
+Moi aussi, je connais ce conte de Mother Goose.
 
 }
 [sha:d461bcc4cb8ec2240813a0addc256398f6631761]{
@@ -649,7 +649,7 @@ C'est notre bon vieux “Diddle Diddle”.
 [sha:3a4855f241a47ec0c89d7e8be255833bb2f7b8ba]{
 -- Page 51, Offset 20044.
 -- 牛は<牡牛座|タウルス>のもじりでしょう。
-  alors la vache doit être une parodie du taureau.
+  la vache doit être une parodie du taureau.
 
 }
 [sha:7b362482e6fc8f1659b5da58b8db4fd3ac2a5b4d]{
@@ -1009,7 +1009,7 @@ sorts de contes de fées, prend un sens concret.
 [sha:45daba1de70ef4180c4c608d9bce1c07dec5d90f]{
 -- Page 80, Offset 20104.
 -- タスケテ。
-                    À l'aide.
+                À l'aide.
 
 }
 [sha:0c09b0552a5b90253154f1d0c65c2a55bb07db01]{
