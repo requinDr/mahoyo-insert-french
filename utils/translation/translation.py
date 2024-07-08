@@ -79,16 +79,15 @@ def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
 	script_fr_mem[indice] = format_line_to_steam(ligne, nbStartSpaces)
 
 
-# Traite une ligne du script
-# Retourne l'indice de la dernière ligne trouvée
-def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
-	global csv_missing
-
+def override_translation(idx: int):
 	isInCsv = not conf.creer_csv and (idx + 1) in csv_dict
+	translation = None
+	nbStartSpaces = None
+
 	if isInCsv:
 		csv_row = csv_dict[idx + 1]
-		translation = csv_row[csv.columns[1]]
-		nbStartSpaces = csv_row[csv.columns[2]]
+		translation = csv_row[csv.columns[1]].strip()
+		nbStartSpaces = csv_row[csv.columns[2]].strip()
 		match nbStartSpaces:
 			case "": # aucune indentation précisée
 				nbStartSpaces = -1
@@ -97,9 +96,18 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 			case _: # indentation précisée
 				nbStartSpaces = int(nbStartSpaces)
 
+	return isInCsv, translation, nbStartSpaces
+
+# Traite une ligne du script
+# Retourne l'indice de la dernière ligne trouvée
+def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
+	global csv_missing
+
+	isInCsv, translation, nbStartSpaces = override_translation(idx)
+	
 	# Si l'indice de la ligne est dans la première colonne du csv
 	# et qu'une traduction est renseignée, on remplace la ligne par la traduction
-	if isInCsv and translation.strip() != "":
+	if isInCsv and translation != "":
 		remplace_dans_script(idx, translation, nbStartSpaces)
 		return last_found_idx
 	
@@ -122,7 +130,7 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 		elif not conf.creer_csv:
 			csv_missing[idx + 1] = current_line
 	
-	if isInCsv and nbStartSpaces != "":
+	if isInCsv and nbStartSpaces != None:
 		remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 
 	return last_found_idx
