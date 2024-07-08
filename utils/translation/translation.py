@@ -54,11 +54,12 @@ def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], sc
 				return ligne_fr_split[0], last_found_idx + idx
 
 			ligne_precedente = script_fr_mem[i - 1].strip()
-			# on cherche l'indice de la ligne précédente dans la ligne split
-			indice_ligne_precedente = ligne_fr_split.index(ligne_precedente) if ligne_precedente in ligne_fr_split else None
-			# si on trouve l'indice, on prend la ligne suivante
-			if indice_ligne_precedente is not None and indice_ligne_precedente + 1 < len(ligne_fr_split):
+			try:
+				# on cherche l'indice de la ligne précédente dans la ligne split, et on prend la ligne suivante
+				indice_ligne_precedente = ligne_fr_split.index(ligne_precedente)
 				return ligne_fr_split[indice_ligne_precedente + 1].strip(), last_found_idx + idx
+			except (ValueError, IndexError):
+				pass
 
 	return None, None
 
