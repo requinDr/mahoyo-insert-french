@@ -43,9 +43,12 @@ char_swap_dict: dict[str, str] = {
     'ç' : '}',
     'ō' : '*',
     'ū' : 'Z',
-    'Œ' : 'Oe',
-    'œ' : 'oe',
     # '²' : '2',
+}
+
+replace_dict: dict[str, str] = {
+  'Œ' : 'Oe',
+  'œ' : 'oe',
 }
 
 # Swap all characters in line
@@ -63,10 +66,16 @@ def swap_char_in_line(ligne: str):
       ligne = ligne.replace(v, k)
   return ligne
 
+def replace_chars(ligne: str):
+  for (k, v) in replace_dict.items():
+    ligne = ligne.replace(k, v)
+  return ligne
+
 # Swap all characters in script file
 def swap_char_in_script(lignes_script: list[str]):
   for i in range(len(lignes_script)):
     lignes_script[i] = swap_char_in_line(lignes_script[i])
+    lignes_script[i] = replace_chars(lignes_script[i])
   return lignes_script
 
 def line_char_length(ligne: str):
