@@ -11997,7 +11997,7 @@ Quoiii ?」
   Mais rassure-toi. Ça doit rentrer dans le secteur du service. Aussi, je n'ai rencontré qu'une seule fois l'entremetteur, et le paiement est toujours en liquide.」
 「Abruti de campagnard ! C'est justement ça qui le rend louche―――!」
   Aah j'te jure, fulmina intérieurement Aoko en tapant le sol avec le pied.
-  Après la succession d'expressions taboues telles que “nouveau travail”, “la paye est bonne, tout le monde peut le faire” et “mais je refuse de dire en quoi il consiste”, il lui était impossible de rester calme.
+  Après la succession d'expressions taboues telles que “nouveau^travail”, “la paye est bonne, tout le monde peut le faire” et “mais je refuse de dire en quoi il consiste”, il lui était impossible de rester calme.
   Néanmoins,
   Sōjūrō se taisait obstinément.
   Ils ne se connaissaient que depuis peu, mais Aoko comprenait assez bien le tempérament de ce garçon.
@@ -12407,7 +12407,7 @@ Hmm ? Il roule sur l'or ?」
   Shizuki voulait gagner plus d'argent, alors je l'ai présenté à un travail un peu louche.」
   Les faits remontaient à quelques jours avant les examens.
   Son camarade de classe, sans le sou pour certaines raisons, était venu lui demander conseil. Kinomi l'avait donc recommandé pour un emploi dont une de ses connaissances lui avait parlé.
-  Cet employeur recherchait “un jeune homme honnête et au cœur tendre” ; Kinomi avait donc dû abandonner sa candidature avec regret, et avait envoyé à sa place un ami correspondant au profil recherché―――
+  Cet employeur recherchait “un jeune homme honnête et au cœur tendre” ; Kinomi avait donc dû abandonner sa candidature avec regret, et avait envoyé à sa place un ami correspondant au profil^recherché―――
 「Je le crois pas. Tu refourgues un travail louche à ton camarade de classe, et tu te prends toujours pour son ami ?
   Kinomi, de quelle façon ta cervelle fonctionne d'habitude ?」
 「Hé. Tu recommandes aussi tes amis pour ce genre de travail, non ?
@@ -12496,7 +12496,7 @@ Aïe ?!」
 「...... Je veux bien, mais ce genre de groupe est problématique. Ils agissent comme les usuriers. Légalement, aucun problème.
 Les flics peuvent tout au plus les rappeler à l'ordre, et si jamais tu les gênes dans leurs affaires, ils sont en droit de demander des dommages et intérêts. Se précipiter n'amènerait rien de bon.」
 「Je sais. D'abord, il faut enquêter sur le parcours de la société, l'identité du patron et le nombre de salariés tout en cherchant les victimes,
-et―――」
+ ^et―――」
   Aoko, complotant d'une voix basse mais téméraire, cessa brusquement de parler.
 「Quoi, Aozaki―――Ah,
 ghé !」
@@ -12538,7 +12538,7 @@ D'où ça sort, ce nom “Authentique Lumière”, et pourquoi vous êtes venus 
 C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur fera ni chaud ni froid. Après tout, former un groupe soudé est crucial.
   Et après ? On rompt les contrats puis on récupère l'argent escroqué ?」
 「...... Ça, c'est sûrement impossible.
-  Un contrat est absolu. Ça m'énerve, mais on ne peut pas s'opposer à ce qui a été couché sur papier. À présent, on ne peut que limiter le nombre de victimes. Annuler les prêts, mettre fin aux admissions, et―――」
+  Un contrat est absolu. Ça m'énerve, mais on ne peut pas s'opposer à ce qui a été couché sur papier. À présent, on ne peut que limiter le nombre de victimes. Annuler les prêts, mettre fin aux admissions,^et―――」
 「Et ?」
 「Récupérer autant d'argent que possible.
   Comme il s'agit de matelas à plumes, un délai de réflexion doit être accordé. Il est peut-être impossible de rendre tous les produits, mais c'est le mieux qu'on puisse faire.」
@@ -12691,7 +12691,7 @@ Une nonne a plus de force persuasive de par son statut qu'une simple étudiante,
   “À plus”, dit Tobimaru en le saluant de la main avant de disparaître par l'entrée des bureaux.
 「?」
   Quelques questions lui traversèrent l'esprit,
-  mais après avoir entendu un bruit retentir au deuxième étage – de toute évidence une fenêtre qui se brisait – Kinomi quitta aussitôt les lieux du crime.
+  mais après avoir entendu un bruit retentir au deuxième étage ― de toute évidence une fenêtre qui se brisait ― Kinomi quitta aussitôt les lieux du crime.
   Un homme avisé ne s'approche pas du danger.
   Les pourparlers se terminèrent sans anicroche.
   Dans le bâtiment, la sœur avait élégamment fait valser la rangée de bureaux au milieu de la pièce d'un coup de pied. Le problème fut donc résolu vraiment pacifiquement, comme le voulaient les dix commandements, sans aucune effusion de sang.
@@ -12828,7 +12828,7 @@ Que comme elle me faisait confiance, je pouvais agir comme si j'étais son petit
 「Cela semble évident, mais en réalité, ce n'est qu'une communauté extrêmement bien organisée.
   Un étranger qui nous était totalement inconnu la veille peut devenir un voisin indispensable le lendemain.
   Il arrive aussi qu'un nouveau bâtiment soit bâti dans un coin de rue inexistant auparavant.」
-「C'est comme une intervention chirurgicale dantesque pratiquée par le quotidien. Et en dépit de cela, la ville fonctionne bien. Ça force vraiment l'admiration.
+「C'est comme une intervention chirurgicale dantesque pratiquée par le quotidien. Et en dépit de cela, la ville fonctionne bien. Ça force vraiment^l'admiration.
   Je pense vraiment que c'est grâce à son organisation.
 Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts invisibles de gens que je ne connais pas. Et c'est grâce à ces inconnus que je peux divaguer comme ça.
   C'est du donnant-donnant. Franchement, je suis abasourdi par l'équilibre qui doit être nécessaire pour faire fonctionner un tel mécanisme.」
@@ -12935,7 +12935,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
   Ses efforts furent anéantis par l'intervention d'Alice.
   Tu vois ? Tu es bizarre, observa Sōjūrō sans mot dire.
 「Qu'est-ce que tu lui reproches ? Je le trouve relativement calme ce soir, pourtant.」
-  De l'avis de Sōjūrō, la réplique d'Alice contenait également son lot d'incongruités.
+  De l'avis de Sōjūrō, la réplique d'Alice contenait également son lot^d'incongruités.
 「Aaah, ça va, j'ai compris. Je pensais me taire jusqu'à ce que tu abordes de toi-même le sujet, mais finalement, je vais prendre l'initiative.
   Sōjūrō. Est-ce que le nom “Authentique Lumière” te dit quelque chose ?」
 「Non, rien du tout. C'est la première fois que je l'entends.」
@@ -21015,7 +21015,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
   Cet homme avait toujours été un démon qui ne croyait pas en l'existence du bonheur.
 「Allons, refoule ton animosité ou sœur Yuika risque de rappliquer.
   Ta perspective du bonheur appartient à la catégorie de l'absolu. Tu es du genre à être satisfaite tant que ton existence est stable.
-  Celle qui appartient à la catégorie du relatif, qui se soucie des autres, c'est...」
+  Celle qui appartient à la catégorie du relatif, qui se soucie des autres,^c'est...」
   Aoko, voulut dire le prêtre avant de se taire.
   Il avait donné ces conseils par inquiétude envers Tōko, mais cela n'avait pas eu l'effet escompté.
   Il trouvait cela fort regrettable en tant que prêtre, mais il ne pouvait se permettre de l'irriter davantage au risque d'être détesté.
@@ -21302,14 +21302,14 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
   Tsukiji venait souvent me parler. Il me faisait probablement confiance parce que j'étais amie avec Aozaki.
   En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
   Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
-  Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
+  Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question^suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
   On dit que l'amour est aveugle,
   mais l'être à ce point-là, c'est grave !
   Cela dit, rien ne changea suite à cette révélation.
   Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
   Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
   Et je n'étais pas peu fière de me préparer assidûment à ça depuis le collège.
-  C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
+  C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était^l'amour.
   On aurait aussi pu dire que je n'avais pas de courage.
   Et puis, le temps commença à manquer.
   J'étais toujours dans les nuages.
@@ -21343,7 +21343,7 @@ Allez, il est temps de saluer Kuonji.」
   Deux personnes s'agitaient devant elle :
 Hōsuke, et également,
 Hōsuke, et également,
-à mon plus grand étonnement, le professeur Yamashiro.
+ à mon plus grand étonnement, le professeur Yamashiro.
 「Oh ! Les arbres que j'ai aperçus brièvement dans l'arrière-cour étaient des Oak ? En français, on appelle ça des chênes... Hum, ils sont différents de ceux dont je me rappelle.
   Ce doit être une espèce particulière. Les espèces anglaises et japonaises ont des apparences bien distinctes, et puis, il y en a plus de quatre cents.」
 「Ouah ! Comme d'habitude, ce type ne parle que de ce qui l'intéresse. Alice, ce professeur est un barbare sans aucune délicatesse que je te conseille d'ignorer.
@@ -22785,7 +22785,7 @@ Argl ?!」
   Selon les prévisions météo, il devait faire beau pendant ces trois jours de congé, mais manifestement, les montagnes n'entraient pas dans la zone de prévision.
   Jusque-là, j'avais salué six personnes parmi les individus présents dans le manoir Kuonji :
   Aozaki,
-Kuonji,
+ Kuonji,
 Shizuki,
 Tsukiji,
 l'Idiot,
@@ -23589,7 +23589,7 @@ Ha ha ha ha ha !』
   Par malheur, il aborda le sujet le plus tabou du lycée Misaki.
   Étrangement―――non, en réalité, il n'y avait rien d'étrange là-dedans, mais Aozaki n'avait pas de petit ami.
   Lorsqu'elle se taisait, tout le monde reconnaissait qu'Aozaki était une beauté,
-mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
+ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
 「Monsieur Yamashiro, vous avez passé une nuit blanche ou quoi ?」
 「Mais non, c'est juste que ça me préoccupe. Tu seras bientôt libérée de ton rôle de présidente des élèves. Si une fille comme toi ne jouit pas de sa jeunesse, en tant que professeur, ça me semble assez inquiétant...」
 「Votre sollicitude me va droit au cœur, monsieur.

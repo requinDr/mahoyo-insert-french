@@ -103,7 +103,7 @@
 [sha:704c51efbf9c82fbe898fce20c92b19ad892f33c]{
 -- Page 4, Offset 22787. Glued. Mods: @x.
 -- 久遠寺さん、
-Kuonji,
+ Kuonji,
 
 }
 [sha:bb4ddf27818ce0bd2cc24054b93c8d4579f4703a]{

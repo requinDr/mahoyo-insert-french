@@ -3277,7 +3277,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 [sha:d1c79864f7e1b234cce4036a03586633422029d9]{
 -- Page 171, Offset 21017.
 -- 他人が気になるなんて、そんな相対的な幸福観を持っているのは、」
-  Celle qui appartient à la catégorie du relatif, qui se soucie des autres, c'est...」
+  Celle qui appartient à la catégorie du relatif, qui se soucie des autres,^c'est...」
 
 }
 [sha:6fae86b87ec198fc8787b8ca3cccf8aa962cbb9f]{

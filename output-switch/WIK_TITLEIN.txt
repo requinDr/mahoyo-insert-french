@@ -721,7 +721,7 @@ Ha ha ha ha ha !』
 [sha:048362ae2892bfb585419b2077829143686f609c]{
 -- Page 35, Offset 23591. Glued. Mods: @x.
 -- 基本状態が不機嫌なため、浮ついた話は一切ないのだ。
-mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
+ mais comme elle était généralement de mauvaise humeur, on n'entendait aucune histoire frivole à son sujet.
 
 }
 [sha:59ed96bb4032436da9c45ff6f89206dbec90577c]{

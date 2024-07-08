@@ -131,6 +131,7 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 def post_process(script_fr: list[str]):
 	for i, ligne in enumerate(script_fr):
 		ligne = ligne.replace('ー', '―')
+		ligne = ligne.replace('–', '―')
 		ligne = ligne.replace('／', '/')
 		script_fr[i] = ligne
 

@@ -1021,7 +1021,7 @@ Quoiii ?」
 [sha:33bc973bef0c9503fece9eaae471c761c2d02caa]{
 -- Page 54, Offset 11999.
 -- 『新しいバイト』『割がいい、誰でもできる』『だが内容公開は断る』なんて禁句を連発されて、冷静でいられるはずがない。
-  Après la succession d'expressions taboues telles que “nouveau travail”, “la paye est bonne, tout le monde peut le faire” et “mais je refuse de dire en quoi il consiste”, il lui était impossible de rester calme.
+  Après la succession d'expressions taboues telles que “nouveau^travail”, “la paye est bonne, tout le monde peut le faire” et “mais je refuse de dire en quoi il consiste”, il lui était impossible de rester calme.
 
 }
 [sha:e2e57ab9576a562cb927d8c90b4a74000ac6b768]{
@@ -3481,7 +3481,7 @@ Hmm ? Il roule sur l'or ?」
 [sha:692347dbf690c7f3875c60279f3005c32f849404]{
 -- Page 193, Offset 12409.
 -- 先方が求めた人材が「心優しい、素直な青年」だったため、木乃美は泣く泣く出馬をあきらめ、代わりに条件の合う友人を送り出した―――という訳である。
-  Cet employeur recherchait “un jeune homme honnête et au cœur tendre” ; Kinomi avait donc dû abandonner sa candidature avec regret, et avait envoyé à sa place un ami correspondant au profil recherché―――
+  Cet employeur recherchait “un jeune homme honnête et au cœur tendre” ; Kinomi avait donc dû abandonner sa candidature avec regret, et avait envoyé à sa place un ami correspondant au profil^recherché―――
 
 }
 [sha:219f97ca89897c70e85fe65b1b4fee8cdc62d51b]{
@@ -4015,7 +4015,7 @@ Les flics peuvent tout au plus les rappeler à l'ordre, et si jamais tu les gên
 [sha:ad82151cd13c6e83b8c5d95d6f221008aaaad887]{
 -- Page 219, Offset 12498. Glued. Mods: @x.
 -- を―――」
-et―――」
+ ^et―――」
 
 }
 [sha:1405d8a1e110b87b8b07332507be0a2842616bac]{
@@ -4267,7 +4267,7 @@ C'est vrai. Même si chaque victime négocie avec eux séparément, ça ne leur 
 [sha:15bbaac8d4f9b6077eaa230a0b48dc222d69a2b8]{
 -- Page 233, Offset 12540.
 -- 契約書は絶対よ。あったまくるけど、書かれた事はくつがえらない。今から出来るのはこれ以上の被害を抑えるコトだけ。ローンの解約、入会の破棄、それと―――」
-  Un contrat est absolu. Ça m'énerve, mais on ne peut pas s'opposer à ce qui a été couché sur papier. À présent, on ne peut que limiter le nombre de victimes. Annuler les prêts, mettre fin aux admissions, et―――」
+  Un contrat est absolu. Ça m'énerve, mais on ne peut pas s'opposer à ce qui a été couché sur papier. À présent, on ne peut que limiter le nombre de victimes. Annuler les prêts, mettre fin aux admissions,^et―――」
 
 }
 [sha:71db5339e0c688c36f9cbbd6bfdfe9fd299c69ba]{
@@ -5185,7 +5185,7 @@ Une nonne a plus de force persuasive de par son statut qu'une simple étudiante,
 [sha:b308979ab7e9e7780d7bc77b605379b6da04246e]{
 -- Page 285, Offset 12693.
 -- オフィスビルの三階から響いた、どうみても窓ガラスの割れる音を聴いて、木乃美も現場を後にした。
-  mais après avoir entendu un bruit retentir au deuxième étage – de toute évidence une fenêtre qui se brisait – Kinomi quitta aussitôt les lieux du crime.
+  mais après avoir entendu un bruit retentir au deuxième étage ― de toute évidence une fenêtre qui se brisait ― Kinomi quitta aussitôt les lieux du crime.
 
 }
 [sha:f95af9a0d67bd0bfa2749171d409bca809b1ca97]{
@@ -6007,7 +6007,7 @@ Que comme elle me faisait confiance, je pouvais agir comme si j'étais son petit
 [sha:def919b0b0c011815cf2edf3dab18a356107eaab]{
 -- Page 326, Offset 12830.
 -- 「まるで毎日が切った<縫|ぬ>ったの大手術だ。それでもうまく回ってる事に、真剣に感心する。
-「C'est comme une intervention chirurgicale dantesque pratiquée par le quotidien. Et en dépit de cela, la ville fonctionne bien. Ça force vraiment l'admiration.
+「C'est comme une intervention chirurgicale dantesque pratiquée par le quotidien. Et en dépit de cela, la ville fonctionne bien. Ça force vraiment^l'admiration.
 
 }
 [sha:ccf433512145095f8a6dcd3c5630f1866a1e3dc4]{
@@ -6649,7 +6649,7 @@ Je ne vis pas seulement par mes propres moyens, mais aussi grâce aux efforts in
 [sha:1d31676edb17f636c5653eb65cac0f2067c4ed0a]{
 -- Page 356, Offset 12937.
 -- その言葉もどうかと思う草十郎だった。
-  De l'avis de Sōjūrō, la réplique d'Alice contenait également son lot d'incongruités.
+  De l'avis de Sōjūrō, la réplique d'Alice contenait également son lot^d'incongruités.
 
 }
 [sha:3e3ad6c5193c2e9be72e2312c5ee3bf6c623560e]{

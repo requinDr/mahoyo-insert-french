@@ -163,7 +163,7 @@
 [sha:8be87fbbf5f7c5bd4e2d905ff44e454b0ac4104f]{
 -- Page 8, Offset 21304.
 -- たまたまふたりで生徒会の演し物を片づけていた時、“あれ、もしかしてわたし、この人に一目惚れしていたのではないだろうか”と気が付いてしまった。
-  Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
+  Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question^suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
 
 }
 [sha:dbaf646db2f04d875d6be943a5e9a1f93a4fce7a]{
@@ -205,7 +205,7 @@
 [sha:91712e29499a90db2c0391bbf81cdeb03e1a2cb8]{
 -- Page 9, Offset 21311.
 -- なので、そんな、降って湧いた思春期特有の幻想なんぞに膝を屈するのは、どうにも我慢できなかったのである。
-  C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était l'amour.
+  C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était^l'amour.
 
 }
 [sha:00505edf395b1681c8e11d19f6259804bdf8fcdc]{
@@ -409,7 +409,7 @@ Hōsuke, et également,
 [sha:c4b2b5023f627b313583ff8788a77a48f1fd3470]{
 -- Page 19, Offset 21345. Glued. Mods: @x.
 -- 意外なコトに山城先生だった。
-à mon plus grand étonnement, le professeur Yamashiro.
+ à mon plus grand étonnement, le professeur Yamashiro.
 
 }
 [sha:a7e22b1100f25df20a4dffc4dc6454af4710da46]{
