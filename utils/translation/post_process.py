@@ -7,12 +7,13 @@ csv_dict = csv.get_csv(conf.csv_input) if not conf.creer_csv else None
 sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
 
 def override_translation(idx: int)-> tuple[bool, str, int]:
-	isInCsv: bool = not conf.creer_csv and (idx + 1) in csv_dict # idx + 1 because csv starts at 1
+	idxCsv = idx + 1 # idx + 1 because csv starts at 1
+	isInCsv: bool = not conf.creer_csv and (idxCsv) in csv_dict
 	translation = None
 	nbStartSpaces = None
 
 	if isInCsv:
-		csv_row = csv_dict[idx + 1]
+		csv_row = csv_dict[idxCsv]
 		translation = csv_row[csv.columns[1]].strip() or None
 		nbStartSpaces = csv_row[csv.columns[2]].strip() or None
 		match nbStartSpaces:
