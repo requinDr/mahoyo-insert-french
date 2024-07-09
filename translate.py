@@ -4,7 +4,7 @@ import time
 
 import utils.config_importer as conf
 from utils.translation.translate_csv import read_csv_from_name
-from utils.translation.translation import generate_updated_translation
+from utils.translation.process_translation import generate_updated_translation
 from utils.utils import CLEAN_END, get_file_lines, write_file_lines, progress
 from utils.steam.translate_swap import swap_char_in_script, swap_char_in_line
 from utils.switch.utils import extract_switch_line_offset
@@ -86,7 +86,7 @@ if __name__ == "__main__":
 
 	new_lines = generate_updated_translation()
 	create_steam_file(new_lines)
-	update_switch_files(new_lines)
+	# update_switch_files(new_lines)
 	
 	fin = time.time()
 	temps_execution = fin - debut

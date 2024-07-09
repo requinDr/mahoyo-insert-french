@@ -2,6 +2,7 @@ import os
 import re
 
 import utils.config_importer as conf
+from utils.translation.post_process import post_process
 import utils.translation.translate_csv as csv
 from utils.steam.filesmap import map as map_fichiers
 from utils.line_format import format_line_to_steam, transform_ruby
@@ -130,22 +131,8 @@ def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: lis
 			remplace_dans_script(idx, ligne_partielle)
 		elif not conf.creer_csv:
 			csv_missing[idx + 1] = current_line
-	
-	if isInCsv and nbStartSpaces != None:
-		remplace_dans_script(idx, script_fr_mem[idx], int(nbStartSpaces))
 
 	return last_found_idx
-
-
-def post_process(script_fr: list[str]):
-	for i, ligne in enumerate(script_fr):
-		ligne = ligne.replace('ー', '―')
-		ligne = ligne.replace('–', '―')
-		ligne = ligne.replace('／', '/')
-		script_fr[i] = ligne
-
-	return script_fr
-
 
 def generate_updated_translation():
 	global script_fr_mem

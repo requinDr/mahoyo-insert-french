@@ -46,7 +46,7 @@ def indent(nbStartSpaces: int, ligne: str):
 		# nbStartSpaces = (TEXTBOX_WIDTH - lineLength) // (2 * spaceLength)
 		nbStartSpaces = (SCREEN_WIDTH - max(TEXTBOX_LEFT_MARGIN, TEXTBOX_RIGHT_MARGIN) * 2 - lineLength) // (2 * spaceLength)
 
-	return SPACE * nbStartSpaces + ligne
+	return SPACE * nbStartSpaces + ligne.lstrip()
 
 PATTERN_KS_TAGS = r'\[.*?\]'
 def remove_ks_tags(ligne: str):
