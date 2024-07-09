@@ -1683,7 +1683,7 @@ Et toi, Tobimaru ?」
 「Ouais. Tant pis, ça me gonfle mais je vais l'appeler. Il ne faut pas non plus mettre Petit Sō en retard.」
   Tsukiji Tobimaru se leva de la rambarde de la véranda avec nonchalance,
   et le haut-parleur de l'établissement rugit tel un camion de pompier comme s'il n'attendait que ce moment-là.
-『Shizuki Sōjūrō, de la classe 2-C. M. Yamashiro vous appelle. Venez d'urgence en salle des professeurs. Je répète, Shizu～』
+『Shizuki Sōjūrō, de la classe 2-C. M. Yamashiro vous appelle. Venez d'urgence en salle des professeurs. Je répète, Shizu~』
   Un silence embarrassant s'empara du trio.
   “Bon j'y vais”, dit Sōjūrō après être resté sans voix pendant environ cinq secondes, avant de laisser ses deux compères et de quitter la véranda.
 「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle de culture quelque part sur le campus ?」
@@ -1985,7 +1985,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 」
 「Oui ? Vous avez dit quelque chose, Mlle Hanasaw―――」
 「Non, désolée. Je viens de me rappeler d'une affaire urgente.
-  Je dois filer à présent, ciao～」
+  Je dois filer à présent, ciao~」
   Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
   Il était presque trois heures.
   Il s'était passé plus de trois heures depuis que Hanasawa avait proposé de l'aider.
@@ -11784,7 +11784,7 @@ Puisque tu ne dis rien, dois-je en conclure que gagner de l'argent avec la Magie
   Nonobstant la surprise d'Aoko, Sōjūrō apporta quelque chose qui était dans le couloir.
   Il s'agissait d'un grand tableau blanc, comme celui présent dans la salle du conseil étudiant.
   On avait inscrit sur ce tableau tout neuf les lignes suivantes au stylo-feutre :
-  ～Répartition des tâches à l'avenir～
+  ~Répartition des tâches à l'avenir~
         ・Ménage du manoir (limité au rez-de-chaussée est)
         ・Préparation du petit déjeuner
         ・Préparation du dîner
@@ -20163,9 +20163,9 @@ Il ne fait que causer des ennuis aux autres.
       Même moi,
       je connais la Chanson à 6 pences.
       Grâce à des amis oiseaux.
-    『Chante une chanson à 6 pences～♪
-    Une poche de seigle bourrée～♪
-    24 oiseaux noirs, dans la tourte grillés～♪』
+    『Chante une chanson à 6 pences~♪
+    Une poche de seigle bourrée~♪
+    24 oiseaux noirs, dans la tourte grillés~♪』
     ... Hmm. J'comprends pas pourquoi on massacre
     les oiseaux sans raison. Qu'est-ce qu'ils
     avaient contre les oiseaux, ces nordiques ?
@@ -20321,10 +20321,10 @@ resteraient toujours disponibles sur le marché.
     Je n'ai jamais vu les troisième et quatrième couplets.
       Troisième et quatrième ? Comment ça ?
       Les paroles de la chanson du Pont de Londres.
-  『～Les arbres et la terre sont emportés.
-   ～Les briques et le mortier s'effondrent.』
-  『～Le fer et l'acier se tordent.
-   ～L'argent et l'or sont volés.』
+  『~Les arbres et la terre sont emportés.
+   ~Les briques et le mortier s'effondrent.』
+  『~Le fer et l'acier se tordent.
+   ~L'argent et l'or sont volés.』
         Thames est le Ploy du Pont de Londres,
         mais son apparence a changé au cours des siècles.
         À présent, d'après Mother Goose, il a quatre formes.
@@ -20834,7 +20834,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 「...... Ouah. Tu ne cherches même pas à réfuter que tu vaux moins qu'un article vendu par correspondance.」
 「Pourquoi le ferais-je ? Ta remarque est juste.
   Après tout, je suis une parfaite incompétente.
-  Le fardeau numéro 1 de l'Association des Mages est ici présent～♪」
+  Le fardeau numéro 1 de l'Association des Mages est ici présent~♪」
   Le sourire chaleureux dissipa la malice de Tōko qui sourit à son tour.
   Pour un étranger, leur relation semblait amicale.
 「Ah, je vois que tu n'as plus de soupçons envers moi !
@@ -21444,7 +21444,7 @@ Je ne te verrai bientôt plus à la supérette le matin, du coup.
 「?」
   Pourtant, je sentais qu'on m'observait.
   Je―――
-～Choix C～
+~Choix C~
   ...... J'entrepris de me lancer à sa poursuite.
   Envahie d'une sensation sinistre, je partis à la recherche de la source du regard.
   Après un rapide tour du manoir, je me retrouvai face à un petit bois.
@@ -21548,7 +21548,7 @@ Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes 
   ...... Un léger inconfort m'assaillit.
   L'orage allait en s'intensifiant.
   Confusément, je...
-～Choix F～
+~Choix F~
   La recherche de M. Yamashiro fut décidée à l'unanimité.
   Nous nous séparâmes pour fouiller le manoir, et quelques minutes plus tard, Ritsuka, en charge des chambres d'ami du premier étage, appela tout le monde.
 「C'est la chambre de M. Yamashiro. La porte était-elle fermée à clef ?」
@@ -21669,7 +21669,7 @@ Ggh !」
   Et donc, le matin, nous nous sommes rendus tous les trois au parc où nous avons rejoint le grand-père, et il nous a conduits jusqu'au portail en Rolls Royce.
   À 10 heures, j'ai dit bonjour à Alice, et ensuite, je n'ai rien fait !」
   ... Je...
-～Choix I～
+~Choix I~
   Laissés pour compte, nous restions plantés dans le vestibule, incapables de nous rendre dans le salon.
   Les lumières y étaient presque toutes éteintes.
   Il aurait été judicieux de se rendre dans les chambres d'ami en quête de lumière, mais il aurait également été problématique de se retrouver isolé.
@@ -21772,7 +21772,7 @@ Té hé☆」
   Ce furent les dernières paroles d'Aozaki.
   Nous l'enfermâmes dans la cave, fermâmes le cadenas à clef depuis l'extérieur, et obtînmes enfin une certaine tranquillité d'esprit.
   Et alors, je―――
-～Choix R～
+~Choix R~
   J'étais navrée pour Ritsuka, mais je pensais que l'averse allait sûrement s'intensifier.
   J'étais navrée pour Ritsuka, mais je pensais que la grêle prendrait le relais après la pluie.
   Je songeai qu'il vaudrait peut-être mieux rentrer chez moi.
@@ -21876,7 +21876,7 @@ Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un gran
 「Treize, hein?」
   Un, deux, trois, me mis-je à compter.
   D'après les informations réunies jusqu'à présent......
-～Choix E～
+~Choix E~
   À cet instant,
 「?」
   un étrange vacarme nous parvint de l'extérieur.
@@ -21906,7 +21906,7 @@ Et puis, des victimes ? Tu aimes exagérer, Alice~! C'est sûr que c'est un gran
 Et puis, mêle-toi de ce qui te regarde !」
 「Tiens donc ? Je n'aurais jamais cru qu'Alice vendrait un de ses précieux Ploy.」
 「...... Aah. Je lui ai répété maintes et maintes fois que l'argent ne pouvait pas régler notre différend ; malheureusement, c'est une chienne du capitalisme. J'ai beau insister, elle refuse de me le rendre.」
-「Toi alors, tu caches encore ton embarras !～♪
+「Toi alors, tu caches encore ton embarras !~♪
   Tu es vraiment douée en marchandage. Tu prétends que “tu ne le céderas pas contre de l'argent” tout en faisant monter habilement les enchères.」
 「...... Dis, Ton Altesse. Je crois avoir déjà vu cette gonzesse incroyable quelque part. C'est une connaissance d'Alice ?」
 「Ça doit être ton imagination, oublie ça. C'est le genre de femme qui ne t'apporte que des ennuis dès l'instant où tu as affaire à elle. Que des pertes et zéro profit.」
@@ -22079,7 +22079,7 @@ Du moins, ça serait bien !」
   Père Eiri observa le visage de toutes les personnes présentes dans la pièce en posant une question mesquine.
   Quelle méthode avait été utilisée pour assassiner Tokitsu Yurihiko ?
   Je―――
-～Choix G～
+~Choix G~
   Lorsque j'ouvris les yeux, j'étais allongée sur le parquet.
 「Hein... Qu'est-ce que je fais là ?」
   Je relevai lentement mon corps.
@@ -22322,7 +22322,7 @@ Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est qu
   La sœur semblait rassurée, mais je ne partageais pas son optimisme.
   La situation dépassait mon entendement, mais ce n'était pas tout ; je ne pouvais pas me débarrasser de mon inquiétude.
   Je―――
-～Choix H～
+~Choix H~
   Je songeai qu'expliquer la mort de M. Tokitsu Yorihiko serait ardu.
   Je songeai que s'abstenir de rire une nuit serait aisé.
   ...... Je songeai qu'il était temps de faire remarquer l'absence d'une personne.
@@ -22399,7 +22399,7 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
   Je me souviens que le groupe du prêtre est arrivé dans le vestibule à quatre heures.
 ... Ensuite... Ah oui ! Pendant ma sieste, j'ai eu l'impression d'entendre le rire de quelqu'un, mais c'est peut-être mon imagination, alors ne vous y fiez pas trop pour l'enquête. Ça ne ferait que prêter à confusion.」
   Je...
-～Choix J～
+~Choix J~
 「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu pacifiquement au manoir.
   Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
   Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.
@@ -22410,7 +22410,7 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
   A... Après tout, c'est rare que la petite Al nous laisse entrer chez elle, pas vrai ? J'ai fait le tour du propriétaire en pensant voir des objets rares, mais comme prévu, les portes étaient toutes parfaitement verrouillées.
   Ah, par contre, je ne suis pas allée au premier étage. Je le jure !」
   Je...
-～Choix K～
+~Choix K~
 「..................」
   Un léger malaise régnait certes sur les convives, mais les témoignages n'avaient pas permis d'établir de contradictions manifestes, et le silence s'installa dans le salon.
   Il nous était impossible de déterminer à quelle heure M. Tokitsu était mort.
@@ -22471,7 +22471,7 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
 「C'est vrai. Yuika semble invulnérable. Par contre, ne serait-il pas préférable que les personnes au rire facile aillent se cacher quelque part ?」
   Leurs deux avis étaient légitimes.
   Je...
-～Choix L～
+~Choix L~
   Je...
   ... songeai que nous devrions attendre le matin dans nos chambres.
 「La discussion s'arrête ici.
@@ -22592,7 +22592,7 @@ Attends un peu, euh... Hum, oui, ça pourrait le faire.』
 「............」
   Ça me préoccupait un peu.
   Je...
-～Choix M～
+~Choix M~
   Je songeai à jeter un petit coup d'œil dans le couloir.
   Là, je vis un triste spectacle.
 「... Tout... J'ai tout perdu...」
@@ -22691,7 +22691,7 @@ Argl ?!」
   Il y avait à présent quatre victimes.
   Dans ces conditions, l'ambiance générale commençait à s'orienter vers l'idée de s'enfermer dans nos chambres et d'attendre le matin.
   Je...
-～Choix N～
+~Choix N~
   ... Je me réveillai au son du rugissement du vent.
   La lumière était éteinte.
   Je ne me rappelai pas de l'avoir éteinte avant de me coucher.
@@ -22767,7 +22767,7 @@ Argl ?!」
   Malgré toutes les choses auxquelles je devais réfléchir, je tombai brusquement dans un sommeil léger.
   Je songeai que l'idée de s'enfermer dans nos chambres était dangereuse.
   Ma raison étant que―――
-～Choix O～
+~Choix O~
 「Ah―, je suis claquée.」
   Je m'assis lourdement sur le lit.
   Discuter avec Tsukiji me mettait sur mes gardes, et une autre sorte de tension m'envahissait quand j'étais avec Kuonji.
@@ -22927,7 +22927,7 @@ une autre à
   Tu sais travailler en équipe.」
   Shizuki accepta d'un air grave la proposition de père Eiri.
   Je―――
-～Choix P～
+~Choix P~
   Je songeai qu'il était dangereux de laisser Aoko seule.
 「Attends, Aozaki. Je viens avec toi.」
 「?! Qu... Qu'est-ce que tu racontes, Kuma ? C'est dangereux dehors ! Ça ira pour moi, alors reste en alerte dans le vestibule avec Tobimaru.」
@@ -23035,7 +23035,7 @@ une autre à
 「Ça va aller, fais-moi confiance. On ne le dirait pas comme ça, mais je suis habituée à l'obscurité.」
   Ritsuka disparut au premier étage.
   Je...
-～Choix Q～
+~Choix Q~
   Bien que ce soit cynique de ma part, je songeai qu'elle était du genre à mourir en premier dans les films d'horreur.
   ...... C'était un peu tard,
   mais je songeai que cette femme, comme Aozaki, comptait à son actif une “période d'absence” pendant laquelle elle aurait pu tuer monsieur Tokitsu et le professeur Yamashiro.
@@ -23210,7 +23210,7 @@ Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
   Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état,
 tu te rappelles ?」
   ... Je...
-～Choix S～
+~Choix S~
   Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
 「Kumari ? Que fais-tu ? On y va.」
 「Pa... Pardon, j'arrive.」
@@ -23261,7 +23261,7 @@ Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y 
   Alice a eu la gentillesse de préparer des chambres d'ami. Si tu as besoin de te reposer, rends-toi là-bas. Si tu veux te changer, tu peux aussi le faire dans ta chambre.」
   Je vois.
   Dans ce cas, je vais―――
-～Choix B～
+~Choix B~
 「Tiens ?」
   Dans le couloir, je croisai Aozaki.
   Elle venait apparemment du fond du couloir et se dirigeait vers le hall.
@@ -23295,7 +23295,7 @@ Mais ne t'en fais pas, si tu vois quelque chose de bizarre, ignore-le et il n'y 
 「Il est tard. Il serait temps de se coucher, mais comment on fait ? Je pourrais dormir sur ce canapé si tu veux.」
   C'était sûrement une mesure de précaution à l'encontre de Sweets Hearts transformé en Aozaki, ou en un autre individu A.
   Je... Je...
-～Choix T～
+~Choix T~
   Je songeai que cette idée était mauvaise sur bien des points et que si je fermais à clef, je serais en sûreté.
 「Ça ira. Il ne reste plus beaucoup de temps de toute façon.
   Et puis d'abord, c'est toi qui as dit de soupçonner tout le monde.」
@@ -23398,7 +23398,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui a dû te batt
   À ce rythme, nous allions perdre la partie.
   Aozaki et les autres seraient définitivement morts, et donc, ne reviendraient pas.
   Je...
-～Choix U～
+~Choix U~
   Je... Je songeai qu'au vu de la situation, c'était inévitable.
 「Po... Pourquoi pas, ça pourrait être plus prudent, juste au cas où.
   Et puis, j'ai assez de frères pour en vendre quelques-uns, alors j'imagine que je suis habituée à dormir dans la même chambre qu'un garçon.」
@@ -23618,7 +23618,7 @@ Il ne faudrait pas qu'on voie ce que je suis sur le point de faire.」
   Aozaki ouvrit la porte en fer sans avoir à la déverrouiller.
   La porte était une frontière ; la forêt semblait dégager une aura différente entre l'intérieur et l'extérieur des murs.
   Je―――
-～Choix A～
+~Choix A~
   Je songeai qu'il valait mieux continuer à fuir jusqu'au matin.
 「Tiens ?」
   À l'instant, j'eus l'impression de ressentir un certain décalage.
@@ -23688,7 +23688,7 @@ de.」
   C'était un simple problème d'élimination.
   Qui était le tueur invisible qui avait fait rire tout le monde ?
   Le coupable que je désignai est―――
-～Choix V～
+~Choix V~
   ―――C'était Shizuki.
   C'était lui qui remplissait le mieux les conditions.
   Il connaissait le manoir.
@@ -23754,7 +23754,7 @@ de.」
   Le matin était imminent.
   C'était vraiment ma dernière chance.
   Je...
-～Choix W～
+~Choix W~
 「Ça ne va pas, je n'ai pas assez d'indices...
   Si je l'accuse sans preuve, je serai éliminée...」
   Je ne pouvais pas dévoiler l'identité du coupable.
@@ -23869,7 +23869,7 @@ Si l'on voyait une connaissance dans cet état, il y avait une forte probabilit�
 「Attends―――Attends, attends, attends, attends...!
   La solution est claire, maintenant, il ne me reste plus qu'à répondre à cette question...!」
   Je...
-～Choix X～
+~Choix X~
 「Bien.」
   Je me réveillai après exactement quinze minutes et inspectai mon profil dans la glace.
   Je sortis une brosse de mon sac, me coiffai sommairement et quittai la chambre.
@@ -23887,7 +23887,7 @@ Ah, tu as rentré le linge ? Et le futon, tu ne l'as pas laissé dehors ?」
   Probablement attirée par leurs voix, Kuonji était sortie de l'aile est pour les accueillir.
 「Pardonnez-nous. Nous sommes en retard en dépit de votre amicale invitation. Vous allez bien, Alice ?」
 「Je ne me rappelle pas vous avoir invités, mais puisque vous êtes là, je n'ai plus vraiment le choix. Veuillez me suivre.
-  Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher d'autres.」
+  Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher^d'autres.」
 「Ne vous inquiétez pas pour nous. Contrairement à ma sœur, père Eiri et moi partirons très vite.
 De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitement ce rôle si nécessaire.」
 「Yui, c'est horrible !
@@ -23915,7 +23915,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
 「Oui, à verse. J'espère que ça se calmera vite.」
   Ritsuka jeta un regard inquiet vers l'extérieur.
   Je...
-～Choix Ｄ～
+~Choix Ｄ~
   ―――Bon sang, je n'arrive pas à mettre de l'ordre dans mes idées !
   Il m'était impossible d'identifier le coupable.
   De toute façon, c'est davantage un duel d'endurance que d'intelligence. Je dois m'enfuir !
@@ -23946,9 +23946,9 @@ de.」
   Je me demandai qui avait activé ce Ploy.
   Mais oui !
   L'individu A n'était autre que...
-～Choix Y～
+~Choix Y~
   Qu'est-ce qui le prouvait de façon irréfutable ?
-～Choix Z～
+~Choix Z~
 「―――C'est moi.」
   Oui.
   Cette situation, où tout se passait comme je le voulais, prouvait plus que tout autre chose que j'étais Sweets Hearts.

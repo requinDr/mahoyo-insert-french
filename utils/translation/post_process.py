@@ -30,6 +30,8 @@ def replacements(line: str):
 	line = line.replace('ー', '―')
 	line = line.replace('–', '―')
 	line = line.replace('／', '/')
+	line = line.replace('～', '~')
+	line = line.replace('Ｄ', 'D')
 	return line
 
 def post_process(script_fr: list[str]):
