@@ -32,3 +32,7 @@ def write_file_lines(path: str, lignes: list):
 			f.writelines(lignes)
 	except Exception as e:
 		print(f"Erreur lors de l'écriture du fichier {path}: {e}")
+
+# compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
+def nb_espaces_debut_ligne(ligne: str):
+	return len(ligne) - len(ligne.lstrip())

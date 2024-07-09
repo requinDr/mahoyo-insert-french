@@ -13,12 +13,12 @@ RUNES_TAGS = ["[ansz]", "[eywz]", "[swel]", "[ingz]"]
 
 # modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
 PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
-def transform_ruby(ligne: str):
-	match = re.search(PATTERN_RUBY, ligne)
+def transform_ruby(line: str):
+	match = re.search(PATTERN_RUBY, line)
 	if match:
-		for match in re.finditer(PATTERN_RUBY, ligne):
-			ligne = ligne.replace(match.group(0), f"<{match.group(1)}|{match.group(2)}>")
-	return ligne
+		for match in re.finditer(PATTERN_RUBY, line):
+			line = line.replace(match.group(0), f"<{match.group(1)}|{match.group(2)}>")
+	return line
 
 def transform_custom_tags(ligne: str, nbStartSpaces: int):
 	# <r> -> ^
@@ -37,6 +37,7 @@ def remove_new_ruby(ligne: str):
 		for match in re.finditer(r'<([^|]+)\|[^>]+>', ligne):
 			ligne = ligne.replace(match.group(0), match.group(1))
 	return ligne
+
 
 def indent(nbStartSpaces: int, ligne: str):
 	# center the text using left spaces
@@ -82,13 +83,15 @@ def remove_ks_tags(ligne: str):
 
 	return ligne
 
+def set_indentation(line: str, nbStartSpaces: int):
+	line = transform_custom_tags(line, nbStartSpaces)
+	line = line.strip()
+	line = indent(nbStartSpaces, line) + "\n"
+	return line
 
-def format_line_to_steam(ligne: str, nbStartSpaces: int):
+def format_line_to_steam(ligne: str):
 	ligne = transform_ruby(ligne)
 	ligne = remove_ks_tags(ligne)
-	ligne = transform_custom_tags(ligne, nbStartSpaces)
-	ligne = ligne.strip()
-	ligne = indent(nbStartSpaces, ligne)
+	ligne = ligne.strip() + "\n"
 
-	ligne = ligne + "\n"
 	return ligne

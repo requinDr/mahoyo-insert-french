@@ -5,13 +5,8 @@ import utils.config_importer as conf
 from utils.translation.post_process import post_process
 import utils.translation.translate_csv as csv
 from utils.steam.filesmap import map as map_fichiers
-from utils.line_format import format_line_to_steam, transform_ruby
-from utils.utils import get_file_lines, progress, write_file_lines
-
-# compte le nombre d'espaces au début de la ligne jusqu'au premier caractère
-def nb_espaces_debut_ligne(ligne: str):
-	return len(ligne) - len(ligne.lstrip())
-
+from utils.line_format import format_line_to_steam, set_indentation, transform_ruby
+from utils.utils import get_file_lines, nb_espaces_debut_ligne, progress, write_file_lines
 
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
@@ -64,78 +59,46 @@ def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], sc
 
 	return None, None
 
-script_fr_mem: list[str] = get_file_lines(conf.script_source)
 sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
 csv_missing = dict()
 csv_dict = csv.get_csv(conf.csv_input) if not conf.creer_csv else None
 
 
-# nbStartSpaces = -1 pour ne pas modifier le nombre d'espaces
-# nbStartSpaces = -2 pour centrer le texte
-def remplace_dans_script(indice: int, ligne: str, nbStartSpaces: int = -1):
-	global script_fr_mem
+def format_line(indice: int, ligne: str):
+	ligne = format_line_to_steam(ligne)
+	nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
+	ligne = set_indentation(ligne, nbStartSpaces)
+	return ligne
 
-	if nbStartSpaces == -1:
-		nbStartSpaces = nb_espaces_debut_ligne(sourceScriptIndent[indice])
-
-	script_fr_mem[indice] = format_line_to_steam(ligne, nbStartSpaces)
-
-
-def override_translation(idx: int):
-	isInCsv = not conf.creer_csv and (idx + 1) in csv_dict
-	translation = None
-	nbStartSpaces = None
-
-	if isInCsv:
-		csv_row = csv_dict[idx + 1]
-		translation = csv_row[csv.columns[1]].strip()
-		nbStartSpaces = csv_row[csv.columns[2]].strip()
-		match nbStartSpaces:
-			case "": # aucune indentation précisée
-				nbStartSpaces = -1
-			case "center": # centrage du texte
-				nbStartSpaces = -2
-			case _: # indentation précisée
-				nbStartSpaces = int(nbStartSpaces)
-
-	return isInCsv, translation, nbStartSpaces
 
 # Traite une ligne du script
 # Retourne l'indice de la dernière ligne trouvée
-def line_process(idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
+def line_process(script_fr_mem: list[str], idx: int, current_line: str, og_lines: list[str], tr_lines: list[str], last_found_idx: int) -> int:
 	global csv_missing
-
-	isInCsv, translation, nbStartSpaces = override_translation(idx)
-	
-	# Si l'indice de la ligne est dans la première colonne du csv
-	# et qu'une traduction est renseignée, on remplace la ligne par la traduction
-	if isInCsv and translation != "":
-		remplace_dans_script(idx, translation, nbStartSpaces)
-		return last_found_idx
 	
 	# S'il n'y a que des espaces dans la ligne, on passe à la suivante
 	if current_line.strip() == "":
-		return last_found_idx
+		return script_fr_mem, last_found_idx
 
 	indice = find_og_line_idx(og_lines, current_line)
 	if indice is not None:
 		last_found_idx = indice
 		ligne_traduite = recupere_ligne_traduite(indice, tr_lines)
 		if ligne_traduite:
-			remplace_dans_script(idx, ligne_traduite)
+			script_fr_mem[idx] = format_line(idx, ligne_traduite)
 	else:
 		# si la ligne n'est pas trouvée, on cherche si elle est incluse dans une autre ligne
 		ligne_partielle, indice = get_partial_translation(idx, og_lines, tr_lines, script_fr_mem, last_found_idx)
 		if ligne_partielle is not None:
 			last_found_idx = indice
-			remplace_dans_script(idx, ligne_partielle)
+			script_fr_mem[idx] = format_line(idx, ligne_partielle)
 		elif not conf.creer_csv:
 			csv_missing[idx + 1] = current_line
 
-	return last_found_idx
+	return script_fr_mem, last_found_idx
 
 def generate_updated_translation():
-	global script_fr_mem
+	script_fr_mem: list[str] = get_file_lines(conf.script_source)
 	total_lignes = len(script_fr_mem)
 	last_found_idx: int = 0
 	
@@ -151,7 +114,7 @@ def generate_updated_translation():
 				tr_file_path = os.path.join(conf.dossier_sources_fr, current_file)
 				tr_lines = get_file_lines(tr_file_path)
 
-			last_found_idx = line_process(idx, ligne, og_lines, tr_lines, last_found_idx)
+			script_fr_mem, last_found_idx = line_process(script_fr_mem, idx, ligne, og_lines, tr_lines, last_found_idx)
 			
 		except Exception as e:
 			print(f"Erreur lors du traitement de la ligne {idx + 1}: {e}. Passage à la ligne suivante.")
