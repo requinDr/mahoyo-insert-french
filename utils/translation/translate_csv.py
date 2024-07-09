@@ -30,10 +30,11 @@ def read_csv_dict_from_name(chemin):
 	try:
 		with open(chemin, encoding="utf-8") as f:
 			reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
-			return {int(row[columns[0]]): row for row in reader}
+			dict = {int(row[columns[0]]): row for row in reader}
+			return dict
 	except Exception as e:
 		print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
 		return None
 
-def get_csv(pathOrUrl):
-	return read_csv_dict_from_name(pathOrUrl)
+def get_csv(path):
+	return read_csv_dict_from_name(path)

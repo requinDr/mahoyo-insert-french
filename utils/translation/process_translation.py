@@ -8,6 +8,9 @@ from utils.steam.filesmap import map as map_fichiers
 from utils.line_format import format_line_to_steam, set_indentation, transform_ruby
 from utils.utils import get_file_lines, nb_espaces_debut_ligne, progress, write_file_lines
 
+sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
+csv_missing = dict()
+
 # Cherche la ligne japonaise qu'il faut traduire dans un fichier
 # Retourne l'indice de la ligne dans le fichier
 def find_og_line_idx(lignes_og: list[str], ligne: str):
@@ -58,11 +61,6 @@ def get_partial_translation(i: int, og_lines: list[str], tr_lines: list[str], sc
 				pass
 
 	return None, None
-
-sourceScriptIndent: list[str] = get_file_lines(conf.script_source_indent)
-csv_missing = dict()
-csv_dict = csv.get_csv(conf.csv_input) if not conf.creer_csv else None
-
 
 def format_line(indice: int, ligne: str):
 	ligne = format_line_to_steam(ligne)

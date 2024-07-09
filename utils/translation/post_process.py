@@ -1,5 +1,5 @@
 import utils.config_importer as conf
-from utils.line_format import format_line_to_steam, indent, set_indentation, transform_custom_tags
+from utils.line_format import format_line_to_steam, set_indentation
 import utils.translation.translate_csv as csv
 from utils.utils import get_file_lines, nb_espaces_debut_ligne
 

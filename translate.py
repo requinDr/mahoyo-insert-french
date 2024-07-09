@@ -24,13 +24,16 @@ def create_steam_exe_titles_file(file: str):
 	if new_lines[-1] != "\n":
 		new_lines.append("\n")
 
-	write_file_lines("generated/TEXT5.bin", new_lines)
+	write_file_lines("output-steam/TEXT5.bin", new_lines)
 
 def create_steam_file(new_lines: list[str]):
 	progress(0, 100, "Steam\t")
+
+	lines_to_write = new_lines
 	
-	lines_to_write = swap_char_in_script(new_lines.copy()) if conf.remplacer_caracteres else new_lines
-	write_file_lines("generated/swapped", lines_to_write)
+	if conf.remplacer_caracteres:
+		lines_to_write = swap_char_in_script(new_lines.copy())
+		write_file_lines("generated/swapped.txt", lines_to_write)
 	progress(20, 100, "Steam\t")
 
 	success = hfa.extract(f"{conf.input_steam_patch_folder}/{conf.steam_hfa_name}.hfa")
