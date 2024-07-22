@@ -151,7 +151,7 @@ SYSMES_MODE_000,前のシーン、選択肢までジャンプします,Revenir a
 SYSMES_MODE_001,次のシーン、選択肢までジャンプします,Aller au choix suivant.,跳转至下一个场景、选项,跳至下一個場景的選項
 SYSMES_MODE_002,押している間、早戻しします,Gardez appuy= pour revenir en arri$re. RelXchez pour arr_ter.,按下时会快退,按住時倒轉
 SYSMES_MODE_003,押している間、早送りします,Gardez appuy= pour avancer. RelXchez pour arr_ter.,按下时会快进,按住時快轉
-SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/d=sactiver le d=ffilement auto.,打开、关闭自动模式,開啟或關閉自動模式
+SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/d=sactiver le d=filement auto.,打开、关闭自动模式,開啟或關閉自動模式
 SYSMES_MODE_005,クイックセーブを行います,Sauvegarde rapide.,进行快速存档,進行快速保存
 SYSMES_MODE_006,クイックロードを行います,Charger une sauvegarde rapide.,进行快速读档,進行快速載入
 SYSMES_MODE_007,ボイスを再生します,Wcouter cet audio.,播放语音,播放語音
