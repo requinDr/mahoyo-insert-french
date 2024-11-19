@@ -16,7 +16,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 484,Le couloir sans fenêtres n'était éclairé par aucun rayon de soleil et était désert.,,
 532,"『...... Je vois. En effet, il est plutôt bizarre......』",,『……たしかにズレてるわ、こいつ……』
 543,,0,
-553,"On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression globale : tête en l'air.",,
+553,"On pouvait se demander sur quels critères de normalité elle se basait, mais son caractère était tout à fait normal. Une personne naïve et gentille. Couleur de la personnalité : blanche. Genre : masculin. Impression<r>globale : tête en l'air.",,
 574,"Pourtant,",2,
 575,"Sōjūrō s'inclina d'un air désolé, mû par un changement d'attitude inattendu.",,どんな心境の変化か、草十郎は申し訳なさそうに目を伏せていた。
 593,"「Et donc, c'est quoi que tu as de prévu exactement ?」",,「それで。いったい、何の用なの」
@@ -61,14 +61,15 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 1452,Son vêtement noir ondula.,,
 1478,「Tweedle.」,,
 1504,"Broken down, broken down...",,"Broken down,broken down."
-1513,,2,
-1517,"Après tout, son employeur était lui aussi de ce genre-là, quelqu'un d'étrange.",,
+1513,,1,
+1517,"Après tout, son employeur était lui aussi de ce genre-là, quelqu'un<r>d'étrange.",,
+1521,"『Même si le paiement est ennuyeux, si possible, je voudrais le régler en livres sterling !』",,
 1541,"Broken down, broken down...",,"Broken down,broken down."
 1568,"Son effet était simple, mais c'était aussi ce qui en faisait une arme mortelle et impossible à éviter si elle était utilisée à une aussi courte distance.",,
 1636,"『La prochaine fois, pour sûr, on se montrera utiles ! Même si l'échec est notre apanage depuis la naissance !』",,『次、次はお役に立ちますきっと！　生まれてこの方、失敗続きのボクらだけど！』
 1667,"「Eh bien... Si le ramassage des ordures ménagères ne rapporte pas d'argent tôt ou tard, l'activité ne sera pas rentable, pas vrai ? Ça veut dire que l'État va bientôt arrêter de s'en occuper gratuitement.」",,「そうだなあ。粗大ゴミ回収は、金でも貰わねえとワリ合わなくなるんじゃねえか？　国が無料で回収するのはそろそろおしまいってトコ」
 1668,"「Hein ? Qu'est-ce que tu racontes ? Les vieilles commodes se vendent bien cher, elles !",,「はあ？　なに言ってんのオマエ？　使い古しの箪笥とか高く売れるじゃん！
-1669,"Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」",1,
+1669,"Donc quelqu'un “directement prêt à l'emploi” comme moi finira bien par être à la mode un jour, non ? Comme les appareils jetables qui se vendent dans les supérettes et qui sont super populaires. Vous verrez, lorsque la mode sera enfin en phase avec ma manière de consommer...」",0,
 1689,「Pourquoi il ne se passe jamais rien d'intéressant ? Quelqu'un ne pourrait pas dessiner un cercle de culture quelque part sur le campus ?」,,「面白いコトねぇなあ。誰か、校庭にミステリーサークルとか作ってくんねぇかなあ」
 1695,"「C'est quoi ce fantasme ? Et pourquoi pas une princesse de Mars, tant que t'y es ?」",,
 1697,,2,
@@ -85,6 +86,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 1904,"Tout en lavant la fenêtre voisine de Sōjūrō, la femme parlait gaiement.",,
 1917,"「Sōjūrō...... Oui, c'est un beau nom, qui donne une impression<r>d'ancienneté.",,
 1953,"「...... Hmm. Je ne comprends pas trop, mais si jamais on se retrouve dans une situation difficile, on peut se rendre ici, c'est ça ?」",,「……はあ。よく分からないですけど、ピンチの時はここに転がりこめばいいんですね？」
+1984,"À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――",,
+1998,"「Ah, excuse-moi de t'avoir interrompu. Tu peux te consacrer à ton<r>travail―――」",,
 2029,"Les emplois autorisés par l'école étaient limités au quartier marchand du vieux quartier de Misaki, c'était donc le genre de réponse à laquelle elle s'attendait.",,
 2071,,2,
 2072,,2,
@@ -92,12 +95,13 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 2176,"Hier, j'ai reçu plein de restes du magasin. Des rouleaux de printemps ! Quand mon père a vu ça, il m'a cassé les oreilles à me dire qu'il ne fallait pas gâcher ce qu'on nous donne. Résultat, je n'ai que ça à manger.」",,オレさあ、昨日店の残り物もらいすぎたんだよ。春巻だよ春巻。それを見た親父がさあ、貰ったモンは残すなってうるさくてさあ。食いもん、春巻きしかねーんだわ」
 2182,"「Espèce d'idiot, ce sera sûrement super amusant ! C'est vrai que ça pue la pâtée pour chat, mais au moins, tu peux manger du crabe en conserve à volonté ! Et c'est pas du maquereau !」",,
 2192,"Le manger, c'est l'enfer, le gâcher, c'est aussi l'enfer. Devenons <des Shura ne|gardiens de temple> craignant pas d'être absents à la 5e période de cours, et apportons la paix à ces démons de fer―――",,
-2193,"Oooh, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」",,えー、食材は下町のなんでも商会、マーケット中山からの提供です！」
+2193,"Hum, les ingrédients viennent du marché Nakayama et de la firme Macoy de la ville basse !」",,えー、食材は下町のなんでも商会、マーケット中山からの提供です！」
 2196,"「Allez, Shizuki, n'hésite pas à te servir. Il y a encore plein d'ouvre-boîtes.」",,「ほら、静希も食べようぜー。缶切りならまだあるからさー」
 2234,「Ta gueule nous dérange ! T'étais pas censé zoner du côté de la cafétéria ?」,,「テメエらのバカ顔にはこりごりだって、学食に陣取ってたんじゃなかったのかよー！」
 2257,"「Ah... Non, nous autres, on a le corps fragile.... On va manger nos boîtes de conserve, peinards dans notre coin, d'accord ?」",,「あー……いや、僕ら、ちょっと体弱いんで……すみっちょで缶詰食べてますね？」
 2267,"Voyant sûrement le dos qui s'éloignait comme une opportunité, Kinomi marmonna une jérémiade de sorte que seuls ses camarades puissent<r>l'entendre.",,
 2276,"「Quoiii ?!!! Attends, c'est une véritable condamnation à mort ?! Le conseil étudiant est vraiment tyrannique !!!」",,@o「げぇぇぇ!!!?　ちょ、それ事実上の死刑宣告じゃん!?　生徒^会まじ横暴ー！！！！」
+2333,,1,
 2340,"D'après toi, pourquoi m'a-t-elle confié cette tâche ?」",,あいつ、どうして俺にこんな役させたと思う？」
 2348,,0,
 2349,,0,
@@ -109,7 +113,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 2458,"「...... C'est bon, j'ai compris. Arrêtons là cette conversation. Et puis, ce ne sont pas mes affaires de savoir quelle femme tu choisiras.」",,
 2464,"Ce n'est pas comme si Aozaki détestait le type qu'elle a battu. En retournant le problème, ça ne veut pas dire qu'elle aime quelqu'un avec qui elle est aimable.",2,蒼崎はケンカをした相手だろうと別に嫌うワケじゃない。逆に言えば、親切にしたって別に好かれるワケでもない。
 2465,J'en suis un bon exemple.」,0,いい例が俺だ」
-2482,,0,
+2481,,0,
+2482,,1,
 2488,"“Je garderai ça dans un coin de ma tête”, dit Sōjūrō tout en regardant<r>l'horloge.",,
 2513,"「Arisato. Où est Shizuki, numéro de place 12 ?」",,
 2547,,0,
@@ -130,7 +135,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 2784,「Je vois. C'est pour cette raison que tu en es venu à la conversation de tout à l'heure.,,
 2790,Il aurait aimé qu'elle arrête d'émettre une aura meurtrière tout en faisant un sourire angélique.,,
 2796,"Tobimaru découvrait ce nouveau fait, mais ce n'était pas comme si ça allait changer quelque chose à la situation.",,そんな新事実を発見した鳶丸だが、だからといってこの場がどうにかなる訳でもない。
-2834,,1,
+2835,,1,
 2836,"「Quand le Petit Sō est sorti et que tu fixais le mur, le carillon a sonné.<r>Ça ne te dérange pas, présidente ? De sécher la cinquième période ?」",,
 2903,"Mon petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」",,
 2917,"Contrairement au rez-de-chaussée et à ses cent appareils, le premier étage comptait environ quatre-vingts machines. Il y avait des sièges vides ici et là, mais pour une soirée, le nombre de clients était convenable.",,
@@ -578,90 +583,139 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 12999,"「...... Aaah. Le proverbe dit bien “Bien mal acquis ne profite jamais”, et c'est parfaitement juste. Ma petite rémunération va partir en fumée...」",,「……あーあ。悪銭身に付かずって言うけど、ホントその通り。臨時収入は泡と消えた、か」
 13008,"Au moment où une pichenette l'envoya valser, on frappa à la porte<r>d'entrée.",,
 13052,,0,
+13070,"「Au lieu de nous focaliser sur le passé, concentrons-nous plutôt sur le présent !",,
 13177,"「En fait, j'ai reçu ma paye aujourd'hui.",,「実は今日、給料日だったんだ。
 13269,「Sōjūrō. Tu te rappelles de ce qu'a dit Kinomi ?」,,「木乃美くんがなんて言ったか、覚えてる？」
 13280,"Euh...... Voyons, pour faire un parallèle, c'est comme un cahier de cours.",,えーと……そうね、喩えるなら授業のノート。
 13328,「De grands artistes viendront au Japon dès l'été prochain......,,「来年夏にはビッグアーティストも来日予定……
-13329,Pinktrude en fait partie ?!,,って、ピンクトゥルーデが入ってない！？
+13329,Pinktrude en fait partie ?!,1,って、ピンクトゥルーデが入ってない！？
 13360,,2,
+13448,"Comme elles savaient qu'elles se trouvaient au dernier étage de l'immeuble, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.",,
+13519,Ces trois heures passées à observer les crocodiles l'avaient peut-être influencé : on aurait pu croire qu'il se demandait sincèrement l'effet que cela faisait de passer toute la journée allongé.,,
+13564,“Tiens donc ?” fit la femme d'un air surpris en apprenant l'absence<r>d'Aoko.,,
 13572,"Elle devait être dans le début de la vingtaine, mais elle ne lui semblait pas beaucoup plus vieille que lui.",,歳の頃は二十代前半だろうけれど、そう草十郎と歳が離れている気がしない。
 13580,"Pour le moment, je garde la maison, mais en fait, je suis un ami d'Aozaki.」",,とりあえず、今は留守番してますけど、実は蒼崎の友人なんです」
+13608,"...... Chose quelque peu embarrassante, la vidéo d'Animal Land passait toujours à l'écran.",,
 13732,"「...... Ce n'est rien. Aoko, avais-tu remarqué que nous étions les seules à être descendues à cette gare ?」",,「……どうもなにも。この駅で降りたのは貴女とわたしだけなの、気付いていた？」
+13748,"「...... Oui. Cependant, vu leur qualité, on ne trouverait sûrement pas<r>d'acheteur.」",,
 13780,,1,
-13828,,0,
+13828,,1,
 13837,,1,
+13881,"「C'est une nouvelle sorte de chaîne ? Mais d'après ce que je peux voir,<r>c'est...」",,
+13891,"“Je vois”, murmura Tōko d'un air satisfait en entendant sa réponse<r>directe.",,
 13934,"En premier lieu, tant que nous serons influencés par notre égoïsme, même les informations que nous recevons de nos cinq sens resteront subjectives. Le monde entier est dans le brouillard. Et puis, j'ai tendance à ne pas croire ce qui est seulement visuel.」",,そもそも我欲があるかぎり、五感による情報にすら主観が入る。全てこの世は霧の中だ。もともと目に見えるだけのものは信じていない質でね」
+13956,"Durant cette heure de discussion, elle avait appris à connaître le garçon appelé Shizuki Sōjūrō mieux encore qu'il ne se connaissait<r>lui-même.",,
+13966,"“Je te jure”, grommela Tōko en regardant le plafond avant de se<r>relever.",,
+13985,Il ressentit une étrange sensation de flottement et son cerveau<r>s'engourdit.,,
 14005,,1,
+14021,"Aaah, qu'est-ce que je suis disgracieuse. Qu'est-ce que je suis<r>pito―――」",,
+14106,,0,
 14111,「───Je ne le dirai pas deux fois.,,「―――二度は言わないわ。
 14113,"Bien que dissimulées, d'intenses émotions brillaient dans les yeux d'Alice.",,有珠の目には、潜めた、けれど激情が灯っている。
 14115,「...... Pardon. Je savais pourtant que cet endroit t'est cher.」,,「……すまない。有珠にとってここが大事な場所なのは、分かってたのに」
-14175,"Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.",,あー、草十郎の分かるレベルに落としこむと……ま、太陽みたいなものと考えて。
+14175,"Aaah, en le simplifiant de manière à ce que tu puisses comprendre...... Bah, considère ça comme le soleil.",0,あー、草十郎の分かるレベルに落としこむと……ま、太陽みたいなものと考えて。
+14188,"Mais ça n'a que des limites, c'est bien ça ?」",,
+14189,"「Des limites ou plutôt, c'est une sorte d'exception ou de privilège, voire d'abus.",,
+14194,tandis qu'Alice ressentait une irrésistible envie de corriger les propos<r>d'Aoko.,,
 14210,"Après tout, le but final des Mages, c'est d'atteindre le Tourbillon de la Source, et non pas d'obtenir la Vraie Magie.",,だって、魔術師にとって最終目的は根源の渦への到達であって魔法じゃないし。
 14231,C'est pour ça que les lignées de Mages se marient entre elles et accumulent le prana des générations précédentes pour le transmettre à la suivante. Tout ça afin de donner naissance à des successeurs qui les surpassent.」,,だから魔術師は血脈を重ねて、代々の魔力を次代に積み重ねていく。自分より勝れた後継者を生むために」
 14318,,2,
 14348,"「Ben, comme je viens de le dire, elle a un sale passe-temps qui consiste à voler ce qui m'appartient et à le détruire. En quatorze ans d'efforts, pas une seule chose sur laquelle elle a jeté son dévolu ne s'en est sortie indemne.」",,「だから、あの人って私の持ち物を横取りしてはぶっ壊すのが趣味なのよ。苦節十四年、姉貴に目をつけられて無事だった物なんてひとつも無いもの」
+14362,Alice se taisait comme pour manifester son adhésion au commentaire<r>d'Aoko.,,
+14405,"tandis qu'Alice était plongée dans un livre traitant des sorts de Runes et levait la tête de temps à autre, comme si quelque chose lui revenait à<r>l'esprit.",,
 14412,"「―――,",,「―――、
-14413,ahem.」,,ぽこ」
+14413,ahem.」,1,ぽこ」
 14421,"C'était le travail d'un homme de fer, sans erreur ni relâche.",,あまりにも迷いのない、鉄人の作業だった。
+14449,"「Et une fois que tu auras fini tout ça, tu pourras aussi venir dans ma chambre ?",,
+14493,"Alors qu'Aoko affichait un sourire jovial, le visage de Sōjūrō<r>s'assombrissait.",,
+14540,"Aoko et Alice passaient de plus en plus de temps enfermées dans leur chambre, et le nombre de conversations lors des repas diminuait à vue<r>d'œil.",,
 14561,Cependant...,,
 14578,Les cheveux et les yeux humains ont toujours constitué de bons matériaux en Magie. Tout particulièrement dans le cas des femmes.,,昔っから人間の髪や目は魔術の材料になりやすいの。女の場合は殊更にね。
+14595,"Sur cette dernière phrase, un sourire mesquin se dessina sur les lèvres<r>d'Aoko.",,
 14635,"Alors, si la Tōko que nous connaissons a préparé un familier comme arme secrète, il doit...」",,あの橙子さんが切札になる使い魔を用意したのなら、それは」
+14745,"Il allait dire quelque chose, mais une pensée lui traversa soudainement l'esprit.",,
 14795,J'ai tout un tas de choses à te dire. J'aimerais aussi avoir de tes nouvelles. Et je meurs d'envie de t'expliquer pas mal de choses en ce qui concerne cette histoire.,,積もる話もある。君の近況にも興味がある。そもそも今回の件について、色々と説明したくてたまらない。
 14811,"Ça va jusqu'à la forêt à côté, ce qui nous donne un ring d'environ<r>400 m².",,Pour forcer le retour à la ligne
 14830,"De plus, la Rune utilisée était une technique inconnue non brevetée par<r>l'Association.",,Pour forcer le retour à la ligne
+14891,Tōko avait donné un effet infini à cet Œil en le faisant se miroiter à<r>l'intérieur.,,
 14935,,2,
 14957,"『Wood and clay will wash away,",,"『Wood and clay will wash away,』"
 15036,Il s'agissait d'un spécimen d'une espèce éteinte qui vivait au temps de<r>l'Âge des Dieux.,,Retour à la ligne
 15118,,0,
-15291,,0,
+15253,"...... Et pourtant, à la toute dernière seconde, elle l'avait appelé au secours,",,
+15291,,1,
+15301,La douleur de son abdomen et l'inconfort dû au Sceau Magique<r>l'assaillaient.,,
 15378,"「J'y pouvais rien, non ? Il n'y avait plus de trains. J'aurais pu appeler un taxi, mais malheureusement, je n'avais pas d'argent sur moi.",,「仕方ないだろ。電車、終わってたんだから。タクシーを使えば良かったんだけど、あいにく持ち合わせがなくて。
-15384,"「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas simplement parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」",,「使えるものがあるのにお金がないだけで使えないんだから、それって不便って言わないか？」
+15384,"「Pourquoi ? On pourrait utiliser certaines choses, mais on ne peut pas parce qu'on n'a pas l'argent. Ce n'est pas terriblement frustrant, ça ?」",,「使えるものがあるのにお金がないだけで使えないんだから、それって不便って言わないか？」
+15401,"La partie gauche du manoir, située à l'ouest du vestibule, était sous sa juridiction.",,
+15462,Elle avait un timbre bien plus pathétique que sa voix résistant à la<r>douleur.,,
+15487,"「Attends, Alice ! Si tu veux les prévenir, pourquoi ne pas plutôt leur téléphoner ?」",,
 15489,「Je l'ai déjà fait savoir aux gens de l'église.,,「教会の人になら、もう報せた。
 15502,"「Tu seras plus en sûreté à l'église qu'ici. Et puis, moi aussi, je dois me dépêcher.",,
-15503,"...... Shizuki, peux-tu pédaler avec deux personnes dessus ?」",,
+15503,"...... Shizuki, peux-tu pédaler avec deux personnes dessus ?」",1,
 15508,「............,,「…………
 15509,"Si tu ne peux pas, alors tant pis.」",,出来ないなら、いいわ」
-15529,"「Allons-y, monte sur le porte-bagages arrière. Par contre, comme<r>il n'y a pas de selle, ça risque de faire mal. Si c'est pénible, dis-le-moi, je m'arrêterai.」",,Retour à la ligne
+15529,"「Allons-y, monte sur le porte-bagages arrière. Par contre, comme il<r>n'y a pas de selle, ça risque de faire mal. Si c'est pénible, dis-le-moi, je<r>m'arrêterai.」",,Retour à la ligne
 15590,"「À votre guise. Je me rends à la commission médiatrice. Si l'administrateur change, je dois préparer les documents pour l'Église et<r>l'Association.",,Pour forcer le retour à la ligne
 15647,「............,,「…………
+15565,"et cette fois, la blessée grave ne pouvait pas être prise en charge par l'hôpital.",,
 15585,,2,
+15589,"「Très bien, nous entrons. ...... Donnez-nous la permission qu'il<r>m'accompagne.」",,
+15641,"「C'est incompréhensible. Ritsuka, vous n'êtes pas mariée, il me semble ?」",,
 15648,Vraiment ?」,,本当？」
-15650,,0,
+15650,,1,
 15659,"「Je ne sais pas ce qu'il représente pour vous, mais c'est le compagnon<r>d'Aoko.",,Retour à la ligne
 15660,"Avez-vous besoin d'autres détails, Ritsuka ?」",,その他に説明は要りますか」
 15682,"Ritsuka poussa un soupir face à la méprise du garçon due à son inexpérience,",,
 15711,,7,"2 espaces indentation + 4 espaces pour remplacer ""Aoko"" + 1. Peut-être remplacer par ____ ?"
 15712,,7,"l'espace pour le nom d'Aoko, invisible. Peut-être remplacer par ____ ?"
 15717,Yuika touchait      allongée.,,Ajout de 2 espaces pour Aoko
+15725,Les morceaux de tissus entassés sur le sol évoquaient des roses<r>flétries.,,
 15734,Son visage habituellement inexpressif semblait maintenant venir<r>d'outre-tombe.,,Pour forcer le retour à la ligne
+15744,"À chaque seconde, les tout nouveaux bandages s'imbibaient un peu plus de vermillon.",,
+15837,"Selon les principes de la Magie, le Mystère le plus fort l'emporte sur<r>l'autre.",,
 15845,"Quant à la Magie runique qu'utilisait Tōko, elle n'avait qu'une vingtaine<r>d'années.",,Pour forcer le retour à la ligne
-15931,,0,
+15867,se tenait au milieu des restes encore fumants du “monstre de contes de fées”.,,
+15931,,1,
 15956,"Nous étions les seules à avoir le privilège de connaître tous ses aspects, mais puisque Tōko le connaît depuis longtemps, elle n'a pas besoin de<r>l'analyser...",,Pour forcer le retour à la ligne
 16011,"Fondamentalement, elle percevait chaque humain comme une<r>“menace”.",,Pour forcer le retour à la ligne
+16149,Que s'est-il passé hier<r>soir ?」,,
 16152,"Il m'a mordue à la gorge, mâchée sur tout le corps, et en plus, il paraît que mon fémur droit avait disparu.",,喉に食い付かれる、体中好き放題噛まれまくる、あげくに右の腿なんてなくなってたそうよ。
+16160,"Dans les deux cas, il s'agissait de la manifestation de sentiments<r>humains.",,
+16167,"「Et Tōko alors ! Comment a-t-elle réussi à apprivoiser un monstre<r>pareil ? Un loup doré, je croyais que ça n'existait que dans les légendes.",,
 16168,"...... On ne peut pas s'opposer à lui, un Mystère de l'Âge des Dieux, sans l'aide d'une Magie plusieurs fois millénaire. Mais dans le même temps, on n'a aucune chance de le battre à coups de poing......」",,……神代の神秘であるあいつには千年クラスの魔術じゃないと太刀打ちできない。かといって殴り合いでどうにかできる相手じゃないし……」
 16192,"comment peut-il traiter le corps d'une femme d'une telle façon, ce gamin―――Hein ?」",,人の体を何だと思っているのかしらね、あのお子さ―――なぬ？」
 16246,「............,,「…………
 16247,Aozaki ?」,,蒼崎？」
+16273,"Le visage de profil d'Aoko, qui parlait d'un air vexé, avait quelque chose d'effrayant.",,
 16326,"Dans la vie, ton principal spectateur, ce n'est nul autre que toi-même. Voilà pourquoi on ne peut jamais baisser sa garde.」",,生きてく上で一番の観客っていうのはね、他ならぬ自分自身なのよ。だから人生っていうのは油断ならないんじゃない」
-13343,"Tel un pénitent, il se sentait submergé par un indéfinissable sentiment<r>d'impuissance.",,Pour forcer le retour à la ligne
+16343,"Tel un pénitent, il se sentait submergé par un indéfinissable sentiment<r>d'impuissance.",,Pour forcer le retour à la ligne
+16407,"「Je sais vaguement à quel point la vie en montagne peut être rigoureuse. Moi-même, dans ma jeunesse, j'y ai eu un accident à cause d'une petite faute d'inattention.",,
 16450,"「Voilà, c'est ça. S'il y a bien une chose dans laquelle tu excelles, c'est cette adaptabilité.",,「ほら、そこです。君に勝れた部分があるとしたら、その順応性です。
-16452,"Tu t'habituais à peine à cette vie remplie de bon sens que tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.",,ようやく慣れた常識の中で、青子たちという非常識と関わっても暮らしていけた事。
+16452,"Alors que tu t'habituais à peine à cette vie remplie de bon sens, tu t'es retrouvé impliqué avec les anomalies que sont Aoko et Alice. Et pourtant, tu as conservé ta routine.",,ようやく慣れた常識の中で、青子たちという非常識と関わっても暮らしていけた事。
 16457,"Pouvoir naturellement se fondre dans le paysage ou entre les arbres est une qualité magnifique, mais ne pas avoir d'égo implique ne pas avoir d'endroit à soi.",,風景に溶けこむ自然さは素晴らしい人徳ですが、自我がないという事は、居場所がないという事ですから。
 16459,"「Cela dit, le fait que Yuika soit incapable de te voir allait au-delà de toute prédiction.",,「唯架にまで見えない、というのは予想以上でしたが。
 16465,"Et par la même occasion, tu as vu en Aoko ce que tu ne pourras jamais obtenir.」",,そして同時に、貴方は青子に、自分ではどうしても手に入れられないものを見てしまった」
 16478,"Me voilà gêné. Les mots ne suffisent pas à expliquer ce genre de chose...... Enfin, je ne réponds pas au titre de prêtre pour rien. Je vais me faire porte-parole et changer d'angle d'attaque.",,まいりましたね。こういう事は言葉を尽くすほど実感が湧かないものですが……ま、私も神父と呼ばれる身です。少し切り口を変えて代弁してみましょう。
 16522,"―――Cependant, elle a rejeté ma proposition sans hésitation.",,―――しかしまぁ、躊躇なくフられました。
+16576,et pourquoi avait-il résolu les problèmes d'autrui sans que personne ne le lui demande ?,,
+16599,la sœur le retint avec sa seule voix.,,
+16647,,0,
+16648,,1,
 16741,"Pour lui, la notion de bien et de mal se basait simplement sur “l'attirance” et “le dégoût”.",,彼にとっての良し悪しの基準は、単純に「格好いい」か「格好悪い」か。
 16742,"Les passe-temps, l'apparence ou le sexe de la personne avaient peu<r>d'importance.",,Pour forcer le retour à la ligne
 16768,"「Eh bien, si cette idée stupide a pu germer dans son esprit, c'est<r>que―――」",,Pour forcer le retour à la ligne
 16863,pendant qu'Aoko attaquait Tōko par surprise avec le soutien du<r>“miroir”.,,Pour forcer le retour à la ligne
+16882,"Tout ceci ne m'importe plus vraiment. Je les désire, mais si j'atteins la Source, je pourrai obtenir les deux moi-même.",,
+16892,"On pouvait même affirmer que si cette ville disparaissait à cause de l'activation de la Vraie Magie, cela ne lui ferait ni chaud ni froid.",,
 16925,「<[swel]|Sow>―――」,,
+16927,Mais les empreintes d'Aoko s'arrêtèrent subitement avant qu'elle ne<r>l'achève.,,
 16934,「<[swel]|Sowilo>―――!」,,
 16953,C'était un <sort de haut niveau à quatre versets|Force To Fourth> qui nécessitait l'activation<r>du Sceau Magique.,,
 16956,「―――<[eywz]|Eihwaz> !」,,
-16965,"Là où elle se situait, son champ de vision était divisé en deux et il lui était impossible de confirmer visuellement la position de sa sœur cadette......!",,橙子の位置からでは視界が二つに別けられ、正面の像を視認できない……！
+16965,"De là où Tōko se situait, son champ de vision se séparait en deux et elle ne pouvait déterminer la position de sa sœur cadette......!",,橙子の位置からでは視界が二つに別けられ、正面の像を視認できない……！
 16988,"「<Forme Balle de prana|Tour Plan>, <Tir Convergeant|Starmine>―――Circuit, feu.........!!!!」",,
+17072,elle se sentit stupide de visiter cet endroit sans apporter la moindre réponse.,,
 17114,,1,
 17190,Les différences se résumaient à l'apparition du jardin de fleurs<r>et―――,,Pour forcer le retour à la ligne
 17219,"「―――<Circuit|Turbine>, <Connexion|Set>.」",,
@@ -669,10 +723,13 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 17230,"De son côté, Aoko ne se souciait guère des préparatifs de Tōko et ne daigna même pas lever le bras pour ajuster sa cible.",,対して、青子は意にも介さず、照準を合わせる為に腕をあげる事もなく、
 17243,"「<[ansz], [swel], [ingz]|Ansuz Sowilo Ingwaz> !」",,
 17334,"Tu sais Alice, je croyais être incapable de trouver ce genre de chose.",,けれどね、有珠。そんな物は、見つからないって思っていたんだ。
+17361,"Si elle garda un instant le silence, ce n'était pas parce qu'elle détestait Sōjūrō, mais probablement parce qu'elle se montrait attentionnée à sa<r>façon.",,
 17413,Les lames de tonnerre furent repoussées par les balles de prana à la manière d'une bourrasque de vent.,,飛び交う電刃を、暴風の如き魔弾が叩き伏せる。
 17454,,0,
 17476,"「―――<Axe subjectif|Main>, <Fixé|Set>.」",,
 17512,,0,
+17527,"Tu comptes imposer cette dette à l'humanité qui est déjà dans une impasse, avec l'extinction de l'univers qui arrivera dans plusieurs centaines de milliards d'années ?!",,
+17528,,1,
 17533,"「J'y penserai le moment venu ! La prochaine fois, j'enverrai le temps emprunté dans le passé ! De cette façon, tu n'auras plus de quoi te plaindre, hein ?!",,「その時はその時で、今度は負債を過去に送ってやるわよ！　それなら文句ないんでしょう！？
 17534,,0,
 17547,"「Tu n'as pas à me le dire, je le sais !",,「言われなくても分かってる！
@@ -683,13 +740,20 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 17692,,1,
 17693,,1," Espace obligatoire, en jeu cette phrase est directement collée à la précédente"
 17731,Aoko répondit malgré elle au murmure sarcastique de Tōko.,,皮肉げな呟きに、青子はついそんな返答をしてしまった。
-17783,,0,
+17738,Alors ? Que vas-tu faire de moi ? Tu vas le laisser me tuer ou<r>m'épargner ?」,,
+17783,,1,
 17805,"D'après ce que j'ai entendu, Aozaki lui a lancé une malédiction qu'elle ne pourra pas dissiper facilement. Du coup, elle ne pourra plus revenir dans la ville de Misaki pendant dix ans.",,蒼崎が言うにはそう簡単に解呪できない呪いをかけたから、むこう十年は三咲市には入ってこれないって。
 17841,Alice prononça quelques paroles inhumaines avant de se mettre en marche sans un bruit.,,わりと非道な事を言って、有珠は歩きだした。
 17881,"「Je vois. Si Aoko l'apprenait, je n'aimerais pas être à ta place.」",,「そう。青子が聞いてたら大変ね」
-17982,"On peut facilement obtenir le même résultat avec une Aria d'un verset de gematria, mais comme tu es obsédée par les incantations, tu n'as obtenu qu'un Automate qui n'est même pas capable de voler, triple idiote !」",,あんなの、ゲマトリア一節分の詠唱で同じ効果を出せるのに、あくまで呪術にこだわるから空も飛べない人形になるのよ、バカ姉貴っ！」
+17985,"Dans la forêt, le jeune chevalier rentrait au château après avoir secouru la Belle au bois dormant sans avoir eu pour autant le courage de<r>l'embrasser.",,
+17942,"Tōko acquiesça, satisfaite par la vitesse de déduction de son<r>adversaire.",,
+17944,"En réalité, il vaudrait mieux le graver sur la chair comme vous. L'activation d'un sort ne demande alors qu'une<r>action.",,
+17973,"Il faut une heure pour se rendre en ville. Je n'étais qu'en cinquième à<r>l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」",,
+17979,"Lorsque j'ai regardé dehors, j'ai remarqué qu'une vache et trois poules avaient disparu et j'ai compris que l'échange équitable, le labeur et les problèmes d'argent n'avaient aucune place dans le cerveau de cette<r>fille !」",,
+17982,"On peut facilement obtenir le même résultat avec une Aria d'un verset de gematria, mais comme tu es obsédée par les incantations, tu n'as obtenu qu'un Automate qui n'est même pas capable de voler, triple<r>idiote !」",,あんなの、ゲマトリア一節分の詠唱で同じ効果を出せるのに、あくまで呪術にこだわるから空も飛べない人形になるのよ、バカ姉貴っ！」
+17985,Tōko fronça légèrement les sourcils suite aux injures de sa sœur<r>cadette.,,
 18055,"Elle faisait semblant de nous prendre à la légère, mais en réalité, elle était sérieuse depuis le début.」",,甘く見ていたフリで、初めから、余裕なかったんだ」
-18060,,0,
+18060,,1,
 18082,La résistance était similaire à celle qu'elle avait ressentie en détruisant<r>l'Automate.,,Pour forcer le retour à la ligne
 18091,,0,
 18106,,2,
@@ -699,18 +763,34 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 18237,Espèce... d'idiot.」,,この、ばか」
 18276,"Il était toujours aussi suffisant, mais sa voix tremblait sous le coup de<r>l'irritation.",,Pour forcer le retour à la ligne
 18296,,0,
+18307,Le simple fait qu'il se soit changé en bête relevait déjà du cauchemar.,,
+18334,Le loup-garou s'élança vers Sōjūrō avec ces quatre mots pour seul<r>signal.,,
+18421,"Cette douleur, cette situation, tout n'est que<r>mensonge.",,
 18442,,16,réduire l'espacement pour aligner la prochaine lgine à droite
 18446,,16,réduire l'espacement pour aligner la prochaine lgine à droite
+18530,"「Comment ça, “quoi”...... Est-ce que tu réalises ce que tu viens de<r>faire ?」",,
 18542,「――――――,,「――――――
 18543,Hein ?」,,は？」
+18550,"Maintenant qu'elle y pensait, la formulation employée avait été curieuse.",,
 18602,Recourir au poing implique d'en payer le prix en retour. D'autant plus face à un loup-garou.,,拳を振るうのなら相応の負担がある。まして相手は人狼。
+18642,"Si ce coup de coude, qui aurait dû être repoussé par la fourrure du loup-garou, avait été fatal, c'était entièrement grâce à leur premier<r>contact.",,
+18669,"Ce n'était pas dû au talent, mais à un genre de ténacité, voire de<r>rancune.",,
+18716,"『Si je coopère avec toi pour qu'on se débarrasse d'elle, tu<r>m'épargneras ?』",,
+18719,...... Aoko était pourtant persuadée que cette promesse ne concernait<r>qu'elle.,,
 18740,"“C'est vrai”, dit Sōjūrō sur un ton réjoui, en réponse au grommellement<r>d'Aoko.",,Pour forcer le retour à la ligne
+18789,"Mais plus qu'une distance concrète, il s'agissait d'une rupture<r>relationnelle.",,
 18796,――――――,,――――――
 18797,J'ai vraiment été naïve.」,,本当に、甘かった」
+18842,L'expression détendue de Sōjūrō s'assombrit avec l'entrée en scène<r>d'Aoko.,,
+18858,"Sōjūrō regardait également la jeune fille, d'un air franchement<r>récalcitrant.",,
+18934,"À mesure qu'ils approchaient de la montagne, les ténèbres<r>s'épaississaient.",,
 18939,Le chemin dont on ne voyait pas le bout s'étirait indéfiniment.,,ゴールの見えない道は延々と続いている。
+18942,La jeune fille marchait sans un mot et affichait une expression<r>impassible.,,
 18951,「Je ne te l'ai pas dit ? Je ne ferais que perdre mon temps inutilement si je marchais seule sur un chemin désert. Je voulais une personne avec qui discuter pour tuer le temps.」,,「言わなかった？　こんな何もない道をひとりで歩くのは時間の無駄でしょ。退屈しのぎに話し相手がほしかったの」
+18956,"Aoko avait tenté à sa façon d'endurer le silence que seuls leurs bruits de pas brisaient, mais elle finit par atteindre ses limites et commença à parler.",,
 19001,"「Eh bien, personne n'est revenu après avoir atteint la Source. Et ce dans le monde entier.",,「根源に触れて、帰ってきた者は一人もいないの。世界規模でね。
 19008,「C'est simple. Ces personnes-là ont dû devenir des dieux une fois à<r>l'intérieur.」,,Pour forcer le retour à la ligne
+19010,comme si elle parlait d'une histoire quelconque ou de la météo de la<r>veille.,,
 19035,"「Dis-moi, Aozaki, que voulais-tu dire quand tu parlais de la changer en grenouille...」",,「そういえば。カエルにするって、いったい……」
 19049,"Et apparemment, j'ai eu recours à cette méthode.",,私がやったのは、その再編成の方みたい。
 19114,"Mais ce n'est pas comme si tu allais disparaître, pas vrai ? Après les vacances de Noël, on se reverra à l'école.」",,でも蒼崎が消えるわけじゃないんだろう？　冬休みが終われば、また学校で会えるじゃないか」
@@ -723,10 +803,13 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19201,"「...... En montagne, personne ne songeait à voler qui que ce soit.",,「山では、誰も他人から奪うことを考えなかった。
 19202,"Lorsque je cherchais quelque chose à me mettre sous la dent, il n'y avait que les chiens et les ours qui représentaient un danger, jamais les hommes.",,口にできるものを探す時、気をくばる相手は犬だの熊だのだけで、人を気にする事はなかったんだよ。
 19203,"Maintenant, c'est plutôt le contraire.",,今は、その逆になりつつあるけど。
-19267,,0,
+19267,,1,
+19271,,10,
 19290,,0,
 19293,C'est à croire que je ne suis jamais gentille.」,,まるで、普段から優しくないみたいじゃない」
 19356,alors ses pensées se porteraient probablement vers le futur lorsqu'elle<r>l'ouvrirait.,,Pour forcer le retour à la ligne
+19358,"...... La scène qui l'attendait à l'intérieur avait quelque peu changé, mais cela restait l'image chaleureuse et coutumière dont elle gardait le<r>souvenir.",,
+19404,"Et ce jour-là, tous les éléments avaient convergé vers le même résultat.",,
 19524,「――――――,,「――――――
 19525,Aozaki.」,,蒼崎」
 19562,"「Tu vois, Aozaki, en montagne, on a vraiment l'impression de pouvoir toucher les étoiles. On sait que c'est impossible, et pourtant, elles ont l'air si proches qu'on croirait pouvoir les saisir si l'envie nous en prenait.",,「山ではね、蒼崎。星は本当に手が届きそうなんだ。届かないのは分かっていても、望めば掴めそうなぐらい近いのに。
@@ -903,32 +986,52 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20446,"Le menu ne comporte qu'des hot-dogs, du pop-corn et des frites.",,外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
 20451,Ha ha ha. Vous ne l'commandez donc pas pour le manger.,,ハハハ。食事として、頼むワケでは、ないと。
 20488,,0,
+20602,"quatre ans après sa fugue de la maison Aozaki, dans le plus grand<r>secret.",,
+20692,"Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」",,
+20705,"même s'il trouvait ça louche, Tōko était clairement plus douce que<r>d'habitude.",,
+20895,Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre à faire preuve de bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」,,
 20910,"Suse Ritsuka, à peu près deux ans plus vieille que Tōko, était une Mage dépêchée il y a dix ans en tant qu'observatrice du grand-père de cette dernière―――le Mage ayant découvert la voie vers la Cinquième Vraie Magie.",,橙子より二歳ほど年上の周瀬律架は、十年前から橙子の祖^父―――五番目の魔法の路を発掘した魔術師―――の監視^役として派遣された魔術師だ。
 20978,,0,
 21018,"Celle qui appartient à la catégorie du relatif, qui se soucie des autres,<r>c'est...」",,Pour forcer le retour à la ligne
 21076,"Ritsuka fait du boycott et les élèves font de moins en moins de bénévolat...... Au bout du compte, je suis la seule à travailler.」",,律架もサボタージュ、奉仕の生徒さんたちも日に日に減っていく一方……結局、労働力は私ひとりだけなのですね」
+21080,La sœur laissa échapper quelques plaintes et souleva d'une seule main un escabeau.,,
+21140,"Pour Beo, le repas n'était qu'un simple moyen de réapprovisionnement en énergie.",,
 21214,...... Ils n'aiment pas un ingrédient juste parce qu'il sera bon pour le corps. Les hommes mangent en suivant le concept du plaisir. Voilà pourquoi ce qu'on aime évoque la douceur.」,,"……自分の体に合っているからその食材を好む、ではないんだよ。ヒトは ""楽しい"" か ""楽しくない"" かで食事をとる。好きなものが甘く見えるのはその為だ」"
+21216,"「Ce n'est qu'un exemple. En tout cas, ça n'évoque sûrement pas<r>l'amertume... Quoique ça doit dépendre des gens.",,
+21300,"En première année, je ne le considérais que comme un simple ami<r>d'Aozaki.",,
 21305,"Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question<r>suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”",,Pour forcer le retour à la ligne
 21312,C'était pour cela que je n'accepterais sûrement pas de céder à la soudaine manifestation de cette illusion particulière à la puberté qu'était<r>l'amour.,,Pour forcer le retour à la ligne
-21344,,0,
-21345,"Hōsuke, et également,",0,芳助と、
+21344,,1,
+21345,"Hōsuke, et également,",1,芳助と、
 21346,,1," Espace obligatoire, en jeu cette phrase est directement collée à la précédente"
+21362,Tu es arrivée bien en retard par contre. Encore un de tes petits<r>boulots ?」,,
+21373,"Tandis que je m'inclinais avec empressement pour m'excuser, j'avais aperçu dans sa main une cigarette qu'il était justement sur le point<r>d'allumer.",,
+21459,La femme observait d'un air amusé le semblant de petit animal que<r>j'étais.,,
+21492,"「La chambre de Sōjū...... Je veux dire, le grenier n'a pas de serrure. N'importe qui peut y entrer n'importe quand.」",,
 21494,"Je ne vois pas la source de la détonation, mais...... Yurihiko avait-il l'habitude de manipuler des bombes ? Ça m'étonnerait pas d'un artiste. C'est ce que disait Taro Okamoto, non ?」",,爆発もとは見あたらないけど……ユリヒコ、爆弾で遊ぶ性癖があったとか？　まあ、芸術家らしいけど」
 21515,"Quel intérêt aurait-on à utiliser des explosifs...... Quoiqu'avec des bombes télécommandées ou à retardement, on peut mettre à profit le délai avant l'explosion. Les deux types de bombes offrent de nombreuses manières de se créer un alibi.」",,爆発物を使う利点は……そうだな、起爆までのタイムラグを利用した時間操作と、遠隔操作があげられる。どちらも不在証明作りには有利だな」
-21556,,0,
+21556,,1,
 21588,"Ta supposition me semble plutôt juste, pourtant.」",,今の憶測に間違いはないと思うけど？」
+21637,"En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts refait surface.",,
 21647,,2,
+21730,"Elle disait être fan de rock progressif, mais en réalité, elle préférait<r>l'enka...",,
 21759,「Spur !,,「スキー跡！
 21760,"Le nom de cette pension, ça serait pas Spur, Alice ?!」",,そのペンションの名前、スキー跡とか言わない有珠！？」
 21783,"En pensant qu'Aozaki venait à l'école d'ici depuis deux ans, mon admiration ainsi que ma stupéfaction envers sa ténacité allaient encore en grandissant.",,二年以上ここから学校に通っていた蒼崎のタフさに、今更ながら感心するような、呆れるような。
 21906,,0,
 21953,"『Hahaha, j'reconnais bien là notre Riddell. La soudaineté de tes éruptions émotionnelles est toujours aussi intense ! T'es pas embarrassée de dire des choses comme “regardez la vraie moi” ? Non, tu l'es pas, hein ? Trop fort ! Je l'savais ! Riddell, le métier de star te convient mieux que celui de Mage !』",,『ハハハ、さすがリデルさん、感情のオンオフ激しいっスね！　ホントのアタシを見てー、とか、メルヘン全開で恥ずかしくないッスか？　恥ずかしくないんスよね。スゲー、やっぱリデルさん、魔術師よりアイドル向けッス！』
+22004,"Il avait l'air solidement uni, mais le consensus semblait quelque peu<r>fragile.",,
 22015,,0,
+22027,,1,
+22091,Je pouvais également percevoir des bruits de pas et de charnières<r>grinçantes.,,
 22128,,0,
 22132,,0,
 22135,,0,
+22157,"On lui a juste attaché de la dynamite sur les mains, les jambes et la tête, non ?」",,
 22176,"Dans ce cas, le visage prouverait que le corps n'est pas celui du vieil homme. Le coupable aurait voulu à tout prix cacher les traits du cadavre. Toutefois, brûler le visage jusqu'à le rendre méconnaissable donnerait un indice sur la falsification d'identité.」",,その場合、顔があってはあの死体が土桔氏でない事は明白です。犯人はなんとしても顔を隠したい。しかし、だからといって顔を焼いては、その行為そのものが証拠になります」
 22213,,0,
+22228,「Un Ploy...? Tu insinues que c'est un Ploy qui a tué le grand-père et<r>Riddell ?」,,
+22236,「Hō... HōsukeeeーーーーHein ?!」,,
 22248,,0,
 22267,「,,「
 22268,Qu...,,だ、
@@ -937,7 +1040,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 22271,menu fretiiin !」,0,だっつーのっっっっ！」
 22273,「,,「
 22274,Ne me sous-estimez...,,舐めんじゃ、
-22275,pas !,0,ないわよ！
+22275,pas !,1,ないわよ！
 22276,Ggh...,1,ぐっ、
 22277,"Ce n'est pas un petit arrêt cardiaque,",,心臓止まったぐらいで、
 22278,"gh,",,うぐぅ、
@@ -947,12 +1050,23 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 22282,me tuer !」,1,かっ！」
 22284,,0,
 22297,,0,
+22306,"「... Ils ne sont pas morts ? Si on termine le jeu, ils reviendront parmi<r>nous...?」",,
+22382,,1,
+22386,Eh oui. Je pensais qu'il était temps que quelqu'un le remarque :<r>M. Yamashiro avait disparu depuis un moment.,,
 22387,"「Hum. J'étais dans le manoir la majeure partie du temps, mais comme j'étais occupé avec les préparatifs, je n'ai pas vraiment eu le temps de parler avec tout le monde.",,「うーん。ほとんど屋敷にいたんだけど、パーティーの準備が忙しくてあまりみんなと話していないな。
 22388,Parce que deux personnes dont je tairai le nom ne m'ont pas aidé.,0,誰かさんと誰かさんが手伝ってくれないから。
+22390,"J'ai aussi fait des courses et entretenu le jardin, mais c'était dans<r>l'après-midi.",,
 22414,「..................」,,「………………」
 22421,"Cependant, comme tout le monde s'était rassemblé à partir de sept heures, l'horaire réel devait se situer quelque part entre quatre et six heures.",,ただし、七時からは全員が集まっていたので、実際には四時から七時までの時間だろう。
+22447,"「Les détails de votre venue à la résidence ne sont pas tous connus, si je ne m'abuse ?",,
 22452,"Hmm, enfin, passons. Il existe une autre personne qui remplit la condition consistant à connaître le Ploy, une fille dont la présence ici est peu naturelle. Vous voyez de qui je veux parler, n'est-ce pas ?」",,んー、まあ、それはそれとして、プロイを知っている、って条件ならもう一人、とびきり不自然な娘もいるんだけど。それは誰かが指摘するでしょう」
+22491,L'idée du confinement fut adoptée sans même que j'aie à en faire la proposition.,,
+22536,"Et comme la ligne du téléphone est coupée, on ne peut pas contacter<r>l'extérieur.」",,
+22543,,1,
+22546,"Même si tu voulais en faire décoller un autre, aucun n'est disponible ? Espèce de gros poulet ! Et tu te prends pour un homme d'affaires ? Utilise un peu ta cervelle ! Il y a une base militaire près d'ici, non ? D'après les rumeurs, leur dernier prototype est entreposé là-bas ! Celui spécialisé dans les assauts. Affrète-le !』",,
+22549,"『T'es chiant ! Sérieusement, arrête de pleurer de joie ! C'est pour<r>l'argent ! Et c'est tout ! Je me fous complètement du showbiz !",,
 22698,,1,
+22768,Je songeai que l'idée de s'enfermer dans nos chambres était des plus dangereuses.,,
 22788,,1,"Espace obligatoire, en jeu cette phrase est directement collée à la précédente"
 22789,,1,"Espace obligatoire, en jeu cette phrase est directement collée à la précédente"
 22790,,1,"Espace obligatoire, en jeu cette phrase est directement collée à la précédente"
@@ -966,21 +1080,33 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 22844,,1,
 22845,,1,
 22846,,1,
-22847,,0,
+22847,,1,
 22848,,1,
+22863,"Or, nous ne sommes pas sortis une seule fois depuis qu'il s'est mis à pleuvoir.",,
+22907,Les lampes murales semblaient être alimentées par une autre source<r>d'électricité. Nous n'étions pas complètement plongés dans le noir.,,
+22933,"「?! Qu... Qu'est-ce que tu racontes, Kuma ? C'est dangereux dehors !<r>Ça ira pour moi, alors reste en alerte dans le vestibule avec Tobimaru.」",,
 22970,「Hein ?! N... Non Aozaki ! Ne t'isole pasーーー!」,,「え!?　ダ、ダメだってば蒼崎、ひとりになんな―――！」
 22985,Aozaki s'écroula au sol et ne bougea plus d'un pouce.,,蒼崎はそのまま地面に倒れ、ぴくりとも動かない。
 23028,"Les chambres d'ami sont reliées à un circuit électrique auxiliaire, alors j'espère que l'électricité y marche encore.」",,客室の配線は別系統だから、まだ電源が生きていればいいけど」
+23059,"Malgré son air triste, ses paroles se révélaient aussi peu délicates que<r>d'habitude.",,
+23087,"「Eh bien, des cordes étaient tirées entre les arbres telle une toile<r>d'araignée.",,
+23088,Son cadavre se trouvait au centre de la toile dans une posture<r>tortueuse.,,
 23178,「Hum ? On ne peut pas avoir confiance en Kuonji non plus.,,「ん？　久遠寺は信用できねえだろ。
 23182,,0,
+23194,"Alors, cette condition était peut-être quelque chose que Kuonji approuvait―――ou plutôt, quelque chose avec quoi elle pouvait<r>compatir ?",,
 23200,,0,
-23211,,0,
+23211,,1,
+23214,"Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé<r>l'esprit.",,
 23229,Yamashiro n'avait visiblement pas pris l'avertissement d'Aozaki très au sérieux.,,蒼崎の忠告を、山城先生はどこまで真剣に受けとめているのだろう。
 23233,,0,
 23247,「Sōjūrō a voulu qu'on l'invite. Il répétait qu'il ferait plaisir à tout le monde aujourd'hui.,,「草十郎が声をかけたんでしょ。アイツ、今日はみんなを喜ばせる、とかはりきってたから。
+23278,,1,
 23286,"On peut considérer que tout le monde est suspect au niveau de l'heure des meurtres, mais ce sens de l'humour se limite à un nombre restreint de personnes. Ma foi, on peut sûrement exclure Sōjūrō, Beo et Kinomi sur ce point-là.」",,殺害可能時間は平等にあっても、そのセンスだけは限られる。この点で言えば、まあ、草十郎やらベオやら木乃美やらは除外される」
+23321,"Pour je ne savais quelle raison, il n'avait pas envie de prestige ou de<r>s'améliorer.",,
 23327,,0,
+23429,"Ses habits étaient posés sur le meuble, tel un exemplaire dans une<r>vitrine.",,
 23439,Il avait fait semblant de dormir pour me rassurer et était resté éveillé.,,眠ったフリをして、わたしを安心させて、寝ずの番をしていてくれたのだ。
+23485,「L'invitation au manoir Kuonji ne précisait pas qu'on avait tout préparé pour la fête et que vous pouviez vous contenter de venir les mains<r>vides ?」,,
 23490,,0,
 23498,,0,
 23509,,2,
@@ -1002,6 +1128,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 23644,,1,
 23646,,1,
 23657,,2,
+23697,Il y avait une contradiction fatale entre son témoignage et celui de<r>Kuonji.,,
 23710,"「C'est toi le coupable,",,「アンタが
 23711,Shizukiーーーー!」,,犯人ね静希ーーーー！」
 23769,,0,
@@ -1009,6 +1136,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 23773,,0,
 23774,,0,
 23775,,0,
+23783,「Tu peux arrêter ton numéro.」,,
 23788,,0,
 23890,"Je n'avais prévu qu'une chaise pour Ritsuka, mais je vais en chercher<r>d'autres.」",,Pour forcer le retour à la ligne
 23895,,0,
