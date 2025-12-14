@@ -543,7 +543,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 11942,"C'étaient cette fois les propos d'un <homme d'affaires|Andrew Carnegie> encore plus<r>célèbre,",,
 11943,"“Les gens riches devraient utiliser leur fortune pour enrichir la société, au lieu de gaspiller leur argent.”",,“富める者は、その富を社会の改善のために使うべきである”
 11944,dont voici la citation exacte.,,
-11961,,1,
+11961,"Je vais préparer le dîner, alors―――",1,
 11962,,0,
 11995,Ce geste montrait qu'il ne reculerait pas devant l'attitude menaçante<r>d'Aoko.,,
 12000,"Après la succession d'expressions taboues telles que “nouveau<r>travail”, “la paye est bonne, tout le monde peut le faire” et “mais je refuse de dire en quoi il consiste”, il lui était impossible de rester calme.",,Pour forcer le retour à la ligne
@@ -830,15 +830,15 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19681,,2,alignement saynète
 19682,"Comme elle v'nait pas aux studios alors qu'c'était<ra>l'heure,",2,alignement saynète
 19683,,1,retour à la ligne supprimé
-19684,"C'est juste une inversion de perspective, vous voyez ?",,
-19685,"Si l'invité n'vient pas, il n'y a qu'à venir",,
-19686,"faire l'émission dans sa chambre, non ?",,
-19687,"...... C'est bon, alors dépêche-toi de commencer. Finis ça le",,
-19688,"plus rapidement possible, et va-t'en plus vite que la lumière.",,retour à la ligne saynète
+19684,"C'est juste une inversion d'perspective, vous voyez ?",0,
+19685,"Si l'invité n'vient pas, il n'y a qu'à venir",0,
+19686,"faire l'émission dans sa chambre, non ?",0,
+19687,"...... C'est bon, alors dépêche-toi de commencer. Finis ça",,
+19688,"le plus rapidement possible, et va-t'en plus vite que la lumière.",,retour à la ligne saynète
 19691,,8,
 19692,,8,
 19694,,7,alignement saynète
-19695,"La richesse du langage humain est incroyable, hein. Honnêtement, c't'à 90 %",0,alignement saynète
+19695,"La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %",0,alignement saynète
 19696,impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.,0,retour à la ligne saynète
 19698,"Moi aussi, je partage cette opinion.",,
 19705,C'est un cours simple pour les nouveaux venus n'ayant aucune idée de c'qu'est la Magie.,,
@@ -859,16 +859,16 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19724,"En effet, une grande partie des types de familiers requièrent d'être<ra>alimentés en prana par leur maître.",0,alignement saynète
 19725,"Plus le familier est gros, plus il a besoin de prana. C'est pour cela que",,
 19726,"les petits animaux sont privilégiés, car ils consomment peu de prana et<ra>sont capables dès leur création de subvenir eux-mêmes à leurs besoins.",,
-19727,,0,alignement saynète
-19728,,0,alignement saynète
+19727,"? Pourtant, j'ai jamais chassé ou fait un truc du genre.",0,alignement saynète
+19728,J'ai pas besoin de protéines ou de fibres alimentaires ?,0,alignement saynète
 19729,"Les Ploy sont une catégorie à part. Bref, pour les Mages, les familiers",0,alignement saynète
-19730,"sont des ""serviteurs"" ou des ""animaux de compagnie"" à leur service.",0,alignement saynète
+19730,sont des “serviteurs” ou des “animaux de compagnie” à leur service.,0,alignement saynète
 19731,"Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.",,
 19732,"Mam'zelle Alice,<ra>cette machine effrayante,",,
 19733,ça entre dans quelle catégorie ?,,
-19736,...... Sa conception même est très éloignée des normes traditionnelles<ra>des familiers.,,
-19737,"De la même façon, les familiers possédant une intelligence compatible",,
-19738,avec les humains comme toi sont aussi des exceptions.,,
+19736,...... Sa conception même est très éloignée des normes<ra>traditionnelles des familiers.,,
+19737,"De la même façon, les familiers possédant une intelligence",,
+19738,compatible avec les humains comme toi sont aussi des exceptions.,,
 19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,,
 19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",,
 19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,1,alignement saynète
@@ -888,7 +888,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19757,mais il y a de fortes chances que tu puisses<ra>au moins faire peur à l'ennemi.,,
 19758,,2,alignement saynète
 19759,,2,alignement saynète
-19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,1,retour à la ligne supprimé
+19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,2,retour à la ligne supprimé
 19762,Je me demande si tu seras utilisé en tant que telle<ra>à cette occasion ?,,
 19763,Vous êtes drôlement sévère.,,
 19765,,2,alignement saynète
@@ -920,21 +920,27 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19824,"bonus, ce n'est pas une raison pour réutiliser les mêmes décors.",2,alignement saynète
 19825,C'est contraire à mon éthique. On n'est pas dans un certain dojo.,2,alignement saynète
 19829,"Mais perso, j'préfère plutôt les jupes aux blouses. Celles qui ressemblent à<ra>des robes, elles sont divines. Enfin, c'est pas que les blouses c'est moche,<ra>c'est juste un problème d'image. Est-ce qu'elles rendent bien en peinture ?",,
-19830,"Vous voyez “La forêt, l'oiseau et la fillette” ? Ou “L'oiseau et l'élève de<ra>maternelle”, où l'enfant a une telle présence que l'oiseau semble invisible.",,
-19831,Zut. J'étais en pleine préparation<ra>de pâtisseries.,2,alignement saynète
-19838,"Dès que j'en ai le temps,<ra>je fais des Ploy.",,retour à la ligne saynète
+19830,"Vous voyez “La forêt, l'oiseau et la fillette” ? Ou “L'oiseau et l'élève de maternelle”, où l'enfant a une telle présence qu'on en oublie l'oiseau.",,
+19831,Zut. J'étais en pleine préparation<ra>de pâtisseries.,4,alignement saynète
+19832,,4,
+19833,,4,
+19837,,2,
+19838,"Dès que j'en ai le temps,<ra>je fais des Ploy.",2,retour à la ligne saynète
 19842,"En fait, cette odeur, c'est du chocolat ?",4,alignement saynète
 19843,Pas possible......,4,alignement saynète
 19844,Les Ploy étaient des pâtisseriesーーーー?!,4,alignement saynète
-19854,C'est comme je l'ai expliqué dans<ra>l'histoire principale.,2,alignement saynète
+19845,"...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais pas",,
+19846,"leur mécanisme ? Je ne voulais pas le reconnaître,",,
+19847,"mais en fin de compte, tu n'es vraiment qu'un oiseau ?",,
+19854,C'est comme je l'ai expliqué<ra>dans l'histoire principale.,2,alignement saynète
 19855,,2,alignement saynète
 19856,Voilà qui réduit à néant l'intérêt de c'coin bonus.,,retour à la ligne saynète
 19857,,4,alignement saynète
 19858,Non.,,
 19859,Mais j'voudrais au moins avoir un résumé.,,
 19860,"À ce rythme, c't'partie va être pire qu'un certain dojo !",,
-19861,............... Je préférerais éviter cela.,,
-19862,Dans ce cas......,,
+19861,............... Je préférerais éviter cela.,2,
+19862,Dans ce cas......,2,
 19863,"Voici l'orthographe de Ploy Kickshaw. En soi, ça donne",,
 19864,déjà une assez bonne explication. Qu'en penses-tu ?,,retour à la ligne saynète
 19870,C'est aussi dans le sens d'excentri――,,
@@ -943,8 +949,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19873,,4,alignement saynète
 19881,Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages<ra>afin d'en obtenir des privilèges et de l'argent.,,魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
 19890,Qu'entends-tu au juste<ra>par Meinster ?,,
-19891,My Godness. La mère de Mam'zelle Alice.,2,alignement saynète
-19892,Elle avait des surnoms comme la Sorcière au sang pur.,2,alignement saynète
+19891,My Godness. La mère de Mam'zelle Alice.,0,alignement saynète
+19892,Elle avait des surnoms comme la Sorcière au sang pur.,0,alignement saynète
 19899,,2,alignement saynète
 19900,,2,alignement saynète
 19901,,2,alignement saynète
@@ -953,11 +959,11 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19904,"Ha ha ha, qu'est-ce que vous racontez.",,
 19905,Vous qui vous réveillez systématiquement,,
 19906,"dès que l'idiot rentre à la maison,",,
-19907,vous n'avez rien à lui envi...,,
+19907,vous n'avez rien à lui envi...,1,
 19908,Guah ?!,1,ぐぼぁ!?
-19911,"Alors Robin, occupe-toi de la réservation au restaurant.",,
-19912,"Quand tu auras fini, réchauffe le chocolat.",,
-19913,"Et après, tu poliras le miroir.",,
+19911,"Alors Robin, occupe-toi de la réservation au restaurant.",2,
+19912,"Quand tu auras fini, réchauffe le chocolat.",2,
+19913,"Et après, tu poliras le miroir.",2,
 19914,Et ensuite...... voyons. Écrase-toi contre,,
 19915,un poteau électrique et meurs de façon théâtrale.,,retour à la ligne saynète
 19918,C'est le genre de mon personnage.,,
@@ -977,7 +983,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19940,,4,alignement saynète
 19941,,6,alignement saynète
 19945,"Trois couleurs ensanglantées. Comme l'drapeau d'la France, quoi.",0,"alignement saynète, supprime ""national"""
-19946,,0,alignement saynète
+19946,"N'ayant pas d'sous, j'prendrai que de l'inarizushi et des sushis aux oeufs et à la seiche.",0,alignement saynète
 19947,Chef.,,
 19948,Une autre assiette de chûtoro.,,
 19952,Chef.,,
@@ -989,7 +995,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19968,Faut dire qu'son portemonnaie n'est pas bien rempli.,,
 19975,"Non non, rien.",,
 19976,"La proprio détient l'autorité absolue, après tout.",,
-19976,Qui pourrait s'opposer à vous dans ce manoir ?,,
+19977,Qui pourrait s'opposer à vous dans ce manoir ?,,
 19978,,0,alignement saynète
 19979,,0,alignement saynète
 19980,,2,alignement saynète
@@ -999,19 +1005,20 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19991,,2,alignement saynète
 19995,,12,alignement saynète
 19999,,12,alignement saynète
+20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",,
 20003,Des Ploy de haut niveau capables de se<ra>changer en mammifères ou en oiseaux !,,alignement saynète
 20006,On est dans le noir complet ! On ne va<ra>pas pouvoir jouer !,,alignement saynète
 20007,Ayaaaーーー!!,,
 20008,"Sans observateur, la face du dé restera un mystère !",,
 20009,Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !,,
-20019,"La société humaine a une influence néfaste sur eux,",,
-20020,ce qui les rend vulnérables à la Magie normale.,,alignement saynète
+20019,"La société humaine a une influence néfaste sur eux,",4,
+20020,ce qui les rend vulnérables à la Magie normale.,4,alignement saynète
 20024,"Ce n'est pas impossible, vous être juste trop",,
-20030,Le Banquet de la nuit est arrivé<ra>sur une assiette.,4,alignement saynète
+20030,Le Banquet de la nuit est arrivé.,4,alignement saynète
 20031,,0,alignement saynète
 20032,"Moi aussi, je connais Mother Goose.",0,alignement saynète
 20033,Ça montre à quel point elle est célèbre.,0,alignement saynète
-20034,,8,alignement saynète
+20034,,7,alignement saynète
 20035,,8,alignement saynète
 20036,,8,alignement saynète
 20038,,6,alignement saynète
@@ -1019,9 +1026,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20040,"Les paroles parlent d'un chat jouant du violon à minuit,",,alignement saynète
 20041,"d'une vache qui saute par-dessus la lune, d'un chien qui rit,",,
 20042,et des personnifications d'un plat et d'une cuillère qui s'enfuient.,,
-20043,"Selon une théorie, elle s'inspire d'une légende grecque ou égyptienne.",2,alignement saynète
-20044,"Si ça fait référence aux constellations, ",2,alignement saynète
-20045,la vache doit être une parodie du taureau.,2,牛は牡牛座のもじりでしょう。
+20043,"Selon une théorie, elle s'inspire d'une légende grecque ou égyptienne.",0,alignement saynète
+20044,"Si ça fait référence aux constellations, ",0,alignement saynète
+20045,la vache doit être une parodie du taureau.,0,牛は牡牛座のもじりでしょう。
 20048,"Mam'zelle Alice, vous le fabriquez à la chaîne ?",,アリスさん、そのたびに作ってるッスか？
 20050,Diddle Diddle est à la base de ma Magie.,,
 20052,"Une fois la nuit intensifiée, ma Magie,",,
@@ -1032,38 +1039,47 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20077,,4,alignement saynète
 20078,,4,alignement saynète
 20079,,4,alignement saynète
-20080,Qu'en dis-tu ? En affichant la carte de Misaki sur le Miroir de la sieste et,,
-20081,"en posant le pion dessus, l'endroit correspondant devient la “Forêt sans nom”.",,alignement saynète
+20080,Tu vois ? En affichant la carte de Misaki sur le Miroir de la sieste et en,0,
+20081,"posant le pion dessus, l'endroit correspondant devient la “Forêt sans nom”.",0,alignement saynète
 20085,"Ça n'a pas d'effet sur les durs de la<ra>comprenette, si je saisis bien.",2,alignement saynète
 20086,...... Exactement.,,
 20087,"Ce n'était pas ma faute, mais j'ai manqué de vigilance.",,
-20089,Reprenons. Le Ploy suivant―――,,alignement saynète
-20090,,4,alignement saynète
-20091,Un œuf que j'peux avaler tout rond !,4,alignement saynète
+20089,Reprenons. Le Ploy suivant―――,4,alignement saynète
+20090,,2,alignement saynète
+20091,Un œuf que j'peux avaler tout rond !,2,alignement saynète
 20095,"Et en plus, j'entends une sorte de tic tac",,
 20096,qui retentit à l'intérieur de mon ventre.,,
 20105,,16,alignement saynète
-20113,"de le déloger, mais ils ne purent atteindre l'œuf<ra>haut perché.",,alignement saynète
+20110,"“Humpty Dumpty, assis sur un mur mal assuré,",,
+20111,préféra ignorer le roi lui disant d'en descendre.,,
+20112,"Ce dernier irrité ordonna à ses soldats de le déloger,",,
+20113,mais ils ne purent atteindre l'œuf haut perché.,0,alignement saynète
 20116,pour se briser atrocement en mille morceaux.,,
 20120,La morale veut que certaines choses<ra>soient irréparables.,,
 20121,Je trouve ça particulièrement frustrant.,,
-20129,Les stocks sont épuisés pour ce,,alignement saynète
-20130,"soir. Chef, l'addition s'il vous plaît.",,
+20129,Les stocks sont épuisés pour ce soir.,0,alignement saynète
+20130,"Chef, l'addition s'il vous plaît.",0,
 20133,,2,alignement saynète
 20134,,2,alignement saynète
 20135,,2,alignement saynète
 20137,"Tu fais les courses la journée ?<ra>Je t'envie, Robin.",,alignement saynète
+20148,,4,
+20149,,4,
+20150,,4,
 20154,,2,alignement saynète
 20155,"C'est quoi,<ra>cette espèce de boîte à bijoux ?",2,alignement saynète
 20159,"Il a peut-être l'air faible,<ra>mais c'est un Ploy extrêmement utile.",,
 20161,,2,alignement saynète
 20162,,2,alignement saynète
-20166,,4,
-20175,"Après le deuxième couplet, le poème prend",,
-20176,la forme d'une satire de la politique de l'époque.,,alignement saynète
+20166,,3,
+20172,,4,
+20173,,4,
+20174,,4,
+20175,"Après le deuxième couplet, le poème prend",2,
+20176,la forme d'une satire de la politique de l'époque.,2,alignement saynète
 20177,,0,alignement saynète
 20178,,0,alignement saynète
-20179,"celle qui dépense en secret, c'pas la reine mais Mam'z...",0,alignement saynète
+20179,"celle qui dépense en s'cret, c'pas la reine mais Mam'z...",0,alignement saynète
 20181,,8,alignement saynète
 20185,,4,alignement saynète
 20186,,4,alignement saynète
@@ -1071,6 +1087,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20189,,2,alignement saynète
 20190,,2,alignement saynète
 20192,,16,alignement saynète
+20193,,4,
+20194,,4,
+20195,,4,
 20201,Il se base sur un chant funèbre. L'histoire,,
 20202,tourne autour du meurtre d'un rouge-gorge.,,alignement saynète
 20203,"À la question 「Qui l'a tué ?」,",,
@@ -1080,11 +1099,11 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20208,fut publiée et devint elle aussi un best-seller.,,
 20209,"Elle fut suivie de ""Le procès et l'exécution du moineau pour avoir tué",,
 20210,"Cock Robin"" qui conte les évènements après la mort du rouge-gorge.",,
-20212,Les piafs n'ont pourtant jamais eu un yen.,2,alignement saynète
+20212,Les piafs n'ont pourtant jamais eu un yen.,0,alignement saynète
 20216,"En d'autres termes―――le personnage<ra>principal de Mahoyo, c'est mo...",4,alignement saynète
-20217,Kya !,4,alignement saynète
+20217,Kya !,0,alignement saynète
 20218,,2,alignement saynète
-20219,Ça pourra pas êt'pire que maintenant.,2,alignement saynète
+20219,Ça pourra pas être pire que maintenant.,0,alignement saynète
 20220,,2,
 20221,,2,
 20225,,8,alignement saynète
@@ -1098,93 +1117,114 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20249,collector de l'édition limitée resteraient,,
 20250,constamment disponibles à la vente.,,
 20251,,4,alignement saynète
-20252,...... Ce n'est qu'un produit raté.,4,alignement saynète
+20260,,4,
+20261,...... Ce n'est qu'un produit raté.,4,alignement saynète
 20262,C'est mon premier Ploy. Il n'a aucune utilité.,,
 20263,Je m'en sers de décoration par sentimentalisme.,,
-20265,"Et puis, il est plutôt laid, alors je n'aime pas trop le montrer...<ra>mais ça reste un souvenir.",,alignement saynète
+20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt laid,",0,
+20265,alors je n'aime pas trop le montrer... mais ça reste un souvenir.,0,alignement saynète
+20266,C'est un ouvrage en sucre en forme de broche.,4,
+20267,"Ouah, sucré...!",4,
+20268,,4,
 20274,"J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est",,
 20275,"pas là. L'heure et le lieu devraient être justes,",,
 20276,"pourtant... J'vais recrier l'titre, on sait jamais.",,
+20279,,4,
+20280,,4,
+20281,,4,
 20285,Ne sais-tu donc pas qu'un important pourcentage d'oiseaux<ra>migrateurs décèdent en tentant de la franchir ?,,
-20286,Un moment d'inattention et c'est la mort assurée.,6,
-20287,Tu peux mourir n'importe quand. Fais preuve de,6,
-20288,respect envers les sommets où vivent les dieux.,6,
-20289,,6,
+20286,Un moment d'inattention et c'est la mort assurée.,4,
+20287,Tu peux mourir n'importe quand. Fais preuve de,4,
+20288,respect envers les sommets où vivent les dieux.,4,
+20289,,4,
 20290,"Je reformule. Ne nous sous-estime pas,",,
 20291,"la montagne et moi. Aujourd'hui,",,
 20292,je suis deux fois plus motivée que d'ordinaire.,,
-20293,,6,
-20294,,6,
-20295,"Bien, c'est l'heure de Tout sur les Ploy, Robin.",,
-20296,"Aujourd'hui, je me sens en pleine forme,",,
-20297,alors abordons un sujet spécial.,,
-20298,,6,
-20299,,6,
-20303,Ce sont les Trois Grands Ploy. Les trois articles grandioses,0,
-20304,qui auraient été créés par la toute première sorcière.,0,
-20310,Il tire son origine de la comptine de Mother Goose “le Pont de Londres”.,,
-20313,Elle a été traduite en japonais<ra>et est enseignée à l'école.,,
-20314,Elle est donc très connue.,,
-20317,"...... C'était un adversaire redoutable. Et puis,",4,
-20318,lui et moi ne sommes pas vraiment compatibles.,4,
-20319,Je ne peux donc pas utiliser correctement Thames.,4,
-20320,,0,
+20293,,4,
+20294,,4,
+20295,"Bien, c'est l'heure de Tout sur les Ploy, Robin.",4,
+20296,"Aujourd'hui, je me sens en pleine forme,",4,
+20297,alors abordons un sujet spécial.,4,
+20298,,4,
+20299,,4,
+20303,Ce sont les Trois Grands Ploy. Les trois artéfacts,0,
+20304,fabuleux qui auraient été créés par la première sorcière.,0,
+20305,,6,
+20306,,6,
+20307,,6,
+20310,Il tire son origine de la comptine de Mother Goose “le Pont de Londres”.,0,
+20311,,0,
+20312,,0,
+20313,Elle a été traduite en japonais<ra>et est même enseignée à l'école.,2,
+20314,Elle est donc très connue.,2,
+20317,"...... C'était un adversaire redoutable. Et puis,",2,
+20318,lui et moi ne sommes pas vraiment compatibles.,2,
+20319,Je ne peux donc pas utiliser correctement Thames.,2,
+20320,Je ne peux l'invoquer que jusqu'au deuxième couplet.,0,
 20321,,0,
-20322,,2,
-20323,Ceux de la chanson du Pont de Londres.,2,
-20324,,2,
-20325,～Les briques et le mortier s'effritent.』,2,
-20330,"Dans la version actuelle de Mother Goose, il a quatre formes.",,
+20322,,0,
+20323,Ceux de la chanson du Pont de Londres.,0,
+20324,『～Les arbres et la terre s'envolent.,2,
+20325,～Les briques et le mortier s'effritent.,2,
+20328,,6,
+20329,,6,
+20330,"Dans la version actuelle de Mother Goose, il a quatre formes.",6,
+20331,Donc il y a autre chose après le bois et la pierre.,4,
+20332,Mais ça vous dérange pas ?,4,
+20333,,4,
 20339,,2,
-20340,Parce que la société humaine ne m'intéresse pas.,,
-20341,Le pont présent dans mon univers ne va que du bois à la roche.,,
+20340,Parce que la société humaine ne m'intéresse pas.,4,
+20341,Le pont présent dans mon univers ne va que du bois à la roche.,4,
 20342,"Comment ! Moi qui vous croyais invulnérable,",,
 20343,vous cachez donc des points faibles......,,
-20344,"Ah, non, en y repensant,",,
-20345,vous n'êtes pas si invulnérable que ça ! Vous perdez souvent !,,無敵じゃなかったッスね！　アリスさん、負け星のが多いッス、
-20346,"Comme moi, quoi !",,ジブンとおそろッスー！
-20347,"Mais au fait, si j'comprends bien les rumeurs,",,
-20348,Thames Troll serait le meilleur golem au monde.,,
+20344,"Ah, non, en y repensant,",4,
+20345,vous n'êtes pas si invulnérable que ça ! Vous perdez souvent !,4,無敵じゃなかったッスね！　アリスさん、負け星のが多いッス、
+20346,"Comme moi, quoi !",4,ジブンとおそろッスー！
+20347,"Mais au fait, si j'comprends bien les rumeurs,",4,
+20348,Thames Troll serait le meilleur golem au monde.,4,
+20349,,4,
 20352,"il deviendrait un pont absolument infranchissable,",,
 20353,même pour Aoko et ses meilleures techniques.,,
 20355,"Il se manifesterait en tant que géant de la ville,<ra>allant jusqu'à sublimer son propre surnom.",,
 20358,"Vous vous la racontez, pas vrai ?",,
-20365,Reparlons de “je me la raconte”.,,
-20366,"À toi de jouer, Thames.",,
-20367,Fais-nous l'étalage de ta puissance.,,
+20365,Reparlons de ce “je me la raconte”.,2,
+20366,"À toi de jouer, Thames.",2,
+20367,Montre-nous toute ta puissance.,2,
 20371,,2,
 20372,,2,
-20373,J'pensais pas que c'était dans c'sens-là !,2,
+20373,J'pensais pas que c'était dans c'sens-là !,0,
 20374,,0,
-20375,"Pourtant, j'suis sûr d'avoir des répliques.",0,
+20375,"Pourtant, j'suis sûr d'avoir dit des trucs.",0,
 20377,"Mais comme tu étais trop bruyant, j'ai ordonné",,
 20378,au réalisateur de couper spécifiquement tes répliques.,,
-20378,"Great. De cette façon, toute l'attention peut<ra>se concentrer sur vous, hein ?",,
+20379,"Great. De cette façon, toute l'attention peut<ra>se concentrer sur vous, hein ?",,
 20382,"Le deuxième, oui. À titre d'information,",,
 20383,je précise que le corps de Snark est liquide.,,
-20386,Quelqu'un que tu connais très bien.,,
-20387,"Avant de devenir amie avec elle,",,
-20388,mes Ploy n'avaient pas de nom.,,
+20386,Quelqu'un que tu connais très bien.,2,
+20387,"Avant de devenir amie avec elle,",2,
+20388,mes Ploy n'avaient pas de nom.,2,
 20389,Je les appelais par leur ordre de force ou,,
 20390,"de mon attachement envers eux, 1er, 2e, etc.",,
 20392,Vous n'donniez pas de nom par paresse...,,
 20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",2,
-20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait semé la confusion, non ?",2,
-20395,Alors que mon affection ou leurs forces changeaient constamment.,,どれが強いか、どれが好きかなんて、日によって変わるのだし。
-20405,"Conformément à sa demande, je lui ai prêté",,
-20406,le Ploy que j'avais nommé “sixième” ce jour-là.,,
-20408,"J'imagine la suite, mais j'demande quand même.",,
-20409,C'était quel Ploy ?,,
+20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait semé la confusion, non ?",0,
+20395,Alors que mon affection ou leurs forces changeaient constamment.,0,どれが強いか、どれが好きかなんて、日によって変わるのだし。
+20403,"Prête-moi le sixième Ploy, s'il te plaît.",,
+20405,"Conformément à sa demande, je lui ai prêté",4,
+20406,le Ploy que j'avais nommé “sixième” ce jour-là.,4,
+20407,,4,
+20408,"J'imagine la suite, mais j'demande quand même.",4,
+20409,C'était quel Ploy ?,4,
 20410,Le parfum qu'elle nommerait après ça le Goblin Fron.,,
 20411,"Quand quelqu'un s'en met, il ne peut que dire des injures<ra>et parler en argot pendant toute une journée.",,
 20413,"Après ça, elle m'a proposé de donner des noms aux Ploy.",,
-20414,Avec les yeux boursouflés pour je ne sais quelle raison.,,
+20414,Avec les yeux boursouflés pour une raison qui m'échappe.,,
 20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra>Celui-là Diddle Diddle. Et lui Flat Snark.<ra>Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
 20416,"...... On dit que le nom est le reflet de l'âme, vois-tu ?",,
 20417,"Je pensais que les classer selon mon humeur était plus simple<ra>que d'employer des noms extravagants, mais...",,
 20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra>mon destin peut dépendre de tes mystérieuses humeurs.』,,
 20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est certain.<ra>Même si on en aura sûrement rapidement assez.』",,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
-20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont nos créations originales, ce serait du gâchis de ne pas suivre la mode.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
+20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
 20421,"Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous<ra>les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
 20422,C'est un peu comme l'œuf de Colomb.,,
 20424,"Parfois, je me dis que cette fille est un génie.",,
@@ -1194,16 +1234,16 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20433,"Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.",,
 20434,On n'peut pas le restaurer ?,,
 20436,Rien ne peut raffiner Snark à notre époque.,,
-20437,Et c'est ainsi que cet héritage culturel a été anéanti par une sauvage,2,
-20438,"ne vivant qu'à l'instinct. Ha ha, que c'est amusant de piétiner la culture !",2,
+20437,Et c'est ainsi que cet héritage culturel a été anéanti par une sauvage,0,
+20438,"ne vivant qu'à l'instinct. Ha ha, que c'est drôle de piétiner la culture !",0,
 20439,"Mais quand même, après le Négligent, c'est Snark qui y passe !",,
 20440,"Ha ha, les Great Three ?",,
 20444,Je vais peut-être commander un poulet rôti.,,それじゃあ、わたしはフライドチキンにしてもらお^うかしら。
 20446,"Le menu ne comporte qu'des hot-dogs,<ra>du pop-corn et des frites.",,外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
 20447,"J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet rôti a une odeur trop forte pour le cinéma. Ça gêne les autres clients.",,
-20451,Ha ha ha. Vous n'voulez donc pas le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
+20451,Ha ha ha. C'est donc pas pour le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
 20452,Ne serait-ce pas la première fois que tu boues entièrement<ra>des plumes à la peau ?,,
-20454,"Justement la collection que je souhaitais<ra>le moins agrandir, quel pied !",,
+20454,"Justement la collection que je voulais<ra>le moins étoffer, quel pied !",,
 20455,Et il en reste encore tellement !,,
 20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,,
 20460,À vous tous qui avez pris plaisir à suivre,,
