@@ -830,9 +830,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19681,,2,alignement saynète
 19682,"Comme elle v'nait pas aux studios alors qu'c'était<ra>l'heure,",2,alignement saynète
 19683,,1,retour à la ligne supprimé
-19684,"C'est juste une inversion d'perspective, vous voyez ?",0,
-19685,"Si l'invité n'vient pas, il n'y a qu'à venir",0,
-19686,"faire l'émission dans sa chambre, non ?",0,
+19684,"C'est juste une inversion de perspective,",2,
+19685,"vous voyez ? Si l'invité n'vient pas, il n'y a qu'à",2,
+19686,"venir faire l'émission dans sa chambre, non ?",2,
 19687,"...... C'est bon, alors dépêche-toi de commencer. Finis ça",,
 19688,"le plus rapidement possible, et va-t'en plus vite que la lumière.",,retour à la ligne saynète
 19691,,8,
@@ -841,7 +841,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19695,"La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %",0,alignement saynète
 19696,impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.,0,retour à la ligne saynète
 19698,"Moi aussi, je partage cette opinion.",,
-19705,C'est un cours simple pour les nouveaux venus n'ayant aucune idée de c'qu'est la Magie.,,
+19705,C'est un cours simple pour les nouveaux venus<ra>n'ayant aucune idée de c'qu'est la Magie.,,
 19706,Voilà c'qu'est “Tout sur les Ploy”.,,
 19707,"Donc, c'est quoi ces “familiers”, Mam'zelle Alice ?",,
 19710,,6,
@@ -851,12 +851,12 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19716,"Un disciple est le successeur qui hérite des techniques du maître<ra>et se doit de les maîtriser, n'est-ce pas ?",2,retour à la ligne saynète
 19717,,2,alignement saynète
 19718,et ces derniers ne prendraient pas de disciples<ra>s'il en était autrement.,2,alignement saynète
-19719,"À l'inverse, les familiers reçoivent l'intégralité de leurs capacités<ra>à leur naissance.",,
+19719,"À l'inverse, les familiers reçoivent l'intégralité<ra>de leurs capacités à leur naissance.",,
 19720,Il n'y a aucun sens à ce qu'un être incapable d'évoluer<ra>devienne le successeur d'un Mage.,,
-19721,"J'vois. J'comprends mieux. C'pour ça que malgré les années<ra>qui passent, ma capacité de mémorisation n'augmente pas.<ra>Mais ça veut aussi dire que j'suis parfait depuis ma naissance.",,
+19721,"J'vois. J'comprends mieux. C'pour ça que malgré les années<ra>qui passent, ma capacité de mémorisation n'augmente pas.<ra>Mais ça veut aussi dire que j'suis parfait depuis ma naissance.",4,
 19722,Oui. Tu es parfaitement inutile.,12,alignement saynète
-19723,,0,alignement saynète
-19724,"En effet, une grande partie des types de familiers requièrent d'être<ra>alimentés en prana par leur maître.",0,alignement saynète
+19723,,4,alignement saynète
+19724,"En effet, une grande partie des types de familiers requièrent<ra>d'être alimentés en prana par leur maître.",4,alignement saynète
 19725,"Plus le familier est gros, plus il a besoin de prana. C'est pour cela que",,
 19726,"les petits animaux sont privilégiés, car ils consomment peu de prana et<ra>sont capables dès leur création de subvenir eux-mêmes à leurs besoins.",,
 19727,"? Pourtant, j'ai jamais chassé ou fait un truc du genre.",0,alignement saynète
@@ -864,48 +864,59 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19729,"Les Ploy sont une catégorie à part. Bref, pour les Mages, les familiers",0,alignement saynète
 19730,sont des “serviteurs” ou des “animaux de compagnie” à leur service.,0,alignement saynète
 19731,"Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.",,
-19732,"Mam'zelle Alice,<ra>cette machine effrayante,",,
-19733,ça entre dans quelle catégorie ?,,
-19736,...... Sa conception même est très éloignée des normes<ra>traditionnelles des familiers.,,
-19737,"De la même façon, les familiers possédant une intelligence",,
-19738,compatible avec les humains comme toi sont aussi des exceptions.,,
-19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,,
-19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",,
-19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,1,alignement saynète
-19742,"En d'autres termes,",,
-19743,"la fin ne justifie pas les moyens, hein.",,
-19744,"Hm ? Quelque part, ça veut dire que le familier<ra>est toujours plus faible que le Mage, hein.",,
-19746,"Ouaah, ils sont vraiment inutiles !",,うは、マジ使えないヤツらッスー！
-19747,"Voilà une conclusion hâtive typique de toi, Robin.",2,alignement saynète
-19748,,2,alignement saynète
-19749,,2,alignement saynète
-19750,"Mam'zelle Alice. Vos paroles sont merveilleuses,",2,alignement saynète
-19751,mais pourquoi votre visage fait peur ?,2,alignement saynète
-19752,"Même s'il ne lui donne que 10% de ses propres capacités,",,
-19753,il est très facile pour un Mage de créer un familier<ra>plus “fort” que lui-même.,,本人より“強い”使い魔を造る事は簡単よ。
-19754,"Tiens, pourquoi ne pas essayer de t'enfoncer",2,alignement saynète
-19755,un derringer dans le ventre la prochaine fois ?,2,alignement saynète
-19757,mais il y a de fortes chances que tu puisses<ra>au moins faire peur à l'ennemi.,,
+19732,"Mam'zelle Alice,<ra>cette machine effrayante,",4,
+19733,ça entre dans quelle catégorie ?,4,
+19734,,4,
+19735,,4,
+19736,"...... Sa conception même est très éloignée des normes<ra>traditionnelles des familiers. De la même façon,",,
+19737,les familiers possédant une intelligence compatible,,
+19738,avec les humains comme toi sont aussi des exceptions.,,
+19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,0,
+19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",0,
+19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,0,alignement saynète
+19742,"En d'autres termes,",4,
+19743,"la fin ne justifie pas les moyens, hein.",4,
+19744,"Hm ? Quelque part, ça veut dire que le familier<ra>est toujours plus faible que le Mage, hein.",8,
+19745,,8,
+19746,"Ouaah, ils sont vraiment inutiles !",8,うは、マジ使えないヤツらッスー！
+19747,"Voilà une conclusion hâtive typique de toi, Robin.",4,alignement saynète
+19748,,4,alignement saynète
+19749,,4,alignement saynète
+19750,"Mam'zelle Alice. Vos paroles sont merveilleuses,",4,alignement saynète
+19751,mais pourquoi votre visage fait peur ?,4,alignement saynète
+19752,"Même s'il ne lui donne que 10% de ses propres capacités,",4,
+19753,il est très facile pour un Mage de créer un familier<ra>plus “fort” que lui-même.,4,本人より“強い”使い魔を造る事は簡単よ。
+19754,"Tiens, pourquoi ne pas essayer de t'enfoncer",4,alignement saynète
+19755,un derringer dans le ventre la prochaine fois ?,4,alignement saynète
+19756,,4,
+19757,mais il y a de fortes chances que tu puisses<ra>au moins faire peur à l'ennemi.,4,
 19758,,2,alignement saynète
-19759,,2,alignement saynète
-19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,2,retour à la ligne supprimé
+19759,,1,alignement saynète
+19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,1,retour à la ligne supprimé
 19762,Je me demande si tu seras utilisé en tant que telle<ra>à cette occasion ?,,
 19763,Vous êtes drôlement sévère.,,
-19765,,2,alignement saynète
-19766,,2,alignement saynète
+19765,,4,alignement saynète
+19766,,4,alignement saynète
 19767,"Hm ? En dehors de vous, toute-puissante Mam'zelle Alice,",,
-19770,,2,
-19771,,2,
-19772,"En premier lieu, elle ne sait que détruire ! Si elle",2,alignement saynète
-19773,"donnait le seul don qu'elle possède à un familier,",2,alignement saynète
-19774,sa raison d'être se briserait en mille morceaux.,2,存在意義も跡形もなく壊れてしまうわ。
-19775,Ha ha ha.,2,
-19776,Vous n'mâchez pas vos mots.,2,
-19777,Un familier serait inutile au combat pour Aoko.,,retour à la ligne saynète
-19783,"non, avec le shogi, Aoko n'est que le camp du roi<ra>(avec les capacités du fou et de la tour).",,retour à la ligne saynète
-19784,"Quant à moi, mon camp est fort, mais le roi<ra>lui-même n'a que la capacité de “marcher”.",,わたしは陣営こそ強力だけど、王将自体が「歩」の^能力しかない、というイメージね。
-19787,"Elle peut à peine faire la nage du chien en natation,",0,alignement saynète
-19788,et ne sait faire ni de la barre fixe ni du vélo.,0,alignement saynète
+19770,,4,
+19771,,4,
+19772,"En premier lieu, elle ne sait que détruire ! Si elle",4,alignement saynète
+19773,"donnait le seul don qu'elle possède à un familier,",4,alignement saynète
+19774,sa raison d'être se briserait en mille morceaux.,4,存在意義も跡形もなく壊れてしまうわ。
+19775,Ha ha ha.,4,
+19776,Vous n'mâchez pas vos mots.,4,
+19777,Un familier serait inutile au combat pour Aoko.,4,retour à la ligne saynète
+19778,,4,
+19779,,4,
+19780,,4,
+19781,,4,
+19782,"Pour faire une comparaison avec les échecs...... non, avec le shogi,",4,
+19783,"non, avec le shogi, Aoko n'est que le camp du roi<ra>(avec les capacités du fou et de la tour).",4,retour à la ligne saynète
+19784,"Quant à moi, mon camp est fort, mais le roi<ra>lui-même n'a que la capacité de “marcher”.",4,わたしは陣営こそ強力だけど、王将自体が「歩」の^能力しかない、というイメージね。
+19785,,4,
+19786,,4,
+19787,"Elle peut à peine faire la nage du chien en natation,",2,alignement saynète
+19788,et ne sait faire ni de la barre fixe ni du vélo.,2,alignement saynète
 19789,"Aux heures de sport, sa tâche est facile :<ra>rester assise à la lisière du campus.",4,体育の時間は校庭のはじっこで座っているだけのカ^ンタンなお仕事。
 19790,Mais c'est pas grave !,,
 19791,"Si j'sais tout ça, c'est parce que je vous file pour prendre des photos !",,
@@ -924,14 +935,17 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19831,Zut. J'étais en pleine préparation<ra>de pâtisseries.,4,alignement saynète
 19832,,4,
 19833,,4,
-19837,,2,
-19838,"Dès que j'en ai le temps,<ra>je fais des Ploy.",2,retour à la ligne saynète
+19837,,0,
+19838,"Dès que j'ai le temps, je fais des Ploy.",0,retour à la ligne saynète
 19842,"En fait, cette odeur, c'est du chocolat ?",4,alignement saynète
 19843,Pas possible......,4,alignement saynète
 19844,Les Ploy étaient des pâtisseriesーーーー?!,4,alignement saynète
 19845,"...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais pas",,
 19846,"leur mécanisme ? Je ne voulais pas le reconnaître,",,
 19847,"mais en fin de compte, tu n'es vraiment qu'un oiseau ?",,
+19848,,4,
+19849,,4,
+19850,,4,
 19854,C'est comme je l'ai expliqué<ra>dans l'histoire principale.,2,alignement saynète
 19855,,2,alignement saynète
 19856,Voilà qui réduit à néant l'intérêt de c'coin bonus.,,retour à la ligne saynète
@@ -956,43 +970,62 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19901,,2,alignement saynète
 19902,...... C'est incroyable.,,
 19903,Elle avait vraiment une âme d'enfant.,,
-19904,"Ha ha ha, qu'est-ce que vous racontez.",,
-19905,Vous qui vous réveillez systématiquement,,
-19906,"dès que l'idiot rentre à la maison,",,
+19904,"Ha ha ha, qu'est-ce que vous racontez.",4,
+19905,Vous qui vous réveillez systématiquement,4,
+19906,"dès que l'idiot rentre à la maison,",4,
 19907,vous n'avez rien à lui envi...,1,
 19908,Guah ?!,1,ぐぼぁ!?
-19911,"Alors Robin, occupe-toi de la réservation au restaurant.",2,
-19912,"Quand tu auras fini, réchauffe le chocolat.",2,
-19913,"Et après, tu poliras le miroir.",2,
+19911,"Alors Robin, occupe-toi de la réservation au restaurant.",4,
+19912,"Quand tu auras fini, réchauffe le chocolat.",4,
+19913,"Et après, tu poliras le miroir.",4,
 19914,Et ensuite...... voyons. Écrase-toi contre,,
 19915,un poteau électrique et meurs de façon théâtrale.,,retour à la ligne saynète
-19918,C'est le genre de mon personnage.,,
-19921,Brûler des calories,,貴方のような
+19918,C'est le genre de mon personnage.,2,
+19919,,2,
+19920,,2,
+19921,Brûler des calories,2,貴方のような
 19922,toutes les cinq secondes,1,××を罵るのに
-19923,pour injurier quelqu'un d'aussi xxx que toi.,,
-19925,C'est terrible !,,
-19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",,
-19928,,1,alignement saynète
+19923,pour injurier quelqu'un d'aussi xxx que toi.,2,
+19924,,2,
+19925,C'est terrible !,4,
+19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",4,
+19928,,4,alignement saynète
 19929,,1,alignement saynète
 19930,,1,alignement saynète
 19931,,1,alignement saynète
-19934,,4,alignement saynète
-19935,,4,alignement saynète
-19936,,4,alignement saynète
+19932,,4,
+19933,,4,
+19934,J'me suis fait avaler tout rond en un instant.,2,alignement saynète
+19935,,2,alignement saynète
+19936,,2,alignement saynète
+19937,Chef.,,
+19938,Une assiette de thon trois variétés.,,
 19939,,4,alignement saynète
 19940,,4,alignement saynète
 19941,,6,alignement saynète
-19945,"Trois couleurs ensanglantées. Comme l'drapeau d'la France, quoi.",0,"alignement saynète, supprime ""national"""
-19946,"N'ayant pas d'sous, j'prendrai que de l'inarizushi et des sushis aux oeufs et à la seiche.",0,alignement saynète
-19947,Chef.,,
-19948,Une autre assiette de chûtoro.,,
-19952,Chef.,,
-19953,Une autre assiette d'ôtoro.,,
+19944,chūtoro et ōtoro.,,
+19945,"Trois couleurs ensanglantées. Comme l'drapeau d'la France, quoi.",2,"alignement saynète, supprime ""national"""
+19946,"Faute d'argent, j'me contenterai d'oeuf, de poulpe et d'inari-zushi.",2,alignement saynète
+19947,Chef.,4,
+19948,Une autre assiette de chūtoro.,4,
+19949,,4,
+19950,,4,
+19951,,4,
+19952,Chef.,4,
+19953,Une autre assiette d'ōtoro.,4,
+19954,,4,
+19955,,4,
+19956,,4,
+19957,,4,
+19958,Chef. Une autre assiette d'ōtoro.,4,
 19959,,0,alignement saynète
 19960,,0,alignement saynète
 19961,,0,alignement saynète
 19967,Mais il risque d'être rapidement à sec.,,
 19968,Faut dire qu'son portemonnaie n'est pas bien rempli.,,
+19970,,4,
+19971,,4,
+19972,,4,
 19975,"Non non, rien.",,
 19976,"La proprio détient l'autorité absolue, après tout.",,
 19977,Qui pourrait s'opposer à vous dans ce manoir ?,,
@@ -1000,23 +1033,34 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19979,,0,alignement saynète
 19980,,2,alignement saynète
 19981,,2,alignement saynète
-19982,,0,alignement saynète
+19982,,2,alignement saynète
 19985,par paire avec la grâce d'un joueur de Mahjong.,,
 19991,,2,alignement saynète
 19995,,12,alignement saynète
 19999,,12,alignement saynète
-20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",,
-20003,Des Ploy de haut niveau capables de se<ra>changer en mammifères ou en oiseaux !,,alignement saynète
-20006,On est dans le noir complet ! On ne va<ra>pas pouvoir jouer !,,alignement saynète
+20000,,4,
+20001,,4,
+20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",2,
+20003,Des Ploy de haut niveau capables de se<ra>changer en mammifères ou en oiseaux !,4,alignement saynète
+20004,,4,
+20006,On est dans le noir complet !<ra>On ne va pas pouvoir jouer !,,alignement saynète
 20007,Ayaaaーーー!!,,
 20008,"Sans observateur, la face du dé restera un mystère !",,
 20009,Le jeu ne sera pas fini que le jaune d'œuf aura déjà tourné !,,
-20019,"La société humaine a une influence néfaste sur eux,",4,
-20020,ce qui les rend vulnérables à la Magie normale.,4,alignement saynète
+20010,,4,
+20011,,4,
+20014,,4,
+20015,,4,
+20016,,4,
+20017,,4,
+20018,selon le chiffre obtenu en lançant les dés.,4,
+20019,"La société humaine a une influence néfaste sur eux,",2,
+20020,ce qui les rend vulnérables à la Magie normale.,2,alignement saynète
+20021,,4,
 20024,"Ce n'est pas impossible, vous être juste trop",,
 20030,Le Banquet de la nuit est arrivé.,4,alignement saynète
 20031,,0,alignement saynète
-20032,"Moi aussi, je connais Mother Goose.",0,alignement saynète
+20032,"Moi aussi, je connais sa comptine.",0,alignement saynète
 20033,Ça montre à quel point elle est célèbre.,0,alignement saynète
 20034,,7,alignement saynète
 20035,,8,alignement saynète
@@ -1028,55 +1072,99 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20042,et des personnifications d'un plat et d'une cuillère qui s'enfuient.,,
 20043,"Selon une théorie, elle s'inspire d'une légende grecque ou égyptienne.",0,alignement saynète
 20044,"Si ça fait référence aux constellations, ",0,alignement saynète
-20045,la vache doit être une parodie du taureau.,0,牛は牡牛座のもじりでしょう。
-20048,"Mam'zelle Alice, vous le fabriquez à la chaîne ?",,アリスさん、そのたびに作ってるッスか？
-20050,Diddle Diddle est à la base de ma Magie.,,
-20052,"Une fois la nuit intensifiée, ma Magie,",,
-20053,"les sorts de contes de fées, prend un sens tangible.",,
-20067,pour attirer les passants en son sein.,,
-20071,"doté d'un monde parallèle, mais il est resté<ra>endommagé pendant un certain temps.",,alignement saynète
+20045,alors la vache doit être une parodie du taureau.,0,牛は牡牛座のもじりでしょう。
+20046,,4,
+20047,,4,
+20048,"Mam'zelle Alice, vous le fabriquez à la chaîne ?",4,アリスさん、そのたびに作ってるッスか？
+20049,,4,
+20050,Diddle Diddle est à la base de ma Magie.,4,
+20051,,4,
+20052,"Une fois la nuit intensifiée, ma Magie,",4,
+20053,"les sorts de contes de fées, prend un sens tangible.",4,
+20058,,4,
+20059,,4,
+20060,,4,
+20061,,4,
+20062,,4,
+20063,,4,
+20064,,6,
+20065,,4,
+20066,,4,
+20067,pour attirer les passants en son sein.,4,
+20068,,4,
+20069,,4,
+20070,,4,
+20071,"doté d'un monde parallèle, mais il est resté<ra>endommagé pendant un certain temps.",4,alignement saynète
+20072,,4,
+20073,pour le réparer.,4,
 20076,Une règle stipule qu'une sorcière doit créer<ra>un Ploy suprême de son vivant.,,魔女はその生で一つ、至高のプロイを遺さないとい^けない決まりがあるから。
 20077,,4,alignement saynète
 20078,,4,alignement saynète
 20079,,4,alignement saynète
 20080,Tu vois ? En affichant la carte de Misaki sur le Miroir de la sieste et en,0,
-20081,"posant le pion dessus, l'endroit correspondant devient la “Forêt sans nom”.",0,alignement saynète
+20081,"posant le pion dessus, l'endroit correspondant devient la Forêt sans nom.",0,alignement saynète
+20082,,4,
+20083,,4,
+20084,,4,
 20085,"Ça n'a pas d'effet sur les durs de la<ra>comprenette, si je saisis bien.",2,alignement saynète
-20086,...... Exactement.,,
-20087,"Ce n'était pas ma faute, mais j'ai manqué de vigilance.",,
-20089,Reprenons. Le Ploy suivant―――,4,alignement saynète
+20086,...... Exactement.,4,
+20087,"Ce n'était pas ma faute, mais j'ai manqué de vigilance.",4,
+20088,,4,
+20089,Reprenons. Le Ploy suivant―――,,alignement saynète
 20090,,2,alignement saynète
 20091,Un œuf que j'peux avaler tout rond !,2,alignement saynète
 20095,"Et en plus, j'entends une sorte de tic tac",,
 20096,qui retentit à l'intérieur de mon ventre.,,
 20105,,16,alignement saynète
+20107,,4,
+20108,,4,
+20109,,4,
 20110,"“Humpty Dumpty, assis sur un mur mal assuré,",,
 20111,préféra ignorer le roi lui disant d'en descendre.,,
-20112,"Ce dernier irrité ordonna à ses soldats de le déloger,",,
-20113,mais ils ne purent atteindre l'œuf haut perché.,0,alignement saynète
+20112,"Ce dernier irrité ordonna à ses soldats de le déloger,",1,
+20113,mais ils ne purent atteindre l'œuf haut perché.,1,alignement saynète
 20116,pour se briser atrocement en mille morceaux.,,
 20120,La morale veut que certaines choses<ra>soient irréparables.,,
 20121,Je trouve ça particulièrement frustrant.,,
+20122,,4,
+20123,,4,
+20124,,4,
+20125,,4,
+20126,,4,
 20129,Les stocks sont épuisés pour ce soir.,0,alignement saynète
 20130,"Chef, l'addition s'il vous plaît.",0,
+20131,,4,
+20132,tous les ōtoros seront pour moi.,4,
 20133,,2,alignement saynète
 20134,,2,alignement saynète
 20135,,2,alignement saynète
-20137,"Tu fais les courses la journée ?<ra>Je t'envie, Robin.",,alignement saynète
-20148,,4,
-20149,,4,
-20150,,4,
-20154,,2,alignement saynète
-20155,"C'est quoi,<ra>cette espèce de boîte à bijoux ?",2,alignement saynète
+20136,,4,
+20137,"Tu fais les courses la journée ?<ra>Je t'envie, Robin.",4,alignement saynète
+20141,,4,
+20142,,4,
+20143,,4,
+20144,"Non, pas du tout.",4,
+20145,"Ah. J'ai capté ! Mam'zelle Alice,",4,
+20146,"vous vouliez travailler avec l'idiot, que c'est mi...",4,
+20148,,6,
+20149,,6,
+20150,,6,
+20154,,4,alignement saynète
+20155,"C'est quoi,<ra>cette espèce de boîte à bijoux ?",4,alignement saynète
+20156,,4,
+20157,,4,
+20158,,4,
 20159,"Il a peut-être l'air faible,<ra>mais c'est un Ploy extrêmement utile.",,
 20161,,2,alignement saynète
 20162,,2,alignement saynète
 20166,,3,
-20172,,4,
-20173,,4,
-20174,,4,
-20175,"Après le deuxième couplet, le poème prend",2,
-20176,la forme d'une satire de la politique de l'époque.,2,alignement saynète
+20170,les oiseaux sans raison. Qu'est-ce qu'ils avaient,,
+20171,"contre les oiseaux, ces nordiques ?",,
+20172,,6,
+20173,,6,
+20174,,6,
+20175,"Après le deuxième couplet, le poème prend",4,
+20176,la forme d'une satire de la politique de l'époque.,4,alignement saynète
 20177,,0,alignement saynète
 20178,,0,alignement saynète
 20179,"celle qui dépense en s'cret, c'pas la reine mais Mam'z...",0,alignement saynète
@@ -1090,71 +1178,86 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20193,,4,
 20194,,4,
 20195,,4,
+20198,,4,
+20199,Tu apparais bien assez comme ça<ra>dans l'histoire principale.,4,
 20201,Il se base sur un chant funèbre. L'histoire,,
 20202,tourne autour du meurtre d'un rouge-gorge.,,alignement saynète
 20203,"À la question 「Qui l'a tué ?」,",,
 20204,l'ensemble du cortège funèbre répond 「Moi」.,,
-20206,"Suite à l'immense succès de ce conte de Mother Goose,",,
-20207,la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”,,
-20208,fut publiée et devint elle aussi un best-seller.,,
+20206,"Suite à l'immense succès de cete comptine de Mother Goose,",4,
+20207,la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”,4,
+20208,fut publiée et devint elle aussi un best-seller.,4,
 20209,"Elle fut suivie de ""Le procès et l'exécution du moineau pour avoir tué",,
 20210,"Cock Robin"" qui conte les évènements après la mort du rouge-gorge.",,
-20212,Les piafs n'ont pourtant jamais eu un yen.,0,alignement saynète
+20212,Les piafs ont pourtant jamais eu un yen.,0,alignement saynète
 20216,"En d'autres termes―――le personnage<ra>principal de Mahoyo, c'est mo...",4,alignement saynète
 20217,Kya !,0,alignement saynète
-20218,,2,alignement saynète
+20218,,4,alignement saynète
 20219,Ça pourra pas être pire que maintenant.,0,alignement saynète
-20220,,2,
-20221,,2,
+20220,,4,
+20221,,4,
 20225,,8,alignement saynète
 20226,,8,
+20227,,6,
+20228,,6,
 20231,,2,alignement saynète
 20232,,2,alignement saynète
 20235,Comme les mots-valises inventés par Lewis Carroll.,,alignement saynète
 20239,"「Eh bien, “slictueux” signifie :<ra>“souple, actif, onctueux”.」",,alignement saynète
-20243,"Humpty n'a pas servi à proprement<ra>parler de modèle pour lui,",,
-20248,"Eh bien, en combinant les deux, les bonus",,
-20249,collector de l'édition limitée resteraient,,
-20250,constamment disponibles à la vente.,,
+20240,,2,
+20241,,2,
+20242,,2,
+20243,"Humpty n'a pas servi à proprement<ra>parler de modèle pour lui,",4,
+20244,,4,
+20245,,4,
+20246,,4,
+20247,,4,
+20248,"Eh bien, en combinant les deux, les bonus",0,
+20249,collector de l'édition limitée resteraient,0,
+20250,constamment disponibles à la vente.,0,
 20251,,4,alignement saynète
+20252,,4,
+20255,,4,
+20256,,4,
+20257,,4,
 20260,,4,
 20261,...... Ce n'est qu'un produit raté.,4,alignement saynète
 20262,C'est mon premier Ploy. Il n'a aucune utilité.,,
 20263,Je m'en sers de décoration par sentimentalisme.,,
-20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt laid,",0,
-20265,alors je n'aime pas trop le montrer... mais ça reste un souvenir.,0,alignement saynète
+20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt",0,
+20265,"laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.",0,alignement saynète
 20266,C'est un ouvrage en sucre en forme de broche.,4,
 20267,"Ouah, sucré...!",4,
 20268,,4,
 20274,"J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est",,
 20275,"pas là. L'heure et le lieu devraient être justes,",,
 20276,"pourtant... J'vais recrier l'titre, on sait jamais.",,
-20279,,4,
-20280,,4,
-20281,,4,
-20285,Ne sais-tu donc pas qu'un important pourcentage d'oiseaux<ra>migrateurs décèdent en tentant de la franchir ?,,
-20286,Un moment d'inattention et c'est la mort assurée.,4,
-20287,Tu peux mourir n'importe quand. Fais preuve de,4,
-20288,respect envers les sommets où vivent les dieux.,4,
+20279,,2,
+20280,,2,
+20281,,2,
+20285,Ne sais-tu donc pas qu'un important pourcentage<ra>d'oiseaux migrateurs décèdent en tentant de la franchir ?,,
+20286,Un moment d'inattention et c'est la mort assurée.,2,
+20287,Tu peux mourir n'importe quand. Fais preuve de,2,
+20288,respect envers les sommets où vivent les dieux.,2,
 20289,,4,
 20290,"Je reformule. Ne nous sous-estime pas,",,
 20291,"la montagne et moi. Aujourd'hui,",,
 20292,je suis deux fois plus motivée que d'ordinaire.,,
-20293,,4,
-20294,,4,
+20293,,2,
+20294,,2,
 20295,"Bien, c'est l'heure de Tout sur les Ploy, Robin.",4,
 20296,"Aujourd'hui, je me sens en pleine forme,",4,
 20297,alors abordons un sujet spécial.,4,
-20298,,4,
-20299,,4,
+20298,,2,
+20299,,2,
 20303,Ce sont les Trois Grands Ploy. Les trois artéfacts,0,
-20304,fabuleux qui auraient été créés par la première sorcière.,0,
+20304,fabuleux qu'auraient été créés par la première sorcière.,0,
 20305,,6,
 20306,,6,
 20307,,6,
-20310,Il tire son origine de la comptine de Mother Goose “le Pont de Londres”.,0,
+20310,Il tire son origine du conte de Mother Goose “le Pont de Londres”.,1,
 20311,,0,
-20312,,0,
+20312,,1,
 20313,Elle a été traduite en japonais<ra>et est même enseignée à l'école.,2,
 20314,Elle est donc très connue.,2,
 20317,"...... C'était un adversaire redoutable. Et puis,",2,
@@ -1163,15 +1266,18 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20320,Je ne peux l'invoquer que jusqu'au deuxième couplet.,0,
 20321,,0,
 20322,,0,
-20323,Ceux de la chanson du Pont de Londres.,0,
-20324,『～Les arbres et la terre s'envolent.,2,
-20325,～Les briques et le mortier s'effritent.,2,
-20328,,6,
-20329,,6,
-20330,"Dans la version actuelle de Mother Goose, il a quatre formes.",6,
-20331,Donc il y a autre chose après le bois et la pierre.,4,
-20332,Mais ça vous dérange pas ?,4,
-20333,,4,
+20323,Dans la chanson du Pont de Londres.,0,
+20324,『～Les arbres et la terre s'envolent.,1,
+20325,～Les briques et le mortier s'effritent.』,2,
+20328,,4,
+20329,,4,
+20330,"Dans la version actuelle de Mother Goose, il a quatre formes.",4,
+20331,Donc il y a autre chose après le bois et la pierre.,2,
+20332,Mais ça vous dérange pas ?,2,
+20333,,2,
+20336,,2,
+20337,,2,
+20338,,2,
 20339,,2,
 20340,Parce que la société humaine ne m'intéresse pas.,4,
 20341,Le pont présent dans mon univers ne va que du bois à la roche.,4,
@@ -1185,7 +1291,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20349,,4,
 20352,"il deviendrait un pont absolument infranchissable,",,
 20353,même pour Aoko et ses meilleures techniques.,,
-20355,"Il se manifesterait en tant que géant de la ville,<ra>allant jusqu'à sublimer son propre surnom.",,
+20354,,4,
+20355,"Il se manifesterait en tant que géant de la ville,<ra>allant jusqu'à sublimer son propre surnom.",4,
 20358,"Vous vous la racontez, pas vrai ?",,
 20365,Reparlons de ce “je me la raconte”.,2,
 20366,"À toi de jouer, Thames.",2,
@@ -1194,64 +1301,80 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20372,,2,
 20373,J'pensais pas que c'était dans c'sens-là !,0,
 20374,,0,
-20375,"Pourtant, j'suis sûr d'avoir dit des trucs.",0,
-20377,"Mais comme tu étais trop bruyant, j'ai ordonné",,
-20378,au réalisateur de couper spécifiquement tes répliques.,,
+20375,"Pourtant, j'ai dit plein de trucs.",0,
+20376,,6,
+20377,"Mais comme tu étais trop bruyant, j'ai ordonné",6,
+20378,au réalisateur de couper spécifiquement tes répliques.,6,
 20379,"Great. De cette façon, toute l'attention peut<ra>se concentrer sur vous, hein ?",,
 20382,"Le deuxième, oui. À titre d'information,",,
 20383,je précise que le corps de Snark est liquide.,,
+20384,,2,
+20385,,2,
 20386,Quelqu'un que tu connais très bien.,2,
 20387,"Avant de devenir amie avec elle,",2,
 20388,mes Ploy n'avaient pas de nom.,2,
-20389,Je les appelais par leur ordre de force ou,,
-20390,"de mon attachement envers eux, 1er, 2e, etc.",,
-20392,Vous n'donniez pas de nom par paresse...,,
-20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",2,
+20389,Je les appelais selon leur ordre de force ou,4,
+20390,"de mon attachement envers eux, 1er, 2e, etc.",4,
+20391,,4,
+20392,Vous n'donniez pas de nom par paresse...,4,
+20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",4,
 20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait semé la confusion, non ?",0,
 20395,Alors que mon affection ou leurs forces changeaient constamment.,0,どれが強いか、どれが好きかなんて、日によって変わるのだし。
+20399,,4,
+20400,,4,
+20401,,4,
 20403,"Prête-moi le sixième Ploy, s'il te plaît.",,
 20405,"Conformément à sa demande, je lui ai prêté",4,
 20406,le Ploy que j'avais nommé “sixième” ce jour-là.,4,
 20407,,4,
 20408,"J'imagine la suite, mais j'demande quand même.",4,
 20409,C'était quel Ploy ?,4,
-20410,Le parfum qu'elle nommerait après ça le Goblin Fron.,,
-20411,"Quand quelqu'un s'en met, il ne peut que dire des injures<ra>et parler en argot pendant toute une journée.",,
+20410,Le parfum qu'elle nommerait après ça le Goblin Fron.,4,
+20411,"Quand quelqu'un s'en met, il ne peut que dire des injures<ra>et parler en argot pendant toute une journée.",4,
+20412,,12,
 20413,"Après ça, elle m'a proposé de donner des noms aux Ploy.",,
 20414,Avec les yeux boursouflés pour une raison qui m'échappe.,,
-20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra>Celui-là Diddle Diddle. Et lui Flat Snark.<ra>Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
+20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra> Celui-là Diddle Diddle. Et lui Flat Snark.<ra> Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
 20416,"...... On dit que le nom est le reflet de l'âme, vois-tu ?",,
 20417,"Je pensais que les classer selon mon humeur était plus simple<ra>que d'employer des noms extravagants, mais...",,
-20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra>mon destin peut dépendre de tes mystérieuses humeurs.』,,
-20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est certain.<ra>Même si on en aura sûrement rapidement assez.』",,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
-20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
+20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra> mon destin peut dépendre de tes mystérieuses humeurs.』,4,
+20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est certain.<ra> Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
+20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont<ra> nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
 20421,"Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous<ra>les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
 20422,C'est un peu comme l'œuf de Colomb.,,
 20424,"Parfois, je me dis que cette fille est un génie.",,
 20425,,4,
 20426,,4,
 20427,,8,
-20433,"Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.",,
-20434,On n'peut pas le restaurer ?,,
-20436,Rien ne peut raffiner Snark à notre époque.,,
-20437,Et c'est ainsi que cet héritage culturel a été anéanti par une sauvage,0,
-20438,"ne vivant qu'à l'instinct. Ha ha, que c'est drôle de piétiner la culture !",0,
-20439,"Mais quand même, après le Négligent, c'est Snark qui y passe !",,
-20440,"Ha ha, les Great Three ?",,
+20428,,4,
+20429,,4,
+20432,,0,
+20433,"Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.",0,
+20434,On n'peut pas le restaurer ?,0,
+20435,,6,
+20436,Rien ne peut raffiner Snark à notre époque.,6,
+20437,Et c'est ainsi qu'cet héritage culturel fut anéanti par une sauvage,0,
+20438,"ne vivant qu'à l'instinct. Ha ha, c'est si drôle d'écraser la culture !",0,
+20439,"Mais quand même, après le Négligent, c'est Snark qui y passe !",4,
+20440,"Ha ha, les Great Three ?",4,
+20441,,4,
 20444,Je vais peut-être commander un poulet rôti.,,それじゃあ、わたしはフライドチキンにしてもらお^うかしら。
 20446,"Le menu ne comporte qu'des hot-dogs,<ra>du pop-corn et des frites.",,外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
 20447,"J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet rôti a une odeur trop forte pour le cinéma. Ça gêne les autres clients.",,
-20451,Ha ha ha. C'est donc pas pour le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
-20452,Ne serait-ce pas la première fois que tu boues entièrement<ra>des plumes à la peau ?,,
+20451,Ha ha. C'est donc pas pour le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
+20452,Ne serait-ce pas la première fois que tu boues entièrement<ra>des plumes à la peau ?,4,
+20453,,4,
 20454,"Justement la collection que je voulais<ra>le moins étoffer, quel pied !",,
 20455,Et il en reste encore tellement !,,
-20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,,
+20456,,6,
+20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,6,
 20460,À vous tous qui avez pris plaisir à suivre,,
 20466,"―――En conclusion,",,
 20488,,0,
 20602,"quatre ans après sa fugue de la maison Aozaki, dans le plus grand<r>secret.",,
 20692,"Tu as pour habitude de maudire ton entourage et de te plaindre. Et puis, tu éprouves l'envie irrépressible de ruiner la vie des gens heureux, mais tu parviens à te contrôler parce que tu n'as aucune bonne raison de t'en prendre à eux... Où est passée la Tōko que je connais ? Celle qui évite de justesse de sombrer dans la folie par la seule force de sa raison ?」",,
 20705,"même s'il trouvait ça louche, Tōko était clairement plus douce que<r>d'habitude.",,
+20815,"Et donc, je vais me faire ces gêneurs de l'Association et de l'Église avant qu'ils ne me repèrent.」",,
 20895,Démon ! Brute ! Génie du Mal ! Tu devrais un peu apprendre à faire preuve de bon sens ! Pas étonnant que j'aie cru qu'un voleur me rendait visite chaque nuit !」,,
 20910,"Suse Ritsuka, à peu près deux ans plus vieille que Tōko, était une Mage dépêchée il y a dix ans en tant qu'observatrice du grand-père de cette dernière―――le Mage ayant découvert la voie vers la Cinquième Vraie Magie.",,橙子より二歳ほど年上の周瀬律架は、十年前から橙子の祖^父―――五番目の魔法の路を発掘した魔術師―――の監視^役として派遣された魔術師だ。
 20978,,0,
@@ -1277,6 +1400,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 21588,"Ta supposition me semble plutôt juste, pourtant.」",,今の憶測に間違いはないと思うけど？」
 21637,"En temps normal, il a la personnalité de son utilisateur, mais lorsque des conditions propices à l'exécution des règles se présentent, et à ce moment seulement, la personnalité de Sweets Hearts refait surface.",,
 21647,,2,
+21713,Té hé.」,,
 21730,"Elle disait être fan de rock progressif, mais en réalité, elle préférait<r>l'enka...",,
 21731,,0,
 21759,「Spur !,,「スキー跡！
@@ -1285,6 +1409,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 21906,,0,
 21953,"『Hahaha, j'reconnais bien là notre Riddell. La soudaineté de tes éruptions émotionnelles est toujours aussi intense ! T'es pas embarrassée de dire des choses comme “regardez la vraie moi” ? Non, tu l'es pas, hein ? Trop fort ! Je l'savais ! Riddell, le métier de star te convient mieux que celui de Mage !』",,『ハハハ、さすがリデルさん、感情のオンオフ激しいっスね！　ホントのアタシを見てー、とか、メルヘン全開で恥ずかしくないッスか？　恥ずかしくないんスよね。スゲー、やっぱリデルさん、魔術師よりアイドル向けッス！』
 22004,"Il avait l'air solidement uni, mais le consensus semblait quelque peu<r>fragile.",,
+22013,"「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon goût, mais si tu ne lâches pas Sōjūrō, je gobe ta tête tout rond.」",,
 22015,,0,
 22027,,1,
 22091,Je pouvais également percevoir des bruits de pas et de charnières<r>grinçantes.,,
