@@ -19681,9 +19681,9 @@ Je n'accepterais plus de sit&t l'aide de ce r=pugnant loup dor=.
   Au fait, ici c'est la chambre de Mam'zelle Alice !
   Comme elle v'nait pas aux studios alors qu'c'=tait^  l'heure,
  j'ai amen= la cam=ra dans sa chambre.
-C'est juste une inversion d'perspective, vous voyez ?
-Si l'invit= n'vient pas, il n'y a qu'# venir
-faire l'=mission dans sa chambre, non ?
+  C'est juste une inversion de perspective,
+  vous voyez ? Si l'invit= n'vient pas, il n'y a qu'#
+  venir faire l'=mission dans sa chambre, non ?
   ...... C'est bon, alors d=p_che-toi de commencer. Finis }a
   le plus rapidement possible, et va-t'en plus vite que la lumi$re.
     Uhaa, c't'embarrassant !
@@ -19702,7 +19702,7 @@ impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.
                   Robin.
                 Oui !
 Ce soir, nous f'rons le B.A.BA, les explications sur les familiers.
-C'est un cours simple pour les nouveaux venus n'ayant aucune id=e de c'qu'est la Magie.
+C'est un cours simple pour les nouveaux venus^n'ayant aucune id=e de c'qu'est la Magie.
 Voil# c'qu'est “Tout sur les Ploy”.
   Donc, c'est quoi ces “familiers”, Mam'zelle Alice ?
   Moi-m_me, depuis que j'suis n=,
@@ -19716,12 +19716,12 @@ Depuis les temps anciens, la principale occupation des Mages est de s'enfermer d
   Un disciple est le successeur qui h=rite des techniques du ma`tre^  et se doit de les ma`triser, n'est-ce pas ?
   Ils ont le devoir de surpasser un jour leurs ma`tres,
   et ces derniers ne prendraient pas de disciples^  s'il en =tait autrement.
-      À l'inverse, les familiers re}oivent l'int=gralit= de leurs capacit=s^      # leur naissance.
+      À l'inverse, les familiers re}oivent l'int=gralit=^      de leurs capacit=s # leur naissance.
       Il n'y a aucun sens # ce qu'un _tre incapable d'=voluer^      devienne le successeur d'un Mage.
-J'vois. J'comprends mieux. C'pour }a que malgr= les ann=es^qui passent, ma capacit= de m=morisation n'augmente pas.^Mais }a veut aussi dire que j'suis parfait depuis ma naissance.
+    J'vois. J'comprends mieux. C'pour }a que malgr= les ann=es^    qui passent, ma capacit= de m=morisation n'augmente pas.^    Mais }a veut aussi dire que j'suis parfait depuis ma naissance.
             Oui. Tu es parfaitement inutile.
-La plupart des familiers sont cr==s # partir de petits animaux.
-En effet, une grande partie des types de familiers requi$rent d'_tre^aliment=s en prana par leur ma`tre.
+    La plupart des familiers sont cr==s # partir de petits animaux.
+    En effet, une grande partie des types de familiers requi$rent^    d'_tre aliment=s en prana par leur ma`tre.
 Plus le familier est gros, plus il a besoin de prana. C'est pour cela que
 les petits animaux sont privil=gi=s, car ils consomment peu de prana et^sont capables d$s leur cr=ation de subvenir eux-m_mes # leurs besoins.
 ? Pourtant, j'ai jamais chass= ou fait un truc du genre.
@@ -19729,63 +19729,63 @@ J'ai pas besoin de prot=ines ou de fibres alimentaires ?
 Les Ploy sont une cat=gorie # part. Bref, pour les Mages, les familiers
 sont des “serviteurs” ou des “animaux de compagnie” # leur service.
 Ainsi, on prend en g=n=ral un chat, un oiseau ou une souris comme familier.
-  Mam'zelle Alice,^  cette machine effrayante,
-  }a entre dans quelle cat=gorie ?
-  C'est un Automate adapt= au combat. Mais # ce niveau,
-  il s'agit davantage d'une sentinelle qu'un familier.
-    ...... Sa conception m_me est tr$s =loign=e des normes^    traditionnelles des familiers.
-    De la m_me fa}on, les familiers poss=dant une intelligence
-    compatible avec les humains comme toi sont aussi des exceptions.
+    Mam'zelle Alice,^    cette machine effrayante,
+    }a entre dans quelle cat=gorie ?
+    C'est un Automate adapt= au combat. Mais # ce niveau,
+    il s'agit davantage d'une sentinelle qu'un familier.
+    ...... Sa conception m_me est tr$s =loign=e des normes^    traditionnelles des familiers. De la m_me fa}on,
+    les familiers poss=dant une intelligence compatible
+    avec les humains comme toi sont aussi des exceptions.
 Mais les familiers de ce genre ne sont qu'un immense gXchis d'=nergie.
 Leur co;t en prana est juste trop grand. En g=n=ral, le Mage gagnerait
- # faire le travail lui-m_me ou # utiliser des ressources plus abordables.
-      En d'autres termes,
-      la fin ne justifie pas les moyens, hein.
-  Hm ? Quelque part, }a veut dire que le familier^  est toujours plus faible que le Mage, hein.
-  Ce sont que des sous-fifres ?
-  Ouaah, ils sont vraiment inutiles !
-  Voil# une conclusion hXtive typique de toi, Robin.
-  Ça me consterne. Et dire que tu es mon familier,
-  j'ai l'impression que }a va me rendre folle.
-  Mam'zelle Alice. Vos paroles sont merveilleuses,
-  mais pourquoi votre visage fait peur ?
-  M_me s'il ne lui donne que 10% de ses propres capacit=s,
-  il est tr$s facile pour un Mage de cr=er un familier^  plus “fort” que lui-m_me.
-  Tiens, pourquoi ne pas essayer de t'enfoncer
-  un derringer dans le ventre la prochaine fois ?
-  Tu ne pourras plus gazouiller, rire, ou voler,
-  mais il y a de fortes chances que tu puisses^  au moins faire peur # l'ennemi.
+# faire le travail lui-m_me ou # utiliser des ressources plus abordables.
+    En d'autres termes,
+    la fin ne justifie pas les moyens, hein.
+        Hm ? Quelque part, }a veut dire que le familier^        est toujours plus faible que le Mage, hein.
+        Ce sont que des sous-fifres ?
+        Ouaah, ils sont vraiment inutiles !
+    Voil# une conclusion hXtive typique de toi, Robin.
+    Ça me consterne. Et dire que tu es mon familier,
+    j'ai l'impression que }a va me rendre folle.
+    Mam'zelle Alice. Vos paroles sont merveilleuses,
+    mais pourquoi votre visage fait peur ?
+    M_me s'il ne lui donne que 10% de ses propres capacit=s,
+    il est tr$s facile pour un Mage de cr=er un familier^    plus “fort” que lui-m_me.
+    Tiens, pourquoi ne pas essayer de t'enfoncer
+    un derringer dans le ventre la prochaine fois ?
+    Tu ne pourras plus gazouiller, rire, ou voler,
+    mais il y a de fortes chances que tu puisses^    au moins faire peur # l'ennemi.
   Ro―――Robin le P=tard !
-  Trop cool !
-  J'ai l'intuition que j'aurai^  un grand r&le # jouer # Noël......!
+ Trop cool !
+ J'ai l'intuition que j'aurai^ un grand r&le # jouer # Noël......!
     Une vraie sarbacane.
     Je me demande si tu seras utilis= en tant que telle^    # cette occasion ?
   Vous _tes dr&lement s=v$re.
   Mais au moins, on a fait une explication approximative.
-  Les familiers sont des robots prot=geant le Mage,
-  et leur performance varie selon leur cr=ateur.
+    Les familiers sont des robots prot=geant le Mage,
+    et leur performance varie selon leur cr=ateur.
     Hm ? En dehors de vous, toute-puissante Mam'zelle Alice,
     que se passerait-il si Mam'zelle Aoko cr=ait un familier ?
     Une auto-destruction instantan=e # l'activation ?
-  Cette hypoth$se n'a pas lieu d'_tre.
-  Aoko n'a pas les comp=tences n=cessaires pour cr=er un familier.
-  En premier lieu, elle ne sait que d=truire ! Si elle
-  donnait le seul don qu'elle poss$de # un familier,
-  sa raison d'_tre se briserait en mille morceaux.
-  Ha ha ha.
-  Vous n'mXchez pas vos mots.
-  Un familier serait inutile au combat pour Aoko.
-  Et inversement, je ne peux pas me battre―――
-      Je vois. Mam'zelle Aoko elle-m_me est forte.
-      Et pour vous, ce sont ceux qui vous entourent
-      qui sont forts.
-  S'il fallait faire une comparaison avec les =checs......
-  non, avec le shogi, Aoko n'est que le camp du roi^  (avec les capacit=s du fou et de la tour).
- Quant # moi, mon camp est fort, mais le roi^ lui-m_me n'a que la capacit= de “marcher”.
- Oui, Mam'zelle Alice est un personnage lent,
- n'ayant ni force physique ni r=flexe !
-Elle peut # peine faire la nage du chien en natation,
-et ne sait faire ni de la barre fixe ni du v=lo.
+    Cette hypoth$se n'a pas lieu d'_tre.
+    Aoko n'a pas les comp=tences n=cessaires pour cr=er un familier.
+    En premier lieu, elle ne sait que d=truire ! Si elle
+    donnait le seul don qu'elle poss$de # un familier,
+    sa raison d'_tre se briserait en mille morceaux.
+    Ha ha ha.
+    Vous n'mXchez pas vos mots.
+    Un familier serait inutile au combat pour Aoko.
+    Et inversement, je ne peux pas me battre―――
+    Je vois. Mam'zelle Aoko elle-m_me est forte.
+    Et pour vous, ce sont ceux qui vous entourent
+    qui sont forts.
+    Pour faire une comparaison avec les =checs...... non, avec le shogi,
+    non, avec le shogi, Aoko n'est que le camp du roi^    (avec les capacit=s du fou et de la tour).
+    Quant # moi, mon camp est fort, mais le roi^    lui-m_me n'a que la capacit= de “marcher”.
+    Oui, Mam'zelle Alice est un personnage lent,
+    n'ayant ni force physique ni r=flexe !
+  Elle peut # peine faire la nage du chien en natation,
+  et ne sait faire ni de la barre fixe ni du v=lo.
     Aux heures de sport, sa tXche est facile :^    rester assise # la lisi$re du campus.
     Mais c'est pas grave !
     Si j'sais tout }a, c'est parce que je vous file pour prendre des photos !
@@ -19834,8 +19834,8 @@ Vous voyez “La for_t, l'oiseau et la fillette” ? Ou “L'oiseau et l'=l$ve d
     Mam'zelle Aoko a le conseil =tudiant.
     L'idiot, ses jobs. Et vous, vous _tes
     dans le club du retour # la maison ?
-  Tu peux le constater par toi-m_me.
-  D$s que j'en ai le temps,^  je fais des Ploy.
+Tu peux le constater par toi-m_me.
+D$s que j'ai le temps, je fais des Ploy.
   Ouaah. C'est # l'image des sorci$res
   des contes de f=es.
   Les Ploy se fabriquent dans une marmite ?
@@ -19845,9 +19845,9 @@ Vous voyez “La for_t, l'oiseau et la fillette” ? Ou “L'oiseau et l'=l$ve d
     ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais pas
     leur m=canisme ? Je ne voulais pas le reconna`tre,
     mais en fin de compte, tu n'es vraiment qu'un oiseau ?
-  Pour }a, m_me moi, je n'sais pas trop.
-  Mais pour le m=canisme des Ploy, je l'sais.
-  Parce que―――
+    Pour }a, m_me moi, je n'sais pas trop.
+    Mais pour le m=canisme des Ploy, je l'sais.
+    Parce que―――
       Parce que d$s maintenant, vous allez
       donner une explication cool, plus profonde
       que l'oc=an et plus vaste que le ciel !
@@ -19901,61 +19901,61 @@ Elle avait des surnoms comme la Sorci$re au sang pur.
   en souriant : “son nom sera Alice”.
     ...... C'est incroyable.
     Elle avait vraiment une Xme d'enfant.
-  Ha ha ha, qu'est-ce que vous racontez.
-  Vous qui vous r=veillez syst=matiquement
-  d$s que l'idiot rentre # la maison,
+    Ha ha ha, qu'est-ce que vous racontez.
+    Vous qui vous r=veillez syst=matiquement
+    d$s que l'idiot rentre # la maison,
  vous n'avez rien # lui envi...
  Guah ?!
         À la prochaine le}on, faisons un cours
         “Ploy Kickshaw, cas particuliers”.
-  Alors Robin, occupe-toi de la r=servation au restaurant.
-  Quand tu auras fini, r=chauffe le chocolat.
-  Et apr$s, tu poliras le miroir.
+    Alors Robin, occupe-toi de la r=servation au restaurant.
+    Quand tu auras fini, r=chauffe le chocolat.
+    Et apr$s, tu poliras le miroir.
   Et ensuite...... voyons. Wcrase-toi contre
   un poteau =lectrique et meurs de fa}on th=Xtrale.
       Comme d'habitude, donc, hein !
       Mam'zelle Alice, vous _tes cruelle !
-C'est le genre de mon personnage.
-Dans l'histoire principale, je me tais seulement parce que c'est =reintant.
-    Wreintant ? Quoi donc ?
-Br;ler des calories
+  C'est le genre de mon personnage.
+  Dans l'histoire principale, je me tais seulement parce que c'est =reintant.
+  Wreintant ? Quoi donc ?
+  Br;ler des calories
  toutes les cinq secondes
-pour injurier quelqu'un d'aussi xxx que toi.
-Tu penses vraiment avoir une telle importance ?
-  C'est terrible !
-  Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
+  pour injurier quelqu'un d'aussi xxx que toi.
+  Tu penses vraiment avoir une telle importance ?
+    C'est terrible !
+    Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
   Mais,
- dans ce cas,
+    dans ce cas,
  je veux
  _tre
  l=ch= !
-  Bonne id=e,
-  si on essayait pour voir si }a ne te tue pas ?
-    J'me suis fait manger tout rond en un instant.
-    Comme je l'pensais, les Ploy sont des pXtisseries ?
-    Hmm, c'est bon...
-    Chef. Une assiette
-    de thon trois vari=t=s.
+    Bonne id=e,
+    si on essayait pour voir si }a ne te tue pas ?
+  J'me suis fait avaler tout rond en un instant.
+  Comme je l'pensais, les Ploy sont des pXtisseries ?
+  Hmm, c'est bon...
+    Chef.
+    Une assiette de thon trois vari=t=s.
     Mam'zelle Alice, c'est quoi }a ?
     Je n'avais jamais vu cette dr&le d'assiette dor=e.
       Ce n'est pas grand-chose.
         C'est juste un assortiment
         de thon akami,
-        ch;toro et &toro.
-Trois couleurs ensanglant=es. Comme l'drapeau d'la France, quoi.
-N'ayant pas d'sous, j'prendrai que de l'inarizushi et des sushis aux oeufs et # la seiche.
-  Chef.
-  Une autre assiette de ch;toro.
-      Encore de la chair rouge ? Vous n'voulez pas
-      de la chair brillante ou blanche ?
-      La sardine et la s=riole par exemple, c'est bon.
-        Chef.
-        Une autre assiette d'&toro.
-      Chaque assiette vaut le prix
-      d'un d`ner normal.
-      Vous n'pouvez pas vous limiter au saumon ?
-      Ce n'est pas grand-chose.
-      Chef. Une autre assiette d'&toro.
+        chZtoro et *toro.
+  Trois couleurs ensanglant=es. Comme l'drapeau d'la France, quoi.
+  Faute d'argent, j'me contenterai d'oeuf, de poulpe et d'inari-zushi.
+    Chef.
+    Une autre assiette de chZtoro.
+    Encore de la chair rouge ? Vous n'voulez pas
+    de la chair brillante ou blanche ?
+    La sardine et la s=riole par exemple, c'est bon.
+    Chef.
+    Une autre assiette d'*toro.
+    Chaque assiette vaut le prix
+    d'un d`ner normal.
+    Vous n'pouvez pas vous limiter au saumon ?
+    Ce n'est pas grand-chose.
+    Chef. Une autre assiette d'*toro.
 Depuis le d=but, vous n'avez d'yeux que pour le thon.
 Ça ne m'=tonne pas de vous―――!
 La fille du conglom=rat Kuonji ne se prive de rien !
@@ -19967,9 +19967,9 @@ La fille du conglom=rat Kuonji ne se prive de rien !
         Mais il risque d'_tre rapidement # sec.
         Faut dire qu'son portemonnaie n'est pas bien rempli.
         Elle fait les boutiques d$s qu'elle a de l'argent.
-      Aucun probl$me.
-      Il suffit d'_tre par=, Robin.
-      J'ai =galement ici un portefeuille bien garni.
+    Aucun probl$me.
+    Il suffit d'_tre par=, Robin.
+    J'ai =galement ici un portefeuille bien garni.
                   Bhu...!
                   Quoi ?
       Non non, rien.
@@ -19979,7 +19979,7 @@ La fille du conglom=rat Kuonji ne se prive de rien !
 Il m'a l'air bien lourd, c'portefeuille.
   Il roule sur les liasses de billets.
   J'en suis toute chamboul=e.
-...... L'akami n'est toujours pas pass=.
+  ...... L'akami n'est toujours pas pass=.
   Quelqu'un # la place d'honneur se les accapare tous.
   Elle a un manteau vert. Et des lunettes. Et les avale
   par paire avec la grXce d'un joueur de Mahjong.
@@ -19997,28 +19997,28 @@ Il m'a l'air bien lourd, c'portefeuille.
     Des renforts ?
               Expliquons !
             On va expliquer !
-      Ne cachons rien, nous sommes...
-  Soyons francs, nous sommes...!
-Nous sommes les chouchous de notre ma`tresse, pouvant nous m=tamorphoser # volont=, Six Force !
+    Ne cachons rien, nous sommes...
+    Soyons francs, nous sommes...!
+  Nous sommes les chouchous de notre ma`tresse, pouvant nous m=tamorphoser # volont=, Six Force !
     Des Ploy de haut niveau capables de se^    changer en mammif$res ou en oiseaux !
     Les Jumeaux bavards, c'est nous.
     Oooh―――?!
-    On est dans le noir complet ! On ne va^    pas pouvoir jouer !
+    On est dans le noir complet !^    On ne va pas pouvoir jouer !
 Ayaaa―――!!
 Sans observateur, la face du d= restera un myst$re !
 Le jeu ne sera pas fini que le jaune d'oeuf aura d=j# tourn= !
-        H=, ce serait pas le duo de cochons ?!
-        Ils peuvent se transformer en humains―――?!
+    H=, ce serait pas le duo de cochons ?!
+    Ils peuvent se transformer en humains―――?!
     ...... Ils pourraient prendre cette forme avec le chiffre 1.
     Voici les d=tails.
-            Ils s'appellent les Jumeaux bavards.
-            Le casse-pied, c'est Tweedledum,
-            et le braillard, c'est Tweedledee.
-          Ce sont des Ploy qui changent de forme
-          selon le chiffre obtenu en jetant les d=s.
-    La soci=t= humaine a une influence n=faste sur eux,
-    ce qui les rend vuln=rables # la Magie normale.
-      Vous avez d=j# eu le chiffre 1 ?
+    Ils s'appellent les Jumeaux bavards.
+    Le casse-pied, c'est Tweedledum,
+    et le braillard, c'est Tweedledee.
+    Ce sont des Ploy qui changent de forme
+    selon le chiffre obtenu en lan}ant les d=s.
+  La soci=t= humaine a une influence n=faste sur eux,
+  ce qui les rend vuln=rables # la Magie normale.
+    Vous avez d=j# eu le chiffre 1 ?
       Apparemment, c'est impossible avec moi.
       Je n'ai jamais vu que leur forme de porcelets.
       Ce n'est pas impossible, vous _tre juste trop
@@ -20029,7 +20029,7 @@ Le jeu ne sera pas fini que le jaune d'oeuf aura d=j# tourn= !
       sans tricher, vous resterez sur le 6 !
     Le Banquet de la nuit est arriv=.
 C'est notre bon vieux “Diddle Diddle”.
-Moi aussi, je connais Mother Goose.
+Moi aussi, je connais sa comptine.
 Ça montre # quel point elle est c=l$bre.
        『Diguedon, don don
         Le chat et le violon
@@ -20042,35 +20042,35 @@ Moi aussi, je connais Mother Goose.
   et des personnifications d'un plat et d'une cuill$re qui s'enfuient.
 Selon une th=orie, elle s'inspire d'une l=gende grecque ou =gyptienne.
 Si }a fait r=f=rence aux constellations,
-la vache doit _tre une parodie du taureau.
-      C'est un Ploy jetable, pas vrai ?
-      Il se casse apr$s chaque utilisation.
-      Mam'zelle Alice, vous le fabriquez # la cha`ne ?
-  Wvidemment.
-  Diddle Diddle est # la base de ma Magie.
-En plongeant dans le sol, il renforce la nuit.
-Une fois la nuit intensifi=e, ma Magie,
-les sorts de contes de f=es, prend un sens tangible.
+alors la vache doit _tre une parodie du taureau.
+    C'est un Ploy jetable, pas vrai ?
+    Il se casse apr$s chaque utilisation.
+    Mam'zelle Alice, vous le fabriquez # la cha`ne ?
+    Wvidemment.
+    Diddle Diddle est # la base de ma Magie.
+    En plongeant dans le sol, il renforce la nuit.
+    Une fois la nuit intensifi=e, ma Magie,
+    les sorts de contes de f=es, prend un sens tangible.
         Voil# les d=tails.
     Les endroits o+ il est utilisable sont plut&t limit=s.
     En ville, vos pouvoirs sont r=duits de moiti=,
     parce que vous _tes une fille de la for_t.
-          Voil# la “For_t sans nom”.
-          Comme ce Ploy ne sert # rien tout seul,
-          il a besoin d'une carte pour fonctionner.
-  Il s'utilise en combinaison avec le “Miroir de la sieste”.
-  Ce dernier ne fait pas partie des Trois Grands Ploy,
-  mais il n'a rien # leur envier, niveau capacit=s.
-          Pour _tre plus pr=cise,
-  il sert # rep=rer les ennemis en ville et # garder le manoir.
-  Il =chappe parfois # tout contr&le en cr=ant des passages
-  pour attirer les passants en son sein.
-  Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
-  Il est tir= de “De l'autre c&t= du miroir”, c'est }a ?
-  Oui. À l'origine, ce n'=tait qu'un embryon
-  dot= d'un monde parall$le, mais il est rest=^  endommag= pendant un certain temps.
-  Ma m$re et T*ko ont collabor=
-  et l'ont r=par=.
+    Voil# la “For_t sans nom”.
+    Comme ce Ploy ne sert # rien tout seul,
+    il a besoin d'une carte pour fonctionner.
+    Il s'utilise en combinaison avec le “Miroir de la sieste”.
+    Ce dernier ne fait pas partie des Trois Grands Ploy,
+    mais il n'a rien # leur envier, niveau capacit=s.
+      Pour _tre plus pr=cise,
+    il sert # rep=rer les ennemis en ville et # garder le manoir.
+    Il =chappe parfois # tout contr&le en cr=ant des passages
+    pour attirer les passants en son sein.
+    Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
+    Il est tir= de “De l'autre c&t= du miroir”, c'est }a ?
+    Oui. À l'origine, ce n'=tait qu'un embryon
+    dot= d'un monde parall$le, mais il est rest=^    endommag= pendant un certain temps.
+    Ma m$re et T*ko ont collabor=
+    pour le r=parer.
     ? Pourquoi faire }a ?
     My Godness suffisait, non ?
       Une r$gle stipule qu'une sorci$re doit cr=er^      un Ploy supr_me de son vivant.
@@ -20078,15 +20078,15 @@ les sorts de contes de f=es, prend un sens tangible.
     ce miroir pour en faire son chef-d'oeuvre
     ultime. Cela dit, je ne sais trop quoi en penser.
 Tu vois ? En affichant la carte de Misaki sur le Miroir de la sieste et en
-posant le pion dessus, l'endroit correspondant devient la “For_t sans nom”.
-          C'est ce Ploy que j'ai utilis= pour le premier combat d'Aoko.
-          Dans sa zone d'action, il sugg$re aux intrus qu'ils n'ont
-          rien # faire l#, agissant comme une r=pulsion, mais......
+posant le pion dessus, l'endroit correspondant devient la For_t sans nom.
+    C'est ce Ploy que j'ai utilis= pour le premier combat d'Aoko.
+    Dans sa zone d'action, il sugg$re aux intrus qu'ils n'ont
+    rien # faire l#, agissant comme une r=pulsion, mais......
   Ça n'a pas d'effet sur les durs de la^  comprenette, si je saisis bien.
-  ...... Exactement.
-  Ce n'=tait pas ma faute, mais j'ai manqu= de vigilance.
-  La prochaine fois, je ferai plus attention.
-    Reprenons. Le Ploy suivant―――
+    ...... Exactement.
+    Ce n'=tait pas ma faute, mais j'ai manqu= de vigilance.
+    La prochaine fois, je ferai plus attention.
+      Reprenons. Le Ploy suivant―――
   Yahou !
   Un oeuf que j'peux avaler tout rond !
         Cet oeuf est succulent !
@@ -20104,13 +20104,13 @@ posant le pion dessus, l'endroit correspondant devient la “For_t sans nom”.
                   One.
                 À l'aide.
                 ūero.
-        Il s'agit de Scratch Dumpty.
-        Il est bas= sur Humpty Dumpty apparaissant
-        dans une des comptines de Mother Goose.
+    Il s'agit de Scratch Dumpty.
+    Il est bas= sur Humpty Dumpty apparaissant
+    dans une des comptines de Mother Goose.
       “Humpty Dumpty, assis sur un mur mal assur=,
       pr=f=ra ignorer le roi lui disant d'en descendre.
-  Ce dernier irrit= ordonna # ses soldats de le d=loger,
-mais ils ne purent atteindre l'oeuf haut perch=.
+ Ce dernier irrit= ordonna # ses soldats de le d=loger,
+ mais ils ne purent atteindre l'oeuf haut perch=.
     Le roi fatigu= laissa Humpty Dumpty en paix.
     C'est alors qu'il tomba de son muret,
     pour se briser atrocement en mille morceaux.
@@ -20119,8 +20119,8 @@ mais ils ne purent atteindre l'oeuf haut perch=.
       ne purent jamais le recoller―――”
 La morale veut que certaines choses^soient irr=parables.
 Je trouve }a particuli$rement frustrant.
-  À ce propos, Humpty devint un oeuf
-  # la moiti= du âIâe si$cle.
+    À ce propos, Humpty devint un oeuf
+    # la moiti= du âIâe si$cle.
     En 1843, le pasteur Maberly dessina,
     sous le nom de plume “Alquis”, un livre
     d'images rempli d'illustrations de Humpty.
@@ -20128,8 +20128,8 @@ Je trouve }a particuli$rement frustrant.
   inspir= de cette version de Humpty.
 Les stocks sont =puis=s pour ce soir.
 Chef, l'addition s'il vous pla`t.
-  La prochaine fois―――
-  tous les &toro seront pour moi.
+    La prochaine fois―――
+    tous les *toros seront pour moi.
   Yo ! Tu travailles toujours comme un chien, l'idiot ?
   Donne-moi une douzaine de portions pour oiseau.
   Ton meilleur millet ou ton meilleur bl=.
@@ -20141,21 +20141,21 @@ Chef, l'addition s'il vous pla`t.
     Tu es bien curieux pour une cervelle d'oiseau.
     Aujourd'hui, c'est moi qui garde la boutique.
     Aurais-tu quelque chose # y redire ?
-  Non, pas du tout. Ah. J'ai capt= !
-  Mam'zelle Alice, vous vouliez travailler
-  avec l'idiot, que c'est mi...
+    Non, pas du tout.
+    Ah. J'ai capt= ! Mam'zelle Alice,
+    vous vouliez travailler avec l'idiot, que c'est mi...
     Tout sur les Ploy.
-    Aujourd'hui, nous verrons des Ploy Kickshaw
-    plut&t inoffensifs. Allez, Robin.
-    Choisis ce que tu veux.
+      Aujourd'hui, nous verrons des Ploy Kickshaw
+      plut&t inoffensifs. Allez, Robin.
+      Choisis ce que tu veux.
   Je me croyais chez un pXtissier,
   et me voil# chez un trafiquant de Ploy Kickshaw.
   Le vieux quartier de Misaki, c'est vraiment l'enfer.
-  OK, partons de la droite.
-  C'est quoi,^  cette esp$ce de bo`te # bijoux ?
-      C'est la Chanson # 6 pences.
-      Jack in The Box,
-      ou encore Six Sing Chocolate.
+    OK, partons de la droite.
+    C'est quoi,^    cette esp$ce de bo`te # bijoux ?
+    C'est la Chanson # 6 pences.
+    Jack in The Box,
+    ou encore Six Sing Chocolate.
     Il a peut-_tre l'air faible,^    mais c'est un Ploy extr_mement utile.
     Rien # voir avec un certain oiseau ici pr=sent.
   Wvidemment !
@@ -20167,13 +20167,13 @@ Chef, l'addition s'il vous pla`t.
     Une poche de seigle bourr=e~♪
     24 oiseaux noirs, dans la tourte grill=s~♪』
     ... Hmm. J'comprends pas pourquoi on massacre
-    les oiseaux sans raison. Qu'est-ce qu'ils
-    avaient contre les oiseaux, ces nordiques ?
-    Dans la suite, on a aussi :
-    “Le roi, son argent comptait,
-    la reine, de tartines au miel s'empiffrait.”
-  Apr$s le deuxi$me couplet, le po$me prend
-  la forme d'une satire de la politique de l'=poque.
+    les oiseaux sans raison. Qu'est-ce qu'ils avaient
+    contre les oiseaux, ces nordiques ?
+      Dans la suite, on a aussi :
+      “Le roi, son argent comptait,
+      la reine, de tartines au miel s'empiffrait.”
+    Apr$s le deuxi$me couplet, le po$me prend
+    la forme d'une satire de la politique de l'=poque.
 Non, }a d=crit l'quotidien d'la r=sidence Kuonji. Le roi
 qui fait les comptes, c'est en fait la reine au pull bleu. Et
 celle qui d=pense en s'cret, c'pas la reine mais Mam'z...
@@ -20195,37 +20195,37 @@ celle qui d=pense en s'cret, c'pas la reine mais Mam'z...
     mais ce nom est bien trop glorieux pour toi.
         C'est une oeuvre digne du talent de Michel-Ange.
         D$s que je suis entr=, j'ai su que c'=tait le plus cher
-        et le plus populaire. Jur=.
-Inutile d'entrer dans les d=tails, n'est-ce pas ?
+    et le plus populaire. Jur=.
+    Tu apparais bien assez comme }a^    dans l'histoire principale.
 Tu apparais bien assez comme }a dans l'histoire principale.
     Il se base sur un chant fun$bre. L'histoire
     tourne autour du meurtre d'un rouge-gorge.
     À la question 「Qui l'a tu= ?」,
     l'ensemble du cort$ge fun$bre r=pond 「Moi」.
     Elle d=peint aussi la recherche du coupable.
-      Suite # l'immense succ$s de ce conte de Mother Goose,
-      la pr=quelle “L'heureuse cour de Cock Robin et Jenny Éren”
-      fut publi=e et devint elle aussi un best-seller.
+    Suite # l'immense succ$s de cete comptine de Mother Goose,
+    la pr=quelle “L'heureuse cour de Cock Robin et Jenny Éren”
+    fut publi=e et devint elle aussi un best-seller.
     Elle fut suivie de "Le proc$s et l'ex=cution du moineau pour avoir tu=
     Cock Robin" qui conte les =v$nements apr$s la mort du rouge-gorge.
     Je t'envie. Avec les droits d'auteur, tu dois _tre riche, Robin.
-Les piafs n'ont pourtant jamais eu un yen.
+Les piafs ont pourtant jamais eu un yen.
       À part }a, vous saviez que le rouge-gorge
       est l'oiseau national du Royaume-Uni ?
       Il symbolise aussi le jour de Noël.
     En d'autres termes―――le personnage^    principal de Mahoyo, c'est mo...
 Kya !
-  Il t'arrivera des bricoles si tu t'excites trop.
+    Il t'arrivera des bricoles si tu t'excites trop.
 Ça pourra pas _tre pire que maintenant.
-  Ensuite...... il n'y a que des restes.
-  Ils ne m=ritent pas vraiment qu'on en parle.
+    Ensuite...... il n'y a que des restes.
+    Ils ne m=ritent pas vraiment qu'on en parle.
         Dites, dites.
         C'est quoi ce Ploy-oeil ?
         Un bonbon en forme... d'oeil ?
         C'est un globe oculaire.
         Un bonbon globe oculaire ?
-        C'est un vrai globe oculaire.
-        Tu veux voir ?
+      C'est un vrai globe oculaire.
+      Tu veux voir ?
     Pigyaa――――?!
     Votre oeil gauche est artificiel ?!
   ...... Ce n'est pas tout # fait }a.
@@ -20242,27 +20242,27 @@ Kya !
   C'est de l# que vient la polys=mie de l'Oeil Mystique.
     Humpty n'a pas servi # proprement^    parler de mod$le pour lui,
     mais “elle” a choisi ce nom en son honneur.
-      Hmm. J'viens d'y penser, mais associer
-      “premi$re =dition limit=e” et “=dition normale”,
-      }a donne quoi ?
+    Hmm. J'viens d'y penser, mais associer
+    “premi$re =dition limit=e” et “=dition normale”,
+    }a donne quoi ?
 Eh bien, en combinant les deux, les bonus
 collector de l'=dition limit=e resteraient
 constamment disponibles # la vente.
     Ha ha ha !
-      Alors, ce serait une “Premi$re Wdition Populaire” !
+    Alors, ce serait une “Premi$re Wdition Populaire” !
       Non. “Article au rabais”.
                   Gh=.
-      ...... Ahem.
-      Vois-tu, ce Ploy n'est pas =vident # utiliser.
-      La prochaine fois, je ferai preuve de retenue.
+    ...... Ahem.
+    Vois-tu, ce Ploy n'est pas =vident # utiliser.
+    La prochaine fois, je ferai preuve de retenue.
   Ensuite...... Ah, }'ui-l#.
   On en parlera dans le chap' bonus, alors on passe.
     Le suivant―――c'est quoi c'truc ?
     ...... Ce n'est qu'un produit rat=.
     C'est mon premier Ploy. Il n'a aucune utilit=.
     Je m'en sers de d=coration par sentimentalisme.
-Comme tu le vois, il ne sert # rien au combat. Et puis, il est plut&t laid,
-alors je n'aime pas trop le montrer... mais }a reste un souvenir.
+Comme tu le vois, il ne sert # rien au combat. Et puis, il est plut&t
+laid, alors je n'aime pas trop le montrer... mais }a reste un souvenir.
     C'est un ouvrage en sucre en forme de broche.
     Ouah, sucr=...!
     Ce qu'il est sucr=, votre bonbon fait maison !
@@ -20276,40 +20276,40 @@ alors je n'aime pas trop le montrer... mais }a reste un souvenir.
   pourtant... J'vais recrier l'titre, on sait jamais.
     Non. Ce sera inutile.
     Parce que je suis l# en bivouac depuis hier.
-    Mam'zelle Alice ?!
-    Ha ha ha, d'o+ vous sortez c't'attirail ? lol lol lol
-    Vous vous prenez pour une alpiniste # la mode ?
+  Mam'zelle Alice ?!
+  Ha ha ha, d'o+ vous sortez c't'attirail ? lol lol lol
+  Vous vous prenez pour une alpiniste # la mode ?
       Amateur Bird!
                   Un piolet ?!
     Ne sous-estime pas la montagne.
-    Ne sais-tu donc pas qu'un important pourcentage d'oiseaux^    migrateurs d=c$dent en tentant de la franchir ?
-    Un moment d'inattention et c'est la mort assur=e.
-    Tu peux mourir n'importe quand. Fais preuve de
-    respect envers les sommets o+ vivent les dieux.
+    Ne sais-tu donc pas qu'un important pourcentage^    d'oiseaux migrateurs d=c$dent en tentant de la franchir ?
+  Un moment d'inattention et c'est la mort assur=e.
+  Tu peux mourir n'importe quand. Fais preuve de
+  respect envers les sommets o+ vivent les dieux.
     En gros, }a change pas vraiment de d'habitude.
     Je reformule. Ne nous sous-estime pas,
     la montagne et moi. Aujourd'hui,
     je suis deux fois plus motiv=e que d'ordinaire.
-    Chuis mal !
-    Vous avez l'air dr&lement d'attaque.
+  Chuis mal !
+  Vous avez l'air dr&lement d'attaque.
     Bien, c'est l'heure de Tout sur les Ploy, Robin.
     Aujourd'hui, je me sens en pleine forme,
     alors abordons un sujet sp=cial.
-    Ah—, nous y voil# enfin !
-    On va parler des Trois Grands Ploy, les Great Three.
+  Ah—, nous y voil# enfin !
+  On va parler des Trois Grands Ploy, les Great Three.
       Les trois miracles transmis depuis l'=poque de la m$re
       de la m$re de la m$re de Mam'zelle Alice...
       enfin, depuis l'=poque du fondateur, quoi.
 Ce sont les Trois Grands Ploy. Les trois art=facts
-fabuleux qui auraient =t= cr==s par la premi$re sorci$re.
+fabuleux qu'auraient =t= cr==s par la premi$re sorci$re.
       Le G=ant du Pont, Thames Troll,
       l'Huile de la Lune, Flat Snark,
       et le troisi$me est...... Tiens, c'est qui d=j# ?
     Le dernier est encore secret.
     Cette fois-ci, parlons de Thames.
-Il tire son origine de la comptine de Mother Goose “le Pont de Londres”.
+ Il tire son origine du conte de Mother Goose “le Pont de Londres”.
 『Le Pont de Londres est tomb=, est tomb=, est tomb=,
-le Pont de Londres est tomb=, My Fair Lady.』
+ le Pont de Londres est tomb=, My Fair Lady.』
   Elle a =t= traduite en japonais^  et est m_me enseign=e # l'=cole.
   Elle est donc tr$s connue.
   Alias, le Troll N=gligent !
@@ -20320,22 +20320,22 @@ le Pont de Londres est tomb=, My Fair Lady.』
 Je ne peux l'invoquer que jusqu'au deuxi$me couplet.
 Je n'ai jamais vu les troisi$me et quatri$me couplets.
 Troisi$me et quatri$me ? Comment }a ?
-Ceux de la chanson du Pont de Londres.
-  『~Les arbres et la terre s'envolent.
-  ~Les briques et le mortier s'effritent.
+Dans la chanson du Pont de Londres.
+ 『~Les arbres et la terre s'envolent.
+  ~Les briques et le mortier s'effritent.』
   『~Le fer et l'acier se tordent.
    ~L'argent et l'or sont vol=s.』
-      Thames est le Ploy du Pont de Londres,
-      mais son apparence a chang= au cours des si$cles.
-      Dans la version actuelle de Mother Goose, il a quatre formes.
-    Donc il y a autre chose apr$s le bois et la pierre.
-    Mais }a vous d=range pas ?
-    De r=v=ler vos atouts, comme }a ?
+    Thames est le Ploy du Pont de Londres,
+    mais son apparence a chang= au cours des si$cles.
+    Dans la version actuelle de Mother Goose, il a quatre formes.
+  Donc il y a autre chose apr$s le bois et la pierre.
+  Mais }a vous d=range pas ?
+  De r=v=ler vos atouts, comme }a ?
         Non. N'importe qui peut ais=ment se renseigner
         sur la chanson du Pont de Londres de nos jours.
-     Et puis, de toute fa}on,
-     je ne peux aller que jusqu'au couplet de la pierre.
-     En parler ne posera aucun probl$me.
+  Et puis, de toute fa}on,
+  je ne peux aller que jusqu'au couplet de la pierre.
+  En parler ne posera aucun probl$me.
   Pourquoi vous n'pouvez pas l'utiliser ?
     Parce que la soci=t= humaine ne m'int=resse pas.
     Le pont pr=sent dans mon univers ne va que du bois # la roche.
@@ -20351,8 +20351,8 @@ Ceux de la chanson du Pont de Londres.
       de l'invoquer compl$tement, alors―――
     il deviendrait un pont absolument infranchissable,
     m_me pour Aoko et ses meilleures techniques.
-La ville du brouillard de la r=volution industrielle, Londres.
-Il se manifesterait en tant que g=ant de la ville,^allant jusqu'# sublimer son propre surnom.
+    La ville du brouillard de la r=volution industrielle, Londres.
+    Il se manifesterait en tant que g=ant de la ville,^    allant jusqu'# sublimer son propre surnom.
       Ha ha ha, vous y allez fort, encore !
       Une ville ! Une ville, hein ?
       Vous vous la racontez, pas vrai ?
@@ -20372,25 +20372,25 @@ Il se manifesterait en tant que g=ant de la ville,^allant jusqu'# sublimer son p
   Ne sous-estime pas la montagne.
 J'pensais pas que c'=tait dans c'sens-l# !
 Y a pas de sous-titres dans c'film.
-Pourtant, j'suis s;r d'avoir dit des trucs.
-          Je sais.
-          Mais comme tu =tais trop bruyant, j'ai ordonn=
-          au r=alisateur de couper sp=cifiquement tes r=pliques.
+Pourtant, j'ai dit plein de trucs.
+      Je sais.
+      Mais comme tu =tais trop bruyant, j'ai ordonn=
+      au r=alisateur de couper sp=cifiquement tes r=pliques.
         Great. De cette fa}on, toute l'attention peut^        se concentrer sur vous, hein ?
         Je suis le seul # jouer comme dans un film muet.
     C'est l'deuxi$me, pas vrai ?
     Le deuxi$me, oui. À titre d'information,
     je pr=cise que le corps de Snark est liquide.
-    C'est vrai que son surnom, c'est l'Huile de la Lune.
-    Qui l'a baptis= Flat Snark ?
+  C'est vrai que son surnom, c'est l'Huile de la Lune.
+  Qui l'a baptis= Flat Snark ?
   Quelqu'un que tu connais tr$s bien.
   Avant de devenir amie avec elle,
   mes Ploy n'avaient pas de nom.
-      Je les appelais par leur ordre de force ou
-      de mon attachement envers eux, 1er, 2e, etc.
-  Par ordre ? Pas par num=ro, plut&t ?
-  Vous n'donniez pas de nom par paresse...
-  par simplicit= plut&t, mais pourquoi les nommer par ordre ?
+    Je les appelais selon leur ordre de force ou
+    de mon attachement envers eux, 1er, 2e, etc.
+    Par ordre ? Pas par num=ro, plut&t ?
+    Vous n'donniez pas de nom par paresse...
+    par simplicit= plut&t, mais pourquoi les nommer par ordre ?
 Eh bien, si je leur avais attribu= des num=ros fixes^arbitrairement, cela aurait sem= la confusion, non ?
 Alors que mon affection ou leurs forces changeaient constamment.
     De fait, leur ordre =tait modifi= en fonction
@@ -20407,17 +20407,17 @@ Alors que mon affection ou leurs forces changeaient constamment.
     ......
     J'imagine la suite, mais j'demande quand m_me.
     C'=tait quel Ploy ?
-Le parfum qu'elle nommerait apr$s }a le Goblin Fron.
-Quand quelqu'un s'en met, il ne peut que dire des injures^et parler en argot pendant toute une journ=e.
-                    ........................
+    Le parfum qu'elle nommerait apr$s }a le Goblin Fron.
+    Quand quelqu'un s'en met, il ne peut que dire des injures^    et parler en argot pendant toute une journ=e.
+            ........................
       Apr$s }a, elle m'a propos= de donner des noms aux Ploy.
       Avec les yeux boursoufl=s pour une raison qui m'=chappe.
-        『Celui-ci est Sweets Hearts. Lui Scripps Humpty.^        Celui-l# Diddle Diddle. Et lui Flat Snark.^        Compris ? Appelle-les comme }a dor=navant.』
+        『Celui-ci est Sweets Hearts. Lui Scripps Humpty.^         Celui-l# Diddle Diddle. Et lui Flat Snark.^         Compris ? Appelle-les comme }a dor=navant.』
     ...... On dit que le nom est le reflet de l'Xme, vois-tu ?
     Je pensais que les classer selon mon humeur =tait plus simple^    que d'employer des noms extravagants, mais...
-『On ne peut pas deviner ton =tat d'esprit. Dis-toi que^mon destin peut d=pendre de tes myst=rieuses humeurs.』
-『Et puis, ce genre de noms sera bient&t # la mode. C'est certain.^M_me si on en aura s;rement rapidement assez.』
-『Quitte # leur donner des noms, autant que }a en jette. Ce sont nos cr=ations originales, ne pas suivre la mode serait du gXchis.』
+    『On ne peut pas deviner ton =tat d'esprit. Dis-toi que^     mon destin peut d=pendre de tes myst=rieuses humeurs.』
+『Et puis, ce genre de noms sera bient&t # la mode. C'est certain.^ M_me si on en aura s;rement rapidement assez.』
+『Quitte # leur donner des noms, autant que }a en jette. Ce sont^ nos cr=ations originales, ne pas suivre la mode serait du gXchis.』
   Depuis, j'appelle les Ploy par des noms. Ça a =t= dur de tous^  les retenir, mais je ne me suis plus jamais tromp=e apr$s }a.
   C'est un peu comme l'oeuf de Colomb.
   Quelle flexibilit= d'inspiration, ou plut&t d'originalit=.
@@ -20425,17 +20425,17 @@ Quand quelqu'un s'en met, il ne peut que dire des injures^et parler en argot pen
     Oui. Moi aussi, je me dis parfois
     que vous _tes vraiment idiote.
         ...... Il s'est fait avoir.
- Il br;le bien pour de l'huile, hein ?
- Snark est quel genre de Ploy ?
+    Il br;le bien pour de l'huile, hein ?
+    Snark est quel genre de Ploy ?
     Les points essentiels sont mentionn=s dans l'histoire
     principale. Les donn=es d=taill=es sont les suivantes :
-    Hum.
-    Et cette huile pr=cieuse, Mam'zelle Aoko l'a br;l=e.
-    On n'peut pas le restaurer ?
-        Malheureusement, c'est impossible.
-        Rien ne peut raffiner Snark # notre =poque.
-Et c'est ainsi que cet h=ritage culturel a =t= an=anti par une sauvage
-ne vivant qu'# l'instinct. Ha ha, que c'est dr&le de pi=tiner la culture !
+Hum.
+Et cette huile pr=cieuse, Mam'zelle Aoko l'a br;l=e.
+On n'peut pas le restaurer ?
+      Malheureusement, c'est impossible.
+      Rien ne peut raffiner Snark # notre =poque.
+Et c'est ainsi qu'cet h=ritage culturel fut an=anti par une sauvage
+ne vivant qu'# l'instinct. Ha ha, c'est si dr&le d'=craser la culture !
     Mais quand m_me, apr$s le N=gligent, c'est Snark qui y passe !
     Ha ha, les Great Three ?
     Mon oeil ! Ces Great Three sont trop faibles !
@@ -20448,13 +20448,13 @@ J'ai pour habitude d'v=rifier le menu au cin=ma. Et puis, le poulet r&ti a une o
       Je le sais. Mais rassure-toi.
       Je n'ai pas vraiment faim.
       Le r&tir dans l'huile me suffira amplement.
-Ha ha ha. C'est donc pas pour le manger.
-  Ne serait-ce pas la premi$re fois que tu boues enti$rement^  des plumes # la peau ?
-  Tu peux rajouter une mort de plus # ta collection, Robin.
+Ha ha. C'est donc pas pour le manger.
+    Ne serait-ce pas la premi$re fois que tu boues enti$rement^    des plumes # la peau ?
+    Tu peux rajouter une mort de plus # ta collection, Robin.
  Justement la collection que je voulais^ le moins =toffer, quel pied !
  Et il en reste encore tellement !
-  ...... Le film se finit l#, apparemment.
-  Les cin=mas ne font plus de projections^  doubles depuis quelque temps.
+      ...... Le film se finit l#, apparemment.
+      Les cin=mas ne font plus de projections^      doubles depuis quelque temps.
   J'aurais voulu vous pr=senter le troisi$me pour finir,
   mais ce sera pour une prochaine fois.
           À vous tous qui avez pris plaisir # suivre
@@ -20812,7 +20812,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 「Oui. Il y a peu. Je suis arriv=e furtivement, dans le genre p$re Noël passant par la fen_tre.
   Ah, j'imagine que tu t'en doutes, mais mon but est de pulv=riser cette ville.
   Afin de tirer une bonne fois pour toutes un trait sur mon pass=, je suis venue parfaitement pr=par=e.
-  Et donc, je vais me faire ces g_neurs de l'Association et de l'Wglise avant qu'ils ne me rep$rent ☆」
+  Et donc, je vais me faire ces g_neurs de l'Association et de l'Wglise avant qu'ils ne me rep$rent.」
 「Tiens donc ? C'est vraiment aimable de ta part... Hein ?
   Attends T*ko, tu parles de moi l# !
   Je suis le seul membre de l'Association d=p_ch= ici en ce moment !」
@@ -21710,7 +21710,7 @@ Hum, comme son apparence le laisse penser, elle a de belles formes.
   Aozaki perdait son sang-froid.
   Nous l'observions fixement et en silence.
 「Ah, euh, je veux dire...
-T= h=☆」
+T= h=.」
 「S*jZr*, o+ est la chambre d'Aozaki ?」
 「Au fond du premier =tage de l'aile est.」
   Escort=s par Ritsuka, nous nous rend`mes dans la chambre d'Aozaki.
@@ -22010,7 +22010,7 @@ La sc$ne de crime dont j'ai tant r_v= est enfin arriv=e―――!」
   La fille en rose agrippa le collier de Shizuki et le secoua dans tous les sens.
 「Une deuxi$me... Aozaki......」
   Les doigts de la star devaient mordre dans sa carotide, car les yeux de Shizuki =taient r=vuls=s.
-「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon go;t, mais si tu ne lXches pas S*jZr*, je gobe ta t_te tout rond☆」
+「Fufufu. Toi, la rose. Tu n'as pas l'air d'avoir bon go;t, mais si tu ne lXches pas S*jZr*, je gobe ta t_te tout rond.」
 「Comment ? Essaie donc pour voir !
 Pff, je connais d=j# ton point faible. Tu veux encore te faire prendre # ton propre jeu et te retrouver avec la taille d'une souris ?」
 「Oh ? Tu pensais r=ellement que j'=tais s=rieux # ce moment-l# ? Ton jugement laisse franchement # d=sirer.
