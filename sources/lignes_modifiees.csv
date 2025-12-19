@@ -837,7 +837,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19688,"le plus rapidement possible, et va-t'en plus vite que la lumière.",,retour à la ligne saynète
 19691,,8,
 19692,,8,
-19694,,7,alignement saynète
+19693,,8,
+19694,,8,alignement saynète
 19695,"La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %",0,alignement saynète
 19696,impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.,0,retour à la ligne saynète
 19698,"Moi aussi, je partage cette opinion.",,
@@ -890,7 +891,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19755,un derringer dans le ventre la prochaine fois ?,4,alignement saynète
 19756,,4,
 19757,mais il y a de fortes chances que tu puisses<ra>au moins faire peur à l'ennemi.,4,
-19758,,2,alignement saynète
+19758,,1,alignement saynète
 19759,,1,alignement saynète
 19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,1,retour à la ligne supprimé
 19762,Je me demande si tu seras utilisé en tant que telle<ra>à cette occasion ?,,
@@ -910,7 +911,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19779,,4,
 19780,,4,
 19781,,4,
-19782,"Pour faire une comparaison avec les échecs...... non, avec le shogi,",4,
+19782,Pour faire une comparaison avec les échecs......,4,
 19783,"non, avec le shogi, Aoko n'est que le camp du roi<ra>(avec les capacités du fou et de la tour).",4,retour à la ligne saynète
 19784,"Quant à moi, mon camp est fort, mais le roi<ra>lui-même n'a que la capacité de “marcher”.",4,わたしは陣営こそ強力だけど、王将自体が「歩」の^能力しかない、というイメージね。
 19785,,4,
@@ -980,16 +981,16 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19913,"Et après, tu poliras le miroir.",4,
 19914,Et ensuite...... voyons. Écrase-toi contre,,
 19915,un poteau électrique et meurs de façon théâtrale.,,retour à la ligne saynète
-19918,C'est le genre de mon personnage.,2,
-19919,,2,
+19918,C'est le genre de mon personnage.,1,
+19919,"Dans l'histoire principale, je me tais<ra>seulement parce que c'est éreintant.",1,
 19920,,2,
 19921,Brûler des calories,2,貴方のような
 19922,toutes les cinq secondes,1,××を罵るのに
 19923,pour injurier quelqu'un d'aussi xxx que toi.,2,
 19924,,2,
-19925,C'est terrible !,4,
-19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",4,
-19928,,4,alignement saynète
+19925,C'est terrible !,1,
+19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",1,
+19928,,1,alignement saynète
 19929,,1,alignement saynète
 19930,,1,alignement saynète
 19931,,1,alignement saynète
@@ -1040,7 +1041,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19999,,12,alignement saynète
 20000,,4,
 20001,,4,
-20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",2,
+20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",0,
 20003,Des Ploy de haut niveau capables de se<ra>changer en mammifères ou en oiseaux !,4,alignement saynète
 20004,,4,
 20006,On est dans le noir complet !<ra>On ne va pas pouvoir jouer !,,alignement saynète
@@ -1110,7 +1111,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20086,...... Exactement.,4,
 20087,"Ce n'était pas ma faute, mais j'ai manqué de vigilance.",4,
 20088,,4,
-20089,Reprenons. Le Ploy suivant―――,,alignement saynète
+20089,Reprenons. Le Ploy suivant―――,0,alignement saynète
 20090,,2,alignement saynète
 20091,Un œuf que j'peux avaler tout rond !,2,alignement saynète
 20095,"Et en plus, j'entends une sorte de tic tac",,
@@ -1178,8 +1179,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20193,,4,
 20194,,4,
 20195,,4,
-20198,,4,
-20199,Tu apparais bien assez comme ça<ra>dans l'histoire principale.,4,
+20199,,4,
+20200,Tu apparais bien assez comme ça<ra>dans l'histoire principale.,4,
 20201,Il se base sur un chant funèbre. L'histoire,,
 20202,tourne autour du meurtre d'un rouge-gorge.,,alignement saynète
 20203,"À la question 「Qui l'a tué ?」,",,
@@ -1313,8 +1314,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20386,Quelqu'un que tu connais très bien.,2,
 20387,"Avant de devenir amie avec elle,",2,
 20388,mes Ploy n'avaient pas de nom.,2,
-20389,Je les appelais selon leur ordre de force ou,4,
-20390,"de mon attachement envers eux, 1er, 2e, etc.",4,
+20389,Je les appelais selon leur ordre de force ou,6,
+20390,"de mon attachement envers eux, 1er, 2e, etc.",6,
 20391,,4,
 20392,Vous n'donniez pas de nom par paresse...,4,
 20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",4,
@@ -1366,8 +1367,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20453,,4,
 20454,"Justement la collection que je voulais<ra>le moins étoffer, quel pied !",,
 20455,Et il en reste encore tellement !,,
-20456,,6,
-20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,6,
+20456,,4,
+20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,4,
 20460,À vous tous qui avez pris plaisir à suivre,,
 20466,"―――En conclusion,",,
 20488,,0,

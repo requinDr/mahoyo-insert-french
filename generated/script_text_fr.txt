@@ -19690,8 +19690,8 @@ Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
     C'est tordant !
         ........................... Pourquoi ?
         Ben, j'l'ai interprété comme ça :
-      「Finis rapidement ce que tu as à faire,
-       je veux te voir en privé......」
+        「Finis rapidement ce que tu as à faire,
+        je veux te voir en privé......」
 La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %
 impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.
   Oui.
@@ -19755,7 +19755,7 @@ Leur coût en prana est juste trop grand. En général, le Mage gagnerait
     un derringer dans le ventre la prochaine fois ?
     Tu ne pourras plus gazouiller, rire, ou voler,
     mais il y a de fortes chances que tu puisses^    au moins faire peur à l'ennemi.
-  Ro―――Robin le Pétard !
+ Ro―――Robin le Pétard !
  Trop cool !
  J'ai l'intuition que j'aurai^ un grand rôle à jouer à Noël......!
     Une vraie sarbacane.
@@ -19779,7 +19779,7 @@ Leur coût en prana est juste trop grand. En général, le Mage gagnerait
     Je vois. Mam'zelle Aoko elle-même est forte.
     Et pour vous, ce sont ceux qui vous entourent
     qui sont forts.
-    Pour faire une comparaison avec les échecs...... non, avec le shogi,
+    Pour faire une comparaison avec les échecs......
     non, avec le shogi, Aoko n'est que le camp du roi^    (avec les capacités du fou et de la tour).
     Quant à moi, mon camp est fort, mais le roi^    lui-même n'a que la capacité de “marcher”.
     Oui, Mam'zelle Alice est un personnage lent,
@@ -19915,17 +19915,17 @@ Elle avait des surnoms comme la Sorcière au sang pur.
   un poteau électrique et meurs de façon théâtrale.
       Comme d'habitude, donc, hein !
       Mam'zelle Alice, vous êtes cruelle !
-  C'est le genre de mon personnage.
-  Dans l'histoire principale, je me tais seulement parce que c'est éreintant.
+ C'est le genre de mon personnage.
+ Dans l'histoire principale, je me tais^ seulement parce que c'est éreintant.
   Éreintant ? Quoi donc ?
   Brûler des calories
  toutes les cinq secondes
   pour injurier quelqu'un d'aussi xxx que toi.
   Tu penses vraiment avoir une telle importance ?
-    C'est terrible !
-    Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
+ C'est terrible !
+ Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
   Mais,
-    dans ce cas,
+ dans ce cas,
  je veux
  être
  léché !
@@ -19999,7 +19999,7 @@ Il m'a l'air bien lourd, c'portefeuille.
             On va expliquer !
     Ne cachons rien, nous sommes...
     Soyons francs, nous sommes...!
-  Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !
+Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !
     Des Ploy de haut niveau capables de se^    changer en mammifères ou en oiseaux !
     Les Jumeaux bavards, c'est nous.
     Oooh―――?!
@@ -20086,7 +20086,7 @@ posant le pion dessus, l'endroit correspondant devient la Forêt sans nom.
     ...... Exactement.
     Ce n'était pas ma faute, mais j'ai manqué de vigilance.
     La prochaine fois, je ferai plus attention.
-      Reprenons. Le Ploy suivant―――
+Reprenons. Le Ploy suivant―――
   Yahou !
   Un œuf que j'peux avaler tout rond !
         Cet œuf est succulent !
@@ -20195,9 +20195,9 @@ celle qui dépense en s'cret, c'pas la reine mais Mam'z...
     mais ce nom est bien trop glorieux pour toi.
         C'est une œuvre digne du talent de Michel-Ange.
         Dès que je suis entré, j'ai su que c'était le plus cher
-    et le plus populaire. Juré.
+        et le plus populaire. Juré.
+    Inutile d'entrer dans les détails, n'est-ce pas ?
     Tu apparais bien assez comme ça^    dans l'histoire principale.
-Tu apparais bien assez comme ça dans l'histoire principale.
     Il se base sur un chant funèbre. L'histoire
     tourne autour du meurtre d'un rouge-gorge.
     À la question 「Qui l'a tué ?」,
@@ -20386,8 +20386,8 @@ Pourtant, j'ai dit plein de trucs.
   Quelqu'un que tu connais très bien.
   Avant de devenir amie avec elle,
   mes Ploy n'avaient pas de nom.
-    Je les appelais selon leur ordre de force ou
-    de mon attachement envers eux, 1er, 2e, etc.
+      Je les appelais selon leur ordre de force ou
+      de mon attachement envers eux, 1er, 2e, etc.
     Par ordre ? Pas par numéro, plutôt ?
     Vous n'donniez pas de nom par paresse...
     par simplicité plutôt, mais pourquoi les nommer par ordre ?
@@ -20453,8 +20453,8 @@ Ha ha. C'est donc pas pour le manger.
     Tu peux rajouter une mort de plus à ta collection, Robin.
  Justement la collection que je voulais^ le moins étoffer, quel pied !
  Et il en reste encore tellement !
-      ...... Le film se finit là, apparemment.
-      Les cinémas ne font plus de projections^      doubles depuis quelque temps.
+    ...... Le film se finit là, apparemment.
+    Les cinémas ne font plus de projections^    doubles depuis quelque temps.
   J'aurais voulu vous présenter le troisième pour finir,
   mais ce sera pour une prochaine fois.
           À vous tous qui avez pris plaisir à suivre
