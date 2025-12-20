@@ -837,7 +837,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19688,"le plus rapidement possible, et va-t'en plus vite que la lumière.",,retour à la ligne saynète
 19691,,8,
 19692,,8,
-19693,,8,
+19693,,7,
 19694,,8,alignement saynète
 19695,"La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %",0,alignement saynète
 19696,impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.,0,retour à la ligne saynète
@@ -872,9 +872,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19736,"...... Sa conception même est très éloignée des normes<ra>traditionnelles des familiers. De la même façon,",,
 19737,les familiers possédant une intelligence compatible,,
 19738,avec les humains comme toi sont aussi des exceptions.,,
-19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,0,
-19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",0,
-19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,0,alignement saynète
+19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,,
+19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",,
+19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,,alignement saynète
 19742,"En d'autres termes,",4,
 19743,"la fin ne justifie pas les moyens, hein.",4,
 19744,"Hm ? Quelque part, ça veut dire que le familier<ra>est toujours plus faible que le Mage, hein.",8,
@@ -988,8 +988,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19922,toutes les cinq secondes,1,××を罵るのに
 19923,pour injurier quelqu'un d'aussi xxx que toi.,2,
 19924,,2,
-19925,C'est terrible !,1,
-19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",1,
+19925,C'est terrible !,4,
+19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",4,
+19927,,4,
 19928,,1,alignement saynète
 19929,,1,alignement saynète
 19930,,1,alignement saynète
@@ -999,10 +1000,10 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19934,J'me suis fait avaler tout rond en un instant.,2,alignement saynète
 19935,,2,alignement saynète
 19936,,2,alignement saynète
-19937,Chef.,,
-19938,Une assiette de thon trois variétés.,,
-19939,,4,alignement saynète
-19940,,4,alignement saynète
+19937,Chef.,4,
+19938,Une assiette de thon trois variétés.,4,
+19939,,2,alignement saynète
+19940,,2,alignement saynète
 19941,,6,alignement saynète
 19944,chūtoro et ōtoro.,,
 19945,"Trois couleurs ensanglantées. Comme l'drapeau d'la France, quoi.",2,"alignement saynète, supprime ""national"""
@@ -1041,9 +1042,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19999,,12,alignement saynète
 20000,,4,
 20001,,4,
-20002,"Nous sommes les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",0,
-20003,Des Ploy de haut niveau capables de se<ra>changer en mammifères ou en oiseaux !,4,alignement saynète
-20004,,4,
+20002,"Les chouchous de notre maîtresse, pouvant nous métamorphoser à volonté, Six Force !",0,
+20003,Des Ploy de haut niveau capables de se<ra>transformer en mammifères ou en oiseaux !,0,alignement saynète
+20004,,0,
 20006,On est dans le noir complet !<ra>On ne va pas pouvoir jouer !,,alignement saynète
 20007,Ayaaaーーー!!,,
 20008,"Sans observateur, la face du dé restera un mystère !",,
@@ -1179,8 +1180,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20193,,4,
 20194,,4,
 20195,,4,
-20199,,4,
-20200,Tu apparais bien assez comme ça<ra>dans l'histoire principale.,4,
+20199,,,
+20200,Tu apparais bien assez comme ça<ra>dans l'histoire principale.,,
 20201,Il se base sur un chant funèbre. L'histoire,,
 20202,tourne autour du meurtre d'un rouge-gorge.,,alignement saynète
 20203,"À la question 「Qui l'a tué ?」,",,
@@ -1204,11 +1205,12 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20231,,2,alignement saynète
 20232,,2,alignement saynète
 20235,Comme les mots-valises inventés par Lewis Carroll.,,alignement saynète
-20239,"「Eh bien, “slictueux” signifie :<ra>“souple, actif, onctueux”.」",,alignement saynète
+20238,Humpty lui répondit :「“Slictueux”,,
+20239,"signifie “souple, actif, onctueux”.」",,alignement saynète
 20240,,2,
 20241,,2,
 20242,,2,
-20243,"Humpty n'a pas servi à proprement<ra>parler de modèle pour lui,",4,
+20243,"Humpty n'a pas servi à proprement parler<ra>de modèle pour lui,",4,
 20244,,4,
 20245,,4,
 20246,,4,
@@ -1295,6 +1297,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20354,,4,
 20355,"Il se manifesterait en tant que géant de la ville,<ra>allant jusqu'à sublimer son propre surnom.",4,
 20358,"Vous vous la racontez, pas vrai ?",,
+20363,aide-moi séance tenante,,
 20365,Reparlons de ce “je me la raconte”.,2,
 20366,"À toi de jouer, Thames.",2,
 20367,Montre-nous toute ta puissance.,2,
@@ -1302,11 +1305,11 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20372,,2,
 20373,J'pensais pas que c'était dans c'sens-là !,0,
 20374,,0,
-20375,"Pourtant, j'ai dit plein de trucs.",0,
+20375,"Pourtant, j'ai dit des tas de choses.",0,
 20376,,6,
 20377,"Mais comme tu étais trop bruyant, j'ai ordonné",6,
 20378,au réalisateur de couper spécifiquement tes répliques.,6,
-20379,"Great. De cette façon, toute l'attention peut<ra>se concentrer sur vous, hein ?",,
+20379,"Great. De cette façon, toute l'attention<ra>peut se concentrer sur vous, hein ?",,
 20382,"Le deuxième, oui. À titre d'information,",,
 20383,je précise que le corps de Snark est liquide.,,
 20384,,2,
@@ -1314,8 +1317,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20386,Quelqu'un que tu connais très bien.,2,
 20387,"Avant de devenir amie avec elle,",2,
 20388,mes Ploy n'avaient pas de nom.,2,
-20389,Je les appelais selon leur ordre de force ou,6,
-20390,"de mon attachement envers eux, 1er, 2e, etc.",6,
+20389,Je les appelais selon leur ordre de force ou,,
+20390,"de mon attachement envers eux, 1er, 2e, etc.",,
 20391,,4,
 20392,Vous n'donniez pas de nom par paresse...,4,
 20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",4,
