@@ -838,7 +838,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19691,,8,
 19692,,8,
 19693,,7,
-19694,,8,alignement saynète
+19694,j'aimerais passer un peu de temps avec toi en privé......」,8,alignement saynète
 19695,"La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %",0,alignement saynète
 19696,impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.,0,retour à la ligne saynète
 19698,"Moi aussi, je partage cette opinion.",,
@@ -874,7 +874,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19738,avec les humains comme toi sont aussi des exceptions.,,
 19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,,
 19740,"Leur coût en prana est juste trop grand. En général, le Mage gagnerait",,
-19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,,alignement saynète
+19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,1,alignement saynète
 19742,"En d'autres termes,",4,
 19743,"la fin ne justifie pas les moyens, hein.",4,
 19744,"Hm ? Quelque part, ça veut dire que le familier<ra>est toujours plus faible que le Mage, hein.",8,
@@ -888,14 +888,15 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19752,"Même s'il ne lui donne que 10% de ses propres capacités,",4,
 19753,il est très facile pour un Mage de créer un familier<ra>plus “fort” que lui-même.,4,本人より“強い”使い魔を造る事は簡単よ。
 19754,"Tiens, pourquoi ne pas essayer de t'enfoncer",4,alignement saynète
-19755,un derringer dans le ventre la prochaine fois ?,4,alignement saynète
+19755,un derringer dans le ventre une prochaine fois ?,4,alignement saynète
 19756,,4,
-19757,mais il y a de fortes chances que tu puisses<ra>au moins faire peur à l'ennemi.,4,
-19758,,1,alignement saynète
-19759,,1,alignement saynète
-19760,J'ai l'intuition que j'aurai<ra>un grand rôle à jouer à Noël......!,1,retour à la ligne supprimé
-19762,Je me demande si tu seras utilisé en tant que telle<ra>à cette occasion ?,,
-19763,Vous êtes drôlement sévère.,,
+19757,mais il y a de fortes chances que tu puisses<ra>au moins déstabiliser l'ennemi.,4,
+19758,,4,alignement saynète
+19759,,4,alignement saynète
+19760,J'ai l'intuition que j'aurai<r>    un grand rôle à jouer à Noël......!,1,retour à la ligne supprimé
+19761,Tu serais plutôt un lance-pois.,,
+19762,Je me demande si tes projectiles<ra>se feront juste gober.,,
+19763,Vous êtes vachement dure.,,
 19765,,4,alignement saynète
 19766,,4,alignement saynète
 19767,"Hm ? En dehors de vous, toute-puissante Mam'zelle Alice,",,
@@ -1015,8 +1016,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19951,,4,
 19952,Chef.,4,
 19953,Une autre assiette d'ōtoro.,4,
-19954,,4,
-19955,,4,
+19954,Chaque assiette coûte aussi cher,4,
+19955,qu'un dîner normal.,4,
 19956,,4,
 19957,,4,
 19958,Chef. Une autre assiette d'ōtoro.,4,
@@ -1258,7 +1259,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20305,,6,
 20306,,6,
 20307,,6,
-20310,Il tire son origine du conte de Mother Goose “le Pont de Londres”.,1,
+20310,Il tire son origine de la chanson issue de “le Pont de Londres”.,1,
 20311,,0,
 20312,,1,
 20313,Elle a été traduite en japonais<ra>et est même enseignée à l'école.,2,
@@ -1322,7 +1323,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20391,,4,
 20392,Vous n'donniez pas de nom par paresse...,4,
 20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",4,
-20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait semé la confusion, non ?",0,
+20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait pu être mal interprété, non ?",0,
 20395,Alors que mon affection ou leurs forces changeaient constamment.,0,どれが強いか、どれが好きかなんて、日によって変わるのだし。
 20399,,4,
 20400,,4,

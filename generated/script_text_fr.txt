@@ -19691,7 +19691,7 @@ Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
         ........................... Pourquoi ?
         Ben, j'l'ai interprété comme ça :
        「Finis rapidement ce que tu as à faire,
-        je veux te voir en privé......」
+        j'aimerais passer un peu de temps avec toi en privé......」
 La richesse du langage humain est incroyable. Honnêtement, c't'à 90 %
 impossible de savoir c'que moi ou mon interlocuteur voulons exprimer.
   Oui.
@@ -19738,7 +19738,7 @@ Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.
     avec les humains comme toi sont aussi des exceptions.
 Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.
 Leur coût en prana est juste trop grand. En général, le Mage gagnerait
-à faire le travail lui-même ou à utiliser des ressources plus abordables.
+ à faire le travail lui-même ou à utiliser des ressources plus abordables.
     En d'autres termes,
     la fin ne justifie pas les moyens, hein.
         Hm ? Quelque part, ça veut dire que le familier^        est toujours plus faible que le Mage, hein.
@@ -19752,15 +19752,15 @@ Leur coût en prana est juste trop grand. En général, le Mage gagnerait
     Même s'il ne lui donne que 10% de ses propres capacités,
     il est très facile pour un Mage de créer un familier^    plus “fort” que lui-même.
     Tiens, pourquoi ne pas essayer de t'enfoncer
-    un derringer dans le ventre la prochaine fois ?
+    un derringer dans le ventre une prochaine fois ?
     Tu ne pourras plus gazouiller, rire, ou voler,
-    mais il y a de fortes chances que tu puisses^    au moins faire peur à l'ennemi.
- Ro―――Robin le Pétard !
- Trop cool !
- J'ai l'intuition que j'aurai^ un grand rôle à jouer à Noël......!
-    Une vraie sarbacane.
-    Je me demande si tu seras utilisé en tant que telle^    à cette occasion ?
-  Vous êtes drôlement sévère.
+    mais il y a de fortes chances que tu puisses^    au moins déstabiliser l'ennemi.
+    Ro―――Robin le Pétard !
+    Trop cool !
+ J'ai l'intuition que j'aurai^    un grand rôle à jouer à Noël......!
+    Tu serais plutôt un lance-pois.
+    Je me demande si tes projectiles^    se feront juste gober.
+  Vous êtes vachement dure.
   Mais au moins, on a fait une explication approximative.
     Les familiers sont des robots protégeant le Mage,
     et leur performance varie selon leur créateur.
@@ -19951,8 +19951,8 @@ Elle avait des surnoms comme la Sorcière au sang pur.
     La sardine et la sériole par exemple, c'est bon.
     Chef.
     Une autre assiette d'ōtoro.
-    Chaque assiette vaut le prix
-    d'un dîner normal.
+    Chaque assiette coûte aussi cher
+    qu'un dîner normal.
     Vous n'pouvez pas vous limiter au saumon ?
     Ce n'est pas grand-chose.
     Chef. Une autre assiette d'ōtoro.
@@ -20307,7 +20307,7 @@ fabuleux qu'auraient été créés par la première sorcière.
       et le troisième est...... Tiens, c'est qui déjà ?
     Le dernier est encore secret.
     Cette fois-ci, parlons de Thames.
- Il tire son origine du conte de Mother Goose “le Pont de Londres”.
+ Il tire son origine de la chanson issue de “le Pont de Londres”.
 『Le Pont de Londres est tombé, est tombé, est tombé,
  le Pont de Londres est tombé, My Fair Lady.』
   Elle a été traduite en japonais^  et est même enseignée à l'école.
@@ -20391,7 +20391,7 @@ Pourtant, j'ai dit des tas de choses.
     Par ordre ? Pas par numéro, plutôt ?
     Vous n'donniez pas de nom par paresse...
     par simplicité plutôt, mais pourquoi les nommer par ordre ?
-Eh bien, si je leur avais attribué des numéros fixes^arbitrairement, cela aurait semé la confusion, non ?
+Eh bien, si je leur avais attribué des numéros fixes^arbitrairement, cela aurait pu être mal interprété, non ?
 Alors que mon affection ou leurs forces changeaient constamment.
     De fait, leur ordre était modifié en fonction
     de mon humeur. Diddle était toujours le premier.
