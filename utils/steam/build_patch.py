@@ -9,6 +9,7 @@ from PIL import Image
 
 from utils.steam.cbg import encode_cbg
 from utils.steam.hfa import read_hfa, write_hfa
+from utils.steam.menu_cursors import DATA_PATCHES_ENTRY, data_patches
 
 ARCHIVE_NAME = "data00999.hfa"
 DLL_NAME = "version.dll"
@@ -66,6 +67,7 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 	titles = io.StringIO(newline="")
 	csv.writer(titles, lineterminator="\r\n").writerows(rows)
 	files[TEXT5_ENTRY] = titles.getvalue().encode("utf-8")
+	files[DATA_PATCHES_ENTRY] = data_patches(images_dir)
 
 	return files
 

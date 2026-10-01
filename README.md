@@ -50,4 +50,5 @@ Pour désinstaller : supprimer ces deux fichiers.
 
 - Traduction française : [mahoyo-french](https://github.com/IDerr/mahoyo-french)
 - loicfr, pour son travail sur les outils du remaster : [mahoyo_tools](https://github.com/loicfrance/mahoyo_tools)
-- requindr, pour le portage des scripts
+- requindr, pour le portage des scripts et l'édition d'images
+- Valkujo, pour l'édition d'images
