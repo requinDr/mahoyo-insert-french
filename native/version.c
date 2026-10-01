@@ -5,6 +5,7 @@
  *    sont redirigés vers leurs équivalents français présents dans data00999.hfa ;
  *  - les textes système (ressource TEXT/5) sont lus depuis data00999.hfa ;
  *  - le titre de la fenêtre se termine par « - Patch FR » ;
+ *  - les particules des menus suivent la largeur des textes français ;
  *  - les lettres accentuées font partie des mots comme l'ASCII : plus de retour
  *    à la ligne au milieu d'un mot, et même espacement que les autres lettres.
  * Les fonctions de version.dll sont transmises à la vraie DLL système.
@@ -16,6 +17,7 @@
 
 #define ARCHIVE_NAME L"data00999.hfa"
 #define TEXT5_ENTRY "TEXT5_fr.csv"
+#define DATA_PATCHES_ENTRY "rdata_fr.bin"  /* remplacements de données du moteur, générés au build */
 #define HFA_NAME_SIZE 96
 #define HFA_ENTRY_SIZE 128
 
@@ -67,6 +69,8 @@ static char (*archive_names)[HFA_NAME_SIZE];
 static DWORD archive_count;
 static BYTE *text5;
 static DWORD text5_size;
+static BYTE *data_patches;
+static DWORD data_patches_size;
 
 static BOOL read_exact(HANDLE file, void *buffer, DWORD size) {
     DWORD read = 0;
@@ -97,15 +101,24 @@ static BOOL load_archive(void) {
     for (DWORD i = 0; i < count; ++i) {
         const BYTE *entry = table + (SIZE_T)i * HFA_ENTRY_SIZE;
         memcpy(archive_names[i], entry, HFA_NAME_SIZE - 1);
+        BYTE **target = NULL;
+        DWORD *target_size = NULL;
         if (strcmp(archive_names[i], TEXT5_ENTRY) == 0) {
+            target = &text5;
+            target_size = &text5_size;
+        } else if (strcmp(archive_names[i], DATA_PATCHES_ENTRY) == 0) {
+            target = &data_patches;
+            target_size = &data_patches_size;
+        }
+        if (target) {
             DWORD offset, size;
             memcpy(&offset, entry + HFA_NAME_SIZE, 4);
             memcpy(&size, entry + HFA_NAME_SIZE + 4, 4);
             LARGE_INTEGER position;
             position.QuadPart = (LONGLONG)data_start + offset;
-            text5 = HeapAlloc(GetProcessHeap(), 0, size ? size : 1);
-            if (!text5 || !SetFilePointerEx(file, position, NULL, FILE_BEGIN) || !read_exact(file, text5, size)) goto done;
-            text5_size = size;
+            *target = HeapAlloc(GetProcessHeap(), 0, size ? size : 1);
+            if (!*target || !SetFilePointerEx(file, position, NULL, FILE_BEGIN) || !read_exact(file, *target, size)) goto done;
+            *target_size = size;
         }
     }
     archive_count = count;
@@ -298,6 +311,33 @@ static int redirect_names(void) {
     return redirected;
 }
 
+/* ---------- Données du moteur ---------- */
+
+/* rdata_fr.bin : suite de [u32 taille][octets d'origine][octets de remplacement].
+ * Sert par exemple aux positions des particules des menus, calculées au build
+ * d'après la largeur des textes français. Chaque bloc d'origine doit apparaître
+ * une seule fois dans .rdata ; sinon il est ignoré (version du jeu différente). */
+static void apply_data_patches(void) {
+    IMAGE_SECTION_HEADER *rdata = section(".rdata");
+    if (!rdata || !data_patches) return;
+    BYTE *start = game + rdata->VirtualAddress;
+    const SIZE_T length = rdata->Misc.VirtualSize;
+    DWORD position = 0;
+    while (data_patches_size - position >= 4) {
+        DWORD size;
+        memcpy(&size, data_patches + position, 4);
+        position += 4;
+        if (size == 0 || size > (data_patches_size - position) / 2) return;
+        const BYTE *before = data_patches + position, *after = before + size;
+        position += 2 * size;
+        BYTE *found = NULL;
+        int matches = 0;
+        for (BYTE *p = start; p + size <= start + length; ++p)
+            if (*p == before[0] && memcmp(p, before, size) == 0 && ++matches == 1) found = p;
+        if (matches == 1) write_memory(found, after, size);
+    }
+}
+
 /* ---------- Activation ---------- */
 
 static INIT_ONCE activation = INIT_ONCE_STATIC_INIT;
@@ -328,6 +368,7 @@ static BOOL CALLBACK activate(PINIT_ONCE once, PVOID final, PVOID *context) {
         return TRUE;
     }
     apply_code_patches();
+    apply_data_patches();
     french_active = TRUE;
     return TRUE;
 }
