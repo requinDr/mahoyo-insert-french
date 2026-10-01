@@ -90,7 +90,7 @@ def line_process(script_fr_mem: list[str], idx: int, current_line: str, og_lines
 		if ligne_partielle is not None:
 			last_found_idx = indice
 			script_fr_mem[idx] = format_line(idx, ligne_partielle)
-		elif not conf.creer_csv:
+		elif conf.creer_csv:
 			csv_missing[idx + 1] = current_line
 
 	return script_fr_mem, last_found_idx

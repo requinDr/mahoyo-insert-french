@@ -1,0 +1,23 @@
+WITCH ON THE HOLY NIGHT - Patch français
+=========================================
+
+Installation
+------------
+Copier version.dll et data00999.hfa dans le dossier du jeu, à côté de WoH.exe
+(clic droit sur le jeu dans Steam > Gérer > Parcourir les fichiers locaux).
+Lancer ensuite le jeu normalement depuis Steam.
+
+Dans les paramètres du jeu (Paramètres des Textes > Langue), choisir « Français ».
+Le titre de la fenêtre se termine par « - Patch FR » quand le patch est actif.
+
+Aucun fichier du jeu n'est modifié.
+
+Désinstallation
+---------------
+Supprimer version.dll et data00999.hfa : le jeu redevient anglais.
+
+Crédits
+-------
+- Traduction française : https://github.com/IDerr/mahoyo-french
+- loicfr, pour son travail sur les outils du remaster : https://github.com/loicfrance/mahoyo_tools
+- requindr, pour le portage des scripts

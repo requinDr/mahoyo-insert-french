@@ -1,5 +1,5 @@
 import re
-from utils.steam.translate_swap import line_char_length
+from utils.char_width import line_char_length
 
 # real textbox width is 2820, but it makes the right margin too thin compared to the left one
 # approximate left margin is around 144 while right is around 35
