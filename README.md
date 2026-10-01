@@ -24,6 +24,9 @@ Steam n'est remplacé) et un `LISEZMOI.txt` pour les joueurs :
 
 Pour désinstaller : supprimer ces deux fichiers.
 
+Sous Linux / Steam Deck, Proton ignore une `version.dll` placée dans le dossier du jeu : il faut
+l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqué dans le LISEZMOI).
+
 ## Sources
 
 - `sources/sources-fr`, `sources/sources-jp`, `sources/*.txt`, `sources/lignes_modifiees.csv` : traduction et alignement.
@@ -49,6 +52,6 @@ Pour désinstaller : supprimer ces deux fichiers.
 ## Crédits
 
 - Traduction française : [mahoyo-french](https://github.com/IDerr/mahoyo-french)
-- loicfr, pour son travail sur les outils du remaster : [mahoyo_tools](https://github.com/loicfrance/mahoyo_tools)
+- loicfr, pour son travail sur les outils du remaster et l'ajout de glyphes aux polices : [mahoyo_tools](https://github.com/loicfrance/mahoyo_tools)
 - requindr, pour le portage des scripts et l'édition d'images
 - Valkujo, pour l'édition d'images

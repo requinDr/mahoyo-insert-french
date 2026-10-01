@@ -12,6 +12,16 @@ Le titre de la fenêtre se termine par « - Patch FR » quand le patch est actif
 
 Aucun fichier du jeu n'est modifié.
 
+Linux / Steam Deck (Proton)
+---------------------------
+Proton utilise par défaut sa propre version.dll et ignore celle du patch.
+Dans Steam : clic droit sur le jeu > Propriétés > Général > Options de lancement,
+saisir :
+
+    WINEDLLOVERRIDES="version=n,b" %command%
+
+puis lancer le jeu. Le titre de la fenêtre doit se terminer par « - Patch FR ».
+
 Désinstallation
 ---------------
 Supprimer version.dll et data00999.hfa : le jeu redevient anglais.
@@ -19,6 +29,6 @@ Supprimer version.dll et data00999.hfa : le jeu redevient anglais.
 Crédits
 -------
 - Traduction française : https://github.com/IDerr/mahoyo-french
-- loicfr, pour son travail sur les outils du remaster : https://github.com/loicfrance/mahoyo_tools
+- loicfr, pour son travail sur les outils du remaster et l'ajout de glyphes aux polices : https://github.com/loicfrance/mahoyo_tools
 - requindr, pour le portage des scripts et l'édition d'images
 - Valkujo, pour l'édition d'images
