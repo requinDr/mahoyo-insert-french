@@ -95,15 +95,16 @@ def fit_tracking(text: str, font, english: np.ndarray, cap: float, low: float = 
 	return best[1]
 
 
-def fit_lines(text_lines, font_name, size, english, cap, limit):
+def fit_lines(text_lines, font_name, size, english, cap, limit, spacing=None):
 	"""Font, letter spacing (font scale) and rendered lines (render_line): size and letter
-	spacing of the English line `english` (mask), then tightened and reduced until the
-	longest line fits in limit pixels."""
+	spacing of the English line `english` (mask), or the given spacing (in font sizes),
+	then tightened and reduced until the longest line fits in limit pixels."""
 	tracking = None
 	while True:
 		font = load_font(font_name, size * SS)
 		if tracking is None:
-			tracking = fit_tracking(text_lines[0], font, english, cap, MIN_TRACKING)
+			tracking = (spacing * font.size if spacing is not None
+			            else fit_tracking(text_lines[0], font, english, cap, MIN_TRACKING))
 		rendered = [render_line(line, font, tracking) for line in text_lines]
 		if max(mask.shape[1] for mask, _ in rendered) / SS <= limit:
 			return font, tracking, rendered

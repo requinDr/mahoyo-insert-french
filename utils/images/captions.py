@@ -67,7 +67,7 @@ def quote(image: GameImage, config: dict):
 
 def outlined_blocks(image: GameImage, blocks: list[list[str]]):
 	"""Blocks of bold text with a dark outline: each English block (top to bottom) is replaced
-	by the matching French lines; several lines are left-aligned like the English ones, a
+	by the matching new lines; several lines are left-aligned like the English ones, a
 	single line is centered on the English one."""
 	band = image.target
 	core = _letters(band)

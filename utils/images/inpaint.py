@@ -102,11 +102,13 @@ def directional_fill(image: np.ndarray, hole: np.ndarray, reach: int = 80, horiz
 	"""Fills each hole pixel by interpolating between the nearest known pixels on both sides.
 	Horizontally when these two pixels are alike (difference of the RGB sum under
 	horizontal_match: horizontal lines), otherwise along the direction (vertical or diagonal)
-	where they are the most alike (edges)."""
+	where they are the most alike (edges). Without a known pixel on both sides (edge of the
+	area), the nearest known pixel is copied."""
 	out = image.copy()
 	height, width = hole.shape
 	ys, xs = np.nonzero(hole)
 	best = np.full(len(ys), np.inf)
+	nearest = np.full(len(ys), np.inf)  # pixels with a known neighbour on one side only
 	for dy, dx in ((0, 1), (1, 0), (1, 1), (1, -1)):
 		ends = []
 		for sign in (1, -1):
@@ -130,6 +132,10 @@ def directional_fill(image: np.ndarray, hole: np.ndarray, reach: int = 80, horiz
 		best[better] = mismatch[better]
 		blend = (v1 * d2[:, None] + v2 * d1[:, None]) / (d1 + d2)[:, None]
 		out[ys[better], xs[better]] = blend[better]
+		for found, distance, value in ends:
+			closer = found & (distance < nearest) & ~np.isfinite(best)
+			nearest[closer] = distance[closer]
+			out[ys[closer], xs[closer]] = value[closer]
 	return out
 
 

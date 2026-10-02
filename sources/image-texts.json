@@ -1,5 +1,5 @@
 {
-	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py [section…]. Each section is an edit (see EDITS in generate_images.py): {image: what to write} (number of an image shared by all languages, or name of an English image). Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Map labels: room names left to right, floor names top to bottom. Outlined blocks: one list of lines per English text block, top to bottom. Text boxes: [left, top, right, bottom, text] around each English line to replace.",
+	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py [section…]. Each section is an edit (see EDITS in generate_images.py): {image: what to write} (number of an image shared by all languages, or name of an English image). Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Map labels: room names left to right, floor names top to bottom. Outlined blocks: one list of lines per English text block, top to bottom. Text boxes: [left, top, right, bottom, text] around each English line to replace. Ploy arc titles: {lines top to bottom, scale of the letters relative to the English}.",
 	"text_boxes": {
 		"conf_manual1": {
 			"font": "helvetica",
@@ -35,6 +35,46 @@
 				[995, 754, 1724, 791, "Cliquer et glisser du centre de l’écran vers"],
 				[995, 794, 1724, 830, "la gauche pour activer le Retour en arrière"]
 			]
+		},
+		"panel1": {
+			"font": "helvetica",
+			"align": "right",
+			"spacing": "uniform",
+			"boxes": [
+				[8, 2, 416, 49, "Volume musiques"],
+				[8, 90, 416, 137, "Volume voix"],
+				[8, 177, 416, 225, "Volume effets"],
+				[8, 265, 416, 320, "Volume menus"],
+				[8, 354, 416, 401, "Volume vidéos"],
+				[8, 442, 416, 489, "Couper voix"],
+				[8, 530, 416, 583, "Ajustement auto.\ndes musiques"],
+				[8, 617, 416, 665, "Source audio"]
+			]
+		},
+		"panel3": {
+			"font": "helvetica",
+			"align": "right",
+			"spacing": "uniform",
+			"boxes": [
+				[8, 1, 416, 56, "Vit. affichage texte"],
+				[8, 89, 416, 143, "Vit. défilement auto"],
+				[8, 177, 416, 232, "Opacité fenêtre"],
+				[8, 265, 416, 313, "Contour texte"],
+				[8, 354, 416, 408, "Langue"],
+				[8, 441, 416, 489, "Couleur texte lu"]
+			]
+		},
+		"panel4": {
+			"font": "helvetica",
+			"align": "right",
+			"spacing": "uniform",
+			"boxes": [
+				[8, 1, 416, 55, "Passer"],
+				[8, 89, 416, 143, "Ne pas passer les choix"],
+				[8, 177, 416, 231, "Afficher l’aide"],
+				[8, 265, 416, 313, "Mode d'affichage"],
+				[8, 353, 416, 408, "Échelle"]
+			]
 		}
 	},
 	"chapter_titles": {
@@ -63,6 +103,12 @@
 		"2393": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
 		"2394": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
 		"2395": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]}
+	},
+	"ploy_arc_titles": {
+		"2111": {"lines": ["Tout sur les"], "scale": 1.5},
+		"2112": {"lines": ["Tout sur les"], "scale": 1.5},
+		"2174": {"lines": ["Tout sur les"], "scale": 1.5},
+		"2175": {"lines": ["Tout sur les"], "scale": 1.5}
 	},
 	"ploy_titles": {
 		"2167": "1. C’est quoi un familier ?",
