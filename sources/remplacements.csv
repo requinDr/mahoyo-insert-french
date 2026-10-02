@@ -1,0 +1,17 @@
+avant,après,commentaire
+ー,―,trait d'allongement japonais -> tiret long
+–,―,tiret demi-cadratin -> tiret long
+／,/,barre oblique pleine chasse
+～,~,tilde pleine chasse
+Ｄ,D,D pleine chasse
+ ," ",espace insécable -> espace
+　," ",espace japonaise (lignes blanches) -> espace
+─,―,trait de dessin (U+2500) -> tiret long utilisé partout ailleurs
+・,"- ",puce japonaise -> tiret comme en anglais
+①,(1),
+②,(2),
+③,(3),
+④,(4),
+⑤,(5),
+【,[,
+】,],
