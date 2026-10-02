@@ -2,7 +2,7 @@
 languages, where the English band is replaced), from the texts in
 sources/image-texts.json and the original images read from the game (config.ini).
 
-Usage: python generate_images.py [chapters] [titles] [sheets] [backgrounds] [captions]   (all by default)
+Usage: python generate_images.py [chapters] [maps] [titles] [sheets] [backgrounds] [captions]   (all by default)
 The PNGs are written to sources/assets-fr; run main.py afterwards.
 """
 import json
@@ -10,10 +10,10 @@ import sys
 from pathlib import Path
 
 import utils.config_importer as conf
-from utils.images import chapter_titles, glow_captions, ploy_sheets, ploy_titles, text_backgrounds
+from utils.images import chapter_titles, glow_captions, map_labels, ploy_sheets, ploy_titles, text_backgrounds
 
 TEXTS = 'sources/image-texts.json'
-GROUPS = ('chapters', 'titles', 'sheets', 'backgrounds', 'captions')
+GROUPS = ('chapters', 'maps', 'titles', 'sheets', 'backgrounds', 'captions')
 
 
 def main(groups: list[str]):
@@ -26,6 +26,8 @@ def main(groups: list[str]):
 	written = []
 	if 'chapters' in groups:
 		written += chapter_titles.generate(texts['chapter_titles'], out_dir)
+	if 'maps' in groups:
+		written += map_labels.generate(texts['map_labels'], out_dir)
 	if 'titles' in groups:
 		written += ploy_titles.generate(texts['ploy_titles'], out_dir)
 	if 'sheets' in groups:

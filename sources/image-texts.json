@@ -1,5 +1,5 @@
 {
-	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Outlined blocks: one list of lines per English text block, top to bottom.",
+	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Outlined blocks: one list of lines per English text block, top to bottom. Map labels: room names left to right, floor names top to bottom.",
 	"chapter_titles": {
 		"0409": "Une personne étrange",
 		"0410": "Voilà ce qui s’est passé hier",
@@ -15,6 +15,17 @@
 		"0420": "La Vraie Magie couleur bleutée",
 		"0421": "Et puis, la Vraie Magie couleur bleutée",
 		"0422": "Parlons des étoiles"
+	},
+	"map_labels": {
+		"1372": {"rooms": ["Couloir d’entrée"]},
+		"1373": {"rooms": ["Hall"], "floors": ["RDC"]},
+		"1374": {"floors": ["1ER"]},
+		"1375": {"floors": ["SS"]},
+		"1378": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
+		"1379": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
+		"2393": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
+		"2394": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]},
+		"2395": {"rooms": ["Couloir d’entrée", "Hall"], "floors": ["1ER", "RDC", "SS"]}
 	},
 	"ploy_titles": {
 		"2167": "1. C’est quoi un familier ?",

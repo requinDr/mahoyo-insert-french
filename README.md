@@ -46,6 +46,7 @@ Une partie des images `imgNNNN.png` est produite par programme. Le texte vient d
 `sources/image-texts.json`, et l'image d'origine est lue directement dans le jeu :
 
 - titres de chapitre (img0409-0422) ;
+- plan du parc (img1372-1375, img1378-1379, img2393-2395) ;
 - titres et fiches Ploy (img2167-2172, img2258-2268) ;
 - avertissement avant le chapitre bonus (img1955) et écran d'excuses (img2256) ;
 - légendes de déduction (img1961-1968) et citation de Tokki (img1924) ;
@@ -54,7 +55,7 @@ Une partie des images `imgNNNN.png` est produite par programme. Le texte vient d
 Après une modification des textes :
 
 ```powershell
-python generate_images.py           # ou : python generate_images.py chapters titles sheets backgrounds captions
+python generate_images.py           # ou : python generate_images.py chapters maps titles sheets backgrounds captions
 python main.py
 ```
 
@@ -77,3 +78,4 @@ et Helvetica Neue sont cherchées dans les polices du système ou dans `sources/
 - loicfr, pour son travail sur les outils du remaster et l'ajout de glyphes aux polices : [mahoyo_tools](https://github.com/loicfrance/mahoyo_tools)
 - requindr, pour le portage des scripts et l'édition d'images
 - Valkujo, pour l'édition d'images
+- Claude by Anthropic, pour l'écriture du code de la DLL
