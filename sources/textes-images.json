@@ -1,0 +1,103 @@
+{
+	"_aide": "Textes dessinés dans les images communes à toutes les langues, à régénérer avec : python generate_images.py. Clés : numéro de l'image imgNNNN du jeu. Fiches : une rubrique par ligne, [libellé souligné ou null, paragraphe, paragraphe…].",
+	"titres_ploy": {
+		"2167": "1. C’est quoi un familier ?",
+		"2168": "2. Étudions les Ploy Kickshaw !",
+		"2169": "3. Ingrédients, poème et cochon ?!",
+		"2170": "4. Un article magique amer et sucré ?!",
+		"2171": "5. Grondez ! Les Great Three !",
+		"2172": "6. Le Château démoniaque du brouillard ! Flat Snark !"
+	},
+	"fiches_ploy": {
+		"2258": [
+			["Nom", "les Jumeaux bavards."],
+			[null, "1- Humains."],
+			[null, "2- Poids (objet utilisé pour peser à la balance)."],
+			[null, "3- Pingouins."],
+			[null, "4- Relancer."],
+			[null, "5- Couvercles de marmite (bouclier circulaire)."],
+			[null, "6- Porcelets."],
+			["Ingrédients", "castagnettes et agrafeuse."],
+			["Véritable corps", "dés."]
+		],
+		"2260": [
+			["Nom", "le Banquet de la nuit."],
+			["Véritable corps", "grelot."],
+			["Ingrédients", "pierre œil-de-chat et verre."],
+			["Coût de production", "2 mois de salaire de Soujyuro."],
+			["Effet", "crée une pierre d’assise pour générer le sort des contes de fées.", "L’effet est doublé s’il est employé deux fois."],
+			["Moyen pour le contrer", "impossible de s’en protéger la nuit, mais faible face à la lumière de la civilisation. Inutilisable devant la gare."]
+		],
+		"2261": [
+			["Nom", "Miroir de la sieste, Deuxième Ticket."],
+			["Véritable corps", "miroir de la chambre d’Alice / miroir du vestibule."],
+			["Ingrédients", "ancien miroir, larme de sorcière."],
+			["En se manifestant", "brouillard."],
+			["Effets", "création d’une Barrière / atténuation des lois de la physique, illusion."],
+			["Moyen pour le contrer", "briser le miroir."]
+		],
+		"2262": [
+			["Nom", "la Forêt sans nom."],
+			["Véritable corps", "pièce d’échecs."],
+			["Ingrédient", "pousse de torineko."],
+			["Effet", "charme de répulsion."],
+			["Point faible", "aucun effet sur les matières naturelles."]
+		],
+		"2263": [
+			["Nom", "Scratch Dumpty."],
+			["Véritable corps", "œuf de Pâques artisanal."],
+			["Ingrédients", "chêne et ouvrage en laiton."],
+			["En se manifestant", "10 à 30 fois plus grand."],
+			["Effet", "chante les louanges de son propriétaire en direction de la cible.", "Une fois le chant terminé, la porte s’ouvre et la cible se retrouve enfermée dans l’œuf."],
+			["Effet II", "si la cible quitte l’œuf des yeux pendant le chant, celui-ci chute et répand des morceaux de malédiction."],
+			["Moyen pour le contrer", "détourner les yeux lorsque la main sort de la porte après la fin du chant."]
+		],
+		"2264": [
+			["Nom", "Six Sing Chocolate."],
+			["Véritable corps", "boîte de rangement."],
+			["Ingrédients", "pâte de chocolat, beurre de cacao, huile de coude."],
+			["Effets", "rangement pour 24 familiers.", "Compétences de combat inexistantes. Réseau des oiseaux qui observent la ville de Misaki.", "Retrouve les personnes infidèles.", "De plus, comme ce sont des chocolats fortifiés au prana, ils permettent entre autres de prodiguer les premiers soins en se faisant fondre sur les plaies d’un blessé."],
+			["Moyen pour le contrer", "Ploy Kickshaw du niveau d’un familier normal. À vrai dire, ils peuvent même être abattus avec un pistolet.", "En une journée, dix d’entre eux heurtent des poteaux électriques et meurent des suites de leur chute.", "Lorsque l’on ferme la boîte, tous les étourneaux en cours d’action retournent à l’état de chocolat."]
+		],
+		"2265": [
+			["Nom", "Scripps Humpty."],
+			["Ingrédient", "l’histoire d’une sorcière."],
+			["Véritable corps", "aucun."],
+			["Effet", "permet de lancer des sorts en chaîne. Polysémie des Yeux Mystiques."],
+			["Moyen pour le contrer", "en raison de sa consommation considérable en prana, si Diddle Diddle n’est pas activé, utiliser la polysémie se révèle impossible."]
+		],
+		"2266": [
+			["Nom", "Snow White."],
+			["Ingrédient", "le Péché originel."],
+			["Effet", "de la neige tombe pendant quelques minutes."]
+		],
+		"2267": [
+			["Nom", "le Géant du Pont."],
+			["Ingrédients", "varient selon la version."],
+			["Véritable corps", "figure d’une dame."],
+			["Taille et contrôle du golem à son apparition", "diffèrent selon la zone d’invocation."],
+			["Points faibles", "Ne peut être invoqué dans un lieu sans cours d’eau.", "Quelle que soit la taille qu’il prend, il cesse de fonctionner quand son véritable corps est détruit."]
+		],
+		"2268": [
+			["Nom", "l’Huile de la Lune."],
+			["Véritable corps", "huile."],
+			["Ingrédients", "on prétend qu’il s’agit de ce qu’on a extrait de l’embonpoint (matière grasse) de Yûbokushin, censé avoir existé pendant l’Âge des Dieux."],
+			["En se manifestant", "huile flottante dans une nuit brumeuse. Il dissimule son apparence grâce au brouillard et aux nuages."],
+			["Point faible", "vulnérable au feu."]
+		]
+	},
+	"legendes_ploy": {"2259": "Les Jumeaux bavards"},
+	"avertissement": {
+		"image": 1955,
+		"titre": "Attention",
+		"lignes": [
+			"Bienvenue au manoir Kuonji dans une ville de Misaki en plein automne,",
+			"un an après les évènements de « Mahou Tsukai no Yoru ».",
+			"À partir de ce point, nous entrons dans",
+			"un chapitre bonus d’une longue durée de jeu.",
+			"Si vous venez de terminer « Mahou Tsukai no Yoru », nous",
+			"vous conseillons de prendre une pause avant de continuer."
+		]
+	},
+	"excuses": {"image": 2256, "texte": "Veuillez pardonner l’expression malheureuse employée à l’instant."}
+}

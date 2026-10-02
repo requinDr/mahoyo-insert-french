@@ -185,3 +185,19 @@ def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 		if not np.array_equal(wanted[visible], current[visible]):
 			entries[index + 1] = _mzx_compress(_hep_encode(tile, wanted))
 	return _write_entries(entries)
+
+
+def decode_mzp(data: bytes) -> Image.Image:
+	"""Image RGBA d'un .mzp (tuiles HEP), sans les débordements des tuiles."""
+	entries = _read_entries(data)
+	width, height, tile_width, tile_height, columns, rows, kind, _, crop = struct.unpack_from("<7H2B", entries[0])
+	if kind != HEP_TYPE:
+		raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
+	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop
+	pixels = np.zeros((height - rows * 2 * crop, width - columns * 2 * crop, 4), np.uint8)
+	for index in range(rows * columns):
+		y, x = divmod(index, columns)
+		tile = _hep_decode(_mzx_decompress(entries[index + 1]), tile_width, tile_height)
+		part = pixels[y * step_y:(y + 1) * step_y, x * step_x:(x + 1) * step_x]
+		part[:] = tile[crop:crop + part.shape[0], crop:crop + part.shape[1]]
+	return Image.fromarray(pixels)

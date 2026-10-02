@@ -34,11 +34,30 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
 - `sources/assets-fr` : images françaises en PNG, nommées comme les ressources
   anglaises du jeu (`_en` → `_fr`), converties automatiquement en `.cbg` à la
   génération. Une image doit garder les dimensions et la disposition de l'originale
-  (états normal/survolé…). Les ressources communes à
-  toutes les langues ont un nom français de même longueur, listé dans `SHARED_NAMES`
-  (`utils/steam/build_patch.py`) et `shared_names` (`native/version.c`). Les ressources anglaises
-  sans équivalent dans ce dossier sont copiées telles quelles depuis le jeu.
+  (états normal/survolé…).
+- `sources/assets-fr/imgNNNN.png` : images communes à toutes les langues (4 bandes :
+  ja, en, zc, zt), dont la bande anglaise est traduite. Elles gardent leur nom d'origine :
+  `version.dll` redirige l'entrée du jeu vers la version de `data00999.hfa`.
 - `sources/fonts-fr` : polices françaises (atlas `FONT_fr_*.mzp`, tables `Font040*.ccit`).
+
+## Images au texte dessiné
+
+Une partie des images `imgNNNN.png` est produite par programme. Le texte vient de
+`sources/textes-images.json`, et l'image d'origine est lue directement dans le jeu :
+
+- titres et fiches Ploy (img2167-2172, img2258-2268) ;
+- avertissement avant le chapitre bonus (img1955) et écran d'excuses (img2256).
+
+Après une modification des textes :
+
+```powershell
+python generate_images.py           # ou : python generate_images.py titles sheets backgrounds
+python main.py
+```
+
+Positions, tailles, couleurs sont calquées sur l'anglais, seul le texte change,
+Les polices ne sont pas fournies (licences) : Arial Rounded MT Bold, Segoe Print, Palatino Linotype
+et Helvetica Neue sont cherchées dans les polices du système ou dans `sources/polices-images/` (ignoré par git).
 - `native/version.c` : code de la DLL. `native/version.dll` est la version compilée,
   copiée telle quelle dans le patch : elle ne dépend pas de la traduction et n'est à
   recompiler qu'après une modification de `version.c` (ou de `shared_names`), avec
