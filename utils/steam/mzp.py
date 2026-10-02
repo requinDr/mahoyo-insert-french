@@ -128,15 +128,34 @@ def _hep_decode(tile: bytes, width: int, height: int) -> np.ndarray:
 	return palette[indices].reshape(height, width, 4)
 
 
+def _reduce_palette(colors: np.ndarray, counts: np.ndarray, indices: np.ndarray):
+	"""Ramène la palette à 256 couleurs (k-means pondéré par le nombre de pixels), en
+	comparant les couleurs telles qu'affichées : prémultipliées par l'opacité."""
+	visible = colors.astype(np.float64)
+	visible[:, :3] *= visible[:, 3:] / 255
+	weights = counts.astype(np.float64)
+	centers = visible[np.argsort(-counts, kind="stable")[:256]].copy()
+	for _ in range(20):
+		nearest = np.argmin(((visible[:, None, :] - centers[None, :, :]) ** 2).sum(2), axis=1)
+		for k in range(256):
+			members = nearest == k
+			if members.any():
+				centers[k] = np.average(visible[members], axis=0, weights=weights[members])
+	nearest = np.argmin(((visible[:, None, :] - centers[None, :, :]) ** 2).sum(2), axis=1)
+	alpha = np.clip(np.round(centers[:, 3]), 0, 255)
+	rgb = np.where(alpha[:, None] > 0, centers[:, :3] * 255 / np.maximum(alpha, 1)[:, None], 0)
+	palette = np.column_stack((np.clip(np.round(rgb), 0, 255), alpha)).astype(np.uint8)
+	return palette, nearest[indices]
+
+
 def _hep_encode(header: bytes, pixels: np.ndarray) -> bytes:
 	height, width = pixels.shape[:2]
 	flat = pixels.reshape(-1, 4).copy()
 	flat[flat[:, 3] == 0] = 0  # couleur des pixels transparents indifférente
-	colors, indices = np.unique(flat, axis=0, return_inverse=True)
+	colors, indices, counts = np.unique(flat, axis=0, return_inverse=True, return_counts=True)
+	indices = indices.ravel()
 	if len(colors) > 256:
-		quantized = Image.fromarray(pixels).quantize(256, Image.Quantize.FASTOCTREE)
-		colors = np.array(quantized.getpalette("RGBA")[:1024], np.uint8).reshape(-1, 4)
-		indices = np.array(quantized).ravel()
+		colors, indices = _reduce_palette(colors, counts, indices)
 	palette = np.zeros((256, 4), np.uint8)
 	palette[:len(colors)] = colors
 	palette[:, 3] = np.where(palette[:, 3] == 255, 255, palette[:, 3] >> 1)
