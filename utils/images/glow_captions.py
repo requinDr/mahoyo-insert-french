@@ -12,7 +12,10 @@ SS = 3  # supersampling
 MIN_TRACKING = -0.02  # tightest letter spacing (in font sizes): some English lines are tight
 
 
-def _font_path():
+def _font_path(bold=False):
+	if bold:
+		return find_font('Helvetica Neue (Bold)', 'HelveticaNeueBold.otf', 'HelveticaNeue-Bold.otf',
+		                 'HelveticaNeue.ttc', 'arialbd.ttf', 'Arial Bold.ttf')
 	return find_font('Helvetica Neue (Roman)', 'HelveticaNeueRoman.otf', 'HelveticaNeue-Roman.otf',
 	                 'helveticaneue-roman.ttf', 'HelveticaNeue.ttc', 'arial.ttf', 'Arial.ttf')
 
@@ -74,16 +77,16 @@ def _render_line(text, font, tracking):
 	return mask[:, xs[0]:xs[-1] + 1], font.size * 0.5 + ascent
 
 
-def _font_for_cap_height(cap_height):
-	reference = ImageFont.truetype(_font_path(), 100)
+def _font_for_cap_height(cap_height, bold=False):
+	reference = ImageFont.truetype(_font_path(bold), 100)
 	box = reference.getbbox('H')
 	return cap_height / ((box[3] - box[1]) / 100)
 
 
-def _fit_tracking(text, size, english, cap_height):
+def _fit_tracking(text, size, english, cap_height, bold=False):
 	"""Letter spacing (in px at SS scale) giving the same gaps between letters as the English."""
 	target = _letter_gap(english, cap_height)
-	font = ImageFont.truetype(_font_path(), round(size * SS))
+	font = ImageFont.truetype(_font_path(bold), round(size * SS))
 	best = None
 	for tracking in np.arange(MIN_TRACKING, 0.5, 0.01) * font.size:
 		mask, _ = _render_line(text, font, tracking)
@@ -188,8 +191,8 @@ def captions(texts: dict, out_dir) -> list[str]:
 		_place(layer, mask, center - mask.shape[1] / SS / 2, baseline, offset)
 		letters = _final(layer, width, height)
 		_compose(pixels, height, letters, _glow(letters, *_fit_halo(band)), (255, 255, 255),
-		         out_dir / f'img{number}.png')
-		written.append(f'img{number}.png')
+		         out_dir / f'img{number:04d}.png')
+		written.append(f'img{number:04d}.png')
 	return written
 
 
@@ -242,5 +245,75 @@ def quote(config: dict, out_dir) -> str:
 	_place(layer, author, author_right + 1 - author.shape[1] / SS, author_baseline, offset)
 	letters = _final(layer, width, height)
 	_compose(pixels, height, letters, _outline(letters, *_fit_outline(band)), (0, 0, 0),
-	         out_dir / f'img{number}.png')
-	return f'img{number}.png'
+	         out_dir / f'img{number:04d}.png')
+	return f'img{number:04d}.png'
+
+
+def _line_runs(mask):
+	"""Row ranges of the text lines of a block."""
+	rows = np.append(mask.any(1), False)
+	lines, start = [], None
+	for y, value in enumerate(rows):
+		if value and start is None:
+			start = y
+		elif not value and start is not None:
+			lines.append((start, y))
+			start = None
+	return lines
+
+
+def _letter_metrics(line):
+	"""Cap height and baseline of a line, from its first letter (punctuation such as
+	opening quotes, shorter, is skipped)."""
+	parts = []
+	for x0, x1 in _components_x(line):
+		rows = np.flatnonzero(line[:, x0:x1].any(1))
+		parts.append((rows[-1] - rows[0] + 1, rows[-1] + 1))
+	tallest = max(h for h, _ in parts)
+	return next((h, base) for h, base in parts if h >= 0.7 * tallest)
+
+
+def outlined_blocks(config: dict, out_dir) -> str:
+	"""White text blocks with a solid dark outline: each English block (found top to bottom)
+	is replaced by the matching French block; several lines are left-aligned like the
+	English ones, a single line is centered on the English one."""
+	number = config['image']
+	pixels, height = split_bands(original_image(number))
+	band = pixels[TARGET_BAND * height:(TARGET_BAND + 1) * height]
+	core = _core(band)
+	labels, count = ndimage.label(ndimage.binary_dilation(core, iterations=20))
+	boxes = sorted(ndimage.find_objects(labels), key=lambda box: (box[0].start, box[1].start))
+	if len(boxes) != len(config['blocks']):
+		raise ValueError(f'img{number:04d} : {len(boxes)} blocs de texte dans l\'image, {len(config["blocks"])} dans le JSON')
+	blocks = []
+	for box, lines in zip(boxes, config['blocks']):
+		block = core[box] & (labels[box] > 0)
+		english_lines = _line_runs(block)
+		first = block[english_lines[0][0]:english_lines[0][1]]
+		cap, baseline = _letter_metrics(first)
+		blocks.append((box, lines, block, english_lines, first, cap, baseline))
+	# letter spacing measured on the longest block (a few letters are not enough)
+	_, longest_lines, _, _, longest_first, longest_cap, _ = max(blocks, key=lambda b: b[4].shape[1])
+	spacing = _fit_tracking(longest_lines[0], _font_for_cap_height(longest_cap, True), longest_first,
+	                        longest_cap, True) / (_font_for_cap_height(longest_cap, True) * SS)
+	width = pixels.shape[1]
+	layer = Image.new('L', (width * SS, height * SS))
+	for box, lines, block, english_lines, first, cap, baseline in blocks:
+		top, left = box[0].start, box[1].start
+		baseline += top + english_lines[0][0]
+		pitch = (english_lines[1][0] - english_lines[0][0]) if len(english_lines) > 1 else cap * 1.6
+		size = _font_for_cap_height(cap, True)
+		font = ImageFont.truetype(_font_path(True), round(size * SS))
+		tracking = spacing * font.size
+		xs = np.flatnonzero(block.any(0))
+		for i, line in enumerate(lines):
+			mask, offset = _render_line(line, font, tracking)
+			if len(english_lines) > 1:
+				x = left + xs[0]
+			else:
+				x = left + (xs[0] + xs[-1]) / 2 - mask.shape[1] / SS / 2
+			_place(layer, mask, x, baseline + i * pitch, offset)
+	letters = _final(layer, width, height)
+	_compose(pixels, height, letters, _outline(letters, *_fit_outline(band)), (0, 0, 0),
+	         out_dir / f'img{number:04d}.png')
+	return f'img{number:04d}.png'

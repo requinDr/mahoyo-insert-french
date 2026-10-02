@@ -14,7 +14,7 @@ TARGET_BAND = 1
 
 
 def original_image(number: int) -> Image.Image:
-	name = f'img{number}.mzp'
+	name = f'img{number:04d}.mzp'
 	data = find_in_archives(conf.game_folder, name, exclude=ARCHIVE_NAME)
 	if data is None:
 		raise FileNotFoundError(f'{name} introuvable dans les archives du jeu ({conf.game_folder})')

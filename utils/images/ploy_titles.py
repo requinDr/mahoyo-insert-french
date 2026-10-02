@@ -78,6 +78,6 @@ def generate(texts: dict, out_dir) -> list[str]:
 		new_band[:, :, 3] = alpha
 		new_band[alpha == 0] = 0
 		image[TARGET_BAND * height:(TARGET_BAND + 1) * height] = new_band
-		Image.fromarray(image).save(out_dir / f'img{number}.png', optimize=True)
-		written.append(f'img{number}.png')
+		Image.fromarray(image).save(out_dir / f'img{number:04d}.png', optimize=True)
+		written.append(f'img{number:04d}.png')
 	return written

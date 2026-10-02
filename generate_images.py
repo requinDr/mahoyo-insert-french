@@ -2,7 +2,7 @@
 languages, where the English band is replaced), from the texts in
 sources/image-texts.json and the original images read from the game (config.ini).
 
-Usage: python generate_images.py [titles] [sheets] [backgrounds] [captions]   (all by default)
+Usage: python generate_images.py [chapters] [titles] [sheets] [backgrounds] [captions]   (all by default)
 The PNGs are written to sources/assets-fr; run main.py afterwards.
 """
 import json
@@ -10,10 +10,10 @@ import sys
 from pathlib import Path
 
 import utils.config_importer as conf
-from utils.images import glow_captions, ploy_sheets, ploy_titles, text_backgrounds
+from utils.images import chapter_titles, glow_captions, ploy_sheets, ploy_titles, text_backgrounds
 
 TEXTS = 'sources/image-texts.json'
-GROUPS = ('titles', 'sheets', 'backgrounds', 'captions')
+GROUPS = ('chapters', 'titles', 'sheets', 'backgrounds', 'captions')
 
 
 def main(groups: list[str]):
@@ -24,6 +24,8 @@ def main(groups: list[str]):
 		texts = json.load(f)
 	out_dir = Path(conf.images_folder)
 	written = []
+	if 'chapters' in groups:
+		written += chapter_titles.generate(texts['chapter_titles'], out_dir)
 	if 'titles' in groups:
 		written += ploy_titles.generate(texts['ploy_titles'], out_dir)
 	if 'sheets' in groups:
@@ -31,9 +33,11 @@ def main(groups: list[str]):
 	if 'backgrounds' in groups:
 		written.append(text_backgrounds.warning(texts['warning'], out_dir))
 		written.append(text_backgrounds.apology(texts['apology'], out_dir))
+		written += [text_backgrounds.speech_bubble(bubble, out_dir) for bubble in texts['speech_bubbles']]
 	if 'captions' in groups:
 		written += glow_captions.captions(texts['deduction_captions'], out_dir)
 		written.append(glow_captions.quote(texts['quote'], out_dir))
+		written += [glow_captions.outlined_blocks(image, out_dir) for image in texts['outlined_blocks']]
 	print(f"{len(written)} images écrites dans {out_dir} : {', '.join(written)}")
 
 

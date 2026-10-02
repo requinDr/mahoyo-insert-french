@@ -1,5 +1,21 @@
 {
-	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…].",
+	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Outlined blocks: one list of lines per English text block, top to bottom.",
+	"chapter_titles": {
+		"0409": "Une personne étrange",
+		"0410": "Voilà ce qui s’est passé hier",
+		"0411": "Cette nuit-là",
+		"0412": "Aozaki Aoko, deuxième partie",
+		"0413": "La nuit des magiciennes (deuxième partie)",
+		"0414": "La nuit des magiciennes (première partie)",
+		"0415": "Plus bête qu’un chien",
+		"0416": "Quelles sont ces sornettes ? (première partie)",
+		"0417": "Quelles sont ces sornettes ? (deuxième partie)",
+		"0418": "La magicienne couleur orange",
+		"0419": "Hurlement à la lune",
+		"0420": "La Vraie Magie couleur bleutée",
+		"0421": "Et puis, la Vraie Magie couleur bleutée",
+		"0422": "Parlons des étoiles"
+	},
 	"ploy_titles": {
 		"2167": "1. C’est quoi un familier ?",
 		"2168": "2. Étudions les Ploy Kickshaw !",
@@ -106,8 +122,8 @@
 		"1964": "Kuonji a verrouillé les portes",
 		"1965": "Les invitations étranges",
 		"1966": "Qui est le plus suspect ?",
-		"1967": "La fête a lieu les trois jours de congé",
-		"1968": "Nous faisons fausse route depuis le début"
+		"1967": "La fête a lieu pendant les trois jours de congé",
+		"1968": "Le premier n’était pas le bon"
 	},
 	"quote": {
 		"image": 1924,
@@ -118,5 +134,11 @@
 		],
 		"author": "Toki Julich"
 	},
+	"outlined_blocks": [
+		{"image": 2397, "blocks": [["« Animal Land", "Terror »"], ["« Fin »"]]}
+	],
+	"speech_bubbles": [
+		{"image": 2091, "text": "Au travail !"}
+	],
 	"apology": {"image": 2256, "text": "Veuillez pardonner l’expression malheureuse employée à l’instant."}
 }

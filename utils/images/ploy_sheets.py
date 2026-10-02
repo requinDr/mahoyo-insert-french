@@ -137,8 +137,8 @@ def generate(fiches: dict, captions: dict, out_dir) -> list[str]:
 			if top + total <= bottom + 4:
 				break
 		text_alpha, line_alpha = _render((pixels.shape[1], height), texts, underlines, font, size * scale, top)
-		_save(pixels, height, text_alpha, line_alpha, out_dir / f'img{number}.png')
-		written.append(f'img{number}.png')
+		_save(pixels, height, text_alpha, line_alpha, out_dir / f'img{number:04d}.png')
+		written.append(f'img{number:04d}.png')
 
 	# captions: one centered line, without underline
 	for key, text in captions.items():
@@ -157,6 +157,6 @@ def generate(fiches: dict, captions: dict, out_dir) -> list[str]:
 			size *= 0.97
 		texts = [((center - w / 2) / SCALE_X, 0, text)]  # unsqueezed coordinates
 		text_alpha, line_alpha = _render((pixels.shape[1], height), texts, [], font, size, top)
-		_save(pixels, height, text_alpha, line_alpha, out_dir / f'img{number}.png')
-		written.append(f'img{number}.png')
+		_save(pixels, height, text_alpha, line_alpha, out_dir / f'img{number:04d}.png')
+		written.append(f'img{number:04d}.png')
 	return written

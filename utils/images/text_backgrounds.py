@@ -175,8 +175,8 @@ def warning(config: dict, out_dir) -> str:
 	result = _composite(background, shadow, (90, 60, 50))
 	result = _composite(result, title_a, (113, 3, 3))
 	result = _composite(result, body_a, (76, 32, 32))
-	_save(pixels, height, result, out_dir / f'img{number}.png')
-	return f'img{number}.png'
+	_save(pixels, height, result, out_dir / f'img{number:04d}.png')
+	return f'img{number:04d}.png'
 
 
 def apology(config: dict, out_dir) -> str:
@@ -194,5 +194,37 @@ def apology(config: dict, out_dir) -> str:
 	font = ImageFont.truetype(font_path, size * SS)
 	alpha = _final(_layer(width, height, lambda layer: _draw_line(
 		layer, text, font, 1125 * SS, 645 * SS, stretch=stretch)), width, height)
-	_save(pixels, height, _composite(background, alpha, (255, 255, 255)), out_dir / f'img{number}.png')
-	return f'img{number}.png'
+	_save(pixels, height, _composite(background, alpha, (255, 255, 255)), out_dir / f'img{number:04d}.png')
+	return f'img{number:04d}.png'
+
+
+def speech_bubble(config: dict, out_dir) -> str:
+	"""Speech bubble: handwritten text, tilted like the English one, in a plain bubble."""
+	number = config['image']
+	pixels, height, background = _clean_background(number, text_is_dark=True, threshold=40, halo=5)
+	width = pixels.shape[1]
+	original = pixels[TARGET_BAND * height:(TARGET_BAND + 1) * height]
+	ink = (background[..., :3].sum(-1) - original[..., :3].sum(-1)) > 150
+	ys, xs = np.nonzero(ink)
+	center_x, center_y = (xs.min() + xs.max()) / 2, (ys.min() + ys.max()) / 2
+	# tilt: slope of the bottom of the letters (the English line has no descenders)
+	columns = np.unique(xs)
+	bottoms = np.array([ys[xs == x].max() for x in columns])
+	slope = np.polyfit(columns, bottoms, 1)[0]
+	angle = np.degrees(np.arctan(slope))
+	letter_height = (ys.max() - ys.min()) - abs(slope) * (xs.max() - xs.min())
+	color = np.median(original[ink][:, :3], 0)
+
+	font_path = find_font('Segoe Print Bold', 'segoeprb.ttf', 'SEGOEPRB.TTF')
+	# same length as the English line, without letters taller than the English ones
+	line_width = (xs.max() - xs.min()) / np.cos(np.radians(angle))
+	reference = ImageFont.truetype(font_path, 100)
+	box = reference.getbbox('T')
+	size = min(line_width / (reference.getlength(config['text']) / 100),
+	           1.4 * letter_height / ((box[3] - box[1]) / 100))
+	font = ImageFont.truetype(font_path, round(size * SS))
+	layer = _layer(width, height, lambda layer: _draw_line(
+		layer, config['text'], font, center_x * SS, (center_y + letter_height / 2) * SS))
+	layer = layer.rotate(-angle, resample=Image.BICUBIC, center=(center_x * SS, center_y * SS))
+	_save(pixels, height, _composite(background, _final(layer, width, height), color), out_dir / f'img{number:04d}.png')
+	return f'img{number:04d}.png'
