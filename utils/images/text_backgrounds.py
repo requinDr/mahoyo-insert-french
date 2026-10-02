@@ -149,10 +149,10 @@ def warning(config: dict, out_dir) -> str:
 	# title: in place of "Warning" (center x 1047, height 349-408)
 	title_font = ImageFont.truetype(font_path, 62 * SS)
 	title = _layer(width, height, lambda layer: _draw_line(
-		layer, config['titre'], title_font, 1047 * SS, 396 * SS, tracking=2 * SS))
+		layer, config['title'], title_font, 1047 * SS, 396 * SS, tracking=2 * SS))
 
 	# body: lines centered on x 1057, 52 px apart, tilted by 1.8° like the English
-	lines = config['lignes']
+	lines = config['lines']
 	body_font = ImageFont.truetype(font_path, 38 * SS)
 	tracking = 0.06 * body_font.size
 	longest = max(sum(body_font.getlength(c) + tracking for c in line) for line in lines) / SS
@@ -187,7 +187,7 @@ def apology(config: dict, out_dir) -> str:
 	font_path = find_font('Helvetica Neue (Roman)', 'HelveticaNeueRoman.otf', 'HelveticaNeue-Roman.otf',
 	                      'helveticaneue-roman.ttf', 'HelveticaNeue.ttc')
 	# English: size 74, stretched by 1.21, centered on x 1125, baseline around 645
-	text = config['texte']
+	text = config['text']
 	stretch, size = 1.1, 74
 	natural = ImageFont.truetype(font_path, size * SS).getlength(text) / SS
 	size = min(size, int(size * 2000 / (natural * stretch)))  # fits in 2000 px

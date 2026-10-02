@@ -43,15 +43,16 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
 ## Images au texte dessiné
 
 Une partie des images `imgNNNN.png` est produite par programme. Le texte vient de
-`sources/textes-images.json`, et l'image d'origine est lue directement dans le jeu :
+`sources/image-texts.json`, et l'image d'origine est lue directement dans le jeu :
 
 - titres et fiches Ploy (img2167-2172, img2258-2268) ;
-- avertissement avant le chapitre bonus (img1955) et écran d'excuses (img2256).
+- avertissement avant le chapitre bonus (img1955) et écran d'excuses (img2256) ;
+- légendes de déduction (img1961-1967) et citation de Tokki (img1924).
 
 Après une modification des textes :
 
 ```powershell
-python generate_images.py           # ou : python generate_images.py titles sheets backgrounds
+python generate_images.py           # ou : python generate_images.py titles sheets backgrounds captions
 python main.py
 ```
 

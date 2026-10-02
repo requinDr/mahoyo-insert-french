@@ -1,6 +1,6 @@
 {
-	"_aide": "Textes dessinés dans les images communes à toutes les langues, à régénérer avec : python generate_images.py. Clés : numéro de l'image imgNNNN du jeu. Fiches : une rubrique par ligne, [libellé souligné ou null, paragraphe, paragraphe…].",
-	"titres_ploy": {
+	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…].",
+	"ploy_titles": {
 		"2167": "1. C’est quoi un familier ?",
 		"2168": "2. Étudions les Ploy Kickshaw !",
 		"2169": "3. Ingrédients, poème et cochon ?!",
@@ -8,7 +8,7 @@
 		"2171": "5. Grondez ! Les Great Three !",
 		"2172": "6. Le Château démoniaque du brouillard ! Flat Snark !"
 	},
-	"fiches_ploy": {
+	"ploy_sheets": {
 		"2258": [
 			["Nom", "les Jumeaux bavards."],
 			[null, "1- Humains."],
@@ -24,7 +24,7 @@
 			["Nom", "le Banquet de la nuit."],
 			["Véritable corps", "grelot."],
 			["Ingrédients", "pierre œil-de-chat et verre."],
-			["Coût de production", "2 mois de salaire de Soujyuro."],
+			["Coût de production", "2 mois de salaire de Sōjūrō."],
 			["Effet", "crée une pierre d’assise pour générer le sort des contes de fées.", "L’effet est doublé s’il est employé deux fois."],
 			["Moyen pour le contrer", "impossible de s’en protéger la nuit, mais faible face à la lumière de la civilisation. Inutilisable devant la gare."]
 		],
@@ -86,18 +86,37 @@
 			["Point faible", "vulnérable au feu."]
 		]
 	},
-	"legendes_ploy": {"2259": "Les Jumeaux bavards"},
-	"avertissement": {
+	"ploy_captions": {"2259": "Les Jumeaux bavards"},
+	"warning": {
 		"image": 1955,
-		"titre": "Attention",
-		"lignes": [
-			"Bienvenue au manoir Kuonji dans une ville de Misaki en plein automne,",
-			"un an après les évènements de « Mahou Tsukai no Yoru ».",
+		"title": "Attention",
+		"lines": [
+			"Bienvenue au manoir Kuonji dans la ville de Misaki en plein automne,",
+			"un an après les évènements de « Witch on the holy night ».",
 			"À partir de ce point, nous entrons dans",
 			"un chapitre bonus d’une longue durée de jeu.",
-			"Si vous venez de terminer « Mahou Tsukai no Yoru », nous",
-			"vous conseillons de prendre une pause avant de continuer."
+			"Si vous venez de terminer « Witch on the holy night », nous",
+			"vous conseillons de faire une pause avant de continuer."
 		]
 	},
-	"excuses": {"image": 2256, "texte": "Veuillez pardonner l’expression malheureuse employée à l’instant."}
+	"deduction_captions": {
+		"1961": "Impossible de le démasquer sans preuve",
+		"1962": "Un Ploy avait disparu du coffre",
+		"1963": "Les portes se sont fondues dans les murs",
+		"1964": "Kuonji a verrouillé les portes",
+		"1965": "Les invitations étranges",
+		"1966": "Qui est le plus suspect ?",
+		"1967": "La fête a lieu les trois jours de congé",
+		"1968": "Nous faisons fausse route depuis le début"
+	},
+	"quote": {
+		"image": 1924,
+		"lines": [
+			"Les plans qui ne sont pas consignés",
+			"par écrit laissent en suspens",
+			"le processus et les résultats."
+		],
+		"author": "Toki Julich"
+	},
+	"apology": {"image": 2256, "text": "Veuillez pardonner l’expression malheureuse employée à l’instant."}
 }

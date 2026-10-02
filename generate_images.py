@@ -1,8 +1,8 @@
 """Generates the translated images whose text is drawn by code (images shared by all
 languages, where the English band is replaced), from the texts in
-sources/textes-images.json and the original images read from the game (config.ini).
+sources/image-texts.json and the original images read from the game (config.ini).
 
-Usage: python generate_images.py [titles] [sheets] [backgrounds]   (all by default)
+Usage: python generate_images.py [titles] [sheets] [backgrounds] [captions]   (all by default)
 The PNGs are written to sources/assets-fr; run main.py afterwards.
 """
 import json
@@ -10,10 +10,10 @@ import sys
 from pathlib import Path
 
 import utils.config_importer as conf
-from utils.images import ploy_sheets, ploy_titles, text_backgrounds
+from utils.images import glow_captions, ploy_sheets, ploy_titles, text_backgrounds
 
-TEXTS = 'sources/textes-images.json'
-GROUPS = ('titles', 'sheets', 'backgrounds')
+TEXTS = 'sources/image-texts.json'
+GROUPS = ('titles', 'sheets', 'backgrounds', 'captions')
 
 
 def main(groups: list[str]):
@@ -25,12 +25,15 @@ def main(groups: list[str]):
 	out_dir = Path(conf.images_folder)
 	written = []
 	if 'titles' in groups:
-		written += ploy_titles.generate(texts['titres_ploy'], out_dir)
+		written += ploy_titles.generate(texts['ploy_titles'], out_dir)
 	if 'sheets' in groups:
-		written += ploy_sheets.generate(texts['fiches_ploy'], texts['legendes_ploy'], out_dir)
+		written += ploy_sheets.generate(texts['ploy_sheets'], texts['ploy_captions'], out_dir)
 	if 'backgrounds' in groups:
-		written.append(text_backgrounds.warning(texts['avertissement'], out_dir))
-		written.append(text_backgrounds.apology(texts['excuses'], out_dir))
+		written.append(text_backgrounds.warning(texts['warning'], out_dir))
+		written.append(text_backgrounds.apology(texts['apology'], out_dir))
+	if 'captions' in groups:
+		written += glow_captions.captions(texts['deduction_captions'], out_dir)
+		written.append(glow_captions.quote(texts['quote'], out_dir))
 	print(f"{len(written)} images écrites dans {out_dir} : {', '.join(written)}")
 
 
