@@ -8,8 +8,9 @@ from pathlib import Path
 from PIL import Image
 
 from utils.steam.cbg import encode_cbg
-from utils.steam.hfa import read_hfa, write_hfa
+from utils.steam.hfa import find_in_archives, read_hfa, write_hfa
 from utils.steam.menu_cursors import DATA_PATCHES_ENTRY, data_patches
+from utils.steam.mzp import encode_mzp
 
 ARCHIVE_NAME = "data00999.hfa"
 DLL_NAME = "version.dll"
@@ -22,6 +23,10 @@ DLL_PATH = Path(__file__).resolve().parents[2] / "native" / "version.dll"
 
 # Ressources communes à toutes les langues : même table que shared_names dans native/version.c
 SHARED_NAMES = {"mode1.cbg": "modfr.cbg"}
+# Images .mzp communes à toutes les langues (une bande par langue) : le script les désigne
+# par leur nom, la version traduite garde donc le même nom (version.dll redirige alors
+# l'entrée d'origine de son archive vers notre fichier).
+SHARED_IMAGE = re.compile(r"img\d{4}")
 
 
 def french_name(name: str) -> str | None:
@@ -45,8 +50,18 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 			if new:
 				files[new] = data
 
-	# Images traduites (PNG converties en .cbg) et polices
-	assets = [(path.with_suffix(".cbg").name, path) for path in sorted(Path(images_dir).glob("*.png"))]
+	# Images traduites (PNG converties en .cbg ou .mzp) et polices
+	assets = []
+	for path in sorted(Path(images_dir).glob("*.png")):
+		shared = SHARED_IMAGE.fullmatch(path.stem)
+		if shared:
+			original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
+			if original is None:
+				raise ValueError(f"{path.name} : {path.stem}.mzp introuvable dans les archives du jeu")
+			with Image.open(path) as image:
+				files[path.stem + ".mzp"] = encode_mzp(original, image)
+		else:
+			assets.append((path.with_suffix(".cbg").name, path))
 	assets += [(path.name, path) for path in sorted(Path(fonts_dir).iterdir())]
 	for name, path in assets:
 		if name not in files:

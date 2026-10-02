@@ -13,6 +13,7 @@
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <stdint.h>
+#include <stdlib.h>
 #include <string.h>
 
 #define ARCHIVE_NAME L"data00999.hfa"
@@ -65,8 +66,12 @@ FORWARD(VerQueryValueW)
 
 /* ---------- Archive française ---------- */
 
-static char (*archive_names)[HFA_NAME_SIZE];
+/* Entrées de data00999.hfa, triées par nom (le nom est le premier champ). */
+static struct archive_entry { char name[HFA_NAME_SIZE]; DWORD offset, size; } *archive_entries;
 static DWORD archive_count;
+static HANDLE archive_file = INVALID_HANDLE_VALUE;  /* reste ouvert pour servir nos fichiers */
+static DWORD archive_data_start;
+static SRWLOCK archive_file_lock = SRWLOCK_INIT;
 static BYTE *text5;
 static DWORD text5_size;
 static BYTE *data_patches;
@@ -75,6 +80,10 @@ static DWORD data_patches_size;
 static BOOL read_exact(HANDLE file, void *buffer, DWORD size) {
     DWORD read = 0;
     return ReadFile(file, buffer, size, &read, NULL) && read == size;
+}
+
+static int compare_names(const void *a, const void *b) {
+    return _stricmp((const char *)a, (const char *)b);
 }
 
 static BOOL load_archive(void) {
@@ -95,44 +104,49 @@ static BOOL load_archive(void) {
     memcpy(&count, header + 12, sizeof(count));
     if (count == 0 || count > 100000) goto done;
     table = HeapAlloc(GetProcessHeap(), 0, (SIZE_T)count * HFA_ENTRY_SIZE);
-    archive_names = HeapAlloc(GetProcessHeap(), HEAP_ZERO_MEMORY, (SIZE_T)count * HFA_NAME_SIZE);
-    if (!table || !archive_names || !read_exact(file, table, count * HFA_ENTRY_SIZE)) goto done;
+    archive_entries = HeapAlloc(GetProcessHeap(), HEAP_ZERO_MEMORY, (SIZE_T)count * sizeof(*archive_entries));
+    if (!table || !archive_entries || !read_exact(file, table, count * HFA_ENTRY_SIZE)) goto done;
     const DWORD data_start = 16 + count * HFA_ENTRY_SIZE;
     for (DWORD i = 0; i < count; ++i) {
         const BYTE *entry = table + (SIZE_T)i * HFA_ENTRY_SIZE;
-        memcpy(archive_names[i], entry, HFA_NAME_SIZE - 1);
+        struct archive_entry *current = &archive_entries[i];
+        memcpy(current->name, entry, HFA_NAME_SIZE - 1);
+        memcpy(&current->offset, entry + HFA_NAME_SIZE, 4);
+        memcpy(&current->size, entry + HFA_NAME_SIZE + 4, 4);
         BYTE **target = NULL;
         DWORD *target_size = NULL;
-        if (strcmp(archive_names[i], TEXT5_ENTRY) == 0) {
+        if (strcmp(current->name, TEXT5_ENTRY) == 0) {
             target = &text5;
             target_size = &text5_size;
-        } else if (strcmp(archive_names[i], DATA_PATCHES_ENTRY) == 0) {
+        } else if (strcmp(current->name, DATA_PATCHES_ENTRY) == 0) {
             target = &data_patches;
             target_size = &data_patches_size;
         }
         if (target) {
-            DWORD offset, size;
-            memcpy(&offset, entry + HFA_NAME_SIZE, 4);
-            memcpy(&size, entry + HFA_NAME_SIZE + 4, 4);
             LARGE_INTEGER position;
-            position.QuadPart = (LONGLONG)data_start + offset;
-            *target = HeapAlloc(GetProcessHeap(), 0, size ? size : 1);
-            if (!*target || !SetFilePointerEx(file, position, NULL, FILE_BEGIN) || !read_exact(file, *target, size)) goto done;
-            *target_size = size;
+            position.QuadPart = (LONGLONG)data_start + current->offset;
+            *target = HeapAlloc(GetProcessHeap(), 0, current->size ? current->size : 1);
+            if (!*target || !SetFilePointerEx(file, position, NULL, FILE_BEGIN) || !read_exact(file, *target, current->size)) goto done;
+            *target_size = current->size;
         }
     }
     archive_count = count;
+    qsort(archive_entries, archive_count, sizeof(*archive_entries), compare_names);
+    archive_data_start = data_start;
+    archive_file = file;
     success = TRUE;
 done:
     if (table) HeapFree(GetProcessHeap(), 0, table);
-    CloseHandle(file);
+    if (!success) CloseHandle(file);
     return success;
 }
 
+static const struct archive_entry *find_entry(const char *name) {
+    return bsearch(name, archive_entries, archive_count, sizeof(*archive_entries), compare_names);
+}
+
 static BOOL archive_contains(const char *name) {
-    for (DWORD i = 0; i < archive_count; ++i)
-        if (_stricmp(archive_names[i], name) == 0) return TRUE;
-    return FALSE;
+    return find_entry(name) != NULL;
 }
 
 /* ---------- Image du jeu ---------- */
@@ -415,6 +429,7 @@ static BOOL is_archive_path(const wchar_t *path) {
 static HANDLE (WINAPI *real_FindFirstFileW)(LPCWSTR, LPWIN32_FIND_DATAW);
 static HANDLE (WINAPI *real_FindFirstFileExW)(LPCWSTR, FINDEX_INFO_LEVELS, LPVOID, FINDEX_SEARCH_OPS, LPVOID, DWORD);
 static HANDLE (WINAPI *real_CreateFileW)(LPCWSTR, DWORD, DWORD, LPSECURITY_ATTRIBUTES, DWORD, DWORD, HANDLE);
+static BOOL (WINAPI *real_ReadFile)(HANDLE, LPVOID, DWORD, LPDWORD, LPOVERLAPPED);
 static HRSRC (WINAPI *real_FindResourceW)(HMODULE, LPCWSTR, LPCWSTR);
 static HGLOBAL (WINAPI *real_LoadResource)(HMODULE, HRSRC);
 static DWORD (WINAPI *real_SizeofResource)(HMODULE, HRSRC);
@@ -431,10 +446,138 @@ static HANDLE WINAPI hook_FindFirstFileExW(LPCWSTR path, FINDEX_INFO_LEVELS leve
     return real_FindFirstFileExW(path, level, data, search, filter, flags);
 }
 
+/* ---------- Priorité des fichiers de l'archive française ----------
+ * Une ressource de data00999.hfa qui porte le même nom qu'une ressource d'une autre
+ * archive (ex. img2168.mzp, image commune à toutes les langues, que le jeu ne cherche
+ * que dans data02002.hfa) doit la remplacer. Quand le jeu lit la table de cette autre
+ * archive, on fait pointer l'entrée après la fin du fichier, sur une zone virtuelle
+ * dont les lectures sont servies depuis data00999.hfa. Rien n'est modifié sur le disque. */
+
+#define MAX_ARCHIVES 256
+static struct open_archive {
+    HANDLE handle;
+    DWORD count;              /* 0 tant que l'en-tête n'est pas lu */
+    ULONGLONG virtual_start;  /* début de la zone virtuelle : taille du fichier arrondie */
+} open_archives[MAX_ARCHIVES];
+static SRWLOCK open_archives_lock = SRWLOCK_INIT;
+
+/* Retient (ou oublie) un fichier ouvert par le jeu. */
+static void track_file(HANDLE handle, BOOL is_other_archive) {
+    if (handle == INVALID_HANDLE_VALUE) return;
+    LARGE_INTEGER size = {0};
+    if (is_other_archive && !GetFileSizeEx(handle, &size)) is_other_archive = FALSE;
+    AcquireSRWLockExclusive(&open_archives_lock);
+    int free_slot = -1;
+    for (int i = 0; i < MAX_ARCHIVES; ++i) {
+        if (open_archives[i].handle == handle) open_archives[i].handle = NULL;  /* handle réutilisé */
+        if (!open_archives[i].handle && free_slot < 0) free_slot = i;
+    }
+    if (is_other_archive && free_slot >= 0) {
+        open_archives[free_slot].handle = handle;
+        open_archives[free_slot].count = 0;
+        open_archives[free_slot].virtual_start = ((ULONGLONG)size.QuadPart + 0xFFFF) & ~0xFFFFULL;
+    }
+    ReleaseSRWLockExclusive(&open_archives_lock);
+}
+
+/* Copie de l'archive suivie ; FALSE si handle n'en est pas une. */
+static BOOL find_open_archive(HANDLE handle, struct open_archive *result) {
+    BOOL found = FALSE;
+    AcquireSRWLockShared(&open_archives_lock);
+    for (int i = 0; i < MAX_ARCHIVES && !found; ++i) {
+        if (open_archives[i].handle == handle) {
+            *result = open_archives[i];
+            found = TRUE;
+        }
+    }
+    ReleaseSRWLockShared(&open_archives_lock);
+    return found;
+}
+
+static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *buffer, DWORD size) {
+    AcquireSRWLockExclusive(&open_archives_lock);
+    for (int i = 0; i < MAX_ARCHIVES; ++i) {
+        struct open_archive *archive = &open_archives[i];
+        if (archive->handle != handle) continue;
+        if (position == 0 && size >= 16) {
+            DWORD count = 0;
+            if (memcmp(buffer, "HUNEXGGEFA10", 12) == 0) memcpy(&count, buffer + 12, 4);
+            archive->count = count;
+        }
+        const ULONGLONG data_start = 16 + (ULONGLONG)archive->count * HFA_ENTRY_SIZE;
+        const ULONGLONG first = position <= 16 ? 0 : (position - 16 + HFA_ENTRY_SIZE - 1) / HFA_ENTRY_SIZE;
+        for (ULONGLONG index = first; index < archive->count; ++index) {
+            const ULONGLONG entry = 16 + index * HFA_ENTRY_SIZE;
+            if (entry + HFA_NAME_SIZE + 8 > position + size) break;
+            BYTE *name = buffer + (entry - position);
+            if (!memchr(name, 0, HFA_NAME_SIZE)) continue;
+            const struct archive_entry *replacement = find_entry((const char *)name);
+            if (!replacement) continue;
+            const ULONGLONG offset = archive->virtual_start - data_start + replacement->offset;
+            if (offset > 0xFFFFFFFFULL) continue;
+            const DWORD fields[2] = {(DWORD)offset, replacement->size};
+            memcpy(name + HFA_NAME_SIZE, fields, sizeof(fields));
+        }
+        break;
+    }
+    ReleaseSRWLockExclusive(&open_archives_lock);
+}
+
+/* Lecture dans la zone virtuelle : renvoie les octets correspondants de data00999.hfa. */
+static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULONGLONG position,
+                         LPVOID buffer, DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
+    LARGE_INTEGER source;
+    source.QuadPart = (LONGLONG)(archive_data_start + (position - archive->virtual_start));
+    DWORD done = 0;
+    AcquireSRWLockExclusive(&archive_file_lock);
+    BOOL result = SetFilePointerEx(archive_file, source, NULL, FILE_BEGIN) &&
+                  real_ReadFile(archive_file, buffer, size, &done, NULL);
+    ReleaseSRWLockExclusive(&archive_file_lock);
+    if (!result) return FALSE;
+    if (read) *read = done;
+    if (overlapped) {
+        overlapped->Internal = 0;
+        overlapped->InternalHigh = done;
+        if (overlapped->hEvent) SetEvent(overlapped->hEvent);
+    } else {
+        LARGE_INTEGER next;
+        next.QuadPart = (LONGLONG)(position + done);
+        SetFilePointerEx(handle, next, NULL, FILE_BEGIN);
+    }
+    return TRUE;
+}
+
 static HANDLE WINAPI hook_CreateFileW(LPCWSTR path, DWORD access, DWORD share, LPSECURITY_ATTRIBUTES security,
                                       DWORD disposition, DWORD flags, HANDLE template_file) {
-    if (is_archive_path(path)) try_activate(TRUE);
-    return real_CreateFileW(path, access, share, security, disposition, flags, template_file);
+    BOOL archive = is_archive_path(path);
+    if (archive) try_activate(TRUE);
+    HANDLE handle = real_CreateFileW(path, access, share, security, disposition, flags, template_file);
+    const wchar_t *file_name = path ? wcsrchr(path, L'\\') : NULL;
+    file_name = file_name ? file_name + 1 : path;
+    track_file(handle, archive && french_active && _wcsicmp(file_name, ARCHIVE_NAME) != 0);
+    return handle;
+}
+
+static BOOL WINAPI hook_ReadFile(HANDLE handle, LPVOID buffer, DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
+    struct open_archive archive;
+    if (!french_active || !find_open_archive(handle, &archive))
+        return real_ReadFile(handle, buffer, size, read, overlapped);
+    LARGE_INTEGER position = {0};
+    if (overlapped) {
+        position.LowPart = overlapped->Offset;
+        position.HighPart = (LONG)overlapped->OffsetHigh;
+    } else {
+        LARGE_INTEGER zero = {0};
+        if (!SetFilePointerEx(handle, zero, &position, FILE_CURRENT))
+            return real_ReadFile(handle, buffer, size, read, overlapped);
+    }
+    if ((ULONGLONG)position.QuadPart >= archive.virtual_start)
+        return read_virtual(&archive, handle, (ULONGLONG)position.QuadPart, buffer, size, read, overlapped);
+    BOOL result = real_ReadFile(handle, buffer, size, read, overlapped);
+    DWORD done = 0;
+    if (result && (read ? (done = *read) : (overlapped && GetOverlappedResult(handle, overlapped, &done, FALSE))))
+        redirect_replaced_entries(handle, (ULONGLONG)position.QuadPart, buffer, done);
+    return result;
 }
 
 /* Ressource TEXT/5 : textes système (CSV ja,en,zc,zt ; le français est en colonne en). */
@@ -504,6 +647,7 @@ static const struct { const char *module; const char *name; void **real; void *h
     {"kernel32.dll", "FindFirstFileW", (void **)&real_FindFirstFileW, (void *)hook_FindFirstFileW},
     {"kernel32.dll", "FindFirstFileExW", (void **)&real_FindFirstFileExW, (void *)hook_FindFirstFileExW},
     {"kernel32.dll", "CreateFileW", (void **)&real_CreateFileW, (void *)hook_CreateFileW},
+    {"kernel32.dll", "ReadFile", (void **)&real_ReadFile, (void *)hook_ReadFile},
     {"kernel32.dll", "FindResourceW", (void **)&real_FindResourceW, (void *)hook_FindResourceW},
     {"kernel32.dll", "LoadResource", (void **)&real_LoadResource, (void *)hook_LoadResource},
     {"kernel32.dll", "SizeofResource", (void **)&real_SizeofResource, (void *)hook_SizeofResource},
