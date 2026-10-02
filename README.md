@@ -45,6 +45,7 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
 Une partie des images `imgNNNN.png` est produite par programme. Le texte vient de
 `sources/image-texts.json`, et l'image d'origine est lue directement dans le jeu :
 
+- aide des commandes (`conf_manual1_fr`, à partir de `conf_manual1_en`) ;
 - titres de chapitre (img0409-0422) ;
 - plan du parc (img1372-1375, img1378-1379, img2393-2395) ;
 - titres et fiches Ploy (img2167-2172, img2258-2268) ;
@@ -55,13 +56,28 @@ Une partie des images `imgNNNN.png` est produite par programme. Le texte vient d
 Après une modification des textes :
 
 ```powershell
-python generate_images.py           # ou : python generate_images.py chapters maps titles sheets backgrounds captions
+python generate_images.py           # ou seulement certaines sections : python generate_images.py chapter_titles map_labels
 python main.py
 ```
 
-Positions, tailles, couleurs sont calquées sur l'anglais, seul le texte change,
-Les polices ne sont pas fournies (licences) : Arial Rounded MT Bold, Segoe Print, Palatino Linotype
-et Helvetica Neue sont cherchées dans les polices du système ou dans `sources/polices-images/` (ignoré par git).
+Positions, tailles et couleurs sont calquées sur l'anglais, seul le texte change.
+Les polices ne sont pas fournies (licences) : celles de `FONTS` (`utils/images/fonts.py`)
+sont cherchées dans les polices du système ou dans `sources/polices-images/` (ignoré par git).
+
+Organisation de `utils/images/` :
+
+- `game.py` : `GameImage`, image d'origine lue dans le jeu, dont on redessine la bande anglaise (`target`),
+  ou l'image entière pour une image anglaise (`nom_en.cbg`, enregistrée en `nom_fr.png`) ;
+- `text.py` : tracé des lignes et mesures du texte anglais (hauteur, ligne de base, espacement) ;
+- `effects.py` : halo, ombre, contour (mesurés sur l'anglais) et superposition ;
+- `inpaint.py` : effacement du texte anglais (autres bandes, motif répété, lignes prolongées) ;
+- un module par famille d'images : `chapter_titles`, `map_labels`, `ploy`, `backgrounds`, `captions`,
+  et `text_boxes` (lignes remplacées une à une dans des zones, pour les menus et pages d'aide).
+
+Chaque section du JSON est une édition `{image: texte}` (numéro d'image commune, ou nom d'image anglaise) ; `EDITS` (`generate_images.py`)
+associe à chaque section une fonction `edit(image, config)` qui redessine `image.target`.
+Ajouter un type d'édition : écrire cette fonction, l'ajouter à `EDITS` et créer sa section.
+
 - `native/version.c` : code de la DLL. `native/version.dll` est la version compilée,
   copiée telle quelle dans le patch : elle ne dépend pas de la traduction et n'est à
   recompiler qu'après une modification de `version.c` (ou de `shared_names`), avec

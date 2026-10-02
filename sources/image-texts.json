@@ -1,5 +1,42 @@
 {
-	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py. Keys: number of the game image imgNNNN. Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Outlined blocks: one list of lines per English text block, top to bottom. Map labels: room names left to right, floor names top to bottom.",
+	"_help": "Text drawn into the images shared by all languages; regenerate with: python generate_images.py [section…]. Each section is an edit (see EDITS in generate_images.py): {image: what to write} (number of an image shared by all languages, or name of an English image). Sheets: one entry per line, [underlined label or null, paragraph, paragraph…]. Map labels: room names left to right, floor names top to bottom. Outlined blocks: one list of lines per English text block, top to bottom. Text boxes: [left, top, right, bottom, text] around each English line to replace.",
+	"text_boxes": {
+		"conf_manual1": {
+			"font": "helvetica",
+			"boxes": [
+				[120, 36, 600, 78, "Contrôles"],
+				[380, 95, 990, 130, "Confirmer, Texte suivant"],
+				[380, 135, 990, 170, "Annuler, Désactiver Passer"],
+				[380, 175, 990, 210, "Menu Pause"],
+				[380, 215, 990, 250, "Historique"],
+				[380, 255, 990, 290, "Menu des Modes"],
+				[380, 295, 990, 330, "Texte suivant"],
+				[380, 335, 990, 370, "Activer/Désactiver Passer"],
+				[380, 375, 990, 410, "Activer/Désactiver Défilement auto."],
+				[380, 415, 990, 450, "Avance rapide"],
+				[380, 455, 990, 488, "Retour en arrière"],
+				[380, 495, 990, 528, "Sauvegarde rapide"],
+				[380, 535, 990, 568, "Charge rapide"],
+				[380, 575, 990, 612, "(Options, Sauvegardes), Changer de page"],
+				[1250, 93, 1724, 131, "Masquer le texte"],
+				[1250, 133, 1724, 171, "Ouvrir le menu Sauvegarde"],
+				[1250, 173, 1724, 211, "Ouvrir le menu Charger"],
+				[1250, 213, 1724, 251, "Ouvrir les options"],
+				[1250, 253, 1724, 291, "Retour à l’écran titre"],
+				[1250, 295, 1724, 327, "Quitter le jeu"],
+				[1250, 335, 1724, 372, "Mode fenêtré/Plein écran"],
+				[1035, 412, 1724, 452, "Contrôles souris"],
+				[995, 470, 1724, 507, "Déplacer le curseur vers le bas de l’écran"],
+				[1055, 511, 1724, 548, "Fermer la fenêtre du message"],
+				[995, 558, 1724, 595, "Déplacer le curseur vers le haut de l’écran"],
+				[1055, 599, 1724, 636, "Ouvrir le Menu des Modes"],
+				[995, 662, 1724, 699, "Cliquer et glisser du centre de l’écran vers"],
+				[995, 702, 1724, 739, "la droite pour activer l’Avance rapide"],
+				[995, 754, 1724, 791, "Cliquer et glisser du centre de l’écran vers"],
+				[995, 794, 1724, 830, "la gauche pour activer le Retour en arrière"]
+			]
+		}
+	},
 	"chapter_titles": {
 		"0409": "Une personne étrange",
 		"0410": "Voilà ce qui s’est passé hier",
@@ -113,18 +150,21 @@
 			["Point faible", "vulnérable au feu."]
 		]
 	},
-	"ploy_captions": {"2259": "Les Jumeaux bavards"},
+	"ploy_captions": {
+		"2259": "Les Jumeaux bavards"
+	},
 	"warning": {
-		"image": 1955,
-		"title": "Attention",
-		"lines": [
-			"Bienvenue au manoir Kuonji dans la ville de Misaki en plein automne,",
-			"un an après les évènements de « Witch on the holy night ».",
-			"À partir de ce point, nous entrons dans",
-			"un chapitre bonus d’une longue durée de jeu.",
-			"Si vous venez de terminer « Witch on the holy night », nous",
-			"vous conseillons de faire une pause avant de continuer."
-		]
+		"1955": {
+			"title": "Attention",
+			"lines": [
+				"Bienvenue au manoir Kuonji dans la ville de Misaki en plein automne,",
+				"un an après les évènements de « Witch on the holy night ».",
+				"À partir de ce point, nous entrons dans",
+				"un chapitre bonus d’une longue durée de jeu.",
+				"Si vous venez de terminer « Witch on the holy night », nous",
+				"vous conseillons de faire une pause avant de continuer."
+			]
+		}
 	},
 	"deduction_captions": {
 		"1961": "Impossible de le démasquer sans preuve",
@@ -137,19 +177,22 @@
 		"1968": "Le premier n’était pas le bon"
 	},
 	"quote": {
-		"image": 1924,
-		"lines": [
-			"Les plans qui ne sont pas consignés",
-			"par écrit laissent en suspens",
-			"le processus et les résultats."
-		],
-		"author": "Toki Julich"
+		"1924": {
+			"lines": [
+				"Les plans qui ne sont pas consignés",
+				"par écrit laissent en suspens",
+				"le processus et les résultats."
+			],
+			"author": "Toki Julich"
+		}
 	},
-	"outlined_blocks": [
-		{"image": 2397, "blocks": [["« Animal Land", "Terror »"], ["« Fin »"]]}
-	],
-	"speech_bubbles": [
-		{"image": 2091, "text": "Au travail !"}
-	],
-	"apology": {"image": 2256, "text": "Veuillez pardonner l’expression malheureuse employée à l’instant."}
+	"outlined_blocks": {
+		"2397": [["« Animal Land", "Terror »"], ["« Fin »"]]
+	},
+	"speech_bubbles": {
+		"2091": "Au travail !"
+	},
+	"apology": {
+		"2256": "Veuillez pardonner l’expression malheureuse employée à l’instant."
+	}
 }

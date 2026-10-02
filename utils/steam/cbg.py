@@ -1,4 +1,4 @@
-# Encodeur d'images CompressedBG_MT (.cbg) du remaster Steam
+# Encodeur et décodeur d'images CompressedBG_MT (.cbg) du remaster Steam
 #
 # Format : en-tête, puis l'image découpée en bandes de 60 lignes. Chaque bande :
 #  1. prédiction : chaque octet est remplacé par sa différence avec la moyenne
@@ -121,3 +121,87 @@ def encode_cbg(image: Image.Image) -> bytes:
 	offsets = np.cumsum([header_size] + [len(s) for s in stripes[:-1]]).tolist()
 	header = MAGIC + struct.pack("<4I16x", image.width, image.height, STRIPE_HEIGHT, bpp)
 	return header + struct.pack(f"<{len(stripes)}I", *offsets) + b"".join(stripes)
+
+
+def _read_varint(data: bytes, position: int) -> tuple[int, int]:
+	value = shift = 0
+	while True:
+		byte = data[position]
+		position += 1
+		value |= (byte & 0x7F) << shift
+		shift += 7
+		if byte < 0x80:
+			return value, position
+
+
+def _unhuffman(stripe: bytes) -> np.ndarray:
+	size, = struct.unpack_from("<I", stripe)
+	position, weights = 4, []
+	for _ in range(256):
+		weight, position = _read_varint(stripe, position)
+		weights.append(weight)
+	codes, lengths = _huffman_codes(weights)
+	# table de décodage : pour chaque valeur des `width` prochains bits, le symbole et sa longueur
+	width = int(lengths.max())
+	symbol_of = np.zeros(1 << width, np.int64)
+	length_of = np.zeros(1 << width, np.int64)
+	for symbol in np.flatnonzero(lengths):
+		step = 1 << int(lengths[symbol])
+		symbol_of[int(codes[symbol])::step] = symbol
+		length_of[int(codes[symbol])::step] = lengths[symbol]
+	bits = np.unpackbits(np.frombuffer(stripe, np.uint8, offset=position), bitorder="little")
+	bits = np.concatenate([bits, np.zeros(width, np.uint8)])
+	# valeur des `width` bits commençant à chaque position
+	windows = np.zeros(len(bits) - width, np.int64)
+	for k in range(width):
+		windows |= bits[k:len(bits) - width + k].astype(np.int64) << k
+	out = np.empty(size, np.uint8)
+	cursor = 0
+	symbols, steps = symbol_of[windows].tolist(), length_of[windows].tolist()
+	for i in range(size):
+		out[i] = symbols[cursor]
+		cursor += steps[cursor]
+	return out
+
+
+def _unzero_runs(data: np.ndarray, size: int) -> np.ndarray:
+	out = np.zeros(size, np.uint8)
+	raw, position, filled, literal = data.tobytes(), 0, 0, True
+	while filled < size:
+		length, position = _read_varint(raw, position)
+		if literal:
+			out[filled:filled + length] = data[position:position + length]
+			position += length
+		filled += length
+		literal = not literal
+	return out
+
+
+def _unpredict(diff: np.ndarray) -> np.ndarray:
+	p = diff.astype(np.int64)
+	p[0] = np.cumsum(p[0], axis=0) & 0xFF
+	p[:, 0] = np.cumsum(p[:, 0], axis=0) & 0xFF
+	for y in range(1, p.shape[0]):
+		row, up = p[y], p[y - 1]
+		for x in range(1, p.shape[1]):
+			row[x] = (row[x] + ((up[x] + row[x - 1]) >> 1)) & 0xFF
+	return p.astype(np.uint8)
+
+
+def decode_cbg(data: bytes) -> Image.Image:
+	if data[:len(MAGIC)] != MAGIC:
+		raise ValueError("fichier .cbg invalide")
+	width, height, stripe_height, bpp = struct.unpack_from("<4I", data, len(MAGIC))
+	channels = bpp // 8
+	count = (height + stripe_height - 1) // stripe_height
+	offsets = list(struct.unpack_from(f"<{count}I", data, len(MAGIC) + 32)) + [len(data)]
+	rows = []
+	for i in range(count):
+		lines = min(stripe_height, height - i * stripe_height)
+		runs = _unhuffman(data[offsets[i]:offsets[i + 1]])
+		diff = _unzero_runs(runs, lines * width * channels).reshape(lines, width, channels)
+		rows.append(_unpredict(diff))
+	pixels = np.concatenate(rows)
+	if channels >= 3:
+		pixels[:, :, :3] = pixels[:, :, 2::-1]  # BGR -> RGB
+	return Image.fromarray(pixels.squeeze() if channels == 1 else pixels, {1: "L", 3: "RGB", 4: "RGBA"}[channels])

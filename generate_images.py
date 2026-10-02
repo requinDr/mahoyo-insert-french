@@ -2,7 +2,12 @@
 languages, where the English band is replaced), from the texts in
 sources/image-texts.json and the original images read from the game (config.ini).
 
-Usage: python generate_images.py [chapters] [maps] [titles] [sheets] [backgrounds] [captions]   (all by default)
+Every section of the JSON is an edit: {image: what to write}, the image being the number
+of an image shared by all languages (imgNNNN) or the name of an English one (name_en.cbg).
+EDITS gives the function applied to each image of the section; a new kind of edit is a
+function `edit(image: GameImage, config)` that redraws image.target, added to EDITS.
+
+Usage: python generate_images.py [section…]   (all sections by default)
 The PNGs are written to sources/assets-fr; run main.py afterwards.
 """
 import json
@@ -10,38 +15,42 @@ import sys
 from pathlib import Path
 
 import utils.config_importer as conf
-from utils.images import chapter_titles, glow_captions, map_labels, ploy_sheets, ploy_titles, text_backgrounds
+from utils.images import backgrounds, captions, chapter_titles, map_labels, ploy, text_boxes
+from utils.images.game import GameImage
 
 TEXTS = 'sources/image-texts.json'
-GROUPS = ('chapters', 'maps', 'titles', 'sheets', 'backgrounds', 'captions')
+EDITS = {
+	'text_boxes': text_boxes.text_boxes,
+	'chapter_titles': chapter_titles.chapter_title,
+	'map_labels': map_labels.map_labels,
+	'ploy_titles': ploy.title,
+	'ploy_sheets': ploy.sheet,
+	'ploy_captions': ploy.caption,
+	'warning': backgrounds.warning,
+	'apology': backgrounds.apology,
+	'speech_bubbles': backgrounds.speech_bubble,
+	'deduction_captions': captions.glow_caption,
+	'quote': captions.quote,
+	'outlined_blocks': captions.outlined_blocks,
+}
 
 
-def main(groups: list[str]):
-	unknown = [g for g in groups if g not in GROUPS]
-	if unknown:
-		sys.exit(f"Groupe inconnu : {', '.join(unknown)} (choix : {', '.join(GROUPS)})")
+def main(sections: list[str]):
 	with open(TEXTS, encoding='utf-8') as f:
-		texts = json.load(f)
+		texts = {key: value for key, value in json.load(f).items() if not key.startswith('_')}
+	unknown = [s for s in sections + list(texts) if s not in EDITS]
+	if unknown:
+		sys.exit(f"Section inconnue : {', '.join(unknown)} (choix : {', '.join(EDITS)})")
 	out_dir = Path(conf.images_folder)
 	written = []
-	if 'chapters' in groups:
-		written += chapter_titles.generate(texts['chapter_titles'], out_dir)
-	if 'maps' in groups:
-		written += map_labels.generate(texts['map_labels'], out_dir)
-	if 'titles' in groups:
-		written += ploy_titles.generate(texts['ploy_titles'], out_dir)
-	if 'sheets' in groups:
-		written += ploy_sheets.generate(texts['ploy_sheets'], texts['ploy_captions'], out_dir)
-	if 'backgrounds' in groups:
-		written.append(text_backgrounds.warning(texts['warning'], out_dir))
-		written.append(text_backgrounds.apology(texts['apology'], out_dir))
-		written += [text_backgrounds.speech_bubble(bubble, out_dir) for bubble in texts['speech_bubbles']]
-	if 'captions' in groups:
-		written += glow_captions.captions(texts['deduction_captions'], out_dir)
-		written.append(glow_captions.quote(texts['quote'], out_dir))
-		written += [glow_captions.outlined_blocks(image, out_dir) for image in texts['outlined_blocks']]
+	for section in sections:
+		for key, config in texts.get(section, {}).items():
+			image = GameImage(key)
+			EDITS[section](image, config)
+			image.save(out_dir)
+			written.append(image.file_name)
 	print(f"{len(written)} images écrites dans {out_dir} : {', '.join(written)}")
 
 
 if __name__ == '__main__':
-	main(sys.argv[1:] or list(GROUPS))
+	main(sys.argv[1:] or list(EDITS))
