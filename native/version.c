@@ -176,14 +176,29 @@ static const BYTE original_copy_word[] = {
 static BOOL is_word_character(uint16_t c) {
     if (c >= 0x21 && c <= 0x7e) return c != '<';  /* règle d'origine ; '<' ouvre une balise */
     if (c >= 0xa0 && c <= 0x24f) return TRUE;     /* latin étendu */
-    return c >= 0x2018 && c <= 0x201f;            /* guillemets et apostrophes typographiques */
+    if (c >= 0x2014 && c <= 0x2015) return TRUE;  /* tirets longs — ― collés au mot */
+    if (c >= 0x2018 && c <= 0x201f) return TRUE;  /* guillemets et apostrophes typographiques */
+    return c >= 0x300c && c <= 0x300f;            /* 「」『』 : restent collés au mot voisin */
 }
 
-/* Même convention d'appel que l'original : copie le mot de `text` dans `word`. */
+/* Ponctuation française précédée d'une espace : reste sur la ligne du mot précédent. */
+static BOOL is_high_punctuation(uint16_t c) {
+    return c == '!' || c == '?' || c == ';' || c == ':' || c == 0xbb /* » */;
+}
+
 static int copy_word(uint16_t *word, const uint16_t *text) {
     int length = 0;
-    while (is_word_character(text[length])) {
-        word[length] = text[length];
+    for (;;) {
+        while (is_word_character(text[length])) {
+            word[length] = text[length];
+            ++length;
+        }
+        /* « mot ! » et « « mot » : l'espace ne permet pas de couper la ligne. */
+        BOOL before_punctuation = text[length] == ' ' && is_high_punctuation(text[length + 1]);
+        BOOL after_guillemet = text[length] == ' ' && length > 0 && word[length - 1] == 0xab /* « */
+                               && is_word_character(text[length + 1]);
+        if (length == 0 || !(before_punctuation || after_guillemet)) break;
+        word[length] = ' ';
         ++length;
     }
     word[length] = 0;
@@ -201,11 +216,23 @@ static const BYTE render_spacing_before[] = {0x41, 0x81, 0xfd, 0x80, 0x00, 0x00,
 static const BYTE render_spacing_after[] = {0x41, 0x81, 0xfd, 0x50, 0x02, 0x00, 0x00,    /* cmp r13d, 0x250 */
                                             0x73, 0x07, 0xf3, 0x0f, 0x10, 0x4f, 0x64};
 
+/* Mots de 5 lettres et plus : le moteur retranche de leur largeur mesurée une
+ * estimation fondée sur le nombre de lettres, réglée pour l'anglais. Les mots
+ * français paraissent alors plus courts qu'ils ne sont et débordent à droite.
+ * Le saut conditionnel qui active ce retranchement devient inconditionnel. */
+static const BYTE long_word_before[] = {0x85, 0xdb, 0x0f, 0x84, 0x82, 0x03, 0x00, 0x00,
+                                        0x83, 0xbd, 0xc8, 0x1b, 0x00, 0x00, 0x00,
+                                        0x0f, 0x84, 0x60, 0x03, 0x00, 0x00};  /* je (pas de retranchement) */
+static const BYTE long_word_after[] = {0x85, 0xdb, 0x0f, 0x84, 0x82, 0x03, 0x00, 0x00,
+                                       0x83, 0xbd, 0xc8, 0x1b, 0x00, 0x00, 0x00,
+                                       0xe9, 0x61, 0x03, 0x00, 0x00, 0x90};   /* jmp, même cible */
+
 typedef struct { const BYTE *before; const BYTE *after; size_t size; BYTE *address; } code_patch;
 static code_patch code_patches[] = {
     {original_copy_word, NULL, sizeof(original_copy_word), NULL},  /* redirigé vers copy_word */
     {measure_spacing_before, measure_spacing_after, sizeof(measure_spacing_before), NULL},
     {render_spacing_before, render_spacing_after, sizeof(render_spacing_before), NULL},
+    {long_word_before, long_word_after, sizeof(long_word_before), NULL},
 };
 
 static BYTE *find_unique(const BYTE *pattern, size_t size) {
