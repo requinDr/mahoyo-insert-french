@@ -3,6 +3,7 @@ import csv
 import io
 import re
 import shutil
+from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 
 from PIL import Image
@@ -39,38 +40,53 @@ def french_name(name: str) -> str | None:
 	return new if new != name else None
 
 
+def _encode_image(path: Path, game_dir: str) -> bytes:
+	"""PNG converti au format du jeu : .mzp pour une image commune à toutes les langues
+	(à partir de l'originale), .cbg sinon."""
+	with Image.open(path) as image:
+		if not SHARED_IMAGE.fullmatch(path.stem):
+			return encode_cbg(image)
+		original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
+		if original is None:
+			raise ValueError(f"{path.name} : {path.stem}.mzp introuvable dans les archives du jeu")
+		return encode_mzp(original, image)
+
+
 def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir: str, game_dir: str) -> dict[str, bytes]:
 	files: dict[str, bytes] = {}
 
-	# Chaque ressource anglaise a une copie française, pour que toutes les
-	# redirections faites par la DLL trouvent leur fichier.
+	# Ressources propres à l'anglais, sous leur nom français. La DLL ne redirige un nom écrit
+	# en clair dans WoH.exe que si l'archive contient sa version française : seuls les noms
+	# composés par le jeu (préfixe + suffixe "_en", toujours redirigé) ont besoin d'une copie.
+	exe = (Path(game_dir) / "WoH.exe").read_bytes()
+	english = {}
 	for archive in ENGLISH_ARCHIVES:
 		for name, data in read_hfa(str(Path(game_dir) / archive)).items():
 			new = french_name(name)
 			if new:
-				files[new] = data
+				english[new] = data
+				if name.encode("utf-16-le") not in exe:
+					files[new] = data
 
-	# Images traduites (PNG converties en .cbg ou .mzp) et polices
-	assets = []
+	# Images traduites (PNG converties en .mzp ou .cbg), encodées en parallèle, et polices
+	images = []
 	for path in sorted(Path(images_dir).glob("*.png")):
-		shared = SHARED_IMAGE.fullmatch(path.stem)
-		if shared:
-			original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
-			if original is None:
-				raise ValueError(f"{path.name} : {path.stem}.mzp introuvable dans les archives du jeu")
-			with Image.open(path) as image:
-				files[path.stem + ".mzp"] = encode_mzp(original, image)
+		if SHARED_IMAGE.fullmatch(path.stem):
+			images.append((path.stem + ".mzp", path))
+		elif path.with_suffix(".cbg").name in english:
+			images.append((path.with_suffix(".cbg").name, path))
 		else:
-			assets.append((path.with_suffix(".cbg").name, path))
-	assets += [(path.name, path) for path in sorted(Path(fonts_dir).iterdir())]
-	for name, path in assets:
-		if name not in files:
 			raise ValueError(f"{path.name} ne correspond à aucune ressource anglaise du jeu")
-		if path.suffix == ".png":
-			with Image.open(path) as image:
-				files[name] = encode_cbg(image)
-		else:
-			files[name] = path.read_bytes()
+	# les .mzp d'abord, comme les images communes s'ajoutent aux ressources anglaises copiées
+	images.sort(key=lambda image: not image[0].endswith(".mzp"))
+	with ProcessPoolExecutor() as pool:
+		encoded = pool.map(_encode_image, [path for _, path in images], [game_dir] * len(images))
+		for (name, _), data in zip(images, encoded):
+			files[name] = data
+	for path in sorted(Path(fonts_dir).iterdir()):
+		if path.name not in english:
+			raise ValueError(f"{path.name} ne correspond à aucune ressource anglaise du jeu")
+		files[path.name] = path.read_bytes()
 
 	text = "".join(lines).replace("\r\n", "\n").replace("\n", "\r\n")
 	files["script_text_fr.ctd"] = text.encode("utf-8")
