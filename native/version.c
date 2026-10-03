@@ -7,7 +7,8 @@
  *  - le titre de la fenêtre se termine par « - Patch FR » ;
  *  - les particules des menus suivent la largeur des textes français ;
  *  - les lettres accentuées font partie des mots comme l'ASCII : plus de retour
- *    à la ligne au milieu d'un mot, et même espacement que les autres lettres.
+ *    à la ligne au milieu d'un mot, et même espacement que les autres lettres ;
+ *  - les libellés des curseurs des paramètres ont toute leur largeur.
  * Les fonctions de version.dll sont transmises à la vraie DLL système.
  */
 #define WIN32_LEAN_AND_MEAN
@@ -261,12 +262,29 @@ static const BYTE long_word_after[] = {0x85, 0xdb, 0x0f, 0x84, 0x82, 0x03, 0x00,
                                        0x83, 0xbd, 0xc8, 0x1b, 0x00, 0x00, 0x00,
                                        0xe9, 0x61, 0x03, 0x00, 0x00, 0x90};   /* jmp, même cible */
 
+/* Libellés des curseurs des paramètres (« Lent … Rapide ») : le moteur recompose
+ * l'image (deux libellés de 122 px côte à côte) dans une texture de 1132 px, le
+ * libellé de droite à x = 1010, mais n'en dessine que 1100 px : seuls 90 px du
+ * libellé de droite s'affichaient. Les deux curseurs qui l'utilisent dessinent
+ * maintenant toute la texture (mov edx, 1100 -> 1132 avant l'appel qui crée leurs
+ * rectangles ; l'appel suivant, différent pour chacun, rend le motif unique). */
+static const BYTE slider_label1_before[] = {0xba, 0x4c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
+                                            0xe8, 0x2e, 0xb6, 0x03, 0x00};
+static const BYTE slider_label1_after[] = {0xba, 0x6c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
+                                           0xe8, 0x2e, 0xb6, 0x03, 0x00};
+static const BYTE slider_label2_before[] = {0xba, 0x4c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
+                                            0xe8, 0x21, 0x95, 0x03, 0x00};
+static const BYTE slider_label2_after[] = {0xba, 0x6c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
+                                           0xe8, 0x21, 0x95, 0x03, 0x00};
+
 typedef struct { const BYTE *before; const BYTE *after; size_t size; BYTE *address; } code_patch;
 static code_patch code_patches[] = {
     {original_copy_word, NULL, sizeof(original_copy_word), NULL},  /* redirigé vers copy_word */
     {measure_spacing_before, measure_spacing_after, sizeof(measure_spacing_before), NULL},
     {render_spacing_before, render_spacing_after, sizeof(render_spacing_before), NULL},
     {long_word_before, long_word_after, sizeof(long_word_before), NULL},
+    {slider_label1_before, slider_label1_after, sizeof(slider_label1_before), NULL},
+    {slider_label2_before, slider_label2_after, sizeof(slider_label2_before), NULL},
 };
 
 static BYTE *find_unique(const BYTE *pattern, size_t size) {

@@ -48,6 +48,7 @@ Une partie des images `imgNNNN.png` est produite par programme. Le texte vient d
 
 - écran d'avertissement (`caution`), onglets des paramètres (`btn_base0`) et boutons « Retour » / « Lire » des archives (`archive_return`, `archive_read`) ;
 - aide des commandes et panneaux d'options (`conf_manual1`, `panel1`, `panel3`, `panel4`, à partir des images `_en`) ;
+- choix des options « Bas / Haut » et « Lent / Rapide » (`conf_stxt01`, `conf_stxt2`) ;
 - titres de chapitre (img0409-0422) ;
 - plan du parc (img1372-1375, img1378-1379, img2393-2395) ;
 - logos « Tout sur les Ploy » (img2111-2112, img2174-2175) ;

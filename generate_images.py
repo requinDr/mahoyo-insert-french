@@ -34,6 +34,7 @@ EDITS = {
 	'archive_chapters': captions.glow_caption,
 	'glow_buttons': captions.glow_buttons,
 	'glow_tabs': buttons.glow_tabs,
+	'option_labels': captions.option_labels,
 	'deduction_captions': captions.glow_caption,
 	'quote': captions.quote,
 	'outlined_blocks': captions.outlined_blocks,

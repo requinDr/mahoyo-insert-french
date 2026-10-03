@@ -257,6 +257,10 @@
 		"archive_read": {"texts": ["Lire", "Lire", "Lire", "Lire"], "states": 1},
 		"btn_base0": {"texts": ["Audio", "Voix", "Textes", "Contrôles", "Détails des contrôles"], "states": 4}
 	},
+	"option_labels": {
+		"conf_stxt01": {"texts": ["Bas", "Haut"], "rows": 2},
+		"conf_stxt2": {"texts": ["Lent", "Rapide"], "rows": 2}
+	},
 	"glow_buttons": {
 		"archive_back": {"text": "Retour", "states": 4}
 	},

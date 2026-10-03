@@ -36,11 +36,13 @@ def _small_end(core, cap):
 	return max(h for _, _, h in small), small[-1][0] - parts[-1][1]
 
 
-def _glow_line(band, text, right, spacing=None):
-	"""Band redrawn with one line, centered like its English line, with a glow; size, letter
+def _glow_line(band, text, right, spacing=None, align='center'):
+	"""Band redrawn with one line, placed like its English line, with a glow; size, letter
 	spacing, colors and opacity of the letters and of the glow are the English ones.
-	right: right edge of the area the line must stay in (centered on the English line).
+	right: right edge of the area the line must stay in.
 	spacing: letter spacing in font sizes (measured on the English line by default).
+	align: 'center' (default), 'left' or 'right': what the line keeps of the English one,
+	its center or its left or right edge.
 	Returns the band and the letter spacing used."""
 	alpha = band[..., 3]
 	strongest = alpha.max()
@@ -53,13 +55,17 @@ def _glow_line(band, text, right, spacing=None):
 	cap, baseline = first_letter(core)
 	xs = np.flatnonzero(core.any(0))
 	center = (xs[0] + xs[-1]) / 2
-	limit = 2 * min(center, right - center)  # inside the original area
+	glow = np.flatnonzero((alpha > 0).any(0))  # room left for the glow at the edges
+	limit = {'center': 2 * min(center, right - center),  # inside the original area
+	         'left': right - (glow[-1] - xs[-1]) - xs[0],
+	         'right': xs[-1] - (xs[0] - glow[0])}[align]
 	small_text = text.get('small') if isinstance(text, dict) else None
 	main_text = text['text'] if isinstance(text, dict) else text
 	if small_text is None:
 		font, tracking, [(mask, offset)] = fit_lines([main_text], 'helvetica', size_for_height('helvetica', cap), core, cap,
 		                                          limit, spacing)
-		pieces = [(mask, offset, 0.0)]
+		half = mask.shape[1] / SS / 2
+		pieces = [(mask, offset, {'center': 0.0, 'left': xs[0] + half - center, 'right': xs[-1] + 1 - half - center}[align])]
 	else:
 		small_cap, gap = _small_end(core, cap)
 		size = size_for_height('helvetica', cap)
@@ -80,9 +86,11 @@ def _glow_line(band, text, right, spacing=None):
 		layer.paste_centered(mask, offset, center + shift, baseline)
 	letters = layer.alpha()
 	opacity = alpha / strongest
-	glow = (alpha > 0.04 * strongest) & (alpha < 0.47 * strongest)
-	effect = blur(letters, *fit_blur(core, opacity, ring(core, 1, 25)))
-	result = over(np.zeros_like(band), np.median(band[glow][:, :3], 0), effect * strongest / 255)
+	glow = (alpha > 0.04 * strongest) & (alpha < 0.47 * strongest) & ~ndimage.binary_dilation(core, iterations=2)
+	result = np.zeros_like(band)
+	if glow.sum() > 0.5 * core.sum():  # no glow: only the antialiasing of the letters
+		effect = blur(letters, *fit_blur(core, opacity, ring(core, 1, 25)))
+		result = over(result, np.median(band[glow][:, :3], 0), effect * strongest / 255)
 	return over(result, letter_color, letters * strongest / 255), tracking / font.size
 
 
@@ -106,6 +114,22 @@ def glow_buttons(image: GameImage, config: dict):
 		cell = result[:, i * width:(i + 1) * width]
 		cell[:], measured = _glow_line(cell.copy(), config['text'], width, spacing)
 		spacing = measured if spacing is None else spacing
+	image.target = result
+
+
+def option_labels(image: GameImage, config: dict):
+	"""Labels at both ends of a setting (Low / High…), one state per row (hovered with a
+	glow, normal without): config {"texts": [left, right], "rows": number of states}.
+	Each word is redrawn like its English one, the left one ending and the right one
+	starting where the English words do, with the natural letter spacing of the font:
+	these words are too short (2 or 3 gaps) to measure the English spacing, which matches
+	the natural one (their widths agree within 0.02 font size)."""
+	height, width = image.height // config['rows'], image.width // 2
+	result = image.target.copy()
+	for column, (text, align) in enumerate(zip(config['texts'], ('right', 'left'))):
+		for row in range(config['rows']):
+			cell = result[row * height:(row + 1) * height, column * width:(column + 1) * width]
+			cell[:], _ = _glow_line(cell.copy(), text, width, spacing=0.0, align=align)
 	image.target = result
 
 
