@@ -66,8 +66,17 @@ FORWARD(VerQueryValueW)
 
 /* ---------- Archive française ---------- */
 
-/* Entrées de data00999.hfa, triées par nom (le nom est le premier champ). */
-static struct archive_entry { char name[HFA_NAME_SIZE]; DWORD offset, size; } *archive_entries;
+/* Entrées de data00999.hfa, triées par nom (le nom est le premier champ). Une image
+ * commune à toutes les langues y est un delta (DELTA_MAGIC) : seules ses tuiles modifiées,
+ * le fichier complet étant reconstruit à partir de l'original du jeu (voir plus bas). */
+#define DELTA_MAGIC "MZPDELTA"
+#define DELTA_HEADER_SIZE 18  /* magic, taille de l'original, taille du résultat, nombre d'entrées */
+static struct archive_entry {
+    char name[HFA_NAME_SIZE];
+    DWORD offset, size;
+    BOOL delta;
+    DWORD original_size, result_size;  /* d'un delta */
+} *archive_entries;
 static DWORD archive_count;
 static HANDLE archive_file = INVALID_HANDLE_VALUE;  /* reste ouvert pour servir nos fichiers */
 static DWORD archive_data_start;
@@ -115,6 +124,17 @@ static BOOL load_archive(void) {
         memcpy(&current->size, entry + HFA_NAME_SIZE + 4, 4);
         BYTE **target = NULL;
         DWORD *target_size = NULL;
+        if (current->size >= DELTA_HEADER_SIZE) {
+            BYTE start[DELTA_HEADER_SIZE];
+            LARGE_INTEGER position;
+            position.QuadPart = (LONGLONG)data_start + current->offset;
+            if (!SetFilePointerEx(file, position, NULL, FILE_BEGIN) || !read_exact(file, start, sizeof(start))) goto done;
+            if (memcmp(start, DELTA_MAGIC, 8) == 0) {
+                current->delta = TRUE;
+                memcpy(&current->original_size, start + 8, 4);
+                memcpy(&current->result_size, start + 12, 4);
+            }
+        }
         if (strcmp(current->name, TEXT5_ENTRY) == 0) {
             target = &text5;
             target_size = &text5_size;
@@ -450,22 +470,41 @@ static HANDLE WINAPI hook_FindFirstFileExW(LPCWSTR path, FINDEX_INFO_LEVELS leve
  * Une ressource de data00999.hfa qui porte le même nom qu'une ressource d'une autre
  * archive (ex. img2168.mzp, image commune à toutes les langues, que le jeu ne cherche
  * que dans data02002.hfa) doit la remplacer. Quand le jeu lit la table de cette autre
- * archive, on fait pointer l'entrée après la fin du fichier, sur une zone virtuelle
- * dont les lectures sont servies depuis data00999.hfa. Rien n'est modifié sur le disque. */
+ * archive, on fait pointer l'entrée après la fin du fichier, sur une zone virtuelle dont
+ * les lectures sont servies par la DLL : depuis data00999.hfa, ou, pour un delta, depuis
+ * le fichier reconstruit en mémoire au premier accès (original de l'archive du jeu, dont
+ * les tuiles modifiées sont remplacées). Rien n'est modifié sur le disque. */
 
 #define MAX_ARCHIVES 256
+#define MAX_REDIRECTS 4096
 static struct open_archive {
     HANDLE handle;
     DWORD count;              /* 0 tant que l'en-tête n'est pas lu */
     ULONGLONG virtual_start;  /* début de la zone virtuelle : taille du fichier arrondie */
+    wchar_t path[MAX_PATH];   /* pour relire les originaux des deltas */
 } open_archives[MAX_ARCHIVES];
 static SRWLOCK open_archives_lock = SRWLOCK_INIT;
 
+/* Entrée redirigée vers la zone virtuelle d'une archive du jeu. Rattachée au fichier (son
+ * chemin) et non au handle : le jeu peut lire la table par un handle et l'entrée par un autre. */
+static struct redirect {
+    ULONGLONG start;              /* position dans la zone virtuelle */
+    DWORD size;                   /* taille vue par le jeu */
+    struct archive_entry *entry;
+    ULONGLONG original_offset;    /* position de l'original dans l'archive du jeu (delta) */
+    wchar_t path[MAX_PATH];       /* archive du jeu (delta) */
+} redirects[MAX_REDIRECTS];
+static int redirect_count;
+
+/* Fichiers reconstruits des deltas, gardés en mémoire (une fois par entrée). */
+static BYTE *built_deltas[100000];
+
 /* Retient (ou oublie) un fichier ouvert par le jeu. */
-static void track_file(HANDLE handle, BOOL is_other_archive) {
+static void track_file(HANDLE handle, const wchar_t *path, BOOL is_other_archive) {
     if (handle == INVALID_HANDLE_VALUE) return;
     LARGE_INTEGER size = {0};
-    if (is_other_archive && !GetFileSizeEx(handle, &size)) is_other_archive = FALSE;
+    if (is_other_archive && (!path || wcslen(path) >= MAX_PATH || !GetFileSizeEx(handle, &size)))
+        is_other_archive = FALSE;
     AcquireSRWLockExclusive(&open_archives_lock);
     int free_slot = -1;
     for (int i = 0; i < MAX_ARCHIVES; ++i) {
@@ -473,9 +512,11 @@ static void track_file(HANDLE handle, BOOL is_other_archive) {
         if (!open_archives[i].handle && free_slot < 0) free_slot = i;
     }
     if (is_other_archive && free_slot >= 0) {
-        open_archives[free_slot].handle = handle;
-        open_archives[free_slot].count = 0;
-        open_archives[free_slot].virtual_start = ((ULONGLONG)size.QuadPart + 0xFFFF) & ~0xFFFFULL;
+        struct open_archive *archive = &open_archives[free_slot];
+        archive->handle = handle;
+        archive->count = 0;
+        archive->virtual_start = ((ULONGLONG)size.QuadPart + 0xFFFF) & ~0xFFFFULL;
+        wcscpy_s(archive->path, MAX_PATH, path);
     }
     ReleaseSRWLockExclusive(&open_archives_lock);
 }
@@ -492,6 +533,26 @@ static BOOL find_open_archive(HANDLE handle, struct open_archive *result) {
     }
     ReleaseSRWLockShared(&open_archives_lock);
     return found;
+}
+
+/* Place une entrée dans la zone virtuelle de son archive (à la même place si la table est
+ * relue, par n'importe quel handle). */
+static struct redirect *place(struct open_archive *archive, struct archive_entry *entry, DWORD size,
+                              ULONGLONG original_offset) {
+    ULONGLONG end = archive->virtual_start;
+    for (int i = 0; i < redirect_count; ++i) {
+        if (_wcsicmp(redirects[i].path, archive->path) != 0) continue;
+        if (redirects[i].entry == entry) return &redirects[i];
+        end = max(end, (redirects[i].start + redirects[i].size + 0xF) & ~0xFULL);
+    }
+    if (redirect_count == MAX_REDIRECTS) return NULL;
+    struct redirect *redirect = &redirects[redirect_count++];
+    redirect->start = end;
+    redirect->size = size;
+    redirect->entry = entry;
+    redirect->original_offset = original_offset;
+    wcscpy_s(redirect->path, MAX_PATH, archive->path);
+    return redirect;
 }
 
 static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *buffer, DWORD size) {
@@ -511,11 +572,18 @@ static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *b
             if (entry + HFA_NAME_SIZE + 8 > position + size) break;
             BYTE *name = buffer + (entry - position);
             if (!memchr(name, 0, HFA_NAME_SIZE)) continue;
-            const struct archive_entry *replacement = find_entry((const char *)name);
+            struct archive_entry *replacement = (struct archive_entry *)find_entry((const char *)name);
             if (!replacement) continue;
-            const ULONGLONG offset = archive->virtual_start - data_start + replacement->offset;
-            if (offset > 0xFFFFFFFFULL) continue;
-            const DWORD fields[2] = {(DWORD)offset, replacement->size};
+            DWORD fields[2];
+            memcpy(fields, name + HFA_NAME_SIZE, sizeof(fields));
+            /* un delta ne vaut que pour l'original prévu ; sinon l'original est gardé */
+            if (replacement->delta && fields[1] != replacement->original_size) continue;
+            struct redirect *redirect = place(archive, replacement,
+                                              replacement->delta ? replacement->result_size : replacement->size,
+                                              data_start + fields[0]);
+            if (!redirect || redirect->start - data_start > 0xFFFFFFFFULL) continue;
+            fields[0] = (DWORD)(redirect->start - data_start);
+            fields[1] = redirect->size;
             memcpy(name + HFA_NAME_SIZE, fields, sizeof(fields));
         }
         break;
@@ -523,16 +591,109 @@ static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *b
     ReleaseSRWLockExclusive(&open_archives_lock);
 }
 
-/* Lecture dans la zone virtuelle : renvoie les octets correspondants de data00999.hfa. */
-static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULONGLONG position,
-                         LPVOID buffer, DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
+static BOOL read_archive(DWORD offset, void *buffer, DWORD size) {
     LARGE_INTEGER source;
-    source.QuadPart = (LONGLONG)(archive_data_start + (position - archive->virtual_start));
-    DWORD done = 0;
+    source.QuadPart = (LONGLONG)archive_data_start + offset;
     AcquireSRWLockExclusive(&archive_file_lock);
-    BOOL result = SetFilePointerEx(archive_file, source, NULL, FILE_BEGIN) &&
-                  real_ReadFile(archive_file, buffer, size, &done, NULL);
+    BOOL result = SetFilePointerEx(archive_file, source, NULL, FILE_BEGIN) && read_exact(archive_file, buffer, size);
     ReleaseSRWLockExclusive(&archive_file_lock);
+    return result;
+}
+
+static DWORD read_u16(const BYTE *p) { WORD value; memcpy(&value, p, 2); return value; }
+static DWORD read_u32(const BYTE *p) { DWORD value; memcpy(&value, p, 4); return value; }
+
+/* Fichier complet d'un delta : les entrées de l'original (archive mrgd00 : table de
+ * [secteur, décalage, nombre de secteurs, taille & 0xFFFF], secteurs de 0x800 octets), les
+ * modifiées remplacées, réécrites comme utils/steam/mzp.py (_write_entries). */
+static BYTE *build_delta(const struct redirect *redirect) {
+    const struct archive_entry *entry = redirect->entry;
+    BYTE *original = HeapAlloc(GetProcessHeap(), 0, entry->original_size);
+    BYTE *delta = HeapAlloc(GetProcessHeap(), 0, entry->size);
+    BYTE *result = HeapAlloc(GetProcessHeap(), 0, entry->result_size);
+    HANDLE file = INVALID_HANDLE_VALUE;
+    BOOL success = FALSE;
+    if (!original || !delta || !result || !read_archive(entry->offset, delta, entry->size)) goto done;
+    file = real_CreateFileW(redirect->path, GENERIC_READ, FILE_SHARE_READ | FILE_SHARE_WRITE, NULL, OPEN_EXISTING, 0, NULL);
+    LARGE_INTEGER position;
+    position.QuadPart = (LONGLONG)redirect->original_offset;
+    if (file == INVALID_HANDLE_VALUE || !SetFilePointerEx(file, position, NULL, FILE_BEGIN) ||
+        !read_exact(file, original, entry->original_size)) goto done;
+    if (entry->original_size < 8 || memcmp(original, "mrgd00", 6) != 0) goto done;
+    const DWORD count = read_u16(original + 6);
+    const DWORD changed = read_u16(delta + 16);
+    const DWORD table_end = 8 + count * 8;
+    if (table_end > entry->original_size || table_end > entry->result_size ||
+        DELTA_HEADER_SIZE + changed * 6 > entry->size) goto done;
+    memcpy(result, original, 8);
+    DWORD written = 0;  /* octets écrits après la table */
+    for (DWORD i = 0; i < count; ++i) {
+        const BYTE *item = original + 8 + i * 8;
+        /* entrée de l'original : sa taille se retrouve à partir de son nombre de secteurs */
+        const DWORD start = read_u16(item) * 0x800u + read_u16(item + 2);
+        const DWORD sectors = read_u16(item + 4);
+        DWORD length = read_u16(item + 6);
+        while ((start + length + 0x7FFu) / 0x800u - start / 0x800u < sectors) length += 0x800u;
+        const BYTE *data = original + table_end + start;
+        BOOL replaced = FALSE;
+        DWORD offset = DELTA_HEADER_SIZE + changed * 6;
+        for (DWORD k = 0; k < changed; ++k) {
+            const BYTE *change = delta + DELTA_HEADER_SIZE + k * 6;
+            if (read_u16(change) == i) {
+                data = delta + offset;
+                length = read_u32(change + 2);
+                replaced = TRUE;
+                break;
+            }
+            offset += read_u32(change + 2);
+        }
+        if (replaced ? offset + length > entry->size : table_end + start + length > entry->original_size) goto done;
+        const DWORD padding = 8 - length % 8;
+        if (table_end + written + length + padding > entry->result_size) goto done;
+        const WORD fields[4] = {(WORD)(written / 0x800u), (WORD)(written % 0x800u),
+                                (WORD)((written + length + 0x7FFu) / 0x800u - written / 0x800u), (WORD)length};
+        memcpy(result + 8 + i * 8, fields, sizeof(fields));
+        memcpy(result + table_end + written, data, length);
+        memset(result + table_end + written + length, 0xFF, padding);
+        written += length + padding;
+    }
+    success = table_end + written == entry->result_size;
+done:
+    if (file != INVALID_HANDLE_VALUE) CloseHandle(file);
+    if (original) HeapFree(GetProcessHeap(), 0, original);
+    if (delta) HeapFree(GetProcessHeap(), 0, delta);
+    if (!success && result) {
+        HeapFree(GetProcessHeap(), 0, result);
+        result = NULL;
+    }
+    return result;
+}
+
+/* Lecture dans la zone virtuelle : l'entrée redirigée qui contient la position. */
+static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULONGLONG position, LPVOID buffer,
+                         DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
+    BOOL result = FALSE;
+    DWORD done = 0;
+    AcquireSRWLockExclusive(&open_archives_lock);
+    for (int i = 0; i < redirect_count; ++i) {
+        const struct redirect *redirect = &redirects[i];
+        if (position < redirect->start || position >= redirect->start + redirect->size ||
+            _wcsicmp(redirect->path, archive->path) != 0) continue;
+        const DWORD offset = (DWORD)(position - redirect->start);
+        done = min(size, redirect->size - offset);
+        if (!redirect->entry->delta) {
+            result = read_archive(redirect->entry->offset + offset, buffer, done);
+        } else {
+            BYTE **built = &built_deltas[redirect->entry - archive_entries];
+            if (!*built) *built = build_delta(redirect);
+            if (*built) {
+                memcpy(buffer, *built + offset, done);
+                result = TRUE;
+            }
+        }
+        break;
+    }
+    ReleaseSRWLockExclusive(&open_archives_lock);
     if (!result) return FALSE;
     if (read) *read = done;
     if (overlapped) {
@@ -554,7 +715,7 @@ static HANDLE WINAPI hook_CreateFileW(LPCWSTR path, DWORD access, DWORD share, L
     HANDLE handle = real_CreateFileW(path, access, share, security, disposition, flags, template_file);
     const wchar_t *file_name = path ? wcsrchr(path, L'\\') : NULL;
     file_name = file_name ? file_name + 1 : path;
-    track_file(handle, archive && french_active && _wcsicmp(file_name, ARCHIVE_NAME) != 0);
+    track_file(handle, path, archive && french_active && _wcsicmp(file_name, ARCHIVE_NAME) != 0);
     return handle;
 }
 

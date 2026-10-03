@@ -11,13 +11,17 @@ from PIL import Image
 from utils.steam.cbg import encode_cbg
 from utils.steam.hfa import find_in_archives, read_hfa, write_hfa
 from utils.steam.menu_cursors import DATA_PATCHES_ENTRY, data_patches
-from utils.steam.mzp import encode_mzp
+from utils.steam.mzp import decode_mzp, encode_mzp_delta
 
 ARCHIVE_NAME = "data00999.hfa"
 DLL_NAME = "version.dll"
 TEXT5_ENTRY = "TEXT5_fr.csv"  # nom attendu par native/version.c
 # Archives Steam contenant les images, polices et textes propres à l'anglais
 ENGLISH_ARCHIVES = ("data00000.hfa", "data00100.hfa")
+# Une image commune à toutes les langues est faite de bandes horizontales ja, en, zc, zt ;
+# son PNG ne contient que la bande anglaise, redessinée
+LANGUAGE_BANDS = 4
+ENGLISH_BAND = 1
 # Précompilée depuis native/version.c (voir native/build_dll.py)
 DLL_PATH = Path(__file__).resolve().parents[2] / "native" / "version.dll"
 
@@ -37,15 +41,22 @@ def french_name(name: str) -> str | None:
 
 
 def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
-	"""PNG converti au format du jeu : .cbg pour une ressource propre à l'anglais, .mzp pour
-	une image commune à toutes les langues (à partir de l'originale)."""
+	"""PNG converti au format du jeu : .cbg pour une ressource propre à l'anglais ; pour une
+	image commune à toutes les langues (PNG de sa seule bande anglaise), delta du .mzp
+	d'origine (ses tuiles modifiées), que version.dll applique à l'original lu dans
+	l'archive du jeu."""
 	with Image.open(path) as image:
 		if name.endswith(".cbg"):
 			return encode_cbg(image)
 		original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
 		if original is None:
 			raise ValueError(f"{path.name} : {path.stem}.mzp introuvable dans les archives du jeu")
-		return encode_mzp(original, image)
+		full = decode_mzp(original).convert("RGBA")
+		height = full.height // LANGUAGE_BANDS
+		if image.size != (full.width, height):
+			raise ValueError(f"{path.name} : {image.width}x{image.height} au lieu de {full.width}x{height} (bande anglaise)")
+		full.paste(image.convert("RGBA"), (0, ENGLISH_BAND * height))
+		return encode_mzp_delta(original, full)  # tuiles modifiées seulement, voir version.dll
 
 
 def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir: str, game_dir: str) -> dict[str, bytes]:

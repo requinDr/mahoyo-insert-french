@@ -2,7 +2,8 @@
 
 Two kinds of images:
 - shared by all languages (imgNNNN.mzp named by their number, or name.mzp named by name):
-  4 horizontal bands ja, en, zc, zt; the patch redraws the English one;
+  4 horizontal bands ja, en, zc, zt; the patch redraws the English one, saved alone (the
+  patch build puts it back into the original image);
 - English images (name_en.cbg, named by name): the whole image is redrawn, saved as name_fr.
 """
 from pathlib import Path
@@ -11,13 +12,10 @@ import numpy as np
 from PIL import Image
 
 import utils.config_importer as conf
-from utils.steam.build_patch import ARCHIVE_NAME
+from utils.steam.build_patch import ARCHIVE_NAME, ENGLISH_BAND, LANGUAGE_BANDS
 from utils.steam.cbg import decode_cbg
 from utils.steam.hfa import find_in_archives
 from utils.steam.mzp import decode_mzp
-
-BANDS = 4        # bands of the images shared by all languages
-TARGET_BAND = 1  # the English band, redrawn
 
 
 def _find(name: str) -> bytes | None:
@@ -47,8 +45,8 @@ class GameImage:
 		self.shared = english is None
 		image = decode_cbg(english) if english else decode_mzp(_read(f'{self.name}.mzp'))
 		self.pixels = np.array(image.convert('RGBA')).astype(float)
-		self.band_count = BANDS if self.shared else 1
-		self.target_band = TARGET_BAND if self.shared else 0
+		self.band_count = LANGUAGE_BANDS if self.shared else 1
+		self.target_band = ENGLISH_BAND if self.shared else 0
 		self.height = self.pixels.shape[0] // self.band_count
 		self.width = self.pixels.shape[1]
 
@@ -86,4 +84,5 @@ class GameImage:
 		return f'{self.name}.png' if self.shared else f'{self.name}_fr.png'
 
 	def save(self, out_dir: Path):
-		Image.fromarray(np.clip(np.round(self.pixels), 0, 255).astype(np.uint8)).save(out_dir / self.file_name, optimize=True)
+		"""Saves the redrawn part only: the English band, or the whole English image."""
+		Image.fromarray(np.clip(np.round(self.target), 0, 255).astype(np.uint8)).save(out_dir / self.file_name, optimize=True)

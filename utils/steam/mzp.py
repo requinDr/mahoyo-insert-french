@@ -3,7 +3,9 @@
 # Format :
 #  - archive mrgd00 : en-tête, table [secteur, décalage, nb secteurs, taille & 0xFFFF]
 #    (secteurs de 0x800 octets), puis les entrées alignées sur 8 octets ;
-#  - entrée 0 : largeur, hauteur, taille des tuiles, nombre de tuiles, type, rognage ;
+#  - entrée 0 : largeur, hauteur, taille des tuiles, nombre de tuiles, type, rognage,
+#    (palette commune,) puis un octet par tuile : 0 vide (le moteur ne la dessine pas),
+#    1 avec de la transparence, 2 opaque ;
 #  - entrées suivantes : une tuile chacune, compressée en MZX. Deux types d'images :
 #    - HEP (0x0C) : chaque tuile contient un en-tête, un octet d'indice de palette par
 #      pixel et sa propre palette RGBA de 256 couleurs (alpha sur 7 bits) ; les tuiles
@@ -26,7 +28,9 @@ MZX_MAGIC = b"MZX0"
 HEP_HEADER_SIZE = 0x20
 HEP_TYPE = 0x0C
 PALETTE_TYPE = 0x01
-PALETTE_8BIT = (0x01, 0x11, 0x91)  # profondeurs 8 bits ; 0x11 et 0x91 : blocs de la palette permutés
+PALETTE_8BIT = (0x01, 0x11, 0x91)
+PALETTE_SIZE = 1024
+EMPTY_TILE, TRANSPARENT_TILE, OPAQUE_TILE = 0, 1, 2  # profondeurs 8 bits ; 0x11 et 0x91 : blocs de la palette permutés
 
 
 def _read_entries(data: bytes) -> list[bytes]:
@@ -238,7 +242,7 @@ def _shared_palette(header: bytes, depth: int) -> np.ndarray:
 	"""Palette RGBA de 256 couleurs d'une image à palette commune."""
 	if depth not in PALETTE_8BIT:
 		raise ValueError(f"profondeur de palette .mzp non prise en charge : 0x{depth:02x}")
-	palette = np.frombuffer(header, np.uint8, 1024, 16).reshape(256, 4).copy()
+	palette = np.frombuffer(header, np.uint8, PALETTE_SIZE, 16).reshape(256, 4).copy()
 	alpha = palette[:, 3].astype(np.uint16)
 	palette[:, 3] = np.where(alpha & 0x80, 255, ((alpha << 1) | (alpha >> 6)) & 0xFF)
 	if depth != 0x01:  # dans chaque bloc de 32 couleurs, 8-15 et 16-23 sont échangées
@@ -272,11 +276,50 @@ def _tile_codec(entries: list[bytes]):
 	raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
 
 
+DELTA_MAGIC = b"MZPDELTA"
+
+
 def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 	"""Remplace les pixels de l'image .mzp d'origine par ceux de image (mêmes dimensions)."""
+	return _write_entries(_replace_tiles(original, image))
+
+
+def encode_mzp_delta(original: bytes, image: Image.Image) -> bytes:
+	"""Comme encode_mzp, mais seules les tuiles modifiées sont gardées : version.dll
+	reconstruit le fichier complet à partir de l'original du jeu (même disposition que
+	_write_entries). Format : DELTA_MAGIC, taille de l'original, taille du résultat, nombre
+	d'entrées modifiées, puis pour chacune [numéro d'entrée u16, taille u32] et les données."""
+	before = _read_entries(original)
+	after = _replace_tiles(original, image)
+	changed = [(i, entry) for i, (old, entry) in enumerate(zip(before, after)) if old != entry]
+	header = DELTA_MAGIC + struct.pack("<IIH", len(original), len(_write_entries(after)), len(changed))
+	table = b"".join(struct.pack("<HI", i, len(entry)) for i, entry in changed)
+	return header + table + b"".join(entry for _, entry in changed)
+
+
+def apply_mzp_delta(original: bytes, delta: bytes) -> bytes:
+	"""Fichier complet à partir de l'original et d'un delta (ce que fait version.dll)."""
+	original_size, result_size, count = struct.unpack_from("<IIH", delta, len(DELTA_MAGIC))
+	if len(original) != original_size:
+		raise ValueError("delta prévu pour un autre fichier")
 	entries = _read_entries(original)
-	(width, height, tile_width, tile_height, columns, rows, _, _, crop), decode, encode = _tile_codec(entries)
+	position = len(DELTA_MAGIC) + 10 + 6 * count
+	for k in range(count):
+		index, size = struct.unpack_from("<HI", delta, len(DELTA_MAGIC) + 10 + 6 * k)
+		entries[index] = delta[position:position + size]
+		position += size
+	result = _write_entries(entries)
+	assert len(result) == result_size
+	return result
+
+
+def _replace_tiles(original: bytes, image: Image.Image) -> list[bytes]:
+	"""Entrées de l'image .mzp d'origine dont les tuiles qui changent sont réencodées."""
+	entries = _read_entries(original)
+	(width, height, tile_width, tile_height, columns, rows, kind, _, crop), decode, encode = _tile_codec(entries)
 	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop
+	header = bytearray(entries[0])
+	flags = 16 + (PALETTE_SIZE if kind == PALETTE_TYPE else 0)  # état de chaque tuile
 	pixels = np.array(image.convert("RGBA"))
 	if pixels.shape[:2] != (height - rows * 2 * crop, width - columns * 2 * crop):
 		raise ValueError(f"dimensions attendues : {width - columns * 2 * crop}x{height - rows * 2 * crop}")
@@ -300,8 +343,13 @@ def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 				outside = np.ones(wanted.shape[:2], bool)
 				outside[shown] = False
 				wanted[outside] = current[outside]
-			entries[index + 1] = _mzx_compress(encode(tile, wanted))
-	return _write_entries(entries)
+			tile = encode(tile, wanted)
+			entries[index + 1] = _mzx_compress(tile)
+			# une tuile auparavant vide ne serait pas dessinée
+			alpha = decode(tile)[crop:tile_height - crop, crop:tile_width - crop, 3]
+			header[flags + index] = EMPTY_TILE if not alpha.any() else OPAQUE_TILE if alpha.min() == 255 else TRANSPARENT_TILE
+	entries[0] = bytes(header)
+	return entries
 
 
 def decode_mzp(data: bytes) -> Image.Image:
