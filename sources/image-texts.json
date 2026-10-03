@@ -75,6 +75,20 @@
 				[8, 265, 416, 313, "Mode d'affichage"],
 				[8, 353, 416, 408, "Échelle"]
 			]
+		},
+		"caution": {
+			"font": "helvetica",
+			"align": "center",
+			"boxes": [
+				[0, 307, 1920, 353, "Ceci est une œuvre de fiction : les personnes et groupes qui y apparaissent sont entièrement fictifs."],
+				[0, 367, 1920, 413, "Toute ressemblance avec des personnes ou des groupes réels serait purement fortuite."],
+				[0, 457, 1920, 503, "Cette œuvre contient des scènes de violence et des passages susceptibles de heurter la sensibilité."],
+				[0, 608, 1920, 654, "L’enregistrement et la diffusion des images,"],
+				[0, 668, 1920, 714, "voix ou vidéos de ce jeu sont interdits sans l’accord des ayants droit."],
+				[0, 728, 1920, 774, "L’utilisation des fonctions d’enregistrement ou de diffusion de votre appareil est autorisée,"],
+				[0, 788, 1920, 834, "à l’exception des passages de l’histoire où ces fonctions ont été restreintes."],
+				[0, 848, 1920, 894, "Veuillez respecter toutes les autres restrictions légales en vigueur en profitant de ce jeu."]
+			]
 		}
 	},
 	"chapter_titles": {
@@ -239,6 +253,8 @@
 		"archive_130": "Chapitre 13"
 	},
 	"glow_tabs": {
+		"archive_return": {"texts": ["Retour", "Retour", "Retour", "Retour"], "states": 1},
+		"archive_read": {"texts": ["Lire", "Lire", "Lire", "Lire"], "states": 1},
 		"btn_base0": {"texts": ["Audio", "Voix", "Textes", "Contrôles", "Détails des contrôles"], "states": 4}
 	},
 	"glow_buttons": {

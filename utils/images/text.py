@@ -68,7 +68,8 @@ def first_letter(mask: np.ndarray) -> tuple[int, int]:
 	tolerance = max(1.5, 0.04 * tallest)
 	on_line = [(h, bottom) for h, bottom in parts if abs(bottom - baseline) <= tolerance]
 	tallest = max(h for h, _ in on_line)
-	return next((h, bottom) for h, bottom in on_line if h >= 0.7 * tallest)
+	# a capital (or an ascender, as tall), not a lowercase letter (x-height: 0.7 of a capital)
+	return next((h, bottom) for h, bottom in on_line if h >= 0.85 * tallest)
 
 
 def letter_gap(mask: np.ndarray, cap: float) -> float:

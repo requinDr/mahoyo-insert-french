@@ -45,7 +45,7 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
 Une partie des images `imgNNNN.png` est produite par programme. Le texte vient de
 `sources/image-texts.json`, et l'image d'origine est lue directement dans le jeu :
 
-- onglets des paramètres (`btn_base0`) ;
+- écran d'avertissement (`caution`), onglets des paramètres (`btn_base0`) et boutons « Retour » / « Lire » des archives (`archive_return`, `archive_read`) ;
 - aide des commandes et panneaux d'options (`conf_manual1`, `panel1`, `panel3`, `panel4`, à partir des images `_en`) ;
 - titres de chapitre (img0409-0422) ;
 - plan du parc (img1372-1375, img1378-1379, img2393-2395) ;

@@ -1,7 +1,8 @@
-"""Lines replaced one by one in an image with a transparent background (menus, help
-pages, settings): each box [left, top, right, bottom, text] holds one English line, which
-is removed; the new text is written at its place (same edge, baseline, size, letter
-spacing and color), tightened then reduced if it is wider than the box. A text with "\n"
+"""Lines replaced one by one in an image with a plain background, transparent or of one
+color (menus, help pages, settings, warning screen): each box [left, top, right, bottom,
+text] holds one English line, which is removed; the new text is written at its place
+(same edge, baseline, size, letter spacing and color), tightened then reduced if it is
+wider than the box. A text with "\n"
 is written on several lines, centered vertically on the English line."""
 from statistics import median
 
@@ -15,6 +16,21 @@ from utils.images.text import MIN_TRACKING, SS, TextLayer, first_letter, fit_lin
 LINE_PITCH = 1.45  # spacing of the lines of a text written on several lines, in cap heights
 
 
+def _background(area):
+	"""Plain background of a box (most of its pixels): transparent, or a flat color."""
+	background = np.median(area.reshape(-1, 4), 0)
+	return background if background[3] > 128 else np.zeros(4)
+
+
+def _letters(area):
+	"""Letters of a box: opaque pixels on a transparent background, or pixels clearly
+	different from a flat background."""
+	background = _background(area)
+	if background[3] == 0:
+		return area[..., 3] > 128
+	return np.abs(area - background).max(-1) > 96
+
+
 def text_boxes(image: GameImage, config: dict):
 	"""config: {"font": name in FONTS (Helvetica Neue by default),
 	"align": "left" (default), "right" or "center", like the English lines,
@@ -25,7 +41,7 @@ def text_boxes(image: GameImage, config: dict):
 	original, result = image.target.copy(), image.target.copy()
 	measured = []
 	for x0, y0, x1, y1, text in config['boxes']:
-		letters = original[y0:y1, x0:x1, 3] > 128
+		letters = _letters(original[y0:y1, x0:x1])
 		if not letters.any():
 			raise ValueError(f'{image.name} : pas de texte dans la zone {[x0, y0, x1, y1]}')
 		measured.append((letters, *first_letter(letters)))
@@ -49,6 +65,6 @@ def text_boxes(image: GameImage, config: dict):
 			width = mask.shape[1] / SS
 			x = {'left': left, 'right': right - width, 'center': (x0 + x1 - width) / 2}[align]
 			layer.paste(mask, offset, x, first_baseline + i * LINE_PITCH * cap)
-		result[y0:y1, x0:x1] = 0  # the English line, on a transparent background
-		result = over(result, np.median(area[area[..., 3] > 250][:, :3], 0), layer.alpha())
+		result[y0:y1, x0:x1] = _background(area)  # the English line removed
+		result = over(result, np.median(area[letters & (area[..., 3] > 250)][:, :3], 0), layer.alpha())
 	image.target = result
