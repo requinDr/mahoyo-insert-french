@@ -238,6 +238,9 @@
 		"archive_120": "Chapitre 12",
 		"archive_130": "Chapitre 13"
 	},
+	"glow_tabs": {
+		"btn_base0": {"texts": ["Audio", "Voix", "Textes", "Contrôles", "Détails des contrôles"], "states": 4}
+	},
 	"glow_buttons": {
 		"archive_back": {"text": "Retour", "states": 4}
 	},

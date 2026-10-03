@@ -67,6 +67,14 @@ class GameImage:
 	def target(self, value: np.ndarray):
 		self.pixels[self.target_band * self.height:(self.target_band + 1) * self.height] = value
 
+	def language_variants(self) -> list[np.ndarray]:
+		"""The same English image in the other languages (name_ja, name_zc, name_zt), as float
+		RGBA pixels: same drawing, other text."""
+		if self.shared:
+			raise ValueError(f'{self.name} : image commune, ses langues sont ses bandes')
+		return [np.array(decode_cbg(_read(f'{self.name}_{language}.cbg')).convert('RGBA')).astype(float)
+		        for language in ('ja', 'zc', 'zt')]
+
 	def ink_bounds(self, alpha: float) -> tuple[int, int]:
 		"""Right and bottom edges of the area used by the text of all the languages."""
 		masks = [band[..., 3] > alpha for band in self.bands]

@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 import utils.config_importer as conf
-from utils.images import backgrounds, captions, chapter_titles, map_labels, ploy, ploy_arc_titles, text_boxes
+from utils.images import backgrounds, buttons, captions, chapter_titles, map_labels, ploy, ploy_arc_titles, text_boxes
 from utils.images.game import GameImage
 
 TEXTS = 'sources/image-texts.json'
@@ -33,6 +33,7 @@ EDITS = {
 	'speech_bubbles': backgrounds.speech_bubble,
 	'archive_chapters': captions.glow_caption,
 	'glow_buttons': captions.glow_buttons,
+	'glow_tabs': buttons.glow_tabs,
 	'deduction_captions': captions.glow_caption,
 	'quote': captions.quote,
 	'outlined_blocks': captions.outlined_blocks,

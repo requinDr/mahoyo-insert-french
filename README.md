@@ -45,6 +45,7 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
 Une partie des images `imgNNNN.png` est produite par programme. Le texte vient de
 `sources/image-texts.json`, et l'image d'origine est lue directement dans le jeu :
 
+- onglets des paramètres (`btn_base0`) ;
 - aide des commandes et panneaux d'options (`conf_manual1`, `panel1`, `panel3`, `panel4`, à partir des images `_en`) ;
 - titres de chapitre (img0409-0422) ;
 - plan du parc (img1372-1375, img1378-1379, img2393-2395) ;
@@ -73,7 +74,7 @@ Organisation de `utils/images/` :
 - `text.py` : tracé des lignes et mesures du texte anglais (hauteur, ligne de base, espacement) ;
 - `effects.py` : halo, ombre, contour (mesurés sur l'anglais) et superposition ;
 - `inpaint.py` : effacement du texte anglais (autres bandes, motif répété, lignes prolongées) ;
-- un module par famille d'images : `chapter_titles`, `map_labels`, `ploy`, `ploy_arc_titles`, `backgrounds`, `captions`,
+- un module par famille d'images : `chapter_titles`, `map_labels`, `ploy`, `ploy_arc_titles`, `backgrounds`, `captions`, `buttons`,
   et `text_boxes` (lignes remplacées une à une dans des zones, pour les menus et pages d'aide).
 
 Chaque section du JSON est une édition `{image: texte}` (numéro d'image commune, ou nom d'image anglaise) ; `EDITS` (`generate_images.py`)
