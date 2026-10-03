@@ -19,6 +19,8 @@ FONTS = {
 	              'helveticaneue-roman.ttf', 'HelveticaNeue.ttc', 'arial.ttf', 'Arial.ttf'),
 	'helvetica_bold': ('Helvetica Neue (Bold)', 'HelveticaNeueBold.otf', 'HelveticaNeue-Bold.otf',
 	                   'HelveticaNeue.ttc', 'arialbd.ttf', 'Arial Bold.ttf'),
+	'helvetica_heavy': ('Helvetica Neue (Heavy)', 'HelveticaNeueHeavy.otf', 'HelveticaNeue-Heavy.otf',
+	                    'HelveticaNeue.ttc', 'ariblk.ttf', 'Arial Black.ttf'),
 	'palatino': ('Palatino Linotype', 'pala.ttf', 'Palatino Linotype.ttf', 'Palatino.ttc'),
 	'segoe_print': ('Segoe Print', 'segoepr.ttf'),
 	'segoe_print_bold': ('Segoe Print Bold', 'segoeprb.ttf'),

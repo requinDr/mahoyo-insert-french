@@ -118,6 +118,14 @@
 		"2171": "5. Grondez ! Les Great Three !",
 		"2172": "6. Le Château démoniaque du brouillard ! Flat Snark !"
 	},
+	"ploy_thumbnails": {
+		"nz1": {"background": "2173", "text": "1. C’est quoi un familier ?"},
+		"nz2": {"background": "2173", "text": "2. Étudions les Ploy Kickshaw !"},
+		"nz3": {"background": "2173", "text": "3. Ingrédients, poème et cochon ?!"},
+		"nz4": {"background": "2173", "text": "4. Un article magique amer et sucré ?!"},
+		"nz5": {"background": "403", "text": "5. Grondez ! Les Great Three !"},
+		"nz6": {"text": "6. Le Château démoniaque du brouillard ! Flat Snark !"}
+	},
 	"ploy_sheets": {
 		"2258": [
 			["Nom", "les Jumeaux bavards."],
@@ -229,6 +237,9 @@
 		"archive_110": "Chapitre 11",
 		"archive_120": "Chapitre 12",
 		"archive_130": "Chapitre 13"
+	},
+	"glow_buttons": {
+		"archive_back": {"text": "Retour", "states": 4}
 	},
 	"deduction_captions": {
 		"1961": "Impossible de le démasquer sans preuve",

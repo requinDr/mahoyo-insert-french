@@ -1,16 +1,19 @@
 """Images of "Why Ploy?": lesson titles (img2167 to img2172, big rounded red letters on one
 line), sheets of the Ploy Kickshaws (img2258 to img2268, brown handwriting, labels
-underlined with a red wave) and their captions (img2259). Transparent bands: the English
-text is simply replaced."""
+underlined with a red wave), their captions (img2259), and the archive thumbnails of the
+lessons (nz1 to nz6). Transparent bands: the English text is simply replaced; the
+thumbnails have their background redrawn from the original background image."""
 import math
 
 import numpy as np
 from PIL import Image, ImageDraw
+from scipy import ndimage
 
 from utils.images.effects import over
-from utils.images.fonts import load_font
-from utils.images.game import GameImage
-from utils.images.text import runs
+from utils.images.fonts import load_font, size_for_height
+from utils.images.game import GameImage, original_image
+from utils.images.inpaint import directional_fill, fill_from_bands
+from utils.images.text import TextLayer, first_letter, fit_lines, runs
 
 # ---------- Lesson titles ----------
 
@@ -186,3 +189,75 @@ def caption(image: GameImage, text: str):
 		size *= 0.97
 	font = load_font('segoe_print', size)
 	_draw_handwriting(image, [((center - width / 2) / SCALE_X, 0, text)], [], font, size, top)
+
+
+# ---------- Archive thumbnails ----------
+
+THUMBNAIL_MARGIN = 4  # px left on each side of a line that has to be reduced
+THUMBNAIL_FONT = 'helvetica_heavy'  # the English is a heavy sans serif
+
+
+def _background_view(background, band, rows=40):
+	"""The background image as it appears in the band (scaled down and cropped): the scale
+	and offset matching the top and bottom rows of the band, where there is no text."""
+	ys, xs = np.nonzero(background[..., 3] > 0)
+	content = Image.fromarray(background[:ys.max() + 1, :xs.max() + 1].astype(np.uint8))
+	height, width = band.shape[:2]
+	reference = np.concatenate([band[:rows], band[-rows:]])[..., :3]
+	best = None
+	for w in range(width + 20, width + 50, 2):
+		h = round(w * content.height / content.width)
+		small = np.array(content.resize((w, h), Image.LANCZOS)).astype(float)
+		for oy in range(h - height + 1):
+			for ox in range(w - width + 1):
+				view = small[oy:oy + height, ox:ox + width]
+				error = np.abs(np.concatenate([view[:rows], view[-rows:]])[..., :3] - reference).mean()
+				if best is None or error < best[0]:
+					best = (error, view)
+	return best[1]
+
+
+def _text_masks(image):
+	"""Red text of each band, only where the bands differ (the red of the drawing, the same in
+	every band, is not text)."""
+	stack = np.stack([band[..., :3] for band in image.bands])
+	differs = ndimage.binary_dilation((np.abs(stack - np.median(stack, 0)).max(-1) > 30).any(0), iterations=3)
+	red = (stack[..., 0] > stack[..., 1] + 50) & (stack[..., 0] > stack[..., 2] + 50)
+	return [ndimage.binary_dilation(mask, iterations=2) & differs for mask in red]
+
+
+def _background_from_bands(image):
+	"""Target band without its text, when the background is made of several layers: the
+	bands are the same apart from their text, so it comes from the others; where all the
+	languages have text, the lines and edges around are continued."""
+	masks = _text_masks(image)
+	clean, hole = fill_from_bands(image, masks, masks[image.target_band])
+	return directional_fill(clean, hole) if hole.any() else clean
+
+
+def thumbnail(image: GameImage, config: dict):
+	"""Archive thumbnail (nz1 to nz6): the title in dark red heavy letters, centered over a
+	scaled-down background. config: {"background": number of the background image, "text": …};
+	the background is matched on the band. Without "background" (background made of
+	several layers), it is rebuilt from the other language bands. The line is written with
+	the English size, letter spacing, center and color, reduced if wider than the thumbnail."""
+	band = image.target
+	r, g, b = band[..., 0], band[..., 1], band[..., 2]
+	letters = (r > 120) & (g < 80) & (b < 80) & _text_masks(image)[image.target_band]
+	# the line of text: the rows holding most of these pixels (not stray red specks)
+	top, bottom = max(runs(letters.any(1)), key=lambda run: letters[run[0]:run[1]].sum())
+	letters[:top] = letters[bottom:] = False
+	cap, baseline = first_letter(letters)
+	xs = np.flatnonzero(letters.any(0))
+	center = (xs[0] + xs[-1] + 1) / 2
+	limit = 2 * min(center, image.width - center) - 2 * THUMBNAIL_MARGIN
+	_, _, [(mask, offset)] = fit_lines([config['text']], THUMBNAIL_FONT, size_for_height(THUMBNAIL_FONT, cap),
+	                                   letters, cap, limit)
+	layer = TextLayer(image.width, image.height)
+	layer.paste_centered(mask, offset, center, baseline)
+	if 'background' in config:
+		background = np.array(original_image(int(config['background'])).convert('RGBA')).astype(float)
+		view = _background_view(background, band)
+	else:
+		view = _background_from_bands(image)
+	image.target = over(view, np.median(band[letters][:, :3], 0), layer.alpha())

@@ -49,9 +49,9 @@ Une partie des images `imgNNNN.png` est produite par programme. Le texte vient d
 - titres de chapitre (img0409-0422) ;
 - plan du parc (img1372-1375, img1378-1379, img2393-2395) ;
 - logos « Tout sur les Ploy » (img2111-2112, img2174-2175) ;
-- titres et fiches Ploy (img2167-2172, img2258-2268) ;
+- titres, fiches et miniatures d'archive Ploy (img2167-2172, img2258-2268, nz1-nz6) ;
 - avertissement avant le chapitre bonus (img1955) et écran d'excuses (img2256) ;
-- noms de chapitre des archives (`archive_010` à `archive_130`) ;
+- noms de chapitre et bouton « Retour » des archives (`archive_010` à `archive_130`, `archive_back`) ;
 - légendes de déduction (img1961-1968) et citation de Tokki (img1924) ;
 - titre d'émission « Animal Land Terror » (img2397) et bulle « Au travail ! » (img2091).
 

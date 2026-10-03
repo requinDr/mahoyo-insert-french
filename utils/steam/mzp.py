@@ -4,10 +4,13 @@
 #  - archive mrgd00 : en-tête, table [secteur, décalage, nb secteurs, taille & 0xFFFF]
 #    (secteurs de 0x800 octets), puis les entrées alignées sur 8 octets ;
 #  - entrée 0 : largeur, hauteur, taille des tuiles, nombre de tuiles, type, rognage ;
-#  - entrées suivantes : une tuile chacune, compressée en MZX. Une tuile HEP contient
-#    un en-tête, un octet d'indice de palette par pixel et une palette RGBA de 256
-#    couleurs (alpha sur 7 bits). Chaque tuile déborde d'un pixel (rognage) sur ses
-#    voisines.
+#  - entrées suivantes : une tuile chacune, compressée en MZX. Deux types d'images :
+#    - HEP (0x0C) : chaque tuile contient un en-tête, un octet d'indice de palette par
+#      pixel et sa propre palette RGBA de 256 couleurs (alpha sur 7 bits) ; les tuiles
+#      débordent d'un pixel (rognage) sur leurs voisines ;
+#    - palette commune (0x01, 8 bits) : la palette est dans l'entrée 0, à la suite de
+#      l'en-tête, et chaque tuile ne contient que les indices ; les couleurs modifiées
+#      prennent la plus proche de cette palette.
 #
 # Seules les tuiles dont les pixels changent sont réencodées, les autres sont
 # reprises telles quelles du fichier d'origine.
@@ -22,6 +25,8 @@ ALIGN = 8
 MZX_MAGIC = b"MZX0"
 HEP_HEADER_SIZE = 0x20
 HEP_TYPE = 0x0C
+PALETTE_TYPE = 0x01
+PALETTE_8BIT = (0x01, 0x11, 0x91)  # profondeurs 8 bits ; 0x11 et 0x91 : blocs de la palette permutés
 
 
 def _read_entries(data: bytes) -> list[bytes]:
@@ -229,12 +234,48 @@ def _hep_encode(header: bytes, pixels: np.ndarray) -> bytes:
 	return header[:HEP_HEADER_SIZE] + indices.astype(np.uint8).tobytes() + palette.tobytes()
 
 
+def _shared_palette(header: bytes, depth: int) -> np.ndarray:
+	"""Palette RGBA de 256 couleurs d'une image à palette commune."""
+	if depth not in PALETTE_8BIT:
+		raise ValueError(f"profondeur de palette .mzp non prise en charge : 0x{depth:02x}")
+	palette = np.frombuffer(header, np.uint8, 1024, 16).reshape(256, 4).copy()
+	alpha = palette[:, 3].astype(np.uint16)
+	palette[:, 3] = np.where(alpha & 0x80, 255, ((alpha << 1) | (alpha >> 6)) & 0xFF)
+	if depth != 0x01:  # dans chaque bloc de 32 couleurs, 8-15 et 16-23 sont échangées
+		for i in range(0, 256, 32):
+			palette[i + 8:i + 16], palette[i + 16:i + 24] = palette[i + 16:i + 24].copy(), palette[i + 8:i + 16].copy()
+	return palette
+
+
+def _tile_codec(entries: list[bytes]):
+	"""En-tête de l'image, et fonctions tuile décompressée -> pixels RGBA et
+	(tuile décompressée, pixels voulus) -> tuile décompressée."""
+	header = struct.unpack_from("<7H2B", entries[0])
+	_, _, tile_width, tile_height, _, _, kind, depth, _ = header
+	if kind == HEP_TYPE:
+		return header, (lambda tile: _hep_decode(tile, tile_width, tile_height)), _hep_encode
+	if kind == PALETTE_TYPE:
+		palette = _shared_palette(entries[0], depth)
+		visible = palette.astype(np.float64)
+		visible[:, :3] *= visible[:, 3:] / 255
+
+		def decode(tile):
+			return palette[np.frombuffer(tile, np.uint8, tile_width * tile_height)].reshape(tile_height, tile_width, 4)
+
+		def encode(tile, wanted):
+			colors, inverse = np.unique(wanted.reshape(-1, 4), axis=0, return_inverse=True)
+			shown = colors.astype(np.float64)
+			shown[:, :3] *= shown[:, 3:] / 255
+			nearest = np.argmin(((shown[:, None, :] - visible[None, :, :]) ** 2).sum(2), axis=1)
+			return nearest[inverse.ravel()].astype(np.uint8).tobytes() + tile[tile_width * tile_height:]
+		return header, decode, encode
+	raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
+
+
 def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 	"""Remplace les pixels de l'image .mzp d'origine par ceux de image (mêmes dimensions)."""
 	entries = _read_entries(original)
-	width, height, tile_width, tile_height, columns, rows, kind, _, crop = struct.unpack_from("<7H2B", entries[0])
-	if kind != HEP_TYPE:
-		raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
+	(width, height, tile_width, tile_height, columns, rows, _, _, crop), decode, encode = _tile_codec(entries)
 	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop
 	pixels = np.array(image.convert("RGBA"))
 	if pixels.shape[:2] != (height - rows * 2 * crop, width - columns * 2 * crop):
@@ -245,9 +286,9 @@ def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 
 	for index in range(rows * columns):
 		y, x = divmod(index, columns)
-		wanted = padded[y * step_y:y * step_y + tile_height, x * step_x:x * step_x + tile_width]
+		wanted = padded[y * step_y:y * step_y + tile_height, x * step_x:x * step_x + tile_width].copy()
 		tile = _mzx_decompress(entries[index + 1])
-		current = _hep_decode(tile, tile_width, tile_height)
+		current = decode(tile)
 		# seule la partie affichée compte : ni le débordement sur les voisines, ni ce qui
 		# dépasse de l'image (où l'original peut contenir n'importe quoi)
 		shown = (slice(crop, crop + min(step_y, pixels.shape[0] - y * step_y)),
@@ -255,21 +296,23 @@ def encode_mzp(original: bytes, image: Image.Image) -> bytes:
 		want, have = wanted[shown], current[shown]
 		visible = (want[:, :, 3] > 0) | (have[:, :, 3] > 0)
 		if not np.array_equal(want[visible], have[visible]):
-			entries[index + 1] = _mzx_compress(_hep_encode(tile, wanted))
+			if crop == 0:  # hors de l'image, la tuile garde ses pixels d'origine
+				outside = np.ones(wanted.shape[:2], bool)
+				outside[shown] = False
+				wanted[outside] = current[outside]
+			entries[index + 1] = _mzx_compress(encode(tile, wanted))
 	return _write_entries(entries)
 
 
 def decode_mzp(data: bytes) -> Image.Image:
-	"""Image RGBA d'un .mzp (tuiles HEP), sans les débordements des tuiles."""
+	"""Image RGBA d'un .mzp, sans les débordements des tuiles."""
 	entries = _read_entries(data)
-	width, height, tile_width, tile_height, columns, rows, kind, _, crop = struct.unpack_from("<7H2B", entries[0])
-	if kind != HEP_TYPE:
-		raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
+	(width, height, tile_width, tile_height, columns, rows, _, _, crop), decode, _ = _tile_codec(entries)
 	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop
 	pixels = np.zeros((height - rows * 2 * crop, width - columns * 2 * crop, 4), np.uint8)
 	for index in range(rows * columns):
 		y, x = divmod(index, columns)
-		tile = _hep_decode(_mzx_decompress(entries[index + 1]), tile_width, tile_height)
+		tile = decode(_mzx_decompress(entries[index + 1]))
 		part = pixels[y * step_y:(y + 1) * step_y, x * step_x:(x + 1) * step_x]
 		part[:] = tile[crop:crop + part.shape[0], crop:crop + part.shape[1]]
 	return Image.fromarray(pixels)

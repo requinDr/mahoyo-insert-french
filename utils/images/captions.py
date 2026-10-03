@@ -36,28 +36,35 @@ def _small_end(core, cap):
 	return max(h for _, _, h in small), small[-1][0] - parts[-1][1]
 
 
-def glow_caption(image: GameImage, text):
-	"""One line, centered like the English one, with a glow; the colors of the letters and of
-	the glow are the English ones (deduction captions, chapter names of the archive).
-	text: a string, or {"text": …, "small": …} where "small" is written after it in smaller
-	letters, like the end of the English line (sizes and gap measured on it)."""
-	band = image.target
-	core = _letters(band)
+def _glow_line(band, text, right, spacing=None):
+	"""Band redrawn with one line, centered like its English line, with a glow; size, letter
+	spacing, colors and opacity of the letters and of the glow are the English ones.
+	right: right edge of the area the line must stay in (centered on the English line).
+	spacing: letter spacing in font sizes (measured on the English line by default).
+	Returns the band and the letter spacing used."""
+	alpha = band[..., 3]
+	strongest = alpha.max()
+	# letters, possibly half transparent (inactive buttons): the most opaque pixels
+	core = alpha >= 0.94 * strongest
+	core &= band[..., 0] >= 0.5 * np.percentile(band[core][:, 0], 90)
+	# their color: the lightest of them (a strong glow is opaque too, but darker)
+	light = band[..., :3].sum(-1)
+	letter_color = np.median(band[core & (light >= np.percentile(light[core], 75))][:, :3], 0)
 	cap, baseline = first_letter(core)
 	xs = np.flatnonzero(core.any(0))
 	center = (xs[0] + xs[-1]) / 2
-	right, _ = image.ink_bounds(30)
 	limit = 2 * min(center, right - center)  # inside the original area
 	small_text = text.get('small') if isinstance(text, dict) else None
 	main_text = text['text'] if isinstance(text, dict) else text
 	if small_text is None:
-		_, _, [(mask, offset)] = fit_lines([main_text], 'helvetica', size_for_height('helvetica', cap), core, cap, limit)
+		font, tracking, [(mask, offset)] = fit_lines([main_text], 'helvetica', size_for_height('helvetica', cap), core, cap,
+		                                          limit, spacing)
 		pieces = [(mask, offset, 0.0)]
 	else:
 		small_cap, gap = _small_end(core, cap)
 		size = size_for_height('helvetica', cap)
 		while True:  # both parts reduced together until they fit
-			font, tracking, [(mask, offset)] = fit_lines([main_text], 'helvetica', size, core, cap, float('inf'))
+			font, tracking, [(mask, offset)] = fit_lines([main_text], 'helvetica', size, core, cap, float('inf'), spacing)
 			ratio = small_cap / cap
 			small_font = load_font('helvetica', font.size * ratio)
 			small_mask, small_offset = render_line(small_text, small_font, tracking * ratio)
@@ -68,14 +75,38 @@ def glow_caption(image: GameImage, text):
 		left = center - width / 2
 		pieces = [(mask, offset, left - center + mask.shape[1] / SS / 2),
 		          (small_mask, small_offset, left + mask.shape[1] / SS + gap - center + small_mask.shape[1] / SS / 2)]
-	layer = TextLayer(image.width, image.height)
+	layer = TextLayer(band.shape[1], band.shape[0])
 	for mask, offset, shift in pieces:
 		layer.paste_centered(mask, offset, center + shift, baseline)
 	letters = layer.alpha()
-	opacity = band[..., 3] / 255
-	glow = (band[..., 3] > 10) & (band[..., 3] < 120)
-	_draw(image, letters, blur(letters, *fit_blur(core, opacity, ring(core, 1, 25))),
-	      np.median(band[glow][:, :3], 0), np.median(band[core][:, :3], 0))
+	opacity = alpha / strongest
+	glow = (alpha > 0.04 * strongest) & (alpha < 0.47 * strongest)
+	effect = blur(letters, *fit_blur(core, opacity, ring(core, 1, 25)))
+	result = over(np.zeros_like(band), np.median(band[glow][:, :3], 0), effect * strongest / 255)
+	return over(result, letter_color, letters * strongest / 255), tracking / font.size
+
+
+def glow_caption(image: GameImage, text):
+	"""One line, centered like the English one, with a glow; the colors of the letters and of
+	the glow are the English ones (deduction captions, chapter names of the archive).
+	text: a string, or {"text": …, "small": …} where "small" is written after it in smaller
+	letters, like the end of the English line (sizes and gap measured on it)."""
+	right, _ = image.ink_bounds(30)
+	image.target, _ = _glow_line(image.target, text, right)
+
+
+def glow_buttons(image: GameImage, config: dict):
+	"""Button whose states (normal, hovered…) are side by side in equal cells, each a line
+	with a glow: config {"text": …, "states": number of cells}. The letter spacing is
+	measured on the first state (a strong glow merges the letters) and kept for all."""
+	width = image.width // config['states']
+	result = image.target.copy()
+	spacing = None
+	for i in range(config['states']):
+		cell = result[:, i * width:(i + 1) * width]
+		cell[:], measured = _glow_line(cell.copy(), config['text'], width, spacing)
+		spacing = measured if spacing is None else spacing
+	image.target = result
 
 
 def quote(image: GameImage, config: dict):

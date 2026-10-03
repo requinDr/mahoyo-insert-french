@@ -24,10 +24,6 @@ DLL_PATH = Path(__file__).resolve().parents[2] / "native" / "version.dll"
 
 # Ressources communes à toutes les langues : même table que shared_names dans native/version.c
 SHARED_NAMES = {"mode1.cbg": "modfr.cbg"}
-# Images .mzp communes à toutes les langues (une bande par langue) : le script les désigne
-# par leur nom, la version traduite garde donc le même nom (version.dll redirige alors
-# l'entrée d'origine de son archive vers notre fichier).
-SHARED_IMAGE = re.compile(r"img\d{4}")
 
 
 def french_name(name: str) -> str | None:
@@ -40,11 +36,11 @@ def french_name(name: str) -> str | None:
 	return new if new != name else None
 
 
-def _encode_image(path: Path, game_dir: str) -> bytes:
-	"""PNG converti au format du jeu : .mzp pour une image commune à toutes les langues
-	(à partir de l'originale), .cbg sinon."""
+def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
+	"""PNG converti au format du jeu : .cbg pour une ressource propre à l'anglais, .mzp pour
+	une image commune à toutes les langues (à partir de l'originale)."""
 	with Image.open(path) as image:
-		if not SHARED_IMAGE.fullmatch(path.stem):
+		if name.endswith(".cbg"):
 			return encode_cbg(image)
 		original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
 		if original is None:
@@ -71,16 +67,17 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 	# Images traduites (PNG converties en .mzp ou .cbg), encodées en parallèle, et polices
 	images = []
 	for path in sorted(Path(images_dir).glob("*.png")):
-		if SHARED_IMAGE.fullmatch(path.stem):
-			images.append((path.stem + ".mzp", path))
-		elif path.with_suffix(".cbg").name in english:
+		# ressource anglaise (nom_fr.png), sinon image commune à toutes les langues (imgNNNN, nz1…),
+		# qui garde son nom : version.dll redirige l'entrée de son archive vers la nôtre
+		if path.with_suffix(".cbg").name in english:
 			images.append((path.with_suffix(".cbg").name, path))
 		else:
-			raise ValueError(f"{path.name} ne correspond à aucune ressource anglaise du jeu")
+			images.append((path.stem + ".mzp", path))
 	# les .mzp d'abord, comme les images communes s'ajoutent aux ressources anglaises copiées
 	images.sort(key=lambda image: not image[0].endswith(".mzp"))
 	with ProcessPoolExecutor() as pool:
-		encoded = pool.map(_encode_image, [path for _, path in images], [game_dir] * len(images))
+		encoded = pool.map(_encode_image, [path for _, path in images], [name for name, _ in images],
+		                   [game_dir] * len(images))
 		for (name, _), data in zip(images, encoded):
 			files[name] = data
 	for path in sorted(Path(fonts_dir).iterdir()):

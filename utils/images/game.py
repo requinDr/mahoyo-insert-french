@@ -1,8 +1,8 @@
 """Original game images, read directly from its archives.
 
 Two kinds of images:
-- shared by all languages (imgNNNN.mzp, named by their number): 4 horizontal bands
-  ja, en, zc, zt; the patch redraws the English one;
+- shared by all languages (imgNNNN.mzp named by their number, or name.mzp named by name):
+  4 horizontal bands ja, en, zc, zt; the patch redraws the English one;
 - English images (name_en.cbg, named by name): the whole image is redrawn, saved as name_fr.
 """
 from pathlib import Path
@@ -20,8 +20,12 @@ BANDS = 4        # bands of the images shared by all languages
 TARGET_BAND = 1  # the English band, redrawn
 
 
+def _find(name: str) -> bytes | None:
+	return find_in_archives(conf.game_folder, name, exclude=ARCHIVE_NAME)
+
+
 def _read(name: str) -> bytes:
-	data = find_in_archives(conf.game_folder, name, exclude=ARCHIVE_NAME)
+	data = _find(name)
 	if data is None:
 		raise FileNotFoundError(f'{name} introuvable dans les archives du jeu ({conf.game_folder})')
 	return data
@@ -36,11 +40,12 @@ class GameImage:
 	whole English image); the other bands are left as they are."""
 
 	def __init__(self, key: str):
-		"""key: number of an image shared by all languages, or name of an English image."""
-		self.shared = key.isdigit()
-		self.number = int(key) if self.shared else None
-		self.name = f'img{int(key):04d}' if self.shared else key
-		image = original_image(self.number) if self.shared else decode_cbg(_read(f'{key}_en.cbg'))
+		"""key: number or name of an image shared by all languages, or name of an English image."""
+		self.number = int(key) if key.isdigit() else None
+		self.name = f'img{self.number:04d}' if self.number is not None else key
+		english = None if self.number is not None else _find(f'{key}_en.cbg')
+		self.shared = english is None
+		image = decode_cbg(english) if english else decode_mzp(_read(f'{self.name}.mzp'))
 		self.pixels = np.array(image.convert('RGBA')).astype(float)
 		self.band_count = BANDS if self.shared else 1
 		self.target_band = TARGET_BAND if self.shared else 0
