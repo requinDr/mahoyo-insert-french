@@ -80,7 +80,7 @@ def _erase_rooms(image, count):
 	rooms = sorted((box for box in _groups(masks[image.target_band], 4) if masks[image.target_band][box].sum() > ROOM_AREA),
 	               key=lambda box: box[1].start)
 	if len(rooms) != count:
-		raise ValueError(f'{image.name} : {len(rooms)} noms de pièce dans l\'image, {count} dans le JSON')
+		raise ValueError(f'{image.name}: {len(rooms)} room names in the image, {count} in the JSON')
 	hole = np.zeros_like(masks[image.target_band])
 	bright = _residual(image.target) > 20
 	for box in rooms:
@@ -113,7 +113,7 @@ def _erase_floors(image, clean, count):
 	residual = _residual(image.target)
 	floors = [box for box in _floor_boxes() if residual[box].max() > FLOOR_PRESENT]
 	if len(floors) != count:
-		raise ValueError(f'{image.name} : {len(floors)} noms d\'étage dans l\'image, {count} dans le JSON')
+		raise ValueError(f'{image.name}: {len(floors)} floor names in the image, {count} in the JSON')
 	for box in floors:
 		hole = np.zeros(residual.shape, bool)
 		hole[box] = ndimage.binary_dilation(residual[box] > residual[box].max() * 0.3, iterations=8)

@@ -1,7 +1,7 @@
-"""Recompile native/version.dll. Nécessaire uniquement après une modification de version.c.
+"""Compiles native/version.dll. Only needed after changing version.c.
 
-Prérequis : Visual Studio avec les outils C++ (« Développement Desktop en C++»).
-Usage : python native/build_dll.py
+Requires Visual Studio with the C++ tools ("Desktop development with C++").
+Usage: python native/build_dll.py
 """
 import subprocess
 import sys
@@ -14,19 +14,19 @@ VSWHERE = Path(r"C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswher
 
 def compile_dll(output: Path, build: Path):
 	if not VSWHERE.exists():
-		raise FileNotFoundError("Visual Studio (outils C++) est nécessaire pour compiler version.dll")
+		raise FileNotFoundError("Visual Studio (C++ tools) is needed to compile version.dll")
 	vs = subprocess.run([str(VSWHERE), "-latest", "-prerelease", "-products", "*",
 		"-requires", "Microsoft.VisualStudio.Component.VC.Tools.x86.x64", "-property", "installationPath"],
 		capture_output=True, text=True, check=True).stdout.strip()
 	if not vs:
-		raise FileNotFoundError("Outils C++ de Visual Studio introuvables")
+		raise FileNotFoundError("Visual Studio C++ tools not found")
 	vcvars = Path(vs) / "VC" / "Auxiliary" / "Build" / "vcvars64.bat"
 	command = (f'call "{vcvars}" >nul && cl /nologo /O2 /W4 /WX /MT /LD "{NATIVE_DIR / "version.c"}" '
 		f'/link /DEF:"{NATIVE_DIR / "version.def"}" user32.lib '
 		f'/IMPLIB:"{build / "version.lib"}" /OUT:"{output}"')
 	result = subprocess.run(command, shell=True, capture_output=True, text=True, cwd=build)
 	if result.returncode != 0:
-		raise RuntimeError(f"Échec de compilation de version.dll :\n{result.stdout}{result.stderr}")
+		raise RuntimeError(f"version.dll compilation failed:\n{result.stdout}{result.stderr}")
 
 
 if __name__ == "__main__":
@@ -35,4 +35,4 @@ if __name__ == "__main__":
 			compile_dll(NATIVE_DIR / "version.dll", Path(build))
 	except (OSError, RuntimeError) as error:
 		sys.exit(str(error))
-	print(f"Compilé : {NATIVE_DIR / 'version.dll'}")
+	print(f"Compiled: {NATIVE_DIR / 'version.dll'}")

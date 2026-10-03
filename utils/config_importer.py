@@ -1,19 +1,20 @@
 import configparser
 import os
+import sys
 
-filename = 'config.ini'
+CONFIG_FILE = 'config.ini'
 
-dossier_sources_jp = 'sources/sources-jp'
-dossier_sources_fr = 'sources/sources-fr'
+jp_sources_folder = 'sources/sources-jp'
+fr_sources_folder = 'sources/sources-fr'
 script_source = 'sources/script_text_ja.txt'
 script_source_indent = 'sources/script_text_en.txt'
-# Lignes non trouvées ou à corriger (numéros de ligne à partir de 1)
+# Lines missing from the sources or corrected (line numbers start at 1)
 csv_input = 'sources/lignes_modifiees.csv'
-# Remplacements appliqués en dernier sur tout le script (\uXXXX accepté pour les caractères invisibles)
+# Replacements applied last to the whole script (\uXXXX accepted for invisible characters)
 replacements_csv = 'sources/remplacements.csv'
-exe_titles_file = 'sources/TEXT5.csv'  # textes système : clé, ja, fr, zc, zt
-images_folder = 'sources/assets-fr'  # images françaises en PNG
-fonts_folder = 'sources/fonts-fr'  # polices françaises (.mzp, .ccit)
+exe_titles_file = 'sources/TEXT5.csv'  # system texts: key, ja, fr, zc, zt
+images_folder = 'sources/assets-fr'
+fonts_folder = 'sources/fonts-fr'
 readme = 'sources/LISEZMOI.txt'
 generated_translation = 'generated/script_text_fr.txt'
 csv_output = 'generated/lignes_modifiees.csv'
@@ -21,15 +22,12 @@ output_folder = 'dist'
 patch_name = 'WOTHN patch fr'
 
 try:
-	if not os.path.isfile(filename):
-		raise FileNotFoundError(f"Le fichier {filename} est introuvable.")
-
+	if not os.path.isfile(CONFIG_FILE):
+		raise FileNotFoundError(f"{CONFIG_FILE} not found")
 	config = configparser.ConfigParser()
-	with open(filename, encoding="utf-8") as f:
+	with open(CONFIG_FILE, encoding="utf-8") as f:
 		config.read_string("[config]\n" + f.read())
-
 	game_folder = config['config']['game_folder']
-	creer_csv = config.getboolean('config', 'create_csv')
+	create_csv = config.getboolean('config', 'create_csv')
 except Exception as e:
-	print(f"Erreur lors de l'importation du fichier de configuration :\n{e}")
-	exit(1)
+	sys.exit(f"Cannot read {CONFIG_FILE}:\n{e}")

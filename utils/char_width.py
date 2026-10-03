@@ -1,4 +1,4 @@
-# Largeur des caractères de la police anglaise, utilisée pour aligner les lignes
+# Glyph widths of the game font, used to center lines
 chars_width: dict[str, int] = {
   ' ':26, '!':21, '"':27, '#':45, '$':45, '%':65, '&':52, "'":17, '(':27, ')':27, '*':33, '+':45, ',':21, '-':31,
   '.':21, '/':37, '0':43, '1':30, '2':43, '3':44, '4':44, '5':44, '6':43, '7':43, '8':43, '9':44, ':':21, ';':21,
@@ -19,9 +19,5 @@ chars_width: dict[str, int] = {
   '■': 73, '―': 73, '…': 73, '“': 43, '”': 43, '—': 73, "’": 73
 }
 
-def line_char_length(ligne: str):
-  length = 0
-  for char in ligne:
-    length += chars_width[char] if char in chars_width else 73
-
-  return length
+def line_char_length(line: str) -> int:
+  return sum(chars_width.get(char, 73) for char in line)

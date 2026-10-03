@@ -169,7 +169,7 @@ def outlined_blocks(image: GameImage, blocks: list[list[str]]):
 	labels, _ = ndimage.label(ndimage.binary_dilation(core, iterations=20))
 	boxes = sorted(ndimage.find_objects(labels), key=lambda box: (box[0].start, box[1].start))
 	if len(boxes) != len(blocks):
-		raise ValueError(f'{image.name} : {len(boxes)} blocs de texte dans l\'image, {len(blocks)} dans le JSON')
+		raise ValueError(f'{image.name}: {len(boxes)} text blocks in the image, {len(blocks)} in the JSON')
 	measured = []
 	for box, lines in zip(boxes, blocks):
 		block = core[box] & (labels[box] > 0)

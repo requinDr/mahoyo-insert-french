@@ -1,40 +1,19 @@
 import csv
 
-columns = ["Ligne", "Traduction", "Espaces placés au début", "Révision 2022 (pour référence)"]
-CSV_DELIMITER = ','
+LINE, TRANSLATION, START_SPACES, _ = columns = ["Ligne", "Traduction", "Espaces placés au début", "Révision 2022 (pour référence)"]
 
-def create(chemin: str, lignes: dict):
-	try:
-		with open(chemin, 'w', encoding="utf-8", newline='') as f:
-			writer = csv.writer(f, delimiter=CSV_DELIMITER, quotechar='"', quoting=csv.QUOTE_MINIMAL)
-			writer.writerow(columns)
-			for key, value in lignes.items():
-				writer.writerow([key, "", "", value.strip()])
-		
-		print(f"Traductions manquantes inscrites dans {chemin}")
-	except Exception as e:
-		print(f"Erreur lors de l'écriture du fichier de sortie: {e}")
 
-def read_csv_from_name(chemin):
-	try:
-		with open(chemin, encoding="utf-8") as f:
-			reader = csv.reader(f, delimiter=',')
-			return [row for row in reader]
-	except Exception as e:
-		print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
-		return None
+def create(path: str, lines: dict[int, str]):
+	"""CSV of the script lines without a translation, to fill in."""
+	with open(path, 'w', encoding="utf-8", newline='') as f:
+		writer = csv.writer(f)
+		writer.writerow(columns)
+		for number, line in lines.items():
+			writer.writerow([number, "", "", line.strip()])
+	print(f"Missing translations written to {path}")
 
-# renvoit sous la forme d'un dictionnaire avec comme clé
-# la première colonne et comme valeur la 3e colonne
-def read_csv_dict_from_name(chemin):
-	try:
-		with open(chemin, encoding="utf-8") as f:
-			reader = csv.DictReader(f, delimiter=CSV_DELIMITER)
-			dict = {int(row[columns[0]]): row for row in reader}
-			return dict
-	except Exception as e:
-		print(f"Erreur lors de la lecture du fichier {chemin}: {e}")
-		return None
 
-def get_csv(path):
-	return read_csv_dict_from_name(path)
+def get_csv(path: str) -> dict[int, dict[str, str]]:
+	"""Rows of the corrections CSV by line number."""
+	with open(path, encoding="utf-8") as f:
+		return {int(row[LINE]): row for row in csv.DictReader(f)}

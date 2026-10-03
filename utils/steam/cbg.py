@@ -1,11 +1,11 @@
-# Encodeur et décodeur d'images CompressedBG_MT (.cbg) du remaster Steam
+# CompressedBG_MT (.cbg) image encoder and decoder of the Steam remaster
 #
-# Format : en-tête, puis l'image découpée en bandes de 60 lignes. Chaque bande :
-#  1. prédiction : chaque octet est remplacé par sa différence avec la moyenne
-#     des pixels du dessus et de gauche (BGR(A), modulo 256) ;
-#  2. alternance de séquences [longueur, octets non nuls] et [longueur de zéros] ;
-#  3. codage de Huffman (arbre construit de façon déterministe à partir des
-#     fréquences, qui sont stockées dans la bande).
+# Format: header, then the image cut into stripes of 60 rows. Each stripe:
+#  1. prediction: each byte becomes its difference with the mean of the pixels above
+#     and on the left (BGR(A), modulo 256);
+#  2. alternating sequences [length, non-zero bytes] and [length of zeros];
+#  3. Huffman coding (tree built deterministically from the frequencies, which are
+#     stored in the stripe).
 import struct
 
 import numpy as np
@@ -35,7 +35,7 @@ def _predict(pixels: np.ndarray) -> np.ndarray:
 
 
 def _zero_runs(data: np.ndarray) -> bytes:
-	# Séquences alternées, en commençant par une séquence d'octets non nuls (éventuellement vide)
+	# Alternating sequences, starting with a (possibly empty) sequence of non-zero bytes
 	is_zero = data == 0
 	starts = np.flatnonzero(np.diff(is_zero.view(np.int8), prepend=-1))
 	ends = np.append(starts[1:], len(data))
@@ -50,8 +50,8 @@ def _zero_runs(data: np.ndarray) -> bytes:
 
 
 def _huffman_codes(weights: list[int]) -> tuple[np.ndarray, np.ndarray]:
-	# Même construction que le décodeur du moteur : on assemble à chaque étape les
-	# deux nœuds libres les plus légers, le premier rencontré l'emportant à égalité.
+	# Same construction as the engine's decoder: each step joins the two lightest free
+	# nodes, the first one found winning a tie.
 	weight = list(weights)
 	parent = [-1] * 256
 	children: list[tuple[int, int]] = [(-1, -1)] * 256
@@ -87,7 +87,7 @@ def _huffman_codes(weights: list[int]) -> tuple[np.ndarray, np.ndarray]:
 			if child != -1:
 				stack.append((child, code | (bit << length), length + 1))
 	if lengths.max() >= 64:
-		raise ValueError("Arbre de Huffman trop profond")
+		raise ValueError("Huffman tree too deep")
 	return codes, lengths
 
 
@@ -141,7 +141,7 @@ def _unhuffman(stripe: bytes) -> np.ndarray:
 		weight, position = _read_varint(stripe, position)
 		weights.append(weight)
 	codes, lengths = _huffman_codes(weights)
-	# table de décodage : pour chaque valeur des `width` prochains bits, le symbole et sa longueur
+	# decoding table: for each value of the next `width` bits, the symbol and its length
 	width = int(lengths.max())
 	symbol_of = np.zeros(1 << width, np.int64)
 	length_of = np.zeros(1 << width, np.int64)
@@ -151,7 +151,7 @@ def _unhuffman(stripe: bytes) -> np.ndarray:
 		length_of[int(codes[symbol])::step] = lengths[symbol]
 	bits = np.unpackbits(np.frombuffer(stripe, np.uint8, offset=position), bitorder="little")
 	bits = np.concatenate([bits, np.zeros(width, np.uint8)])
-	# valeur des `width` bits commençant à chaque position
+	# value of the `width` bits starting at each position
 	windows = np.zeros(len(bits) - width, np.int64)
 	for k in range(width):
 		windows |= bits[k:len(bits) - width + k].astype(np.int64) << k
@@ -190,7 +190,7 @@ def _unpredict(diff: np.ndarray) -> np.ndarray:
 
 def decode_cbg(data: bytes) -> Image.Image:
 	if data[:len(MAGIC)] != MAGIC:
-		raise ValueError("fichier .cbg invalide")
+		raise ValueError("invalid .cbg file")
 	width, height, stripe_height, bpp = struct.unpack_from("<4I", data, len(MAGIC))
 	channels = bpp // 8
 	count = (height + stripe_height - 1) // stripe_height

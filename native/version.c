@@ -1,15 +1,16 @@
 /*
- * Faux version.dll chargé automatiquement par WoH.exe depuis le dossier du jeu.
- * Il applique la traduction française en mémoire, sans modifier aucun fichier :
- *  - les noms de ressources anglaises (script_text_en.ctd, *_en.cbg, polices...)
- *    sont redirigés vers leurs équivalents français présents dans data00999.hfa ;
- *  - les textes système (ressource TEXT/5) sont lus depuis data00999.hfa ;
- *  - le titre de la fenêtre se termine par « - Patch FR » ;
- *  - les particules des menus suivent la largeur des textes français ;
- *  - les lettres accentuées font partie des mots comme l'ASCII : plus de retour
- *    à la ligne au milieu d'un mot, et même espacement que les autres lettres ;
- *  - les libellés des curseurs des paramètres ont toute leur largeur.
- * Les fonctions de version.dll sont transmises à la vraie DLL système.
+ * Proxy version.dll, loaded by WoH.exe from the game folder. It applies the French
+ * translation in memory, without changing any file:
+ *  - the names of English resources (script_text_en.ctd, *_en.cbg, fonts...) are
+ *    redirected to their French versions in data00999.hfa;
+ *  - resources of other archives replaced by data00999.hfa are served from it;
+ *  - the system texts (TEXT/5 resource) are read from data00999.hfa;
+ *  - the window title ends with " - Patch FR";
+ *  - .rdata replacements built with the patch (menu particles, line breaks);
+ *  - accented letters are part of words like ASCII ones: no line break inside a word,
+ *    and the same spacing as the other letters;
+ *  - the labels of the settings sliders are drawn whole.
+ * The version.dll functions are forwarded to the real system DLL.
  */
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
@@ -19,11 +20,11 @@
 
 #define ARCHIVE_NAME L"data00999.hfa"
 #define TEXT5_ENTRY "TEXT5_fr.csv"
-#define DATA_PATCHES_ENTRY "rdata_fr.bin"  /* remplacements de données du moteur, générés au build */
+#define DATA_PATCHES_ENTRY "rdata_fr.bin"  /* replacements in the engine data, built with the patch */
 #define HFA_NAME_SIZE 96
 #define HFA_ENTRY_SIZE 128
 
-/* ---------- Transmission vers le vrai version.dll ---------- */
+/* ---------- Forwarding to the real version.dll ---------- */
 
 static HMODULE system_version(void) {
     static HMODULE module;
@@ -37,7 +38,7 @@ static HMODULE system_version(void) {
     return module;
 }
 
-/* Toutes les fonctions de version.dll prennent au plus 8 arguments entiers. */
+/* All the version.dll functions take at most 8 integer arguments. */
 typedef INT_PTR (WINAPI *forward_t)(INT_PTR, INT_PTR, INT_PTR, INT_PTR, INT_PTR, INT_PTR, INT_PTR, INT_PTR);
 #define FORWARD(name)                                                                   \
     INT_PTR WINAPI proxy_##name(INT_PTR a, INT_PTR b, INT_PTR c, INT_PTR d,             \
@@ -65,21 +66,21 @@ FORWARD(VerLanguageNameW)
 FORWARD(VerQueryValueA)
 FORWARD(VerQueryValueW)
 
-/* ---------- Archive française ---------- */
+/* ---------- French archive ---------- */
 
-/* Entrées de data00999.hfa, triées par nom (le nom est le premier champ). Une image
- * commune à toutes les langues y est un delta (DELTA_MAGIC) : seules ses tuiles modifiées,
- * le fichier complet étant reconstruit à partir de l'original du jeu (voir plus bas). */
+/* Entries of data00999.hfa, sorted by name (the first field). An image shared by all
+ * languages is a delta there (DELTA_MAGIC): only its changed tiles, the whole file being
+ * rebuilt from the original of the game (see below). */
 #define DELTA_MAGIC "MZPDELTA"
-#define DELTA_HEADER_SIZE 18  /* magic, taille de l'original, taille du résultat, nombre d'entrées */
+#define DELTA_HEADER_SIZE 18  /* magic, original size, result size, count of entries */
 static struct archive_entry {
     char name[HFA_NAME_SIZE];
     DWORD offset, size;
     BOOL delta;
-    DWORD original_size, result_size;  /* d'un delta */
+    DWORD original_size, result_size;  /* of a delta */
 } *archive_entries;
 static DWORD archive_count;
-static HANDLE archive_file = INVALID_HANDLE_VALUE;  /* reste ouvert pour servir nos fichiers */
+static HANDLE archive_file = INVALID_HANDLE_VALUE;  /* stays open to serve our files */
 static DWORD archive_data_start;
 static SRWLOCK archive_file_lock = SRWLOCK_INIT;
 static BYTE *text5;
@@ -170,7 +171,7 @@ static BOOL archive_contains(const char *name) {
     return find_entry(name) != NULL;
 }
 
-/* ---------- Image du jeu ---------- */
+/* ---------- Game image ---------- */
 
 static BYTE *game;
 
@@ -194,11 +195,11 @@ static void write_memory(void *address, const void *data, SIZE_T size) {
     FlushInstructionCache(GetCurrentProcess(), address, size);
 }
 
-/* ---------- Césure et espacement : le latin est traité comme l'ASCII ---------- */
+/* ---------- Line breaks and spacing: Latin letters handled like ASCII ---------- */
 
-/* Le moteur (version Steam 1.1, horodatage 0x658e4f20) découpe les lignes en
- * mots composés uniquement d'ASCII imprimable : toute lettre accentuée termine
- * le mot, d'où des coupures comme « vé|ritable ». Cette fonction est remplacée. */
+/* The engine (Steam version 1.1, timestamp 0x658e4f20) cuts lines into words made only
+ * of printable ASCII: any accented letter ends the word, hence breaks like "vé|ritable".
+ * This function is replaced. */
 static const BYTE original_copy_word[] = {
     0x48, 0x89, 0x5c, 0x24, 0x08, 0x33, 0xdb, 0x4c, 0x8b, 0xd9, 0x44, 0x8b, 0xd3, 0x48, 0x2b, 0xd1,
     0x48, 0x8b, 0xc1, 0x0f, 0x1f, 0x40, 0x00, 0x66, 0x0f, 0x1f, 0x84, 0x00, 0x00, 0x00, 0x00, 0x00,
@@ -209,14 +210,14 @@ static const BYTE original_copy_word[] = {
 };
 
 static BOOL is_word_character(uint16_t c) {
-    if (c >= 0x21 && c <= 0x7e) return c != '<';  /* règle d'origine ; '<' ouvre une balise */
-    if (c >= 0xa0 && c <= 0x24f) return TRUE;     /* latin étendu */
-    if (c >= 0x2014 && c <= 0x2015) return TRUE;  /* tirets longs — ― collés au mot */
-    if (c >= 0x2018 && c <= 0x201f) return TRUE;  /* guillemets et apostrophes typographiques */
-    return c >= 0x300c && c <= 0x300f;            /* 「」『』 : restent collés au mot voisin */
+    if (c >= 0x21 && c <= 0x7e) return c != '<';  /* original rule; '<' opens a tag */
+    if (c >= 0xa0 && c <= 0x24f) return TRUE;     /* extended Latin */
+    if (c >= 0x2014 && c <= 0x2015) return TRUE;  /* long dashes — ― stay with the word */
+    if (c >= 0x2018 && c <= 0x201f) return TRUE;  /* typographic quotes and apostrophes */
+    return c >= 0x300c && c <= 0x300f;            /* 「」『』 stay with the next word */
 }
 
-/* Ponctuation française précédée d'une espace : reste sur la ligne du mot précédent. */
+/* French punctuation after a space: stays on the line of the previous word. */
 static BOOL is_high_punctuation(uint16_t c) {
     return c == '!' || c == '?' || c == ';' || c == ':' || c == 0xbb /* » */;
 }
@@ -228,7 +229,7 @@ static int copy_word(uint16_t *word, const uint16_t *text) {
             word[length] = text[length];
             ++length;
         }
-        /* « mot ! » et « « mot » : l'espace ne permet pas de couper la ligne. */
+        /* "mot !" and "« mot": the line cannot break at the space. */
         BOOL before_punctuation = text[length] == ' ' && is_high_punctuation(text[length + 1]);
         BOOL after_guillemet = text[length] == ' ' && length > 0 && word[length - 1] == 0xab /* « */
                                && is_word_character(text[length + 1]);
@@ -240,8 +241,8 @@ static int copy_word(uint16_t *word, const uint16_t *text) {
     return length;
 }
 
-/* Espacement des lettres : le moteur applique celui des idéogrammes à partir de
- * U+0080. Le seuil passe à U+0250, à l'identique dans la mesure et le rendu. */
+/* Letter spacing: the engine applies the spacing of ideographs from U+0080 on. The
+ * threshold becomes U+0250, the same way in measuring and in drawing. */
 static const BYTE measure_spacing_before[] = {0x81, 0xff, 0x80, 0x00, 0x00, 0x00,        /* cmp edi, 0x80 */
                                               0x73, 0x07, 0xf3, 0x0f, 0x10, 0x70, 0x64};
 static const BYTE measure_spacing_after[] = {0x81, 0xff, 0x50, 0x02, 0x00, 0x00,         /* cmp edi, 0x250 */
@@ -251,23 +252,21 @@ static const BYTE render_spacing_before[] = {0x41, 0x81, 0xfd, 0x80, 0x00, 0x00,
 static const BYTE render_spacing_after[] = {0x41, 0x81, 0xfd, 0x50, 0x02, 0x00, 0x00,    /* cmp r13d, 0x250 */
                                             0x73, 0x07, 0xf3, 0x0f, 0x10, 0x4f, 0x64};
 
-/* Mots de 5 lettres et plus : le moteur retranche de leur largeur mesurée une
- * estimation fondée sur le nombre de lettres, réglée pour l'anglais. Les mots
- * français paraissent alors plus courts qu'ils ne sont et débordent à droite.
- * Le saut conditionnel qui active ce retranchement devient inconditionnel. */
+/* Words of 5 letters or more: the engine subtracts from their measured width an
+ * estimate based on the letter count, tuned for English. French words then look shorter
+ * than they are and run off the right. The jump that skips this becomes unconditional. */
 static const BYTE long_word_before[] = {0x85, 0xdb, 0x0f, 0x84, 0x82, 0x03, 0x00, 0x00,
                                         0x83, 0xbd, 0xc8, 0x1b, 0x00, 0x00, 0x00,
-                                        0x0f, 0x84, 0x60, 0x03, 0x00, 0x00};  /* je (pas de retranchement) */
+                                        0x0f, 0x84, 0x60, 0x03, 0x00, 0x00};  /* je (no subtraction) */
 static const BYTE long_word_after[] = {0x85, 0xdb, 0x0f, 0x84, 0x82, 0x03, 0x00, 0x00,
                                        0x83, 0xbd, 0xc8, 0x1b, 0x00, 0x00, 0x00,
-                                       0xe9, 0x61, 0x03, 0x00, 0x00, 0x90};   /* jmp, même cible */
+                                       0xe9, 0x61, 0x03, 0x00, 0x00, 0x90};   /* jmp, same target */
 
-/* Libellés des curseurs des paramètres (« Lent … Rapide ») : le moteur recompose
- * l'image (deux libellés de 122 px côte à côte) dans une texture de 1132 px, le
- * libellé de droite à x = 1010, mais n'en dessine que 1100 px : seuls 90 px du
- * libellé de droite s'affichaient. Les deux curseurs qui l'utilisent dessinent
- * maintenant toute la texture (mov edx, 1100 -> 1132 avant l'appel qui crée leurs
- * rectangles ; l'appel suivant, différent pour chacun, rend le motif unique). */
+/* Labels of the settings sliders ("Lent ... Rapide"): the engine composes the image (two
+ * labels of 122 px side by side) into a texture of 1132 px, the right label at x = 1010,
+ * but draws only 1100 px of it: only 90 px of the right label showed. The two sliders using
+ * it now draw the whole texture (mov edx, 1100 -> 1132 before the call that builds their
+ * rectangles; the call, different for each, makes the pattern unique). */
 static const BYTE slider_label1_before[] = {0xba, 0x4c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
                                             0xe8, 0x2e, 0xb6, 0x03, 0x00};
 static const BYTE slider_label1_after[] = {0xba, 0x6c, 0x04, 0x00, 0x00, 0x48, 0x8d, 0x4d, 0x68,
@@ -279,7 +278,7 @@ static const BYTE slider_label2_after[] = {0xba, 0x6c, 0x04, 0x00, 0x00, 0x48, 0
 
 typedef struct { const BYTE *before; const BYTE *after; size_t size; BYTE *address; } code_patch;
 static code_patch code_patches[] = {
-    {original_copy_word, NULL, sizeof(original_copy_word), NULL},  /* redirigé vers copy_word */
+    {original_copy_word, NULL, sizeof(original_copy_word), NULL},  /* jumps to copy_word */
     {measure_spacing_before, measure_spacing_after, sizeof(measure_spacing_before), NULL},
     {render_spacing_before, render_spacing_after, sizeof(render_spacing_before), NULL},
     {long_word_before, long_word_after, sizeof(long_word_before), NULL},
@@ -295,14 +294,14 @@ static BYTE *find_unique(const BYTE *pattern, size_t size) {
     BYTE *found = NULL;
     for (BYTE *p = start; p <= end; ++p) {
         if (*p == pattern[0] && memcmp(p, pattern, size) == 0) {
-            if (found) return NULL;  /* ambigu : version inconnue */
+            if (found) return NULL;  /* ambiguous: unknown version */
             found = p;
         }
     }
     return found;
 }
 
-/* Vrai si le code du jeu est déchiffré et correspond à la version prise en charge. */
+/* TRUE if the game code is decrypted and matches the supported version. */
 static BOOL find_code_patches(void) {
     for (size_t i = 0; i < ARRAYSIZE(code_patches); ++i) {
         code_patches[i].address = find_unique(code_patches[i].before, code_patches[i].size);
@@ -324,15 +323,15 @@ static void apply_code_patches(void) {
     }
 }
 
-/* ---------- Redirection des noms de ressources ---------- */
+/* ---------- Resource names redirection ---------- */
 
-/* Ressources communes à toutes les langues, remplacées par un nom de même longueur. */
+/* Resources shared by all languages, replaced by a name of the same length. */
 static const char *const shared_names[][2] = {
-    {"mode1.cbg", "modfr.cbg"},  /* noms des langues dans les paramètres : « Français » */
+    {"mode1.cbg", "modfr.cbg"},  /* language names in the settings: "Français" */
 };
 
 /* script_text_en.ctd -> script_text_fr.ctd, FONT_en_H00.mzp -> FONT_fr_H00.mzp,
- * Font010000.ccit -> Font040000.ccit... uniquement si l'archive contient le résultat. */
+ * Font010000.ccit -> Font040000.ccit... only if the archive holds the result. */
 static BOOL french_name(const wchar_t *name, size_t length, char *result) {
     if (length >= HFA_NAME_SIZE) return FALSE;
     for (size_t i = 0; i < length; ++i) {
@@ -375,7 +374,7 @@ static int redirect_names(void) {
         if (end < count && strings[end] == 0) {
             char name[HFA_NAME_SIZE];
             if (end - i == 3 && wcsncmp(strings + i, L"_en", 3) == 0) {
-                /* Suffixe utilisé pour composer certains noms (popup, teatime...). */
+                /* suffix used to build some names (popup, teatime...) */
                 write_memory(strings + i, L"_fr", 3 * sizeof(wchar_t));
                 ++redirected;
             } else if (french_name(strings + i, end - i, name)) {
@@ -390,12 +389,11 @@ static int redirect_names(void) {
     return redirected;
 }
 
-/* ---------- Données du moteur ---------- */
+/* ---------- Engine data ---------- */
 
-/* rdata_fr.bin : suite de [u32 taille][octets d'origine][octets de remplacement].
- * Sert par exemple aux positions des particules des menus, calculées au build
- * d'après la largeur des textes français. Chaque bloc d'origine doit apparaître
- * une seule fois dans .rdata ; sinon il est ignoré (version du jeu différente). */
+/* rdata_fr.bin: sequence of [u32 size][original bytes][replacement bytes] (positions of
+ * the menu particles, line break rules...). Each original block must appear exactly once
+ * in .rdata, otherwise it is skipped (other version of the game). */
 static void apply_data_patches(void) {
     IMAGE_SECTION_HEADER *rdata = section(".rdata");
     if (!rdata || !data_patches) return;
@@ -426,13 +424,13 @@ static void warn(const wchar_t *message) {
     MessageBoxW(NULL, message, L"Patch français Mahoyo", MB_OK | MB_ICONWARNING);
 }
 
-/* Le code du jeu est chiffré par Steam jusqu'au point d'entrée : on attend qu'il
- * soit lisible. `final` indique que le jeu ouvre ses archives, donc que le code
- * devrait l'être ; si le code attendu reste introuvable, la version n'est pas gérée. */
+/* The game code is encrypted by Steam until the entry point: wait until it is readable.
+ * `final` means that the game opens its archives, so the code should be readable; if the
+ * expected code is still missing, the version is not supported. */
 static BOOL CALLBACK activate(PINIT_ONCE once, PVOID final, PVOID *context) {
     (void)once; (void)context;
     if (!find_code_patches()) {
-        if (!final) return FALSE;  /* réessayer au prochain appel */
+        if (!final) return FALSE;  /* try again on the next call */
         warn(L"Cette version du jeu n'est pas prise en charge par le patch français.\n"
              L"Le jeu va démarrer en anglais. Une mise à jour du patch est nécessaire.");
         return TRUE;
@@ -462,7 +460,7 @@ static BOOL is_archive_path(const wchar_t *path) {
     return length >= 4 && _wcsicmp(path + length - 4, L".hfa") == 0;
 }
 
-/* ---------- Fonctions du jeu interceptées ---------- */
+/* ---------- Hooked functions ---------- */
 
 static HANDLE (WINAPI *real_FindFirstFileW)(LPCWSTR, LPWIN32_FIND_DATAW);
 static HANDLE (WINAPI *real_FindFirstFileExW)(LPCWSTR, FINDEX_INFO_LEVELS, LPVOID, FINDEX_SEARCH_OPS, LPVOID, DWORD);
@@ -484,40 +482,39 @@ static HANDLE WINAPI hook_FindFirstFileExW(LPCWSTR path, FINDEX_INFO_LEVELS leve
     return real_FindFirstFileExW(path, level, data, search, filter, flags);
 }
 
-/* ---------- Priorité des fichiers de l'archive française ----------
- * Une ressource de data00999.hfa qui porte le même nom qu'une ressource d'une autre
- * archive (ex. img2168.mzp, image commune à toutes les langues, que le jeu ne cherche
- * que dans data02002.hfa) doit la remplacer. Quand le jeu lit la table de cette autre
- * archive, on fait pointer l'entrée après la fin du fichier, sur une zone virtuelle dont
- * les lectures sont servies par la DLL : depuis data00999.hfa, ou, pour un delta, depuis
- * le fichier reconstruit en mémoire au premier accès (original de l'archive du jeu, dont
- * les tuiles modifiées sont remplacées). Rien n'est modifié sur le disque. */
+/* ---------- Files of the French archive first ----------
+ * A resource of data00999.hfa named like a resource of another archive (e.g. img2168.mzp,
+ * an image shared by all languages that the game looks for only in data02002.hfa) must
+ * replace it. When the game reads the table of that other archive, the entry is moved
+ * past the end of the file, to a virtual area whose reads are served by the DLL: from
+ * data00999.hfa or, for a delta, from the file rebuilt in memory on first access (the
+ * original of the game archive with its changed tiles replaced). Nothing changes on disk. */
 
 #define MAX_ARCHIVES 256
 #define MAX_REDIRECTS 4096
 static struct open_archive {
     HANDLE handle;
-    DWORD count;              /* 0 tant que l'en-tête n'est pas lu */
-    ULONGLONG virtual_start;  /* début de la zone virtuelle : taille du fichier arrondie */
-    wchar_t path[MAX_PATH];   /* pour relire les originaux des deltas */
+    DWORD count;              /* 0 until the header is read */
+    ULONGLONG virtual_start;  /* start of the virtual area: rounded file size */
+    wchar_t path[MAX_PATH];   /* to read the originals of the deltas */
 } open_archives[MAX_ARCHIVES];
 static SRWLOCK open_archives_lock = SRWLOCK_INIT;
 
-/* Entrée redirigée vers la zone virtuelle d'une archive du jeu. Rattachée au fichier (son
- * chemin) et non au handle : le jeu peut lire la table par un handle et l'entrée par un autre. */
+/* Entry redirected to the virtual area of a game archive. Tied to the file (its path), not
+ * to the handle: the game may read the table with one handle and the entry with another. */
 static struct redirect {
-    ULONGLONG start;              /* position dans la zone virtuelle */
-    DWORD size;                   /* taille vue par le jeu */
+    ULONGLONG start;              /* position in the virtual area */
+    DWORD size;                   /* size seen by the game */
     struct archive_entry *entry;
-    ULONGLONG original_offset;    /* position de l'original dans l'archive du jeu (delta) */
-    wchar_t path[MAX_PATH];       /* archive du jeu (delta) */
+    ULONGLONG original_offset;    /* position of the original in the game archive (delta) */
+    wchar_t path[MAX_PATH];       /* game archive */
 } redirects[MAX_REDIRECTS];
 static int redirect_count;
 
-/* Fichiers reconstruits des deltas, gardés en mémoire (une fois par entrée). */
+/* Files rebuilt from the deltas, kept in memory (once per entry). */
 static BYTE *built_deltas[100000];
 
-/* Retient (ou oublie) un fichier ouvert par le jeu. */
+/* Tracks (or forgets) a file opened by the game. */
 static void track_file(HANDLE handle, const wchar_t *path, BOOL is_other_archive) {
     if (handle == INVALID_HANDLE_VALUE) return;
     LARGE_INTEGER size = {0};
@@ -526,7 +523,7 @@ static void track_file(HANDLE handle, const wchar_t *path, BOOL is_other_archive
     AcquireSRWLockExclusive(&open_archives_lock);
     int free_slot = -1;
     for (int i = 0; i < MAX_ARCHIVES; ++i) {
-        if (open_archives[i].handle == handle) open_archives[i].handle = NULL;  /* handle réutilisé */
+        if (open_archives[i].handle == handle) open_archives[i].handle = NULL;  /* reused handle */
         if (!open_archives[i].handle && free_slot < 0) free_slot = i;
     }
     if (is_other_archive && free_slot >= 0) {
@@ -539,7 +536,7 @@ static void track_file(HANDLE handle, const wchar_t *path, BOOL is_other_archive
     ReleaseSRWLockExclusive(&open_archives_lock);
 }
 
-/* Copie de l'archive suivie ; FALSE si handle n'en est pas une. */
+/* Copy of the tracked archive; FALSE if the handle is not one. */
 static BOOL find_open_archive(HANDLE handle, struct open_archive *result) {
     BOOL found = FALSE;
     AcquireSRWLockShared(&open_archives_lock);
@@ -553,8 +550,8 @@ static BOOL find_open_archive(HANDLE handle, struct open_archive *result) {
     return found;
 }
 
-/* Place une entrée dans la zone virtuelle de son archive (à la même place si la table est
- * relue, par n'importe quel handle). */
+/* Places an entry in the virtual area of its archive (at the same place when the table is
+ * read again, by any handle). */
 static struct redirect *place(struct open_archive *archive, struct archive_entry *entry, DWORD size,
                               ULONGLONG original_offset) {
     ULONGLONG end = archive->virtual_start;
@@ -594,7 +591,7 @@ static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *b
             if (!replacement) continue;
             DWORD fields[2];
             memcpy(fields, name + HFA_NAME_SIZE, sizeof(fields));
-            /* un delta ne vaut que pour l'original prévu ; sinon l'original est gardé */
+            /* a delta applies only to the expected original; otherwise the original is kept */
             if (replacement->delta && fields[1] != replacement->original_size) continue;
             struct redirect *redirect = place(archive, replacement,
                                               replacement->delta ? replacement->result_size : replacement->size,
@@ -621,9 +618,9 @@ static BOOL read_archive(DWORD offset, void *buffer, DWORD size) {
 static DWORD read_u16(const BYTE *p) { WORD value; memcpy(&value, p, 2); return value; }
 static DWORD read_u32(const BYTE *p) { DWORD value; memcpy(&value, p, 4); return value; }
 
-/* Fichier complet d'un delta : les entrées de l'original (archive mrgd00 : table de
- * [secteur, décalage, nombre de secteurs, taille & 0xFFFF], secteurs de 0x800 octets), les
- * modifiées remplacées, réécrites comme utils/steam/mzp.py (_write_entries). */
+/* Whole file of a delta: the entries of the original (mrgd00 archive: table of [sector,
+ * offset, sector count, size & 0xFFFF], sectors of 0x800 bytes), with the changed ones
+ * replaced, written again like utils/steam/mzp.py (_write_entries). */
 static BYTE *build_delta(const struct redirect *redirect) {
     const struct archive_entry *entry = redirect->entry;
     BYTE *original = HeapAlloc(GetProcessHeap(), 0, entry->original_size);
@@ -644,10 +641,10 @@ static BYTE *build_delta(const struct redirect *redirect) {
     if (table_end > entry->original_size || table_end > entry->result_size ||
         DELTA_HEADER_SIZE + changed * 6 > entry->size) goto done;
     memcpy(result, original, 8);
-    DWORD written = 0;  /* octets écrits après la table */
+    DWORD written = 0;  /* bytes written after the table */
     for (DWORD i = 0; i < count; ++i) {
         const BYTE *item = original + 8 + i * 8;
-        /* entrée de l'original : sa taille se retrouve à partir de son nombre de secteurs */
+        /* entry of the original: its size is found from its sector count */
         const DWORD start = read_u16(item) * 0x800u + read_u16(item + 2);
         const DWORD sectors = read_u16(item + 4);
         DWORD length = read_u16(item + 6);
@@ -687,7 +684,7 @@ done:
     return result;
 }
 
-/* Lecture dans la zone virtuelle : l'entrée redirigée qui contient la position. */
+/* Read in the virtual area: the redirected entry holding the position. */
 static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULONGLONG position, LPVOID buffer,
                          DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
     BOOL result = FALSE;
@@ -759,7 +756,7 @@ static BOOL WINAPI hook_ReadFile(HANDLE handle, LPVOID buffer, DWORD size, LPDWO
     return result;
 }
 
-/* Ressource TEXT/5 : textes système (CSV ja,en,zc,zt ; le français est en colonne en). */
+/* TEXT/5 resource: system texts (CSV ja,en,zc,zt; French takes the en column). */
 static const char text5_marker = 0;
 #define TEXT5_HANDLE ((HRSRC)&text5_marker)
 
@@ -787,7 +784,7 @@ static LPVOID WINAPI hook_LockResource(HGLOBAL data) {
     return real_LockResource(data);
 }
 
-/* Titre de la fenêtre : « WITCH ON THE HOLY NIGHT ( ver 1.1 ) - Patch FR ». */
+/* Window title: "WITCH ON THE HOLY NIGHT ( ver 1.1 ) - Patch FR". */
 #define WINDOW_TITLE L"WITCH ON THE HOLY NIGHT"
 #define TITLE_SUFFIX L" - Patch FR"
 
@@ -795,7 +792,7 @@ static HWND (WINAPI *real_CreateWindowExW)(DWORD, LPCWSTR, LPCWSTR, DWORD, int, 
 static BOOL (WINAPI *real_SetWindowTextW)(HWND, LPCWSTR);
 static HWND (WINAPI *real_FindWindowW)(LPCWSTR, LPCWSTR);
 
-/* Renvoie `title` complété du suffixe dans `buffer`, ou `title` inchangé. */
+/* `title` with the suffix in `buffer`, or `title` unchanged. */
 static LPCWSTR french_title(LPCWSTR title, wchar_t *buffer, size_t size) {
     try_activate(FALSE);
     if (!french_active || !title || IS_INTRESOURCE(title) ||
@@ -836,7 +833,7 @@ static const struct { const char *module; const char *name; void **real; void *h
     {"user32.dll", "FindWindowW", (void **)&real_FindWindowW, (void *)hook_FindWindowW},
 };
 
-/* Remplace les entrées de la table d'imports de WoH.exe (pas celles des autres modules). */
+/* Replaces entries of the import table of WoH.exe (not of the other modules). */
 static void hook_imports(void) {
     IMAGE_DATA_DIRECTORY *directory = &nt_headers()->OptionalHeader.DataDirectory[IMAGE_DIRECTORY_ENTRY_IMPORT];
     if (!directory->VirtualAddress) return;

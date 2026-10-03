@@ -25,7 +25,7 @@ def _find(name: str) -> bytes | None:
 def _read(name: str) -> bytes:
 	data = _find(name)
 	if data is None:
-		raise FileNotFoundError(f'{name} introuvable dans les archives du jeu ({conf.game_folder})')
+		raise FileNotFoundError(f'{name} not found in the game archives ({conf.game_folder})')
 	return data
 
 
@@ -69,7 +69,7 @@ class GameImage:
 		"""The same English image in the other languages (name_ja, name_zc, name_zt), as float
 		RGBA pixels: same drawing, other text."""
 		if self.shared:
-			raise ValueError(f'{self.name} : image commune, ses langues sont ses bandes')
+			raise ValueError(f'{self.name}: shared image, its languages are its bands')
 		return [np.array(decode_cbg(_read(f'{self.name}_{language}.cbg')).convert('RGBA')).astype(float)
 		        for language in ('ja', 'zc', 'zt')]
 

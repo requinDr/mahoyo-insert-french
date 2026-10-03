@@ -63,8 +63,8 @@ def font_path(name: str) -> str:
 		if path:
 			return str(path)
 	raise FileNotFoundError(
-		f"Police introuvable : {description} ({', '.join(file_names)}).\n"
-		f"Installez-la, ou copiez le fichier dans {PROJECT_FONTS}.")
+		f"Font not found: {description} ({', '.join(file_names)}).\n"
+		f"Install it, or copy the file to {PROJECT_FONTS}.")
 
 
 def load_font(name: str, size: float) -> ImageFont.FreeTypeFont:

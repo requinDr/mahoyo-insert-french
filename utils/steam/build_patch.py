@@ -1,4 +1,4 @@
-"""Construit le patch Steam : version.dll + data00999.hfa, à copier dans le dossier du jeu."""
+"""Builds the Steam patch: version.dll + data00999.hfa, to copy into the game folder."""
 import csv
 import io
 import re
@@ -16,23 +16,22 @@ from utils.steam.mzp import decode_mzp, encode_mzp_delta
 
 ARCHIVE_NAME = "data00999.hfa"
 DLL_NAME = "version.dll"
-TEXT5_ENTRY = "TEXT5_fr.csv"  # nom attendu par native/version.c
-# Archives Steam contenant les images, polices et textes propres à l'anglais
+TEXT5_ENTRY = "TEXT5_fr.csv"  # name expected by native/version.c
+# Steam archives holding the images, fonts and texts specific to English
 ENGLISH_ARCHIVES = ("data00000.hfa", "data00100.hfa")
-# Une image commune à toutes les langues est faite de bandes horizontales ja, en, zc, zt ;
-# son PNG ne contient que la bande anglaise, redessinée
+# An image shared by all languages is made of horizontal bands ja, en, zc, zt; its PNG holds
+# only the English band, redrawn
 LANGUAGE_BANDS = 4
 ENGLISH_BAND = 1
-# Précompilée depuis native/version.c (voir native/build_dll.py)
+# Built from native/version.c (see native/build_dll.py)
 DLL_PATH = Path(__file__).resolve().parents[2] / "native" / "version.dll"
 
-
-# Ressources communes à toutes les langues : même table que shared_names dans native/version.c
+# Resources shared by all languages: same table as shared_names in native/version.c
 SHARED_NAMES = {"mode1.cbg": "modfr.cbg"}
 
 
 def french_name(name: str) -> str | None:
-	"""Même règle que french_name() dans native/version.c."""
+	"""Same rule as french_name() in native/version.c."""
 	if name in SHARED_NAMES:
 		return SHARED_NAMES[name]
 	new = re.sub(r"_en(?=[_.])", "_fr", name)
@@ -42,30 +41,29 @@ def french_name(name: str) -> str | None:
 
 
 def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
-	"""PNG converti au format du jeu : .cbg pour une ressource propre à l'anglais ; pour une
-	image commune à toutes les langues (PNG de sa seule bande anglaise), delta du .mzp
-	d'origine (ses tuiles modifiées), que version.dll applique à l'original lu dans
-	l'archive du jeu."""
+	"""PNG converted to the game format: .cbg for an English resource; for an image shared
+	by all languages (PNG of its English band only), delta of the original .mzp (its changed
+	tiles), which version.dll applies to the original read from the game archive."""
 	with Image.open(path) as image:
 		if name.endswith(".cbg"):
 			return encode_cbg(image)
 		original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
 		if original is None:
-			raise ValueError(f"{path.name} : {path.stem}.mzp introuvable dans les archives du jeu")
+			raise ValueError(f"{path.name}: {path.stem}.mzp not found in the game archives")
 		full = decode_mzp(original).convert("RGBA")
 		height = full.height // LANGUAGE_BANDS
 		if image.size != (full.width, height):
-			raise ValueError(f"{path.name} : {image.width}x{image.height} au lieu de {full.width}x{height} (bande anglaise)")
+			raise ValueError(f"{path.name}: {image.width}x{image.height} instead of {full.width}x{height} (English band)")
 		full.paste(image.convert("RGBA"), (0, ENGLISH_BAND * height))
-		return encode_mzp_delta(original, full)  # tuiles modifiées seulement, voir version.dll
+		return encode_mzp_delta(original, full)
 
 
 def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir: str, game_dir: str) -> dict[str, bytes]:
 	files: dict[str, bytes] = {}
 
-	# Ressources propres à l'anglais, sous leur nom français. La DLL ne redirige un nom écrit
-	# en clair dans WoH.exe que si l'archive contient sa version française : seuls les noms
-	# composés par le jeu (préfixe + suffixe "_en", toujours redirigé) ont besoin d'une copie.
+	# English resources, under their French name. The DLL redirects a name written in WoH.exe
+	# only if the archive holds its French version: only the names built by the game (prefix +
+	# "_en" suffix, always redirected) need a copy.
 	exe = (Path(game_dir) / "WoH.exe").read_bytes()
 	english = {}
 	for archive in ENGLISH_ARCHIVES:
@@ -76,17 +74,15 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 				if name.encode("utf-16-le") not in exe:
 					files[new] = data
 
-	# Images traduites (PNG converties en .mzp ou .cbg), encodées en parallèle, et polices
+	# Translated images (PNG converted to .mzp or .cbg, encoded in parallel) and fonts
 	images = []
 	for path in sorted(Path(images_dir).glob("*.png")):
-		# ressource anglaise (nom_fr.png), sinon image commune à toutes les langues (imgNNNN, nz1…),
-		# qui garde son nom : version.dll redirige l'entrée de son archive vers la nôtre
+		# English resource (name_fr.png), otherwise image shared by all languages (imgNNNN, nz1…),
+		# which keeps its name: version.dll redirects the entry of its archive to ours
 		if path.with_suffix(".cbg").name in english:
 			images.append((path.with_suffix(".cbg").name, path))
 		else:
 			images.append((path.stem + ".mzp", path))
-	# les .mzp d'abord, comme les images communes s'ajoutent aux ressources anglaises copiées
-	images.sort(key=lambda image: not image[0].endswith(".mzp"))
 	with ProcessPoolExecutor() as pool:
 		encoded = pool.map(_encode_image, [path for _, path in images], [name for name, _ in images],
 		                   [game_dir] * len(images))
@@ -94,7 +90,7 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 			files[name] = data
 	for path in sorted(Path(fonts_dir).iterdir()):
 		if path.name not in english:
-			raise ValueError(f"{path.name} ne correspond à aucune ressource anglaise du jeu")
+			raise ValueError(f"{path.name} matches no English resource of the game")
 		files[path.name] = path.read_bytes()
 
 	text = "".join(lines).replace("\r\n", "\n").replace("\n", "\r\n")
@@ -103,7 +99,7 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 	with open(titles_csv, encoding="utf-8", newline="") as f:
 		rows = list(csv.reader(f))
 	if not rows or any(len(row) != 5 for row in rows):
-		raise ValueError(f"{titles_csv} doit contenir 5 colonnes : clé, ja, fr, zc, zt")
+		raise ValueError(f"{titles_csv} must have 5 columns: key, ja, fr, zc, zt")
 	titles = io.StringIO(newline="")
 	csv.writer(titles, lineterminator="\r\n").writerows(rows)
 	files[TEXT5_ENTRY] = titles.getvalue().encode("utf-8")

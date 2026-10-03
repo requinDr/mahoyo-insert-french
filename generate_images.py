@@ -46,7 +46,7 @@ def main(sections: list[str]):
 		texts = {key: value for key, value in json.load(f).items() if not key.startswith('_')}
 	unknown = [s for s in sections + list(texts) if s not in EDITS]
 	if unknown:
-		sys.exit(f"Section inconnue : {', '.join(unknown)} (choix : {', '.join(EDITS)})")
+		sys.exit(f"Unknown section: {', '.join(unknown)} (choices: {', '.join(EDITS)})")
 	out_dir = Path(conf.images_folder)
 	written = []
 	for section in sections:
@@ -55,7 +55,7 @@ def main(sections: list[str]):
 			EDITS[section](image, config)
 			image.save(out_dir)
 			written.append(image.file_name)
-	print(f"{len(written)} images écrites dans {out_dir} : {', '.join(written)}")
+	print(f"{len(written)} images written to {out_dir}: {', '.join(written)}")
 
 
 if __name__ == '__main__':

@@ -1,5 +1,4 @@
-# map of number => string
-# L'indice est le numéro de ligne compté à partir de 1
+# Source .ks file starting at each line of the script (line numbers start at 1)
 map: dict[int, str] = {
     1: "1-0.ks",
     81: "1-1.ks",
@@ -207,5 +206,3 @@ map: dict[int, str] = {
     23950: "wik_y.ks",
     23952: "wik_z-3.ks",
 }
-
-# 24016 : ??

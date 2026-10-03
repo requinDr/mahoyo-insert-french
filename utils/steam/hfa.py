@@ -1,5 +1,5 @@
-# Format des archives Hunex (.hfa) de la version Steam
-# d'après https://github.com/LinkOFF7/HunexFileArchiveTool
+# Hunex archives (.hfa) of the Steam release,
+# after https://github.com/LinkOFF7/HunexFileArchiveTool
 import struct
 from pathlib import Path
 
@@ -13,7 +13,7 @@ def read_hfa(path: str) -> dict[str, bytes]:
 	with open(path, "rb") as f:
 		data = f.read()
 	if data[:12] != MAGIC:
-		raise ValueError(f"{path} n'est pas une archive HFA")
+		raise ValueError(f"{path} is not an HFA archive")
 	count, = struct.unpack_from("<I", data, 12)
 	start = 16 + count * ENTRY_SIZE
 	files = {}
@@ -29,7 +29,7 @@ def write_hfa(path: str, files: dict[str, bytes]):
 	for name, data in files.items():
 		encoded = name.encode("utf-8")
 		if len(encoded) >= NAME_SIZE:
-			raise ValueError(f"Nom trop long pour une archive HFA : {name}")
+			raise ValueError(f"Name too long for an HFA archive: {name}")
 		table += struct.pack(f"<{NAME_SIZE}sII24x", encoded, len(content), len(data))
 		content += data + b"\xff" * (-len(data) % ALIGN)
 	with open(path, "wb") as f:
@@ -37,8 +37,8 @@ def write_hfa(path: str, files: dict[str, bytes]):
 
 
 def find_in_archives(folder: str, name: str, exclude: str = "") -> bytes | None:
-	"""Contenu de la ressource name dans la première archive data0????.hfa qui la contient,
-	sans charger les archives entières (plusieurs Go)."""
+	"""Content of the resource `name` in the first data0????.hfa archive holding it, without
+	loading whole archives (several GB)."""
 	for path in sorted(Path(folder).glob("data0????.hfa")):
 		if path.name == exclude:
 			continue

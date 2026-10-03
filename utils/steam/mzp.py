@@ -1,21 +1,17 @@
-# Images .mzp (archive « mrgd00 » de tuiles HEP compressées en MZX) du remaster Steam
+# .mzp images of the Steam remaster ("mrgd00" archive of HEP tiles compressed with MZX)
 #
-# Format :
-#  - archive mrgd00 : en-tête, table [secteur, décalage, nb secteurs, taille & 0xFFFF]
-#    (secteurs de 0x800 octets), puis les entrées alignées sur 8 octets ;
-#  - entrée 0 : largeur, hauteur, taille des tuiles, nombre de tuiles, type, rognage,
-#    (palette commune,) puis un octet par tuile : 0 vide (le moteur ne la dessine pas),
-#    1 avec de la transparence, 2 opaque ;
-#  - entrées suivantes : une tuile chacune, compressée en MZX. Deux types d'images :
-#    - HEP (0x0C) : chaque tuile contient un en-tête, un octet d'indice de palette par
-#      pixel et sa propre palette RGBA de 256 couleurs (alpha sur 7 bits) ; les tuiles
-#      débordent d'un pixel (rognage) sur leurs voisines ;
-#    - palette commune (0x01, 8 bits) : la palette est dans l'entrée 0, à la suite de
-#      l'en-tête, et chaque tuile ne contient que les indices ; les couleurs modifiées
-#      prennent la plus proche de cette palette.
+# Format:
+#  - mrgd00 archive: header, table [sector, offset, sector count, size & 0xFFFF] (sectors of
+#    0x800 bytes), then the entries aligned on 8 bytes;
+#  - entry 0: width, height, tile size, tile counts, type, crop, (shared palette,) then one
+#    byte per tile: 0 empty (not drawn by the engine), 1 with transparency, 2 opaque;
+#  - next entries: one tile each, compressed with MZX. Two kinds of images:
+#    - HEP (0x0C): each tile holds a header, one palette index per pixel and its own RGBA
+#      palette of 256 colors (7-bit alpha); tiles overlap their neighbours by one pixel (crop);
+#    - shared palette (0x01, 8 bits): the palette follows the header in entry 0 and each tile
+#      holds only the indices; changed colors take the closest one of this palette.
 #
-# Seules les tuiles dont les pixels changent sont réencodées, les autres sont
-# reprises telles quelles du fichier d'origine.
+# Only the tiles whose pixels change are encoded again, the others are kept as they are.
 import struct
 
 import numpy as np
@@ -25,17 +21,18 @@ MAGIC = b"mrgd00"
 SECTOR = 0x800
 ALIGN = 8
 MZX_MAGIC = b"MZX0"
+DELTA_MAGIC = b"MZPDELTA"
 HEP_HEADER_SIZE = 0x20
 HEP_TYPE = 0x0C
 PALETTE_TYPE = 0x01
-PALETTE_8BIT = (0x01, 0x11, 0x91)
+PALETTE_8BIT = (0x01, 0x11, 0x91)  # 8-bit depths; 0x11 and 0x91: palette blocks swapped
 PALETTE_SIZE = 1024
-EMPTY_TILE, TRANSPARENT_TILE, OPAQUE_TILE = 0, 1, 2  # profondeurs 8 bits ; 0x11 et 0x91 : blocs de la palette permutés
+EMPTY_TILE, TRANSPARENT_TILE, OPAQUE_TILE = 0, 1, 2
 
 
 def _read_entries(data: bytes) -> list[bytes]:
 	if data[:6] != MAGIC:
-		raise ValueError("fichier .mzp invalide")
+		raise ValueError("invalid .mzp file")
 	count, = struct.unpack_from("<H", data, 6)
 	start = 8 + count * 8
 	entries = []
@@ -62,10 +59,10 @@ def _write_entries(entries: list[bytes]) -> bytes:
 
 def _mzx_decompress(data: bytes) -> bytes:
 	if data[:4] != MZX_MAGIC:
-		raise ValueError("tuile MZX invalide")
+		raise ValueError("invalid MZX tile")
 	size, = struct.unpack_from("<I", data, 4)
 	out = bytearray()
-	literals = bytearray()  # le tampon circulaire de 128 octets contient les derniers octets littéraux
+	literals = bytearray()  # the 128-byte ring buffer holds the last literal bytes
 	clear_count = 0
 	i = 8
 	while len(out) < size and i < len(data):
@@ -74,22 +71,22 @@ def _mzx_decompress(data: bytes) -> bytes:
 		command, argument = flags & 3, flags >> 2
 		if clear_count <= 0:
 			clear_count = 0x1000
-		if command == 0:  # répète le dernier mot (zéro au début d'un bloc)
+		if command == 0:  # repeats the last word (zero at the start of a block)
 			last = b"\0\0" if clear_count == 0x1000 else out[-2:]
 			out += last * (argument + 1)
-		elif command == 1:  # copie depuis plus haut
+		elif command == 1:  # copy from earlier output
 			distance, length = 2 * (data[i] + 1), 2 * (argument + 1)
 			i += 1
 			start = len(out) - distance
 			if distance >= length:
 				out += out[start:start + length]
-			else:  # la copie recouvre ce qu'elle écrit : motif répété
+			else:  # the copy overlaps what it writes: repeated pattern
 				out += (out[start:] * (length // distance + 1))[:length]
-		elif command == 2:  # mot du tampon circulaire
+		elif command == 2:  # word from the ring buffer
 			for offset in (argument * 2, argument * 2 + 1):
 				last = offset + (len(literals) - 1 - offset) // 128 * 128
 				out.append(literals[last] if offset < len(literals) else 0)
-		else:  # mots littéraux
+		else:  # literal words
 			chunk = data[i:i + (argument + 1) * 2]
 			i += len(chunk)
 			out += chunk
@@ -99,9 +96,9 @@ def _mzx_decompress(data: bytes) -> bytes:
 
 
 def _match_lengths(words: np.ndarray):
-	"""Pour chaque position, la plus longue répétition (au plus 64 mots) de ce qui précède à une
-	distance de 1 à 256 mots, et cette distance. Distances essayées : les petites (motifs), la
-	ligne du dessus (256 mots = une ligne de tuile) et la dernière apparition des deux mêmes mots."""
+	"""For each position, the longest repeat (64 words at most) of what comes before at a
+	distance of 1 to 256 words, and that distance. Distances tried: the small ones (patterns),
+	the row above (256 words = one tile row) and the last occurrence of the same two words."""
 	total = len(words)
 	positions = np.arange(total)
 	best_length = np.zeros(total, np.int64)
@@ -115,12 +112,12 @@ def _match_lengths(words: np.ndarray):
 	for distance in (*range(1, 9), 128, 256):
 		same = np.zeros(total + 1, bool)
 		same[distance:total] = words[distance:] == words[:-distance]
-		# longueur de la suite de mots égaux qui commence à chaque position
-		breaks = np.where(same, total, positions_end := np.arange(total + 1))
+		# length of the run of equal words starting at each position
+		breaks = np.where(same, total, np.arange(total + 1))
 		next_break = np.minimum.accumulate(breaks[::-1])[::-1][:total]
 		keep(distance, np.minimum(next_break - positions, 64))
 
-	# dernière apparition de la même paire de mots, à moins de 256 mots
+	# last occurrence of the same pair of words, less than 256 words before
 	pairs = words[:-1].astype(np.int64) << 16 | words[1:]
 	order = np.argsort(pairs, kind="stable")
 	previous = np.full(total, -1)
@@ -142,7 +139,7 @@ def _match_lengths(words: np.ndarray):
 
 
 def _mzx_compress(data: bytes) -> bytes:
-	"""Répétitions du mot précédent, copies de ce qui précède et mots littéraux (choix glouton)."""
+	"""Repeats of the previous word, copies of earlier output and literal words (greedy choice)."""
 	data += b"\0" * (len(data) % 2)
 	array = np.frombuffer(data, dtype="<u2")
 	words = array.tolist()
@@ -154,7 +151,7 @@ def _mzx_compress(data: bytes) -> bytes:
 	while cursor < total:
 		if clear_count <= 0:
 			clear_count = 0x1000
-		# Le décodeur répète zéro (et non le mot précédent) au début de chaque bloc de 0x1000 mots
+		# the decoder repeats zero (not the previous word) at the start of each block of 0x1000 words
 		last = 0 if clear_count == 0x1000 else (words[cursor - 1] if cursor else None)
 		run = 0
 		if last is not None:
@@ -169,7 +166,7 @@ def _mzx_compress(data: bytes) -> bytes:
 			out.append(match_distance[cursor] - 1)
 			count = copy
 		else:
-			# littéraux jusqu'à la prochaine répétition ou copie d'au moins 3 mots
+			# literals up to the next repeat or copy of at least 3 words
 			count = 1
 			while count < 64 and cursor + count < total:
 				k = cursor + count
@@ -193,16 +190,15 @@ def _hep_decode(tile: bytes, width: int, height: int) -> np.ndarray:
 
 
 def _reduce_palette(colors: np.ndarray, counts: np.ndarray, indices: np.ndarray):
-	"""Ramène la palette à 256 couleurs (k-means pondéré par le nombre de pixels), en
-	comparant les couleurs telles qu'affichées : prémultipliées par l'opacité."""
+	"""Reduces the palette to 256 colors (k-means weighted by pixel count), comparing the
+	colors as displayed: premultiplied by their opacity."""
 	visible = colors.astype(np.float64)
 	visible[:, :3] *= visible[:, 3:] / 255
 	weights = counts.astype(np.float64)
 	centers = visible[np.argsort(-counts, kind="stable")[:256]].copy()
 
 	def closest(centers):
-		# distances au carré accumulées canal par canal (même résultat que la somme sur les
-		# 4 canaux, sans tableau couleurs × centres × canaux en mémoire)
+		# squared distances summed channel by channel (no colors × centers × channels array)
 		distance = (visible[:, None, 0] - centers[None, :, 0]) ** 2
 		for channel in (1, 2, 3):
 			distance += (visible[:, None, channel] - centers[None, :, channel]) ** 2
@@ -210,7 +206,7 @@ def _reduce_palette(colors: np.ndarray, counts: np.ndarray, indices: np.ndarray)
 
 	for _ in range(20):
 		nearest = closest(centers)
-		# moyenne pondérée des couleurs de chaque groupe (un groupe vide garde son centre)
+		# weighted mean of the colors of each group (an empty group keeps its center)
 		total = np.bincount(nearest, weights, minlength=256)
 		sums = np.stack([np.bincount(nearest, weights * visible[:, c], minlength=256) for c in range(4)], 1)
 		used = total > 0
@@ -225,8 +221,8 @@ def _reduce_palette(colors: np.ndarray, counts: np.ndarray, indices: np.ndarray)
 def _hep_encode(header: bytes, pixels: np.ndarray) -> bytes:
 	height, width = pixels.shape[:2]
 	flat = pixels.reshape(-1, 4).copy()
-	flat[flat[:, 3] == 0] = 0  # couleur des pixels transparents indifférente
-	# couleurs distinctes : chaque pixel RGBA vu comme un entier (même ordre que trier les lignes)
+	flat[flat[:, 3] == 0] = 0  # the color of transparent pixels does not matter
+	# distinct colors: each RGBA pixel seen as an integer (same order as sorting the rows)
 	packed = flat.astype(np.uint32) @ np.array([1 << 24, 1 << 16, 1 << 8, 1], np.uint32)
 	keys, indices, counts = np.unique(packed, return_inverse=True, return_counts=True)
 	colors = ((keys[:, None] >> np.array([24, 16, 8, 0], np.uint32)) & 0xFF).astype(np.uint8)
@@ -239,21 +235,21 @@ def _hep_encode(header: bytes, pixels: np.ndarray) -> bytes:
 
 
 def _shared_palette(header: bytes, depth: int) -> np.ndarray:
-	"""Palette RGBA de 256 couleurs d'une image à palette commune."""
+	"""RGBA palette of 256 colors of a shared-palette image."""
 	if depth not in PALETTE_8BIT:
-		raise ValueError(f"profondeur de palette .mzp non prise en charge : 0x{depth:02x}")
+		raise ValueError(f"unsupported .mzp palette depth: 0x{depth:02x}")
 	palette = np.frombuffer(header, np.uint8, PALETTE_SIZE, 16).reshape(256, 4).copy()
 	alpha = palette[:, 3].astype(np.uint16)
 	palette[:, 3] = np.where(alpha & 0x80, 255, ((alpha << 1) | (alpha >> 6)) & 0xFF)
-	if depth != 0x01:  # dans chaque bloc de 32 couleurs, 8-15 et 16-23 sont échangées
+	if depth != 0x01:  # in each block of 32 colors, 8-15 and 16-23 are swapped
 		for i in range(0, 256, 32):
 			palette[i + 8:i + 16], palette[i + 16:i + 24] = palette[i + 16:i + 24].copy(), palette[i + 8:i + 16].copy()
 	return palette
 
 
 def _tile_codec(entries: list[bytes]):
-	"""En-tête de l'image, et fonctions tuile décompressée -> pixels RGBA et
-	(tuile décompressée, pixels voulus) -> tuile décompressée."""
+	"""Image header, and functions decompressed tile -> RGBA pixels and
+	(decompressed tile, wanted pixels) -> decompressed tile."""
 	header = struct.unpack_from("<7H2B", entries[0])
 	_, _, tile_width, tile_height, _, _, kind, depth, _ = header
 	if kind == HEP_TYPE:
@@ -273,22 +269,14 @@ def _tile_codec(entries: list[bytes]):
 			nearest = np.argmin(((shown[:, None, :] - visible[None, :, :]) ** 2).sum(2), axis=1)
 			return nearest[inverse.ravel()].astype(np.uint8).tobytes() + tile[tile_width * tile_height:]
 		return header, decode, encode
-	raise ValueError(f"type d'image .mzp non pris en charge : 0x{kind:02x}")
-
-
-DELTA_MAGIC = b"MZPDELTA"
-
-
-def encode_mzp(original: bytes, image: Image.Image) -> bytes:
-	"""Remplace les pixels de l'image .mzp d'origine par ceux de image (mêmes dimensions)."""
-	return _write_entries(_replace_tiles(original, image))
+	raise ValueError(f"unsupported .mzp image type: 0x{kind:02x}")
 
 
 def encode_mzp_delta(original: bytes, image: Image.Image) -> bytes:
-	"""Comme encode_mzp, mais seules les tuiles modifiées sont gardées : version.dll
-	reconstruit le fichier complet à partir de l'original du jeu (même disposition que
-	_write_entries). Format : DELTA_MAGIC, taille de l'original, taille du résultat, nombre
-	d'entrées modifiées, puis pour chacune [numéro d'entrée u16, taille u32] et les données."""
+	"""The original .mzp with the pixels of `image`, as a delta of its changed entries only:
+	version.dll rebuilds the whole file from the original of the game (same layout as
+	_write_entries). Format: DELTA_MAGIC, original size, result size, count of changed
+	entries, then for each one [entry index u16, size u32], and the data."""
 	before = _read_entries(original)
 	after = _replace_tiles(original, image)
 	changed = [(i, entry) for i, (old, entry) in enumerate(zip(before, after)) if old != entry]
@@ -297,33 +285,17 @@ def encode_mzp_delta(original: bytes, image: Image.Image) -> bytes:
 	return header + table + b"".join(entry for _, entry in changed)
 
 
-def apply_mzp_delta(original: bytes, delta: bytes) -> bytes:
-	"""Fichier complet à partir de l'original et d'un delta (ce que fait version.dll)."""
-	original_size, result_size, count = struct.unpack_from("<IIH", delta, len(DELTA_MAGIC))
-	if len(original) != original_size:
-		raise ValueError("delta prévu pour un autre fichier")
-	entries = _read_entries(original)
-	position = len(DELTA_MAGIC) + 10 + 6 * count
-	for k in range(count):
-		index, size = struct.unpack_from("<HI", delta, len(DELTA_MAGIC) + 10 + 6 * k)
-		entries[index] = delta[position:position + size]
-		position += size
-	result = _write_entries(entries)
-	assert len(result) == result_size
-	return result
-
-
 def _replace_tiles(original: bytes, image: Image.Image) -> list[bytes]:
-	"""Entrées de l'image .mzp d'origine dont les tuiles qui changent sont réencodées."""
+	"""Entries of the original .mzp, with the tiles that change encoded again."""
 	entries = _read_entries(original)
 	(width, height, tile_width, tile_height, columns, rows, kind, _, crop), decode, encode = _tile_codec(entries)
 	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop
 	header = bytearray(entries[0])
-	flags = 16 + (PALETTE_SIZE if kind == PALETTE_TYPE else 0)  # état de chaque tuile
+	flags = 16 + (PALETTE_SIZE if kind == PALETTE_TYPE else 0)  # state of each tile
 	pixels = np.array(image.convert("RGBA"))
 	if pixels.shape[:2] != (height - rows * 2 * crop, width - columns * 2 * crop):
-		raise ValueError(f"dimensions attendues : {width - columns * 2 * crop}x{height - rows * 2 * crop}")
-	# Image entourée de transparent, pour découper les débordements des tuiles
+		raise ValueError(f"expected size: {width - columns * 2 * crop}x{height - rows * 2 * crop}")
+	# image surrounded with transparency, to cut the overlaps of the tiles
 	padded = np.zeros((rows * step_y + 2 * crop + tile_height, columns * step_x + 2 * crop + tile_width, 4), np.uint8)
 	padded[crop:crop + pixels.shape[0], crop:crop + pixels.shape[1]] = pixels
 
@@ -332,20 +304,20 @@ def _replace_tiles(original: bytes, image: Image.Image) -> list[bytes]:
 		wanted = padded[y * step_y:y * step_y + tile_height, x * step_x:x * step_x + tile_width].copy()
 		tile = _mzx_decompress(entries[index + 1])
 		current = decode(tile)
-		# seule la partie affichée compte : ni le débordement sur les voisines, ni ce qui
-		# dépasse de l'image (où l'original peut contenir n'importe quoi)
+		# only the displayed part matters: neither the overlap on the neighbours nor what lies
+		# outside the image (where the original may hold anything)
 		shown = (slice(crop, crop + min(step_y, pixels.shape[0] - y * step_y)),
 		         slice(crop, crop + min(step_x, pixels.shape[1] - x * step_x)))
 		want, have = wanted[shown], current[shown]
 		visible = (want[:, :, 3] > 0) | (have[:, :, 3] > 0)
 		if not np.array_equal(want[visible], have[visible]):
-			if crop == 0:  # hors de l'image, la tuile garde ses pixels d'origine
+			if crop == 0:  # outside the image, the tile keeps its original pixels
 				outside = np.ones(wanted.shape[:2], bool)
 				outside[shown] = False
 				wanted[outside] = current[outside]
 			tile = encode(tile, wanted)
 			entries[index + 1] = _mzx_compress(tile)
-			# une tuile auparavant vide ne serait pas dessinée
+			# a tile that was empty would not be drawn
 			alpha = decode(tile)[crop:tile_height - crop, crop:tile_width - crop, 3]
 			header[flags + index] = EMPTY_TILE if not alpha.any() else OPAQUE_TILE if alpha.min() == 255 else TRANSPARENT_TILE
 	entries[0] = bytes(header)
@@ -353,7 +325,7 @@ def _replace_tiles(original: bytes, image: Image.Image) -> list[bytes]:
 
 
 def decode_mzp(data: bytes) -> Image.Image:
-	"""Image RGBA d'un .mzp, sans les débordements des tuiles."""
+	"""RGBA image of a .mzp, without the overlaps of the tiles."""
 	entries = _read_entries(data)
 	(width, height, tile_width, tile_height, columns, rows, _, _, crop), decode, _ = _tile_codec(entries)
 	step_x, step_y = tile_width - 2 * crop, tile_height - 2 * crop

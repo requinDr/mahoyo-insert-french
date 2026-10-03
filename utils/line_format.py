@@ -1,97 +1,61 @@
 import re
+
 from utils.char_width import line_char_length
 
-# real textbox width is 2820, but it makes the right margin too thin compared to the left one
-# approximate left margin is around 144 while right is around 35
+# The real text box is 2820 wide, but the right margin would then look too thin next to the
+# left one (about 144 on the left, 35 on the right)
 TEXTBOX_LEFT_MARGIN = 144
 TEXTBOX_RIGHT_MARGIN = 35
-SCREEN_WIDTH = 2944 # 1920(screen) / 32,6(cell) * 50 (ig cell width)
+SCREEN_WIDTH = 2944  # 1920 (screen) / 32.6 (cell) * 50 (cell width in game)
+CENTER = -2  # indentation value that centers the line
 
 SPACE = ' '
-JAPANESE_SPACE = '\u3000'
+JAPANESE_SPACE = '　'
 RUNES_TAGS = ["[ansz]", "[eywz]", "[swel]", "[ingz]"]
-
-# modifie le format du ruby, des .ks ([ruby char="text" text="ruby") à Steam (<text|ruby>)
-PATTERN_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
-def transform_ruby(line: str):
-	match = re.search(PATTERN_RUBY, line)
-	if match:
-		for match in re.finditer(PATTERN_RUBY, line):
-			line = line.replace(match.group(0), f"<{match.group(1)}|{match.group(2)}>")
-	return line
-
-def transform_custom_tags(ligne: str, nbStartSpaces: int):
-	# <r> -> ^
-	if re.search(r'<r>', ligne):
-		ligne = re.sub(r'<r>', '^', ligne)
-	# <ra> -> ^nbStartSpaces
-	if re.search(r'<ra>', ligne):
-		ligne = re.sub(r'<ra>', '^' + nbStartSpaces * SPACE, ligne)
-
-	return ligne
-
-def remove_new_ruby(ligne: str):
-	search = re.search(r'<([^|]+)\|[^>]+>', ligne)
-	if search:
-		# <text|ruby> -> text
-		for match in re.finditer(r'<([^|]+)\|[^>]+>', ligne):
-			ligne = ligne.replace(match.group(0), match.group(1))
-	return ligne
+KS_TAG = r'\[.*?\]'
+KS_RUBY = r'\[ruby char="([^"]+)" text="([^"]+)"\]'
+STEAM_RUBY = r'<([^|]+)\|[^>]+>'
 
 
-def indent(nbStartSpaces: int, ligne: str):
-	# center the text using left spaces
-	if nbStartSpaces == -2:
-		spaceLength = line_char_length(SPACE)
-		lineLength = line_char_length(remove_new_ruby(ligne))
-		# nbStartSpaces = (TEXTBOX_WIDTH - lineLength) // (2 * spaceLength)
-		nbStartSpaces = (SCREEN_WIDTH - max(TEXTBOX_LEFT_MARGIN, TEXTBOX_RIGHT_MARGIN) * 2 - lineLength) // (2 * spaceLength)
+def transform_ruby(line: str) -> str:
+	"""[ruby char="text" text="ruby"] (.ks) -> <text|ruby> (Steam)."""
+	return re.sub(KS_RUBY, r'<\1|\2>', line)
 
-	return SPACE * nbStartSpaces + ligne.lstrip()
 
-PATTERN_KS_TAGS = r'\[.*?\]'
-def remove_ks_tags(ligne: str):
-	# if runes tags are present, change them to steam format [ansz] -> <ansz>
-	hasRunesTags = False
-	if any(tag in ligne for tag in RUNES_TAGS):
-		hasRunesTags = True
-		for tag in RUNES_TAGS:
-			ligne = ligne.replace(tag, f'<{tag[1:-1]}>')
+def transform_custom_tags(line: str, start_spaces: int) -> str:
+	"""Manual line breaks of the corrections: <r> -> ^, <ra> -> ^ and the indentation."""
+	return line.replace('<r>', '^').replace('<ra>', '^' + start_spaces * SPACE)
 
+
+def indent(start_spaces: int, line: str) -> str:
+	if start_spaces == CENTER:
+		space_length = line_char_length(SPACE)
+		line_length = line_char_length(re.sub(STEAM_RUBY, r'\1', line))
+		start_spaces = (SCREEN_WIDTH - max(TEXTBOX_LEFT_MARGIN, TEXTBOX_RIGHT_MARGIN) * 2 - line_length) // (2 * space_length)
+	return SPACE * start_spaces + line.lstrip()
+
+
+def remove_ks_tags(line: str) -> str:
+	# runes tags are kept: [ansz] -> <ansz> while the other tags are removed
+	runes = [tag for tag in RUNES_TAGS if tag in line]
+	for tag in runes:
+		line = line.replace(tag, f'<{tag[1:-1]}>')
 	# ", [r]　" -> ", "
-	if re.search(r'[,\.\?\!A-z] ' + PATTERN_KS_TAGS + JAPANESE_SPACE, ligne):
-		ligne = re.sub(r'([,\.\?\!A-z]) ' + PATTERN_KS_TAGS + JAPANESE_SPACE, r'\1 ', ligne)
-
-	# replace Japanese space by normal space
-	ligne = ligne.replace(JAPANESE_SPACE, SPACE)
-
-	# "on dit qu'elle se base[r]sur une légende" -> "on dit qu'elle se base sur une légende"
-	if re.search(r'\w+\[r\]\w+', ligne):
-		ligne = re.sub(r'(\w+)\[r\](\w+)', r'\1 \2', ligne)
-	
-	# "on dit qu'elle se base [r] sur une légende" -> "on dit qu'elle se base sur une légende"
-	if re.search(r'\w+ \[r\] \w+', ligne):
-		ligne = re.sub(r'(\w+) \[r\] (\w+)', r'\1 \2', ligne)
-
-	# remove all tags
-	ligne = re.sub(PATTERN_KS_TAGS, '', ligne)
-
-	# if runes tags were present, change them back to ks format <ansz> -> [ansz]
-	if hasRunesTags:
-		for tag in RUNES_TAGS:
-			ligne = ligne.replace(f'<{tag[1:-1]}>', tag)
-
-	return ligne
-
-def set_indentation(line: str, nbStartSpaces: int):
-	line = transform_custom_tags(line, nbStartSpaces)
-	line = line.strip()
-	line = indent(nbStartSpaces, line) + "\n"
+	line = re.sub(r'([,\.\?\!A-z]) ' + KS_TAG + JAPANESE_SPACE, r'\1 ', line)
+	line = line.replace(JAPANESE_SPACE, SPACE)
+	# "se base[r]sur" and "se base [r] sur" -> "se base sur"
+	line = re.sub(r'(\w+)\[r\](\w+)', r'\1 \2', line)
+	line = re.sub(r'(\w+) \[r\] (\w+)', r'\1 \2', line)
+	line = re.sub(KS_TAG, '', line)
+	for tag in runes:
+		line = line.replace(f'<{tag[1:-1]}>', tag)
 	return line
 
-def format_line_to_steam(ligne: str):
-	ligne = transform_ruby(ligne)
-	ligne = remove_ks_tags(ligne)
-	ligne = ligne.strip() + "\n"
 
-	return ligne
+def set_indentation(line: str, start_spaces: int) -> str:
+	line = transform_custom_tags(line, start_spaces).strip()
+	return indent(start_spaces, line) + "\n"
+
+
+def format_line_to_steam(line: str) -> str:
+	return remove_ks_tags(transform_ruby(line)).strip() + "\n"

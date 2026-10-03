@@ -43,7 +43,7 @@ def text_boxes(image: GameImage, config: dict):
 	for x0, y0, x1, y1, text in config['boxes']:
 		letters = _letters(original[y0:y1, x0:x1])
 		if not letters.any():
-			raise ValueError(f'{image.name} : pas de texte dans la zone {[x0, y0, x1, y1]}')
+			raise ValueError(f'{image.name}: no text in the box {[x0, y0, x1, y1]}')
 		measured.append((letters, *first_letter(letters)))
 	spacing = None
 	if config.get('spacing', 'english') == 'uniform':
