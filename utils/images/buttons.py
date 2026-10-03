@@ -1,7 +1,7 @@
 """Buttons drawn on an opaque background (tabs of the settings): a grid of cells, one
 button per column, one state per row (normal, hovered…). The English image exists in the
-other languages with the same buttons and another text: the English text is erased with
-their background; where all of them have text, the edges around are continued. Each label
+other languages with the same buttons and another text, which shows where the English text
+is; it is erased by continuing the button around it. Each label
 is then written like its English one: centered, same height, letter spacing, color, glow."""
 import numpy as np
 from scipy import ndimage
@@ -9,9 +9,10 @@ from scipy import ndimage
 from utils.images.effects import blur, fit_blur, over, ring
 from utils.images.fonts import size_for_height
 from utils.images.game import GameImage
-from utils.images.inpaint import directional_fill
 from utils.images.text import TextLayer, first_letter, fit_lines
 
+GLOW = 8     # extent of the glow around the letters (px)
+BORDER = 4   # thickness of the frame of a button (px), never redrawn
 MARGIN = 14  # px between a label that has to be reduced and the edges of its button
 
 
@@ -19,18 +20,25 @@ def _light(pixels):
 	return pixels[..., :3].sum(-1)
 
 
-def _erase(english, others):
-	"""English image without its text (light letters and their glow)."""
-	def text(layer, rest):
-		return ndimage.binary_dilation(_light(layer) - np.min([_light(o) for o in rest], 0) > 40, iterations=6)
-	layers = [english] + others
-	masks = [text(layer, [o for j, o in enumerate(layers) if j != i]) for i, layer in enumerate(layers)]
-	clean, hole = english.copy(), masks[0].copy()
-	for other, mask in zip(others, masks[1:]):
-		usable = hole & ~mask
-		clean[usable] = other[usable]
-		hole &= ~usable
-	return directional_fill(clean, hole) if hole.any() else clean
+def _erase_cell(cell, text):
+	"""One cell without its text: inside the button, the band holding the text and its glow
+	(from the top of the button, so that no seam crosses its gloss) is filled row by row
+	between the button just left and just right of it: the button changes from top to
+	bottom, hardly from left to right."""
+	clean = cell.copy()
+	inner = ndimage.binary_erosion(cell[..., 3] > 200, iterations=BORDER)  # inside the frame
+	text &= inner
+	if not text.any():
+		return clean
+	rows, cols = np.flatnonzero(text.any(1)), np.flatnonzero(text.any(0))
+	inside_rows, inside_cols = np.flatnonzero(inner.any(1)), np.flatnonzero(inner.any(0))
+	x0 = max(cols[0] - GLOW, inside_cols[0] + 2)
+	x1 = min(cols[-1] + 1 + GLOW, inside_cols[-1] - 1)
+	t = (np.arange(x0, x1) - (x0 - 1)) / (x1 - x0 + 1)
+	for y in range(inside_rows[0], min(rows[-1] + 1 + GLOW, inside_rows[-1] + 1)):
+		left, right = cell[y, x0 - 1], cell[y, x1]
+		clean[y, x0:x1] = left * (1 - t[:, None]) + right * t[:, None]
+	return clean
 
 
 def _label(original, clean, text):
@@ -61,12 +69,14 @@ def _label(original, clean, text):
 def glow_tabs(image: GameImage, config: dict):
 	"""config: {"texts": label of each column, "states": number of rows}."""
 	original = image.target
-	clean = _erase(original, image.language_variants())
+	# the English text: brighter than the same image in every other language
+	text = _light(original) - np.min([_light(o) for o in image.language_variants()], 0) > 60
 	columns, rows = len(config['texts']), config['states']
 	width, height = image.width // columns, image.height // rows
-	result = clean.copy()
+	result = original.copy()
 	for row in range(rows):
-		for column, text in enumerate(config['texts']):
+		for column, label in enumerate(config['texts']):
 			cell = (slice(row * height, (row + 1) * height), slice(column * width, (column + 1) * width))
-			result[cell] = _label(original[cell], clean[cell], text)
+			clean = _erase_cell(original[cell], text[cell].copy())
+			result[cell] = _label(original[cell], clean, label)
 	image.target = result
