@@ -212,6 +212,24 @@
 			]
 		}
 	},
+	"archive_chapters": {
+		"archive_010": "Chapitre 1",
+		"archive_015": "Chapitre 1.5",
+		"archive_020": "Chapitre 2",
+		"archive_030": "Chapitre 3",
+		"archive_040": "Chapitre 4",
+		"archive_050": {"text": "Chapitre 5", "small": "- Partie 1"},
+		"archive_055": {"text": "Chapitre 5", "small": "- Partie 2"},
+		"archive_060": "Chapitre 6",
+		"archive_070": "Chapitre 7",
+		"archive_080": "Chapitre 8",
+		"archive_085": "Chapitre 8.5",
+		"archive_090": "Chapitre 9",
+		"archive_100": "Chapitre 10",
+		"archive_110": "Chapitre 11",
+		"archive_120": "Chapitre 12",
+		"archive_130": "Chapitre 13"
+	},
 	"deduction_captions": {
 		"1961": "Impossible de le démasquer sans preuve",
 		"1962": "Un Ploy avait disparu du coffre",

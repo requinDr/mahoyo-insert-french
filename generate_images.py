@@ -30,6 +30,7 @@ EDITS = {
 	'warning': backgrounds.warning,
 	'apology': backgrounds.apology,
 	'speech_bubbles': backgrounds.speech_bubble,
+	'archive_chapters': captions.glow_caption,
 	'deduction_captions': captions.glow_caption,
 	'quote': captions.quote,
 	'outlined_blocks': captions.outlined_blocks,
