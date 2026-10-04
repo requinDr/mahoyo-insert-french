@@ -1,5 +1,10 @@
 """French script built from the Japanese one: each Japanese line is looked up in the
-Japanese .ks sources and replaced by the same line of the French sources."""
+Japanese .ks sources and replaced by the same line of the French sources.
+
+The Japanese text of the Steam release sometimes differs from the .ks sources: a line cut in
+two, a particle added or removed. Such a line takes the French of the matching sentences of
+its source line, or else of the closest Japanese line just after the last one found."""
+import difflib
 import os
 import re
 
@@ -12,6 +17,14 @@ from utils.utils import get_file_lines, leading_spaces, progress, write_file_lin
 
 indent_script: list[str] = get_file_lines(conf.script_source_indent)
 missing_lines: dict[int, str] = {}
+
+SEARCH_WINDOW = 20  # source lines looked at after the last one found
+MIN_SIMILARITY = 0.8  # of the closest Japanese line
+MIN_JAPANESE = 3  # characters, for lines that are not Japanese text (English, Latin, dashes)
+JAPANESE = re.compile(r'[\u3040-\u30ff\u4e00-\u9fff]')  # kana and kanji
+KS_TAG = re.compile(r'\[[^\]]*\]')
+JP_SENTENCE_END = re.compile(r'(?<=[。！？!?])(?![」』）。！？!?])|(?<=[」』])(?=[^」』])')
+FR_SENTENCE_END = re.compile(r'(?<=[.!?…」』])\s+')
 
 
 def find_source_line(source_lines: list[str], line: str) -> int | None:
@@ -42,6 +55,42 @@ def get_partial_translation(i: int, jp_lines: list[str], fr_lines: list[str], sc
 	return None, None
 
 
+def jp_text(line: str) -> str:
+	return KS_TAG.sub('', line).replace('\u3000', '').strip()
+
+
+def get_sentence_translation(line: str, jp_lines: list[str], fr_lines: list[str], last_found: int):
+	"""French of a script line made of whole sentences of a source line (the Steam release cut
+	the line in two), when the source line has as many sentences in both languages."""
+	for index in range(last_found + 1, min(len(jp_lines), last_found + 1 + SEARCH_WINDOW)):
+		jp = [s for s in JP_SENTENCE_END.split(jp_text(jp_lines[index])) if s]
+		if line not in ''.join(jp) or line == ''.join(jp):
+			continue
+		if index >= len(fr_lines):
+			break
+		fr = [s for s in FR_SENTENCE_END.split(format_line_to_steam(fr_lines[index]).strip()) if s]
+		for start in range(len(jp)):
+			for end in range(start + 1, len(jp) + 1):
+				if ''.join(jp[start:end]) == line and len(fr) == len(jp):
+					# the rest of the source line can still be found by the next script line
+					return ' '.join(fr[start:end]), index - (1 if end < len(jp) else 0)
+		break
+	return None, None
+
+
+def get_closest_translation(line: str, jp_lines: list[str], fr_lines: list[str], last_found: int):
+	"""French of the closest Japanese line just after the last one found (the Steam release
+	changed a few characters)."""
+	best, best_ratio = None, MIN_SIMILARITY
+	for index in range(last_found + 1, min(len(jp_lines), last_found + 1 + SEARCH_WINDOW)):
+		ratio = difflib.SequenceMatcher(None, line, jp_text(jp_lines[index])).ratio()
+		if ratio > best_ratio:
+			best, best_ratio = index, ratio
+	if best is None or best >= len(fr_lines):
+		return None, None
+	return fr_lines[best], best
+
+
 def format_line(index: int, line: str) -> str:
 	return set_indentation(format_line_to_steam(line), leading_spaces(indent_script[index]))
 
@@ -58,6 +107,13 @@ def line_process(script: list[str], i: int, jp_lines: list[str], fr_lines: list[
 	if part is not None:
 		script[i] = format_line(i, part)
 		return index
+	line = script[i].strip()
+	if len(JAPANESE.findall(line)) >= MIN_JAPANESE:
+		for find in (get_sentence_translation, get_closest_translation):
+			part, index = find(line, jp_lines, fr_lines, last_found)
+			if part is not None:
+				script[i] = format_line(i, part)
+				return index
 	if conf.create_csv:
 		missing_lines[i + 1] = script[i]
 	return last_found
