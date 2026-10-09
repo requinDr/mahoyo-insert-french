@@ -8,12 +8,5 @@ avant,après,commentaire
 　," ",espace japonaise (lignes blanches) -> espace
 ─,―,trait de dessin (U+2500) -> tiret long utilisé partout ailleurs
 ・,"- ",puce japonaise -> tiret comme en anglais
-①,(1),
-②,(2),
-③,(3),
-④,(4),
-⑤,(5),
 【,[,
 】,],
- ☆,.,étoile absente de la police : remplacée par un point
-☆,.,étoile absente de la police : remplacée par un point
