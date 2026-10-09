@@ -3,7 +3,7 @@
 　en sillonnant l'épaisse couche de neige.
 *page1|
 　Un nombre impressionnant de bêtes s'étaient réunies en un rien de temps.
-　Le parc était envahi par une dizaine de chiens sauvages à la respiration rugueuse qui fixaient Alice.
+　Le parc était envahi par des dizaines de chiens sauvages à la respiration rugueuse qui fixaient Alice.
 *page2|
 　Les chiens étaient tous dans un piteux état, frigorifiés par le froid.
 　Par contre, leurs crocs claquants et leurs yeux injectés de sang semblaient prêts à s'élancer comme un éclair à tout moment.
@@ -11,7 +11,7 @@
 　Pour eux, la fille vêtue de noir évoquait même un phare se dressant au-dessus d'une mer ténébreuse.
 *page3|
 　Alice observait ce spectacle d'un œil distrait.
-　Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōgawa où s'était rendue Aoko, mais ici, à Yashirogi.
+　Apparemment, ce soir, la vraie bataille n'aurait pas lieu à Tōkawa où s'était rendue Aoko, mais ici, à Yashirogi.
 　Elle n'était pas du genre à perdre son sang-froid pour si peu, et ce type de menace n'avait rien d'extraordinaire, même un enfant n'aurait pas été surpris.
 　L'ennemi dont devait se méfier Alice n'était pas les chiens sauvages qui l'encerclaient, mais le Mage qui se tenait en arrière dans les ténèbres―――Aozaki Tōko elle-même.
 *page4|

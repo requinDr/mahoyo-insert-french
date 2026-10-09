@@ -14,7 +14,7 @@
 　L'oiseau bleu, tout en battant des ailes, s'efforçait d'installer une ambiance chaleureuse après le repas.
 *page3|
 　Alice était en pleine lecture dans la véranda.
-　Environ trente minutes s'étaient écoulées depuis qu'elles avaient décidé de prendre une pause au cours de leur discussion concernant la stratégie à adopter contre le Mage ennemi.
+　Elles avaient décidé de faire une pause d'une demi-heure avant de reprendre leur discussion concernant la stratégie à adopter contre le Mage ennemi.
 *page4|
 『Et pour Adidas alors ?[r]
 　Peut-être que ça vient d'Adios ?』
@@ -507,11 +507,11 @@ Heureusement, ce dernier se calma enfin.
 　C'était pratiquement leur première rencontre, et pourtant, Tobimaru et Alice ignoraient le vieil homme avec un travail d'équipe remarquable.
 *page123|
 「Ha ha, je m'incline. Alice est tellement charmante lorsqu'elle cache son embarras.
-　À propos, vous pouvez m'appeler Yûrihi.」
+　À propos, vous pouvez m'appeler Julich.」
 　Le vieux Tokitsu saisit doucement la main de la jeune fille.
 *page124|
 　Alice prit un air de poupée.
-「Tokki. Je cherche de délicieuses tasses en céramique peintes. Tu n'en aurais pas des ateliers Ambrosius Lamm datant des années 1900 ?」
+「Tokkii. Je cherche de délicieuses tasses en céramique peintes. Tu n'en aurais pas des ateliers Ambrosius Lamm datant des années 1900 ?」
 「J'en ai. Bien sûr que j'en ai. Je t'en préparerai une pour la prochaine fois où tu viendras avec ton amie effrayante.」
 　Elle maîtrisa avec splendeur les intentions secrètes du vieil homme.
 *page125|
