@@ -42,8 +42,9 @@ def french_name(name: str) -> str | None:
 
 def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
 	"""PNG converted to the game format: .cbg for an English resource; for an image shared
-	by all languages (PNG of its English band only), delta of the original .mzp (its changed
-	tiles), which version.dll applies to the original read from the game archive."""
+	by all languages (PNG of its English band, or of the whole image when it is not made of
+	language bands), delta of the original .mzp (its changed tiles), which version.dll applies
+	to the original read from the game archive."""
 	with Image.open(path) as image:
 		if name.endswith(".cbg"):
 			return encode_cbg(image)
@@ -52,8 +53,11 @@ def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
 			raise ValueError(f"{path.name}: {path.stem}.mzp not found in the game archives")
 		full = decode_mzp(original).convert("RGBA")
 		height = full.height // LANGUAGE_BANDS
+		if image.size == full.size:  # whole image (not made of language bands)
+			return encode_mzp_delta(original, image)
 		if image.size != (full.width, height):
-			raise ValueError(f"{path.name}: {image.width}x{image.height} instead of {full.width}x{height} (English band)")
+			raise ValueError(f"{path.name}: {image.width}x{image.height} instead of {full.width}x{height} "
+			                 f"(English band) or {full.width}x{full.height} (whole image)")
 		full.paste(image.convert("RGBA"), (0, ENGLISH_BAND * height))
 		return encode_mzp_delta(original, full)
 

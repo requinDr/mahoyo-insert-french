@@ -36,7 +36,8 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
   génération. Une image doit garder les dimensions et la disposition de l'originale
   (états normal/survolé…).
 - `sources/assets-fr/imgNNNN.png` : images communes à toutes les langues (4 bandes :
-  ja, en, zc, zt), dont seule la bande anglaise traduite est stockée ; le build la remet
+  ja, en, zc, zt), dont seule la bande anglaise traduite est stockée (ou l'image entière pour une image
+  sans bandes de langues) ; le build la remet
   dans l'image d'origine et n'en garde que les tuiles modifiées. Elles gardent leur nom
   d'origine : `version.dll` reconstruit l'image et redirige l'entrée du jeu vers elle.
 - `sources/fonts-fr` : polices françaises (atlas `FONT_fr_*.mzp`, tables `Font040*.ccit`).
