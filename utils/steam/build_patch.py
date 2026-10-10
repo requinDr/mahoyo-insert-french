@@ -1,5 +1,6 @@
 """Builds the Steam patch: version.dll + data00999.hfa, to copy into the game folder."""
 import csv
+import hashlib
 import io
 import re
 import shutil
@@ -25,6 +26,8 @@ LANGUAGE_BANDS = 4
 ENGLISH_BAND = 1
 # Built from native/version.c (see native/build_dll.py)
 DLL_PATH = Path(__file__).resolve().parents[2] / "native" / "version.dll"
+# Encoded images, reused while the PNG and the original image are unchanged
+IMAGE_CACHE = Path(__file__).resolve().parents[2] / "build" / "images"
 
 # Resources shared by all languages: same table as shared_names in native/version.c
 SHARED_NAMES = {"mode1.cbg": "modfr.cbg"}
@@ -40,6 +43,19 @@ def french_name(name: str) -> str | None:
 	return new if new != name else None
 
 
+def _cached_image(path: Path, name: str, game_dir: str) -> tuple[str, bytes]:
+	"""_encode_image, through IMAGE_CACHE; also returns the cache key."""
+	original = b"" if name.endswith(".cbg") else find_in_archives(game_dir, name, exclude=ARCHIVE_NAME) or b""
+	key = hashlib.sha256(name.encode() + path.read_bytes() + original).hexdigest()
+	cached = IMAGE_CACHE / key
+	if cached.exists():
+		return key, cached.read_bytes()
+	data = _encode_image(path, name, game_dir)
+	IMAGE_CACHE.mkdir(parents=True, exist_ok=True)
+	cached.write_bytes(data)
+	return key, data
+
+
 def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
 	"""PNG converted to the game format: .cbg for an English resource; for an image shared
 	by all languages (PNG of its English band, or of the whole image when it is not made of
@@ -48,9 +64,9 @@ def _encode_image(path: Path, name: str, game_dir: str) -> bytes:
 	with Image.open(path) as image:
 		if name.endswith(".cbg"):
 			return encode_cbg(image)
-		original = find_in_archives(game_dir, path.stem + ".mzp", exclude=ARCHIVE_NAME)
+		original = find_in_archives(game_dir, name, exclude=ARCHIVE_NAME)
 		if original is None:
-			raise ValueError(f"{path.name}: {path.stem}.mzp not found in the game archives")
+			raise ValueError(f"{path.name}: {name} not found in the game archives")
 		full = decode_mzp(original).convert("RGBA")
 		height = full.height // LANGUAGE_BANDS
 		if image.size == full.size:  # whole image (not made of language bands)
@@ -88,10 +104,14 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 		else:
 			images.append((path.stem + ".mzp", path))
 	with ProcessPoolExecutor() as pool:
-		encoded = pool.map(_encode_image, [path for _, path in images], [name for name, _ in images],
-		                   [game_dir] * len(images))
-		for (name, _), data in zip(images, encoded):
-			files[name] = data
+		encoded = list(pool.map(_cached_image, [path for _, path in images], [name for name, _ in images],
+		                        [game_dir] * len(images)))
+	for (name, _), (_, data) in zip(images, encoded):
+		files[name] = data
+	used = {key for key, _ in encoded}
+	for cached in IMAGE_CACHE.iterdir():
+		if cached.name not in used:
+			cached.unlink()
 	for path in sorted(Path(fonts_dir).iterdir()):
 		if path.name not in english:
 			raise ValueError(f"{path.name} matches no English resource of the game")

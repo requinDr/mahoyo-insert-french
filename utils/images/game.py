@@ -6,15 +6,17 @@ Two kinds of images:
   patch build puts it back into the original image);
 - English images (name_en.cbg, named by name): the whole image is redrawn, saved as name_fr.
 """
+from functools import cache
 from pathlib import Path
 
 import numpy as np
 from PIL import Image
 
 import utils.config_importer as conf
+from utils.images.blurred_variants import blurred, variants_of
 from utils.steam.build_patch import ARCHIVE_NAME, ENGLISH_BAND, LANGUAGE_BANDS
 from utils.steam.cbg import decode_cbg
-from utils.steam.hfa import find_in_archives
+from utils.steam.hfa import archive_names, find_in_archives
 from utils.steam.mzp import decode_mzp
 
 
@@ -27,6 +29,11 @@ def _read(name: str) -> bytes:
 	if data is None:
 		raise FileNotFoundError(f'{name} not found in the game archives ({conf.game_folder})')
 	return data
+
+
+@cache
+def _names() -> set[str]:
+	return archive_names(conf.game_folder, exclude=ARCHIVE_NAME)
 
 
 def original_image(number: int) -> Image.Image:
@@ -84,5 +91,13 @@ class GameImage:
 		return f'{self.name}.png' if self.shared else f'{self.name}_fr.png'
 
 	def save(self, out_dir: Path):
-		"""Saves the redrawn part only: the English band, or the whole English image."""
+		"""Saves the redrawn part only: the English band, or the whole English image, and the
+		English band of the blurred variants of the image."""
 		Image.fromarray(np.clip(np.round(self.target), 0, 255).astype(np.uint8)).save(out_dir / self.file_name, optimize=True)
+		if not self.shared:
+			return
+		full = Image.fromarray(np.clip(np.round(self.pixels), 0, 255).astype(np.uint8))
+		top = self.target_band * self.height
+		for variant, x, y in variants_of(self.name, _names()):
+			band = blurred(full, x, y).crop((0, top, self.width, top + self.height))
+			band.save(out_dir / f'{variant}.png', optimize=True)

@@ -54,3 +54,21 @@ def find_in_archives(folder: str, name: str, exclude: str = "") -> bytes | None:
 					f.seek(16 + count * ENTRY_SIZE + offset)
 					return f.read(size)
 	return None
+
+
+def archive_names(folder: str, exclude: str = "") -> set[str]:
+	"""Names of all the resources of the data0????.hfa archives (tables only)."""
+	names = set()
+	for path in sorted(Path(folder).glob("data0????.hfa")):
+		if path.name == exclude:
+			continue
+		with open(path, "rb") as f:
+			header = f.read(16)
+			if header[:12] != MAGIC:
+				continue
+			count, = struct.unpack_from("<I", header, 12)
+			table = f.read(count * ENTRY_SIZE)
+		for i in range(count):
+			name, = struct.unpack_from(f"<{NAME_SIZE}s", table, i * ENTRY_SIZE)
+			names.add(name.rstrip(b"\0").decode("utf-8"))
+	return names

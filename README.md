@@ -40,6 +40,10 @@ l'option de lancement Steam `WINEDLLOVERRIDES="version=n,b" %command%` (expliqu�
   sans bandes de langues) ; le build la remet
   dans l'image d'origine et n'en garde que les tuiles modifiées. Elles gardent leur nom
   d'origine : `version.dll` reconstruit l'image et redirige l'entrée du jeu vers elle.
+- `sources/assets-fr/imgNNNN_XX_YY.png` : versions floues de ces images, utilisées par le jeu pour
+  certains effets (logo projeté sur un écran…), écrites par `generate_images.py` avec leur image.
+
+Les images encodées sont gardées dans `build/images` : seules les PNG modifiées sont réencodées.
 - `sources/fonts-fr` : polices françaises (atlas `FONT_fr_*.mzp`, tables `Font040*.ccit`).
 
 ## Images au texte dessiné
