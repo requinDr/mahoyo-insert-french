@@ -85,6 +85,7 @@ LINE_COLOR = (201, 42, 42)
 SCALE_X = 0.87          # Segoe Print is wider than the original handwriting
 SIZE_PER_HEIGHT = 0.89  # font size for an original line of a given height
 ENTRY_PITCH = 2.2       # spacing between two entries (in font sizes)
+MIN_ENTRY_PITCH = 1.75  # tightest spacing, before reducing the size
 LINE_PITCH = 1.4        # line spacing inside an entry
 LIST_PITCH = 1.75       # spacing between two items of a numbered list
 WAVE = dict(thickness=5, amplitude=3.5, period=36)  # underline, measured on the English
@@ -166,16 +167,21 @@ def _draw_handwriting(image, texts, underlines, font, size, top):
 
 
 def sheet(image: GameImage, entries: list):
-	"""One entry per item: [underlined label or None, paragraph, paragraph…]."""
+	"""One entry per item: [underlined label or None, paragraph, paragraph…]. The sheet may be
+	as wide as the widest language, but not lower than the English one: the game hides what
+	lies below it."""
 	left, top, size = _metrics(image.target)
-	right, bottom = image.ink_bounds(60)  # area used by the 4 languages
+	right, _ = image.ink_bounds(60)  # width used by the 4 languages
+	bottom = np.flatnonzero((image.target[..., 3] > 60).any(1))[-1]
 	width = (right - left) / SCALE_X
-	for scale in np.arange(1.0, 0.5, -0.02):
-		pitch = ENTRY_PITCH if scale > 0.9 else ENTRY_PITCH * 0.85
-		font, texts, underlines, total = _layout(entries, size * scale, pitch, left / SCALE_X, width)
-		if top + total <= bottom + 4:
+	original = image.target.copy()
+	# the entries get closer before the letters get smaller
+	for scale, pitch in ((s, p) for s in np.arange(1.0, 0.5, -0.02) for p in np.arange(ENTRY_PITCH, MIN_ENTRY_PITCH, -0.1)):
+		font, texts, underlines, _ = _layout(entries, size * scale, pitch, left / SCALE_X, width)
+		image.target = original
+		_draw_handwriting(image, texts, underlines, font, size * scale, top)
+		if np.flatnonzero((image.target[..., 3] > 60).any(1))[-1] <= bottom:
 			break
-	_draw_handwriting(image, texts, underlines, font, size * scale, top)
 
 
 def caption(image: GameImage, text: str):
