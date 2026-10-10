@@ -175,8 +175,11 @@ def sheet(image: GameImage, entries: list):
 	bottom = np.flatnonzero((image.target[..., 3] > 60).any(1))[-1]
 	width = (right - left) / SCALE_X
 	original = image.target.copy()
-	# the entries get closer before the letters get smaller
-	for scale, pitch in ((s, p) for s in np.arange(1.0, 0.5, -0.02) for p in np.arange(ENTRY_PITCH, MIN_ENTRY_PITCH, -0.1)):
+	# the letters get a little smaller first (longer lines, fewer breaks), then the entries
+	# get closer, before the letters get smaller still
+	slightly = [(s, ENTRY_PITCH) for s in np.arange(1.0, 0.9, -0.02)]
+	further = [(s, p) for s in np.arange(0.9, 0.5, -0.02) for p in np.arange(ENTRY_PITCH, MIN_ENTRY_PITCH, -0.1)]
+	for scale, pitch in slightly + further:
 		font, texts, underlines, _ = _layout(entries, size * scale, pitch, left / SCALE_X, width)
 		image.target = original
 		_draw_handwriting(image, texts, underlines, font, size * scale, top)
