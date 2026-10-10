@@ -19678,9 +19678,9 @@ Je n'accepterais plus de sitôt l'aide de ce répugnant loup doré.
         accompagnés de Robin the Crook.
       Je voudrais inviter dans le rôle du professeur,
       My Angel, Mam'zelle Alice.
-  Au fait, ici c'est la chambre de Mam'zelle Alice !
-  Comme elle v'nait pas aux studios alors qu'c'était^  l'heure,
- j'ai amené la caméra dans sa chambre.
+Au fait, ici c'est la chambre de Mam'zelle Alice !
+Comme elle v'nait pas aux studios alors qu'c'était l'heure,
+j'ai amené la caméra dans sa chambre.
   C'est juste une inversion de perspective,
   vous voyez ? Si l'invité n'vient pas, il n'y a qu'à
   venir faire l'émission dans sa chambre, non ?
@@ -19737,8 +19737,8 @@ Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.
     les familiers possédant une intelligence compatible
     avec les humains comme toi sont aussi des exceptions.
 Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.
-Leur coût en prana est juste trop grand. En général, le Mage gagnerait
- à faire le travail lui-même ou à utiliser des ressources plus abordables.
+Leur coût en prana est trop élevé. En général, le Mage gagnerait
+à faire le travail lui-même ou à utiliser des ressources plus abordables.
     En d'autres termes,
     la fin ne justifie pas les moyens, hein.
         Hm ? Quelque part, ça veut dire que le familier^        est toujours plus faible que le Mage, hein.
@@ -19755,9 +19755,9 @@ Leur coût en prana est juste trop grand. En général, le Mage gagnerait
     un derringer dans le ventre une prochaine fois ?
     Tu ne pourras plus gazouiller, rire, ou voler,
     mais il y a de fortes chances que tu puisses^    au moins déstabiliser l'ennemi.
-    Ro―――Robin le Pétard !
-    Trop cool !
- J'ai l'intuition que j'aurai^    un grand rôle à jouer à Noël......!
+Ro―――Robin le Pétard !
+Trop cool !
+J'ai l'intuition que j'aurai un grand rôle à jouer à Noël......!
     Tu serais plutôt un lance-pois.
     Je me demande si tes projectiles^    se feront juste gober.
   Vous êtes vachement dure.
