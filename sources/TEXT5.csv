@@ -23,11 +23,11 @@ SYSMES_CONF_021,BGMの音源を2chにします,Musique en mono.,背景音乐音�
 SYSMES_CONF_022,BGMの音源を5.1chにします,Musique en stéréo.,背景音乐音源设为5.1声道,將BGM音源設為5.1聲道
 SYSMES_CONF_100,ボイスの設定を行います,Modifier les paramètres des dialogues.,设置语音,設定遊戲語音
 SYSMES_CONF_101,ボイスの設定を初期設定に戻します,Réinitialiser les volumes de dialogues.,将语音设置恢复为初始设置,將遊戲語音恢復為初始設定
-SYSMES_CONF_102,システムボイスを変更します,Modifier les voix système.,变更系统语音,變更系統語音
+SYSMES_CONF_102,システムボイスを変更します,Modifier les dialogues système.,变更系统语音,變更系統語音
 SYSMES_CONF_103,？？？のボイス出力を設定します,Modifier le volume des dialogues de ???.,设置？？？的语音输出,設定？？？的語音輸出
 SYSMES_CONF_104,？？？のボイス音量を設定します,Modifier le volume de ???.,设置？？？的语音音量,設定？？？的語音音量
 SYSMES_CONF_105,？？？のボイス音量を下げます,Baisser le volume des dialogues de ???.,降低？？？的语音音量,調低？？？的語音音量
-SYSMES_CONF_106,？？？のボイス音量を上げます,Augmenter le volume des voix de ???.,提高？？？的语音音量,調高？？？的語音音量
+SYSMES_CONF_106,？？？のボイス音量を上げます,Augmenter le volume des dialogues de ???.,提高？？？的语音音量,調高？？？的語音音量
 SYSMES_CONF_107,その他女性のボイス出力を設定します,Modifier le volume des dialogues des personnages féminins.,设置其他女性的语音输出,設定其他女性的語音輸出
 SYSMES_CONF_108,その他女性のボイス音量を設定します,Volume des dialogues des personnages féminins.,设置其他女性的语音音量,設定其他女性的語音音量
 SYSMES_CONF_109,その他女性のボイス音量を下げます,Baisser le volume des dialogues des personnages féminins.,降低其他女性的语音音量,調低其他女性的語音音量
@@ -154,7 +154,7 @@ SYSMES_MODE_003,押している間、早送りします,Garder appuyé pour avan
 SYSMES_MODE_004,オートモードのＯＮ、ＯＦＦを切り替えます,Activer/désactiver le défilement auto.,打开、关闭自动模式,開啟或關閉自動模式
 SYSMES_MODE_005,クイックセーブを行います,Sauvegarde rapide.,进行快速存档,進行快速保存
 SYSMES_MODE_006,クイックロードを行います,Charger une sauvegarde rapide.,进行快速读档,進行快速載入
-SYSMES_MODE_007,ボイスを再生します,Écouter cet audio.,播放语音,播放語音
+SYSMES_MODE_007,ボイスを再生します,Réécouter cette réplique.,播放语音,播放語音
 SYSMES_MODE_008,バックログを開きます,Ouvrir l'historique.,打开回顾前文,開啟履歷
 SYSMES_SAVE_000,セーブしますか？,Enregistrer à cet emplacement ?,是否存档？,是否要保存？
 SYSMES_SAVE_001,ロードしますか？,Charger cette sauvegarde ?,是否读档？,是否要載入？
@@ -164,7 +164,7 @@ SYSMES_SAVE_004,削除しますか？,Supprimer cette sauvegarde ?,是否删除�
 SYSMES_SAVE_005,セーブ中です,Enregistrement...,正在存档,正在保存
 SYSMES_SAVE_006,ロード中です,Chargement...,正在读档,正在載入
 SYSMES_SAVE_007,チェック中です,Vérification...,正在检查,正在確認
-SYSMES_SAVE_008,セーブデータのチェックに失敗しました。^データが破損している可能性があります,Unable to check save data.^The data may be corrupted.,存档数据检查失败。数据可能已损坏。,保存資料確認失敗。資料可能毀損
+SYSMES_SAVE_008,セーブデータのチェックに失敗しました。^データが破損している可能性があります,Impossible de vérifier la sauvegarde.^Les données sont peut-être corrompues.,存档数据检查失败。数据可能已损坏。,保存資料確認失敗。資料可能毀損
 SYSMES_SAVE_009,コピー中です,Copie...,正在复制,正在複製
 SYSMES_SAVE_010,削除中です,Suppression...,正在删除,正在刪除
 SYSMES_SAVE_011,セーブに失敗しました,Impossible de sauvegarder.,存档失败,保存失敗
@@ -176,28 +176,28 @@ SYSMES_SAVE_016,セーブをキャンセルしますか？,Annuler la création 
 SYSMES_SAVE_017,ロードをキャンセルしますか？,Annuler le chargement de cette sauvegarde ?,是否取消读档？,是否要取消載入？
 SYSMES_SAVE_018,セーブを続行しますか？,Voulez-vous reprendre la sauvegarde ?,是否继续存档？,是否要繼續保存？
 SYSMES_SAVE_019,ロードを続行しますか？,Voulez-vous reprendre le chargement ?,是否继续读档？,是否要繼續載入？
-SYSMES_SAVE_020,システムデータをセーブしますか？,Do you want to save system data?,是否保存系统数据？,是否要保存系統資料？
-SYSMES_SAVE_021,システムデータをロードしますか？,Do you want to load system data?,是否读取系统数据？,是否要載入系統資料？
-SYSMES_SAVE_022,システムデータを上書きしますか？,Do you want to overwrite system data?,是否覆盖系统数据？,是否要覆蓋系統資料？
-SYSMES_SAVE_023,システムデータをセーブ中です,Saving system data...,正在保存系统数据,正在保存系統資料
-SYSMES_SAVE_024,システムデータをロード中です,Loading system data...,正在读取系统数据,正在載入系統資料
-SYSMES_SAVE_025,システムデータがありません,No system data found.,无系统数据,找不到系統資料
-SYSMES_SAVE_026,システムデータのセーブに失敗しました,Unable to save system data.,系统数据保存失败,系統資料保存失敗
-SYSMES_SAVE_027,システムデータのロードに失敗しました。^データが破損している可能性があります,Unable to load system data.^The data may be corrupted.,系统数据读取失败。数据可能已损坏。,系統資料載入失敗。資料可能毀損
-SYSMES_SAVE_028,システムデータのセーブに成功しました,System data saved.,已成功保存系统数据,系統資料保存成功
-SYSMES_SAVE_029,システムデータのロードに成功しました,System data loaded.,已成功读取系统数据,系統資料載入成功
+SYSMES_SAVE_020,システムデータをセーブしますか？,Sauvegarder les données système ?,是否保存系统数据？,是否要保存系統資料？
+SYSMES_SAVE_021,システムデータをロードしますか？,Charger les données système ?,是否读取系统数据？,是否要載入系統資料？
+SYSMES_SAVE_022,システムデータを上書きしますか？,Remplacer les données système ?,是否覆盖系统数据？,是否要覆蓋系統資料？
+SYSMES_SAVE_023,システムデータをセーブ中です,Sauvegarde des données système...,正在保存系统数据,正在保存系統資料
+SYSMES_SAVE_024,システムデータをロード中です,Chargement des données système...,正在读取系统数据,正在載入系統資料
+SYSMES_SAVE_025,システムデータがありません,Aucune donnée système trouvée.,无系统数据,找不到系統資料
+SYSMES_SAVE_026,システムデータのセーブに失敗しました,Impossible de sauvegarder les données système.,系统数据保存失败,系統資料保存失敗
+SYSMES_SAVE_027,システムデータのロードに失敗しました。^データが破損している可能性があります,Impossible de charger les données système.^Les données sont peut-être corrompues.,系统数据读取失败。数据可能已损坏。,系統資料載入失敗。資料可能毀損
+SYSMES_SAVE_028,システムデータのセーブに成功しました,Données système sauvegardées.,已成功保存系统数据,系統資料保存成功
+SYSMES_SAVE_029,システムデータのロードに成功しました,Données système chargées.,已成功读取系统数据,系統資料載入成功
 SYSMES_SAVE_030,ファイルが壊れています,Le fichier est corrompu.,文件已损坏,檔案已損壞
 SYSMES_SAVE_031,データが破損しているので、上書きします,"Ces données sont corrompues,^elles vont être effacées.",由于数据已损坏，因此将进行覆盖,資料已損毀，即將覆蓋資料
 SYSMES_SAVE_032,空き容量が不足しています,Mémoire insuffisante.,剩余容量不足,可用空間不足
-SYSMES_SAVE_033,フォーマットを実行しますか？,Éxécuter le formattage ?,是否执行格式化？,是否要格式化？
+SYSMES_SAVE_033,フォーマットを実行しますか？,Exécuter le formatage ?,是否执行格式化？,是否要格式化？
 SYSMES_SAVE_034,データ無し,Aucune donnée.,无数据,沒有資料
 SYSMES_SAVE_035,セーブデータを作成します,Créer une sauvegarde.,生成存档数据,製作保存資料
-SYSMES_SAVE_036,セーブデータのバージョンが異なります,Save data is a different version.,存档数据版本不同。,保存資料的版本不符
-SYSMES_SAVE_037,システムデータのバージョンが異なります,System data is a different version.,系统数据版本不同。,系統資料的版本不符
+SYSMES_SAVE_036,セーブデータのバージョンが異なります,La sauvegarde provient d'une autre version.,存档数据版本不同。,保存資料的版本不符
+SYSMES_SAVE_037,システムデータのバージョンが異なります,Les données système proviennent d'une autre version.,系统数据版本不同。,系統資料的版本不符
 SYSMES_TITLE_000,ゲームを最初から開始します,Commencer une nouvelle partie.,将从头开始游戏,從頭開始遊玩
 SYSMES_TITLE_001,最新のセーブファイルでゲームを再開します,Charger la dernière sauvegarde.,将用最新的存档文件继续游戏,使用最新的保存檔案繼續進行遊戲
 SYSMES_TITLE_002,ロードします,Charger les données.,读档,載入
-SYSMES_TITLE_003,環境設定を行います,Configure system settings.,设置环境,設定遊戲環境
+SYSMES_TITLE_003,環境設定を行います,Modifier les paramètres.,设置环境,設定遊戲環境
 SYSMES_TITLE_004,鑑賞モードに入ります,Ouvrir la galerie.,进入欣赏模式,進入鑑賞模式
 SYSMES_TITLE_005,ＣＧを鑑賞します,Voir les images.,观赏CG,鑑賞CG
 SYSMES_TITLE_006,書庫を鑑賞します,Consulter les archives.,鉴赏档案,鑑賞資料庫
@@ -207,14 +207,14 @@ SYSMES_TITLE_009,タイトルへ戻ります,Revenir au menu titre.,返回标题
 SYSMES_TITLE_010,追加シナリオをプレイします,Jouer les histoires supplémentaires.,观看追加剧情,遊玩追加劇情
 SYSMES_COMM_000,キャンセルしますか？,Annuler ?,是否取消？,是否要取消？
 SYSMES_COMM_001,タイトルに戻りますか？,Revenir au menu titre ?,是否返回标题界面？,是否要返回標題畫面？
-SYSMES_COMM_002,クイックロードしますか？,Faire une sauvegarde rapide ?,是否快速读档？,是否要快速載入？
+SYSMES_COMM_002,クイックロードしますか？,Charger la sauvegarde rapide ?,是否快速读档？,是否要快速載入？
 SYSMES_COMM_003,クイックジャンプしますか？,Faire un saut rapide ?,是否快速跳过？,是否要快速跳轉？
 SYSMES_COMM_004,次のシーン、選択肢まで進みますか？,Se rendre au prochain choix ?,是否前进至下一个场景、选项？,是否要跳至下一個場景的選項？
 SYSMES_COMM_005,前のシーン、選択肢まで戻りますか？,Revenir au choix précédent ?,是否返回至上一个场景、选项？,是否要返回上一個場景的選項？
-SYSMES_COMM_006,書庫の選択画面に戻りますか？,Revenir sur l'écran de sélection^des archives ?,是否返回档案选择屏幕？,是否要返回資料庫選擇畫面？
+SYSMES_COMM_006,書庫の選択画面に戻りますか？,Revenir à l'écran de sélection^des archives ?,是否返回档案选择屏幕？,是否要返回資料庫選擇畫面？
 SYSMES_COMM_007,セーブをせずに終了してもよろしいですか？,Voulez-vous vraiment quitter^sans sauvegarder ?,不进行存档直接关闭游戏，确定吗？,是否要不保存就結束遊戲？
-SYSMES_COMM_008,ボイスを消去しますか？,Do you want to clear voices?,是否消除语音？,是否要刪除語音？
-SYSMES_COMM_009,栞を挟みますか？,Faire une sauvegarde rapide ?,添加书签吗？,要夾上書籤嗎？
+SYSMES_COMM_008,ボイスを消去しますか？,Effacer les voix ?,是否消除语音？,是否要刪除語音？
+SYSMES_COMM_009,栞を挟みますか？,Placer un marque-page ?,添加书签吗？,要夾上書籤嗎？
 SYSMES_COMM_010,終了しますか？,Quitter le jeu ?,确定要结束游戏吗？,確定要結束遊戲嗎？
 SYSMES_ERROR_999,エラーが発生しました,Une erreur s'est produite.,出现错误,發生錯誤
 SYSMES_ARCHIVE_000,猫と過ち。星と死,Le chat et l'erreur. Les étoiles et la mort.,猫与过错。星与死亡,貓與錯誤，星星與死亡
@@ -226,7 +226,7 @@ SYSMES_ARCHIVE_005,回る七日間・１,Sept jours rythmés 1,旋转的七天�
 SYSMES_ARCHIVE_006,回る七日間・２,Sept jours rythmés 2,旋转的七天・2,忙碌的七天‧2
 SYSMES_ARCHIVE_007,回る七日間・３,Sept jours rythmés 3,旋转的七天・3,忙碌的七天‧3
 SYSMES_ARCHIVE_008,回る七日間・４,Sept jours rythmés 4,旋转的七天・4,忙碌的七天‧4
-SYSMES_ARCHIVE_009,僕らの昼ご飯,Déjeuner de notre choix,我们的午饭,我們的午餐
+SYSMES_ARCHIVE_009,僕らの昼ご飯,Notre déjeuner,我们的午饭,我們的午餐
 SYSMES_ARCHIVE_010,それが何か？,Et alors ?,那是什么？,那是什麼？
 SYSMES_ARCHIVE_011,都会の流儀,Style urbain,都市的做法,都市的做事方式
 SYSMES_ARCHIVE_012,夜の出来事,Incident dans les ténèbres,夜晚的事,發生在夜晚的事
@@ -307,7 +307,7 @@ SYSMES_ARCHIVE_071_13,1,1,1,1
 SYSMES_ARCHIVE_071_14,2,2,2,2
 SYSMES_ARCHIVE_071_15,フライング・マーダー,Meurtre volant,飞行・谋杀,飛天謀殺
 SYSMES_ARCHIVE_071_16,６時前,Avant 6 heures,6小时前,６點前
-SYSMES_ARCHIVE_071_17,リデル登場～トッキィー死亡,Apparition de Riddell - Mort de Tokki,莉黛尔登场～土桔死亡,莉黛爾登場～阿土死亡
+SYSMES_ARCHIVE_071_17,リデル登場～トッキィー死亡,Apparition de Riddell - Mort de Tokkii,莉黛尔登场～土桔死亡,莉黛爾登場～阿土死亡
 SYSMES_ARCHIVE_071_18,1,1,1,1
 SYSMES_ARCHIVE_071_19,2,2,2,2
 SYSMES_ARCHIVE_071_20,3,3,3,3
@@ -371,5 +371,5 @@ SYSMES_TEATIME_11,TeaTime 第11章,L'heure du thé 11,TeaTime 11,TeaTime 11
 SYSMES_TEATIME_12,TeaTime 第12章,L'heure du thé 12,TeaTime 12,TeaTime 12
 SYSMES_TEATIME_13,TeaTime 第13章,L'heure du thé 13,TeaTime 13,TeaTime 13
 SYSMES_PLAYGO_000,ダウンロード/コピーが完了するまで^お待ちください,Patienter jusqu'à la fin du téléchargement^ou de la copie.,请等待^下载/复制完成。,下載/複製尚未完成^請稍待片刻
-SYSMES_PLAYGO_001,ダウンロード/コピーが完了していません。^タイトルに戻ります。^進行状態はオートセーブされます,Téléchargement/copie incomplète.^Retour à l'écran-titre.^(Progression sauvegardée.),下载/复制未完成。^即将返回标题界面。^游戏进程将会自动保存。,下載/複製尚未完成。^將返回標題畫面。^目前進度會自動保存
+SYSMES_PLAYGO_001,ダウンロード/コピーが完了していません。^タイトルに戻ります。^進行状態はオートセーブされます,Téléchargement/copie incomplète.^Retour au menu titre.^(Progression sauvegardée.),下载/复制未完成。^即将返回标题界面。^游戏进程将会自动保存。,下載/複製尚未完成。^將返回標題畫面。^目前進度會自動保存
 SYSMES_PLAYGO_002,ダウンロード/コピーが完了しました,Téléchargement/copie terminée.,下载/复制已完成。,已完成下載/複製
