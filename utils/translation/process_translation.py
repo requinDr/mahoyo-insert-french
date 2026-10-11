@@ -116,6 +116,7 @@ def line_process(script: list[str], i: int, jp_lines: list[str], fr_lines: list[
 				return index
 	if conf.create_csv:
 		missing_lines[i + 1] = script[i]
+	script[i] = format_line(i, script[i])
 	return last_found
 
 
