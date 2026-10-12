@@ -30,7 +30,7 @@
 　Le prêtre désigna le banc de Sōjūrō.
 　Il s'assit à l'autre bout sans attendre de réponse.
 *page7|
-「Refaisons les présentations. Je me nomme Fumidzuka Eiri, et pour cette église, je suis...... oui, qui suis-je, tiens ? Sur le papier, j'imagine que j'en suis le propriétaire. Appelle-moi père Eiri.
+「Refaisons les présentations. Je me nomme Fumizuka Eiri, et pour cette église, je suis...... oui, qui suis-je, tiens ? Sur le papier, j'imagine que j'en suis le propriétaire. Appelle-moi père Eiri.
 　Tu es donc Shizuki Sōjūrō. Je comprends mieux... Effectivement, Yuika ne peut pas te voir.」
 *page8|
 　Il s'exprimait sur un ton calme, mais sa voix était d'une neutralité presque éhontée.
