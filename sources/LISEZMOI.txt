@@ -22,6 +22,11 @@ saisir :
 
 puis lancer le jeu. Le titre de la fenêtre doit se terminer par « - Patch FR ».
 
+Discord
+-------
+Si Discord est ouvert, votre statut affiche le chapitre en cours.
+Pour le désactiver : Discord > Paramètres > Confidentialité des activités.
+
 Désinstallation
 ---------------
 Supprimer version.dll et data00999.hfa : le jeu redevient anglais.

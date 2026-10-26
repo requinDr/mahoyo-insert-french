@@ -9,18 +9,21 @@
  *  - .rdata replacements built with the patch (menu particles, line breaks);
  *  - accented letters are part of words like ASCII ones: no line break inside a word,
  *    and the same spacing as the other letters;
- *  - the labels of the settings sliders are drawn whole.
+ *  - the labels of the settings sliders are drawn whole;
+ *  - Discord Rich Presence: the chapter of the scene being read.
  * The version.dll functions are forwarded to the real system DLL.
  */
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <stdint.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 #define ARCHIVE_NAME L"data00999.hfa"
 #define TEXT5_ENTRY "TEXT5_fr.csv"
 #define DATA_PATCHES_ENTRY "rdata_fr.bin"  /* replacements in the engine data, built with the patch */
+#define DISCORD_ENTRY "discord_fr.txt"     /* "scene.chs<TAB>details<TAB>state" lines */
 #define HFA_NAME_SIZE 96
 #define HFA_ENTRY_SIZE 128
 
@@ -87,6 +90,8 @@ static BYTE *text5;
 static DWORD text5_size;
 static BYTE *data_patches;
 static DWORD data_patches_size;
+static BYTE *discord_texts;
+static DWORD discord_texts_size;
 
 static BOOL read_exact(HANDLE file, void *buffer, DWORD size) {
     DWORD read = 0;
@@ -143,6 +148,9 @@ static BOOL load_archive(void) {
         } else if (strcmp(current->name, DATA_PATCHES_ENTRY) == 0) {
             target = &data_patches;
             target_size = &data_patches_size;
+        } else if (strcmp(current->name, DISCORD_ENTRY) == 0) {
+            target = &discord_texts;
+            target_size = &discord_texts_size;
         }
         if (target) {
             LARGE_INTEGER position;
@@ -415,6 +423,227 @@ static void apply_data_patches(void) {
     }
 }
 
+/* ---------- Discord Rich Presence ----------
+ * The game reads the script of a scene (1_0.chs, 5a_3.chs, nz2.chs...) from its archive
+ * when the scene starts, also when a save is loaded, and the background of a menu each time
+ * it is shown. The positions of these resources (those of DISCORD_ENTRY) are noted when the
+ * game reads the archive tables; a read inside one of them makes it the current scene,
+ * whose texts a thread sends to the Discord application through its
+ * local pipe (RPC over IPC: [opcode u32][length u32][JSON] messages). Nothing is sent when
+ * Discord is not running; MAHOYO_DISCORD=0 turns it off. */
+
+#define DISCORD_CLIENT_ID "1271015062823505971"  /* application of the game known by Discord */
+#define MAX_SCENES 1024
+#define SCENE_NAME_SIZE 32
+#define DISCORD_MIN_INTERVAL 4000   /* ms between two updates (Discord: 5 per 20 s) */
+#define DISCORD_RETRY_INTERVAL 15000
+
+static struct scene {
+    DWORD archive;  /* hash of the archive path */
+    ULONGLONG start, end;
+    char name[SCENE_NAME_SIZE];
+} scenes[MAX_SCENES];
+static int scene_count;
+static char current_scene[SCENE_NAME_SIZE];
+static SRWLOCK scenes_lock = SRWLOCK_INIT;
+static HANDLE scene_changed;
+static char (*scene_names)[SCENE_NAME_SIZE];  /* of DISCORD_ENTRY, sorted */
+static int scene_name_count;
+
+static DWORD path_hash(const wchar_t *path) {
+    DWORD hash = 2166136261u;
+    for (; *path; ++path) hash = (hash ^ (DWORD)towlower(*path)) * 16777619u;
+    return hash;
+}
+
+/* Called for each entry of an archive table read by the game. */
+static void note_scene(const wchar_t *archive, const char *name, ULONGLONG start, DWORD size) {
+    if (!scene_changed || strlen(name) >= SCENE_NAME_SIZE ||
+        !bsearch(name, scene_names, scene_name_count, SCENE_NAME_SIZE, compare_names)) return;
+    const DWORD hash = path_hash(archive);
+    AcquireSRWLockExclusive(&scenes_lock);
+    int i = 0;
+    while (i < scene_count && !(scenes[i].archive == hash && strcmp(scenes[i].name, name) == 0)) ++i;
+    if (i < MAX_SCENES) {
+        scenes[i].archive = hash;
+        scenes[i].start = start;
+        scenes[i].end = start + size;
+        strcpy_s(scenes[i].name, SCENE_NAME_SIZE, name);
+        if (i == scene_count) ++scene_count;
+    }
+    ReleaseSRWLockExclusive(&scenes_lock);
+}
+
+/* Called for each read of an archive by the game. */
+static void note_read(const wchar_t *archive, ULONGLONG position) {
+    if (!scene_changed) return;
+    const DWORD hash = path_hash(archive);
+    BOOL changed = FALSE;
+    AcquireSRWLockExclusive(&scenes_lock);
+    for (int i = 0; i < scene_count; ++i) {
+        if (scenes[i].archive != hash || position < scenes[i].start || position >= scenes[i].end) continue;
+        changed = strcmp(current_scene, scenes[i].name) != 0;
+        if (changed) strcpy_s(current_scene, SCENE_NAME_SIZE, scenes[i].name);
+        break;
+    }
+    ReleaseSRWLockExclusive(&scenes_lock);
+    if (changed) SetEvent(scene_changed);
+}
+
+/* Details and state of a scene, JSON-escaped; FALSE if it has none (menus, opening...). */
+static BOOL scene_texts(const char *scene, char *details, char *state, size_t size) {
+    const char *line = (const char *)discord_texts, *end = line + discord_texts_size;
+    const size_t length = strlen(scene);
+    while (line < end) {
+        const char *next = memchr(line, '\n', end - line);
+        if (!next) next = end;
+        if ((size_t)(next - line) > length && memcmp(line, scene, length) == 0 && line[length] == '\t') {
+            char *fields[2] = {details, state};
+            const char *p = line + length + 1;
+            for (int k = 0; k < 2; ++k) {
+                size_t written = 0;
+                for (; p < next && *p != '\t'; ++p) {
+                    if (written + 3 > size) return FALSE;
+                    if (*p == '"' || *p == '\\') fields[k][written++] = '\\';
+                    fields[k][written++] = *p;
+                }
+                fields[k][written] = 0;
+                if (p < next) ++p;
+            }
+            return TRUE;
+        }
+        line = next + 1;
+    }
+    return FALSE;
+}
+
+static BOOL pipe_write(HANDLE pipe, DWORD opcode, const char *json) {
+    char message[2048];
+    const DWORD length = (DWORD)strlen(json);
+    if (length + 8 > sizeof(message)) return FALSE;
+    memcpy(message, &opcode, 4);
+    memcpy(message + 4, &length, 4);
+    memcpy(message + 8, json, length);
+    DWORD written;
+    return WriteFile(pipe, message, length + 8, &written, NULL) && written == length + 8;
+}
+
+/* Reads the waiting messages without blocking: answers the pings, *ready when Discord
+ * accepted the connection. FALSE if the connection is closed. */
+static BOOL pipe_poll(HANDLE pipe, BOOL *ready) {
+    for (;;) {
+        DWORD available = 0;
+        if (!PeekNamedPipe(pipe, NULL, 0, NULL, &available, NULL)) return FALSE;
+        if (available < 8) return TRUE;
+        DWORD header[2], read;
+        if (!ReadFile(pipe, header, 8, &read, NULL) || read != 8 || header[1] > 65536) return FALSE;
+        char *json = HeapAlloc(GetProcessHeap(), 0, header[1] + 1);
+        if (!json) return FALSE;
+        BOOL ok = header[1] == 0 || (ReadFile(pipe, json, header[1], &read, NULL) && read == header[1]);
+        json[ok ? header[1] : 0] = 0;
+        if (ok && header[0] == 3) ok = pipe_write(pipe, 4, json);  /* PING -> PONG */
+        if (header[0] == 2) ok = FALSE;                            /* CLOSE */
+        if (ok && header[0] == 1 && ready && strstr(json, "\"READY\"")) *ready = TRUE;
+        HeapFree(GetProcessHeap(), 0, json);
+        if (!ok) return FALSE;
+    }
+}
+
+static HANDLE discord_connect(void) {
+    for (int n = 0; n < 10; ++n) {
+        wchar_t path[32];
+        swprintf_s(path, ARRAYSIZE(path), L"\\\\.\\pipe\\discord-ipc-%d", n);
+        HANDLE pipe = CreateFileW(path, GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, NULL);
+        if (pipe == INVALID_HANDLE_VALUE) continue;
+        BOOL ready = FALSE;
+        if (pipe_write(pipe, 0, "{\"v\":1,\"client_id\":\"" DISCORD_CLIENT_ID "\"}")) {
+            for (int wait = 0; wait < 50 && !ready && pipe_poll(pipe, &ready); ++wait) Sleep(100);
+        }
+        if (ready) return pipe;
+        CloseHandle(pipe);
+    }
+    return INVALID_HANDLE_VALUE;
+}
+
+static DWORD WINAPI discord_thread(LPVOID unused) {
+    (void)unused;
+    FILETIME now;
+    GetSystemTimeAsFileTime(&now);
+    const ULONGLONG start = (((ULONGLONG)now.dwHighDateTime << 32 | now.dwLowDateTime) - 116444736000000000ULL) / 10000000;
+    HANDLE pipe = INVALID_HANDLE_VALUE;
+    char sent[SCENE_NAME_SIZE] = "";
+    ULONGLONG last_send = 0, next_connect = 0;
+    DWORD nonce = 0;
+    for (;;) {
+        WaitForSingleObject(scene_changed, 1000);
+        char scene[SCENE_NAME_SIZE];
+        AcquireSRWLockShared(&scenes_lock);
+        strcpy_s(scene, SCENE_NAME_SIZE, current_scene);
+        ReleaseSRWLockShared(&scenes_lock);
+        char details[512], state[512];
+        const BOOL known = scene_texts(scene, details, state, sizeof(details));
+        const ULONGLONG tick = GetTickCount64();
+        if (pipe == INVALID_HANDLE_VALUE) {
+            if (!known || tick < next_connect) continue;
+            pipe = discord_connect();
+            if (pipe == INVALID_HANDLE_VALUE) {
+                next_connect = tick + DISCORD_RETRY_INTERVAL;
+                continue;
+            }
+            sent[0] = 0;
+        }
+        BOOL ok = pipe_poll(pipe, NULL);
+        if (ok && known && strcmp(scene, sent) != 0 && tick - last_send >= DISCORD_MIN_INTERVAL) {
+            char json[1536];
+            int length = sprintf_s(json, sizeof(json),
+                "{\"cmd\":\"SET_ACTIVITY\",\"nonce\":\"%lu\",\"args\":{\"pid\":%lu,\"activity\":{\"timestamps\":{\"start\":%llu}",
+                ++nonce, GetCurrentProcessId(), start);
+            /* a menu has no texts: only the game and the play time are shown */
+            if (length > 0 && details[0])
+                length += sprintf_s(json + length, sizeof(json) - length, ",\"details\":\"%s\"", details);
+            if (length > 0 && state[0])
+                length += sprintf_s(json + length, sizeof(json) - length, ",\"state\":\"%s\"", state);
+            if (length > 0) length += sprintf_s(json + length, sizeof(json) - length, "}}}");
+            ok = length > 0 && pipe_write(pipe, 1, json);
+            if (ok) {
+                strcpy_s(sent, SCENE_NAME_SIZE, scene);
+                last_send = tick;
+            }
+        }
+        if (!ok) {
+            CloseHandle(pipe);
+            pipe = INVALID_HANDLE_VALUE;
+            next_connect = tick + DISCORD_RETRY_INTERVAL;
+        }
+    }
+}
+
+static void start_discord(void) {
+    wchar_t setting[8];
+    if (!discord_texts || (GetEnvironmentVariableW(L"MAHOYO_DISCORD", setting, ARRAYSIZE(setting)) && wcscmp(setting, L"0") == 0))
+        return;
+    int lines = 0;
+    for (DWORD i = 0; i < discord_texts_size; ++i) lines += discord_texts[i] == '\n';
+    scene_names = HeapAlloc(GetProcessHeap(), HEAP_ZERO_MEMORY, (SIZE_T)(lines + 1) * SCENE_NAME_SIZE);
+    if (!scene_names) return;
+    const char *line = (const char *)discord_texts, *end = line + discord_texts_size;
+    while (line < end && scene_name_count <= lines) {
+        const char *next = memchr(line, '\n', end - line);
+        if (!next) next = end;
+        const char *tab = memchr(line, '\t', next - line);
+        if (tab && tab - line < SCENE_NAME_SIZE) memcpy(scene_names[scene_name_count++], line, tab - line);
+        line = next + 1;
+    }
+    qsort(scene_names, scene_name_count, SCENE_NAME_SIZE, compare_names);
+    scene_changed = CreateEventW(NULL, FALSE, FALSE, NULL);
+    HANDLE thread = scene_changed ? CreateThread(NULL, 0, discord_thread, NULL, 0, NULL) : NULL;
+    if (thread) CloseHandle(thread);
+    else if (scene_changed) {
+        CloseHandle(scene_changed);
+        scene_changed = NULL;
+    }
+}
+
 /* ---------- Activation ---------- */
 
 static INIT_ONCE activation = INIT_ONCE_STATIC_INIT;
@@ -447,6 +676,7 @@ static BOOL CALLBACK activate(PINIT_ONCE once, PVOID final, PVOID *context) {
     apply_code_patches();
     apply_data_patches();
     french_active = TRUE;
+    start_discord();
     return TRUE;
 }
 
@@ -587,19 +817,21 @@ static void redirect_replaced_entries(HANDLE handle, ULONGLONG position, BYTE *b
             if (entry + HFA_NAME_SIZE + 8 > position + size) break;
             BYTE *name = buffer + (entry - position);
             if (!memchr(name, 0, HFA_NAME_SIZE)) continue;
-            struct archive_entry *replacement = (struct archive_entry *)find_entry((const char *)name);
-            if (!replacement) continue;
             DWORD fields[2];
             memcpy(fields, name + HFA_NAME_SIZE, sizeof(fields));
+            struct archive_entry *replacement = (struct archive_entry *)find_entry((const char *)name);
             /* a delta applies only to the expected original; otherwise the original is kept */
-            if (replacement->delta && fields[1] != replacement->original_size) continue;
-            struct redirect *redirect = place(archive, replacement,
-                                              replacement->delta ? replacement->result_size : replacement->size,
-                                              data_start + fields[0]);
-            if (!redirect || redirect->start - data_start > 0xFFFFFFFFULL) continue;
-            fields[0] = (DWORD)(redirect->start - data_start);
-            fields[1] = redirect->size;
-            memcpy(name + HFA_NAME_SIZE, fields, sizeof(fields));
+            if (replacement && !(replacement->delta && fields[1] != replacement->original_size)) {
+                struct redirect *redirect = place(archive, replacement,
+                                                  replacement->delta ? replacement->result_size : replacement->size,
+                                                  data_start + fields[0]);
+                if (redirect && redirect->start - data_start <= 0xFFFFFFFFULL) {
+                    fields[0] = (DWORD)(redirect->start - data_start);
+                    fields[1] = redirect->size;
+                    memcpy(name + HFA_NAME_SIZE, fields, sizeof(fields));
+                }
+            }
+            note_scene(archive->path, (const char *)name, data_start + fields[0], fields[1]);
         }
         break;
     }
@@ -747,6 +979,7 @@ static BOOL WINAPI hook_ReadFile(HANDLE handle, LPVOID buffer, DWORD size, LPDWO
         if (!SetFilePointerEx(handle, zero, &position, FILE_CURRENT))
             return real_ReadFile(handle, buffer, size, read, overlapped);
     }
+    note_read(archive.path, (ULONGLONG)position.QuadPart);
     if ((ULONGLONG)position.QuadPart >= archive.virtual_start)
         return read_virtual(&archive, handle, (ULONGLONG)position.QuadPart, buffer, size, read, overlapped);
     BOOL result = real_ReadFile(handle, buffer, size, read, overlapped);

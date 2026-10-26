@@ -19,8 +19,8 @@ Steam n'est remplacé) et un `LISEZMOI.txt` pour les joueurs :
 
 | Fichier | Rôle |
 |---|---|
-| `data00999.hfa` | Archive française : `script_text_fr.ctd`, images `*_fr.cbg`, polices `FONT_fr_*` / `Font040*`, textes système `TEXT5_fr.csv`. Le jeu charge automatiquement tout `data0????.hfa`. |
-| `version.dll` | Chargée automatiquement par `WoH.exe`. Redirige en mémoire les ressources anglaises vers les françaises, fournit les textes système, corrige les retours à la ligne au milieu des mots accentués et ajoute « - Patch FR » au titre de la fenêtre. |
+| `data00999.hfa` | Archive française : `script_text_fr.ctd`, images `*_fr.cbg`, polices `FONT_fr_*` / `Font040*`, textes système `TEXT5_fr.csv`, textes de la présence Discord `discord_fr.txt`. Le jeu charge automatiquement tout `data0????.hfa`. |
+| `version.dll` | Chargée automatiquement par `WoH.exe`. Redirige en mémoire les ressources anglaises vers les françaises, fournit les textes système, corrige les retours à la ligne au milieu des mots accentués, ajoute « - Patch FR » au titre de la fenêtre et affiche le chapitre en cours sur Discord. |
 
 Pour désinstaller : supprimer ces deux fichiers.
 
@@ -92,6 +92,12 @@ Ajouter un type d'édition : écrire cette fonction, l'ajouter à `EDITS` et cr�
   copiée telle quelle dans le patch : elle ne dépend pas de la traduction et n'est à
   recompiler qu'après une modification de `version.c` (ou de `shared_names`), avec
   `python native/build_dll.py` (nécessite Visual Studio avec les outils C++).
+
+## Présence Discord
+
+`version.dll` affiche le chapitre en cours sur Discord : elle reconnaît la lecture des scripts de
+scène (`*.chs`) et des fonds de menu, et envoie les textes de `discord_fr.txt` (généré par
+`utils/steam/discord.py`) à l'application Discord locale. `MAHOYO_DISCORD=0` le désactive.
 
 ## Limites
 
