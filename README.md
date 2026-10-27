@@ -99,6 +99,19 @@ Ajouter un type d'édition : écrire cette fonction, l'ajouter à `EDITS` et cr�
 scène (`*.chs`) et des fonds de menu, et envoie les textes de `discord_fr.txt` (généré par
 `utils/steam/discord.py`) à l'application Discord locale. `MAHOYO_DISCORD=0` le désactive.
 
+## Scène cachée 7-1b
+
+Le script Steam de 7-1b est vide alors que son texte et ses voix sont dans le jeu.
+Taper « alice » à l'écran titre ou dans le menu Archive la fait jouer au prochain épisode lu depuis
+les Archives (`version.dll` sert alors `archive_hidden.chs` à la place de `archive.chs`).
+`sources/scene-7-1b.jsonl` contient sa mise en scène convertie depuis la version PC de 2012, assemblée
+au build par `utils/steam/hidden_scene.py`. Pour la régénérer (dossier `scenario` de `data.xp3` de 2012,
+extrait avec `extend-area/extract-xp3`) :
+
+```powershell
+python -m tools.scene_conversion.convert <dossier scenario> --check
+```
+
 ## Limites
 
 - Le français remplace l'anglais

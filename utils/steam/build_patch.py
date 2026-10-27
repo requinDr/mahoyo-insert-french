@@ -9,7 +9,7 @@ from pathlib import Path
 
 from PIL import Image
 
-from utils.steam import discord, line_breaks
+from utils.steam import discord, hidden_scene, line_breaks
 from utils.steam.cbg import encode_cbg
 from utils.steam.hfa import find_in_archives, read_hfa, write_hfa
 from utils.steam.menu_cursors import DATA_PATCHES_ENTRY, data_patches
@@ -127,7 +127,8 @@ def build_archive(lines: list[str], titles_csv: str, images_dir: str, fonts_dir:
 	titles = io.StringIO(newline="")
 	csv.writer(titles, lineterminator="\r\n").writerows(rows)
 	files[TEXT5_ENTRY] = titles.getvalue().encode("utf-8")
-	files[DATA_PATCHES_ENTRY] = data_patches(images_dir) + line_breaks.data_patches()
+	files[DATA_PATCHES_ENTRY] = data_patches(images_dir) + line_breaks.data_patches() + hidden_scene.data_patches()
+	files.update(hidden_scene.files(game_dir))
 	files[discord.ENTRY] = discord.presence_table(game_dir, titles_csv, exclude=ARCHIVE_NAME)
 
 	return files

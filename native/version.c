@@ -10,7 +10,8 @@
  *  - accented letters are part of words like ASCII ones: no line break inside a word,
  *    and the same spacing as the other letters;
  *  - the labels of the settings sliders are drawn whole;
- *  - Discord Rich Presence: the chapter of the scene being read.
+ *  - Discord Rich Presence: the chapter of the scene being read;
+ *  - typing "alice" in the menus plays the hidden scene 7-1b from the archive menu.
  * The version.dll functions are forwarded to the real system DLL.
  */
 #define WIN32_LEAN_AND_MEAN
@@ -400,13 +401,12 @@ static int redirect_names(void) {
 /* ---------- Engine data ---------- */
 
 /* rdata_fr.bin: sequence of [u32 size][original bytes][replacement bytes] (positions of
- * the menu particles, line break rules...). Each original block must appear exactly once
- * in .rdata, otherwise it is skipped (other version of the game). */
+ * the menu particles, line break rules, an entry of the image table...). Each original
+ * block must appear exactly once in .rdata and .data, otherwise it is skipped (other
+ * version of the game). */
 static void apply_data_patches(void) {
-    IMAGE_SECTION_HEADER *rdata = section(".rdata");
-    if (!rdata || !data_patches) return;
-    BYTE *start = game + rdata->VirtualAddress;
-    const SIZE_T length = rdata->Misc.VirtualSize;
+    IMAGE_SECTION_HEADER *sections[] = {section(".rdata"), section(".data")};
+    if (!data_patches) return;
     DWORD position = 0;
     while (data_patches_size - position >= 4) {
         DWORD size;
@@ -417,8 +417,13 @@ static void apply_data_patches(void) {
         position += 2 * size;
         BYTE *found = NULL;
         int matches = 0;
-        for (BYTE *p = start; p + size <= start + length; ++p)
-            if (*p == before[0] && memcmp(p, before, size) == 0 && ++matches == 1) found = p;
+        for (size_t s = 0; s < ARRAYSIZE(sections); ++s) {
+            if (!sections[s]) continue;
+            BYTE *start = game + sections[s]->VirtualAddress;
+            const SIZE_T length = sections[s]->Misc.VirtualSize;
+            for (BYTE *p = start; p + size <= start + length; ++p)
+                if (*p == before[0] && memcmp(p, before, size) == 0 && ++matches == 1) found = p;
+        }
         if (matches == 1) write_memory(found, after, size);
     }
 }
@@ -449,6 +454,7 @@ static SRWLOCK scenes_lock = SRWLOCK_INIT;
 static HANDLE scene_changed;
 static char (*scene_names)[SCENE_NAME_SIZE];  /* of DISCORD_ENTRY, sorted */
 static int scene_name_count;
+static volatile LONG hidden_armed;  /* hidden scene armed, see below */
 
 static DWORD path_hash(const wchar_t *path) {
     DWORD hash = 2166136261u;
@@ -484,6 +490,7 @@ static void note_read(const wchar_t *archive, ULONGLONG position) {
         if (scenes[i].archive != hash || position < scenes[i].start || position >= scenes[i].end) continue;
         changed = strcmp(current_scene, scenes[i].name) != 0;
         if (changed) strcpy_s(current_scene, SCENE_NAME_SIZE, scenes[i].name);
+        if (changed && strstr(scenes[i].name, ".chs")) InterlockedExchange(&hidden_armed, 0);
         break;
     }
     ReleaseSRWLockExclusive(&scenes_lock);
@@ -618,10 +625,9 @@ static DWORD WINAPI discord_thread(LPVOID unused) {
     }
 }
 
-static void start_discord(void) {
-    wchar_t setting[8];
-    if (!discord_texts || (GetEnvironmentVariableW(L"MAHOYO_DISCORD", setting, ARRAYSIZE(setting)) && wcscmp(setting, L"0") == 0))
-        return;
+/* Scene tracking (Discord, hidden scene), then the Discord thread unless MAHOYO_DISCORD=0. */
+static void start_scenes(void) {
+    if (!discord_texts) return;
     int lines = 0;
     for (DWORD i = 0; i < discord_texts_size; ++i) lines += discord_texts[i] == '\n';
     scene_names = HeapAlloc(GetProcessHeap(), HEAP_ZERO_MEMORY, (SIZE_T)(lines + 1) * SCENE_NAME_SIZE);
@@ -636,12 +642,41 @@ static void start_discord(void) {
     }
     qsort(scene_names, scene_name_count, SCENE_NAME_SIZE, compare_names);
     scene_changed = CreateEventW(NULL, FALSE, FALSE, NULL);
-    HANDLE thread = scene_changed ? CreateThread(NULL, 0, discord_thread, NULL, 0, NULL) : NULL;
+    wchar_t setting[8];
+    if (!scene_changed || (GetEnvironmentVariableW(L"MAHOYO_DISCORD", setting, ARRAYSIZE(setting)) && wcscmp(setting, L"0") == 0))
+        return;
+    HANDLE thread = CreateThread(NULL, 0, discord_thread, NULL, 0, NULL);
     if (thread) CloseHandle(thread);
-    else if (scene_changed) {
-        CloseHandle(scene_changed);
-        scene_changed = NULL;
+}
+
+/* ---------- Hidden scene ----------
+ * Typing "alice" at the title screen or in the archive menu arms it: the next time the game
+ * reads the archive launcher (LAUNCHER, when an episode is read), it gets HIDDEN_LAUNCHER, the
+ * same script with all its scenes jumping to the hidden scene 7-1b (same size). Any scene
+ * starting disarms it. */
+#define LAUNCHER "archive.chs"
+#define HIDDEN_LAUNCHER "archive_hidden.chs"
+#define PASSWORD "ALICE"
+static WNDPROC game_window_proc;
+
+static BOOL in_menu(void) {
+    AcquireSRWLockShared(&scenes_lock);
+    const BOOL menu = strcmp(current_scene, "title_bg2.cbg") == 0 || strcmp(current_scene, "archive_background.cbg") == 0;
+    ReleaseSRWLockShared(&scenes_lock);
+    return menu;
+}
+
+static LRESULT CALLBACK hidden_scene_window_proc(HWND window, UINT message, WPARAM w, LPARAM l) {
+    static char typed[sizeof(PASSWORD)];
+    if (message == WM_KEYDOWN && w >= 'A' && w <= 'Z') {
+        memmove(typed, typed + 1, sizeof(typed) - 2);
+        typed[sizeof(typed) - 2] = (char)w;
+        if (memcmp(typed, PASSWORD, sizeof(typed) - 1) == 0 && in_menu()) {
+            InterlockedExchange(&hidden_armed, 1);
+            MessageBeep(MB_ICONASTERISK);
+        }
     }
+    return CallWindowProcW(game_window_proc, window, message, w, l);
 }
 
 /* ---------- Activation ---------- */
@@ -676,7 +711,7 @@ static BOOL CALLBACK activate(PINIT_ONCE once, PVOID final, PVOID *context) {
     apply_code_patches();
     apply_data_patches();
     french_active = TRUE;
-    start_discord();
+    start_scenes();
     return TRUE;
 }
 
@@ -928,8 +963,13 @@ static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULON
             _wcsicmp(redirect->path, archive->path) != 0) continue;
         const DWORD offset = (DWORD)(position - redirect->start);
         done = min(size, redirect->size - offset);
-        if (!redirect->entry->delta) {
-            result = read_archive(redirect->entry->offset + offset, buffer, done);
+        const struct archive_entry *entry = redirect->entry;
+        if (hidden_armed && strcmp(entry->name, LAUNCHER) == 0) {
+            const struct archive_entry *hidden = find_entry(HIDDEN_LAUNCHER);
+            if (hidden && hidden->size == entry->size) entry = hidden;
+        }
+        if (!entry->delta) {
+            result = read_archive(entry->offset + offset, buffer, done);
         } else {
             BYTE **built = &built_deltas[redirect->entry - archive_entries];
             if (!*built) *built = build_delta(redirect);
@@ -1025,11 +1065,14 @@ static HWND (WINAPI *real_CreateWindowExW)(DWORD, LPCWSTR, LPCWSTR, DWORD, int, 
 static BOOL (WINAPI *real_SetWindowTextW)(HWND, LPCWSTR);
 static HWND (WINAPI *real_FindWindowW)(LPCWSTR, LPCWSTR);
 
+static BOOL is_game_title(LPCWSTR title) {
+    return french_active && title && !IS_INTRESOURCE(title) && wcsncmp(title, WINDOW_TITLE, wcslen(WINDOW_TITLE)) == 0;
+}
+
 /* `title` with the suffix in `buffer`, or `title` unchanged. */
 static LPCWSTR french_title(LPCWSTR title, wchar_t *buffer, size_t size) {
     try_activate(FALSE);
-    if (!french_active || !title || IS_INTRESOURCE(title) ||
-        wcsncmp(title, WINDOW_TITLE, wcslen(WINDOW_TITLE)) != 0 || wcsstr(title, TITLE_SUFFIX) ||
+    if (!is_game_title(title) || wcsstr(title, TITLE_SUFFIX) ||
         wcscpy_s(buffer, size, title) != 0 || wcscat_s(buffer, size, TITLE_SUFFIX) != 0)
         return title;
     return buffer;
@@ -1038,8 +1081,11 @@ static LPCWSTR french_title(LPCWSTR title, wchar_t *buffer, size_t size) {
 static HWND WINAPI hook_CreateWindowExW(DWORD style_ex, LPCWSTR class_name, LPCWSTR title, DWORD style, int x, int y,
                                         int width, int height, HWND parent, HMENU menu, HINSTANCE instance, LPVOID param) {
     wchar_t buffer[256];
-    return real_CreateWindowExW(style_ex, class_name, french_title(title, buffer, ARRAYSIZE(buffer)), style,
-                                x, y, width, height, parent, menu, instance, param);
+    HWND window = real_CreateWindowExW(style_ex, class_name, french_title(title, buffer, ARRAYSIZE(buffer)), style,
+                                       x, y, width, height, parent, menu, instance, param);
+    if (window && !game_window_proc && is_game_title(title))
+        game_window_proc = (WNDPROC)SetWindowLongPtrW(window, GWLP_WNDPROC, (LONG_PTR)hidden_scene_window_proc);
+    return window;
 }
 
 static BOOL WINAPI hook_SetWindowTextW(HWND window, LPCWSTR title) {
