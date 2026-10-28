@@ -19781,14 +19781,14 @@ J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
     qui sont forts.
     Pour faire une comparaison avec les échecs......
     non, avec le shogi, Aoko n'est que le camp du roi^    (avec les capacités du fou et de la tour).
-    Quant à moi, mon camp est fort, mais le roi^    lui-même n'a que la capacité de “marcher”.
+    Quant à moi, mon camp est fort, mais le roi^    lui-même n'a que les capacités d'un pion.
     Oui, Mam'zelle Alice est un personnage lent,
     n'ayant ni force physique ni réflexe !
   Elle peut à peine faire la nage du chien en natation,
   et ne sait faire ni de la barre fixe ni du vélo.
     Aux heures de sport, sa tâche est facile :^    rester assise à la lisière du campus.
     Mais c'est pas grave !
-    Si j'sais tout ça, c'est parce que je vous file pour prendre des photos !
+    Si j'sais tout ça, c'est parce que j'vous file pour prendre des photos !
     My Angel ! Vous êtes juste magnifi...
 Hein ?!
             ...... Quelle insolence !
@@ -19886,8 +19886,8 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages^afin d'en
     en fait, tu sais très bien de quoi tu parles ?
 ? Désolé, j'ai oublié c'que j'viens de dire.
 Pour moi, les choses du passé sont plus vagues que l'futur.
-  ......
-  Qu'entends-tu au juste^  par Meinster ?
+  ...... Qu'entends-tu
+  au juste par Meinster ?
 My Goddess. La mère de Mam'zelle Alice.
 Elle avait des surnoms comme la Sorcière au sang pur.
     Mais votre mère était une fashion victim.
@@ -20064,7 +20064,7 @@ alors la vache doit être une parodie du taureau.
       Pour être plus précise,
     il sert à repérer les ennemis en ville et à garder le manoir.
     Il échappe parfois à tout contrôle en créant des passages
-    pour attirer les passants en son sein.
+    dans le manoir pour attirer les visiteurs en son sein.
     Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
     Il est tiré de “De l'autre côté du miroir”, c'est ça ?
     Oui. À l'origine, ce n'était qu'un embryon
@@ -20091,9 +20091,9 @@ Reprenons. Le Ploy suivant―――
   Un œuf que j'peux avaler tout rond !
         Cet œuf est succulent !
         Mais il me reste un peu sur l'estomac.
-      J'arrive pas à l'digérer.
-      Et en plus, j'entends une sorte de tic tac
-      qui retentit à l'intérieur de mon ventre.
+      J'arrive pas à l'digérer. Et en plus,
+      j'entends une sorte de tic tac qui
+      retentit à l'intérieur de mon ventre.
                 Three.
       Mam'zelle Alice ?
       Pourquoi vous vous éloignez ?
@@ -20240,8 +20240,8 @@ Kya !
   ...... Compris ? C'est une règle qui permet de créer
   un nouveau mot à partir de plusieurs sens différents.
   C'est de là que vient la polysémie de l'Œil Mystique.
-    Humpty n'a pas servi à proprement parler^    de modèle pour lui,
-    mais “elle” a choisi ce nom en son honneur.
+    Humpty n'a pas servi à proprement parler^    de modèle
+    pour lui, mais “elle” a choisi ce nom en son honneur.
     Hmm. J'viens d'y penser, mais associer
     “première édition limitée” et “édition normale”,
     ça donne quoi ?
@@ -20368,7 +20368,7 @@ Dans la chanson du Pont de Londres.
     Le Négligent est apparu――――――!
     En fait, j'étais déjà sur son corps ?
     J'n'avais aucune issue depuis le début ?!
-  Exactement. Je t'avais prévenu,^  non ?
+  Exactement.^  Je t'avais prévenu, non ?
   Ne sous-estime pas la montagne.
 J'pensais pas que c'était dans c'sens-là !
 Y a pas de sous-titres dans c'film.
@@ -20400,8 +20400,8 @@ Alors que mon affection ou leurs forces changeaient constamment.
     Il s'est produit un incident
     quand je jouais avec les Ploy et elle.
 「Alice, demain, mon nouveau papa nous rend visite.
- Prête-moi le sixième Ploy, s'il te plaît.
- Je veux me faire belle pour l'accueillir !」
+  Prête-moi le sixième Ploy, s'il te plaît.
+  Je veux me faire belle pour l'accueillir !」
     Conformément à sa demande, je lui ai prêté
     le Ploy que j'avais nommé “sixième” ce jour-là.
     ......
@@ -20429,9 +20429,9 @@ Alors que mon affection ou leurs forces changeaient constamment.
     Snark est quel genre de Ploy ?
     Les points essentiels sont mentionnés dans l'histoire
     principale. Les données détaillées sont les suivantes :
-Hum.
-Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.
-On n'peut pas le restaurer ?
+  Hum.
+  Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.
+  On n'peut pas le restaurer ?
       Malheureusement, c'est impossible.
       Rien ne peut raffiner Snark à notre époque.
 Et c'est ainsi qu'cet héritage culturel fut anéanti par une sauvage
@@ -24093,7 +24093,7 @@ May Riddell Archelot
 Retour
 Je me demandai si Kuonji était vraiment une maniaque de la propreté.
 Je me demandai pourquoi M. Tokitsu avait organisé une fête d'anniversaire.
-Je me dis qu'il y avait deux sortes de coupables.
+Je me dis que les meurtres pouvaient être classés en deux catégories.
 Je songeai au crochetage de Ritsuka.
 Je me dis que son nom trahissait sa véritable nature.
 Qui possédait ce fameux “prana” ?
