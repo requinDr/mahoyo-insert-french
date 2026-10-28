@@ -11,7 +11,7 @@
  *    and the same spacing as the other letters;
  *  - the labels of the settings sliders are drawn whole;
  *  - Discord Rich Presence: the chapter of the scene being read;
- *  - typing "alice" in the menus plays the hidden scene 7-1b from the archive menu.
+ *  - typing "alice" in the archive menu plays the hidden scene 7-1b.
  * The version.dll functions are forwarded to the real system DLL.
  */
 #define WIN32_LEAN_AND_MEAN
@@ -650,20 +650,60 @@ static void start_scenes(void) {
 }
 
 /* ---------- Hidden scene ----------
- * Typing "alice" at the title screen or in the archive menu arms it: the next time the game
- * reads the archive launcher (LAUNCHER, when an episode is read), it gets HIDDEN_LAUNCHER, the
- * same script with all its scenes jumping to the hidden scene 7-1b (same size). Any scene
- * starting disarms it. */
+ * Typing "alice" in the archive menu reads its first episode as its "Read" button does, with
+ * the hidden scene armed: the game then reads the archive launcher (LAUNCHER) and gets
+ * HIDDEN_LAUNCHER, the same script with all its scenes jumping to the hidden scene 7-1b (same
+ * size). Any scene starting disarms it. */
 #define LAUNCHER "archive.chs"
 #define HIDDEN_LAUNCHER "archive_hidden.chs"
 #define PASSWORD "ALICE"
+#define FIRST_EPISODE 200  /* id of 1-0 in the launcher */
+#define MENU_IDLE 1
+#define MENU_READ 6
 static WNDPROC game_window_proc;
 
-static BOOL in_menu(void) {
+/* "Read" button of the archive menu: the id and number of the episode go to the request
+ * (int[3]: requested, id, number), then the menu goes to MENU_READ (int[2]: state, 0), at the
+ * end of which the game runs LAUNCHER for the request. */
+static const BYTE read_button[] = {0x8b, 0x48, 0x5c,                    /* mov ecx, [rax+0x5c] */
+                                   0x89, 0x0d, 0, 0, 0, 0,              /* mov [number], ecx */
+                                   0x44, 0x89, 0x35, 0, 0, 0, 0,        /* mov [requested], r14d */
+                                   0x45, 0x33, 0xc0, 0x41, 0x8d, 0x50, 0x06,
+                                   0x48, 0x8d, 0x0d, 0, 0, 0, 0};       /* lea rcx, [menu] */
+
+static BYTE *rip_target(BYTE *displacement) {
+    return displacement + 4 + *(int32_t *)displacement;
+}
+
+static BOOL find_read_button(volatile int32_t **request, volatile int32_t **menu) {
+    IMAGE_SECTION_HEADER *text = section(".text");
+    if (!text) return FALSE;
+    BYTE *p = game + text->VirtualAddress, *end = p + text->Misc.VirtualSize - sizeof(read_button);
+    for (; p <= end; ++p) {
+        size_t i = 0;
+        while (i < sizeof(read_button) && (p[i] == read_button[i] || (read_button[i] == 0 && i >= 5))) ++i;
+        if (i < sizeof(read_button)) continue;
+        int32_t *found = (int32_t *)rip_target(p + 12);
+        if (rip_target(p + 5) != (BYTE *)(found + 2)) return FALSE;  /* unknown version */
+        *request = found;
+        *menu = (volatile int32_t *)rip_target(p + 26);
+        return TRUE;
+    }
+    return FALSE;
+}
+
+static void read_hidden_scene(void) {
+    static volatile int32_t *request, *menu;
     AcquireSRWLockShared(&scenes_lock);
-    const BOOL menu = strcmp(current_scene, "title_bg2.cbg") == 0 || strcmp(current_scene, "archive_background.cbg") == 0;
+    const BOOL archive = strcmp(current_scene, "archive_background.cbg") == 0;
     ReleaseSRWLockShared(&scenes_lock);
-    return menu;
+    if (!archive || (!menu && !find_read_button(&request, &menu)) || menu[0] != MENU_IDLE) return;
+    InterlockedExchange(&hidden_armed, 1);
+    request[1] = FIRST_EPISODE;
+    request[2] = 1;
+    request[0] = 1;
+    menu[1] = 0;
+    menu[0] = MENU_READ;
 }
 
 static LRESULT CALLBACK hidden_scene_window_proc(HWND window, UINT message, WPARAM w, LPARAM l) {
@@ -671,10 +711,7 @@ static LRESULT CALLBACK hidden_scene_window_proc(HWND window, UINT message, WPAR
     if (message == WM_KEYDOWN && w >= 'A' && w <= 'Z') {
         memmove(typed, typed + 1, sizeof(typed) - 2);
         typed[sizeof(typed) - 2] = (char)w;
-        if (memcmp(typed, PASSWORD, sizeof(typed) - 1) == 0 && in_menu()) {
-            InterlockedExchange(&hidden_armed, 1);
-            MessageBeep(MB_ICONASTERISK);
-        }
+        if (memcmp(typed, PASSWORD, sizeof(typed) - 1) == 0) read_hidden_scene();
     }
     return CallWindowProcW(game_window_proc, window, message, w, l);
 }
