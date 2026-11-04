@@ -19668,8 +19668,8 @@ Je n'accepterai plus de sitôt l'aide de ce répugnant loup doré.
       Tout sur les
                   Ploy.
     À tous les idiots d'ce pays ignares en Vraie Magie,
-    et au pull bleu qui a fait ses débuts au lycée,
-    mais qui s'est fait voler la vedette par la véritable héroïne :
+    et au pull bleu qui a fait ses débuts au lycée, mais qui
+    s'est fait voler la vedette par la véritable héroïne :
       'soir. C'est l'heure d'une leçon pas très compréhensible
       sur une histoire pas trop compréhensible non plus,
       l'authentique émission de “Tout sur les Ploy”.
@@ -19713,7 +19713,7 @@ Depuis les temps anciens, la principale occupation des Mages est de s'enfermer d
   Ce ne sont que des pions, donc.
   C'est différent des disciples ?
   Tout à fait.
-  Un disciple est le successeur qui hérite des techniques du maître^  et se doit de les maîtriser, n'est-ce pas ?
+  Un disciple est le successeur qui hérite des techniques^  du maître et se doit de les maîtriser, n'est-ce pas ?
   Ils ont le devoir de surpasser un jour leurs maîtres,
   et ces derniers ne prendraient pas de disciples^  s'il en était autrement.
       À l'inverse, les familiers reçoivent l'intégralité^      de leurs capacités à leur naissance.
@@ -19842,8 +19842,8 @@ Dès que j'ai le temps, je fais des Ploy.
     En fait, cette odeur, c'est du chocolat ?
     Pas possible......
     Les Ploy étaient des pâtisseries――――?!
-    ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais pas
-    leur mécanisme ? Je ne voulais pas le reconnaître,
+    ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais
+    pas leur mécanisme ? Je ne voulais pas le reconnaître,
     mais en fin de compte, tu n'es vraiment qu'un oiseau ?
     Pour ça, même moi, je n'sais pas trop.
     Mais pour le mécanisme des Ploy, je l'sais.
@@ -19878,7 +19878,7 @@ Dès que j'ai le temps, je fais des Ploy.
         ça donne le terme “Ploy Kickshaw”.
         C'est vous qui l'avez inventé ?
 ...... C'est la Magie propre à la lignée de ma mère.
-Je suis trop scrupuleuse pour l'exhiber devant l'Association des Mages^afin d'en obtenir des privilèges et de l'argent.
+Je suis trop scrupuleuse pour l'exhiber devant l'Association^des Mages afin d'en obtenir des privilèges et de l'argent.
    Enfin, même si vous les présentiez publiquement,
    il n'y a que vous qui puissiez les utiliser !
    Ils sont liés au sang de Meinster !
@@ -24122,13 +24122,13 @@ J'avais enfin acquis la certitude que ces choix qui devenaient réalité étaien
 L'heure du thé^Voilà ce qui s'est passé hier
 L'heure du thé^Cette nuit-là
 L'heure du thé^Aozaki Aoko, 2e partie
-L'heure du thé^La nuit des magiciennes I
-L'heure du thé^La nuit des magiciennes II
+L'heure du thé^La nuit des magiciennes (1re partie)
+L'heure du thé^La nuit des magiciennes (2e partie)
 L'heure du thé^Plus bête qu'un chien
-L'heure du thé^Quelles sont ces sornettes ?
-L'heure du thé^Quelles sont ces sornettes !?
-L'heure du thé^LA MAGICIENNE COULEUR ORANGE
-L'heure du thé^HURLEMENT À LA LUNE
-L'heure du thé^LA VRAIE MAGIE COULEUR BLEUTÉE I
-L'heure du thé^LA VRAIE MAGIE COULEUR BLEUTÉE II
+L'heure du thé^Quelles sont ces sornettes ? (1re partie)
+L'heure du thé^Quelles sont ces sornettes ? (2e partie)
+L'heure du thé^La magicienne couleur orange
+L'heure du thé^Hurlement à la lune
+L'heure du thé^La Vraie Magie couleur bleutée
+L'heure du thé^Et puis, la Vraie Magie couleur bleutée
 L'heure du thé^Parlons des étoiles
