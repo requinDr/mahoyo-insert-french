@@ -840,7 +840,7 @@ Ravalant sa rage, Aoko fit son plus beau sourire.
   Il n'y avait aucune lumière dans l'entrée, vraisemblablement parce que l'architecte n'en avait pas prévu à l'origine.
   Grâce à l'ouverture au niveau du premier étage,
   le seul éclairage disponible était les rayons du soleil et le clair de lune qui passaient à travers la vitre tenant lieu de plafond.
-  Les jours de pluie, il y faisait sombre comme au crépuscule,
+  Les jours de pluie, il y faisait sombre comme avant l'aube,
   et les nuits sans lune, tout semblait comme pétrifié par le froid d'une étoile noire.
   Le salon, qui faisait office de salle de repos, se trouvait à l'est du vestibule ; mais avant de s'y rendre, Aoko, qui ne se sentirait pas à l'aise avant de s'être changée, se dirigea vers l'escalier.
   Celui-ci longeait le mur pour s'interrompre au niveau du couloir du premier étage.
@@ -1645,7 +1645,7 @@ Mais on dirait que vous ne pouvez sortir que celui-là, hein, vous deux.」
 「...... J'avais terminé les adieux.
   Il aurait peut-être fallu que je demande au moins l'épitaphe pour leur tombe.」
   Ses doigts pâles et gracieux parcoururent ses lèvres avec regret.
-  Après avoir soupiré pour la troisième fois, elle quitta lentement la forêt sombre, de la même façon qu'elle y était entrée.
+  Après avoir soupiré une seconde fois, elle quitta lentement la forêt sombre, de la même façon qu'elle y était entrée.
   Nous revenons un peu dans le temps.
   Pour situer la date, c'était une petite parenthèse au début du mois de décembre.
   Juste avant midi, un samedi après la fin du cours de la troisième période, quand il ne restait plus que la réunion de classe.
@@ -1829,7 +1829,7 @@ Mais bon, il n'y en aura sûrement plus d'autres après celle-ci.」
 「Oui. Toi aussi, tu es devenue assez redoutable, ça me désole. Après tout, la présence d'à l'instant était si vicieuse qu'elle ne m'aurait jamais fait penser à celle d'une jeune fille chaste.」
   Les deux jeunes femmes s'échangeaient des salutations en apparence pacifiques.
   Elles s'entendent bien, hein, pensa Sōjūrō qui les observait attentivement sans se rendre compte de l'animosité qui flottait dans l'air.
-「Le volontariat d'aujourd'hui se fera avec lui et moi.
+「Le volontariat de ce mois-ci se fera avec lui et moi.
   C'est pour notre église d'Aida bien-aimée. C'est pourquoi nous allons travailler d'arrache-pied de dix heures jusqu'à trois heures sans une seule minute de distraction.」
 「Eh bien. C'est la fin du monde, mais vous êtes les bienvenus.
   La demeure de Dieu est un lieu ouvert à tous sans discrimination. À cette occasion, je vais faire comme si je n'avais pas vu tes pensées.」
@@ -1911,8 +1911,8 @@ Dans le sens où c'était une nuisance pour les autres.
 「Non, je ne vous ai pas rencontrée.」
 「Si ! Tu es l'employé de chez Uotatsu, non ? Rien que cette semaine, j'y suis allée plusieurs fois.
   Je suis―――euh,
-voyons voir, je m'appelle Hanasawa, et toi ?」
-  Tout en lançant un coup d'œil au pot de <fleurs|hana> sous elle au milieu de sa phrase, Mlle Hanasawa sourit de façon candide.
+voyons voir, je m'appelle Hanazawa, et toi ?」
+  Tout en lançant un coup d'œil au pot de <fleurs|hana> sous elle au milieu de sa phrase, Mlle Hanazawa sourit de façon candide.
   Sōjūrō se présenta comme à son habitude, peu sûr de lui.
 「Sōjūrō...... Oui, c'est un beau nom, qui donne une impression d'ancienneté.
   Lorsqu'un nom comporte des kanjis de nombre, tu ne trouves pas que ça fait vraiment japonais ? Tu sais comment s'appellent le prêtre et la sœur qui vivent ici ? Eiri et Yuika, on dirait des noms d'étrangers.」
@@ -1920,7 +1920,7 @@ voyons voir, je m'appelle Hanasawa, et toi ?」
 「Ah, tu n'as pas encore rencontré le prêtre, hein.
   Pourtant, le prêtre charmant et les deux sœurs, beautés de l'église d'Aida, sont assez célèbres...... Ah, je sais ! Voyons voir, tu as déménagé récemment ici, pas vrai ? Et en plus, tu vis seul !」
 「C'est ça, mais......
-Mlle Hanasawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
+Mlle Hanazawa, vous êtes vraiment impressionnante ! Depuis tout à l'heure, vos conjectures sont tellement précises.」
 「Mais non, mais non, c'est juste de la déduction.
   Puisque vraisemblablement, ce n'est pas le charme des distractions de cette ville qui motive un garçon tel que toi à mettre du cœur à l'ouvrage. Si tu avais besoin d'argent pour t'amuser, un seul travail suffirait à couvrir tous tes frais. Et puis, tu ne sembles pas être avide.
   Dans ce cas, il est plus logique de penser que c'est pour les dépenses quotidiennes, non ?
@@ -1942,7 +1942,7 @@ qu'est-ce que l'on fait dans cet endroit ?
 」
   Sōjūrō désigna l'église du doigt.
 「Hé ? Euh ?」
-  Même Hanasawa en était confuse.
+  Même Hanazawa en était confuse.
   Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
 「Hmm, eh bien...
   Je me demande si l'on pourrait dire qu'on y protège l'âme des gens ? Non, il serait plus juste de parler, non pas de protection mais plutôt d'armure ? Une sorte de muraille rafistolée ? En tout cas, ça revient au même dans le sens où la personne en question n'est pas endurcie.
@@ -1977,27 +1977,27 @@ qu'est-ce que l'on fait dans cet endroit ?
   En premier lieu, c'est un domaine privé, ce qui veut dire que si tu y entres, tu seras interpellé par un policier, et ensuite, tu recevras un sermon au poste de police ! Une telle aventure n'est pas très drôle à vivre, n'est-ce pas ?」
   “Je vois”, dit-il en regardant la cheminée au loin du haut de l'échelle.
   Cette colline me faisait penser un peu, mais vraiment un tout petit peu, à la forêt de ma terre natale, alors ça me préoccupait. Mais apparemment, elle n'a rien à voir avec moi, agréa Sōjūrō qui reprit le nettoyage des fenêtres.
-  Grâce à l'aide de Hanasawa, le nettoyage des fenêtres fut terminé sans retard.
+  Grâce à l'aide de Hanazawa, le nettoyage des fenêtres fut terminé sans retard.
   À eux deux, ils avaient accompli un travail simple mais laborieux.
 「Bien, bon travail.
   Hum, qui pourrait croire qu'il y avait toute cette terre sur les fenêtres avant !
   À présent, que dirais-tu d'aller dans un salon de thé décent ? Pour récompenser ton comportement travailleur, c'est moi qui réga―――
 」
-「Oui ? Vous avez dit quelque chose, Mlle Hanasaw―――」
+「Oui ? Vous avez dit quelque chose, Mlle Hanazaw―――」
 「Non, désolée. Je viens de me rappeler une affaire urgente.
   Je dois filer à présent, ciao~」
   Lorsque Sōjūrō se retourna alors qu'il rangeait les échelles, la femme courait dans la rue principale à la vitesse de la lumière.
   Il était presque trois heures.
-  Il s'était passé plus de trois heures depuis que Hanasawa avait proposé de l'aider.
+  Il s'était passé plus de trois heures depuis que Hanazawa avait proposé de l'aider.
 「Hum.」
-  Sōjūrō l'accompagna du regard, le visage étonné par son changement brutal de comportement.
-  Hanasawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
+  Sōjūrō la regarda partir d'un air entendu, comme s'il comprenait son brusque changement d'attitude.
+  Hanazawa lui avait consacré beaucoup de temps alors qu'à la base, elle ne faisait que se promener sans but.
   Elle avait dû se rappeler quelque chose où elle pourrait se rendre utile, comme lorsqu'elle l'avait aidé sur un coup de tête.
 「Shizuki, tu es là ?」
   La présidente du conseil étudiant montra soudainement son visage au coin de l'église.
 「Ah, excuse-moi de t'avoir interrompu. Tu peux te consacrer à ton travail―――」
   En voyant Sōjūrō ranger l'échelle plus longue que lui, Aoko sembla confuse.
-  Ça ne dura qu'un instant, puis elle croisa les bras et se rapprocha de Sōjūrō.
+  Ça ne dura qu'un instant, puis elle se retroussa les manches et se rapprocha de Sōjūrō.
 「?」
   Sōjūrō semblait plus surpris par cette réaction que par le fait qu'Aoko soit soudainement apparue.
   En rejoignant Sōjūrō toujours perplexe, Aoko lui donna rapidement des instructions.
@@ -2109,7 +2109,7 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 “...... Alors, il y a aussi ce genre de ciel.”
   Il se rappelait les mots qu'il avait laissés échapper inconsciemment, confus.
   Quelles étoiles sombres !
-  Quel ciel sinistre !
+  Quel ciel étriqué !
   Ici, il n'y a pas de nuit où les étoiles sont visibles.
   Est-ce que je pourrai vivre ici―――
   Même maintenant, l'anxiété qu'il avait éprouvée cette nuit-là n'avait pas diminué.
@@ -2902,9 +2902,9 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
 「C'est bon, c'est bon. Tu vois, elle est dans un angle mort de la caméra, alors pour le moment, je ne suis sûr de rien.
   Mon petit Sō, jusqu'à maintenant, ton taux de capture était de 100 %, pas vrai ? Tu veux bien aller voir ?」
   “Dans ce cas, très bien”, répondit Sōjūrō avant de ranger son matériel de nettoyage et de se diriger vers le premier étage.
-  La salle de pachinko se situait dans un bâtiment classique à deux niveaux et était relativement vaste.
-  C'était un immeuble typique du quartier qui n'avait pas été spécialement réaménagé pour son activité, et petit à petit, les gens de la ville venaient y dépenser leur argent.
-  Malgré les défauts du magasin, les clients étaient nombreux et variés.
+  La salle de pachinko occupait deux niveaux du bâtiment et était une des plus grandes de son genre.
+  L'établissement était une figure dans le quartier, et plutôt que de régler ses machines de manière abusive, il se contentait de générer des revenus modestes mais réguliers auprès des habitants locaux.
+  Mais malgré les intentions de l'enseigne, la clientèle était particulièrement variée.
   On y trouvait des gens venus simplement pour s'amuser, des pros dont c'était le gagne-pain, et enfin des individus qui en tiraient profit en fraudant.
   Parmi eux, certains accédaient au système électrique en intervenant directement sur ces machines typiques des années 80. Puis ils rendaient le programme fou et pouvaient ainsi réaliser facilement le jackpot.
   Évidemment, l'établissement aurait préféré refuser l'accès à ce genre de personnes, mais sans preuve irréfutable, il ne pouvait pas leur interdire d'entrer.
@@ -3111,7 +3111,7 @@ Je l'ai tué.
   Tout en déglutissant malgré ma gorge sèche, je digérai ce fait irréel et répulsant.
 C'était dur et douloureux et je ne parvenais absolument pas à avaler, mais je m'efforçai de le faire.
 「――――――」
-  J'étais plutôt calme. Mon pouls était un peu trop fort, et ma respiration faisait autant de bruit que deux mille personnes, mais je pensais avoir les idées très claires.
+  J'étais plutôt calme. J'avais le cœur qui battait un peu vite et la respiration haletante, mais je pensais avoir les idées très claires.
   Avant que je ne m'en rende compte, le morceau de charbon était sous mes yeux.
   Craignant une contre-attaque, je vérifiai le corps avec précaution.
   ...... Bien, aucun problème. Ce qui était ratatiné et recroquevillé sur le sol du parc avait fini de brûler et n'était plus que cendres.
@@ -3153,7 +3153,7 @@ Non, on ne pouvait pas vraiment parler de cadavre. Ce n'était qu'une marionnett
   J'avais beau me plaindre, la silhouette en uniforme d'étudiant ne risquait pas de revenir.
   Tout en étant dépitée par mon impuissance, j'abandonnai la poursuite.
   Même si c'était temporaire, le parc était devenu la “forêt” d'Alice.
-  Si on pénétrait d'un seul mètre à l'intérieur, le visage et la voix des gens devenaient imprécis et inidentifiables. Après tout, c'était l'intérieur d'un conte de fées.
+  Ici, reconnaître le visage ou la voix de quelqu'un devenait pratiquement impossible, même à moins d'un mètre de distance. Après tout, c'était l'intérieur d'un conte de fées.
   Il avait vu tout ce qui s'était passé, mais il ne connaissait ni mon visage ni celui d'Alice ni le lieu où nous habitions―――dans ce cas, nous pouvions encore agir.
 「Ce dos, c'était celui d'un homme.」
   Je retournai au parc.
@@ -3224,7 +3224,7 @@ Apparemment, mes aptitudes en tant que Magicienne sont excellentes dans une cert
 「...... Et toi ? Ce matin, tu semblais confiante.」
 「Hum ?
  Ah, de mon côté, tout se passe comme prévu.
-  Demain, on aura considérablement réduit le nombre de suspects. Ce midi, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
+  Demain, on aura considérablement réduit le nombre de suspects. Ce matin, j'ai demandé à Tobimaru d'enquêter sur l'adresse et l'emploi du temps des élèves.
   Il n'y a pas tant de gens que ça qui rôdent à cette heure-ci dans le parc, et on peut facilement en déduire qui pouvait y être.」
 「Ce sera vraiment aussi simple ?」
 「Oui. Je ne suis pas présidente du conseil étudiant pour rien. J'avais déjà réuni toutes les informations nécessaires.
@@ -3332,14 +3332,14 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 「J'ai oublié son nom, mais c'est la même que celle qui apparaît dans <un roman chinois|La Pérégrination vers l'Ouest>.」
   En entendant cette réponse incomplète, Aoko fit preuve d'une relative perspicacité.
 「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? Alors, c'est la même chose que cette gourde rouge ?
-  Ça me donne la chair de poule rien que d'en parler, mais tu parles bien de ce truc qui ressemble à une fiole de médicament contre le rhume et dont on a enlevé l'étiquette ?」
-  En réfléchissant à la question d'Aoko, Alice regarda avec sérieux la fiole quelconque.
-  Mais, prenant conscience que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
+  Désolée de dire ça, mais tu ne trouves pas qu'on dirait juste un simple flacon de médicament contre le rhume dont on a enlevé l'étiquette ?」
+  En entendant la question, Alice examina le flacon et reconnut qu'il paraissait parfaitement ordinaire.
+  Mais réalisant que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
 「Pas la gourde rouge, mais la flasque de suif en jade.」
-「C'est pas le problème. Je te donne juste mon ressenti en tant que Mage.」
-「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de médicament contre les maux de ventre.」
+「C'est pas ça le problème. Je veux dire que ça manque de style pour un Mage.」
+「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de laxatif.」
 「―――Hmm.」
-  C'était une réponse plutôt sinistre.
+  C'était un argument plutôt convaincant.
 「Tu n'as qu'à ouvrir le couvercle et énoncer le nom de la personne.
   Mais si la cible possède encore la moindre volonté de résister, la fiole se brisera, alors utilise-la judicieusement.」
   Aoko fronça les sourcils suite à l'explication détachée d'Alice.
@@ -3471,15 +3471,15 @@ C'est pour ça que j'ai mis rapidement un terme à la discussion de façon à ne
   Elle trouvait n'importe quel document ou information en un rien de temps.
   En tant que propriétaire de l'étude, c'était bien le minimum qu'elle se devait de faire.
   ...... Du moins, elle s'en vantait, mais en définitive, il ne s'agissait que de gérer une petite étude.
-  La bibliothèque qui se trouvait dans le bâtiment annexe était, pour Aoko comme pour Alice, une véritable caverne d'Ali Baba qu'elles révéraient profondément.
-  Si son étude personnelle ne suffisait pas, elle devrait se résoudre à demander à Alice de pouvoir se rendre dans le bâtiment annexe.
+  En revanche, la bibliothèque située dans l'annexe était un véritable labyrinthe dans lequel ni Alice ni Aoko ne savaient où donner de la tête.
+  Mais quand son étude personnelle ne suffisait pas, elle n'avait d'autre choix que de demander à Alice de se rendre avec elle dans l'annexe.
 「...... Si possible, je préférerais l'éviter.」
   Elle posa le livre vert à la reliure volumineuse sur le bureau, et s'assit sur la chaise.
   C'était un bureau robuste, dur et froid.
   Ce n'était pas le genre de meuble qui plaisait le plus aux jeunes filles en général, mais Aoko aimait sa sobriété et son charme imposant.
   Elle tournait avec précaution les pages du vieux livre posé sur le bureau.
 『...... Il m'est encore impossible de créer une Barrière comme celle d'Alice.
-Pour prendre quelqu'un en chasse, il me faudra donc faire avec l'environnement......』
+Pour garder les curieux à l'écart, il me faudra donc choisir un endroit à dessein......』
   Par exemple, le fin fond des montagnes.
   Ou bien, les bois.
   Ou encore, l'établissement tard dans la nuit, déserté par ses élèves.
@@ -3777,7 +3777,7 @@ Aoko s'adressa à eux.
   ...... Aoko pensa qu'avec une telle association d'idées, Sōjūrō allait forcément dire quelque chose de déplacé. Même si cette conjecture n'avait aucun fondement.
 「...... Hmm. Tu veux dire me rendre la pareille ?」
 「?」
-  C'était une nouvelle fois malheureux, mais Sōjūrō ne semblait pas encore connaître le sens parfois négatif de se rendre la pareille chez les étudiants.
+  Par chance, Sōjūrō ne semblait pas encore connaître le sens parfois négatif de se rendre la pareille chez les étudiants.
 「Je ne vois pas très bien où tu veux en venir, mais ce n'est pas si important que ça.
   Il se trouve juste que le club de natation n'est pas très occupé jusqu'à l'été.」
   Sōjūrō voulut poursuivre en disant qu'elle ne lui avait conseillé que ce genre de club peu actif, mais Aoko l'interrompit d'un air ennuyé.
@@ -3974,7 +3974,7 @@ Mais les dernières paroles de Sōjūrō avaient fait vaciller sa détermination
   combinée à la retraite de Yurihiko, qui faisait de son mieux pour la maintenir à flot, aggrava la situation et mena la gérance de Kitsy Land à la faillite.
   Ce fut ainsi que l'unique parc d'attractions de Misaki, bien que regretté par les habitants du quartier, termina sa courte vie.
   ...... Par ailleurs,
-  c'est une autre histoire, mais on raconte que l'artiste (autoproclamé) résidant à Paris et à l'origine du design de Kitsy-chan, M. Tokkii Yurihiko, aurait brisé son pinceau en se lamentant sur la fermeture du parc.
+  c'est une autre histoire, mais on raconte que l'artiste (autoproclamé) résidant à Paris et à l'origine du design de Kitsy-chan, M. Tokkii Julich, aurait brisé son pinceau en se lamentant sur la fermeture du parc.
   Revenons au présent.
   À minuit, Kitsy Land ne laissait rien paraître de son ancienne gloire.
   Délaissé comme une poupée abandonnée dans le coin d'une boîte à jouets, il était illuminé par les lumières de la ville qui lui avaient survécu.
@@ -4098,7 +4098,7 @@ Ce n'était pas quelque chose dont il pouvait être fier, et c'était même clai
  alors qu'Aoko arrivait dans la grande salle du rez-de-chaussée, elle dut se rendre à l'évidence.
   Elle n'avait même pas besoin de tendre l'oreille pour l'entendre.
   Ce bruit qui n'existait pas, même lorsque cette attraction était au faîte de sa gloire.
-  Elle entendait un véritable vacarme apportant le désespoir, comme si une araignée monstrueuse la poursuivait en frôlant les miroirs à toute vitesse.
+  Elle entendait un vacarme aux relents de désespoir, comme si une horde de hérissons fantomatiques fonçait sur elle en raclant les miroirs.
 「............ Cet empoté. Qu'est-ce que ça veut dire ?! Je lui dis trois minutes, et il ne tient même pas dix secondes.」
   Il ne lui avait pas fait gagner de temps du tout.
   Bon sang, je savais bien qu'il ferait quelque chose de pas croyable rien qu'en courant, eut-elle envie de pester.
@@ -4193,7 +4193,7 @@ Ce n'était pas quelque chose dont il pouvait être fier, et c'était même clai
   Son épaule gauche qui avait reçu la malédiction l'élançait.
   C'est sans importance. Même si la situation est critique, il n'y a que les coups directs de “l'Attaque de Finn” que je dois absolument éviter―――!
 「―――!」
-“Feu......!”
+“<Repousse-toi|Snap>......!”
   Il lui fallut une demi-seconde pour se remettre de la douleur et de la perte d'équilibre.
   Au moment où elle leva la tête, elle détourna l'arme qui fonçait vers elle avec son poing imbibé de prana.
 「1... 2... et...!」
@@ -8997,7 +8997,7 @@ Si tu veux un kit de nettoyage complet, alors ce sera moins cher que le centre c
   Quel genre d'égarement l'avait poussée à les toucher avec tant d'amour...?
 「――――――」
   Ses paupières closes bougèrent imperceptiblement.
-  L'heure était tardive, et la nuit sur le point de tomber.
+  L'après-midi était avancé et le jour allait commencer à décliner.
   La fille réagit, non pas aux sons perçus par ses oreilles, mais à ceux transmis par le manoir, et reprit vaguement conscience.
   L'oiseau bleu chanta comme s'il s'inquiétait pour la jeune fille qui se massait les paupières d'un air douloureux.
   Les yeux hagards,
@@ -10726,7 +10726,7 @@ Voilà le topo, alors occupons-nous de cet enfant maintenant qu'on est deux...�
   ou bien encore, elles se rendaient au bout du couloir conduisant à l'arrière de la demeure et dont l'entrée était interdite. Elles s'affairaient à leurs activités dans leur coin.
   Cependant, Sōjūrō ne ressentait pas l'envie de s'en mêler, et Aoko et Alice n'avaient pas non plus l'intention de l'embarquer là-dedans, donc pour le moment, il n'y avait pas de problèmes.
   Jusque-là, le manoir Kuonji était paisible.
-「Bonsoir.」
+「Je suis rentré.」
   Sōjūrō ouvrit silencieusement la porte du salon.
   Même s'ils faisaient tous les trois en sorte de ne pas se mêler des affaires des autres, il les saluait toujours poliment. C'était un de ses principes.
   Elles se faisaient face, chacune assise sur un sofa.
@@ -10821,7 +10821,7 @@ Il a profité de notre négligence pour s'emparer d'un de ses véritables object
   C'était un dieu protecteur de Misaki autre que la Barrière des Aozaki.
   Pour être plus exact, il s'agissait d'un “monstre de contes de fées” protégeant uniquement Kuonji Alice, et non pas la ville. Il était telle une lettre de défi créant un brouillard épais, et attirant les visiteurs dans un jeu de plateau.
   Sa maîtresse l'appelait seulement “le miroir”,
-  tandis que son amie d'enfance le nommait “le Miroir de la sieste”.
+  tandis que son amie le nommait “le Miroir de la sieste”.
   C'était une Magie que seule maîtrisait Kuonji Alice.
   À la surface ondulante du miroir flottaient un château, de nombreuses forêts, une plaine et une rivière.
   Aoko fixait ce spectacle sans prononcer un mot.
@@ -12141,7 +12141,7 @@ Tant pis, je vais devoir agir dans l'ombre.」
   Il était déjà habitué à la malveillance humaine.
   Il avait même failli se faire tuer à plusieurs reprises, parfois par ses propres frères et sœurs excessivement violents,
   et parfois par quelqu'un qui avait des intentions meurtrières.
-  Il avait également assisté à l'exhibitionnisme de ses frères, confits dans leurs idées d'élitistes et de classe privilégiée, tandis qu'ils jouaient avec l'existence d'autrui.
+  Il avait aussi vu son frère aîné, confit dans ses idées d'élitisme et de classe privilégiée, étaler son besoin de s'afficher en jouant avec la vie d'autrui.
   ...... C'était vraiment pénible.
   Chacun de ces évènements aurait suffi à bouleverser sa vision de la vie, mais il était resté complètement indifférent.
   Alors c'est ça, pensait-il.
@@ -13442,7 +13442,7 @@ Au fait, tu ne trouves pas ce poisson joli ? Il me donne envie de nager. Et si o
   Les deux humaines s'attaquèrent au bassin suivant.
   Ses résidents étaient tout aussi observateurs.
   Les visiteuses de cet océan hivernal disparurent d'un air indifférent.
-  Ils leur souhaitèrent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
+  Ils leur dirent au revoir tandis que leurs pas s'éloignaient pour finir sur un claquement de porte.
   ...... La croisière pédestre se déroula ainsi pendant une heure.
   Avec le nombre impressionnant d'expositions, l'entrecroisement des couloirs formait comme un labyrinthe qui les conduisit soudainement au niveau supérieur.
   Comme elles savaient qu'elles se trouvaient au dernier étage de l'immeuble, même Aoko fut étonnée en découvrant la structure en deux couches de l'aquarium.
@@ -13659,7 +13659,7 @@ Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé
   Dès que nos yeux se sont croisés, tu as pris tes jambes à ton cou, tu te rappelles ?
   Juste après, je me suis sérieusement demandé si j'étais vraiment si effrayante que ça.」
   La femme racontait joyeusement ce souvenir.
-  Oui. Le lendemain de la découverte du secret d'Aoko, il avait pris cette femme pour la fille du parc et s'était enfui.
+  Oui. Le lendemain de la découverte du secret d'Aoko, il avait cru que la fille du parc était cette femme et s'était enfui.
   Finalement, il y avait eu erreur sur la personne, mais s'il les avait confondues cette fois-là, c'était parce que―――
 『...... Mais oui ! Elles dégagent la même aura.』
   Là-dessus, Sōjūrō réalisa enfin qui était la visiteuse. Si j'y avais un peu réfléchi, je m'en serais tout de suite rendu compte, se morigéna-t-il.
@@ -13747,11 +13747,11 @@ Je viens rendre visite à Aoko, et voilà que le garçon que j'ai déjà croisé
 「J'y crois pas. En vendant autant d'Automates, on pourrait s'acheter non seulement la ville de Misaki, mais même carrément un beau quartier en France, non ?」
 「...... Oui. Cependant, vu leur qualité, on ne trouverait sûrement pas d'acheteur.」
 「Oh, des déchets restent donc des déchets.」
-  En réponse aux propos injurieux d'Aoko, le groupe de marionnettes se mit à faire des bonds.
-  Elles s'élancèrent brusquement, comme si elles avaient été renversées par un camion-benne.
+  En réponse aux insultes d'Aoko, l'une des silhouettes bondit en avant.
+  Elle s'élança brusquement, comme si elle avait été renversée par un camion-benne.
   Alice resta immobile,
   tandis qu'Aoko brandit son bras droit en faisant volte-face, comme si elle n'avait attendu que ça.
-  La balle de lumière bleue fut facilement dispersée par leur carapace.
+  La balle de lumière bleue fut facilement dispersée par sa carapace.
   Un Snap qui ne dégageait que du prana n'affecterait pas ces marionnettes.
   Les Automates rampaient au sol telles des grenouilles et faisaient pivoter leur tête à 360 degrés pour chercher Aoko.
 「...... Trente en tout et pour tout. Désolée, mais tu vas devoir me laisser faire, Alice. Je ne supporte pas l'idée qu'il pense avoir vu toute l'étendue de mes capacités l'autre fois.」
@@ -14501,7 +14501,7 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
 「...... Tu ne sais pas à quel point c'est douloureux d'avoir la trachée bloquée, hein, Aozaki ? On ne peut vraiment plus résister quand ça arrive.」
 「Je t'ai bien dit que ce collier servait à ça, non ?
   Je ne l'avais encore jamais utilisé jusqu'à maintenant, et comme d'habitude, tu n'as aucun sens du danger, il fallait bien que je te dresse une fois.
-  ―――À part ça, va donc faire le ménage. Si tu ne te dépêches pas, tu y seras encore que le soleil sera déjà couché, tu sais ?」
+  ―――À part ça, va donc faire le ménage. Si tu ne te dépêches pas, le soleil se couchera avant que tu en aies fini, tu sais ?」
 「...... D'accord. J'ai compris.
   Au bout du compte, le destin a voulu que cette journée se passe ainsi.」
   Sōjūrō baissa les épaules comme un perdant et quitta la véranda.
@@ -14576,7 +14576,7 @@ Donc elle n'a pas encore corrigé sa manie de vouloir ce qui appartient aux autr
   Finalement, elle resta inexpressive et n'exprima ni son consentement ni son désaccord.
 「En gros, les cheveux des Mages peuvent aussi servir d'arme.
   Les cheveux et les yeux humains ont toujours constitué de bons matériaux en Magie. Tout particulièrement dans le cas des femmes.
-  Plus la couleur des yeux est pure, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
+  Plus les yeux ont une couleur prononcée, mieux c'est, et plus les cheveux sont longs, meilleure est la qualité.
   Il est facile d'utiliser ses cheveux comme une extension de soi-même, et on les entretient sur de longues années. Vois ça comme une primitive et puissante “matière première”.
   La raison pour laquelle je me laisse pousser les cheveux, eh bien, c'est pour ça. C'est fastidieux de les entretenir, mais comme je suis une femme, c'est presque un passe-temps.」
   ...... Ah bon ? Si c'est le cas, qu'en est-il d'Alice ? se demanda Sōjūrō en lui jetant un regard furtif.
@@ -18055,7 +18055,7 @@ C'est un peu étroit pour y enfermer un humain, mais grand-père est plus proche
   Elle faisait semblant de nous prendre à la légère, mais en réalité, elle était sérieuse depuis le début.」
   Même sous son regard furibond, le garçon persistait à arborer un curieux sourire.
   Tandis qu'il fixait les jeunes filles, l'éclat qui brillait dans ses yeux montrait clairement qu'il se délectait de la tragédie à venir.
-  Ses cheveux et ses yeux verts qui resplendissaient même dans les ténèbres,
+  Ses cheveux blonds et ses yeux verts qui resplendissaient même dans les ténèbres,
   et son apparence, plus proche d'une fille que d'un garçon,
  évoquaient tout simplement un être vivant venu d'une autre planète qui revêtait temporairement cette forme―――
 「Beo. Aujourd'hui, tu peux les manger.」
@@ -21187,7 +21187,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「Il n'y a rien à dire. Comme tu l'as dit, c'est une patate ratatinée. Pour moi, en tout cas. Il ne mérite pas qu'on lui prête attention, et il n'est pas assez alléchant pour satisfaire ton appétit non plus.」
 「Vraiment ? C'est juste un ennemi ? Je suis le seul qui soit spécial pour toi ?」
 「Oui, pour le moment.
-  ...... Je pensais que la flamme subsistait encore, mais elle est complètement éteinte. La prochaine fois que j'aurai affaire à lui, je n'hésiterai sans doute pas.」
+  ...... Je pensais que la flamme pouvait peut-être se rallumer, mais elle est définitivement éteinte. Je ne ressentirai plus jamais rien pour lui.」
 「Vraiment ? S'il n'est plus rien pour toi, alors je vais faire en sorte d'oublier ! Mais ça veut dire quoi, cette histoire de flamme ?」
 「À force de ressasser le passé, j'aurais pu retomber sous son charme.
   Les chances pour que ça se produise n'étaient pas complètement nulles. Il n'en a pas l'air, mais on peut dire que c'était mon premier amour.」
@@ -21248,14 +21248,14 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「Appelle-moi si tu as besoin d'aide, d'accord ? Le contrat est rompu, mais je reste ton familier.
   Hum, non, ce n'est pas du sarcasme, je te dis ! Les loups ont une grande fierté. Tant que je n'aurai pas trouvé meilleur employeur, je te confie ma laisse.」
   Il voulut soudainement savoir où voyageait la personne au bout du fil.
-  Après avoir admis la défaite, elle avait abrogé le contrat avec son familier.
+  Après avoir reconnu la défaite, elle avait abrogé le contrat avec son familier.
   La raison étant qu'elle n'avait pas respecté sa part du marché qui consistait à lui faire affronter la Vraie Magie.
   Cependant, la faute incombait à son familier et non à elle. Il n'avait pas encore accompli son travail en tant que garde du corps.
 「Sinon, où es-tu en ce moment ?」
   Son interlocuteur prononça le nom d'un pays qui lui était inconnu.
   Afin de mettre au point un moyen de dissiper la malédiction, elle avait rapidement quitté le Japon.
-「En quoi as-tu reconnu la défaite ?
-  Ça prouve que tu n'as pas encore abandonné.」
+「En quoi as-tu “reconnu la défaite” ?
+  Au contraire, tu n'as pas encore renoncé.」
   “En effet”, répondit-elle en riant.
   Il sentit comme une fragrance des tropiques à l'autre bout du combiné.
   Il n'aurait su dire s'il s'agissait d'une caractéristique du téléphone fabriqué par Aozaki Tōko,
@@ -21266,9 +21266,9 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 「Hum...... Pour tout te dire, je ne sais pas trop.」
   Alors qu'il hésitait sur les mots à employer, il palpa sa poitrine et se remémora la douleur qui l'avait parcouru un mois auparavant.
 「Hé hé hé. Eh bien, comment dire...
-  J'ai l'impression qu'en restant ici, je découvrirai ce que signifie la notion de “douceur”.」
-  Le loup qui avait expérimenté les actes inutiles déclara son objectif d'une voix d'où perçait la gaieté.
-  C'était une affaire extrêmement rare, en rapport avec le miel.
+  J'ai l'impression qu'en restant ici, je découvrirai ce qu'est véritablement la “douceur”.」
+  Le loup, conscient de la vacuité de ses efforts, déclara son objectif d'une voix d'où perçait la gaieté.
+  Il s'agissait, là encore, d'une situation extrêmement rare, similaire à une forme de <premier amour|miel>.
   Aozaki attendait à l'entrée de l'aile est.
 「Désolée, j'ai été trop longue ?」
 「Non, pas vraiment. Et puis, je n'ai rien à faire pour le moment.
@@ -21303,8 +21303,8 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
   En rentrant chez moi, après nos discussions, j'étais souvent prise de mystérieux accès de gaieté, et je m'interrogeais continuellement sur la raison à ça.
   Le coup décisif se produisit durant le nettoyage après le festival culturel de deuxième année.
   Par le plus grand des hasards, on rangeait ensemble le matériel de théâtre du conseil étudiant, et je finis par me poser la question suivante : “Tiens ? J'aurais pas eu le coup de foudre pour lui, en fait ?”
-  On dit que l'amour est aveugle,
-  mais l'être à ce point-là, c'est grave !
+  On dit que l'amour est un poison violent,
+  mais qu'il mette autant de temps à agir, c'est un comble !
   Cela dit, rien ne changea suite à cette révélation.
   Je continuais de tenir tête à ma famille, une bande de barbares ayant un muscle à la place du cerveau.
   Je me révoltais contre mon destin consistant à reprendre l'affaire familiale.
@@ -23344,7 +23344,7 @@ C'est parce que j'éprouve du respect pour quelqu'un comme toi qui as dû te bat
   Mon corps était encore engourdi.
   Trop lasse pour préparer du thé, je pris lentement mon portefeuille et mon porte-passe posés sur la table.
   Dans ce dernier se trouvaient ma carte de transport et une photo souvenir.
-  Une photo singulière où on voyait Aozaki se dépraver pendant le festival de l'école de cette année.
+  La photo d'un spectacle rare, où Aozaki se mettait dans une situation embarrassante pendant le festival de l'école de cette année.
   Peut-être avait-elle bu du champagne qu'elle avait confondu avec du jus de fruit,
   ou bien quelqu'un s'était trompé dans la quantité d'assaisonnement secret, à savoir de l'alcool, dans le Mont Blanc,
   mais une chose était sûre, au moment où on l'avait quittée des yeux, Aozaki s'était retrouvée d'une humeur joviale et s'était débattue en disant vouloir porter cette tenue.
@@ -23902,7 +23902,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
   Et pour finir,
 「Ah, Kojika ! Ciaos ♪」
   je me demandais quel genre de bête pouvait se cacher derrière le sourire de cette femme insouciante.
-  En tout cas, ce n'était probablement pas un esprit très recommandable.
+  Ma foi, il n'y avait probablement même pas un chaton là-dessous.
 「Bonjour, Ritsuka.
   Vous avez aussi été invitée à la fête ?」
 「Oui, la petite Al a eu la gentillesse de le faire.
@@ -23912,7 +23912,7 @@ De plus, il est inutile d'aller chercher des chaises. Ritsuka remplira parfaitem
   Ritsuka était la sœur aînée de sœur Yuika, et techniquement parlant, elle ne faisait pas partie de l'église.
   C'était une résidente parfaitement banale du vieux quartier de Misaki que je croisais tous les deux jours dans le quartier marchand.
 「Au fait, Ritsuka. Il s'est mis à pleuvoir ?」
-「Oui, à verse. J'espère que ça se calmera vite.」
+「Oui, juste quelques gouttes. J'espère que ça s'arrêtera vite.」
   Ritsuka jeta un regard inquiet vers l'extérieur.
   Je...
 ~Choix D~
