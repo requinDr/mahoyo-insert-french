@@ -27,11 +27,11 @@ JP_SENTENCE_END = re.compile(r'(?<=[。！？!?])(?![」』）。！？!?])|(?<=
 FR_SENTENCE_END = re.compile(r'(?<=[.!?…」』])\s+')
 
 
-def find_source_line(source_lines: list[str], line: str) -> int | None:
-	for index, source_line in enumerate(source_lines):
-		if line.strip() == source_line.strip():
-			return index
-	return None
+def find_source_line(source_lines: list[str], line: str, last_found: int) -> int | None:
+	"""Index of the source line, the first one after the last one found when the same
+	Japanese line appears several times in the file."""
+	matches = [index for index, source_line in enumerate(source_lines) if line.strip() == source_line.strip()]
+	return next((index for index in matches if index > last_found), matches[0] if matches else None)
 
 
 def get_partial_translation(i: int, jp_lines: list[str], fr_lines: list[str], script: list[str], last_found: int):
@@ -98,7 +98,7 @@ def format_line(index: int, line: str) -> str:
 def line_process(script: list[str], i: int, jp_lines: list[str], fr_lines: list[str], last_found: int) -> int:
 	if script[i].strip() == "":
 		return last_found
-	index = find_source_line(jp_lines, script[i])
+	index = find_source_line(jp_lines, script[i], last_found)
 	if index is not None:
 		if index < len(fr_lines) and fr_lines[index]:
 			script[i] = format_line(i, fr_lines[index])
