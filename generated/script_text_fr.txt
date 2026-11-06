@@ -19836,8 +19836,8 @@ Vous voyez “La forêt, l'oiseau et la fillette” ? Ou “L'oiseau et l'écoli
     dans le club du retour à la maison ?
 Tu peux le constater par toi-même.
 Dès que j'ai le temps, je fais des Ploy.
-  Ouaah. C'est à l'image des sorcières
-  des contes de fées.
+  Ouaah. C'est à l'image
+  des sorcières des contes de fées.
   Les Ploy se fabriquent dans une marmite ?
     En fait, cette odeur, c'est du chocolat ?
     Pas possible......
@@ -19887,7 +19887,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association^des Mages afin d'en
 ? Désolé, j'ai oublié c'que j'viens de dire.
 Pour moi, les choses du passé sont plus vagues que l'futur.
   ...... Qu'entends-tu
-  au juste par Meinster ?
+  ^  Qu'entends-tu au juste^  par Meinster ?
 My Goddess. La mère de Mam'zelle Alice.
 Elle avait des surnoms comme la Sorcière au sang pur.
     Mais votre mère était une fashion victim.
@@ -19901,16 +19901,16 @@ Elle avait des surnoms comme la Sorcière au sang pur.
   en souriant : “son nom sera Alice”.
     ...... C'est incroyable.
     Elle avait vraiment une âme d'enfant.
-    Ha ha ha, qu'est-ce que vous racontez.
-    Vous qui vous réveillez systématiquement
-    dès que l'idiot rentre à la maison,
+    Ha ha ha, qu'est-ce que vous racontez. Vous qui
+    vous réveillez systématiquement dès que l'idiot
+    rentre à la maison,
  vous n'avez rien à lui envi...
  Guah ?!
         À la prochaine leçon, faisons un cours
         “Ploy Kickshaw, cas particuliers”.
-    Alors Robin, occupe-toi de la réservation au restaurant.
-    Quand tu auras fini, réchauffe le chocolat.
-    Et après, tu poliras le miroir.
+    Alors Robin, occupe-toi de la réservation
+    au restaurant. Quand tu auras fini, réchauffe
+    le chocolat. Et après, tu poliras le miroir.
   Et ensuite...... voyons. Écrase-toi contre
   un poteau électrique et meurs de façon théâtrale.
       Comme d'habitude, donc, hein !
@@ -19922,8 +19922,8 @@ Elle avait des surnoms comme la Sorcière au sang pur.
  toutes les cinq secondes
   pour injurier quelqu'un d'aussi xxx que toi.
   Tu penses vraiment avoir une telle importance ?
-    C'est terrible !
-    Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !
+    C'est terrible ! Ça veut dire que j'ai moins
+    de valeur qu'un caramel Glico, hein !
     Mais,
  dans ce cas,
  je veux
@@ -19934,8 +19934,8 @@ Elle avait des surnoms comme la Sorcière au sang pur.
   J'me suis fait avaler tout rond en un instant.
   Comme je l'pensais, les Ploy sont des pâtisseries ?
   Hmm, c'est bon...
-    Chef.
-    Une assiette de thon trois variétés.
+    Chef. Une assiette
+    de thon trois variétés.
   Mam'zelle Alice, c'est quoi ça ?
   Je n'avais jamais vu cette drôle d'assiette dorée.
       Ce n'est pas grand-chose.
@@ -19964,15 +19964,15 @@ La fille du conglomérat Kuonji ne se prive de rien !
     Et puis, j'ai emprunté le portemonnaie d'Aoko.
     Ah bon ?
     Celui d'Mam'zelle Aoko ?
-        Mais il risque d'être rapidement à sec.
-        Faut dire qu'son portemonnaie n'est pas bien rempli.
+        Mais il risque d'être rapidement à sec. Faut
+        dire qu'son portemonnaie n'est pas bien rempli.
         Elle fait les boutiques dès qu'elle a de l'argent.
     Aucun problème.
     Il suffit d'être paré, Robin.
     J'ai également ici un portefeuille bien garni.
                   Bhu...!
                   Quoi ?
-      Non non, rien.
+      Non, rien.
       La proprio détient l'autorité absolue, après tout.
       Qui pourrait s'opposer à vous dans ce manoir ?
 ...... Mais tout de même, c't idiot est plutôt friqué, dis donc.
@@ -20083,8 +20083,8 @@ posant le pion dessus, l'endroit correspondant devient la Forêt sans nom.
     Dans sa zone d'action, il suggère aux intrus qu'ils n'ont
     rien à faire là, agissant comme une répulsion, mais......
   Ça n'a pas d'effet sur les durs de la^  comprenette, si je saisis bien.
-    ...... Exactement.
-    Ce n'était pas ma faute, mais j'ai manqué de vigilance.
+    ...... Exactement. Ce n'était pas ma faute,
+    mais j'ai manqué de vigilance.
     La prochaine fois, je ferai plus attention.
 Reprenons. Le Ploy suivant―――
   Yahou !
@@ -20141,9 +20141,9 @@ Chef, l'addition s'il vous plaît.
     Tu es bien curieux pour une cervelle d'oiseau.
     Aujourd'hui, c'est moi qui garde la boutique.
     Aurais-tu quelque chose à y redire ?
-    Non, pas du tout.
-    Ah. J'ai capté ! Mam'zelle Alice,
-    vous vouliez travailler avec l'idiot, que c'est mi...
+  Non, pas du tout. Ah. J'ai capté !
+  Mam'zelle Alice, vous vouliez travailler
+  avec l'idiot, que c'est mi...
     Tout sur les Ploy.
       Aujourd'hui, nous verrons des Ploy Kickshaw
       plutôt inoffensifs. Allez, Robin.
@@ -20199,15 +20199,15 @@ celle qui dépense en s'cret, c'pas la reine mais Mam'z...
 Pas besoin de détails, n'est-ce pas ?
 Tu apparais bien assez comme ça dans l'histoire principale.
     Il se base sur un chant funèbre. L'histoire
-    tourne autour du meurtre d'un rouge-gorge.
+    tourne autour du meurtre du rouge-gorge.
     À la question 「Qui l'a tué ?」,
     l'ensemble du cortège funèbre répond 「Moi」.
     Elle dépeint aussi la recherche du coupable.
     Suite à l'immense succès de cette comptine de Mother Goose,
-    la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”
+    la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」
     fut publiée et devint elle aussi un best-seller.
-    Elle fut suivie de “Le procès et l'exécution du moineau pour avoir tué
-    Cock Robin” qui conte les évènements après la mort du rouge-gorge.
+    Elle fut suivie de l'histoire du procès et de l'exécution du moineau
+    qui conte les évènements après la mort du rouge-gorge.
     Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
 Les piafs ont pourtant jamais eu un yen.
       À part ça, vous saviez que le rouge-gorge
@@ -20240,8 +20240,8 @@ Kya !
   ...... Compris ? C'est une règle qui permet de créer
   un nouveau mot à partir de plusieurs sens différents.
   C'est de là que vient la polysémie de l'Œil Mystique.
-    Humpty n'a pas servi à proprement parler^    de modèle
-    pour lui, mais “elle” a choisi ce nom en son honneur.
+    Humpty n'a pas servi à proprement parler^    de modèle pour lui,
+    mais “elle” a choisi ce nom en son honneur.
     Hmm. J'viens d'y penser, mais associer
     “première édition limitée” et “édition normale”,
     ça donne quoi ?
@@ -20258,13 +20258,13 @@ constamment disponibles à la vente.
   Ensuite...... Ah, ç'ui-là.
   On en parlera dans le chap' bonus, alors on passe.
     Le suivant―――c'est quoi c'truc ?
-    ...... Ce n'est qu'un produit raté.
-    C'est mon premier Ploy. Il n'a aucune utilité.
-    Je m'en sers de décoration par sentimentalisme.
+    ...... Ce n'est qu'un produit raté. C'est mon
+    premier Ploy. Il n'a aucune utilité. Je m'en
+    sers de décoration par sentimentalisme.
 Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt
 laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
-    C'est un ouvrage en sucre en forme de broche.
-    Ouah, sucré...!
+      C'est un ouvrage en sucre en forme
+      de broche. Ouah, sucré...!
     Ce qu'il est sucré, votre bonbon fait maison !
     C'est l'heure de fermer.
     Moi, je rentre,
@@ -20284,8 +20284,8 @@ laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
     Ne sous-estime pas la montagne.
     Ne sais-tu donc pas qu'un important pourcentage^    d'oiseaux migrateurs décèdent en tentant de la franchir ?
   Un moment d'inattention et c'est la mort assurée.
-  Tu peux mourir n'importe quand. Fais preuve de
-  respect envers les sommets où vivent les dieux.
+        Tu peux mourir n'importe quand. Fais preuve de
+        respect envers les sommets où vivent les dieux.
     En gros, ça change pas vraiment de d'habitude.
     Je reformule. Ne nous sous-estime pas,
     la montagne et moi. Aujourd'hui,
@@ -20328,17 +20328,17 @@ Dans la chanson du Pont de Londres.
     Thames est le Ploy du Pont de Londres,
     mais son apparence a changé au cours des siècles.
     Dans la version actuelle de Mother Goose, il a quatre formes.
-  Donc il y a autre chose après le bois et la pierre.
-  Mais ça vous dérange pas ?
-  De révéler vos atouts, comme ça ?
+        Donc il y a autre chose après le bois
+        et la pierre. Mais ça vous dérange pas ?
+        De révéler vos atouts, comme ça ?
         Non. N'importe qui peut aisément se renseigner
         sur la chanson du Pont de Londres de nos jours.
   Et puis, de toute façon,
   je ne peux aller que jusqu'au couplet de la pierre.
   En parler ne posera aucun problème.
   Pourquoi vous n'pouvez pas l'utiliser ?
-    Parce que la société humaine ne m'intéresse pas.
-    Le pont présent dans mon univers ne va que du bois à la roche.
+      Parce que la société humaine ne m'intéresse pas. Le pont
+      présent dans mon univers ne va que du bois à la roche.
       Comment ! Moi qui vous croyais invulnérable,
       vous cachez donc des points faibles......
     Ah, non, en y repensant,
@@ -20368,15 +20368,15 @@ Dans la chanson du Pont de Londres.
     Le Négligent est apparu――――――!
     En fait, j'étais déjà sur son corps ?
     J'n'avais aucune issue depuis le début ?!
-  Exactement.^  Je t'avais prévenu, non ?
-  Ne sous-estime pas la montagne.
+    Exactement. Je t'avais prévenu, non ?
+    Ne sous-estime pas la montagne.
 J'pensais pas que c'était dans c'sens-là !
 Y a pas de sous-titres dans c'film.
 Pourtant, j'ai dit des tas de choses.
-      Je sais.
-      Mais comme tu étais trop bruyant, j'ai ordonné
-      au réalisateur de couper spécifiquement tes répliques.
-        Great. De cette façon, toute l'attention^        peut se concentrer sur vous, hein ?
+      Je sais. Mais comme tu étais trop bruyant,
+      j'ai ordonné au réalisateur de couper
+      spécifiquement tes répliques.
+        Great. De cette façon, toute l'attention peut se concentrer sur vous, hein ?
         Je suis le seul à jouer comme dans un film muet.
     C'est l'deuxième, pas vrai ?
     Le deuxième, oui. À titre d'information,
@@ -20414,9 +20414,9 @@ Alors que mon affection ou leurs forces changeaient constamment.
       Avec les yeux boursouflés pour une raison qui m'échappe.
         『Celui-ci est Sweets Hearts. Lui Scripps Humpty.^         Celui-là Diddle Diddle. Et lui Flat Snark.^         Compris ? Appelle-les comme ça dorénavant.』
     ...... On dit que le nom est le reflet de l'âme, vois-tu ?
-    Je pensais que les classer selon mon humeur était plus simple^    que d'employer des noms extravagants, mais...
+    Je pensais que les classer selon mon humeur était^    plus simple que d'employer des noms extravagants, mais...
     『On ne peut pas deviner ton état d'esprit. Dis-toi que^     mon destin peut dépendre de tes mystérieuses humeurs.』
-『Et puis, ce genre de noms sera bientôt à la mode. C'est certain.^ Même si on en aura sûrement rapidement assez.』
+『Et puis, ce genre de noms sera bientôt à la mode.^C'est certain. Même si on en aura sûrement rapidement assez.』
 『Quitte à leur donner des noms, autant que ça en jette. Ce sont^ nos créations originales, ne pas suivre la mode serait du gâchis.』
   Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous^  les retenir, mais je ne me suis plus jamais trompée après ça.
   C'est un peu comme l'œuf de Colomb.
@@ -20429,15 +20429,15 @@ Alors que mon affection ou leurs forces changeaient constamment.
     Snark est quel genre de Ploy ?
     Les points essentiels sont mentionnés dans l'histoire
     principale. Les données détaillées sont les suivantes :
-  Hum.
-  Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.
-  On n'peut pas le restaurer ?
+  Hum. Et cette huile précieuse,
+    Mam'zelle Aoko l'a brûlée.
+    On n'peut pas le restaurer ?
       Malheureusement, c'est impossible.
       Rien ne peut raffiner Snark à notre époque.
 Et c'est ainsi qu'cet héritage culturel fut anéanti par une sauvage
 ne vivant qu'à l'instinct. Ha ha, c'est si drôle d'écraser la culture !
-    Mais quand même, après le Négligent, c'est Snark qui y passe !
-    Ha ha, les Great Three ?
+    Mais quand même, après le Négligent,
+    c'est Snark qui y passe ! Ha ha, les Great Three ?
     Mon œil ! Ces Great Three sont trop faibles !
 Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur ! Prépare des frites avec l'huile restante !
 En voilà une bonne idée venant de toi, Robin.
@@ -20449,8 +20449,8 @@ J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet rôti a un
       Je n'ai pas vraiment faim.
       Le rôtir dans l'huile me suffira amplement.
 Ha ha. C'est donc pas pour le manger.
-    Ne serait-ce pas la première fois que tu bous entièrement^    des plumes à la peau ?
-    Tu peux rajouter une mort de plus à ta collection, Robin.
+  Ne serait-ce pas la première fois que tu bous entièrement des plumes à la peau ?
+  Tu peux rajouter une mort de plus à ta collection, Robin.
  Justement la collection que je voulais^ le moins étoffer, quel pied !
  Et il en reste encore tellement !
     ...... Le film se finit là, apparemment.
@@ -24074,20 +24074,20 @@ Je... Je songeai qu'il suffirait de fermer à clef, et que de toute façon, j'au
 Je... Je songeai qu'au regard de la situation, c'était inévitable.
 Je songeai qu'il valait mieux fuir jusqu'au matin.
 Je songeai qu'il fallait identifier le coupable.
-Aoko Aozaki
-Alice Kuonji
-Sōjūrō Shizuki
-Tōko Aozaki
-Tobimaru Tsukiji
+Aozaki Aoko
+Kuonji Alice
+Shizuki Sōjūrō
+Aozaki Tōko
+Tsukiji Tobimaru
 Suivant
-Hōsuke Kinomi
-Kojika Kumari
+Kinomi Hōsuke
+Kumari Kojika
 Lugh Beowulf
-Eiri Fumizuka
-Ritsuka Suse
+Fumizuka Eiri
+Suse Ritsuka
 Suivant
-Yuika Suse
-Kazuki Yamashiro
+Suse Yuika
+Yamashiro Kazuki
 Yurihiko Tokitsu
 May Riddell Archelot
 Retour
@@ -24099,20 +24099,20 @@ Je me dis que son nom trahissait sa véritable nature.
 Qui possédait ce fameux “prana” ?
 Qui avait pu activer le Ploy ?
 Qui était resté à la vue de tout le monde en permanence ?
-Aoko Aozaki
-Alice Kuonji
-Sōjūrō Shizuki
-Tōko Aozaki
-Tobimaru Tsukiji
+Aozaki Aoko
+Kuonji Alice
+Shizuki Sōjūrō
+Aozaki Tōko
+Tsukiji Tobimaru
 Suivant
-Hōsuke Kinomi
-Kojika Kumari
+Kinomi Hōsuke
+Kumari Kojika
 Lugh Beowulf
-Eiri Fumizuka
-Ritsuka Suse
+Fumizuka Eiri
+Suse Ritsuka
 Suivant
-Yuika Suse
-Kazuki Yamashiro
+Suse Yuika
+Yamashiro Kazuki
 Yurihiko Tokitsu
 May Riddell Archelot
 Retour

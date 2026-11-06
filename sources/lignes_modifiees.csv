@@ -340,19 +340,20 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19872,,4,alignement saynète
 19873,,4,alignement saynète
 19881,Je suis trop scrupuleuse pour l'exhiber devant l'Association<ra>des Mages afin d'en obtenir des privilèges et de l'argent.,,魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
-19891,My Goddess. La mère de Mam'zelle Alice.,0,alignement saynète
+19890,<ra>Qu'entends-tu au juste<ra>par Meinster ?,,
+19891,,0,alignement saynète
 19892,,0,alignement saynète
 19899,,2,alignement saynète
 19900,,2,alignement saynète
 19901,,2,alignement saynète
-19904,"Ha ha ha, qu'est-ce que vous racontez.",4,
-19905,Vous qui vous réveillez systématiquement,4,
-19906,"dès que l'idiot rentre à la maison,",4,
+19904,"Ha ha ha, qu'est-ce que vous racontez. Vous qui",4,
+19905,vous réveillez systématiquement dès que l'idiot,4,
+19906,"rentre à la maison,",4,
 19907,vous n'avez rien à lui envi...,1,
 19908,Guah ?!,1,ぐぼぁ!?
-19911,"Alors Robin, occupe-toi de la réservation au restaurant.",4,
-19912,"Quand tu auras fini, réchauffe le chocolat.",4,
-19913,"Et après, tu poliras le miroir.",4,
+19911,"Alors Robin, occupe-toi de la réservation",4,
+19912,"au restaurant. Quand tu auras fini, réchauffe",4,
+19913,"le chocolat. Et après, tu poliras le miroir.",4,
 19914,Et ensuite...... voyons. Écrase-toi contre,,
 19915,un poteau électrique et meurs de façon théâtrale.,,retour à la ligne saynète
 19918,,1,
@@ -362,8 +363,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19922,toutes les cinq secondes,1,××を罵るのに
 19923,,2,
 19924,,2,
-19925,C'est terrible !,4,
-19926,"Ça veut dire que j'ai moins de valeur qu'un caramel Glico, hein !",4,
+19925,C'est terrible ! Ça veut dire que j'ai moins,4,
+19926,"de valeur qu'un caramel Glico, hein !",4,
 19927,,4,
 19928,,1,alignement saynète
 19929,,1,alignement saynète
@@ -374,8 +375,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19934,,2,alignement saynète
 19935,,2,alignement saynète
 19936,,2,alignement saynète
-19937,Chef.,4,
-19938,Une assiette de thon trois variétés.,4,
+19937,Chef. Une assiette,4,
+19938,de thon trois variétés.,4,
 19939,,2,alignement saynète
 19940,,2,alignement saynète
 19941,,6,alignement saynète
@@ -396,14 +397,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19959,,0,alignement saynète
 19960,,0,alignement saynète
 19961,,0,alignement saynète
-19967,Mais il risque d'être rapidement à sec.,,
-19968,Faut dire qu'son portemonnaie n'est pas bien rempli.,,
 19970,,4,
 19971,,4,
 19972,,4,
-19975,"Non non, rien.",,
-19976,"La proprio détient l'autorité absolue, après tout.",,
-19977,Qui pourrait s'opposer à vous dans ce manoir ?,,
 19978,,0,alignement saynète
 19979,,0,alignement saynète
 19980,,2,alignement saynète
@@ -480,8 +476,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20083,,4,
 20084,,4,
 20085,"Ça n'a pas d'effet sur les durs de la<ra>comprenette, si je saisis bien.",2,alignement saynète
-20086,...... Exactement.,4,
-20087,"Ce n'était pas ma faute, mais j'ai manqué de vigilance.",4,
+20086,,4,
+20087,,4,
 20088,,4,
 20089,,0,alignement saynète
 20090,,2,alignement saynète
@@ -505,9 +501,6 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20134,,2,alignement saynète
 20135,,2,alignement saynète
 20137,"Tu fais les courses la journée ?<ra>Je t'envie, Robin.",4,alignement saynète
-20144,"Non, pas du tout.",4,
-20145,"Ah. J'ai capté ! Mam'zelle Alice,",4,
-20146,"vous vouliez travailler avec l'idiot, que c'est mi...",4,
 20148,,6,
 20149,,6,
 20150,,6,
@@ -539,13 +532,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20193,,4,
 20194,,4,
 20195,,4,
-20201,Il se base sur un chant funèbre. L'histoire,,
-20202,tourne autour du meurtre d'un rouge-gorge.,,alignement saynète
 20206,"Suite à l'immense succès de cette comptine de Mother Goose,",4,
-20207,la préquelle “L'heureuse cour de Cock Robin et Jenny Wren”,4,
+20207,la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」,4,
 20208,fut publiée et devint elle aussi un best-seller.,4,
-20209,Elle fut suivie de “Le procès et l'exécution du moineau pour avoir tué,,
-20210,Cock Robin” qui conte les évènements après la mort du rouge-gorge.,,
 20212,,0,alignement saynète
 20216,"En d'autres termes―――le personnage<ra>principal de Mahoyo, c'est mo...",4,alignement saynète
 20217,Kya !,0,alignement saynète
@@ -561,7 +550,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20232,,2,alignement saynète
 20238,Humpty lui répondit :「“Slictueux”,,
 20239,"signifie “souple, actif, onctueux”.」",,alignement saynète
-20243,Humpty n'a pas servi à proprement parler<ra>de modèle,4,
+20243,"Humpty n'a pas servi à proprement parler<ra>de modèle pour lui,",4,
+20244,mais “elle” a choisi ce nom en son honneur.,4,
 20245,,4,
 20246,,4,
 20247,,4,
@@ -574,28 +564,15 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20256,,4,
 20257,,4,
 20260,,4,
-20261,...... Ce n'est qu'un produit raté.,4,alignement saynète
-20262,C'est mon premier Ploy. Il n'a aucune utilité.,,
-20263,Je m'en sers de décoration par sentimentalisme.,,
 20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt",0,
 20265,"laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.",0,alignement saynète
-20266,C'est un ouvrage en sucre en forme de broche.,4,
-20267,"Ouah, sucré...!",4,
 20268,,4,
-20274,"J'suis à l'endroit indiqué, mais Mam'zelle Alice n'est",,
-20275,"pas là. L'heure et le lieu devraient être justes,",,
-20276,"pourtant... J'vais recrier l'titre, on sait jamais.",,
 20279,,2,
 20280,,2,
 20281,,2,
 20285,Ne sais-tu donc pas qu'un important pourcentage<ra>d'oiseaux migrateurs décèdent en tentant de la franchir ?,,
 20286,,2,
-20287,Tu peux mourir n'importe quand. Fais preuve de,2,
-20288,respect envers les sommets où vivent les dieux.,2,
 20289,,4,
-20290,"Je reformule. Ne nous sous-estime pas,",,
-20291,"la montagne et moi. Aujourd'hui,",,
-20292,je suis deux fois plus motivée que d'ordinaire.,,
 20293,,2,
 20294,,2,
 20295,"Bien, c'est l'heure de Tout sur les Ploy, Robin.",4,
@@ -625,15 +602,10 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20328,,4,
 20329,,4,
 20330,,4,
-20331,Donc il y a autre chose après le bois et la pierre.,2,
-20332,Mais ça vous dérange pas ?,2,
-20333,,2,
 20336,,2,
 20337,,2,
 20338,,2,
 20339,,2,
-20340,Parce que la société humaine ne m'intéresse pas.,4,
-20341,Le pont présent dans mon univers ne va que du bois à la roche.,4,
 20342,"Comment ! Moi qui vous croyais invulnérable,",,
 20343,vous cachez donc des points faibles......,,
 20344,"Ah, non, en y repensant,",4,
@@ -647,15 +619,12 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20365,,2,
 20366,,2,
 20367,,2,
-20371,"Exactement.<ra>Je t'avais prévenu, non ?",2,
-20372,,2,
 20373,,0,
 20374,,0,
 20375,,0,
 20376,,6,
 20377,,6,
 20378,,6,
-20379,"Great. De cette façon, toute l'attention<ra>peut se concentrer sur vous, hein ?",,
 20382,"Le deuxième, oui. À titre d'information,",,
 20383,je précise que le corps de Snark est liquide.,,
 20384,,2,
@@ -683,9 +652,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20413,"Après ça, elle m'a proposé de donner des noms aux Ploy.",,
 20414,Avec les yeux boursouflés pour une raison qui m'échappe.,,
 20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra> Celui-là Diddle Diddle. Et lui Flat Snark.<ra> Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
-20417,"Je pensais que les classer selon mon humeur était plus simple<ra>que d'employer des noms extravagants, mais...",,
+20417,"Je pensais que les classer selon mon humeur était<ra>plus simple que d'employer des noms extravagants, mais...",,
 20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra> mon destin peut dépendre de tes mystérieuses humeurs.』,4,
-20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est certain.<ra> Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
+20419,"『Et puis, ce genre de noms sera bientôt à la mode.<ra>C'est certain. Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
 20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont<ra> nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
 20421,"Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous<ra>les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
 20425,,4,
@@ -694,18 +663,14 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20428,,4,
 20429,,4,
 20432,,2,
-20433,"Et cette huile précieuse, Mam'zelle Aoko l'a brûlée.",2,
-20434,On n'peut pas le restaurer ?,2,
 20435,,6,
 20436,,6,
 20437,Et c'est ainsi qu'cet héritage culturel fut anéanti par une sauvage,0,
 20438,"ne vivant qu'à l'instinct. Ha ha, c'est si drôle d'écraser la culture !",0,
-20439,"Mais quand même, après le Négligent, c'est Snark qui y passe !",4,
-20440,"Ha ha, les Great Three ?",4,
+20439,"Mais quand même, après le Négligent,",4,
+20440,"c'est Snark qui y passe ! Ha ha, les Great Three ?",4,
 20446,"Le menu ne comporte qu'des hot-dogs,<ra>du pop-corn et des frites.",,外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
 20451,Ha ha. C'est donc pas pour le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
-20452,Ne serait-ce pas la première fois que tu bous entièrement<ra>des plumes à la peau ?,4,
-20453,,4,
 20454,"Justement la collection que je voulais<ra>le moins étoffer, quel pied !",,
 20456,,4,
 20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,4,
@@ -857,20 +822,20 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 24074,"Je... Je songeai qu'au regard de la situation, c'était inévitable.",,そ、そういうコトなら、仕方がない、と思った。
 24075,Je songeai qu'il valait mieux fuir jusqu'au matin.,,朝まで逃げるべきだ、と思った。
 24076,Je songeai qu'il fallait identifier le coupable.,,犯人を推理すべきだ、と思った。
-24077,Aoko Aozaki,,蒼崎 青子
-24078,Alice Kuonji,,久遠寺 有珠
-24079,Sōjūrō Shizuki,,静希 草十郎
-24080,Tōko Aozaki,,蒼崎 橙子
-24081,Tobimaru Tsukiji,,槻司 鳶丸
+24077,Aozaki Aoko,,蒼崎 青子
+24078,Kuonji Alice,,久遠寺 有珠
+24079,Shizuki Sōjūrō,,静希 草十郎
+24080,Aozaki Tōko,,蒼崎 橙子
+24081,Tsukiji Tobimaru,,槻司 鳶丸
 24082,Suivant,,次へ
-24083,Hōsuke Kinomi,,木乃美 芳助
-24084,Kojika Kumari,,久万梨 金鹿
+24083,Kinomi Hōsuke,,木乃美 芳助
+24084,Kumari Kojika,,久万梨 金鹿
 24085,Lugh Beowulf,,ルゥ・ベオウルフ
-24086,Eiri Fumizuka,,文柄 詠梨
-24087,Ritsuka Suse,,周瀬 律架
+24086,Fumizuka Eiri,,文柄 詠梨
+24087,Suse Ritsuka,,周瀬 律架
 24088,Suivant,,次へ
-24089,Yuika Suse,,周瀬 唯架
-24090,Kazuki Yamashiro,,山城 和樹
+24089,Suse Yuika,,周瀬 唯架
+24090,Yamashiro Kazuki,,山城 和樹
 24091,Yurihiko Tokitsu,,土桔 由里彦
 24092,May Riddell Archelot,,メイ・リデル・アーシェロット
 24093,Retour,,戻る
@@ -882,20 +847,20 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 24099,Qui possédait ce fameux “prana” ?,,魔力とやらを持っているのは誰だ、と思った。
 24100,Qui avait pu activer le Ploy ?,,プロイとやらを起動できたのは誰だ、と思った。
 24101,Qui était resté à la vue de tout le monde en permanence ?,,常にみんなに見られていたのは誰だ、と思った。
-24102,Aoko Aozaki,,蒼崎 青子
-24103,Alice Kuonji,,久遠寺 有珠
-24104,Sōjūrō Shizuki,,静希 草十郎
-24105,Tōko Aozaki,,蒼崎 橙子
-24106,Tobimaru Tsukiji,,槻司 鳶丸
+24102,Aozaki Aoko,,蒼崎 青子
+24103,Kuonji Alice,,久遠寺 有珠
+24104,Shizuki Sōjūrō,,静希 草十郎
+24105,Aozaki Tōko,,蒼崎 橙子
+24106,Tsukiji Tobimaru,,槻司 鳶丸
 24107,Suivant,,次へ
-24108,Hōsuke Kinomi,,木乃美 芳助
-24109,Kojika Kumari,,久万梨 金鹿
+24108,Kinomi Hōsuke,,木乃美 芳助
+24109,Kumari Kojika,,久万梨 金鹿
 24110,Lugh Beowulf,,ルゥ・ベオウルフ
-24111,Eiri Fumizuka,,文柄 詠梨
-24112,Ritsuka Suse,,周瀬 律架
+24111,Fumizuka Eiri,,文柄 詠梨
+24112,Suse Ritsuka,,周瀬 律架
 24113,Suivant,,次へ
-24114,Yuika Suse,,周瀬 唯架
-24115,Kazuki Yamashiro,,山城 和樹
+24114,Suse Yuika,,周瀬 唯架
+24115,Yamashiro Kazuki,,山城 和樹
 24116,Yurihiko Tokitsu,,土桔 由里彦
 24117,May Riddell Archelot,,メイ・リデル・アーシェロット
 24118,Retour,,戻る

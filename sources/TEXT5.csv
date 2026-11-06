@@ -40,50 +40,50 @@ SYSMES_CONF_115,その他のボイス出力を設定します,Modifier le volume
 SYSMES_CONF_116,その他のボイス音量を設定します,Volume des dialogues autres.,设置其他语音音量,設定其他語音音量
 SYSMES_CONF_117,その他のボイス音量を下げます,Baisser le volume des dialogues autres.,降低其他语音音量,調低其他語音音量
 SYSMES_CONF_118,その他のボイス音量を上げます,Augmenter le volume des dialogues autres.,提高其他语音音量,調高其他語音音量
-SYSMES_CONF_119,蒼崎 青子のボイス出力を設定します,Modifier le volume des dialogues d'Aoko Aozaki.,设置苍崎青子的语音输出,設定蒼崎 青子的語音輸出
-SYSMES_CONF_120,蒼崎 青子のボイス音量を設定します,Volume des dialogues d'Aoko Aozaki.,设置苍崎青子的语音音量,設定蒼崎 青子的語音音量
-SYSMES_CONF_121,蒼崎 青子のボイス音量を下げます,Baisser le volume des dialogues d'Aoko Aozaki.,降低苍崎青子的语音音量,調低蒼崎 青子的語音音量
-SYSMES_CONF_122,蒼崎 青子のボイス音量を上げます,Augmenter le volume des dialogues d'Aoko Aozaki.,提高苍崎青子的语音音量,調低蒼崎 青子的語音音量
-SYSMES_CONF_123,久遠寺 有珠のボイス出力を設定します,Modifier le volume des dialogues d'Alice Kuonji.,设置久远寺有珠的语音输出,設定久遠寺 有珠的語音輸出
-SYSMES_CONF_124,久遠寺 有珠のボイス音量を設定します,Volume des dialogues d'Alice Kuonji.,设置久远寺有珠的语音音量,設定久遠寺 有珠的語音音量
-SYSMES_CONF_125,久遠寺 有珠のボイス音量を下げます,Baisser le volume des dialogues d'Alice Kuonji.,降低久远寺有珠的语音音量,調低久遠寺 有珠的語音音量
-SYSMES_CONF_126,久遠寺 有珠のボイス音量を上げます,Augmenter le volume des dialogues d'Alice Kuonji.,提高久远寺有珠的语音音量,調高久遠寺 有珠的語音音量
-SYSMES_CONF_127,静希 草十郎のボイス出力を設定します,Modifier le volume des dialogues de Sōjūrō Shizuki.,设置静希草十郎的语音输出,設定靜希 草十郎的語音輸出
-SYSMES_CONF_128,静希 草十郎のボイス音量を設定します,Volume des dialogues de Sōjūrō Shizuki.,设置静希草十郎的语音音量,設定靜希 草十郎的語音音量
-SYSMES_CONF_129,静希 草十郎のボイス音量を下げます,Baisser le volume des dialogues de Sōjūrō Shizuki.,降低静希草十郎的语音音量,調低靜希 草十郎的語音音量
-SYSMES_CONF_130,静希 草十郎のボイス音量を上げます,Augmenter le volume des dialogues de Sōjūrō Shizuki.,提高静希草十郎的语音音量,調高靜希 草十郎的語音音量
-SYSMES_CONF_131,槻司 鳶丸のボイス出力を設定します,Modifier le volume des dialogues de Tobimaru Tsukiji.,设置槻司鸢丸的语音输出,設定槻司 鳶丸的語音輸出
-SYSMES_CONF_132,槻司 鳶丸のボイス音量を設定します,Volume des dialogues de Tobimaru Tsukiji.,设置槻司鸢丸的语音音量,設定槻司 鳶丸的語音音量
-SYSMES_CONF_133,槻司 鳶丸のボイス音量を下げます,Baisser le volume des dialogues de Tobimaru Tsukiji.,降低槻司鸢丸的语音音量,調低槻司 鳶丸的語音音量
-SYSMES_CONF_134,槻司 鳶丸のボイス音量を上げます,Augmenter le volume des dialogues de Tobimaru Tsukiji.,提高槻司鸢丸的语音音量,調高槻司 鳶丸的語音音量
-SYSMES_CONF_135,久万梨 金鹿のボイス出力を設定します,Modifier le volume des dialogues de Kojika Kumari.,设置久万梨金鹿的语音输出,設定久萬梨 金鹿的語音輸出
-SYSMES_CONF_136,久万梨 金鹿のボイス音量を設定します,Volume des dialogues de Kojika Kumari.,设置久万梨金鹿的语音音量,設定久萬梨 金鹿的語音音量
-SYSMES_CONF_137,久万梨 金鹿のボイス音量を下げます,Baisser le volume des dialogues de Kojika Kumari.,降低久万梨金鹿的语音音量,調低久萬梨 金鹿的語音音量
-SYSMES_CONF_138,久万梨 金鹿のボイス音量を上げます,Augmenter le volume des dialogues de Kojika Kumari.,提高久万梨金鹿的语音音量,調高久萬梨 金鹿的語音音量
-SYSMES_CONF_139,木乃美 芳助のボイス出力を設定します,Modifier le volume des dialogues de Hōsuke Kinomi.,设置木乃美芳助的语音输出,設定木乃美 芳助的語音輸出
-SYSMES_CONF_140,木乃美 芳助のボイス音量を設定します,Volume des dialogues de Hōsuke Kinomi.,设置木乃美芳助的语音音量,設定木乃美 芳助的語音音量
-SYSMES_CONF_141,木乃美 芳助のボイス音量を下げます,Baisser le volume des dialogues de Hōsuke Kinomi.,降低木乃美芳助的语音音量,調低木乃美 芳助的語音音量
-SYSMES_CONF_142,木乃美 芳助のボイス音量を上げます,Augmenter le volume des dialogues de Hōsuke Kinomi.,提高木乃美芳助的语音音量,調高木乃美 芳助的語音音量
-SYSMES_CONF_143,山城 和樹のボイス出力を設定します,Modifier le volume des dialogues de Kazuki Yamashiro.,设置山城和树的语音输出,設定山城 和樹的語音輸出
-SYSMES_CONF_144,山城 和樹のボイス音量を設定します,Volume des dialogues de Kazuki Yamashiro.,设置山城和树的语音音量,設定山城 和樹的語音音量
-SYSMES_CONF_145,山城 和樹のボイス音量を下げます,Baisser le volume des dialogues de Kazuki Yamashiro.,降低山城和树的语音音量,調低山城 和樹的語音音量
-SYSMES_CONF_146,山城 和樹のボイス音量を上げます,Augmenter le volume des dialogues de Kazuki Yamashiro.,提高山城和树的语音音量,調高山城 和樹的語音音量
-SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Modifier le volume des dialogues d'Eiri Fumizuka.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
-SYSMES_CONF_148,文柄 詠梨のボイス音量を設定します,Volume des dialogues d'Eiri Fumizuka.,设置文柄咏梨的语音音量,設定文柄 詠梨的語音音量
-SYSMES_CONF_149,文柄 詠梨のボイス音量を下げます,Baisser le volume des dialogues d'Eiri Fumizuka.,降低文柄咏梨的语音音量,調低文柄 詠梨的語音音量
-SYSMES_CONF_150,文柄 詠梨のボイス音量を上げます,Augmenter le volume des dialogues d'Eiri Fumizuka.,提高文柄咏梨的语音音量,調高文柄 詠梨的語音音量
-SYSMES_CONF_151,周瀬 律架のボイス出力を設定します,Modifier le volume des dialogues de Ritsuka Suse.,设置周濑律架的语音输出,設定周瀨 律架的語音輸出
-SYSMES_CONF_152,周瀬 律架のボイス音量を設定します,Volume des dialogues de Ritsuka Suse.,设置周濑律架的语音音量,設定周瀨 律架的語音音量
-SYSMES_CONF_153,周瀬 律架のボイス音量を下げます,Baisser le volume des dialogues de Ritsuka Suse.,降低周濑律架的语音音量,調低周瀨 律架的語音音量
-SYSMES_CONF_154,周瀬 律架のボイス音量を上げます,Augmenter le volume des dialogues de Ritsuka Suse.,提高周濑律架的语音音量,調高周瀨 律架的語音音量
-SYSMES_CONF_155,周瀬 唯架のボイス出力を設定します,Modifier le volume des dialogues de Yuika Suse.,设置周濑唯架的语音输出,設定周瀨 唯架的語音輸出
-SYSMES_CONF_156,周瀬 唯架のボイス音量を設定します,Volume des dialogues de Yuika Suse.,设置周濑唯架的语音音量,設定周瀨 唯架的語音音量
-SYSMES_CONF_157,周瀬 唯架のボイス音量を下げます,Baisser le volume des dialogues de Yuika Suse.,降低周濑唯架的语音音量,調低周瀨 唯架的語音音量
-SYSMES_CONF_158,周瀬 唯架のボイス音量を上げます,Augmenter le volume des dialogues de Yuika Suse.,提高周濑唯架的语音音量,調高周瀨 唯架的語音音量
-SYSMES_CONF_159,蒼崎 橙子のボイス出力を設定します,Modifier le volume des dialogues de Tōko Aozaki.,设置苍崎橙子的语音输出,設定蒼崎 橙子的語音輸出
-SYSMES_CONF_160,蒼崎 橙子のボイス音量を設定します,Volume des dialogues de Tōko Aozaki.,设置苍崎橙子的语音音量,設定蒼崎 橙子的語音音量
-SYSMES_CONF_161,蒼崎 橙子のボイス音量を下げます,Baisser le volume des dialogues de Tōko Aozaki.,降低苍崎橙子的语音音量,調低蒼崎 橙子的語音音量
-SYSMES_CONF_162,蒼崎 橙子のボイス音量を上げます,Augmenter le volume des dialogues de Tōko Aozaki.,提高苍崎橙子的语音音量,調高蒼崎 橙子的語音音量
+SYSMES_CONF_119,蒼崎 青子のボイス出力を設定します,Modifier le volume des dialogues d'Aozaki Aoko.,设置苍崎青子的语音输出,設定蒼崎 青子的語音輸出
+SYSMES_CONF_120,蒼崎 青子のボイス音量を設定します,Volume des dialogues d'Aozaki Aoko.,设置苍崎青子的语音音量,設定蒼崎 青子的語音音量
+SYSMES_CONF_121,蒼崎 青子のボイス音量を下げます,Baisser le volume des dialogues d'Aozaki Aoko.,降低苍崎青子的语音音量,調低蒼崎 青子的語音音量
+SYSMES_CONF_122,蒼崎 青子のボイス音量を上げます,Augmenter le volume des dialogues d'Aozaki Aoko.,提高苍崎青子的语音音量,調低蒼崎 青子的語音音量
+SYSMES_CONF_123,久遠寺 有珠のボイス出力を設定します,Modifier le volume des dialogues de Kuonji Alice.,设置久远寺有珠的语音输出,設定久遠寺 有珠的語音輸出
+SYSMES_CONF_124,久遠寺 有珠のボイス音量を設定します,Volume des dialogues de Kuonji Alice.,设置久远寺有珠的语音音量,設定久遠寺 有珠的語音音量
+SYSMES_CONF_125,久遠寺 有珠のボイス音量を下げます,Baisser le volume des dialogues de Kuonji Alice.,降低久远寺有珠的语音音量,調低久遠寺 有珠的語音音量
+SYSMES_CONF_126,久遠寺 有珠のボイス音量を上げます,Augmenter le volume des dialogues de Kuonji Alice.,提高久远寺有珠的语音音量,調高久遠寺 有珠的語音音量
+SYSMES_CONF_127,静希 草十郎のボイス出力を設定します,Modifier le volume des dialogues de Shizuki Sōjūrō.,设置静希草十郎的语音输出,設定靜希 草十郎的語音輸出
+SYSMES_CONF_128,静希 草十郎のボイス音量を設定します,Volume des dialogues de Shizuki Sōjūrō.,设置静希草十郎的语音音量,設定靜希 草十郎的語音音量
+SYSMES_CONF_129,静希 草十郎のボイス音量を下げます,Baisser le volume des dialogues de Shizuki Sōjūrō.,降低静希草十郎的语音音量,調低靜希 草十郎的語音音量
+SYSMES_CONF_130,静希 草十郎のボイス音量を上げます,Augmenter le volume des dialogues de Shizuki Sōjūrō.,提高静希草十郎的语音音量,調高靜希 草十郎的語音音量
+SYSMES_CONF_131,槻司 鳶丸のボイス出力を設定します,Modifier le volume des dialogues de Tsukiji Tobimaru.,设置槻司鸢丸的语音输出,設定槻司 鳶丸的語音輸出
+SYSMES_CONF_132,槻司 鳶丸のボイス音量を設定します,Volume des dialogues de Tsukiji Tobimaru.,设置槻司鸢丸的语音音量,設定槻司 鳶丸的語音音量
+SYSMES_CONF_133,槻司 鳶丸のボイス音量を下げます,Baisser le volume des dialogues de Tsukiji Tobimaru.,降低槻司鸢丸的语音音量,調低槻司 鳶丸的語音音量
+SYSMES_CONF_134,槻司 鳶丸のボイス音量を上げます,Augmenter le volume des dialogues de Tsukiji Tobimaru.,提高槻司鸢丸的语音音量,調高槻司 鳶丸的語音音量
+SYSMES_CONF_135,久万梨 金鹿のボイス出力を設定します,Modifier le volume des dialogues de Kumari Kojika.,设置久万梨金鹿的语音输出,設定久萬梨 金鹿的語音輸出
+SYSMES_CONF_136,久万梨 金鹿のボイス音量を設定します,Volume des dialogues de Kumari Kojika.,设置久万梨金鹿的语音音量,設定久萬梨 金鹿的語音音量
+SYSMES_CONF_137,久万梨 金鹿のボイス音量を下げます,Baisser le volume des dialogues de Kumari Kojika.,降低久万梨金鹿的语音音量,調低久萬梨 金鹿的語音音量
+SYSMES_CONF_138,久万梨 金鹿のボイス音量を上げます,Augmenter le volume des dialogues de Kumari Kojika.,提高久万梨金鹿的语音音量,調高久萬梨 金鹿的語音音量
+SYSMES_CONF_139,木乃美 芳助のボイス出力を設定します,Modifier le volume des dialogues de Kinomi Hōsuke.,设置木乃美芳助的语音输出,設定木乃美 芳助的語音輸出
+SYSMES_CONF_140,木乃美 芳助のボイス音量を設定します,Volume des dialogues de Kinomi Hōsuke.,设置木乃美芳助的语音音量,設定木乃美 芳助的語音音量
+SYSMES_CONF_141,木乃美 芳助のボイス音量を下げます,Baisser le volume des dialogues de Kinomi Hōsuke.,降低木乃美芳助的语音音量,調低木乃美 芳助的語音音量
+SYSMES_CONF_142,木乃美 芳助のボイス音量を上げます,Augmenter le volume des dialogues de Kinomi Hōsuke.,提高木乃美芳助的语音音量,調高木乃美 芳助的語音音量
+SYSMES_CONF_143,山城 和樹のボイス出力を設定します,Modifier le volume des dialogues de Yamashiro Kazuki.,设置山城和树的语音输出,設定山城 和樹的語音輸出
+SYSMES_CONF_144,山城 和樹のボイス音量を設定します,Volume des dialogues de Yamashiro Kazuki.,设置山城和树的语音音量,設定山城 和樹的語音音量
+SYSMES_CONF_145,山城 和樹のボイス音量を下げます,Baisser le volume des dialogues de Yamashiro Kazuki.,降低山城和树的语音音量,調低山城 和樹的語音音量
+SYSMES_CONF_146,山城 和樹のボイス音量を上げます,Augmenter le volume des dialogues de Yamashiro Kazuki.,提高山城和树的语音音量,調高山城 和樹的語音音量
+SYSMES_CONF_147,文柄 詠梨のボイス出力を設定します,Modifier le volume des dialogues de Fumizuka Eiri.,设置文柄咏梨的语音输出,設定文柄 詠梨的語音輸出
+SYSMES_CONF_148,文柄 詠梨のボイス音量を設定します,Volume des dialogues de Fumizuka Eiri.,设置文柄咏梨的语音音量,設定文柄 詠梨的語音音量
+SYSMES_CONF_149,文柄 詠梨のボイス音量を下げます,Baisser le volume des dialogues de Fumizuka Eiri.,降低文柄咏梨的语音音量,調低文柄 詠梨的語音音量
+SYSMES_CONF_150,文柄 詠梨のボイス音量を上げます,Augmenter le volume des dialogues de Fumizuka Eiri.,提高文柄咏梨的语音音量,調高文柄 詠梨的語音音量
+SYSMES_CONF_151,周瀬 律架のボイス出力を設定します,Modifier le volume des dialogues de Suse Ritsuka.,设置周濑律架的语音输出,設定周瀨 律架的語音輸出
+SYSMES_CONF_152,周瀬 律架のボイス音量を設定します,Volume des dialogues de Suse Ritsuka.,设置周濑律架的语音音量,設定周瀨 律架的語音音量
+SYSMES_CONF_153,周瀬 律架のボイス音量を下げます,Baisser le volume des dialogues de Suse Ritsuka.,降低周濑律架的语音音量,調低周瀨 律架的語音音量
+SYSMES_CONF_154,周瀬 律架のボイス音量を上げます,Augmenter le volume des dialogues de Suse Ritsuka.,提高周濑律架的语音音量,調高周瀨 律架的語音音量
+SYSMES_CONF_155,周瀬 唯架のボイス出力を設定します,Modifier le volume des dialogues de Suse Yuika.,设置周濑唯架的语音输出,設定周瀨 唯架的語音輸出
+SYSMES_CONF_156,周瀬 唯架のボイス音量を設定します,Volume des dialogues de Suse Yuika.,设置周濑唯架的语音音量,設定周瀨 唯架的語音音量
+SYSMES_CONF_157,周瀬 唯架のボイス音量を下げます,Baisser le volume des dialogues de Suse Yuika.,降低周濑唯架的语音音量,調低周瀨 唯架的語音音量
+SYSMES_CONF_158,周瀬 唯架のボイス音量を上げます,Augmenter le volume des dialogues de Suse Yuika.,提高周濑唯架的语音音量,調高周瀨 唯架的語音音量
+SYSMES_CONF_159,蒼崎 橙子のボイス出力を設定します,Modifier le volume des dialogues d'Aozaki Tōko.,设置苍崎橙子的语音输出,設定蒼崎 橙子的語音輸出
+SYSMES_CONF_160,蒼崎 橙子のボイス音量を設定します,Volume des dialogues d'Aozaki Tōko.,设置苍崎橙子的语音音量,設定蒼崎 橙子的語音音量
+SYSMES_CONF_161,蒼崎 橙子のボイス音量を下げます,Baisser le volume des dialogues d'Aozaki Tōko.,降低苍崎橙子的语音音量,調低蒼崎 橙子的語音音量
+SYSMES_CONF_162,蒼崎 橙子のボイス音量を上げます,Augmenter le volume des dialogues d'Aozaki Tōko.,提高苍崎橙子的语音音量,調高蒼崎 橙子的語音音量
 SYSMES_CONF_163,ルゥ・ベオウルフのボイス出力を設定します,Modifier le volume des dialogues de Lugh Beowulf.,设置鲁格・贝奥武夫的语音输出,設定魯格‧貝奧武夫的語音輸出
 SYSMES_CONF_164,ルゥ・ベオウルフのボイス音量を設定します,Volume des dialogues de Lugh Beowulf.,设置鲁格・贝奥武夫的语音音量,設定魯格‧貝奧武夫的語音音量
 SYSMES_CONF_165,ルゥ・ベオウルフのボイス音量を下げます,Baisser le volume des dialogues de Lugh Beowulf.,降低鲁格・贝奥武夫的语音音量,調低魯格‧貝奧武夫的語音音量
@@ -92,10 +92,10 @@ SYSMES_CONF_167,メイ・リデル・アーシェロットのボイス出力を�
 SYSMES_CONF_168,メイ・リデル・アーシェロットのボイス音量を設定します,Volume des dialogues de May Riddell Archelot.,设置梅・莉黛尔・阿切洛特的语音音量,設定梅‧莉黛爾‧阿切洛特的語音音量
 SYSMES_CONF_169,メイ・リデル・アーシェロットのボイス音量を下げます,Baisser le volume des dialogues de May Riddell Archelot.,降低梅・莉黛尔・阿切洛特的语音音量,調低梅‧莉黛爾‧阿切洛特的語音音量
 SYSMES_CONF_170,メイ・リデル・アーシェロットのボイス音量を上げます,Augmenter le volume des dialogues de May Riddell Archelot.,提高梅・莉黛尔・阿切洛特的语音音量,調高梅‧莉黛爾‧阿切洛特的語音音量
-SYSMES_CONF_171,土桔 由里彦のボイス出力を設定します,Modifier le volume des dialogues de Yurihiko Tokitsu.,设置土桔由里彦的语音输出,設定土桔 由里彥的語音輸出
-SYSMES_CONF_172,土桔 由里彦のボイス音量を設定します,Volume des dialogues de Yurihiko Tokitsu.,设置土桔由里彦的语音音量,設定土桔 由里彥的語音音量
-SYSMES_CONF_173,土桔 由里彦のボイス音量を下げます,Baisser le volume des dialogues de Yurihiko Tokitsu.,降低土桔由里彦的语音音量,調低土桔 由里彥的語音音量
-SYSMES_CONF_174,土桔 由里彦のボイス音量を上げます,Augmenter le volume des dialogues de Yurihiko Tokitsu.,提高土桔由里彦的语音音量,調高土桔 由里彥的語音音量
+SYSMES_CONF_171,土桔 由里彦のボイス出力を設定します,Modifier le volume des dialogues de Tokitsu Yurihiko.,设置土桔由里彦的语音输出,設定土桔 由里彥的語音輸出
+SYSMES_CONF_172,土桔 由里彦のボイス音量を設定します,Volume des dialogues de Tokitsu Yurihiko.,设置土桔由里彦的语音音量,設定土桔 由里彥的語音音量
+SYSMES_CONF_173,土桔 由里彦のボイス音量を下げます,Baisser le volume des dialogues de Tokitsu Yurihiko.,降低土桔由里彦的语音音量,調低土桔 由里彥的語音音量
+SYSMES_CONF_174,土桔 由里彦のボイス音量を上げます,Augmenter le volume des dialogues de Tokitsu Yurihiko.,提高土桔由里彦的语音音量,調高土桔 由里彥的語音音量
 SYSMES_CONF_200,テキストの設定を行います,Modifier les paramètres de texte.,设置文本,設定遊戲文字
 SYSMES_CONF_201,テキストの設定を初期設定に戻します,Réinitialiser les paramètres de texte.,将文本设置恢复为初始设置,將遊戲文字恢復為初始設定
 SYSMES_CONF_202,文字の表示速度を調整します,Modifier la vitesse d'affichage du texte.,调整文字显示速度,調整文字顯示速度
