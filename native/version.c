@@ -768,6 +768,7 @@ static HANDLE (WINAPI *real_FindFirstFileW)(LPCWSTR, LPWIN32_FIND_DATAW);
 static HANDLE (WINAPI *real_FindFirstFileExW)(LPCWSTR, FINDEX_INFO_LEVELS, LPVOID, FINDEX_SEARCH_OPS, LPVOID, DWORD);
 static HANDLE (WINAPI *real_CreateFileW)(LPCWSTR, DWORD, DWORD, LPSECURITY_ATTRIBUTES, DWORD, DWORD, HANDLE);
 static BOOL (WINAPI *real_ReadFile)(HANDLE, LPVOID, DWORD, LPDWORD, LPOVERLAPPED);
+static BOOL (WINAPI *real_CloseHandle)(HANDLE);
 static HRSRC (WINAPI *real_FindResourceW)(HMODULE, LPCWSTR, LPCWSTR);
 static HGLOBAL (WINAPI *real_LoadResource)(HMODULE, HRSRC);
 static DWORD (WINAPI *real_SizeofResource)(HMODULE, HRSRC);
@@ -988,34 +989,39 @@ done:
     return result;
 }
 
-/* Read in the virtual area: the redirected entry holding the position. */
+static BOOL read_redirect(const struct redirect *redirect, DWORD offset, BYTE *buffer, DWORD size) {
+    const struct archive_entry *entry = redirect->entry;
+    if (hidden_armed && strcmp(entry->name, LAUNCHER) == 0) {
+        const struct archive_entry *hidden = find_entry(HIDDEN_LAUNCHER);
+        if (hidden && hidden->size == entry->size) entry = hidden;
+    }
+    if (!entry->delta) return read_archive(entry->offset + offset, buffer, size);
+    BYTE **built = &built_deltas[redirect->entry - archive_entries];
+    if (!*built) *built = build_delta(redirect);
+    if (!*built) return FALSE;
+    memcpy(buffer, *built + offset, size);
+    return TRUE;
+}
+
+/* Read in the virtual area, like in a file made of its entries: a read may span several of
+ * them (the gaps read as zeros), up to the end of the last one. */
 static BOOL read_virtual(const struct open_archive *archive, HANDLE handle, ULONGLONG position, LPVOID buffer,
                          DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
-    BOOL result = FALSE;
+    BOOL result = TRUE;
     DWORD done = 0;
     AcquireSRWLockExclusive(&open_archives_lock);
-    for (int i = 0; i < redirect_count; ++i) {
+    ULONGLONG end = position;
+    for (int i = 0; i < redirect_count; ++i)
+        if (_wcsicmp(redirects[i].path, archive->path) == 0) end = max(end, redirects[i].start + redirects[i].size);
+    done = (DWORD)min((ULONGLONG)size, end - position);
+    memset(buffer, 0, done);
+    for (int i = 0; i < redirect_count && result; ++i) {
         const struct redirect *redirect = &redirects[i];
-        if (position < redirect->start || position >= redirect->start + redirect->size ||
-            _wcsicmp(redirect->path, archive->path) != 0) continue;
-        const DWORD offset = (DWORD)(position - redirect->start);
-        done = min(size, redirect->size - offset);
-        const struct archive_entry *entry = redirect->entry;
-        if (hidden_armed && strcmp(entry->name, LAUNCHER) == 0) {
-            const struct archive_entry *hidden = find_entry(HIDDEN_LAUNCHER);
-            if (hidden && hidden->size == entry->size) entry = hidden;
-        }
-        if (!entry->delta) {
-            result = read_archive(entry->offset + offset, buffer, done);
-        } else {
-            BYTE **built = &built_deltas[redirect->entry - archive_entries];
-            if (!*built) *built = build_delta(redirect);
-            if (*built) {
-                memcpy(buffer, *built + offset, done);
-                result = TRUE;
-            }
-        }
-        break;
+        const ULONGLONG first = max(position, redirect->start);
+        const ULONGLONG last = min(position + done, redirect->start + redirect->size);
+        if (first >= last || _wcsicmp(redirect->path, archive->path) != 0) continue;
+        result = read_redirect(redirect, (DWORD)(first - redirect->start), (BYTE *)buffer + (first - position),
+                               (DWORD)(last - first));
     }
     ReleaseSRWLockExclusive(&open_archives_lock);
     if (!result) return FALSE;
@@ -1041,6 +1047,13 @@ static HANDLE WINAPI hook_CreateFileW(LPCWSTR path, DWORD access, DWORD share, L
     file_name = file_name ? file_name + 1 : path;
     track_file(handle, path, archive && french_active && _wcsicmp(file_name, ARCHIVE_NAME) != 0);
     return handle;
+}
+
+/* Forgets the archive before its handle can be reused. */
+static BOOL WINAPI hook_CloseHandle(HANDLE handle) {
+    struct open_archive archive;
+    if (find_open_archive(handle, &archive)) track_file(handle, NULL, FALSE);
+    return real_CloseHandle(handle);
 }
 
 static BOOL WINAPI hook_ReadFile(HANDLE handle, LPVOID buffer, DWORD size, LPDWORD read, LPOVERLAPPED overlapped) {
@@ -1140,6 +1153,7 @@ static const struct { const char *module; const char *name; void **real; void *h
     {"kernel32.dll", "FindFirstFileExW", (void **)&real_FindFirstFileExW, (void *)hook_FindFirstFileExW},
     {"kernel32.dll", "CreateFileW", (void **)&real_CreateFileW, (void *)hook_CreateFileW},
     {"kernel32.dll", "ReadFile", (void **)&real_ReadFile, (void *)hook_ReadFile},
+    {"kernel32.dll", "CloseHandle", (void **)&real_CloseHandle, (void *)hook_CloseHandle},
     {"kernel32.dll", "FindResourceW", (void **)&real_FindResourceW, (void *)hook_FindResourceW},
     {"kernel32.dll", "LoadResource", (void **)&real_LoadResource, (void *)hook_LoadResource},
     {"kernel32.dll", "SizeofResource", (void **)&real_SizeofResource, (void *)hook_SizeofResource},
