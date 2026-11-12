@@ -2,7 +2,7 @@
   Lors d'un matin calme, la première fois qu'elle ressentit le poids de la vie.
   Sa maison se trouvait en pleine montagne,
   sur une terre stérile dépourvue de tout.
-  Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et il n'y avait pas moins pratique pour aller à l'école ou pour sortir jouer,
+  Elle ne pouvait espérer avoir un ami d'enfance habitant aux alentours, et rien ne saurait être plus contraignant pour aller à l'école ou pour sortir jouer,
   mais la maison n'en restait pas moins un lieu qui prenait une place importante dans ses souvenirs, d'une grande tranquillité et où l'on pouvait profiter d'une eau claire et d'un beau ciel étoilé.
   Cependant, ce n'était ainsi qu'en été.
   L'hiver en pleine montagne était très rigoureux, et les matins toujours pénibles.
@@ -620,7 +620,7 @@ Ravalant sa rage, Aoko fit son plus beau sourire.
 「Mais je n'ai pu en recevoir qu'une seule.」
 「? Une seule ? Tu veux dire que tu as deux emplois en même temps ?」
 「...... Et encore, j'en ai arrêté deux autres.
-  Rien qu'avec les dépenses de tous les jours, c'est difficile, mais je dois aussi économiser pour les frais scolaires. Tu ne penses pas que c'est exagéré que l'on ne puisse avoir qu'un seul travail ?」
+  Rien qu'avec les dépenses de tous les jours, c'est difficile, mais je dois aussi gagner de quoi payer les frais scolaires. Tu ne penses pas que c'est exagéré que l'on ne puisse avoir qu'un seul travail ?」
 「...... Non, je pense que c'est toi qui exagères.」
   Même si elle était déconcertée, Aoko révisa un peu son opinion sur Sōjūrō.
   Elle trouvait que se débrouiller par soi-même pour payer non seulement les frais scolaires, mais aussi les dépenses quotidiennes, était quelque chose d'admirable.
@@ -748,9 +748,9 @@ Ravalant sa rage, Aoko fit son plus beau sourire.
   Elle laissa l'école derrière elle sur ces derniers mots.
   Après la descente en légère pente se trouvait la ville pleine de vie.
   La gare du vieux quartier de Misaki était flambant neuve.
-  Le bâtiment, qui avait l'air de n'être qu'une usine abandonnée auparavant, était maintenant devenu une construction complexe dotée d'un énorme supermarché s'étalant d'est en ouest.
-  Lorsque ce supermarché avait été terminé, Aoko et ses amies s'étaient excitées et avaient souhaité longue vie à la modernisation ! Mais d'ici quelques années, le bâtiment serait certainement passé de mode.
-  Elle n'avait aucune course à faire et passa donc devant le supermarché sans s'arrêter.
+  Le bâtiment, qui avait l'air de n'être qu'une usine abandonnée auparavant, était maintenant devenu un complexe immobilier doté de grands magasins gigantesques disposés d'est en ouest.
+  Lorsque l'édifice avait été terminé, Aoko et ses amies s'étaient excitées et avaient souhaité longue vie à la modernisation ! Mais d'ici quelques années, le bâtiment serait certainement passé de mode.
+  Elle n'avait aucune course à y faire et passa donc devant sans s'arrêter.
   En réalité, elle voulait s'arrêter dans un salon de thé et se reposer, mais si elle dépensait inutilement de l'argent toute seule, sa colocataire allait encore une fois lui faire des remarques désagréables, alors elle se maîtrisa―――
 「――――――」
   Elle se retourna et cligna des yeux.
@@ -846,8 +846,8 @@ Ravalant sa rage, Aoko fit son plus beau sourire.
   Celui-ci longeait le mur pour s'interrompre au niveau du couloir du premier étage.
   Pour rejoindre le grenier au deuxième, il fallait emprunter un second escalier à l'autre bout du couloir.
   Mais au cours des deux dernières années, Aoko n'avait pas utilisé cette pièce une seule fois.
-  Pour faire simple, le manoir Kuonji possédait deux ailes : une côté est, et une côté ouest.
-  La seule partie qu'Aoko avait eu le droit de louer était la section est, mais deux chambres lui suffisaient amplement.
+  Pour faire simple, le manoir Kuonji possédait deux ailes principales : une aile côté est et une aile côté ouest.
+  La seule partie qu'Aoko avait eu le droit de louer était l'aile est, mais deux chambres lui suffisaient amplement.
   Il était donc inutile d'utiliser un grenier qui avait servi de débarras pendant cinq ans et qui donnait l'impression, lorsqu'on en ouvrait la porte, de se retrouver projeté dans un livre d'images.
   Au fond du couloir de l'aile est se trouvait la chambre d'Aoko.
   La pièce où elle avait choisi de s'installer n'était pas trop grande. Ce n'était pas qu'elle se privait, mais simplement qu'elle voulait s'épargner du temps de ménage.
@@ -1197,7 +1197,7 @@ Alice répondit sans lever un œil et sans hésitation à une Aoko en joie.
   Même si de nos jours, cette histoire est assez démodée.」
 「C'était quoi déjà. Sur ton chemin, tard dans la nuit, une femme en manteau te tend une embuscade et te demande : 『Est-ce que je suis belle ?』.
   Et tu as beau lui dire qu'elle est belle ou même normale, tu te fais poursuivre jusque chez toi et tuer.
-La passion féminine fait peur, c'est comme une héroïne des comics américains.」
+La passion féminine fait peur, c'est comme un méchant de comic américain.」
 「...... C'est vraiment effrayant, non ?
   Cette femme va même jusqu'à pénétrer dans ta maison ?」
 「Oui, il paraît qu'elle entre par la fenêtre.
@@ -1381,7 +1381,7 @@ The cow jump'd over the moon,
   La forêt diurne ne laissait personne entrer,
   et la forêt d'hiver ensommeillait même les bêtes.
   L'air en suspension de la nuit était en soi le souffle d'un spectre.
-  Il avalait le clair de lune, se cachait dans la falaise un peu plus loin et anéantissait la malheureuse victime qui s'était égarée.
+  Il avalait le clair de lune, dissimulait la falaise même quand celle-ci n'était qu'à un pas et précipitait dans l'abîme la malheureuse victime qui s'était égarée.
   On pouvait entendre le léger bruissement du vent et le courant d'un petit cours d'eau.
   Ici se trouvaient les ténèbres éternelles qui étouffaient la vie.
   On ne percevait pas le souffle du moindre animal, et encore moins celui d'un être humain.
@@ -1577,7 +1577,7 @@ Build it up with wood and clay,
   Jusqu'à la fin, il n'avait pas remarqué que la chanson de la fille avait changé.
   Pour cette chose, une attaque faisant trembler la terre équivalait à un geste pour chasser un insecte.
   Des muscles développés et des vaisseaux sanguins verts bouillonnants.
-  Un épiderme de chêne vert sec, s'étant repu d'une centaine d'années et que même une tronçonneuse électrique ne pourrait entailler.
+  Un épiderme de chêne vert sec, endurci par le passage des siècles au point que même une tronçonneuse électrique ne pourrait l'entailler.
   Sur son front étaient écrits avec une peinture multicolore les caractères 「emeth」...... Même si ce n'était qu'une inscription semblable à une promesse quelque peu erronée.
   Cette silhouette s'appelait Thames Troll.
   Ou encore Falling Down.
@@ -1891,7 +1891,7 @@ Je vous confie le nettoyage des endroits que nous ne pouvons pas atteindre.」
   Sa façon d'agir sans tenir compte de la mode laissait deviner une femme affranchie des conventions sociales.
  On pouvait même dire qu'elle manquait de retenue.
 「Ah. Je sais !
-  Toi, tu es le travailleur du lycée Misaki ? C'est admirable, de nos jours, les lycéens feraient plutôt des farces aux commerçants !」
+  Toi, tu es le travailleur du lycée Misaki ? C'est formidable, les lycéens n'ont vraiment rien à envier aux professionnels de nos jours !」
   Tout en regardant Sōjūrō assis au sommet de l'échelle, la femme était surexcitée.
 「Bien, je vais peut-être aider, moi aussi !
   Il y a une autre échelle ? Et des chiffons ? Ah, puisqu'on y est, qu'est-ce que tu penses d'utiliser un tuyau d'arrosage ? Tout en criant comme ça : Baa ! ou : Prends ça ! On risque de s'attirer le courroux divin, mais de cette façon, ce sera au moins un peu amusant, non ?」
@@ -1943,7 +1943,7 @@ qu'est-ce que l'on fait dans cet endroit ?
   Sōjūrō désigna l'église du doigt.
 「Hé ? Euh ?」
   Même Hanazawa en était confuse.
-  Elle ne savait pas que Sōjūrō venait tout droit de la province, mais probablement à cause de son manque de tact naturel, elle s'était méprise en interprétant cela comme un subtil sarcasme.
+  Ne sachant pas que Sōjūrō venait tout droit de la province, combiné à sa vivacité d'esprit naturelle, elle avait manifestement interprété à tort la question comme un subtil sarcasme.
 「Hmm, eh bien...
   Je me demande si l'on pourrait dire qu'on y protège l'âme des gens ? Non, il serait plus juste de parler, non pas de protection mais plutôt d'armure ? Une sorte de muraille rafistolée ? En tout cas, ça revient au même dans le sens où la personne en question n'est pas endurcie.
   Ah, et aussi, on y partage le pain et le vin.」
@@ -2313,7 +2313,7 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
 「À propos. Ce truc dur qui ressemble à de la farine de blé, c'est bon ?」
   demanda Sōjūrō tout en regardant d'un air très intéressé la nourriture de Tobimaru.
 「Ce n'est pas mauvais, mais ce n'est pas bon non plus. Enfin, si tu veux goûter, je ne t'en empêcherai pas.
-  Si les gens ne faisaient plus des efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
+  Si les gens ne faisaient plus d'efforts pour rien, nous irions à notre perte. D'autant plus si ça concerne les trois grands plaisirs.」
   Tobimaru finit sa barre énergétique, posa la dernière sur la table et prit, comme si c'était normal, une boulette de riz.
   Sōjūrō laissa faire Tobimaru sans protester et goûta le biscuit qu'on lui avait offert.
 「...... C'est comme si je mangeais de la terre.」
@@ -2426,7 +2426,7 @@ Si jamais on pénétrait à l'intérieur de leur territoire sans s'en rendre com
   Il y avait une erreur dans le raisonnement de Tobimaru, mais pour le moment, il la laissa de côté.
   Sōjūrō éprouvait envers Aozaki Aoko trop de sentiments qu'il ne comprenait pas lui-même.
 「C'est vrai, c'est bizarre. En plus, je ne la connais pas très bien.」
-  Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko en dehors de l'école.
+  Ce n'était pas étonnant, car depuis le jour de l'anniversaire de l'établissement où elle s'était chargée de lui, il n'avait pas parlé une seule fois avec Aoko à l'école.
   Quand Sōjūrō essayait de lui parler, Aoko s'en allait en toute hâte.
   Le dimanche dernier, ils s'étaient retrouvés à travailler ensemble par hasard, mais là aussi, ils avaient à peine parlé sur le chemin de l'aller et du retour.
 「Mais Tobimaru, c'est juste que tu ne sais pas.
@@ -2501,9 +2501,9 @@ J'en suis un bon exemple.」
   Sōjūrō commença à relater avec tous les détails possibles l'évènement de la nuit dernière.
 「Shizuki est là ?」
   À douze heures cinquante, alors que la pause déjeuner était sur le point de se terminer,
-  Aozaki Aoko se montra dans la salle 2-C toujours aussi survoltée,
+  Aozaki Aoko se montra dans la salle 2-C toujours en pleine effervescence,
   et s'informa ainsi,
-  avec une gestuelle qui lui était tout à fait naturelle.
+  avec une gestuelle qui était tout à fait naturelle pour elle.
   Aoko ne faisait pas partie de cette classe mais elle ne montra aucune hésitation en y entrant.
   Quant aux élèves, qui étaient jusqu'à présent aussi bruyants que des oisillons devant leur nourriture et dont l'agitation tranchait avec le détachement de la présidente, ils commencèrent à retourner dans un calme relatif à leurs places.
 『...... C'est quoi cette ambiance......』
@@ -2583,7 +2583,7 @@ Hormis l'invraisemblance des faits, ce qu'il venait d'entendre était mauvais, h
   Les vacances de Noël étaient très proches. Les examens semestriels se dérouleraient dans une semaine. Pour Sōjūrō, c'était une épreuve de taille.
 「Je ne connais pas les bases, alors même en étudiant deux fois plus que les autres, je ne pourrai pas rattraper mon retard. Tu sais, si on ne fait que travailler, on devient une névrose, non ?」
 「On ne devient pas une névrose, on devient névrosé. En tout cas, c'est mauvais d'en faire trop. Que dirais-tu de réduire tes heures de travail le temps des examens ?」
-「Je l'ai demandé. Mais en fin d'année, les travailleurs à mi-temps qui prennent des vacances sont nombreux, même les remplaçants ont tendance à le demander.」
+「Je l'ai déjà fait. Mais en fin d'année, il y a beaucoup de gens qui prennent des congés, et on me demande souvent de les remplacer.」
   répondit Sōjūrō en haussant les épaules, désappointé.
   À sa façon de parler, on sentait à quel point il était surchargé de travail.
   Sans aller jusqu'à la névrose, il manquait peut-être tellement de sommeil qu'il avait rêvé en plein jour...... Même si, dans le cas présent, la scène dont il avait été témoin s'était déroulée tard dans la nuit.
@@ -2748,7 +2748,7 @@ Ah non, c'est pas ça, tu comprends sûrement.
 「Donc tu n'es pas rancunière. Alors pourquoi tu cherchais la bagarre ?
   D'accord, il te rend fou, mais il n'y a pas plus chic type.」
 「――――――」
-「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes une fourmi à tes pieds.」
+「Attends ! Pourquoi tu me dévisages comme ça, on dirait que tu regardes un insecte à tes pieds.」
 「Pas vraiment. Je te jetais simplement un regard méprisant en pensant que toi aussi, tu disais ça.」
 「...... Enfin, c'est pas grave. C'est même parfait que ce soit un chic type ou quelqu'un de bien. C'est l'adversaire idéal à qui chercher la bagarre. Si personne ne veut le haïr, alors je dois le faire, non ?」
   dit Aoko de façon enjouée en retrouvant son aplomb.
@@ -2852,7 +2852,7 @@ Quant à ce dernier, il leva les deux mains en signe de reddition. Il se délect
   Allez !! Crève !!」
   Elle serra encore plus la cravate.
   Elle mit en action ses paroles. À cause de l'asphyxie que provoquait impitoyablement Aoko, Tobimaru crut un instant voir les dieux.
-「―――Ah ?! Non, attends, attends. Je vais vraiment mourir, là ! Tu peux encore le faire ! Si tu arrives dix minutes après le début des cours, on notera juste que tu étais en retard !」
+「―――Ah ?! Non, attends, attends. Je vais vraiment mourir, là ! Tu as encore le temps ! Ce n'est que si tu arrives avec plus de dix minutes de retard que ce sera noté comme une absence !」
   Aoko jeta un coup d'œil à l'horloge.
   Il était actuellement treize heures sept. En courant, il était possible de parcourir juste à temps la distance qui séparait la salle du conseil étudiant du premier étage et la salle de la classe A au bout du deuxième étage.
 「Tu échappes à la mort pour l'instant, Tobimaru.」
@@ -3332,12 +3332,12 @@ J'ai vérifié non seulement là où ils travaillent au cours du mois, mais auss
 「J'ai oublié son nom, mais c'est la même que celle qui apparaît dans <un roman chinois|La Pérégrination vers l'Ouest>.」
   En entendant cette réponse incomplète, Aoko fit preuve d'une relative perspicacité.
 「Tu veux dire l'histoire des frères qui gardaient la caverne de Lotus ? Alors, c'est la même chose que cette gourde rouge ?
-  Désolée de dire ça, mais tu ne trouves pas qu'on dirait juste un simple flacon de médicament contre le rhume dont on a enlevé l'étiquette ?」
+  Désolée de dire ça, mais tu ne trouves pas qu'on dirait un simple flacon de médicament contre le rhume dont on a juste enlevé l'étiquette ?」
   En entendant la question, Alice examina le flacon et reconnut qu'il paraissait parfaitement ordinaire.
   Mais réalisant que de toute façon, ce n'était pas elle qui allait l'utiliser, elle la posa sur la table.
 「Pas la gourde rouge, mais la flasque de suif en jade.」
 「C'est pas ça le problème. Je veux dire que ça manque de style pour un Mage.」
-「Tu t'inquiètes pour un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de laxatif.」
+「Tu te préoccupes d'un détail mineur. Je pense que c'est déjà bien que ce ne soit pas une bouteille de médicament contre la diarrhée.」
 「―――Hmm.」
   C'était un argument plutôt convaincant.
 「Tu n'as qu'à ouvrir le couvercle et énoncer le nom de la personne.
@@ -3501,7 +3501,7 @@ Pour garder les curieux à l'écart, il me faudra donc choisir un endroit à des
   L'élément imaginaire qu'est le prana est comme un mirage, échappant aux règles de l'univers uniquement au moment de son ignition.
   L'univers n'accepte pas de donner forme à quelque chose qui n'existe pas dans ce monde―――qu'une chimère transgresse la réalité.
 『...... Même si on dit ça, à la base, <l'élément imaginaire|Éther> peut tout faire, donc en gros, les principes de base sont eux-mêmes une illusion, si je me souviens bien.
-  Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Pour une Barrière idéale, il faut tout d'abord faire pousser un mur d'épines ou autre, et ensuite, utiliser le prana pour le faire grandir et le renforcer instantanément.
+  Les choses qui sont composées uniquement de prana sont considérées comme des illusions et disparaissent rapidement...... Les Barrières plus classiques, comme les murs d'épines, fonctionnent différemment, il faut d'abord faire pousser de vraies ronces, et ensuite, utiliser le prana pour les faire grandir et les renforcer instantanément.
   Pour résumer, le prana est un carburant que l'on utilise à sa guise, et simultanément, c'est l'étincelle qui déclenche le phénomène―――』
 「―――C'est bien beau de dire ça.
   Mais avant même de parler de l'élément imaginaire et autre, pour l'instant, je ne peux que connecter un Circuit basique et projeter le prana que j'ai traité.」
@@ -5423,7 +5423,7 @@ Elle s'était complètement fait avoir, mais apparemment, il y avait dans ce mon
   Il essaya de se souvenir où il l'avait vue, mais la tension étrange le gênait, et il ne put éclaircir ce point.
 「―――En voilà une surprise. C'est seulement maintenant que tu commences à te soucier de tes camarades, Alice ?
   Ce soir, tu n'avais pas dit que tu me laissais faire ?」
-  Aoko s'avança légèrement, d'environ un pas et demi.
+  Aoko s'avança avec prudence d'environ un demi-pas.
   Inconsciemment.
   D'un point de vue extérieur, on aurait dit que c'était pour protéger la silhouette à proximité.
 「――――――」
@@ -6135,7 +6135,7 @@ C'était sûrement pour cette raison qu'Aoko lui avait dit que “ce serait plus
   Pour n'importe qui, le rapport de force était évident.
   Le canon, Aozaki Aoko,
   ne pouvait même pas détruire ce bloc de glace―――
-“Et alors―――”
+“Aïe, ça fait mal―――”
   Elle accéléra encore plus le sort.
   Le crâne riait.
  Le bloc de glace n'était pas un bouclier.
@@ -6282,10 +6282,10 @@ C'était vraiment insensé, mais elle ne pouvait se permettre d'abandonner avant
   Elle consistait en deux sorts déployés au maximum.
   La première couche absorbait le brouillard qui s'était changé en énorme vortex,
   et la deuxième couche traitait absolument tout le prana et le déversait dans le <canon|Aoko>.
-「―――Mes suppositions étaient ridicules.
+「―――Je me suis montrée beaucoup trop naïve.
   L'abattre, c'est faire le travail à moitié.
   Vu la situation, je vais plutôt le réduire en poussière......!」
-  Le prana des temps anciens agit de concert avec la désinvolture du jeteur de sorts.
+  Le prana des temps anciens répondit à l'assurance de la lanceuse de sorts.
   Le dessin de <dragon|Orochi> de son Sceau se déformait.
   Son prana se déchaînait en silence.
   Allez―――Maintenant, réfléchis bien à l'héritage que tu vas laisser à la terre,
@@ -6460,7 +6460,7 @@ Au contraire, il augmenta sa vitesse et fixa l'œuf qui le suivait à la trace.
   L'exaltation de son esprit provoquée par la situation extrême avait mis son cœur à nu.
   Qu'est-ce qui était vraiment important ?
   Étant de nature simple, il n'avait même pas besoin d'y réfléchir.
-  Les succès et les récompenses ne constituaient pas l'essence de la beauté pour son cœur primitif.
+  Les succès et les récompenses n'avaient rien d'alléchant pour son cœur primitif.
   C'était simplement,
 “Bien―――”
   qu'il souhaitait vivre à sa façon.
@@ -6805,8 +6805,8 @@ sans la moindre raison valable, elle fit preuve d'une violence inouïe.
   en espérant que ces aberrations n'existaient qu'à l'intérieur du parc,
   et que dans ce cas, ils seraient sauvés s'ils rejoignaient l'extérieur.
   Cependant,
-  sur le papier, le rapport de force actuel était de deux personnes contre une centaine.
-  Correction, une personne contre une centaine d'objets.
+  sur le papier, le rapport de force actuel était de deux personnes contre plusieurs centaines.
+  Correction, une personne contre plusieurs centaines d'objets.
   Sōjūrō ne servait pratiquement à rien,
   et ceux qui les attaquaient étaient davantage des pantins que des humains.
 「Ça va pour tout à l'heure ?!
@@ -6823,7 +6823,7 @@ sans la moindre raison valable, elle fit preuve d'une violence inouïe.
   À ce moment-là,
 「Hein ?」
   une forme gigantesque s'étira soudainement au-dessus de leur tête.
-  La langouste de dix-huit mètres d'envergure, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
+  La langouste de dix-huit mètres de long, juchée sur le toit du restaurant de homards, était la fameuse paire de ciseaux.
 「............!」
   Ces ciseaux étaient une véritable guillotine.
   Le roi écarlate les attaqua à une vitesse effrayante dans le but de les couper en deux alors qu'ils passaient devant le restaurant.
@@ -6873,7 +6873,7 @@ sans la moindre raison valable, elle fit preuve d'une violence inouïe.
   C'était la particularité d'Aozaki Aoko.
   Son talent pour les sorts complexes était médiocre,
   mais dans les sorts de base qu'elle n'avait qu'à alimenter en prana, elle avait dépassé Alice après avoir pratiqué la Magie pendant à peine deux ans.
-  ...... Un travail acharné de génie et une excellente intuition.
+  ...... Une aisance innée digne d'un génie et une excellente intuition.
   Elle n'était pas spécialement douée pour utiliser la Magie, mais plutôt incroyablement “rapide”.
   Si elle n'avait pas vu le jour dans la famille Aozaki, elle se serait certainement forgé une réputation d'as de la gâchette.
 「Mais c'est dommage.」
@@ -7029,7 +7029,7 @@ Alors, si jamais Alice en utilise un autre, on sera fichus.」
   Aoko ignora complètement l'intervention de Sōjūrō.
 「―――Reprenons.
   La base de la Magie d'Alice est <Mother Goose|Ma mère l'Oye>......
-J'imagine que tu ne connais pas. Ce sont des comptines anglaises qui ont pour sujet d'abominables contes de fées.
+J'imagine que tu ne connais pas. Ce sont des comptines anglaises qui ont un ton ludique et féerique.
   Mais les Ploy Kickshaw directement basés sur ces contes-là ne sont pas dangereux.
 Parce que d'une manière ou d'une autre, on peut tous les vaincre avec la Magie.」
 「...... Même si la réponse à cette question me fait un peu peur, qu'en est-il de ceux qui ne font pas partie de cette catégorie ?」
@@ -7820,7 +7820,7 @@ Très bien, je voulais au moins te laisser réfléchir, mais on n'a plus le temp
   et la cheminée n'avait pas servi depuis des lustres.
   Le téléphone était laissé à l'abandon,
   tandis que la grande horloge solitaire marquait les secondes.
-  Cet endroit ressemblait plus à un manoir qu'à une maison occidentale classique.
+  Cet endroit ressemblait plus à un vieux château qu'à un manoir classique.
   Aoko jeta un regard glacial vers Sōjūrō interloqué par le monde inconnu qui se trouvait sous ses yeux.
 「Le salon est par là. Ne reste pas planté là !」
   Elle poussa la porte à côté des escaliers.
@@ -8579,7 +8579,7 @@ Je pensais lui faire avaler ce médicament demain matin.」
   Son aile fut touchée et son équilibre rompu.
   Sa silhouette écroulée au sol paraissait misérable.
   Aah―――cependant, même ainsi, il avait battu des ailes jusqu'à la fin avec toute sa dignité d'oiseau.
-  Fendant le vent, il avait chuté sur le sol sec, les yeux tournés vers le ciel.
+  Fendant le vent, il avait chuté sur le sol sec, les yeux tournés vers le nord.
   ...... Je revois cette scène en rêve après tout ce temps.
   Elle est ancrée profondément dans mon cœur, et pourtant, je ne sais pourquoi, je ne m'en souviens que vaguement.
   Quelle apparence―――avait donc cet oiseau ?
@@ -8797,7 +8797,7 @@ Ce n'est pas comme si j'attendais quoi que ce soit de sa part.」
 「À ta guise. J'aurai les mains libres, et ça m'arrange.」
   La nuit au manoir passa.
   Par chance ou par malchance, les changements causés par l'intrusion d'un élément étranger ne semblaient pas encore visibles.
-  Le lendemain matin, à six heures et demie, alors que les nuages commençaient à apparaître dans le ciel,
+  Le lendemain matin, à six heures et demie, alors que le ciel commençait à s'éclaircir,
   pour une certaine raison, Sōjūrō se rendait à l'école avec Aoko dans le froid.
 “Compris ? Quand tu es au manoir, tâche autant que possible de ne pas te retrouver seul.”
   S'il suivait ce conseil, Aoko pourrait assurer la sécurité de Sōjūrō dans la demeure.
@@ -9295,7 +9295,7 @@ Rassure-toi, même moi, je ne suis pas un démon.
   L'idée était de ne retenir que ce qui rapportait des points.
   Aoko s'était proposée comme professeur en pensant qu'il suffirait de lui faire faire un bachotage de dernière minute qu'il pourrait oublier le lendemain.
   ...... Son erreur de calcul fut que cet élève était meilleur que prévu.
-  Elle ne pensait pas qu'ils passeraient la nuit entière à voir les questions potentielles des quatre sujets d'examen, mais seulement parce qu'elle n'avait pas imaginé qu'il s'y mettrait de façon si assidue, afin de ne pas gâcher ce qu'il apprenait.
+  Réviser le programme des quatre matières leur avait pris toute la nuit, mais elle n'avait pas pensé qu'il s'y mettrait avec autant d'ardeur, afin de ne rien gâcher de ce qu'il apprenait.
 「Par contre, c'est bien que tu sois sérieux, mais tu prends trop de temps à mémoriser les choses.」
 「Sois indulgente. Jusqu'à présent, j'utilisais plus mon corps que ma tête pour mémoriser.」
 「............」
@@ -10169,7 +10169,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
   Malgré le temps qui passe, leur façon d'être qui change ou leur forme qui évolue, ils ne disparaîtront pas complètement.
   Kumari démentit d'un air froid ce Sōjūrō rassuré et qui s'était ressaisi.
 「Seulement s'il n'y a rien qui menace leur survie dans cette montagne.
-  Comme les conséquences de la pêche industrielle des humains, ou la répercussion de leur arrivée dans un nouvel écosystème, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
+  Comme les conséquences de la chasse excessive menée par les humains, ou l'affrontement avec l'écosystème de leur nouvel habitat, par exemple. Dans tous les cas, je pense que la durée de vie des animaux ayant perdu leur habitat est courte. Peut-être qu'ils tiendront un siècle, tout au mieux.
   ...... Il y a aussi l'exemple des pigeons migrateurs. Lorsque l'on réalise la situation, il est déjà trop tard. Voilà quelle est la relation entre les animaux et les humains.」
 「Les pigeons migrateurs......?」
 「Oui, les pigeons migrateurs. Certains spécimens faisaient presque quarante centimètres de long. C'étaient de grands oiseaux magnifiques.
@@ -10227,7 +10227,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 「Si leur royaume avait compté cinq milliards de semblables, c'est sûrement parce qu'auparavant, ils n'avaient pas de prédateurs naturels. On dit aussi que les aborigènes, les indiens, ne les chassaient pas outre mesure.
   Mais ces nouveaux arrivants ignoraient leur mode de vie.
   Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
-  Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur némésis serait les semblables des aborigènes arrivés quelques siècles auparavant par-delà les mers ?」
+  Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
 「Puis en 1896, les humains furent enfin confrontés à une réalité assez forte pour se rendre compte de leur folie.
   Il ne restait plus que deux cent cinquante mille oiseaux.
   Après vérification, c'était bien le nombre total des pigeons migrateurs. Il était déjà bien trop tard. Ils se hâtèrent de promulguer une loi pour les protéger, mais les habitudes humaines ne changent pas si facilement.」
@@ -11712,7 +11712,7 @@ Je n'ai jamais vu tes Ploy servir à quoi que ce soit dans la vie de tous les jo
   Elles échangèrent un regard pour se donner une contenance devant son franc-parler.
   L'inspiration d'un idiot pouvait parfois propulser la réflexion vers de nouveaux sommets.
 「...... Stupéfiant ! Même moi, je n'ai pas eu cette idée.
-  C'était équivoque, faut dire qu'à la base, la Magie n'apporte que des ennuis.」
+  Comme la Magie n'apporte que des ennuis en général, personne n'a jamais dû y penser.」
   Alice abonda dans son sens.
 「Alors, tu as des exemples ?
   Selon toi, de quelle manière puis-je me procurer de l'argent avec ma Magie ?」
@@ -13273,10 +13273,10 @@ Si la contrariété d'Aoko avait augmenté de 60 %, alors la nonchalance du jeun
   Un peu fatiguée, Aoko se saisit de la fameuse cassette.
   L'étiquette précisait au stylo-feutre : “Épisode de la terrifiante terre des animaux, l'obscurité du continent”.
   ...... Aoko rabaissa d'un cran l'estime que le conseil étudiant porterait dorénavant à Kinomi Hōsuke.
-「...... Ensuite, tu mets la cassette dans le magnétoscope, puis tu n'as qu'à appuyer sur lecture. Le loquet n'est pas enclenché, alors fais attention à ne pas appuyer sur le bouton d'enregistrement.」
-「Le loquet ?」
-「Là, tu vois le creux sur le côté de la cassette ? Ce qui le couvre, c'est le loquet.
-Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
+「...... Ensuite, tu mets la cassette dans le magnétoscope, puis tu n'as qu'à appuyer sur lecture. La languette de protection n'a pas été cassée, alors fais attention à ne pas appuyer sur le bouton d'enregistrement.」
+「La languette ?」
+「Là, tu vois le creux sur le côté de la cassette ? Ce qui le couvre, c'est la languette.
+Lorsque tu la détaches, tu ne peux plus enregistrer sur la cassette.
   Euh...... Voyons, pour faire un parallèle, c'est comme un cahier de cours.
   Vois ça comme si on appliquait un fixatif pour éviter de gommer ce qui est important. En gros, c'est un moyen de protection analogique qui prévient physiquement toute erreur humaine.」
   Elle introduisit la cassette dans l'appareil et remit la télécommande à Sōjūrō.
@@ -13296,7 +13296,7 @@ Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
   Je me disais bien qu'il était mieux comme ça, pensa-t-elle, rassurée.
 「Mais dis-moi, Aozaki, cette machine est assez poussiéreuse. Vous ne faites jamais la poussière ?」
 「Je ne l'utilise pas vraiment, et Alice ne regarde pas la télé, du coup, on ne s'en est pas souvent servies jusqu'à maintenant.
-  Je l'ai achetée sur un coup de tête pour faire de l'aérobic, mais je m'en suis vite désintéressée. Ce n'était pas un problème que je pouvais résoudre simplement en regardant des images...」
+  On me l'a achetée parce que j'envisageais de faire de l'aérobic, mais je m'en suis vite désintéressée. Ce n'était pas un problème que je pouvais résoudre simplement en regardant des images...」
   Aoko haussa les épaules, comme si elle se moquait de son ancienne naïveté.
   Sōjūrō, lui, se méprit à nouveau sur le réel sens de ses paroles : le magnétoscope était quelque chose dont on se lassait.
 「Bon, eh bien, garde bien la maison.
@@ -13320,7 +13320,7 @@ Lorsque tu le détaches, tu ne peux plus enregistrer sur la cassette.
   Après tout, elle comptait parmi les villes les plus modernes de la préfecture, animée par son grand centre commercial, divers magasins spécialisés et sa salle polyvalente.
   Par conséquent, le parvis de la gare d'Arisaka accueillait plus de visiteurs venus de très loin pour se détendre que de gens du coin.
 「Alors, voilà cette nouvelle salle de théâtre.
-  Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Elle n'a pas l'air plus haute que les bâtiments voisins.」
+  Il paraît que c'est la plus grande salle de concert de la préfecture. Je me demande comment c'est agencé à l'intérieur. Tu ne trouves pas qu'elle a l'air plus haute que les bâtiments voisins ?」
   Sur le chemin de l'aquarium, nombre de personnes croisèrent leur route.
   Aoko était habituée à la cohue,
   mais Alice, elle, resta muette tout le long du trajet.
@@ -13421,9 +13421,9 @@ J'ai même gagné contre le Saint-Bernard.」
 「Mais non, je parle du fait que tu aies une amie. Tu m'as bien dit que tu n'en avais pas.」
 「...... C'est de l'histoire ancienne. Nous avions le même prénom.
   C'est grâce à ça que nous nous sommes rapprochées, mais ça n'a pas duré longtemps.」
-「C'est vrai qu'Alice n'est pas un prénom si rare là-bas. C'est comme l'équivalent de nos Yoko, Anako ou autres ?」
-「Oui. Ou comme les Aoko, Akako, Kuroko ou Shiroko.」
-「...... Les deux derniers sont des noms de famille, tu sais.」
+「C'est vrai qu'Alice n'est pas un prénom si rare là-bas. C'est comme l'équivalent de nos Yoko, Hanako ou autres ?」
+「Oui. Ou comme les <Aoko|Bleu>, <Akako|Rouge>, <Kuroko|Noir> ou <Shiroko|Blanc>.」
+「...... Les derniers sont aussi des noms communs, tu sais.」
   La société humaine attribuait un nom à tout.
   Le monde océanique avait l'air trépidant,
   mais les hommes avaient également de quoi être occupés.
@@ -16998,7 +16998,7 @@ Aoko est au fond d'un couloir en forme de Y. Comme ton regard suit une trajectoi
 「C'est un peu tard pour te l'apprendre, mais bon. Écoute, Aoko.
   C'est toujours le premier à dégainer son atout qui perd.」
   Son ton détaché ne laissait deviner aucun dommage.
-  Le manteau du Mage qui se tenait sur le champ de neige n'avait pas une seule déchirure.
+  Le manteau du Mage qui se tenait sur le champ de neige n'avait pas la moindre trace de suie.
   ―――La balle de prana contenant toutes les forces de la jeune fille avait été dispersée aux alentours par une quantité de prana égale, juste avant qu'elle n'atteigne le corps de Tōko.
 「――――――」
   Aoko avait les yeux rivés sur le spectacle qui s'était déroulé devant elle.
@@ -17205,7 +17205,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
 「――――――!」
   C'est alors que Tōko remarqua une autre altération.
   Les changements ne se limitaient pas à la cour et à Aoko.
-  Le corps étendu à ses pieds avait été restauré.
+  Le corps coupé en deux qui gisait à ses pieds avait été restauré.
   Résurrection des morts ? Ou bien, simple usage de soins médicaux ?
   Elle ne semblait pas avoir lancé un sort d'une telle envergure, et avant tout, la restauration d'un corps n'impliquait aucunement d'annuler sa “mort”.
   Même la Vraie Magie n'avait jamais permis la résurrection parfaite des morts.
@@ -17251,7 +17251,7 @@ En d'autres termes, eh bien, c'est absurde de devoir l'expliquer mais―――
   Après avoir effacé les caractères runiques, Aoko progressa sur le jardin de fleurs blanches.
   Son expression, la stabilité de son Circuit Magique, et même sa respiration différaient complètement de tout ce qu'elle avait montré jusque-là.
   Elle avait une maîtrise de soi optimale. De celles qu'on ne trouvait que chez ceux ayant une grande expérience du combat.
-「―――C'est... le temps―――?」
+「―――C'est... un gain d'expérience instantané―――?」
   En effet, s'il s'agissait là de la vraie nature du pouvoir hérité chez les Aozaki, alors tout devenait parfaitement logique.
   Le Circuit Magique d'Aoko n'avait pas été amplifié.
   Une telle chose relevait de l'impossible, et même si elle se greffait un Sceau comme Tōko, elle n'aurait obtenu qu'une augmentation de la quantité de prana et de sorts disponibles.
@@ -17413,7 +17413,7 @@ Tu sais Alice, je croyais être incapable de trouver ce genre de chose.
   Les lames de tonnerre furent repoussées par les balles de prana à la manière d'une bourrasque de vent.
   L'Atelier qui sert de base à un Mage représente son principal et ultime atout.
   D'innombrables sorts défensifs gardent les lieux contre d'éventuels voleurs et autres assaillants insolents.
-  L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, l'une des dernières marionnettistes et utilisatrice de Runes, avait largement mis la main à la pâte.
+  L'ancienne école ne dérogeait pas à la règle ; Aozaki Tōko, marionnettiste de génie et utilisatrice de Runes, avait largement mis la main à la pâte.
   Cet Atelier reflétait son perfectionnisme maladif et éliminait tout intrus, humains et démons confondus.
 「Ces sorts foireux ne sont même pas capables de la ralentir―――!」
   Tōko activait les pièges placés dans le couloir pendant sa course.
@@ -17471,7 +17471,7 @@ Je les lui rendrai après, alors tu n'es pas vraiment en position de me faire la
   la réplique de la Rune originelle perdue qu'Aozaki Tōko avait en partie restaurée à l'Association des Mages.
   Les trois membranes cristallines multipliaient par dix millions la puissance de leurs Runes gravées.
   Aucune balle de prana ne pourrait les transpercer.
-  Même si la puissance dégagée par Aoko surpassait de loin celle de Tōko, ces mégalithes en produisaient le double.
+  Même si la puissance dégagée par Aoko surpassait largement celle de Tōko, ce n'était qu'une fraction de ce que produisaient ces mégalithes.
   La spécialité d'Aoko consistait simplement à “relâcher du prana”, elle ne pourrait ni se protéger ni éviter cette malédiction......!
 「―――<Axe subjectif|Main>, <Fixé|Set>.」
   Aoko recourut à l'auto-hypnose et prit une profonde inspiration, décidée.
@@ -17970,7 +17970,7 @@ Je n'ai fait qu'étouffer dans l'œuf toute rébellion. Ce sont eux qui m'ont d�
   ...... Je vais te confier une anecdote. Un jour, une pub sur des pizzas est passée à la télé, et du coup, nous avons eu envie de manger de cette malbouffe.
 Malheureusement, il n'y avait que du salami chez nous.」
 「Tu sais que notre maison se trouve dans les montagnes, pas vrai ?
-  Il faut une heure pour se rendre en ville. Je n'étais qu'en cinquième à l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」
+  Il faut une heure pour se rendre en ville. Je n'étais qu'en sixième à l'époque. J'y suis allée, l'appel du ventre étant plus fort que moi. Mais il n'y avait pas une seule pizzeria. Du coup, je suis rentrée toute chancelante.」
   C'était la tragédie des petites villes de campagne.
   Le vieux quartier de Misaki venait à peine de voir arriver des restaurants de sushi sur tapis roulant, et il faudrait attendre encore deux ans avant la montée en puissance des pizzerias.
 「Pourtant,
@@ -18699,7 +18699,7 @@ Qui aurait pu lui apprendre que ce qui n'est pas du poison peut le devenir――
   décréta Aoko en toute sincérité.
   Sōjūrō détourna un peu le visage et secoua la tête.
 「Je te le dis pour la troisième fois : je ne m'inquiète pas pour toi.
-  ...... Mais tout à l'heure, j'ai quand même vu un peu rouge.」
+  ...... Même si tout à l'heure, j'ai perdu connaissance un instant.」
   Il afficha un sourire amer et embarrassé.
   La première fois, il s'était évanoui à cause des vertiges. Toutefois, la deuxième fois, les vertiges ainsi que les nausées avaient été étouffés par des émotions plus fortes encore.
   Il s'était seulement employé à faire ce qu'il pouvait avec sang-froid.
@@ -19414,9 +19414,9 @@ Un bref silence.
   ...... Qui sait ?
 「Elle n'a pas abandonné son passé.
 Elle vit pour le rendre magnifique.」
-  Peut-être que son rôle avait pris fin ce jour-là.
-  Le jeune homme vit la silhouette du vieil homme changer.
-  Elle vacilla un instant comme sous un effet d'optique.
+  Peut-être que son rôle avait pris fin depuis bien longtemps déjà.
+  La silhouette du vieil homme sembla se changer en celle d'un jeune homme.
+  Elle ne vacilla qu'un instant, comme une illusion d'optique.
 「Je te corrige. Mes deux filles appréhendent très bien ce que je suis. J'ose même croire qu'elles me comprennent mieux que moi-même.
   De la même façon que je ne tiens pas compte de leur personnalité, elles ne ressentent aucun intérêt pour la mienne.
   Il ne leur est même sans doute jamais venu à l'idée de maudire mon existence.」
@@ -19611,7 +19611,7 @@ Mais en ville, il ne m'est même pas permis d'entretenir cette illusion.」
   Ses lèvres esquissaient un mince sourire.
   ...... Oui.
   Dans ses souvenirs de petite fille, elle portait un furisode pour la première fois, mais elle ne laissait pourtant paraître aucun signe de nervosité, et par conséquent, elle n'avait rien d'adorable.
-  Cependant, elle avait tout de même l'élégance de sourire face au miroir.
+  Cependant, elle avait assez de charme pour sourire en se regardant dans le miroir.
   En voyant l'expression chaleureuse d'Aoko, Sōjūrō ferma les paupières, satisfait. On aurait pu croire que rien ne pouvait le rendre plus heureux.
 「―――Il nous est arrivé pas mal de choses.
   Mais je suis heureux d'avoir pu passer le réveillon du Nouvel An en ta compagnie.」
@@ -19825,7 +19825,7 @@ Hein ?!
   C'est contraire à mon éthique. On n'est pas dans un certain dojo.
     C'est pour ça que vous avez changé de lieu.
     Je vois. J'ai à peu près compris.
-    Cet entrain surprendrait même Mam'zelle Aoko.
+    Cette dilapidation surprendrait même Mam'zelle Aoko.
     Mais perso, j'préfère plutôt les jupes aux blouses. Celles qui ressemblent à^    des robes, elles sont divines. Enfin, c'est pas que les blouses c'est moche,^    c'est juste un problème d'image. Est-ce qu'elles rendent bien en peinture ?
 Vous voyez “La forêt, l'oiseau et la fillette” ? Ou “L'oiseau et l'écolier”, où l'enfant a une telle présence qu'on en oublie l'oiseau.
     Zut. J'étais en pleine préparation^    de pâtisseries.
@@ -19933,7 +19933,7 @@ Elle avait des surnoms comme la Sorcière au sang pur.
     si on essayait pour voir si ça ne te tue pas ?
   J'me suis fait avaler tout rond en un instant.
   Comme je l'pensais, les Ploy sont des pâtisseries ?
-  Hmm, c'est bon...
+  Hmm, c'est sucré...
     Chef. Une assiette
     de thon trois variétés.
   Mam'zelle Alice, c'est quoi ça ?
@@ -20441,13 +20441,13 @@ ne vivant qu'à l'instinct. Ha ha, c'est si drôle d'écraser la culture !
     Mon œil ! Ces Great Three sont trop faibles !
 Moi, j'suis un Ploy qui sait y faire ! Je vais recycler ces déchets industriels ! Hé, le vendeur ! Prépare des frites avec l'huile restante !
 En voilà une bonne idée venant de toi, Robin.
-Je vais peut-être commander un poulet rôti.
+Je vais peut-être commander un poulet frit.
     ..................
     Le menu ne comporte qu'des hot-dogs,^    du pop-corn et des frites.
-J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet rôti a une odeur trop forte pour le cinéma. Ça gêne les autres clients.
+J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet frit a une odeur trop forte pour le cinéma. Ça gêne les autres clients.
       Je le sais. Mais rassure-toi.
       Je n'ai pas vraiment faim.
-      Le rôtir dans l'huile me suffira amplement.
+      Le frire dans l'huile me suffira amplement.
 Ha ha. C'est donc pas pour le manger.
   Ne serait-ce pas la première fois que tu bous entièrement des plumes à la peau ?
   Tu peux rajouter une mort de plus à ta collection, Robin.
@@ -20820,7 +20820,7 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
   Je n'aurais jamais cru rencontrer l'une de mes cibles en me promenant, plongée dans mes souvenirs. Ça me fait gagner du temps, tiens.」
 「Je n'ai rien à voir là-dedans ! Je n'ai plus rien à voir avec l'Association !
   Après tout, je n'ai pas travaillé sérieusement cette année !
-  Et même si c'est une blague, évite de menacer de mort ta camarade d'apprentissage !」
+  Et même si c'est une blague, évite de menacer de mort ton aînée d'apprentissage !」
   La femme de la résidence faisait des moulinets avec les bras, les larmes aux yeux.
   Cela dit, son inquiétude n'avait pas lieu d'être.
   D'après Beo qui observait la scène depuis un trou dans le mur en face du bâtiment, la menace de Tōko était bidon.
@@ -20913,8 +20913,8 @@ Ah, par contre, je serais vachement content si tu m'achetais un hamburger en ren
 「Hum. Pas étonnant qu'elle cherche à me faire garder le silence.
   Les premières personnes qui redoubleraient de vigilance à la vue de Tōko, c'est moi et―――」
   Une autre personne.
-  Le personnage que l'on pourrait véritablement qualifier d'aîné disciple des sœurs Aozaki.
-  L'homme de toute beauté ayant été chargé de l'éducation d'Aozaki Tōko.
+  Le personnage que l'on pouvait véritablement qualifier d'aîné disciple des sœurs Aozaki.
+  La femme de toute beauté ayant été chargée de l'éducation d'Aozaki Tōko.
 「Bah, elle a dû faire ses préparatifs dans son coin.
   Connaissant Tōko, elle doit être parfaitement préparée, mais―――」
 「Elle ferait mieux de se montrer plus impitoyable avec l'ennemi. Elle respecte trop les droits de son adversaire, je dirais même qu'elle est naïve.
@@ -20954,7 +20954,7 @@ Je ne crois pas qu'il soit très indiqué de se montrer devant la personne qu'on
   Viens-en aux faits ! Ton acolyte donnera-t-elle l'alerte ?」
 「Ah là là. Tu es mal placée pour critiquer les autres.
   Tu es toi-même un véritable bourreau de travail.
-  Et si nous engagions une conversation un peu plus posée ? Après tout, en considérant nos positions respectives, qui sait quand notre prochaine rencontre aura lieu ?」
+  Et si nous engagions une conversation un peu plus posée ? Après tout, vu nos situations respectives, qui sait si nous nous rencontrerons à nouveau ?」
 「Assez plaisanté ! C'est déjà décidé. Cette rencontre est la dernière, Eiri.」
   Tōko rejeta du tac au tac la proposition du prêtre tout sourire.
   Elle se montrait véritablement glaciale.
@@ -21111,7 +21111,7 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
   Bon, il n'y a personne aux alentours. Je vais lui tordre le cou discrètement―――”」
   Beo s'interrompit brusquement alors qu'il levait la patte.
   *bruit de métal*
-  La sœur ouvrit le couvercle d'une canette, versa dans une petite assiette ce qui semblait être un liquide brillant,
+  La sœur ouvrit le couvercle d'un flacon qu'elle tenait en main, versa dans une petite assiette ce qui semblait être un liquide brillant,
  puis plaça le tout devant le petit chien.
 「“Euh―――”」
 「Tiens, régale-toi.」
@@ -21321,10 +21321,10 @@ Je te vois bien transformer une usine ou des bureaux quelconques en base secrèt
 『Je crois que Tobimaru t'aime bien.
   Après tout, il ne bavarde qu'avec les gens qu'il apprécie.』
   Par sa faute, je voulais croire que j'avais une chance.
-  Il s'était même cassé le bras en voulant me sauver durant les incidents de l'été dernier.
+  Il s'était même cassé le bras en voulant me sauver durant les incidents de cet été.
   J'ignorais si Tsukiji avait déjà une petite amie, mais j'aurais peut-être ma chance si je lui déclarais ma flamme.
   Mais seulement, voilà,
-  dans ce cas, à quoi servait le combat secret que je menais depuis le début de l'adolescence ?
+  dans ce cas, à quoi servait le combat secret que je menais depuis mon plus jeune âge ?
   Moi qui concevais depuis l'enfance mes plans d'avenir, il m'arrivait de mépriser mes camarades de classe qui ne pensaient qu'à l'amour ou à leurs rêves.
   J'avais sérieusement du mal à croire que cette même personne songeait à gâcher ces six longues années d'efforts pour une raison aussi puérile.
   Ce n'était pas la Kumari Kojika que je rêvais de devenir.
@@ -22134,7 +22134,7 @@ En plus, tu as beau lui mettre du plomb dans la cervelle, il redevient toujours 
 「Attends, regarde ! Une nonne est évanouie juste là, Ton Altesse !
 Oooh, je peux aller l'enlacer pour la réveiller ?!」
 「Pourquoi pas ? Au pire, tu finiras juste assommé.」
-  Les voix familières et joyeuses se retirèrent vers le salon.
+  Les voix familières et enjouées emplissaient le vestibule.
   Les grains de la coquille dispersés par la brise passèrent à travers la lucarne et disparurent comme grillés par le soleil.
     “Hmm, bah, ce genre de fin est tout aussi bonne à prendre !”
   Cette voix était tel un porte-parole des sentiments honnêtes et étrangement rafraîchissants de la jeune fille.
@@ -22353,7 +22353,7 @@ Hōsuke s'est transformé en confettis et il n'y a même pas de corps ! C'est qu
   Quel pétrin. Qui eût cru que quelqu'un pourrait l'activer ! Comment les Japonais peuvent-ils être aussi timorés ?」
 「Sweets Hearts...?
   C'est le nom de ce Ploy, Alice ?」
-「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester son courage avant le combat. Sauf qu'en général, tout le monde est exterminé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
+「Yes. Il crée des règles précises et augmente le prana du groupe ayant survécu. C'est un Ploy qui sert en quelque sorte à tester sa chance avant le combat. Sauf qu'en général, tout le monde est exterminé et Sweets Hearts l'emporte haut la main. Il met en place un jeu mortel qui ne laisse la place à aucun survivant.
   Bref, je fais équipe avec Alice.」
 「Hein ? C'est quoi cette histoire d'équipe ?」
 「C'est un “Survival Game”. La probabilité de gagner augmente en participant avec deux esprits ne faisant qu'un, en gros en formant des groupes de deux.
@@ -22400,7 +22400,7 @@ Lorsque je suis retourné dans ma chambre au crépuscule, j'ai trouvé M. Tokits
 ... Ensuite... Ah oui ! Pendant ma sieste, j'ai eu l'impression d'entendre le rire de quelqu'un, mais c'est peut-être mon imagination, alors ne vous y fiez pas trop pour l'enquête. Ça ne ferait que prêter à confusion.」
   Je...
 ~Choix J~
-「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu pacifiquement au manoir.
+「J'ai terminé mon service de l'après-midi, et comme indiqué sur la lettre d'invitation d'Aoko, je me suis rendu au manoir dans une tenue pacifique.
   Nous sommes arrivés à la résidence à quatre heures de l'après-midi, puis Riddell s'est présentée alors que nous prenions le thé dans la véranda, et nous avons appris peu après que M. Tokitsu avait été tué.
   Je n'ai pas rencontré M. Tokitsu une seule fois après notre arrivée.
   De plus, je soupçonne que quand nous avons découvert son cadavre, M. Yamashiro avait déjà disparu.」
@@ -22515,7 +22515,7 @@ Alice, dépêche-toi de me mener à ma chambre. Naturellement, je ne parle pas d
   Mais pourquoi il en était arrivé à de telles extrémités.
   Je n'eus de cesse de réfléchir à l'intérêt que l'individu A avait de tous nous tuer et―――
   Avant ça,
-  je songeai que nous devrions écouter le témoignage de cette fille en rose.
+  je songeai que nous devrions aussi vérifier l'alibi de cette fille en rose.
 「Hein ? Vous voulez aussi mon alibi ?
   Je n'ai rien à voir avec ça. Après tout, lorsque je suis arrivée, le vieux et le professeur avaient déjà tiré leur révérence, n'est-ce pas ? Si vous faites preuve de bon sens, vous en déduirez que je suis complètement innocente.
   D'ailleurs, je n'ai aucune raison d'utiliser Sweets Hearts. Je suis une star qui ne manque de rien et je peux obtenir la plupart des choses que je désire avec de l'argent. Si je dois provoquer une tempête, je préférerais la créer de mes propres mains, quitte à sacrifier mon entourage s'il le faut.」
@@ -22996,7 +22996,7 @@ Argl ?!」
   Je courais, le souffle court.
   Je sprintai à une vitesse que je n'avais encore jamais atteinte en EPS.
   Apparemment, moi aussi, j'étais capable de courir quand je le voulais vraiment.
-  Même des gens pas très sportifs peuvent avoir des réflexes moteurs surhumains s'ils y mettent du leur, pensai-je en souriant.
+  Même des gens pas très sportifs peuvent avoir au moins une agilité dans la moyenne s'ils y mettent du leur, pensai-je en souriant.
   Ce fut sur cette note optimiste, tentant de fuir la réalité,
 「Hein ?」
   que mon corps fut assailli par une sensation d'apesanteur.
@@ -23208,7 +23208,7 @@ Ce soir, il n'y a pas plus dangereux que les gens en qui tu as confiance.」
 「Aozaki s'est fait piéger ?」
 「Ouais. Après tout, cette fille est un véritable amoncellement de dynamisme, mais elle était bien trop occupée à dissimuler la victime dans sa chambre.
   Et puis, elle a dit quelque chose de bizarre, non ? Elle a mentionné l'heure où sa sœur a dû se retrouver dans cet état,
- tu te rappelles ?」
+ qu'en penses-tu, Kumari ?」
   ... Je...
 ~Choix S~
   Distraite, je m'étais plongée dans les réflexions qui m'avaient traversé l'esprit.
@@ -23576,7 +23576,7 @@ Ha ha ha ha ha !』
   Ces quelques mots achevèrent de duper mon père.
   Bien sûr, mon véritable objectif était ce deuxième vœu.
   Pour atteindre ce but, j'avais continué de trimer dur dans le plus grand secret.
-  J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'octroie une bourse pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
+  J'avais économisé pendant trois ans pour payer les frais d'examens et avoir de quoi vivre après l'admission. Mon plan supposait que l'université m'accorde un prêt pour les frais de scolarité, mais il me permettrait au moins d'entrer à la fac sans qu'on puisse émettre la moindre objection.
   Mon père était d'un caractère obstiné et brutal, mais il n'était pas assez méchant pour ne pas tenir compte des efforts des autres.
   Une fois que j'aurais obtenu de bons résultats et qu'il saurait que j'avais économisé suffisamment d'argent, il accepterait sûrement, de mauvaise grâce certes, que j'aille à l'université de Tokyo.
   Enfin, même s'il s'y opposait, je partirais.
@@ -24052,7 +24052,7 @@ Je songeai que le témoignage de père Eiri était étrange.
 Je songeai que le témoignage de la sœur était étrange.
 Je songeai que le témoignage de Ritsuka était étrange.
 Je songeai que nous devrions attendre jusqu'au matin dans nos chambres.
-Je songeai que nous devrions écouter le témoignage de Riddell.
+Avant ça, je songeai que nous devrions aussi vérifier l'alibi de Riddell.
 Je décidai de jeter un petit coup d'œil dans le couloir.
 Je décidai de la laisser tranquille.
 Je songeai qu'il fallait se ranger à cet avis.
@@ -24088,7 +24088,7 @@ Suse Ritsuka
 Suivant
 Suse Yuika
 Yamashiro Kazuki
-Yurihiko Tokitsu
+Tokitsu Yurihiko
 May Riddell Archelot
 Retour
 Je me demandai si Kuonji était vraiment une maniaque de la propreté.
@@ -24113,7 +24113,7 @@ Suse Ritsuka
 Suivant
 Suse Yuika
 Yamashiro Kazuki
-Yurihiko Tokitsu
+Tokitsu Yurihiko
 May Riddell Archelot
 Retour
 Le fait que je faisais erreur depuis le début.
