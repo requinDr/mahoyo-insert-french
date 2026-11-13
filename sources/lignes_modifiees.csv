@@ -88,6 +88,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 5624,"En voyant la frontière ondulante, elle fléchit enfin les genoux face à cette <île|Snark> du désespoir.",,
 5647,"Au-dessus du garçon à côté d'elle, <l'œuf chuchoteur|Scratch Dumpty> poursuivait sa transformation.",,
 5831,,0,
+5890,,2,
 5938,"...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le <bleu|Ao>.",,
 5941,"<Les doutes et les inquiétudes au fond du sac,|Tic tac tic tac.> <l'aube est une étape|Donne un coup de sifflet.><r>du voyage.",,
 5942,"<Les étoiles scintillantes tombent vite,|Les étoiles viennent toujours du ciel du nord,> <et sont maintenant dans ton|N'importe où, pour toujours.><r>cœur.』",,
@@ -340,7 +341,6 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19872,,4,alignement saynète
 19873,,4,alignement saynète
 19881,Je suis trop scrupuleuse pour l'exhiber devant l'Association<ra>des Mages afin d'en obtenir des privilèges et de l'argent.,,魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
-19890,<ra>Qu'entends-tu au juste<ra>par Meinster ?,,
 19891,,0,alignement saynète
 19892,,0,alignement saynète
 19899,,2,alignement saynète
@@ -533,8 +533,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20194,,4,
 20195,,4,
 20206,"Suite à l'immense succès de cette comptine de Mother Goose,",4,
-20207,la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」,4,
-20208,fut publiée et devint elle aussi un best-seller.,4,
+20207,la préquelle 「Les heureuses fiançailles de Cock Robin et,4,
+20208,Jenny Wren」 fut publiée et devint elle aussi un best-seller.,4,
 20212,,0,alignement saynète
 20216,"En d'autres termes―――le personnage<ra>principal de Mahoyo, c'est mo...",4,alignement saynète
 20217,Kya !,0,alignement saynète
@@ -566,12 +566,13 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20260,,4,
 20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt",0,
 20265,"laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.",0,alignement saynète
-20268,,4,
 20279,,2,
 20280,,2,
 20281,,2,
 20285,Ne sais-tu donc pas qu'un important pourcentage<ra>d'oiseaux migrateurs décèdent en tentant de la franchir ?,,
 20286,,2,
+20287,,2,
+20288,,2,
 20289,,4,
 20293,,2,
 20294,,2,
@@ -619,12 +620,14 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20365,,2,
 20366,,2,
 20367,,2,
+20371,"Exactement.<ra>Je t'avais prévenu, non ?",,
 20373,,0,
 20374,,0,
 20375,,0,
 20376,,6,
 20377,,6,
 20378,,6,
+20379,"Great. De cette façon, toute l'attention<ra>peut se concentrer sur vous, hein ?",,
 20382,"Le deuxième, oui. À titre d'information,",,
 20383,je précise que le corps de Snark est liquide.,,
 20384,,2,
@@ -654,7 +657,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra> Celui-là Diddle Diddle. Et lui Flat Snark.<ra> Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
 20417,"Je pensais que les classer selon mon humeur était<ra>plus simple que d'employer des noms extravagants, mais...",,
 20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra> mon destin peut dépendre de tes mystérieuses humeurs.』,4,
-20419,"『Et puis, ce genre de noms sera bientôt à la mode.<ra>C'est certain. Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
+20419,"『Et puis, ce genre de noms sera bientôt à la mode.<ra> C'est certain. Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
 20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont<ra> nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
 20421,"Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous<ra>les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
 20425,,4,
@@ -671,6 +674,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20440,"c'est Snark qui y passe ! Ha ha, les Great Three ?",4,
 20446,"Le menu ne comporte qu'des hot-dogs,<ra>du pop-corn et des frites.",,外のメニュー、ホットドッグとポップコーンとポテ^トしかなかったッスよ。
 20451,Ha ha. C'est donc pas pour le manger.,0,ハハハ。食事として、頼むワケでは、ないと。
+20452,Ne serait-ce pas la première fois que tu bous<ra>entièrement des plumes à la peau ?,,
 20454,"Justement la collection que je voulais<ra>le moins étoffer, quel pied !",,
 20456,,4,
 20457,Les cinémas ne font plus de projections<ra>doubles depuis quelque temps.,4,

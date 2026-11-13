@@ -5887,7 +5887,7 @@ S'il ne les privait pas de leur vie, de leur portefeuille ou de toute leur fortu
   Parce que monter des montagnes russes à la seule force des bras relève plutôt du domaine du surnaturel que des plaisanteries.
   La pression atmosphérique et la force du vent rendent l'avancée difficile.
   L'instinct supplie de s'arrêter, les membres s'engourdissent, les muscles s'affaiblissent, des pensées incohérentes fusent dans tous les sens.
-Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètres d'escalade, l'esprit se paralyse à cause de la peur.
+  Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètres d'escalade, l'esprit se paralyse à cause de la peur.
   De plus, ce malaise s'intensifie à chaque mètre.
   Progresser ne serait-ce que d'un mètre suffit à accroître le fardeau pesant sur le corps et l'esprit.
 「―――Bien. Je suis presque arrivé au sommet―――」
@@ -19887,7 +19887,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association^des Mages afin d'en
 ? Désolé, j'ai oublié c'que j'viens de dire.
 Pour moi, les choses du passé sont plus vagues que l'futur.
   ...... Qu'entends-tu
-  ^  Qu'entends-tu au juste^  par Meinster ?
+  au juste par Meinster ?
 My Goddess. La mère de Mam'zelle Alice.
 Elle avait des surnoms comme la Sorcière au sang pur.
     Mais votre mère était une fashion victim.
@@ -20204,8 +20204,8 @@ Tu apparais bien assez comme ça dans l'histoire principale.
     l'ensemble du cortège funèbre répond 「Moi」.
     Elle dépeint aussi la recherche du coupable.
     Suite à l'immense succès de cette comptine de Mother Goose,
-    la préquelle 「Les heureuses fiançailles de Cock Robin et Jenny Wren」
-    fut publiée et devint elle aussi un best-seller.
+    la préquelle 「Les heureuses fiançailles de Cock Robin et
+    Jenny Wren」 fut publiée et devint elle aussi un best-seller.
     Elle fut suivie de l'histoire du procès et de l'exécution du moineau
     qui conte les évènements après la mort du rouge-gorge.
     Je t'envie. Avec les droits d'auteur, tu dois être riche, Robin.
@@ -20265,7 +20265,7 @@ Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt
 laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
       C'est un ouvrage en sucre en forme
       de broche. Ouah, sucré...!
-    Ce qu'il est sucré, votre bonbon fait maison !
+      Ce qu'il est sucré, votre bonbon fait maison !
     C'est l'heure de fermer.
     Moi, je rentre,
     toi, fais le ménage.
@@ -20284,8 +20284,8 @@ laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.
     Ne sous-estime pas la montagne.
     Ne sais-tu donc pas qu'un important pourcentage^    d'oiseaux migrateurs décèdent en tentant de la franchir ?
   Un moment d'inattention et c'est la mort assurée.
-        Tu peux mourir n'importe quand. Fais preuve de
-        respect envers les sommets où vivent les dieux.
+  Tu peux mourir n'importe quand. Fais preuve de
+  respect envers les sommets où vivent les dieux.
     En gros, ça change pas vraiment de d'habitude.
     Je reformule. Ne nous sous-estime pas,
     la montagne et moi. Aujourd'hui,
@@ -20368,7 +20368,7 @@ Dans la chanson du Pont de Londres.
     Le Négligent est apparu――――――!
     En fait, j'étais déjà sur son corps ?
     J'n'avais aucune issue depuis le début ?!
-    Exactement. Je t'avais prévenu, non ?
+    Exactement.^    Je t'avais prévenu, non ?
     Ne sous-estime pas la montagne.
 J'pensais pas que c'était dans c'sens-là !
 Y a pas de sous-titres dans c'film.
@@ -20376,7 +20376,7 @@ Pourtant, j'ai dit des tas de choses.
       Je sais. Mais comme tu étais trop bruyant,
       j'ai ordonné au réalisateur de couper
       spécifiquement tes répliques.
-        Great. De cette façon, toute l'attention peut se concentrer sur vous, hein ?
+        Great. De cette façon, toute l'attention^        peut se concentrer sur vous, hein ?
         Je suis le seul à jouer comme dans un film muet.
     C'est l'deuxième, pas vrai ?
     Le deuxième, oui. À titre d'information,
@@ -20416,7 +20416,7 @@ Alors que mon affection ou leurs forces changeaient constamment.
     ...... On dit que le nom est le reflet de l'âme, vois-tu ?
     Je pensais que les classer selon mon humeur était^    plus simple que d'employer des noms extravagants, mais...
     『On ne peut pas deviner ton état d'esprit. Dis-toi que^     mon destin peut dépendre de tes mystérieuses humeurs.』
-『Et puis, ce genre de noms sera bientôt à la mode.^C'est certain. Même si on en aura sûrement rapidement assez.』
+『Et puis, ce genre de noms sera bientôt à la mode.^ C'est certain. Même si on en aura sûrement rapidement assez.』
 『Quitte à leur donner des noms, autant que ça en jette. Ce sont^ nos créations originales, ne pas suivre la mode serait du gâchis.』
   Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous^  les retenir, mais je ne me suis plus jamais trompée après ça.
   C'est un peu comme l'œuf de Colomb.
@@ -20449,7 +20449,7 @@ J'ai pour habitude d'vérifier le menu au cinéma. Et puis, le poulet frit a une
       Je n'ai pas vraiment faim.
       Le frire dans l'huile me suffira amplement.
 Ha ha. C'est donc pas pour le manger.
-  Ne serait-ce pas la première fois que tu bous entièrement des plumes à la peau ?
+  Ne serait-ce pas la première fois que tu bous^  entièrement des plumes à la peau ?
   Tu peux rajouter une mort de plus à ta collection, Robin.
  Justement la collection que je voulais^ le moins étoffer, quel pied !
  Et il en reste encore tellement !
