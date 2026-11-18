@@ -5887,7 +5887,7 @@ S'il ne les privait pas de leur vie, de leur portefeuille ou de toute leur fortu
   Parce que monter des montagnes russes à la seule force des bras relève plutôt du domaine du surnaturel que des plaisanteries.
   La pression atmosphérique et la force du vent rendent l'avancée difficile.
   L'instinct supplie de s'arrêter, les membres s'engourdissent, les muscles s'affaiblissent, des pensées incohérentes fusent dans tous les sens.
-  Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètres d'escalade, l'esprit se paralyse à cause de la peur.
+Même quand on sait qu'on a une corde de sécurité, après seulement cinq mètres d'escalade, l'esprit se paralyse à cause de la peur.
   De plus, ce malaise s'intensifie à chaque mètre.
   Progresser ne serait-ce que d'un mètre suffit à accroître le fardeau pesant sur le corps et l'esprit.
 「―――Bien. Je suis presque arrivé au sommet―――」
@@ -10227,7 +10227,7 @@ Vous connaissez l'histoire : même dans une ville tranquille, il suffit que le m
 「Si leur royaume avait compté cinq milliards de semblables, c'est sûrement parce qu'auparavant, ils n'avaient pas de prédateurs naturels. On dit aussi que les aborigènes, les indiens, ne les chassaient pas outre mesure.
   Mais ces nouveaux arrivants ignoraient leur mode de vie.
   Et surtout, ils n'ont jamais pensé qu'un nombre aussi considérable d'oiseaux pourrait s'éteindre un jour.
-  Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leur prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
+  Pour les pigeons migrateurs, c'était comme un coup de tonnerre dans un ciel bleu. Qui aurait pu penser que leurs prédateurs naturels viendraient de l'autre côté de l'océan avec quelques siècles de retard ?」
 「Puis en 1896, les humains furent enfin confrontés à une réalité assez forte pour se rendre compte de leur folie.
   Il ne restait plus que deux cent cinquante mille oiseaux.
   Après vérification, c'était bien le nombre total des pigeons migrateurs. Il était déjà bien trop tard. Ils se hâtèrent de promulguer une loi pour les protéger, mais les habitudes humaines ne changent pas si facilement.」
@@ -19716,8 +19716,8 @@ Depuis les temps anciens, la principale occupation des Mages est de s'enfermer d
   Un disciple est le successeur qui hérite des techniques^  du maître et se doit de les maîtriser, n'est-ce pas ?
   Ils ont le devoir de surpasser un jour leurs maîtres,
   et ces derniers ne prendraient pas de disciples^  s'il en était autrement.
-      À l'inverse, les familiers reçoivent l'intégralité^      de leurs capacités à leur naissance.
-      Il n'y a aucun sens à ce qu'un être incapable d'évoluer^      devienne le successeur d'un Mage.
+      À l'inverse, les familiers reçoivent l'intégralité^      de leurs capacités à leur naissance. Il n'y a
+      aucun sens à ce qu'un être incapable d'évoluer^      devienne le successeur d'un Mage.
     J'vois. J'comprends mieux. C'pour ça que malgré les années^    qui passent, ma capacité de mémorisation n'augmente pas.^    Mais ça veut aussi dire que j'suis parfait depuis ma naissance.
             Oui. Tu es parfaitement inutile.
     La plupart des familiers sont créés à partir de petits animaux.
@@ -19733,9 +19733,9 @@ Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.
     ça entre dans quelle catégorie ?
     C'est un Automate adapté au combat. Mais à ce niveau,
     il s'agit davantage d'une sentinelle que d'un familier.
-    ...... Sa conception même est très éloignée des normes^    traditionnelles des familiers. De la même façon,
-    les familiers possédant une intelligence compatible
-    avec les humains comme toi sont aussi des exceptions.
+    ...... Son concept même diffère fortement^    d'un familier classique. D'ailleurs, les familiers
+    assez intelligents pour interagir avec les humains
+    tels que toi sont aussi des exceptions.
 Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.
 Leur coût en prana est trop élevé. En général, le Mage gagnerait
 à faire le travail lui-même ou à utiliser des ressources plus abordables.
@@ -19887,7 +19887,7 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association^des Mages afin d'en
 ? Désolé, j'ai oublié c'que j'viens de dire.
 Pour moi, les choses du passé sont plus vagues que l'futur.
   ...... Qu'entends-tu
-  au juste par Meinster ?
+  au juste par “Meinster” ?
 My Goddess. La mère de Mam'zelle Alice.
 Elle avait des surnoms comme la Sorcière au sang pur.
     Mais votre mère était une fashion victim.
@@ -20037,11 +20037,11 @@ Moi aussi, je connais sa comptine.
       Le petit chien a ri de voir cette fantaisie
       Et le plat avec la cuillère s'est enfui.』
       C'est une comptine typique de Mother Goose.
-      Les paroles parlent d'un chat jouant du violon à minuit,
-  d'une vache qui saute par-dessus la lune, d'un chien qui rit,
-  et des personnifications d'un plat et d'une cuillère qui s'enfuient.
-Selon une théorie, elle s'inspire d'une légende grecque ou égyptienne.
-Si ça fait référence aux constellations,
+      Le poème parle d'un chat jouant du violon à minuit,
+  une vache qui saute par-dessus la lune, un chien qui rit, et
+  les personnifications d'un plat et d'une cuillère qui s'enfuient.
+Selon une théorie, elle s'inspire d'une légende grecque
+ou égyptienne. Si ça fait référence aux constellations,
 alors la vache doit être une parodie du taureau.
     C'est un Ploy jetable, pas vrai ?
     Il se casse après chaque utilisation.

@@ -88,7 +88,6 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 5624,"En voyant la frontière ondulante, elle fléchit enfin les genoux face à cette <île|Snark> du désespoir.",,
 5647,"Au-dessus du garçon à côté d'elle, <l'œuf chuchoteur|Scratch Dumpty> poursuivait sa transformation.",,
 5831,,0,
-5890,,2,
 5938,"...... Si l'on devait attribuer une couleur à ces mots, ça serait celle que l'on retrouve dans son nom, le <bleu|Ao>.",,
 5941,"<Les doutes et les inquiétudes au fond du sac,|Tic tac tic tac.> <l'aube est une étape|Donne un coup de sifflet.><r>du voyage.",,
 5942,"<Les étoiles scintillantes tombent vite,|Les étoiles viennent toujours du ciel du nord,> <et sont maintenant dans ton|N'importe où, pour toujours.><r>cœur.』",,
@@ -244,8 +243,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19716,"Un disciple est le successeur qui hérite des techniques<ra>du maître et se doit de les maîtriser, n'est-ce pas ?",2,retour à la ligne saynète
 19717,,2,alignement saynète
 19718,et ces derniers ne prendraient pas de disciples<ra>s'il en était autrement.,2,alignement saynète
-19719,"À l'inverse, les familiers reçoivent l'intégralité<ra>de leurs capacités à leur naissance.",,
-19720,Il n'y a aucun sens à ce qu'un être incapable d'évoluer<ra>devienne le successeur d'un Mage.,,
+19719,"À l'inverse, les familiers reçoivent l'intégralité<ra>de leurs capacités à leur naissance. Il n'y a",,
+19720,aucun sens à ce qu'un être incapable d'évoluer<ra>devienne le successeur d'un Mage.,,
 19721,"J'vois. J'comprends mieux. C'pour ça que malgré les années<ra>qui passent, ma capacité de mémorisation n'augmente pas.<ra>Mais ça veut aussi dire que j'suis parfait depuis ma naissance.",4,
 19722,,12,alignement saynète
 19723,,4,alignement saynète
@@ -260,9 +259,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19733,,4,
 19734,,4,
 19735,,4,
-19736,"...... Sa conception même est très éloignée des normes<ra>traditionnelles des familiers. De la même façon,",,
-19737,les familiers possédant une intelligence compatible,,
-19738,avec les humains comme toi sont aussi des exceptions.,,
+19736,"...... Son concept même diffère fortement<ra>d'un familier classique. D'ailleurs, les familiers",,
+19737,assez intelligents pour interagir avec les humains,,
+19738,tels que toi sont aussi des exceptions.,,
 19739,Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.,0,
 19740,"Leur coût en prana est trop élevé. En général, le Mage gagnerait",0,
 19741,à faire le travail lui-même ou à utiliser des ressources plus abordables.,0,alignement saynète
@@ -435,12 +434,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20035,,8,alignement saynète
 20036,,8,alignement saynète
 20038,,6,alignement saynète
-20039,C'est une comptine typique de Mother Goose.,,
-20040,"Les paroles parlent d'un chat jouant du violon à minuit,",,alignement saynète
-20041,"d'une vache qui saute par-dessus la lune, d'un chien qui rit,",,
-20042,et des personnifications d'un plat et d'une cuillère qui s'enfuient.,,
-20043,,0,alignement saynète
-20044,"Si ça fait référence aux constellations, ",0,alignement saynète
+20043,"Selon une théorie, elle s'inspire d'une légende grecque",0,alignement saynète
+20044,"ou égyptienne. Si ça fait référence aux constellations, ",0,alignement saynète
 20045,alors la vache doit être une parodie du taureau.,0,牛は牡牛座のもじりでしょう。
 20046,,4,
 20047,,4,
