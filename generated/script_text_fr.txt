@@ -19722,8 +19722,8 @@ Depuis les temps anciens, la principale occupation des Mages est de s'enfermer d
             Oui. Tu es parfaitement inutile.
     La plupart des familiers sont créés à partir de petits animaux.
     En effet, une grande partie des types de familiers requièrent^    d'être alimentés en prana par leur maître.
-Plus le familier est gros, plus il a besoin de prana. C'est pour cela que
-les petits animaux sont privilégiés, car ils consomment peu de prana et^sont capables dès leur création de subvenir eux-mêmes à leurs besoins.
+Plus ils sont gros, plus ils ont besoin de prana. On préfère
+donc utiliser de petits animaux, car ils consomment peu^de prana et peuvent s'alimenter seuls dès leur création.
 ? Pourtant, j'ai jamais chassé ou fait un truc du genre.
 J'ai pas besoin de protéines ou de fibres alimentaires ?
 Les Ploy sont une catégorie à part. Bref, pour les Mages, les familiers
@@ -19767,8 +19767,8 @@ J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
     Hm ? En dehors de vous, toute-puissante Mam'zelle Alice,
     que se passerait-il si Mam'zelle Aoko créait un familier ?
     Une auto-destruction instantanée à l'activation ?
-    Cette hypothèse n'a pas lieu d'être.
-    Aoko n'a pas les compétences nécessaires pour créer un familier.
+    Cette hypothèse n'a pas lieu d'être. Aoko n'a pas
+    les compétences nécessaires pour créer un familier.
     En premier lieu, elle ne sait que détruire ! Si elle
     donnait le seul don qu'elle possède à un familier,
     sa raison d'être se briserait en mille morceaux.
@@ -19787,8 +19787,8 @@ J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
   Elle peut à peine faire la nage du chien en natation,
   et ne sait faire ni de la barre fixe ni du vélo.
     Aux heures de sport, sa tâche est facile :^    rester assise à la lisière du campus.
-    Mais c'est pas grave !
-    Si j'sais tout ça, c'est parce que j'vous file pour prendre des photos !
+    Mais c'est pas grave ! Si j'sais tout ça, c'est
+    parc'que j'vous file pour prendre des photos !
     My Angel ! Vous êtes juste magnifi...
 Hein ?!
             ...... Quelle insolence !
@@ -19825,7 +19825,7 @@ Hein ?!
   C'est contraire à mon éthique. On n'est pas dans un certain dojo.
     C'est pour ça que vous avez changé de lieu.
     Je vois. J'ai à peu près compris.
-    Cette dilapidation surprendrait même Mam'zelle Aoko.
+    Cette opulence surprendrait même Mam'zelle Aoko.
     Mais perso, j'préfère plutôt les jupes aux blouses. Celles qui ressemblent à^    des robes, elles sont divines. Enfin, c'est pas que les blouses c'est moche,^    c'est juste un problème d'image. Est-ce qu'elles rendent bien en peinture ?
 Vous voyez “La forêt, l'oiseau et la fillette” ? Ou “L'oiseau et l'écolier”, où l'enfant a une telle présence qu'on en oublie l'oiseau.
     Zut. J'étais en pleine préparation^    de pâtisseries.
@@ -19884,10 +19884,10 @@ Je suis trop scrupuleuse pour l'exhiber devant l'Association^des Mages afin d'en
    Ils sont liés au sang de Meinster !
     ...... Toi,
     en fait, tu sais très bien de quoi tu parles ?
-? Désolé, j'ai oublié c'que j'viens de dire.
-Pour moi, les choses du passé sont plus vagues que l'futur.
-  ...... Qu'entends-tu
-  au juste par “Meinster” ?
+? Désolé, j'ai oublié c'que j'viens de dire. Pour moi,
+les choses du passé sont plus vagues que l'futur.
+  ......
+  ^  Qu'entends-tu au juste^  par Meinster ?
 My Goddess. La mère de Mam'zelle Alice.
 Elle avait des surnoms comme la Sorcière au sang pur.
     Mais votre mère était une fashion victim.
