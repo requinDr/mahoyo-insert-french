@@ -29,7 +29,7 @@ SOJURO_LINES = [9020, 9028, 9033, 9034, 9036, 9041, 9044, 9045, 9048, 9049, 9057
                 9076, 9090, 9093, 9094, 9095, 9096, 9097, 9098, 9099, 9109, 9119, 9120, 9123, 9128, 9129,
                 9130, 9131, 9137, 9138, 9143, 9157, 9160, 9164, 9165]
 VOICES = {line: (416, f'A30_7_1B_{i:04d}') for i, line in enumerate(SOJURO_LINES)}
-VOICES.update({9161: (416, 'A30_7_1B_9000'), 9038: (416, 'A10_7_1B_0000'),
+VOICES.update({9151: (416, 'A30_7_1B_9000'), 9038: (416, 'A10_7_1B_0000'),
                9006: (424, 'BA0_7_1B_0000'), 9012: (424, 'BA0_7_1B_0001')})
 # The pump, shown as img1140 (see utils/steam/hidden_scene.py): half size of the original image
 # (775x1050) in units, and zoom of the smaller remaster image (930 pixels wide instead of 1453),
