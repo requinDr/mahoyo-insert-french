@@ -19684,8 +19684,8 @@ j'ai amené la caméra dans sa chambre.
   C'est juste une inversion de perspective,
   vous voyez ? Si l'invité n'vient pas, il n'y a qu'à
   venir faire l'émission dans sa chambre, non ?
-  ...... C'est bon, alors dépêche-toi de commencer. Finis ça
-  le plus rapidement possible, et va-t'en plus vite que la lumière.
+  ...... C'est bon, alors dépêche-toi de commencer. Finis ça le
+  plus rapidement possible, et va-t'en plus vite que la lumière.
     Uhaa, c't'embarrassant !
     C'est tordant !
         ........................... Pourquoi ?
@@ -19733,12 +19733,12 @@ Ainsi, on prend en général un chat, un oiseau ou une souris comme familier.
     ça entre dans quelle catégorie ?
     C'est un Automate adapté au combat. Mais à ce niveau,
     il s'agit davantage d'une sentinelle que d'un familier.
-    ...... Son concept même diffère fortement^    d'un familier classique. D'ailleurs, les familiers
-    assez intelligents pour interagir avec les humains
-    tels que toi sont aussi des exceptions.
-Mais les familiers de ce genre ne sont qu'un immense gâchis d'énergie.
-Leur coût en prana est trop élevé. En général, le Mage gagnerait
-à faire le travail lui-même ou à utiliser des ressources plus abordables.
+    ...... Son concept même diffère fortement d'un familier^    classique. D'ailleurs, les familiers assez intelligents
+    pour interagir avec les humains tels que toi
+    sont aussi des exceptions.
+Mais un tel familier n'est qu'un immense gâchis de prana. Son
+coût est excessif. En général, le Mage gagnerait à faire
+le travail lui-même ou à utiliser des matériaux moins chers.
     En d'autres termes,
     la fin ne justifie pas les moyens, hein.
         Hm ? Quelque part, ça veut dire que le familier^        est toujours plus faible que le Mage, hein.
@@ -19749,7 +19749,7 @@ Leur coût en prana est trop élevé. En général, le Mage gagnerait
     j'ai l'impression que ça va me rendre folle.
     Mam'zelle Alice. Vos paroles sont merveilleuses,
     mais pourquoi votre visage fait peur ?
-    Même s'il ne lui donne que 10% de ses propres capacités,
+    Même s'il ne lui donne que 10 % de ses propres capacités,
     il est très facile pour un Mage de créer un familier^    plus “fort” que lui-même.
     Tiens, pourquoi ne pas essayer de t'enfoncer
     un derringer dans le ventre une prochaine fois ?
@@ -19787,8 +19787,8 @@ J'ai l'intuition que j'aurai un grand rôle à jouer à Noël...!
   Elle peut à peine faire la nage du chien en natation,
   et ne sait faire ni de la barre fixe ni du vélo.
     Aux heures de sport, sa tâche est facile :^    rester assise à la lisière du campus.
-    Mais c'est pas grave ! Si j'sais tout ça, c'est
-    parc'que j'vous file pour prendre des photos !
+    Mais c'est pas grave !
+    Si j'sais tout ça, c'est parc'que j'vous file pour prendre des photos !
     My Angel ! Vous êtes juste magnifi...
 Hein ?!
             ...... Quelle insolence !
@@ -19820,9 +19820,9 @@ Hein ?!
     Au fait.
     C'est un détail sans importance,
     mais que faites-vous ici ? Et pourquoi ?
-  Il ne faut pas tomber dans la routine, non ? Même si c'est le coin
-  bonus, ce n'est pas une raison pour réutiliser les mêmes décors.
-  C'est contraire à mon éthique. On n'est pas dans un certain dojo.
+    Il ne faut pas tomber dans la routine, non ? Même si c'est
+    le coin bonus, je refuse de garder les mêmes décors. C'est
+    contraire à mon éthique. On n'est pas dans un certain dojo.
     C'est pour ça que vous avez changé de lieu.
     Je vois. J'ai à peu près compris.
     Cette opulence surprendrait même Mam'zelle Aoko.
@@ -19839,8 +19839,8 @@ Dès que j'ai le temps, je fais des Ploy.
   Ouaah. C'est à l'image
   des sorcières des contes de fées.
   Les Ploy se fabriquent dans une marmite ?
-    En fait, cette odeur, c'est du chocolat ?
-    Pas possible......
+        En fait, cette odeur,
+        c'est du chocolat ? Pas possible......
     Les Ploy étaient des pâtisseries――――?!
     ...... Toi alors. Tu es un Ploy, et pourtant, tu ne connais
     pas leur mécanisme ? Je ne voulais pas le reconnaître,
@@ -19908,9 +19908,9 @@ Elle avait des surnoms comme la Sorcière au sang pur.
  Guah ?!
         À la prochaine leçon, faisons un cours
         “Ploy Kickshaw, cas particuliers”.
-    Alors Robin, occupe-toi de la réservation
-    au restaurant. Quand tu auras fini, réchauffe
-    le chocolat. Et après, tu poliras le miroir.
+ Alors Robin, occupe-toi de la réservation au restaurant.
+ Quand tu auras fini, réchauffe le chocolat.
+ Et après, tu poliras le miroir.
   Et ensuite...... voyons. Écrase-toi contre
   un poteau électrique et meurs de façon théâtrale.
       Comme d'habitude, donc, hein !
@@ -20049,8 +20049,8 @@ alors la vache doit être une parodie du taureau.
     Évidemment.
     Diddle Diddle est à la base de ma Magie.
     En plongeant dans le sol, il renforce la nuit.
-    Une fois la nuit intensifiée, ma Magie,
-    les sorts de contes de fées, prend un sens tangible.
+Une fois la nuit intensifiée, ma Magie, les sorts
+de contes de fées, prend un sens tangible.
         Voilà les détails.
     Les endroits où il est utilisable sont plutôt limités.
     En ville, vos pouvoirs sont réduits de moitié,
@@ -20068,12 +20068,12 @@ alors la vache doit être une parodie du taureau.
     Ha ha. L'autre idiot a bien failli y rester de nombreuses fois.
     Il est tiré de “De l'autre côté du miroir”, c'est ça ?
     Oui. À l'origine, ce n'était qu'un embryon
-    doté d'un monde parallèle, mais il est resté^    endommagé pendant un certain temps.
+    doté d'un monde parallèle, mais il est^    resté endommagé pendant un certain temps.
     Ma mère et Tōko ont collaboré
     pour le réparer.
     ? Pourquoi faire ça ?
     My Goddess suffisait, non ?
-      Une règle stipule qu'une sorcière doit créer^      un Ploy suprême de son vivant.
+      Une règle stipule qu'une sorcière doit^      créer un Ploy suprême de son vivant.
     Selon Tōko, elle voulait sûrement reconstruire
     ce miroir pour en faire son chef-d'œuvre
     ultime. Cela dit, je ne sais trop quoi en penser.
@@ -20082,7 +20082,7 @@ posant le pion dessus, l'endroit correspondant devient la Forêt sans nom.
     C'est ce Ploy que j'ai utilisé pour le premier combat d'Aoko.
     Dans sa zone d'action, il suggère aux intrus qu'ils n'ont
     rien à faire là, agissant comme une répulsion, mais......
-  Ça n'a pas d'effet sur les durs de la^  comprenette, si je saisis bien.
+  Ça n'a pas d'effet sur les durs^  de la comprenette, si je saisis bien.
     ...... Exactement. Ce n'était pas ma faute,
     mais j'ai manqué de vigilance.
     La prochaine fois, je ferai plus attention.
@@ -20108,7 +20108,7 @@ Reprenons. Le Ploy suivant―――
     Il est basé sur Humpty Dumpty apparaissant
     dans une des comptines de Mother Goose.
       “Humpty Dumpty, assis sur un mur mal assuré,
-      préféra ignorer le roi lui disant d'en descendre.
+      préféra ignorer le roi lui intimant l'ordre d'en descendre.
  Ce dernier irrité ordonna à ses soldats de le déloger,
  mais ils ne purent atteindre l'œuf haut perché.
     Le roi fatigué laissa Humpty Dumpty en paix.
@@ -20152,14 +20152,14 @@ Chef, l'addition s'il vous plaît.
   et me voilà chez un trafiquant de Ploy Kickshaw.
   Le vieux quartier de Misaki, c'est vraiment l'enfer.
     OK, partons de la droite.
-    C'est quoi,^    cette espèce de boîte à bijoux ?
+    C'est quoi, cette espèce^    de boîte à bijoux ?
     C'est la Chanson à 6 pence.
     Jack in The Box,
     ou encore Six Sing Chocolate.
     Il a peut-être l'air faible,^    mais c'est un Ploy extrêmement utile.
     Rien à voir avec un certain oiseau ici présent.
-  Évidemment !
-  Les oiseaux sont des familiers capables et élégants.
+  Évidemment ! Les oiseaux
+  sont des familiers capables et élégants.
       Même moi,
       je connais la Chanson à 6 pence.
       Grâce à des amis oiseaux.
@@ -20168,7 +20168,7 @@ Chef, l'addition s'il vous plaît.
     24 oiseaux noirs, dans la tourte grillés~♪』
     ... Hmm. J'comprends pas pourquoi on massacre
     les oiseaux sans raison. Qu'est-ce qu'ils avaient
-    contre les oiseaux, ces nordiques ?
+    contre les oiseaux, ces Occidentaux?
       Dans la suite, on a aussi :
       “Le roi, son argent comptait,
       la reine, de tartines au miel s'empiffrait.”
@@ -20240,8 +20240,8 @@ Kya !
   ...... Compris ? C'est une règle qui permet de créer
   un nouveau mot à partir de plusieurs sens différents.
   C'est de là que vient la polysémie de l'Œil Mystique.
-    Humpty n'a pas servi à proprement parler^    de modèle pour lui,
-    mais “elle” a choisi ce nom en son honneur.
+    Humpty n'a pas servi à proprement parler^    de modèle pour lui, mais “elle” a choisi
+    ce nom en son honneur.
     Hmm. J'viens d'y penser, mais associer
     “première édition limitée” et “édition normale”,
     ça donne quoi ?
@@ -20342,8 +20342,8 @@ Dans la chanson du Pont de Londres.
       Comment ! Moi qui vous croyais invulnérable,
       vous cachez donc des points faibles......
     Ah, non, en y repensant,
-    vous n'êtes pas si invulnérable que ça ! Vous perdez souvent !
-    Comme moi, quoi !
+    vous n'êtes pas si invulnérable que ça !
+    Vous perdez souvent ! Comme moi, quoi !
     Mais au fait, si j'comprends bien les rumeurs,
     Thames Troll serait le meilleur golem au monde.
     Il est fort à quel point, à son niveau maximum ?
@@ -20391,8 +20391,8 @@ Pourtant, j'ai dit des tas de choses.
     Par ordre ? Pas par numéro, plutôt ?
     Vous n'donniez pas de nom par paresse...
     par simplicité plutôt, mais pourquoi les nommer par ordre ?
-Eh bien, si je leur avais attribué des numéros fixes^arbitrairement, cela aurait pu être mal interprété, non ?
-Alors que mon affection ou leurs forces changeaient constamment.
+Eh bien, si je leur avais attribué des numéros fixes^arbitrairement, cela aurait pu être mal interprété, non ? Alors
+que mon affection ou leurs forces changeaient constamment.
     De fait, leur ordre était modifié en fonction
     de mon humeur. Diddle était toujours le premier.
     Thames était en général troisième ou quatrième.
@@ -20416,7 +20416,7 @@ Alors que mon affection ou leurs forces changeaient constamment.
     ...... On dit que le nom est le reflet de l'âme, vois-tu ?
     Je pensais que les classer selon mon humeur était^    plus simple que d'employer des noms extravagants, mais...
     『On ne peut pas deviner ton état d'esprit. Dis-toi que^     mon destin peut dépendre de tes mystérieuses humeurs.』
-『Et puis, ce genre de noms sera bientôt à la mode.^ C'est certain. Même si on en aura sûrement rapidement assez.』
+『Et puis, ce genre de noms sera bientôt à la mode. C'est^ certain. Même si on en aura sûrement rapidement assez.』
 『Quitte à leur donner des noms, autant que ça en jette. Ce sont^ nos créations originales, ne pas suivre la mode serait du gâchis.』
   Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous^  les retenir, mais je ne me suis plus jamais trompée après ça.
   C'est un peu comme l'œuf de Colomb.
@@ -20429,7 +20429,7 @@ Alors que mon affection ou leurs forces changeaient constamment.
     Snark est quel genre de Ploy ?
     Les points essentiels sont mentionnés dans l'histoire
     principale. Les données détaillées sont les suivantes :
-  Hum. Et cette huile précieuse,
+    Hum. Et cette huile précieuse,
     Mam'zelle Aoko l'a brûlée.
     On n'peut pas le restaurer ?
       Malheureusement, c'est impossible.
@@ -20459,7 +20459,7 @@ Ha ha. C'est donc pas pour le manger.
   mais ce sera pour une prochaine fois.
           À vous tous qui avez pris plaisir à suivre
           la longue histoire principale, mais également
-          la compilation bonus qui a aussi traîné en longueur.
+          la compilation bonus qui a aussi traîné en longueur :
   “Mahōtsukai no Yoru” est fini pour le moment.
   La suite arrivera un jour, quelque part, lorsque
   les étoiles filantes tomberont et scintilleront dans vos cœurs.
