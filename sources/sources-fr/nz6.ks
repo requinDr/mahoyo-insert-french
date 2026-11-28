@@ -25,7 +25,7 @@
 　de mon attachement envers eux, 1er, 2e, etc.
 *page8|
 　Par ordre ? Pas par numéro, plutôt ?[r]
-　Vous n'donniez pas de nom par paresse... [r]　par simplicité plutôt, mais pourquoi les nommer par ordre ?
+　Vous n'donniez pas de nom par paresse...[r]　par simplicité plutôt, mais pourquoi les nommer par ordre ?
 *page9|
 　Eh bien, si je leur avais attribué des numéros fixes[r]　arbitrairement, cela aurait pu être mal interprété, non ? Alors[r]
 　que mon affection ou leurs forces changeaient constamment.
@@ -61,14 +61,14 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　...... On dit que le nom est le reflet de l'âme, vois-tu ?[r]
 　Je pensais que les classer selon mon humeur était[r]　plus simple que d'employer des noms extravagants, mais...
 *page20|
-『On ne peut pas deviner ton état d'esprit. Dis-toi que [r]　mon destin peut dépendre de tes mystérieuses humeurs.』
+『On ne peut pas deviner ton état d'esprit. Dis-toi que[r]　mon destin peut dépendre de tes mystérieuses humeurs.』
 *page21|
 『Et puis, ce genre de noms sera bientôt à la mode. C'est[r]
-　certain. Même si on en aura sûrement rapidement assez.』
+　certain. Même si les gens se lasseront sans doute très vite.』
 *page22|
-『Quitte à leur donner des noms, autant que ça en jette.[r]　Ce sont nos créations originales,[r]　ne pas suivre la mode serait du gâchis.』
+『Quitte à leur donner des noms, autant que ça en jette.[r]　C'est notre création, ne pas être tendance serait du gâchis.』
 *page23|
-　Depuis, j'appelle les Ploy par des noms.[r]　Ça a été dur de tous les retenir,[r]　mais je ne me suis plus jamais trompée après ça.
+　Depuis, j'appelle les Ploy par des noms. Ce fut dur de[r]　les retenir, mais je ne me suis plus jamais trompée après ça.
 *page24|
 　C'est un peu comme l'œuf de Colomb.[r]
 　Quelle flexibilité d'inspiration, ou plutôt d'originalité.[r]
@@ -93,22 +93,22 @@ Après ça, elle m'a proposé de donner des noms aux Ploy.[r]Avec les yeux bours
 　Malheureusement, c'est impossible.[r]
 　Rien ne peut raffiner Snark à notre époque.
 *page32|
-　Et c'est ainsi que cet héritage culturel fut anéanti[r]　par une sauvage ne vivant qu'à l'instinct.[r]
-　Ha ha, c'est si drôle d'écraser la culture !
+　Et cet héritage culturel fut ainsi anéanti par une sauvage[r]
+　vivant à l'instinct. Ha ha, c'est si drôle d'écraser la culture !
 *page33|
 　Mais quand même, après le Négligent,[r]
 　c'est Snark qui y passe ! Ha ha, les Great Three ?[r]
 　Mon œil ! Ces Great Three sont trop faibles !
 *page34|
-　Moi, j'suis un Ploy qui sait y faire ! Je vais recycler[r]　ces déchets industriels ! Hé, le vendeur ![r]　Prépare des frites avec l'huile restante !
+Moi, j'suis un Ploy qui sait y faire ! J'vais recycler ces[r]déchets ! Hé, l'vendeur ! Fais des frites avec l'huile restante !
 *page35|
 　En voilà une bonne idée venant de toi, Robin.[r]
 　Je vais peut-être commander un poulet frit.
 *page36|
 　..................[r]
-　Le menu ne comporte qu'des hot-dogs, [r]　du pop-corn et des frites.
+　Le menu ne comporte qu'des hot-dogs,[r]　du pop-corn et des frites.
 *page37|
-　J'ai pour habitude d'vérifier le menu au cinéma. Et puis,[r]　le poulet frit a une odeur trop forte pour le cinéma.[r]　Ça gêne les autres clients.
+J'vérifie toujours le menu au cinéma. En plus, le poulet frit[r]a une odeur trop forte. Ça gêne les autres clients.
 *page38|
 　Je le sais. Mais rassure-toi.[r]
 　Je n'ai pas vraiment faim.[r]

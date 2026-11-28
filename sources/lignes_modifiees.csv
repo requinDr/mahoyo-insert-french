@@ -311,6 +311,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19833,,4,
 19837,,0,
 19838,,0,retour à la ligne saynète
+19842,,4,
+19843,,4,
 19844,,4,alignement saynète
 19848,,4,
 19849,,4,
@@ -329,7 +331,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19872,,4,alignement saynète
 19873,,4,alignement saynète
 19881,Je suis trop scrupuleuse pour l'exhiber devant l'Association<ra>des Mages afin d'en obtenir des privilèges et de l'argent.,,魔術協会に公開して権利と利益を得る、なんて低俗^な事はしていないから。
-19890,<ra>Qu'entends-tu au juste<ra>par Meinster ?,,
+19890,Qu'entends-tu au juste<ra>par Meinster ?,,
 19891,,0,alignement saynète
 19892,,0,alignement saynète
 19899,,2,alignement saynète
@@ -364,8 +366,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 19939,,2,alignement saynète
 19940,,2,alignement saynète
 19941,,6,alignement saynète
-19945,,2,"alignement saynète, supprime ""national"""
-19946,,2,alignement saynète
+19945,"Trois couleurs ensanglantées. Comme l'drapeau français, quoi.",2,"alignement saynète, supprime ""national"""
+19946,"Faute d'argent, j'me contenterai d'poulpe, d'œuf et d'inarizushi.",2,alignement saynète
 19947,Chef.,4,
 19948,,4,
 19949,,4,
@@ -428,6 +430,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20049,,4,
 20050,,4,
 20051,,4,
+20052,,4,
+20053,,4,
 20058,,4,
 20059,,4,
 20060,,4,
@@ -542,7 +546,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20256,,4,
 20257,,4,
 20260,,4,
-20264,"Comme tu le vois, il ne sert à rien au combat. Et puis, il est plutôt",0,
+20264,"Comme tu vois, il ne sert à rien au combat. Et puis, il est plutôt",0,
 20265,"laid, alors je n'aime pas trop le montrer... mais ça reste un souvenir.",0,alignement saynète
 20279,,2,
 20280,,2,
@@ -566,7 +570,7 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20307,,6,
 20310,,1,
 20311,,0,
-20312,,1,
+20312,,2,
 20313,Elle a été traduite en japonais<ra>et est même enseignée à l'école.,2,
 20314,Elle est donc très connue.,2,
 20317,"...... C'était un adversaire redoutable. Et puis,",2,
@@ -598,7 +602,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20365,,2,
 20366,,2,
 20367,,2,
-20371,"Exactement.<ra>Je t'avais prévenu, non ?",,
+20371,"Exactement. Je t'avais prévenu, non ?",0,
+20732,,0,
 20373,,0,
 20374,,0,
 20375,,0,
@@ -620,8 +625,8 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20393,"par simplicité plutôt, mais pourquoi les nommer par ordre ?",4,
 20394,"Eh bien, si je leur avais attribué des numéros fixes<ra>arbitrairement, cela aurait pu être mal interprété, non ? Alors",0,
 20395,que mon affection ou leurs forces changeaient constamment.,0,どれが強いか、どれが好きかなんて、日によって変わるのだし。
-20403,,2,
-20404,,2,
+20403,,3,
+20404,,3,
 20405,"Conformément à sa demande, je lui ai prêté",4,
 20406,le Ploy que j'avais nommé “sixième” ce jour-là.,4,
 20407,,4,
@@ -635,9 +640,9 @@ Ligne,Traduction,Espaces placés au début,Révision 2022 (pour référence)
 20415,『Celui-ci est Sweets Hearts. Lui Scripps Humpty.<ra> Celui-là Diddle Diddle. Et lui Flat Snark.<ra> Compris ? Appelle-les comme ça dorénavant.』,,『これはスイーツハーツ。これはスクリプス・ハンプティ。これはディドルディドル。これはフラットスナーク。いい。これからはこの名前で統一するのよ』
 20417,"Je pensais que les classer selon mon humeur était<ra>plus simple que d'employer des noms extravagants, mais...",,
 20418,『On ne peut pas deviner ton état d'esprit. Dis-toi que<ra> mon destin peut dépendre de tes mystérieuses humeurs.』,4,
-20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est<ra> certain. Même si on en aura sûrement rapidement assez.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
-20420,"『Quitte à leur donner des noms, autant que ça en jette. Ce sont<ra> nos créations originales, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
-20421,"Depuis, j'appelle les Ploy par des noms. Ça a été dur de tous<ra>les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
+20419,"『Et puis, ce genre de noms sera bientôt à la mode. C'est<ra>  certain. Même si les gens se lasseront sans doute très vite.』",0,『それに近い将来、こういう名前がトレンドになる時代がくるから。絶対。すぐに飽きられるだろうけど』
+20420,"『Quitte à leur donner des noms, autant que ça en jette.<ra>  C'est notre création, ne pas suivre la mode serait du gâchis.』",0,『なんで、どうせつけるならイカした方がグッドでバッド。せっかくアタシたちだけのオリジナリティなのよ、ポップに流行らせなくちゃ大損だわ！』
+20421,"Depuis, j'appelle les Ploy par des noms. Ce fut dur de<ra>  les retenir, mais je ne me suis plus jamais trompée après ça.",,それ以来、わたしはプロイを名前で呼ぶようになった。いちいち名前を覚える手間はあったけれど、プロイを間違えるコトはなくなったわ。
 20425,,4,
 20426,,4,
 20427,,8,
